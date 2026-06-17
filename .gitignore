@@ -1,0 +1,9 @@
+# Track only exported Notion notes in this repo.
+# Ignore everything else (PDFs, videos, tools, secrets, IDE files).
+
+/*
+!/exports/
+!/exports/**
+
+!.gitignore
+!README.md
