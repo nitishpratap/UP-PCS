@@ -6,4 +6,6 @@
 !/exports/**
 
 !.gitignore
+!/pyq/
+!/pyq/**
 !README.md
