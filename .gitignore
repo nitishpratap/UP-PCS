@@ -9,3 +9,5 @@
 !/pyq/
 !/pyq/**
 !README.md
+!/active-recall-prompt/
+!/active-recall-prompt/**
