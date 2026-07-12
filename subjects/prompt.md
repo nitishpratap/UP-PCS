@@ -493,7 +493,7 @@ Every cell must be ✅ before marking complete.
 | **> Exam note:** callouts | Flag traps directly where concept is taught |
 | **Numbered PYQs with explanation** | Full question → answer → why wrong options fail |
 | **UPPCS 2025 Practice Zone format** | Statements, A/R, matching — not simple one-liners only |
-| **Collapsible Practice Zone answers** | Wrap every `**Ans:**` in `<details><summary>Show answer</summary>` — hidden until clicked |
+| **Collapsible Practice Zone answers** | Use `<details>` in markdown; import converts to Notion **toggle** blocks |
 | **Hindi terms** | Third column in term comparisons; key trap words in Hindi |
 | **Indian/UP examples** | Kanpur, Ballia, Ghaziabad, Gomti-Lucknow, Dudhwa, etc. |
 | **One consolidated reference** | Acts/Orgs repeated 14× = student skips reading |
@@ -647,7 +647,9 @@ Each scheme entry: **Launch year + Nodal ministry + One-line objective + Common 
 - Options: A / B / C / D
 - **Ans:** with 1–2 line explanation including **why wrong options fail** — **hidden inside a collapsible block** (see below)
 
-**Collapsible answers (mandatory):** Practice Zone is for self-testing. Answers must not be visible on first read. Wrap every answer in HTML `<details>` / `<summary>` — works in Cursor, VS Code, and GitHub Markdown preview.
+**Collapsible answers (mandatory):** Practice Zone is for self-testing. Answers must not be visible on first read.
+
+Use HTML `<details>` / `<summary>` in the markdown file — works in **Cursor / VS Code** preview. On **Notion import**, `markdown-to-blocks.js` auto-converts each `<details>` block to a native **toggle block** (click to expand). Do not rely on raw HTML in Notion; it renders as plain text.
 
 Add this line once under the Practice Zone header:
 `> **Answers hidden** — click *Show answer* under each question to reveal.`
@@ -673,7 +675,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 </details>
 ```
 
-> **Do not** use `<details>` for inline PYQs in N.X sections — only Practice Zone answers are hidden. PYQ sections stay visible for revision.
+> **Notion note:** Re-import after editing Practice Zone (`node src/import-env-ecology.js --force --file=NN_....md`) so toggles update.
 
 ### 5. Complete PYQ Bank
 
