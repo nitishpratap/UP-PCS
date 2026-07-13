@@ -91,7 +91,7 @@ These are the gaps that made Topic 1 *look* incomplete. The AI must check each o
 | 3 | **Traps ↔ Dates sync** | WWD 3 March in traps but missing from Important Dates | Every trapped date in Consolidated Reference |
 | 4 | **Paired concepts together** | Liebig without Shelford | Both laws in same subtopic with distinction |
 | 5 | **Definitions in every N.X** | 1.3 starts with "Why Classify?" only | Definitions table then How It Works |
-| 6 | **Mechanism prose mandatory** | 5 tables, zero paragraphs | 2–4 paragraphs per subtopic before tables |
+| 6 | **Mechanism content mandatory (point-wise)** | 5 tables, zero explanation | Point-wise bullets per subtopic (≥8 substantive points) before tables |
 | 7 | **UP Focus when applicable** | Kanpur pollution omitted in Topic 9 | UP Focus table in Consolidated Reference |
 | 8 | **PYQ mined, not invented** | Generic "UPPCS asked this" | Full question text from pyq/ folder |
 | 9 | **Practice mirrors 2025 format** | All simple MCQs | ≥40% multi-statement; mix A/R, matching |
@@ -106,7 +106,7 @@ Every subtopic section must include **all** rows that apply:
 | Block | Required? | Minimum |
 |-------|-----------|---------|
 | `### Definitions` | Yes (if concept has variants) | General + NCERT + Legal/UNEP where applicable |
-| `### [Name] — How It Works` | **Always** | 2–4 paragraphs: mechanism, cause→effect, why it matters |
+| `### [Name] — How It Works` | **Always** | **Point-wise bullets** (not paragraph blocks): ≥8 substantive points covering mechanism, cause→effect, why it matters |
 | `> **Exam note:**` | **Always** | ≥1 per subtopic; flag the most-tested trap |
 | Supporting tables | If classifying/comparing | Complete lists; max 1–3 tables per concept block |
 | `### Exam Facts (raata)` | **Always** | 5–15 bullets |
@@ -164,14 +164,14 @@ If **any** of these are true, the file is **NOT complete**:
 | # | Fail condition |
 |---|----------------|
 | F1 | Any `00_Syllabus.md` bullet for this topic lacks an N.X section |
-| F2 | Any N.X lacks `How It Works` prose (2+ paragraphs) |
+| F2 | Any N.X lacks `How It Works` point-wise bullets (≥8 substantive points) |
 | F3 | Any N.X lacks `Exam Facts` + (`PYQs` or Practice question for that subtopic) |
 | F4 | Enumerated list uses "etc.", "…", or incomplete rows (biomes, zones, SDGs, Acts) |
 | F5 | 2025 paper overlap cited but concept not taught in the matching N.X prose |
 | F6 | Common Trap date/number not present in Consolidated Reference |
 | F7 | `> **Exam note:**` missing from any N.X |
 | F8 | Practice Zone is mostly simple MCQs (<40% multi-statement) |
-| F9 | PYQs are summary-table only (no full question text inline) |
+| F9 | PYQs or PYQ Bank use summary-table only (no full question text); PYQ Bank answers visible without `<details>` |
 | F10 | File says "complete" but Syllabus Coverage Checklist has any ❌ |
 | F11 | UP-relevant topic (geo/forest/river/pollution) lacks UP Focus table |
 | F12 | 4+ consecutive tables without prose between them |
@@ -234,13 +234,16 @@ UPPCS does **not** ask "umbrella law for pollution?" as a one-liner. It asks:
 ```
 → Student cannot answer a 2-statement UPPCS question from this.
 
-**Good output (required):**
+**Good output (required — point-wise, not paragraph blocks):**
 ```
 ### Definitions (learn all — exams pick different ones)
 [General | NCERT | Legal table]
 
-PM2.5 are particles ≤2.5 micrometres. They penetrate deepest into lungs because...
-BOD measures oxygen consumed when microbes decompose organic waste. Higher BOD means...
+### [Topic] — How It Works
+
+- **PM2.5** are particles ≤2.5 micrometres — penetrate deepest into lungs because of small size.
+- **BOD** measures oxygen consumed when microbes decompose organic waste; higher BOD = more pollution.
+- Cause → effect chain in bullets, not one dense paragraph.
 
 > **Exam note:** Statement "BOD measures air pollution" = FALSE trap.
 
@@ -249,9 +252,31 @@ BOD measures oxygen consumed when microbes decompose organic waste. Higher BOD m
    → Answer + 1-line why the wrong options fail
 ```
 
+**Bad output (reject — dense paragraph blocks):**
+```
+**Population ecology** tracks how single-species populations change over time. Key parameters: **birth rate, death rate, immigration, emigration, age structure, sex ratio**. Populations grow exponentially (J-curve) when resources are unlimited — rare in nature. Real populations follow **logistic growth** (S-curve), levelling off at **carrying capacity (K)** where birth rate equals death rate.
+```
+→ Same facts must appear as **scannable bullets** — one idea per point; bold only key terms; no material loss.
+
 ---
 
-## Syllabus Mapping Rules (mandatory)
+## Point-wise Format Rule (mandatory for all "How It Works" sections)
+
+**Do NOT write dense paragraph blocks** where multiple facts run together in one paragraph (even with bold terms). Break every mechanism into **scannable bullets** — one idea per point.
+
+| Rule | Requirement |
+|------|-------------|
+| **Format** | Markdown bullets (`-`) under `### [Name] — How It Works` |
+| **Density** | ≥8 substantive points per subtopic (mechanism, cause→effect, trap, example) |
+| **Bold** | Only exam-critical terms (names, numbers, laws) — not every word |
+| **No material loss** | Convert paragraph content to bullets; do not shorten facts to fit format |
+| **Nested bullets** | OK for sub-types (grazing vs detritus chain); not for hiding paragraphs |
+| **Tables** | Still follow bullets — max 1–3 tables after point-wise explanation |
+
+**Reject:** Single 150-word paragraph with 6 bold terms.  
+**Accept:** 10 bullets, each 1–2 lines, same facts, easier to raata.
+
+---
 
 Before writing, **list every subtopic** from `00_Syllabus.md` for that topic number. Map 1:1 to section numbers.
 
@@ -328,7 +353,7 @@ Do **not** rely only on inline memory. For each topic:
 2. Search `pyq/2024/` and any other year folders.
 3. Include **UPPCS Prelims** first; add **UPSC Prelims** where concept overlaps.
 4. Minimum PYQs per subtopic: **2 UPPCS** if available, else **1 UPPCS + 1 UPSC**.
-5. Tag every inline PYQ with exam + year; add to Complete PYQ Bank at end.
+5. Tag every inline PYQ with exam + year; add **full question text** to Complete PYQ Bank at end (answer hidden in `<details>`).
 
 **Map PYQ subjects loosely to syllabus topics** — e.g. "Forestry / ISFR 2023" → Topic 8; "Lichens" → Topic 4 or 21; "LiFE" → Topic 24 or 15.
 
@@ -349,10 +374,10 @@ Phase C: Post-audit → run F1–F15 fail conditions + Quality Checklist; fix al
 Rules:
 1. List every subtopic from 00_Syllabus.md — map each to N.X (no skips).
 2. Match EXPLANATION DEPTH of 01_Environment_Basics.md — prose + tables, not table-only.
-3. Every N.X needs: Definitions (if applicable) + How It Works (2–4 para) + Exam note + Exam Facts + PYQs + Examples.
+3. Every N.X needs: Definitions (if applicable) + How It Works (**point-wise bullets**, ≥8 points) + Exam note + Exam Facts + PYQs + Examples.
 4. No "etc." — all enumerated lists must be complete (biomes, zones, categories).
 5. Every 2025 paper overlap concept must appear in N.X prose, not only Practice Zone.
-6. PYQs: mine pyq/ folder; full question text + answer + why.
+6. PYQs: mine pyq/ folder; full question text inline + Complete PYQ Bank self-test cards (exam+year in header, answers in `<details>`).
 7. Practice Zone: scaled count (25–50); UPPCS 2025 format mix (≥40% multi-statement); answers in `<details>` blocks.
 8. Hindi terms in Must-Know Term Comparisons.
 9. UP Focus table if topic touches UP geography/forests/wildlife/rivers/pollution.
@@ -460,7 +485,7 @@ Every cell must be ✅ before marking complete.
 ---
 
 ## Complete PYQ Bank (Topic N)
-[Master index — every inline PYQ listed]
+[Self-test cards — full question text, exam+year in header, answers in `<details>` toggles]
 
 ---
 
@@ -487,9 +512,9 @@ Every cell must be ✅ before marking complete.
 
 | Rule | Why |
 |------|-----|
-| **Write like Topic 1** | Prose + tables together; definitions from multiple sources |
-| **Explain mechanisms** | UPPCS tests understanding via 2-statement questions |
-| **"How It Works" prose** | Student must know *why* warm water reduces DO, not just that it does |
+| **Write like Topic 1** | Point-wise bullets + tables together; definitions from multiple sources |
+| **Explain mechanisms** | UPPCS tests understanding via 2-statement questions — use cause→effect bullet chains |
+| **"How It Works" point-wise bullets** | Student must know *why* warm water reduces DO — one mechanism per bullet, not paragraph soup |
 | **> Exam note:** callouts | Flag traps directly where concept is taught |
 | **Numbered PYQs with explanation** | Full question → answer → why wrong options fail |
 | **UPPCS 2025 Practice Zone format** | Statements, A/R, matching — not simple one-liners only |
@@ -506,8 +531,8 @@ Every cell must be ✅ before marking complete.
 
 | Anti-pattern | Why it fails |
 |--------------|--------------|
-| **Table soup** — 5+ consecutive tables, zero prose | Cannot answer UPPCS statement questions |
-| **PYQ summary tables only** (`\| UPPCS 2018 \| answer \|`) | Disconnected from exam question wording |
+| **Table soup** — 5+ consecutive tables, zero point-wise explanation | Cannot answer UPPCS statement questions |
+| **PYQ summary tables only** (`\| UPPCS 2018 \| answer \|`) or PYQ Bank as index table | Disconnected from exam wording; student cannot self-test |
 | **Simple MCQs only** (`Q1. Umbrella law? (a)(b)(c)(d)`) | UPPCS 2025 uses multi-statement + A/R |
 | **Visible Practice Zone answers** | Spoils self-test — answers must be inside `<details>` blocks |
 | **Facts without cause–effect** | A/R questions need logical chains |
@@ -525,7 +550,7 @@ Every cell must be ✅ before marking complete.
 | Element | Minimum | Purpose |
 |---------|---------|---------|
 | **Definitions table** | 1 (if concept has legal/NCERT variants) | UPPCS picks different wordings |
-| **Prose paragraphs** | 2–4 short paragraphs | Mechanism, cause–effect, context |
+| **Prose paragraphs** | **Point-wise bullets** (≥8 substantive points per subtopic) | Mechanism, cause–effect, context — scannable for raata |
 | **Supporting tables** | 1–3 max | Classify/compare — not standalone |
 | **Exam note callouts** | 1–2 | Trap flags inline |
 | **Numbered PYQs** | 2 UPPCS or 1 UPPCS + 1 UPSC | Full text + explanation |
@@ -591,7 +616,10 @@ After "How to Use", map **this topic** to UPPCS 2025 patterns. Reference real qu
 | Legal/UNEP | … |
 
 ### [Topic] — How It Works
-[2–4 paragraphs explaining mechanism, process, cause–effect]
+
+- **Key term** — one mechanism or cause→effect per bullet; bold only exam-critical words.
+- Continue until ≥8 substantive points (mechanism, trap, UP example where relevant).
+- Use nested bullets only for sub-types (e.g. grazing vs detritus chain) — not for hiding paragraphs.
 
 > **Exam note:** [Trap or most-asked fact]
 
@@ -615,8 +643,8 @@ After "How to Use", map **this topic** to UPPCS 2025 patterns. Reference real qu
 
 **Copy the voice of `01_Environment_Basics.md` sections 1.1–1.4:**
 - "Why Classify?" style headings
-- Liebig's Law style — rule + examples in prose
-- Lentic/Lotic with memory trick in prose, not table-only
+- Liebig's Law style — rule + examples in **point-wise bullets**, not dense paragraphs
+- Lentic/Lotic with memory trick in bullets, not table-only
 
 ### 3. Consolidated Reference
 
@@ -677,11 +705,43 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 > **Notion note:** Re-import after editing Practice Zone (`node src/import-env-ecology.js --force --file=NN_....md`) so toggles update.
 
-### 5. Complete PYQ Bank
+### 5. Complete PYQ Bank — Self-Test Format (mandatory)
 
-Master index at end. Inline PYQs use **numbered full text**; bank summarizes:
+**Not a summary table.** Every PYQ referenced inline must appear here as a **full self-test card** with hidden answer.
 
-| # | Exam | Yr | Subtopic | Question summary | Answer |
+Add once under the PYQ Bank header:
+`> **Answers hidden** — click *Show answer* under each question to reveal.`
+
+**Format per question:**
+
+```markdown
+**Q1. UPPCS Prelims 2024**
+
+[Full question text — statements, options, match lists as in actual paper]
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — 1-line why + why wrong options fail.
+
+</details>
+
+---
+```
+
+**Rules:**
+
+| Rule | Requirement |
+|------|-------------|
+| **Header** | `**Q{N}. {Exam} {Year}**` — exam + year in **one label** (e.g. `UPPCS Prelims 2024`, `UPSC Prelims 2016`) |
+| **No subtopic column** | Do not tag by §N.X — student tests recall, not section lookup |
+| **Full question text** | Mine from `pyq/` when available; reconstruct for pattern PYQs from inline wording |
+| **Hidden answer** | Wrap in `<details><summary>Show answer</summary>` — same toggle as Practice Zone |
+| **Coverage** | Include **every** deduplicated question from inline PYQ sections |
+| **Order** | UPPCS first (newest year first), then UPSC; numbered Q1, Q2… |
+| **Pattern PYQs** | Header suffix `— pattern` if not verbatim from `pyq/` folder |
+
+**Reject:** `| # | Exam | Yr | Subtopic | Question summary | Answer |` summary tables.
 
 ### 6. Mains Answer Framework
 
@@ -710,7 +770,7 @@ Each framework: **Question title → Structure (word count) → 5–7 bullet poi
 
 ### Content depth
 - [ ] Every subtopic has **Definitions** table (where applicable) **(F7)**
-- [ ] Every subtopic has **2+ prose paragraphs** in How It Works **(F2)**
+- [ ] Every subtopic has **point-wise How It Works bullets** (≥8 substantive points) **(F2)**
 - [ ] Every subtopic has **≥1 Exam note** callout **(F7)**
 - [ ] No section has **4+ consecutive tables** without prose **(F12)**
 - [ ] No "etc." or incomplete enumerated lists **(F4)**
@@ -723,7 +783,7 @@ Each framework: **Question title → Structure (word count) → 5–7 bullet poi
 - [ ] Practice Zone ≥40% multi-statement **(F8)**
 - [ ] Practice Zone answers wrapped in `<details><summary>Show answer</summary>` (hidden until click)
 - [ ] Practice count matches topic size (25–50)
-- [ ] PYQs mined from `pyq/` — full text + explanation **(F9)**
+- [ ] PYQs mined from `pyq/` — full text inline + PYQ Bank self-test cards with hidden answers **(F9)**
 - [ ] Hindi column in Must-Know Term Comparisons **(F14)**
 
 ### UP & completeness
@@ -824,7 +884,7 @@ Work on Topic 2 only. Wait for my approval before Topic 3.
 |-------|------|-----------|--------|-------|
 | 1 | `01_Environment_Basics.md` | 4 | ✅ Complete (July 2026 audit) | Syllabus map + UP Focus + full biomes |
 | 2 | `02_Ecology_and_Ecosystem.md` | 16 | Restructure | Largest concept topic |
-| 3 | `03_Food_Chain_and_Energy_Flow.md` | 5 | Restructure | 10% rule, pyramids — high PYQ |
+| 3 | `03_Food_Chain_and_Energy_Flow.md` | 5 | ✅ Complete (July 2026) | 10% rule, pyramids — high PYQ; point-wise format |
 | 4 | `04_Biodiversity.md` | 22 | Restructure | Species categories need N.15+ |
 | 5 | `05_Habitat_Flora_and_Fauna.md` | 3 | Restructure | UP flora/fauna |
 | 6 | `06_Protected_Areas_and_Conservation.md` | 11 | Restructure | UP Ramsar, NP matching |

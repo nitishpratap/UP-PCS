@@ -1455,7 +1455,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Ecology = study; Ecosystem = functional unit. Not synonymous.
+**Ans: A** — Ecology = study; Ecosystem = functional unit. Not synonymous.
 
 </details>
 
@@ -1472,7 +1472,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Organ is anatomical, not ecological level.
+**Ans: A** — Organ is anatomical, not ecological level.
 
 </details>
 
@@ -1489,7 +1489,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Tansley 1935 correct. Energy flow is **unidirectional** (not cyclic); nutrients cycle.
+**Ans: A** — Tansley 1935 correct. Energy flow is **unidirectional** (not cyclic); nutrients cycle.
 
 </details>
 
@@ -1506,7 +1506,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both NCERT facts (UPPCS 2025 Q5).
+**Ans: C** — Both NCERT facts (UPPCS 2025 Q5).
 
 </details>
 
@@ -1523,7 +1523,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both correct (UPPCS 2024 Q9 logic).
+**Ans: C** — Both correct (UPPCS 2024 Q9 logic).
 
 </details>
 
@@ -1540,7 +1540,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both correct.
+**Ans: C** — Both correct.
 
 </details>
 
@@ -1557,7 +1557,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Edaphic = soil (true). Humus is **organic** (biotic-origin) — NOT abiotic.
+**Ans: A** — Edaphic = soil (true). Humus is **organic** (biotic-origin) — NOT abiotic.
 
 </details>
 
@@ -1574,7 +1574,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both correct.
+**Ans: C** — Both correct.
 
 </details>
 
@@ -1591,7 +1591,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — UPPCS 2025 Q61: indicators yes; grow well in pollution = false.
+**Ans: A** — UPPCS 2025 Q61: indicators yes; grow well in pollution = false.
 
 </details>
 
@@ -1608,7 +1608,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both correctly classified.
+**Ans: C** — Both correctly classified.
 
 </details>
 
@@ -1625,7 +1625,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both correct.
+**Ans: C** — Both correct.
 
 </details>
 
@@ -1642,7 +1642,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both correct.
+**Ans: C** — Both correct.
 
 </details>
 
@@ -1659,7 +1659,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Permafrost in tundra/taiga (UPSC 2013). Savanna has no permafrost.
+**Ans: A** — Permafrost in tundra/taiga (UPSC 2013). Savanna has no permafrost.
 
 </details>
 
@@ -1676,7 +1676,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both correct (paired principles).
+**Ans: C** — Both correct (paired principles).
 
 </details>
 
@@ -1693,7 +1693,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Mutualism (+/+) true. Commensalism = one benefits, other **unaffected** (not harmed).
+**Ans: A** — Mutualism (+/+) true. Commensalism = one benefits, other **unaffected** (not harmed).
 
 </details>
 
@@ -1710,7 +1710,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both correct.
+**Ans: C** — Both correct.
 
 </details>
 
@@ -1727,7 +1727,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both correct.
+**Ans: C** — Both correct.
 
 </details>
 
@@ -1744,7 +1744,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Mangroves are **transitional** coastal (not purely terrestrial). Found in tropical/subtropical coasts.
+**Ans: B** — Mangroves are **transitional** coastal (not purely terrestrial). Found in tropical/subtropical coasts.
 
 </details>
 
@@ -1761,7 +1761,7 @@ A. Both A and R true; R explains A  B. Both true; R does not explain A  C. A tru
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Succession proceeds because pioneers change conditions (reaction phase) toward climax.
+**Ans: A** — Succession proceeds because pioneers change conditions (reaction phase) toward climax.
 
 </details>
 
@@ -1776,7 +1776,7 @@ A. Both A and R true; R explains A  B. Both true; R does not explain A  C. A tru
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — A true (Lindeman). R false — energy is **not created** at each level; it is transferred and lost as heat.
+**Ans: C** — A true (Lindeman). R false — energy is **not created** at each level; it is transferred and lost as heat.
 
 </details>
 
@@ -1791,7 +1791,7 @@ A. Both A and R true; R explains A  B. Both true; R does not explain A  C. A tru
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — A true (UPPCS 2025 Q61). R false — lichens **die** in polluted air; they don't thrive.
+**Ans: C** — A true (UPPCS 2025 Q61). R false — lichens **die** in polluted air; they don't thrive.
 
 </details>
 
@@ -1806,7 +1806,7 @@ A. Both A and R true; R explains A  B. Both true; R does not explain A  C. A tru
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — NPP = GPP − R; consumers depend on NPP, not total GPP.
+**Ans: A** — NPP = GPP − R; consumers depend on NPP, not total GPP.
 
 </details>
 
@@ -1821,7 +1821,7 @@ A. Both A and R true; R explains A  B. Both true; R does not explain A  C. A tru
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Gause's law directly explains competitive exclusion.
+**Ans: A** — Gause's law directly explains competitive exclusion.
 
 </details>
 
@@ -1836,7 +1836,7 @@ A. Both A and R true; R explains A  B. Both true; R does not explain A  C. A tru
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Pre-existing soil speeds secondary succession.
+**Ans: A** — Pre-existing soil speeds secondary succession.
 
 </details>
 
@@ -1851,7 +1851,7 @@ A. Both A and R true; R explains A  B. Both true; R does not explain A  C. A tru
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — A false (H-W = **no evolution**). R true (conditions listed correctly).
+**Ans: D** — A false (H-W = **no evolution**). R true (conditions listed correctly).
 
 </details>
 
@@ -1876,7 +1876,7 @@ A. 2 3 4 1  B. 3 2 1 4  C. 2 3 1 4  D. 4 3 2 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Ecology-2, Ecosystem-3, Habitat-4, Niche-1.
+**Ans: A** — Ecology-2, Ecosystem-3, Habitat-4, Niche-1.
 
 </details>
 
@@ -1899,7 +1899,7 @@ A. 2 3 4 1  B. 3 2 1 4  C. 2 3 1 4  D. 1 3 2 4
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Lentic-2, Lotic-3, Mangrove-4, Desert-1.
+**Ans: A** — Lentic-2, Lotic-3, Mangrove-4, Desert-1.
 
 </details>
 
@@ -1922,7 +1922,7 @@ A. 2 4 3 1  B. 4 2 3 1  C. 2 3 4 1  D. 3 2 1 4
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Migration-2, Ecesis-4, Reaction-3, Stabilisation-1 (UPPCS 2024 order).
+**Ans: A** — Migration-2, Ecesis-4, Reaction-3, Stabilisation-1 (UPPCS 2024 order).
 
 </details>
 
@@ -1945,7 +1945,7 @@ A. 2 4 3 1  B. 4 2 1 3  C. 2 4 1 3  D. 3 4 2 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — GPP-2, NPP-4, 1%-3, 10%-1.
+**Ans: A** — GPP-2, NPP-4, 1%-3, 10%-1.
 
 </details>
 
@@ -1968,7 +1968,7 @@ A. 3 4 2 1  B. 3 4 1 2  C. 2 4 3 1  D. 3 1 2 4
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Mutualism-3, Commensalism-4, Parasitism-2, Competition-1.
+**Ans: A** — Mutualism-3, Commensalism-4, Parasitism-2, Competition-1.
 
 </details>
 
@@ -1991,7 +1991,7 @@ A. 2 4 1 3  B. 4 2 3 1  C. 2 4 3 1  D. 1 2 4 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Provisioning-2, Regulating-4, Supporting-1, Cultural-3.
+**Ans: A** — Provisioning-2, Regulating-4, Supporting-1, Cultural-3.
 
 </details>
 
@@ -2014,7 +2014,7 @@ A. 4 2 3 1  B. 2 4 1 3  C. 4 2 1 3  D. 1 2 3 4
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Haeckel-4, Tansley-2, Lindeman-3, Ramdeo Misra-1.
+**Ans: A** — Haeckel-4, Tansley-2, Lindeman-3, Ramdeo Misra-1.
 
 </details>
 
@@ -2036,7 +2036,7 @@ A. Only 1  B. 1 and 2  C. 2 and 3  D. Only 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Lentic = **standing** water (NOT flowing). Lotic and Niche correct.
+**Ans: A** — Lentic = **standing** water (NOT flowing). Lotic and Niche correct.
 
 </details>
 
@@ -2056,7 +2056,7 @@ A. Only 1  B. 1 and 2  C. 2 and 3  D. Only 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Primary = **no soil** (pair 1 wrong). Pairs 2 and 3 correct.
+**Ans: A** — Primary = **no soil** (pair 1 wrong). Pairs 2 and 3 correct.
 
 </details>
 
@@ -2076,7 +2076,7 @@ A. Only 3  B. 1 and 2  C. 2 and 3  D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — 10% rule = **Lindeman** (not Darwin). Liebig and Shelford correct.
+**Ans: A** — 10% rule = **Lindeman** (not Darwin). Liebig and Shelford correct.
 
 </details>
 
@@ -2096,7 +2096,7 @@ A. Only 3  B. 1 and 2  C. 2 and 3  D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Keoladeo = **Rajasthan** (not UP). Sur Sarovar and Dudhwa correct.
+**Ans: A** — Keoladeo = **Rajasthan** (not UP). Sur Sarovar and Dudhwa correct.
 
 </details>
 
@@ -2116,7 +2116,7 @@ A. Only 1  B. 1 and 2  C. 2 and 3  D. Only 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — NPP = GPP **−** R (not +). Pairs 2 and 3 correct.
+**Ans: A** — NPP = GPP **−** R (not +). Pairs 2 and 3 correct.
 
 </details>
 
@@ -2135,7 +2135,7 @@ D. Reaction – Migration – Ecesis – Stabilisation
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — UPPCS 2024 Q26 (option D in original had same order).
+**Ans: B** — UPPCS 2024 Q26 (option D in original had same order).
 
 </details>
 
@@ -2153,7 +2153,7 @@ A. 1 – 3 – 2  B. 3 – 1 – 2  C. 2 – 3 – 1  D. 1 – 2 – 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Rainforest (highest) → Temperate → Desert (lowest).
+**Ans: A** — Rainforest (highest) → Temperate → Desert (lowest).
 
 </details>
 
@@ -2172,7 +2172,7 @@ A. 2 – 3 – 1 – 4  B. 3 – 2 – 1 – 4  C. 2 – 1 – 3 – 4  D. 1 –
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Haeckel **1866** → Tansley **1935** → Lindeman **1942** → MEA **2005**.
+**Ans: A** — Haeckel **1866** → Tansley **1935** → Lindeman **1942** → MEA **2005**.
 
 </details>
 
@@ -2187,7 +2187,7 @@ A. 2 – 3 – 1 – 4  B. 3 – 2 – 1 – 4  C. 2 – 1 – 3 – 4  D. 1 –
 <details>
 <summary>Show answer</summary>
 
-**Ans: (c)** — Chilika = **Odisha**. Others are in UP.
+**Ans: (c)** — Chilika = **Odisha**. Others are in UP.
 
 </details>
 
@@ -2200,7 +2200,7 @@ A. 2 – 3 – 1 – 4  B. 3 – 2 – 1 – 4  C. 2 – 1 – 3 – 4  D. 1 –
 <details>
 <summary>Show answer</summary>
 
-**Ans: (c)** — River = **lotic** (flowing). Others = lentic (standing).
+**Ans: (c)** — River = **lotic** (flowing). Others = lentic (standing).
 
 </details>
 
@@ -2213,7 +2213,7 @@ A. 2 – 3 – 1 – 4  B. 3 – 2 – 1 – 4  C. 2 – 1 – 3 – 4  D. 1 –
 <details>
 <summary>Show answer</summary>
 
-**Ans: (c)** — Timber = **provisioning** service. Others = supporting.
+**Ans: (c)** — Timber = **provisioning** service. Others = supporting.
 
 </details>
 
@@ -2228,7 +2228,7 @@ A. 2 – 3 – 1 – 4  B. 3 – 2 – 1 – 4  C. 2 – 1 – 3 – 4  D. 1 –
 <details>
 <summary>Show answer</summary>
 
-**Ans: (b)** — **A.G. Tansley (1935)**. Haeckel = ecology; Lindeman = 10% rule.
+**Ans: (b)** — **A.G. Tansley (1935)**. Haeckel = ecology; Lindeman = 10% rule.
 
 </details>
 
@@ -2241,7 +2241,7 @@ A. 2 – 3 – 1 – 4  B. 3 – 2 – 1 – 4  C. 2 – 1 – 3 – 4  D. 1 –
 <details>
 <summary>Show answer</summary>
 
-**Ans: (b)** — **Ramdeo Misra**. Odum = modern ecosystem ecology (global).
+**Ans: (b)** — **Ramdeo Misra**. Odum = modern ecosystem ecology (global).
 
 </details>
 
@@ -2249,23 +2249,265 @@ A. 2 – 3 – 1 – 4  B. 3 – 2 – 1 – 4  C. 2 – 1 – 3 – 4  D. 1 –
 
 ## Complete PYQ Bank (Topic 2 — All Questions)
 
-| # | Exam | Yr | Subtopic | Question summary | Answer |
-|---|------|----|----------|------------------|--------|
-| 1 | UPPCS | 2025 | 2.13/2.14 | Ecosystem 1% sunlight + 10% transfer | C (Both) |
-| 2 | UPPCS | 2025 | 2.11 | Lichens — pollution indicators | D (Only 1) |
-| 3 | UPPCS | 2024 | 2.8 | Ecological niche — NOT true statement | C (small species if resources sufficient) |
-| 4 | UPPCS | 2024 | 2.11 | Succession phases sequence | D (Migration→Ecesis→Reaction→Stabilisation) |
-| 5 | UPPCS | 2016 | 2.4 | Land-based ecosystem = terrestrial | Terrestrial |
-| 6 | UPPCS | 2019 | 2.5 | Lentic water bodies | Lake, pond |
-| 7 | UPPCS | 2017 | 2.7 | Abiotic components | Water, air, soil, light, temp |
-| 8 | UPPCS | 2020 | 2.7 | Nitrogen fixation — Rhizobium | Rhizobium |
-| 9 | UPPCS | 2018 | 2.7 | Soil abiotic — humus trap | Minerals, water, air (humus = organic) |
-| 10 | UPSC | 2016 | 2.14 | Food chain 10% energy transfer | ~10% rule |
-| 11 | UPSC | 2013 | 2.4 | Permafrost in taiga + tundra | Taiga + Tundra |
-| 12 | UPSC | 2020 | 2.3 | Terrestrial: desert + rainforest; not mangrove | Desert, Rainforest |
-| 13 | UPSC | 2017 | 2.5 | Mangrove location | Tropical/subtropical coasts |
-| 14 | UPSC | 2014 | 2.7/2.17 | Legumes + urea add nitrogen | Both add N |
-| 15 | UPSC | 2011 | 2.1 | Ecology = study of interactions | Ecology definition |
+> **Answers hidden** — click *Show answer* under each question to reveal.
+
+**Q1. UPPCS Prelims 2025**
+
+With reference to 'Ecosystem', which of the following statements is/are correct?
+
+1. Green plants in terrestrial ecosystem capture about 1% of energy of the sunlight that falls on their leaves.
+2. Around 10% of organic matter reaches to the next higher level of consumers.
+
+Select the correct answer from the code given below:
+
+Options:
+A. Only 2  B. Neither 1 nor 2  C. Both 1 and 2  D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Both correct. 1% sunlight (productivity) + 10% transfer (ecological efficiency).
+
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2025**
+
+With reference to lichens, which of the following statements is/are correct?
+
+1. Lichens are very good indicators of pollution.
+2. Lichens grow well in polluted areas.
+
+Select the correct answer from the code given below:
+
+Options:
+A. Only 2  B. Neither 1 nor 2  C. Both 1 and 2  D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Only 1. Lichens die in pollution — good indicators because sensitive, not tolerant.
+
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2024**
+
+Which of the following statements is not true about "ecological niche"?
+
+Options:
+A. Dominant species occupy extensive and broader ecological niche.
+B. Number of species becomes large in ecological niche of natural ecosystem, if resources are sufficient.
+C. Number of species becomes small in ecological niche, if resources are sufficient.
+D. Dominance of single species becomes minimum if the resource distribution is equitable in a habitat.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — NOT true. Sufficient resources → **more** species (greater diversity), not fewer.
+
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2024**
+
+Which of the following is the correct sequence of phases of Biotic succession?
+
+Options:
+A. Ecesis – Migration – Reaction – Stabilisation
+B. Ecesis – Migration – Stabilisation – Reaction
+C. Migration – Reaction – Stabilisation – Ecesis
+D. Migration – Ecesis – Reaction – Stabilisation
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Migration → Ecesis → Reaction → Stabilisation.
+
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2016 — pattern**
+
+Plants and animals that live on land are called:
+
+Options:
+A. Abiotic  B. Aquatic  C. Terrestrial  D. Biotic
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Terrestrial = land-based ecosystem.
+
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2019 — pattern**
+
+Lentic water bodies include:
+
+Options:
+A. River and stream  B. Lake and pond  C. Ocean  D. Estuary only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Lentic = standing water (lake, pond). Lotic = flowing.
+
+</details>
+
+---
+
+**Q7. UPPCS Prelims 2017 — pattern**
+
+Abiotic components of environment include:
+
+Options:
+A. Plants and animals  B. Water, air, soil, light, temperature  C. Only bacteria  D. Only decomposers
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Non-living physical/chemical factors.
+
+</details>
+
+---
+
+**Q8. UPPCS Prelims 2020 — pattern**
+
+Nitrogen fixation in legumes is done by:
+
+Options:
+A. Azotobacter only  B. Rhizobium  C. Fungi  D. Earthworms
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Rhizobium in root nodules of leguminous crops.
+
+</details>
+
+---
+
+**Q9. UPPCS Prelims 2018 — pattern**
+
+Abiotic components of soil include:
+
+Options:
+A. Humus  B. Minerals, water, air  C. Earthworms  D. Bacteria only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Humus is organic (biotic-origin), NOT abiotic.
+
+</details>
+
+---
+
+**Q10. UPSC Prelims 2016 — pattern**
+
+In food chains, energy transfer between trophic levels is approximately:
+
+Options:
+A. 1%  B. 10%  C. 50%  D. 90%
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Lindeman's 10% rule (1942).
+
+</details>
+
+---
+
+**Q11. UPSC Prelims 2013 — pattern**
+
+Permafrost is found in:
+
+Options:
+A. Taiga and Tundra  B. Savannah only  C. Tropical rainforest  D. Desert only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Cold regions: taiga + tundra, not savannah.
+
+</details>
+
+---
+
+**Q12. UPSC Prelims 2020 — pattern**
+
+Which are terrestrial ecosystems?
+
+Options:
+A. Desert and Rainforest  B. Mangrove only  C. Coral reef  D. Estuary
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Mangrove/coral/estuary are aquatic/transitional, not purely terrestrial.
+
+</details>
+
+---
+
+**Q13. UPSC Prelims 2017 — pattern**
+
+Mangrove ecosystems are found in:
+
+Options:
+A. Polar regions  B. Tropical and subtropical coasts  C. Alpine meadows  D. Deep ocean
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Coastal transitional wetlands in tropics/subtropics.
+
+</details>
+
+---
+
+**Q14. UPSC Prelims 2014 — pattern**
+
+Which add nitrogen to soil?
+
+1. Urea excretion by animals  2. Burning coal  3. Leguminous crops
+
+Options:
+A. Only 1  B. Only 3  C. 1 and 3  D. All three
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Urea + legumes add soil N. Coal burning adds NOx to air, not beneficial soil N.
+
+</details>
+
+---
+
+**Q15. UPSC Prelims 2011 — pattern**
+
+Ecology is the study of:
+
+Options:
+A. Rocks and minerals  B. Interactions between organisms and environment  C. Only animal anatomy  D. Weather forecasting
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Core NCERT definition of ecology.
+
+</details>
+
+---
 
 ---
 

@@ -1631,36 +1631,541 @@ A. 2–4–1–3  B. 4–2–1–3  C. 2–1–4–3  D. 1–4–2–3
 
 ## Complete PYQ Bank (Topic 1 — All Questions)
 
-| # | Exam | Yr | Subtopic | Question summary | Answer |
-|---|------|----|----------|------------------|--------|
-| 1 | UPPCS | 2018 | 1.1 | Environment की सर्वोत्तम परिभाषा | Biotic + Abiotic |
-| 2 | UPPCS | 2016 | 1.1 | पर्यावरण संरक्षण — अनुच्छेद | 48A + 51A(g) |
-| 3 | UPPCS | 2021 | 1.1 | विश्व पर्यावरण दिवस | 5 June |
-| 4 | UPPCS | 2019 | 1.1 | पहला विश्व पर्यावरण सम्मेलन | Stockholm, 1972 |
-| 5 | UPPCS | 2017 | 1.2 | अजैविक घटक | Water, air, soil, light, temp |
-| 6 | UPPCS | 2020 | 1.2 | नाइट्रोजन स्थिरीकरण | Rhizobium |
-| 7 | UPPCS | 2018 | 1.2 | मृदा के अजैविक घटक | Minerals, water, air |
-| 8 | UPPCS | 2016 | 1.3 | भूमि आधारित पारिस्थितिकी तंत्र | Terrestrial |
-| 9 | UPPCS | 2019 | 1.3 | लैटिक जल निकाय | Lake, pond |
-| 10 | UPPCS | 2021 | 1.3 | जैव भौगोलिक क्षेत्र | 10 |
-| 11 | UPPCS | 2017 | 1.4 | चिपको आंदोलन कहाँ | Uttarakhand, Reni |
-| 12 | UPPCS | 2019 | 1.4 | Ecological Footprint | Human pressure on nature |
-| 13 | UPPCS | 2020 | 1.4 | IPAT में T | Technology |
-| 14 | UPPCS | 2021 | 1.4 | JFM कब | 1990 |
-| 15 | UPSC | 2011 | 1.1 | Fundamental Duties — environment | Art 51A (b) and (c) |
-| 16 | UPSC | 2013 | 1.1 | CO₂ added by respiration, decay, volcanic | 2, 3, 4 |
-| 17 | UPSC | 2015 | 1.1 | Biosphere Reserves | Conservation + sustainable use (MAB) |
-| 18 | UPSC | 2019 | 1.1 | WHO air quality — revised standards | PM2.5, PM10 |
-| 19 | UPSC | 2012 | 1.2 | Coal combustion emissions | CO₂, NOx, CO — all |
-| 20 | UPSC | 2014 | 1.2 | Nitrogen added to soil | Urea + legumes |
-| 21 | UPSC | 2016 | 1.2 | Food chain energy transfer | Decreases; ~10% rule |
-| 22 | UPSC | 2013 | 1.3 | Permafrost in taiga, savannah, tundra | Taiga + Tundra |
-| 23 | UPSC | 2017 | 1.3 | Mangrove ecosystems location | Tropical/subtropical coasts |
-| 24 | UPSC | 2020 | 1.3 | Terrestrial among desert, mangrove, rainforest | Desert + Rainforest |
-| 25 | UPSC | 2012 | 1.4 | Passive resistance — Chipko | Chipko + Dandi March |
-| 26 | UPSC | 2014 | 1.4 | Best biodiversity conservation | Biosphere reserves |
-| 27 | UPSC | 2018 | 1.4 | Firefighting water pollutants | All four |
-| 28 | UPSC | 2021 | 1.4 | Tragedy of the Commons | Garrett Hardin |
+> **Answers hidden** — click *Show answer* under each question to reveal.
+
+**Q1. UPPCS Prelims 2025**
+
+With reference to 'Carrying Capacity of Environment', which of the following statements is/are correct?
+
+1. The rate of resource extraction should remain above the rate of resource generation.
+2. Generation of waste should remain within the absorption capacity of environment.
+
+Select the correct answer from the code given below:
+
+Options:
+A. Only 2  B. Neither 1 nor 2  C. Both 1 and 2  D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Only 2. Extraction must be **below** regeneration (Stmt 1 reversed in exam trap).
+
+</details>
+
+---
+
+**Q2. UPPCS Prelims 2025**
+
+Assertion (A): Sustainable development should take place without harming the environment and without compromising the needs of future generations.
+
+Reason (R): Agenda 21 was signed by world leaders in 1995.
+
+Options:
+A. Both A and R true; R does not explain A  B. A false, R true  C. A true, R false  D. Both true; R explains A
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — A true (Brundtland SD). R false — Agenda 21 = **Rio 1992**, not 1995.
+
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2025**
+
+Which of the following pairs is/are NOT correctly matched?
+
+(Day) — (Date)
+
+1. International Ozone Day — 16 September
+2. World Environment Day — 5 June
+3. World Wildlife Day — 22 March
+
+Options:
+A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Only pair 3 wrong. World Wildlife Day = **3 March**, not 22 March.
+
+</details>
+
+---
+
+**Q4. UPPCS Prelims 2025**
+
+With reference to Lifestyle for Environment (LiFE), which of the following statements is/are correct?
+
+1. It was launched in June 2022.
+2. The idea was proposed at COP-25 in Madrid, Spain.
+
+Options:
+A. Only 2  B. Neither 1 nor 2  C. Both 1 and 2  D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Only 1. Launched June 2022; idea from **COP26 Glasgow 2021**, not COP-25 Madrid.
+
+</details>
+
+---
+
+**Q5. UPPCS Prelims 2021**
+
+विश्व पर्यावरण दिवस कब मनाया जाता है?
+
+Options:
+A. 22 April  B. 5 June  C. 16 September  D. 3 March
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — 5 June. Trap: 22 April = Earth Day; 3 March = World Wildlife Day.
+
+</details>
+
+---
+
+**Q6. UPPCS Prelims 2021**
+
+भारत में कितने जैव भौगोलिक क्षेत्र हैं?
+
+Options:
+A. 5  B. 10  C. 14  D. 25
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — 10 biogeographic zones (Rodgers & Panwar, 1988).
+
+</details>
+
+---
+
+**Q7. UPPCS Prelims 2021**
+
+संयुक्त वन प्रबंधन (JFM) कब शुरू हुआ?
+
+Options:
+A. 1972  B. 1986  C. 1990  D. 2006
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — JFM launched **1990**. FRA = 2006; EPA = 1986.
+
+</details>
+
+---
+
+**Q8. UPPCS Prelims 2020**
+
+नाइट्रोजन स्थिरीकरण कौन करता है?
+
+Options:
+A. Fungi  B. Rhizobium  C. Earthworm  D. Tiger
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Rhizobium bacteria in legume root nodules.
+
+</details>
+
+---
+
+**Q9. UPPCS Prelims 2020**
+
+IPAT समीकरण में 'T' का अर्थ है:
+
+Options:
+A. Temperature  B. Technology  C. Time  D. Trophic level
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — IPAT = Population × Affluence × **Technology**.
+
+</details>
+
+---
+
+**Q10. UPPCS Prelims 2019**
+
+पहला विश्व पर्यावरण सम्मेलन (Stockholm Conference) कब हुआ?
+
+Options:
+A. 1962  B. 1972  C. 1986  D. 1992
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Stockholm **1972** → created UNEP. Trap: 1992 = Rio; 1986 = EPA.
+
+</details>
+
+---
+
+**Q11. UPPCS Prelims 2019**
+
+'पारिस्थितिक पदचिह्न' (Ecological Footprint) किससे संबंधित है?
+
+Options:
+A. Measuring human pressure on nature  B. Tiger census  C. Soil pH  D. Ozone hole
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Ecological footprint measures human demand on Earth's biocapacity (gha).
+
+</details>
+
+---
+
+**Q12. UPPCS Prelims 2019**
+
+लैटिक जल निकाय हैं:
+
+Options:
+A. नदी, नाला  B. झील, तालाब  C. समुद्र  D. ग्लेशियर
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Lentic = standing water. Lotic = flowing (river).
+
+</details>
+
+---
+
+**Q13. UPPCS Prelims 2018**
+
+'Environment' की सर्वोत्तम परिभाषा कौन-सी है?
+
+Options:
+A. केवल भौतिक कारक  B. जैविक और अजैविक कारकों का योग  C. केवल जीव  D. केवल जलवायु
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — NCERT definition: biotic + abiotic factors.
+
+</details>
+
+---
+
+**Q14. UPPCS Prelims 2018**
+
+मृदा के अजैविक घटक हैं:
+
+Options:
+A. ह्यूमस  B. खनिज, जल, हवा  C. कीड़े  D. जड़ें
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Humus is organic (biotic-origin), NOT abiotic.
+
+</details>
+
+---
+
+**Q15. UPPCS Prelims 2017**
+
+अजैविक घटक कौन-से हैं?
+
+Options:
+A. पेड़-पौधे  B. पानी, हवा, मिट्टी, प्रकाश, तापमान  C. शिकारी  D. कवक
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Non-living physical/chemical components.
+
+</details>
+
+---
+
+**Q16. UPPCS Prelims 2017**
+
+चिपको आंदोलन कहाँ शुरू हुआ?
+
+Options:
+A. केरल  B. उत्तराखंड (Reni)  C. असम  D. राजस्थान
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Chipko 1973, Reni village, Uttarakhand (then UP).
+
+</details>
+
+---
+
+**Q17. UPPCS Prelims 2016**
+
+भारतीय संविधान में पर्यावरण संरक्षण का उल्लेख किस अनुच्छेद में है?
+
+Options:
+A. अनुच्छेद 48  B. अनुच्छेद 48A और 51A(g)  C. अनुच्छेद 21 only  D. अनुच्छेद 32
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — 48A (State DPSP) + 51A(g) (citizen duty). Art 48 = agriculture/cows.
+
+</details>
+
+---
+
+**Q18. UPPCS Prelims 2016**
+
+भूमि आधारित पारिस्थितिकी तंत्र कहलाता है:
+
+Options:
+A. जलीय  B. स्थलीय  C. समुद्री  D. आर्द्रभूमि
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Terrestrial = land-based ecosystem.
+
+</details>
+
+---
+
+**Q19. UPSC Prelims 2021 — pattern**
+
+'Tragedy of the Commons' is associated with:
+
+Options:
+A. Thomas Malthus  B. Garrett Hardin  C. Rachel Carson  D. Ernst Haeckel
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Hardin 1968. Malthus = population; Carson = Silent Spring.
+
+</details>
+
+---
+
+**Q20. UPSC Prelims 2019 — pattern**
+
+WHO Air Quality Guidelines — which pollutant standards were revised?
+
+Options:
+A. Only CO₂  B. Particulate matter (PM2.5, PM10)  C. Only ozone  D. Only BOD
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — 2021 WHO revision focused on PM2.5, PM10 and other pollutants.
+
+</details>
+
+---
+
+**Q21. UPSC Prelims 2018 — pattern**
+
+Water pollutants from firefighting include aerosols, foam, retardants, and suppressants. How many are pollutants?
+
+Options:
+A. Only 1  B. Only 2  C. Three  D. All four
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — All four can contaminate water bodies during firefighting operations.
+
+</details>
+
+---
+
+**Q22. UPSC Prelims 2016 — pattern**
+
+In food chains, energy at successive trophic levels:
+
+Options:
+A. Increases  B. Decreases; ~10% transfers  C. Stays same  D. Becomes cyclic
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Lindeman 10% rule; energy lost as heat at each level.
+
+</details>
+
+---
+
+**Q23. UPSC Prelims 2015 — pattern**
+
+'Biosphere Reserves' are:
+
+Options:
+A. Only for tourism  B. For biodiversity conservation + sustainable use by communities  C. Only for mining  D. Military zones
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — UNESCO MAB Programme — conservation + sustainable community use.
+
+</details>
+
+---
+
+**Q24. UPSC Prelims 2014 — pattern**
+
+Most important biodiversity conservation strategy:
+
+Options:
+A. Zoos  B. Biosphere reserves  C. Aquariums  D. Deforestation
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — In-situ landscape conservation with community participation.
+
+</details>
+
+---
+
+**Q25. UPSC Prelims 2014 — pattern**
+
+Which add nitrogen to soil?
+
+1. Urea excretion  2. Burning coal  3. Leguminous crops
+
+Options:
+A. Only 1  B. Only 3  C. 1 and 3  D. All three
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Urea + legumes. Coal adds NOx to air, not beneficial soil nitrogen.
+
+</details>
+
+---
+
+**Q26. UPSC Prelims 2013 — pattern**
+
+Which add CO₂ to the atmosphere?
+
+1. Photosynthesis  2. Respiration  3. Decay of organic matter  4. Volcanic action
+
+Options:
+A. Only 1  B. 2, 3, 4  C. All four  D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Photosynthesis **removes** CO₂; respiration, decay, volcanoes add it.
+
+</details>
+
+---
+
+**Q27. UPSC Prelims 2013 — pattern**
+
+Permafrost is found in:
+
+Options:
+A. Taiga and Tundra  B. Savannah  C. Desert  D. Mangrove
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Cold climate zones only.
+
+</details>
+
+---
+
+**Q28. UPSC Prelims 2012 — pattern**
+
+Emitted from coal combustion:
+
+Options:
+A. CO₂ only  B. CO₂, NOx, CO — all  C. Only water vapour  D. Only methane
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Coal combustion emits CO₂, NOx, CO, SO₂ and particulates.
+
+</details>
+
+---
+
+**Q29. UPSC Prelims 2012 — pattern**
+
+Passive resistance movements include:
+
+Options:
+A. Rowlatt Act protest only  B. Chipko and Dandi March  C. Only military revolt  D. Only judicial petition
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Both Chipko and Dandi March are non-violent passive resistance.
+
+</details>
+
+---
+
+**Q30. UPSC Prelims 2011 — pattern**
+
+Which is/are among Fundamental Duties?
+
+(a) Value composite culture  (b) Protect natural environment  (c) Develop scientific temper
+
+Options:
+A. Only (a)  B. (b) and (c)  C. Only (b)  D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Art 51A(g) = environment; 51A(h) = scientific temper.
+
+</details>
+
+---
+
+**Q31. UPSC Prelims 2020 — pattern**
+
+Terrestrial ecosystems among Desert, Mangrove, Rainforest:
+
+Options:
+A. Desert and Rainforest  B. Mangrove only  C. All three  D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Mangrove = coastal transitional, not purely terrestrial.
+
+</details>
+
+---
+
+**Q32. UPSC Prelims 2017 — pattern**
+
+Mangrove ecosystems are found in:
+
+Options:
+A. Polar coasts  B. Tropical and subtropical coasts  C. Alpine lakes  D. Deep sea trenches
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Coastal wetlands in warm climates.
+
+</details>
+
+---
 
 ---
 
