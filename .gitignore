@@ -15,3 +15,5 @@
 !/subjects/**
 !/subjects/environments & ecology/
 !/subjects/environments & ecology**
+!mains-pyqs/
+!mains-pyqs/**
