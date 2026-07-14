@@ -39,11 +39,18 @@ flowchart TD
 
 ### Q1: [Exact PYQ] (Year, _M, _W)
 
-**Opening:**
+**Introduction:**
 > 
 
-**Write these points:**
-- 
+**Main Characteristics:** *(or Main Points / Main Advantages — match directive)*
+- **Exam Keyword Label** — one crisp line with example
+
+**Keywords (underline in exam):** Keyword1 · Keyword2 · Keyword3
+
+**Exam diagram (30 sec):**
+```
+[hand-drawable ASCII — 30 sec]
+```
 
 **Conclusion:**
 > 

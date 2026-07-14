@@ -54,10 +54,9 @@
 | 01.17 | Indo-Islamic & Delhi Sultanate Architecture | `17_Indo_Islamic_Delhi_Sultanate_Architecture.md` | Likely Mains — arch, dome, Qutub |
 | 01.18 | Mughal Art & Architecture | `18_Mughal_Art_Architecture.md` | Likely Mains — Taj, Fatehpur Sikri, synthesis |
 | 01.19 | Medieval Indian Painting | `19_Medieval_Indian_Painting.md` | Likely Mains — Mughal, Rajasthani, Pahari |
+| 01.20 | Modern Indian Art | `20_Modern_Indian_Art.md` | Bengal School, Amrita Sher-Gil, PAG, contemporary |
 
 **Folder:** `mains-pyqs/GS-1/01_Art_Culture/`
-
-**Still to add (official syllabus: ancient → modern):** Modern Indian art (Bengal School, Amrita Sher-Gil, contemporary) — planned as 01.20 when built.
 
 ---
 

@@ -16,8 +16,8 @@
 ```
 Read @mains-pyqs/00_SYLLABUS.md → create ENRICHED LEAN subtopic file from @mains-pyqs/TOPIC_INPUT.md
 per @mains-pyqs/_GOLD_STANDARD.md + @mains-pyqs/_TEMPLATE.md + Content enrichment rule in prompt.md.
-Student file: PYQs | Quick Revision | Content (+ mermaid + Contemporary relevance subsection) | Answers | Traps ONLY.
-Book-free: full keyword + future variants. Meet word-count targets. Link stable contemporary policy/UNESCO/IKS where relevant.
+Student file: PYQs | Quick Revision | Content (+ mermaid + Contemporary relevance subsection) | Answers (UPPCS topper format) | Traps ONLY.
+Book-free: full keyword + future variants. Meet word-count targets. Answers = labelled keywords + underline list + 30-sec ASCII diagram per Q.
 AI verifies solvability + enrichment internally. Update @mains-pyqs/_INDEX.md. One subtopic.
 ```
 
@@ -30,12 +30,84 @@ AI verifies solvability + enrichment internally. Update @mains-pyqs/_INDEX.md. O
 | PYQs table | Syllabus Keyword Map |
 | Quick Revision (1 code block) | How to Use This File |
 | Content (all facts + optional mermaid) | PYQ Coverage Map |
-| Answers (Opening + Points + Conclusion per Q#) | Ammunition Bank (merge into Content) |
+| Answers (Topper format per Q# — see Answer writing rule) | Ammunition Bank (merge into Content) |
 | Traps (4–8 rows) | Value-Add, Cross-Links, Exam Intelligence |
 | Minimal header (title + 1 line) | Prelims Overlap, Checklists, verbose metadata |
 | **0–2 mermaid diagrams inside Content** | Separate "Diagrams" section; decorative images |
 
 **Content must answer every PYQ + likely future variants without external books.**
+
+---
+
+## Answer writing rule (mandatory — UPPCS topper format)
+
+Answers must be **directly copyable in the Mains exam** — not analyst notes. Examiners reward **labelled dimensions + keywords + neat presentation**.
+
+### Structure (every answer block)
+
+```markdown
+### Qn: [Exact PYQ] (Year, _M, _W)
+
+**Introduction:** (1–2 lines — definitional + scope)
+> ...
+
+**Main Characteristics:** / **Main Points:** / **Main Advantages:** (match directive)
+- **Exam Keyword Label** — One crisp line: characteristic + proof/example.
+- **Second Label** — ...
+
+**Keywords (underline in exam):** Keyword1 · Keyword2 · Keyword3 · ...
+
+**Exam diagram (30 sec):** (ASCII in code block — drawable in margin)
+\`\`\`
+[tree / two-column / flow — max 8 nodes]
+\`\`\`
+
+**Conclusion:** (1 line — balanced, forward-looking)
+> ...
+```
+
+### Point-count by marks
+
+| Marks | Words | Labelled points | Notes |
+|-------|-------|-----------------|-------|
+| **8M** | **125W** | **6–8** | Describe / advantages / characteristics |
+| **12M** | **~150–200W** | **7–9** | Discuss / analyse / throw light |
+| **15M+** | **250W+** | **9–12** | Critically examine / elaborate |
+
+### Label rule (critical)
+
+- Every bullet **starts with the characteristic the question asks for** — not a narrative topic.
+- **Good:** `**Unity in Diversity** — Coexistence of religions, 22 languages…`
+- **Bad:** `**Spiritual-philosophical core:** Concepts of dharma…` (when Q asks "characteristics")
+- Mix **NCERT-safe classic labels** (Assimilative Nature, Adaptability, Rich Artistic Heritage) with **value-add examples** (Kabir, UNESCO, Art 51A).
+
+### Keywords line
+
+- 4–7 **underline targets** per answer — constitutional/cultural terms examiners scan for.
+- Examples: Unity in Diversity · Composite Culture · Sarva Dharma Sambhava · Vasudhaiva Kutumbakam · Sanskritization.
+
+### Exam diagram rule
+
+- **One ASCII diagram per answer** in a fenced code block — simple enough to **draw in 30 seconds** in the answer booklet margin or below text.
+- Use for: characteristics tree, continuity vs change split, unity/diversity fork, process flow.
+- **Not** mermaid in Answers — mermaid stays in Content only; Answers use **hand-drawable ASCII**.
+
+### Introduction & conclusion
+
+- **Introduction:** "X is…" + synthesis lineage or scope — never start with "During…" unless question is period-specific.
+- **Conclusion:** tie back to **national unity / resilience / democratic integration** where relevant — one balanced sentence.
+
+### Directive matching
+
+| Directive | Answer heading | Extra requirement |
+|-----------|----------------|-------------------|
+| Describe / Enumerate | **Main Characteristics** | 6–8 labelled traits |
+| Discuss / Examine | **Main Points** | Both sides if debate question |
+| Analyse | **Logical Analysis** + **Illustrations** | Premise → proof → counter (if any) |
+| Throw light on | **Main Points** split by theme | Sub-headings OK (Continuity / Change) |
+| Advantages | **Main Advantages** | 6–7 benefit labels |
+
+**Rule:** Every fact in Answers must exist in Content or Quick Revision. No new facts in Answers alone.
 
 ---
 

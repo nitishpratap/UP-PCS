@@ -4,14 +4,15 @@ Use this file to instruct any AI (or yourself) when creating or restructuring to
 
 **Exam pattern standard:** `pyq/2025/UP_PCS_Pre_2025_GS_Paper_1.md` (primary) + all files in `pyq/`  
 **Syllabus source:** Each subject folder's `00_Syllabus.md`  
-**Gold standard:** `subjects/environments & ecology/01_Environment_Basics.md` — **match this file's depth, not just its headings**
+**Gold standard (structure + depth):** `subjects/environments & ecology/01_Environment_Basics.md` — **match this file's depth, not just its headings**  
+**Per-subject gold standard:** Once a subject's Topic 1 is student-approved, that file becomes the gold standard for *that* subject (e.g. `subjects/art and culture/01_Institutions_Related_to_Indian_Culture.md`)
 
 > **For the AI:** You must **self-verify** every topic before presenting it. The student should never need to ask "is this complete?" Run the full workflow in §Mandatory AI Workflow and output the §Delivery Report. If any gate fails, fix the file first — do not ask the student to cross-check.
 
 ### One-Line Universal Prompt (copy for any topic)
 
 ```
-Create/restructure Topic N using @subjects/prompt.md + @00_Syllabus.md + @01_Environment_Basics.md + @pyq/.
+Create/restructure Topic N in @subjects/[subject]/ using @subjects/prompt.md + @00_Syllabus.md + subject Topic 1 gold standard + @pyq/.
 Run Phase A→B→C from prompt.md. Self-verify (F1–F15). Output Delivery Report with "File ready: YES".
 Match Topic 1 depth. No etc. in lists. One topic only. Wait for approval before next.
 ```
@@ -74,7 +75,7 @@ Write the full file per §Required Document Structure. While writing, enforce §
 
 ### Phase C — Post-Audit (before presenting to student)
 
-Run every item in §Quality Checklist and §Automatic Fail Conditions. Fix all failures. Then append **Syllabus Coverage Checklist** inside the topic file and output **§Delivery Report** to the student.
+Run every item in §Quality Checklist and §Automatic Fail Conditions. Fix all failures. Output **§Delivery Report** to the student (in chat only — do not put audit tables in the topic file).
 
 **Do not say "this file is complete" until Phase C passes.**
 
@@ -123,7 +124,7 @@ Every subtopic section must include **all** rows that apply:
 
 ## NCERT & Syllabus Cross-Verification Protocol
 
-### Step 1 — Map NCERT headings to N.X (mandatory for Environment topics)
+### Step 1 — Map NCERT headings to N.X (mandatory for Environment & Art & Culture topics)
 
 | Topic | NCERT sources | Cross-check |
 |-------|---------------|-------------|
@@ -172,7 +173,7 @@ If **any** of these are true, the file is **NOT complete**:
 | F7 | `> **Exam note:**` missing from any N.X |
 | F8 | Practice Zone is mostly simple MCQs (<40% multi-statement) |
 | F9 | PYQs or PYQ Bank use summary-table only (no full question text); PYQ Bank answers visible without `<details>` |
-| F10 | File says "complete" but Syllabus Coverage Checklist has any ❌ |
+| F10 | Internal syllabus audit fails — any bullet lacks N.X section or required blocks |
 | F11 | UP-relevant topic (geo/forest/river/pollution) lacks UP Focus table |
 | F12 | 4+ consecutive tables without prose between them |
 | F13 | "See Topic X" appears anywhere |
@@ -349,7 +350,7 @@ Minimum when applicable:
 
 Do **not** rely only on inline memory. For each topic:
 
-1. Search `pyq/2025/UP_PCS_Pre_2025_GS_Paper_1.md` for `Subject: Environment` and related subjects (Geography, Current Affairs, Polity) that map to this topic.
+1. Search `pyq/2025/UP_PCS_Pre_2025_GS_Paper_1.md` for the topic's primary subject tag (`Environment`, `Art & Culture`, `History`, `Geography`, etc.) and related subjects (Current Affairs, Polity) that map to this topic.
 2. Search `pyq/2024/` and any other year folders.
 3. Include **UPPCS Prelims** first; add **UPSC Prelims** where concept overlaps.
 4. Minimum PYQs per subtopic: **2 UPPCS** if available, else **1 UPPCS + 1 UPSC**.
@@ -381,7 +382,7 @@ Rules:
 7. Practice Zone: scaled count (25–50); UPPCS 2025 format mix (≥40% multi-statement); answers in `<details>` blocks.
 8. Hindi terms in Must-Know Term Comparisons.
 9. UP Focus table if topic touches UP geography/forests/wildlife/rivers/pollution.
-10. Syllabus Coverage Map at top + Syllabus Coverage Checklist at end (all ✅).
+10. Internal Phase A syllabus map complete (do NOT put Syllabus Coverage Map/Checklist in the student file).
 11. Work on ONE topic only. Do not touch other files.
 12. Output Delivery Report (from prompt.md) showing 0 fail conditions.
 13. Stop and wait for my approval before starting the next topic.
@@ -398,18 +399,20 @@ Do NOT present until Verification Report shows "File ready: YES".
 | `00_Syllabus.md` | Master syllabus — subtopics list only, do not delete |
 | `01_[Topic_Name].md` | Topic 1 notes |
 | `02_[Topic_Name].md` | Topic 2 notes |
-| … | One file per syllabus topic (Environment = 25 files) |
+| … | One file per syllabus topic (Environment = 25 files; Art & Culture = 16 files) |
 | `prompt.md` | This file — formatting rules |
 
 **Folder structure:** `subjects/[subject name]/[numbered files]`
 
-Example: `subjects/environments & ecology/01_Environment_Basics.md`
+Examples: `subjects/environments & ecology/01_Environment_Basics.md` · `subjects/art and culture/01_Institutions_Related_to_Indian_Culture.md`
 
 **Subject complete when:** All topics in `00_Syllabus.md` have a numbered file passing the Quality Checklist below.
 
 ---
 
-## Required Document Structure (in this exact order)
+## Required Document Structure (student-facing — in this exact order)
+
+Topic files are **study notes only**. Do **not** include AI workflow artifacts (Syllabus Coverage Map, How to Use, How UPPCS Tests, Syllabus Coverage Checklist, "This file is complete" footer, Exam Intelligence priority tables). Build those internally in Phase A/C; put audit results only in the **Delivery Report** (chat).
 
 Every topic file MUST follow this skeleton:
 
@@ -418,43 +421,9 @@ Every topic file MUST follow this skeleton:
 ### ★ Complete Source of Truth — No other book/notes needed for this topic
 
 > **Covers syllabus:** [every bullet from 00_Syllabus.md — grouped but complete]
-> **Sources baked in:** [NCERT chapters, MoEFCC, CPCB, official reports, PYQs]
+> **Sources baked in:** [NCERT chapters, official sources, PYQs]
 > **Exam weight:** ★★★ / ★★ / ★
 > **Last verified:** [Month Year] ← mandatory for Topic 24 and CA-heavy sections
-
-### Syllabus Coverage Map (mandatory)
-
-Map **every** `00_Syllabus.md` bullet. The third column must list **specific concepts** — not vague labels like "covers basics".
-
-| Syllabus subtopic | Section | What must be inside |
-|-------------------|---------|---------------------|
-| [bullet] | §N.X | [concrete concepts: laws, lists, mechanisms, UP examples] |
-
-**End the file with:**
-
-```markdown
-## Syllabus Coverage Checklist (Topic N)
-
-| # | Syllabus subtopic | Section | Definitions | Prose | Exam note | PYQs | Examples |
-|---|-------------------|---------|-------------|-------|-----------|------|----------|
-| 1 | … | N.1 | ✅ | ✅ | ✅ | ✅ | ✅ |
-
-**Also included:** UP Focus | Consolidated Reference | [N] Practice Qs | PYQ Bank | Mains | [N]+ Traps
-```
-
-Every cell must be ✅ before marking complete.
-
----
-
-## How to Use This File
-[Table: First reading | Second reading | Daily revision | Before exam | Mains prep]
-
----
-
-## How UPPCS Tests This Topic
-[Map concepts to UPPCS 2025 question styles + real PYQ examples]
-
-> **2025 paper overlap:** [List Q numbers from 2025 paper that this topic answers]
 
 ---
 
@@ -494,15 +463,20 @@ Every cell must be ✅ before marking complete.
 
 ---
 
-## Exam Intelligence — What to Expect
-### UPPCS Prelims Priority
-### UPPCS vs UPSC
-### Common Traps — Don't Fall For These (minimum 10; 15+ for large topics)
-
----
-
-*End of Topic N — [Title]. This file is complete.*
+## Common Traps — Don't Fall For These
+[Minimum 10; 15+ for Topics 4, 9, 17, 24]
 ```
+
+### AI-internal only (Phase A/C — never write into topic file)
+
+| Block | Used for |
+|-------|----------|
+| Syllabus Coverage Map | Phase A — verify every bullet mapped before writing |
+| Syllabus Coverage Checklist | Phase C — verify every cell ✅ before delivery |
+| How to Use This File | Optional in Delivery Report only |
+| How UPPCS Tests This Topic | Delivery Report + weave traps into N.X `Exam note` |
+| Exam Intelligence priority / UPPCS vs UPSC tables | Delivery Report only — student gets **Common Traps** instead |
+| "End of Topic N — complete" footer | Do not add |
 
 ---
 
@@ -570,26 +544,20 @@ Every cell must be ✅ before marking complete.
 
 ---
 
-## How UPPCS Tests This Topic (mandatory section)
+## UPPCS Question Patterns (AI-internal — for Phase A/C and Delivery Report)
 
-After "How to Use", map **this topic** to UPPCS 2025 patterns. Reference real questions from `UP_PCS_Pre_2025_GS_Paper_1.md`.
+Use when self-verifying and in the **Delivery Report** — do **not** add a "How UPPCS Tests This Topic" section to the student file. Weave pattern traps into each N.X `> **Exam note:**` instead.
 
-**Template:**
+Reference real questions from `UP_PCS_Pre_2025_GS_Paper_1.md`. In Delivery Report include **2025 paper overlap** with Q numbers.
 
-```markdown
-## How UPPCS Tests This Topic
-
-| UPPCS asks… | From this topic | Example trap |
-|-------------|-----------------|--------------|
-| 2-statement correct? | [concept] | Statement 1 true, Statement 2 false because… |
-| A/R | [cause → effect] | A true, R false (wrong year/org) |
-| NOT correctly matched | [pairs] | One wrong date/org/location |
-| NOT located in UP | [Ramsar/NP/district] | Rudrasagar ≠ UP |
-| Org + Report | [who publishes] | CGWB not CPCB for groundwater |
-| UP-specific | [river/city/district] | Gomti→Lucknow, not Kanpur |
-
-> **2025 paper overlap:** [e.g. Q23 carrying capacity, Q62 env days — cite Q numbers]
-```
+| UPPCS asks… | What student must know |
+|-------------|------------------------|
+| 2-statement correct? | Each statement true/false + why |
+| A/R | A and R truth + whether R explains A |
+| NOT correctly matched | Spot wrong pair (date/org/location) |
+| Match List-I / II | Concept ↔ location / org ↔ year |
+| UP-specific | District, museum, site, scheme in UP |
+| Scheme / Programme | Year, ministry, objective, trap year |
 
 ---
 
@@ -749,11 +717,12 @@ Add once under the PYQ Bank header:
 
 Each framework: **Question title → Structure (word count) → 5–7 bullet points → Indian/UP example to cite**
 
-### 7. Exam Intelligence
+### 7. Common Traps
 
-- Priority table (★★★ / ★★ / ★) per subtopic
-- UPPCS vs UPSC pattern comparison
-- Common Traps — minimum **10** (15+ for Topics 4, 9, 17, 24)
+- Standalone `## Common Traps — Don't Fall For These` section at end (before or after Mains — match art & culture Topic 1)
+- Minimum **10** traps (15+ for Topics 4, 9, 17, 24)
+- Sync trap dates/numbers with Consolidated Reference **(F6)**
+- Do **not** add Exam Intelligence priority tables or UPPCS vs UPSC comparison blocks to student files
 
 ---
 
@@ -764,7 +733,7 @@ Each framework: **Question title → Structure (word count) → 5–7 bullet poi
 ### Syllabus coverage
 - [ ] Every `00_Syllabus.md` bullet for this topic has a dedicated N.X (or N.X.Y) section **(F1)**
 - [ ] Header `Covers syllabus` lists all bullets — none missing
-- [ ] Syllabus Coverage Map "What must be inside" lists **specific concepts**, not vague labels
+- [ ] Internal Phase A map lists **specific concepts** per bullet — not vague labels
 - [ ] No orphan sections (content not in syllabus unless Topic 25-type expansion)
 - [ ] Topic Boundary Table built — OUT-of-scope concepts listed in Delivery Report
 
@@ -779,7 +748,7 @@ Each framework: **Question title → Structure (word count) → 5–7 bullet poi
 - [ ] Common Trap items synced to Consolidated Reference **(F6)**
 
 ### Exam alignment
-- [ ] "How UPPCS Tests This Topic" + **2025 paper overlap** with Q numbers
+- [ ] 2025 overlap concepts in matching N.X prose + noted in Delivery Report **(F5)**
 - [ ] Practice Zone ≥40% multi-statement **(F8)**
 - [ ] Practice Zone answers wrapped in `<details><summary>Show answer</summary>` (hidden until click)
 - [ ] Practice count matches topic size (25–50)
@@ -787,15 +756,15 @@ Each framework: **Question title → Structure (word count) → 5–7 bullet poi
 - [ ] Hindi column in Must-Know Term Comparisons **(F14)**
 
 ### UP & completeness
-- [ ] **Syllabus Coverage Map** at top + **Syllabus Coverage Checklist** at end (all ✅) **(F10)**
+- [ ] Internal syllabus audit passes — all bullets covered **(F10)**
 - [ ] UP Focus table present if applicable **(F11)**
 - [ ] Consolidated Reference (Acts/Orgs/Dates/Schemes/CA) present once
 - [ ] Mains Framework present (if mandatory topic)
 - [ ] Common Traps ≥10 (15+ for Topics 4, 9, 17, 24) **(F15)**
 - [ ] `Last verified` date in header (Topic 24 and CA sections)
 - [ ] No "See Topic X" anywhere **(F13)**
-- [ ] **Delivery Report** output with "File ready: YES"
-- [ ] File ends with "This file is complete."
+- [ ] No AI-internal sections in file (Syllabus Map, How to Use, How UPPCS Tests, Checklist, completion footer)
+- [ ] **Delivery Report** output in chat with "File ready: YES"
 
 ### Student test (AI self-tests before delivery)
 - [ ] Each syllabus bullet: student can answer a 2-statement UPPCS question from that section alone
@@ -823,9 +792,8 @@ Phase B — WRITE
 Phase C — POST-AUDIT (before presenting)
   Step 10: Run Automatic Fail Conditions F1–F15
   Step 11: Run Quality Checklist — fix every failure
-  Step 12: Append Syllabus Coverage Checklist (all ✅) inside file
-  Step 13: Output Delivery Report → must show "File ready: YES"
-  Step 14: Present to student → wait for approval before Topic N+1
+  Step 12: Output Delivery Report in chat → must show "File ready: YES"
+  Step 13: Present to student → wait for approval before Topic N+1
 ```
 
 **Do NOT start Topic N+1 until student approves Topic N.**  
@@ -839,9 +807,7 @@ Before delivery, confirm the topic file has **every** structural block Topic 1 h
 
 | Block | Topic 1 has it? | Required for all topics? |
 |-------|-----------------|--------------------------|
-| Syllabus Coverage Map (specific concepts) | ✅ | **Yes** |
-| How to Use This File | ✅ | **Yes** |
-| How UPPCS Tests This Topic + 2025 overlap | ✅ | **Yes** |
+| Header (`Covers syllabus`, sources, weight, verified) | ✅ | **Yes** |
 | Quick Revision Box (code block) | ✅ | **Yes** |
 | Must-Know Term Comparisons + Hindi | ✅ | **Yes** |
 | Memory Tricks | ✅ | **Yes** |
@@ -851,13 +817,13 @@ Before delivery, confirm the topic file has **every** structural block Topic 1 h
 | Practice Zone (25–50, format mix) | ✅ | **Yes** |
 | Complete PYQ Bank | ✅ | **Yes** |
 | Mains Answer Framework | ✅ | Topics 6–9, 15, 17–18, 23–24 |
-| Exam Intelligence + Common Traps | ✅ | **Yes** |
-| Syllabus Coverage Checklist | ✅ | **Yes** |
-| "This file is complete." | ✅ | **Yes** |
+| Common Traps | ✅ | **Yes** |
+| ~~Syllabus Coverage Map~~ | ❌ | **No — AI-internal only** |
+| ~~How to Use / How UPPCS Tests / Checklist / footer~~ | ❌ | **No — AI-internal only** |
 
 ---
 
-## Example Prompt for Next Topic
+## Example Prompt for Next Topic (Environment)
 
 ```
 Restructure environments & ecology/02_Ecology_and_Ecosystem.md using:
@@ -868,10 +834,27 @@ Restructure environments & ecology/02_Ecology_and_Ecosystem.md using:
 
 Self-verify per prompt.md — I should NOT need to cross-check completeness.
 Phase A: boundary table + concept inventory before writing.
-Phase C: F1–F15 pass + Syllabus Coverage Checklist all ✅ + Delivery Report "File ready: YES".
+Phase C: F1–F15 pass + Delivery Report "File ready: YES" (no audit tables in file).
 No "etc." in any list. 2025 overlap in prose. UP Focus if applicable.
 Practice Zone: 40+ questions, UPPCS 2025 format.
 Work on Topic 2 only. Wait for my approval before Topic 3.
+```
+
+## Example Prompt for Next Topic (Art & Culture)
+
+```
+Create art and culture/01_Institutions_Related_to_Indian_Culture.md using:
+- @subjects/prompt.md (run Phase A → B → C; output Delivery Report)
+- @subjects/art and culture/00_Syllabus.md (all 16 subtopics — map each to 1.X)
+- @subjects/environments & ecology/01_Environment_Basics.md (structural gold standard until Topic 1 approved)
+- @pyq/ (all years)
+
+Self-verify per prompt.md — I should NOT need to cross-check completeness.
+Phase A: boundary table + concept inventory before writing.
+Phase C: F1–F15 pass + Delivery Report "File ready: YES" (no audit tables in file).
+No "etc." in any list. UP Focus (Lucknow Museum, SNA, ASI HQ traps).
+Practice Zone: 30+ questions, UPPCS 2025 format.
+Work on Topic 1 only. Wait for my approval before Topic 2.
 ```
 
 ---
@@ -918,9 +901,49 @@ Work on Topic 2 only. Wait for my approval before Topic 3.
 | 10–13 | Class 11 Geography Ch 14; Class 12 Biology Ch 16 |
 | 15–18 | Supplement with MoEFCC, India Year Book, official treaty texts |
 
+### Indian Art & Culture (16 topics)
+
+| Topic | File | Subtopics | Status | Notes |
+|-------|------|-----------|--------|-------|
+| 1 | `01_Institutions_Related_to_Indian_Culture.md` | 16 | Pending | ASI, IGNCA, museums, culture schemes |
+| 2 | `02_Religious_and_Philosophical_Traditions.md` | 8 | Pending | Shad Darshana, Bhakti, Sufi |
+| 3 | `03_Indian_Architecture.md` | 26 | Pending | Nagara/Dravida/Vesara + monuments |
+| 4 | `04_Indian_Painting.md` | 9 | Pending | Ajanta, Mughal, Rajput, Pahari |
+| 5 | `05_Indian_Music.md` | 6 | Pending | Gharanas, instruments, musicians |
+| 6 | `06_Indian_Dance.md` | 11 | Pending | 8 classical + folk/tribal |
+| 7 | `07_Indian_Theatre_and_Performing_Arts.md` | 9 | Pending | Natyashastra, puppetry |
+| 8 | `08_Indian_Languages_and_Literature.md` | 8 | Pending | Sanskrit, epics, regional lit |
+| 9 | `09_Indian_Festivals_and_Fairs.md` | 9 | Pending | State-wise + govt festivals |
+| 10 | `10_Ancient_Indian_History_Related_to_Culture.md` | 5 | Pending | Art, sculpture, agriculture |
+| 11 | `11_Medieval_Indian_Cultural_History.md` | 6 | Pending | Akbar administration & culture |
+| 12 | `12_Sculpture.md` | 9 | Pending | Gupta, Buddhist schools |
+| 13 | `13_Folk_Culture.md` | 7 | Pending | Folk arts + handicrafts/GI |
+| 14 | `14_Cultural_Heritage.md` | 6 | Pending | UNESCO WH + intangible (India) |
+| 15 | `15_Archaeology.md` | 4 | Pending | Excavations, ancient sites |
+| 16 | `16_Exam_Essentials_Awards_Personalities_GI_Tags.md` | 6 | Pending | Awards, GI tags, personalities |
+
+### NCERT chapter hints (Indian Art & Culture)
+
+| Topics | Primary NCERT / sources |
+|--------|-------------------------|
+| 1, 15 | Class 11–12 History (culture institutions); India Year Book (Culture Ministry) |
+| 2 | Class 11–12 History; RS Sharma / AL Basham culture sections |
+| 3, 10, 11, 12 | Class 11 Fine Arts (An Introduction to Indian Art); Class 12 History |
+| 4, 5, 6, 7 | Class 11 Fine Arts; IGNCA / Akademi reference material |
+| 8 | Class 11–12 History (literature); Hindi/Sanskrit NCERT where relevant |
+| 9, 13 | State culture handbooks; India Year Book; folk surveys |
+| 14 | UNESCO lists; ASI publications; Ministry of Culture |
+| 16 | Akademi award lists; DPIIT GI registry; PIB culture awards |
+
+### PYQ mining (Art & Culture)
+
+Search `pyq/` for `Subject: Art & Culture`, `Subject: History` (culture overlap), `Subject: Geography` (monument/site matching), and multi-statement questions on dance, music, UNESCO, temples.
+
+**UP Focus (Art & Culture):** Mathura/Vrindavan (Braj culture), Varanasi (classical music, ghats), Lucknow (Kathak, Awadhi), Sarnath (Buddhist art), Agra (Mughal), Khajuraho (UP-adjacent trap), Chunar/Chunar fort crafts, UP folk (Raslila, Nautanki), state museums (Lucknow State Museum, Allahabad Museum).
+
 ### Future subjects
 
-1. Create `00_Syllabus.md` with every exam subtopic as bullets
+1. Create `00_Syllabus.md` with every exam subtopic as bullets *(Art & Culture — done)*
 2. Link to this `prompt.md`
 3. One topic file per `##` heading in syllabus
 4. One topic at a time; student approval between topics

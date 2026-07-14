@@ -48,11 +48,7 @@
 
 ## Answers
 
-### Q1: [exact PYQ text] (Year, 8M, 125W)
-
-**Opening:** > ...
-**Write these points:** - ...
-**Conclusion:** > ...
+[See Answer writing rule in prompt.md — topper format mandatory]
 
 ---
 
@@ -132,11 +128,15 @@ flowchart TD
 ```
 ````
 
-### Answers
-- One block per PYQ from PYQ table
-- Opening line + writable bullet points + Conclusion line
-- No "Directive", "Content refs", "Ammunition A1"
-- 125W → 5 points · 200W → 7 points
+### Answers (UPPCS topper format — mandatory)
+- One block per PYQ from PYQ table + future variants
+- **Introduction** (1–2 lines) → **Main Characteristics/Points/Advantages** (labelled bullets) → **Keywords (underline in exam)** → **Exam diagram (30 sec)** ASCII code block → **Conclusion** (1 line)
+- **Label rule:** each bullet = **Exam Keyword Label** — one crisp line with proof/example (not narrative sub-topic headers)
+- **125W / 8M** → **6–8** labelled points · **200W / 12M** → **7–9** points
+- **Keywords line:** 4–7 underline targets (Unity in Diversity, Composite Culture, Art 51A, etc.)
+- **Exam diagram:** hand-drawable ASCII tree/flow in code block — NOT mermaid (mermaid = Content only)
+- Match heading to directive: Describe → Main Characteristics · Discuss → Main Points · Analyse → Logical Analysis + Illustrations
+- No "Opening", "Write these points", "Directive", "Content refs", "Ammunition A1"
 
 ### Traps
 - **8–14 rows** — wrong statement → correction (more for rich/compare topics)

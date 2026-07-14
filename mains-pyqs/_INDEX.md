@@ -10,7 +10,7 @@
 
 | Paper | Topics | Subtopics planned | 🟢 | ⚠️ Legacy |
 |-------|--------|-------------------|-----|-----------|
-| GS-1 | 15 | 59 | 36 | 1 |
+| GS-1 | 15 | 68 | 68 | 0 |
 | GS-2 | 21 | TBD | 0 | 0 |
 | GS-3 | 18 | TBD | 0 | 0 |
 | GS-4 | 8 | TBD | 0 | 0 |
@@ -44,10 +44,11 @@
 | 01.17 | Indo-Islamic & Sultanate Architecture | `17_Indo_Islamic_Delhi_Sultanate_Architecture.md` | 0* | 🟢 |
 | 01.18 | Mughal Art & Architecture | `18_Mughal_Art_Architecture.md` | 0* | 🟢 |
 | 01.19 | Medieval Indian Painting | `19_Medieval_Indian_Painting.md` | 0* | 🟢 |
+| 01.20 | Modern Indian Art | `20_Modern_Indian_Art.md` | 0* | 🟢 |
 
 \*Likely PYQ variants + full answers — no past Mains PYQ mapped yet.
 
-**Topic 01 status:** **19/19** ancient + medieval files 🟢 · Modern art (01.20) pending
+**Topic 01 Art Culture:** **20/20 files complete** 🟢 (ancient → modern)
 
 | Sub | Keyword | File | PYQs | Status |
 |-----|---------|------|------|--------|
@@ -92,35 +93,106 @@
 
 **Topic 05 World History (18th c. – mid 20th c.):** **5/5 files complete** 🟢 — all syllabus keywords covered (French Rev, Industrial Rev, World Wars, boundary redraw, colonialism/decolonization, nationalism, Socialism/Fascism/Nazism)
 
-### Topic 06 — Society Features → `GS-1/06_Society_Features/` 🔴
+### Topic 06 — Society Features → `GS-1/06_Society_Features/`
+
+| Sub | Keyword | File | PYQs | Status |
+|-----|---------|------|------|--------|
+| 06.1 | Salient Features / Unity in Diversity | `01_Indian_Society_Features.md` | 7 | 🟢 |
+
+**Topic 06 Society Features:** **1/1 files complete** 🟢
 
 ### Topic 07 — Women · Population · Poverty · Urbanization → `GS-1/07_Society_Development/`
 
-| Sub | Keyword | File | Status |
-|-----|---------|------|--------|
-| 07.1 | Women | `01_Women_Status_Organisations.md` | 🔴 |
-| 07.2 | Population | `02_Population_Policy_Explosion.md` | 🔴 |
-| 07.3 | Poverty | `03_Poverty_Causes_Consequences.md` | 🔴 |
-| 07.4 | Urbanization | `04_Urbanization_Slums_Remedies.md` | 🔴 |
+| Sub | Keyword | File | PYQs | Status |
+|-----|---------|------|------|--------|
+| 07.1 | Women | `01_Women_Status_Organisations.md` | 6 | 🟢 |
+| 07.2 | Population | `02_Population_Policy_Explosion.md` | 4 | 🟢 |
+| 07.3 | Poverty | `03_Poverty_Causes_Consequences.md` | 5 | 🟢 |
+| 07.4 | Urbanization | `04_Urbanization_Slums_Remedies.md` | 7 | 🟢 |
 
-⚠️ **Legacy (split pending):** `GS-1/Society/02_Urbanization_Poverty_Population.md`  
-→ Split into Topic 07 subtopics per `00_SYLLABUS.md` (Women · Population · Poverty · Urbanization)
+**Topic 07 Society Development:** **4/4 files complete** 🟢
 
-### Topic 08 — LPG → `GS-1/08_LPG_Globalization/` 🔴
+### Topic 08 — LPG → `GS-1/08_LPG_Globalization/`
 
-### Topic 09 — Regionalism, Secularism → `GS-1/09_Social_Issues/` 🔴
+| Sub | Keyword | File | PYQs | Status |
+|-----|---------|------|------|--------|
+| 08.1 | LPG — effects on economy, polity, society | `01_LPG_Effects_India.md` | 7 | 🟢 |
+| 08.2 | Modernization / Westernization | `02_Modernization_Westernization.md` | 2 | 🟢 |
+| 08.3 | Globalization & family/marriage/kinship | `03_Globalization_Social_Institutions.md` | 1 | 🟢 |
 
-### Topic 10 — Natural Resources → `GS-1/10_Natural_Resources/` 🔴
+**Topic 08 LPG:** **3/3 files complete** 🟢
 
-### Topic 11 — Physical Geography → `GS-1/11_Physical_Geography/` (7 subtopics) 🔴
+### Topic 09 — Regionalism, Secularism, Social Empowerment → `GS-1/09_Social_Issues/`
 
-### Topic 12 — Oceanic Resources → `GS-1/12_Oceanic_Resources/` 🔴
+| Sub | Keyword | File | PYQs | Status |
+|-----|---------|------|------|--------|
+| 09.1 | Regionalism | `01_Regionalism.md` | 4 | 🟢 |
+| 09.2 | Secularism & Communalism | `02_Secularism_Communalism.md` | 4 | 🟢 |
+| 09.3 | Social Empowerment (IT, tribes) | `03_Social_Empowerment.md` | 2 | 🟢 |
 
-### Topic 13 — Migration → `GS-1/13_Migration/` 🔴
+**Topic 09 Social Issues:** **3/3 files complete** 🟢
 
-### Topic 14 — Boundaries → `GS-1/14_Boundaries/` 🔴
+### Topic 10 — Natural Resources → `GS-1/10_Natural_Resources/`
 
-### Topic 15 — Settlements / Smart Cities → `GS-1/15_Settlements/` 🔴
+| Sub | Keyword | File | PYQs | Status |
+|-----|---------|------|------|--------|
+| 10.1 | Water Resources | `01_Water_Resources.md` | 1 | 🟢 |
+| 10.2 | Soil & Agriculture | `02_Soil_Resources.md` | 1 | 🟢 |
+| 10.3 | Forest & Biodiversity | `03_Forest_Resources.md` | 2 | 🟢 |
+| 10.4 | Minerals & Industrial Location | `04_Minerals_Industrial_Location.md` | 1 | 🟢 |
+
+**Topic 10 Natural Resources:** **4/4 files complete** 🟢
+
+### Topic 11 — Physical Geography → `GS-1/11_Physical_Geography/`
+
+| Sub | Keyword | File | PYQs | Status |
+|-----|---------|------|------|--------|
+| 11.1 | Earthquakes & Seismic Zones | `01_Earthquakes.md` | 2 | 🟢 |
+| 11.2 | Tsunami | `02_Tsunami.md` | 2 | 🟢 |
+| 11.3 | Volcanic Activity | `03_Volcanism.md` | 1 | 🟢 |
+| 11.4 | Cyclones | `04_Cyclones.md` | 4 | 🟢 |
+| 11.5 | Monsoon, El Niño & Winds | `05_Monsoon_El_Nino_Winds.md` | 6 | 🟢 |
+| 11.6 | Ocean Currents | `06_Ocean_Currents.md` | 2 | 🟢 |
+| 11.7 | Glaciers & Landforms | `07_Glaciers.md` | 2 | 🟢 |
+
+**Topic 11 Physical Geography:** **7/7 files complete** 🟢
+
+### Topic 12 — Oceanic Resources → `GS-1/12_Oceanic_Resources/`
+
+| Sub | Keyword | File | PYQs | Status |
+|-----|---------|------|------|--------|
+| 12.1 | Ocean Resources & EEZ | `01_Oceanic_Resources_India.md` | 4 | 🟢 |
+| 12.2 | Mangroves, Coral Reefs, Continental Shelf | `02_Marine_Ecosystems_Resources.md` | 2 | 🟢 |
+
+**Topic 12 Oceanic Resources:** **2/2 files complete** 🟢
+
+### Topic 13 — Migration & Refugees → `GS-1/13_Migration/`
+
+| Sub | Keyword | File | PYQs | Status |
+|-----|---------|------|------|--------|
+| 13.1 | Refugees & Infiltrators | `01_Refugees_Infiltrators.md` | 2 | 🟢 |
+| 13.2 | Internal Migration & Reverse Migration | `02_Internal_Migration.md` | 2 | 🟢 |
+
+**Topic 13 Migration & Refugees:** **2/2 files complete** 🟢
+
+### Topic 14 — Frontiers & Boundaries → `GS-1/14_Boundaries/`
+
+| Sub | Keyword | File | PYQs | Status |
+|-----|---------|------|------|--------|
+| 14.1 | Frontier vs Boundary | `01_Frontiers_vs_Boundaries.md` | 2 | 🟢 |
+| 14.2 | Sino-Indian Border & Strategic Channels | `02_Border_Disputes_India.md` | 2 | 🟢 |
+
+**Topic 14 Frontiers & Boundaries:** **2/2 files complete** 🟢
+
+### Topic 15 — Settlements / Smart Cities → `GS-1/15_Settlements/`
+
+| Sub | Keyword | File | PYQs | Status |
+|-----|---------|------|------|--------|
+| 15.1 | Settlement Patterns (Rural/Urban) | `01_Settlement_Patterns.md` | 4 | 🟢 |
+| 15.2 | Smart Cities Mission | `02_Smart_Cities.md` | 4 | 🟢 |
+| 15.3 | Smart Villages | `03_Smart_Villages.md` | 1 | 🟢 |
+
+**Topic 15 Population & Settlements:** **3/3 files complete** 🟢
 
 ---
 
@@ -132,12 +204,8 @@ See `00_SYLLABUS.md` for full topic list. Subtopic files added as built.
 
 ## Build Order (recommended)
 
-1. **GS-1 Topic 01** — Art Culture subtopics (01.1 → 01.19) — **19 files done**; add 01.20 Modern art next
-2. **GS-1 Topic 07** — Split legacy Society file into 4 subtopics
-3. **GS-1 Topic 11** — Physical Geography (7 files)
-4. **GS-1 Topic 05** — World History **complete (5/5)** 🟢
-5. **GS-1 Topic 07** — Split legacy Society file into 4 subtopics
-6. GS-II Polity Topic 01–03
+1. **GS-1 complete** — **68/68 subtopic files** 🟢
+2. **GS-II Polity** — Topic 01–03 per `00_SYLLABUS.md`
 
 ---
 
