@@ -2,7 +2,7 @@
 
 Use this file to instruct any AI (or yourself) when creating or restructuring topic notes inside `subjects/`. Every topic file must be a **complete source of truth** — the student should never need to open NCERT, another book, or a different topic file to prepare for that topic's exam questions.
 
-**Exam pattern standard:** `pyq/2025/UP_PCS_Pre_2025_GS_Paper_1.md` (primary) + all files in `pyq/`  
+**Exam pattern standard:** `pyq/2025/UP_PCS_Pre_2025_GS_Paper_1.md` (format reference) + **all files in `pyq/` from 2018–2025** + **RO-ARO** — **every matching UPPCS/RO-ARO question must be searched and added per §UPPCS PYQ Search & Addition Protocol**  
 **Syllabus source:** Each subject folder's `00_Syllabus.md`  
 **Gold standard (structure + depth):** `subjects/environments & ecology/01_Environment_Basics.md` — **match this file's depth, not just its headings**  
 **Per-subject gold standard:** Once a subject's Topic 1 is student-approved, that file becomes the gold standard for *that* subject (e.g. `subjects/art and culture/01_Institutions_Related_to_Indian_Culture.md`)
@@ -13,7 +13,8 @@ Use this file to instruct any AI (or yourself) when creating or restructuring to
 
 ```
 Create/restructure Topic N in @subjects/[subject]/ using @subjects/prompt.md + @00_Syllabus.md + subject Topic 1 gold standard + @pyq/.
-Run Phase A→B→C from prompt.md. Self-verify (F1–F15). Output Delivery Report with "File ready: YES".
+Run Phase A→B→C from prompt.md. **Phase A Step 4: run full UPPCS PYQ search protocol (§UPPCS PYQ Search & Addition Protocol) — grep all `pyq/` files for years 2018–2025 + RO-ARO, list every hit, add all to topic file.**
+Self-verify (F1–F15). Output Delivery Report with PYQ audit table + "File ready: YES".
 Match Topic 1 depth. No etc. in lists. One topic only. Wait for approval before next.
 ```
 
@@ -59,7 +60,7 @@ Every topic must go through **Phase A → B → C**. Do not present output until
 1. Read 00_Syllabus.md → copy EVERY bullet for this topic number into a list
 2. Read 01_Environment_Basics.md → note section pattern (Definitions, How It Works, Exam Facts, PYQs, Examples)
 3. Read NCERT chapters for this topic (see §NCERT map) → list every heading/subheading
-4. Search pyq/ (all years) → list every question that maps to this topic
+4. **Run UPPCS PYQ search protocol** (§UPPCS PYQ Search & Addition Protocol) — grep **every file in `pyq/` (UPPCS Prelims 2018–2025 + RO-ARO)**; build a numbered PYQ inventory (Q#, year, exam type, subtopic, target §N.X); **do not write until this list exists**
 5. Build TOPIC BOUNDARY TABLE (IN / OUT / BRIEF)
 6. Build SYLLABUS → N.X MAP (one row per bullet; no bullet unassigned)
 7. Build CONCEPT INVENTORY — every exam concept that must appear, with target section:
@@ -94,7 +95,7 @@ These are the gaps that made Topic 1 *look* incomplete. The AI must check each o
 | 5 | **Definitions in every N.X** | 1.3 starts with "Why Classify?" only | Definitions table then How It Works |
 | 6 | **Mechanism content mandatory (point-wise)** | 5 tables, zero explanation | Point-wise bullets per subtopic (≥8 substantive points) before tables |
 | 7 | **UP Focus when applicable** | Kanpur pollution omitted in Topic 9 | UP Focus table in Consolidated Reference |
-| 8 | **PYQ mined, not invented** | Generic "UPPCS asked this" | Full question text from pyq/ folder |
+| 8 | **PYQ mined from pyq/, not invented** | Generic "UPPCS asked this"; only recent years searched | Full question text from `pyq/`; **all** matching UPPCS/RO-ARO (2018–2025) in PYQ Bank; Q# + year in Delivery Report |
 | 9 | **Practice mirrors 2025 format** | All simple MCQs | ≥40% multi-statement; mix A/R, matching |
 | 10 | **Syllabus map = checklist** | Vague "covers basics" | Specific concepts per row |
 
@@ -111,7 +112,7 @@ Every subtopic section must include **all** rows that apply:
 | `> **Exam note:**` | **Always** | ≥1 per subtopic; flag the most-tested trap |
 | Supporting tables | If classifying/comparing | Complete lists; max 1–3 tables per concept block |
 | `### Exam Facts (raata)` | **Always** | 5–15 bullets |
-| `### PYQs — [Subtopic]` | **Always** | 2 UPPCS or 1 UPPCS + 1 UPSC; full text + why |
+| `### PYQs — [Subtopic]` | **Always** | **≥2 UPPCS or RO-ARO** (any year 2018–2025) if in `pyq/`; else **1 UPPCS/RO-ARO + 1 UPSC**; full text + why |
 | `### Examples (N.X)` | **Always** | ≥3 rows; ≥1 UP/India-specific |
 
 **NCERT depth:** For each NCERT subheading mapped IN to this topic, there must be corresponding prose — not just a one-line table row.
@@ -172,7 +173,7 @@ If **any** of these are true, the file is **NOT complete**:
 | F6 | Common Trap date/number not present in Consolidated Reference |
 | F7 | `> **Exam note:**` missing from any N.X |
 | F8 | Practice Zone is mostly simple MCQs (<40% multi-statement) |
-| F9 | PYQs or PYQ Bank use summary-table only (no full question text); PYQ Bank answers visible without `<details>` |
+| F9 | PYQs or PYQ Bank use summary-table only (no full question text); PYQ Bank answers visible without `<details>`; **any UPPCS Prelims (2018–2025) or RO-ARO question in `pyq/` that maps to this topic is missing from the topic file** |
 | F10 | Internal syllabus audit fails — any bullet lacks N.X section or required blocks |
 | F11 | UP-relevant topic (geo/forest/river/pollution) lacks UP Focus table |
 | F12 | 4+ consecutive tables without prose between them |
@@ -193,7 +194,8 @@ After Phase C passes, output this table to the student — **no manual cross-che
 |------|--------|-------|
 | Syllabus bullets mapped (count) | ✅ N/N | [list any grouped bullets] |
 | NCERT headings covered (IN scope) | ✅ | [chapters checked] |
-| PYQs mined from pyq/ | ✅ | [UPPCS X, UPSC Y questions] |
+| PYQs mined from pyq/ | ✅ | **UPPCS/RO-ARO: [list Q# + year + exam for every hit, 2018–2025]**; UPSC: [count]; all in PYQ Bank |
+| UPPCS PYQ audit | ✅ | Searched: [list all pyq/ paths — Prelims 2018–2025 + RO-ARO]; Found: [N]; Added inline: [N]; Added PYQ Bank: [N]; Missing: 0 |
 | 2025 overlap in prose | ✅ | [Q numbers → sections] |
 | Practice Zone count + format mix | ✅ | [N questions; X% multi-statement] |
 | UP Focus included | ✅/N/A | |
@@ -346,17 +348,125 @@ Minimum when applicable:
 
 ---
 
-## PYQ Mining Rules
+## UPPCS PYQ Search & Addition Protocol (Mandatory)
+
+**Every topic file must include every UPPCS Prelims (2018–2025) and RO-ARO question from `pyq/` that maps to that topic.** Do not rely on memory, training data, or "pattern" questions when verbatim text exists in the repo. **Do not limit searches to 2024–2025 only** — older papers repeat concepts and traps.
+
+### Repository layout (search all of these)
+
+| Path | File | Exam | Status |
+|------|------|------|--------|
+| `pyq/2025/` | `UP_PCS_Pre_2025_GS_Paper_1.md` | UPPCS Prelims 2025 GS Paper 1 | ✅ Available |
+| `pyq/2024/` | `UPPCS_2024_Prelims_GS1_Question_Paper.md` | UPPCS Prelims 2024 GS Paper 1 | ✅ Available |
+| `pyq/2023/` | `UP_PCS_PRE_2023_GS_PAPER_1.md` | UPPCS Prelims 2023 | ✅ Available |
+| `pyq/2022/` | `UP_PCS_PRE_2022_GS_PAPER_1.md` | UPPCS Prelims 2022 | ✅ Available |
+| `pyq/2021/` | `UP_PCS_PRE_2021_GS_PAPER_1.md` | UPPCS Prelims 2021 | ✅ Available |
+| `pyq/2020/` | `UP_PCS_PRE_2020_GS_PAPER_1.md` | UPPCS Prelims 2020 | ✅ Available |
+| `pyq/2019/` | `UP_PCS_PRE_2019_GS_PAPER_1.md` | UPPCS Prelims 2019 | ✅ Available |
+| `pyq/2018/` | `UP_PCS_PRE_2018_GS_PAPER_1.md` | UPPCS Prelims 2018 | ✅ Available |
+| `pyq/ro-aro/` or `pyq/YYYY/*RO*ARO*` | `RO_ARO_YYYY_Prelims_GS1_Question_Paper.md` | **RO-ARO** Prelims | As added |
+| `pyq/YYYY/` (any other folder) | — | UPPCS / UPPSC exams | As added |
+
+**Coverage:** UPPCS Prelims GS Paper-I is complete for **2018–2025** (150 questions per year). Search **all eight year folders** — do not limit to 2024–2025 only.
+
+**RO-ARO:** Include **Review Officer / Assistant Review Officer** papers under `pyq/ro-aro/` (or year folders with `RO`, `ARO`, `RO-ARO` in filename). Tag inline as `RO-ARO Prelims YYYY, Q#`. Same inclusion rules as UPPCS Prelims — full text in PYQ Bank, map to §N.X by subtopic.
+
+> **Reject:** Searching only `pyq/2025/` and `pyq/2024/` when **2018–2023** folders also exist (all eight years are now in the repo). **Reject:** Ignoring RO-ARO files when `pyq/ro-aro/` exists.
+
+### Phase A — Search workflow (run before writing a single section)
+
+```
+Step 1: List syllabus keywords — every bullet for this topic + synonyms, Acts, schemes, place names, org names
+Step 2: List ALL pyq/ paths to search:
+        (a) pyq/2025/ → pyq/2024/ → pyq/2023/ → pyq/2022/ → pyq/2021/ → pyq/2020/ → pyq/2019/ → pyq/2018/
+        (b) pyq/ro-aro/ (all files) OR grep pyq/ for RO-ARO / RO / ARO in filenames
+        (c) Any other pyq/YYYY/ folders not listed above
+Step 3: For EACH path, grep for:
+        (a) Subject: line matching this subject (Environment, Art & Culture, History, Geography, Polity, Economy, Science, Current Affairs)
+        (b) Topic: / Subtopic: metadata lines near syllabus labels
+        (c) Body text — concept names, place names, scheme names, match-list pairs from Concept Inventory
+Step 4: For EACH hit — record: Question # | Year | Exam (Prelims / RO-ARO) | Subject/Topic/Subtopic | Maps to §N.X | pyq/ file path
+Step 5: Cross-subject sweep — re-grep across ALL years (2018–2025 + RO-ARO) for UP-specific traps (districts, rivers, NOT-in-UP negatives) even if Subject ≠ primary
+Step 6: Build PYQ INVENTORY TABLE (AI-internal) — every row must map to a §N.X or "Topic-level PYQ Bank only"
+Step 7: Stop if inventory has zero UPPCS/RO-ARO hits but topic is exam-weight ★★+ — broaden keywords and re-search all years before writing
+```
+
+**Tools:** Use workspace search (`grep`/ripgrep) on **entire `pyq/` tree** — do **not** skip because a folder is large or only recent years were used in a prior topic. Read matching `# Question N` blocks in full (question + options; `Year`/`Exam` lines only if present in that file).
+
+### How to map a PYQ to a syllabus topic
+
+| Signal | Rule |
+|--------|------|
+| **`Subtopic:` field** | Primary mapper when present — assign to matching §N.X |
+| **`Topic:` field** | Primary mapper when `Subtopic:` is absent (standard in `pyq/2018/`–`pyq/2025/` per `pyq/prompt.md`) |
+| **`Subject:` field** | Filter first; then apply cross-subject rule below |
+| **Keyword in question body** | Map if concept is **primary** in this topic file (Topic Boundary Table IN) |
+| **Cross-subject** | Include if UPPCS/RO-ARO tests a concept this file owns — e.g. Art 48A/51A(g) → Topic 1; ISFR/FSI → Topic 8/28; Ramsar NOT in UP → Topic 32; Chipko/Appiko → Topic 29; Agenda 21/LiFE → Topic 1/15/24 |
+| **OUT of scope** | PYQ maps to another topic → do **not** add full text here; one-line trap note only if it affects this topic's questions |
+
+### Minimum inclusion rules
+
+| Level | Rule |
+|-------|------|
+| **Topic file (total)** | **Every** UPPCS Prelims (2018–2025) + **every** RO-ARO question from `pyq/` that maps to this topic → must appear in **Complete PYQ Bank** with full question text |
+| **Per §N.X subtopic** | **≥2 UPPCS or RO-ARO** inline under `### PYQs — [Subtopic]` if available in `pyq/` across **any year 2018–2025**; else **1 UPPCS/RO-ARO + 1 UPSC** |
+| **2025 paper** | Every matching **2025 Q** → taught in matching §N.X **prose** + inline PYQ + PYQ Bank (not Practice Zone only) **(F5)** |
+| **Older UPPCS (2018–2024)** | Every matching Q → inline in best-matching §N.X + PYQ Bank; cite year in prose traps where high-yield (e.g. `2019 Q42`, `2022 Q88`) |
+| **RO-ARO** | Same as UPPCS — full text, map to §N.X, tag `RO-ARO Prelims YYYY, Q#` |
+| **UPSC Prelims** | Add where concept overlaps — **after** all UPPCS/RO-ARO for that subtopic are placed |
+| **Pattern PYQs** | Allowed **only** when no UPPCS/RO-ARO/USC verbatim exists in `pyq/` for that concept — suffix `— pattern` in header |
+
+### Where to add each PYQ (four placements)
+
+1. **§N.X prose** — 1-line callout for high-yield traps: `> **2025 Q144 trap:** Nokrek = Meghalaya, not Manipur` (use actual year/Q# from inventory)
+2. **`### PYQs — [Subtopic]`** — full question text + answer + why wrong options fail (exam + year + Q# tag, e.g. `UPPCS Prelims 2019, Q42` or `RO-ARO Prelims 2021, Q15`)
+3. **`## Complete PYQ Bank`** — every deduplicated UPPCS/RO-ARO from `pyq/` for this topic; answers in `<details>`; **group by year** (2025 → 2018 → RO-ARO) or chronological
+4. **Practice Zone** (optional) — reproduce 1–3 highest-yield UPPCS/RO-ARO if not already covered by original-format MCQs
+
+### Subject-specific search hints (Environment & Ecology)
+
+Grep **all years 2018–2025 + RO-ARO** in `pyq/` for these in addition to `Subject: Environment`:
+
+| Topic band | Example grep terms |
+|------------|-------------------|
+| 1–4 | ecology, ecosystem, biodiversity, food chain, pyramid, niche, succession |
+| 5–8, 32–33 | national park, sanctuary, biosphere, tiger, elephant, forest, Dudhwa, Ramsar, ISFR |
+| 9, 38 | pollution, AQI, NCAP, BOD, plastic, waste |
+| 10, 34–37 | climate, GHG, carbon, warming, ozone, Montreal |
+| 15–18, 42–43 | SDG, Brundtland, Rio, CBD, UNFCCC, Paris, EPA, WPA, NGT |
+| 24, 44 | LiFE, carbon credit, blue economy, microplastic |
+| 29 | Chipko, Appiko, Silent Valley, Narmada |
+| 31 | World Environment Day, Wetlands Day, Ozone Day |
+| UP traps | Sultanpur, Valmiki, Bahraich, Pilibhit, NOT located, NOT in UP |
+
+*(Add analogous keyword tables when new subjects are built — mirror §PYQ mining Art & Culture below.)*
+
+### Reject conditions (PYQ-specific)
+
+| Reject | Why |
+|--------|-----|
+| "UPPCS asked about X" with no question text | **F9** — must mine from `pyq/` |
+| 2025 Q cited only in Practice Zone | **F5** — must be in §N.X prose |
+| UPPCS in `pyq/` (any year 2018–2025) or RO-ARO mapped to topic but missing from PYQ Bank | **F9** |
+| Summary table `\| Q# \| Year \| Answer \|` instead of full cards | **F9** |
+| Pattern PYQ when verbatim exists in `pyq/` | Replace with mined text |
+
+---
+
+## PYQ Mining Rules (summary)
 
 Do **not** rely only on inline memory. For each topic:
 
-1. Search `pyq/2025/UP_PCS_Pre_2025_GS_Paper_1.md` for the topic's primary subject tag (`Environment`, `Art & Culture`, `History`, `Geography`, etc.) and related subjects (Current Affairs, Polity) that map to this topic.
-2. Search `pyq/2024/` and any other year folders.
-3. Include **UPPCS Prelims** first; add **UPSC Prelims** where concept overlaps.
-4. Minimum PYQs per subtopic: **2 UPPCS** if available, else **1 UPPCS + 1 UPSC**.
-5. Tag every inline PYQ with exam + year; add **full question text** to Complete PYQ Bank at end (answer hidden in `<details>`).
+1. Run the full **§UPPCS PYQ Search & Addition Protocol** above — mandatory Phase A step.
+2. Search **all `pyq/` folders: UPPCS Prelims 2018 → 2019 → … → 2025**, then **`pyq/ro-aro/`** (or RO-ARO filenames anywhere under `pyq/`). Use **`pyq/2025/`** as format reference only — not as the only source.
+3. Filter by `Subject:`, `Topic:`, `Subtopic:` (if present) **and** keyword grep for cross-subject hits **across every year**.
+4. Include **UPPCS Prelims + RO-ARO first** (all matching questions from 2018–2025); add **UPSC Prelims** where concept overlaps.
+5. Minimum per §N.X: **≥2 UPPCS or RO-ARO** if available in `pyq/` (any year); else **1 UPPCS/RO-ARO + 1 UPSC**.
+6. Tag every inline PYQ with **exam + year + Q number** when known (e.g. `UPPCS Prelims 2019, Q42`, `RO-ARO Prelims 2020, Q18`, `UPPCS Prelims 2025, Q144`).
+7. Add **full question text** to **Complete PYQ Bank** at end (answer hidden in `<details>`) — include **all years**, not just latest paper.
+8. Delivery Report must list **every UPPCS/RO-ARO Q# found (with year and exam type)** and confirm all were added **(PYQ audit row)**. Note any missing year folders in repo.
 
-**Map PYQ subjects loosely to syllabus topics** — e.g. "Forestry / ISFR 2023" → Topic 8; "Lichens" → Topic 4 or 21; "LiFE" → Topic 24 or 15.
+**Map PYQ subjects loosely to syllabus topics** — e.g. "Forestry / ISFR 2023" → Topic 8; "Lichens" → Topic 4 or 21; "LiFE" → Topic 24 or 15; "Biosphere Reserve / Nokrek" → Topic 33 (and brief in Topic 6).
 
 ---
 
@@ -365,7 +475,7 @@ Do **not** rely only on inline memory. For each topic:
 Copy-paste this block as your instruction:
 
 ```
-Restructure @[topic_file].md using @subjects/prompt.md, @00_Syllabus.md, @01_Environment_Basics.md, and @pyq/ (all years).
+Restructure @[topic_file].md using @subjects/prompt.md, @00_Syllabus.md, @01_Environment_Basics.md, and @pyq/ (Prelims 2018–2025 + RO-ARO).
 
 MANDATORY WORKFLOW (from prompt.md — do not skip):
 Phase A: Pre-audit → syllabus list, NCERT map, PYQ list, boundary table, concept inventory
@@ -378,7 +488,7 @@ Rules:
 3. Every N.X needs: Definitions (if applicable) + How It Works (**point-wise bullets**, ≥8 points) + Exam note + Exam Facts + PYQs + Examples.
 4. No "etc." — all enumerated lists must be complete (biomes, zones, categories).
 5. Every 2025 paper overlap concept must appear in N.X prose, not only Practice Zone.
-6. PYQs: mine pyq/ folder; full question text inline + Complete PYQ Bank self-test cards (exam+year in header, answers in `<details>`).
+6. PYQs: run §UPPCS PYQ Search Protocol — grep all `pyq/` files (**2018–2025 Prelims + RO-ARO**); add **every** matching UPPCS/RO-ARO (full text inline + Complete PYQ Bank); list all Q# + year in Delivery Report.
 7. Practice Zone: scaled count (25–50); UPPCS 2025 format mix (≥40% multi-statement); answers in `<details>` blocks.
 8. Hindi terms in Must-Know Term Comparisons.
 9. UP Focus table if topic touches UP geography/forests/wildlife/rivers/pollution.
@@ -752,6 +862,9 @@ Each framework: **Question title → Structure (word count) → 5–7 bullet poi
 - [ ] Practice Zone ≥40% multi-statement **(F8)**
 - [ ] Practice Zone answers wrapped in `<details><summary>Show answer</summary>` (hidden until click)
 - [ ] Practice count matches topic size (25–50)
+- [ ] UPPCS PYQ search run on **all** `pyq/` files (**Prelims 2018–2025 + RO-ARO**) **(F9)**
+- [ ] **Every** matching UPPCS/RO-ARO from `pyq/` added to Complete PYQ Bank with full question text **(F9)**
+- [ ] PYQ inventory in Delivery Report lists all Q# + year + exam type found — Missing: 0 **(F9)**
 - [ ] PYQs mined from `pyq/` — full text inline + PYQ Bank self-test cards with hidden answers **(F9)**
 - [ ] Hindi column in Must-Know Term Comparisons **(F14)**
 
@@ -780,7 +893,7 @@ Phase A — PRE-AUDIT (before writing)
   Step 1: Read 00_Syllabus.md → list ALL bullets for THIS topic
   Step 2: Read 01_Environment_Basics.md → gold standard structure
   Step 3: Read NCERT chapters for this topic → heading list
-  Step 4: Search pyq/ (all years) → PYQ list for this topic
+  Step 4: Run §UPPCS PYQ Search Protocol — grep all `pyq/` (**2018–2025 Prelims + RO-ARO**) → PYQ inventory (Q#, year, exam, §N.X) — **mandatory before writing**
   Step 5: Build Topic Boundary Table (IN / OUT / BRIEF)
   Step 6: Build Syllabus → N.X map + Concept Inventory
   Step 7: Draft Syllabus Coverage Map with specific "What must be inside"
@@ -830,7 +943,7 @@ Restructure environments & ecology/02_Ecology_and_Ecosystem.md using:
 - @subjects/prompt.md (run Phase A → B → C; output Delivery Report)
 - @00_Syllabus.md (all 16 subtopics — map each to 2.X)
 - @01_Environment_Basics.md (gold standard depth — NOT table-only)
-- @pyq/ (all years)
+- @pyq/ (Prelims 2018–2025 + RO-ARO)
 
 Self-verify per prompt.md — I should NOT need to cross-check completeness.
 Phase A: boundary table + concept inventory before writing.
@@ -847,7 +960,7 @@ Create art and culture/01_Institutions_Related_to_Indian_Culture.md using:
 - @subjects/prompt.md (run Phase A → B → C; output Delivery Report)
 - @subjects/art and culture/00_Syllabus.md (all 16 subtopics — map each to 1.X)
 - @subjects/environments & ecology/01_Environment_Basics.md (structural gold standard until Topic 1 approved)
-- @pyq/ (all years)
+- @pyq/ (Prelims 2018–2025 + RO-ARO)
 
 Self-verify per prompt.md — I should NOT need to cross-check completeness.
 Phase A: boundary table + concept inventory before writing.
@@ -937,7 +1050,7 @@ Work on Topic 1 only. Wait for my approval before Topic 2.
 
 ### PYQ mining (Art & Culture)
 
-Search `pyq/` for `Subject: Art & Culture`, `Subject: History` (culture overlap), `Subject: Geography` (monument/site matching), and multi-statement questions on dance, music, UNESCO, temples.
+Run **§UPPCS PYQ Search & Addition Protocol** on all `pyq/` files (**UPPCS Prelims 2018–2025 + RO-ARO**). Search for `Subject: Art & Culture`, `Subject: History` (culture overlap), `Subject: Geography` (monument/site matching), and multi-statement questions on dance, music, UNESCO, temples. Add **every** matching UPPCS/RO-ARO to the topic file (inline + Complete PYQ Bank).
 
 **UP Focus (Art & Culture):** Mathura/Vrindavan (Braj culture), Varanasi (classical music, ghats), Lucknow (Kathak, Awadhi), Sarnath (Buddhist art), Agra (Mughal), Khajuraho (UP-adjacent trap), Chunar/Chunar fort crafts, UP folk (Raslila, Nautanki), state museums (Lucknow State Museum, Allahabad Museum).
 
