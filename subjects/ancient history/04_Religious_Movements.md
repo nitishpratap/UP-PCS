@@ -76,14 +76,14 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 
 ## Exam Visuals — High-ROI Images
 
-> Minimum exam-tested visuals only. Raata the caption — not decoration.
+> **Type priority:** location map → conceptual diagram. Images stored locally (`images/`) so they open offline.
 
-### 1. Great Stupa, Sanchi (Madhya Pradesh)
+### 1. Buddhist Sites — Location Map (India & Nepal)
 
-![Sanchi Great Stupa — hemispherical Buddhist monument with toranas](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/The_Great_Stupa_at_Sanchi.jpg/800px-The_Great_Stupa_at_Sanchi.jpg)
+![Map of India showing Sarnath, Bodh Gaya, Kushinagar, Lumbini, Sanchi, Nalanda and other Buddhist sites](images/buddhist_sites_map.png)
 
-*Mauryan-origin **stupa** enlarged under **Shungas/Satavahanas** — **toranas** (gateways) = finest early Buddhist sculpture. **Ashoka** erected original brick stupa; **2022 Q80** Ayaka pillars trap = Ghantasala (Andhra), not Sanchi.*
-*Source: Wikimedia Commons — [File:The Great Stupa at Sanchi.jpg](https://commons.wikimedia.org/wiki/File:The_Great_Stupa_at_Sanchi.jpg)*
+*Raata **event ↔ place**: **Lumbini = birth** (Nepal); **Bodh Gaya = enlightenment**; **Sarnath = first sermon** (UP); **Kushinagar = Mahaparinirvana** (UP). **Sanchi = Great Stupa** (MP, Ashokan origin). **2025 council order trap**: Rajagriha → Vaishali → Pataliputra → Kundalvana.*
+*Source: Study map — generated for UPPCS location-matching*
 
 ---
 

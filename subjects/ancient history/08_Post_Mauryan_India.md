@@ -76,14 +76,14 @@ KEY INSCRIPTIONS:
 
 ## Exam Visuals — High-ROI Images
 
-> Minimum exam-tested visuals only. Raata the caption — not decoration.
+> **Type priority:** location map → conceptual diagram. Images stored locally (`images/`) so they open offline.
 
-### 1. Hathigumpha Inscription, Udayagiri (Odisha)
+### 1. Post-Mauryan — Foreign Invasion Sequence (Conceptual)
 
-![Hathigumpha rock inscription on Udayagiri hill near Bhubaneswar](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Hathigumpha_inscription.jpg/800px-Hathigumpha_inscription.jpg)
+![Timeline and map showing Greeks, Shakas, Parthians, Kushans invasion order plus Hathigumpha location in Odisha](images/post_mauryan_invasion_diagram.png)
 
-***Kharavela** of **Kalinga** — major post-Mauryan eastern king. **UPPCS 2018 Q16**: Hathigumpha inscription = **Kharavela** (trap: Ashoka, Chandragupta, Harsha). Records military campaigns, Jain patronage, repair of Kalinga fort.*
-*Source: Wikimedia Commons — [File:Hathigumpha inscription.jpg](https://commons.wikimedia.org/wiki/File:Hathigumpha_inscription.jpg)*
+*Raata **chronology ↔ region**. **2023 Q23**: Greeks → Shakas → Kushans (answer A). **Hathigumpha = Odisha** (Udayagiri) — **Kharavela**, NOT Ashoka (**2018 Q16**). **Pushyamitra Shunga 185 BCE** = Mauryan end; **Ayodhya Ashwamedha** inscription.*
+*Source: Study diagram — generated for UPPCS chronology & location*
 
 ---
 

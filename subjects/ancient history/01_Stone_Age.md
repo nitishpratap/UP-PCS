@@ -92,14 +92,21 @@ UP FOCUS:
 
 ## Exam Visuals — High-ROI Images
 
-> Minimum exam-tested visuals only. Raata the caption — not decoration.
+> **Type priority:** location map → conceptual diagram. Images stored locally (`images/`) so they open offline.
 
-### 1. Bhimbetka Rock Paintings (Madhya Pradesh)
+### 1. Prehistoric Sites — Location Map (India)
 
-![Bhimbetka rock shelter paintings — animals in red ochre on sandstone](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bhimbetka_rock_Paintings.jpg/960px-Bhimbetka_rock_Paintings.jpg)
+![Map of India showing Bhimbetka, Bagor, Burzahom, Mehrgarh, Koldihwa, Mahagara, Chirand, Soan Valley](images/stone_age_sites_map.png)
 
-*World's oldest cave-art cluster — **750 shelters, 500 painted**, UNESCO **2003**. **UPPCS 2020 Q10**: Bhimbetka = rock paintings (trap: Bagor = domestication, Burzahom = pit dwellings). Discovered **V.S. Wakankar 1957–58**.*
-*Source: Wikimedia Commons — [File:Bhimbetka rock Paintings.jpg](https://commons.wikimedia.org/wiki/File:Bhimbetka_rock_Paintings.jpg)*
+*Raata **site ↔ state** pairs — UPPCS loves negative matching. **Bhimbetka = MP** (Raisen, near Bhopal); **Bagor = Rajasthan**; **Burzahom = Kashmir**; **Koldihwa/Mahagara = UP Belan Valley**; **Mehrgarh = Balochistan** (not India).*
+*Source: Study map — generated for UPPCS site-matching*
+
+### 2. Bhimbetka — What the Site Actually Looks Like (Conceptual)
+
+![Cross-section diagram of natural rock shelter in sandstone cliff with layered paintings inside](images/bhimbetka_rock_shelter_diagram.png)
+
+*Bhimbetka is **not a built cave** — it is a **natural rock shelter** (overhang) in **Vindhyan sandstone hills**. Paintings in **red ochre** (animals) and **white** (humans); **superimposition** = layers from different periods. **750 shelters, 500 painted**, UNESCO **2003**. **UPPCS 2020 Q10**: Bhimbetka = rock paintings.*
+*Source: Study diagram — rock-shelter structure for identification*
 
 ---
 

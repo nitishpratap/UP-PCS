@@ -82,14 +82,14 @@ POST-HARAPPAN (syllabus):
 
 ## Exam Visuals — High-ROI Images
 
-> Minimum exam-tested visuals only. Raata the caption — not decoration.
+> **Type priority:** location map → conceptual diagram. Images stored locally (`images/`) so they open offline.
 
-### 1. Great Bath, Mohenjo-daro (Sindh, Pakistan)
+### 1. IVC / Harappan Sites — Location Map
 
-![Great Bath — brick-lined water tank with colonnades at Mohenjo-daro](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Great_Bath%2C_Mohenjo-daro.jpg/800px-Great_Bath%2C_Mohenjo-daro.jpg)
+![Map of Indian subcontinent showing Harappa, Mohenjo-daro, Lothal, Dholavira, Alamgirpur, Hulas, Mandi and other IVC sites](images/ivc_sites_map.png)
 
-*Largest **public water tank** of Mature Harappan urban planning — **Mohenjo-daro**, NOT Harappa/Kalibangan/Dholavira. Used for ritual bathing; brick waterproofed with bitumen.*
-*Source: Wikimedia Commons — [File:Great Bath, Mohenjo-daro.jpg](https://commons.wikimedia.org/wiki/File:Great_Bath,_Mohenjo-daro.jpg)*
+*Raata **site ↔ feature ↔ state**. **Great Bath = Mohenjo-daro** (not Harappa). **UP sites**: Alamgirpur (eastern boundary), Hulas, Mandi. **Rakhigarhi = Haryana** (2025 trap — not UP). **Lothal = Gujarat port**; **Dholavira = Kutch dams**.*
+*Source: Study map — generated for UPPCS site-matching*
 
 ---
 

@@ -597,50 +597,67 @@ Every topic file MUST follow this skeleton:
 
 ## Exam Visuals Protocol (History, Art & Culture, Geography)
 
-Add **only** images that help answer UPPCS **identification, location-matching, map, coin, inscription, or monument** questions. Decoration is forbidden.
+Add **only** visuals that help answer UPPCS **location-matching, map, chronology, or "which site/feature"** questions. Decoration and random chapter photos are forbidden.
+
+### Visual type priority (use in this order)
+
+| Priority | Type | When to use | Example |
+|----------|------|-------------|---------|
+| **1** | **Location map** | Site ↔ state/district, capital matching, empire extent | Prehistoric sites map; 16 Mahajanapadas; IVC sites |
+| **2** | **Conceptual diagram** | Structure, process, chronology, comparison | Bhimbetka rock-shelter cross-section; invasion timeline |
+| **3** | **Labelled artefact sketch** | Only when PYQ asks identify monument/coin/inscription | Lion Capital parts, stupa plan |
+| **4** | **Photograph** | Last resort — only if map/diagram cannot teach it | Skip if decorative |
+
+**Reject:** Generic monument photos with no location context; Wikimedia hotlinks that break offline; "related to chapter" images with no exam trap.
 
 ### When required
 
 | Subject type | Add visuals? | Max per topic |
 |--------------|--------------|---------------|
 | **Ancient/Medieval History** | Yes — if PYQ or classic trap exists | **1–2** |
-| **Art & Culture** | Yes — architecture, sculpture, painting | **1–2** |
+| **Art & Culture** | Yes — site maps, monument plans, school comparison | **1–2** |
 | **Geography / Environment** | Yes — maps, landforms, protected-area location | **1–2** |
 | **Pure concept topics** (e.g. Vedic society, polity theory) | **Skip** — no forced images | **0** |
 
 ### Selection rules (all must pass)
 
-1. **PYQ-linked or trap-linked** — image teaches something asked in `pyq/` or a Common Trap (e.g. Bhimbetka paintings, Mahajanapadas capitals map, Hathigumpha).
-2. **Minimum count** — default **1** image; **2** only if two distinct high-ROI identifications (e.g. Lion Capital + Barabar cave for Mauryan art).
-3. **Best source only** — prefer **Wikimedia Commons** (ASI/Archaeological Survey photos, scholarly maps). Do not use random blogs or watermarked stock.
-4. **Generate only when needed** — AI-generate **maps/diagrams** if no reliable Commons file exists; never generate fake photos of real artefacts.
-5. **Caption = exam note** — every image needs a 1–2 line italic caption: *what to identify + PYQ year/trap*.
+1. **PYQ-linked or trap-linked** — visual must teach a `pyq/` or Common Trap answer (e.g. Bhimbetka = MP + rock shelter, not Bagor).
+2. **Minimum count** — default **1**; **2** only if two distinct high-ROI types (e.g. location map + structure diagram).
+3. **Must open offline** — save to `subjects/[subject]/images/`; use relative path `images/filename.png`. **Never rely on remote URLs alone.**
+4. **Generate maps/diagrams** when no reliable local file exists — AI-generate **location maps and conceptual diagrams**; never generate fake photos of real artefacts.
+5. **Caption = exam note** — every visual needs italic caption: *site ↔ state + PYQ year/trap*.
 
 ### Placement & format
 
-Insert `## Exam Visuals — High-ROI Images` **after Memory Tricks, before first `## N.1`** (inside Quick Revision block area).
+Insert `## Exam Visuals — High-ROI Images` **after Memory Tricks, before first `## N.1`**.
 
 ```markdown
 ## Exam Visuals — High-ROI Images
 
-> Minimum exam-tested visuals only. Raata the caption — not decoration.
+> **Type priority:** location map → conceptual diagram. Images stored locally (`images/`) so they open offline.
 
-### 1. [Name — Location/Type]
+### 1. [Site/Topic] — Location Map
 
-![Alt text — what student must identify](https://upload.wikimedia.org/wikipedia/commons/.../image.jpg)
+![Alt — what student must match](images/topic_sites_map.png)
 
-*Exam caption: site/artefact + dynasty/period + PYQ trap (e.g. UPPCS 2020 Q10 — Bhimbetka = rock paintings).*
-*Source: Wikimedia Commons — [File:Original_filename.jpg](https://commons.wikimedia.org/wiki/File:...)*
+*Raata site ↔ state pairs. **UPPCS 2020 Q10**: Bhimbetka = MP rock paintings (trap: Bagor = Rajasthan).*
+*Source: Study map — generated for UPPCS site-matching*
+
+### 2. [Site] — Conceptual Diagram (optional second image)
+
+![Alt — structure or process](images/site_structure_diagram.png)
+
+*What the site looks like structurally — e.g. Bhimbetka = natural rock shelter in sandstone, not built cave.*
+*Source: Study diagram — structure for identification*
 ```
-
-**Local storage (optional):** If images are downloaded, store in `subjects/[subject]/images/` and use relative paths `images/filename.jpg`. Remote Wikimedia URLs are equally valid.
 
 ### Phase C check
 
-- [ ] 0–2 images only; each passes selection rules above
-- [ ] Every image has exam-caption + source line
-- [ ] No image-only section without caption/trap
-- [ ] Topics with no visual PYQ (e.g. Vedic polity) correctly have **no** Exam Visuals section
+- [ ] 0–2 visuals only; each passes selection rules above
+- [ ] **Every image is a local file** in `images/` (opens offline in VS Code/Cursor)
+- [ ] At least one visual is a **map or diagram** (not photo-only section)
+- [ ] Every visual has exam-caption (PYQ/trap) + source line
+- [ ] Topics with no visual PYQ correctly have **no** Exam Visuals section
 
 ---
 
@@ -912,9 +929,11 @@ Each framework: **Question title → Structure (word count) → 5–7 bullet poi
 - [ ] Common Trap items synced to Consolidated Reference **(F6)**
 
 ### Exam visuals (History / Art & Culture / Geography)
-- [ ] `## Exam Visuals` present only when 1–2 high-ROI images exist (see §Exam Visuals Protocol)
-- [ ] Each image has exam-caption (PYQ/trap) + source line
-- [ ] Image count ≤2 per topic; no decorative stock photos
+- [ ] `## Exam Visuals` present only when 1–2 high-ROI visuals exist (see §Exam Visuals Protocol)
+- [ ] **All images stored locally** in `images/` — open offline (no remote-URL-only)
+- [ ] At least one visual is a **location map or conceptual diagram** (not photo-only)
+- [ ] Each visual has exam-caption (PYQ/trap) + source line
+- [ ] Visual count ≤2 per topic; no decorative stock photos
 
 ### Exam alignment
 - [ ] 2025 overlap concepts in matching N.X prose + noted in Delivery Report **(F5)**
@@ -1117,18 +1136,18 @@ Run **§UPPCS PYQ Search & Addition Protocol** on all `pyq/` files (**UPPCS Prel
 
 | Topic | File | Status | Exam Visuals (1–2 max) |
 |-------|------|--------|------------------------|
-| 1 | `01_Stone_Age.md` | ✅ Complete | Bhimbetka paintings (2020 Q10) |
-| 2 | `02_Indus_Valley_Civilization.md` | ✅ Complete | Great Bath, Mohenjo-daro |
+| 1 | `01_Stone_Age.md` | ✅ Complete | Sites location map + Bhimbetka rock-shelter diagram |
+| 2 | `02_Indus_Valley_Civilization.md` | ✅ Complete | IVC sites location map |
 | 3 | `03_Vedic_Civilization.md` | ✅ Complete | None — concept topic, no visual PYQ |
-| 4 | `04_Religious_Movements.md` | ✅ Complete | Sanchi Great Stupa |
-| 5 | `05_Sixth_Century_BCE.md` | ✅ Complete | Mahajanapadas map (2020 Q6) |
-| 6 | `06_Foreign_Invasions.md` | ✅ Complete | Alexander invasion map |
-| 7 | `07_Mauryan_Empire.md` | ✅ Complete | Lion Capital + Barabar cave |
-| 8 | `08_Post_Mauryan_India.md` | ✅ Complete | Hathigumpha inscription (2018 Q16) |
-| 9 | `09_Gupta_Age.md` | ✅ Complete | Sarnath Buddha + Allahabad pillar |
-| 10+ | Post-Gupta onward | Pending | Add per §Exam Visuals Protocol |
+| 4 | `04_Religious_Movements.md` | ✅ Complete | Buddhist sites location map |
+| 5 | `05_Sixth_Century_BCE.md` | ✅ Complete | Mahajanapadas location map |
+| 6 | `06_Foreign_Invasions.md` | ✅ Complete | Alexander invasion route map |
+| 7 | `07_Mauryan_Empire.md` | ✅ Complete | Mauryan extent & key sites map |
+| 8 | `08_Post_Mauryan_India.md` | ✅ Complete | Foreign invasion sequence diagram |
+| 9 | `09_Gupta_Age.md` | ✅ Complete | Gupta extent & key sites map |
+| 10+ | Post-Gupta onward | Pending | Map/diagram per §Exam Visuals Protocol |
 
-**Visual priority for Ancient History:** maps (mahajanapadas, invasion routes), ASI site photos (IVC structures, inscriptions, pillars, coins, sculpture schools). Skip forced images on purely textual topics (Vedic polity, administrative theory).
+**Visual priority for Ancient History:** (1) **location maps** for site/capital matching, (2) **conceptual diagrams** for structure/chronology, (3) labelled sketches only when PYQ demands artefact ID. All files in `images/` — must open offline.
 
 ### Future subjects
 

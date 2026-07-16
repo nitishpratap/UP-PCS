@@ -79,21 +79,14 @@ SCIENCE: Aryabhata (Aryabhatiya, zero) | Varahamihira | Brahmagupta
 
 ## Exam Visuals — High-ROI Images
 
-> Minimum exam-tested visuals only. Raata the caption — not decoration.
+> **Type priority:** location map → conceptual diagram. Images stored locally (`images/`) so they open offline.
 
-### 1. Sarnath Buddha (Gupta Sculpture)
+### 1. Gupta Empire — Extent & Key Sites Map
 
-![Standing Buddha statue in red sandstone from Sarnath — refined Gupta style](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Sarnath_Buddha_2.jpg/500px-Sarnath_Buddha_2.jpg)
+![Map showing Gupta empire extent with Prayagraj, Sarnath, Nalanda, Pataliputra and other sites labeled](images/gupta_sites_map.png)
 
-*Classic **Gupta-period Buddhist sculpture** — **Sarnath school**: transparent drapery, spiritual calm, refined proportions. Trap: NOT Gandhara (Greco-Buddhist, Kushan); NOT Mauryan (no such refined stone Buddha).*
-*Source: Wikimedia Commons — [File:Sarnath Buddha 2.jpg](https://commons.wikimedia.org/wiki/File:Sarnath_Buddha_2.jpg)*
-
-### 2. Allahabad Pillar (Prayagraj, UP)
-
-![Ashokan pillar at Allahabad fort with later Gupta inscriptions](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ashoka_pillar_at_Allahabad.jpg/500px-Ashoka_pillar_at_Allahabad.jpg)
-
-*Same pillar carries **Ashokan edicts** + **Samudragupta's Prayag Prashasti** (Harishena). **UPPCS 2018 Q87** south-king matching; **2022 Q23** silver coin trap separate. Raata: **Prayag Prashasti = Samudragupta**, NOT Chandragupta II.*
-*Source: Wikimedia Commons — [File:Ashoka pillar at Allahabad.jpg](https://commons.wikimedia.org/wiki/File:Ashoka_pillar_at_Allahabad.jpg)*
+*Raata **site ↔ ruler ↔ artefact**. **Prayagraj/Allahabad pillar** = Ashokan edicts + **Samudragupta's Prayag Prashasti** (**2018 Q87**). **Sarnath = Gupta Buddha school** (not Gandhara/Kushan). **Nalanda = Kumaragupta I** patron. Trap: **Prayag Prashasti = Samudragupta**, NOT Chandragupta II.*
+*Source: Study map — generated for UPPCS extent & site-matching*
 
 ---
 

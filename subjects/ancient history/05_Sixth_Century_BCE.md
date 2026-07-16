@@ -73,14 +73,14 @@ RISE OF MAGADHA — 4 FACTORS:
 
 ## Exam Visuals — High-ROI Images
 
-> Minimum exam-tested visuals only. Raata the caption — not decoration.
+> **Type priority:** location map → conceptual diagram. Images stored locally (`images/`) so they open offline.
 
-### 1. Sixteen Mahajanapadas Map (~500 BCE)
+### 1. Sixteen Mahajanapadas — Location Map (~500 BCE)
 
-![Map of sixteen mahajanapadas with capitals in North India](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Mahajanapadas%2C_c._500_BCE.jpg/800px-Mahajanapadas%2C_c._500_BCE.jpg)
+![Political map of North India showing 16 mahajanapadas with capitals labeled](images/mahajanapadas_map.png)
 
-*Core **location-matching** visual — **UPPCS 2020 Q6** answer **3-4-1-2**: **Matsya** (Viratnagar) → **Kuru** (Indraprastha) → **Surasena** (Mathura) → **Asmaka** (Potana/Paudanya). **8 mahajanapadas touch modern UP**: Kashi, Kosala, Kuru, Panchala, Vatsa, Malla, Surasena, Chedi.*
-*Source: Wikimedia Commons — [File:Mahajanapadas, c. 500 BCE.jpg](https://commons.wikimedia.org/wiki/File:Mahajanapadas,_c._500_BCE.jpg)*
+*Core **capital-matching** visual — **UPPCS 2020 Q6** answer **3-4-1-2**: **Matsya** (Viratnagar) → **Kuru** (Indraprastha) → **Surasena** (Mathura) → **Asmaka** (Potana). **8 mahajanapadas touch modern UP** (highlighted). **Magadha capital shift**: Rajgir → Pataliputra (Udayin).*
+*Source: Study map — generated for UPPCS capital-matching*
 
 ---
 
