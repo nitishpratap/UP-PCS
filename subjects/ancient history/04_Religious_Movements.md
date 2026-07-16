@@ -74,6 +74,19 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 
 ---
 
+## Exam Visuals — High-ROI Images
+
+> Minimum exam-tested visuals only. Raata the caption — not decoration.
+
+### 1. Great Stupa, Sanchi (Madhya Pradesh)
+
+![Sanchi Great Stupa — hemispherical Buddhist monument with toranas](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/The_Great_Stupa_at_Sanchi.jpg/800px-The_Great_Stupa_at_Sanchi.jpg)
+
+*Mauryan-origin **stupa** enlarged under **Shungas/Satavahanas** — **toranas** (gateways) = finest early Buddhist sculpture. **Ashoka** erected original brick stupa; **2022 Q80** Ayaka pillars trap = Ghantasala (Andhra), not Sanchi.*
+*Source: Wikimedia Commons — [File:The Great Stupa at Sanchi.jpg](https://commons.wikimedia.org/wiki/File:The_Great_Stupa_at_Sanchi.jpg)*
+
+---
+
 ## 4.1 Buddhism
 
 ### Definitions

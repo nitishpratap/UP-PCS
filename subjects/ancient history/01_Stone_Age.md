@@ -90,6 +90,19 @@ UP FOCUS:
 
 ---
 
+## Exam Visuals — High-ROI Images
+
+> Minimum exam-tested visuals only. Raata the caption — not decoration.
+
+### 1. Bhimbetka Rock Paintings (Madhya Pradesh)
+
+![Bhimbetka rock shelter paintings — animals in red ochre on sandstone](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bhimbetka_rock_Paintings.jpg/960px-Bhimbetka_rock_Paintings.jpg)
+
+*World's oldest cave-art cluster — **750 shelters, 500 painted**, UNESCO **2003**. **UPPCS 2020 Q10**: Bhimbetka = rock paintings (trap: Bagor = domestication, Burzahom = pit dwellings). Discovered **V.S. Wakankar 1957–58**.*
+*Source: Wikimedia Commons — [File:Bhimbetka rock Paintings.jpg](https://commons.wikimedia.org/wiki/File:Bhimbetka_rock_Paintings.jpg)*
+
+---
+
 ## 1.1 Origin of Human Beings
 
 ### Definitions (learn all — exams pick different ones)

@@ -548,6 +548,11 @@ Every topic file MUST follow this skeleton:
 
 ---
 
+## Exam Visuals — High-ROI Images
+[0–2 images only — see §Exam Visuals Protocol; skip section entirely if no exam-tested visual]
+
+---
+
 ## N.1 [Subtopic Name]
 [... full subtopic structure — repeat for ALL syllabus bullets ...]
 
@@ -587,6 +592,55 @@ Every topic file MUST follow this skeleton:
 | How UPPCS Tests This Topic | Delivery Report + weave traps into N.X `Exam note` |
 | Exam Intelligence priority / UPPCS vs UPSC tables | Delivery Report only — student gets **Common Traps** instead |
 | "End of Topic N — complete" footer | Do not add |
+
+---
+
+## Exam Visuals Protocol (History, Art & Culture, Geography)
+
+Add **only** images that help answer UPPCS **identification, location-matching, map, coin, inscription, or monument** questions. Decoration is forbidden.
+
+### When required
+
+| Subject type | Add visuals? | Max per topic |
+|--------------|--------------|---------------|
+| **Ancient/Medieval History** | Yes — if PYQ or classic trap exists | **1–2** |
+| **Art & Culture** | Yes — architecture, sculpture, painting | **1–2** |
+| **Geography / Environment** | Yes — maps, landforms, protected-area location | **1–2** |
+| **Pure concept topics** (e.g. Vedic society, polity theory) | **Skip** — no forced images | **0** |
+
+### Selection rules (all must pass)
+
+1. **PYQ-linked or trap-linked** — image teaches something asked in `pyq/` or a Common Trap (e.g. Bhimbetka paintings, Mahajanapadas capitals map, Hathigumpha).
+2. **Minimum count** — default **1** image; **2** only if two distinct high-ROI identifications (e.g. Lion Capital + Barabar cave for Mauryan art).
+3. **Best source only** — prefer **Wikimedia Commons** (ASI/Archaeological Survey photos, scholarly maps). Do not use random blogs or watermarked stock.
+4. **Generate only when needed** — AI-generate **maps/diagrams** if no reliable Commons file exists; never generate fake photos of real artefacts.
+5. **Caption = exam note** — every image needs a 1–2 line italic caption: *what to identify + PYQ year/trap*.
+
+### Placement & format
+
+Insert `## Exam Visuals — High-ROI Images` **after Memory Tricks, before first `## N.1`** (inside Quick Revision block area).
+
+```markdown
+## Exam Visuals — High-ROI Images
+
+> Minimum exam-tested visuals only. Raata the caption — not decoration.
+
+### 1. [Name — Location/Type]
+
+![Alt text — what student must identify](https://upload.wikimedia.org/wikipedia/commons/.../image.jpg)
+
+*Exam caption: site/artefact + dynasty/period + PYQ trap (e.g. UPPCS 2020 Q10 — Bhimbetka = rock paintings).*
+*Source: Wikimedia Commons — [File:Original_filename.jpg](https://commons.wikimedia.org/wiki/File:...)*
+```
+
+**Local storage (optional):** If images are downloaded, store in `subjects/[subject]/images/` and use relative paths `images/filename.jpg`. Remote Wikimedia URLs are equally valid.
+
+### Phase C check
+
+- [ ] 0–2 images only; each passes selection rules above
+- [ ] Every image has exam-caption + source line
+- [ ] No image-only section without caption/trap
+- [ ] Topics with no visual PYQ (e.g. Vedic polity) correctly have **no** Exam Visuals section
 
 ---
 
@@ -857,6 +911,11 @@ Each framework: **Question title → Structure (word count) → 5–7 bullet poi
 - [ ] 2025 overlap concepts taught in matching N.X prose **(F5)**
 - [ ] Common Trap items synced to Consolidated Reference **(F6)**
 
+### Exam visuals (History / Art & Culture / Geography)
+- [ ] `## Exam Visuals` present only when 1–2 high-ROI images exist (see §Exam Visuals Protocol)
+- [ ] Each image has exam-caption (PYQ/trap) + source line
+- [ ] Image count ≤2 per topic; no decorative stock photos
+
 ### Exam alignment
 - [ ] 2025 overlap concepts in matching N.X prose + noted in Delivery Report **(F5)**
 - [ ] Practice Zone ≥40% multi-statement **(F8)**
@@ -1053,6 +1112,23 @@ Work on Topic 1 only. Wait for my approval before Topic 2.
 Run **§UPPCS PYQ Search & Addition Protocol** on all `pyq/` files (**UPPCS Prelims 2018–2025 + RO-ARO**). Search for `Subject: Art & Culture`, `Subject: History` (culture overlap), `Subject: Geography` (monument/site matching), and multi-statement questions on dance, music, UNESCO, temples. Add **every** matching UPPCS/RO-ARO to the topic file (inline + Complete PYQ Bank).
 
 **UP Focus (Art & Culture):** Mathura/Vrindavan (Braj culture), Varanasi (classical music, ghats), Lucknow (Kathak, Awadhi), Sarnath (Buddhist art), Agra (Mughal), Khajuraho (UP-adjacent trap), Chunar/Chunar fort crafts, UP folk (Raslila, Nautanki), state museums (Lucknow State Museum, Allahabad Museum).
+
+### Ancient History (in progress)
+
+| Topic | File | Status | Exam Visuals (1–2 max) |
+|-------|------|--------|------------------------|
+| 1 | `01_Stone_Age.md` | ✅ Complete | Bhimbetka paintings (2020 Q10) |
+| 2 | `02_Indus_Valley_Civilization.md` | ✅ Complete | Great Bath, Mohenjo-daro |
+| 3 | `03_Vedic_Civilization.md` | ✅ Complete | None — concept topic, no visual PYQ |
+| 4 | `04_Religious_Movements.md` | ✅ Complete | Sanchi Great Stupa |
+| 5 | `05_Sixth_Century_BCE.md` | ✅ Complete | Mahajanapadas map (2020 Q6) |
+| 6 | `06_Foreign_Invasions.md` | ✅ Complete | Alexander invasion map |
+| 7 | `07_Mauryan_Empire.md` | ✅ Complete | Lion Capital + Barabar cave |
+| 8 | `08_Post_Mauryan_India.md` | ✅ Complete | Hathigumpha inscription (2018 Q16) |
+| 9 | `09_Gupta_Age.md` | ✅ Complete | Sarnath Buddha + Allahabad pillar |
+| 10+ | Post-Gupta onward | Pending | Add per §Exam Visuals Protocol |
+
+**Visual priority for Ancient History:** maps (mahajanapadas, invasion routes), ASI site photos (IVC structures, inscriptions, pillars, coins, sculpture schools). Skip forced images on purely textual topics (Vedic polity, administrative theory).
 
 ### Future subjects
 

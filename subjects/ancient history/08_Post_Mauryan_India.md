@@ -74,6 +74,19 @@ KEY INSCRIPTIONS:
 
 ---
 
+## Exam Visuals — High-ROI Images
+
+> Minimum exam-tested visuals only. Raata the caption — not decoration.
+
+### 1. Hathigumpha Inscription, Udayagiri (Odisha)
+
+![Hathigumpha rock inscription on Udayagiri hill near Bhubaneswar](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Hathigumpha_inscription.jpg/800px-Hathigumpha_inscription.jpg)
+
+***Kharavela** of **Kalinga** — major post-Mauryan eastern king. **UPPCS 2018 Q16**: Hathigumpha inscription = **Kharavela** (trap: Ashoka, Chandragupta, Harsha). Records military campaigns, Jain patronage, repair of Kalinga fort.*
+*Source: Wikimedia Commons — [File:Hathigumpha inscription.jpg](https://commons.wikimedia.org/wiki/File:Hathigumpha_inscription.jpg)*
+
+---
+
 ## 8.1 Post-Mauryan Period
 
 ### Definitions (learn all — exams pick different ones)

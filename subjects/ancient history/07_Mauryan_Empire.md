@@ -73,6 +73,26 @@ SOURCES: Kautilya Arthashastra | Megasthenes Indica | Ashokan inscriptions | Vis
 
 ---
 
+## Exam Visuals — High-ROI Images
+
+> Minimum exam-tested visuals only. Raata the caption — not decoration.
+
+### 1. Lion Capital, Sarnath (National Emblem of India)
+
+![Ashokan Lion Capital with four lions on abacus at Sarnath](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Sarnath_capital.jpg/500px-Sarnath_capital.jpg)
+
+*Mauryan **polished Chunar sandstone** — erected by **Ashoka** at **Sarnath** (First Sermon site). **Four lions** + **Dharmachakra** on abacus = India's national emblem. Trap: NOT Gupta; NOT post-Mauryan.*
+*Source: Wikimedia Commons — [File:Sarnath capital.jpg](https://commons.wikimedia.org/wiki/File:Sarnath_capital.jpg)*
+
+### 2. Lomas Rishi Cave, Barabar Hills (Bihar)
+
+![Rock-cut cave entrance with carved arched facade at Barabar Hills](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Barabar_Caves_-_Lomas_Rishi_Entrance.jpg/800px-Barabar_Caves_-_Lomas_Rishi_Entrance.jpg)
+
+*Earliest surviving **Indian rock-cut architecture** — **Mauryan** period (~3rd c. BCE), donated to **Ajivika** sect. Trap: **Barabar = Mauryan**; **Ajanta = Gupta** (much later, Maharashtra).*
+*Source: Wikimedia Commons — [File:Barabar Caves - Lomas Rishi Entrance.jpg](https://commons.wikimedia.org/wiki/File:Barabar_Caves_-_Lomas_Rishi_Entrance.jpg)*
+
+---
+
 ## 7.1 Mauryan Empire
 
 ### Definitions (learn all — exams pick different ones)

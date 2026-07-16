@@ -71,6 +71,19 @@ RISE OF MAGADHA — 4 FACTORS:
 
 ---
 
+## Exam Visuals — High-ROI Images
+
+> Minimum exam-tested visuals only. Raata the caption — not decoration.
+
+### 1. Sixteen Mahajanapadas Map (~500 BCE)
+
+![Map of sixteen mahajanapadas with capitals in North India](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Mahajanapadas%2C_c._500_BCE.jpg/800px-Mahajanapadas%2C_c._500_BCE.jpg)
+
+*Core **location-matching** visual — **UPPCS 2020 Q6** answer **3-4-1-2**: **Matsya** (Viratnagar) → **Kuru** (Indraprastha) → **Surasena** (Mathura) → **Asmaka** (Potana/Paudanya). **8 mahajanapadas touch modern UP**: Kashi, Kosala, Kuru, Panchala, Vatsa, Malla, Surasena, Chedi.*
+*Source: Wikimedia Commons — [File:Mahajanapadas, c. 500 BCE.jpg](https://commons.wikimedia.org/wiki/File:Mahajanapadas,_c._500_BCE.jpg)*
+
+---
+
 ## 5.1 Political Condition of Sixth Century BCE
 
 ### Definitions (learn all — exams pick different ones)

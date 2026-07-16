@@ -77,6 +77,26 @@ SCIENCE: Aryabhata (Aryabhatiya, zero) | Varahamihira | Brahmagupta
 
 ---
 
+## Exam Visuals — High-ROI Images
+
+> Minimum exam-tested visuals only. Raata the caption — not decoration.
+
+### 1. Sarnath Buddha (Gupta Sculpture)
+
+![Standing Buddha statue in red sandstone from Sarnath — refined Gupta style](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Sarnath_Buddha_2.jpg/500px-Sarnath_Buddha_2.jpg)
+
+*Classic **Gupta-period Buddhist sculpture** — **Sarnath school**: transparent drapery, spiritual calm, refined proportions. Trap: NOT Gandhara (Greco-Buddhist, Kushan); NOT Mauryan (no such refined stone Buddha).*
+*Source: Wikimedia Commons — [File:Sarnath Buddha 2.jpg](https://commons.wikimedia.org/wiki/File:Sarnath_Buddha_2.jpg)*
+
+### 2. Allahabad Pillar (Prayagraj, UP)
+
+![Ashokan pillar at Allahabad fort with later Gupta inscriptions](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ashoka_pillar_at_Allahabad.jpg/500px-Ashoka_pillar_at_Allahabad.jpg)
+
+*Same pillar carries **Ashokan edicts** + **Samudragupta's Prayag Prashasti** (Harishena). **UPPCS 2018 Q87** south-king matching; **2022 Q23** silver coin trap separate. Raata: **Prayag Prashasti = Samudragupta**, NOT Chandragupta II.*
+*Source: Wikimedia Commons — [File:Ashoka pillar at Allahabad.jpg](https://commons.wikimedia.org/wiki/File:Ashoka_pillar_at_Allahabad.jpg)*
+
+---
+
 ## 9.1 Gupta Administration
 
 ### Definitions (learn all — exams pick different ones)

@@ -80,6 +80,19 @@ POST-HARAPPAN (syllabus):
 
 ---
 
+## Exam Visuals — High-ROI Images
+
+> Minimum exam-tested visuals only. Raata the caption — not decoration.
+
+### 1. Great Bath, Mohenjo-daro (Sindh, Pakistan)
+
+![Great Bath — brick-lined water tank with colonnades at Mohenjo-daro](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Great_Bath%2C_Mohenjo-daro.jpg/800px-Great_Bath%2C_Mohenjo-daro.jpg)
+
+*Largest **public water tank** of Mature Harappan urban planning — **Mohenjo-daro**, NOT Harappa/Kalibangan/Dholavira. Used for ritual bathing; brick waterproofed with bitumen.*
+*Source: Wikimedia Commons — [File:Great Bath, Mohenjo-daro.jpg](https://commons.wikimedia.org/wiki/File:Great_Bath,_Mohenjo-daro.jpg)*
+
+---
+
 ## 2.1 Indus Valley Civilization
 
 ### Definitions (learn all — exams pick different ones)

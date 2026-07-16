@@ -74,6 +74,19 @@ PERSONS WITH ALEXANDER (exam names):
 
 ---
 
+## Exam Visuals — High-ROI Images
+
+> Minimum exam-tested visuals only. Raata the caption — not decoration.
+
+### 1. Alexander's Invasion of India (326 BCE)
+
+![Map showing Alexander's route through northwest India to Hydaspes and Beas turn-back](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Alexander_Invasion_India.png/800px-Alexander_Invasion_India.png)
+
+*Route trap chain: entered via **Taxila** (king **Ambhi** ally) → fought **Porus** at **Hydaspes/Jhelum** → army mutiny at **Beas** → turned back. **Never reached Magadha/Pataliputra**. Died **323 BCE Babylon**.*
+*Source: Wikimedia Commons — [File:Alexander Invasion India.png](https://commons.wikimedia.org/wiki/File:Alexander_Invasion_India.png)*
+
+---
+
 ## 6.1 Greek Invasion
 
 ### Definitions (learn all — exams pick different ones)
