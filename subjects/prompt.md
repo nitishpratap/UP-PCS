@@ -1145,7 +1145,11 @@ Run **§UPPCS PYQ Search & Addition Protocol** on all `pyq/` files (**UPPCS Prel
 | 7 | `07_Mauryan_Empire.md` | ✅ Complete | Mauryan extent & key sites map |
 | 8 | `08_Post_Mauryan_India.md` | ✅ Complete | Foreign invasion sequence diagram |
 | 9 | `09_Gupta_Age.md` | ✅ Complete | Gupta extent & key sites map |
-| 10+ | Post-Gupta onward | Pending | Map/diagram per §Exam Visuals Protocol |
+| 10 | `10_Post_Gupta_Period.md` | ✅ Complete | Harsha empire extent map |
+| 11 | `11_Ancient_Indian_Administration.md` | ✅ Complete | Admin comparison + ruler-inscription chart |
+| 12 | `12_Ancient_Indian_Economy.md` | ✅ Complete | Trade routes/ports map + coins chart |
+| 13 | `13_Archaeology.md` | ✅ Complete | UP sites map + stratigraphy/C-14 diagram |
+| 14 | `14_Ancient_India_Miscellaneous.md` | ✅ Complete | World civilizations chart + Kakatiya sites map |
 
 **Visual priority for Ancient History:** (1) **location maps** for site/capital matching, (2) **conceptual diagrams** for structure/chronology, (3) labelled sketches only when PYQ demands artefact ID. All files in `images/` — must open offline.
 
