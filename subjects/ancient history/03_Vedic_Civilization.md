@@ -904,289 +904,544 @@ UP FOCUS:
 
 ## Practice Zone — UPPCS Format Questions
 
-**1.** Consider: 1. Rigvedic society was pastoral. 2. Later Vedic society was agrarian.
+> **Answers hidden** — click *Show answer* under each question to reveal.
 
-<details><summary>Answer</summary>
-**Both correct** (2020 Q21).
+**Q1.** Which officer was known as 'Bhagadugha' during Vedic administration?
+
+Options:
+A. Messenger
+B. Chief Officer of Forests
+C. Chief Officer of Gambling Department
+D. Revenue Collector
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — Revenue Collector** (UPPCS 2023 Q26). Bhagadugha collected the king's **bhaga** (share) of produce and booty — NOT messenger or forest officer.
+
 </details>
 
-**2.** Bhagadugha was:
+**Q2.** Which of the following is a Samhita of Shukla (White) Yajurveda?
 
-<details><summary>Answer</summary>
-**Revenue Collector** (2023 Q26, answer D).
+Options:
+A. Vajasaneyi
+B. Maitrayani
+C. Taittiriya
+D. Kathaka
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Vajasaneyi** (UPPCS 2018 Q13). Shukla = Vajasaneyi (Madhyandina, Kanva recensions). Taittiriya, Kathaka, Maitrayani = **Krishna (Black)** Yajurveda.
+
 </details>
 
-**3.** Which is a Samhita of Shukla Yajurveda?
+**Q3.** Match List-I (Assembly) with List-II (Character):
 
-<details><summary>Answer</summary>
-**Vajasaneyi** (2018 Q13, option A).
+| List-I | List-II |
+|--------|---------|
+| A. Sabha | 1. General tribal assembly |
+| B. Samiti | 2. Assembly of elders/nobles |
+| C. Vidhata | 3. Deliberative assembly for distribution and economic matters |
+
+Select the correct answer from the code given below:
+
+Options:
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — A-2, B-1, C-3.** Sabha = elders/nobles (smaller); Samiti = general tribal assembly (broader); Vidhata = economic distribution/deliberation.
+
 </details>
 
-**4.** Match: A. Sabha — 1. General assembly B. Samiti — 2. Elders' assembly C. Vidhata — 3. Distributive assembly
+**Q4.** Consider the following statements about Vedic society:
 
-<details><summary>Answer</summary>
-**A-2, B-1, C-3**
+1. Rigvedic society was primarily pastoral.
+2. Later Vedic society was primarily agrarian.
+
+Select the correct answer from the code given below:
+
+Options:
+A. Both 1 and 2
+B. Neither 1 nor 2
+C. Only 1
+D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Both 1 and 2** (UPPCS 2020 Q21 pattern). Rigvedic = pastoral/cattle wealth; Later Vedic = iron plough agriculture in Gangetic doab.
+
 </details>
 
-**5.** Assertion (A): Women participated in Rigvedic Sabha.
-Reason (R): Rigvedic society was tribal and relatively egalitarian.
+**Q5.** Which of the following is NOT a Vedanga?
 
-<details><summary>Answer</summary>
-**Both true; R explains A.**
+Options:
+A. Shiksha
+B. Kalpa
+C. Upanishad
+D. Jyotisha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Upanishad.** Six Vedangas = Shiksha, Kalpa, Vyakarana, Nirukta, Chhanda, Jyotisha. Upanishads are Shruti/Vedanta — NOT Vedangas (classic UPPCS trap).
+
 </details>
 
-**6.** Which Veda is the oldest?
+**Q6.** Consider the following statements about Yajurveda Samhitas:
 
-<details><summary>Answer</summary>
-**Rigveda** (1028 hymns, 10 mandalas).
+1. Taittiriya is a Samhita of Krishna (Black) Yajurveda.
+2. Vajasaneyi is a Samhita of Shukla (White) Yajurveda.
+
+Select the correct answer from the code given below:
+
+Options:
+A. Both 1 and 2
+B. Neither 1 nor 2
+C. Only 1
+D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Both 1 and 2.** Trap: Taittiriya is **Krishna**, NOT Shukla. Vajasaneyi = Shukla (2018 Q13). Kathaka and Maitrayani are also Krishna.
+
 </details>
 
-**7.** Consider: 1. Taittiriya is Shukla Yajurveda. 2. Maitrayani is Krishna Yajurveda.
+**Q7.** The geographical heartland of the Rigvedic period is known as:
 
-<details><summary>Answer</summary>
-**Only 2 correct.** Taittiriya = Krishna (Black).
+Options:
+A. Sapta Sindhu (Land of Seven Rivers)
+B. Ganga-Yamuna doab
+C. Deccan plateau
+D. Kaveri delta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Sapta Sindhu.** Punjab/northwest region (~1500–1000 BCE). Ganga-Yamuna doab = Later Vedic core (UP).
+
 </details>
 
-**8.** Later Vedic period geographical core:
+**Q8.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
 
-<details><summary>Answer</summary>
-**Ganga-Yamuna doab** (UP heartland).
+Assertion (A): Women could participate in the Rigvedic Sabha.
+
+Reason (R): Rigvedic society was tribal with relatively higher status for women compared to the Later Vedic period.
+
+Select the correct answer from the code given below:
+
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Both true; R explains A.** Rigvedic women (Apala, Lopamudra) composed hymns; Later Vedic Sabha became exclusive — women excluded.
+
 </details>
 
-**9.** "Tat Tvam Asi" is from:
+**Q9.** Which Veda is the oldest and contains 1028 hymns in 10 mandalas?
 
-<details><summary>Answer</summary>
-**Chandogya Upanishad.**
+Options:
+A. Samaveda
+B. Rigveda
+C. Yajurveda
+D. Atharvaveda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Rigveda.** Oldest Indian text (~1500 BCE). Samaveda = melodies; Yajurveda = sacrificial formulas; Atharvaveda = newest (spells/medicine).
+
 </details>
 
-**10.** Which is NOT a Vedanga?
-- A. Shiksha  B. Nirukta  C. Upanishad  D. Jyotisha
+**Q10.** Match List-I (Society) with List-II (Economy type) — UPPCS 2020 Q21 pattern:
 
-<details><summary>Answer</summary>
-**C — Upanishad.**
+| List-I | List-II |
+|--------|---------|
+| A. Rigvedic Society | 1. Urban |
+| B. Later Vedic Society | 2. Pastoral |
+| C. Indus Valley Civilization | 3. Agrarian |
+
+Select the correct answer from the code given below:
+
+Options:
+A. A-2, B-3, C-1
+B. A-3, B-2, C-1
+C. A-2, B-1, C-3
+D. A-1, B-3, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — A-2, B-3, C-1.** Rigvedic = Pastoral; Later Vedic = Agrarian; IVC = Urban. Full 2020 Q21 also had Medieval = Landlordism.
+
 </details>
 
-**11.** Match society ↔ economy (2020 Q21 pattern):
-A. Rigvedic — 1. Urban  B. Later Vedic — 2. Pastoral  C. IVC — 3. Agrarian
+**Q11.** "Tat Tvam Asi" (That Thou Art) is a famous teaching from which text?
 
-<details><summary>Answer</summary>
-**Rigvedic=2, Later Vedic=3, IVC=1** (Pastoral, Agrarian, Urban).
+Options:
+A. Rigveda Samhita
+B. Shatapatha Brahmana
+C. Chandogya Upanishad
+D. Yaska's Nirukta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Chandogya Upanishad.** Dialogue of Uddalaka Aruni and Shvetaketu. Brahman-Atman philosophy — not a Vedanga or Samhita hymn.
+
 </details>
 
-**12.** Six Vedangas are:
+**Q12.** Consider the following statements about Vedic assemblies:
 
-<details><summary>Answer</summary>
-**Shiksha, Kalpa, Vyakarana, Nirukta, Chhanda, Jyotisha.**
+1. Samiti was broader than Sabha and included general freemen of the tribe.
+2. Vidhata dealt with economic distribution and women could participate in it.
+
+Select the correct answer from the code given below:
+
+Options:
+A. Both 1 and 2
+B. Neither 1 nor 2
+C. Only 1
+D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Both 1 and 2.** Samiti = popular assembly; Sabha = elite elders. Vidhata = distributive/deliberative; declined earliest among the three.
+
 </details>
 
-**13.** Consider: 1. Brahmanas are prose ritual texts. 2. Aranyakas are forest texts.
+**Q13.** Which of the following pairs is NOT correctly matched?
 
-<details><summary>Answer</summary>
-**Both correct.**
+Options:
+A. Taittiriya — Krishna Yajurveda
+B. Kathaka — Krishna Yajurveda
+C. Taittiriya — Shukla Yajurveda
+D. Vajasaneyi — Shukla Yajurveda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Taittiriya — Shukla Yajurveda.** Taittiriya = **Krishna (Black)** — classic trap alongside 2018 Q13. Shukla = Vajasaneyi only.
+
 </details>
 
-**14.** Nachiketa appears in:
+**Q14.** In the Rigvedic period, wealth was primarily measured in terms of:
 
-<details><summary>Answer</summary>
-**Katha Upanishad.**
+Options:
+A. Land revenue in gold coins
+B. Cattle (cows)
+C. Iron implements
+D. Imported silk textiles
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Cattle (cows).** Pastoral economy; **gavishti** = cattle raid/war. No coins; **nishka** = gold ornament as value standard, not currency.
+
 </details>
 
-**15.** Rigvedic wealth was primarily measured in:
+**Q15.** Given below are two statements:
 
-<details><summary>Answer</summary>
-**Cattle (cows).**
+Assertion (A): Sabha and Samiti acted as checks on royal power in the Rigvedic period.
+
+Reason (R): In the Later Vedic period, kings became more hereditary and absolute, weakening these assemblies.
+
+Select the correct answer from the code given below:
+
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Both true; R explains A.** Rigvedic tribal democracy → Later Vedic centralised monarchy; assemblies (Sabha, Samiti, Vidhata) declined.
+
 </details>
 
-**16.** Which assemblies declined in Later Vedic period?
-1. Sabha 2. Samiti 3. Vidhata 4. Lok Sabha
+**Q16.** The six Vedangas of Vedic literature are:
 
-<details><summary>Answer</summary>
-**1, 2, 3 only.** Lok Sabha = modern.
+Options:
+A. Shiksha, Kalpa, Vyakarana, Nirukta, Chhanda, Jyotisha
+B. Shiksha, Kalpa, Vyakarana, Upanishad, Chhanda, Jyotisha
+C. Samhita, Brahmana, Aranyaka, Upanishad, Shiksha, Kalpa
+D. Rig, Sama, Yajur, Atharva, Brahmana, Aranyaka
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Shiksha, Kalpa, Vyakarana, Nirukta, Chhanda, Jyotisha.** Memory: SKVKCJ. Upanishads and four Vedas are Shruti — not Vedangas.
+
 </details>
 
-**17.** Assertion (A): Aranyakas bridge Brahmanas and Upanishads.
-Reason (R): Aranyakas were composed for forest-dwelling hermits.
+**Q17.** Consider the following statements:
 
-<details><summary>Answer</summary>
-**Both true; R explains A.**
+1. Brahmanas are prose texts explaining Vedic rituals.
+2. Aranyakas are forest texts forming a bridge between Brahmanas and Upanishads.
+
+Select the correct answer from the code given below:
+
+Options:
+A. Both 1 and 2
+B. Neither 1 nor 2
+C. Only 1
+D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Both 1 and 2.** Brahmanas = ritual manuals (Shatapatha, Aitareya). Aranyakas = hermit/forest texts with symbolic ritual interpretation.
+
 </details>
 
-**18.** Shatapatha Brahmana is attached to:
+**Q18.** Nachiketa's dialogue with Yama (god of death) appears in:
 
-<details><summary>Answer</summary>
-**Shukla Yajurveda.**
+Options:
+A. Brihadaranyaka Upanishad
+B. Katha Upanishad
+C. Mandukya Upanishad
+D. Isha Upanishad
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Katha Upanishad.** Attached to Krishna Yajurveda. Brihadaranyaka = Yajnavalkya-Maitreyi; Mandukya = Om/AUM symbolism.
+
 </details>
 
-**19.** Gayatri Mantra is from:
+**Q19.** Match List-I (Officer) with List-II (Function):
 
-<details><summary>Answer</summary>
-**Rigveda** (III.62.10).
+| List-I | List-II |
+|--------|---------|
+| A. Purohita | 1. Army commander |
+| B. Senani | 2. Chief priest and royal advisor |
+| C. Bhagadugha | 3. Revenue collector |
+| D. Sangrahitri | 4. Treasurer |
+
+Select the correct answer from the code given below:
+
+Options:
+A. A-2, B-1, C-3, D-4
+B. A-1, B-2, C-4, D-3
+C. A-2, B-3, C-1, D-4
+D. A-3, B-1, C-2, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — A-2, B-1, C-3, D-4.** Purohita = priest-minister; Senani = army chief; Bhagadugha = revenue (2023 Q26); Sangrahitri = treasury.
+
 </details>
 
-**20.** Purohita was:
+**Q20.** Which of the following developments marks the Later Vedic period rather than the Rigvedic period?
 
-<details><summary>Answer</summary>
-**Chief priest and royal advisor.**
+Options:
+A. Tribal pastoral economy based on cattle
+B. Iron plough agriculture in the Gangetic plain
+C. Nature worship of Indra and Agni
+D. Samiti participation in selecting the Rajan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Iron plough agriculture in the Gangetic plain.** Later Vedic (~1000–600 BCE) = agrarian, janapadas, rigid varna. A, C, D = Rigvedic features.
+
 </details>
 
-**21.** Match Veda ↔ content:
-A. Samaveda — 1. Spells B. Atharvaveda — 2. Melodies C. Yajurveda — 3. Sacrificial formulas
+**Q21.** Gayatri Mantra is found in which Vedic text?
 
-<details><summary>Answer</summary>
-**A-2, B-1, C-3**
+Options:
+A. Rigveda (III.62.10)
+B. Samaveda Samhita only
+C. Atharvaveda Book XX
+D. Shatapatha Brahmana
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Rigveda (III.62.10).** Addressed to solar deity Savitar. One of most recited Vedic hymns.
+
 </details>
 
-**22.** Consider: 1. Vedic texts were orally transmitted. 2. Vedic texts were written at time of composition.
+**Q22.** Given below are two statements:
 
-<details><summary>Answer</summary>
-**Only 1 correct.**
+Assertion (A): Samiti was broader than Sabha in the Vedic tribal polity.
+
+Reason (R): Samiti included the general freemen of the tribe, while Sabha was an assembly of elders and nobles.
+
+Select the correct answer from the code given below:
+
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Both true; R explains A.** Samiti = popular tribal assembly; Sabha = smaller elite body — together they limited the Rajan's power.
+
 </details>
 
-**23.** Four varnas in Later Vedic period:
+**Q23.** Shatapatha Brahmana, the largest Brahmana text with 100 chapters, is attached to:
 
-<details><summary>Answer</summary>
-**Brahmana, Kshatriya, Vaishya, Shudra.**
+Options:
+A. Rigveda
+B. Shukla (White) Yajurveda
+C. Krishna (Black) Yajurveda — Taittiriya
+D. Atharvaveda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Shukla (White) Yajurveda.** Vajasaneyi tradition. Taittiriya Brahmana = Krishna Yajurveda — do not confuse the two.
+
 </details>
 
-**24.** Gavishti means:
+**Q24.** Consider the following statements about the four Vedas:
 
-<details><summary>Answer</summary>
-**Cattle raid / cattle war.**
+1. Atharvaveda is generally considered the newest of the four Vedas.
+2. Samaveda consists mainly of verses from the Rigveda set to melodies for ritual chanting.
+
+Select the correct answer from the code given below:
+
+Options:
+A. Both 1 and 2
+B. Neither 1 nor 2
+C. Only 1
+D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Both 1 and 2.** Atharvaveda = spells, medicine, daily life (~1000 BCE). Samaveda = "Veda of melodies" (saman).
+
 </details>
 
-**25.** Mandukya Upanishad is famous for:
+**Q25.** Yaska is associated with which Vedanga?
 
-<details><summary>Answer</summary>
-**Om (AUM) symbolism.**
+Options:
+A. Vyakarana (Grammar)
+B. Nirukta (Etymology)
+C. Shiksha (Phonetics)
+D. Chhanda (Prosody)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Nirukta (Etymology).** Yaska's Nirukta explains difficult Vedic words. Panini = Vyakarana; Pingala = Chhanda.
+
 </details>
 
-**26.** Which is Krishna Yajurveda Samhita?
-- A. Vajasaneyi  B. Taittiriya  C. Rigveda  D. Samaveda
+**Q26.** Gavishti in the Rigvedic period refers to:
 
-<details><summary>Answer</summary>
-**B — Taittiriya.**
+Options:
+A. Land tax (bali) paid to the king
+B. Cattle raid or cattle war between tribes
+C. Sacred thread ceremony (Upanayana)
+D. Horse sacrifice (Ashvamedha)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Cattle raid or cattle war.** Economic-military activity for acquiring cattle wealth. Bali = tribute; Ashvamedha = royal sovereignty ritual.
+
 </details>
 
-**27.** Assertion (A): Sabha and Samiti were checks on royal power in Rigvedic period.
-Reason (R): Later Vedic kings became more absolute.
+**Q27.** Which of the following is correctly matched?
 
-<details><summary>Answer</summary>
-**Both true; R explains decline context.**
+Options:
+A. Mandukya Upanishad — Om (AUM) symbolism
+B. Purusha Sukta — Chandogya Upanishad
+C. Vidhata — Modern Gram Sabha under 73rd Amendment
+D. Bhagadugha — Chief army commander (Senani)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Mandukya Upanishad — Om (AUM) symbolism.** Purusha Sukta = Rigveda X.90 (varna origin). Vidhata ≠ modern Gram Sabha. Bhagadugha = revenue, not Senani.
+
 </details>
 
-**28.** Yaska is associated with:
+**Q28.** Consider the following statements about Vedic literature:
 
-<details><summary>Answer</summary>
-**Nirukta (etymology Vedanga).**
+1. Vedic texts were preserved primarily through oral guru-shishya transmission.
+2. Vedic texts were written down at the time of their original composition.
+
+Select the correct answer from the code given below:
+
+Options:
+A. Both 1 and 2
+B. Neither 1 nor 2
+C. Only 1
+D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Only 1.** Shruti was orally transmitted for centuries; manuscript writing came much later. Vedangas (Shiksha, Chhanda) aided precise oral preservation.
+
 </details>
 
-**29.** Sapta Sindhu refers to:
+**Q29.** Given below are two statements:
 
-<details><summary>Answer</summary>
-**Land of Seven Rivers — Rigvedic Punjab region.**
+Assertion (A): Aranyakas bridge Brahmanas and Upanishads in Vedic literature.
+
+Reason (R): Aranyakas were composed for forest-dwelling hermits (vanaprastha) and emphasise symbolic/meditative ritual interpretation.
+
+Select the correct answer from the code given below:
+
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Both true; R explains A.** Aitareya, Taittiriya, Brihadaranyaka Aranyakas transition from external ritual (Brahmanas) to philosophy (Upanishads).
+
 </details>
 
-**30.** Consider: 1. Atharvaveda is the newest Veda. 2. Atharvaveda contains healing spells.
+**Q30.** Which of the following pairs is correctly matched?
 
-<details><summary>Answer</summary>
-**Both correct.**
-</details>
+Options:
+A. Maitrayani — Shukla Yajurveda
+B. Brihadaranyaka Upanishad — Shukla Yajurveda
+C. Chandogya Upanishad — Rigveda
+D. Taittiriya — Shukla Yajurveda
 
-**31.** Ashvamedha was performed for:
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Answer</summary>
-**Asserting royal territorial sovereignty.**
-</details>
+**Ans: B — Brihadaranyaka Upanishad — Shukla Yajurveda.** Maitrayani and Taittiriya = Krishna Yajurveda. Chandogya = Samaveda. Trap options A and D test Shukla/Krishna confusion.
 
-**32.** Brihadaranyaka Upanishad is attached to:
-
-<details><summary>Answer</summary>
-**Shukla Yajurveda.**
-</details>
-
-**33.** Nishka in Rigvedic period was:
-
-<details><summary>Answer</summary>
-**Gold ornament used as value standard (not coin).**
-</details>
-
-**34.** Match officer ↔ function:
-A. Senani — 1. Revenue B. Bhagadugha — 2. Army C. Sangrahitri — 3. Treasury
-
-<details><summary>Answer</summary>
-**A-2, B-1, C-3**
-</details>
-
-**35.** Purusha Sukta relates to:
-
-<details><summary>Answer</summary>
-**Origin of four varnas** (Rigveda X.90).
-</details>
-
-**36.** Later Vedic iron technology enabled:
-
-<details><summary>Answer</summary>
-**Forest clearance and iron plough agriculture in Gangetic plain.**
-</details>
-
-**37.** Which is correctly matched?
-1. Chandogya — Samaveda 2. Isha — Shukla Yajurveda 3. Mundaka — Atharvaveda
-
-<details><summary>Answer</summary>
-**All three correct.**
-</details>
-
-**38.** Vidhata primarily dealt with:
-
-<details><summary>Answer</summary>
-**Economic distribution and deliberation; women participated.**
-</details>
-
-**39.** Kalpa Vedanga includes:
-
-<details><summary>Answer</summary>
-**Shrauta, Grihya, and Dharma sutras.**
-</details>
-
-**40.** Early Vedic polity was:
-
-<details><summary>Answer</summary>
-**Tribal with elected/selected Rajan checked by assemblies.**
-</details>
-
-**41.** Consider the following about Yajurveda:
-1. Shukla Yajurveda has separate Brahmana from Samhita.
-2. Krishna Yajurveda mixes mantras and Brahmana prose.
-
-<details><summary>Answer</summary>
-**Both correct.** Shukla = "white/bright" (separated); Krishna = "black" (mixed).
-</details>
-
-**42.** Assertion (A): Samiti was broader than Sabha.
-Reason (R): Samiti included general freemen of the tribe.
-
-<details><summary>Answer</summary>
-**Both true; R explains A.**
-</details>
-
-**43.** Which pairs are correctly matched?
-1. Yaska — Nirukta  2. Panini — Vyakarana  3. Pingala — Shiksha
-
-<details><summary>Answer</summary>
-**1 and 2 only.** Pingala = Chhanda (prosody), not Shiksha.
-</details>
-
-**44.** Consider about Rigveda:
-1. It has 1028 hymns in 10 mandalas.
-2. Mandalas II–VII are the oldest family books.
-
-<details><summary>Answer</summary>
-**Both correct.**
 </details>
 
 ---
 
+
 ## Complete PYQ Bank (Topic 3)
+
+> **Answers hidden** — click *Show answer* under each question to reveal.
+
 
 ### UPPCS Prelims 2023
 
@@ -1194,7 +1449,8 @@ Reason (R): Samiti included general freemen of the tribe.
 
 A. Messenger  B. Chief Officer of Forests  C. Chief Officer of Gambling Department  D. Revenue Collector
 
-<details><summary>Answer</summary>
+<details>
+<summary>Show answer</summary>
 **D — Revenue Collector.** Bhaga = share; collected royal portion of produce/booty.
 </details>
 
@@ -1202,7 +1458,8 @@ A. Messenger  B. Chief Officer of Forests  C. Chief Officer of Gambling Departme
 
 **Q21.** Match List-I with List-II: A. Indus Valley Civilization B. Later Vedic Society C. Rigvedic Society D. Medieval Period — 1. Pastoral 2. Land Lordism 3. Agrarian 4. Urban
 
-<details><summary>Answer</summary>
+<details>
+<summary>Show answer</summary>
 **D — 4-3-1-2.** IVC=Urban(4), Later Vedic=Agrarian(3), Rigvedic=Pastoral(1), Medieval=Landlordism(2).
 </details>
 
@@ -1212,7 +1469,8 @@ A. Messenger  B. Chief Officer of Forests  C. Chief Officer of Gambling Departme
 
 A. Vajasanami  B. Maitrayani  C. Taittiriya  D. Kathak
 
-<details><summary>Answer</summary>
+<details>
+<summary>Show answer</summary>
 **A — Vajasaneyi** (Vajasanami = OCR typo). Maitrayani, Taittiriya, Kathak = Krishna (Black) Yajurveda.
 </details>
 

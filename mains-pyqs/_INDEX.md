@@ -11,7 +11,7 @@
 | Paper | Topics | Subtopics planned | 🟢 | ⚠️ Legacy |
 |-------|--------|-------------------|-----|-----------|
 | GS-1 | 15 | 68 | 68 | 0 |
-| GS-2 | 21 | TBD | 0 | 0 |
+| GS-2 | 21 | TBD | 10 | 0 |
 | GS-3 | 18 | TBD | 0 | 0 |
 | GS-4 | 8 | TBD | 0 | 0 |
 | GS-5 | 21 | TBD | 0 | 0 |
@@ -196,7 +196,30 @@
 
 ---
 
-## GS-II to GS-VI
+## GS-II — Subtopic Files
+
+### Polity & Constitution → `GS-2/Polity_Constitution/` *(flat files — no subfolders)*
+
+> **Study guide:** [`00_UPPCS_2026_Polity_Analysis.md`](GS-2/Polity_Constitution/00_UPPCS_2026_Polity_Analysis.md) — PYQ trends, priority matrix, 4-week plan, exam-eve checklist.
+
+| Topic | Keyword | File | PYQs | Status |
+|-------|---------|------|------|--------|
+| 01 | Constitution — evolution, features, basic structure, SC role | `01_Constitution_Evolution_Features_Basic_Structure.md` | 15 | 🟢 |
+| 02 | Federalism — Union-State, local devolution | `02_Federalism_Union_State_Local_Devolution.md` | 9 | 🟢 |
+| 03 | Finance Commission — Centre–State finance | `03_Finance_Commission_Centre_State_Relations.md` | 4 | 🟢 |
+| 04 | Separation of powers, ADR, judicial activism | `04_Separation_Powers_ADR_Judicial_Activism.md` | 8 | 🟢 |
+| 05 | Comparative constitutions | `05_Indian_Constitution_Comparative_Democracies.md` | 2 | 🟢 |
+| 06 | Parliament & state legislatures | `06_Parliament_State_Legislatures.md` | 8 | 🟢 |
+| 07 | Executive, judiciary, PIL, pressure groups, parties | `07_Executive_Judiciary_PIL.md` | 3 | 🟢 |
+| 08 | Representation of the People Act, electoral bonds, VVPAT | `08_RPA_Representation_Peoples_Act.md` | 3 | 🟢 |
+| 09 | Constitutional posts — President, CAG, ECI, Governor, PM | `09_Constitutional_Posts.md` | 9 | 🟢 |
+| 10 | Statutory, regulatory, quasi-judicial bodies, NITI Aayog | `10_Statutory_Bodies_NITI.md` | 1 | 🟢 |
+
+**Polity & Constitution:** **10/10 files complete** 🟢
+
+---
+
+## GS-III to GS-VI
 
 See `00_SYLLABUS.md` for full topic list. Subtopic files added as built.
 
@@ -205,7 +228,7 @@ See `00_SYLLABUS.md` for full topic list. Subtopic files added as built.
 ## Build Order (recommended)
 
 1. **GS-1 complete** — **68/68 subtopic files** 🟢
-2. **GS-II Polity** — Topic 01–03 per `00_SYLLABUS.md`
+2. **GS-II Polity & Constitution** — **10/10 complete** 🟢 · Next: GS-2 Topic 11 Governance (`GS-2/11_Governance_Policies/`)
 
 ---
 

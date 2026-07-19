@@ -642,304 +642,568 @@ RISE OF MAGADHA — 4 FACTORS:
 
 ## Practice Zone — UPPCS Format Questions
 
-**1.** Match (2020 Q6 pattern): A. Matsya B. Kuru C. Surasena D. Asmaka — 1. Mathura 2. Potana 3. Viratnagar 4. Indraprastha
+> **Answers hidden** — click *Show answer* under each question to reveal.
 
-<details><summary>Answer</summary>
-**C — 3-4-1-2**
+**Q1.** Match the Mahajanapadas with their capitals (2020 Q6 pattern):
+
+List-I: A. Matsya  B. Kuru  C. Surasena  D. Asmaka
+
+List-II: 1. Mathura  2. Potana  3. Viratnagar  4. Indraprastha
+
+Options:
+A. 3-4-1-2
+B. 4-3-2-1
+C. 1-2-3-4
+D. 2-1-4-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — 3-4-1-2** (2020 Q6). Matsya-Viratnagar, Kuru-Indraprastha, Surasena-Mathura, Asmaka-Potana. Trap: Matsya ≠ Mathura.
+
 </details>
 
-**2.** How many Mahajanapadas were there?
+**Q2.** Consider the following statements about Mahajanapadas of Uttar Pradesh:
 
-<details><summary>Answer</summary>
-**16**
+1. Eight of the sixteen Mahajanapadas had core territory in present-day UP.
+2. Magadha was one of the eight UP Mahajanapadas.
+
+Select the correct answer from the code given below:
+
+Options:
+A. Both 1 and 2
+B. Neither 1 nor 2
+C. Only 1
+D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Only 1.** UP eight: Kashi, Kosala, Vatsa, Kuru, Panchala, Malla, Surasena, Chedi. Magadha = Bihar.
+
 </details>
 
-**3.** Consider: 1. Magadha is in Uttar Pradesh. 2. Kashi is in Uttar Pradesh.
+**Q3.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
 
-<details><summary>Answer</summary>
-**Only 2 correct.** Magadha = Bihar.
+Assertion (A): Magadha rose to dominance primarily due to maritime trade dominance in the 6th century BCE.
+
+Reason (R): Magadha possessed fertile Gangetic soil, iron ore, elephants, and strategically located capitals.
+
+Select the correct answer from the code given below:
+
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — A false, R true.** Magadha's rise was land-based (agriculture, iron, elephants, Rajgir/Pataliputra) — not maritime trade.
+
 </details>
 
-**4.** Assertion (A): Udayin shifted Magadha capital to Pataliputra.
-Reason (R): Pataliputra was at the confluence of Ganga and Son rivers.
+**Q4.** Match List-I with List-II:
 
-<details><summary>Answer</summary>
-**Both true; R explains A.**
+List-I (Mahajanapada)
+A. Vajji
+B. Gandhara
+C. Vatsa
+D. Avanti
+
+List-II (Capital)
+1. Taxila
+2. Ujjain
+3. Vaishali
+4. Kaushambi
+
+Options:
+A. 3-1-4-2
+B. 1-3-2-4
+C. 4-2-3-1
+D. 2-4-1-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — 3-1-4-2.** Vajji-Vaishali, Gandhara-Taxila, Vatsa-Kaushambi, Avanti-Ujjain.
+
 </details>
 
-**5.** Which are UP mahajanapadas?
-1. Vatsa 2. Anga 3. Panchala 4. Gandhara
+**Q5.** Consider the following statements about gana-sanghas:
 
-<details><summary>Answer</summary>
-**1 and 3 only.** Anga = Bihar; Gandhara = Pakistan.
+1. Vajji was a confederacy of eight clans including the Licchavis.
+2. All sixteen Mahajanapadas were monarchical states.
+
+Select the correct answer from the code given below:
+
+Options:
+A. Both 1 and 2
+B. Neither 1 nor 2
+C. Only 1
+D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Only 1.** Vajji and Malla were republican gana-sanghas; not all sixteen were monarchies (2018 pattern).
+
 </details>
 
-**6.** Vaishali was capital of:
+**Q6.** Given below are two statements:
 
-<details><summary>Answer</summary>
-**Vajji (Vrijji) mahajanapada.**
+Assertion (A): Pataliputra was founded by Chandragupta Maurya as the first Magadha capital.
+
+Reason (R): Udayin of the Haryanka dynasty shifted the Magadha capital from Rajgir to Pataliputra.
+
+Select the correct answer from the code given below:
+
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — A false, R true.** Early capital = Rajgir; Udayin (~460 BCE) founded/shifted to Pataliputra — before Mauryas.
+
 </details>
 
-**7.** First territory annexed by Bimbisara:
+**Q7.** Match List-I with List-II:
 
-<details><summary>Answer</summary>
-**Anga (Champa).**
+List-I (Ruler/Dynasty)
+A. Bimbisara
+B. Ajatashatru
+C. Mahapadma Nanda
+D. Shishunaga
+
+List-II (Achievement)
+1. First annexation of Anga
+2. Conquest of Vajji after 16-year war
+3. First pan-North Indian empire before Mauryas
+4. Conquest of Avanti
+
+Options:
+A. 1-2-3-4
+B. 2-1-4-3
+C. 1-2-4-3
+D. 4-3-2-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — 1-2-3-4.** Bimbisara-Anga; Ajatashatru-Vajji; Nanda-empire; Shishunaga-Avanti.
+
 </details>
 
-**8.** Match dynasty ↔ ruler:
-A. Haryanka — 1. Mahapadma
-B. Nanda — 2. Bimbisara
-C. Shishunaga — 3. Kalashoka
+**Q8.** Consider the following statements about Bimbisara:
 
-<details><summary>Answer</summary>
-**A-2, B-1, C-3**
+1. He was a contemporary of both Buddha and Mahavira.
+2. His first major territorial annexation was the kingdom of Anga.
+
+Select the correct answer from the code given below:
+
+Options:
+A. Both 1 and 2
+B. Neither 1 nor 2
+C. Only 1
+D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Both correct.** Bimbisara (Haryanka) patronised Buddha; Anga (Champa) was first Magadha annexation (2018 pattern).
+
 </details>
 
-**9.** Consider: 1. Ajatashatru killed Bimbisara. 2. Ajatashatru conquered Vajji.
+**Q9.** Given below are two statements:
 
-<details><summary>Answer</summary>
-**Both correct.**
+Assertion (A): Kaushambi was the capital of the Vatsa Mahajanapada in Uttar Pradesh.
+
+Reason (R): Kaushambi is located in the Prayagraj district region of modern UP.
+
+Select the correct answer from the code given below:
+
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Both true; R explains A.** Vatsa capital = Kaushambi (2018 pattern: Kaushambi → Vatsa).
+
 </details>
 
-**10.** Kaushambi was capital of:
+**Q10.** Match List-I with List-II:
 
-<details><summary>Answer</summary>
-**Vatsa mahajanapada (UP).**
+List-I (UP Mahajanapada)
+A. Kashi
+B. Malla
+C. Panchala
+D. Surasena
+
+List-II (Capital)
+1. Varanasi
+2. Kushinagar
+3. Ahichchhatra
+4. Mathura
+
+Options:
+A. 1-2-3-4
+B. 2-1-4-3
+C. 4-3-2-1
+D. 1-4-3-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — 1-2-3-4.** Kashi-Varanasi, Malla-Kushinagar, Panchala-Ahichchhatra, Surasena-Mathura.
+
 </details>
 
-**11.** Alexander did NOT fight Dhana Nanda because:
+**Q11.** Consider the following statements on the rise of Magadha:
 
-<details><summary>Answer</summary>
-**Army mutiny + report of Nanda's huge army; turned back from Beas.**
+1. Rajgir was surrounded by five hills making it a fortified early capital.
+2. Elephant corps gave Magadha a military edge over rival Mahajanapadas.
+
+Select the correct answer from the code given below:
+
+Options:
+A. Both 1 and 2
+B. Neither 1 nor 2
+C. Only 1
+D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Both correct.** Geographic + military factors: Rajgir fortification and elephant warfare (2019 pattern).
+
 </details>
 
-**12.** Which pairs are correct?
-1. Kashi–Varanasi 2. Gandhara–Taxila 3. Avanti–Kaushambi
+**Q12.** Match List-I with List-II (2019 pattern):
 
-<details><summary>Answer</summary>
-**1 and 2 only.** Kaushambi = Vatsa; Avanti = Ujjain.
+List-I (Site/Capital)
+A. Vaishali
+B. Champa
+C. Shravasti
+D. Varanasi
+
+List-II (Association)
+1. Anga capital
+2. Vajji capital
+3. Kashi capital
+4. Kosala capital
+
+Options:
+A. 2-1-4-3
+B. 1-2-3-4
+C. 4-3-1-2
+D. 2-4-1-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — 2-1-4-3.** Vaishali-Vajji, Champa-Anga, Shravasti-Kosala, Varanasi-Kashi.
+
 </details>
 
-**13.** Shishunaga conquered:
+**Q13.** Consider the following statements about Mahajanapada sources and count:
 
-<details><summary>Answer</summary>
-**Avanti (Ujjain).**
+1. Buddhist Anguttara Nikaya is a key source listing sixteen Mahajanapadas.
+2. Jain texts also refer to the sixteen major territorial states of ancient India.
+
+Select the correct answer from the code given below:
+
+Options:
+A. Both 1 and 2
+B. Neither 1 nor 2
+C. Only 1
+D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Both correct.** Traditionally **16** Mahajanapadas (2019 pattern); Anguttara Nikaya = primary Buddhist source.
+
 </details>
 
-**14.** Assertion (A): Matsya capital was Viratnagar.
-Reason (R): Surasena capital was Mathura.
+**Q14.** Which Mahajanapada was the southernmost among the sixteen?
 
-<details><summary>Answer</summary>
-**Both true; R is independent fact (not explaining A).** Answer: Both true, R not explanation of A.
+Options:
+A. Avanti
+B. Asmaka
+C. Chedi
+D. Gandhara
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Asmaka.** Capital Potana/Pratishthana in Maharashtra/Andhra region — farthest south.
+
 </details>
 
-**15.** Mahapadma Nanda founded which dynasty?
+**Q15.** The early capital of Magadha before Pataliputra was:
 
-<details><summary>Answer</summary>
-**Nanda dynasty (~344 BCE).**
+Options:
+A. Vaishali
+B. Rajgir (Rajagriha)
+C. Champa
+D. Ujjain
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Rajgir.** Rajagriha = fortified hill capital; Pataliputra came later under Udayin.
+
 </details>
 
-**16.** Match capital ↔ mahajanapada:
-A. Ujjain — 1. Gandhara
-B. Taxila — 2. Avanti
-C. Mathura — 3. Surasena
+**Q16.** Who among the following killed/imprisoned his father Bimbisara to seize the Magadha throne?
 
-<details><summary>Answer</summary>
-**A-2, B-1, C-3**
+Options:
+A. Udayin
+B. Ajatashatru
+C. Mahapadma Nanda
+D. Prasenajit
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Ajatashatru.** Parricide ~492 BCE; then conquered Kosala and Vajji.
+
 </details>
 
-**17.** Consider: 1. Vajji was a gana-sangha. 2. Malla was a monarchy.
+**Q17.** Kushinagar is associated with which Mahajanapada?
 
-<details><summary>Answer</summary>
-**Only 1 correct.** Malla = gana-sangha too.
+Options:
+A. Vajji
+B. Kosala
+C. Malla
+D. Kashi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Malla.** Buddha attained Mahaparinirvana at Kushinagar (Kusinara) — UP (2017/2018 pattern).
+
 </details>
 
-**18.** Early Magadha capital before Pataliputra:
+**Q18.** The Second Buddhist Council was held at Vaishali during the reign of:
 
-<details><summary>Answer</summary>
-**Rajgir (Rajagriha).**
+Options:
+A. Bimbisara
+B. Ashoka
+C. Ajatashatru
+D. Kanishka
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Ajatashatru.** Second Council at Vaishali — century after First Council at Rajagriha (2019 pattern).
+
 </details>
 
-**19.** Kushinagar is associated with:
+**Q19.** Which dynasty succeeded the Haryankas in Magadha?
 
-<details><summary>Answer</summary>
-**Malla mahajanapada (UP).**
+Options:
+A. Nanda
+B. Maurya
+C. Shishunaga
+D. Gupta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Shishunaga.** Shishunaga (~413 BCE) → Nanda → Maurya chronological chain.
+
 </details>
 
-**20.** Who overthrew Nanda dynasty?
+**Q20.** Mahapadma Nanda is credited with:
 
-<details><summary>Answer</summary>
-**Chandragupta Maurya (~322 BCE).**
+Options:
+A. Founding Buddhism in Magadha
+B. Building the Great Bath at Mohenjo-daro
+C. Creating the first pan-North Indian empire before the Mauryas
+D. Shifting capital from Rajgir to Pataliputra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — First great Magadha empire.** Nanda dynasty preceded Chandragupta Maurya's overthrow of Dhana Nanda.
+
 </details>
 
-**21.** Consider about 6th century BCE:
-1. Iron technology was widespread.
-2. Punch-marked coins appeared.
+**Q21.** Gandhara Mahajanapada had its capital at:
 
-<details><summary>Answer</summary>
-**Both correct.**
+Options:
+A. Taxila (Takshashila)
+B. Rajapura
+C. Viratnagar
+D. Indraprastha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Taxila.** Gandhara = northwest (modern Pakistan); Kamboja capital = Rajapura (Afghanistan).
+
 </details>
 
-**22.** Panchala capital:
+**Q22.** Which of the following was NOT among the four great rival Mahajanapadas in the early period?
 
-<details><summary>Answer</summary>
-**Ahichchhatra (Bareilly, UP).**
+Options:
+A. Magadha
+B. Gandhara
+C. Kosala
+D. Vatsa
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Gandhara.** Four-power struggle: Magadha, Kosala, Vatsa, Avanti — Gandhara was northwest frontier.
+
 </details>
 
-**23.** Assertion (A): Bimbisara used matrimonial alliances for expansion.
-Reason (R): He married princesses of Kosala and Lichchhavi.
+**Q23.** Bimbisara expanded Magadha through matrimonial alliances with all EXCEPT:
 
-<details><summary>Answer</summary>
-**Both true; R explains A.**
+Options:
+A. Kosala princess
+B. Lichchhavi (Chellana)
+C. Prasenajit of Avanti
+D. Madra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Prasenajit was Kosala king, not Avanti.** Bimbisara allied with Kosala, Lichchhavi, Madra — diplomacy before war.
+
 </details>
 
-**24.** Second Buddhist Council location:
+**Q24.** Ajatashatru used which military innovation against the Vajji confederacy?
 
-<details><summary>Answer</summary>
-**Vaishali** (during Kalashoka, Shishunaga dynasty).
+Options:
+A. Rathamusala (scythed chariot engine)
+B. Greek phalanx formation
+C. War elephants imported from Sri Lanka
+D. Naval fleet on the Ganga
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Rathamusala.** Scythed chariot war engine — 16-year war against Vaishali/Vajji.
+
 </details>
 
-**25.** Southernmost mahajanapada:
+**Q25.** The Shishunaga dynasty is noted for conquering:
 
-<details><summary>Answer</summary>
-**Asmaka (Assaka).**
+Options:
+A. Gandhara and Kamboja
+B. Avanti
+C. Sri Lanka
+D. Kalinga
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Avanti.** Shishunaga defeated Avanti (Ujjain) — rival eliminated before Nanda expansion.
+
 </details>
 
-**26.** Which is NOT correctly matched?
-- A. Kosala–Ayodhya
-- B. Magadha–Rajgir
-- C. Surasena–Viratnagar
-- D. Kuru–Indraprastha
+**Q26.** Mathura was the capital of which Mahajanapada?
 
-<details><summary>Answer</summary>
-**C — Surasena = Mathura** (Viratnagar = Matsya).
+Options:
+A. Matsya
+B. Surasena
+C. Kuru
+D. Panchala
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Surasena.** Krishna legends region; Yamuna strategic position — UP Mahajanapada.
+
 </details>
 
-**27.** Dhana Nanda was contemporary of:
+**Q27.** Which source primarily lists the sixteen Mahajanapadas?
 
-<details><summary>Answer</summary>
-**Alexander the Great (326 BCE invasion).**
+Options:
+A. Rigveda
+B. Anguttara Nikaya (Buddhist text)
+C. Manusmriti
+D. Arthashastra alone
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Anguttara Nikaya.** Buddhist canonical source; Jain texts also mention the sixteen states.
+
 </details>
 
-**28.** Four great rival mahajanapadas:
+**Q28.** Hastinapur is associated with which Mahajanapada?
 
-<details><summary>Answer</summary>
-**Magadha, Kosala, Vatsa, Avanti.**
+Options:
+A. Panchala
+B. Kuru
+C. Chedi
+D. Anga
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Kuru.** Kuru also linked to Indraprastha (Delhi NCR); Hastinapur in Meerut district, UP.
+
 </details>
 
-**29.** Consider: 1. Haryanka preceded Shishunaga. 2. Shishunaga preceded Nanda.
+**Q29.** The Nanda ruler overthrown by Chandragupta Maurya was:
 
-<details><summary>Answer</summary>
-**Both correct** (chronological order).
+Options:
+A. Bimbisara
+B. Dhana Nanda
+C. Mahapadma Nanda's immediate successor only
+D. Ajatashatru
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Dhana Nanda.** Last Nanda king; overthrown ~322 BCE with Chanakya's assistance.
+
 </details>
 
-**30.** Asmaka capital (2020 Q6):
+**Q30.** Asmaka Mahajanapada had its capital at:
 
-<details><summary>Answer</summary>
-**Potana (option 2 in 2020 Q6).**
-</details>
+Options:
+A. Mathura
+B. Potana
+C. Viratnagar
+D. Ujjain
 
-**31.** Gana-sanghas included:
-1. Vajji 2. Magadha 3. Malla
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Answer</summary>
-**1 and 3 only.** Magadha = monarchy.
-</details>
+**Ans: B — Potana** (2020 Q6 option 2). Southernmost mahajanapada; also called Pratishthana region.
 
-**32.** Who was Bimbisara's son who killed him?
-
-<details><summary>Answer</summary>
-**Ajatashatru.**
-</details>
-
-**33.** Match: A. Varanasi — 1. Vatsa B. Kaushambi — 2. Kashi C. Ayodhya — 3. Kosala
-
-<details><summary>Answer</summary>
-**A-2, B-1, C-3**
-</details>
-
-**34.** Magadha's rise NOT due to:
-
-<details><summary>Answer</summary>
-**Maritime trade dominance** (primarily land resources and military).
-</details>
-
-**35.** Consider: 1. Sixteen mahajanapadas listed in Anguttara Nikaya. 2. All were monarchies.
-
-<details><summary>Answer</summary>
-**Only 1 correct.** Vajji and Malla were gana-sanghas.
-</details>
-
-**36.** Hastinapur associated with:
-
-<details><summary>Answer</summary>
-**Kuru mahajanapada (UP).**
-</details>
-
-**37.** Assertion (A): Mahapadma Nanda built first pan-North Indian empire before Mauryas.
-Reason (R): He conquered Kosala, Kalinga, and Panchala.
-
-<details><summary>Answer</summary>
-**Both true; R explains A.**
-</details>
-
-**38.** Kalashoka is associated with:
-
-<details><summary>Answer</summary>
-**Shishunaga dynasty; Second Buddhist Council.**
-</details>
-
-**39.** Gandhara capital:
-
-<details><summary>Answer</summary>
-**Taxila (Takshashila).**
-</details>
-
-**40.** Arrange dynasties chronologically:
-A. Nanda B. Haryanka C. Shishunaga
-
-<details><summary>Answer</summary>
-**Haryanka → Shishunaga → Nanda**
-</details>
-
-**41.** Consider the following about Magadha capitals:
-1. Rajgir was the early fortified capital.
-2. Pataliputra was established at the Ganga-Son confluence.
-
-<details><summary>Answer</summary>
-**Both correct.**
-</details>
-
-**42.** Assertion (A): Vajji confederacy resisted Magadha for many years.
-Reason (R): Ajatashatru fought a 16-year war to conquer Vaishali.
-
-<details><summary>Answer</summary>
-**Both true; R explains A.**
-</details>
-
-**43.** Which pairs are correctly matched?
-1. Malla–Kushinagar  2. Anga–Champa  3. Panchala–Pataliputra
-
-<details><summary>Answer</summary>
-**1 and 2 only.** Pataliputra = Magadha.
-</details>
-
-**44.** Consider: 1. Bimbisara was a contemporary of Buddha. 2. Bimbisara patronized Buddhism.
-
-<details><summary>Answer</summary>
-**Both correct.**
 </details>
 
 ---
 
+
 ## Complete PYQ Bank (Topic 5)
+
+> **Answers hidden** — click *Show answer* under each question to reveal.
+
 
 ### UPPCS Prelims 2020
 
 **Q6.** Match List-I (Mahajanapadas) with List-II (Capitals):
 A. Matsya  B. Kuru  C. Surasena  D. Asmaka — 1. Mathura  2. Potana  3. Viratnagar  4. Indraprastha
 
-<details><summary>Answer</summary>
+<details>
+<summary>Show answer</summary>
 **C — 3-4-1-2.** Matsya-Viratnagar, Kuru-Indraprastha, Surasena-Mathura, Asmaka-Potana.
 </details>
 

@@ -1,0 +1,1073 @@
+# Topic 9 — Rajputs
+### ★ Complete Source of Truth — No other book/notes needed for this topic
+
+> **Covers syllabus:** Rajput Warriors | Maharana Pratap | Battle of Haldighati | Rana Sanga | Rajput States  
+> **Sources baked in:** NCERT *Themes in Indian History Part II*, RS Sharma *Medieval India*, export notes (Struggle for Empire I–II), UPPCS/UPSC PYQs 2018–2025  
+> **Exam weight:** ★★★ High — ruler–state match traps (Hamir/Chunda), Khanwa vs Haldighati, Chittor siege chronology, Man Singh vs Pratap, Marwar vs Mewar  
+> **Last verified:** July 2026
+
+---
+
+## Quick Revision Box — Raata This First
+
+```
+RAJPUT FRAME:
+  Rajput = martial clans claiming Kshatriya status | Fort + cavalry warfare | Jauhar/Saka codes
+  Major clans: Sisodia (Mewar) | Rathore (Marwar) | Kachhwaha (Amber/Jaipur) | Chauhan | Hada | Bhati
+
+KEY STATES & CAPITALS (★★★):
+  Mewar (Sisodia) → Chittor → Udaipur | Marwar (Rathore) → Jodhpur/Mandore
+  Amber/Kachhwaha → Amber/Jaipur | Bikaner (Rathore branch) | Jaisalmer (Bhati) | Bundi-Kota (Hada)
+
+RANA SANGA (MEWAR):
+  Rana Sangram Singh | United Rajput confederacy vs Babur
+  Khanwa 16 March 1527 — Babur won | Mahmud Lodi on Rajput side | Sanga died ~1528
+
+MAHARANA PRATAP (MEWAR):
+  Son of Rana Udai Singh II | Refused Akbar's submission | Capital shift: Chittor → Udaipur (1559)
+  Guerrilla resistance from Aravalli | Chetak horse legend | Died 1597 | Amar Singh submitted 1615 (Jahangir)
+
+HALDIGHATI 1576 (★★★):
+  18 June 1576 | Pratap vs Mughal army under Raja Man Singh (Amber)
+  Pass near Gogunda/Udaipur | Tactical indecisive — Pratap escaped | Mughal strategic gain in plains
+
+CHITTOR & ALAUDDIN (PYQ):
+  Alauddin Khalji siege 1303 (jauhar Padmini legend) | Akbar siege 1567–68 (jauhar Patta/Jaimal)
+  2025 Q30 / 2022 Q59 order: Gujarat → Ranthambore → Chittor → Warangal = B/C (2-1-4-3)
+
+MATCH TRAPS (★★★):
+  Rana Hamir → Mewar ✓ | Rana Chunda → Marwar ✗ (Chunda = Mewar; Rao Chunda = Marwar) — 2021 Q118 = B
+  Khanwa 1527 → Sanga | Haldighati 1576 → Pratap | Panipat II 1556 → Hemu
+  Jayata/Kumpa → Marwar (Rao Maldeo) — 2022 Q95 = C | NOT Mewar
+  Tansen patron before Akbar → Ramchandra Singh of Rewa — NOT Uday Singh Mewar (2019 Q89 = A)
+```
+
+### Must-Know Term Comparisons (very frequently asked)
+
+| Term | One-line difference | Hindi |
+|------|---------------------|-------|
+| **Rana vs Maharana vs Rao** | **Rana/Maharana** = Sisodia **Mewar** title; **Rao** = Rathore **Marwar/Bikaner** title — don't swap | राणा / महाराणा / राव |
+| **Rana Chunda vs Rao Chunda** | **Rana Chunda** = **Mewar** (Guhila regent legend); **Rao Chunda** = **Marwar** Rathore founder — **2021 Q118 trap** | राणा चुंडा / राव चुंडा |
+| **Khanwa vs Haldighati** | **Khanwa 1527** Babur vs **Rana Sanga**; **Haldighati 1576** Akbar's Man Singh vs **Rana Pratap** | खानवा / हल्दीघाटी |
+| **Mewar vs Marwar** | **Mewar** = Udaipur–Chittor **Sisodia**; **Marwar** = Jodhpur **Rathore** — different kingdoms | मेवाड़ / मारवाड़ |
+| **Sisodia vs Rathore vs Kachhwaha** | **Sisodia** = Mewar (Pratap, Sanga); **Rathore** = Marwar (Maldeo, Jodha); **Kachhwaha** = Amber (Man Singh) | सिसोदिया / राठौड़ / कछवाहा |
+| **Chittor vs Udaipur** | **Chittor** = old capital (fort sieges 1303, 1568); **Udaipur** = Udai Singh II's new capital **1559** | चित्तौड़ / उदयपुर |
+| **Rana Sanga vs Maharana Pratap** | **Sanga** fought **Babur** (1527); **Pratap** fought **Akbar** (1576) — two Mewar heroes, two Mughal generations | राणा सांगा / महाराणा प्रताप |
+| **Raja Man Singh vs Rana Pratap** | Both Rajputs — **Man Singh (Kachhwaha)** led **Mughal** army at Haldighati vs **Pratap (Sisodia)** | राजा मान सिंह / राणा प्रताप |
+| **Jauhar vs Saka** | **Jauhar** = mass self-immolation of women before fort fall; **Saka** = Rajput warriors' death charge after | जौहर / साका |
+| **Akbar's Rajput policy vs Pratap's resistance** | Most Rajputs allied (Amber, Jodhpur later); **Mewar under Pratap** = main holdout | अकबरी राजनीति / प्रताप का प्रतिरोध |
+| **Alauddin's Chittor vs Akbar's Chittor** | **1303** Khalji siege (Ratan Singh/Padmini lore); **1567–68** Akbar siege (Udai Singh fled, jauhar of Patta) | अलाउद्दीन का चित्तौड़ / अकबर का चित्तौड़ |
+| **Rana Hamir vs Rana Kumbha** | **Hamir** (14th c.) restored **Mewar** after Khalji; **Kumbha** (15th c.) builder/patron — Vijay Stambha | राणा हमीर / राणा कुम्भा |
+| **Udai Singh II vs Udai Singh (1540)** | **Udai Singh II** = Pratap's father (Mewar); don't confuse with other namesakes | उदय सिंह (मेवाड़) |
+| **Amar Singh vs Pratap** | **Pratap** resisted till death **1597**; son **Amar Singh** peace with Jahangir **1615** | अमर सिंह / प्रताप |
+| **Bhati vs Rathore** | **Bhati** = **Jaisalmer** desert kingdom; **Rathore** = Marwar/Bikaner line | भाटी / राठौड़ |
+
+### Memory Tricks
+
+| Trick | Remembers |
+|-------|-----------|
+| **1527 vs 1576** | **S**anga **27** (Khanwa) → **P**ratap **76** (Haldighati) — S before P, 27 before 76 |
+| **2021 Q118** | **R**ana **C**hunda ≠ **M**arwar — **RC≠M** |
+| **Chunda title trap** | **Rao** = Marwar | **Rana** Chunda = Mewar |
+| **Man at Haldighati** | **M**an **S**ingh — **M**ughal side at **H**aldighati |
+| **Chittor 1303–1568** | **Alauddin 1303** → **Akbar 1568** — 265 years apart, same fort |
+| **Alauddin order 2025 Q30** | **G**ujarat → **R**anthambore → **C**hittor → **W**arangal = **GRCW** → **2-1-4-3** |
+| **Chetak** | **C**hetak carried **P**ratap from Haldighati — legend in Mewar lore |
+| **Tansen trap 2019** | **R**ewa **R**amchandra — **RR** before Akbar, not Mewar |
+| **Jayata-Kumpa** | **Marwar** Rathores — **2022 Q95 = C** |
+| **Khanwa coalition** | **S**anga + **M**ahmud **L**odi vs Babur — SML broken |
+
+---
+
+## Exam Visuals — High-ROI Images
+
+> **Type priority:** Rajput states map → battle sites. Images stored locally (`images/`) for offline revision.
+
+### 1. Rajput States & Battle Sites Map
+
+![Rajput states map showing Mewar, Marwar, Amber and battle sites Khanwa 1527, Haldighati 1576, Chittor](images/rajput_states_battles_map.png)
+
+*Raata **Mewar–Marwar–Amber triangle** + **Khanwa (1527)** + **Haldighati (1576)** + **Chittor**. UPPCS loves **state–ruler match** and **battle–year** pairs.*
+*Source: Study map — generated for UPPCS Rajput geography*
+
+---
+
+## 9.1 Rajput Warriors — Military Culture & Traditions
+
+### Definitions (learn all — exams pick different ones)
+
+| Source | Definition |
+|--------|------------|
+| **General** | **Rajput** = member of martial **clan–lineages** in North/West India claiming **Kshatriya** status; dominant in **Rajasthan**, **Malwa**, **Gujarat**, **Bundelkhand** from early medieval period |
+| **NCERT** | Rajput age = **regional kingdoms** + **fort-based warfare** + **patronage of temples**; interaction with **Delhi Sultanate** and **Mughals** shaped politics |
+| **Exam** | Rajput ≠ single dynasty — **many states** under clan names (Sisodia, Rathore, Kachhwaha, Chauhan, Paramara, Solanki, Gahadavala) |
+
+### Rajput Warriors — How It Works
+
+- **Clan identity:** Rajput status built on **genealogy**, **martial service**, **land control**, and **marriage alliances** — not one centralized Rajput empire.
+- **Fort warfare:** **Hill forts** (Chittor, Kumbhalgarh, Ranthambore, Mandu, Gwalior) = economic and symbolic power — sieges define Rajput–Sultanate–Mughal history.
+- **Cavalry elite:** Rajput armies centred on **horse-mounted warriors**, **elephants**, and **local infantry** — personal loyalty to **clan chief** over abstract empire.
+- **Chivalry codes:** Honour (**izzat**), **protected vassals**, **hospitality**, and **battlefield bravery** celebrated in **ballads** (Prithviraj Raso, Mewar chronicles).
+- **Jauhar and Saka:** When defeat certain, **jauhar** (women's self-immolation) followed by **saka** (warriors' final sortie) — Chittor sieges **1303, 1568** most famous.
+- **Alliances and rivalries:** Rajput clans **fought each other** as often as outsiders — **Mewar vs Marwar**, **Amber** allied with Mughals against **Sisodia** Mewar.
+- **Against Delhi Sultanate:** **Prithviraj Chauhan** (Tarain 1191–92), **Rana Hammir** vs Khilji (14th c.), **Alauddin at Chittor 1303** — resistance + submission cycles.
+- **Against Mughals:** **Rana Sanga** (Khanwa 1527) then **Rana Pratap** (Haldighati 1576) — but **Kachhwaha, Rathore** many joined Mughal service.
+- **Rajput generals in Mughal army:** **Raja Man Singh, Raja Bhagwan Das** — highest mansabs — shows Rajput–Mughal **composite elite**, not simple Hindu–Muslim binary.
+- **Regional spread:** **Rajasthan core** plus **Bundelkhand** (Chandelas), **Malwa Paramaras**, **Gujarat Solankis**, **Awadh** edges — UPPCS tests **which state NOT in Rajasthan**.
+- **Women in Rajput lore:** **Padmini/Jauhar legend (1303)**, **Mirabai (Krishna bhakti)**, **taragis** in battle accounts — cultural memory beyond kings alone.
+- **Decline pattern:** After **Akbar's alliances**, Rajput states became **Mughal partners**; **Aurangzeb's Rajput tensions** (Marwar, Mewar) revived conflict briefly.
+
+> **Exam note:** Rajput warrior question usually tests **specific ruler–clan–state** match or **which battle which leader** — not generic "brave Kshatriyas" definition alone.
+
+### Exam Facts (raata)
+
+- Rajput = **clan-based martial elites**, multiple kingdoms
+- **Jauhar + Saka** = Chittor siege tradition
+- **Fort + cavalry** = core military style
+- Famous early resistors: **Prithviraj Chauhan**, **Rana Hammir**
+- Many Rajputs served as **Mughal mansabdars**
+- **Ballads/chronicles** preserve Rajput history (not always strict chronology)
+
+### PYQs — Rajput Warriors
+
+1. **(UPPCS 2022, Q95)** Jayata and Kumpa impressed Sher Shah — associated with **Marwar** (Rathore generals under Rao Maldeo) → **C**. Tests Rajput **warrior–state** geography.
+
+2. **(UPPCS 2021, Q118)** NOT matched: **Rana Chunda – Marwar** → **B**. **Rana Chunda** belongs to **Mewar** lore; **Rao Chunda** = Marwar founder — title trap.
+
+### Examples (9.1)
+
+| Example | Detail | Exam use |
+|---------|--------|----------|
+| **Jauhar at Chittor 1568** | Akbar siege — Patta, Jaimal killed; jauhar | Rajput military–social code |
+| **Jaita & Kumpa (1544)** | Marwar Rathores vs Sher Shah at Sammel | Rajput warrior fame beyond Mughal era |
+| **Rana Hammir (1326–1364)** | Restored Mewar after Khalji defeat | 2021 Q118 correct pair |
+
+---
+
+## 9.2 Maharana Pratap — Life, Resistance & Legacy
+
+### Definitions (learn all — exams pick different ones)
+
+| Source | Definition |
+|--------|------------|
+| **General** | **Maharana Pratap Singh** (r. **1572–1597**) — Sisodia ruler of **Mewar**; leading **anti-submission** Rajput resistance against **Akbar** |
+| **NCERT** | Symbol of **regional autonomy**; refused Mughal overlordship unlike **Kachhwaha Amber**; guerrilla warfare from **Aravalli** hills |
+| **Exam** | Title **Maharana** (not merely Rana) = senior Sisodia rank; capital era **Kumbhalgarh / Gogunda / Chavand** — not stable single court like Mughals |
+
+### Maharana Pratap — How It Works
+
+- **Lineage:** Son of **Rana Udai Singh II** (not eldest heir initially) — Mewar Sisodia clan; born **1540** (traditional date).
+- **Accession 1572:** Became ruler after Udai Singh's death — inherited kingdom **shrunk** after **Akbar's Chittor siege (1567–68)** — father had moved capital to **Udaipur (1559)**.
+- **Refused Akbar's alliance:** Unlike **Raja Bharmal of Amber** (Akbar marriage 1562), Pratap **rejected subordination** — no Mughal mansab, no tribute acceptance.
+- **Akbar's pressure:** Mughals wanted **Mewar submission** to complete Rajput integration — **Haldighati campaign 1576** followed diplomatic failure.
+- **Guerrilla phase:** After Haldighati, Pratap retreated to **Aravalli hills** — **Kumbhalgarh, Gogunda, Chavand** — harassed Mughal posts, avoided pitched battles on plains.
+- **Chetak legend:** Horse **Chetak** wounded at Haldighati yet carried Pratap to safety — popular symbol in **Mewar folk memory** (exam cultural fact).
+- **Bhama Shah & Bhamashah:** Financed Mewar resistance — Rajput **merchant-patron** support for guerrilla state.
+- **Reconquest efforts:** Recovered **much of Mewar** except **Chittor, Mandalgarh** strong Mughal holdouts — partial success, not total independence.
+- **Death 1597:** Pratap died at **Chavand** — son **Amar Singh** continued resistance then negotiated.
+- **1615 peace:** **Amar Singh** submitted to **Jahangir** — Mewar got **honourable terms** (no Mughal marriage demand for Sisodias per some accounts) — end of open war.
+- **Legacy:** National/regional icon of **freedom and honour** — **Pratap Gaurav Diwas (7 June)** — UPPCS asks **dates, battles, opponents**, not only symbolism.
+- **Trap — opponent at Haldighati:** **Raja Man Singh (Amber)** led Mughal vanguard — **not Akbar personally** in field — both were Rajputs by birth.
+
+> **Exam note:** Pratap = **1576 Haldighati** + **refused Akbar** + **Udai Singh's son** — do NOT pair with **Khanwa 1527** (that is **Rana Sanga**).
+
+### Exam Facts (raata)
+
+- Ruled **1572–1597** | Died **1597** at Chavand
+- Son of **Rana Udai Singh II**
+- Refused **Akbar's submission**
+- **Guerrilla** resistance from Aravalli
+- **Chetak** horse — Haldighati legend
+- Son **Amar Singh** — peace **1615** with Jahangir
+- **Maharana** title — Sisodia Mewar
+
+### PYQs — Maharana Pratap
+
+1. **(UPPCS 2025 pattern / Topic 7 battle match)** Haldighati → **Rana Pratap 1576** — paired opposite **Khanwa → Sanga 1527**.
+
+2. **(UPSC 2019 pattern — battle commander)** Mughal side at Haldighati led by **Raja Man Singh** for Akbar — Rajput vs Rajput command.
+
+### Examples (9.2)
+
+| Example | Detail | Exam use |
+|---------|--------|----------|
+| **Bhama Shah donation** | Funded army after Haldighati | Internal Rajput support |
+| **Chavand capital** | Late-life base | Death place trap vs Chittor |
+| **Amar Singh 1615** | Submission under Jahangir | End of Sisodia open war |
+
+---
+
+## 9.3 Battle of Haldighati (18 June 1576)
+
+### Definitions (learn all — exams pick different ones)
+
+| Source | Definition |
+|--------|------------|
+| **General** | **Battle of Haldighati** — fought in **narrow Aravalli pass** (near **Gogunda**, Mewar) between **Rana Pratap's forces** and **Mughal army** under **Raja Man Singh** |
+| **NCERT** | **Tactically indecisive** — Pratap escaped; **strategically** Mughals strengthened hold on Mewar plains and forts |
+| **Exam** | Date **1576**; **not** 1527 (Khanwa) or 1556 (Panipat II) |
+
+### Battle of Haldighati — How It Works
+
+- **Background:** Akbar's **Rajput policy** mostly succeeded — **Mewar under Pratap** remained defiant after **1568 Chittor fall**.
+- **Mughal command:** **Raja Man Singh** of **Amber (Kachhwaha)** — high mansabdar — led imperial force; **Asaf Khan** also in Mughal camp — **Akbar at capital**, not pass.
+- **Rajput command:** **Rana Pratap** personally led Mewar army — allies included **Bhils** (Punja/Nana), **Afghan remnants** under **Hakim Khan Sur** — mixed coalition.
+- **Terrain:** **Haldighati pass** — turmeric-coloured soil (name) — narrow front negated Mughal **numerical advantage** initially.
+- **18 June 1576:** Fierce **cavalry clash** — Pratap targeted **Man Singh** (elephant/howdah confusion in sources) — heavy casualties both sides.
+- **Chetak episode:** Pratap's horse **Chetak** wounded — carried him to safety — then died — iconic in Rajasthani lore.
+- **Outcome debate:** **No clear annihilation** — Pratap **withdrew** to hills; Mughals **did not fully capture** him — hence **tactical stalemate**.
+- **Strategic result:** Mughals captured **Gogunda, Kumbhalgarh** later phases — Mewar plains largely **Mughal-controlled** — Pratap **guerrilla phase** begins.
+- **Rajput vs Rajput:** **Man Singh vs Pratap** — shows Mughal empire as **multi-ethnic** power using **Rajput against Rajput** — not simple religious war.
+- **Bhils' role:** **Tribal allies** of Pratap — UPPCS occasional **"who fought with Pratap"** pattern.
+- **Aftermath till 1597:** Pratap never accepted mansab; **partial Mewar recovery** — full Mughal peace only **1615** under Amar Singh.
+- **Trap — "Mughal victory" wording:** Textbooks differ — safe exam line: **Mughal strategic advantage** + **Pratap survived** to fight on.
+
+> **Exam note:** **Man Singh** (not Akbar) commanded at Haldighati — **2025/2019 battle-match** format loves this swap trap.
+
+### Exam Facts (raata)
+
+- Date: **18 June 1576**
+- Site: **Haldighati pass**, Mewar (near Gogunda)
+- **Pratap** vs **Raja Man Singh** (Mughal side)
+- **Chetak** legend | **Bhils** allied with Pratap
+- Tactical **indecisive** | Strategic Mughal gain
+- **Not** Khanwa | **Not** Panipat
+
+### PYQs — Haldighati
+
+1. **(UPPCS 2025 pattern — battle chronology set)** Haldighati **1576** listed after **Khanwa/Chausa era** battles — know **4-2-3-1** type orders include **1576** as Pratap marker.
+
+2. **(UPPCS Topic 7 Practice Q38 pattern)** Match: **D. Haldighati → 4. Rana Pratap 1576** — answer code **A (2-1-3-4)** for full battle set.
+
+### Examples (9.3)
+
+| Example | Detail | Exam use |
+|---------|--------|----------|
+| **Hakim Khan Sur** | Afghan ally of Pratap at Haldighati | Coalition not purely Sisodia |
+| **Punja Bhil** | Bhil chief ally | "Who supported Pratap" |
+| **Gogunda** | Nearby town/military objective | Geography MCQ |
+
+---
+
+## 9.4 Rana Sanga — Confederacy & Khanwa
+
+### Definitions (learn all — exams pick different ones)
+
+| Source | Definition |
+|--------|------------|
+| **General** | **Rana Sanga** = **Rana Sangram Singh** of **Mewar** — early 16th c. ruler who united **Rajput confederacy** against **Babur** |
+| **NCERT** | Strongest **Rajput challenge** to early Mughal power after Panipat 1526 — broken at **Khanwa 1527** |
+| **Exam** | Sanga invited/helped context with **anti-Lodi** politics but later **fought Babur** — don't assume continuous Babur alliance |
+
+### Rana Sanga — How It Works
+
+- **Mewar power:** Sanga expanded Mewar — conflicts with **Malwa, Gujarat, Marwar** — became **premier Rajput king** before Babur's consolidation.
+- **Wounds and wars:** Legend of **80 wounds**, one eye, one arm lost — symbol of **Rajput endurance** — exam biographical detail.
+- **Anti-Lodi context:** North India after **Ibrahim Lodi** unstable — **Rana Sanga** and **Daulat Khan Lodi** both interacted with **Babur's entry** — politics fluid.
+- **Babur vs Sanga rivalry:** After **Panipat 1526**, Babur had Delhi but **not secure Rajasthan** — Sanga assembled **large Rajput coalition**.
+- **Mahmud Lodi alliance:** **Lodi claimant** joined Sanga — **Rajput + Afghan** alliance vs **Babur** — similar pattern to **Khanwa coalition**.
+- **Battle of Khanwa (16 March 1527):** Near **Fatehpur Sikra/Bharatpur region** — Babur used **wagons (araba)** + **Tulughma** tactics again.
+- **Outcome:** **Decisive Babur victory** — Rajput confederacy shattered — **Mughal hold on North India secured**.
+- **Sanga's death:** Died ~**1528** (accounts vary — poison/wounds) — Mewar weakened temporarily.
+- **Comparison to Pratap:** **Sanga vs Babur (1527)** | **Pratap vs Akbar (1576)** — two Mewar resistances, **49 years apart**, different Mughal emperors.
+- **Invitation trap:** Some sources say Rajputs **underestimated Babur's gunpowder** — lesson repeated in **Indian military history** questions.
+- **After Khanwa:** Babur fought **Chanderi 1528**, **Ghagra 1529** — no major Rajput confederacy until later partial revolts.
+- **High-priority UPPCS addition:** Syllabus explicitly lists **Battle of Khanwa** — must **pair with Sanga**, never with Pratap.
+
+> **Exam note:** **Khanwa = 1527 = Sanga** | **Haldighati = 1576 = Pratap** — most common Rajput battle swap trap in UPPCS.
+
+### Exam Facts (raata)
+
+- **Rana Sangram Singh (Sanga)** — Mewar
+- **Khanwa 16 March 1527** vs Babur
+- **Mahmud Lodi** on Sanga's side
+- **Decisive Babur win** — Rajput confederacy broken
+- Died ~**1528**
+- **Before** Haldighati by 49 years
+
+### PYQs — Rana Sanga
+
+1. **(UPPCS Topic 7 Practice Q38 / battle match)** **A. Khanwa → 2. Rana Sanga 1527** — core UPPCS battle pairing.
+
+2. **(UPPCS 2019, Q89 — indirect)** **Uday Singh of Mewar** option — tests knowing **Mewar rulers** apart from **Sanga/Pratap** era; Tansen patron = **Rewa**, not Mewar → **A**.
+
+### Examples (9.4)
+
+| Example | Detail | Exam use |
+|---------|--------|----------|
+| **Khanwa wagons** | Babur repeated Panipat tactics | Military history link |
+| **Mahmud Lodi** | Afghan ally | Coalition composition |
+| **Sanga's injuries** | Biographical uniqueness | Identification MCQ |
+
+---
+
+## 9.5 Rajput States — Kingdoms, Capitals & Rulers
+
+### Definitions (learn all — exams pick different ones)
+
+| Source | Definition |
+|--------|------------|
+| **General** | **Rajput states** = regional kingdoms ruled by Rajput clans — **not unified empire** — each with **capital fort**, **clan genealogy**, **Mughal treaty** or **resistance** history |
+| **NCERT** | Major zones: **Mewar, Marwar, Amber, Hadoti, Bikaner, Jaisalmer** — plus **Bundelkhand, Malwa** Rajput dynasties |
+| **Exam** | Match **ruler–state–capital–clan** — negative questions ("NOT correctly matched") most common |
+
+### Rajput States — How It Works
+
+- **Mewar (Sisodia/Guhila):** Capital **Chittor** → later **Udaipur**; rulers **Hammir, Kumbha, Sanga, Udai Singh II, Pratap**; symbol of **anti-Mughal** prestige.
+- **Marwar (Rathore):** Capital **Mandore → Jodhpur**; **Rao Jodha** founded Jodhpur; **Rao Maldeo** strong mid-16th c.; **Jaita & Kumpa** heroes — **2022 Q95 Marwar**.
+- **Amber/Kachhwaha (Jaipur line):** Capital **Amber → Jaipur**; **Raja Bharmal** allied with Akbar (**Jodha Bai marriage 1562**); **Man Singh, Bhagwan Das** Mughal mansabdars.
+- **Bikaner (Rathore branch):** **Rao Bika** founded **1465**; desert kingdom — often allied with Mughals.
+- **Jaisalmer (Bhati):** Desert **trader-fort** state — **Alauddin 1299–1300** Jaisalmer siege/jauhar.
+- **Bundi & Kota (Hada Chauhan):** Hadoti region — **smaller but ancient** — exam "which is Hadoti state" patterns.
+- **Karauli (Yaduvanshi):** Eastern Rajasthan — less frequent but appears in match lists.
+- **Malwa Paramaras (Dhar):** Rajput dynasty — **Bhoja** medieval peak — overlaps Topic 1 early medieval.
+- **Marwar vs Mewar trap:** Neighbouring **large** Rajput powers — **different clans, capitals, rulers** — UPPCS swaps **Chunda, Maldeo, Sanga** across states.
+- **Mughal treaty tiers:** **Kachhwaha** intimate allies | **Rathore** mixed (Maldeo resisted Sher Shah; later Jahangir period tensions) | **Sisodia Mewar** last major submission **1615**.
+- **Chittor sieges — two eras:** **Alauddin 1303** (Khalji) and **Akbar 1567–68** (Mughal) — same fort, **different Rajput states context** — Mewar both times.
+- **2021 Q118 logic:** **Rana Hamir → Mewar ✓** | **Rana Chunda → Marwar ✗** — **Chunda = Mewar** narrative; **Rao Chunda = Marwar** — watch **Rana vs Rao** prefix.
+
+### Rajput States — Complete Table
+
+| State | Clan | Capital(s) | Key rulers (exam) |
+|-------|------|------------|-------------------|
+| **Mewar** | Sisodia (Guhila) | Chittor, Udaipur | Hammir, Kumbha, Sanga, Udai Singh II, Pratap |
+| **Marwar** | Rathore | Mandore, Jodhpur | Rao Jodha, Rao Maldeo, Jaita & Kumpa |
+| **Amber (Jaipur)** | Kachhwaha | Amber, Jaipur | Bharmal, Bhagwan Das, Man Singh |
+| **Bikaner** | Rathore (Bika line) | Bikaner | Rao Bika |
+| **Jaisalmer** | Bhati | Jaisalmer | Rawal Jaisal; Alauddin siege 1299–1300 |
+| **Bundi** | Hada Chauhan | Bundi | Rao Surjan (sur rendered Chittor gate lore) |
+| **Kota** | Hada Chauhan | Kota | Breakaway from Bundi |
+| **Karauli** | Yaduvanshi | Karauli | — |
+
+### Exam Facts (raata)
+
+- **Mewar** = Sisodia | **Marwar** = Rathore | **Amber** = Kachhwaha
+- **Chittor** = Mewar old capital | **Udaipur** = new from **1559**
+- **Jodhpur** = Marwar | **Jaipur line** from Amber
+- **Rana Hamir** restored Mewar — **14th c.**
+- **Rao Maldeo** = Marwar — **Sammel 1544**
+- **Raja Man Singh** = Amber/Kachhwaha
+
+### PYQs — Rajput States
+
+1. **(UPPCS 2021, Q118)** Which NOT matched? **B. Rana Chunda – Marwar** → **B** (Chunda = **Mewar**; **Rao Chunda** = Marwar).
+
+2. **(UPPCS 2022, Q59 / 2025, Q30)** Alauddin conquests order including **Chittor (Mewar fort)** → **C / B (2-1-4-3)** — Gujarat → Ranthambore → Chittor → Warangal.
+
+3. **(UPPCS 2022, Q95)** Jayata & Kumpa → **Marwar** (Rathore) → **C**.
+
+### Examples (9.5)
+
+| Example | Detail | Exam use |
+|---------|--------|----------|
+| **Rana Hamir – Mewar** | 2021 Q118 correct pair | Founder restorer |
+| **Rao Maldeo – Marwar** | vs Sher Shah 1544 | Marwar ≠ Mewar |
+| **Alauddin Chittor 1303** | Mewar fort Khalji siege | Chronology with 2025 Q30 |
+
+---
+
+## Consolidated Reference
+
+### Battle — Ruler — Year Master Table
+
+| Battle | Year | Rajput side | Opponent | Result |
+|--------|------|-------------|----------|--------|
+| **Tarain I & II** | 1191, 1192 | Prithviraj Chauhan | Muhammad Ghori | Rajput loss (1192) |
+| **Chittor siege** | 1303 | Mewar (Ratan Singh) | Alauddin Khalji | Khalji capture; jauhar legend |
+| **Khanwa** | **1527** | **Rana Sanga** + allies | **Babur** | Babur decisive win |
+| **Sammel** | 1544 | Rao Maldeo (Marwar) | Sher Shah | Sher Shah costly win |
+| **Chittor siege** | 1567–68 | Udai Singh II (fled) | Akbar | Mughal capture; jauhar |
+| **Haldighati** | **1576** | **Rana Pratap** | Man Singh (for Akbar) | Tactical stalemate; Mughal strategic edge |
+
+### Ruler — State — Clan Match Table (Complete)
+
+| Ruler | State | Clan | Trap |
+|-------|-------|------|------|
+| Rana Hammir | Mewar | Sisodia | ✓ 2021 Q118 |
+| Rana Kumbha | Mewar | Sisodia | Built Vijay Stambha |
+| Rana Sanga | Mewar | Sisodia | Khanwa 1527 |
+| Rana Udai Singh II | Mewar | Sisodia | Udaipur founder 1559 |
+| Maharana Pratap | Mewar | Sisodia | Haldighati 1576 |
+| Rana Chunda | **Mewar** | Guhila/Sisodia lore | **NOT Marwar** |
+| Rao Chunda | **Marwar** | Rathore | **Rao** not Rana |
+| Rao Jodha | Marwar | Rathore | Founded Jodhpur |
+| Rao Maldeo | Marwar | Rathore | Sammel 1544 |
+| Jaita & Kumpa | Marwar | Rathore | 2022 Q95 |
+| Raja Bharmal | Amber | Kachhwaha | Akbar alliance |
+| Raja Man Singh | Amber | Kachhwaha | Haldighati Mughal cmd |
+
+### UP Focus — Rajputs & UPPCS Geography
+
+| Element | Detail | PYQ / trap link |
+|---------|--------|-----------------|
+| **Bundelkhand** | Chandela forts (Kalinjar, Mahoba) — Rajput-era overlap | Border with UP |
+| **Kannauj/Ganga plain** | Rajput–Turk struggles (Gahadavala) | Early medieval → Sultanate |
+| **Prayag/Allahabad** | Mughal princes governed Doab — Rajput interface | Topic 7 overlap |
+| **Agra–Delhi corridor** | Khanwa fought west of Doab | 1527 Babur–Sanga |
+| **NOT in UP** | Mewar, Marwar, Amber = **Rajasthan** — trap "Rajput state in UP" | Negative MCQ |
+| **Chittor** | Rajasthan (Mewar) — **2025 Q30** chronology | Not UP but high priority |
+| **Haldighati** | Rajasthan (Udaipur district) | Syllabus high-priority addition |
+
+### Important Dates
+
+| Item | Date |
+|------|------|
+| Tarain II (Prithviraj defeated) | 1192 |
+| Alauddin Khalji siege of Chittor | 1303 |
+| Rana Hammir restores Mewar | from **1326** |
+| Rao Bika founds Bikaner | **1465** |
+| Rana Sanga vs Babur (Khanwa) | **16 March 1527** |
+| Sanga dies | ~**1528** |
+| Sher Shah vs Maldeo (Sammel) | **1544** |
+| Udai Singh II moves to Udaipur | **1559** |
+| Akbar sieges Chittor | **1567–68** |
+| Battle of Haldighati | **18 June 1576** |
+| Rana Pratap dies | **1597** |
+| Amar Singh peace with Jahangir | **1615** |
+| Alauddin: Gujarat conquest | **1299** |
+| Alauddin: Ranthambore | **1301** |
+| Alauddin: Warangal | **1308** |
+
+---
+
+## Practice Zone — UPPCS Format Questions
+
+> **Answers hidden** — click *Show answer* under each question to reveal.
+
+**Q1.** Consider the following statements about **Rajput warriors**:
+
+1. Jauhar was the mass self-immolation of women before expected capture of a fort.
+2. Saka referred to the Rajput warriors' final sortie after jauhar.
+
+Which is/are correct?
+
+Options:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Standard jauhar–saka pairing.
+
+</details>
+
+**Q2.** Which one of the following is **NOT** correctly matched?
+
+Options:
+A. Rana Hamir – Mewar
+B. Rana Chunda – Marwar
+C. Rao Maldeo – Marwar
+D. Maharana Pratap – Mewar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — **2021 Q118** — Rana Chunda = **Mewar**, not Marwar.
+
+</details>
+
+**Q3.** Match List-I (Battle) with List-II (Rajput leader / context):
+
+| List-I | List-II |
+|--------|---------|
+| A. Khanwa | 1. Rana Pratap |
+| B. Haldighati | 2. Rana Sanga |
+| C. Sammel | 3. Rao Maldeo |
+| D. Chittor (1303) | 4. Mewar vs Alauddin Khalji |
+
+Options:
+A. 2 1 3 4
+B. 1 2 3 4
+C. 2 3 1 4
+D. 4 2 3 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (2-1-3-4)** — Khanwa-Sanga; Haldighati-Pratap; Sammel-Maldeo; 1303-Mewar.
+
+</details>
+
+**Q4.** Given below are two statements:
+
+**Assertion (A):** The Battle of Haldighati was fought in 1527.
+
+**Reason (R):** Rana Sanga led the Rajput confederacy against Babur at Haldighati.
+
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
+C. (A) is true but (R) is false
+D. (A) is false but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — **A false** (1576 not 1527); **R false pairing** — Sanga = Khanwa, not Haldighati.
+
+</details>
+
+**Q5.** Who led the Mughal army against Rana Pratap at the Battle of Haldighati?
+
+Options:
+A. Akbar personally
+B. Raja Man Singh
+C. Bairam Khan
+D. Raja Todar Mal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — **Man Singh (Amber)** commanded for Akbar.
+
+</details>
+
+**Q6.** Arrange Alauddin Khalji's conquests in chronological order:
+
+1. Ranthambore
+2. Gujarat
+3. Warangal
+4. Chittor
+
+Options:
+A. 1, 2, 3, 4
+B. 2, 1, 4, 3
+C. 2, 1, 3, 4
+D. 1, 2, 4, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (2-1-4-3)** — **2025 Q30 / 2022 Q59** — Gujarat → Ranthambore → Chittor → Warangal.
+
+</details>
+
+**Q7.** From which place were Jayata and Kumpa associated, who impressed Sher Shah with their valour?
+
+Options:
+A. Bundelkhand
+B. Malwa
+C. Marwar
+D. Mewar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (Marwar)** — **2022 Q95** — Rathore generals of Rao Maldeo.
+
+</details>
+
+**Q8.** Consider the following about **Maharana Pratap**:
+
+1. He was the son of Rana Udai Singh II.
+2. He accepted a Mughal mansab under Akbar after Haldighati.
+
+Which is/are correct?
+
+Options:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Statement 2 false — Pratap **never** submitted to Akbar.
+
+</details>
+
+**Q9.** Who among the following kings had given patronage to Tansen before Akbar?
+
+Options:
+A. Raja Ramchandra Singh of Bhata
+B. Rajbahadur of Malwa
+C. Uday Singh of Mewar
+D. Muzaffar Shah of Gujarat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — **2019 Q89** — **Rewa/Bhata**, not Uday Singh Mewar (trap C).
+
+</details>
+
+**Q10.** Which Rajput state was ruled by the **Kachhwaha** clan?
+
+Options:
+A. Mewar
+B. Marwar
+C. Amber
+D. Jaisalmer
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Amber/Jaipur = Kachhwaha.
+
+</details>
+
+**Q11.** Assertion (A): Rana Sanga was defeated by Babur at the Battle of Khanwa.
+
+Reason (R): Babur used wagon fort (araba) tactics at Khanwa.
+
+Options:
+A. Both true; R explains A
+B. Both true; R does not explain A
+C. A true; R false
+D. A false; R true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Both facts correct — tactics helped Babur win **1527**.
+
+</details>
+
+**Q12.** Match List-I (Capital) with List-II (Rajput state):
+
+| List-I | List-II |
+|--------|---------|
+| A. Jodhpur | 1. Mewar |
+| B. Udaipur | 2. Marwar |
+| C. Amber | 3. Kachhwaha state |
+| D. Jaisalmer | 4. Bhati state |
+
+Options:
+A. 2 1 3 4
+B. 1 2 3 4
+C. 2 3 1 4
+D. 3 2 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (2-1-3-4)** — Jodhpur-Marwar; Udaipur-Mewar; Amber-Kachhwaha; Jaisalmer-Bhati.
+
+</details>
+
+**Q13.** The Battle of Haldighati was fought in:
+
+Options:
+A. 1527
+B. 1556
+C. 1576
+D. 1658
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — **1576** — not Khanwa (1527) or Panipat II (1556).
+
+</details>
+
+**Q14.** Consider the following statements:
+
+1. Rao Chunda is associated with the rise of Marwar.
+2. Rana Chunda is correctly matched with Marwar in all standard chronicles.
+
+Which is/are correct?
+
+Options:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — **Rao Chunda** = Marwar ✓; **Rana Chunda** = Mewar lore ✗ for Marwar.
+
+</details>
+
+**Q15.** Which fort is associated with **both** Alauddin Khalji (1303) and Akbar (1567–68) sieges?
+
+Options:
+A. Ranthambore
+B. Chittor
+C. Kumbhalgarh
+D. Mandu
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — **Chittor (Mewar)** — two great sieges.
+
+</details>
+
+**Q16.** Rana Sanga fought against which Mughal emperor at Khanwa?
+
+Options:
+A. Akbar
+B. Humayun
+C. Babur
+D. Aurangzeb
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — **1527 = Babur**, not Akbar.
+
+</details>
+
+**Q17.** Which statements about Rajput–Mughal relations are correct?
+
+1. Raja Bharmal of Amber allied with Akbar through marriage.
+2. Rana Pratap accepted Mughal suzerainty in 1576 immediately after Haldighati.
+
+Options:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Bharmal alliance true; Pratap **did not** submit in 1576.
+
+</details>
+
+**Q18.** Match battle — year:
+
+| List-I | List-II |
+|--------|---------|
+| A. Khanwa | 1. 1576 |
+| B. Haldighati | 2. 1527 |
+| C. Sammel | 3. 1544 |
+
+Options:
+A. 2 1 3
+B. 1 2 3
+C. 2 3 1
+D. 3 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (2-1-3)** — Khanwa-1527; Haldighati-1576; Sammel-1544.
+
+</details>
+
+**Q19.** Who finally submitted to the Mughals on behalf of Mewar after Pratap's death?
+
+Options:
+A. Amar Singh
+B. Udai Singh II
+C. Rana Sanga
+D. Raja Man Singh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — **Amar Singh** — peace **1615** with Jahangir.
+
+</details>
+
+**Q20.** Which is **NOT** a Rajput state in Rajasthan core?
+
+Options:
+A. Mewar
+B. Marwar
+C. Vijayanagara
+D. Bikaner
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — **Vijayanagara** = South India (Topic 3).
+
+</details>
+
+**Q21.** Consider the following:
+
+1. Maharana Pratap used guerrilla warfare from the Aravalli hills.
+2. The Chetak horse is associated with Haldighati.
+
+Which is/are correct?
+
+Options:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Both standard Pratap lore/facts.
+
+</details>
+
+**Q22.** Rana Udai Singh II is best known for:
+
+Options:
+A. Fighting Babur at Khanwa
+B. Shifting Mewar capital to Udaipur and surviving Akbar's Chittor siege
+C. Leading Mughal army at Haldighati
+D. Founding Marwar at Jodhpur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Udai Singh II — **Udaipur 1559**, Chittor lost **1568**.
+
+</details>
+
+**Q23.** Assertion (A): All Rajput kingdoms uniformly resisted the Mughals till 1707.
+
+Reason (R): Kachhwahas of Amber entered matrimonial alliance with Akbar.
+
+Options:
+A. Both true; R explains A
+B. Both true; R does not explain A
+C. A true; R false
+D. A false; R true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — **A false** — many Rajputs allied; **R true** — proves alliance existed.
+
+</details>
+
+**Q24.** Which clan ruled **Jaisalmer**?
+
+Options:
+A. Rathore
+B. Bhati
+C. Sisodia
+D. Hada Chauhan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — **Bhati** clan — desert kingdom.
+
+</details>
+
+**Q25.** Arrange chronologically:
+
+1. Battle of Khanwa
+2. Battle of Haldighati
+3. Siege of Chittor by Akbar
+4. Battle of Sammel (Maldeo vs Sher Shah)
+
+Options:
+A. 1, 4, 3, 2
+B. 4, 1, 3, 2
+C. 1, 3, 4, 2
+D. 4, 3, 1, 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (1-4-3-2)** — Khanwa **1527** → Sammel **1544** → Akbar's Chittor **1567–68** → Haldighati **1576**.
+
+</details>
+
+**Q26.** Which ruler restored Mewar after early Delhi Sultanate pressure in the 14th century?
+
+Options:
+A. Rana Sanga
+B. Rana Hammir
+C. Rao Maldeo
+D. Raja Bharmal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — **Rana Hammir** — 2021 Q118 pair.
+
+</details>
+
+**Q27.** Consider the following about **Haldighati**:
+
+1. Raja Man Singh and Rana Pratap both belonged to Rajput lineages.
+2. The battle ended with the immediate capture and execution of Rana Pratap.
+
+Which is/are correct?
+
+Options:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Both Rajputs; Pratap **escaped** — statement 2 false.
+
+</details>
+
+**Q28.** Malik Sarwar – Malwa Khwaja Jahan and Rana Hamir – Mewar appear in a PYQ with Rana Chunda – Marwar. The **incorrect** ruler–state pair among Rajput options is:
+
+Options:
+A. Rana Hamir – Mewar
+B. Rana Chunda – Marwar
+C. Both A and B
+D. Neither A nor B
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — **2021 Q118** logic — only **B** wrong in Rajput set.
+
+</details>
+
+**Q29.** Who fought **Babur** at **Khanwa**?
+
+Options:
+A. Maharana Pratap
+B. Rana Sanga
+C. Rao Maldeo
+D. Rana Hammir
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — **Sanga 1527** — syllabus high-priority.
+
+</details>
+
+**Q30.** Which statements are correct?
+
+1. Mewar's capital shifted from Chittor to Udaipur under Udai Singh II.
+2. Haldighati is located in the Aravalli region of Mewar.
+
+Options:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Both geographically and politically correct.
+
+</details>
+
+---
+
+## Complete PYQ Bank — UPPCS (2018–2025)
+
+> Full question text from `pyq/` files. Answers in hidden blocks.
+
+### UPPCS Prelims 2019
+
+**Q89.** Who among the following kings had given patronage to Tansen before Akbar?
+
+Options:
+A. Raja Ramchandra Singh of Bhata
+B. Rajbahadur of Malwa
+C. Uday Singh of Mewar
+D. Muzaffar Shah of Gujarat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Tansen at **Rewa/Bhata** court — **Uday Singh Mewar** is deliberate trap (C).
+
+</details>
+
+### UPPCS Prelims 2021
+
+**Q118.** Which one of the following is NOT correctly matched? (Ruler) (State)
+
+Options:
+A. Rana Hamir – Mewar
+B. Rana Chunda – Marwar
+C. Malik Raja Farooqi – Khandesh
+D. Malik Sarwar – Malwa Khwaja Jahan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — **Rana Chunda** belongs to **Mewar** tradition; **Rao Chunda** = Marwar. Hamir–Mewar correct.
+
+</details>
+
+### UPPCS Prelims 2022
+
+**Q59.** Arrange the following conquests of Alauddin Khilji in chronological order.
+
+1. Ranthambor
+2. Gujarat
+3. Warangal
+4. Chittor
+
+Options:
+A. 1, 3, 2, 4
+B. 3, 4, 1, 2
+C. 2, 1, 4, 3
+D. 4, 2, 3, 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (2-1-4-3)** — Gujarat **1299** → Ranthambore **1301** → Chittor **1303** → Warangal **1308**.
+
+</details>
+
+**Q95.** From which place were Jayata and Kumpa associated, who impressed Sher Shah with their valour?
+
+Options:
+A. Bundelkhand
+B. Malwa
+C. Marwar
+D. Mewar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (Marwar)** — Rathore generals under **Rao Maldeo** — distinguish from **Mewar**.
+
+</details>
+
+### UPPCS Prelims 2025
+
+**Q30.** Arrange the following victories of Alauddin Khalji in correct chronological order.
+
+1. Ranthambore
+2. Jaisalmer
+3. Warangal
+4. Chittor
+
+Options:
+A. 1, 2, 3, 4
+B. 2, 1, 4, 3
+C. 2, 1, 3, 4
+D. 1, 2, 4, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (2-1-4-3)** — Jaisalmer/Gujarat phase → Ranthambore → Chittor → Warangal.
+
+</details>
+
+---
+
+## Common Traps — Rajputs (≥15)
+
+1. **Khanwa vs Haldighati swap** — Khanwa **1527 Sanga** | Haldighati **1576 Pratap**.
+2. **Rana Chunda = Marwar** — **FALSE** — **Rana Chunda = Mewar**; **Rao Chunda = Marwar** (**2021 Q118**).
+3. **Akbar at Haldighati** — **FALSE** — **Raja Man Singh** commanded.
+4. **Pratap submitted 1576** — **FALSE** — guerrilla resistance till **1597**.
+5. **Sanga vs Babur year** — **1527**, not 1526 (Panipat) or 1576.
+6. **Jayata–Kumpa = Mewar** — **FALSE** — **Marwar** (**2022 Q95**).
+7. **Tansen = Uday Singh Mewar** — **FALSE** — **Ramchandra Singh Rewa** (**2019 Q89**).
+8. **All Rajputs anti-Mughal** — **FALSE** — **Kachhwaha Amber** allied via marriage **1562**.
+9. **Chittor one siege** — **FALSE** — **1303 Alauddin** + **1567–68 Akbar**.
+10. **Maharana vs Rana for Pratap** — Use **Maharana Pratap** — Sisodia senior title.
+11. **Mewar = Marwar** — Different states — Jodhpur ≠ Udaipur.
+12. **Man Singh vs Pratap clan** — Both Rajput — **Kachhwaha vs Sisodia**.
+13. **Khanwa = Pratap** — **FALSE** — **Sanga** fought Khanwa.
+14. **Alauddin Chittor order** — After **Gujarat & Ranthambore**, before **Warangal** (**2025 Q30**).
+15. **Udaipur always capital** — **Chittor** older; shift **1559** under Udai Singh II.

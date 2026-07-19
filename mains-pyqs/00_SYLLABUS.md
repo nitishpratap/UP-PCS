@@ -245,20 +245,30 @@
 
 ---
 
-## GS-II — General Studies II (18 Topics)
+## GS-II — General Studies II (21 Topics)
+
+### Polity & Constitution → `GS-2/Polity_Constitution/`
+
+> **Booklet mapping:** UPPCS GS-II section **2.1 (Polity & Constitution)** — one **`.md` file per syllabus topic** directly in this folder (no subfolders). **IR, governance, social sector** (Topics 11–21) use topic folders under `GS-2/`.  
+> **2026 study guide:** [`00_UPPCS_2026_Polity_Analysis.md`](Polity_Constitution/00_UPPCS_2026_Polity_Analysis.md) — PYQ trends, priorities, revision plan.
+
+| Topic | Title | File |
+|-------|-------|------|
+| 01 | Constitution — evolution, features, amendments, basic structure, SC role | `GS-2/Polity_Constitution/01_Constitution_Evolution_Features_Basic_Structure.md` |
+| 02 | Federalism — Union-State, local devolution | `GS-2/Polity_Constitution/02_Federalism_Union_State_Local_Devolution.md` |
+| 03 | Finance Commission | `GS-2/Polity_Constitution/03_Finance_Commission_Centre_State_Relations.md` |
+| 04 | Separation of powers, ADR | `GS-2/Polity_Constitution/04_Separation_Powers_ADR_Judicial_Activism.md` |
+| 05 | Comparison with other democracies | `GS-2/Polity_Constitution/05_Indian_Constitution_Comparative_Democracies.md` |
+| 06 | Parliament & State Legislatures | `GS-2/Polity_Constitution/06_Parliament_State_Legislatures.md` |
+| 07 | Executive, Judiciary, PIL, Pressure groups | `GS-2/Polity_Constitution/07_Executive_Judiciary_PIL.md` |
+| 08 | Representation of People's Act | `GS-2/Polity_Constitution/08_RPA_Representation_Peoples_Act.md` |
+| 09 | Constitutional Posts | `GS-2/Polity_Constitution/09_Constitutional_Posts.md` |
+| 10 | Statutory & Quasi-judicial bodies, NITI Aayog | `GS-2/Polity_Constitution/10_Statutory_Bodies_NITI.md` |
+
+### Other GS-II Topics → `GS-2/`
 
 | Topic | Title | Folder |
 |-------|-------|--------|
-| 01 | Constitution — evolution, features, amendments, basic structure, SC role | `GS-2/01_Constitution/` |
-| 02 | Federalism — Union-State, local devolution | `GS-2/02_Federalism/` |
-| 03 | Finance Commission | `GS-2/03_Finance_Commission/` |
-| 04 | Separation of powers, ADR | `GS-2/04_Separation_Powers_ADR/` |
-| 05 | Comparison with other democracies | `GS-2/05_Comparative_Constitutions/` |
-| 06 | Parliament & State Legislatures | `GS-2/06_Legislature/` |
-| 07 | Executive, Judiciary, PIL, Pressure groups | `GS-2/07_Executive_Judiciary/` |
-| 08 | Representation of People's Act | `GS-2/08_RPA/` |
-| 09 | Constitutional Posts | `GS-2/09_Constitutional_Posts/` |
-| 10 | Statutory & Quasi-judicial bodies, NITI Aayog | `GS-2/10_Statutory_Bodies/` |
 | 11 | Govt policies, ICT | `GS-2/11_Governance_Policies/` |
 | 12 | NGOs, SHGs, stakeholders | `GS-2/12_NGO_SHG/` |
 | 13 | Welfare schemes — vulnerable sections | `GS-2/13_Welfare_Schemes/` |
@@ -271,7 +281,7 @@
 | 20 | Diaspora, developed/developing country policies | `GS-2/20_Diaspora/` |
 | 21 | International Institutions | `GS-2/21_International_Orgs/` |
 
-> Each GS-II topic folder contains **subtopic `.md` files** split by syllabus keyword (same rule as GS-I).
+> **Polity & Constitution:** flat files in `Polity_Constitution/`. **Other GS-II topics:** topic folder + subtopic files (same rule as GS-I).
 
 ---
 
@@ -360,7 +370,7 @@ mains-pyqs/GS-{paper}/{NN_TopicFolder}/{NN_SubtopicName}.md
 Examples:
   GS-1/01_Art_Culture/01_Mauryan_Art_Architecture.md
   GS-1/07_Society_Development/04_Urbanization_Slums_Remedies.md
-  GS-2/01_Constitution/03_Basic_Structure_Doctrine.md
+  GS-2/Polity_Constitution/01_Constitution_Evolution_Features_Basic_Structure.md
 ```
 
 ---

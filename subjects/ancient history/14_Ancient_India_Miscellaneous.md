@@ -3,7 +3,7 @@
 
 > **Covers syllabus:** World Civilizations | Civilizations and their Characteristics | Puranas | Materialist Thinkers | Kakatiya Dynasty | Major Rulers of Kakatiya Dynasty | Achievements of Kakatiya Dynasty  
 > **Sources baked in:** NCERT *Themes in Indian History* I–II, RS Sharma, standard world history references, Puranic studies, Telangana/Kakatiya state archaeology, UPPCS/UPSC PYQs  
-> **Exam weight:** ★★ Medium-High — Puranas as source (2023 Q29), Kakatiya capital Warangal (2019 Q90), Shriparvatiya-Ikshvakus (2020 Q2), world ethnic-group matching (2020 Q80)  
+> **Exam weight:** ★★★ High — Puranas as source (2023 Q29), historiography books/authors (2024 Q134), Charaka Samhita (2023 Q25), Kakatiya capital Warangal (2019 Q90), Shriparvatiya-Ikshvakus (2020 Q2)  
 > **Last verified:** July 2026
 
 ---
@@ -38,6 +38,16 @@ KAKATIYA DYNASTY (12th–14th c. CE):
 2019 Q90 MATCH (Answer B = 2-3-4-1):
   Pallava → Kanchi (2) | Pandya → Madura (3)
   Yadava → Devagiri (4) | Kakatiya → Warangal (1)
+
+HISTORIOGRAPHY (★★★ 2024 Q134):
+  Hindu Polity = K.P. Jayaswal | Wonder That Was India = A.L. Basham
+  An Introduction to Study of Indian History = D.D. Kosambi | Early History of India = V.A. Smith
+  2024 Q134 answer = C (3-2-1-4)
+
+CHARAKA SAMHITA (★★★ 2023 Q25):
+  Father of Indian medicine (Ayurveda) | ~2nd c. BCE–2nd c. CE compilation
+  120 chapters (Sthana) + 8 sections = 2023 Q25 answer A
+  Trap: 100/5 or 80/7 — only 120/8 is correct
 ```
 
 ### Must-Know Term Comparisons (very frequently asked)
@@ -54,6 +64,9 @@ KAKATIYA DYNASTY (12th–14th c. CE):
 | **Ganapatideva vs Rudramadevi** | Ganapatideva = peak Kakatiya expansion; Rudramadevi = famous female monarch (granddaughter) | गणपतिदेव / रुद्रमादेवी |
 | **Warangal vs Devagiri** | Warangal = Kakatiya capital; Devagiri = Yadava capital (2019 Q90 trap swap) | वारंगल / देवगिरी |
 | **Shriparvatiya vs Vakataka** | Shriparvatiya in Puranas = Ikshvakus of Nagarjunakonda; Vakatakas ruled Vidarbha-Deccan | श्रीपर्वतीय / वाकाटक |
+| **Kosambi vs Basham** | Kosambi = Marxist/analytical (*Introduction to Study*); Basham = popular cultural survey (*Wonder That Was India*) | कोसांबी / बैशम |
+| **Jayaswal vs Smith** | Jayaswal = *Hindu Polity* (ancient Indian polity); Smith = *Early History of India* (colonial-era narrative) | जयसवाल / स्मिथ |
+| **Charaka vs Sushruta** | Charaka Samhita = internal medicine (120 chapters, 8 sections); Sushruta Samhita = surgery | चरक / सुश्रुत |
 
 ### Memory Tricks
 
@@ -69,6 +82,8 @@ KAKATIYA DYNASTY (12th–14th c. CE):
 | **G-R-P fall order** | Ganapatideva peak → Rudramadevi → Prataparudra defeated 1323 |
 | **Ramappa UNESCO 2021** | Kakatiya temple heritage |
 | **Vayu trap** | Vayu Purana ≠ Gupta governance manual |
+| **2024 Q134 = C** | Jayaswal-Basham-Kosambi-Smith → 3-2-1-4 |
+| **120-8 Charaka** | 2023 Q25 — 120 chapters, 8 sections only |
 
 ---
 
@@ -579,6 +594,133 @@ KAKATIYA DYNASTY (12th–14th c. CE):
 
 ---
 
+## 14.8 Historiography — Books and Authors
+
+### Definitions (learn all — exams pick different ones)
+
+| Term | Meaning |
+|------|---------|
+| **Historiography** | Study of how history is written — methods, sources, and interpretations used by historians |
+| **Colonial historiography** | Early British-era Indian history writing — often political/administrative focus (e.g. Vincent Smith) |
+| **Nationalist historiography** | Indian scholars reinterpreting ancient polity and institutions (e.g. K.P. Jayaswal) |
+| **Marxist historiography** | Materialist/economic analysis of Indian past (e.g. D.D. Kosambi) |
+
+### Historiography — How It Works
+
+- **UPPCS tests book ↔ author matching** — four classic works appear repeatedly in match-the-following questions.
+- ***Hindu Polity*** — **K.P. Jayaswal** — argued ancient India had **real constitutional/republican institutions** (gana-sanghas, janapadas); challenged "Oriental despotism" stereotype.
+- ***The Wonder That Was India*** — **A.L. Basham** — accessible **cultural survey** of ancient Indian civilization (religion, art, society); widely used introductory text.
+- ***An Introduction to the Study of Indian History*** — **D.D. Kosambi** — **Marxist/analytical** framework; uses archaeology, folklore, economics — not narrative chronology alone.
+- ***The Early History of India*** — **Vincent Arthur Smith** — **colonial-era** political narrative from Vedic age to 12th century; administrative/dynastic focus; dated but still cited in exams.
+- **2024 Q134 correct code = C (3-2-1-4)** — A→3 (Jayaswal), B→2 (Basham), C→1 (Kosambi), D→4 (Smith).
+- **Trap pairs** — Kosambi ↔ Smith swapped; Jayaswal ↔ Basham swapped; "Wonder That Was India = Kosambi" is **false**.
+- **Basham vs Kosambi** — Basham = **popular cultural history**; Kosambi = **critical/analytical** with economic interpretation.
+- **Jayaswal vs Smith** — Jayaswal = **Indian nationalist** reading of ancient polity; Smith = **British ICS officer's** dynastic history.
+- **Exam strategy** — memorise **four pairs as a block**; UPPCS rarely asks page-level content, only **author identification**.
+
+> **Exam note:** **2024 Q134 = C (3-2-1-4).** Trap: Option A (3-2-4-1) swaps Kosambi and Smith — Smith wrote *Early History*, NOT Kosambi.
+
+### Historiography — Master Match Table
+
+| # | Book | Author | One-line focus |
+|---|------|--------|----------------|
+| 1 | **Hindu Polity** | **K.P. Jayaswal** | Ancient Indian political institutions |
+| 2 | **The Wonder That Was India** | **A.L. Basham** | Cultural survey of ancient India |
+| 3 | **An Introduction to the Study of Indian History** | **D.D. Kosambi** | Marxist/analytical Indian history |
+| 4 | **The Early History of India** | **Vincent Arthur Smith** | Colonial-era dynastic narrative |
+
+### Exam Facts (raata)
+
+- 2024 Q134 answer = **C (3-2-1-4)**
+- Jayaswal = *Hindu Polity*
+- Basham = *Wonder That Was India*
+- Kosambi = *Introduction to Study of Indian History*
+- Smith = *Early History of India*
+- Kosambi ≠ Smith — most common swap trap
+- Basham = cultural survey, not Marxist analysis
+
+### PYQs — Historiography
+
+1. **(UPPCS Prelims 2024, Q134)** Match List-I (Book) with List-II (Writer):  
+   A. Hindu Polity  B. The Wonder That Was India  C. An Introduction to the Study of Indian History  D. The Early History of India  
+   → 1. D.D. Kosambi  2. A.L. Basham  3. K.P. Jayaswal  4. Vincent Arthur Smith  
+   → **C — 3, 2, 1, 4.**
+
+2. **(UPSC Prelims 2016 — pattern)** Who wrote *The Wonder That Was India*?  
+   → **A.L. Basham.**
+
+### Examples (14.8)
+
+| Example | Why exam-relevant |
+|---------|-------------------|
+| **2024 Q134** | Direct four-pair historiography match |
+| **Kosambi-Smith swap** | Classic distractor in options |
+| **Jayaswal Hindu Polity** | Ancient polity/republic question link |
+
+---
+
+## 14.9 Ancient Indian Medicine — Charaka Samhita
+
+### Definitions (learn all — exams pick different ones)
+
+| Term | Meaning |
+|------|---------|
+| **Charaka Samhita** | Principal **Ayurvedic** text on **internal medicine** — diagnosis, diet, ethics, therapeutics |
+| **Ayurveda** | Traditional Indian medical system — "science of life" (*ayus* + *veda*) |
+| **Sthana** | Major **section** of Charaka Samhita (8 Sthanas total) |
+| **Adhyaya** | **Chapter** within each Sthana — **120 adhyayas** total in Charaka Samhita |
+
+### Charaka Samhita — How It Works
+
+- **Charaka Samhita** is the foundational text of **Ayurvedic internal medicine** — attributed to **Charaka** who redacted/compiled earlier Agnivesha Tantra tradition.
+- **Period** — core compilation **~2nd century BCE to 2nd century CE** (Gupta era received major commentaries); not Vedic-period text.
+- **Structure** — **120 chapters (adhyayas)** divided into **8 sections (Sthanas)** ← **UPPCS 2023 Q25 answer = A (120 chapters and 8 sections)**.
+- **Eight Sthanas** — **Sutra, Nidana, Vimana, Sharira, Indriya, Chikitsa, Kalpa, Siddhi** — cover theory, diagnosis, anatomy, treatment, pharmacology.
+- **Content scope** — **tridosha theory** (vata, pitta, kapha), **diagnosis by pulse/palpation**, **dietetics**, **medical ethics**, **mental health**, **rejuvenation (rasayana)**.
+- **Charaka vs Sushruta** — **Charaka = medicine/internal**; **Sushruta Samhita = surgery** (rhinoplasty, cataract, instruments) — both are Ayurvedic but different specialisations.
+- **Historical significance** — WHO recognises Ayurveda heritage; Charaka called **"father of Indian medicine"** in standard texts.
+- **Trap numbers** — 100/5, 80/7, 60/8 are **distractors** in 2023 Q25; only **120/8** is correct.
+- **Not Vedic** — Charaka Samhita is **classical Sanskrit medical literature**, compiled centuries after Rigveda — do not place in Vedic syllabus bucket.
+- **Commentary tradition** — **Chakrapani Datta** and later physicians wrote commentaries preserving the text through medieval period.
+
+> **Exam note:** **2023 Q25 = A (120 chapters and 8 sections).** Trap: confusing with Sushruta Samhita chapter count or guessing round numbers like 100/5.
+
+### Charaka vs Sushruta — Comparison
+
+| Text | Focus | Author tradition | UPPCS trap |
+|------|-------|------------------|------------|
+| **Charaka Samhita** | Internal medicine, diagnosis | Charaka (redactor) | 120 chapters, 8 sections (2023 Q25) |
+| **Sushruta Samhita** | Surgery, instruments | Sushruta | Do not swap with Charaka counts |
+
+### Exam Facts (raata)
+
+- 2023 Q25 = **A — 120 chapters and 8 sections**
+- Charaka Samhita = Ayurvedic internal medicine
+- 8 Sthanas, 120 Adhyayas
+- Charaka = redactor/compiler tradition
+- Sushruta = surgery text (separate)
+- Not a Vedic text — classical period
+- Tridosha theory in Charaka
+
+### PYQs — Charaka Samhita
+
+1. **(UPPCS Prelims 2023, Q25)** *Charaka Samhita* is divided into how many chapters and sections?  
+   A. 120 chapters and 8 sections  B. 100 chapters and 5 sections  C. 80 chapters and 7 sections  D. 60 chapters and 8 sections  
+   → **A — 120 chapters and 8 sections.**
+
+2. **(UPSC Prelims 2014 — pattern)** Charaka Samhita is associated with:  
+   → **Ayurveda / internal medicine.**
+
+### Examples (14.9)
+
+| Example | Why exam-relevant |
+|---------|-------------------|
+| **2023 Q25** | Direct chapter/section count |
+| **Tridosha theory** | Core Ayurvedic concept from Charaka |
+| **Charaka vs Sushruta** | Surgery vs medicine split |
+
+---
+
 ## Consolidated Reference
 
 ### Important Dates & Numbers
@@ -597,6 +739,8 @@ KAKATIYA DYNASTY (12th–14th c. CE):
 | **1323 CE** | Fall of Prataparudra II; Kakatiya end |
 | **2021 CE** | Ramappa Temple UNESCO World Heritage Site |
 | **18 + 18** | Mahapuranas + Upapuranas count |
+| **120 + 8** | Charaka Samhita chapters + sections (2023 Q25) |
+| **2024 Q134** | Historiography match code C (3-2-1-4) |
 
 ### Dynasty ↔ Capital Master Match (Deccan + South)
 
@@ -622,240 +766,684 @@ KAKATIYA DYNASTY (12th–14th c. CE):
 
 ---
 
-## Practice Zone (Topic 14)
+## Practice Zone — UPPCS Format Questions
 
-**1.** 2023 Q29 — Puranas: 1. Vishnu Purana has Mauryan info  2. Vayu Purana documents Gupta governance
+> **Answers hidden** — click *Show answer* under each question to reveal.
 
-<details><summary>Answer</summary>
-**A — Only 1 correct.**
+**Q1.** With reference to the Puranas, which of the following statements is/are correct?
+
+1. Information about the Mauryan dynasty is found in the Vishnu Purana.
+2. Vayu Purana throws light on the Gupta system of governance.
+
+Select the correct answer from the code given below:
+
+Options:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Only 1.** Vishnu Purana has usable Mauryan genealogy (2023 Q29). Vayu Purana does **not** reliably document Gupta governance — statement 2 is the classic trap.
+
 </details>
 
-**2.** Bronze Age civilizations include:
-1. Mesopotamia  2. Vedic India  3. Egypt  4. Harappan
+**Q2.** Match List-I with List-II and choose the correct answer using the code given below:
 
-<details><summary>Answer</summary>
-**1, 3, 4 only.** Vedic = later Iron Age.
+List-I (Book)
+A. Hindu Polity
+B. The Wonder That Was India
+C. An Introduction to the Study of Indian History
+D. The Early History of India
+
+List-II (Writer)
+1. D.D. Kosambi
+2. A.L. Basham
+3. K.P. Jayaswal
+4. Vincent Arthur Smith
+
+Options:
+A. 3 2 4 1
+B. 1 2 4 3
+C. 3 2 1 4
+D. 1 2 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — 3, 2, 1, 4** (2024 Q134). Trap A swaps Kosambi (1) and Smith (4). Jayaswal = *Hindu Polity*; Basham = *Wonder That Was India*.
+
 </details>
 
-**3.** Kakatiya capital was:
+**Q3.** *Charaka Samhita* is divided into how many chapters and sections?
 
-<details><summary>Answer</summary>
-**Warangal (Orugallu).**
+Options:
+A. 120 chapters and 8 sections
+B. 100 chapters and 5 sections
+C. 80 chapters and 7 sections
+D. 60 chapters and 8 sections
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — 120 chapters and 8 sections** (2023 Q25). B, C, D are round-number distractors — only 120/8 is correct.
+
 </details>
 
-**4.** Charvaka accepts which pramana?
+**Q4.** Consider the following statements about Bronze Age civilizations:
 
-<details><summary>Answer</summary>
-**Perception (pratyaksha) only.**
+1. Mesopotamia, Egypt, and Harappan cultures are contemporary urban civilizations.
+2. Vedic India is a Bronze Age river-valley civilization.
+
+Select the correct answer from the code given below:
+
+Options:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Only 1.** Vedic India is later Iron Age — not Bronze Age core. Mesopotamia + Egypt + Harappan = standard trio.
+
 </details>
 
-**5.** Match: A. Mesopotamia — 1. Nile  B. Egypt — 2. Tigris-Euphrates  C. Harappan — 3. Indus
+**Q5.** Which of the following pairs is **NOT** correctly matched?
 
-<details><summary>Answer</summary>
-**A-2, B-1, C-3.**
+Options:
+A. Mesopotamia — Cuneiform script
+B. Egypt — Hieroglyphs
+C. Harappan — Fully deciphered script
+D. Shang China — Oracle bone script
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — NOT correct.** Harappan/Indus script remains **undeciphered**. A, B, D are correct civilization-script pairs.
+
 </details>
 
-**6.** Assertion (A): Vayu Purana is primary source for Gupta administration.
+**Q6.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+
+Assertion (A): Vayu Purana is the primary source for Gupta administrative details.
+
 Reason (R): Puranas mix genealogy with mythology and later interpolation.
 
-<details><summary>Answer</summary>
-**A false, R true** (2023 Q29 logic).
+Select the correct answer from the code given below:
+
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — A false, R true** (2023 Q29 logic). Vayu Purana has Gupta genealogy but NOT reliable governance details. R correctly explains why Puranas are weak political-admin sources.
+
 </details>
 
-**7.** Shriparvatiya rulers in Puranas refer to:
+**Q7.** Match List-I with List-II and select the correct answer using the code given below:
 
-<details><summary>Answer</summary>
-**Ikshvakus** (2020 Q2 = B).
+List-I (Dynasty)
+A. Pallava
+B. Pandya
+C. Yadava
+D. Kakatiya
+
+List-II (Capital)
+1. Warangal
+2. Kanchi
+3. Madura
+4. Devagiri
+
+Options:
+A. 2 3 4 1
+B. 1 2 3 4
+C. 3 4 1 2
+D. 4 3 2 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — 2, 3, 4, 1** (2019 Q90). Kakatiya = Warangal (1); Devagiri = Yadava (4). Trap: swapping Warangal with Devagiri.
+
 </details>
 
-**8.** 2019 Q90 — Kakatiya capital code:
+**Q8.** Which of the following is **NOT** a trait of Mahapuranas (Panchalakshana)?
 
-<details><summary>Answer</summary>
-**1 = Warangal** (Answer B overall: 2-3-4-1).
+Options:
+A. Sarga (creation)
+B. Pratisarga (dissolution)
+C. Pranayama (breath control)
+D. Vamsha (genealogy)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Pranayama.** Pranayama is a **yoga** term — not one of the five Puranic traits. Panchalakshana = Sarga, Pratisarga, Vamsha, Manvantara, Vamshanucharita.
+
 </details>
 
-**9.** Ramappa Temple is famous for:
+**Q9.** With reference to Charvaka (Lokayata) philosophy, which of the following statements is/are correct?
 
-<details><summary>Answer</summary>
-**Kakatiya architecture + UNESCO 2021 + floating bricks.**
+1. Charvaka accepts only direct perception (pratyaksha) as valid means of knowledge.
+2. Buddhism is a materialist school that denies rebirth.
+
+Select the correct answer from the code given below:
+
+Options:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Only 1.** Buddhism accepts karma and rebirth — it is **not** materialist. Charvaka denies soul, rebirth, and inference.
+
 </details>
 
-**10.** Which is NOT a Mahapurana trait (Panchalakshana)?
-A. Sarga  B. Pratisarga  C. Pranayama  D. Vamsha
+**Q10.** The rulers of which dynasty are called 'Shriparvatiya' in the Puranas?
 
-<details><summary>Answer</summary>
-**C — Pranayama** (yoga term, not Puranic trait).
+Options:
+A. Vakatakas
+B. Ikshvakus
+C. Shakas
+D. Kharavelas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Ikshvakus** (2020 Q2). Shriparvatiya = rulers of Sriparvata (Nagarjunakonda, Andhra). Not Vakatakas or Kharavelas.
+
 </details>
 
-**11.** Consider materialist philosophy:
-1. Charvaka denies rebirth.
-2. Buddhism is a materialist school.
+**Q11.** Which of the following pairs is **NOT** correctly matched?
 
-<details><summary>Answer</summary>
-**Only 1 correct.**
+Options:
+A. Warangal — Kakatiya dynasty
+B. Devagiri — Yadava dynasty
+C. Warangal — Ramchandra Dev
+D. Kanchi — Pallava dynasty
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — NOT correct** (2018 Q96 pattern). Warangal = **Kakatiya** rulers (Ganapatideva, Rudramadevi), not Ramchandra Dev.
+
 </details>
 
-**12.** Ganapatideva is known for:
+**Q12.** Consider the following about Kakatiya achievements:
 
-<details><summary>Answer</summary>
-**Maximum Kakatiya territorial expansion.**
+1. Ramappa Temple is a UNESCO World Heritage Site (2021).
+2. Thousand Pillar Temple is located inside Warangal fort.
+
+Select the correct answer from the code given below:
+
+Options:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Only 1.** Thousand Pillar Temple is at **Hanamkonda**, not inside Warangal fort. Ramappa (Palampet) = UNESCO 2021 with floating bricks.
+
 </details>
 
-**13.** Mesopotamian writing system:
+**Q13.** Match List-I with List-II:
 
-<details><summary>Answer</summary>
-**Cuneiform.**
+List-I (Civilization)
+A. Mesopotamia
+B. Egypt
+C. Harappan
+
+List-II (River/Region)
+1. Nile
+2. Tigris-Euphrates
+3. Indus-Ghaggar
+
+Options:
+A. 2 1 3
+B. 1 2 3
+C. 3 2 1
+D. 2 3 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — 2, 1, 3.** Mesopotamia = Tigris-Euphrates; Egypt = Nile; Harappan = Indus system.
+
 </details>
 
-**14.** Match dynasties (2019 Q90): A. Pallava  B. Pandya  C. Yadava  D. Kakatiya → 1. Warangal  2. Kanchi  3. Madura  4. Devagiri
+**Q14.** Given below are two statements:
 
-<details><summary>Answer</summary>
-**B — 2-3-4-1.**
+Assertion (A): Harappan script has been fully deciphered like Egyptian hieroglyphs.
+
+Reason (R): The Indus script corpus is short and differs from known scripts.
+
+Select the correct answer from the code given below:
+
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — A false, R true.** Harappan script is **still undeciphered**. R explains why decipherment failed — short corpus + unique signs.
+
 </details>
 
-**15.** Assertion (A): Harappan script has been fully deciphered.
-Reason (R): Indus script differs from known scripts and corpus is short.
+**Q15.** With reference to ancient Indian historiography, which pair is correctly matched?
 
-<details><summary>Answer</summary>
-**A false, R true.**
+Options:
+A. D.D. Kosambi — The Early History of India
+B. Vincent Arthur Smith — An Introduction to the Study of Indian History
+C. A.L. Basham — The Wonder That Was India
+D. K.P. Jayaswal — The Wonder That Was India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Basham.** A = Smith wrote *Early History*; B = Kosambi wrote *Introduction*; D = Jayaswal wrote *Hindu Polity*.
+
 </details>
 
-**16.** Rudramadevi ruled as:
+**Q16.** Consider the following about Puranas:
 
-<details><summary>Answer</summary>
-**Kakatiya monarch (Rudradeva administrative title).**
+1. They contain Panchalakshana elements such as Sarga and Vamsha.
+2. They were composed contemporaneously with the Rigveda.
+
+Select the correct answer from the code given below:
+
+Options:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Only 1.** Puranas are **post-Vedic** compilations (mainly Gupta era onward) — not Rigveda-contemporary.
+
 </details>
 
-**17.** How many Mahapuranas?
+**Q17.** Charvaka school is also known as:
 
-<details><summary>Answer</summary>
-**18.**
+Options:
+A. Lokayata / Brihaspatya
+B. Nyaya / Vaisheshika
+C. Mimamsa / Vedanta
+D. Ajivika / Niyati
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Lokayata / Brihaspatya.** B, C are astika (orthodox) schools. D = Ajivika fatalism, not materialism.
+
 </details>
 
-**18.** Consider world civilizations:
-1. Egyptian civilization depended on Nile inundation.
-2. Mesopotamia was a unified empire from the start.
+**Q18.** Arrange the following Kakatiya rulers in ascending chronological order:
 
-<details><summary>Answer</summary>
-**Only 1 correct.** Mesopotamia began as city-states.
+1. Rudramadevi
+2. Prola II
+3. Prataparudra II
+4. Ganapatideva
+
+Select the correct answer from the code given below:
+
+Options:
+A. 2, 4, 1, 3
+B. 4, 2, 1, 3
+C. 2, 1, 4, 3
+D. 1, 4, 2, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — 2, 4, 1, 3.** Prola II → Ganapatideva (peak) → Rudramadevi → Prataparudra II (last, defeated 1323).
+
 </details>
 
-**19.** Prataparudra II is associated with:
+**Q19.** With reference to Charaka Samhita, which of the following is/are correct?
 
-<details><summary>Answer</summary>
-**Last Kakatiya ruler; defeated 1323.**
+1. It is primarily a text on Ayurvedic internal medicine.
+2. Sushruta Samhita and Charaka Samhita have identical chapter-section counts.
+
+Select the correct answer from the code given below:
+
+Options:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Only 1.** Charaka = 120 chapters, 8 sections (2023 Q25). Sushruta = surgery text with different structure — counts are not identical.
+
 </details>
 
-**20.** Charvaka is also called:
+**Q20.** Consider the following about world civilizations:
 
-<details><summary>Answer</summary>
-**Lokayata / Brihaspatya.**
+1. Egyptian civilization depended on Nile inundation for agricultural surplus.
+2. Mesopotamia was a unified empire from its very beginning.
+
+Select the correct answer from the code given below:
+
+Options:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Only 1.** Mesopotamia began as **competing city-states** (Sumer) — not unified from the start.
+
 </details>
 
-**21.** Thousand Pillar Temple is at:
+**Q21.** Ganapatideva of the Kakatiya dynasty is best known for:
 
-<details><summary>Answer</summary>
-**Hanamkonda** (not Ramappa, not Delhi).
+Options:
+A. Maximum territorial expansion of the dynasty
+B. Founding the Kakatiya dynasty
+C. Defeating Alauddin Khalji personally in 1323
+D. Composing the Gita Govinda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Maximum expansion.** Prola II = early independence; Prataparudra II = last ruler defeated 1323; Gita Govinda = Jaidev (different era).
+
 </details>
 
-**22.** 2020 Q80 ethnic match — Jews belong to:
+**Q22.** Which nastika school denies the existence of soul and rebirth?
 
-<details><summary>Answer</summary>
-**Israel (4).**
+Options:
+A. Buddhism
+B. Jainism
+C. Charvaka
+D. Ajivika
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Charvaka.** Buddhism/Jainism accept rebirth. Ajivika = fatalist (niyati), not materialist hedonist.
+
 </details>
 
-**23.** Which pair is NOT correct?
-A. Warangal — Kakatiya  B. Devagiri — Yadava  C. Warangal — Ramchandra Dev  D. Kanchi — Pallava
+**Q23.** Shang dynasty China is associated with which writing evidence?
 
-<details><summary>Answer</summary>
-**C — Warangal-Ramchandra Dev** (2018 Q96 pattern).
+Options:
+A. Oracle bone script
+B. Cuneiform
+C. Hieroglyphs
+D. Indus script
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Oracle bone script.** B = Mesopotamia; C = Egypt; D = Harappan (undeciphered).
+
 </details>
 
-**24.** Consider Puranas:
-1. They contain Panchalakshana elements.
-2. They are contemporary with Rigveda composition.
+**Q24.** Given below are two statements:
 
-<details><summary>Answer</summary>
-**Only 1 correct.** Puranas are later compilations.
+Assertion (A): Charvaka accepted Vedic sacrifice as essential to ethics.
+
+Reason (R): Charvaka rejected Vedic authority as a nastika (heterodox) school.
+
+Select the correct answer from the code given below:
+
+Options:
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+C. (A) is true, but (R) is false
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D — A false, R true.** Charvakas **rejected** Vedic rituals and sacrifice — pleasure/perception-based ethics only.
+
 </details>
 
-**25.** Shang China is known for:
+**Q25.** How many Mahapuranas are traditionally recognised?
 
-<details><summary>Answer</summary>
-**Oracle bone script.**
+Options:
+A. 18
+B. 12
+C. 24
+D. 36
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — 18** Mahapuranas (+ 18 Upapuranas = 36 total Puranic texts). Trap D = total of both categories combined.
+
 </details>
 
-**26.** Kakatiya Thoranas are:
+**Q26.** Match List-I with List-II:
 
-<details><summary>Answer</summary>
-**Four ornamental gateways of Warangal fort.**
+List-I (Ethnic Group)
+A. Jews
+B. Teda
+C. Beja
+D. Lur
+
+List-II (Country/Region)
+1. Egypt
+2. Iran
+3. Libya
+4. Israel
+
+Options:
+A. 4 1 3 2
+B. 1 2 3 4
+C. 4 3 1 2
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — 4, 1, 3, 2** (2020 Q80). Jews-Israel; Teda-Egypt; Beja-Libya; Lur-Iran.
+
 </details>
 
-**27.** Assertion (A): Charvaka accepted Vedic sacrifice as essential.
-Reason (R): Charvaka rejected Vedic authority as nastika school.
+**Q27.** Rudramadevi of the Kakatiya dynasty:
 
-<details><summary>Answer</summary>
-**A false, R true.**
+Options:
+A. Was the last Kakatiya ruler defeated in 1323
+B. Ruled as Rudradeva and was a female monarch
+C. Founded the dynasty at Warangal
+D. Built the Ramappa Temple alone in 1213 CE
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Female monarch (Rudradeva title).** A = Prataparudra II; C = Prola II/Ganapatideva era; D = Ramappa built under Recharla Rudra (general).
+
 </details>
 
-**28.** Ikshvakus are called Shriparvatiya because:
+**Q28.** With reference to historiography, consider:
 
-<details><summary>Answer</summary>
-**They ruled Sriparvata (Nagarjunakonda) region.**
+1. K.P. Jayaswal's *Hindu Polity* argues for ancient Indian political institutions.
+2. D.D. Kosambi wrote *The Wonder That Was India*.
+
+Select the correct answer from the code given below:
+
+Options:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Only 1.** Kosambi wrote *An Introduction to the Study of Indian History* — Basham wrote *Wonder That Was India* (2024 Q134 trap).
+
 </details>
 
-**29.** Arrange Kakatiya rulers chronologically:
-A. Rudramadevi  B. Prola II  C. Prataparudra II  D. Ganapatideva
+**Q29.** Kakatiya Thoranas refer to:
 
-<details><summary>Answer</summary>
-**Prola II → Ganapatideva → Rudramadevi → Prataparudra II.**
+Options:
+A. Four ornamental gateways of Warangal fort
+B. Buddhist stupas at Amaravati
+C. Puranic five traits of Mahapuranas
+D. Megalithic burial monuments in Telangana
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Four ornamental gateways** (Telangana state emblem). B = Satavahana art; C = Panchalakshana; D = Iron Age burials.
+
 </details>
 
-**30.** Egyptian civilization writing:
+**Q30.** Prataparudra II is associated with:
 
-<details><summary>Answer</summary>
-**Hieroglyphs.**
+Options:
+A. Last major Kakatiya ruler; dynasty ended ~1323 CE
+B. Founder of Kakatiya independence from Chalukyas
+C. Author of Charaka Samhita
+D. Indo-Greek king in Milinda Panha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Last Kakatiya ruler (1323 fall).** B = Prola II; C = Charaka (medicine); D = Menander/Milinda.
+
 </details>
 
 ---
 
 ## Complete PYQ Bank (Topic 14)
 
+> **Answers hidden** — click *Show answer* under each question to reveal.
+
+### UPPCS Prelims 2024
+
+**Q134.** Match List-I with List-II and choose the correct answer using the codes given below the lists:
+
+List-I (Book)
+A. Hindu Polity
+B. The Wonder That Was India
+C. An Introduction to the Study of Indian History
+D. The Early History of India
+
+List-II (Writer)
+1. D.D. Kosambi
+2. A.L. Basham
+3. K.P. Jayaswal
+4. Vincent Arthur Smith
+
+Options:
+A. 3 2 4 1
+B. 1 2 4 3
+C. 3 2 1 4
+D. 1 2 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — 3, 2, 1, 4.** Jayaswal = *Hindu Polity*; Basham = *Wonder That Was India*; Kosambi = *Introduction*; Smith = *Early History*.
+
+</details>
+
 ### UPPCS Prelims 2023
 
-**Q29.** Puranas: 1. Mauryan info in Vishnu Purana  2. Vayu Purana on Gupta governance
+**Q25.** *Charaka Samhita* is divided into how many chapters and sections?
 
-<details><summary>Answer</summary>
-**A — Only 1.** Vishnu Purana-Maurya true; Vayu-Gupta governance false.
+Options:
+A. 120 chapters and 8 sections
+B. 100 chapters and 5 sections
+C. 80 chapters and 7 sections
+D. 60 chapters and 8 sections
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — 120 chapters and 8 sections.**
+
+</details>
+
+**Q29.** With reference to the Puranas, which one of the following statements is correct?
+
+1. Information about the Mauryan dynasty is found in the Vishnu Purana.
+2. Vayu Purana throws light on the Gupta system of governance.
+
+Options:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Only 1.** Vishnu Purana-Maurya true; Vayu-Gupta governance false.
+
 </details>
 
 ### UPPCS Prelims 2020
 
 **Q2.** Rulers called 'Shriparvatiya' in Puranas — which dynasty? A. Vakatakas  B. Ikshvakus  C. Shakas  D. Kharavelas
 
-<details><summary>Answer</summary>
-**B — Ikshvakus** (Nagarjunakonda).
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — Ikshvakus** (Nagarjunakonda).
+
 </details>
 
-**Q80.** Match ethnic groups ↔ countries: A. Jews  B. Teda  C. Beja  D. Lur → 1. Egypt  2. Iran  3. Libya  4. Israel
+**Q80.** Match List-I (Ethnic Group) with List-II (Country): A. Jews  B. Teda  C. Beja  D. Lur → 1. Egypt  2. Iran  3. Libya  4. Israel
 
-<details><summary>Answer</summary>
-**C — 4-1-3-2.**
+Options:
+A. 4 2 1 3
+B. 4 1 3 2
+C. 1 2 3 4
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — 4, 1, 3, 2** (option C in 2020 paper = 4-1-3-2).
+
 </details>
 
 ### UPPCS Prelims 2019
 
 **Q90.** Match dynasties ↔ capitals: A. Pallava  B. Pandya  C. Yadava  D. Kaktiya → 1. Warangal  2. Kanchi  3. Madura  4. Devagiri
 
-<details><summary>Answer</summary>
-**B — 2-3-4-1.** Kakatiya = Warangal.
+<details>
+<summary>Show answer</summary>
+
+**Ans: B — 2, 3, 4, 1.** Kakatiya = Warangal.
+
 </details>
 
 ### UPPCS Prelims 2018
 
 **Q96.** Which pair NOT correctly matched? **B. Warangal — Ramchandra Dev**
 
-<details><summary>Answer</summary>
+<details>
+<summary>Show answer</summary>
 **B** — Warangal = Kakatiya rulers, not Ramchandra Dev.
 </details>
 
@@ -886,5 +1474,10 @@ A. Rudramadevi  B. Prola II  C. Prataparudra II  D. Ganapatideva
 13. **Thousand Pillar Temple = Hanamkonda** — not inside Warangal fort.
 14. **Prataparudra = last Kakatiya** — NOT founder.
 15. **Purana Qila Delhi ≠ Purana texts** — unrelated medieval fort name.
+16. **2024 Q134 = C (3-2-1-4)** — Kosambi-Smith swap is top trap.
+17. **2023 Q25 = A (120/8)** — Charaka chapter count; not 100/5 or 80/7.
+18. **Basham ≠ Kosambi** — *Wonder That Was India* = Basham only.
+19. **Charaka ≠ Vedic text** — classical Ayurveda, not Rigvedic.
+20. **Jayaswal = Hindu Polity** — not *Early History* (that's Smith).
 
 ---
