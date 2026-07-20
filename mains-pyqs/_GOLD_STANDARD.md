@@ -86,15 +86,18 @@ No status, solvability, priority, source lists.
 - Daily read target: **5–8 min**
 - Do **not** put mermaid here — keep plain text for mobile/offline reading
 
-### Content
+### Content (the student's bible — not a keyword outline)
 - **Single section** — merge Background, Definitions, Features, Examples, Significance, Comparisons, Criticism, Method
-- Point-wise bullets + tables as needed; no "§360°", no "Layer 3"
-- **Depth targets:** simple ≥900 words · medium ≥1200 · rich ≥1500 (see `prompt.md` enrichment rule)
-- **Mandatory subsections inside Content:** Context → Core → Tables → Significance → **`### Contemporary relevance`** → Limits
-- **Contemporary relevance:** UNESCO/ASI, Art 49 & 51A(f), NEP 2020 IKS, tourism schemes (PRASAD, Swadesh Darshan), living heritage — only **verified stable** facts; no invented news
-- **Named density:** ≥15 named entities (sites, rulers, texts, artists) for medium/rich files
-- **Book-free rule:** Cover the **full keyword** — not only current PYQs. Include significance, limits, comparisons, named examples, dates, sites so student never needs NCERT/RS Sharma for this subtopic
+- **Full-sentence teachable bullets** + tables; no "§360°", no "Layer 3"
+- **Depth targets:** simple ≥1200 words · medium ≥1800 · rich ≥2500 (see `prompt.md`)
+- **Mandatory subsections:** Context → Core → Tables → Significance → **`### Contemporary relevance`** → Limits
+- **Context rule:** Teach the concept (what + why it exists). **Forbidden:** "UPPCS tests… N PYQs" meta paragraphs
+- **Style rule:** Every Article/case must be explained enough to **understand the mechanism**, not just named. Fail example: `Dual polity — Art 1, 245–246`. Pass: explain dual constitutional status, then cite Articles as proof
+- **Contemporary relevance:** verified stable policy/judgments/schemes only — no invented news
+- **Named density:** ≥15 named entities (Articles, cases, Acts, commissions, persons, institutions) for medium/rich files
+- **Book-free rule:** Student closes Laxmikanth/NCERT for this keyword after Content. Cover full keyword — not only listed PYQs
 - Answers must **not introduce facts absent from Content** — every answer point must exist in Content or Quick Revision
+- **Quick Revision** stays shorthand for daily raata; do **not** make Content a longer copy of QR
 
 ### Diagrams (optional — inside Content only)
 

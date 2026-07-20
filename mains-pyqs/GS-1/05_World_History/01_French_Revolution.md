@@ -62,54 +62,52 @@ TRAPS: Revolution ≠ only 1789 one day | Jacobins ≠ only Robespierre from day
 
 ### Context — why France exploded in 1789
 
-- **Ancien Régime (Old Regime):** French society under **absolute monarchy** of **Louis XVI** (r. 1774–1792) divided into **Three Estates** — **First Estate** (Catholic clergy, ~1% land, tax exempt), **Second Estate** (nobility, ~2%, tax exempt, feudal dues), **Third Estate** (everyone else — peasants, urban workers, **bourgeoisie** — paid **taille**, **gabelle** salt tax, **corvée** labour).
-- **Deep crisis by 1780s:** **State bankruptcy** after **French aid to American Revolution (1778–83)** + court luxury at **Versailles** + inefficient tax collection; **bad harvests 1788–89** → **bread prices soared** → urban **sans-culottes** (literally "without silk breeches" — working-class revolutionaries) and rural unrest.
-- **Intellectual climate:** **Enlightenment (Siècle des Lumières)** had prepared moral case against **privilege, superstition, arbitrary rule** — revolution was not spontaneous mob violence alone but **political breakdown + ideas + economic pain**.
+Eighteenth-century France under Louis XVI (r. 1774–1792) was an absolute monarchy resting on a social order called the Ancien Régime. Society was legally divided into Three Estates. The First Estate—the Catholic clergy—owned roughly ten percent of land and was largely tax-exempt. The Second Estate—the nobility—enjoyed feudal dues, offices, and exemption from most direct taxation. The Third Estate encompassed everyone else: peasants, artisans, urban workers, and the bourgeoisie (lawyers, merchants, officials). The Third Estate paid the taille (land tax), the gabelle (salt tax), and corvée (forced road labour) while carrying the demographic weight of the kingdom—yet in the Estates-General each order counted as one vote, allowing clergy and nobility to outvote the Third every time.
+
+By the 1780s this structure collided with fiscal collapse. French participation in the American War of Independence (1778–83) added to a debt the monarchy could not service. Finance ministers Jacques Necker and Charles Alexandre de Calonne attempted reforms—broader taxation including nobles—but court and privileged orders blocked them. Bad harvests in 1788–89 sent bread prices soaring in Paris and the provinces; sans-culottes (working-class Parisians named for their trousers rather than silk breeches) and starving peasants made hunger political. Meanwhile the Enlightenment (Siècle des Lumières) had undermined the moral authority of privilege, superstition, and arbitrary royal rule. The revolution that followed was therefore neither pure ideas nor pure hunger—it was political breakdown when a state could neither reform nor repress.
 
 ### Enlightenment — thinkers, ideas, and link to 1789
 
+The Enlightenment supplied vocabulary and legitimacy for radical change. It did not mechanically cause the Bastille to fall—no philosophe ordered the crowd—but it educated the bourgeois lawyers who led the Third Estate and framed the Declaration of the Rights of Man and of the Citizen (26 August 1789).
+
 | Thinker | Key work / idea | Revolutionary relevance |
 |---------|-----------------|-------------------------|
-| **Voltaire** (1694–1778) | *Candide*; attack on **Church dogma** and **intolerance** | **Freedom of thought**, religious tolerance — undermined clerical authority of First Estate |
-| **Montesquieu** (1689–1755) | *Spirit of the Laws* (1748) — **separation of powers** (executive, legislature, judiciary) | Model for **constitutional limits** on king; influenced **US Constitution** and French reforms |
-| **Jean-Jacques Rousseau** (1712–1778) | *Social Contract* (1762) — **"general will"**, sovereignty of **people**, not monarch | **Legitimacy of popular sovereignty** — National Assembly claimed to represent nation |
-| **Denis Diderot** | *Encyclopédie* (1751–72) | Spread **scientific reason**, crafts, criticism of feudalism |
-| **John Locke** (English) | Natural rights — **life, liberty, property** | **Rights of Man** vocabulary |
+| **Voltaire** (1694–1778) | *Candide*; attack on Church dogma and intolerance | Freedom of thought, religious tolerance—undermined First Estate authority |
+| **Montesquieu** (1689–1755) | *Spirit of the Laws* (1748)—separation of powers | Constitutional limits on king; influenced US and French reforms |
+| **Jean-Jacques Rousseau** (1712–1778) | *Social Contract* (1762)—"general will", popular sovereignty | National Assembly claimed to represent the nation, not estates |
+| **Denis Diderot** | *Encyclopédie* (1751–72) | Spread scientific reason and criticism of feudalism |
+| **John Locke** (English) | Natural rights—life, liberty, property | Vocabulary of the Rights of Man |
 
-- **Comment line for exam:** Enlightenment did **not mechanically cause** revolution (no single pamphlet ordered Bastille storming), but it **legitimized change**, **educated bourgeois lawyers** who led Third Estate, and supplied **language of rights** used in **Declaration of the Rights of Man and of the Citizen (26 August 1789)**.
-- **Limits of Enlightenment:** Many philosophes were **elitist**; **women's rights** largely absent (Olympe de Gouges later challenged this); **Voltaire admired "enlightened despots"** — ideas were **radical in context** but not fully democratic by modern standards.
+Enlightenment thought had limits. Many philosophes were elitist; women's rights were largely absent until Olympe de Gouges challenged them in 1791. Voltaire admired "enlightened despots." Ideas that seem moderate today were revolutionary against divine-right monarchy—but they did not extend democracy to women, colonised peoples, or the poorest sans-culottes.
 
 ### French Revolution — chronology and phases
 
 | Date | Event | Significance |
 |------|-------|--------------|
-| **5 May 1789** | **Estates-General** meets at Versailles | Deadlock over voting — **one vote per estate** (Third always outvoted) |
-| **17 June 1789** | Third Estate declares **National Assembly** | Claimed to represent **nation**, not estate |
-| **20 June 1789** | **Tennis Court Oath** | Vowed not to disperse until **constitution** written |
-| **14 July 1789** | **Storming of the Bastille** (Paris) | Symbol of royal tyranny destroyed; **only 7 prisoners** freed — **symbolism > facts** |
-| **4 August 1789** | **Abolition of feudal privileges** | **Night of 4 August** — nobles renounced dues (under pressure) |
-| **26 August 1789** | **Declaration of Rights of Man and Citizen** | **Liberty, property, security, resistance to oppression**; **popular sovereignty** |
-| **1791** | **Constitutional monarchy** | **Legislative Assembly**; **Civil Constitution of the Clergy** — Church under state |
-| **1792** | **First Coalition** vs France; **10 August** attack on Tuileries | Monarchy collapses |
-| **21 Sept 1792** | **First French Republic** proclaimed | **Universal male suffrage** in parts of period |
-| **21 Jan 1793** | **Execution of Louis XVI** | Republic radicalized |
-| **1793–1794** | **Reign of Terror** | **~40,000** executed; internal **counter-revolution** suppressed |
-| **1794** | **Thermidorian Reaction** (27 July) | **Robespierre guillotined** — Terror ends |
-| **1795–1799** | **Directory** | Five-man executive; **corruption, war fatigue** |
-| **9 Nov 1799** | **Coup of 18 Brumaire** — **Napoleon Bonaparte** | End of radical republican experiment → **Consulate** |
+| **5 May 1789** | Estates-General meets at Versailles | Deadlock over voting—one vote per estate |
+| **17 June 1789** | Third Estate declares National Assembly | Claims to represent the nation |
+| **20 June 1789** | Tennis Court Oath | Vows not to disperse until constitution written |
+| **14 July 1789** | Storming of the Bastille | Symbol of royal tyranny destroyed; only 7 prisoners freed |
+| **4 August 1789** | Abolition of feudal privileges | Night of 4 August—dues renounced under pressure |
+| **26 August 1789** | Declaration of Rights of Man and Citizen | Liberty, property, security, resistance to oppression |
+| **1791** | Constitutional monarchy | Legislative Assembly; Civil Constitution of the Clergy |
+| **1792** | First Coalition; 10 August attack on Tuileries | Monarchy collapses |
+| **21 Sept 1792** | First French Republic | Universal male suffrage in parts of period |
+| **21 Jan 1793** | Execution of Louis XVI | Republic radicalised |
+| **1793–1794** | Reign of Terror | ~40,000 executed; counter-revolution suppressed |
+| **1794** | Thermidorian Reaction (27 July) | Robespierre guillotined—Terror ends |
+| **1795–1799** | Directory | Five-man executive; corruption, war fatigue |
+| **9 Nov 1799** | Coup of 18 Brumaire—Napoleon | Consulate replaces radical republic |
 
-### Causes of 1789 — social, economic, political (exam-ready list)
+The constitutional prelude matters: Estates-General (May 1789), National Assembly (June), and Tennis Court Oath preceded the Bastille. The Great Fear (July–August 1789)—peasant attacks on châteaux and burning of feudal records across the countryside—proved revolution was not a Paris elite affair alone; it forced the Night of 4 August abolition of feudalism. Abbé Sieyès's pamphlet *What Is the Third Estate?* (1789) captured the social grievance: the Third was "everything" in the nation but treated as nothing in politics.
 
 | Cause type | Details |
 |------------|---------|
-| **Social** | **Three Estates** — **98% in Third Estate** paid taxes; **nobility/clergy exempt** — **Abbé Sieyès**, *What Is the Third Estate?* (1789): **"Everything"** but treated as nothing |
-| **Economic** | **State bankruptcy** — **Calonne** and **Necker** (finance ministers) failed to reform taxes; **cost of American War**; **1788–89 crop failure** → **bread riots** |
-| **Political** | **Weak Louis XVI**; **Estates-General deadlock** (May 1789); **Tennis Court Oath**; dismissal of popular **Necker** (July) inflamed Paris |
-| **Intellectual** | **Enlightenment** — **Voltaire, Rousseau, Montesquieu** — **rights, reason, popular sovereignty** |
-| **Immediate** | **Storming of Bastille (14 July 1789)**; **Great Fear (July–Aug 1789)** — **peasant attacks on châteaux**, **feudal records burned** — **rural revolution parallel to Paris** |
-
-- **Finance ministers (exam names):** **Jacques Necker** (Swiss banker, dismissed 1789) and **Charles Alexandre de Calonne** (proposed wide taxes on nobles — blocked) show **monarchy could not reform itself**.
-- **Great Fear** proves revolution was **not only Paris elite** — **countryside participated**, forcing **4 August abolition of feudalism**.
+| **Social** | Three Estates—98% in Third paid taxes; nobility/clergy exempt |
+| **Economic** | Bankruptcy; American War cost; 1788–89 crop failure → bread riots |
+| **Political** | Weak Louis XVI; Estates-General deadlock; Necker dismissed July 1789 |
+| **Intellectual** | Enlightenment—rights, reason, popular sovereignty |
+| **Immediate** | Bastille 14 July; Great Fear—rural revolution parallel to Paris |
 
 ```mermaid
 flowchart TD
@@ -124,77 +122,52 @@ flowchart TD
 
 ### Jacobins — who they were and their role
 
-**Definition:** **Jacobins** were members of the **Jacobin Club** (originally Breton deputies meeting at **Dominican convent of St Jacques — "Jacobins"** in Paris), evolving into the **most radical political society** of the Revolution.
+Jacobins were members of the Jacobin Club—originally Breton deputies meeting at the Dominican convent of St Jacques ("Jacobins") in Paris—who evolved into the Revolution's most radical political society. Key figures included Maximilien Robespierre, Georges Danton, Jean-Paul Marat (*L'Ami du peuple*), Louis Antoine de Saint-Just, and Camille Desmoulins. In the National Convention (1792–95), Jacobin Montagnards ("the Mountain") fought Girondins—moderates from the Gironde who favoured provincial federalism and feared Parisian mob power.
 
-**Leadership and factions**
-- Key figures: **Maximilien Robespierre**, **Georges Danton**, **Jean-Paul Marat** (radical journalist, *L'Ami du peuple*), **Saint-Just**, **Camille Desmoulins**.
-- In the **National Convention (1792–95)**, Jacobin **Montagnards** ("Mountain" — left side seating) fought **Girondins** (moderates from **Gironde** region, favoured **provincial federalism**, less Paris mob power).
+Jacobins pushed republicanism when Girondins still hesitated over abolishing monarchy; they executed Louis XVI in January 1793. Under the Committee of Public Safety (1793), they centralised revolutionary government through representatives on mission, the levée en masse (mass conscription—the first modern total-war mobilisation), and the Reign of Terror (June 1793–July 1794): Law of Suspects, Revolutionary Tribunal, de-Christianisation campaigns (though Robespierre later promoted the Cult of the Supreme Being), and price controls (Maximum) for sans-culottes. They abolished slavery in French colonies in 1794 (reversed by Napoleon in 1802), sold Church lands, and laid groundwork for the metric system.
 
-**Programme and actions**
-- **Republicanism:** Pushed **abolition of monarchy** (1792) — Girondins initially hesitated.
-- **Centralization:** **Revolutionary government** — **Committee of Public Safety** (1793), **Representatives on mission**, **levée en masse** (mass conscription) — **first modern total war** mobilization.
-- **Reign of Terror (June 1793 – July 1794):** **Law of Suspects**, **Revolutionary Tribunal**, **de-Christianization** campaigns (though Robespierre later promoted **Supreme Being** cult), **price controls** (Maximum) for sans-culottes.
-- **Social policy:** **Abolished slavery** briefly in colonies (**1794** — later reversed by Napoleon **1802**); **redistributed Church lands**; **metric system** groundwork.
+Jacobins embodied radical equality and emergency dictatorship "for virtue"—a template later revolutionaries studied closely. Their downfall came at Thermidor (July 1794): Terror excesses, Robespierre's purges (Danton executed), and middle-class fear of sans-culottes economic radicalism ended Jacobin dominance. Approximately 40,000 died in the Terror; the revolution's most contested chapter.
 
-**Why they matter for society**
-- Jacobins embodied **radical equality** and **emergency dictatorship for virtue** — template for later **revolutionary vanguards** (Lenin studied French Revolution closely).
-- **Downfall:** **Thermidor** — **excess of Terror**, **Robespierre's purges** (Danton executed) alienated allies; **middle class** feared **sans-culottes** economic radicalism.
+| | **Girondins** | **Jacobins** |
+|---|-------------|--------------|
+| **Base** | Provincial bourgeoisie, ports | Paris, sans-culottes alliance |
+| **Monarchy** | Constitutional monarchy initially | Republic—execute king |
+| **Terror** | Opposed escalation | Led Committee of Public Safety |
+| **Fate** | Purged 1793 | Thermidor 1794—Robespierre fell |
 
 ### Napoleon — "son of the Revolution" and its contradictions
 
-**Rise:** **Napoleon Bonaparte** (b. **1769**, **Ajaccio, Corsica**) — ** artillery officer**; saved **Directory** by **whiff of grapeshot (1795)** against royalist uprising; **Italian campaign (1796–97)** and **Egypt (1798–99)** made him national hero; **18 Brumaire Year VIII (9 Nov 1799)** coup → **First Consul**, then **Emperor (1804)**.
+Napoleon Bonaparte (b. 1769, Ajaccio, Corsica) rose as an artillery officer who saved the Directory with a "whiff of grapeshot" against royalists in 1795, won fame in Italy (1796–97) and Egypt (1798–99), and seized power in the Coup of 18 Brumaire (9 November 1799), becoming First Consul and then Emperor (1804).
 
-**As heir / "son" of Revolution (preserved gains)**
-- **Napoleonic Code (Civil Code, 1804):** **Equality before law**, **abolition of feudal privileges**, **religious toleration**, **property rights**, **secular civil marriage** — spread across **Europe** via conquest — **legal modernity**.
-- **Meritocracy:** **Careers open to talent** in **army and bureaucracy** — not birth alone.
-- **Administrative centralization:** **Prefects**, **Bank of France (1800)**, **Lycées** — **rational state** continuing Revolutionary centralism.
-- **Revolutionary nationalism:** **Citizen-army**, **Tricolour**, **La Marseillaise** — **nation above king**.
-- **Spread of ideas:** **Code Napoléon** in **Italy, Rhine Confederation, Spain** undermined **local feudal and clerical courts**.
+As heir of the Revolution, Napoleon preserved its legal and administrative modernity. The Napoleonic Code (1804) established equality before law, abolition of feudal privileges, religious toleration, property rights, and secular civil marriage—exported across Europe via conquest. Careers opened to talent in army and bureaucracy; prefects, the Bank of France (1800), and lycées continued Revolutionary centralisation. Citizen-army, Tricolour, and *La Marseillaise* embodied nationalism above king; the Code Napoléon undermined local feudal and clerical courts from Italy to the Rhine.
 
-**As betrayer of Revolution (reversal)**
-- **Crowned himself Emperor (1804)** at **Notre-Dame** — **Pope Pius VII** present — restored **hereditary power** symbolism.
-- **Restricted press**, **political police (Fouché)**, **spy networks** — **closed Jacobin clubs**.
-- **Restored slavery (1802)** in **French colonies** — devastating blow to Revolutionary emancipation.
-- **Created new nobility**, **Concordat (1801)** with Church — **stability over secular radicalism**.
-- **Wars of conquest** — **Continental System**, **Peninsular War**, **invasion of Russia (1812)** — **millions dead** for empire, not liberty.
+As betrayer, he crowned himself Emperor at Notre-Dame with Pope Pius VII present—restoring hereditary power symbolism. He restricted press freedom, employed political police (Fouché), closed Jacobin clubs, restored slavery in colonies (1802), created new nobility, and signed the Concordat (1801) with the Church—stability over secular radicalism. Wars of conquest—the Continental System, Peninsular War, invasion of Russia (1812)— killed millions for empire, not liberty. After the Grande Armée's destruction in Russia, he abdicated (1814), returned during the Hundred Days, and was finally defeated at Waterloo (18 June 1815) by Wellington and Blücher; exiled to St Helena, he died in 1821.
 
-**Fall:** **1812 Russia** — **Grande Armée** destroyed; **1814** abdication → **Elba**; **1815 Hundred Days** → **Waterloo (18 June 1815)** — **Duke of Wellington** + **Prussian Blücher**; exiled **St Helena** — died **1821**.
+He was the Revolution's "son" in destroying feudalism and codifying rights, but its "stepfather" in authoritarian empire—a dialectical legacy.
 
 ### Societal impact — France and the world
 
 | Domain | Change |
 |--------|--------|
-| **Feudalism** | **Legally ended** in France — dues, serfdom (where existed), provincial privileges |
-| **Church** | **Land nationalized**; **Civil Constitution**; later **Concordat** compromise under Napoleon |
-| **Law** | **Uniform codes** replaced **local customary law** — foundation of modern **civil law tradition** |
-| **Nationalism** | **People's war**, **citizen identity** — model for **19th-century unification movements** (Germany, Italy) and **anti-colonial nationalism** (including later Indian discourse on liberty) |
-| **Women** | **Brief activism** (Olympe de Gouges — *Declaration of Rights of Woman*, 1791; **executed 1793**); **Republic of Virtue** pushed **domestic roles** — **no political equality** |
-| **Economy** | **Metric system**; **internal free trade** barriers removed gradually; **war inflation** |
-| **Europe** | **Conservative reaction:** **Congress of Vienna (1815)**, **Metternich** system — **"legitimacy"** of monarchs restored — but **ideas could not be bottled** |
+| **Feudalism** | Legally ended in France—dues, serfdom, provincial privileges |
+| **Church** | Land nationalised; Civil Constitution; Concordat compromise under Napoleon |
+| **Law** | Uniform codes replaced local customary law—modern civil law tradition |
+| **Nationalism** | People's war, citizen identity—model for German/Italian unification, anti-colonial movements |
+| **Women** | Olympe de Gouges—*Declaration of Rights of Woman* (1791), executed 1793; no voting rights |
+| **Economy** | Metric system; internal trade barriers reduced; war inflation |
+| **Europe** | Congress of Vienna (1815), Metternich—monarchs restored, but ideas spread |
 
-### Comparison — Girondins vs Jacobins
-
-| | **Girondins** | **Jacobins** |
-|---|-------------|--------------|
-| **Base** | **Provincial bourgeoisie**, ports | **Paris**, **sans-culottes** alliance |
-| **Monarchy** | **Constitutional monarchy** initially | **Republic** — execute king |
-| **Terror** | **Opposed** escalation | **Led** Committee of Public Safety |
-| **Fate** | **Purged 1793** (Brunswick crisis context) | **Thermidor 1794** — Robespierre fell |
+Revolutionary violence was structural—the Vendée civil war, Terror—not only heroic progress. The bourgeoisie benefited more than the poorest peasants long-term; women and slaves saw reversal under Napoleon. Conservative reaction at Vienna tried to restore legitimacy of monarchs, yet revolutions of 1830 and 1848 showed ideas could not be bottled. Rights discourse influenced later colonial nationalist vocabulary worldwide, including Indian debates on liberty and equality.
 
 ### Contemporary relevance
 
-- **Liberty, Equality, Fraternity** — inscribed on **French institutions**; echoes in **Indian Preamble** ("justice, liberty, equality") and **global human-rights vocabulary** — **UN Universal Declaration of Human Rights (1948)** sits in lineage of **1789 Declaration**.
-- **Secular republicanism:** French **laïcité** (1905 separation of Church and state) traces to **Revolutionary anti-clericalism** — debates on **religion in public life** remain live (headscarf laws, etc.).
-- **Revolution as political memory:** **14 July Bastille Day** — global symbol of **people vs tyranny**; museums and ** UNESCO Memory of the World** documents preserve Revolutionary archives.
-- **Legal legacy:** **Napoleonic Code** still influences **civil law countries** (France, parts of Europe, Latin America, Louisiana) — comparative law studies in **Indian judiciary training**.
-- **Caution for democracies:** **Emergency powers**, **terror in name of virtue**, **personality cult** (Napoleon) — **case studies in governance ethics** (GS-IV overlap).
+Liberty, Equality, Fraternity inscribed on French institutions echo in India's Preamble ("justice, liberty, equality") and the UN Universal Declaration of Human Rights (1948), which sits in lineage of the 1789 Declaration. French laïcité (1905 separation of Church and state) traces to Revolutionary anti-clericalism; headscarf laws and secularism debates remain live. Bastille Day (14 July) is a global symbol of people against tyranny. The Napoleonic Code still shapes civil law from France to Louisiana. For democracies, emergency powers, terror in the name of virtue, and personality cult (Napoleon) offer cautionary governance lessons.
 
-### Limits and balanced historiography
+### Limits
 
-- Revolution **benefited bourgeoisie** more than **poorest peasants** long-term; **women and slaves** saw **reversal under Napoleon**.
-- **Violence was structural** — **Vendée civil war**, **Terror** — not only "heroic progress."
-- Enlightenment **inspired** but **did not single-handedly cause** — **material crisis** essential.
-- **Napoleon** must be answered **dialectically** in exam — **both carrier and gravedigger** of Revolutionary ideals.
+Enlightenment inspired but did not single-handedly cause revolution—material crisis was essential. Revolution benefited bourgeoisie more than poorest peasants; women gained no political equality; slavery abolition of 1794 was reversed in 1802. Napoleon must be judged dialectically—carrier and gravedigger of Revolutionary ideals. Violence of Terror and Vendée cannot be erased from any balanced account. The comment that revolution was Enlightenment's "culmination" holds intellectually, but only alongside fiscal collapse, estate inequality, and rural uprising.
+
+Revolutions of 1830 and 1848, Italian and German unification, and later anti-colonial movements borrowed Revolutionary symbols—tricolours, declarations of rights, citizen armies—even when their social bases differed. Congress of Vienna restored monarchs but could not restore pre-1789 mentalities; nationalism and constitutionalism had entered European politics permanently. For India, the French Revolution's indirect legacy lies in universal rights language that Indian nationalists adapted against colonial subjecthood—a global circulation of ideas the philosophes themselves never fully intended.
 
 ---
 

@@ -56,140 +56,119 @@ TRAPS: Nuclear ≠ no kinship obligation | Apps ≠ love marriage majority yet
 
 ## Content
 
-### Context — family, marriage, kinship as exam unit
+### Context — Family, marriage, and kinship
 
-- **Family** = **co-residing unit** bound by **marriage, blood, adoption** — in India historically **joint family** ( **multiple generations, common kitchen, patrilineal authority**).
-- **Marriage** = ** sacramental-social contract** linking **two kin groups** — **arranged, endogamous (caste/jati), patrilocal** norm dominant; **Hindu Marriage Act 1955**, **Special Marriage Act 1954**, personal laws govern.
-- **Kinship** = **relational network** — **blood (consanguine), affinal (marriage), fictive ( guru, bhai)**; **Irawati Karve** mapped **north vs south vs tribal** kinship **regional variations**.
-- **Globalization (post-1991)** intensifies **migration, media, consumer markets, women's employment** — **restructures** but **does not abolish** family institutions — **A.M. Shah** and **Patricia Uberoi** emphasize ** adaptive continuity**.
+Family is the co-residing unit bound by marriage, blood, or adoption. In India the joint family — multiple generations, common kitchen, patrilineal authority — was the historical norm. Marriage functions as sacramental-social contract linking two kin groups; arranged, endogamous (caste/jati), patrilocal marriage dominated, governed by Hindu Marriage Act 1955, Special Marriage Act 1954, and personal laws. Kinship is the relational network of blood (consanguine), affinal (marriage), and fictive ties. Irawati Karve mapped north versus south versus tribal kinship regional variations. Globalization since LPG 1991 intensifies migration, media, consumer markets, and women's employment — restructuring but not abolishing these institutions. A.M. Shah and Patricia Uberoi emphasize adaptive continuity over wholesale replacement.
 
 ### Baseline — traditional Indian family system
 
 | Feature | Traditional pattern | Globalization pressure |
 |---------|---------------------|------------------------|
-| **Structure** | **Joint/stem family**, elder authority | **Nuclear units** in **migrant metros** |
-| **Marriage** | **Arranged, caste endogamy, early age** | **Later marriage, apps, inter-caste love** (urban) |
-| **Residence** | **Patrilocal (virilocal)** | **Neolocal** (couple sets separate home) |
-| **Gender roles** | **Male breadwinner, female homemaker** | **Dual-earner couples**, **unpaid care debate** |
-| **Kin obligations** | **Jajmani, lifecycle rituals, dowry exchange** | **Remittance-based obligations**, **smaller ritual scale** |
-| **Decision-making** | **Collective (elder male)** | **Individual/couple autonomy** |
+| Structure | Joint/stem family, elder authority | Nuclear units in migrant metros |
+| Marriage | Arranged, caste endogamy, early age | Later marriage, apps, inter-caste love |
+| Residence | Patrilocal | Neolocal separate home |
+| Gender roles | Male breadwinner, female homemaker | Dual-earner couples |
+| Kin obligations | Jajmani, lifecycle rituals, dowry | Remittance obligations |
+| Decision-making | Collective elder male | Individual/couple autonomy |
 
 ### Visible effects on family
 
-**Structural — nuclearization and stem family**
-- **Census household data:** **Average household size declined** over decades — **urban nuclear** common among **IT/migrant professionals** in **Bangalore, Pune, Gurugram**.
-- **Stem family** — parents with **one married son** co-reside while **siblings migrate** — **partial jointness**, not classical joint family.
-- **Geographic dispersion** — **WhatsApp/Skype families**, **NRI siblings** — **emotional bonds persist**, **daily cooperation weakens**.
+**Structural — nuclearization and stem family.** Census household data show declining average size. Urban nuclear common among IT migrants in Bangalore, Pune, Gurugram. Stem family — parents with one co-residing son while siblings migrate — partial jointness. WhatsApp/Skype sustain emotional bonds without daily cooperation.
 
-**Economic — dual income and consumer lifestyle**
-- **LPG service economy** enables **women's paid work** — **BPO, retail, gig** — **family budget** tied to **global market cycles**.
-- **Housing EMI culture** — **nuclear housing** in ** gated communities** — **privacy norm** imported via **global urban form**.
+**Economic — dual income and consumer lifestyle.** LPG enables women's BPO/retail/gig work; budgets tie to global cycles. Housing EMI culture in gated communities imports privacy norms.
 
-**Care crisis**
-- **Elderly left alone** in villages or **old-age homes** (still stigma but **rising in metros**) — **global time-pressure work culture** reduces ** intergenerational care**.
-- **Childcare** — **nuclear couple** relies on **creches, grandparents flying in** — **new dependency patterns**.
+**Care crisis.** Elderly alone in villages or old-age homes (rising in metros). Nuclear couples rely on creches or flying-in grandparents.
 
-**Alternative family forms (urban visibility)**
-- **Live-in relationships** — **Supreme Court privacy (Puttaswamy 2017)** context — **legal rights incomplete** vs marriage.
-- **Single-parent, divorcee-headed households** — **still minority** but **less hidden**.
-- **DINK (double income no kids)** — **consumer urban lifestyle**.
+**Alternative forms.** Live-in relationships (Puttaswamy 2017 privacy context) — legal rights incomplete. Single-parent households less hidden. DINK couples.
 
 ```mermaid
 flowchart TD
-  G[Globalization<br/>migration · media · jobs] --> F[Family<br/>nuclear · dual income]
-  G --> M[Marriage<br/>later · apps · inter-caste]
-  G --> K[Kinship<br/>functional · digital · remittance]
-  F --> C[Continuity + Change<br/>rituals persist · structure adapts]
+  G[Globalization] --> F[Family: nuclear, dual income]
+  G --> M[Marriage: apps, later age]
+  G --> K[Kinship: remittance power]
+  F --> C[Continuity plus Change]
 ```
 
 ### Visible effects on marriage
 
-**From arranged to assisted / hybrid**
-- **Matrimonial websites/apps** — **Shaadi.com, BharatMatrimony, Jeevansathi** — **global tech, Indian endogamy filters** (caste, gotra, horoscope).
-- **Love marriages** increase in **metros and education groups** — **honour crimes** in **conservative hinterland** show ** conflict**.
-
-**Age and agency**
-- **NFHS-5:** **Median age at first marriage** rising for **women** — linked to **education and career** — **global norm of delayed marriage** partially adopted.
-- **Women's consent voice** — **legal age 18/21 debates** ( **Prohibition of Child Marriage Amendment** discussions).
-
-**Instability and law**
-- **Divorce rates** — higher in **urban, educated cohorts** — **family courts, mutual consent** under **HMA 1955**.
-- **Domestic Violence Act 2005** — **married and live-in** protection — **rights awareness** via **NGO/global discourse**.
-
-**Commodification**
-- **Destination weddings, luxury spend** — **global wedding industry** — ** dowry disguised as gifts** persists despite **Dowry Prohibition Act 1961**.
-
-**Cross-border dimensions**
-- **NRI marriages** — **Indian diaspora** — **transnational matchmaking**, ** visa-trading fraud** cases — **Ministry of External Affairs advisories**.
+Matrimonial apps (Shaadi.com, BharatMatrimony) — global tech plus caste filters — hybrid modernity. Love marriages increase in metros; honour crimes in hinterland show conflict. NFHS-5: rising median age at first marriage linked to education. Divorce higher in urban educated cohorts — HMA 1955 mutual consent. DV Act 2005 covers live-in. Destination weddings — dowry persists disguised as gifts. NRI marriages — transnational matchmaking, visa fraud, MEA advisories.
 
 ### Visible effects on kinship
 
-**Weakening of ritual kin obligations**
-- **Lifecycle rituals (birth, thread, marriage, death)** — **shortened, outsourced to event managers** — **symbolic kin roles** shrink.
+Lifecycle rituals shortened, outsourced to event managers. Remittance kin (Gulf, US NRIs) gain authority over land-based elders. Caste endogamy persists — apps reinforce filters. Karve: north exogamy rules loosen via migration; south cross-cousin traditions meet IT partner pools; matrilineal Kerala/Khasi different trajectories. Facebook family groups maintain affinal ties globally.
 
-**Functional vs ritual kinship**
-- **Remittance kin** — **Gulf, US NRIs** — **who sends money** gains **authority** over **ritual elders** without land.
+### Analytical frameworks
 
-**Caste endogamy persistence**
-- **Globalization did not erase jati marriage rules** — **CSDS studies** show **overwhelming endogamy** still — ** apps reinforce caste filters**.
+Uberoi/Lardinois: institutional adaptation — marriage central but commodified. Gender lens: employment increases leverage; violence persists under stress. Class lens: elite globalized marriages vs child marriage pockets.
 
-**Regional variation (Karve framework)**
-- **North India (Indo-Aryan)** — **village exogamy, gotra rules** — **globalization via migration** loosens **local enforcement**.
-- **South India (Dravidian)** — **cross-cousin marriage traditions** — **IT migration** creates **new partner pools**.
-- **Matrilineal pockets (Kerala, Khasi, Garo)** — **different globalization trajectory** — **women's property rights** historically stronger.
+| Domain | Positive | Negative |
+|--------|----------|----------|
+| Family | Planned families; women's fertility voice | Elderly isolation |
+| Marriage | Later marriage, choice; legal awareness | Commodification, dowry, honour crimes |
+| Kinship | Digital connectivity; remittances | Ritual erosion; online endogamy |
 
-**Digital kinship**
-- **Facebook family groups**, **genealogy apps** — **maintain affinal ties** across **continents**.
+### Migration and remittances on rural family
 
-### Analytical frameworks for answers
+Male out-migration creates women-headed households in Bihar, UP, Odisha. Remittance houses raise migrant prestige. Women manage farms and SHGs — autonomy plus burden. NRI groom preference — dowry inflation, fraud. COVID reverse migration (2020) stressed budgets. Kinship becomes transactional — rituals funded, daily reciprocity weakens.
 
-**Continuity + change model**
-- **Roland Lardinois / Uberoi:** **Institutional adaptation** — **marriage remains central** but **its form commodified and individualized**.
+### Personal laws table
 
-**Gender lens**
-- **Global employment** increases **women's leverage** inside marriage; **patriarchal violence** persists under **economic stress**.
+| Law | Feature | Globalization interaction |
+|-----|---------|---------------------------|
+| HMA 1955 | Monogamy, divorce | Urban divorce with women's employment |
+| Triple Talaq Act 2019 | Reformed Muslim divorce | Global feminist pressure |
+| SMA 1954 | Civil inter-faith | Cosmopolitan couples |
+| Tribal customs | Community rules | Mining capital disrupts kin-land bonds |
 
-**Class lens**
-- **Elite globalized marriages** vs **child marriage pockets** — **globalization effects class-segregated**.
+### Joint family continuity and change
 
-### Positive and negative synthesis
+Change: nuclear/stem in metros; authority erosion as youth depend on global wages not elder land. Continuity: festival reunions, remittance mutual aid, patrilineal ideals (son preference, HSA 2005 daughters' rights). A.M. Shah: joint family as cultural ideal survives though practice pluralizes. Class divide: elite nuclear vs rural joint.
 
-| Domain | Positive visible effects | Negative visible effects |
-|--------|-------------------------|-------------------------|
-| **Family** | **Smaller, planned families**, **women's say in fertility** | **Elderly isolation**, **care deficits** |
-| **Marriage** | **Later marriage, choice (urban)**, **legal rights awareness** | **Commodification, dowry, NRI fraud, honour crimes** |
-| **Kinship** | **Digital connectivity**, **remittance support** | **Ritual erosion, caste-endogamy rigidity online** |
+### Urban marriage under globalization
+
+Apps with caste filters; love-inter-caste via SMA 1954; consumer wedding industry; delayed marriage for career; divorce visibility; live-in and Puttaswamy autonomy; double burden post-marriage unresolved.
+
+### COVID-19 and family structure
+
+Reverse migration reunified families temporarily. WFH renegotiated domestic labour — spousal violence context (NFHS-5). Digital weddings normalized remote kin participation.
+
+### Family — extended analysis of nuclearization
+
+What nuclearization means: married couple establishes separate household (neolocal residence), financial decisions made by conjugal unit rather than joint patriarch, children socialized in urban institutional settings (schools, creches) rather than extended kin network. How globalization drives it: IT and service jobs concentrate in metros requiring geographic mobility; housing costs force smaller units; women's employment makes dual-earner nuclear unit economically rational; global media valorizes privacy and individual choice over collective authority. Why continuity persists: festival reunions (Diwali, Holi, Eid) reassemble dispersed kin; remittances maintain financial obligations; crisis (illness, death) triggers temporary joint co-residence; cultural ideal of joint family survives in popular cinema and parental expectations even when practice is nuclear.
+
+A.M. Shah's research showed stem family as compromise — one son co-resides with parents while siblings migrate — common in Gujarat and Maharashtra villages. Proof from Census trend: average household size declined over decades; yet proportion of elderly living alone rises — care crisis as unintended consequence of successful migration.
+
+### Marriage — extended analysis of assisted arranged marriage
+
+Matrimonial platforms combine global technology with Indian endogamy: users filter by caste, sub-caste, gotra, horoscope, income, NRI status — reinforcing jati boundaries while modernizing search method. Why arranged marriage persists: family approval validates alliance between kin networks (property, status, safety); love marriage still faces honour crime risk in conservative hinterland (Khap panchayats, Haryana-U.P. belt). NFHS-5 documents rising age at first marriage — women marrying later when educated — convergence with global delayed-marriage pattern among elite, not mass. Divorce: urban educated cohorts file mutual consent under HMA 1955; national rate remains moderate — stigma persists in small towns. Commodification: destination weddings in Goa, Udaipur import global luxury norms; dowry disguised as "gifts" evades Dowry Prohibition Act 1961.
+
+### Kinship — Irawati Karve regional models applied
+
+North India (Indo-Aryan): village exogamy, gotra exogamy, patrilineal descent, patrilocal residence — globalization loosens enforcement when youth migrate to metros and marry across regional lines. South India (Dravidian): cross-cousin marriage traditions (marriage to mother's brother's daughter in some communities) — IT migration creates partner pools outside traditional circles. Tribal kinship: clan-based systems, often communitarian land rights — mining and displacement break kin-land bonds (Sixth Schedule areas). Matrilineal pockets (Kerala Nair historically, Khasi-Garo in Meghalaya): women's property rights stronger — globalization affects differently than patrilineal north. Functional kinship: remittance from Gulf NRIs elevates migrant's branch over landholding elders — authority follows money, not ritual seniority alone.
 
 ### Contemporary relevance
 
-- **Supreme Court (2023)** — **same-sex marriage petition** — **global LGBTQ discourse** meets **Indian kinship law** — **ongoing legal position** (stable exam hook: **institutional debate**).
-- **OTT serials** — **Indian family norms** globally streamed — **soft power + norm contestation**.
-- **Migrant worker families (COVID exodus 2020)** — **global supply chains** expose **fragile urban family survival**.
-- **UPI remittances** — **instant cross-border family support** — **new kin economic bond**.
-- **Special Marriage Act** — **inter-faith couples** navigating **global cosmopolitanism vs local communal pressure**.
+Same-sex marriage petition (2023); OTT family norms streamed globally; migrant COVID exodus; UPI remittances; SMA for inter-faith under communal pressure.
+
+### Globalization and Indian kinship — comprehensive analysis for 12-mark answers
+
+Introduction frame: LPG 1991 plus migration, media, MNC work culture restructure family-marriage-kinship while retaining institutional centrality — adaptive continuity not Western replacement. Family: nuclearization in metros (Census household size decline); stem family compromise in villages; dual-income couples; elderly care crisis; WhatsApp families sustain emotional ties across continents; live-in and DINK urban visibility. Marriage: assisted arranged via Shaadi.com with caste filters; NFHS-5 later marriage age; urban divorce under HMA 1955; dowry commodification via destination weddings; NRI marriage fraud; Special Marriage Act for inter-faith; Puttaswamy privacy for autonomy incomplete versus marital rights. Kinship: ritual obligations shrink (event managers replace elders' roles); remittance kin gain authority; caste endogamy persists on apps; Karve regional models (north exogamy, south cross-cousin, tribal clan, matrilineal Kerala) react differently to migration. Migration-remittance: Bihar-UP-Odisha outflow; women-headed households; COVID reverse migration 2020. Positive: women's voice, planned families, legal awareness (DV Act). Negative: commodification, honour crimes, elderly isolation. Conclusion: globalization individualizes and commodifies yet marriage-kinship remain central — modified intensity, not disappearance. A.M. Shah, Uberoi, Irawati Karve cite for sociological depth.
+
+### Additional depth — sociologists, laws, and proof for each institution
+
+Irawati Karve's regional kinship geography remains valid despite globalization — marriage rules differ north-south-tribal; migration loosens enforcement but does not erase preference. A.M. Shah documented joint family as ideology persisting after practice nuclearized — ideological continuity matters for ritual and inheritance disputes. Patricia Uberoi analyzed family in Asia under global capital — Indian marriage becomes transaction involving global flows (NRI groom, dollar dowry, foreign education premium). Roland Lardinois on Indian family modernity — conjugality rises but embedded in kin network approval. Hindu Marriage Act 1955 monogamy and judicial divorce enabled urban mutual consent exits. Muslim Women Act 2019 criminalized instant triple talaq — global feminist pressure plus domestic mobilization. Special Marriage Act 1954 enables civil inter-faith union against communal pressure — globalization of cosmopolitan identity meets local majoritarianism. Domestic Violence Act 2005 covers live-in — partial legal recognition of non-marital cohabitation. Puttaswamy 2017 privacy fundamentality supports marital autonomy arguments. Supreme Court same-sex marriage petition 2023 — global LGBTQ human rights discourse meets Indian kinship law — pending institutional adaptation. Proof points: Census household size decline; NFHS later marriage age; Shaadi.com caste filter screenshots in sociological studies; remittance architecture in Kerala and UP villages; COVID digital wedding normalization.
+
+2025 PYQ on family-marriage-kinship requires tri-partite structure with Indian proof in each: family nuclearization (Bangalore IT migrants), marriage apps with caste filters (Shaadi.com), kinship remittance authority (Gulf NRIs in Kerala and UP villages). Cite NFHS-5 for marriage age, HMA 1955 for divorce, DV Act 2005 for live-in, Karve for regional kinship. Conclude adaptive continuity — globalization modifies intensity of kin obligations without dissolving marriage as central institution.
+
+### Positive and negative synthesis — family, marriage, kinship
+
+Positive visible effects include smaller planned families linked to women's education and NFHS-documented fertility decline; urban women's employment in BPO and services increasing voice in household decisions; legal rights awareness through DV Act 2005 and global feminist discourse including POSH 2013; digital connectivity allowing dispersed kin to maintain emotional bonds via WhatsApp family groups; remittances lifting rural household income and children's education investment. Negative visible effects include elderly isolation when children migrate without co-residence; marriage commodification through destination weddings and dowry inflation disguised as gifts; NRI marriage fraud exploiting aspiration for foreign groom; honour crimes when inter-caste or inter-faith love defies community norms; ritual kinship erosion as lifecycle ceremonies shrink and event managers replace elders' roles; caste endogamy reinforced on matrimonial platforms despite globalization rhetoric of choice.
+
+Class lens essential: elite metros experience globalization of marriage as delayed companionate union; rural and small-town India majority still experience arranged endogamous marriage with patriarchal authority — dual India within one analytical frame. Gender lens: double burden of paid work plus domestic roles persists post-marriage; globalization opens employment without redistributing care work. Continuity-change model conclusion: marriage remains central institution organizing property, ritual, and alliance — but its form commodified, delayed, technologized, and individually negotiated among urban educated cohort while tradition persists elsewhere.
 
 ### Limits and balanced view
 
-- **Majority marriages still arranged-endogamous** — **do not overstate Westernization**.
-- **Nuclearization ≠ kinship death** — **festival gatherings, wedding networks** continue — **modified intensity**.
-- **Urban visibility bias** — **rural joint patterns** persist where **land and agriculture** anchor **co-residence**.
-- **Legal change lags practice** — **live-in, same-sex, divorce** — **social stigma** remains strong in **many communities**.
-
-### Personal laws and marriage institutions (table)
-
-| Community / Law | Marriage feature | Globalization interaction |
-|-----------------|------------------|---------------------------|
-| **Hindu Marriage Act 1955** | **Monogamy, judicial divorce** | **Urban divorce filings** rise with **women's employment** |
-| **Muslim personal law** | **Nikah, triple talaq reformed (2019 Act)** | **Global feminist pressure + Supreme Court activism** |
-| **Special Marriage Act 1954** | **Civil, inter-faith** | **Cosmopolitan couples** bypass **community courts** |
-| **Christian Indian Marriage Act** | **Church registration** | **NRI Christian diaspora** matches globally |
-| **Tribal customs (Sixth Schedule areas)** | **Community-specific rules** | **Mining/global capital** disrupts ** tribal kin land bonds** |
-
-### COVID-19 and family structure (contemporary hook)
-
-- **Reverse migration 2020** — **millions returned to villages** — **temporary joint family reunification** under **economic shock**.
-- **Work-from-home** — **dual earner couples** renegotiate **domestic division of labour** — **some reports of increased domestic violence (NFHS-5 spousal violence data context)**.
-- **Digital weddings** — **global pandemic** normalized **online rituals** — **kin participation without travel** — **may persist post-COVID**.
+Majority marriages still arranged-endogamous. Nuclearization ≠ kinship death — festivals continue. Rural joint persists with land. Live-in ≠ marriage for inheritance. Apps did not eliminate caste. Divorce rise urban-specific. Dowry persists despite law. Same-sex legal position evolving — avoid false certainty.
 
 ---
 

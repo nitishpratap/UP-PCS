@@ -57,10 +57,7 @@ TRAPS: ≠ Gupta-only (07) | ≠ Vishwaguru frame (08) | Zero ≠ Aryabhata alon
 
 ### Context — what "scientific heritage" means
 
-- **Indian scientific heritage** = cumulative **rational, observational, and craft-technological** knowledge developed on the subcontinent from **Harappan** times through **ancient and early medieval** periods — in mathematics, astronomy, medicine, metallurgy, chemistry/crafts, geometry, navigation, and linguistics.
-- Distinct from **pure cultural/religious heritage** — though often linked to **ritual needs** (altars, calendars, muhurtas, temple proportions).
-- UPPCS expects **named examples across periods**, not only Gupta age — Harappan metrology to Bhaskara II algebra in one coherent narrative.
-- **Exam frame:** Broader than file **07** (Gupta science only) and file **08** (Vishwaguru civilizational frame) — this file focuses on **science and technology content** with period-spanning depth.
+**Indian scientific heritage** comprises the cumulative **rational, observational, and craft-technological** knowledge developed on the subcontinent from **Harappan** times through **ancient and early medieval** periods — spanning mathematics, astronomy, medicine, metallurgy, chemistry and crafts, geometry, navigation, and linguistics. This heritage is distinct from pure cultural or religious tradition, though it was often linked to **ritual needs** such as altar construction, calendar calculation, auspicious timing (muhurtas), and temple proportions. The narrative must span **named examples across periods** — from Harappan metrology to Bhaskara II algebra — rather than collapsing everything into the Gupta age alone. Indian science characteristically developed as **problem-driven inquiry**: ritual accuracy demanded calendars and astronomy; altar construction required Sulva geometry; warfare and crafts drove metallurgy; healing produced Ayurveda and surgery; spiritual discipline generated yoga physiology; state revenue needed land measurement and trigonometry.
 
 ```mermaid
 flowchart LR
@@ -73,30 +70,32 @@ flowchart LR
 
 ### Mathematics and numeration
 
+Indian mathematics evolved from practical metrology and ritual geometry into systematic treatises that transformed global arithmetic. **Harappan weights and measures** (c. 3rd millennium BCE) used a standardised binary-hexadecimal system — early proof of quantitative culture. **Baudhayana Sulvasutra** (c. 8th–6th century BCE) states the **Baudhayana theorem** — that the area of the square on the hypotenuse equals the sum of squares on the other sides — for constructing Vedic fire-altars, **predating Pythagoras** as applied geometry though not as abstract deductive proof. **Apastamba Sulvasutra** (c. 2nd century BCE) addressed acute, obtuse, and right angles plus circle-squaring problems. **Panini's Ashtadhyayi** (c. 5th–4th century BCE) created formal **linguistic science** — generative grammar with meta-rules admired by modern linguists and computer scientists.
+
+**Zero (sunya)** developed from c. **2nd century BCE** as placeholder then number; the **Bakhshali manuscript** provides early evidence. **Decimal place-value** appears in 5th-century CE inscriptions and **Aryabhata's** work. **Aryabhata** (AD 476–500) in *Aryabhatiya* covered trigonometry, sine tables (*jya*), triangle area, and **kuttaka** equations. **Brahmagupta** (7th century) formalised **algebra** and zero rules in *Brahmasphutasiddhanta*. **Bhaskara I** (c. **629 CE**) commented on Aryabhata with **sine approximation** formulas. **Bhaskara II** (12th century) authored *Lilavati* (arithmetic), *Bijaganita* (algebra), and *Siddhanta Shiromani* — the medieval peak.
+
 | Development | Period / figure | Significance |
 |-------------|-----------------|--------------|
 | **Harappan weights & measures** | c. 3rd millennium BCE | Standardised metrology — binary-hexadecimal system; early quantitative culture |
-| **Baudhayana Sulvasutra** | c. 8th–6th c. BCE | **Baudhayana theorem** — Pythagorean relationship for constructing fire-altars: area of square on hypotenuse = sum of squares on other sides — **predates Pythagoras** (applied geometry, not abstract proof) |
+| **Baudhayana Sulvasutra** | c. 8th–6th c. BCE | **Baudhayana theorem** — Pythagorean relationship for constructing fire-altars |
 | **Apastamba Sulvasutra** | c. 2nd c. BCE | Practical geometry — acute/obtuse/right angles for altars; circle-squaring problems |
-| **Panini's Ashtadhyayi** | c. 5th–4th c. BCE | Formal **linguistic science** — generative grammar with meta-rules; computational structure admired by modern linguists |
-| **Zero (sunya)** | c. **2nd c. BCE** onward | Placeholder then number; **Bakhshali manuscript** evidence; enabled advanced arithmetic |
+| **Panini's Ashtadhyayi** | c. 5th–4th c. BCE | Formal **linguistic science** — generative grammar with meta-rules |
+| **Zero (sunya)** | c. **2nd c. BCE** onward | Placeholder then number; **Bakhshali manuscript** evidence |
 | **Decimal place-value** | 5th c. CE inscriptions; **Aryabhata** | India → **Arabs (873 CE, Al-Khwarizmi)** → Europe; China via Buddhism |
 | **Aryabhata** | AD 476–500 | *Aryabhatiya* — trigonometry, sine tables (*jya*), area of triangle, kuttaka equations |
-| **Brahmagupta** | 7th c. CE | **Algebra**; rules for zero in *Brahmasphutasiddhanta*; agro-astronomical maths |
+| **Brahmagupta** | 7th c. CE | **Algebra**; rules for zero in *Brahmasphutasiddhanta* |
 | **Bhaskara I** | c. **629 CE** | Commentator on Aryabhata; **sine approximation** formulas |
 | **Bhaskara II** | 12th c. CE | *Lilavati* (arithmetic), *Bijaganita* (algebra), *Siddhanta Shiromani* — peak of medieval Indian maths |
 
-- **Baudhayana Sulva theorem (exam detail):** Used to build **Vedic fire-altars** of precise area — e.g. converting square to circle, doubling altar area — shows **practical geometric science** embedded in ritual.
-- **Exam precision:** Indians **developed and transmitted** decimal-zero system — did not work in isolation from Babylon/Greek contacts but made decisive advances; avoid "India invented everything" and "India invented nothing" extremes.
+Indians **developed and transmitted** the decimal-zero system through contact with Babylonian and Greek traditions but made decisive advances; neither "India invented everything" nor "India invented nothing" captures the evidence accurately. The **Baudhayana Sulvasutra** applied its theorem to build **Vedic fire-altars** of precise area — converting square to circle, doubling altar area — demonstrating **practical geometric science** embedded in ritual rather than abstract mathematics divorced from use. Why does this matter for understanding Indian scientific heritage? Because it shows science grew from **concrete problems** — altar shape, calendar accuracy, surgical wound, alloy quality — and only later crystallised into treatises like *Aryabhatiya* and *Siddhanta Shiromani* that systematised generations of observational knowledge.
 
 ### Kanada and Vaisheshika atomism
 
-- **Kanada** (c. 6th–2nd c. BCE) — founder of **Vaisheshika** school; text *Vaisheshika Sutra*.
-- Proposed **paramanu** (indivisible atom-like particles) combining to form **dvyanu, tryanu** (diatomic, triatomic structures).
-- Categories of reality (**padartha**): substance, quality, action, generality, particularity, inherence — early **systematic physical classification**.
-- Not modern atomic physics — but genuine **proto-scientific attempt** to explain matter composition; cite as **philosophy-science interface** in Mains answers.
+**Kanada** (c. 6th–2nd century BCE), founder of the **Vaisheshika** school in *Vaisheshika Sutra*, proposed **paramanu** — indivisible atom-like particles combining into **dvyanu** and **tryanu** (diatomic and triatomic structures). He classified reality into **padartha** categories: substance, quality, action, generality, particularity, and inherence — an early **systematic physical classification** at the philosophy-science interface. This is not modern atomic physics, but a genuine **proto-scientific attempt** to explain matter composition through rational categories rather than mythological narrative alone. Vaisheshika demonstrates that ancient Indian thinkers did not restrict inquiry to theology — they attempted **structured explanations of physical reality** that later schools debated, refined, and integrated with Nyaya logic, showing a tradition of rational argument alongside scriptural authority.
 
 ### Astronomy and calendars
+
+Indian astronomy served ritual calendars, agriculture, land revenue, and temple orientation — applied science embedded in state and society. **Vedanga Jyotisha** established ritual calendars with lunar-solar adjustments for yajna timing. **Aryabhata** proposed Earth's **rotation**, eclipse shadow theory, planetary periods, and Earth circumference measurement. **Varahamihira** in *Brihatsamhita* and *Panchasiddhantika* synthesised weather science, earthquake prediction attempts, and village planning alongside astronomy. **Romaka Siddhanta** incorporated Greco-Roman astronomical knowledge, proving syncretic development. **Bhaskara II** refined planetary calculations in *Siddhanta Shiromani* for festival dating and revenue assessment. **Al-Biruni's Kitab-ul-Hind** (11th century) systematically recorded Indian astronomy, mathematics, and medicine for the Islamic world — external validation of Indian scientific traditions.
 
 | Source / figure | Key contribution | Applied use |
 |-----------------|------------------|-------------|
@@ -106,16 +105,11 @@ flowchart LR
 | **Romaka Siddhanta** | Greco-Roman astronomical sync | Cross-cultural science |
 | **Bhaskara II** | Refined planetary calculations in *Siddhanta Shiromani* | Festival dating, revenue |
 
-- **Applied uses:** land measurement, **tax assessment**, temple orientation (vastu), festival dating — science embedded in state and society, not detached laboratory model of modern West, but genuine **empirical heritage**.
-- **Al-Biruni's Kitab-ul-Hind** (11th c.) — systematic record of Indian astronomy, maths, medicine for Islamic world; external validation of Indian scientific traditions.
-
 ### Medicine (Ayurveda), surgery, and yoga
 
-- **Atharvaveda** — early charms and plant remedies; foundation of folk and classical medicine.
-- **Charaka Samhita** (c. 2nd c. CE) — internal medicine encyclopaedia; fever, TB, diet, medicinal plants, **tridosha** theory (vata, pitta, kapha).
-- **Sushruta Samhita** (c. 2nd c. CE) — **121 surgical instruments**; **cataract surgery** (couching method), stone disease; emphasis on cleanliness and **sterile technique** concepts.
+**Atharvaveda** contains early charms and plant remedies forming the foundation of folk and classical medicine. **Charaka Samhita** (c. 2nd century CE) is an internal medicine encyclopaedia covering fever, tuberculosis, diet, medicinal plants, and **tridosha** theory (vata, pitta, kapha) — a holistic framework treating disease as imbalance rather than isolated symptom. **Sushruta Samhita** (c. 2nd century CE) documents **121 surgical instruments**, **cataract surgery** (couching method), stone disease treatment, and concepts of cleanliness approaching **sterile technique**. Sushruta classified bones, joints, wounds, and burns with systematic surgical anatomy predating modern textbooks by millennia. His emphasis on physician training through cadaver study and practical apprenticeship mirrors modern medical pedagogy in spirit if not in technology.
 
-**Plastic surgery (Sushruta — exam detail)**
+The global legacy of Sushruta's **rhinoplasty** — using forehead flap (paramedical pedicle graft) — influenced **British surgeons in 18th–19th century India** including Joseph Constantine Carpue, proving that ancient Indian surgery was not folklore but **documented operative technique** with reproducible outcomes.
 
 | Procedure | Method | Global legacy |
 |-----------|--------|---------------|
@@ -125,13 +119,7 @@ flowchart LR
 | **Skin grafting** | Full and partial thickness grafts | Systematic surgical anatomy |
 | **Lithotomy** | Bladder stone removal | Urological surgery |
 
-- Sushruta classified **bones, joints, wounds, burns** — systematic surgical anatomy predating modern textbooks by millennia.
-
-**Yoga as body-science**
-- **Patanjali's Yoga Sutras** (c. 2nd c. BCE–4th c. CE) — **ashtanga yoga**: yama, niyama, asana, pranayama, pratyahara, dharana, dhyana, samadhi.
-- **Asana + pranayama** = controlled **posture, breath, autonomic regulation** — ancient understanding of **mind-body physiology**.
-- Modern research validates effects on **stress, BP, flexibility, mental focus** — heritage link to **AYUSH** and **UN International Day of Yoga (21 June)**.
-- Yoga is **empirical body-science** within spiritual frame — not merely religious ritual for exam answers.
+**Yoga as body-science:** **Patanjali's Yoga Sutras** (c. 2nd century BCE–4th century CE) define **ashtanga yoga** — yama, niyama, asana, pranayama, pratyahara, dharana, dhyana, samadhi. **Asana and pranayama** constitute controlled **posture, breath, and autonomic regulation** — ancient understanding of **mind-body physiology** validated today by research on stress, blood pressure, flexibility, and mental focus. Yoga operates as **empirical body-science** within a spiritual frame, linking heritage to **AYUSH** and the **UN International Day of Yoga (21 June)**.
 
 ### Metallurgy, chemistry, and crafts — expanded timeline
 
@@ -147,21 +135,15 @@ flowchart LR
 | **Craft chemistry** | **Ajanta** mural dyes — still vivid after 1500+ years | Mineral/organic pigment technology (UNESCO 1983) |
 | **Textile chemistry** | Mordant dyeing (Indigo, madder) | Major export industry; Arabic *indigo* from Sanskrit *nila* |
 
-- **Iron Pillar of Delhi** (c. 4th c. CE, Mehrauli) — 7 m high; **98% wrought iron**; passive protective film prevents rust — emblem of ancient metallurgical science; **ASI protected**.
+The **Iron Pillar of Delhi** (c. 4th century CE, Mehrauli) stands seven metres high in **98% wrought iron** with a passive protective film preventing rust — **ASI-protected** emblem of ancient metallurgical science.
 
 ### Geometry, architecture, and engineering
 
-- **Sulvasutras** — altar construction = applied geometry predating Greek formal proofs in Indian context; **Baudhayana** theorem central to exam answers.
-- **Harappan town planning** — grid layout, drainage, baked bricks — **urban engineering** (see file 10); standardised brick ratio 4:2:1.
-- **Mauryan polish** on pillars — precision stone engineering; mirror-like finish on Chunar sandstone.
-- **Temple building** — later applied geometry for Nagara/Dravida proportions in **Shilpashastras** (Mayamata, Manasara).
+**Sulvasutras** applied geometry to altar construction — the **Baudhayana theorem** central to understanding Indian mathematical heritage in its ritual context. **Harappan town planning** demonstrates grid layout, drainage, and baked bricks as **urban engineering** with standardised brick ratio 4:2:1. **Mauryan polish** on pillars achieved mirror-like finish on Chunar sandstone — precision stone engineering. Later **Shilpashastra** texts (Mayamata, Manasara) applied geometry to Nagara and Dravida temple proportions, linking mathematical heritage to sacred architecture.
 
 ### Navigation and geography
 
-- **Monsoon (Arabic mausam from Sanskrit)** knowledge — Indian Ocean trade; seasonal sailing windows documented in classical sources.
-- **Shipbuilding** traditions; ports on western (**Lothal, Bharuch**) and eastern (**Tamralipti, Puhar**) coasts.
-- Epics/Puranas record **rivers, regions, pilgrimage geography** — descriptive, not modern cartography.
-- **Limitation:** inland empires often **neglected navy** — science existed but state priority varied (Cholas exception in medieval period).
+**Monsoon** knowledge (Arabic *mausim* from Sanskrit) enabled Indian Ocean trade with documented seasonal sailing windows — merchants timed voyages to wind patterns centuries before modern meteorology. **Shipbuilding** traditions and ports on western (**Lothal, Bharuch**) and eastern (**Tamralipti, Puhar**) coasts supported maritime commerce linking Harappan, Mauryan, and later trade networks. Epics and Puranas record **rivers, regions, and pilgrimage geography** — descriptive rather than modern cartography but evidence of systematic spatial knowledge. Inland empires often **neglected navy** development despite existing navigational science — state priority varied, with the Cholas as a notable medieval exception who combined astronomical tables with maritime expansion, proving that Indian navigational knowledge existed even when political centres did not always exploit it.
 
 ### How science developed (pattern)
 
@@ -174,34 +156,19 @@ flowchart LR
 | **Spiritual discipline** | Yoga physiology | Patanjali ashtanga |
 | **State revenue** | Land measurement | Geometry, trigonometry |
 
-- Indian science often **problem-driven** — not detached laboratory model of modern West, but genuine **empirical heritage** with testable observations (eclipses, alloy properties, surgical outcomes).
+Indian science was **problem-driven** — genuine **empirical heritage** with testable observations of eclipses, alloy properties, and surgical outcomes, even though it did not follow the detached laboratory model of modern Western science. Ritual needs drove **Vedanga Jyotisha** calendar reforms; altar construction produced **Sulva geometry**; warfare and crafts advanced **Wootz steel** and the **Iron Pillar**; healing traditions produced **Charaka and Sushruta**; spiritual discipline generated **Patanjali's yoga physiology**; and state revenue demanded land measurement using geometry and trigonometry. This pattern explains why Indian scientific heritage appears across religious, medical, and craft texts rather than in a single "science" category — the knowledge was real, observational, and applied, organised by the problems ancient society needed to solve.
 
 ### Global transmission and legacy
 
-- **Numerals and zero** — transformative global contribution (India → Arabs 873 CE → Europe); misnamed "Arabic numerals."
-- **Ayurveda, yoga, Sushruta surgery** — worldwide wellness and medical history interest; **WHO Traditional Medicine Strategy 2014–2023** includes Ayurveda.
-- **Steel, textiles, dyes** — ancient export reputation; Wootz steel prized for Damascus blades.
-- **Al-Biruni's Kitab-ul-Hind** (11th c.) — systematic record of Indian sciences for Islamic world; proves international recognition.
+**Numerals and zero** represent India's most transformative global contribution (India → Arabs 873 CE → Europe), persistently misnamed "Arabic numerals." **Ayurveda, yoga, and Sushruta surgery** attract worldwide wellness and medical history interest; the **WHO Traditional Medicine Strategy 2014–2023** includes Ayurveda. **Steel, textiles, and dyes** built ancient export reputation — Wootz steel prized for Damascus blades. **Al-Biruni's Kitab-ul-Hind** (11th century) systematically recorded Indian sciences for the Islamic world, proving international recognition across civilisations.
 
 ### Contemporary relevance
 
-- **NEP 2020 — Indian Knowledge Systems (IKS):** Mandates integration of **ancient astronomy, mathematics, Ayurveda, yoga, metallurgy, and Sulva geometry** into school and university curriculum — links heritage to **innovation identity**, not nostalgia alone.
-- **ISRO legacy:** **Aryabhata satellite (1975)** — India's first satellite named after mathematician-astronomer; **Chandrayaan, Mangalyaan** continue space science tradition cited in popular discourse as heritage → technology continuity.
-- **AYUSH Ministry (2014):** Ayurveda, yoga, unani, siddha, homeopathy — policy framework translating **Sushruta-Charaka-Patanjali heritage** into health economy and international wellness markets.
-- **CSIR and manuscript mission:** **National Mission for Manuscripts**, **CSIR-Traditional Knowledge Digital Library (TKDL)** — protects Ayurveda formulations from wrongful patents; digitises **Bakhshali, Sulvasutra, Aryabhatiya** manuscripts.
-- **Constitutional framework:** **Article 51A(h)** — develop scientific temper; **Article 51A(f)** — value heritage; **Article 49** — protect monuments (Iron Pillar, Ajanta, Harappan sites).
-- **UNESCO and sites:** **Ajanta/Ellora (1983)**, **Dholavira Harappan city (2021)** — scientific heritage embedded in protected archaeological landscapes; conservation science (Ajanta pigment chemistry) as living research.
-- **WHO and global recognition:** **International Day of Yoga (UN 2014)**; Ayurveda practice systems registered in **WHO ICD** traditional medicine chapter (ongoing integration).
-- **Critical approach:** Celebrate heritage while investing in **modern R&D (DST, DBT, ICMR)** — heritage supports identity, not substitute for contemporary science funding; avoid hypernationalist exaggeration in exam answers.
+**NEP 2020 IKS** mandates integration of **ancient astronomy, mathematics, Ayurveda, yoga, metallurgy, and Sulva geometry** into school and university curriculum — linking heritage to **innovation identity**, not nostalgia alone. **ISRO's Aryabhata satellite (1975)** and subsequent **Chandrayaan, Mangalyaan** missions continue the space science tradition cited as heritage-to-technology continuity. **AYUSH Ministry (2014)** translates **Sushruta-Charaka-Patanjali heritage** into health economy and international wellness markets. **CSIR-Traditional Knowledge Digital Library (TKDL)** and **National Mission for Manuscripts** protect Ayurveda formulations from wrongful patents and digitise **Bakhshali, Sulvasutra, and Aryabhatiya** manuscripts. **Article 51A(h)** directs scientific temper; **51A(f)** values heritage; **Article 49** protects monuments including Iron Pillar, Ajanta, and Harappan sites. **UNESCO** listing of **Ajanta/Ellora (1983)** and **Dholavira (2021)** embeds scientific heritage in protected archaeological landscapes; Ajanta pigment conservation science remains active research. **International Day of Yoga (UN 2014)** and WHO integration of Ayurveda in **ICD** traditional medicine chapters demonstrate global recognition. Critical approach remains essential: celebrate heritage while investing in **modern R&D (DST, DBT, ICMR)** — heritage supports identity but cannot substitute contemporary science funding; avoid hypernationalist exaggeration.
 
 ### Limits and balanced view
 
-- Avoid **hypernationalist exaggeration** ("every modern invention in Vedas") — examiners penalise uncritical claims.
-- **Social context:** science often **elite/priestly**; not mass literacy; women and lower varnas largely excluded from formal knowledge production.
-- **Kanada atomism** = philosophical model — do not equate with modern nuclear physics.
-- **Baudhayana theorem** = applied construction rule — not formal Greek-style deductive proof system.
-- Some claims **debated** (exact dates, independent vs syncretic Greek contact via Romaka Siddhanta).
-- **Separate from:** Gupta-only science (07), Vishwaguru civilizational frame (08) — this file spans **Harappan to Bhaskara II**.
+Avoid **hypernationalist exaggeration** such as claiming every modern invention appears in the Vedas — such claims undermine credibility. **Social context** mattered: science was often **elite and priestly**, not mass literacy; women and lower varnas were largely excluded from formal knowledge production. **Kanada's atomism** is a philosophical model — not modern nuclear physics. The **Baudhayana theorem** is an applied construction rule — not a formal Greek-style deductive proof system. Some claims remain **debated** regarding exact dates and the balance between independent development and syncretic Greek contact via Romaka Siddhanta. Indian scientific heritage spans **Harappan metrology through Bhaskara II** — a multi-millennial legacy best understood through critical, evidence-based study rather than uncritical pride or dismissive minimisation.
 
 ---
 

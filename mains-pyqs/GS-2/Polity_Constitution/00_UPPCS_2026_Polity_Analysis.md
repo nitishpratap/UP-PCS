@@ -10,7 +10,7 @@
 | Question | Answer |
 |----------|--------|
 | **Is this block Mains-ready?** | **Yes** for Polity & Constitution syllabus (Topics 1–10) |
-| **Enough for 2026 without books?** | **~85–90%** — supplement current affairs (Jan–May 2026) only |
+| **Enough for 2026 without books?** | **Yes for syllabus Content** — each topic file is book-free bible depth; supplement only live CA (Jan–May 2026) |
 | **Biggest ROI files** | `01`, `02`, `09`, `06`, `04` |
 | **Weakest ROI (quick pass only)** | `05` (2 PYQs), `10` (1 PYQ) |
 | **Must refresh before exam** | Electoral bonds 2024 SC judgment, ECI Act 2023, Governor/ONOE news |

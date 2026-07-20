@@ -62,70 +62,51 @@ TRAPS: Moderates ≠ pro-British loyalists only | Extremists ≠ armed revolutio
 
 ## Content
 
-### Context — Congress and the Moderate–Extremist divide
+### Context — nationalism's first strategic divide inside Congress
 
-- After **Indian National Congress (1885)** — founded by **A.O. Hume, Dadabhai Naoroji, Gopal Krishna Gokhale, Allan Octavian Hume** with **Moderate leadership** — nationalist politics centred on **constitutional petitioning** and **moral persuasion** of the British.
-- By **1905**, failure to stop **Partition of Bengal (Curzon)**, rising **economic nationalism**, and **cultural awakening** produced **Extremist** challenge led by **Lal-Bal-Pal** (**Lala Lajpat Rai, Bal Gangadhar Tilak, Bipin Chandra Pal**) and **Aurobindo Ghosh**.
-- **UPPCS 2025 question** asks **critical explanation** of Extremism as **reaction against Moderate ideas AND modus operandi** — must cover **both ideology and methods**, with **balanced critique**.
+After the **Indian National Congress** was founded in **1885**—with **A.O. Hume**, **Dadabhai Naoroji**, **Gopal Krishna Gokhale**, and others—nationalist politics for two decades centred on **constitutional petitioning** and **moral persuasion** of the British. **Moderates** dominated until **1905**, when **Lord Curzon's Partition of Bengal**, rising **economic nationalism**, and **cultural awakening** produced an **Extremist** challenge led by **Lal-Bal-Pal** (**Lala Lajpat Rai, Bal Gangadhar Tilak, Bipin Chandra Pal**) and **Aurobindo Ghosh**.
 
-### Who were the Moderates (1885–1905)
+**What** divided them: not the goal of Indian self-rule in broad terms, but **faith in British institutions**, **timeline**, and **methods of agitation**. **How** Extremism emerged: Moderate **petitions and council speeches** failed to reverse **Partition (1905)**; **1907 deportations** and **sedition trials** convinced radicals that **"political mendicancy"** (Tilak's phrase) was futile. **Why** the divide matters: it transformed Congress from an **elite club** toward **mass politics**, directly preceding **Gandhi's satyagraha (1919+)**. **Proof**: **Swadeshi movement (1905)**, **Surat Split (1907)**, and **Lucknow reunion (1916)** mark the arc from rupture to synthesis.
 
-**Leaders**
-- **Dadabhai Naoroji** — **Grand Old Man of India**; **drain of wealth theory**; **Congress president 1886, 1893**; MP in **British House of Commons**.
-- **Gopal Krishna Gokhale** — **Servants of India Society (1905)**; mentor tradition (later **Gandhi**); **legislative reformist**.
-- **Surendranath Banerjea** — **Indian Association (1876)**; **Indian Mirror**; **Partition of Bengal opposition** but **Moderate methods**.
-- **Pherozeshah Mehta, Feroze Shah Mehta** — **Bombay** lawyer-politician; **municipal reform**.
-- **W.C. Bonnerjee** — first **Congress president (1885)**.
+### Moderates (1885–1905) — faith, method, and achievements
 
-**Ideas (what Extremists reacted against)**
-- **Faith in British liberalism:** Belief that **British public opinion** and **Parliament** would grant ** gradual self-government** if **facts presented** rationally.
-- **Colonial rule as reformable:** **Not immediate independence** — aim **greater Indian representation**, **civil rights**, **economic justice** within empire initially.
-- **Gradualism:** **"Political mendicancy"** (Tilak's critique) — **petitions, memoranda, prayers** to government.
-- **Legal-constitutional path:** Work through **Imperial Legislative Council**, **provincial councils** — **Indian Councils Act 1892** seen as **Moderate victory**.
+**Who they were**: **Dadabhai Naoroji** ("Grand Old Man of India") formulated **drain-of-wealth theory**, presided over Congress in **1886 and 1893**, and sat in the **British House of Commons**. **Gopal Krishna Gokhale** founded the **Servants of India Society (1905)** and mentored a generation including **Gandhi**. **Surendranath Banerjea** led the **Indian Association (1876)**, edited the **Indian Mirror**, and opposed **Partition** but through Moderate methods. **Pherozeshah Mehta** and **Feroze Shah Mehta** dominated **Bombay** municipal politics. **W.C. Bonnerjee** was the first **Congress president (1885)**.
 
-**Modus operandi (methods)**
-- **Annual Congress sessions** — resolutions on **civil rights, civil service, military expenditure, drain of wealth**.
-- **Press and speeches** — **moderate tone**, **English language** elite discourse.
-- **No mass boycott**, **no swadeshi as weapon** (pre-1905), **no cultural mobilisation through festivals** at national scale.
-- **Collaboration with reform-minded British** — **Hume, Wedderburn** allies early Congress.
+**Ideas Moderates held—and Extremists later rejected**:
+- **Faith in British liberalism**: They believed **British public opinion** and **Parliament** would grant **gradual self-government** if Indians presented rational evidence of colonial injustice.
+- **Reformable empire**: Independence was not the immediate demand; **greater representation**, **civil rights**, and **economic justice** within the empire came first.
+- **Gradualism**: Change through **petitions, memoranda, prayers, and resolutions**—what Tilak condemned as **political mendicancy**.
+- **Legal-constitutional path**: Work through the **Imperial Legislative Council**; treat the **Indian Councils Act 1892** as a meaningful victory.
 
-**Moderate achievements (critical balance — not "failures only")**
-- **National awakening** — unified **elite across regions**; **economic critique** (**Naoroji, R.C. Dutt**) exposed **colonial exploitation**.
-- **Legal gains:** **Indian Councils Act 1892** — expanded nomination/indirect representation.
-- **Social reform link:** **Gokhale** on **education, famine relief**; **Banerjea** on **public grievances**.
-- **Limits (Extremist grievance):** **Could not prevent Partition of Bengal 1905**; **no mass base**; **British ignored** most demands — **Lyallpur deportations (1907)**, **Press Acts**.
+**Modus operandi**: Annual **Congress sessions** passed resolutions on **civil rights, Indianisation of civil service, military expenditure, and drain of wealth**. **English-language press** addressed colonial officials and British audiences. There was **no mass boycott**, **no swadeshi weaponisation** before **1905**, and **no festival-based mobilisation** at national scale. Early Congress **collaborated with reform-minded British** allies like **Hume and Wedderburn**.
 
-### Who were the Extremists (1905–1917)
+**What Moderates achieved**: They built **national awakening** among elites, unified regional leadership, and supplied **economic critique** (**Naoroji, RC Dutt**) exposing colonial exploitation. The **Indian Councils Act 1892** expanded nomination and indirect representation—a **Moderate gain** Extremists found **inadequate**. **Gokhale** worked on **education and famine relief**; **Banerjea** raised **public grievances**. **What they could not do**: prevent **Partition of Bengal (1905)**; mobilise masses; stop **Lyallpur deportations (1907)** and **Press Acts**.
 
-**Leaders — Lal-Bal-Pal**
-- **Bal Gangadhar Tilak (1856–1920)** — **Maharashtra**; **Kesari, Maratha** newspapers; **"Swaraj is my birthright"** (popularised); **Ganesh/Gokulashtami festivals** for mass nationalism.
-- **Bipin Chandra Pal (1858–1932)** — **Bengal**; fiery oratory; **New India**; **boycott-swadeshi** ideologue.
-- **Lala Lajpat Rai (1865–1928)** — **Punjab**; **social reform + nationalism**; **deported 1907 (Minto)**; died **1928 lathi charge** protesting **Simon Commission**.
+### Partition of Bengal (1905) — the trigger Extremism needed
 
-**Other Extremists**
-- **Aurobindo Ghosh** — **Bengal**; **Bande Mataram**; spiritual nationalism; later **retired to Pondicherry (1910)**.
-- **Lala Lajpat Rai, Ashwini Kumar Dutt** — Punjab-Bengal links.
+**What Curzon did**: On **16 October 1905**, **Lord Curzon** divided **Bengal** into **East Bengal and Assam** (Muslim-majority east) and **West Bengal** (Hindu-majority west), ostensibly for **administrative efficiency**. **Why** Indians rejected this: they read it as **divide et impera**—using **religious census categories** to weaken **Bengali nationalist unity**, then the strongest regional voice in Congress. **How** Moderates responded: **Surendranath Banerjea** led **meetings, petitions, and the Rakhi Bandhan** protest—but **no Partition reversal** came. **How** Extremists responded: **boycott of British goods**, **swadeshi**, **national schools**, and **Bande Mataram** as a mobilising cry. **Proof** of Moderate failure as trigger: the same leaders who had celebrated **1892 Councils Act** now watched **imperial policy ignore constitutional protest**—discrediting **faith in British fairness** and validating **Tilak's anti-mendicancy critique**.
 
-**Extremist ideas (reaction to Moderate ideas)**
-- **Rejection of "British sense of justice":** **Curzon's Partition of Bengal (1905)** — proof **appeals useless**; **British imperialism** not benevolent.
-- **Immediate self-respect and swaraj:** **Swadeshi, swaraj, national education** — not distant **gradual reform**.
-- **Positive nationalism:** **Pride in ancient civilisation** — **Tilak's Bhagavad Gita interpretation**, **Pal's cultural nationalism** — contrast Moderate **imitation of British constitutionalism**.
-- **Anti-mendicancy:** **"Prayer and petition"** replaced by **self-reliant action** — **boycott foreign goods**, **build national schools**.
+### Extremists (1905–1917) — swaraj, self-reliance, and mass line
 
-**Extremist modus operandi (reaction to Moderate methods)**
+**Leaders**: **Bal Gangadhar Tilak (1856–1920)** edited **Kesari** and **Maratha**, popularised **"Swaraj is my birthright"**, and politicised **Ganesh and Gokulashtami festivals** from the **1890s onward**. **Bipin Chandra Pal (1858–1932)** led **New India** and preached **boycott–swadeshi**. **Lala Lajpat Rai (1865–1928)**, Punjab's lion, combined **social reform with nationalism**, was **deported in 1907 under Minto**, and died in **1928** protesting the **Simon Commission**. **Aurobindo Ghosh** ran **Bande Mataram**, headed **Bengal National College**, was acquitted in the **Alipore bomb case (1909)**, then **retired to Pondicherry (1910)**.
+
+**Ideas Extremists advanced**:
+- **Rejection of British justice**: **Curzon's Partition (1905)** proved appeals useless; **imperialism was exploitative**, not benevolent.
+- **Swaraj as immediate self-respect**: Not distant gradual reform but **swadeshi, national education, and boycott** now.
+- **Positive nationalism**: Pride in **ancient civilisation**—**Tilak's Gita interpretation**, **Pal's cultural nationalism**—versus Moderate imitation of British constitutionalism.
+- **Anti-mendicancy**: Replace **prayer and petition** with **self-reliant action**.
 
 | Moderate method | Extremist alternative |
 |-----------------|----------------------|
 | Petitions to Viceroy/Secretary of State | **Mass meetings, hartals, boycott** |
-| Council speeches | **Street mobilisation, festivals** |
-| Faith in British law | **Passive resistance**, violate **unjust laws** (seeds of **Gandhi**) |
-| Elite English discourse | **Vernacular press** (**Kesari, Bande Mataram**) |
-| Wait for reforms | **Swadeshi movement (1905)** immediate action |
+| Council speeches | **Street mobilisation, politicised festivals** |
+| Faith in British law | **Passive resistance**; violate unjust laws (seeds of **Gandhi**) |
+| Elite English discourse | **Vernacular press**—**Kesari, Bande Mataram, New India** |
+| Wait for reforms | **Swadeshi movement (1905)** as immediate action |
 
-**Constructive programme (critical nuance — Extremism not mere "violence")**
-- **Swadeshi:** **Khadi, handloom, indigenous industry** — economic **self-strength**.
-- **National education:** **Bengal National College (Aurobindo principal)**, **Tilak's schools** — **boycott of government colleges**.
-- **Samiti network:** **Anushilan Samiti, Swadesh Bandhab Samiti (Ashwini Coomar Dutt)** — **relief, arbitration, physical culture** (some drift to **revolutionary terrorism** — separate subtopic).
+**Constructive programme—Extremism was not mere negation**: **Swadeshi** promoted **khadi, handloom, indigenous industry**. **National education**—**Bengal National College (Aurobindo as principal)**, **Tilak's schools**—boycotted government colleges. **Samiti networks** like **Anushilan Samiti** and **Swadesh Bandhab Samiti (Ashwini Coomar Dutt)** ran **relief, arbitration, and physical culture**—some drifted toward **revolutionary terrorism**, a **separate strand** from **Lal-Bal-Pal mass Extremism**.
+
+**Swadeshi in practice**: **What** it meant—reject **Manchester cloth**, **foreign salt and sugar**, and **Colonial imports**; promote **indigenous mills, handlooms, and national capital**. **How** it spread—**picketing**, **bonfires of foreign cloth**, **marches**, and **merchant pledges** in **Calcutta, Bombay, and Punjab**. **Why** it mattered economically—it translated **Naoroji's drain theory** into **popular action**, prefiguring **Gandhi's khadi campaigns**. **Why** it mattered politically—it gave Congress a **mass-visible weapon** petitions lacked. **Ashwini Kumar Dutt's Swadesh Bandhab Samiti** in **Barisal** combined **arbitration courts, famine relief, and swadeshi propaganda**—showing Extremism's **constructive**, not merely destructive, face.
 
 ```mermaid
 flowchart TD
@@ -137,95 +118,77 @@ flowchart TD
   R --> G[Gandhi mass satyagraha 1919+]
 ```
 
-### Extremism as reaction — detailed analysis (PYQ core)
+### Extremism as reaction — ideas, methods, and critical evaluation
 
-**1. Reaction against Moderate IDEAS**
+**Reaction against Moderate ideas**:
 
 | Moderate idea | Extremist reaction | Evidence |
 |---------------|-------------------|----------|
-| British justice fair | **Imperialism exploitative** — **Partition 1905** deliberate divide | **Curzon**, **Minto's repression 1907** |
-| Gradual self-government | **Swaraj now** — national dignity | **Tilak's Kesari**, **Pal's speeches** |
-| Empire beneficial if reformed | **Economic nationalism** — **swadeshi** as political weapon | **Boycott of Manchester cloth** |
-| Constitutional loyalty | **Cultural revival** — **Ganesh utsav politicised (Tilak 1893+)** | Mass Hindu festivals as **nationalist platforms** |
+| British justice is fair | Imperialism is **exploitative** | **Partition 1905**; **Minto's repression 1907** |
+| Gradual self-government | **Swaraj now**—national dignity | **Tilak's Kesari**, **Pal's speeches** |
+| Empire beneficial if reformed | **Swadeshi** as economic weapon | **Boycott of Manchester cloth** |
+| Constitutional loyalty | **Cultural revival** via mass festivals | **Tilak's Ganesh utsav** as nationalist platform |
 
-**2. Reaction against Moderate MODUS OPERANDI**
+**Reaction against Moderate modus operandi**: The **1906 six-point petition to Morley** brought **no Partition reversal**. **1892 Councils Act** offered **no real power**. Extremists reached **students, artisans, and partial peasant layers** through **vernacular press and festivals** where Moderates spoke only to **lawyer-elites**. At **1905 Benares Congress**, Moderates hesitated on full boycott; at **1906 Calcutta**, under **Naoroji's presidency**, **swaraj resolution** emerged with compromise wording—**"self-government like colonies"**—under **Extremist pressure**.
 
-- **Petitions failed:** **Six-point petition 1906** to **Morley** — **no reversal of Partition**; **Moderate reliance on British Parliament** discredited after **1907 deportations** (**Lajpat Rai, Tilak trials**).
-- **Council politics insufficient:** **1892 Councils Act** — **no real power**; Extremists demanded **boycott of councils** (later **Gandhi's Non-Cooperation** extends this).
-- **No mass line:** Moderates = **lawyer-elite**; Extremists reached **students, artisans, peasants partially** via **vernacular press and festivals**.
-- **Timidity on boycott:** **1905 Congress Benares** — Moderates **hesitant on full boycott**; **Extremists pushed swadeshi resolution** at **Calcutta 1906** (** Dadabhai Naoroji president** — compromise wording **"self-government like colonies"**).
+**Critical evaluation—the statement is substantially true but incomplete**:
+- **True**: Extremism grew from **Moderate failure** within the **same nationalist stream**; **1905 Partition** was the decisive trigger; methods genuinely inverted from **mendicancy to self-help**, **elite to mass attempts**.
+- **Incomplete**: Extremists **did not discard all Moderate work**—they still used **Congress platform**, **drain theory**, and **legal idioms**. **Tilak** later bridged phases through **Home Rule (1916)** with **Annie Besant**; **Gokhale and Tilak** respected each other despite differences. **Surat Split (1907) weakened the movement**—Congress was largely **inactive 1908–1916**. Some Extremist methods had **communal edges** (**Bande Mataram** controversies, **shuddhi** overlaps). **Revolutionary terrorism** (**Khudiram Bose, Alipore bomb 1908**) was a **separate strand**—not identical to **Lal-Bal-Pal**.
 
-**3. Critical evaluation — statement is partly true, partly incomplete**
+| Shared nationalist ground | Moderate contribution | Extremist addition |
+|---------------------------|----------------------|-------------------|
+| Anti-colonial economic critique | **Naoroji's drain theory**, **RC Dutt** | **Swadeshi boycott** as popular weapon |
+| Congress as platform | Founded **1885**, annual resolutions | **Mass sessions, hartals, festivals** |
+| Constitutional vocabulary | **1892 Councils Act** lobbying | **Passive resistance**, law violation |
+| All-India symbolism | Elite unity across presidencies | **Bande Mataram**, **vernacular press** |
 
-**True aspects:**
-- Extremism **emerged from Moderate failure** and **same nationalist stream** — **Naoroji presided 1906** with **Extremist pressure**.
-- **Methods genuinely inverted** — **mendicancy → self-help**; **elite → mass attempts**.
-- **1905 Partition** = **decisive trigger** — Moderate **protests, petitions** could not stop it.
+### Surat Split (1907) — causes and consequences
 
-**Incomplete / critical limits:**
-- **Extremists did not reject all Moderate work** — still used **Congress platform**, **drain theory (Naoroji)**, **legal idioms**.
-- **Extremism not uniform** — **Tilak** later **Moderate-Extremist bridge** (**Home Rule 1916** with **Annie Besant**); **Gokhale** and **Tilak** had **mutual respect** despite differences.
-- **Surat Split weakened movement** — **1908–1916** Congress **inactive** — **reaction also had costs**.
-- **Some Extremist methods** bordered **communal** (**Bande Mataram** controversies, **Shuddhi** overlaps) — **not purely progressive**.
-- **Revolutionary terrorism** ( **Khudiram Bose, Alipore bomb 1908** ) — **separate strand** from **Lal-Bal-Pal mass Extremism** — do not conflate.
+**Background**: **1906 Calcutta Congress** under **Dadabhai Naoroji** passed a **Swaraj resolution**; Extremists gained strength. **1907 session at Surat** proposed **Rash Behari Ghosh** (Moderate) as president; **Extremists wanted Tilak**.
 
-### Surat Split (1907) — climax of Moderate–Extremist clash
+**Issues at Surat (December 1907)**:
+- **Morley–Minto reforms**: Moderates inclined to **work councils**; Extremists **rejected inadequate reforms**.
+- **Boycott resolution wording**: Moderates feared **illegality and repression**; Extremists demanded **stronger swadeshi/boycott** language.
+- **Personal rivalry**: **Mehta vs Tilak**—**Bombay–Pune tensions**.
 
-**Background**
-- **1906 Calcutta Congress** — **Dadabhai Naoroji** — **Swaraj resolution** (vague self-gov); **Extremists** gained strength.
-- **1907 Congress scheduled Surat** — **Rash Behari Ghosh** (Moderate) proposed president; **Extremists wanted Tilak**.
+**Outcome**: **Physical clash** on the platform; **Congress split**; **1908 Madras session** was **Moderate-only**; Extremists held **parallel meetings**. **Government repression** followed: **Tilak sentenced (1908)** to **six years in Mandalay (Burma)** for **seditious writings**; **Aurobindo acquitted (1909)** then withdrew to **Pondicherry**.
 
-**Issues at Surat (December 1907)**
-- **Acceptance of Morley-Minto reforms?** Moderates inclined to **work councils**; Extremists **reject as inadequate**.
-- **Method of agitation:** **Boycott resolution** wording — **Moderates fear illegalities, repression**.
-- **Personal rivalry:** **Mehta vs Tilak** — **Bombay-Pune tensions**.
+**Consequences**: Temporary **weakening of united nationalist front**; partial **Bengal Extremist drift toward underground revolution**; eventual **Lucknow Pact reunion (1916)** through **Tilak–Besant Home Rule** and the **Montagu declaration (1917)** opening a new phase.
 
-**Outcome**
-- **Physical clash** on platform — **Congress split**; **1908 session Moderates only** ( **Madras** ); **Extremists held separate meetings**.
-- **Government repression:** **Tilak sentenced (1908)** — **Mandalay (Burma) 6 years** for **seditious writings**; **Aurobindo** acquitted **Alipore bomb case (1909)** then retired.
+### From rupture to synthesis — Home Rule and Gandhi
 
-**Consequences**
-- **Temporary weakening** of **national united front**.
-- **Extremists pushed underground/revolutionary** in Bengal partly.
-- **Reunion:** **Lucknow Pact 1916** — **Tilak, Besant Home Rule**; **Montagu declaration 1917** — new phase.
+**Why reunion became possible**: By **1916**, both wings recognised that **British constitutional offers** (**Montagu declaration 1917** promising gradual self-government) required a **united front**. **Tilak's Home Rule League (1916)** and **Annie Besant's league** mobilised masses through **constitutional–radical hybrid** tactics—petition plus **mass meeting**—bridging Moderate institutionalism and Extremist mobilisation. **Lucknow Pact (1916)** reunited Congress and paired with **Muslim League** demands, showing **Surat was not permanent**. **Gandhi (from 1919)** then synthesised streams: **Moderate moral constitutionalism** (appeals to justice, law-breaking only with **truth/non-violence**) with **Extremist mass boycott and swadeshi**—surpassing both in **geographic reach** (**Champaran 1917, Rowlatt 1919, Non-Cooperation 1920–22**). Extremism was therefore a **necessary intermediate explosion** after Moderate deadlock, not the final form of nationalism.
 
-### Comparison table — Moderates vs Extremists (exam-ready)
+### Comparison — Moderates versus Extremists
 
 | Aspect | **Moderates** | **Extremists** |
 |--------|---------------|----------------|
 | **Period** | **1885–1905** dominant | **1905–1917** rise |
 | **Leaders** | **Naoroji, Gokhale, Banerjea, Mehta** | **Tilak, Pal, Lajpat Rai, Aurobindo** |
-| **Goal (stated)** | Reforms, gradual self-gov | **Swaraj**, immediate self-respect |
+| **Goal (stated)** | Reforms, gradual self-government | **Swaraj**, immediate self-respect |
 | **British faith** | **High** initially | **Rejected** post-1905 |
 | **Methods** | **Petition, council, prayer** | **Boycott, swadeshi, mass mobilisation** |
-| **Social base** | **Elite, English-educated** | **Wider — vernacular middle class, students** |
-| **Press** | **Moderate English papers** | **Kesari, Bande Mataram, New India** |
-| **Assessment** | **Foundation builders** | **Massifiers — also split costs** |
+| **Social base** | **Elite, English-educated** | **Broader vernacular middle class, students** |
+| **Press** | Moderate English papers | **Kesari, Bande Mataram, New India** |
+| **Assessment** | **Foundation builders** | **Massifiers—with split costs** |
 
-### Significance and legacy
+### Significance and legacy — toward Gandhi and constitutional India
 
-- **Extremist phase** transformed Congress from **elite club** toward **mass politics** — **direct precursor** to **Gandhi's satyagraha (1919+)**.
-- **Swadeshi (1905)** — **economic weapon** reused in **Non-Cooperation, Civil Disobedience**.
-- **Moderate legacy** — **constitutionalism, economic critique, international lobbying (Naoroji in UK)** — **independent India's parliamentary culture**.
-- **Synthesis post-1916:** **Tilak + Besant Home Rule**; **Gandhi** combined **Moderate moral law** with **Extremist mass action**.
+The **Extremist phase** pushed Congress from **elite club** toward **mass politics**—a **direct precursor** to **Gandhi's satyagraha (1919+)**. **Swadeshi (1905)** reappeared in **Non-Cooperation** and **Civil Disobedience**. **Moderate legacy**—**constitutionalism, economic critique, Naoroji's UK lobbying**—shaped **independent India's parliamentary culture** through **Indian Councils Acts**, **1919/1935 Acts**, and the **Constitution (1950)**. Post-**1916 synthesis**: **Tilak + Besant Home Rule**; **Gandhi** combined **Moderate moral law** with **Extremist mass action**. **Banerjea opposed Partition** with Moderate methods but failed—proving the **trigger** for Extremist rise.
+
+**Government response under Minto (1907)**—**deportation of Lala Lajpat Rai**, **Press Acts**, **Tilak's sedition trial**—confirmed Extremist claims that **constitutional loyalty invited repression, not reform**. **Aurobindo's acquittal in the Alipore bomb case (1909)** showed jury sympathy in Bengal, yet he **retired to Pondicherry**, symbolising how **state pressure** could neutralise even acquitted radicals while driving others toward **underground revolution**.
+
+**Muslim League's Simla deputation (1906)**—seeking separate electorates—developed **alongside** Extremist Hindu mobilisation, not inside it: **communal politics** and **Extremist nationalism** were **parallel responses** to **Curzon's Partition**, reminding us that **anti-Moderate reaction** was not a single unified bloc but a **fracturing field** of strategies.
+
+**Dadabhai Naoroji as Congress president (1906 Calcutta)** embodies the **overlap**: a **Moderate** presiding over a **Swaraj resolution** pressed by **Extremists** proves the reaction was **internal to nationalism**—a family quarrel over **speed and method**, not over whether **British rule was ultimately legitimate**. **Surat did not permanently destroy Congress**—**Lucknow 1916** reunited wings before **Gandhi's** all-India campaigns. **Gandhi (1919+)** was **not a 1905 Extremist**—he **synthesised** Moderate ethics with **mass satyagraha**, exceeding both earlier phases in **scale and moral framing**. **Tilak was not a Moderate**—he led **Extremist** politics before **Home Rule (1916)** bridged tactics.
 
 ### Contemporary relevance
 
-- **Article 51A(a):** Duty to **abide by Constitution** — echoes debate **constitutional vs extra-constitutional** methods (Moderate legacy vs mass agitation).
-- **Article 51A(f):** Value **freedom struggle heritage** — **Azadi Ka Amrit Mahotsav** commemorates **Lal-Bal-Pal** alongside **Gandhi-Nehru**.
-- **NEP 2020:** Teaches **multiple phases of nationalism** — **Moderate, Extremist, Gandhian, Revolutionary** as **critical history**, not single narrative.
-- **Parliamentary democracy:** **Moderate council work** → **Indian Councils Acts** → **Government of India Act 1919/1935** → **Constitution 1950** — institutional continuity.
-- **Swadeshi–Atmanirbhar parallel:** **1905 boycott** cited in **contemporary economic nationalism** discourse (historical analogy, not identical policy).
-- **Partition of Bengal memory:** **1905 division** and **1905 swadeshi** — **Bangladesh-India cultural links**, **museum heritage** (Victoria Memorial exhibitions).
-- **Press freedom:** **Tilak sedition trials** — precedent for **Article 19(1)(a)** free speech debates.
+**Article 51A(a)**—duty to abide by the **Constitution**—echoes enduring debate over **constitutional versus extra-constitutional** methods (Moderate legacy versus mass agitation). **Article 51A(f)** mandates valuing **freedom-struggle heritage**; **Azadi Ka Amrit Mahotsav** commemorates **Lal-Bal-Pal** alongside **Gandhi–Nehru**. **NEP 2020** teaches **Moderate, Extremist, Gandhian, and Revolutionary** phases as **critical history**. **Parliamentary democracy** traces institutional continuity from **Moderate council work** through **1919/1935 Acts** to **1950**. **Swadeshi–Atmanirbhar** analogies cite **1905 boycott** in contemporary **economic nationalism** discourse (historical parallel, not identical policy). **Partition of Bengal memory** informs **heritage exhibitions** and **India–Bangladesh cultural links**. **Tilak's sedition trials** prefigure **Article 19(1)(a)** free-speech debates.
 
 ### Limits and balanced view
 
-- **Binary oversimplification trap:** Many leaders **straddled phases** — **Tilak (Extremist → Home Rule moderate)**; **Banerjea (Moderate but anti-Partition)**.
-- **Extremists did not achieve swaraj immediately** — **repression succeeded** short term.
-- **Mass base still limited** compared to **Gandhi era (1919–1942)** — **Extremism = intermediate** phase.
-- **Regional variation:** **Extremism strongest Bengal, Maharashtra, Punjab** — **Madras more Moderate (Rajagopalachari)**.
-- **Communal undertones:** **Bande Mataram**, **religious festivals** — **debated inclusivity**; **Muslim League separate trajectory** ( **Simla deputation 1906** ).
+The **Moderate–Extremist binary oversimplifies**: **Tilak** moved from **Extremist to Home Rule moderate**; **Banerjea** was **Moderate yet anti-Partition**. **Extremists did not win swaraj immediately**—**repression succeeded** short term. Their **mass base remained limited** compared to **Gandhi (1919–1942)**—Extremism was an **intermediate phase**. **Regional variation** mattered: Extremism was strongest in **Bengal, Maharashtra, and Punjab**; **Madras stayed more Moderate (Rajagopalachari)**. **Communal undertones** in **Bande Mataram** and **religious festivals** raise **inclusivity debates**; the **Muslim League's Simla deputation (1906)** followed a **separate trajectory**. **Moderates were nationalists**, not traitors—they sought **self-government** through **British institutions**. **Surat did not permanently destroy Congress**—**Lucknow 1916 reunited** it. **Naoroji remained Moderate** even while presiding over **1906** under Extremist pressure. **"Political mendicancy"** was **Tilak's critique of Moderate petition politics**, not Extremist praise. **Extremists did not uniformly use bombs**—**Khudiram Bose** represents **revolutionary terrorism**, a **separate strand** from **Lal-Bal-Pal boycott politics**.
 
 ---
 

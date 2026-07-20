@@ -59,21 +59,21 @@ CONTEMPORARY: National Museum Delhi · CSMVS Mumbai · NEP 2020 IKS art history 
 
 ### Context — evolution of Indian painting
 
-Indian painting history spans **monumental murals** to **court miniatures** — a continuous thread of **narrative, colour, and patronage** adapting to new mediums and political centres.
+Indian painting history spans monumental murals to portable court miniatures — a continuous thread of narrative ambition, colour mastery, and patronage adaptation across changing mediums and political centres. The lineage begins at Ajanta with buon fresco Jataka narratives whose naturalism and mineral-pigment chemistry set a figure-and-colour standard that later manuscript artists inherited indirectly. Jain palm-leaf manuscripts from the eighth century onward carried marginal miniatures with gold, strict Tirthankara iconometry, and decorative borders. Fifteenth-century Malwa and Gujarat provincial schools on paper prepared the ground for Mughal imperial karkhanas. After Aurangzeb's contraction of court patronage, artists dispersed to Rajput desert courts and Himalayan foothill kingdoms, producing Rajasthani and Pahari schools whose bhakti themes and bold palettes define popular imagery of Krishna-Radha art today. Deccan sultanates maintained parallel Persianate miniature traditions at Ahmednagar, Bijapur, Golconda, and Hyderabad.
 
 | Phase | Medium | Period | Hallmarks |
 |-------|--------|--------|-----------|
-| **Ajanta** | **Fresco** on cave walls | 2nd c. BCE–7th c. CE | Jataka narratives, naturalism, Gupta-Vakataka peak (Caves 1, 2, 16, 17) |
-| **Jain manuscripts** | **Palm-leaf**, later paper | 8th c. onward | Marginal miniatures, gold, strict **Tirthankara** iconography |
-| **Sultanate provincial** | Paper | 15th c. | **Malwa, Gujarat** — early miniature tradition pre-Mughal |
+| **Ajanta** | Fresco on cave walls | 2nd c. BCE–7th c. CE | Jataka narratives, naturalism, Gupta–Vakataka peak (Caves 1, 2, 16, 17) |
+| **Jain manuscripts** | Palm-leaf, later paper | 8th c. onward | Marginal miniatures, gold, strict Tirthankara iconography |
+| **Sultanate provincial** | Paper | 15th c. | Malwa, Gujarat — pre-Mughal miniature tradition |
 | **Mughal** | Paper, imperial karkhana | 16th–17th c. | Realism, portraiture, court history, natural history |
-| **Rajasthani & Pahari** | Paper, court ateliers | 17th–19th c. | Bhakti themes, Ragamala, post-Mughal dispersal |
+| **Rajasthani and Pahari** | Paper, court ateliers | 17th–19th c. | Bhakti themes, Ragamala, post-Mughal dispersal |
 | **Deccan** | Paper | 16th–17th c. | Persianate sultanate courts — distinct palette and themes |
 
 ```mermaid
 flowchart TD
   A[Ajanta fresco<br/>narrative naturalism] --> J[Jain manuscript art<br/>gold · iconometry]
-  J --> P[Provincial Malwa/Gujarat<br/>15th c. miniatures]
+  J --> P[Provincial Malwa-Gujarat<br/>15th c. miniatures]
   P --> M[Mughal karkhana<br/>Akbar–Jahangir]
   M --> R[Rajasthani schools<br/>Rajput courts]
   M --> PH[Pahari schools<br/>hill kingdoms]
@@ -83,122 +83,81 @@ flowchart TD
   AU --> PH
 ```
 
-### What is miniature painting
+### What miniature painting is
 
-- **Miniature painting** = **small-scale, highly detailed painting** on **paper or cloth** — the term refers to **technique and format**, not merely a tiny subject.
-- **Opaque watercolour** — pigments mixed with gum arabic; layered washes; fine **squirrel-hair brushes** (single-hair tips for faces).
-- Distinguished from **Ajanta mural fresco** by medium (portable paper vs wall plaster) and **court/album patronage** context.
-- Common elements: **decorative borders** (floral, gold), **calligraphy**, **profile view** (early), **shaded modelling** (Mughal adds depth and foreshortening).
-- Formats: **manuscript illustration** (Akbarnama folios), **album leaf (muraqqa)**, **Ragamala series**, **Barahmasa** (twelve months) sets.
+Miniature painting denotes small-scale, highly detailed opaque watercolour on paper or cloth — the term describes technique and manuscript-album format, not merely tiny subject matter. Pigments mixed with gum arabic produce layered washes; squirrel-hair brushes with single-hair tips render facial detail. Miniatures differ from Ajanta mural fresco by portable medium and court-album patronage context. Common elements include decorative floral or gold borders, calligraphy, early profile views evolving toward shaded modelling under Mughal influence, and formats such as manuscript illustration (Akbarnama folios), album leaves (muraqqa), Ragamala series visualising musical raga as human figures, and Barahmasa sets depicting twelve months of seasonal love poetry.
 
-### Mughal miniature painting — detailed features
+### Mughal miniature painting — institution and development
 
-**Institutional foundation**
-- **Humayun** brought **Persian masters** from Safavid court — **Mir Sayyid Ali**, **Abdus Samad** — after exile (**c. 1555**).
-- **Akbar** formalised imperial **karkhana** (atelier) — artists of **multiple faiths and regions** recruited by talent.
+Humayun brought Persian masters Mir Sayyid Ali and Abdus Samad from the Safavid court after exile, establishing on return circa 1555 the atelier model Akbar formalised as the imperial karkhana recruiting artists by talent regardless of faith or region.
 
-**Akbar era (1556–1605)**
-- Master artists: **Daswant, Basawan, Farrukh Beg, Mukund, Kesu Das, Lal**.
-- Major works: **Akbarnama** (historical chronicle of Akbar — battles, court, construction), **Baburnama**, **Hamzanama** (early large-format folios on cloth), Persian translations of **Ramayana** and **Mahabharata**.
-- Style: **Narrative crowd scenes**, Indian landscape backgrounds (hills, monsoon clouds), **Indian colour palette** (peacock blue, Indian red, yellow ochre), emerging **three-dimensional modelling** of faces and textiles.
-- **Syncretic themes:** Islamic court illustrating Hindu epics — evidence of **composite manuscript culture**.
+Akbar-era masters include Daswant, Basawan, Farrukh Beg, Mukund, Kesu Das, and Lal. Major works encompass Akbarnama's historical chronicle of battles and court life, Baburnama, Hamzanama's early large cloth folios — among the earliest monumental painted cloth projects in the karkhana — and Persian translations of Ramayana and Mahabharata that placed Sanskrit epic narrative inside Islamic court visual language. Style features narrative crowd scenes, Indian landscape backgrounds with monsoon clouds, peacock blue and Indian red palette, and emerging three-dimensional facial modelling. Syncretic themes — Islamic court illustrating Hindu epics — document composite manuscript culture where religious identity of artist and textual source did not determine patronage exclusion.
 
-**Jahangir era (1605–1627) — golden age**
-- **Portrait perfection** — named subjects, individual likeness, psychological depth; **Jahangir's own taste** for natural history.
-- **Mansur** — supreme **animal and bird painter** (zebra, falcon, chameleon, florals) — scientific observation quality.
-- **Bichitr** — self-portraits; European technique experiments.
-- **Album tradition (muraqqa)** — collected leaves with exquisite borders; finer brushwork than Akbar period.
-- **European influence:** Portuguese Jesuits at Mughal court → **foreshortening**, linear perspective, shading on carpets and thrones.
+Jahangir's reign (1605–1627) marks the golden age. Portrait perfection with named subjects and psychological depth reflects imperial taste. Mansur produced supreme animal and bird studies — zebra, falcon, chameleon — with natural-history accuracy. Bichitr experimented with self-portraiture and European absorption. Album tradition (muraqqa) collected leaves with finer brushwork and exquisite borders than Akbar's era. Portuguese Jesuits introduced foreshortening, linear perspective, and shading visible in carpets, globes, and throne scenes.
 
-**Decline and dispersal (Aurangzeb onward)**
-- **Aurangzeb** reduced imperial painting patronage → master artists migrated to **Rajput courts** (Amber, Bikaner, Bundi, Mewar) and **Pahari hills** — direct seed of **regional schools**.
+Under Aurangzeb, imperial patronage declined and master artists migrated to Rajput courts at Amber, Bikaner, Bundi, and Mewar and to Pahari hill kingdoms — directly seeding regional schools. Yet imperial albums continued in reduced volume, and artists trained in Akbar's and Jahangir's karkhanas carried technique — shading, portrait likeness, border decoration — into Rajput ateliers where it merged with local colour fields and devotional programmes.
 
-### Rajasthani schools of painting
+### Ragamala, Barahmasa, and manuscript formats
 
-**Origin and character**
-- Fusion of **Jain manuscript tradition** (western India), **local bardic and heroic themes**, and **Mughal technique** absorbed after artist dispersal (**late 17th century onward**).
-- **Less documentary realism** than Mughal — more **emotion, devotion, decorative landscape, bold colour**.
+Beyond court chronicles, miniature painters produced thematic series that linked visual art to music and seasonal poetry. Ragamala sets visualised raga and ragini musical modes as human figures in landscape — a raga such as Megha depicted as a warrior or lover against monsoon clouds — proving interdisciplinary patronage across music, literature, and painting. Barahmasa series illustrated twelve months of seasonal change through lovers separated or united by rain, heat, or harvest, drawing on bardic and Sufi-inflected poetry traditions. Manuscript illustration remained the primary format for Akbarnama and Baburnama folios, while Jahangir-era muraqqa albums collected individual leaves with calligraphic and floral borders as luxury objects for imperial viewing rather than sequential reading. Understanding these formats clarifies why "miniature" denotes a craft tradition bound to book and album culture, not merely small image size.
+
+### Rajasthani schools — origin, sub-schools, and style
+
+Rajasthani painting fuses Jain manuscript tradition from western India, local bardic and heroic themes, and Mughal technique absorbed after late-seventeenth-century artist dispersal. It privileges emotion, devotion, and decorative landscape over Mughal documentary realism.
 
 | Sub-school | Centre | Features |
 |------------|--------|----------|
-| **Mewar** | Udaipur | Bold colours, heroic themes, **Ragamala**, Krishna lore, **Battle of Haldighati** scenes |
-| **Marwar** | Jodhpur, Bikaner | Robust figures, hunting scenes, court processions; strong Mughal influence at Bikaner |
-| **Bundi-Kota** | Hadoti region | Lush nature, Krishna-**Bhagavata** themes, fine detail, rich greens |
-| **Kishangarh** | Kishangarh (Ajmer district) | **Radha-Krishna** devotion; **Bani Thani** portrait style — elongated features, poetic romance (**Nihal Chand**, Savant Singh patronage) |
+| **Mewar** | Udaipur | Bold colours, heroic themes, Ragamala, Krishna lore, Battle of Haldighati scenes |
+| **Marwar** | Jodhpur, Bikaner | Robust figures, hunting, court processions; strong Mughal influence at Bikaner |
+| **Bundi-Kota** | Hadoti | Lush nature, Krishna-Bhagavata themes, fine detail, rich greens |
+| **Kishangarh** | Kishangarh (Ajmer district) | Radha-Krishna devotion; Bani Thani portrait style — elongated features, poetic romance (Nihal Chand, Savant Singh patronage) |
 | **Amber/Jaipur** | Jaipur | Later Mughal-Rajput blend; court portraits, festivals |
 
-**Common themes:** **Krishna-Radha** lilas, **Barahmasa** (twelve months — seasonal love poetry), **Ragamala** (visualisation of **raga** musical modes as human figures), court processions, hunting, **Pabuji** phad narrative (related folk tradition).
+Common themes include Krishna-Radha lilas, Barahmasa seasonal poetry, Ragamala musical visualisation, court processions, hunting, and related folk narrative traditions such as Pabuji phad. Style traits: vibrant Indian palette (orange, ultramarine, gold), stylised trees and architecture, bhakti emotion over documentary accuracy, flat or shallow perspective compared to Mughal depth. Mewar artists documented Rajput resistance and court ceremony with bold colour fields; Bikaner absorbed Mughal-trained masters producing hybrid precision; Kishangarh under Savant Singh and Nihal Chand refined Radha-Krishna romance into the elongated, poetic Bani Thani portrait type that has become among the most reproduced images of Indian miniature art globally.
 
-**Style traits:** Vibrant **Indian palette** (orange, ultramarine, gold), decorative stylised trees and architecture, **emotion and bhakti** over Mughal documentary accuracy; **flat or shallow perspective** compared to Mughal depth.
+### Pahari schools — geography and evolution
 
-### Pahari (Hills) schools of painting
-
-- **Geography:** **Himalayan foothill** kingdoms — **Basohli** (Jammu), **Guler**, **Kangra**, **Mandi**, **Garhwal**, **Jammu** — not Punjab plains.
-- **Patronage:** Hill **rajas** and Vaishnav devotional courts; **Gita Govinda** and **Bhagavata Purana** as dominant textual sources.
-
-**Evolution sequence (exam-critical)**
+Pahari painting flourished in Himalayan foothill kingdoms — Basohli in Jammu, Guler, Kangra, Mandi, Garhwal — not in Punjab plains. Hill rajas and Vaishnav devotional courts patronised Gita Govinda and Bhagavata Purana programmes.
 
 | Phase | Centre | Style |
 |-------|--------|-------|
-| **Early bold** | **Basohli** (c. 1700–30) | Intense colour (red, yellow, blue), bold outlines, static figures, strong iconography |
-| **Mughal softening** | **Guler** (mid-18th c.) | Softer faces, Mughal modelling influence, refined line |
-| **Lyrical peak** | **Kangra** (c. 1770–1810) | Graceful figures, **detailed nature** (trees, streams, monsoon), romantic **Krishna-Radha** — **"Kangra Valley School"** zenith |
+| **Early bold** | Basohli (c. 1700–1730) | Intense red, yellow, blue; bold outlines; static figures; strong iconography |
+| **Mughal softening** | Guler (mid-18th c.) | Softer faces, Mughal modelling influence, refined line |
+| **Lyrical peak** | Kangra (c. 1770–1810) | Graceful figures, detailed nature, romantic Krishna-Radha — Kangra Valley School zenith |
 
-**Kangra features (exam favourite)**
-- **Soft colours**, graceful elongated figures, **detailed natural settings** — mango trees, lotus ponds, rain clouds.
-- Themes from **Jayadeva's Gita Govinda**, **Bhagavata Purana**, **Ragamala**, **Barahmasa**.
-- Famous artist families: **Nainsukh**, **Manaku** — linked to **Raja Sansar Chand** of Kangra patronage.
-- **Romantic bhakti aesthetics** — divine love mirrored in landscape beauty.
+Kangra features soft colours, graceful elongated figures, detailed natural settings with mango trees, lotus ponds, and monsoon clouds. Themes draw from Jayadeva's Gita Govinda, Bhagavata Purana, Ragamala, and Barahmasa. Artist families including Nainsukh and Manaku worked under Raja Sansar Chand of Kangra, producing folios where landscape is not background decoration but emotional analogue to divine love — rain clouds mirror separation anxiety, flowering trees signal union. The Guler phase mid-eighteenth century softened Basohli's bold outlines by absorbing Mughal facial modelling, creating the stylistic bridge that made Kangra lyrical naturalism possible. Mandi and Garhwal workshops adapted the same Vaishnav programmes with regional costume and architecture, proving Pahari painting was a network of hill ateliers rather than a single court monopoly.
 
 ### Deccan and Jain traditions
 
-**Deccan miniatures (16th–17th century)**
-- **Ahmednagar, Bijapur, Golconda, Hyderabad** sultanates — **Persian influence**, rich colour, erotic and portrait themes.
-- Distinct from Mughal: more **stylisation**, vibrant palette, **simpler backgrounds**, sultanate court costume.
-- **Najm al-Din** and Bijapur school — album traditions parallel to Mughal but politically independent.
+Deccan miniatures at Ahmednagar, Bijapur, Golconda, and Hyderabad sultanates show Persian influence, rich colour, erotic and portrait themes, stylisation, vibrant palette, simpler backgrounds, and sultanate costume distinct from Mughal court idioms. Najm al-Din and Bijapur school album traditions ran parallel to Mughal workshops under politically independent patronage, preserving Persianate aesthetics after Mughal expansion into Deccan politics. Ahmednagar portraits of Sultan Husain Nizam Shah and Bijapur's lyrical Ragamala sets demonstrate that regional sultanates were not provincial backwaters but active centres of manuscript luxury production.
 
-**Jain miniatures**
-- **Kalpasutra**, **Kalkacharya Katha** — western India (**Gujarat, Rajasthan**); marginal paintings on manuscripts.
-- **Gold, red, blue** palette; strict **Tirthankara** iconometry — no deviation from canonical proportions.
-- Continuity link from **medieval Jain art** to **Rajasthani** colour boldness.
+Jain miniatures in Kalpasutra and Kalkacharya Katha manuscripts from Gujarat and Rajasthan use gold, red, and blue palette with strict Tirthankara iconometry — no deviation from canonical proportions because religious regulation governed form. This continuity links medieval Jain art to Rajasthani colour boldness and explains why western Indian workshops supplied both religious manuscript art and later Rajput court painting after Mughal dispersal.
 
-### Comparison — Mughal vs Rajasthani vs Pahari
+### Mughal versus Rajasthani versus Pahari
 
 | Feature | **Mughal** | **Rajasthani** | **Pahari** |
 |---------|------------|----------------|------------|
 | **Patron** | Imperial Mughal court | Rajput desert/thar courts | Hill rajas (Himachal/Jammu) |
 | **Theme** | History, portraiture, nature study | Heroic, Krishna, Ragamala, court | Bhakti romance, Gita Govinda, nature |
 | **Style** | Realism, perspective, modelling | Bold, decorative, flat perspective | Lyrical, soft, nature-integrated |
-| **Period peak** | Jahangir (1605–27) | 17th–19th c. (Kishangarh 18th c.) | Kangra (late 18th c.) |
+| **Period peak** | Jahangir (1605–27) | 17th–19th c.; Kishangarh 18th c. | Kangra late 18th c. |
 | **Key artist** | Mansur, Basawan | Nihal Chand (Kishangarh) | Nainsukh, Manaku |
 
-### Bengal School connection (brief bridge to modern)
+### Bengal School bridge to modern art
 
-- **Late 19th–early 20th century Bengal School** (Abanindranath Tagore, Nandalal Bose) consciously **revived Ajanta line and Mughal-Pahari softness** against academic European realism — shows medieval painting lineage alive in **modern Indian art nationalism** (exam context for "continuity").
+Late nineteenth- and early twentieth-century Bengal School artists including Abanindranath Tagore and Nandalal Bose consciously revived Ajanta line, Mughal refinement, and Pahari softness against academic European realism — proof that medieval painting lineage remained active in modern Indian art nationalism rather than ending with colonial encounter. The wash technique Abanindranath employed directly quoted Mughal and Pahari colour restraint, while Nandalal's linocut and mural programmes adapted miniature border ornament to modern political communication.
 
 ### Significance and legacy
 
-- Medieval painting proves **continuity** from Ajanta colour naturalism to **paper miniatures** — not a break but medium shift.
-- **Living heritage:** Kangra and Rajasthani styles influence **folk art** (phad, pichwai), **calendar art**, **textile design**, and **contemporary illustration**.
-- **UPPCS/Mains angle:** Frequently compares **Mughal vs Rajasthani** or asks **Pahari/Kangra** features; evolution questions span **Ajanta → Mughal → regional**.
-- **Manuscript collections:** **National Museum (New Delhi)**, **Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (CSMVS, Mumbai)**, **Government Museum Chennai**, **Indian Museum Kolkata** — national repositories.
+Medieval painting demonstrates continuity from Ajanta colour naturalism to paper miniatures through medium shift rather than civilisational break. The same narrative impulse — Jataka ethics, court chronicle, bhakti romance — persists while support shifts from wet plaster to palm-leaf to album leaf. Kangra and Rajasthani styles influence folk art (phad, pichwai), calendar imagery, textile design, and contemporary illustration, proving miniature idioms remain commercially and culturally active. National repositories — National Museum New Delhi, CSMVS Mumbai, Government Museum Chennai, Indian Museum Kolkata — preserve folios that anchor global understanding of Indian visual culture and supply digitisation projects under NEP-aligned museum-education partnerships.
 
 ### Contemporary relevance
 
-- **NEP 2020 — Indian Knowledge Systems (IKS):** Medieval painting schools integrated into **fine arts, art history, and design curricula** — pigment chemistry (lapis, gold leaf), brush technique, **Ragamala** music-painting interdisciplinarity; links court ateliers to modern **cultural education**.
-- **Museum digitisation and access:** **National Museum**, **CSMVS**, **Google Arts & Culture** partnerships — high-resolution **Mughal album** and **Kangra folio** digitisation for global access without handling fragile originals; supports **Incredible India** cultural diplomacy.
-- **Constitutional heritage duty:** **Article 51A(f)** — value composite artistic heritage including **Mughal-Rajput-Pahari** traditions; **Article 49** — state protection of cultural institutions and monuments housing collections.
-- **Craft revival and GI tags:** **Rajasthani miniature** workshops (Jaipur, Udaipur), **Kangra painting** (Himachal Pradesh **GI tag**) — **Hunar Haat**, **Ek Bharat Shreshtha Bharat** cultural exchanges; medieval idioms sustain **livelihood craft**.
-- **Tourism and soft power:** **City Palace Udaipur**, **Mehrangarh Jodhpur**, **Kangra Fort** museum displays — **Swadesh Darshan** cultural circuit infrastructure; **Rajasthani and Pahari** imagery defines global **"Indian miniature"** aesthetic in tourism branding.
-- **Conservation science:** **INTACH**, museum **climate-controlled storage**, **pigment analysis** (Raman spectroscopy) on Mughal folios — medieval techniques inform modern **conservation science** (IKS-aligned research).
-- **Manuscript care:** Not ASI monuments but **national library/museum** mandate — **Nai Manzil**, **National Mission on Manuscripts** legacy programmes for cataloguing medieval illustrated texts.
+NEP 2020 IKS integrates medieval painting into fine arts, art history, and design curricula — pigment chemistry of lapis and gold leaf, brush technique, and Ragamala music-painting interdisciplinarity linking court ateliers to cultural education. Museum digitisation through National Museum, CSMVS, and Google Arts & Culture partnerships provides high-resolution Mughal album and Kangra folio access without handling fragile originals, supporting Incredible India cultural diplomacy. Article 51A(f) and Article 49 frame citizen duty and state protection for institutions housing collections. Rajasthani miniature workshops in Jaipur and Udaipur and Kangra painting's Himachal Pradesh GI tag sustain livelihood craft through Hunar Haat and Ek Bharat Shreshtha Bharat exchanges. City Palace Udaipur, Mehrangarh Jodhpur, and Kangra Fort museum displays anchor Swadesh Darshan cultural circuits. INTACH and museum climate-controlled storage with Raman spectroscopy pigment analysis on Mughal folios connect medieval technique to conservation science. National Mission on Manuscripts legacy programmes catalogue illustrated texts beyond ASI monument mandate.
 
-### Limits and balanced view
+### Limits
 
-- **Regional labels** simplify diverse workshops — many **artist migrations** (Mughal artists to Bikaner, Guler artists to Kangra) blur rigid school boundaries.
-- **Colonial-era Company paintings** (18th–19th c.) = separate **hybrid category** (Indian artists + European patrons) — do not collapse into Mughal or Rajasthani schools.
-- **Dating and attribution** often uncertain — "Kangra school" may span workshops across neighbouring states.
-- **Aurangzeb decline narrative** is broadly true but **some imperial painting continued** — avoid absolute "Mughal painting ended" trap.
+Regional school labels simplify diverse workshops; artist migrations from Mughal courts to Bikaner and from Guler to Kangra blur rigid boundaries. Colonial-era Company paintings (eighteenth–nineteenth century) form a separate hybrid category of Indian artists serving European patrons — not collapsible into Mughal or Rajasthani schools. Dating and attribution remain uncertain for many folios; "Kangra school" may span neighbouring states. Aurangzeb decline narrative is broadly accurate but some imperial painting continued — Mughal painting did not vanish overnight. Ajanta remains fresco mural, not miniature; Mansur was Mughal court artist, not Rajasthani; Basohli lies in Jammu region, not Rajasthan; Bani Thani belongs to Kishangarh, not Mughal portraiture; Jain miniatures depict Tirthankaras, not Krishna lilas; Ragamala visualises raga musical modes, not instruments.
 
 ---
 

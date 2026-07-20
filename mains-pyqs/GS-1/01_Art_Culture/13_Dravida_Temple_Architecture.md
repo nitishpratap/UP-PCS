@@ -54,25 +54,26 @@ TRAPS: Gopuram ≠ vimana | Brihadeshwara = Chola not Pallava | Kailasanatha Kan
 
 ## Content
 
-### What is Dravida style
+### What Dravida temple architecture is
 
-- **Dravida** (Dravidian) = principal **south Indian** style of **Hindu temple architecture** from early historic rock-cut phase through Chola, Pallava, Pandya, Vijayanagara eras.
-- Named for **Dravida desha** (south country) in traditional **Vastushastra** texts — contrast with **Nagara** (north) and **Vesara** (Deccan hybrid).
-- Mature form: **square garbhagriha** crowned by a **pyramidal tiered vimana** (tower), surrounded by **mandapas**, enclosed by **prakara** (wall) with monumental **gopuram** (gateway towers).
-- Associated with **Pallava, Chola, Pandya, Hoysala, Vijayanagara** patronage — Tamil Nadu, Karnataka, Andhra heartland.
+**Dravida** (Dravidian) architecture is the principal south Indian idiom of **Hindu temple building**, named in traditional **Vastushastra** texts for **Dravida desha** — the "south country" — in contrast to **Nagara** (north) and **Vesara** (Deccan hybrid). It evolved from the early historic period through the patronage of **Pallava, Chola, Pandya, Hoysala, Vijayanagara, and Nayak** dynasties across Tamil Nadu, Karnataka, Andhra Pradesh, and Kerala. Its mature form expresses a coherent sacred geography: a **square garbhagriha** (sanctum) crowned by a **pyramidal tiered vimana** (tower over the deity), surrounded by **mandapas** (pillared halls), enclosed within **prakara** (boundary walls) and entered through monumental **gopuram** (gateway towers).
 
-### Core architectural components
+Unlike the Nagara tradition of north India, where a **curvilinear shikhara** rises directly over the sanctum, Dravida architecture distributes vertical emphasis across the vimana and, in later centuries, across towering gopurams that often dominate the skyline more visibly than the sanctum tower itself. The style is not a single monolithic form but a continuous evolution from Pallava rock-cut experiments to Chola granite engineering to Vijayanagara-Nayak gateway grandeur.
 
-| Part | Function |
-|------|----------|
-| **Garbhagriha** | Sanctum sanctorum — main deity image (murti); small, dark, square cella |
-| **Vimana** | **Pyramidal tower** above garbhagriha — tiered storeys (talas) with **karnas** (projections); Dravida hallmark |
-| **Shikhara (Dravida sense)** | Crowning element (**stupi/kalasha**) atop vimana — not to be confused with Nagara curvilinear shikhara |
-| **Mandapa** | Pillared hall — **maha-mandapa**, **artha-mandapa** (antechamber), **nritta-mandapa** (dance hall) |
-| **Gopuram** | **Monumental gateway tower** at entrance — in later temples often **taller and more ornate than vimana** |
-| **Prakara** | **Enclosure wall** around temple complex — may have multiple concentric prakaras |
-| **Pradakshina patha** | Circumambulatory passage around sanctum or within prakara |
-| **Teppakulam / tank** | Ritual tank attached to temple — south Indian feature |
+### Core components and their functions
+
+Every Dravida temple organises worship through a fixed vocabulary of architectural parts, each with ritual and structural logic:
+
+| Component | Function |
+|-----------|----------|
+| **Garbhagriha** | Sanctum sanctorum — small, dark, square cella housing the main deity image (*murti*) |
+| **Vimana** | Pyramidal tower above garbhagriha — tiered storeys (*talas*) with **karnas** (projections); the Dravida hallmark |
+| **Shikhara** (Dravida sense) | Crowning **stupi/kalasha** finial atop the vimana — distinct from Nagara's curvilinear shikhara |
+| **Mandapa** | Pillared hall for congregation — **maha-mandapa**, **artha-mandapa** (antechamber), **nritta-mandapa** (dance hall) |
+| **Gopuram** | Monumental gateway tower at entrance — in later temples often taller and more ornate than the vimana |
+| **Prakara** | Enclosure wall; may form multiple concentric rings around the sacred core |
+| **Pradakshina patha** | Circumambulatory passage for clockwise ritual walking |
+| **Teppakulam** | Ritual tank attached to the complex — characteristic of south Indian temple towns |
 
 ```mermaid
 flowchart BT
@@ -83,127 +84,87 @@ flowchart BT
   GP --> P[Prakara — enclosure wall]
 ```
 
-### Salient features of Dravida style
+The vertical axis of the vimana symbolises **Mount Meru**, the cosmic mountain at the centre of the universe in Hindu and Jain cosmology. Devotees enter through the gopuram — passing from profane space into sacred enclosure — circumambulate the sanctum along the pradakshina patha, and receive *darshan* (vision) of the deity from the mandapa. The architecture thus encodes theology in stone.
 
-1. **Pyramidal vimana** — horizontal tiers (talas) diminishing upward — vertical axis symbolising **Mount Meru** / cosmic axis.
-2. **Square garbhagriha** — sanctum plan usually square; deity oriented for worship from mandapa.
-3. **Gopuram dominance (later phase)** — from Chola-Vijayanagara onward, **entrance towers** become primary visual landmark — contrast with Nagara where **shikhara over garbhagriha** dominates.
-4. **Prakara-centred complex** — temple as **walled sacred city** with multiple shrines, halls, tanks.
-5. **Sculptural richness** — narrative panels, **dvarapalas** (guardian figures), deity icons on vimana and gopuram tiers.
-6. **Material** — **granite** in Tamil Nadu (Brihadeshwara); sandstone at Kanchi; Hoysala **chloritic schist** for intricate carving.
-7. **Regional evolution** — Pallava rock-cut → structural granite → Vijayanagara gopuram grandeur.
+### Salient features that define the style
 
-### Sculptural and iconographic programme
+Several characteristics distinguish Dravida from other Indian temple traditions. The **pyramidal vimana** rises in horizontal tiers that diminish upward, creating a stepped silhouette unlike the Nagara rekha (curving) profile. The **square garbhagriha** orients the deity for worship from the mandapa. **Sculptural richness** covers vimana tiers, gopuram faces, and mandapa pillars with narrative panels, **dvarapalas** (guardian doorkeepers), and niche deities. **Material choice** reflects regional geology: **granite** in Tamil Nadu under the Cholas; **sandstone** at Pallava **Kanchipuram**; **chloritic schist** for the intricate Hoysala temples of Karnataka.
 
-- **Dvarapalas** (guardian figures) flank sanctum and mandapa entrances — fierce Shaiva/Vaishnava doorkeepers (e.g. **Brihadeshwara**).
-- **Vimana tiers** carry **koshta deities** (niche icons) — Brahma, Vishnu, Shiva, Durga on cardinal faces — cosmic hierarchy on vertical axis.
-- **Gopuram tiers** display **narrative puranic panels** — Ramayana, Mahabharata, Shaiva/Vaishnava mythology readable from street level in later temples (**Meenakshi, Srirangam**).
-- **Mandapa pillars** — **Yali** (leogriff), **horse-mounted warriors**, and **dancing figures**; Hoysala pillars lathe-turned to near-jewel precision.
-- **Bronze icons** — **Chola lost-wax bronzes** (Nataraja, Parvati) made for temple processions complement stone vimana/gopuram programmes.
+A critical chronological nuance: **gopuram dominance** — the tendency for entrance towers to exceed the vimana in height and ornament — is a **later medieval feature** of the Vijayanagara and Nayak periods, not an original Pallava or early Chola characteristic. At the **Shore Temple (Mahabalipuram)** and **Brihadeshwara (Thanjavur)**, the vimana still commands the visual hierarchy.
 
 | Sculptural element | Location | Function |
 |--------------------|----------|----------|
-| **Dvarapala** | Sanctum/mandapa doorway | Guardian; marks sacred threshold |
-| **Koshta deity** | Vimana/gopuram niches | Cardinal directional gods |
-| **Narrative frieze** | Gopuram base and tiers | Puranic storytelling for devotees |
+| **Dvarapala** | Sanctum and mandapa doorways | Guardian figure marking sacred threshold |
+| **Koshta deity** | Niches on vimana or gopuram faces | Cardinal directional gods (Brahma, Vishnu, Shiva, Durga) |
+| **Narrative frieze** | Gopuram base and tiers | Puranic storytelling visible from street level |
 | **Bronze utsava murti** | Processional worship | Mobile deity image during festivals |
 
-### Vijayanagara and Nayak phase — gopuram revolution
+**Chola lost-wax bronzes** — the **Nataraja** and **Parvati** icons — complement stone architecture; they were cast for temple processions and remain among the supreme achievements of Indian metalwork.
 
-- From **14th–17th century CE**, **Vijayanagara** and **Nayak** rulers enlarged **gopurams** to dominate skyline — political statement of renewed Hindu kingship after Delhi Sultanate incursions.
-- **Hampi (Vijayanagara)** — **Virupaksha temple gopuram** and **Vitthala complex** show imperial scale; granite and brick combination.
-- **Madurai Nayaks** — **Meenakshi temple** four gopurams painted with vivid stucco figures — Dravida gateway becomes **primary landmark**, vimana secondary in visual hierarchy.
-- **Exam nuance:** Cite gopuram dominance as **phase-specific** — do not attribute to Pallava Shore Temple or early Chola Brihadeshwara where **vimana** still commands.
+### Historical evolution: from rock-cut to gopuram grandeur
 
-### Temple as sacred town — economic role
-
-- **Devadana** (land grants to temples) sustained **Brahmin settlements, artisans, musicians, and temple servants** — temples functioned as **landlord-institutions**.
-- **Teppakulam** tanks stored monsoon water for ritual and irrigation — temple complex integrated **hydraulic management**.
-- **Utsavam** (festival) calendars drove **pilgrimage, craft markets, and regional trade** — Madurai, Kanchi, Srirangam as medieval **temple towns**.
-- **Bharatanatyam** codified in **Sadir** tradition performed in mandapas — performing arts inseparable from Dravida architectural space.
-
-### Key examples
-
-| Temple | Dynasty / period | Location | Features |
-|--------|------------------|----------|----------|
-| **Shore Temple** | Pallava, 7th–8th c. CE | **Mahabalipuram** | Structural temple by sea; Shiva/Vishnu; Pallava transition from rock-cut |
-| **Pancha Rathas** | Pallava, 7th c. CE | **Mahabalipuram** | Monolithic rock-cut **rathas** — architectural experiments (Dharamaraja, Arjuna ratha) |
-| **Kailasanatha Temple** | Pallava (Narasimhavarman II), 8th c. CE | **Kanchipuram** | Sandstone; **58 subsidiary shrines**; Dravida vimana prototype |
-| **Brihadeshwara (Rajarajesvaram)** | Chola (**Rajaraja I**), 11th c. CE | **Thanjavur** | **216 ft granite vimana**; monolithic **Nandi**; Chola imperial peak; UNESCO site |
-| **Gangaikonda Cholapuram** | Chola (Rajendra I) | Tamil Nadu | Rival scale to Brihadeshwara; Chola architectural programme |
-| **Airavatesvara (Darasuram)** | Chola (Rajaraja II) | Kumbakonam | UNESCO Great Living Chola Temple; intricate vimana sculpture |
-| **Srirangam (Ranganathaswamy)** | Chola-Pandya-Vijayanagara layers | Trichy | Largest functioning temple complex; concentric prakaras |
-| **Meenakshi Temple** | Pandya / later Nayak | Madurai | **Four gopurams** — classic later Dravida gopuram emphasis |
-| **Hoysaleswara** | Hoysala, 12th c. CE | **Halebidu** | **Vesara hybrid** — star-shaped plan, lathe-turned pillars, dense sculpture |
-| **Chennakesava (Belur)** | Hoysala, 12th c. CE | Karnataka | Vesara-Dravida blend; jewelled exterior carving |
-
-### Evolution and period
+Dravida architecture passed through distinct phases, each building on the previous:
 
 | Phase | Period | Character |
 |-------|--------|-----------|
-| **Rock-cut origins** | c. 6th–8th c. CE (Pallava) | Mahabalipuram caves and rathas — experiments in form |
-| **Early structural** | c. 7th–9th c. CE | Kailasanatha Kanchi — vimana + subsidiary shrines |
-| **Imperial Chola** | c. 10th–12th c. CE | Granite vimanas — Brihadeshwara scale; engineering mastery |
-| **Later medieval** | c. 14th–17th c. CE | Vijayanagara/Nayak — **gopuram** becomes tallest element |
+| **Rock-cut origins** | c. 6th–8th c. CE (Pallava) | Mahabalipuram caves and monolithic **Pancha Rathas** — architectural experiments in living rock |
+| **Early structural** | c. 7th–9th c. CE | **Kailasanatha, Kanchipuram** — sandstone vimana with **58 subsidiary shrines** |
+| **Imperial Chola** | c. 10th–12th c. CE | Granite vimanas at monumental scale — **Brihadeshwara** engineering |
+| **Later medieval** | c. 14th–17th c. CE | Vijayanagara/Nayak — **gopuram** becomes tallest visual element |
 
-### Dravida vs Nagara vs Vesara (comparison)
+The **Pallava** phase at **Mahabalipuram** produced both monolithic rock-cut **rathas** (chariot-shaped shrines — Dharmaraja, Arjuna, and others) and the structural **Shore Temple** by the sea, marking the transition from excavation to construction. The Shore Temple's location on the Coromandel coast exposed it to salt air and monsoon erosion — challenges that continue to inform ASI conservation strategy today. **Narasimhavarman II's Kailasanatha Temple at Kanchipuram** (8th century CE) established the Dravida vimana prototype with dozens of subsidiary shrines clustered around the main tower. Kanchipuram, one of the seven sacred cities (*sapta puri*) of Hindu tradition, became a laboratory where Pallava architects tested vimana proportions in sandstone before Chola builders scaled them in granite at Thanjavur.
+
+The **Imperial Chola** period represents the engineering apex. **Rajaraja I's Brihadeshwara Temple (Rajarajesvaram) at Thanjavur** (11th century CE) rises **216 feet** in granite — a feat of quarrying, transport, and lifting whose ramp and leverage methods remain debated. Its monolithic **Nandi** bull (16 feet long, 13 feet high) sits before the sanctum. **Rajendra I** built **Gangaikonda Cholapuram** at rival scale; **Rajaraja II's Airavatesvara Temple at Darasuram** (Kumbakonam) displays intricate vimana sculpture. All three form the **UNESCO Great Living Chola Temples (1987)** — still active places of worship.
+
+### Key monuments across dynasties
+
+| Temple | Dynasty / period | Location | Distinguishing features |
+|--------|------------------|----------|------------------------|
+| **Shore Temple** | Pallava, 7th–8th c. CE | **Mahabalipuram** | Structural temple by sea; Shiva/Vishnu; Pallava transition from rock-cut |
+| **Pancha Rathas** | Pallava, 7th c. CE | **Mahabalipuram** | Monolithic rock-cut rathas — architectural experiments |
+| **Kailasanatha Temple** | Pallava (Narasimhavarman II), 8th c. CE | **Kanchipuram** | Sandstone; **58 subsidiary shrines**; vimana prototype |
+| **Brihadeshwara (Rajarajesvaram)** | Chola (Rajaraja I), 11th c. CE | **Thanjavur** | **216 ft granite vimana**; monolithic Nandi; UNESCO site |
+| **Gangaikonda Cholapuram** | Chola (Rajendra I) | Tamil Nadu | Rival scale to Brihadeshwara |
+| **Airavatesvara (Darasuram)** | Chola (Rajaraja II) | Kumbakonam | UNESCO; intricate vimana sculpture |
+| **Srirangam (Ranganathaswamy)** | Chola-Pandya-Vijayanagara layers | Trichy | Largest functioning temple complex; concentric prakaras |
+| **Meenakshi Temple** | Pandya / Nayak | **Madurai** | Four painted gopurams — classic later Dravida emphasis |
+| **Hoysaleswara** | Hoysala, 12th c. CE | **Halebidu** | **Vesara hybrid** — star-shaped plan, lathe-turned pillars |
+| **Chennakesava (Belur)** | Hoysala, 12th c. CE | Karnataka | Vesara-Dravida blend; jewelled exterior carving |
+
+### Vijayanagara and Nayak: the gopuram revolution
+
+From the **14th through 17th centuries CE**, **Vijayanagara** and **Nayak** rulers enlarged gopurams to dominate the skyline — a political statement of renewed Hindu kingship after Delhi Sultanate incursions into the south. At **Hampi**, the **Virupaksha temple gopuram** and **Vitthala complex** demonstrate imperial scale in granite and brick. The **Madurai Nayaks** transformed **Meenakshi Temple** with four gopurams painted in vivid stucco, covered with puranic figures readable from street level — Ramayana, Mahabharata, and Shaiva/Vaishnava mythology rendered as public art. In this phase, the gopuram becomes the primary landmark; the vimana recedes visually. This is phase-specific: it cannot be projected backward onto Pallava or early Chola monuments.
+
+### Temple as sacred town: economy, arts, and hydraulics
+
+Dravida temples were never isolated shrines; they functioned as **economic and cultural hubs** of medieval south India. **Devadana** — land grants to temples — sustained Brahmin settlements, artisans, musicians, and temple servants, making the complex a landlord-institution controlling agricultural revenue. **Teppakulam** tanks stored monsoon water for ritual bathing and supplementary irrigation. **Utsavam** (festival) calendars drove pilgrimage, craft markets, and regional trade — **Madurai, Kanchipuram, Srirangam, and Rameswaram** operated as temple towns whose urban economy orbited the sanctum. **Bharatanatyam**, codified in the **Sadir** performance tradition, was performed in temple mandapas — performing arts and architecture were inseparable. Mandapa pillars carved with **yali** (leogriff), horse-mounted warriors, and dancing figures show how sculptural programme, ritual, and public spectacle converged.
+
+### Dravida compared with Nagara and Vesara
+
+The three classical pan-Indian temple idioms express the same Hindu worship logic through contrasting architectural vocabularies:
 
 | Feature | **Nagara** (North) | **Dravida** (South) | **Vesara** (Deccan) |
 |---------|-------------------|---------------------|---------------------|
 | **Tower over garbhagriha** | Curvilinear **shikhara** | Pyramidal **vimana** (tiered) | **Hybrid** — combined features |
 | **Entrance emphasis** | Torana / later walls | Monumental **gopuram** | Mixed — often ornate gateways |
 | **Summit ornament** | **Amalaka + kalasha** | **Stupi** on vimana | Blended |
-| **Region** | North & central India | Tamil Nadu, AP, Kerala | Karnataka (Hoysala) |
+| **Region** | North and central India | Tamil Nadu, AP, Kerala | Karnataka (Hoysala) |
 | **Material** | Sandstone (Khajuraho, Odisha) | Granite (Chola) | Chloritic schist (Hoysala) |
 | **Examples** | Khajuraho, Konark, Deogarh | Brihadeshwara, Kailasanatha Kanchi | Belur, Halebidu |
 
-```mermaid
-flowchart LR
-  subgraph north [Nagara]
-    NS[Curvilinear shikhara]
-    NA[Amalaka + kalasha]
-  end
-  subgraph south [Dravida]
-    DV[Pyramidal vimana]
-    DG[Gopuram gateway]
-  end
-  subgraph deccan [Vesara]
-    VH[Hybrid tower plan]
-  end
-  north --- south
-  south --- deccan
-```
+**Vesara** architecture — flourishing under the **Hoysala dynasty** (11th–14th c. CE) — blends Nagara verticality with Dravida vimana tiers. Its **star-shaped (stellate) plan**, lathe-turned pillars, and exterior covered in continuous sculpture at **Belur, Halebidu, and Somnathpur** represent a Deccan hybrid, not pure Dravida — though it is often grouped with the south Indian tradition when contrasted with Nagara.
 
-### Hoysala / Vesara note (brief)
+### Significance and enduring legacy
 
-- **Vesara** = architectural idiom blending **Nagara verticality** with **Dravida vimana tiers** — flourished under **Hoysala** dynasty (11th–14th c. CE).
-- **Star-shaped (stellate) plan**, lathe-turned pillars, exterior covered in **continuous sculpture** — Belur, Halebidu, Somnathpur.
-- Exam framing: cite as **Deccan hybrid**, not pure Dravida — but often grouped with south Indian tradition in contrast to Nagara.
-
-### Significance
-
-- Defines **south Indian sacred landscape** — Chola temples as symbols of **imperial bhakti and state power**.
-- **Engineering achievement** — Brihadeshwara granite vimana (216 ft) built with sophisticated lifting and quarrying; monolithic **Nandi** (16 ft long, 13 ft high) at Thanjavur.
-- Temples as **economic and cultural hubs** — **devadana** land grants, festivals, craft guilds, dance (**Bharatanatyam** in mandapas), and irrigation tank management.
-- **Bhakti movement** anchor — Shaiva/Vaishnava temple centres (**Kanchi, Chidambaram, Srirangam, Madurai, Rameswaram**).
-- **Pan-Indian contrast:** Dravida vimana-gopuram vocabulary is the standard **south Indian counter-pole** to Nagara rekha shikhara in every comparative architecture question.
+Dravida architecture defines the **south Indian sacred landscape**. Chola temples symbolised **imperial bhakti and state power** — Rajaraja's Brihadeshwara was as much a political monument as a religious one. The temple's scale communicated Rajaraja's authority over a maritime empire that traded with Southeast Asia; the 216-foot vimana visible across the Kaveri delta announced Chola sovereignty as clearly as any fortification. Pandya rulers at Madurai and Vijayanagara kings at Hampi and Srirangam continued this tradition of architecture-as-statecraft, each dynasty adding gopurams, mandapas, and prakaras that recorded their patronage in stone. The engineering achievement — quarrying and lifting granite to 216 feet without modern machinery — remains a benchmark of pre-industrial construction. Temples anchored the **bhakti movement** at Shaiva and Vaishnava centres: **Kanchi, Chidambaram, Srirangam, Madurai, Rameswaram**. The Dravida vimana-gopuram vocabulary is the standard south Indian counter-pole to Nagara rekha shikhara in every comparative study of Indian sacred architecture.
 
 ### Contemporary relevance
 
-- **UNESCO World Heritage — Great Living Chola Temples (1987):** **Brihadeshwara (Thanjavur)**, **Gangaikonda Cholapuram**, and **Airavatesvara (Darasuram)** — still **active places of worship**, demonstrating Dravida architecture as **living heritage**, not only archaeology.
-- **UNESCO — Group of Monuments at Mahabalipuram (1984):** Pallava **Shore Temple** and **Pancha Rathas** — rock-cut to structural transition visible to global visitors; **ASI** maintains site with coastal conservation challenges.
-- **ASI and state temple administration:** Central **ASI** protects notified monuments; **Tamil Nadu Hindu Religious and Charitable Endowments (HR&CE)** manages many functioning Dravida temples — daily ritual continuity alongside conservation.
-- **Constitutional framework:** **Article 49** (state protects monuments) and **Article 51A(f)** (citizen heritage duty) apply to Chola and Pallava temple complexes of national importance.
-- **NEP 2020 — Indian Knowledge Systems (IKS):** **Vastushastra, temple architecture, and iconography** taught in art-history and conservation programmes — Dravida vocabulary (vimana, gopuram, prakara) is core IKS content.
-- **Tourism and economy:** **Tamil Nadu temple tourism** (Thanjavur, Madurai, Kanchipuram, Rameswaram) drives regional economy; **Swadesh Darshan** and state spiritual circuits promote **south Indian heritage corridors**.
-- **Craft and performing arts revival:** Temple sculpture traditions, **bronze Chola icons** (lost-wax technique), and **Bharatanatyam** performance in mandapas link medieval Dravida architecture to **living intangible heritage**.
-- **Conservation science:** Granite weathering, gopuram structural stability, and pigment loss on vimana sculpture require ongoing **ASI-INTACH** interventions — ancient engineering meets modern materials science.
+The **UNESCO Great Living Chola Temples (1987)** — **Brihadeshwara (Thanjavur), Gangaikonda Cholapuram, and Airavatesvara (Darasuram)** — remain active places of worship, demonstrating Dravida architecture as **living heritage**. The **Group of Monuments at Mahabalipuram (1984)** preserves Pallava rock-cut and structural transition under **ASI** management with coastal conservation challenges. Central **ASI** protects notified monuments while **Tamil Nadu Hindu Religious and Charitable Endowments (HR&CE)** administers many functioning temples — daily ritual continuity alongside conservation. **Article 49** and **Article 51A(f)** apply to Chola and Pallava complexes of national importance. **NEP 2020's IKS** integrates **Vastushastra, temple architecture, and iconography** into art-history and conservation programmes. **Tamil Nadu temple tourism** at Thanjavur, Madurai, Kanchipuram, and Rameswaram drives regional economy through **Swadesh Darshan** and state spiritual circuits. **Chola bronze casting** (lost-wax technique) and **Bharatanatyam** performance link medieval architecture to **living intangible heritage**. Conservation science addresses granite weathering, gopuram structural stability, and pigment loss through **ASI-INTACH** interventions.
 
-### Limitations / exam nuance
+### Limits
 
-- **Not monolithic** — Pallava, Chola, Pandya, Vijayanagara phases differ; gopuram dominance is **later** feature, not Pallava origin.
-- **Distinct from Buddhist chaitya/stupa** and **Mauryan pillars**.
-- **Kailasanatha (Kanchi) ≠ Kailasa (Ellora)** — latter is **Rashtrakuta rock-cut**, not structural Dravida.
+Dravida architecture is **not monolithic** — Pallava, Chola, Pandya, and Vijayanagara phases differ substantially. **Gopuram dominance is a later feature**, not present at Pallava Shore Temple or early Chola Brihadeshwara where the vimana still dominates. The tradition is **distinct from Buddhist chaitya halls, stupas, and Mauryan pillars**. **Kailasanatha at Kanchipuram** must not be confused with **Kailasa at Ellora** — the latter is a **Rashtrakuta rock-cut** monument, not a structural Dravida temple. **Hoysala Belur and Halebidu** are **Vesara hybrids**, not pure Dravida. **Srirangam** is the **largest functioning** Hindu temple complex, not a minor shrine. **Chola bronzes** were commissioned for the same temple worship programmes as the stone vimanas — they are integral, not separate, to Dravida artistic achievement.
 
 ---
 

@@ -17,7 +17,7 @@
 Read @mains-pyqs/00_SYLLABUS.md → create ENRICHED LEAN subtopic file from @mains-pyqs/TOPIC_INPUT.md
 per @mains-pyqs/_GOLD_STANDARD.md + @mains-pyqs/_TEMPLATE.md + Content enrichment rule in prompt.md.
 Student file: PYQs | Quick Revision | Content (+ mermaid + Contemporary relevance subsection) | Answers (UPPCS topper format) | Traps ONLY.
-Book-free: full keyword + future variants. Meet word-count targets. Answers = labelled keywords + underline list + 30-sec ASCII diagram per Q.
+Book-free bible Content: teachable full-sentence prose (what→how→why→proof) — NOT keyword stubs or "UPPCS tests N PYQs" meta. Meet word-count targets. Answers = labelled keywords + underline list + 30-sec ASCII diagram per Q.
 AI verifies solvability + enrichment internally. Update @mains-pyqs/_INDEX.md. One subtopic.
 ```
 
@@ -111,50 +111,59 @@ Answers must be **directly copyable in the Mains exam** — not analyst notes. E
 
 ---
 
-## Content enrichment rule (mandatory)
+## Content enrichment rule (mandatory) — Content is the student's bible
 
-Student files must be **exam-deep**, not outline-thin. Target depth:
+Student files must be **book-free**. **Quick Revision** = shorthand raata. **Content** = the full teachable chapter the student reads once and consolidates — they must **never need Laxmikanth / NCERT / another book** for this keyword.
 
 | Subtopic complexity | Content target | Quick Revision | Traps | Answer blocks |
 |---------------------|----------------|----------------|-------|---------------|
-| Simple (1 PYQ, narrow keyword) | **≥900 words** | 15–25 lines | **8–10 rows** | PYQ + **1–2 future variants** |
-| Medium (1–2 PYQs) | **≥1200 words** | 25–35 lines | **10–12 rows** | All PYQs + **1–2 future variants** |
-| Rich (architecture, period, compare) | **≥1500 words** | 35–45 lines | **12–14 rows** | All PYQs + **2–3 future variants** |
+| Simple (1 PYQ, narrow keyword) | **≥1200 words** | 15–25 lines | **8–10 rows** | PYQ + **1–2 future variants** |
+| Medium (1–2 PYQs) | **≥1800 words** | 25–35 lines | **10–12 rows** | All PYQs + **1–2 future variants** |
+| Rich (federalism, basic structure, compare) | **≥2500 words** | 35–45 lines | **12–14 rows** | All PYQs + **2–3 future variants** |
+
+### Content writing style (critical — fail if violated)
+
+| Do | Do not |
+|----|--------|
+| Teach **what it is → how it works → why it matters → named proof** | Keyword dumps: `Dual polity — Art 1, 245–246` with no explanation |
+| **Full-sentence bullets** a student can read and remember | Semicolon chains and label-only stubs |
+| **Context** = concept definition + historical/constitutional reason it exists | Meta fluff: "GS-II Topic 02 tests X — 9 PYQs (2020–2025)" |
+| Expand every Article/case enough that the student understands the **mechanism** | Assume the student already knows Laxmikanth |
+| Keep **Quick Revision** compact for daily raata | Duplicate QR shorthand as the entire Content |
+
+**Bible test:** After reading Content alone, can the student explain the topic out loud and write every PYQ answer without opening a book? If no → rewrite Content.
 
 ### Required Content dimensions (merge into Content — no extra sections)
 
 Every file's **Content** must include **all** of:
 
-1. **Context** — period, geography, why keyword matters
-2. **Core features** — salient traits with **named examples, dates, sites, patrons**
+1. **Context** — teach the keyword (definition + why the Constitution/design exists this way) — **not** exam-meta
+2. **Core features** — each trait explained in prose bullets with **Articles, cases, dates, examples**
 3. **Tables** — at least **2** (comparison, chronology, parts, schools, or sites)
 4. **Process / structure** — optional mermaid (0–2) where spatial/layer memory helps
-5. **Significance** — historical + civilizational legacy
+5. **Significance** — historical + constitutional legacy
 6. **Contemporary relevance** — **mandatory subsection inside Content** (see below)
-7. **Limits / balanced view** — traps material, historiographic caution
+7. **Limits / balanced view** — traps material, criticism, balanced verdict
 
 ### Contemporary relevance (inside Content — not a 7th section)
 
-Add **`### Contemporary relevance`** near end of Content. Connect heritage to **present** where exam-useful:
+Add **`### Contemporary relevance`** near end of Content. Connect to **present** where exam-useful:
 
 | Link when relevant | Examples |
 |--------------------|----------|
-| **UNESCO World Heritage** | Ajanta/Ellora (1983), Taj Mahal (1983), etc. |
-| **ASI / conservation** | Protected monuments, restoration, digital documentation |
-| **Constitutional / policy** | Art **49** (state protect monuments), **51A(f)**; **NEP 2020 IKS** |
-| **Government schemes** | PRASAD, Swadesh Darshan, Buddhist/culture circuits, Incredible India |
-| **Living heritage** | AYUSH, yoga, handloom/GI tags, craft revival |
-| **Soft power / tourism** | Pilgrimage economy, diaspora, international Buddhist/Hindu routes |
-| **Recent developments** | Only **verified** facts — new museum, UNESCO listing, major restoration, IKS curriculum |
+| **UNESCO / ASI** (heritage topics) | Ajanta/Ellora, Taj Mahal, conservation |
+| **Constitutional / policy** | Art **49**, **51A**; **NEP 2020**; federal forums; SC judgments |
+| **Government schemes / institutions** | GST Council, Finance Commission, eGramSwaraj, SVAMITVA |
+| **Recent developments** | Only **verified** stable facts — no invented news |
 
-**Rule:** Contemporary points used in **Answers** must appear in Content or Quick Revision. Do not invent news — use stable policy/UNESCO/constitutional links.
+**Rule:** Contemporary points used in **Answers** must appear in Content or Quick Revision.
 
 ### Enrichment quality bar
 
-- **Named density:** ≥15 named entities (sites, rulers, texts, artists, dynasties) per medium/rich file
-- **No stub bullets** — each bullet should carry a **fact** (who/when/where/why), not a label alone
-- **Future PYQs:** Every file with only past PYQs should still include **likely variant** answer scaffolds in Answers
-- **Cross-period compare** where syllabus expects it (e.g. Nagara vs Dravida, Gandhara vs Mathura)
+- **Named density:** ≥15 named entities (Articles, cases, commissions, Acts, persons, institutions) per medium/rich file
+- **No stub bullets** — each bullet carries **who/when/where/why**, not a label alone
+- **Future PYQs:** Include **likely variant** answer scaffolds in Answers
+- **Cross-compare** where syllabus expects it (India vs USA federalism; FR vs DPSP; etc.)
 
 ---
 

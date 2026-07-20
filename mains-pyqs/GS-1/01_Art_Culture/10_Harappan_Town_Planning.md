@@ -56,18 +56,17 @@ TRAPS: ≠ Vedic pastoral | Horse evidence doubtful | Dockyard ≠ reservoir
 
 ### Context — Harappan civilization
 
-- **Harappan (Indus Valley) Civilization** — **first urban civilization of India**; **Bronze Age** (c. **2600–1900 BCE** mature phase); among the **three earliest Old World urban civilisations** alongside Mesopotamia and Egypt.
-- Also called **IVC** (Indus Valley Civilization) — flourished along **Indus and Ghaggar-Hakra** (Saraswati) river systems in present-day **Pakistan, India, Afghanistan**.
-- Extent: **Siwaliks to Arabian Sea**, **Baluchistan to Meerut (UP)** — largest ancient civilization by area (~**13 lakh sq km**); over **1400 sites** identified, **5 major cities** and many towns/villages.
-- Major cities: **Mohenjo-daro, Harappa** (Pakistan); **Dholavira, Lothal, Surkotada** (Gujarat); **Kalibangan, Banawali, Rakhigarhi** (Rajasthan/Haryana — **Rakhigarhi** largest Indian site, ongoing ASI excavations); **Chanhudaro** (Sindh — craft specialist town).
-- **Named after Harappa** (first discovered 1921, **R.D. Banerji** and **Sir John Marshall**, ASI) — but **Mohenjo-daro** ("Mound of the Dead") is among best-preserved for town planning study.
-- **Exam frame:** UPPCS asks **salient features of town planning**, **site-specific structures**, **economy/trade**, and **comparison with Mesopotamia/Egypt** — all below.
+The **Harappan (Indus Valley) Civilization** was **India's first urban civilization** — a **Bronze Age** culture (c. **2600–1900 BCE** mature phase) ranking among the **three earliest Old World urban civilisations** alongside Mesopotamia and Egypt. Also called **IVC** (Indus Valley Civilization), it flourished along the **Indus and Ghaggar-Hakra** (Saraswati) river systems across present-day **Pakistan, India, and Afghanistan**. Its extent ran from the **Siwaliks to the Arabian Sea** and from **Baluchistan to Meerut (UP)** — the largest ancient civilization by area (~**13 lakh sq km**) with over **1400 sites** identified including **5 major cities** and numerous towns and villages.
+
+Development unfolded in phases: **Early Harappan** (c. 7000–2600 BCE) saw village growth and regional cultures; **Mature Harappan** (c. 2600–1900 BCE) produced fully planned cities; **Late Harappan** (c. 1900–1300 BCE) witnessed decentralisation and transformation. Major cities include **Mohenjo-daro** and **Harappa** (Pakistan); **Dholavira, Lothal, and Surkotada** (Gujarat); **Kalibangan, Banawali, and Rakhigarhi** (Rajasthan/Haryana — **Rakhigarhi** is the largest Indian site with ongoing ASI excavations); and **Chanhudaro** (Sindh — a craft specialist town). The civilization is **named after Harappa**, first discovered in 1921 by **R.D. Banerji** and **Sir John Marshall** of the ASI, though **Mohenjo-daro** ("Mound of the Dead") preserves among the best evidence for studying town planning principles. Understanding Harappan planning requires grasping why a Bronze Age society could coordinate standardised bricks, weights, and drainage across a thousand kilometres — evidence of administrative sophistication whose exact political form remains debated because the script is undeciphered.
 
 ### Salient features of Harappan town planning
 
-Harappans had the **most advanced town planning of the ancient world** — **planned layout before construction**, not organic growth; implies **central authority** (state or priestly administration — debated because script unread).
+Harappans achieved the **most advanced town planning of the ancient world** through **planned layout before construction** rather than organic growth — implying **central authority**, whether state or priestly administration (debated because the script remains unread). Seven interlocking features define this urban system.
 
 **1. Citadel and lower town (dual settlement)**
+
+Harappan cities divided into a raised **citadel (acropolis)** — fortified upper platform housing granaries, the Great Bath, and likely elite or administrative structures — and a larger **lower town** where common people lived in grid-arranged houses. This **horizontal social zoning** represents one of the earliest planned urban hierarchies in world history. The citadel often stood on the **west side** (Mohenjo-daro, Harappa), possibly for flood protection or ritual orientation. **Chanhudaro** is the exception — **no citadel**, functioning as a specialised **craft-production town** for bead-making and bangle industry.
 
 | Part | Features | Examples |
 |------|----------|----------|
@@ -75,15 +74,9 @@ Harappans had the **most advanced town planning of the ancient world** — **pla
 | **Lower town** | Larger residential area for **common people** — grid of houses on flat ground east/west of citadel | All major cities |
 | **Exception** | **Chanhudaro** — **no citadel**; specialised **craft-production town** | Bead-making, bangle industry |
 
-- Clear **horizontal social zoning** — one of earliest examples of planned urban hierarchy in world history.
-- Citadel often on **west side** (Mohenjo-daro, Harappa) — possibly flood-protection or ritual orientation (debated).
-
 **2. Grid pattern (street layout)**
 
-- Streets and lanes intersected at **right angles** — **gridiron pattern** (Hippodamus of Miletus in Greece came later, c. 5th c. BCE).
-- **Main streets** ran **north-south** and **east-west**; width varied (e.g. Mohenjo-daro main street ~**10 m**; side lanes ~1.5–3 m).
-- Blocks divided into **rectangular house plots** — uniformity shows **central planning authority** and standardised land division.
-- **No encroachment** on streets in mature phase — suggests **municipal regulation** (unique for Bronze Age).
+Streets and lanes intersected at **right angles** in a **gridiron pattern** — predating Hippodamus of Miletus in Greece (c. 5th century BCE). **Main streets** ran **north-south** and **east-west**; Mohenjo-daro's main street measured ~**10 m** wide while side lanes were ~1.5–3 m. Blocks divided into **rectangular house plots** with uniform sizes showing **central planning authority** and standardised land division. **No encroachment** on streets during the mature phase suggests **municipal regulation** — unique for the Bronze Age.
 
 ```mermaid
 flowchart TB
@@ -101,25 +94,15 @@ flowchart TB
 
 **3. Drainage and sanitation (hallmark feature)**
 
-- **Most striking** aspect — **covered drains** along streets; **house drains connected** to street drains → main outlet.
-- Almost every house had **bathroom** with sloping floor to drain; **wells** inside or near houses (Mohenjo-daro houses often had private well + bathroom).
-- **Manholes** for cleaning drains at intervals; brick-lined channels with **precise gradient** for self-flushing.
-- Priority to **cleanliness and public health** — unmatched in contemporary Egypt/Mesopotamia for **systematic household-linked sanitation**.
-- **Exam relevance:** Often cited in **Swachh Bharat / Smart Cities** discourse as ancient Indian urban hygiene precedent (use carefully — not identical technology, but principle of planned sanitation).
+The **most striking** aspect of Harappan urbanism is **covered drains** along streets with **house drains connected** to street channels leading to main outlets. Almost every house had a **bathroom** with sloping floor to drain and **wells** inside or nearby — Mohenjo-daro houses often combined private well and bathroom. **Manholes** at intervals allowed drain cleaning; brick-lined channels used **precise gradient** for self-flushing. This priority on **cleanliness and public health** surpassed contemporary Egypt and Mesopotamia in **systematic household-linked sanitation** — a principle later invoked in **Swachh Bharat and Smart Cities** discourse as historical precedent for planned urban hygiene.
 
 **4. Burnt (baked) bricks**
 
-- Standardized **burnt brick** ratio often **4 : 2 : 1** (length : breadth : thickness) — consistent across sites 1000+ km apart.
-- Unlike **Egypt** (mainly sun-dried/mud bricks) — Harappan **fired bricks** survived millennia in flood-prone Indus plains.
-- Used for houses, drains, wells, Great Bath, fortification walls, dockyard — **mass production** implies organised kiln industry.
-- **Wood fuel** for kilns in bronze-age Punjab/Sindh — environmental cost debated as factor in later decline.
+Harappans standardised **burnt brick** in ratio **4 : 2 : 1** (length : breadth : thickness) — consistent across sites separated by 1000+ km. Unlike **Egypt** where sun-dried mud bricks dominated (stone reserved for elite monuments like pyramids), Harappan **fired bricks** survived millennia in the flood-prone Indus plains. Bricks built houses, drains, wells, the Great Bath, fortification walls, and the Lothal dockyard — **mass production** implying organised kiln industry fuelled by wood, with environmental cost debated as a factor in later decline.
 
 **5. Domestic architecture**
 
-- Houses of **burnt brick** — typically **courtyard** plan; ground floor + sometimes upper storey (staircase evidence).
-- **Private wells** and **bathrooms** standard; **no windows on street side** in many houses (privacy/coolness/security).
-- **Public wells** and **bathing platforms** in neighbourhoods; **Great Bath** at Mohenjo-daro for communal ritual bathing.
-- Room sizes suggest **middle-class uniformity** — fewer extreme palaces than Mesopotamia (no clear "palace" identified).
+Houses of **burnt brick** followed a **courtyard** plan with ground floor and sometimes upper storey (staircase evidence). **Private wells** and **bathrooms** were standard; many houses had **no windows on the street side** for privacy, coolness, and security. **Public wells** and **bathing platforms** served neighbourhoods; the **Great Bath** at Mohenjo-daro served communal ritual bathing. Room sizes suggest **middle-class uniformity** — fewer extreme palaces than Mesopotamia, and no clear "palace" identified.
 
 **6. Public monumental structures — site-specific**
 
@@ -135,7 +118,7 @@ flowchart TB
 | **Bead factory quarter** | **Chanhudaro** | **Craft-specialist town** — carnelian/faience **bead-making**, bangle factory, no citadel |
 | **Assembly/ pillared hall** | Mohenjo-daro | Large public building — civic function debated (market, assembly, education?) |
 
-**Dockyard vs reservoir (exam distinction)**
+**Dockyard vs reservoir (critical distinction)**
 
 | Feature | **Lothal dockyard** | **Dholavira reservoirs** |
 |---------|---------------------|----------------------------|
@@ -143,9 +126,8 @@ flowchart TB
 | Location | Near **Sabarmati/Arabian Sea** coast (Gujarat) | Inland **Kutch** — no sea access |
 | Structure | Rectangular **basin with inlet/outlet** to river channel | Series of **dams, channels, baolis** |
 | Function | Export-import (beads, copper, cotton) | Rainwater harvesting for city survival |
-| Trap | Do not call Lothal a "reservoir city" | Do not call Dholavira a "port" |
 
-- **No clear temple or palace** like Mesopotamia — possibly **secular/civic** urbanism (debate continues); **Great Bath** and **fire altars** suggest ritual importance without monumental ziggurat.
+**Lothal** is a **dockyard/basin for ships**, not a reservoir city. **Dholavira** is an inland **reservoir/rainwater** city in arid Kutch, not a port. No clear temple or palace like Mesopotamia has been identified — Harappan urbanism appears **secular/civic** with ritual importance through the **Great Bath** and **fire altars** rather than monumental ziggurat architecture.
 
 **7. Town planning principles (summary)**
 
@@ -160,9 +142,9 @@ flowchart TB
 
 ### Harappan economy and trade
 
-- **Economic base:** **Agriculture** (wheat, barley, **cotton** — first cotton producers in world), **pastoralism** (cattle, sheep, goat, buffalo), **craft specialisation** (beads, seals, pottery, metallurgy), **long-distance trade**.
-- **Internal organisation:** Granaries, standardised **weights** (binary system — 16, 64, 1600 units), craft quarters (Chanhudaro); suggests **centralised state or temple administration** (exact governance unknown).
-- **External trade:**
+Harappan economy combined **agriculture** (wheat, barley, **cotton** — the world's first cotton producers), **pastoralism** (cattle, sheep, goat, buffalo), **craft specialisation** (beads, seals, pottery, metallurgy), and **long-distance trade**. **Granaries**, standardised **weights** (binary system — 16, 64, 1600 units), and planned craft quarters at sites like Chanhudaro suggest **centralised state or temple administration**, though exact governance remains unknown because the script is undeciphered.
+
+External trade linked Harappans to **Mesopotamia (Sumer)** — Harappan seals found at **Ur and Lagash**; Mesopotamian texts mention **Meluhha**, likely the Indus region. **Lothal dockyard** supported maritime export of beads, carnelian, and cotton; **Shortugai** (Afghanistan) served as a Harappan trading post on lapis lazuli and copper routes. Internal economy relied on **wheat, barley, and cotton** agriculture evidenced by the **Kalibangan ploughed field**, pastoral herds, and specialised craft quarters. **Seals** (steatite) with animal motifs (**unicorn bull**, elephant, rhinoceros, brahmani bull) likely functioned as trade or administration markers, but **~400 symbols of undeciphered script** prevent reading merchant names, ownership, or tax receipts — limiting governance and economic history to archaeological inference from granaries, weights, and workshop debris.
 
 | Direction | Evidence | Goods |
 |-----------|----------|-------|
@@ -170,13 +152,6 @@ flowchart TB
 | **Afghanistan/Baluchistan** | **Shortugai** (Afghanistan) Harappan trading post | Lapis lazuli, copper routes |
 | **Maritime (Arabian Sea)** | **Lothal dockyard** | Export beads, carnelian; import copper, shell |
 | **Internal networks** | Standardised weights across sites | Inter-city commerce |
-
-- **Seals** (steatite) — likely **trade/administration** markers; animal motifs (**unicorn bull**, elephant, rhinoceros, brahmani bull); **script undeciphered** — cannot read merchant names or transactions.
-- **Script undeciphered — limits on economic knowledge:**
-  - Cannot read **merchant records, ownership, tax receipts** on seals/tablets (~400 symbols, short texts).
-  - **Governance structure unknown** — no king list, no readable law codes; "priest-king" seal from Mohenjo-daro is debated identification.
-  - Debates on **state vs merchant guild** control remain open.
-  - Archaeology (weights, workshop debris, dockyard) fills gap — but **written economic history incomplete**.
 
 ### Technology supporting urban life
 
@@ -202,35 +177,25 @@ flowchart TB
 | **Water management** | Dholavira reservoirs | Tigris-Euphrates irrigation | Nile flood dependence |
 | **Social hierarchy evidence** | Less extreme palace gap | Clear palaces, kings | Divine pharaoh |
 
+Harappan urban planning **surpassed contemporary Mesopotamia and Egypt** in grid regularity, burnt-brick standardisation, and household-linked drainage — though lacked their deciphered scripts and monumental royal architecture.
+
 ### Significance and legacy
 
-- Marks **beginning of urban India** — planned cities **4000+ years ago**; foundation for all later subcontinental urban traditions.
-- Demonstrates **advanced civic engineering** — grid, hygiene, standardisation — relevant to modern **Smart Cities, AMRUT (sanitation), Swachh Bharat** policy discourse (as historical inspiration, not direct copy).
-- **UP angle:** **Rakhigarhi** (Haryana — largest Indian Harappan site, DNA and settlement studies ongoing), **Kalibangan** (Rajasthan), eastern limit near **Meerut**; connects to UPPCS state geography questions.
-- **Global recognition:** **Dholavira: A Harappan City** inscribed as **UNESCO World Heritage Site (2021)** — part of "Harappan City" serial nomination; validates international significance of Harappan town planning and water management.
+Harappan civilization marks the **beginning of urban India** — planned cities **4000+ years ago** forming the foundation for all later subcontinental urban traditions. It demonstrates **advanced civic engineering** — grid, hygiene, standardisation — relevant to modern **Smart Cities, AMRUT (sanitation), and Swachh Bharat** policy discourse as historical inspiration rather than direct technological replication. **Rakhigarhi** (Haryana — largest Indian Harappan site with ongoing DNA and settlement studies), **Kalibangan** (Rajasthan) with its ploughed field and fire altars, and the eastern limit near **Meerut** connect Harappan heritage to the Gangetic region and demonstrate that urban India did not begin with the Mauryas or Guptas but with Bronze Age planners who solved drainage, water storage, and craft zoning problems that modern cities still confront.
+
+**Dholavira: A Harappan City** inscribed as **UNESCO World Heritage Site (2021)** validates international significance of Harappan town planning and water management — particularly the **16-reservoir system** that sustained a major city in the arid Rann of Kutch, proving regional adaptation within a shared planning vocabulary.
 
 ### Contemporary relevance
 
-- **UNESCO World Heritage — Dholavira (2021):** Inscribed as **"Dholavira: a Harappan City"** — recognises **16-reservoir water management**, signboard inscription, and planned urban layout; obligates **ASI** conservation and international monitoring under World Heritage Convention.
-- **ASI excavations and protection:** **Rakhigarhi** (Haryana) — largest Indian Harappan site; ongoing excavations reveal **cemetery, lanes, jewellery**; **Mohenjo-daro, Harappa, Lothal, Dholavira** under ASI/state protection; **Ancient Monuments Act 1958**.
-- **Constitutional framework:** **Article 49** — state shall protect monuments of national importance; **Article 51A(f)** — citizen duty to value heritage including **first urban civilization of India**.
-- **NEP 2020 — Indian Knowledge Systems (IKS):** Harappan **metrology, hydrology (Dholavira), urban grid planning, bead technology** integrated into **archaeology, ancient history, and civil engineering** curriculum — links Bronze Age science to modern town planning education.
-- **Sanitation and urban policy:** Harappan **covered drainage and household bathrooms** cited in **Swachh Bharat Mission, AMRUT, Smart Cities Mission** discourse as historical precedent for **planned urban sanitation** — useful for GS papers linking heritage to governance (state carefully — technology differs, principle of planning aligns).
-- **National Museum and tourism:** Harappan gallery at **National Museum, New Delhi**; **Dholavira, Lothal** on Gujarat heritage circuit; **Incredible India** and state tourism promote **Indus Valley archaeological tourism**.
-- **Climate and water relevance:** **Dholavira rainwater harvesting** in arid Kutch studied by **modern hydrologists and architects** for **water-scarce region planning** — ancient engineering informs contemporary **Jal Shakti, watershed management** discussions.
-- **Script research:** Ongoing **computational linguistics and AI-assisted decipherment** attempts — if successful, would revolutionise understanding of Harappan governance and economy; currently **stable exam fact: script undeciphered**.
+**Dholavira: a Harappan City** received **UNESCO World Heritage inscription (2021)**, recognising **16-reservoir water management**, the signboard inscription, and planned urban layout — creating ASI conservation obligations under the World Heritage Convention. **ASI excavations** continue at **Rakhigarhi** (Haryana), the largest Indian Harappan site, revealing cemetery lanes and jewellery; **Mohenjo-daro, Harappa, Lothal, and Dholavira** operate under ASI or state protection via the **Ancient Monuments Act 1958**. **Article 49** directs the state to protect monuments of national importance; **Article 51A(f)** makes preserving **India's first urban civilization** a citizen duty.
+
+**NEP 2020 IKS** integrates Harappan **metrology, hydrology (Dholavira), urban grid planning, and bead technology** into archaeology, ancient history, and civil engineering curriculum — linking Bronze Age science to modern town planning education. Harappan **covered drainage and household bathrooms** are cited in **Swachh Bharat Mission, AMRUT, and Smart Cities Mission** discourse as historical precedent for **planned urban sanitation**. The Harappan gallery at **National Museum, New Delhi** and heritage circuits at **Dholavira and Lothal** support **Incredible India** archaeological tourism. **Dholavira rainwater harvesting** in arid Kutch is studied by **modern hydrologists and architects** for **water-scarce region planning**, informing **Jal Shakti and watershed management** discussions. Ongoing **computational linguistics and AI-assisted decipherment** attempts may eventually revolutionise understanding of Harappan governance — currently the **stable fact remains: script undeciphered**.
 
 ### Limits and decline (balanced view)
 
-- **Decline** c. **1900 BCE** — causes debated (multi-causal, not single factor):
-  - **Climate change** — **Ghaggar-Hakra (Saraswati) drying**; reduced monsoon (evidence from Kotla Dahar lake sediments).
-  - **Floods** — Mohenjo-daro rebuilt multiple times over flood damage.
-  - **Tectonic shifts** — Indus course changes.
-  - **Ecological overexploitation** — deforestation for kiln fuel.
-  - **Aryan migration** — **not proven** as sole cause of decline; **Horse** evidence in mature Harappan is **doubtful/scarce** — major difference from later Vedic age.
-- **Script unread** — limits knowledge of governance, religion, language family, and **full economic organisation**; avoid over-confident claims about "Harappan kings" or "Harappan laws."
-- Not all sites equally planned — **village sites** simpler; mature cities (Mohenjo-daro, Dholavira) show full features; **regional variation** exists (Dholavira water-focused, Lothal trade-focused, Chanhudaro craft-focused).
-- **No iron, no horse (mainly), no deciphered literature** — Bronze Age urbanism with limits compared to later historic periods.
+Harappan civilization **declined c. 1900 BCE** through **multi-causal factors**, not a single event. **Climate change** including **Ghaggar-Hakra (Saraswati) drying** and reduced monsoon (evidence from Kotla Dahar lake sediments) stressed agricultural bases. **Floods** forced Mohenjo-daro to rebuild multiple times. **Tectonic shifts** altered Indus courses; **ecological overexploitation** including deforestation for kiln fuel depleted resources. **Aryan migration** is **not proven** as sole cause — **horse** evidence in mature Harappan contexts is **doubtful/scarce**, distinguishing Harappan from later Vedic age material culture.
+
+The **undeciphered script** (~400 signs) limits knowledge of governance, religion, language family, and full economic organisation — avoid over-confident claims about "Harappan kings" or "Harappan laws." The famous "priest-king" seal from Mohenjo-daro remains debated identification; without readable inscriptions, debates on **state versus merchant guild** control stay open. Not all sites were equally planned: village sites were simpler while mature cities (Mohenjo-daro, Dholavira) show full features; **regional variation** exists — Dholavira water-focused, Lothal trade-focused, Chanhudaro craft-focused. **No iron, no horse (mainly), no deciphered literature** mark Bronze Age urban limits compared to later historic periods, yet within those limits Harappans achieved planning sophistication that remains instructive four millennia later.
 
 ---
 

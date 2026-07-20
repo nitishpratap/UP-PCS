@@ -67,201 +67,209 @@ TRAPS: RS cannot reject money bill · JPC ≠ standing committee · Estimate ≠
 
 ## Content
 
-### Context — legislature as heart of parliamentary democracy
+### Context — legislature as the engine of parliamentary democracy
 
-**Parliament (Union)** and **State Legislatures** translate **electoral mandates** into **law**, **budget**, and **executive oversight**. UPPCS GS-II Topic 06 tests **structure (LS/RS/Vidhan Sabha/Parishad)**, **law-making stages**, **Rajya Sabha's special federal powers**, **parliamentary committees (JPC, Estimates)**, **executive control**, and **state-specific processes (UP Assembly, Legislative Council)** — **8 PYQs (2018–2025)**.
+In a parliamentary system, the **legislature is not merely a law factory** — it is the institution through which **electoral mandates become binding rules**, **public money is authorised**, and **the executive is held accountable daily**. At the Union level, **Parliament (Part V)** performs this role; at the state level, **State Legislatures (Part VI)** mirror the design with **Governor** replacing **President** as constitutional head. India's model follows the **Westminster tradition** — **fusion of executive and legislature** through **collective cabinet responsibility** — but modifies it with a **written constitution**, **judicial review**, **bicameral federalism**, and **detailed procedural rules** that no unwritten system replicates.
 
-India follows **Westminster parliamentary model** — **fusion of executive-legislature** at Union and states, modified by **written constitution**, **judicial review**, and **bicameral federalism**.
+Understanding this topic requires grasping **four interconnected mechanisms**: (1) **institutional structure** — who sits in each house and for how long; (2) **law-making procedure** — how a bill becomes an Act; (3) **special powers** — especially **Rajya Sabha's federal legislative tools (Art 249, 312)**; and (4) **oversight architecture** — **parliamentary committees** and **floor instruments** (Question Hour, no-confidence, cut motions) that control the executive between elections. State legislatures add a fifth dimension — **regional law-making** with **Governor assent (Art 200)** and optional **Legislative Councils (Art 169)** — illustrated concretely by **Uttar Pradesh's unicameral Vidhan Sabha**.
 
-### Structure of Parliament (Union)
+### Structure of Parliament — Article 79 and the three constitutional components
 
-**Article 79** — Parliament = **President + Lok Sabha + Rajya Sabha**.
+**Article 79** defines Parliament as consisting of the **President**, the **Lok Sabha (House of the People)**, and the **Rajya Sabha (Council of States)**. The **President is part of Parliament** — not external to it — and performs **critical legislative functions**: **summoning and proroguing sessions (Art 85)**, **dissolving Lok Sabha (Art 85(2)(b))**, **assenting to bills (Art 111)**, and promulgating **ordinances (Art 123)** when Parliament is not in session. This **formal inclusion** means law-making is a **three-component process** even though **real political power** concentrates in the **two elected/nominated houses**.
 
-| House | Composition | Term | Key role |
-|-------|-------------|------|----------|
-| **Lok Sabha (House of People)** | Max **552** (530 states + 20 UTs + 2 Anglo-Indian nominated — latter abolished **104th Amendment**) | **5 years** (extendable in Emergency) | **Money bills**, **no-confidence**, **primary budget** |
-| **Rajya Sabha (Council of States)** | Max **250** (**238 elected** by state assemblies + **12 nominated** by President — Art **80**) | **6 years** — **1/3 retire every 2 years** | **Federal chamber**, **special legislative powers**, **continuity** |
-| **President** | Indirect election | **5 years** | **Assent to bills**, **ordinances (Art 123)**, **joint session (Art 108)** |
+| House / Office | Composition (what) | Term & continuity (how) | Primary constitutional role (why) |
+|----------------|-------------------|---------------------------|-----------------------------------|
+| **Lok Sabha** | Maximum **552 members** — **530 from states**, **20 from UTs**, **2 Anglo-Indian nominated** (nomination abolished by **104th Amendment, 2020**) | **5 years** from first sitting — **dissolvable**; term extendable during **Emergency (Art 83)** | **Directly elected chamber** — **money bills (Art 110)**, **no-confidence (Art 75(3))**, **primary budget control** — ensures **financial supremacy of the people** |
+| **Rajya Sabha** | Maximum **250** — **238 elected** by state/UT assemblies via **proportional representation (Art 80(4))** + **12 nominated** by President for **literature, science, art, social service (Art 80(3))** | **6 years** per member — **1/3 retire every 2 years (Art 83(1))** — **permanent house, never dissolved** | **Federal and expert chamber** — **state representation at Centre**, **continuity during LS dissolution**, **exclusive powers Art 249/312** |
+| **President** | Indirectly elected by **electoral college (Art 54)** — MPs + MLAs | **5 years (Art 56)** — **impeachment (Art 61)** possible | **Constitutional assent**, **ordinances**, **joint session summons (Art 108)** — **checks hasty legislation**, enables **governance between sessions** |
 
-**Officers:** **LS Speaker** (neutral conduct, casting vote); **RS Chairman** (Vice-President ex-officio); **Deputy Speakers/Chairman**.
+**Officers and sessions:** The **Lok Sabha Speaker (Art 93)** conducts proceedings, maintains order, certifies **Money Bills (Art 110(4))**, and exercises a **casting vote** in ties — expected to be **impartial** once elected. The **Rajya Sabha Chairman** is the **Vice-President ex-officio (Art 64)**; the **Deputy Chairman (Art 67(e))** presides when the Chairman's post is vacant — a **procedural distinction** unique to RS. **Parliament must meet at least twice a year** with **no gap exceeding 6 months (Art 85(1))** — conventionally **Budget, Monsoon, and Winter sessions** structure the annual calendar.
 
-**Sessions:** **Budget, Monsoon, Winter** — **not less than twice a year**, **≤6 months gap** (Art **85**).
+### Structure of State Legislatures — Article 168 and bicameral variation
 
-### Structure of State Legislatures
+**Article 168** establishes that every state has a **Governor** and **Legislature** — which may be **unicameral (Vidhan Sabha only)** or **bicameral (Vidhan Sabha + Vidhan Parishad/Legislative Council)**.
 
-**Article 168** — Each state has **Governor + Legislature**:
-- **Unicameral** — **Vidhan Sabha** only — e.g. **Uttar Pradesh** (since **Legislative Council abolished 1988**), **Punjab, Haryana, Odisha**, most states.
-- **Bicameral** — **Vidhan Sabha + Vidhan Parishad (Legislative Council)** — **4 states currently** — **Maharashtra, Karnataka, Bihar, Telangana**; **UP abolished 1988**; **AP abolished 2021**.
+- **Unicameral states** — **Vidhan Sabha (Legislative Assembly)** is the **sole house** — e.g. **Uttar Pradesh** (since **Legislative Council abolished 1988**), **Punjab, Haryana, Odisha, West Bengal**, and **most states**. *Why unicameral:* **Cost efficiency**, **direct democratic mandate without second-chamber delay**, and **political judgment** that an upper house adds **obstruction without proportional benefit** — the argument that led **UP (1988)** and **Andhra Pradesh (2021)** to abolish Councils.
 
-**Vidhan Sabha** — **UP: 403 members** (2024 delimitation context); **5-year term**; **real legislative power**.
+- **Bicameral states (currently four)** — **Maharashtra, Karnataka, Bihar, Telangana** maintain **Vidhan Parishad**. *Composition:* Maximum **one-third of Sabha strength**; **one-third retire every 2 years**; **6-year terms**; **1/6 nominated** (Governor: literature/science/co-op/social service); **1/3 elected by local bodies**, **1/12 by graduates**, **1/12 by teachers**, remainder by **Sabha MLAs**. *Powers:* Can **delay ordinary bills 4 months** (3 months + 1 month after reconsideration); **cannot reject Money Bills** — only **3 months' delay** — mirroring **Rajya Sabha's financial subordination**.
 
-**Vidhan Parishad** — **Max 1/3 of Sabha strength**; **1/3 retire every 2 years**; **6-year term**; **1/6 nominated** (local bodies, graduates, teachers, Governor nominees); **cannot reject money bills** (3 months delay); **can delay ordinary bills** (4 months).
+**Uttar Pradesh specifics:** **403-member Vidhan Sabha** (post-delimitation context) — **largest state legislature** by seats — **5-year term (Art 172)**; **Governor (Art 153)** as constitutional head; **unicameral since 1988** when **Vidhan Parishad was abolished** under **Art 169** after Assembly resolution and Parliamentary law — bills proceed **directly from Sabha to Governor** without upper-house delay.
 
-### Law-making process — Parliament (model for states)
+### Law-making at Parliament — stages, bill types, and deadlock resolution
 
-**Stages of a ordinary bill:**
+**Ordinary bill procedure** — the template state legislatures adapt:
 
-1. **Introduction** — Minister or private member; **prior notice**; **leave of House**.
-2. **Publication** — In **Gazette** (if not published earlier).
-3. **First reading** — Formal introduction; **no debate on merits** (usually).
-4. **Committee stage** — **Select/Joint Committee** or **Department-related Standing Committee (DRSC)** examination — **clause-by-clause** scrutiny.
-5. **Second reading** — **General discussion** on principles.
-6. **Third reading** — **Vote on bill as a whole**.
-7. **Other House** — Repeat stages (RS or LS).
-8. **President's assent** — **Art 111** — withhold (rare), return (once), or assent.
+1. **Introduction (First reading)** — Minister (**government bill**) or member (**private member bill**) gives **prior notice**; House grants **leave to introduce**; bill published in **Gazette of India** if not already published. *Why:* Public notice and **House permission** prevent **surprise legislation**.
 
-**If deadlock:** **Joint sitting (Art 108)** — **Speaker presides** — **simple majority** — **not for Money Bills or Constitutional Amendment Bills**.
+2. **Committee stage (optional but critical)** — Bill referred to **Select Committee, Joint Committee**, or examined by **Department-related Standing Committee (DRSC)** — **clause-by-clause scrutiny**, **stakeholder consultation**. *Why:* Floor time is insufficient for **technical detail** — committees are **"mini-parliaments"**.
 
-**Money Bill (Art 110):**
-- **Certificate of Speaker** final ( **Raja Sabha cannot reject**).
-- **RS: 14 days** to recommend amendments.
-- **Lok Sabha may reject RS suggestions**.
+3. **Second reading** — **General debate on principles**; amendments moved. *Why:* **Political accountability** on policy direction before final text freeze.
 
-**Constitutional Amendment:** Separate **Art 368** route — not ordinary bill process.
+4. **Third reading** — **Vote on bill as a whole** — usually **simple majority** (special majority only if constitutionally required). *Why:* Final **collective legislative approval**.
+
+5. **Other House** — Same stages repeated in **Rajya Sabha** (if introduced in LS) or vice versa. *Why:* **Bicameral review** — second thought on legislation.
+
+6. **President's assent (Art 111)** — President may **give assent**, **withhold assent** (rare — no time limit but convention-bound), or **return bill once** for reconsideration (not applicable to **Money Bills**). *Why:* **Final constitutional check** — though **real veto power is constrained by convention and judicial review**.
+
+**Deadlock resolution — Art 108 joint sitting:** If ordinary bill passes one house but **other house rejects, or disagrees on amendments, or fails to act for 6 months**, the **President summons joint sitting** of both houses — **Speaker presides**, **simple majority** decides. *Excluded:* **Money Bills (Art 110)** and **Constitutional Amendment Bills (Art 368)** — **no joint sitting** — reflecting **LS financial supremacy** and **special amendment procedure**.
+
+**Money Bill (Art 110)** — **Lok Sabha-dominated procedure:**
+- **Speaker's certificate (Art 110(4))** is **final** — defines whether bill is Money Bill.
+- **Only Lok Sabha may introduce** Money Bills.
+- **Rajya Sabha: 14 days** to **recommend amendments** — **cannot reject**.
+- **Lok Sabha may accept or reject RS suggestions** — **LS decides finally**.
+- *Why:* **Westminster principle** — **public finance controlled by directly elected house**; **Aadhaar Act 2016** certification controversy showed **Speaker's certificate** is **politically consequential**.
+
+**Constitutional Amendment Bills** follow **Art 368** separately — not ordinary bill route; **no joint sitting**, **no Money Bill overlap**.
 
 ```mermaid
 flowchart LR
   B[Bill introduced] --> C[Committee scrutiny]
   C --> H[Both Houses pass]
-  H --> P[President assent]
-  P --> L[Law]
-  H -->|Deadlock ordinary bill| J[Art 108 Joint sitting]
+  H --> P[President assent Art 111]
+  P --> L[Act of Parliament]
+  H -->|Deadlock on ordinary bill| J[Art 108 Joint sitting]
 ```
 
-### Law-making in Uttar Pradesh Legislative Assembly (2023 PYQ)
+### Law-making in Uttar Pradesh Legislative Assembly — unicameral state procedure
 
-**UP Legislature** = **Governor + Vidhan Sabha** (**unicameral** since **1988** abolition of **Vidhan Parishad**).
+Since **1988**, **Uttar Pradesh** has **Governor + 403-member Vidhan Sabha only** — no Vidhan Parishad. The procedure **mirrors Parliament** under **state rules of procedure**:
 
-**Process (mirrors Parliament with state rules):**
+1. **Bill introduction** — **Minister (government bill)** or **MLA (private member bill)** — latter **rarely passed**; requires **Speaker's permission**; published in **Uttar Pradesh Gazette**. *Mechanism:* Government bills dominate because **executive controls legislative majority** and **time allocation**.
 
-1. **Bill types** — **Government bill** (minister) or **private member bill** (MLA) — latter rarely passed.
-2. **Introduction** in **Vidhan Sabha** with **Speaker's permission**; published in **Uttar Pradesh Gazette**.
-3. **First reading** — title and object stated.
-4. **Reference to Select Committee** (optional) — **public consultation**, **clause scrutiny** — important for **complex bills** (e.g. **UP Revenue Code**, **police bills**).
-5. **Second reading** — **debate on principles**; **amendments** proposed.
-6. **Third reading** — **final passage** by **majority**.
-7. **No second house** — bill sent directly to **Governor (Art 200)**.
-8. **Governor's options** — assent, withhold (reserve for President), return with message (once).
-9. **President's assent** required if bill affects **High Court powers**, **Election Commission**, **All-India Services**, or **conflicts with Union law (Art 254)**.
+2. **First reading** — **Title and objects** stated; formal introduction without merits debate (usually). *Why:* **Procedural formality** marking bill's entry into legislative process.
 
-**Conduct of business:** **Question Hour**, **Zero Hour**, **Calling Attention**, **Adjournment motions** — **executive accountability** at state level.
+3. **Select Committee reference (optional)** — For **complex legislation** (e.g. **UP Revenue Code**, **police reform bills**) — **public consultation**, **clause scrutiny**, **expert evidence**. *Why:* **403-member floor** cannot examine **technical statutes** line-by-line.
 
-**UP-specific note:** Largest **state legislature** by seats — **law-making volume high** — **ordinances (Art 213)** used when assembly not in session — subject to **approval within 6 weeks** of reassembly.
+4. **Second reading** — **Debate on principles**; amendments proposed and voted. *Why:* **Policy deliberation** before final passage.
 
-### Rajya Sabha — special legislative powers (2018, 2024 PYQs)
+5. **Third reading** — **Final vote** on bill as whole — **simple majority** unless constitution requires special majority. *Why:* **Definitive legislative authorisation**.
 
-Powers **exclusive to Rajya Sabha** (not enjoyed by Lok Sabha):
+6. **No second chamber** — Bill sent directly to **Governor under Art 200**. *Options:* **Assent** (becomes law); **withhold assent** (reserve for President — rare); **return with message once** (Sabha may or may not amend). *Why:* **Governor as constitutional check** — but **real power limited by convention**.
 
-| Power | Constitutional basis | Effect |
-|-------|---------------------|--------|
-| **Legislate on State List** | **Art 249** | **RS resolution by 2/3 members present and voting** — Parliament may make law on **State List** for **national interest** — **valid 1 year**, renewable |
-| **Create new All-India Service** | **Art 312** | **2/3 RS majority** — authorises **Parliament** to create e.g. **new AIS cadre** (beyond **IAS, IPS, IFS**) |
-| **Continuity of Council of States** | **Art 83(1)** | **Not subject to dissolution** — **one-third renewal** — **federal stability** |
+7. **President's assent required** when bill affects **High Court jurisdiction**, **Election Commission**, **All-India Services**, or **conflicts with Union law (Art 254)** — **Union supremacy** over **conflicting state legislation**.
 
-**Additional RS distinction (not "exclusive" but comparative):**
-- **12 members nominated** by President — **literature, science, art, social service** — **Art 80(3)** — **LS has no nominated members** (post **104th Amendment**).
-- **Representation of states/UTs** — **federal voice** — LS is **population-based** only.
+**State-level accountability tools:** **Question Hour**, **Zero Hour**, **Calling Attention Motion**, **Adjournment Motion** — same **Westminster accountability** as Parliament, adapted to **state executive (CM + Council of Ministers)**.
 
-**What LS has that RS lacks:**
-- **Money Bill origin and final say (Art 110)**
-- **No-confidence motion** against **Council of Ministers (Art 75(3))**
-- **Primary control of budget** — **demands voted here first**
+**Ordinance route (Art 213):** Governor promulgates **ordinance when Assembly not in session** — must be **approved within 6 weeks of reassembly** or **ceases to operate**. *Why:* **Urgent governance** between sessions — but **bypasses immediate legislative scrutiny**, a recurring **federalism/accountability concern**.
 
-**Exam tip:** **2018 PYQ** = powers **RS has, LS doesn't**; **2024 PYQ** = **special legislative powers** — focus **Art 249 + Art 312**.
+### Rajya Sabha — special legislative powers exclusive to the Council of States
 
-### Parliamentary committees — role and types
+The Constitution grants **Rajya Sabha two powers Lok Sabha cannot initiate** — reflecting its role as **federal chamber** representing **states at the Centre** and ensuring **continuity** in national legislation.
 
-**Why committees?** Parliament cannot **scrutinise every detail** on floor — **committees = "mini-parliaments"** — **expert, bipartisan, continuous** scrutiny (**Dr. L M Singhvi**).
+| Power | Constitutional mechanism (how) | Effect (what) | Rationale (why) |
+|-------|-------------------------------|---------------|-----------------|
+| **Legislate on State List (Art 249)** | **RS resolution by 2/3 of members present and voting** that **Parliament should make law** on State List subject **in national interest** — resolution valid **1 year**, **renewable** | Parliament may legislate on **State List** subjects (e.g. **essential commodities, labour standards**) **despite state legislative competence** | Enables **nation-wide uniform law** when **state fragmentation** threatens **national interest** — ironic that **"states' house" authorises central encroachment** |
+| **Create new All-India Service (Art 312)** | **RS resolution by 2/3 majority** — authorises **Parliament** to create **new All-India Service** beyond **IAS, IPS, IFS** | **Uniform administrative cadre** serving **Union and states** — e.g. potential **Indian Legal Service, Indian Education Service** | **Administrative integration** across states — **Centre-state personnel unity** |
+| **Permanent chamber (Art 83(1))** | **Not subject to dissolution** — **1/3 members retire every 2 years** | **Continuity of legislative business** when **Lok Sabha dissolved** for elections | Prevents **legislative vacuum** during **general election periods** |
 
-**Classification:**
+**Additional RS distinctions (comparative, not exclusive):**
+- **12 nominated members (Art 80(3))** — **literature, science, art, social service** expertise — **LS has no nominated members** after **104th Amendment** abolished Anglo-Indian nomination.
+- **State/UT representation** — MLAs elect RS members — embeds **sub-national political composition** in **national legislature**.
 
-| Type | Examples | Function |
-|------|----------|----------|
-| **Standing — Financial** | **Public Accounts Committee (PAC)**, **Estimates Committee**, **Committee on Public Undertakings (COPU)** | **CAG audit**, **economy in spending**, **PSU performance** |
-| **Standing — DRSCs** | **24 Department-related Standing Committees (1993)** | **Examine bills**, **demands for grants**, **departmental policy** |
-| **Standing — House** | **Business Advisory**, **Rules**, **General Purposes** | **Scheduling**, **procedure** |
-| **Ad hoc** | **Joint Parliamentary Committee (JPC)**, **RAFA** | **Specific investigation** or **bill scrutiny** |
+**What Lok Sabha exclusively holds:**
+- **Money Bills (Art 110)** — origin, Speaker certification, final decision on RS amendments.
+- **No-confidence motion (Art 75(3))** — Council of Ministers must enjoy **LS confidence** — defeat forces **resignation**.
+- **Primary budget initiative** — **demands for grants voted in LS first** — **financial supremacy of directly elected house**.
 
-**Estimates Committee (2022 PYQ):**
-- **Largest standing committee** — **30 members**, **all from Lok Sabha**.
-- **Continuous since 1950** — **oldest** financial committee.
-- **No ministers** allowed — **independent scrutiny**.
-- **Examines budget estimates** — suggests **economies**, **efficiency**, **administrative reform** — **"policy of economy in expenditure"**.
-- **Chairman convention** — from **opposition** since **1967** ( **G.V. Mavalankar** tradition spirit).
-- **Differs from PAC** — PAC examines **CAG audit reports** ( **post-expenditure**); Estimates examines **proposed expenditure** ( **pre-expenditure efficiency**).
+### Parliamentary committees — continuous scrutiny beyond the floor
 
-**Joint Parliamentary Committee (JPC) — 2025 PYQ:**
-- **Ad hoc** — **equal members from LS and RS** — appointed by **Speaker/Chairman**.
-- **Investigates** specific matters — **Bofors (1987)**, **2G spectrum (2011)**, **Personal Data Protection Bill** scrutiny — or **scandals**.
-- **Role in legislative process:**
-  - **Clause-level examination** of **contentious bills** — **consensus building**.
-  - **Stakeholder hearings** — **experts, civil society** — **informed law-making**.
-  - **Reduces partisan floor deadlock** — **detailed report** guides **amendments**.
-- **Limits:** **Recommendations not binding**; **politicisation** in **scandal probes**; **delay** if **prolonged investigation**.
+Parliament cannot **examine every budget line, audit finding, and bill clause** on the crowded floor — **committees perform continuous, expert, bipartisan scrutiny** between sessions. **Dr. L.M. Singhvi** described committees as **"mini-parliaments"** — smaller groups with **specialised focus**, **evidence-taking power**, and **cross-party deliberation** away from **electoral rhetoric**.
 
-### Parliament's control over executive (2021 PYQ)
+| Committee type | Examples | Function (what → how → why) |
+|----------------|----------|----------------------------|
+| **Standing — Financial** | **Public Accounts Committee (PAC)**, **Estimates Committee**, **Committee on Public Undertakings (COPU)** | **PAC:** Examines **CAG audit reports** — **post-expenditure accountability** — pulls up executive on **misuse of funds**. **Estimates:** Examines **budget estimates before spending** — **"economy in expenditure"** — suggests **efficiency reforms**. **COPU:** Scrutinises **PSU performance** — **public enterprise accountability** |
+| **Standing — DRSCs** | **24 Department-related Standing Committees (1993)** | **Examine bills** referred to them; analyse **demands for grants** department-wise; review **policy implementation** — **pre-legislative and post-legislative scrutiny** |
+| **Standing — House** | **Business Advisory**, **Rules**, **General Purposes** | **Schedule business**, **interpret rules**, **administrative coordination** |
+| **Ad hoc** | **Joint Parliamentary Committee (JPC)**, **RAFA (Rules, Assurances, etc.)** | **Specific investigation** or **targeted bill scrutiny** — dissolved after report |
 
-**Methods of control:**
+**Estimates Committee — detailed mechanism:**
+- **30 members, all from Lok Sabha** — **largest standing committee**; **continuous since 1950** — **oldest financial committee**.
+- **No ministers permitted** — ensures **independence from executive** being scrutinised.
+- **Mandate:** Examine **budget estimates** — suggest **economies, efficiency improvements, administrative reform** in **proposed expenditure** — **pre-expenditure focus**.
+- **Chairman convention:** **Opposition MP** chairs since **1967** — continuing **G.V. Mavalankar** tradition of **non-partisan scrutiny spirit**.
+- **Distinction from PAC:** **PAC examines CAG audit reports (post-expenditure)** — what was **actually spent and whether properly accounted**; **Estimates examines proposed spending (pre-expenditure)** — whether **allocation is efficient before money flows**. **Both are essential** — **Estimates prevents waste upstream; PAC catches misuse downstream**.
 
-| Method | Mechanism |
-|--------|-----------|
-| **Question Hour** | **Starred (oral)**, **unstarred (written)**, **short notice** — ministers answer — **daily accountability** |
-| **Zero Hour** | **Unscheduled matters** — **immediate public issues** |
-| **Adjournment Motion** | **Urgent public importance** — **disrupts business** — **strong censure signal** |
-| **Calling Attention Motion** | Minister **explains** urgent matter |
-| **Debates** | **Budget**, **President's Address**, **no-confidence**, **matters under Rule 193/184** |
-| **Financial control** | **Vote on demands**, **cut motions** (token, policy, economy, amount) — **guillotine** limits time |
-| **Committees** | **PAC** pulls up **executive** on **CAG findings**; **DRSCs** examine **policy implementation** |
-| **No-confidence motion (LS only)** | **Art 75(3)** — ministry must enjoy **LS confidence** — defeat = **resignation** |
-| **Impeachment/removal** | **Judges, President, VP** — **Parliamentary role** |
-| **Private members' resolutions** | **Moral pressure** on policy |
+**Joint Parliamentary Committee (JPC) — detailed mechanism:**
+- **Ad hoc** — **equal members from Lok Sabha and Rajya Sabha** — appointed by **Speaker and Chairman** for **specific bill or investigation**.
+- **Historical examples:** **Bofors scandal (1987 JPC)**, **2G spectrum scam (2011 JPC)**, **Personal Data Protection Bill scrutiny**.
+- **Role in law-making:** (1) **Clause-by-clause examination** of **contentious bills** — builds **cross-party consensus**; (2) **Stakeholder hearings** — experts, industry, civil society — **evidence-based drafting**; (3) **Detailed report** guides **floor amendments** — **reduces partisan deadlock**.
+- **Limits:** Recommendations are **not legally binding** — government may **ignore**; **politicisation** in **scandal probes** may **delay** rather than **improve** legislation; **prolonged investigation** stalls **policy action**.
 
-**Limits:** **Anti-defection (10th Schedule)** — **party whips** reduce **independent voting**; **single-party majority** weakens **floor scrutiny**; **ordinances (Art 123)** bypass **immediate oversight**.
+| Committee | Focus | Timing | Members |
+|-----------|-------|--------|---------|
+| **Estimates** | **Proposed budget efficiency** | **Pre-expenditure** | **30 LS, no ministers** |
+| **PAC** | **CAG audit compliance** | **Post-expenditure** | **15 LS + 7 RS** |
+| **JPC** | **Specific bill/scandal** | **Ad hoc** | **Equal LS + RS** |
 
-### Legislative Council — creation and abolition (Art 169)
+### Parliament's control over the executive — mechanisms and limits
 
-**Article 169** procedure:
-1. **State Assembly** passes resolution by **special majority** — **create or abolish** Legislative Council.
-2. **Parliament** passes **Parliamentary law** to give effect — **simple process at Union level** once state resolves.
+**Article 75(3)** establishes that the **Council of Ministers is collectively responsible to the Lok Sabha** — the **constitutional foundation** of **parliamentary control**. The mechanisms operate on **daily, financial, and political** levels:
 
-**States with Vidhan Parishad (evolving):**
-- **Maharashtra, Karnataka, Bihar, Telangana** — active.
-- **Andhra Pradesh** — **Council recreated 2007**; **Assembly passed abolition resolution (Jan 2020)**; **Parliament passed Repeal Act (2020)** — **Council abolished 2021** — reasons cited:
-  - **Delay/obstruction** of **government bills** — **Council rejected/slow-walked** key legislation (e.g. **capital region bills**, **Council of Ministers bills**).
-  - **Financial burden** — **maintenance cost** of **second chamber** without **proportionate public benefit**.
-  - **Political composition** — **Council dominated by opposition/regional rivals** — seen as **blocking mandate** of **Assembly majority**.
-  - **Democratic argument** — **unelected/indirect elements** (graduates/teachers constituencies) — **less representative** than **Sabha**.
-- **Exam focus** — **reasons for 2020 resolution**: obstruction, cost, representation — plus **Art 169 two-step procedure**.
+| Method | Mechanism (how) | Control effect (why) |
+|--------|-----------------|----------------------|
+| **Question Hour** | **Starred questions (oral answer)**, **unstarred (written)**, **short-notice questions** — ministers must **answer on record** | **Daily departmental accountability** — exposes **policy failures, data, commitments** |
+| **Zero Hour** | **Unscheduled matters** raised immediately after Question Hour | **Urgent public issues** force **immediate executive response** without prior notice |
+| **Adjournment Motion** | **Suspends normal business** to discuss **urgent matter of public importance** — requires **leave of House** | **Strong censure signal** — politically costly for government |
+| **Calling Attention Motion** | Minister **explains** matter of **urgent public importance** | **Forces ministerial statement** on **crisis issues** |
+| **Financial control** | **Budget debate**, **vote on demands for grants**, **cut motions** (token, policy, economy, amount) — **guillotine** limits debate time | **Executive cannot spend public money** without **Parliamentary authorisation** — **ultimate fiscal control** |
+| **No-confidence motion (LS only)** | **Simple majority defeat** of government on confidence motion | **Strongest political sanction** — **ministry must resign (Art 75(3))** |
+| **Parliamentary committees** | **PAC** on **CAG findings**; **DRSCs** on **implementation gaps** | **Continuous audit and policy review** between sessions |
+| **Impeachment/removal** | **President (Art 61)**, **Vice-President**, **judges (Art 124(4))** — **Parliamentary procedure** | **Constitutional accountability** of **highest offices** |
+| **Debates and resolutions** | **Rule 193/184 discussions**, **private member resolutions** | **Moral and political pressure** on **policy direction** |
 
-**UP relevance:** **UP Vidhan Parishad abolished 1988** — **UP PCS home state** often asks **Assembly-only** law-making.
+**Limits on effective control:**
+- **Anti-defection (10th Schedule, 1985)** — **party whips** bind voting — reduces **independent floor judgment** on **no-confidence and cut motions**.
+- **Single-party majority governments** — **weaken opposition capacity** for **daily scrutiny** — **Question Hour** becomes **ritual** rather than **accountability**.
+- **Ordinance route (Art 123)** — **bypasses immediate Parliamentary approval** — ordinances must be **placed before Parliament** but enable **temporary law without prior debate**.
+- **Committee reports non-binding** — government may **accept or ignore** PAC/JPC/DRSC recommendations without **legal consequence**.
 
-### Parliamentary privileges (syllabus keyword)
+### Legislative Council — creation and abolition under Article 169
 
-**Article 105 (Parliament)** / **194 (State Legislatures):**
-- **Freedom of speech** in house — **subject to rules** and **Art 121/212** limits.
-- **Immunity** from court for **anything said or vote cast** in house.
-- **Collective privileges** — **publish reports**, **exclude strangers**, **punish breach of privilege**.
-- **Individual** — **freedom from arrest** in **civil cases** during sessions (+ **40 days** before/after).
-- **44th Amendment** — **salaries/allowances** by law — **reduced arbitrary privilege expansion**.
+**Article 169** provides a **two-step mechanism** for states to **create or abolish** a **Vidhan Parishad (Legislative Council)**:
 
-**Keshava Singh case (1965)** — **HC vs legislature** privilege conflict — **basic structure of parliamentary democracy** balance.
+1. **State Legislative Assembly** passes resolution by **special majority** — **majority of total membership + two-thirds of members present and voting** — resolving that **Council be created or abolished**.
+2. **Parliament** enacts **law** to give effect — **simple Parliamentary process** once state resolves — **no Art 368 state ratification** required.
+
+*Why two steps:* **Federal choice** — states **decide bicameralism** for themselves; **Parliament** provides **uniform legal framework** — balances **state autonomy** with **national legislative consistency**.
+
+**Andhra Pradesh abolition (2020–21) — reasons cited:**
+- **Newly elected Jagan Mohan Reddy government (2019)** faced **Council dominated by opposition/regional rivals** after **Council recreated in 2007** (earlier abolished **1985**, recreated **2007**).
+- **Obstruction of government bills** — Council **rejected or delayed** key legislation including **capital region (Amaravati/three capitals) bills** and **Council of Ministers-related bills** — **second chamber blocking Assembly mandate**.
+- **Financial burden** — **maintenance cost** of **second chamber** without **proportionate legislative benefit**.
+- **Democratic representation argument** — **indirect/graduates/teachers constituencies** less **representative** than **directly elected Sabha** — **Accountability deficit**.
+- **Parliament passed abolition law (2020)** — **Council abolished 2021**. *Broader pattern:* **UP abolished 1988** for similar **cost-obstruction arguments** — **bicameralism debate** continues in **Maharashtra, Telangana**.
+
+**Council powers when it exists:** Can **delay ordinary bills 4 months**; **Money Bills: 3 months' delay only** — **cannot reject** — **subordinate to Sabha** on finance, unlike **Rajya Sabha's** broader (though still limited) role at Union level.
+
+### Parliamentary privileges — Articles 105 and 194
+
+**Article 105 (Parliament)** and **Article 194 (State Legislatures)** protect **legislative independence** so members can **debate and vote without external intimidation**:
+
+- **Freedom of speech in the house** — subject to **rules of procedure** and **Art 121/212** (no discussion of **judges' conduct** / **state legislature** parallel).
+- **Immunity from court proceedings** for **anything said or any vote cast** in the house — enables **frank criticism** of executive.
+- **Collective privileges** — **publish reports**, **exclude strangers**, **regulate internal affairs**, **punish breach of privilege**.
+- **Individual privileges** — **freedom from arrest in civil cases** during sessions plus **40 days before and after** — **not immunity from criminal law**.
+- **44th Amendment (1978)** — **salaries and allowances** by **law** — reduced **arbitrary privilege expansion**.
+
+**Keshava Singh case (1965)** — **Allahabad High Court vs U.P. Assembly** privilege conflict — Supreme Court held **legislature privileges must harmonise with fundamental rights and basic structure of parliamentary democracy** — **privileges are not unlimited**.
 
 ### Contemporary relevance
 
-- **JPC on major bills/scams** — **Data protection**, ** telecom regulation** — **committee scrutiny** vs **fast-track ordinances** debate.
-- **New criminal laws (BNS, BNSS, BSA 2023)** — **DRSC scrutiny**, **limited committee time** — **effective law-making** question live.
-- **Rajya Sabha Art 249** — rarely used but **exam-ready** for **labour/environment** on State List nationally.
-- **AP Legislative Council** — **2020 abolition resolution** — **bicameralism costs** debate in **Telangana, Maharashtra**.
-- **UP Assembly** — **403 members**, **2024 elections** — **state law-making** centre stage for **UP PCS**.
-- **Estimates/PAC** — **CAG reports on PM-KISAN, MGNREGA** — **committee follow-up** shapes **executive accountability**.
-- **Digital Parliament** — **e-Sansad, e-Vidhan** — **committee submissions online** — **transparency in law-making**.
+- **JPC scrutiny of major legislation** — **Data protection, telecom regulation** — **committee route** vs **fast-track ordinances** (new criminal laws **BNS, BNSS, BSA 2023**) — **DRSC time constraints** raise **effective law-making** questions.
+- **Rajya Sabha Art 249** — rarely invoked but **constitutionally ready** for **labour, environment, public health** on State List when **national uniformity** needed — **federal friction** if overused.
+- **Andhra Pradesh Legislative Council abolition (2020–21)** — revives **bicameralism cost-benefit debate** in **Telangana, Maharashtra, Karnataka**.
+- **Uttar Pradesh Assembly (403 members)** — **largest state legislature** — **state law-making** central to **governance of India's most populous state** — **ordinance use (Art 213)**, **Governor assent delays**.
+- **Estimates and PAC follow-up** — **CAG reports on PM-KISAN, MGNREGA** — **committee recommendations** shape **executive corrective action** (or **public embarrassment** if ignored).
+- **Digital Parliament initiatives** — **e-Sansad, e-Vidhan** — **online committee submissions** — **transparency in pre-legislative consultation**.
 
 ### Limits — balanced view
 
-- **Committee recommendations non-binding** — **government may ignore** DRSC/JPC reports.
-- **RS special powers** used **rarely** — **Art 249/312** — **federal friction** if overused.
-- **Money bill certification** controversy — **Aadhaar 2017** — **Speaker tag** limits **RS role**.
-- **State legislatures** — **Governor delays**, **ordinance route**, **President reference** — **weakens pure legislative autonomy**.
+- **Committee recommendations are advisory** — **DRSC, JPC, Estimates, PAC** reports **cannot compel** government action — **impact depends on political will** and **media amplification**.
+- **Rajya Sabha special powers are rarely used** — **Art 249/312** require **2/3 RS majority** — **high threshold** limits **routine centralisation** but also **limits effectiveness** as **federal safety valve**.
+- **Money Bill certification controversy** — **Aadhaar Act 2016** — **Speaker's Art 110(4) certificate** **excludes RS** from **meaningful review** — **potential misuse** to **bypass upper house**.
+- **State legislative autonomy constrained** — **Governor delays (Art 200)**, **ordinance route (Art 213)**, **President reference for conflicting bills (Art 254)** — **formal state law-making power** with **real central checks**.
+- **Anti-defection and party discipline** — **10th Schedule** strengthens **party control** over **individual member judgment** — **parliamentary control of executive** works best when **opposition is strong and members vote independently** — **structural trend toward executive dominance** in **majority governments**.
 
 ---
 

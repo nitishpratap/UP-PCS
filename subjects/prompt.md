@@ -566,8 +566,10 @@ Every topic file MUST follow this skeleton:
 
 ---
 
+<!-- DISABLED — do not create images / Exam Visuals section
 ## Exam Visuals — High-ROI Images
 [0–2 images only — see §Exam Visuals Protocol; skip section entirely if no exam-tested visual]
+-->
 
 ---
 
@@ -613,6 +615,7 @@ Every topic file MUST follow this skeleton:
 
 ---
 
+<!-- DISABLED — do not create / generate images for topic files
 ## Exam Visuals Protocol (History, Art & Culture, Geography)
 
 Add **only** visuals that help answer UPPCS **location-matching, map, chronology, or "which site/feature"** questions. Decoration and random chapter photos are forbidden.
@@ -676,6 +679,9 @@ Insert `## Exam Visuals — High-ROI Images` **after Memory Tricks, before first
 - [ ] At least one visual is a **map or diagram** (not photo-only section)
 - [ ] Every visual has exam-caption (PYQ/trap) + source line
 - [ ] Topics with no visual PYQ correctly have **no** Exam Visuals section
+-->
+
+> **Images disabled:** Do **not** add an `## Exam Visuals` section, do **not** generate maps/diagrams/photos, and do **not** save files under `images/`. Teach location/structure facts in prose and tables only.
 
 ---
 
@@ -946,12 +952,15 @@ Each framework: **Question title → Structure (word count) → 5–7 bullet poi
 - [ ] 2025 overlap concepts taught in matching N.X prose **(F5)**
 - [ ] Common Trap items synced to Consolidated Reference **(F6)**
 
+<!-- DISABLED — image / Exam Visuals checks
 ### Exam visuals (History / Art & Culture / Geography)
 - [ ] `## Exam Visuals` present only when 1–2 high-ROI visuals exist (see §Exam Visuals Protocol)
 - [ ] **All images stored locally** in `images/` — open offline (no remote-URL-only)
 - [ ] At least one visual is a **location map or conceptual diagram** (not photo-only)
 - [ ] Each visual has exam-caption (PYQ/trap) + source line
 - [ ] Visual count ≤2 per topic; no decorative stock photos
+-->
+- [ ] **No images** — no `## Exam Visuals` section, no generated maps/diagrams/photos, no `images/` assets
 
 ### Exam alignment
 - [ ] 2025 overlap concepts in matching N.X prose + noted in Delivery Report **(F5)**
@@ -1169,7 +1178,10 @@ Run **§UPPCS PYQ Search & Addition Protocol** on all `pyq/` files (**UPPCS Prel
 | 13 | `13_Archaeology.md` | ✅ Complete | UP sites map + stratigraphy/C-14 diagram |
 | 14 | `14_Ancient_India_Miscellaneous.md` | ✅ Complete | World civilizations chart + Kakatiya sites map |
 
+<!-- DISABLED — image generation
 **Visual priority for Ancient History:** (1) **location maps** for site/capital matching, (2) **conceptual diagrams** for structure/chronology, (3) labelled sketches only when PYQ demands artefact ID. All files in `images/` — must open offline.
+-->
+**Images disabled:** Cover site/capital matching and structure/chronology in prose and tables only — do not generate or attach image files.
 
 ### Future subjects
 

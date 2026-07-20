@@ -65,51 +65,35 @@ TRAPS: WWI ≠ only Sarajevo cause | USA entered WWI 1917 not 1914 | USSR entere
 
 ### Context — Europe from 1914 to 1945
 
-- **Two world wars** in **30 years** killed **tens of millions**, destroyed **European economic dominance**, **redrew maps**, ended **four empires** (German, Austro-Hungarian, Ottoman, Russian tsarist), accelerated **decolonization**, and created **United Nations — Cold War order**.
-- **Syllabus keywords covered here:** **World Wars**, **redraw of national boundaries**, **colonialism and end of colonialism**, plus **post-WWII peace architecture**.
+Two world wars within thirty years killed tens of millions, destroyed European economic dominance, redrew maps, ended four empires (German, Austro-Hungarian, Ottoman, Russian tsarist), accelerated decolonization, and produced the United Nations and Cold War order. Understanding this arc requires linking Balkan nationalism to 1914, Versailles grievances to Hitler's rise, Allied victory to UN peace architecture, and weakened European metropoles to Asian and African independence. Boundaries drawn in 1919 and 1945 remain live—from Kashmir to Palestine to Ukraine—because they encoded great-power bargains as much as self-determination.
 
 ### First World War — causes and nature
 
-**Long-term causes**
-- **Militarism:** **Anglo-German naval race** (Dreadnoughts), **conscription** — **arms culture**.
-- **Alliance system:** **Triple Alliance** (Germany, Austria-Hungary, Italy*) vs **Triple Entente** (France, Russia, Britain) — **localized war → continental**.
-- **Imperialism:** **Moroccan crises (1905, 1911)**, **competition for colonies** — **tension between powers**.
-- **Nationalism:** **Pan-Slavism**, **Irredentism** — especially **Balkans**.
+Long-term causes combined militarism, alliances, imperialism, and nationalism. Anglo-German naval rivalry (Dreadnoughts) and universal conscription normalised arms culture. The Triple Alliance (Germany, Austria-Hungary, Italy*) faced the Triple Entente (France, Russia, Britain)—so a Balkan incident could become continental war. Imperial competition—Moroccan crises (1905, 1911), Scramble for Africa—heightened distrust. Nationalism, especially Pan-Slavism and irredentism, poisoned the Balkans.
 
-**Immediate trigger:** **28 June 1914, Sarajevo** — **Gavrilo Princip** (Young Bosnia / Serbian nationalist) assassinated **Archduke Franz Ferdinand** (heir to **Austria-Hungary**) — **July Crisis** → **Austria's ultimatum to Serbia** → **Russia mobilizes** → **Germany Schlieffen Plan vs France** → **Britain enters over Belgium**.
+The immediate trigger was Sarajevo, 28 June 1914: Gavrilo Princip, a Bosnian Serb nationalist, assassinated Archduke Franz Ferdinand, heir to Austria-Hungary. The July Crisis followed—Austria's ultimatum to Serbia, Russian mobilisation to support Slavic kin, Germany's Schlieffen Plan against France, Britain's entry over Belgian neutrality. What might have stayed a regional conflict became world war through alliance machinery.
 
-**Nature of war**
-- **Western Front trench warfare:** **Somme (1916)**, **Verdun** — **attrition, barbed wire, machine guns**.
-- **Eastern Front:** More mobile — **Russian collapse 1917** after **Revolution**.
-- **Total war:** **Home front mobilization**, **rationing**, **propaganda**, **women in factories** — **state control of economy**.
-- **New weapons:** **Poison gas**, **tanks (1916)**, **aircraft**, **submarines (U-boats)** — **Lusitania sinking** helped push **USA (April 1917)**.
-- **End:** **Armistice 11 November 1918**; **Treaty of Versailles 28 June 1919** with **Germany**.
+| Factor | Detail |
+|--------|--------|
+| **Militarism** | Arms race, conscription, Anglo-German Dreadnought rivalry |
+| **Alliances** | Triple Alliance vs Triple Entente—local war becomes continental |
+| **Imperialism** | Moroccan crises, colonial competition |
+| **Nationalism** | Pan-Slavism, Balkans, irredentism |
 
-**WWI causes — "MAIN" mnemonic (likely direct question)**
+War's nature was "total": Western Front trench warfare at Somme (1916) and Verdun; Eastern Front mobility ending in Russian collapse after 1917 revolutions; home-front rationing, propaganda, women in factories; poison gas, tanks (1916), aircraft, U-boats (Lusitania sinking helped bring USA in April 1917). Armistice came 11 November 1918; Treaty of Versailles with Germany was signed 28 June 1919.
 
-| Factor | Exam detail |
-|--------|-------------|
-| **M**ilitarism | **Arms race**, **conscription**, **Anglo-German Dreadnought rivalry** |
-| **A**lliances | **Triple Alliance** vs **Triple Entente** — **local war becomes continental** |
-| **I**mperialism | **Moroccan crises**, **colonial competition**, **Scramble for Africa** tensions |
-| **N**ationalism | **Pan-Slavism**, **Balkans**, **Irredentism** — **ethnic groups seek states** |
+### Balkan Crisis — definition and role in WWI
 
-- **Immediate spark:** **Sarajevo (28 June 1914)** + **July Crisis** — structure already existed; **assassination was detonator**.
-
-**What is Balkan Crisis**
-- **Balkans** = **Southeast Europe** — **Ottoman Empire** retreat left **competing nation-states**: **Serbia, Montenegro, Greece, Bulgaria, Romania**, later **Albania**.
-- **"Powder keg of Europe":** **Ethnic minorities trapped in empires** — **Slavs under Austria-Hungary** (Bosnia, Croatia), **Macedonian disputes**, **Bulgarian revisionism**.
-- **Key episodes before 1914:**
+The Balkans—Southeast Europe—were the frontier where Ottoman retreat left competing nation-states (Serbia, Bulgaria, Greece, Romania, later Albania) and ethnic minorities trapped inside Austria-Hungary (Bosnia, Croatia). Metternich's order had suppressed national revolt after 1815; Ottoman decline reopened the puzzle of who ruled which Slavs.
 
 | Year | Crisis | Effect |
 |------|--------|--------|
-| **1878** | **Congress of Berlin** | **Austria-Hungary** allowed to **administer Bosnia** |
-| **1908** | **Bosnian Annexation Crisis** | Austria **formally annexed Bosnia** — **Serbia furious** — wanted **pan-South Slav state** |
-| **1912–13** | **Balkan Wars** | **Ottoman Europe expelled** — **Serbia gained**, but **blocked from Adriatic** by Austria |
-| **1914** | **Sarajevo assassination** | **Spark** for **July Crisis** |
+| **1878** | Congress of Berlin | Austria-Hungary allowed to administer Bosnia |
+| **1908** | Bosnian Annexation Crisis | Austria formally annexed Bosnia—Serbia furious |
+| **1912–13** | Balkan Wars | Ottoman Europe expelled—Serbia gained but blocked from Adriatic by Austria |
+| **1914** | Sarajevo assassination | Spark for July Crisis |
 
-**Russia's role:** **Pan-Slav solidarity** — **"Protector" of Serbia** — mobilization after **Austria declares war on Serbia (28 July 1914)**.
-**Role in WWI:** Balkan **nationalism + great-power rivalry** converted **regional assassination** into **world war via alliances** — **not sole cause**, but **decisive detonator** in **already militarized Europe**.
+Russia styled itself protector of Pan-Slav Serbia; Austria sought to crush Serbian nationalism before it unravelled the Habsburg Empire. Balkan nationalism did not alone cause WWI—militarism and alliances pre-existed—but it supplied the detonator that converted assassination into general war. The "powder keg" metaphor captures how regional ethnic conflict embedded in imperial rivalry exploded a militarised continent.
 
 ```mermaid
 flowchart TD
@@ -123,104 +107,95 @@ flowchart TD
 
 ### Treaty of Versailles and boundary redraw (1919–20)
 
-- **Paris Peace Conference:** **Big Three** — **Clemenceau (France), Lloyd George (Britain), Wilson (USA)**.
-- **Germany:** **Article 231 "war guilt"**, **reparations**, **military limits**, **Alsace-Lorraine to France**, **Polish Corridor**, **Saar, demilitarized Rhineland**, **colonies → mandates**.
-- **New/ enlarged states:** **Poland, Czechoslovakia, Yugoslavia**, **Baltic states** — **principle of nationality** (imperfectly applied).
-- **Ottoman partition:** **Turkey reduced** — **mandates in Middle East** (British/French) — ** seeds of later conflicts**.
-- **League of Nations (1920):** **Collective security** — **USA never joined** — **structural weakness**.
+Paris Peace Conference (Big Three: Clemenceau, Lloyd George, Wilson) imposed Article 231 "war guilt" on Germany, reparations, military limits, loss of Alsace-Lorraine, Polish Corridor, Saar, demilitarised Rhineland, and colonial mandates. New or enlarged states—Poland, Czechoslovakia, Yugoslavia, Baltic republics—embodied principle of nationality imperfectly applied. Austria-Hungary dissolved into separate states; Ottoman partition created mandates in the Middle East whose borders still shape conflict. League of Nations (1920) promised collective security but lost credibility when USA never joined.
 
 ### Interwar period — road to WWII
 
-- **Weimar instability:** **Hyperinflation 1923**, **Great Depression** — **Nazi vote surge**.
-- **Appeasement:** **Munich Agreement (1938)** — **Sudetenland to Hitler** — failed to prevent war.
-- **Other aggressors:** **Italy — Ethiopia (1935)**, **Japan — Manchuria (1931), China (1937)**.
+Weimar Germany suffered hyperinflation (1923) and Great Depression unemployment—fuel for Nazi votes. Appeasement culminated in Munich (1938) handing Sudetenland to Hitler without preventing war. Italy invaded Ethiopia (1935); Japan seized Manchuria (1931) and warred on China (1937)—showing League impotence beyond Europe.
 
 ### Second World War — Hitler's role and course
 
-**Hitler's escalatory steps (exam-critical chronology)**
+Hitler was not sole cause—Versailles humiliation, League failure, Depression, and other aggressors created context—but his ideology and decisions made general European war likely and uniquely barbaric.
 
 | Year | Action | Significance |
 |------|--------|--------------|
-| **1933** | **Chancellor → Führer** | **Nazi dictatorship** — **rearmament begins secretly** |
-| **1935** | **Saar plebiscite, conscription** | Breaks **Versailles military limits** |
-| **1936** | **Remilitarization of Rhineland** | **Western powers no response** — **boldness rewarded** |
-| **1938** | **Anschluss (Austria)**, **Sudetenland (Munich)** | **German expansion** |
-| **March 1939** | **Czechoslovakia occupied wholly** | Ends **appeasement credibility** |
-| **Sept 1939** | **Invasion of Poland** | **Britain & France declare war** — **WWII begins** |
-| **1940** | **Blitzkrieg — France falls, Dunkirk** | **Axis dominance in Europe** |
-| **1941** | **Operation Barbarossa (USSR)**, **USA enters after Pearl Harbor** | **Global war** |
-| **1942–45** | **Holocaust industrialized**, **Stalingrad turning point** | **Genocide + defeat of Germany** |
-| **1945** | **Berlin falls; Hitler suicide 30 April** | **German surrender May 8** |
+| **1933** | Chancellor → Führer | Nazi dictatorship—secret rearmament |
+| **1935** | Saar plebiscite, conscription | Breaks Versailles military limits |
+| **1936** | Remilitarization of Rhineland | Western powers no response |
+| **1938** | Anschluss, Sudetenland (Munich) | German expansion |
+| **March 1939** | Czechoslovakia occupied wholly | Ends appeasement credibility |
+| **Sept 1939** | Invasion of Poland | Britain & France declare war |
+| **1940** | Blitzkrieg—France falls | Axis dominance |
+| **1941** | Barbarossa (USSR); Pearl Harbor → USA enters | Global war |
+| **1942–45** | Holocaust industrialised; Stalingrad | Genocide + turning point |
+| **1945** | Berlin falls; Hitler suicide 30 April | German surrender 8 May |
 
-**Hitler's role — balanced exam answer**
-- **Not sole cause:** **Versailles humiliation**, **failure of League**, **Great Depression**, **Japanese/Italian aggression** created **permissive environment**.
-- **Hitler decisive:** **Ideological revisionism (Lebensraum)**, **rapid rearmament**, **risk-taking diplomacy**, ** racial war of annihilation** — **made general European war likely and barbaric**.
-- **Holocaust:** **Wannsee Conference (1942)** — **systematic murder of 6 million Jews** + **Roma, disabled, Slavs, political opponents** — **crimes against humanity**.
-
-**War's scale:** **~70–85 million dead**; **atomic bombs (Hiroshima 6 Aug, Nagasaki 9 Aug 1945)** — **Japan surrendered**.
+Lebensraum ideology, racial war of annihilation, and Wannsee Conference (1942) systematised murder of six million Jews plus Roma, disabled, Slavs, and opponents. War dead totalled roughly 70–85 million; atomic bombs on Hiroshima (6 August) and Nagasaki (9 August 1945) forced Japan's surrender.
 
 ### Post-WWII efforts for world peace (global level)
 
 | Institution / effort | Year | Purpose |
 |---------------------|------|---------|
-| **United Nations** | **1945 (San Francisco Charter)** | **Collective security**, **General Assembly**, **Security Council (5 permanent veto powers)**, **Secretariat**, **ICJ** |
-| **UN specialized agencies** | 1940s+ | **WHO, UNESCO, FAO** — **health, culture, food security** |
-| **Universal Declaration of Human Rights** | **1948** | **Global rights norm** — **Genocide Convention (1948)** |
-| **Nuremberg Trials (1945–46)** | | **Individual criminal responsibility** for **war crimes, crimes against humanity** |
-| **Tokyo Trials** | **1946–48** | **Japanese leadership accountability** |
-| **Bretton Woods system** | **1944** | **IMF, World Bank** — **economic stability** to prevent **Depression-style collapse** |
-| **NATO** | **1949** | **Western collective defence** |
-| **Warsaw Pact** | **1955** | **Eastern bloc counterpart** — **Cold War balance (and risk)** |
-| **UN Peacekeeping** | **1948 onwards (UNEF etc.)** | **Blue helmets** — **interposition, observation** |
-| **Partial Test Ban / NPT (1968)** | | **Nuclear arms control architecture** |
-| **European Coal and Steel Community → EU** | **1951+** | **Functional integration** — **"never again" Franco-German war** |
-| **Decolonization under UN framework** | **1940s–60s** | **Trusteeship, self-determination (Charter Chapter XI)** |
+| **United Nations** | **1945 (San Francisco Charter)** | Collective security—GA, Security Council, ICJ, Secretariat |
+| **UN specialized agencies** | 1940s+ | WHO, UNESCO, FAO—health, culture, food |
+| **Universal Declaration of Human Rights** | **1948** | Global rights norm—Genocide Convention (1948) |
+| **Nuremberg Trials** | **1945–46** | Individual criminal responsibility for war crimes |
+| **Tokyo Trials** | **1946–48** | Japanese leadership accountability |
+| **Bretton Woods system** | **1944** | IMF, World Bank—economic stability |
+| **NATO** | **1949** | Western collective defence |
+| **Warsaw Pact** | **1955** | Eastern bloc counterpart |
+| **UN Peacekeeping** | **1948 onwards** | Blue helmets—interposition, observation |
+| **NPT (1968)** | | Nuclear arms control |
+| **ECSC → EU** | **1951+** | Franco-German reconciliation |
+| **Decolonization under UN** | **1940s–60s** | Self-determination (Charter Chapter XI) |
 
-**Why stronger than League:** **USA participation**, **broader membership**, **economic institutions**, **human-rights law**, **peacekeeping practice** — though **Cold War veto paralysis**, **Korean/Vietnam wars**, and **failed prevention in Rwanda/Bosnia** show **limits**.
+UN architecture learned from League failure: US participation, broader membership, economic institutions, human-rights law, peacekeeping practice. Cold War veto paralysis, Korea, Vietnam, Rwanda, and Bosnia nonetheless showed limits—prevented direct WWIII among superpowers but not all wars.
 
 ### Colonialism and its end (mid 20th century)
 
-**Colonialism (brief):** **Industrial powers** (**Britain, France, Belgium, Netherlands, Portugal**) ruled **Asia, Africa, Pacific** through **direct rule, protectorates, mandates** — **economic extraction**, **cultural dominance**, **racist administration**.
-
-**Why WWII accelerated end**
-- **European metropoles weakened** — **France, Britain, Netherlands** occupied or drained.
-- **Atlantic Charter (1941)** — **Roosevelt & Churchill** affirmed **self-determination** (interpreted by colonies as **independence promise**).
-- **Japanese victories (1942)** — **destroyed myth of white invincibility** in **Asia**.
-- **UN Charter + NAM pressure** — **legitimacy of empire collapsed**.
-
-**Examples of decolonization**
+Industrial powers (Britain, France, Belgium, Netherlands, Portugal) had ruled through direct administration, protectorates, and mandates—extracting resources and imposing cultural dominance. WWII weakened European metropoles; Atlantic Charter (1941) affirmed self-determination colonies interpreted as independence promise; Japanese victories (1942) shattered myth of white invincibility in Asia; UN Charter and Non-Aligned Movement delegitimised empire.
 
 | Region | Illustrative cases | Approx. independence |
 |--------|-------------------|----------------------|
-| **South Asia** | **India, Pakistan (1947)**, **Ceylon, Burma** | **1947–48** |
-| **Southeast Asia** | **Indonesia (1945–49 struggle)**, **Indochina/Vietnam** | **1945–54+** |
-| **Middle East** | **Mandates → Israel 1948, Jordan, Syria** | **1940s–50s** |
-| **Africa** | **Ghana (1957)**, **wave 1960s**, **Algeria (1962)** | **1950s–70s** |
-| **Caribbean/Pacific** | **Jamaica, Fiji** etc. | **1960s–70s** |
+| **South Asia** | India, Pakistan (1947), Ceylon, Burma | 1947–48 |
+| **Southeast Asia** | Indonesia (1945–49), Indochina/Vietnam | 1945–54+ |
+| **Middle East** | Mandates → Israel 1948, Jordan, Syria | 1940s–50s |
+| **Africa** | Ghana (1957), wave 1960s, Algeria (1962) | 1950s–70s |
+| **Caribbean/Pacific** | Jamaica, Fiji | 1960s–70s |
 
-- **Neocolonialism critique:** **Formal independence** but **economic dependency** — **Franz Fanon**, **Kwame Nkrumah** — **political freedom ≠ structural equality**.
+Formal independence did not end structural inequality—neocolonialism critiques (Fanon, Nkrumah) noted economic dependency persisting after flags changed. Decolonization wave lasted decades—Algeria to 1962, Portuguese Africa into 1970s.
 
 ### Boundary redraw after WWII (Yalta & Potsdam)
 
-- **Yalta (Feb 1945):** **Germany to be divided**, **Poland's borders shifted west** ( **Oder-Neisse line** ), **USSR influence in Eastern Europe** agreed tacitly.
-- **Potsdam (July–Aug 1945):** **Denazification, demilitarization, reparations**, **de facto Cold War lines** — **Iron Curtain (Churchill 1946)**.
-- **Middle East, Kashmir, Palestine** — **mandate exits** left **ongoing disputes** — **1947 UN partition plan**.
+Yalta (February 1945) agreed divided Germany, Poland's western shift to Oder-Neisse line, and tacit Soviet influence in Eastern Europe. Potsdam (July–August 1945) addressed denazification, demilitarisation, reparations, and de facto Cold War lines—Churchill's "Iron Curtain" (1946). Mandate exits in Middle East, Kashmir, and Palestine left disputes including 1947 UN partition plan for Palestine. Germany was divided; Berlin became Cold War symbol. The principle of self-determination promised at Versailles and Atlantic Charter collided with great-power spheres—creating states whose borders still generate conflict because they encoded imperial convenience as much as ethnic geography.
+
+### WWI and WWII compared — structural continuity
+
+| Theme | WWI (1914–18) | WWII (1939–45) |
+|-------|---------------|----------------|
+| **Trigger logic** | Alliance escalation from regional crisis | Aggressive revisionism + prior appeasement |
+| **War type** | Trench attrition, empires collapse | Mechanised blitzkrieg, global theatres, genocide |
+| **Peace settlement** | Versailles humiliation, League weak | UN, Nuremberg, Bretton Woods—stronger but Cold War split |
+| **Colonial impact** | Indian troops; expectations raised | Weakened Europe accelerates decolonization |
+| **Boundary legacy** | New East European states | Oder-Neisse, divided Germany, mandate transitions |
+
+Both wars destroyed European dominance, transferred power toward USA and USSR, and proved that industrial civilisation could mass-produce death as efficiently as goods—a moral shock that shaped human-rights law after 1945.
+
+### Hitler's role — agency within structure
+
+Hitler did not create Versailles, the Depression, or Japanese expansion, but he exploited them with ideological clarity and risk-taking that other authoritarians lacked. Remilitarising the Rhineland (1936) tested Western resolve; Munich (1938) handed Sudetenland; full occupation of Czechoslovakia (March 1939) ended appeasement's credibility. Poland's invasion (1 September 1939) triggered declarations from Britain and France; Blitzkrieg (1940) defeated France; Operation Barbarossa (1941) and Pearl Harbor globalised war. Holocaust was not collateral—it was policy: Nuremberg Laws stripped citizenship; Kristallnacht (1938) signalled terror; Wannsee Conference (1942) coordinated industrial murder. Balanced analysis credits structural interwar failure while insisting Nazi leadership made total war and genocide probable rather than accidental.
+
+League of Nations (1920) failed when USA stayed out, sanctions lacked teeth, and aggressors learned impunity—Ethiopia (1935) and Manchuria (1931) were rehearsals for WWII. UN (1945) added economic pillars, human-rights law, and peacekeeping, yet veto politics, proxy wars, and delayed responses in Rwanda and Bosnia show peace institutions evolve without guaranteeing peace. Decolonization under UN framework affirmed self-determination while leaving economic dependency—neocolonialism critiques remind that political independence after 1947 did not automatically redistribute global power.
 
 ### Contemporary relevance
 
-- **United Nations:** India seeks **permanent Security Council seat** — reform debates rooted in **1945 power map**; India **largest troop contributor** to **UN peacekeeping**.
-- **International Criminal Court (2002):** Lineage from **Nuremberg** — **Russia-Ukraine war** renews **accountability** debates.
-- **Geneva Conventions (1949):** **Humanitarian law** in **conflict zones** — **Red Cross** monitoring.
-- **NATO expansion / sovereignty:** **Principle of territorial integrity** ( **Ukraine 2014/2022** ) tests **post-1945 order**.
-- **Nuclear non-proliferation:** **NPT, IAEA** — **India not signatory** but **"no first use"** policy — **historical link to Hiroshima**.
-- **Decolonization memory:** **Global South diplomacy**, **NAM legacy**, **reparations discourse** — **Bandung Spirit** in **G-77, BRICS** forums.
+India seeks permanent UN Security Council membership—reform debates rooted in 1945 power map; India is among largest troop contributors to peacekeeping. International Criminal Court (2002) extends Nuremberg principles; Russia-Ukraine war renews accountability and territorial integrity debates (2014/2022). Geneva Conventions (1949) govern humanitarian law. Nuclear NPT and IAEA connect to Hiroshima legacy; India is not an NPT signatory but maintains no-first-use policy. Decolonization memory shapes Global South diplomacy, NAM legacy, reparations discourse, and Bandung Spirit in G-77 and BRICS forums.
 
-### Limits and balanced view
+### Limits
 
-- **WWI cause lists** must include **structure + Balkan trigger** — not one alone.
-- **Hitler** — **accelerator and ideologue**, not **only** explanation for WWII.
-- **UN/peace institutions** **prevented WWIII direct superpower war** but **did not stop** **proxy wars, genocides, civil conflicts**.
-- **Decolonization** ** uneven** — ** settler colonies, Portuguese empire, Rhodesia** lasted longer; **neo-colonial economics** persisted.
+WWI causation requires structure plus Balkan trigger—not one alone. Hitler was accelerator and ideologue, not exclusive explanation. UN prevented direct superpower war but not proxy wars, genocides, or civil conflicts. Decolonization was uneven—settler colonies and Portuguese empire lasted longer; neocolonial economics persisted. USA entered WWI in 1917, not 1914; USSR entered WWII in 1941 after Barbarossa, though it invaded Poland under Molotov-Ribbentrop in 1939. Post-WWII peace was not only UN—Bretton Woods, Nuremberg, UDHR, NATO, EU roots, and NPT together formed the architecture.
+
+Separate peace treaties after WWI—not one document for all Central Powers—show how boundary redraw was piecemeal: Treaty of St Germain with Austria, Trianon with Hungary, Sèvres (later revised) with Ottoman Turkey. Each redistributed territory and minorities, often leaving ethnic Germans in Sudetenland, Poles in disputed corridors, and Ottoman Arabs under mandates—fault lines Hitler and later Middle Eastern conflicts exploited. WWII's Yalta and Potsdam similarly traded populations and shifted Poland westward, demonstrating that twentieth-century "self-determination" repeatedly meant great-power negotiation over people's homes.
 
 ---
 

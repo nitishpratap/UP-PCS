@@ -54,15 +54,11 @@ TRAPS: Vedic lit ≠ epics/Puranas | Geography expands over time | Sarasvati deb
 
 ## Content
 
-### What is Vedic literature
+### Context — what Vedic literature is and why it matters
 
-- **Vedic literature** = corpus of **Indo-Aryan Sanskrit texts** composed during **Vedic age** (c. **1500–500 BCE**) — primary source for early Indian history, society, religion, economy.
-- Classified as **Shruti** ("heard"/revealed) — distinct from later **Smriti** (epics, Puranas, Dharmashastras).
-- Transmitted through **oral tradition** (shruti = hearing) for centuries before fixed recensions; extreme precision of memorization (**padapatha, kramapatha**).
-- Language: **Vedic Sanskrit** — older form of classical Sanskrit.
-- **UNESCO Intangible Cultural Heritage (2008):** Vedic chanting tradition recognised globally — oral literary preservation still living in **Kerala, Maharashtra, Karnataka** Vedic schools.
+**Vedic literature** is the corpus of **Indo-Aryan Sanskrit texts** composed during the **Vedic age (c. 1500–500 BCE)** — the primary textual source for early Indian **history, society, religion, economy, and geography**. Classified as **Shruti** ("heard"/revealed), it stands apart from later **Smriti** (epics, Puranas, Dharmashastras) that belong to a remembered tradition rather than divine audition. For centuries before written fixation, Vedic texts were preserved through **oral transmission** with extraordinary precision using **padapatha** (word-by-word) and **kramapatha** (step recitation) systems — a pedagogical achievement recognised when **UNESCO listed Vedic chanting as Intangible Cultural Heritage in 2008**, with living recitation schools in **Kerala, Maharashtra, and Karnataka**. The language is **Vedic Sanskrit**, an older stage of classical Sanskrit, and the corpus grew **layer by layer** over centuries — meaning historians must apply **internal stratigraphy**, not read all Vedic texts as one uniform age.
 
-### Structure of the Vedic corpus
+### Structure of the Vedic corpus — from hymns to philosophy
 
 | Layer | Text type | Nature | Historical utility |
 |-------|-----------|--------|-------------------|
@@ -89,123 +85,62 @@ flowchart TD
   B -.-> SU
 ```
 
-### The four Samhitas (Vedas)
+### The four Samhitas and Rigveda chronology
 
 | Veda | Approx. date | Content / character | Notes |
 |------|--------------|---------------------|-------|
-| **Rigveda** | c. 1500–1000 BCE | **1028 hymns** to gods (Indra, Agni, Varuna, Soma) | **Oldest** Indo-Aryan text; 10 mandalas — **II–VII earliest**, **I and X later** |
-| **Samaveda** | c. 1000 BCE onward | Melodic rendering of Rig verses for **sacred chant** | Music in ritual |
-| **Yajurveda** | c. 1000 BCE onward | **Prose + verse** ritual formulas for sacrifices | Shukla (White) and Krishna (Black) recensions |
-| **Atharvaveda** | c. 1000 BCE onward | **Charms, spells, healing**, everyday magic | Popular religion; less "orthodox" than other three |
+| **Rigveda** | c. 1500–1000 BCE | **1028 hymns** to **Indra, Agni, Varuna, Soma** | **Oldest** Indo-Aryan text; **Mandalas II–VII earliest**, **I and X later** |
+| **Samaveda** | c. 1000 BCE onward | Melodic rendering of Rig verses for **sacred chant** | Music in ritual performance |
+| **Yajurveda** | c. 1000 BCE onward | **Prose + verse** ritual formulas for sacrifices | **Shukla (White)** and **Krishna (Black)** recensions |
+| **Atharvaveda** | c. 1000 BCE onward | **Charms, spells, healing**, everyday magic | Popular religion; less "orthodox" than the other three |
 
-- Together the four Vedas = **Chaturveda**; early period dominated by **Rigveda** for historical reconstruction.
+Together the four Vedas form **Chaturveda**; historical reconstruction of the early period relies primarily on the **Rigveda**. Internal chronology matters: **Mandalas II–VII** (family books, c. 1500–1200 BCE) preserve core hymns of tribal society in **Sapta-Sindhu** geography; middle layers include **Mandala IX** (Soma hymns); **Mandalas I and X** (c. 1000 BCE onward) are composite and late — **Mandala X** contains the **Purusha Sukta** (varna-origin hymn) and philosophical compositions. Treating the entire Rigveda as one date produces false conclusions about society and geography.
 
-### Rigveda mandala chronology
+### Brahmanas, Aranyakas, Upanishads, and Sutra literature
 
-| Mandala group | Approx. date | Character |
-|---------------|--------------|-----------|
-| **II–VII** (family books) | Earliest (c. 1500–1200 BCE) | Core hymns; tribal society; Sapta-Sindhu geography |
-| **IV, IX** | Middle layers | Soma hymns (IX); expanding ritual |
-| **I, X** | Latest (c. 1000 BCE onward) | **Mandala I** — composite; **Mandala X** — Purusha Sukta (varna origin hymn), philosophical hymns |
-
-- **Exam point:** Do not treat entire Rigveda as one uniform age — **internal stratigraphy** essential for society/geography questions.
-
-### Brahmanas, Aranyakas, Upanishads
-
-**Brahmanas**
-- Prose texts explaining **meaning and procedure of sacrifices** (yajnas).
-- Examples: **Aitareya, Kaushitaki** (Rig); **Shatapatha Brahmana** (Yajur — largest) — rich on social institutions, royal consecration (rajasuya, ashvamedha).
-- Reflect **Later Vedic** society — stronger priesthood, kingdoms, complex rituals.
-
-**Aranyakas**
-- Bridge between Brahmanas and Upanishads — esoteric ritual symbolism for forest-dwelling students.
-- "Forest treatises" — inward turn in Vedic thought.
-
-**Upanishads**
-- c. **600 BCE** onward; composed mainly in **Kuru-Panchala and Videha** regions.
-- Core ideas: **Atman** (soul), **Brahman** (ultimate reality), **karma**, **moksha**; **Atman = Brahman**.
-- **Philosophical reaction** against excessive ritualism and brahmanical domination — foundation of Hindu philosophy; influenced Buddhism and Jainism.
-- Important ones: **Chhandogya, Brihadaranyaka, Isha, Katha, Mundaka, Taittiriya**.
-
-### Sutra literature — Shrauta, Grihya, and Dharma layer
+**Brahmanas** are prose commentaries explaining **yajna (sacrifice)** meaning and procedure — **Aitareya and Kaushitaki** (Rigveda), and the massive **Shatapatha Brahmana** (Yajurveda) document **Later Vedic** society with stronger priesthood, kingdoms, and royal consecration rituals (**rajasuya, ashvamedha**). **Aranyakas** ("forest treatises") bridge Brahmanas and Upanishads with esoteric ritual symbolism for forest-dwelling students — an inward turn in Vedic thought. **Upanishads** (from c. **600 BCE**, mainly in **Kuru-Panchala and Videha**) teach **Atman, Brahman, karma, moksha**, and the identity **Atman = Brahman** — a philosophical reaction against excessive ritualism that influenced **Buddhism and Jainism**; key texts include **Chhandogya, Brihadaranyaka, Isha, Katha, Mundaka, and Taittiriya**.
 
 | Sutra type | Subject | Historical value |
 |------------|---------|------------------|
-| **Shrautasutras** | Rules for **grand public sacrifices** (yajnas) | State ritual, royal consecration procedures |
-| **Grihyasutras** | **Domestic rites** — birth, marriage, funeral, household worship | Family structure, life-cycle customs, gender roles |
-| **Dharma sutras** | Early **law and custom** — varna duties, penance, property | Proto-Dharmashastra; social norms of Later Vedic age |
-| **Sulvasutras** | Geometry of fire altars | Early mathematical knowledge (Pythagorean triples) |
+| **Shrautasutras** | Rules for **grand public sacrifices** | State ritual, royal consecration procedures |
+| **Grihyasutras** | **Domestic rites** — birth, marriage, funeral | Family structure, life-cycle customs, gender roles |
+| **Dharma sutras** | Early **law and custom** — varna duties, penance | Proto-Dharmashastra; Later Vedic social norms |
+| **Sulvasutras** | Geometry of fire altars | Early mathematics (Pythagorean triples) |
 
-- Sutras belong to **Kalpa** vedanga — practical manuals codifying Brahmana-era ritual into concise aphorisms.
-- **Grihya + Dharma sutras** bridge Vedic religion to classical **Smriti** legal tradition (Manusmriti etc.).
+Sutras belong to the **Kalpa vedanga** — concise aphorisms codifying Brahmana-era ritual. **Grihya and Dharma sutras** bridge Vedic religion to classical **Smriti** law (**Manusmriti** etc.).
 
-### Vedangas (auxiliary sciences of the Vedas)
+### Vedangas and women rishis
 
-| Vedanga | Subject |
-|---------|---------|
-| **Shiksha** | Phonetics, pronunciation |
-| **Kalpa** | Ritual rules (Shrauta, Grihya, Dharma sutras) |
-| **Vyakarana** | Grammar (Panini's Ashtadhyayi later systematizes) |
-| **Nirukta** | Etymology (Yaska) |
-| **Chhanda** | Prosody/metrics |
-| **Jyotisha** | Astronomy/astrology for fixing sacrifice dates |
+The six **Vedangas** auxiliary sciences support correct Vedic recitation and ritual: **Shiksha** (phonetics), **Kalpa** (ritual rules), **Vyakarana** (grammar — later systematised by **Panini**), **Nirukta** (etymology — **Yaska**), **Chhanda** (prosody), and **Jyotisha** (astronomy for fixing sacrifice dates). The corpus is overwhelmingly male-composed, yet the **Rigveda names women rishis (rishikas)**: **Lopamudra** (hymn **I.179**, dialogue with **Agastya**), **Ghosha** (**X.39–40**, daughter of **Kakshivat**), and others including **Apala and Vishvavara**. These are **exceptional within patriarchal ritual society** — cite them for women's early intellectual participation, but do not overstate gender equality.
 
-### Women rishis in Vedic literature
+### Salient features of Vedic literature as a whole
 
-- Vedic corpus is **overwhelmingly male-composed**, but **Rigveda names several women rishis (rishikas)** — important for women's agency in early Vedic intellectual life.
-- **Lopamudra** — composer of Rigveda **I.179**; dialogue hymn with sage **Agastya** on marital and spiritual themes.
-- **Ghosha** — hymns in Rigveda **X.39–40**; daughter of Kakshivat; associated with Ashvins.
-- Others: **Apala, Vishvavara, Shachi, Indrani** — fewer hymns but cited in tradition.
-- **Historical caution:** Exceptional cases within patriarchal ritual society — do not overstate gender equality, but **must cite** when asked about Vedic society.
+Vedic literature is **orally composed and transmitted** by rishis and reciter families before writing became common. Its **religious-ritual core** centres on **yajna**, nature gods (**Indra, Agni, Varuna**), and cosmic order (**Rita**). **Layered growth** over centuries means Rigveda mandalas, Brahmanas, and Upanishads belong to different phases. The corpus is the **Sanskrit literary foundation** for grammar, philosophy, and classical literature. Though not history writing, hymns embed **tribal names, rivers, occupations, and conflicts** — notably the **Battle of Ten Kings (Dasarajna)** on the **Parushni (Ravi)**. Tone shifts from **Rigvedic pastoral-tribal hymns** through **Later Vedic elaborate ritualism** to **Upanishadic philosophical critique**. The **elite male priestly perspective** means common people and groups called **dasa/dasyu/pani** appear through biased Aryan lenses.
 
-### Salient features of Vedic literature (as a whole)
-
-1. **Oral composition and transmission** — poetry composed by rishis/sages; preserved by specialized reciter families before writing.
-2. **Religious-ritual core** — centred on **yajna** (sacrifice), gods (Indra, Agni, Varuna), and cosmic order (**Rita**).
-3. **Layered growth** — texts accreted over centuries; Rigveda mandalas, Brahmanas, Upanishads belong to different phases — not one uniform age.
-4. **Sanskrit literary foundation** — root of later classical Sanskrit literature, grammar, philosophy.
-5. **Historical embedded in hymnology** — not history writing but contains **tribal names, rivers, places, occupations, conflicts** (e.g. **Battle of Ten Kings** — Dasarajna in Rigveda).
-6. **Shift from Rigvedic to Later Vedic tone** — Rig = pastoral-tribal hymns; Later Samhitas + Brahmanas = elaborate ritualism; Upanishads = philosophical critique.
-7. **Elite/male priestly perspective** — common people and non-Aryan groups appear indirectly.
-
-### Vedic society as reflected in literature
+### Vedic society as reflected in the texts
 
 | Aspect | Rigvedic phase | Later Vedic phase |
 |--------|----------------|-------------------|
-| **Polity** | Tribes (**jana**), chiefs (**rajan**), assemblies (**sabha, samiti**) | Kingdoms (Kuru, Panchala); royal sacrifices (rajasuya, ashvamedha) |
-| **Social order** | **Varna** ideas emerging; two-class (Arya/Dasa) | Fourfold varna crystallised (Purusha Sukta, Mandala X); jati beginnings |
-| **Economy** | **Cattle wealth**, **gavishthi** (cattle raids); pastoral | Plough agriculture, land revenue (bali/bali tribute); crafts, trade |
-| **Religion** | Nature gods (Indra, Agni); simple yajnas | Elaborate sacrifices; priestly (**brahmana**) dominance |
+| **Polity** | Tribes (**jana**), chiefs (**rajan**), assemblies (**sabha, samiti**) | Kingdoms (**Kuru, Panchala**); **rajasuya, ashvamedha** sacrifices |
+| **Social order** | **Varna** ideas emerging; Arya/Dasa distinction | Fourfold varna crystallised (**Purusha Sukta**, Mandala X); jati beginnings |
+| **Economy** | **Cattle wealth**, **gavishthi** (cattle raids); pastoral | Plough agriculture, **bali** tribute; crafts and trade |
+| **Religion** | Nature gods; simple yajnas | Elaborate sacrifices; **brahmana** priestly dominance |
 | **Technology** | Copper/bronze (**ayas**) | Iron (**shyama ayas/krishna ayas**) in later texts |
-| **Women** | Some **rishikas** (Lopamudra, Ghosha); marriage references | Increasing patriarchal norms in Grihya/Dharma sutras |
+| **Women** | **Rishikas** (Lopamudra, Ghosha) | Increasing patriarchy in Grihya/Dharma sutras |
 
-- Must be used with **archaeology** (PGW, OCP) — literature alone cannot fix exact chronology.
+Literature alone cannot fix exact chronology — cross-check with **Painted Grey Ware (PGW)** and **Ochre Coloured Pottery (OCP)** archaeology.
 
-### Historical value of Vedic literature
+### Historical value — what Vedic literature reconstructs
 
-- Reconstruct **early and later Vedic society** — tribes (jana), chiefs (rajan), assemblies (sabha, samiti), varna emergence.
-- **Economy** — cattle wealth (gavishthi = cattle raids), later agriculture, crafts, trade references.
-- **Religion** — from nature worship (Indra, Agni) to ritualism to Upanishadic philosophy.
-- **Polity** — tribal confederacies → kingdoms (Kuru, Panchala); taxes (bali → bali/tribute).
-- **Technology** — copper/bronze (**ayas**) in Rigveda; iron (**shyama ayas/krishna ayas**) in later texts.
+Used with **PGW and OCP archaeology**, Vedic literature reconstructs the **tribal-to-kingdom transition** in northern India: from **jana (tribe)** and **rajan (chief)** with **sabha/samiti assemblies** to **Kuru-Panchala kingdoms** performing **rajasuya and ashvamedha** sacrifices described in **Brahmanas**. It documents **economic change** from **gavishthi cattle raids** and pastoral wealth to plough agriculture, **bali tribute**, crafts, and trade. It maps **religious evolution** from **Indra-Agni nature worship** through elaborate **yajna ritualism** to **Upanishadic Atman-Brahman philosophy** that challenged brahmanical dominance and influenced **Buddhism and Jainism**. It preserves **technology vocabulary** — copper/bronze **ayas** in the Rigveda, iron **krishna ayas/shyama ayas** in later texts — correlating with archaeological metal phases. No other ancient Indian source pack covers this **intellectual arc** with equal depth.
 
-### Limitations
+**Mountains, frontiers, and what geography tells historians**
 
-- **Not a chronicle** — no dated events; hymns mythologise victories.
-- **Geographic knowledge expands over time** — early texts ≠ full subcontinental map.
-- **Religious bias** — Aryan perspective; opponents called **dasa/dasyu/pani**.
-- **Interpolation** — especially **Mandalas I and X** of Rigveda and later Brahmanas.
-- **Sarasvati identification debated** — Ghaggar-Hakra vs Helmand (Afghanistan).
+**Himalaya (Himavant)** forms the northern boundary and source of rivers in Vedic imagination. **Vindhya** appears in later texts as the southern limit of Aryan expansion — absent from the early Rigvedic core. **Samudra (sea)** in the Rigveda likely indicates the **Arabian Sea or Indus mouth**; later texts reference an **eastern sea** contact zone tied to trade and pilgrimage geography that survives today in **Kumbh Mela at Prayag** and **PRASAD** pilgrimage infrastructure. Historians use this geographic progression to confirm **gradual eastward settlement** from the Indus basin to the Ganga valley — not a single sudden conquest but centuries of movement reflected in shifting river centrality. **Place-name correlation** links **Kuru-Panchala** literary centres to **PGW archaeology** in the Doab; **OCP** on the fringe correlates with early Vedic layers. Rivers shift course — especially the drying **Sarasvati/Ghaggar-Hakra** — so hydrology, excavation, and the **Sarasvati Heritage Project** must accompany textual reading.
 
----
+### Geographical knowledge — progressive eastward expansion
 
-## Geographical knowledge in Vedic literature
-
-### Overall pattern
-
-- Vedic geography is **progressive** — earliest texts know **north-west (Sapta-Sindhu)**; later texts show **eastward expansion** into Ganga valley and Bihar.
-- **No mention of deep south** (Tamilakam) or full Deccan in early Vedic corpus — confirms initial concentration in **Punjab–Afghanistan–western UP** fringe.
-- Rivers, mountains, tribes, and kingdom names = main geographic data — not latitude/longitude or systematic cartography.
+Vedic geography is **progressive**, not static. Earliest texts know **Sapta-Sindhu (land of seven rivers)** in the north-west; later texts show **eastward expansion** into the **Ganga-Yamuna Doab**, eastern UP, and **Bihar (Videha)**. The early Vedic corpus does **not** mention deep south (**Tamilakam**) or the full Deccan — confirming initial concentration in **Punjab–Afghanistan–western UP**. Geographic data comes from **river names, mountains, tribes, and kingdoms** — not systematic cartography.
 
 ```mermaid
 flowchart LR
@@ -215,9 +150,7 @@ flowchart LR
   R -->|eastward| L --> E
 ```
 
-### Rigvedic geography (c. 1500–1000 BCE)
-
-**Region of settlement — Sapta-Sindhu (land of seven rivers)**
+**Rigvedic Sapta-Sindhu (c. 1500–1000 BCE)**
 
 | # | Rigvedic name | Modern river |
 |---|---------------|--------------|
@@ -229,75 +162,51 @@ flowchart LR
 | 6 | **Shutudri** | Sutlej |
 | 7 | **Sarasvati** | Ghaggar-Hakra (debated) |
 
-- **Sapta-Sindhu** = core Aryan heartland in Rigveda — **eastern Afghanistan, Pakistan Punjab, Indian Punjab**, fringes of **western UP**.
-- **Sarasvati** — called **Naditama** (best of rivers); identified mainly with **Ghaggar-Hakra** (dry river bed in Rajasthan-Haryana); alternative theory = **Helmand** in Afghanistan.
-- **Kubha** = **Kabul river**; **Gomati, Drishadvati** also mentioned — shows familiarity with **Afghanistan and upper Indus system**.
-- **Battle of Ten Kings** (Dasarajna) — fought on **Parushni (Ravi)**; Bharatas vs confederacy of ten tribes — locates political conflict in Punjab region.
-- Tribes/places: **Bharatas, Purus, Anus, Druhyus, Turvasas, Yadus, Pakthas** — tribal geography of north-west.
+**Sapta-Sindhu** covers **eastern Afghanistan, Pakistan Punjab, Indian Punjab**, and fringes of **western UP**. **Sarasvati** is called **Naditama** (best of rivers) — identified mainly with the **Ghaggar-Hakra** dry riverbed (Rajasthan-Haryana), though some scholars propose the **Helmand (Afghanistan)**. **Kubha** = **Kabul river**; **Gomati and Drishadvati** also appear. The **Dasarajna** battle on **Parushni** locates **Bharata-Puru** conflicts in the Punjab. Tribal names — **Bharatas, Purus, Anus, Druhyus, Turvasas, Yadus, Pakthas** — map north-west tribal geography.
 
-### Later Vedic geographical expansion (c. 1000–500 BCE)
-
-**Direction of movement**
-
-| From | To |
-|------|-----|
-| Punjab | Western UP |
-| Western UP | Eastern UP (Ganga plain) |
-| Eastern UP | Bihar (Videha) |
-
-**New regions and centres in later texts (Samhitas, Brahmanas)**
+**Later Vedic expansion (c. 1000–500 BCE)** moved from **Punjab → western UP → eastern UP (Ganga plain) → Bihar (Videha)**.
 
 | Ancient name | Location / modern region | Significance |
 |--------------|--------------------------|--------------|
-| **Kuru-Panchala** | **Ganga-Yamuna Doab**, Haryana-Delhi, Rohilkhand | Political-cum-literary centre; Brahmanas compiled here |
-| **Hastinapur** | Meerut (Kuru capital) | Later Vedic urban proto-settlement (archaeology) |
+| **Kuru-Panchala** | **Ganga-Yamuna Doab**, Haryana-Delhi | Political-literary centre; Brahmanas compiled here |
+| **Hastinapur** | Meerut (Kuru capital) | Later Vedic urban settlement (archaeology) |
 | **Kosala** | Eastern UP (Awadh) | Eastern expansion |
-| **Videha** | North Bihar (Mithila) | Upanishadic philosophical centre (Janaka's court) |
-| **Kaushambi** | Near Allahabad | Kuru shift after Hastinapur flood tradition |
+| **Videha** | North Bihar (Mithila) | Upanishadic centre — **King Janaka's** court |
+| **Kaushambi** | Near Prayag | Kuru shift after Hastinapur flood tradition |
 
-**Rivers in later phase**
-- **Ganga and Yamuna** become central — "doab" culture replaces Sapta-Sindhu focus.
-- References to **Sadānīra** and eastern tributaries as Aryans move east.
-- **Narmada** mentioned only in **later books** (e.g. some Brahmanas/Upanishads) — marks gradual geographic widening, not Rigvedic knowledge.
-
-### Mountains, directions, and frontiers
-
-- **Himalaya ( Himavant )** — northern boundary; source of rivers.
-- **Vindhya** — known in later texts as southern limit of Aryan expansion (not in early Rigveda core).
-- **Sea (Samudra)** — references in Rigveda (likely Arabian Sea/Indus mouth); later texts mention **eastern sea** as trade/contact zone.
-- **Copper/iron, horse, chariot** geography aligns with **north-west to upper Gangetic** cultural zone.
-
-### What Vedic geography tells historians
-
-- Confirms **gradual eastward migration/settlement** of Vedic people — from Indus basin to Ganga valley.
-- **Place-name correlation** helps link literary tradition with **archaeological cultures** (PGW in Doab = Later Vedic).
-- **Limitation:** rivers shift course (Sarasvati drying); names repeated in multiple regions; poetic exaggeration — must cross-check with excavation and hydrology.
-
-### Geography comparison table (exam-ready)
+**Ganga and Yamuna** replace Sindhu centrality; **Sadānīra** and eastern tributaries mark continued eastward movement. **Narmada** appears only in **later Brahmanas/Upanishads** — gradual widening, not Rigvedic knowledge. **Himalaya (Himavant)** forms the northern boundary; **Vindhya** marks the southern limit in later texts. **Samudra (sea)** references in the Rigveda likely indicate the **Arabian Sea/Indus mouth**; later texts mention an **eastern sea** trade zone.
 
 | Aspect | Rigvedic phase | Later Vedic phase |
 |--------|----------------|-------------------|
 | **Core region** | Sapta-Sindhu (Punjab–Afghanistan) | Ganga-Yamuna Doab + eastern UP–Bihar |
-| **Main river** | Sindhu, Sarasvati | Ganga, Yamuna |
+| **Main rivers** | Sindhu, Sarasvati | Ganga, Yamuna |
 | **Political geography** | Tribes (jana) | Kingdoms (Kuru, Panchala, Kosala, Videha) |
 | **South India** | Absent | Minimal/absent in core Vedic texts |
-| **Key text evidence** | Rigveda hymns (Mandalas II–VII) | Yajurveda, Brahmanas, Upanishads |
+| **Key evidence** | Rigveda Mandalas II–VII | Yajurveda, Brahmanas, Upanishads |
+
+Place-name correlation links literary tradition to **PGW culture** in the Doab (Later Vedic) and **OCP** on the fringe (early Vedic). Rivers shift course (**Sarasvati** drying); poetic exaggeration requires **excavation and hydrology** cross-check — notably the **Sarasvati Heritage Project** on **Ghaggar-Hakra**. Reading **Rigvedic Sapta-Sindhu** alongside **Later Vedic Kuru-Videha** expansion captures the full geographic arc; treating all Vedic texts as one static map misrepresents how the corpus grew eastward over centuries.
 
 ### Contemporary relevance
 
-- **UNESCO Intangible Heritage (2008):** **Vedic chanting** — Rig, Sama, Yajur, Atharva recitation traditions preserved in **Kerala Vedic schools (Thirunavaya, etc.)**, Maharashtra, Karnataka — living link to oral Vedic literature.
-- **NEP 2020 — Indian Knowledge Systems (IKS):** Vedic corpus taught **critically** in Sanskrit, philosophy, and history departments — emphasis on Upanishadic thought, Sulva geometry, Jyotisha astronomy as indigenous knowledge systems.
-- **Sanskrit promotion:** **Central Sanskrit Universities**, **Rashtriya Sanskrit Sansthan**, CBSE Sanskrit curriculum — linguistic continuity from Vedic Sanskrit to classical Sanskrit.
-- **Sarasvati Heritage Project:** Government and ASI-supported research on **Ghaggar-Hakra river system** — correlates Rigvedic **Sarasvati (Naditama)** references with hydrology and Painted Grey Ware sites.
-- **Constitutional framework:** **Article 49** protects archaeological sites (Hastinapur, Kurukshetra); **Article 51A(f)** — citizen duty to value Vedic heritage as part of India's civilizational identity.
-- **Archaeological correlation:** **ASI excavations** at **Hastinapur, Atranjikhera, Alamgirpur** (PGW culture) validate Later Vedic geography; **OCP** (Ochre Coloured Pottery) linked to early Vedic fringe.
-- **Manuscript preservation:** **Bhandarkar Oriental Research Institute (Pune)**, **Adyar Library (Chennai)** — critical editions of Vedic texts; **National Manuscript Mission** digitisation.
-- **Living ritual geography:** **Kumbh Mela** at **Prayag (Ganga-Yamuna confluence)** — sacred geography described in Later Vedic texts remains active pilgrimage economy under **PRASAD scheme**.
+- **UNESCO Intangible Heritage (2008) — Vedic chanting:** Living recitation in **Kerala (Thirunavaya)**, Maharashtra, Karnataka preserves oral Vedic literature as active heritage.
+- **NEP 2020 — IKS:** Vedic corpus taught **critically** — Upanishadic thought, **Sulva geometry**, **Jyotisha** astronomy as indigenous knowledge systems.
+- **Sanskrit institutions:** **Central Sanskrit Universities**, **Rashtriya Sanskrit Sansthan**, CBSE Sanskrit — linguistic continuity from Vedic to classical Sanskrit.
+- **Sarasvati Heritage Project:** ASI-supported **Ghaggar-Hakra** research correlates Rigvedic **Sarasvati (Naditama)** with hydrology and PGW sites.
+- **Constitutional framework:** **Article 49** protects sites like **Hastinapur and Kurukshetra**; **Article 51A(f)** values Vedic heritage as civilizational identity.
+- **Archaeological correlation:** **ASI excavations** at **Hastinapur, Atranjikhera, Alamgirpur** (PGW) validate Later Vedic geography.
+- **Manuscript preservation:** **Bhandarkar Oriental Research Institute (Pune)**, **Adyar Library (Chennai)**, **National Manuscript Mission** digitisation.
+- **Living ritual geography:** **Kumbh Mela at Prayag** — sacred **Ganga-Yamuna confluence** from Later Vedic texts remains active under **PRASAD scheme**.
 
-### Balanced view
+### Limitations
 
-- Vedic literature is **foundational** but must be read with **stratigraphy, archaeology, and critical edition** — not as uniform chronicle or literal migration narrative alone.
-- Modern policy supports **preservation of oral tradition + critical academic study** — not uncritical revival of varna hierarchy from Purusha Sukta.
+- **Not a chronicle** — no dated events; hymns mythologise victories.
+- **Geographic knowledge expands over time** — early texts ≠ full subcontinental map.
+- **Religious bias** — Aryan perspective; opponents labelled **dasa/dasyu/pani**.
+- **Interpolation** — especially **Rigveda Mandalas I and X** and later Brahmanas.
+- **Sarasvati debate** — **Ghaggar-Hakra vs Helmand** identification unresolved.
+- **Normative hymns** — **Purusha Sukta** describes ideal varna order; modern **IKS** teaches critical reading, not uncritical revival of hierarchy.
+
+Vedic literature is **foundational** but must be read with **stratigraphy, archaeology, and critical edition** — not as a uniform chronicle or literal migration narrative alone.
 
 ---
 

@@ -46,20 +46,23 @@ TRAPS: 1857 ≠ freedom | Change ≠ uniform progress | Partition = change + tra
 
 ## Content
 
-### Context — why 1857–1947 is a transformation era
+### Context — why 1857–1947 constitutes an era of immense change
 
-- **90 years** from **Revolt of 1857** to **Independence (15 August 1947)** — India moved from **Company rule fragment** to **Crown colony** to **nation-state(s)** — **political, economic, social, and intellectual upheaval**.
-- **UPPCS 2025** asks **analysis** — must cover **multiple dimensions** with **examples**, not only **Congress narrative**.
+The ninety years between the Revolt of 1857 and Independence on 15 August 1947 represent the most consequential period in modern Indian history — a continuous transformation in which a fragmented subcontinent under Company rule became Crown colony, then mobilised into nationhood, and finally divided into two dominions. Change operated simultaneously across political, economic, social, administrative, and intellectual dimensions, driven by colonial exploitation, Indian resistance, global intellectual currents, and the structural contradictions of imperial rule itself.
 
-### Stage-wise freedom struggle (master chronology)
+Understanding this era requires rejecting two simplifications. First, the freedom struggle was not a linear march from 1857 to 1947 — the Revolt was a restorationist army-led uprising, not a programme of modern nationalism, and ninety years of evolution separated it from the constitutional transfer of 1947. Second, change was not uniformly progressive — Partition killed over a million people and displaced millions more; mass poverty, caste inequality, and gender subordination persisted and in some respects worsened under colonial commercialisation. The immense change thesis must accommodate both transformation and tragedy.
+
+### Stage-wise freedom struggle — master chronology
+
+Indian nationalism evolved through five identifiable stages, each with distinct methods, social bases, and constitutional contexts.
 
 | Stage | Period | Character | Key markers |
 |-------|--------|-----------|-------------|
-| **I — Colonial consolidation** | **1858–1885** | **Post-1857 Crown rule**, economic exploitation | **1858 Act**, **1861 Councils**, **Permanent Settlement extension**, **deindustrialisation** |
-| **II — Moderate nationalism** | **1885–1905** | **Constitutional petitioning**, elite Congress | **Congress 1885**, **Naoroji drain theory**, **1892 Councils Act** |
-| **III — Assertive nationalism** | **1905–1917** | **Swadeshi, Extremism, communal politics** | **Partition of Bengal 1905**, **Surat 1907**, **Muslim League 1906**, **Home Rule 1916**, **Lucknow Pact** |
-| **IV — Gandhian mass phase** | **1917–1939** | **Satyagraha, peasant-worker mobilisation** | **Champaran**, **Rowlatt/Jallianwala 1919**, **NCM 1920–22**, **CDM 1930–34**, **1919/1935 Acts** |
-| **V — Final confrontation** | **1939–1947** | **WWII, Quit India, INA, Partition** | **Cripps 1942**, **Quit India**, **INA trials**, **RIN mutiny 1946**, **Cabinet Mission**, **1947** |
+| **I — Colonial consolidation** | **1858–1885** | Post-1857 Crown rule, economic exploitation | 1858 Act, 1861 Councils, Permanent Settlement extension, deindustrialisation |
+| **II — Moderate nationalism** | **1885–1905** | Constitutional petitioning, elite Congress | Congress 1885, Naoroji drain theory, 1892 Councils Act |
+| **III — Assertive nationalism** | **1905–1917** | Swadeshi, Extremism, communal politics | Partition of Bengal 1905, Surat 1907, Muslim League 1906, Home Rule 1916, Lucknow Pact |
+| **IV — Gandhian mass phase** | **1917–1939** | Satyagraha, peasant-worker mobilisation | Champaran, Rowlatt/Jallianwala 1919, NCM 1920–22, CDM 1930–34, 1919/1935 Acts |
+| **V — Final confrontation** | **1939–1947** | WWII, Quit India, INA, Partition | Cripps 1942, Quit India, INA trials, RIN mutiny 1946, Cabinet Mission, 1947 |
 
 ```mermaid
 flowchart LR
@@ -71,164 +74,91 @@ flowchart LR
   F --> G[Independence 1947]
 ```
 
-### Dimensions of "immense change" (PYQ core)
+### Dimensions of immense change
 
-**1. Political change**
-- **1857:** **Last Mughal symbol** ended — **Bahadur Shah exiled**.
-- **1858:** **Company → Crown** — **Secretary of State**, **Viceroy**.
-- **1885–1947:** **Indian nationalism** — **Moderate → Extremist → Gandhian → socialist/revolutionary** streams.
-- **1947:** **Transfer of power** — **Dominion status → republic 1950** — **world's largest democracy**.
+**Political change** transformed India from subject empire to nation-state. The Revolt of 1857 ended the Mughal symbolic centre — Bahadur Shah II was exiled to Rangoon. The Government of India Act 1858 transferred authority from the East India Company to the British Crown, creating the offices of Secretary of State and Viceroy. Between 1885 and 1947, Indian nationalism evolved from Moderate petitioning through Extremist boycott to Gandhian mass satyagraha, revolutionary terrorism, socialist currents, and military challenge via the INA. The 1947 transfer of power created dominion status, followed by the Republic in 1950 — the world's largest democracy.
 
-**2. Economic change**
-- **Railways, telegraph, plantations, mines** — **integration into imperial economy**.
-- **Deindustrialisation of handicrafts** — **swadeshi/khadi** as **response**.
-- **Peasant commercialisation** — **indigo, cotton, opium** — **Champaran, Deccan Riots, Bardoli** as **resistance**.
+**Economic change** integrated India into the imperial economy while destroying its indigenous industrial base. Railways, telegraph, plantations, and mines were built primarily for extraction, not Indian development. Deindustrialisation of handicrafts — documented by Dadabhai Naoroji's drain theory — provoked swadeshi and khadi as economic nationalism. Peasant commercialisation in indigo, cotton, and opium generated resistance movements: the Indigo revolt (1859–60), Deccan Riots (1875), Champaran (1917), Bardoli (1928), Eka (1921–22 in UP Awadh), and Tebhaga (1946–47 in Bengal).
 
-**3. Social change**
-- **Reform movements** — **sati abolished 1829**, **widow remarriage 1856**, **Age of Consent 1891**.
-- **Caste politics** — **Phule, Ambedkar, Gandhi harijan campaigns**, **Poona Pact 1932**.
-- **Women's participation** — **from reform to mass satyagraha** — **Savitribai to Usha Mehta**.
+**Social change** encompassed reform movements and new political identities. Sati was abolished (1829), widow remarriage legalised (1856), and the Age of Consent Act (1891) raised marriage age. Caste politics emerged through Jyotirao Phule, B.R. Ambedkar, and Gandhi's harijan campaigns, culminating in the Poona Pact (1932). Women progressed from Savitribai Phule's girls' school (1848) to mass satyagraha participation — Sarojini Naidu, Usha Mehta, Matangini Hazra.
 
-**4. Administrative/legal change**
-- **Codified law** — **IPC 1860**, **CrPC**, **census, ICS**.
-- **Constitutional Acts** — **1861, 1892, 1909, 1919, 1935** — **slow Indianisation** → **1946 Constituent Assembly**.
+**Administrative and legal change** codified colonial governance. The IPC (1860), CrPC, census operations, and Indian Civil Service created a unified legal-administrative framework. Constitutional Acts — 1861, 1892, 1909, 1919, 1935 — gradually expanded Indian participation while retaining British paramountcy, culminating in the 1946 Constituent Assembly and Article 395's retention of the 1935 Act's operational structure in the 1950 Constitution.
 
-**5. Communal and territorial change**
-- **Muslim League (1906)** — **Lucknow Pact 1916** → **Lahore Resolution 1940** → **Partition 1947**.
-- **Princely states integration** (post-1947) — **Sardar Patel** — linked to **1858 paramountcy system**.
+**Communal and territorial change** reshaped the subcontinent's map. The Muslim League (1906) moved from the Lucknow Pact (1916) unity to the Lahore Resolution (1940) demanding Pakistan, through Direct Action Day (16 August 1946) communal violence to Partition under the Mountbatten Plan and Radcliffe Boundary Commission. Princely states — 562 at independence — were integrated through Instruments of Accession, primarily under Sardar Patel by 1948.
 
 ### Constitutional development (1858–1947)
 
 | Act / event | Year | Significance |
 |-------------|------|--------------|
-| **Government of India Act** | **1858** | **End of Company**; Crown rule |
-| **Indian Councils Act** | **1861** | **Nominated Indians** in councils |
-| **Indian Councils Act** | **1892** | **Expanded nomination/indirect election** |
-| **Morley-Minto Reforms** | **1909** | **Separate electorate for Muslims** |
-| **Montagu-Chelmsford** | **1919** | **Dyarchy** in provinces; **Rowlatt** |
-| **Government of India Act** | **1935** | **Provincial autonomy**; **federal scheme (never fully operative)** |
-| **Indian Independence Act** | **1947** | **Partition; dominions** |
+| **Government of India Act** | **1858** | End of Company rule; Crown assumes direct control |
+| **Indian Councils Act** | **1861** | Nominated Indians in legislative councils |
+| **Indian Councils Act** | **1892** | Expanded nomination and indirect election |
+| **Morley-Minto Reforms** | **1909** | Separate electorate for Muslims — communal politics institutionalised |
+| **Montagu-Chelmsford** | **1919** | Dyarchy in provinces; Rowlatt Act alongside reforms |
+| **Government of India Act** | **1935** | Provincial autonomy; federal scheme (never fully operative); template for 1950 Constitution |
+| **Indian Independence Act** | **1947** | Partition; creation of India and Pakistan dominions |
 
-### Peasant and tribal movements (cross-stage)
+The 1919 Act introduced dyarchy: at the provincial level, transferred subjects (education, health, local self-government) went to Indian ministers while reserved subjects (revenue, police, courts) remained under British executives. At the centre, defence and foreign affairs stayed under British control. Direct elections expanded but franchise covered only about ten percent of the population. The Rowlatt Act's detention-without-trial provisions alongside "reforms" exposed the contradiction — sparking Gandhi's Rowlatt satyagraha and Jallianwala Bagh.
+
+The 1935 Act granted provincial autonomy, enabling Congress to win 1937 elections in seven provinces including UP under Pant. The federal scheme inviting princely states was never fully implemented. Congress ministries resigned in 1939 over WWII, ending the constitutional experiment. Article 395 of India's Constitution explicitly retained the 1935 Act's operational provisions — a living link between colonial constitutional evolution and republican governance.
+
+### Peasant, tribal, and labour movements across stages
 
 | Movement | Year | Region | Issue |
 |----------|------|--------|-------|
-| **Indigo revolt** | **1859–60** | Bengal | **Planter exploitation** |
-| **Deccan Riots** | **1875** | Maharashtra | **Moneylender sahukar** |
-| **Champaran** | **1917** | Bihar | **Indigo tinkathia** — **Gandhi** |
-| **Kheda** | **1918** | Gujarat | **Revenue during famine** |
-| **Eka movement** | **1921–22** | **UP (Awadh)** | **Peasant unity vs landlords** |
-| **Bardoli satyagraha** | **1928** | Gujarat | **Revenue hike** — **Sardar Patel** |
-| **Tebhaga** | **1946–47** | Bengal | **Two-thirds share to bargadar** |
+| **Indigo revolt** | **1859–60** | Bengal | Planter exploitation |
+| **Deccan Riots** | **1875** | Maharashtra | Moneylender (sahukar) oppression |
+| **Champaran** | **1917** | Bihar | Indigo tinkathia — Gandhi's first satyagraha |
+| **Kheda** | **1918** | Gujarat | Revenue during famine |
+| **Eka movement** | **1921–22** | UP (Awadh) | Peasant unity against taluqdars |
+| **Bardoli satyagraha** | **1928** | Gujarat | Revenue hike — Sardar Patel |
+| **Tebhaga** | **1946–47** | Bengal | Two-thirds share to bargadar |
 
-### Muslim League and communal politics (essential for 1857–1947 analysis)
+Tribal and labour dimensions complement peasant history. The Santhal rebellion (1855–56) in Damin-i-Koh preceded 1857 as a tribal uprising against British-feudal extraction. Birsa Munda's Ulgulan (1899–1900) in Jharkhand challenged colonial-missionary order. Alluri Sitarama Raju's Rampa rebellion (1922–24) in Andhra mobilised tribal communities. Bombay textile strikes (1919–21) linked labour awakening to Rowlatt and Non-Cooperation. Railway workers' strikes across the 1920s–40s brought urban working classes into nationalism.
 
-- **1906 Simla Deputation** — **Muslim League founded** — **separate electorate later (1909)**.
-- **1916 Lucknow Pact** — **Congress-League unity** on **reforms** — **temporary**.
-- **1928 Simon Commission boycott** — **Nehru Report** — **League rejected** — **Jinnah's 14 points 1929**.
-- **1937 provincial elections** — **Congress ministries** — **League weak** — **1940 Lahore Resolution (Pakistan)**.
-- **1946 Direct Action Day** — **communal violence** — **Partition trajectory**.
+### Stage III in depth — Swadeshi and Home Rule
 
-### Parallel streams (not only Congress)
+Curzon's Partition of Bengal (1905) provoked the Swadeshi and Boycott movement — initially Hindu-Muslim joint protest through Bande Mataram and rakhi bandhan symbolism. The programme included boycott of foreign goods, promotion of swadeshi industries, national education through samitis, and passive resistance. Leaders Lal-Bal-Pal (Lala Lajpat Rai, Bal Gangadhar Tilak, Bipin Chandra Pal), Aurobindo Ghosh, and Ashwini Coomar Dutt built constructive swadeshi institutions. Partition was annulled in 1911, but the capital shifted from Calcutta to Delhi — a partial victory on British terms that nonetheless demonstrated mass mobilisation's power.
 
-- **Revolutionary terrorism** — **1908–1934** (see 02.6 file).
-- **Subhas Bose / INA (1943–45)** — **military nationalism**.
-- **Socialists** — **JP, Lohia, CSP in Congress**.
-- **Labour strikes** — **1920s Bombay mills**.
+The Home Rule Movement (1916–17), inspired by Irish Home Rule, was led by Tilak in Maharashtra/Karnataka and Annie Besant through her Theosophical network in Madras. It demanded self-government within the empire — not yet full independence. The August 1917 Montagu declaration pledging "gradual development of self-governing institutions" was a partial success that led to the 1919 Act. Home Rule reunited Moderates and Extremists after the Surat Split, bridging assertive nationalism to the Gandhian mass phase.
 
-### Stage III in detail — Swadeshi (1905) and Home Rule (1916)
+### Muslim League and communal politics
 
-**Swadeshi and Boycott (1905–08)**
-- **Curzon's Partition of Bengal (1905)** — ** Hindu-Muslim initial joint protest** — **Bande Mataram**, **rakhi bandhan**.
-- **Programme:** **Boycott foreign goods**, **swadeshi industries**, **national education**, **passive resistance**.
-- **Leaders:** **Lal-Bal-Pal**, **Aurobindo, Ashwini Coomar Dutt** — **constructive swadeshi samitis**.
-- **Annulment of Partition (1911)** — **capital shifted to Delhi** — **victory partial** — **Bengal reunited on British terms**.
+The Simla Deputation (1906) led to the Muslim League's founding and, through the Morley-Minto reforms of 1909, separate electorates. The 1916 Lucknow Pact between Congress and League represented temporary unity on constitutional reforms. The 1928 Simon Commission boycott — all-white, no Indian members — injured Lala Lajpat Rai at Lahore; he died in 1928. The Nehru Report (1928) drafted dominion status constitution; the League rejected it, and Jinnah responded with his Fourteen Points (1929). After Congress won 1937 provincial elections while the League performed weakly, the Lahore Resolution (1940) demanded Pakistan. Direct Action Day (16 August 1946) in Calcutta initiated communal violence that made Partition increasingly inevitable.
 
-**Home Rule Movement (1916–17)**
-- **Inspired by Irish Home Rule** — **Tilak (Maharashtra/Karnataka)** and **Annie Besant (Theosophical, Madras)** — **Home Rule Leagues**.
-- **Demand:** **Self-government within empire** — **not yet full independence**.
-- **Montagu declaration (August 1917)** — **"gradual responsible government"** — **partial success** — **led to 1919 Act**.
-- **Significance:** **Reunited Moderates and Extremists post-Surat** — **bridge to Gandhian mass phase**.
+The Simon Commission episode deserves emphasis as a constitutional turning point. The all-white commission appointed in 1928 to review the 1919 Act was boycotted nationwide with the slogan "Simon Go Back." Lala Lajpat Rai was injured during the Lahore protest and died on 17 November 1928 — his martyrdom galvanised both constitutional and revolutionary responses. The Nehru Report (1928), drafted under Motilal Nehru's leadership, proposed dominion status as a constitutional framework; the Muslim League rejected it, and Jinnah responded with his Fourteen Points (1929), marking the widening Congress-League divide that would culminate in Partition.
 
-### Government of India Act 1919 — dyarchy explained
+### Subhas Chandra Bose and the INA stream
 
-- **Central subjects:** **Reserved** — **British control** (defence, foreign affairs).
-- **Provincial dyarchy:** **Transferred** subjects (education, health, local self-gov) to **Indian ministers**; **Reserved** (revenue, police, courts) with **British executives**.
-- **Direct elections** expanded — **franchise still limited** (~10% population).
-- **Rowlatt Act (1919)** alongside reforms — **contradiction** — **sparked Rowlatt satyagraha**.
+Subhas Chandra Bose resigned the Congress presidency in 1939 after differences with Gandhi, formed the Forward Bloc, escaped house arrest in 1941, and reached Germany and later Japan to build the Indian National Army. The Azad Hind Government was proclaimed in 1943; INA soldiers marched under "Delhi Chalo" toward the Imphal-Kohima frontier in 1944 but were defeated. The Red Fort trials of Sehgal, Dhillon, and Shah Nawaz (November 1945–46) provoked nationwide protests cutting across communal lines, complementing Quit India's moral damage to British authority. Bose's military nationalism and Gandhi's non-violent mass struggle represented opposite methods toward the same anti-colonial goal — a duality essential to understanding how 1947 became inevitable.
 
-### Government of India Act 1935 — why it mattered
+Revolutionary terrorism (1905–1934) operated through Bengal samitis, Punjab's HSRA, and UP's Kakori conspiracy. Socialists — JP, Lohia, Congress Socialist Party — operated within and alongside Congress. Labour strikes in Bombay mills connected urban workers to nationalist cycles across the 1920s–40s.
 
-- **Provincial autonomy** — **Congress won 1937 elections** in **7 provinces** (including **UP under Pant**).
-- **Federal scheme** — **princely states invited** — **never fully implemented**.
-- **Template for 1950 Constitution** — **Article 395** retains **1935 structure** operationally.
-- **Congress ministries resigned 1939** over **WWII** — **end of constitutional experiment phase**.
+Major personalities across stages illustrate the human density of change: Bahadur Shah II, Rani Lakshmibai, Kunwar Singh, and Begum Hazrat Mahal in 1857; Naoroji, Gokhale, and Banerjea among Moderates; Tilak, Pal, Lajpat Rai, and Aurobindo among Extremists; Gandhi, Nehru, Patel, Azad, and Abdul Ghaffar Khan in the Gandhian phase; Bhagat Singh, Bose, Khudiram, and Surya Sen among revolutionaries; Phule, Ambedkar, Tagore, and Sir Syed among social and educational reformers; Jinnah, Iqbal, and Savarkar among communal and ideological poles. No single personality encapsulates the era — the immense change thesis requires this plurality.
 
-### Partition of 1947 — terminal change
-
-- **Mountbatten Plan (3 June 1947)** — **partition with dominion status**.
-- **Radcliffe Boundary Commission** — **Punjab and Bengal divided** — **hasty lines**.
-- **15 August 1947** — **India and Pakistan independent** — **~1 million+ deaths, mass migration** in **Partition violence**.
-- **Princely states:** **562 states** — **Instrument of Accession** — **mostly integrated by 1948** (see Topic 04 Patel file).
-
-### Major personalities across stages (exam table)
-
-| Period | Personalities |
-|--------|---------------|
-| **1857** | **Bahadur Shah, Lakshmibai, Kunwar Singh, Begum Hazrat Mahal** |
-| **Moderate** | **Naoroji, Gokhale, Banerjea, Mehta** |
-| **Extremist/Swadeshi** | **Tilak, Pal, Lajpat Rai, Aurobindo** |
-| **Gandhian** | **Gandhi, Nehru, Patel, Azad, Abdul Ghaffar Khan** |
-| **Revolutionary** | **Bhagat Singh, Bose, Khudiram, Surya Sen** |
-| **Social** | **Phule, Ambedkar, Tagore, Sir Syed** |
-| **Communal politics** | **Jinnah, Iqbal (Lahore 1930 poem), Savarkar (Hindu Mahasabha)** |
-
-### Congress sessions — landmark list
+### Congress sessions — landmark chronology
 
 | Year | Session | Significance |
 |------|---------|--------------|
-| **1885** | **Bombay** | **First session — Hume, Bonnerjee** |
-| **1906** | **Calcutta** | **Swaraj resolution — Naoroji president** |
-| **1907** | **Surat** | **Split** |
-| **1916** | **Lucknow** | **Lucknow Pact with League** |
-| **1920** | **Nagpur** | **Non-Cooperation adopted; constitution changed** |
-| **1929** | **Lahore** | **Poorna Swaraj; Nehru president** |
-| **1942** | **Bombay (Gowalia Tank)** | **Quit India resolution** |
+| **1885** | Bombay | First session — Hume, W.C. Bonnerjee |
+| **1906** | Calcutta | Swaraj resolution — Dadabhai Naoroji president |
+| **1907** | Surat | Moderate-Extremist split |
+| **1916** | Lucknow | Lucknow Pact with Muslim League |
+| **1920** | Nagpur | Non-Cooperation adopted; constitution reformed |
+| **1929** | Lahore | Poorna Swaraj; Nehru president; 26 January 1930 Independence Day |
+| **1942** | Bombay (Gowalia Tank) | Quit India resolution |
 
-### Tribal and labour dimensions
+### Partition of 1947 — terminal change
 
-- **Santhal rebellion (1855–56)** — **pre-1857 tribal revolt** — **Damin-i-Koh, Bihar-Jharkhand**.
-- **Birsa Munda Ulgulan (1899–1900)** — **Jharkhand** — **against British feudal- missionary order**.
-- **Alluri Sitarama Raju Rampa (1922–24)** — **Andhra tribal**.
-- **Bombay textile strikes (1919–21)** — **labour awakening** — **linked to Rowlatt/NCM**.
-- **Railway workers' strikes** — **1920s–1940s** — **urban working class nationalism**.
-
-### Simon Commission, Nehru Report, and Lahore Congress
-
-- **Simon Commission (1928)** — **all-white, no Indians** — **boycotted nationwide** — **Lala Lajpat Rai injured at Lahore (died 1928)**.
-- **Nehru Report (1928)** — **Dominion status constitution draft** — **Muslim League rejected** — **Jinnah's 14 Points (1929)**.
-- **Lahore Congress (December 1929)** — **Jawaharlal Nehru president** — **Poorna Swaraj resolution** — **26 January 1930 as Independence Day** — **prelude to Salt March**.
-
-### Subhas Chandra Bose and INA (1940s stream)
-
-- **Resigned Congress presidency (1939)** — **Forward Bloc** — **escaped house arrest (1941)** — **Germany/Japan alliance**.
-- **Azad Hind Government (1943)** — **INA** — **"Delhi Chalo"**, **Imphal/Kohima 1944 defeat**.
-- **INA trials (Red Fort 1945–46)** — **Sehgal, Dhillon, Shah Nawaz** — **mass protests** — **complemented Quit India in breaking British morale**.
+The Mountbatten Plan (3 June 1947) accepted partition with dominion status for both successor states. The Radcliffe Boundary Commission divided Punjab and Bengal on communal lines with hasty, controversial boundaries. Independence on 15 August 1947 was accompanied by mass violence, migration, and approximately one million or more deaths. Princely states — 562 in number — were mostly integrated by 1948 through Instruments of Accession under Sardar Patel's direction, completing the territorial transformation begun in 1858.
 
 ### Contemporary relevance
 
-- **Azadi Ka Amrit Mahotsav** — **1857–1947 narrative** as **single freedom arc**.
-- **Article 395** — **Constitution inherits 1935 Act structure** — **living link to 1857–1947 constitutional evolution**.
-- **NEP 2020** — **multi-stream history** (Moderate, Extremist, Gandhian, revolutionary, peasant).
-- **Partition Horrors Remembrance Day (14 Aug)** — **2021 onward** — **critical memory of 1947 violence**.
-- **Parliament Old → New (2023)** — **continuity of constitutional institutions from 1919/1935 lineage**.
+Azadi Ka Amrit Mahotsav frames 1857–1947 as a single freedom arc connecting Revolt memorials to Independence celebrations. Article 395 preserves the 1935 Act's structural legacy in the Constitution — a living constitutional link. NEP 2020 mandates multi-stream history teaching: Moderate, Extremist, Gandhian, revolutionary, and peasant narratives together. Partition Horrors Remembrance Day (14 August), declared in 2021, institutionalises critical memory of 1947 violence alongside freedom celebration. The Parliament's transition from Old to New (2023) symbolises continuity of constitutional institutions tracing lineage to 1919 and 1935 reforms.
 
-### Limits — balanced analysis for exam
+### Limits
 
-- **Change ≠ uniform progress** — **Partition tragedy**, **persistent poverty**, **caste inequality**.
-- **1857 did not aim at modern nation-state** — **restorationist** — **continuity and rupture both**.
-- **British built infrastructure** — **but for extraction** — **critical balance**.
-- **Women/Dalit/tribal gains partial** — **post-1947 struggles continued**.
+Change was not uniform progress — Partition was tragedy as much as triumph; poverty and caste inequality persisted. The 1857 Revolt aimed at restoration, not modern nation-state democracy — continuity and rupture coexist in the period's meaning. British-built infrastructure served extraction primarily — critical balance is necessary. Women, Dalits, and tribals gained partial recognition but post-1947 struggles for full equality continued. Congress alone does not represent 1857–1947 — peasants, revolutionaries, the League, INA, and workers were equally constitutive of change. The 1935 Act granted provincial autonomy under British paramountcy, not sovereignty — a distinction essential for accurate periodisation.
 
 ---
 

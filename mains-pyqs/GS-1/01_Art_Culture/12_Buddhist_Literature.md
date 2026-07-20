@@ -52,176 +52,146 @@ TRAPS: ≠ all literary sources (02) | ≠ Jain extreme ahimsa | Dhamma ≠ stat
 
 ## Content
 
-### What counts as Buddhist literature
+### What Buddhist literature is and why it matters
 
-- **Buddhist literature** = corpus of texts recording **Gautama Buddha's teachings**, monastic discipline, philosophy, biographies, and sectarian history — composed mainly from **5th century BCE** onward.
-- Primary language early on: **Pali** (Prakrit) — Buddha preached in language of **common people**, not Sanskrit elite.
-- Later: **Sanskrit** and **Buddhist Hybrid Sanskrit** for **Mahayana** texts — wider pan-Asian transmission.
-- Major value for historians: **religion, ethics, society, economy, polity** of ancient India — especially **eastern Gangetic plain** and **Mauryan age**.
+Buddhist literature is the accumulated written and oral record of the teachings attributed to **Gautama Buddha**, the rules governing his monastic order, the philosophical analyses of his disciples, and the legends and chronicles that grew around both. It began taking shape from the **5th century BCE** onward, when the Buddha preached in **Pali** and other **Prakrit** languages — the everyday speech of the Gangetic plain — rather than in the Sanskrit reserved for Vedic priests. This linguistic choice was deliberate: the dhamma (doctrine) was meant for farmers, artisans, and merchants, not only for brahmin elites. Later centuries added **Sanskrit** and **Buddhist Hybrid Sanskrit** texts, especially under **Mahayana** ("Great Vehicle") Buddhism, which carried Buddhist ideas along trade routes into Central and East Asia.
 
-### Structure of the canon — Tripitaka (Three Baskets)
+For historians, this corpus is far more than theology. It preserves detailed glimpses of **Mahajanapada politics, Magadhan statecraft, urban economy, guild organisation, and Ashokan missionary activity** in the eastern Gangetic region and beyond. Because Buddhist monks lived in cities and travelled trade routes, their texts embed social history within moral instruction — a combination that makes Buddhist literature one of the richest literary sources for ancient India.
+
+### The Tripitaka: structure of the Pali canon
+
+The foundational organisation of early Buddhist scripture is the **Tripitaka** — literally "Three Baskets." Each basket serves a distinct function in preserving and transmitting the tradition.
+
+| Pitaka | Subject matter | What it preserves |
+|--------|----------------|-------------------|
+| **Vinaya Pitaka** | Monastic discipline | Rules for monks and nuns — conduct, penalties, ordination procedures, and sangha governance |
+| **Sutta Pitaka** | Discourses of the Buddha | Sermons on ethics, meditation, cosmology, and social relations — the core teaching corpus |
+| **Abhidhamma Pitaka** | Philosophical analysis | Systematic treatment of mind, karma, mental states, and ultimate reality |
+
+The **Sutta Pitaka** subdivides into **five Nikayas**, each organising sermons by length, theme, or numerical scheme:
+
+| Nikaya | Meaning | Content |
+|--------|---------|---------|
+| **Digha Nikaya** | Long discourses | Extended sermons to kings and brahmins on polity, ethics, and cosmology |
+| **Majjhima Nikaya** | Middle-length discourses | Core doctrinal teaching; debates with rival teachers |
+| **Samyutta Nikaya** | Connected themes | Grouped collections on aggregates, senses, and mental defilements |
+| **Anguttara Nikaya** | Numerical gradations | Moral instruction arranged by lists of one to eleven items |
+| **Khuddaka Nikaya** | Minor collection | Includes **Dhammapada**, **Jataka**, **Suttanipata**, **Therigatha** (nuns' verses) |
+
+The **Dhammapada**, an anthology of 423 verses within the Khuddaka Nikaya, distils the entire ethical programme into memorable lines on mind control, anger, truthfulness, and non-violence. The canon was transmitted orally for centuries before being committed to writing in Sri Lanka around the **1st century BCE** — a long oral phase during which recitation accuracy was maintained through communal repetition at monastic assemblies.
 
 ```mermaid
 flowchart TB
   T[Tripitaka — Pali Canon]
-  T --> V[Vinaya Pitaka<br/>Monastic discipline · sangha rules]
-  T --> S[Sutta Pitaka<br/>Buddha's discourses · ethics]
-  T --> A[Abhidhamma Pitaka<br/>Metaphysics · psychology]
+  T --> V[Vinaya Pitaka — monastic discipline]
+  T --> S[Sutta Pitaka — Buddha's discourses]
+  T --> A[Abhidhamma Pitaka — metaphysics and psychology]
   S --> N[Five Nikayas]
-  N --> D[Digha · Majjhima · Samyutta<br/>Anguttara · Khuddaka]
-  D --> K[Dhammapada · Jataka · Suttanipata]
+  N --> K[Khuddaka — Dhammapada, Jataka, Suttanipata]
 ```
 
-| Pitaka | Subject | Exam relevance |
-|--------|---------|----------------|
-| **Vinaya Pitaka** | Rules for **monks and nuns** — conduct, penalties, sangha organisation | Ordered **peaceful community life**; no violence within order |
-| **Sutta Pitaka** | **Buddha's sermons** — Four Noble Truths, Eightfold Path, ethics | Core **peace and non-violence** teachings |
-| **Abhidhamma Pitaka** | Philosophical analysis — mind, karma, reality | Rational, debate-oriented Buddhism |
+### Councils, schisms, and the living canon
 
-### Sutta Pitaka — the five Nikayas
+Buddhist literature did not arrive fully formed; it was fixed, debated, and expanded through a series of **councils** that reveal how scripture functioned as a living tradition.
 
-| Nikaya | Meaning | Content |
-|--------|---------|---------|
-| **Digha Nikaya** | Long discourses | Extended sermons to kings, brahmins — polity, ethics, cosmology |
-| **Majjhima Nikaya** | Middle-length discourses | Core doctrinal teaching; debates with rival sects |
-| **Samyutta Nikaya** | Connected/ grouped themes | Thematic collections (aggregates, senses, Mara) |
-| **Anguttara Nikaya** | Numerical (1–11 items) | Graduated moral instruction — lay and monastic |
-| **Khuddaka Nikaya** | Minor/miscellaneous collection | **Dhammapada**, **Jataka**, **Suttanipata**, **Therigatha** (nuns' verses) |
-
-- **Dhammapada** (in Khuddaka) — anthology of verses on **mind control, anger, hatred, truth, non-violence** (widely quoted for ethics).
-- Compiled and transmitted orally first; **written down** in Sri Lanka (Theravada tradition) around **1st century BCE** — long oral phase before fixation.
-
-### Buddhist Councils and canon formation
-
-| Council | Place | Patron / date | Outcome |
+| Council | Place | Date / patron | Outcome |
 |---------|-------|---------------|---------|
-| **First** | **Rajgriha** | c. **483 BCE** (after Buddha's parinirvana) | **Upali** recited **Vinaya**; Ananda recited **Suttas** — oral fixation of core canon |
+| **First** | **Rajgriha** | c. **483 BCE**, after Buddha's parinirvana | **Upali** recited Vinaya rules; **Ananda** recited Suttas — oral fixation of core canon |
 | **Second** | **Vaishali** | c. **383 BCE** | Dispute over monastic rules; schism between **Sthaviravada** (elders) and **Mahasanghika** (majority) |
-| **Third** | **Pataliputra** | c. **250 BCE** under **Ashoka** | Presided by **Moggaliputta Tissa**; **Theravada** orthodoxy affirmed; missions to Sri Lanka and beyond |
+| **Third** | **Pataliputra** | c. **250 BCE**, under **Ashoka** | Presided by **Moggaliputta Tissa**; **Theravada** orthodoxy affirmed; missions to Sri Lanka |
+| **Fourth** | Kashmir / Jalandhar tradition | c. **1st–2nd c. CE**, under **Kanishka** | Mahayana text codification — distinct from Ashoka's Third Council |
 
-- Councils show **literature as living oral tradition** before writing — also source of **sectarian splits** (Theravada vs Mahasanghika → later Mahayana).
+The Second Council's schism between Sthaviravada and Mahasanghika foreshadowed the later split between **Theravada** (conservative, Pali canon) and **Mahayana** (Sanskrit sutras, bodhisattva ideal). The Third Council at **Pataliputra** — not Vaishali — under **Ashoka** is the critical Theravada milestone; confusing it with the Second Council is a common error.
 
-### Mahayana sutra literature
+### Mahayana sutras and the Sanskrit expansion
 
-- **Mahayana** ("Great Vehicle") developed from c. **1st century CE** onward — Sanskrit texts, bodhisattva ideal, wider lay appeal.
-- Key sutras:
+From roughly the **1st century CE**, Mahayana Buddhism produced a vast Sanskrit literature centred on the **bodhisattva** — the enlightened being who postpones final nirvana to save all sentient creatures. Three sutras became especially influential:
 
-| Sutra | Theme | Significance |
-|-------|-------|--------------|
-| **Lotus Sutra** (*Saddharmapundarika*) | Universal Buddhahood; skillful means | Most influential Mahayana text in East Asia |
-| **Prajnaparamita** (*Perfection of Wisdom*) | Emptiness (**shunyata**); transcendent wisdom | Philosophical foundation of Mahayana; linked to **Nagarjuna** |
-| **Vimalakirti Sutra** | Lay bodhisattva ideal | Social inclusiveness |
+| Sutra | Central theme | Historical reach |
+|-------|---------------|------------------|
+| **Lotus Sutra** (*Saddharmapundarika*) | Universal Buddhahood; skillful means (*upaya*) | Most influential Mahayana text in China and Japan |
+| **Prajnaparamita** (*Perfection of Wisdom*) | Emptiness (*shunyata*); transcendent wisdom | Philosophical foundation linked to **Nagarjuna** |
+| **Vimalakirti Sutra** | Lay bodhisattva ideal | Social inclusiveness — enlightenment accessible outside monastic life |
 
-- Mahayana literature spread via **Kushan, Gupta, and Central Asian** routes — complements Pali Theravada canon for pan-Asian Buddhist history.
+Mahayana literature spread through **Kushan, Gupta, and Central Asian** trade corridors, complementing the Pali Theravada canon and creating a pan-Asian Buddhist textual civilisation.
 
-### Other important Buddhist texts
+### Beyond the canon: Jatakas, chronicles, and biographies
 
-| Text | Language / period | Content |
-|------|-------------------|---------|
-| **Jataka tales** | Pali (Khuddaka Nikaya) | Stories of Buddha's **previous births** — morality, kingship, trade, urban life |
-| **Dipavamsa, Mahavamsa** | Pali chronicles (Sri Lanka) | History of Buddhism; **Ashoka** sending missionaries; dynastic chronology |
-| **Ashokavadana, Divyavadana** | Sanskrit avadana literature | Legends of Ashoka; Buddhist morality (miraculous elements — use critically) |
-| **Buddhacharita** | Sanskrit — **Ashvaghosa** (c. 1st–2nd c. CE) | Epic biography of Buddha — renunciation, enlightenment |
-| **Mahavastu** | Buddhist Hybrid Sanskrit | Mahayana biography/lore — Buddha's career |
-| **Milindapanho** | Pali dialogue | King **Menander (Milinda)** and monk **Nagasena** — rational debate |
+Important Buddhist texts extend well outside the Tripitaka framework:
 
-### Salient features of Buddhist literature
+| Text | Language / period | What it contains |
+|------|-------------------|------------------|
+| **Jataka tales** | Pali (Khuddaka Nikaya) | Stories of Buddha's **previous births** — morality, kingship, trade, urban vignettes |
+| **Dipavamsa, Mahavamsa** | Pali chronicles (Sri Lanka) | History of Buddhism; **Ashoka's** missionary missions; dynastic chronology |
+| **Ashokavadana, Divyavadana** | Sanskrit avadana literature | Legends of Ashoka's conversion and moral governance |
+| **Buddhacharita** | Sanskrit — **Ashvaghosa** (c. 1st–2nd c. CE) | Epic biography — renunciation, enlightenment, teaching career |
+| **Mahavastu** | Buddhist Hybrid Sanskrit | Mahayana biography and lore |
+| **Milindapanho** | Pali dialogue | King **Menander (Milinda)** and monk **Nagasena** — rational philosophical debate |
 
-**1. Popular and accessible language**
-- **Pali/Prakrit** — unlike Vedic Sanskrit restricted to priests; literature could reach **traders, artisans, peasants**.
-- Organised **sangha** used texts for **missionary preaching** across India and abroad.
+The **Jataka** stories are particularly valuable for social history: they describe merchants, guilds, kings, and towns with the incidental detail of fiction, preserving economic and political texture that formal chronicles omit. The **Mahavamsa** links **Magadha, Ashoka, and Sri Lanka** in a continuous narrative of missionary expansion.
 
-**2. Ethical and rational emphasis**
-- Rejected **Vedic sacrificial killing** and blind ritual authority.
-- Stress on **personal conduct**, **logic**, and **debate** (e.g. Milindapanho) — not mere faith.
+### Salient features: language, ethics, and social vision
 
-**3. Social inclusiveness (in principle)**
-- Literature records **entry of women** into sangha; opposition to **rigid caste barriers** — more **egalitarian** tone than many Brahmanical texts.
-- **Three Jewels:** Buddha (teacher), **Dhamma** (doctrine), **Sangha** (order).
+Buddhist literature is distinguished by several interlocking characteristics. **Popular language** — Pali and Prakrit rather than Sanskrit — allowed the sangha to preach to traders, artisans, and peasants across the Gangetic cities. **Ethical and rational emphasis** replaced blind ritual authority: the tradition rejected **Vedic sacrificial killing**, insisting instead on personal conduct, logical debate (exemplified in the **Milindapanho**), and verifiable mental discipline. **Social inclusiveness**, at least in principle, appears in records of **women entering the sangha** and in teachings that challenged rigid caste barriers — the **Three Jewels** of Buddha (teacher), Dhamma (doctrine), and Sangha (community) offered an alternative identity to birth-based varna status.
 
-**4. Rich historical embeddedness**
-- Jatakas describe **towns, merchants, guilds, kings** — invaluable for **second urbanisation** and **Mauryan** society.
-- Chronicles link **Ashoka**, **Magadha**, spread to **Sri Lanka**.
+The literature is also **historically embedded**: Jatakas name towns and professions; chronicles connect **Ashoka** to **Magadha**; and councils document sectarian evolution from a single teacher's oral legacy into multiple schools. Finally, the corpus displays **regional and sectarian diversity** — Theravada Pali canon versus Mahayana Sanskrit sutras — requiring the historian to identify which tradition a given text represents before drawing conclusions.
 
-**5. Regional and sectarian diversity**
-- **Theravada** (Pali canon) vs **Mahayana** (Sanskrit sutras — Lotus, Prajnaparamita) — literature evolved with schools.
-- **Limitation:** hagiography and miracles in **Avadana** texts — historians cross-check with **Ashokan edicts** and archaeology.
+### Peace, ahimsa, and the civilizational ethic
 
-### Peace and non-violence in Buddhist literature
-
-Buddhist literature is a primary vehicle for India's ancient **peace ethic** — not abstract pacifism alone but **structured moral discipline**.
+Buddhist literature is India's most sustained ancient charter of **peace and non-violence** — not as abstract pacifism but as structured moral discipline binding individuals, communities, and (in idealised narratives) states.
 
 ```mermaid
 flowchart LR
-  L[Buddhist Literature] --> T[Teachings in Sutta Pitaka]
-  L --> J[Jataka moral tales]
+  L[Buddhist Literature] --> T[Sutta Pitaka teachings]
+  L --> J[Jataka moral narratives]
   L --> C[Chronicles — Ashoka dhamma]
-  T --> P[Ahimsa · Middle Path · Eightfold Path]
+  T --> P[Ahimsa, Middle Path, Eightfold Path]
   J --> P
   C --> P
-  P --> S[Social harmony · tolerance · compassion]
+  P --> S[Social harmony, tolerance, compassion]
 ```
 
-**Doctrinal foundations (recorded in Sutta literature)**
+The doctrinal foundations recorded in Sutta literature form a coherent peace programme:
 
 | Teaching | Peace message |
 |----------|---------------|
-| **Four Noble Truths** | Suffering rooted in **desire/attachment** — including greed and aggression; liberation through restraint |
-| **Eightfold Path** | **Right Speech** (no lies/abuse), **Right Action** (no killing/stealing), **Right Livelihood** (honest non-harmful work) |
-| **Middle Path (Madhyama Marga)** | Rejects **extremes** — luxury and harsh asceticism; moderate, peaceful living |
-| **Ahimsa** | **Non-violence** — no killing of humans or animals; opposed **animal sacrifice** central to Vedic ritual |
-| **Metta & Karuna** | **Loving-kindness** and **compassion** toward all beings — ethical basis for peaceful society |
-| **Panchashila** (lay code) | Avoid killing, stealing, falsehood, intoxication, sexual misconduct |
+| **Four Noble Truths** | Suffering rooted in desire and attachment — including greed and aggression; liberation through restraint |
+| **Eightfold Path** | Right Speech (no lies or abuse), Right Action (no killing or stealing), Right Livelihood (honest, non-harmful work) |
+| **Middle Path (Madhyama Marga)** | Rejects luxury and harsh asceticism alike; moderate, sustainable, peaceful living |
+| **Ahimsa** | Non-violence toward humans and animals; rejection of animal sacrifice central to Vedic ritual |
+| **Metta and Karuna** | Loving-kindness and compassion toward all beings |
+| **Panchashila** (lay code) | Five precepts: no killing, stealing, falsehood, intoxication, or sexual misconduct |
 
-- **Dhammapada** famously teaches that **hatred is never appeased by hatred** — literature codifies **psychological peace** as civic virtue.
+The **Dhammapada** teaches that hatred is never appeased by hatred — codifying psychological peace as civic virtue. **Jataka stories** model kings who choose forbearance over war and merchants who practise honesty. The **Vinaya Pitaka** resolves monastic disputes without violence, presenting the sangha as a community governed by rules rather than force. **Ashokavadana** and **Mahavamsa** portray **Ashoka** turning to **dhamma** after the **Kalinga war** — a narrative of state-level peace policy emphasising tolerance, compassion toward animals, and respect for all sects. **Dhamma**, in Ashokan usage, was an ethical code of social harmony, not an imposed state religion. **Buddhacharita** presents the archetype of the prince who abandons the path of warfare for enlightenment.
 
-**Narrative and institutional peace**
+The historical impact was civilizational. Buddhist literature helped legitimise Ashoka's policy of religious tolerance and animal protection; it supported missionary spread to **Sri Lanka, Central Asia, and Southeast Asia**, carrying the non-violent ethic across cultures; and it offered an ideological alternative to the militarised, sacrifice-centred culture of the Mahajanapadas.
 
-- **Jataka stories** — kings renouncing violence, choosing **forbearance** over war; merchants practising honesty — **moral education** for lay society.
-- **Vinaya Pitaka** — dispute resolution within sangha without bloodshed; monastic life as **model peaceful community**.
-- **Ashokavadana / Mahavamsa** — portray **Ashoka** after **Kalinga war** turning to **dhamma** — literature reinforces **state-level peace policy** (tolerance, compassion to animals, respect for all sects).
-- **Buddhacharita** — Buddha abandons princely life and warfare-path for enlightenment — literary archetype of **peace over conquest**.
+### Buddhist literature compared with Jain literature
 
-**Historical impact on peace culture**
+Both traditions emerged in the same eastern Magadhan milieu and used Prakrit languages against Sanskrit brahminical monopoly, yet their corpora differ structurally and ideologically:
 
-- Helped legitimise **Ashoka's dhamma** — ethical code of **social harmony, religious tolerance, animal protection** (dhamma ≠ imposed Buddhism as state religion).
-- Supported **missionary spread** to Sri Lanka, Central Asia, Southeast Asia — carried **non-violent ethic** across cultures.
-- Contrasted with contemporary **militarised Mahajanapadas** — offered ideological alternative to sacrificial violence.
-
-### Buddhist vs Jain literature (comparison — future-angle)
-
-| Aspect | **Buddhist literature** | **Jain literature** |
-|--------|-------------------------|---------------------|
-| **Core canon** | **Tripitaka** (Vinaya, Sutta, Abhidhamma) + Nikayas | **Angas** (+ lost **Purvas**) |
-| **Language** | **Pali/Prakrit** early; Sanskrit Mahayana later | **Ardhamagadhi/Prakrit** (Shvetambara); Maharashtri Prakrit |
-| **Ahimsa** | **Middle Path** — moderate non-violence | **Extreme ahimsa** — even insects, strict asceticism |
-| **Historical focus** | Buddha's life, sangha, Magadha, Ashoka missions | Tirthankaras, Jain kings, eastern India cosmology |
-| **Social tone** | Egalitarian sangha; lay Panchashila | Ascetic rigour; monastic discipline (Kalpasutra) |
+| Aspect | Buddhist literature | Jain literature |
+|--------|----------------------|-----------------|
+| **Core canon** | **Tripitaka** (Vinaya, Sutta, Abhidhamma) + five Nikayas | **Angas** (+ lost **Purvas**) |
+| **Language** | Pali/Prakrit early; Sanskrit Mahayana later | **Ardhamagadhi/Prakrit** (Shvetambara); Maharashtri Prakrit |
+| **Ahimsa** | **Middle Path** — moderate non-violence | **Extreme ahimsa** — even insects; strict asceticism |
+| **Historical focus** | Buddha's life, sangha, Magadha, Ashoka missions | Tirthankaras, Jain kings, eastern Indian cosmology |
+| **Social tone** | Egalitarian sangha; lay Panchashila | Ascetic rigour; monastic discipline in Kalpasutra |
 | **Historian's use** | Urban economy (Jataka), Mauryan Buddhism | Magadha society, trade, Jain patronage networks |
 
-### Significance for Indian heritage
+Used together and cross-checked against **Ashokan edicts** and archaeology, both corpora provide the fullest literary picture of ancient India's heterodox age.
 
-- Buddhist literature is both **religious canon** and **historical source** — bridges **philosophy, ethics, and social history**.
-- Its **peace discourse** (ahimsa, compassion, tolerance) influenced later **Indian thought** — including Gandhi's ahimsa (modern link, cite briefly if asked).
-- Art-literature link: texts inspired **stupa, chaitya, vihara** narratives (Jataka scenes at **Bharhut, Sanchi, Ajanta**) — literature and material culture reinforce same values.
-- **Pan-Asian civilizational export:** Pali canon and Sanskrit Mahayana sutras shaped **Sri Lanka, Tibet, China, Japan, Southeast Asia** — India's oldest sustained soft-power literature.
+### Art, Asia, and enduring significance
+
+Buddhist literature did not remain confined to text. It inspired the sculptural programmes of **stupas, chaityas, and viharas** — Jataka scenes at **Bharhut, Sanchi, and Ajanta** translate narrative literature into stone and paint. The Pali canon and Sanskrit Mahayana sutras shaped civilisations in **Sri Lanka, Tibet, China, Japan, and Southeast Asia**, making Buddhist literature India's oldest sustained export of ethical and philosophical soft power. Its peace discourse — ahimsa, compassion, tolerance — influenced later Indian thought, including **Gandhi's** modern reinterpretation of non-violent resistance.
 
 ### Contemporary relevance
 
-- **UNESCO World Heritage — Buddhist sites:** **Mahabodhi Temple, Bodh Gaya (2002)**, **Sanchi (1989)**, and the broader **Buddhist pilgrimage geography** (Sarnath, Kushinagar in UP) connect living worship to the textual tradition this file covers.
-- **ASI and manuscript conservation:** Buddhist archaeological sites (**Sarnath, Sanchi, Bharhut**) and manuscript collections (e.g. **National Museum, Indian Museum Kolkata**) preserve material context of Buddhist literature; **Art 49** and **Article 51A(f)** frame state and citizen duty to protect this heritage.
-- **NEP 2020 — Indian Knowledge Systems (IKS):** Buddhist **philosophy, ethics, and peace studies** integrated into higher-education curricula; **Pali and Buddhist Studies** departments (e.g. **Delhi University, Nava Nalanda Mahavihara**) continue the textual tradition academically.
-- **Government tourism schemes:** **Swadesh Darshan — Buddhist Circuit** and **PRASAD** develop infrastructure at **Bodh Gaya, Sarnath, Kushinagar, Shravasti** — pilgrimage economy driven by literature-linked sacred geography.
-- **International Buddhist diplomacy:** India hosts **Vesak Day** celebrations, supports **International Buddhist Confederation (Delhi)** — literature's peace ethic underpins cultural foreign policy toward **Japan, Sri Lanka, Thailand, Myanmar**.
-- **Living heritage — ahimsa:** Buddhist **non-violence** informs modern **Gandhian satyagraha** and constitutional **fraternity** discourse — literature's ethical code remains politically relevant.
-- **Digital preservation:** **Tripitaka** and **Jataka** digitisation projects (universities, **Buddhist Digital Resource Center** partnerships) make ancient corpus accessible without physical book dependency — aligns with book-free exam prep plus authentic source access.
+**UNESCO World Heritage** sites — **Mahabodhi Temple at Bodh Gaya (2002)**, **Sanchi (1989)**, and the broader pilgrimage geography of **Sarnath and Kushinagar** — connect living worship to the textual tradition. The Archaeological Survey of India maintains sites at **Sarnath, Sanchi, and Bharhut**; manuscript collections at the **National Museum** and **Indian Museum, Kolkata** preserve material context. **Article 49** and **Article 51A(f)** frame state and citizen duties toward this heritage. **NEP 2020's IKS** integrates Buddhist philosophy, ethics, and peace studies into higher education; **Pali and Buddhist Studies** departments at **Delhi University** and **Nava Nalanda Mahavihara** continue academic transmission. **Swadesh Darshan — Buddhist Circuit** and **PRASAD** schemes develop infrastructure at **Bodh Gaya, Sarnath, Kushinagar, and Shravasti**. India hosts **Vesak Day** celebrations and supports the **International Buddhist Confederation (Delhi)**, grounding cultural diplomacy with **Japan, Sri Lanka, Thailand, and Myanmar** in literature's peace ethic. Digitisation of the **Tripitaka** and **Jataka** through university and **Buddhist Digital Resource Center** partnerships makes the corpus accessible without dependence on physical libraries.
 
-### Limits and balanced view
+### Limits
 
-- Literature **idealises** Buddha and Ashoka — not neutral chronicle.
-- Buddhism did not **eliminate war** in Indian history; kings could patronise Buddhism while fighting — texts preach peace, practice varied.
-- **Distinct from Jain literature** — Jain **extreme ahimsa** (even agriculture debated); Buddhist **Middle Path** more moderate.
-- **Distinct from file 02** (Literary Sources) — this file focuses **Buddhist corpus and peace theme**, not all ancient sources.
+Buddhist literature **idealises** Buddha and Ashoka — it is religious canon, not neutral chronicle. Buddhism did not eliminate warfare in Indian history; kings could patronise the sangha while conducting military campaigns — the texts preach peace, but political practice varied. Jain literature's **extreme ahimsa** must not be conflated with the Buddhist **Middle Path**. The **Fourth Council** under **Kanishka** is a Mahayana tradition separate from **Ashoka's Third Council at Pataliputra**. **Avadana** texts contain miraculous elements requiring cross-verification with edicts and archaeology. Nikayas are subdivisions of the **Sutta Pitaka**, not a fourth pitaka. The early canon is mainly **Pali/Prakrit**, not Sanskrit — Mahayana Sanskrit literature came later.
 
 ---
 

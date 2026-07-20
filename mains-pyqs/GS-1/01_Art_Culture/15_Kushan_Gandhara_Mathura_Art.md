@@ -57,122 +57,82 @@ TRAPS: Gandhara ≠ Mathura material | Kanishka 4th ≠ Ashoka 3rd Council | Ama
 
 ## Content
 
-### Historical context — Kushan Empire
+### The Kushan world and the birth of the Buddha image
 
-- **Kushanas** (c. **1st–3rd century CE**) — nomadic origin; empire from **Central Asia to Gangetic plain**; capitals **Purushapura (Peshawar)**, **Mathura**, **Taxila** region.
-- **Kanishka** (c. **127–150 CE**) — greatest Kushan ruler; patron of **Buddhism, art, trade** (Silk Route).
-- Kushan period = **first anthropomorphic Buddha images** standardised — revolution in Indian and Asian art.
-- **UP relevance:** **Mathura** in Uttar Pradesh was a **major Kushan artistic and political centre** — red sandstone sculpture hub on Yamuna.
+The **Kushan Empire** (c. **1st–3rd century CE**) stretched from Central Asia across the northwestern subcontinent into the Gangetic plain, with capitals at **Purushapura (Peshawar)**, **Mathura** in Uttar Pradesh, and the **Taxila** region. Under **Kanishka** (c. **127–150 CE**), the empire reached its zenith as a patron of Buddhism, art, and Silk Route commerce. The Kushan period marks the most consequential revolution in Indian religious art: the transition from **aniconic** representation of the Buddha (through symbols alone) to **anthropomorphic** images that would define Buddhist visual culture across Asia for two millennia.
 
-### Two principal schools — overview
+Before the Kushan age, Buddhist art at sites like **Sanchi and Bharhut** depicted the Buddha through **footprints, wheels, thrones, and Bodhi trees** — never in human form. Kushan workshops at **Gandhara** in the northwest and **Mathura** on the Yamuna solved this representational problem simultaneously but differently, producing two distinct sculptural schools whose typologies would compete, merge, and propagate along trade routes from India to China and Japan.
+
+### Gandhara and Mathura: two schools compared
 
 | Feature | **Gandhara School** | **Mathura School** |
 |---------|---------------------|-------------------|
-| **Region** | North-west — **Gandhara** (Peshawar, Taxila, Swat, Hadda) | **Mathura** (UP) — Yamuna basin |
-| **Material** | **Grey schist** / bluish-grey stone | **Red sandstone** (Sikri range) |
-| **Style influence** | **Greco-Roman (Hellenistic)** — Alexander's legacy, Bactrian Greeks | **Indigenous Indian** — local sculptural tradition |
+| **Region** | Northwest — **Gandhara** (Peshawar, Taxila, Swat, Hadda) | **Mathura** (UP) — Yamuna basin |
+| **Material** | **Grey schist** / bluish-grey stone | **Red sandstone** (Sikri range quarries) |
+| **Style influence** | **Greco-Roman (Hellenistic)** — legacy of Alexander and Bactrian Greeks | **Indigenous Indian** — local sculptural tradition |
 | **Buddha image** | Wavy hair, **Apollo-like face**, toga-like **sanghati**, realistic anatomy | **Spiritual calm**, fleshy/youthful body, **transparent drapery** clinging to body |
-| **Other subjects** | Buddhist dominant; some Greco-Buddhist syncretism | **Buddhist + Jain + Hindu** (Yaksha/Yakshi, Kushan royal portraits) |
+| **Other subjects** | Buddhist dominant; Greco-Buddhist syncretism | **Buddhist + Jain + Hindu** (Yaksha/Yakshi, Kushan royal portraits) |
 | **Trade link** | **Silk Route**, Roman contact | Gangetic heartland, imperial capital zone |
 
 ```mermaid
 flowchart TB
-  K[Kushan Empire<br/>Kanishka patronage]
-  K --> G[Gandhara School<br/>NW · grey schist · Greco-Roman]
-  K --> M[Mathura School<br/>UP · red sandstone · indigenous]
-  K --> A[Amaravati School<br/>Andhra · limestone · narrative]
-  G --> B[Anthropomorphic Buddha<br/>Mahayana spread]
+  K[Kushan Empire — Kanishka patronage]
+  K --> G[Gandhara — NW, grey schist, Greco-Roman]
+  K --> M[Mathura — UP, red sandstone, indigenous]
+  G --> B[Anthropomorphic Buddha standardised]
   M --> B
-  B --> CA[Central Asia · East Asia iconography]
+  B --> CA[Central Asia and East Asia iconography]
 ```
 
-### Gandhara school — features and examples
+### Gandhara school: Hellenistic naturalism on the Silk Route
 
-**Salient features**
-- **Hellenistic naturalism** — realistic human anatomy, drapery folds, architectural backgrounds (Corinthian columns in reliefs).
-- **Buddha as human god** — wavy hair bun (ushnisha), moustache in early examples, **Greek-Roman facial type**.
-- **Sanghati** (monastic robe) rendered like **Roman toga** — heavy folds.
-- **Narrative reliefs** — Jataka scenes, Buddha's life, bodhisattvas (**Maitreya**, **Avalokiteshvara**) with Hellenistic features.
-- **Stupa decoration** — friezes at **Taxila, Jamalgarhi, Hadda**.
+Gandhara sculpture emerged in the Buddhist heartland of the northwest — a region shaped by centuries of **Indo-Greek, Bactrian, and Parthian** contact after Alexander's campaigns. Gandhara artists translated Buddhist narrative into stone using the visual language of **Greco-Roman naturalism**: realistic human anatomy, heavy drapery folds, and architectural backgrounds featuring **Corinthian columns**.
 
-**Examples / sites**
-- **Taxila** (Pakistan) — stupa complexes, monastery sculpture.
-- **Peshawar** — Kanishka's **stupa** (described by Chinese pilgrims — now lost).
-- **Swat valley, Hadda** — stucco and schist sculpture.
+The Gandhara Buddha appears as a human god with wavy hair gathered in an **ushnisha** (cranial protuberance), sometimes a moustache in early examples, and a face modelled on the **Apollo** type of Hellenistic sculpture. The monastic **sanghati** (robe) falls in folds resembling a **Roman toga**. Narrative **relief panels** depict Jataka scenes, episodes from the Buddha's life, and **bodhisattvas** — **Maitreya** (future Buddha) and **Avalokiteshvara** (compassion deity) — with distinctly Hellenistic facial features.
 
-**Historical significance**
-- Gateway for **Buddhist art transmission** to **Central Asia, China, Japan** via Silk Route.
-- Closely linked to **Mahayana** development — **bodhisattva cult** and rich narrative iconography.
+Beyond schist, Gandhara workshops used **stucco (lime plaster)** over brick cores at sites like **Hadda and Taxila** — a cheaper, faster medium for monastery and stupa decoration. **Greco-Buddhist syncretism** produced remarkable hybrids: **Herakles-Vajrapani** as the Buddha's protector; **Atlas figures** supporting stupa bases; **Corinthian pilasters** framing Indian divine narratives. Chinese pilgrims **Faxian** and **Xuanzang** described **Kanishka's grand stupa at Peshawar** — literary corroboration for lost monumental architecture.
 
-### Mathura school — features and examples
+Gandhara's historical significance lies in transmission. Through the **Silk Route**, its naturalistic Buddha and bodhisattva types influenced **Central Asian mural traditions** (Kizil, Dunhuang) and carried Mahayana iconography into **China and Japan**. Gandhara is closely linked to **Mahayana** development — the bodhisattva cult and rich narrative panels visualise the theology of **Lotus and Prajnaparamita** sutra traditions. Stupa complexes at **Taxila, Jamalgarhi, and Butkara (Swat)** display narrative friezes in which Jataka stories unfold across multiple registers — a visual sermon for illiterate pilgrims who could "read" the Buddha's moral biography in stone before learning to read text. The **stucco tradition** at **Hadda** allowed mass production of Buddha heads and bodhisattva figures for monastery niches, democratising sacred art in ways that single schist blocks could not. Even after Kushan political decline, Gandhara workshops continued influencing Afghan and Central Asian sculpture well into the Gupta period, proving that the school's geographic reach exceeded its dynastic patron's lifespan.
 
-**Salient features**
-- **Indigenous Indian aesthetic** — spiritual serenity over Hellenistic realism.
-- **Red sandstone** — warm colour, fine grain from **Sikri quarries** near Mathura.
-- **Buddha** — broad chest, transparent **clinging drapery**, **ushnisha**, **urna**, elongated earlobes — becomes **canonical Indian Buddha type**.
-- **Jain tirthankara** images (nude, srivatsa mark) and **Yaksha/Yakshi** (e.g. **Parkham Yakshi**) — cosmopolitan religious production.
-- **Kushan royal portraits** — coins and sculptures of Kanishka, Huvishka — imperial patronage evidence.
+### Mathura school: indigenous spirituality on the Yamuna
 
-**Examples / sites**
-- **Mathura Archaeological Museum** — Kushan Buddha, bodhisattvas, Jain icons.
-- **Kankali Tila** — Jain stupa remains, sculptures.
-- **Govindnagar, Jamalpur** finds — Kushan-period red sandstone.
+Mathura, on the Yamuna in **Uttar Pradesh**, was not a provincial workshop but a **major Kushan artistic and political centre** connecting the empire's northwestern and Gangetic zones. Its sculptors worked in **red sandstone** from the **Sikri quarries**, producing a warm-toned, fine-grained material ideal for large-scale figures and intricate relief.
 
-**UP angle (exam relevance)**
-- **Mathura, Uttar Pradesh** — not peripheral but **central Kushan workshop**; Yamuna location connected empire's **north-west to Gangetic** zones.
-- UP PCS candidates should cite **Mathura red sandstone** as state's ancient artistic heritage alongside Sarnath (Gupta) and Kushan Mathura.
+The Mathura Buddha contrasts sharply with Gandhara. Where Gandhara pursued Hellenistic realism, Mathura pursued **spiritual serenity**: broad chest, fleshy youthful body, and **transparent clinging drapery** that reveals rather than conceals the form beneath. The canonical iconographic markers — **ushnisha, urna** (forehead mark), elongated earlobes, **abhayamudra** (gesture of fearlessness) — crystallised here and became the **standard Indian Buddha type**, refined further under the Guptas at **Sarnath** and copied across all later Asian Buddhist art.
 
-### Kanishka patronage — art and religion
+Mathura's production was **multi-faith**. **Jain tirthankara** images (standing nude with **srivatsa** chest mark) and **Ayagapatas** (devotional tablets) come from **Kankali Tila**. The **Parkham Yakshi** and **Chauri-bearer Yakshi** demonstrate how pre-Buddhist fertility-cult imagery was absorbed into Kushan cosmopolitan art — yaksha figures that once guarded tree shrines now flanked Buddhist and Jain sanctuaries. This multi-faith workshop character distinguishes Mathura from Gandhara, where Buddhist subjects dominate. **Kushan royal portraits** of **Kanishka and Huvishka** on coins and in stone document imperial dress, fire-altar rituals, and multi-religious patronage. Finds from **Govindnagar and Jamalpur** confirm Mathura as a sustained Kushan-period workshop. The **Mathura Archaeological Museum** preserves this diversity: Kushan-period galleries display Buddha, bodhisattva, tirthankara, yaksha, and royal portrait sculptures side by side, documenting an imperial capital where religious patronage was simultaneously competitive and cooperative.
 
-| Domain | Contribution |
-|--------|--------------|
-| **Buddhist Council** | **Fourth Buddhist Council** (trad. **Kashmir/Jalandhar**, c. 1st–2nd c. CE) — Mahayana texts codified; sectarian significance debated |
-| **Buddha image** | Imperial patronage standardised **anthropomorphic Buddha** — Gandhara and Mathura workshops |
-| **Mahayana** | Promotion of **bodhisattva** cult — Maitreya, Avalokiteshvara sculptures |
-| **Coinage** | Gold **dinar/stater** — Greek script + Indian deities; images of **Buddha, Shiva, Nanaia** (Persian goddess) — religious syncretism |
-| **Architecture** | Grand **stupas** (Peshawar Kanishka stupa); monastery building across empire |
-| **Trade** | Silk Route prosperity funded artistic production |
+### The aniconic-to-iconic transition
 
-### Mahayana link
-
-- Kushan period sees shift from **aniconic** (symbol-only) to **iconic** Buddha representation — essential for **Mahayana** spread.
-- **Gandhara** especially associated with **bodhisattva** imagery and narrative **Jataka reliefs** — visual theology of **Mahayana sutras** (Lotus, Prajnaparamita traditions).
-- **Mathura** Buddha type becomes **dominant pan-Indian form** — influences Gupta Sarnath Buddha and all later Asian iconography.
-- Both schools together = **artistic foundation of Buddhist world religion**.
-
-### Aniconic to iconic transition (exam-critical)
+Understanding Kushan art requires grasping what came before and what changed:
 
 | Phase | Representation | Period | Example |
 |-------|----------------|--------|---------|
-| **Aniconic** | Wheel, footprints, throne, Bodhi tree | Pre-Kushan (Maurya onward) | **Sanchi, Bharhut** reliefs — Buddha not shown in human form |
+| **Aniconic** | Wheel, footprints, throne, Bodhi tree | Pre-Kushan (Maurya onward) | **Sanchi, Bharhut** — Buddha not shown in human form |
 | **Early iconic** | Anthropomorphic Buddha emerges | c. **1st c. CE** | Scattered experiments |
 | **Kushan standardisation** | Full Buddha and bodhisattva images | **1st–3rd c. CE** | **Gandhara schist, Mathura sandstone** |
 | **Gupta refinement** | Spiritualised canonical type | **4th–6th c. CE** | **Sarnath Buddha** — inherits Mathura lineage |
 
-- Kushan period is the **decisive break** — enables **Mahayana visual theology** (bodhisattva cult, Jataka narrative panels) and pan-Asian icon export.
+The Kushan period is the **decisive break**. Anthropomorphic images enabled **Mahayana visual theology** — bodhisattva cults, Jataka narrative panels, and devotional worship before a human-form Buddha — and made pan-Asian icon export possible.
 
-### Gandhara — stucco and schist traditions
+### Kanishka's patronage: art, religion, and empire
 
-- Besides **grey schist**, Gandhara artists used **stucco (lime plaster)** over brick cores — cheaper, faster production for monastery and stupa decoration (**Hadda, Taxila**).
-- **Greco-Buddhist syncretism:** **Herakles-Vajrapani** as Buddha's protector; **Atlas figures** support stupas; **Corinthian pilasters** frame Indian divine narratives.
-- **Chinese pilgrim evidence:** **Faxian** and **Xuanzang** describe **Kanishka's Peshawar stupa** — literary corroboration for lost monumental architecture.
-- Gandhara's **naturalistic portraiture** influenced **Central Asian mural traditions** (Kizil, Dunhuang) — Silk Route artistic chain.
+Kanishka's patronage transformed both art and religion across the empire:
 
-### Mathura — cosmopolitan religious production
+| Domain | Contribution |
+|--------|--------------|
+| **Buddhist Council** | **Fourth Buddhist Council** (tradition places it in **Kashmir/Jalandhar**, c. **1st–2nd c. CE**) — Mahayana texts codified; distinct from **Ashoka's Third Council at Pataliputra** |
+| **Buddha image** | Imperial patronage standardised anthropomorphic Buddha at Gandhara and Mathura workshops |
+| **Mahayana** | Promotion of **bodhisattva** cult — Maitreya, Avalokiteshvara sculptures |
+| **Coinage** | Gold **dinar/stater** — Greek script with Indian deities; images of **Buddha, Shiva, Nanaia** (Persian goddess) — religious syncretism |
+| **Architecture** | Grand **stupas** (Peshawar Kanishka stupa); monastery building across empire |
+| **Trade** | Silk Route prosperity funded artistic production |
 
-- **Yaksha/Yakshi cult** precedes and merges with Buddhist/Jain iconography — **Parkham Yakshi**, **Chauri-bearer Yakshi** show indigenous fertility-deity tradition absorbed into Kushan art.
-- **Jain tirthankara** images (standing nude, **srivatsa** chest mark) and **Ayagapatas** (devotional tablets) from **Kankali Tila** — Mathura as **multi-faith workshop**.
-- **Kushan royal cult:** **Kanishka and Huvishka** portraits on coins and sculptures document **imperial dress, fire-altar rituals**, and multi-religious patronage.
-- **Mathura Buddha typology** features: **ushnisha** (cranial protuberance), **urna** (forehead mark), elongated earlobes, **abhayamudra** — becomes **standard Indian Buddha** through Gupta Sarnath refinement.
+Kushan **coinage** is itself a historical source: gold dinars bearing Greek legends alongside images of Buddha, Shiva, and foreign deities document an empire that patronised multiple faiths simultaneously. The **Fourth Council** under Kanishka belongs to Mahayana tradition and must not be confused with Ashoka's Third Council two centuries earlier.
 
-### Amaravati school (brief — third contemporary school)
+### Amaravati: the southern third school
 
-- **Amaravati** (Andhra Pradesh, lower Krishna valley) — **white/green limestone**; **Satavahana** and Kushan-era overlap.
-- **Narrative relief panels** on **stupa** (Amaravati, Nagarjunakonda) — dynamic movement, **lotus motifs**, tribhanga posture.
-- Less Hellenistic than Gandhara; more **fluid, sensuous Indian** style than Mathura's monumental solidity.
-- Often compared in exams as **third major early historic Buddhist art centre** — south Indian counterpart.
-
-### Gandhara vs Mathura vs Amaravati (comparison table)
+A third major contemporary school flourished at **Amaravati** in Andhra Pradesh (lower Krishna valley), working in **white/green limestone** under **Satavahana** and Kushan-era overlap. Amaravati **stupa** relief panels at **Amaravati and Nagarjunakonda** display dynamic movement, **lotus motifs**, and **tribhanga** (three-bend) posture — less Hellenistic than Gandhara, more fluid and sensuous than Mathura's monumental solidity. The Amaravati stupa's railing panels narrate Buddha's life in continuous visual sequences comparable to Gandhara friezes but executed in an entirely indigenous sculptural idiom. Amaravati represents the **south Indian counterpart** in early historic Buddhist art.
 
 | Aspect | Gandhara | Mathura | Amaravati |
 |--------|----------|---------|-----------|
@@ -183,31 +143,19 @@ flowchart TB
 | **Other religions** | Mainly Buddhist | Buddhist + Jain + Hindu | Mainly Buddhist |
 | **Dynasty link** | Kushan (NW) | **Kushan (UP centre)** | Satavahana-Ikshvaku overlap |
 
-### Significance
+### Significance and pan-Asian legacy
 
-- **First Buddha image** — Kushan art solves aniconic tradition; enables Buddhist **visual devotion** across Asia.
-- **Cultural synthesis** — Gandhara = Indo-Greek fusion; Mathura = indigenous Indian spiritual aesthetic.
-- **Historiography** — coins, sculptures, inscriptions date Kushan chronology; **Kanishka era** debates (accession date, council location).
-- **Pan-Asian legacy:** Gandhara transmitted iconography via **Silk Route**; Mathura type influenced **Gupta Sarnath Buddha** and all later Asian Buddhist art.
-- **UP civilizational pride:** **Mathura red sandstone** heritage on Yamuna — Kushan, Gupta, and medieval layers — central to UPPCS art-history questions.
+Kushan art solved the representational problem that had limited Buddhist devotion to symbolic worship. The **first Buddha image** enabled visual *darshan* — direct encounter with the enlightened one — and made Buddhism a **world religion of image, narrative, and temple** rather than stupa-symbol alone. **Gandhara** represents **Indo-Greek cultural synthesis** — proof that Indian art absorbed and transformed foreign idioms rather than merely resisting them. **Mathura** represents the **indigenous Indian spiritual aesthetic** that would dominate through Gupta Sarnath and all subsequent pan-Indian Buddhist iconography.
+
+Coins, sculptures, and inscriptions from the Kushan period anchor debates about Kushan chronology (Kanishka's accession date remains contested, with proposals ranging from 78 CE to 127 CE). **Mathura red sandstone** heritage on the Yamuna — with Kushan, Gupta, and medieval layers — stands as a continuous thread of Uttar Pradesh's civilizational identity. Gandhara transmitted iconography via the Silk Route; Mathura type influenced the **Gupta Sarnath Buddha** and every subsequent Asian Buddhist tradition.
 
 ### Contemporary relevance
 
-- **Mathura Archaeological Museum (ASI):** Houses premier **Kushan red sandstone** Buddha, bodhisattva, Jain tirthankara, and Yaksha sculptures from **Govindnagar, Kankali Tila, Jamalpur** — UP's flagship ancient art collection under **Archaeological Survey of India**.
-- **Constitutional heritage duty:** Kushan sculptures at Mathura and related sites fall under **Article 49** (state protection) and **Article 51A(f)** (citizen appreciation) — same framework as all nationally important monuments.
-- **NEP 2020 — Indian Knowledge Systems (IKS):** **Gandhara-Mathura art history**, iconography, and **Silk Route cultural exchange** taught in fine-arts and archaeology programmes — Kushan period is core IKS module for ancient Indian aesthetics.
-- **Buddhist Circuit tourism (UP):** **Mathura** on Yamuna links to **Sarnath** (Gupta Buddha refinement) and broader **Swadesh Darshan Buddhist Circuit** — Kushan Mathura as historical node in pilgrimage geography.
-- **Gandhara heritage and repatriation debate:** Gandhara collections in **Peshawar, Lahore, and international museums** (British Museum, Met) — UNESCO and **Incredible India** campaigns highlight India's civilizational claim to **Greco-Buddhist synthesis** despite sites lying mainly in Pakistan/Afghanistan today.
-- **Conservation science:** **Red sandstone weathering** at Mathura and **schist fragmentation** at Gandhara sites require **ASI** chemical consolidation and climate-controlled museum display — ancient craft meets modern conservation.
-- **Soft power and diaspora:** Kushan Buddha images underpin India's **Buddhist diplomacy** with **Japan, Sri Lanka, Thailand** — Mathura and Gandhara types referenced in joint exhibitions and cultural agreements.
-- **Digital documentation:** **3D scanning** of Kushan sculptures (museum and site programmes) creates permanent records — supports both research and **virtual tourism** without handling fragile originals.
+The **Mathura Archaeological Museum (ASI)** houses premier **Kushan red sandstone** Buddha, bodhisattva, Jain tirthankara, and Yaksha sculptures from **Govindnagar, Kankali Tila, and Jamalpur** — Uttar Pradesh's flagship ancient art collection. **Article 49** and **Article 51A(f)** frame heritage protection for these nationally important works. **NEP 2020's IKS** integrates **Gandhara-Mathura art history**, iconography, and Silk Route cultural exchange into fine-arts and archaeology programmes. **Mathura** on the Yamuna links historically to **Sarnath** (Gupta Buddha refinement) within the **Swadesh Darshan Buddhist Circuit**. **Gandhara heritage repatriation debates** — collections in Peshawar, Lahore, the British Museum, and the Met — highlight India's civilizational claim to **Greco-Buddhist synthesis** despite sites lying mainly in Pakistan and Afghanistan today. **Conservation science** addresses red sandstone weathering at Mathura and schist fragmentation at Gandhara sites through **ASI** chemical consolidation. Kushan Buddha images underpin India's **Buddhist diplomacy** with **Japan, Sri Lanka, and Thailand** through joint exhibitions and cultural agreements. **3D scanning** programmes create permanent digital records supporting research and virtual tourism.
 
-### Limitations / exam nuance
+### Limits
 
-- **Gandhara ≠ all Kushan art** — Mathura equally important; do not conflate.
-- **Kanishka's Fourth Council** — date/location debated; do not confuse with **Ashoka's Third Council**.
-- **Amaravati ≠ Gandhara** — different region, material, dynasty context.
-- Gandhara mostly **outside modern India** (Pakistan/Afghanistan) — but integral to **ancient Indian art history** syllabus.
+**Gandhara does not represent all Kushan art** — Mathura is equally central and must not be conflated with the northwestern school. **Kanishka's Fourth Council** date and location remain debated; it is a separate tradition from **Ashoka's Third Council at Pataliputra**. **Amaravati** is a distinct southern school — not a Gandhara subsidiary. Gandhara sites lie **mainly outside modern India** (Pakistan/Afghanistan) but remain integral to ancient Indian art history. **Anthropomorphic Buddha images were not standardised in the Mauryan age** — the Kushan period (1st–3rd c. CE) is the decisive phase. Not all Buddha images are Apollo-like — that typology is **Gandhara-specific**; Mathura produced the **indigenous spiritual type** that became pan-Indian canonical. **Sarnath Buddha is Gupta**, not Kushan Gandhara — it refines the Mathura lineage. Kanishka patronised **Mathura equally** with Gandhara — the red sandstone Yamuna workshop was an imperial centre, not a periphery.
 
 ---
 

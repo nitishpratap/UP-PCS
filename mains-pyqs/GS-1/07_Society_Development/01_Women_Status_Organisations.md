@@ -70,148 +70,109 @@ TRAPS: Status improved ≠ full equality | Crime data ↑ ≠ only more crime (r
 
 ## Content
 
-### Context — women in Indian society
+### Context — Women in Indian society
 
-- **Indian society** has historically been **patrilineal and patriarchal** — property, ritual authority, and public decision-making centred on men; women’s roles defined through **marriage, motherhood, and domestic labour**, often under **purdah, child marriage, and dowry** systems in many regions.
-- **Colonial and reform phase (19th–early 20th c.):** **Raja Rammohun Roy** campaigned against **sati** (abolished **1829**); **Ishwar Chandra Vidyasagar** pushed **Widow Remarriage Act 1856**; **Jyotirao Phule** and **Savitribai Phule** opened schools for girls (**1848**, Pune); **Pandita Ramabai** worked on women’s education; **Gandhi** mobilized women in **Salt March, Khadi, Harijan** work — **Kasturba Gandhi, Sarojini Naidu, Aruna Asaf Ali** entered nationalist leadership.
-- **Constitutional modernity (1950 onward):** Independent India promised **formal equality**; yet **son preference, violence, low workforce participation, unpaid care burden**, and **under-representation in top economy/politics** persist — the central **UPPCS debate**: **legal progress vs social lag**.
-- **Exam frame:** Questions cluster on **(a) changing status**, **(b) women’s organisations**, **(c) empowerment–development link**, **(d) crime trends** — all require **constitutional, statistical, organisational, and balanced** answers.
+Indian society has historically been patrilineal and patriarchal: property, ritual authority, and public decision-making centred on men, while women's roles were defined through marriage, motherhood, and domestic labour, often under purdah, child marriage, and dowry systems in many regions. The nineteenth century opened a reform arc — Raja Rammohun Roy campaigned against sati (abolished 1829); Ishwar Chandra Vidyasagar pushed the Widow Remarriage Act 1856; Jyotirao and Savitribai Phule opened schools for girls in Pune (1848); Pandita Ramabai worked on women's education; Gandhi mobilized women in nationalist struggle through Kasturba Gandhi, Sarojini Naidu, and Aruna Asaf Ali. Independent India promised formal equality through the Constitution, yet son preference, violence, low workforce participation, unpaid care burden, and under-representation at economic and political apex persist. The central analytical tension is legal progress versus social lag — how constitutional guarantees translate into lived freedom for half the population.
 
 ### Changing status of women — continuity and change
 
-**Legal and political gains**
+**Legal and political gains.** The Constitution guarantees equality (Articles 14, 15, 16), directs the state toward adequate livelihood, equal pay, dignity, and maternity relief (Articles 39(a)(d)(e), 42), and enjoins citizens to renounce practices derogatory to women's dignity (Article 51A(e)). The 73rd and 74th Amendments (1992) reserve not less than one-third of seats and chairpersons for women in Panchayati Raj and urban local bodies — some states adopted 50% voluntarily. The 106th Constitutional Amendment (2023) — Nari Shakti Vandan Adhiniyam — provides 33% reservation for women in Lok Sabha and State Assemblies (implementation phased post-delimitation/census). Personal law reforms include Hindu Marriage Act 1955, Special Marriage Act, and Muslim Women (Protection of Rights on Marriage) Act 2019 criminalizing triple talaq.
 
 | Domain | Milestone | Significance |
 |--------|-----------|--------------|
-| **Constitution** | **Art 14, 15, 16** | Equality, non-discrimination, equal opportunity in state employment |
-| **DPSP** | **Art 39(a)(d)(e), 42** | Adequate livelihood, equal pay, dignity, maternity relief |
-| **Fundamental Duties** | **Art 51A(e)** | Renounce practices derogatory to women’s dignity |
-| **Panchayati Raj** | **73rd/74th Amendments (1992)** | **Not less than one-third** seats and chairpersons for women in PRI/urban local bodies |
-| **Parliamentary reservation** | **106th Constitutional Amendment (2023)** — *Nari Shakti Vandan Adhiniyam* | **33% reservation** for women in **Lok Sabha and State Assemblies** (implementation phased) |
-| **Personal laws** | **Hindu Marriage Act 1955**, **Special Marriage Act**, **Muslim Women (Protection of Rights on Marriage) Act 2019** | Marriage age, divorce reform, triple talaq criminalization |
+| Constitution | Articles 14, 15, 16 | Equality, non-discrimination, equal opportunity |
+| DPSP | Articles 39(a)(d)(e), 42 | Livelihood, equal pay, dignity, maternity |
+| Panchayati Raj | 73rd/74th Amendments | ≥33% PRI/ULB seats for women |
+| Parliament | 106th Amendment (2023) | 33% LS/Assembly reservation |
+| Personal laws | HMA 1955, Triple Talaq Act 2019 | Marriage reform, divorce protection |
 
-**Social and educational indicators**
+**Social and educational indicators.** Female literacy rose from roughly 9% (1951) to about 70% (Census 2011); gender gap narrowed but rural-tribal pockets remain weak. NFHS-5 (2019–21) shows more women with 10+ years schooling; sex ratio at birth improved in several states though son preference persists in Haryana, Punjab, and UP belt historically. MMR declined toward SDG targets; anaemia, nutrition, and reproductive health access remain concerns. Female LFPR stays low (~24%, PLFS 2022–23) versus men — explained by unpaid care work, safety deficits, social norms, and lack of decent work; urban educated women face glass ceilings despite Companies Act provisions.
 
-- **Literacy:** Female literacy rose from **~9% (1951)** to **~70% (Census 2011)**; gender gap narrowed but **rural-tribal pockets** remain weak.
-- **NFHS-5 (2019–21):** Women with **10+ years schooling** increased; **sex ratio at birth (SRB)** shows improvement in several states though **son preference** persists in **Haryana, Punjab, UP** belt historically.
-- **Health:** **Maternal Mortality Ratio (MMR)** declined (UN SDG progress) but **anaemia, nutrition, reproductive health access** remain concerns.
-- **Workforce:** **Female Labour Force Participation Rate (LFPR)** remains **low (~24% PLFS 2022–23)** vs men — **unpaid care work**, **safety**, **social norms**, and **lack of decent work** explain gap; **urban educated women** face **glass ceiling** in corporate boards despite **Companies Act** provisions.
-
-**Persistent challenges**
-
-- **Violence:** **Dowry deaths, domestic cruelty, sexual assault, harassment, acid attacks, trafficking, cyber crimes** — patriarchal control + economic dependency.
-- **Economic:** **Wage gap**, limited **land ownership** (despite **Hindu Succession Amendment 2005**), **informal sector** vulnerability.
-- **Political:** PRI reservation created **mass grassroots leadership**; yet **parliament/ministry/corporate apex** still male-dominated until **106th Amendment** fully operationalizes.
+**Persistent challenges.** Violence spans dowry deaths, domestic cruelty (498A), sexual assault, harassment, acid attacks, trafficking, and cyber crimes — rooted in patriarchal control and economic dependency. Economic gaps include wage disparity, limited land ownership despite HSA 2005, and informal sector vulnerability. PRI reservation created mass grassroots leadership; parliament and corporate apex remained male-dominated until 106th Amendment.
 
 ```mermaid
 flowchart TD
-  L[Legal Equality<br/>Art 14 · 15 · 16] --> E[Education & Health<br/>literacy · NFHS · MMR]
-  E --> EC[Economic Agency<br/>SHG · wages · property]
-  EC --> P[Political Voice<br/>PRI · 106th Amendment]
-  P --> S[Social Empowerment<br/>mobility · dignity · safety]
-  S --> ID[Inclusive Development<br/>SDG 5 · demographic dividend]
+  L[Legal Equality] --> E[Education and Health]
+  E --> EC[Economic Agency: SHG, wages, property]
+  EC --> P[Political Voice: PRI, 106th Amendment]
+  P --> S[Social Empowerment: mobility, dignity, safety]
+  S --> ID[Inclusive Development: SDG 5]
 ```
 
 ### Major women's organisations — timeline and roles
 
-| Organisation | Founded | Key figures / base | Primary contribution |
-|--------------|---------|-------------------|----------------------|
-| **All India Women's Conference (AIWC)** | **1927**, Delhi | **Margaret Cousins**, **Sarojini Naidu**, **Kamaladevi Chattopadhyay** | Education, health, **legislative reform** (age of consent, inheritance), international women's networks |
-| **National Federation of Indian Women (NFIW)** | **1954** | Left-led mass federation | **Working women, peasants**, anti-price rise, **legal aid**, rights campaigns |
-| **Self Employed Women's Association (SEWA)** | **1972**, Ahmedabad | **Ela Bhatt** | **Trade union + cooperative + bank** for **informal sector** (hawkers, beedi rollers, garment home-workers) |
-| **Mazdoor Kisan Shakti Sangathan (MKSS)** | **1990s**, Rajasthan | **Aruna Roy, Nikhil Dey** | **Right to Information** movement, **jan sunwai** (public hearings), wage transparency — women-led grassroots accountability |
-| **Mahila Samakhya Programme** | **1989** (national scale) | MoWCD / earlier MHRD | **Education for empowerment**, collectives, **gender pedagogy** in rural/tribal blocks |
-| **Kudumbashree** | **1998**, Kerala | State mission | **Neighbourhood Groups (NHGs)** — micro-enterprise, **community governance**, disaster response model |
-| **SHG–Bank Linkage** | **NABARD 1992** onward | NABARD, banks, DAY-NRLM | **Credit + insurance + livelihood** — world's largest microfinance network; **>12 crore** women linked (official aggregates) |
-| **National Commission for Women (NCW)** | **1992** (statutory) | Government | **Investigate**, recommend, **review laws**, redress — statutory **watchdog** (not grassroots org but exam-relevant) |
+| Organisation | Founded | Key figures | Primary contribution |
+|--------------|---------|-------------|----------------------|
+| AIWC | 1927, Delhi | Margaret Cousins, Sarojini Naidu, Kamaladevi Chattopadhyay | Education, health, legislative reform |
+| NFIW | 1954 | Left-led federation | Working women, peasants, anti-price rise, legal aid |
+| SEWA | 1972, Ahmedabad | Ela Bhatt | Union + cooperative + bank for informal sector |
+| MKSS | 1990s, Rajasthan | Aruna Roy, Nikhil Dey | RTI movement, jan sunwai, wage transparency |
+| Mahila Samakhya | 1989 | MoWCD | Education for empowerment, rural/tribal collectives |
+| Kudumbashree | 1998, Kerala | State mission | NHG network, micro-enterprise, disaster response |
+| SHG–Bank Linkage | NABARD 1992 | NABARD, DAY-NRLM | Credit, insurance — 12+ crore women linked |
+| NCW | 1992 | Statutory body | Investigate, recommend, review laws |
 
-**Typology for answers:** (1) **National federations** (AIWC, NFIW); (2) **Trade/livelihood unions** (SEWA); (3) **Rights/campaign CSOs** (MKSS); (4) **State missions** (Kudumbashree); (5) **Government programme collectives** (Mahila Samakhya, SHGs under **DAY-NRLM**).
+Typology: national federations (AIWC, NFIW); trade/livelihood unions (SEWA); rights CSOs (MKSS); state missions (Kudumbashree); government programme collectives (Mahila Samakhya, SHGs under DAY-NRLM). NCW is statutory watchdog, not grassroots collective — distinguish in answers.
 
 ### Women's organisations and rural development
 
-- **Credit and livelihood:** **SHGs** under **Deendayal Antyodaya Yojana–NRLM** provide **revolving funds, bank linkage, skill training** — women move from **subsistence to petty trade, dairy, handicrafts (GI-tagged)**; **SEWA rural extensions** replicate cooperative model.
-- **Panchayat leadership:** **73rd Amendment** reservation enables women as **sarpanches** — **water, sanitation, mid-day meal, ICDS** oversight; examples from **Rajasthan, UP, Bihar** show **visible development delivery** when supported by collectives.
-- **Health and nutrition:** **ASHA, Anganwadi workers** (majority women) + **Mahila Arogya Samitis** strengthen **primary healthcare, immunization, nutrition** — frontline of **Anaemia Mukt Bharat, Poshan Abhiyan**.
-- **Transparency and accountability:** **MKSS-style social audits** expose **corruption in MGNREGA, PDS** — women gain **information power** via **RTI Act 2005**.
-- **Legal awareness:** Grassroots groups train on **Protection of Women from Domestic Violence Act 2005**, **Dowry Prohibition Act 1961**, **inheritance rights** — reduces **silent suffering**.
-- **Infrastructure:** **Swachh Bharat** **mahila mandals** drove **toilet construction, menstrual hygiene** campaigns in villages.
-- **Limits (for critical answers):** **Elite capture** in some SHGs; **debt distress** if microcredit commercialized; **sarpanch proxies** ( **pati-panch** phenomenon); **funding dependence** on government schemes.
+SHGs under DAY-NRLM provide revolving funds, bank linkage, and skill training — women move from subsistence to dairy, handicrafts (GI-tagged), and petty trade, raising household income and child nutrition spillovers. The 73rd Amendment enables women sarpanches to prioritize water, sanitation, mid-day meals, and ICDS when supported by collectives — visible in Rajasthan, UP, and Bihar. ASHA and Anganwadi workers, backed by Mahila Arogya Samitis, strengthen immunization and nutrition under Poshan Abhiyan. MKSS-style social audits expose MGNREGA and PDS corruption through RTI Act 2005. Grassroots groups train on DV Act 2005, dowry laws, and inheritance rights. Swachh Bharat mahila mandals drove toilet construction and menstrual hygiene. Limits: elite capture in some SHGs, debt distress from commercialized microcredit, pati-panch proxy sarpanches, funding dependence on government schemes.
 
-### Women empowerment — dimensions and link to development
+### Women empowerment — dimensions and inclusive development link
 
 | Dimension | Indicators / tools | Development link |
 |-----------|-------------------|------------------|
-| **Economic** | Wages, **MGNREGA** workdays (women ~50%+ person-days in many states), **property**, **MSME** | Raises **household income**, **child nutrition/education** spillovers |
-| **Political** | **PRI reservation**, voting turnout (women often **higher than men** in recent elections), **106th Amendment** | **Voice in allocation** — water, roads, schools |
-| **Social** | Education, **mobility**, **freedom from violence**, **decision-making in family** | Breaks **intergenerational poverty**, improves **health outcomes** |
-| **Legal** | Courts, **Legal Services Authorities**, **One Stop Centres**, **Mahila Police Stations** | Converts **rights on paper** to **remedies** |
+| Economic | Wages, MGNREGA workdays, property, MSME | Household income, child nutrition/education |
+| Political | PRI reservation, voting, 106th Amendment | Voice in water, roads, schools allocation |
+| Social | Education, mobility, freedom from violence | Breaks intergenerational poverty |
+| Legal | Courts, One Stop Centres, Mahila Police | Converts paper rights to remedies |
 
-**Why social empowerment precedes inclusive development (2021 PYQ logic):**
-- **Inclusive development** = growth that reaches **SC/ST, women, disabled, poor** — not GDP alone.
-- Without **social empowerment**, women lack **agency** to use **economic assets** (credit wasted on male-controlled spending); **education** undermined by **early marriage**; **political reservation** ineffective under **proxy rule**.
-- **Amartya Sen** capability approach: development = **freedom to choose** — social norms restricting **mobility, speech, bodily autonomy** cap capabilities.
-- **Demographic dividend:** India's youth bulge needs **gender-equal human capital** — **half population** cannot be sidelined for **sustainable growth (SDG 5)**.
+Why social empowerment precedes inclusive development: without social voice, credit and property may be controlled by male kin (capabilities remain unrealized per Amartya Sen); education is undermined by early marriage; political reservation becomes ineffective under proxy rule; violence damages mental health and work attendance — imposing development costs of patriarchy. India's demographic dividend requires gender-equal human capital; sidelining half the population undermines SDG 5 and sustainable growth.
 
 ### Crime against women — data, debate, root causes
 
-**Legal categories (NCRB — Crime in India)**
-
-- **Cruelty by husband/relatives (Sec 498A IPC)**, **assault on women with intent to outrage modesty**, **kidnapping/abduction**, **rape (Sec 376)**, **dowry deaths (Sec 304B)**, **POCSO** offences, **acid attacks**, **cyber stalking/harassment** (IT Act amendments).
-- **Trend:** **Registered cases** show **upward trajectory** over decades — exam answer must **not stop at "yes increasing"**.
-
-**Why recorded crimes rise — nuanced view**
+NCRB Crime in India records cruelty by husband/relatives (498A), assault, kidnapping, rape (376), dowry deaths (304B), POCSO offences, acid attacks, and cyber harassment. Registered cases show upward trajectory — multi-causal, not purely rising violence.
 
 | Factor | Explanation |
 |--------|-------------|
-| **Better reporting** | **Awareness, media, Nirbhaya 2012** shock, **women's helplines (181), OSCs** |
-| **Legal expansion** | New offences codified; **police mandatory registration** after **Criminal Law reforms** |
-| **Persistence of patriarchy** | **Dowry, honour logic, son preference, alcohol**, **urban anonymity** in slums |
-| **Under-reporting still** | **Rural, migrant, Dalit-Adivasi women**, **marital rape not criminalized** (debated), **stigma** |
+| Better reporting | Nirbhaya 2012 shock, helplines (181), OSCs, media awareness |
+| Legal expansion | POCSO 2012, POSH 2013, IT Act cyber offences codified |
+| Persistent patriarchy | Dowry, son preference, alcohol, economic dependency |
+| Under-reporting | Rural, migrant, Dalit-Adivasi women; marital rape gap; stigma |
 
-**Institutional response**
+Institutional response: Nirbhaya Fund (2013), Mission Shakti (2021), fast-track courts, POSH Act 2013. Verdict: partially agree — registered crimes increased; both real violence burden and better registration explain trend. Low conviction rates sustain impunity.
 
-- **Nirbhaya Fund (2013)** — **One Stop Centres, fast-track courts, forensic labs, Mahila Police**
-- **Mission Shakti (2021)** — umbrella: **Samarthya, Shakti Sadan, Hub for Empowerment of Women**
-- **Fast-track special courts** for **rape/POCSO**
-- **POSH Act 2013** — workplace committees post-**Vishaka Guidelines (1997)**
+### Constitutional and policy framework
 
-### Constitutional and policy framework (table)
+Articles 15(3), 39(d), 42, 243D/243T, 106th Amendment; Beti Bachao Beti Padhao (2015); Mission Shakti; Maternity Benefit (Amendment) Act 2017 (26 weeks). Key laws: Dowry Prohibition 1961; DV Act 2005; Vishaka 1997 → POSH 2013; POCSO 2012; Triple Talaq Act 2019.
 
-| Provision / Policy | Content |
-|--------------------|---------|
-| **Art 15(3)** | State may make **special provisions for women and children** |
-| **Art 39(d)** | **Equal pay for equal work** |
-| **Art 39(e)** | Health and strength of workers; **not to enter avocations unsuited to age/strength** |
-| **Art 42** | **Just and humane conditions of work and maternity relief** |
-| **Art 243D / 243T** | **≥1/3 reservation** women in **PRI and urban local bodies** |
-| **106th Amendment** | **33% reservation** in **Lok Sabha + State Assemblies** |
-| **Beti Bachao Beti Padhao (2015)** | Improve **SRB**, education — **Panipat to Panchkula** campaign logic |
-| **Mission Shakti** | Integrated **protection + empowerment** |
-| **Maternity Benefit (Amendment) Act 2017** | **26 weeks** paid leave (eligible establishments) |
+### 106th Amendment significance
 
-### Significance — women's agency and national development
+Historically women comprised less than 15% of Lok Sabha. Reservation corrects democratic deficit; female legislators often prioritize health, education, safety; visible leadership inspires girls' education; complements PRI pipeline from 73rd Amendment. Implementation phased — not instantly operational. Needs party democracy, violence-free elections, economic base — avoid tokenism and proxy candidacy.
 
-- **Human capital:** Educated, healthy, **economically active women** correlate with **lower fertility, better child schooling, higher household savings** — **NFHS** evidence on **education– fertility link**.
-- **Governance quality:** **Women PRI leaders** often prioritize **drinking water, sanitation, education** (studies from **Kerala, West Bengal, Karnataka**).
-- **Social justice:** Empowerment operationalizes **Constitutional promise** to **half the population** — prerequisite for **Sabka Saath, Sabka Vikas** rhetoric to be substantive.
-- **Global standing:** **Gender Inequality Index (UNDP)**, **WEF Global Gender Gap Report** — India ranks **moderate/low** on **economic participation and health** — improvement needed for **soft power and SDGs**.
+### SHGs — economic and social empowerment
+
+NABARD SHG–Bank Linkage (1992) and DAY-NRLM: financial inclusion for rural poor women; livelihood diversification; social capital through regular meetings; government last-mile delivery platform; Kudumbashree model at scale. Risks: over-indebtedness, commercial MF abuse, elite capture — livelihood-first design essential.
+
+### Social empowerment of women and inclusive development — elaboration
+
+Social empowerment (education, dignity, freedom from violence, decision-making) is foundational because economic and political empowerment without transformed social norms fails. Girl's education and delayed marriage (NFHS-5 link) improve child health and break intergenerational poverty. Social restrictions on mobility and safety depress LFPR. PRI and 106th Amendment reservation works when women attend meetings and speak freely — not as proxies. Constitution Articles 15(3) and DPSP make inclusion moral and legal obligation, not charity. Violence blocks development through mental health and work attendance costs.
+
+### Historical arc — from reform to constitutional equality
+
+The nineteenth-century reform phase established precedent that social practice could be changed by law and movement combined — Roy's sati abolition (1829) proved scriptural reinterpretation plus colonial legislation could override custom. Phules' girls' school (1848) attacked Brahminical gatekeeping of knowledge. Gandhi's mass mobilization of women in Salt March and Khadi normalized female public political presence — not merely elite club reformism. Post-1950, Constitution promised equality but Nehru-era planning prioritized industrial growth over gender-transformative social policy — women's status improved unevenly: legal rights advanced faster than social practice (proof: dowry deaths persist despite 1961 Act; LFPR fell in some decades despite rising literacy). 1970s–90s autonomous women's movement (Shahada, anti-rape, anti-dowry campaigns) plus global feminist discourse shaped DV Act 2005 and POSH 2013. 73rd Amendment (1992) was watershed — millions of women entered formal political space as PRI members. 106th Amendment (2023) scales this to Parliament — completing arc from reform to representation, though social empowerment gaps remain.
 
 ### Contemporary relevance
 
-- **106th Constitutional Amendment (2023)** — **Nari Shakti Vandan Adhiniyam**: **33% women in Parliament and assemblies** — historic shift; exam link to **political empowerment** and **policy prioritization** (health, safety, education).
-- **Mission Shakti (2021)** and **Mission Vatsalya** — integrated **protection, shelter, legal aid** for women and children.
-- **Digital Shakti / cyber safety** campaigns — rising **online harassment, deepfakes, financial fraud** targeting women; **IT Rules** and **Cyber Crime Prevention against Women and Children (CCPWC)** scheme.
-- **NFHS-5** — use for **SRB, anaemia, spousal violence** statistics in answers; **Poshan 2.0, Anaemia Mukt Bharat** for health empowerment.
-- **Gig/platform economy** — **SEWA, labour codes debate**, social security for **domestic workers and anganwadi** ( **Code on Social Security** recognition struggles).
-- **International Women's Day / SDG 5** — stable hook for **gender equality** conclusion.
+106th Amendment (2023); Mission Shakti and Mission Vatsalya; Digital Shakti for cyber safety; NFHS-5 for SRB, anaemia, spousal violence; Poshan 2.0, Anaemia Mukt Bharat; gig economy and labour codes debate; SDG 5.
+
+### Integrated synthesis — women, development, and the state
+
+The relationship between women's status and national development is bidirectional. When women gain education and health, household fertility falls, child nutrition improves, and human capital formation accelerates — NFHS-5 documents inverse correlation between women's schooling years and early marriage. When women lack social empowerment, economic assets fail to translate into agency — microcredit reaches SHG accounts controlled by male kin; property titles under Hindu Succession Amendment 2005 remain socially denied in village practice. Political reservation creates visibility — PRI sarpanches deliver water and sanitation in Rajasthan and UP studies — but pati-panch proxy undermines voice. Crime data requires nuanced reading: rising NCRB registration reflects awareness post-Nirbhaya as much as violence burden; under-reporting among Dalit-Adivasi-migrant women persists; conviction rates low. Organisations remain indispensable intermediaries between constitutional promise and lived freedom — AIWC for policy advocacy, SEWA for informal sector, MKSS for transparency, SHGs for scale — but each model carries limits (debt, capture, co-option) requiring accountable design.
 
 ### Limits and balanced view
 
-- **Legal equality ≠ lived equality** — **implementation gaps** in police, courts, ** patriarchal village councils (khap)**.
-- **Reservation ≠ empowerment alone** — needs **capacity building, freedom from violence, economic base**.
-- **SHG success uneven** — **commercial microfinance crises** ( Andhra precedent) caution against **debt without livelihood**.
-- **Crime statistics** — **NCRB records cases registered**, not **conviction rates** (often low) nor **unreported crime**; avoid **sensationalism** without **structural analysis**.
-- **Urban bias in NGOs** — credit **grassroots Dalit-Adivasi women's movements** ( **VAMP, Narmada Bachao Andolan** women's wings) alongside **elite clubs**.
+Legal equality ≠ lived equality — police, courts, khap panchayats. Reservation without capacity building and economic base yields tokenism. SHG success uneven — Andhra microfinance crisis caution. NCRB ≠ conviction rates or unreported crime. Credit grassroots Dalit-Adivasi movements alongside elite clubs. Status improved ≠ full equality. Sati banned ≠ all harmful customs ended. POSH covers private sector. Critical examination requires debt distress, elite capture, co-option limits.
 
 ---
 

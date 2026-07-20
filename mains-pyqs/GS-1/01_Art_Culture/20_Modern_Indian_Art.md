@@ -65,43 +65,29 @@ TRAPS: Ravi Varma ≠ modernist (transition figure) | Bengal School ≠ only fol
 
 ## Content
 
-### Context — From colonial to modern
+### Context — from colonial academic art to modern Indian painting
 
-- **Official syllabus:** **Art forms ancient → modern** — **Topics 01.1–01.19 cover ancient-medieval**; **01.20 closes gap to contemporary**.
-- **Modern Indian art story:** **Colonial academic realism → nationalist revival (Bengal School) → cosmopolitan modernism (Sher-Gil, PAG) → plural contemporary scene**.
-- **Exam focus:** **Bengal School + Amrita Sher-Gil + PAG** — **UPPCS favourite compare/contrast with Mughal/Rajasthani miniatures**.
+Modern Indian art emerges from a deliberate break with colonial academic realism and a parallel recovery of indigenous aesthetic sources spanning Ajanta mural lineages, Mughal manuscript refinement, Pahari lyrical softness, and folk flatness later revived by Jamini Roy. The story runs from Company School documentary painting for British patrons through Raja Ravi Varma's mass-produced oleographic mythological naturalism, to the Bengal School's nationalist revival of wash technique and Ajanta-Mughal-Pahari lineages, through Amrita Sher-Gil's Indo-European figurative modernism, to the Progressive Artists' Group's post-1947 cosmopolitan experimentation and today's plural contemporary scene of Baroda narrative figuration, installation, biennales, and global diaspora practice. Understanding this arc requires seeing each phase as a response to the previous one's limits: Ravi Varma popularised Hindu iconography through European salon technique but was criticised for derivative naturalism; Bengal School rejected that commercial oleograph idiom but re-engaged tradition selectively; Sher-Gil bridged Paris training with Indian rural subjects; PAG broke revivalist nationalism for expressionism and abstraction while retaining Indian thematic content.
 
 ### Colonial and transitional phase
 
 | Phase | Features | Key figures |
 |-------|----------|-------------|
-| **Company School** | **European patronage**, **documentary**, **portrait and landscape** for East India Company officials | **Local artists in Calcutta, Lucknow, Madras courts** |
-| **Academic realism** | **Oil painting**, **naturalistic mythological scenes**, **mass reproduction** | **Raja Ravi Varma (1848–1906)** — **Puranic themes, oleographs, calendar art** |
-| **Debate** | **Ravi Varma popularized Hindu iconography** but **critics (Coomaraswamy, Bengal School) saw European salon style as inauthentic** | **Transition, not modernism proper** |
+| **Company School** | European patronage; documentary portrait, landscape, botanical illustration for East India Company officials | Local artists in Calcutta, Lucknow, Madras courts |
+| **Academic realism** | Oil painting; naturalistic mythological scenes; mass reproduction via lithography | Raja Ravi Varma (1848–1906) — Puranic themes, oleographs, calendar art |
+| **Critical debate** | Ravi Varma democratised Hindu visual vocabulary but Bengal School critics led by Ananda Coomaraswamy saw European salon style as inauthentic | Ravi Varma as transition figure, not modernist proper |
 
-### Bengal School of Art (likely PYQ)
+Company School artists served British administrative and aesthetic demand with hybrid technique — Indian hand, European compositional expectation — producing botanical studies, durbar scenes, and portrait commissions in Calcutta, Lucknow, and Madras from the late eighteenth century onward. Ravi Varma's oleographs reached mass audiences through print technology, fixing god-and-goddess imagery in popular consciousness decades before cinema and establishing the visual template Bengal School later reacted against. Coomaraswamy and Bengal School reformers did not reject mythological subject matter but rejected the optical naturalism, three-dimensional shading, and commercial reproducibility they associated with colonial taste hierarchies that ranked European academic oil above indigenous manuscript and mural traditions.
 
-**Origin (~1905 onward)**
-- **Swadeshi movement context** — **cultural nationalism sought indigenous aesthetic**.
-- **Abanindranath Tagore** — **leader** — **revived wash technique**, **soft colours**, **Ajanta/Mughal/Persian and Japanese ink influences**.
-- **E.B. Havell** — **Principal, Government School of Art, Calcutta** — **reformed curriculum toward Indian sources**.
-- **Ananda Coomaraswamy** — **intellectual defence** of **Indian art against Western academic dominance**.
+### Bengal School of Art — origin, characteristics, and nationalism
 
-**Characteristics**
-- **Anti-Ravi Varma oleograph commercialism** — **spiritual, lyrical, non-naturalistic**.
-- **Themes:** **Epics, Krishna lila, village life, historical nationalism** — **e.g., Bharat Mata imagery trend (Bankim-Gaganendranath context)**.
-- **Technique:** **Watercolour wash**, **muted palette**, **decorative borders**, **miniature revival sensibility on paper**.
+The Bengal School arose circa 1905 within Swadeshi movement cultural nationalism, which sought indigenous aesthetic authority against colonial academic dominance. Abanindranath Tagore led the movement, reviving watercolour wash technique, soft muted palette, and compositional sensibilities drawn from Ajanta murals, Mughal miniatures, Persian manuscript borders, and Japanese ink wash introduced through early twentieth-century pan-Asian art contacts. E.B. Havell, Principal of the Government School of Art in Calcutta, reformed curriculum toward Indian sources rather than European copy-plaster models. Ananda Coomaraswamy provided intellectual defence of Indian art traditions against Western academic claims of superiority in texts that influenced both Indian and European art historiography.
 
-**Major artists**
-- **Abanindranath Tagore** — *Journey's End*, *Passing of Shah Jahan*.
-- **Gaganendranath Tagore** — **Cubist/expressionist experiments**, *Realm of the Absurd* (caricature).
-- **Nandalal Bose** — **Shantiniketan murals**, **Haripura Congress posters (1938)**, **Linocut**, **Constitution manuscript illustrations (1950)**.
-- **Asit Kumar Haldar**, **Kshitindranath Mazumdar** — **epic and lyrical themes**.
+Bengal School characteristics oppose Ravi Varma oleograph commercialism with spiritual, lyrical, non-naturalistic imagery. Themes include epics, Krishna lila, village life, and historical nationalism including Bharat Mata visual trends within broader Bankim-Gaganendranath cultural context. Technique employs watercolour wash, muted palette, decorative borders, and miniature revival sensibility transposed to standalone paper works.
 
-**Contribution to nationalism**
-- **Visual swadeshi** — **reject colonial aesthetic hierarchy**.
-- **Mass political art** — **Haripura posters linked art to freedom movement outreach**.
-- **Institutional:** **Kala Bhavana, Visva-Bharati** — **art education decolonized**.
+Major artists: Abanindranath Tagore (*Journey's End*, *Passing of Shah Jahan*); Gaganendranath Tagore with cubist and expressionist experiments including *Realm of the Absurd* caricature; Nandalal Bose with Shantiniketan murals, Haripura Congress posters (1938), linocut, and Constitution manuscript illustrations (1950); Asit Kumar Haldar and Kshitindranath Mazumdar on epic and lyrical themes.
+
+Nationalist contribution operates as visual swadeshi rejecting colonial aesthetic hierarchy; mass political art linking Haripura posters to freedom movement outreach; and institutional decolonisation through Kala Bhavana at Visva-Bharati making art education serve national awakening rather than imperial taste formation. Gaganendranath Tagore's cubist and caricature experiments in *Realm of the Absurd* demonstrate that Bengal School was not stylistically uniform — it contained modernist experiment within revivalist framework, anticipating later PAG abstraction while maintaining indigenous subject matter.
 
 ```mermaid
 flowchart LR
@@ -113,60 +99,45 @@ flowchart LR
 
 ### Shantiniketan and Kala Bhavana
 
-- **Rabindranath Tagore** — **art integrated with nature, craft, and pedagogy** — **not rote European copy**.
-- **Nandalal Bose** — **murals at Shantiniketan**, **folk and tribal motifs**, **Japanese brush influence**.
-- **Legacy:** **Public art for nation-building** — **Constitution illustrations symbolize art in republican identity**.
+Rabindranath Tagore integrated art with nature, craft, and pedagogy at Shantiniketan — opposing rote European academic copyism that trained students only in plaster-cast Greco-Roman models. Nandalal Bose painted murals incorporating folk and tribal motifs with Japanese brush influence, treating Santhal dance, harvest ritual, and village craft as legitimate fine-art subjects decades before anthropological turn in contemporary art. Constitution illustrations Nandalal produced for the 1950 manuscript — depicting episodes from Mohenjodaro to freedom struggle — symbolise art entering republican identity formation at the founding document itself. Haripura Congress posters (1938) extended Bengal School nationalism from gallery to mass political communication, using bold linocut and wash imagery for village audiences who might never enter a museum.
 
 ### Amrita Sher-Gil (1913–1941)
 
-- **Biography:** **Born Budapest**, **Indian-Hungarian**, **trained Paris (École des Beaux-Arts)**, **returned India 1934**.
-- **Style:** **Synthesis of Post-Impressionism + Indian subjects** — **earthy ochres, reds, browns**.
-- **Subjects:** **Rural poor, tribals, women, introspective portraits** — **dignity without romanticization**.
-- **Major works:** ***Three Girls*, *Hill Women*, *Bride's Toilet*, *Self-Portrait as Tahitian***.
-- **Significance:** **First woman modernist of India**, **pre-PAG bridge to international modernism**, ** influenced narrative figuration later**.
-- **Tragedy:** **Died age 28** — **canonized as "India's Frida Kahlo" analogy (exam shorthand only)**.
+Born in Budapest to Indian-Hungarian parents, Sher-Gil trained at École des Beaux-Arts in Paris and returned to India in 1934 seeking subjects rooted in subcontinental life. Her style synthesises Post-Impressionist colour handling with Indian themes — earthy ochres, reds, and browns applied to rural poor, tribals, women, and introspective portraits rendered with dignity rather than exotic romanticisation. Major works include *Three Girls*, *Hill Women*, *Bride's Toilet*, and *Self-Portrait as Tahitian*. She travelled extensively across India — Ajanta, South India, Lahore — searching for a visual language that could carry modern form without colonial academic subservience. She stands as India's first major woman modernist, bridging European modernism and Indian subject matter before PAG and influencing later narrative figuration including Baroda School humanism. She died aged 28 in 1941 — before PAG's 1947 formation — and is frequently compared analogically to Frida Kahlo in global art discourse, though the comparison is shorthand rather than strict stylistic equivalence.
 
 ### Progressive Artists' Group (PAG, 1947)
 
-**Formation:** **Bombay, 1947** — **founders: M.F. Husain, F.N. Souza, S.H. Raza, K.H. Ara, H.A. Gade, S.K. Bakre**.
-
-**Aims:** **Break from revivalist nationalism** — **engage global modernism** — **Expressionism, abstraction, bold line and colour**.
+PAG formed in Bombay in 1947 with founders M.F. Husain, F.N. Souza, S.H. Raza, K.H. Ara, H.A. Gade, and S.K. Bakre — months after Independence, signalling deliberate break from pre-1947 cultural nationalism toward international modernism. Aims included breaking revivalist nationalism to engage global modernism through expressionism, abstraction, bold line, and colour field experimentation while retaining recognisably Indian subject matter.
 
 | Artist | Contribution |
 |--------|--------------|
-| **M.F. Husain** | **Horses, folk motifs, epic cinema-inspired narratives**, **public intellectual artist** |
-| **S.H. Raza** | ***Bindu* series** — **tantric geometry, colour symbolism**, **long Paris phase** |
-| **F.N. Souza** | **Distorted human figures**, **Catholic upbringing, raw expressionism** |
-| **K.H. Ara** | **Still life, landscapes**, **self-taught modernist** |
-| **H.A. Gade, S.K. Bakre** | **Abstract/expressionist experimentation** |
+| **M.F. Husain** | Horses, folk motifs, epic cinema-inspired narratives; public intellectual artist |
+| **S.H. Raza** | *Bindu* series — tantric geometry, colour symbolism; long Paris phase |
+| **F.N. Souza** | Distorted human figures; Catholic upbringing; raw expressionism |
+| **K.H. Ara** | Still life, landscapes; self-taught modernist |
+| **H.A. Gade, S.K. Bakre** | Abstract and expressionist experimentation |
 
-**Legacy:** **Dominant market and museum narrative of Indian modern art** — **Biennale representations**, **national awards**.
+PAG legacy dominates market and museum narratives of Indian modern art through biennale representation and national awards, establishing post-Independence visual modernity as internationally legible while debating Indian identity through form. Husain's horses and epic narratives, Raza's Bindu geometry rooted in tantric symbolism, and Souza's distorted figuration drawn from Catholic iconographic memory show that PAG modernism was heterogeneous — expressionist, abstract, and narrative strands coexisted rather than converging on one style.
 
-### Parallel modernists — Jamini Roy
+### Parallel modernists — Jamini Roy and regional figures
 
-- **Rejected academic style** — **turned to Kalighat pat and folk scroll tradition**.
-- **Bold flat colours, flowing lines**, **Christian and rural Bengali themes**.
-- **Affordable art for masses** — **nationalist folk idiom distinct from Bengal School wash**.
+Jamini Roy rejected academic style and turned to Kalighat pat and folk scroll tradition — bold flat colours, flowing lines, Christian and rural Bengali themes, affordable art for masses. His folk idiom differs from Bengal School wash technique though both respond to colonial academic dominance; where Abanindranath sought refinement in miniature revival, Roy sought democratic accessibility in village and bazaar visual language. N.S. Bendre and K.K. Hebbar developed regional modernisms outside Bombay centre, proving modern Indian art geography was multi-nodal rather than exclusively metropolitan.
 
-### Contemporary currents (brief)
+### Contemporary currents
 
-- **Baroda School (MSU Faculty of Fine Arts)** — **Narrative, conceptual, subaltern themes** — **Bhupen Khakhar, Gulammohammed Sheikh**.
-- **Tyeb Mehta** — ***Diagonal* series, *Mahishasura*, falling figures** — **existential modernism**.
-- **1990s–today:** **Global diaspora (Anish Kapoor), installation, video, Kochi-Muziris Biennale**, **auction market boom**, **public art debates**.
-- **Government:** **Lalit Kala Akademi**, **NGMA**, **National Mission on Monuments extended to modern collections**.
+Baroda School (MSU Faculty of Fine Arts) developed narrative, conceptual, and subaltern themes through Bhupen Khakhar, Gulammohammed Sheikh, and successors — often termed narrative figuration for its return to readable human stories after high-modernist abstraction. Tyeb Mehta's *Diagonal* series, *Mahishasura*, and falling figures express existential modernism through simplified form and violent mythological metaphor. From the 1990s onward, global diaspora practitioners including Anish Kapoor, installation and video art, Kochi-Muziris Biennale founded 2012 as India's first biennale-scale contemporary platform, auction market growth, and public art debates define contemporary plural practice. The shift from nationalist revival to global contemporary did not erase earlier lineages — Bengal School wash, Mughal composition, and folk flatness recur in postmodern quotation by Atul Dodiya and others who cite art-historical sources within conceptual frames. Photography entered the contemporary canon through practitioners such as Dayanita Singh, whose archival and interior series extended modern Indian visual culture beyond painting into lens-based media collected by international museums.
+
+### Significance and legacy
+
+Modern Indian art is dialogue between tradition recovery and global modernity — nationalism, identity, and formal experimentation intertwined rather than sequential rejection of all heritage. Bengal School made art a vehicle of cultural nationalism through wash technique revival and Swadeshi visual vocabulary; Sher-Gil humanised modernist figuration for Indian rural and female subjects with earthy palette dignity; PAG internationalised post-Independence visual language through expressionism and abstraction while retaining Indian thematic content in Husain's epics and Raza's Bindu symbolism; contemporary scene pluralises media, critique, and biennale infrastructure. Lalit Kala Akademi (1954) and NGMA (1954, New Delhi) institutionalised state patronage for modern collections parallel to ASI's ancient monument mandate. UP relevance includes Lucknow Company School antecedents, national museum collections in Delhi, and heritage-city public art integration in Varanasi and Lucknow tourism programmes under Smart Cities and HRIDAY legacy frameworks that treat visual culture as urban identity asset.
 
 ### Contemporary relevance
 
-- **NEP 2020 IKS** — **Indian art history in curricula**.
-- **GI tags and craft-modern crossover** — **ODOP, handicrafts exports**.
-- **Heritage-city public art (Varanasi, Lucknow)** — **tourism integration**.
-- **Debate on ** **iconography, censorship, public morality vs artistic freedom** (Husain precedent).
+NEP 2020 IKS integrates modern Indian art history into fine arts and humanities curricula — Bengal School wash technique, Sher-Gil's cross-cultural modernism, PAG's place in global modern art surveys, and Baroda narrative figuration as post-independence development. GI tags and ODOP handicraft-modern crossover connect folk idioms Jamini Roy revived with export and livelihood policy. Heritage-city programmes embed mural and public art in Varanasi and Lucknow urban tourism under Smart Cities mission. NGMA and Lalit Kala Akademi exhibitions, digitisation, and international touring shows carry soft-power function comparable to UNESCO monument diplomacy. Hunar Haat and craft fairs link Shantiniketan pedagogy legacy to contemporary artisan economies, while NGMA retrospective exhibitions periodically reunite Bengal School, PAG, and contemporary works under one curatorial narrative of continuous modernity. Debates on iconography, censorship, public morality versus artistic freedom — notably around M.F. Husain's later controversy — remain live civic issues requiring historical context about figural tradition in temple and manuscript art and colonial-era obscenity law carryover into independent India's legal framework.
 
-### Limits and balanced view
+### Limits
 
-- **Modernism not monolithic** — **Bengal revival, PAG abstraction, folk modernism coexist**.
-- **Women artists underrepresented in PAG** — **Sher-Gil, Arpita Singh (later generation) correct narrative**.
-- **Market ≠ merit** — **auction prices distort exam focus; know art historical roles**.
+Modernism was never monolithic — Bengal revival, PAG abstraction, Jamini Roy folk modernism, and Baroda narrative coexist as parallel streams rather than single teleology. Women artists were underrepresented in PAG formation; Sher-Gil and later Arpita Singh correct the narrative but expose gender gaps in patronage and canonisation. Ravi Varma was transitional, not modernist; Bengal School reinterprets Ajanta and Mughal rather than rejecting all tradition; PAG mixed expressionism with Husain's narrative figuration — not purely abstract; Amrita Sher-Gil died 1941 and was not PAG member; Jamini Roy's Kalighat idiom differs from Bengal School wash though both oppose academic realism; Havell was British curriculum reformer ally, not Indian nationalist painter; Shantiniketan was major visual art centre through Kala Bhavana, not literature alone; contemporary Indian art is strong domestically through biennales and Baroda, not diaspora-only; auction prices distort merit-based art history — knowing roles matters more than market ranking alone.
 
 ---
 

@@ -47,128 +47,105 @@ TRAPS: Tsunami ≠ tidal wave | Not all undersea EQ make tsunami | Cyclone surge
 
 ## Content
 
-### Context — tsunami in physical geography
+### Context — what a tsunami is and how it differs from other coastal hazards
 
-- **Tsunami** = **series of extremely long-wavelength ocean waves** caused by **sudden displacement of large water volume** — typically **undersea earthquakes**, also **landslides, volcanic collapse, meteorite impact**.
-- **Distinct from:** **Storm surge** (cyclone wind-pushed water), **tidal bore**, **ordinary wind waves** (short period).
-- **Indian Ocean** historically **under-prepared** until **26 December 2004** — **Sumatra-Andaman megathrust** — **deadliest tsunami in recorded history** (~**230,000 deaths** globally).
-- **India affected:** **Tamil Nadu, Andhra Pradesh, Puducherry, Kerala (minor), Andaman-Nicobar Islands** — led to **INCOIS Indian Tsunami Early Warning Centre**.
+A tsunami is a series of extremely long-wavelength ocean waves produced when a large volume of seawater is displaced suddenly and vertically. The Japanese term means "harbour wave," reflecting how bays and inlets concentrate incoming energy. Unlike wind-driven storm waves, which have periods of seconds and wavelengths of tens of metres, tsunami waves have wavelengths of one hundred to five hundred kilometres and periods of ten to sixty minutes between crests. In the open ocean a tsunami may rise only half a metre to one metre—ships often pass over without noticing—yet the entire water column from seafloor to surface participates in the motion, carrying enormous energy that becomes visible and destructive only when the wave shoals (slows and stacks up) near coastlines.
 
-### Characteristics of tsunami
+The Indian Ocean was historically among the least monitored basins for this hazard until 26 December 2004, when the Sumatra–Andaman megathrust earthquake (Mw 9.1) ruptured more than 1,200 km of subduction interface off western Sumatra. The resulting tsunami killed approximately 230,000 people across fourteen countries—the deadliest tsunami in recorded history. India suffered more than ten thousand deaths along the Tamil Nadu, Andhra Pradesh, and Puducherry coasts and in the Andaman–Nicobar Islands, transforming national policy from reactive disaster relief to proactive early warning through INCOIS (Indian National Centre for Ocean Information Services). Understanding tsunami characteristics, causes, and effects requires separating them from storm surge (cyclone wind and pressure pushing water ashore), tidal bores, and ordinary surf—confusion between these hazards has cost lives during evacuations.
 
-| Feature | Open ocean | Near coast (shoaling) |
-|---------|------------|------------------------|
-| **Wave height** | **~0.5–1 m** — **ships may not notice** | **10–30+ m** possible in **run-up zones** |
-| **Wavelength** | **100–500 km** | **Compresses** — **wave stacks up** |
-| **Speed** | **~800 km/h (deep water)** — **jet-speed** | **Slows** — **energy converts to height** |
-| **Period** | **10–60 minutes** between crests | **Multiple waves** over **hours** |
-| **Energy** | **Whole water column moves** | **Massive inundation force** |
+### Characteristics — open ocean behaviour, shoaling, drawback, and wave trains
 
-**Drawback:** **Sea may retreat abnormally before first wave** — **exposes seabed** — **false safety trap**.
+Tsunami physics obey the relationship between water depth and wave speed: in deep water a tsunami travels at roughly the square root of gravitational acceleration times depth, reaching about 800 km/h in the open ocean—comparable to a jet aircraft. Because wavelength is so long, wave height remains low offshore; energy is distributed through the full depth of the water column rather than confined to the surface skin layer as in wind waves.
 
-**Train of waves:** **First ≠ always largest** — **third or later wave** may be **most destructive**.
+Near coastlines, decreasing water depth forces the wave to slow. Continuity requires energy to convert from speed into amplitude, so wave height rises dramatically—a process called shoaling. Run-up is the maximum vertical height the water reaches on land above sea level; inundation is the horizontal penetration of flooding. Together they define the destruction zone. Multiple waves arrive over hours, not as a single wall; the first crest is not always the largest, and the third or later wave has destroyed many coastal settlements where survivors mistakenly assumed the danger had passed.
 
-### Causes of tsunami
+| Feature | Open ocean | Near coast (shoaling / run-up) |
+|---------|------------|----------------------------------|
+| **Wave height** | ~0.5–1 m; often unnoticed by vessels | 10–30+ m possible in confined bays and estuaries |
+| **Wavelength** | 100–500 km | Compresses as depth decreases |
+| **Speed** | ~800 km/h in deep water | Slows sharply; energy converts to height |
+| **Period** | 10–60 minutes between crests | Multiple waves over several hours |
+| **Energy mode** | Whole water column displaced | Massive horizontal and vertical inundation force |
 
-**1. Subduction zone earthquakes (primary — 2004 type)**
-- **Megathrust rupture** — **vertical displacement of seafloor** over **large area**.
-- **Shallow focus (<70 km)**, **Mw > 7.0** typically — **2004 Mw 9.1** — **1,200 km rupture length**.
+**Drawback** is a critical behavioural signature: before the first wave arrives, the sea may retreat abnormally far, exposing seabed and fish flapping on wet sand. Bystanders who walk onto the exposed floor are killed when the following surge returns at high speed. Drawback is not universal—some coasts receive the crest without prior retreat—but when it occurs it signals imminent danger, not a safe moment.
 
-**2. Submarine landslides**
-- **Earthquake-triggered sediment slide** — **Papua New Guinea 1998**.
-- **Volcanic flank collapse**.
+### Causes — megathrust earthquakes, landslides, volcanoes, and what fails to generate tsunamis
 
-**3. Volcanic causes**
-- **Krakatoa 1883** — **caldera collapse**.
-- **Submarine explosive eruption**.
+**Subduction zone megathrust earthquakes** cause most destructive tsunamis. When locked plates at a convergent boundary suddenly slip, the overriding and subducting plates move vertically over a large area of seafloor, displacing the water column above. Effective tsunamigenic ruptures are typically shallow (focus less than seventy kilometres), large magnitude (generally Mw greater than 7.0), and involve significant vertical slip on dipping fault planes. The 2004 event exemplifies all conditions: India–Burma plate boundary, Mw 9.1, 1,200 km rupture length, vertical displacement sufficient to set the entire Indian Ocean basin in motion.
 
-**4. Meteorite/asteroid impact** — **rare** — **geological record only**.
+**Submarine landslides** displace water when earthquake shaking or sediment overload causes slope failure. The 1998 Papua New Guinea tsunami followed a magnitude 7.0 earthquake that triggered an underwater slide, producing locally catastrophic run-up despite moderate seismic magnitude. Volcanic **flank collapse** and **caldera subsidence** can displace comparable volumes; Krakatoa's 1883 eruption collapsed much of the volcanic edifice into the Sunda Strait and generated deadly waves across the region.
 
-**What does NOT reliably cause tsunami:** **Deep earthquakes**, **strike-slip faults** (unless **large lateral displacement**), **most continental quakes**.
+**Submarine explosive eruptions** eject material and collapse cavities, displacing water directly. **Meteorite and asteroid impacts** can theoretically produce basin-scale tsunamis; evidence exists in geological records but no human-era example is documented.
 
-### 2004 Indian Ocean Tsunami — exam example
-
-- **Origin:** **Off west coast Sumatra** — **India–Burma plate subduction** — **Andaman-Nicobar on same arc**.
-- **Timeline:** **Earthquake ~7:58 IST** — **waves hit Andaman within minutes**, **Tamil Nadu ~2–3 hours later** (distance + speed).
-- **India impacts:** **~10,000+ Indian deaths**; ** Nagapattinam, Cuddalore, Chennai coast** devastated; **Car Nicobar, Hut Bay** severe in **islands**.
-- **Aftermath:** **Indian Tsunami Early Warning System (2007 operational)**, **INCOIS Hyderabad**, **community evacuation drills**.
+Not every undersea earthquake generates a tsunami. Deep-focus earthquakes release energy too far below the surface to move the seafloor effectively. Strike-slip faults dominated by horizontal motion displace little water unless displacement has a large vertical component or trigger secondary slides. Most continental earthquakes—including the vast majority of Himalayan events—occur under land or involve collision tectonics without oceanic vertical displacement, which is why they shake cities severely but do not produce Indian Ocean tsunamis.
 
 ```mermaid
 flowchart TD
-  EQ[Megathrust earthquake<br/>seafloor uplift] --> D[Water displacement]
-  D --> P[Propagation deep ocean<br/>high speed · low height]
-  P --> S[Shoaling at coast<br/>height increases]
-  S --> R[Run-up · inundation · damage]
+  EQ[Megathrust earthquake — seafloor uplift] --> D[Water displacement]
+  D --> P[Propagation — deep ocean, high speed, low height]
+  P --> S[Shoaling at continental shelf]
+  S --> R[Run-up, inundation, coastal damage]
 ```
 
-### Effects of tsunami
+### The 2004 Indian Ocean Tsunami — generation, timeline, and Indian impacts
 
-**Human and economic**
-- **Mass casualties** — **drowning, trauma** — **fishing communities hardest hit**.
-- **Displacement** — **temporary camps** — **2004 Nagapattinam rehabilitation**.
-- **Infrastructure** — **ports, roads, houses, power** destroyed.
-- **Livelihoods** — **fishing boats, nets, salt pans, tourism**.
+The earthquake nucleated off the west coast of northern Sumatra at the Sunda–Andaman subduction zone, where the India Plate subducts beneath the Burma microplate—the same arc that includes India's Andaman–Nicobar ridge. Rupture began around 07:58 IST and propagated northward along the trench over several minutes, releasing decades of accumulated plate convergence in a single cascade.
 
-**Environmental**
-- **Coastal erosion and geomorphology change**.
-- **Saltwater intrusion** into **farmland, aquifers**.
-- **Mangrove/coral damage** — yet **mangroves reduced wave energy** where intact (**Paradox for conservation**).
-- **Marine ecosystem disruption**.
+Andaman–Nicobar islands lying above the rupture zone were struck within minutes; Car Nicobar, Hut Bay, and other settlements experienced catastrophic run-up. Mainland India's eastern coast, farther from the epicentre, received waves two to three hours later because tsunami speed across deep ocean still requires time to cross basin distances. Nagapattinam and Cuddalore districts in Tamil Nadu recorded among the highest mainland casualties; Chennai's Marina coast was flooded; Andhra Pradesh and Kerala (minor) also reported damage. Fishing communities suffered disproportionately because boats, nets, and coastal homes were destroyed simultaneously—eliminating both shelter and livelihood in one event.
 
-**Secondary**
-- **Disease outbreaks**, **psychological trauma**, **orphan crises**.
+The aftermath permanently altered Indian Ocean governance: the Indian Tsunami Early Warning System became operational through INCOIS (Hyderabad) by 2007, linked to Deep-ocean Assessment and Reporting of Tsunami (DART) buoys, seismic networks, and UNESCO's Intergovernmental Oceanographic Commission (IOC) Indian Ocean Tsunami Warning System. Community evacuation drills, vertical shelters adapted from cyclone-prone Odisha, and Coastal Regulation Zone (CRZ) setback enforcement gained political urgency that scientific advisories alone had never achieved before 2004.
 
-### Volcano, earthquake, tsunami interrelation (2018 PYQ)
+### Effects — human, economic, environmental, and secondary cascades
 
-**Geological linkage**
-- **Plate subduction zones** produce **all three**: **volcanic arc (Andaman)**, **frequent earthquakes**, **tsunamigenic thrusts**.
-- **Earthquake triggers tsunami** when **undersea vertical slip** sufficient.
-- **Volcanic eruption** causes **local earthquakes (tremors)**; **submarine eruptions/collapse** cause **tsunami**.
-- **Not always coupled** — **Himalayan earthquakes** rarely tsunamis (**continental collision, not oceanic subduction**).
+Human losses include drowning, trauma from debris impact, and entrapment in collapsed structures. Displacement into temporary camps—Nagapattinam became emblematic of post-tsunami rehabilitation challenges—creates long-term housing and livelihood crises. Infrastructure damage spans ports, roads, bridges, power lines, and freshwater systems; salt contamination of wells persists for years. Fisheries and tourism economies collapse when boats, processing plants, and beach infrastructure are destroyed simultaneously.
 
-**Possible causes of volcanic eruptions (2018 second part)**
-- **Subduction — plate melting** produces **andesitic magma** (**Pacific Ring, Andaman arc**).
-- **Rifting — divergent boundaries** (**Mid-Ocean Ridge**).
-- **Hotspot mantle plumes** (**Hawaii, Reunion — Deccan Traps prehistoric**).
-- **Gas pressure (CO₂, H₂O)** — **explosive Plinian eruptions**.
-- **Crustal assimilation / magma chamber recharge**.
-- **Isostatic unloading** after **glacial retreat** (minor trigger).
+Environmental effects include permanent coastal erosion, altered nearshore geomorphology, saltwater intrusion into farmland and aquifers, and damage to mangroves and coral reefs. Paradoxically, intact mangrove belts in some Tamil Nadu and Sundarbans stretches absorbed wave energy and reduced inland penetration—providing empirical proof for post-2004 restoration programmes. Marine ecosystems face sediment smothering and salinity shocks. Secondary effects follow the flood: waterborne disease in crowded camps, psychological trauma, orphan crises, and legal disputes over coastal land ownership under CRZ rules.
 
-### Contemporary relevance
+### Volcano, earthquake, and tsunami — geological coupling and eruption causes
 
-- **INCOIS** — **24×7 monitoring**, **DART buoys**, **SMS/email alerts to coastal states**.
-- **UNESCO Intergovernmental Oceanographic Commission (IOC)** — **Indian Ocean Tsunami Warning System** network.
-- **Coastal Regulation Zone (CRZ)** — **setback lines**, **no construction in high-risk zones**.
-- **Mangrove restoration post-2004** — **Tamil Nadu, Sundarbans model**.
-- **Andaman volcanic activity monitoring** — **Barren Island** active volcano — **local hazard awareness**.
+At convergent plate margins all three hazards share a common root: subduction pulls oceanic lithosphere into the mantle, generating earthquakes on the plate interface; hydrous minerals release water that lowers mantle melting temperature and feeds volcanic arcs (Andaman Islands including Barren Island); and large vertical ruptures on the megathrust displace ocean water to produce tsunamis. The Andaman–Nicobar sector therefore presents integrated earthquake–tsunami–volcanic risk on one tectonic template, whereas the Himalayan collision zone produces great earthquakes and landslides but not tsunamigenic ocean displacement because the boundary is continental, not a submerged megathrust above oceanic lithosphere.
 
-### Limits and balanced view
+Earthquakes trigger tsunamis only when undersea vertical slip is sufficient. Volcanoes generate local earthquakes through magma movement (harmonic tremors as eruption precursors); submarine eruptions and caldera collapse can independently displace water. The three hazards are not always coupled: intraplate earthquakes such as Latur 1993 produced no tsunami; most earthquakes worldwide never trigger eruptions; most volcanic eruptions never generate trans-oceanic waves.
 
-- **Early warning saves lives** but **minutes to hours** — **last-mile evacuation** still challenge.
-- **Tsunami ≠ storm surge** — **different preparedness protocols**.
-- **Not every coastal earthquake** needs **panic** — **INCOIS assesses tsunamigenic potential**.
+| Process | Mechanism | Typical setting |
+|---------|-----------|-----------------|
+| **Subduction melting** | Water from slab lowers melting point; andesitic magma rises | Pacific Ring of Fire, Andaman arc |
+| **Rifting / divergence** | Mantle upwelling at mid-ocean ridges | Mid-Indian Ocean Ridge |
+| **Hotspot / mantle plume** | Deep plume punctures moving plate | Hawaii, Reunion (Deccan Traps prehistoric) |
+| **Gas pressure (H₂O, CO₂)** | Volatile expansion drives explosive eruption | Plinian eruptions, stratovolcanoes |
+| **Magma chamber recharge** | New magma influx repressurizes conduit | GPS-measured inflation before eruption |
+| **Crustal assimilation** | Magma melts wall rock; changes viscosity and gas content | Mixed explosive-effusive eruptions |
 
-### Tsunami warning system in India (post-2004)
+### Tsunami warning architecture in India
 
 | Component | Function |
 |-----------|----------|
-| **INCOIS (Hyderabad)** | **Indian Tsunami Early Warning Centre** — **24×7 monitoring** |
-| **DART buoys** | **Deep-ocean pressure sensors** detect **water column change** |
-| **Seismic network** | **Rapid magnitude/location for tsunamigenic assessment** |
-| **State bulletins** | **IMD/INCOIS → District Magistrates → sirens/SMS** |
-| **Community protocol** | **Coastal evacuation maps, vertical shelters (Odisha model adapted)** |
+| **INCOIS (Hyderabad)** | Indian Tsunami Early Warning Centre — 24×7 monitoring and bulletin issuance |
+| **DART buoys** | Deep-ocean pressure sensors detect water-column height changes |
+| **Seismic network** | Rapid magnitude and hypocentre for tsunamigenic potential assessment |
+| **State dissemination** | INCOIS / IMD → District Magistrates → sirens, SMS, radio |
+| **Community protocol** | Mapped evacuation routes, vertical shelters, coastal zone drills |
 
-**Timeline target:** **Warning within 10–20 minutes of earthquake** for **Indian Ocean events** — **evacuation window depends on distance from epicentre**.
+Operational target is to issue a bulletin within ten to twenty minutes of a qualifying earthquake for Indian Ocean events. Evacuation window length depends on distance from epicentre: Andaman has minutes; Tamil Nadu may have two to three hours—but only if last-mile communication and coastal community trust in warnings function under stress.
 
-### Tsunami vs other coastal hazards (comparison table)
+### Tsunami versus other coastal hazards
 
 | Hazard | Driver | Warning lead time | India agency |
 |--------|--------|-------------------|--------------|
-| **Tsunami** | **Seafloor displacement** | **Minutes to hours** | **INCOIS** |
-| **Storm surge** | **Cyclone wind/pressure** | **Days (track forecast)** | **IMD** |
-| **Coastal flood** | **Heavy rain/river** | **Hours** | **IMD/CWC** |
-| **High tide + surge compound** | **Combined** | **Critical during Amphan-type events** | **Joint** |
+| **Tsunami** | Seafloor displacement (seismic, volcanic, slide) | Minutes to hours | INCOIS |
+| **Storm surge** | Cyclone low pressure + wind push | Days (track forecast) | IMD |
+| **River/coastal flood** | Heavy rainfall, river overflow | Hours | IMD / CWC |
+| **Compound surge + high tide** | Cyclone plus astronomical tide | Critical during Amphan-type events | Joint IMD–state response |
 
+Storm surge from Cyclone Fani (2019) and Amphan (2020) flooded coasts through a entirely different mechanism—wind stress and atmospheric pressure over hours—yet visually resembles tsunami inundation. Preparedness protocols differ: cyclone track forecasts allow multi-day evacuation; tsunami warnings demand immediate vertical or inland movement after seismic confirmation.
+
+### Contemporary relevance
+
+INCOIS maintains continuous Indian Ocean monitoring and participates in the UNESCO IOC regional network, replacing the pre-2004 warning void. CRZ rules restrict construction in high-risk intertidal zones; post-2004 mangrove restoration in Tamil Nadu and Sundarbans applies ecological engineering to hazard reduction. Barren Island's ongoing volcanic activity in the Andaman Sea keeps local tsunami and ash-fall awareness alive even when mainland attention fades. Smartphone-based alert dissemination and NDMA coastal community training aim to close the last-mile gap that delayed 2004 evacuations. Climate-driven sea-level rise incrementally raises baseline run-up heights for future tsunamis—a slow amplifier on top of any single event's wave height.
+
+### Limits
+
+Early warning saves lives but cannot prevent coastal exposure where populations live at sea level; minutes to hours of lead time still require functional roads, shelters, and public trust. Tsunami hazard assessment is not binary panic for every coastal earthquake—INCOIS evaluates tsunamigenic potential before issuing alerts, because false alarms erode compliance. Tsunami is not a "tidal wave"; tides are astronomical and predictable; tsunamis are geophysical and episodic. Drawback does not mean the danger is over—it often precedes the largest surge. Not all oceans were equally prepared before 2004, but the Indian Ocean demonstrated that tsunamis are a global basin hazard, not a Pacific-only phenomenon. Finally, mangrove restoration helps but cannot replace setback, building codes, and evacuation planning in densely built coastal corridors.
 ---
 
 ## Answers

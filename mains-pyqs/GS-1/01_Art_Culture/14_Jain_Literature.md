@@ -51,129 +51,107 @@ TRAPS: ≠ Buddhist Tripitaka | Purvas mostly LOST | Digambara ≠ Shvetambara c
 
 ## Content
 
-### What counts as Jain literature
+### What Jain literature is and why it matters
 
-- **Jain literature** = corpus of texts recording **teachings of Tirthankaras** (especially **Mahavira**, 24th), monastic discipline, cosmology, ethics, and sectarian history — composed from **6th century BCE** onward.
-- Primary language: **Ardhamagadhi** and other **Prakrits** — Jain tradition deliberately avoided Sanskrit dominance in early canon (unlike later Brahmanical texts).
-- Two major sects preserve **different canons:**
-  - **Shvetambara** — 45 texts including **11 Angas** (12th lost).
-  - **Digambara** — rejects Shvetambara Angas as fully authentic; preserves **Siddhanta** texts (e.g. **Satkhandagama** — later compilation).
-- Major value for historians: **eastern Gangetic plain**, **Magadha**, urban economy, heterodox age, Jain patronage networks.
+Jain literature is the canonical and supplementary textual tradition of the **shramana** movement founded by **Mahavira** (the 24th **tirthankara**) in the **6th century BCE**. It records the teachings of tirthankaras, monastic discipline, cosmology, ethics, and sectarian history across two millennia. Unlike the Sanskrit-dominated brahmanical corpus, the early Jain canon was composed deliberately in **Ardhamagadhi** and other **Prakrits** — the vernacular languages of eastern Magadha — making religious knowledge accessible outside priestly elites. This linguistic choice parallels Buddhist use of Pali and reflects the shared heterodox challenge to Vedic sacrificial orthodoxy in the Gangetic cities of the second urbanisation.
 
-### Structure of the Jain canon
+For historians, Jain literature documents **Magadha, Vaishali, Kundagrama** (Mahavira's birthplace near Vaishali), urban merchants, guild organisation, and Jain patronage networks from the Mahajanapada age through Mauryan and post-Mauryan centuries. Cross-checked with **Ashokan edicts** (which mention **Nirgranthas**, the Jain ascetics) and inscriptions such as the **Hathigumpha inscription of Kharavela** (1st century BCE, Udayagiri, Odisha), it forms an indispensable heterodox source for ancient eastern India.
 
-```mermaid
-flowchart TB
-  P[14 Purvas<br/>Mahavira's original teachings<br/>mostly LOST]
-  P --> A[11 Angas — Shvetambara<br/>extant canonical texts]
-  A --> K[Kalpasutra · Acaranga · Sutrakritanga<br/>Uttaradhyayana etc.]
-  A --> U[Upangas · Prakirnas · Chedasutras<br/>supplementary texts]
-  D[Digambara Siddhanta<br/>Satkhandagama etc.] 
-```
+### Structure of the Jain canon: Purvas, Angas, and sectarian splits
+
+Jain scripture is organised differently from the Buddhist Tripitaka. Tradition holds that Mahavira's original teachings filled **14 Purvas** — texts now **largely lost** after sectarian schisms and oral transmission gaps. The surviving **Shvetambara** canon derives from these Purvas through **11 extant Angas** (the 12th Anga is lost), supplemented by **Upangas, Prakirnas, and Chedasutras**. The **Digambara** sect rejects the Shvetambara Angas as fully authentic and preserves its own **Siddhanta** literature, notably the **Satkhandagama** (a later compilation).
 
 | Category | Status | Content |
 |----------|--------|---------|
 | **Purvas** | **14 texts — largely lost** | Original doctrinal corpus attributed to Mahavira's disciples; basis from which Angas derived |
-| **Angas** | **11 extant** (12th Anga lost) | Core canonical texts — ethics, cosmology, monastic life, legends |
+| **Angas** | **11 extant** (12th lost) | Core canonical texts — ethics, cosmology, monastic life, legends |
 | **Upangas** | 12 texts | Supplementary — geography, astronomy, narrative |
 | **Prakirnas** | 10 texts | Mixed topics — conduct, stories |
-| **Chedasutras** | 6 texts | Monastic discipline (parallel to Buddhist Vinaya) |
+| **Chedasutras** | 6 texts | Monastic discipline — parallel to Buddhist Vinaya Pitaka |
 
-### Key Jain texts
+```mermaid
+flowchart TB
+  P[14 Purvas — Mahavira's original teachings, mostly lost]
+  P --> A[11 Angas — Shvetambara extant canon]
+  A --> K[Kalpasutra, Acaranga, Sutrakritanga, Uttaradhyayana]
+  A --> U[Upangas, Prakirnas, Chedasutras — supplementary]
+  D[Digambara Siddhanta — Satkhandagama etc.]
+```
 
-| Text | Nature | Historical / exam relevance |
-|------|--------|----------------------------|
-| **Acaranga Sutra** | Oldest Jain text (Anga 1) | **Extreme ahimsa** — careful walking, straining water; ascetic ethics |
+The two sects — **Shvetambara** ("white-clad," 45 texts including 11 Angas) and **Digambara** ("sky-clad," Siddhanta tradition) — preserve **different canons**, so "Jain literature" is not a single uniform corpus but a family of related textual traditions united by tirthankara theology and ahimsa ethics.
+
+### Key texts and what each preserves
+
+| Text | Nature | What it preserves |
+|------|--------|-------------------|
+| **Acaranga Sutra** | Oldest Jain text (Anga 1) | **Extreme ahimsa** — careful walking, straining water to avoid harming organisms; ascetic conduct code |
 | **Kalpasutra** | Attributed to **Bhadrabahu** | **Mahavira's life**, genealogy of tirthankaras, monastic rules; recited at **Paryushana** festival |
 | **Sutrakritanga** | Anga text | Debates with rival teachers; social and religious polemics |
 | **Uttaradhyayana** | Anga text | Ethics, death contemplation, disciple instruction |
-| **Nayadhammakahao** | Prakirna | Stories of merchants, kings — social vignettes |
+| **Nayadhammakahao** | Prakirna | Stories of merchants and kings — social vignettes |
 | **Parisishtaparvana** (Hemachandra) | Later Sanskrit | **Kumarapala** (Gujarat) biography — medieval Jain patronage |
 
-### Salient features of Jain literature
+The **Acaranga Sutra** opens the Anga series and establishes Jainism's most distinctive ethical claim: non-violence toward **all living beings**, including insects and plants (conceptually), enforced through ascetic practices such as straining drinking water and sweeping the path before walking. Its opening books describe the ascetic's obligation to inspect the ground before each step — a literal embodiment of ahimsa that no other ancient Indian tradition codified with comparable rigour. The **Kalpasutra** provides the biographical backbone — Mahavira's birth at **Kundagrama** near **Vaishali**, renunciation at age thirty, twelve years of asceticism, enlightenment, and the lineage of prior tirthankaras — making it the Jain equivalent of Buddhist Jataka and Buddhacharita traditions combined. Recited annually during the **Paryushana** festival, the Kalpasutra binds living Jain communities to their textual past through ritual performance, not merely silent reading. **Sutrakritanga** preserves polemical debates with rival teachers, revealing the competitive religious marketplace of 6th–5th century BCE Magadha where shramana movements contested brahmanical authority on rational and ethical grounds rather than through sacrificial ritual alone.
 
-**1. Prakrit/Ardhamagadhi language**
-- Early canon in **Ardhamagadhi** — language of **common people and eastern Magadha** region.
-- Parallel to Buddhist **Pali** — both heterodox traditions democratised religious text away from Sanskrit brahmanical monopoly.
+### Salient features: language, ahimsa, and philosophical pluralism
 
-**2. Extreme ahimsa (non-violence)**
-- **Acaranga Sutra** codifies non-violence toward **all living beings** — insects, plants, microorganisms (conceptually).
-- Ascetics avoid harming even by breath, footsteps, or occupation — stricter than Buddhist **Middle Path**.
-- Literature promotes **compassion, restraint, vegetarianism** — civilizational peace ethic.
+Jain literature is defined by five interlocking characteristics. **Prakrit language**: early canon in **Ardhamagadhi** democratised religious knowledge against Sanskrit brahminical monopoly, exactly as Pali served Buddhism. Monks and nuns preached in the same vernacular they recorded, ensuring that ethical instruction reached merchant caravans and artisan quarters rather than remaining confined to priestly households. **Extreme ahimsa**: the Acaranga codifies non-violence toward every form of life — stricter than the Buddhist Middle Path, which permitted agriculture and moderate household living. **Anekantavada and Syadvada**: the doctrine of **many-sidedness of truth** and **conditional predication** ("in some respect, it is…") model intellectual tolerance — truth has multiple valid perspectives, and dogmatic absolutism is itself a form of violence. **Cosmological cyclical time**: texts describe **lokakasha** cosmology with **Mount Meru**, **bharata-kshetra**, and alternating **avasarpini/utsarpini** time cycles — rich for intellectual history though less useful for linear political chronology. **Historical embeddedness**: references to **Magadha kings** (Ajatashatru, Shrenika/Bimbisara), merchants, guilds, and urban professions appear throughout the Angas and Prakirnas.
 
-**3. Anekantavada (non-absolutism) and Syadvada**
-- **Many-sidedness of truth** — tolerance of multiple viewpoints; intellectual non-violence.
-- Literature models **debate without dogmatic closure** — contrasts with absolutist religious claims.
+### Peace, ahimsa, and the radical ethics of non-violence
 
-**4. Cosmological and cyclical time**
-- Jain texts describe **lokakasha** cosmology — **Mount Meru**, **bharata-kshetra**, cyclical **avasarpini/utsarpini** time.
-- Less useful for linear political chronology but rich for **intellectual history** and social worldview.
+Jain literature articulates India's most radical ancient peace ethic — ahimsa not as moderation but as **supreme duty** (*ahimsa paramo dharma*).
 
-**5. Historical embeddedness**
-- References to **Magadha kings** (Ajatashatru, Shrenika/Bimbisara), urban life, merchants, guilds.
-- **Kalpasutra** biographies of tirthankaras include **genealogical and geographic** data — use critically.
-
-### Jain vs Buddhist literature (Tripitaka contrast)
-
-| Aspect | **Jain literature** | **Buddhist literature (Tripitaka)** |
-|--------|---------------------|-------------------------------------|
-| **Core structure** | **Angas** (+ lost **Purvas**) | **Vinaya, Sutta, Abhidhamma** + **five Nikayas** |
-| **Language** | **Ardhamagadhi/Prakrit** | **Pali/Prakrit** early; Sanskrit Mahayana later |
-| **Founder focus** | **24 Tirthankaras** — Mahavira central | **Gautama Buddha** — single historical founder emphasis |
-| **Ahimsa** | **Extreme** — all life forms | **Middle Path** — moderate, practical |
-| **Monastic rules** | **Chedasutras**, Kalpasutra | **Vinaya Pitaka** |
-| **Historical utility** | Eastern India, trade, ascetic networks | Jataka urban life, Ashoka, Mauryan Buddhism |
-| **Councils** | Jain **councils** at Pataliputra (3rd–4th c. CE) — canon fixation | Buddhist councils (Rajgriha, Vaishali, Pataliputra) |
-
-- Both are **indispensable heterodox sources** for post-Vedic **Magadha** — complement Brahmanical and archaeological evidence.
-
-### Peace and ahimsa in Jain texts
+| Concept | Text / tradition | Peace message |
+|---------|------------------|---------------|
+| **Ahimsa paramo dharma** | Acaranga, all Angas | Non-violence as supreme duty — physical, verbal, and mental |
+| **Anekantavada** | Philosophical sutras | Tolerance of multiple truths — reduces sectarian conflict |
+| **Ascetic restraint** | Kalpasutra, Chedasutras | Self-discipline as foundation of social harmony |
+| **Lay vows (anuvratas)** | Later texts | Five small vows for householders — scaled-down non-violence |
 
 ```mermaid
 flowchart LR
   J[Jain Literature] --> A[Acaranga — extreme ahimsa]
   J --> K[Kalpasutra — tirthankara ethics]
   J --> AN[Anekantavada — intellectual tolerance]
-  A --> P[Non-violence to all beings]
+  A --> P[Non-violence toward all beings]
   K --> P
   AN --> P
-  P --> S[Social restraint · vegetarianism · ascetic peace]
+  P --> S[Social restraint, vegetarianism, ascetic peace]
 ```
 
-| Concept | Text / tradition | Peace message |
-|---------|------------------|---------------|
-| **Ahimsa paramo dharma** | Acaranga, all Angas | Non-violence as **supreme duty** — physical, verbal, mental |
-| **Anekantavada** | Philosophical sutras | Tolerance of multiple truths — reduces sectarian conflict |
-| **Ascetic restraint** | Kalpasutra, Chedasutras | Self-discipline as foundation of social harmony |
-| **Lay vows (anuvratas)** | Later texts | Five small vows for householders — scaled-down non-violence |
+The peace ethic extends beyond physical non-killing. **Anekantavada** treats intellectual intolerance as violence — a framework for debate without dogmatic closure that contrasts sharply with absolutist religious claims. **Lay anuvratas** (five small vows) extend scaled-down non-violence to **shravaka** (householder) merchants, creating an ethical code for commercial life. Jain literature's peace ethic is **more radical** than Buddhist ahimsa — it influenced Indian **vegetarian food culture**, trading communities, and ideals of ethical commerce through the **shravaka** merchant networks that patronised Jain temples across western and southern India.
 
-- Jain literature's peace ethic is **more radical** than Buddhist — influenced Indian vegetarian culture, trading communities (Jain **shravakas**), and ethical commerce ideals.
+### Jain literature compared with Buddhist Tripitaka
 
-### Historical value
+Both traditions emerged in the same eastern Magadhan milieu as parallel Prakrit-language heterodox corpora:
 
-- **Geography and polity** — eastern India (**Magadha, Vaishali, Kundagrama** — Mahavira's birthplace near **Vaishali**); references to **Nanda-Maurya** era figures including **Chandragupta Maurya's** reputed Jain association in tradition.
-- **Urban and economic life** — merchant ethics, **shrenis** (guilds), banking traditions (later Jain **hundi** culture has ancient roots in **shravaka** values); **Nayadhammakahao** merchant-king stories.
-- **Religious history** — parallel to Buddhism as **shramana** movement; explains spread of heterodox ideas during **second urbanisation**.
-- **Art and architecture link** — Jain patronage of **Mathura, Khajuraho (Parsvanatha), Dilwara (Mount Abu), Ranakpur, Palitana** — literature explains iconography and **24 tirthankara** lineage.
-- **Inscriptional corroboration** — Jain texts + **Mauryan edicts** (mention of **Nirgranthas/Jains**) + **Hathigumpha inscription** (Kharavela, 1st c. BCE — Jain patronage, Kalinga).
+| Aspect | Jain literature | Buddhist literature (Tripitaka) |
+|--------|-----------------|--------------------------------|
+| **Core structure** | **Angas** (+ lost **Purvas**) | **Vinaya, Sutta, Abhidhamma** + five Nikayas |
+| **Language** | **Ardhamagadhi/Prakrit** | **Pali/Prakrit** early; Sanskrit Mahayana later |
+| **Founder focus** | **24 Tirthankaras** — Mahavira central | **Gautama Buddha** — single historical founder |
+| **Ahimsa** | **Extreme** — all life forms | **Middle Path** — moderate, practical |
+| **Monastic rules** | **Chedasutras**, Kalpasutra | **Vinaya Pitaka** |
+| **Historical utility** | Eastern India, trade, ascetic networks | Jataka urban life, Ashoka, Mauryan Buddhism |
+| **Councils** | Jain councils at **Pataliputra** (3rd–4th c. CE) | Buddhist councils (Rajgriha, Vaishali, Pataliputra) |
+
+Neither corpus is a neutral chronicle. Both require cross-verification with **edicts, inscriptions, and archaeology**. Used comparatively, they provide the richest literary window on post-Vedic **Magadha**.
+
+### Historical value: polity, economy, religion, and art
+
+Jain literature preserves geography and polity references to **Magadha, Vaishali, and Kundagrama** (Mahavira's birthplace). It documents **urban and economic life** — merchant ethics, **shreni** guilds, and banking traditions (later Jain **hundi** culture has roots in **shravaka** commercial values). The **Nayadhammakahao** contains merchant-king stories illuminating social hierarchy and trade practices. As religious history, Jainism parallels Buddhism as a **shramana** movement explaining the spread of heterodox ideas during second urbanisation.
+
+The literature also connects to material culture. Jain patronage built temples at **Mathura, Khajuraho (Parsvanatha), Dilwara (Mount Abu), Ranakpur, and Palitana** — the textual **24 tirthankara** lineage explains iconographic programmes across these sites, where each tirthankara is depicted in a fixed posture (standing or seated) with identifying symbols such as the lion of Mahavira or the serpent of Parshvanatha. **Ashokan edicts** mention Nirgranthas; the **Hathigumpha inscription** records **Kharavela's** Jain patronage in Kalinga — inscriptional corroboration for literary claims about royal support of the shramana order.
+
+Tradition associates **Chandragupta Maurya** with Jain affiliation (reputed migration to Shravanabelagola with Bhadrabahu), though this must be treated as tradition rather than confirmed history. **Kumarapala's** 12th-century Gujarat patronage appears in Hemachandra's **Parisishtaparvana**, documenting medieval Jain royal support. The **Chedasutras** — six texts governing monastic conduct — parallel the Buddhist Vinaya Pitaka in function but exceed it in austerity: Jain monks and nuns renounce even ownership of cloth in the Digambara tradition, a prescription recorded in textual form that shaped the visual identity of sky-clad ascetics across centuries. For the historian reconstructing ancient **Magadha society**, Jain Angas name kings (**Ajatashatru**, **Shrenika/Bimbisara**), describe urban professions, and reference the same guild (*shreni*) organisation that Buddhist Jataka tales document — providing independent corroboration for economic structures of the second urbanisation. The **Upangas** add geographic and astronomical knowledge, while **Prakirnas** preserve narrative vignettes of merchants navigating moral dilemmas — literary evidence that Jain ethics were designed for commercial communities, not only forest ascetics. When read alongside **Ashokan edicts** mentioning Nirgranthas and the **Hathigumpha inscription** of Kharavela (who restored Jain temples and patronised monks in 1st century BCE Kalinga), Jain literature forms part of a triangulated evidentiary base — text, inscription, and archaeology — for reconstructing heterodox religion in ancient India.
 
 ### Contemporary relevance
 
-- **Pilgrimage and living heritage:** **Palitana (Gujarat)** — sacred Shatrunjaya hill with hundreds of temples; **Ranakpur** and **Dilwara (Mount Abu)** marble temples — active worship sites rooted in literature's tirthankara cosmology and ahimsa ethic.
-- **ASI-protected Jain monuments:** **Khajuraho Parsvanatha temple**, **Kankali Tila (Mathura)** Jain remains, **Hathigumpha (Udayagiri, Odisha)** — material evidence complementing literary sources; protected under **Article 49** and **Article 51A(f)** heritage duties.
-- **NEP 2020 — Indian Knowledge Systems (IKS):** Jain **anekantavada** (many-sided truth) and **syadvada** (conditional predication) taught as India's early **pluralism and logic** tradition — directly derived from Jain sutra literature.
-- **Manuscript conservation:** Institutions like **Jain Manuscript Preservation Project**, **Bhandarkar Oriental Research Institute (Pune)**, and **National Mission for Manuscripts** preserve Prakrit/Ardhamagadhi texts — modern continuation of oral-written transmission chain.
-- **Ahimsa and vegetarianism:** Jain literature's **extreme non-violence** shaped Indian **vegetarian food culture**, ethical commerce, and modern **animal welfare** discourse — living practice, not only ancient text.
-- **GI tags and craft economy:** Jain **shravaka** merchant communities historically patronised **handloom, jewellery, and manuscript illumination** — connects to contemporary **GI-tagged crafts** and ethical trade ideals.
-- **Tourism circuits:** **Rajasthan Jain temple circuit** (Ranakpur-Dilwara), **Gujarat Palitana-Shatrunjaya**, and **Karnataka Shravanabelagola** (Gommateshwara) — pilgrimage economy sustained by literature-linked sacred geography.
-- **Interfaith dialogue:** **Anekantavada** cited in modern **secular and constitutional tolerance** debates — literature offers indigenous intellectual framework for pluralism.
+**Palitana (Gujarat)** — the sacred Shatrunjaya hill with hundreds of temples — **Ranakpur** and **Dilwara (Mount Abu)** marble temples, and **Shravanabelagola (Karnataka)** with the Gommateshwara monolith remain active pilgrimage sites rooted in tirthankara cosmology and ahimsa ethics. **ASI-protected monuments** — **Khajuraho Parsvanatha temple**, **Kankali Tila (Mathura)** Jain remains, **Hathigumpha (Udayagiri, Odisha)** — provide material evidence complementing literary sources under **Article 49** and **Article 51A(f)** heritage duties. **NEP 2020's IKS** teaches Jain **anekantavada** and **syadvada** as India's early pluralism and logic tradition. **Jain Manuscript Preservation Project**, **Bhandarkar Oriental Research Institute (Pune)**, and the **National Mission for Manuscripts** preserve Prakrit/Ardhamagadhi texts. Jain literature's **extreme non-violence** shaped Indian **vegetarian culture**, **animal welfare** discourse, and **ethical commerce** ideals. **GI-tagged crafts** in regions of historical Jain **shravaka** patronage connect medieval manuscript illumination and handloom traditions to contemporary craft economy. **Rajasthan Jain temple circuits** (Ranakpur-Dilwara), **Gujarat Palitana-Shatrunjaya**, and **Karnataka Shravanabelagola** sustain pilgrimage economies. **Anekantavada** is cited in modern **interfaith dialogue** and constitutional tolerance debates as an indigenous framework for pluralism.
 
-### Limitations
+### Limits
 
-- **Cosmological framing** — tirthankara cycles mix history with mythology.
-- **Purvas lost** — earliest layer inaccessible; Angas are derivative/redacted compilations (c. **4th–5th c. CE** written fixation after oral phase).
-- **Sectarian split** — Shvetambara vs Digambara **different canons**; not one uniform corpus.
-- **Ascetic bias** — lay life and non-Jain groups under-represented compared to monastic ideals.
+Jain literature's **cosmological framing** — tirthankara cycles spanning aeons — mixes history with mythology; genealogies cannot be read as precise chronology. The **14 Purvas are lost**; the 11 extant Angas are derivative compilations fixed in writing after centuries of oral transmission (chiefly **3rd–4th c. CE** Jain councils at Pataliputra). **Shvetambara and Digambara canons differ** — there is no single "Jain Bible." The corpus carries an **ascetic bias**: lay life and non-Jain communities appear less fully than monastic ideals. **Kalpasutra is Jain**, not Buddhist. **Acaranga** is the oldest Anga, not a medieval text. Jain **ahimsa** is **extreme**, not identical to the Buddhist **Middle Path**. All 14 Purvas are **not extant** — only the Anga derivatives survive.
 
 ---
 

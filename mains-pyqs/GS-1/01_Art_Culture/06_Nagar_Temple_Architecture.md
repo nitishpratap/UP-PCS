@@ -65,22 +65,26 @@ TRAPS: Nagar ≠ Nagara spelling both OK | Odisha rekha deul = Nagara sub-school
 
 ### Context — what is Nagara (Nagar) style
 
-- **Nagara** (also written **Nagar**) = principal **north Indian** style of **Hindu temple architecture** from the early historic period through the medieval era — the dominant sacred building idiom of the Gangetic plains, central India, Odisha, Gujarat, Rajasthan, Bengal, and the Himalayan foothills.
-- Named for **Nagara desha** (north country) in traditional **Shilpashastra** texts — **Mayamata**, **Vishnudharmottara Purana**, **Manasara**, and **Varahamihira's Brihat Samhita** prescribe temple proportions, orientation, and iconographic programmes for north Indian builders.
-- Mature form: **square sanctum (garbhagriha)** crowned by a **curvilinear shikhara** (tower), preceded by **mandapa** (pillared hall), often on a raised **jagati** (platform), with **pradakshina patha** (circumambulatory passage).
-- Associated with **Brahmanical temple worship** expansion from the **Gupta period** (5th–6th c. CE) onward; reached artistic peak under **Chandelas** (Khajuraho), **Ganga dynasty** (Odisha), **Solankis** (Gujarat), and **Pala-Sena** patrons (Bengal).
-- **Exam frame:** UPPCS asks **salient features**, **regional sub-schools**, **Nagara vs Dravida comparison**, and **evolution from Gupta to medieval** — all covered below.
+**Nagara** (also written **Nagar**) is the principal **north Indian** idiom of **Hindu temple architecture** that developed from the early historic period through the medieval era and dominated sacred building across the Gangetic plains, central India, Odisha, Gujarat, Rajasthan, Bengal, and the Himalayan foothills. The name derives from **Nagara desha** — the "north country" — as distinguished in classical **Shilpashastra** treatises such as **Mayamata**, **Vishnudharmottara Purana**, **Manasara**, and **Varahamihira's Brihat Samhita**, which codified temple proportions, cardinal orientation, and iconographic programmes for builders working north of the Vindhyas.
+
+A Nagara temple is fundamentally a **vertical sacred machine** designed to house the deity's image and channel the worshipper's movement and gaze upward along a cosmic axis. Its mature form combines a **square sanctum (garbhagriha)** crowned by a **curvilinear shikhara** (tower), a preceding **mandapa** (pillared hall), often a raised **jagati** (platform), and a **pradakshina patha** (circumambulatory passage). The shikhara's inward-curving silhouette — the **Latina** or **rekha** type — is the style's defining visual signature; it symbolises **Mount Meru**, the axis mundi connecting earth and heaven in Hindu cosmology. Why does the tower curve rather than rise in flat tiers? Because Shilpashastra logic treats the sanctum as the deity's cosmic body and the shikhara as its crown — a single soaring curve concentrates spiritual energy at the summit where **amalaka** (ribbed disc) and **kalasha** (finial pot) complete the vertical ascent.
+
+The Nagara tradition is inseparable from the expansion of **Brahmanical image-worship** from the **Gupta period** (5th–6th century CE) onward, when freestanding stone and brick temples replaced earlier rock-cut shrines and flat-roofed cells. Gupta builders at **Deogarh** and **Bhitargaon** established the foundational vocabulary — garbhagriha plus rekha shikhara plus mandapa — that later dynasties refined to monumental scale. Under **Chandela** patronage at **Khajuraho** (c. 950–1050 CE), **Ganga dynasty** builders in Odisha, **Solanki** rulers in Gujarat, and **Pala-Sena** patrons in Bengal, Nagara architecture reached regional peaks without abandoning its core rekha-shikhara identity. Proof of continuity lies in the persistence of the same component names, the same Mount Meru symbolism, and the same Shilpashastra texts across fifteen centuries of building from Jhansi to Kashmir.
 
 ### Core architectural components
 
-| Part | Function | Exam note |
-|------|----------|-----------|
+Every Nagara temple is assembled from a fixed vocabulary of parts, each with a ritual function tied to how worship unfolds in space. The **garbhagriha** (literally "womb-house") is the sanctum sanctorum — a small, dark, usually square cella where the main deity image (murti) resides; its darkness emphasises the mystery of divine presence and its square plan reflects vastu prescriptions for cosmic order. Above the garbhagriha rises the **shikhara**, the curvilinear tower that is Nagara's hallmark — not to be confused with the pyramidal roof that often covers the mandapa. The **amalaka**, a large ribbed stone disc, sits at the shikhara summit and supports the **kalasha**, a finial pot symbolising abundance and cosmic completion.
+
+Between sanctum and hall stands the **antarala** (vestibule), a transitional space where priest and worshipper move from public assembly to intimate darshan. The **mandapa** is the pillared prayer hall — subdivided into **ardha-mandapa** (porch) and **mahamandapa** (large hall) in mature temples — where devotees gather before approaching the deity. The entire complex often rests on a raised **jagati** (platform) that doubles as a circumambulation base and social gathering space. The **pradakshina patha** encircles the sanctum clockwise, allowing ritual circumambulation without entering the garbhagriha itself. Optional elements include **torana** (decorative gateways in early temples), **nandi-mandapa** (pillared pavilion for Nandi bull before Shaiva shrines, as at Khajuraho), and subsidiary shrines in **panchayatana** plans.
+
+| Part | Function | Architectural role |
+|------|----------|-------------------|
 | **Garbhagriha** | Sanctum sanctorum — main deity image (murti); small, dark, square cella | Heart of worship; orientation fixed by vastu |
-| **Shikhara** | Tower above garbhagriha — **curvilinear outline** (Nagara hallmark) | Not to be confused with mandapa roof |
-| **Amalaka** | Large ribbed stone disk at shikhara summit | Supports kalasha finial |
-| **Kalasha** | Finial pot on top of amalaka — cosmic/ auspicious symbol | Completes vertical sacred axis |
-| **Antarala** | Vestibule between garbhagriha and mandapa | Transition space for ritual |
-| **Mandapa** | Pillared assembly/prayer hall — **ardha-mandapa** (porch), **mahamandapa** (large hall) | Often has **Phamsana** pyramidal roof |
+| **Shikhara** | Tower above garbhagriha — **curvilinear outline** (Nagara hallmark) | Vertical Mount Meru axis; not the mandapa roof |
+| **Amalaka** | Large ribbed stone disk at shikhara summit | Supports kalasha finial; crowns the sacred axis |
+| **Kalasha** | Finial pot on top of amalaka | Completes vertical sacred axis; auspicious symbol |
+| **Antarala** | Vestibule between garbhagriha and mandapa | Ritual transition from public hall to private sanctum |
+| **Mandapa** | Pillared assembly/prayer hall — ardha-mandapa, mahamandapa | Horizontal counterbalance to vertical shikhara |
 | **Jagati** | Raised platform — circumambulation base | Social and ritual gathering space |
 | **Pradakshina patha** | Circumambulatory passage around sanctum | Clockwise worship circuit |
 | **Torana / Dwar** | Decorative gateway (early temples) | Later replaced by high enclosure walls |
@@ -98,16 +102,21 @@ flowchart BT
 
 ### Shikhara sub-types (Nagara vocabulary)
 
+Nagara architecture distinguishes three roof-and-tower forms, and confusing them obscures how a temple actually works. The **Latina** or **rekha** shikhara is a **curvilinear** tower with a single convex curve rising to the amalaka — it belongs exclusively over the **garbhagriha** and defines Nagara identity. **Deogarh**, **Kandariya Mahadeva** at Khajuraho, and the **Lingaraja rekha deul** in Odisha all demonstrate this form. **Phamsana** is a **pyramidal** roof with horizontal tiers or steps; it typically covers **mandapas** and subsidiary shrines rather than the sanctum — Khajuraho mandapa roofs and Odisha **pidha deul** halls use this profile. **Valabhi** (also called **khakhara** in Odisha) is a **rectangular barrel vault** resembling a wagon roof; it appears rarely for special shrines, most famously at **Vaital Deul** in Bhubaneswar.
+
+Why does this vocabulary matter? Because the sanctum tower and the hall roof serve different ritual functions: the rekha shikhara concentrates divine presence vertically, while Phamsana spreads the assembly space horizontally beneath stepped tiers. Shilpashastra treats the vertical shikhara as Mount Meru — the cosmic axis — and draws the worshipper's gaze upward from mandapa to sanctum to finial, completing a journey from human congregation to divine intimacy.
+
 | Sub-type | Form | Typical use | Key example |
 |----------|------|-------------|-------------|
 | **Latina / Rekha** | **Curvilinear** tower — single convex curve rising to amalaka | **Sanctum shikhara** — classic Nagara hallmark | Deogarh, Kandariya Mahadeva, Lingaraja rekha deul |
 | **Phamsana** | **Pyramidal** roof with horizontal tiers/steps | **Mandapa roofs**, subsidiary shrines | Khajuraho mandapa roofs, Odisha pidha deul |
 | **Valabhi** | **Rectangular barrel vault** (wagon-roof shape) | Rare — special shrines | Vaital Deul (khakhara type), some mandapas |
 
-- **Exam precision:** Main Nagara identity = **Latina/rekha shikhara over garbhagriha**; Phamsana and Valabhi are **roof forms** for halls or special structures, not substitutes for the sanctum tower.
-- **Shilpashastra logic:** Vertical shikhara symbolises **Mount Meru** — cosmic axis connecting earth and heaven; worshipper's gaze is drawn upward from mandapa to sanctum to finial.
-
 ### Odisha deul types (regional Nagara)
+
+Odisha developed one of the most distinctive regional expressions of Nagara architecture, naming its tower forms **deul** rather than shikhara but preserving the same sanctum-centred logic. The **rekha deul** carries a **curvilinear rekha/latina** shikhara over the sanctum — **Lingaraja** (11th century, Bhubaneswar) and **Jagannath Puri** are canonical examples sharing the curvilinear sanctum tower logic of Khajuraho and Deogarh. The **pidha deul** uses a **pyramidal pidha** profile with stepped tiers and typically roofs assembly halls (**jagamohana**) rather than the sanctum — it parallels Phamsana in function. The **khakhara deul** adopts a **barrel-vault / wagon-roof** form similar to Valabhi; **Vaital Deul** (8th century, Bhubaneswar) is the best-known example, often associated with **Shakta** worship.
+
+The **Konark Sun Temple** (13th century, patron **Narasimhadeva I** of the Ganga dynasty) represents Odisha Nagara at its most ambitious: a massive **rekha deul** conceived as **Surya's chariot** with twenty-four carved wheels and seven stone horses, among India's most celebrated sacred monuments and a **UNESCO World Heritage Site (1984)**. Odisha's school is a **regional Nagara sub-tradition**, not a separate pan-Indian style — its rekha deul shares curvilinear sanctum logic with north Indian prototypes while adapting pidha and khakhara forms to local ritual and climatic needs.
 
 | Deul type | Shikhara form | Example / note |
 |-----------|---------------|----------------|
@@ -115,26 +124,13 @@ flowchart BT
 | **Pidha deul** | **Pyramidal pidha** (stepped tiers) | **Jagamohana** (assembly hall) roofs in Odisha complexes — parallels Phamsana |
 | **Khakhara deul** | **Barrel-vault / wagon-roof** (valabhi-like) | **Vaital Deul** (Bhubaneswar, 8th c.) — rarer, often **Shakta** shrines |
 
-- **Konark Sun Temple** (13th c., **Narasimhadeva I**, Ganga dynasty) — massive **rekha deul** designed as **Surya's chariot** with 24 wheels and seven horses; among India's most celebrated Nagara monuments.
-- Odisha school = **regional Nagara**, not a separate pan-Indian style — rekha deul shares the curvilinear sanctum logic with Khajuraho and Deogarh.
-
 ### Bengal regional variants (Nagara family)
 
-- **Char-chala** — roof formed by **four sloping planes** meeting at apex (four-roofed); common in **medieval Bengal** brick temples (e.g. **Vishnupur/Mallabhum** region, 17th–18th c. but rooted in Pala-Sena idiom).
-- **At-chala** — **eight-roofed** variant (char-chala base + four smaller roofs above) — taller, tiered silhouette; **Rasmancha** (Vishnupur) is a famous multi-arched pavilion.
-- Built mainly in **brick and terracotta** — same Nagara logic (sanctum + tower-roof + mandapa) adapted to **Gangetic delta** climate, alluvial soil (stone scarce), and **local patronage** (Pala-Sena period onward).
-- **Terracotta panels** narrate **Ramayana, Mahabharata, Krishna lila** — sculptural substitute when stone carving unavailable.
+When stone became scarce in the Gangetic delta, Bengal builders adapted Nagara logic to **brick and terracotta**, producing roof forms unknown elsewhere in the tradition. **Char-chala** temples use **four sloping planes** meeting at an apex, creating a four-roofed silhouette common in medieval Bengal from the **Pala-Sena** period onward and flourishing at **Vishnupur/Mallabhum** (17th–18th century). **At-chala** adds four smaller roofs above a char-chala base, producing an eight-roofed (**at-chala**) tiered profile; **Rasmancha** at Vishnupur is a famous multi-arched pavilion in this idiom. The underlying plan — sanctum plus tower-roof plus mandapa — remains Nagara; only the material and roof geometry respond to alluvial soil, monsoon climate, and local patronage. **Terracotta panels** narrating **Ramayana, Mahabharata, and Krishna lila** substitute for stone carving, proving that Nagara is a spatial-ritual system adaptable across materials rather than a fixed stone template.
 
-### Salient features of Nagara style (exam core)
+### Salient features of Nagara style
 
-1. **Curvilinear shikhara (Latina/rekha)** — tall tower with convex-to-inward curve over garbhagriha; defining visual mark of north Indian temples.
-2. **Square garbhagriha** — sanctum plan usually square; deity image oriented for worship from mandapa; darkness of cella emphasises mystery of divine presence.
-3. **Vertical emphasis** — temple rises dramatically upward — symbol of **Mount Meru** / axis between earth and heaven; contrasts with horizontal spread of mandapa.
-4. **Mandapa integration** — horizontal pillared halls balance vertical shikhara; **Phamsana** roofs often cover mandapas while sanctum retains rekha tower.
-5. **Rich sculptural decoration** — walls, doorframes (**dvara-shakhas** with river-goddess figures Ganga-Yamuna), ceilings carved with deities, **mithunas** (celestial couples), narrative panels from epics and Puranas.
-6. **Panchayatana plan** (many medieval examples) — **one central shrine + four subsidiary shrines** at corners (e.g. **Lakshmana temple, Khajuraho**; some Odisha complexes).
-7. **Material evolution** — early **brick** (Gupta **Bhitargaon**, c. 5th c. CE — among oldest surviving brick temples); mature phase **sandstone/stone** (Chandelas, Odisha, Rajasthan).
-8. **Regional sub-schools** — same Nagara idiom adapts to local stone, climate, patron dynasties without losing rekha-shikhara identity.
+Eight interlocking features define Nagara architecture and distinguish it from every other Indian temple idiom. First, the **curvilinear shikhara (Latina/rekha)** — a tall tower with convex-to-inward curve over the garbhagriha — is the style's defining visual mark. Second, the **square garbhagriha** orients the deity for worship from the mandapa; its darkness and small scale emphasise divine mystery. Third, **vertical emphasis** makes the temple rise dramatically upward as a symbol of **Mount Meru**, contrasting with the horizontal spread of pillared halls. Fourth, **mandapa integration** balances the vertical shikhara — mandapas often carry **Phamsana** pyramidal roofs while the sanctum retains its rekha tower. Fifth, **rich sculptural decoration** covers walls, doorframes (**dvara-shakhas** with river-goddess figures Ganga and Yamuna), ceilings, **mithunas** (celestial couples), and narrative panels from epics and Puranas — Khajuraho represents the sculptural peak. Sixth, the **panchayatana plan** places one central shrine with four subsidiary shrines at the corners, as at the **Lakshmana temple, Khajuraho**. Seventh, **material evolution** runs from early **brick** (Gupta **Bhitargaon**, c. 5th century CE — among the oldest surviving brick temples) to mature **sandstone** at Chandelas, Odisha, and Rajasthan sites. Eighth, **regional sub-schools** adapt the same idiom to local stone, climate, and patron dynasties without losing rekha-shikhara identity over the sanctum.
 
 ### Regional schools and named examples
 
@@ -151,18 +147,15 @@ flowchart BT
 
 ### Aihole and Pattadakal — transitional architecture
 
-- **Chalukyas** (6th–8th c. CE) built at **Aihole** ("cradle of Indian temple architecture") and **Pattadakal** when **Nagara and Dravida** vocabularies were actively combined.
-- **Aihole:** **Lad Khan temple** (pillared hall type), **Durga temple** (apsidal/experimental plan), **Huchimalligudi** — early Nagara shikhara experiments on Deccan soil.
-- **Pattadakal:** **Virupaksha** (Dravida-influenced vimana, built by queen **Lokamahadevi**), **Papanatha** (Nagara shikhara) — **same site, both idioms** side by side; **UNESCO 1987** (Pattadakal group).
-- **Exam angle:** Not pure Nagara — marks **transition** toward **Vesara** (Deccan hybrid); shows pan-Indian temple vocabulary exchange before Hoysala maturity at Belur and Halebidu.
+The **Chalukyas** (6th–8th century CE) built at **Aihole** — often called the "cradle of Indian temple architecture" — and **Pattadakal** when **Nagara and Dravida** vocabularies were actively combined on Deccan soil. At Aihole, the **Lad Khan temple** (pillared hall type), **Durga temple** (apsidal experimental plan), and **Huchimalligudi** represent early Nagara shikhara experiments outside the Gangetic heartland. At Pattadakal, **Virupaksha** (Dravida-influenced vimana, built by queen **Lokamahadevi**) and **Papanatha** (Nagara shikhara) stand **side by side on the same site** — physical proof that both idioms coexisted before regional specialisation hardened. The Pattadakal group is a **UNESCO World Heritage Site (1987)**. These sites are not pure Nagara; they mark the **transition toward Vesara**, the Deccan hybrid idiom that would mature under the Hoysalas at Belur and Halebidu, demonstrating pan-Indian exchange of temple vocabulary across the Vindhyas.
 
 ### Himalayan Nagara — Martand (Kashmir)
 
-- **Martand Sun Temple** (8th c., patron **Lalitaditya Muktapida** of Karkota dynasty) — finest **Kashmir Nagara** example; now in ruins but plan recoverable.
-- Features: **peristyle courtyard**, central **garbhagriha** with **rekha-type shikhara**, heavy limestone construction adapted to **Himalayan** setting and snow-load.
-- Demonstrates Nagara idiom **beyond Gangetic north** — regional variant influenced by Gandharan and Gupta traditions, not Dravida.
+**Martand Sun Temple** (8th century, patron **Lalitaditya Muktapida** of the Karkota dynasty) is the finest surviving example of **Kashmir Nagara**, now in ruins but recoverable in plan. It features a **peristyle courtyard**, central **garbhagriha** with **rekha-type shikhara**, and heavy limestone construction adapted to Himalayan snow-load and altitude. Martand proves that Nagara idiom travelled **beyond the Gangetic north** into Kashmir as a regional variant influenced by Gandharan and Gupta traditions rather than by Dravida forms from the peninsula. The temple's peristyle colonnade — unusual in plains Nagara — reflects local climatic and aesthetic adaptation while preserving the rekha sanctum tower as cosmic axis.
 
 ### Evolution and period chronology
+
+Nagara architecture evolved through four identifiable phases, each building on the previous without breaking ritual continuity. Gupta builders (c. 5th–6th century CE) established simple **rekha shikhara** forms in brick and stone with single-cell garbhagriha plus mandapa at **Deogarh** and **Bhitargaon**. The transitional phase (c. 6th–8th century CE) saw **Aihole and Pattadakal** synthesise Nagara shikhara and Dravida vimana as stone replaced brick. Maturity (c. 8th–12th century CE) brought complex plans, towering shikharas, and elaborate sculpture at **Khajuraho, Lingaraja, and Modhera**. The medieval peak (c. 10th–13th century CE) fully developed regional sub-schools — **Konark**, Bengal char-chala, and the Martand legacy — before political fragmentation slowed new construction. Gupta architecture overall is less spectacular than Gupta sculpture and literature, but **Deogarh marks the crucial transition** from rock-cut and flat-roofed shrines to the classic Nagara vocabulary that dominated north India for a millennium.
 
 | Phase | Period | Character | Landmark sites |
 |-------|--------|-----------|----------------|
@@ -171,9 +164,9 @@ flowchart BT
 | **Maturity** | c. 8th–12th c. CE | Stone, complex plans, towering shikharas, elaborate sculpture | **Khajuraho, Lingaraja, Modhera** |
 | **Medieval peak** | c. 10th–13th c. CE | Regional sub-schools fully developed; large temple complexes | **Konark**, Bengal char-chala, Martand legacy |
 
-- Gupta architecture overall less spectacular than Gupta sculpture/literature — but **Deogarh marks crucial transition** from rock-cut and flat-roofed shrines to classic Nagara vocabulary that dominated north India for a millennium.
-
 ### Nagara vs Dravida vs Vesara (comparison)
+
+Hindu temple architecture crystallised into three classical idioms that answer the same ritual question — how to house the deity and guide worship — through different spatial emphases. **Nagara** (north) crowns the sanctum with a **curvilinear Latina/rekha shikhara** and uses **torana** gateways or later enclosure walls; mandapas often carry **Phamsana** pyramidal roofs. **Dravida** (south) stacks a **pyramidal tiered vimana** over the sanctum and foregrounds the monumental **gopuram** gateway tower — which in later temples at Srirangam often exceeds the vimana in height. **Vesara** (Deccan) hybridises both, producing star-shaped Hoysala plans at Belur and Halebidu from the Chalukya legacy visible at Pattadakal.
 
 | Feature | **Nagara** (North) | **Dravida** (South) | **Vesara** (Deccan) |
 |---------|-------------------|---------------------|---------------------|
@@ -204,35 +197,19 @@ flowchart LR
   end
 ```
 
-*Exam memory:* Nagara = **curving rekha shikhara** (north) · Dravida = **pyramidal vimana + gopuram** (south) · Aihole/Pattadakal = **transitional blend** toward Vesara
-
 ### Significance and civilizational legacy
 
-- Represents **distinctive north Indian sacred architecture** — visual identity of medieval Hindu polities (**Chandelas, Ganga dynasty Odisha, Solankis, Palas**).
-- Temples functioned as **cultural, economic, social centres** — **devadana** land grants, festival economies, craft patronage (stone-carvers, sculptors, musicians); Khajuraho and Puri Jagannath remain pilgrimage hubs.
-- **Sculptural galleries** preserve iconography of **Vishnu, Shiva, Devi, Surya**, and Jain **tirthankaras** — indispensable for art history, religious studies, and iconography papers.
-- **Influence on later Rajput, Mughal-influenced, Bengal, and Himalayan** temple building — Nagara rekha logic persists in **Bishnupur, Rajasthan maru-gurjara**, and **Kashmir** stone temples.
-- **Soft power today:** Khajuraho dance festival, Konark festival, Puri Rath Yatra — living heritage economies rooted in Nagara-built sacred landscapes.
+Nagara architecture represents the **distinctive north Indian sacred skyline** — the visual identity of medieval Hindu polities from the **Chandelas** and **Ganga dynasty of Odisha** to the **Solankis** and **Palas**. Temples functioned as **cultural, economic, and social centres**: **devadana** land grants sustained priestly communities, festival economies circulated wealth, and craft patronage employed stone-carvers, sculptors, and musicians for generations. Khajuraho and Puri Jagannath remain active pilgrimage hubs proving continuity between medieval construction and living devotion. **Sculptural galleries** preserve iconography of **Vishnu, Shiva, Devi, Surya**, and Jain **tirthankaras** — indispensable evidence for art history and religious studies. Nagara rekha logic persisted in later **Rajput, Bengal, and Himalayan** building traditions at Bishnupur, Maru-Gurjara Rajasthan, and Kashmir stone temples. Today, the Khajuraho dance festival, Konark festival, and Puri Rath Yatra anchor **living heritage economies** rooted in Nagara-built sacred landscapes.
 
 ### Contemporary relevance
 
-- **UNESCO World Heritage:** **Khajuraho Group of Monuments (1986)**, **Konark Sun Temple (1984)**, **Pattadakal (1987)** — global obligations under World Heritage Convention; international tourism and conservation funding follow listing.
-- **ASI (Archaeological Survey of India):** Central protection of notified monuments — structural monitoring at **Konark** (sandstone weathering), **Khajuraho** (water seepage on sculpture), **Deogarh** and **Bhitargaon** (early Nagara conservation challenges).
-- **Constitutional framework:** **Article 49** — state shall protect monuments of national importance; **Article 51A(f)** — fundamental duty of citizens to value and preserve composite culture.
-- **NEP 2020 — Indian Knowledge Systems (IKS):** **Shilpashastra**, temple proportion geometry, and Nagara-Dravida comparison integrated into **art history, architecture, and heritage management** curriculum at school and university levels.
-- **Government tourism schemes:** **PRASAD** (Pilgrimage Rejuvenation and Spiritual Augmentation Drive) and **Swadesh Darshan** develop connectivity and amenities at **Puri, Khajuraho, Varanasi-region** circuits; **Incredible India** campaigns feature Konark and Khajuraho globally.
-- **Craft revival and GI tags:** Stone-carving clusters in **Khajuraho, Puri, Rajasthan** linked to temple restoration workshops — heritage skills as livelihood; **terracotta craft** revival in Bengal tied to Vishnupur temple panels.
-- **Digital heritage:** ASI **National Mission on Monuments and Antiquities (NMMA)** and 3D documentation of endangered Nagara temples — creates preservation record for **Martand, Bhitargaon**, and Odisha deul complexes.
-- **Living pilgrimage economy:** **Puri Jagannath Rath Yatra**, **Konark Dance Festival**, **Khajuraho Dance Festival** — Nagara monuments anchor **annual cultural tourism** worth crores to state economies (Odisha, MP, UP border regions).
+Nagara monuments anchor India's heritage conservation, education, and tourism frameworks today. **UNESCO World Heritage** listing of **Khajuraho Group of Monuments (1986)**, **Konark Sun Temple (1984)**, and **Pattadakal (1987)** creates international obligations under the World Heritage Convention and channels conservation funding and tourism revenue to Madhya Pradesh, Odisha, and Karnataka. The **Archaeological Survey of India (ASI)** monitors structural integrity at **Konark** (sandstone weathering), **Khajuraho** (water seepage on sculpture), **Deogarh**, and **Bhitargaon** — early Nagara sites face distinct conservation challenges from brick decay and root damage. **Article 49** of the Constitution directs the state to protect monuments of national importance; **Article 51A(f)** makes it a fundamental duty of citizens to value and preserve composite culture including temple heritage.
 
-### Limits / balanced view (exam nuance)
+**NEP 2020's Indian Knowledge Systems (IKS)** integrates **Shilpashastra**, temple proportion geometry, and Nagara-Dravida comparison into art history, architecture, and heritage management curricula. Government schemes **PRASAD** (Pilgrimage Rejuvenation and Spiritual Augmentation Drive) and **Swadesh Darshan** develop connectivity and amenities at **Puri, Khajuraho, and Varanasi-region** circuits; **Incredible India** campaigns feature Konark and Khajuraho globally. **Craft revival and GI tags** link stone-carving clusters in **Khajuraho, Puri, and Rajasthan** to temple restoration workshops, sustaining heritage skills as livelihood; **terracotta craft** revival in Bengal ties to Vishnupur temple panels. ASI's **National Mission on Monuments and Antiquities (NMMA)** and 3D documentation create preservation records for endangered Nagara temples including **Martand** and **Bhitargaon**. **Puri Jagannath Rath Yatra**, **Konark Dance Festival**, and **Khajuraho Dance Festival** anchor annual cultural tourism worth crores to Odisha, Madhya Pradesh, and UP border region economies.
 
-- **Not monolithic** — Odisha rekha/pidha/khakhara, Bengal **char-chala/at-chala**, Kashmir Martand, and Maru-Gurjara Rajasthan are **regional variants** under broader Nagara family — avoid calling every north Indian temple "identical Khajuraho."
-- Early temples **small and experimental** — do not attribute full medieval features (panchayatana, 30 m shikhara, mithuna galleries) to Gupta **Deogarh**.
-- **Phamsana** covers mandapas — do not call it the main sanctum shikhara in exam answers.
-- **Aihole/Pattadakal** = transitional — not textbook pure Nagara or pure Dravida; cite when question asks "evolution" or "Deccan."
-- **Distinct from Buddhist stupa, chaitya, vihara** and from **Mauryan pillars/stupas** — Nagara is post-Gupta Brahmanical structural temple tradition.
-- **Destruction and rebuilding:** Many Nagara sites (Somnath, Kashmiri temples) suffered **medieval invasions and earthquakes** — present structures may be **rebuilt/restored** layers, not always original medieval fabric.
+### Limits / balanced view
+
+Nagara architecture is **not monolithic**. Odisha rekha/pidha/khakhara, Bengal **char-chala/at-chala**, Kashmir Martand, and Maru-Gurjara Rajasthan are **regional variants** under the broader Nagara family — not identical copies of Khajuraho. Early Gupta temples at **Deogarh** were **small and experimental**; attributing full medieval features such as panchayatana, thirty-metre shikharas, and mithuna galleries to them is historically inaccurate. **Phamsana** covers mandapas, not the main sanctum tower. **Aihole and Pattadakal** are transitional Chalukya sites blending Nagara and Dravida — neither pure Nagara nor pure Dravida. Nagara is **distinct from Buddhist stupa, chaitya, and vihara** traditions and from **Mauryan pillars and stupas** — it belongs to the post-Gupta Brahmanical structural temple tradition. Many Nagara sites including **Somnath** and Kashmiri temples suffered **medieval invasions and earthquakes**; present structures may represent **rebuilt or restored layers** rather than original medieval fabric. Understanding these limits prevents oversimplified comparisons and honours the diversity within the Nagara family.
 
 ---
 

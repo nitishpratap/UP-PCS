@@ -66,29 +66,23 @@ TRAPS: Germany unified 1871 not 1848 | Bismarck excluded Austria (Kleindeutsch n
 
 ### Context — nationalism in 19th-century Europe
 
-- After **1815 Congress of Vienna**, **Metternich's conservative order** tried to **suppress liberal-national revolutions** — yet **industrial capitalism, print culture, railways, and wars** fuelled **"nation-state" ideal**: **one people, one language, one government**.
-- **Syllabus link:** **National boundaries redrawn** through **Italian (1861/1871)** and **German (1871)** unification — **paradigm shift from multi-ethnic empires to national states**.
-- **Exam tension:** **Romantic nationalism (Mazzini, 1848 liberals)** vs **Realpolitik (Bismarck, Cavour)** — **unification achieved more by ** **statecraft and war** than by ** Frankfurt Parliament ideals**.
+After the Congress of Vienna (1815), Prince Metternich's conservative order tried to suppress liberal-national revolutions across Europe. Yet industrial capitalism, print culture, railways, and wars gradually fuelled the nation-state ideal: one people, one language, one government. Italy before unification was, in Metternich's phrase, "a mere geographical expression"—a patchwork of kingdoms, duchies, and Austrian-controlled Lombardy-Venetia. Germany comprised over 300 states reduced to 39 in the German Confederation (Deutscher Bund), presided over by Austria but rivalled by Prussia.
+
+National unification in Italy (1861, completed 1871) and Germany (1871) redrew Europe's map and shifted the balance of power. The central intellectual tension is between romantic nationalism—the belief that shared culture demands self-rule—and Realpolitik, where dynastic war, alliance manipulation, and economic integration decide borders. Unification was achieved more by statecraft and blood than by the failed liberal parliaments of 1848.
 
 ### Germany before unification
 
-- **Holy Roman Empire legacy** — **300+ states** reduced to **39** in **German Confederation (Deutscher Bund, 1815)** — **Austrian presidency**, **Prussian rivalry**.
-- **Economic nationalism first:** **Zollverein (1834)** — **Prussia-led customs union** — **free trade among member states**, **common external tariff** — **created economic "Germany" before political Germany** — **excluded Austria** (key later).
-- **1848 Revolutions:** **Frankfurt Parliament** in **St Paul's Church** — **liberal dream of unified constitutional Germany** — **failed** over **Schleswig-Holstein, monarchy refusal, bourgeois fear of mob** — **lesson: nationalism needs strong state arm**.
+The Holy Roman Empire's legacy fragmented sovereignty. The Zollverein (1834)—a Prussia-led customs union with free trade among members and common external tariff—created economic Germany before political Germany and deliberately excluded Austria, foreshadowing the Kleindeutsch (small Germany) solution. The Frankfurt Parliament of 1848 in St Paul's Church dreamed of a unified constitutional Germany but collapsed over Schleswig-Holstein, royal refusal, and bourgeois fear of popular unrest. The lesson nationalists drew: unity required army and chancellor, not speeches alone.
 
 ### Bismarck and German unification — path and methods
 
-**Otto von Bismarck (1815–1898)**
-- **Junker (landed noble)**, **conservative**, appointed **Prime Minister of Prussia by William I (1862)** — famous **"blood and iron"** speech — **not speeches but military strength** will unify Germany.
-- **Philosophy: Realpolitik** — **practical power over ideology**; **alliance manipulation**; **limited war objectives**.
-
-**Three wars of unification**
+Otto von Bismarck (1815–1898), a conservative Junker, became Prime Minister of Prussia in 1862 during a constitutional crisis over army reforms. His "blood and iron" speech declared that great questions would be settled by military strength, not parliamentary debate. His Realpolitik meant practical power over ideology—limited wars, shifting alliances, and exploitation of nationalist sentiment without submitting to democratic nationalism.
 
 | War | Year | Opponent | Outcome |
 |-----|------|----------|---------|
-| **Schleswig-Holstein** | **1864** | **Denmark** | **Prussia + Austria** take duchies — **later dispute between them** |
-| **Austro-Prussian (Seven Weeks' War)** | **1866** | **Austria** | **Prussia crushes Austria at Königgrätz (Sadowa)** — **Dissolves German Confederation** — **North German Confederation (1867)** — **Austria excluded (Kleindeutsch solution)** |
-| **Franco-Prussian War** | **1870–71** | **France (Napoleon III)** | **Ems Telegram provocation** — **French defeat at Sedan** — **German Empire proclaimed at Versailles 18 January 1871** — **Alsace-Lorraine annexed** |
+| **Schleswig-Holstein** | **1864** | **Denmark** | Prussia + Austria take duchies—later dispute between them |
+| **Austro-Prussian (Seven Weeks' War)** | **1866** | **Austria** | Prussia wins at Königgrätz (Sadowa)—dissolves German Confederation—North German Confederation (1867)—Austria excluded |
+| **Franco-Prussian War** | **1870–71** | **France (Napoleon III)** | Ems Telegram provocation—French defeat at Sedan—German Empire proclaimed at Versailles 18 January 1871—Alsace-Lorraine annexed |
 
 ```mermaid
 flowchart LR
@@ -100,93 +94,83 @@ flowchart LR
   W3 --> GE[German Empire 1871]
 ```
 
-**Internal policy after 1871**
-- **Kulturkampf** vs Catholic Church — **state supremacy**.
-- **Socialist laws** — **repress SPD** while introducing **early social insurance (1880s)** — **"carrot and stick"**.
-- **Foreign alliance web:** **Dreikaiserbund**, **Dual Alliance with Austria-Hungary (1879)**, **Reinsurance Treaty with Russia** — **isolate France** — **peace as tactical choice** (" **satiated power**").
+After 1871 Bismarck pursued Kulturkampf against the Catholic Church, anti-socialist laws against the SPD while introducing early social insurance (1880s), and a alliance web—Dreikaiserbund, Dual Alliance with Austria-Hungary (1879), Reinsurance Treaty with Russia—to isolate France. He presented himself as a "satiated power" seeking peace tactically, but Alsace-Lorraine poisoned Franco-German relations and seeded revanchism leading to World War I.
 
-**Evaluate Bismarck (exam core)**
-- **Architect of unity** through ** calibrated warfare**, **constitutional federation of north**, **annexation of south German states after 1870 patriotic surge**.
-- **Not democrat:** **Unified Germany under ** **Prussian Hohenzollern monarchy + junker-officer elite**, **not 1848 liberals' republic**.
-- **International stabilizer then destabilizer seed:** **Alsace-Lorraine** **poisoned Franco-German relations** → **WWI**.
+Bismarck was architect of unity through calibrated warfare and federation under Prussian Hohenzollern monarchy—not the republic 1848 liberals wanted. Prussian army under Moltke, Zollverein economics, and south German patriotic surge after 1870 all mattered; he was indispensable but not alone.
 
 ### Italian unification (Il Risorgimento)
 
-**Leaders — three types of nationalism**
+Three figures embody different nationalist paths:
 
 | Leader | Approach | Role |
 |--------|----------|------|
-| **Giuseppe Mazzini** | **Republican, romantic nationalism** — **Young Italy (1831)** | **Moral inspiration**, **failed revolutions 1848** — **idealist pole** |
-| **Count Camillo di Cavour** | **Liberal monarchist Realpolitik** — **PM Piedmont-Sardinia (1852–61)** | **Modernized Piedmont**, **alliance with ** **Napoleon III (Plombières 1858)**, **1859 war vs Austria** — **got Lombardy** |
-| **Giuseppe Garibaldi** | **Popular military hero** — **Red Shirts** | **Expedition of the Thousand (1860)** — **Sicily & Naples** — **handed conquests to ** **Victor Emmanuel II** (not Mazzini's republic) |
+| **Giuseppe Mazzini** | Republican romantic nationalism—Young Italy (1831) | Moral inspiration; failed 1848 revolutions—idealist pole |
+| **Count Camillo di Cavour** | Liberal monarchist Realpolitik—PM Piedmont-Sardinia (1852–61) | Modernised Piedmont; Plombières pact with Napoleon III (1858); 1859 war vs Austria—Lombardy |
+| **Giuseppe Garibaldi** | Popular military hero—Red Shirts | Expedition of the Thousand (1860)—Sicily & Naples—handed conquests to Victor Emmanuel II |
 
-**Chronology**
-- **1859:** **France-Piedmont vs Austria** — **Lombardy to Piedmont** — **central Italy states vote to join Piedmont**.
-- **1860:** **Garibaldi's landing at Marsala, Sicily** — **defeats Bourbon forces** — **March on Naples**.
-- **17 March 1861:** **Kingdom of Italy proclaimed** — **capital Turin then Florence** — **Rome still papal + French garrison**.
-- **1866:** **Italy allies with Prussia** — gains **Venetia** after **Austro-Prussian War**.
-- **1870:** **Franco-Prussian War** — **French troops leave Rome** — **Italian capture of Rome (20 Sept 1870)** — **capital Rome 1871** — **unification "complete"** except **Italia irredenta** debates.
+Chronology: 1859 France–Piedmont war against Austria gained Lombardy; central Italian duchies voted to join Piedmont. Garibaldi landed at Marsala in 1860, took Sicily and Naples, but yielded to monarchy—not Mazzini's republic. Kingdom of Italy proclaimed 17 March 1861 with capital Turin then Florence; Rome remained papal with French garrison until Franco-Prussian War (1870) pulled French troops away—Italy captured Rome 20 September 1870, making it capital 1871. Venetia came in 1866 when Italy allied with Prussia against Austria.
 
-**Contradictions in Italian case**
-- **Northern elite ** ** Piedmontization** of south — ** brigandage repression** — **north-south economic divide** persists.
-- **Papal ** ** temporal power** ended — **Catholic Church hostile** until **Lateran Pacts (1929)**.
-- **Nationalism** ** rhetoric of unity** masked **elite bargains and plebiscites under occupation**.
+Contradictions: northern Piedmontisation of the south met brigandage and repression; north–south divide persists. Papal temporal power ended, leaving Church hostility until Lateran Pacts (1929). Plebiscites under occupation masked elite bargains.
 
 ### Nationalism vs power politics — critical synthesis
 
 | **Nationalist ideal** | **Power-political reality** |
 |----------------------|----------------------------|
-| **Self-determination of "German/Italian people"** | **Prussian army + Piedmont diplomacy** decided borders |
-| **1848 popular parliaments** | **Failed** — **1860s-70s conservative states won** |
-| **Cultural unity (language, history)** | **Excluded minorities** — **Poles in German east**, **German speakers in Sudetenland**, **southern Italian marginalization** |
-| **Peaceful union** | **Three wars (Germany)**, **multiple wars (Italy)** |
-| **Republican brotherhood (Mazzini)** | **Monarchical kingdoms (Victor Emmanuel, Kaiser William I)** |
+| Self-determination of "German/Italian people" | Prussian army and Piedmont diplomacy decided borders |
+| 1848 popular parliaments | Failed—1860s–70s conservative states won |
+| Cultural unity (language, history) | Excluded minorities—Poles in German east, Sudeten Germans, marginalised southerners |
+| Peaceful union | Three wars (Germany); multiple wars (Italy) |
+| Republican brotherhood (Mazzini) | Monarchical kingdoms—Kaiser William I, Victor Emmanuel II |
 
-- **2025 PYQ framing:** Germany especially **symbolizes contradiction** — **national unification celebrated** but accomplished via **Realpolitik, dynastic war, annexation** — **liberal nationalists subordinated to junker-military state**.
+Germany especially symbolises the contradiction: national unification is celebrated, but Kleindeutsch unity subordinated liberal nationalists to Junker-military statecraft; annexation of Alsace-Lorraine traded short-term triumph for long-term European instability.
 
 ### International implications
 
-**Balance of power shift**
-- **New German Empire** — **largest economy/military on continent** by **1900** — ** shattered French supremacy** — **Dual Monarchy Austria weakened** — **Italy unified but militarily weaker rival**.
+The German Empire became continental Europe's largest economy and army by 1900, shattering French supremacy and weakening Austria—forcing the 1867 Dual Monarchy. Alsace-Lorraine fuelled French revanchism—a central chain to WWI; Versailles (1919) returned provinces to France. Bismarck's alliance system (1879 Austro-German alliance, 1882 Triple Alliance with Italy) modelled pre-1914 bloc politics.
 
-**Franco-German antagonism**
-- **Alsace-Lorraine (Elsaß-Lothringen)** — **French revanchism** — **central cause chain to ** **World War I** — **1919 Versailles returned provinces to France**.
+Italy traded Nice and Savoy to France at Plombières for military help—nationalism bargaining away territory. Post-unification colonial grabs—Eritrea, Libya (1911)—offered imperial compensation for perceived weak great-power status.
 
-**Alliance system**
-- **Bismarck's hub-and-spoke diplomacy** — **1879 Austro-German alliance** — **1882 Triple Alliance (Italy)** — **model for pre-1914 bloc politics**.
-
-**Italian great-power politics**
-- **Plombières bargain** — **Nice and Savoy to France** for help — **nationalism traded territory**.
-- **Scramble for Africa** — **Italy takes Eritrea, Libya (1911)** — ** imperial compensation for weak unification gains**.
-
-**Inspiration and fear elsewhere**
-- **Inspired:** **Slavic nationalisms**, **Young Turks**, **anti-colonial nationalists** saw **model of unity**.
-- **Feared:** **Metternich-style conservatives**, **multi-ethnic empires (Ottoman, Habsburg, Romanov)** — **nationalism as disintegration force** — **Balkan crises**.
-
-### Comparison — Germany vs Italy unification
+Unified nation-states inspired Slavic nationalisms, Young Turks, and anti-colonial movements—but terrified conservative empires (Ottoman, Habsburg, Romanov) where nationalism meant disintegration. Balkan crises partly stem from the same nationality principle applied unevenly after 1878.
 
 | Feature | **Germany** | **Italy** |
 |---------|-------------|-----------|
-| **Lead state** | **Prussia** | **Piedmont-Sardinia** |
-| **Master strategist** | **Bismarck** | **Cavour** |
-| **Popular hero** | **Less central (army institution)** | **Garibaldi** |
-| **Wars** | **1864, 1866, 1870–71** | **1859, 1860, 1866, 1870** |
-| **Excluded power** | **Austria (Kleindeutsch)** | **Austria from north initially** |
-| **Capital issue** | **Berlin clear** | **Rome delayed till ** **1870** |
-| **Completed** | **1871 Versailles proclamation** | **1871 Rome as capital** |
+| **Lead state** | Prussia | Piedmont-Sardinia |
+| **Master strategist** | Bismarck | Cavour |
+| **Popular hero** | Army institution | Garibaldi |
+| **Wars** | 1864, 1866, 1870–71 | 1859, 1860, 1866, 1870 |
+| **Excluded power** | Austria (Kleindeutsch) | Austria from north initially |
+| **Capital** | Berlin clear | Rome delayed to 1870 |
+| **Completed** | 1871 Versailles | 1871 Rome |
+
+Garibaldi's popularity proved that nationalist emotion could mobilise volunteers across Sicily, yet Cavour's decision to restrain him from marching on Rome in 1860 showed Realpolitik trumping romantic revolution—the hero was useful only so long as he served Piedmont's monarchy. Bismarck similarly manipulated nationalist fervour after Sedan to bring south German states into empire while excluding Austria permanently—a strategic choice about which "nation" would exist.
+
+Italy traded Nice and Savoy to France for military aid—nationalism literally bargaining away co-nationals for state advantage. Post-unification, Italy pursued colonies in Eritrea and Libya (1911) as imperial compensation for late entry into great-power club—Risorgimento's domestic unity did not satisfy great-power ambition.
+
+Germany embodies the contradiction between nationalist ideal and Realpolitik: Goethe's cultural Germany unified by Prussian wars; Frankfurt liberals sidelined; Kleindeutsch chosen over Grossdeutsch; Alsace-Lorraine annexed against inhabitants' will. National rhetoric legitimised power politics; power politics defined which nation would exist and who would suffer for it.
+
+### Cavour, Garibaldi, and Mazzini — roles revisited
+
+Mazzini's Young Italy (1831) kept republican idealism alive when Metternich suppressed revolt, but his insurrections failed because they lacked state apparatus. Cavour modernised Piedmont's economy and army, signed the secret Plombières agreement with Napoleon III (1858) trading Nice and Savoy for French troops against Austria, and annexed central duchies through plebiscites managed by diplomacy. Garibaldi's Expedition of the Thousand (1860) conquered Sicily and Naples with Red Shirt volunteers, yet he handed territory to Victor Emmanuel II rather than proclaim Mazzini's republic—proving that military charisma served monarchical Realpolitik. Rome remained papal until French garrison withdrawal in 1870; only then did unification acquire its symbolic capital.
+
+### Evaluate Bismarck — synthesis
+
+Bismarck resolved Prussia's constitutional crisis by securing army reform funding, then used that army instrumentally in three wars whose objectives were limited each time—never simultaneous enemies on all fronts. Excluding Austria (1866) defined Kleindeutschland; provoking France (1870) brought south German states into empire through shared victory rather than coercion alone. Domestically he balanced repression (anti-socialist laws, Kulturkampf) with concession (social insurance) to stabilise the new Reich. His dismissal by Kaiser Wilhelm II (1890) ended careful alliance management; historians debate how far Bismarck's system—not his personality alone—contributed to 1914. Indispensable architect yes; democrat no; peacemaker after 1871 tactically, but Alsace-Lorraine annexation planted long war.
+
+Wilhelm I was proclaimed German Emperor in the Hall of Mirrors at Versailles—a deliberate humiliation of France that fused national unification with dynastic triumph. The 1871 constitution created a federal Reich where Prussia dominated military and foreign policy while south German states retained some autonomy—a compromise between Kleindeutsch nationalism and princely particularism.
 
 ### Contemporary relevance
 
-- **European Union:** **Irony** — **19th c. nation-states at war** → **21st c. supranational integration** — **Brexit** shows **nationalism vs pragmatic interdependence** tension repeats.
-- **German reunification (1990):** **Post-Cold War** — **national aspiration (Wiedervereinigung)** achieved via **diplomacy + NATO/EU frameworks** — **modern Realpolitik**.
-- **Self-determination norms:** **UN Charter**, **Kosovo, Ukraine** debates echo **1871 plebiscite logic** — **when is secession legitimate?**
-- **India parallel (cross-topic):** **Patel's integration** vs **European unification** — **both combine ideal of nation with coercion/diplomacy** — useful **comparative sentence in Mains**.
+European Union ironically reverses the logic of 1871—nation-states that warred now share supranational institutions; Brexit revives nationalism-vs-interdependence tension. German reunification (1990) achieved Wiedervereinigung through diplomacy within NATO/EU frameworks—modern Realpolitik. UN Charter self-determination debates (Kosovo, Ukraine) echo plebiscite logic of the 1860s—when is secession legitimate? India's Patel-era integration combined national ideal with coercion and diplomacy—a useful comparative frame for how unity and power politics intertwine across continents.
 
-### Limits and balanced view
+### Limits
 
-- **Bismarck indispensable but not alone** — **Prussian army (Moltke)**, **economic Zollverein**, **south German cultural nationalism post-1870** all mattered.
-- **Italian unification ** ** incomplete socially** — **mass emigration**, **regional inequality** — **political unity ≠ national homogenization**.
-- **Nationalism** ** liberating and destructive** — **unified states** later ** pursued imperialism and WWI**.
+Bismarck did not create Prussian military or Zollverein alone; personal diplomacy ended when Kaiser Wilhelm II dismissed him (1890), contributing to 1914 but not solely causing it. Italian political unity did not homogenise society—mass emigration, regional inequality, and north-south divide persisted. Nationalism was liberating and destructive—unified states later pursued imperialism and WWI. Unification was not bottom-up revolution: plebiscites under occupation were managed democracy. Grossdeutsch including Austria failed; Italy "completed" in 1861 without Rome until 1871. Franco-German Alsace-Lorraine grievance shows political unification did not equal justice—the contradiction between nationalist ideal and Realpolitik endures in European politics today.
+
+Compare Germany and Italy in one frame: both achieved unity between 1861 and 1871 through war and diplomacy; both excluded Austria from leadership; both produced monarchical not republican outcomes despite Mazzini and Frankfurt liberals; both shifted European balance and fed imperial competition. Germany's three wars under Bismarck were sequential and limited; Italy's Risorgimento combined Cavour's cabinets with Garibaldi's volunteers and French bayonets—different methods, same Realpolitik logic. International implications—revanchism, alliance blocs, colonial scramble—outlasted unification ceremonies by decades.
+
+The Zollverein teaches that economic integration can precede and prepare political unity—customs union without single government lowered trade barriers, aligned commercial law, and habituated German states to cooperation under Prussian leadership before Bismarck's wars. Italian unification lacked equivalent economic depth initially; Piedmont's reforms were regional, and southern integration brought fiscal burden and brigandage rather than shared prosperity. Nationalism's ideal promised one people; Realpolitik's reality left uneven citizenship inside new borders—a contradiction neither Germany nor Italy resolved in the nineteenth century.
+
+Garibaldi remains the human face of Risorgimento—volunteer enthusiasm that Cavour channelled and restrained. Bismarck has no Garibaldi equivalent because Prussian unity rested on army and bureaucracy rather than popular crusade; south German attachment after 1870 was patriotic but managed from above. The contrast illustrates how "nationalism" could mean street heroism in one peninsula and staff-officer calculation in another—same era, different social energy, equally Realpolitik in outcome for the European balance of power.
 
 ---
 
