@@ -96,16 +96,16 @@ KEY TRAPS:
 
 ### BSI — How It Works
 
-- **BSI established 1890** during British India — mandate: **explore and document every plant species** in Indian subcontinent — continues post-Independence under MoEFCC.
-- **Headquarters: Kolkata** (Central National Herbarium, **Shibpur, Howrah**) — **NOT Delhi, NOT Dehradun** — paired with ZSI in same city but different kingdom (plants vs animals).
-- ***Flora of India* project**: BSI's flagship publication series — comprehensive taxonomic account of Indian plants — state/regional floras (Flora of Maharashtra, Flora of Tamil Nadu) published progressively.
-- **Herbarium network**: Preserved **dried plant specimens** for taxonomic reference — Central National Herbarium + regional circles at **Pune, Dehradun, Shillong, Coimbatore, Jodhpur, Hyderabad, Itanagar, Andaman, Port Blair**.
-- **Red Data Book of Indian Plants**: BSI publishes national list of **endangered/threatened/rare plant species** — distinct from ZSI's animal Red Data Book and IUCN global Red List.
-- **New species discovery**: BSI scientists annually describe **new plant species** — especially Western Ghats, Northeast, Andaman — research output drives conservation prioritisation.
-- **Ethnobotany research**: Documents **traditional medicinal plant use** by tribal communities — feeds into People's Biodiversity Registers (BMC level) and bioprospecting regulation (NBA).
-- **What BSI does NOT do**: **Does NOT** survey animals (ZSI); **Does NOT** map forest cover % (FSI/ISFR); **Does NOT** store crop seed collections (NBPGR); **Does NOT** conduct wildlife population ecology (WII).
-- **BSI vs NBPGR**: BSI = **taxonomy and survey** ("what species exist?"); NBPGR = **genetic resource banking** ("store seeds/DNA for breeding") — different cities (Kolkata vs Delhi).
-- **Research publications**: *Indian Journal of Forestry* crossover; BSI journals on taxonomy; annual reports to MoEFCC.
+- **BSI established 1890** during British India. Mandate: **explore and document every plant species** in Indian subcontinent. Continues post-Independence under MoEFCC.
+- **Headquarters: Kolkata** (Central National Herbarium, **Shibpur, Howrah**). **NOT Delhi, NOT Dehradun**. Paired with ZSI in same city but different kingdom (plants vs animals).
+- ***Flora of India* project**: BSI's flagship publication series. Comprehensive taxonomic account of Indian plants. State/regional floras (Flora of Maharashtra, Flora of Tamil Nadu) published progressively.
+- **Herbarium network**: Preserved **dried plant specimens** for taxonomic reference. Central National Herbarium + regional circles at **Pune, Dehradun, Shillong, Coimbatore, Jodhpur, Hyderabad, Itanagar, Andaman, Port Blair**.
+- **Red Data Book of Indian Plants**: BSI publishes national list of **endangered/threatened/rare plant species**. Distinct from ZSI's animal Red Data Book and IUCN global Red List.
+- **New species discovery**: BSI scientists annually describe **new plant species**. Especially Western Ghats, Northeast, Andaman. Research output drives conservation prioritisation.
+- **Ethnobotany research**: Documents **traditional medicinal plant use** by tribal communities. Feeds into People's Biodiversity Registers (BMC level) and bioprospecting regulation (NBA).
+- **What BSI does NOT do**: BSI does not survey animals (ZSI), map forest cover percentages (FSI/ISFR), store crop seed collections (NBPGR), or conduct wildlife population ecology (WII).
+- **BSI vs NBPGR**: BSI = **taxonomy and survey** ("what species exist?"). NBPGR = **genetic resource banking** ("store seeds/DNA for breeding"). Different cities (Kolkata vs Delhi).
+- **Research publications**: *Indian Journal of Forestry* crossover. BSI journals on taxonomy. Annual reports to MoEFCC.
 
 > **Exam note:** "BSI is responsible for Indian animal diversity" = **FALSE**. BSI = **Botanical** = **Plants only**. Swap with ZSI = classic trap.
 
@@ -122,12 +122,12 @@ KEY TRAPS:
 ### Exam Facts (raata)
 
 - BSI = **1890**, HQ **Kolkata**
-- **Plants only** — flora, herbarium, taxonomy
+- **Plants only**. Flora, herbarium, taxonomy.
 - *Flora of India* = BSI flagship
 - Red Data Book (**plants**) = BSI
 - **NOT** animals (ZSI), **NOT** ISFR (FSI)
 - Regional herbarium circles across India
-- New plant species discovery — research role
+- New plant species discovery. Research role.
 
 ### PYQs — BSI
 
@@ -169,16 +169,16 @@ KEY TRAPS:
 
 ### ZSI — How It Works
 
-- **ZSI established 1916** — mandate to document **all animal species** in India — from mammals to insects to marine fauna — under MoEFCC.
-- **Headquarters: Kolkata** — same city as BSI — exams test **function matching**, not just HQ: ZSI = **animals**, BSI = **plants**.
-- ***Fauna of India* series**: ZSI's equivalent of BSI's *Flora of India* — systematic accounts of animal groups — *Fauna of British India* historical foundation.
-- **Red Data Book of Indian Animals**: ZSI compiles **endangered/threatened animal species** nationally — paired with BSI plant volume — both distinct from **IUCN Red List** (global, Gland).
-- **Regional stations**: ZSI circles/ stations including **Dehradun, Chennai, Hyderabad, Kolkata, Shillong** — conduct regional faunal surveys.
-- **Type specimen repository**: ZSI maintains **reference animal specimens** for taxonomy — critical when describing new species or resolving identifications.
-- **WPA Schedule support**: ZSI scientific data informs **Wildlife (Protection) Act Schedule** amendments — which species need highest legal protection.
-- **What ZSI does NOT do**: **Does NOT** survey plants (BSI); **Does NOT** train forest officers in wildlife management (WII); **Does NOT** publish ISFR (FSI); **Does NOT** regulate biodiversity access (NBA).
-- **ZSI vs WII**: ZSI = **taxonomy** ("inventory of species"); WII = **applied ecology** ("how populations behave, how to manage") — complementary research institutes.
-- **Marine faunal surveys**: ZSI documents **coastal and deep-sea biodiversity** — corals, molluscs, fish — supports marine protected area planning.
+- **ZSI established 1916**. Mandate to document **all animal species** in India. From mammals to insects to marine fauna. Under MoEFCC.
+- **Headquarters: Kolkata**. Same city as BSI. Exams test **function matching**, not just HQ: ZSI = **animals**, BSI = **plants**.
+- ***Fauna of India* series**: ZSI's equivalent of BSI's *Flora of India*. Systematic accounts of animal groups. *Fauna of British India* historical foundation.
+- **Red Data Book of Indian Animals**: ZSI compiles **endangered/threatened animal species** nationally. Paired with BSI plant volume. Both distinct from **IUCN Red List** (global, Gland).
+- **Regional stations**: ZSI circles/ stations including **Dehradun, Chennai, Hyderabad, Kolkata, Shillong**. Conduct regional faunal surveys.
+- **Type specimen repository**: ZSI maintains **reference animal specimens** for taxonomy. Critical when describing new species or resolving identifications.
+- **WPA Schedule support**: ZSI scientific data informs **Wildlife (Protection) Act Schedule)** amendments. Which species need highest legal protection.
+- **What ZSI does NOT do**: ZSI does not survey plants (BSI), train forest officers in wildlife management (WII), publish ISFR (FSI), or regulate biodiversity access (NBA).
+- **ZSI vs WII**: ZSI = **taxonomy** ("inventory of species"). WII = **applied ecology** ("how populations behave, how to manage"). Complementary research institutes.
+- **Marine faunal surveys**: ZSI documents **coastal and deep-sea biodiversity**. Corals, molluscs, fish. Supports marine protected area planning.
 
 > **Exam note:** "Zoological Survey of India — plant taxonomy" = **FALSE**. ZSI = **Zoological** = **Animals**.
 
@@ -195,7 +195,7 @@ KEY TRAPS:
 ### Exam Facts (raata)
 
 - ZSI = **1916**, HQ **Kolkata**
-- **Animals only** — fauna, taxonomy
+- **Animals only**. Fauna, taxonomy.
 - Red Data Book (**animals**) = ZSI
 - *Fauna of India* = ZSI series
 - Younger than BSI (1890)
@@ -240,16 +240,16 @@ KEY TRAPS:
 
 ### FSI — How It Works
 
-- **FSI established 1981** — national authority for **forest cover assessment** — uses **satellite imagery (LISS-III, Resourcesat)** + ground truthing — NOT species taxonomy (BSI/ZSI role).
-- **ISFR (India State of Forest Report)**: FSI's biennial report — **18th edition ISFR 2023** — India's official forest statistics — **NOT published by CPCB or MoEFCC directly**.
-- **Forest cover definition**: All land **≥1 hectare** with **tree canopy density ≥10%** — includes forests outside legally notified areas — explains gap between **Recorded Forest Area** and mapped forest cover.
-- **Canopy density classes**: **Very Dense Forest (VDF)** ≥70%; **Moderately Dense Forest (MDF)** 40–70%; **Open Forest (OF)** 10–40% — ISFR reports area in each class.
-- **Tree cover**: Patches **<1 hectare** outside recorded forests — farm bunds, urban trees — reported separately; added to forest cover gives **total green cover**.
-- **ISFR 2023 headline data**: India forest cover **21.76%** (7,15,343 sq km); total forest + tree cover **25.17%**; UP forest cover **6.24%** (15,045 sq km).
-- **UPPCS 2025 Q8 — ISFR 2023 UP districts >20% forest**: Only **Chandauli (21.63%)** and **Shravasti (20.95%)** — **Bahraich ~10%** despite Terai location — answer **C (2 and 3)**.
-- **Forest fire monitoring**: FSI uses **SNPP-VIIRS, MODIS** satellite data for **real-time fire alerts** to state forest departments — research/service crossover with disaster management.
-- **What FSI does NOT do**: **Does NOT** set pollution standards (CPCB); **Does NOT** survey species (BSI/ZSI); **Does NOT** conduct forestry silviculture research (FRI); **Does NOT** grant forest clearance (MoEFCC/FAC).
-- **Mangrove + bamboo mapping**: ISFR includes **separate chapters** on mangrove cover and bamboo resources — coastal and economic forestry data.
+- **FSI established 1981**. National authority for **forest cover assessment**. Uses **satellite imagery (LISS-III, Resourcesat)** + ground truthing. NOT species taxonomy (BSI/ZSI role).
+- **ISFR (India State of Forest Report)**: FSI's biennial report. **18th edition ISFR 2023**. India's official forest statistics. **NOT published by CPCB or MoEFCC directly**.
+- **Forest cover definition**: All land **≥1 hectare** with **tree canopy density ≥10%**. Includes forests outside legally notified areas. Explains gap between **Recorded Forest Area** and mapped forest cover.
+- **Canopy density classes**: **Very Dense Forest (VDF)** ≥70%. **Moderately Dense Forest (MDF)** 40–70%. **Open Forest (OF)** 10–40%. ISFR reports area in each class.
+- **Tree cover**: Patches **<1 hectare** outside recorded forests. Farm bunds, urban trees. Reported separately. Added to forest cover gives **total green cover**.
+- **ISFR 2023 headline data**: India forest cover **21.76%** (7,15,343 sq km). Total forest + tree cover **25.17%**. UP forest cover **6.24%** (15,045 sq km).
+- **UPPCS 2025 Q8 (ISFR 2023 UP districts >20% forest)**: Only **Chandauli (21.63%)** and **Shravasti (20.95%)**. **Bahraich ~10%** despite Terai location. Answer **C (2 and 3)**.
+- **Forest fire monitoring**: FSI uses **SNPP-VIIRS, MODIS** satellite data for **real-time fire alerts** to state forest departments. Research/service crossover with disaster management.
+- **What FSI does NOT do**: FSI does not set pollution standards (CPCB), survey species (BSI/ZSI), conduct forestry silviculture research (FRI), or grant forest clearance (MoEFCC/FAC).
+- **Mangrove + bamboo mapping**: ISFR includes **separate chapters** on mangrove cover and bamboo resources. Coastal and economic forestry data.
 
 > **Exam note:** UPPCS 2025 Q8 — **Bahraich is Terai forest TYPE but <20% forest COVER** — name sounds forest-rich; data says otherwise. ISFR = **FSI only**.
 
@@ -267,8 +267,8 @@ KEY TRAPS:
 
 - FSI = **1981**, HQ **Dehradun**
 - **ISFR** every **2 years** (biennial)
-- ISFR 2023: India **21.76%** forest; UP **6.24%**
-- Q8: **Chandauli + Shravasti >20%**; Bahraich **NOT**
+- ISFR 2023: India **21.76%** forest. UP **6.24%**.
+- Q8: **Chandauli + Shravasti >20%**. Bahraich **NOT**.
 - Forest cover ≥1 ha, canopy ≥10%
 - VDF/MDF/OF density classes
 - **NOT** CPCB, **NOT** BSI/ZSI
@@ -314,16 +314,16 @@ KEY TRAPS:
 
 ### FRI — How It Works
 
-- **FRI Dehradun established 1906** — one of world's leading forestry research institutes — colonial-era foundation for scientific forest management in India.
-- **Under ICFRE umbrella**: **Indian Council of Forestry Research and Education (ICFRE)** — nodal body coordinating **FRI Dehradun** + **Institute of Wood Science & Technology (IWST Bengaluru)** + **Arid Forest Research Institute (AFRI Jodhpur)** + regional institutes — all under MoEFCC.
+- **FRI Dehradun established 1906**. One of world's leading forestry research institutes. Colonial-era foundation for scientific forest management in India.
+- **Under ICFRE umbrella**: **Indian Council of Forestry Research and Education (ICFRE)**. Nodal body coordinating **FRI Dehradun** + **Institute of Wood Science & Technology (IWST Bengaluru)** + **Arid Forest Research Institute (AFRI Jodhpur)** + regional institutes. All under MoEFCC.
 - **Research domains**: **Silviculture** (regeneration techniques), **forest pathology** (disease control), **forest entomology** (pest management), **wood science** (timber properties), **non-timber forest products** (NTFP), **bamboo research**.
-- **FRI vs FSI trap**: **FRI = research** (how to grow/manage forests scientifically); **FSI = survey/monitoring** (how much forest exists on map) — both in **Dehradun**, different functions — highest-frequency confusion.
-- **Training role**: FRI trains **forest officers, researchers, and technicians** — MSc/PhD programmes in forestry sciences — academic + applied research.
-- **Climate change research**: FRI studies **carbon sequestration potential**, drought-resistant species, adaptation silviculture — feeds ISFR policy and REDD+ discussions.
-- **Publication outputs**: *Indian Forester* journal (historically linked); technical bulletins on species suitability, plantation techniques.
-- **What FRI does NOT do**: **Does NOT** publish ISFR (FSI); **Does NOT** survey plant/animal species nationally (BSI/ZSI); **Does NOT** enforce forest laws (state forest departments); **Does NOT** grant forest clearance.
-- **UP forestry research link**: FRI develops protocols for **sal, teak, bamboo** plantations applicable to Terai and Vindhyan forests — research supports UP forest department planting programmes.
-- **Herbarium at FRI**: Maintains **forest tree species herbarium** — complementary to BSI's broader plant herbarium at Kolkata.
+- **FRI vs FSI trap**: **FRI = research** (how to grow/manage forests scientifically). **FSI = survey/monitoring** (how much forest exists on map). Both in **Dehradun**, different functions. Highest-frequency confusion.
+- **Training role**: FRI trains **forest officers, researchers, and technicians**. MSc/PhD programmes in forestry sciences. Academic + applied research.
+- **Climate change research**: FRI studies **carbon sequestration potential**, drought-resistant species, adaptation silviculture. Feeds ISFR policy and REDD+ discussions.
+- **Publication outputs**: *Indian Forester* journal (historically linked). Technical bulletins on species suitability, plantation techniques.
+- **What FRI does NOT do**: FRI does not publish ISFR (FSI), survey plant or animal species nationally (BSI/ZSI), enforce forest laws (state forest departments), or grant forest clearance.
+- **UP forestry research link**: FRI develops protocols for **sal, teak, bamboo** plantations applicable to Terai and Vindhyan forests. Research supports UP forest department planting programmes.
+- **Herbarium at FRI**: Maintains **forest tree species herbarium**. Complementary to BSI's broader plant herbarium at Kolkata.
 
 > **Exam note:** **FRI ≠ FSI** — both Dehradun. FRI = **research** (1906); FSI = **forest cover survey** (1981, ISFR).
 
@@ -339,7 +339,7 @@ KEY TRAPS:
 
 ### Exam Facts (raata)
 
-- FRI = **1906**, Dehradun — **forestry research**
+- FRI = **1906**, Dehradun. **Forestry research**.
 - Under **ICFRE** umbrella
 - **NOT** same as FSI (survey/mapping)
 - Research: silviculture, pathology, wood science
@@ -388,16 +388,16 @@ KEY TRAPS:
 
 ### WII — How It Works
 
-- **WII established 1982** at Dehradun — India's premier **wildlife research and training institute** — distinct from ZSI (taxonomy) and FRI (forestry).
-- **Training Indian Forest Service (IFS) officers**: WII runs **mandatory wildlife training** for forest officers — field ecology, census methods, protected area management — institutional backbone of Project Tiger implementation.
-- **Tiger census protocols**: WII designs and standardises **All India Tiger Estimation** methodology — camera traps, scat DNA, line transects — NTCA coordinates; WII provides scientific protocol.
+- **WII established 1982** at Dehradun. India's premier **wildlife research and training institute**. Distinct from ZSI (taxonomy) and FRI (forestry).
+- **Training Indian Forest Service (IFS) officers)**: WII runs **mandatory wildlife training** for forest officers. Field ecology, census methods, protected area management. Institutional backbone of Project Tiger implementation.
+- **Tiger census protocols**: WII designs and standardises **All India Tiger Estimation** methodology. Camera traps, scat DNA, line transects. NTCA coordinates. WII provides scientific protocol.
 - **Research areas**: **Population ecology**, **habitat fragmentation**, **human-wildlife conflict** mitigation, **climate change impacts on wildlife**, **carnivore corridor** studies, **vulture conservation** science.
-- **Dehradun cluster**: WII joins **FSI + FRI** in Dehradun — three different mandates in one city — exams test **function matching** relentlessly.
-- **What WII does NOT do**: **Does NOT** maintain national plant/animal species lists (BSI/ZSI); **Does NOT** publish ISFR (FSI); **Does NOT** grant wildlife trade permits (CITES authority = MoEFCC/WL division); **Does NOT** run zoos (CZA).
-- **Scientific publications**: *Journal of Wildlife Research*; technical reports on species recovery programmes (vulture, snow leopard, gharial).
-- **UP wildlife research**: WII studies **Terai tiger corridors** (Dudhwa-Pilibhit-Katarniaghat), **gangetic dolphin**, **vulture decline** in Gangetic plain — research informs UP forest department management.
-- **Ex-situ research support**: WII advises on **captive breeding** protocols — but zoos themselves are ex-situ facilities, not WII-run.
-- **International collaboration**: WII partners with **IUCN, WWF, Smithsonian** on species monitoring — represents India in global carnivore census networks.
+- **Dehradun cluster**: WII joins **FSI + FRI** in Dehradun. Three different mandates in one city. Exams test **function matching** relentlessly.
+- **What WII does NOT do**: WII does not maintain national plant or animal species lists (BSI/ZSI), publish ISFR (FSI), grant wildlife trade permits (CITES authority = MoEFCC/WL division), or run zoos (CZA).
+- **Scientific publications**: *Journal of Wildlife Research*. Technical reports on species recovery programmes (vulture, snow leopard, gharial).
+- **UP wildlife research**: WII studies **Terai tiger corridors** (Dudhwa-Pilibhit-Katarniaghat), **gangetic dolphin**, **vulture decline** in Gangetic plain. Research informs UP forest department management.
+- **Ex-situ research support**: WII advises on **captive breeding** protocols. But zoos themselves are ex-situ facilities, not WII-run.
+- **International collaboration**: WII partners with **IUCN, WWF, Smithsonian** on species monitoring. Represents India in global carnivore census networks.
 
 > **Exam note:** WII = **wildlife research + training** — NOT plant survey (BSI), NOT animal taxonomy inventory (ZSI), NOT forest cover (FSI).
 
@@ -414,8 +414,8 @@ KEY TRAPS:
 ### Exam Facts (raata)
 
 - WII = **1982**, HQ **Dehradun**
-- Wildlife **research + training** — not taxonomy
-- Tiger census **methodology** — WII role
+- Wildlife **research + training**. Not taxonomy.
+- Tiger census **methodology**. WII role.
 - IFS officer wildlife training centre
 - **NOT** BSI/ZSI/FSI functions
 - Terai corridor research for UP
@@ -461,16 +461,16 @@ KEY TRAPS:
 
 ### NBA — How It Works
 
-- **NBA created under BDA 2002** — India's response to **Convention on Biological Diversity (CBD 1992)** and **Nagoya Protocol (2010)** on Access and Benefit-Sharing (ABS).
-- **Headquarters: Chennai** — exams repeatedly swap with Delhi (MoEFCC HQ) or Kolkata (BSI/ZSI) — **Chennai = NBA** is non-negotiable raata point.
-- **Core functions**: **Approve access** by foreign nationals/companies to Indian biological resources; **regulate biopiracy**; **facilitate benefit-sharing** with local communities when commercial use occurs; **advise Central Government** on biodiversity policy.
-- **Foreign access approval**: Any **foreign individual, institution, or company** collecting/researching/using Indian bio-resources for commercial purposes needs **NBA permission** — domestic Indian researchers follow simpler SBB route unless foreign collaboration.
+- **NBA created under BDA 2002**. India's response to **Convention on Biological Diversity (CBD 1992)** and **Nagoya Protocol (2010)** on Access and Benefit-Sharing (ABS).
+- **Headquarters: Chennai**. Exams repeatedly swap with Delhi (MoEFCC HQ) or Kolkata (BSI/ZSI). **Chennai = NBA** is non-negotiable raata point.
+- **Core functions**: **Approve access** by foreign nationals/companies to Indian biological resources. **Regulate biopiracy**. **Facilitate benefit-sharing** with local communities when commercial use occurs. **Advise Central Government** on biodiversity policy.
+- **Foreign access approval**: Any **foreign individual, institution, or company** collecting/researching/using Indian bio-resources for commercial purposes needs **NBA permission**. Domestic Indian researchers follow simpler SBB route unless foreign collaboration.
 - **Benefit-sharing (ABS)**: When biological resource leads to **patent/product**, NBA ensures **monetary/non-monetary benefits** flow to **BMC/local communities** who documented resource in PBR.
-- **NBA vs SBB vs BMC hierarchy**: **NBA = national apex**; **SBB = state level**; **BMC = local panchayat/ward** — three-tier structure under BDA 2002 — each has distinct legal powers.
-- **What NBA does NOT do**: **Does NOT** prepare People's Biodiversity Register (BMC job); **Does NOT** survey species (BSI/ZSI); **Does NOT** store seeds (NBPGR); **Does NOT** grant forest clearance.
-- **Biodiversity Heritage Sites (BHS)**: NBA/SBB can notify **BHS** — areas of unique biodiversity — community-managed conservation — distinct from protected areas under WPA.
+- **NBA vs SBB vs BMC hierarchy**: **NBA = national apex**. **SBB = state level**. **BMC = local panchayat/ward**. Three-tier structure under BDA 2002. Each has distinct legal powers.
+- **What NBA does NOT do**: NBA does not prepare People's Biodiversity Register (BMC job), survey species (BSI/ZSI), store seeds (NBPGR), or grant forest clearance.
+- **Biodiversity Heritage Sites (BHS)**: NBA/SBB can notify **BHS**. Areas of unique biodiversity. Community-managed conservation. Distinct from protected areas under WPA.
 - **National Biodiversity Action Plan**: NBA coordinates India's biodiversity strategy reporting to **CBD Conference of Parties**.
-- **Penalties**: BDA 2002 provides **fines and imprisonment** for unauthorised access/commercial use of bio-resources — NBA enforces at national level.
+- **Penalties**: BDA 2002 provides **fines and imprisonment** for unauthorised access/commercial use of bio-resources. NBA enforces at national level.
 
 > **Exam note:** **NBA HQ = Chennai, NOT Delhi**. "NBA prepares PBR" = **FALSE** — PBR = **BMC** at panchayat level.
 
@@ -485,7 +485,7 @@ KEY TRAPS:
 ### Exam Facts (raata)
 
 - NBA under **BDA 2002**
-- HQ **Chennai** — NOT Delhi
+- HQ **Chennai**. NOT Delhi.
 - Foreign access + **ABS** regulator
 - CBD + Nagoya Protocol implementation
 - **NOT** PBR preparation (BMC)
@@ -533,16 +533,16 @@ KEY TRAPS:
 
 ### SBB — How It Works
 
-- **Every state establishes SBB** under BDA 2002 — **Uttar Pradesh State Biodiversity Board (UPSBB)** operates from **Lucknow** — state-level counterpart to NBA Chennai.
-- **State-level access regulation**: **Indian citizens/companies** accessing bio-resources for **commercial use** within state need **SBB approval** — foreign entities go to NBA directly.
-- **Coordination with BMC**: SBB **guides and supervises** Biodiversity Management Committees at panchayat/municipal level — ensures PBRs are prepared and updated — links local knowledge to state policy.
-- **PBR validation**: SBB receives **People's Biodiversity Registers** from BMCs — maintains **state biodiversity database** — feeds national reporting to NBA.
+- **Every state establishes SBB** under BDA 2002. **Uttar Pradesh State Biodiversity Board (UPSBB)** operates from **Lucknow**. State-level counterpart to NBA Chennai.
+- **State-level access regulation**: **Indian citizens/companies** accessing bio-resources for **commercial use** within state need **SBB approval**. Foreign entities go to NBA directly.
+- **Coordination with BMC**: SBB **guides and supervises** Biodiversity Management Committees at panchayat/municipal level. Ensures PBRs are prepared and updated. Links local knowledge to state policy.
+- **PBR validation**: SBB receives **People's Biodiversity Registers** from BMCs. Maintains **state biodiversity database**. Feeds national reporting to NBA.
 - **Benefit-sharing at state level**: When commercial use of bio-resource occurs within state, SBB ensures **benefit-sharing** reaches local BMC/community per BDA rules.
-- **Biodiversity Heritage Sites (BHS)**: SBB can **identify and recommend** BHS to state government — community-conserved areas with unique biodiversity.
-- **SBB vs NBA**: SBB = **state domestic access**; NBA = **national + foreign access** — overlap on policy but different jurisdictions.
-- **SBB vs SPCB trap**: **SBB = biodiversity** (BDA 2002); **SPCB = pollution** (Water/Air Acts) — both "State" boards — exams swap deliberately.
-- **UP context**: UPSBB coordinates PBRs across **75 districts** — Terai medicinal plants, Bundelkhand drought-resistant crops documented in local PBRs.
-- **Funding**: SBBs receive support from **NBA grants** and state budgets — many states under-staffed — but legally mandatory under BDA.
+- **Biodiversity Heritage Sites (BHS)**: SBB can **identify and recommend** BHS to state government. Community-conserved areas with unique biodiversity.
+- **SBB vs NBA**: SBB = **state domestic access**. NBA = **national + foreign access**. Overlap on policy but different jurisdictions.
+- **SBB vs SPCB trap**: **SBB = biodiversity** (BDA 2002). **SPCB = pollution** (Water/Air Acts). Both "State" boards. Exams swap deliberately.
+- **UP context**: UPSBB coordinates PBRs across **75 districts**. Terai medicinal plants, Bundelkhand drought-resistant crops documented in local PBRs.
+- **Funding**: SBBs receive support from **NBA grants** and state budgets. Many states under-staffed. But legally mandatory under BDA.
 
 > **Exam note:** **SBB = State Biodiversity Board** — NOT State Pollution Control Board (SPCB). BDA 2002 body, not Water Act 1974.
 
@@ -560,7 +560,7 @@ KEY TRAPS:
 
 - SBB = **state level** under BDA 2002
 - One board **per state/UT**
-- UPSBB — **Lucknow**
+- UPSBB. **Lucknow**.
 - Regulates **domestic commercial** bio-resource access
 - Supervises **BMC** and PBR collection
 - **NOT** pollution control (SPCB)
@@ -607,16 +607,16 @@ KEY TRAPS:
 
 ### BMC — How It Works
 
-- **BMC constituted at every local body** (gram panchayat, nagar panchayat, nagar palika, municipal corporation, ward-level bodies) under BDA 2002 — **grassroots biodiversity governance** — closest to community level.
-- **People's Biodiversity Register (PBR)**: BMC's **primary mandated task** — records **local species**, **folk names**, **medicinal uses**, **seasonal availability**, **conservation practices** — living document updated periodically.
-- **PBR ≠ NBA prepares**: Most common trap — **BMC prepares PBR**, submits to **SBB** — NBA does **NOT** prepare village-level registers.
-- **Benefit-sharing linkage**: PBR creates **evidence base** for ABS claims — if company commercialises plant documented in PBR, **local BMC/community** entitled to benefit-sharing via NBA/SBB mechanism.
-- **Conservation activities**: BMC promotes **home gardens, sacred groves, community nurseries**, awareness — operational conservation at village scale.
-- **BMC vs Biodiversity Register (Topic 4 overlap)**: PBR is **legal register under BDA** prepared by **BMC** — not the same as general "biodiversity documentation" by BSI — BSI does scientific survey; BMC does **community knowledge register**.
-- **UP implementation**: Thousands of BMCs across UP panchayats — variable quality of PBR completion — UPSBB monitors — exams test **institutional role**, not completion statistics.
-- **Foreign access documentation**: PBR entries support **prior informed consent** when outsiders seek bio-resources — legal standing in biopiracy cases.
-- **What BMC does NOT do**: **Does NOT** approve foreign access (NBA); **Does NOT** conduct scientific taxonomy (BSI/ZSI); **Does NOT** enforce WPA (forest department).
-- **Funding**: NBA/SBB provide **grants for PBR preparation** — training workshops for BMC members on documentation methods.
+- **BMC constituted at every local body** (gram panchayat, nagar panchayat, nagar palika, municipal corporation, ward-level bodies) under BDA 2002. **Grassroots biodiversity governance**. Closest to community level.
+- **People's Biodiversity Register (PBR)**: BMC's **primary mandated task**. Records **local species**, **folk names**, **medicinal uses**, **seasonal availability**, **conservation practices**. Living document updated periodically.
+- **PBR ≠ NBA prepares**: Most common trap. **BMC prepares PBR**, submits to **SBB**. NBA does **NOT** prepare village-level registers.
+- **Benefit-sharing linkage**: PBR creates **evidence base** for ABS claims. If company commercialises plant documented in PBR, **local BMC/community** entitled to benefit-sharing via NBA/SBB mechanism.
+- **Conservation activities**: BMC promotes **home gardens, sacred groves, community nurseries**, awareness. Operational conservation at village scale.
+- **BMC vs Biodiversity Register (Topic 4 overlap)**: PBR is **legal register under BDA** prepared by **BMC**. Not the same as general "biodiversity documentation" by BSI. BSI does scientific survey. BMC does **community knowledge register**.
+- **UP implementation**: Thousands of BMCs across UP panchayats. Variable quality of PBR completion. UPSBB monitors. Exams test **institutional role**, not completion statistics.
+- **Foreign access documentation**: PBR entries support **prior informed consent** when outsiders seek bio-resources. Legal standing in biopiracy cases.
+- **What BMC does NOT do**: BMC does not approve foreign access (NBA), conduct scientific taxonomy (BSI/ZSI), or enforce WPA (forest department).
+- **Funding**: NBA/SBB provide **grants for PBR preparation**. Training workshops for BMC members on documentation methods.
 
 > **Exam note:** **PBR prepared by BMC** — statement "NBA maintains People's Biodiversity Register" = **FALSE**. Local panchayat body, not national authority.
 
@@ -635,7 +635,7 @@ KEY TRAPS:
 - BMC = **local/panchayat** level
 - Prepares **People's Biodiversity Register (PBR)**
 - Under **BDA 2002**
-- PBR → submitted to **SBB**
+- PBR, then submitted to **sbb**.
 - **NOT** NBA function
 - Grassroots biodiversity governance
 - ABS community evidence base
@@ -681,16 +681,16 @@ KEY TRAPS:
 
 ### NBPGR — How It Works
 
-- **NBPGR established 1978** under **ICAR** (Indian Council of Agricultural Research) — **NOT MoEFCC** — agriculture/research ministry domain — distinct from MoEFCC's BSI.
-- **Headquarters: New Delhi (Pusa Campus)** — **NOT Kolkata** — exams swap NBPGR with BSI/ZSI Kolkata trap repeatedly.
-- **National Gene Bank**: NBPGR operates **National Active Collection** (accessible to breeders) + **National Gene Bank** (long-term base storage at **-18°C to -20°C**) — holds **4 lakh+ accessions** including wild relatives and farmer landraces.
-- **Ex-situ conservation**: NBPGR = **off-site genetic storage** — complementary to in-situ crop diversity in farmers' fields — CBD/BDA recognise ex-situ collections as national heritage.
-- **Orthodox vs recalcitrant seeds**: NBPGR stores **orthodox seeds** (wheat, rice, pulses) in cold storage; **recalcitrant seeds** (mango, sal) need alternative methods — cryopreservation or field gene banks.
-- **NBPGR vs BSI**: **NBPGR = genetic resource banking** (Delhi, ICAR); **BSI = taxonomic survey** (Kolkata, MoEFCC) — different parent ministries, different cities, different outputs.
-- **NBPGR vs NBAGR**: **NBPGR = plants** (New Delhi); **NBAGR = animals/livestock** (Karnal, Haryana, 1984) — paired trap from Topic 20 — animal gene bank is NOT NBPGR.
-- **BDA/Nagoya link**: Genetic resources in NBPGR are **sovereign national assets** — foreign access for commercial use requires **NBA approval** — benefit-sharing rules apply.
-- **Regeneration cycle**: Stored seeds lose viability — NBPGR **periodically regenerates** accessions by growing in fields — dynamic management, not static vault.
-- **Svalbard Global Seed Vault**: NBPGR deposits **duplicate safety samples** in Norway's Arctic vault — insurance against catastrophic loss — global best practice.
+- **NBPGR established 1978** under **ICAR** (Indian Council of Agricultural Research). **NOT MoEFCC**. Agriculture/research ministry domain. Distinct from MoEFCC's BSI.
+- **Headquarters: New Delhi (Pusa Campus)**. **NOT Kolkata**. Exams swap NBPGR with BSI/ZSI Kolkata trap repeatedly.
+- **National Gene Bank**: NBPGR operates **National Active Collection** (accessible to breeders) + **National Gene Bank** (long-term base storage at **-18°C to -20°C**). Holds **4 lakh+ accessions** including wild relatives and farmer landraces.
+- **Ex-situ conservation**: NBPGR = **off-site genetic storage**. Complementary to in-situ crop diversity in farmers' fields. CBD/BDA recognise ex-situ collections as national heritage.
+- **Orthodox vs recalcitrant seeds**: NBPGR stores **orthodox seeds** (wheat, rice, pulses) in cold storage. **Recalcitrant seeds** (mango, sal) need alternative methods. Cryopreservation or field gene banks.
+- **NBPGR vs BSI**: **NBPGR = genetic resource banking** (Delhi, ICAR). **BSI = taxonomic survey** (Kolkata, MoEFCC). Different parent ministries, different cities, different outputs.
+- **NBPGR vs NBAGR**: **NBPGR = plants** (New Delhi). **NBAGR = animals/livestock** (Karnal, Haryana, 1984). Paired trap from Topic 20. Animal gene bank is NOT NBPGR.
+- **BDA/Nagoya link**: Genetic resources in NBPGR are **sovereign national assets**. Foreign access for commercial use requires **NBA approval**. Benefit-sharing rules apply.
+- **Regeneration cycle**: Stored seeds lose viability. NBPGR **periodically regenerates** accessions by growing in fields. Dynamic management, not static vault.
+- **Svalbard Global Seed Vault**: NBPGR deposits **duplicate safety samples** in Norway's Arctic vault. Insurance against catastrophic loss. Global best practice.
 
 > **Exam note:** **NBPGR = New Delhi, NOT Kolkata**. "NBPGR surveys plant species taxonomy nationally" = **FALSE** — that is **BSI**. NBPGR = **gene banking**.
 
@@ -706,9 +706,9 @@ KEY TRAPS:
 ### Exam Facts (raata)
 
 - NBPGR = **1978**, **New Delhi** (Pusa)
-- Under **ICAR** — not MoEFCC
-- **Plant genetic resources** — ex-situ gene bank
-- National Gene Bank — long-term seed storage
+- Under **ICAR**. Not MoEFCC.
+- **Plant genetic resources**. Ex-situ gene bank.
+- National Gene Bank. Long-term seed storage.
 - **NOT** Kolkata (BSI/ZSI trap)
 - **NOT** animals (NBAGR Karnal)
 - 4 lakh+ germplasm accessions

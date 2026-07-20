@@ -114,36 +114,36 @@ SUCCESSORS:
 | Source | Definition |
 |--------|------------|
 | **General** | **Sher Shah Suri** (born **Farid Khan**, c. **1472**, **Sasaram**) — Afghan **Sur** chief who seized Delhi (**1540**) and ruled till **1545**; architect of measured revenue, roads, and standardized coinage |
-| **NCERT** | Short-lived but **centralised** North Indian state between early Mughal rule of Humayun and Humayun's restoration; reforms **adopted by Akbar** |
+| **NCERT** | Short-lived but **centralised**. North Indian state between early Mughal rule of Humayun and Humayun's restoration; reforms **adopted by Akbar** |
 | **Exam** | **Sur dynasty interregnum 1540–1553** (Sher Shah + Islam Shah + weak Sur successors) — Humayun returns **1555** |
 
 ### Sher Shah Suri — How It Works
 
-- **Origins:** **Farid Khan**, son of **Hasan Khan Sur** (jagirdar of Sasaram); early service under **Bahar Khan Lohani**, governor of **Bihar** — proved administrative and military ability.
-- **Sher Khan title:** Legend — killed a **tiger** alone; Bahar Khan gave title **Sher Khan** ("Tiger Lord") — prefigured **Sher Shah**.
-- **Bihar–Bengal rise:** After Bahar Khan's death, consolidated **Bihar**; defeated Bengal ruler **Mahmud Shah** — controlled rich eastern revenue base before challenging Mughals.
-- **Humayun phase:** Initially cooperated with **Humayun** against Bengal; later turned rival as Sur power grew — classic **shift from ally to imperial contender**.
-- **Battle of Chausa (26 June 1539):** On **Ganga** (near Buxar); **Humayun defeated** — escaped by swimming across river on inflated **water skin** — Mughal prestige shattered but not yet destroyed.
-- **Battle of Kannauj / Bilgram (17 May 1540):** **Decisive** — Humayun routed; lost empire; fled to **Sind**, then **Marwar**, finally **Safavid Persia** (Kandahar ceded for aid).
-- **Imperial title:** Took **Delhi**; assumed title **Sher Shah Suri** — founded **Sur dynasty** rule over Gangetic heartland.
-- **Reign 1540–1545:** Only **~5 years** — yet reorganised **administration, revenue, army, roads, currency** — "short rule, long legacy."
-- **Death at Kalinjar (May 1545):** During siege of **Kalinjar fort** (Bundelkhand); killed by **gunpowder explosion** in accidental blast — not battle wound.
-- **Tomb at Sasaram:** Mausoleum in **Sasaram, Bihar** — lake setting; fine **Indo-Islamic** architecture — **2019 Q91** chronology anchor (~1545).
-- **Famous quote context:** After **Sammel (1544)** against **Rao Maldeo** — praised **Jaita & Kumpa** — said he nearly lost **"empire of Hindustan for a handful of millets/bajra."**
-- **Successor:** **Islam Shah** (**Jalal Khan**, r. **1545–1553**) — maintained some reforms; Sur decline → **Humayun restored 1555**.
+- **Origins:** His original name was **Farid Khan**, and he was the son of **Hasan Khan Sur**, the jagirdar of **Sasaram**. He first proved his administrative and military ability while serving **Bahar Khan Lohani**, the governor of **Bihar**.
+- **Sher Khan title:** According to tradition, he killed a **tiger** single-handedly. **Bahar Khan** then gave him the title **Sher Khan**, which later developed into the imperial title **Sher Shah**.
+- **Bihar–Bengal rise:** After Bahar Khan's death, he consolidated **Bihar** and defeated the Bengal ruler **Mahmud Shah**. This gave him a rich eastern revenue base before he challenged the Mughals.
+- **Humayun phase:** He initially cooperated with **Humayun** against Bengal. As Sur power grew, he turned from ally into an imperial contender.
+- **Battle of Chausa (26 June 1539):** On the **Ganga** near Buxar, **Humayun was defeated** and escaped by swimming across the river on an inflated **water skin**. Mughal prestige was shattered but not yet destroyed.
+- **Battle of Kannauj / Bilgram (17 May 1540):** The battle was **decisive**. Humayun was routed, lost the empire, and fled to **Sind**, then **Marwar**, and finally **Safavid Persia** (Kandahar ceded for aid).
+- **Imperial title:** After taking **Delhi**, he assumed the title **Sher Shah Suri**. He then founded **Sur dynasty** rule over the Gangetic heartland.
+- **Reign 1540–1545:** He ruled for only about **five years**, but he reorganised **administration, revenue, army, roads, and currency**. His reign is best remembered as short in duration but long in legacy.
+- **Death at Kalinjar (May 1545):** He died during the siege of **Kalinjar fort** in Bundelkhand. The cause was an accidental **gunpowder explosion**, not an ordinary battle wound.
+- **Tomb at Sasaram:** His mausoleum stands at **Sasaram, Bihar**, in a lake setting. It is a fine example of **Indo-Islamic** architecture and is a **2019 Q91** chronology anchor around 1545.
+- **Famous quote context:** After **Sammel (1544)** against **Rao Maldeo**, Sher Shah praised **Jaita & Kumpa**. He said he nearly lost the **"empire of Hindustan for a handful of millets/bajra."**
+- **Successor:** **Islam Shah** (**Jalal Khan**, r. **1545–1553**) succeeded him and maintained some reforms. The Sur dynasty later declined, and **Humayun was restored in 1555**.
 
 > **Exam note:** **Chausa vs Kannauj** — two-step destruction of Humayun: first escape (1539), then exile (1540). **2025 Q79** lists both — order **Chausa before Kannauj** before Mughal succession battles.
 
 ### Exam Facts (raata)
 
-- Birth name **Farid Khan**; birthplace **Sasaram (Bihar)**
-- **1539 Chausa** | **1540 Kannauj/Bilgram** vs Humayun
-- Rule **1540–1545** — five-year reformer emperor
-- Died **1545** at **Kalinjar** fort siege
-- Tomb **Sasaram** — chronology after **Atala Masjid Jaunpur**, before **Humayun's Tomb**
-- Successor **Islam Shah (Jalal Khan)** 1545–1553
-- **Todar Mal** served Sher Shah before Akbar — revenue link
-- Afghan **Sur** lineage — not Mughal, not Lodi
+- His birth name was **Farid Khan**, and his birthplace was **Sasaram (Bihar)**.
+- He defeated Humayun at **Chausa in 1539** and at **Kannauj/Bilgram in 1540**.
+- He ruled from **1540 to 1545** and is remembered as a five-year reformer emperor.
+- He died in **1545** during the siege of **Kalinjar** fort.
+- His tomb at **Sasaram** comes after **Atala Masjid, Jaunpur**, and before **Humayun's Tomb** in monument chronology.
+- His successor was **Islam Shah (Jalal Khan)**, who ruled from **1545 to 1553**.
+- **Todar Mal** served Sher Shah before Akbar, which creates the key revenue-continuity link.
+- Sher Shah belonged to the Afghan **Sur** lineage, not the Mughal or Lodi line.
 
 ### PYQs — Sher Shah Suri (Life & Battles)
 
@@ -157,7 +157,7 @@ SUCCESSORS:
    → **B (IV, II, III, I)** — Atala (Sharqi, 15th c.) → Sher Shah (~1545) → Humayun (~1565) → Rabia (17th c.).
 
 4. **(UPPCS 2022, Q95)** Jayata and Kumpa associated with which place?  
-   → **C (Marwar)** — Rathore generals under **Rao Maldeo**; Battle of **Sammel 1544**. *(Note: some answer keys circulated **B Malwa** — historiography firmly supports **Marwar**.)*
+   → **C (Marwar)** — Rathore generals under **Rao Maldeo**; Battle of **Sammel 1544** *(Note: some answer keys circulated **B Malwa** — historiography firmly supports **Marwar**)*
 
 ### Examples (8.1)
 
@@ -182,35 +182,35 @@ SUCCESSORS:
 
 ### Administration — How It Works
 
-- **Centralised kingship:** Sher Shah = **sole sovereign** — no hereditary nobility sharing power like weak Sayyids; **direct oversight** through reports and spies.
-- **Sarkar (province):** Highest territorial unit below centre — each **sarkar** grouped several **parganas** — governor-level control through senior officers.
-- **Pargana (sub-district):** Basic **administrative–revenue** unit — where land measurement, collection, and local order intersected.
-- **Shiqdar (pargana):** **Law and order** + local military duties — arrested disturbers, supported revenue collection — **not** the same as revenue assessor.
-- **Munshif (pargana):** **Accountant/auditor** — maintained **financial records** of pargana — checked amils — anti-corruption role.
-- **Amil / Desai:** **Revenue collectors** — **Desai** term especially in **2019 Q87** pairing — responsible for **actual collection** after assessment.
-- **Khwan-i-Pargana:** **Record writer** — documented assignments, receipts — paperwork backbone.
-- **Qazi:** **Judicial officer** — Islamic law matters at pargana/sarkar level — separate from revenue chain.
-- **Central departments:** **Diwan-i-Wazarat** (finance/revenue), **Diwan-i-Ariz** (military muster/pay), **Diwan-i-Risalat** (religious grants + foreign correspondence) — Mughal terminology partly inherited from this frame.
-- **Shiqdar-i-Shiqdaran & Munshif-i-Munsifan:** **Supervisory heads** at **sarkar** level over all pargana shiqdars/munshifs — hierarchical control.
-- **Espionage (barid):** **Secret news writers** reported on amils and shiqdars — fear of surveillance reduced **embezzlement**.
-- **Justice & roads link:** Admin efficiency tied to **GT Road**, **sarais**, and **post relays** — state could move information and troops quickly.
+- **Centralised kingship:** Sher Shah ruled as the **sole sovereign**. He did not allow hereditary nobles to share power, and he maintained **direct oversight** through reports and spies.
+- **Sarkar (province):** The **sarkar** was the highest territorial unit below the centre. Each sarkar grouped several **parganas** and was supervised through senior officers.
+- **Pargana (sub-district):** The **pargana** was the basic **administrative-revenue** unit. It was the level where land measurement, collection, and local order met.
+- **Shiqdar (pargana):** The **Shiqdar** handled **law and order** and local military duties. He arrested disturbers and supported revenue collection, but he was **not** the revenue assessor.
+- **Munshif (pargana):** The **Munshif** worked as the **accountant/auditor** of the pargana. He maintained financial records and checked the amils, which reduced corruption.
+- **Amil / Desai:** **Amils** and **Desais** were revenue collectors. The term **Desai** is especially important for the **2019 Q87** pairing.
+- **Khwan-i-Pargana:** The **Khwan-i-Pargana** was the record writer. He documented assignments and receipts, making him the paperwork backbone of the pargana.
+- **Qazi:** The **Qazi** was the judicial officer for Islamic law matters at the pargana or sarkar level. He was separate from the revenue chain.
+- **Central departments:** **Diwan-i-Wazarat** handled finance/revenue, **Diwan-i-Ariz** handled military muster and pay, and **Diwan-i-Risalat** handled religious grants and foreign correspondence. Later Mughal terminology partly inherited this frame.
+- **Shiqdar-i-Shiqdaran & Munshif-i-Munsifan:** These were **supervisory heads** at the **sarkar** level. They supervised all pargana shiqdars and munshifs under them.
+- **Espionage (barid):** **Secret news writers** reported on amils and shiqdars. Fear of surveillance reduced **embezzlement**.
+- **Justice & roads link:** Administrative efficiency was tied to the **GT Road**, **sarais**, and **post relays**. These links helped the state move information and troops quickly.
 - **Continuity to Mughals:** **Akbar's mansabdari** differed in nobility rank, but **pargana revenue machinery** and **measurement** owed much to Sher Shah's template via **Todar Mal**.
 
-> **Exam note:** **2019 Q87** — **Diwan = Revenue Chief of a province** is **NOT correctly matched** — central **Diwan** was **finance minister**, not provincial revenue head (**Amil/Munshif** at pargana/sarkar). Also **Jarib = tax** is false — Jarib is **measuring rope**.
+> **Exam note:** **2019 Q87** — **Diwan = Revenue Chief of a province** is **NOT correctly matched** — central **Diwan** was **finance minister**, not provincial revenue head (**Amil/Munshif** at pargana/sarkar). Also **Jarib = tax** is false because Jarib was a **measuring rope**.
 
 ### Exam Facts (raata)
 
-- **Sarkar → Pargana** hierarchy
-- **Shiqdar** = law & order | **Munshif** = accounts
-- **Amil/Desai** = revenue collection
-- **Diwan-i-Wazarat** = finance department
-- **Espionage** reduced corruption
-- **Qazi** = judge — separate from revenue
-- **Khwan** = pargana record-keeper
+- The hierarchy was **Sarkar → Pargana**.
+- **Shiqdar** handled law and order, while **Munshif** handled accounts.
+- **Amil/Desai** handled revenue collection.
+- **Diwan-i-Wazarat** was the finance department.
+- **Espionage** reduced corruption.
+- **Qazi** was the judge and was separate from the revenue chain.
+- **Khwan** was the pargana record-keeper.
 
 ### PYQs — Administration
 
-1. **(UPPCS 2019, Q87)** Which is NOT correctly matched? A Dam–Copper B Desai–Revenue Collector C Diwan–Revenue Chief of province D Jarib–Type of tax  
+1. **(UPPCS 2019, Q87)** Which is NOT correctly matched? A Dam–Copper B Desai–Revenue Collector C Diwan–Revenue Chief of province D Jarib–Type of tax.
    → **C or D both wrong pairings** — standard key: **C** (Diwan misdefined); **Jarib** trap in **D** (measuring rope, not tax).
 
 2. **(UPPCS 2022, Q95)** Jayata & Kumpa — administration/military valour context under **Rao Maldeo** — **Marwar**.
@@ -238,30 +238,30 @@ SUCCESSORS:
 
 ### Revenue Reforms — How It Works
 
-- **Problem before:** Earlier rulers often used **crop-sharing** or rough estimates — peasants vulnerable to **middlemen** and **arbitrary demand**.
-- **Land measurement first:** Every cultivated plot measured with **jarib** — standardised **bamboo rope** with **iron rings** at fixed intervals — uniform bigha size.
-- **Jarib NOT a tax:** **Critical trap** — jarib is **instrument**, not revenue category — **2019 Q87** lists "Jarib = type of tax" as **false**.
-- **Three-fold classification:** Land sorted into **good**, **middle**, **bad** (polaj, parauti, chachar types in later terminology) — different **rai** rates applied.
-- **Rai (crop rate):** Schedule fixing **cash value** of expected produce **per bigha** for each crop/class — assessment converted to **money demand**.
-- **Zabt (demand fixation):** On measured land, state fixed **annual cash revenue** — **zabti** system — precursor to Akbar's **zabt** scaled empire-wide.
-- **Patta:** Document issued to **peasant** showing **measured area** and **demanded revenue** — transparency tool — reduced dispute.
-- **Qabuliat:** **Peasant's written acceptance** of assessment — mutual record — both sides held copies — legal clarity.
-- **Direct collection oversight:** **Amils** collected but **munshifs** audited — **espionage** checked under-reporting — high **collection efficiency**.
-- **No over-taxation rhetoric:** Sher Shah famously warned amils **not to oppress** peasants — balance between **state income** and **agricultural stability**.
-- **Todar Mal apprenticeship:** **Raja Todar Mal** learned **measurement/revenue** under Sher Shah — carried **jarib-zabt** logic to **Akbar's dahsala-zabt** synthesis.
-- **Legacy:** Mughal **dahsala (10-year average)** built on Sher Shah's **measurement discipline** — UPPCS asks **continuity**, not isolation.
+- **Problem before:** Earlier rulers often used **crop-sharing** or rough estimates. Peasants were vulnerable to **middlemen** and **arbitrary demand**.
+- **Land measurement first:** Every cultivated plot was measured with the **jarib**. This standardised **bamboo rope** had **iron rings** at fixed intervals and helped fix a uniform bigha size.
+- **Jarib NOT a tax:** **Critical trap**. Jarib is **instrument**, not revenue category. **2019 Q87** lists "Jarib is type of tax" as **false**.
+- **Three-fold classification:** Land was sorted into **good**, **middle**, and **bad** categories. Different **rai** rates were applied according to the quality of land.
+- **Rai (crop rate):** **Rai** was the schedule that fixed the **cash value** of expected produce **per bigha** for each crop and land class. It converted assessment into a **money demand**.
+- **Zabt (demand fixation):** On measured land, state fixed **annual cash revenue**. It was the **zabti** system and became a precursor to Akbar's empire-wide **zabt**.
+- **Patta:** The **Patta** was a document issued to the **peasant** showing the **measured area** and **demanded revenue**. It made assessment more transparent and reduced disputes.
+- **Qabuliat:** **Qabuliat** was the **peasant's written acceptance** of the assessment. Both sides kept copies, so the demand had legal clarity.
+- **Direct collection oversight:** **Amils** collected revenue, while **munshifs** audited the accounts. **Espionage** checked under-reporting and improved collection efficiency.
+- **No over-taxation rhetoric:** Sher Shah famously warned amils **not to oppress** peasants. His policy tried to balance **state income** with **agricultural stability**.
+- **Todar Mal apprenticeship:** **Raja Todar Mal** learned **measurement and revenue** methods under Sher Shah. He later carried the **jarib-zabt** logic into **Akbar's dahsala-zabt** synthesis.
+- **Legacy:** Mughal **dahsala (10-year average)** built on Sher Shah's **measurement discipline**. UPPCS asks **continuity**, not isolation.
 
 > **Exam note:** Pair **Jarib → measure** | **Rai → rate** | **Zabt → demand** | **Patta/Qabuliat → document**. Never say jarib is a tax.
 
 ### Exam Facts (raata)
 
-- **Jarib** = measuring rope with iron rings
-- **Good/middle/bad** land classes
-- **Rai** = crop-rate per bigha
-- **Zabt** = measured cash assessment
-- **Patta** to peasant + **Qabuliat** acceptance
-- **Todar Mal** learned under Sher Shah
-- Akbar later combined with **dahsala**
+- **Jarib** was the measuring rope with iron rings.
+- Land was classified into **good, middle, and bad** categories.
+- **Rai** was the crop rate per bigha.
+- **Zabt** was the measured cash assessment.
+- **Patta** was issued to the peasant, and **Qabuliat** recorded the peasant's acceptance.
+- **Todar Mal** learned revenue methods under Sher Shah.
+- Akbar later combined this measurement tradition with **dahsala**.
 
 ### PYQs — Revenue Reforms
 
@@ -292,28 +292,28 @@ SUCCESSORS:
 
 ### Road System — How It Works
 
-- **Strategic purpose:** Unified empire needed **fast troop movement**, **revenue transport**, and **trade security** — roads = **administration in motion**.
-- **Grand Trunk Road route:** **Sonargaon** (near Dhaka/Bengal) westward through **Bihar**, **Banaras region**, **Allahabad**, **Kannauj**, **Agra**, **Delhi**, **Punjab** to **Peshawar** — centuries-old route **standardised and maintained**.
-- **UP corridor:** GT Road cuts **eastern UP** (Kannauj, parts of Doab) — explains UPPCS interest in **Kannauj battles** + **road geography**.
-- **Sarais (rest houses):** Built roughly every **12 kos** (~**20 miles**) — free shelter for **travellers, merchants, couriers, soldiers** — some with **stables and food**.
-- **Kos-minars:** **Milestone towers** marking distance — helped **post runners** and army march discipline — still visible near Delhi–Haryana.
-- **Purana Qila (Delhi):** Sher Shah rebuilt/fortified **Old Fort** — **Qila-i-Kuhna Masjid** inside — Delhi segment anchor of road system.
-- **Rohtas Fort link:** **Rohtas** (Bihar) guarded **eastern approach** — road network tied to **military forts** — not just civilian highway.
-- **Postal relays:** **Horse/post stations** on highway — **barid** intelligence used same routes — **news faster than rebellion**.
-- **Economic effect:** Reduced **banditry**; boosted **inter-regional trade** (Bengal–Delhi–Kabul corridor) — state revenue from **customs + agriculture**.
-- **Mughal–British continuity:** Mughals maintained GT Road; **British** later metalled it — Sher Shah = **modern Indian highway ancestor**.
-- **Sarais vs Mughal caravanserais:** Same function — later Mughal **sarai** architecture (e.g. **Akbar's sarai** near Delhi) inherits concept.
+- **Strategic purpose:** A unified empire needed **fast troop movement**, **revenue transport**, and **trade security**. Sher Shah's roads therefore worked like administration in motion.
+- **Grand Trunk Road route:** The Grand Trunk Road ran from **Sonargaon** near Dhaka/Bengal through **Bihar**, the **Banaras region**, **Allahabad**, **Kannauj**, **Agra**, **Delhi**, and **Punjab** to **Peshawar**. Sher Shah standardised and maintained this older route.
+- **UP corridor:** The GT Road passed through **eastern UP** and parts of the Doab, including the Kannauj region. This explains UPPCS interest in **Kannauj battles** and road geography.
+- **Sarais (rest houses):** Sher Shah built **sarais** roughly every **12 kos** or about **20 miles**. They provided shelter for **travellers, merchants, couriers, and soldiers**, and some had stables and food.
+- **Kos-minars:** **Kos-minars** were milestone towers used to mark distance. They helped post runners and armies maintain marching discipline.
+- **Purana Qila (Delhi):** Sher Shah rebuilt and fortified **Purana Qila** in Delhi, including the **Qila-i-Kuhna Masjid** inside it. It became a Delhi anchor of his road and fortification system.
+- **Rohtas Fort link:** **Rohtas Fort** in Bihar guarded the eastern approach. Its connection with the road network shows that Sher Shah's highways were also military routes.
+- **Postal relays:** Horse and post stations operated along the highway. **Barid** intelligence used these routes, so state news could travel faster than rebellion.
+- **Economic effect:** The road system reduced **banditry** and boosted **inter-regional trade** along the Bengal–Delhi–Kabul corridor. It also increased state revenue from **customs + agriculture**.
+- **Mughal–British continuity:** The Mughals maintained the GT Road, and the **British** later metalled it. Sher Shah is therefore remembered as a **modern Indian highway ancestor**.
+- **Sarais vs Mughal caravanserais:** Sher Shah's sarais and later Mughal caravanserais served the same basic function. Later Mughal **sarai** architecture inherited this road-rest-house concept.
 
 > **Exam note:** GT Road endpoints = **Sonargaon (east)** + **Peshawar (west)** — trap options often give **Kabul** or **Multan alone** as single endpoint.
 
 ### Exam Facts (raata)
 
-- **GT Road:** Sonargaon → Peshawar
-- **Sarais** every ~12 kos (~20 miles)
-- **Kos-minars** = mile markers
-- **Purana Qila** Delhi — Sher Shah fortification
-- **Rohtas Fort** — road-military link Bihar
-- Kannauj on GT Road axis — UP relevance
+- **GT Road** ran from Sonargaon to Peshawar.
+- **Sarais** were placed roughly every 12 kos, or about 20 miles.
+- **Kos-minars** were mile markers.
+- **Purana Qila** in Delhi was fortified by Sher Shah.
+- **Rohtas Fort** in Bihar shows the road-military link.
+- Kannauj lay on the GT Road axis and gives the topic UP relevance.
 
 ### PYQs — Road System
 
@@ -344,33 +344,33 @@ SUCCESSORS:
 
 ### Currency Reforms — How It Works
 
-- **Pre-reform chaos:** Mixed **local coins**, debased metal, varying weights — trade and treasury accounting **unreliable**.
-- **Rupiya (silver):** Chief **silver coin** — standard weight around **178 grains** — name survives as **"rupee"** in modern South Asia.
-- **Dam (copper):** **Smallest common coin** — **1/40 of a rupiya** — for daily market transactions — **2019 Q12 & Q87** copper pairing.
-- **Mohur (gold):** **High-value gold coin** for **large payments**, treasury, elite trade — three-tier **gold–silver–copper** pyramid.
-- **Standard weights:** Mint officials enforced **uniform weight and fineness** — fake/debased coin punished — **trust in currency = trade growth**.
-- **State monopoly:** **Royal mints** controlled issue — reduced **private debasement** — revenue collected in **standard coin**.
-- **Market integration:** Common currency across **Bengal to Punjab** — helped **GT Road trade** — admin matched **road + coin** reforms.
-- **Akbar's adoption:** **Akbar retained Dam–Rupiya–Mohur structure** — refined mint network — **2019 Q12** Assertion (**Akbar regulated currency like Sher Shah**) = **TRUE**.
-- **Reason in A/R:** **Dam as chief copper coin** in Akbar's time = **TRUE** — same as Sher Shah pattern — **R correctly explains A** → answer **A**.
-- **Trap — Dam vs Tanka:** Delhi Sultanate had **silver tanka** — Sher Shah **rupiya** = new standard weight name — don't confuse **tanka** (Iltutmish) with **rupiya** (Sur).
-- **Trap — no paper money:** All **metallic** — unlike Muhammad bin Tughlaq **token currency** failure — Sur coins **trusted because full metal value**.
+- **Pre-reform chaos:** Before the reform, mixed **local coins**, debased metal, and varying weights made trade and treasury accounting unreliable.
+- **Rupiya (silver):** The **Rupiya** was the chief **silver coin** with a standard weight of about **178 grains**. Its name survives as the modern **"rupee"** in South Asia.
+- **Dam (copper):** The **Dam** was the **smallest common coin** and was worth **1/40 of a rupiya**. It was used for daily market transactions and is important for the **2019 Q12 & Q87** copper pairing.
+- **Mohur (gold):** The **Mohur** was the **high-value gold coin** used for large payments, treasury transactions, and elite trade. Together, Mohur, Rupiya, and Dam formed the gold-silver-copper coin pyramid.
+- **Standard weights:** Mint officials enforced **uniform weight and fineness**. Punishment for fake or debased coins helped build trust in currency and encouraged trade growth.
+- **State monopoly:** **Royal mints** controlled coin issue. This reduced **private debasement** and allowed revenue to be collected in standard coin.
+- **Market integration:** A common currency from **Bengal to Punjab** supported **GT Road trade**. Sher Shah's road and coin reforms therefore worked together.
+- **Akbar's adoption:** **Akbar retained the Dam-Rupiya-Mohur structure** and refined the mint network. In **2019 Q12**, the assertion that Akbar regulated currency like Sher Shah is **TRUE**.
+- **Reason in A/R:** The statement that **Dam was the chief copper coin** in Akbar's time is also **TRUE**. Since this followed Sher Shah's pattern, the reason correctly explains the assertion and the answer is **A**.
+- **Trap. Dam vs Tanka:** The Delhi Sultanate used the **silver tanka**, while Sher Shah standardised the **rupiya** as a new silver coin name and weight. Do not confuse **tanka** of Iltutmish with **rupiya** of the Sur period.
+- **Trap. No paper money:** Sher Shah's currency was fully **metallic**. Unlike Muhammad bin Tughlaq's token currency experiment, Sur coins were trusted because they carried full metal value.
 
-> **Exam note:** **Dam = copper** is among the **most repeated** Sher Shah facts (**2019 Q12, Q87**). **Mohur = gold**, **Rupiya = silver** — complete the trio.
+> **Exam note:** **Dam = copper** is among the **most repeated**. Sher Shah facts (**2019 Q12, Q87**). **Mohur = gold**, **Rupiya = silver** — complete the trio.
 
 ### Exam Facts (raata)
 
-- **Rupiya** = silver (~178 grains)
-- **Dam** = copper (1/40 rupiya)
-- **Mohur** = gold
-- Standardised mint weights
-- Akbar continued system — **2019 Q12 A/R = A**
-- Dam = copper — **2019 Q87 A correct**
+- **Rupiya** was the silver coin of about 178 grains.
+- **Dam** was the copper coin worth 1/40 of a rupiya.
+- **Mohur** was the gold coin.
+- Sher Shah standardised mint weights.
+- Akbar continued the currency system, and **2019 Q12 A/R** has answer **A**.
+- **Dam** was copper, so **2019 Q87 A** is correctly matched.
 
 ### PYQs — Currency Reforms
 
 1. **(UPPCS 2019, Q12)** A: Akbar like Sher Shah regulated currency. R: Chief copper coin of Akbar's time was Dam.  
-   → **A** — Both true; **R explains A**.
+   → **A** — Both true; **R explains A**
 
 2. **(UPPCS 2019, Q87)** Dam–Copper coin — **correctly matched (A)**.
 
@@ -397,35 +397,35 @@ SUCCESSORS:
 
 ### Military Reforms — How It Works
 
-- **Standing army:** Not purely tribal contingents — **registered soldiers**, **branded horses** (dagh tradition later expanded by Akbar), regular **review and pay**.
-- **Diwan-i-Ariz:** Central **military department** — maintained **rolls**, **horses**, **equipment** — parallel to revenue diwan.
-- **Shiqdar's military role:** Local **law enforcement** + **troop mobilisation** from pargana — linked **administration to force**.
-- **Fort strategy:** Key forts **Rohtas (Bihar)**, **Chunar**, **Kalinjar**, **Ranthambhor** (earlier conquest context) — **road + fort** network secured empire.
-- **Rohtas Fort (1540s):** Built against **Humayun** threat — massive **hill fort** — still standing — **UNESCO-level** military architecture.
-- **Gunpowder use:** Sur army used **firearms and cannons** — Sher Shah died in **gunpowder accident** at Kalinjar — shows **artillery centrality**.
-- **Battle of Chausa & Kannauj:** **Combined arms** — **Afghan cavalry** discipline + **Mughal weakness** after Babur — military peak before Rajput resistance.
-- **Sammel / Giri-Sumel (1544):** Sher Shah marched against **Rao Maldeo Rathore** of **Marwar** — massive Afghan army vs Rajputs.
-- **Jaita (Jayata) & Kumpa:** Rathore generals — fought after **Maldeo withdrew** (forged letter trick) — **5000 vs 80000** legend — impressed Sher Shah.
-- **Famous quote:** **"Empire of Hindustan for a handful of millets/bajra"** — admission Rajput resistance costly — **2022 Q95** context.
-- **Maldeo's trick reversed:** Sher Shah used **forged letters** to make Maldeo suspect **Jaita/Kumpa** — king fled — generals stayed and died fighting.
-- **Islam Shah continuation:** Son maintained army but **less expansion** — Sur military declined before **Humayun's return**.
+- **Standing army:** Sher Shah did not depend only on tribal contingents. His army used **registered soldiers**, **branded horses** (a dagh tradition later expanded by Akbar), and regular **review and pay**.
+- **Diwan-i-Ariz:** The **Diwan-i-Ariz** was the central **military department**. It maintained the rolls, horses, and equipment, parallel to the revenue diwan.
+- **Shiqdar's military role:** The **Shiqdar** handled local law enforcement and troop mobilisation from the pargana. This linked administration directly with force.
+- **Fort strategy:** Sher Shah relied on forts such as **Rohtas (Bihar)**, **Chunar**, **Kalinjar**, and **Ranthambhor**. The road-and-fort network secured the empire.
+- **Rohtas Fort (1540s):** **Rohtas Fort** was built against the **Humayun** threat. It was a massive hill fort and remains an important example of military architecture.
+- **Gunpowder use:** The Sur army used **firearms and cannons**. Sher Shah's death in a **gunpowder accident** at Kalinjar shows the centrality of artillery.
+- **Battle of Chausa & Kannauj:** Sher Shah's victories used Afghan cavalry discipline and Mughal weakness after Babur. These battles marked his military peak before the Rajput resistance.
+- **Sammel / Giri-Sumel (1544):** Sher Shah marched against **Rao Maldeo Rathore** of **Marwar**. The battle placed a massive Afghan army against determined Rajput resistance.
+- **Jaita (Jayata) & Kumpa:** **Jaita** and **Kumpa** were Rathore generals. They fought after **Maldeo withdrew** because of the forged-letter trick, and their stand impressed Sher Shah.
+- **Famous quote:** The line **"Empire of Hindustan for a handful of millets/bajra"** shows that Sher Shah admitted how costly Rajput resistance was. It is the key context for **2022 Q95**.
+- **Maldeo's trick reversed:** Sher Shah used **forged letters** to make Maldeo suspect **Jaita/Kumpa**. Maldeo fled, but the generals stayed and died fighting.
+- **Islam Shah continuation:** Islam Shah maintained the army but showed **less expansion**. Sur military power declined before **Humayun's return**.
 
 > **Exam note:** **Jayata/Jaita & Kumpa = Marwar (Rao Maldeo)**, NOT Mewar (Rana Sanga was earlier, 1527 Khanwa). **2022 Q95** direct ask.
 
 ### Exam Facts (raata)
 
-- **Diwan-i-Ariz** = military admin
-- **Rohtas Fort** — vs Humayun, Bihar
-- **Chausa 1539 | Kannauj 1540** — military defeats of Humayun
-- **Sammel 1544** vs **Rao Maldeo (Marwar)**
-- **Jaita & Kumpa** — Rathore heroes — **Marwar**
-- **Kalinjar 1545** — death during siege
-- Dagh/branding tradition — precursor to Mughal chehra-dagh
+- **Diwan-i-Ariz** handled military administration.
+- **Rohtas Fort** in Bihar was built against the Humayun threat.
+- **Chausa 1539** and **Kannauj 1540** were Sher Shah's military defeats of Humayun.
+- **Sammel 1544** was fought against **Rao Maldeo of Marwar**.
+- **Jaita and Kumpa** were Rathore heroes of **Marwar**.
+- **Kalinjar 1545** was the siege during which Sher Shah died.
+- The dagh or branding tradition was a precursor to Mughal chehra-dagh.
 
 ### PYQs — Military Reforms
 
 1. **(UPPCS 2022, Q95)** Jayata and Kumpa — place associated?  
-   → **C (Marwar)** — generals of **Rao Maldeo**; Battle of **Sammel 1544**.
+   → **C (Marwar)** — generals of **Rao Maldeo**; Battle of **Sammel 1544**
 
 2. **(UPPCS 2025, Q79)** Chausa & Kannauj in battle chronology — Sher Shah military victories.
 
@@ -554,9 +554,9 @@ D. Neither 1 nor 2
 **Q2.** Arrange the following events in chronological order:
 
 1. Battle of Kannauj (Bilgram)
-2. Battle of Chausa
-3. Death of Sher Shah at Kalinjar
-4. Battle of Sammel
+2. Battle of Chausa.
+3. Death of Sher Shah at Kalinjar.
+4. Battle of Sammel.
 
 Options:
 A. 2, 1, 4, 3
@@ -567,7 +567,7 @@ D. 4, 2, 1, 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A (2-1-4-3)** — Chausa **1539** → Kannauj **1540** → Sammel **1544** → Kalinjar death **1545**.
+**Ans: A (2-1-4-3)** — Chausa **1539** → Kannauj **1540** → Sammel **1544** → Kalinjar death **1545**
 
 </details>
 
@@ -653,7 +653,7 @@ D. Mewar
 <details>
 <summary>Show answer</summary>
 
-**Ans: C (Marwar)** — Rathore generals under **Rao Maldeo** — **2022 Q95**.
+**Ans: C (Marwar)** — Rathore generals under **Rao Maldeo** — **2022 Q95**
 
 </details>
 
@@ -673,7 +673,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Sarkar–pargana hierarchy + **Munshif = accountant**.
+**Ans: C** — Sarkar–pargana hierarchy + **Munshif = accountant**
 
 </details>
 
@@ -694,10 +694,10 @@ D. Diwan-i-Wazarat
 
 **Q10.** Arrange the following **monuments** in chronological order:
 
-1. Humayun's Tomb, Delhi
-2. Atala Mosque, Jaunpur
-3. Sher Shah's Tomb, Sasaram
-4. Rabia Daurani's Tomb, Aurangabad
+1. Humayun's Tomb, Delhi.
+2. Atala Mosque, Jaunpur.
+3. Sher Shah's Tomb, Sasaram.
+4. Rabia Daurani's Tomb, Aurangabad.
 
 Options:
 A. 2, 3, 1, 4
@@ -836,10 +836,10 @@ D. Neither 1 nor 2
 
 **Q18.** Arrange the following battles in chronological order (UPPCS 2019 pattern):
 
-1. Battle of Sarnul
-2. Battle of Bilgram
-3. Battle of Dharmat
-4. Battle of Jajau
+1. Battle of Sarnul.
+2. Battle of Bilgram.
+3. Battle of Dharmat.
+4. Battle of Jajau.
 
 Options:
 A. II, I, III, IV
@@ -900,7 +900,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — **Marwar** context — **2022 Q95**.
+**Ans: C** — **Marwar** context — **2022 Q95**
 
 </details>
 
@@ -921,10 +921,10 @@ D. Shashani
 
 **Q23.** Arrange per **UPPCS 2025 Q79** pattern:
 
-1. Battle of Kannauj
-2. Battle of Samugarh
-3. Battle of Chausa
-4. Battle of Dharmat
+1. Battle of Kannauj.
+2. Battle of Samugarh.
+3. Battle of Chausa.
+4. Battle of Dharmat.
 
 Options:
 A. 3, 4, 2, 1
@@ -935,7 +935,7 @@ D. 1, 3, 4, 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: B (3-1-4-2)** — Chausa → Kannauj → Dharmat → Samugarh — coded **4-2-3-1** in 2025 paper = option **C** there; here direct order **3,1,4,2**.
+**Ans: B (3-1-4-2)** — Chausa → Kannauj → Dharmat → Samugarh — coded **4-2-3-1** in 2025 paper = option **C** there; here direct order **3,1,4,2**
 
 </details>
 
@@ -1057,7 +1057,7 @@ D. Battle of Tarain
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — After **Jaita & Kumpa** valour at **Sammel 1544**.
+**Ans: B** — After **Jaita & Kumpa** valour at **Sammel 1544**
 
 </details>
 
@@ -1161,7 +1161,7 @@ D. Jarib — A type of tax
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — **Diwan** was **central finance minister**, not provincial revenue chief; **D** also false (Jarib = rope) but single best key **C**.
+**Ans: C** — **Diwan** was **central finance minister**, not provincial revenue chief; **D** also false (Jarib = rope) but single best key **C**
 
 </details>
 
@@ -1206,10 +1206,10 @@ D. Mewar
 
 **Q79.** Arrange the following events in correct chronological order.
 
-1. Battle of Kannauj  
-2. Battle of Daurah  
-3. Battle of Samugarh  
-4. Battle of Chausa
+1. Battle of Kannauj.
+2. Battle of Daurah.
+3. Battle of Samugarh.
+4. Battle of Chausa.
 
 Select the correct answer from the code given below:
 
@@ -1222,7 +1222,7 @@ D. 2, 4, 1, 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: C (4-2-3-1)** — **Chausa 1539** → **Kannauj 1540** → **Dharmat/Daurah 1658** → **Samugarh 1658**.
+**Ans: C (4-2-3-1)** — **Chausa 1539** → **Kannauj 1540** → **Dharmat/Daurah 1658** → **Samugarh 1658**
 
 </details>
 
@@ -1230,18 +1230,18 @@ D. 2, 4, 1, 3
 
 ## Common Traps — Sher Shah Suri (≥10)
 
-1. **Jarib = tax** — **FALSE** — Jarib = **measuring rope** (**2019 Q87**).
-2. **Dam = silver** — **FALSE** — **Dam = copper**; **Rupiya = silver** (**2019 Q12, Q87**).
-3. **Chausa = decisive exile** — **FALSE** — Chausa **1539** = escape; **Kannauj 1540** = decisive defeat.
-4. **Sher Shah ruled 15 years** — **FALSE** — **1540–1545** (~5 years) as Padshah.
-5. **Jayata–Kumpa = Mewar** — **FALSE** — **Marwar** (Rao Maldeo), not Rana Sanga's Mewar (**2022 Q95**).
-6. **Panipat 1526 = Sher Shah** — **FALSE** — **Babur vs Ibrahim Lodi**; Sher Shah vs **Humayun**.
-7. **Din-i-Ilahi = Sher Shah** — **FALSE** — **Akbar 1582**.
-8. **GT Road = Delhi–Lahore only** — **FALSE** — **Sonargaon to Peshawar** full span.
-9. **Shiqdar = revenue collector** — **FALSE** — **Shiqdar = law/order**; **Amil/Desai** collect revenue.
-10. **Diwan = provincial revenue chief** — **FALSE** — Central **Diwan-i-Wazarat**; provincial = **Amil/Munshif** (**2019 Q87**).
-11. **Sasaram = death place** — **FALSE** — **Tomb at Sasaram**; died at **Kalinjar**.
-12. **Patta vs Qabuliat swap** — **Trap** — **Patta** = state to peasant; **Qabuliat** = peasant acceptance.
-13. **Monument order** — Must know **Atala → Sher Shah tomb → Humayun → Rabia** (**2019 Q91 = B**).
-14. **2025 battle code** — **Chausa–Kannauj before Mughal succession battles** — **Q79 = C**.
-15. **Islam Shah vs Sher Shah dates** — Sher Shah ends **1545**; Islam Shah **1545–1553** — don't merge reigns.
+1. The statement **Jarib = tax** is **FALSE**. **Jarib** was a **measuring rope** (**2019 Q87**).
+2. The statement **Dam = silver** is **FALSE**. **Dam** was copper, while **Rupiya** was silver (**2019 Q12, Q87**).
+3. The statement **Chausa = decisive exile** is **FALSE**. **Chausa 1539** was Humayun's escape, while **Kannauj 1540** was the decisive defeat.
+4. The statement **Sher Shah ruled 15 years** is **FALSE**. He ruled as Padshah only from **1540 to 1545**, about five years.
+5. The pair **Jayata–Kumpa = Mewar** is **FALSE**. They belonged to **Marwar** under Rao Maldeo, not Rana Sanga's Mewar (**2022 Q95**).
+6. The statement **Panipat 1526 = Sher Shah** is **FALSE**. Panipat 1526 was **Babur vs Ibrahim Lodi**, while Sher Shah fought **Humayun**.
+7. The statement **Din-i-Ilahi = Sher Shah** is **FALSE**. **Akbar** founded it in **1582**.
+8. The statement **GT Road = Delhi–Lahore only** is **FALSE**. Sher Shah's road span was **Sonargaon to Peshawar**.
+9. The statement **Shiqdar = revenue collector** is **FALSE**. **Shiqdar** handled law and order, while **Amil/Desai** collected revenue.
+10. The statement **Diwan = provincial revenue chief** is **FALSE** in the 2019 trap. **Diwan-i-Wazarat** was central finance, while **Amil/Munshif** handled local revenue functions (**2019 Q87**).
+11. The statement **Sasaram = death place** is **FALSE**. Sher Shah's tomb is at **Sasaram**, but he died at **Kalinjar**.
+12. Do not swap **Patta** and **Qabuliat**. **Patta** was the state document to the peasant, while **Qabuliat** was the peasant's acceptance.
+13. The monument order is **Atala → Sher Shah tomb → Humayun's Tomb → Rabia** (**2019 Q91 = B**).
+14. In the **2025 battle code**, **Chausa** and **Kannauj** come before the Mughal succession battles. The answer is **Q79 = C**.
+15. Do not merge **Sher Shah** and **Islam Shah** dates. Sher Shah's reign ended in **1545**, and Islam Shah ruled from **1545 to 1553**.

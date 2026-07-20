@@ -104,17 +104,17 @@ AWADH NAWABS (★★★ UP):
 
 ### European Companies — How It Works
 
-- **Why Europeans came:** **Spice demand**, **bullion trade**, **textile exports** (Indian cotton/silk), **decline of overland Silk Route** after **Ottoman** control — **sea route** imperative.
-- **Chartered companies:** **State-backed monopolies** — **EIC (1600)**, **VOC (1602)** — armies, treaties, coins — **company-rule** precursor.
-- **Factory ("factoire"):** **Trading post** with **godowns, agents, guards** — **Surat, Masulipatnam, Hooghly** — not territory annexation at first.
-- **Mughal context:** **Akbar–Jahangir–Shah Jahan** granted **farmans** — Europeans needed **imperial permission** — paid **customs** at **Surat** port.
-- **Portuguese monopoly broken:** **16th c. Portuguese** dominance on **Indian Ocean** ended by **Dutch/English** naval competition **17th c.**
-- **Competition pattern:** **Portuguese** (1500s) → **Dutch/English** (1600s) → **French** join **1660s** → **Danish** minor — **multi-European rivalry** on Indian coasts.
-- **Carnatic Wars:** **Anglo-French** fight through **Indian allies** (Nizam, Nawabs, Carnatic nobles) — **proxy wars** — **2025 Q67** First War ends **1748**.
-- **Transition to empire:** **1757 Plassey**, **1761 Panipat**, **1764 Buxar** — English **from traders to territorial power** — end of "factory-only" era.
-- **UP angle:** **Awadh** Nawabs in **Doab/Gangetic plain** interacted with **English/French** diplomacy — **Lucknow** independent culture centre.
-- **Trap — all Europeans same century:** **FALSE** — **Portuguese 1498** vs **French company 1664** — **170 years apart**.
-- **Trap — EIC ruled India from 1600:** **FALSE** — **1600 charter** = **trade**; **diwani/territory** much later (**1765** Bengal).
+- **Why Europeans came:** Europeans came for spices, bullion trade, and Indian cotton and silk textiles. Ottoman control over older overland routes made the sea route more important.
+- **Chartered companies:** Chartered companies were state-backed monopolies such as the **EIC (1600)** and **VOC (1602)**. They could make treaties, maintain armies, and become precursors of company rule.
+- **Factory ("factoire"):** A factory was a trading post with godowns, agents, and guards. Early factories at **Surat, Masulipatnam, and Hooghly** were not full territorial colonies.
+- **Mughal context:** The Mughals granted **farmans** to regulate European trade. Europeans needed imperial permission and paid customs at ports such as **Surat**.
+- **Portuguese monopoly broken:** The Portuguese dominated the Indian Ocean in the 16th century. Dutch and English naval competition broke that dominance in the 17th century.
+- **Competition pattern:** The **Portuguese** came first, followed by the **Dutch** and **English**, then the **French**, while the **Danish** remained minor. This created multi-European rivalry on Indian coasts.
+- **Carnatic Wars:** The Carnatic Wars were **Anglo-French** conflicts fought through Indian allies such as the Nizam, Nawabs, and Carnatic nobles. The First Carnatic War ended in **1748**.
+- **Transition to empire:** **Plassey (1757)**, **Panipat (1761)**, and **Buxar (1764)** marked the end of the factory-only phase. The English moved from trade toward territorial power.
+- **UP angle:** The Nawabs of **Awadh** in the Gangetic plain interacted with European diplomacy. **Lucknow** became a major independent culture centre.
+- **Trap — all Europeans same century:** All European powers did not arrive in the same century. **Portuguese 1498** and **French company 1664** are about 166 years apart.
+- **Trap — EIC ruled India from 1600:** The **1600** charter gave the EIC trading rights, not rule over India. Territorial power came much later, especially after **1765** in Bengal.
 
 > **Exam note:** Match question pattern: **Company ↔ headquarters in Europe ↔ first Indian factory** — e.g. **EIC ↔ London ↔ Surat 1612**.
 
@@ -130,12 +130,12 @@ AWADH NAWABS (★★★ UP):
 
 ### Exam Facts (raata)
 
-- **1498** Vasco da Gama — first European sea arrival
-- **1600** EIC | **1602** VOC
-- **Factory** = trading post
-- **Farmans** from Mughals
-- **1740s Carnatic Wars** Anglo-French
-- Five companies in syllabus
+- **Vasco da Gama** reached India by sea in **1498**.
+- The **EIC** was chartered in **1600**, and the **VOC** was founded in **1602**.
+- A **factory** meant a trading post.
+- Europeans needed Mughal **farmans** for trade privileges.
+- The **Carnatic Wars** of the 1740s were mainly Anglo-French conflicts.
+- The syllabus covers five companies: Portuguese, Dutch, English, French, and Danish.
 
 ### PYQs — European Frame
 
@@ -165,27 +165,27 @@ AWADH NAWABS (★★★ UP):
 
 ### Portuguese — How It Works
 
-- **1498 Vasco da Gama:** Reached **Calicut** (Kozhikode) — **Zamorin** court — opened **direct Europe–India sea trade** — bypassed **Arab/Ottoman** middlemen.
-- **1500s expansion:** **Cochin**, **Goa**, **Daman**, **Diu** — **Albuquerque (1510)** captured **Goa** — became **capital of Portuguese India (Estado da Índia)**.
-- **Indian Ocean control:** **Ormuz**, **Malacca**, **East African ports** — **string of fortresses** — **cartaze** (pass) required on ships — **maritime toll** system.
-- **Trade goods:** **Spices** (pepper), **horses** to Deccan sultans, **textiles**, **diamonds** — **silver** from Americas paid for Asian goods.
-- **Hooghly factory (Bengal):** **Slave trade, saltpetre, textiles** — **Shah Jahan** expelled Portuguese **1632** — **Shaista Khan** campaign — ended **Bengal Portuguese** foothold.
-- **Decline factors:** **Dutch/English** naval superiority, **Mughal** pressure, **small population**, **overextension** — **17th c. retreat** to **Goa, Daman, Diu**.
-- **Cultural legacy:** **Goan architecture, churches, creole** — **St. Francis Xavier** mission — exam **Goa = Portuguese** match.
-- **Conflict with Mughals:** **Jahangir** allowed **English/Dutch** partly to **counter Portuguese** — strategic Mughal diplomacy.
-- **Trap — Portuguese ruled all India:** **FALSE** — **coastal fortresses** only — never **Delhi/Agra** empire.
-- **Trap — Vasco da Gama conquered Goa:** **FALSE** — **Albuquerque 1510** took **Goa**; Gama **1498** Calicut voyage only.
+- **1498 Vasco da Gama:** Vasco da Gama reached **Calicut (Kozhikode)** and met the **Zamorin**. His voyage opened direct Europe-India sea trade and bypassed Arab and Ottoman middlemen.
+- **1500s expansion:** The Portuguese expanded to **Cochin, Goa, Daman, and Diu**. **Afonso de Albuquerque** captured **Goa in 1510**, and it became the capital of Portuguese India.
+- **Indian Ocean control:** The Portuguese controlled routes through **Ormuz, Malacca, and East African ports**. Their **cartaze** pass system acted as a maritime toll.
+- **Trade goods:** They traded in spices, horses, textiles, diamonds, and silver flows. Horses to Deccan sultans were especially important.
+- **Hooghly factory (Bengal):** The Portuguese factory at Hooghly dealt in slaves, saltpetre, and textiles. **Shah Jahan** expelled them in **1632**, ending their Bengal foothold.
+- **Decline factors:** Dutch and English naval strength, Mughal pressure, small Portuguese manpower, and overextension caused decline. By the 17th century, they retreated mainly to **Goa, Daman, and Diu**.
+- **Cultural legacy:** Portuguese rule left Goan churches, architecture, creole influences, and the mission of **St. Francis Xavier**. For exams, **Goa = Portuguese** is the key match.
+- **Conflict with Mughals:** Jahangir allowed English and Dutch competition partly to counter Portuguese influence. This was part of Mughal coastal diplomacy.
+- **Trap — Portuguese ruled all India:** The Portuguese never ruled all India. They controlled coastal fortresses and did not hold Delhi or Agra.
+- **Trap — Vasco da Gama conquered Goa:** Vasco da Gama reached Calicut in **1498**. **Albuquerque** captured Goa in **1510**.
 
 > **Exam note:** **Goa 1510** + **Hooghly expelled 1632** — pair **Portuguese rise/fall** dates.
 
 ### Exam Facts (raata)
 
-- **1498** Gama at Calicut
-- **1510** Goa — Albuquerque
-- **Cartaze** pass system
-- **Hooghly expelled 1632**
-- Capital **Goa**
-- Declined **17th c.**
+- **Vasco da Gama** reached Calicut in **1498**.
+- **Albuquerque** captured Goa in **1510**.
+- **Cartaze** was the Portuguese pass system.
+- The Portuguese were expelled from **Hooghly in 1632**.
+- **Goa** was the Portuguese capital in India.
+- Portuguese power declined in the **17th century**.
 
 ### PYQs — Portuguese
 
@@ -215,25 +215,25 @@ AWADH NAWABS (★★★ UP):
 
 ### Dutch — How It Works
 
-- **VOC charter 1602:** **United Provinces** monopoly — could **wage war, coin money, treat** — company as **state-actor**.
-- **Anti-Portuguese strategy:** Captured **Portuguese forts** — **Malacca, Ceylon (Sri Lanka), Indonesian spices** — **Indian factories** secondary to **Spice Islands**.
-- **Indian settlements:** **Pulicat (Coromandel)**, **Surat**, **Masulipatnam**, **Chinsurah (Hugli)** — **textile export** to Europe.
-- **Surat presence:** Competed with **English EIC** at **Mughal port** — **mutual rivalry** at Jahangir/Shah Jahan courts.
-- **Bengal trade:** **Saltpetre, muslin, silk** — **Dutch factory Chinsurah** — economic importance for **gunpowder** ingredient export.
-- **Decline in India:** **18th c.** — **English** dominated **Bengal/Bihar** after **Plassey**; Dutch kept **Spice Islands** longer — **India posts minor** by 1800s.
-- **Anglo-Dutch wars:** **17th–18th c.** naval conflicts — **English** gradually **supplanted** Dutch in **Coromandel/Bengal**.
-- **Trap — Dutch founded Goa:** **FALSE** — **Portuguese Goa**; Dutch **Pulicat/Chinsurah**.
-- **Trap — VOC = English:** **FALSE** — **VOC Dutch**, **EIC English**.
+- **VOC charter 1602:** The **United Provinces** chartered the VOC in **1602**. It could wage war, coin money, and make treaties like a state actor.
+- **Anti-Portuguese strategy:** The Dutch captured Portuguese positions in areas such as **Malacca** and **Ceylon**. Indian factories mattered, but the Spice Islands remained their main priority.
+- **Indian settlements:** Dutch settlements included **Pulicat**, **Surat**, **Masulipatnam**, and **Chinsurah**. These factories exported textiles to Europe.
+- **Surat presence:** The Dutch competed with the English EIC at the Mughal port of **Surat**. Their rivalry appeared in Jahangir and Shah Jahan's court politics.
+- **Bengal trade:** Bengal supplied saltpetre, muslin, and silk. **Chinsurah** mattered because saltpetre was useful for gunpowder.
+- **Decline in India:** Dutch power in India declined in the 18th century. The English dominated Bengal and Bihar after Plassey, while Dutch strength remained more important in the Spice Islands.
+- **Anglo-Dutch wars:** The Anglo-Dutch naval wars weakened Dutch positions in Indian waters. The English gradually replaced them in Coromandel and Bengal.
+- **Trap — Dutch founded Goa:** Goa was Portuguese, not Dutch. The Dutch are linked with **Pulicat** and **Chinsurah**.
+- **Trap — VOC = English:** **VOC** was Dutch, while **EIC** was English.
 
 > **Exam note:** **Pulicat + Chinsurah** = **Dutch** — common match-list distractor with **Pondicherry (French)**.
 
 ### Exam Facts (raata)
 
-- **VOC 1602**
-- **Pulicat, Chinsurah, Surat**
-- Spice + textile trade
-- Beat **Portuguese** at sea
-- Declined vs **English 18th c.**
+- The **VOC** was founded in **1602**.
+- **Pulicat, Chinsurah, and Surat** were major Dutch settlements.
+- Dutch trade focused on spices and textiles.
+- The Dutch defeated the **Portuguese** in many maritime zones.
+- Dutch influence in India declined against the **English** in the 18th century.
 
 ### PYQs — Dutch
 
@@ -263,28 +263,28 @@ AWADH NAWABS (★★★ UP):
 
 ### English EIC — How It Works
 
-- **Charter 31 Dec 1600:** **Queen Elizabeth I** — **London** merchants monopoly on **East Indies** — **joint-stock** capital model.
-- **First voyage 1608:** **William Hawkins** aboard **Hector** — reached **Surat** — presented at **Jahangir's court (Agra)** — sought **trade farman**.
-- **Surat factory 1612:** After **Jahangir's farman** (post Hawkins/Roe diplomacy) — **first permanent English factory** in India — **customs** paid to Mughals.
-- **Thomas Roe 1615–19:** **Ambassador of James I** — formal **Mughal treaty** — English **equal footing** with **Portuguese** at Surat — **embassy not conquest**.
-- **Madras (1640):** **Francis Day** — **Fort St George** — **Coromandel** textile hub — later **capital of Madras Presidency**.
-- **Bombay (1668):** **Charles II** received from **Portugal ( dowry)** — **leased to EIC** — **western port** gateway.
-- **Calcutta (1698–1700):** **Fort William** — **Bengal** trade — **textiles, saltpetre** — became **capital of British India** later.
-- **From trade to rule:** **1740s Carnatic Wars**, **1757 Plassey**, **1764 Buxar**, **1765 Diwani** — syllabus Topic 12 covers **arrival**; territorial rule bleeds modern history.
-- **Mughal relationship:** **Jahangir farmans** → **Aurangzeb** renewed with conditions → **18th c.** **weak emperors** → EIC **dictated terms**.
-- **Trap — EIC conquered Delhi 1608:** **FALSE** — **Hawkins** came for **trade permission**, not empire.
-- **Trap — Roe before Hawkins:** **FALSE** — **Hawkins 1608**, **Roe 1615** (**2021 Q75** chronology).
+- **Charter 31 Dec 1600:** **Queen Elizabeth I** chartered the English East India Company on **31 December 1600**. London merchants received a monopoly for East Indies trade under a joint-stock model.
+- **First voyage 1608:** **William Hawkins** sailed on the **Hector** and reached Surat in **1608**. He appeared at **Jahangir's court** to seek trade permission.
+- **Surat factory 1612:** The English established their first permanent factory at **Surat in 1612**. It operated under Mughal permission and paid customs.
+- **Thomas Roe 1615–19:** **Sir Thomas Roe** was James I's ambassador at Jahangir's court. His mission sought stable trade privileges, not conquest.
+- **Madras (1640):** **Francis Day** secured Madras in **1640**. **Fort St George** became a Coromandel textile hub and later the centre of Madras Presidency.
+- **Bombay (1668):** **Charles II** received Bombay from Portugal as dowry and leased it to the EIC in **1668**. It became the western port gateway.
+- **Calcutta (1698–1700):** **Fort William** developed at Calcutta around **1698–1700**. Bengal textiles and saltpetre made it highly valuable.
+- **From trade to rule:** The Carnatic Wars, **Plassey**, **Buxar**, and **Diwani** shifted the English from trade toward rule. Topic 12 focuses on arrival, while territorial rule continues into modern history.
+- **Mughal relationship:** The EIC first depended on Mughal farmans. By the 18th century, weak emperors allowed the company to dictate more terms.
+- **Trap — EIC conquered Delhi 1608:** Hawkins came for trade permission in **1608**. The EIC did not conquer Delhi at that time.
+- **Trap — Roe before Hawkins:** **Hawkins came in 1608**, while **Roe came in 1615**. This is the **2021 Q75** chronology trap.
 
 > **Exam note:** **2023 Q31 Hawkins** — came **1611 as James I envoy** (also 1608 voyage) + **Turkish language** skill → **C both true** — at **Jahangir** court, **not Akbar**.
 
 ### Exam Facts (raata)
 
-- **EIC charter 1600**
-- **Surat factory 1612**
-- **Hawkins 1608** | **Roe 1615–19**
-- **Madras 1640** | **Bombay 1668** | **Calcutta 1698**
-- **Jahangir farmans**
-- Trade → rule later
+- The **EIC** received its charter in **1600**.
+- The first permanent English factory was at **Surat in 1612**.
+- **Hawkins** came in **1608**, and **Roe** came in **1615–19**.
+- **Madras 1640**, **Bombay 1668**, and **Calcutta 1698** are key settlement dates.
+- The English first depended on **Jahangir's farmans**.
+- The English moved from trade to rule only later.
 
 ### PYQs — English EIC
 
@@ -314,27 +314,27 @@ AWADH NAWABS (★★★ UP):
 
 ### French — How It Works
 
-- **Company 1664:** **Louis XIV** era — **Colbert** — late entrant vs **Portuguese/Dutch/English** — focused **Pondicherry** base.
-- **Pondicherry (1674):** **Francois Martin** developed — **Fort Louis** — **French capital in India** — still **Union Territory** today.
-- **Other factories:** **Chandernagore (Bengal)**, **Karikal, Mahe, Yanam** — **coastal enclaves** like Portuguese **Goa model** smaller scale.
-- **Joseph-Francois Dupleix (1742–1754):** Governor — **Carnatic strategy** — supported **Chanda Sahib** vs **Anwaruddin/Nizam** — **proxy Indian wars**.
-- **First Carnatic War (1740–48):** Linked **War of Austrian Succession** in Europe — **French captured Madras 1746** — ended **Treaty of Aix-la-Chapelle 1748** — **Madras returned to English** — **2025 Q67 both statements true → C**.
-- **Second Carnatic War (1749–54):** **Dupleix** vs **Clive** — **Arcot** campaign — French power **checked**.
-- **Third Carnatic War (1758–63):** Part of **Seven Years' War** — **Battle of Wandiwash 1760** — **English** decisive — **Treaty of Paris 1763** — **French** kept **factories** but **no political role**.
-- **Bengal angle:** **Chandernagore** — **1757 Plassey** period **English** captured it — French **Bengal trade** ended politically.
-- **Trap — Dupleix won Carnatic permanently:** **FALSE** — **recalled 1754**; **English** won **Third War**.
-- **Trap — Pondicherry = Dutch:** **FALSE** — **French** — geography MCQ favourite.
+- **Company 1664:** The French East India Company was formed in **1664** under Louis XIV and Colbert. It was a late entrant compared with the Portuguese, Dutch, and English.
+- **Pondicherry (1674):** **Francois Martin** developed Pondicherry in **1674**. It became the French capital in India.
+- **Other factories:** French factories included **Chandernagore, Karikal, Mahe, and Yanam**. These were coastal enclaves on a smaller scale than Portuguese Goa.
+- **Joseph-Francois Dupleix (1742–1754):** Dupleix used Carnatic politics to expand French influence. He supported Indian allies such as **Chanda Sahib** in proxy wars.
+- **First Carnatic War (1740–48):** The war was linked to the War of Austrian Succession in Europe. The French captured Madras in **1746**, and the **Treaty of Aix-la-Chapelle (1748)** returned it to the English.
+- **Second Carnatic War (1749–54):** The Second Carnatic War involved Dupleix and Clive through Indian succession disputes. The Arcot campaign checked French power.
+- **Third Carnatic War (1758–63):** The Third Carnatic War was part of the Seven Years' War. **Wandiwash (1760)** gave the English a decisive advantage, and **Paris 1763** reduced French political power.
+- **Bengal angle:** **Chandernagore** was the French Bengal settlement. The English captured it during the Plassey period, ending French political influence in Bengal.
+- **Trap — Dupleix won Carnatic permanently:** Dupleix did not win permanently. He was recalled in **1754**, and the English won the Third Carnatic War.
+- **Trap — Pondicherry = Dutch:** **Pondicherry** was French, not Dutch. It is a favourite geography match.
 
 > **Exam note:** **2025 Q67 = C** — Statement 1: **First Carnatic War ended 1748** ✓ | Statement 2: **Madras to English** ✓.
 
 ### Exam Facts (raata)
 
-- **French company 1664**
-- **Pondicherry 1674** HQ
-- **Dupleix** — Carnatic Wars
-- **1748 Aix-la-Chapelle** — 2025 Q67
-- **Wandiwash 1760** — English win
-- **Paris 1763** — French political defeat
+- The **French company** was founded in **1664**.
+- **Pondicherry** became the French headquarters in **1674**.
+- **Dupleix** is linked with the Carnatic Wars.
+- **Aix-la-Chapelle 1748** is the key treaty for **2025 Q67**.
+- **Wandiwash 1760** was an English victory.
+- **Paris 1763** marked French political defeat in India.
 
 ### PYQs — French
 
@@ -364,24 +364,24 @@ AWADH NAWABS (★★★ UP):
 
 ### Danish — How It Works
 
-- **Company 1616:** **Danish-Norwegian** monarchy charter — **small capital** — could not compete with **VOC/EIC** scale.
-- **Tranquebar (Tharangambadi) 1620:** **Coromandel coast** — **Fort Dansborg** — **only significant Danish territory** in India — **Tamil Nadu**.
-- **Serampore (Frederiksnagore):** **Bengal** — **mission press**, **Serampore College** — **Baptist missionaries** (Carey, Ward, Marshman) — **19th c.** sold to **British**.
-- **Trade scope:** **Textiles, pepper** — **limited volume** — **neutral** in many Anglo-French wars — **minor diplomatic role**.
-- **Why exam tests Denmark:** **Negative matching** — **NOT French/Portuguese** — **Tranquebar** unique identifier.
-- **Decline:** **1845** Tranquebar sold to **British** — **company dissolved** — no lasting empire.
-- **Trap — Serampore = French:** **FALSE** — **Danish** then **missionary/British**.
-- **Trap — Danish company 1600:** **FALSE** — **1616** (after EIC 1600, VOC 1602).
+- **Company 1616:** The Danish-Norwegian monarchy chartered the Danish East India Company in **1616**. Its limited capital prevented it from matching the VOC or EIC.
+- **Tranquebar (Tharangambadi) 1620:** **Tranquebar** on the Coromandel coast became the main Danish settlement in **1620**. **Fort Dansborg** is its key identifier.
+- **Serampore (Frederiksnagore):** **Serampore** in Bengal became important for missions, printing, and Serampore College. It was later sold to the British.
+- **Trade scope:** Danish trade included textiles and pepper but remained limited. Denmark played only a minor diplomatic role in India.
+- **Why exam tests Denmark:** Denmark is usually tested through negative matching. **Tranquebar** is the unique identifier.
+- **Decline:** The Danes sold Tranquebar to the British in **1845**. They left no lasting territorial empire in India.
+- **Trap — Serampore = French:** **Serampore** was Danish before its later missionary and British phase.
+- **Trap — Danish company 1600:** The Danish company was founded in **1616**, after the EIC and VOC.
 
 > **Exam note:** **Tranquebar = Danish** — **one-line raata** enough for most MCQs on smallest company.
 
 ### Exam Facts (raata)
 
-- **Danish EIC 1616**
-- **Tranquebar 1620** — Fort Dansborg
-- **Serampore** Bengal — missions
-- Sold to **British 1845**
-- Smallest European presence
+- The **Danish EIC** was founded in **1616**.
+- **Tranquebar** was founded in **1620** and is linked with Fort Dansborg.
+- **Serampore** in Bengal is linked with Danish missions.
+- Danish settlements were sold to the **British in 1845**.
+- Denmark had the smallest European presence in the syllabus.
 
 ### PYQs — Danish
 
@@ -411,17 +411,17 @@ AWADH NAWABS (★★★ UP):
 
 ### British Travellers — How It Works
 
-- **Ralph Fitch (1585–91):** **Merchant** — visited **Agra, Banaras, Bengal** — **before EIC factory** — earliest **English** India account in syllabus chronology — **first in 2021 Q75**.
-- **William Hawkins (1608–11):** **EIC captain** — **Jahangir's court** — knew **Turkish** ( Ottoman service earlier) — **James I envoy** — **2023 Q31 both statements true**.
-- **Nicholas Downton (1614):** **EIC commander** — **Surat** — secured **trade against Portuguese** — between Hawkins and Roe.
-- **Sir Thomas Roe (1615–19):** **Ambassador** — **Jahangir court** — **Persian correspondence** — obtained **farmans** for **Surat/Ahmedabad** — **not subservient** to Mughals but **diplomatic parity** sought.
-- **Francois Bernier (1656–68):** **French physician** but **key Mughal chronicle** — **Aurangzeb court** — **economic critique** of **jagirdari decay** — often asked as **traveller** not French politics.
-- **Jean-Baptiste Tavernier (1640s–1660s):** **Jeweller/merchant** — **six voyages** — **diamonds, trade routes** — **Aurangzeb** audience.
-- **Niccolao Manucci (1650s–1700s):** **Venetian** — **Storia do Mogor** — lived **Goa, Delhi, Madras** — **Shivaji, Aurangzeb** eyewitness.
-- **Why travellers matter:** **Primary sources** for **UPPCS** + **farmans** evidence for **EIC legitimacy**.
-- **2021 Q75 order:** **Fitch (II) → Hawkins (I) → Downton (IV) → Roe (III)** = **A (II, I, IV, III)**.
-- **Trap — Bernier = English:** **FALSE** — **French** doctor; wrote in **French**.
-- **Trap — Roe 1608:** **FALSE** — **Hawkins 1608**, **Roe 1615**.
+- **Ralph Fitch (1585–91):** Ralph Fitch was an English merchant who visited **Agra, Banaras, and Bengal** before the EIC had a factory. He is the earliest traveller in the **2021 Q75** list.
+- **William Hawkins (1608–11):** William Hawkins was an EIC captain at **Jahangir's court**. He knew Turkish and is treated as James I's envoy in **2023 Q31**.
+- **Nicholas Downton (1614):** Nicholas Downton was an EIC commander at **Surat**. He falls chronologically between Hawkins and Roe.
+- **Sir Thomas Roe (1615–19):** Sir Thomas Roe was James I's ambassador at Jahangir's court. He sought farmans for English trade at places such as Surat and Ahmedabad.
+- **Francois Bernier (1656–68):** Bernier was a **French** physician and a key Mughal chronicler under Aurangzeb. He is often tested as a traveller, not as a French political agent.
+- **Jean-Baptiste Tavernier (1640s–1660s):** Tavernier was a jeweller and merchant who made several voyages. He is linked with diamonds, trade routes, and Mughal India.
+- **Niccolao Manucci (1650s–1700s):** Manucci was a Venetian writer of **Storia do Mogor**. He lived in Goa, Delhi, and Madras and wrote about Shah Jahan, Aurangzeb, and Shivaji's era.
+- **Why travellers matter:** Travellers provide primary-source evidence for UPPCS. Hawkins and Roe also help explain the EIC's early legal position through farmans.
+- **2021 Q75 order:** The correct order is **Fitch → Hawkins → Downton → Roe**. The code is **A (II, I, IV, III)**.
+- **Trap — Bernier = English:** Bernier was **French**, not English.
+- **Trap — Roe 1608:** **Hawkins** came in **1608**, while **Roe** came in **1615**.
 
 > **Exam note:** **Hawkins vs Roe** — both **Jahangir** — never **Akbar** (**2023 Q31** trap option mentally).
 
@@ -439,12 +439,12 @@ AWADH NAWABS (★★★ UP):
 
 ### Exam Facts (raata)
 
-- **Fitch earliest** English traveller listed
-- **Hawkins 1608** — Jahangir
-- **Roe 1615–19** — ambassador
-- **2021 Q75 = A**
-- **2023 Q31 = C**
-- **Bernier** — Aurangzeb
+- **Fitch** is the earliest English traveller listed here.
+- **Hawkins** came in **1608** and visited Jahangir's court.
+- **Roe** was ambassador at Jahangir's court in **1615–19**.
+- **2021 Q75** has answer code **A**.
+- **2023 Q31** has answer code **C**.
+- **Bernier** is linked with Aurangzeb.
 
 ### PYQs — Travellers
 
@@ -474,17 +474,17 @@ AWADH NAWABS (★★★ UP):
 
 ### Awadh — How It Works
 
-- **Mughal subah:** **Awadh** province included **Lucknow, Banaras, Allahabad** region — rich **agricultural Doab** — strategic for **Delhi/Bengal**.
-- **Saadat Khan Burhan-ul-Mulk (1722):** Appointed **subahdar** — founded **Nawabi line** — **semi-independent** revenue and army — **Mughal emperor nominal head**.
-- **Safdar Jung (1739–1754):** **Wazir of Mughal Empire** also — **Awadh power peak** early — conflict with **Marathas** and **Rohillas**.
-- **Shuja-ud-Daula (1754–1775):** **Third Battle of Panipat 1761** — allied **Abdali** vs **Marathas** — defeated near **Banaras** region conflicts also — **Treaty of Allahabad 1765** after **Buxar** weakened Awadh vs **English**.
-- **Asaf-ud-Daula (1775–1797):** Shifted capital **Lucknow** — **Faizabad-Lucknow** culture — **Bara Imambara**, **Shia festivals** — **British subsidiary alliance** — **Resident at Lucknow**.
-- **Later Nawabs:** **Ghazi-ud-Din, Nasir-ud-Din, Wajid Ali Shah** — **declining power** — **British control** increased — **1856 annexation** on **misgovernance** charge — **Wajid Ali** exiled to **Calcutta**.
-- **1857 connection:** **Lucknow siege** — **Begum Hazrat Mahal** led revolt after **Wajid Ali** removed — brief cross-note only.
-- **Cultural legacy:** **Kathak, Urdu, Awadhi tehzeeb**, **Lucknow gharana** — exam **culture match** separate from political dates.
-- **2025 Q127:** **Awadh acquisition** chronology among **Indigo Revolt, Ilbert Bill, Afghan War** — **1856 annexation** date anchor.
-- **Trap — Awadh independent from Akbar:** **FALSE** — **Nawabi independence 18th c.** not Mughal founding era.
-- **Trap — Saadat Khan = Bengal:** **FALSE** — **Awadh/Lucknow** line.
+- **Mughal subah:** Awadh was a Mughal province including **Lucknow, Banaras, and Allahabad** regions. Its rich agricultural Doab made it strategic between Delhi and Bengal.
+- **Saadat Khan Burhan-ul-Mulk (1722):** Saadat Khan was appointed subahdar in **1722** and founded the Nawabi line. Awadh became semi-independent in revenue and army matters while accepting nominal Mughal authority.
+- **Safdar Jung (1739–1754):** Safdar Jung also served as Wazir of the Mughal Empire. Early Awadh power peaked under him amid conflicts with Marathas and Rohillas.
+- **Shuja-ud-Daula (1754–1775):** Shuja-ud-Daula allied with Abdali against the Marathas at **Panipat III in 1761**. After **Buxar**, the **Treaty of Allahabad 1765** weakened Awadh before the English.
+- **Asaf-ud-Daula (1775–1797):** Asaf-ud-Daula shifted the capital to **Lucknow**. He is linked with **Bara Imambara**, Shia festivals, and the growth of Lucknow culture.
+- **Later Nawabs:** Later rulers such as **Ghazi-ud-Din, Nasir-ud-Din, and Wajid Ali Shah** lost power as British control increased. Awadh was annexed in **1856** on the charge of misgovernance.
+- **1857 connection:** The annexation helped create the background for the **Lucknow revolt** of 1857. **Begum Hazrat Mahal** led resistance after Wajid Ali Shah was removed.
+- **Cultural legacy:** Awadh is linked with **Kathak, Urdu, Awadhi tehzeeb, and the Lucknow gharana**. Culture matches should be kept separate from political date questions.
+- **2025 Q127:** Awadh acquisition is a chronology anchor because annexation occurred in **1856**. It comes before the Indigo Revolt, Second Anglo-Afghan War, and Ilbert Bill.
+- **Trap — Awadh independent from Akbar:** Awadh's Nawabi independence belongs to the **18th century**, not Akbar's period.
+- **Trap — Saadat Khan = Bengal:** **Saadat Khan** founded the Awadh line, not the Bengal Nawabi line.
 
 > **Exam note:** **Awadh = UP heartland** — **Lucknow, Faizabad, Banaras** — UPPCS **state-specific** priority.
 
@@ -500,12 +500,12 @@ AWADH NAWABS (★★★ UP):
 
 ### Exam Facts (raata)
 
-- **1722** Saadat Khan
-- Capital **Lucknow**
-- **Semi-independent** Nawabi
-- **Shuja-ud-Daula** — Panipat 1761
-- **British annexation 1856**
-- **2025 Q127** chronology
+- **Saadat Khan** founded the Awadh Nawabi line in **1722**.
+- **Lucknow** became the main Nawabi capital.
+- Awadh was a **semi-independent** Nawabi state.
+- **Shuja-ud-Daula** is linked with Panipat **1761**.
+- The British annexed Awadh in **1856**.
+- **2025 Q127** tests this chronology.
 
 ### PYQs — Awadh
 
@@ -1221,17 +1221,17 @@ D. 1, 3, 2, 4
 
 ## Common Traps — Later Medieval India (≥10)
 
-1. **Roe 1608 / Akbar court** — **FALSE** — **Hawkins 1608, Jahangir**; **Roe 1615–19**.
-2. **Gama captured Goa** — **FALSE** — **Albuquerque 1510**; Gama **1498 Calicut**.
-3. **Tranquebar = Dutch** — **FALSE** — **Danish 1620**.
-4. **Pondicherry = Portuguese** — **FALSE** — **French 1674**.
-5. **EIC charter 1498** — **FALSE** — **1600**; **1498 = Gama**.
-6. **First factory Calcutta** — **FALSE** — **Surat 1612** first English.
-7. **Bernier = English** — **FALSE** — **French** physician at **Aurangzeb** court.
-8. **2021 Q75 order** — **Fitch before Hawkins** — **A (II,I,IV,III)**.
-9. **2025 Q67** — Both statements on **Aix-la-Chapelle** true → **C**.
-10. **Saadat Khan = Bengal Nawab** — **FALSE** — **Awadh 1722**.
-11. **Awadh capital Delhi** — **FALSE** — **Lucknow/Faizabad**.
-12. **Dupleix = English** — **FALSE** — **French** Carnatic Wars.
-13. **VOC = English** — **FALSE** — **Dutch 1602**.
-14. **Hooghly Portuguese till 1856** — **FALSE** — expelled **1632**.
+1. **Roe did not come in 1608 or visit Akbar's court.** **Hawkins** came in **1608** to Jahangir, while **Roe** came in **1615–19**.
+2. **Vasco da Gama did not capture Goa.** **Albuquerque** captured Goa in **1510**, while Gama reached Calicut in **1498**.
+3. **Tranquebar was not Dutch.** It was a **Danish** settlement from **1620**.
+4. **Pondicherry was not Portuguese.** It became the **French** headquarters in **1674**.
+5. **The EIC charter was not issued in 1498.** The EIC charter came in **1600**, while **1498** marks Gama's arrival.
+6. **The first English factory was not Calcutta.** The first permanent English factory was **Surat in 1612**.
+7. **Bernier was not English.** He was a **French** physician at Aurangzeb's court.
+8. **The 2021 Q75 traveller order starts with Fitch.** The full order is **Fitch → Hawkins → Downton → Roe**, code **A (II, I, IV, III)**.
+9. **The 2025 Q67 Aix-la-Chapelle statements are both true.** The correct answer is **C**.
+10. **Saadat Khan was not a Bengal Nawab.** He founded the Awadh line in **1722**.
+11. **Awadh's capital was not Delhi.** Remember **Lucknow/Faizabad**.
+12. **Dupleix was not English.** He was the **French** governor linked with the Carnatic Wars.
+13. **VOC was not English.** **VOC** was Dutch and was founded in **1602**.
+14. **Portuguese Hooghly did not last until 1856.** The Portuguese were expelled from Hooghly in **1632**.

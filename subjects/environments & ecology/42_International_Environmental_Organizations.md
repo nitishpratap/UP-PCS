@@ -146,15 +146,15 @@ KEY TRAPS:
 
 ### UNEP — How It Works
 
-- **UNEP established 1972** following **Stockholm Conference** — mandate to coordinate UN environmental activities, assist developing countries, and catalyse treaty development — **not** a World Environment Organization with enforcement powers over sovereign states.
-- **Headquarters: Nairobi, Kenya** — **only major UN programme HQ in Global South** — trap: "UNEP HQ Geneva/New York" = **FALSE**.
-- **Flagship reports**: **Global Environment Outlook (GEO)** — comprehensive state-of-environment assessment; **Emissions Gap Report** (annual) — tracks gap between **country pledges (NDCs)** and pathways to **1.5°C/2°C** — UPPCS **2024 Q6** direct match.
-- **Green Economy Report (2011)**: *Towards a Green Economy* — defined green economy for SDG era — links to Topic 15 green economy concept.
-- **Treaty secretariat role**: UNEP (alone or with partners) hosts/administers secretariats for **Montreal Protocol, Basel Convention, Stockholm POPs, Minamata, CMS** — coordinates MEAs (Multilateral Environmental Agreements).
-- **UNEP vs UNDP trap**: **UNEP** = **environment** (pollution, ecosystems, climate reports); **UNDP** = **human development** (poverty, governance, HDI) — both UN but different mandates; **Emissions Gap = UNEP**, **HDR = UNDP**.
-- **UNEP vs IPCC trap**: UNEP **co-created IPCC** but **Emissions Gap Report is UNEP's own policy analysis** — not the same as IPCC Assessment Reports (scientific consensus process).
-- **Global Environment Facility (GEF)**: Established **1991** — financial mechanism serving **UNFCCC, CBD, Montreal Protocol, Stockholm POPs, and Minamata Convention** — UNEP is one of three implementing agencies (with UNDP, World Bank) — UPPCS **2025 Q145**: GEF est. **1991**; not only developed donors.
-- **India engagement**: MoEFCC coordinates with UNEP on treaty compliance; India hosts UNEP events; GEO regional assessments include South Asia.
+- **UNEP established 1972** following **Stockholm Conference**. Mandate to coordinate UN environmental activities, assist developing countries, and catalyse treaty development. **not** A World Environment Organization with enforcement powers over sovereign states.
+- **Headquarters: Nairobi, Kenya**. **only major UN programme HQ in Global South**. Trap: "UNEP HQ Geneva/New York" = **FALSE**.
+- **Flagship reports** **Global Environment Outlook (GEO)**, comprehensive state-of-environment assessment, **Emissions Gap Report** (annual). Tracks gap between **country pledges (NDCs)** and pathways to **1.5°C/2°C**. UPPCS **2024 Q6** direct match.
+- **Green Economy Report (2011)** *Towards a Green Economy*. Defined green economy for SDG era. Links to Topic 15 green economy concept.
+- **Treaty secretariat role** UNEP (alone or with partners) hosts/administers secretariats for **Montreal Protocol, Basel Convention, Stockholm POPs, Minamata, CMS**. Coordinates MEAs (Multilateral Environmental Agreements).
+- **UNEP vs UNDP trap** **UNEP** are **environment** (pollution, ecosystems, climate reports). **UNDP** **human development** (poverty, governance, HDI). Both UN but different mandates. **Emissions Gap = UNEP**, **HDR = UNDP**.
+- **UNEP vs IPCC trap** UNEP **co-created IPCC** but **Emissions Gap Report is UNEP's own policy analysis**. Not the same as IPCC Assessment Reports (scientific consensus process).
+- **Global Environment Facility (GEF)** established **1991**. Financial mechanism serving **UNFCCC, CBD, Montreal Protocol, Stockholm POPs, and Minamata Convention**. UNEP is one of three implementing agencies (with UNDP, World Bank). UPPCS **2025 Q145**: GEF est. **1991**, not only developed donors.
+- **India engagement** MoEFCC coordinates with UNEP on treaty compliance. India hosts UNEP events. GEO regional assessments include South Asia.
 
 > **Exam note:** UPPCS 2024 Q6 — **Emissions Gap Report = UNEP (option 2)**. Trap: assigning it to IMF, UNDP, or IPCC.
 
@@ -176,7 +176,7 @@ KEY TRAPS:
 - Co-parent of **IPCC** with WMO
 - Administers multiple **MEA secretariats**
 - **≠ HDR** (UNDP)
-- GEF linked — est. **1991**
+- GEF linked, est. **1991**.
 
 ### PYQs — UNEP
 
@@ -212,14 +212,14 @@ KEY TRAPS:
 
 ### UNDP — How It Works
 
-- **UNDP operates in ~170 countries** — helps governments implement **SDGs**, climate adaptation projects, biodiversity finance, and governance reforms — **development focus**, not pure environmental science like IPCC.
-- **Human Development Report (HDR)** — first published **1990** — argued development is not GDP alone — introduced **HDI** as composite measure — UPPCS **2025 Q132** tests this.
-- **HDI components (complete)**: **(1) Life expectancy at birth** (health); **(2) Mean years of schooling + expected years of schooling** (education); **(3) GNI per capita (PPP)** (income) — geometric mean of normalised indices.
-- **HDI creators trap**: Developed by **Mahbub ul Haq** (Pakistani economist, HDR pioneer) and **Amartya Sen** (capability approach philosopher-economist) — UPPCS **2025 Q132** Statement 2 "led by Mahbub-ul-Haq and **S. Priesner**" = **FALSE** — correct answer **D (Only 1)**.
-- **UNDP vs UNEP trap**: **UNDP** publishes **HDR/HDI**; **UNEP** publishes **Emissions Gap/GEO** — UPPCS **2024 Q6** match: HDR → **UNDP (3)**.
-- **SDG role**: UNDP supports **SDG localisation** at country level — **NITI Aayog** leads in India but UNDP provides technical/finance support — links SDGs (Topic 15) to institution.
-- **Climate role (secondary to HD)**: Administers **GEF** projects with UNEP/World Bank; **NDC support** in developing countries; **not** the IPCC or UNFCCC secretariat.
-- **India HDI**: Rank ~**134** (HDR 2023-24 approximate band) — Kerala highest among states domestically (intra-country comparison in reports).
+- **UNDP operates in ~170 countries**. Helps governments implement **SDGs**, climate adaptation projects, biodiversity finance, and governance reforms. **development focus**, not pure environmental science like IPCC.
+- **Human Development Report (HDR)**, first published **1990**. Argued development is not GDP alone. Introduced **HDI** as composite measure. UPPCS **2025 Q132** tests this.
+- **HDI components (complete)** **(1) Life expectancy at birth** (health). **(2) Mean years of schooling + expected years of schooling** (education). **(3) GNI per capita (PPP)** (income). Geometric mean of normalised indices.
+- **HDI creators trap** developed by **Mahbub ul Haq** (Pakistani economist, HDR pioneer) and **Amartya Sen** (capability approach philosopher-economist). UPPCS **2025 Q132** Statement 2 "led by Mahbub-ul-Haq and **S. Priesner**" = **FALSE**. Correct answer **D (Only 1)**.
+- **UNDP vs UNEP trap**: **UNDP** publishes **HDR/HDI**, while **UNEP** publishes **Emissions Gap/GEO**. UPPCS **2024 Q6** maps HDR to **UNDP (3)**.
+- **SDG role** UNDP supports **SDG localisation** at country level. **NITI Aayog** leads in India but UNDP provides technical/finance support. Links SDGs (Topic 15) to institution.
+- **Climate role (secondary to HD)** administers **GEF** projects with UNEP/World Bank. **NDC support** In developing countries. **not** The IPCC or UNFCCC secretariat.
+- **India HDI** rank ~**134** (HDR 2023-24 approximate band). Kerala highest among states domestically (intra-country comparison in reports).
 
 > **Exam note:** UPPCS 2025 Q132 — Stmt 1 (HDR 1990 with HDI) = **TRUE**. Stmt 2 (Priesner) = **FALSE** → **D. Only 1**.
 
@@ -238,7 +238,7 @@ KEY TRAPS:
 - HDR first published **1990**
 - HDI = health + education + income
 - Creators: **Mahbub ul Haq + Amartya Sen**
-- **NOT Priesner** — 2025 Q132 trap
+- **NOT Priesner**, 2025 Q132 trap.
 - HQ = **New York**
 - **≠ Emissions Gap Report** (UNEP)
 - SDG implementation support globally
@@ -281,15 +281,15 @@ KEY TRAPS:
 
 ### FAO — Environment-Related Role — How It Works
 
-- **FAO is not primarily an "environment organisation"** — but **agriculture and food systems** cause ~**25–30% of global GHG emissions** and dominate **land/water use** — FAO's environmental role is **sectoral** — exams test this nuance, not FAO as rival to UNEP.
-- **State of the World's Forests (SOFO)** — flagship report jointly with **UNEP** — forest loss, degradation, climate links — India forest cover context via FSI domestically but global data from FAO.
-- **Rotterdam Convention partnership**: **FAO co-administers Rotterdam Convention** with **UNEP** — **Prior Informed Consent (PIC)** for **hazardous pesticides and industrial chemicals** in international trade — Topic 18 crossover.
-- **Codex Alimentarius**: Joint FAO/WHO food standards — pesticide residues, food safety — environmental health overlap.
-- **Committee on Forestry (COFO)** and **Global Forest Resources Assessment (FRA)** — every **5 years** — global forest area, biomass, carbon stock trends — complements **FSI ISFR** for India national data.
-- **Agriculture biodiversity**: **Commission on Genetic Resources for Food and Agriculture** — farm crop/livestock genetic diversity — links to CBD/SDG 2 — distinct from wild biodiversity (IUCN Red List).
-- **Livestock and methane**: FAO reports **Global Livestock Environmental Assessment Model (GLEAM)** — livestock = major **methane (CH₄)** source — climate-agriculture nexus for IPCC WG III mitigation options.
-- **FAO vs FSI vs MoEFCC trap**: **FAO** = **global** agriculture/forest statistics; **FSI** = **India national** forest cover; **MoEFCC** = **Indian policy** — different scales.
-- **India engagement**: FAO supports **National Mission for Sustainable Agriculture**; drought/flood crop monitoring; **Zero Hunger SDG 2** with environmental sustainability components.
+- **FAO is not primarily an "environment organisation"**. But **agriculture and food systems** cause ~**25–30% of global GHG emissions** and dominate **land/water use**. FAO's environmental role is **sectoral**. Exams test this nuance, not FAO as rival to UNEP.
+- **State of the World's Forests (SOFO)**. Flagship report jointly with **UNEP**. Forest loss, degradation, climate links. India forest cover context via FSI domestically but global data from FAO.
+- **Rotterdam Convention partnership** **FAO co-administers Rotterdam Convention** with **UNEP**. **Prior Informed Consent (PIC)** for **hazardous pesticides and industrial chemicals** in international trade. Topic 18 crossover.
+- **Codex Alimentarius** joint FAO/WHO food standards, pesticide residues, food safety, environmental health overlap.
+- **Committee on Forestry (COFO)** and **Global Forest Resources Assessment (FRA)**, every **5 years**. Global forest area, biomass, carbon stock trends. Complements **FSI ISFR** for India national data.
+- **Agriculture biodiversity** **Commission on Genetic Resources for Food and Agriculture**, farm crop/livestock genetic diversity, links to CBD/SDG 2. Distinct from wild biodiversity (IUCN Red List).
+- **Livestock and methane** FAO reports **Global Livestock Environmental Assessment Model (GLEAM)**. Livestock = major **methane (CH₄)** source. Climate-agriculture nexus for IPCC WG III mitigation options.
+- **FAO vs FSI vs MoEFCC trap** **FAO** are **global** agriculture/forest statistics. **FSI** **India national** forest cover, **MoEFCC** **Indian policy**, different scales.
+- **India engagement** FAO supports **National Mission for Sustainable Agriculture**, drought/flood crop monitoring. **Zero Hunger SDG 2** with environmental sustainability components.
 
 > **Exam note:** FAO HQ = **Rome** — NOT Nairobi (UNEP) or Geneva (IPCC). Environment role = **agriculture-forestry-chemicals**, not climate science assessment (IPCC).
 
@@ -306,8 +306,8 @@ KEY TRAPS:
 ### Exam Facts (raata)
 
 - FAO HQ = **Rome, Italy**
-- UN **specialised agency** — food/agriculture
-- **SOFO** with UNEP — forests
+- UN **specialised agency**, food/agriculture.
+- **SOFO** with UNEP, forests.
 - **Rotterdam Convention** with UNEP
 - Agriculture ~**25–30%** GHG share (exam range)
 - **≠ IPCC** (assesses all sectors)
@@ -349,15 +349,15 @@ KEY TRAPS:
 
 ### UNESCO — How It Works
 
-- **UNESCO is not a pollution/climate regulator** like UNEP — exam role = **heritage conservation, biosphere reserves, scientific cooperation, environmental education**.
-- **World Heritage Convention (1972)** — UNESCO administers **World Heritage List** via **World Heritage Committee** — **cultural**, **natural**, or **mixed** sites with Outstanding Universal Value.
-- **Jaipur (Pink City)** inscribed **2019** at **43rd session** — UPPCS 2019 pattern — Rajasthan/UP tourism heritage crossover.
-- **Man and the Biosphere (MAB) Programme** — designates **biosphere reserves** (Nilgiri, Sundarbans, Nanda Devi) — three zones: core, buffer, transition.
-- **UNESCO vs UNEP trap**: UNESCO = heritage/education; UNEP = environmental treaties and Emissions Gap — never swap reports.
-- **UNESCO vs IUCN**: IUCN evaluates **extinction risk (Red List)**; UNESCO **inscribes heritage sites** — IUCN advises natural WH nominations.
-- **Limits to Growth (2019 Q147 trap)**: Propounded by **Club of Rome (1972)** — **NOT UNESCO**.
-- **ESD for 2030**: UNESCO leads environmental education for sustainable development — SDG 4.7 link.
-- **World Heritage in Danger**: Committee flags sites threatened by pollution, dams, urbanization — monitoring under WH framework.
+- **UNESCO is not a pollution/climate regulator** like UNEP. Exam role = **heritage conservation, biosphere reserves, scientific cooperation, environmental education**.
+- **World Heritage Convention (1972)**. UNESCO administers **World Heritage List** via **World Heritage Committee**. **cultural**, **natural**, or **mixed** sites with Outstanding Universal Value.
+- **Jaipur (Pink City)** inscribed **2019** at **43rd session**. UPPCS 2019 pattern. Rajasthan/UP tourism heritage crossover.
+- **Man and the Biosphere (MAB) Programme**. Designates **biosphere reserves** (Nilgiri, Sundarbans, Nanda Devi). Three zones: core, buffer, transition.
+- **UNESCO vs UNEP trap** UNESCO = heritage/education. UNEP = environmental treaties and Emissions Gap, never swap reports.
+- **UNESCO vs IUCN** IUCN evaluates **extinction risk (Red List)**. UNESCO **inscribes heritage sites**. IUCN advises natural WH nominations.
+- **Limits to Growth (2019 Q147 trap)** propounded by **Club of Rome (1972)**, **NOT UNESCO**.
+- **ESD for 2030** UNESCO leads environmental education for sustainable development. SDG 4.7 link.
+- **World Heritage in Danger** committee flags sites threatened by pollution, dams, urbanization, monitoring under WH framework.
 - **International Geoparks Programme**: Conserves geological heritage + local sustainable development.
 
 > **Exam note:** Limits to Growth = **Club of Rome** — NOT UNESCO (2019 Q147). Jaipur WH inscription = **UNESCO Committee 2019**.
@@ -421,14 +421,14 @@ KEY TRAPS:
 
 ### IUCN — How It Works
 
-- **IUCN founded 1948** — world's oldest and largest global environmental network — **government + civil society** members — **not** a UN specialised agency but **official observer** status at UN.
-- **IUCN Red List** — assesses species in categories: **Extinct (EX)**, **Extinct in Wild (EW)**, **Critically Endangered (CR)**, **Endangered (EN)**, **Vulnerable (VU)**, **Near Threatened (NT)**, **Least Concern (LC)**, plus **Data Deficient (DD)** and **Not Evaluated (NE)**.
-- **Threatened species** = **VU + EN + CR** combined — umbrella term — UPPCS tests this grouping frequently (Topic 4 overlap).
-- **Red List assesses extinction risk** — does **not** ban trade — **CITES** (Convention on International Trade in Endangered Species) regulates **commercial trade** using its own Appendices I–III — **IUCN ≠ CITES trap**.
-- **IUCN and hotspots**: Conservation International used IUCN species data; **biodiversity hotspots** concept (Myers) complements Red List — IUCN also maintains **Red List of Ecosystems**.
-- **IUCN vs WWF trap**: Both HQ **Gland** — **IUCN** = scientific assessment (Red List); **WWF** = NGO campaigning and Living Planet Report — complementary, not same organisation.
-- **IUCN role in CITES**: Provides **scientific data** to CITES on species status — but **CITES decisions** are intergovernmental trade rules — IUCN does not enforce trade bans domestically (WPA in India).
-- **India species examples**: **Ganges river dolphin (EN)**, **Tiger (EN improved from CR)**, **Great Indian Bustard (CR)** — Red List statuses exam-relevant for UP (GIB in Rajasthan/UP fringe).
+- **IUCN founded 1948**. World's oldest and largest global environmental network. **government + civil society** Members. **not** A UN specialised agency but **official observer** status at UN.
+- **IUCN Red List**. Assesses species in categories: **Extinct (EX)**, **Extinct in Wild (EW)**, **Critically Endangered (CR)**, **Endangered (EN)**, **Vulnerable (VU)**, **Near Threatened (NT)**, **Least Concern (LC)**, plus **Data Deficient (DD)** and **Not Evaluated (NE)**.
+- **Threatened species** **VU + EN + CR** combined, umbrella term. UPPCS tests this grouping frequently (Topic 4 overlap).
+- **Red List assesses extinction risk**, does **not** ban trade. **CITES** (Convention on International Trade in Endangered Species) regulates **commercial trade** using its own Appendices I–III, **IUCN is not the same as CITES trap**.
+- **IUCN and hotspots** conservation International used IUCN species data. **biodiversity hotspots** Concept (Myers) complements Red List. IUCN also maintains **Red List of Ecosystems**.
+- **IUCN vs WWF trap** both HQ **Gland**. **IUCN** Scientific assessment (Red List). **WWF** NGO campaigning and Living Planet Report, complementary, not same organisation.
+- **IUCN role in CITES** provides **scientific data** to CITES on species status. But **CITES decisions** are intergovernmental trade rules. IUCN does not enforce trade bans domestically (WPA in India).
+- **India species examples** **Ganges river dolphin (EN)**, **Tiger (EN improved from CR)**, **Great Indian Bustard (CR)**. Red List statuses exam-relevant for UP (GIB in Rajasthan/UP fringe).
 
 > **Exam note:** "IUCN regulates international wildlife trade" = **FALSE** — **CITES** regulates trade; IUCN **assesses risk** via Red List.
 
@@ -493,14 +493,14 @@ KEY TRAPS:
 
 ### WWF — How It Works
 
-- **WWF founded 1961** — one of world's largest conservation NGOs — operates projects in **100+ countries** — fundraising, advocacy, field conservation — **not** an intergovernmental treaty body.
-- **Living Planet Report (LPR)** — published periodically (biennial in recent cycles) — flagship metric: **Living Planet Index (LPI)** — tracks **14,000+ vertebrate populations** — reported **73% average decline** between 1970–2020 (LPR 2024 headline).
-- **Living Planet Index vs Red List trap**: **LPI (WWF)** measures **population abundance trends** (how many individuals); **Red List (IUCN)** measures **extinction risk category** per species — complementary metrics, different questions.
-- **Ecological footprint**: WWF collaborates with **Global Footprint Network** — **Earth Overshoot Day** communication — links consumption to biodiversity loss — Topic 1/15 crossover.
-- **Panda logo**: **Giant panda** as **flagship species** — charismatic megafauna drives fundraising for broader habitat protection (China forests).
-- **WWF vs IUCN trap**: Both **Gland HQ** — **WWF** = NGO advocacy + LPR; **IUCN** = Red List scientific assessment + union of members — exams swap their reports.
-- **WWF vs WMO/IPCC trap**: WWF is **NGO** — does not publish IPCC Assessment Reports — climate science assessment is **IPCC** role.
-- **India programmes**: Terai Arc Landscape (UP/Uttarakhand/Nepal); river dolphin conservation; climate adaptation with communities — Dudhwa/Kanpur Ganga stretch link.
+- **WWF founded 1961**. One of world's largest conservation NGOs. Operates projects in **100+ countries**, fundraising, advocacy, field conservation. **not** an intergovernmental treaty body.
+- **Living Planet Report (LPR)**. Published periodically (biennial in recent cycles). Flagship metric: **Living Planet Index (LPI)**, tracks **14,000+ vertebrate populations**. Reported **73% average decline** between 1970–2020 (LPR 2024 headline).
+- **Living Planet Index vs Red List trap** **LPI (WWF)** measures **population abundance trends** (how many individuals). **Red List (IUCN)** measures **extinction risk category** per species, complementary metrics, different questions.
+- **Ecological footprint** WWF collaborates with **Global Footprint Network**, **Earth Overshoot Day** Communication. Links consumption to biodiversity loss. Topic 1/15 crossover.
+- **Panda logo** **Giant panda** as **flagship species**. Charismatic megafauna drives fundraising for broader habitat protection (China forests).
+- **WWF vs IUCN trap** both **Gland HQ**. **WWF** NGO advocacy + LPR. **IUCN** Red List scientific assessment + union of members, exams swap their reports.
+- **WWF vs WMO/IPCC trap** WWF is **NGO**. Does not publish IPCC Assessment Reports. Climate science assessment is **IPCC** role.
+- **India programmes** terai Arc Landscape (UP/Uttarakhand/Nepal), river dolphin conservation, climate adaptation with communities. Dudhwa/Kanpur Ganga stretch link.
 
 > **Exam note:** Living Planet Report = **WWF**. Red List = **IUCN**. Emissions Gap = **UNEP**. HDR = **UNDP** — four-way report-org trap.
 
@@ -519,7 +519,7 @@ KEY TRAPS:
 - HQ = **Gland** (with IUCN)
 - **Living Planet Report** + **LPI**
 - Panda **flagship** logo
-- **NGO** — not UN agency
+- **NGO**, not UN agency.
 - LPI = population **trends**
 - **≠ Red List** (IUCN)
 
@@ -558,15 +558,15 @@ KEY TRAPS:
 
 ### IPCC — How It Works
 
-- **IPCC established in 1988** jointly by **World Meteorological Organization (WMO)** and **UNEP** — created because policymakers needed authoritative, consensus-based scientific synthesis — not a research laboratory.
-- **Headquarters: Geneva, Switzerland** — small secretariat; bulk of work done by **thousands of volunteer scientists** worldwide drafting and reviewing reports.
-- **Three Working Groups**: **WG I** — physical science basis of climate change; **WG II** — impacts, adaptation, vulnerability; **WG III** — mitigation (emission reduction pathways, costs, technologies).
-- **Assessment Reports (AR)**: Published roughly every **5–7 years** — **AR6** completed **2023** (WG I 2021, Synthesis 2023); earlier AR5 (2014) informed Paris Agreement; AR4 (2007) era of strong mitigation urgency.
-- **Special Reports**: **SR1.5 (2018)** — pathways to limit warming to **1.5°C** — critical for Paris Agreement ambition ratchet; also land, oceans, extreme events reports.
-- **Nobel Peace Prize 2007**: Awarded to **IPCC** (shared with Al Gore) for building informed climate policy consensus — distinguishes IPCC's scientific diplomacy role.
-- **IPCC ≠ UNFCCC trap**: **IPCC** provides **scientific assessment**; **UNFCCC** is the **treaty framework** with **COP** meetings where countries negotiate **NDCs, Kyoto, Paris** — IPCC informs but does not decide policy.
-- **IPCC does NOT**: Set binding emission targets; enforce NDCs; replace national meteorological agencies; conduct primary field experiments — it **reviews and synthesises** published science.
-- **India connection**: Indian scientists contribute as authors/reviewers; **Dr. R.K. Pachauri** chaired IPCC during AR4/AR5 period; MoEFCC uses IPCC findings in NAPCC and UNFCCC submissions.
+- **IPCC established in 1988** jointly by **World Meteorological Organization (WMO)** and **UNEP**. Created because policymakers needed authoritative, consensus-based scientific synthesis, not a research laboratory.
+- **Headquarters: Geneva, Switzerland**, small secretariat. Bulk of work done by **thousands of volunteer scientists** worldwide drafting and reviewing reports.
+- **Three Working Groups** **WG I**. Physical science basis of climate change, **WG II**, impacts, adaptation, vulnerability, **WG III**. Mitigation (emission reduction pathways, costs, technologies).
+- **Assessment Reports (AR)** published roughly every **5–7 years**. **AR6** Completed **2023** (WG I 2021, Synthesis 2023). Earlier AR5 (2014) informed Paris Agreement. AR4 (2007) era of strong mitigation urgency.
+- **Special Reports** **SR1.5 (2018)**. Pathways to limit warming to **1.5°C**. Critical for Paris Agreement ambition ratchet. Also land, oceans, extreme events reports.
+- **Nobel Peace Prize 2007** awarded to **IPCC** (shared with Al Gore) for building informed climate policy consensus. Distinguishes IPCC's scientific diplomacy role.
+- **IPCC is not the same as UNFCCC trap** **IPCC** provides **scientific assessment**. **UNFCCC** Is the **treaty framework** with **COP** meetings where countries negotiate **NDCs, Kyoto, Paris**. IPCC informs but does not decide policy.
+- **IPCC does NOT** set binding emission targets, enforce NDCs, replace national meteorological agencies, conduct primary field experiments. It **reviews and synthesises** published science.
+- **India connection** indian scientists contribute as authors/reviewers. **Dr. R.K. Pachauri** Chaired IPCC during AR4/AR5 period. MoEFCC uses IPCC findings in NAPCC and UNFCCC submissions.
 
 > **Exam note:** Statement "IPCC sets national emission reduction targets under Paris Agreement" = **FALSE** — countries set **NDCs** under **UNFCCC/Paris**; IPCC provides scientific basis only.
 
@@ -584,7 +584,7 @@ KEY TRAPS:
 - IPCC = **1988** (WMO + UNEP)
 - HQ = **Geneva**
 - **Nobel Peace Prize 2007**
-- Publishes **Assessment Reports** — AR6 latest
+- Publishes **Assessment Reports**. AR6 latest.
 - **Does NOT** set policy or NDCs
 - **≠ UNFCCC** (treaty body)
 - SR1.5°C report = **2018**

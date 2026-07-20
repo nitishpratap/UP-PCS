@@ -161,14 +161,14 @@ KEY TRAPS:
 
 ### Stockholm Conference — How It Works
 
-- **Stockholm 1972** convened by UN — **113 countries** participated — theme **"Only One Earth"** — marked environment's entry into **multilateral diplomacy** and domestic law-making worldwide.
-- **Stockholm Declaration (1972)** — 26 principles including: human right to adequate environment; responsibility to protect natural resources; science/technology must serve environment; **development and environment are linked** (precursor to SD concept).
-- **Created UNEP (United Nations Environment Programme)** — decision to establish world's **first global environmental authority** — HQ **Nairobi, Kenya** (not New York/Geneva) — coordinates treaties, assessments, and capacity building.
-- **World Environment Day (WED)** — celebrated **5 June** annually — commemorates Stockholm Conference opening day (1973 onwards) — host country rotates each year.
-- **Domestic law influence in India**: Stockholm catalysed **Water Act 1974** (CPCB/SPCB), **WPA 1972** already in force — post-Stockholm pollution institutions — **MoEF created 1985** (not at Stockholm itself).
-- **Stockholm vs Rio trap**: Stockholm = **1972** environment awareness + UNEP; Rio = **1992** SD + climate/biodiversity treaties — different decades, different outputs.
-- **UNEP functions**: Coordinates **Montreal, Basel, Stockholm POPs, Minamata** secretariats; publishes **GEO (Global Environment Outlook)**; supports treaty negotiations — not a World Environment Organization with enforcement powers.
-- **Legacy**: Shifted environment from fringe science issue to **UN system priority** — enabled later Brundtland (1987) and Rio (1992) architecture.
+- **Stockholm 1972** convened by UN. **113 countries** participated. Theme **"Only One Earth"**. Marked environment's entry into **multilateral diplomacy** and domestic law-making worldwide.
+- The **Stockholm Declaration (1972)** sets out 26 principles, including the human right to an adequate environment, responsibility to protect natural resources, use of science and technology for environmental ends, and the idea that **development and environment are linked** (precursor to the SD concept).
+- **Created UNEP (United Nations Environment Programme)**. Decision to establish world's **first global environmental authority**. HQ **Nairobi, Kenya** (not New York/Geneva). Coordinates treaties, assessments, and capacity building.
+- **World Environment Day (WED)** is celebrated on **5 June** each year to commemorate the opening day of the Stockholm Conference (from 1973 onwards), and the host country rotates annually.
+- **Domestic law influence in India**: Stockholm catalysed **Water Act 1974** (CPCB/SPCB), **WPA 1972** already in force. Post-Stockholm pollution institutions. **MoEF created 1985** (not at Stockholm itself).
+- **Stockholm vs Rio trap**: Stockholm = **1972** environment awareness + UNEP. Rio = **1992** SD + climate/biodiversity treaties. Different decades, different outputs.
+- **UNEP functions**: Coordinates **Montreal, Basel, Stockholm POPs, Minamata** secretariats. Publishes **GEO (Global Environment Outlook)**. Supports treaty negotiations. Not a World Environment Organization with enforcement powers.
+- **Legacy**: Shifted environment from fringe science issue to **UN system priority**. Enabled later Brundtland (1987) and Rio (1992) architecture.
 
 > **Exam note:** UNEP HQ = **Nairobi**. MoEFCC = **1985** — trap: "UNEP/Indian environment ministry created at Stockholm 1972" = **partially wrong** for MoEFCC.
 
@@ -186,9 +186,9 @@ KEY TRAPS:
 
 - Stockholm = **1972**
 - First UN environment conference
-- Created **UNEP** — HQ **Nairobi**
+- Created **UNEP**. HQ **Nairobi**.
 - **WED = 5 June**
-- Stockholm Declaration — 26 principles
+- Stockholm Declaration. 26 principles.
 - Precursor to Rio 1992 architecture
 
 ### PYQs — Stockholm
@@ -225,13 +225,13 @@ KEY TRAPS:
 
 ### Brundtland Commission — How It Works
 
-- **WCED established 1983**, report published **1987** — UN-mandated commission to reconcile **economic development** with **environmental protection** after 1970s–80s growth-vs-ecology conflicts.
-- **Defined sustainable development (SD)** — most quoted exam definition: *"Development that meets the needs of the present without compromising the ability of future generations to meet their own needs."*
-- ***Our Common Future* (1987)** — analysed poverty, population, food security, energy, industry, urbanisation, and environment as **interconnected** — called for **integrated policy** — directly led to **Rio Earth Summit 1992**.
-- **Brundtland ≠ *The Limits to Growth*** — *Limits to Growth* (1972) = **Club of Rome** computer modelling report; Brundtland (1987) = **operational SD definition** — UPPCS 2024 Q51 tests this confusion.
-- **Three pillars popularised**: **economic + social + environmental** sustainability — institutional governance added in later frameworks.
-- **Inter-generational and intra-generational equity** concepts formalised — bridge between Stockholm (1972) environment awareness and Rio (1992) actionable global agenda.
-- **Not a treaty or conference** — a **commission report** — exams ask report name, year, chair, and SD definition — not signing parties.
+- **WCED established 1983**, report published **1987**. UN-mandated commission to reconcile **economic development** with **environmental protection** after 1970s–80s growth-vs-ecology conflicts.
+- **Defined sustainable development (SD)**. Most quoted exam definition: *"Development that meets the needs of the present without compromising the ability of future generations to meet their own needs."*.
+- ***Our Common Future* (1987)**. Analysed poverty, population, food security, energy, industry, urbanisation, and environment as **interconnected**. Called for **integrated policy**. Directly led to **Rio Earth Summit 1992**.
+- **Brundtland ≠ *The Limits to Growth***. *Limits to Growth* (1972) = **Club of Rome** computer modelling report. Brundtland (1987) = **operational SD definition**. UPPCS 2024 Q51 tests this confusion.
+- **Three pillars popularised**: **economic + social + environmental** sustainability. Institutional governance added in later frameworks.
+- **Inter-generational and intra-generational equity** concepts formalised. Bridge between Stockholm (1972) environment awareness and Rio (1992) actionable global agenda.
+- **Not a treaty or conference**. A **commission report**. Exams ask report name, year, chair, and SD definition. Not signing parties.
 - **Legacy for India**: SD embedded in **Article 21** jurisprudence, **NAPCC**, **SDGs**, and **EPA/EIA** balancing principles.
 
 > **Exam note:** UPPCS 2024 Q51 — A true (SD from Brundtland); R false (Brundtland ≠ *Limits to Growth*) → **D (A true, R false)**.
@@ -250,7 +250,7 @@ KEY TRAPS:
 
 - Brundtland Report = **1987**
 - Title = ***Our Common Future***
-- SD definition — most tested
+- SD definition. Most tested.
 - Chair = **Gro Harlem Brundtland**
 - ≠ **Limits to Growth (1972)**
 - Led to **Rio 1992**
@@ -290,14 +290,14 @@ KEY TRAPS:
 
 ### Rio Earth Summit — How It Works
 
-- **Rio 1992** held **3–14 June 1992** — **178 governments** — **118 heads of state** attended — implemented Brundtland SD vision into **binding and non-binding instruments**.
-- **Rio Declaration on Environment and Development** — **27 principles** including: precautionary approach; polluter pays; public participation (Principle 10); environmental impact assessment (Principle 17); **common but differentiated responsibilities (CBDR)** for climate (Principle 7).
-- **Agenda 21** — non-binding **comprehensive SD action plan** for the 21st century — **40 chapters** — local, national, global actions — see §18.4 for detail.
-- **Two major conventions OPENED FOR SIGNATURE at Rio**: **(1) UNFCCC** (climate change framework); **(2) CBD** (biodiversity) — countries signed at summit; entered force later after ratifications.
-- **Non-Legally Binding Authoritative Statement of Principles for a Global Consensus on the Management, Conservation and Sustainable Development of All Types of Forests** — **Forest Principles** — political commitment, not a forest treaty (no "Global Forest Convention" emerged).
-- **Commission on Sustainable Development (CSD)** established to monitor Agenda 21 — later replaced by **High-level Political Forum (HLPF)** post-SDGs 2015.
-- **What Rio did NOT produce trap**: **CITES (1973)**, **Ramsar (1971)**, **Montreal (1987)**, **Basel (1989)** — all **predate Rio** — exams swap treaty years.
-- **India at Rio**: PM participated; signed UNFCCC and CBD; domestic follow-up → **BDA 2002**, climate policy, biodiversity programmes.
+- **Rio 1992** held **3–14 June 1992**. **178 governments**. **118 heads of state** attended. Implemented Brundtland SD vision into **binding and non-binding instruments**.
+- **Rio Declaration on Environment and Development**. **27 principles** including: precautionary approach. Polluter pays. Public participation (Principle 10). Environmental impact assessment (Principle 17). **Common but differentiated responsibilities (CBDR)** for climate (Principle 7).
+- **Agenda 21**. Non-binding **comprehensive SD action plan** for the 21st century. **40 chapters**. Local, national, global actions. See §18.4 for detail.
+- **Two major conventions OPENED FOR SIGNATURE at Rio**: **(1) UNFCCC** (climate change framework). **(2) CBD** (biodiversity). Countries signed at summit. Entered force later after ratifications.
+- **Non-Legally Binding Authoritative Statement of Principles for a Global Consensus on the Management, Conservation and Sustainable Development of All Types of Forests**. **Forest Principles**. Political commitment, not a forest treaty (no "Global Forest Convention" emerged).
+- **Commission on Sustainable Development (CSD)** established to monitor Agenda 21. Later replaced by **High-level Political Forum (HLPF)** post-SDGs 2015.
+- **What Rio did NOT produce trap**: **CITES (1973)**, **Ramsar (1971)**, **Montreal (1987)**, **Basel (1989)**. All **predate Rio**. Exams swap treaty years.
+- **India at Rio**: PM participated. Signed UNFCCC and CBD. Domestic follow-up. **BDA 2002**, climate policy, biodiversity programmes.
 
 > **Exam note:** Rio 1992 outputs = **Rio Declaration + Agenda 21 + UNFCCC + CBD + Forest Principles**. CITES at Rio = **FALSE** (CITES 1973).
 
@@ -314,13 +314,13 @@ KEY TRAPS:
 
 ### Exam Facts (raata)
 
-- Rio = **1992** — Earth Summit / UNCED
+- Rio = **1992**. Earth Summit / UNCED.
 - Rio Declaration = **27 principles**
 - Opened **UNFCCC + CBD** for signature
 - **Agenda 21** adopted
-- CBDR principle — climate equity
+- CBDR principle. Climate equity.
 - CITES **NOT** a Rio product
-- Forest Principles — non-binding
+- Forest Principles. Non-binding.
 
 ### PYQs — Rio 1992
 
@@ -356,13 +356,13 @@ KEY TRAPS:
 
 ### Agenda 21 — How It Works
 
-- **Agenda 21 adopted at Rio 1992** — **40 chapters** in four sections: **(1) Social & Economic Dimensions**; **(2) Conservation & Management of Resources**; **(3) Strengthening Role of Major Groups** (women, youth, indigenous, NGOs, business); **(4) Means of Implementation** (finance, technology transfer, institutions).
-- **Non-binding status** — political commitment, not a treaty — countries implement voluntarily through national policies — confusion with "signed in 1995" = **FALSE** (UPPCS 2025 Q51 Reason trap).
-- **Local Agenda 21 (Chapter 28)** — cities/municipalities develop **local SD strategies** — waste, water, transport, green space integrated — Surat, Pune among early Indian adopters.
-- **Major Groups participation** — Rio model of including **civil society, indigenous peoples, business** in SD governance — influenced later SDG stakeholder frameworks.
+- **Agenda 21 adopted at Rio 1992**. **40 chapters** in four sections: **(1) Social & Economic Dimensions**. **(2) Conservation & Management of Resources**. **(3) Strengthening Role of Major Groups** (women, youth, indigenous, NGOs, business). **(4) Means of Implementation** (finance, technology transfer, institutions).
+- **Non-binding status**. Political commitment, not a treaty. Countries implement voluntarily through national policies. Confusion with "signed in 1995" = **FALSE** (UPPCS 2025 Q51 Reason trap).
+- **Local Agenda 21 (Chapter 28)**. Cities/municipalities develop **local SD strategies**. Waste, water, transport, green space integrated. Surat, Pune among early Indian adopters.
+- **Major Groups participation**. Rio model of including **civil society, indigenous peoples, business** in SD governance. Influenced later SDG stakeholder frameworks.
 - **Institutional follow-up**: **Commission on Sustainable Development (CSD)** monitored Agenda 21 until **2015 SDGs** replaced MDGs/Agenda 21 monitoring with **HLPF**.
-- **Agenda 21 vs Agenda 2030 trap**: **Agenda 21** = Rio **1992** action plan; **2030 Agenda for Sustainable Development** = **2015** SDGs framework — different documents, different years.
-- **Agenda 21 conspiracy trap in exams**: Focus on **official UN definition, year 1992, non-binding, local chapter** — not internet conspiracy narratives.
+- **Agenda 21 vs Agenda 2030 trap**: **Agenda 21** = Rio **1992** action plan. **2030 Agenda for Sustainable Development** = **2015** SDGs framework. Different documents, different years.
+- **Agenda 21 conspiracy trap in exams**: Focus on **official UN definition, year 1992, non-binding, local chapter**. Not internet conspiracy narratives.
 - **India implementation**: National SD strategies, state environment plans, **NITI Aayog SDG Index** descends from Rio-Agenda 21 architecture.
 
 > **Exam note:** UPPCS 2025 Q51 Reason "Agenda 21 signed 1995" = **FALSE**. Correct = **Rio 1992**.
@@ -383,7 +383,7 @@ KEY TRAPS:
 - **40 chapters**
 - Name = agenda for **21st century**
 - Local Agenda 21 = **Chapter 28**
-- **NOT 1995** — 2025 Q51 trap
+- **NOT 1995**. 2025 Q51 trap.
 - ≠ Agenda 2030 (SDGs 2015)
 
 ### PYQs — Agenda 21
@@ -420,14 +420,14 @@ KEY TRAPS:
 
 ### SD Conferences — How It Works
 
-- **Johannesburg 2002 (WSSD, Rio+10)**: Assessed **10 years** of Agenda 21; launched **Type II partnerships** (voluntary multi-stakeholder); emphasised **poverty eradication** as SD prerequisite; **Johannesburg Plan of Implementation (JPOI)**.
-- **Rio+20 (2012, Rio de Janeiro again)**: Outcome document **"The Future We Want"** — launched process for **SDGs** to replace **MDGs**; created **High-level Political Forum (HLPF)** on SD; **green economy** concept debated; **NOT** re-negotiating UNFCCC/CBD.
-- **MDGs (2000–2015)**: **8** Millennium Development Goals — poverty, education, health — predecessor to **17 SDGs**; narrower than SDGs; no standalone environment goal (environment cross-cutting).
-- **SDGs adopted 25 September 2015**: **17 goals, 169 targets, 2030 deadline** — universal (all countries, not just Global South); integrated social-economic-environmental; **India ~1/6 population** → global SDG dependency (2025 Q120).
-- **Paris COP21 (December 2015)**: **Paris Agreement** adopted — same year as SDGs — climate SDG 13 operationalised internationally — see §18.9.
-- **Global Environment Facility (GEF)**: Established **1991** as financial mechanism for conventions — serves UNFCCC, CBD, Montreal Protocol, Stockholm POPs, Minamata — UPPCS 2025 Q145: established **1991**; **not only developed countries** donate ( stmt 2 false).
-- **COP climate conferences**: Annual **Conference of Parties** under UNFCCC — **COP26 Glasgow 2021** (LiFE idea); **COP28 UAE 2023** — not SD conferences but exam-linked to climate SD.
-- **Chronology trap**: Stockholm **72** → Brundtland **87** → Rio **92** → Johannesburg **02** → Rio+20 **12** → SDGs/Paris **15**.
+- **Johannesburg 2002 (WSSD, Rio+10)**: Assessed **10 years** of Agenda 21. Launched **Type II partnerships** (voluntary multi-stakeholder). Emphasised **poverty eradication** as SD prerequisite. **Johannesburg Plan of Implementation (JPOI)**.
+- **Rio+20 (2012, Rio de Janeiro again)**: Outcome document **"The Future We Want"**. Launched process for **SDGs** to replace **MDGs**. Created **High-level Political Forum (HLPF)** on SD. **Green economy** concept debated. **NOT** re-negotiating UNFCCC/CBD.
+- **MDGs (2000–2015)**: **8** Millennium Development Goals. Poverty, education, health. Predecessor to **17 SDGs**. Narrower than SDGs. No standalone environment goal (environment cross-cutting).
+- **SDGs adopted 25 September 2015**: **17 goals, 169 targets, 2030 deadline**. Universal (all countries, not just Global South). Integrated social-economic-environmental. **India ~1/6 population**. Global SDG dependency (2025 Q120).
+- **Paris COP21 (December 2015)**: **Paris Agreement** adopted. Same year as SDGs. Climate SDG 13 operationalised internationally. See §18.9.
+- **Global Environment Facility (GEF)**: Established **1991** as financial mechanism for conventions. Serves UNFCCC, CBD, Montreal Protocol, Stockholm POPs, Minamata. UPPCS 2025 Q145: established **1991**. **Not only developed countries** donate ( stmt 2 false).
+- **COP climate conferences**: Annual **Conference of Parties** under UNFCCC. **COP26 Glasgow 2021** (LiFE idea). **COP28 UAE 2023**. Not SD conferences but exam-linked to climate SD.
+- **Chronology trap**: Stockholm **72**. Brundtland **87**. Rio **92**. Johannesburg **02**. Rio+20 **12**. SDGs/Paris **15**.
 
 > **Exam note:** GEF established **1991** (UPPCS 2025 Q145). Statement "only developed countries are GEF donors" = **FALSE**.
 
@@ -486,14 +486,14 @@ KEY TRAPS:
 
 ### CBD — How It Works
 
-- **CBD opened for signature at Rio 1992** — one of two major Rio treaties — **196 parties** — near-universal membership.
-- **Three objectives (complete — raata)**: **(1) Conservation** of biological diversity; **(2) Sustainable use** of components; **(3) Fair and equitable sharing** of benefits from genetic resource use (ABS).
-- **Cartagena Protocol on Biosafety (2000)**: Regulates **transboundary movement of Living Modified Organisms (LMOs)** — GMO trade — adopted under CBD umbrella.
-- **Nagoya Protocol on Access and Benefit Sharing (2010)**: Implements **ABS** — countries regulate access to genetic resources; benefits shared with provider communities — India key player (neem, turmeric biopiracy history).
-- **India's domestic law**: **Biological Diversity Act 2002** — **NBA Chennai**, SBB, BMC, PBR — implements CBD/Nagoya obligations.
-- **CBD vs CITES trap**: **CBD** = biodiversity conservation + ABS broadly; **CITES** = **international trade** in endangered species — different treaties, different years (CBD 1992, CITES 1973).
-- **Aichi Biodiversity Targets (2010–2020)** replaced by **Kunming-Montreal Global Biodiversity Framework (2022)** — **30×30 target** (30% land/water protected by 2030).
-- **Conference of Parties (COP)**: CBD-COP meets biennially — **COP15 Kunming-Montreal 2022** adopted GBF.
+- **CBD opened for signature at Rio 1992**. One of two major Rio treaties. **196 parties**. Near-universal membership.
+- **Three objectives (complete, raata)**: **(1) Conservation** of biological diversity, **(2) Sustainable use** of components, and **(3) Fair and equitable sharing** of benefits from genetic resource use (ABS).
+- **Cartagena Protocol on Biosafety (2000)**: Regulates **transboundary movement of Living Modified Organisms (LMOs)**. GMO trade. Adopted under CBD umbrella.
+- **Nagoya Protocol on Access and Benefit Sharing (2010)**: Implements **ABS**. Countries regulate access to genetic resources. Benefits shared with provider communities. India key player (neem, turmeric biopiracy history).
+- **India's domestic law**: **Biological Diversity Act 2002**. **NBA Chennai**, SBB, BMC, PBR. Implements CBD/Nagoya obligations.
+- **CBD vs CITES trap**: **CBD** = biodiversity conservation + ABS broadly. **CITES** = **international trade** in endangered species. Different treaties, different years (CBD 1992, CITES 1973).
+- **Aichi Biodiversity Targets (2010–2020)** replaced by **Kunming-Montreal Global Biodiversity Framework (2022)**. **30×30 target** (30% land/water protected by 2030).
+- **Conference of Parties (COP)**: CBD-COP meets biennially. **COP15 Kunming-Montreal 2022** adopted GBF.
 
 > **Exam note:** BDA 2002 implements **CBD** — trap: "BDA implements CITES/Kyoto" = **FALSE**.
 
@@ -508,9 +508,9 @@ KEY TRAPS:
 ### Exam Facts (raata)
 
 - CBD = **Rio 1992**, force **1993**
-- **3 objectives** — conserve, use, share benefits
-- Nagoya **2010** — ABS
-- Cartagena **2000** — biosafety
+- **3 objectives**. Conserve, use, share benefits.
+- Nagoya **2010**. ABS.
+- Cartagena **2000**. Biosafety.
 - India **BDA 2002**
 - Secretariat **Montreal**
 - ≠ CITES (1973 trade focus)
@@ -550,15 +550,15 @@ KEY TRAPS:
 
 ### UNFCCC — How It Works
 
-- **UNFCCC adopted at Rio 1992** — **197 parties** — framework (not detailed emission targets itself) — **Kyoto** and **Paris** are protocols/agreements under this framework.
-- **Ultimate objective (Article 2)**: Stabilise GHG concentrations preventing **dangerous anthropogenic interference** with climate — food production and ecosystems protected — allows sustainable development.
-- **Common But Differentiated Responsibilities (CBDR)**: **Developed countries** lead on emissions reduction and finance; **developing countries** pursue SD with support — core equity principle in negotiations.
-- **Conference of Parties (COP)**: **Supreme body** — meets annually — **COP21 Paris 2015**, **COP26 Glasgow 2021** (LiFE), **COP28 UAE 2023** — sets political direction.
-- **Subsidiary bodies**: **SBSTA** (scientific/technological advice); **SBI** (implementation review) — support COP decisions.
-- **National Communications**: All parties report GHG inventories and policies — **India's NCs** submitted to UNFCCC.
-- **Financial mechanisms**: **GEF** (1991) initially; **Green Climate Fund (GCF)** post-Copenhagen 2009 — support developing country mitigation/adaptation.
-- **India's position**: **Per capita equity** emphasis; **Net Zero 2070** (COP26); **NAPCC 2008** eight missions; third-largest emitter but low per capita historically.
-- **UNFCCC vs Montreal trap**: UNFCCC = **climate/GHGs**; Montreal = **ozone/ODS** — 2024 Q35 direct trap.
+- **UNFCCC adopted at Rio 1992**. **197 parties**. Framework (not detailed emission targets itself). **Kyoto** and **Paris** are protocols/agreements under this framework.
+- **Ultimate objective (Article 2)**: Stabilise GHG concentrations preventing **dangerous anthropogenic interference** with climate. Food production and ecosystems protected. Allows sustainable development.
+- **Common But Differentiated Responsibilities (CBDR)**: **Developed countries** lead on emissions reduction and finance. **Developing countries** pursue SD with support. Core equity principle in negotiations.
+- **Conference of Parties (COP)**: **Supreme body**. Meets annually. **COP21 Paris 2015**, **COP26 Glasgow 2021** (LiFE), **COP28 UAE 2023**. Sets political direction.
+- **Subsidiary bodies**: **SBSTA** (scientific/technological advice). **SBI** (implementation review). Support COP decisions.
+- **National Communications**: All parties report GHG inventories and policies. **India's NCs** submitted to UNFCCC.
+- **Financial mechanisms**: **GEF** (1991) initially. **Green Climate Fund (GCF)** post-Copenhagen 2009. Support developing country mitigation/adaptation.
+- **India's position**: **Per capita equity** emphasis. **Net Zero 2070** (COP26). **NAPCC 2008** eight missions. Third-largest emitter but low per capita historically.
+- **UNFCCC vs Montreal trap**: UNFCCC = **climate/GHGs**. Montreal = **ozone/ODS**. 2024 Q35 direct trap.
 
 > **Exam note:** UNFCCC = **framework** (1992). Binding targets first in **Kyoto 1997**; universal NDC model in **Paris 2015**.
 
@@ -617,14 +617,14 @@ KEY TRAPS:
 
 ### Kyoto Protocol — How It Works
 
-- **Kyoto adopted at COP3, Kyoto 1997** — operationalises UNFCCC with **quantified emission limitation targets** for **Annex I countries** (developed nations + economies in transition).
-- **Annex I vs Non-Annex I**: **Annex I** had binding targets; **developing countries (including India, China)** had **no binding reduction targets** in Kyoto — major US criticism led to non-ratification by USA.
-- **Three flexible mechanisms**: **(1) Clean Development Mechanism (CDM)** — developed countries fund projects in developing countries for credits; **(2) Joint Implementation (JI)**; **(3) Emissions Trading** — carbon market architecture origin.
-- **CDM and carbon credits**: Certified Emission Reductions (CERs) — **carbon credit** concept for exams — link to Topic 24 CA.
-- **Doha Amendment (2012)**: Second commitment period **2013–2020** — limited participation — Kyoto model fading toward Paris.
-- **Kyoto vs Paris trap**: Kyoto = **top-down binding targets** for developed only; Paris = **bottom-up NDCs** for all countries — different architecture.
-- **Kyoto vs Montreal trap**: Kyoto = **climate**; Montreal = **ozone** — never confuse in "climate mitigation agreement" questions.
-- **India and Kyoto**: No binding reduction target; benefited from **CDM projects** (renewable energy, waste-to-energy credits).
+- **Kyoto adopted at COP3, Kyoto 1997**. Operationalises UNFCCC with **quantified emission limitation targets** for **Annex I countries** (developed nations + economies in transition).
+- **Annex I vs Non-Annex I**: **Annex I** had binding targets. **Developing countries (including India, China)** had **no binding reduction targets** in Kyoto. Major US criticism led to non-ratification by USA.
+- **Three flexible mechanisms**: **(1) Clean Development Mechanism (CDM)**. Developed countries fund projects in developing countries for credits. **(2) Joint Implementation (JI)**. **(3) Emissions Trading**. Carbon market architecture origin.
+- **CDM and carbon credits**: Certified Emission Reductions (CERs). **Carbon credit** concept for exams. Link to Topic 24 CA.
+- **Doha Amendment (2012)**: Second commitment period **2013–2020**. Limited participation. Kyoto model fading toward Paris.
+- **Kyoto vs Paris trap**: Kyoto = **top-down binding targets** for developed only. Paris = **bottom-up NDCs** for all countries. Different architecture.
+- **Kyoto vs Montreal trap**: Kyoto = **climate**. Montreal = **ozone**. Never confuse in "climate mitigation agreement" questions.
+- **India and Kyoto**: No binding reduction target. Benefited from **CDM projects** (renewable energy, waste-to-energy credits).
 
 > **Exam note:** UPPCS 2024 Q35 — climate mitigation = **Kyoto** (also Paris) — **NOT Montreal**.
 
@@ -643,7 +643,7 @@ KEY TRAPS:
 - First period **2008–2012**
 - **CDM** carbon credits
 - USA did **not** ratify
-- India — no binding target; CDM host
+- India. No binding target. CDM host.
 - ≠ Montreal (ozone)
 
 ### PYQs — Kyoto
@@ -682,14 +682,14 @@ KEY TRAPS:
 
 ### Paris Agreement — How It Works
 
-- **Paris adopted 12 December 2015 at COP21** — **195 parties** — succeeded Kyoto's bifurcated model with **universal participation** — every country submits **NDCs**.
-- **NDCs (Nationally Determined Contributions)**: **Bottom-up** pledges — each country sets own targets — reviewed every **5 years** (**Global Stocktake**) — ratchet mechanism to increase ambition.
-- **1.5°C goal**: Strengthened beyond Kyoto-era 2°C focus — **IPCC Special Report 2018** on 1.5°C drove urgency — India committed **Net Zero 2070** at COP26 (outside Paris text but aligned).
-- **Legal hybrid**: **Binding procedural obligations** (report, submit NDC) but **NDC targets themselves not legally binding** — "hybrid" architecture — different from Kyoto's binding targets.
-- **Climate finance**: **$100 billion/year** from developed to developing countries by 2020 (extended) — **Loss and Damage Fund** operationalised COP28 2023.
-- **Paris vs Kyoto**: Paris = **all countries** participate; Kyoto = **Annex I only** binding; Paris uses **NDCs** not assigned quotas.
-- **India's NDC updates**: Emission intensity reduction; non-fossil capacity **500 GW by 2030**; **Net Zero 2070** — LiFE Mission for lifestyle changes (COP26).
-- **Same year as SDGs**: **2015** — Paris (Dec) + SDGs (Sept) — integrated climate-SD exam chronology.
+- **Paris adopted 12 December 2015 at COP21**. **195 parties**. Succeeded Kyoto's bifurcated model with **universal participation**. Every country submits **NDCs**.
+- **NDCs (Nationally Determined Contributions)**: **Bottom-up** pledges. Each country sets own targets. Reviewed every **5 years** (**Global Stocktake**). Ratchet mechanism to increase ambition.
+- **1.5°C goal**: Strengthened beyond Kyoto-era 2°C focus. **IPCC Special Report 2018** on 1.5°C drove urgency. India committed **Net Zero 2070** at COP26 (outside Paris text but aligned).
+- **Legal hybrid**: **Binding procedural obligations** (report, submit NDC) but **NDC targets themselves not legally binding**. "Hybrid" architecture. Different from Kyoto's binding targets.
+- **Climate finance**: **$100 billion/year** from developed to developing countries by 2020 (extended). **Loss and Damage Fund** operationalised COP28 2023.
+- **Paris vs Kyoto**: Paris = **all countries** participate. Kyoto = **Annex I only** binding. Paris uses **NDCs** not assigned quotas.
+- **India's NDC updates**: Emission intensity reduction. Non-fossil capacity **500 GW by 2030**. **Net Zero 2070**. LiFE Mission for lifestyle changes (COP26).
+- **Same year as SDGs**: **2015**. Paris (Dec) + SDGs (Sept). Integrated climate-SD exam chronology.
 
 > **Exam note:** Paris = **2015 COP21**. Entered force **2016**. Trap: "Paris legally binds exact emission numbers" = oversimplified — **NDC content is nationally determined**.
 
@@ -706,7 +706,7 @@ KEY TRAPS:
 
 - Paris = **2015** COP21
 - Entered force **2016**
-- **NDCs** — nationally determined
+- **NDCs**. Nationally determined.
 - Goal = **1.5°C** / well below 2°C
 - Universal participation
 - India **Net Zero 2070**
@@ -747,14 +747,14 @@ KEY TRAPS:
 
 ### Montreal Protocol — How It Works
 
-- **Montreal Protocol signed 16 September 1987** — entered force **1989** — operational arm of **Vienna Convention** — phases out **CFCs, halons, carbon tetrachloride, methyl chloroform, methyl bromide, HCFCs**.
-- **ODS mechanism**: CFCs release **chlorine** in stratosphere — catalytic **O₃ destruction** — Montreal schedules phase-out timelines by substance and country development status.
-- **Multilateral Fund (1991)**: Financial assistance to developing countries for ODS phase-out — **GEF** also linked — India's CFC phase-out supported.
-- **Amendments (complete list for exams)**: **London 1990**; **Copenhagen 1992**; **Montreal 1997**; **Beijing 1999**; **Kigali 2016** — each tightened schedules.
-- **Kigali Amendment (2016)**: Phases down **HFCs** (hydrofluorocarbons) — **not classic ODS** but high **Global Warming Potential (GWP)** — links ozone treaty to climate co-benefits.
-- **Montreal vs Kyoto/Paris trap**: Montreal = **OZONE/ODS** — **NOT climate change mitigation** — UPPCS **2024 Q35** direct question.
-- **Montreal vs Vienna**: Vienna = **framework** (1985); Montreal = **binding phase-out** (1987) — parent-child relationship.
-- **India**: Ratified 1992; **Ozone Cell (MoEFCC)**; CFC production ended **2010**; HCFC phase-out by **2030**; HFC phase-down under Kigali from **2028**.
+- **Montreal Protocol signed 16 September 1987**. Entered force **1989**. Operational arm of **Vienna Convention**. Phases out **CFCs, halons, carbon tetrachloride, methyl chloroform, methyl bromide, HCFCs**.
+- **ODS mechanism**: CFCs release **chlorine** in stratosphere. Catalytic **O₃ destruction**. Montreal schedules phase-out timelines by substance and country development status.
+- **Multilateral Fund (1991)**: Financial assistance to developing countries for ODS phase-out. **GEF** also linked. India's CFC phase-out supported.
+- **Amendments (complete list for exams)**: **London 1990**. **Copenhagen 1992**. **Montreal 1997**. **Beijing 1999**. **Kigali 2016**. Each tightened schedules.
+- **Kigali Amendment (2016)**: Phases down **HFCs** (hydrofluorocarbons). **Not classic ODS** but high **Global Warming Potential (GWP)**. Links ozone treaty to climate co-benefits.
+- **Montreal vs Kyoto/Paris trap**: Montreal = **OZONE/ODS**. **NOT climate change mitigation**. UPPCS **2024 Q35** direct question.
+- **Montreal vs Vienna**: Vienna = **framework** (1985). Montreal = **binding phase-out** (1987). Parent-child relationship.
+- **India**: Ratified 1992. **Ozone Cell (MoEFCC)**. CFC production ended **2010**. HCFC phase-out by **2030**. HFC phase-down under Kigali from **2028**.
 
 > **Exam note:** Question "climate change mitigation agreement" → **Kyoto/Paris** — picking **Montreal = WRONG** (2024 Q35).
 
@@ -768,13 +768,13 @@ KEY TRAPS:
 
 ### Exam Facts (raata)
 
-- Montreal = **1987** — **ozone/ODS**
+- Montreal = **1987**. **Ozone/ODS**.
 - Under **Vienna 1985**
-- **Kigali 2016** — HFCs
+- **Kigali 2016**. HFCs.
 - Universally ratified
 - Multilateral Fund **1991**
-- **≠ climate treaty** — 2024 Q35
-- India Ozone Cell — MoEFCC
+- **≠ climate treaty**. 2024 Q35.
+- India Ozone Cell. MoEFCC.
 
 ### PYQs — Montreal
 
@@ -811,13 +811,13 @@ KEY TRAPS:
 
 ### Vienna Convention — How It Works
 
-- **Vienna Convention 1985** — first international treaty on **ozone layer protection** — framework obliges parties to cooperate on research, monitoring, and control measures — **does not itself set ODS phase-out schedules**.
-- **Montreal Protocol (1987)** adopted as **protocol under Vienna Convention** — contains **legally binding ODS reduction schedules** — exams test Vienna-Montreal parent-child link.
-- **Ozone layer science**: Stratospheric **O₃** absorbs **UV-B/C** — without it, skin cancer, cataracts, crop damage increase — Vienna responded to scientific evidence of ODS harm.
-- **Vienna vs Montreal trap**: Question "binding ODS phase-out treaty" → **Montreal**, not Vienna alone — Vienna is **framework only**.
-- **Vienna vs UNFCCC trap**: Vienna = **ozone**; UNFCCC = **climate** — different atmospheric problems, different treaty families.
-- **International Ozone Day**: **16 September** — commemorates **Montreal Protocol signing (1987)** — often grouped with Vienna-Montreal system.
-- **India**: Party to both Vienna and Montreal — **Ozone Cell** coordinates compliance.
+- **Vienna Convention 1985**. First international treaty on **ozone layer protection**. Framework obliges parties to cooperate on research, monitoring, and control measures. **Does not itself set ODS phase-out schedules**.
+- **Montreal Protocol (1987)** adopted as **protocol under Vienna Convention**. Contains **legally binding ODS reduction schedules**. Exams test Vienna-Montreal parent-child link.
+- **Ozone layer science**: Stratospheric **O₃** absorbs **UV-B/C**. Without it, skin cancer, cataracts, crop damage increase. Vienna responded to scientific evidence of ODS harm.
+- **Vienna vs Montreal trap**: Question "binding ODS phase-out treaty". **Montreal**, not Vienna alone. Vienna is **framework only**.
+- **Vienna vs UNFCCC trap**: Vienna = **ozone**. UNFCCC = **climate**. Different atmospheric problems, different treaty families.
+- **International Ozone Day**: **16 September**. Commemorates **Montreal Protocol signing (1987)**. Often grouped with Vienna-Montreal system.
+- **India**: Party to both Vienna and Montreal. **Ozone Cell** coordinates compliance.
 
 > **Exam note:** **V (1985) before M (1987)** — Vienna framework → Montreal operational protocol.
 
@@ -830,8 +830,8 @@ KEY TRAPS:
 
 ### Exam Facts (raata)
 
-- Vienna = **1985** — ozone **framework**
-- Montreal = **1987** — binding ODS phase-out
+- Vienna = **1985**. Ozone **framework**.
+- Montreal = **1987**. Binding ODS phase-out.
 - Ozone Day = **16 September**
 - Vienna alone ≠ ODS ban
 - Parent of Montreal Protocol
@@ -870,14 +870,14 @@ KEY TRAPS:
 
 ### Ramsar Convention — How It Works
 
-- **Ramsar 1971** — oldest modern environment treaty among major ones tested — **172+ contracting parties** — **2,500+ Ramsar Sites** designated covering **250+ million hectares**.
-- **"Wise Use" concept**: **Sustainable utilisation** of wetlands for people and nature — not strict prohibition of all human use — ecosystem maintenance while allowing fisheries, agriculture where sustainable.
-- **Ramsar Site designation**: Countries nominate wetlands of **international importance** — criteria include rare species, waterbird populations, fish nurseries — **not automatic protection** like NP under WPA — national law applies.
-- **Ramsar vs WPA trap**: Ramsar = **international wetland designation**; WPA = **Indian wildlife/PA law** — UP Ramsar sites may overlap with sanctuaries but are **different legal frameworks**.
-- **UP Ramsar sites (complete for exams)**: **Nawabganj, Parvati Aranga, Saman, Samaspur, Sandi, Sarsai Nawar, Sur Sarovar, Upper Ganga, Bakhira** — **9 sites** in UP (as of 2024-25).
-- **UPPCS 2025 Q59 trap**: **Rudrasagar Lake** = **Tripura**, NOT UP — **Sultanpur** = bird sanctuary/NP context — verify Ramsar list carefully.
-- **Montreal/Ramsar trap**: Ramsar = **wetlands**; Montreal = **ozone** — 2024 Q35 listed Ramsar as wrong option for climate.
-- **India**: **75 Ramsar sites** nationally (2024 milestone) — MoEFCC nominates with state coordination — **Amrit Dharohar Scheme 2023** for wetland conservation.
+- **Ramsar 1971**. Oldest modern environment treaty among major ones tested. **172+ contracting parties**. **2,500+ Ramsar Sites** designated covering **250+ million hectares**.
+- **"Wise Use" concept**: **Sustainable utilisation** of wetlands for people and nature. Not strict prohibition of all human use. Ecosystem maintenance while allowing fisheries, agriculture where sustainable.
+- **Ramsar Site designation**: Countries nominate wetlands of **international importance**. Criteria include rare species, waterbird populations, fish nurseries. **Not automatic protection** like NP under WPA. National law applies.
+- **Ramsar vs WPA trap**: Ramsar = **international wetland designation**. WPA = **Indian wildlife/PA law**. UP Ramsar sites may overlap with sanctuaries but are **different legal frameworks**.
+- **UP Ramsar sites (complete for exams)**: **Nawabganj, Parvati Aranga, Saman, Samaspur, Sandi, Sarsai Nawar, Sur Sarovar, Upper Ganga, Bakhira**. **9 sites** in UP (as of 2024-25).
+- **UPPCS 2025 Q59 trap**: **Rudrasagar Lake** = **Tripura**, NOT UP. **Sultanpur** = bird sanctuary/NP context. Verify Ramsar list carefully.
+- **Montreal/Ramsar trap**: Ramsar = **wetlands**. Montreal = **ozone**. 2024 Q35 listed Ramsar as wrong option for climate.
+- **India**: **75 Ramsar sites** nationally (2024 milestone). MoEFCC nominates with state coordination. **Amrit Dharohar Scheme 2023** for wetland conservation.
 
 > **Exam note:** UPPCS 2025 Q59 — Ramsar sites **NOT in UP** = **Rudrasagar (Tripura)** among options. Memorise UP's 9 Ramsar sites.
 
@@ -894,10 +894,10 @@ KEY TRAPS:
 ### Exam Facts (raata)
 
 - Ramsar = **1971**, force **1975**
-- **Wetlands** — Wise Use
+- **Wetlands**. Wise Use.
 - World Wetlands Day = **2 February**
 - UP has **9** Ramsar sites
-- Rudrasagar = **Tripura** — NOT UP
+- Rudrasagar = **Tripura**. NOT UP.
 - ≠ climate or ozone treaty
 
 ### PYQs — Ramsar
@@ -934,7 +934,7 @@ KEY TRAPS:
 
 ### CITES — How It Works
 
-- **CITES 1973** — **184+ parties** — controls **cross-border trade** — does **not** directly regulate domestic hunting (WPA in India) or in-situ habitat protection (CBD/Ramsar).
+- **CITES 1973**. **184+ parties**. Controls **cross-border trade**. Does **not** directly regulate domestic hunting (WPA in India) or in-situ habitat protection (CBD/Ramsar).
 - **Three Appendices (complete)**:
 
 | Appendix | Regulation level | Example |
@@ -943,11 +943,11 @@ KEY TRAPS:
 | **Appendix II** | **Regulated trade** with permits — not necessarily threatened now but could be if trade uncontrolled | Most CITES-listed species |
 | **Appendix III** | **Unilateral listing** by a country requesting cooperation for its protected species | Country-specific additions |
 
-- **Permit system**: Export/import permits required — **Management Authority** and **Scientific Authority** in each country — India: MoEFCC/WL division coordinates.
-- **CITES vs CBD trap**: **CITES** = **trade regulation** (1973); **CBD** = **biodiversity conservation + ABS** (1992 Rio) — different purposes and years.
-- **CITES vs WPA**: India **WPA 1972** protects species domestically; **CITES** regulates **international trade** — complementary — tiger in WPA Schedule I + CITES Appendix I.
-- **CITES vs CMS**: CITES = **trade**; CMS (Bonn) = **migratory species conservation** across flyways — different treaties.
-- **Not a Rio 1992 product** — CITES predates Rio by **19 years** — frequent chronology trap.
+- **Permit system**: Export/import permits required. **Management Authority** and **Scientific Authority** in each country. India: MoEFCC/WL division coordinates.
+- **CITES vs CBD trap**: **CITES** = **trade regulation** (1973). **CBD** = **biodiversity conservation + ABS** (1992 Rio). Different purposes and years.
+- **CITES vs WPA**: India **WPA 1972** protects species domestically. **CITES** regulates **international trade**. Complementary. Tiger in WPA Schedule I + CITES Appendix I.
+- **CITES vs CMS**: CITES = **trade**. CMS (Bonn) = **migratory species conservation** across flyways. Different treaties.
+- **Not a Rio 1992 product**. CITES predates Rio by **19 years**. Frequent chronology trap.
 
 > **Exam note:** CITES = **trade in endangered species** — Washington **1973**. NOT signed at Rio 1992.
 
@@ -1003,13 +1003,13 @@ KEY TRAPS:
 
 ### CMS — How It Works
 
-- **CMS 1979** — **133+ parties** — only global treaty dedicated to **migratory species** — covers birds, marine turtles, whales, bats, terrestrial mammals crossing borders.
-- **Appendices**: **Appendix I** — endangered migratory species requiring strict protection; **Appendix II** — species needing **international cooperative agreements** (AEWA for waterbirds, IOSEA for marine turtles).
-- **Cooperative agreements**: CMS facilitates **memoranda of understanding (MoUs)** — e.g., **Siberian Crane MoU**, **Dugong MoU**, **Raptor MoU** — regional flyway cooperation.
-- **CMS vs CITES trap**: CMS = **migration conservation**; CITES = **trade regulation** — different mechanisms.
-- **CMS vs Ramsar**: CMS = **species migration**; Ramsar = **wetland habitats** — waterbird flyways may involve both.
-- **India**: Party to CMS — **Amur Falcon** protection (Nagaland stopover); **Central Asian Flyway** initiative; **Ganges River Dolphin** transboundary concern.
-- **Not climate or ozone treaty** — species/conservation category.
+- **CMS 1979**. **133+ parties**. Only global treaty dedicated to **migratory species**. Covers birds, marine turtles, whales, bats, terrestrial mammals crossing borders.
+- **Appendices**: **Appendix I**. Endangered migratory species requiring strict protection. **Appendix II**. Species needing **international cooperative agreements** (AEWA for waterbirds, IOSEA for marine turtles).
+- **Cooperative agreements**: CMS facilitates **memoranda of understanding (MoUs)**. E.g., **Siberian Crane MoU**, **Dugong MoU**, **Raptor MoU**. Regional flyway cooperation.
+- **CMS vs CITES trap**: CMS = **migration conservation**. CITES = **trade regulation**. Different mechanisms.
+- **CMS vs Ramsar**: CMS = **species migration**. Ramsar = **wetland habitats**. Waterbird flyways may involve both.
+- **India**: Party to CMS. **Amur Falcon** protection (Nagaland stopover). **Central Asian Flyway** initiative. **Ganges River Dolphin** transboundary concern.
+- **Not climate or ozone treaty**. Species/conservation category.
 
 > **Exam note:** CMS = **Bonn Convention 1979** — **migratory species** — not trade (CITES) or wetlands (Ramsar).
 
@@ -1028,7 +1028,7 @@ KEY TRAPS:
 - Appendices I and II
 - Cooperative **flyway** agreements
 - ≠ CITES (trade)
-- India — Amur Falcon, CA Flyway
+- India. Amur Falcon, CA Flyway.
 
 ### PYQs — CMS
 
@@ -1065,13 +1065,13 @@ KEY TRAPS:
 
 ### Basel Convention — How It Works
 
-- **Basel 1989** — response to **toxic waste shipments** from developed to developing countries in 1980s — **187 parties** — UNEP administered.
-- **Core rule**: Export of **hazardous waste** requires **prior informed consent** of importing country — **illegal traffic** subject to repatriation obligations.
-- **Basel Ban Amendment (1995, in force 2019)**: Bans export of **hazardous wastes for final disposal** from OECD to non-OECD countries — strengthens equity.
-- **Covers**: Toxic wastes, certain clinical wastes, electronic waste categories — links to **e-waste** governance in India (MoEFCC rules + Basel principles).
-- **Basel vs Rotterdam trap**: **Basel** = **hazardous WASTE** movement; **Rotterdam** = **hazardous CHEMICALS** trade (PIC) — different substances, different conventions.
-- **Basel vs Stockholm POPs**: Basel = **waste shipment**; Stockholm = **persistent organic pollutants** ban/restriction — may overlap for POP-contaminated waste.
-- **India**: Party — **hazardous waste import largely restricted** — re-export obligations for illegal shipments — links to **UP industrial waste** regulation under EPA.
+- **Basel 1989**. Response to **toxic waste shipments** from developed to developing countries in 1980s. **187 parties**. UNEP administered.
+- **Core rule**: Export of **hazardous waste** requires **prior informed consent** of importing country. **Illegal traffic** subject to repatriation obligations.
+- **Basel Ban Amendment (1995, in force 2019)**: Bans export of **hazardous wastes for final disposal** from OECD to non-OECD countries. Strengthens equity.
+- **Covers**: Toxic wastes, certain clinical wastes, electronic waste categories. Links to **e-waste** governance in India (MoEFCC rules + Basel principles).
+- **Basel vs Rotterdam trap**: **Basel** = **hazardous WASTE** movement. **Rotterdam** = **hazardous CHEMICALS** trade (PIC). Different substances, different conventions.
+- **Basel vs Stockholm POPs**: Basel = **waste shipment**. Stockholm = **persistent organic pollutants** ban/restriction. May overlap for POP-contaminated waste.
+- **India**: Party. **Hazardous waste import largely restricted**. Re-export obligations for illegal shipments. Links to **UP industrial waste** regulation under EPA.
 
 > **Exam note:** Basel = **1989** — **hazardous waste export/import** — Switzerland. ≠ Rotterdam (chemicals).
 
@@ -1088,7 +1088,7 @@ KEY TRAPS:
 - Basel = **1989**, force **1992**
 - **Hazardous waste** transboundary control
 - **Prior Informed Consent**
-- Ban Amendment — OECD → non-OECD
+- Ban Amendment. OECD. Non-OECD.
 - HQ convention city **Basel, Switzerland**
 - ≠ Rotterdam (chemicals)
 
@@ -1127,13 +1127,13 @@ KEY TRAPS:
 
 ### Rotterdam Convention — How It Works
 
-- **Rotterdam 1998** — implements **PIC** for **industrial chemicals and pesticides** — **163+ parties** — jointly with **FAO** (food/agriculture chemicals) and **UNEP**.
-- **Annex III chemicals**: Severely hazardous pesticide formulations and industrial chemicals — **50+ substances** listed including **asbestos, certain pesticides banned in exporting country**.
-- **PIC procedure**: Exporting country **notifies** importing country; importing country **consents or denies** import — prevents **dumping banned chemicals** on countries lacking regulatory capacity.
-- **Rotterdam vs Basel trap**: Rotterdam = **chemicals in trade**; Basel = **waste shipments** — exam matching favourite.
-- **Rotterdam vs Stockholm POPs**: Stockholm bans/restricts **POPs** globally; Rotterdam requires **consent for trade** in listed hazardous chemicals — overlapping for some substances.
-- **India**: Party — regulates pesticide imports; links to **CPCB/MoEFCC** chemical regulation — **Endosulfan** historically debated in PIC context.
-- **Not biodiversity or climate treaty** — chemicals governance category.
+- **Rotterdam 1998**. Implements **PIC** for **industrial chemicals and pesticides**. **163+ parties**. Jointly with **FAO** (food/agriculture chemicals) and **UNEP**.
+- **Annex III chemicals**: Severely hazardous pesticide formulations and industrial chemicals. **50+ substances** listed including **asbestos, certain pesticides banned in exporting country**.
+- **PIC procedure**: Exporting country **notifies** importing country. Importing country **consents or denies** import. Prevents **dumping banned chemicals** on countries lacking regulatory capacity.
+- **Rotterdam vs Basel trap**: Rotterdam = **chemicals in trade**. Basel = **waste shipments**. Exam matching favourite.
+- **Rotterdam vs Stockholm POPs**: Stockholm bans/restricts **POPs** globally. Rotterdam requires **consent for trade** in listed hazardous chemicals. Overlapping for some substances.
+- **India**: Party. Regulates pesticide imports. Links to **CPCB/MoEFCC** chemical regulation. **Endosulfan** historically debated in PIC context.
+- **Not biodiversity or climate treaty**. Chemicals governance category.
 
 > **Exam note:** Rotterdam = **PIC for hazardous chemicals** — Netherlands **1998**. Basel = **waste** — don't swap.
 
@@ -1152,7 +1152,7 @@ KEY TRAPS:
 - Joint **FAO + UNEP**
 - Annex III listed substances
 - ≠ Basel (waste)
-- India party — pesticide import control
+- India party. Pesticide import control.
 
 ### PYQs — Rotterdam
 
@@ -1190,13 +1190,13 @@ KEY TRAPS:
 
 ### Stockholm Convention on POPs — How It Works
 
-- **Stockholm 2001** — targets **POPs** — chemicals that **persist** in environment, **bioaccumulate** in food chains, travel **long distances**, harm health — **186 parties**.
-- **Initial "Dirty Dozen" POPs (12)**: Including **DDT, PCBs, dioxins, furans, aldrin, chlordane, endrin, heptachlor, mirex, toxaphene, hexachlorobenzene** — later lists **expanded** through amendments.
-- **Three annexes**: **Annex A** — **eliminate** production/use (with DDT exemption for malaria vector control); **Annex B** — **restrict**; **Annex C** — **reduce unintentional releases** (dioxins/furans from combustion).
-- **Stockholm vs Stockholm Conference 1972 trap**: **Stockholm Convention POPs = 2001**; **Stockholm Conference = 1972** — same city name, **29 years apart** — high-frequency trap.
-- **Stockholm vs Rotterdam/Basel**: Stockholm = **global ban/restriction on POP substances**; Rotterdam = PIC trade in chemicals; Basel = waste movement.
-- **India**: Party — **DDT** restricted with malaria exemption; **PCB phase-out**; dioxin/furan release standards for incinerators — links to **Unintended POPs** from industrial combustion.
-- **GEF financial support**: Developing country POP elimination funded through GEF — links to §18.5.
+- **Stockholm 2001**. Targets **POPs**. Chemicals that **persist** in environment, **bioaccumulate** in food chains, travel **long distances**, harm health. **186 parties**.
+- **Initial "Dirty Dozen" POPs (12)**: Including **DDT, PCBs, dioxins, furans, aldrin, chlordane, endrin, heptachlor, mirex, toxaphene, hexachlorobenzene**. Later lists **expanded** through amendments.
+- **Three annexes**: **Annex A**. **Eliminate** production/use (with DDT exemption for malaria vector control). **Annex B**. **Restrict**. **Annex C**. **Reduce unintentional releases** (dioxins/furans from combustion).
+- **Stockholm vs Stockholm Conference 1972 trap**: **Stockholm Convention POPs = 2001**. **Stockholm Conference = 1972**. Same city name, **29 years apart**. High-frequency trap.
+- **Stockholm vs Rotterdam/Basel**: Stockholm = **global ban/restriction on POP substances**. Rotterdam = PIC trade in chemicals. Basel = waste movement.
+- **India**: Party. **DDT** restricted with malaria exemption. **PCB phase-out**. Dioxin/furan release standards for incinerators. Links to **Unintended POPs** from industrial combustion.
+- **GEF financial support**: Developing country POP elimination funded through GEF. Links to §18.5.
 
 > **Exam note:** **Stockholm 1972** = conference/UNEP. **Stockholm 2001** = **POPs treaty**. Same name — different year and purpose.
 
@@ -1221,8 +1221,8 @@ KEY TRAPS:
 
 - Stockholm POPs = **2001**, force **2004**
 - **Persistent Organic Pollutants**
-- Original **12** Dirty Dozen — DDT, PCBs, dioxins
-- Annex A = eliminate; C = unintentional releases
+- Original **12** Dirty Dozen. DDT, PCBs, dioxins.
+- Annex A = eliminate. C = unintentional releases.
 - ≠ **Stockholm Conference 1972**
 - DDT allowed for **malaria** vector control only
 
@@ -1262,13 +1262,13 @@ KEY TRAPS:
 
 ### Minamata Convention — How It Works
 
-- **Minamata adopted Kumamoto, Japan, October 2013** — newest major chemicals treaty in syllabus — addresses **mercury** throughout its lifecycle — mining, use, emissions, waste.
-- **Key controls**: Phase-out **mercury-added products** (thermometers, certain batteries, cosmetics) by scheduled dates; regulate **artisanal small-scale gold mining (ASGM)** mercury use; control emissions from **coal combustion, cement, waste incineration**.
-- **Mercury science**: **Methylmercury** bioaccumulates in fish — neurological damage — **Minamata disease** caused birth defects and deaths in Japan — namesake tragedy.
-- **Minamata vs Stockholm trap**: Minamata = **mercury specifically**; Stockholm = **POPs list** (mercury NOT in original Dirty Dozen) — different scope.
-- **India**: Ratified **2018** — **mercury cell chlor-alkali plants** phase-out; dental amalgam reduction; **coal power mercury emission** standards emerging — **MoEFCC** nodal.
-- **Financial mechanism**: **GEF** supports developing country mercury reduction — convention-specific trust fund.
-- **Artisanal gold mining**: Major mercury use sector globally — convention requires national action plans — less India-central but exam concept.
+- **Minamata adopted Kumamoto, Japan, October 2013**. Newest major chemicals treaty in syllabus. Addresses **mercury** throughout its lifecycle. Mining, use, emissions, waste.
+- **Key controls**: Phase-out **mercury-added products** (thermometers, certain batteries, cosmetics) by scheduled dates. Regulate **artisanal small-scale gold mining (ASGM)** mercury use. Control emissions from **coal combustion, cement, waste incineration**.
+- **Mercury science**: **Methylmercury** bioaccumulates in fish. Neurological damage. **Minamata disease** caused birth defects and deaths in Japan. Namesake tragedy.
+- **Minamata vs Stockholm trap**: Minamata = **mercury specifically**. Stockholm = **POPs list** (mercury NOT in original Dirty Dozen). Different scope.
+- **India**: Ratified **2018**. **Mercury cell chlor-alkali plants** phase-out. Dental amalgam reduction. **Coal power mercury emission** standards emerging. **MoEFCC** nodal.
+- **Financial mechanism**: **GEF** supports developing country mercury reduction. Convention-specific trust fund.
+- **Artisanal gold mining**: Major mercury use sector globally. Convention requires national action plans. Less India-central but exam concept.
 
 > **Exam note:** Minamata = **mercury** — **2013** — named after **Japan mercury poisoning disaster**. ≠ Minamata city = treaty name coincidence with disease.
 

@@ -115,14 +115,14 @@ UP NON-IVC SITES:
 
 ### Archaeological Sites — How It Works
 
-- **Archaeology** reconstructs past societies from **material culture** — pottery, tools, bones, buildings, pollen, DNA — not from written records alone (especially for pre-3000 BCE India).
+- **Archaeology** reconstructs past societies from **material culture** such as pottery, tools, bones, buildings, pollen, and DNA, not from written records alone, especially for pre-3000 BCE India.
 - Sites are classified by **cultural period** (Paleolithic, Mesolithic, Neolithic, Chalcolithic, Harappan, Early Historic, Medieval) and **geographic zone** (Ganga plain, Deccan, northwest, coastal).
-- **Settlement sites** yield habitation floors, hearths, post-holes; **burial sites** yield grave goods (Sanauli chariots); **factory sites** yield workshop debris (Chanhudaro bead-making).
-- **Rock shelters** (Bhimbetka, Adamgarh) differ from **limestone caves** (Ajanta) — UPPCS tests natural vs carved distinction.
-- **Site reports** published by ASI/Universities are primary evidence — location, strata, artefact list, C-14 dates.
-- **Multi-period sites** show **cultural continuity or replacement** — Hastinapur has PGW + early historic layers; Kaushambi has Mauryan through Gupta.
-- **Destroyed/reburied sites** survive as **mounds** in Indo-Gangetic alluvium — reason most ancient cities look like "hills" today.
-- **Underwater/coastal sites** (Dwarka offshore, Poompuhar) expand maritime archaeology — complement to land sites.
+- **Settlement sites** yield habitation floors, hearths, and post-holes. **Burial sites** yield grave goods such as Sanauli chariots, while **factory sites** yield workshop debris such as Chanhudaro bead-making remains.
+- **Rock shelters** such as Bhimbetka and Adamgarh differ from **limestone caves** such as Ajanta, and UPPCS tests the natural versus carved distinction.
+- **Site reports** published by ASI and universities serve as primary evidence because they record location, strata, artefact lists, and C-14 dates.
+- **Multi-period sites** show **cultural continuity or replacement**. Hastinapur has PGW and early historic layers, while Kaushambi has Mauryan through Gupta layers.
+- **Destroyed/reburied sites** survive as **mounds** in Indo-Gangetic alluvium, which explains why most ancient cities look like "hills" today.
+- **Underwater/coastal sites** such as Dwarka offshore and Poompuhar expand maritime archaeology and complement land sites.
 - **DNA/aDNA analysis** from skeletal remains (Rakhigarhi 2015–22) now supplements traditional artefact typology.
 
 > **Exam note:** UPPCS favourite = **site ↔ present state** matching (2023 Q27, 2020 Q12). Memorize **state first**, then cultural label.
@@ -154,15 +154,15 @@ UP NON-IVC SITES:
 
 - Archaeological site = physical evidence of past human activity
 - 2023 Q27 tests Paleolithic/prehistoric site ↔ state matching
-- Bhimbetka = MP (not UP) — Wakankar 1957–58
-- Isampur = Karnataka; Gudiyam = Tamil Nadu
-- Rakhigarhi = Haryana — largest IVC, NOT in UP
+- Bhimbetka is in MP, not UP, and Wakankar identified its prehistoric significance in 1957–58.
+- Isampur is in Karnataka, and Gudiyam is in Tamil Nadu.
+- Rakhigarhi is in Haryana and is the largest IVC site, not a UP site.
 - Multi-period mounds common in Ganga plain
 
 ### PYQs — Archaeological Sites
 
 1. **(UPPCS Prelims 2023, Q27)** Match List-I with List-II:
-   - (A) Nevasa — (B) Isampur — (C) Didwana — (D) Gudiyam Cave
+   - (A) Nevasa, (B) Isampur, (C) Didwana, and (D) Gudiyam Cave.
    - 1. Rajasthan  2. Tamil Nadu  3. Maharashtra  4. Karnataka  
    → **A — A-(3), B-(4), C-(1), D-(2).** Nevasa = Maharashtra; Isampur = Karnataka; Didwana = Rajasthan; Gudiyam Cave = Tamil Nadu.
 
@@ -197,14 +197,14 @@ UP NON-IVC SITES:
 
 ### Excavations — How It Works
 
-- **Excavation destroys context while revealing it** — only **systematic, recorded** digging is scientifically valid; looting removes provenance.
-- **Pre-excavation steps**: survey → permission (ASI/State Archaeology) → grid layout → trial trench.
-- **Wheeler-Kenyon method** (balk-and-grid) — vertical **balks** left between trenches to read **stratigraphy**; introduced rigorously in Indian archaeology by **Mortimer Wheeler** (Harappa 1946).
-- **Horizontal excavation** exposes single culture layer (e.g., one habitation floor); **vertical excavation** cuts through all periods for chronology.
+- **Excavation destroys context while revealing it**, so only **systematic, recorded** digging is scientifically valid. Looting removes provenance.
+- **Pre-excavation steps** move from survey to permission from ASI or State Archaeology, then to grid layout and trial trench.
+- The **Wheeler-Kenyon method** (balk-and-grid) leaves vertical **balks** between trenches to read **stratigraphy**. **Mortimer Wheeler** introduced it rigorously in Indian archaeology at Harappa in 1946.
+- **Horizontal excavation** exposes a single culture layer, such as one habitation floor. **Vertical excavation** cuts through all periods to establish chronology.
 - **Recording tools**: trench maps, photographs, section drawings, artefact bag labels with **locus/stratum number**.
-- **Key Indian excavations timeline**: Harappa **1921** (Sahni) → Mohenjo-daro **1922** (Banerjee) → IVC announced **1924** (Marshall) → Harappa re-dig **1946** (Wheeler) → Lothal **1955–62** (S.R. Rao) → Dholavira **1990s** (R.S. Bisht) → Sanauli **2018** (ASI, Baghpat).
-- **Post-Partition shift**: major IVC cities in Pakistan; Indian archaeology focused on **Gujarat, Haryana, Punjab (India), UP, Rajasthan** border sites.
-- **Underwater/marine excavation** at Dwarka, Poompuhar — complements land digs for port history.
+- **Key Indian excavations timeline** begins with Harappa in **1921** by Sahni, followed by Mohenjo-daro in **1922** by Banerjee, the IVC announcement in **1924** by Marshall, the Harappa re-dig in **1946** by Wheeler, Lothal in **1955–62** by S.R. Rao, Dholavira in the **1990s** by R.S. Bisht, and Sanauli in **2018** by ASI at Baghpat.
+- After Partition, the major IVC cities lay in Pakistan. Indian archaeology therefore focused on border-zone sites in **Gujarat, Haryana, Punjab (India), UP, and Rajasthan**.
+- **Underwater/marine excavation** at Dwarka and Poompuhar complements land digs for port history.
 - **Scientific analyses** on excavation finds: C-14, thermoluminescence, XRF on pottery, aDNA on bone.
 
 > **Exam note:** Trap — **"Wheeler discovered IVC"** = FALSE. Wheeler excavated Harappa **1946**; discovery credit = **Sahni 1921 + Banerjee 1922** under **Marshall**.
@@ -227,9 +227,9 @@ UP NON-IVC SITES:
 
 ### Exam Facts (raata)
 
-- Sahni = Harappa 1921; Banerjee = Mohenjo-daro 1922
-- Marshall announced IVC 1924 — DG ASI 1902–1928
-- Wheeler = grid stratigraphy; Harappa 1946
+- Sahni excavated Harappa in 1921, and Banerjee excavated Mohenjo-daro in 1922.
+- Marshall announced the IVC in 1924 and served as DG ASI from 1902 to 1928.
+- Wheeler is linked with grid stratigraphy and the 1946 Harappa excavation.
 - S.R. Rao = Lothal dockyard excavation
 - Wakankar = Bhimbetka 1957–58
 - Sanauli 2018 = ASI Baghpat UP chariot burials
@@ -266,17 +266,17 @@ UP NON-IVC SITES:
 
 ### Archaeological Sites of Uttar Pradesh — How It Works
 
-- **UP lies in the Ganga plain core** — rich **multi-period** sites from Neolithic through Gupta-Buddhist layers.
+- **UP lies in the Ganga plain core** and has rich **multi-period** sites from Neolithic through Gupta-Buddhist layers.
 - **IVC eastern sites (★★★)**: **Alamgirpur** (Meerut, Hindon) = **easternmost** Harappan culture marker in India ← **2023 Q28 answer B**.
-- **Hulas** (Baghpat) — eastern Harappan habitation; appears in **2018 Q88, 2025 Q87, 2020 Q12**.
-- **Mandi** (Bijnor, Ramganga) — UP Harappan site ← **2021 Q100 answer D (Uttar Pradesh)**.
-- **Trap trio to reject for UP**: **Rakhigarhi (Haryana), Kalibangan (Rajasthan), Lothal (Gujarat)** — appear as wrong options in UPPCS.
-- **Sanauli** (Baghpat, 2018) — **copper chariot burials** with antenna swords; Late Harappan/OCP overlap — high-yield current excavation.
-- **Neolithic/Chalcolithic UP**: **Koldihwa, Mahagara** (Belan Valley, Allahabad/Prayagraj district) — rice evidence; **Lalitpur** microliths.
+- **Hulas** (Baghpat) was an eastern Harappan habitation site. It appears in **2018 Q88, 2025 Q87, and 2020 Q12**.
+- **Mandi** in Bijnor on the Ramganga is a UP Harappan site, as confirmed by **2021 Q100 answer D (Uttar Pradesh)**.
+- **Trap trio to reject for UP** includes **Rakhigarhi (Haryana), Kalibangan (Rajasthan), and Lothal (Gujarat)** because they appear as wrong options in UPPCS.
+- **Sanauli** (Baghpat, 2018) yielded **copper chariot burials** with antenna swords. It represents a Late Harappan/OCP overlap and is a high-yield current excavation.
+- **Neolithic/Chalcolithic UP** includes **Koldihwa and Mahagara** in the Belan Valley of Allahabad/Prayagraj district. These sites provide rice evidence, while **Lalitpur** is known for microliths.
 - **Early Historic/Mahajanapada**: **Kaushambi** (Vatsa capital), **Hastinapur** (Kuru), **Ahichchhatra** (Panchala, Bareilly), **Shravasti** (Kosala), **Kampilya** (Panchala).
-- **Buddhist/Mauryan UP**: **Sarnath** (first sermon site + Ashokan Lion Capital pillar), **Kushinagar** (Mahaparinirvana — now separate district but culturally Purvanchal), **Rajghat** (Varanasi ancient rampart).
-- **Prayagraj/Allahabad region**: **Kosam pillar** (Gupta inscription on Ashokan pillar) — archaeological-artefact crossover.
-- **Western UP vs eastern UP**: IVC sites cluster **west/east UP** (Meerut, Baghpat, Bijnor); PGW/OCP stronger in **doab/western UP**.
+- **Buddhist/Mauryan UP** includes **Sarnath** with the first sermon site and Ashokan Lion Capital pillar, **Kushinagar** with the Mahaparinirvana site in the culturally Purvanchal zone, and **Rajghat** with the ancient Varanasi rampart.
+- **Prayagraj/Allahabad region** includes the **Kosam pillar**, which carries a Gupta inscription on an Ashokan pillar and creates an archaeological-artefact crossover.
+- In **western UP vs eastern UP**, IVC sites cluster around Meerut, Baghpat, and Bijnor. PGW/OCP evidence is stronger in the **doab/western UP** zone.
 
 > **Exam note:** **2018 Q88 = D (III, IV only)** — Alamgirpur + Hulas. **2025 Q87 = C (1 and 3)** — Mandi + Hulas; Rakhigarhi is trap. Never assume "biggest IVC site = UP."
 
@@ -320,7 +320,7 @@ UP NON-IVC SITES:
 - 2018 Q88: only III (Alamgirpur) + IV (Hulas)
 - 2025 Q87: statements 1 (Mandi) + 3 (Hulas) correct
 - 2021 Q100: Mandi = Uttar Pradesh
-- Rakhigarhi = Haryana — largest IVC
+- Rakhigarhi is in Haryana and is the largest IVC site.
 - Sanauli 2018 = Baghpat chariot burials
 - Kaushambi = Vatsa capital excavations
 
@@ -366,16 +366,16 @@ UP NON-IVC SITES:
 
 ### ASI — How It Works
 
-- **Founded 1861** by **Lord Canning** (Viceroy) with **Alexander Cunningham** as **first Director-General** — systematic survey of Buddhist stupas, pillars, coins.
-- **Cunningham's contribution**: identified **Sarnath Lion Capital**, mapped **Bharhut/Sanchi**; used **Chinese pilgrim accounts** (Fa-Hien, Xuanzang) to locate sites.
-- **Reorganization 1902** — ASI became permanent scientific department; **John Marshall** appointed DG → led **Harappa/Mohenjo-daro** excavations.
-- **Marshall era (1902–1928)** — announced **Indus Valley Civilization (1924)**; conservation of **Taj Mahal, Sanchi, Ajanta** began under modern principles.
-- **Mortimer Wheeler** — DG ASI **1944–1948**; brought **British stratigraphic grid method**; excavated **Harappa 1946**, **Taxila**, **Arikamedu**.
-- **Post-Independence**: ASI divided into **Circles** (Agra, Patna, Jaipur, Lucknow, etc.) — each oversees excavations and monument upkeep in states.
-- **Functions today**: grant excavation licences; maintain **3,600+ protected monuments**; publish **Indian Archaeology — A Review** annually; run museums (e.g., Sarnath Museum).
-- **Headquarters**: **24 Tilak Marg, New Delhi** — trap: **not Lucknow** (Lucknow has State Museum/State Archaeology Dept, not ASI HQ).
-- **Legal framework**: **AMASR Act 1958** (amended 2010) — regulates digging near protected sites; **Antiquities and Art Treasures Act 1972** — export control.
-- **State vs Central**: ASI = Union; **State Department of Archaeology** (e.g., UP State Archaeology) handles state-level sites — both can excavate with permissions.
+- **Founded 1861** by **Lord Canning** (Viceroy), ASI had **Alexander Cunningham** as **first Director-General** and began systematic survey of Buddhist stupas, pillars, and coins.
+- **Cunningham's contribution** included identifying the **Sarnath Lion Capital** and mapping **Bharhut/Sanchi**. He used **Chinese pilgrim accounts** of Fa-Hien and Xuanzang to locate sites.
+- In the **1902 reorganization**, ASI became a permanent scientific department. **John Marshall** was appointed DG and later led the **Harappa/Mohenjo-daro** excavation phase.
+- During the **Marshall era (1902–1928)**, ASI announced the **Indus Valley Civilization (1924)**. Conservation of **Taj Mahal, Sanchi, and Ajanta** also began under modern principles.
+- **Mortimer Wheeler** served as DG ASI from **1944 to 1948**. He brought the **British stratigraphic grid method** and excavated **Harappa 1946**, **Taxila**, and **Arikamedu**.
+- After Independence, ASI was divided into **Circles** such as Agra, Patna, Jaipur, and Lucknow. Each circle oversees excavations and monument upkeep in its states.
+- **Functions today** include granting excavation licences, maintaining **3,600+ protected monuments**, publishing **Indian Archaeology: A Review** annually, and running museums such as Sarnath Museum.
+- **Headquarters** are at **24 Tilak Marg, New Delhi**. The exam trap is **not Lucknow**, because Lucknow has the State Museum and State Archaeology Department, not ASI headquarters.
+- The **legal framework** includes the **AMASR Act 1958** (amended 2010), which regulates digging near protected sites. The **Antiquities and Art Treasures Act 1972** controls export.
+- **ASI** is a Union body, while the **State Department of Archaeology** such as UP State Archaeology handles state-level sites. Both can excavate with permissions.
 
 > **Exam note:** Cunningham = **1861 + first DG**. Marshall = **IVC announcement 1924**. Trap: **"ASI HQ at Lucknow"** — false; HQ is **New Delhi**.
 
@@ -433,15 +433,15 @@ UP NON-IVC SITES:
 ### Carbon Dating — How It Works
 
 - Living plants/animals maintain equilibrium **C-14/C-12 ratio** by exchanging carbon with atmosphere.
-- At **death**, C-14 intake stops; **radioactive decay** begins — measure remaining C-14 to estimate age.
-- **Willard Libby** developed method (1940s); won **Nobel Prize 1949** — revolutionized archaeology worldwide.
-- **Half-life ~5730 ± 40 years** — after 5730 years, half original C-14 remains; after 11,460 years, quarter remains.
-- **Effective range**: roughly **100 to 50,000 years** — ideal for Upper Paleolithic through early historic; less reliable near limits.
-- **Sample types**: **charcoal, wood, bone, shell, cloth, seeds** — must be **organic**; **stone, metal, fired brick** cannot be C-14 dated directly.
-- **Calibration**: raw C-14 years converted via **calibration curve** (tree-ring data) to calendar years — e.g., 3000 BP may calibrate to ~1200 BCE.
-- **IVC impact**: C-14 dates on charcoal pushed mature Harappan phase to **c. 2600–1900 BCE** — replaced earlier guesses.
+- At **death**, C-14 intake stops and **radioactive decay** begins. Archaeologists measure the remaining C-14 to estimate age.
+- **Willard Libby** developed the method in the 1940s and won the **Nobel Prize in 1949**. Radiocarbon dating revolutionized archaeology worldwide.
+- **Half-life ~5730 +/- 40 years** means half the original C-14 remains after 5730 years. After 11,460 years, one quarter remains.
+- The **effective range** is roughly **100 to 50,000 years**. It is ideal for Upper Paleolithic through early historic material but becomes less reliable near its limits.
+- **Sample types** include **charcoal, wood, bone, shell, cloth, and seeds**. The sample must be **organic**, because **stone, metal, and fired brick** cannot be C-14 dated directly.
+- **Calibration** converts raw C-14 years through a **calibration curve** based on tree-ring data to calendar years, so 3000 BP may calibrate to about 1200 BCE.
+- **IVC impact** came from C-14 dates on charcoal, which pushed the mature Harappan phase to **c. 2600–1900 BCE** and replaced earlier guesses.
 - **Limitations**: **contamination** (modern carbon), **old wood effect** (reused timber), **marine reservoir effect** (seafood diet skew), **atomic bomb carbon** post-1950.
-- **Alternatives for non-organic**: **thermoluminescence (TL)** for pottery; **potassium-argon** for volcanic rock; **dendrochronology** for tree-ring calendar dating.
+- **Alternatives for non-organic material** include **thermoluminescence (TL)** for pottery, **potassium-argon** for volcanic rock, and **dendrochronology** for tree-ring calendar dating.
 
 > **Exam note:** Trap — **"C-14 dates stone tools"** = FALSE. Stone can only be dated **indirectly** if organic material found **in same layer**.
 
@@ -458,9 +458,9 @@ UP NON-IVC SITES:
 
 ### Exam Facts (raata)
 
-- Libby — Nobel 1949 for radiocarbon dating
+- Libby won the Nobel Prize in 1949 for radiocarbon dating.
 - C-14 half-life ~5730 years
-- Organic material only — not stone/metal
+- C-14 dates organic material only, not stone or metal.
 - Range ~50,000 years maximum
 - IVC chronology refined by C-14
 - BP = Before Present (1950 baseline)
@@ -499,16 +499,16 @@ UP NON-IVC SITES:
 
 ### Stratigraphy — How It Works
 
-- **Relative dating backbone** — before C-14, archaeologists dated by **layer order** + **pottery typology**.
-- **Law of Superposition** — if Stratum III lies below Stratum II, Stratum III is older (unless disturbed by pits/rodents).
-- **Cultural strata** — each habitation phase leaves **distinct pottery, ash, floor** — e.g., PGW layer above OCP layer at Hastinapur.
-- **Wheeler-Kenyon balk method** — trenches separated by **vertical balks** showing **clean section** of all layers side-by-side.
-- **Harris Matrix** — diagram showing **logical relationships** between layers (which cuts which) — prevents dating errors from intrusion pits.
-- **Intrusive features** — **post-holes, burial pits, robber trenches** cut through older layers — must be identified or chronology reverses.
-- **Natural strata** — flood silt, volcanic ash — can seal archaeological layers (useful marker horizons).
-- **Typology linked to stratigraphy** — if **Northern Black Polished Ware (NBPW)** always above **PGW** in Ganga plain, pottery type confirms layer age.
-- **Superposition limits** — **bioturbation** (roots, worms), **ploughing**, **modern pits** disturb order — excavation must record disturbances.
-- **Combined approach today** — stratigraphy gives **relative sequence**; C-14 from specific stratum gives **absolute calendar date** for that phase.
+- **Relative dating backbone** before C-14 used **layer order** and **pottery typology**.
+- **Law of Superposition** states that if Stratum III lies below Stratum II, Stratum III is older unless pits or rodents disturbed the sequence.
+- **Cultural strata** preserve each habitation phase through **distinct pottery, ash, and floors**, such as the PGW layer above the OCP layer at Hastinapur.
+- **Wheeler-Kenyon balk method** separates trenches by **vertical balks** that show a **clean section** of all layers side by side.
+- **Harris Matrix** diagrams show **logical relationships** between layers, including which layer cuts which, and prevent dating errors from intrusion pits.
+- **Intrusive features** such as **post-holes, burial pits, and robber trenches** cut through older layers and must be identified so chronology does not reverse.
+- **Natural strata** such as flood silt and volcanic ash can seal archaeological layers and serve as useful marker horizons.
+- **Typology linked to stratigraphy** means that if **Northern Black Polished Ware (NBPW)** always appears above **PGW** in the Ganga plain, pottery type confirms layer age.
+- **Superposition limits** include **bioturbation** from roots and worms, **ploughing**, and **modern pits**, all of which disturb order and require careful excavation records.
+- The **combined approach today** uses stratigraphy for **relative sequence** and C-14 from a specific stratum for an **absolute calendar date** for that phase.
 
 > **Exam note:** **"Deeper = older"** holds only in **undisturbed** deposits. Trap: **intrusive burial** can place younger objects below older ones.
 
@@ -524,9 +524,9 @@ UP NON-IVC SITES:
 ### Exam Facts (raata)
 
 - Stratigraphy = study of layers
-- Law of superposition — deeper = older (if undisturbed)
+- Law of superposition means deeper layers are older if the deposit is undisturbed.
 - Wheeler introduced rigorous section drawing in India
-- Relative dating — no calendar year alone
+- Relative dating provides sequence but not a calendar year by itself.
 - Combine with C-14 for absolute dates
 - Intrusive pits can violate superposition
 - Harris Matrix maps layer relationships

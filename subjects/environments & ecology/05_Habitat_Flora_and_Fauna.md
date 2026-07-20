@@ -145,19 +145,19 @@ UP FOCUS:
 
 ### Habitat — How It Works
 
-- **Habitat** answers *"Where does it live?"* — it is the **physical address** of an organism, not its ecological job (that is **niche**) or the interacting system (that is **ecosystem**).
+- **Habitat** answers *"Where does it live?"*, which means it is the **physical address** of an organism, not its ecological job (that is **niche**) or the interacting system (that is **ecosystem**).
 - Every species needs a habitat with suitable **abiotic factors** (temperature, moisture, light, soil pH, salinity) and **biotic factors** (food availability, predators, competitors, symbionts).
-- **Microhabitat** is a small subdivision within a habitat — e.g., underside of a leaf (aphids), bark crevices (lichens), soil pores (earthworms).
-- **Macrohabitat** is a landscape-scale unit — e.g., entire Dudhwa Terai forest, Ganga river stretch, Thar desert zone.
-- **Biotope** (European ecological term) ≈ habitat with relatively uniform environmental conditions — often used interchangeably with habitat in exam questions.
+- **Microhabitat** is a small subdivision within a habitat, such as underside of a leaf (aphids), bark crevices (lichens), soil pores (earthworms).
+- **Macrohabitat** is a landscape-scale unit, such as entire Dudhwa Terai forest, Ganga river stretch, Thar desert zone.
+- A **biotope** (European ecological term) ≈ habitat with relatively uniform environmental conditions and is often used interchangeably with habitat in exam questions.
 - Habitats are classified by **medium** (terrestrial, aquatic, marine), **structure** (arboreal, fossorial, scansorial), and **climate** (tropical, temperate, alpine, arid).
-- **Terrestrial habitats** cover forests, grasslands, deserts, mountains — organisms living on land are **terrestrial habitants** (UPPCS 2024 Q62).
-- **Aquatic habitats** include lentic (standing water — ponds, lakes) and lotic (flowing water — rivers, streams).
-- **Transitional habitats** (wetlands, mangroves, estuaries) are neither purely terrestrial nor purely aquatic — mangroves are **coastal transitional**, not classified as terrestrial (UPSC pattern).
-- Habitat **quality** depends on resource distribution — equitable resources support more species with less single-species dominance (UPPCS 2024 Q9, option D).
-- Habitat **loss, fragmentation, and degradation** are the primary drivers of species decline — when habitat shrinks, populations become isolated and extinction risk rises.
-- India's habitat diversity mirrors its **10 biogeographic zones** — from Himalayan alpine to Gangetic plain, Western Ghats rainforest to Thar desert.
-- UP's richest natural habitats lie in the **Terai-Duar belt** (Dudhwa, Pilibhit, Kishanpur) — moist deciduous forests with high fauna density.
+- **Terrestrial habitats** cover forests, grasslands, deserts, mountains, which means organisms living on land are **terrestrial habitants** (UPPCS 2024 Q62).
+- **Aquatic habitats** include lentic (standing water such as ponds and lakes) and lotic (flowing water such as rivers and streams).
+- **Transitional habitats** (wetlands, mangroves, estuaries) are neither purely terrestrial nor purely aquatic, which means mangroves are **coastal transitional**, not classified as terrestrial (UPSC pattern).
+- Habitat **quality** depends on resource distribution, which means equitable resources support more species with less single-species dominance (UPPCS 2024 Q9, option D).
+- Habitat **loss, fragmentation, and degradation** are the primary drivers of species decline, and when habitat shrinks, populations become isolated and extinction risk rises.
+- India's habitat diversity mirrors its **10 biogeographic zones**, which means from Himalayan alpine to Gangetic plain, Western Ghats rainforest to Thar desert.
+- UP's richest natural habitats lie in the **Terai-Duar belt** (Dudhwa, Pilibhit, Kishanpur), which means moist deciduous forests with high fauna density.
 
 > **Exam note:** "Plants and animals on land" = **terrestrial habitants** (Option C in 2024 Q62). **Biotic** = living components (not a habitat type). **Abiotic** = non-living factors (also not a habitat type).
 
@@ -200,16 +200,16 @@ UP FOCUS:
 
 ### Exam Facts (raata)
 
-- Habitat = **place/address**; Niche = **role**; Ecosystem = **functional unit** — most confused trio in ecology MCQs.
-- Terrestrial organisms = **terrestrial habitants** — not "biotic" or "abiotic" (those describe components, not habitat class).
-- Mangrove, wetland, estuary = **transitional** habitats — NOT purely terrestrial.
-- 15 habitat types — exams may ask "which is NOT terrestrial" → pick mangrove/wetland.
-- Microhabitat example: lichens on tree bark; aphids under leaf — both within same forest macrohabitat.
+- Habitat = **place/address**, Niche = **role**, and Ecosystem = **functional unit**, which means most confused trio in ecology MCQs.
+- Terrestrial organisms are **terrestrial habitants**, not "biotic" or "abiotic" (those terms describe components, not a habitat class).
+- Mangrove, wetland, and estuary habitats are **transitional** and are NOT purely terrestrial.
+- 15 habitat types, which means exams may ask "which is NOT terrestrial", which leads to pick mangrove/wetland.
+- Microhabitat example: lichens on tree bark, and aphids under leaf, which means both within same forest macrohabitat.
 - Habitat loss is the **#1 cause** of biodiversity decline globally (context for conservation).
 - India's 10 biogeographic zones (Rodgers & Panwar 1988) = framework for habitat mapping.
 - UP Terai belt = highest forest cover and wildlife habitat density in the state.
 - Adolf Engler divided world into **floral regions** (linked to habitat-climate zones).
-- Bushman → Kalahari; Eskimo → Arctic Canada; Pygmy → Congo Basin; Masai → **East Africa** (NOT West Africa — 2025 Q23 trap).
+- The **Bushman** inhabit the Kalahari, the **Eskimo** live in Arctic Canada, the **Pygmy** live in the Congo Basin, and the **Masai** live in **East Africa** (NOT West Africa, 2025 Q23 trap).
 
 ### PYQs — Habitat
 
@@ -222,7 +222,7 @@ UP FOCUS:
    → **Answer: C is the false statement** (species number becomes small when resources sufficient — false). Option D about habitat resource equity is **true** — teaches habitat–species relationship.
 
 3. **(UPPCS Prelims 2025, Q23)** Which pairs NOT correctly matched (Tribe — Habitat)?
-   - 4. Masai — West Africa
+   - 4. Masai. West Africa.
    → **Answer: B (Only 4)** — Masai pastoralists live in **East Africa** (Kenya/Tanzania), not West Africa.
 
 4. **(UPSC Prelims 2020 — pattern)** Terrestrial ecosystems among Desert, Mangrove, Rainforest:
@@ -253,19 +253,19 @@ UP FOCUS:
 
 ### Habitat Conservation — How It Works
 
-- Habitat conservation protects the **place** where species live — without habitat, species-level protection (captive breeding, anti-poaching alone) cannot succeed long-term.
-- **Habitat loss** (complete destruction) is the most severe threat — e.g., converting Terai forest to agriculture removes all native fauna.
-- **Habitat fragmentation** splits continuous habitat into isolated patches — species cannot migrate, gene flow stops, edge effects increase.
-- **Habitat degradation** reduces quality without total destruction — e.g., pollution in Ganga degrades dolphin habitat without eliminating the river.
+- Habitat conservation protects the **place** where species live, which means without habitat, species-level protection (captive breeding, anti-poaching alone) cannot succeed long-term.
+- **Habitat loss** (complete destruction) is the most severe threat, such as converting Terai forest to agriculture removes all native fauna.
+- **Habitat fragmentation** splits continuous habitat into isolated patches, which means species cannot migrate, gene flow stops, edge effects increase.
+- **Habitat degradation** reduces quality without total destruction, such as pollution in Ganga degrades dolphin habitat without eliminating the river.
 - **In-situ conservation** (protecting habitat on-site) is preferred over ex-situ (zoos, seed banks) because it preserves **entire ecological relationships**.
 - **Protected areas** (National Parks, Wildlife Sanctuaries, Biosphere Reserves) are the primary legal tool for habitat conservation in India under **WPA 1972** and **Forest (Conservation) Act 1980**.
-- **Wildlife corridors** connect fragmented habitats — e.g., Terai Arc Landscape links Dudhwa–Kishanpur–Katarniaghat for tiger movement.
-- **Eco-Sensitive Zones (ESZ)** create buffer areas (typically up to 10 km) around protected habitats — regulated under **EPA 1986** to restrict mining, polluting industries, and construction.
-- **Habitat restoration** rebuilds degraded ecosystems — planting mangroves (MISHTI), wetland revival, CAMPA-funded afforestation.
-- **Reintroduction programmes** restore species to former habitats — e.g., one-horned rhino reintroduced to Dudhwa (1984) after local extinction.
-- **Urban habitat conservation** through green spaces, urban forests, and housing policies — **National Urban Housing and Habitat Policy (NUHHP) 2007** under MoHUA.
-- **Community participation** in habitat protection — Joint Forest Management (1990), Van Panchayats, and FRA 2006 recognise local stake in habitat stewardship.
-- **International obligation** — CBD Aichi Target (2010) and Global Biodiversity Framework (2022) set **30×30 target** (30% land/water protected by 2030).
+- **Wildlife corridors** connect fragmented habitats, such as Terai Arc Landscape links Dudhwa–Kishanpur–Katarniaghat for tiger movement.
+- **Eco-Sensitive Zones (ESZ)** create buffer areas (typically up to 10 km) around protected habitats, which means regulated under **EPA 1986** to restrict mining, polluting industries, and construction.
+- **Habitat restoration** rebuilds degraded ecosystems, which means planting mangroves (MISHTI), wetland revival, CAMPA-funded afforestation.
+- **Reintroduction programmes** restore species to former habitats, such as one-horned rhino reintroduced to Dudhwa (1984) after local extinction.
+- **Urban habitat conservation** through green spaces, urban forests, and housing policies. **National Urban Housing and Habitat Policy (NUHHP) 2007** under MoHUA.
+- **Community participation** in habitat protection. Joint Forest Management (1990), Van Panchayats, and FRA 2006 recognise local stake in habitat stewardship.
+- **International obligation** is the CBD Aichi Target (2010) and Global Biodiversity Framework (2022) set **30×30 target** (30% land/water protected by 2030).
 
 > **Exam note:** MISHTI was announced in **Union Budget 2023–24**, NOT 2019 (UPPCS 2025 Q93 — Statement 1 is false). Statement 2 (restore mangrove forests) is **true**.
 
@@ -295,16 +295,16 @@ UP FOCUS:
 
 ### Exam Facts (raata)
 
-- Habitat conservation = protecting the **place** — in-situ preferred over ex-situ.
-- Habitat loss > fragmentation > degradation — in severity for species survival.
+- Habitat conservation = protecting the **place**, which means in-situ preferred over ex-situ.
+- Habitat loss > fragmentation > degradation, which means in severity for species survival.
 - MISHTI = **Mangrove Initiative for Shoreline Habitats and Tangible Income** | Budget **2023–24** | MoEFCC.
 - NUHHP = **2007** | MoHUA | Urban housing + habitat.
-- Chronology (2025 Q72): JNNURM (**2005**) → NUHHP (**2007**) → AMRUT (**2015**) → Jal Jeevan Mission (**2019**).
+- Chronology (2025 Q72): JNNURM (**2005**), then NUHHP (**2007**), then AMRUT (**2015**), then Jal Jeevan Mission (**2019**).
 - Terai Arc Landscape = corridor linking UP–Nepal tiger habitats.
-- CAMPA money used for afforestation on degraded land — compensates forest diversion.
-- WPA 1972 + FCA 1980 = primary legal tools for habitat protection — NP notification under WPA; forest diversion requires Central approval under FCA.
+- CAMPA money used for afforestation on degraded land, which means compensates forest diversion.
+- WPA 1972 + FCA 1980 = primary legal tools for habitat protection. NP notification under WPA, and forest diversion requires Central approval under FCA.
 - 30×30 target = protect 30% of land and sea by 2030 (Global Biodiversity Framework 2022).
-- MISHTI targets **mangrove shoreline habitats** — coastal transitional ecosystems.
+- MISHTI targets **mangrove shoreline habitats**, which means coastal transitional ecosystems.
 
 ### PYQs — Habitat Conservation
 
@@ -352,21 +352,21 @@ UP FOCUS:
 
 ### Flora and Fauna — How It Works
 
-- **Flora** and **fauna** are the living (biotic) inhabitants of a habitat — they depend on abiotic habitat factors for survival.
-- Flora = **plants** of a region; Fauna = **animals** of a region — together they define the biodiversity content of a habitat.
-- Flora is **not limited to flowering plants** — it includes gymnosperms, ferns, bryophytes, algae, and (in broad surveys) fungi.
-- Fauna includes **invertebrates** (over 70% of animal species — insects alone account for millions) and **vertebrates**.
-- India has approximately **45,000 species of plants** and **91,000+ species of animals** — about **7–8%** of world's recorded species on just **2.4%** of Earth's land area.
-- India is one of **17 megadiversity countries** — habitat diversity across 10 biogeographic zones supports this flora/fauna richness.
-- **Botanical Survey of India (BSI)** — Kolkata — documents, identifies, and classifies Indian **plant** diversity; publishes *Flora of India*.
-- **Zoological Survey of India (ZSI)** — Kolkata — documents, identifies, and classifies Indian **animal** diversity; publishes *Fauna of India* series.
-- BSI established **1890** (under East India Company); ZSI established **1916** — both are premier scientific organisations under MoEFCC.
-- **Adolf Engler** (1899) classified the world into major **floral regions** (floral kingdoms) based on plant distribution — asked in UPPCS 2024 Q29.
+- **Flora** and **fauna** are the living (biotic) inhabitants of a habitat, which means they depend on abiotic habitat factors for survival.
+- Flora = **plants** of a region. Fauna = **animals** of a region, which means together they define the biodiversity content of a habitat.
+- Flora is **not limited to flowering plants**, which means it includes gymnosperms, ferns, bryophytes, algae, and (in broad surveys) fungi.
+- Fauna includes **invertebrates** (over 70% of animal species, which means insects alone account for millions) and **vertebrates**.
+- India has approximately **45,000 species of plants** and **91,000+ species of animals**, which means about **7–8%** of world's recorded species on just **2.4%** of Earth's land area.
+- India is one of **17 megadiversity countries**, which means habitat diversity across 10 biogeographic zones supports this flora/fauna richness.
+- The **Botanical Survey of India (BSI)**, based in Kolkata, documents, identifies, and classifies Indian **plant** diversity and publishes *Flora of India*.
+- The **Zoological Survey of India (ZSI)**, based in Kolkata, documents, identifies, and classifies Indian **animal** diversity and publishes the *Fauna of India* series.
+- BSI established **1890** (under East India Company). ZSI established **1916**, which means both are premier scientific organisations under MoEFCC.
+- **Adolf Engler** (1899) classified the world into major **floral regions** (floral kingdoms) based on plant distribution, which means asked in UPPCS 2024 Q29.
 - **C.O. Sauer** introduced the concept of **planting hearth** (centres of plant domestication origin).
-- Indian flora/fauna distribution follows biogeographic zones — Himalaya (alpine flora, snow leopard), Western Ghats (endemic flora, lion-tailed macaque), Gangetic plain (agricultural flora, Gangetic fauna), Deccan (dry deciduous), Desert (xerophytic flora).
-- **Endemic flora/fauna** are restricted to specific habitats/regions — Western Ghats and Northeast India have highest endemism (e.g., lion-tailed macaque, Nilgiri tahr).
-- Habitat destruction directly reduces flora/fauna populations — fewer plants → less food/shelter for animals → cascading biodiversity loss.
-- **Red Data Book** documents threatened flora and fauna — India has separate plant (BSI) and animal (ZSI) Red Data Books listing endangered species.
+- Indian flora/fauna distribution follows biogeographic zones. Himalaya (alpine flora, snow leopard), Western Ghats (endemic flora, lion-tailed macaque), Gangetic plain (agricultural flora, Gangetic fauna), Deccan (dry deciduous), Desert (xerophytic flora).
+- **Endemic flora/fauna** are restricted to specific habitats/regions. Western Ghats and Northeast India have highest endemism (e.g., lion-tailed macaque, Nilgiri tahr).
+- Habitat destruction directly reduces flora/fauna populations, which means fewer plants maps to less food/shelter for animals.
+- **Red Data Book** documents threatened flora and fauna. India has separate plant (BSI) and animal (ZSI) Red Data Books listing endangered species.
 
 > **Exam note:** BSI = **plants** (Botanical); ZSI = **animals** (Zoological). Both HQ **Kolkata** — trap: "BSI documents animal diversity" = FALSE.
 
@@ -414,7 +414,7 @@ UP FOCUS:
 
 ### Exam Facts (raata)
 
-- Flora = plants | Fauna = animals — of a **region**, not just a single habitat (but habitat determines which flora/fauna exist).
+- Flora = plants | Fauna = animals, which means of a **region**, not just a single habitat (but habitat determines which flora/fauna exist).
 - India: ~**45,000** plant species, ~**91,000+** animal species on **2.4%** land.
 - BSI = **Botanical** Survey = **Plants** | ZSI = **Zoological** Survey = **Animals**.
 - Both BSI and ZSI HQ = **Kolkata** (not Delhi, not Dehradun).
@@ -422,20 +422,20 @@ UP FOCUS:
 - Puszta Grassland = **Hungary** | Cryophyte Steppe = **Arctic Tundra**.
 - UP state animal = **Barasingha** (swamp deer) | UP state bird = **Sarus crane**.
 - Gangetic dolphin = UP's iconic aquatic fauna in Ganga–Yamuna stretch.
-- Dudhwa = flagship UP fauna habitat — tiger, rhino, barasingha, hispid hare.
+- Dudhwa = flagship UP fauna habitat, which means tiger, rhino, barasingha, hispid hare.
 - Invasive flora (Parthenium, Lantana, water hyacinth) degrades native flora/fauna habitats in UP.
 
 ### PYQs — Flora and Fauna
 
 1. **(UPPCS Prelims 2024, Q29)** Match List-I with List-II:
-   - A. Planting Hearth — C.O. Sauer (3)
-   - B. Cryophyte Steppe — Arctic Tundra (4)
-   - C. World Floral Regions — Adolf Engler (2)
-   - D. Puszta Grassland — Hungary (1)
+   - A. Planting Hearth. C.O. Sauer (3).
+   - B. Cryophyte Steppe. Arctic Tundra (4).
+   - C. World Floral Regions. Adolf Engler (2).
+   - D. Puszta Grassland. Hungary (1).
    → **Answer: A (3 4 2 1)** — Classic flora-geography matching.
 
 2. **(UPPCS Prelims 2024, Q12)** Correct order of plant classification (higher to lower):
-   - Plant Kingdom → Phylum → Class → Order
+   - Plant Kingdom, which leads to Phylum, which leads to Class, which leads to Order.
    → **Answer: D** — Taxonomic hierarchy for flora classification.
 
 3. **(UPPCS Prelims 2021 — pattern)** India accounts for what fraction of world's biodiversity?

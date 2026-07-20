@@ -100,15 +100,15 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 ### Buddhism — How It Works
 
 - **Buddhism** arose in **6th century BCE** North India as **Shramana** movement challenging Vedic ritualism.
-- **Founder**: **Siddhartha Gautama** — "Buddha" = Awakened One; Sakya clan of Kapilavastu.
-- **Core teaching**: life is **dukkha** (suffering); suffering has cause; cessation possible via **Eightfold Path**.
-- **Middle Path (Madhyama Pratipad)** — avoids extreme asceticism AND luxury indulgence.
-- **No soul (anatta/anatman)** — rejects permanent self; **no creator God** — non-theistic religion.
-- **Karma and rebirth** accepted — but no eternal atman transmigrating.
+- **Founder:** This refers to **Siddhartha Gautama**. "Buddha" = Awakened One. Sakya clan of Kapilavastu.
+- **Core teaching:** life is **dukkha** (suffering). suffering has cause. cessation possible via **Eightfold Path**.
+- **Middle Path (Madhyama Pratipad)**. Avoids extreme asceticism AND luxury indulgence.
+- **No soul (anatta/anatman):** rejects permanent self. **No creator God**. Non-theistic religion.
+- **Karma and rebirth** accepted. But no eternal atman transmigrating.
 - **Three Jewels (Triratna)**: **Buddha** (teacher), **Dhamma** (teaching), **Sangha** (community).
-- **Monasticism** central — monks depend on alms; viharas (monasteries) developed.
-- **Spread**: India → Sri Lanka, Central Asia, China, Japan, Southeast Asia; declined in India after Gupta/Turkish invasions.
-- **Division**: Hinayana/Theravada, Mahayana, Vajrayana — same Buddha, different texts and goals.
+- **Monasticism** central. Monks depend on alms. Viharas (monasteries) developed.
+- **Spread:** India then Sri Lanka, Central Asia, China, Japan, Southeast Asia. Declined in India after Gupta/Turkish invasions.
+- **Division**: Hinayana/Theravada, Mahayana, Vajrayana. Same Buddha, different texts and goals.
 
 > **Exam note:** Buddhism = **nastika** (rejects Veda authority). Trap: "Buddha founded a theistic religion" — false.
 
@@ -145,15 +145,15 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 
 ### Buddha — How It Works
 
-- **Birth**: **Lumbini** (Nepal), ~563 BCE (traditional); mother **Mahamaya**; father **Suddhodana** (Sakya chief).
-- **Early life**: raised in **Kapilavastu** palace; saw **four sights** — old man, sick man, corpse, ascetic.
-- **Great Renunciation (Mahabhinishkramana)**: left palace at age **29**; cut hair; became wandering ascetic.
-- **Teachers**: tried **Alara Kalama** and **Udraka Ramaputra** — extreme asceticism failed.
-- **Enlightenment (Nirvana)**: under **Bodhi tree** at **Bodh Gaya** (Uruvela); age **35**; became Buddha.
-- **First sermon**: **Sarnath** (Isipatana) — "Setting in Motion the Wheel of Dhamma"; converted five ascetics (Pancavaggiya).
-- **Ministry**: 45 years teaching across Gangetic plain; monasteries (Jetavana, Nalanda early viharas) patronized.
-- **Death (Mahaparinirvana)**: **Kushinagar** (Kusinara), age **80**; between two Sal trees.
-- **No idol worship initially** — aniconic symbols (footprint, wheel, stupa, Bodhi tree) represented Buddha.
+- **Birth:** This refers to **Lumbini** (Nepal), ~563 BCE (traditional). mother **Mahamaya**. father **Suddhodana** (Sakya chief).
+- **Early life:** This refers to raised in **Kapilavastu** palace. Saw **four sights**. Old man, sick man, corpse, ascetic.
+- **Great Renunciation (Mahabhinishkramana):** left palace at age **29**. cut hair. became wandering ascetic.
+- **Teachers**: tried **Alara Kalama** and **Udraka Ramaputra**. Extreme asceticism failed.
+- **Enlightenment (Nirvana):** under **Bodhi tree** at **Bodh Gaya** (Uruvela). age **35**. became Buddha.
+- **First sermon:** This refers to **Sarnath** (Isipatana). "Setting in Motion the Wheel of Dhamma". Converted five ascetics (Pancavaggiya).
+- **Ministry:** This refers to 45 years teaching across Gangetic plain. monasteries (Jetavana, Nalanda early viharas) patronized.
+- **Death (Mahaparinirvana):** This refers to **Kushinagar** (Kusinara), age **80**. between two Sal trees.
+- **No idol worship initially**. Aniconic symbols (footprint, wheel, stupa, Bodhi tree) represented Buddha.
 - **Titles**: Tathagata, Shakyamuni, Bhagavat, Sugata.
 
 > **Exam note:** Lumbini (birth) → Bodh Gaya (enlightenment) → Sarnath (sermon) → Kushinagar (death). Trap: "Buddha was born at Bodh Gaya" — false.
@@ -165,7 +165,7 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 - Sarnath = first sermon
 - Kushinagar = Mahaparinirvana
 - Four sights triggered renunciation
-- Age 35 enlightenment; 80 death
+- Age 35 enlightenment. 80 death.
 - Sakya clan, Kapilavastu
 - Aniconic representation early
 
@@ -191,16 +191,16 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 
 ### Four Noble Truths — How It Works
 
-- **First Noble Truth (Dukkha)**: life involves **suffering/unsatisfactoriness** — birth, disease, old age, death, separation from loved ones.
-- **Second Noble Truth (Samudaya)**: suffering has **cause** — **trishna/tanha** (craving/desire/thirst) and **avidya** (ignorance).
-- **Third Noble Truth (Nirodha)**: suffering can **cease** — **nirvana** attainable in this life.
+- **First Noble Truth (Dukkha)**: life involves **suffering/unsatisfactoriness**. Birth, disease, old age, death, separation from loved ones.
+- **Second Noble Truth (Samudaya)**: suffering has **cause**. **Trishna/tanha** (craving/desire/thirst) and **avidya** (ignorance).
+- **Third Noble Truth (Nirodha)**: suffering can **cease**. **Nirvana** attainable in this life.
 - **Fourth Noble Truth (Magga)**: path to end suffering is the **Eightfold Path** (Ashtangika Marga).
-- **Diagnosis → Cause → Cure → Prescription** structure — medical analogy Buddha used.
-- **Dukkha** does not mean only pain — includes impermanence (anicca) of all conditioned things.
-- **Central to all Buddhist schools** — Hinayana, Mahayana, Vajrayana accept Four Truths.
-- **First sermon at Sarnath** expounded these truths — core of Dhammacakkappavattana Sutta.
-- **Ignorance (avidya)** — not seeing things as they are (impermanent, no-self) perpetuates suffering.
-- **Nirvana** — blowing out of craving; not extinction of person but of suffering's causes.
+- **Diagnosis then Cause then Cure then Prescription** structure. Medical analogy Buddha used.
+- **Dukkha** does not mean only pain. Includes impermanence (anicca) of all conditioned things.
+- **Central to all Buddhist schools**. Hinayana, Mahayana, Vajrayana accept Four Truths.
+- **First sermon at Sarnath** expounded these truths. Core of Dhammacakkappavattana Sutta.
+- **Ignorance (avidya)**. Not seeing things as they are (impermanent, no-self) perpetuates suffering.
+- **Nirvana:** blowing out of craving. not extinction of person but of suffering's causes.
 
 > **Exam note:** Four Truths = Dukkha, Samudaya, Nirodha, Magga. Trap: "Third truth says suffering is eternal" — false; cessation is possible.
 
@@ -237,8 +237,8 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 
 ### Eightfold Path — How It Works
 
-- **Ashtangika Marga** — practical path to **nirvana** prescribed in Fourth Noble Truth.
-- **Three divisions** — **Wisdom (Prajna)**, **Ethics (Sila)**, **Meditation (Samadhi)**:
+- **Ashtangika Marga**. Practical path to **nirvana** prescribed in Fourth Noble Truth.
+- **Three divisions**. **Wisdom (Prajna)**, **Ethics (Sila)**, **Meditation (Samadhi)**:
 
 | Division | Factor | Meaning |
 |----------|--------|---------|
@@ -251,10 +251,10 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 | **Samadhi** | 7. Right Mindfulness (Samyak Smriti) | Awareness of body, feelings, mind |
 | **Samadhi** | 8. Right Concentration (Samyak Samadhi) | Meditation (jhana/dhyana) |
 
-- **Middle Path** embodied — neither extreme asceticism nor sensual indulgence.
-- **Lay followers** follow Five Precepts (simplified Sila); monks follow full Vinaya.
+- **Middle Path** embodied. Neither extreme asceticism nor sensual indulgence.
+- **Lay followers** follow Five Precepts (simplified Sila). monks follow full Vinaya.
 - **Right Livelihood** excludes trade in weapons, living beings, meat, intoxicants, poison.
-- **Mindfulness (satipatthana)** — foundation of Buddhist meditation practice worldwide.
+- **Mindfulness (satipatthana)**. Foundation of Buddhist meditation practice worldwide.
 - **Leads to arhatship** (Hinayana) or bodhisattva path (Mahayana extension).
 
 > **Exam note:** 8 factors — 2 Wisdom + 3 Ethics + 3 Meditation. Trap: "Eightfold Path has 10 steps" — exactly 8.
@@ -291,16 +291,16 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 
 ### Buddhist Philosophy — How It Works
 
-- **Anatta (Anatman)** — no permanent, unchanging **soul/self**; five skandhas (aggregates) constitute person.
-- **Anicca (Impermanence)** — all conditioned phenomena are transient; clinging causes suffering.
-- **Dukkha** — unsatisfactoriness inherent in conditioned existence.
-- **Pratityasamutpada (Dependent Origination)** — **12-linked chain** of cause-effect explaining rebirth cycle.
-- **12 Nidanas**: ignorance → formations → consciousness → name-form → six senses → contact → feeling → craving → grasping → becoming → birth → old age/death.
-- **Karma** — intentional action shapes rebirth; no divine judge — automatic moral causation.
-- **Nirvana** — cessation of craving and rebirth; **unconditioned state** beyond description.
-- **Sunyata (Emptiness)** — Mahayana concept (Nagarjuna); all phenomena lack inherent existence.
-- **Bodhisattva ideal** — Mahayana — postpone own nirvana to help all beings.
-- **Madhyamaka and Yogacara** — major Mahayana philosophical schools.
+- **Anatta (Anatman):** no permanent, unchanging **soul/self**. five skandhas (aggregates) constitute person.
+- **Anicca (Impermanence):** all conditioned phenomena are transient. clinging causes suffering.
+- **Dukkha**. Unsatisfactoriness inherent in conditioned existence.
+- **Pratityasamutpada (Dependent Origination)**. **12-linked chain** of cause-effect explaining rebirth cycle.
+- **12 Nidanas**: ignorance then formations then consciousness then name-form then six senses then contact then feeling then craving then grasping then becoming then birth then old age/death.
+- **Karma:** intentional action shapes rebirth. No divine judge. Automatic moral causation.
+- **Nirvana:** cessation of craving and rebirth. **unconditioned state** beyond description.
+- **Sunyata (Emptiness):** Mahayana concept (Nagarjuna). all phenomena lack inherent existence.
+- **Bodhisattva ideal**. Mahayana. Postpone own nirvana to help all beings.
+- **Madhyamaka and Yogacara**. Major Mahayana philosophical schools.
 
 > **Exam note:** Anatta + Anicca + Dukkha = **three marks of existence**. Trap: "Buddhism accepts permanent atman" — false.
 
@@ -346,15 +346,15 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 
 ### Buddhist Councils — How It Works
 
-- **First Council** — **Rajagriha** immediately after Buddha's Mahaparinirvana; **Mahakassapa** presided; **Upali** (Vinaya), **Ananda** (Suttas) recited.
-- **Second Council** — **Vaishali**; dispute over **10 monastic rules**; split into **Sthaviravada** (elders) and **Mahasanghika** (majority) — origin of sectarian Buddhism.
-- **Third Council** — **Pataliputra** under **Ashoka**; **Moggaliputta Tissa** presided; **Abhidhamma Pitaka** compiled; Buddhist missions sent abroad.
-- **Fourth Council** — **two traditions**: **Kundalvana/Kashmir** (Sarvastivada, Kanishka) OR **Sri Lanka** (Theravada, Vattagamani) — different canons finalized.
-- **UPPCS 2025 Q105** — arrange places chronologically: **Rajagriha(2) → Vaishali(1) → Pataliputra(4) → Kundalvana(3)** = **Answer C (2-1-4-3)**.
+- **First Council:** **Rajagriha** immediately after Buddha's Mahaparinirvana. **Mahakassapa** presided. **Upali** (Vinaya), **Ananda** (Suttas) recited.
+- **Second Council:** **Vaishali**. Dispute over **10 monastic rules**. Split into **Sthaviravada** (elders) and **Mahasanghika** (majority). Origin of sectarian Buddhism.
+- **Third Council:** **Pataliputra** under **Ashoka**. **Moggaliputta Tissa** presided. **Abhidhamma Pitaka** compiled. Buddhist missions sent abroad.
+- **Fourth Council**. **Two traditions**: **Kundalvana/Kashmir** (Sarvastivada, Kanishka) OR **Sri Lanka** (Theravada, Vattagamani). Different canons finalized.
+- **UPPCS 2025 Q105**. Arrange places chronologically: **Rajagriha(2) then Vaishali(1) then Pataliputra(4) then Kundalvana(3)** = **Answer C (2-1-4-3)**.
 - Councils preserved oral teachings in written form over centuries.
 - Each council reflects geographic and doctrinal expansion of Buddhism.
-- **Third Council** critical for **Ashokan missionary expansion** — Buddhism becomes world religion.
-- **Vaishali** = Vajji mahajanapada; **Rajgriha** = Magadha capital.
+- **Third Council** critical for **Ashokan missionary expansion**. Buddhism becomes world religion.
+- **Vaishali** = Vajji mahajanapada. **Rajgriha** = Magadha capital.
 
 > **Exam note:** UPPCS 2025 Q105 answer **C: 2-1-4-3**. Trap: "First Council at Vaishali" — Vaishali is Second.
 
@@ -392,16 +392,16 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 
 ### Buddhist Texts — How It Works
 
-- **Pali Canon** (Theravada) — oldest complete Buddhist canon; Sri Lanka preserved.
-- **Sanskrit Canon** (Mahayana) — expanded sutras; composed centuries after Buddha.
-- **Milindapanha (Milinda Panha)** — dialogue between **King Menander (Milinda)** and **Nagasena** ← **UPPCS 2023 Q24**.
-- **Jataka tales** — 547 birth stories of Buddha's previous lives; moral fables.
-- **Dhammapada** — most popular verse text; 26 chapters of ethical aphorisms.
-- **Buddhacharita** — Ashvaghosha's Sanskrit poetic biography of Buddha.
-- **Lalitavistara** — Mahayana Buddha biography with supernatural elements.
-- **Vinaya texts** — monastic discipline for each school.
-- **Abhidhamma/Abhidharma** — philosophical systematization of doctrine.
-- **Tibetan Kanjur and Tanjur** — Vajrayana canon translations.
+- **Pali Canon** (Theravada). Oldest complete Buddhist canon. Sri Lanka preserved.
+- **Sanskrit Canon** (Mahayana). Expanded sutras. Composed centuries after Buddha.
+- **Milindapanha (Milinda Panha)**. Dialogue between **King Menander (Milinda)** and **Nagasena**. the **UPPCS 2023 Q24**.
+- **Jataka tales:** 547 birth stories of Buddha's previous lives. moral fables.
+- **Dhammapada:** most popular verse text. 26 chapters of ethical aphorisms.
+- **Buddhacharita**. Ashvaghosha's Sanskrit poetic biography of Buddha.
+- **Lalitavistara**. Mahayana Buddha biography with supernatural elements.
+- **Vinaya texts**. Monastic discipline for each school.
+- **Abhidhamma/Abhidharma**. Philosophical systematization of doctrine.
+- **Tibetan Kanjur and Tanjur**. Vajrayana canon translations.
 
 > **Exam note:** Milindapanha saint = **Nagasena** (2023 Q24, answer C). Trap: Nagarjuna — philosopher, not Milinda's interlocutor.
 
@@ -438,16 +438,16 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 
 ### Tripitaka — How It Works
 
-- **Tripitaka** = **"Three Baskets"** — complete Buddhist canon in three divisions.
-- **Vinaya Pitaka** — monastic rules; discipline for monks/nuns; recited by Upali at First Council.
-- **Sutta Pitaka (Sutra Pitaka)** — Buddha's discourses/sermons; largest basket; includes Dhammapada, Jataka.
-- **Abhidhamma Pitaka (Abhidharma Pitaka)** — philosophical analysis; systematized doctrine; compiled at Third Council.
-- **Pali Tripitaka** — Theravada standard; preserved in Sri Lanka; most complete early canon.
-- **Sanskrit Tripitaka** — Mahayana additions; many new sutras (Lotus Sutra, Prajnaparamita).
-- **Tibetan Buddhist canon** — Kanjur (Buddha's words) + Tanjur (commentaries).
-- **Chinese Tripitaka** — massive collection of translations; includes texts lost in India.
-- **Originally oral** — written down centuries later (Sri Lanka ~1st century BCE).
-- **Tripitaka structure** same across schools but **content differs** — Mahayana adds sutras.
+- **Tripitaka** = **"Three Baskets"**. Complete Buddhist canon in three divisions.
+- **Vinaya Pitaka:** monastic rules. discipline for monks/nuns. recited by Upali at First Council.
+- **Sutta Pitaka (Sutra Pitaka):** Buddha's discourses/sermons. largest basket. includes Dhammapada, Jataka.
+- **Abhidhamma Pitaka (Abhidharma Pitaka):** philosophical analysis. systematized doctrine. compiled at Third Council.
+- **Pali Tripitaka:** Theravada standard. preserved in Sri Lanka. most complete early canon.
+- **Sanskrit Tripitaka:** Mahayana additions. many new sutras (Lotus Sutra, Prajnaparamita).
+- **Tibetan Buddhist canon**. Kanjur (Buddha's words) + Tanjur (commentaries).
+- **Chinese Tripitaka:** massive collection of translations. includes texts lost in India.
+- **Originally oral**. Written down centuries later (Sri Lanka ~1st century BCE).
+- **Tripitaka structure** same across schools but **content differs**. Mahayana adds sutras.
 
 > **Exam note:** Three baskets = **Vinaya + Sutta + Abhidhamma**. Trap: "Tripitaka has four baskets" — exactly three.
 
@@ -483,16 +483,16 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 
 ### Hinayana — How It Works
 
-- **Hinayana** = "Lesser Vehicle" — **pejorative term** used by Mahayana; prefer **Theravada** ("Way of the Elders").
-- **Goal**: individual **arhat** — one who attains nirvana for self only.
-- **Canon**: **Pali Tripitaka** — earliest Buddhist texts; no Mahayana sutras.
-- **Geography**: **Sri Lanka**, **Myanmar**, **Thailand**, **Laos**, **Cambodia** — Southeast Asia.
-- **Buddha**: revered as **historical teacher** (Shakyamuni); not eternal cosmic Buddha.
-- **Bodhisattva** — rare ideal; focus on personal liberation.
-- **Monasticism** strict — Vinaya rules central; forest and village monks.
-- **No idol worship initially** — aniconic; later Buddha images accepted.
+- **Hinayana** = "Lesser Vehicle". **Pejorative term** used by Mahayana. Prefer **Theravada** ("Way of the Elders").
+- **Goal**: individual **arhat**. One who attains nirvana for self only.
+- **Canon:** This refers to **Pali Tripitaka**. Earliest Buddhist texts. No Mahayana sutras.
+- **Geography**: **Sri Lanka**, **Myanmar**, **Thailand**, **Laos**, **Cambodia**. Southeast Asia.
+- **Buddha:** This refers to revered as **historical teacher** (Shakyamuni). not eternal cosmic Buddha.
+- **Bodhisattva:** rare ideal. focus on personal liberation.
+- **Monasticism** strict. Vinaya rules central. Forest and village monks.
+- **No idol worship initially:** aniconic. later Buddha images accepted.
 - **Theravada** traces to **Sthaviravada** school of Second Council split.
-- **Original Buddhism** closest — Four Noble Truths, Eightfold Path, anatta core.
+- **Original Buddhism** closest. Four Noble Truths, Eightfold Path, anatta core.
 
 > **Exam note:** Hinayana = Theravada preferred term. Trap: "Hinayana worships multiple cosmic Buddhas" — that's Mahayana.
 
@@ -528,16 +528,16 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 
 ### Mahayana — How It Works
 
-- **Mahayana** = "Great Vehicle" — emerged ~1st century CE; major Buddhist reform movement.
-- **Goal**: **Bodhisattva** — seeks enlightenment to help **all beings**; postpones final nirvana.
-- **New sutras**: Lotus Sutra, Prajnaparamita, Avatamsaka, Vimalakirti — Sanskrit compositions.
-- **Cosmic Buddha**: **Amitabha**, **Vairocana** — eternal Buddhas beyond historical Shakyamuni.
+- **Mahayana** = "Great Vehicle". Emerged ~1st century CE. Major Buddhist reform movement.
+- **Goal:** **Bodhisattva**. Seeks enlightenment to help **all beings**. Postpones final nirvana.
+- **New sutras**: Lotus Sutra, Prajnaparamita, Avatamsaka, Vimalakirti. Sanskrit compositions.
+- **Cosmic Buddha**: **Amitabha**, **Vairocana**. Eternal Buddhas beyond historical Shakyamuni.
 - **Bodhisattva figures**: **Avalokiteshvara** (compassion), **Manjushri** (wisdom), **Maitreya** (future Buddha).
-- **Sunyata philosophy** — Nagarjuna's Madhyamaka; all phenomena empty of inherent nature.
+- **Sunyata philosophy:** Nagarjuna's Madhyamaka. all phenomena empty of inherent nature.
 - **Geography**: **China**, **Japan**, **Korea**, **Vietnam**, **Tibet** (with Vajrayana overlay).
-- **Idol worship** — rich iconography; Buddha and bodhisattva images in monasteries.
-- **Lay Buddhism** stronger — bodhisattva vow open to non-monastics.
-- **Split from Hinayana** at Second Council (Vaishali) roots; fully distinct by 1st century CE.
+- **Idol worship:** rich iconography. Buddha and bodhisattva images in monasteries.
+- **Lay Buddhism** stronger. Bodhisattva vow open to non-monastics.
+- **Split from Hinayana** at Second Council (Vaishali) roots. fully distinct by 1st century CE.
 
 > **Exam note:** Mahayana = **Bodhisattva ideal** + Sanskrit sutras. Trap: "Mahayana rejects Four Noble Truths" — false; builds on them.
 
@@ -573,17 +573,17 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 
 ### Vajrayana — How It Works
 
-- **Vajrayana** = "Diamond/Thunderbolt Vehicle" — esoteric Buddhism; **Tantric** practices.
-- **Emergence**: ~6th–7th century CE India; flourished in **Nalanda**, **Vikramashila** universities.
-- **Goal**: **enlightenment in one lifetime** through tantric methods — "fast path."
-- **Guru (Lama)** essential — oral initiation (empowerment/abhisheka) from master required.
-- **Mandalas** — geometric diagrams for meditation; deity yoga visualization.
-- **Mantras**: **Om Mani Padme Hum** (Avalokiteshvara); sacred sound formulas.
-- **Texts**: **Tantras** (Guhyasamaja, Chakrasamvara) — not in Hinayana/Mahayana early canon.
-- **Geography**: **Tibet**, **Bhutan**, **Mongolia**, **Nepal** (Newar Buddhism); Bihar/Nalanda origin.
-- **Dalai Lama** — Tibetan Vajrayana leader; reincarnation of Avalokiteshvara (believed).
-- **Absorbed into Mahayana** framework — considers itself "third turning of Dhamma wheel."
-- **Declined in India** with Turkic invasions (~12th century); survived in Tibet.
+- **Vajrayana** = "Diamond/Thunderbolt Vehicle". Esoteric Buddhism. **Tantric** practices.
+- **Emergence:** This refers to ~6th–7th century CE India. flourished in **Nalanda**, **Vikramashila** universities.
+- **Goal**: **enlightenment in one lifetime** through tantric methods. "fast path.".
+- **Guru (Lama)** essential. Oral initiation (empowerment/abhisheka) from master required.
+- **Mandalas:** geometric diagrams for meditation. deity yoga visualization.
+- **Mantras:** These include **Om Mani Padme Hum** (Avalokiteshvara). sacred sound formulas.
+- **Texts**: **Tantras** (Guhyasamaja, Chakrasamvara). Not in Hinayana/Mahayana early canon.
+- **Geography:** This refers to **Tibet**, **Bhutan**, **Mongolia**, **Nepal** (Newar Buddhism). Bihar/Nalanda origin.
+- **Dalai Lama:** Tibetan Vajrayana leader. reincarnation of Avalokiteshvara (believed).
+- **Absorbed into Mahayana** framework. Considers itself "third turning of Dhamma wheel.".
+- **Declined in India** with Turkic invasions (~12th century). survived in Tibet.
 
 > **Exam note:** Vajrayana = **Tantric/esoteric** Buddhism. Trap: "Vajrayana rejects guru" — guru is essential.
 
@@ -620,16 +620,16 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 
 ### Cave Architecture — How It Works
 
-- **Buddhist cave architecture** — rock-cut **viharas** (monasteries) and **chaityas** (prayer halls) from 3rd century BCE onward.
-- **Barabar caves** (Bihar) — **earliest** rock-cut caves; **Mauryan** (Ashoka donated); polished granite; **Lomas Rishi** horseshoe arch.
-- **Ajanta** (Maharashtra) — 30 caves; **2nd century BCE to 6th century CE**; finest **murals/paintings**; UNESCO WHS.
-- **Ellora** (Maharashtra) — 34 caves; Buddhist (1–12), Hindu (13–29), Jain (30–34); **Kailash temple** (cave 16) monolithic.
-- **Kanheri** (Mumbai) — Buddhist caves in **Sahyadri**; important **western India** Buddhist centre.
-- **Karle, Bhaja, Bedsa** — early **chaitya halls** with horseshoe windows; western Deccan.
-- **Nagarjunakonda** — Andhra Buddhist site; **stupas with ayaka pillars**; Ikshvaku patronage.
-- **Ghantasala stupa** — **Ayaka/Aryaka pillars** on platform ← **UPPCS 2022 Q80 answer B (Ghantasala)**.
-- **Amaravati, Amaravati-style** — Andhra sculpture; narrative reliefs; ayaka pillars.
-- **Bodh Gaya** — Mahabodhi temple (not cave); enlightenment site architecture.
+- **Buddhist cave architecture**. Rock-cut **viharas** (monasteries) and **chaityas** (prayer halls) from 3rd century BCE onward.
+- **Barabar caves** (Bihar). **Earliest** rock-cut caves. **Mauryan** (Ashoka donated). Polished granite. **Lomas Rishi** horseshoe arch.
+- **Ajanta** (Maharashtra). 30 caves. **2nd century BCE to 6th century CE**. Finest **murals/paintings**. UNESCO WHS.
+- **Ellora** (Maharashtra). 34 caves. Buddhist (1–12), Hindu (13–29), Jain (30–34). **Kailash temple** (cave 16) monolithic.
+- **Kanheri** (Mumbai). Buddhist caves in **Sahyadri**. Important **western India** Buddhist centre.
+- **Karle, Bhaja, Bedsa:** early **chaitya halls** with horseshoe windows. western Deccan.
+- **Nagarjunakonda:** Andhra Buddhist site. **stupas with ayaka pillars**. Ikshvaku patronage.
+- **Ghantasala stupa**. **Ayaka/Aryaka pillars** on platform. the **UPPCS 2022 Q80 answer B (Ghantasala)**.
+- **Amaravati, Amaravati-style:** Andhra sculpture. narrative reliefs. ayaka pillars.
+- **Bodh Gaya:** Mahabodhi temple (not cave). enlightenment site architecture.
 
 > **Exam note:** 2022 Q80 — **Ghantasala** has Aryaka-pillars. Trap: "Ajanta is earliest" — Barabar (Mauryan) is earlier.
 
@@ -639,7 +639,7 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 - Ajanta = paintings (Maharashtra)
 - Ellora = Buddhist+Hindu+Jain
 - Ghantasala = Ayaka pillars (2022 Q80)
-- Chaitya = prayer hall; Vihara = monastery
+- Chaitya = prayer hall. Vihara = monastery.
 - Kanheri = Mumbai Buddhist caves
 - Karle = famous chaitya hall
 
@@ -666,16 +666,16 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 
 ### Ashokan Patronage — How It Works
 
-- **Ashoka** (268–232 BCE) — greatest **royal patron** of Buddhism after initial conversion post-Kalinga war.
-- **Conversion**: remorse after **Kalinga war** (~261 BCE); adopted **Dhamma** (Buddhist-inspired ethical policy, not conversion of state to Buddhism alone).
-- **Third Buddhist Council** — convened at **Pataliputra** (~250 BCE); **Moggaliputta Tissa** presided; **Abhidhamma** compiled.
-- **Dhamma Mahamatras** — officials appointed in **14th regnal year** to propagate dhamma ← **UPPCS 2024 Q20 statement 2 (correct)**.
-- **Dhamma definition** — Ashoka's dhamma drawn from **Rahulovada Sutta** ← **2024 Q20 statement 1 (correct)** → **Both correct (A)**.
-- **Missionaries sent**: son **Mahinda** and daughter **Sanghamitta** to **Sri Lanka**; others to Central Asia, Greece, Southeast Asia.
-- **Stupas and pillars**: built **84,000 stupas** (tradition); **Ashokan pillars** with dhamma inscriptions; **Lion Capital** (Sarnath) = national emblem.
-- **Barabar caves** donated to **Ajivika** monks (not Buddhist) — shows tolerance; also patronized Buddhism heavily.
+- **Ashoka** (268–232 BCE). Greatest **royal patron** of Buddhism after initial conversion post-Kalinga war.
+- **Conversion:** This refers to remorse after **Kalinga war** (~261 BCE). adopted **Dhamma** (Buddhist-inspired ethical policy, not conversion of state to Buddhism alone).
+- **Third Buddhist Council:** convened at **Pataliputra** (~250 BCE). **Moggaliputta Tissa** presided. **Abhidhamma** compiled.
+- **Dhamma Mahamatras**. Officials appointed in **14th regnal year** to propagate dhamma. the **UPPCS 2024 Q20 statement 2 (correct)**.
+- **Dhamma definition**. Ashoka's dhamma drawn from **Rahulovada Sutta**. the **2024 Q20 statement 1 (correct)** then **Both correct (A)**.
+- **Missionaries sent:** These include son **Mahinda** and daughter **Sanghamitta** to **Sri Lanka**. others to Central Asia, Greece, Southeast Asia.
+- **Stupas and pillars:** These include built **84,000 stupas** (tradition). **Ashokan pillars** with dhamma inscriptions. **Lion Capital** (Sarnath) = national emblem.
+- **Barabar caves** donated to **Ajivika** monks (not Buddhist). Shows tolerance. Also patronized Buddhism heavily.
 - **Buddha relics** enshrined in stupas across empire.
-- **Decline**: post-Ashoka, Mauryan empire fragmented; Buddhism continued but royal patronage reduced until Kushan/Kanishka.
+- **Decline:** This refers to post-Ashoka, Mauryan empire fragmented. Buddhism continued but royal patronage reduced until Kushan/Kanishka.
 
 > **Exam note:** 2024 Q20 — **both statements correct (A)**. Dhamma Mahamatras = 14th year. Trap: "Ashoka made Buddhism state religion exclusively" — he tolerated all sects.
 
@@ -685,7 +685,7 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 - Third Council Pataliputra ~250 BCE
 - Dhamma Mahamatras 14th year (2024 Q20)
 - Rahulovada Sutta = dhamma source
-- Mahinda → Sri Lanka mission
+- Mahinda then Sri Lanka mission.
 - 84,000 stupas tradition
 - Lion Capital Sarnath
 - Barabar caves donation
@@ -720,16 +720,16 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 
 ### Jainism — How It Works
 
-- **Jainism** — parallel Shramana movement to Buddhism; **older tradition** claiming **Rishabhanatha** as first tirthankara.
-- **24 Tirthankaras** — spiritual teachers; **Mahavira** (24th) = historical founder for present era.
-- **Ahimsa (non-violence)** — supreme principle; extends to all living beings including insects.
-- **Anekantavada** — **non-absolutism**; multiple viewpoints (syadvada — conditioned predication).
-- **Karma** — subtle matter (pudgala) sticks to soul (jiva); causes rebirth; must be shed through austerity.
+- **Jainism:** parallel Shramana movement to Buddhism. **older tradition** claiming **Rishabhanatha** as first tirthankara.
+- **24 Tirthankaras:** spiritual teachers. **Mahavira** (24th) = historical founder for present era.
+- **Ahimsa (non-violence):** supreme principle. extends to all living beings including insects.
+- **Anekantavada:** **non-absolutism**. Multiple viewpoints (syadvada. Conditioned predication).
+- **Karma:** subtle matter (pudgala) sticks to soul (jiva). causes rebirth. must be shed through austerity.
 - **Three jewels (Ratnatraya)**: **Right Faith, Right Knowledge, Right Conduct**.
-- **Asceticism extreme** — monks practice severe penance; lay followers observe **vratas** (vows).
-- **No creator God** — eternal universe; no beginning; **nastika** (rejects Vedas).
-- **Digambara and Svetambara** — two major sects (see §4.21–4.22).
-- **Flourished under royal patronage**: Chandragupta Maurya (legend — became Jain monk at Shravanabelagola), **Kumarapala** (Chaulukya, Gujarat), **Amoghavarsha** (Rashtrakuta).
+- **Asceticism extreme:** monks practice severe penance. lay followers observe **vratas** (vows).
+- **No creator God:** eternal universe. no beginning. **nastika** (rejects Vedas).
+- **Digambara and Svetambara**. Two major sects (see §4.21–4.22).
+- **Flourished under royal patronage**: Chandragupta Maurya (legend. Became Jain monk at Shravanabelagola), **Kumarapala** (Chaulukya, Gujarat), **Amoghavarsha** (Rashtrakuta).
 
 > **Exam note:** Jainism = **ahimsa foremost**. Trap: "Mahavira founded Jainism" — 23 tirthankaras before him; he **reformed/revived**.
 
@@ -740,7 +740,7 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 - Ahimsa supreme principle
 - Anekantavada = non-absolutism
 - Ratnatraya: Faith, Knowledge, Conduct
-- Nastika — rejects Vedas
+- Nastika. Rejects Vedas.
 - Two sects: Digambara, Svetambara
 - Karma as material particles on soul
 
@@ -766,15 +766,15 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 
 ### Tirthankaras — How It Works
 
-- **24 Tirthankaras** — spiritual masters who attained **moksha** and taught path; Mahavira = last in current cycle.
-- **Rishabhanatha (Adinath)** — **1st tirthankara**; bull symbol; legendary founder of agriculture, arts.
-- **Parshvanatha** — **23rd tirthankara**; **serpent/hood symbol**; 4 great vows (Mahavira added 5th).
-- **Mahavira (Vardhamana)** — **24th tirthankara**; historical; lion symbol; 5 vows.
-- **Neminatha** — **22nd**; conch symbol; associated with Krishna legend (cousin).
+- **24 Tirthankaras:** spiritual masters who attained **moksha** and taught path. Mahavira = last in current cycle.
+- **Rishabhanatha (Adinath):** **1st tirthankara**. bull symbol. legendary founder of agriculture, arts.
+- **Parshvanatha:** **23rd tirthankara**. **serpent/hood symbol**. 4 great vows (Mahavira added 5th).
+- **Mahavira (Vardhamana):** **24th tirthankara**. historical. lion symbol. 5 vows.
+- **Neminatha:** **22nd**. conch symbol. associated with Krishna legend (cousin).
 - **Each tirthankara** has fixed **symbol (lanchhana)**, **colour**, and **attendant yaksha/yakshi**.
-- **Tirthankara images** — identical posture (kayotsarga/ meditation); distinguished only by **symbol on pedestal**.
-- **Jain temples** — **Bimba** (idol) of tirthankara in sanctum; **mandapa** halls.
-- **24 tirthankaras** span cosmic time — not all historical persons.
+- **Tirthankara images:** identical posture (kayotsarga/ meditation). distinguished only by **symbol on pedestal**.
+- **Jain temples:** **Bimba** (idol) of tirthankara in sanctum. **mandapa** halls.
+- **24 tirthankaras** span cosmic time. Not all historical persons.
 - **First tirthankara Rishabhanatha** mentioned in Rigveda (Rishabha reference debated).
 
 > **Exam note:** Mahavira = **24th**; Parshvanatha = **23rd**. Trap: "Mahavira was first tirthankara" — Rishabhanatha is first.
@@ -840,15 +840,15 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 
 ### Tirthankaras and their Symbols — How It Works
 
-- **Lanchhana (symbol)** — identifies each tirthankara in art since all share same **kayotsarga** (standing meditation) or **padmasana** (seated) posture.
+- **Lanchhana (symbol)**. Identifies each tirthankara in art since all share same **kayotsarga** (standing meditation) or **padmasana** (seated) posture.
 - **Most tested**: **Rishabha-Bull**, **Parshvanatha-Serpent**, **Mahavira-Lion**, **Neminath-Conch**.
 - **Symbols carved on pedestal (asan)** below tirthankara image in temples.
-- **Colour association** also fixed — Parshvanatha green, Mahavira golden yellow.
-- **Yaksha/Yakshi** — attendant deities unique to each tirthankara (e.g., Mahavira's yakshi Siddhayika).
-- **Symbol origin** — linked to events in tirthankara's life stories (Puranic/Jain Agama texts).
-- **Swastika** — Suparshvanatha's symbol (Jain swastika distinct from Nazi — arms different).
-- **Digambara and Svetambara** — same 24 symbols agreed upon.
-- **Exam strategy** — memorize **1st, 12th, 22nd, 23rd, 24th** minimum; full table for comprehensive prep.
+- **Colour association** also fixed. Parshvanatha green, Mahavira golden yellow.
+- **Yaksha/Yakshi**. Attendant deities unique to each tirthankara (e.g., Mahavira's yakshi Siddhayika).
+- **Symbol origin**. Linked to events in tirthankara's life stories (Puranic/Jain Agama texts).
+- **Swastika**. Suparshvanatha's symbol (Jain swastika distinct from Nazi. Arms different).
+- **Digambara and Svetambara**. Same 24 symbols agreed upon.
+- **Exam strategy:** memorize **1st, 12th, 22nd, 23rd, 24th** minimum. full table for comprehensive prep.
 
 > **Exam note:** Parshvanatha = **Serpent**; Mahavira = **Lion**; Rishabhanatha = **Bull**. Trap: "Mahavira symbol = serpent" — that's Parshvanatha.
 
@@ -914,23 +914,23 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 
 ### Nirvana Sites of Tirthankaras — How It Works
 
-- **Kalyanaka Bhoomi** — holy site where tirthankara attained **moksha/nirvana**.
-- **Pavapuri (Pawa), Bihar** — **Mahavira's nirvana** site; Jal Mandir temple in lake; **correct pair** in exams.
-- **Sammed Shikhar (Parasnath Hill), Jharkhand** — **20 tirthankaras** attained nirvana here — most sacred Jain mountain.
-- **Girnar (Urjayanta), Gujarat** — **Neminatha's nirvana**; also associated with older traditions.
-- **Champapuri (Champa), Bihar** — **Vasupujya's nirvana** ← **NOT Sammedashikhar** ← **UPPCS 2021 Q131 trap answer B**.
-- **Ashtapad / Kailash** — **Rishabhanatha's nirvana** (Himalaya); difficult pilgrimage site.
-- **UPPCS 2021 Q131** — NOT matched pair: **B. Vasupujya - Sammedashikhar** (wrong; correct = Champapuri).
+- **Kalyanaka Bhoomi**. Holy site where tirthankara attained **moksha/nirvana**.
+- **Pavapuri (Pawa), Bihar:** **Mahavira's nirvana** site. Jal Mandir temple in lake. **correct pair** in exams.
+- **Sammed Shikhar (Parasnath Hill), Jharkhand**. **20 tirthankaras** attained nirvana here. Most sacred Jain mountain.
+- **Girnar (Urjayanta), Gujarat:** **Neminatha's nirvana**. also associated with older traditions.
+- **Champapuri (Champa), Bihar** is **Vasupujya's nirvana** site. It is **NOT Sammedashikhar**. This is the **UPPCS 2021 Q131 trap answer B**.
+- **Ashtapad / Kailash:** **Rishabhanatha's nirvana** (Himalaya). difficult pilgrimage site.
+- **UPPCS 2021 Q131:** NOT matched pair: **B. Vasupujya - Sammedashikhar** (wrong, correct = Champapuri).
 - **Mahavira-Pavapuri** = **correct** pair (option D in 2021 Q131).
-- **Pilgrimage (Tirtha)** — visiting nirvana sites = major Jain religious practice.
-- **Moksha** in Jainism = complete liberation from karma; soul rises to **siddhashila** (top of universe).
+- **Pilgrimage (Tirtha)**. Visiting nirvana sites = major Jain religious practice.
+- **Moksha** in Jainism = complete liberation from karma. soul rises to **siddhashila** (top of universe).
 
 > **Exam note:** 2021 Q131 wrong pair = **Vasupujya-Sammedashikhar** (answer B). Mahavira-Pavapuri is CORRECT. Trap: all tirthankaras nirvana at Sammed Shikhar — only 20 of 24.
 
 ### Exam Facts (raata)
 
 - Mahavira = Pavapuri (Bihar) ✓
-- Vasupujya = Champapuri (NOT Sammed Shikhar) ← 2021 trap
+- Vasupujya = Champapuri (NOT Sammed Shikhar). This is 2021 trap.
 - Neminatha = Girnar/Urjayanta (Gujarat)
 - Rishabhanatha = Ashtapad/Kailash
 - Sammed Shikhar = 20 tirthankaras
@@ -960,15 +960,15 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 
 ### Mahavira — How It Works
 
-- **Mahavira (Vardhamana)** — **24th tirthankara**; historical founder of Jainism in present era.
-- **Birth**: **Kundagrama** (Vaishali area, Bihar), ~599 BCE (traditional); parents **Siddhartha** and **Trishala**; **Kshatriya** of Jnatrika clan.
-- **Early life**: married **Yashoda**; daughter **Priyadarshana** (Anojja); lived as householder until **30**.
-- **Renunciation**: left home at **30**; extreme asceticism for **12 years**.
+- **Mahavira (Vardhamana):** **24th tirthankara**. historical founder of Jainism in present era.
+- **Birth:** This refers to **Kundagrama** (Vaishali area, Bihar), ~599 BCE (traditional). parents **Siddhartha** and **Trishala**. **Kshatriya** of Jnatrika clan.
+- **Early life:** This refers to married **Yashoda**. daughter **Priyadarshana** (Anojja). lived as householder until **30**.
+- **Renunciation:** This refers to left home at **30**. extreme asceticism for **12 years**.
 - **Kevala Jnana (Omniscience)**: attained at **42** under **Sala tree** on bank of **Rijukula river** (Jrimbhikagrama).
-- **Five Great Vows** — added **celibacy (brahmacharya)** as 5th to Parshvanatha's four vows.
-- **Ministry**: **30 years** preaching; converted **11 ganadharas** (chief disciples); **Gosala** (later Ajivika founder) was companion initially.
-- **Nirvana**: **Pavapuri (Pawa)**, Bihar, age **72** (~527 BCE); **correct nirvana site** in exams.
-- **Symbol**: **Lion**; colour yellow/golden.
+- **Five Great Vows**. Added **celibacy (brahmacharya)** as 5th to Parshvanatha's four vows.
+- **Ministry:** **30 years** preaching. converted **11 ganadharas** (chief disciples). **Gosala** (later Ajivika founder) was companion initially.
+- **Nirvana:** This refers to **Pavapuri (Pawa)**, Bihar, age **72** (~527 BCE). **correct nirvana site** in exams.
+- **Symbol:** This refers to **Lion**. colour yellow/golden.
 - **Title**: Jina (conqueror), Kevalin (omniscient), Arhat.
 
 > **Exam note:** Mahavira nirvana = **Pavapuri** (2021 Q131 correct pair). Added **5th vow** (brahmacharya). Trap: "Mahavira was contemporary of Ashoka" — he lived ~300 years before Ashoka.
@@ -977,7 +977,7 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 
 - 24th tirthankara
 - Birth Kundagrama ~599 BCE
-- Renounced at 30; kevala jnana at 42
+- Renounced at 30. kevala jnana at 42.
 - 5 Great Vows (added brahmacharya)
 - Nirvana Pavapuri age 72
 - Lion symbol
@@ -1005,16 +1005,16 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 
 ### Parshvanatha — How It Works
 
-- **Parshvanatha (Parshva)** — **23rd tirthankara**; historical; lived ~250 years before Mahavira (~8th century BCE traditional).
-- **Symbol**: **Serpent/Snake** — hood of cobras sheltering him during meditation (legend).
-- **Four Great Vows** — preached **ahimsa, satya, asteya, aparigraha** (non-violence, truth, non-stealing, non-possession).
-- **Mahavira added 5th vow** — **brahmacharya (celibacy)** — distinguishing Jain from pre-Mahavira Parshva tradition.
-- **Nirvana**: **Sammed Shikhar (Parasnath Hill), Jharkhand** — major pilgrimage site named after him.
-- **Colour**: green; **yaksha** Matanga, **yakshi** Kusuma.
-- **Historical evidence** — earlier than Mahavira; some scholars date to 8th–7th century BCE.
-- **Images** — often shown with **serpent hood canopy** — distinctive from Mahavira images.
-- **Parents**: **Ashvasena** (father), **Vama** (mother); Kashi (Varanasi) birthplace tradition.
-- **Bridge figure** — connects legendary tirthankaras to historical Mahavira era.
+- **Parshvanatha (Parshva):** **23rd tirthankara**. historical. lived ~250 years before Mahavira (~8th century BCE traditional).
+- **Symbol**: **Serpent/Snake**. Hood of cobras sheltering him during meditation (legend).
+- **Four Great Vows**. Preached **ahimsa, satya, asteya, aparigraha** (non-violence, truth, non-stealing, non-possession).
+- **Mahavira added 5th vow**. **Brahmacharya (celibacy)**. Distinguishing Jain from pre-Mahavira Parshva tradition.
+- **Nirvana**: **Sammed Shikhar (Parasnath Hill), Jharkhand**. Major pilgrimage site named after him.
+- **Colour:** This refers to green. **yaksha** Matanga, **yakshi** Kusuma.
+- **Historical evidence:** earlier than Mahavira. some scholars date to 8th–7th century BCE.
+- **Images**. Often shown with **serpent hood canopy**. Distinctive from Mahavira images.
+- **Parents:** These include **Ashvasena** (father), **Vama** (mother). Kashi (Varanasi) birthplace tradition.
+- **Bridge figure**. Connects legendary tirthankaras to historical Mahavira era.
 
 > **Exam note:** Parshvanatha = **23rd, serpent symbol, 4 vows**. Trap: "Parshvanatha had 5 vows" — Mahavira added 5th.
 
@@ -1051,17 +1051,17 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 
 ### Five Great Vows (Mahavratas) — How It Works
 
-- **Five Mahavratas** — core ethical code for **Jain monks**; lay followers observe **anuvratas** (lesser versions).
-- **1. Ahimsa (Non-violence)** — supreme vow; no harm to any living being by thought, word, or deed; strictest in all religions.
-- **2. Satya (Truthfulness)** — speak only truth; if truth causes harm, remain silent (ahimsa overrides).
-- **3. Asteya (Non-stealing)** — do not take what is not given; includes not taking uncared-for objects.
-- **4. Brahmacharya (Celibacy)** — complete chastity for monks; **added by Mahavira** (5th vow); Parshvanatha had only 4.
-- **5. Aparigraha (Non-possession)** — renounce property and attachment; monks own nothing; laypeople limit possessions.
-- **Lay followers (Shravakas)** — observe **anuvratas**: limited versions (e.g., avoid killing humans/animals intentionally, not all insects).
+- **Five Mahavratas:** core ethical code for **Jain monks**. lay followers observe **anuvratas** (lesser versions).
+- **1. Ahimsa (Non-violence):** supreme vow. no harm to any living being by thought, word, or deed. strictest in all religions.
+- **2. Satya (Truthfulness):** speak only truth. if truth causes harm, remain silent (ahimsa overrides).
+- **3. Asteya (Non-stealing):** do not take what is not given. includes not taking uncared-for objects.
+- **4. Brahmacharya (Celibacy):** complete chastity for monks. **added by Mahavira** (5th vow). Parshvanatha had only 4.
+- **5. Aparigraha (Non-possession):** renounce property and attachment. monks own nothing. laypeople limit possessions.
+- **Lay followers (Shravakas)**. Observe **anuvratas**: limited versions (e.g., avoid killing humans/animals intentionally, not all insects).
 - **Three jewels support vows**: Right Faith + Right Knowledge + Right Conduct.
-- **Profession restrictions** — Jains avoid agriculture (kills insects in soil), butchers, honey, wine trade.
-- **Ahimsa influence** — Gandhi's non-violence partly inspired by Jain ahimsa.
-- **Violation** — requires **prayaschitta** (penance) to shed accumulated karma.
+- **Profession restrictions**. Jains avoid agriculture (kills insects in soil), butchers, honey, wine trade.
+- **Ahimsa influence**. Gandhi's non-violence partly inspired by Jain ahimsa.
+- **Violation**. Requires **prayaschitta** (penance) to shed accumulated karma.
 
 > **Exam note:** **5 vows = ASAAB** (Ahimsa, Satya, Asteya, Aparigraha, Brahmacharya). Trap: "Parshvanatha taught 5 vows" — only 4; Mahavira added brahmacharya.
 
@@ -1107,16 +1107,16 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 
 ### Digambara — How It Works
 
-- **Digambara** = "Sky-clad" — Jain sect where **monks renounce all clothing**; symbolize complete detachment.
-- **Origin**: schism with Svetambara ~1st century CE (or 3rd century CE debate) — **Council of Valabhi** disputes.
-- **Monks**: **nude** (digambara = clothed in sky/directions); practice extreme asceticism; **bhattarakas** (semi-monastic leaders) manage temples.
-- **Women's moksha**: Digambaras traditionally hold **women cannot attain moksha** in female body — must be reborn as male (disputed within sect).
-- **Tirthankara idols**: **unadorned nude** — no eyes, ornaments, or cloth; plain meditation posture.
-- **Scriptures**: reject **12 of 45** Angas as Svetambara corruptions; own **Satkhandagama**, **Kasayapahuda**.
+- **Digambara** = "Sky-clad". Jain sect where **monks renounce all clothing**. Symbolize complete detachment.
+- **Origin**: schism with Svetambara ~1st century CE (or 3rd century CE debate). **Council of Valabhi** disputes.
+- **Monks:** **nude** (digambara = clothed in sky/directions). practice extreme asceticism. **bhattarakas** (semi-monastic leaders) manage temples.
+- **Women's moksha**: Digambaras traditionally hold **women cannot attain moksha** in female body. Must be reborn as male (disputed within sect).
+- **Tirthankara idols:** These include **unadorned nude**. No eyes, ornaments, or cloth. Plain meditation posture.
+- **Scriptures:** These include reject **12 of 45** Angas as Svetambara corruptions. own **Satkhandagama**, **Kasayapahuda**.
 - **Geography**: dominant in **Madhya Pradesh, Karnataka, Maharashtra, Rajasthan** (south and central India).
-- **Gommateshwara (Bahubali)** — **Shravanabelagola**, Karnataka — 57-foot monolithic Digambara statue.
-- **Chandragupta Maurya** — legend: abdicated, became Digambara monk at Shravanabelagola; died by sallekhana (fasting).
-- **Stricter asceticism** than Svetambara — fewer concessions for monks.
+- **Gommateshwara (Bahubali)**. **Shravanabelagola**, Karnataka. 57-foot monolithic Digambara statue.
+- **Chandragupta Maurya:** legend: abdicated, became Digambara monk at Shravanabelagola. died by sallekhana (fasting).
+- **Stricter asceticism** than Svetambara. Fewer concessions for monks.
 
 > **Exam note:** Digambara = **nude monks, no women moksha (traditional view), south India**. Trap: "Digambara monks wear white" — that's Svetambara.
 
@@ -1153,16 +1153,16 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 
 ### Svetambara — How It Works
 
-- **Svetambara** = "White-clad" — Jain sect where **monks wear white robes**.
-- **Origin**: same schism as Digambara (~1st–3rd century CE); **Council of Valabhi** (453 CE) — Svetambara canon finalized.
-- **Monks**: wear **white unstitched cloth** (mupati); carry **rajoharana** (broom) to sweep insects from path; **mukhavastrika** (cloth over mouth) to avoid inhaling insects.
-- **Women's moksha**: **Svetambaras allow women renouncers** (sadhvis) — can attain moksha in female body.
-- **Tirthankara idols**: **adorned with eyes, ornaments, cloth** — more decorated than Digambara.
-- **Scriptures**: accept **45 Angas** (12 Angas + 33 other texts); **Kalpa Sutra** important (Mahavira's life).
+- **Svetambara** = "White-clad". Jain sect where **monks wear white robes**.
+- **Origin:** This refers to same schism as Digambara (~1st–3rd century CE). **Council of Valabhi** (453 CE). Svetambara canon finalized.
+- **Monks:** wear **white unstitched cloth** (mupati). carry **rajoharana** (broom) to sweep insects from path. **mukhavastrika** (cloth over mouth) to avoid inhaling insects.
+- **Women's moksha**: **Svetambaras allow women renouncers** (sadhvis). Can attain moksha in female body.
+- **Tirthankara idols**: **adorned with eyes, ornaments, cloth**. More decorated than Digambara.
+- **Scriptures:** accept **45 Angas** (12 Angas + 33 other texts). **Kalpa Sutra** important (Mahavira's life).
 - **Geography**: dominant in **Gujarat, Rajasthan, Punjab** (north and west India).
-- **Palitana temples** — Shatrunjaya hill, Gujarat — 900+ Svetambara temples; holiest pilgrimage.
-- **Less extreme asceticism** — white clothing permitted; more lay participation.
-- **Majority sect** — more Jains worldwide identify as Svetambara (especially diaspora).
+- **Palitana temples:** Shatrunjaya hill, Gujarat. 900+ Svetambara temples. Holiest pilgrimage.
+- **Less extreme asceticism:** white clothing permitted. more lay participation.
+- **Majority sect**. More Jains worldwide identify as Svetambara (especially diaspora).
 
 > **Exam note:** Svetambara = **white robes, women can be nuns/moksha, north/west India**. Trap: "Svetambara monks are nude" — that's Digambara.
 
@@ -1199,23 +1199,23 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 
 ### Shramana Tradition — How It Works
 
-- **Shramana** = "striver/laborer" — ascetic traditions rejecting **Vedic Brahmanism** (~6th century BCE onward).
-- **Core features**: renunciation of household life; **ahimsa** (non-violence); **karma-rebirth** belief; **nastika** (reject Veda authority).
+- **Shramana** = "striver/laborer". Ascetic traditions rejecting **Vedic Brahmanism** (~6th century BCE onward).
+- **Core features:** These include renunciation of household life. **ahimsa** (non-violence). **karma-rebirth** belief. **nastika** (reject Veda authority).
 - **Major Shramana schools**: **Buddhism**, **Jainism**, **Ajivika**, **Charvaka** (materialist).
 - **Opposed Vedic**: animal sacrifices (yajna), caste hierarchy by birth, Brahmin priestly monopoly.
 - **Alternative paths**: personal ethics and asceticism over ritual sacrifice for moksha/liberation.
-- **Wandering mendicants** — parivrajaka (wanderers); depended on alms; debated in public (shastrartha).
+- **Wandering mendicants:** parivrajaka (wanderers). depended on alms. debated in public (shastrartha).
 - **Royal patronage divided**: Bimbisara patronized Buddha, Mahavira, and Gosala (Ajivika) simultaneously.
-- **Sixth century BCE** — golden age of Shramana challenge to orthodoxy.
-- **Buddhism and Jainism survived**; Ajivika and Charvaka declined.
-- **Influence on Hinduism** — later Brahmanism absorbed ahimsa, vegetarianism, monastic orders (sannyasa).
+- **Sixth century BCE**. Golden age of Shramana challenge to orthodoxy.
+- **Buddhism and Jainism survived**. Ajivika and Charvaka declined.
+- **Influence on Hinduism**. Later Brahmanism absorbed ahimsa, vegetarianism, monastic orders (sannyasa).
 
 > **Exam note:** Shramana = **anti-Vedic renouncer traditions**. Buddhism + Jainism = surviving Shramana schools. Trap: "Shramana accepted Vedas" — they were nastika.
 
 ### Exam Facts (raata)
 
 - Renouncer ascetic movements
-- Nastika — reject Vedas
+- Nastika. Reject Vedas.
 - Buddhism, Jainism, Ajivika, Charvaka
 - Opposed Vedic sacrifices
 - 6th century BCE flowering
@@ -1245,16 +1245,16 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 
 ### Ajivika Sect — How It Works
 
-- **Ajivika** — major **Shramana sect** founded by **Makkhali Gosala** (Maskariputta Gosala); contemporary of Buddha and Mahavira.
-- **Niyati (Fate) doctrine** — **everything predetermined** by cosmic force; **free will is illusion** — actions cannot change destiny.
-- **No karma moralism** — since fate governs all, individual effort is futile (contrast with Buddhist/Jain karma ethics).
-- **Gosala** — companion of **Mahavira** for 6 years before split; claimed to be more advanced ascetic.
-- **Ajivika** = "those who follow special rules of livelihood" — strict ascetic discipline despite fatalism.
-- **Royal patronage**: **Bindusara** (Mauryan emperor) patronized Ajivikas; **Barabar caves** (Bihar) donated by Ashoka to **Ajivikas** (not Buddhists).
-- **Decline**: after Mauryan period; absorbed/absorbed; texts lost — known mainly from Buddhist/Jain polemics.
-- **Philosophy trap**: if all is predetermined, why practice asceticism? — Ajivikas practiced anyway for spiritual status.
+- **Ajivika:** major **Shramana sect** founded by **Makkhali Gosala** (Maskariputta Gosala). contemporary of Buddha and Mahavira.
+- **Niyati (Fate) doctrine:** **everything predetermined** by cosmic force. **Free will is illusion**. Actions cannot change destiny.
+- **No karma moralism**. Since fate governs all, individual effort is futile (contrast with Buddhist/Jain karma ethics).
+- **Gosala:** companion of **Mahavira** for 6 years before split. claimed to be more advanced ascetic.
+- **Ajivika** = "those who follow special rules of livelihood". Strict ascetic discipline despite fatalism.
+- **Royal patronage:** This refers to **Bindusara** (Mauryan emperor) patronized Ajivikas. **Barabar caves** (Bihar) donated by Ashoka to **Ajivikas** (not Buddhists).
+- **Decline:** This refers to after Mauryan period. Absorbed/absorbed. Texts lost. Known mainly from Buddhist/Jain polemics.
+- **Philosophy trap**: if all is predetermined, why practice asceticism? Ajivikas practiced anyway for spiritual status.
 - **Competitor** to Buddhism and Jainism in 6th–3rd century BCE.
-- **Ashokan Barabar caves** — **Nagarjuni and Barabar hill** caves with Ashoka inscriptions for Ajivikas.
+- **Ashokan Barabar caves**. **Nagarjuni and Barabar hill** caves with Ashoka inscriptions for Ajivikas.
 
 > **Exam note:** Ajivika founder = **Makkhali Gosala**; doctrine = **Niyati (fate)**. Trap: "Ajivikas believed in free will karma" — that's Buddhist/Jain view.
 
@@ -1291,16 +1291,16 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 
 ### Charvaka (Lokayata) — How It Works
 
-- **Charvaka** (also **Lokayata**, **Brihaspatya**) — **materialist** school; **no survival** as organized religion.
-- **Founder attributed**: **Brihaspati** (legendary); actual texts lost; known from Buddhist/Jain/Mimamsa critiques.
-- **Epistemology**: **Pratyaksha (perception) only valid pramana** — only direct sense perception is proof; inference rejected (can't prove fire from smoke logically to Charvakas).
-- **Metaphysics**: **no soul (atman)**, **no rebirth**, **no karma**, **no God** — death = complete annihilation.
-- **Materialism**: only **four elements** (earth, water, fire, air); consciousness arises from matter combination (like alcohol from grains).
-- **Ethics**: **pleasure (bhoga)** is highest good — "while life remains, live happily; incur debt for ghee if needed."
-- **Anti-Vedic**: rejects sacrifices, rituals, afterlife rewards — **nastika** extremist.
-- **Slogan**: **"Yevat sukham adhyatmika, tat sukham"** — bodily pleasure is the only happiness.
-- **No asceticism** — opposite of Buddhist/Jain Shramana ideals; hedonistic materialism.
-- **Declined completely** — no followers today; preserved only in opponents' texts.
+- **Charvaka** (also **Lokayata**, **Brihaspatya**). **Materialist** school. **No survival** as organized religion.
+- **Founder attributed:** This refers to **Brihaspati** (legendary). actual texts lost. known from Buddhist/Jain/Mimamsa critiques.
+- **Epistemology:** **Pratyaksha (perception) only valid pramana**. Only direct sense perception is proof. Inference rejected (can't prove fire from smoke logically to Charvakas).
+- **Metaphysics**: **no soul (atman)**, **no rebirth**, **no karma**, **no God**. Death = complete annihilation.
+- **Materialism:** This refers to only **four elements** (earth, water, fire, air). consciousness arises from matter combination (like alcohol from grains).
+- **Ethics:** **pleasure (bhoga)** is highest good. "while life remains, live happily. Incur debt for ghee if needed?".
+- **Anti-Vedic**: rejects sacrifices, rituals, afterlife rewards. **Nastika** extremist.
+- **Slogan**: **"Yevat sukham adhyatmika, tat sukham"**. Bodily pleasure is the only happiness.
+- **No asceticism:** opposite of Buddhist/Jain Shramana ideals. hedonistic materialism.
+- **Declined completely:** no followers today. preserved only in opponents' texts.
 
 > **Exam note:** Charvaka = **perception-only, no soul, no rebirth, pleasure ethics**. Trap: "Charvaka accepted inference as pramana" — only perception valid.
 
@@ -1312,7 +1312,7 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 - Pleasure = highest good
 - Brihaspati legendary founder
 - Nastika extremist
-- Texts lost — known from critiques
+- Texts lost. Known from critiques.
 - Four elements only
 
 ### PYQs — Charvaka
@@ -1337,16 +1337,16 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 
 ### Materialist Thinkers — How It Works
 
-- **Materialist philosophy in India** — primarily **Charvaka/Lokayata** school; matter is primary reality.
-- **Consciousness from matter** — like intoxication from fermented grain mixture — no separate soul substance.
-- **Four elements theory** — earth, water, fire, air compose all existence; no fifth element (ether/akasha) accepted.
-- **Rejection of supernatural** — no gods, no heaven/hell, no ancestor spirits requiring shraddha rituals.
-- **Political implication** — kings should focus on earthly welfare, not religious rituals (feared by orthodox).
-- **Buddhist/Jain critique** — Charvakas called "the worst sinners" for denying karma and rebirth ethics.
-- **Comparison with Greek materialists** — Democritus (atoms) similar but independent development.
-- **Ajivika contrast** — Ajivikas are fatalist, not materialist; Charvakas deny fate too.
-- **No organized sangha** — unlike Buddhism/Jainism; individual philosophers, no monasteries.
-- **Influence limited** — never gained royal patronage like Buddhism; remained fringe intellectual current.
+- **Materialist philosophy in India:** primarily **Charvaka/Lokayata** school. matter is primary reality.
+- **Consciousness from matter**. Like intoxication from fermented grain mixture. No separate soul substance.
+- **Four elements theory:** earth, water, fire, air compose all existence. no fifth element (ether/akasha) accepted.
+- **Rejection of supernatural**. No gods, no heaven/hell, no ancestor spirits requiring shraddha rituals.
+- **Political implication**. Kings should focus on earthly welfare, not religious rituals (feared by orthodox).
+- **Buddhist/Jain critique**. Charvakas called "the worst sinners" for denying karma and rebirth ethics.
+- **Comparison with Greek materialists**. Democritus (atoms) similar but independent development.
+- **Ajivika contrast:** Ajivikas are fatalist, not materialist. Charvakas deny fate too.
+- **No organized sangha:** unlike Buddhism/Jainism. individual philosophers, no monasteries.
+- **Influence limited:** never gained royal patronage like Buddhism. remained fringe intellectual current.
 
 > **Exam note:** Indian materialism = **Charvaka mainly**. Trap: "Buddhism is materialist" — Buddhism accepts rebirth/karma (not materialist).
 
@@ -1383,16 +1383,16 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 
 ### Heterodox Schools — How It Works
 
-- **Heterodox (Nastika)** — schools rejecting **Vedic authority** and **Brahmanical orthodoxy**.
+- **Heterodox (Nastika)**. Schools rejecting **Vedic authority** and **Brahmanical orthodoxy**.
 - **Four main nastika schools**: **Buddhism**, **Jainism**, **Ajivika**, **Charvaka**.
-- **Orthodox (Astika)** — accept Veda authority: **six schools of Hindu philosophy** (Nyaya, Vaisheshika, Samkhya, Yoga, Mimamsa, Vedanta).
-- **Common nastika features**: reject Brahmin priesthood monopoly; challenge caste-by-birth; offer alternative liberation paths.
-- **Buddhism** — Middle Path, anatta, Four Noble Truths; survived globally.
-- **Jainism** — ahimsa, 24 tirthankaras; survived in India.
-- **Ajivika** — niyati fatalism; extinct.
-- **Charvaka** — materialism; extinct.
-- **Shramana umbrella** — all four are Shramana traditions (except Charvaka is less ascetic).
-- **Intellectual debate culture** — 6th–2nd century BCE public debates (Buddha, Mahavira, Sanjaya Belatthaputta, Makkhali Gosala, Ajita Kesakambalin).
+- **Orthodox (Astika)**. Accept Veda authority: **six schools of Hindu philosophy** (Nyaya, Vaisheshika, Samkhya, Yoga, Mimamsa, Vedanta).
+- **Common nastika features:** These include reject Brahmin priesthood monopoly. challenge caste-by-birth. offer alternative liberation paths.
+- **Buddhism:** Middle Path, anatta, Four Noble Truths. survived globally.
+- **Jainism:** ahimsa, 24 tirthankaras. survived in India.
+- **Ajivika:** niyati fatalism. extinct.
+- **Charvaka:** materialism. extinct.
+- **Shramana umbrella**. All four are Shramana traditions (except Charvaka is less ascetic).
+- **Intellectual debate culture**. 6th–2nd century BCE public debates (Buddha, Mahavira, Sanjaya Belatthaputta, Makkhali Gosala, Ajita Kesakambalin).
 
 > **Exam note:** **4 nastika schools** — Buddhism, Jainism, Ajivika, Charvaka. Trap: "Nyaya is heterodox" — Nyaya is astika (orthodox).
 
@@ -1435,15 +1435,15 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 
 ### Hinduism — How It Works
 
-- **Hinduism** — not single founded religion; **synthesis** of Vedic Brahmanism + indigenous traditions + Shramana influences.
+- **Hinduism:** not single founded religion. **synthesis** of Vedic Brahmanism + indigenous traditions + Shramana influences.
 - **Also called Sanatana Dharma** (eternal law) or **Vedic religion** (evolved form).
-- **Astika (orthodox)** — accepts **Veda authority** as revealed scripture (shruti).
+- **Astika (orthodox)**. Accepts **Veda authority** as revealed scripture (shruti).
 - **Key concepts**: **karma, rebirth (samsara), moksha (liberation)**, varna-ashrama-dharma.
-- **Trimurti**: **Brahma** (creator), **Vishnu** (preserver), **Shiva** (destroyer) — post-Vedic synthesis.
-- **Bhakti (devotion)** — major medieval and modern Hindu practice; personal god worship.
+- **Trimurti**: **Brahma** (creator), **Vishnu** (preserver), **Shiva** (destroyer). Post-Vedic synthesis.
+- **Bhakti (devotion):** major medieval and modern Hindu practice. personal god worship.
 - **Absorbed Shramana ideas**: ahimsa, vegetarianism, monasticism (sannyasa ashrama), yoga meditation.
-- **Puranas** — post-Gupta encyclopaedic texts; mythology, cosmology, genealogy of gods.
-- **No single founder, single church, or single scripture** — pluralistic tradition.
+- **Puranas:** post-Gupta encyclopaedic texts. mythology, cosmology, genealogy of gods.
+- **No single founder, single church, or single scripture**. Pluralistic tradition.
 - **Modern Hinduism** shaped by Shankaracharya (Advaita), Ramanuja (Vishishtadvaita), Madhva (Dvaita) Vedanta schools.
 
 > **Exam note:** Hinduism = **astika** (accepts Vedas). Trap: "Hinduism has single founder like Buddhism" — evolved synthesis, no one founder.
@@ -1451,7 +1451,7 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 ### Exam Facts (raata)
 
 - Sanatana Dharma
-- Astika — accepts Vedas
+- Astika. Accepts Vedas.
 - Karma, samsara, moksha
 - Trimurti: Brahma, Vishnu, Shiva
 - Bhakti tradition
@@ -1481,16 +1481,16 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 
 ### Shaivism — How It Works
 
-- **Shaivism** — worship of **Shiva** as supreme deity; one of three major Hindu traditions.
+- **Shaivism:** worship of **Shiva** as supreme deity. one of three major Hindu traditions.
 - **Shiva forms**: **Linga** (aniconic symbol), **Nataraja** (cosmic dancer), **Ardhanarishvara** (half-Shiva half-Parvati), **Rudra** (Vedic precursor).
-- **Linga worship** — Shiva's aniconic representation; **not phallic worship** in theological sense — symbol of creative/destructive energy.
+- **Linga worship:** Shiva's aniconic representation. **Not phallic worship** in theological sense. Symbol of creative/destructive energy.
 - **Shaiva sects**: **Pashupata** (earliest, Lakulisha 2nd century CE), **Kalamukha**, **Kapalika**, **Shaiva Siddhanta** (Tamil), **Nath** (Gorakhnath).
-- **Nataraja iconography** — Shiva dancing in **ring of fire**; creation-destruction cycle; Chola bronze masterpieces.
-- **Jyotirlingas** — **12 sacred Shiva linga sites** across India (Kashi Vishwanath UP, Kedarnath, Somnath).
-- **Shaiva philosophy** — **Shaiva Siddhanta** (pluralistic theism); **Kashmir Shaivism** (Pratyabhijna — monistic).
+- **Nataraja iconography:** Shiva dancing in **ring of fire**. creation-destruction cycle. Chola bronze masterpieces.
+- **Jyotirlingas**. **12 sacred Shiva linga sites** across India (Kashi Vishwanath UP, Kedarnath, Somnath).
+- **Shaiva philosophy:** **Shaiva Siddhanta** (pluralistic theism). **Kashmir Shaivism** (Pratyabhijna. Monistic).
 - **Major temples**: **Kailashnath (Ellora cave 16)**, **Brihadeshwara (Thanjavur)**, **Kashi Vishwanath (Varanasi, UP)**.
-- **Vedic roots**: **Rudra** in Rigveda — fierce deity; evolved into benevolent Shiva.
-- **Shaiva saints**: **Nayanars** (Tamil, 63 saints); Appar, Sundarar, Sambandar.
+- **Vedic roots:** **Rudra** in Rigveda. Fierce deity. Evolved into benevolent Shiva.
+- **Shaiva saints:** These include **Nayanars** (Tamil, 63 saints). Appar, Sundarar, Sambandar.
 
 > **Exam note:** Shiva = **destroyer in Trimurti**; linga = primary symbol. Trap: "Shiva has no Vedic origin" — Rudra is Vedic precursor.
 
@@ -1544,16 +1544,16 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 
 ### Vaishnavism — How It Works
 
-- **Vaishnavism** — worship of **Vishnu** (and his avatars) as supreme deity.
-- **Vishnu** — **preserver** in Trimurti; lies on **Sheshanaga** (cosmic serpent); consort **Lakshmi**.
+- **Vaishnavism**. Worship of **Vishnu** (and his avatars) as supreme deity.
+- **Vishnu:** **preserver** in Trimurti. lies on **Sheshanaga** (cosmic serpent). consort **Lakshmi**.
 - **Dashavatara (10 avatars)**: Matsya (fish), Kurma (tortoise), Varaha (boar), Narasimha (man-lion), Vamana (dwarf), Parashurama, **Rama**, **Krishna**, Buddha (some lists), Kalki (future).
-- **Rama and Krishna** — most popular avatars; **Ramayana** and **Mahabharata** epics centred on them.
+- **Rama and Krishna:** most popular avatars. **Ramayana** and **Mahabharata** epics centred on them.
 - **Vaishnava sects**: **Sri Vaishnavism** (Ramanuja, Alvars), **Gaudiya Vaishnavism** (Chaitanya, ISKCON), **Rudra Sampradaya** (Vallabhacharya).
-- **Alvars** — 12 Tamil poet-saints; **Divya Prabandham** hymns; South Indian bhakti.
-- **Philosophy**: **Vishishtadvaita** (Ramanuja — qualified non-dualism), **Dvaita** (Madhva — dualism), **Achintya Bhedabheda** (Chaitanya).
+- **Alvars:** 12 Tamil poet-saints. **Divya Prabandham** hymns. South Indian bhakti.
+- **Philosophy**: **Vishishtadvaita** (Ramanuja. Qualified non-dualism), **Dvaita** (Madhva. Dualism), **Achintya Bhedabheda** (Chaitanya).
 - **Major temples**: **Ranganathaswamy (Srirangam)**, **Venkateswara (Tirupati)**, **Jagannath (Puri)**, **Ayodhya Ram** (UP).
-- **Tulsi Das** — **Ramcharitmanas** (Awadhi Hindi); popularized Rama bhakti in North India (UP).
-- **Bhagavata Purana** — most important Vaishnava scripture; Krishna stories.
+- **Tulsi Das:** **Ramcharitmanas** (Awadhi Hindi). popularized Rama bhakti in North India (UP).
+- **Bhagavata Purana:** most important Vaishnava scripture. Krishna stories.
 
 > **Exam note:** **10 Dashavatara** — complete list often tested. Trap: "Buddha is never listed as Vishnu avatar" — some traditions include Buddha as 9th avatar.
 
@@ -1605,16 +1605,16 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 
 ### Bhagavatism — How It Works
 
-- **Bhagavatism** — cult of **Bhagavata** (worshipper of **Bhagavan/Vasudeva-Krishna**); precursor to modern Vaishnavism.
-- **Origin**: **Vasudeva-Krishna** worship in **Mathura region (UP)** — merged with **Narayana-Vishnu** cult by 2nd century BCE.
-- **Heliodorus pillar** (Besnagar, MP) — Greek ambassador called himself **Bhagavata** (~113 BCE); early evidence.
-- **Bhagavad Gita** — core text; Krishna as **Bhagavan** teaches Arjuna on battlefield of Kurukshetra.
-- **Bhagavata Purana** (Srimad Bhagavatam) — **12 books**; Krishna's life; most sacred Vaishnava Purana.
-- **Pancharatra theology** — Vaishnava doctrine of **Vyuhas** (emanations of Vishnu).
-- **Merged with Vedic Vishnu** — originally separate folk hero (Krishna) and Vedic deity (Vishnu) identified as one.
-- **Bhakti emphasis** — personal devotion to Krishna/Vishnu over Vedic ritual sacrifice.
-- **Gopala-Krishna** — cowherd Krishna of Vrindavan (Mathura region UP); pastoral deity roots.
-- **Influence on Hinduism** — Bhagavatism transformed Vedic religion into devotional Hinduism.
+- **Bhagavatism:** cult of **Bhagavata** (worshipper of **Bhagavan/Vasudeva-Krishna**). precursor to modern Vaishnavism.
+- **Origin**: **Vasudeva-Krishna** worship in **Mathura region (UP)**. Merged with **Narayana-Vishnu** cult by 2nd century BCE.
+- **Heliodorus pillar** (Besnagar, MP). Greek ambassador called himself **Bhagavata** (~113 BCE). Early evidence.
+- **Bhagavad Gita:** core text. Krishna as **Bhagavan** teaches Arjuna on battlefield of Kurukshetra.
+- **Bhagavata Purana** (Srimad Bhagavatam). **12 books**. Krishna's life. Most sacred Vaishnava Purana.
+- **Pancharatra theology**. Vaishnava doctrine of **Vyuhas** (emanations of Vishnu).
+- **Merged with Vedic Vishnu**. Originally separate folk hero (Krishna) and Vedic deity (Vishnu) identified as one.
+- **Bhakti emphasis**. Personal devotion to Krishna/Vishnu over Vedic ritual sacrifice.
+- **Gopala-Krishna:** cowherd Krishna of Vrindavan (Mathura region UP). pastoral deity roots.
+- **Influence on Hinduism**. Bhagavatism transformed Vedic religion into devotional Hinduism.
 
 > **Exam note:** Bhagavatism = **Krishna-Vasudeva cult origin** (Mathura UP). Trap: "Bhagavatism and Vaishnavism unrelated" — Bhagavatism evolved into Vaishnavism.
 
@@ -1651,16 +1651,16 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 
 ### Various Religious Sects — How It Works
 
-- **Beyond Trimurti worship** — Hinduism encompasses **multiple sects and regional traditions**.
-- **Shaktism** — worship of **Devi/Shakti** (Divine Mother); **Durga, Kali, Parvati**; **51 Shakti Peethas**; **Vaishno Devi**, **Kamakhya**.
-- **Smartism** — worship of **five deities** (Panchayatana): Shiva, Vishnu, Shakti, Surya, Ganesha; **Shankaracharya** tradition.
-- **Saura** — **Surya (Sun)** worship; **Konark Sun Temple** (Odisha); declining sect.
-- **Ganapatya** — **Ganesha** as supreme deity; minor sect.
-- **Kaumara** — **Kartikeya/Skanda** as supreme; Tamil tradition (Murugan).
-- **Regional traditions**: **Vithoba** (Pandharpur, Maharashtra), **Ayyappa** (Sabarimala, Kerala), **Jagannath** (Puri, Odisha — syncretic).
-- **Tantric Hinduism** — esoteric practices; **Shri Vidya**, **Kaula** traditions within Shaktism and Shaivism.
-- **Sikhism, Islam, Christianity** — later additions to Indian religious landscape (out of scope for ancient period but context).
-- **Syncretism** — Jagannath worshipped as Vishnu/Krishna/Shiva by different devotees; Hindu pluralism.
+- **Beyond Trimurti worship**. Hinduism encompasses **multiple sects and regional traditions**.
+- **Shaktism:** worship of **Devi/Shakti** (Divine Mother). **Durga, Kali, Parvati**. **51 Shakti Peethas**. **Vaishno Devi**, **Kamakhya**.
+- **Smartism:** worship of **five deities** (Panchayatana): Shiva, Vishnu, Shakti, Surya, Ganesha. **Shankaracharya** tradition.
+- **Saura:** **Surya (Sun)** worship. **Konark Sun Temple** (Odisha). declining sect.
+- **Ganapatya:** **Ganesha** as supreme deity. minor sect.
+- **Kaumara:** **Kartikeya/Skanda** as supreme. Tamil tradition (Murugan).
+- **Regional traditions**: **Vithoba** (Pandharpur, Maharashtra), **Ayyappa** (Sabarimala, Kerala), **Jagannath** (Puri, Odisha. Syncretic).
+- **Tantric Hinduism:** esoteric practices. **Shri Vidya**, **Kaula** traditions within Shaktism and Shaivism.
+- **Sikhism, Islam, Christianity**. Later additions to Indian religious landscape (out of scope for ancient period but context).
+- **Syncretism:** Jagannath worshipped as Vishnu/Krishna/Shiva by different devotees. Hindu pluralism.
 
 > **Exam note:** **Shaktism + Smartism + Saura** = other major Hindu sects beyond Shaiva/Vaishnava. Trap: "Hinduism = only Shiva + Vishnu worship" — Shaktism equally major.
 
@@ -1684,7 +1684,7 @@ AJIVIKA: Makkhali Gosala | Niyati (fate) doctrine
 - Konark = Saura (Surya)
 - Jagannath = syncretic
 - Shankaracharya = Smarta tradition
-- Hindu pluralism — many sects coexist
+- Hindu pluralism. Many sects coexist.
 
 ### PYQs — Various Religious Sects
 

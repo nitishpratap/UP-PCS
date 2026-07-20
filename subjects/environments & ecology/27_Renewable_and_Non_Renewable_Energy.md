@@ -102,16 +102,16 @@ KEY TRAPS:
 
 ### Renewable Energy — How It Works
 
-- **Renewable** means the energy source is **not depleted by use** — solar wind keeps blowing, rivers keep flowing (if managed sustainably), biomass regrows within years/decades.
-- **Key types in India**: **solar, wind, biomass/biogas, small hydropower, tidal, geothermal, waste-to-energy** — each converts a natural flow into electricity or fuel.
-- **Advantages**: lower **GHG emissions** than coal/oil; reduces **import dependence** for oil/gas; decentralised rural supply (solar pumps, biogas plants).
-- **Disadvantages**: **intermittency** (sun doesn't shine at night, wind varies) — needs grid storage, hybrid systems, or backup; upfront capital cost high.
-- **India's policy push**: **500 GW non-fossil fuel capacity by 2030** (COP26 pledge); net zero 2070 requires massive renewable scale-up.
-- **Renewable ≠ always clean**: large biomass burning can cause air pollution; hydro dams have ecological/social costs — but lifecycle emissions far lower than coal.
-- **Nuclear debate**: low operational carbon but **finite uranium** and long-lived waste — UPPCS/UPSC usually classify nuclear as **non-renewable**.
+- **Renewable** means the energy source is **not depleted by use**. Solar wind keeps blowing, rivers keep flowing (if managed sustainably), biomass regrows within years/decades.
+- **Key types in India**: **solar, wind, biomass/biogas, small hydropower, tidal, geothermal, waste-to-energy**. Each converts a natural flow into electricity or fuel.
+- **Advantages**: lower **GHG emissions** than coal/oil. Reduces **import dependence** for oil/gas. Decentralised rural supply (solar pumps, biogas plants).
+- **Disadvantages**: **intermittency** (sun doesn't shine at night, wind varies). Needs grid storage, hybrid systems, or backup. Upfront capital cost high.
+- **India's policy push**: **500 GW non-fossil fuel capacity by 2030** (COP26 pledge). Net zero 2070 requires massive renewable scale-up.
+- **Renewable ≠ always clean**: large biomass burning can cause air pollution. Hydro dams have ecological/social costs. But lifecycle emissions far lower than coal.
+- **Nuclear debate**: low operational carbon but **finite uranium** and long-lived waste. UPPCS/UPSC usually classify nuclear as **non-renewable**.
 - **Grid integration challenge**: renewable share above ~30% needs **smart grids, battery storage, green hydrogen, and demand-side management**.
-- **Distributed renewable**: rooftop solar, village biogas — reduces transmission losses and empowers rural communities.
-- **International cooperation**: **International Solar Alliance (ISA)** — India-led treaty IGO for solar deployment in sun-rich countries.
+- **Distributed renewable**: rooftop solar, village biogas. Reduces transmission losses and empowers rural communities.
+- **International cooperation**: **International Solar Alliance (ISA)**. India-led treaty IGO for solar deployment in sun-rich countries.
 
 > **Exam note:** Trap: "Nuclear energy is renewable" = usually **FALSE** in Indian competitive exams — finite fuel + waste persistence.
 
@@ -119,10 +119,10 @@ KEY TRAPS:
 
 - Renewable = replenished on **human timescale**
 - India MNRE covers: solar, wind, biomass, SHP, waste-to-energy
-- **500 GW non-fossil by 2030** — India's key renewable target
+- **500 GW non-fossil by 2030**. India's key renewable target.
 - Nuclear = **non-renewable** in exam classification
 - Intermittency = main grid integration challenge
-- ISA 2015 — India-France initiative; HQ Gurugram
+- ISA 2015. India-France initiative. HQ Gurugram.
 
 ### PYQs — Renewable Energy
 
@@ -165,15 +165,15 @@ KEY TRAPS:
 
 ### Non-renewable Energy — How It Works
 
-- **Fossil fuels** formed from ancient organic matter under heat/pressure over **300–400 million years** — extraction rate far exceeds formation rate → **non-renewable**.
-- **Coal**: India's primary domestic energy source (~50% electricity); carbon-intensive; SO₂, NOx, PM, CO₂ emissions; **Eastern India belt** (Jharkhand, Odisha, Chhattisgarh, West Bengal).
-- **Petroleum (oil)**: India imports ~**85%** of crude oil — energy security vulnerability; transport sector dependence; price linked to global markets (OPEC).
-- **Natural gas**: cleaner than coal (lower CO₂ per unit energy); **PNG/CNG** for cooking/transport; India imports LNG; **Urja Ganga pipeline** for eastern states.
-- **Nuclear energy**: **Uranium-235 / Thorium-232** fission — low operational GHG but **finite fuel**, high capital cost, waste disposal issues; India pursuing **thorium** (Kerala monazite sands).
-- **Environmental impact chain**: extraction (mining/drilling) → processing → combustion → **GHG + air pollution + land/water damage** — drives climate change and health costs.
-- **Peak oil/coal concern**: finite reserves will eventually decline — transition to renewables is structural, not optional.
-- **Strategic reserves**: India maintains **Strategic Petroleum Reserve** (SPR) at Visakhapatnam, Mangalore, Padur — ~5.33 MMT buffer for supply disruption.
-- **Subsidies legacy**: historically subsidised coal/oil distorted market — **coal cess** and **divestment from fossil subsidies** part of transition policy.
+- **Fossil fuels** formed from ancient organic matter under heat/pressure over **300–400 million years**. Extraction rate far exceeds formation rate, then **non-renewable**.
+- **Coal**: India's primary domestic energy source (~50% electricity). Carbon-intensive. SO₂, NOx, PM, CO₂ emissions. **Eastern India belt** (Jharkhand, Odisha, Chhattisgarh, West Bengal).
+- **Petroleum (oil)**: India imports ~**85%** of crude oil. Energy security vulnerability. Transport sector dependence. Price linked to global markets (OPEC).
+- **Natural gas**: cleaner than coal (lower CO₂ per unit energy). **PNG/CNG** for cooking/transport. India imports LNG. **Urja Ganga pipeline** for eastern states.
+- **Nuclear energy**: **Uranium-235 / Thorium-232** fission. Low operational GHG but **finite fuel**, high capital cost, waste disposal issues. India pursuing **thorium** (Kerala monazite sands).
+- **Environmental impact chain**: extraction (mining/drilling), then processing, then combustion, then **GHG + air pollution + land/water damage**. Drives climate change and health costs.
+- **Peak oil/coal concern**: finite reserves will eventually decline. Transition to renewables is structural, not optional.
+- **Strategic reserves**: India maintains **Strategic Petroleum Reserve** (SPR) at Visakhapatnam, Mangalore, Padur. ~5.33 MMT buffer for supply disruption.
+- **Subsidies legacy**: historically subsidised coal/oil distorted market. **Coal cess** and **divestment from fossil subsidies** part of transition policy.
 - **Just transition**: coal-mining regions (Jharkhand, Odisha) need alternative livelihoods as renewable share rises.
 
 > **Exam note:** India is **coal-surplus domestically** but **oil-import dependent** — don't confuse the two for energy security questions.
@@ -193,7 +193,7 @@ KEY TRAPS:
 - Fossil fuels = **non-renewable** (millions of years to form)
 - India **~85% oil import** dependent
 - Coal = ~**50%** electricity generation
-- Raniganj (WB), Ramgarh (Jharkhand), Talcher (Odisha) — coal areas (2025 Q9)
+- Raniganj (WB), Ramgarh (Jharkhand), Talcher (Odisha). Coal areas (2025 Q9).
 - SPR locations: Visakhapatnam, Mangalore, Padur
 - Nuclear = non-renewable in exams
 
@@ -238,16 +238,16 @@ KEY TRAPS:
 
 ### Conventional Sources — How It Works
 
-- **Coal-based thermal power**: burn coal → heat water → steam → turbine → electricity — **~210 GW** installed capacity India; supercritical/ultra-supercritical plants improve efficiency; **FGD** (flue gas desulphurisation) reduces SO₂.
-- **Oil/petroleum products**: diesel, petrol, LPG, kerosene, naphtha — transport, cooking, industry; **refineries** (Jamnagar, Panipat, Mathura) process imported/domestic crude.
-- **Natural gas thermal**: combined cycle gas turbine (CCGT) — faster ramp-up than coal; used for **peaking power** and fertiliser (urea plants).
-- **Large hydropower (>25 MW)**: dam or run-of-river on major rivers — **~46 GW** installed; Himalayan potential enormous (2025 Q31); Tehri, Bhakra, Sardar Sarovar, Nathpa Jhakri examples.
-- **Nuclear power**: **NPCIL** operates PHWRs and PWRs — ~7.5 GW installed; target 22 GW by 2031; thorium programme long-term.
-- **Environmental costs**: coal = highest CO₂ + air pollution; large hydro = submergence, sediment trapping, seismic risk; nuclear = waste storage.
-- **Base load role**: conventional sources provide **24/7 stable power** — renewables need conventional/ storage backup currently.
-- **India's energy mix (~2024)**: coal ~50%, renewables ~30%, large hydro ~11%, nuclear ~2%, gas ~6% — coal still dominant but declining share.
-- **Phase-down not phase-out**: India committed to **"phase down" unabated coal** at COP26 Glasgow — not immediate elimination.
-- **UP context**: **minimal coal production** — UP consumes coal power from other states; **Obra, Anpara** thermal plants in UP use imported coal.
+- **Coal-based thermal power**: Coal is burned to heat water into steam, which drives a turbine and generates electricity. India has **~210 GW** of installed coal thermal capacity. Supercritical and ultra-supercritical plants improve efficiency, and **FGD** (flue gas desulphurisation) reduces SO₂ emissions.
+- **Oil/petroleum products**: diesel, petrol, LPG, kerosene, naphtha. Transport, cooking, industry. **Refineries** (Jamnagar, Panipat, Mathura) process imported/domestic crude.
+- **Natural gas thermal**: combined cycle gas turbine (CCGT). Faster ramp-up than coal. Used for **peaking power** and fertiliser (urea plants).
+- **Large hydropower (>25 MW)**: dam or run-of-river on major rivers. **~46 GW** installed. Himalayan potential enormous (2025 Q31). Tehri, Bhakra, Sardar Sarovar, Nathpa Jhakri examples.
+- **Nuclear power**: **NPCIL** operates PHWRs and PWRs. ~7.5 GW installed. Target 22 GW by 2031. Thorium programme long-term.
+- **Environmental costs**: coal = highest CO₂ + air pollution. Large hydro = submergence, sediment trapping, seismic risk. Nuclear = waste storage.
+- **Base load role**: conventional sources provide **24/7 stable power**. Renewables need conventional/ storage backup currently.
+- **India's energy mix (~2024)**: coal ~50%, renewables ~30%, large hydro ~11%, nuclear ~2%, gas ~6%. Coal still dominant but declining share.
+- **Phase-down not phase-out**: India committed to **"phase down" unabated coal** at COP26 Glasgow. Not immediate elimination.
+- **UP context**: **minimal coal production**. UP consumes coal power from other states. **Obra, Anpara** thermal plants in UP use imported coal.
 
 > **Exam note:** Conventional = coal + oil + gas + **large hydro + nuclear** — trap: "conventional means only fossil fuels" = **FALSE**.
 
@@ -268,7 +268,7 @@ KEY TRAPS:
 - Large hydro = **>25 MW** projects
 - Himalayan hydro potential = **enormous** (Q31 Stmt 1)
 - UP: thermal plants (Anpara, Obra) but **not major coal producer**
-- Phase **down** coal at COP26 — not phase out
+- Phase **down** coal at COP26. Not phase out.
 
 ### PYQs — Conventional Sources
 
@@ -310,16 +310,16 @@ KEY TRAPS:
 
 ### Non-conventional Sources — How It Works
 
-- **Why "non-conventional" label**: these sources were **minor or experimental** until 2000s — solar/wind now mainstream but classification persists in Indian textbooks and exams.
-- **Solar and wind**: fastest growing segment — **lowest LCOE** (levelised cost of energy) for new capacity in India; auction-based tariffs fell from ₹17/kWh (2010) to ₹2/kWh range (2021).
-- **Biomass and biogas**: use agricultural waste — reduces stubble burning (UP-Punjab issue); **GOBAR-Dhan** converts cattle waste to biogas/CBG.
-- **Small hydropower (≤25 MW)**: run-of-river projects in hilly streams — lower environmental impact than large dams; Himalayan foothills potential.
-- **Tidal and ocean energy**: **experimental in India** — Gulf of Kutch/Khambhat tidal potential; wave energy research at Vizhinjam; no commercial scale yet.
-- **Geothermal**: limited Indian potential — Puga (Ladakh), Manikaran (HP), Tattapani (Chhattisgarh) — pilot stage only.
-- **Waste-to-energy**: municipal solid waste incineration/gasification — Ghazipur (Delhi), Pune plants; controversial due to emissions if not filtered.
+- **Why "non-conventional" label**: these sources were **minor or experimental** until 2000s. Solar/wind now mainstream but classification persists in Indian textbooks and exams.
+- **Solar and wind**: fastest growing segment. **Lowest LCOE** (levelised cost of energy) for new capacity in India. Auction-based tariffs fell from ₹17/kWh (2010) to ₹2/kWh range (2021).
+- **Biomass and biogas**: use agricultural waste. Reduces stubble burning (UP-Punjab issue). **GOBAR-Dhan** converts cattle waste to biogas/CBG.
+- **Small hydropower (≤25 MW)**: run-of-river projects in hilly streams. Lower environmental impact than large dams. Himalayan foothills potential.
+- **Tidal and ocean energy**: **experimental in India**. Gulf of Kutch/Khambhat tidal potential. Wave energy research at Vizhinjam. No commercial scale yet.
+- **Geothermal**: limited Indian potential. Puga (Ladakh), Manikaran (HP), Tattapani (Chhattisgarh). Pilot stage only.
+- **Waste-to-energy**: municipal solid waste incineration/gasification. Ghazipur (Delhi), Pune plants. Controversial due to emissions if not filtered.
 - **Advantages over conventional**: lower emissions, rural employment, energy access in off-grid areas, aligns with **SDG 7 (Affordable Clean Energy)**.
-- **Policy framework**: **NAPCC (2008)** → National Solar Mission, National Mission on Enhanced Energy Efficiency; **MNRE** single-window for non-conventional deployment.
-- **Integration with conventional grid**: **must complement** base load — hybrid solar-wind, pumped storage hydro, battery systems needed.
+- **Policy framework**: **NAPCC (2008)**, then national solar mission, national mission on enhanced energy efficiency. **Mnre** single-window for non-conventional deployment.
+- **Integration with conventional grid**: **must complement** base load. Hybrid solar-wind, pumped storage hydro, battery systems needed.
 
 > **Exam note:** Non-conventional ⊂ renewable in India — but **large hydro and nuclear are NOT non-conventional**. Trap: "all renewables are non-conventional" = **FALSE** (large hydro excluded).
 
@@ -384,16 +384,16 @@ KEY TRAPS:
 
 ### Solar Energy — How It Works
 
-- **Solar radiation** reaches Earth at ~**1.3 kW/m²** at peak — India receives **4–7 kWh/m²/day** average — excellent solar potential (300 sunny days in Rajasthan/Gujarat).
-- **PV technology**: rooftop panels and utility-scale solar parks — **no moving parts**, modular, scalable; efficiency ~**18–22%** for commercial silicon panels.
-- **CSP technology**: parabolic troughs or solar towers — needs **direct sunlight** (DNI); stores heat for night generation — limited in India vs PV dominance.
-- **National Solar Mission (2010)**: under **NAPCC** — initial target 20 GW → revised **100 GW solar by 2022** (achieved ~2022); now part of **500 GW non-fossil by 2030**.
-- **Bhadla Solar Park (Rajasthan)**: among **world's largest** — 2.25 GW capacity; also Pavagada (Karnataka), Rewa (MP) ultra-mega projects.
-- **PM-KUSUM (2019)**: **K**isan **U**rja **S**uraksha evam **U**tthaan **M**ahaabhiyan — solar pumps for farmers + grid-connected solar on barren/fallow land.
-- **Rooftop solar**: target 40 GW rooftop component — net metering allows households to sell surplus to grid.
-- **International Solar Alliance (ISA)**: launched **2015** (India-France, COP21 Paris); **treaty-based IGO** HQ **Gurugram**; promotes solar in 121 sun-rich countries; **OSOWOG** (One Sun One World One Grid) initiative (2025 Q109 Stmt 2 TRUE).
-- **Environmental benefit**: ~**0.9 kg CO₂/kWh avoided** vs coal; no air pollution at generation point; land use conflict in agriculture zones.
-- **Challenges**: **intermittency** (day only), dust on panels (Rajasthan cleaning), land acquisition, import dependence on Chinese panels (Atmanirbhar push for domestic manufacturing — ALMM list).
+- **Solar radiation** reaches Earth at ~**1.3 kW/m²** at peak. India receives **4–7 kWh/m²/day** average. Excellent solar potential (300 sunny days in Rajasthan/Gujarat).
+- **PV technology**: rooftop panels and utility-scale solar parks. **No moving parts**, modular, scalable. Efficiency ~**18–22%** for commercial silicon panels.
+- **CSP technology**: parabolic troughs or solar towers. Needs **direct sunlight** (DNI). Stores heat for night generation. Limited in India vs PV dominance.
+- **National Solar Mission (2010)**: under **NAPCC**. Initial target 20 GW, then revised **100 gw solar by 2022** (achieved ~2022). Now part of **500 gw non-fossil by 2030**.
+- **Bhadla Solar Park (Rajasthan)**: among **world's largest**. 2.25 GW capacity. Also Pavagada (Karnataka), Rewa (MP) ultra-mega projects.
+- **PM-KUSUM (2019)**: **K**isan **U**rja **S**uraksha evam **U**tthaan **M**ahaabhiyan. Solar pumps for farmers + grid-connected solar on barren/fallow land.
+- **Rooftop solar**: target 40 GW rooftop component. Net metering allows households to sell surplus to grid.
+- **International Solar Alliance (ISA)**: launched **2015** (India-France, COP21 Paris). **Treaty-based IGO** HQ **Gurugram**. Promotes solar in 121 sun-rich countries. **OSOWOG** (One Sun One World One Grid) initiative (2025 Q109 Stmt 2 TRUE).
+- **Environmental benefit**: ~**0.9 kg CO₂/kWh avoided** vs coal. No air pollution at generation point. Land use conflict in agriculture zones.
+- **Challenges**: **intermittency** (day only), dust on panels (Rajasthan cleaning), land acquisition, import dependence on Chinese panels (Atmanirbhar push for domestic manufacturing. ALMM list).
 
 > **Exam note:** ISA Q109 — Stmt 1 "38 members" = **FALSE** (100+ signatories now); Stmt 2 OSOWOG under ISA = **TRUE** → answer **Only 2**.
 
@@ -401,7 +401,7 @@ KEY TRAPS:
 
 - National Solar Mission = **2010** (NAPCC)
 - **100 GW solar** target achieved ~2022
-- Bhadla Solar Park = **Rajasthan** — among world's largest
+- Bhadla Solar Park = **Rajasthan**. Among world's largest.
 - ISA **2015** | HQ **Gurugram** | treaty-based IGO
 - OSOWOG = One Sun One World One Grid
 - PM-KUSUM = solar pumps for farmers
@@ -447,16 +447,16 @@ KEY TRAPS:
 
 ### Wind Energy — How It Works
 
-- **Wind turbines**: blades rotate from wind → gearbox/generator → electricity; modern turbines **2–3 MW** each; capacity factor ~**25–35%** (vs solar ~20%).
-- **Wind resource**: strongest in **coastal and flat terrain** — Tamil Nadu (Coimbatore, Tirunelveli), Gujarat (Kutch), Karnataka, Maharashtra lead.
-- **India wind capacity**: ~**46 GW** installed (~2025) — **4th globally** after China, USA, Germany.
-- **Offshore wind potential**: Gujarat and Tamil Nadu coasts — **National Offshore Wind Energy Policy 2023**; first projects planned off Gujarat coast; higher CAPEX but steadier winds.
-- **Advantages**: no fuel cost; low operational emissions; complements solar (often windy when not sunny).
-- **Disadvantages**: **intermittent**; noise/visual impact; bird/bat mortality; best sites getting saturated onshore.
-- **Grid integration**: **hybrid wind-solar parks** (Gujarat, Rajasthan) reduce variability; needs forecasting (NIWE — National Institute of Wind Energy, Chennai).
-- **Manufacturing hub**: Tamil Nadu hosts major turbine manufacturers (Suzlon legacy, global OEMs) — Make in India wind supply chain.
-- **Repowering**: replacing old <1 MW turbines with modern 3 MW units on same sites — doubles output without new land.
-- **UP context**: **limited wind potential** — landlocked, lower wind speeds; UP depends on other states for wind power via national grid.
+- **Wind turbines**: blades rotate from wind, then gearbox/generator, then electricity. Modern turbines **2–3 mw** each. Capacity factor ~**25–35%** (vs solar ~20%).
+- **Wind resource**: strongest in **coastal and flat terrain**. Tamil Nadu (Coimbatore, Tirunelveli), Gujarat (Kutch), Karnataka, Maharashtra lead.
+- **India wind capacity**: ~**46 GW** installed (~2025). **4th globally** after China, USA, Germany.
+- **Offshore wind potential**: Gujarat and Tamil Nadu coasts. **National Offshore Wind Energy Policy 2023**. First projects planned off Gujarat coast. Higher CAPEX but steadier winds.
+- **Advantages**: no fuel cost. Low operational emissions. Complements solar (often windy when not sunny).
+- **Disadvantages**: **intermittent**. Noise/visual impact. Bird/bat mortality. Best sites getting saturated onshore.
+- **Grid integration**: **hybrid wind-solar parks** (Gujarat, Rajasthan) reduce variability. Needs forecasting (NIWE. National Institute of Wind Energy, Chennai).
+- **Manufacturing hub**: Tamil Nadu hosts major turbine manufacturers (Suzlon legacy, global OEMs). Make in India wind supply chain.
+- **Repowering**: replacing old <1 MW turbines with modern 3 MW units on same sites. Doubles output without new land.
+- **UP context**: **limited wind potential**. Landlocked, lower wind speeds. UP depends on other states for wind power via national grid.
 
 > **Exam note:** Wind leaders = **Tamil Nadu + Gujarat** — NOT UP. Trap: "UP is top wind state" = **FALSE**.
 
@@ -511,25 +511,25 @@ KEY TRAPS:
 
 ### Biomass Energy — How It Works
 
-- **Biomass** = **carbon-neutral in principle** — CO₂ released on burning was recently absorbed by plants — but **stubble burning** (UP-Punjab) causes severe air pollution (PM2.5) without efficient combustion.
-- **Bagasse cogeneration**: sugar mills burn **bagasse** (crushed cane fibre) → steam → turbine → electricity; surplus sold to grid — **western UP sugar belt** (Meerut, Muzaffarnagar, Bijnor).
-- **Crop residue**: rice/wheat straw — **500 MT/year** India; alternative to burning = **bio-CNG, ethanol, briquettes** for industrial fuel.
-- **GOBAR-Dhan (2018)**: Galvanising Organic Bio-Agro Resources — biogas/CBG from cattle dung + farm waste; **SATAT** scheme targets 5,000 CBG plants.
-- **Biomass power plants**: dedicated combustion/gasification plants — **~10 GW** installed; declining due to fuel supply chain challenges.
-- **Advantages**: utilises waste; rural income; reduces fossil import; manageable with existing technology.
-- **Disadvantages**: **collection/transport cost** of dispersed biomass; burning causes air pollution if uncontrolled; competes with soil organic matter if all residue removed.
-- **Bio-decomposer (Delhi-UP NCR)**: Pusa decomposer microbial spray converts stubble to manure — reduces burning (2025 Q10 crossover).
-- **Carbon accounting trap**: biomass is "renewable" but **not emission-free** — methane from improper storage, smoke from open burning.
-- **Circular economy link**: agricultural waste → energy → ash fertiliser — integrated biomass value chain.
+- **Biomass** = **carbon-neutral in principle**. CO₂ released on burning was recently absorbed by plants. But **stubble burning** (UP-Punjab) causes severe air pollution (PM2.5) without efficient combustion.
+- **Bagasse cogeneration**: sugar mills burn **bagasse** (crushed cane fibre), then steam, then turbine, then electricity. Surplus sold to grid. **Western up sugar belt** (meerut, muzaffarnagar, bijnor).
+- **Crop residue**: rice/wheat straw. **500 MT/year** India. Alternative to burning = **bio-CNG, ethanol, briquettes** for industrial fuel.
+- **GOBAR-Dhan (2018)**: Galvanising Organic Bio-Agro Resources. Biogas/CBG from cattle dung + farm waste. **SATAT** scheme targets 5,000 CBG plants.
+- **Biomass power plants**: dedicated combustion/gasification plants. **~10 GW** installed. Declining due to fuel supply chain challenges.
+- **Advantages**: utilises waste. Rural income. Reduces fossil import. Manageable with existing technology.
+- **Disadvantages**: **collection/transport cost** of dispersed biomass. Burning causes air pollution if uncontrolled. Competes with soil organic matter if all residue removed.
+- **Bio-decomposer (Delhi-UP NCR)**: Pusa decomposer microbial spray converts stubble to manure. Reduces burning (2025 Q10 crossover).
+- **Carbon accounting trap**: biomass is "renewable" but **not emission-free**. Methane from improper storage, smoke from open burning.
+- **Circular economy link**: agricultural waste, then energy, then ash fertiliser. Integrated biomass value chain.
 
 > **Exam note:** UP **sugar belt bagasse** = classic biomass cogeneration example. Stubble burning ≠ biomass energy utilisation — it's waste mismanagement.
 
 ### Exam Facts (raata)
 
-- Bagasse = sugar mill biomass — **UP western districts**
+- Bagasse = sugar mill biomass. **UP western districts**.
 - GOBAR-Dhan + SATAT = biogas/CBG from cattle waste
 - India ~**10 GW** biomass power installed
-- Crop residue ~**500 MT/year** — stubble burning major pollution source
+- Crop residue ~**500 MT/year**. Stubble burning major pollution source.
 - Biomass = renewable but burning needs emission controls
 - Bio-decomposer reduces stubble burning (NCR)
 
@@ -573,17 +573,17 @@ KEY TRAPS:
 
 ### Biofuels — How It Works
 
-- **Biofuels** replace or blend with **petrol and diesel** — reduce oil import bill and transport emissions.
-- **1st generation**: **bioethanol** from sugarcane molasses/starch; **biodiesel** from edible oils — **food vs fuel** debate when crop diverted from food.
-- **2nd generation**: ethanol from **crop residue, forest waste, municipal solid waste** — avoids food competition; technology scaling up (IOCL Panipat 2G plant).
-- **3rd generation**: **algae-based** biofuels — high yield potential; still largely experimental.
-- **Blending mandates**: **E10** (10% ethanol in petrol) achieved nationwide; **E20 by 2025-26** target; **B5/B10** biodiesel blending in diesel.
+- **Biofuels** replace or blend with **petrol and diesel**. Reduce oil import bill and transport emissions.
+- **1st generation**: **bioethanol** from sugarcane molasses/starch. **Biodiesel** from edible oils. **Food vs fuel** debate when crop diverted from food.
+- **2nd generation**: ethanol from **crop residue, forest waste, municipal solid waste**. Avoids food competition. Technology scaling up (IOCL Panipat 2G plant).
+- **3rd generation**: **algae-based** biofuels. High yield potential. Still largely experimental.
+- **Blending mandates**: **E10** (10% ethanol in petrol) achieved nationwide. **E20 by 2025-26** target. **B5/B10** biodiesel blending in diesel.
 - **National Biofuel Coordination Committee**: monitors pricing, procurement, distillation capacity expansion.
-- **Sustainable Alternative Towards Affordable Transportation (SATAT)**: CBG (Compressed Biogas) as transport fuel from biomass — parallel to liquid biofuels.
-- **Advantages**: lower net GHG vs fossil; domestic agricultural economy benefit; energy security.
-- **Disadvantages**: land/water use for 1G; engine compatibility (E20 needs compatible vehicles); collection logistics for 2G feedstock.
-- **UP relevance**: **sugarcane belt** (western UP) = bioethanol feedstock; molasses-based distilleries expanding under E20 push.
-- **Global context**: Brazil (sugarcane ethanol leader), USA (corn ethanol) — India model closer to Brazil.
+- **Sustainable Alternative Towards Affordable Transportation (SATAT)**: CBG (Compressed Biogas) as transport fuel from biomass. Parallel to liquid biofuels.
+- **Advantages**: lower net GHG vs fossil. Domestic agricultural economy benefit. Energy security.
+- **Disadvantages**: land/water use for 1G. Engine compatibility (E20 needs compatible vehicles). Collection logistics for 2G feedstock.
+- **UP relevance**: **sugarcane belt** (western UP) = bioethanol feedstock. Molasses-based distilleries expanding under E20 push.
+- **Global context**: Brazil (sugarcane ethanol leader), USA (corn ethanol). India model closer to Brazil.
 
 > **Exam note:** **E20 = 20% ethanol blending** — target 2025-26. Biofuels ⊃ bioethanol + biodiesel + biogas/CBG — not interchangeable terms.
 
@@ -646,16 +646,16 @@ KEY TRAPS:
 
 ### Biogas — How It Works
 
-- **Anaerobic digestion**: organic waste (cattle dung, kitchen waste, crop residue) in **oxygen-free digester** → bacteria produce **biogas** over 15–30 days.
-- **Major constituents** (UPPCS 2025 Q28): **Methane (CH₄) ~50–70%** + **Carbon dioxide (CO₂) ~25–45%** — answer **(A) 1 and 3**.
-- **NOT major constituents**: **Butane** (LPG component) and **carbon monoxide** (incomplete combustion gas) — common exam traps in Q28.
-- **Trace gases**: small amounts of **H₂S** (hydrogen sulphide — corrosive, must be scrubbed), moisture, ammonia.
-- **Family biogas plant**: 2–6 m³ digester — provides cooking fuel for 4–5 hours/day; **slurry** returned to field as nutrient-rich manure.
-- **Community/commercial plants**: GOBAR-Dhan, SATAT — large digesters produce **CBG** piped to fuel stations.
-- **Advantages**: replaces **firewood/LPG** in villages; reduces **methane escape** from open dung piles (methane is 25× more potent GHG than CO₂); waste-to-wealth.
-- **Disadvantages**: temperature sensitive (mesophilic 25–35°C optimal); needs regular feeding; H₂S corrosion of equipment.
-- **UP context**: vast cattle population in rural UP — enormous biogas potential; GOBAR-Dhan targets gaushala-linked plants.
-- **Biogas vs LPG**: biogas lower calorific value (~20 MJ/m³ vs LPG ~90 MJ/m³) — needs larger storage or enrichment to CBG.
+- **Anaerobic digestion**: organic waste (cattle dung, kitchen waste, crop residue) in **oxygen-free digester**, then bacteria produce **biogas** over 15–30 days.
+- **Major constituents** (UPPCS 2025 Q28): **Methane (CH₄) ~50–70%** and **carbon dioxide (CO₂) ~25–45%** are the two main components. The correct option is **(A) 1 and 3**.
+- **NOT major constituents**: **Butane** (LPG component) and **carbon monoxide** (incomplete combustion gas). Common exam traps in Q28.
+- **Trace gases**: Small amounts of **H₂S** (hydrogen sulphide, which is corrosive and must be scrubbed), moisture, and ammonia may also be present.
+- **Family biogas plant**: A 2–6 m³ digester can supply cooking fuel for 4–5 hours per day, and the **slurry** is returned to the field as nutrient-rich manure.
+- **Community/commercial plants**: GOBAR-Dhan, SATAT. Large digesters produce **CBG** piped to fuel stations.
+- **Advantages**: replaces **firewood/LPG** in villages. Reduces **methane escape** from open dung piles (methane is 25× more potent GHG than CO₂). Waste-to-wealth.
+- **Disadvantages**: temperature sensitive (mesophilic 25–35°C optimal). Needs regular feeding. H₂S corrosion of equipment.
+- **UP context**: vast cattle population in rural UP. Enormous biogas potential. GOBAR-Dhan targets gaushala-linked plants.
+- **Biogas vs LPG**: biogas lower calorific value (~20 MJ/m³ vs LPG ~90 MJ/m³). Needs larger storage or enrichment to CBG.
 
 > **Exam note:** UPPCS 2025 Q28 — **Methane + CO₂** only. Trap: Butane (2) + CO₂ (3) = option C — **WRONG**.
 
@@ -710,16 +710,16 @@ KEY TRAPS:
 
 ### Bioethanol — How It Works
 
-- **Production process**: biomass → **fermentation** (yeast converts sugars to ethanol) → **distillation** → denatured ethanol → blended with petrol at oil marketing companies (OMCs).
+- **Production process**: biomass, then **fermentation** (yeast converts sugars to ethanol), then **distillation**, then denatured ethanol, then blended with petrol at oil marketing companies (omcs).
 - **Feedstock**: **sugarcane molasses** (primary India source), **sugarcane juice/syrup** (B-heavy molasses route), **damaged food grain** (FCI surplus), **maize**, **2G agri-residue**.
-- **E10 milestone**: **10% blending achieved 2022** — saved forex on oil imports; OMCs procure ethanol via **ex-mill price** set by government.
-- **E20 target 2025-26**: requires **1000+ crore litre** ethanol; vehicle compatibility (E20-ready engines from 2023); infrastructure at petrol pumps.
-- **Ethanol blending benefits**: reduces **CO₂ from transport** (~20% lifecycle reduction at E20); supports **farmer income** (sugarcane/maze); reduces oil import bill.
-- **Challenges**: **water intensive** (sugarcane); **food vs fuel** if grain diverted; distillery effluent (spent wash) pollution if untreated.
-- **UP role**: **largest sugarcane producing state** — Meerut, Muzaffarnagar, Bijnor, Saharanpur distilleries expanding; state pushes molasses-to-ethanol capacity.
-- **Pricing mechanism**: **administered ex-mill ethanol price** revised seasonally — ensures distillery viability.
-- **2G ethanol**: breaks down cellulose from rice/wheat straw — **Punjab-UP stubble** potential feedstock; IOCL Panipat 100 KLPD plant inaugurated.
-- **Global**: Brazil mandates **27% ethanol (E27)** — India aspires similar long-term.
+- **E10 milestone**: **10% blending achieved 2022**. Saved forex on oil imports. OMCs procure ethanol via **ex-mill price** set by government.
+- **E20 target 2025-26**: requires **1000+ crore litre** ethanol. Vehicle compatibility (E20-ready engines from 2023). Infrastructure at petrol pumps.
+- **Ethanol blending benefits**: reduces **CO₂ from transport** (~20% lifecycle reduction at E20). Supports **farmer income** (sugarcane/maze). Reduces oil import bill.
+- **Challenges**: **water intensive** (sugarcane). **Food vs fuel** if grain diverted. Distillery effluent (spent wash) pollution if untreated.
+- **UP role**: **largest sugarcane producing state**. Meerut, Muzaffarnagar, Bijnor, Saharanpur distilleries expanding. State pushes molasses-to-ethanol capacity.
+- **Pricing mechanism**: **administered ex-mill ethanol price** revised seasonally. Ensures distillery viability.
+- **2G ethanol**: breaks down cellulose from rice/wheat straw. **Punjab-UP stubble** potential feedstock. IOCL Panipat 100 KLPD plant inaugurated.
+- **Global**: Brazil mandates **27% ethanol (E27)**. India aspires similar long-term.
 
 > **Exam note:** **E20 = 20% ethanol in petrol** — not 20% petrol in ethanol. UP = key ethanol producer via sugarcane belt.
 
@@ -775,15 +775,15 @@ KEY TRAPS:
 ### Biodiesel — How It Works
 
 - **Feedstock**: **Jatropha curcas** (primary Indian non-edible oilseed), **Pongamia pinnata (karanj)**, **used cooking oil (UCO)**, mustard, soybean.
-- **Jatropha push (2000s)**: planted on wastelands — **disappointing yields** in many areas; lesson on need for agro-climatic matching before biofuel mandates.
-- **Transesterification process**: oil molecules converted to **fatty acid methyl ester (FAME)** — biodiesel — usable in diesel engines with minor modifications.
-- **B5/B10 blending**: **5–10% biodiesel** mixed with petroleum diesel — OMCs trial blending at select depots.
-- **Used Cooking Oil (UCO) route**: **Repurpose Used Cooking Oil (RUCO)** initiative — collects UCO from restaurants → biodiesel; prevents reuse of toxic oil + waste-to-fuel.
-- **Advantages**: biodegradable; lower sulphur; renewable; uses non-edible/waste oils.
-- **Disadvantages**: **lower energy density** than petro-diesel; gelling in cold; land competition if edible oils used; Jatropha yield uncertainty.
-- **UP context**: limited Jatropha cultivation; **UCO collection in NCR cities** (Noida, Ghaziabad) for biodiesel more viable than plantation model.
-- **Comparison with bioethanol**: biodiesel for **diesel engines** (trucks, buses, tractors); bioethanol for **petrol engines** (cars, 2-wheelers).
-- **Aviation potential**: **Sustainable Aviation Fuel (SAF)** from biomass — future biodiesel/advanced biofuel application.
+- **Jatropha push (2000s)**: planted on wastelands. **Disappointing yields** in many areas. Lesson on need for agro-climatic matching before biofuel mandates.
+- **Transesterification process**: oil molecules converted to **fatty acid methyl ester (FAME)**. Biodiesel. Usable in diesel engines with minor modifications.
+- **B5/B10 blending**: **5–10% biodiesel** mixed with petroleum diesel. OMCs trial blending at select depots.
+- **Used Cooking Oil (UCO) route)**: **Repurpose Used Cooking Oil (RUCO)** initiative. Collects UCO from restaurants, then biodiesel. Prevents reuse of toxic oil + waste-to-fuel.
+- **Advantages**: biodegradable. Lower sulphur. Renewable. Uses non-edible/waste oils.
+- **Disadvantages**: **lower energy density** than petro-diesel. Gelling in cold. Land competition if edible oils used. Jatropha yield uncertainty.
+- **UP context**: limited Jatropha cultivation. **UCO collection in NCR cities** (Noida, Ghaziabad) for biodiesel more viable than plantation model.
+- **Comparison with bioethanol**: biodiesel for **diesel engines** (trucks, buses, tractors). Bioethanol for **petrol engines** (cars, 2-wheelers).
+- **Aviation potential**: **Sustainable Aviation Fuel (SAF)** from biomass. Future biodiesel/advanced biofuel application.
 
 > **Exam note:** Biodiesel ≠ biogas. Biodiesel = **liquid ester** for diesel engines; biogas = **gaseous CH₄+CO₂** for cooking/CNG.
 
@@ -794,8 +794,8 @@ KEY TRAPS:
 - **B5/B10** blending in diesel
 - Jatropha 2000s push largely **underperformed**
 - RUCO = used cooking oil to biodiesel
-- Non-edible oilseeds preferred — food vs fuel
-- Diesel engine fuel — not petrol
+- Non-edible oilseeds preferred. Food vs fuel.
+- Diesel engine fuel. Not petrol.
 
 ### PYQs — Biodiesel
 
@@ -838,26 +838,26 @@ KEY TRAPS:
 
 ### Small Hydropower — How It Works
 
-- **SHP classification**: MNRE defines **≤25 MW** as small/mini/micro hydro — above 25 MW = large hydro under CEA (Central Electricity Authority).
-- **Types by size**: **micro (<100 kW)**, **mini (100 kW–2 MW)**, **small (2–25 MW)** — all under SHP umbrella.
-- **Run-of-river SHP**: diverts flowing water through penstock → turbine → returns water to river downstream — **minimal submergence** vs large dams.
-- **Himalayan potential** (2025 Q31 Stmt 1): **enormous SHP and large hydro potential** in Himalayan rivers — steep gradient, perennial flow — **TRUE**.
-- **Q31 Stmt 2 trap**: "Eastern UP and Bihar cannot utilise because Himalayas in Nepal" = **FALSE** — Indian Himalayan rivers (Ganga, Yamuna tributaries in Uttarakhand/HP) are in **India**; Nepal border doesn't eliminate Indian hydro development → answer **Only 1**.
-- **Ramganga Project** (2024 Q72): **Garhwal (Uttarakhand)**, hydropower **198 MW** — **large hydro**, NOT SHP; dam length 825.8 m; irrigates ~6 lakh hectares.
-- **India SHP installed**: ~**5 GW** — potential estimated ~**20 GW** — underdeveloped due to clearance delays, local opposition, tariff issues.
-- **NE India + Himalayan states**: Sikkim, HP, Uttarakhand, Arunachal — best SHP sites; **Arunachal** has largest untapped potential.
-- **Environmental advantage over large dams**: smaller footprint, less submergence, fewer displacement issues — but cumulative impact of many SHPs on river ecology exists.
-- **UP context**: limited SHP in **Vindhyan/Bundelkhand** seasonal streams; Himalayan projects in ** erstwhile Garhwal** (now Uttarakhand) serve North Indian grid.
+- **SHP classification**: MNRE defines **≤25 MW** as small/mini/micro hydro. Above 25 MW = large hydro under CEA (Central Electricity Authority).
+- **Types by size**: **micro (<100 kW)**, **mini (100 kW–2 MW)**, **small (2–25 MW)**. All under SHP umbrella.
+- **Run-of-river SHP**: diverts flowing water through penstock, then turbine, then returns water to river downstream. **Minimal submergence** vs large dams.
+- **Himalayan potential** (2025 Q31 Stmt 1): **enormous SHP and large hydro potential** in Himalayan rivers. Steep gradient, perennial flow. **TRUE**.
+- **Q31 Stmt 2 trap**: "Eastern UP and Bihar cannot utilise because Himalayas in Nepal" = **FALSE**. Indian Himalayan rivers (Ganga, Yamuna tributaries in Uttarakhand/HP) are in **India**. Nepal border doesn't eliminate Indian hydro development, then answer **only 1**.
+- **Ramganga Project** (2024 Q72): **Garhwal (Uttarakhand)**, hydropower **198 MW**. **Large hydro**, NOT SHP. Dam length 825.8 m. Irrigates ~6 lakh hectares.
+- **India SHP installed**: ~**5 GW**. Potential estimated ~**20 GW**. Underdeveloped due to clearance delays, local opposition, tariff issues.
+- **NE India + Himalayan states**: Sikkim, HP, Uttarakhand, Arunachal. Best SHP sites. **Arunachal** has largest untapped potential.
+- **Environmental advantage over large dams**: smaller footprint, less submergence, fewer displacement issues. But cumulative impact of many SHPs on river ecology exists.
+- **UP context**: limited SHP in **Vindhyan/Bundelkhand** seasonal streams. Himalayan projects in ** erstwhile Garhwal** (now Uttarakhand) serve North Indian grid.
 
 > **Exam note:** **198 MW Ramganga = large hydro** (>25 MW). SHP trap: "all Himalayan projects are SHP" = **FALSE**.
 
 ### Exam Facts (raata)
 
 - SHP = **≤25 MW** (MNRE)
-- Ramganga = **198 MW** — large hydro (2024 Q72)
+- Ramganga = **198 MW**. Large hydro (2024 Q72).
 - Himalayan potential = **enormous** (Q31 Stmt 1 TRUE)
 - Nepal border stmt = **FALSE** (Q31 Stmt 2)
-- India ~**5 GW** SHP installed; ~**20 GW** potential
+- India ~**5 GW** SHP installed. ~**20 GW** potential.
 - Run-of-river = lower impact than storage dams
 - Arunachal + HP + UK = best SHP sites
 
@@ -901,16 +901,16 @@ KEY TRAPS:
 
 ### Tidal Energy — How It Works
 
-- **Mechanism**: Moon's gravity creates **tidal bulge** — coastlines experience **2 high tides + 2 low tides** daily (~12.4 hr cycle) — energy from height difference or kinetic flow.
-- **Tidal barrage**: build dam across **estuary** (Gulf of Kutch, Gulf of Khambhat) — store water at high tide → release through turbines at low tide — **La Rance (France)** classic example.
-- **Tidal stream**: place turbines in **fast-flowing tidal channels** — like underwater wind turbines — less environmental impact than barrage.
-- **India potential**: **Gulf of Khambhat (Gujarat)** — highest tidal range (~11 m); **Gulf of Kutch**; **Sundarbans delta** — estimated ~**12,000 MW** theoretical potential.
-- **Current status**: **no commercial tidal plant operational in India** — high capital cost, environmental concerns (barrage affects mangroves/fisheries), silting.
-- **Advantages**: **predictable** (unlike wind/solar) — tide tables known years ahead; no fuel; long plant life.
-- **Disadvantages**: high upfront cost; limited suitable sites; barrage disrupts coastal ecology; corrosion from seawater.
-- **Tidal vs wave energy**: tidal = **gravity-driven sea level change**; wave = **wind-driven surface oscillation** — different mechanisms (wave covered in §27.14).
-- **Global leaders**: **South Korea (Sihwa)**, **France (La Rance)**, **UK ( Swansea Bay proposed)** — India still at feasibility study stage.
-- **Climate benefit**: zero operational emissions; complements solar/wind if site developed.
+- **Mechanism**: Moon's gravity creates **tidal bulge**. Coastlines experience **2 high tides + 2 low tides** daily (~12.4 hr cycle). Energy from height difference or kinetic flow.
+- **Tidal barrage**: build dam across **estuary** (Gulf of Kutch, Gulf of Khambhat). Store water at high tide, then release through turbines at low tide. **La rance (france)** classic example.
+- **Tidal stream**: place turbines in **fast-flowing tidal channels**. Like underwater wind turbines. Less environmental impact than barrage.
+- **India potential**: **Gulf of Khambhat (Gujarat)**. Highest tidal range (~11 m). **Gulf of Kutch**. **Sundarbans delta**. Estimated ~**12,000 MW** theoretical potential.
+- **Current status**: **no commercial tidal plant operational in India**. High capital cost, environmental concerns (barrage affects mangroves/fisheries), silting.
+- **Advantages**: **predictable** (unlike wind/solar). Tide tables known years ahead. No fuel. Long plant life.
+- **Disadvantages**: high upfront cost. Limited suitable sites. Barrage disrupts coastal ecology. Corrosion from seawater.
+- **Tidal vs wave energy**: tidal = **gravity-driven sea level change**. Wave = **wind-driven surface oscillation**. Different mechanisms (wave covered in §27.14).
+- **Global leaders**: **South Korea (Sihwa)**, **France (La Rance)**, **UK ( Swansea Bay proposed)**. India still at feasibility study stage.
+- **Climate benefit**: zero operational emissions. Complements solar/wind if site developed.
 
 > **Exam note:** Tidal energy ≠ wave energy. Tidal = **Moon's gravity**; Wave = **wind on sea surface**. Both under MNRE ocean/tidal category but different technology.
 
@@ -921,7 +921,7 @@ KEY TRAPS:
 - Estimated Indian tidal potential ~**12,000 MW**
 - **No commercial plant yet** in India
 - La Rance, France = classic tidal barrage
-- Predictable generation — tide tables
+- Predictable generation. Tide tables.
 - Tidal ≠ wave energy
 
 ### PYQs — Tidal Energy
@@ -965,17 +965,17 @@ KEY TRAPS:
 
 ### Ocean Energy — How It Works
 
-- **Ocean energy** is broader category than tidal alone — includes all ocean-based renewable technologies.
-- **Wave energy**: surface buoys/oscillating devices capture **up-down and forward-back motion** of waves — technology types: point absorbers, attenuators, oscillating water columns.
-- **India wave potential**: **west coast** (Kerala Vizhinjam research, Goa, Maharashtra) — moderate wave climate vs Atlantic/Pacific leaders; NIOT (National Institute of Ocean Technology) Chennai leads R&D.
-- **OTEC**: tropical seas with **≥20°C surface-deep temperature difference** — warm surface water evaporates working fluid (ammonia) → turbine → cold deep water condenses — viable in **Lakshadweep/Andaman** waters.
-- **Salinity gradient (blue energy)**: osmotic pressure difference where **fresh river meets sea** — membrane technology — experimental globally.
-- **Ocean current energy**: underwater turbines in **Gulf Stream-type currents** — limited Indian potential (weaker current regimes).
-- **Offshore wind crossover**: technically "ocean" but usually classified under **wind energy** (§27.6) — not ocean energy in exam sense.
-- **Advantages**: vast resource base; wave/OTEC more continuous than solar; coastal India has long coastline (~7,500 km).
-- **Disadvantages**: **harsh marine environment** (corrosion, storms); high capital cost; environmental impact on marine life; technology not mature commercially in India.
-- **Current status**: all ocean energy forms in **pilot/R&D** in India — no grid-scale commercial ocean energy plant; NIOT wave energy plant near Vizhinjam (Kerala) testing.
-- **MNRE inclusion**: ocean energy under MNRE renewable portfolio — part of 500 GW non-fossil target long-term.
+- **Ocean energy** is broader category than tidal alone. Includes all ocean-based renewable technologies.
+- **Wave energy**: surface buoys/oscillating devices capture **up-down and forward-back motion** of waves. Technology types: point absorbers, attenuators, oscillating water columns.
+- **India wave potential**: **west coast** (Kerala Vizhinjam research, Goa, Maharashtra). Moderate wave climate vs Atlantic/Pacific leaders. NIOT (National Institute of Ocean Technology) Chennai leads R&D.
+- **OTEC**: tropical seas with **≥20°C surface-deep temperature difference**. Warm surface water evaporates working fluid (ammonia), then turbine, then cold deep water condenses. Viable in **lakshadweep/andaman** waters.
+- **Salinity gradient (blue energy)**: osmotic pressure difference where **fresh river meets sea**. Membrane technology. Experimental globally.
+- **Ocean current energy**: underwater turbines in **Gulf Stream-type currents**. Limited Indian potential (weaker current regimes).
+- **Offshore wind crossover**: technically "ocean" but usually classified under **wind energy** (§27.6). Not ocean energy in exam sense.
+- **Advantages**: vast resource base. Wave/OTEC more continuous than solar. Coastal India has long coastline (~7,500 km).
+- **Disadvantages**: **harsh marine environment** (corrosion, storms). High capital cost. Environmental impact on marine life. Technology not mature commercially in India.
+- **Current status**: all ocean energy forms in **pilot/R&D** in India. No grid-scale commercial ocean energy plant. NIOT wave energy plant near Vizhinjam (Kerala) testing.
+- **MNRE inclusion**: ocean energy under MNRE renewable portfolio. Part of 500 GW non-fossil target long-term.
 
 > **Exam note:** Ocean energy ⊃ wave + OTEC + salinity + tidal stream. Trap: "ocean energy = only tidal" = **FALSE**.
 
@@ -992,9 +992,9 @@ KEY TRAPS:
 ### Exam Facts (raata)
 
 - Ocean energy = wave + OTEC + salinity + tidal stream
-- Wave ≠ tidal — different mechanisms
+- Wave ≠ tidal. Different mechanisms.
 - NIOT **Chennai** = ocean energy R&D nodal
-- OTEC needs **tropical warm seas** — Lakshadweep potential
+- OTEC needs **tropical warm seas**. Lakshadweep potential.
 - **No commercial grid-scale** ocean plant in India yet
 - India coastline ~**7,500 km**
 - Vizhinjam (Kerala) = wave energy testing
@@ -1040,23 +1040,23 @@ KEY TRAPS:
 
 ### Energy Security — How It Works
 
-- **India's vulnerability**: **fourth-largest energy consumer** globally; **imports ~85% crude oil**, ~50% natural gas — geopolitical shocks (Middle East, Russia-Ukraine) directly affect economy.
-- **Coal advantage**: India has **5th-largest coal reserves** — domestic production ~800 MT/year — reduces but doesn't eliminate import (coking coal imported for steel).
-- **Diversification strategy**: scale **renewables** (500 GW by 2030), **biofuels** (E20), **electric vehicles**, **green hydrogen** — reduce oil intensity of transport/industry.
-- **Strategic Petroleum Reserve (SPR)**: underground caverns at **Visakhapatnam (1.33 MMT), Mangalore (1.5 MMT), Padur (2.5 MMT)** — ~**9.5 days** of consumption buffer; Phase II expanding.
-- **Pipeline infrastructure**: **Urja Ganga, Indradhanush** gas pipelines; **national grid** for electricity — reduces regional supply bottlenecks.
-- **Neighbourhood supply**: electricity trade with **Nepal, Bhutan, Bangladesh** — Bhutan hydro exports to India; Nepal hydro potential (Q31 — India develops its own Himalayan hydro regardless of Nepal border).
-- **Storage technologies**: **pumped storage hydro, battery (PLI scheme), green hydrogen** — address renewable intermittency for security of supply.
-- **Critical minerals**: solar panels, batteries, EVs need **lithium, cobalt, nickel** — new import dependency replacing oil; **Khanij Bidesh India Ltd (KABIL)** secures overseas mines.
-- **Cyber/grid security**: smart grid attacks could disrupt supply — energy security includes **critical infrastructure protection**.
-- **UP dimension**: **no major fossil production** — UP depends on inter-state coal/oil/power supply; renewable rooftop + bioethanol offer partial local security.
+- **India's vulnerability**: **fourth-largest energy consumer** globally. **Imports ~85% crude oil**, ~50% natural gas. Geopolitical shocks (Middle East, Russia-Ukraine) directly affect economy.
+- **Coal advantage**: India has **5th-largest coal reserves**. Domestic production ~800 MT/year. Reduces but doesn't eliminate import (coking coal imported for steel).
+- **Diversification strategy**: scale **renewables** (500 GW by 2030), **biofuels** (E20), **electric vehicles**, **green hydrogen**. Reduce oil intensity of transport/industry.
+- **Strategic Petroleum Reserve (SPR)**: underground caverns at **Visakhapatnam (1.33 MMT), Mangalore (1.5 MMT), Padur (2.5 MMT)**. ~**9.5 days** of consumption buffer. Phase II expanding.
+- **Pipeline infrastructure**: **Urja Ganga, Indradhanush** gas pipelines. **National grid** for electricity. Reduces regional supply bottlenecks.
+- **Neighbourhood supply**: electricity trade with **Nepal, Bhutan, Bangladesh**. Bhutan hydro exports to India. Nepal hydro potential (Q31. India develops its own Himalayan hydro regardless of Nepal border).
+- **Storage technologies**: **pumped storage hydro, battery (PLI scheme), green hydrogen)**. Address renewable intermittency for security of supply.
+- **Critical minerals**: solar panels, batteries, EVs need **lithium, cobalt, nickel**. New import dependency replacing oil. **Khanij Bidesh India Ltd (KABIL)** secures overseas mines.
+- **Cyber/grid security**: smart grid attacks could disrupt supply. Energy security includes **critical infrastructure protection**.
+- **UP dimension**: **no major fossil production**. UP depends on inter-state coal/oil/power supply. Renewable rooftop + bioethanol offer partial local security.
 
 > **Exam note:** Energy security ≠ only oil. Includes **electricity reliability, coal supply, gas pipelines, and strategic reserves** together.
 
 ### Exam Facts (raata)
 
 - India **~85% oil import** dependent
-- Coal largely **domestic** — energy security anchor
+- Coal largely **domestic**. Energy security anchor.
 - SPR: Visakhapatnam, Mangalore, Padur
 - Diversification via **renewables + biofuels + EVs**
 - KABIL = critical mineral security overseas
@@ -1102,16 +1102,16 @@ KEY TRAPS:
 
 ### Renewable Energy Scenario in India — How It Works
 
-- **Total installed capacity (~2025)**: ~**440 GW** all sources; **renewables (solar+wind+biomass+SHP+WTE) ~190 GW**; **solar ~90 GW**, **wind ~46 GW**, **large hydro ~46 GW**, **biomass ~10 GW**, **SHP ~5 GW**.
+- **Total installed capacity (~2025)**: ~**440 GW** all sources. **Renewables (solar+wind+biomass+SHP+WTE) ~190 GW)**. **Solar ~90 GW**, **wind ~46 GW**, **large hydro ~46 GW**, **biomass ~10 GW**, **SHP ~5 GW**.
 - **Generation share**: renewables contribute ~**12–14%** of total **electricity generation** (capacity ≠ generation due to lower capacity factors for solar/wind vs coal).
-- **175 GW by 2022 target**: original NAPCC target of **175 GW renewable** (100 solar + 60 wind + 10 bio + 5 SHP) — **achieved/exceeded** on capacity basis.
-- **500 GW by 2030 (COP26)**: **non-fossil fuel installed capacity** including large hydro and nuclear — requires ~**250 GW additional** in 5 years — massive annual addition (~50 GW/year).
+- **175 GW by 2022 target**: original NAPCC target of **175 GW renewable** (100 solar + 60 wind + 10 bio + 5 SHP). **Achieved/exceeded** on capacity basis.
+- **500 GW by 2030 (COP26)**: **non-fossil fuel installed capacity** including large hydro and nuclear. Requires ~**250 GW additional** in 5 years. Massive annual addition (~50 GW/year).
 - **State leaders**: **Rajasthan** (solar), **Tamil Nadu + Gujarat** (wind), **Karnataka** (solar+wind mix), **Maharashtra**, **Andhra Pradesh**.
-- **Investment climate**: **reverse auctions** drove tariff down; **Renewable Purchase Obligation (RPO)** mandates DISCOMs to buy renewable share; **green bonds** finance projects.
-- **Manufacturing push**: **PLI scheme** for solar module manufacturing (Atmanirbhar); ALMM (Approved List of Models and Manufacturers) mandates domestic content for government projects.
-- **Challenges**: **DISCOM financial health** (payment delays); **grid curtailment** (renewable power "backed down" when grid can't absorb); **land acquisition** delays.
-- **Global rank**: **4th in renewable installed capacity** (after China, USA, Germany); **4th in wind**, **5th in solar** globally.
-- **UP scenario**: **~3 GW solar** installed (growing); **bagasse biomass** in sugar belt; **limited wind**; receives renewable power via **inter-state transmission**.
+- **Investment climate**: **reverse auctions** drove tariff down. **Renewable Purchase Obligation (RPO)** mandates DISCOMs to buy renewable share. **Green bonds** finance projects.
+- **Manufacturing push**: **PLI scheme** for solar module manufacturing (Atmanirbhar). ALMM (Approved List of Models and Manufacturers) mandates domestic content for government projects.
+- **Challenges**: **DISCOM financial health** (payment delays). **Grid curtailment** (renewable power "backed down" when grid can't absorb). **Land acquisition** delays.
+- **Global rank**: **4th in renewable installed capacity** (after China, USA, Germany). **4th in wind**, **5th in solar** globally.
+- **UP scenario**: **~3 GW solar** installed (growing). **Bagasse biomass** in sugar belt. **Limited wind**. Receives renewable power via **inter-state transmission**.
 
 > **Exam note:** **500 GW by 2030 = non-fossil capacity** (includes large hydro + nuclear), not renewables alone. Trap: "500 GW = only solar+wind" = **FALSE**.
 
@@ -1129,12 +1129,12 @@ KEY TRAPS:
 ### Exam Facts (raata)
 
 - Renewables ~**190 GW** installed (~2025)
-- **500 GW non-fossil by 2030** — COP26 pledge
-- **175 GW by 2022** — achieved
+- **500 GW non-fossil by 2030**. COP26 pledge.
+- **175 GW by 2022**. Achieved.
 - Solar ~**90 GW** | Wind ~**46 GW**
 - Rajasthan = solar leader | TN/Gujarat = wind
 - 4th globally in renewable capacity
-- UP ~3 GW solar — growing
+- UP ~3 GW solar. Growing.
 
 ### PYQs — Renewable Scenario
 
@@ -1175,16 +1175,16 @@ KEY TRAPS:
 
 ### National Renewable Energy Programme — How It Works
 
-- **NAPCC launched 2008** by PM's Council on Climate Change — India's master climate/renewable framework — **8 missions** under it.
-- **Eight NAPCC missions**: (1) **National Solar Mission**; (2) **National Mission for Enhanced Energy Efficiency**; (3) **National Mission on Sustainable Habitat**; (4) **National Water Mission**; (5) **National Mission for Green India**; (6) **National Mission for Sustaining Himalayan Ecosystem**; (7) **National Mission for Strategic Knowledge on Climate Change**; (8) **National Mission on Sustainable Agriculture**.
+- **NAPCC launched 2008** by PM's Council on Climate Change. India's master climate/renewable framework. **8 missions** under it.
+- **Eight NAPCC missions**: (1) **National Solar Mission**. (2) **National Mission for Enhanced Energy Efficiency**. (3) **National Mission on Sustainable Habitat**. (4) **National Water Mission**. (5) **National Mission for Green India**. (6) **National Mission for Sustaining Himalayan Ecosystem**. (7) **National Mission for Strategic Knowledge on Climate Change**. (8) **National Mission on Sustainable Agriculture**.
 - **MNRE role**: single-window for **policy, incentives, subsidies, RPO enforcement, international cooperation** on renewables.
-- **Renewable Purchase Obligation (RPO)**: mandates state DISCOMs to purchase minimum **renewable percentage** — escalates annually — key demand driver.
-- **Generation-Based Incentive (GBI)**: early wind incentive per kWh generated — largely replaced by competitive auctions.
-- **Competitive bidding/auctions**: **SECI (Solar Energy Corporation of India)** conducts central auctions — discovered tariffs ₹2/kWh range — drives market pricing.
-- **Green Energy Open Access Rules 2022**: consumers ≥100 kW can buy renewable directly — corporate RE100 commitments.
+- **Renewable Purchase Obligation (RPO)**: mandates state DISCOMs to purchase minimum **renewable percentage**. Escalates annually. Key demand driver.
+- **Generation-Based Incentive (GBI)**: early wind incentive per kWh generated. Largely replaced by competitive auctions.
+- **Competitive bidding/auctions**: **SECI (Solar Energy Corporation of India)** conducts central auctions. Discovered tariffs ₹2/kWh range. Drives market pricing.
+- **Green Energy Open Access Rules 2022**: consumers ≥100 kW can buy renewable directly. Corporate RE100 commitments.
 - **International cooperation**: **ISA**, **IRENA** membership, bilateral clean energy partnerships (US, France, Germany).
-- **Funding**: **Green Climate Fund**, **World Bank**, **ADB** loans; domestic **green bonds**; **₹19,500 crore PLI** for solar manufacturing.
-- **Integration with state policies**: Gujarat, Rajasthan, Karnataka state policies complement national programme — single-window clearance portals.
+- **Funding**: **Green Climate Fund**, **World Bank**, **ADB** loans. Domestic **green bonds**. **₹19,500 crore PLI** for solar manufacturing.
+- **Integration with state policies**: Gujarat, Rajasthan, Karnataka state policies complement national programme. Single-window clearance portals.
 
 > **Exam note:** National Renewable Energy Programme = **NAPCC + MNRE + SECI + RPO** ecosystem — not a single scheme name but umbrella framework.
 
@@ -1203,7 +1203,7 @@ KEY TRAPS:
 
 ### Exam Facts (raata)
 
-- **NAPCC 2008** — 8 missions
+- **NAPCC 2008**. 8 missions.
 - **MNRE** = nodal renewable ministry
 - **SECI** = central renewable auction agency
 - **RPO** = mandatory renewable purchase by DISCOMs
@@ -1252,16 +1252,16 @@ KEY TRAPS:
 
 ### National Solar Mission — How It Works
 
-- **Launch 2010**: under **NAPCC Mission 1** — at time solar tariff ₹17/kWh — mission drove scale to ₹2/kWh through auctions.
-- **100 GW target breakdown**: **40 GW rooftop + 40 GW utility-scale + 20 GW VGF projects** — rooftop lagged; utility-scale exceeded.
-- **VGF (Viability Gap Funding)**: government capital subsidy for solar parks — reduced developer risk — Bhadla, Rewa models.
-- **Domestic content requirement**: initial mandate for **Indian cells/modules** — WTO dispute (USA) led to modified ALMM approach.
-- **Grid parity milestone**: solar became **cheapest new electricity source** in India ~2017 — coal new builds more expensive in many states.
-- **PM-KUSUM linkage**: solar mission extended to **agriculture sector** — 30.8 GW solar capacity target for farmers (solar pumps + feeders).
-- **CSP component**: limited progress — **India CSP ~0.2 GW** vs PV ~90 GW — PV won on cost in Indian conditions.
-- **R&D component**: **National Centre for Photovoltaic Research**; perovskite, bifacial panel research.
-- **Post-2022 trajectory**: subsumed into **500 GW non-fossil 2030** target — solar expected to contribute **~280 GW** of 500 GW.
-- **Environmental co-benefits**: avoided **~45 MT CO₂/year** from solar generation; water saving vs thermal plants (no cooling water for PV).
+- **Launch 2010**: under **NAPCC Mission 1**. At time solar tariff ₹17/kWh. Mission drove scale to ₹2/kWh through auctions.
+- **100 GW target breakdown**: **40 GW rooftop + 40 GW utility-scale + 20 GW VGF projects**. Rooftop lagged. Utility-scale exceeded.
+- **VGF (Viability Gap Funding)**: government capital subsidy for solar parks. Reduced developer risk. Bhadla, Rewa models.
+- **Domestic content requirement**: initial mandate for **Indian cells/modules**. WTO dispute (USA) led to modified ALMM approach.
+- **Grid parity milestone**: solar became **cheapest new electricity source** in India ~2017. Coal new builds more expensive in many states.
+- **PM-KUSUM linkage**: solar mission extended to **agriculture sector**. 30.8 GW solar capacity target for farmers (solar pumps + feeders).
+- **CSP component**: limited progress. **India CSP ~0.2 GW** vs PV ~90 GW. PV won on cost in Indian conditions.
+- **R&D component**: **National Centre for Photovoltaic Research**. Perovskite, bifacial panel research.
+- **Post-2022 trajectory**: subsumed into **500 GW non-fossil 2030** target. Solar expected to contribute **~280 GW** of 500 GW.
+- **Environmental co-benefits**: avoided **~45 MT CO₂/year** from solar generation. Water saving vs thermal plants (no cooling water for PV).
 
 > **Exam note:** National Solar Mission = **2010**, NOT 2008 (NAPCC = 2008). Trap year swap common in exams.
 
@@ -1278,7 +1278,7 @@ KEY TRAPS:
 ### Exam Facts (raata)
 
 - JNNSM launched **2010**
-- Target: **100 GW solar by 2022** — achieved
+- Target: **100 GW solar by 2022**. Achieved.
 - Under **NAPCC Mission 1**
 - SECI = central implementing auction body
 - VGF for solar parks
@@ -1325,16 +1325,16 @@ KEY TRAPS:
 
 ### Energy Conservation — How It Works
 
-- **Energy conservation** = **demand reduction** — unlike energy efficiency (same concept overlap) — focus on **avoiding wasteful use** — switch off, better insulation, public transport.
+- **Energy conservation** = **demand reduction**. Unlike energy efficiency (same concept overlap). Focus on **avoiding wasteful use**. Switch off, better insulation, public transport.
 - **Energy Conservation Act 2001**: empowers BEE to set **minimum energy performance standards (MEPS)**, **energy labeling**, and **energy consumption norms** for designated consumers.
-- **Star labeling programme**: **1–5 star rating** on appliances — AC, refrigerator, fan, TV, geysers — higher stars = lower consumption — mandatory display.
-- **ECBC (Energy Conservation Building Code)**: sets standards for **commercial building** envelope, HVAC, lighting — ECBC 2017 update; **Eco-Niwas Samhita** for residential buildings.
-- **Designated Consumers (DCs)**: **energy-intensive industries** (cement, steel, thermal power, fertiliser, aluminium) + **DISCOMs** — must meet efficiency targets under PAT.
-- **Fuel efficiency norms**: **CAFE (Corporate Average Fuel Efficiency)** for passenger cars — grams CO₂/km — pushes automakers toward efficient/Electric vehicles.
-- **National Energy Conservation Day**: **14 December** — awards for industries/states achieving highest energy savings.
+- **Star labeling programme**: **1–5 star rating** on appliances. AC, refrigerator, fan, TV, geysers. Higher stars = lower consumption. Mandatory display.
+- **ECBC (Energy Conservation Building Code)**: sets standards for **commercial building** envelope, HVAC, lighting. ECBC 2017 update. **Eco-Niwas Samhita** for residential buildings.
+- **Designated Consumers (DCs)**: **energy-intensive industries** (cement, steel, thermal power, fertiliser, aluminium) + **DISCOMs**. Must meet efficiency targets under PAT.
+- **Fuel efficiency norms**: **CAFE (Corporate Average Fuel Efficiency)** for passenger cars. Grams CO₂/km. Pushes automakers toward efficient/Electric vehicles.
+- **National Energy Conservation Day**: **14 December**. Awards for industries/states achieving highest energy savings.
 - **Energy audit mandate**: designated consumers must conduct **mandatory energy audits** every 4 years by certified auditors.
-- **State Designated Agencies (SDAs)**: state-level BEE counterparts — implement EC Act locally — UP SDA in Lucknow.
-- **Impact**: avoided capacity addition — **1 unit saved = 1.5–2 units not generated** (transmission losses) — "negawatt" cheaper than new power plant.
+- **State Designated Agencies (SDAs)**: state-level BEE counterparts. Implement EC Act locally. UP SDA in Lucknow.
+- **Impact**: avoided capacity addition. **1 unit saved = 1.5–2 units not generated** (transmission losses). "negawatt" cheaper than new power plant.
 
 > **Exam note:** **BEE under Ministry of Power** — NOT MNRE. EC Act **2001** — NOT 2010 (NSM year trap).
 
@@ -1389,16 +1389,16 @@ KEY TRAPS:
 
 ### Energy Efficiency — How It Works
 
-- **Energy efficiency vs conservation**: efficiency = **better technology** (LED vs incandescent, efficient motor vs old motor); conservation = **behavioural reduction** (switch off lights) — exams often overlap but PAT = efficiency instrument.
-- **PAT scheme (2012)**: under **BEE / EC Act** — covers **designated consumers** in 13 sectors — assign **specific energy consumption (SEC) targets** — exceed target → earn **ESCerts**; fail → buy ESCerts or pay penalty.
-- **ESCerts trading**: market-based compliance — industries that over-achieve sell certificates to under-achievers — creates **price signal for efficiency investment**.
-- **PAT cycles**: Cycle I (2012–15), II (2016–19), III (2020–23), IV (2024–27) — expanding sector coverage each cycle.
-- **CCTS 2023 distinction**: **Carbon Credit Trading Scheme** under EC Act — **BEE designated authority** for **carbon/GHG credits** — **separate from PAT ESCerts** — trap: "PAT trades carbon credits" = oversimplified **FALSE**.
-- **Appliance standards**: **MEPS** ban sale of inefficient models — only ≥3 star ACs now; **LED UJALA programme** — 36 crore LED bulbs distributed — massive residential efficiency gain.
-- **Industrial efficiency**: **top 10% efficient plants** set PAT benchmarks — forces laggards to upgrade boilers, furnaces, motors.
-- **Transport efficiency**: **BS-VI norms**, **FAME-II EV subsidies**, **Metro/rail shift** — move passengers to efficient modes.
-- **SDGs link**: **SDG 7.3** — double global rate of energy efficiency improvement by 2030.
-- **UP industries**: **cement (Bulandshahr, Churk), steel, thermal (Anpara, Obra)** — PAT-covered designated consumers in UP.
+- **Energy efficiency vs conservation**: efficiency = **better technology** (LED vs incandescent, efficient motor vs old motor). Conservation = **behavioural reduction** (switch off lights). Exams often overlap but PAT = efficiency instrument.
+- **PAT scheme (2012)**: under **BEE / EC Act**. Covers **designated consumers** in 13 sectors. Assign **specific energy consumption (SEC) targets)**. Exceed target, then earn **escerts**. Fail, then buy escerts or pay penalty.
+- **ESCerts trading**: market-based compliance. Industries that over-achieve sell certificates to under-achievers. Creates **price signal for efficiency investment**.
+- **PAT cycles**: Cycle I (2012–15), II (2016–19), III (2020–23), IV (2024–27). Expanding sector coverage each cycle.
+- **CCTS 2023 distinction**: **Carbon Credit Trading Scheme** under EC Act. **BEE designated authority** for **carbon/GHG credits**. **Separate from PAT ESCerts**. Trap: "PAT trades carbon credits" = oversimplified **FALSE**.
+- **Appliance standards**: **MEPS** ban sale of inefficient models. Only ≥3 star ACs now. **LED UJALA programme**. 36 crore LED bulbs distributed. Massive residential efficiency gain.
+- **Industrial efficiency**: **top 10% efficient plants** set PAT benchmarks. Forces laggards to upgrade boilers, furnaces, motors.
+- **Transport efficiency**: **BS-VI norms**, **FAME-II EV subsidies**, **Metro/rail shift**. Move passengers to efficient modes.
+- **SDGs link**: **SDG 7.3**. Double global rate of energy efficiency improvement by 2030.
+- **UP industries**: **cement (Bulandshahr, Churk), steel, thermal (Anpara, Obra)**. PAT-covered designated consumers in UP.
 
 > **Exam note:** **PAT = ESCerts (energy efficiency)** ≠ **CCTS = carbon credits (GHG)**. Both under BEE but different markets (Topic 24 crossover trap).
 
@@ -1415,8 +1415,8 @@ KEY TRAPS:
 
 ### Exam Facts (raata)
 
-- PAT scheme = **2012** — BEE under EC Act 2001
-- Trades **ESCerts** — NOT carbon credits directly
+- PAT scheme = **2012**. BEE under EC Act 2001.
+- Trades **ESCerts**. NOT carbon credits directly.
 - CCTS **2023** = separate carbon credit market
 - LED UJALA = mass efficiency programme
 - PAT Cycle IV: 2024–27

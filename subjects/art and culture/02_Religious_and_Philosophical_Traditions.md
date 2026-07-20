@@ -91,19 +91,19 @@ UP LINKS:
 
 ### Six Schools — How It Works
 
-- **Philosophy in India** is called **Darshana** — not mere speculation but systematic worldview leading to **liberation (moksha/nirvana/kaivalya)**.
-- **Astika (orthodox)** schools accept **Veda** as valid means of knowledge (**pramana**); **Nastika** schools reject Vedic infallibility.
-- **Six Astika schools** = **Nyaya, Vaisheshika, Samkhya, Yoga, Mimamsa, Vedanta** — traditionally arranged in three pairs.
-- **Nyaya** (founder **Gautama**, not Buddha) — science of **logic and epistemology**; valid knowledge through **pramanas** (perception, inference, comparison, testimony).
-- **Vaisheshika** (**Kanada**) — **atomistic realism**; universe built from eternal atoms; classifies **padarthas** (substances, qualities, actions).
-- **Nyaya + Vaisheshika** together = logic + metaphysics of categories — often studied as complementary.
-- **Samkhya** (**Kapila**) — **dualistic**: **Purusha** (consciousness) + **Prakriti** (matter); liberation when Purusha realises distinction from Prakriti.
-- **Yoga** (**Patanjali**, *Yoga Sutras*) — practical discipline; **Ashtanga Yoga** (8 limbs) to still mind and attain **kaivalya**.
-- **Samkhya + Yoga** = theory + practice pair — Samkhya philosophy underlies Yoga techniques.
-- **Mimamsa** (**Jaimini**) — interprets **Vedic ritual (karma-kāṇḍa)**; **eternal validity of Vedas**; dharma = correct performance of sacrifice.
-- **Vedanta** (**Badarayana**, *Brahma Sutras*) — interprets **Upanishads (jñāna-kāṇḍa)**; central question: relation of **Brahman** and **Atman**.
-- **Three Vedanta sub-schools**: **Advaita** (Shankara — non-dual), **Vishishtadvaita** (Ramanuja — qualified non-dual), **Dvaita** (Madhva — dual).
-- **Nastika schools**: **Charvaka/Lokayata** (materialism — only perception valid), **Buddhism**, **Jainism** — all deny permanent soul and Vedic ritual supremacy in their classical forms.
+- **Philosophy in India** is called **Darshana**. Not mere speculation but systematic worldview leading to **liberation (moksha/nirvana/kaivalya)**.
+- **Astika (orthodox)** schools accept **Veda** as valid means of knowledge (**pramana**). **Nastika** schools reject Vedic infallibility.
+- **Six Astika schools** = **Nyaya, Vaisheshika, Samkhya, Yoga, Mimamsa, Vedanta**. Traditionally arranged in three pairs.
+- **Nyaya** (founder **Gautama**, not Buddha). Science of **logic and epistemology**. Valid knowledge through **pramanas** (perception, inference, comparison, testimony).
+- **Vaisheshika** (**Kanada**). **Atomistic realism**. Universe built from eternal atoms. Classifies **padarthas** (substances, qualities, actions).
+- **Nyaya + Vaisheshika** together = logic + metaphysics of categories. Often studied as complementary.
+- **Samkhya** (**Kapila**) is **dualistic**: **Purusha** (consciousness) and **Prakriti** (matter). Liberation comes when Purusha realises its distinction from Prakriti.
+- **Yoga** (**Patanjali**, *Yoga Sutras*). Practical discipline. **Ashtanga Yoga** (8 limbs) to still mind and attain **kaivalya**.
+- **Samkhya + Yoga** = theory + practice pair. Samkhya philosophy underlies Yoga techniques.
+- **Mimamsa** (**Jaimini**). Interprets **Vedic ritual (karma-kāṇḍa)**. **Eternal validity of Vedas**. Dharma = correct performance of sacrifice.
+- **Vedanta** (**Badarayana**, *Brahma Sutras*). Interprets **Upanishads (jñāna-kāṇḍa)**. Central question: relation of **Brahman** and **Atman**.
+- **Three Vedanta sub-schools**: **Advaita** (Shankara. Non-dual), **Vishishtadvaita** (Ramanuja. Qualified non-dual), **Dvaita** (Madhva. Dual).
+- **Nastika schools**: **Charvaka/Lokayata** (materialism. Only perception valid), **Buddhism**, **Jainism**. They all deny permanent soul and Vedic ritual supremacy in their classical forms.
 
 > **Exam note:** **Gautama** in philosophy = **Nyaya** founder; **Gautama Buddha** = Buddhism — most common trap. **Shankara** = Advaita Vedanta (8th c.); not founder of Nyaya.
 
@@ -126,11 +126,11 @@ UP LINKS:
 - Shad Darshana = 6 Astika schools accepting **Veda**
 - 3 pairs: **Nyaya–Vaisheshika, Samkhya–Yoga, Mimamsa–Vedanta**
 - Nastika = **Charvaka, Buddhism, Jainism**
-- Nyaya founder **Gautama** — logic; pramanas = perception, inference, comparison, testimony
-- Patanjali = **Yoga Sutras**; 8 limbs (yama, niyama, asana, pranayama, pratyahara, dharana, dhyana, samadhi)
-- Shankara = **Advaita Vedanta**; Ramanuja = **Vishishtadvaita**; Madhva = **Dvaita**
-- Charvaka = **perception only** valid pramana; rejects soul, rebirth, karma
-- Mimamsa emphasises **ritual action**; Vedanta emphasises **Upanishadic knowledge**
+- **Nyaya founder Gautama**. Logic. Pramanas = perception, inference, comparison, testimony.
+- Patanjali = **Yoga Sutras**. 8 limbs (yama, niyama, asana, pranayama, pratyahara, dharana, dhyana, samadhi).
+- Shankara = **Advaita Vedanta**. Ramanuja = **Vishishtadvaita**. Madhva = **Dvaita**.
+- Charvaka = **perception only** valid pramana. Rejects soul, rebirth, karma.
+- Mimamsa emphasises **ritual action**. Vedanta emphasises **Upanishadic knowledge**.
 
 ### PYQs — Six Schools
 
@@ -176,17 +176,17 @@ UP LINKS:
 
 ### Vedic Philosophy — How It Works
 
-- **Vedic literature** has four layers: **Samhitas** (hymns) → **Brahmanas** (ritual commentary) → **Aranyakas** (forest texts) → **Upanishads** (philosophical core).
+- **Vedic literature** has four layers: **Samhitas** (hymns), then **Brahmanas** (ritual commentary), then **Aranyakas** (forest texts), then **Upanishads** (philosophical core).
 - Early Vedic thought centres on **Rta** (cosmic order), **yajna** (sacrifice), and tribal gods (**Indra, Agni, Varuna**).
-- Later Vedic period shifts toward **abstract principles** — **Brahman** as universal ground of being in **Upanishads** (Vedanta = "end of Vedas").
-- **Atman** (inner self) identified with **Brahman** in major Upanishadic declarations — "**Tat tvam asi**" (That thou art), "**Aham Brahmasmi**".
-- **Karma doctrine** — every action bears fruit (**phala**); shapes future births; ritual correctness (Mimamsa) OR ethical knowledge (Vedanta) paths to address it.
-- **Samsara** = cycle of birth–death–rebirth; **moksha** = release — common goal across Hindu philosophical schools.
-- **Purusharthas** (four aims of life): **Dharma** (duty/righteousness), **Artha** (wealth), **Kama** (pleasure), **Moksha** (liberation) — balanced worldly and spiritual life.
-- **Ashrama system** (ideal life stages): **Brahmacharya** (student), **Grihastha** (householder), **Vanaprastha** (retiree), **Sannyasa** (renunciant) — framework for dharmic living.
-- **Varna** ideal (not always social reality) — functional division: Brahmin (learning/priesthood), Kshatriya (rule/protection), Vaishya (commerce), Shudra (service) — debated in modern scholarship.
+- Later Vedic period shifts toward **abstract principles**. **Brahman** as universal ground of being in **Upanishads** (Vedanta = "end of Vedas").
+- **Atman** (inner self) identified with **Brahman** in major Upanishadic declarations. "**Tat tvam asi**" (That thou art), "**Aham Brahmasmi**".
+- **Karma doctrine**. Every action bears fruit (**phala**). Shapes future births. Ritual correctness (Mimamsa) OR ethical knowledge (Vedanta) paths to address it.
+- **Samsara** = cycle of birth–death–rebirth. **Moksha** = release. Common goal across Hindu philosophical schools.
+- **Purusharthas** (four aims of life) are **Dharma** (duty/righteousness), **Artha** (wealth), **Kama** (pleasure), and **Moksha** (liberation). Together they balance worldly and spiritual life.
+- The **Ashrama system** sets ideal life stages: **Brahmacharya** (student), **Grihastha** (householder), **Vanaprastha** (retiree), and **Sannyasa** (renunciant). It is a framework for dharmic living.
+- **Varna** ideal (not always social reality). Functional division: Brahmin (learning/priesthood), Kshatriya (rule/protection), Vaishya (commerce), Shudra (service). Debated in modern scholarship.
 - Transition from **polytheistic ritualism** to **philosophical monism/qualified monism** sets stage for **Bhakti** and **Vedanta** dominance in medieval period.
-- **Vedic philosophy** underpins Indian culture — concepts of dharma, karma, rebirth appear in epics (**Mahabharata, Ramayana**), law (**Manusmriti**), and everyday ethics.
+- **Vedic philosophy** underpins Indian culture. Concepts of dharma, karma, rebirth appear in epics (**Mahabharata, Ramayana**), law (**Manusmriti**), and everyday ethics.
 
 > **Exam note:** **Brahman** (ultimate reality) ≠ **Brahmin** (varna) — spelling/pronunciation trap in MCQs. Upanishads = **jñāna-kāṇḍa**; Brahmanas = **karma-kāṇḍa**.
 
@@ -202,7 +202,7 @@ UP LINKS:
 ### Exam Facts (raata)
 
 - Four Vedas: **Rig, Sama, Yajur, Atharva**
-- Upanishads = **Vedanta** (end of Vedas) — philosophical foundation
+- **Upanishads = **Vedanta** (end of Vedas)**. Philosophical foundation.
 - Key concepts: **Brahman, Atman, Karma, Samsara, Moksha**
 - Purusharthas: **Dharma, Artha, Kama, Moksha**
 - Famous Upanishadic mahavakyas: **Tat tvam asi, Aham Brahmasmi, Ayam Atma Brahma, Prajnanam Brahma**
@@ -247,18 +247,18 @@ UP LINKS:
 
 ### Buddhist Philosophy — How It Works
 
-- **Siddhartha Gautama** (Buddha) born **Lumbini** (Nepal); enlightened at **Bodh Gaya** (Bihar); **first sermon** at **Sarnath** (UP) — **Dharmachakrapravartana** (turning the wheel of dharma).
-- **Mahaparinirvana** (death) at **Kushinagar** (UP) — makes UP central to Buddhist pilgrimage circuit.
-- **Four Noble Truths**: (1) life involves **dukkha**; (2) cause = **tanha** (craving); (3) cessation possible; (4) path = **Eightfold Path**.
-- **Eightfold Path** divides into **wisdom** (view, intention), **ethics** (speech, action, livelihood), **meditation** (effort, mindfulness, concentration) — practical, not merely theoretical.
-- **Middle Path (Madhyama Pratipad)** — avoids extremes of luxury indulgence and severe asceticism; Buddha rejected both after enlightenment.
-- **Anicca** (impermanence) + **Anatta** (no-self) undermine belief in eternal soul — contrasts with Upanishadic Atman and Jain jiva.
-- **Karma** in Buddhism — intentional action shapes rebirth; but no permanent entity transmigrates — **stream of consciousness** model.
-- **Nirvana** = extinction of craving and suffering; **not** heavenly paradise in classical Theravada sense.
-- **Hinayana/Theravada** — individual **Arhat** ideal; Pali canon; Sri Lanka, Myanmar, Thailand stronghold.
-- **Mahayana** — **Bodhisattva** ideal (delay own nirvana to help all beings); Sanskrit texts; spread to China, Japan, Tibet.
-- **Vajrayana** — tantric Buddhism; Tibet, Bhutan, Ladakh, Sikkim; uses mantras, mandalas, guru lineage.
-- **Buddhist Councils** preserved and codified doctrine — favourite UPPCS chronology topic.
+- **Siddhartha Gautama** (Buddha) born **Lumbini** (Nepal). Enlightened at **Bodh Gaya** (Bihar). **First sermon** at **Sarnath** (UP) includes **Dharmachakrapravartana** (turning the wheel of dharma).
+- **Mahaparinirvana** (death) at **Kushinagar** (UP). Makes UP central to Buddhist pilgrimage circuit.
+- **Four Noble Truths**: (1) life involves **dukkha**. (2) cause = **tanha** (craving). (3) cessation possible. (4) path = **Eightfold Path**.
+- **Eightfold Path** divides into **wisdom** (view, intention), **ethics** (speech, action, livelihood), **meditation** (effort, mindfulness, concentration). Practical, not merely theoretical.
+- **Middle Path (Madhyama Pratipad)**. Avoids extremes of luxury indulgence and severe asceticism. Buddha rejected both after enlightenment.
+- **Anicca** (impermanence) + **Anatta** (no-self) undermine belief in eternal soul. Contrasts with Upanishadic Atman and Jain jiva.
+- **Karma** in Buddhism. Intentional action shapes rebirth. But no permanent entity transmigrates.
+- **Nirvana** = extinction of craving and suffering. **Not** heavenly paradise in classical Theravada sense.
+- **Hinayana/Theravada**. Individual **Arhat** ideal. Pali canon. Sri Lanka, Myanmar, Thailand stronghold.
+- **Mahayana**. **Bodhisattva** ideal (delay own nirvana to help all beings). Sanskrit texts. Spread to China, Japan, Tibet.
+- **Vajrayana**. Tantric Buddhism. Tibet, Bhutan, Ladakh, Sikkim. Uses mantras, mandalas, guru lineage.
+- **Buddhist Councils** preserved and codified doctrine. Favourite UPPCS chronology topic.
 
 > **Exam note:** Councils order = **Rajagriha → Vaishali → Pataliputra → Kashmir/Kundalvana** (UPPCS 2025 Q105: answer **C — 2, 1, 4, 3**). First sermon = **Sarnath**, NOT Bodh Gaya.
 
@@ -273,14 +273,14 @@ UP LINKS:
 
 ### Exam Facts (raata)
 
-- Buddha = **Siddhartha Gautama**; clan **Shakya**
+- Buddha = **Siddhartha Gautama**. Clan **Shakya**.
 - Four Noble Truths + **Eightfold Path**
 - Triratna: **Buddha, Dharma, Sangha**
-- **Sarnath** = first sermon; **Bodh Gaya** = enlightenment; **Kushinagar** = Mahaparinirvana
+- **Sarnath** = first sermon. **Bodh Gaya** = enlightenment. **Kushinagar** = Mahaparinirvana.
 - Councils: **Rajagriha, Vaishali, Pataliputra, Kashmir**
-- **Ashoka** = key patron of spread; 3rd council under him
-- **Anatta** = no permanent soul; **Anicca** = impermanence
-- Mahayana = **Bodhisattva**; Theravada = **Arhat**
+- **Ashoka** = key patron of spread. 3rd council under him.
+- **Anatta** = no permanent soul. **Anicca** = impermanence.
+- Mahayana = **Bodhisattva**. Theravada = **Arhat**.
 
 ### PYQs — Buddhist Philosophy
 
@@ -318,18 +318,18 @@ UP LINKS:
 
 ### Jain Philosophy — How It Works
 
-- **Jainism** traces 24 **Tirthankaras**; **Rishabhanatha (Adinatha)** = first; **Mahavira (Vardhamana)** = 24th and last in this cycle.
-- **Mahavira** born **Kundagrama** near Vaishali (Bihar); renounced princely life; attained **kaivalya** (omniscience); nirvana at **Pavapuri**.
-- **Triratna** — right faith, knowledge, conduct — all three needed for liberation; parallel to Buddhist Triratna but distinct meaning.
+- **Jainism** traces 24 **Tirthankaras**. **Rishabhanatha (Adinatha)** = first. **Mahavira (Vardhamana)** = 24th and last in this cycle.
+- **Mahavira** born **Kundagrama** near Vaishali (Bihar). Renounced princely life. Attained **kaivalya** (omniscience). Nirvana at **Pavapuri**.
+- **Triratna**. Right faith, knowledge, conduct. All three needed for liberation. Parallel to Buddhist Triratna but distinct meaning.
 - **Five Mahavratas** (great vows for monks): **Ahimsa, Satya, Asteya, Brahmacharya, Aparigraha** (non-violence, truth, non-stealing, celibacy, non-possession).
-- Lay followers take **anuvratas** (lesser vows) — still centre **ahimsa** in diet, occupation, daily life.
-- **Anekantavada** — no single viewpoint captures full truth; illustrated by **blind men and elephant** parable; promotes intellectual tolerance.
-- **Syadvada** — seven conditional modes of predication (**syad-asti, syad-nasti, syad-asti-nasti, syad-asti-avaktavya, syad-nasti-avaktavya, syad-asti-nasti-avaktavya, syad-avaktavya**) — logical expression of anekantavada.
-- **Karma in Jainism** — subtle material particles (**karmic pudgala**) stick to soul (**jiva**); weigh it down; only purification through austerity removes them.
-- **Jiva** (sentient soul) vs **Ajiva** (non-sentient matter, space, time, dharma, adharma) — distinct from Buddhist anatta.
-- **Liberation (moksha/kaivalya)** — soul rises to top of universe (**Siddhashila**), free of karma, eternally blissful.
-- **Digambara** ("sky-clad") — monks go naked; **Mahavira never married** in their tradition; stricter asceticism; **Svetambara** ("white-clad") — wear white; allow women renouncers; accept image worship.
-- Jain contribution to **Indian art** (Ganga-Yamuna doab), **mathematics**, **ecology (ahimsa)** — but philosophy focus here.
+- **Lay followers take **anuvratas** (lesser vows)**. Still centre **ahimsa** in diet, occupation, daily life.
+- **Anekantavada** holds that no single viewpoint captures full truth. It is illustrated by the **blind men and elephant** parable and promotes intellectual tolerance.
+- **Syadvada**. Seven conditional modes of predication (**syad-asti, syad-nasti, syad-asti-nasti, syad-asti-avaktavya, syad-nasti-avaktavya, syad-asti-nasti-avaktavya, syad-avaktavya**). Logical expression of anekantavada.
+- **Karma in Jainism**. Subtle material particles (**karmic pudgala**) stick to soul (**jiva**). Weigh it down. Only purification through austerity removes them.
+- **Jiva** (sentient soul) vs **Ajiva** (non-sentient matter, space, time, dharma, adharma). Distinct from Buddhist anatta.
+- **Liberation (moksha/kaivalya)**. Soul rises to top of universe (**Siddhashila**), free of karma, eternally blissful.
+- **Digambara** ("sky-clad") monks go naked. **Mahavira never married** in their tradition, reflecting stricter asceticism. **Svetambara** ("white-clad") monks wear white, allow women renouncers, and accept image worship.
+- **Jain contribution to **Indian art** (Ganga-Yamuna doab), **mathematics**, ecology (ahimsa)**. But philosophy focus here.
 
 > **Exam note:** Mahavira = **24th Tirthankara**, NOT founder of first Jain teaching — **Rishabhanatha = 1st**. Digambara ≠ "allow women monks" — Svetambara does.
 
@@ -345,14 +345,14 @@ UP LINKS:
 
 ### Exam Facts (raata)
 
-- 24 Tirthankaras; **Mahavira = 24th**; **Rishabhanatha = 1st**
+- 24 Tirthankaras. **Mahavira = 24th**. **Rishabhanatha = 1st**.
 - Mahavira contemporary of **Buddha** (6th–5th c. BCE tradition)
 - Triratna: **Right faith, knowledge, conduct**
 - **Ahimsa** = supreme principle
 - **Anekantavada** + **Syadvada** = Jain logic/epistemology
 - Karma = material particles adhering to **jiva**
 - Digambara vs Svetambara = major sect split
-- Jain symbol: **hand with wheel** (ahimsa); swastika in Jain context (auspicious)
+- Jain symbol: **hand with wheel** (ahimsa) and swastika in Jain context (auspicious).
 
 ### PYQs — Jain Philosophy
 
@@ -391,18 +391,18 @@ UP LINKS:
 
 ### Bhakti Movement — How It Works
 
-- **Bhakti** = loving devotion — makes God accessible to all castes and genders; challenges Brahminical ritual monopoly.
-- **Roots**: Tamil **Alvars** (Vishnu) and **Nayanars** (Shiva) saints (6th–9th c.) — earliest systematic devotional poetry.
-- **South-to-North spread** via pilgrim routes, trade, and **Shankara's** Vedanta backdrop — Bhakti offers emotional alternative to abstract philosophy.
-- **Maharashtra saints**: **Jnaneswar, Namdev, Eknath, Tukaram** — Marathi abhangas; Vitthala/Vithoba of Pandharpur cult.
-- **North Indian phase**: **Ramananda** (Vaishnava reformer, Varanasi) — admitted lower castes; taught **Kabir, Ravidas, Sena, Dhanna**.
-- **Kabir** (15th c., Varanasi weaver) — **nirguna** poetry in Hindi; criticised idol worship and caste; disciple of **Ramananda**; buried at **Maghar** (UP).
-- **Saguna Krishna bhakti**: **Surdas** (blind poet, Sukhdev's tradition) — disciple of **Vallabhacharya**; **Mirabai** (Rajasthan, Krishna); **Chaitanya Mahaprabhu** (Bengal, Gaudiya Vaishnavism).
-- **Guru Nanak** (1469–1539) — founded **Sikhism**; nirguna devotional strain; first disciple **Mardana** (Muslim rabab player); **langar** equality tradition.
-- **Rama bhakti**: **Tulsidas** — *Ramcharitmanas* in Awadhi (UP); made Rama story mass-accessible in north.
-- **Assam**: **Shankaradeva** — neo-Vaishnavism, satra institutions, rejected caste barriers in worship.
+- **Bhakti** = loving devotion. Makes God accessible to all castes and genders. Challenges Brahminical ritual monopoly.
+- **Roots**: **Tamil **Alvars** (Vishnu) and **Nayanars** (Shiva) saints (6th–9th c.)**. Earliest systematic devotional poetry.
+- **South-to-North spread** via pilgrim routes, trade, and **Shankara's** Vedanta backdrop. Bhakti offers emotional alternative to abstract philosophy.
+- **Maharashtra saints**: **Jnaneswar, Namdev, Eknath, Tukaram**. Marathi abhangas. Vitthala/Vithoba of Pandharpur cult.
+- **North Indian phase**: **Ramananda** (Vaishnava reformer, Varanasi). Admitted lower castes. Taught **Kabir, Ravidas, Sena, Dhanna**.
+- **Kabir** (15th c., Varanasi weaver). **Nirguna** poetry in Hindi. Criticised idol worship and caste. Disciple of **Ramananda**. Buried at **Maghar** (UP).
+- **Saguna Krishna bhakti**: **Surdas** (blind poet, Sukhdev's tradition). Disciple of **Vallabhacharya**. **Mirabai** (Rajasthan, Krishna). **Chaitanya Mahaprabhu** (Bengal, Gaudiya Vaishnavism).
+- **Guru Nanak** (1469–1539) founded **Sikhism** in a nirguna devotional strain. His first disciple was **Mardana** (Muslim rabab player), and the **langar** tradition symbolised equality.
+- **Rama bhakti**: **Tulsidas**. *Ramcharitmanas* in Awadhi (UP). Made Rama story mass-accessible in north.
+- **Assam**: **Shankaradeva** promoted neo-Vaishnavism through **satra** institutions and rejected caste barriers in worship.
 - Key features: **local languages** (Hindi, Awadhi, Marathi, Bengali), **music/singing**, **guru–shishya parampara**, **social critique** of caste and formalism.
-- **Not anti-Hindu monolith** — diverse strands (Shaiva, Vaishnava, Shakta, nirguna); some saints Muslim-born (Kabir) or low-caste (Ravidas).
+- **Not anti-Hindu monolith**. Diverse strands (Shaiva, Vaishnava, Shakta, nirguna). Some saints Muslim-born (Kabir) or low-caste (Ravidas).
 
 > **Exam note:** UPPCS 2025 Q12 guru–disciple: **Kabir→Ramananda (2), Surdas→Vallabhacharya (4), Mardana→Guru Nanak (1)**. Q74 chronology: **Namdev → Kabir → Guru Nanak → Chaitanya** = **3,4,1,2 (C)**.
 
@@ -422,14 +422,14 @@ UP LINKS:
 
 ### Exam Facts (raata)
 
-- Bhakti = **devotional path**; opposed rigid ritualism and caste barriers
+- Bhakti = **devotional path**. Opposed rigid ritualism and caste barriers.
 - Alvars + Nayanars = **Tamil** roots (6th–9th c.)
-- **Kabir** → disciple of **Ramananda**; nirguna; **Maghar** (UP) samadhi
-- **Surdas** → **Vallabhacharya**; **Mardana** → **Guru Nanak**
-- Chronology: **Namdev → Kabir → Guru Nanak → Chaitanya**
+- **Kabir** leads to **disciple of **Ramananda**. Nirguna. **Maghar** (UP) samadhi**.
+- **Surdas** followed **Vallabhacharya** in the bhakti line, while **Mardana** accompanied **Guru Nanak**.
+- Chronology: **Namdev, then Kabir, then Guru Nanak, then Chaitanya**.
 - **Tulsidas** = Ramcharitmanas in **Awadhi** (UP)
 - **Chaitanya** = Bengal kirtan movement
-- **Ravidas** = shoemaker saint of Varanasi; Dalit icon
+- **Ravidas** = shoemaker saint of Varanasi. Dalit icon.
 
 ### PYQs — Bhakti Movement
 
@@ -464,17 +464,17 @@ UP LINKS:
 
 ### Sufi Movement — How It Works
 
-- **Sufism** emphasises **inner devotion (ishq-e-haqiqi)** over legalistic orthodoxy — parallel to Bhakti's emotional God-love.
-- Arrived in India **8th–9th c.** with Arab traders and invaders; took root by **12th–13th c.** with organised **silsilas** (orders).
-- **Four major silsilas** in India: **Chishti, Suhrawardi, Qadiri, Naqshbandi** — each with distinct style and political stance.
-- **Chishti order** — most popular in India; **open to Hindus**, qawwali, sama; saints: **Moinuddin Chishti (Ajmer)**, **Qutbuddin Bakhtiyar Kaki (Delhi)**, **Nizamuddin Auliya (Delhi)**, **Nasiruddin Chiragh-i-Delhi**.
-- **Amir Khusrau** (1253–1325) — poet, musician, disciple of **Nizamuddin Auliya**; invented **qawwali**, **Hindavi** poetry; bridge between Persian court culture and Indian devotion.
-- **Suhrawardi** — more orthodox, closer to state power; **Bahauddin Zakariya** (Multan).
-- **Qadiri** — founded by **Abdul Qadir Jilani** (Baghdad); spread widely; **Miyan Mir** (Lahore) laid foundation stone of Golden Temple — symbol of Sikh–Sufi harmony.
-- **Naqshbandi** — silent dhikr (remembrance); **Khwaja Baqi Billah**, **Ahmad Sirhindi** — more conservative; opposed some syncretic practices.
+- **Sufism** emphasises **inner devotion (ishq-e-haqiqi)** over legalistic orthodoxy. Parallel to Bhakti's emotional God-love.
+- Arrived in India **8th–9th c.** with Arab traders and invaders. Took root by **12th–13th c.** with organised **silsilas** (orders).
+- **Four major silsilas** in India: **Chishti, Suhrawardi, Qadiri, Naqshbandi** and each with distinct style and political stance.
+- **Chishti order**. Most popular in India. **Open to Hindus**, qawwali, sama. Saints: **Moinuddin Chishti (Ajmer)**, **Qutbuddin Bakhtiyar Kaki (Delhi)**, **Nizamuddin Auliya (Delhi)**, **Nasiruddin Chiragh-i-Delhi**.
+- **Amir Khusrau** (1253–1325). Poet, musician, disciple of **Nizamuddin Auliya**. Invented **qawwali**, **Hindavi** poetry. Bridge between Persian court culture and Indian devotion.
+- **Suhrawardi**. More orthodox, closer to state power. **Bahauddin Zakariya** (Multan).
+- **Qadiri** order was founded by **Abdul Qadir Jilani** (Baghdad) and spread widely. **Miyan Mir** (Lahore) laid the foundation stone of the Golden Temple, symbolising Sikh–Sufi harmony.
+- **Naqshbandi**. Silent dhikr (remembrance). **Khwaja Baqi Billah**, **Ahmad Sirhindi**. More conservative. Opposed some syncretic practices.
 - **Bhakti–Sufi synthesis**: shared **local languages**, **music**, **guru–pir ideal**, **criticism of priestly class**, **communal kitchens/charity**.
-- Sufi saints used **miracles (karamat)** stories, **love metaphors**, and **universal humanism** — attracted rural and artisan converts.
-- Decline of political patronage and rise of **revivalist movements** reduced open syncretism — but dargahs remain major pilgrimage sites.
+- Sufi saints used **miracles (karamat)** stories, **love metaphors**, and **universal humanism**. Attracted rural and artisan converts.
+- **Decline of political patronage and rise of **revivalist movements** reduced open syncretism**. But dargahs remain major pilgrimage sites.
 
 > **Exam note:** **Amir Khusrau → Nizamuddin Auliya** (UPPCS 2025 Q12 pair B–3). **Moinuddin Chishti** buried at **Ajmer Sharif** — not Delhi. Chishti = sama/qawwali; Naqshbandi = silent meditation.
 
@@ -489,14 +489,14 @@ UP LINKS:
 
 ### Exam Facts (raata)
 
-- Sufism = Islamic **mysticism**; khanqah = hospice
+- Sufism = Islamic **mysticism**. Khanqah = hospice.
 - **Chishti** = most popular Indian order
-- **Moinuddin Chishti** — Ajmer Sharif (Rajasthan)
-- **Nizamuddin Auliya** — Delhi; **Amir Khusrau** = his disciple
+- **Moinuddin Chishti**. Ajmer Sharif (Rajasthan).
+- **Nizamuddin Auliya**. Delhi. **Amir Khusrau** = his disciple.
 - **Qawwali** tradition linked to Chishtis and Khusrau
-- **Naqshbandi** = more orthodox; Ahmad Sirhindi
+- **Naqshbandi** = more orthodox. Ahmad Sirhindi.
 - Sufi–Bhakti parallel: local language, music, social openness
-- **Miyan Mir** — Qadiri saint; Golden Temple foundation
+- **Miyan Mir**. Qadiri saint. Golden Temple foundation.
 
 ### PYQs — Sufi Movement
 
@@ -538,17 +538,17 @@ UP LINKS:
 
 ### Major Religious Traditions — How It Works
 
-- **India** is birthplace of **Hinduism, Buddhism, Jainism, Sikhism** — collectively shape subcontinent's cultural grammar.
-- **Hinduism** is not one organised church — spans **Vedic ritual, temple puja, Bhakti, Tantra, tribal practices, modern reform (Arya Samaj, Ramakrishna Mission)**.
-- **Buddhism** nearly vanished from mainland India by **12th–13th c.** (Turkish invasions + Shankara's revival + absorption); survives in **Ladakh, Sikkim, Arunachal, Mizoram, Maharashtra (Dalit Buddhism), UP pilgrimage sites**.
-- **Jainism** remained numerically smaller but economically and artistically influential — **ahimsa** shaped Indian vegetarian ethics.
-- **Sikhism** crystallised under **10 Gurus** (Nanak to Gobind Singh); **Guru Granth Sahib** as eternal Guru after 1708; **Khalsa** founded 1699.
-- **Islam** — **Sunni** majority; **Shia** significant in Lucknow, Hyderabad; **Sufi** devotional strand cuts across sects culturally.
-- **Christianity** — **Syrian Christian** ancient Kerala tradition predates many European churches; NE tribal Christianity modern growth.
-- **Zoroastrianism (Parsis)** — **Tower of Silence**, fire temples; **Tata, Wadia** industrial families; population declining.
-- **Judaism** — ancient trade-route communities; not large but historically significant in port cities.
-- **Constitutional framework**: India is **secular** (Preamble, 42nd Amendment 1976); **Articles 25–28** guarantee freedom of religion, manage temples, allow religious education.
-- **Religious demographics** (Census 2011 approx.): Hindu ~79.8%, Muslim ~14.2%, Christian ~2.3%, Sikh ~1.7%, Buddhist ~0.7%, Jain ~0.4% — exam uses broad proportions, not exact decimals.
+- **India** is birthplace of **Hinduism, Buddhism, Jainism, Sikhism**. Collectively shape subcontinent's cultural grammar.
+- **Hinduism** is not one organised church. It spans **Vedic ritual, temple puja, Bhakti, Tantra, tribal practices, modern reform (Arya Samaj, Ramakrishna Mission)**.
+- **Buddhism** nearly vanished from mainland India by **12th–13th c.** (Turkish invasions + Shankara's revival + absorption). Survives in **Ladakh, Sikkim, Arunachal, Mizoram, Maharashtra (Dalit Buddhism), UP pilgrimage sites**.
+- **Jainism** remained numerically smaller but economically and artistically influential includes **ahimsa** shaped Indian vegetarian ethics.
+- **Sikhism** crystallised under **10 Gurus** (Nanak to Gobind Singh). **Guru Granth Sahib** as eternal Guru after 1708. **Khalsa** founded 1699.
+- **Islam** includes **Sunni** majority. **Shia** significant in Lucknow, Hyderabad. **Sufi** devotional strand cuts across sects culturally.
+- **Christianity** includes **Syrian Christian** ancient Kerala tradition predates many European churches. NE tribal Christianity modern growth.
+- **Zoroastrianism (Parsis)** includes **Tower of Silence**, fire temples. **Tata, Wadia** industrial families. Population declining.
+- **Judaism**. Ancient trade-route communities. Not large but historically significant in port cities.
+- **Constitutional framework**: India is **secular** (Preamble, 42nd Amendment 1976). **Articles 25–28** guarantee freedom of religion, manage temples, allow religious education.
+- **Religious demographics** (Census 2011 approx.): Hindu ~79.8%, Muslim ~14.2%, Christian ~2.3%, Sikh ~1.7%, Buddhist ~0.7%, Jain ~0.4% and exam uses broad proportions, not exact decimals.
 
 > **Exam note:** Buddhism **originated** in India but **majority Buddhist population** today = NE + Himalayan states, NOT Gangetic heartland. Sikhism = **5th largest** religion in India.
 
@@ -568,12 +568,12 @@ UP LINKS:
 ### Exam Facts (raata)
 
 - India = birthplace of **Hinduism, Buddhism, Jainism, Sikhism**
-- Buddhism declined in India ~**12th–13th c.**; revived via Ambedkar **1956** Nagpur conversion
-- Sikhism: **10 Gurus**; Guru Granth Sahib compiled by **Arjan Dev**
-- Islam: early **Malabar coast trade**; Delhi Sultanate from **12th c.**
+- Buddhism declined in India ~**12th–13th c.**. Revived via Ambedkar **1956** Nagpur conversion.
+- Sikhism: **10 Gurus** and Guru Granth Sahib compiled by **Arjan Dev**.
+- Islam: early **Malabar coast trade** and Delhi Sultanate from **12th c.**.
 - Christianity: **St. Thomas** Kerala tradition
 - Parsis arrived from **Persia** (7th–10th c.)
-- Constitution **Articles 25–28** — religious freedom
+- **Constitution Articles 25–28**. Religious freedom.
 - Census 2011: Hindu ~80%, Muslim ~14%
 
 ### PYQs — Major Religious Traditions
@@ -613,16 +613,16 @@ UP LINKS:
 
 ### Religious Beliefs and Cultural Heritage — How It Works
 
-- **Religious beliefs** are not separate from culture in India — they shape **architecture, painting, music, dance, festivals, literature, food taboos, pilgrimage economy**.
+- **Religious beliefs** are not separate from culture in India. They shape **architecture, painting, music, dance, festivals, literature, food taboos, pilgrimage economy**.
 - **Hindu heritage**: temple architecture (Nagara/Dravida), **Kumbh Mela**, **Diwali/Holi**, classical dance origins in temple ritual, **Sanskrit** as sacred language.
 - **Buddhist heritage**: **stupas, chaityas, viharas**, Jataka stories in art, **Ahimsa** influencing Ashoka's dhamma, **Sarnath** sculpture school.
 - **Jain heritage**: temple cities (Shravana Belgola, Palitana), **vegetarianism**, manuscript preservation, intricate stone carving.
 - **Islamic heritage**: **mosques, tombs, dargahs**, **Indo-Islamic architecture** (arches, domes, minars), **Urdu** literature, **Eid, Muharram** festivals.
 - **Sikh heritage**: **gurudwaras**, **langar** (community kitchen), **Vaisakhi**, martial tradition post-Khalsa.
-- **Bhakti–Sufi intangible heritage**: **kirtan, qawwali, bhajan, abhang** — still living performance traditions.
-- **Syncretic sites**: **Ajmer Sharif** (Muslim saint, Hindu devotees); **Golden Temple** (Miyan Mir foundation); **Nizamuddin–Amir Khusrau** musical lineage.
-- **Constitutional protection**: State can manage **religious endowments** (Article 25); **minority educational rights** (Article 30); **secularism** = state neutrality, not hostility to religion.
-- **UNESCO intangible heritage** from religious culture: **Kumbh Mela, Yoga, Vedic chanting, Ramlila, Nowruz (Parsi), Koodiyattam, Mudiyettu, Ramman, Buddhist chanting of Ladakh, Sankirtana of Manipur, Traditional brass/copper craft of Punjab** — living practices linked to belief systems.
+- **Bhakti–Sufi intangible heritage**: **kirtan, qawwali, bhajan, abhang**. Still living performance traditions.
+- **Syncretic sites**: **Ajmer Sharif** (Muslim saint, Hindu devotees). **Golden Temple** (Miyan Mir foundation). **Nizamuddin–Amir Khusrau** musical lineage.
+- **Constitutional protection**: State can manage **religious endowments** (Article 25). **Minority educational rights** (Article 30). **Secularism** = state neutrality, not hostility to religion.
+- **UNESCO intangible heritage** from religious culture: **Kumbh Mela, Yoga, Vedic chanting, Ramlila, Nowruz (Parsi), Koodiyattam, Mudiyettu, Ramman, Buddhist chanting of Ladakh, Sankirtana of Manipur, Traditional brass/copper craft of Punjab** and living practices linked to belief systems.
 - **Threats to heritage**: commodification of pilgrimage, communal politicisation of sacred sites, loss of oral guru–shishya traditions.
 
 > **Exam note:** **Religious belief → cultural output** chain is exam favourite — e.g. Buddhist belief in relic worship → stupa architecture; Bhakti → regional language literature.
@@ -645,7 +645,7 @@ UP LINKS:
 - **Sacred geography**: Ganga, Varanasi, Ayodhya, Sarnath, Ajmer, Amritsar
 - **UNESCO intangible**: Kumbh Mela, Yoga, Vedic chanting, Ramlila
 - Constitution: **secular state** + religious freedom (Articles 25–28)
-- **Intangible** = living practice; **tangible** = monuments/artefacts
+- **Intangible** = living practice. **Tangible** = monuments/artefacts.
 - Communal harmony traditions: **langar, Sufi dargahs open to all**
 
 ### PYQs — Religious Beliefs and Cultural Heritage

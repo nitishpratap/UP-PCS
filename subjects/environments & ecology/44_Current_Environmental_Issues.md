@@ -160,16 +160,16 @@ KEY TRAPS:
 
 ### Carbon Footprint — How It Works
 
-- **Carbon footprint** quantifies climate impact in **tonnes of CO₂ equivalent (tCO₂e)** — converts CH₄, N₂O, and other GHGs to equivalent CO₂ using GWP values.
-- **Scope 1 emissions** = **direct** emissions from owned/controlled sources — factory chimneys, company vehicles, on-site fuel combustion.
-- **Scope 2 emissions** = **indirect** from purchased electricity, heat, or steam — even if emitted at power plant, attributed to consumer.
-- **Scope 3 emissions** = all other indirect — supply chain, product use, waste disposal, employee commuting, business travel. Often **largest share** for many organisations but hardest to measure.
-- **India's total footprint** ≈ **3.9 billion tCO₂e/year** (recent estimates) — **3rd globally** in absolute terms; **per capita ~2 tCO₂e** vs global average **~4.7** and USA **~14+**.
-- **Sector breakdown (India)**: **Energy/electricity** (~40%), **Industry** (~25%), **Agriculture** (~15% — mainly CH₄/N₂O), **Transport**, **Buildings**, **Waste/LULUCF**.
-- **Lifestyle footprint components**: diet (meat vs plant — cattle CH₄), transport mode (car vs public transit), electricity source (coal vs solar), air travel (high per-trip footprint), consumption of goods.
-- **Product carbon footprint** = lifecycle emissions from raw material extraction → manufacturing → transport → use → disposal (LCA approach).
-- **Ecological footprint vs carbon footprint**: Ecological footprint (§44.2) measures total resource demand in **global hectares (gha)** — includes land, water, carbon; carbon footprint is **GHG-specific subset**.
-- **Carbon footprint reduction** = mitigation at individual/organisational level — energy efficiency, renewable switch, diet change, reduce-reuse-recycle; links to **LiFE Mission** (lifestyle for environment, launched 2022).
+- **Carbon footprint** quantifies climate impact in **tonnes of CO₂ equivalent (tCO₂e)** by converting CH₄, N₂O, and other GHGs to equivalent CO₂ using GWP values.
+- **Scope 1 emissions** are **direct** emissions from owned/controlled sources. Factory chimneys, company vehicles, on-site fuel combustion.
+- **Scope 2 emissions** are **indirect** from purchased electricity, heat, or steam. Even if emitted at power plant, attributed to consumer.
+- **Scope 3 emissions** cover all other indirect. Supply chain, product use, waste disposal, employee commuting, business travel. Often **largest share** for many organisations but hardest to measure.
+- **India's total footprint** is approximately **3.9 billion tCO₂e/year** (recent estimates), ranking **3rd globally** in absolute terms, with **per capita ~2 tCO₂e** compared with a global average of **~4.7** and the USA at **~14+**.
+- **Sector breakdown (India)**: **Energy/electricity** (~40%), **Industry** (~25%), **Agriculture** (~15%. Mainly CH₄/N₂O), **Transport**, **Buildings**, **Waste/LULUCF**.
+- **Lifestyle footprint components** include diet (meat vs plant, with cattle CH₄), transport mode (car vs public transit), electricity source (coal vs solar), air travel (high per-trip footprint), and consumption of goods.
+- **Product carbon footprint** covers lifecycle emissions across raw material extraction, manufacturing, transport, use, and disposal (LCA approach).
+- **Ecological footprint vs carbon footprint**: ecological footprint (§44.2) measures total resource demand in **global hectares (gha)**, including land, water, and carbon, whereas carbon footprint is a **GHG-specific subset**.
+- **Carbon footprint reduction** means mitigation at the individual or organisational level through energy efficiency, renewable switching, diet change, and reduce-reuse-recycle, and connects to the **LiFE Mission** (lifestyle for environment, launched 2022).
 
 > **Exam note:** "India has highest per capita carbon footprint" = **FALSE** — India has low per capita but high **total** due to population. "Carbon footprint includes only CO₂ gas" = **FALSE** — includes all GHGs converted to CO₂e.
 
@@ -186,9 +186,9 @@ KEY TRAPS:
 - Unit = **tCO₂e** (tonnes CO₂ equivalent)
 - India per capita ≈ **2 tCO₂e** | Global ≈ **4.7** | USA ≈ **14+**
 - Scope 1 = direct | Scope 2 = purchased energy | Scope 3 = supply chain
-- India 3rd largest **total** emitter; low **per capita**
+- India 3rd largest **total** emitter, low **per capita**.
 - Largest Indian sector = **energy/electricity**
-- Ecological footprint (gha) ≠ carbon footprint (tCO₂e) — related but different metrics
+- Ecological footprint (gha) is not the same as carbon footprint (tCO₂e), related but different metrics.
 
 ### PYQs — Carbon Footprint
 
@@ -223,16 +223,16 @@ KEY TRAPS:
 
 ### Ecological Footprint — How It Works
 
-- **Ecological footprint** converts consumption of **food, fibre, timber, energy, built-up land, and waste absorption** into a single land-area equivalent — **global hectares (gha)** — one gha = world-average productive hectare.
-- **Biocapacity** = Earth's ability to regenerate resources and absorb waste — if **footprint > biocapacity**, humanity runs an **ecological deficit** — **Earth Overshoot Day** marks the date annual demand exceeds annual regeneration (typically **July–August** in recent years).
+- **Ecological footprint** converts consumption of **food, fibre, timber, energy, built-up land, and waste absorption** into a single land-area equivalent, **global hectares (gha)**. One gha = world-average productive hectare.
+- **Biocapacity** is Earth's ability to regenerate resources and absorb waste. If **footprint > biocapacity**, humanity runs an **ecological deficit**. **Earth Overshoot Day** marks the date annual demand exceeds annual regeneration (typically **July–August** in recent years).
 - **Components of footprint**: **Cropland** (food/fibre), **Grazing land** (livestock), **Forest land** (timber, carbon uptake), **Fishing grounds** (seafood), **Built-up land** (cities/infrastructure), **Carbon footprint land** (forest area needed to absorb CO₂ emissions).
-- **Per capita comparison**: Global average ecological footprint ≈ **2.8 gha**; available biocapacity ≈ **1.6 gha** per person — **overshoot** at global level; **India per capita ≈ 1.0–1.2 gha** — below global average due to lower consumption but rising with urbanisation.
-- **National footprint** = population × per capita consumption pattern — **high-income countries** (USA, UAE) have footprints **3–5×** their national biocapacity; **importing** biocapacity through trade.
-- **Carbon footprint vs ecological footprint trap**: Carbon footprint measures **GHG emissions (tCO₂e)** only; ecological footprint includes **all resource flows** converted to land — statement "both measured in tonnes CO₂" = **FALSE**.
-- **India trends**: Rising middle-class consumption (meat, vehicles, ACs) increases per capita footprint — **LiFE Mission** explicitly targets **lifestyle footprint reduction** — voluntary simplicity to stay within planetary boundaries.
-- **Policy use**: Cities and nations track footprint for **SDG 12** (sustainable consumption) reporting — WWF Living Planet Report uses related **Living Planet Index** (biodiversity) alongside footprint data.
-- **Reduction strategies**: **Plant-based diet shift**, **public transport**, **energy efficiency**, **circular material use**, **forest protection** — same lifestyle levers as carbon footprint but broader resource accounting.
-- **UP relevance**: **NCR urban sprawl** (built-up land footprint); **Ganga basin agriculture** (cropland + water); **Bundelkhand drought** reduces local biocapacity while population pressure continues — degradation widens footprint-deficit locally.
+- **Per capita comparison** global average ecological footprint ≈ **2.8 gha**. Available biocapacity ≈ **1.6 gha** per person, **overshoot** at global level. **India per capita ≈ 1.0–1.2 gha**. Below global average due to lower consumption but rising with urbanisation.
+- **National footprint** population × per capita consumption pattern. High-income countries (USA, UAE) have footprints **3–5×** their national biocapacity, **importing** biocapacity through trade.
+- **Carbon footprint vs ecological footprint trap** carbon footprint measures **GHG emissions (tCO₂e)** only. Ecological footprint includes **all resource flows** converted to land. Statement "both measured in tonnes CO₂" = **FALSE**.
+- **India trends** rising middle-class consumption (meat, vehicles, ACs) increases per capita footprint. **LiFE Mission** explicitly targets **lifestyle footprint reduction**. Voluntary simplicity to stay within planetary boundaries.
+- **Policy use** cities and nations track footprint for **SDG 12** (sustainable consumption) reporting. WWF Living Planet Report uses related **Living Planet Index** (biodiversity) alongside footprint data.
+- **Reduction strategies** **Plant-based diet shift**, **public transport**, **energy efficiency**, **circular material use**, **forest protection**. Same lifestyle levers as carbon footprint but broader resource accounting.
+- **UP relevance** **NCR urban sprawl** (built-up land footprint). **Ganga basin agriculture** (cropland + water). **Bundelkhand drought** reduces local biocapacity while population pressure continues, degradation widens footprint-deficit locally.
 
 > **Exam note:** UPPCS 2019 pattern — Ecological Footprint = measuring **human pressure on nature**. Unit = **gha**, NOT tCO₂e. India per capita footprint **lower** than global average but **not** lowest globally.
 
@@ -248,11 +248,11 @@ KEY TRAPS:
 
 - Unit = **global hectares (gha)**
 - Measures total human **resource demand** on nature
-- Global Footprint Network — standard methodology
+- Global Footprint Network, standard methodology.
 - Includes carbon, cropland, forest, fisheries, built-up land
 - India per capita EF **below** global average (~1.2 gha)
 - Earth Overshoot Day = demand exceeds annual biocapacity
-- ≠ carbon footprint (tCO₂e) — related but narrower/wider respectively
+- ≠ carbon footprint (tCO₂e), related but narrower/wider respectively.
 - UPPCS 2019: EF = **human pressure on nature**
 
 ### PYQs — Ecological Footprint
@@ -293,17 +293,17 @@ KEY TRAPS:
 
 ### Net Zero Emissions — How It Works
 
-- **Net zero ≠ zero emissions**: Some **residual emissions** (aviation, cement, agriculture) remain — offset by **carbon sinks** (forests, soil) and **removal technology** (CCS, DAC) so **net balance = zero**.
-- **Gross zero** = eliminate virtually all emissions — harder and costlier — exams trap: "net zero means no emissions at all" = **FALSE**.
-- **India's 2070 target**: Announced at **COP26 (2021)** — aligns with Paris long-term temperature goals — reflects India's **development needs** and **CBDR (Common But Differentiated Responsibilities)** principle.
-- **Interim 2030 targets (updated NDC 2022)**: **(1)** Reduce emissions **intensity of GDP by 45%** from 2005 level; **(2)** **50% cumulative electric installed capacity from non-fossil sources**; **(3)** Create additional **2.5–3 GtCO₂e carbon sink** through forests — net zero is endpoint, NDC is near-term pathway.
-- **Sectoral pathways**: **Power** — renewables + coal phase-down; **Industry** — green hydrogen, efficiency (PAT); **Transport** — EVs (FAME-II); **Agriculture** — methane management; **Buildings** — efficiency standards — all feed net-zero trajectory.
-- **Carbon neutral vs net zero trap**: **Carbon neutral** often means **CO₂ only**; **Net zero GHG** includes **methane, N₂O** — corporate "carbon neutral" claims may ignore non-CO₂ gases — exam distinction matters.
-- **Country deadline comparison**: **EU, UK = 2050**; **China = 2060**; **India = 2070**; **US = 2050** (pledge) — trap: "India net zero by 2050" = **FALSE**.
-- **UNEP Emissions Gap Report**: Published annually by **UNEP** — measures gap between **pledged NDCs** and **pathways to 1.5°C/2°C** — UPPCS 2024 Q6 matches Emissions Gap Report → **UNEP (2)**.
-- **Global Stocktake (Paris)**: Every **5 years** reviews collective progress — **COP28 UAE 2023** first stocktake called for **tripling renewables, doubling efficiency** — feeds next NDC round.
-- **Sinks and permanence**: Forest carbon sinks risk **reversal** (fire, deforestation) — net-zero plans need **durable removals** not only avoidance — links to Green Credit and afforestation programmes.
-- **LiFE Mission link**: Lifestyle changes (energy saving, waste reduction, sustainable food) reduce **consumption-side emissions** supporting net-zero — behavioural complement to technology (§44.11).
+- **Net zero is not the same as zero emissions** some **residual emissions** (aviation, cement, agriculture) remain. Offset by **carbon sinks** (forests, soil) and **removal technology** (CCS, DAC) so **net balance = zero**.
+- **Gross zero** eliminate virtually all emissions, harder and costlier. Exams trap: "net zero means no emissions at all" = **FALSE**.
+- **India's 2070 target** announced at **COP26 (2021)**. Aligns with Paris long-term temperature goals. Reflects India's **development needs** and **CBDR (Common But Differentiated Responsibilities)** principle.
+- **Interim 2030 targets (updated NDC 2022)** **(1)** reduce emissions **intensity of GDP by 45%** from 2005 level. **(2)** **50% cumulative electric installed capacity from non-fossil sources**. **(3)** Create additional **2.5–3 GtCO₂e carbon sink** through forests. Net zero is endpoint, NDC is near-term pathway.
+- **Sectoral pathways** **Power**, renewables + coal phase-down, **Industry**, green hydrogen, efficiency (PAT), **Transport**. EVs (FAME-II), **Agriculture**, methane management, **Buildings**, efficiency standards, all feed net-zero trajectory.
+- **Carbon neutral vs net zero trap** **Carbon neutral** often means **CO₂ only**. **Net zero GHG** includes **methane, N₂O**. Corporate "carbon neutral" claims may ignore non-CO₂ gases, exam distinction matters.
+- **Country deadline comparison** **EU, UK = 2050**, **China = 2060**, **India = 2070**, **US = 2050** (pledge). Trap: "India net zero by 2050" = **FALSE**.
+- **UNEP Emissions Gap Report** published annually by **UNEP**. Measures gap between **pledged NDCs** and **pathways to 1.5°C/2°C**. UPPCS 2024 Q6 matches Emissions Gap Report corresponds to **UNEP (2)**.
+- **Global Stocktake (Paris)** every **5 years** reviews collective progress. **COP28 UAE 2023** first stocktake called for **tripling renewables, doubling efficiency**, feeds next NDC round.
+- **Sinks and permanence** forest carbon sinks risk **reversal** (fire, deforestation). Net-zero plans need **durable removals** not only avoidance. Links to Green Credit and afforestation programmes.
+- **LiFE Mission link** lifestyle changes (energy saving, waste reduction, sustainable food) reduce **consumption-side emissions** supporting net-zero. Behavioural complement to technology (§44.11).
 
 > **Exam note:** India net zero = **2070** (COP26 2021). Emissions Gap Report = **UNEP**. "Net zero = no fossil fuels from tomorrow" = **FALSE** — phased transition.
 
@@ -326,7 +326,7 @@ KEY TRAPS:
 - Emissions Gap Report = **UNEP**
 - Net zero ≠ gross zero
 - Carbon neutral (CO₂) ⊂ full GHG net zero
-- EU/UK 2050; China 2060; India 2070
+- EU/UK 2050. China 2060. India 2070.
 
 ### PYQs — Net Zero Emissions
 
@@ -370,16 +370,16 @@ KEY TRAPS:
 
 ### Green Economy — How It Works
 
-- **Green economy** aims to **decouple economic growth from environmental degradation** — GDP can rise while carbon emissions, water use, and waste **fall** through cleaner technology and better resource efficiency — not "stop growth" but "change how we grow."
-- **UNEP Green Economy Report (2011)** — *Towards a Green Economy* — argued investing **2% of global GDP** in green sectors (forestry, fisheries, renewable energy, agriculture) would grow GDP faster than business-as-usual while reducing ecological footprint.
-- **Three pillars alignment**: green economy operationalises SD's **economic + environmental + social** integration — **green jobs** (solar installers, EV mechanics, waste recyclers) provide **social** benefit while reducing **environmental** impact.
-- **Key sectors in India's green economy**: **renewable energy** (solar — Bhadla Rajasthan; wind — Tamil Nadu; target **500 GW non-fossil by 2030**); **green hydrogen** (**National Green Hydrogen Mission 2023** — 5 MMT production target by 2030); **electric mobility** (FAME-II subsidies); **energy efficiency** (UJALA LED bulbs, PAT scheme for industries).
-- **Green finance**: **green bonds** (SEBI green bond guidelines); **climate finance** from Global Environment Facility; **Priority Sector Lending** for renewables; **Sovereign Green Bonds** (2022-23 India issuance); **SDG bonds**.
-- **Green jobs** — employment in renewable energy, pollution control, organic farming, eco-tourism, forest restoration — ILO estimates green transition creates more jobs than fossil sector loses if managed with **just transition** policies.
-- **Green GDP debate**: conventional GDP counts pollution cleanup as **positive economic activity** — green accounting subtracts environmental damage (Natural Resource Accounting — MoSPI pilot **ENVIS** accounts).
-- **Green economy vs greenwashing trap**: labelling any project "green" without measurable environmental benefit — exams test whether student knows green economy requires **measurable decoupling** (lower carbon intensity, higher renewable share).
-- **International frameworks**: **Paris Agreement** (NDCs for low-carbon growth); **International Solar Alliance** (India-France initiative); **Global Methane Pledge**; **UN Decade on Ecosystem Restoration 2021–2030**.
-- **UP green economy elements**: **Bundelkhand solar parks**; **Noida-Greater Noida EV manufacturing**; **Ganga bioremediation** enterprises; **Kanpur leather sector** needs green technology upgrade (chrome recovery, common effluent plants).
+- **Green economy** aims to **decouple economic growth from environmental degradation**. GDP can rise while carbon emissions, water use, and waste **fall** through cleaner technology and better resource efficiency. Not "stop growth" but "change how we grow.".
+- **UNEP Green Economy Report (2011)**, *Towards a Green Economy*. Argued investing **2% of global GDP** in green sectors (forestry, fisheries, renewable energy, agriculture) would grow GDP faster than business-as-usual while reducing ecological footprint.
+- **Three pillars alignment** green economy operationalises SD's **economic + environmental + social** integration. Green jobs (solar installers, EV mechanics, waste recyclers) provide **social** benefit while reducing **environmental** impact.
+- **Key sectors in India's green economy** **renewable energy** (solar. Bhadla Rajasthan, wind. Tamil Nadu. Target **500 GW non-fossil by 2030**). **green hydrogen** (**National Green Hydrogen Mission 2023**. 5 MMT production target by 2030), **electric mobility** (FAME-II subsidies). **energy efficiency** (UJALA LED bulbs, PAT scheme for industries).
+- **Green finance** **green bonds** (SEBI green bond guidelines). **climate finance** from Global Environment Facility. **Priority Sector Lending** For renewables. **Sovereign Green Bonds** (2022-23 India issuance), **SDG bonds**.
+- **Green jobs**. Employment in renewable energy, pollution control, organic farming, eco-tourism, forest restoration. ILO estimates green transition creates more jobs than fossil sector loses if managed with **just transition** policies.
+- **Green GDP debate** conventional GDP counts pollution cleanup as **positive economic activity**. Green accounting subtracts environmental damage (Natural Resource Accounting. MoSPI pilot **ENVIS** accounts).
+- **Green economy vs greenwashing trap** labelling any project "green" without measurable environmental benefit. Exams test whether student knows green economy requires **measurable decoupling** (lower carbon intensity, higher renewable share).
+- **International frameworks** **Paris Agreement** (NDCs for low-carbon growth). **International Solar Alliance** (India-France initiative), **Global Methane Pledge**. **UN Decade on Ecosystem Restoration 2021–2030**.
+- **UP green economy elements** **Bundelkhand solar parks**, **Noida-Greater Noida EV manufacturing**, **Ganga bioremediation** Enterprises. **Kanpur leather sector** needs green technology upgrade (chrome recovery, common effluent plants).
 
 > **Exam note:** Green Economy (UNEP 2011) ≠ Circular Economy — green = **low-carbon, resource-efficient growth overall**; circular = **specific waste/material loop design**. Overlap exists but concepts differ.
 
@@ -450,16 +450,16 @@ KEY TRAPS:
 
 ### Blue Economy — How It Works
 
-- **Scope**: Covers **exclusive economic zone (EEZ)** activities — India has **~2.37 million sq km EEZ** — fisheries, aquaculture, **ports/shipping (Sagarmala)**, coastal tourism, **offshore wind**, seabed minerals, marine biotechnology.
-- **Sustainability core**: Blue economy ≠ unrestricted ocean exploitation — requires **stock management** (fishing quotas), **marine protected areas**, **pollution control** (MARPOL), **coastal ecosystem restoration** — otherwise "blue economy" becomes ocean grabbing.
-- **SDG 14 targets**: Reduce marine pollution; protect ecosystems; regulate fishing; conserve coastal areas — India's coastal states (**Gujarat, Maharashtra, Tamil Nadu, Odisha, West Bengal, Kerala, Andhra Pradesh, Goa**) drive blue economy GDP.
-- **MISHTI scheme (2023)**: **Mangrove Initiative for Shoreline Habitats and Tangible Income** — announced in **Union Budget 2023–24** — aims to **restore mangrove forests** along coastline for **cyclone protection + livelihoods** — **UPPCS 2025 Q93**: Stmt 2 TRUE; Stmt 1 "2019" = **FALSE** → Answer **A (Only 2)**.
-- **Blue carbon link**: Mangroves, seagrass, salt marshes sequester carbon **3–5× faster** per hectare than tropical forests — MISHTI and Amrit Dharohar (wetlands) support **climate + blue economy** dual benefit.
-- **Sagarmala Programme**: Port-led development — modernise ports, coastal shipping, reduce logistics cost — **MoPSW** nodal — balances infrastructure growth with coastal zone management (CRZ rules under EPA 1986).
-- **Deep Ocean Mission**: **₹6000+ crore** multi-ministry mission — manned submersible (Samudrayaan), deep-sea mining exploration, biodiversity survey — India's **strategic blue resource** capacity building.
-- **Offshore renewable energy**: **Offshore wind** (Gujarat, TN coast) and **tidal potential** (Gulf of Kutch/Khambhat) — blue economy energy pillar — links §44.7 green hydrogen link.
-- **UP coastal relevance**: UP is **landlocked** — no coastline — blue economy questions for UPPCS are **national** (MISHTI, Sagarmala, SDG 14) — trap: "MISHTI for Ganga basin" = **FALSE** — it is **coastal mangrove** scheme.
-- **Pollution threat**: **Marine plastic**, oil spills, untreated coastal sewage undermine blue economy — microplastics (§44.8) directly threaten fisheries and tourism quality.
+- **Scope** covers **exclusive economic zone (EEZ)** activities. India has **~2.37 million sq km EEZ**. Fisheries, aquaculture, **ports/shipping (Sagarmala)**, coastal tourism, **offshore wind**, seabed minerals, marine biotechnology.
+- **Sustainability core** blue economy is not the same as unrestricted ocean exploitation. Requires **stock management** (fishing quotas), **marine protected areas**, **pollution control** (MARPOL), **coastal ecosystem restoration**. Otherwise "blue economy" becomes ocean grabbing.
+- **SDG 14 targets** reduce marine pollution, protect ecosystems, regulate fishing, conserve coastal areas. India's coastal states (**Gujarat, Maharashtra, Tamil Nadu, Odisha, West Bengal, Kerala, Andhra Pradesh, Goa**) drive blue economy GDP.
+- **MISHTI scheme (2023)**: **Mangrove Initiative for Shoreline Habitats and Tangible Income**, announced in the **Union Budget 2023–24**, aims to **restore mangrove forests** along the coastline for **cyclone protection and livelihoods**. **UPPCS 2025 Q93**: Stmt 2 is TRUE and Stmt 1 ("2019") is **FALSE**, so the answer is **A (Only 2)**.
+- **Blue carbon link** Mangroves, seagrass, salt marshes sequester carbon **3–5× faster** per hectare than tropical forests. MISHTI and Amrit Dharohar (wetlands) support **climate + blue economy** dual benefit.
+- **Sagarmala Programme** Port-led development. Modernise ports, coastal shipping, reduce logistics cost, **MoPSW** Nodal. Balances infrastructure growth with coastal zone management (CRZ rules under EPA 1986).
+- **Deep Ocean Mission** **₹6000+ crore** multi-ministry mission. Manned submersible (Samudrayaan), deep-sea mining exploration, biodiversity survey. India's **strategic blue resource** capacity building.
+- **Offshore renewable energy** **Offshore wind** (Gujarat, TN coast) and **tidal potential** (Gulf of Kutch/Khambhat), blue economy energy pillar. Links §44.7 green hydrogen link.
+- **UP coastal relevance** UP is **landlocked**, no coastline. Blue economy questions for UPPCS are **national** (MISHTI, Sagarmala, SDG 14). Trap: "MISHTI for Ganga basin" = **FALSE**. It is **coastal mangrove** scheme.
+- **Pollution threat** **Marine plastic**, oil spills, untreated coastal sewage undermine blue economy. Microplastics (§44.8) directly threaten fisheries and tourism quality.
 
 > **Exam note:** MISHTI = **2023–24 Budget**, NOT 2019 — **2025 Q93**. Blue economy = **SDG 14**. UP has **no coastline** — national schemes only.
 
@@ -478,7 +478,7 @@ KEY TRAPS:
 
 - Blue economy = **sustainable ocean economic use**
 - SDG **14** = Life Below Water
-- MISHTI = **2023 Budget** — mangroves
+- MISHTI = **2023 Budget**, mangroves.
 - MISHTI ≠ 2019 (2025 Q93)
 - Sagarmala = port-led development
 - Deep Ocean Mission = Samudrayaan
@@ -525,16 +525,16 @@ KEY TRAPS:
 
 ### Circular Economy — How It Works
 
-- **Linear economy** model: **extract resources → manufacture products → use → dispose as waste** — creates pollution, resource depletion, and landfill pressure — India's **1750 MT/year solid waste** generation mostly handled linearly.
-- **Circular economy** closes the loop: **design for durability, repair, reuse, remanufacturing, recycling, composting** — waste from one process becomes **input** for another — mimics natural cycles where there is no "waste."
-- **3R principle** (foundation): **Reduce** (use less material/energy), **Reuse** (second-life products), **Recycle** (process materials into new products) — extended to **9R**: Refuse, Rethink, Reduce, Reuse, Repair, Refurbish, Remanufacture, Repurpose, Recycle, Recover.
-- **Extended Producer Responsibility (EPR)**: manufacturer/importer **must collect and recycle** end-of-life products — **Plastic Waste Management Rules 2016** (amended 2022), **E-Waste Management Rules 2022**, **Battery Waste Rules 2022**, **Tyre EPR 2022** — India operationalising circular economy through regulation.
-- **Industrial symbiosis**: one industry's waste = another's raw material — **Kalundborg (Denmark)** classic example; India pilots in industrial clusters (cement kilns using industrial waste as fuel).
-- **Circular vs Green economy**: **Circular** focuses specifically on **material flows and waste elimination**; **Green economy** is broader — includes renewable energy, biodiversity, social equity, low-carbon growth — circular economy is a **component** of green economy (SDG 12 — Responsible Consumption and Production).
-- **Biological vs technical cycles** (Ellen MacArthur): **Biological nutrients** (food, cotton) → composting/biodegradation back to soil; **Technical nutrients** (metals, plastics) → designed for continuous recirculation without downcycling.
-- **India challenges**: informal waste sector (kabadiwalas, ragpickers) — **formalising and protecting** waste pickers is social justice + circular economy intersection; low recycling rates for plastic (~60% theoretically recyclable, much less actually recycled); **single-use plastic ban 2022** (identified SUP items).
-- **UP circular economy**: **Kanpur leather** — chrome recovery from tannery waste; **Agra footwear** — leather scrap recycling; **Lucknow/Kanpur municipal** waste — biomethanation plants; **Noida electronics** — e-waste recycling units under EPR.
-- **SDG 12** direct link: "Ensure sustainable consumption and production patterns" — circular economy is primary operational strategy for SDG 12; LiFE Mission promotes individual **reduce-reuse** behaviours.
+- **Linear economy** Model: **extracts resources, manufactures products, uses them, and disposes of waste**. Creates pollution, resource depletion, and landfill pressure. India's **1750 MT/year solid waste** generation mostly handled linearly.
+- **Circular economy** closes the loop: **design for durability, repair, reuse, remanufacturing, recycling, composting**. Waste from one process becomes **input** for another. Mimics natural cycles where there is no "waste.".
+- **3R principle** (foundation): **Reduce** (use less material/energy), **Reuse** (second-life products), **Recycle** (process materials into new products). Extended to **9R**: Refuse, Rethink, Reduce, Reuse, Repair, Refurbish, Remanufacture, Repurpose, Recycle, Recover.
+- **Extended Producer Responsibility (EPR)** Manufacturer/importer **must collect and recycle** end-of-life products. **Plastic Waste Management Rules 2016** (amended 2022), **E-Waste Management Rules 2022**, **Battery Waste Rules 2022**, **Tyre EPR 2022**. India operationalising circular economy through regulation.
+- **Industrial symbiosis** one industry's waste = another's raw material, **Kalundborg (Denmark)** Classic example. India pilots in industrial clusters (cement kilns using industrial waste as fuel).
+- **Circular vs Green economy** **Circular** focuses specifically on **material flows and waste elimination**, **Green economy** Is broader. Includes renewable energy, biodiversity, social equity, low-carbon growth. Circular economy is a **component** of green economy (SDG 12. Responsible Consumption and Production).
+- **Biological vs technical cycles** (Ellen MacArthur): **Biological nutrients** (food, cotton) return to soil through composting or biodegradation, while **technical nutrients** (metals, plastics) are designed for continuous recirculation without downcycling.
+- **India challenges** informal waste sector (kabadiwalas, ragpickers). **formalising and protecting** Waste pickers is social justice + circular economy intersection. Low recycling rates for plastic (~60% theoretically recyclable, much less actually recycled). **single-use plastic ban 2022** (identified SUP items).
+- **UP circular economy** **Kanpur leather**. Chrome recovery from tannery waste, **Agra footwear**, leather scrap recycling, **Lucknow/Kanpur municipal** Waste, biomethanation plants, **Noida electronics**. E-waste recycling units under EPR.
+- **SDG 12** direct link: "Ensure sustainable consumption and production patterns". Circular economy is primary operational strategy for SDG 12. LiFE Mission promotes individual **reduce-reuse** behaviours.
 
 > **Exam note:** Statement "circular economy and green economy are identical" = **FALSE**. Circular = material loop design; Green = broader low-carbon inclusive growth. Circular ⊂ Green.
 
@@ -607,16 +607,16 @@ KEY TRAPS:
 
 ### Green Hydrogen — How It Works
 
-- **Hydrogen (H₂)** is an **energy carrier** — not primary energy source — must be produced from water, gas, or biomass — burns to water vapour — **no carbon at point of use**.
-- **Green hydrogen production**: **Electrolyser** splits **H₂O** → **H₂ + O₂** — when powered by **solar/wind/hydro**, product is **green hydrogen** — only emissions from equipment manufacturing.
-- **Grey hydrogen trap**: ~**98% of current global hydrogen** is **grey** — made from **natural gas (methane steam reforming)** — releases large **CO₂** — NOT climate-friendly despite H₂ being clean fuel.
-- **Blue hydrogen**: Grey production + **carbon capture and storage (CCS)** — lower emissions but still fossil-dependent — debated as "transition" fuel.
-- **National Green Hydrogen Mission (January 2023)**: Target **5 MMT (million metric tonnes) green hydrogen per annum by 2030** — expected to avoid **~50 MMT CO₂ emissions** — sectors: **refineries, ammonia/fertiliser (urea), steel, heavy transport, shipping**.
-- **Strategic Hydrogen Energy Programme (2018)** preceded Mission — MNRE pilot projects — Mission scales to national industrial policy.
-- **Green ammonia**: Hydrogen + nitrogen → **ammonia (NH₃)** — critical for **urea fertiliser** — India imports ammonia/gas — green route improves **Atmanirbhar** fertiliser security.
-- **Green steel**: Replace **coking coal** in direct reduced iron (DRI) with **green hydrogen** — Tata, JSW pilot projects — major decarbonisation pathway.
-- **Challenges**: **High cost** vs grey hydrogen; **energy losses** in conversion; need **massive renewable capacity** dedicated; **storage/transport** (compress, liquefy, or pipeline) infrastructure nascent.
-- **UP/industrial link**: **Refineries, fertiliser plants** along Ganga corridor — future green H₂ off-take — **Singrauli** energy hub may integrate hydrogen with renewable hybrid (policy evolving).
+- **Hydrogen (H₂)** Is an **energy carrier**, not primary energy source. Must be produced from water, gas, or biomass, burns to water vapour. **no carbon at point of use**.
+- **Green hydrogen production**: an **electrolyser** splits **H₂O** into **H₂ + O₂**, and when powered by **solar/wind/hydro**, the product is **green hydrogen** with emissions only from equipment manufacturing.
+- **Grey hydrogen trap** ~**98% of current global hydrogen** is **grey**. Made from **natural gas (methane steam reforming)**, releases large **CO₂**. NOT climate-friendly despite H₂ being clean fuel.
+- **Blue hydrogen** grey production + **carbon capture and storage (CCS)**. Lower emissions but still fossil-dependent, debated as "transition" fuel.
+- **National Green Hydrogen Mission (January 2023)** target **5 MMT (million metric tonnes) green hydrogen per annum by 2030**. Expected to avoid **~50 MMT CO₂ emissions**. Sectors: **refineries, ammonia/fertiliser (urea), steel, heavy transport, shipping**.
+- **Strategic Hydrogen Energy Programme (2018)** preceded Mission. MNRE pilot projects. Mission scales to national industrial policy.
+- **Green ammonia**: hydrogen and nitrogen combine to form **ammonia (NH₃)**, which is critical for **urea fertiliser** and could reduce India's imports of ammonia and gas through the green route under **Atmanirbhar** fertiliser security.
+- **Green steel** replace **coking coal** in direct reduced iron (DRI) with **green hydrogen**. Tata, JSW pilot projects, major decarbonisation pathway.
+- **Challenges** **High cost** vs grey hydrogen, **energy losses** in conversion. Need **massive renewable capacity** dedicated. **storage/transport** (compress, liquefy, or pipeline) infrastructure nascent.
+- **UP/industrial link** **Refineries, fertiliser plants** along Ganga corridor, future green H₂ off-take. **Singrauli** energy hub may integrate hydrogen with renewable hybrid (policy evolving).
 
 > **Exam note:** **Green** = renewable electrolysis ONLY. Grey from natural gas = **NOT green**. Mission target = **5 MMT by 2030**.
 
@@ -645,7 +645,7 @@ KEY TRAPS:
 - Green H₂ = **electrolysis + renewable power**
 - Mission launched **2023**
 - Target **5 MMT/year by 2030**
-- Grey H₂ = **natural gas** — dominant today
+- Grey H₂ = **natural gas**, dominant today.
 - Blue = grey + **CCS**
 - Uses: **ammonia, steel, refineries**
 - MNRE nodal ministry
@@ -692,17 +692,17 @@ KEY TRAPS:
 
 ### Microplastics — How It Works
 
-- **Primary microplastics** are intentionally manufactured small — **microbeads** in cosmetics, **nurdles** (plastic pellets) spilled during transport, **abrasives** in industrial processes.
-- **Secondary microplastics** form when larger plastic items **photodegrade and fragment** — plastic bags, bottles, fishing nets, tyre wear particles on roads — most environmental microplastic mass is secondary.
-- **Size threshold** = **<5 mm** — exam trap: "5 cm" or "visible to naked eye only" = **FALSE** — many microplastics are microscopic.
-- **Major sources**: **single-use packaging** (40%+ of plastic waste globally); **synthetic textiles** (polyester/nylon shed fibres in washing); **tyre abrasion**; **fishing gear**; **agricultural plastic mulch**.
-- **Transport pathways**: rivers carry land-based plastic to oceans — **Ganga and Yamuna** studies document microplastic contamination downstream of urban/industrial centres (Kanpur, Varanasi, Lucknow sewage inputs).
-- **Marine accumulation**: ocean gyres concentrate floating plastic — **Great Pacific Garbage Patch** — microplastics ingested by **zooplankton → fish → humans** — biomagnification of associated toxins (PCBs, phthalates).
-- **Human health concerns**: microplastics detected in **blood, lungs, placenta, stool** — potential **endocrine disruption**, inflammation, and carrier role for pathogens/chemicals — research ongoing, not yet fully quantified for regulation.
-- **Persistence trap**: microplastics are **not biodegradable within weeks** — polyethylene and polypropylene persist **decades to centuries** — photodegradation only breaks into **smaller** particles, not harmless minerals.
-- **Policy response — global**: **UN Environment Assembly Resolution (March 2022)** launched negotiations for a **legally binding Global Plastics Treaty** — Intergovernmental Negotiating Committee (INC) sessions 2022–2025 — targets full lifecycle of plastics.
-- **Policy response — India**: **Plastic Waste Management Rules 2016** (amended 2022) + **EPR** for producers; **ban on identified single-use plastic items (July 2022)**; **National Dashboard for EPR** — microplastic control is downstream of macro-plastic reduction.
-- **UP relevance**: **Ganga basin cities** (Kanpur leather/plastic waste, Varanasi tourism waste, Lucknow municipal plastic) contribute to riverine microplastic load — **Namami Gange** trash interceptors reduce macro input; stubble-burning plastic mulch in western UP adds agricultural microplastic to soil.
+- **Primary microplastics** Are intentionally manufactured small. **microbeads** In cosmetics, **nurdles** (plastic pellets) spilled during transport, **abrasives** in industrial processes.
+- **Secondary microplastics** form when larger plastic items **photodegrade and fragment**. Plastic bags, bottles, fishing nets, tyre wear particles on roads. Most environmental microplastic mass is secondary.
+- **Size threshold** **<5 mm**. Exam trap: "5 cm" or "visible to naked eye only" = **FALSE**, many microplastics are microscopic.
+- **Major sources** **single-use packaging** (40%+ of plastic waste globally). **synthetic textiles** (polyester/nylon shed fibres in washing), **tyre abrasion**, **fishing gear**, **agricultural plastic mulch**.
+- **Transport pathways** rivers carry land-based plastic to oceans. **Ganga and Yamuna** Studies document microplastic contamination downstream of urban/industrial centres (Kanpur, Varanasi, Lucknow sewage inputs).
+- **Marine accumulation**: ocean gyres concentrate floating plastic in areas such as the **Great Pacific Garbage Patch**, where microplastics are ingested by **zooplankton, then fish, then humans**, allowing biomagnification of associated toxins (PCBs, phthalates).
+- **Human health concerns** microplastics detected in **blood, lungs, placenta, stool**. Potential **endocrine disruption**, inflammation, and carrier role for pathogens/chemicals. Research ongoing, not yet fully quantified for regulation.
+- **Persistence trap** microplastics are **not biodegradable within weeks**. Polyethylene and polypropylene persist **decades to centuries**. Photodegradation only breaks into **smaller** particles, not harmless minerals.
+- **Policy response. Global**: **UN Environment Assembly Resolution (March 2022)** launched negotiations for a **legally binding Global Plastics Treaty**. Intergovernmental Negotiating Committee (INC) sessions 2022–2025. Targets full lifecycle of plastics.
+- **Policy response. India**: **Plastic Waste Management Rules 2016** (amended 2022) + **EPR** for producers. **ban on identified single-use plastic items (July 2022)**, **National Dashboard for EPR**. Microplastic control is downstream of macro-plastic reduction.
+- **UP relevance** **Ganga basin cities** (Kanpur leather/plastic waste, Varanasi tourism waste, Lucknow municipal plastic) contribute to riverine microplastic load. **Namami Gange** trash interceptors reduce macro input. Stubble-burning plastic mulch in western UP adds agricultural microplastic to soil.
 
 > **Exam note:** Microplastics = **<5 mm**. Sources include **tyre wear and synthetic clothes**, not only plastic bags. Statement "microplastics biodegrade quickly" = **FALSE**.
 
@@ -719,7 +719,7 @@ KEY TRAPS:
 - Primary vs **secondary** fragmentation
 - Textile washing = major fibre source
 - Tyre wear = major urban source
-- Food chain: plankton → fish → humans
+- Food chain pathway: plankton to fish to humans.
 - India SUP ban on identified items = **2022**
 - UN Plastics Treaty INC from **2022** resolution
 - NOT fast biodegradable
@@ -765,16 +765,16 @@ KEY TRAPS:
 
 ### Climate Refugees — How It Works
 
-- **Climate refugees / climate migrants** describe people who **leave homes** because climate impacts destroy livelihoods or make areas uninhabitable — **distinct legal gap**: 1951 Refugee Convention covers **persecution**, not climate — no binding "climate refugee" status yet in international law.
-- **Sudden-onset displacement**: **Cyclones** (Odisha, Bangladesh), **flash floods** (Uttarakhand, Assam, UP Terai), **riverbank erosion** — people flee temporarily or permanently — **internal migrants** to cities (Lucknow, Delhi, Mumbai slums).
-- **Slow-onset displacement**: **Sea-level rise** (Sundarbans, coastal Tamil Nadu/Kerala), **desertification** (Bundelkhand, Marathwada), **glacial lake outburst** (Himalayas), **chronic drought** — gradual abandonment of farmland — **Bundelkhand → NCR migration** is UP-relevant climate-stress pattern.
-- **IPCC finding**: Climate change interacts with **poverty, land tenure, conflict** — mobility is multi-causal — exam trap: "all migration from Bangladesh is climate only" = **FALSE** — economics and conflict also drive movement.
-- **India internal climate migrants**: **Assam flood plains**, **Bihar Kosi basin**, **Odisha cyclone coasts**, **Bundelkhand drought belt** (7 UP districts) — most stay **within India** — urban informal settlements absorb migrants.
-- **Heat stress migration**: Extreme heat reduces outdoor labour productivity — rural workers move to cities — **UP heat waves** increasing — overlaps disaster-climate adaptation context.
-- **Policy responses**: **National Action Plan on Climate Change (NAPCC)** adaptation missions; **MGNREGA** as drought safety net reducing distress migration; **National Disaster Management Authority** for sudden events — no dedicated **Climate Refugee Act** in India.
-- **Global governance gap**: **Task Force on Displacement** under UNFCCC Warsaw Mechanism tracks climate displacement — **Loss and Damage Fund (COP28)** may finance relocation — still evolving.
-- **Distinction traps**: **Environmental refugee** (broader — dams, mining) ⊃ climate-specific cases; **Internally Displaced Person (IDP)** = moved within borders; **Refugee (legal)** = crossed international border + persecution criterion.
-- **UP exam angle**: **Bundelkhand drought migration** to Lucknow/Noida; **Ganga floodplain displacement** in eastern UP; **Terai flood migrants** from Nepal border districts — climate + poverty combined drivers.
+- **Climate refugees / climate migrants** describe people who **leave homes** because climate impacts destroy livelihoods or make areas uninhabitable. **distinct legal gap** 1951 Refugee Convention covers **persecution**, not climate. No binding "climate refugee" status yet in international law.
+- **Sudden-onset displacement** **Cyclones** (Odisha, Bangladesh), **flash floods** (Uttarakhand, Assam, UP Terai), **riverbank erosion**. People flee temporarily or permanently. **internal migrants** to cities (Lucknow, Delhi, Mumbai slums).
+- **Slow-onset displacement** includes **sea-level rise** (Sundarbans, coastal Tamil Nadu/Kerala), **desertification** (Bundelkhand, Marathwada), **glacial lake outburst** (Himalayas), and **chronic drought**, which gradually forces abandonment of farmland. **Bundelkhand-to-NCR migration** is a UP-relevant climate-stress pattern.
+- **IPCC finding** climate change interacts with **poverty, land tenure, conflict**, mobility is multi-causal. Exam trap: "all migration from Bangladesh is climate only" = **FALSE**. Economics and conflict also drive movement.
+- **India internal climate migrants** **Assam flood plains**, **Bihar Kosi basin**, **Odisha cyclone coasts**, **Bundelkhand drought belt** (7 UP districts), most stay **within India**. Urban informal settlements absorb migrants.
+- **Heat stress migration** extreme heat reduces outdoor labour productivity. Rural workers move to cities, **UP heat waves** Increasing, overlaps disaster-climate adaptation context.
+- **Policy responses** **National Action Plan on Climate Change (NAPCC)** adaptation missions. **MGNREGA** as drought safety net reducing distress migration. **National Disaster Management Authority** For sudden events. No dedicated **Climate Refugee Act** in India.
+- **Global governance gap** **Task Force on Displacement** under UNFCCC Warsaw Mechanism tracks climate displacement. **Loss and Damage Fund (COP28)** may finance relocation, still evolving.
+- **Distinction traps** **Environmental refugee** (broader. Dams, mining) ⊃ climate-specific cases. **Internally Displaced Person (IDP)** moved within borders. **Refugee (legal)** Crossed international border + persecution criterion.
+- **UP exam angle** **Bundelkhand drought migration** to Lucknow/Noida. **Ganga floodplain displacement** in eastern UP. **Terai flood migrants** From Nepal border districts. Climate + poverty combined drivers.
 
 > **Exam note:** "Climate refugee" is a **media/policy term**, NOT a formal 1951 Convention category. Most climate-linked movement in India is **internal**. Bundelkhand drought → outmigration = classic UP example.
 
@@ -794,9 +794,9 @@ KEY TRAPS:
 - Most displacement = **internal** (within country)
 - Sudden (floods/cyclones) + slow (drought/SLR) onset
 - Bundelkhand = UP drought-migration hotspot
-- Warsaw International Mechanism — UNFCCC displacement track
-- Loss and Damage Fund — COP28 finance for vulnerable countries
-- Multi-causal — poverty + climate interact
+- Warsaw International Mechanism. UNFCCC displacement track.
+- Loss and Damage Fund. COP28 finance for vulnerable countries.
+- Multi-causal, poverty + climate interact.
 
 ### PYQs — Climate Refugees
 
@@ -837,16 +837,16 @@ KEY TRAPS:
 
 ### Nature-based Solutions — How It Works
 
-- **Nature-based Solutions (NbS)** use **healthy ecosystems** to solve problems that grey infrastructure (concrete seawalls, engineered drains) also addresses — but with **biodiversity co-benefits** and often **lower cost per unit benefit**.
-- **Climate mitigation NbS**: **Afforestation/reforestation**, **mangrove planting** (blue carbon), **peatland restoration**, **soil carbon in agriculture** (conservation tillage) — sequester CO₂ in biomass and soils — supports **India NDC forest sink (2.5–3 GtCO₂e)**.
-- **Climate adaptation NbS**: **Mangrove belts** reduce cyclone wave energy; **wetlands** absorb flood peaks; **urban green cover** reduces heat island effect; **agroforestry** diversifies drought-prone Bundelkhand incomes.
-- **MISHTI (2023)** = flagship Indian NbS — **mangrove restoration** for shoreline protection + livelihoods — **2025 Q93** — Stmt 2 (restore mangroves) TRUE; Stmt 1 (2019) FALSE.
-- **Amrit Dharohar (2023)**: Wetland conservation on **Ramsar sites** — NbS for water, biodiversity, tourism — overlaps wetland topic but NbS framing emphasises **ecosystem services**.
-- **Distinction from geoengineering**: NbS = **ecosystem-based**; **CCS/DAC** = engineered carbon removal — exams trap: "planting trees is geoengineering" = **FALSE**.
-- **Distinction from carbon offset markets**: NbS projects may **generate carbon credits** (REDD+, mangrove credits) but NbS concept is **broader** than carbon trading — includes adaptation and disaster risk reduction without market transaction.
-- **Permanence risk**: Forest fires, illegal logging, drought mortality can **reverse** stored carbon — NbS needs **long-term protection** (WPA, FCA, community stewardship).
-- **UP NbS examples**: **Terai grassland restoration** (flood buffer); **Ganga riparian afforestation** (Namami Gange); **urban forest parks Lucknow/Kanpur** (heat + air quality); **Bundelkhand water harvesting structures** (drought adaptation NbS).
-- **Global frameworks**: **UN Decade on Ecosystem Restoration 2021–2030**; **CBD Kunming-Montreal Framework** Target 2 (30×30); **SDG 15** — NbS delivers multiple SDGs simultaneously.
+- **Nature-based Solutions (NbS)** use **healthy ecosystems** to solve problems that grey infrastructure (concrete seawalls, engineered drains) also addresses. But with **biodiversity co-benefits** and often **lower cost per unit benefit**.
+- **Climate mitigation NbS** **Afforestation/reforestation**, **mangrove planting** (blue carbon), **peatland restoration**, **soil carbon in agriculture** (conservation tillage). Sequester CO₂ in biomass and soils. Supports **India NDC forest sink (2.5–3 GtCO₂e)**.
+- **Climate adaptation NbS** **Mangrove belts** reduce cyclone wave energy, **wetlands** absorb flood peaks. **urban green cover** Reduces heat island effect. **agroforestry** Diversifies drought-prone Bundelkhand incomes.
+- **MISHTI (2023)** flagship Indian NbS. **mangrove restoration** For shoreline protection + livelihoods, **2025 Q93**. Stmt 2 (restore mangroves) TRUE. Stmt 1 (2019) FALSE.
+- **Amrit Dharohar (2023)** wetland conservation on **Ramsar sites**. NbS for water, biodiversity, tourism. Overlaps wetland topic but NbS framing emphasises **ecosystem services**.
+- **Distinction from geoengineering** NbS = **ecosystem-based**, **CCS/DAC** engineered carbon removal. Exams trap: "planting trees is geoengineering" = **FALSE**.
+- **Distinction from carbon offset markets** NbS projects may **generate carbon credits** (REDD+, mangrove credits) but NbS concept is **broader** than carbon trading. Includes adaptation and disaster risk reduction without market transaction.
+- **Permanence risk** forest fires, illegal logging, drought mortality can **reverse** stored carbon. NbS needs **long-term protection** (WPA, FCA, community stewardship).
+- **UP NbS examples** **Terai grassland restoration** (flood buffer). **Ganga riparian afforestation** (Namami Gange). **urban forest parks Lucknow/Kanpur** (heat + air quality). **Bundelkhand water harvesting structures** (drought adaptation NbS).
+- **Global frameworks** **UN Decade on Ecosystem Restoration 2021–2030**. **CBD Kunming-Montreal Framework** target 2 (30×30), **SDG 15**. NbS delivers multiple SDGs simultaneously.
 
 > **Exam note:** NbS = **protect, manage, restore ecosystems** for climate + society. MISHTI mangroves = classic NbS. NbS ≠ only carbon credits — adaptation and disaster reduction count too.
 
@@ -861,9 +861,9 @@ KEY TRAPS:
 
 ### Exam Facts (raata)
 
-- IUCN definition — ecosystem actions for societal challenges
+- IUCN definition. Ecosystem actions for societal challenges.
 - Mitigation (carbon storage) + adaptation (disaster/heat/flood)
-- MISHTI 2023 = mangrove NbS — **2025 Q93**
+- MISHTI 2023 = mangrove NbS, **2025 Q93**.
 - Amrit Dharohar = wetland NbS
 - Green India Mission = forest NbS
 - Permanence risk if ecosystems degraded
@@ -907,16 +907,16 @@ KEY TRAPS:
 
 ### LiFE Mission — How It Works
 
-- **Origin**: PM announced **LiFE concept at COP26, Glasgow, November 2021** — positioned as complement to government climate policy — individuals as **change agents** for SDG 12 (Responsible Consumption) and SDG 13 (Climate Action).
-- **Formal launch**: **Mission LiFE launched June 2022** by PM — **MoEFCC** nodal ministry — **UPPCS 2025 Q139 Stmt 1 TRUE**.
-- **75 pro-planet actions**: Catalogue of simple daily behaviours — **save energy** (switch off, efficient appliances), **reduce waste** (reuse bags, compost), **save water**, **sustainable food** (local, less food waste), **e-waste disposal**, **tree plantation** — distributed via **Mission LiFE app/portal**.
-- **Global LiFE movement**: India proposed making LiFE a **global mission** — discussed at **G20** and climate summits — export of Indian soft-power climate governance model.
-- **Philosophical roots**: Draws on **Gandhian austerity** ("Earth provides enough for everyone's need, not greed") — voluntary simplicity — links to §44.4/§44.6 sustainable consumption briefly.
-- **Mechanism**: Unlike regulatory laws (EPA, PWM Rules), LiFE uses **nudge, awareness, and social norm change** — low-cost, scalable mitigation — reduces **lifestyle carbon footprint** (food, transport, household energy).
-- **COP-25 Madrid trap (2025 Q139)**: Statement "idea proposed at COP-25 Madrid" = **FALSE** — COP-25 was Madrid **2019**; LiFE idea came at **COP-26 Glasgow 2021** — Answer **D (Only 1)**.
-- **Distinction from other missions**: LiFE ≠ **National Solar Mission** (technology deployment); ≠ **Green Credit Programme** (market incentives); ≠ **LiFE app scam copies** — official portal under MoEFCC.
-- **UP implementation**: Schools, colleges, urban local bodies in **Lucknow, Noida, Varanasi, Kanpur** can host LiFE awareness drives — aligns with **NCAP** cities' public engagement on air quality and waste reduction.
-- **Measurable impact pathway**: Individual actions aggregate to national **demand reduction** — less electricity peak load, less municipal waste, lower transport emissions — supports **net zero 2070** without waiting for technology alone.
+- **Origin** PM announced **LiFE concept at COP26, Glasgow, November 2021**. Positioned as complement to government climate policy. Individuals as **change agents** for SDG 12 (Responsible Consumption) and SDG 13 (Climate Action).
+- **Formal launch** **Mission LiFE launched June 2022** by PM, **MoEFCC** nodal ministry. **UPPCS 2025 Q139 Stmt 1 TRUE**.
+- **75 pro-planet actions** catalogue of simple daily behaviours. **save energy** (switch off, efficient appliances), **reduce waste** (reuse bags, compost), **save water**, **sustainable food** (local, less food waste), **e-waste disposal**, **tree plantation**. Distributed via **Mission LiFE app/portal**.
+- **Global LiFE movement** india proposed making LiFE a **global mission**. Discussed at **G20** and climate summits. Export of Indian soft-power climate governance model.
+- **Philosophical roots** draws on **Gandhian austerity** ("Earth provides enough for everyone's need, not greed"), voluntary simplicity. Links to §44.4/§44.6 sustainable consumption briefly.
+- **Mechanism** unlike regulatory laws (EPA, PWM Rules), LiFE uses **nudge, awareness, and social norm change**, low-cost, scalable mitigation. Reduces **lifestyle carbon footprint** (food, transport, household energy).
+- **COP-25 Madrid trap (2025 Q139)** statement "idea proposed at COP-25 Madrid" = **FALSE**. COP-25 was Madrid **2019**. LiFE idea came at **COP-26 Glasgow 2021**. Answer **D (Only 1)**.
+- **Distinction from other missions** LiFE is not the same as **National Solar Mission** (technology deployment). Is not the same as **Green Credit Programme** (market incentives). Is not the same as **LiFE app scam copies**, official portal under MoEFCC.
+- **UP implementation** Schools, colleges, urban local bodies in **Lucknow, Noida, Varanasi, Kanpur** can host LiFE awareness drives. Aligns with **NCAP** cities' public engagement on air quality and waste reduction.
+- **Measurable impact pathway** individual actions aggregate to national **demand reduction**. Less electricity peak load, less municipal waste, lower transport emissions. Supports **net zero 2070** without waiting for technology alone.
 
 > **Exam note:** **UPPCS 2025 Q139** — Launched **June 2022** (TRUE); COP-25 Madrid (FALSE) → **D (Only 1)**. LiFE idea = **COP26 2021**.
 

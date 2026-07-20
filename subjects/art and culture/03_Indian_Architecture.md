@@ -89,17 +89,17 @@ UP MONUMENTS:
 
 ### Indian Temple Architecture — How It Works
 
-- **Temple (devalaya/mandira)** is both **house of god** and **cosmic diagram** — axis from entrance to garbhagriha mirrors journey from mundane to sacred.
-- **Garbhagriha** (sanctum sanctorum) houses the main **murti** — smallest, darkest, most sacred chamber; only priests enter in classical practice.
-- **Shikhara** (Nagara) or **Vimana** (Dravida) rises above garbhagriha — visual marker of divine presence; height = theological prominence.
-- **Mandapa** = pillared hall for devotees — types: **ardha-mandapa** (entrance porch), **maha-mandapa** (main hall), **natya-mandapa** (dance hall in large temples).
-- **Antarala** = vestibule between garbhagriha and mandapa — transitional space in developed temples.
-- **Pradakshina patha** = circumambulatory passage — devotee walks clockwise around sanctum; may be open or enclosed within walls.
-- **Gopuram** = monumental **gateway tower** — hallmark of **Dravida** temple enclosures; in mature south Indian temples gopurams often dwarf vimana.
-- **Amalaka** = ribbed stone disc atop Nagara shikhara; **kalasha** (pot finial) crowns both Nagara and Dravida towers.
+- **Temple (devalaya/mandira)** is both **house of god** and **cosmic diagram**. Axis from entrance to garbhagriha mirrors journey from mundane to sacred.
+- **Garbhagriha** (sanctum sanctorum) houses the main **murti**. Smallest, darkest, most sacred chamber. Only priests enter in classical practice.
+- **Shikhara** (Nagara) or **Vimana** (Dravida) rises above garbhagriha. Visual marker of divine presence. Height = theological prominence.
+- **Mandapa** = pillared hall for devotees. Types: **ardha-mandapa** (entrance porch), **maha-mandapa** (main hall), **natya-mandapa** (dance hall in large temples).
+- **Antarala** = vestibule between garbhagriha and mandapa. It transitional space in developed temples.
+- **Pradakshina patha** = circumambulatory passage. It devotee walks clockwise around sanctum. May be open or enclosed within walls.
+- **Gopuram** = monumental **gateway tower**. Hallmark of **Dravida** temple enclosures. In mature south Indian temples gopurams often dwarf vimana.
+- **Amalaka** = ribbed stone disc atop Nagara shikhara. **Kalasha** (pot finial) crowns both Nagara and Dravida towers.
 - **Sculptural programme** covers door guardians (**dvarapalas**), deity panels, **mithuna** couples, mythological narratives on exterior walls.
-- **Panchayatana plan** = central shrine + four subsidiary shrines at corners — Gupta-period innovation (e.g. Dashavatara temple, Deogarh).
-- **Water tank / stepwell** often integrated — ritual purification before darshan (temple tanks in south India, **kund** in north).
+- **Panchayatana plan** = central shrine + four subsidiary shrines at corners. Gupta-period innovation (e.g. Dashavatara temple, Deogarh).
+- **Water tank / stepwell** often integrated. Ritual purification before darshan (temple tanks in south India, **kund** in north).
 - **Regional materials** shape aesthetics: sandstone (Khajuraho, Odisha), granite (Chola, Mahabalipuram), soapstone (Hoysala).
 
 > **Exam note:** UPPCS loves **style ↔ monument** matching — Konark/Khajuraho = **Nagara**; Brihadeeswara/Mahabalipuram Shore = **Dravida**; Belur/Halebidu = **Vesara/Hoysala**.
@@ -107,13 +107,13 @@ UP MONUMENTS:
 ### Exam Facts (raata)
 
 - Three main styles: **Nagara, Dravida, Vesara**
-- Garbhagriha = sanctum; pradakshina = clockwise circumambulation
-- Nagara = **shikhara**; Dravida = **vimana + gopuram**
+- Garbhagriha = sanctum. Pradakshina = clockwise circumambulation.
+- Nagara = **shikhara**. Dravida = **vimana + gopuram**.
 - Dvarapalas = door guardians at sanctum entrance
 - Panchayatana = 5-shrine plan (Gupta association)
 - Temple = structural + symbolic representation of cosmos
 - Subsidiary shrines for parivara devatas (attendant deities)
-- Nagara dominant north of Vindhyas; Dravida south; Vesara in Karnataka/Deccan
+- Nagara dominant north of Vindhyas. Dravida south. Vesara in Karnataka/Deccan.
 
 ### PYQs — Indian Temple Architecture
 
@@ -151,17 +151,17 @@ UP MONUMENTS:
 
 ### Nagara Style — How It Works
 
-- **Nagara** dominates **north, central, and western India** — Himalayas to Gujarat, Rajasthan, MP (Khajuraho), Odisha (Bhubaneswar–Puri–Konark triangle).
-- **Shikhara profile** defines Nagara sub-schools — **Latina** (single curvilinear tower), **Phamsana** (stepped pyramid), **Valabhi** (barrel-vaulted), **Rekha deul** (Odisha — vertical tower with ratha projections).
-- **Plan** is generally **linear axial** — entrance → mandapa → antarala → garbhagriha; less emphasis on concentric walled enclosures than Dravida.
-- **Gopuram absent or minor** — unlike Dravida, the **shikhara itself** is the primary vertical element.
-- **Khajuraho (Chandela, 10th–11th c.)** — sandstone Nagara; famous for **Vishvanatha, Kandariya Mahadeva, Lakshmana** temples; sculpture includes divine + secular life.
-- **Odisha school** — **Mukteshwar, Lingaraj, Rajarani** (Bhubaneswar); **Jagannath Puri**; **Konark Sun Temple** as colossal ratha-form rekha deul.
-- **Gujarat/Rajasthan** — **Modhera Sun Temple** (Solanki), **Osian** group, **Mount Abu Dilwara** Jain temples (marble, not Hindu but Nagara-influenced craftsmanship).
-- **Sculpture** densely covers jangha (wall) — deities, apsaras, mithuna; **amalaka** and **kalasha** crown the shikhara.
-- **Panchayatana** layout common in Gupta and post-Gupta Nagara — central deity shrine + corner shrines.
+- **Nagara** dominates **north, central, and western India**. It spans from the Himalayas to Gujarat, Rajasthan, MP (Khajuraho), and the Odisha triangle of Bhubaneswar, Puri, and Konark.
+- The **shikhara profile** defines Nagara sub-schools: **Latina** (single curvilinear tower), **Phamsana** (stepped pyramid), **Valabhi** (barrel-vaulted), and **Rekha deul** (Odisha vertical tower with ratha projections).
+- The **plan** is generally **linear axial**, running from entrance through mandapa and antarala to garbhagriha. It places less emphasis on concentric walled enclosures than Dravida.
+- **Gopurams** are absent or minor in Nagara. Unlike Dravida, the **shikhara itself** is the primary vertical element.
+- **Khajuraho (Chandela, 10th–11th c.)** built sandstone Nagara temples famous for **Vishvanatha, Kandariya Mahadeva, and Lakshmana**. Its sculpture includes both divine and secular life.
+- The **Odisha school** includes **Mukteshwar, Lingaraj, and Rajarani** at Bhubaneswar, **Jagannath Puri**, and the colossal ratha-form **Konark Sun Temple**.
+- **Gujarat/Rajasthan** has **Modhera Sun Temple** (Solanki), the **Osian** group, and **Mount Abu Dilwara** Jain temples (marble craftsmanship with Nagara influence).
+- **Sculpture** densely fills the jangha (wall) with deities, apsaras, and mithuna figures. **Amalaka** and **kalasha** crown the shikhara.
+- The **Panchayatana** layout was common in Gupta and post-Gupta Nagara, with a central deity shrine and corner shrines.
 - **Materials**: sandstone (Khajuraho, Odisha), marble (Jain Dilwara), granite in fewer north examples.
-- **Trap**: **Konark** is Nagara (Odisha rekha), NOT Dravida — despite being "south of Vindhyas" geographically, stylistically Nagara.
+- **Trap**: **Konark** is Nagara (Odisha rekha), NOT Dravida. Despite being "south of Vindhyas" geographically, stylistically Nagara.
 
 > **Exam note:** **Khajuraho + Konark + Lingaraj** = Nagara traps — students wrongly assign all "famous" temples to Dravida.
 
@@ -171,8 +171,8 @@ UP MONUMENTS:
 - Sub-types: Latina, Phamsana, Valabhi, Rekha (Odisha)
 - Khajuraho = Chandela, Nagara, sandstone
 - Odisha Nagara: Konark Sun Temple, Lingaraj, Jagannath Puri
-- Amalaka disc atop shikhara; kalasha finial
-- Konark = chariot-form sun temple; Narasimhadeva I
+- Amalaka disc atop shikhara. Kalasha finial.
+- Konark = chariot-form sun temple. Narasimhadeva I.
 - No monumental gopuram tradition like Dravida
 - Jain Dilwara temples = Nagara-influenced marble craftsmanship, Mount Abu
 
@@ -210,17 +210,17 @@ UP MONUMENTS:
 
 ### Dravida Style — How It Works
 
-- **Dravida** is the classical style of **Tamil Nadu, Karnataka, Andhra, Kerala** — Pallava origin → Chola maturity → Vijayanagara gopuram emphasis.
-- **Vimana** rises in **tiered stages (talas)** — each storey demarcated by **karnas** and **salas** (miniature shrine motifs on tower face).
-- **Gopuram** marks temple entrance — in **Vijayanagara/Nayaka** periods gopurams became **massive**, sometimes overshadowing vimana (e.g. Srirangam, Madurai Meenakshi).
-- **Enclosure walls** create **concentric prakaras** (courtyards) — each entered through a gopuram; temple becomes walled citadel.
+- **Dravida** is the classical style of **Tamil Nadu, Karnataka, Andhra, Kerala**. Pallava origin, then Chola maturity, then Vijayanagara gopuram emphasis.
+- **Vimana** rises in **tiered stages (talas)**. Each storey demarcated by **karnas** and **salas** (miniature shrine motifs on tower face).
+- **Gopuram** marks temple entrance. It in **Vijayanagara/Nayaka** periods gopurams became **massive**, sometimes overshadowing vimana (e.g. Srirangam, Madurai Meenakshi).
+- **Enclosure walls** create **concentric prakaras** (courtyards). Each entered through a gopuram. Temple becomes walled citadel.
 - **Pallavas (7th–9th c.)** pioneered both **rock-cut** (Mahabalipuram) and early **structural** Dravida (Shore Temple, Kailasanatha Kanchipuram).
-- **Cholas (9th–13th c.)** built grand **granite vimanas** — **Brihadeeswara (Thanjavur, 1010)**, Gangaikondacholapuram, Darasuram — hallmark of imperial Dravida.
-- **Mandapas** expand — **thousand-pillared halls** (Chola/Vijayanagara), **ratha mandapas** with horse-drawn chariot sculptures.
-- **Temple tanks (teppakulam)** integral — ritual + urban water management.
+- **Cholas (9th–13th c.)** built grand **granite vimanas**.
+- **Mandapas** expand includes **thousand-pillared halls** (Chola/Vijayanagara), **ratha mandapas** with horse-drawn chariot sculptures.
+- **Temple tanks (teppakulam)** integral. Ritual + urban water management.
 - **Sculpture** includes **Nataraja**, **Somaskanda**, Chola bronze tradition linked to temple worship (bronze detail in Topic 12).
-- **Hoysala** (Karnataka) is sometimes classified **Vesara** — star-shaped plans, intricate soapstone — transitional from Dravida norms.
-- **Trap**: Brihadeeswara vimana ~66 m — among tallest temple towers; **not Nagara**, despite being "famous UNESCO temple."
+- **Hoysala** (Karnataka) is sometimes classified **Vesara**. Star-shaped plans, intricate soapstone. Transitional from Dravida norms.
+- **Trap**: Brihadeeswara vimana ~66 m. It among tallest temple towers. **Not Nagara**, despite being "famous UNESCO temple.".
 
 > **Exam note:** **Brihadeeswara + Mahabalipuram Shore Temple + Meenakshi gopurams** = Dravida — match with **Pallava/Chola/Vijayanagara**, not Chandela.
 
@@ -230,10 +230,10 @@ UP MONUMENTS:
 - Pallava: Mahabalipuram, Kanchipuram Kailasanatha
 - Chola: Brihadeeswara Thanjavur (**1010 CE**, Rajaraja I)
 - Vijayanagara: enlarged gopurams (Hampi, Srirangam)
-- Vimana = pyramidal; shikhara = Nagara (don't confuse)
+- Vimana = pyramidal. Shikhara = Nagara (don't confuse).
 - Granite primary material in Tamil Chola temples
-- Meenakshi Temple, Madurai — Nayaka gopurams
-- Shore Temple, Mahabalipuram — structural Dravida by Pallavas (~8th c.)
+- **Meenakshi Temple, Madurai**. Nayaka gopurams.
+- **Shore Temple, Mahabalipuram**. Structural Dravida by Pallavas (~8th c.).
 - Temple tanks integral to Dravida complexes
 
 ### PYQs — Dravida Style
@@ -270,25 +270,25 @@ UP MONUMENTS:
 
 ### Vesara Style — How It Works
 
-- **Vesara** emerges in **Chalukya** period (6th–8th c.) — experiments at **Aihole, Badami, Pattadakal** fuse northern and southern conventions.
-- **Plan** often combines **Dravida axial enclosure** with **Nagara-type tower** profiles — neither pure Nagara nor pure Dravida.
-- **Chalukyas of Badami** built **Virupaksha (Pattadakal)** and **Sangameshwara** — UNESCO group shows Vesara transition.
-- **Rashtrakutas** carved **Kailasa temple, Ellora** (rock-cut, not Vesara structural but Deccan tradition) — often grouped in Deccan architecture discussions.
-- **Hoysalas (11th–14th c.)** refine Vesara — **star-shaped platform**, horizontality + miniature towers, **no single dominant shikhara** like Nagara.
-- **Belur Chennakeshava (1117)** and **Halebidu Hoysaleshwara** — soapstone lace-like carving; **jain basadi** nearby.
-- **Vijayanagara** inherits Deccan forms — **Vitthala Temple, Hampi** (stone chariot) blends regional idioms.
-- **Geographic zone**: Karnataka primarily; also parts of Andhra/Telangana under Chalukya influence.
-- **Trap**: Students label Hoysala as "pure Dravida" — correct classification is **Vesara** (or Hoysala sub-school of Vesara).
-- **Material**: **chloritic schist (soapstone)** — soft enough for micro-carving; contrasts with Chola granite massiveness.
+- **Vesara** emerges in **Chalukya** period (6th–8th c.). Experiments at **Aihole, Badami, Pattadakal** fuse northern and southern conventions.
+- **Plan** often combines **Dravida axial enclosure** with **Nagara-type tower** profiles. Neither pure Nagara nor pure Dravida.
+- **Chalukyas of Badami** built **Virupaksha (Pattadakal)** and **Sangameshwara**. UNESCO group shows Vesara transition.
+- **Rashtrakutas** carved **Kailasa temple, Ellora** (rock-cut, not Vesara structural but Deccan tradition). Often grouped in Deccan architecture discussions.
+- **Hoysalas (11th–14th c.)** refine Vesara includes **star-shaped platform**, horizontality + miniature towers, **no single dominant shikhara** like Nagara.
+- **Belur Chennakeshava (1117)** and **Halebidu Hoysaleshwara**. Soapstone lace-like carving. **Jain basadi** nearby.
+- **Vijayanagara** inherits Deccan forms.
+- **Geographic zone**: Karnataka primarily. Also parts of Andhra/Telangana under Chalukya influence.
+- **Trap**: Students label Hoysala as "pure Dravida". It correct classification is **Vesara** (or Hoysala sub-school of Vesara).
+- **Material**: **Chloritic schist (soapstone)**. Soft enough for micro-carving. Contrasts with Chola granite massiveness.
 
 > **Exam note:** **Belur/Halebidu = Hoysala Vesara**; **Pattadakal = early Chalukya Vesara** — NOT Nagara (Khajuraho) or Chola Dravida.
 
 ### Exam Facts (raata)
 
-- Vesara = **hybrid** Nagara + Dravida; Deccan/Karnataka
+- Vesara = **hybrid** Nagara + Dravida. Deccan/Karnataka.
 - Chalukya sites: Aihole, Badami, Pattadakal (UNESCO 1987)
-- Hoysala: Belur, Halebidu — star-shaped plan, soapstone
-- Hoysala = 11th–14th c.; Vishnuvardhana patron at Belur
+- Hoysala: Belur, Halebidu and star-shaped plan, soapstone.
+- Hoysala = 11th–14th c. Vishnuvardhana patron at Belur.
 - Kailasa Ellora = Rashtrakuta rock-cut (related Deccan tradition)
 - Vitthala Temple Hampi = Vijayanagara stone chariot
 - Vesara towers may appear "staggered" not single curvilinear shikhara
@@ -328,26 +328,26 @@ UP MONUMENTS:
 
 ### Temple Architecture — How It Works
 
-- **Temple plan** begins with **vastushastra** — site selection, orientation, grid (**vastupurusha mandala**) aligning built form with cosmic axes.
-- **Axial alignment** runs **east-west** typically — devotee enters from east, moves toward garbhagriha at west end of axis (north Indian norm).
-- **Garbhagriha** is **square** (ideal) — housing **murti** on pedestal; superstructure (shikhara/vimana) aligns directly above.
-- **Antarala** (antechamber) filters movement — only ritually qualified persons proceed beyond mandapa into antarala/garbhagriha.
-- **Mandapa typology**: **ardhamandapa** (porch) → **mandapa** (assembly) → **maha-mandapa** (great hall) → **natya-mandapa** (dance performances).
-- **Pradakshina patha** may be **internal** (around garbhagriha within walls) or **external** (around entire temple) — clockwise circumambulation mandatory.
-- **Subsidiary shrines (parivara alayas)** house attendant deities — in **panchayatana** layout four corner shrines + one central.
-- **Jagati** = raised platform/ridge on which temple stands — especially prominent in Nagara (Khajuraho, Odisha).
-- **Sculptural bands**: **pitha** (base), **jangha** (wall), **baranda** (parapet), **shikhara/vimana** — each zone has prescribed iconography.
-- **Water architecture**: **kund**, **pushkarini**, **temple tank** — ritual bathing before entry; urban temples serve community water needs.
-- **Secular integration**: large temples include **kalyani** (stepped tanks), **mandapas for commerce/festivals**, **mathas** (monastic wings) — temple as social hub.
+- **Temple plan** begins with **vastushastra**. It site selection, orientation, grid (**vastupurusha mandala**) aligning built form with cosmic axes.
+- **Axial alignment** runs **east-west** typically. Devotee enters from east, moves toward garbhagriha at west end of axis (north Indian norm).
+- **Garbhagriha** is **square** (ideal). Housing **murti** on pedestal. Superstructure (shikhara/vimana) aligns directly above.
+- **Antarala** (antechamber) filters movement. Only ritually qualified persons proceed beyond mandapa into antarala/garbhagriha.
+- **Mandapa typology**: The order runs **ardhamandapa** (porch), then **mandapa** (assembly), then **maha-mandapa** (great hall), then **natya-mandapa** (dance performances).
+- **Pradakshina patha** may be **internal** (around garbhagriha within walls) or **external** (around entire temple). Clockwise circumambulation mandatory.
+- **Subsidiary shrines (parivara alayas)** house attendant deities. In **panchayatana** layout four corner shrines + one central.
+- **Jagati** = raised platform/ridge on which temple stands. Especially prominent in Nagara (Khajuraho, Odisha).
+- **Sculptural bands**: **pitha** (base), **jangha** (wall), **baranda** (parapet), **shikhara/vimana**. It each zone has prescribed iconography.
+- **Water architecture**: **Kund**, **pushkarini**, **temple tank**. Ritual bathing before entry. Urban temples serve community water needs.
+- **Secular integration**: large temples include **kalyani** (stepped tanks), **mandapas for commerce/festivals**, **mathas** (monastic wings): temple as social hub.
 
 > **Exam note:** **Panchayatana = 5 shrines** (central + 4 corners) — Gupta association; trap: confusing with **charbagh** (4-part garden, Islamic).
 
 ### Exam Facts (raata)
 
 - Vastupurusha mandala = cosmic grid for temple planning
-- Garbhagriha = square sanctum; usually west end of east-facing axis
-- Ardhamandapa → mandapa → antarala → garbhagriha sequence
-- Pradakshina = clockwise; internal or external path
+- Garbhagriha = square sanctum. Usually west end of east-facing axis.
+- The temple plan runs **ardhamandapa**, then **mandapa**, then **antarala**, then **garbhagriha**.
+- Pradakshina = clockwise. Internal or external path.
 - Panchayatana = 5-shrine plan (not 4-part garden)
 - Jagati = raised platform (Khajuraho, Odisha)
 - Parivara shrines = subsidiary deity shrines
@@ -388,24 +388,24 @@ UP MONUMENTS:
 
 ### Gupta Period Temples — How It Works
 
-- **Gupta period (c. 4th–6th c. CE)** marks the **beginning of structural temple architecture** in India — before this, rock-cut caves dominated sacred building.
-- **Evolution path**: simple **square flat-roofed garbhagriha** → **shallow pyramidal roof** → developed **shikhara** in post-Gupta centuries.
-- **Dashavatara Vishnu Temple, Deogarh (UP)** — classic Gupta **panchayatana** on **jagati** (raised platform); doorway sculptures of Ganga-Yamuna.
-- **Temple No. 17, Sanchi** — small flat-roofed shrine (Gupta-era) near Buddhist stupa complex — shows Hindu structural experiment beside Buddhist monuments.
-- **Udayagiri Caves (MP)** — **rock-cut** Gupta shrines with **Varaha avatara** relief; blends cave and sculptural temple traditions.
-- **Bhumara Shiva Temple (MP)** — early shikhara development; ornate doorway.
-- **Materials**: **sandstone** predominant — Mathura/central India quarries supply region.
-- **Sculpture**: refined Gupta aesthetic — spiritual calm, smooth modelling, transparent drapery (Gupta sculpture detail overlaps Topic 12).
-- **Doorway programme**: **river goddesses** (Ganga-Yamuna), **dvarapalas**, **garuda** for Vishnu temples — becomes standard template.
+- **Gupta period (c. 4th–6th c. CE)** marks the **beginning of structural temple architecture** in India. It before this, rock-cut caves dominated sacred building.
+- **Evolution path**: The order runs simple **square flat-roofed garbhagriha**, then **shallow pyramidal roof**, then developed **shikhara** in post-Gupta centuries.
+- **Dashavatara Vishnu Temple, Deogarh (UP)**. Classic Gupta **panchayatana** on **jagati** (raised platform). Doorway sculptures of Ganga-Yamuna.
+- **Temple No. 17, Sanchi**. Small flat-roofed shrine (Gupta-era) near Buddhist stupa complex. Shows Hindu structural experiment beside Buddhist monuments.
+- **Udayagiri Caves (MP)** includes **rock-cut** Gupta shrines with **Varaha avatara** relief. Blends cave and sculptural temple traditions.
+- **Bhumara Shiva Temple (MP)**. Early shikhara development. Ornate doorway.
+- **Materials**: **sandstone** predominant. Mathura/central India quarries supply region.
+- **Sculpture**: refined Gupta aesthetic: spiritual calm, smooth modelling, transparent drapery (Gupta sculpture detail overlaps Topic 12).
+- **Doorway programme**: **river goddesses** (Ganga-Yamuna), **dvarapalas**, **garuda** for Vishnu temples. Becomes standard template.
 - **Post-Gupta continuation**: Nagara shikhara elaboration in **7th–8th c.** builds directly on Gupta foundations.
-- **UP link**: **Deogarh temple in Lalitpur district (UP)** — key Gupta site for UPPCS geography matching.
+- **UP link**: **Deogarh temple in Lalitpur district (UP)**. Key Gupta site for UPPCS geography matching.
 
 > **Exam note:** **Deogarh = Gupta + Panchayatana + UP** — trap: placing it in MP or calling it Buddhist.
 
 ### Exam Facts (raata)
 
 - Gupta = **first structural stone temples** (4th–6th c.)
-- Dashavatara Temple = **Deogarh, UP** — panchayatana Vishnu
+- **Dashavatara Temple = Deogarh, UP**. Panchayatana Vishnu.
 - Sanchi Temple 17 = early flat-roofed Gupta shrine
 - Udayagiri Caves = Gupta rock-cut (Varaha), near Vidisha MP
 - Gupta doorway: Ganga-Yamuna flanking entrance
@@ -449,16 +449,16 @@ UP MONUMENTS:
 ### Pallava and Chola Temples — How It Works
 
 - **Pallavas** (capital **Kanchipuram**, port **Mahabalipuram/Mamallapuram**) bridge rock-cut and structural Dravida traditions.
-- **Mahabalipuram (7th–8th c.)** — **Pancha Rathas** (five monolithic rock-cut temples named after Pandavas); **Arjuna's Penance** (relief); **Shore Temple** (structural, three shrines, 8th c.).
-- **Rock-cut Mandapas** at Mahabalipuram — **Mahishasuramardini**, **Varaha** caves — shallow halls with sculpted panels.
-- **Kailasanatha Temple, Kanchipuram** — Pallava structural Dravida; sandstone; complex enclosure.
-- **Cholas** transform Dravida into **imperial monumentalism** — **granite** quarried and transported at massive scale.
-- **Rajaraja I** built **Brihadeeswara Temple, Thanjavur (1010 CE)** — 66 m vimana; **Nandi** monolith; **frescoes** in circumambulatory passage.
-- **Rajendra I** built **Gangaikondacholapuram** — larger vimana attempt; **Ganga water** brought to consecrate temple tank symbolically.
-- **Chola bronze Nataraja** icons housed in these temples — architectural space + movable sculpture programme (Topic 12 link).
-- **Darasuram (Airavatesvara)** and **Tribhuvanam** — later Chola refinement; **musical steps** (Darasuram).
-- **Temple administration**: Chola **brahmanas** granted land (**devadana**) — temple as economic and political node.
-- **UNESCO**: Brihadeeswara = **1987**; Mahabalipuram group = **1984** — both Chola/Pallava Dravida landmarks.
+- **Mahabalipuram (7th–8th c.)**. **Pancha Rathas** (five monolithic rock-cut temples named after Pandavas). **Arjuna's Penance** (relief). **Shore Temple** (structural, three shrines, 8th c.).
+- **Rock-cut Mandapas** at Mahabalipuram includes **Mahishasuramardini**, **Varaha** caves. Shallow halls with sculpted panels.
+- **Kailasanatha Temple, Kanchipuram**. Pallava structural Dravida. Sandstone. Complex enclosure.
+- **Cholas** transform Dravida into **imperial monumentalism**.
+- **Rajaraja I** built **Brihadeeswara Temple, Thanjavur (1010 CE)**. 66 m vimana. **Nandi** monolith. **Frescoes** in circumambulatory passage.
+- **Rajendra I** built **Gangaikondacholapuram**. Larger vimana attempt. **Ganga water** brought to consecrate temple tank symbolically.
+- **Chola bronze Nataraja** icons housed in these temples. Architectural space + movable sculpture programme (Topic 12 link).
+- **Darasuram (Airavatesvara)** and **Tribhuvanam**. Later Chola refinement. **Musical steps** (Darasuram).
+- **Temple administration**: **Chola **brahmanas** granted land (**devadana**)**. Temple as economic and political node.
+- **UNESCO**: **Brihadeeswara = **1987**. Mahabalipuram group = 1984**. Both Chola/Pallava Dravida landmarks.
 
 > **Exam note:** **Brihadeeswara = 1010, Rajaraja I, Chola** — trap: Krishnadevaraya (Vijayanagara) or Narasimhadeva (Konark).
 
@@ -471,7 +471,7 @@ UP MONUMENTS:
 - Gangaikondacholapuram = Rajendra I
 - Granite vimana ~66 m at Brihadeeswara
 - Darasuram Airavatesvara = later Chola musical steps
-- Mahabalipuram UNESCO **1984**; Brihadeeswara **1987**
+- Mahabalipuram UNESCO **1984**. Brihadeeswara **1987**.
 - Chola temples = royal legitimacy + land grants (devadana)
 
 ### PYQs — Pallava and Chola Temples
@@ -508,28 +508,28 @@ UP MONUMENTS:
 
 ### Buddhist Architecture — How It Works
 
-- **Buddhist sacred architecture** serves **relic veneration**, **community worship**, and **monastic life** — not garbhagriha-deity model of Hindu temples.
-- **Stupa** = hemispherical **relic mound** — earliest form; Buddha's remains distributed across stupas (8 original tradition).
-- **Chaitya** = assembly hall with **apse** housing mini-stupa at far end — congregation faces stupa; **nave + aisles** like basilica influence.
-- **Vihara** = **monastic dormitory** — cells around courtyard; **sangha** residence for rainy-season retreat.
-- **Mauryan patronage** (Ashoka, 3rd c. BCE) systematises stupa building — **Sanchi** enlarged, pillars added across empire.
-- **Rock-cut phase** (2nd c. BCE–2nd c. CE) — **Karla, Bhaja, Bedsa, Ajanta** chaityas carved in Western Ghats basalt.
-- **Mahayana development** (c. 1st c. CE onward) — **larger chaityas**, **Buddha images** in stupa apse, **vihara** complexes expand (Ajanta caves 1–20).
-- **Materials**: brick/stone **stupas** (Sanchi, Bharhut); **basalt rock-cut** halls (Deccan/Western Ghats).
-- **Torana** (gateway) at stupas — **Sanchi** four toranas (1st c. BCE) with Jataka stories — no Buddha figure in early aniconic phase.
-- **Decline of rock-cut vihara** building as structural monasteries grow — **Nalanda, Vikramashila** (mahavihara layout in Topic 1).
-- **Trap**: Buddhist architecture ≠ Hindu **shikhara temple** — exams test functional distinction stupa/chaitya/vihara.
+- **Buddhist sacred architecture** serves **relic veneration**, **community worship**, and **monastic life**. Not garbhagriha-deity model of Hindu temples.
+- **Stupa** = hemispherical **relic mound**. It earliest form. Buddha's remains distributed across stupas (8 original tradition).
+- **Chaitya** = assembly hall with **apse** housing mini-stupa at far end. Congregation faces stupa. **Nave + aisles** like basilica influence.
+- **Vihara** = **monastic dormitory**. Cells around courtyard. **Sangha** residence for rainy-season retreat.
+- **Mauryan patronage** (Ashoka, 3rd c. BCE) systematises stupa building includes **Sanchi** enlarged, pillars added across empire.
+- **Rock-cut phase** (2nd c. BCE–2nd c. CE) includes **Karla, Bhaja, Bedsa, Ajanta** chaityas carved in Western Ghats basalt.
+- **Mahayana development** (c. 1st c. CE onward) includes **larger chaityas**, **Buddha images** in stupa apse, **vihara** complexes expand (Ajanta caves 1–20).
+- **Materials**: Brick/stone **stupas** (Sanchi, Bharhut). **Basalt rock-cut** halls (Deccan/Western Ghats).
+- **Torana** (gateway) at stupas includes **Sanchi** four toranas (1st c. BCE) with Jataka stories. No Buddha figure in early aniconic phase.
+- **Decline of rock-cut vihara** building as structural monasteries grow includes **Nalanda, Vikramashila** (mahavihara layout in Topic 1).
+- **Trap**: **Buddhist architecture ≠ Hindu shikhara temple**. Exams test functional distinction stupa/chaitya/vihara.
 
 > **Exam note:** Master the **S-C-V trio** (Stupa-Chaitya-Vihara) — UPPCS matching lists swap function (e.g. "vihara = prayer hall" = FALSE).
 
 ### Exam Facts (raata)
 
 - Three forms: **Stupa, Chaitya, Vihara**
-- Stupa = relic mound; chaitya = worship hall; vihara = monastery
+- Stupa = relic mound. Chaitya = worship hall. Vihara = monastery.
 - Ashoka patronised Sanchi Great Stupa enlargement
 - Rock-cut chaityas: Karla, Bhaja, Ajanta 9, 10, 19, 26
-- Early Buddhist art = aniconic (no Buddha figure) — footprints, throne, bodhi tree
-- Toranas at Sanchi — elaborate gateways
+- **Early Buddhist art = aniconic (no Buddha figure)**. Footprints, throne, bodhi tree.
+- **Toranas at Sanchi**. Elaborate gateways.
 - Mahayana adds Buddha images in chaitya apse
 - Western Ghats = major rock-cut Buddhist belt
 - Nalanda-type mahavihara = planned monastery university
@@ -569,17 +569,17 @@ UP MONUMENTS:
 
 ### Stupa — How It Works
 
-- **Stupa** derives from pre-Buddhist **burial mounds (caitya)** — Buddha's cremation relics distributed to **8 stupas** (tradition).
-- **Core structure**: **vedika** (railing) → **pradakshina patha** (circumambulation) → **anda** (dome) → **harmika** → **chhatravali** (tiered umbrellas).
-- **Medhi** = terrace/platform raising dome above ground — enlarges visual mass.
-- **Torana** = ceremonial **gateway** (not load-bearing) — **Sanchi** has four richly carved toranas (east, west, north, south).
-- **Sanchi Great Stupa (Stupa 1)** — originally Mauryan (Ashoka, 3rd c. BCE); enlarged **Shunga** period; **toranas 1st c. BCE**.
+- **Stupa** derives from pre-Buddhist **burial mounds (caitya)**. Buddha's cremation relics distributed to **8 stupas** (tradition).
+- **Core structure**: The order runs **vedika** (railing), then **pradakshina patha** (circumambulation), then **anda** (dome), then **harmika**, then **chhatravali** (tiered umbrellas).
+- **Medhi** = terrace/platform raising dome above ground. Enlarges visual mass.
+- **Torana** = ceremonial **gateway** (not load-bearing). **Sanchi** has four richly carved toranas (east, west, north, south).
+- **Sanchi Great Stupa (Stupa 1)**. Originally Mauryan (Ashoka, 3rd c. BCE). Enlarged **Shunga** period. **Toranas 1st c. BCE**.
 - **Relic types**: **sarira** (body relics), **paribhogika** (objects used by Buddha), **uddesika** (memorial stupas marking events).
-- **Stupa worship** = **pradakshina** (clockwise walk) + offerings — no interior sanctum entry (solid structure).
+- **Stupa worship** = **pradakshina** (clockwise walk) + offerings. No interior sanctum entry (solid structure).
 - **Regional variants**: **Andhra Amaravati** (nagarajunkonda), **Gandhara** (Hadda), **Sri Lanka dagoba**, **Borobudur** (Indonesia, Mahayana mandala-stupa).
-- **Dhamek Stupa, Sarnath (UP)** — marks site of **first sermon**; massive solid cylinder — different from Sanchi anda profile.
-- **Aniconic sculpture** on early stupas — Buddha represented by **wheel, throne, footprints** — not human figure.
-- **Trap**: Stupa is **solid mound**, not hollow prayer hall — that's **chaitya**.
+- **Dhamek Stupa, Sarnath (UP)**. It marks site of **first sermon**. Massive solid cylinder. Different from Sanchi anda profile.
+- **Aniconic sculpture** on early stupas. Buddha represented by **wheel, throne, footprints**. Not human figure.
+- **Trap**: Stupa is **solid mound**, not hollow prayer hall. That's **chaitya**.
 
 > **Exam note:** **Sanchi = toranas + anda**; **Sarnath Dhamek = UP Buddhist stupa** — don't confuse with chaitya caves.
 
@@ -589,11 +589,11 @@ UP MONUMENTS:
 - Sanchi Stupa 1 = Ashoka origin, Shunga enlargement, toranas 1st c. BCE
 - Torana = gateway with Jataka carvings
 - Stupa = solid relic mound (not hollow hall)
-- Dhamek Stupa, **Sarnath, UP** — first sermon site
+- **Dhamek Stupa, Sarnath, UP**. First sermon site.
 - Bharhut, Amaravati = railings and reliefs (different schools)
 - 8 original stupas for Buddha relics (tradition)
 - Circumambulation = key ritual
-- Aniconic early art — no Buddha statue on Sanchi toranas
+- **Aniconic early art**. No Buddha statue on Sanchi toranas.
 - Sanchi UNESCO **1989**
 
 ### PYQs — Stupa
@@ -630,17 +630,17 @@ UP MONUMENTS:
 
 ### Chaitya — How It Works
 
-- **Chaitya** enables **group worship** facing stupa — unlike solid stupa circumambulation alone.
-- **Plan**: rectangular hall → **columns divide nave and aisles** → **apse** with stupa at far end → **entrance** often with **horse-shoe shaped window (gavaksha)** above doorway.
-- **Karla Chaitya (1st c. BCE–1st c. CE)** — largest rock-cut chaitya; **45 m long**; wooden-style vaulted roof carved in stone; lion capitals.
-- **Bhaja and Bedsa** — earlier simpler chaitya caves Maharashtra; establish timber-to-stone translation.
-- **Ajanta Cave 9, 10** — early chaityas (Hinayana); **Caves 19, 26** — Mahayana chaityas with **Buddha image** in apse.
-- **Kanheri, Pitalkhora, Nashik** — additional Western Ghats chaitya sites in Deccan basalt.
-- **Timber ribs** carved on ceiling — architectural **fossil** of wooden prototype tradition.
-- **Stupa in apse** not circumambulated inside narrow hall the same way — devotees sit in nave facing apse.
+- **Chaitya** enables **group worship** facing stupa. Unlike solid stupa circumambulation alone.
+- **Plan**: The order runs rectangular hall, then **columns divide nave and aisles**, then **apse** with stupa at far end, then **entrance** often with **horse-shoe shaped window (gavaksha)** above doorway.
+- **Karla Chaitya (1st c. BCE–1st c. CE)**. Largest rock-cut chaitya. **45 m long**. Wooden-style vaulted roof carved in stone. Lion capitals.
+- **Bhaja and Bedsa**. Earlier simpler chaitya caves Maharashtra. Establish timber-to-stone translation.
+- **Ajanta Cave 9, 10**. Early chaityas (Hinayana). **Caves 19, 26**. Mahayana chaityas with **Buddha image** in apse.
+- **Kanheri, Pitalkhora, Nashik**. Additional Western Ghats chaitya sites in Deccan basalt.
+- **Timber ribs** carved on ceiling. Architectural **fossil** of wooden prototype tradition.
+- **Stupa in apse** not circumambulated inside narrow hall the same way. Devotees sit in nave facing apse.
 - **Mahayana shift**: Buddha **colossal image** replaces/minimises mini-stupa focus in apse (Ajanta 26).
-- **Contrast vihara**: chaitya = **public worship**; vihara = **private monastic cells**.
-- **Trap**: Ajanta is famous for **paintings** but caves 9, 10, 19, 26 are **chaitya halls** — function ≠ vihara.
+- **Contrast vihara**: Chaitya = **public worship**. Vihara = **private monastic cells**.
+- **Trap**: Ajanta is famous for **paintings** but caves 9, 10, 19, 26 are **chaitya halls**. Function ≠ vihara.
 
 > **Exam note:** **Karla = largest chaitya**; **Ajanta 26 = Mahayana chaitya** — trap: "all Ajanta caves are viharas."
 
@@ -691,16 +691,16 @@ UP MONUMENTS:
 
 ### Vihara — How It Works
 
-- **Vihara** houses **sangha** (monastic community) — each monk gets **cell (kuti)** opening onto verandah/courtyard.
-- **Typical plan**: **central courtyard** → **verandah** → **cells** along three/four sides → sometimes **shrine room** attached.
-- **Rock-cut viharas** at **Ajanta (Caves 1–20 primarily)** — multi-storey cells, benches, doorways; many painted interiors.
+- **Vihara** houses **sangha** (monastic community). Each monk gets **cell (kuti)** opening onto verandah/courtyard.
+- **Typical plan**: The order runs **central courtyard**, then **verandah**, then **cells** along three/four sides, then sometimes **shrine room** attached.
+- **Rock-cut viharas** at **Ajanta (Caves 1–20 primarily)**. Multi-storey cells, benches, doorways. Many painted interiors.
 - **Ellora Buddhist caves (1–12)** include **vihara** layouts with Buddha shrines in ground floor.
-- **Structural mahaviharas**: **Nalanda, Vikramashila** — brick cells, lecture halls, libraries — university-scale vihara (Topic 1 institutions).
-- **Social function**: vihara = **education + meditation + community** — not public congregation hall (that's chaitya).
-- **Wealthy patrons** donated viharas — merchant guilds (Vaisali), royals (Ashoka, Guptas, Palas).
-- **Decline**: Turkic invasions (12th–13th c.) destroyed major mahaviharas — architectural tradition shifts northward to Tibet/Himalaya monasteries.
-- **Hinayana viharas** simpler; **Mahayana** adds **Buddha image shrine** within vihara cell block.
-- **Trap**: **Vihara ≠ Chaitya** — UPPCS statement "vihara is prayer hall" = **FALSE**.
+- **Structural mahaviharas**: **Nalanda, Vikramashila**. Brick cells, lecture halls, libraries. University-scale vihara (Topic 1 institutions).
+- **Social function**: vihara = **education + meditation + community**: not public congregation hall (that's chaitya).
+- **Wealthy patrons** donated viharas. Merchant guilds (Vaisali), royals (Ashoka, Guptas, Palas).
+- **Decline**: **Turkic invasions (12th–13th c.) destroyed major mahaviharas**. Architectural tradition shifts northward to Tibet/Himalaya monasteries.
+- **Hinayana viharas** simpler. **Mahayana** adds **Buddha image shrine** within vihara cell block.
+- **Trap**: **Vihara ≠ Chaitya**. UPPCS statement "vihara is prayer hall" = **FALSE**.
 
 > **Exam note:** **Ajanta painted caves = mostly viharas** (1, 2, 16, 17 famous) — paintings in monastic cells, not chaitya halls.
 
@@ -710,7 +710,7 @@ UP MONUMENTS:
 - Ajanta Caves 1–20 predominantly viharas (with paintings)
 - Mahavihara = Nalanda, Vikramashila (university scale)
 - Each cell (kuti) for one/two monks
-- Chaitya = worship; vihara = residence — don't swap
+- Chaitya = worship. Vihara = residence. Don't swap.
 - Ellora caves 1–12 = Buddhist vihara/chaitya mix
 - Rainy-season vassa retreat drives vihara need
 - Mahayana viharas include image shrines
@@ -751,17 +751,17 @@ UP MONUMENTS:
 
 ### Rock-cut Architecture — How It Works
 
-- **Rock-cut** is India's earliest large-scale sacred building method — predates widespread **structural stone** temples.
-- **Technique**: select **stable rock face** (basalt, sandstone, granite) → carve **façade** → hollow **interior** → finish **columns, sculptures**.
-- **Advantages**: permanence, monolithic strength, no separate roofing material — ceiling carved integral with hall.
-- **Buddhist phase (2nd c. BCE–3rd c. CE)**: **Western Ghats** chaitya/vihara caves — Karla, Bhaja, Ajanta, Kanheri.
-- **Hindu phase (6th–8th c.)**: **Pallava Mahabalipuram** rathas + mandapas; **Rashtrakuta Kailasa, Ellora** (monolithic temple).
-- **Jain phase**: **Ellora caves 30–34**; **Udayagiri-Khandagiri** (Odisha); **Dilwara** (structural marble, not rock-cut — trap).
+- **Rock-cut** is India's earliest large-scale sacred building method. Predates widespread **structural stone** temples.
+- **Technique**: The order runs select **stable rock face** (basalt, sandstone, granite), then carve **façade**, then hollow **interior**, then finish **columns, sculptures**.
+- **Advantages**: permanence, monolithic strength, no separate roofing material: ceiling carved integral with hall.
+- **Buddhist phase (2nd c. BCE–3rd c. CE)**: **Western Ghats** chaitya/vihara caves. Karla, Bhaja, Ajanta, Kanheri.
+- **Hindu phase (6th–8th c.)**: **Pallava Mahabalipuram** rathas + mandapas. **Rashtrakuta Kailasa, Ellora** (monolithic temple).
+- **Jain phase**: **Ellora caves 30–34**. **Udayagiri-Khandagiri** (Odisha). **Dilwara** (structural marble, not rock-cut. Trap).
 - **Ajanta** = Buddhist paintings in rock-cut viharas/chaityas (2nd c. BCE–6th c. CE).
-- **Ellora** = **34 caves**, three religions — **Kailasa (Cave 16)** carved top-down from basalt cliff — world's largest monolithic excavation.
-- **Elephanta** (Gharapuri, Mumbai harbour) — **Shaiva rock-cut** caves; **Trimurti Shiva** 6 m high.
-- **Udayagiri-Khandagiri** (Odisha) — Jain + royal caves; **Rani Gumpha** frescoes.
-- **Transition to structural**: rock-cut skills inform later stone temple carving — Pallava Shore Temple follows rock-cut phase.
+- **Ellora** = **34 caves**, three religions includes **Kailasa (Cave 16)** carved top-down from basalt cliff. World's largest monolithic excavation.
+- **Elephanta** (Gharapuri, Mumbai harbour) includes **Shaiva rock-cut** caves. **Trimurti Shiva** 6 m high.
+- **Udayagiri-Khandagiri** (Odisha). Jain + royal caves. **Rani Gumpha** frescoes.
+- **Transition to structural**: rock-cut skills inform later stone temple carving: pallava Shore Temple follows rock-cut phase.
 
 > **Exam note:** **Kailasa Ellora = monolithic Hindu rock-cut**; **Pancha Rathas = monolithic Pallava** — both rock-cut, not structural.
 
@@ -775,7 +775,7 @@ UP MONUMENTS:
 - Udayagiri-Khandagiri = Odisha Jain/royal caves
 - Karla/Bhaja = early Buddhist rock-cut chaityas
 - Rock-cut predates structural temple mainstream
-- Top-down carving at Kailasa — unique engineering
+- **Top-down carving at Kailasa**. Unique engineering.
 - Elephanta = Shaiva rock-cut near Mumbai
 
 ### PYQs — Rock-cut Architecture
@@ -812,28 +812,28 @@ UP MONUMENTS:
 
 ### Cave Architecture — How It Works
 
-- **Cave architecture** in India flourished where **horizontal basalt/sandstone strata** allowed large hall excavation — **Deccan trap** basalt ideal.
-- **Ajanta (Aurangabad, Maharashtra)**: **30 caves** — Caves **1–20** Hinayana/Mahayana Buddhist **viharas** with paintings; **9, 10, 19, 26** chaityas.
-- **Ellora (Aurangabad)**: **34 caves** — **1–12 Buddhist**, **13–29 Hindu**, **30–34 Jain** — unique tri-religious complex.
-- **Elephanta (Gharapuri)**: **Cave 1** main Shaiva hall with **Trimurti** (Maheshmurti) — **7th c.** dated to Chalukya/Pallava influence.
-- **Kanheri (Sanjay Gandhi NP, Mumbai)**: **109 caves** — large Buddhist centre; chaitya + vihara network.
+- **Cave architecture** in India flourished where **horizontal basalt/sandstone strata** allowed large hall excavation.
+- **Ajanta (Aurangabad, Maharashtra)**: **30 caves**. Caves **1–20** Hinayana/Mahayana Buddhist **viharas** with paintings. **9, 10, 19, 26** chaityas.
+- **Ellora (Aurangabad)**: **34 caves** includes **1–12 Buddhist**, **13–29 Hindu**, **30–34 Jain**. Unique tri-religious complex.
+- **Elephanta (Gharapuri)**: **Cave 1** main Shaiva hall with **Trimurti** (Maheshmurti) includes **7th c.** dated to Chalukya/Pallava influence.
+- **Kanheri (Sanjay Gandhi NP, Mumbai)**: **109 caves**. Large Buddhist centre. Chaitya + vihara network.
 - **Bhaja, Bedsa, Karla, Pitalkhora**: early **Maharashtra chaitya/vihara** caves (2nd–1st c. BCE).
-- **Bagh Caves (MP)**: paintings in **vihara** caves — Ajanta-style murals outside Maharashtra.
-- **Udayagiri (MP)**: **Gupta Hindu caves** — Cave 5 Varaha; royal inscriptional caves.
-- **Interior design**: carved **columns, pot bases, benches, water cisterns** — functional monastic architecture.
-- **Preservation challenge**: humidity, bat droppings, fungal decay on paintings (Ajanta) — ASI climate control.
-- **Trap**: **Ajanta = paintings + caves** but **Ellora = sculpture + three faiths** — don't attribute Ajanta paintings to Ellora.
+- **Bagh Caves (MP)**: paintings in **vihara** caves: ajanta-style murals outside Maharashtra.
+- **Udayagiri (MP)**: **Gupta Hindu caves**. Cave 5 Varaha. Royal inscriptional caves.
+- **Interior design**: carved **columns, pot bases, benches, water cisterns**: functional monastic architecture.
+- **Preservation challenge**: humidity, bat droppings, fungal decay on paintings (Ajanta): aSI climate control.
+- **Trap**: **Ajanta = paintings + caves** but **Ellora = sculpture + three faiths**. Don't attribute Ajanta paintings to Ellora.
 
 > **Exam note:** **Ajanta UNESCO 1983; Ellora 1986; Elephanta 1987** — chronology of WH inscription useful for match questions.
 
 ### Exam Facts (raata)
 
-- Ajanta 30 caves — Buddhist paintings + vihara/chaitya
-- Ellora 34 caves — Buddhist 1–12, Hindu 13–29, Jain 30–34
-- Elephanta Cave 1 — Trimurti Shiva
-- Kanheri 109 caves — Mumbai Buddhist complex
-- Bagh Caves MP — painted viharas
-- Udayagiri MP — Gupta Varaha cave
+- **Ajanta 30 caves**. Buddhist paintings + vihara/chaitya.
+- **Ellora 34 caves**. Buddhist 1–12, Hindu 13–29, Jain 30–34.
+- **Elephanta Cave 1**. Trimurti Shiva.
+- **Kanheri 109 caves**. Mumbai Buddhist complex.
+- **Bagh Caves MP**. Painted viharas.
+- **Udayagiri MP**. Gupta Varaha cave.
 - Cave architecture needs suitable rock strata (basalt)
 - ASI maintains Ajanta/Ellora/Elephanta
 - Ajanta WH **1983**, Ellora **1986**, Elephanta **1987**
@@ -873,16 +873,16 @@ UP MONUMENTS:
 
 ### Indo-Islamic Architecture — How It Works
 
-- **Indo-Islamic** begins with **Delhi Sultanate (13th–16th c.)** — new structural vocabulary: **pointed/true arch**, **dome**, **minaret**, **mihrab** (prayer niche).
-- **Early Sultanate** reuses material from temples — **Quwwat-ul-Islam Mosque, Qutub complex** incorporates Hindu-Jain pillars.
-- **Qutub Minar** (started **Qutb-ud-din Aibak 1199**, completed **Iltutmish**) — **72.5 m**, tapering fluted tower; **red sandstone + marble** bands.
-- **Alai Darwaza** (Khalji) — early **true dome** example in India at Qutub complex.
-- **Tughlaq** phase — **massive rubble fortifications** (Tughlaqabad), **battered walls**, austerity; **Firoz Shah Kotla**.
-- **Sayyid/Lodi** — **octagonal tombs** in **Lodi Gardens** (Delhi); **Moth ki Masjid**.
+- **Indo-Islamic** begins with **Delhi Sultanate (13th–16th c.)**. New structural vocabulary: **pointed/true arch**, **dome**, **minaret**, **mihrab** (prayer niche).
+- **Early Sultanate** reuses material from temples includes **Quwwat-ul-Islam Mosque, Qutub complex** incorporates Hindu-Jain pillars.
+- **Qutub Minar** (started **Qutb-ud-din Aibak 1199**, completed **Iltutmish**) includes **72.5 m**, tapering fluted tower. **Red sandstone + marble** bands.
+- **Alai Darwaza** (Khalji). Early **true dome** example in India at Qutub complex.
+- **Tughlaq** phase includes **massive rubble fortifications** (Tughlaqabad), **battered walls**, austerity. **Firoz Shah Kotla**.
+- **Sayyid/Lodi** includes **octagonal tombs** in **Lodi Gardens** (Delhi). **Moth ki Masjid**.
 - **Provincial Sultanates**: **Jaunpur Atala Masjid** (Sharqi, UP), **Bengal brick mosques** (curved bangla roof), **Bijapur Gol Gumbaz** (Adil Shahi, whispering gallery dome).
 - **Decoration**: **arabesque**, **calligraphy**, **jali screens**, **chhajja** (eave projection), **chhatri** (domed kiosk from Rajput synthesis).
-- **Mihrab** orients mosque toward **Mecca**; **minbar** (pulpit) for sermon; **courtyard (sahn)** for Friday congregation.
-- **No human/animal figures** in religious spaces — geometric/floral/calligraphic ornament dominates (contrast Hindu temple sculpture).
+- **Mihrab** orients mosque toward **Mecca**. **Minbar** (pulpit) for sermon. **Courtyard (sahn)** for Friday congregation.
+- **No human/animal figures** in religious spaces. It geometric/floral/calligraphic ornament dominates (contrast Hindu temple sculpture).
 - **Transition to Mughal**: Indo-Islamic provincial experiments feed **Mughal imperial synthesis** (Humayun's Tomb bridge).
 
 > **Exam note:** **Qutub Minar = Aibak start, Iltutmish completion** — trap: attributing to Iltutmish alone or calling it a mosque.
@@ -890,8 +890,8 @@ UP MONUMENTS:
 ### Exam Facts (raata)
 
 - Indo-Islamic = arch + dome + minaret + jali
-- Qutub Minar ~**72.5 m**; begun **1199** by Qutb-ud-din Aibak
-- Quwwat-ul-Islam = earliest Delhi mosque; reused temple pillars
+- Qutub Minar ~**72.5 m**. Begun **1199** by Qutb-ud-din Aibak.
+- Quwwat-ul-Islam = earliest Delhi mosque. Reused temple pillars.
 - Alai Darwaza = Khalji, true dome example
 - Lodi Gardens = octagonal tombs (Delhi)
 - Gol Gumbaz Bijapur = second largest dome span (Adil Shahi)
@@ -934,15 +934,15 @@ UP MONUMENTS:
 
 ### Mughal Architecture — How It Works
 
-- **Mughal architecture** matures from **Humayun's Tomb (1565–72)** — first grand **charbagh garden tomb** on Indian soil (Mirak Mirza Ghiyas).
-- **Akbar (1556–1605)** — **red sandstone** + **Hindu-Jain decorative motifs** at **Fatehpur Sikri** and **Agra Fort**; experimental syncretism.
-- **Buland Darwaza, Fatehpur Sikri** — Akbar built **1576–77** to commemorate **Gujarat campaign victory** — NOT Jahangir's birth (UPPCS 2025 Q49 trap).
-- **Jahangir** — **Lahore tomb** in **Dilkusha Chahar Bagh** (Shahdara); **white marble** preference grows.
-- **Shah Jahan (1628–58)** — peak marble phase: **Taj Mahal (1632–53)**, **Red Fort Delhi**, **Jama Masjid Delhi**, **Pearl Mosque**.
-- **Taj Mahal** — mausoleum of **Mumtaz Mahal**; **Ustad Ahmad Lahori** architect tradition; **symmetrical charbagh**, **onion dome**, **four minarets** flanking.
-- **Domes**: **onion-shaped (stilted)** external dome over **double dome** interior (echo reduction); **kalash finial** gilded.
-- **Parchin kari (pietra dura)** — semi-precious stone inlays in white marble — Shah Jahan phase hallmark.
-- **Decline phase (Aurangzeb onward)**: simpler **mosques** (Badshahi Lahore); less monumental tomb building; **regional nawabi** styles emerge.
+- **Mughal architecture** matures from **Humayun's Tomb (1565–72)**. First grand **charbagh garden tomb** on Indian soil (Mirak Mirza Ghiyas).
+- **Akbar (1556–1605)** includes **red sandstone** + **Hindu-Jain decorative motifs** at **Fatehpur Sikri** and **Agra Fort**. Experimental syncretism.
+- **Buland Darwaza, Fatehpur Sikri**. Akbar built **1576–77** to commemorate **Gujarat campaign victory**. NOT Jahangir's birth (UPPCS 2025 Q49 trap).
+- **Jahangir** includes **Lahore tomb** in **Dilkusha Chahar Bagh** (Shahdara). **White marble** preference grows.
+- **Shah Jahan (1628–58)** began the marble phase in **1632**. Peak marble phase: **Taj Mahal (–53)**, **Red Fort Delhi**, **Jama Masjid Delhi**, **Pearl Mosque**.
+- **Taj Mahal**. Mausoleum of **Mumtaz Mahal**. **Ustad Ahmad Lahori** architect tradition. **Symmetrical charbagh**, **onion dome**, **four minarets** flanking.
+- **Domes**: **Onion-shaped (stilted)** external dome over **double dome** interior (echo reduction). **Kalash finial** gilded.
+- **Parchin kari (pietra dura)**. Semi-precious stone inlays in white marble. Shah Jahan phase hallmark.
+- **Decline phase (Aurangzeb onward)**: Simpler **mosques** (Badshahi Lahore). Less monumental tomb building. **Regional nawabi** styles emerge.
 - **UP concentration**: **Agra** (Taj, Fort, Sikri), **Fatehpur Sikri** (entire city UNESCO), **Sikandra** (Akbar tomb).
 
 > **Exam note:** **UPPCS 2025 Q49** — Buland Darwaza A=true, R=false (Gujarat victory, not Jahangir birth) → **Ans C**. **Q57 tombs: Babur-Kabul(4), Humayun-Delhi(3), Jahangir-Lahore(2), Shah Jahan-Agra(1)** → **Ans A**.
@@ -950,14 +950,14 @@ UP MONUMENTS:
 ### Exam Facts (raata)
 
 - Humayun's Tomb = first major Mughal garden tomb (Delhi, 1572)
-- Akbar = red sandstone; Fatehpur Sikri UNESCO **1986**
+- Akbar = red sandstone. Fatehpur Sikri UNESCO **1986**.
 - Buland Darwaza = **Gujarat victory 1576–77** (NOT Jahangir birth)
-- Shah Jahan = marble peak — Taj Mahal **1632–53**
+- **Shah Jahan** marks the marble peak from **1632**. Taj Mahal **–53**.
 - Charbagh = four-part paradise garden
 - Pietra dura = inlaid marble floral work
 - Taj architect tradition: Ustad Ahmad Lahori
 - Mughal tombs: Babur-Kabul | Humayun-Delhi | Jahangir-Lahore | Shah Jahan-Agra
-- Double dome technique — outer onion + inner ceiling
+- **Double dome technique**. Outer onion + inner ceiling.
 - Jama Masjid Delhi + Red Fort = Shah Jahan Delhi capital works
 
 ### PYQs — Mughal Architecture
@@ -989,16 +989,16 @@ UP MONUMENTS:
 
 ### Ancient Indian Architecture — How It Works
 
-- **Harappan (IVC, c. 2600–1900 BCE)**: **grid-planned cities** (Mohenjo-daro, Harappa, **Dholavira**, **Lothal**); **burnt brick**; **covered drains**; **Great Bath** ritual tank.
-- **Wooden architecture** dominated early historic north India — perishable; known from **literature + archaeological impressions** (Mauryan palace pillars).
+- **Harappan (IVC, c. 2600–1900 BCE)**: **Grid-planned cities** (Mohenjo-daro, Harappa, **Dholavira**, **Lothal**). **Burnt brick**. **Covered drains**. **Great Bath** ritual tank.
+- **Wooden architecture** dominated early historic north India. Perishable. Known from **literature + archaeological impressions** (Mauryan palace pillars).
 - **Mauryan (3rd c. BCE)**: **polished sandstone pillars** (Ashoka), **stupa building** (Sanchi core), **timber palace** at Pataliputra (Megasthenes account).
-- **Rock-cut begins** late Mauryan/early Shunga — **Barabar caves** (Bihar) donated to Ajivikas — earliest surviving cave architecture.
+- **Rock-cut begins** late Mauryan/early Shunga.
 - **Shunga/Kushana**: **stupa railings** (Bharhut, Sanchi toranas), **Gandhara/Matthura** sculpture traditions (Topic 12).
-- **Gupta (4th–6th c.)**: **structural Hindu temples** begin (Deogarh); **Udayagiri Varaha**; **Ajanta painting** late phase.
+- **Gupta (4th–6th c.)**: **Structural Hindu temples** begin (Deogarh). **Udayagiri Varaha**. **Ajanta painting** late phase.
 - **Secular**: **fortifications**, **urban gateways**, **reservoirs** (Sudarshana lake tradition), **guild halls**.
-- **Materials evolution**: **mud-brick → burnt brick → timber → stone** as empires consolidate quarrying.
-- **Alamgirpur (UP)** — easternmost IVC site — Harappan craft traditions in Gangetic plain.
-- **No true arch** in ancient Indian tradition before Indo-Islamic — corbelled spans (stone projecting courses) used.
+- **Materials evolution**: The order runs **mud-brick, then burnt brick, then timber, then stone** as empires consolidate quarrying.
+- **Alamgirpur (UP)**. Easternmost IVC site. Harappan craft traditions in Gangetic plain.
+- **No true arch** in ancient Indian tradition before Indo-Islamic. It corbelled spans (stone projecting courses) used.
 
 > **Exam note:** **Harappan = drainage + grid plan**; **Gupta = first stone temples** — chronological ordering favourite in UPPCS.
 
@@ -1048,24 +1048,24 @@ UP MONUMENTS:
 
 ### Medieval Indian Architecture — How It Works
 
-- **Medieval period** spans **post-Gupta temple maturity** through **Mughal decline** — most exam-weight architecture lies here.
+- **Medieval period** spans **post-Gupta temple maturity** through **Mughal decline**. Most exam-weight architecture lies here.
 - **Hindu temple medieval peak**: **Chola Dravida** (1010 Brihadeeswara), **Chandela Nagara** (Khajuraho), **Odisha rekha** (Konark), **Hoysala Vesara** (Belur).
-- **Delhi Sultanate (13th–16th c.)** introduces **Indo-Islamic** vocabulary — Qutub complex, Tughlaq forts, Lodi tombs.
-- **Mughal (16th–18th c.)** imperial synthesis — garden tombs, forts, mosques (see §3.15).
-- **Vijayanagara (14th–16th c.)**: **Hampi** — **Virupaksha**, **Vitthala** stone chariot, **Lotus Mahal**, **Hazara Rama**; Dravida gopuram emphasis.
-- **Bahmani/Deccan Sultanates**: **Bidar**, **Golconda**, **Bijapur Gol Gumbaz** — Persian influence + local Deccan craft.
-- **Rajput architecture**: **hill forts** (Chittor, Kumbhalgarh), **palace complexes** (Udaipur City Palace), **Jain/Hindu temples** — syncretic with Mughal elements in 16th–17th c.
-- **Bengal Sultanate**: **curved bangla roof** in brick mosques — adapts to monsoon climate.
-- **Sharqi Jaunpur (UP)**: **Atala Masjid** — tall **pylon** style gateway, provincial Indo-Islamic.
-- **Maratha later medieval**: **Shaniwar Wada** Pune — fort-palace blending Indic and Mughal garden elements.
+- **Delhi Sultanate (13th–16th c.)** introduces **Indo-Islamic** vocabulary. Qutub complex, Tughlaq forts, Lodi tombs.
+- **Mughal (16th–18th c.)** imperial synthesis. Garden tombs, forts, mosques (see §3.15).
+- **Vijayanagara (14th–16th c.)**: **Hampi** includes **Virupaksha**, **Vitthala** stone chariot, **Lotus Mahal**, **Hazara Rama**. Dravida gopuram emphasis.
+- **Bahmani/Deccan Sultanates**: **Bidar**, **Golconda**, **Bijapur Gol Gumbaz**. Persian influence + local Deccan craft.
+- **Rajput architecture**: **hill forts** (Chittor, Kumbhalgarh), **palace complexes** (Udaipur City Palace), **Jain/Hindu temples**. Syncretic with Mughal elements in 16th–17th c.
+- **Bengal Sultanate**: **curved bangla roof** in brick mosques. Adapts to monsoon climate.
+- **Sharqi Jaunpur (UP)**: **Atala Masjid**. Tall **pylon** style gateway, provincial Indo-Islamic.
+- **Maratha later medieval**: **Shaniwar Wada** Pune. Fort-palace blending Indic and Mughal garden elements.
 
 > **Exam note:** **Medieval ≠ only Mughal** — UPPCS tests **Jaunpur Sharqi (UP)**, **Vijayanagara**, **Chola** as co-equal medieval traditions.
 
 ### Exam Facts (raata)
 
-- Medieval = ~7th–18th c. — temples + Sultanate + Mughal + regional
+- **Medieval = ~7th–18th c.**. Temples + Sultanate + Mughal + regional.
 - Chola, Chandela, Hoysala = Hindu medieval peaks
-- Vijayanagara Hampi — UNESCO 1986
+- **Vijayanagara (Hampi)** became a UNESCO site in **1986**. UNESCO.
 - Jaunpur Atala Masjid = Sharqi UP Indo-Islamic
 - Gol Gumbaz Bijapur = Deccan Sultanate dome
 - Rajput forts = Chittor, Kumbhalgarh, Mehrangarh
@@ -1107,31 +1107,31 @@ UP MONUMENTS:
 
 ### Taj Mahal — How It Works
 
-- **Commissioned 1632**, completed **~1653** — Shah Jahan's reign; main architect tradition names **Ustad Ahmad Lahori** (also Red Fort Delhi).
-- **Location**: **Agra, Uttar Pradesh** — south bank of **Yamuna**; aligns with **Agra Fort** axis across river.
-- **Plan**: **charbagh** garden (four quadrants) with **central water channel** reflecting tomb — paradise symbolism.
-- **Materials**: **white Makrana marble** primary; **red sandstone** ancillary buildings (gateway, mosque, jawab/mehman khana).
-- **Structure**: **double dome** — outer onion dome, inner lower dome; **four minarets** at corners (slightly tilted outward for safety).
-- **Pietra dura inlay**: **carnelian, jade, lapis lazuli, crystal** — floral arabesques on marble panels.
-- **Calligraphy**: **Quranic verses** by **Amanat Khan** — increasing size illusion toward top.
-- **Symmetry**: main tomb **bilaterally symmetrical**; only **Shah Jahan's cenotaph** (later added) breaks perfect symmetry beside Mumtaz.
-- **UNESCO World Heritage**: inscribed **1983** — "jewel of Muslim art in India."
-- **Trap**: Taj is **mausoleum/mosque complex**, not palace; **not built by Akbar** (Shah Jahan).
+- **Commissioned 1632**, completed **~1653**. Shah Jahan's reign. Main architect tradition names **Ustad Ahmad Lahori** (also Red Fort Delhi).
+- **Location**: **Agra, Uttar Pradesh**. South bank of **Yamuna**. Aligns with **Agra Fort** axis across river.
+- **Plan**: **charbagh** garden (four quadrants) with **central water channel** reflecting tomb. Paradise symbolism.
+- **Materials**: **White Makrana marble** primary. **Red sandstone** ancillary buildings (gateway, mosque, jawab/mehman khana).
+- **Structure**: **Double dome**. Outer onion dome, inner lower dome. **Four minarets** at corners (slightly tilted outward for safety).
+- **Pietra dura inlay**: **carnelian, jade, lapis lazuli, crystal**. Floral arabesques on marble panels.
+- **Calligraphy**: **Quranic verses** by **Amanat Khan**. Increasing size illusion toward top.
+- **Symmetry**: Main tomb **bilaterally symmetrical**. Only **Shah Jahan's cenotaph** (later added) breaks perfect symmetry beside Mumtaz.
+- **UNESCO World Heritage**: inscribed **1983**. "Jewel of Muslim art in India.".
+- **Trap**: Taj is **mausoleum/mosque complex**, not palace. **Not built by Akbar** (Shah Jahan).
 
 > **Exam note:** **Taj = Agra UP + Shah Jahan + 1632–53 + charbagh + marble** — trap: Jahangir or Akbar as builder.
 
 ### Exam Facts (raata)
 
-- Shah Jahan for Mumtaz Mahal; **1632–1653**
-- Agra, **UP** — Yamuna south bank
+- Shah Jahan for Mumtaz Mahal. **1632–1653**.
+- **Agra, UP**. Yamuna south bank.
 - White Makrana marble + pietra dura
 - Charbagh garden layout
-- Four minarets; double dome
+- Four minarets. Double dome.
 - UNESCO **1983**
 - Architect: Ustad Ahmad Lahori (tradition)
 - Mosque + jawab flank mausoleum
-- Not a palace — funerary monument
-- ASI protected; night viewing limited tickets
+- **Not a palace**. Funerary monument.
+- ASI protected. Night viewing limited tickets.
 
 ### PYQs — Taj Mahal
 
@@ -1166,31 +1166,31 @@ UP MONUMENTS:
 
 ### Qutub Minar — How It Works
 
-- **Construction began 1199** under **Qutb-ud-din Aibak** (Delhi Sultanate founder) — he completed **first storey**.
-- **Iltutmish** (1211–36) added **three more storeys** — **red sandstone + marble** alternating bands.
-- **Fifth storey** rebuilt by **Firoz Shah Tughlaq (1368)** after lightning damage — marble-sandstone mix.
-- **Height**: approximately **72.5–73 m**; **diameter** tapers from **14.3 m** base to **2.7 m** top.
-- **Fluted shaft** with **balconies** on **mukarnas** (stalactite) brackets — each storey accessed by internal spiral stair (closed to public after accidents).
-- **Quwwat-ul-Islam Mosque** (1192–97) at base — **earliest mosque in Delhi**; **27 Hindu-Jain temple pillars** reused.
-- **Iron Pillar** (Gupta, 4th c. CE) stands in mosque courtyard — **98% wrought iron**, rust-resistant; **Chandra inscription**.
-- **Alai Darwaza** (1311) — **Alauddin Khalji** — first building with **true arch + dome** combination in complex.
-- **UNESCO World Heritage** — inscribed **1993** as part of Qutub Minar and its Monuments, Delhi.
-- **Trap**: Qutub Minar is in **Delhi, NOT UP** — negative geography for UPPCS.
+- **Construction began 1199** under **Qutb-ud-din Aibak** (Delhi Sultanate founder). He completed **first storey**.
+- **Iltutmish** (1211–36) added **three more storeys** includes **red sandstone + marble** alternating bands.
+- **Fifth storey** rebuilt by **Firoz Shah Tughlaq (1368)** after lightning damage. Marble-sandstone mix.
+- **Height**: Approximately **72.5–73 m**. **Diameter** tapers from **14.3 m** base to **2.7 m** top.
+- **Fluted shaft** with **balconies** on **mukarnas** (stalactite) brackets. Each storey accessed by internal spiral stair (closed to public after accidents).
+- **Quwwat-ul-Islam Mosque** (1192–97) at base includes **earliest mosque in Delhi**. **27 Hindu-Jain temple pillars** reused.
+- **Iron Pillar** (Gupta, 4th c. CE) stands in mosque courtyard.
+- **Alai Darwaza** (1311) includes **Alauddin Khalji**. First building with **true arch + dome** combination in complex.
+- **UNESCO World Heritage**. It inscribed **1993** as part of Qutub Minar and its Monuments, Delhi.
+- **Trap**: Qutub Minar is in **Delhi, NOT UP**. Negative geography for UPPCS.
 
 > **Exam note:** **Aibak started, Iltutmish expanded** — trap: single-ruler attribution; **Iron Pillar = Gupta, not Sultanate**.
 
 ### Exam Facts (raata)
 
 - Began **1199**, Qutb-ud-din Aibak
-- Iltutmish added storeys; Firoz Shah repaired 5th
-- Height ~**72.5 m** — tallest brick minaret in world tradition
+- Iltutmish added storeys. Firoz Shah repaired 5th.
+- **Height ~**72.5 m***. Tallest brick minaret in world tradition.
 - Quwwat-ul-Islam = earliest Delhi mosque
-- Iron Pillar = Gupta, Mehrauli — rust-resistant
+- **Iron Pillar = Gupta, Mehrauli**. Rust-resistant.
 - Alai Darwaza = Khalji 1311, true dome
 - UNESCO **1993**
 - Location: **Mehrauli, Delhi** (NOT UP)
 - Fluted red sandstone + marble bands
-- Reused temple pillars in mosque — early Sultanate practice
+- **Reused temple pillars in mosque**. Early Sultanate practice.
 
 ### PYQs — Qutub Minar
 
@@ -1225,29 +1225,29 @@ UP MONUMENTS:
 
 ### Konark Sun Temple — How It Works
 
-- Built by **Ganga king Narasimhadeva I** — **c. 1250 CE** (13th century) at **Konark, Odisha** (eastern coast).
-- **Nagara style** (Odisha rekha deul) — **NOT Dravida** despite southern location geography trap.
-- **Chariot form**: main sanctum conceived as **Surya's ratha** — **24 carved stone wheels** (12 pairs), **seven horses** (mostly ruined) pulling temple east toward sunrise.
-- **Sandstone** construction — **Kalinga school** sculpture: maithuna, musicians, mythical beasts on jangha.
-- **Jagamohana** (assembly hall) roof collapsed historically — main shikhara also fell; **sanctum profile** survives partially.
-- **Sun worship alignment**: temple axis oriented to **dawn** — Surya iconography dominates niches.
-- **Magnet legend**: historical accounts mention **lodestone dome** affecting compass of ships — debated by archaeologists.
-- **UNESCO World Heritage**: **1984** — "masterpiece of creative genius."
-- **Konark Dance Festival**: annual cultural event at temple precinct — performing arts link (Topic 6/7).
-- **Trap**: **Narasimhadeva I (Ganga)** built Konark — NOT Rajaraja Chola (Brihadeeswara) or Akbar.
+- Built by **Ganga king Narasimhadeva I**. **C. 1250 CE** (13th century) at **Konark, Odisha** (eastern coast).
+- **Nagara style** (Odisha rekha deul) includes **NOT Dravida** despite southern location geography trap.
+- **Chariot form**: main sanctum conceived as **Surya's ratha**: **24 carved stone wheels** (12 pairs), **seven horses** (mostly ruined) pulling temple east toward sunrise.
+- **Sandstone** construction includes **Kalinga school** sculpture: maithuna, musicians, mythical beasts on jangha.
+- **Jagamohana** (assembly hall) roof collapsed historically. Main shikhara also fell. **Sanctum profile** survives partially.
+- **Sun worship alignment**: temple axis oriented to **dawn**. Surya iconography dominates niches.
+- **Magnet legend**: historical accounts mention **lodestone dome** affecting compass of ships: debated by archaeologists.
+- **UNESCO World Heritage**: **1984** includes "masterpiece of creative genius.".
+- **Konark Dance Festival**: annual cultural event at temple precinct: performing arts link (Topic 6/7).
+- **Trap**: **Narasimhadeva I (Ganga)** built Konark. NOT Rajaraja Chola (Brihadeeswara) or Akbar.
 
 > **Exam note:** **Konark = Odisha + Nagara + chariot wheels + Narasimhadeva I** — style trap is #1 error.
 
 ### Exam Facts (raata)
 
 - Narasimhadeva I, Ganga dynasty, **~1250 CE**
-- Odisha coast — **Nagara rekha** (Kalinga)
+- **Odisha coast** includes **Nagara rekha** (Kalinga).
 - 24 stone wheels on chariot platform
 - Dedicated to **Surya** (Sun god)
 - Sandstone Kalinga sculpture
 - Partially collapsed jagamohana and shikhara
 - UNESCO **1984**
-- NOT Dravida — Nagara school
+- **NOT Dravida**. Nagara school.
 - Konark Dance Festival annual
 - Near Puri-Bhubaneswar temple triangle
 
@@ -1284,23 +1284,23 @@ UP MONUMENTS:
 
 ### Khajuraho Group of Monuments — How It Works
 
-- **Chandela rulers** (Yashovarman, Dhanga, Vidyadhara) built **85 temples** originally — **25 survive** today.
-- **Location**: **Khajuraho, Chhatarpur district, Madhya Pradesh** — **NOT Uttar Pradesh** (geography trap).
-- **Nagara style** — **sandstone shikhara** temples on **high jagati** platforms.
+- **Chandela rulers** (Yashovarman, Dhanga, Vidyadhara) built **85 temples** originally.
+- **Location**: **Khajuraho, Chhatarpur district, Madhya Pradesh** includes **NOT Uttar Pradesh** (geography trap).
+- **Nagara style** includes **sandstone shikhara** temples on **high jagati** platforms.
 - **Western Group**: **Lakshmana** (Vaishnava), **Vishvanatha** (Shiva), **Kandariya Mahadeva** (Shiva, tallest ~31 m).
-- **Eastern Group**: **Jain temples** (Parsvanath, Adinath) — shows Chandela patronage of multiple faiths.
-- **Sculpture programme**: **divine figures**, **apsaras**, **mithuna** (erotic couples) — **~10% erotic**, majority spiritual/daily life per ASI.
-- **Erotic panels** symbolise **moksha path through kama** in some interpretations — exam focus is **Chandela + Nagara + MP**.
-- **UNESCO World Heritage**: **1986** — "outstanding synthesis of architecture and sculpture."
-- **Chausath Yogini temple** (ruined circular yogini shrine) — among earliest on site — **64 yogini** tradition.
-- **Trap**: Khajuraho in **MP, not UP** — UPPCS negative list favourite.
+- **Eastern Group**: **Jain temples** (Parsvanath, Adinath). Shows Chandela patronage of multiple faiths.
+- **Sculpture programme**: **divine figures**, **apsaras**, **mithuna** (erotic couples) includes **~10% erotic**, majority spiritual/daily life per ASI.
+- **Erotic panels** symbolise **moksha path through kama** in some interpretations. It exam focus is **Chandela + Nagara + MP**.
+- **UNESCO World Heritage**: **1986** includes "outstanding synthesis of architecture and sculpture.".
+- **Chausath Yogini temple** (ruined circular yogini shrine). Among earliest on site.
+- **Trap**: **Khajuraho in MP, not UP**. UPPCS negative list favourite.
 
 > **Exam note:** **Chandela + Nagara + MP + 10th–11th c.** — erotic sculpture is distinguishing feature but dynasty/location matter more.
 
 ### Exam Facts (raata)
 
 - Chandela dynasty, **10th–11th c.**
-- **Madhya Pradesh** (Chhatarpur) — NOT UP
+- **Madhya Pradesh** (Chhatarpur). NOT UP.
 - 25 surviving of ~85 original temples
 - Kandariya Mahadeva = largest Shiva temple
 - Nagara sandstone shikhara on jagati
@@ -1343,31 +1343,31 @@ UP MONUMENTS:
 
 ### Brihadeeswara Temple — How It Works
 
-- Built by **Rajaraja I** (Chola) — **completed 1010 CE** — commemorates Chola imperial power.
-- **Thanjavur (Tanjore), Tamil Nadu** — **Dravida style** granite vimana rising **~66 m** (216 ft).
-- **Vimana** = **13-storey** pyramidal tower above garbhagriha — among tallest temple towers globally.
-- **Nandi mandapa**: monolithic **Nandi** bull **~12 ft** high, **16 ft long** — carved from single granite block.
-- **Garbhagriha Shiva lingam**: **13 ft** high monolithic lingam — scale matches imperial theology.
-- **Frescoes** on circumambulatory passage walls — Chola painting (partially preserved).
-- **Inscriptions**: detailed **Rajaraja's donations**, 400 dancers, 50 musicians — temple as economic institution.
-- **UNESCO World Heritage**: **1987** — part of "Great Living Chola Temples" (with Gangaikondacholapuram, Darasuram).
-- **Living temple**: continuous worship 1000+ years — not archaeological ruin.
-- **Trap**: **Dravida, not Nagara**; **Rajaraja I, not Rajendra or Krishnadevaraya**.
+- Built by **Rajaraja I** (Chola). **Completed 1010 CE**. Commemorates Chola imperial power.
+- **Thanjavur (Tanjore), Tamil Nadu** includes **Dravida style** granite vimana rising **~66 m** (216 ft).
+- **Vimana** = **13-storey** pyramidal tower above garbhagriha. Among tallest temple towers globally.
+- **Nandi mandapa**: monolithic **Nandi** bull **~12 ft** high, **16 ft long**: carved from single granite block.
+- **Garbhagriha Shiva lingam**: **13 ft** high monolithic lingam. Scale matches imperial theology.
+- **Frescoes** on circumambulatory passage walls. Chola painting (partially preserved).
+- **Inscriptions**: detailed **Rajaraja's donations**, 400 dancers, 50 musicians: temple as economic institution.
+- **UNESCO World Heritage**: **1987**. Part of "Great Living Chola Temples" (with Gangaikondacholapuram, Darasuram).
+- **Living temple**: continuous worship 1000+ years. Not archaeological ruin.
+- **Trap**: **Dravida, not Nagara**. **Rajaraja I, not Rajendra or Krishnadevaraya**.
 
 > **Exam note:** **1010 + Rajaraja I + Thanjavur + Dravida** — four-point raata set for every UPPCS paper.
 
 ### Exam Facts (raata)
 
-- Rajaraja I, Chola — **1010 CE**
-- Thanjavur, **Tamil Nadu** — Dravida vimana
-- Vimana height ~**66 m** — 13 storeys
+- **Rajaraja I (Chola)** built the Brihadeeswara Temple in **1010 CE**. ** CE**.
+- **Thanjavur, Tamil Nadu**. Dravida vimana.
+- **Vimana height ~**66 m*** includes 13 storeys.
 - Monolithic Nandi + large Shiva lingam
 - Granite construction
-- UNESCO **1987** — Great Living Chola Temples
+- **UNESCO 1987**. Great Living Chola Temples.
 - Frescoes in pradakshina passage
 - Inscriptions document temple staff/land grants
 - Also called Big Temple / Rajarajeshwara
-- Active worship continues — living heritage
+- Active worship continues. Living heritage.
 
 ### PYQs — Brihadeeswara Temple
 
@@ -1402,16 +1402,16 @@ UP MONUMENTS:
 
 ### Sanchi Stupa — How It Works
 
-- **Sanchi hill**, **Raisen district, Madhya Pradesh** — major Buddhist centre **3rd c. BCE – 12th c. CE**.
-- **Stupa 1 (Great Stupa)**: core attributed to **Ashoka (3rd c. BCE)**; **encased and enlarged Shunga period (2nd c. BCE)**.
-- **Diameter** of anda ~**36 m**; **height** with harmika/chhatra ~**16 m** (before toranas).
-- **Four toranas** (east, west, north, south) added **1st c. BCE** — **Shunga/Satavahana** patronage tradition.
-- **Torana sculpture**: **Jataka tales**, **Buddha's life events** in **aniconic** form (tree, wheel, footprints) — no human Buddha figure on early gateways.
-- **Stupas 2, 3** smaller on same hill; **Stupa 3** contained relics of **Sariputta and Mahamoggallana** (disciples).
-- **Gupta Temple 17** nearby — shows Hindu structural temple emergence beside Buddhist monuments.
-- **UNESCO World Heritage**: **1989** — "oldest Buddhist sanctuary in existence."
-- **Not a rock-cut site** — structural brick/stone stupa — trap vs Ajanta/Ellora.
-- **UP link**: Sanchi is **MP, not UP** — contrast with **Sarnath Dhamek Stupa (UP)**.
+- **Sanchi hill**, **Raisen district, Madhya Pradesh**. Major Buddhist centre **3rd c. BCE – 12th c. CE**.
+- **Stupa 1 (Great Stupa)**: Core attributed to **Ashoka (3rd c. BCE)**. **Encased and enlarged Shunga period (2nd c. BCE)**.
+- **Diameter** of anda ~**36 m**. **Height** with harmika/chhatra ~**16 m** (before toranas).
+- **Four toranas** (east, west, north, south) added **1st c. BCE** includes **Shunga/Satavahana** patronage tradition.
+- **Torana sculpture**: **Jataka tales**, **Buddha's life events** in **aniconic** form (tree, wheel, footprints). No human Buddha figure on early gateways.
+- **Stupas 2, 3** smaller on same hill. **Stupa 3** contained relics of **Sariputta and Mahamoggallana** (disciples).
+- **Gupta Temple 17** nearby. Shows Hindu structural temple emergence beside Buddhist monuments.
+- **UNESCO World Heritage**: **1989** includes "oldest Buddhist sanctuary in existence.".
+- **Not a rock-cut site**. Structural brick/stone stupa. Trap vs Ajanta/Ellora.
+- **UP link**: Sanchi is **MP, not UP**. Contrast with **Sarnath Dhamek Stupa (UP)**.
 
 > **Exam note:** **Sanchi = toranas + Ashoka + MP**; **Sarnath = Dhamek + first sermon + UP** — don't swap locations.
 
@@ -1419,14 +1419,14 @@ UP MONUMENTS:
 
 - Sanchi, **Madhya Pradesh** (Raisen district)
 - Great Stupa = Ashoka origin, Shunga enlargement
-- Four toranas — 1st c. BCE carving
+- **Four toranas** includes 1st c. BCE carving.
 - Aniconic Buddha representation on toranas
 - Stupa 3 = Sariputta/Mahamoggallana relics
 - Temple 17 = early Gupta structural shrine nearby
 - UNESCO **1989**
-- Solid anda — not chaitya hall
+- **Solid anda**. Not chaitya hall.
 - Brick and stone construction
-- NOT in UP — Sarnath is UP stupa site
+- NOT in UP. Sarnath is UP stupa site.
 
 ### PYQs — Sanchi Stupa
 
@@ -1462,28 +1462,28 @@ UP MONUMENTS:
 ### Mahabalipuram — How It Works
 
 - **Pallava dynasty** (7th–8th c.) architectural showcase on **Coromandel coast**, **Tamil Nadu**.
-- **Pancha Rathas (7th c.)**: five **monolithic** temples — **Draupadi** (hut-aisled), **Arjuna**, **Bhima**, **Dharmaraja**, **Nakula-Sahadeva** (twin) — each different elevation style experiment.
-- **Arjuna's Penance / Descent of Ganga**: largest **open-air rock relief** — **27 m × 9 m** — natural fissure as Ganga river.
-- **Mandapas**: **Mahishasuramardini**, **Varaha**, **Panchapandava** — shallow rock-cut halls with sculpted panels.
-- **Shore Temple (c. 8th c.)**: **structural Dravida** — three shrines (Shiva + Vishnu); **oldest structural temple** on coast surviving sea erosion.
-- **Recent underwater discoveries**: submerged structures offshore — suggest larger Pallava port complex.
-- **UNESCO World Heritage**: **1984** — "temple town of Pallava period."
+- **Pancha Rathas (7th c.)**: five **monolithic** temples: **Draupadi** (hut-aisled), **Arjuna**, **Bhima**, **Dharmaraja**, **Nakula-Sahadeva** (twin). Each different elevation style experiment.
+- **Arjuna's Penance / Descent of Ganga**: largest **open-air rock relief**: **27 m × 9 m**. Natural fissure as Ganga river.
+- **Mandapas**: **Mahishasuramardini**, **Varaha**, **Panchapandava**. Shallow rock-cut halls with sculpted panels.
+- **Shore Temple (c. 8th c.)**: **Structural Dravida**. Three shrines (Shiva + Vishnu). **Oldest structural temple** on coast surviving sea erosion.
+- **Recent underwater discoveries**: submerged structures offshore: suggest larger Pallava port complex.
+- **UNESCO World Heritage**: **1984** includes "temple town of Pallava period.".
 - **Mahabalipuram Dance Festival**: annual classical dance at Shore Temple backdrop.
-- **Trap**: Mahabalipuram = **Pallava + Dravida + Tamil Nadu** — NOT Odisha Nagara (Konark).
+- **Trap**: **Mahabalipuram = Pallava + Dravida + Tamil Nadu**. NOT Odisha Nagara (Konark).
 
 > **Exam note:** **Pancha Rathas = monolithic rock-cut**; **Shore Temple = structural Dravida** — both at Mahabalipuram, different techniques.
 
 ### Exam Facts (raata)
 
-- Pallava port — **Tamil Nadu** Coromandel coast
+- **Pallava port** includes **Tamil Nadu** Coromandel coast.
 - Pancha Rathas = 5 monolithic rock-cut temples
 - Arjuna's Penance = largest rock relief
-- Shore Temple ~**8th c.** — structural Dravida
+- **Shore Temple ~**8th c.***. Structural Dravida.
 - Mahishasuramardini cave mandapa famous
 - UNESCO **1984**
 - Named after Pallava ruler Narasimhavarman (Mamalla)
 - Dance festival annual at site
-- Near Chennai — tourist circuit
+- **Near Chennai**. Tourist circuit.
 - Mix of rock-cut + structural in one site
 
 ### PYQs — Mahabalipuram
@@ -1519,31 +1519,31 @@ UP MONUMENTS:
 
 ### Ajanta & Ellora — How It Works
 
-- Both in **Aurangabad district, Maharashtra** — **~100 km apart** — Deccan basalt cliff excavation belt.
-- **Ajanta**: developed in **two phases** — **Hinayana (2nd c. BCE–1st c. CE)** aniconic; **Mahayana (5th–6th c.)** Buddha images + lavish paintings.
-- **Ajanta paintings**: **fresco technique** (wet plaster) — **Bodhisattva Padmapani** (Cave 1), **Vajrapani**, Jataka scenes; **gupta-vakataka** patronage for late phase.
-- **Ajanta cave types**: **viharas 1–20** (monastic + painted); **chaityas 9, 10, 19, 26** (worship halls).
-- **Ellora chronology**: **Buddhist 1–12** (5th–7th c.) → **Hindu 13–29** (7th–9th c.) → **Jain 30–34** (9th–11th c.) — shows religious coexistence.
-- **Kailasa Temple (Ellora Cave 16)**: **Rashtrakuta Krishna I (~8th c.)** — **monolithic** Shiva temple carved **top-down** from cliff — 200,000 tonnes rock removed legend.
-- **Ellora sculpture**: **Ravana shaking Kailasa**, **Durga slaying Mahishasura** — dynamic Hindu narrative panels.
-- **Ajanta WH 1983**; **Ellora WH 1986** — separate inscriptions.
-- **Decline**: Ajanta abandoned **~7th c.**; Ellora continued Jain phase longer.
-- **Trap**: **Ajanta = paintings primary**; **Ellora = sculpture + three religions** — never swap specialties.
+- **Both in Aurangabad district, Maharashtra**, about **100 km apart**, in the Deccan basalt cliff excavation belt.
+- **Ajanta**: Developed in **two phases**. **Hinayana (2nd c. BCE–1st c. CE)** aniconic. **Mahayana (5th–6th c.)** Buddha images + lavish paintings.
+- **Ajanta paintings**: **Fresco technique** (wet plaster) includes **Bodhisattva Padmapani** (Cave 1), **Vajrapani**, Jataka scenes. **Gupta-vakataka** patronage for late phase.
+- **Ajanta cave types**: **Viharas 1–20** (monastic + painted). **Chaityas 9, 10, 19, 26** (worship halls).
+- **Ellora chronology**: Caves run from **Buddhist 1–12** (5th–7th c.), then **Hindu 13–29** (7th–9th c.), then **Jain 30–34** (9th–11th c.), showing religious coexistence.
+- **Kailasa Temple (Ellora Cave 16)**: **Rashtrakuta Krishna I (~8th c.)** includes **monolithic** Shiva temple carved **top-down** from cliff. 200,000 tonnes rock removed legend.
+- **Ellora sculpture**: **Ravana shaking Kailasa**, **Durga slaying Mahishasura**. Dynamic Hindu narrative panels.
+- **Ajanta WH 1983**. **Ellora WH 1986**. Separate inscriptions.
+- **Decline**: Ajanta abandoned **~7th c.**. Ellora continued Jain phase longer.
+- **Trap**: **Ajanta = paintings primary**. **Ellora = sculpture + three religions**. Never swap specialties.
 
 > **Exam note:** **Kailasa = Ellora Cave 16 = Rashtrakuta** — trap: Pallava or Chola builder.
 
 ### Exam Facts (raata)
 
 - Both Maharashtra (Aurangabad district)
-- Ajanta 30 caves — Buddhist paintings
-- Ellora 34 caves — Buddhist/Hindu/Jain
-- Ajanta WH **1983**; Ellora **1986**
-- Kailasa Cave 16 — monolithic Shiva, Rashtrakuta
+- **Ajanta 30 caves**. Buddhist paintings.
+- **Ellora 34 caves**. Buddhist/Hindu/Jain.
+- Ajanta WH **1983**. Ellora **1986**.
+- **Kailasa Cave 16**. Monolithic Shiva, Rashtrakuta.
 - Ajanta chaityas: 9, 10, 19, 26
-- Padmapani painting — Cave 1 Ajanta
+- **Padmapani painting**. Cave 1 Ajanta.
 - Ellora Hindu caves include Dashavatara, Rameshvara
-- Jain caves 30–34 Ellora — Indra Sabha
-- Ajanta abandoned ~7th c.; rediscovered 1819 (John Smith)
+- **Jain caves 30–34 Ellora**. Indra Sabha.
+- Ajanta abandoned ~7th c. Rediscovered 1819 (John Smith).
 
 ### PYQs — Ajanta & Ellora
 
@@ -1578,16 +1578,16 @@ UP MONUMENTS:
 
 ### Elephanta Caves — How It Works
 
-- **Gharapuri island** ("city of caves") in **Mumbai harbour** — accessed by ferry from Gateway of India.
-- **Main Cave 1 (Great Cave)**: **Shaiva** rock-cut hall — **square plan** with **pillared mandapa** leading to **garbhagriha** with **Trimurti Shiva** on rear wall.
-- **Trimurti sculpture**: **6.1 m high**, **three faces** (Aghora/Tatpurusha/Vamadeva aspects) — **masterpiece of Indian sculpture** (architectural setting + icon).
-- **Other panels**: **Ardhanarishvara**, **Gangadhara**, **Andhakasura vadha** — narrative Shiva mythology carved in rock.
-- **Dating**: **c. mid-6th to 8th c. CE** — attributed to **Chalukya** or **Pallava** patronage traditions (debated).
+- **Gharapuri island** ("city of caves") in **Mumbai harbour**. Accessed by ferry from Gateway of India.
+- **Main Cave 1 (Great Cave)**: **Shaiva** rock-cut hall includes **square plan** with **pillared mandapa** leading to **garbhagriha** with **Trimurti Shiva** on rear wall.
+- **Trimurti sculpture**: **6.1 m high**, **three faces** (Aghora/Tatpurusha/Vamadeva aspects) includes **masterpiece of Indian sculpture** (architectural setting + icon).
+- **Other panels**: **Ardhanarishvara**, **Gangadhara**, **Andhakasura vadha**. Narrative Shiva mythology carved in rock.
+- **Dating**: **c. mid-6th to 8th c. CE**. Attributed to **Chalukya** or **Pallava** patronage traditions (debated).
 - **Portuguese name**: island called **Elephanta** after large stone elephant (now at **Bhau Daji Lad Museum**, Mumbai).
-- **Damage**: Portuguese soldiers **defaced** many sculptures in 16th c.; Trimurti survived relatively intact.
-- **UNESCO World Heritage**: **1987** — "syncretism of rock-cut architectural and sculptural traditions."
-- **Not Buddhist** — trap: grouping with Ajanta Buddhist caves without checking deity/sculpture programme.
-- **Contrast Ellora Kailasa**: both Shaiva rock-cut; Elephanta = **relief panels in cave hall**; Kailasa = **free-standing monolithic temple**.
+- **Damage**: Portuguese soldiers **defaced** many sculptures in 16th c. Trimurti survived relatively intact.
+- **UNESCO World Heritage**: **1987** includes "syncretism of rock-cut architectural and sculptural traditions.".
+- **Not Buddhist**. Trap: grouping with Ajanta Buddhist caves without checking deity/sculpture programme.
+- **Contrast Ellora Kailasa**: Both Shaiva rock-cut. Elephanta = **relief panels in cave hall**. Kailasa = **free-standing monolithic temple**.
 
 > **Exam note:** **Elephanta = Trimurti Shiva + Mumbai island** — trap: Ajanta (Buddhist paintings) or Ellora location confusion.
 
@@ -1595,13 +1595,13 @@ UP MONUMENTS:
 
 - Gharapuri island, **Mumbai harbour**
 - Cave 1 = Great Shaiva cave
-- Trimurti Shiva **~6 m** — three faces
+- **Trimurti Shiva ~6 m**. Three faces.
 - Ardhanarishvara + Gangadhara panels
 - Dated ~**6th–8th c. CE**
 - UNESCO **1987**
 - Portuguese defacement 16th c.
 - Named after stone elephant sculpture
-- Shaiva — NOT Buddhist like Ajanta
+- **Shaiva**. NOT Buddhist like Ajanta.
 - Ferry from Gateway of India, Mumbai
 
 ### PYQs — Elephanta Caves

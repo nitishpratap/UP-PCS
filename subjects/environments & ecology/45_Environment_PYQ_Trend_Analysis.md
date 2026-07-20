@@ -82,10 +82,10 @@ UP NEGATIVE GEOGRAPHY (repeat weapon):
 
 ### Key Takeaways
 
-- **Early period (2018–20):** Average **12 questions** per paper.
-- **Recent period (2023–25):** Average **17.7 questions** per paper — **+47% increase**.
-- **Exam planning rule:** Budget **15–20 environment marks** in every attempt; treating env as a 8-question afterthought is outdated.
-- **2020 and 2024 dips** are anomalies — cross-subject env-adjacent questions (Economy reports, Geography protected areas) keep true environment ROI higher than tagged count alone.
+- **Early period (2018–20):** average **12 questions** per paper.
+- **Recent period (2023–25):** average **17.7 questions** per paper, **+47% increase**.
+- **Exam planning rule:** budget **15–20 environment marks** in every attempt. Treating env as a 8-question afterthought is outdated.
+- **2020 and 2024 dips** are anomalies. Cross-subject env-adjacent questions (Economy reports, Geography protected areas) keep true environment ROI higher than tagged count alone.
 
 ### Broad Environment Footprint (Tagged + Cross-Subject)
 
@@ -308,18 +308,18 @@ Full list of 19 Environment-tagged questions — use as mock-paper template:
 
 ### 2018–2019 (Baseline era)
 - Heavy ecology, pollution, biodiversity MCQs
-- ~14 env Qs; mostly direct format
+- ~14 env Qs, mostly direct format.
 - International treaties appear as NOT-matched
 
 ### 2020 (Low year — 8 Qs)
 - Do not benchmark weight from this paper
-- Ramsar sites added to UP (Q48) — early UP wetland CA
+- Ramsar sites added to UP (Q48), early UP wetland CA.
 
 ### 2021–2022 (Upswing)
-- Carbon credit → Kyoto (Q125)
+- Carbon credits originated under the Kyoto (Q125).
 - Wildlife sanctuaries UP geography
 - SDG questions begin increasing
-- 2022: 19 env Qs — format diversifying
+- 2022: 19 env Qs, format diversifying.
 
 ### 2023 (Peak — 25 Qs)
 - Maximum Environment & Ecology tagging

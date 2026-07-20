@@ -142,16 +142,16 @@ KEY TRAPS:
 
 ### Floods — How It Works
 
-- **Floods** occur when **water input exceeds drainage capacity** — heavy rainfall, snowmelt, dam breach, or storm surge can all trigger inundation — **environmental damage** includes soil erosion, waterlogging, salinity intrusion, and destruction of riparian habitats.
-- **Riverine floods (UP core)**: **Ganga, Yamuna, Ghaghara (Saryu), Rapti, Gandak, Gomti** swell during **monsoon (July–September)** — vast **Gangetic plain floodplain** naturally flooded for millennia — fertile alluvium comes from flood-deposited silt.
-- **Human amplification**: **Embankments** confine rivers but raise bed level (siltation); **floodplain encroachment** (buildings on natural spill zones); **deforestation in catchments** increases runoff speed and sediment load — **Namami Gange** and flood management plans address silt + pollution together.
-- **Flash floods / cloudbursts**: **Himalayan and Terai foothills** — extreme rainfall in hours (Kedarnath 2013, Uttarakhand 2024 events) — **landslide-debris dams** burst → downstream flood pulse — UP **Terai districts** (Pilibhit, Lakhimpur, Bahraich) face flash inundation from Nepal-side catchments.
-- **Urban flooding**: **Lucknow, Varanasi, Kanpur, Noida** — impervious surfaces + clogged drains → **waterlogging** during intense rain — separate from rural riverine flood but equally exam-relevant for UP cities.
-- **Environmental effects**: **Soil erosion** strips topsoil; **sewage and industrial waste** mix into floodwater (Ganga-Yamuna contamination spike); **wetland destruction** reduces natural flood absorption; **invasive water hyacinth** blocks drainage in UP ponds.
-- **Flood benefits (nuanced)**: Natural **sediment deposition** renews soil fertility — problem is **uncontrolled flooding** in densely populated encroached zones — not flooding per se.
-- **Institutional response**: **NDMA (2005)**, **NDRF** (National Disaster Response Force), **IMD** flood forecasting, **CWC** (Central Water Commission) river gauges — **Sendai Framework 2015** — disaster risk reduction (DRR) integrates environment.
-- **Climate change link**: Warmer atmosphere holds more moisture → **heavier extreme rainfall events** — IPCC projects increased flood risk in South Asia despite overall uncertain monsoon totals.
-- **Mitigation**: **Floodplain zoning** (restrict construction); **wetland restoration** (natural sponges); **afforestation** in catchments; **early warning**; **mangroves** for coastal storm surge (cyclone link §23.4).
+- **Floods** occur when **water input exceeds drainage capacity**, heavy rainfall, snowmelt, dam breach, or storm surge can all trigger inundation. **Environmental damage** includes soil erosion, waterlogging, salinity intrusion, and destruction of riparian habitats.
+- **Riverine floods (UP core)**: **Ganga, Yamuna, Ghaghara (Saryu), Rapti, Gandak, Gomti** swell during **monsoon (July–September)**, vast **Gangetic plain floodplain** naturally flooded for millennia, and fertile alluvium comes from flood-deposited silt.
+- **Human amplification**: **Embankments** confine rivers but raise bed level (siltation), **Floodplain encroachment** (buildings on natural spill zones), and **Deforestation in catchments** increases runoff speed and sediment load. **Namami Gange** and flood management plans address silt + pollution together.
+- **Flash floods / cloudbursts**: In the **Himalayan and Terai foothills**, extreme rainfall within hours (Kedarnath 2013, Uttarakhand 2024 events) can burst **landslide-debris dams** and send a downstream flood pulse. UP **Terai districts** (Pilibhit, Lakhimpur, Bahraich) face flash inundation from Nepal-side catchments.
+- **Urban flooding**: **Lucknow, Varanasi, Kanpur, Noida**, impervious surfaces + clogged drains, and **Waterlogging** during intense rain. Separate from rural riverine flood but equally exam-relevant for UP cities.
+- **Environmental effects**: **Soil erosion** strips topsoil, **Sewage and industrial waste** mix into floodwater (Ganga-Yamuna contamination spike), and **Wetland destruction** reduces natural flood absorption. **Invasive water hyacinth** blocks drainage in UP ponds.
+- **Flood benefits (nuanced)**: Natural **sediment deposition** renews soil fertility. The problem is **uncontrolled flooding** in densely populated encroached zones, not flooding itself.
+- **Institutional response**: **NDMA (2005)**, **NDRF** (National Disaster Response Force), **IMD** flood forecasting, **CWC** (Central Water Commission) river gauges, **Sendai Framework 2015**. Disaster risk reduction (DRR) integrates environment.
+- **Climate change link**: Warmer atmosphere holds more moisture, **Heavier extreme rainfall events**. IPCC projects increased flood risk in South Asia despite overall uncertain monsoon totals.
+- **Mitigation**: **Floodplain zoning** (restrict construction), **Wetland restoration** (natural sponges), and **Afforestation** in catchments. **Early warning**, **Mangroves** for coastal storm surge (cyclone link §23.4).
 
 > **Exam note:** UP floods = **Ganga-Yamuna system + Terai flash floods** — trap: "Floods only occur in coastal states" = FALSE.
 
@@ -169,7 +169,7 @@ KEY TRAPS:
 - Flood = water exceeds drainage/channel capacity
 - UP rivers: **Ganga, Yamuna, Ghaghara, Rapti, Gandak**
 - Terai = **flash flood** risk from Nepal catchments
-- Cloudburst → flash flood + landslide chain
+- Cloudburst. Flash flood + landslide chain.
 - NDMA **2005** | Sendai **2015**
 - Deforestation + encroachment **worsen** floods
 - Floodplain silt = fertility (controlled flooding benefit)
@@ -215,16 +215,16 @@ KEY TRAPS:
 
 ### Drought — How It Works
 
-- **Drought** is a **creeping disaster** — develops slowly over weeks/months unlike sudden floods — **environmental impacts**: crop failure, vegetation die-off, **soil erosion** when dead cover removed, **dust storms**, groundwater over-extraction, and **desertification** acceleration (Topic 13 link).
-- **Three types sequence**: Often begins as **meteorological drought** (low rain) → becomes **agricultural drought** (crops fail) → if prolonged, **hydrological drought** (rivers/wells dry) — exams test distinction.
-- **Bundelkhand (UP hotspot)**: **Seven UP districts** — **Jhansi, Lalitpur, Jalaun, Banda, Hamirpur, Mahoba, Chitrakoot** — semi-arid, erratic monsoon, rocky soil, low irrigation cover — chronic drought-desertification cycle (2004–07, 2014–16 severe).
-- **UPPCS 2025 Q134 crossover**: **Drought Prone Areas Programme (DPAP)** launched **1973** — chronology: CDP **1952** → DPAP **1973** → Food for Work **1977** → TRYSEM **1979** → Answer **B (2, 4, 1, 3)**.
-- **Other drought regions (national context)**: **Marathwada (Maharashtra)**, **Rayalaseema (AP)**, **Rajasthan arid zone**, **Kutch** — UP focus remains **Bundelkhand**.
-- **Environmental feedback loop**: Drought kills vegetation → **soil exposed** → wind/water erosion → **land degradation** → less water retention → worse next drought — UNCCD **Land Degradation Neutrality** targets break this cycle.
-- **Groundwater depletion**: Drought triggers **excessive tubewell pumping** — UP Bundelkhand and western UP face **falling water tables** — long-term environmental damage beyond single drought year.
-- **Climate change**: Increased **temperature** raises evapotranspiration — same rainfall produces **worse agricultural drought** — heat waves (§23.5) compound drought stress.
+- **Drought** is a **creeping disaster**, develops slowly over weeks/months unlike sudden floods. **Environmental impacts**: crop failure, vegetation die-off, **soil erosion** when dead cover removed, **dust storms**, groundwater over-extraction, and **desertification** acceleration (Topic 13 link).
+- **Three types sequence**: Often begins as **meteorological drought** (low rain), becomes **agricultural drought** (crops fail), and if prolonged, **hydrological drought** (rivers/wells dry). Exams test distinction.
+- **Bundelkhand (UP hotspot)**: **Seven UP districts**, **Jhansi, Lalitpur, Jalaun, Banda, Hamirpur, Mahoba, Chitrakoot**, and semi-arid, erratic monsoon, rocky soil, low irrigation cover. Chronic drought-desertification cycle (2004–07, 2014–16 severe).
+- **UPPCS 2025 Q134 crossover**: **Drought Prone Areas Programme (DPAP)** was launched in **1973**. CDP came in **1952**, followed by DPAP **1973**, Food for Work **1977**, and TRYSEM **1979**, giving answer **B (2, 4, 1, 3)**.
+- **Other drought regions (national context)**: **Marathwada (Maharashtra)**, **Rayalaseema (AP)**, **Rajasthan arid zone**, **Kutch**. UP focus remains **Bundelkhand**.
+- **Environmental feedback loop**: Drought kills vegetation, **Soil exposed**, and wind/water erosion. **Land degradation**, less water retention, and worse next drought. UNCCD **Land Degradation Neutrality** targets break this cycle.
+- **Groundwater depletion**: Drought triggers **excessive tubewell pumping**, UP Bundelkhand and western UP face **falling water tables**, and long-term environmental damage beyond single drought year.
+- **Climate change**: Increased **temperature** raises evapotranspiration, same rainfall produces **worse agricultural drought**, and heat waves (§23.5) compound drought stress.
 - **Mitigation schemes**: **DPAP (1973)**, **Desert Development Programme (DDP 1977)**, **Watershed Development**, **MGNREGA** (water harvesting works), **Bundelkhand Package**, **Jal Jeevan Mission** (rural tap water security).
-- **Drought vs famine trap**: Drought = **physical water shortage**; famine = **food availability/access crisis** — drought can cause famine but not automatic.
+- **Drought vs famine trap**: Drought = **physical water shortage**, famine = **food availability/access crisis**, and drought can cause famine but not automatic.
 
 > **Exam note:** **DPAP = 1973** — UPPCS 2025 Q134 trap. **CDP = 1952** — do not swap dates.
 
@@ -250,9 +250,9 @@ KEY TRAPS:
 
 - Drought types: **meteorological, agricultural, hydrological**
 - **Bundelkhand 7 districts** = UP drought hotspot
-- **DPAP = 1973** — Q134
+- **DPAP = 1973**. Q134.
 - CDP = **1952** | FWP = **1977** | TRYSEM = **1979**
-- Drought → erosion → desertification feedback
+- Drought, erosion, and desertification feedback.
 - Creeping disaster (slow onset)
 - Jal Jeevan Mission = drought resilience component
 
@@ -295,16 +295,16 @@ KEY TRAPS:
 
 ### Landslides — How It Works
 
-- **Landslides** occur when **gravity overcomes slope stability** — requires **steep slope + weak geology + water lubrication + loss of vegetation roots** — heavy rain saturates soil → weight increases → slope fails.
-- **Types**: **Slides** (material moves as coherent mass); **falls** (rock detaches from cliff); **flows** (mud/debris flow like fluid); **slumps** (rotational slip along curved surface) — **debris flow** after cloudburst most deadly in Himalaya.
-- **Kedarnath 2013 chain**: **Cloudburst** → landslide + glacial lake outburst debris → **mandatory environment-disaster link** for exams — killed thousands; destroyed infrastructure; **Chorabari lake** breach component.
-- **Human triggers (critical for environment topic)**: **Deforestation** removes root binding; **road cutting/hill blasting** for highways creates unsupported slopes; **unplanned construction** on steep hillsides; **mining/quarrying** — **not purely natural** disaster.
-- **Earthquake link**: **Himalayan seismic zone** — earthquake shaking triggers simultaneous mass failures — 2015 Nepal earthquake caused widespread landslides affecting UP border trade routes.
-- **UP relevance**: **Uttarakhand (erstwhile UP hills)** — pilgrim routes (Kedarnath, Badrinath, Yamunotri); **Terai foothill slopes**; landslide debris blocks rivers → **dam-break floods** downstream in UP plains.
-- **Climate change**: More **extreme rainfall** on bare slopes → increased landslide frequency — IPCC notes compound extremes in mountain regions.
-- **Environmental consequences**: **River siltation** downstream; **forest destruction**; **habitat fragmentation**; blocked streams alter aquatic ecology; long-term **scarification** of slopes prevents regrowth.
-- **Mitigation**: **Slope stabilisation** (retaining walls, bio-engineering); **afforestation**; **land-use zoning** (restrict construction on >30° slopes); **early warning** with rain gauges; **drainage control** on cut slopes.
-- **NDMA/Geological Survey of India (GSI)** landslide hazard zonation maps — **Very High Hazard** zones in Himalaya and NE.
+- **Landslides** occur when **gravity overcomes slope stability**, requires **steep slope + weak geology + water lubrication + loss of vegetation roots**, and heavy rain saturates soil. Weight increases, slope fails.
+- **Types**: **Slides** (material moves as coherent mass), **Falls** (rock detaches from cliff), and **Flows** (mud/debris flow like fluid). **Slumps** (rotational slip along curved surface), **Debris flow** after cloudburst most deadly in Himalaya.
+- **Kedarnath 2013 chain**: **Cloudburst**, landslide + glacial lake outburst debris, and **Mandatory environment-disaster link** for exams. Killed thousands, destroyed infrastructure, and **Chorabari lake** breach component.
+- **Human triggers (critical for environment topic)**: **Deforestation** removes root binding, **Road cutting/hill blasting** for highways creates unsupported slopes, and **Unplanned construction** on steep hillsides. **Mining/quarrying**, **Not purely natural** disaster.
+- **Earthquake link**: **Himalayan seismic zone**, earthquake shaking triggers simultaneous mass failures. 2015 Nepal earthquake caused widespread landslides affecting UP border trade routes.
+- **UP relevance**: **Uttarakhand (erstwhile UP hills)**, pilgrim routes (Kedarnath, Badrinath, Yamunotri), and **Terai foothill slopes**. Landslide debris blocks rivers, **Dam-break floods** downstream in UP plains.
+- **Climate change**: More **extreme rainfall** on bare slopes, increased landslide frequency, and IPCC notes compound extremes in mountain regions.
+- **Environmental consequences**: **River siltation** downstream, **Forest destruction**, and **Habitat fragmentation**. Blocked streams alter aquatic ecology, long-term **scarification** of slopes prevents regrowth.
+- **Mitigation**: **Slope stabilisation** (retaining walls, bio-engineering), **Afforestation**, and **Land-use zoning** (restrict construction on >30° slopes). **Early warning** with rain gauges, **Drainage control** on cut slopes.
+- **NDMA/Geological Survey of India (GSI)** landslide hazard zonation maps. **Very High Hazard** zones in Himalaya and NE.
 
 > **Exam note:** Statement "Landslides are purely natural — humans play no role" = **FALSE** — deforestation and road cutting are major triggers.
 
@@ -368,16 +368,16 @@ KEY TRAPS:
 
 ### Cyclones — How It Works
 
-- **Tropical cyclones** form over **warm ocean water (≥26–27°C)** — warm moist air rises → low pressure → surrounding air spirals inward (Coriolis effect) → **anticlockwise in Northern Hemisphere** — energy from **latent heat of condensation**.
-- **Structure**: **Eye** — calm, clear, low pressure centre (10–50 km wide); **Eyewall** — ring of most **intense winds and rain** surrounding eye; **rain bands** spiral outward — trap: "Strongest winds in eye" = **FALSE** (eyewall strongest).
-- **Storm surge**: Cyclone winds **push seawater onto coast** — low-lying coastal flooding — often **more deadly than wind** — **Bay of Bengal** shallow shelf amplifies surge (Bangladesh, Odisha, WB).
-- **Bay of Bengal vs Arabian Sea trap**: **Bay of Bengal** generates **more frequent and intense cyclones** than Arabian Sea — warmer, shallower, more moisture — Odisha, West Bengal, Andhra Pradesh, Tamil Nadu most affected — **UP inland** receives **heavy rain remnants**, not direct landfall.
-- **Naming**: **IMD** names cyclones in North Indian Ocean — regional rotating list — recent: **Amphan (2020)**, **Fani (2019)**, **Hudhud (2014)**, **Phailin (2013)**, **Yaas (2021)**.
-- **Environmental role of mangroves**: **Sundarbans mangrove forest** absorbs cyclone energy, reduces storm surge — **MISHTI scheme (2023)** restores mangroves (Topic 21 link) — deforestation of coastal buffers **increases cyclone damage**.
-- **Climate change link**: Warming oceans may increase **proportion of intense cyclones** — rapid intensification events (Amphan) — **IPCC AR6** notes increasing heavy precipitation in cyclones.
-- **IMD classification (North Indian Ocean)**: **Depression** → **Deep Depression** → **Cyclonic Storm** → **Severe Cyclonic Storm** → **Very Severe** → **Extremely Severe** → **Super Cyclonic Storm** (Amphan reached Super Cyclone category).
-- **Preparedness**: **NDMA cyclone guidelines**, **evacuation drills**, **cyclone shelters** (Odisha model), **IMD early warning**, **NDRF deployment** — mortality dropped sharply since 1999 Super Cyclone (Odisha) due to better DRR.
-- **Post-cyclone environmental damage**: **Salinity intrusion** in coastal farms; **mangrove destruction**; **marine pollution** from destroyed infrastructure; **inland flooding** from cyclone rain bands.
+- **Tropical cyclones** form over **warm ocean water (≥26–27°C)**, warm moist air rises, and low pressure. Surrounding air spirals inward (Coriolis effect), **Anticlockwise in Northern Hemisphere**, and energy from **latent heat of condensation**.
+- **Structure**: **Eye**, calm, clear, low pressure centre (10–50 km wide), and **Eyewall**. Ring of most **intense winds and rain** surrounding eye, **Rain bands** spiral outward, and trap: "Strongest winds in eye" = **FALSE** (eyewall strongest).
+- **Storm surge**: Cyclone winds **push seawater onto coast**, low-lying coastal flooding, and often **more deadly than wind**. **Bay of Bengal** shallow shelf amplifies surge (Bangladesh, Odisha, WB).
+- **Bay of Bengal vs Arabian Sea trap**: The **Bay of Bengal** generates **more frequent and intense cyclones** than the Arabian Sea because its waters are warmer, shallower, and carry more moisture. Odisha, West Bengal, Andhra Pradesh, and Tamil Nadu are most affected, while **UP inland** receives **heavy rain remnants** rather than direct landfall.
+- **Naming**: **IMD** names cyclones in North Indian Ocean, regional rotating list, and recent: **Amphan (2020)**, **Fani (2019)**, **Hudhud (2014)**, **Phailin (2013)**, **Yaas (2021)**.
+- **Environmental role of mangroves**: **Sundarbans mangrove forest** absorbs cyclone energy, reduces storm surge, **MISHTI scheme (2023)** restores mangroves (Topic 21 link), and deforestation of coastal buffers **increases cyclone damage**.
+- **Climate change link**: Warming oceans may increase **proportion of intense cyclones**, rapid intensification events (Amphan), and **IPCC AR6** notes increasing heavy precipitation in cyclones.
+- **IMD classification (North Indian Ocean)**: **Depression**, **Deep Depression**, and **Cyclonic Storm**. **Severe Cyclonic Storm**, **Very Severe**, and **Extremely Severe**. **Super Cyclonic Storm** (Amphan reached Super Cyclone category).
+- **Preparedness**: **NDMA cyclone guidelines**, **evacuation drills**, **cyclone shelters** (Odisha model), **IMD early warning**, **NDRF deployment**. Mortality dropped sharply since 1999 Super Cyclone (Odisha) due to better DRR.
+- **Post-cyclone environmental damage**: **Salinity intrusion** in coastal farms, **Mangrove destruction**, and **Marine pollution** from destroyed infrastructure. **Inland flooding** from cyclone rain bands.
 
 > **Exam note:** **Eyewall** = strongest winds, NOT eye. **Bay of Bengal** = India's cyclone nursery.
 
@@ -440,15 +440,15 @@ KEY TRAPS:
 
 ### Heat Waves — How It Works
 
-- **Heat waves** are **prolonged extreme temperature events** — distinct from single hot day — cause **heatstroke, dehydration, mortality** — vulnerable groups: elderly, outdoor workers, children — **environmental health disaster**.
-- **IMD criteria (plains)**: **Heat wave** when max temp **≥40°C** AND departure **+4.5°C to +6.4°C** above normal; **Severe heat wave** when departure **≥+6.4°C** OR temp **≥47°C** regardless — coastal/hill thresholds differ (lower absolute temps).
-- **Urban heat island (UHI)**: **Lucknow, Kanpur, Agra, Ghaziabad, Noida** — concrete stores heat, reduced evapotranspiration from lost greenery → **night-time temperatures** stay elevated — NCAP cities in UP face combined **air pollution + heat** stress.
-- **Climate change driver**: Global warming increases **mean and extreme temperatures** — IPCC AR6: heat waves **more frequent, longer, hotter** — North Indian plains among most affected globally.
-- **Compound disasters**: **Heat wave + drought** (§23.2) — evapotranspiration peaks → crop failure accelerates; **heat wave + power demand surge** → grid failure → no cooling — **wet bulb temperature** extreme limits human survivability without AC.
-- **Environmental effects**: **Forest fire risk** increases (§23.6 link); **wildlife mortality**; **increased ozone formation** (photochemical smog); **glacier melt** acceleration in Himalaya; **heat stress on livestock** in UP rural economy.
-- **Agricultural impact**: **Wheat yield loss** if heat hits during grain filling (March–April pre-monsoon heat spikes); **vegetable wilting** in UP peri-urban farms.
-- **Mitigation/adaptation**: **Cool roofs**, **urban greening** (parks, tree cover); **early IMD heat warnings**; **occupational timing** for outdoor labour (midday ban in some states); **NAPCC** climate adaptation; **Heat Action Plans** (Ahmedabad model replicated nationally).
-- **Heat wave ≠ global warming trap**: Single heat wave event ≠ climate by itself — but **trend of increasing frequency** attributed to climate change — distinguish weather vs climate in answers.
+- **Heat waves** are **prolonged extreme temperature events**, distinct from single hot day, and cause **heatstroke, dehydration, mortality**. Vulnerable groups: elderly, outdoor workers, children, **Environmental health disaster**.
+- **IMD criteria (plains)**: **Heat wave** when max temp **≥40°C** AND departure **+4.5°C to +6.4°C** above normal, **Severe heat wave** when departure **≥+6.4°C** OR temp **≥47°C** regardless, and coastal/hill thresholds differ (lower absolute temps).
+- **Urban heat island (UHI)**: **Lucknow, Kanpur, Agra, Ghaziabad, Noida**, concrete stores heat, reduced evapotranspiration from lost greenery, and **Night-time temperatures** stay elevated. NCAP cities in UP face combined **air pollution + heat** stress.
+- **Climate change driver**: Global warming increases **mean and extreme temperatures**, IPCC AR6: heat waves **more frequent, longer, hotter**, and north Indian plains among most affected globally.
+- **Compound disasters**: **Heat wave + drought** (§23.2), evapotranspiration peaks, and crop failure accelerates. **Heat wave + power demand surge**, grid failure, and no cooling. **Wet bulb temperature** extreme limits human survivability without AC.
+- **Environmental effects**: **Forest fire risk** increases (§23.6 link), **Wildlife mortality**, and **Increased ozone formation** (photochemical smog). **Glacier melt** acceleration in Himalaya, **Heat stress on livestock** in UP rural economy.
+- **Agricultural impact**: **Wheat yield loss** if heat hits during grain filling (March–April pre-monsoon heat spikes). **Vegetable wilting** in UP peri-urban farms.
+- **Mitigation/adaptation**: **Cool roofs**, **urban greening** (parks, tree cover), **Early IMD heat warnings**, and **Occupational timing** for outdoor labour (midday ban in some states). **NAPCC** climate adaptation, **Heat Action Plans** (Ahmedabad model replicated nationally).
+- **Heat wave ≠ global warming trap**: Single heat wave event ≠ climate by itself but **trend of increasing frequency** attributed to climate change. Distinguish weather vs climate in answers.
 
 > **Exam note:** **IMD +4.5°C departure** threshold for plains heat wave — UP cities regularly breach in May–June pre-monsoon.
 
@@ -469,7 +469,7 @@ KEY TRAPS:
 - UP hotspots: **Kanpur, Lucknow, Agra, NCR**
 - Pre-monsoon **May–June** peak in North India
 - Climate change increases frequency
-- Heat Action Plans — Ahmedabad model
+- Heat Action Plans. Ahmedabad model.
 
 ### PYQs — Heat Waves
 
@@ -511,15 +511,15 @@ KEY TRAPS:
 
 ### Forest Fires — How It Works
 
-- **Forest fires** require **fuel (dry biomass) + oxygen + ignition source** — spread faster with **wind, low humidity, and drought** — **environmental damage**: biodiversity loss, soil organic matter destruction, **increased erosion**, smoke air pollution, CO₂ emissions.
-- **Types**: **Surface fire** (burns litter/grass); **Crown fire** (canopy — most destructive); **Ground fire** (organic soil — smouldering, hard to detect) — **chir pine forests** (Uttarakhand, Himachal) prone to **surface fires** from **dry pine needles**.
-- **UPPCS 2024 Q86 — Piral Lao-Paise Pao**: Uttarakhand campaign — villagers collect **pine needles (piral)** that otherwise accumulate as fire fuel — **reduces forest fires** + provides **saleable biomass** (bricks, compost, bio-energy) — **Statement 1 TRUE** (fire reduction + income); CM launch **Statement 2 context** — verify current answer key: campaign linked to **forest fire prevention** — exam tests **environment-livelihood link**.
-- **India fire geography**: **Uttarakhand, Himachal Pradesh** (pine); **MP, Chhattisgarh, Odisha** (dry deciduous in summer); **NE India** (jhum cycle overlap); **UP Terai** and **Vindhyan** have **lower fire frequency** than Himalayan pine belt but **ground fire** in dry sal forests possible.
-- **Human causes dominate**: **Deliberate burning** for pasture clearance; **careless cigarette/bonfire**; **electrical faults**; **arson**; **shifting cultivation** remnants — **not purely natural lightning** (though lightning ignites some).
-- **Environmental consequences**: **Wildlife mortality** (nesting birds, reptiles); **microclimate change**; **loss of carbon sink** — forest becomes net emitter during fire; **post-fire erosion** causes **landslide/flood** risk downstream (disaster chain).
-- **FSI fire alerts**: **Forest Survey of India** uses satellite (**SNPP-VIIRS, MODIS**) for **Real Time Forest Fire Monitoring** — daily alerts to state forest departments.
-- **Climate link**: **Heat waves + drought** (§23.5, §23.2) dry fuel → longer fire season — global trend of **increasing fire weather days**.
-- **Management**: **Fire lines** (cleared strips); **controlled burning** in cool season; **community participation** (Piral Lao model); **early detection** via satellite; **Joint Forest Management** fire prevention committees.
+- **Forest fires** require **fuel (dry biomass) + oxygen + ignition source**, spread faster with **wind, low humidity, and drought**. **Environmental damage**: biodiversity loss, soil organic matter destruction, **increased erosion**, smoke air pollution, CO₂ emissions.
+- **Types**: **Surface fire** (burns litter/grass), **Crown fire** (canopy, and most destructive). **Ground fire** (organic soil, smouldering, hard to detect), and **Chir pine forests** (Uttarakhand, Himachal) prone to **surface fires** from **dry pine needles**.
+- **UPPCS 2024 Q86. Piral Lao-Paise Pao**: Uttarakhand campaign, villagers collect **pine needles (piral)** that otherwise accumulate as fire fuel, and **Reduces forest fires** + provides **saleable biomass** (bricks, compost, bio-energy). **Statement 1 TRUE** (fire reduction + income), CM launch **Statement 2 context**, and verify current answer key: campaign linked to **forest fire prevention**. Exam tests **environment-livelihood link**.
+- **India fire geography**: **Uttarakhand, Himachal Pradesh** (pine), **MP, Chhattisgarh, Odisha** (dry deciduous in summer), and **NE India** (jhum cycle overlap). **UP Terai** and **Vindhyan** have **lower fire frequency** than Himalayan pine belt but **ground fire** in dry sal forests possible.
+- **Human causes dominate**: **Deliberate burning** for pasture clearance, **Careless cigarette/bonfire**, and **Electrical faults**. **Arson**, **Shifting cultivation** remnants, and **Not purely natural lightning** (though lightning ignites some).
+- **Environmental consequences**: **Wildlife mortality** (nesting birds, reptiles), **Microclimate change**, and **Loss of carbon sink**. Forest becomes net emitter during fire, **Post-fire erosion** causes **landslide/flood** risk downstream (disaster chain).
+- **FSI fire alerts**: **Forest Survey of India** uses satellite (**SNPP-VIIRS, MODIS**) for **Real Time Forest Fire Monitoring**. Daily alerts to state forest departments.
+- **Climate link**: **Heat waves + drought** (§23.5, §23.2) dry fuel, longer fire season, and global trend of **increasing fire weather days**.
+- **Management**: **Fire lines** (cleared strips), **Controlled burning** in cool season, and **Community participation** (Piral Lao model). **Early detection** via satellite, **Joint Forest Management** fire prevention committees.
 
 > **Exam note:** **Piral Lao-Paise Pao** = **Uttarakhand pine needle/fire campaign** — 2024 Q86. NOT a UP state scheme.
 
@@ -534,13 +534,13 @@ KEY TRAPS:
 ### Exam Facts (raata)
 
 - Fire triangle: **fuel + oxygen + ignition**
-- **Piral Lao-Paise Pao** = Uttarakhand pine fire campaign — **2024 Q86**
+- **Piral Lao-Paise Pao** = Uttarakhand pine fire campaign. **2024 Q86**.
 - Peak season: **March–June** pre-monsoon
 - Chir pine **needle accumulation** = major fuel
 - FSI **satellite fire monitoring**
 - Fires cause **PM2.5 smoke pollution**
 - Human causes dominate in India
-- Post-fire erosion → landslide/flood risk
+- Post-fire erosion. Landslide/flood risk.
 
 ### PYQs — Forest Fires
 

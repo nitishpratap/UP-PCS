@@ -85,7 +85,7 @@ INDUSTRIES:
 
 ### Ancient Indian Art — How It Works
 
-- **Ancient Indian art** spans **~30,000 BCE (Bhimbetka rock shelters) to ~6th century CE (late Gupta)** — before medieval regional kingdom styles mature.
+- **Ancient Indian art** spans **~30,000 BCE (Bhimbetka rock shelters) to ~6th century CE (late Gupta)**. Before medieval regional kingdom styles mature.
 - **Period-wise art phases**:
 
   | Period | Key art forms | Sites/examples |
@@ -98,24 +98,24 @@ INDUSTRIES:
   | **Gupta** | Classical sculpture, Ajanta painting phase, coins | **Sarnath**, Ajanta caves, Pataliputra |
 
 - **Harappan art characteristics**: **geometric pottery** (red/black), **steatite seals** with unicorn bull + Brahmi-like script, **terracotta mother goddess**, **bead necklaces** (carnelian, faience).
-- **Seals function**: **trade marking**, **ritual identity**, **administrative control** — not merely decorative.
-- **Painting**: **Ajanta** (Maharashtra) — **5th–6th c. CE Gupta/Vakataka** — fresco technique on mud plaster; Jataka tales; peak of ancient Indian painting (detail in Topic 4).
-- **Pottery evolution**: Harappan wheel-thrown painted ware → **Northern Black Polished Ware (NBPW)** Mauryan elite tableware → red ware Gupta period.
-- **Patronage shift**: **Guilds + urban merchants** (Harappan) → **imperial court + Buddhist sangha** (Mauryan-Kushan) → **Hindu-Buddhist court ateliers** (Gupta).
+- **Seals function**: **trade marking**, **ritual identity**, **administrative control**, not merely decorative.
+- **Painting**: **Ajanta** (Maharashtra) includes **5th–6th c. CE Gupta/Vakataka**. Fresco technique on mud plaster. Jataka tales. Peak of ancient Indian painting (detail in Topic 4).
+- **Pottery evolution**: The order runs Harappan wheel-thrown painted ware, then **Northern Black Polished Ware (NBPW)** Mauryan elite tableware, then red ware Gupta period.
+- **Patronage shift**: The order runs **Guilds + urban merchants** (Harappan), then **imperial court + Buddhist sangha** (Mauryan-Kushan), then **Hindu-Buddhist court ateliers** (Gupta).
 - **UP art sites**: **Mathura** (Kushan-Gupta sculpture centre), **Sarnath** (Mauryan-Gupta Buddhist art), **Ahichhatra** (terracotta art), **Kaushambi** (painted grey ware).
-- **Trap**: Ancient Indian art ≠ only religious — **Harappan seals/pottery** are secular craft art.
+- **Trap**: Ancient Indian art ≠ only religious. **Harappan seals/pottery** are secular craft art.
 
 > **Exam note:** **Bhimbetka = prehistoric** | **IVC seals = steatite** | **NBPW = Mauryan** — three-period art trap chain.
 
 ### Exam Facts (raata)
 
 - Bhimbetka = prehistoric rock art (MP)
-- Harappan seals = steatite; unicorn bull motif
+- Harappan seals = steatite. Unicorn bull motif.
 - Terracotta mother goddess = Harappan
 - NBPW = Northern Black Polished Ware (Mauryan)
 - Ajanta painting = Gupta-era peak (5th–6th c.)
 - Mathura + Sarnath = UP ancient art centres
-- Patronage: guilds → sangha/court → Gupta ateliers
+- Patronage shifted from guilds, then sangha/court, then Gupta ateliers.
 - Pottery wheel known in IVC
 - Bead-making = major Harappan craft
 - Art spans prehistoric to Gupta (~6th c. CE)
@@ -166,13 +166,13 @@ INDUSTRIES:
   | **Amaravati** | **White limestone**, dynamic movement, floral motifs | Stupa railing, **Andhra** (2nd–3rd c. CE) |
   | **Gupta** | **Spiritual idealism**, smooth volumes, transparent drapery | **Sarnath Buddha** (dharmachakra mudra), Deogarh panels |
 
-- **Mauryan polish technique**: **Chunar sandstone** (Mirzapur, UP) — mirror-like **Mauryan polish** unique to empire — lost after Mauryas.
-- **Ashoka Lion Capital (Sarnath, UP)**: four lions, **dharmachakra**, bull, horse, elephant — adopted as **National Emblem of India**.
-- **Gandhara vs Mathura trap**: **Gandhara = Greco-Buddhist northwest**; **Mathura = indigenous Indian UP school** — exams swap regions.
-- **Bharhut vs Sanchi**: **Bharhut** = earlier, simpler labels on panels; **Sanchi** (especially toranas 1st c. BCE) = mature Shunga-Satavahana narrative mastery.
-- **Gupta Buddha (Sarnath)**: **abhayamudra/dharmachakra** — **spiritual calm** — defines Indian Buddhist iconography standard.
-- **Terracotta sculpture**: continuous tradition — **Mauryan-Sunga mother and child**, **Gupta figurines** from **Ahichhatra, Kaushambi (UP)**.
-- **Trap**: **Dancing Girl = bronze**, NOT terracotta — material trap.
+- **Mauryan polish technique**: **Chunar sandstone** (Mirzapur, UP). Mirror-like **Mauryan polish** unique to empire. Lost after Mauryas.
+- **Ashoka Lion Capital (Sarnath, UP)**: four lions, **dharmachakra**, bull, horse, elephant: adopted as **National Emblem of India**.
+- **Gandhara vs Mathura trap**: **Gandhara = Greco-Buddhist northwest**. **Mathura = indigenous Indian UP school**. Exams swap regions.
+- **Bharhut vs Sanchi**: **Bharhut** = earlier, simpler labels on panels. **Sanchi** (especially toranas 1st c. BCE) = mature Shunga-Satavahana narrative mastery.
+- **Gupta Buddha (Sarnath)**: **abhayamudra/dharmachakra** includes **spiritual calm**. It defines Indian Buddhist iconography standard.
+- **Terracotta sculpture**: continuous tradition: **Mauryan-Sunga mother and child**, **Gupta figurines** from **Ahichhatra, Kaushambi (UP)**.
+- **Trap**: **Dancing Girl = bronze**, NOT terracotta. Material trap.
 
 > **Exam note:** **Gandhara ↔ Northwest** | **Mathura ↔ UP** | **Amaravati ↔ Andhra** — geography trinity for sculpture schools.
 
@@ -222,33 +222,33 @@ INDUSTRIES:
 
 ### Ancient Indian Architecture — How It Works
 
-- **Ancient architecture** in India begins with **Harappan urban engineering** — world's earliest planned cities — and culminates in **Gupta structural temples**.
+- **Ancient architecture** in India begins with **Harappan urban engineering**. World's earliest planned cities. And culminates in **Gupta structural temples**.
 - **Harappan (IVC) architecture**:
   - **Grid-pattern streets** cutting at right angles
   - **Citadel + lower town** division (Harappa, Mohenjo-daro)
   - **Burnt brick** standardized ratios (4:2:1)
-  - **Covered drainage** along streets — hallmark feature
-  - **Great Bath** (Mohenjo-daro) — watertight brick tank with steps
+  - **Covered drainage** along streets. Hallmark feature.
+  - **Great Bath** (Mohenjo-daro). Watertight brick tank with steps.
   - **Granaries**, **wells**, **dockyard** (Lothal, Gujarat)
-  - **UP IVC sites**: **Alamgirpur** (Meerut — easternmost), **Mandi**, **Hulas** (Saharanpur), **Santhali** — **NOT Rakhigarhi** (Haryana — UPPCS 2025 Q87 trap)
+  - **Alamgirpur** (Meerut. Easternmost), **Mandi**, **Hulas** (Saharanpur), **Santhali**.
 
 - **Mauryan architecture (3rd c. BCE)**:
-  - **Ashoka pillars** — monolithic polished sandstone with animal capitals
-  - **Stupa construction** — Sanchi Great Stupa core attributed to Ashoka
-  - **Wooden palace** at Pataliputra (Megasthenes — gilded pillars)
-  - **Barabar caves** (Bihar) — earliest **rock-cut** caves (Chandragupta Maurya donation to Ajivikas)
+  - **Ashoka pillars**. Monolithic polished sandstone with animal capitals.
+  - **Stupa construction**. Sanchi Great Stupa core attributed to Ashoka.
+  - **Wooden palace** at Pataliputra (Megasthenes. Gilded pillars).
+  - **Barabar caves** (Bihar). Earliest **rock-cut** caves (Chandragupta Maurya donation to Ajivikas).
 
 - **Buddhist architecture trio** (ancient):
-  - **Stupa** — relic mound + anda + harmika + chhatra (Sanchi, Bharhut, Amaravati)
-  - **Chaitya** — rock-cut prayer hall with apse stupa (Karla, Bhaja, Ajanta 19, 26)
-  - **Vihara** — monastery cells around courtyard (Ajanta, Nasik, Kanheri)
+  - **Stupa**. Relic mound + anda + harmika + chhatra (Sanchi, Bharhut, Amaravati).
+  - **Chaitya**. Rock-cut prayer hall with apse stupa (Karla, Bhaja, Ajanta 19, 26).
+  - **Vihara**. Monastery cells around courtyard (Ajanta, Nasik, Kanheri).
 
 - **Gupta architecture (4th–6th c. CE)**:
-  - **First structural Hindu temples** — **Dashavatara temple (Deogarh, MP)**, **Bhitargaon brick temple (UP)**
-  - **Udayagiri caves** (MP) — **Varaha sculpture** of Chandragupta II
-  - **Rock-cut continues** — Ajanta, Ellora beginnings, Elephanta roots
+  - **First structural Hindu temples** includes **Dashavatara temple (Deogarh, MP)**, **Bhitargaon brick temple (UP)**.
+  - **Udayagiri caves** (MP) includes **Varaha sculpture** of Chandragupta II.
+  - **Rock-cut continues**. Ajanta, Ellora beginnings, Elephanta roots.
 
-- **Construction techniques**: **no true arch** in pre-Islamic India — **corbelled** spans for gateways and stupa anda; **mortarless** precision in Mauryan polish.
+- **Construction techniques**: **No true arch** in pre-Islamic India. **Corbelled** spans for gateways and stupa anda. **Mortarless** precision in Mauryan polish.
 - **Trap**: **Great Bath = Mohenjo-daro** (Sindh, Pakistan today), NOT Indian state site but Harappan culture exam staple.
 
 > **Exam note:** Temple style details (Nagara/Dravida) belong to mature medieval period — **Gupta = first stone temple** is the ancient architecture endpoint. Full Buddhist/temple architecture depth covered in architecture topic; here focus is **Harappan → Mauryan → Gupta chronology**.
@@ -301,34 +301,34 @@ INDUSTRIES:
 
 ### Ancient Indian Agriculture — How It Works
 
-- **Ancient agriculture** foundation laid in **Harappan civilisation** — among earliest **planned agrarian economies** supporting urban centres.
+- **Ancient agriculture** foundation laid in **Harappan civilisation**. Among earliest **planned agrarian economies** supporting urban centres.
 - **Harappan agriculture (IVC)**:
-  - **Crops**: **wheat, barley**, sesamum, dates, mustard; **cotton** cultivation (early textile evidence)
-  - **Plough**: **terracotta ploughshare** models — wooden plough with **stone/wood share**
-  - **Irrigation**: reliance on **Indus river floods** + **wells**; **no large canal evidence** at all sites
+  - **Crops**: **Wheat, barley**, sesamum, dates, mustard. **Cotton** cultivation (early textile evidence).
+  - **Plough**: **terracotta ploughshare** models. Wooden plough with **stone/wood share**.
+  - **Irrigation**: Reliance on **Indus river floods** + **wells**. **No large canal evidence** at all sites.
   - **Storage**: **granaries** in citadels (Harappa, Mohenjo-daro)
   - **Double cropping** suggested at some sites (Dholavira agricultural diversity)
 
 - **Vedic period (post-1500 BCE)**:
   - **Slash-and-burn** (krishi in Rigveda) gradually shifts to **settled plough agriculture**
   - **Rice (vrihi)** becomes prominent in **eastern Gangetic** regions (later Vedic)
-  - **Cattle wealth** central — **go-dhan** (cattle as wealth unit)
+  - **Cattle wealth** central includes **go-dhan** (cattle as wealth unit).
   - **Yajna rituals** tied to agricultural seasons
 
 - **Mauryan agriculture (4th–3rd c. BCE)**:
-  - **State role**: **Arthashastra** describes **agriculture as revenue base** — land measurement, irrigation supervision
+  - **State role**: **Arthashastra** describes **agriculture as revenue base**. Land measurement, irrigation supervision.
   - **Irrigation**: **Megasthenes** mentions **Persian wheel** and canal systems in Pataliputra region
   - **Expansion**: **forest clearance** (land grants to Brahmins/shramanas) opens new farmland
   - **Crops**: rice, wheat, millet, pulses, sugarcane references
 
 - **Gupta period (4th–6th c. CE)**:
   - **Agricultural prosperity** supports Gupta "Golden Age" urban culture
-  - **Land grants** (copper plate inscriptions) — **devolution of revenue** to temples/Brahmins — **feudal beginnings**
+  - **Land grants** (copper plate inscriptions).
   - **Irrigation tanks** and **wells** documented in inscriptions
   - **Fa-Hien** (Chinese pilgrim) notes **prosperous agriculture** and charitable institutions
 
-- **Tools & technology**: **wooden plough** dominant ancient tool; **iron tools** spread Mauryan onward (axes, sickles); **manure** use described in ancient texts.
-- **Trap**: **Cotton evidence earliest in IVC** — students think cotton = modern only.
+- **Tools & technology**: **Wooden plough** dominant ancient tool. **Iron tools** spread Mauryan onward (axes, sickles). **Manure** use described in ancient texts.
+- **Trap**: **Cotton evidence earliest in IVC**. Students think cotton = modern only.
 
 > **Exam note:** **IVC = wheat/barley + cotton** | **Rice expands east later** | **Mauryan state supervises irrigation** per Arthashastra.
 
@@ -393,25 +393,25 @@ INDUSTRIES:
   | **Ivory/wood working** | Combs, tools (decayed wood rare) | Limited remains |
 
 - **Metallurgy evolution**:
-  - **Copper/bronze** — Harappan through Vedic
-  - **Iron** — **Vedic texts mention ayas (metal/iron)**; widespread **iron tools/weapons** by **Mauryan period** (no Ashokan iron pillars — stone used)
-  - **Wootz steel** — **ancient South India** crucible process; exported to **Persia, Arabia, Rome** — basis of **Damascus swords**
-  - **Gold/silver** — jewellery, Gupta **gold coins**
+  - **Copper/bronze**. Harappan through Vedic.
+  - **Iron**: Vedic texts mention **ayas** (metal/iron). Widespread **iron tools and weapons** appear by the **Mauryan period** (Ashokan pillars used stone, not iron).
+  - **Wootz steel** includes **ancient South India** crucible process. Exported to **Persia, Arabia, Rome**. Basis of **Damascus swords**.
+  - **Gold/silver**. Jewellery, Gupta **gold coins**.
 
 - **Textile industry**:
-  - **Cotton** — **Harappan evidence** → famous in **Roman trade** (pliny mentions India cotton)
-  - **Silk** — references increase **Mauryan-Gupta**; **Kautilya** mentions silk textiles
-  - **Wool** — Himalayan and pastoral communities
-  - **Gupta fame** — "woven air" Indian muslin legend
+  - **Cotton**. **Harappan evidence** leads to **famous in **Roman trade** (pliny mentions India cotton)**.
+  - **Silk**. References increase **Mauryan-Gupta**. **Kautilya** mentions silk textiles.
+  - **Wool**. Himalayan and pastoral communities.
+  - **Gupta fame** includes "woven air" Indian muslin legend.
 
 - **Coinage industry**:
-  - **Punch-marked coins** — **Janapada period through Maurya** — irregular silver/copper pieces with symbols
-  - **Indo-Greek/Kushan** — die-struck bilingual coins
-  - **Gupta gold dinaras** — **standardised die-struck** gold — Lakshmi + king archer type
+  - **Punch-marked coins** includes **Janapada period through Maurya**. Irregular silver/copper pieces with symbols.
+  - **Indo-Greek/Kushan**. Die-struck bilingual coins.
+  - **Gupta gold dinaras** includes **standardised die-struck** gold. Lakshmi + king archer type.
 
-- **Pottery industry**: **NBPW (Mauryan)** elite glossy ware → **red ware** mass production Gupta; **terracotta industry** for figurines + architectural bricks.
-- **Guild system (shreni)**: **Mauryan Arthashastra** regulates guilds; **Gupta inscriptions** name **craft guilds** donating to temples — **organised urban industry**.
-- **Trap**: **Dancing Girl = bronze metallurgy**, NOT stone — **lost-wax (cire perdue)** technique.
+- **Pottery industry**: **NBPW (Mauryan)** elite glossy ware** leads to **red ware** mass production Gupta. **Terracotta industry** for figurines + architectural bricks.**.
+- **Mauryan Arthashastra** regulates guilds. **Gupta inscriptions** name **craft guilds** donating to temples.
+- **Trap**: **Dancing Girl = bronze metallurgy**, NOT stone includes **lost-wax (cire perdue)** technique.
 
 > **Exam note:** **IVC = beads + cotton + seals** | **Maurya = punch-marked coins + iron spread** | **Gupta = gold dinara + guild crafts**.
 

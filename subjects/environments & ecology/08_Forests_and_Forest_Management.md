@@ -136,16 +136,16 @@ KEY DATES:
 
 ### Forests and their Types — How It Works
 
-- **Forests** are three-dimensional ecosystems — emergent layer, canopy, understory, shrub layer, and forest floor — each supporting distinct species niches.
+- **Forests** are three-dimensional ecosystems with an emergent layer, canopy, understory, shrub layer, and forest floor, and each layer supports distinct species niches.
 - **Ecological functions** include oxygen production, carbon sequestration, rainfall generation (transpiration), temperature moderation, and flood control through water retention.
 - **Economic functions** supply timber, bamboo, fuelwood, fodder, NTFP (tendu leaves, mahua, lac), and livelihood for ~300 million Indians dependent on forests.
 - **Global forest types** by latitude/climate: **tropical rainforests** (equatorial, >2000 mm rain), **tropical deciduous** (seasonal rainfall), **temperate forests** (mid-latitudes), **boreal/coniferous** (high latitude), **Mediterranean scrub**, and **mangroves** (coastal tidal).
-- **India does not have boreal forests** — its forests range from tropical wet evergreen (Western Ghats) to alpine scrub (Himalayas above treeline).
-- **Legal classification under Indian Forest Act 1927**: **Reserved Forest (RF)** = strictest protection; **Protected Forest (PF)** = state regulates rights; **Unclassed Forest** = not yet formally classified.
-- **ISFR canopy density classes** classify forest cover by satellite imagery: **Very Dense Forest (VDF)** ≥70%; **Moderately Dense Forest (MDF)** 40–70%; **Open Forest (OF)** 10–40%; below 10% = scrub/non-forest.
-- **Forest cover ≠ Recorded Forest Area (RFA)** — substantial forest cover exists **outside** legally notified forest land (e.g., community groves, farm trees); ISFR 2023 shows significant increase outside RFA.
-- **Forest cover ≠ Tree cover** — tree cover counts scattered trees outside forest patches (orchards, avenue trees); combined "forest + tree cover" = India's total green cover (25.17% in 2023).
-- **Mangroves, littoral, and swamp forests** are distinct forest types at land-water transition — not classified by latitude alone.
+- **India does not have boreal forests**. Its forests range from tropical wet evergreen (Western Ghats) to alpine scrub (Himalayas above treeline).
+- **Legal classification under Indian Forest Act 1927**: **Reserved Forest (RF)** = strictest protection. **Protected Forest (PF)** = state regulates rights. **Unclassed Forest** = not yet formally classified.
+- **ISFR canopy density classes** classify forest cover by satellite imagery: **Very Dense Forest (VDF)** ≥70%. **Moderately Dense Forest (MDF)** 40–70%. **Open Forest (OF)** 10–40%. Below 10% = scrub/non-forest.
+- **Forest cover ≠ Recorded Forest Area (RFA)**. Substantial forest cover exists **outside** legally notified forest land (e.g., community groves, farm trees). ISFR 2023 shows significant increase outside RFA.
+- **Forest cover ≠ Tree cover**. Tree cover counts scattered trees outside forest patches (orchards, avenue trees). Combined "forest + tree cover" = India's total green cover (25.17% in 2023).
+- **Mangroves, littoral, and swamp forests** are distinct forest types at land-water transition. Not classified by latitude alone.
 
 > **Exam note:** Trap: "Forest cover includes only government forest land" = **FALSE** — ISFR counts all patches ≥1 ha with ≥10% canopy regardless of ownership.
 
@@ -200,18 +200,18 @@ KEY DATES:
 
 ### Forest Types in India — How It Works
 
-- **Champion & Seth (1968)** is India's authoritative forest type classification — **16 major types** in **6 groups**: Moist Tropical, Dry Tropical, Montane Subtropical, Montane Temperate, Sub-Alpine, Alpine.
-- **Group 1 — Moist Tropical**: Tropical Wet Evergreen (>2000 mm), Semi-Evergreen (1500–2500 mm), Moist Deciduous (1000–2000 mm, 3–4 month dry season), Littoral & Swamp (mangroves, tidal forests).
-- **Group 2 — Dry Tropical**: Tropical Dry Deciduous (800–1200 mm — **largest type, ~38%** of India's forest area), Tropical Thorn (200–800 mm), Tropical Dry Evergreen (east coast Karnataka/AP).
-- **Group 3 — Montane Subtropical**: Subtropical Broadleaved Hill (1000–2000 m), Subtropical Pine (chir pine *Pinus roxburghii*, 1000–1800 m Himalaya), Subtropical Dry Evergreen.
-- **Group 4 — Montane Temperate**: Montane Wet Temperate (Nilgiri, eastern Himalaya), Himalayan Moist Temperate (oak, deodar, 1500–3300 m), Himalayan Dry Temperate (inner Himalaya, conifers).
-- **Group 5 — Sub-Alpine**: Sub-Alpine forests above 3000 m — rhododendron, birch, fir near treeline.
-- **Group 6 — Alpine**: Moist Alpine Scrub and Dry Alpine Scrub — above treeline, dwarf shrubs, extreme cold.
-- **Tropical Moist Deciduous** dominates UP's **Terai belt** (Bahraich, Shravasti, Pilibhit, Lakhimpur Kheri) — sal, teak, semal, jamun; rainfall 100–150 cm.
-- **Tropical Dry Deciduous** covers **Vindhyan and Bundelkhand** regions — teak, sal, dhak, tendu; drier than Terai.
-- **Tropical Thorn Forests** occur in **Bundelkhand, western UP** — acacia, ber, babool; rainfall below 80 cm.
-- **ISFR 2023 — India**: Total forest cover **7,15,343 sq km (21.76%)**; VDF 1,00,280 sq km; MDF 3,05,050 sq km; OF 3,10,013 sq km; MP has largest forest area; Mizoram highest %.
-- **ISFR 2023 — UP**: Forest cover **15,045.80 sq km (6.24%)**; Sonbhadra highest area and % (**34.87%**); only **Chandauli (21.63%)** and **Shravasti (20.95%)** exceed 20% threshold.
+- **Champion & Seth (1968)** is India's authoritative forest type classification. **16 major types** in **6 groups**: Moist Tropical, Dry Tropical, Montane Subtropical, Montane Temperate, Sub-Alpine, Alpine.
+- **Group 1. Moist Tropical**: Tropical Wet Evergreen (>2000 mm), Semi-Evergreen (1500–2500 mm), Moist Deciduous (1000–2000 mm, 3–4 month dry season), Littoral & Swamp (mangroves, tidal forests).
+- **Group 2. Dry Tropical**: Tropical Dry Deciduous (800–1200 mm. **largest type, ~38%** of India's forest area), Tropical Thorn (200–800 mm), Tropical Dry Evergreen (east coast Karnataka/AP).
+- **Group 3. Montane Subtropical**: Subtropical Broadleaved Hill (1000–2000 m), Subtropical Pine (chir pine *Pinus roxburghii*, 1000–1800 m Himalaya), Subtropical Dry Evergreen.
+- **Group 4. Montane Temperate**: Montane Wet Temperate (Nilgiri, eastern Himalaya), Himalayan Moist Temperate (oak, deodar, 1500–3300 m), Himalayan Dry Temperate (inner Himalaya, conifers).
+- **Group 5. Sub-Alpine**: Sub-Alpine forests above 3000 m hold rhododendron, birch, and fir near the treeline.
+- **Group 6. Alpine**: Moist Alpine Scrub and Dry Alpine Scrub. Above treeline, dwarf shrubs, extreme cold.
+- **Tropical Moist Deciduous** dominates UP's **Terai belt** (Bahraich, Shravasti, Pilibhit, Lakhimpur Kheri), where sal, teak, semal, and jamun grow with 100–150 cm rainfall.
+- **Tropical Dry Deciduous** forest covers the **Vindhyan and Bundelkhand** regions with teak, sal, dhak, and tendu in drier conditions than the Terai.
+- **Tropical Thorn Forests** occur in **Bundelkhand and western UP**, where acacia, ber, and babool grow with rainfall below 80 cm.
+- **ISFR 2023. India**: Total forest cover **7,15,343 sq km (21.76%)**. VDF 1,00,280 sq km. MDF 3,05,050 sq km. OF 3,10,013 sq km. MP has largest forest area. Mizoram highest %.
+- **ISFR 2023. UP**: Forest cover **15,045.80 sq km (6.24%)**. Sonbhadra highest area and % (**34.87%**). Only **Chandauli (21.63%)** and **Shravasti (20.95%)** exceed 20% threshold.
 
 > **Exam note:** UPPCS 2025 Q8 trap — Bahraich is Terai moist deciduous **forest type** but its **forest cover %** is only ~10%, not >20%.
 
@@ -250,8 +250,8 @@ KEY DATES:
 - Champion & Seth 1968 = **16 types, 6 groups**
 - Largest Indian forest type = **Tropical Dry Deciduous (~38%)**
 - UP Terai = **Tropical Moist Deciduous**
-- ISFR 2023 India = **21.76%** forest cover; total green **25.17%**
-- UP forest cover = **6.24%**; Sonbhadra = highest (**34.87%**)
+- ISFR 2023 India = **21.76%** forest cover. Total green **25.17%**.
+- UP forest cover = **6.24%**. Sonbhadra = highest (**34.87%**).
 - UP districts >20% forest = **Chandauli, Shravasti only** (2025 Q8)
 - VDF ≥70% | MDF 40–70% | OF 10–40%
 
@@ -285,17 +285,17 @@ KEY DATES:
 
 ### Forest Conservation — How It Works
 
-- **Forest conservation** addresses both **protection of existing forests** and **restoration of degraded areas** — not merely planting new trees.
+- **Forest conservation** addresses both **protection of existing forests** and **restoration of degraded areas**. Not merely planting new trees.
 - **Major threats**: deforestation for agriculture/mining/infrastructure, **forest fires**, overgrazing, illegal felling, **shifting cultivation (jhum)**, invasive species, and climate change shifting species ranges.
-- **Chipko Movement (1973)** — Reni village, Uttarakhand (then UP); **Sunderlal Bahuguna**, **Chandi Prasad Bhatt**; women hugged trees to prevent commercial felling — model of **passive resistance** for forest conservation.
-- **Tiwari Committee (1980)** recommended strict control on forest diversion → led to **Forest (Conservation) Act, 1980** — landmark law checking deforestation.
-- **FCA 1980** (amended 1988, 2003, 2016): **No State Government** can authorize use of forest land for non-forest purposes without **prior Central Government approval**; violation = criminal offence.
-- **Compensatory afforestation** — when forest land is diverted, equivalent area must be afforested (preferably on degraded forest/non-forest land) + payment into **CAMPA fund**.
-- **CAMPA (Compensatory Afforestation Fund Management and Planning Authority)** — established **2009**; **CAMPA Act 2016** created national and state authorities; fund from net present value of diverted forest.
-- **National Forest Policy 1988** shifted focus from **revenue extraction** (colonial/1952 approach) to **ecological stability** — target **33% forest/tree cover** nationally, **66% in hills/mountains**.
-- **Supreme Court in T.N. Godavarman v. Union of India (1996)** expanded "forest" to include all areas meeting **dictionary meaning** of forest — not only notified forest land; strengthened FCA enforcement.
+- The **Chipko Movement (1973)** began at Reni village in Uttarakhand (then UP), where **Sunderlal Bahuguna**, **Chandi Prasad Bhatt**, and local women hugged trees to prevent commercial felling, becoming a model of **passive resistance** for forest conservation.
+- **Tiwari Committee (1980)** recommended strict control on forest diversion to led to **Forest (Conservation) Act, 1980**. Landmark law checking deforestation.
+- **FCA 1980** (amended 1988, 2003, 2016): **No State Government** can authorize use of forest land for non-forest purposes without **prior Central Government approval**. Violation = criminal offence.
+- **Compensatory afforestation** requires planting an equivalent area when forest land is diverted (preferably on degraded forest/non-forest land) along with payment into the **CAMPA fund**.
+- **CAMPA (Compensatory Afforestation Fund Management and Planning Authority)**. Established **2009**. **CAMPA Act 2016** created national and state authorities. Fund from net present value of diverted forest.
+- **National Forest Policy 1988** shifted focus from **revenue extraction** (colonial/1952 approach) to **ecological stability**. Target **33% forest/tree cover** nationally, **66% in hills/mountains**.
+- **Supreme Court in T.N. Godavarman v. Union of India (1996)** expanded "forest" to include all areas meeting **dictionary meaning** of forest. Not only notified forest land. Strengthened FCA enforcement.
 - **Constitutional backing**: **Art 48A** (State duty to protect forests), **Art 51A(g)** (citizen duty), **Art 21** (right to healthy environment includes forest protection).
-- **Green India Mission (2014)** under National Action Plan on Climate Change — increase forest cover, improve ecosystem services, enhance carbon sequestration.
+- **Green India Mission (2014)** under National Action Plan on Climate Change. Increase forest cover, improve ecosystem services, enhance carbon sequestration.
 
 > **Exam note:** FCA = **1980**, not 1972 (Stockholm/WPA year). Trap: "FCA enacted with Project Tiger" = **FALSE**.
 
@@ -311,12 +311,12 @@ KEY DATES:
 
 ### Exam Facts (raata)
 
-- Chipko = **1973**, Reni, Uttarakhand; passive resistance
-- FCA = **1980**; prior Central approval for diversion
-- Tiwari Committee → FCA 1980
+- Chipko = **1973**, Reni, Uttarakhand. Passive resistance.
+- FCA = **1980**. Prior Central approval for diversion.
+- Tiwari Committee to FCA 1980
 - Godavarman 1996 = broad forest definition
 - NFP 1988 = **33%** national, **66%** hills target
-- CAMPA 2009; CAMPA Act **2016**
+- CAMPA 2009. CAMPA Act **2016**.
 - Art 48A, 51A(g), Art 21 support forest conservation
 
 ### PYQs — Forest Conservation
@@ -349,17 +349,17 @@ KEY DATES:
 
 ### Forest Management — How It Works
 
-- **Forest management** balances **ecological sustainability** with **community livelihood needs** — NFP 1988 subordinates commercial extraction to environmental stability.
-- **Indian Forest Act 1927** is the primary colonial-era management law — empowers State Governments to declare **Reserved Forests** (complete protection) and **Protected Forests** (regulated use).
-- **Working Plan** is the master document for scientific forest management — prepared for each forest division covering 10-year cycles: inventory, regeneration, felling schedules, protection measures.
-- **Sustainable yield** principle — harvest rate must not exceed regeneration capacity; selective felling replaces clear-felling in managed forests.
-- **Forest Survey of India (FSI), Dehradun** — biennial **India State of Forest Report (ISFR)** using satellite remote sensing + ground verification; nodal for forest cover assessment.
-- **Recorded Forest Area (RFA)** = land legally notified as forest ("green wash" on Survey maps) — India's RFA ~23% of geographical area, but actual forest cover differs.
-- **ISFR 2023**: Forest cover inside RFA = **5,20,370 sq km**; **outside RFA** = **1,94,980 sq km** — about **27%** of India's forest cover lies outside legally notified forest land.
-- **7th Schedule**: **Forests** on **Concurrent List** — both Centre and States legislate; Centre controls diversion (FCA), States manage day-to-day forestry.
-- **MoEFCC** is nodal ministry — policy, CAMPA, NAP, Green India Mission; State Forest Departments implement on ground.
-- **Joint Forest Management (1990)** and **FRA (2006)** shifted management from pure State control to **participatory models** — communities as stakeholders, not just subjects.
-- **Van Panchayats** (Uttarakhand) and **traditional community institutions** predate JFM — manage local forest patches with customary rules.
+- **Forest management** balances **ecological sustainability** with **community livelihood needs**. NFP 1988 subordinates commercial extraction to environmental stability.
+- **Indian Forest Act 1927** is the primary colonial-era management law. Empowers State Governments to declare **Reserved Forests** (complete protection) and **Protected Forests** (regulated use).
+- **Working Plan** is the master document for scientific forest management. Prepared for each forest division covering 10-year cycles: inventory, regeneration, felling schedules, protection measures.
+- **Sustainable yield** principle. Harvest rate must not exceed regeneration capacity. Selective felling replaces clear-felling in managed forests.
+- **Forest Survey of India (FSI), Dehradun**. Biennial **India State of Forest Report (ISFR)** using satellite remote sensing + ground verification. Nodal for forest cover assessment.
+- **Recorded Forest Area (RFA)** = land legally notified as forest ("green wash" on Survey maps). India's RFA ~23% of geographical area, but actual forest cover differs.
+- **ISFR 2023**: Forest cover inside RFA = **5,20,370 sq km**. **outside RFA** = **1,94,980 sq km**. About **27%** of India's forest cover lies outside legally notified forest land.
+- **7th Schedule**: **Forests** on **Concurrent List**. Both Centre and States legislate. Centre controls diversion (FCA), States manage day-to-day forestry.
+- **MoEFCC** is nodal ministry. Policy, CAMPA, NAP, Green India Mission. State Forest Departments implement on ground.
+- **Joint Forest Management (1990)** and **FRA (2006)** shifted management from pure State control to **participatory models**. Communities as stakeholders, not just subjects.
+- **Van Panchayats** (Uttarakhand) and **traditional community institutions** predate JFM. Manage local forest patches with customary rules.
 
 > **Exam note:** FSI publishes ISFR every **2 years** (biennial), not annual. Trap: "CPCB publishes ISFR" = **FALSE** — FSI does.
 
@@ -378,9 +378,9 @@ KEY DATES:
 - IFA 1927 = RF, PF, Unclassed classification
 - Working Plan = 10-year scientific management cycle
 - FSI Dehradun = ISFR every **2 years**
-- RFA ≠ forest cover; forest exists outside RFA too
+- RFA ≠ forest cover. Forest exists outside RFA too.
 - Forests on **Concurrent List**
-- MoEFCC = nodal; State Forest Dept = implementation
+- MoEFCC = nodal. State Forest Dept = implementation.
 
 ### PYQs — Forest Management
 
@@ -411,16 +411,16 @@ KEY DATES:
 
 ### Afforestation — How It Works
 
-- **Afforestation** creates forest where none existed or where degradation removed canopy below 10% threshold — distinct from **reforestation** (replanting harvested forest) and **forest restoration** (ecological recovery).
-- **Compensatory afforestation** under FCA — developer/state must plant equivalent forest area + pay **net present value (NPV)** of forest ecosystem services into CAMPA fund.
+- **Afforestation** creates forest where none existed or where degradation removed canopy below 10% threshold. Distinct from **reforestation** (replanting harvested forest) and **forest restoration** (ecological recovery).
+- **Compensatory afforestation** under FCA. Developer/state must plant equivalent forest area + pay **net present value (NPV)** of forest ecosystem services into CAMPA fund.
 - **CAMPA fund** (₹60,000+ crore accumulated) disbursed to states for afforestation, forest protection, wildlife management, and **Joint Forest Management** activities.
-- **National Afforestation Programme (NAP)** — launched **2000** (revised); MoEFCC scheme for afforestation on degraded forest and non-forest land through **Forest Development Agencies (FDAs)**.
-- **Green India Mission (GIM)** — **2014**; one of 8 National Action Plan on Climate Change missions; target 5 million hectares improvement; emphasizes native species, biodiversity.
-- **Nagar Van Scheme** — urban forest development in cities; mini-forests in municipal areas for air quality and recreation.
-- **Miyawaki method** — dense, fast-growing urban afforestation using native species planted close together; 10× faster growth than conventional plantations; used in Indian cities.
-- **Tree Outside Forests (TOF)** — agroforestry, farm forestry, avenue plantations contribute to **tree cover** component of ISFR — critical for plains states like UP with low forest cover.
-- **Native species emphasis** — NFP 1988 and GIM prioritize indigenous species over exotic monocultures (eucalyptus, poplar) for ecological stability.
-- **ISFR 2023**: India's forest cover increased by **1,554 sq km** since 2021; tree cover increased by **1,289 sq km** — afforestation + TOF both contribute.
+- **National Afforestation Programme (NAP)**. Launched **2000** (revised). MoEFCC scheme for afforestation on degraded forest and non-forest land through **Forest Development Agencies (FDAs)**.
+- **Green India Mission (GIM)**. **2014**. One of 8 National Action Plan on Climate Change missions. Target 5 million hectares improvement. Emphasizes native species, biodiversity.
+- The **Nagar Van Scheme** promotes urban forest development through mini-forests in municipal areas for air quality and recreation.
+- The **Miyawaki method** uses dense, fast-growing urban afforestation with native species planted close together, achieving roughly 10× faster growth than conventional plantations in Indian cities.
+- **Tree Outside Forests (TOF)** from agroforestry, farm forestry, and avenue plantations contribute to the **tree cover** component of ISFR, which is critical for plains states like UP with low forest cover.
+- **Native species emphasis** under NFP 1988 and GIM prioritizes indigenous species over exotic monocultures (eucalyptus, poplar) for ecological stability.
+- **ISFR 2023**: India's forest cover increased by **1,554 sq km** since 2021. Tree cover increased by **1,289 sq km**. Afforestation + TOF both contribute.
 
 > **Exam note:** Compensatory afforestation is **mandatory under FCA**, not voluntary. Trap: "CAMPA fund used only for wildlife" = **FALSE** — primarily afforestation.
 
@@ -438,8 +438,8 @@ KEY DATES:
 
 - Afforestation = new forest on non-forest/degraded land
 - Compensatory afforestation = mandatory under FCA 1980
-- CAMPA 2009; Act 2016; NPV payment required
-- NAP = **2000**; FDAs implement
+- CAMPA 2009. Act 2016. NPV payment required.
+- NAP = **2000**. FDAs implement.
 - Green India Mission = **2014**
 - Miyawaki = dense urban native-species method
 - Tree cover growth from farm/agroforestry counts in ISFR
@@ -474,16 +474,16 @@ KEY DATES:
 
 ### Social Forestry — How It Works
 
-- **Social forestry** aims to **reduce pressure on natural forests** by growing trees where people live and farm — meeting domestic needs locally.
-- Concept formalized after **National Commission on Agriculture (1976)** identified India's **fuelwood famine** — rural households dependent on dwindling forest extraction.
-- **Three components**: **(1) Farm forestry** — farmers plant trees on own land (eucalyptus, poplar, teak); **(2) Community forestry** — village commons, panchayat land; **(3) Extension forestry** — roadsides, canal banks, institutional land.
-- **Farm forestry** became most successful component — farmers treat trees as **cash crops** (poplar in UP, eucalyptus in AP) selling to industry.
-- **Community forestry** involves village institutions planting and protecting trees on common land — weaker than JFM in degraded forest management.
-- **Kerala** pioneered social forestry programmes in 1970s–80s — high literacy and panchayat involvement drove success.
-- **NFP 1988** integrated social forestry as key strategy for achieving 33% cover — "massive people's movement with involvement of women."
+- **Social forestry** aims to **reduce pressure on natural forests** by growing trees where people live and farm. Meeting domestic needs locally.
+- Concept formalized after **National Commission on Agriculture (1976)** identified India's **fuelwood famine**. Rural households dependent on dwindling forest extraction.
+- **Three components** make up social forestry: **(1) Farm forestry**, where farmers plant trees on own land (eucalyptus, poplar, teak), **(2) Community forestry** on village commons and panchayat land, and **(3) Extension forestry** along roadsides, canal banks, and institutional land.
+- **Farm forestry** became most successful component. Farmers treat trees as **cash crops** (poplar in UP, eucalyptus in AP) selling to industry.
+- **Community forestry** involves village institutions planting and protecting trees on common land. Weaker than JFM in degraded forest management.
+- **Kerala** pioneered social forestry programmes in 1970s–80s. High literacy and panchayat involvement drove success.
+- **NFP 1988** integrated social forestry as key strategy for achieving 33% cover. "massive people's movement with involvement of women.".
 - **Benefits**: fuelwood, fodder, small timber, fruit, employment, soil conservation, and carbon sequestration on non-forest land.
-- **Limitations**: monoculture plantations (eucalyptus) reduce biodiversity; groundwater depletion in some regions; industry-driven farm forestry may not serve poorest households.
-- **Distinction from JFM**: Social forestry = **non-forest land**; JFM = **degraded forest land** co-managed with forest department.
+- **Limitations**: monoculture plantations (eucalyptus) reduce biodiversity. Groundwater depletion in some regions. Industry-driven farm forestry may not serve poorest households.
+- **Distinction from JFM**: Social forestry = **non-forest land**. JFM = **degraded forest land** co-managed with forest department.
 
 > **Exam note:** Social forestry born from **NCA 1976** fuelwood crisis — not 1990 (JFM year). Trap: "Social forestry = JFM" = **FALSE**.
 
@@ -535,16 +535,16 @@ KEY DATES:
 
 ### Agroforestry — How It Works
 
-- **Agroforestry** deliberately combines **trees + agricultural crops/livestock** on the same land — spatially (intercropping) or temporally (sequential planting).
-- **National Agroforestry Policy 2014** — first comprehensive policy; aims to increase tree cover outside forests, improve farmer income, and sequester carbon.
-- **ICAR-CAFRI (Central Agroforestry Research Institute)** — **Jhansi, UP** — nodal research body under ICAR; develops agroforestry models for different agro-climatic zones.
+- **Agroforestry** deliberately combines **trees + agricultural crops/livestock** on the same land. Spatially (intercropping) or temporally (sequential planting).
+- **National Agroforestry Policy 2014**. First comprehensive policy. Aims to increase tree cover outside forests, improve farmer income, and sequester carbon.
+- **ICAR-CAFRI (Central Agroforestry Research Institute)**. **Jhansi, UP**. Nodal research body under ICAR. Develops agroforestry models for different agro-climatic zones.
 - **Common systems**: **Silvopasture** (trees + grazing), **alley cropping** (tree rows between crop alleys), **home gardens** (multi-storey diverse planting), **windbreaks/shelterbelts**, **taungya** (forestry with shifting agriculture).
 - **Benefits**: soil erosion control, improved soil fertility (nitrogen-fixing trees like sesbania), microclimate moderation, diversified income, carbon storage, and reduced pressure on natural forests.
-- **Agroforestry contributes to ISFR "tree cover"** and **Trees Outside Forests (TOF)** — critical for states with low forest cover; UP's tree cover partly from agroforestry/farm forestry.
-- **MPTS (Multi-Purpose Tree Species)** — poplar, eucalyptus, teak, bamboo, melia — chosen for fast growth and market demand.
+- **Agroforestry contributes to ISFR "tree cover"** and **Trees Outside Forests (TOF)**. Critical for states with low forest cover. UP's tree cover partly from agroforestry/farm forestry.
+- **MPTS (Multi-Purpose Tree Species)** such as poplar, eucalyptus, teak, bamboo, and melia are chosen for fast growth and market demand.
 - **Challenges**: unclear tree ownership/tenure, limited credit/insurance for tree crops, market fluctuations, and conflict with FCA rules on tree felling transport (simplified by 2014 policy).
-- **Climate adaptation**: agroforestry buffers crops against drought and heat; FAO recognizes it as key climate-smart agriculture practice.
-- **Distinction from social forestry**: Agroforestry = **integrated crop-tree systems** on agricultural land; social forestry is broader community tree-planting concept.
+- **Climate adaptation**: agroforestry buffers crops against drought and heat. FAO recognizes it as key climate-smart agriculture practice.
+- **Distinction from social forestry**: Agroforestry = **integrated crop-tree systems** on agricultural land. Social forestry is broader community tree-planting concept.
 
 > **Exam note:** CAFRI is in **Jhansi, UP** — UPPCS may test location. Trap: "Agroforestry Policy 2006" = **FALSE** — it is **2014**.
 
@@ -598,16 +598,16 @@ KEY DATES:
 
 ### Joint Forest Management (JFM) — How It Works
 
-- **JFM** launched through **MoEF resolution in June 1990** — India's flagship participatory forest management programme before FRA 2006.
-- **Objective**: regenerate **degraded forest land** by involving villages as partners — reduces enforcement cost and improves forest condition.
-- **Village institutions**: **Van Samrakshan Samiti (VSS)** or **Forest Protection Committee (FPC)** formed at village level — general body of all adults; executive committee for daily management.
-- **Forest department** signs **JFM agreement/MOU** with VSS — demarcates area (usually degraded forest), defines roles, benefit-sharing, and protection duties.
-- **Benefit sharing**: community receives **50% of net income** from regenerated forest produce (timber, NTFP after final felling); intermediate produce (grass, fodder, fallen wood) often fully shared.
-- **Micro-plans** prepared for each JFM unit — detailing silvicultural operations, protection measures, and livelihood activities (nurseries, NTFP processing).
-- **NFP 1988** provided policy foundation — "massive people's movement" for forest conservation; JFM operationalized this vision.
-- **India has 100,000+ JFM committees** managing significant forest area — one of world's largest participatory forestry programmes.
-- **JFM vs FRA**: JFM = **executive scheme** for co-management of degraded forests; FRA = **statutory rights** over forest land for STs/OTFDs — complementary but different legal status.
-- **JFM vs Social Forestry**: JFM manages **existing degraded forest**; social forestry plants trees on **non-forest land**.
+- **JFM** launched through **MoEF resolution in June 1990**. India's flagship participatory forest management programme before FRA 2006.
+- **Objective**: regenerate **degraded forest land** by involving villages as partners. Reduces enforcement cost and improves forest condition.
+- **Village institutions**: **Van Samrakshan Samiti (VSS)** or **Forest Protection Committee (FPC)** formed at village level. General body of all adults. Executive committee for daily management.
+- **Forest department** signs **JFM agreement/MOU** with VSS. Demarcates area (usually degraded forest), defines roles, benefit-sharing, and protection duties.
+- **Benefit sharing**: community receives **50% of net income** from regenerated forest produce (timber, NTFP after final felling). Intermediate produce (grass, fodder, fallen wood) often fully shared.
+- **Micro-plans** prepared for each JFM unit. Detailing silvicultural operations, protection measures, and livelihood activities (nurseries, NTFP processing).
+- **NFP 1988** provided policy foundation. "massive people's movement" for forest conservation. JFM operationalized this vision.
+- **India has 100,000+ JFM committees** managing significant forest area. One of world's largest participatory forestry programmes.
+- **JFM vs FRA**: JFM = **executive scheme** for co-management of degraded forests. FRA = **statutory rights** over forest land for STs/OTFDs. Complementary but different legal status.
+- **JFM vs Social Forestry**: JFM manages **existing degraded forest**. Social forestry plants trees on **non-forest land**.
 - **Limitations**: unequal power (forest dept dominates), benefit-sharing disputes, elite capture in VSS, and insecurity as agreements are not permanent land rights (addressed partly by FRA).
 
 > **Exam note:** JFM = **1990** — UPPCS 2021 asked directly. Trap: "JFM launched with FRA in 2006" = **FALSE**.
@@ -627,10 +627,10 @@ KEY DATES:
 - JFM = **1990** MoEF resolution
 - VSS/FPC at village level
 - 50% produce income to community
-- Manages **degraded forest** — not non-forest land
+- Manages **degraded forest**. Not non-forest land.
 - NFP 1988 policy foundation
 - 100,000+ committees in India
-- Executive scheme — not a statute like FRA
+- Executive scheme. Not a statute like FRA.
 - Complements but ≠ FRA rights
 
 ### PYQs — Joint Forest Management (JFM)
@@ -663,17 +663,17 @@ KEY DATES:
 
 ### Forest Rights Act — How It Works
 
-- **FRA 2006** enacted December 2006; **Rules notified 2008** — recognizes forest-dwelling **Scheduled Tribes (STs)** and **Other Traditional Forest Dwellers (OTFDs)**.
-- **Purpose**: correct **historical injustice** — colonial IFA 1927 and post-independence policies criminalized traditional forest use and displaced communities.
-- **Individual Forest Rights (IFR)**: right to hold and live on forest land for habitation or self-cultivation — max **4 hectares** per household; must have occupied land as of **13 December 2005**.
+- **FRA 2006** enacted December 2006. **Rules notified 2008**. Recognizes forest-dwelling **Scheduled Tribes (STs)** and **Other Traditional Forest Dwellers (OTFDs)**.
+- **Purpose**: correct **historical injustice**. Colonial IFA 1927 and post-independence policies criminalized traditional forest use and displaced communities.
+- **Individual Forest Rights (IFR)**: right to hold and live on forest land for habitation or self-cultivation. Max **4 hectares** per household. Must have occupied land as of **13 December 2005**.
 - **Community Forest Rights (CFR)**: nistar, grazing, fishing, access to NTFP, and right to **protect, regenerate, conserve, or manage** community forest resources traditionally protected.
-- **Community Forest Resource Rights**: community governance over traditional forest boundaries — strongest community empowerment provision.
-- **Gram Sabha** is the **primary authority** — receives claims, verifies, passes resolution; then **SDLC** (Sub-Divisional Level Committee) and **DLC** (District Level Committee) review.
-- **Rights are heritable** but **not alienable/transferable** — registered jointly in both spouses' names.
-- **No eviction** until recognition process complete — protection during claim pendency.
-- **Critical Wildlife Habitat (CWH)** — provision to relocate communities from national parks/sanctuaries only after rigorous scientific proof and consent process — controversial balance with conservation.
-- **FRA vs FCA**: FRA grants **rights**; FCA controls **diversion** — both operate on forest land; SC has adjudicated conflicts (e.g., Niyamgiri 2013 — Gram Sabha rejected Vedanta mining).
-- **Implementation**: ~2.2 million IFR titles, ~1 lakh CFR titles across 20+ states by 2021 — significant but below potential 40 million hectares.
+- **Community Forest Resource Rights**: community governance over traditional forest boundaries. Strongest community empowerment provision.
+- **Gram Sabha** is the **primary authority**. Receives claims, verifies, passes resolution. Then **SDLC** (Sub-Divisional Level Committee) and **DLC** (District Level Committee) review.
+- **Rights are heritable** but **not alienable/transferable**. Registered jointly in both spouses' names.
+- **No eviction** until recognition process complete. Protection during claim pendency.
+- **Critical Wildlife Habitat (CWH)**. Provision to relocate communities from national parks/sanctuaries only after rigorous scientific proof and consent process. Controversial balance with conservation.
+- **FRA vs FCA**: FRA grants **rights**. FCA controls **diversion**. Both operate on forest land. SC has adjudicated conflicts (e.g., Niyamgiri 2013. Gram Sabha rejected Vedanta mining).
+- **Implementation**: ~2.2 million IFR titles, ~1 lakh CFR titles across 20+ states by 2021. Significant but below potential 40 million hectares.
 
 > **Exam note:** IFR cap = **4 hectares**, not 5 or 10. Occupation cutoff = **13 December 2005**. Trap: "FRA enacted 2002" = **FALSE** (BDA 2002 year).
 
@@ -697,7 +697,7 @@ KEY DATES:
 
 ### Exam Facts (raata)
 
-- FRA = **2006**; Rules **2008**
+- FRA = **2006**. Rules **2008**.
 - Covers **STs + OTFDs**
 - IFR max = **4 hectares**
 - Occupation cutoff = **13 December 2005**

@@ -113,16 +113,16 @@ KEY TRAPS:
 
 ### Water Resources — How It Works
 
-- **Earth's water distribution**: ~**97.2%** in oceans ( saline); ~**2%** in polar ice and glaciers; ~**0.6%** in groundwater; rivers and lakes together hold only ~**0.01%** of total water — yet rivers are most visible and heavily used.
-- **Descending order of world water supply** (UPPCS 2025 Q88): **Oceans (1) > Polar ice/glaciers (3) > Groundwater (4) > Rivers (2)** — answer **1-3-4-2**.
-- **India's water paradox**: holds ~**4%** of world's renewable freshwater but supports ~**18%** of global population — per capita availability has fallen from ~5,000 m³/year (1951) to ~**1,400 m³/year** (stress threshold = 1,700 m³).
-- **Surface water** includes rivers, lakes, reservoirs, and tanks — **highly seasonal** in monsoon-dependent India; Ganga-Brahmaputra system carries ~40% of India's river water.
-- **Groundwater** is India's largest **extractable** freshwater source (~45% of irrigation, ~80% of rural domestic supply) — invisible stock in aquifers recharged by monsoon infiltration.
-- **Renewable vs stock**: rivers and rainfall renew annually; **fossil groundwater** in deep aquifers (Rajasthan) may not recharge within human timescales — over-extraction creates permanent deficit.
+- **Earth's water distribution**: ~**97.2%** in oceans ( saline). ~**2%** in polar ice and glaciers. ~**0.6%** in groundwater. Rivers and lakes together hold only ~**0.01%** of total water. Yet rivers are most visible and heavily used.
+- **Descending order of world water supply** (UPPCS 2025 Q88): **Oceans (1) > Polar ice/glaciers (3) > Groundwater (4) > Rivers (2)**. Answer **1-3-4-2**.
+- **India's water paradox**: holds ~**4%** of world's renewable freshwater but supports ~**18%** of global population. Per capita availability has fallen from ~5,000 m³/year (1951) to ~**1,400 m³/year** (stress threshold = 1,700 m³).
+- **Surface water** includes rivers, lakes, reservoirs, and tanks. It is **highly seasonal** in monsoon-dependent India, and the Ganga-Brahmaputra system carries about 40% of India's river water.
+- **Groundwater** is India's largest **extractable** freshwater source (~45% of irrigation, ~80% of rural domestic supply). Invisible stock in aquifers recharged by monsoon infiltration.
+- **Renewable vs stock**: Rivers and rainfall renew annually, but **fossil groundwater** in deep aquifers (Rajasthan) may not recharge within human timescales. Over-extraction can create a permanent deficit.
 - **Water stress drivers**: population growth, urbanisation, industrial demand, inefficient irrigation (flood irrigation loses 40–60% to evaporation/seepage), pollution reducing usable supply.
-- **Inter-state disputes** (Krishna, Cauvery, Yamuna) show water is a **geopolitical resource** — geography of river basins cuts across administrative boundaries.
-- **Virtual water**: water embedded in exported crops (rice, sugar) — Punjab/UP agricultural exports transfer water out of basin.
-- **Climate change impact**: erratic monsoon, glacial melt timing shifts, increased evaporation — alters resource availability without reducing demand.
+- **Inter-state disputes** (Krishna, Cauvery, Yamuna) show water is a **geopolitical resource**. Geography of river basins cuts across administrative boundaries.
+- **Virtual water**: water embedded in exported crops (rice, sugar). Punjab/UP agricultural exports transfer water out of basin.
+- **Climate change impact**: erratic monsoon, glacial melt timing shifts, increased evaporation. Alters resource availability without reducing demand.
 
 > **Exam note:** UPPCS 2025 Q88 — **rivers are the SMALLEST** fraction, not second. Trap: "Groundwater > polar ice" = **FALSE** globally (ice ~2%, groundwater ~0.6% but ice ranks second after oceans).
 
@@ -141,7 +141,7 @@ KEY TRAPS:
 - Oceans **97.2%** | Ice **~2%** | Groundwater **~0.6%** | Rivers **~0.01%**
 - World water descending: **1-3-4-2** (2025 Q88)
 - India: **4%** water, **18%** population
-- Per capita water availability ~**1,400 m³/year** — water-stressed
+- Per capita water availability ~**1,400 m³/year**. Water-stressed.
 - Groundwater = largest **extractable** source in India
 - Ganga-Brahmaputra = ~**40%** of India's river water
 - Water stress threshold = **1,700 m³/capita/year**
@@ -186,15 +186,15 @@ KEY TRAPS:
 
 ### IWRM — How It Works
 
-- **Traditional problem**: water managed in **silos** — irrigation department, pollution board, municipal water, disaster management — each optimises its sector without basin-wide view.
-- **IWRM solution**: manage water at **river basin level** — all upstream and downstream users, quality and quantity, surface and groundwater together.
-- **Dublin Principle 1**: freshwater is **finite and vulnerable** — must balance extraction with recharge and ecological flows.
-- **Dublin Principle 2**: **Participatory management** — local communities, farmers, industry, and government decide allocation together (JFM model applied to water).
-- **Dublin Principle 3**: **Women central role** — in rural India women fetch water; IWRM includes gender equity in access and decision-making.
-- **Dublin Principle 4**: **Economic value of water** — pricing, tradable permits, and cost recovery prevent wasteful use (canal seepage, free electricity for tubewells).
-- **Ecological flows (e-flows)**: minimum water released downstream of dams to maintain river ecology — IWRM integrates environment as a legitimate water "user".
-- **India's institutional shift**: **Ministry of Jal Shakti (2019)** merged Water Resources + Drinking Water & Sanitation — single ministry for IWRM implementation.
-- **River Basin Organisations**: Ganga (NMCG), Godavari, Krishna, Brahmaputra, Narmada — basin-level planning bodies under IWRM framework.
+- **Traditional problem**: water managed in **silos**. Irrigation department, pollution board, municipal water, disaster management. Each optimises its sector without basin-wide view.
+- **IWRM solution**: manage water at **river basin level**. All upstream and downstream users, quality and quantity, surface and groundwater together.
+- **Dublin Principle 1**: freshwater is **finite and vulnerable**. Must balance extraction with recharge and ecological flows.
+- **Dublin Principle 2**: **Participatory management**. Local communities, farmers, industry, and government decide allocation together (JFM model applied to water).
+- **Dublin Principle 3**: **Women central role**. In rural India women fetch water. IWRM includes gender equity in access and decision-making.
+- **Dublin Principle 4**: **Economic value of water**. Pricing, tradable permits, and cost recovery prevent wasteful use (canal seepage, free electricity for tubewells).
+- **Ecological flows (e-flows)**: minimum water released downstream of dams to maintain river ecology. IWRM integrates environment as a legitimate water "user".
+- **India's institutional shift**: **Ministry of Jal Shakti (2019)** merged Water Resources + Drinking Water & Sanitation. Single ministry for IWRM implementation.
+- **River Basin Organisations**: Ganga (NMCG), Godavari, Krishna, Brahmaputra, Narmada. Basin-level planning bodies under IWRM framework.
 - **Conflict resolution**: IWRM provides framework for inter-state water sharing via tribunals (Cauvery, Krishna) based on basin data, not political boundaries alone.
 
 > **Exam note:** IWRM ≠ only building dams. Trap: "IWRM means maximum irrigation extraction" = **FALSE** — includes quality, ecology, and stakeholder participation.
@@ -211,9 +211,9 @@ KEY TRAPS:
 
 ### Exam Facts (raata)
 
-- **Dublin Principles 1992** — 4 principles underpin IWRM globally
-- **National Water Policy 2012** — basin approach; priority to drinking water
-- **Ministry of Jal Shakti** formed **May 2019** — IWRM institutional home
+- **Dublin Principles 1992**. 4 principles underpin IWRM globally.
+- **National Water Policy 2012**. Basin approach. Priority to drinking water.
+- **Ministry of Jal Shakti** formed **May 2019**. IWRM institutional home.
 - **River basin** = basic IWRM planning unit
 - **Ecological flows** = minimum river flow for ecosystem health
 - **Conjunctive use** = coordinated surface water + groundwater management
@@ -257,16 +257,16 @@ KEY TRAPS:
 
 ### Rainwater Harvesting — How It Works
 
-- **Why needed**: most Indian cities receive adequate annual rainfall but face **water shortage** because rain falls in short intense bursts — runoff drains quickly without capture.
-- **Rooftop harvesting**: rain collected from roof → filter → storage tank for direct use (toilet flushing, gardening, drinking after treatment) OR recharge pit.
-- **Surface runoff harvesting**: check dams, percolation tanks, farm ponds capture runoff in rural areas — recharge aquifers and provide irrigation buffer.
-- **Recharge structures**: recharge pits, recharge wells, shaft recharge, trench recharge — direct infiltration into aquifer through porous strata.
-- **Benefits**: reduces **urban flooding** (Delhi, Chennai waterlogging); supplements municipal supply; improves groundwater table; low-cost decentralised solution.
-- **Tamil Nadu (2003)**: first state to make RWH **mandatory** in all new buildings — Chennai model widely cited.
-- **Rajasthan**: traditional **taanka** (cistern) and **johad** (community pond) systems — centuries-old RWH adapted for arid climate.
-- **Delhi**: mandatory RWH in plots >100 sq m; rebate on water bills for implemented systems.
-- **Quality consideration**: first-flush diversion removes dust/bird droppings from initial rain; stored water needs basic filtration before potable use.
-- **Limitation**: cannot replace bulk municipal supply in dense cities — works best as **supplement** and for recharge, not sole source.
+- **Why needed**: most Indian cities receive adequate annual rainfall but face **water shortage** because rain falls in short intense bursts. Runoff drains quickly without capture.
+- **Rooftop harvesting**: rain collected from roof, then filter, then storage tank for direct use (toilet flushing, gardening, drinking after treatment) or recharge pit.
+- **Surface runoff harvesting**: check dams, percolation tanks, farm ponds capture runoff in rural areas. Recharge aquifers and provide irrigation buffer.
+- **Recharge structures**: recharge pits, recharge wells, shaft recharge, trench recharge. Direct infiltration into aquifer through porous strata.
+- **Benefits**: reduces **urban flooding** (Delhi, Chennai waterlogging). Supplements municipal supply. Improves groundwater table. Low-cost decentralised solution.
+- **Tamil Nadu (2003)**: first state to make RWH **mandatory** in all new buildings. Chennai model widely cited.
+- **Rajasthan**: traditional **taanka** (cistern) and **johad** (community pond) systems. Centuries-old RWH adapted for arid climate.
+- **Delhi**: mandatory RWH in plots >100 sq m. Rebate on water bills for implemented systems.
+- **Quality consideration**: first-flush diversion removes dust/bird droppings from initial rain. Stored water needs basic filtration before potable use.
+- **Limitation**: cannot replace bulk municipal supply in dense cities. Works best as **supplement** and for recharge, not sole source.
 
 > **Exam note:** RWH ≠ only rooftop tanks. Includes recharge pits, check dams, and traditional johads. Trap: "RWH eliminates need for groundwater regulation" = **FALSE** — both needed together.
 
@@ -289,7 +289,7 @@ KEY TRAPS:
 - **Johad/taanka** = traditional Rajasthan RWH
 - Delhi: mandatory on plots >**100 sq m**
 - First-flush diversion improves stored water quality
-- RWH is decentralised — complements centralised piped supply
+- RWH is decentralised. Complements centralised piped supply.
 
 ### PYQs — Rainwater Harvesting
 
@@ -331,15 +331,15 @@ KEY TRAPS:
 
 ### Watershed Management — How It Works
 
-- **Watershed definition**: geographic area bounded by a ridge line from which all water drains to a common outlet (stream, river, lake) — also called **catchment** or **drainage basin**.
-- **Ridge-to-valley principle**: treat land from **top (ridge)** downward — afforestation and contour bunds at top reduce runoff velocity; check dams mid-slope; field-level water harvesting at bottom.
-- **Soil + water conservation link**: bare deforested slopes → high runoff → erosion + siltation of rivers (Ganga siltation) + reduced groundwater recharge — watershed treats root cause.
-- **Contour bunding / nala bunding**: earthen embankments along contours trap rainwater on slopes — MGNREGA widely implements these in UP Bundelkhand and drought-prone areas.
+- **Watershed definition**: geographic area bounded by a ridge line from which all water drains to a common outlet (stream, river, lake). Also called **catchment** or **drainage basin**.
+- **Ridge-to-valley principle**: treat land from **top (ridge)** downward. Afforestation and contour bunds at top reduce runoff velocity. Check dams mid-slope. Field-level water harvesting at bottom.
+- **Soil + water conservation link**: bare deforested slopes, then high runoff, then erosion + siltation of rivers (ganga siltation) + reduced groundwater recharge. Watershed treats root cause.
+- **Contour bunding / nala bunding**: earthen embankments along contours trap rainwater on slopes. MGNREGA widely implements these in UP Bundelkhand and drought-prone areas.
 - **Afforestation + grassing**: vegetative cover increases infiltration, reduces evaporation from bare soil, provides fodder and fuel.
-- **Check dams and gully plugs**: small structures on seasonal streams — store water briefly, allow sediment deposition, recharge downstream aquifers.
-- **Community participation**: **Sukhomajri (Haryana)** and **Ralegan Siddhi (Maharashtra)** — village-level watershed committees manage resources; success depends on collective action.
-- **IWMP (2009 restructured)**: central scheme for integrated watershed development — convergence with MGNREGA, horticulture, and livestock programmes.
-- **DPAP (1973) / DDP**: drought-prone area programmes included watershed treatment — 2025 Q134 chronology crossover (DPAP = 1973).
+- **Check dams and gully plugs**: small structures on seasonal streams. Store water briefly, allow sediment deposition, recharge downstream aquifers.
+- **Community participation**: **Sukhomajri (Haryana)** and **Ralegan Siddhi (Maharashtra)**. Village-level watershed committees manage resources. Success depends on collective action.
+- **IWMP (2009 restructured)**: central scheme for integrated watershed development. Convergence with MGNREGA, horticulture, and livestock programmes.
+- **DPAP (1973) / DDP)**: drought-prone area programmes included watershed treatment. 2025 Q134 chronology crossover (DPAP = 1973).
 - **Outcomes**: increased crop yield, reduced soil erosion, higher groundwater table, drought resilience, reduced flood peaks downstream.
 
 > **Exam note:** Watershed management **prevents** erosion — trap: "watershed management increases soil erosion" = **FALSE** (reversed cause-effect).
@@ -361,10 +361,10 @@ KEY TRAPS:
 
 - Watershed = **drainage basin** from ridge to outlet
 - **Ridge-to-valley** treatment sequence
-- **IWMP 2009** — integrated watershed programme
+- **IWMP 2009**. Integrated watershed programme.
 - **Sukhomajri** (Haryana) + **Ralegan Siddhi** (Maharashtra) = success models
 - **MGNREGA** implements watershed works (contour bunds, check dams)
-- **DPAP 1973** — early drought-watershed programme
+- **DPAP 1973**. Early drought-watershed programme.
 - Reduces erosion + recharges groundwater + improves crop yield
 
 ### PYQs — Watershed Management
@@ -408,15 +408,15 @@ KEY TRAPS:
 ### River Conservation — How It Works
 
 - **River degradation drivers**: untreated **sewage** (~70% urban load), **industrial effluent** (tanneries, textiles, paper), **religious/social dumping**, **sand mining**, **encroachment on floodplains**, and **dam-induced flow alteration**.
-- **Ganga Action Plan (GAP) 1985**: India's first major river cleaning programme — launched by Rajiv Gandhi; focused on STPs in Class-I towns along Ganga; limited success due to inadequate maintenance and institutional gaps.
-- **Namami Gange (2014)**: relaunched integrated mission — **₹20,000 crore** flagship; components: STP/CETP construction, **real-time water quality monitoring**, river surface skimmers, **biodiversity conservation** (dolphins, turtles), afforestation, Ganga Gram (village sanitation).
-- **NMCG (National Mission for Clean Ganga)**: registered society under **Jal Shakti Ministry** — implements Namami Gange; coordinates with UP, Uttarakhand, Bihar, WB state missions.
-- **STP (Sewage Treatment Plant)**: treats domestic sewage to prescribed BOD/coliform standards before river discharge — Kanpur, Varanasi, Lucknow STPs under Namami Gange.
-- **CETP (Common Effluent Treatment Plant)**: treats combined industrial effluent — Kanpur tannery CETP targets **chromium** discharge into Ganga.
-- **Real-Time Water Quality Monitoring (RTWQM)**: CPCB/NMCG stations measure DO, BOD, pH, coliform — public dashboard for transparency.
-- **National River Conservation Plan (NRCP)**: extends GAP model to other polluted rivers — Yamuna, Gomti, Mahanadi, Godavari stretches.
-- **Aviral Dhara (uninterrupted flow)**: ecological minimum flow for Ganga — IWRM principle applied to river conservation.
-- **UP critical stretches**: **Kanpur** (400+ tanneries, chromium, high BOD), **Varanasi** (sewage + religious waste at ghats), **Gomti-Lucknow** (municipal sewage — Gomti NOT Kanpur), **Yamuna** (Mathura-Agra-NCR stretch).
+- **Ganga Action Plan (GAP) 1985)**: India's first major river cleaning programme. Launched by Rajiv Gandhi. Focused on STPs in Class-I towns along Ganga. Limited success due to inadequate maintenance and institutional gaps.
+- **Namami Gange (2014)**: relaunched integrated mission. **₹20,000 crore** flagship. Components: STP/CETP construction, **real-time water quality monitoring**, river surface skimmers, **biodiversity conservation** (dolphins, turtles), afforestation, Ganga Gram (village sanitation).
+- **NMCG (National Mission for Clean Ganga)**: registered society under **Jal Shakti Ministry**. Implements Namami Gange. Coordinates with UP, Uttarakhand, Bihar, WB state missions.
+- **STP (Sewage Treatment Plant)**: treats domestic sewage to prescribed BOD/coliform standards before river discharge. Kanpur, Varanasi, Lucknow STPs under Namami Gange.
+- **CETP (Common Effluent Treatment Plant)**: treats combined industrial effluent. Kanpur tannery CETP targets **chromium** discharge into Ganga.
+- **Real-Time Water Quality Monitoring (RTWQM)**: CPCB/NMCG stations measure DO, BOD, pH, coliform. Public dashboard for transparency.
+- **National River Conservation Plan (NRCP)**: extends GAP model to other polluted rivers. Yamuna, Gomti, Mahanadi, Godavari stretches.
+- **Aviral Dhara (uninterrupted flow)**: ecological minimum flow for Ganga. IWRM principle applied to river conservation.
+- **UP critical stretches**: **Kanpur** (400+ tanneries, chromium, high BOD), **Varanasi** (sewage + religious waste at ghats), **Gomti-Lucknow** (municipal sewage. Gomti NOT Kanpur), **Yamuna** (Mathura-Agra-NCR stretch).
 
 > **Exam note:** **Gomti = Lucknow** | **Kanpur = Ganga tannery stretch** — most common UP river-city trap. Namami Gange = **2014**, GAP = **1985**.
 
@@ -431,12 +431,12 @@ KEY TRAPS:
 
 ### Exam Facts (raata)
 
-- **GAP 1985** → **Namami Gange 2014**
+- **GAP 1985**, then **Namami Gange 2014**.
 - **NMCG** = nodal agency for Namami Gange
 - **Kanpur** = worst Ganga pollution (tanneries/chromium)
-- **Gomti** flows through **Lucknow** — municipal sewage
-- **STP** = sewage; **CETP** = industrial effluent
-- Clean river: BOD **<3 mg/L**; DO **>6 mg/L**
+- **Gomti** flows through **Lucknow**. Municipal sewage.
+- **STP** = sewage. **CETP** = industrial effluent.
+- Clean river: BOD **<3 mg/L**. DO **>6 mg/L**.
 - **Aviral Dhara** = ecological minimum flow concept
 
 ### PYQs — River Conservation
@@ -480,12 +480,12 @@ KEY TRAPS:
 ### Wetland Conservation — How It Works
 
 - **Wetland ecosystem services**: flood absorption, **groundwater recharge**, water purification, fisheries, rice paddies, migratory bird habitat, carbon storage (peat), and microclimate regulation.
-- **Ramsar Convention (1971)**: **Wise use** = maintaining ecological character while allowing sustainable human use — not total ban on activity.
-- **India and Ramsar**: signed **February 1982**; ~**100 Ramsar sites** (2026) — **largest in Asia**, 3rd globally; first Indian sites: **Chilika + Keoladeo (1981)**.
-- **Wetland Rules 2017**: MoEFCC notifies wetlands; prohibits reclamation, solid waste dumping, poaching; State Wetland Authorities implement; **National Wetland Inventory and Assessment (NWIA)** maps wetlands.
-- **Montreux Record**: register of Ramsar sites facing severe ecological threats — Keoladeo was listed, recovered after conservation efforts.
+- **Ramsar Convention (1971)**: **Wise use** = maintaining ecological character while allowing sustainable human use. Not total ban on activity.
+- **India and Ramsar**: signed **February 1982**. ~**100 Ramsar sites** (2026). **Largest in Asia**, 3rd globally. First Indian sites: **Chilika + Keoladeo (1981)**.
+- **Wetland Rules 2017**: MoEFCC notifies wetlands. Prohibits reclamation, solid waste dumping, poaching. State Wetland Authorities implement. **National Wetland Inventory and Assessment (NWIA)** maps wetlands.
+- **Montreux Record**: register of Ramsar sites facing severe ecological threats. Keoladeo was listed, recovered after conservation efforts.
 - **UP has 12 Ramsar sites** (2026): Upper Ganga, Nawabganj, Samaspur, Sarsai Nawar, Sur Sarovar, Haiderpur, Bakhira, Patna Bird Sanctuary, Parvati Agra Bird Sanctuary, Saman Bird Sanctuary, Shekha Jheel, Jai Prakash Narayan Bird Sanctuary.
-- **NOT in UP** (UPPCS 2025 Q58): **Rudrasagar Lake = Tripura**; **Sultanpur National Park = Gurugram, Haryana** — both named similarly but outside UP.
+- **NOT in UP** (UPPCS 2025 Q58): **Rudrasagar Lake = Tripura**. **Sultanpur National Park = Gurugram, Haryana**. Both named similarly but outside UP.
 - **Wetland loss drivers**: drainage for agriculture/urbanisation, pollution, invasive species (water hyacinth), and climate change altering hydrology.
 - **Conservation tools**: Ramsar designation + WPA protected area status + ESZ buffer + local community fishing rights regulation.
 - **Namami Gange overlap**: **Upper Ganga Ramsar site** links river conservation with wetland protection.
@@ -511,12 +511,12 @@ KEY TRAPS:
 
 ### Exam Facts (raata)
 
-- Ramsar Convention = **1971**; India joined **1982**
+- Ramsar Convention = **1971**. India joined **1982**.
 - **World Wetlands Day = 2 February**
-- India ~**100** Ramsar sites; **UP = 12**
-- **NOT in UP**: Rudrasagar (Tripura), Sultanpur NP (Haryana) — Q58
-- Wetland Rules **2017** — MoEFCC
-- **Wise use** principle — sustainable use allowed
+- India ~**100** Ramsar sites. **UP = 12**.
+- **NOT in UP**: Rudrasagar (Tripura), Sultanpur NP (Haryana). Q58.
+- Wetland Rules **2017**. MoEFCC.
+- **Wise use** principle. Sustainable use allowed.
 - Keoladeo + Chilika = first Indian Ramsar sites (1981)
 
 ### PYQs — Wetland Conservation
@@ -559,16 +559,16 @@ KEY TRAPS:
 
 ### Groundwater Conservation — How It Works
 
-- **India's groundwater dependence**: ~**45%** of irrigated area and ~**80%** of rural domestic water from tubewells — largest user of groundwater globally.
-- **Over-extraction crisis**: Green Revolution belt (**Punjab, Haryana, UP, Rajasthan**) — water table falling **0.5–2 m/year** in many blocks; some blocks classified **over-exploited** (extraction > recharge).
+- **India's groundwater dependence**: ~**45%** of irrigated area and ~**80%** of rural domestic water from tubewells. Largest user of groundwater globally.
+- **Over-extraction crisis**: Green Revolution belt (**Punjab, Haryana, UP, Rajasthan**). Water table falling **0.5–2 m/year** in many blocks. Some blocks classified **over-exploited** (extraction > recharge).
 - **Consequences of over-extraction**: land subsidence, drying of shallow wells, **intrusion of saline water** in coastal aquifers (Gujarat, Tamil Nadu), reduced base flow to rivers, increased energy cost for deeper pumping.
-- **Recharge mechanisms**: monsoon infiltration, river seepage, canal seepage, **rainwater harvesting**, check dams, and managed aquifer recharge (MAR) — conservation = augment recharge + reduce extraction.
-- **Atal Bhujal Yojana (2019)**: World Bank-assisted scheme in **7 states** (UP, MP, Rajasthan, Gujarat, Maharashtra, Haryana, Karnataka) — community groundwater management, water budgeting, panchayat-level planning.
-- **CGWB role**: publishes **Annual Groundwater Quality Report** — assesses fluoride, arsenic, nitrate, iron, salinity — **NOT CPCB** (UPPCS 2025 Q70 trap).
-- **CPCB role**: surface water quality monitoring, NAAQS for air — **does NOT prepare groundwater quality report**.
-- **Contamination hotspots**: **Arsenic** — Ganga-Brahmaputra floodplain (Bihar, Bengal, UP border districts); **Fluoride** — Rajasthan, UP (Agra, Aligarh belt), Telangana; **Nitrate** — intensive agriculture (fertilizer leaching).
-- **Regulatory tools**: CGWB issues **groundwater extraction guidelines**; NOC required for industrial/commercial extraction in over-exploited blocks; **drop in tubewell water levels** triggers restriction.
-- **Conjunctive use**: coordinate canal irrigation with tubewell use — reduce groundwater stress during monsoon when surface water available.
+- **Recharge mechanisms**: monsoon infiltration, river seepage, canal seepage, **rainwater harvesting**, check dams, and managed aquifer recharge (MAR). Conservation = augment recharge + reduce extraction.
+- **Atal Bhujal Yojana (2019)**: World Bank-assisted scheme in **7 states** (UP, MP, Rajasthan, Gujarat, Maharashtra, Haryana, Karnataka). Community groundwater management, water budgeting, panchayat-level planning.
+- **CGWB role**: publishes **Annual Groundwater Quality Report**. Assesses fluoride, arsenic, nitrate, iron, salinity. **NOT CPCB** (UPPCS 2025 Q70 trap).
+- **CPCB role**: surface water quality monitoring, NAAQS for air. **Does NOT prepare groundwater quality report**.
+- **Contamination hotspots**: **Arsenic**. Ganga-Brahmaputra floodplain (Bihar, Bengal, UP border districts). **Fluoride**. Rajasthan, UP (Agra, Aligarh belt), Telangana. **Nitrate**. Intensive agriculture (fertilizer leaching).
+- **Regulatory tools**: CGWB issues **groundwater extraction guidelines**. NOC required for industrial/commercial extraction in over-exploited blocks. **Drop in tubewell water levels** triggers restriction.
+- **Conjunctive use**: coordinate canal irrigation with tubewell use. Reduce groundwater stress during monsoon when surface water available.
 
 > **Exam note:** UPPCS 2025 Q70 — **Annual Groundwater Quality Report = CGWB only**. CPCB and CWC traps = **FALSE**. CWC handles water resource data/irrigation planning, not groundwater quality reports.
 
@@ -584,8 +584,8 @@ KEY TRAPS:
 ### Exam Facts (raata)
 
 - **CGWB** = Annual Groundwater Quality Report (**2025 Q70**)
-- **CPCB ≠ groundwater report** — surface water/air focus
-- **Atal Bhujal Yojana 2019** — 7 states; community management
+- **CPCB ≠ groundwater report**. Surface water/air focus.
+- **Atal Bhujal Yojana 2019**. 7 states. Community management.
 - India = largest groundwater user globally
 - **Over-exploited blocks** in Punjab-Haryana-UP-Rajasthan
 - **Arsenic**: Ganga-Brahmaputra basin | **Fluoride**: Rajasthan/UP
@@ -633,15 +633,15 @@ KEY TRAPS:
 ### Drinking Water Quality — How It Works
 
 - **Safe drinking water requirements**: free from **pathogens** (zero faecal coliform), acceptable **taste/colour/odour**, and chemical limits for **arsenic, fluoride, nitrate, iron, heavy metals**.
-- **Microbiological standard**: **zero faecal coliform per 100 ml** — any detection indicates sewage contamination and risk of cholera, typhoid, hepatitis.
-- **Key chemical limits (IS 10500:2012)**: **Fluoride ≤1.5 mg/L** (optimal 0.5–1.0); **Arsenic ≤0.01 mg/L**; **Nitrate ≤45 mg/L**; **pH 6.5–8.5**; **TDS ≤500 mg/L** (acceptable up to 2000 mg/L if no alternative).
-- **BOD/DO relevance**: BOD measures **organic pollution** in raw/river water — high BOD source water needs stronger treatment before meeting drinking standards; **BOD is NOT a drinking water standard parameter** (it's a river quality indicator).
-- **Jal Jeevan Mission (August 2019)**: launched by Jal Shakti Ministry — target **55 litres per capita per day (LPCD)** piped water to rural households; integrates with **Swachh Bharat** (sanitation prevents recontamination).
-- **Chronology trap** (UPPCS 2025 Q72): JNNURM (2005) → NUHHP (2007) → AMRUT (2015) → **Jal Jeevan Mission (2019)** — JJM is latest.
-- **Jal Jeevan Mission 2024 launch date** (2024 Q91 matching): **August 2019** — not 2014 (Swachh Bharat = Oct 2014).
-- **Treatment chain**: source → coagulation → filtration → disinfection (chlorination/UV) → storage → tap; **Arsenic/fluoride** need specialised treatment (activated alumina, RO).
-- **Urban vs rural gap**: cities have municipal treatment plants; rural areas historically relied on hand pumps/tubewells — JJM bridges this gap.
-- **SDG 6**: Clean Water and Sanitation — JJM + Swachh Bharat directly contribute; **safe drinking water** = SDG 6.1 target.
+- **Microbiological standard**: **zero faecal coliform per 100 ml**. Any detection indicates sewage contamination and risk of cholera, typhoid, hepatitis.
+- **Key chemical limits (IS 10500:2012)**: **Fluoride ≤1.5 mg/L** (optimal 0.5–1.0). **Arsenic ≤0.01 mg/L**. **Nitrate ≤45 mg/L**. **PH 6.5–8.5**. **TDS ≤500 mg/L** (acceptable up to 2000 mg/L if no alternative).
+- **BOD/DO relevance**: BOD measures **organic pollution** in raw/river water. High BOD source water needs stronger treatment before meeting drinking standards. **BOD is NOT a drinking water standard parameter** (it's a river quality indicator).
+- **Jal Jeevan Mission (August 2019)**: launched by Jal Shakti Ministry. Target **55 litres per capita per day (LPCD)** piped water to rural households. Integrates with **Swachh Bharat** (sanitation prevents recontamination).
+- **Chronology trap** (UPPCS 2025 Q72): JNNURM (2005), then nuhhp (2007), then amrut (2015), then **Jal Jeevan Mission (2019)**. JJM is latest.
+- **Jal Jeevan Mission 2024 launch date** (2024 Q91 matching): **August 2019**. Not 2014 (Swachh Bharat = Oct 2014).
+- **Treatment chain**: source, then coagulation, then filtration, then disinfection (chlorination/uv), then storage, then tap. **Arsenic/fluoride** need specialised treatment (activated alumina, ro).
+- **Urban vs rural gap**: cities have municipal treatment plants. Rural areas historically relied on hand pumps/tubewells. JJM bridges this gap.
+- **SDG 6**: Clean Water and Sanitation. JJM + Swachh Bharat directly contribute. **Safe drinking water** = SDG 6.1 target.
 
 > **Exam note:** Jal Jeevan Mission = **August 2019**, NOT 2014. Swachh Bharat = 2014. BOD measures **water organic pollution** — trap: "BOD is drinking water quality standard" = **FALSE**.
 
@@ -659,7 +659,7 @@ KEY TRAPS:
 
 ### Exam Facts (raata)
 
-- **Jal Jeevan Mission = August 2019** — Har Ghar Jal
+- **Jal Jeevan Mission = August 2019**. Har Ghar Jal.
 - **IS 10500:2012** = BIS drinking water standard
 - **Zero faecal coliform** = safe drinking water microbiological standard
 - **Fluoride ≤1.5 mg/L** | **Arsenic ≤0.01 mg/L**

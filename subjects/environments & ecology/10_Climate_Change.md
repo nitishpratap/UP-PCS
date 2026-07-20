@@ -157,16 +157,16 @@ KEY TRAPS:
 
 ### Global Warming — How It Works
 
-- **Global warming** refers specifically to the **rise in average near-surface temperature** — it is the most visible indicator of broader **climate change**, which also includes shifts in rainfall, monsoon timing, cyclone intensity, and extreme events.
-- Since the **Industrial Revolution** (~1750), atmospheric **CO₂** has risen from ~280 ppm to over **420 ppm** (2024) — highest in at least 800,000 years per ice-core records.
-- **IPCC AR6 (2023)** states global surface temperature is approximately **1.1°C higher** than the **1850–1900 pre-industrial baseline** — the internationally accepted reference period for Paris Agreement goals.
-- **Anthropogenic forcing** (fossil fuel combustion, deforestation, industrial processes, agriculture) is the **dominant cause** of warming since the mid-20th century — natural factors alone (solar variation, volcanoes) cannot explain observed trends.
-- **Positive feedback loops** amplify warming: Arctic ice melt → less albedo (reflectivity) → more heat absorption; permafrost thaw → methane release → more warming; warmer air → more water vapour (powerful GHG feedback).
-- **India's warming** is significant though slightly below global average in some periods — **IMD** data shows increasing frequency of **heat waves**, particularly in **northwest India and UP** (Indo-Gangetic plain).
-- **Urban heat island effect** adds **2–5°C** locally in cities (Lucknow, NCR) — distinct from global warming but compounds heat stress during climate extremes.
-- **Ocean heat content** has increased — oceans absorb ~90% of excess energy, delaying atmospheric temperature rise but causing thermal expansion (sea-level rise) and marine ecosystem stress.
-- **Attribution science** (IPCC) confirms that extreme events like the 2022 Pakistan floods and recurring UP heat waves are **more likely and intense** due to anthropogenic warming — not "caused by climate alone" but **probability increased**.
-- **Distinguish from weather**: A single cold winter or heavy monsoon day is **weather**; multi-decade temperature trend is **climate/global warming**.
+- **Global warming** refers specifically to the **rise in average near-surface temperature**. It is the most visible indicator of broader **climate change**, which also includes shifts in rainfall, monsoon timing, cyclone intensity, and extreme events.
+- Since the **Industrial Revolution** (~1750), atmospheric **CO₂** has risen from ~280 ppm to over **420 ppm** (2024). Highest in at least 800,000 years per ice-core records.
+- **IPCC AR6 (2023)** states global surface temperature is approximately **1.1°C higher** than the **1850–1900 pre-industrial baseline**. The internationally accepted reference period for Paris Agreement goals.
+- **Anthropogenic forcing** (fossil fuel combustion, deforestation, industrial processes, agriculture) is the **dominant cause** of warming since the mid-20th century. Natural factors alone (solar variation, volcanoes) cannot explain observed trends.
+- **Positive feedback loops** amplify warming: Arctic ice melt reduces albedo (reflectivity) and increases heat absorption, permafrost thaw releases methane for further warming, and warmer air holds more water vapour as a powerful GHG feedback.
+- **India's warming** is significant though slightly below global average in some periods. **IMD** data shows increasing frequency of **heat waves**, particularly in **northwest India and UP** (Indo-Gangetic plain).
+- **Urban heat island effect** adds **2–5°C** locally in cities (Lucknow, NCR). Distinct from global warming but compounds heat stress during climate extremes.
+- **Ocean heat content** has increased. Oceans absorb ~90% of excess energy, delaying atmospheric temperature rise but causing thermal expansion (sea-level rise) and marine ecosystem stress.
+- **Attribution science** (IPCC) confirms that extreme events like the 2022 Pakistan floods and recurring UP heat waves are **more likely and intense** due to anthropogenic warming. Not "caused by climate alone" but **probability increased**.
+- **Distinguish from weather**: A single cold winter or heavy monsoon day is **weather**. Multi-decade temperature trend is **climate/global warming**.
 
 > **Exam note:** Statement "Global warming and climate change are identical" = **PARTIALLY FALSE** — warming is one component; climate change includes precipitation, extremes, sea level. Statement "Global warming is entirely natural" = **FALSE** — IPCC attributes dominant recent trend to human activity.
 
@@ -195,10 +195,10 @@ KEY TRAPS:
 ### PYQs — Global Warming
 
 1. **(UPPCS Prelims 2024, Q19)** Catastrophic coral bleaching in Andaman and Nicobar caused by:
-   → **B. Increase of 2°C temperature in the Indian Ocean** — sea surface warming is primary trigger for mass bleaching; pollution is contributing stressor, not primary cause in this PYQ.
+   → **B. Increase of 2°C temperature in the Indian Ocean**. Sea surface warming is primary trigger for mass bleaching. Pollution is contributing stressor, not primary cause in this PYQ.
 
-2. **(UPSC 2016 — pattern)** Which gas contributes most to **anthropogenic greenhouse effect** by volume of emissions?
-   → **(a) CO₂** — largest share (~76%) of total GHG emissions by mass; CH₄ has higher GWP per molecule but lower total volume.
+2. **(UPSC 2016 pattern)** Which gas contributes most to **anthropogenic greenhouse effect** by volume of emissions?
+   → **(a) CO₂**. Largest share (~76%) of total GHG emissions by mass. CH₄ has higher GWP per molecule but lower total volume.
 
 ### Examples (10.1)
 
@@ -223,16 +223,16 @@ KEY TRAPS:
 
 ### Greenhouse Effect — How It Works
 
-- **Solar radiation** arrives as **shortwave** (visible, UV) — largely passes through atmosphere and heats Earth's surface.
-- Earth re-emits energy as **longwave infrared (IR)** radiation — this is the energy GHGs intercept.
-- **GHG molecules** (CO₂, H₂O, CH₄, N₂O) have molecular structure that absorbs IR photons, vibrates, and **re-emits IR in all directions** — including back toward Earth's surface.
-- **Natural greenhouse effect** maintains Earth's average temperature at approximately **+15°C** — without it, average would be about **−18°C** (frozen, uninhabitable).
-- **Enhanced (anthropogenic) greenhouse effect** results from burning fossil fuels, deforestation, and industrial agriculture adding GHGs **faster than natural sinks can absorb** — net accumulation in atmosphere.
-- **Water vapour** is the most abundant GHG (~60% of natural greenhouse effect) — but its atmospheric concentration is controlled by temperature (feedback loop), not directly by human emission like CO₂.
-- **Not a literal greenhouse** — the analogy is imperfect; atmosphere doesn't block convection like glass; mechanism is **radiative transfer**, not physical trapping of hot air.
-- **Stratospheric cooling** occurs alongside tropospheric warming — less IR escapes to space from troposphere, stratosphere receives less upward IR (distinct from ozone depletion cooling in upper stratosphere).
-- **Runaway greenhouse effect** (Venus-like) is not expected on Earth at current emission rates — but unchecked warming triggers dangerous feedbacks (ice loss, methane release).
-- **Exam distinction**: **Greenhouse effect** = physical mechanism; **Global warming** = measured temperature outcome; **Climate change** = broader systemic impacts.
+- **Solar radiation** arrives as **shortwave** (visible, UV) and largely passes through the atmosphere to heat Earth's surface.
+- Earth re-emits energy as **longwave infrared (IR)** radiation. This is the energy GHGs intercept.
+- **GHG molecules** (CO₂, H₂O, CH₄, N₂O) absorb IR photons through their molecular structure, vibrate, and **re-emit IR in all directions**, including back toward Earth's surface.
+- **Natural greenhouse effect** maintains Earth's average temperature at approximately **+15°C**, and without it the average would be about **−18°C** (frozen, uninhabitable).
+- **Enhanced (anthropogenic) greenhouse effect** results from burning fossil fuels, deforestation, and industrial agriculture adding GHGs **faster than natural sinks can absorb**. Net accumulation in atmosphere.
+- **Water vapour** is the most abundant GHG (~60% of natural greenhouse effect), but its atmospheric concentration is controlled by temperature as a feedback loop rather than by direct human emission like CO₂.
+- **Not a literal greenhouse**. The analogy is imperfect. Atmosphere doesn't block convection like glass. Mechanism is **radiative transfer**, not physical trapping of hot air.
+- **Stratospheric cooling** occurs alongside tropospheric warming. Less IR escapes to space from troposphere, stratosphere receives less upward IR (distinct from ozone depletion cooling in upper stratosphere).
+- **Runaway greenhouse effect** (Venus-like) is not expected on Earth at current emission rates, but unchecked warming triggers dangerous feedbacks such as ice loss and methane release.
+- **Exam distinction**: **Greenhouse effect** = physical mechanism. **Global warming** = measured temperature outcome. **Climate change** = broader systemic impacts.
 
 > **Exam note:** "Greenhouse effect is harmful and should be eliminated" = **FALSE** — natural GH effect is essential for life. Problem is **enhanced** effect from excess anthropogenic GHGs. Trap: confusing with **ozone layer depletion** (UV issue, Topic 11) — different mechanism, different gases (CFCs).
 
@@ -253,15 +253,15 @@ KEY TRAPS:
 - Water vapour = most abundant natural GHG (feedback, not primary driver)
 - Enhanced effect = **human-caused GHG buildup**
 - GH effect ≠ ozone depletion (different gases, different radiation band)
-- Troposphere warms; enhanced effect alters vertical temperature profile
+- Troposphere warms. Enhanced effect alters vertical temperature profile.
 
 ### PYQs — Greenhouse Effect
 
-1. **(UPPCS Prelims 2024, Q108 — cross-topic acid rain)** Assertion: CO₂, SO₂, NO₂ dissolve in rainwater producing acid rain. Reason: Air polluted by CO₂, SO₂, NOx.
-   → **C. Both true; R does not explain A** — CO₂ forms weak carbonic acid (natural rain pH ~5.6); SO₂/NOx form strong acids. CO₂'s GH role ≠ acid rain primary cause.
+1. **(UPPCS Prelims 2024, Q108. Cross-topic acid rain)** Assertion: CO₂, SO₂, NO₂ dissolve in rainwater producing acid rain. Reason: Air polluted by CO₂, SO₂, NOx.
+   → **C. Both true. R does not explain A**. CO₂ forms weak carbonic acid (natural rain pH ~5.6). SO₂/NOx form strong acids. CO₂'s GH role ≠ acid rain primary cause.
 
-2. **(UPSC 2014 — pattern)** Greenhouse effect is caused primarily by absorption of:
-   → **(d) Outgoing terrestrial radiation (IR)** — not incoming solar shortwave directly; surface heats first, then emits IR which GHGs trap.
+2. **(UPSC 2014 pattern)** Greenhouse effect is caused primarily by absorption of:
+   → **(d) Outgoing terrestrial radiation (IR)**. Not incoming solar shortwave directly. Surface heats first, then emits IR which GHGs trap.
 
 ### Examples (10.2)
 
@@ -286,16 +286,16 @@ KEY TRAPS:
 
 ### Greenhouse Gases — How It Works
 
-- **CO₂ (carbon dioxide)** contributes approximately **76%** of total anthropogenic GHG forcing — sources: fossil fuel combustion (~85% of CO₂), cement production, deforestation. Atmospheric residence time: **centuries** — legacy emissions persist.
-- **CH₄ (methane)** contributes ~**16%** — sources: **enteric fermentation** (cattle), **rice paddies**, **landfills**, **natural gas leaks**, wetlands. GWP ≈ **28–36** over 100 years (much higher per molecule than CO₂). Shorter atmospheric lifetime (~12 years) but high immediate warming impact.
-- **N₂O (nitrous oxide)** contributes ~**6%** — sources: **synthetic fertilizers** (agriculture), industrial combustion, biomass burning. GWP ≈ **265** over 100 years. UP's intensive agricultural plains (wheat-rice rotation) contribute to N₂O via fertilizer use.
-- **Water vapour (H₂O)** is the most abundant GHG by volume — responsible for ~60% of **natural** greenhouse effect. Human activity increases it **indirectly** via warming (positive feedback), not as a primary emitted gas like CO₂.
-- **Tropospheric ozone (O₃)** is both an **air pollutant** (Topic 9) and a GHG — formed from NOx + VOCs in sunlight. **Ground-level O₃** harms lungs; also traps heat. **Stratospheric O₃** (Topic 11) blocks UV — different layer, different role.
-- **Fluorinated gases (HFCs, PFCs, SF₆)** are synthetic, extremely high GWP (HFCs: hundreds to thousands; SF₆: 23,500 over 100 years) — used in refrigeration, electronics, electrical equipment. Small volume but potent.
-- **Kyoto Protocol (1997)** legally bound developed countries (Annex I) to reduce six-gas basket emissions — **first binding international climate mitigation treaty** (UPPCS 2024 Q35).
+- **CO₂ (carbon dioxide)** contributes approximately **76%** of total anthropogenic GHG forcing, such as sources: fossil fuel combustion (~85% of co₂), cement production, deforestation. atmospheric residence time: **centuries**. Legacy emissions persist.
+- **CH₄ (methane)** contributes ~**16%**. Sources: **enteric fermentation** (cattle), **rice paddies**, **landfills**, **natural gas leaks**, wetlands. GWP ≈ **28–36** over 100 years (much higher per molecule than CO₂). Shorter atmospheric lifetime (~12 years) but high immediate warming impact.
+- **N₂O (nitrous oxide)** contributes ~**6%**. Sources: **synthetic fertilizers** (agriculture), industrial combustion, biomass burning. GWP ≈ **265** over 100 years. UP's intensive agricultural plains (wheat-rice rotation) contribute to N₂O via fertilizer use.
+- **Water vapour (H₂O)** is the most abundant GHG by volume. Responsible for ~60% of **natural** greenhouse effect. Human activity increases it **indirectly** via warming (positive feedback), not as a primary emitted gas like CO₂.
+- **Tropospheric ozone (O₃)** is both an **air pollutant** (Topic 9) and a GHG. Formed from NOx + VOCs in sunlight. **Ground-level O₃** harms lungs. Also traps heat. **Stratospheric O₃** (Topic 11) blocks UV. Different layer, different role.
+- **Fluorinated gases (HFCs, PFCs, SF₆)** are synthetic, extremely high GWP (HFCs: hundreds to thousands. SF₆: 23,500 over 100 years). Used in refrigeration, electronics, electrical equipment. Small volume but potent.
+- **Kyoto Protocol (1997)** legally bound developed countries (Annex I) to reduce six-gas basket emissions. **first binding international climate mitigation treaty** (UPPCS 2024 Q35).
 - **India's emission profile**: **3rd largest total emitter** (after China, USA) but **low per capita** (~2 tCO₂e vs global ~4.7). Sector split: energy/electricity largest, agriculture significant for CH₄/N₂O.
-- **CO₂ equivalent (CO₂e)** converts all GHGs to common unit using GWP — allows comparing methane tonnage to CO₂ tonnage for national inventories.
-- **Black carbon (soot)** is **not** a GHG but a **short-lived climate forcer** — absorbs sunlight, melts Himalayan glaciers faster; major source: crop stubble burning (Punjab-UP-NCR seasonal haze).
+- **CO₂ equivalent (CO₂e)** converts all GHGs to common unit using GWP. Allows comparing methane tonnage to CO₂ tonnage for national inventories.
+- **Black carbon (soot)** is **not** a GHG but a **short-lived climate forcer**. Absorbs sunlight, melts Himalayan glaciers faster. Major source: crop stubble burning (Punjab-UP-NCR seasonal haze).
 
 > **Exam note:** "Highest GWP = most total warming impact" = **FALSE** — CO₂ has GWP of 1 but dominates total forcing due to **sheer volume emitted**. CH₄/N₂O have higher GWP per kg but lower total mass in atmosphere.
 
@@ -316,18 +316,18 @@ KEY TRAPS:
 - CO₂ = **76%** of anthropogenic GHG forcing by volume
 - Kyoto six gases: **CO₂, CH₄, N₂O, HFCs, PFCs, SF₆**
 - CH₄ GWP ≈ **28–36** | N₂O GWP ≈ **265** (100-year horizon)
-- India = **3rd largest** total emitter; **low per capita**
+- India = **3rd largest** total emitter. **low per capita**.
 - Water vapour = feedback GHG, not primary anthropogenic driver
 - Black carbon = climate forcer, **not** GHG (soot on glaciers)
-- UP agriculture → N₂O from fertilizers; CH₄ from rice/livestock
+- UP agriculture, which leads to N₂O from fertilizers. CH₄ from rice/livestock.
 
 ### PYQs — Greenhouse Gases
 
 1. **(UPPCS Prelims 2024, Q35)** International agreement related to climate change mitigation:
-   → **C. Kyoto Protocol** — Montreal = ozone (1987); Ramsar = wetlands (1971); CITES = wildlife trade (1973).
+   → **C. Kyoto Protocol**. Montreal = ozone (1987). Ramsar = wetlands (1971), and CITES = wildlife trade (1973).
 
-2. **(UPSC 2019 — pattern)** Which of the following adds to greenhouse gases? (a) Nitrogen (N₂) (b) Oxygen (O₂) (c) Methane (d) Argon
-   → **(c) Methane** — diatomic N₂ and O₂ do not absorb IR significantly; CH₄ is potent GHG.
+2. **(UPSC 2019 pattern)** Which of the following adds to greenhouse gases? (a) Nitrogen (N₂) (b) Oxygen (O₂) (c) Methane (d) Argon.
+   → **(c) Methane**. Diatomic N₂ and O₂ do not absorb IR significantly. CH₄ is potent GHG.
 
 ### Examples (10.3)
 
@@ -352,16 +352,16 @@ KEY TRAPS:
 
 ### Carbon Footprint — How It Works
 
-- **Carbon footprint** quantifies climate impact in **tonnes of CO₂ equivalent (tCO₂e)** — converts CH₄, N₂O, and other GHGs to equivalent CO₂ using GWP values.
-- **Scope 1 emissions** = **direct** emissions from owned/controlled sources — factory chimneys, company vehicles, on-site fuel combustion.
-- **Scope 2 emissions** = **indirect** from purchased electricity, heat, or steam — even if emitted at power plant, attributed to consumer.
-- **Scope 3 emissions** = all other indirect — supply chain, product use, waste disposal, employee commuting, business travel. Often **largest share** for many organisations but hardest to measure.
-- **India's total footprint** ≈ **3.9 billion tCO₂e/year** (recent estimates) — **3rd globally** in absolute terms; **per capita ~2 tCO₂e** vs global average **~4.7** and USA **~14+**.
-- **Sector breakdown (India)**: **Energy/electricity** (~40%), **Industry** (~25%), **Agriculture** (~15% — mainly CH₄/N₂O), **Transport**, **Buildings**, **Waste/LULUCF**.
-- **Lifestyle footprint components**: diet (meat vs plant — cattle CH₄), transport mode (car vs public transit), electricity source (coal vs solar), air travel (high per-trip footprint), consumption of goods.
-- **Product carbon footprint** = lifecycle emissions from raw material extraction → manufacturing → transport → use → disposal (LCA approach).
-- **Ecological footprint vs carbon footprint**: Ecological footprint (Topic 1) measures total resource demand in **global hectares (gha)** — includes land, water, carbon; carbon footprint is **GHG-specific subset**.
-- **Carbon footprint reduction** = mitigation at individual/organisational level — energy efficiency, renewable switch, diet change, reduce-reuse-recycle; links to **LiFE Mission** (lifestyle for environment, launched 2022).
+- **Carbon footprint** quantifies climate impact in **tonnes of CO₂ equivalent (tCO₂e)**. Converts CH₄, N₂O, and other GHGs to equivalent CO₂ using GWP values.
+- **Scope 1 emissions** = **direct** emissions from owned/controlled sources. Factory chimneys, company vehicles, on-site fuel combustion.
+- **Scope 2 emissions** = **indirect** from purchased electricity, heat, or steam. Even if emitted at power plant, attributed to consumer.
+- **Scope 3 emissions** = all other indirect. Supply chain, product use, waste disposal, employee commuting, business travel. Often **largest share** for many organisations but hardest to measure.
+- **India's total footprint** ≈ **3.9 billion tCO₂e/year** (recent estimates). **3rd globally** in absolute terms. **per capita ~2 tCO₂e** vs global average **~4.7** and USA **~14+**.
+- **Sector breakdown (India)**: **Energy/electricity** (~40%), **Industry** (~25%), **Agriculture** (~15%. Mainly CH₄/N₂O), **Transport**, **Buildings**, **Waste/LULUCF**.
+- **Lifestyle footprint components**: diet (meat vs plant. Cattle CH₄), transport mode (car vs public transit), electricity source (coal vs solar), air travel (high per-trip footprint), consumption of goods.
+- **Product carbon footprint** = lifecycle emissions from raw material extraction, which leads to manufacturing, then transport, then use, then disposal (lca approach).
+- **Ecological footprint vs carbon footprint**: Ecological footprint (Topic 1) measures total resource demand in **global hectares (gha)**. Includes land, water, carbon. Carbon footprint is **GHG-specific subset**.
+- **Carbon footprint reduction** = mitigation at individual/organisational level. Energy efficiency, renewable switch, diet change, reduce-reuse-recycle. Links to **LiFE Mission** (lifestyle for environment, launched 2022).
 
 > **Exam note:** "India has highest per capita carbon footprint" = **FALSE** — India has low per capita but high **total** due to population. "Carbon footprint includes only CO₂ gas" = **FALSE** — includes all GHGs converted to CO₂e.
 
@@ -378,17 +378,17 @@ KEY TRAPS:
 - Unit = **tCO₂e** (tonnes CO₂ equivalent)
 - India per capita ≈ **2 tCO₂e** | Global ≈ **4.7** | USA ≈ **14+**
 - Scope 1 = direct | Scope 2 = purchased energy | Scope 3 = supply chain
-- India 3rd largest **total** emitter; low **per capita**
+- India 3rd largest **total** emitter. Low **per capita**.
 - Largest Indian sector = **energy/electricity**
-- Ecological footprint (gha) ≠ carbon footprint (tCO₂e) — related but different metrics
+- Ecological footprint (gha) ≠ carbon footprint (tCO₂e). Related but different metrics.
 
 ### PYQs — Carbon Footprint
 
-1. **(UPPCS Prelims 2025, Q139 — lifestyle link)** LiFE Mission launched June 2022; idea at COP-26 (not COP-25).
-   → **D (Only 1)** — LiFE addresses **individual lifestyle carbon footprint** reduction; COP-25 Madrid trap in stmt 2.
+1. **(UPPCS Prelims 2025, Q139. Lifestyle link)** LiFE Mission launched June 2022. Idea at COP-26 (not COP-25).
+   → **D (Only 1)**. LiFE addresses **individual lifestyle carbon footprint** reduction. COP-25 Madrid trap in stmt 2.
 
-2. **(UPSC 2021 — pattern)** "Carbon footprint" is measured in terms of:
-   → **(a) Amount of carbon (or CO₂ equivalent) emitted** — not land area (gha = ecological footprint unit).
+2. **(UPSC 2021 pattern)** "Carbon footprint" is measured in terms of:
+   → **(a) Amount of carbon (or CO₂ equivalent) emitted**. Not land area (gha = ecological footprint unit).
 
 ### Examples (10.4)
 
@@ -413,16 +413,16 @@ KEY TRAPS:
 
 ### Carbon Sink — How It Works
 
-- **Terrestrial forest sink**: Trees absorb CO₂ via **photosynthesis** — carbon stored in **biomass** (trunks, branches, leaves) and **soil organic matter**. Mature forests store more carbon; young plantations sequester faster initially.
-- **India's forest carbon stock**: ISFR 2023 reports total forest and tree cover carbon pool — forests act as net sink when **growth > harvest/deforestation**. India target: create additional **2.5–3 billion tonnes CO₂ equivalent** carbon sink through forest cover expansion (NDC component).
-- **Ocean sink**: Oceans absorb ~**25% of anthropogenic CO₂** via **solubility pump** (dissolved in seawater) and **biological pump** (phytoplankton uptake, sinking organic matter). Ocean acidification is side effect — CO₂ forms carbonic acid, lowering pH.
-- **Soil carbon sink**: Agricultural soils, grasslands, peatlands store carbon in organic matter — **conservation agriculture**, reduced tillage, organic farming enhance soil sink. Degraded/overgrazed land (Bundelkhand) loses soil carbon → becomes source.
-- **Wetland and mangrove sinks ("blue carbon")**: Coastal wetlands, mangroves, seagrass meadows sequester carbon at rates **3–5× faster** than tropical forests per hectare — MISHTI scheme (2023 Budget) targets mangrove restoration.
-- **Carbon source examples**: **Coal power plants** (direct emission), **deforestation with burning** (releases stored carbon + removes sink), **degraded peatlands**, **thawing permafrost** (releases methane — potential tipping point).
-- **Sink saturation risk**: Oceans and forests have **finite absorption capacity** — as CO₂ rises, ocean uptake efficiency may decline; forests stressed by drought/fire become net sources (Amazon concern).
-- **Land Use, Land-Use Change and Forestry (LULUCF)**: IPCC category tracking whether land is net sink or source — afforestation = sink; urban expansion on forest = source.
-- **India's sink potential**: **Green India Mission** (NAPCC), **CAMPA** funds for afforestation, **National Afforestation Programme**, UP **Van Mahotsav** drives — all enhance terrestrial sink.
-- **Distinction**: A **carbon sink** is a reservoir; **carbon sequestration** (§10.6) is the **process** of transferring carbon into that reservoir.
+- **Terrestrial forest sink**: Trees absorb CO₂ via **photosynthesis**. Carbon stored in **biomass** (trunks, branches, leaves) and **soil organic matter**. Mature forests store more carbon. Young plantations sequester faster initially.
+- **India's forest carbon stock**: ISFR 2023 reports total forest and tree cover carbon pool. Forests act as net sink when **growth > harvest/deforestation**. India target: create additional **2.5–3 billion tonnes CO₂ equivalent** carbon sink through forest cover expansion (NDC component).
+- **Ocean sink**: Oceans absorb ~**25% of anthropogenic CO₂** via **solubility pump** (dissolved in seawater) and **biological pump** (phytoplankton uptake, sinking organic matter). Ocean acidification is side effect, including co₂ forms carbonic acid, lowering ph.
+- **Soil carbon sink**: Agricultural soils, grasslands, peatlands store carbon in organic matter. **conservation agriculture**, reduced tillage, organic farming enhance soil sink. Degraded/overgrazed land (Bundelkhand) loses soil carbon, which leads to becomes source.
+- **Wetland and mangrove sinks ("blue carbon")**: Coastal wetlands, mangroves, seagrass meadows sequester carbon at rates **3–5× faster** than tropical forests per hectare. MISHTI scheme (2023 Budget) targets mangrove restoration.
+- **Carbon source examples**: **Coal power plants** (direct emission), **deforestation with burning** (releases stored carbon + removes sink), **degraded peatlands**, **thawing permafrost** (releases methane. Potential tipping point).
+- **Sink saturation risk**: Oceans and forests have **finite absorption capacity**. As CO₂ rises, ocean uptake efficiency may decline. Forests stressed by drought/fire become net sources (Amazon concern).
+- **Land Use, Land-Use Change and Forestry (LULUCF)**: IPCC category tracking whether land is net sink or source. Afforestation = sink. Urban expansion on forest = source.
+- **India's sink potential**: **Green India Mission** (NAPCC), **CAMPA** funds for afforestation, **National Afforestation Programme**, UP **Van Mahotsav** drives. All enhance terrestrial sink.
+- **Distinction**: A **carbon sink** is a reservoir. **carbon sequestration** (§10.6) is the **process** of transferring carbon into that reservoir.
 
 > **Exam note:** "Deforestation increases carbon sink" = **FALSE** — deforestation converts sink to **source**. "Oceans will absorb all excess CO₂ indefinitely" = **FALSE** — absorption rate limited; acidification increases.
 
@@ -440,19 +440,19 @@ KEY TRAPS:
 
 - Forests + oceans + soil = Earth's major carbon sinks
 - Oceans absorb ~**25%** of human CO₂ emissions
-- Mangroves = **blue carbon** — high sequestration rate per hectare
-- Deforestation converts sink → **source**
+- Mangroves = **blue carbon**. High sequestration rate per hectare.
+- Deforestation converts sink, which leads to **source**.
 - India NDC: **2.5–3 GtCO₂e** additional forest carbon sink target
 - ISFR tracks India forest carbon stock
 - Sink saturation and ocean acidification = limits to natural absorption
 
 ### PYQs — Carbon Sink
 
-1. **(UPPCS Prelims 2024, Q19)** Coral reef bleaching from +2°C SST — reefs shift from carbon sink to stressed ecosystem.
-   → **B** — warming destroys reef photosynthesis capacity; marine sink weakened.
+1. **(UPPCS Prelims 2024, Q19)** Coral reef bleaching from +2°C SST. Reefs shift from carbon sink to stressed ecosystem.
+   → **B**. Warming destroys reef photosynthesis capacity. Marine sink weakened.
 
-2. **(UPSC 2017 — pattern)** Which is the largest carbon sink on Earth?
-   → **(a) Oceans** — largest single sink by total carbon absorbed; forests significant but oceans dominate total capacity.
+2. **(UPSC 2017 pattern)** Which is the largest carbon sink on Earth?
+   → **(a) Oceans**. Largest single sink by total carbon absorbed. Forests significant but oceans dominate total capacity.
 
 ### Examples (10.5)
 
@@ -477,16 +477,16 @@ KEY TRAPS:
 
 ### Carbon Sequestration — How It Works
 
-- **Biological sequestration** = trees, crops, and algae absorb CO₂ via photosynthesis — carbon fixed in biomass and transferred to soil when roots/leaves decompose.
-- **Afforestation/reforestation** = planting trees on degraded/non-forest land — India targets **forest/tree cover expansion** under Green India Mission and NDC sink goal of **2.5–3 GtCO₂e**.
-- **Soil carbon sequestration** = conservation tillage, cover cropping, organic manure, biochar application increase soil organic carbon — relevant to UP's wheat-rice system if adopted at scale.
-- **Blue carbon sequestration** = mangrove planting, wetland restoration — carbon buried in waterlogged sediments decomposes slowly, stored for centuries.
-- **Geological sequestration (CCS)** = CO₂ captured from flue gas, compressed, injected into depleted oil/gas fields or saline aquifers — technology pathway for industrial decarbonisation; limited deployment in India so far.
-- **Bioenergy with carbon capture and storage (BECCS)** = biomass burned for energy, CO₂ captured and stored — theoretically **negative emissions** if biomass regrows.
-- **Direct air capture (DAC)** = machines chemically scrub CO₂ directly from ambient air — expensive, early stage; not yet deployed at scale in India.
-- **Enhanced weathering** = spreading crushed silicate rocks accelerates natural CO₂ absorption — research stage.
-- **Durability matters**: Sequestered carbon must stay stored **decades to centuries** — forest fire or deforestation can **re-release** stored carbon (permanence risk).
-- **India's institutional framework**: **Green Credit Programme (2023)** incentivises tree plantation and ecosystem restoration; **CAMPA** (Compensatory Afforestation Fund) finances afforestation from forest diversion penalties.
+- **Biological sequestration** = trees, crops, and algae absorb CO₂ via photosynthesis. Carbon fixed in biomass and transferred to soil when roots/leaves decompose.
+- **Afforestation/reforestation** = planting trees on degraded/non-forest land. India targets **forest/tree cover expansion** under Green India Mission and NDC sink goal of **2.5–3 GtCO₂e**.
+- **Soil carbon sequestration** = conservation tillage, cover cropping, organic manure, biochar application increase soil organic carbon. Relevant to UP's wheat-rice system if adopted at scale.
+- **Blue carbon sequestration** = mangrove planting, wetland restoration. Carbon buried in waterlogged sediments decomposes slowly, stored for centuries.
+- **Geological sequestration (CCS)** = CO₂ captured from flue gas, compressed, injected into depleted oil/gas fields or saline aquifers. Technology pathway for industrial decarbonisation. Limited deployment in India so far.
+- **Bioenergy with carbon capture and storage (BECCS)** = biomass burned for energy, CO₂ captured and stored. Theoretically **negative emissions** if biomass regrows.
+- **Direct air capture (DAC)** = machines chemically scrub CO₂ directly from ambient air. Expensive, early stage. Not yet deployed at scale in India.
+- **Enhanced weathering** = spreading crushed silicate rocks accelerates natural CO₂ absorption. Research stage.
+- **Durability matters**: Sequestered carbon must stay stored **decades to centuries**. Forest fire or deforestation can **re-release** stored carbon (permanence risk).
+- **India's institutional framework**: **Green Credit Programme (2023)** incentivises tree plantation and ecosystem restoration. **CAMPA** (Compensatory Afforestation Fund) finances afforestation from forest diversion penalties.
 
 > **Exam note:** "Carbon sequestration and carbon sink are identical" = **PARTIALLY TRUE** — sequestration is the **process**; sink is the **reservoir**. Afforestation = sequestration enhancing forest **sink**.
 
@@ -509,15 +509,15 @@ KEY TRAPS:
 - Green Credit Programme = **2023**
 - CAMPA funds afforestation from forest diversion
 - Permanence risk: fire/deforestation re-releases stored carbon
-- Blue carbon = mangroves/wetlands — fast sequestration rate
+- Blue carbon = mangroves/wetlands. Fast sequestration rate.
 
 ### PYQs — Carbon Sequestration
 
-1. **(UPPCS Prelims 2025, Q8 — forest cover link)** ISFR 2023 — UP districts Bahraich, Chandauli, Shravasti >20% forest cover — afforestation/sequestration context.
-   → **A (1 and 2)** — forest cover = terrestrial sequestration capacity; Shravasti below 20%.
+1. **(UPPCS Prelims 2025, Q8. Forest cover link)** ISFR 2023. UP districts Bahraich, Chandauli, Shravasti >20% forest cover. Afforestation/sequestration context.
+   → **A (1 and 2)**. Forest cover = terrestrial sequestration capacity. Shravasti below 20%.
 
-2. **(UPSC 2018 — pattern)** Which is an example of carbon sequestration? (a) Burning coal (b) Afforestation (c) Vehicle exhaust (d) Stubble burning
-   → **(b) Afforestation** — removes CO₂ from atmosphere; others are emission sources.
+2. **(UPSC 2018 pattern)** Which is an example of carbon sequestration? (a) Burning coal (b) Afforestation (c) Vehicle exhaust (d) Stubble burning.
+   → **(b) Afforestation**. Removes CO₂ from atmosphere. Others are emission sources.
 
 ### Examples (10.6)
 
@@ -542,16 +542,16 @@ KEY TRAPS:
 
 ### Climate Change Impacts — How It Works
 
-- **Temperature rise** increases frequency and duration of **heat waves** — India saw **536 heat wave days** across country in 2023 (IMD); **UP and northwest India** among worst affected (Lucknow, Prayagraj, Agra regularly exceed 45°C).
-- **Himalayan glacier melt** accelerates with warming — Gangotri, Milam glaciers retreating; threatens **Ganga water flow** (UP dependency) and increases **glacial lake outburst flood (GLOF)** risk in Uttarakhand (upstream of UP).
-- **Monsoon variability** — overall monsoon may not decrease uniformly but **extreme rainfall events** increase (short intense bursts → floods) while **dry spell duration** increases in some regions (Bundelkhand drought cycles).
-- **Sea-level rise** (~3.3 mm/year globally) threatens coastal India — **Sundarbans**, Odisha, Gujarat coasts; indirect UP impact via climate migration and delta salinity.
-- **Floods** in **Ganga-Yamuna basin** intensify — 2023 UP floods affected Ballia, Ghazipur, Varanasi districts; embankment stress, crop loss, waterlogging in eastern UP.
-- **Agricultural impacts**: Wheat yield sensitive to **March heat spikes** (UP rabi crop); rice dependent on monsoon timing; **pest range expansion** with warmer winters; water stress in Bundelkhand for kharif crops.
-- **Water resources**: Himalayan snowpack reduction → lean-season river flow decline; **groundwater recharge** disrupted by erratic rain; Gomti (Lucknow) and Yamuna (Agra-Mathura) face quality + quantity stress compounded by climate.
+- **Temperature rise** increases frequency and duration of **heat waves**. India saw **536 heat wave days** across country in 2023 (IMD). **UP and northwest India** among worst affected (Lucknow, Prayagraj, Agra regularly exceed 45°C).
+- **Himalayan glacier melt** accelerates with warming. Gangotri, Milam glaciers retreating. Threatens **Ganga water flow** (UP dependency) and increases **glacial lake outburst flood (GLOF)** risk in Uttarakhand (upstream of UP).
+- **Monsoon variability**. Overall monsoon may not decrease uniformly but **extreme rainfall events** increase (short intense bursts, which leads to floods) while **dry spell duration** increases in some regions (bundelkhand drought cycles).
+- **Sea-level rise** (~3.3 mm/year globally) threatens coastal India. **Sundarbans**, Odisha, Gujarat coasts. Indirect UP impact via climate migration and delta salinity.
+- **Floods** in **Ganga-Yamuna basin** intensify. 2023 UP floods affected Ballia, Ghazipur, Varanasi districts. Embankment stress, crop loss, waterlogging in eastern UP.
+- **Agricultural impacts**: Wheat yield sensitive to **March heat spikes** (UP rabi crop). Rice dependent on monsoon timing. **pest range expansion** with warmer winters. Water stress in Bundelkhand for kharif crops.
+- **Water resources**: Himalayan snowpack reduction, which leads to lean-season river flow decline. **groundwater recharge** disrupted by erratic rain. Gomti (lucknow) and yamuna (agra-mathura) face quality + quantity stress compounded by climate.
 - **Health impacts**: Heat stroke mortality, vector-borne disease range expansion (dengue/malaria to higher altitudes), air quality worsening (ozone formation increases with heat).
-- **Biodiversity/ecosystem**: **Coral bleaching** when sea surface temperature rises ~1–2°C above normal for weeks — **2024 UPPCS Q19** tested +2°C Indian Ocean bleaching in Andaman; Terai forests face species range shifts.
-- **Economic costs**: Crop insurance claims rise, infrastructure damage from floods, energy demand surge for cooling — UP as agrarian state disproportionately exposed.
+- **Biodiversity/ecosystem**: **Coral bleaching** when sea surface temperature rises ~1–2°C above normal for weeks. **2024 UPPCS Q19** tested +2°C Indian Ocean bleaching in Andaman. Terai forests face species range shifts.
+- **Economic costs**: Crop insurance claims rise, infrastructure damage from floods, energy demand surge for cooling. UP as agrarian state disproportionately exposed.
 
 > **Exam note:** "Climate change only affects coastal areas" = **FALSE** — inland UP faces heat, drought, flood, and agricultural impacts. Coral bleaching = **warming** (2024 Q19), NOT cooling.
 
@@ -570,7 +570,7 @@ KEY TRAPS:
 ### Exam Facts (raata)
 
 - Heat waves increasing in frequency (IMD data)
-- Himalayan glaciers retreating — Ganga flow implications for UP
+- Himalayan glaciers retreating. Ganga flow implications for UP.
 - Monsoon = more extremes (heavy rain + dry spells), not uniform decrease
 - Coral bleaching at +1–2°C SST sustained (2024 Q19: +2°C)
 - UP vulnerable: agriculture, floods (eastern UP), drought (Bundelkhand), heat (NCR belt)
@@ -580,10 +580,10 @@ KEY TRAPS:
 ### PYQs — Climate Change Impacts
 
 1. **(UPPCS Prelims 2024, Q19)** Coral bleaching in Andaman and Nicobar caused by:
-   → **B. Increase of 2°C temperature in the Indian Ocean** — warming primary cause; NOT industrial activity alone (A) or cooling (D).
+   → **B. Increase of 2°C temperature in the Indian Ocean**. Warming primary cause. NOT industrial activity alone (A) or cooling (D).
 
-2. **(UPPCS Prelims 2025, Q21 — geography-climate link)** Himalayan vegetation varies with altitude because climate changes with altitude.
-   → **D. Both A and R true; R explains A** — lapse rate (~6.5°C per 1000 m) drives vegetation zonation; climate impact on mountain ecosystems.
+2. **(UPPCS Prelims 2025, Q21. Geography-climate link)** Himalayan vegetation varies with altitude because climate changes with altitude.
+   → **D. Both A and R true. R explains A**. Lapse rate (~6.5°C per 1000 m) drives vegetation zonation. Climate impact on mountain ecosystems.
 
 ### Examples (10.7)
 
@@ -608,16 +608,16 @@ KEY TRAPS:
 
 ### Climate Adaptation — How It Works
 
-- **Adaptation vs mitigation**: **Adaptation** = cope with impacts already happening/inevitable (build flood walls, drought-resistant crops); **Mitigation** = reduce emissions to limit future warming (renewable energy, forest sinks). Both needed — mitigation without adaptation leaves current damage unaddressed.
-- **National Action Plan on Climate Change (NAPCC), 2008** — India's master framework with **8 national missions** covering both mitigation and adaptation components.
+- **Adaptation vs mitigation**: **Adaptation** = cope with impacts already happening/inevitable (build flood walls, drought-resistant crops). **Mitigation** = reduce emissions to limit future warming (renewable energy, forest sinks). Both needed. Mitigation without adaptation leaves current damage unaddressed.
+- **National Action Plan on Climate Change (NAPCC), 2008**. India's master framework with **8 national missions** covering both mitigation and adaptation components.
 - **NAPCC 8 Missions (complete official list)**: (1) **National Solar Mission**, (2) **National Mission for Enhanced Energy Efficiency**, (3) **National Mission on Sustainable Habitat**, (4) **National Water Mission**, (5) **National Mission for Sustaining Himalayan Ecosystem**, (6) **National Mission for a Green India**, (7) **National Mission for Sustainable Agriculture**, (8) **National Mission on Strategic Knowledge for Climate Change**.
-- **Early warning systems** — IMD heat wave alerts, flood forecasting (CWC), cyclone warnings — adaptation through preparedness reduces mortality.
-- **Climate-resilient agriculture** — drought-tolerant crop varieties (IARI), System of Rice Intensification (SRI), micro-irrigation (drip/sprinkler), crop insurance (PM Fasal Bima Yojana) — critical for UP farmers.
-- **Water adaptation** — rainwater harvesting, check dams in Bundelkhand, revival of traditional tanks, groundwater recharge structures — address water scarcity from erratic monsoon.
-- **Infrastructure adaptation** — flood-resistant embankments (eastern UP), urban drainage upgrade (Lucknow, Kanpur), cool roofs and green spaces for heat (NCR cities).
-- **Ecosystem-based adaptation** — wetland restoration, mangrove buffers (coastal), forest conservation (Terai) — natural systems reduce disaster risk.
-- **UP-specific adaptation needs**: **Bundelkhand** = water scarcity, drought-resistant farming, livestock management; **Eastern UP** = flood preparedness along Ganga-Ghaghara; **NCR/ western UP** = heat action plans, air-quality-climate co-benefits; **Himalayan foothills** = landslide and GLOF monitoring.
-- **Adaptation funding** — National Adaptation Fund for Climate Change (NAFCC), State Action Plans on Climate Change (SAPCC) — UP has state plan addressing key vulnerabilities.
+- **Early warning systems**, such as imd heat wave alerts, flood forecasting (cwc), cyclone warnings. Adaptation through preparedness reduces mortality.
+- **Climate-resilient agriculture**, such as drought-tolerant crop varieties (iari), system of rice intensification (sri), micro-irrigation (drip/sprinkler), crop insurance (pm fasal bima yojana). Critical for UP farmers.
+- **Water adaptation**, such as rainwater harvesting, check dams in bundelkhand, revival of traditional tanks, groundwater recharge structures. Address water scarcity from erratic monsoon.
+- **Infrastructure adaptation**. Flood-resistant embankments (eastern UP), urban drainage upgrade (Lucknow, Kanpur), cool roofs and green spaces for heat (NCR cities).
+- **Ecosystem-based adaptation**, such as wetland restoration, mangrove buffers (coastal), forest conservation (terai). Natural systems reduce disaster risk.
+- **UP-specific adaptation needs**: **Bundelkhand** = water scarcity, drought-resistant farming, livestock management. **Eastern UP** = flood preparedness along Ganga-Ghaghara. **NCR/ western UP** = heat action plans, air-quality-climate co-benefits. **Himalayan foothills** = landslide and GLOF monitoring.
+- **Adaptation funding**, such as national adaptation fund for climate change (nafcc), state action plans on climate change (sapcc). UP has state plan addressing key vulnerabilities.
 
 > **Exam note:** "Adaptation means reducing CO₂ emissions" = **FALSE** — that is **mitigation**. "India has no national adaptation plan" = **FALSE** — NAPCC 2008 includes adaptation missions (Water, Agriculture, Himalayan).
 
@@ -634,7 +634,7 @@ KEY TRAPS:
 ### Exam Facts (raata)
 
 - Adaptation = adjust to impacts | Mitigation = cut emissions
-- NAPCC launched **2008** — **8 national missions**
+- NAPCC launched **2008**. **8 national missions**.
 - Key adaptation missions: Water, Sustainable Agriculture, Himalayan Ecosystem
 - Early warning (IMD/CWC) = adaptation tool
 - PM Fasal Bima = agricultural adaptation (risk transfer)
@@ -643,11 +643,11 @@ KEY TRAPS:
 
 ### PYQs — Climate Adaptation
 
-1. **(UPPCS Prelims 2024 — Brundtland/SD pattern)** Sustainable development without harming environment — adaptation aligns with intergenerational equity.
-   → Adaptation ensures current generations cope without compromising future capacity — linked to SD concept (Topic 15 overlap).
+1. **(UPPCS Prelims 2024. Brundtland/SD pattern)** Sustainable development without harming environment. Adaptation aligns with intergenerational equity.
+   → Adaptation ensures current generations cope without compromising future capacity. Linked to SD concept (Topic 15 overlap).
 
-2. **(UPSC 2020 — pattern)** Which is an **adaptation** measure? (a) Building sea walls (b) Closing coal plants (c) Carbon tax (d) Afforestation for CDM
-   → **(a) Building sea walls** — coping with sea-level rise. (b)(c) = mitigation; (d) can be either but CDM focus is mitigation credits.
+2. **(UPSC 2020 pattern)** Which is an **adaptation** measure? (a) Building sea walls (b) Closing coal plants (c) Carbon tax (d) Afforestation for CDM.
+   → **(a) Building sea walls**. Coping with sea-level rise. (b)(c) = mitigation. (d) can be either but CDM focus is mitigation credits.
 
 ### Examples (10.8)
 
@@ -673,15 +673,15 @@ KEY TRAPS:
 ### Climate Mitigation — How It Works
 
 - **Mitigation strategies** operate on two levers: **(a) reduce emissions at source** (energy efficiency, fuel switch, renewable energy, transport shift), **(b) enhance carbon sinks** (afforestation, soil carbon, CCS).
-- **UNFCCC (1992, Rio Earth Summit)** — framework convention establishing global climate negotiations; **not binding emission targets itself** — parent treaty for Kyoto and Paris.
-- **Kyoto Protocol (1997, effective 2005)** — **first legally binding** emission reduction treaty for **developed countries (Annex I)**; **Clean Development Mechanism (CDM)** allowed developing countries to earn credits — **UPPCS 2024 Q35** direct question.
-- **Paris Agreement (2015, COP-21)** — **NDC-based** voluntary pledges by all countries; goal to limit warming **well below 2°C**, pursue **1.5°C**; **5-year review cycles**; US withdrew under Trump, rejoined under Biden.
+- **UNFCCC (1992, Rio Earth Summit)**. Framework convention establishing global climate negotiations. **not binding emission targets itself**. Parent treaty for Kyoto and Paris.
+- **Kyoto Protocol (1997, effective 2005)**. **first legally binding** emission reduction treaty for **developed countries (Annex I)**. **Clean Development Mechanism (CDM)** allowed developing countries to earn credits. **UPPCS 2024 Q35** direct question.
+- **Paris Agreement (2015, COP-21)**. **NDC-based** voluntary pledges by all countries. Goal to limit warming **well below 2°C**, pursue **1.5°C**. **5-year review cycles**. US withdrew under Trump, rejoined under Biden.
 - **India's updated NDC (2022)**: (1) Reduce **emissions intensity of GDP by 45%** by 2030 from 2005 level (earlier 33–35%), (2) **50% cumulative electric installed capacity from non-fossil sources** by 2030, (3) Create **2.5–3 GtCO₂e** additional carbon sink through forests, (4) **Net Zero by 2070** (announced COP-26 Glasgow 2021).
-- **Renewable energy expansion** — India targets **500 GW non-fossil capacity** by 2030; solar (Rajasthan, Gujarat), wind (Tamil Nadu), UP emerging solar in Bundelkhand and rooftop NCR.
-- **Energy efficiency** — Perform Achieve Trade (PAT) scheme, LED UJALA programme, BS-VI fuel standards — reduce emissions per unit output.
-- **LiFE Mission (2022)** — **Lifestyle for Environment** — PM launched June 2022; idea proposed at **COP-26 Glasgow (2021)**, NOT COP-25 Madrid — **UPPCS 2025 Q139 trap**. Promotes mindful consumption to reduce lifestyle carbon footprint.
-- **Co-benefits**: Mitigation actions (clean energy, public transport) often improve **air quality** — NCAP cities in UP (Lucknow, Kanpur, Ghaziabad) gain dual benefit.
-- **Global mitigation gap**: Current NDCs collectively insufficient for 1.5°C target — IPCC warns deep cuts needed this decade; India argues **common but differentiated responsibilities (CBDR)** — developed countries must lead given historical emissions.
+- **Renewable energy expansion**. India targets **500 GW non-fossil capacity** by 2030. Solar (Rajasthan, Gujarat), wind (Tamil Nadu), UP emerging solar in Bundelkhand and rooftop NCR.
+- **Energy efficiency**, such as perform achieve trade (pat) scheme, led ujala programme, bs-vi fuel standards. Reduce emissions per unit output.
+- **LiFE Mission (2022)**. **Lifestyle for Environment**. PM launched June 2022. Idea proposed at **COP-26 Glasgow (2021)**, NOT COP-25 Madrid. **UPPCS 2025 Q139 trap**. Promotes mindful consumption to reduce lifestyle carbon footprint.
+- **Co-benefits**: Mitigation actions (clean energy, public transport) often improve **air quality**. NCAP cities in UP (Lucknow, Kanpur, Ghaziabad) gain dual benefit.
+- **Global mitigation gap**: Current NDCs collectively insufficient for 1.5°C target. IPCC warns deep cuts needed this decade. India argues **common but differentiated responsibilities (CBDR)**. Developed countries must lead given historical emissions.
 
 > **Exam note:** "Kyoto Protocol applies binding cuts to India" = **FALSE** — Kyoto bound **Annex I developed countries**; India had no binding reduction target (non-Annex I). "Paris Agreement replaced UNFCCC" = **FALSE** — Paris operates **under** UNFCCC framework.
 
@@ -708,20 +708,20 @@ KEY TRAPS:
 
 - Mitigation = cut emissions + enhance sinks
 - UNFCCC **1992** | Kyoto **1997** | Paris **2015**
-- Kyoto = binding for **developed (Annex I)** only — 2024 Q35
+- Kyoto = binding for **developed (Annex I)** only. 2024 Q35.
 - India NDC 2022: **45% intensity cut**, **50% non-fossil capacity**, **2070 net zero**
-- LiFE launched **June 2022**; idea at **COP-26** (2025 Q139 trap)
+- LiFE launched **June 2022**. Idea at **COP-26** (2025 Q139 trap).
 - Montreal = **ozone**, not climate mitigation
-- CBDR principle — historical responsibility of developed nations
-- CDM under Kyoto — carbon credits for developing country projects
+- CBDR principle. Historical responsibility of developed nations.
+- CDM under Kyoto. Carbon credits for developing country projects.
 
 ### PYQs — Climate Mitigation
 
 1. **(UPPCS Prelims 2024, Q35)** International agreement related to climate change mitigation:
-   → **C. Kyoto Protocol** — Montreal = ozone; Ramsar = wetlands; CITES = wildlife trade.
+   → **C. Kyoto Protocol**. Montreal = ozone. Ramsar = wetlands, and CITES = wildlife trade.
 
 2. **(UPPCS Prelims 2025, Q139)** LiFE Mission:
-   → **D (Only 1)** — Launched June 2022 correct. Stmt 2 false: idea at **COP-26 Glasgow**, not COP-25 Madrid.
+   → **D (Only 1)**. Launched June 2022 correct. Stmt 2 false: idea at **COP-26 Glasgow**, not COP-25 Madrid.
 
 ### Examples (10.9)
 
@@ -837,9 +837,9 @@ Options: A. Both A and R true; R explains A  B. Both true; R does not explain A 
 
 (GHG) — (Approximate share of anthropogenic forcing)
 
-1. CO₂ — ~76%
-2. CH₄ — ~16%
-3. N₂O — ~60%
+1. CO₂. ~76%.
+2. CH₄. ~16%.
+3. N₂O. ~60%.
 
 Select the correct answer from the code given below:
 
@@ -1011,9 +1011,9 @@ Options: A. Only 2  B. Neither 1 nor 2  C. Both 1 and 2  D. Only 1
 
 (Treaty/Agreement) — (Year)
 
-1. UNFCCC — 1992
-2. Kyoto Protocol — 1997
-3. Paris Agreement — 2010
+1. UNFCCC. 1992.
+2. Kyoto Protocol. 1997.
+3. Paris Agreement. 2010.
 
 Select the correct answer from the code given below:
 
@@ -1235,9 +1235,9 @@ Options: A. N₂O > CH₄ > CO₂  B. CO₂ > CH₄ > N₂O  C. CH₄ > N₂O > 
 
 (Concept) — (Unit/Measure)
 
-1. Carbon footprint — tCO₂e
-2. Ecological footprint — global hectares (gha)
-3. GWP — relative to CO₂ over 100 years
+1. Carbon footprint. TCO₂e.
+2. Ecological footprint. Global hectares (gha).
+3. GWP. Relative to CO₂ over 100 years.
 
 Select the correct answer from the code given below:
 

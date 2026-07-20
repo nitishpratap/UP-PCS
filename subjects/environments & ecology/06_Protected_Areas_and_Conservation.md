@@ -147,16 +147,16 @@ ESZ (Eco-Sensitive Zones):
 
 ### Wildlife Sanctuary — How It Works
 
-- **Wildlife Sanctuaries (WLS)** are declared by the **State Government** under **WPA 1972 Section 18** — notification specifies boundaries and protected species.
-- Human activity is **not automatically banned** — grazing, collection of minor forest produce, and regulated tourism may continue if the **Chief Wildlife Warden (CWLW)** permits it.
-- **Hunting, poaching, and capturing wildlife** are prohibited inside sanctuaries — Schedule I species receive maximum protection.
-- Sanctuaries can be declared on **government forest, private land, or revenue land** — the State acquires rights or regulates use through notification.
-- A sanctuary can be **upgraded to a National Park** — stricter rules apply after upgrade (e.g., human settlements eventually relocated in NP).
-- India has approximately **573 Wildlife Sanctuaries** covering diverse habitats — forests, wetlands, grasslands, and coastal zones.
-- Sanctuaries are **in-situ conservation** tools — they protect entire habitat communities, not just single flagship species.
-- **Buffer connectivity** between sanctuaries allows species movement — Terai Arc links Dudhwa WLS, Kishanpur WLS, and Katarniaghat WLS for tiger corridors.
-- **Biosphere Reserve buffer/transition zones** may overlap with sanctuary boundaries — different legal frameworks can apply to the same landscape.
-- Sanctuaries differ from **Conservation/Community Reserves** (Sec 36A/36B) — WLS are older, larger, and cover full habitat protection mandates.
+- **Wildlife Sanctuaries (WLS)** are declared by the **State Government** under **WPA 1972 Section 18**. Notification specifies boundaries and protected species.
+- Human activity is **not automatically banned**. Grazing, collection of minor forest produce, and regulated tourism may continue if the **Chief Wildlife Warden (CWLW)** permits it.
+- **Hunting, poaching, and capturing wildlife** are prohibited inside sanctuaries. Schedule I species receive maximum protection.
+- Sanctuaries can be declared on **government forest, private land, or revenue land**. The State acquires rights or regulates use through notification.
+- A sanctuary can be **upgraded to a National Park**. Stricter rules apply after upgrade (e.g., human settlements eventually relocated in NP).
+- India has approximately **573 Wildlife Sanctuaries** that span forests, wetlands, grasslands, and coastal zones.
+- Sanctuaries are **in-situ conservation** tools. They protect entire habitat communities, not just single flagship species.
+- **Buffer connectivity** between sanctuaries allows species movement. Terai Arc links Dudhwa WLS, Kishanpur WLS, and Katarniaghat WLS for tiger corridors.
+- **Biosphere Reserve buffer/transition zones** may overlap with sanctuary boundaries. Different legal frameworks can apply to the same landscape.
+- Sanctuaries differ from **Conservation/Community Reserves** (Sec 36A/36B). WLS are older, larger, and cover full habitat protection mandates.
 
 > **Exam note:** Sanctuary = human activity **possible with permission**. NP = human exploitation **prohibited**. Trap: "No human activity allowed in wildlife sanctuaries" = **FALSE**.
 
@@ -175,9 +175,9 @@ ESZ (Eco-Sensitive Zones):
 
 - WLS declared under **WPA Sec 18** by **State Govt**
 - ~**573** Wildlife Sanctuaries in India
-- Human activity **allowed with CWLW permission** — not banned outright
+- Human activity **allowed with CWLW permission**. Not banned outright.
 - Hunting and poaching **prohibited** inside sanctuaries
-- Sanctuary → NP upgrade possible (stricter rules after)
+- Sanctuary-to-NP upgrade possible (stricter rules after)
 - **In-situ** habitat conservation method
 - UP examples: **Katarniaghat**, **Kishanpur**, **Nawabganj Bird Sanctuary**, **Sur Sarovar**
 
@@ -216,21 +216,21 @@ ESZ (Eco-Sensitive Zones):
 ### National Park — How It Works
 
 - **National Parks (NP)** are the **strictest category** of terrestrial protected area under **WPA 1972 Section 35**.
-- The **State Government** declares an NP by notification — all rights in the area vest with the State for conservation purposes.
-- **No grazing, hunting, forestry, or private exploitation** is permitted — even collection of minor forest produce is banned.
-- **Alteration of NP boundaries or de-notification** requires approval of the **Parliament of India** — reflects highest legal protection.
+- The **State Government** declares an NP by notification. All rights in the area vest with the State for conservation purposes.
+- **No grazing, hunting, forestry, or private exploitation** is permitted. Even collection of minor forest produce is banned.
+- **Alteration of NP boundaries or de-notification** requires approval of the **Parliament of India**. Reflects highest legal protection.
 - India's **first National Park** was **Hailey National Park** (renamed **Jim Corbett NP**) declared in **1936** in present-day Uttarakhand.
-- India has approximately **107 National Parks** (2025) — covering ~1.23% of geographical area (combined with sanctuaries ~5%).
-- NPs are often the **core** of Tiger Reserves — e.g., Dudhwa NP forms the core of Dudhwa Tiger Reserve.
-- **Settlement of human rights** inside NP is restricted — villages inside NP boundaries are eventually relocated (unlike many sanctuaries).
-- NPs can overlap with **Ramsar wetlands** (Keoladeo) and **UNESCO World Heritage Sites** (Kaziranga, Sundarbans) — multiple designations, same landscape.
-- **UP has one major NP: Dudhwa** (Lakhimpur Kheri) — tiger, rhino, barasingha; richest PA in the state.
+- India has approximately **107 National Parks** (2025). Covering ~1.23% of geographical area (combined with sanctuaries ~5%).
+- NPs are often the **core** of Tiger Reserves. E.g., Dudhwa NP forms the core of Dudhwa Tiger Reserve.
+- **Settlement of human rights** inside NP is restricted. Villages inside NP boundaries are eventually relocated (unlike many sanctuaries).
+- NPs can overlap with **Ramsar wetlands** (Keoladeo) and **UNESCO World Heritage Sites** (Kaziranga, Sundarbans). Multiple designations, same landscape.
+- **UP has one major NP: Dudhwa** (Lakhimpur Kheri), which holds tiger, rhino, and barasingha and ranks as the richest PA in the state.
 
 > **Exam note:** NP = **strictest** WPA protection. Trap: "National Parks allow regulated grazing" = **FALSE**. Parliament needed to alter NP boundaries.
 
 ### Exam Facts (raata)
 
-- WPA **Sec 35** — National Park
+- WPA **Sec 35**. National Park.
 - **Strictest** terrestrial protected area category
 - First NP = **Jim Corbett (Hailey) 1936**, Uttarakhand
 - ~**107** National Parks in India
@@ -270,15 +270,15 @@ ESZ (Eco-Sensitive Zones):
 
 ### Biosphere Reserve — How It Works
 
-- **Biosphere Reserves (BR)** follow UNESCO's **Man and the Biosphere (MAB) Programme** launched in **1971** — India notified its first BR (Nilgiri) in **1986**.
-- India has **18 notified Biosphere Reserves** covering ~91,425 sq km; **13 are in UNESCO's World Network** (WNBR) as of September 2025.
+- **Biosphere Reserves (BR)** follow UNESCO's **Man and the Biosphere (MAB) Programme** launched in **1971**. India notified its first BR (Nilgiri) in **1986**.
+- India has **18 notified Biosphere Reserves** covering ~91,425 sq km. **13 are in UNESCO's World Network** (WNBR) as of September 2025.
 - Every BR has **three zones**: **Core** (no human activity, strict protection), **Buffer** (limited research, education, tourism), **Transition** (sustainable economic activities by local communities).
-- BRs aim for **conservation + development + logistics (research/monitoring)** — the "triple mandate" of UNESCO MAB.
-- BRs are **not declared under WPA** — they are executive notifications by MoEFCC; legal protection often comes from overlapping NP/sanctuary within the core zone.
-- **Funding**: Centrally Sponsored Scheme — **60:40** Centre-State (90:10 for NE/Himalayan states).
+- BRs aim for **conservation + development + logistics (research/monitoring)**. The "triple mandate" of UNESCO MAB.
+- BRs are **not declared under WPA**. They are executive notifications by MoEFCC. Legal protection often comes from overlapping NP/sanctuary within the core zone.
+- **Funding** comes through a Centrally Sponsored Scheme with a **60:40** Centre-State share (90:10 for NE/Himalayan states).
 - **Largest BR**: Great Rann of Kutch, Gujarat (12,454 sq km). **Smallest**: Nokrek, Meghalaya (820 sq km).
 - **Oldest**: Nilgiri (1986). **Newest notified**: Panna (2011). **Newest UNESCO**: Cold Desert, Himachal Pradesh (September 2025).
-- **Manas BR** (Assam) was on UNESCO list but **removed in 2011** due to insurgency/poaching — now only nationally notified.
+- **Manas BR** (Assam) was on UNESCO list but **removed in 2011** due to insurgency/poaching. Now only nationally notified.
 - States with most BRs: **Madhya Pradesh (3)** and **Tamil Nadu (3)**.
 
 > **Exam note:** **Nokrek = Meghalaya**, NOT Manipur (UPPCS 2025 Q144). Simlipal = **Odisha**, Agasthyamalai = **Kerala + Tamil Nadu**.
@@ -308,13 +308,13 @@ ESZ (Eco-Sensitive Zones):
 
 ### Exam Facts (raata)
 
-- **18** notified BRs; **13** UNESCO WNBR (Cold Desert added 2025)
-- Three zones: **Core → Buffer → Transition**
-- UNESCO MAB Programme = **1971**; India first BR = **Nilgiri 1986**
-- **No WPA statutory basis** — executive notification
+- **18** notified BRs. **13** UNESCO WNBR (Cold Desert added 2025).
+- Three zones: **Core, Buffer, and Transition**
+- UNESCO MAB Programme = **1971**. India first BR = **Nilgiri 1986**.
+- BRs carry **no WPA statutory basis** and rely on executive notification.
 - Nokrek = **Meghalaya** (NOT Manipur)
-- Simlipal = **Odisha**; Agasthyamalai = Kerala + TN
-- Largest = **Great Rann of Kutch**; Smallest = **Nokrek**
+- Simlipal = **Odisha**. Agasthyamalai = Kerala + TN.
+- Largest = **Great Rann of Kutch**. Smallest = **Nokrek**.
 - Manas removed from UNESCO list **2011**
 
 ### PYQs — Biosphere Reserve
@@ -346,16 +346,16 @@ ESZ (Eco-Sensitive Zones):
 
 ### Conservation Reserve — How It Works
 
-- **Conservation Reserves** were added to WPA through the **2002 Amendment (Sec 36A)** — a flexible buffer category between strict PAs and unprotected forest.
+- **Conservation Reserves** were added to WPA through the **2002 Amendment (Sec 36A)**. A flexible buffer category between strict PAs and unprotected forest.
 - Declared by **State Government** on **government-owned or community-owned forest land** near existing NP or sanctuary.
-- Purpose: create **ecological corridors and buffer zones** — link fragmented habitats without full NP-level restrictions.
-- **Human activity** is more permissive than NP — local communities may continue traditional uses under regulation.
+- Purpose: create **ecological corridors and buffer zones**. Link fragmented habitats without full NP-level restrictions.
+- **Human activity** is more permissive than NP. Local communities may continue traditional uses under regulation.
 - Unlike Community Reserves, Conservation Reserves typically involve **government or community forest land**, not private individual holdings.
-- India has a growing number of Conservation Reserves — examples include **Asan Conservation Reserve** (Uttarakhand, also Ramsar site).
-- They strengthen **landscape-level conservation** — tigers, elephants, and migratory birds benefit from buffer connectivity.
-- **No separate UNESCO or Ramsar status** — but can overlap with Ramsar designation (Asan Barrage).
-- Amendment **2002** also added Community Reserves (36B) — both are "cooperative" PA categories.
-- Conservation Reserves are **in-situ** tools supplementing NP/sanctuary network — preferred when full NP declaration is socially difficult.
+- India has a growing number of Conservation Reserves. Examples include **Asan Conservation Reserve** (Uttarakhand, also Ramsar site).
+- They strengthen **landscape-level conservation**. Tigers, elephants, and migratory birds benefit from buffer connectivity.
+- Conservation Reserves carry **no separate UNESCO or Ramsar status**, though they can overlap with Ramsar designation (Asan Barrage).
+- Amendment **2002** also added Community Reserves (36B). Both are "cooperative" PA categories.
+- Conservation Reserves are **in-situ** tools supplementing NP/sanctuary network. Preferred when full NP declaration is socially difficult.
 
 > **Exam note:** Conservation Reserve = **Sec 36A, 2002** — buffer forests. Trap: "Conservation Reserve and Community Reserve are the same" = **FALSE** — different land ownership.
 
@@ -364,7 +364,7 @@ ESZ (Eco-Sensitive Zones):
 - WPA **Sec 36A** (2002 Amendment)
 - Buffer forests **adjacent to NP/sanctuary**
 - State Govt declares on govt/community forest land
-- More flexible than NP; less strict than sanctuary in some contexts
+- More flexible than NP. Less strict than sanctuary in some contexts.
 - Example: **Asan Conservation Reserve**, Uttarakhand (Ramsar site)
 - Part of **2002 WPA cooperative conservation** categories
 
@@ -398,16 +398,16 @@ ESZ (Eco-Sensitive Zones):
 
 ### Community Reserve — How It Works
 
-- **Community Reserves** added via **WPA 2002 Amendment (Sec 36B)** — recognises **community-led conservation** on non-government land.
-- Requires **voluntary consent** of local community or private landowners — bottom-up conservation model.
-- State Government declares the area after community agreement — legal protection against external exploitation.
-- **Traditional practices and sacred groves** can be formalised as Community Reserves — links cultural conservation with legal status.
-- More **flexible** than NP — communities retain some access rights while protecting key habitat patches.
-- India has fewer Community Reserves than Conservation Reserves — still an emerging category.
-- Distinct from **Joint Forest Management (JFM)** — JFM is a management scheme, Community Reserve is a **legal PA category**.
-- Distinct from **FRA 2006 Community Forest Rights** — FRA grants rights; Community Reserve grants **protection status**.
-- Supports **biodiversity outside large PAs** — critical for endemic plants, birds, and pollinators in agricultural landscapes.
-- UP has potential for Community Reserves in **Terai village forest patches** and **sacred groves** — few formally notified yet.
+- **Community Reserves** added via **WPA 2002 Amendment (Sec 36B)**. Recognises **community-led conservation** on non-government land.
+- Requires **voluntary consent** of local community or private landowners. Bottom-up conservation model.
+- State Government declares the area after community agreement. Legal protection against external exploitation.
+- **Traditional practices and sacred groves** can be formalised as Community Reserves. Links cultural conservation with legal status.
+- More **flexible** than NP. Communities retain some access rights while protecting key habitat patches.
+- India has fewer Community Reserves than Conservation Reserves. Still an emerging category.
+- Distinct from **Joint Forest Management (JFM)**. JFM is a management scheme, Community Reserve is a **legal PA category**.
+- Distinct from **FRA 2006 Community Forest Rights**. FRA grants rights. Community Reserve grants **protection status**.
+- Supports **biodiversity outside large PAs**. Critical for endemic plants, birds, and pollinators in agricultural landscapes.
+- UP has potential for Community Reserves in **Terai village forest patches** and **sacred groves**. Few formally notified yet.
 
 > **Exam note:** Community Reserve = **private/community land + voluntary consent** (Sec 36B). Conservation Reserve = **govt/community forest buffer** (Sec 36A).
 
@@ -458,16 +458,16 @@ ESZ (Eco-Sensitive Zones):
 
 ### Tiger Reserve — How It Works
 
-- **Project Tiger** launched **1973** — first Tiger Reserve was **Jim Corbett** (then in UP, now Uttarakhand).
-- **WPA 2006 Amendment** added **Section 38V** — gives statutory backing to Tiger Reserves; created **NTCA** (National Tiger Conservation Authority).
+- **Project Tiger** launched **1973**. First Tiger Reserve was **Jim Corbett** (then in UP, now Uttarakhand).
+- **WPA 2006 Amendment** added **Section 38V**. Gives statutory backing to Tiger Reserves. Created **NTCA** (National Tiger Conservation Authority).
 - Every Tiger Reserve must have a **Core Zone** (inviolate, no human activity) and **Buffer Zone** (limited regulated activity, forest restoration).
-- **NTCA** approves tiger reserve notifications, tiger conservation plans, and tourism guidelines — reports to MoEFCC.
-- India has **58 Tiger Reserves** (as of March 2025) covering ~84,500 sq km — **Madhav TR** (MP) is the 58th.
-- **Madhya Pradesh** has the most tiger reserves (**9**); **~70% of world's wild tigers** are in India.
-- Tiger Reserves use **umbrella species conservation** — protecting tigers protects entire forest ecosystems and co-predators/prey.
-- **All India Tiger Estimation** conducted every 4 years (camera traps + sign surveys) — 2022 count: **3,682 tigers**.
-- **UP Tiger Reserves**: **Dudhwa** (1987), **Pilibhit** (2014), **Ranipur** (2023) — Terai belt is critical tiger habitat.
-- Tiger Reserve **core** is usually an existing **National Park or Sanctuary** — buffer includes surrounding forest divisions.
+- **NTCA** approves tiger reserve notifications, tiger conservation plans, and tourism guidelines. Reports to MoEFCC.
+- India has **58 Tiger Reserves** (as of March 2025) covering ~84,500 sq km. **Madhav TR** (MP) is the 58th.
+- **Madhya Pradesh** has the most tiger reserves (**9**). **~70% of world's wild tigers** are in India.
+- Tiger Reserves use **umbrella species conservation**. Protecting tigers protects entire forest ecosystems and co-predators/prey.
+- **All India Tiger Estimation** conducted every 4 years (camera traps + sign surveys). 2022 count: **3,682 tigers**.
+- **UP Tiger Reserves**: **Dudhwa** (1987), **Pilibhit** (2014), **Ranipur** (2023). Terai belt is critical tiger habitat.
+- Tiger Reserve **core** is usually an existing **National Park or Sanctuary**. Buffer includes surrounding forest divisions.
 
 > **Exam note:** Tiger Reserve has **WPA statutory basis** (Sec 38V). Elephant Reserve has **NO WPA basis** — key comparison trap.
 
@@ -481,9 +481,9 @@ ESZ (Eco-Sensitive Zones):
 
 ### Exam Facts (raata)
 
-- Project Tiger = **1973**; First TR = **Corbett**
-- WPA **Sec 38V** (2006); **NTCA** statutory body
-- **58** Tiger Reserves; Madhav = 58th (2025)
+- Project Tiger = **1973**. First TR = **Corbett**.
+- WPA **Sec 38V** (2006). **NTCA** statutory body.
+- **58** Tiger Reserves. Madhav = 58th (2025).
 - Mandatory **Core + Buffer** zones
 - 2022 tiger census: **3,682** tigers
 - MP has **9** TRs (most in India)
@@ -520,16 +520,16 @@ ESZ (Eco-Sensitive Zones):
 
 ### Elephant Reserve — How It Works
 
-- **Project Elephant** launched **1992** as Centrally Sponsored Scheme under MoEFCC — addresses habitat loss and human-elephant conflict.
-- **Elephant Reserves (ER)** are notified by **State Governments** — cover forest areas, corridors, and elephant migration routes.
-- India has **33 Elephant Reserves** across **14 states** covering ~80,778 sq km — elephant found in **16 of 28 states**.
-- **150 elephant corridors** identified and ground-validated across 15 states — critical for genetic exchange between populations.
-- ERs have **no WPA statutory backing** — protection comes from overlapping sanctuaries/NPs and forest laws within ER boundaries.
-- **Elephant population** estimated ~30,000 (2020 census) — up from ~25,000 in 1992.
+- **Project Elephant** launched **1992** as Centrally Sponsored Scheme under MoEFCC. Addresses habitat loss and human-elephant conflict.
+- **Elephant Reserves (ER)** are notified by **State Governments**. Cover forest areas, corridors, and elephant migration routes.
+- India has **33 Elephant Reserves** across **14 states** covering ~80,778 sq km. Elephant found in **16 of 28 states**.
+- **150 elephant corridors** identified and ground-validated across 15 states. Critical for genetic exchange between populations.
+- ERs have **no WPA statutory backing**. Protection comes from overlapping sanctuaries/NPs and forest laws within ER boundaries.
+- **Elephant population** estimated ~30,000 (2020 census). Up from ~25,000 in 1992.
 - **Human-elephant conflict** mitigation: anti-depredation squads, early warning systems, compensation schemes.
-- **UP Elephant Reserves**: **Uttar Pradesh ER** (2009, 744 sq km) and **Terai ER** (2022, 3,049 sq km) — cover Dudhwa-Pilibhit belt.
-- ERs often span **multiple districts and even states** — Mayurbhanj ER (Odisha) and Singhbhum ER (Jharkhand) are large landscapes.
-- Project Elephant merged with **Project Tiger** administration under MoEFCC in recent restructuring — both under wildlife division.
+- **UP Elephant Reserves**: **Uttar Pradesh ER** (2009, 744 sq km) and **Terai ER** (2022, 3,049 sq km). Cover Dudhwa-Pilibhit belt.
+- ERs often span **multiple districts and even states**. Mayurbhanj ER (Odisha) and Singhbhum ER (Jharkhand) are large landscapes.
+- Project Elephant merged with **Project Tiger** administration under MoEFCC in recent restructuring. Both under wildlife division.
 
 > **Exam note:** Elephant Reserve = **NO WPA statutory basis** (executive notification). Tiger Reserve = **WPA Sec 38V**. This is the #1 comparison trap.
 
@@ -543,9 +543,9 @@ ESZ (Eco-Sensitive Zones):
 ### Exam Facts (raata)
 
 - Project Elephant = **1992**
-- **33** Elephant Reserves; **14** states
+- **33** Elephant Reserves. **14** states.
 - **150** elephant corridors identified
-- **NO WPA statutory basis** — executive notification
+- Elephant Reserves have **no WPA statutory basis** and rest on executive notification only.
 - ~**30,000** elephants in India (2020 est.)
 - UP: **UP ER (2009)** + **Terai ER (2022)**
 - Karnataka has most ERs among southern states
@@ -581,15 +581,15 @@ ESZ (Eco-Sensitive Zones):
 
 ### Marine Protected Areas — How It Works
 
-- India's **first Marine National Park** was **Gulf of Kutch Marine NP**, Gujarat, declared **1980** — covers coral reefs, mangroves, and marine fauna.
-- **Marine Wildlife Sanctuaries** protect specific species habitats — e.g., **Gahirmatha Marine Sanctuary** (Odisha) for olive ridley turtles.
+- India's **first Marine National Park** was **Gulf of Kutch Marine NP**, Gujarat, declared **1980**, and it protects coral reefs, mangroves, and marine fauna.
+- **Marine Wildlife Sanctuaries** protect specific species habitats. E.g., **Gahirmatha Marine Sanctuary** (Odisha) for olive ridley turtles.
 - **Mahatma Gandhi Marine NP** and **Rani Jhansi Marine NP** in Andaman & Nicobar protect coral reef ecosystems.
-- **Coastal Regulation Zone (CRZ)** under EPA 1986 regulates development within coastal belt — categories IA (ecologically sensitive), IB, II, III.
+- **Coastal Regulation Zone (CRZ)** under EPA 1986 regulates development within coastal belt. Categories IA (ecologically sensitive), IB, II, III.
 - **Mangrove habitats** (Sundarbans, Bhitarkanika) receive protection through NP/sanctuary/BR designation plus CRZ restrictions.
 - **Ramsar coastal wetlands** (Chilika, Pulicat, Sundarbans Wetland) add international wetland protection layer.
-- India is expanding **Blue Economy** initiatives — marine PAs balance conservation with sustainable fisheries and eco-tourism.
+- India is expanding **Blue Economy** initiatives. Marine PAs balance conservation with sustainable fisheries and eco-tourism.
 - **UNESCO Marine World Heritage**: Sundarbans, Gulf of Mannar BR overlap with marine biodiversity hotspots.
-- **No Marine Protected Areas in UP** — Uttar Pradesh is **landlocked** (no coastline) — negative question trap.
+- **No Marine Protected Areas exist in UP** because Uttar Pradesh is **landlocked** with no coastline, a common negative-question trap.
 - Marine PAs face threats from **plastic pollution, trawling, coastal development, and climate change** (coral bleaching).
 
 > **Exam note:** First Marine NP = **Gulf of Kutch, Gujarat (1980)**. UP has **zero** marine PAs — landlocked state.
@@ -648,16 +648,16 @@ ESZ (Eco-Sensitive Zones):
 
 ### Ramsar Sites — How It Works
 
-- The **Ramsar Convention (1971)** protects wetlands — marshes, lakes, rivers, mangroves, peatlands, and human-made wetlands.
-- India is a **contracting party since February 1982** — first sites: **Chilika Lake** and **Keoladeo NP** (1981 designation).
-- India has approximately **100 Ramsar sites** (2026) — **largest in Asia**, **3rd globally** after UK and Mexico.
-- **Tamil Nadu** leads among states with the most Ramsar sites; **UP has 12 Ramsar sites** (2026) — among top states.
-- Ramsar designation does **not change land ownership** — existing WPA/forest protections continue; adds international recognition.
+- The **Ramsar Convention (1971)** protects wetlands such as marshes, lakes, rivers, mangroves, peatlands, and human-made wetlands.
+- India is a **contracting party since February 1982**. First sites: **Chilika Lake** and **Keoladeo NP** (1981 designation).
+- India has approximately **100 Ramsar sites** (2026). **largest in Asia**, **3rd globally** after UK and Mexico.
+- **Tamil Nadu** leads among states with the most Ramsar sites. **UP has 12 Ramsar sites** (2026). Among top states.
+- Ramsar designation does **not change land ownership**. Existing WPA/forest protections continue. Adds international recognition.
 - **Wise use** principle: sustainable use of wetlands for biodiversity + human livelihood (fishing, agriculture, tourism).
-- **Montreux Record**: register of Ramsar sites facing ecological threats — Keoladeo was once listed, recovered after conservation.
+- **Montreux Record**: register of Ramsar sites facing ecological threats. Keoladeo was once listed, recovered after conservation.
 - **UP Ramsar sites** include Upper Ganga, Nawabganj, Samaspur, Sarsai Nawar, Sur Sarovar, Haiderpur, Bakhira, and newer additions (Patna BS, Shekha Jheel, Jai Prakash Narayan BS).
-- **NOT in UP**: **Rudrasagar Lake** (Tripura), **Sultanpur National Park** (Haryana) — UPPCS 2025 Q58 direct trap.
-- Ramsar sites can overlap with **NP, Sanctuary, BR, and ESZ** — multiple designations on same wetland.
+- **NOT in UP**: **Rudrasagar Lake** (Tripura), **Sultanpur National Park** (Haryana). UPPCS 2025 Q58 direct trap.
+- Ramsar sites can overlap with **NP, Sanctuary, BR, and ESZ**. Multiple designations on same wetland.
 
 > **Exam note:** UPPCS 2025 Q58 — NOT in UP: **Rudrasagar (Tripura)** and **Sultanpur NP (Haryana)**. Samaspur and Sarsai Nawar **ARE in UP**.
 
@@ -680,9 +680,9 @@ ESZ (Eco-Sensitive Zones):
 
 ### Exam Facts (raata)
 
-- Ramsar Convention = **1971**; India joined **1982**
+- Ramsar Convention = **1971**. India joined **1982**.
 - World Wetlands Day = **2 February**
-- ~**100** Ramsar sites India (2026); **12 in UP**
+- ~**100** Ramsar sites India (2026). **12 in UP**.
 - First Indian Ramsar: **Chilika + Keoladeo (1981)**
 - NOT in UP: **Rudrasagar (Tripura)**, **Sultanpur NP (Haryana)**
 - MoEFCC = nodal ministry
@@ -718,16 +718,16 @@ ESZ (Eco-Sensitive Zones):
 
 ### UNESCO World Heritage Sites — How It Works
 
-- **UNESCO World Heritage Convention (1972)** — same year as Stockholm Conference and India's WPA — protects cultural and natural heritage of outstanding universal value.
+- **UNESCO World Heritage Convention (1972)**. Same year as Stockholm Conference and India's WPA. Protects cultural and natural heritage of outstanding universal value.
 - India's **natural World Heritage Sites** are primarily **NP/BR landscapes** with global biodiversity significance.
 - **Natural WH Sites in India (7)**: Kaziranga NP, Keoladeo NP, Manas NP, Sundarbans NP, Nanda Devi & Valley of Flowers NPs, Western Ghats, Great Himalayan NP, Khangchendzonga NP (some counted as clusters).
 - **Mixed WH Sites**: Sundarbans (natural), Khangchendzonga (natural + cultural).
-- **Western Ghats** WH site spans multiple states — Maharashtra, Karnataka, Tamil Nadu, Kerala — serial nomination.
-- WH designation brings **international monitoring** — Manas NP lost WH status temporarily (removed from danger list after recovery).
-- WH sites differ from **Biosphere Reserves** — WH = outstanding universal value; BR = MAB sustainable development model.
-- WH sites differ from **Ramsar** — WH can be any heritage; Ramsar = wetlands only.
-- **UP has no natural UNESCO WH site** — nearest is Nanda Devi (Uttarakhand). UP students should know **Keoladeo (Rajasthan)** and **Western Ghats (not UP)** for matching.
-- **World Heritage Day = 18 April** — not to be confused with World Environment Day (5 June) or Wetlands Day (2 Feb).
+- **Western Ghats** WH site spans multiple states. Maharashtra, Karnataka, Tamil Nadu, Kerala. Serial nomination.
+- WH designation brings **international monitoring**. Manas NP lost WH status temporarily (removed from danger list after recovery).
+- WH sites differ from **Biosphere Reserves**. WH = outstanding universal value. BR = MAB sustainable development model.
+- WH sites differ from **Ramsar**. WH can be any heritage. Ramsar = wetlands only.
+- **UP has no natural UNESCO WH site**. The nearest is Nanda Devi (Uttarakhand), and UP students should know **Keoladeo (Rajasthan)** and **Western Ghats (not UP)** for matching.
+- **World Heritage Day = 18 April**. Not to be confused with World Environment Day (5 June) or Wetlands Day (2 Feb).
 
 > **Exam note:** Kaziranga, Sundarbans, Keoladeo = **natural WH + NP**. Trap: "All UNESCO WH sites in India are cultural" = **FALSE**.
 
@@ -746,12 +746,12 @@ ESZ (Eco-Sensitive Zones):
 
 ### Exam Facts (raata)
 
-- WH Convention = **1972**; World Heritage Day = **18 April**
+- WH Convention = **1972**. World Heritage Day = **18 April**.
 - India has **40+ total WH sites** (natural + cultural + mixed)
-- **7–8 natural WH sites** — Kaziranga, Keoladeo, Manas, Sundarbans, Nanda Devi, Western Ghats, Great Himalayan, Khangchendzonga
+- **7–8 natural WH sites**. Kaziranga, Keoladeo, Manas, Sundarbans, Nanda Devi, Western Ghats, Great Himalayan, Khangchendzonga.
 - UP has **no natural WH site**
 - Keoladeo = WH + Ramsar + NP (triple designation)
-- Manas was on **danger list** — recovered 2011
+- Manas was on **danger list**. Recovered 2011.
 
 ### PYQs — UNESCO World Heritage Sites
 
@@ -784,17 +784,17 @@ ESZ (Eco-Sensitive Zones):
 
 ### Eco-Sensitive Zones — How It Works
 
-- **Eco-Sensitive Zones (ESZ)** are notified under **EPA 1986** — **not WPA 1972** — key legal trap.
-- **Supreme Court (2006)** directed **10 km buffer** around all PAs — actual notifications vary per site (0.5 km to 10 km width).
+- **Eco-Sensitive Zones (ESZ)** are notified under **EPA 1986**. **not WPA 1972**. Key legal trap.
+- **Supreme Court (2006)** directed **10 km buffer** around all PAs. Actual notifications vary per site (0.5 km to 10 km width).
 - ESZ creates a **transition belt** where certain activities are **prohibited**, **regulated**, or **promoted** in three activity categories.
 - **Prohibited**: mining, stone quarrying, major polluting industries, commercial mining, saw mills.
-- **Regulated**: tree felling, hotel construction, vehicular traffic, groundwater extraction — need environmental clearance.
+- **Regulated**: tree felling, hotel construction, vehicular traffic, groundwater extraction. Need environmental clearance.
 - **Permitted**: organic farming, eco-tourism, renewable energy, traditional artisan activities.
-- ESZ notifications prepared by **State Government** in consultation with MoEFCC — Central notification under EPA.
-- **Recent SC developments (2022–2024)**: ongoing litigation on uniform 1 km vs 10 km ESZ — exams may test EPA basis, not latest km figure.
-- ESZ around **Western Ghats** and **Himalayan PAs** are especially critical — fragile ecology + tourism pressure.
-- **UP ESZ**: notified around **Dudhwa NP**, **Katarniaghat WLS**, **Pilibhit TR** — restrict Terai industrial expansion.
-- ESZ differs from **CRZ** (coastal) and **BR buffer zone** (UNESCO) — ESZ is EPA-specific Indian legal tool.
+- ESZ notifications prepared by **State Government** in consultation with MoEFCC. Central notification under EPA.
+- **Recent SC developments (2022–2024)**: ongoing litigation on uniform 1 km vs 10 km ESZ. Exams may test EPA basis, not latest km figure.
+- ESZ around **Western Ghats** and **Himalayan PAs** are especially critical. Fragile ecology + tourism pressure.
+- **UP ESZ**: notified around **Dudhwa NP**, **Katarniaghat WLS**, **Pilibhit TR**. Restrict Terai industrial expansion.
+- ESZ differs from **CRZ** (coastal) and **BR buffer zone** (UNESCO). ESZ is EPA-specific Indian legal tool.
 
 > **Exam note:** ESZ = **EPA 1986**, NOT WPA 1972. SC guideline = **up to 10 km**. Trap: "ESZ declared under Wildlife Protection Act" = **FALSE**.
 
@@ -811,7 +811,7 @@ ESZ (Eco-Sensitive Zones):
 - ESZ under **EPA 1986** (NOT WPA)
 - SC directed **up to 10 km** buffer (2006)
 - Three activity zones: **Prohibited / Regulated / Permitted**
-- State prepares draft; **Central notification** under EPA
+- State prepares draft. **Central notification** under EPA.
 - UP ESZ around **Dudhwa, Katarniaghat, Pilibhit**
 - Different from CRZ (coastal) and BR buffer (UNESCO)
 

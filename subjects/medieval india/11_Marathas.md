@@ -108,29 +108,29 @@ CONFEDERACY (later):
 
 ### Maratha Empire — How It Works
 
-- **Geographic base:** **Western Ghats**, **Konkan**, **Deccan plateau** — fort-based control of passes and trade routes — **hill forts (gad)** = military-economic nodes.
-- **Shivaji phase (1630–1680):** Built **independent kingdom** from **Bijapur Sultanate** fragments — **Chhatrapati** title at **Raigad 1674**.
-- **Post-Shivaji crisis:** **Sambhaji** executed **1689** (Aurangzeb); **Rajaram**, **Tarabai** guerrilla resistance — Mughal **Deccan drain**.
-- **Shahu release (1707):** After Aurangzeb's death, **Shahu** returned — rivalry with **Tarabai** line — **Peshwas** rose as power brokers.
-- **Peshwa ascendancy (1713+):** **Balaji Vishwanath** made Peshwa hereditary — central minister became **de facto ruler** — Chhatrapati symbolic.
-- **Northward expansion:** **Bajirao I** pushed into **Malwa, Gujarat, Bundelkhand, Doab** — Maratha **rakhi**, **chauth** collection in Mughal territories.
-- **Confederacy structure:** Five major power centres — **Peshwa (Pune)**, **Scindia (Gwalior)**, **Holkar (Indore)**, **Gaekwad (Baroda)**, **Bhonsle (Nagpur)** — shared Maratha identity, **semi-autonomous** military-fiscal units.
-- **Revenue model:** **Chauth + sardeshmukhi** funded armies — allowed expansion without full annexation — exam favourite pair.
-- **Panipat III (1761):** **Catastrophic defeat** vs **Ahmad Shah Abdali** — northern expansion **halted** — Peshwa prestige shattered — **Madhav Rao I** partial recovery.
-- **Decline:** Internal **faction fights** (Raghunath Rao, Narayan Rao murder) + **British** Anglo-Maratha wars → **1818** Peshwa ended.
-- **UP link:** Marathas collected **chauth** in **Doab**, **Bundelkhand**, **Rohilkhand** — UP geography in expansion MCQs.
-- **Trap — Maratha ≠ only Shivaji:** Empire includes **100+ years post-Shivaji** Peshwa/confederacy — syllabus Topic 11 spans both.
+- **Geographic base:** The Maratha base lay in the **Western Ghats**, **Konkan**, and **Deccan plateau**. Hill forts (**gad**) controlled passes, trade routes, and military supply.
+- **Shivaji phase (1630–1680):** Shivaji built an **independent kingdom** from Bijapur Sultanate fragments. His **Chhatrapati** coronation took place at **Raigad in 1674**.
+- **Post-Shivaji crisis:** **Sambhaji** was executed by Aurangzeb in **1689**. **Rajaram** and **Tarabai** continued guerrilla resistance and drained Mughal resources in the Deccan.
+- **Shahu release (1707):** After Aurangzeb's death, **Shahu** returned and challenged the Tarabai line. The **Peshwas** rose as power brokers in this struggle.
+- **Peshwa ascendancy (1713+):** **Balaji Vishwanath** made the Peshwa office hereditary. The central minister gradually became the **de facto ruler**, while the Chhatrapati became symbolic.
+- **Northward expansion:** **Bajirao I** expanded into **Malwa, Gujarat, Bundelkhand, and the Doab**. Maratha **rakhi** and **chauth** collections spread into Mughal territories.
+- **Confederacy structure:** The confederacy had five major centres: **Peshwa (Pune)**, **Scindia (Gwalior)**, **Holkar (Indore)**, **Gaekwad (Baroda)**, and **Bhonsle (Nagpur)**. They shared Maratha identity but acted as semi-autonomous military-fiscal powers.
+- **Revenue model:** **Chauth** and **sardeshmukhi** funded Maratha armies. They allowed expansion without immediate full annexation.
+- **Panipat III (1761):** The Marathas suffered a catastrophic defeat against **Ahmad Shah Abdali** in **1761**. Northern expansion halted, Peshwa prestige collapsed, and **Madhav Rao I** later attempted recovery.
+- **Decline:** Internal factional fights, including the Narayan Rao murder and Raghunath Rao disputes, weakened the confederacy. The Anglo-Maratha wars ended Peshwa power in **1818**.
+- **UP link:** Marathas collected **chauth** in the **Doab**, **Bundelkhand**, and **Rohilkhand**. This makes north Indian geography important for UPPCS.
+- **Trap — Maratha ≠ only Shivaji:** The Maratha Empire includes more than a century after Shivaji. Topic 11 covers both Shivaji's kingdom and the later Peshwa-confederacy phase.
 
 > **Exam note:** **1761 Panipat III** marks **turning point** — not Shivaji's death (1680) — for **all-India Maratha decline**.
 
 ### Exam Facts (raata)
 
-- Phases: **Shivaji → Mughal wars → Peshwa/confederacy**
-- **1713** Balaji Vishwanath — hereditary Peshwa
-- **Five confederacy** houses
-- **Chauth** funded expansion
-- **1761 Panipat III** — Abdali victory
-- **1818** Peshwa power ends (brief modern note)
+- The main phases were **Shivaji**, the Mughal wars, and the Peshwa-confederacy period.
+- In **1713**, Balaji Vishwanath began the hereditary Peshwa line.
+- The confederacy had five major houses.
+- **Chauth** funded Maratha expansion.
+- **Panipat III in 1761** ended in Abdali's victory.
+- Peshwa power ended in **1818** as a modern-history link.
 
 ### PYQs — Maratha Empire
 
@@ -160,30 +160,30 @@ CONFEDERACY (later):
 
 ### Shivaji — How It Works
 
-- **Birth 1630:** **Shivneri fort** — father **Shahji Bhonsle** (Bijapur noble), mother **Jijabai** — early **Hindu pad padshahi** ideology from Jijabai/Dadaji Konddev.
-- **Early conquests:** **Torana, Chakan, Rajgarh, Kondana (Sinhagad)** — secured **Mavala** base — hill fort strategy.
-- **Bijapur conflict:** Fought **Adil Shahi** generals — **Afzal Khan (1659)** — meeting at **Pratapgad** — Shivaji killed Afzal — morale turning point.
-- **Mughal front:** **Shaista Khan (1663)** occupied Pune — Shivaji **night raid** — Khan lost son, finger legend — Mughal prestige hit.
-- **Agra detention (1666):** Trapped at **Aurangzeb's court** — **escape in fruit baskets** legend — treaty politics followed.
-- **Treaty of Purandar (1665):** With **Raja Jai Singh I** (Mughal) — Shivaji surrendered **23 forts**, son **Sambhaji** as hostage — temporary submission.
-- **Coronation 1674:** **Rajyabhishek at Raigad** — declared **Chhatrapati** — independent sovereign symbol — **not merely Bijapur jagirdar**.
-- **Navy:** Built **coastal forts** (Sindhudurg, Vijaydurg) — challenged **Siddi, Portuguese** — Konkan trade protection.
-- **Deshmukh opposition (2024 Q18):** Local **deshmukhs** (feudal revenue chiefs) resisted **Shivaji's central swaraj** — wanted to stay **Bijapur's intermediaries** — **A & R both true, R explains A**.
-- **Death 1680:** At **Raigad** — succeeded by **Sambhaji** — Mughal war intensified under **Aurangzeb**.
-- **Administration legacy:** **Ashtapradhan**, **chauth**, **welfare regulations** — foundation for later Peshwa state.
-- **Trap — Shivaji never fought Panipat III** — died **1680** — **99 years before 1761**.
+- **Birth 1630:** Shivaji was born at **Shivneri fort** in **1630**. His father was **Shahji Bhonsle**, a Bijapur noble, and his mother **Jijabai** shaped his early political imagination.
+- **Early conquests:** Shivaji captured forts such as **Torana, Chakan, Rajgarh, and Kondana (Sinhagad)**. These conquests secured his **Mavala** base.
+- **Bijapur conflict:** Shivaji fought Adil Shahi generals, especially **Afzal Khan** in **1659**. Afzal Khan's death at **Pratapgad** became a morale turning point.
+- **Mughal front:** **Shaista Khan** occupied Pune in **1663**. Shivaji's night raid damaged Mughal prestige and produced the famous finger legend.
+- **Agra detention (1666):** Shivaji was detained at **Aurangzeb's court** in Agra. The fruit-basket escape legend is linked with this episode.
+- **Treaty of Purandar (1665):** Shivaji made the treaty with **Raja Jai Singh I**. He surrendered **23 forts**, and Sambhaji was sent as a hostage in a temporary submission.
+- **Coronation 1674:** Shivaji's **Rajyabhishek** at Raigad declared him **Chhatrapati**. It marked him as an independent sovereign, not merely a Bijapur jagirdar.
+- **Navy:** Shivaji built coastal forts such as **Sindhudurg** and **Vijaydurg**. His navy protected Konkan trade and challenged the Siddi and Portuguese.
+- **Deshmukh opposition (2024 Q18):** Local **deshmukhs** resisted Shivaji's central swaraj. They preferred to remain Bijapur's feudal intermediaries, so the reason explains the assertion.
+- **Death 1680:** Shivaji died at **Raigad** in **1680**. **Sambhaji** succeeded him, and the Mughal war intensified under Aurangzeb.
+- **Administration legacy:** Shivaji's **Ashtapradhan**, revenue practices, and welfare regulations became the foundation of the later Maratha state.
+- **Trap — Shivaji never fought Panipat III:** Shivaji died in **1680**. Panipat III took place **81 years later** in **1761**.
 
 > **Exam note:** **2024 Q18 = A** — Deshmukhs opposed **independent Maratha state** fearing loss of **feudal privileges** under Bijapur.
 
 ### Exam Facts (raata)
 
-- Born **1630** Shivneri | Died **1680** Raigad
-- **Afzal Khan 1659** Pratapgad
-- **Shaista Khan 1663** raid
-- **Agra escape 1666**
-- **Purandar 1665** with Jai Singh
-- **Rajyabhishek 1674** Raigad
-- **Deshmukh opposition** — 2024 Q18
+- Shivaji was born at **Shivneri in 1630** and died at **Raigad in 1680**.
+- The **Afzal Khan** episode took place at Pratapgad in **1659**.
+- Shivaji raided **Shaista Khan** in **1663**.
+- The **Agra escape** is dated to **1666**.
+- The **Treaty of Purandar** was made with Jai Singh in **1665**.
+- Shivaji's **Rajyabhishek** took place at Raigad in **1674**.
+- **Deshmukh opposition** is the key point in **2024 Q18**.
 
 ### PYQs — Shivaji
 
@@ -214,19 +214,19 @@ CONFEDERACY (later):
 
 ### Ashtapradhan — How It Works
 
-- **Council concept:** Shivaji needed **centralised advice** beyond **feudal deshmukhs** — **Ashtapradhan** = institutional breakthrough vs purely clan rule.
-- **1. Peshwa (Mukhya Pradhan):** **General administration**, coordination of other ministers — later became **hereditary supreme office** under Shahu.
-- **2. Amatya (Majumdar):** **Finance and accounts** — revenue records, treasury — paired with **chauth** collection machinery.
-- **3. Mantri:** **Private secretary / chronicler** — recorded king's activities — intelligence and court diary functions.
-- **4. Senapati (Sar-i-Naubat):** **Commander-in-chief** — army organisation — fort garrisons and campaigns.
-- **5. Sumant (Dabir):** **Foreign affairs** — correspondence with **Mughals, Bijapur, Portuguese**, other powers — treaty negotiation.
-- **6. Nyayadish:** **Chief justice** — civil and criminal cases — local panchayats under oversight.
-- **7. Pandit Rao (Sadra-i-Muzzam):** **Religious affairs** — charitable grants, moral discipline — royal ritual legitimacy.
-- **8. Sachiv (Shuru Navis):** **Correspondence** — official letters, seals — communication hub.
-- **Not hereditary initially:** Shivaji appointed on **merit/loyalty** — contrast **deshmukhi hereditary feudalism** Shivaji fought.
-- **Peshwa transformation:** Under **Balaji Vishwanath (1713)**, **Peshwa** post became **hereditary prime ministership** — other Ashtapradhan roles faded.
-- **Military-admin link:** **Senapati + Peshwa + Amatya** coordinated **fort defence** and **revenue** — guerrilla war needed flexible supply.
-- **Comparison Mughal:** Like **mansabdari centralisation** but **smaller scale**, **fort-centric** — UPPCS compare-structure questions.
+- **Council concept:** Shivaji needed centralized advice beyond feudal **deshmukhs**. The **Ashtapradhan** was an institutional alternative to purely clan-based rule.
+- **1. Peshwa (Mukhya Pradhan):** The Peshwa handled general administration and coordinated other ministers. Under Shahu, this office later became hereditary and supreme.
+- **2. Amatya (Majumdar):** The Amatya handled finance, accounts, revenue records, and the treasury. The office connected closely with the chauth collection system.
+- **3. Mantri:** The Mantri worked as private secretary and chronicler. He recorded the king's activities and performed intelligence and court diary functions.
+- **4. Senapati (Sar-i-Naubat):** The Senapati was commander-in-chief. He supervised army organisation, fort garrisons, and campaigns.
+- **5. Sumant (Dabir):** The Sumant handled foreign affairs. He managed correspondence and treaty negotiations with the Mughals, Bijapur, Portuguese, and other powers.
+- **6. Nyayadish:** The Nyayadish was the chief justice. He handled civil and criminal cases with local panchayats under oversight.
+- **7. Pandit Rao (Sadra-i-Muzzam):** The Pandit Rao handled religious affairs, charitable grants, and moral discipline. The office supported royal ritual legitimacy.
+- **8. Sachiv (Shuru Navis):** The Sachiv handled official correspondence, letters, and seals. He served as the communication hub.
+- **Not hereditary initially:** Shivaji appointed ministers on **merit and loyalty**. This contrasted with the hereditary deshmukhi feudalism he tried to control.
+- **Peshwa transformation:** Under **Balaji Vishwanath in 1713**, the Peshwa office became hereditary. Other Ashtapradhan roles faded in political importance.
+- **Military-admin link:** The **Senapati, Peshwa, and Amatya** coordinated fort defence and revenue. Guerrilla war needed flexible supply and administration.
+- **Comparison Mughal:** The system resembled centralisation on a smaller and more fort-centric scale than Mughal mansabdari. UPPCS may compare the two structures.
 
 > **Exam note:** **Peshwa** in Shivaji's time = **one of eight** ministers — **NOT yet** all-India ruler — trap "Peshwa ruled in Shivaji's lifetime as supreme" = **partially false** (Shivaji ruled; Peshwa advisory).
 
@@ -245,13 +245,13 @@ CONFEDERACY (later):
 
 ### Exam Facts (raata)
 
-- **Ashtapradhan = 8** ministers
-- **Peshwa** = general admin (later supreme)
-- **Amatya** = finance
-- **Senapati** = army chief
-- **Sumant** = foreign affairs
-- **Nyayadish** = justice
-- Hereditary **Peshwa** from **1713**
+- **Ashtapradhan** means a council of **8** ministers.
+- The **Peshwa** handled general administration and later became supreme.
+- The **Amatya** handled finance.
+- The **Senapati** was the army chief.
+- The **Sumant** handled foreign affairs.
+- The **Nyayadish** handled justice.
+- The **Peshwa** became hereditary from **1713**.
 
 ### PYQs — Administration
 
@@ -281,29 +281,29 @@ CONFEDERACY (later):
 
 ### Maratha Revenue — How It Works
 
-- **Problem of expansion:** Full **conquest** expensive — Marathas developed **parallel revenue extraction** from **existing rulers' subjects**.
-- **Chauth (¼):** Literally **"one-fourth"** — if land revenue = 100, **chauth = 25** — paid so Marathas **don't raid** — **protection tax** — **2018 Q93 answer B**.
-- **Sardeshmukhi (+10%):** Claim as **historical deshmukh** rights — **10%** additional — assertion of **chiefly sovereignty** over territory — often combined with chauth in negotiations.
-- **Total burden:** In claimed zones, **up to 35%** (25+10) of land revenue — heavy but **less than full annexation** disruption initially.
-- **Rakhi system:** **Protection band** offered to zamindars/kings — pay **chauth** — **Maratha shield** against others — **Bundelkhand, Rajputana** examples.
-- **Deshmukhi intermediaries:** Local **deshmukhs** collected for Marathas — tension with **Shivaji's centralisation** (2024 Q18) — continued under Peshwas.
-- **Ryot link:** Peasant (**ryot**) paid through existing **revenue machinery** — Marathas **tapped Mughal/Bijapur assessment** — not always new land survey.
-- **Peshwa finance:** **Balaji Vishwanath, Bajirao I** used **chauth from Malwa, Gujarat, Doab** to fund **north campaigns** — fiscal base of empire.
-- **Mughal decline connection:** As **Mughal central power collapsed**, **chauth collection** replaced **imperial authority** in many provinces — including **UP Doab** areas.
-- **British contrast:** Later **British** replaced Maratha **chauth** with **direct settlement** — permanent zamindari/fixation.
-- **Trap — Sardeshmukhi alone = protection:** **FALSE** — **Chauth** is the classic **protection quarter**; **sardeshmukhi** is **additional chief's claim**.
-- **Trap — Abwab/Jamadani:** **2018 Q93** distractors — **Abwab** = extra cesses (Mughal/Sultanate); **Jamadani** = textile — not Maratha protection term.
+- **Problem of expansion:** Full conquest was expensive for the Marathas. They therefore developed parallel revenue extraction from territories still ruled by others.
+- **Chauth (¼):** **Chauth** literally meant one-fourth of assessed land revenue. If land revenue was 100, chauth was 25 and functioned as a protection payment.
+- **Sardeshmukhi (+10%):** **Sardeshmukhi** was an additional **10%** claim based on historical deshmukh rights. It asserted chiefly sovereignty over the territory.
+- **Total burden:** Together, chauth and sardeshmukhi could reach **35%** of land revenue. This was heavy but initially less disruptive than full annexation.
+- **Rakhi system:** Under the **rakhi** system, zamindars or kings paid for Maratha protection. Bundelkhand and Rajputana provide useful examples.
+- **Deshmukhi intermediaries:** Local **deshmukhs** often collected revenue for the Marathas. This continued the tension between local feudal chiefs and central authority.
+- **Ryot link:** The peasant (**ryot**) usually paid through existing revenue machinery. Marathas often tapped Mughal or Bijapur assessments rather than conducting a fresh survey.
+- **Peshwa finance:** **Balaji Vishwanath** and **Bajirao I** used chauth from **Malwa, Gujarat, and the Doab** to fund northern campaigns. This became a fiscal base of empire.
+- **Mughal decline connection:** As Mughal central power collapsed, chauth collection replaced imperial authority in many provinces. This included parts of the **UP Doab**.
+- **British contrast:** The British later replaced Maratha chauth with direct settlements and fixed revenue systems.
+- **Trap — Sardeshmukhi alone = protection:** **Chauth** is the classic protection quarter. **Sardeshmukhi** is the additional chief's claim.
+- **Trap — Abwab/Jamadani:** **Abwab** means extra cesses, and **Jamadani** is a textile. Neither is the Maratha protection term in **2018 Q93**.
 
 > **Exam note:** **Chauth = 25% = protection** — **single most tested** Maratha revenue fact (**2018 Q93**).
 
 ### Exam Facts (raata)
 
-- **Chauth = ¼ (25%)** — protection
-- **Sardeshmukhi = 10%** — deshmukh claim
-- Combined up to **35%**
-- **Rakhi** = protection offer
-- **2018 Q93 = B (Chauth)**
-- Funded **Peshwa expansion**
+- **Chauth** was **¼ (25%)** of land revenue and worked as a protection tax.
+- **Sardeshmukhi** was an additional **10%** deshmukh claim.
+- Together, the two could reach **35%**.
+- **Rakhi** meant a protection arrangement.
+- **2018 Q93** asked this directly, and the answer was **Chauth**.
+- These levies funded **Peshwa expansion**.
 
 ### PYQs — Revenue
 
@@ -334,18 +334,18 @@ CONFEDERACY (later):
 
 ### Peshwas — How It Works
 
-- **Balaji Vishwanath (1713–1720):** **First hereditary Peshwa** under **Chhatrapati Shahu** — consolidated **Saranjam** system — **Treaty of Lanavada (1718)** with **Sayyid brothers** — Mughal recognition of **Swarajya** rights.
-- **Faction resolution:** Mediated **Shahu vs Tarabai** — centralised **Maratha loyalty** under Peshwa office — shifted power from **Bhonsle Chhatrapati alone**.
-- **Bajirao I (1720–1740):** Son of Vishwanath — **"Rau"** — greatest **military expansion** — **Malwa, Gujarat, Bundelkhand** — **"Let us strike the trunk of the withering tree"** (Mughal Empire) quote attributed.
-- **Bajirao battles:** **Palkhed (1728)** vs **Nizam** — **Mastani** alliance legend — **north Deccan** dominance.
-- **Balaji Bajirao / Nana Saheb (1740–1761):** Son — Peshwa during **Panipat III** — young **Vishwas Rao** (his son) killed at Panipat — Peshwa died **1761** grief/shock.
-- **Madhav Rao I (1761–1772):** Nephew — **partial revival** after Panipat — disciplined confederacy briefly — died young **1772**.
-- **Narayan Rao (1772–1773):** Murdered in **palace coup** — **Raghunath Rao (Raghoba)** accused — instability.
-- **Raghunath Rao (1773–1774):** **Anglo-Maratha** First War link — **Treaty of Surat** — British intervention begins (brief modern note).
-- **2023 Q35 order:** **Balaji Vishwanath (I) → Bajirao I (II) → Madhav Rao I (IV) → Narayan Rao (III)** = **D (I, II, IV, III)**.
-- **2024 Q1 order:** **Balaji Vishwanath (4) → Balaji Baji Rao (2) → Narayan Rao (3) → Raghunath Rao (1)** = **A (4, 2, 3, 1)**.
-- **2025 Q149 order:** **Vishwanath (3) → Bajirao I (1) → Balaji Bajirao (2) → Madhav Rao I (4)** = **C (3, 1, 2, 4)**.
-- **Confederacy solidifies:** Under Peshwas, **Scindia, Holkar, Gaekwad, Bhonsle** became **powerful sub-states** — shared **Maratha identity**, separate armies.
+- **Balaji Vishwanath (1713–1720):** Balaji Vishwanath was the first hereditary Peshwa under **Chhatrapati Shahu**. He consolidated the **Saranjam** system and obtained Mughal recognition of Maratha rights through the **Treaty of Lanavada (1718)**.
+- **Faction resolution:** He mediated the **Shahu vs Tarabai** conflict. This centralized Maratha loyalty under the Peshwa office and reduced exclusive Bhonsle control.
+- **Bajirao I (1720–1740):** Bajirao I was Vishwanath's son and is remembered as **Rau**. He led major expansion into **Malwa, Gujarat, and Bundelkhand**.
+- **Bajirao battles:** **Palkhed (1728)** against the Nizam showed Bajirao's military skill. The Mastani tradition belongs to his biography but is not the main exam point.
+- **Balaji Bajirao / Nana Saheb (1740–1761):** Balaji Bajirao was Peshwa during **Panipat III**. His son **Vishwas Rao** was killed at Panipat, and the Peshwa died soon after in **1761**.
+- **Madhav Rao I (1761–1772):** Madhav Rao I led a partial Maratha revival after Panipat. He briefly restored discipline but died young in **1772**.
+- **Narayan Rao (1772–1773):** Narayan Rao was murdered in a palace coup. **Raghunath Rao (Raghoba)** was accused, creating major instability.
+- **Raghunath Rao (1773–1774):** Raghunath Rao is linked with the First Anglo-Maratha War and the **Treaty of Surat**. This is mainly a modern-history bridge.
+- **2023 Q35 order:** The correct order is **Balaji Vishwanath → Bajirao I → Madhav Rao I → Narayan Rao**. The code is **D (I, II, IV, III)**.
+- **2024 Q1 order:** The correct order is **Balaji Vishwanath → Balaji Baji Rao → Narayan Rao → Raghunath Rao**. The code is **A (4, 2, 3, 1)**.
+- **2025 Q149 order:** The correct order is **Vishwanath → Bajirao I → Balaji Bajirao → Madhav Rao I**. The code is **C (3, 1, 2, 4)**.
+- **Confederacy solidifies:** Under the Peshwas, **Scindia, Holkar, Gaekwad, and Bhonsle** became powerful sub-states. They shared Maratha identity but maintained separate armies.
 
 > **Exam note:** **Madhav Rao I before Narayan Rao** — **2023 Q35** trap — students swap **III and IV**.
 
@@ -364,12 +364,12 @@ CONFEDERACY (later):
 
 ### Exam Facts (raata)
 
-- **1713** hereditary Peshwa begins
-- **Balaji Vishwanath** = first
-- **Bajirao I 1720–40** = peak expansion
-- **Balaji Bajirao** = Panipat generation
-- **Madhav Rao I** before **Narayan Rao**
-- **2025 Q149 = C (3-1-2-4)**
+- The hereditary Peshwa line began in **1713**.
+- **Balaji Vishwanath** was the first hereditary Peshwa.
+- **Bajirao I (1720–1740)** represents peak expansion.
+- **Balaji Bajirao** belongs to the Panipat generation.
+- **Madhav Rao I** came before **Narayan Rao**.
+- **2025 Q149** has the code **C (3-1-2-4)**.
 
 ### PYQs — Peshwas
 
@@ -401,29 +401,29 @@ CONFEDERACY (later):
 
 ### Third Battle of Panipat — How It Works
 
-- **Background:** Marathas after **Bajirao I** controlled **Delhi**, collected **chauth** in **Punjab, Rajputana, Doab** — **Afghan Ahmad Shah Abdali** returned to **restore Durrani Punjab**.
-- **Alliances:** **Abdali** + **Shuja-ud-Daula (Awadh)** + **Rohillas** vs **Marathas** — **Rajputs largely absent** (internal disputes) — **Sikhs** neutral/watching.
-- **Maratha side:** **Sadashiv Rao Bhau** (cousin of Peshwa **Balaji Bajirao**) — commander; **Vishwas Rao** (Peshwa's son/heir) present — large **confederacy contingents** but **supply lines weak**.
-- **Date & place:** **14 January 1761** — **Panipat** (same field as **1526, 1556**) — **Haryana/UP border** — UPPCS geography priority.
-- **Battle course:** **Artillery + cavalry** clash — Maratha **supply shortage** in winter — **Bhau** killed — **Vishwas Rao** killed — **massive Maratha casualties**.
-- **Outcome:** **Decisive Abdali victory** — Marathas **retreated south** — **Delhi occupation temporary** for Afghans — no stable empire built.
-- **Political effects:** **Peshwa Balaji Bajirao** died soon after news — **Madhav Rao I** tried recovery — **Maratha unity strained** — confederacy **factionalised**.
-- **Mughal angle:** **Shah Alam II** remained weak — **power vacuum** eventually filled partly by **British** — Panipat **indirectly helped British rise**.
-- **Why Marathas lost (exam themes):** **Overextended lines**, **no Rajput/Sikh firm support**, **winter logistics**, **internal confederacy coordination failures**.
-- **Trap — Panipat I/II/III:** **I = Babur 1526** | **II = Akbar/Hemu 1556** | **III = Abdali/Maratha 1761** — only **III** involves **Marathas**.
-- **Trap — Bajirao I at Panipat:** **Bajirao I died 1740** — **21 years before** Panipat — commander was **Bhau**, not Bajirao.
+- **Background:** After Bajirao I, the Marathas controlled Delhi and collected **chauth** in Punjab, Rajputana, and the Doab. **Ahmad Shah Abdali** returned to restore Durrani influence in Punjab.
+- **Alliances:** Abdali fought with **Shuja-ud-Daula of Awadh** and the **Rohillas** against the Marathas. Rajputs stayed largely absent, and Sikhs mostly watched.
+- **Maratha side:** **Sadashiv Rao Bhau**, cousin of Peshwa Balaji Bajirao, commanded the Maratha army. **Vishwas Rao**, the Peshwa's son and heir, was also present.
+- **Date & place:** The battle took place on **14 January 1761** at **Panipat**. The same field is associated with the battles of **1526** and **1556**.
+- **Battle course:** The battle combined artillery and cavalry action. Maratha supply shortages in winter worsened the crisis, and both **Bhau** and **Vishwas Rao** were killed.
+- **Outcome:** Abdali won decisively, and the Marathas retreated south. Afghan occupation of Delhi was temporary, but Maratha northern expansion was broken.
+- **Political effects:** Peshwa **Balaji Bajirao** died soon after hearing the news. **Madhav Rao I** later tried to restore Maratha power, but unity was strained.
+- **Mughal angle:** **Shah Alam II** remained weak after the battle. The continuing power vacuum indirectly helped the British rise.
+- **Why Marathas lost (exam themes):** The main causes were overextended supply lines, weak Rajput/Sikh support, winter logistics, and confederacy coordination failures.
+- **Trap — Panipat I/II/III:** Panipat I was **Babur in 1526**, Panipat II was **Akbar-Hemu in 1556**, and Panipat III was **Abdali-Maratha in 1761**. Only the third belongs to the Maratha topic.
+- **Trap — Bajirao I at Panipat:** **Bajirao I** died in **1740**, 21 years before Panipat III. The commander was **Sadashiv Rao Bhau**.
 
 > **Exam note:** **Abdali** (not Nadir Shah 1739) fought **Panipat III** — Afghan ruler **Ahmad Shah Durrani**.
 
 ### Exam Facts (raata)
 
-- **14 January 1761** Panipat
-- **Abdali** vs **Marathas**
-- Commander **Sadashiv Rao Bhau**
-- **Vishwas Rao** killed
-- Maratha **northern expansion ended**
-- **Balaji Bajirao** Peshwa died after
-- **Madhav Rao I** recovery attempt
+- Panipat III was fought on **14 January 1761**.
+- **Ahmad Shah Abdali** defeated the **Marathas**.
+- **Sadashiv Rao Bhau** commanded the Maratha army.
+- **Vishwas Rao** was killed in the battle.
+- Maratha **northern expansion** ended after the defeat.
+- Peshwa **Balaji Bajirao** died soon after the news.
+- **Madhav Rao I** later attempted recovery.
 
 ### PYQs — Panipat III
 
@@ -1143,17 +1143,17 @@ D. 1, 3, 4, 2
 
 ## Common Traps — Marathas (≥10)
 
-1. **Chauth = 10%** — **FALSE** — **Chauth = 25% (¼)** — **2018 Q93**.
-2. **Sardeshmukhi = protection quarter** — **FALSE** — **Chauth** is protection; **Sardeshmukhi = +10%**.
-3. **Shivaji at Panipat III** — **FALSE** — died **1680**; Panipat **1761**.
-4. **Bajirao I at Panipat** — **FALSE** — died **1740**; commander **Sadashiv Rao Bhau**.
-5. **Narayan Rao before Madhav Rao I** — **FALSE** — **Madhav Rao I 1761–72** first — **2023 Q35**.
-6. **Peshwa supreme in Shivaji's time** — **FALSE** — **one of eight** Ashtapradhan; hereditary from **1713**.
-7. **Panipat III = Nadir Shah** — **FALSE** — **Ahmad Shah Abdali (1761)**; Nadir **1739 Delhi**.
-8. **Deshmukhs supported Shivaji centralisation** — **FALSE** — **2024 Q18** — they opposed swaraj.
-9. **Raigad = Peshwa capital** — **FALSE** — **Raigad = Shivaji coronation**; **Pune = Peshwa seat**.
-10. **Ashtapradhan = five ministers** — **FALSE** — **eight (ashta)**.
-11. **Balaji Bajirao before Bajirao I** — **FALSE** — father **Bajirao I** then son **Balaji Bajirao**.
-12. **2025 Q149 order** — Must know **3-1-2-4** — Vishwanath → Bajirao I → Balaji Bajirao → Madhav Rao I.
-13. **Maratha confederacy = Shivaji only** — **FALSE** — **centuries later** structure.
-14. **Abwab = Maratha protection tax** — **FALSE** — **Abwab** = extra cesses; **Chauth** = Maratha protection.
+1. **Chauth was not 10%.** **Chauth** was **25% (¼)** of land revenue and is the answer to **2018 Q93**.
+2. **Sardeshmukhi was not the protection quarter.** **Chauth** was the protection tax, while **Sardeshmukhi** was the additional **10%** claim.
+3. **Shivaji was not present at Panipat III.** He died in **1680**, and Panipat III was fought in **1761**.
+4. **Bajirao I did not command at Panipat.** He died in **1740**, and **Sadashiv Rao Bhau** commanded the Maratha army.
+5. **Narayan Rao did not come before Madhav Rao I.** **Madhav Rao I (1761–72)** came first in the **2023 Q35** order.
+6. **The Peshwa was not supreme in Shivaji's lifetime.** He was one of the eight Ashtapradhan ministers, and the office became hereditary from **1713**.
+7. **Panipat III was not fought by Nadir Shah.** **Ahmad Shah Abdali** fought it in **1761**, while Nadir Shah sacked Delhi in **1739**.
+8. **Deshmukhs did not fully support Shivaji's centralisation.** They opposed swaraj because it threatened their feudal privileges (**2024 Q18**).
+9. **Raigad was not the Peshwa capital.** Raigad was Shivaji's coronation centre, while **Pune** became the Peshwa seat.
+10. **Ashtapradhan did not have five ministers.** It had **eight** ministers.
+11. **Balaji Bajirao did not precede Bajirao I.** **Bajirao I** was the father, and **Balaji Bajirao** was the son.
+12. **The 2025 Q149 order must be memorised.** It is **3-1-2-4**, or Vishwanath → Bajirao I → Balaji Bajirao → Madhav Rao I.
+13. **The Maratha confederacy was not Shivaji's personal kingdom alone.** It developed later under the Peshwa era.
+14. **Abwab was not the Maratha protection tax.** **Abwab** meant extra cesses, while **Chauth** was the Maratha protection tax.

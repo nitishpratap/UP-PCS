@@ -89,7 +89,7 @@ AKBAR CULTURAL POLICY:
 
 ### Medieval Indian Art — How It Works
 
-- **Medieval Indian art** begins where **ancient Gupta classical** traditions regionalise — **Pallava-Chola bronze**, **Chalukya-Hoysala** sculpture continue, but exam focus shifts to **Indo-Islamic decorative arts** and **Mughal-Rajput miniature painting**.
+- **Medieval Indian art** begins where **ancient Gupta classical** traditions regionalise.
 - **Broad periodisation**:
 
   | Phase | Patron | Key art forms |
@@ -99,21 +99,21 @@ AKBAR CULTURAL POLICY:
   | **Regional Hindu courts** | Rajput, Vijayanagara | Manuscript folios, wall paintings, court portraiture |
   | **Mughal (16th–18th c.)** | Babur → Aurangzeb | **Miniature painting atelier** peak; decorative crafts |
 
-- **Mughal miniature painting — mechanism of development**:
-  - **Humayun** (exile in Safavid Iran) brought **Mir Sayyid Ali** and **Abdus Samad** — established **Persian workshop** tradition in India.
-  - **Akbar** expanded **imperial kitabkhana** (manuscript workshop) — fused **Persian composition** with **Indian colours, landscape, costumes**; illustrated **Akbarnama**, **Razmnama** (Mahabharata).
-  - **Jahangir** era = **naturalism peak** — artist **Ustad Mansur** painted birds/animals with scientific detail; emperors depicted as individuals, not generic icons.
-  - **Shah Jahan** — painting continues but **architecture** dominates patronage; refinement over narrative bulk.
-  - **Aurangzeb** — court painting declines; artists migrate to **Rajput and regional courts**.
+- **Mughal miniature painting: mechanism of development**:
+  - **Humayun** (exile in Safavid Iran) brought **Mir Sayyid Ali** and **Abdus Samad**. Established **Persian workshop** tradition in India.
+  - **Akbar** expanded **imperial kitabkhana** (manuscript workshop). Fused **Persian composition** with **Indian colours, landscape, costumes**. Illustrated **Akbarnama**, **Razmnama** (Mahabharata).
+  - **Jahangir** era = **naturalism peak**. Artist **Ustad Mansur** painted birds/animals with scientific detail. Emperors depicted as individuals, not generic icons.
+  - **Shah Jahan** era: court painting continues, but **architecture** dominates patronage with refinement over narrative bulk.
+  - **Aurangzeb**. Court painting declines. Artists migrate to **Rajput and regional courts**.
 
-- **Rajput painting** (emerges parallel to Mughal): **Mewar, Marwar, Bundi, Kotah, Kishangarh** schools — **Hindu epics, Krishna-lila, bold flat colours**, less Persian perspective; flourished as Mughal central patronage weakened.
-- **Pahari painting** (17th–18th c.): **Basohli, Guler, Kangra** — lyrical **Krishna-Radha** themes; evolved from Rajput hill kingdom patronage.
+- **Rajput painting** (emerges parallel to Mughal): **Mewar, Marwar, Bundi, Kotah, Kishangarh** schools. **Hindu epics, Krishna-lila, bold flat colours**, less Persian perspective and flourished as Mughal central patronage weakened.
+- **Pahari painting** (17th–18th c.): **Basohli, Guler, Kangra**. It developed lyrical **Krishna-Radha** themes and evolved from Rajput hill kingdom patronage.
 - **Decorative arts (medieval craft)**:
-  - **Pietra dura** (inlay of semi-precious stones) — perfected in **Taj Mahal** and Mughal dado panels.
+  - **Pietra dura** (inlay of semi-precious stones). Perfected in **Taj Mahal** and Mughal dado panels.
   - **Bidriware** (metal inlay), **carpet weaving** (Mughal courts), **textile patterns** (chintz, brocade), **calligraphy** as supreme Islamic art form.
-- **Vijayanagara art**: **Hampi** sculpture and bronze — **royal portrait sculpture**, **temple pillars with mythological reliefs**; distinct from Mughal idiom.
-- **Jain medieval manuscript painting**: **Western India (Gujarat-Rajasthan)** — **cosmological diagrams, Kalpasutra** illustrations continue parallel tradition.
-- **UP-relevant art context**: **Jaunpur Sultanate** decorative style; **Agra-Fatehpur Sikri** Mughal atelier; **Mathura-Agra** region as later Mughal craft hub.
+- **Vijayanagara art**: **Hampi** sculpture and bronze includes **royal portrait sculpture**, **temple pillars with mythological reliefs**. Distinct from Mughal idiom.
+- **Jain medieval manuscript painting**: **Western India (Gujarat-Rajasthan)** includes **cosmological diagrams, Kalpasutra** illustrations continue parallel tradition.
+- **UP-relevant art context**: **Jaunpur Sultanate** decorative style. **Agra-Fatehpur Sikri** Mughal atelier. **Mathura-Agra** region as later Mughal craft hub.
 
 > **Exam note:** **Humayun = Persian painters enter India** | **Jahangir = naturalism peak (Mansur)** | Rajput painting ≠ Mughal — **Hindu themes + flat colour** trap in matching questions.
 
@@ -122,13 +122,13 @@ AKBAR CULTURAL POLICY:
 - Medieval art = regional Hindu + Sultanate + Mughal-Rajput synthesis
 - Humayun brought Mir Sayyid Ali + Abdus Samad from Safavid court
 - Akbar's kitabkhana illustrated Akbarnama, Razmnama
-- Jahangir era — Ustad Mansur; naturalistic bird/animal studies
-- Rajput schools — Mewar, Marwar, Bundi, Kishangarh (Hindu epic themes)
-- Pahari — Basohli, Guler, Kangra (Krishna-lila)
-- Pietra dura inlay — Taj Mahal decorative panels
+- **Jahangir era**. Ustad Mansur. Naturalistic bird/animal studies.
+- **Rajput schools**. Mewar, Marwar, Bundi, Kishangarh (Hindu epic themes).
+- **Pahari**. Basohli, Guler, Kangra (Krishna-lila).
+- **Pietra dura inlay**. Taj Mahal decorative panels.
 - Calligraphy = major Islamic art form in Sultanate-Mughal period
 - Vijayanagara bronze/sculpture at Hampi
-- Aurangzeb period — dispersal of painters to regional courts
+- **Aurangzeb period**. Dispersal of painters to regional courts.
 
 ### PYQs — Medieval Indian Art
 
@@ -166,15 +166,15 @@ AKBAR CULTURAL POLICY:
 
 - **Medieval architecture** in India is primarily examined through **Indo-Islamic** and **Mughal** lenses, with **regional Hindu temple** continuity (Vijayanagara, Rajput forts) as parallel strand.
 - **Delhi Sultanate architecture (13th–15th c.)**:
-  - **Early Delhi**: **Quwwat-ul-Islam Mosque** (Qutub complex) — reused temple material; **Qutub Minar** (started Qutb-ud-din Aibak, completed Iltutmish, repaired Alauddin Khalji).
-  - **Khalji**: **Alai Darwaza** (Alauddin Khalji) — early true arch-dome gateway in red sandstone + white marble inlay.
-  - **Tughlaq**: **massive rubble masonry**, bold sloping walls — **Tughlaqabad**, **Firoz Shah Kotla**.
-  - **Lodi**: **tombs with octagonal design** — **Lodi Garden tombs**, **Sikandar Lodi tomb**.
+  - **Early Delhi**: **Quwwat-ul-Islam Mosque** (Qutub complex). Reused temple material. **Qutub Minar** (started Qutb-ud-din Aibak, completed Iltutmish, repaired Alauddin Khalji).
+  - **Khalji**: **Alai Darwaza** (Alauddin Khalji). Early true arch-dome gateway in red sandstone + white marble inlay.
+  - **Tughlaq**: **massive rubble masonry**, bold sloping walls includes **Tughlaqabad**, **Firoz Shah Kotla**.
+  - **Lodi**: **tombs with octagonal design** includes **Lodi Garden tombs**, **Sikandar Lodi tomb**.
   - **Key features introduced**: **true arch**, **dome on squinches**, **minaret**, **mihrab**, **jali screens**.
 
-- **Regional Sultanate — Sharqi (Jaunpur, UP)**:
-  - **Sharqi Sultanate (1394–1479)** — capital **Jaunpur**.
-  - **Atala Masjid** and **Jami Masjid (Jaunpur)** — massive **tiered domes**, huge **rectangular prayer halls**, **no minaret emphasis** — distinct **"Jaunpur school"**.
+- **Regional Sultanate: Sharqi (Jaunpur, UP)**:
+  - **Sharqi Sultanate (1394–1479)**. Capital **Jaunpur**.
+  - **Atala Masjid** and **Jami Masjid (Jaunpur)**. Massive **tiered domes**, huge **rectangular prayer halls**, **no minaret emphasis**. Distinct **"Jaunpur school"**.
   - Exam trap: Jaunpur architecture = **UP**, not Delhi.
 
 - **Mughal architecture phases**:
@@ -188,33 +188,33 @@ AKBAR CULTURAL POLICY:
   | **Shah Jahan** | **Taj Mahal**, **Red Fort Delhi**, **Jama Masjid Delhi**, **Agra Fort palaces** | White marble zenith; pietra dura inlay |
   | **Aurangzeb** | **Bibi ka Maqbara (Aurangabad)** | Later Mughal imitation of Taj style |
 
-- **Buland Darwaza — cause → purpose (UPPCS 2025 Q49 trap)**:
+- **Buland Darwaza: cause to purpose (UPPCS 2025 Q49 trap)**:
   - Built by **Akbar** at **Fatehpur Sikri** (1576–1577).
   - Commemorates **victory over Gujarat** (campaign culminating 1572–1573 submission of Gujarat).
-  - **54 m** high gateway — among tallest; inscription reflects **Akbar's religious tolerance** (Sulh-i-kul ideas).
-  - **NOT** built for **Jahangir's birth** — Jahangir born 1569; gateway later and victory-linked.
+  - **54 m** high gateway. Among tallest. Inscription reflects **Akbar's religious tolerance** (Sulh-i-kul ideas).
+  - **NOT** built for **Jahangir's birth**. Jahangir born 1569. Gateway later and victory-linked.
 
 - **Fatehpur Sikri (Akbar)**:
-  - Short-lived capital (water scarcity) — **1571–1585** functional peak.
+  - Short-lived capital (water scarcity). **1571–1585** functional peak.
   - **Diwan-i-Khas** (central pillar capital), **Diwan-i-Am**, **Panch Mahal**, **Jama Masjid**, **Sheikh Salim Chishti dargah**, **Ibadat Khana** site.
-  - **Synthesis architecture** — Hindu-Rajasthani elements (Jodha Bai) + Islamic plan.
+  - **Synthesis architecture**. Hindu-Rajasthani elements (Jodha Bai) + Islamic plan.
 
-- **Rajput fort-palace architecture**: **Chittorgarh**, **Mehrangarh (Jodhpur)**, **Amber (Jaipur)** — hill forts, **jharokha**, **courtyard palaces**; resisted full Indo-Islamic domination but absorbed some features.
-- **Vijayanagara (Hampi)**: **Virupaksha temple**, **Vittala temple stone chariot**, **Hazara Rama temple** — **Dravidian idiom** at imperial scale; distinct from Mughal.
+- **Rajput fort-palace architecture**: **Chittorgarh**, **Mehrangarh (Jodhpur)**, **Amber (Jaipur)**. Hill forts, **jharokha**, **courtyard palaces**. Resisted full Indo-Islamic domination but absorbed some features.
+- **Vijayanagara (Hampi)**: **Virupaksha temple**, **Vittala temple stone chariot**, **Hazara Rama temple** includes **Dravidian idiom** at imperial scale. Distinct from Mughal.
 
 > **Exam note:** **UPPCS 2025 Q49** — A true (Akbar built Buland Darwaza), R false (NOT Jahangir birth) → **Ans C**. **UPPCS 2025 Q57** — Babur-Kabul(4), Humayun-Delhi(3), Jahangir-Lahore(2), Shah Jahan-Agra(1) → **Ans A**.
 
 ### Exam Facts (raata)
 
-- Qutub Minar — Aibak started, Iltutmish completed
-- Alai Darwaza — Alauddin Khalji; early Indo-Islamic gateway
-- Jaunpur Atala Masjid — Sharqi school (**UP**)
-- Humayun's Tomb — Delhi; first major char bagh Mughal tomb
-- Fatehpur Sikri — Akbar capital 1571–1585; red sandstone
-- Buland Darwaza — Gujarat victory commemoration (1576–77)
-- Taj Mahal — Shah Jahan; Mumtaz; Agra; white marble pietra dura
-- Itimad-ud-Daulah — white marble precursor (Jahangir era)
-- Red Fort Delhi + Jama Masjid — Shah Jahan
+- **Qutub Minar**. Aibak started, Iltutmish completed.
+- **Alai Darwaza**. Alauddin Khalji. Early Indo-Islamic gateway.
+- **Jaunpur Atala Masjid**. Sharqi school (**UP**).
+- **Humayun's Tomb**. Delhi. First major char bagh Mughal tomb.
+- **Fatehpur Sikri** was Akbar's capital from **1571 to 1585** and is famous for its red sandstone architecture.
+- **Buland Darwaza** was built in **1576–77** to commemorate Akbar's Gujarat victory.
+- **Taj Mahal**. Shah Jahan. Mumtaz. Agra. White marble pietra dura.
+- **Itimad-ud-Daulah**. White marble precursor (Jahangir era).
+- **Red Fort Delhi + Jama Masjid**. Shah Jahan.
 - Mughal tombs: Babur-Kabul, Humayun-Delhi, Jahangir-Lahore, Shah Jahan-Agra
 
 ### PYQs — Medieval Indian Architecture
@@ -253,8 +253,8 @@ AKBAR CULTURAL POLICY:
 - **Medieval Indian literature** operates on **two parallel tracks**: **Persian-Arabic court literature** (administration, history, poetry) and **vernacular bhakti/sufi literature** (Hindi, Awadhi, Braj, Bengali, etc.).
 - **Language hierarchy at Mughal court**:
   - **Persian** = **official court and administrative language** from Babur through later Mughals.
-  - **Chagatai Turki** = Babur's **mother tongue** — he wrote **Tuzk-e-Babri (Baburnama)** in Turki (later translated to Persian).
-  - **Trap (UPPCS 2025 Q3)**: Babur wrote in Turki (A true) BUT Turki was **NOT** official court language (R false) → **Ans C**.
+  - **Chagatai Turki** was Babur's **mother tongue**. He wrote **Tuzk-e-Babri (Baburnama)** in Turki (later translated to Persian).
+  - **Trap (UPPCS 2025 Q3)**: **Babur wrote in Turki (A true) BUT Turki was NOT official court language (R false)** leads to **Ans C**.
 
 - **Major Persian court writers**:
 
@@ -268,37 +268,37 @@ AKBAR CULTURAL POLICY:
 
 - **Akbarnama vs Ain-i-Akbari distinction**:
   - **Akbarnama** = **narrative biography/history** of Akbar's reign (Abul Fazl).
-  - **Ain-i-Akbari** = **administrative manual** — revenue, army, imperial household, geography, culture — **gazetteer-style**.
+  - **Ain-i-Akbari** = **administrative manual**. Revenue, army, imperial household, geography, culture.
 
 - **Hindi/vernacular medieval literature (Akbar-era overlap)**:
-  - **Tulsidas** — **Ramcharitmanas** (1574, **Awadhi**) — Rama bhakti epic; composed during Akbar's reign.
-  - **Surdas** — **Sursagar** — **Braj** Krishna bhakti; blind poet of Braj.
-  - **Malik Muhammad Jayasi** — **Padmavat** (Awadhi) — allegorical romance.
-  - **Bhakti movement** broader context (Kabir, Mirabai, etc.) — cultural backdrop of Akbar's Sulh-i-kul.
+  - **Tulsidas** composed the **Ramcharitmanas** in **1574** in **Awadhi**. It is a Rama bhakti epic written during Akbar's reign.
+  - **Surdas** composed the **Sursagar**.
+  - **Malik Muhammad Jayasi** wrote **Padmavat** in Awadhi as an allegorical romance.
+  - The broader **Bhakti movement** (Kabir, Mirabai, and others) formed the cultural backdrop of Akbar's Sulh-i-kul.
 
 - **Translation movement under Akbar** (cultural-literary policy):
-  - **Razmnama** — Persian Mahabharata.
-  - **Ramayana** — Persian translation for court.
-  - **Atharva Veda**, **Rajatarangini**, **Bible** — translation bureau activity.
+  - **Razmnama**. Persian Mahabharata.
+  - **Ramayana**. Persian translation for court.
+  - **Atharva Veda**, **Rajatarangini**, **Bible**. Translation bureau activity.
   - Purpose: **knowledge synthesis** + **legitimacy** among Hindu elites + court education.
 
-- **Delhi Sultanate literature**: **Amir Khusrau** bridges Sultanate and bhakti-sufi — **Persian masnavi** + **Hindavi dohas**; invented **sitar** legend (exam folklore) and **qawwali** development association.
-- **Chronology trap (UPPCS 2024 Q132)**: Deaths — **Faizi (1595)** → **Sheikh Mubarak father (1597)** → **Abul Fazl murdered (1602)** → **Daniyal (1604)** → order **3,2,1,4** (Option B).
+- **Delhi Sultanate literature**: **Amir Khusrau** bridges Sultanate and bhakti-sufi worlds through **Persian masnavi** and **Hindavi dohas**. He is also linked in exam folklore to the **sitar** legend and **qawwali** development.
+- **Chronology trap (UPPCS 2024 Q132)**: Deaths run **Faizi (1595)**, then **Sheikh Mubarak (1597)**, then **Abul Fazl murdered (1602)**, then **Daniyal (1604)**. The correct order is **3, 2, 1, 4** (Option B).
 
 > **Exam note:** **Turki = Babur's memoir language only** | **Persian = Mughal court** — UPPCS 2025 Q3 classic A/R trap. **Abul Fazl murdered 1602** on Jahangir-Salim faction orders (Bir Singh Bundela).
 
 ### Exam Facts (raata)
 
 - Persian = Mughal court official language
-- Babur — Tuzk-e-Babri in Chagatai Turki
-- Abul Fazl — Akbarnama + Ain-i-Akbari
-- Faizi — poet laureate; brother of Abul Fazl
-- Amir Khusrau — Delhi Sultanate; Nizamuddin Auliya disciple
-- Tulsidas — Ramcharitmanas 1574 (Awadhi)
-- Surdas — Sursagar (Braj Krishna bhakti)
-- Jahangir — Tuzk-e-Jahangiri memoir
-- Razmnama — Persian Mahabharata (Akbar's translation bureau)
-- Abul Fazl murdered 1602; Faizi died 1595; Sheikh Mubarak 1597
+- **Babur**. Tuzk-e-Babri in Chagatai Turki.
+- **Abul Fazl**. Akbarnama + Ain-i-Akbari.
+- **Faizi**. Poet laureate. Brother of Abul Fazl.
+- **Amir Khusrau**. Delhi Sultanate. Nizamuddin Auliya disciple.
+- **Tulsidas** composed the **Ramcharitmanas** in **1574** in Awadhi.
+- **Surdas**. Sursagar (Braj Krishna bhakti).
+- **Jahangir**. Tuzk-e-Jahangiri memoir.
+- **Razmnama**. Persian Mahabharata (Akbar's translation bureau).
+- Abul Fazl murdered 1602. Faizi died 1595. Sheikh Mubarak 1597.
 
 ### PYQs — Medieval Indian Literature
 
@@ -333,7 +333,7 @@ AKBAR CULTURAL POLICY:
 
 ### Medieval Indian Administration — How It Works
 
-- **Medieval administration** for UPPCS is tested mainly through **Delhi Sultanate institutional vocabulary** and **Mughal structural overview** — Akbar-specific reforms belong in **11.5**, but Sultanate base must be clear here.
+- **Medieval administration** for UPPCS is tested mainly through **Delhi Sultanate institutional vocabulary** and **Mughal structural overview**. Akbar-specific reforms belong in **11.5**, but Sultanate base must be clear here.
 - **Delhi Sultanate central ministries**:
 
   | Office | Function |
@@ -347,29 +347,29 @@ AKBAR CULTURAL POLICY:
 - **Iqta system (Sultanate revenue)**:
   - **Iqta** = **revenue assignment** of a territory to a **noble (iqtadar)** in lieu of salary.
   - Iqtadar collected revenue, maintained troops, remitted **surplus to centre**.
-  - **Not hereditary** originally — central control over nobility through assignment/recall.
+  - **Not hereditary** originally. Central control over nobility through assignment/recall.
   - Mughal equivalent concept = **jagir** (assigned revenue land).
 
 - **Khalsa vs Jagir/Iqta (UPPCS 2025 Q95 trap)**:
-  - **Khalsa** = **khalisa** = land under **direct central administration** — revenue straight to royal exchequer.
-  - **Jagir/Iqta** = land/revenue assigned to **nobles** — **NOT** direct state control.
-  - **Assertion (A)**: Territories divided into **Khalsa + Jagirs** → **TRUE** (broadly correct framework).
-  - **Reason (R)**: Jagirs = direct state control → **FALSE** (that's Khalsa).
-  - Answer → **C — A true, R false**.
+  - **Khalsa** = **khalisa** = land under **direct central administration**. Revenue straight to royal exchequer.
+  - **Jagir/Iqta** = land/revenue assigned to **nobles** includes **NOT** direct state control.
+  - **Assertion (A)**: **Territories divided into **Khalsa + Jagirs** leads to **TRUE** (broadly correct framework).**.
+  - **Reason (R)**: **Jagirs = direct state control** leads to **FALSE** (that's Khalsa).**.
+  - **Answer** leads to **C. A true, R false**.**.
 
 - **Provincial administration (Sultanate)**:
-  - Empire divided into **iqtas/provinces** — **iqtadar** at provincial level.
+  - **Empire divided into iqtas/provinces** includes **iqtadar** at provincial level.
   - **Shiqdars** (district), **amils** (revenue collectors) below.
-  - **Fiqh + Sultanic farmans** governed law; **qazis** administered Islamic law.
+  - **Fiqh + Sultanic farmans** governed law. **Qazis** administered Islamic law.
 
 - **Mughal administrative skeleton (pre-Akbar reform overview)**:
-  - **Babur/Humayun** — unstable, limited consolidation.
-  - **Sher Shah Suri interregnum (1540–1545)** — **administrative reforms** (road sarais, rupiya standardisation seeds, land survey ideas) — Akbar later adopted elements via Todar Mal.
+  - **Babur/Humayun**. Unstable, limited consolidation.
+  - **Sher Shah Suri interregnum (1540–1545)** includes **administrative reforms** (road sarais, rupiya standardisation seeds, land survey ideas). Akbar later adopted elements via Todar Mal.
   - **Akbar** transformed into **mansabdari-jagir-zabt** system (see 11.5).
 
 - **Balban's centralisation (UPPCS 2024 Q150 pattern)**:
-  - **Balban** — **firm central authority**, **spy system**, **iron discipline** on nobles.
-  - **North-west frontier Mongol threat** was real but **not sole reason** for centralisation — broader **Sultanate stability** goal.
+  - **Balban** includes **firm central authority**, **spy system**, **iron discipline** on nobles.
+  - **North-west frontier Mongol threat** was real but **not sole reason** for centralisation. Broader **Sultanate stability** goal.
   - Typical answer: **Both A and R true, but R is NOT correct explanation of A** (Option C pattern).
 
 - **Comparison: Sultanate vs Mughal revenue**:
@@ -392,9 +392,9 @@ AKBAR CULTURAL POLICY:
 - Jagir = Mughal noble revenue assignment (parallel to iqta)
 - Iqtadar collects revenue, maintains troops
 - Qazis = Islamic law administrators
-- Sher Shah — roads, sarais, administrative efficiency (1540–45)
-- Balban — centralised authority, spy network
-- UPPCS 2025 Q95 — Khalsa+Jagir division true; jagir NOT direct state
+- **Sher Shah** ruled from **1540 to 1545** and is remembered for roads, sarais, and administrative efficiency.
+- **Balban**. Centralised authority, spy network.
+- **UPPCS 2025 Q95**. Khalsa+Jagir division true. Jagir NOT direct state.
 
 ### PYQs — Medieval Indian Administration
 
@@ -432,29 +432,29 @@ AKBAR CULTURAL POLICY:
 ### Akbar's Administration — How It Works
 
 - **Akbar's administration** transformed the Mughal polity from **personal patronage chaos** (early regency) into a **rank-based bureaucratic-military empire** scalable across diverse territories.
-- **Early regency — Bairam Khan (1556–1560)**:
-  - Akbar minor at **Panipat II (1556)** victory — **Bairam Khan** acted as **regent/vakil**.
-  - **Bairam Khan** already held title **Khan-i-Khana** — given by **Humayun**, **NOT Akbar** (UPPCS 2024 Q4 trap).
-  - Dismissed **1560**; later pardoned but assassinated **1561**.
-  - Statement 1 (Akbar gave Khan-i-Khana) = **FALSE**; Statement 2 (not at vazir appointment time) = context-dependent — standard answer **B Neither 1 nor 2** or **D Only 2**.
+- **Early regency: Bairam Khan (1556–1560)**:
+  - After **Akbar's** victory at **Panipat II (1556)** while still a minor, **Bairam Khan** acted as **regent/vakil**.
+  - **Bairam Khan** already held the title **Khan-i-Khana** from **Humayun**, **not Akbar** (UPPCS 2024 Q4 trap).
+  - Dismissed **1560**. Later pardoned but assassinated **1561**.
+  - Statement 1 (Akbar gave Khan-i-Khana) = **FALSE**. Statement 2 (not at vazir appointment time) = context-dependent. Standard answer **B Neither 1 nor 2** or **D Only 2**.
 
 - **Mansabdari system**:
   - **Mansab** = dual rank: **zat** (personal status/salary grade) + **sawar** (cavalry obligation).
   - Higher **mansab** = higher **military responsibility** + larger **jagir** revenue assignment expected.
-  - **Not hereditary** — emperor could promote/demote; tied loyalty to centre.
-  - **Dual rank trap**: **Zat** ≠ cavalry count; **sawar** = required horsemen for imperial service.
+  - **Not hereditary**: the emperor could promote or demote mansabdars, tying loyalty to the centre.
+  - **Dual rank trap**: **Zat** ≠ cavalry count. **Sawar** = required horsemen for imperial service.
 
-- **Land revenue — Zabt system (Raja Todar Mal)**:
+- **Land revenue: Zabt system (Raja Todar Mal)**:
   - **Implemented c. 1580** (Dahsala/Bandobast system).
   - **Measured land** (jarib), **classified soil**, **fixed state share** (~**1/3** of average produce).
-  - **10-year (dahsala)** average crop prices — reduced peasant uncertainty vs annual fluctuation.
-  - **Cash or kind** payment options depending on region; **village community** recognised in assessment.
-  - Built on **Sher Shah's survey ideas** — Todar Mal had served Sher Shah earlier.
+  - **10-year (dahsala)** average crop prices. Reduced peasant uncertainty vs annual fluctuation.
+  - **Cash or kind** payment options depending on region. **Village community** recognised in assessment.
+  - Built on **Sher Shah's survey ideas**. Todar Mal had served Sher Shah earlier.
 
 - **Provincial structure (Subas)**:
-  - Empire divided into **subas (provinces)** — **12 subas** by late Akbar reign, later **15** under expansion.
-  - Hierarchy: **Subah** → **Sarkar** → **Pargana** → **Village**.
-  - **Subahdar** (governor) + **Diwan** (provincial revenue) + **Bakhshi** (provincial military) — **checks and balances**.
+  - **Empire divided into subas (provinces)** includes **12 subas** by late Akbar reign, later **15** under expansion.
+  - Administrative hierarchy ran from **Subah** through **Sarkar** and **Pargana** to **Village**.
+  - **Subahdar** (governor) + **Diwan** (provincial revenue) + **Bakhshi** (provincial military) includes **checks and balances**.
 
 - **Central ministers (Akbar's cabinet)**:
 
@@ -467,31 +467,31 @@ AKBAR CULTURAL POLICY:
   | **Chief Qazi** | Islamic judicial head (parallel Hindu village panchayats continued) |
 
 - **Jagir mechanism linked to mansab**:
-  - **Mansabdar** granted **jagir** (not salary in cash always) — collected revenue to maintain **sawar** horses/troops.
-  - **Khalisa** lands remained under **direct imperial diwan** — richest regions (Agra-Delhi belt).
-  - **Jagirdar transfer** — frequent transfers prevented local entrenchment (theory; practice had variations).
+  - **Mansabdar** granted **jagir** (not salary in cash always). Collected revenue to maintain **sawar** horses/troops.
+  - **Khalisa** lands remained under **direct imperial diwan**. Richest regions (Agra-Delhi belt).
+  - **Jagirdar transfer**: frequent transfers prevented local entrenchment in theory (practice had variations).
 
 - **Currency reform**:
-  - **Silver rupiya** standardised — broad market acceptance.
+  - **Silver rupiya** standardised. Broad market acceptance.
   - **Dams** (copper) for small transactions.
   - Improved **revenue-coinage integration** across subas.
 
 - **Other administrative features**:
-  - **Dahsala** = 10-year average; **Bigha** measurement units standardised regionally.
+  - **Dahsala** = 10-year average. **Bigha** measurement units standardised regionally.
   - **Persian** as language of **records, farmans, accounts**.
-  - **Imperial tours** and **darshan** — political visibility reinforcing central authority.
+  - **Imperial tours** and **darshan**. Political visibility reinforcing central authority.
 
 > **Exam note:** **Todar Mal = zabt/dahsala ~1580** | **Mansab = zat + sawar** | **Bairam Khan's Khan-i-Khana from Humayun** — three most-tested Akbar admin traps.
 
 ### Exam Facts (raata)
 
-- Bairam Khan regent 1556–1560; dismissed 1560
+- Bairam Khan regent 1556–1560. Dismissed 1560.
 - Khan-i-Khana title to Bairam Khan from Humayun (not Akbar)
-- Mansabdari — zat (status) + sawar (cavalry rank)
-- Todar Mal — diwan; zabt/dahsala system c. 1580
-- State share ~1/3 produce; 10-year average prices
+- **Mansabdari**. Zat (status) + sawar (cavalry rank).
+- **Todar Mal** served as diwan around **1580** and developed the zabt/dahsala system.
+- State share ~1/3 produce. 10-year average prices.
 - 12 subas (expanded to 15 later)
-- Subah → Sarkar → Pargana → Village
+- Mughal administration ran **Subah**, then **Sarkar**, then **Pargana**, then **Village**.
 - Mir Bakshi = military department head
 - Jagir assigned to mansabdars for revenue-troop maintenance
 - Silver rupiya standardised under Akbar
@@ -530,48 +530,48 @@ AKBAR CULTURAL POLICY:
 
 ### Cultural Policies of Akbar — How It Works
 
-- **Akbar's cultural policy** aimed at **unifying diverse empire** through **tolerance, patronage, and ideological innovation** — administration (11.5) provided the **fiscal-military base**; culture provided **legitimacy**.
+- **Akbar's cultural policy** aimed at **unifying diverse empire** through **tolerance, patronage, and ideological innovation**. Administration (11.5) provided the **fiscal-military base**. Culture provided **legitimacy**.
 - **Sulh-i-kul (Universal Peace)**:
-  - Overarching philosophy — **peace to all** irrespective of sect.
+  - **Overarching philosophy** includes **peace to all** irrespective of sect.
   - Manifest in **abolition of jizya (1564)** on non-Muslims, **repeal of pilgrim taxes**, **respect for Hindu festivals**, **Rajput marriage alliances**.
-  - **NOT** modern secular state — emperor remained supreme; policy was **imperial pragmatism + spiritual curiosity**.
+  - **NOT** a modern secular state: the emperor remained supreme. Policy combined **imperial pragmatism with spiritual curiosity**.
 
-- **Ibadat Khana (House of Worship) — 1575, Fatehpur Sikri**:
+- **Ibadat Khana (House of Worship): 1575, Fatehpur Sikri**:
   - **Weekly debates** among **Sunni, Shia, Sufi, Jain, Hindu, Jesuit Christian** scholars.
-  - Akbar personally heard arguments — moved toward **reason (aql)** over rigid dogma.
-  - Outcome: disillusionment with **sectarian exclusivism** → groundwork for **Din-i-Ilahi**.
+  - **Akbar personally heard arguments**. Moved toward **reason (aql)** over rigid dogma.
+  - **Outcome**: disillusionment with sectarian exclusivism laid the groundwork for **Din-i-Ilahi**.
 
 - **Din-i-Ilahi (1582)**:
-  - **Syncretic spiritual fellowship** — NOT a **state religion** imposed on subjects.
-  - **Small circle of disciples** (biradari) — select nobles (Birbal joined).
-  - Elements drawn from **Islam, Hinduism, Jainism, Zoroastrianism** — **loyalty to emperor** as supreme virtue.
-  - **Trap**: Din-i-Ilahi ≠ Islam replacement; **no mass conversion**; **Aurangzeb later reversed tolerance tone**.
+  - **Syncretic spiritual fellowship**. NOT a **state religion** imposed on subjects.
+  - **Small circle of disciples** (biradari). Select nobles (Birbal joined).
+  - **Elements drawn from Islam, Hinduism, Jainism, Zoroastrianism** includes **loyalty to emperor** as supreme virtue.
+  - **Trap**: Din-i-Ilahi ≠ Islam replacement. **No mass conversion**. **Aurangzeb later reversed tolerance tone**.
 
 - **Translation bureau (Maktab Khana / kitabkhana)**:
-  - **Razmnama** — Mahabharata in Persian.
-  - **Ramayana** — Persian translation.
-  - **Atharva Veda**, **Rajatarangini**, **Bible** — knowledge pool for court.
+  - **Razmnama**. Mahabharata in Persian.
+  - **Ramayana**. Persian translation.
+  - **Atharva Veda**, **Rajatarangini**, **Bible**. Knowledge pool for court.
   - **Purpose**: cultural bridge, educated nobility, ideological inclusion of Hindu elite.
 
 - **Religious-tax policy timeline**:
-  - **1564** — **Jizya abolished** (reimposed later by Aurangzeb — contrast trap).
+  - **1564** includes **Jizya abolished** (reimposed later by Aurangzeb. Contrast trap).
   - **Pilgrim tax** on Hindus at sacred bathing sites abolished.
   - **Land grants (madad-i-maash)** to scholars continued across communities.
 
 - **Jesuit missions at Mughal court**:
-  - **Portuguese Goa** sent missionaries — Akbar hosted **1580**, **1591** missions.
-  - **Christian paintings**, **Bible manuscripts** presented — Akbar interested but **did not adopt Christianity**.
+  - **Portuguese Goa** sent missionaries in **1580**, and Akbar hosted Jesuit missions in **1591**.
+  - **Christian paintings**, **Bible manuscripts** presented. Akbar interested but **did not adopt Christianity**.
   - Part of **Ibadat Khana** comparative religion project.
 
 - **Art-architecture patronage as cultural policy**:
-  - **Fatehpur Sikri** — architectural statement of **inclusion** (Jodha Bai palace Hindu elements, Sheikh Salim Chishti Sufi shrine, Buland Darwaza inscription).
-  - **Imperial atelier** — **Akbarnama** visual propaganda documenting reign.
-  - **Tansen** (music) — **Navaratna** (nine gems) court culture.
+  - **Fatehpur Sikri**. Architectural statement of **inclusion** (Jodha Bai palace Hindu elements, Sheikh Salim Chishti Sufi shrine, Buland Darwaza inscription).
+  - **Imperial atelier** includes **Akbarnama** visual propaganda documenting reign.
+  - **Tansen** (music) includes **Navaratna** (nine gems) court culture.
   - **Navaratna included**: Abul Fazl, Faizi, Todar Mal, Tansen, Birbal, Raja Man Singh, etc.
 
 - **Rajput alliance policy (cultural-political)**:
   - **Marriage alliances** (Jodha Bai), **mansab** to Rajputs, **freedom of religion** in Rajput principalities.
-  - **Ramcharitmanas** composed in Akbar era — symbolic of **parallel Hindu cultural flourishing**.
+  - **Ramcharitmanas** composed in Akbar era. Symbolic of **parallel Hindu cultural flourishing**.
 
 - **What Akbar did NOT do (traps)**:
   - Did **NOT** make **Din-i-Ilahi** official state religion.
@@ -585,14 +585,14 @@ AKBAR CULTURAL POLICY:
 
 - Sulh-i-kul = policy of universal peace/tolerance
 - Ibadat Khana established 1575 at Fatehpur Sikri
-- Din-i-Ilahi proclaimed 1582 — NOT state religion
+- **Din-i-Ilahi proclaimed 1582**. NOT state religion.
 - Jizya abolished 1564 (reimposed by Aurangzeb later)
-- Translation bureau — Razmnama, Ramayana, Atharva Veda
+- **Translation bureau**. Razmnama, Ramayana, Atharva Veda.
 - Jesuit missions received at Akbar's court
-- Navaratna — nine gems including Abul Fazl, Tansen, Todar Mal
-- Rajput alliances — marriage + mansab integration
+- **Navaratna**. Nine gems including Abul Fazl, Tansen, Todar Mal.
+- **Rajput alliances**. Marriage + mansab integration.
 - Fatehpur Sikri = cultural-administrative capital project
-- Fatwa-i-Alamgiri = Aurangzeb (trap — not Akbar)
+- **Fatwa-i-Alamgiri = Aurangzeb (trap**. Not Akbar).
 
 ### PYQs — Cultural Policies of Akbar
 

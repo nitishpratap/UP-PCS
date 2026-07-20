@@ -202,12 +202,12 @@ At the **organism level**, ecology asks how an individual tolerates temperature,
 ### Exam Facts (raata)
 
 - **Haeckel** coined "Ecology" in **1866**
-- **Ramdeo Misra** — father of ecology in **India**
-- **E.P. Odum** — father of modern **ecosystem ecology** (1953)
-- Ecology = study; Ecosystem = functional unit; Habitat = place; Niche = role
-- **7 levels:** Organism → Population → Community → Ecosystem → Landscape → Biome → Biosphere
+- **Ramdeo Misra** is regarded as the father of ecology in **India**.
+- **E.P. Odum** is regarded as the father of modern **ecosystem ecology** (1953).
+- **Ecology** is the study of interactions, **Ecosystem** is the functional unit, **Habitat** is the place, and **Niche** is the role.
+- Ecology has **7 levels**: Organism, Population, Community, Ecosystem, Landscape, Biome, and Biosphere.
 - **Organ** is NOT an ecological level (it's anatomical)
-- Autoecology = one species; Synecology = communities
+- **Autoecology** studies one species. **Synecology** studies communities.
 
 ### PYQs — Ecology Meaning
 
@@ -269,10 +269,10 @@ Ecosystems vary enormously in size: a **pond** is an ecosystem, but so is a **fo
 
 - **Tansley (1935)** coined "ecosystem"
 - Ecosystem = biotic + abiotic + **energy flow** + **nutrient cycling**
-- Energy flow = **unidirectional**; nutrients = **cyclic**
+- Energy flow is **unidirectional** and nutrients are **cyclic**.
 - Most ecosystems are **open systems**
 - Artificial ecosystems: cropland, aquarium, **sewage treatment plant** (engineered wetland)
-- Smallest to largest: micro (pond) → macro (biosphere)
+- Ecosystem size runs from micro (pond) to macro (biosphere).
 
 ### PYQs — Ecosystem
 
@@ -350,8 +350,8 @@ Ecosystems are classified by **where they occur** (land vs water), **how they we
 
 ### Exam Facts (raata)
 
-- **Terrestrial ~29%** | **Aquatic ~71%** of Earth's surface
-- Natural vs Anthropogenic — key classification for conservation policy
+- **Terrestrial ~29%** and **Aquatic ~71%** of Earth's surface.
+- **Natural vs Anthropogenic** is a key classification for conservation policy.
 - Lentic = lake, pond, reservoir | Lotic = river, stream, brook
 - Marine zones: Littoral, Neritic, Pelagic, Benthic, Abyssal
 - Wetland, estuary, mangrove = **transitional**
@@ -424,12 +424,12 @@ In **Uttar Pradesh**, terrestrial ecosystems are dominated by **Gangetic plain a
 
 ### Exam Facts (raata)
 
-- India: tropical deciduous most widespread; tropical evergreen in Western Ghats/NE
+- India has tropical deciduous forest as the most widespread type. Tropical evergreen forest occurs in the Western Ghats and Northeast.
 - **Permafrost** = tundra + taiga (UPSC 2013)
 - UP Terai = sal forest + grassland (Dudhwa, Katarniaghat)
 - Desert plants: xerophytes, CAM, reduced leaves (spines)
 - Savanna = grass + scattered trees (Gir)
-- UP forest cover ~6%; highest: Bahraich, Chandauli, Shravasti
+- UP forest cover is ~6%. Highest cover districts are Bahraich, Chandauli, and Shravasti.
 
 ### PYQs — Terrestrial Ecosystem
 
@@ -493,13 +493,13 @@ Water is the **dominant abiotic factor** in aquatic ecosystems — it determines
 
 ### Exam Facts (raata)
 
-- **71%** Earth surface = aquatic
-- Lentic = standing; Lotic = flowing
-- Marine zones: Littoral → Neritic → Pelagic → Benthic → Abyssal
+- **71%** of Earth's surface is aquatic.
+- **Lentic** means standing water. **Lotic** means flowing water.
+- Marine zones run from Littoral through Neritic, Pelagic, Benthic, to Abyssal.
 - Wetland = transitional (shallow, saturated)
-- Estuary = brackish (mixing zone) — high productivity
-- DO critical for aquatic life; pollution reduces DO
-- UP: Ganga, Yamuna (lotic); Sur Sarovar, Nawabganj Bird Sanctuary wetlands (lentic)
+- An **estuary** is brackish (mixing zone) and has high productivity.
+- **DO** is critical for aquatic life and pollution reduces DO.
+- UP lotic systems include Ganga and Yamuna. UP lentic wetlands include Sur Sarovar and Nawabganj Bird Sanctuary.
 
 ### PYQs — Aquatic Ecosystem
 
@@ -558,8 +558,8 @@ These functions are **interdependent**. High productivity without decomposition 
 
 - Structure = biotic composition + abiotic factors + stratification
 - Four functions: Productivity, Decomposition, Nutrient cycling, Energy flow
-- Energy = unidirectional; Nutrients = cyclic
-- Forest stratification: canopy → understory → shrub → herb → floor
+- Energy is unidirectional and nutrients are cyclic.
+- Forest stratification runs from canopy through understory, shrub, and herb layers to the forest floor.
 - Pond zones: littoral, limnetic, profundal, benthic
 - Decomposers critical for nutrient recycling
 
@@ -628,11 +628,11 @@ The biotic–abiotic divide is ecology's foundational split, but the boundary is
 ### Exam Facts (raata)
 
 - Producers = autotrophs (photosynthesis/chemosynthesis)
-- Consumers = heterotrophs (herbivore → carnivore → top carnivore)
-- Decomposers recycle nutrients; detritivores fragment dead matter
-- **Humus = organic (biotic-origin)** — NOT abiotic
-- Edaphic = soil; Climatic = weather; Topographic = landform
-- 99% ecosystem energy from **sun**; chemosynthesis at hydrothermal vents exception
+- Consumers are heterotrophs ranging from herbivores through carnivores to top carnivores.
+- Decomposers recycle nutrients and detritivores fragment dead matter.
+- **Humus** is organic (biotic-origin) and is **NOT** abiotic.
+- **Edaphic** factors relate to soil. **Climatic** factors relate to weather. **Topographic** factors relate to landform.
+- **99%** of ecosystem energy comes from the **sun**. Chemosynthesis at hydrothermal vents is the main exception.
 - Rhizobium = biotic N-fixation in legume root nodules
 
 ### PYQs — Biotic and Abiotic
@@ -695,12 +695,12 @@ The biotic–abiotic divide is ecology's foundational split, but the boundary is
 
 ### Exam Facts (raata)
 
-- Niche = **role** (not place — that's habitat)
+- **Niche** means **role**, not place (place = habitat).
 - Fundamental vs Realized niche
 - Gause's competitive exclusion principle
-- Sufficient resources → **more** species (not fewer)
+- Sufficient resources support **more** species (not fewer).
 - Dominant species = broader niche
-- Equitable resources → less single-species dominance
+- Equitable resources reduce single-species dominance.
 - Hutchinson: niche = multidimensional hypervolume
 
 ### PYQs — Ecological Niche
@@ -770,12 +770,12 @@ Ecological principles are the **rules of the game** — they predict how organis
 
 ### Exam Facts (raata)
 
-- Liebig = limiting factor (minimum); Shelford = tolerance range (min–max)
+- **Liebig** identifies the limiting factor (minimum). **Shelford** defines the tolerance range (min–max).
 - Lindeman 1942: **10% energy** to next trophic level
-- Gause: competitive exclusion — identical niches cannot coexist
-- Allen: smaller extremities in cold; Bergmann: larger body in cold
-- Connell 1978: intermediate disturbance → maximum diversity
-- Liebig + Shelford taught together — paired concepts (Topic 1 §1.2 overlap)
+- **Gause** proposed competitive exclusion: identical niches cannot coexist.
+- **Allen** noted smaller extremities in cold climates. **Bergmann** noted larger body size in cold climates.
+- **Connell (1978)** showed intermediate disturbance produces maximum diversity.
+- **Liebig** and **Shelford** are taught together as paired concepts (Topic 1 §1.2 overlap).
 
 ### PYQs — Ecological Principles
 
@@ -838,8 +838,8 @@ Human activities disrupt balance through **pollution** (nutrient overload → eu
 ### Exam Facts (raata)
 
 - Ecological balance = **dynamic** equilibrium (not static)
-- Negative feedback = stabilising; Positive feedback = destabilising
-- Resilience = recovery capacity; Resistance = withstand capacity
+- Negative feedback is stabilising and positive feedback is destabilising.
+- **Resilience** is recovery capacity and **Resistance** is withstand capacity.
 - Keystone species maintain balance disproportionately
 - Removing top predator causes trophic cascade
 - Human disruption: pollution, invasion, overexploitation, fragmentation
@@ -922,9 +922,9 @@ Succession is ecological **community ageing** — from bare substrate to complex
 
 ### Exam Facts (raata)
 
-- Primary = no soil (lichen on rock); Secondary = soil exists (faster)
-- Phases: Migration → Ecesis → Reaction → Stabilisation (UPPCS 2024)
-- Hydrosere = water to land; Xerosere = dry rock to forest
+- **Primary succession** starts on bare rock with no soil (lichen on rock). **Secondary succession** starts where soil already exists and proceeds faster.
+- Succession phases run Migration, Ecesis, Reaction, and Stabilisation (UPPCS 2024).
+- **Hydrosere** proceeds from water to land. **Xerosere** proceeds from dry rock to forest.
 - Pioneer species: lichen, moss, phytoplankton, grasses
 - Climax = final stable community
 - Clements (monoclimax) vs Gleason (individualistic)
@@ -987,10 +987,10 @@ When ecosystems degrade, services decline: deforestation → lost flood regulati
 
 ### Exam Facts (raata)
 
-- MEA **2005** — four ecosystem service categories
+- **MEA (2005)** defined four ecosystem service categories.
 - Provisioning, Regulating, Supporting, Cultural
-- TEEB 2010 — economic valuation of nature
-- IPBES 2012 — policy platform for biodiversity + services
+- **TEEB (2010)** promoted economic valuation of nature.
+- **IPBES (2012)** serves as a policy platform for biodiversity and ecosystem services.
 - Pollination, flood control = **Regulating**
 - Nutrient cycling, soil formation = **Supporting**
 - Recreation, spiritual value = **Cultural**
@@ -1058,8 +1058,8 @@ In **terrestrial ecosystems**, plants capture only about **1% of incident solar 
 ### Exam Facts (raata)
 
 - GPP − R = **NPP** (most important metric)
-- Terrestrial plants capture **~1% of sunlight** on leaves (NCERT; UPPCS 2025)
-- Highest NPP: tropical rainforest; Lowest: desert, open ocean
+- Terrestrial plants capture **~1% of sunlight** on leaves (NCERT, UPPCS 2025).
+- Highest NPP occurs in tropical rainforest. Lowest NPP occurs in desert and open ocean.
 - Productivity units: g/m²/yr or kcal/m²/yr
 - Standing crop ≠ productivity (forest: high crop, grassland: fast turnover)
 - Coastal oceans more productive than open ocean (nutrient upwelling)
@@ -1192,7 +1192,7 @@ At the **genetic level**, ecology studies how environmental pressures shape **ge
 - Genetic diversity = raw material for adaptation
 - Hardy-Weinberg: p² + 2pq + q² = 1 (no evolution in ideal conditions)
 - Five violations: mutation, migration, small size, non-random mating, selection
-- Small isolated populations → inbreeding + genetic drift
+- Small isolated populations suffer inbreeding and genetic drift.
 - Cheetah, Asiatic lion = low genetic diversity examples
 
 ### PYQs — Genetic Level Ecology
@@ -1260,7 +1260,7 @@ At the **genetic level**, ecology studies how environmental pressures shape **ge
 ### Exam Facts (raata)
 
 - Population ecology = single-species dynamics
-- J-curve = exponential; S-curve = logistic (carrying capacity K)
+- **J-curve** shows exponential growth. **S-curve** shows logistic growth approaching carrying capacity K.
 - r-strategists: many offspring, fast, short life
 - K-strategists: few offspring, slow, long life, parental care
 - Density-dependent: competition, predation, disease
@@ -1314,11 +1314,11 @@ A **community** is the biotic heart of an ecosystem — all species interacting 
 
 **Species interactions** shape community structure:
 
-- **Competition** (–/–): two species fight for same resource; resolved by niche partitioning or competitive exclusion (Gause).
-- **Predation** (+/–): predator controls prey population; keystone predators (sea otter, tiger) maintain community structure.
-- **Mutualism** (+/+): both benefit — mycorrhizal fungi + plant roots (fungi get sugar, plant gets phosphorus); Rhizobium + legume.
-- **Commensalism** (+/0): epiphytes on trees (get height/light, tree unaffected); cattle egret with grazing cattle.
-- **Parasitism** (+/–): tick on deer, mistletoe on tree — parasite benefits, host harmed.
+- **Competition** (–/–): two species fight for the same resource. The conflict is resolved by niche partitioning or competitive exclusion (Gause).
+- **Predation** (+/–): predators control prey populations. Keystone predators (sea otter, tiger) maintain community structure.
+- **Mutualism** (+/+): both species benefit. Mycorrhizal fungi and plant roots exchange sugar and phosphorus. Rhizobium fixes nitrogen for legumes.
+- **Commensalism** (+/0): epiphytes on trees gain height and light while the tree is unaffected. Cattle egrets follow grazing cattle for insects.
+- **Parasitism** (+/–): ticks on deer and mistletoe on trees benefit the parasite while harming the host.
 
 **Connell's Intermediate Disturbance Hypothesis**: moderate disturbance (fire, grazing) prevents one species from dominating, maintaining high diversity. **Edge effect**: community at habitat boundary (forest–field edge) often has higher diversity but also more invasive species.
 
@@ -1340,8 +1340,8 @@ A **community** is the biotic heart of an ecosystem — all species interacting 
 - Community = all species populations in an area
 - Species diversity = richness + evenness
 - Competition (−/−), Predation (+/−), Mutualism (+/+), Commensalism (+/0), Parasitism (+/−)
-- High diversity → more stable community (insurance hypothesis)
-- Connell: intermediate disturbance → max diversity
+- High diversity makes communities more stable (insurance hypothesis).
+- **Connell** showed intermediate disturbance produces maximum diversity.
 - Keystone predator maintains community structure
 - Edge effect at habitat boundaries
 

@@ -105,16 +105,16 @@ POST-HARAPPAN (syllabus):
 
 ### Indus Valley Civilization — How It Works
 
-- The **Indus Valley Civilization (IVC)** is one of three **Bronze Age** urban civilizations globally (with Mesopotamia and Egypt) — Indian subcontinent's first urban culture.
-- Also called **Harappan Civilization** after **Harappa** — first site discovered (1921), though Mohenjo-daro is larger.
-- **Three phases**: Early Harappan (~3300–2600 BCE) → **Mature Harappan** (~2600–1900 BCE) → Late Harappan (~1900–1300 BCE).
-- **Mature phase** = peak urbanism — planned cities, standardized weights, seals, long-distance trade.
-- **Geographic spread** ~13 lakh sq km — Pakistan, western India, parts of Afghanistan; **not** confined to modern Indus river alone.
-- **Ghaggar-Hakra** (identified with Vedic Saraswati) system hosted many sites — Haryana, Rajasthan belt.
-- **Decline** ~1900 BCE — causes debated: climate change, river drying, floods, overexploitation; **no single agreed theory**.
-- **No deciphered script** — limits knowledge of political structure, religion, and exact chronology from texts.
-- **Contemporary** with Mesopotamian Sumer (~2600 BCE) — trade links evidenced by Harappan seals in Gulf and Mesopotamia.
-- **Post-Harappan** cultures (OCP, Painted Grey Ware) emerge in same regions — cultural continuity and change.
+- The **Indus Valley Civilization (IVC)** is one of three **Bronze Age** urban civilizations globally (with Mesopotamia and Egypt). Indian subcontinent's first urban culture.
+- Also called **Harappan Civilization** after **Harappa**. First site discovered (1921), though Mohenjo-daro is larger.
+- **Three phases**: Early Harappan (~3300–2600 BCE) then **Mature Harappan** (~2600–1900 BCE) then Late Harappan (~1900–1300 BCE).
+- **Mature phase** = peak urbanism. Planned cities, standardized weights, seals, long-distance trade.
+- **Geographic spread** ~13 lakh sq km. Pakistan, western India, parts of Afghanistan. **Not** confined to modern Indus river alone.
+- **Ghaggar-Hakra** (identified with Vedic Saraswati) system hosted many sites. Haryana, Rajasthan belt.
+- **Decline** ~1900 BCE. Causes debated: climate change, river drying, floods, overexploitation. **No single agreed theory**.
+- **No deciphered script**. Limits knowledge of political structure, religion, and exact chronology from texts.
+- **Contemporary** with Mesopotamian Sumer (~2600 BCE). Trade links evidenced by Harappan seals in Gulf and Mesopotamia.
+- **Post-Harappan** cultures (OCP, Painted Grey Ware) emerge in same regions. Cultural continuity and change.
 
 > **Exam note:** IVC = **Urban** economy (UPPCS 2020 Q21). Trap: "IVC was pastoral" — that's Rigvedic society in same match-list question.
 
@@ -125,9 +125,9 @@ POST-HARAPPAN (syllabus):
 - Three phases: Early | Mature | Late Harappan
 - Area ~13 lakh sq km
 - Contemporary with Mesopotamia
-- Decline ~1900 BCE — multi-causal debate
+- Decline ~1900 BCE. Multi-causal debate.
 - Also called Harappan Civilization
-- Bronze Age — copper + tin alloy technology
+- Bronze Age. Copper + tin alloy technology.
 
 ### PYQs — Indus Valley Civilization
 
@@ -159,18 +159,18 @@ POST-HARAPPAN (syllabus):
 
 ### Features of Harappan Civilization — How It Works
 
-- **Urban planning** — grid-pattern streets cutting at right angles; world's earliest planned cities.
-- **Burnt bricks** — standardized ratio **1:2:4** (thickness:width:length); sun-dried bricks also used in some structures.
-- **Citadel** — raised platform on west side (at most sites); possibly administrative/ritual centre.
-- **Lower Town** — larger residential area east of citadel; workers' quarters, craft areas.
-- **Drainage** — covered brick drains along every street; houses had bathrooms draining into street mains.
-- **Great Bath** — large watertight pool at Mohenjo-daro; ritual bathing suspected.
-- **Granaries** — brick structures for grain storage (Harappa, Mohenjo-daro).
-- **Seals** — steatite seals with animal motifs and script; used for trade/identity marking.
-- **Script** — **undeciphered**; ~400 signs; appears on seals, copper tools, pottery.
-- **No monumental temples or palaces** found — political/religious organisation still debated (priest-king? merchants?).
-- **Egalitarian appearance** — similar house sizes at many sites; no obvious royal tombs (unlike Egypt/Mesopotamia).
-- **Peaceful image** — few weapons; but fortifications exist at some sites (Dholavira, Surkotada).
+- **Urban planning:** grid-pattern streets cutting at right angles. world's earliest planned cities.
+- **Burnt bricks:** standardized ratio **1:2:4** (thickness:width:length). sun-dried bricks also used in some structures.
+- **Citadel:** raised platform on west side (at most sites). possibly administrative/ritual centre.
+- **Lower Town:** larger residential area east of citadel. workers' quarters, craft areas.
+- **Drainage:** covered brick drains along every street. houses had bathrooms draining into street mains.
+- **Great Bath:** large watertight pool at Mohenjo-daro. ritual bathing suspected.
+- **Granaries**. Brick structures for grain storage (Harappa, Mohenjo-daro).
+- **Seals:** steatite seals with animal motifs and script. used for trade/identity marking.
+- **Script:** **undeciphered**. ~400 signs. appears on seals, copper tools, pottery.
+- **No monumental temples or palaces** found. Political/religious organisation still debated (priest-king? merchants?).
+- **Egalitarian appearance:** similar house sizes at many sites. no obvious royal tombs (unlike Egypt/Mesopotamia).
+- **Peaceful image:** few weapons. but fortifications exist at some sites (Dholavira, Surkotada).
 
 > **Exam note:** Standardization across vast area = hallmark. Trap: "Harappans used iron tools" — Iron Age came later; Harappan = Bronze Age.
 
@@ -179,12 +179,12 @@ POST-HARAPPAN (syllabus):
 - Grid town planning | Burnt bricks 1:2:4
 - Citadel + Lower Town layout
 - Covered drainage system
-- Great Bath — Mohenjo-daro
+- Great Bath. Mohenjo-daro.
 - Steatite seals with script
 - Script undeciphered (~400 signs)
 - No temples/palaces identified
 - Bronze technology (lost-wax casting)
-- Cotton cultivation — earliest evidence in world
+- Cotton cultivation. Earliest evidence in world.
 - Fortifications at some sites only
 
 ### PYQs — Features
@@ -210,16 +210,16 @@ POST-HARAPPAN (syllabus):
 
 ### Major Harappan Sites — How It Works
 
-- **1000+ Harappan sites** identified; ~100 excavated — clustered along rivers (Indus, Ravi, Sutlej, Ghaggar-Hakra, Narmada coast).
+- **1000+ Harappan sites** identified. ~100 excavated. Clustered along rivers (Indus, Ravi, Sutlej, Ghaggar-Hakra, Narmada coast).
 - **Pakistan sites**: Harappa (Ravi), Mohenjo-daro (Indus), Chanhudaro (Indus), Sutkagen-dor (Makran coast).
-- **India — Gujarat**: Dholavira, Lothal, Surkotada, Rangpur, Rojdi, Padri, Kuntasi.
-- **India — Rajasthan**: Kalibangan (Ghaggar), Bagor (overlap Mesolithic), Gilund.
-- **India — Haryana**: Rakhigarhi (largest in India), Banawali, Bhirrana, Mitathal.
-- **India — Punjab**: Ropar (Sutlej).
-- **India — J&K**: Manda (Chenab) — northernmost.
-- **India — UP**: Alamgirpur, Hulas, Mandi — eastern extension.
-- **India — Maharashtra**: Daimabad — southernmost Mature/Late Harappan.
-- **Afghanistan**: Shortughai — lapis lazuli trade link.
+- **India. Gujarat**: Dholavira, Lothal, Surkotada, Rangpur, Rojdi, Padri, Kuntasi.
+- **India. Rajasthan**: Kalibangan (Ghaggar), Bagor (overlap Mesolithic), Gilund.
+- **India. Haryana**: Rakhigarhi (largest in India), Banawali, Bhirrana, Mitathal.
+- **India. Punjab**: Ropar (Sutlej).
+- **India. J&K**: Manda (Chenab). Northernmost.
+- **India. UP**: Alamgirpur, Hulas, Mandi. Eastern extension.
+- **India. Maharashtra**: Daimabad. Southernmost Mature/Late Harappan.
+- **Afghanistan**: Shortughai. Lapis lazuli trade link.
 - Sites classified: **Regional centres**, **coastal ports**, **outpost stations**, **agricultural villages**.
 
 > **Exam note:** Site ↔ state matching is the **#1 UPPCS question type**. Memorize UP trio (Alamgirpur, Hulas, Mandi) and trap sites (Rakhigarhi = Haryana).
@@ -249,7 +249,7 @@ POST-HARAPPAN (syllabus):
 
 ### Exam Facts (raata)
 
-- 1000+ sites total; ~100 excavated
+- 1000+ sites total. ~100 excavated.
 - Rakhigarhi = largest in India (Haryana)
 - Alamgirpur = easternmost in India (UP)
 - Daimabad = southernmost (Maharashtra)
@@ -289,31 +289,31 @@ POST-HARAPPAN (syllabus):
 
 ### Archaeological Sites and Excavations — How It Works
 
-- **Harappa** first excavated **1921** by **Rai Bahadur Daya Ram Sahni** — marked official discovery of IVC.
-- **Mohenjo-daro** excavated **1922** by **R.D. Banerjee** (Rakhal Das Banerji) — revealed full urban character.
-- **Sir John Marshall** — ASI Director-General; announced IVC as civilization (1924); excavated at Mohenjo-daro.
-- **Sir Mortimer Wheeler** — post-Partition excavations at Harappa (1946); introduced stratigraphic methods; dated IVC.
-- **N.G. Majumdar** — discovered Chanhudaro (1931); Sindh sites.
-- **M.S. Vats** — Harappa excavations 1920s–30s; granary identification.
-- **Y.D. Sharma** — Ropar excavations; post-Partition Indian archaeology.
-- **R.S. Bisht** — Dholavira excavations (1990s) — water management, signboard.
-- **S.R. Rao** — Lothal excavations (1955–62) — dockyard identification.
-- **B.B. Lal** — Kalibangan excavations; Mahabharata archaeology; Rakhigarhi re-excavation support.
-- **Amalananda Ghosh** — surveyed Gujarat Harappan sites.
-- **Carbon-14 dating** revolutionized IVC chronology — pushed dates to 2600 BCE mature phase.
-- **Post-2000**: Rakhigarhi DNA studies; Sanauli (UP) Chalcolithic/late Harappan chariot burials (2018).
+- **Harappa** first excavated **1921** by **Rai Bahadur Daya Ram Sahni**. Marked official discovery of IVC.
+- **Mohenjo-daro** excavated **1922** by **R.D. Banerjee** (Rakhal Das Banerji). Revealed full urban character.
+- **Sir John Marshall:** ASI Director-General. announced IVC as civilization (1924). excavated at Mohenjo-daro.
+- **Sir Mortimer Wheeler:** post-Partition excavations at Harappa (1946). introduced stratigraphic methods. dated IVC.
+- **N. G. Majumdar:** discovered Chanhudaro (1931). Sindh sites.
+- **M. S. Vats:** Harappa excavations 1920s–30s. granary identification.
+- **Y. D. Sharma:** Ropar excavations. post-Partition Indian archaeology.
+- **R.S. Bisht:** Dholavira excavations (1990s). Water management, signboard.
+- **S.R. Rao:** Lothal excavations (1955–62). Dockyard identification.
+- **B.B. Lal:** The archaeologist **B.B. Lal** is linked with Kalibangan excavations, Mahabharata archaeology, and later support for work connected with Rakhigarhi re-excavation.
+- **Amalananda Ghosh**. Surveyed Gujarat Harappan sites.
+- **Carbon-14 dating** revolutionized IVC chronology. Pushed dates to 2600 BCE mature phase.
+- **Post-2000:** This refers to Rakhigarhi DNA studies. Sanauli (UP) Chalcolithic/late Harappan chariot burials (2018).
 
 > **Exam note:** Sahni = Harappa 1921; Banerjee = Mohenjo-daro 1922. Trap: Wheeler discovered IVC — false, he came later (1946 Harappa).
 
 ### Exam Facts (raata)
 
-- Daya Ram Sahni — Harappa 1921
-- R.D. Banerjee — Mohenjo-daro 1922
-- John Marshall — announced IVC 1924
-- Mortimer Wheeler — Harappa 1946; stratigraphy
-- S.R. Rao — Lothal dockyard excavation
-- R.S. Bisht — Dholavira
-- B.B. Lal — Kalibangan
+- Daya Ram Sahni. Harappa 1921.
+- R.D. Banerjee. Mohenjo-daro 1922.
+- John Marshall. Announced IVC 1924.
+- Mortimer Wheeler. Harappa 1946. Stratigraphy.
+- S.R. Rao. Lothal dockyard excavation.
+- R.S. Bisht. Dholavira.
+- B.B. Lal. Kalibangan.
 - ASI = nodal excavation body
 - Stratigraphy = layer dating method
 
@@ -340,16 +340,16 @@ POST-HARAPPAN (syllabus):
 
 ### Archaeological Sites of Uttar Pradesh — How It Works
 
-- **Uttar Pradesh** marks the **eastern extension** of Harappan culture — not the core region but critical for boundary questions.
-- **Alamgirpur** (Meerut district, on Hindon river) — **easternmost** Harappan site in India ← **UPPCS 2023 Q28**.
-- **Hulas** (Baghpat district) — eastern Harappan settlement; pottery and structures found.
-- **Mandi** (Bijnor district, Ramganga) — Harappan site; UPPCS 2021 Q100 confirms **Uttar Pradesh**.
-- **Sanauli** (Baghpat) — **Chalcolithic/OCP/Late Harappan** chariot burials (2018); NOT mature Harappan urban but exam-relevant UP site.
-- **Kalibangan and Lothal are NOT in UP** — trap in UPPCS 2018 Q88 (only Alamgirpur + Hulas correct).
-- **Rakhigarhi is NOT in UP** — it is in **Hisar, Haryana** ← **UPPCS 2025 Q87 trap**.
-- UP sites show **Late/eastern Harappan** characteristics — smaller, pottery-dominated, not large urban centres.
-- **OCP** (Ochre Coloured Pottery) culture overlaps western UP doab — post-Harappan phase.
-- UPPCS disproportionately tests **which sites are/aren't in UP** — negative elimination strategy essential.
+- **Uttar Pradesh** marks the **eastern extension** of Harappan culture. Not the core region but critical for boundary questions.
+- **Alamgirpur** (Meerut district, on Hindon river). **Easternmost** Harappan site in India. the **UPPCS 2023 Q28**.
+- **Hulas** (Baghpat district). Eastern Harappan settlement. Pottery and structures found.
+- **Mandi** (Bijnor district, Ramganga). Harappan site. UPPCS 2021 Q100 confirms **Uttar Pradesh**.
+- **Sanauli** (Baghpat). **Chalcolithic/OCP/Late Harappan** chariot burials (2018). NOT mature Harappan urban but exam-relevant UP site.
+- **Kalibangan and Lothal are NOT in UP**. Trap in UPPCS 2018 Q88 (only Alamgirpur + Hulas correct).
+- **Rakhigarhi is NOT in UP**. It is in **Hisar, Haryana**. the **UPPCS 2025 Q87 trap**.
+- UP sites show **Late/eastern Harappan** characteristics. Smaller, pottery-dominated, not large urban centres.
+- **OCP** (Ochre Coloured Pottery) culture overlaps western UP doab. Post-Harappan phase.
+- UPPCS disproportionately tests **which sites are/aren't in UP**. Negative elimination strategy essential.
 
 > **Exam note:** UPPCS 2025 Q87 — Mandi + Hulas = UP; Rakhigarhi = **NOT UP** (Haryana). Answer **C (1 and 3)**.
 
@@ -411,16 +411,16 @@ POST-HARAPPAN (syllabus):
 
 ### Major Ports of Ancient India — How It Works
 
-- **Lothal** (Gujarat) — most famous **Harappan dockyard**; artificial basin connected to Sabarmati/Bhogavo river system.
-- **Sutkagen-dor** (Makran coast, Baluchistan) — western coastal Harappan port; Arabian Sea trade.
-- **Balakot** (Pakistan coast) — Harappan coastal site; shell bangles, fish remains.
-- **Allahdino** (near Karachi) — coastal Harappan settlement.
-- **Kuntasi** (Gujarat) — coastal manufacturing/trade post.
-- **Dholavira** — not a sea port but **inland trade** hub via Rann of Kutch routes.
+- **Lothal** (Gujarat). Most famous **Harappan dockyard**. Artificial basin connected to Sabarmati/Bhogavo river system.
+- **Sutkagen-dor** (Makran coast, Baluchistan). Western coastal Harappan port. Arabian Sea trade.
+- **Balakot** (Pakistan coast). Harappan coastal site. Shell bangles, fish remains.
+- **Allahdino** (near Karachi). Coastal Harappan settlement.
+- **Kuntasi** (Gujarat). Coastal manufacturing/trade post.
+- **Dholavira**. Not a sea port but **inland trade** hub via Rann of Kutch routes.
 - **Trade destinations**: **Dilmun** (Bahrain), **Mesopotamia** (Sumer), **Oman**, **Afghanistan** (lapis lazuli).
-- **Boat models** found at **Mohenjo-daro and Lothal** ← **UPPCS 2022 Q68**.
-- **Later ancient ports** (outside mature Harappan but syllabus "Major Ports of Ancient India"): **Broach/Bharuch** (Gujarat), **Tamralipti** (Bengal), **Kaveripattinam** (Tamil Nadu), **Muziris** (Kerala — Roman trade).
-- **2024 UPPCS Q2** (Ancient Economy — Trade): references to **river-ports and entrepots** in early India — applies to Harappan river-craft trade too.
+- **Boat models** found at **Mohenjo-daro and Lothal**. the **UPPCS 2022 Q68**.
+- **Later ancient ports** (outside mature Harappan but syllabus "Major Ports of Ancient India"): **Broach/Bharuch** (Gujarat), **Tamralipti** (Bengal), **Kaveripattinam** (Tamil Nadu), **Muziris** (Kerala. Roman trade).
+- **2024 UPPCS Q2** (Ancient Economy. Trade): references to **river-ports and entrepots** in early India. Applies to Harappan river-craft trade too.
 - Harappan port trade goods: carnelian beads, cotton, timber, ivory, copper.
 
 > **Exam note:** Boat models = **Mohenjo-daro + Lothal** (2022 UPPCS). Trap: Dholavira = water management, not dockyard.
@@ -476,16 +476,16 @@ POST-HARAPPAN (syllabus):
 
 ### Harappan Economy — How It Works
 
-- Harappan economy was **primarily urban** — UPPCS 2020 Q21 maps IVC to "Urban" in match-list.
-- **Agriculture** formed the base — wheat, barley, rice, dates, cotton, millets; double cropping at some sites.
-- **Pastoralism** — cattle, buffalo, sheep, goat, pig; bullock bones common; no horse consensus (except disputed Surkotada).
-- **Craft specialization** — bead-makers (Chanhudaro), potters, bronze-smiths, seal-carvers, brick-makers.
-- **Granaries** at Harappa and Mohenjo-daro stored **agricultural surplus** — state/community control suspected.
-- **Standardized weights** enabled **trade accounting** — binary 16:1 system across regions.
-- **Long-distance trade** — carnelian, lapis lazuli, copper, gold, shell, timber exchanged with Mesopotamia, Afghanistan, Deccan.
-- **No coins** — barter and weight-based exchange; seals may have marked goods/ownership.
-- **Internal trade** — between Harappan regions via river routes (Indus, Ghaggar-Hakra, Narmada).
-- **Decline phase** — de-urbanization; shift to smaller settlements and pastoral economies (Late Harappan).
+- Harappan economy was **primarily urban**. UPPCS 2020 Q21 maps IVC to "Urban" in match-list.
+- **Agriculture** formed the base. Wheat, barley, rice, dates, cotton, millets. Double cropping at some sites.
+- **Pastoralism:** cattle, buffalo, sheep, goat, pig. bullock bones common. no horse consensus (except disputed Surkotada).
+- **Craft specialization**. Bead-makers (Chanhudaro), potters, bronze-smiths, seal-carvers, brick-makers.
+- **Granaries** at Harappa and Mohenjo-daro stored **agricultural surplus**. State/community control suspected.
+- **Standardized weights** enabled **trade accounting**. Binary 16:1 system across regions.
+- **Long-distance trade**. Carnelian, lapis lazuli, copper, gold, shell, timber exchanged with Mesopotamia, Afghanistan, Deccan.
+- **No coins:** barter and weight-based exchange. seals may have marked goods/ownership.
+- **Internal trade**. Between Harappan regions via river routes (Indus, Ghaggar-Hakra, Narmada).
+- **Decline phase:** de-urbanization. shift to smaller settlements and pastoral economies (Late Harappan).
 
 > **Exam note:** IVC = Urban (2020 Q21). Trap: "Harappans used money economy with coins" — no Harappan coins found.
 
@@ -494,9 +494,9 @@ POST-HARAPPAN (syllabus):
 - Urban planned economy
 - Agriculture + crafts + trade combined
 - Granaries for surplus storage
-- No coins — barter/weight system
+- No coins. Barter/weight system.
 - Craft specialization by site (Chanhudaro = beads)
-- Cotton production — earliest in world
+- Cotton production. Earliest in world.
 - Trade with Mesopotamia (Meluhha)
 - Bronze (not iron) tools
 
@@ -523,15 +523,15 @@ POST-HARAPPAN (syllabus):
 ### Harappan Trade — How It Works
 
 - Harappan trade was **both internal** (between IVC sites) and **external** (Mesopotamia, Gulf, Afghanistan).
-- **Mesopotamian texts** refer to **Meluhha** — widely identified with Harappan region; imports carnelian, ivory, peacocks.
+- **Mesopotamian texts** refer to **Meluhha**. Widely identified with Harappan region. Imports carnelian, ivory, peacocks.
 - **Dilmun** (Bahrain) served as **intermediate entrepot** between Meluhha and Sumer.
-- **Lothal** and **Sutkagen-dor** functioned as **maritime trade ports** — dockyard and coastal anchorage.
+- **Lothal** and **Sutkagen-dor** functioned as **maritime trade ports**. Dockyard and coastal anchorage.
 - **Export goods**: carnelian beads, cotton cloth, timber, ivory combs, shell bangles, peacock feathers.
 - **Import goods**: lapis lazuli (Afghanistan/Shortughai), copper (Rajasthan/Baluchistan), gold, silver.
-- **River routes** — Indus, Ravi, Sutlej, Ghaggar-Hakra used for bulk movement of goods.
-- **Seals** likely marked **packages/ownership** in trade — standard motifs aided identification.
-- **No Harappan guild (sreni) evidence** — guilds are later (Mauryan/post-Harappan); UPPCS 2018 Q89 tests sreni as foreign trade institution (later period).
-- **2024 UPPCS Q2** confirms early India had **river-ports and entrepots** — conceptually fits Harappan trade infrastructure.
+- **River routes**. Indus, Ravi, Sutlej, Ghaggar-Hakra used for bulk movement of goods.
+- **Seals** likely marked **packages/ownership** in trade. Standard motifs aided identification.
+- **No Harappan guild (sreni) evidence:** guilds are later (Mauryan/post-Harappan). UPPCS 2018 Q89 tests sreni as foreign trade institution (later period).
+- **2024 UPPCS Q2** confirms early India had **river-ports and entrepots**. Conceptually fits Harappan trade infrastructure.
 
 > **Exam note:** Meluhha = Harappan region in Mesopotamian records. Trap: "Sreni was Harappan trade guild" — sreni is later institution.
 
@@ -567,17 +567,17 @@ POST-HARAPPAN (syllabus):
 
 ### Town Planning — How It Works
 
-- Harappan cities follow a **grid-iron pattern** — streets run north-south and east-west, intersecting at right angles.
-- **Citadel** (acropolis) — raised mud-brick platform on the **western side** at major sites; fortified with walls and towers.
-- **Lower Town** — larger area east of citadel; residential and craft quarters for common people.
-- **Streets** varied from **3 m to 10 m** wide; designed for carts and pedestrian traffic.
-- **Houses** — mud-brick and burnt-brick; rooms around central courtyard; private wells and bathrooms.
-- **Burnt brick ratio** standardized at **1:2:4** — remarkable uniformity across 1000+ km.
-- **Public buildings** — Great Bath, granaries, assembly halls (Mohenjo-daro).
-- **No monumental royal palace** identified — unlike Egyptian pharaohs or Mesopotamian kings.
-- **Dholavira exception** — three distinct sections (citadel, middle town, lower town) without standard grid everywhere.
-- **Kalibangan exception** — no sophisticated drainage; different regional planning variant.
-- **Fortifications** present at Dholavira, Surkotada, Kalibangan — not all sites equally fortified.
+- Harappan cities follow a **grid-iron pattern**. Streets run north-south and east-west, intersecting at right angles.
+- **Citadel** (acropolis). Raised mud-brick platform on the **western side** at major sites. Fortified with walls and towers.
+- **Lower Town:** larger area east of citadel. residential and craft quarters for common people.
+- **Streets** varied from **3 m to 10 m** wide. designed for carts and pedestrian traffic.
+- **Houses:** mud-brick and burnt-brick. rooms around central courtyard. private wells and bathrooms.
+- **Burnt brick ratio** standardized at **1:2:4**. Remarkable uniformity across 1000+ km.
+- **Public buildings**. Great Bath, granaries, assembly halls (Mohenjo-daro).
+- **No monumental royal palace** identified. Unlike Egyptian pharaohs or Mesopotamian kings.
+- **Dholavira exception**. Three distinct sections (citadel, middle town, lower town) without standard grid everywhere.
+- **Kalibangan exception:** no sophisticated drainage. different regional planning variant.
+- **Fortifications** present at Dholavira, Surkotada, Kalibangan. Not all sites equally fortified.
 
 > **Exam note:** Citadel = west; Lower Town = east. Trap: "Every Harappan site had Great Bath" — only Mohenjo-daro.
 
@@ -587,8 +587,8 @@ POST-HARAPPAN (syllabus):
 - Citadel (west) + Lower Town (east)
 - Brick ratio 1:2:4 standardized
 - Houses with courtyard, well, bathroom
-- Great Bath — Mohenjo-daro only
-- Granaries — Harappa, Mohenjo-daro
+- Great Bath. Mohenjo-daro only.
+- Granaries. Harappa, Mohenjo-daro.
 - Dholavira = 3-part city plan
 - No royal palace found
 
@@ -616,15 +616,15 @@ POST-HARAPPAN (syllabus):
 
 - Harappan drainage is considered **more advanced than contemporary Mesopotamia and Egypt**.
 - **Every house** connected to **street drains** via clay pipes from bathrooms and kitchens.
-- **Covered drains** — brick-covered channels along streets; removable covers for maintenance.
-- **Soak pits** — jars buried in ground to collect solid waste/sediment; periodic cleaning.
-- **Drain gradient** — slopes engineered for gravity flow toward disposal points.
-- **Manholes** — inspection chambers at intervals for clearing blockages.
-- **Storm water** — separate channels in some areas for rainwater.
-- **Mohenjo-daro and Harappa** — best-preserved drainage examples.
-- **Kalibangan** — notably **lacks** elaborate drainage — regional variation trap.
-- **Dholavira** — sophisticated **water management** (reservoirs) but not standard street drainage system.
-- Drainage reflects **municipal-level planning** — collective civic authority existed.
+- **Covered drains:** brick-covered channels along streets. removable covers for maintenance.
+- **Soak pits:** jars buried in ground to collect solid waste/sediment. periodic cleaning.
+- **Drain gradient**. Slopes engineered for gravity flow toward disposal points.
+- **Manholes**. Inspection chambers at intervals for clearing blockages.
+- **Storm water**. Separate channels in some areas for rainwater.
+- **Mohenjo-daro and Harappa**. Best-preserved drainage examples.
+- **Kalibangan**. Notably **lacks** elaborate drainage. Regional variation trap.
+- **Dholavira**. Sophisticated **water management** (reservoirs) but not standard street drainage system.
+- Drainage reflects **municipal-level planning**. Collective civic authority existed.
 
 > **Exam note:** Kalibangan = NO standard drainage (trap). Mohenjo-daro = best drainage example.
 
@@ -661,25 +661,25 @@ POST-HARAPPAN (syllabus):
 
 ### Agriculture — How It Works
 
-- **Wheat and barley** — primary cereals; dominant at Harappa, Mohenjo-daro, Mehrgarh tradition.
-- **Rice** — found at **Lothal** and some Harappan levels; earlier rice from Neolithic Koldihwa (UP, different context).
-- **Dates, mustard, cotton** — cotton cultivation at IVC = **earliest in world**.
-- **Double cropping** — evidence at **Kalibangan** (rabi + kharif); advanced agricultural calendar.
-- **Ploughed field** — **Kalibangan** has preserved furrow marks (fire-altar field) — unique discovery.
-- **Irrigation** — no large canals confirmed; probably **well-irrigation** and river flooding reliance.
-- **Stone ploughshare** — not found; likely wooden ploughs; terracotta plough models exist.
-- **Storage** — granaries for surplus; underground storage pits at farm sites.
-- **Domestic animals** for agriculture — bullocks for ploughing; manure for fields.
-- **Agricultural decline** linked to Late Harappan phase — possible climate/river change impact.
+- **Wheat and barley:** primary cereals. dominant at Harappa, Mohenjo-daro, Mehrgarh tradition.
+- **Rice:** found at **Lothal** and some Harappan levels. earlier rice from Neolithic Koldihwa (UP, different context).
+- **Dates, mustard, cotton**. Cotton cultivation at IVC = **earliest in world**.
+- **Double cropping:** evidence at **Kalibangan** (rabi + kharif). advanced agricultural calendar.
+- **Ploughed field**. **Kalibangan** has preserved furrow marks (fire-altar field). Unique discovery.
+- **Irrigation:** no large canals confirmed. probably **well-irrigation** and river flooding reliance.
+- **Stone ploughshare:** not found. likely wooden ploughs. terracotta plough models exist.
+- **Storage:** granaries for surplus. underground storage pits at farm sites.
+- **Domestic animals** for agriculture. Bullocks for ploughing. Manure for fields.
+- **Agricultural decline** linked to Late Harappan phase. Possible climate/river change impact.
 
 > **Exam note:** Ploughed field = **Kalibangan only**. Cotton = earliest evidence at IVC.
 
 ### Exam Facts (raata)
 
 - Wheat, barley = main crops
-- Cotton — earliest cultivation (world)
+- Cotton. Earliest cultivation (world).
 - Double cropping at Kalibangan
-- Ploughed field furrows — Kalibangan
+- Ploughed field furrows. Kalibangan.
 - Rice at Lothal (Harappan context)
 - Wooden plough (terracotta models)
 - Well irrigation likely
@@ -708,16 +708,16 @@ POST-HARAPPAN (syllabus):
 
 ### Craft Industries — How It Works
 
-- **Bead-making** — **Chanhudaro** specialized factory; carnelian, agate, faience beads drilled with precision.
-- **Pottery** — wheel-thrown red and black pottery; plain and painted; kiln-fired.
-- **Bronze casting** — **lost-wax (cire perdue)** technique; Dancing Girl bronze statuette (Mohenjo-daro).
-- **Seal carving** — steatite soft stone; intaglio carving; fired for hardness.
-- **Shell working** — bangles, ladles from marine shell (coastal and imported).
-- **Ivory and bone** — combs, pins, inlay work.
-- **Cotton textile** — spun and woven; spindle whorls common at every site.
-- **Faience** — glazed paste jewellery (blue-green); artificial gem substitute.
-- **Brick-making** — standardized kiln industry; civic + domestic demand.
-- **Terracotta figurines** — mother goddess, toy carts, animals — craft + religious objects.
+- **Bead-making:** **Chanhudaro** specialized factory. carnelian, agate, faience beads drilled with precision.
+- **Pottery:** wheel-thrown red and black pottery. plain and painted. kiln-fired.
+- **Bronze casting:** **lost-wax (cire perdue)** technique. Dancing Girl bronze statuette (Mohenjo-daro).
+- **Seal carving:** steatite soft stone. intaglio carving. fired for hardness.
+- **Shell working**. Bangles, ladles from marine shell (coastal and imported).
+- **Ivory and bone**. Combs, pins, inlay work.
+- **Cotton textile:** spun and woven. spindle whorls common at every site.
+- **Faience:** glazed paste jewellery (blue-green). artificial gem substitute.
+- **Brick-making:** standardized kiln industry. civic + domestic demand.
+- **Terracotta figurines**. Mother goddess, toy carts, animals. Craft + religious objects.
 
 > **Exam note:** Chanhudaro = **bead factory** (not a full city). Dancing Girl = bronze lost-wax (Mohenjo-daro).
 
@@ -725,8 +725,8 @@ POST-HARAPPAN (syllabus):
 
 - Chanhudaro = bead-making centre
 - Lost-wax bronze casting
-- Dancing Girl — Mohenjo-daro bronze
-- Pottery wheel — red/black ware
+- Dancing Girl. Mohenjo-daro bronze.
+- Pottery wheel. Red/black ware.
 - Steatite seal carving
 - Cotton spinning (spindle whorls)
 - Shell bangles (Lothal, coastal)
@@ -754,27 +754,27 @@ POST-HARAPPAN (syllabus):
 
 ### Religion — How It Works
 
-- Harappan religion is **reconstructed from material evidence** — no readable scriptures or temples.
-- **Pashupati Seal** (Mohenjo-daro) — seated figure surrounded by animals; identified as **proto-Shiva/Pashupati** (lord of animals).
-- **Mother Goddess** — terracotta female figurines with elaborate headdress; fertility cult suspected.
-- **Tree worship** — peepal tree motifs on seals; nature reverence.
-- **Phallic symbols (linga)** — stone linga-yoni pairs found; fertility symbolism.
-- **Water worship** — Great Bath ritual bathing; wells as sacred (possibly).
-- **Animal motifs** — unicorn, humped bull, elephant, tiger on seals; bull most sacred animal.
-- **Fire altars** — **Kalibangan** has fire pits/altars (not found at all sites); Vedic fire ritual precursor debate.
-- **Burial practices** — extended inhumation (north-south); grave goods (pottery, ornaments); no royal tombs.
-- **No temple structures** — unlike Mesopotamian ziggurats; religion possibly household/community based.
+- Harappan religion is **reconstructed from material evidence**. No readable scriptures or temples.
+- **Pashupati Seal** (Mohenjo-daro). Seated figure surrounded by animals. Identified as **proto-Shiva/Pashupati** (lord of animals).
+- **Mother Goddess:** terracotta female figurines with elaborate headdress. fertility cult suspected.
+- **Tree worship:** peepal tree motifs on seals. nature reverence.
+- **Phallic symbols (linga):** stone linga-yoni pairs found. fertility symbolism.
+- **Water worship:** Great Bath ritual bathing. wells as sacred (possibly).
+- **Animal motifs:** unicorn, humped bull, elephant, tiger on seals. bull most sacred animal.
+- **Fire altars:** **Kalibangan** has fire pits/altars (not found at all sites). Vedic fire ritual precursor debate.
+- **Burial practices:** extended inhumation (north-south). grave goods (pottery, ornaments). no royal tombs.
+- **No temple structures:** unlike Mesopotamian ziggurats. religion possibly household/community based.
 
 > **Exam note:** Pashupati seal = proto-Shiva debate. Trap: "Harappan temple found at Mohenjo-daro" — no temple structures identified.
 
 ### Exam Facts (raata)
 
-- Pashupati seal — proto-Shiva identification
+- Pashupati seal. Proto-Shiva identification.
 - Mother Goddess terracottas
 - Humped bull = sacred animal
 - Unicorn = most common seal motif (mythical)
 - Fire altars at Kalibangan
-- Great Bath = ritual bathing?
+- Great Bath represents ritual bathing.
 - Extended burial with grave goods
 - No temple architecture found
 - Tree (peepal) and water worship evidence
@@ -801,16 +801,16 @@ POST-HARAPPAN (syllabus):
 
 ### Script — How It Works
 
-- Harappan script remains **undeciphered** — primary barrier to reading IVC history from their perspective.
-- **~400 distinct signs** — logo-syllabic suspected (mix of word signs and syllables).
-- Found on **seals, copper tablets, pottery, bangles** — short inscriptions only (5–10 signs average).
-- **Boustrophedon** writing — alternates **right-to-left** and **left-to-right** on each line (like ploughing field).
-- **No bilingual inscription** found (unlike Rosetta Stone for Egyptian) — decipherment stalled.
-- **Longest inscription** — 26 signs on a Harappa seal; no literary texts (no Harappan Mahabharata equivalent).
-- **Dravidian hypothesis** — some scholars link to proto-Dravidian language; **Sanskritic hypothesis** also debated; **no consensus**.
-- **Unicode** — Harappan script added to Unicode 5.2 (2009) for scholarly encoding.
-- Script appears in **Mature Harappan** phase; fewer in Late Harappan — literacy may have declined.
-- Comparison: **Mesopotamian cuneiform** and **Egyptian hieroglyphs** are read; Harappan alone among major Bronze Age scripts remains unread.
+- Harappan script remains **undeciphered**. Primary barrier to reading IVC history from their perspective.
+- **~400 distinct signs**. Logo-syllabic suspected (mix of word signs and syllables).
+- Found on **seals, copper tablets, pottery, bangles**. Short inscriptions only (5–10 signs average).
+- **Boustrophedon** writing. Alternates **right-to-left** and **left-to-right** on each line (like ploughing field).
+- **No bilingual inscription** found (unlike Rosetta Stone for Egyptian). Decipherment stalled.
+- **Longest inscription:** 26 signs on a Harappa seal. no literary texts (no Harappan Mahabharata equivalent).
+- **Dravidian hypothesis:** some scholars link to proto-Dravidian language. **Sanskritic hypothesis** also debated. **no consensus**.
+- **Unicode**. Harappan script added to Unicode 5.2 (2009) for scholarly encoding.
+- Script appears in **Mature Harappan** phase. Fewer in Late Harappan. Literacy may have declined.
+- **Comparison:** **Mesopotamian cuneiform** and **Egyptian hieroglyphs** are read. Harappan alone among major Bronze Age scripts remains unread.
 
 > **Exam note:** Script = **undeciphered**. Trap: "Harappan script is Dravidian — proven" — still hypothesis only.
 
@@ -847,25 +847,25 @@ POST-HARAPPAN (syllabus):
 
 ### Seals — How It Works
 
-- **Seals** are the most distinctive Harappan artefacts — **square/rectangular steatite** tablets (~2–4 cm).
-- **Unicorn** (mythical one-horned animal) = **most common motif** — not found in nature; IVC icon.
-- **Humped bull** (Bos indicus) — second most common; sacred animal representation.
-- **Pashupati/yogi seal** — cross-legged figure with animals; religious significance.
-- **Script inscription** above animal motif — short text on every seal.
-- **Carving technique** — **intaglio** (recessed design); impressed on wet clay to leave raised image.
-- **Purpose** — likely **trade marking**, ownership, ritual amulet, or administrative identification.
-- **Seal + sealings** — clay sealings (bullae) found at doors/containers — security/authorization function.
-- **Material** — steatite (soft, easy to carve); fired after carving for hardness.
-- **Found across IVC** — from Shortughai (Afghanistan) to Daimabad — standardized iconography.
+- **Seals** are the most distinctive Harappan artefacts. **Square/rectangular steatite** tablets (~2–4 cm).
+- **Unicorn** (mythical one-horned animal) = **most common motif**. Not found in nature. IVC icon.
+- **Humped bull** (Bos indicus). Second most common. Sacred animal representation.
+- **Pashupati/yogi seal:** cross-legged figure with animals. religious significance.
+- **Script inscription** above animal motif. Short text on every seal.
+- **Carving technique:** **intaglio** (recessed design). impressed on wet clay to leave raised image.
+- **Purpose**. Likely **trade marking**, ownership, ritual amulet, or administrative identification.
+- **Seal + sealings**. Clay sealings (bullae) found at doors/containers. Security/authorization function.
+- **Material:** steatite (soft, easy to carve). fired after carving for hardness.
+- **Found across IVC**. From Shortughai (Afghanistan) to Daimabad. Standardized iconography.
 
 > **Exam note:** Unicorn = most common seal animal (mythical). Trap: "Seals made of copper" — steatite (soft stone).
 
 ### Exam Facts (raata)
 
-- Steatite material; intaglio carving
+- Steatite material. intaglio carving.
 - Unicorn = most common motif
 - Humped bull = second common
-- Pashupati seal — Mohenjo-daro
+- Pashupati seal. Mohenjo-daro.
 - Script above animal on every seal
 - Clay sealings (bullae) for packages
 - Trade/administrative function
@@ -893,16 +893,16 @@ POST-HARAPPAN (syllabus):
 
 ### Weights and Measures — How It Works
 
-- Harappan weights show **remarkable standardization** — same system from Afghanistan to Maharashtra.
-- **Material** — **chert, jasper, black stone** cubical weights; no metal weights in early Mature phase.
-- **Binary system** — ratio **16:1** between successive weight units (e.g. 0.85 g → 13.6 g → 218 g progression).
-- **Smallest unit** ~0.85 g; larger multiples standardized — 16× progression.
-- **Mohenjo-daro** — most weights found; marketplace/administration use.
-- **No coins** — weights used for **barter exchange** accounting.
-- **Measures of length** — brick ratio 1:2:4 implies standard measurement system.
-- **Graded in decimals** — recent research also notes 5:2 ratios at some sites (supplementary system).
-- **Agronomai** trap (UPPCS 2020 Q4) — Mauryan official for **agriculture**, NOT Harappan; but weights system is Harappan hallmark.
-- Weights decline in Late Harappan — economic standardization breaks down.
+- Harappan weights show **remarkable standardization**. Same system from Afghanistan to Maharashtra.
+- **Material:** **chert, jasper, black stone** cubical weights. no metal weights in early Mature phase.
+- **Binary system:** ratio **16:1** between successive weight units (e.g. 0.85 g then 13.6 g then 218 g progression).
+- **Smallest unit** ~0. 85 g. Larger multiples standardized. 16× progression.
+- **Mohenjo-daro:** most weights found. marketplace/administration use.
+- **No coins**. Weights used for **barter exchange** accounting.
+- **Measures of length**. Brick ratio 1:2:4 implies standard measurement system.
+- **Graded in decimals**. Recent research also notes 5:2 ratios at some sites (supplementary system).
+- **Agronomai** trap (UPPCS 2020 Q4). Mauryan official for **agriculture**, NOT Harappan. But weights system is Harappan hallmark.
+- Weights decline in Late Harappan. Economic standardization breaks down.
 
 > **Exam note:** Binary **16:1** weight ratio = Harappan hallmark. Trap: "Harappan coins found" — no coins, only weights.
 
@@ -911,7 +911,7 @@ POST-HARAPPAN (syllabus):
 - Cubical stone weights (chert, jasper)
 - Binary system: 16:1 ratio
 - Standardized across all regions
-- No coins — barter economy
+- No coins. Barter economy.
 - Brick ratio 1:2:4 = length standard
 - Mohenjo-daro = most weights found
 - Breakdown in Late Harappan phase
@@ -938,16 +938,16 @@ POST-HARAPPAN (syllabus):
 
 ### Dholavira — How It Works
 
-- **Dholavira** (Khadir island, **Kutch, Gujarat**) — one of the **five largest Harappan cities**.
-- Excavated by **R.S. Bisht** (ASI, 1990s) — revealed unique urban planning.
-- **Three sections**: citadel (castle), middle town, lower town — unlike standard two-part cities.
-- **Water management masterpiece** — 16+ reservoirs; dams; channels harvesting monsoon rain; survived in arid Rann.
-- **Signboard** — large inscription board (wood decayed, signs remain) — possibly city name/signage.
-- **No standard grid drainage** — relies on water conservation, not street drains like Mohenjo-daro.
-- **Stadium/assembly area** — large open space; possibly for markets or rituals.
-- **Fortification** — massive stone and mud-brick walls; defensive architecture.
-- **Late Harappan cemetery** — ossuary (bone chambers) found — unique burial practice.
-- **Coastal trade link** — via Rann of Kutch route to sea (not direct dockyard like Lothal).
+- **Dholavira** (Khadir island, **Kutch, Gujarat**). One of the **five largest Harappan cities**.
+- Excavated by **R.S. Bisht** (ASI, 1990s). Revealed unique urban planning.
+- **Three sections**: citadel (castle), middle town, lower town. Unlike standard two-part cities.
+- **Water management masterpiece:** 16+ reservoirs. dams. channels harvesting monsoon rain. survived in arid Rann.
+- **Signboard**. Large inscription board (wood decayed, signs remain). Possibly city name/signage.
+- **No standard grid drainage**. Relies on water conservation, not street drains like Mohenjo-daro.
+- **Stadium/assembly area:** large open space. possibly for markets or rituals.
+- **Fortification:** massive stone and mud-brick walls. defensive architecture.
+- **Late Harappan cemetery**. Ossuary (bone chambers) found. Unique burial practice.
+- **Coastal trade link**. Via Rann of Kutch route to sea (not direct dockyard like Lothal).
 
 > **Exam note:** Dholavira = **water management + signboard** (NOT dockyard). Trap: boat models at Dholavira — answer is Mohenjo-daro + Lothal (2022 Q68).
 
@@ -983,16 +983,16 @@ POST-HARAPPAN (syllabus):
 
 ### Rakhigarhi — How It Works
 
-- **Rakhigarhi** (Hisar district, **Haryana**) — **largest Harappan site in India** (~350 hectares).
-- On **Ghaggar-Hakra** (Saraswati) river system — core Harappan heartland.
-- **Five mounds** (Rakhigarhi, Rakhi Shahpur, Rakhi Khas, Rakhi Shahpur Pabi, Rakhi Khas Pabi) — extensive urban spread.
-- **DNA studies** (2015–2022) — skeletal DNA suggests **continuity with modern South Asians**; no Steppe ancestry in Mature Harappan samples.
-- **Pre-Harappan + Mature Harappan** occupation — long cultural sequence.
-- **NOT in Uttar Pradesh** ← **UPPCS 2025 Q87 trap** — students confuse with UP sites.
-- **2018 Q88 trap** — Kalibangan listed alongside UP sites; Rakhigarhi not in that question but is **Haryana**.
-- **Excavations** — Amarendra Nath (ASI); Haryana government supported renewed digs.
-- **Material finds** — terracotta, beads, seals, brick structures, drainage at some mounds.
-- Rival to Mohenjo-daro in size — possibly a **regional capital** of Ghaggar-Hakra belt.
+- **Rakhigarhi** (Hisar district, **Haryana**). **Largest Harappan site in India** (~350 hectares).
+- On **Ghaggar-Hakra** (Saraswati) river system. Core Harappan heartland.
+- **Five mounds** (Rakhigarhi, Rakhi Shahpur, Rakhi Khas, Rakhi Shahpur Pabi, Rakhi Khas Pabi). Extensive urban spread.
+- **DNA studies** (2015–2022). Skeletal DNA suggests **continuity with modern South Asians**. No Steppe ancestry in Mature Harappan samples.
+- **Pre-Harappan + Mature Harappan** occupation. Long cultural sequence.
+- **NOT in Uttar Pradesh**. the **UPPCS 2025 Q87 trap**. Students confuse with UP sites.
+- **2018 Q88 trap:** Kalibangan listed alongside UP sites. Rakhigarhi not in that question but is **Haryana**.
+- **Excavations:** Amarendra Nath (ASI). Haryana government supported renewed digs.
+- **Material finds**. Terracotta, beads, seals, brick structures, drainage at some mounds.
+- Rival to Mohenjo-daro in size. Possibly a **regional capital** of Ghaggar-Hakra belt.
 
 > **Exam note:** Rakhigarhi = **Haryana, largest IVC site in India** — NOT UP (2025 Q87 trap).
 
@@ -1003,7 +1003,7 @@ POST-HARAPPAN (syllabus):
 - Ghaggar-Hakra (Saraswati) belt
 - DNA continuity studies
 - Five interconnected mounds
-- 2025 Q87 — Rakhigarhi excluded from UP answer
+- 2025 Q87. Rakhigarhi excluded from UP answer.
 - Pre-Harappan + Mature phases
 
 ### PYQs — Rakhigarhi
@@ -1027,16 +1027,16 @@ POST-HARAPPAN (syllabus):
 
 ### Lothal Dockyard — How It Works
 
-- **Lothal** (Saragwala village, **Ahmedabad district, Gujarat**) — discovered by **S.R. Rao** (1954–63).
-- **Artificial dockyard** — basin **218 m × 37 m** connected to Bhogavo river via inlet channel.
-- **Dock gate** — sluice gate controlled water level with tides; ships loaded/unloaded directly.
-- **Warehouse structures** — flanking dock; bead-making factory nearby.
-- **Boat models** of terracotta found — confirms maritime activity ← **UPPCS 2022 Q68** (with Mohenjo-daro).
-- **Shell bangles, fish hooks** — coastal economy evidence.
-- **Lower town** — workers' quarters; smaller than Mohenjo-daro but specialized port function.
-- **Fire altars** — at Lothal (unlike Kalibangan pattern); ritual + trade port.
-- **Decline** — dock silted; trade routes shifted; abandoned ~1900 BCE.
-- **Not in UP** — Gujarat trap in site-state questions.
+- **Lothal** (Saragwala village, **Ahmedabad district, Gujarat**). Discovered by **S.R. Rao** (1954–63).
+- **Artificial dockyard**. Basin **218 m × 37 m** connected to Bhogavo river via inlet channel.
+- **Dock gate:** sluice gate controlled water level with tides. ships loaded/unloaded directly.
+- **Warehouse structures:** flanking dock. bead-making factory nearby.
+- **Boat models** of terracotta found. Confirms maritime activity. the **UPPCS 2022 Q68** (with Mohenjo-daro).
+- **Shell bangles, fish hooks**. Coastal economy evidence.
+- **Lower town:** workers' quarters. smaller than Mohenjo-daro but specialized port function.
+- **Fire altars:** at Lothal (unlike Kalibangan pattern). ritual + trade port.
+- **Decline:** dock silted. trade routes shifted. abandoned ~1900 BCE.
+- **Not in UP**. Gujarat trap in site-state questions.
 
 > **Exam note:** Lothal = **dockyard** (Gujarat). Boat models with **Mohenjo-daro** (2022 Q68 answer C).
 
@@ -1072,16 +1072,16 @@ POST-HARAPPAN (syllabus):
 
 ### Kalibangan — How It Works
 
-- **Kalibangan** (Hanumangarh district, **Rajasthan**) — on **Ghaggar** (Saraswati) river.
-- Excavated by **B.B. Lal** (1961–69) and **B.K. Thapar** — key Ghaggar-Hakra site.
-- **Pre-Harappan + Mature Harappan** — shows cultural transition.
-- **Ploughed field** — preserved furrow marks with fire altars at field corners — **unique in world archaeology**.
-- **Fire altars** — multiple fire pits on platforms; ritual fire worship evidence.
-- **No elaborate drainage system** — unlike Mohenjo-daro; regional planning variation.
-- **Fortification** — both citadel and lower town walled; bastions and gateways.
-- **Bangles of clay** — worn by men and women (terracotta evidence).
-- **Flood destruction** — early phase ended by flood; rebuilt in Mature phase.
-- **NOT in UP** — Rajasthan; trap in 2018 Q88 (Kalibangan listed as option but not UP).
+- **Kalibangan** (Hanumangarh district, **Rajasthan**). On **Ghaggar** (Saraswati) river.
+- Excavated by **B.B. Lal** (1961–69) and **B.K. Thapar**. Key Ghaggar-Hakra site.
+- **Pre-Harappan + Mature Harappan**. Shows cultural transition.
+- **Ploughed field**. Preserved furrow marks with fire altars at field corners. **Unique in world archaeology**.
+- **Fire altars:** multiple fire pits on platforms. ritual fire worship evidence.
+- **No elaborate drainage system:** unlike Mohenjo-daro. regional planning variation.
+- **Fortification:** both citadel and lower town walled. bastions and gateways.
+- **Bangles of clay**. Worn by men and women (terracotta evidence).
+- **Flood destruction:** early phase ended by flood. rebuilt in Mature phase.
+- **NOT in UP:** Rajasthan. trap in 2018 Q88 (Kalibangan listed as option but not UP).
 
 > **Exam note:** Kalibangan = **ploughed field + fire altars + NO drains**. NOT in UP (2018 Q88 trap).
 
@@ -1089,7 +1089,7 @@ POST-HARAPPAN (syllabus):
 
 - Hanumangarh, Rajasthan (NOT UP)
 - B.B. Lal excavations
-- Ploughed field furrows — unique
+- Ploughed field furrows. Unique.
 - Fire altars on platforms
 - No standard drainage system
 - Pre-Harappan + Mature phases
@@ -1117,15 +1117,15 @@ POST-HARAPPAN (syllabus):
 
 ### Banawali — How It Works
 
-- **Banawali** (Fatehabad district, **Haryana**) — Ghaggar-Hakra belt Harappan site.
-- **Pre-Harappan (Hakra) + Mature Harappan** — shows continuous occupation.
-- **Fortified** — mud-brick fortification walls with bastions.
-- **Barley and wheat** — agricultural evidence; granary structures.
-- **Terracotta figurines** — bull, female figurines; craft tradition.
-- **Seals** — steatite seals with standard Harappan motifs and script.
-- **No dockyard or Great Bath** — inland agricultural-cum-administrative centre.
-- **Decline** — abandoned in Late Harappan phase with Ghaggar channel shift.
-- **Haryana, NOT UP** — grouped with Rakhigarhi in regional geography.
+- **Banawali** (Fatehabad district, **Haryana**). Ghaggar-Hakra belt Harappan site.
+- **Pre-Harappan (Hakra) + Mature Harappan**. Shows continuous occupation.
+- **Fortified**. Mud-brick fortification walls with bastions.
+- **Barley and wheat:** agricultural evidence. granary structures.
+- **Terracotta figurines:** bull, female figurines. craft tradition.
+- **Seals**. Steatite seals with standard Harappan motifs and script.
+- **No dockyard or Great Bath**. Inland agricultural-cum-administrative centre.
+- **Decline**. Abandoned in Late Harappan phase with Ghaggar channel shift.
+- **Haryana, NOT UP**. Grouped with Rakhigarhi in regional geography.
 - Smaller than Rakhigarhi but important for **Hakra phase** (pre-Mature) studies.
 
 > **Exam note:** Banawali = **Haryana** (Ghaggar belt). Trap: placing in Rajasthan or UP.
@@ -1162,15 +1162,15 @@ POST-HARAPPAN (syllabus):
 
 ### Surkotada — How It Works
 
-- **Surkotada** (Kutch, **Gujarat**) — small but important fortified Harappan site.
-- Excavated by **J.P. Joshi** (1972–74) — Gujarat Harappan survey.
-- **Horse bones** reported — **controversial**; if confirmed, challenges "no Harappan horse" view; widely debated.
-- **Fortification** — stone and mud-brick walls; citadel and residential area.
-- **Small settlement** — unlike mega-cities; possibly military/trade outpost in Kutch.
-- **Pottery** — standard Late Harappan and Mature Harappan ceramics.
-- **Bone tools** — awls, points; craft evidence.
-- **Near Kutch coast** — trade link with Dholavira and Lothal network.
-- **No dockyard** — unlike Lothal; inland Kutch position.
+- **Surkotada** (Kutch, **Gujarat**). Small but important fortified Harappan site.
+- Excavated by **J.P. Joshi** (1972–74). Gujarat Harappan survey.
+- **Horse bones** reported. **Controversial**. If confirmed, challenges "no Harappan horse" view. Widely debated.
+- **Fortification:** stone and mud-brick walls. citadel and residential area.
+- **Small settlement:** unlike mega-cities. possibly military/trade outpost in Kutch.
+- **Pottery**. Standard Late Harappan and Mature Harappan ceramics.
+- **Bone tools:** awls, points. craft evidence.
+- **Near Kutch coast**. Trade link with Dholavira and Lothal network.
+- **No dockyard:** unlike Lothal. inland Kutch position.
 - **Late Harappan** occupation continues after Mature phase at some levels.
 
 > **Exam note:** Surkotada = **horse bone controversy** (Gujarat). Trap: "horse definitely proven at all IVC sites" — disputed.
@@ -1207,15 +1207,15 @@ POST-HARAPPAN (syllabus):
 
 ### Daimabad — How It Works
 
-- **Daimabad** (Ahmednagar district, **Maharashtra**) — **southernmost** significant Harappan settlement.
-- **Late Harappan** phase site — post-dates Mature urban peak.
-- **Bronze chariot** with driver and bullocks found — unique Late Harappan bronze hoard.
-- **Wheel symbols** on pottery — possible cultural marker.
-- **Smaller settlement** — rural Late Harappan, not Mature urban centre.
-- **Jorwe culture overlap** — Chalcolithic Jorwe follows Late Harappan in same region.
+- **Daimabad** (Ahmednagar district, **Maharashtra**). **Southernmost** significant Harappan settlement.
+- **Late Harappan** phase site. Post-dates Mature urban peak.
+- **Bronze chariot** with driver and bullocks found. Unique Late Harappan bronze hoard.
+- **Wheel symbols** on pottery. Possible cultural marker.
+- **Smaller settlement**. Rural Late Harappan, not Mature urban centre.
+- **Jorwe culture overlap**. Chalcolithic Jorwe follows Late Harappan in same region.
 - **Marks southern extent** of Harappan cultural influence into Deccan.
-- **Pottery** — Late Harappan degenerate forms; fewer seals, simpler crafts.
-- **Trade link** — carnelian, copper from northern networks.
+- **Pottery:** Late Harappan degenerate forms. fewer seals, simpler crafts.
+- **Trade link**. Carnelian, copper from northern networks.
 - Demonstrates **gradual de-urbanization** rather than sudden collapse at southern fringe.
 
 > **Exam note:** Daimabad = **southernmost + bronze chariot** (Maharashtra). Late Harappan, not Mature peak.
@@ -1252,15 +1252,15 @@ POST-HARAPPAN (syllabus):
 
 ### Copper Hoard Culture — How It Works
 
-- **Copper Hoard Culture** — distinct archaeological horizon of **copper artefacts** in **Gangetic plain** (eastern UP, Bihar, Bengal).
-- **Not Mature Harappan urban** — parallel or **post-Harappan** phenomenon (~2000–1500 BCE).
+- **Copper Hoard Culture**. Distinct archaeological horizon of **copper artefacts** in **Gangetic plain** (eastern UP, Bihar, Bengal).
+- **Not Mature Harappan urban**. Parallel or **post-Harappan** phenomenon (~2000–1500 BCE).
 - **Typical objects**: **anthropomorphs** (human-shaped figures), **harpoons**, **swords**, **celts**, **axe-heads**.
-- Found in **isolated hoards** (buried deposits) — not from structured city sites.
-- **OCP association** — often found with Ochre Coloured Pottery in same regions.
-- **Roganpur** (Bihar), **Gungeria** (Madhya Pradesh) — famous hoard finds.
-- **Sanauli (UP)** — 2018 chariot burials link Copper Hoard/OCP/Late Harappan traditions in western UP.
-- **Technology** — copper (not bronze alloy); single metal, not tin-mixed.
-- **Interpretation debate** — pastoral warriors? ritual deposits? late Harappan refugees?
+- Found in **isolated hoards** (buried deposits). Not from structured city sites.
+- **OCP association**. Often found with Ochre Coloured Pottery in same regions.
+- **Roganpur** (Bihar), **Gungeria** (Madhya Pradesh). Famous hoard finds.
+- **Sanauli (UP)**. 2018 chariot burials link Copper Hoard/OCP/Late Harappan traditions in western UP.
+- **Technology:** copper (not bronze alloy). single metal, not tin-mixed.
+- **Interpretation debate**. Scholars debate whether the hoards reflect pastoral warriors, ritual deposits, or late Harappan refugees.
 - Syllabus places it in Topic 2 as **post-Harappan transition** culture in doab/Gangetic region.
 
 > **Exam note:** Copper Hoard = **Gangetic plain hoards** (NOT Harappan city culture). Associated with OCP.
@@ -1297,15 +1297,15 @@ POST-HARAPPAN (syllabus):
 
 ### Ochre Coloured Pottery (OCP) — How It Works
 
-- **OCP** — pottery type with **ochre/red wash** on surface; found in **Ganga-Yamuna doab**.
-- **Geographic spread** — **western UP, Haryana, Rajasthan** (eastern Punjab fringe) — post-Harappan horizon.
-- **Period** — ~**2000–1500 BCE** — after Mature Harappan decline; transitional Chalcolithic.
-- **Associated with** — **Copper Hoards** in same regions; OCP people used copper tools.
-- **Settlement type** — small rural villages; **no urban planning** like Harappa.
-- **Agriculture** — wheat, barley, rice cultivation; domestic animals.
-- **Painted Grey Ware (PGW)** follows OCP in doab — later Iron Age culture (brief boundary note: PGW = Topic 14 Miscellaneous, not here).
-- **Sanauli, Baghpat (UP)** — OCP/Late Harappan chariot burials connect OCP to western UP specifically.
-- **Not a Harappan urban culture** — post-urban rural phase in formerly Harappan-extended zones.
+- **OCP:** pottery type with **ochre/red wash** on surface. found in **Ganga-Yamuna doab**.
+- **Geographic spread**. **Western UP, Haryana, Rajasthan** (eastern Punjab fringe). Post-Harappan horizon.
+- **Period:** ~**2000–1500 BCE**. After Mature Harappan decline. Transitional Chalcolithic.
+- **Associated with:** **Copper Hoards** in same regions. OCP people used copper tools.
+- **Settlement type:** small rural villages. **no urban planning** like Harappa.
+- **Agriculture:** wheat, barley, rice cultivation. domestic animals.
+- **Painted Grey Ware (PGW)** follows OCP in doab. Later Iron Age culture (brief boundary note: PGW = Topic 14 Miscellaneous, not here).
+- **Sanauli, Baghpat (UP)**. OCP/Late Harappan chariot burials connect OCP to western UP specifically.
+- **Not a Harappan urban culture**. Post-urban rural phase in formerly Harappan-extended zones.
 - **Trap**: OCP in **western UP** (doab), distinct from eastern UP Harappan sites (Alamgirpur, Hulas, Mandi).
 
 > **Exam note:** OCP = **Ganga-Yamuna doab** (western UP included). Post-Harappan, not Mature Harappan.
@@ -1318,7 +1318,7 @@ POST-HARAPPAN (syllabus):
 - ~2000–1500 BCE
 - Associated with Copper Hoards
 - Rural settlements only
-- Sanauli UP — OCP/Late Harappan
+- Sanauli UP. OCP/Late Harappan.
 - Precedes Painted Grey Ware (PGW)
 
 ### PYQs — OCP

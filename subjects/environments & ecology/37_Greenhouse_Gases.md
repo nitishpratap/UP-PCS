@@ -118,16 +118,16 @@ TRAPS: Highest GWP ≠ most total warming (CO₂ wins on volume)
 
 ### Carbon Dioxide — How It Works
 
-- **CO₂** is a **triatomic molecule** that vibrates when hit by **outgoing longwave IR** from Earth's surface — absorbs energy and **re-radiates heat**, warming troposphere and surface.
-- **Pre-industrial concentration** was approximately **280 ppm** (parts per million); crossed **400 ppm** in 2010s; now **420+ ppm** — fastest rise in at least 800,000 years per ice-core records.
-- **Anthropogenic sources**: **fossil fuel combustion** (~85% of human CO₂ — coal, oil, natural gas), **cement production** (limestone calcination), **deforestation/LULUCF** (burning + reduced carbon uptake).
-- **Natural sources**: volcanic outgassing, respiration, decomposition, ocean exchange — balanced by photosynthesis and ocean absorption until industrial era.
-- **Contribution to forcing**: approximately **76%** of total anthropogenic greenhouse gas forcing — highest **by volume**, even though GWP = **1** (reference gas).
-- **Atmospheric residence time**: individual molecules cycle in years, but **perturbation to atmosphere persists centuries to millennia** — today's CO₂ emissions affect climate for generations.
-- **CO₂ equivalent (CO₂e)**: other GHGs converted to CO₂ using GWP — allows adding CH₄ tonnage to national totals; CO₂ itself has CO₂e factor of 1.
-- **India's profile**: **3rd largest total CO₂/GHG emitter** globally (after China, USA) per EDGAR/IPCC data — but **low per capita** (~2 tCO₂e vs global ~4.7) due to large population.
-- **Biogas secondary role**: anaerobic digestion produces **25–45% CO₂** alongside **50–70% CH₄** — both are GHGs; biogas burns CH₄ (preventing direct methane release) but still emits CO₂ on combustion — net benefit vs venting methane.
-- **Trap — CO₂ and acid rain**: CO₂ dissolves in rainwater forming **weak carbonic acid** (natural rain pH ~5.6) — **not** primary cause of damaging acid rain (SO₂/NOx dominate) — **2024 Q108**: A partly true but R does not explain A.
+- **CO₂** is a **triatomic molecule** that vibrates when hit by **outgoing longwave IR** from Earth's surface. Absorbs energy and **re-radiates heat**, warming troposphere and surface.
+- **Pre-industrial concentration** was approximately **280 ppm** (parts per million). Crossed **400 ppm** in 2010s, Now **420+ ppm**. Fastest rise in at least 800,000 years per ice-core records.
+- **Anthropogenic sources**: **fossil fuel combustion** (~85% of human CO₂. Coal, oil, natural gas), **cement production** (limestone calcination), **deforestation/LULUCF** (burning + reduced carbon uptake).
+- **Natural sources**: Volcanic outgassing, respiration, decomposition, ocean exchange. Balanced by photosynthesis and ocean absorption until industrial era.
+- **Contribution to forcing**: Approximately **76%** of total anthropogenic greenhouse gas forcing. Highest **by volume**, even though GWP = **1** (reference gas).
+- **Atmospheric residence time**: Individual molecules cycle in years, but **perturbation to atmosphere persists centuries to millennia**. Today's CO₂ emissions affect climate for generations.
+- **CO₂ equivalent (CO₂e)**: Other GHGs converted to CO₂ using GWP. Allows adding CH₄ tonnage to national totals, and CO₂ itself has CO₂e factor of 1.
+- **India's profile**: **3rd largest total CO₂/GHG emitter** globally (after China, USA) per EDGAR/IPCC data. But **low per capita** (~2 tCO₂e vs global ~4.7) due to large population.
+- **Biogas secondary role**: Anaerobic digestion produces **25–45% CO₂** alongside **50–70% CH₄**. Both are GHGs, Biogas burns CH₄ (preventing direct methane release) but still emits CO₂ on combustion. The net benefit vs venting methane.
+- **Trap (CO₂ and acid rain):** CO₂ dissolves in rainwater to form **weak carbonic acid** (natural rain pH ~5.6), but it is **not** the primary cause of damaging acid rain (SO₂/NOx dominate). In **2024 Q108**, assertion A is partly true but reason R does not explain A.
 
 > **Exam note:** "Highest GWP gas causes most warming" = **FALSE** — CO₂ has GWP = 1 but causes **~76%** of anthropogenic forcing due to **sheer mass emitted**. "CO₂ is not a greenhouse gas" = absurd trap.
 
@@ -144,14 +144,14 @@ TRAPS: Highest GWP ≠ most total warming (CO₂ wins on volume)
 
 ### Exam Facts (raata)
 
-- CO₂ GWP = **1** (reference)
-- ~**76%** of anthropogenic GHG forcing
-- Pre-industrial **280 ppm** → **420+ ppm** now
-- Main source: **fossil fuel combustion**
-- India = **3rd largest** total emitter; low per capita
-- Residence: **centuries** (legacy emissions)
-- Biogas: **CH₄ + CO₂** major constituents — 2025 Q28
-- Weak carbonic acid in rain — not main acid rain agent
+- CO₂ GWP = **1** (reference).
+- ~**76%** of anthropogenic GHG forcing.
+- Pre-industrial **280 ppm** leads to **420+ ppm** now.
+- Main source: **fossil fuel combustion**.
+- India = **3rd largest** total emitter. Low per capita.
+- Residence: **centuries** (legacy emissions).
+- Biogas: **CH₄ + CO₂** major constituents. 2025 Q28.
+- Weak carbonic acid in rain. Not main acid rain agent.
 
 ### PYQs — Carbon Dioxide
 
@@ -187,16 +187,16 @@ TRAPS: Highest GWP ≠ most total warming (CO₂ wins on volume)
 
 ### Methane — How It Works
 
-- **CH₄** absorbs **IR radiation** strongly — **GWP ≈ 28–36** over 100 years (IPCC AR6) — one tonne CH₄ warms as much as ~28–36 tonnes CO₂ in that period.
-- **Atmospheric lifetime** ≈ **12 years** — much shorter than CO₂, but high immediate warming impact while present; short-lived climate pollutant category.
-- **Rice paddies**: flooded fields create **anaerobic soil** — methanogenic bacteria produce CH₄; major agricultural source in India/UP **kharif rice belt**.
-- **Enteric fermentation**: **cattle, buffalo, sheep** digest fodder in rumen — belched methane; India has world's largest cattle population.
-- **Landfills and sewage**: organic waste decomposes anaerobically — dumpsites (Ghaziabad, Kanpur) emit CH₄ if not captured.
-- **Natural gas leaks**: **CNG** (Compressed Natural Gas) is **~90% methane** — 2022 Q113; pipeline/coal-bed methane leakage adds to warming.
-- **Wetlands and termites**: natural CH₄ sources — **termites** in mounds digest cellulose anaerobically — **2018 Q63: both paddy AND termitary**.
-- **Biogas**: **50–70% CH₄** — primary energy component; capturing and burning prevents direct venting (CH₄ is 28× worse than CO₂ per kg) — **2025 Q28**.
-- **Global share**: ~**16%** of anthropogenic GHG forcing — lower than CO₂ by volume but critical for **near-term warming** (2030 targets often include methane cuts).
-- **India's methane strategy**: **Harit Dhara (anti-methane feed supplement)** for livestock; **SAT-Vegetation** for paddy water management; **Global Methane Pledge** (2021) — India not signatory as of 2024 but domestic actions continue.
+- **CH₄** absorbs **IR radiation** strongly. **GWP ≈ 28–36** over 100 years (IPCC AR6). One tonne CH₄ warms as much as ~28–36 tonnes CO₂ in that period.
+- **Atmospheric lifetime** ≈ **12 years**. Much shorter than CO₂, but high immediate warming impact while present. Short-lived climate pollutant category.
+- **Rice paddies**: Flooded fields create **anaerobic soil**. Methanogenic bacteria produce CH₄. They are a major agricultural source in India/UP **kharif rice belt**.
+- **Enteric fermentation**: **cattle, buffalo, sheep** digest fodder in rumen. Belched methane. India has world's largest cattle population.
+- **Landfills and sewage**: Organic waste decomposes anaerobically. Dumpsites (Ghaziabad, Kanpur) emit CH₄ if not captured.
+- **Natural gas leaks**: **CNG** (Compressed Natural Gas) is **~90% methane**. 2022 Q113. Pipeline/coal-bed methane leakage adds to warming.
+- **Wetlands and termites**: Natural CH₄ sources. **termites** in mounds digest cellulose anaerobically, and **2018 Q63: both paddy AND termitary**.
+- **Biogas**: **50–70% CH₄**. Primary energy component, Capturing and burning prevents direct venting (CH₄ is 28× worse than CO₂ per kg), and **2025 Q28**.
+- **Global share**: ~**16%** of anthropogenic GHG forcing. Lower than CO₂ by volume but critical for **near-term warming** (2030 targets often include methane cuts).
+- **India's methane strategy**: **Harit Dhara (anti-methane feed supplement)** for livestock. **SAT-Vegetation** for paddy water management, **Global Methane Pledge** (2021). India not signatory as of 2024 but domestic actions continue.
 
 > **Exam note:** "Gas from paddy fields increasing Earth's temperature" = **Methane (CH₄)** — NOT nitrogen, CO, or CO₂ as primary paddy emission — **2019 Q62, 2018 Q63**.
 
@@ -214,13 +214,13 @@ TRAPS: Highest GWP ≠ most total warming (CO₂ wins on volume)
 
 ### Exam Facts (raata)
 
-- GWP ≈ **28–36** (100-yr); lifetime ~**12 years**
-- ~**16%** of anthropogenic GHG forcing
-- Paddy fields → **CH₄** (anaerobic) — 2018 Q63, 2019 Q62
-- CNG ≈ **90% methane** — 2022 Q113
-- Biogas major part = **CH₄** — 2025 Q28
-- Termites + paddies both emit CH₄ — 2018 Q63 answer **C**
-- India: cattle + rice = top domestic CH₄ sources
+- GWP ≈ **28–36** (100-yr). Lifetime ~**12 years**.
+- ~**16%** of anthropogenic GHG forcing.
+- Paddy fields produces **CH₄** (anaerobic). 2018 Q63, 2019 Q62.
+- CNG ≈ **90% methane**. 2022 Q113.
+- Biogas major part = **CH₄**. 2025 Q28.
+- Termites + paddies both emit CH₄. 2018 Q63 answer **C**.
+- India: cattle + rice = top domestic CH₄ sources.
 
 ### PYQs — Methane
 
@@ -256,16 +256,16 @@ TRAPS: Highest GWP ≠ most total warming (CO₂ wins on volume)
 
 ### Nitrous Oxide — How It Works
 
-- **N₂O** traps heat efficiently — **GWP ≈ 265** over 100 years (IPCC AR6) — ~265 times CO₂ per kilogram over that horizon.
-- **Atmospheric lifetime** ≈ **121 years** — long-lived; emissions today affect climate for over a century.
-- **Agricultural soils**: **synthetic nitrogen fertilizers** (urea, ammonium nitrate) undergo **nitrification-denitrification** — soil microbes convert N to N₂O; biggest anthropogenic source globally.
-- **UP agriculture link**: intensive **wheat-rice rotation** with heavy **urea application** in Indo-Gangetic plain (Punjab-UP-Haryana) — significant regional N₂O source.
-- **Fossil fuel combustion**: industrial boilers, vehicles (catalytic converters under certain conditions), thermal power — N₂O as byproduct of high-temperature oxidation.
+- **N₂O** traps heat efficiently. **GWP ≈ 265** over 100 years (IPCC AR6), and ~265 times CO₂ per kilogram over that horizon.
+- **Atmospheric lifetime** ≈ **121 years**. Long-lived. Emissions today affect climate for over a century.
+- **Agricultural soils**: **synthetic nitrogen fertilizers** (urea, ammonium nitrate) undergo **nitrification-denitrification**. Soil microbes convert N to N₂O. Biggest anthropogenic source globally.
+- **UP agriculture link**: Intensive **wheat-rice rotation** with heavy **urea application** in Indo-Gangetic plain (Punjab-UP-Haryana). Significant regional N₂O source.
+- **Fossil fuel combustion**: Industrial boilers, vehicles (catalytic converters under certain conditions), thermal power. N₂O as byproduct of high-temperature oxidation.
 - **Biomass burning**: crop stubble fires (Punjab-UP seasonal) release N₂O alongside CO₂, CH₄, black carbon.
-- **Natural sources**: oceans, tropical soils, lightning — background ~270 ppb; now **~336 ppb** and rising.
-- **Global share**: ~**6%** of anthropogenic GHG forcing — smaller fraction than CO₂/CH₄ but very high per-unit potency.
-- **Laughing gas identity**: **N₂O** — NOT ammonia (NH₃), carbon monoxide, or CFC — **2023 Q105** direct chemistry question.
-- **Not an ODS**: N₂O has minor stratospheric ozone impact but is **not** controlled as ODS under Montreal — managed as **Kyoto GHG**.
+- **Natural sources**: Oceans, tropical soils, lightning. Background ~270 ppb. Now **~336 ppb** and rising.
+- **Global share**: ~**6%** of anthropogenic GHG forcing. Smaller fraction than CO₂/CH₄ but very high per-unit potency.
+- **Laughing gas identity**: **N₂O**. NOT ammonia (NH₃), carbon monoxide, or CFC, and **2023 Q105** direct chemistry question.
+- **Not an ODS**: N₂O has minor stratospheric ozone impact but is **not** controlled as ODS under Montreal. Managed as **Kyoto GHG**.
 
 > **Exam note:** "Laughing gas" = **Nitrous Oxide (N₂O)** — 2023 Q105. Do not confuse with nitric oxide (NO) or nitrogen dioxide (NO₂) — those are air pollutants, not laughing gas.
 
@@ -282,13 +282,13 @@ TRAPS: Highest GWP ≠ most total warming (CO₂ wins on volume)
 
 ### Exam Facts (raata)
 
-- **Laughing gas** = N₂O — 2023 Q105
-- GWP ≈ **265** (100-yr); lifetime ~**121 years**
-- ~**6%** of anthropogenic GHG forcing
-- Main source: **nitrogen fertilizer** in agriculture
-- UP Indo-Gangetic plain = high fertilizer use → N₂O
-- Formula N₂O — not NO₂ (pollutant) or NH₃ (ammonia)
-- Kyoto basket gas — reported in national inventories
+- **Laughing gas** is N₂O. 2023 Q105.
+- GWP ≈ **265** (100-yr). Lifetime ~**121 years**.
+- ~**6%** of anthropogenic GHG forcing.
+- Main source: **nitrogen fertilizer** in agriculture.
+- UP Indo-Gangetic plain = high fertilizer use produces N₂O.
+- Formula N₂O. Not NO₂ (pollutant) or NH₃ (ammonia).
+- Kyoto basket gas. Reported in national inventories.
 
 ### PYQs — Nitrous Oxide
 
@@ -324,15 +324,15 @@ TRAPS: Highest GWP ≠ most total warming (CO₂ wins on volume)
 
 ### Water Vapour — How It Works
 
-- **H₂O vapour** accounts for approximately **60% of the natural greenhouse effect** — without it, Earth would be far colder even if CO₂ remained.
-- **Concentration varies**: 0–4% by volume (0–40,000 ppm) depending on **temperature, humidity, altitude** — highest in warm tropical air, lowest in polar dry air.
-- **Feedback mechanism**: human CO₂ emissions warm planet → more evaporation from oceans/lakes → **more water vapour holds more heat** → amplifies warming (positive feedback loop).
-- **Not a primary control knob**: humans do not emit water vapour at scales that directly set global climate (unlike CO₂ from coal); **Kyoto/Paris do not target H₂O** as mitigation gas.
-- **Residence time**: days in atmosphere (rain cycle) — constantly recycled through **evaporation → condensation → precipitation**.
-- **Clouds dual role**: liquid/ice water droplets in clouds both **trap IR** (warming) and **reflect sunlight** (cooling) — net effect varies by cloud type/altitude; distinct from water vapour gas alone.
-- **Diffusion of light**: water vapour (with dust) scatters sunlight — **2021 Q134** physics crossover — atmospheric optics, not GH mechanism but syllabus gas.
-- **Absolute humidity rises with warming**: for every ~1°C rise, air can hold ~**7% more moisture** — fuels extreme rainfall events (UP monsoon extremes link).
-- **Trap**: "Water vapour is the most important anthropogenic GHG" = **FALSE** — most abundant yes, but **anthropogenic driver** is CO₂; H₂O follows temperature.
+- **H₂O vapour** accounts for approximately **60% of the natural greenhouse effect**. Without it, Earth would be far colder even if CO₂ remained.
+- **Concentration varies**: 0–4% by volume (0–40,000 ppm) depending on **temperature, humidity, altitude**. Highest in warm tropical air, lowest in polar dry air.
+- **Feedback mechanism**: Human CO₂ emissions warm planet produces more evaporation from oceans/lakes produces **more water vapour holds more heat** produces amplifies warming (positive feedback loop).
+- **Not a primary control knob**: Humans do not emit water vapour at scales that directly set global climate (unlike CO₂ from coal). **Kyoto/Paris do not target H₂O** as mitigation gas.
+- **Residence time**: Days in atmosphere (rain cycle). Constantly recycled through **evaporation produces condensation produces precipitation**.
+- **Clouds dual role**: Liquid/ice water droplets in clouds both **trap IR** (warming) and **reflect sunlight** (cooling). Net effect varies by cloud type/altitude. This is distinct from water vapour gas alone.
+- **Diffusion of light**: Water vapour (with dust) scatters sunlight. **2021 Q134** physics crossover. Atmospheric optics, not GH mechanism but syllabus gas.
+- **Absolute humidity rises with warming**: For every ~1°C rise, air can hold ~**7% more moisture**. Fuels extreme rainfall events (UP monsoon extremes link).
+- **Trap**: "Water vapour is the most important anthropogenic GHG" = **FALSE**. Most abundant yes, but **anthropogenic driver** is CO₂, and H₂O follows temperature.
 
 > **Exam note:** Water vapour = **feedback GHG**, not primary anthropogenic emission target. "Eliminate all greenhouse gases including natural water vapour" = impossible and would freeze Earth.
 
@@ -349,13 +349,13 @@ TRAPS: Highest GWP ≠ most total warming (CO₂ wins on volume)
 
 ### Exam Facts (raata)
 
-- Most abundant GHG — ~**60%** of natural greenhouse effect
-- **Feedback gas** — concentration follows temperature
-- Residence: **days** (water cycle)
-- Not in Kyoto mitigation basket as direct target
-- Clouds = complex warming/cooling (not simple GHG)
-- 2021 Q134: water vapours + dust → light diffusion
-- Warm air holds more moisture (~7% per °C)
+- Most abundant GHG. ~**60%** of natural greenhouse effect.
+- **Feedback gas**. Concentration follows temperature.
+- Residence: **days** (water cycle).
+- Not in Kyoto mitigation basket as direct target.
+- Clouds = complex warming/cooling (not simple GHG).
+- 2021 Q134: water vapours + dust produces light diffusion.
+- Warm air holds more moisture (~7% per °C).
 
 ### PYQs — Water Vapour
 
@@ -391,15 +391,15 @@ TRAPS: Highest GWP ≠ most total warming (CO₂ wins on volume)
 
 ### Ozone — How It Works
 
-- **Ozone (O₃)** is **triatomic oxygen** — same molecule, **different roles by atmospheric layer**.
-- **Tropospheric O₃ (bad ozone)**: formed when **NOx + VOCs + sunlight** react — **not emitted directly**; peaks in afternoon summer smog.
-- **GHG function**: tropospheric O₃ absorbs **outgoing IR** — estimated **GWP ~63–69** over 100 years (indirect, as short-lived); ~5% of anthropogenic forcing.
-- **Photochemical smog** always contains **ozone** — 2022 Q46; also includes PAN, aldehydes; brown haze over cities.
-- **Health impacts**: asthma, bronchitis, eye irritation — NCAP cities (Kanpur, Lucknow, Ghaziabad) monitor high summer O₃.
-- **Stratospheric O₃ (good ozone)**: UV shield at 15–35 km — **not** an anthropogenic GHG in exam framing; its **depletion cools stratosphere** while tropospheric O₃ warms surface — opposite local effects.
-- **Precursor control**: reducing **NOx and VOCs** (vehicles, industry) cuts both smog O₃ and its GHG contribution — co-benefit of air quality policy.
-- **Trap — 2020 Q139**: Tropospheric O₃ **is** a greenhouse gas found naturally (lightning, stratospheric intrusion) — valid option; nitrogen oxide is the NOT answer.
-- **Trap — good up, bad down**: stratospheric O₃ = UV protection; tropospheric O₃ = pollutant + GHG — never confuse layers.
+- **Ozone (O₃)** is **triatomic oxygen**. Same molecule, **different roles by atmospheric layer**.
+- **Tropospheric O₃ (bad ozone)**: Formed when **NOx + VOCs + sunlight** react. **not emitted directly**. Peaks in afternoon summer smog.
+- **GHG function**: Tropospheric O₃ absorbs **outgoing IR**. Estimated **GWP ~63–69** over 100 years (indirect, as short-lived), and ~5% of anthropogenic forcing.
+- **Photochemical smog** always contains **ozone**. 2022 Q46, Also includes PAN, aldehydes. Brown haze over cities.
+- **Health impacts**: Asthma, bronchitis, eye irritation. NCAP cities (Kanpur, Lucknow, Ghaziabad) monitor high summer O₃.
+- **Stratospheric O₃ (good ozone)**: UV shield at 15–35 km. **not** an anthropogenic GHG in exam framing, Its **depletion cools stratosphere** while tropospheric O₃ warms surface. Opposite local effects.
+- **Precursor control**: Reducing **NOx and VOCs** (vehicles, industry) cuts both smog O₃ and its GHG contribution. Co-benefit of air quality policy.
+- **Trap (2020 Q139):** Tropospheric O₃ **is** a greenhouse gas found naturally (lightning, stratospheric intrusion) and is a valid option. Nitrogen oxide is the NOT answer.
+- **Trap (good up, bad down):** Stratospheric O₃ shields against UV, while tropospheric O₃ acts as a pollutant and GHG. Never confuse the two layers.
 
 > **Exam note:** "Photochemical smog always contains ozone" = **TRUE** — 2022 Q46. Ozone as GHG = **tropospheric** context; stratospheric ozone layer = UV topic, different exam frame.
 
@@ -415,13 +415,13 @@ TRAPS: Highest GWP ≠ most total warming (CO₂ wins on volume)
 
 ### Exam Facts (raata)
 
-- Tropospheric O₃ = **GHG + pollutant**
-- Photochemical smog contains **O₃** — 2022 Q46
-- Formed from **NOx + VOCs + sunlight** — not primary emission
-- Stratospheric O₃ = UV shield — **not** this section's GHG focus
-- ~**5%** of anthropogenic GHG forcing
-- NCAP cities track ground-level O₃
-- Good up, bad down — layer matters
+- Tropospheric O₃ = **GHG + pollutant**.
+- Photochemical smog contains **O₃**. 2022 Q46.
+- Formed from **NOx + VOCs + sunlight**. Not primary emission.
+- Stratospheric O₃ = UV shield. **not** this section's GHG focus.
+- ~**5%** of anthropogenic GHG forcing.
+- NCAP cities track ground-level O₃.
+- Good up, bad down. Layer matters.
 
 ### PYQs — Ozone
 
@@ -457,15 +457,15 @@ TRAPS: Highest GWP ≠ most total warming (CO₂ wins on volume)
 
 ### CFCs — How It Works
 
-- **CFCs** (e.g. CFC-11, CFC-12) were used as **refrigerants, aerosol propellants, foam-blowing agents** — chemically inert in troposphere, long lifetime (50–100 years).
-- **Dual role — ODS**: UV in stratosphere breaks CFC bonds → releases **chlorine radicals** → catalytic ozone destruction (~100,000 O₃ per Cl·) — Montreal Protocol 1987 phased them out.
-- **Dual role — GHG**: CFCs also absorb **IR radiation** strongly — GWP **thousands of times CO₂**; even small atmospheric concentrations contributed meaningful warming historically.
-- **2025 Q45 Statement 2**: "Ozone depletion linked to CFCs" = **TRUE** — tested in ozone context but CFC is syllabus gas here for **GHG + ODS** duality.
-- **2022 Q102 trap**: CFC listed among options — it **IS** a greenhouse gas; **Argon** is the NOT-GHG answer.
-- **Montreal ≠ Kyoto**: CFCs controlled under **Montreal (ozone)** for ODS reason; also happen to be GHGs — climate treaties address HFCs (CFC substitutes) via **Kigali**.
-- **India timeline**: CFC production phased out **2010**; Ozone Cell (MoEFCC) oversees compliance; recovered CFCs from old refrigerators still managed.
-- **Replacements**: **HCFCs** (transitional, lower ODP) → **HFCs** (no ozone damage, still high GWP) → **natural refrigerants** (CO₂, ammonia, hydrocarbons).
-- **Atmospheric decline**: Montreal success — stratospheric chlorine declining; ozone recovery underway — but legacy CFCs still in atmosphere and old equipment.
+- **CFCs** (e.g. CFC-11, CFC-12) were used as **refrigerants, aerosol propellants, foam-blowing agents**. Chemically inert in troposphere, long lifetime (50–100 years).
+- **Dual role (ODS):** UV in the stratosphere breaks CFC bonds and releases **chlorine radicals** that catalytically destroy ozone (~100,000 O₃ per Cl·). The Montreal Protocol (1987) phased them out.
+- **Dual role (GHG):** CFCs also absorb **IR radiation** strongly, with GWP **thousands of times that of CO₂**. Even small atmospheric concentrations contributed meaningful warming historically.
+- **2025 Q45 Statement 2**: "Ozone depletion linked to CFCs" = **TRUE**. Tested in ozone context but CFC is syllabus gas here for **GHG + ODS** duality.
+- **2022 Q102 trap**: CFC listed among options. It **IS** a greenhouse gas, and **Argon** is the NOT-GHG answer.
+- **Montreal ≠ Kyoto**: CFCs controlled under **Montreal (ozone)** for ODS reason. Also happen to be GHGs. Climate treaties address HFCs (CFC substitutes) via **Kigali**.
+- **India timeline**: CFC production phased out **2010**. Ozone Cell (MoEFCC) oversees compliance. Recovered CFCs from old refrigerators still managed.
+- **Replacements**: **HCFCs** (transitional, lower ODP) produces **HFCs** (no ozone damage, still high GWP) produces **natural refrigerants** (CO₂, ammonia, hydrocarbons).
+- **Atmospheric decline**: Montreal success. Stratospheric chlorine declining, Ozone recovery underway, but legacy CFCs still in atmosphere and old equipment.
 
 > **Exam note:** CFC = **both GHG and ODS** — 2022 Q102 option B is GHG; Argon is NOT. Montreal phases out CFCs for **ozone**; climate co-benefit is secondary framing.
 
@@ -481,13 +481,13 @@ TRAPS: Highest GWP ≠ most total warming (CO₂ wins on volume)
 
 ### Exam Facts (raata)
 
-- CFC = **GHG + ODS** — dual role
-- GWP up to **~10,200** (CFC-12)
-- Montreal Protocol phased out globally
-- India CFC out **2010**
-- 2025 Q45 stmt 2: CFC-ozone link TRUE
-- 2022 Q102: CFC is GHG; **Argon is NOT**
-- Replaced by HCFCs → HFCs → natural refrigerants
+- CFC = **GHG + ODS**. Dual role.
+- GWP up to **~10,200** (CFC-12).
+- Montreal Protocol phased out globally.
+- India CFC out **2010**.
+- 2025 Q45 stmt 2: CFC-ozone link TRUE.
+- 2022 Q102: CFC is GHG. **Argon is NOT**.
+- Replaced by HCFCs produces HFCs produces natural refrigerants.
 
 ### PYQs — CFCs
 
@@ -523,15 +523,15 @@ TRAPS: Highest GWP ≠ most total warming (CO₂ wins on volume)
 
 ### HFCs — How It Works
 
-- **HFCs** contain **no chlorine** — do **not** destroy stratospheric ozone — designed as **ODS-safe** replacements for CFCs/HCFCs.
-- **High GWP problem**: despite ozone safety, HFCs trap heat powerfully — **HFC-134a** (common AC refrigerant) GWP ≈ **1,430**; **HFC-23** GWP ≈ **14,800**.
-- **Uses**: **air conditioning, refrigeration, foam blowing, fire extinguishers, aerosols** — demand surged as CFCs phased out — "super greenhouse gases" concern.
-- **Kigali Amendment (2016)**: under **Montreal Protocol** framework — legally binding **HFC phase-down schedule**; developed countries faster; India **freeze 2028**, reduction steps to **~85% by 2047**.
-- **India position**: ratified Kigali; **HCFC Phase-out Management Plan** transitions to low-GWP alternatives; **India Cooling Action Plan (ICAP) 2019** targets sustainable cooling.
-- **Alternatives**: **R-290 (propane)**, **R-600a (isobutane)**, **CO₂ (R-744)**, **ammonia (R-717)** — lower or zero GWP; flammability/toxicity trade-offs.
-- **Kyoto vs Kigali**: Kyoto counted HFCs in climate basket from 1997; Kigali (2016) added **production/consumption controls** under proven Montreal enforcement machinery.
-- **UP/NCR link**: rising **AC penetration** in Lucknow, Noida, Ghaziabad — HFC-134a/410A in split ACs — indirect GHG via electricity + refrigerant leakage.
-- **Trap**: "HFCs deplete ozone layer" = **FALSE** — no chlorine; they are **GHG-only** problem. "Kigali phases out CFCs" = **FALSE** — CFCs already out; Kigali targets **HFCs**.
+- **HFCs** contain **no chlorine**. Do **not** destroy stratospheric ozone. Designed as **ODS-safe** replacements for CFCs/HCFCs.
+- **High GWP problem**: Despite ozone safety, HFCs trap heat powerfully. **HFC-134a** (common AC refrigerant) GWP ≈ **1,430**, and **HFC-23** GWP ≈ **14,800**.
+- **Uses**: **air conditioning, refrigeration, foam blowing, fire extinguishers, aerosols**. Demand surged as CFCs phased out, and "super greenhouse gases" concern.
+- **Kigali Amendment (2016)**: Under **Montreal Protocol** framework. Legally binding **HFC phase-down schedule**, Developed countries faster. India **freeze 2028**, reduction steps to **~85% by 2047**.
+- **India position**: Ratified Kigali. **HCFC Phase-out Management Plan** transitions to low-GWP alternatives, and **India Cooling Action Plan (ICAP) 2019** targets sustainable cooling.
+- **Alternatives**: **R-290 (propane)**, **R-600a (isobutane)**, **CO₂ (R-744)**, **ammonia (R-717)**. Lower or zero GWP. Flammability/toxicity trade-offs.
+- **Kyoto vs Kigali**: Kyoto counted HFCs in climate basket from 1997. Kigali (2016) added **production/consumption controls** under proven Montreal enforcement machinery.
+- **UP/NCR link**: Rising **AC penetration** in Lucknow, Noida, Ghaziabad. HFC-134a/410A in split ACs. Indirect GHG via electricity + refrigerant leakage.
+- **Trap**: "HFCs deplete ozone layer" = **FALSE**. No chlorine, They are **GHG-only** problem. "Kigali phases out CFCs" = **FALSE**, and CFCs already out, Kigali targets **HFCs**.
 
 > **Exam note:** HFC = **GHG only, NOT ODS**. Kigali Amendment 2016 = HFC phase-down under Montreal. Do not confuse with Vienna/Montreal CFC phase-out (already complete).
 
@@ -547,13 +547,13 @@ TRAPS: Highest GWP ≠ most total warming (CO₂ wins on volume)
 
 ### Exam Facts (raata)
 
-- HFC = **GHG only** — ODP = **0**
-- GWP **100–14,800** (compound-specific)
-- **Kigali 2016** — HFC phase-down under Montreal
-- India freeze **2028**; ~85% cut by **2047**
-- Kyoto six-gas basket includes HFCs
-- ICAP 2019 — India cooling strategy
-- Trap: HFCs do NOT cause ozone hole
+- HFC = **GHG only**. ODP = **0**.
+- GWP **100–14,800** (compound-specific).
+- **Kigali 2016**. HFC phase-down under Montreal.
+- India freeze **2028**. ~85% cut by **2047**.
+- Kyoto six-gas basket includes HFCs.
+- ICAP 2019. India cooling strategy.
+- Trap: HFCs do NOT cause ozone hole.
 
 ### PYQs — HFCs
 

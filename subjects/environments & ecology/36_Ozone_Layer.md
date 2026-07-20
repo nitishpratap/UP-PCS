@@ -105,16 +105,16 @@ TRAPS: Montreal ≠ Kyoto (ozone vs climate) | Ozone Day = 16 Sept | Good up, ba
 
 ### Ozone Layer — How It Works
 
-- **Ozone (O₃)** is **triatomic oxygen** — distinct from **O₂ (~21% of air)** which does not absorb UV-B as efficiently as O₃.
-- The **ozone layer** sits in the **stratosphere** at **~15–35 km** altitude (peak near **~25 km**) — **maximum ozone concentration is here**, not in troposphere — **2018 Q52, 2023 Q52**.
-- **Natural formation** follows the **Chapman cycle**: UV-C splits O₂ → 2O; O + O₂ → O₃; balanced natural destruction keeps column ozone stable at ~**300 DU** globally.
-- **UV radiation types**: **UV-A** (320–400 nm) largely reaches surface; **UV-B** (280–320 nm) **mostly blocked by O₃** (sunburn, skin cancer, cataracts, crop damage); **UVC** (100–280 nm) **fully absorbed** by O₃ + O₂ — never reaches surface normally — **2018 Q55: UV produces O₃**.
-- **Ozone absorbs UV** and converts energy to heat — why **stratosphere temperature increases with height** — distinct from troposphere cooling trend.
-- **"Good ozone"** = stratospheric O₃ (UV shield). **"Bad ozone"** = tropospheric ground-level O₃ from **NOx + VOCs + sunlight** — respiratory irritant, eye irritant in smoke — **2018 Q137; 2022 Q46 photochemical smog contains ozone**.
-- **Column ozone** measured in **Dobson Units (DU)** — 1 DU = 0.01 mm pure O₃ at STP; global average ≈ **300 DU**; ozone hole defined **< 220 DU**.
-- **O₃ is trace gas** even in "ozone layer" — peak ~**10 ppm** — layer defined by **column abundance**, not thick shell; trap: **21% = O₂**, not O₃.
-- **Without ozone layer**, UV-B/C would devastate life — DNA damage, skin cancer epidemic, suppressed photosynthesis, marine phytoplankton collapse.
-- **2025 Q45 Statement 1**: "Ozone layer protects Earth's surface from UV radiation" = **TRUE** — core exam function; do not confuse with greenhouse effect (IR trapping by CO₂).
+- **Ozone (O₃)** is **triatomic oxygen**. Distinct from **O₂ (~21% of air)** which does not absorb UV-B as efficiently as O₃.
+- The **ozone layer** sits in the **stratosphere** at **~15–35 km** altitude (peak near **~25 km**). **Maximum ozone concentration is here**, not in troposphere, and **2018 Q52, 2023 Q52**.
+- **Natural formation** follows the **Chapman cycle**: UV-C splits O₂ into two O atoms. O + O₂ form O₃. Balanced natural destruction keeps column ozone stable at ~**300 DU** globally.
+- **UV radiation types**: **UV-A** (320–400 nm) largely reaches surface. **UV-B** (280–320 nm) **mostly blocked by O₃** (sunburn, skin cancer, cataracts, crop damage), **UVC** (100–280 nm) **fully absorbed** by O₃ + O₂. Never reaches surface normally, **2018 Q55: UV produces O₃**.
+- **Ozone absorbs UV** and converts energy to heat, which is why **stratosphere temperature increases with height**. This pattern is distinct from the troposphere cooling trend.
+- **"Good ozone"** is stratospheric O₃ (UV shield). **"Bad ozone"** = tropospheric ground-level O₃ from **NOx + VOCs + sunlight**. Respiratory irritant, eye irritant in smoke. **2018 Q137, and 2022 Q46 photochemical smog contains ozone**.
+- **Column ozone** measured in **Dobson Units (DU)**. 1 DU = 0.01 mm pure O₃ at STP, Global average ≈ **300 DU**. Ozone hole defined **< 220 DU**.
+- **O₃ is trace gas** even in "ozone layer". Peak ~**10 ppm**, Layer defined by **column abundance**, not thick shell. Trap: **21% = O₂**, not O₃.
+- **Without ozone layer**, UV-B/C would devastate life. DNA damage, skin cancer epidemic, suppressed photosynthesis, marine phytoplankton collapse.
+- **2025 Q45 Statement 1**: "Ozone layer protects Earth's surface from UV radiation" = **TRUE**. Core exam function. Do not confuse with greenhouse effect (IR trapping by CO₂).
 
 > **Exam note:** Pair **"Ozone layer – Troposphere"** = **NOT correctly matched** (2018 Q57). UV shield ozone = **stratosphere only**.
 
@@ -128,13 +128,13 @@ TRAPS: Montreal ≠ Kyoto (ozone vs climate) | Ozone Day = 16 Sept | Good up, ba
 
 ### Exam Facts (raata)
 
-- O₃ formula; stratosphere **15–35 km**
-- Peak concentration ~**25 km**; ~**10 ppm** max
-- Global column ozone ~**300 DU**
-- Chapman cycle = natural O₃ balance
-- Good ozone = stratosphere | Bad ozone = troposphere
-- UV-B blocked by stratospheric O₃
-- **2025 Q45 Stmt 1 = TRUE**
+- O₃ formula. Stratosphere **15–35 km**.
+- Peak concentration ~**25 km**. ~**10 ppm** max.
+- Global column ozone ~**300 DU**.
+- Chapman cycle = natural O₃ balance.
+- Good ozone = stratosphere | Bad ozone = troposphere.
+- UV-B blocked by stratospheric O₃.
+- **2025 Q45 Stmt 1 = TRUE**.
 
 ### PYQs — Ozone Layer
 
@@ -172,16 +172,16 @@ TRAPS: Montreal ≠ Kyoto (ozone vs climate) | Ozone Day = 16 Sept | Good up, ba
 
 ### Ozone Depletion — How It Works
 
-- **Natural ozone** fluctuates with seasons and solar cycles — but post-1980 **sustained anthropogenic decline** exceeded natural variability until Montreal Protocol reversed the trend.
-- **ODS** (CFCs, halons, carbon tetrachloride, methyl bromide, HCFCs) are **stable in troposphere** — not washed out by rain — slowly transported to stratosphere over **decades** (CFC lifetime 50–100+ years).
-- In stratosphere, **UV photolysis** breaks CFC bonds → releases **chlorine radicals (Cl·)** → catalytic cycle: Cl· + O₃ → ClO + O₂; ClO + O → Cl· + O₂ — **one Cl· destroys up to ~100,000 O₃ molecules**.
-- **Bromine from halons** is **more destructive per atom** than chlorine — halon ODP up to **10.0** (Halon-1301).
-- **Rowland-Molina hypothesis (1974)** predicted CFC-driven stratospheric ozone loss — confirmed by Antarctic observations; **Nobel Prize Chemistry 1995**.
-- **Health/ecosystem impacts**: increased **skin cancer, cataracts, immunosuppression**; crop yield loss (rice, wheat); **phytoplankton** damage disrupting marine food chains.
-- **Mid-latitude depletion**: Global thinning occurred even outside Antarctic hole — India experienced **elevated UV-B** in 1980s–1990s despite no "hole" overhead.
-- **Recovery underway**: ODS emissions down ~**99%** since 1990 peak; WMO projects mid-latitude recovery ~**2040**, Antarctic ~**2066**.
-- **Depletion ≠ greenhouse effect**: Montreal targets **UV/ozone**; CFCs are also GHGs but treaty controls them as **ODS**, not for climate — **2024 Q35 trap: Montreal ≠ climate mitigation**.
-- **2025 Q45 Statement 2**: "Ozone depletion linked to CFCs" = **TRUE** — most tested cause-effect in UPPCS Environment.
+- **Natural ozone** fluctuates with seasons and solar cycles. But post-1980 **sustained anthropogenic decline** exceeded natural variability until Montreal Protocol reversed the trend.
+- **ODS** (CFCs, halons, carbon tetrachloride, methyl bromide, HCFCs) are **stable in troposphere**. Not washed out by rain. Slowly transported to stratosphere over **decades** (CFC lifetime 50–100+ years).
+- In the stratosphere, **UV photolysis** breaks CFC bonds and releases **chlorine radicals (Cl·)** that drive a catalytic cycle in which Cl· reacts with O₃ to form ClO and O₂, and ClO reacts with O to regenerate Cl·. **One Cl· destroys up to ~100,000 O₃ molecules**.
+- **Bromine from halons** is **more destructive per atom** than chlorine. Halon ODP up to **10.0** (Halon-1301).
+- **Rowland-Molina hypothesis (1974)** predicted CFC-driven stratospheric ozone loss. Confirmed by Antarctic observations, and **Nobel Prize Chemistry 1995**.
+- **Health/ecosystem impacts**: Increased **skin cancer, cataracts, immunosuppression**. Crop yield loss (rice, wheat), and **phytoplankton** damage disrupting marine food chains.
+- **Mid-latitude depletion**: Global thinning occurred even outside Antarctic hole. India experienced **elevated UV-B** in 1980s–1990s despite no "hole" overhead.
+- **Recovery underway**: ODS emissions down ~**99%** since 1990 peak. WMO projects mid-latitude recovery ~**2040**, Antarctic ~**2066**.
+- **Depletion ≠ greenhouse effect**: Montreal targets **UV/ozone**. CFCs are also GHGs but treaty controls them as **ODS**, not for climate, and **2024 Q35 trap: Montreal ≠ climate mitigation**.
+- **2025 Q45 Statement 2**: "Ozone depletion linked to CFCs" = **TRUE**. Most tested cause-effect in UPPCS Environment.
 
 > **Exam note:** CFC mechanism = **chlorine catalytic cycle** in stratosphere — not direct "CFC blocks UV" (that's ozone's job when intact).
 
@@ -196,14 +196,14 @@ TRAPS: Montreal ≠ Kyoto (ozone vs climate) | Ozone Day = 16 Sept | Good up, ba
 
 ### Exam Facts (raata)
 
-- CFCs → Cl· in stratosphere — catalytic destruction
-- **~100,000 O₃** destroyed per Cl atom
-- Rowland-Molina **1974**; Nobel **1995**
-- Halons (Br) more destructive per atom than Cl
-- ODS stable in troposphere — long lifetime
-- Recovery: mid-latitudes **~2040**; Antarctic **~2066**
-- Montreal cut ODS emissions ~**99%**
-- **2025 Q45 Stmt 2 = TRUE**
+- CFCs produces Cl· in stratosphere. Catalytic destruction.
+- **~100,000 O₃** destroyed per Cl atom.
+- Rowland-Molina **1974**. Nobel **1995**.
+- Halons (Br) more destructive per atom than Cl.
+- ODS stable in troposphere. Long lifetime.
+- Recovery: mid-latitudes **~2040**. Antarctic **~2066**.
+- Montreal cut ODS emissions ~**99%**.
+- **2025 Q45 Stmt 2 = TRUE**.
 
 ### PYQs — Ozone Depletion
 
@@ -236,16 +236,16 @@ TRAPS: Montreal ≠ Kyoto (ozone vs climate) | Ozone Day = 16 Sept | Good up, ba
 
 ### Ozone Hole — How It Works
 
-- **"Ozone hole"** is **not a physical hole** — it is a **chemical depletion region** where total column O₃ drops below **220 DU**, allowing dangerous UV-B levels at surface.
-- **Antarctic-specific**: Most severe over **Antarctica** — ODS are global, but **polar conditions** trigger extreme chemistry.
-- **Polar vortex** (winter) isolates Antarctic stratospheric air — extreme cold (**~−80°C**) enables **Polar Stratospheric Clouds (PSCs)**.
-- **PSCs** provide surfaces for **chlorine activation** — converts inactive reservoir chlorine (HCl, ClONO₂) into reactive forms (Cl₂, ClO) that destroy ozone rapidly.
-- **Southern Hemisphere spring** (September–October): returning sunlight triggers **photochemical destruction** — ozone plummets; hole **peaks in spring**, **recovers by December** (austral summer).
-- **Discovered 1985** by **Farman, Gardiner, and Shanklin** (British Antarctic Survey, Halley Bay) — accelerated Vienna/Montreal negotiations.
-- **Arctic**: Occasional depletion (1990s, 2011, 2020) but **less severe and less regular** — no permanent Arctic hole equivalent; warmer, weaker vortex.
-- **Maximum area** historically exceeded **25 million km²** — larger than Antarctica continent.
-- **Recovery trend**: Hole depth/duration declining since Montreal — full Antarctic recovery to 1980 levels projected **~2066** (WMO 2022).
-- **India/UP trap**: **No ozone hole over India or UP** — mid-latitude country; hole is **Antarctic spring** phenomenon — "ozone hole over Gangetic plain" = **FALSE**.
+- **"Ozone hole"** is **not a physical hole**. It is a **chemical depletion region** where total column O₃ drops below **220 DU**, allowing dangerous UV-B levels at surface.
+- **Antarctic-specific**: Most severe over **Antarctica**. ODS are global, but **polar conditions** trigger extreme chemistry.
+- **Polar vortex** (winter) isolates Antarctic stratospheric air. Extreme cold (**~−80°C**) enables **Polar Stratospheric Clouds (PSCs)**.
+- **PSCs** provide surfaces for **chlorine activation**. Converts inactive reservoir chlorine (HCl, ClONO₂) into reactive forms (Cl₂, ClO) that destroy ozone rapidly.
+- **Southern Hemisphere spring** (September–October): returning sunlight triggers **photochemical destruction**. Ozone plummets. Hole **peaks in spring**, **recovers by December** (austral summer).
+- **Discovered 1985** by **Farman, Gardiner. Shanklin** (British Antarctic Survey, Halley Bay). Accelerated Vienna/Montreal negotiations.
+- **Arctic**: Occasional depletion (1990s, 2011, 2020) but **less severe and less regular**. No permanent Arctic hole equivalent. Warmer, weaker vortex.
+- **Maximum area** historically exceeded **25 million km²**. Larger than Antarctica continent.
+- **Recovery trend**: Hole depth/duration declining since Montreal. Full Antarctic recovery to 1980 levels projected **~2066** (WMO 2022).
+- **India/UP trap**: **No ozone hole over India or UP**. Mid-latitude country, Hole is **Antarctic spring** phenomenon, and "ozone hole over Gangetic plain" = **FALSE**.
 
 > **Exam note:** "Ozone hole occurs over Arctic every winter" = **FALSE**. "Ozone hole is permanent year-round" = **FALSE** — seasonal Sep–Oct (Southern spring).
 
@@ -262,14 +262,14 @@ TRAPS: Montreal ≠ Kyoto (ozone vs climate) | Ozone Day = 16 Sept | Good up, ba
 
 ### Exam Facts (raata)
 
-- Hole threshold: **< 220 DU**
-- Primary location: **Antarctica**
-- Season: **Southern spring (Sep–Oct)**
-- Discovered **1985** — British Antarctic Survey
-- PSCs + polar vortex = key chemistry
-- Not physical hole — chemical depletion
-- Recovery Antarctic ~**2066**
-- **No hole over India/UP**
+- Hole threshold: **< 220 DU**.
+- Primary location: **Antarctica**.
+- Season: **Southern spring (Sep–Oct)**.
+- Discovered **1985**. British Antarctic Survey.
+- PSCs + polar vortex = key chemistry.
+- Not physical hole. Chemical depletion.
+- Recovery Antarctic ~**2066**.
+- **No hole over India/UP**.
 
 ### PYQs — Ozone Hole
 
@@ -302,16 +302,16 @@ TRAPS: Montreal ≠ Kyoto (ozone vs climate) | Ozone Day = 16 Sept | Good up, ba
 
 ### Ozone Depleting Substances — How It Works
 
-- **ODS classification** under Montreal Protocol uses **ODP (Ozone Depleting Potential)** — CFC-11 = **1.0 reference**; higher ODP = more destructive per unit mass.
-- **CFCs (Chlorofluorocarbons)** — **CFC-11, CFC-12** — refrigerants, aerosol propellants, foam-blowing agents; ODP ≈ **1.0**; lifetime **45–100 years**; **fully phased out** globally.
-- **Halons** — **Halon-1211, Halon-1301** — fire suppressants (aviation, military); **highest ODP** (Halon-1301 ODP = **10.0**); bromine extremely efficient destroyer.
-- **Carbon tetrachloride (CCl₄)** — industrial solvent; ODP **1.1**; phased out.
-- **Methyl chloroform (CH₃CCl₃)** — solvent; ODP **0.1**; phased out.
-- **Methyl bromide (CH₃Br)** — agricultural soil fumigant, pest control; ODP **0.6**; phased out with **critical-use exemptions** (horticulture).
-- **HCFCs (Hydrochlorofluorocarbons)** — **transitional substitutes** for CFCs; lower ODP (**HCFC-22 ODP = 0.05**) but still depleting; **India phase-out by 2030** (freeze 2020).
-- **NOT ODS under Montreal**: **CO₂, CH₄, N₂O** (GHGs under climate treaties); **HFCs** (no ozone depletion — controlled under **Kigali Amendment** for high GWP only).
-- **Dual-nature trap**: **CFCs are both ODS and potent GHGs** — Montreal controls for ozone; **2022 Q102** tests CFC as GHG (Argon = NOT GHG answer).
-- **Transport to stratosphere**: ODS emitted at surface → mixed in troposphere → slow upward transport (years) → UV photolysis in stratosphere → halogen radicals released.
+- **ODS classification** under Montreal Protocol uses **ODP (Ozone Depleting Potential)**. CFC-11 = **1.0 reference**. Higher ODP = more destructive per unit mass.
+- **CFCs (Chlorofluorocarbons)**. **CFC-11, CFC-12**, Refrigerants, aerosol propellants, foam-blowing agents, and ODP ≈ **1.0**, Lifetime **45–100 years**, **fully phased out** globally.
+- **Halons**. **Halon-1211, Halon-1301**, Fire suppressants (aviation, military), and **highest ODP** (Halon-1301 ODP = **10.0**), Bromine extremely efficient destroyer.
+- **Carbon tetrachloride (CCl₄)**. Industrial solvent, ODP **1.1**. Phased out.
+- **Methyl chloroform (CH₃CCl₃)**. Solvent, ODP **0.1**. Phased out.
+- **Methyl bromide (CH₃Br)**. Agricultural soil fumigant, pest control, ODP **0.6**. Phased out with **critical-use exemptions** (horticulture).
+- **HCFCs (Hydrochlorofluorocarbons)**. **transitional substitutes** for CFCs, Lower ODP (**HCFC-22 ODP = 0.05**) but still depleting, and **India phase-out by 2030** (freeze 2020).
+- **NOT ODS under Montreal**: **CO₂, CH₄, N₂O** (GHGs under climate treaties). **HFCs** (no ozone depletion. Controlled under **Kigali Amendment** for high GWP only).
+- **Dual-nature trap**: **CFCs are both ODS and potent GHGs**. Montreal controls for ozone, and **2022 Q102** tests CFC as GHG (Argon = NOT GHG answer).
+- **Transport to stratosphere**: ODS emitted at surface produces mixed in troposphere produces slow upward transport (years) produces UV photolysis in stratosphere produces halogen radicals released.
 
 > **Exam note:** Multi-statement trap: "CO₂ and CH₄ are ODS under Montreal" = **FALSE** — they are GHGs, not ozone-depleting substances in Protocol annexes.
 
@@ -330,14 +330,14 @@ TRAPS: Montreal ≠ Kyoto (ozone vs climate) | Ozone Day = 16 Sept | Good up, ba
 
 ### Exam Facts (raata)
 
-- Primary ODS: **CFCs, halons, CCl₄, CH₃Br, HCFCs**
-- CFC-11 ODP = **1.0** reference
-- Halon-1301 ODP = **10.0** (highest common ODS)
-- HCFCs = transitional — lower ODP, still controlled
-- CO₂/CH₄ = **not ODS** under Montreal
-- HFCs = **not ODS** — Kigali controls for GWP
-- CFC lifetime up to **100 years**
-- India CFC phase-out **2010**
+- Primary ODS: **CFCs, halons, CCl₄, CH₃Br, HCFCs**.
+- CFC-11 ODP = **1.0** reference.
+- Halon-1301 ODP = **10.0** (highest common ODS).
+- HCFCs = transitional. Lower ODP, still controlled.
+- CO₂/CH₄ = **not ODS** under Montreal.
+- HFCs = **not ODS**. Kigali controls for GWP.
+- CFC lifetime up to **100 years**.
+- India CFC phase-out **2010**.
 
 ### PYQs — ODS
 
@@ -369,16 +369,16 @@ TRAPS: Montreal ≠ Kyoto (ozone vs climate) | Ozone Day = 16 Sept | Good up, ba
 
 ### Montreal Protocol — How It Works
 
-- **Montreal Protocol adopted 16 September 1987** — date commemorated as **International Day for Preservation of Ozone Layer** — **2021 Q114, 2022 Q82, 2025 Q62**.
-- **Legally binding** ODS phase-out with **differentiated timelines** — developed countries (non-Article 5) faster; developing countries (Article 5, including **India**) later deadlines under **common but differentiated responsibilities**.
-- **Annex A (original)**: **CFCs + halons** — first controlled groups; subsequent amendments expanded list.
-- **Amendment chain**: **London (1990)** — Multilateral Fund; **Copenhagen (1992)** — accelerated schedule, methyl bromide; **Montreal (1997)** — HCFCs added; **Beijing (1999)** — bromochloromethane; **Kigali (2016)** — **HFC phase-down** (not ODS but high GWP refrigerants).
-- **Multilateral Fund (1991)** — developed countries finance developing country ODS phase-out — India major recipient for refrigeration, foam, solvent sector conversion.
-- **India ratified 1992**; **MoEFCC Ozone Cell** nodal; **CFC production/consumption ended 2010**; **HCFC freeze 2020, complete phase-out 2030**; **Kigali ratified 2023** — HFC reduction from **2028**.
-- **Universal ratification (2009)** — **only UN treaty ratified by every country**.
-- **Enforcement**: trade restrictions on ODS with non-parties; annual reporting; **TEAP** (Technology and Economic Assessment Panel) recommends alternatives.
-- **Success metrics**: atmospheric ODS declining since mid-1990s; ozone recovery underway; ~**2 million skin cancer cases avoided annually by 2030** (UNEP estimate).
-- **2024 Q35 trap**: "Montreal Protocol related to **climate change mitigation**?" = **FALSE** — answer **Kyoto Protocol**; Montreal = **ozone/ODS**.
+- **Montreal Protocol adopted 16 September 1987**. Date commemorated as **International Day for Preservation of Ozone Layer**, and **2021 Q114, 2022 Q82, 2025 Q62**.
+- **Legally binding** ODS phase-out with **differentiated timelines**. Developed countries (non-Article 5) faster. Developing countries (Article 5, including **India**) later deadlines under **common but differentiated responsibilities**.
+- **Annex A (original)**: **CFCs + halons**. First controlled groups. Subsequent amendments expanded list.
+- **Amendment chain**: **London (1990)**. Multilateral Fund, **Copenhagen (1992)**. Accelerated schedule, methyl bromide, **Montreal (1997)**, HCFCs added, **Beijing (1999)**, Bromochloromethane, **Kigali (2016)**, **HFC phase-down** (not ODS but high GWP refrigerants).
+- **Multilateral Fund (1991)**. Developed countries finance developing country ODS phase-out. India major recipient for refrigeration, foam, solvent sector conversion.
+- **India ratified 1992**. **MoEFCC Ozone Cell** nodal, **CFC production/consumption ended 2010**, and **HCFC freeze 2020, complete phase-out 2030**, **Kigali ratified 2023**, HFC reduction from **2028**.
+- **Universal ratification (2009)**. **only UN treaty ratified by every country**.
+- **Enforcement**: Trade restrictions on ODS with non-parties. Annual reporting, and **TEAP** (Technology and Economic Assessment Panel) recommends alternatives.
+- **Success metrics**: Atmospheric ODS declining since mid-1990s. Ozone recovery underway, and ~**2 million skin cancer cases avoided annually by 2030** (UNEP estimate).
+- **2024 Q35 trap**: "Montreal Protocol related to **climate change mitigation**?" = **FALSE**. Answer **Kyoto Protocol**. Montreal = **ozone/ODS**.
 
 > **Exam note:** **Montreal = ozone (1987)** | **Kyoto = climate (1997)** | **Paris = climate (2015)** — three-way treaty trap in matching questions.
 
@@ -407,14 +407,14 @@ TRAPS: Montreal ≠ Kyoto (ozone vs climate) | Ozone Day = 16 Sept | Good up, ba
 
 ### Exam Facts (raata)
 
-- Montreal = **1987**; Ozone Day = **16 September**
-- Universal ratification — all UN members
-- Multilateral Fund = **1991**
-- ODS emissions cut ~**99%**
-- Kigali **2016** = HFCs (not classic ODS)
-- India CFC **2010** | HCFC **2030**
-- **Montreal ≠ Kyoto** (2024 Q35)
-- TEAP = technology assessment panel
+- Montreal = **1987**. Ozone Day = **16 September**.
+- Universal ratification. All UN members.
+- Multilateral Fund = **1991**.
+- ODS emissions cut ~**99%**.
+- Kigali **2016** = HFCs (not classic ODS).
+- India CFC **2010** | HCFC **2030**.
+- **Montreal ≠ Kyoto** (2024 Q35).
+- TEAP = technology assessment panel.
 
 ### PYQs — Montreal Protocol
 
@@ -453,16 +453,16 @@ TRAPS: Montreal ≠ Kyoto (ozone vs climate) | Ozone Day = 16 Sept | Good up, ba
 
 ### Vienna Convention — How It Works
 
-- **Vienna Convention (1985)** was negotiated when ozone depletion science (CFC threat) was emerging — created **legal framework** before binding phase-out existed.
-- **Parties commit** to cooperate on: **research and monitoring** of ozone layer; **information exchange**; **harmonised policies** to control ODS activities — but **original Vienna text did not list specific ODS phase-out schedules**.
-- **Montreal Protocol (1987)** is a **Protocol under Vienna Convention** — transforms framework into **operational, legally binding** ODS reduction with annexes, timetables, and compliance mechanisms.
-- **Relationship analogy for exams**: Vienna = **Constitution/framework** | Montreal = **Operational law with penalties/schedules** — both needed; Vienna alone insufficient to stop CFC production.
-- **Conference of Parties (COP)** to Vienna Convention meets jointly with Montreal Protocol parties — **Ozone Secretariat (Nairobi, UNEP)** administers **both**.
-- **Scientific Assessment Panel** under Convention reviews ozone science every 4 years — informs Protocol amendments (London, Copenhagen, Montreal, Beijing, Kigali).
-- **2019 Q132 matching trap context**: **Montreal Protocol — Ozone layer** = **correctly matched** (option C); wrong pairs include **Kyoto Protocol — Save water** (D) — Kyoto = climate/GHG.
-- **2023 Q132 trap**: **Agenda-21 (Rio 1992) = Sustainable Development**, NOT "Preservation of Ozone Layer" — ozone treaties are **Vienna/Montreal**, not Agenda-21.
-- **Stockholm 1972 → UNEP → Vienna 1985 chain**: Global environmental governance evolution — Vienna specifically targets **ozone layer** (not biodiversity = CBD, not climate = UNFCCC).
-- **India signed Vienna 1985, ratified with Montreal 1992** — Ozone Cell implements both Convention reporting and Protocol compliance.
+- **Vienna Convention (1985)** was negotiated when ozone depletion science (CFC threat) was emerging. Created **legal framework** before binding phase-out existed.
+- **Parties commit** to cooperate on: **research and monitoring** of ozone layer. **information exchange**, **harmonised policies** to control ODS activities, but **original Vienna text did not list specific ODS phase-out schedules**.
+- **Montreal Protocol (1987)** is a **Protocol under Vienna Convention**. Transforms framework into **operational, legally binding** ODS reduction with annexes, timetables, and compliance mechanisms.
+- **Relationship analogy for exams**: Vienna = **Constitution/framework** | Montreal = **Operational law with penalties/schedules**. Both needed. Vienna alone insufficient to stop CFC production.
+- **Conference of Parties (COP)** to Vienna Convention meets jointly with Montreal Protocol parties. **Ozone Secretariat (Nairobi, UNEP)** administers **both**.
+- **Scientific Assessment Panel** under Convention reviews ozone science every 4 years. Informs Protocol amendments (London, Copenhagen, Montreal, Beijing, Kigali).
+- **2019 Q132 matching trap context**: **Montreal Protocol. Ozone layer** = **correctly matched** (option C), Wrong pairs include **Kyoto Protocol. Save water** (D), Kyoto = climate/GHG.
+- **2023 Q132 trap**: **Agenda-21 (Rio 1992) = Sustainable Development**, NOT "Preservation of Ozone Layer". Ozone treaties are **Vienna/Montreal**, not Agenda-21.
+- **Stockholm 1972, UNEP, and Vienna 1985** mark a chain in global environmental governance. The Vienna Convention specifically targets the **ozone layer**, not biodiversity (CBD) or climate (UNFCCC).
+- **India signed Vienna 1985, ratified with Montreal 1992**. Ozone Cell implements both Convention reporting and Protocol compliance.
 
 > **Exam note:** "Vienna Convention phases out CFCs" = **FALSE** — **Montreal Protocol** phases out CFCs; Vienna provides **framework only**.
 
@@ -479,19 +479,19 @@ TRAPS: Montreal ≠ Kyoto (ozone vs climate) | Ozone Day = 16 Sept | Good up, ba
 
 ### Exam Facts (raata)
 
-- Vienna Convention = **1985**
-- Montreal Protocol = **1987** (under Vienna)
-- Vienna = **framework**; Montreal = **binding ODS control**
-- Ozone Secretariat = **Nairobi (UNEP)**
-- Agenda-21 ≠ ozone (2023 Q132) — SD at Rio 1992
-- Montreal–Ozone layer pair = **correct match** (2019 Q132)
-- India: Vienna signatory; Montreal ratified **1992**
+- Vienna Convention = **1985**.
+- Montreal Protocol = **1987** (under Vienna).
+- Vienna = **framework**. Montreal = **binding ODS control**.
+- Ozone Secretariat = **Nairobi (UNEP)**.
+- Agenda-21 ≠ ozone (2023 Q132). SD at Rio 1992.
+- Montreal–Ozone layer pair = **correct match** (2019 Q132).
+- India: Vienna signatory. Montreal ratified **1992**.
 
 ### PYQs — Vienna Convention
 
 1. **(UPPCS Prelims 2019, Q132 — Miscellaneous matching)** Which is NOT correctly matched?
-   - C. Montreal Protocol — Ozone layer ✓ (correctly matched)
-   - D. Kyoto Protocol — Save water ✗ (Kyoto = GHG/climate)
+   - C. Montreal Protocol. Ozone layer ✓ (correctly matched).
+   - D. Kyoto Protocol. Save water ✗ (Kyoto = GHG/climate).
    → Answer is **D** (Kyoto–Save water wrong); Montreal–Ozone is **correct** — do not mark C as wrong.
 
 2. **(UPPCS Prelims 2023, Q132)** Agenda-21 of Rio Summit (1992) is related to —

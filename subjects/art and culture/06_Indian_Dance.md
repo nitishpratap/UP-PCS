@@ -89,11 +89,11 @@ UP FOCUS:
 
 ### Indian Classical Dances — How It Works
 
-- **Classical dance** in India derives from **Natyashastra** (Bharata Muni) — codifies **nritta** (pure movement), **nritya** (expressive), **natya** (drama).
+- **Classical dance** in India derives from **Natyashastra** (Bharata Muni). Codifies **nritta** (pure movement), **nritya** (expressive), **natya** (drama).
 - **Abhinaya** (expression) has **four types**: **angika** (body), **vachika** (speech/song), **aharya** (costume/makeup), **sattvika** (inner emotion).
-- **Rasa theory** — audience must experience emotional flavour; **9 rasas** (shringara, hasya, karuna, raudra, veera, bhayanaka, bibhatsa, adbhuta, shanta).
-- **Lasya** (feminine grace) and **Tandava** (masculine vigour) — Shiva's tandava + Parvati's lasya as cosmic dance principles.
-- **Sangeet Natak Akademi** (1952) recognises exactly **8 classical dances** — complete list:
+- **Rasa theory**. Audience must experience emotional flavour. **9 rasas** (shringara, hasya, karuna, raudra, veera, bhayanaka, bibhatsa, adbhuta, shanta).
+- **Lasya** (feminine grace) and **Tandava** (masculine vigour). Shiva's tandava + Parvati's lasya as cosmic dance principles.
+- **Sangeet Natak Akademi** (1952) recognises exactly **8 classical dances**. Complete list:.
 
   | # | Dance | State/Region | Recognition note |
   |---|-------|--------------|------------------|
@@ -106,24 +106,24 @@ UP FOCUS:
   | 7 | **Manipuri** | Manipur | Ras Lila, Vaishnavite |
   | 8 | **Sattriya** | Assam | **Added 2000** — satra monastery |
 
-- **Guru-shishya parampara** — transmission through hereditary or institutional teaching (Kalakshetra, Nalanda Nritya, Kathak Kendra).
-- **Carnatic music** accompanies Bharatanatyam, Kuchipudi, Mohiniyattam; **Hindustani** accompanies Kathak; **melam/panchavadyam** for Kathakali.
-- **Revival movement** (20th c.) — Rukmini Devi Arundale (Bharatanatyam), Kelucharan Mohapatra (Odissi), Birju Maharaj (Kathak) sanitised and staged temple/folk forms.
-- **Not classical** (trap): **Chhau, Garba, Bhangra, Lavani** = folk/tribal — NOT SNA classical list.
-- **Dance-drama** category: **Kathakali, Kuchipudi, Manipuri Ras Lila, Sattriya Bhaona** — blend natya heavily.
+- **Guru-shishya parampara**. Transmission through hereditary or institutional teaching (Kalakshetra, Nalanda Nritya, Kathak Kendra).
+- **Carnatic music** accompanies Bharatanatyam, Kuchipudi, Mohiniyattam. **Hindustani** accompanies Kathak. **Melam/panchavadyam** for Kathakali.
+- **Revival movement** (20th c.). Rukmini Devi Arundale (Bharatanatyam), Kelucharan Mohapatra (Odissi), Birju Maharaj (Kathak) sanitised and staged temple/folk forms.
+- **Not classical** (trap): **Chhau, Garba, Bhangra, Lavani** = folk/tribal and nOT SNA classical list.
+- **Dance-drama** category: **Kathakali, Kuchipudi, Manipuri Ras Lila, Sattriya Bhaona** and blend natya heavily.
 
 > **Exam note:** **8 classical only** — trap: "7 classical" omits **Sattriya**; trap: **Kathakali ≠ Kathak** (Kerala male vs North Indian spins).
 
 ### Exam Facts (raata)
 
 - 8 classical dances recognised by Sangeet Natak Akademi
-- Sattriya = 8th; Assam; recognised **2000**
+- Sattriya = 8th. Assam. Recognised **2000**.
 - Nritta + Nritya + Natya = three components
 - 4 abhinaya types: angika, vachika, aharya, sattvika
 - 9 rasas in Natyashastra theory
 - Lasya (grace) + Tandava (vigour)
 - Natyashastra = Bharata Muni
-- Carnatic music with south forms; Hindustani with Kathak
+- Carnatic music with south forms. Hindustani with Kathak.
 - Chhau/Garba/Bhangra = folk, NOT classical
 - Guru-shishya parampara transmission
 
@@ -161,22 +161,22 @@ UP FOCUS:
 
 ### Bharatanatyam — How It Works
 
-- **Origin**: **Tamil Nadu** — temple courts of **Chidambaram, Thanjavur, Madurai**; linked to **Nataraja** (Shiva as cosmic dancer).
-- **History**: performed as **sadir** by **devadasis** (temple dancers); **20th c. revival** by **Rukmini Devi Arundale** (Kalakshetra, 1936) — renamed Bharatanatyam, sanitised for proscenium stage.
-- **Banis (schools)**: **Pandanallur, Vazhuvoor, Thanjavur, Mellatur, Kalakshetra** — distinct stylistic emphases.
+- **Origin**: **Tamil Nadu**. Temple courts of **Chidambaram, Thanjavur, Madurai**. Linked to **Nataraja** (Shiva as cosmic dancer).
+- **History**: It was performed as **sadir** by **devadasis** (temple dancers). **Rukmini Devi Arundale** led its **20th-century revival** at **Kalakshetra (1936)**, renaming it Bharatanatyam and adapting it for the proscenium stage.
+- **Banis (schools)**: **Pandanallur, Vazhuvoor, Thanjavur, Mellatur, Kalakshetra**. Distinct stylistic emphases.
 - **Margam repertoire** (full sequence):
-  - **Alarippu** — invocatory pure dance
-  - **Jatiswaram** — nritta with swara
-  - **Shabdam** — short expressive piece with sahitya
-  - **Varnam** — centrepiece (30–45 min) — combines nritta + abhinaya
-  - **Padam/Javali** — expressive devotional/romantic
-  - **Tillana** — rhythmic finale
-- **Araimandi** (half-sit) — knees turned out, spine erect — defines geometric beauty.
-- **Nataraja pose** — classical icon reproduced in dance (chatura pose).
-- **Mudras (hastas)** — **single-hand (asamyuta)** and **double-hand (samyuta)** — 28+ single, 24+ double in Abhinaya Darpana.
-- **Music**: **Carnatic classical** — mridangam, violin, flute, cymbals (nattuvangam).
+  - **Alarippu**. Invocatory pure dance.
+  - **Jatiswaram**. Nritta with swara.
+  - **Shabdam**. Short expressive piece with sahitya.
+  - **Varnam**. Centrepiece (30–45 min). It combines nritta + abhinaya.
+  - **Padam/Javali**. Expressive devotional/romantic.
+  - **Tillana**. Rhythmic finale.
+- **Araimandi** (half-sit). Knees turned out, spine erect. It defines geometric beauty.
+- **Nataraja pose**. Classical icon reproduced in dance (chatura pose).
+- **Mudras (hastas)** includes **single-hand (asamyuta)** and **double-hand (samyuta)**. 28+ single, 24+ double in Abhinaya Darpana.
+- **Music**: **Carnatic classical**. Mridangam, violin, flute, cymbals (nattuvangam).
 - **Costume**: silk saree in **fan pleat** (davani), temple jewellery, ankle bells (ghungroo).
-- **Trap**: Bharatanatyam ≠ Bharata's Natyashastra alone — named for **Bha=Bhava, Ra=Raga, Ta=Tala, Natyam=dance** interpretation (also cited).
+- **Trap**: Bharatanatyam ≠ Bharata's Natyashastra alone. It is named for **Bha=Bhava, Ra=Raga, Ta=Tala, Natyam=dance** (also cited).
 
 > **Exam note:** **Tamil Nadu + araimandi + Nataraja + Rukmini Devi** — four-point identification.
 
@@ -184,9 +184,9 @@ UP FOCUS:
 
 - Tamil Nadu classical dance
 - Origin: temple sadir/devadasi tradition
-- Rukmini Devi Arundale revival — Kalakshetra 1936
+- **Rukmini Devi Arundale** revived Bharatanatyam in **1936** at Kalakshetra. Kalakshetra.
 - Araimandi = basic half-sit posture
-- Margam: alarippu → tillana sequence
+- **Margam: alarippu** leads to **tillana sequence**.
 - Banis: Pandanallur, Vazhuvoor, Thanjavur, Kalakshetra
 - Carnatic music accompaniment
 - Nataraja/Shiva themes dominant
@@ -227,30 +227,30 @@ UP FOCUS:
 
 ### Kathak — How It Works
 
-- **Origin**: **North India** — evolved from **katha vachak** (storytellers of epics in temples); flourished in **Mughal courts** (16th–19th c.).
-- **UP link**: **Lucknow gharana** — **Nawabi Awadh court** patronage; expressive **abhinaya**, thumri-based compositions, graceful wrist work.
-- **Jaipur gharana**: **Rajasthan** — rhythmic emphasis, complex **tatkar**, fewer abhinaya pieces, brisker tempo.
-- **Banaras gharana**: third tradition — blends Lucknow with local temple katha.
-- **Performance structure**: **tatkar** (footwork) → **thaat** (still poses) → **aamad** (entry) → **paran** (pure dance compositions) → **gat bhav** (expressive character pieces) → **thumri** → **tarana**.
-- **Chakkars**: **multiple spins** on axis — signature Kathak element; can exceed 10–15 consecutive spins.
-- **Ghungroo**: **100+ bells** on each ankle — rhythmic sound integral to composition.
-- **Costume**: ankle-length **ghagra/anarkali** (Lucknow) or **churidar-kurta** (Jaipur); dupatta.
-- **Music**: **Hindustani classical** — tabla, sarangi, harmonium, sitar.
-- **Themes**: **Krishna lila** (Raas), **Radha-Shyam**, Persian-influenced court pieces, **tarana** syllables.
-- **Legendary exponents**: **Birju Maharaj, Shambhu Maharaj, Lacchu Maharaj** (Lucknow); **Sunder Prasad, Jai Lal** (Jaipur).
-- **Trap**: Kathak ≠ Kathakali — **Kathak = North Indian spins**; **Kathakali = Kerala male makeup dance-drama**.
+- **Origin**: **Kathak** comes from **North India**. It evolved from **katha vachak** (storytellers of epics in temples) and flourished in **Mughal courts** (16th–19th c.).
+- **UP link**: The **Lucknow gharana** developed under **Nawabi Awadh court** patronage with expressive **abhinaya**, thumri-based compositions, and graceful wrist work.
+- **Jaipur gharana** (**Rajasthan**) emphasises rhythm, complex **tatkar**, fewer abhinaya pieces, and a brisker tempo.
+- **Banaras gharana** is a third tradition that blends Lucknow style with local temple katha.
+- **Performance structure** runs **tatkar** (footwork), then **thaat** (still poses), then **aamad** (entry), then **paran** (pure dance compositions), then **gat bhav** (expressive character pieces), then **thumri**, and finally **tarana**.
+- **Chakkars** are **multiple spins** on axis, a signature Kathak element that can exceed 10–15 consecutive spins.
+- **Ghungroo** carry **100+ bells** on each ankle, and their rhythmic sound is integral to the composition.
+- **Costume**: ankle-length **ghagra/anarkali** (Lucknow) or **churidar-kurta** (Jaipur), with dupatta.
+- **Music**: **Hindustani classical** accompaniment uses tabla, sarangi, harmonium, and sitar.
+- **Themes** include **Krishna lila** (Raas), **Radha-Shyam**, Persian-influenced court pieces, and **tarana** syllables.
+- **Legendary exponents** include **Birju Maharaj, Shambhu Maharaj, and Lacchu Maharaj** (Lucknow) and **Sunder Prasad and Jai Lal** (Jaipur).
+- **Trap**: **Kathak ≠ Kathakali**. **Kathak** is North Indian spins and footwork. **Kathakali** is Kerala's male makeup dance-drama.
 
 > **Exam note:** **Lucknow gharana = UP** — Nawabi courts; **Birju Maharaj + Shambhu Maharaj** = Lucknow lineage — UPPCS favourite.
 
 ### Exam Facts (raata)
 
-- North Indian classical — storytelling (katha) origin
+- **North Indian classical**. Storytelling (katha) origin.
 - Lucknow gharana = **UP** (Nawabi Awadh)
 - Jaipur gharana = Rajasthan (rhythmic)
 - Chakkars = signature spins
 - Tatkar = footwork patterns
 - Ghungroo 100+ bells per ankle
-- Hindustani music — tabla, sarangi
+- **Hindustani music**. Tabla, sarangi.
 - Mughal court patronage peak
 - Birju Maharaj, Shambhu Maharaj = Lucknow masters
 - Kathak ≠ Kathakali (Kerala)
@@ -289,21 +289,21 @@ UP FOCUS:
 
 ### Kathakali — How It Works
 
-- **Origin**: **Kerala** — evolved from **Koodiyattam, Krishnanattam, Ramanattam** (17th c.); synthesised under **Kottarakkara Thampuran**.
-- **Dance-drama**: full **natya** — enacts **Ramayana, Mahabharata, Puranas** through stylised movement; no solo abstract nritta focus.
-- **Traditionally male-only** — even female roles played by men; modern exceptions exist.
+- **Origin**: **Kerala**. It evolved from **Koodiyattam, Krishnanattam, Ramanattam** (17th c.). Synthesised under **Kottarakkara Thampuran**.
+- **Dance-drama**: full **natya**: enacts **Ramayana, Mahabharata, Puranas** through stylised movement and no solo abstract nritta focus.
+- **Traditionally male-only**. Even female roles played by men. Modern exceptions exist.
 - **Makeup codes (aharya)**:
-  - **Pacha (green)** — noble heroes (Rama, Krishna, Arjuna)
-  - **Kathi (knife, green-red)** — villainous nobles (Ravana, Duryodhana)
-  - **Kari (black)** — demons (Hiranyakashipu)
-  - **Minukku (polished)** — women, sages, Brahmins
-  - **Thadi (beard)** — red/white/black beards for specific characters
-- **Training**: **Kalaripayattu** (martial art) base — strong leg stances, centrifugal movement.
-- **Hand gestures**: **24 main mudras** — highly codified; facial expression (navarasas) paramount.
-- **Music**: **Carnatic-influenced Kerala melam** — **chenda** (drum), maddalam, chengila (gong), ilathalam (cymbals); **manipravala** (Sanskrit-Malayalam) vocal.
-- **Performance**: all-night traditionally; **kalasam** (pure dance segments) interspersed in drama.
+  - **Pacha (green)**. Noble heroes (Rama, Krishna, Arjuna).
+  - **Kathi (knife, green-red)**. Villainous nobles (Ravana, Duryodhana).
+  - **Kari (black)**. Demons (Hiranyakashipu).
+  - **Minukku (polished)**. Women, sages, Brahmins.
+  - **Thadi (beard)**. Red/white/black beards for specific characters.
+- **Training**: **Kalaripayattu** (martial art) base. Strong leg stances, centrifugal movement.
+- **Hand gestures**: **24 main mudras**. Highly codified. Facial expression (navarasas) paramount.
+- **Music**: **Carnatic-influenced Kerala melam** includes **chenda** (drum), maddalam, chengila (gong), ilathalam (cymbals). **Manipravala** (Sanskrit-Malayalam) vocal.
+- **Performance**: All-night traditionally. **Kalasam** (pure dance segments) interspersed in drama.
 - **Institutions**: **Kerala Kalamandalam** (1930, Vallathol Narayana Menon).
-- **Trap**: Kathakali ≠ Mohiniyattam — both Kerala but **Kathakali = male dance-drama**; **Mohiniyattam = female solo lasya**.
+- **Trap**: **Kathakali ≠ Mohiniyattam**. Both Kerala but **Kathakali = male dance-drama**. **Mohiniyattam = female solo lasya**.
 
 > **Exam note:** **Green makeup (pacha) = hero**; **Kerala + male + all-night Ramayana** — identification trio.
 
@@ -315,7 +315,7 @@ UP FOCUS:
 - Ramayana/Mahabharata themes
 - Kalaripayattu martial art training base
 - Chenda, maddalam percussion
-- Kerala Kalamandalam — Vallathol (1930)
+- **Kerala Kalamandalam** was founded in **1930** by Vallathol. Vallathol.
 - Evolved from Koodiyattam/Krishnanattam
 - Navarasa facial expression critical
 - Kathakali ≠ Kathak (North Indian)
@@ -354,16 +354,16 @@ UP FOCUS:
 
 ### Kuchipudi — How It Works
 
-- **Origin**: **Andhra Pradesh** — village **Kuchipudi** (Krishna district); **Brahmin male dancers** traditionally performed dance-dramas.
-- **Founder tradition**: **Siddhendra Yogi** (14th–15th c.) — established **Bhama Kalapam** and codified Kuchipudi repertoire for Brahmins.
-- **Dance-drama**: combines **natya** (theatre) with **nritta/nritya** — more theatrical than Bharatanatyam's abstract margam.
-- **Tarangam**: dancer stands/dances on **brass plate** rim while balancing pot (optional) — signature virtuosity piece.
-- **Both genders** perform today — **Yamini Krishnamurthy, Raja-Radha Reddy, Swapna Sundari** famous exponents.
-- **Repertoire**: **Jatiswaram, Shabdam, Tarangam, Padam, Tillana** — overlaps Bharatanatyam items but distinct style.
-- **Movement**: **light, quick footwork**; less extreme araimandi than Bharatanatyam; **sculptural tribhangi** influences.
-- **Music**: **Carnatic** — mridangam, violin, flute, cymbals.
-- **Costume**: **lightweight saree** (not fan pleat like Bharatanatyam); ornaments similar to south Indian temple style.
-- **Trap**: Kuchipudi ≠ Kuchipudi village only as folk — it is **fully classical SNA-recognised** form.
+- **Origin**: **Kuchipudi** comes from the village of **Kuchipudi** in **Andhra Pradesh** (Krishna district). **Brahmin male dancers** traditionally performed dance-dramas there.
+- **Founder tradition**: **Siddhendra Yogi** (14th–15th c.). Established **Bhama Kalapam** and codified Kuchipudi repertoire for Brahmins.
+- **Dance-drama**: combines **natya** (theatre) with **nritta/nritya**. More theatrical than Bharatanatyam's abstract margam.
+- **Tarangam**: dancer stands/dances on **brass plate** rim while balancing pot (optional). Signature virtuosity piece.
+- **Both genders** perform today includes **Yamini Krishnamurthy, Raja-Radha Reddy, Swapna Sundari** famous exponents.
+- **Repertoire**: **Jatiswaram, Shabdam, Tarangam, Padam, Tillana**. Overlaps Bharatanatyam items but distinct style.
+- **Movement**: **Light, quick footwork**. Less extreme araimandi than Bharatanatyam. **Sculptural tribhangi** influences.
+- **Music**: **Carnatic**. Mridangam, violin, flute, cymbals.
+- **Costume**: **Lightweight saree** (not fan pleat like Bharatanatyam). Ornaments similar to south Indian temple style.
+- **Trap**: Kuchipudi ≠ Kuchipudi village only as folk. It it is **fully classical SNA-recognised** form.
 
 > **Exam note:** **Andhra Pradesh + Tarangam (plate) + Siddhendra Yogi + Bhama Kalapam** — four-fact identification.
 
@@ -371,7 +371,7 @@ UP FOCUS:
 
 - Andhra Pradesh classical dance
 - Village Kuchipudi named origin
-- Siddhendra Yogi — Bhama Kalapam
+- **Siddhendra Yogi**. Bhama Kalapam.
 - Tarangam = plate dance (signature)
 - Dance-drama tradition (natya-heavy)
 - Carnatic music accompaniment
@@ -414,22 +414,22 @@ UP FOCUS:
 
 ### Mohiniyattam — How It Works
 
-- **Origin**: **Kerala** — developed in **temples and courts**; possible links to **Dasiattam** and **Kerala Natanam**.
-- **Lasya tradition**: soft, **graceful, swaying movements** — circular torso, gentle footwork; opposite of vigorous tandava.
-- **Mohini theme**: dances Vishnu's **feminine enchantress** form — episodes from **Bhagavata Purana**.
-- **Female solo** exclusively (traditionally) — performed by women dancers.
-- **Costume**: **white or off-white saree** with **gold border** (Kerala kasavu); minimal jewellery; ** jasmine flowers** in hair.
-- **Music**: **Carnatic/Kerala sopanam** style — **vocal-centric**; mridangam, violin, edakka (hourglass drum).
-- **Repertoire**: **Cholkettu, Jatiswaram, Varnam, Padam, Thillana, Slokam** — shorter than Bharatanatyam margam.
+- **Origin**: **Kerala**. It developed in **temples and courts**. Possible links to **Dasiattam** and **Kerala Natanam**.
+- **Lasya tradition**: soft, **graceful, swaying movements**: circular torso, gentle footwork and opposite of vigorous tandava.
+- **Mohini theme**: dances Vishnu's **feminine enchantress** form: episodes from **Bhagavata Purana**.
+- **Female solo** was performed exclusively by women dancers in the traditional form.
+- **Costume**: **White or off-white saree** with **gold border** (Kerala kasavu). Minimal jewellery. ** jasmine flowers** in hair.
+- **Music**: **Carnatic/Kerala sopanam** style includes **vocal-centric**. Mridangam, violin, edakka (hourglass drum).
+- **Repertoire**: **Cholkettu, Jatiswaram, Varnam, Padam, Thillana, Slokam**. Shorter than Bharatanatyam margam.
 - **Revival**: **Vallathol Narayana Menon** (with Kerala Kalamandalam) and **Kalamandalam Kalyanikutty Amma** standardised form.
-- **Distinct from Kathakali**: same state (Kerala) but **Mohiniyattam = solo female lasya**; **Kathakali = group male dance-drama with makeup**.
-- **Trap**: Mohiniyattam ≠ Odissi — both lasya but **Mohiniyattam = Kerala white saree**; **Odissi = Odisha tribhangi**.
+- **Distinct from Kathakali**: Same state (Kerala) but **Mohiniyattam = solo female lasya**. **Kathakali = group male dance-drama with makeup**.
+- **Trap**: **Mohiniyattam ≠ Odissi**. Both lasya but **Mohiniyattam = Kerala white saree**. **Odissi = Odisha tribhangi**.
 
 > **Exam note:** **Kerala has TWO classical dances** — Kathakali (male drama) + Mohiniyattam (female solo) — most-tested Kerala trap.
 
 ### Exam Facts (raata)
 
-- Kerala classical — female solo lasya
+- **Kerala classical**. Female solo lasya.
 - Mohini (Vishnu enchantress) avatar theme
 - White-gold kasavu saree costume
 - Soft circular swaying movements
@@ -474,17 +474,17 @@ UP FOCUS:
 
 ### Odissi — How It Works
 
-- **Origin**: **Odisha** — **Jagannath Puri** temple tradition; performed by **maharis** (female temple dancers/devadasis) and **gotipua** (boy dancers).
-- **Gotipua tradition**: boys dressed as females performed outside temples — acrobatic; **Kelucharan Mohapatra, Pankaj Charan Das** studied gotipua to revive Odissi.
-- **Tribhangi**: body in **three deflections** — head tilt, torso curve, hip shift — creates S-curve sculpture (like Konark temple figures).
-- **Chauka**: **square stance** — knees bent outward (similar to araimandi but wider) — foundational position.
-- **Repertoire**: **Mangalacharan, Battu, Pallavi, Abhinaya (padam), Moksha** — opens with Jagannath invocation.
+- **Origin**: **Odisha**. **Jagannath Puri** temple tradition. Performed by **maharis** (female temple dancers/devadasis) and **gotipua** (boy dancers).
+- **Gotipua tradition**: Boys dressed as females performed outside temples. Acrobatic. **Kelucharan Mohapatra, Pankaj Charan Das** studied gotipua to revive Odissi.
+- **Tribhangi**: body in **three deflections**: head tilt, torso curve, hip shift. Creates S-curve sculpture (like Konark temple figures).
+- **Chauka**: **square stance**. Knees bent outward (similar to araimandi but wider). Foundational position.
+- **Repertoire**: **Mangalacharan, Battu, Pallavi, Abhinaya (padam), Moksha**. Opens with Jagannath invocation.
 - **Themes**: **Jagannath/Krishna, Radha, Gita Govinda** (Jayadeva), **Shiva-Parvati**.
-- **Music**: **Carnatic-Odia hybrid** — mardala (pakhawaj-type drum), flute, sitar, manjira.
-- **Costume**: **pattasari** (printed silk saree); **silver jewellery** (headpiece, armlets, belt); **alaka** (forehead white design).
-- **Revival**: **Kelucharan Mohapatra, Sanjukta Panigrahi, Sonal Mansingh** — 20th c. reconstruction from sculpture/temple evidence.
-- **Konark Sun Temple sculptures** — primary evidence for historical Odissi poses.
-- **Trap**: Odissi ≠ Bharatanatyam — both temple origin but **Odissi = tribhangi + Odisha**; **Bharatanatyam = araimandi + Tamil Nadu**.
+- **Music**: **Carnatic-Odia hybrid**. Mardala (pakhawaj-type drum), flute, sitar, manjira.
+- **Costume**: **Pattasari** (printed silk saree). **Silver jewellery** (headpiece, armlets, belt). **Alaka** (forehead white design).
+- **Revival**: **Kelucharan Mohapatra, Sanjukta Panigrahi, Sonal Mansingh** includes 20th c. reconstruction from sculpture/temple evidence.
+- **Konark Sun Temple sculptures**. Primary evidence for historical Odissi poses.
+- **Trap**: **Odissi ≠ Bharatanatyam**. Both temple origin but **Odissi = tribhangi + Odisha**. **Bharatanatyam = araimandi + Tamil Nadu**.
 
 > **Exam note:** **Tribhangi + Gotipua + Jagannath Puri + Odisha** — four-point Odissi identification.
 
@@ -535,17 +535,17 @@ UP FOCUS:
 
 ### Manipuri — How It Works
 
-- **Origin**: **Manipur** (Northeast) — Vaishnavite Hindu tradition merged with **indigenous Meitei** culture.
-- **Ras Lila**: circular **Krishna-gopi** dance drama performed in **mandala** formation — soft, lyrical, devotional; no harsh stamping.
-- **Movement quality**: **soft, rounded, flowing** — no sharp angles; **feet never strike hard** (unlike Kathak).
+- **Origin**: **Manipur** (Northeast). Vaishnavite Hindu tradition merged with **indigenous Meitei** culture.
+- **Ras Lila**: Circular **Krishna-gopi** dance drama performed in **mandala** formation. Soft, lyrical, devotional. No harsh stamping.
+- **Movement quality**: **Soft, rounded, flowing**. No sharp angles. **Feet never strike hard** (unlike Kathak).
 - **Costume**: **white dhoti** (male Krishna), **potloi** (radial skirt for gopis), **veil**, **crown** (male).
-- **Pung cholom**: **drum dance** — dancer plays pung while dancing — virtuoso item.
-- **Sankirtan**: devotional singing-drumming tradition — prelude to Ras Lila performances.
-- **Lai Haraoba**: **pre-Hindu Meitei** festival dance — indigenous roots of Manipuri (brief — folk-tribal overlap).
+- **Pung cholom**: **drum dance**. Dancer plays pung while dancing. Virtuoso item.
+- **Sankirtan**: devotional singing-drumming tradition: prelude to Ras Lila performances.
+- **Lai Haraoba**: **pre-Hindu Meitei** festival dance. Indigenous roots of Manipuri (brief. Folk-tribal overlap).
 - **Themes**: **Krishna bhakti** (Ras Lila, Gita Govinda), **Nataraja**, **Pung cholom**.
-- **Music**: **manipuri classical** — pung, pena (fiddle), flute, kartal (cymbals).
+- **Music**: **manipuri classical**. Pung, pena (fiddle), flute, kartal (cymbals).
 - **Institutions**: **Jawaharlal Nehru Manipuri Dance Academy, Imphal**.
-- **Trap**: Manipuri Ras Lila ≠ Braj Raslila (UP folk) — **Manipuri = classical NE**; **Braj Raslila = UP folk theatre**.
+- **Trap**: **Manipuri Ras Lila ≠ Braj Raslila (UP folk)** includes **Manipuri = classical NE**. **Braj Raslila = UP folk theatre**.
 
 > **Exam note:** **Manipur + Ras Lila + white costume + soft movement** — distinguish from vigorous Kathak.
 
@@ -555,7 +555,7 @@ UP FOCUS:
 - Ras Lila = Krishna-gopi circular dance
 - Soft, lyrical movement (no hard foot stamping)
 - White dhoti/potloi costume
-- Pung = barrel drum; Pung cholom = drum dance
+- Pung = barrel drum. Pung cholom = drum dance.
 - Sankirtan devotional tradition
 - Vaishnavite + Meitei indigenous fusion
 - Lai Haraoba = indigenous precursor festival
@@ -596,16 +596,16 @@ UP FOCUS:
 
 ### Sattriya — How It Works
 
-- **Origin**: **Assam** — **15th–16th c.** **Srimanta Sankaradeva** (1449–1568) created **Sattriya** as part of **Bhakti movement** in Vaishnavite satras.
-- **Classical recognition**: **Sangeet Natak Akademi recognised Sattriya as 8th classical dance in 2000** — latest addition to the canon.
-- **Satra institution**: **monastery** where **bhokots** (male monk-dancers) trained — **celibate male performers** traditionally.
-- **Repertoire**: **Jhumura, Nadu Bhangi, Chali, Sutradhari, Gopi Prabesh** — items with Vaishnavite themes.
-- **Ankiya Nat / Bhaona**: one-act **dance-dramas** — **Cihna Yatra** (first Bhaona, 1468) by Sankaradeva; Krishna-Radha, Rama stories.
-- **Movement**: **rounded arm positions**, **feet positions** (similar to manipuri softness); **anchored in devotion** not virtuosity display.
+- **Origin**: **Assam**. **15th–16th c.** **Srimanta Sankaradeva** (1449–1568) created **Sattriya** as part of **Bhakti movement** in Vaishnavite satras.
+- **Classical recognition**: **Sangeet Natak Akademi recognised Sattriya as 8th classical dance in 2000**. Latest addition to the canon.
+- **monastery** where **bhokots** (male monk-dancers) trained.
+- **Repertoire**: **Jhumura, Nadu Bhangi, Chali, Sutradhari, Gopi Prabesh**. Items with Vaishnavite themes.
+- **Ankiya Nat / Bhaona**: **One-act dance-dramas** began with **Cihna Yatra** in **1468** (the first Bhaona) by Sankaradeva, telling Krishna-Radha and Rama stories.
+- **Movement**: **Rounded arm positions**, **feet positions** (similar to manipuri softness). **Anchored in devotion** not virtuosity display.
 - **Music**: **Borgeet** (Sankaradeva's devotional songs), **khol** (drum), **cymbals**, **flute**.
-- **Costume**: **white dhoti, uttariya** (shawl), **jewellery** for character roles; **Krishna crown** for divine roles.
-- **Modern expansion**: female dancers perform today; **Sattriya Nritya** staged nationally post-2000 recognition.
-- **Trap**: Sattriya ≠ Sattra folk dance only — it is **fully recognised 8th classical** since 2000.
+- **Costume**: **White dhoti, uttariya** (shawl), **jewellery** for character roles. **Krishna crown** for divine roles.
+- **Modern expansion**: Female dancers perform today. **Sattriya Nritya** staged nationally post-2000 recognition.
+- **Trap**: Sattriya ≠ Sattra folk dance only. It it is **fully recognised 8th classical** since 2000.
 
 > **Exam note:** **Assam + Sankaradeva + satra + recognised 2000** — four facts for Sattriya.
 
@@ -655,7 +655,7 @@ UP FOCUS:
 
 ### Folk Dances — How It Works
 
-- **Folk dances** emerge from **rural/community traditions** — harvest, weddings, festivals — **not SNA classical canon**.
+- **Folk dances** emerge from **rural/community traditions**. Harvest, weddings, festivals.
 - **Complete high-yield folk dance list** (exam):
 
   | Dance | State/Region | Occasion/Feature |
@@ -682,29 +682,29 @@ UP FOCUS:
   | **Ottamthullal** | Kerala | Satirical folk performance |
 
 - **UP folk dances** (exam priority):
-  - **Raslila** — **Mathura-Vrindavan** Braj; Krishna-Radha folk theatre; overlaps devotion + performance
-  - **Nautanki** — **Gangetic UP**; folk opera with dance, music, drama; semi-historical stories
-  - **Chholiya** — **Kumaon region** (UP/Uttarakhand); sword/staff wedding procession dance
-  - **Charkula/Mayur Nritya** — Braj; dancer balances lamps (charkula) or peacock costume
-  - **Kajari** — song-dance tradition of **Varanasi/UP monsoon** (adjacent to folk)
+  - **Raslila** includes **Mathura-Vrindavan** Braj. Krishna-Radha folk theatre. Overlaps devotion + performance.
+  - **Nautanki** includes **Gangetic UP**. Folk opera with dance, music, drama. Semi-historical stories.
+  - **Chholiya** includes **Kumaon region** (UP/Uttarakhand). Sword/staff wedding procession dance.
+  - **Charkula/Mayur Nritya**. Braj. Dancer balances lamps (charkula) or peacock costume.
+  - **Kajari**. Song-dance tradition of **Varanasi/UP monsoon** (adjacent to folk).
 
-- **Folk vs classical trap**: **Garba, Bhangra ≠ classical** — community festival dances.
-- **Folk vs tribal**: folk = **regional peasant/community**; tribal = **indigenous adivasi** ritual (see §6.11).
+- **Folk vs classical trap**: **Garba, Bhangra ≠ classical**. Community festival dances.
+- **Folk vs tribal**: Folk = **regional peasant/community**. Tribal = **indigenous adivasi** ritual (see §6.11).
 
 > **Exam note:** **Raslila + Nautanki = UP** — trap: Raslila Manipuri classical Ras Lila vs **Braj folk Raslila**.
 
 ### Exam Facts (raata)
 
-- Folk = community/regional; NOT SNA classical
+- Folk = community/regional. NOT SNA classical.
 - Bhangra/Giddha = Punjab harvest
 - Garba/Dandiya = Gujarat Navratri
-- Lavani = Maharashtra; Ghoomar = Rajasthan
-- Bihu = Assam; Rouf = Kashmir
+- Lavani = Maharashtra. Ghoomar = Rajasthan.
+- Bihu = Assam. Rouf = Kashmir.
 - Chhau = mask martial (Jharkhand/WB/Bihar)
 - **Raslila = UP Braj** (Mathura-Vrindavan)
 - **Nautanki = UP** folk theatre-dance
 - **Chholiya = Kumaon** wedding dance
-- Kalbelia = Rajasthan; UNESCO intangible
+- Kalbelia = Rajasthan. UNESCO intangible.
 
 ### PYQs — Folk Dances
 
@@ -739,7 +739,7 @@ UP FOCUS:
 
 ### Tribal Dances — How It Works
 
-- **Tribal dances** belong to **indigenous communities (adivasi)** — distinct from regional folk of settled peasant society.
+- **Tribal dances** belong to **indigenous communities (adivasi)**. Distinct from regional folk of settled peasant society.
 - **Complete high-yield tribal dance list**:
 
   | Dance | Tribe/Region | Feature |
@@ -760,17 +760,17 @@ UP FOCUS:
   | **Juang dance** | Odisha | Juang tribe |
   | **Bihu (tribal variant)** | Assam tribes | Community celebration |
 
-- **Cheraw (Mizoram)**: dancers step **between clashing bamboo poles** — requires precise timing; most photographed tribal dance.
-- **Santhal**: **Jharkhand's largest tribe** — **Karam festival** dance around sacred sal tree; **Sohrai** harvest dance.
-- **Gaur Maria**: **Bastar** region; dancers wear **bison horns** — mimics bison hunt ritual.
+- **Cheraw (Mizoram)**: Dancers step **between clashing bamboo poles**. It requires precise timing. Most photographed tribal dance.
+- **Santhal**: **Jharkhand's largest tribe** includes **Karam festival** dance around sacred sal tree. **Sohrai** harvest dance.
+- **Gaur Maria**: **Bastar** region. Dancers wear **bison horns**. Mimics bison hunt ritual.
 - **UP tribal focus**:
-  - **Tharu tribe** — **Terai belt** (Bahraich, Lakhimpur Kheri, Pilibhit districts); **stick dances**, nature worship
-  - **Buksa, Raji** — **Uttarakhand/UP border** tribal communities
-  - **Sahariya** — border regions; ritual dances
+  - **Tharu tribe**. **Terai belt** (Bahraich, Lakhimpur Kheri, Pilibhit districts). **Stick dances**, nature worship.
+  - **Buksa, Raji** includes **Uttarakhand/UP border** tribal communities.
+  - **Sahariya**. Border regions. Ritual dances.
 
-- **Tribal vs folk**: tribal = **adivasi indigenous identity**; folk = **broader regional peasant community** (overlap exists — Chhau, Bihu).
-- **UNESCO intangible**: some tribal/folk forms listed — **Kalbelia (Rajasthan)**, **Chhau (2010)**, **Buddhist chanting Ladakh**.
-- **Trap**: **Cheraw = Mizoram** (not Manipur); **Santhal = Jharkhand** (not UP primarily).
+- **Tribal vs folk**: Tribal = **adivasi indigenous identity**. Folk = **broader regional peasant community** (overlap exists: chhau, Bihu).
+- **UNESCO intangible**: some tribal/folk forms listed. **Kalbelia (Rajasthan)**, **Chhau (2010)**, **Buddhist chanting Ladakh**.
+- **Trap**: **Cheraw = Mizoram** (not Manipur). **Santhal = Jharkhand** (not UP primarily).
 
 > **Exam note:** **Tharu dance = UP Terai** — positive UP geography; **Cheraw bamboo = Mizoram** — negative trap if placed in UP.
 
@@ -778,7 +778,7 @@ UP FOCUS:
 
 - Tribal = adivasi indigenous ritual/community dances
 - Cheraw = Mizoram bamboo dance
-- Santhal = Jharkhand/WB; Karam festival
+- Santhal = Jharkhand/WB. Karam festival.
 - Gaur Maria = Bastar bison-horn dance
 - Dhimsa = AP/Odisha hill tribes
 - **Tharu dance = UP Terai** (Bahraich, Pilibhit belt)

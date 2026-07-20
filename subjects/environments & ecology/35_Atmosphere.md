@@ -101,16 +101,16 @@ UP (troposphere relevance):
 
 ### Structure of the Atmosphere — How It Works
 
-- Earth's atmosphere is **not uniform** — it is organised into **concentric layers** based primarily on **vertical temperature profile** (how temperature changes with height).
-- **Gravity** holds gases close to Earth — **99% of atmospheric mass** lies within **~32 km** of the surface, even though thin gases extend thousands of kilometres into space.
+- Earth's atmosphere is **not uniform**. It is organised into **concentric layers** based primarily on the **vertical temperature profile** (how temperature changes with height).
+- **Gravity** holds gases close to Earth, so **99% of atmospheric mass** lies within **~32 km** of the surface, even though thin gases extend thousands of kilometres into space.
 - The atmosphere performs **four life-support functions**: supplies **O₂** for respiration, traps heat via **greenhouse effect** (troposphere), blocks harmful **UV** via stratospheric ozone, and enables the **hydrological cycle** (evaporation–condensation in troposphere).
-- **Structure is classified two ways** in NCERT: **(1) by temperature** — troposphere, stratosphere, mesosphere, thermosphere, exosphere; **(2) by composition** — **homosphere** (uniform mix, 0–~80 km) and **heterosphere** (gases separated by atomic weight above ~80 km).
-- **Pressure decreases exponentially** with height — at sea level ~**1013.25 mb (1 atm)**; at **Mount Everest summit (~8.8 km)** pressure is roughly **one-third** of sea level — why climbers need oxygen.
-- **Air density decreases** with altitude — at thermosphere, molecules are far apart despite high kinetic temperature; you would **not feel hot** there because too few collisions transfer heat.
-- **Atmospheric heating is indirect**: Sun sends **shortwave** radiation through the atmosphere → **Earth's surface absorbs** and warms → surface emits **longwave (infrared) terrestrial radiation** → **lower atmosphere heated from below** — **2022 Q138 answer = long-wave terrestrial radiation**.
-- **Lapse rate** in troposphere: average **6.5°C per 1000 m** (environmental lapse rate) — explains why hill stations are cooler and why **Himalayan peaks** are permanently frozen despite sunlight.
-- **Pauses (tropopause, stratopause, mesopause)** are thin transition zones where temperature trend **reverses** — exam matching questions use these boundaries.
-- **UP relevance**: Cities on the **Indo-Gangetic Plain** (Kanpur, Lucknow, Ghaziabad, Varanasi) sit in the **troposphere's lowest, densest air** — pollution and winter **temperature inversion** (cold air trapped below warm layer) worsen AQI because mixing height collapses.
+- **Structure is classified two ways** in NCERT: **(1) by temperature** into troposphere, stratosphere, mesosphere, thermosphere, and exosphere, and **(2) by composition** into the **homosphere** (uniform mix, 0–~80 km) and **heterosphere** (gases separated by atomic weight above ~80 km).
+- **Pressure decreases exponentially** with height. At sea level it is ~**1013.25 mb (1 atm)**, while at the **Mount Everest summit (~8.8 km)** pressure is roughly **one-third** of sea level, which is why climbers need oxygen.
+- **Air density decreases** with altitude. In the thermosphere, molecules are far apart despite high kinetic temperature, and you would **not feel hot** there because too few collisions transfer heat.
+- **Atmospheric heating is indirect**: The Sun sends **shortwave** radiation through the atmosphere, **Earth's surface absorbs** and warms, and the surface emits **longwave (infrared) terrestrial radiation** that heats the **lower atmosphere from below**. **2022 Q138 answer = long-wave terrestrial radiation**.
+- **Lapse rate** in the troposphere averages **6.5°C per 1000 m** (environmental lapse rate). This explains why hill stations are cooler and why **Himalayan peaks** stay permanently frozen despite sunlight.
+- **Pauses (tropopause, stratopause, mesopause)** are thin transition zones where the temperature trend **reverses**. Exam matching questions often use these boundaries.
+- **UP relevance**: Cities on the **Indo-Gangetic Plain** (Kanpur, Lucknow, Ghaziabad, Varanasi) sit in the **troposphere's lowest, densest air**. Pollution and winter **temperature inversion** (cold air trapped below a warm layer) worsen AQI because mixing height collapses.
 
 > **Exam note:** "Earth's atmosphere is mainly heated by direct shortwave solar radiation" = **FALSE** — surface heats air via **longwave terrestrial radiation** (2022 Q138).
 
@@ -168,17 +168,17 @@ UP (troposphere relevance):
 
 ### Atmospheric Composition — How It Works
 
-- **Permanent gases** (N₂, O₂, Ar) have **stable proportions** in the **homosphere** (surface to ~80 km) due to **turbulent mixing** by weather — ratios stay nearly constant with height in this zone.
+- **Permanent gases** (N₂, O₂, Ar) have **stable proportions** in the **homosphere** (surface to ~80 km) because **turbulent mixing** by weather keeps ratios nearly constant with height in this zone.
 - **Variable gases** change by **time, place, and human activity**: **water vapour** (0–4%), **CO₂** (rising from ~280 ppm pre-industrial to **420+ ppm**), **methane**, **ozone**, **nitrous oxide**, **aerosols/dust**.
-- **Nitrogen (N₂) ~78%** — chemically relatively inert; essential for **nitrogen cycle** via bacteria (not directly breathed); **N₂ itself is NOT a greenhouse gas** — trap: confuse with **N₂O (nitrous oxide)** which IS a potent GHG.
-- **Oxygen (O₂) ~21%** — supports **aerobic respiration** and **combustion**; produced mainly by **photosynthesis**; slight local variation possible but global proportion stable.
-- **Argon (Ar) ~0.93%** — noble gas from **radioactive decay** of potassium in crust; inert.
-- **Carbon dioxide (CO₂) ~0.04%** — natural GHG; **controls Earth's heat budget** with water vapour; anthropogenic burning of fossil fuels raises concentration — detailed carbon cycle in Topic 34.
-- **Water vapour** — most abundant **variable** gas; strongest **natural greenhouse gas** by volume in troposphere; condenses into clouds; decreases sharply above troposphere.
-- **Ozone (O₃)** — trace gas overall but critical; **maximum concentration in stratosphere** (ozonosphere ~15–35 km) — blocks UV-B/C; small amounts in troposphere act as pollutant.
-- **Aerosols** (dust, sea salt, soot, pollen) — not gases but suspended particles; cause **light diffusion/scattering** (blue sky, red sunset) — **2021 Q134: diffusion due to dust particles**.
-- **Homosphere vs heterosphere**: Below ~80 km gases are **well mixed**; above ~80 km (**heterosphere**) lighter gases (H, He) rise to top, heavier (N₂, O₂) concentrate lower — composition varies by height.
-- **UP exam trap**: **"Nitrogen oxide is a naturally occurring greenhouse gas like CO₂"** — NO/NO₂ are pollutants; the major natural GHGs among options are **CO₂, CH₄, O₃** — **2020 Q139: NOT a GHG = Nitrogen oxide**.
+- **Nitrogen (N₂) ~78%** is chemically relatively inert and essential for the **nitrogen cycle** via bacteria (not directly breathed). **N₂ itself is NOT a greenhouse gas**. Do not confuse it with **N₂O (nitrous oxide)**, which IS a potent GHG.
+- **Oxygen (O₂) ~21%** supports **aerobic respiration** and **combustion**, is produced mainly by **photosynthesis**, and shows slight local variation but a stable global proportion.
+- **Argon (Ar) ~0.93%** is a noble gas from **radioactive decay** of potassium in the crust and is chemically inert.
+- **Carbon dioxide (CO₂) ~0.04%** is a natural GHG that **controls Earth's heat budget** with water vapour. Anthropogenic burning of fossil fuels raises its concentration, as detailed in Topic 34.
+- **Water vapour** is the most abundant **variable** gas and the strongest **natural greenhouse gas** by volume in the troposphere. It condenses into clouds and decreases sharply above the troposphere.
+- **Ozone (O₃)** is a trace gas overall but critical. Its **maximum concentration is in the stratosphere** (ozonosphere ~15–35 km), where it blocks UV-B/C, while small amounts in the troposphere act as a pollutant.
+- **Aerosols** (dust, sea salt, soot, pollen) are not gases but suspended particles that cause **light diffusion/scattering** (blue sky, red sunset), as in **2021 Q134: diffusion due to dust particles**.
+- **Homosphere vs heterosphere**: Below ~80 km gases are **well mixed**. Above ~80 km in the **heterosphere**, lighter gases (H, He) rise to the top while heavier gases (N₂, O₂) concentrate lower, so composition varies by height.
+- **UP exam trap**: The statement **"Nitrogen oxide is a naturally occurring greenhouse gas like CO₂"** is false. NO/NO₂ are pollutants, while the major natural GHGs among options are **CO₂, CH₄, and O₃**. **2020 Q139: NOT a GHG = Nitrogen oxide**.
 
 > **Exam note:** **N₂ = 78%** but **not a GHG**. **N₂O** = GHG. **2020 Q139** trap: Nitrogen oxide ≠ major natural greenhouse gas like CO₂/CH₄/O₃.
 
@@ -202,8 +202,8 @@ UP (troposphere relevance):
 - **CO₂ ~0.04%** but major climate driver
 - **Water vapour** = most important variable GHG in troposphere
 - **Homosphere** = uniform mix to **~80 km**
-- **N₂ is not a greenhouse gas**; **N₂O is**
-- **Dust/aerosols** scatter sunlight — blue sky phenomenon
+- **N₂ is not a greenhouse gas**, but **N₂O is**.
+- **Dust and aerosols** scatter sunlight, producing the blue sky phenomenon.
 - O₃ maximum in **stratosphere**, not overall atmosphere bulk percentage
 
 ### PYQs — Atmospheric Composition
@@ -244,16 +244,16 @@ UP (troposphere relevance):
 
 ### Atmospheric Layers — How It Works
 
-- Layers are defined by **temperature behaviour**, not just distance — this is why **stratosphere gets warmer** going up (ozone absorbs UV) while **troposphere gets colder**.
-- **Tropopause** (~8 km poles, ~16–18 km equator): temperature stops decreasing — marks troposphere–stratosphere boundary; **jet streams** often flow near tropopause.
-- **Stratosphere** (~12–50 km): contains **ozonosphere**; **isothermal then increasing** temperature profile; **stable, dry, no weather** — commercial jets fly lower stratosphere to avoid turbulence.
+- Layers are defined by **temperature behaviour**, not just distance. That is why the **stratosphere gets warmer** going up (ozone absorbs UV) while the **troposphere gets colder**.
+- **Tropopause** (~8 km at poles, ~16–18 km at equator) is where temperature stops decreasing and marks the troposphere–stratosphere boundary. **Jet streams** often flow near the tropopause.
+- **Stratosphere** (~12–50 km) contains the **ozonosphere**, shows an **isothermal then increasing** temperature profile, and is **stable, dry, and weather-free**. Commercial jets fly in the lower stratosphere to avoid turbulence.
 - **Stratopause** (~50 km): temperature peak (~0°C to -2°C) before mesosphere cooling begins.
-- **Mesosphere** (~50–85 km): **temperature falls** to **~–90°C at mesopause** — **coldest atmospheric region**; **meteors burn up** here due to friction with dense (for that altitude) air.
-- **Thermosphere** (~85–600 km): absorbs **extreme UV and X-rays** — temperature can exceed **1000°C** but **density so low** that a thermometer would read cold; **auroras** (Borealis/Australis) occur here.
-- **Ionosphere** (overlaps thermosphere/mesosphere top): **ionized particles** reflect **AM radio waves** — enables long-distance communication; disturbed during solar storms.
-- **Exosphere** (~600–10,000 km): **outer fringe** — hydrogen and helium **escape** to space; merges imperceptibly with **interplanetary medium**; **geostationary satellites** (~36,000 km) orbit here.
-- **Composition split**: **Homosphere** includes troposphere, stratosphere, mesosphere, lower thermosphere; **heterosphere** begins ~80 km where **molecular weight sorting** dominates.
-- **Exam integration**: Questions rarely ask obscure km values — they test **layer ↔ phenomenon** matching (weather–troposphere; ozone–stratosphere; meteors–mesosphere; aurora–thermosphere).
+- **Mesosphere** (~50–85 km) sees **temperature fall** to **~–90°C at mesopause**, making it the **coldest atmospheric region**. **Meteors burn up** here due to friction with dense (for that altitude) air.
+- **Thermosphere** (~85–600 km) absorbs **extreme UV and X-rays**, so temperature can exceed **1000°C**, but **density is so low** that a thermometer would read cold. **Auroras** (Borealis/Australis) occur here.
+- **Ionosphere** (overlaps thermosphere/mesosphere top) contains **ionized particles** that reflect **AM radio waves** and enable long-distance communication. It is disturbed during solar storms.
+- **Exosphere** (~600–10,000 km) is the **outer fringe** where hydrogen and helium **escape** to space, merges imperceptibly with the **interplanetary medium**, and hosts **geostationary satellites** (~36,000 km).
+- **Composition split**: The **homosphere** includes troposphere, stratosphere, mesosphere, and lower thermosphere, while the **heterosphere** begins ~80 km where **molecular weight sorting** dominates.
+- **Exam integration**: Questions rarely ask obscure km values. They test **layer-to-phenomenon** matching such as weather in the troposphere, ozone in the stratosphere, meteors in the mesosphere, and aurora in the thermosphere.
 
 > **Exam note:** "Temperature always decreases with altitude in the atmosphere" = **FALSE** — stratosphere and thermosphere **warm** with height.
 
@@ -272,8 +272,8 @@ UP (troposphere relevance):
 - Five thermal layers: **T-S-M-T-E**
 - **Tropopause** = troposphere–stratosphere boundary
 - **Mesopause** = coldest point (~–90°C)
-- **Ionosphere** = radio wave reflection; solar storm effects
-- **Homosphere** ends ~**80 km**; **heterosphere** above
+- The **ionosphere** reflects radio waves and is affected by solar storms.
+- The **homosphere** ends at ~**80 km**, and the **heterosphere** lies above.
 - Jet streams near **tropopause**
 - Geostationary satellites in **exosphere** (~36,000 km)
 
@@ -312,16 +312,16 @@ UP (troposphere relevance):
 
 ### Troposphere — How It Works
 
-- **Troposphere** = **"tropos" (turning/change)** — named for **constant mixing** and **weather change**; contains **~75% of atmospheric mass** and **virtually all water vapour**.
-- **Height varies with latitude**: **Thicker at equator (16–18 km)** due to strong convection; **thinner at poles (~8 km)** — UP at ~26°N has tropopause roughly **~16 km**.
-- **Environmental lapse rate** averages **6.5°C per 1000 m** — air rises, expands, cools adiabatically — explains **Himalayan snow line** and cooler hill stations (Mussoorie, Nainital near UP border).
-- **All weather phenomena** — clouds, rain, snow, thunderstorms, cyclones, fog, smog — occur **only here**; stratosphere is weather-free.
-- **Convection dominates** heat transfer: warm surface air rises (low pressure), cool air sinks (high pressure) — drives **monsoon**, **westerlies**, and **local breezes**.
-- **Tropopause** caps troposphere — acts as **inversion lid**; below it water vapour condenses; above it air is extremely dry.
-- **Air pollution concentrates here** — PM2.5, SO₂, NOx, tropospheric O₃ from photochemical smog; **CPCB AQI** measures ground-level (tropospheric) quality.
-- **UP hotspots**: **Kanpur, Ghaziabad, Lucknow, Noida, Varanasi, Agra** frequently rank among India's worst **tropospheric PM2.5** — Indo-Gangetic Plain geography traps pollutants in winter **temperature inversion**.
-- **Temperature inversion**: cold air near surface, warm air above — **suppresses vertical mixing** — pollution accumulates; common in UP **December–January** mornings.
-- **Biosphere interface**: Most plants and animals live within **~6 km** of surface — well inside troposphere; aligns with biosphere vertical limits in Topic 1.
+- **Troposphere** means **"tropos" (turning/change)** and is named for **constant mixing** and **weather change**. It contains **~75% of atmospheric mass** and **virtually all water vapour**.
+- **Height varies with latitude**: The troposphere is **thicker at the equator (16–18 km)** due to strong convection and **thinner at poles (~8 km)**. UP at ~26°N has a tropopause roughly **~16 km**.
+- **Environmental lapse rate** averages **6.5°C per 1000 m** as air rises, expands, and cools adiabatically. This explains the **Himalayan snow line** and cooler hill stations (Mussoorie, Nainital near UP border).
+- **All weather phenomena** such as clouds, rain, snow, thunderstorms, cyclones, fog, and smog occur **only here**. The stratosphere is weather-free.
+- **Convection dominates** heat transfer as warm surface air rises (low pressure) and cool air sinks (high pressure). This drives the **monsoon**, **westerlies**, and **local breezes**.
+- **Tropopause** caps the troposphere and acts as an **inversion lid**. Below it water vapour condenses, while above it air is extremely dry.
+- **Air pollution concentrates here**, including PM2.5, SO₂, NOx, and tropospheric O₃ from photochemical smog. **CPCB AQI** measures ground-level (tropospheric) quality.
+- **UP hotspots**: **Kanpur, Ghaziabad, Lucknow, Noida, Varanasi, and Agra** frequently rank among India's worst **tropospheric PM2.5** because Indo-Gangetic Plain geography traps pollutants in winter **temperature inversion**.
+- **Temperature inversion** places cold air near the surface and warm air above, which **suppresses vertical mixing** and lets pollution accumulate. It is common in UP **December–January** mornings.
+- **Biosphere interface**: Most plants and animals live within **~6 km** of the surface, well inside the troposphere, which aligns with biosphere vertical limits in Topic 1.
 
 > **Exam note:** "Clouds can form in the stratosphere during normal weather" = **FALSE** — insufficient water vapour above tropopause.
 
@@ -337,7 +337,7 @@ UP (troposphere relevance):
 
 ### Exam Facts (raata)
 
-- **Lowest layer** — all weather here
+- **Lowest layer** where all weather occurs.
 - Thickness: **~8 km (poles) to ~18 km (equator)**
 - Lapse rate ≈ **6.5°C/km**
 - Contains **~75% atmospheric mass**
@@ -379,16 +379,16 @@ UP (troposphere relevance):
 
 ### Stratosphere — How It Works
 
-- **Stratosphere** sits **above tropopause (~12 km)** to **stratopause (~50 km)** — **"strato" = layered** — stable horizontal layering inhibits vertical convection.
-- **Ozonosphere** (~15–35 km within stratosphere) holds **maximum ozone (O₃) concentration** — though O₃ is still only **~10 ppm** at peak, it absorbs **UV-B and UV-C** — **2018 Q52, 2023 Q52 direct UPPCS questions**.
-- **Ozone formation**: **O₂ + UV → O + O**; **O + O₂ → O₃** — continuous **photochemical equilibrium**; **UV radiation from Sun** drives reaction — **2018 Q55: UV produces O₃**.
-- **Temperature inversion within stratosphere**: ozone absorbs UV → converts to heat → **temperature rises** from **~–56°C at tropopause** to **~0°C at stratopause** — opposite trend to troposphere.
-- **No weather**: virtually **no water vapour**, no clouds (except rare **polar stratospheric clouds** during ozone hole events over Antarctica) — commercial aviation prefers this calm layer.
-- **Ozone protects life**: blocks **UV-B** (skin cancer, cataracts) and **UV-C** (lethal to most life) — **2025 Q45 Statement 1: ozone layer protects Earth from UV = TRUE**.
-- **Ozone depletion**: **CFCs/ODS** release **chlorine** in stratosphere → catalytic O₃ destruction → **ozone hole** (Antarctica spring) — **2025 Q45 Statement 2: linked to CFCs = TRUE** — full Montreal/Vienna detail in Topic 36.
-- **Volcanic eruptions** (e.g., Pinatubo 1991) inject **sulphate aerosols** into stratosphere — can **cool global surface** temporarily by reflecting sunlight.
-- **Trap**: Pair **"Ozone layer – Troposphere"** is **NOT correctly matched** — **2018 Q57** — ozone **maximum** is **stratosphere**; tropospheric ozone is harmful pollutant, not the UV shield.
-- **Jet streams** sometimes discussed near **tropopause–stratosphere boundary** — high-speed winds affect **monsoon onset**, aviation routes over India.
+- **Stratosphere** sits **above tropopause (~12 km)** to **stratopause (~50 km)**. **"Strato" means layered**, and stable horizontal layering inhibits vertical convection.
+- **Ozonosphere** (~15–35 km within stratosphere) holds **maximum ozone (O₃) concentration**. Though O₃ is still only **~10 ppm** at peak, it absorbs **UV-B and UV-C**, as tested in **2018 Q52 and 2023 Q52**.
+- **Ozone formation** follows **O₂ + UV giving O + O** and **O + O₂ forming O₃** in continuous **photochemical equilibrium** driven by **UV radiation from the Sun**, as in **2018 Q55: UV produces O₃**.
+- **Temperature inversion within stratosphere**: ozone absorbs UV and converts it to heat, so **temperature rises** from **~–56°C at tropopause** to **~0°C at stratopause**, opposite to the troposphere trend.
+- **No weather**: there is virtually **no water vapour** and no clouds (except rare **polar stratospheric clouds** during ozone hole events over Antarctica), so commercial aviation prefers this calm layer.
+- **Ozone protects life** by blocking **UV-B** (skin cancer, cataracts) and **UV-C** (lethal to most life). **2025 Q45 Statement 1: ozone layer protects Earth from UV = TRUE**.
+- **Ozone depletion**: **CFCs/ODS** release **chlorine** in the stratosphere, causing catalytic O₃ destruction and the **ozone hole** (Antarctica spring). **2025 Q45 Statement 2: CFC connection = TRUE**. Full Montreal/Vienna detail is in Topic 36.
+- **Volcanic eruptions** (e.g., Pinatubo 1991) inject **sulphate aerosols** into the stratosphere and can **cool global surface** temporarily by reflecting sunlight.
+- **Trap**: The pair **"Ozone layer – Troposphere"** is **NOT correctly matched** (**2018 Q57**). Ozone **maximum** is in the **stratosphere**, while tropospheric ozone is a harmful pollutant, not the UV shield.
+- **Jet streams** near the **tropopause–stratosphere boundary** are high-speed winds that affect **monsoon onset** and aviation routes over India.
 
 > **Exam note:** **Maximum ozone concentration = Stratosphere (C)** — repeated **2018 Q52, 2023 Q52**. **2025 Q45: Both statements correct (C)** — UV protection + CFC depletion link.
 
@@ -406,11 +406,11 @@ UP (troposphere relevance):
 ### Exam Facts (raata)
 
 - Altitude **~12–50 km**
-- **Ozone maximum** here — NOT troposphere
+- **Ozone maximum** occurs here, not in the troposphere.
 - Temperature **increases** with height (UV absorption)
-- **Stable, dry** — no normal weather
-- **CFCs** destroy stratospheric ozone — 2025 Q45
-- **UV → O₃ formation** photochemical
+- **Stable and dry** with no normal weather.
+- **CFCs** destroy stratospheric ozone, as tested in 2025 Q45.
+- **UV-driven O₃ formation** is photochemical.
 - Commercial jets fly **lower stratosphere**
 
 ### PYQs — Stratosphere
@@ -453,23 +453,23 @@ UP (troposphere relevance):
 
 ### Mesosphere — How It Works
 
-- **Mesosphere** lies between **stratopause (~50 km)** and **mesopause (~85 km)** — **"meso" = middle** — the **least studied** layer but exam-relevant for **temperature trend** and **meteor ablation**.
-- **Temperature decreases** with height in mesosphere — reaches **~–90°C to –100°C at mesopause** — **coldest region** of the entire atmosphere despite being above warm stratosphere.
-- **Meteors burn up** in mesosphere (not thermosphere) — friction with air molecules at **80–100 km** heats and vaporises meteoroids — creates **shooting stars** visible from ground (including UP night skies).
-- **Very low air density** compared to troposphere but **denser than thermosphere** — enough particles to cause meteor drag and **heat generation**.
-- **No ozone concentration** — UV already absorbed below; **no weather**, **minimal water vapour**.
-- **Gravity waves** from tropospheric storms can propagate upward and dissipate energy in mesosphere — links **UP thunderstorms** (pre-monsoon **nor'westers**) to upper-atmosphere dynamics (advanced, rarely tested directly).
-- **Rocket sounding** and **noctilucent clouds** (polar summer, ~76–85 km) — highest clouds on Earth — form near **mesopause** from ice on meteor dust.
+- **Mesosphere** lies between **stratopause (~50 km)** and **mesopause (~85 km)**. **"Meso" means middle**. It is the **least studied** layer but exam-relevant for **temperature trend** and **meteor ablation**.
+- **Temperature decreases** with height in the mesosphere and reaches **~–90°C to –100°C at mesopause**, the **coldest region** of the entire atmosphere despite being above the warm stratosphere.
+- **Meteors burn up** in the mesosphere (not thermosphere) as friction with air molecules at **80–100 km** heats and vaporises meteoroids, creating **shooting stars** visible from the ground (including UP night skies).
+- **Very low air density** compared to the troposphere but **denser than the thermosphere** provides enough particles to cause meteor drag and **heat generation**.
+- **No ozone concentration** because UV is already absorbed below. There is **no weather** and **minimal water vapour**.
+- **Gravity waves** from tropospheric storms can propagate upward and dissipate energy in the mesosphere, connecting **UP thunderstorms** (pre-monsoon **nor'westers**) to upper-atmosphere dynamics (advanced, rarely tested directly).
+- **Rocket sounding** and **noctilucent clouds** (polar summer, ~76–85 km), the highest clouds on Earth, form near **mesopause** from ice on meteor dust.
 - **Mesopause** marks transition to **thermosphere** where temperature rises again due to **absorption of extreme solar radiation** by sparse oxygen atoms.
-- **Exam trap**: "Coldest atmospheric layer = troposphere top" = **FALSE** — **mesopause** is coldest (~–90°C).
-- **Not where ozone layer sits** — 2023 Q52 option B (Mesosphere) is wrong for ozone question.
+- **Exam trap**: "Coldest atmospheric layer = troposphere top" is **FALSE**. The **mesopause** is coldest (~–90°C).
+- **Not where ozone layer sits**. 2023 Q52 option B (Mesosphere) is wrong for the ozone question.
 
 > **Exam note:** **Meteors burn in mesosphere** (~50–85 km), not exosphere. **Coldest point = mesopause**.
 
 ### Exam Facts (raata)
 
 - Altitude **~50–85 km**
-- **Coldest layer** — mesopause **~–90°C**
+- **Coldest layer** at mesopause **~–90°C**.
 - **Meteors burn up** here
 - Temperature **decreases** with height
 - **No ozone layer peak**
@@ -506,15 +506,15 @@ UP (troposphere relevance):
 
 ### Thermosphere — How It Works
 
-- **Thermosphere** begins at **~85 km (thermopause/mesopause boundary)** and extends to **~600 km** — **"thermo" = heat** — temperature increases with height due to **solar EUV and X-ray absorption** by **O₂ and N₂**.
-- **Temperature** can reach **1500°C or more** for oxygen atoms — but **air density is ~billion times less** than sea level — no effective heat transfer to objects; **ISS astronauts would freeze without suits** despite high kinetic temperature.
-- **Ionosphere** (embedded in thermosphere/upper mesosphere): **solar radiation ionizes** atoms → **free electrons and ions** → reflects **radio waves** (skywave propagation) — important for **All India Radio** long-distance AM broadcasts historically.
-- **Aurora Borealis/Australis**: charged particles from Sun (solar wind) guided by **Earth's magnetic field** collide with gases in thermosphere → **green/red light** — visible at high latitudes; **not visible from UP** under normal conditions.
-- **International Space Station (ISS)** orbits **~400 km** — well inside thermosphere; still experiences **thin atmospheric drag** — requires periodic altitude boosts.
-- **Satellite drag region**: Low Earth Orbit satellites (400–1000 km) encounter thermospheric expansion during **solar max** — increased drag can pull satellites down — space weather link.
+- **Thermosphere** begins at **~85 km (thermopause/mesopause boundary)** and extends to **~600 km**. **"Thermo" means heat**, and temperature increases with height due to **solar EUV and X-ray absorption** by **O₂ and N₂**.
+- **Temperature** can reach **1500°C or more** for oxygen atoms, but **air density is ~billion times less** than at sea level, so there is no effective heat transfer to objects. **ISS astronauts would freeze without suits** despite high kinetic temperature.
+- **Ionosphere** (embedded in thermosphere/upper mesosphere): **solar radiation ionizes** atoms into **free electrons and ions** that reflect **radio waves** (skywave propagation), important for **All India Radio** long-distance AM broadcasts historically.
+- **Aurora Borealis/Australis**: charged particles from the Sun (solar wind) guided by **Earth's magnetic field** collide with gases in the thermosphere and produce **green/red light**. They are visible at high latitudes but **not visible from UP** under normal conditions.
+- **International Space Station (ISS)** orbits **~400 km**, well inside the thermosphere, and still experiences **thin atmospheric drag** that requires periodic altitude boosts.
+- **Satellite drag region**: Low Earth Orbit satellites (400–1000 km) encounter thermospheric expansion during **solar max**, and increased drag can pull satellites down, showing a space weather link.
 - **Homosphere–heterosphere transition**: Near **~80–100 km** within/below thermosphere base, composition begins separating by molecular weight.
-- **Not a layer for weather or ozone** — 2023 Q52 option D (Thermosphere) wrong for ozone; no water vapour, no clouds (except auroral glow).
-- **Solar storms** disturb ionosphere → **GPS errors**, radio blackouts — India's **ISRO** monitors space weather for satellite safety.
+- **Not a layer for weather or ozone**. 2023 Q52 option D (Thermosphere) is wrong for ozone. There is no water vapour and no clouds (except auroral glow).
+- **Solar storms** disturb the ionosphere and cause **GPS errors** and radio blackouts. India's **ISRO** monitors space weather for satellite safety.
 
 > **Exam note:** **ISS + aurora = thermosphere**. **Ozone ≠ thermosphere** (2023 distractor D).
 
@@ -534,10 +534,10 @@ UP (troposphere relevance):
 - **Temperature increases** ↑ from ~85 km
 - **ISS ~400 km** in thermosphere
 - **Ionosphere** = radio wave reflection
-- **Auroras** here — not in troposphere
-- High temp but **not "hot"** to touch — low density
+- **Auroras** occur here, not in the troposphere.
+High temperature but **not "hot"** to touch because of low density.
 - **No ozone UV shield** function here
-- Solar activity expands thermosphere → satellite drag
+- Solar activity expands the thermosphere and increases satellite drag.
 
 ### PYQs — Thermosphere
 
@@ -569,16 +569,16 @@ UP (troposphere relevance):
 
 ### Exosphere — How It Works
 
-- **Exosphere** is the **upper fringe** of Earth's atmosphere — no sharp upper boundary; atoms follow **ballistic trajectories** — some escape to space, others return — **transition zone to space**.
-- **Composition**: dominated by **light gases — hydrogen (H) and helium (He)** — heavier gases like N₂ and O₂ virtually absent due to **gravity separation** in heterosphere.
-- **Extremely low density** — fewer than **one million particles per cubic cm** — indistinguishable from near-vacuum of space for practical purposes.
-- **Temperature** technically very high (atoms move fast) but **no thermodynamic temperature** in traditional sense — too rarefied for collisions.
-- **Geostationary satellites** orbit **~36,000 km** above equator — well within exosphere — **INSAT/GSAT** Indian communication satellites operate here — **no atmospheric drag** (unlike ISS in thermosphere).
-- **Atmospheric escape mechanisms**: **thermal escape (Jeans escape)** — light H/He exceed escape velocity; **solar wind stripping** during geomagnetic storms — Earth loses ~**50,000 tonnes** of air per year (negligible over geological time).
-- **Magnetosphere** extends beyond exosphere — shields atmosphere from **solar wind** — without it, escape would be faster (compare Mars).
-- **Not involved in weather, ozone, or pollution** — 2018 Q52 option D (Exosphere) wrong for ozone concentration.
-- **Exam contrast**: **Thermosphere = ISS ~400 km**; **Exosphere = geostationary ~36,000 km** — different satellite regimes.
-- **No life, no breathing, no AQI** — purely academic layer for UPPCS except **matching** and **"outermost layer"** identification.
+- **Exosphere** is the **upper fringe** of Earth's atmosphere with no sharp upper boundary. Atoms follow **ballistic trajectories**, some escape to space and others return, forming a **transition zone to space**.
+- **Composition**: dominated by **light gases, hydrogen (H) and helium (He)**. Heavier gases like N₂ and O₂ are virtually absent due to **gravity separation** in the heterosphere.
+- **Extremely low density** with fewer than **one million particles per cubic cm** is indistinguishable from the near-vacuum of space for practical purposes.
+- **Temperature** is technically very high (atoms move fast) but there is **no thermodynamic temperature** in the traditional sense because the air is too rarefied for collisions.
+- **Geostationary satellites** orbit **~36,000 km** above the equator, well within the exosphere. **INSAT/GSAT** Indian communication satellites operate here with **no atmospheric drag** (unlike ISS in thermosphere).
+- **Atmospheric escape mechanisms** include **thermal escape (Jeans escape)**, where light H/He exceed escape velocity, and **solar wind stripping** during geomagnetic storms. Earth loses ~**50,000 tonnes** of air per year, negligible over geological time.
+- **Magnetosphere** extends beyond the exosphere and shields the atmosphere from **solar wind**. Without it, escape would be faster, as on Mars.
+- **Not involved in weather, ozone, or pollution**. 2018 Q52 option D (Exosphere) is wrong for ozone concentration.
+- **Exam contrast**: **Thermosphere hosts ISS ~400 km**, while **exosphere hosts geostationary satellites ~36,000 km**, representing different satellite regimes.
+- **No life, no breathing, no AQI**. It is a purely academic layer for UPPCS except for **matching** and **"outermost layer"** identification.
 
 > **Exam note:** **Outermost layer = Exosphere**. **Ozone NOT here** (2018 Q52 option D trap). **Geostationary satellites** orbit in exosphere region.
 
@@ -593,7 +593,7 @@ UP (troposphere relevance):
 
 ### Exam Facts (raata)
 
-- **Outermost layer** — merges into space
+- **Outermost layer** that merges into space.
 - **~600–10,000 km** altitude range
 - Dominated by **H and He**
 - **Geostationary satellites ~36,000 km**
@@ -693,7 +693,7 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Stmt 1 ✓; Stmt 2 ✗ (main heating via **longwave from surface** — 2022 Q138); Stmt 3 ✓.
+**Ans: C.** Statement 1 is correct and Statement 3 is correct, but Statement 2 is false because main heating comes via **longwave from surface** (2022 Q138).
 
 </details>
 
@@ -716,7 +716,7 @@ D. A-1, B-3, C-2, D-4
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Troposphere=Weather; Stratosphere=Ozone; Mesosphere=Meteors; Thermosphere=Aurora.
+**Ans: A.** Troposphere equals Weather, Stratosphere equals Ozone, Mesosphere equals Meteors, and Thermosphere equals Aurora.
 
 </details>
 
@@ -736,7 +736,7 @@ D. 1 only
 <details>
 <summary>Show answer</summary>
 
-**Ans: A (2 only)** — Pair 2 wrong (2018 Q57 trap). Pairs 1 and 3 correct.
+**Ans: A (2 only).** Pair 2 is wrong (2018 Q57 trap), while Pairs 1 and 3 are correct.
 
 </details>
 
@@ -752,7 +752,7 @@ D. Exosphere
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — 2018 Q52, 2023 Q52 direct repeat pattern.
+**Ans: C.** This follows the 2018 Q52 and 2023 Q52 direct repeat pattern.
 
 </details>
 
@@ -771,7 +771,7 @@ D. Neither
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — 2025 Q45 exact logic.
+**Ans: C.** This matches the 2025 Q45 exact logic.
 
 </details>
 
@@ -787,7 +787,7 @@ D. Scattered blue light
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — 2022 Q138.
+**Ans: A.** This matches 2022 Q138.
 
 </details>
 
@@ -805,7 +805,7 @@ D. A false, R false
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Mesopause ~–90°C; decreasing temp profile causes coldest point.
+**Ans: A.** The mesopause at ~–90°C is the coldest point because temperature decreases with height in the mesosphere.
 
 </details>
 
@@ -821,7 +821,7 @@ D. Carbon dioxide
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — N₂ 78.08%; O₂ 21%.
+**Ans: B.** N₂ is 78.08% and O₂ is 21%.
 
 </details>
 
@@ -837,7 +837,7 @@ D. Ozone
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — 2020 Q139 pattern; NO/NO₂ not major natural GHG in this list.
+**Ans: C.** This follows the 2020 Q139 pattern because NO/NO₂ are not major natural GHGs in this list.
 
 </details>
 
@@ -853,7 +853,7 @@ D. Exospheric hydrogen
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — 2021 Q134: dust particles key; air molecules (Rayleigh scattering) also scatter.
+**Ans: A.** For 2021 Q134, dust particles are key, though air molecules (Rayleigh scattering) also scatter.
 
 </details>
 
@@ -875,7 +875,7 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Stmt 2 false (stratosphere + thermosphere warm with height).
+**Ans: B.** Statement 2 is false because the stratosphere and thermosphere warm with height.
 
 </details>
 
@@ -891,7 +891,7 @@ D. Exosphere
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — GEO altitude in exosphere region; ISS ~400 km = thermosphere.
+**Ans: D.** GEO altitude lies in the exosphere region, while ISS at ~400 km is in the thermosphere.
 
 </details>
 
@@ -907,7 +907,7 @@ D. 0°C/km (isothermal)
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Standard NCERT value ~6.5°C per 1000 m.
+**Ans: B.** The standard NCERT value is ~6.5°C per 1000 m.
 
 </details>
 
@@ -961,7 +961,7 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Stratosphere composition is globally uniform in homosphere; UP differs in **tropospheric** pollution, not stratospheric chemistry.
+**Ans: A.** Stratosphere composition is globally uniform in the homosphere. UP differs in **tropospheric** pollution, not stratospheric chemistry.
 
 </details>
 
@@ -977,7 +977,7 @@ D. Exosphere only
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Ionosphere overlaps upper mesosphere/thermosphere; exam default = thermosphere.
+**Ans: C.** The ionosphere overlaps upper mesosphere and thermosphere, with exam default as thermosphere.
 
 </details>
 
@@ -993,7 +993,7 @@ D. N₂O
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — 2018 Q55 pattern; UV + O₂ → O₃ in stratosphere.
+**Ans: C.** This follows the 2018 Q55 pattern where UV acting on O₂ forms O₃ in the stratosphere.
 
 </details>
 
@@ -1009,7 +1009,7 @@ D. E-T-M-S-T
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Troposphere-Stratosphere-Mesosphere-Thermosphere-Exosphere.
+**Ans: A.** The order is Troposphere, Stratosphere, Mesosphere, Thermosphere, Exosphere.
 
 </details>
 
@@ -1025,7 +1025,7 @@ D. Ozone maximum concentration
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Uniform mix to ~80 km.
+**Ans: B.** Composition stays uniformly mixed to ~80 km.
 
 </details>
 
@@ -1041,7 +1041,7 @@ D. Exosphere
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 2019 Q136 context; NOx + SOx in lower atmosphere.
+**Ans: B.** In the 2019 Q136 context, smog involves NOx and SOx in the lower atmosphere.
 
 </details>
 
@@ -1063,7 +1063,7 @@ D. A-3, B-1, C-2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — O₂=21%; N₂=78%; Ar=0.93%.
+**Ans: A.** O₂ is 21%, N₂ is 78%, and Ar is 0.93%.
 
 </details>
 
@@ -1081,7 +1081,7 @@ D. A false, R true
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — UV absorption by O₃ heats stratosphere.
+**Ans: A.** UV absorption by O₃ heats the stratosphere.
 
 </details>
 
@@ -1113,7 +1113,7 @@ D. –90°C
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Coldest atmospheric point.
+**Ans: D.** The mesopause is the coldest atmospheric point.
 
 </details>
 
@@ -1135,7 +1135,7 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — N₂ not GHG; Ar ~0.93% not 21% (O₂ is 21%).
+**Ans: A.** N₂ is not a GHG, and Ar is ~0.93% not 21% (O₂ is 21%).
 
 </details>
 
@@ -1167,7 +1167,7 @@ D. Mesosphere only
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Weather confined to troposphere; all upper layers weather-free.
+**Ans: B.** Weather is confined to the troposphere, and all upper layers are weather-free.
 
 </details>
 
@@ -1183,7 +1183,7 @@ D. Tropospheric CO₂ alone
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Gravity holds gases; magnetosphere reduces solar wind stripping.
+**Ans: B.** Gravity holds gases near Earth, and the magnetosphere reduces solar wind stripping.
 
 </details>
 
@@ -1199,7 +1199,7 @@ D. Weather — Stratosphere
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Meteors=mesosphere; Ozone=stratosphere; Weather=troposphere.
+**Ans: B.** Meteors burn in the mesosphere, ozone peaks in the stratosphere, and weather occurs in the troposphere.
 
 </details>
 
@@ -1221,7 +1221,7 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Heating from **below** (surface longwave), not from above (stmt 3 false).
+**Ans: A.** Heating comes from **below** through surface longwave, not from above, so statement 3 is false.
 
 </details>
 
@@ -1237,7 +1237,7 @@ D. Zero at equator
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — ~18 km equator vs ~8 km poles.
+**Ans: B.** The troposphere is ~18 km thick at the equator versus ~8 km at the poles.
 
 </details>
 
@@ -1253,7 +1253,7 @@ D. O₃ and Ar
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Light gases in heterosphere top.
+**Ans: B.** Light gases dominate at the top of the heterosphere.
 
 </details>
 
@@ -1271,7 +1271,7 @@ D. A false, R false
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Ground-level O₃ = pollutant; stratospheric O₃ = UV shield — different roles explain harm vs protection distinction.
+**Ans: A.** Ground-level O₃ is a pollutant while stratospheric O₃ is a UV shield. Different roles explain the harm versus protection distinction.
 
 </details>
 
@@ -1291,7 +1291,7 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Mesosphere temp **decreases** with height (stmt 2 false).
+**Ans: A.** Mesosphere temperature **decreases** with height, so statement 2 is false.
 
 </details>
 
@@ -1313,7 +1313,7 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — CO₂ ≈ 0.04% not 21% (O₂ ≈ 21%); water vapour is **variable** (0–4%).
+**Ans: A.** CO₂ is ≈ 0.04% not 21% (O₂ ≈ 21%), and water vapour is **variable** (0–4%).
 
 </details>
 
@@ -1333,7 +1333,7 @@ D. Neither I nor II is correct
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Statement I correct; Statement II false — heterosphere = **separation** by weight (H/He rise), not uniform mix.
+**Ans: B.** Statement I is correct and Statement II is false. The heterosphere shows **separation** by weight (H/He rise), not uniform mix.
 
 </details>
 
@@ -1358,7 +1358,7 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: C (Both 1 and 2)** — Stratospheric ozone absorbs UV-B/C; CFCs release chlorine radicals destroying O₃ — Montreal Protocol basis.
+**Ans: C (Both 1 and 2).** Stratospheric ozone absorbs UV-B/C, and CFCs release chlorine radicals that destroy O₃, forming the Montreal Protocol basis.
 
 </details>
 
@@ -1376,7 +1376,7 @@ D. Thermosphere
 <details>
 <summary>Show answer</summary>
 
-**Ans: C (Stratosphere)** — Ozonosphere ~15–35 km within stratosphere.
+**Ans: C (Stratosphere).** The ozonosphere at ~15–35 km lies within the stratosphere.
 
 </details>
 
@@ -1394,7 +1394,7 @@ D. Short-wave solar radiation
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Surface absorbs solar shortwave → emits longwave IR → heats troposphere from below.
+**Ans: A.** The surface absorbs solar shortwave, emits longwave IR, and heats the troposphere from below.
 
 </details>
 
@@ -1427,7 +1427,7 @@ Which of the following pairs is NOT correctly matched?
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Ozone layer is in **stratosphere**, not troposphere.
+**Ans: D.** The ozone layer is in the **stratosphere**, not the troposphere.
 
 </details>
 
@@ -1445,7 +1445,7 @@ D. Fluorides
 <details>
 <summary>Show answer</summary>
 
-**Ans: C (O₃)** — UV photolysis of O₂ and recombination forms ozone in stratosphere.
+**Ans: C (O₃).** UV photolysis of O₂ and recombination forms ozone in the stratosphere.
 
 </details>
 
@@ -1463,7 +1463,7 @@ D. Ozone
 <details>
 <summary>Show answer</summary>
 
-**Ans: A (Nitrogen oxide)** — CO₂, CH₄, O₃ are natural GHGs; NO/NO₂ not in same category for this question.
+**Ans: A (Nitrogen oxide).** CO₂, CH₄, and O₃ are natural GHGs, while NO/NO₂ are not in the same category for this question.
 
 </details>
 
@@ -1481,7 +1481,7 @@ D. Water vapours
 <details>
 <summary>Show answer</summary>
 
-**Ans: B (Dust particles)** — Aerosol Mie scattering; air molecules also scatter (Rayleigh).
+**Ans: B (Dust particles).** Aerosol Mie scattering causes diffusion, though air molecules also scatter (Rayleigh).
 
 </details>
 
@@ -1499,13 +1499,13 @@ D. Oxide of nitrogen and sulphur
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Tropospheric smog from NOx and SOx (plus particulates/VOCs).
+**Ans: D.** Tropospheric smog comes from NOx and SOx (plus particulates/VOCs).
 
 </details>
 
 ---
 
-**Q10. UPSC Prelims 2013 — pattern**
+**Q10. UPSC Prelims 2013 (pattern)**
 
 Which add CO₂ to the atmosphere?
 
@@ -1517,26 +1517,26 @@ Which add CO₂ to the atmosphere?
 <details>
 <summary>Show answer</summary>
 
-**Ans: 2, 3, 4** — Photosynthesis **removes** CO₂ from atmosphere.
+**Ans: 2, 3, 4.** Photosynthesis **removes** CO₂ from the atmosphere.
 
 </details>
 
 ---
 
-**Q11. UPSC Prelims 2011 — pattern**
+**Q11. UPSC Prelims 2011 (pattern)**
 
 Meteors glow and disintegrate in which atmospheric layer?
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: Mesosphere** (~50–85 km) — friction heating.
+**Ans: Mesosphere** (~50–85 km) through friction heating.
 
 </details>
 
 ---
 
-**Q12. UPSC Prelims 2014 — pattern**
+**Q12. UPSC Prelims 2014 (pattern)**
 
 The outermost layer of the atmosphere is:
 
@@ -1569,4 +1569,4 @@ The outermost layer of the atmosphere is:
 
 ---
 
-*End of Topic 35 — Atmosphere*
+*End of Topic 35: Atmosphere*

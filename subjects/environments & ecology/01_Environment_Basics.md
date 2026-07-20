@@ -208,15 +208,15 @@ In exams, "environment" almost always means the **natural/physical** dimension �
 
 ### Exam Facts (raata)
 
-- **Environment (NCERT)** — sum of **biotic + abiotic** factors (most-tested definition)
-- **4 spheres** — Lithosphere, Hydrosphere, Atmosphere, Biosphere (L-H-A-B)
-- **Troposphere** — weather; **Stratosphere** — ozone layer
-- **Biosphere limits** — ~200 m below soil to ~6 km above sea level
-- **Stockholm 1972** — first UN human environment conference → created **UNEP** (Nairobi)
-- **WED** — **5 June** (since 1973; Stockholm opened 5 June 1972)
-- **EPA 1986** — umbrella law enacted after **Bhopal Gas Tragedy (1984)**
-- **Art 48A** — State duty (DPSP) | **Art 51A(g)** — Citizen duty (Fundamental Duty)
-- **MoEF 1985** → renamed **MoEFCC 2014** (climate change added)
+- **Environment (NCERT)** is the sum of **biotic + abiotic** factors influencing living organisms. This is the most-tested definition in exams.
+- Earth has **4 spheres**: Lithosphere, Hydrosphere, Atmosphere, and Biosphere (remember **L-H-A-B**).
+- **Troposphere** holds all weather phenomena. **Stratosphere** contains the ozone layer.
+- **Biosphere** extends from ~200 m below soil to ~6 km above sea level.
+- **Stockholm 1972** hosted the first UN conference on the human environment and created **UNEP**, headquartered in **Nairobi**.
+- **World Environment Day (WED)** falls on **5 June** annually (since 1973). The Stockholm Conference opened on 5 June 1972.
+- **EPA 1986** is India's umbrella environmental law, enacted after the **Bhopal Gas Tragedy (1984)**.
+- **Art 48A** directs the State to protect the environment (DPSP). **Art 51A(g)** imposes the same duty on citizens (Fundamental Duty).
+- **MoEF** was established in **1985** and renamed **MoEFCC in 2014** when climate change was added to its mandate.
 
 ### PYQs — Environment Meaning
 
@@ -326,15 +326,15 @@ Examples: Water in desert limits growth; Light in deep ocean limits growth.
 
 ### Nitrogen Fixation (high-yield exam topic)
 
-- **N₂ = ~78%** of atmosphere — but most organisms **cannot use it directly**
-- **Rhizobium bacteria** live in root nodules of **leguminous crops** (pea, gram, soybean) → convert N₂ to usable forms
+- **N₂** makes up ~78% of the atmosphere, but most organisms **cannot use it directly**.
+- **Rhizobium bacteria** live in root nodules of **leguminous crops** (pea, gram, soybean) and convert N₂ to usable forms.
 - Also done by: Azotobacter, cyanobacteria (blue-green algae)
 
 ### Exam Facts (raata)
 
 - **Autotroph** = self-nourishing | **Heterotroph** = depends on others
 - **99%** of biosphere energy from the **Sun**
-- **Decomposers** critical — without them, nutrients locked in dead matter forever
+- **Decomposers** are critical because without them nutrients remain locked in dead matter forever.
 - **10% energy transfer rule** between trophic levels (only ~10% passes to next level)
 - **pH 6.5–7.5** = optimal for most agricultural soils
 - **DO (Dissolved Oxygen)** = key water quality indicator
@@ -521,10 +521,10 @@ Exams blur these deliberately: "Environment of a fish" can mean **external** (ri
 - **Wetlands** = transitional ecosystems (neither purely terrestrial nor aquatic)
 - **World Wetlands Day:** **2 February**
 - India: **85+ Ramsar sites** (highest in Asia, 2024–25)
-- **CRZ 2019 notification** — revised coastal zone categories
-- **14 terrestrial biomes** globally | **10 biogeographic zones** in India
-- **Internal environment** = inside organism | **External** = outside (ecology default)
-- **Marine zones** — Neritic (shallow), Pelagic (open water), Benthic (sea floor)
+- The **CRZ 2019 notification** revised coastal zone categories.
+- **14 terrestrial biomes** exist globally and India has **10 biogeographic zones**.
+- **Internal environment** means conditions inside the organism. **External environment** means conditions outside (the ecology default).
+- **Marine zones** include **Neritic** (shallow shelf), **Pelagic** (open water), and **Benthic** (sea floor).
 
 ### PYQs — Classification
 
@@ -698,9 +698,9 @@ Global environmental governance moved from **Stockholm 1972** (awareness) → **
 - **71%** of Earth's surface altered by humans (IPBES, 2019)
 - Chipko = **passive resistance** (UPSC 2012 linked with Dandi March)
 - Brundtland Commission = **WCED** (World Commission on Environment and Development), 1983–1987
-- **Agenda 21** adopted at **Rio 1992** — not 1995
-- **LiFE Mission** — **2022**; proposed at **COP26 (2021)**, not COP-25
-- **Carrying capacity** — extraction **below** regeneration; waste within absorption capacity
+- **Agenda 21** was adopted at **Rio 1992**, not 1995.
+- **LiFE Mission** launched in **2022**. The idea was proposed at **COP26 (2021)**, not COP-25 Madrid.
+- **Carrying capacity** requires resource extraction **below** regeneration rate and waste generation within environmental absorption capacity.
 
 ### PYQs — Human–Environment Interaction
 

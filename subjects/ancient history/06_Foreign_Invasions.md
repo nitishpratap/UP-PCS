@@ -99,27 +99,27 @@ PERSONS WITH ALEXANDER (exam names):
 
 ### Greek Invasion — How It Works
 
-- **First Greek contact** with India came through **Achaemenid Persians** — not direct Macedonian invasion yet.
-- **Darius I** (~518 BCE) extended Persian empire into **northwest India** — **Gandhara** and **Hindush** (Indus region) became **satrapies** (provinces).
-- **Indian soldiers** from Persian-controlled territories fought for Xerxes against Greeks — mentioned by **Herodotus** in Persian Wars.
+- **First Greek contact** with India came through **Achaemenid Persians**. It was not direct Macedonian invasion yet.
+- **Darius I** (~518 BCE) extended Persian empire into **northwest India**. **Gandhara** and **Hindush** (Indus region) became **satrapies** (provinces).
+- **Indian soldiers** from Persian-controlled territories fought for Xerxes against Greeks. Mentioned by **Herodotus** in Persian Wars.
 - Persian rule brought **Aramaic script** influence and administrative models to northwest India.
 - **Alexander of Macedon** (son of Philip II) invaded after destroying Achaemenid Persia (330 BCE onwards).
-- **Greek invasion proper (Macedonian)** — Alexander crossed **Hindukush** and entered India **326 BCE** during eastward campaign.
+- **Greek invasion proper (Macedonian)**. Alexander crossed **Hindukush** and entered India **326 BCE** during eastward campaign.
 - Before Alexander, **northwest India** already knew Greek culture through **Persian-Greek administrative contact** and trade.
-- Alexander's invasion was **brief** (~2 years in Indian borderlands) — no permanent Macedonian empire in Gangetic India.
+- Alexander's invasion was **brief** (~2 years in Indian borderlands). It created no permanent Macedonian empire in Gangetic India.
 - **Political vacuum** after Alexander's death enabled **Mauryan rise** (Chandragupta) and later **Indo-Greek kingdoms** in Bactria-Gandhara.
-- Greek invasion impact: **coins, sculpture, astronomy, political terminology** — foundation for Indo-Greek and Gandhara art.
+- Greek invasion impact: **coins, sculpture, astronomy, political terminology**. It laid the foundation for Indo-Greek and Gandhara art.
 
 > **Exam note:** "Greek invasion" in NCERT/syllabus includes **Persian-phase Greek contact** AND **Alexander**. Trap: "First Greeks in India = Alexander only" — Persians brought Greek contacts earlier via satrapies.
 
 ### Exam Facts (raata)
 
 - Darius I annexed northwest India ~518 BCE
-- Gandhara + Hindush = Persian satrapies
+- Gandhara and Hindush = Persian satrapies
 - Herodotus mentions Indian troops in Persian army
 - Alexander entered India 326 BCE
 - Destroyed Achaemenid Persia before reaching India
-- Greek invasion = Persian contact + Macedonian campaign
+- Greek invasion = Persian contact and Macedonian campaign
 - No permanent Greek rule in Gangetic plains
 - Led to Indo-Greek successor states later
 
@@ -153,18 +153,18 @@ PERSONS WITH ALEXANDER (exam names):
 
 ### Alexander's Invasion — How It Works
 
-- **Alexander** invaded India in **326 BCE** — after conquering Persian empire and Bactria.
-- Crossed **Indus** — **Ambhi (Omphis)**, king of **Taxila**, **submitted and allied** with Alexander against rival Indian kings.
-- Fought **Porus (Purushottama/Paurava)** — ruler of region between Jhelum and Chenab.
-- **Battle of Hydaspes** (May **326 BCE**) on river **Hydaspes (Jhelum)** — Porus's **war elephants** fierce resistance; Alexander won tactically.
-- Alexander **admired Porus's courage** — reinstated him as **satrap** (governor) with expanded territory under Macedonian suzerainty.
-- Advanced to **Hyphasis (Beas)** river — soldiers **mutinied** (exhaustion, monsoon, fear of Nanda Magadha's large army).
-- **Coenus** (general) spoke for army — Alexander **turned back** (326 BCE) — **never crossed Beas** into Gangetic heartland.
-- **Did NOT fight Dhana Nanda** of Magadha — turned back before reaching Nanda territory.
+- **Alexander** invaded India in **326 BCE**. He invaded after conquering Persian empire and Bactria.
+- Crossed **Indus**. **Ambhi (Omphis)**, king of **Taxila**, **submitted and allied** with Alexander against rival Indian kings.
+- Fought **Porus (Purushottama/Paurava)**. He ruled the region between Jhelum and Chenab.
+- **Battle of Hydaspes** took place in May **326 BCE** on the river **Hydaspes (Jhelum)**. Porus's **war elephants** gave fierce resistance, but Alexander won tactically.
+- Alexander **admired Porus's courage**. He reinstated him as **satrap** (governor) with expanded territory under Macedonian suzerainty.
+- Advanced to **Hyphasis (Beas)** river. His soldiers **mutinied** (exhaustion, monsoon, fear of Nanda Magadha's large army).
+- **Coenus** (general) spoke for army. Alexander **turned back** (326 BCE). **never crossed Beas** into Gangetic heartland.
+- **Did NOT fight Dhana Nanda** of Magadha. He turned back before reaching Nanda territory.
 - Established **satrapies** in Punjab: Porus and others governed under Macedonian control.
-- Returned westward — **down Indus** to Arabian Sea; **Nearchus** led naval fleet along coast.
-- **Marched through Gedrosia** (Makran desert) — suffered heavy losses.
-- **Died 323 BCE** at **Babylon** — Indian territories immediately lost; generals divided empire.
+- Alexander returned westward **down the Indus** to the Arabian Sea. **Nearchus** led the naval fleet along the coast.
+- **Marched through Gedrosia** (Makran desert). He suffered heavy losses.
+- **Alexander died in 323 BCE** at **Babylon**. His Indian territories were immediately lost, and his generals divided the empire.
 
 ### Alexander's Indian Campaign — Key Events Table
 
@@ -235,16 +235,16 @@ PERSONS WITH ALEXANDER (exam names):
 
 ### Persons Accompanying Alexander — How It Works
 
-- Alexander's campaign records survive through **secondary sources** — primarily **Arrian** and **Plutarch** (using lost primary accounts).
-- **Aristobulus** and **Ptolemy** — most important eyewitness sources for Indian campaign details.
-- **Nearchus** commanded **Indus-to-sea voyage** — proved river-sea connection; vital for logistics and geographic knowledge.
-- **Onesicritus** interviewed Indian **gymnosophists** (naked philosophers) — Greek accounts of Indian asceticism.
-- **Seleucus Nicator** was junior officer in Alexander's army — rose to power after 323 BCE partition.
-- **Coenus** led mutiny delegation at **Beas** — historically decisive in stopping eastward advance.
-- **Aristotle** taught Alexander **Homer, science, politics** — influence on Alexander's view of Eastern kings as equals/rivals.
-- **Callisthenes** criticized Alexander's **proskynesis** (Persian court ritual) — executed 327 BCE.
+- Alexander's campaign records survive through **secondary sources**. They are primarily **Arrian** and **Plutarch** (using lost primary accounts).
+- **Aristobulus** and **Ptolemy**. They were the most important eyewitness sources for Indian campaign details.
+- **Nearchus** commanded the **Indus-to-sea voyage**. It proved the river-sea connection and was vital for logistics and geographic knowledge.
+- **Onesicritus** interviewed Indian **gymnosophists** (naked philosophers). These are Greek accounts of Indian asceticism.
+- **Seleucus Nicator** was junior officer in Alexander's army. Rose to power after 323 BCE partition.
+- **Coenus** led mutiny delegation at **Beas**. Historically decisive in stopping eastward advance.
+- **Aristotle** taught Alexander **Homer, science, politics**. This influenced Alexander's view of Eastern kings as equals/rivals.
+- **Callisthenes** criticized Alexander's **proskynesis** (Persian court ritual). He was executed 327 BCE.
 - **Indian allies**: **Ambhi (Taxila)** and later **Porus** provided local knowledge, troops, and administrative continuity.
-- **Megasthenes** did NOT accompany Alexander — came later as **Seleucid ambassador** to Chandragupta's court.
+- **Megasthenes** did NOT accompany Alexander. Came later as **Seleucid ambassador** to Chandragupta's court.
 
 > **Exam note:** **Aristotle did NOT accompany** Alexander to India — common trap. **Nearchus** = naval commander on Indus. **Megasthenes** = post-Alexander Seleucid envoy.
 
@@ -289,17 +289,17 @@ PERSONS WITH ALEXANDER (exam names):
 
 ### Foreign Invasions — How It Works
 
-- Indian subcontinent faced **repeated northwest invasions** from **6th century BCE to 3rd century CE** — shaped politics, trade, art, and coinage.
-- **1. Achaemenid Persians** (~518–330 BCE) — first imperial power to absorb **Gandhara/Indus** into a trans-regional empire.
-- **2. Macedonian Greeks (Alexander)** (326 BCE) — military campaign; brief satrapal control in Punjab; no Gangetic conquest.
-- **3. Seleucid (Seleucus Nicator)** (~305–303 BCE) — conflict with **Chandragupta Maurya**; treaty ceded eastern territories; **Megasthenes** embassy.
-- **4. Indo-Greeks (Bactrian Greeks)** (~2nd–1st century BCE) — **Demetrius I, Menander (Milinda), Apollodotus** — ruled Gandhara-Punjab from Bactria base.
-- **5. Shakas (Indo-Scythians)** (~1st century BCE–1st century CE) — **Maues, Rudradaman, Nahapana** — displaced Indo-Greeks in west India.
-- **6. Parthians (Pahlavas)** (~1st century CE) — **Gondophares** — brief rule in northwest.
-- **7. Kushans** (~1st–3rd century CE) — **Kujula Kadphises, Kanishka** — large empire; Gandhara art peak.
-- **UPPCS 2023 Q23** tests subset: **Greeks → Sakas → Kushans** = **Answer A** (Indo-Greeks fit before Shakas in full sequence).
-- Each invasion wave brought **new coin types, art styles, and administrative titles** — cumulative Hellenistic + Central Asian synthesis.
-- **Mauryas and Guptas** were indigenous empires between/around these foreign waves — not themselves foreign invasions.
+- Indian subcontinent faced **repeated northwest invasions** from **6th century BCE to 3rd century CE**. These invasions shaped politics, trade, art, and coinage.
+- **1. Achaemenid Persians** (~518–330 BCE). It was the first imperial power to absorb **Gandhara/Indus** into a trans-regional empire.
+- **2. Macedonian Greeks (Alexander)** came in 326 BCE through a military campaign. Their control in Punjab was brief and satrapal, and they made no Gangetic conquest.
+- **3. Seleucid (Seleucus Nicator)** intervention around 305–303 BCE led to conflict with **Chandragupta Maurya**. The treaty ceded eastern territories and brought the **Megasthenes** embassy.
+- **4. Indo-Greeks (Bactrian Greeks)** (~2nd–1st century BCE). **Demetrius I, Menander (Milinda), Apollodotus**. Ruled Gandhara-Punjab from Bactria base.
+- **5. Shakas (Indo-Scythians)** (~1st century BCE–1st century CE). **Maues, Rudradaman, Nahapana**. Displaced Indo-Greeks in west India.
+- **6. Parthians (Pahlavas)** (~1st century CE). **Gondophares**. Brief rule in northwest.
+- **7. Kushans** ruled from about the 1st to 3rd century CE under rulers such as **Kujula Kadphises** and **Kanishka**. Their large empire marked the peak of Gandhara art.
+- **UPPCS 2023 Q23** tests subset: **Greeks to Sakas to Kushans** = **Answer A** (Indo-Greeks fit before Shakas in full sequence).
+- Each invasion wave brought **new coin types, art styles, and administrative titles**. They created cumulative Hellenistic and Central Asian synthesis.
+- **Mauryas and Guptas** were indigenous empires between/around these foreign waves. They were not themselves foreign invasions.
 
 ### Foreign Invasions — Chronology Table
 
@@ -318,12 +318,12 @@ PERSONS WITH ALEXANDER (exam names):
 ### Exam Facts (raata)
 
 - Northwest = invasion gateway
-- 2023 Q23: Greeks → Sakas → Kushans (A)
+- 2023 Q23: Greeks to Sakas to Kushans (A)
 - Persians first (Achaemenid)
 - Alexander 326 BCE
 - Indo-Greeks before Shakas
 - Kushans last of the three in Q23
-- Each wave brought coins + art influence
+- Each wave brought coins and art influence
 - Mauryas/Guptas = indigenous empires
 
 ### PYQs — Foreign Invasions
@@ -356,16 +356,16 @@ PERSONS WITH ALEXANDER (exam names):
 
 ### Seleucus Nicator — How It Works
 
-- **Seleucus I Nicator** — one of **Alexander's infantry officers**; received **Babylon** in partition of empire (323 BCE).
-- Built **Seleucid Empire** stretching from **Anatolia to Bactria** — largest of Diadochi kingdoms.
-- **Invaded India** (~305 BCE) to reclaim Alexander's eastern satrapies — clashed with **Chandragupta Maurya**.
-- **War inconclusive** — Seleucus faced Mauryan strength (Chandragupta's army included **war elephants**).
-- **Treaty (~303 BCE)** — Seleucus ceded **eastern Afghanistan, Baluchistan, and regions west of Indus** to Chandragupta.
-- Chandragupta gave **500 war elephants** to Seleucus — elephants used in Seleucid wars in West Asia.
-- **Diplomatic alliance** — Seleucus's daughter **Helena (Helen)** reportedly married Chandragupta (sources: Appian, Strabo).
-- **Megasthenes** sent as **Seleucid ambassador** to **Pataliputra** — wrote ***Indica*** describing Mauryan court, society, administration.
-- Seleucus consolidated west; **Mauryas controlled India** — defined early boundary of Indian empire.
-- Seleucus assassinated **281 BCE** — Seleucid empire continued but Indian territories permanently with Mauryas.
+- **Seleucus I Nicator** was one of **Alexander's infantry officers**. He received **Babylon** in the partition of the empire in 323 BCE.
+- Built **Seleucid Empire** stretching from **Anatolia to Bactria**. It was the largest of Diadochi kingdoms.
+- **Invaded India** (~305 BCE) to reclaim Alexander's eastern satrapies. Clashed with **Chandragupta Maurya**.
+- **War inconclusive**. Seleucus faced Mauryan strength (Chandragupta's army included **war elephants**).
+- **Treaty (~303 BCE)**. Seleucus ceded **eastern Afghanistan, Baluchistan, and regions west of Indus** to Chandragupta.
+- Chandragupta gave **500 war elephants** to Seleucus. Seleucus used the elephants in Seleucid wars in West Asia.
+- **Diplomatic alliance**. Seleucus's daughter **Helena (Helen)** reportedly married Chandragupta (sources: Appian, Strabo).
+- **Megasthenes** sent as **Seleucid ambassador** to **Pataliputra**. He wrote ***Indica*** describing Mauryan court, society, administration.
+- Seleucus consolidated his power in the west, while the **Mauryas controlled India**. This settlement defined the early boundary of the Indian empire.
+- Seleucus assassinated **281 BCE**. The Seleucid empire continued but Indian territories permanently with Mauryas.
 
 ### Seleucus–Chandragupta Treaty — Key Terms
 
@@ -379,7 +379,7 @@ PERSONS WITH ALEXANDER (exam names):
 
 ### Exam Facts (raata)
 
-- Alexander's general → Seleucid founder
+- Alexander's general to Seleucid founder
 - Fought Chandragupta Maurya ~305 BCE
 - Treaty ~303 BCE
 - Ceded territories west of Indus
@@ -419,15 +419,15 @@ PERSONS WITH ALEXANDER (exam names):
 ### Indo-Greek Kingdom — How It Works
 
 - After Alexander and Seleucid withdrawal, **Greco-Bactrian kingdom** emerged in **Bactria** (~3rd–2nd century BCE).
-- **Demetrius I** (~180 BCE) — first major Indo-Greek king to invade and rule **northwest India** extensively.
-- **Menander I (Milinda)** — most famous Indo-Greek ruler; capital **Sagala (Sialkot)**; patron of Buddhism.
-- ***Milinda Panha*** — philosophical dialogue: King Milinda questions **Nagasena** on Buddhist doctrine ← **UPPCS 2023 Q24: saint = Nagasena**.
-- Indo-Greek coins — **bilingual inscriptions** (Greek + Kharoshthi/Prakrit) — key archaeological evidence.
-- Rulers: **Apollodotus I, Antialcidas, Strato I, Hippostratos** — controlled Punjab, Gandhara, parts of Rajasthan/Gujarat.
-- **Heliodorus pillar** (Besnagar, MP) — Indo-Greek ambassador **Antialcidas** era; **Bhagavata (Vasudeva)** worship inscription.
-- **Gandhara art** — Greco-Buddhist sculpture fusion; Buddha in Greek-style drapery; Mediterranean facial features.
-- Indo-Greeks displaced by **Shakas** from northwest (~1st century BCE) — preceded Kushan rise.
-- Legacy: **Hellenistic art + Indian religion** synthesis; numismatic evidence for chronology.
+- **Demetrius I** (~180 BCE). He was the first major Indo-Greek king to invade and rule **northwest India** extensively.
+- **Menander I (Milinda)** was the most famous Indo-Greek ruler. His capital was **Sagala (Sialkot)**, and he patronized Buddhism.
+- ***Milinda Panha***. It is a philosophical dialogue in which King Milinda questions **Nagasena** on Buddhist doctrine. **UPPCS 2023 Q24: saint = Nagasena**.
+- Indo-Greek coins. **bilingual inscriptions** (Greek and Kharoshthi/Prakrit). They are key archaeological evidence.
+- Rulers: **Apollodotus I, Antialcidas, Strato I, Hippostratos**. They controlled Punjab, Gandhara, parts of Rajasthan/Gujarat.
+- **Heliodorus pillar** at Besnagar, MP, belongs to the era of Indo-Greek ambassador **Antialcidas**. Its inscription records **Bhagavata (Vasudeva)** worship.
+- **Gandhara art** fused Greco-Buddhist sculpture traditions. It showed the Buddha in Greek-style drapery with Mediterranean facial features.
+- Indo-Greeks were displaced by **Shakas** from the northwest around the 1st century BCE. This shift preceded the rise of the Kushans.
+- Their legacy combined **Hellenistic art and Indian religion**. Indo-Greek coins also provide key numismatic evidence for chronology.
 
 ### Major Indo-Greek Rulers — Table
 
@@ -446,7 +446,7 @@ PERSONS WITH ALEXANDER (exam names):
 - Bactria = base region
 - Demetrius I first major invader
 - Menander = Milinda
-- Milinda Panha — Nagasena (2023 Q24)
+- Milinda Panha. Nagasena (2023 Q24)
 - Bilingual Greek-Kharoshthi coins
 - Sagala (Sialkot) capital
 - Gandhara Greco-Buddhist art

@@ -143,16 +143,16 @@ KEY TRAPS:
 
 ### Acid Rain — How It Works
 
-- **Acid rain** is not a single chemical but a **mixture of acidic compounds** — mainly **sulphuric acid (H₂SO₄)** and **nitric acid (HNO₃)** — reaching Earth's surface through **wet deposition** (with rain/snow/fog) or **dry deposition** (gases and particles settling directly).
-- **Normal unpolluted rain** has pH ≈ **5.6** — not 7 — because atmospheric **CO₂** dissolves to form weak **carbonic acid (H₂CO₃)**: CO₂ + H₂O → H₂CO₃. This natural acidity is **not** classified as damaging acid rain.
-- **Anthropogenic acid rain** occurs when rain pH drops **below 5.6** — often to **4.0–4.5** in heavily industrial regions — due to strong acids from **SO₂** and **NOx**, not from CO₂ alone.
-- **pH scale** runs 0–14: **pH 7 = neutral**; **pH < 7 = acidic**; **pH > 7 = basic/alkaline**. Each unit decrease = **10× more H⁺ ions** — pH 4 is 100× more acidic than pH 6.
-- **Wet deposition** = acids dissolved in precipitation (rain, snow, sleet, fog, cloud water) that fall to ground — the classic image of "acid rain."
-- **Dry deposition** = acidic gases (**SO₂**, **NO₂**) and fine **sulphate/nitrate particles** settle on vegetation, soil, buildings, and water surfaces **without rainfall** — can be equally damaging; exams often trap students who think acid rain = rain only.
-- **Acid rain is a secondary pollutant phenomenon** — SO₂ and NOx are **primary pollutants** emitted from stacks and exhausts; strong acids form through **atmospheric photochemical and aqueous reactions** before deposition.
-- **Geographic spread**: Pollutants emitted from tall chimneys travel **hundreds to thousands of km** on wind — source country ≠ only affected country (transboundary acid deposition across Europe, North America, and downwind of Indian industrial clusters).
-- **Buffering capacity**: Soils and water bodies with **limestone/calcium carbonate** can neutralise acid (e.g., Deccan basalt regions more resistant than granite areas with thin acidic soils) — same acid input, different damage severity.
-- **Measurement**: pH measured by **pH meter or pH paper**; rain samples collected at monitoring stations (IMD, CPCB, state pollution boards); long-term trends show improvement where SO₂ emissions were cut (Europe post-1990s protocols).
+- **Acid rain** is not a single chemical but a **mixture of acidic compounds**, mainly **sulphuric acid (H₂SO₄)** and **nitric acid (HNO₃)**, reaching Earth's surface through **wet deposition** (with rain/snow/fog) or **dry deposition** (gases and particles settling directly).
+- **Normal unpolluted rain** has pH ≈ **5.6**, not 7, because atmospheric **CO₂** dissolves to form weak **carbonic acid (H₂CO₃)** (CO₂ + H₂O gives H₂CO₃). This natural acidity is **not** classified as damaging acid rain.
+- **Anthropogenic acid rain** occurs when rain pH drops **below 5.6**, often to **4.0–4.5** in heavily industrial regions, due to strong acids from **SO₂** and **NOx**, not from CO₂ alone.
+- The **pH scale** runs 0–14: **pH 7 is neutral**, **pH below 7 is acidic**, and **pH above 7 is basic/alkaline**. Each unit decrease means **10× more H⁺ ions**, so pH 4 is 100× more acidic than pH 6.
+- **Wet deposition** means acids dissolved in precipitation (rain, snow, sleet, fog, cloud water) that fall to the ground, which is the classic image of "acid rain."
+- **Dry deposition** means acidic gases (**SO₂**, **NO₂**) and fine **sulphate/nitrate particles** settle on vegetation, soil, buildings, and water surfaces **without rainfall** and can be equally damaging. Exams often trap students who think acid rain means rain only.
+- **Acid rain is a secondary pollutant phenomenon**. SO₂ and NOx are **primary pollutants** emitted from stacks and exhausts, and strong acids form through **atmospheric photochemical and aqueous reactions** before deposition.
+- **Geographic spread**: Pollutants emitted from tall chimneys travel **hundreds to thousands of km** on wind, so the source country is not the only affected country (transboundary acid deposition across Europe, North America, and downwind of Indian industrial clusters).
+- **Buffering capacity**: Soils and water bodies with **limestone/calcium carbonate** can neutralise acid (e.g., Deccan basalt regions are more resistant than granite areas with thin acidic soils), so the same acid input can produce different damage severity.
+- **Measurement**: pH is measured by **pH meter or pH paper**, rain samples are collected at monitoring stations (IMD, CPCB, state pollution boards), and long-term trends show improvement where SO₂ emissions were cut (Europe post-1990s protocols).
 
 > **Exam note:** UPPCS 2025 Q103 — "Acidic solutions have pH **more** than 7" = **FALSE**. Acidic = pH **less than 7**. Basic = pH **more than 7**. Both statements reversed = answer **B (Neither 1 nor 2)**.
 
@@ -176,14 +176,14 @@ KEY TRAPS:
 ### Exam Facts (raata)
 
 - Acid rain threshold: **pH < 5.6**
-- Normal rain pH ≈ **5.6** (CO₂ → H₂CO₃) — not pH 7
+- Normal rain pH is approximately **5.6** (CO₂ forms H₂CO₃), not pH 7.
 - Main acids: **H₂SO₄** (sulphuric) + **HNO₃** (nitric)
-- CO₂ forms only **weak** carbonic acid — not primary acid rain cause
+- CO₂ forms only **weak** carbonic acid and is not the primary acid rain cause.
 - Acid rain = **wet + dry** deposition
-- Secondary pollutant — acids form in atmosphere from SO₂/NOx
+- Acid rain is a **secondary pollutant** because acids form in the atmosphere from SO₂/NOx.
 - pH 4 is **100×** more acidic than pH 6 (logarithmic scale)
 - Acidic = pH **< 7** | Basic = pH **> 7**
-- Transboundary phenomenon — pollutants travel long distances
+- Acid rain is a **transboundary phenomenon** because pollutants travel long distances.
 - Buffering by limestone/calcium reduces damage in some regions
 
 ### PYQs — Acid Rain
@@ -224,16 +224,16 @@ KEY TRAPS:
 
 ### Causes — How It Works
 
-- **Sulphur dioxide (SO₂)** is the **primary cause of sulphuric acid rain** — emitted when **sulphur-containing fuels** (coal, heavy oil, petroleum coke) burn in **thermal power plants, oil refineries, metal smelters, brick kilns, and diesel generators**.
-- **SO₂ atmospheric chemistry**: SO₂ + O₂ → SO₃; SO₃ + H₂O → **H₂SO₄** (sulphuric acid). Also: 2SO₂ + O₂ + 2H₂O → 2H₂SO₄. Requires **oxidants** (O₂, ozone, H₂O₂) and often **sunlight/catalysts**.
-- **Nitrogen oxides (NOx = NO + NO₂)** form at **high combustion temperatures** (>1200°C) when N₂ and O₂ in air react — from **vehicle engines, thermal power plants, industrial boilers, and aircraft**.
-- **NOx atmospheric chemistry**: 2NO + O₂ → 2NO₂; 4NO₂ + O₂ + 2H₂O → 4HNO₃ (nitric acid). Lightning also fixes N₂ → NOx naturally.
-- **CO₂** dissolves in rainwater as **H₂CO₃ (carbonic acid)** — contributes to natural pH 5.6 but is **NOT** the main driver of severe acid rain; conflating CO₂ with SO₂/NOx is the **2024 Q108 trap**.
-- **Vehicles** contribute mainly **NOx** (and some SO₂ if diesel contains sulphur); **coal power plants** contribute mainly **SO₂** (and NOx); **oil refineries and smelters** are major SO₂ point sources.
-- **SO₂ is heavier than air** (molar mass ~64 vs air ~29) — tends to accumulate near emission sources at ground level; **not lighter than air** — UPPCS 2025 Q43 trap (only **helium** among listed gases is lighter).
-- **India's emission profile**: ~70% electricity from **coal**; Singrauli–Sonbhadra belt (UP–MP border) has **multiple super thermal power plants** — major SO₂ hotspot; **NCAP cities** (Kanpur, Ghaziabad, Noida, Lucknow) face combined SO₂ + NOx.
-- **Natural sources** include **volcanic SO₂** (Pinatubo 1991 temporarily cooled climate + local acid deposition) and **lightning NOx** — significant locally but **anthropogenic sources dominate** in industrial regions and exam answers.
-- **Secondary formation in atmosphere** means controlling **primary emissions at source** (chimney, exhaust) is the only effective prevention — acids cannot be filtered after they form in clouds.
+- **Sulphur dioxide (SO₂)** is the **primary cause of sulphuric acid rain**, emitted when **sulphur-containing fuels** (coal, heavy oil, petroleum coke) burn in **thermal power plants, oil refineries, metal smelters, brick kilns, and diesel generators**.
+- **SO₂ atmospheric chemistry**: SO₂ oxidises to SO₃, which reacts with water to form **H₂SO₄** (sulphuric acid). The reaction 2SO₂ + O₂ + 2H₂O also yields 2H₂SO₄. Oxidants (O₂, ozone, H₂O₂) and often **sunlight/catalysts** are required.
+- **Nitrogen oxides (NOx = NO + NO₂)** form at **high combustion temperatures** (>1200°C) when N₂ and O₂ in air react, chiefly from **vehicle engines, thermal power plants, industrial boilers, and aircraft**.
+- **NOx atmospheric chemistry**: 2NO + O₂ forms 2NO₂, and 4NO₂ + O₂ + 2H₂O yields 4HNO₃ (nitric acid). Lightning also fixes N₂ into NOx naturally.
+- **CO₂** dissolves in rainwater as **H₂CO₃ (carbonic acid)**, contributing to natural pH 5.6 but **NOT** driving severe acid rain. Conflating CO₂ with SO₂/NOx is the **2024 Q108 trap**.
+- **Vehicles** contribute mainly **NOx** (and some SO₂ if diesel contains sulphur). **Coal power plants** contribute mainly **SO₂** (and NOx), while **oil refineries and smelters** are major SO₂ point sources.
+- **SO₂ is heavier than air** (molar mass ~64 vs air ~29) and tends to accumulate near emission sources at ground level. It is **not lighter than air**, which is the UPPCS 2025 Q43 trap (only **helium** among listed gases is lighter).
+- **India's emission profile**: ~70% electricity comes from **coal**. The Singrauli–Sonbhadra belt (UP–MP border) has **multiple super thermal power plants** and is a major SO₂ hotspot. **NCAP cities** (Kanpur, Ghaziabad, Noida, Lucknow) face combined SO₂ and NOx.
+- **Natural sources** include **volcanic SO₂** (Pinatubo 1991 temporarily cooled climate and caused local acid deposition) and **lightning NOx**. These matter locally but **anthropogenic sources dominate** in industrial regions and exam answers.
+- **Secondary formation in the atmosphere** means controlling **primary emissions at source** (chimney, exhaust) is the only effective prevention, because acids cannot be filtered after they form in clouds.
 
 > **Exam note:** UPPCS 2025 Q43 — "Sulfur dioxide is lighter than air" = **FALSE**. SO₂ is **heavier** than air. Only **helium** (statement 3) is lighter → answer **B (Only 3)**.
 
@@ -263,11 +263,11 @@ KEY TRAPS:
 ### Exam Facts (raata)
 
 - Primary acid rain gases: **SO₂** and **NOx**
-- SO₂ → **H₂SO₄** | NOx → **HNO₃**
+- SO₂ forms **H₂SO₄** and NOx forms **HNO₃**.
 - Coal TPPs = largest SO₂ source in India
 - Vehicles = major NOx source in cities
-- CO₂ = weak acid only (pH 5.6 baseline) — not main cause
-- SO₂ is **heavier than air** — 2025 Q43 trap
+- CO₂ produces weak acid only (pH 5.6 baseline) and is not the main cause.
+- SO₂ is **heavier than air**, which is the 2025 Q43 trap.
 - Smelting sulphide ores releases SO₂
 - Natural: volcanoes (SO₂), lightning (NOx)
 - Singrauli–Sonbhadra = UP–MP SO₂ hotspot
@@ -307,16 +307,16 @@ KEY TRAPS:
 
 ### Effects — How It Works
 
-- **Aquatic ecosystems**: Acidified lakes/streams (pH **< 5.0**) stop fish reproduction — fish eggs fail, adult fish die; **amphibians** (frogs, salamanders) especially sensitive; **aluminium (Al³⁺)** leached from soil runs into water and is **toxic to gills** even at moderate pH.
-- **Soil degradation**: H⁺ ions from acid rain **displace calcium (Ca²⁺) and magnesium (Mg²⁺)** (essential plant nutrients) through leaching; **aluminium** becomes soluble in acidic soil and **poisons plant roots** — stunted growth, yellowing, reduced crop yield.
-- **Forest damage**: **Coniferous trees** (pine, spruce, fir) most vulnerable — acid fog at cloud level strips **waxy leaf cuticle**, needles brown and die; **deciduous trees** also affected but generally more resistant; forest decline observed in Europe and North America in 1970s–80s.
-- **Crop damage**: Acid rain directly damages **leaf tissue**; soil nutrient loss reduces **rice, wheat, maize** productivity; combined with ozone and other pollutants in Indo-Gangetic Plain.
-- **Monument and building corrosion**: **Marble (CaCO₃) and limestone** react with H₂SO₄: CaCO₃ + H₂SO₄ → CaSO₄ (gypsum) + CO₂ + H₂O — **gypsum crust** forms, surface turns yellow/powdery; **Taj Mahal (Agra, UP)** is the classic Indian exam example.
-- **Metal corrosion**: Acid accelerates rusting of **iron/steel** structures, damages **zinc/galvanised** coatings, erodes **bronze** statues — infrastructure maintenance costs rise.
-- **Human health**: **SO₂ and NOx** (not just deposited acid) cause **respiratory illness** — asthma, bronchitis, lung irritation; **fine sulphate/nitrate particles** (PM₂.₅) penetrate deep into lungs; children and elderly most vulnerable.
-- **Bio-indicators — lichens**: **Lichens** (symbiotic fungi + algae) are extremely sensitive to **SO₂** — thrive in clean air, **die in polluted industrial air**; UPPCS 2025 Q61: lichens indicate air pollution and do **NOT** grow well in polluted areas.
-- **Food chain effects**: Fish loss → affects **piscivorous birds** (osprey, eagles); insect population shifts; **plankton decline** in acidified lakes disrupts entire aquatic food web.
-- **Visibility and aesthetics**: Sulphate aerosols contribute to **regional haze** — reduced visibility at Taj Mahal viewing points; acid damage + particulate soiling compound marble discolouration.
+- **Aquatic ecosystems**: Acidified lakes and streams (pH **below 5.0**) stop fish reproduction as eggs fail and adults die. **Amphibians** (frogs, salamanders) are especially sensitive, and **aluminium (Al³⁺)** leached from soil runs into water and is **toxic to gills** even at moderate pH.
+- **Soil degradation**: H⁺ ions from acid rain **displace calcium (Ca²⁺) and magnesium (Mg²⁺)**, essential plant nutrients, through leaching. **Aluminium** becomes soluble in acidic soil and **poisons plant roots**, causing stunted growth, yellowing, and reduced crop yield.
+- **Forest damage**: **Coniferous trees** (pine, spruce, fir) are most vulnerable. Acid fog at cloud level strips the **waxy leaf cuticle** and needles brown and die. **Deciduous trees** are also affected but generally more resistant. Forest decline was observed in Europe and North America in the 1970s–80s.
+- **Crop damage**: Acid rain directly damages **leaf tissue**, and soil nutrient loss reduces **rice, wheat, and maize** productivity, especially when combined with ozone and other pollutants in the Indo-Gangetic Plain.
+- **Monument and building corrosion**: **Marble (CaCO₃) and limestone** react with H₂SO₄ (CaCO₃ + H₂SO₄ gives CaSO₄ gypsum + CO₂ + H₂O). A **gypsum crust** forms and the surface turns yellow/powdery. **Taj Mahal (Agra, UP)** is the classic Indian exam example.
+- **Metal corrosion**: Acid accelerates rusting of **iron/steel** structures, damages **zinc/galvanised** coatings, and erodes **bronze** statues, raising infrastructure maintenance costs.
+- **Human health**: **SO₂ and NOx** (not just deposited acid) cause **respiratory illness** including asthma, bronchitis, and lung irritation. **Fine sulphate/nitrate particles** (PM₂.₅) penetrate deep into lungs, and children and the elderly are most vulnerable.
+- **Bio-indicators (lichens)**: **Lichens** (symbiotic fungi and algae) are extremely sensitive to **SO₂**. They thrive in clean air and **die in polluted industrial air**. UPPCS 2025 Q61 notes that lichens indicate air pollution and do **NOT** grow well in polluted areas.
+- **Food chain effects**: Fish loss affects **piscivorous birds** (osprey, eagles), shifts insect populations, and **plankton decline** in acidified lakes disrupts the entire aquatic food web.
+- **Visibility and aesthetics**: Sulphate aerosols contribute to **regional haze**, reducing visibility at Taj Mahal viewing points. Acid damage and particulate soiling compound marble discolouration.
 
 > **Exam note:** UPPCS 2025 Q61 — Lichens grow well in polluted areas = **FALSE**. Lichens are **bio-indicators of clean air** — they die when SO₂ levels rise. Direct crossover with acid rain SO₂ effects.
 
@@ -336,15 +336,15 @@ KEY TRAPS:
 ### Exam Facts (raata)
 
 - Fish reproduction fails below pH **~5.0**
-- Al³⁺ mobilised from acidified soil — toxic to fish gills and plant roots
+- Al³⁺ mobilised from acidified soil is toxic to fish gills and plant roots.
 - Conifers most sensitive to acid rain/fog
 - Taj Mahal damaged by SO₂ + acid rain from Mathura refinery belt
-- Marble (CaCO₃) + H₂SO₄ → gypsum (CaSO₄) yellow crust
-- Lichens = bio-indicators — die in SO₂ pollution (2025 Q61)
+- Marble (CaCO₃) reacting with H₂SO₄ forms gypsum (CaSO₄) yellow crust.
+- Lichens are bio-indicators that die in SO₂ pollution (2025 Q61).
 - SO₂/NOx cause respiratory disease directly
 - Nutrient leaching: Ca²⁺, Mg²⁺ lost from soil
 - Acid rain affects aquatic + terrestrial + built environment
-- Transboundary damage — emitter ≠ only victim
+- Acid rain causes **transboundary damage** because the emitter is not the only victim.
 
 ### PYQs — Effects
 
@@ -383,16 +383,16 @@ KEY TRAPS:
 
 ### Prevention — How It Works
 
-- **Flue Gas Desulphurisation (FGD) scrubbers** — installed in **thermal power plant chimneys**; flue gas passed through **limestone/lime slurry** (CaCO₃ or Ca(OH)₂) that absorbs SO₂: CaCO₃ + SO₂ → CaSO₃ + CO₂; converts to **gypsum (CaSO₄)** by-product — can reduce SO₂ by **90%+** per plant.
-- **Low-sulphur coal/washing** — **beneficiation** of coal reduces sulphur content before burning; India mandates **coal washing** for power plants above certain capacity; switching from high-sulphur to **imported low-sulphur coal** in coastal plants.
-- **Catalytic converters** in **vehicle exhaust systems** — convert **NO → N₂** and **CO → CO₂** using platinum/palladium catalysts; mandatory in all new petrol vehicles; reduces NOx that forms nitric acid.
-- **BS-VI emission norms (2020)** — India skipped BS-V to **BS-VI** directly — ultra-low sulphur fuel (**10 ppm sulphur in diesel/petrol**) reduces both direct SO₂ and catalyst poisoning; cuts NOx from new vehicles.
-- **Fuel switching** — replace coal with **natural gas (CNG/LNG)**, which burns with **negligible SO₂** and lower NOx; **LPG** for domestic/industrial use; renewable electricity eliminates combustion emissions entirely.
-- **Tall chimney dispersion** is **NOT prevention** — only spreads pollution farther (transboundary transfer) — real prevention = **emission reduction at source**, not dilution.
-- **CPCB emission standards** — notified limits for SO₂ and NOx from **TPPs, cement, steel, refineries** under Environment (Protection) Rules; **consent to operate** from SPCBs requires compliance monitoring.
-- **Gothenburg Protocol (1999)** under **CLRTAP (Convention on Long-Range Transboundary Air Pollution, 1979)** — European framework to cut SO₂, NOx by set percentages; **not the Montreal Protocol** (ozone) — common exam treaty trap.
-- **Taj Trapezium Zone (TTZ) measures** — **10,400 km²** protected area around Taj Mahal; **292 polluting industries** ordered to switch to gas or relocate (1996 Supreme Court order); **continuous ambient air monitoring**; **green belt** plantation; **Mathura refinery** required to install emission controls.
-- **India-specific progress**: FGD deadline for TPPs extended but mandated under MoEFCC notifications; **National Clean Air Programme (NCAP, 2019)** targets 20–30% PM reduction in 122 cities including UP cities — co-benefit of NOx/SO₂ cuts for acid rain reduction.
+- **Flue Gas Desulphurisation (FGD) scrubbers** are installed in **thermal power plant chimneys**. Flue gas passes through **limestone/lime slurry** (CaCO₃ or Ca(OH)₂) that absorbs SO₂ (CaCO₃ + SO₂ gives CaSO₃ + CO₂) and converts to **gypsum (CaSO₄)** by-product, reducing SO₂ by **90%+** per plant.
+- **Low-sulphur coal/washing** uses **beneficiation** to reduce sulphur content before burning. India mandates **coal washing** for power plants above certain capacity, and coastal plants may switch to **imported low-sulphur coal**.
+- **Catalytic converters** in **vehicle exhaust systems** convert **NO to N₂** and **CO to CO₂** using platinum/palladium catalysts. They are mandatory in all new petrol vehicles and reduce NOx that forms nitric acid.
+- **BS-VI emission norms (2020)**: India skipped BS-V to adopt **BS-VI** directly, with ultra-low sulphur fuel (**10 ppm sulphur in diesel/petrol**) that reduces both direct SO₂ and catalyst poisoning and cuts NOx from new vehicles.
+- **Fuel switching** replaces coal with **natural gas (CNG/LNG)**, which burns with **negligible SO₂** and lower NOx. **LPG** serves domestic/industrial use, and renewable electricity eliminates combustion emissions entirely.
+- **Tall chimney dispersion** is **NOT prevention** because it only spreads pollution farther (transboundary transfer). Real prevention means **emission reduction at source**, not dilution.
+- **CPCB emission standards** set notified limits for SO₂ and NOx from **TPPs, cement, steel, and refineries** under Environment (Protection) Rules. **Consent to operate** from SPCBs requires compliance monitoring.
+- The **Gothenburg Protocol (1999)** under **CLRTAP (Convention on Long-Range Transboundary Air Pollution, 1979)** is a European framework to cut SO₂ and NOx by set percentages. It is **not the Montreal Protocol** (ozone), which is a common exam treaty trap.
+- **Taj Trapezium Zone (TTZ) measures** protect **10,400 km²** around Taj Mahal. **292 polluting industries** were ordered to switch to gas or relocate (1996 Supreme Court order), with **continuous ambient air monitoring**, **green belt** plantation, and **Mathura refinery** emission controls required.
+- **India-specific progress**: FGD deadlines for TPPs were extended but remain mandated under MoEFCC notifications. The **National Clean Air Programme (NCAP, 2019)** targets 20–30% PM reduction in 122 cities including UP cities, with co-benefits from NOx/SO₂ cuts for acid rain reduction.
 
 > **Exam note:** Treaty trap — **Montreal Protocol = ozone layer/ODS** (Topic 11). **Gothenburg Protocol = acid rain/transboundary air pollution**. Picking Montreal for acid rain questions = wrong.
 
@@ -412,16 +412,16 @@ KEY TRAPS:
 
 ### Exam Facts (raata)
 
-- FGD = **Flue Gas Desulphurisation** — removes SO₂ from chimneys
+- FGD stands for **Flue Gas Desulphurisation** and removes SO₂ from chimneys.
 - Scrubbers use **limestone/lime** to absorb SO₂
 - Catalytic converters reduce **NOx** in vehicles
 - BS-VI (2020) = **10 ppm sulphur** fuel in India
-- CNG = near-zero SO₂ — clean fuel switch
+- CNG produces near-zero SO₂ and is a clean fuel switch.
 - Gothenburg Protocol (1999) = acid rain under **CLRTAP**
-- Montreal Protocol = **ozone** — NOT acid rain (trap)
-- Taj Trapezium = **10,400 km²**; SC ordered industry cleanup 1996
-- NCAP 2019 — co-benefits for acidifying pollutants in cities
-- Tall chimneys ≠ prevention — only disperse, not reduce
+- Montreal Protocol targets **ozone**, not acid rain (trap).
+- Taj Trapezium spans **10,400 km²**, and the SC ordered industry cleanup in 1996.
+- NCAP 2019 brings co-benefits for acidifying pollutants in cities.
+- Tall chimneys only disperse pollutants and do not reduce emissions.
 
 ### PYQs — Prevention
 

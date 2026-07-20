@@ -145,16 +145,16 @@ PLASTIC ADVANCED:
 
 ### Sources of Air Pollution — How It Works
 
-- **Natural sources**: volcanic eruptions, dust storms, sea salt spray, wildfires, pollen, lightning-generated NOx — baseline air chemistry; episodic high loads.
+- **Natural sources**: Volcanic eruptions, dust storms, sea salt spray, wildfires, pollen, lightning-generated NOx. Baseline air chemistry. Episodic high loads.
 - **Anthropogenic sources** dominate urban India: **combustion** (coal, diesel, petrol, biomass), **industrial processes**, **construction dust**, **agricultural burning**.
-- **Point sources** have fixed identifiable outlets — **thermal plant chimneys**, **factory stacks**, **CETP vents** — easier to license, monitor, and enforce under Air Act 1981 via SPCB.
-- **Non-point sources** are diffuse — **stubble burning** (Punjab-Haryana-UP border), **unpaved road dust**, **fertilizer ammonia**, **wind-blown soil** — harder to attribute; major contributor to NCR winter PM spikes.
-- **Sectoral breakdown (India urban)**: **vehicular ~40%**, **industrial ~25%**, **dust/construction ~25%**, **residential biomass ~10%** — proportions vary by city and season.
+- **Point sources** have fixed identifiable outlets. **Thermal plant chimneys**, **factory stacks**, **CETP vents**. They are easier to license, monitor, and enforce under Air Act 1981 via SPCB.
+- **Non-point sources** are diffuse, including **stubble burning** (Punjab-Haryana-UP border), **unpaved road dust**, **fertilizer ammonia**, and **wind-blown soil**. They are harder to attribute and are a major contributor to NCR winter PM spikes.
+- **Sectoral breakdown (India urban)**: **vehicular ~40%**, **industrial ~25%**, **dust/construction ~25%**, **residential biomass ~10%**. Proportions vary by city and season.
 - **Primary pollutants emitted directly**: **PM2.5/PM10**, **SO₂**, **NOx**, **CO**, **VOCs**, **NH₃**, **Pb** (legacy petrol), **black carbon**.
-- **Chemical transformation** in atmosphere converts primary emissions to **secondary pollutants** — NOx and VOCs become **O₃** and **PAN**; SO₂ becomes **sulphate aerosols**.
-- **Meteorology modulates impact**: **temperature inversion** traps pollutants near ground (Delhi winter); wind disperses or concentrates pollution; humidity affects particulate hygroscopic growth.
+- **Chemical transformation** in atmosphere converts primary emissions to **secondary pollutants**. NOx and VOCs become **O₃** and **PAN**, and SO₂ becomes **sulphate aerosols**.
+- **Meteorology modulates impact**: **temperature inversion** traps pollutants near ground (Delhi winter). Wind disperses or concentrates pollution. Humidity affects particulate hygroscopic growth.
 - **UP-specific sources**: **post-harvest stubble burning** (western UP districts bordering Haryana), **brick kilns** (Firozabad, Mathura belt), **DG sets** during power cuts, **open waste burning** in urban slums.
-- **Crop residue burning** releases **PM2.5, CO, black carbon** in short intense episodes — drives NCR AQI above 400 in October–November annually.
+- **Crop residue burning** releases **PM2.5, CO, black carbon** in short intense episodes. Drives NCR AQI above 400 in October–November annually.
 
 > **Exam note:** Stubble burning is **non-point agricultural source** — not from a factory chimney. Primary pollutants emit directly; **smog is secondary** (2018 Q121 trap).
 
@@ -172,13 +172,13 @@ PLASTIC ADVANCED:
 
 ### Exam Facts (raata)
 
-- Point vs non-point source distinction — regulatory importance
-- Vehicular ~**40%** urban air pollution India
-- Primary = direct emission | Secondary = atmospheric reaction product
-- Stubble burning = major episodic North India PM source
-- Air Act **1981** governs air pollution control
-- SPCB enforces; CPCB sets NAAQS
-- UP: brick kilns, stubble, NCR industry
+- Point vs non-point source distinction. Regulatory importance.
+- Vehicular ~**40%** urban air pollution India.
+- Primary = direct emission | Secondary = atmospheric reaction product.
+- Stubble burning = major episodic North India PM source.
+- Air Act **1981** governs air pollution control.
+- SPCB enforces. CPCB sets NAAQS.
+- UP: brick kilns, stubble, NCR industry.
 
 ### PYQs — Sources of Air Pollution
 
@@ -214,16 +214,16 @@ PLASTIC ADVANCED:
 
 ### Air Quality — How It Works
 
-- **Air quality** assessed by measuring **criteria pollutants** against **NAAQS** — CPCB prescribes annual and 24-hour average limits for PM2.5, PM10, SO₂, NO₂, CO, O₃, Pb, NH₃, benzene.
-- **PM2.5** (≤2.5 μm) is most health-damaging — penetrates alveoli, enters bloodstream; linked to asthma, COPD, heart disease, premature mortality.
-- **PM10** (≤10 μm) affects upper respiratory tract; construction dust, road dust, pollen are major PM10 components.
-- **SO₂** damages respiratory system, corrodes buildings, kills **lichens** and mosses — classic industrial pollution indicator.
-- **Lichens** are symbiotic algae-fungi — **no cuticle** → absorb pollutants directly; **sensitive to SO₂** — absent or stunted where air polluted — **2025 Q61 stmt 1 TRUE, stmt 2 FALSE**.
-- **Mosses** also used as bio-indicators; **rose and sunflower** are NOT standard air pollution indicators (2019 Q59 trap distractors).
-- **Ringelmann scale** — visual chart comparing smoke **opacity/density** from 0 (clear) to 5 (opaque black) — used for **smoke** monitoring (2021 Q34).
-- **SAFAR** (System of Air Quality and Weather Forecasting and Research) — IITM initiative; provides **AQI forecast + weather** for metros; inaugurated components by **Dr. Harsh Vardhan** July 2018.
-- **Continuous Ambient Air Quality Monitoring Stations (CAAQMS)** — CPCB network reports real-time data; UP stations in Lucknow, Kanpur, Varanasi, Ghaziabad among others.
-- **Satellite AOD** (Aerosol Optical Depth) supplements ground monitoring for regional pollution mapping — used in NCAP city assessments.
+- **Air quality** assessed by measuring **criteria pollutants** against **NAAQS**. CPCB prescribes annual and 24-hour average limits for PM2.5, PM10, SO₂, NO₂, CO, O₃, Pb, NH₃, benzene.
+- **PM2.5** (≤2.5 μm) is most health-damaging. It penetrates alveoli, enters the bloodstream, and raises the risk of asthma, COPD, heart disease, and premature mortality.
+- **PM10** (≤10 μm) affects upper respiratory tract. Construction dust, road dust, pollen are major PM10 components.
+- **SO₂** damages respiratory system, corrodes buildings, kills **lichens** and mosses. Classic industrial pollution indicator.
+- **Lichens** are symbiotic algae-fungi. **They lack a cuticle** allows them to absorb pollutants directly, **sensitive to SO₂**. Lichens are absent or stunted where air polluted, **2025 Q61 stmt 1 TRUE, stmt 2 FALSE**.
+- **Mosses** also used as bio-indicators. **rose and sunflower** are NOT standard air pollution indicators (2019 Q59 trap distractors).
+- **Ringelmann scale**. Visual chart comparing smoke **opacity/density** from 0 (clear) to 5 (opaque black). It is used for **smoke** monitoring (2021 Q34).
+- **SAFAR** (System of Air Quality and Weather Forecasting and Research). IITM initiative, Provides **AQI forecast + weather** for metros. Inaugurated components by **Dr. Harsh Vardhan** July 2018.
+- **Continuous Ambient Air Quality Monitoring Stations (CAAQMS)**. CPCB network reports real-time data. UP stations in Lucknow, Kanpur, Varanasi, Ghaziabad among others.
+- **Satellite AOD** (Aerosol Optical Depth) supplements ground monitoring for regional pollution mapping. Used in NCAP city assessments.
 
 > **Exam note:** **Lichens = good pollution indicators** but **do NOT grow well in polluted areas** — 2025 Q61 answer **Only 1 (D)**. Ringelmann = **smoke**, not water/noise.
 
@@ -240,12 +240,12 @@ PLASTIC ADVANCED:
 
 ### Exam Facts (raata)
 
-- Lichens = SO₂ **bio-indicators** — die in polluted air — 2025 Q61
-- Ringelmann scale = **smoke** density — 2021 Q34
-- SAFAR = AQI + weather forecast — IITM
-- PM2.5 NAAQS 24-hr = **60 μg/m³**
-- NAAQS set by **CPCB** under EPA framework
-- Moss/lichen yes; rose/sunflower NO — 2019 Q59, 2021 Q111
+- Lichens = SO₂ **bio-indicators**. Die in polluted air, and 2025 Q61.
+- Ringelmann scale = **smoke** density. 2021 Q34.
+- SAFAR = AQI + weather forecast. IITM.
+- PM2.5 NAAQS 24-hr = **60 μg/m³**.
+- NAAQS set by **CPCB** under EPA framework.
+- Moss/lichen yes. Rose/sunflower NO, and 2019 Q59, 2021 Q111.
 
 ### PYQs — Air Quality
 
@@ -281,16 +281,16 @@ PLASTIC ADVANCED:
 
 ### Air Quality Index — How It Works
 
-- **AQI** converts complex multi-pollutant data into **single understandable number** for public health communication — higher AQI = worse air.
-- **Eight pollutants** in India's AQI: **PM10, PM2.5, NO₂, SO₂, CO, O₃, NH₃, Pb** — AQI dominated by **worst sub-index** pollutant (maximum of sub-indices).
+- **AQI** converts complex multi-pollutant data into **single understandable number** for public health communication. Higher AQI = worse air.
+- **Eight pollutants** in India's AQI: **PM10, PM2.5, NO₂, SO₂, CO, O₃, NH₃, Pb**. AQI dominated by **worst sub-index** pollutant (maximum of sub-indices).
 - **CPCB AQI categories**: **0–50 Good (green)** | **51–100 Satisfactory (light green)** | **101–200 Moderate (yellow)** | **201–300 Poor (orange)** | **301–400 Very Poor (red)** | **401–500 Severe (maroon)** | **500+ Severe+**.
-- **Health advisories** escalate with AQI: Good = no restriction; Moderate = sensitive groups caution; Very Poor = avoid outdoor exercise; Severe = minimize outdoor activity for all.
-- **Sub-index calculation**: each pollutant concentration mapped to breakpoint scale — if PM2.5 worst, overall AQI reflects PM2.5 sub-index.
-- **Delhi/UP winter**: AQI frequently **301–500** due to stubble smoke + inversion + vehicular PM2.5 — "severe" category for weeks.
-- **SAFAR** integrates **emission inventory + weather model** for forecast — helps government issue health advisories and GRAP (Graded Response Action Plan) in NCR.
-- **Limitations**: AQI is **24-hour or 8-hour average** communication tool — does not capture ultrafine particles (<0.1 μm) or all toxics (benzene, PAHs) unless separately monitored.
-- **Mobile apps** (Sameer by CPCB) disseminate real-time AQI from CAAQMS stations — public transparency tool.
-- **Indoor AQI** can differ drastically from outdoor — biomass cooking indoors may expose women to PM2.5 levels equivalent to AQI 500+ in poorly ventilated kitchens.
+- **Health advisories** escalate with AQI. Good means no restriction, Moderate warns sensitive groups, Very Poor advises avoiding outdoor exercise, and Severe calls for minimizing outdoor activity for everyone.
+- **Sub-index calculation**: Each pollutant concentration mapped to breakpoint scale. If PM2.5 worst, overall AQI reflects PM2.5 sub-index.
+- **Delhi/UP winter**: AQI frequently **301–500** due to stubble smoke + inversion + vehicular PM2.5. "severe" category for weeks.
+- **SAFAR** integrates **emission inventory + weather model** for forecast. Helps government issue health advisories and GRAP (Graded Response Action Plan) in NCR.
+- **Limitations**: AQI is **24-hour or 8-hour average** communication tool. Does not capture ultrafine particles (<0.1 μm) or all toxics (benzene, PAHs) unless separately monitored.
+- **Mobile apps** (Sameer by CPCB) disseminate real-time AQI from CAAQMS stations. Public transparency tool.
+- **Indoor AQI** can differ drastically from outdoor. Biomass cooking indoors may expose women to PM2.5 levels equivalent to AQI 500+ in poorly ventilated kitchens.
 
 > **Exam note:** AQI **0–50 = Good**, not 0–100. AQI dominated by **maximum sub-index** pollutant, not average. SAFAR ≠ CPCB (SAFAR = forecast research system; CPCB = regulatory standards body).
 
@@ -308,13 +308,13 @@ PLASTIC ADVANCED:
 
 ### Exam Facts (raata)
 
-- India AQI scale **0–500+**
-- 8 pollutants in sub-index calculation
-- Worst sub-index sets overall AQI
-- 0–50 Good | 401–500 Severe
-- SAFAR provides **forecast** — IITM
-- Sameer app = CPCB AQI dissemination
-- Winter UP-NCR often Very Poor/Severe
+- India AQI scale **0–500+**.
+- 8 pollutants in sub-index calculation.
+- Worst sub-index sets overall AQI.
+- 0–50 Good | 401–500 Severe.
+- SAFAR provides **forecast**. IITM.
+- Sameer app = CPCB AQI dissemination.
+- Winter UP-NCR often Very Poor/Severe.
 
 ### PYQs — AQI
 
@@ -350,16 +350,16 @@ PLASTIC ADVANCED:
 
 ### NCAP — How It Works
 
-- **NCAP launched January 2019** by **MoEFCC** — India's flagship **air quality improvement** programme — not a separate Act but policy under EPA 1986/Air Act 1981 framework.
-- **122 non-attainment cities** identified based on PM10/PM2.5 NAAQS exceedance — includes **10+ UP cities**: Lucknow, Kanpur, Ghaziabad, Agra, Varanasi, Meerut, Noida, Prayagraj, Moradabad, Bareilly, Firozabad.
-- **Target**: reduce PM10 and PM2.5 concentration by **20–30% by 2024** relative to 2017 base year — timeline **extended** in subsequent reviews; mid-term review 2022 assessed progress.
-- **Funding**: ₹4,400 crore allocated under **XV Finance Commission** air quality grants to cities — performance-linked disbursement.
+- **NCAP launched January 2019** by **MoEFCC**. India's flagship **air quality improvement** programme. It is not a separate Act but policy under EPA 1986/Air Act 1981 framework.
+- **122 non-attainment cities** identified based on PM10/PM2.5 NAAQS exceedance. Includes **10+ UP cities**: Lucknow, Kanpur, Ghaziabad, Agra, Varanasi, Meerut, Noida, Prayagraj, Moradabad, Bareilly, Firozabad.
+- **Target**: Reduce PM10 and PM2.5 concentration by **20–30% by 2024** relative to 2017 base year. Timeline **extended** in subsequent reviews. A mid-term review 2022 assessed progress.
+- **Funding**: ₹4,400 crore allocated under **XV Finance Commission** air quality grants to cities. Performance-linked disbursement.
 - **City Action Plans** include: **road dust suppression**, **greening**, **CETP compliance**, **BS-VI enforcement**, **industrial zig-zag kiln conversion**, **public transport expansion**, **stubble management incentives**.
-- **Source apportionment studies** mandated per city — identifies whether dust, vehicles, or industry dominates — Kanpur shows industrial + domestic + vehicular mix.
-- **Institutional mechanism**: **Central Pollution Control Board** coordinates; **State Pollution Control Boards** implement; **Urban Local Bodies** execute local measures.
-- **Monitoring expansion**: additional CAAQMS stations installed in NCAP cities — real-time data drives accountability.
-- **Overlap with NCR GRAP**: Delhi-NCR (including Ghaziabad, Noida, Meerut) has **Graded Response Action Plan** — emergency measures when AQI crosses thresholds — complements NCAP.
-- **Trap**: NCAP ≠ National Action Plan on Climate Change (NAPCC 2008) — NCAP = **air pollution**; NAPCC = **climate missions**.
+- **Source apportionment studies** mandated per city. Identifies whether dust, vehicles, or industry dominates. Kanpur shows industrial + domestic + vehicular mix.
+- **Institutional mechanism**: **Central Pollution Control Board** coordinates. **State Pollution Control Boards** implement, and **Urban Local Bodies** execute local measures.
+- **Monitoring expansion**: Additional CAAQMS stations installed in NCAP cities. Real-time data drives accountability.
+- **Overlap with NCR GRAP**: Delhi-NCR (including Ghaziabad, Noida, Meerut) has **Graded Response Action Plan**. Emergency measures when AQI crosses thresholds. It complements NCAP.
+- **Trap**: NCAP ≠ National Action Plan on Climate Change (NAPCC 2008). NCAP = **air pollution**. NAPCC = **climate missions**.
 
 > **Exam note:** NCAP = **2019**, **122 cities**, **20–30% PM reduction**. UP has among highest NCAP city counts in India. MoEFCC nodal — not MoHUA alone.
 
@@ -375,13 +375,13 @@ PLASTIC ADVANCED:
 
 ### Exam Facts (raata)
 
-- NCAP **2019** — MoEFCC
-- **122** non-attainment cities
-- Target **20–30%** PM reduction (2017 baseline)
-- UP among top states in NCAP city count
-- XV Finance Commission funds
-- CAP = city-specific action plan
-- Not the same as GRAP (NCR emergency) or NAPCC (climate)
+- NCAP **2019**. MoEFCC.
+- **122** non-attainment cities.
+- Target **20–30%** PM reduction (2017 baseline).
+- UP among top states in NCAP city count.
+- XV Finance Commission funds.
+- CAP = city-specific action plan.
+- Not the same as GRAP (NCR emergency) or NAPCC (climate).
 
 ### PYQs — NCAP
 
@@ -417,15 +417,15 @@ PLASTIC ADVANCED:
 
 ### Smog — How It Works
 
-- **Smog** = **SMoke + fOG** — visible haze reducing visibility, irritating eyes and lungs, damaging vegetation.
-- **London/classical smog** (1952 Great Smog killed ~4,000): **SO₂ + smoke particulates + fog droplets** in **cool, humid, stagnant** winter conditions — **reducing atmosphere**.
+- **Smog** is **SMoke + fOG**. Visible haze reducing visibility, irritating eyes and lungs, damaging vegetation.
+- **London/classical smog** (1952 Great Smog killed ~4,000): **SO₂ + smoke particulates + fog droplets** in **cool, humid, stagnant** winter conditions. **reducing atmosphere**.
 - **Causes**: coal burning (domestic + industrial), vehicle exhaust (older engines), **low wind**, **temperature inversion** trapping pollutants near surface.
-- **Chemistry**: SO₂ dissolves in fog water → **sulphurous/sulphuric acid** droplets → acid fog damages lungs; combined with soot causes severe respiratory mortality.
-- **Health effects**: bronchitis, asthma attacks, eye watering, hospital admissions spike — elderly and children most vulnerable.
-- **Visibility** drops below 100 m in severe episodes — transport accidents increase.
-- **India's winter smog** (Delhi-NCR, UP cities) combines **classical elements** (SO₂, PM) with **photochemical components** (O₃) — **hybrid smog** in practice.
-- **2019 Q136**: smog essentially caused by atmospheric presence of **oxides of nitrogen and sulphur** — both acid-forming, respiratory-irritating smog precursors.
-- **2018 Q121 trap**: **smog is secondary pollutant** — formed in atmosphere from primary NOx/SOx/PM emissions — not emitted as ready-made "smog."
+- **Chemistry**: SO₂ dissolves in fog water produces **sulphurous/sulphuric acid** droplets produces acid fog damages lungs. Combined with soot causes severe respiratory mortality.
+- **Health effects**: Bronchitis, asthma attacks, eye watering, hospital admissions spike. Elderly and children most vulnerable.
+- **Visibility** drops below 100 m in severe episodes. Transport accidents increase.
+- **India's winter smog** (Delhi-NCR, UP cities) combines **classical elements** (SO₂, PM) with **photochemical components** (O₃). **hybrid smog** in practice.
+- **2019 Q136**: Smog essentially caused by atmospheric presence of **oxides of nitrogen and sulphur**. Both acid-forming, respiratory-irritating smog precursors.
+- **2018 Q121 trap**: **smog is secondary pollutant**. Formed in atmosphere from primary NOx/SOx/PM emissions. Smog is not emitted as ready-made "smog.".
 - **Mitigation**: clean fuel (PNG, BS-VI), electrostatic precipitators on stacks, ban open burning, odd-even traffic (emergency), dispersion via wind.
 
 > **Exam note:** Smog = **secondary** pollutant (2018 Q121). Classical smog precursors = **SOx + NOx + smoke** (2019 Q136). Do not confuse with photochemical smog alone (§38.6) — London type is SO₂-heavy.
@@ -442,13 +442,13 @@ PLASTIC ADVANCED:
 
 ### Exam Facts (raata)
 
-- Smog = smoke + fog
-- **Secondary pollutant** — 2018 Q121
-- London type = SO₂ + smoke + fog
-- 2019 Q136: NOx + SOx oxides cause smog
-- Great Smog London **1952** — historic mortality
-- India winter = hybrid classical + photochemical
-- Inversion traps smog near ground
+- Smog = smoke + fog.
+- **Secondary pollutant**. 2018 Q121.
+- London type = SO₂ + smoke + fog.
+- 2019 Q136: NOx + SOx oxides cause smog.
+- Great Smog London **1952**. Historic mortality.
+- India winter = hybrid classical + photochemical.
+- Inversion traps smog near ground.
 
 ### PYQs — Smog
 
@@ -484,16 +484,16 @@ PLASTIC ADVANCED:
 
 ### Photochemical Smog — How It Works
 
-- **Photochemical smog** requires **sunlight + NOx + VOCs (hydrocarbons)** — sequence begins with vehicle/industrial emissions.
-- **Step 1**: NO₂ absorbs UV → **NO + O**; O combines with O₂ → **O₃ (ozone)** at ground level.
-- **Step 2**: O₃ and hydrocarbons form **PAN (peroxyacetyl nitrate)**, **aldehydes**, **peroxides** — eye irritants, plant damage.
-- **Oxidizing atmosphere**: unlike London smog, photochemical smog **oxidizes** materials — rubber cracking, fabric fading.
-- **2022 Q46**: photochemical smog **always contains ozone** — defining component; not phosphorus, methane, or aluminium ion.
-- **Peak timing**: afternoon **1–4 PM** when UV strongest — ozone concentrations maximum; differs from morning rush-hour PM peak.
-- **Health**: ozone irritates lungs, reduces lung function, triggers asthma; PAN causes eye watering; long-term exposure damages crop yields.
-- **Plants**: **ozone necrosis** on leaf surfaces — visible stippling; reduces wheat/rice yields in polluted basins.
-- **Delhi summer**: high photochemical O₃ even when PM differs — dual air quality challenge.
-- **Control**: reduce **NOx** (BS-VI vehicles, CNG buses) and **VOCs** (solvent regulations, vapour recovery at petrol pumps) — cuts ozone precursor supply.
+- **Photochemical smog** requires **sunlight + NOx + VOCs (hydrocarbons)**. Sequence begins with vehicle/industrial emissions.
+- **Step 1**: NO₂ absorbs UV produces **NO + O**. O combines with O₂ produces **O₃ (ozone)** at ground level.
+- **Step 2**: O₃ and hydrocarbons form **PAN (peroxyacetyl nitrate)**, **aldehydes**, **peroxides**. Eye irritants, plant damage.
+- **Oxidizing atmosphere**: Unlike London smog, photochemical smog **oxidizes** materials. Rubber cracking, fabric fading.
+- **2022 Q46**: Photochemical smog **always contains ozone**. Defining component. Not phosphorus, methane, or aluminium ion.
+- **Peak timing**: Afternoon **1–4 PM** when UV strongest. Ozone concentrations maximum. This differs from morning rush-hour PM peak.
+- **Health**: Ozone irritates lungs, reduces lung function, triggers asthma. PAN causes eye watering. Long-term exposure damages crop yields.
+- **Plants**: **ozone necrosis** on leaf surfaces. Visible stippling. Reduces wheat/rice yields in polluted basins.
+- **Delhi summer**: High photochemical O₃ even when PM differs. Dual air quality challenge.
+- **Control**: Reduce **NOx** (BS-VI vehicles, CNG buses) and **VOCs** (solvent regulations, vapour recovery at petrol pumps). Cuts ozone precursor supply.
 
 > **Exam note:** Photochemical smog **always has O₃** (2022 Q46). Ground-level O₃ = harmful; stratospheric O₃ = UV shield — good up, bad down.
 
@@ -508,13 +508,13 @@ PLASTIC ADVANCED:
 
 ### Exam Facts (raata)
 
-- Requires **sunlight + NOx + VOCs**
-- **O₃** always present — 2022 Q46
-- PAN = eye irritant, plant toxin
-- Oxidizing smog — LA model
-- Afternoon ozone peak
-- BS-VI reduces NOx precursor
-- Ground-level O₃ harmful
+- Requires **sunlight + NOx + VOCs**.
+- **O₃** always present. 2022 Q46.
+- PAN = eye irritant, plant toxin.
+- Oxidizing smog. LA model.
+- Afternoon ozone peak.
+- BS-VI reduces NOx precursor.
+- Ground-level O₃ harmful.
 
 ### PYQs — Photochemical Smog
 
@@ -550,16 +550,16 @@ PLASTIC ADVANCED:
 
 ### Industrial Emissions — How It Works
 
-- **Industrial air emissions**: **SPM (suspended particulate matter)**, **SO₂**, **NOx**, **CO**, **VOCs**, **H₂S**, **NH₃**, **heavy metals** (Hg, Pb) — via chimneys and fugitive dust.
-- **Fly ash** — fine **siliceous/aluminous** ash from coal combustion — **2021 Q143: thermal power plants** are primary source; not fertilizer or mining primarily.
-- **Fly ash disposal**: traditionally lagoons; now used in **cement, bricks, road embankments** per MoEFCC fly ash notification — 100% utilization target.
-- **CETPs** in clusters (Kanpur leather, Firozabad glass) treat **liquid effluent** — when bypassed, **chromium, dyes, BOD** enter Ganga/Gomti.
-- **Kanpur tanneries**: **chromium (Cr VI)** in effluent — heavy metal soil/water pollution; chrome tanning waste historically dumped in Ganga.
-- **Red category industries** (CPCB): highest pollution potential — cement, tanneries, pharmaceuticals, pulp paper — strictest consent conditions.
-- **Zig-zag brick kiln conversion** under NCAP — reduces coal consumption and **SPM emissions** from traditional brick sector.
-- **Stack height** regulations disperse emissions — but ground-level **fugitive dust** from raw material handling often exceeds stack contribution.
-- **Singrauli-Sonbhadra belt**: multiple **super thermal plants** — regional SO₂, PM, fly ash hotspot affecting UP-MP air and water.
-- **Emission standards**: CPCB industry-specific standards (mg/Nm³) for SO₂, PM — continuous online monitoring (OCEMS) mandated for 17 categories.
+- **Industrial air emissions**: **SPM (suspended particulate matter)**, **SO₂**, **NOx**, **CO**, **VOCs**, **H₂S**, **NH₃**, **heavy metals** (Hg, Pb). Via chimneys and fugitive dust.
+- **Fly ash**. Fine **siliceous/aluminous** ash from coal combustion, **2021 Q143: thermal power plants** are primary source. It is not from fertilizer or mining primarily.
+- **Fly ash disposal**: Traditionally lagoons. Now used in **cement, bricks, road embankments** per MoEFCC fly ash notification, and 100% utilization target.
+- **CETPs** in clusters (Kanpur leather, Firozabad glass) treat **liquid effluent**. When bypassed, **chromium, dyes, BOD** enter Ganga/Gomti.
+- **Kanpur tanneries**: **chromium (Cr VI)** in effluent. Heavy metal soil/water pollution. Chrome tanning waste historically dumped in Ganga.
+- **Red category industries** (CPCB): highest pollution potential. Cement, tanneries, pharmaceuticals, pulp paper. They face the strictest consent conditions.
+- **Zig-zag brick kiln conversion** under NCAP. Reduces coal consumption and **SPM emissions** from traditional brick sector.
+- **Stack height** regulations disperse emissions. But ground-level **fugitive dust** from raw material handling often exceeds stack contribution.
+- **Singrauli-Sonbhadra belt**: Multiple **super thermal plants**. Regional SO₂, PM, fly ash hotspot affecting UP-MP air and water.
+- **Emission standards**: CPCB industry-specific standards (mg/Nm³) for SO₂, PM. Continuous online monitoring (OCEMS) mandated for 17 categories.
 
 > **Exam note:** Fly ash = **thermal power plant** (2021 Q143). Kanpur tanneries = **chromium** industrial pollution — UP's worst Ganga stretch.
 
@@ -576,13 +576,13 @@ PLASTIC ADVANCED:
 
 ### Exam Facts (raata)
 
-- Fly ash from **coal thermal plants** — 2021 Q143
-- Kanpur = leather **chromium** effluent
-- CETP = cluster effluent treatment
-- Red/orange/green industry categorization — CPCB
-- OCEMS = online emission monitoring
-- Zig-zag kilns = NCAP brick sector measure
-- Singrauli = UP-MP industrial pollution belt
+- Fly ash from **coal thermal plants**. 2021 Q143.
+- Kanpur = leather **chromium** effluent.
+- CETP = cluster effluent treatment.
+- Red/orange/green industry categorization. CPCB.
+- OCEMS = online emission monitoring.
+- Zig-zag kilns = NCAP brick sector measure.
+- Singrauli = UP-MP industrial pollution belt.
 
 ### PYQs — Industrial Emissions
 
@@ -619,15 +619,15 @@ PLASTIC ADVANCED:
 ### Vehicular Emissions — How It Works
 
 - **Petrol engines** emit **CO** (incomplete combustion), **VOCs** (unburnt hydrocarbons), **NOx** at high temperature, fine **PM** (especially direct injection).
-- **Diesel engines** emit higher **PM2.5** and **NOx** — heavy trucks/buses disproportionately contribute per vehicle-km; **BS-VI** mandates DPF and SCR systems reducing both.
-- **BS-VI fuel** has **10 ppm sulphur** (vs 50 ppm BS-IV) — enables advanced after-treatment; reduces SO₂ and particulate sulfate formation.
-- **Two-wheelers** (UP has massive fleet) emit **PM and VOCs** — CNG/electric conversion targets under city plans.
-- **Old vehicles**: pre-BS-IV vehicles remain on road — **15-year scrappage policy** (2021) targets phasing old polluting fleet.
-- **Idling traffic** in Lucknow, Kanpur, NCR corridors — stop-start increases CO and PM per trip; congestion management = pollution control.
-- **Dust resuspension** from vehicles on unpaved shoulders is **non-exhaust** emission — significant in dry UP summers.
-- **CNG buses** (Lucknow, Delhi-NCR) reduce PM vs diesel but emit some **NOx** and **CH₄ slip** — net air quality benefit in cities.
-- **Electric vehicles (EVs)**: zero **tailpipe** emissions — lifecycle pollution depends on grid mix (coal-heavy grid = upstream emissions at power plant).
-- **Enforcement**: PUC (Pollution Under Control) certificate mandatory — SPCB-licensed centres test CO/HC for petrol, smoke density for diesel.
+- **Diesel engines** emit higher **PM2.5** and **NOx**. Heavy trucks/buses disproportionately contribute per vehicle-km, and **BS-VI** mandates DPF and SCR systems reducing both.
+- **BS-VI fuel** has **10 ppm sulphur** (vs 50 ppm BS-IV). Enables advanced after-treatment. This reduces SO₂ and particulate sulfate formation.
+- **Two-wheelers** (UP has massive fleet) emit **PM and VOCs**. CNG/electric conversion targets under city plans.
+- **Old vehicles**: Pre-BS-IV vehicles remain on road. **15-year scrappage policy** (2021) targets phasing old polluting fleet.
+- **Idling traffic** in Lucknow, Kanpur, NCR corridors. Stop-start increases CO and PM per trip. Congestion management = pollution control.
+- **Dust resuspension** from vehicles on unpaved shoulders is **non-exhaust** emission. Significant in dry UP summers.
+- **CNG buses** (Lucknow, Delhi-NCR) reduce PM vs diesel but emit some **NOx** and **CH₄ slip**. Net air quality benefit in cities.
+- **Electric vehicles (EVs)**: Zero **tailpipe** emissions. Lifecycle pollution depends on grid mix (coal-heavy grid = upstream emissions at power plant).
+- **Enforcement**: PUC (Pollution Under Control) certificate mandatory. SPCB-licensed centres test CO/HC for petrol, smoke density for diesel.
 
 > **Exam note:** BS-VI from **April 2020 nationwide** — not 2022. Vehicular = largest urban **NOx** source driving photochemical smog (§38.6). PUC certificate = on-road compliance tool.
 
@@ -641,13 +641,13 @@ PLASTIC ADVANCED:
 
 ### Exam Facts (raata)
 
-- Vehicular ~**35–40%** urban PM2.5 India
-- BS-VI = **April 2020** nationwide; 10 ppm sulphur
-- Diesel = high PM + NOx | Petrol = high CO + VOC
-- PUC certificate mandatory
-- Scrappage policy for old vehicles
-- CNG reduces PM vs diesel
-- EV = zero tailpipe; grid upstream matters
+- Vehicular ~**35–40%** urban PM2.5 India.
+- BS-VI = **April 2020** nationwide. 10 ppm sulphur.
+- Diesel = high PM + NOx | Petrol = high CO + VOC.
+- PUC certificate mandatory.
+- Scrappage policy for old vehicles.
+- CNG reduces PM vs diesel.
+- EV = zero tailpipe. Grid upstream matters.
 
 ### PYQs — Vehicular Emissions
 
@@ -683,16 +683,16 @@ PLASTIC ADVANCED:
 
 ### Indoor Air Pollution — How It Works
 
-- **Biomass fuel** (wood, dung cakes, crop residue) on **traditional chulha** burns inefficiently — releases **PM2.5, CO, benzene, formaldehyde, PAHs** in enclosed kitchens.
-- **Women and children** bear highest exposure — hours daily near cooking fire; **WHO** links to COPD, lung cancer, low birth weight, child pneumonia deaths.
-- **PM2.5 in poorly ventilated kitchen** can reach **500–1000 μg/m³** — equivalent to outdoor AQI Severe+ for many hours daily — far exceeding NAAQS.
-- **LPG/PNG transition** (Ujjwala Yojana 2016) reduces indoor PM — **Pradhan Mantri Ujjwala Yojana** provided LPG connections to BPL households — major indoor air intervention.
-- **Second-hand tobacco smoke** — **3500+ chemicals**, 70 carcinogens — affects non-smokers indoors; bans in public places under COTPA 2003.
-- **Building materials**: **asbestos** (older roofs), **formaldehyde** from furniture, **radon** (less common India) — chronic exposure risks.
-- **Incense/agarbatti** and **mosquito coils** — significant PM and VOC source in Indian homes — episodic high indoor PM.
-- **School classrooms** near busy roads — outdoor PM infiltrates — children exposed even "indoors."
+- **Biomass fuel** (wood, dung cakes, crop residue) on **traditional chulha** burns inefficiently. Releases **PM2.5, CO, benzene, formaldehyde, PAHs** in enclosed kitchens.
+- **Women and children** bear highest exposure. Hours daily near cooking fire, and **WHO** links to COPD, lung cancer, low birth weight, child pneumonia deaths.
+- **PM2.5 in poorly ventilated kitchen** can reach **500–1000 μg/m³**. Equivalent to outdoor AQI Severe+ for many hours daily. This far exceeds NAAQS.
+- **LPG/PNG transition** (Ujjwala Yojana 2016) reduces indoor PM. **Pradhan Mantri Ujjwala Yojana** provided LPG connections to BPL households. They are a major indoor air intervention.
+- **Second-hand tobacco smoke**. **3500+ chemicals**, 70 carcinogens, Affects non-smokers indoors. Bans apply in public places under COTPA 2003.
+- **Building materials**: **asbestos** (older roofs), **formaldehyde** from furniture, **radon** (less common India). Chronic exposure risks.
+- **Incense/agarbatti** and **mosquito coils**. Significant PM and VOC source in Indian homes. Episodic high indoor PM.
+- **School classrooms** near busy roads. Outdoor PM infiltrates. Children exposed even "indoors.".
 - **Mitigation**: improved **chulha design** (forced draft biomass stoves), **ventilation**, LPG access, **electric induction** cooking, air purifiers (urban affluent).
-- **Rural UP**: Bundelkhand and eastern UP still have high solid-fuel cooking share — indoor IAP remains public health priority despite Ujjwala gains.
+- **Rural UP**: Bundelkhand and eastern UP still have high solid-fuel cooking share. Indoor IAP remains public health priority despite Ujjwala gains.
 
 > **Exam note:** Indoor pollution often **exceeds outdoor** in biomass-using homes. Ujjwala = LPG access — reduces indoor PM. IAP is **point source inside home**, not NCAP's primary outdoor focus but health-critical.
 
@@ -707,13 +707,13 @@ PLASTIC ADVANCED:
 
 ### Exam Facts (raata)
 
-- Chulha biomass = major rural **PM2.5 + CO**
-- IAP among WHO top 10 health risks
-- Ujjwala Yojana **2016** — LPG to BPL
-- Indoor PM can exceed **500 μg/m³**
-- Second-hand smoke = COTPA control
-- Mosquito coil/incense = indoor PM source
-- Rural UP high solid-fuel use pockets
+- Chulha biomass = major rural **PM2.5 + CO**.
+- IAP among WHO top 10 health risks.
+- Ujjwala Yojana **2016**. LPG to BPL.
+- Indoor PM can exceed **500 μg/m³**.
+- Second-hand smoke = COTPA control.
+- Mosquito coil/incense = indoor PM source.
+- Rural UP high solid-fuel use pockets.
 
 ### PYQs — Indoor Air Pollution
 
@@ -749,15 +749,15 @@ PLASTIC ADVANCED:
 
 ### Surface Water Pollution — How It Works
 
-- **Organic pollution** (sewage, food processing, tannery) raises **BOD** — microbes consume **dissolved oxygen (DO)** decomposing waste — fish suffocate when DO < **5 mg/L**.
-- **2023 Q103**: BOD is standard criterion for **pollution assay in aquatic ecosystems** — measures **organic** biodegradable pollution load.
-- **COD** (Chemical Oxygen Demand) ≥ BOD always — includes non-biodegradable organics; industrial effluent often has high COD/BOD ratio.
-- **Eutrophication** (2019 Q56, 2020 Q76): **(1) nutrient enrichment TRUE** + **(2) depletes dissolved oxygen TRUE** → **Both correct (C)** — algal bloom → decomposition → anoxia → fish kill.
-- **Nutrient sources**: **fertilizer runoff** (N/P), **sewage** (phosphate detergents), **detergent phosphate** — UP Indo-Gangetic agriculture major N/P contributor.
-- **Ganga at Kanpur**: **tannery chromium + domestic sewage** — among worst BOD stretches; Namami Gange STPs target BOD reduction.
-- **Gomti river Lucknow** — **2018 Q99**: declared **"biological disaster"** due to environmental pollution — domestic sewage + industrial drains into Lucknow stretch.
-- **Coliform bacteria** (faecal coliform) indicate **sewage/pathogen** contamination — bathing standard <500 MPN/100ml (CPCB).
-- **Thermal pollution** from power plant cooling water discharge raises temperature → lowers DO → aquatic stress (links industrial discharge).
+- **Organic pollution** (sewage, food processing, tannery) raises **BOD**. Microbes consume **dissolved oxygen (DO)** decomposing waste. Fish suffocate when DO < **5 mg/L**.
+- **2023 Q103**: BOD is standard criterion for **pollution assay in aquatic ecosystems**. Measures **organic** biodegradable pollution load.
+- **COD** (Chemical Oxygen Demand) ≥ BOD always. Includes non-biodegradable organics. Industrial effluent often has high COD/BOD ratio.
+- **Eutrophication** (2019 Q56, 2020 Q76): **(1) nutrient enrichment TRUE** + **(2) depletes dissolved oxygen TRUE** leads to **Both correct (C)**. Algal bloom produces decomposition produces anoxia produces fish kill.
+- **Nutrient sources**: **fertilizer runoff** (N/P), **sewage** (phosphate detergents), **detergent phosphate**. UP Indo-Gangetic agriculture major N/P contributor.
+- **Ganga at Kanpur**: **tannery chromium + domestic sewage**. Among worst BOD stretches. Namami Gange STPs target BOD reduction.
+- **Gomti river Lucknow**. **2018 Q99**: declared **"biological disaster"** due to environmental pollution. Domestic sewage + industrial drains into Lucknow stretch.
+- **Coliform bacteria** (faecal coliform) indicate **sewage/pathogen** contamination. Bathing standard <500 MPN/100ml (CPCB).
+- **Thermal pollution** from power plant cooling water discharge raises temperature produces lowers DO produces aquatic stress (links industrial discharge).
 - **Oil films, pesticides, heavy metals** from surface runoff add toxic layer on aquatic ecosystems.
 
 > **Exam note:** BOD = **aquatic organic pollution** (2023 Q103). Eutrophication **both** nutrient enrichment AND oxygen depletion correct. **Gomti = Lucknow**, not Kanpur — 2018 Q99.
@@ -774,13 +774,13 @@ PLASTIC ADVANCED:
 
 ### Exam Facts (raata)
 
-- BOD = aquatic **organic pollution** assay — 2023 Q103
-- Eutrophication: nutrient enrichment + DO depletion — both true
-- DO <5 mg/L stresses fish
-- Gomti = UP biological disaster — 2018 Q99
-- Kanpur = worst Ganga tannery+sewage stretch
-- Coliform = sewage indicator
-- Clean river BOD <3 mg/L
+- BOD = aquatic **organic pollution** assay. 2023 Q103.
+- Eutrophication: nutrient enrichment + DO depletion. Both true.
+- DO <5 mg/L stresses fish.
+- Gomti = UP biological disaster. 2018 Q99.
+- Kanpur = worst Ganga tannery+sewage stretch.
+- Coliform = sewage indicator.
+- Clean river BOD <3 mg/L.
 
 ### PYQs — Surface Water Pollution
 
@@ -816,16 +816,16 @@ PLASTIC ADVANCED:
 
 ### Groundwater Pollution — How It Works
 
-- **India extracts ~25% of global groundwater** — largest user — agriculture (80%+ of groundwater use) drives depletion and pollution vulnerability.
+- **India extracts ~25% of global groundwater**. Largest user. Agriculture (80%+ of groundwater use) drives depletion and pollution vulnerability.
 - **Anthropogenic contaminants**: **nitrate** (fertilizer/septic), **pesticides** (farm leaching), **heavy metals** (tannery/ industrial lagoons), **Uranium** (Punjab-UP-Haryana belt reports), **salinity** (over-irrigation).
-- **Arsenic contamination**: **Gangetic basin** — **Bangladesh** worst globally (2022 Q63); **eastern UP, Bihar, West Bengal** affected — causes skin lesions, cancer — from **reducing aquifer conditions** releasing arsenic from sediments.
-- **Fluoride**: **geogenic** in **Rajasthan, UP pockets (Agra, Mathura), Telangana** — causes **fluorosis** (mottled teeth, skeletal damage) above **1.5 mg/L** WHO limit.
-- **2025 Q70**: **Annual Groundwater Quality Report 2024** prepared by **CGWB (Only 3)** — **NOT CPCB or CWC** — classic org-report trap.
-- **CPCB** monitors **ambient surface water and air** — groundwater quality reporting is **CGWB** mandate under Jal Shakti.
-- **Industrial leachate** from fly ash ponds, tannery sludge, sugar effluent percolates to aquifers — **Kanpur-Unnao** chromium groundwater plumes documented.
-- **Over-extraction** lowers water table → **concentrates pollutants** — same volume of arsenic/fluoride in less water = higher concentration.
-- **Atal Bhujal Yojana (2020)**: community groundwater management — aims sustainable extraction reducing pollution concentration effect.
-- **UP**: western UP intensive wheat-rice **urea leaching** → rising **nitrate** in shallow aquifers — blue baby syndrome risk (methemoglobinemia) in infants.
+- **Arsenic contamination**: **Gangetic basin**. **Bangladesh** worst globally (2022 Q63), **eastern UP, Bihar, West Bengal** affected. It causes skin lesions, cancer, From **reducing aquifer conditions** releasing arsenic from sediments.
+- **Fluoride**: **geogenic** in **Rajasthan, UP pockets (Agra, Mathura), Telangana**. Causes **fluorosis** (mottled teeth, skeletal damage) above **1.5 mg/L** WHO limit.
+- **2025 Q70**: **Annual Groundwater Quality Report 2024** prepared by **CGWB (Only 3)**. **NOT CPCB or CWC**. This is a classic org-report trap.
+- **CPCB** monitors **ambient surface water and air**. Groundwater quality reporting is **CGWB** mandate under Jal Shakti.
+- **Industrial leachate** from fly ash ponds, tannery sludge, sugar effluent percolates to aquifers. **Kanpur-Unnao** chromium groundwater plumes documented.
+- **Over-extraction** lowers water table produces **concentrates pollutants**. Same volume of arsenic/fluoride in less water = higher concentration.
+- **Atal Bhujal Yojana (2020)**: Community groundwater management. Aims sustainable extraction reducing pollution concentration effect.
+- **UP**: Western UP intensive wheat-rice **urea leaching** leads to rising **nitrate** in shallow aquifers. Blue baby syndrome risk (methemoglobinemia) in infants.
 
 > **Exam note:** Groundwater Quality Report = **CGWB**, NOT CPCB (2025 Q70). Arsenic = **Bangladesh + Gangetic India**, not Sri Lanka (2022 Q63). Fluoride = geogenic, not always industrial.
 
@@ -841,13 +841,13 @@ PLASTIC ADVANCED:
 
 ### Exam Facts (raata)
 
-- CGWB = **Groundwater Quality Report** — 2025 Q70
-- CPCB ≠ groundwater report trap
-- Arsenic: Bangladesh/Gangetic basin — 2022 Q63
-- Fluoride geogenic — fluorosis above 1.5 mg/L
-- Nitrate from urea leaching — UP agriculture
-- Kanpur Cr plume — tannery leachate
-- Atal Bhujal Yojana 2020 — groundwater management
+- CGWB = **Groundwater Quality Report**. 2025 Q70.
+- CPCB ≠ groundwater report trap.
+- Arsenic: Bangladesh/Gangetic basin. 2022 Q63.
+- Fluoride geogenic. Fluorosis above 1.5 mg/L.
+- Nitrate from urea leaching. UP agriculture.
+- Kanpur Cr plume. Tannery leachate.
+- Atal Bhujal Yojana 2020. Groundwater management.
 
 ### PYQs — Groundwater Pollution
 
@@ -883,16 +883,16 @@ PLASTIC ADVANCED:
 
 ### Drinking Water Pollution — How It Works
 
-- **Microbial contamination** is leading cause of waterborne disease in India — **E. coli, Vibrio cholerae, Salmonella typhi** from faecal matter in untreated water.
-- **Faecal coliform count** primary bacteriological indicator — **0 coliform per 100 ml** ideal for drinking (IS 10500); any faecal coliform = sewage intrusion.
-- **Waterborne diseases**: **cholera, typhoid, hepatitis A, diarrhoea, giardiasis** — kill thousands annually; children under 5 most vulnerable.
-- **Chemical contamination**: **arsenic, fluoride, nitrate, iron, manganese, lead** from pipe corrosion — chronic toxicity vs acute infection.
-- **Nitrate >45 mg/L** in drinking water causes **methemoglobinemia (blue baby syndrome)** in infants — shallow handpump nitrate common in fertilized areas.
-- **Arsenic >0.01 mg/L** (WHO) — long-term skin, lung, bladder cancer — tubewell testing programmes in affected UP districts.
-- **Fluoride >1.5 mg/L** — dental and skeletal fluorosis — defluoridation plants in affected villages.
-- **Piped water interruptions** in UP cities — low pressure allows **sewage back-siphonage** into supply lines — microbial contamination episodic.
-- **Jal Jeevan Mission (2019)**: tap connection with **quality monitoring** — FHTC (Functional Household Tap Connection) with prescribed pressure and quality testing.
-- **Rural UP**: handpump reliance — **contamination at source** (aquifer) vs **during handling** (unclean storage vessel) — both pathways matter.
+- **Microbial contamination** is leading cause of waterborne disease in India. **E. coli, Vibrio cholerae, Salmonella typhi** from faecal matter in untreated water.
+- **Faecal coliform count** primary bacteriological indicator. **0 coliform per 100 ml** ideal for drinking (IS 10500). Any faecal coliform = sewage intrusion.
+- **Waterborne diseases**: **cholera, typhoid, hepatitis A, diarrhoea, giardiasis**. Kill thousands annually. Children under 5 most vulnerable.
+- **Chemical contamination**: **arsenic, fluoride, nitrate, iron, manganese, lead** from pipe corrosion. Chronic toxicity vs acute infection.
+- **Nitrate >45 mg/L** in drinking water causes **methemoglobinemia (blue baby syndrome)** in infants. Shallow handpump nitrate common in fertilized areas.
+- **Arsenic >0.01 mg/L** (WHO). Long-term skin, lung, bladder cancer. Tubewell testing programmes in affected UP districts.
+- **Fluoride >1.5 mg/L**. Dental and skeletal fluorosis. Defluoridation plants in affected villages.
+- **Piped water interruptions** in UP cities. Low pressure allows **sewage back-siphonage** into supply lines. Microbial contamination episodic.
+- **Jal Jeevan Mission (2019)**: Tap connection with **quality monitoring**. FHTC (Functional Household Tap Connection) with prescribed pressure and quality testing.
+- **Rural UP**: Handpump reliance. **contamination at source** (aquifer) vs **during handling** (unclean storage vessel). Both pathways matter.
 
 > **Exam note:** Safe drinking water = **social indicator** (2025 Q65 poverty context) — access matters. IS 10500 = **BIS drinking water standard**. Coliform = sewage contamination marker.
 
@@ -909,13 +909,13 @@ PLASTIC ADVANCED:
 
 ### Exam Facts (raata)
 
-- IS 10500:2012 = BIS drinking water standard
-- Faecal coliform absent = safe bacteriologically
-- Arsenic limit 0.01 mg/L
-- Fluoride limit 1.0 mg/L (IS 10500)
-- Nitrate 45 mg/L — infant risk
-- Jal Jeevan Mission 2019 — tap safe water
-- Waterborne: cholera, typhoid, diarrhoea
+- IS 10500:2012 = BIS drinking water standard.
+- Faecal coliform absent = safe bacteriologically.
+- Arsenic limit 0.01 mg/L.
+- Fluoride limit 1.0 mg/L (IS 10500).
+- Nitrate 45 mg/L. Infant risk.
+- Jal Jeevan Mission 2019. Tap safe water.
+- Waterborne: cholera, typhoid, diarrhoea.
 
 ### PYQs — Drinking Water Pollution
 
@@ -951,16 +951,16 @@ PLASTIC ADVANCED:
 
 ### Water Quality Standards — How It Works
 
-- **Water Act 1974** — **2023 Q111 answer A. 1974** — India's first pollution control Act; created **CPCB (1974)** and **SPCB**; consent-based industrial discharge regulation.
+- **Water Act 1974**. **2023 Q111 answer A. 1974**, India's first pollution control Act. Created **CPCB (1974)** and **SPCB**, Consent-based industrial discharge regulation.
 - **CPCB surface water classification**: **Class A** = drinking source (BOD ≤2) | **Class B** = outdoor bathing (BOD ≤3) | **Class C** = drinking after treatment (BOD ≤5) | **Class D** = wildlife/fisheries (BOD ≤6) | **Class E** = irrigation/industrial cooling.
-- **Most Indian rivers** fail Class C on many stretches — **Ganga, Yamuna, Gomti** routinely exceed BOD limits at urban centres.
-- **Industrial effluent standards**: sector-specific mg/L limits for **BOD, COD, TSS, heavy metals** in discharge — consent conditions under Water Act.
-- **Municipal sewage standards** at STP outlet: BOD <30 mg/L, TSS <50 mg/L typical — before river discharge.
-- **Drinking water IS 10500** distinct from river class — tap water must meet bacteriological + chemical limits regardless of river source class.
-- **Groundwater standards**: CGWB uses **BIS 10500** reference for potability assessment in quality reports — links §38.11 and §38.12.
-- **Namami Gange** targets: achieve **nirmal dhara** (clean flow) — BOD reduction, DO improvement, faecal coliform reduction at bathing ghats.
-- **National Water Quality Monitoring Programme (NWMP)**: CPCB monitors **2900+ stations** — publishes basin-wise water quality data annually.
-- **Penalty framework**: Water Act penalties for violation; NGT orders on **Yamuna (Delhi-UP)**, **Gomti (Lucknow)** for STP compliance deadlines.
+- **Most Indian rivers** fail Class C on many stretches. **Ganga, Yamuna, Gomti** routinely exceed BOD limits at urban centres.
+- **Industrial effluent standards**: Sector-specific mg/L limits for **BOD, COD, TSS, heavy metals** in discharge. Consent conditions under Water Act.
+- **Municipal sewage standards** at STP outlet: BOD <30 mg/L, TSS <50 mg/L typical. Before river discharge.
+- **Drinking water IS 10500** distinct from river class. Tap water must meet bacteriological + chemical limits regardless of river source class.
+- **Groundwater standards**: CGWB uses **BIS 10500** reference for potability assessment in quality reports. Links §38.11 and §38.12.
+- **Namami Gange** targets: achieve **nirmal dhara** (clean flow). BOD reduction, DO improvement, faecal coliform reduction at bathing ghats.
+- **National Water Quality Monitoring Programme (NWMP)**: CPCB monitors **2900+ stations**. Publishes basin-wise water quality data annually.
+- **Penalty framework**: Water Act penalties for violation. NGT orders on **Yamuna (Delhi-UP)**, **Gomti (Lucknow)** for STP compliance deadlines.
 
 > **Exam note:** Water Act = **1974** (2023 Q111). River Class A BOD ≤2 vs Class C ≤5 — know bathing vs drinking source. CPCB monitors surface water; **CGWB reports groundwater**.
 
@@ -976,13 +976,13 @@ PLASTIC ADVANCED:
 
 ### Exam Facts (raata)
 
-- Water Act **1974** — 2023 Q111
-- CPCB river classes A through E
-- Class A BOD ≤2 mg/L
-- NWMP = CPCB monitoring network
-- IS 10500 = drinking water standard
-- Namami Gange = water quality improvement
-- SPCB grants consent to discharge
+- Water Act **1974**. 2023 Q111.
+- CPCB river classes A through E.
+- Class A BOD ≤2 mg/L.
+- NWMP = CPCB monitoring network.
+- IS 10500 = drinking water standard.
+- Namami Gange = water quality improvement.
+- SPCB grants consent to discharge.
 
 ### PYQs — Water Quality Standards
 
@@ -1018,16 +1018,16 @@ PLASTIC ADVANCED:
 
 ### Fertilizers and Environment — How It Works
 
-- **India is world's second-largest fertilizer consumer** — **urea, DAP, MOP** dominate; UP among top consuming states due to wheat-rice intensity.
-- **Nitrogen runoff**: applied **urea** converts to **nitrate** in soil — leaches to groundwater (§38.11) or runs off to rivers causing **eutrophication** (§38.10).
-- **Phosphorus runoff**: **DAP** and single superphosphate — phosphate triggers **algal blooms** in lakes/ponds — limited availability (Liebig minimum) makes P key eutrophication trigger.
-- **Eutrophication chain**: fertilizer → rain irrigation → runoff → **N/P in Gomti/Ganga tributaries** → algal bloom → night DO crash → fish death.
-- **N₂O emission**: denitrification in fertilized wet soils releases **nitrous oxide** — GHG (Topic 37 link) — wheat-rice rotation waterlogged phases.
-- **Soil acidification**: continuous ammonium fertilizers acidify soil over decades — requires lime amendment; affects micronutrient availability.
-- **Micronutrient imbalance**: NPK imbalance (heavy N subsidy) causes **zinc, iron deficiency** in crops — secondary yield/environment impact.
-- **Blue-green algae in fields**: **Azolla** used as biofertilizer (2023 Q104) — fixes N naturally — reduces chemical urea need in rice.
-- **Organic alternatives**: FYM, compost, green manure reduce chemical load — Soil Health Card scheme guides balanced application.
-- **UP Indo-Gangetic plain**: highest urea application rates — **Ganga tributary nutrient load** from UP agriculture significant.
+- **India is world's second-largest fertilizer consumer**. **urea, DAP, MOP** dominate, and UP among top consuming states due to wheat-rice intensity.
+- **Nitrogen runoff**: Applied **urea** converts to **nitrate** in soil. Leaches to groundwater (§38.11) or runs off to rivers causing **eutrophication** (§38.10).
+- **Phosphorus runoff**: **DAP** and single superphosphate. Phosphate triggers **algal blooms** in lakes/ponds. Limited availability (Liebig minimum) makes P key eutrophication trigger.
+- **Eutrophication chain**: Fertilizer produces rain irrigation produces runoff produces **N/P in Gomti/Ganga tributaries** produces algal bloom produces night DO crash produces fish death.
+- **N₂O emission**: Denitrification in fertilized wet soils releases **nitrous oxide**. GHG (Topic 37 link). Wheat-rice rotation waterlogged phases.
+- **Soil acidification**: Continuous ammonium fertilizers acidify soil over decades. Requires lime amendment. Affects micronutrient availability.
+- **Micronutrient imbalance**: NPK imbalance (heavy N subsidy) causes **zinc, iron deficiency** in crops. Secondary yield/environment impact.
+- **Blue-green algae in fields**: **Azolla** used as biofertilizer (2023 Q104). Fixes N naturally. Reduces chemical urea need in rice.
+- **Organic alternatives**: FYM, compost, green manure reduce chemical load. Soil Health Card scheme guides balanced application.
+- **UP Indo-Gangetic plain**: Highest urea application rates. **Ganga tributary nutrient load** from UP agriculture significant.
 
 > **Exam note:** Fertilizer → **eutrophication** (both nutrient enrichment AND DO depletion correct — 2019 Q56). Azolla = **biofertilizer**, not pesticide (2023 Q104).
 
@@ -1042,13 +1042,13 @@ PLASTIC ADVANCED:
 
 ### Exam Facts (raata)
 
-- India 2nd largest fertilizer consumer
-- Urea dominant N fertilizer — subsidized
-- N/P runoff → **eutrophication**
-- Denitrification → N₂O GHG
-- Azolla = aquatic biofertilizer — 2023 Q104
-- Soil Health Card — balanced use
-- UP wheat-rice = high fertilizer load
+- India 2nd largest fertilizer consumer.
+- Urea dominant N fertilizer. Subsidized.
+- N/P runoff produces **eutrophication**.
+- Denitrification produces N₂O GHG.
+- Azolla = aquatic biofertilizer. 2023 Q104.
+- Soil Health Card. Balanced use.
+- UP wheat-rice = high fertilizer load.
 
 ### PYQs — Fertilizers
 
@@ -1085,15 +1085,15 @@ PLASTIC ADVANCED:
 ### Pesticides and Environment — How It Works
 
 - **Pesticide routes to environment**: **spray drift**, **soil adsorption**, **rain runoff** to surface water, **leaching** to groundwater, **volatilization** to air.
-- **2023 Q120**: **Pesticide is NOT biodegradable pollutant** — persists in environment; domestic waste, urine, faecal matter are biodegradable organic pollutants.
-- **DDT** (banned 1989 India): **organochlorine** — fat-soluble, **biomagnifies** — Rachel Carson *Silent Spring* 1962 — apex predators (eagles, humans) highest concentration.
-- **Endosulfan** (banned 2011): persistent organochlorine — Kerala Kasaragod spraying tragedy — health impacts documented.
-- **Organophosphates** (malathion, chlorpyrifos): more **acute toxic** — degrade faster than organochlorines but fish/bee kills from runoff.
-- **Neonicotinoids**: systemic insecticides — linked to **bee colony collapse** — pollinator crisis.
-- **Herbicide glyphosate** debate: weed control vs soil microbiome impact — runoff to aquatic ecosystems.
-- **Bioaccumulation**: concentration increases up trophic levels — fish in pesticide-rich irrigation canals → human dietary exposure.
-- **Regulation**: CIBRC (Central Insecticides Board) registers pesticides; **ban list** expanding (27 pesticides proposed ban 2020).
-- **UP agriculture**: intensive pesticide use in **cotton (western UP)**, **vegetables (peri-urban Lucknow/Kanpur)**, **sugarcane** — spray runoff to Ganga tributaries.
+- **2023 Q120**: **Pesticide is NOT biodegradable pollutant**. Persists in environment. Domestic waste, urine, faecal matter are biodegradable organic pollutants.
+- **DDT** (banned 1989 India): **organochlorine**. Fat-soluble, **biomagnifies**, Rachel Carson *Silent Spring* 1962. Apex predators (eagles, humans) highest concentration.
+- **Endosulfan** (banned 2011): persistent organochlorine. Kerala Kasaragod spraying tragedy. Health impacts documented.
+- **Organophosphates** (malathion, chlorpyrifos): more **acute toxic**. Degrade faster than organochlorines but fish/bee kills from runoff.
+- **Neonicotinoids**: Systemic insecticides. Linked to **bee colony collapse**. Pollinator crisis.
+- **Herbicide glyphosate** debate: weed control vs soil microbiome impact. Runoff to aquatic ecosystems.
+- **Bioaccumulation**: Concentration increases up trophic levels. Fish in pesticide-rich irrigation canals produces human dietary exposure.
+- **Regulation**: CIBRC (Central Insecticides Board) registers pesticides. **ban list** expanding (27 pesticides proposed ban 2020).
+- **UP agriculture**: Intensive pesticide use in **cotton (western UP)**, **vegetables (peri-urban Lucknow/Kanpur)**, **sugarcane**. Spray runoff to Ganga tributaries.
 
 > **Exam note:** Pesticide = **NOT biodegradable** (2023 Q120). DDT biomagnification classic exam story. Domestic sewage = biodegradable; pesticides = persistent.
 
@@ -1109,13 +1109,13 @@ PLASTIC ADVANCED:
 
 ### Exam Facts (raata)
 
-- Pesticide NOT biodegradable — 2023 Q120
-- DDT banned India **1989** — biomagnification
-- Endosulfan banned **2011**
-- CIBRC registers pesticides
-- IPM reduces environmental load
-- Runoff → surface water fish kills
-- UP cotton/vegetable high pesticide use
+- Pesticide NOT biodegradable. 2023 Q120.
+- DDT banned India **1989**. Biomagnification.
+- Endosulfan banned **2011**.
+- CIBRC registers pesticides.
+- IPM reduces environmental load.
+- Runoff produces surface water fish kills.
+- UP cotton/vegetable high pesticide use.
 
 ### PYQs — Pesticides
 
@@ -1151,16 +1151,16 @@ PLASTIC ADVANCED:
 
 ### Heavy Metal Pollution — How It Works
 
-- **Heavy metals** do not degrade — persist indefinitely — accumulate in **soil sediments** and **aquatic bottom mud** — decades-long contamination legacy.
-- **Lead (Pb)**: petrol additive legacy (phased out), **battery recycling**, paint — neurotoxicity in children — irreversible IQ damage.
-- **Cadmium (Cd)**: **nickel-cadmium batteries**, phosphate fertilizer impurity, electroplating — **Itai-itai disease** (Japan) — bone damage.
-- **Chromium**: **Kanpur tanneries** discharge **Cr(VI)** — mutagenic, carcinogenic — Ganga sediment chromium hotspots at Jajmau.
-- **Mercury (Hg)**: **chlor-alkali plants**, gold amalgamation, coal combustion — methylmercury in fish → **Minamata disease** (Japan 1950s).
-- **Arsenic**: geogenic + mining — skin lesions, cancers — overlaps groundwater (§38.11).
+- **Heavy metals** do not degrade. Persist indefinitely, Accumulate in **soil sediments** and **aquatic bottom mud**. Decades-long contamination legacy.
+- **Lead (Pb)**: Petrol additive legacy (phased out), **battery recycling**, paint. Neurotoxicity in children. Irreversible IQ damage.
+- **Cadmium (Cd)**: **nickel-cadmium batteries**, phosphate fertilizer impurity, electroplating. **Itai-itai disease** (Japan). Bone damage.
+- **Chromium**: **Kanpur tanneries** discharge **Cr(VI)**. Mutagenic, carcinogenic. Ganga sediment chromium hotspots at Jajmau.
+- **Mercury (Hg)**: **chlor-alkali plants**, gold amalgamation, coal combustion. Methylmercury in fish produces **Minamata disease** (Japan 1950s).
+- **Arsenic**: Geogenic + mining. Skin lesions, cancers. Overlaps groundwater (§38.11).
 - **Bioaccumulation + biomagnification**: metals concentrate in **fish, rice** (cadmium in paddy), **leafy vegetables** grown on contaminated soil.
-- **Phytoremediation**: certain plants hyperaccumulate metals — research tool; **soil washing** and **containment** for heavily polluted sites.
+- **Phytoremediation**: Certain plants hyperaccumulate metals. Research tool, and **soil washing** and **containment** for heavily polluted sites.
 - **UP hotspots**: **Kanpur Cr**, **Moradabad lead** (brass recycling), **Unnao tannery zone**, **Ghaziabad battery recycling** informal sector.
-- **Standards**: industrial effluent **Cr VI <0.1 mg/L** discharge limit — routinely exceeded historically at non-compliant tanneries.
+- **Standards**: Industrial effluent **Cr VI <0.1 mg/L** discharge limit. Routinely exceeded historically at non-compliant tanneries.
 
 > **Exam note:** Kanpur = **chromium** tannery pollution — UP's signature heavy metal case. Minamata = **mercury in fish**. Heavy metals = NOT biodegradable like pesticides.
 
@@ -1176,13 +1176,13 @@ PLASTIC ADVANCED:
 
 ### Exam Facts (raata)
 
-- Kanpur tannery = **chromium** pollution
-- Minamata = **methylmercury** in fish
-- Heavy metals non-biodegradable, bioaccumulate
-- Cr(VI) carcinogenic — worst tannery form
-- Pb harms child brain development
-- Moradabad brass = lead exposure risk
-- Industrial effluent metal limits under Water Act
+- Kanpur tannery = **chromium** pollution.
+- Minamata = **methylmercury** in fish.
+- Heavy metals non-biodegradable, bioaccumulate.
+- Cr(VI) carcinogenic. Worst tannery form.
+- Pb harms child brain development.
+- Moradabad brass = lead exposure risk.
+- Industrial effluent metal limits under Water Act.
 
 ### PYQs — Heavy Metal Pollution
 
@@ -1218,16 +1218,16 @@ PLASTIC ADVANCED:
 
 ### Sources of Noise Pollution — How It Works
 
-- **Transport noise** dominates urban India: **road traffic** (horns, engines, tyres), **railways**, **aircraft** — 24-hour exposure in dense cities.
-- **Industrial noise**: factories, **brass forging** (Moradabad), textile mills, DG sets, stone crushers — occupational + community exposure.
-- **2022 Q81**: **Moradabad** = **2nd most noise-polluted city** in UNEP Frontier Report 2022 — **brassware industry** hammering + traffic — UP city global ignominy.
-- **Construction noise**: drilling, pile driving — daytime permissible higher but affects hospitals/schools nearby.
-- **Festive/religious noise**: **loudspeakers**, firecrackers, drums — major UP enforcement challenge — Noise Rules ban loudspeakers 10 PM–6 AM near residential.
-- **Commercial noise**: markets, loudspeakers at shops, wedding bands — Lucknow, Varanasi old city character but high dB.
-- **Domestic**: generators during outages, TV, appliances — cumulative with outdoor sources.
-- **Wildlife impact**: highway noise reduces bird breeding success near roads — Terai/forest edge highways in UP.
-- **Logarithmic scale**: **3 dB increase = double intensity** — 70 dB is vastly more than 40 dB, not "30 points more" linearly.
-- **2018 Q124**: rustling tree leaves ≈ **10 dB** — reference for how quiet natural background is vs traffic (~70–85 dB).
+- **Transport noise** dominates urban India: **road traffic** (horns, engines, tyres), **railways**, **aircraft**. 24-hour exposure in dense cities.
+- **Industrial noise**: Factories, **brass forging** (Moradabad), textile mills, DG sets, stone crushers. Occupational + community exposure.
+- **2022 Q81**: **Moradabad** = **2nd most noise-polluted city** in UNEP Frontier Report 2022. **brassware industry** hammering + traffic, and UP city global ignominy.
+- **Construction noise**: Drilling, pile driving. Daytime permissible higher but affects hospitals/schools nearby.
+- **Festive/religious noise**: **loudspeakers**, firecrackers, drums. Major UP enforcement challenge. Noise Rules ban loudspeakers 10 PM–6 AM near residential.
+- **Commercial noise**: Markets, loudspeakers at shops, wedding bands. Lucknow, Varanasi old city character but high dB.
+- **Domestic**: Generators during outages, TV, appliances. Cumulative with outdoor sources.
+- **Wildlife impact**: Highway noise reduces bird breeding success near roads. Terai/forest edge highways in UP.
+- **Logarithmic scale**: **3 dB increase = double intensity**. 70 dB is vastly more than 40 dB, not "30 points more" linearly.
+- **2018 Q124**: Rustling tree leaves ≈ **10 dB**. Reference for how quiet natural background is vs traffic (~70–85 dB).
 
 > **Exam note:** Moradabad = **2nd noisiest world** (2022 Q81) — brass industry UP. Rustling leaves ≈ **10 dB** (2018 Q124). Horns banned in silence zones.
 
@@ -1244,13 +1244,13 @@ PLASTIC ADVANCED:
 
 ### Exam Facts (raata)
 
-- Moradabad **2nd noisiest** world — UNEP 2022 — Q81
-- Rustling leaves ≈ **10 dB** — 2018 Q124
-- dB = **logarithmic** scale
-- Traffic = dominant urban source
-- Loudspeaker restrictions Noise Rules 2000
-- Brass industry = Moradabad noise
-- >85 dB prolonged = hearing damage
+- Moradabad **2nd noisiest** world. UNEP 2022, and Q81.
+- Rustling leaves ≈ **10 dB**. 2018 Q124.
+- dB = **logarithmic** scale.
+- Traffic = dominant urban source.
+- Loudspeaker restrictions Noise Rules 2000.
+- Brass industry = Moradabad noise.
+- >85 dB prolonged = hearing damage.
 
 ### PYQs — Noise Sources
 
@@ -1286,16 +1286,16 @@ PLASTIC ADVANCED:
 
 ### Noise Standards — How It Works
 
-- **CPCB ambient noise standards** (Notification 2000): measured in **dB(A)** Leq — equivalent continuous sound level.
-- **Day**: **6 AM–10 PM** | **Night**: **10 PM–6 AM** — night limits **stricter** (sleep protection).
+- **CPCB ambient noise standards** (Notification 2000): measured in **dB(A)** Leq. Equivalent continuous sound level.
+- **Day**: **6 AM–10 PM** | **Night**: **10 PM–6 AM**. Night limits **stricter** (sleep protection).
 - **Zone limits (day/night)**: **Silence zone 50/40 dB** | **Residential 55/45 dB** | **Commercial 65/55 dB** | **Industrial 75/70 dB**.
-- **2022 Q115 matching**: Residential → **55 dB (2)**, Silent zone → **50 dB (1)**, Commercial → **65 dB (3)**, Industrial → **70 dB (4)** in question options — best answer **C: A-2, B-1, C-4, D-3** (exam uses 70 for industrial vs standard 75).
-- **Construction restrictions**: no loud work near silence zones during exam periods — state orders.
-- **Vehicle horns**: **banned in silence zones**; pressure horns prohibited nationally on vehicles.
-- **Firecracker standards**: Supreme Court time limits + green cracker norms — reduce festival exceedance.
-- **Enforcement**: **police + SPCB** — Noise Rules empower seizure of loudspeaker equipment violating limits.
-- **Penalties**: fines, equipment confiscation — weak enforcement in festive UP cities remains challenge.
-- **WHO guideline**: residential night noise should not exceed **40 dB(A)** annual average — India silence zone night matches.
+- **2022 Q115 matching**: Residential produces **55 dB (2)**, Silent zone produces **50 dB (1)**, Commercial produces **65 dB (3)**, Industrial produces **70 dB (4)** in question options. Best answer **C: A-2, B-1, C-4, D-3** (exam uses 70 for industrial vs standard 75).
+- **Construction restrictions**: No loud work near silence zones during exam periods. State orders.
+- **Vehicle horns**: **banned in silence zones**. Pressure horns prohibited nationally on vehicles.
+- **Firecracker standards**: Supreme Court time limits + green cracker norms. Reduce festival exceedance.
+- **Enforcement**: **police + SPCB**. Noise Rules empower seizure of loudspeaker equipment violating limits.
+- **Penalties**: Fines, equipment confiscation. Weak enforcement in festive UP cities remains challenge.
+- **WHO guideline**: Residential night noise should not exceed **40 dB(A)** annual average. India silence zone night matches.
 
 > **Exam note:** Residential day = **55 dB**, night = **45 dB**. Silence zone strictest **50/40**. Match List format — 2022 Q115. Industrial highest allowance.
 
@@ -1310,13 +1310,13 @@ PLASTIC ADVANCED:
 
 ### Exam Facts (raata)
 
-- Silence zone: **50/40** dB day/night
-- Residential: **55/45** dB
-- Commercial: **65/55** dB
-- Industrial: **75/70** dB
-- Noise Rules **2000** under EPA 1986
-- 2022 Q115 zone matching
-- Night limits stricter than day
+- Silence zone: **50/40** dB day/night.
+- Residential: **55/45** dB.
+- Commercial: **65/55** dB.
+- Industrial: **75/70** dB.
+- Noise Rules **2000** under EPA 1986.
+- 2022 Q115 zone matching.
+- Night limits stricter than day.
 
 ### PYQs — Noise Standards
 
@@ -1352,16 +1352,16 @@ PLASTIC ADVANCED:
 
 ### Coastal Pollution — How It Works
 
-- **Rivers deliver** industrial effluent, sewage, plastic, fertilizer runoff to **estuaries and coastal waters** — Ganga-Brahmaputra delta, west coast industrial belts.
-- **2018 Q48**: India's first **NCMB** at **Jamnagar** (Gujarat) — **not Mumbai/Bhavnagar/Puducherry** — MFN marine biodiversity research.
-- **Mangrove stress**: oil, sewage, heavy metals damage **mangrove roots** — nursery habitats for fish/shrimp — Gujarat, Maharashtra, Odisha coasts.
-- **Port activities**: ballast water, dredging, ship paint — introduce invasive species and sediment contamination.
-- **Tourism pollution**: beach plastic, sewage from coastal hotels — Goa, Kerala; less UP (landlocked) but exam concept national.
-- **Salt pan/industrial coastal**: chemical discharge in **Gulf of Kachchh** (Jamnagar refineries) — hot coastal pollution zone.
-- **Aquaculture effluent**: shrimp farm nutrients — local eutrophication in coastal ponds.
-- **Turtle/nesting beach lighting and plastic** — Olive Ridley coasts (Odisha) — coastal pollution threatens reproduction.
-- **CRZ 2019 notification**: regulates construction, waste discharge within coastal zone — MoEFCC enforcement.
-- **UP relevance**: landlocked — but **Ganga pollution** ultimately affects **Bay of Bengal** coastal plume at delta — UP emissions reach coast via river.
+- **Rivers deliver** industrial effluent, sewage, plastic, fertilizer runoff to **estuaries and coastal waters**. Ganga-Brahmaputra delta, west coast industrial belts.
+- **2018 Q48**: India's first **NCMB** at **Jamnagar** (Gujarat). **not Mumbai/Bhavnagar/Puducherry**, and MFN marine biodiversity research.
+- **Mangrove stress**: Oil, sewage, heavy metals damage **mangrove roots**. Nursery habitats for fish/shrimp. Gujarat, Maharashtra, Odisha coasts.
+- **Port activities**: Ballast water, dredging, ship paint. Introduce invasive species and sediment contamination.
+- **Tourism pollution**: Beach plastic, sewage from coastal hotels. Goa, Kerala. Less UP (landlocked) but exam concept national.
+- **Salt pan/industrial coastal**: Chemical discharge in **Gulf of Kachchh** (Jamnagar refineries). Hot coastal pollution zone.
+- **Aquaculture effluent**: Shrimp farm nutrients. Local eutrophication in coastal ponds.
+- **Turtle/nesting beach lighting and plastic**. Olive Ridley coasts (Odisha). Coastal pollution threatens reproduction.
+- **CRZ 2019 notification**: Regulates construction, waste discharge within coastal zone. MoEFCC enforcement.
+- **UP relevance**: Landlocked. But **Ganga pollution** ultimately affects **Bay of Bengal** coastal plume at delta, and UP emissions reach coast via river.
 
 > **Exam note:** NCMB = **Jamnagar** (2018 Q48). 80% marine pollution from **land**. UP is landlocked but Ganga carries pollutants to coastal delta.
 
@@ -1377,13 +1377,13 @@ PLASTIC ADVANCED:
 
 ### Exam Facts (raata)
 
-- **80%** marine pollution from land
-- NCMB first centre = **Jamnagar** — 2018 Q48
-- CRZ regulates coastal development
-- Mangroves = coastal pollution sensitive
-- Ganga delta plume reaches Bay of Bengal
-- UP landlocked — river-coast pollution link
-- Port dredging resuspends contaminants
+- **80%** marine pollution from land.
+- NCMB first centre = **Jamnagar**. 2018 Q48.
+- CRZ regulates coastal development.
+- Mangroves = coastal pollution sensitive.
+- Ganga delta plume reaches Bay of Bengal.
+- UP landlocked. River-coast pollution link.
+- Port dredging resuspends contaminants.
 
 ### PYQs — Coastal Pollution
 
@@ -1419,16 +1419,16 @@ PLASTIC ADVANCED:
 
 ### Ocean Pollution — How It Works
 
-- **Plastic pollution**: **5.25 trillion pieces** estimated in oceans — **microplastics <5 mm** enter food chain — fish → human dietary exposure.
-- **India = 3rd largest plastic waste generator** — fraction reaches ocean via rivers (Ganga among top plastic-emitting rivers globally).
+- **Plastic pollution**: **5.25 trillion pieces** estimated in oceans. **microplastics <5 mm** enter food chain. Fish produces human dietary exposure.
+- **India = 3rd largest plastic waste generator**. Fraction reaches ocean via rivers (Ganga among top plastic-emitting rivers globally).
 - **MARPOL Annexes**: control **oil** (Annex I), **noxious liquid** (II), **harmful packaged** (III), **sewage** (IV), **garbage** (V), **air pollution from ships** (VI).
-- **Oil spills**: **surface slick** reduces dissolved oxygen transfer — coats seabirds/mammals — dispersants used but toxic themselves.
-- **2024 Q19**: coral bleaching in Andaman — **temperature rise primary**; **heavy marine pollution** listed but warming 2°C main cause — pollution is stressor not sole cause.
-- **Underwater noise**: ship sonar, seismic surveys — whale/dolphin navigation disruption — emerging ocean pollution type.
-- **Heavy metals in ocean**: mercury methylation in sediments — tuna bioaccumulation — global seafood safety issue.
-- **Dead zones**: agricultural nutrient runoff via rivers → ocean **hypoxic zones** (Arabian Sea shelf, Bay of Bengal seasonally).
-- **Deep-sea mining debate**: potential metal discharge — future pollution source.
-- **UN Ocean Treaty 2023** (BBNJ): high seas biodiversity — indirect pollution governance framework.
+- **Oil spills**: **surface slick** reduces dissolved oxygen transfer. Coats seabirds/mammals. Dispersants used but toxic themselves.
+- **2024 Q19**: Coral bleaching in Andaman. **temperature rise primary**, **heavy marine pollution** listed but warming 2°C main cause. Pollution is stressor not sole cause.
+- **Underwater noise**: Ship sonar, seismic surveys. Whale/dolphin navigation disruption. Emerging ocean pollution type.
+- **Heavy metals in ocean**: Mercury methylation in sediments. Tuna bioaccumulation. Global seafood safety issue.
+- **Dead zones**: Agricultural nutrient runoff via rivers produces ocean **hypoxic zones** (Arabian Sea shelf, Bay of Bengal seasonally).
+- **Deep-sea mining debate**: Potential metal discharge. Future pollution source.
+- **UN Ocean Treaty 2023** (BBNJ): high seas biodiversity. Indirect pollution governance framework.
 
 > **Exam note:** Ganga = major **river plastic carrier** to ocean. MARPOL = ship pollution treaty. Coral bleaching = **warming primary**, pollution secondary stressor (2024 Q19 trap).
 
@@ -1445,13 +1445,13 @@ PLASTIC ADVANCED:
 
 ### Exam Facts (raata)
 
-- 80% ocean pollution from **land**
-- MARPOL = ship anti-pollution treaty
-- India 3rd largest plastic waste generator
-- Ganga top plastic-emitting river
-- Microplastics <5 mm
-- Oil slick reduces O₂ exchange
-- Coral bleaching mainly warming — 2024 Q19
+- 80% ocean pollution from **land**.
+- MARPOL = ship anti-pollution treaty.
+- India 3rd largest plastic waste generator.
+- Ganga top plastic-emitting river.
+- Microplastics <5 mm.
+- Oil slick reduces O₂ exchange.
+- Coral bleaching mainly warming. 2024 Q19.
 
 ### PYQs — Ocean Pollution
 
@@ -1487,16 +1487,16 @@ PLASTIC ADVANCED:
 
 ### Plastic Waste Management — How It Works
 
-- **India generates ~3.5 million tonnes/year** plastic waste — **3rd largest globally** — collection efficiency ~60% urban, far less rural.
+- **India generates ~3.5 million tonnes/year** plastic waste. **3rd largest globally**. Collection efficiency ~60% urban, far less rural.
 - **PWM Rules 2016**: mandate **segregation at source**, local body responsibility, **recycling registration**, road construction with plastic blend (MoRTH guidelines).
-- **SUP ban (July 2022)**: prohibited **plastic carry bags <120 microns**, earbuds, balloons, candy sticks, cutlery, plates, cups, straws, stirrers, wrapping films — phased enforcement.
-- **EPR framework**: producers/importers must register on **CPCB centralized portal** — meet recycling targets or buy certificates from registered recyclers — plastic credit mechanism emerging.
-- **Microplastics**: fragmentation <5 mm — in **Ganga water/sediment**, table salt, bottled water — long-term health research ongoing.
-- **Ganga cleanup**: **Namami Gange** removes riverbank plastic; **National Mission for Clean Ganga** targets visible plastic reduction.
-- **Waste pickers**: informal sector collects **30–40%** recyclable plastic — integration into formal EPR chain debated.
-- **Chemical recycling** (pyrolysis) — converts plastic to fuel/oil — controversial lifecycle emissions.
-- **Alternatives**: jute/cloth bags, bamboo cutlery, paper straws — SUP replacement products.
-- **UP**: **Ghazipur landfill** plastic fire risk; **Varanasi Ganga ghats** plastic litter tourism challenge; **Noida EPR compliance** by e-commerce packaging.
+- **SUP ban (July 2022)**: Prohibited **plastic carry bags <120 microns**, earbuds, balloons, candy sticks, cutlery, plates, cups, straws, stirrers, wrapping films. Phased enforcement.
+- **EPR framework**: Producers/importers must register on **CPCB centralized portal**. Meet recycling targets or buy certificates from registered recyclers. Plastic credit mechanism emerging.
+- **Microplastics**: Fragmentation <5 mm. In **Ganga water/sediment**, table salt, bottled water. Long-term health research ongoing.
+- **Ganga cleanup**: **Namami Gange** removes riverbank plastic. **National Mission for Clean Ganga** targets visible plastic reduction.
+- **Waste pickers**: Informal sector collects **30–40%** recyclable plastic. Integration into formal EPR chain debated.
+- **Chemical recycling** (pyrolysis). Converts plastic to fuel/oil. Controversial lifecycle emissions.
+- **Alternatives**: Jute/cloth bags, bamboo cutlery, paper straws. SUP replacement products.
+- **UP**: **Ghazipur landfill** plastic fire risk. **Varanasi Ganga ghats** plastic litter tourism challenge, and **Noida EPR compliance** by e-commerce packaging.
 
 > **Exam note:** PWM Rules **2016** | SUP ban **July 2022** | EPR on producers. India **3rd** largest plastic waste generator. Plastic charkha Noida = **reuse** of plastic waste (2019 Q45 stmt 2).
 
@@ -1512,13 +1512,13 @@ PLASTIC ADVANCED:
 
 ### Exam Facts (raata)
 
-- India **3rd** largest plastic waste generator
-- PWM Rules **2016**
-- SUP ban **July 2022**
-- EPR mandatory producers/importers
-- Microplastics **<5 mm**
-- 120 micron bag thickness standard
-- Ganga plastic major visible pollution
+- India **3rd** largest plastic waste generator.
+- PWM Rules **2016**.
+- SUP ban **July 2022**.
+- EPR mandatory producers/importers.
+- Microplastics **<5 mm**.
+- 120 micron bag thickness standard.
+- Ganga plastic major visible pollution.
 
 ### PYQs — Plastic Waste Management
 

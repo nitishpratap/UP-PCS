@@ -194,30 +194,30 @@ PANIPAT I (20 April 1526):
 
 ### Turkish Invasions — How It Works
 
-- **Pre-Turkish contact:** **Arab invasion of Sind (712 CE)** under **Muhammad bin Qasim** (Umayyad general) — conquered **Debal** port and lower Indus; Sind became **As-Sind** province — first Muslim foothold, but **no expansion** into Gangetic plain.
-- **Why Sind fell:** Rivalry between King **Dahir** and local factions; Arab maritime trade interests; weak unified defence in Sindh frontier.
-- **Long gap:** After 712, no major Arab push into heartland — **Kabul–Zabul** buffer (Bhati Rajputs, Turks, Hunas) and rising **Rajput regional kingdoms** blocked expansion for centuries.
-- **Ghaznavid phase (10th–11th c.):** **Mahmud of Ghazni** (998–1030) — **17 raids** into India; annexed **Punjab + Multan**; broke northwest barrier; plundered temples (Somnath 1025); **did not** permanently rule beyond Punjab.
-- **Why Mahmud stopped:** **Seljuk** pressure in Central Asia; strong **Rajput states** (Chauhans, Gahadavalas, Chandelas) in north; Ghaznavids reduced to Lahore pocket by 12th c.
-- **Ghurid phase:** **Muhammad Ghori** (Muizzuddin, 1173–1206) — shifted from raid to **territorial conquest**; defeated **Gujarat** attempt (1178, Mount Abu); took **Peshawar, Lahore, Sialkot** by 1190.
-- **Rajput weakness:** Post-Pratihara **fragmentation** — Chauhans (Ajmer), Gahadavalas (Kannauj), Chandelas (Bundelkhand), Paramaras (Malwa) fought each other — **no unified frontier army**.
-- **Turkish military edge:** **Mounted archers**, iron stirrup cavalry, rapid advance-retreat, centralized command vs Rajput clan-based chivalry and fort-centric defence.
-- **Political outcome:** 1192 onward Turks held **Delhi–Ajmer corridor**; **Bakhtiyar Khalji** (1204) took **Bengal/Nadia**; **Qutb-ud-din Aibak** governor at Lahore → **1206 = Delhi Sultanate** after Ghori's death.
-- **UP relevance:** Invasions entered via **Punjab** but decisive battles (**Tarain**, **Chandawar**) were in **Haryana–UP–Rajasthan** belt; **Kannauj, Kalinjar, Mahoba, Banaras** fell in Ganga valley push — core of modern **Uttar Pradesh** politics in 12th c.
+- **Pre-Turkish contact:** The **Arab invasion of Sind in 712 CE** under **Muhammad bin Qasim** captured **Debal** and the lower Indus, making Sind the first Muslim foothold without extending rule into the Gangetic plain.
+- **Why Sind fell:** Sind fell because King **Dahir** faced local rivalries, Arab maritime trade interests, and weak unified defence on the frontier.
+- **Long gap:** After 712, Arabs did not make a major push into the heartland because the **Kabul-Zabul** buffer and rising **Rajput regional kingdoms** blocked expansion for centuries.
+- **Ghaznavid phase (10th-11th c.):** **Mahmud of Ghazni** led **17 raids**, annexed **Punjab and Multan**, broke the northwest barrier, plundered Somnath in 1025, and still did not permanently rule beyond Punjab.
+- **Why Mahmud stopped:** Mahmud stopped deeper expansion because **Seljuk** pressure in Central Asia, strong north Indian Rajput states, and the later Ghaznavid reduction to Lahore limited his reach.
+- **Ghurid phase:** **Muhammad Ghori** shifted from raiding to **territorial conquest**, failed in Gujarat in 1178, and took **Peshawar, Lahore, and Sialkot** by 1190.
+- **Rajput weakness:** Post-Pratihara **fragmentation** left the Chauhans, Gahadavalas, Chandelas, and Paramaras divided, so no unified frontier army faced the Turks.
+- **Turkish military edge:** Turkish forces used mounted archers, iron-stirrup cavalry, rapid advance-retreat tactics, and centralized command against Rajput clan-based and fort-centric warfare.
+- **Political outcome:** From 1192 onward, the Turks held the **Delhi-Ajmer corridor**, **Bakhtiyar Khalji** took **Bengal/Nadia** in 1204, and **Aibak's** 1206 rule at Lahore created the Delhi Sultanate.
+- **UP relevance:** The invasions entered through **Punjab**, but the decisive battles and later conquests in **Tarain**, **Chandawar**, **Kannauj**, **Kalinjar**, **Mahoba**, and **Banaras** made the Ganga valley central to 12th-century UP politics.
 
 > **Exam note:** **UPPCS 2018 Q14** — Both A and R true; **R explains A**. Trap: choosing B (R not explanation) — fragmentation directly enabled Turkish success.
 
 ### Exam Facts (raata)
 
-- **712 CE** — Muhammad bin Qasim conquered **Sindh** (Debal)
-- **998–1030** — Mahmud of Ghazni; **17** Indian expeditions
-- **1025** — Somnath plunder by Mahmud
-- **1173–1206** — Muhammad Ghori (Muizzuddin)
-- **1178** — Ghori defeated near **Mount Abu** (Gujarat)
-- Ghaznavids = **raids**; Ghurids = **conquest + stay**
-- Northwest barrier broken permanently by **early 13th century**
-- **Bakhtiyar Khalji 1204** — Nadia/Bengal
-- Turkish success factors: **cavalry + disunity + no pan-Rajput alliance**
+- In **712 CE**, Muhammad bin Qasim conquered **Sindh** (Debal).
+- Mahmud of Ghazni ruled in **998-1030** and led **17** Indian expeditions.
+- In **1025**, Mahmud plundered Somnath.
+- Muhammad Ghori (Muizzuddin) ruled in **1173-1206**.
+- In **1178**, Ghori was defeated near **Mount Abu** in Gujarat.
+- Ghaznavids mainly conducted **raids**, while Ghurids pursued **conquest + stay**.
+- The northwest barrier was broken permanently by the **early 13th century**.
+- **Bakhtiyar Khalji** captured Nadia/Bengal in **1204**.
+- Turkish success factors were **cavalry + disunity + no pan-Rajput alliance**.
 
 ### PYQs — Turkish Invasions
 
@@ -265,29 +265,29 @@ PANIPAT I (20 April 1526):
 
 ### Muhammad Ghori & Tarain — How It Works
 
-- **Ghori vs Ghazni model:** Unlike Mahmud, Ghori **appointed governors**, minted coins, and **stayed** — Aibak at Lahore, Bakhtiyar in Bengal.
-- **First Battle of Tarain (1191):** **Prithviraj Chauhan** (Ajmer-Delhi) + allied Rajputs vs Ghori; Rajput charge broke Turkish left wing; **Ghori defeated**; escaped with help of **Khalji horseman**.
-- **Prithviraj's mistake:** Treated victory as chivalric end — **released/failed to destroy** Ghori; allowed regrouping — classic UPPCS cause→effect chain.
-- **Second Battle of Tarain (1192):** Ghori returned with ~1,20,000 force; used **feigned retreat** of Turkish cavalry; Rajput army broken; **Prithviraj captured** (later killed per Persian sources).
-- **Immediate results (1192):** **Ajmer** and **Delhi** occupied; Turkish garrisons in **Meerut, Kol (Aligarh), Hansi**; Chauhan power collapsed in Doab gateway.
-- **Battle of Chandawar (1194):** Against **Jay Chandra** of **Kannauj** (Gahadavala) — Jaichand killed; **Banaras/Kannauj** region submitted — critical for **UP control**.
-- **Further Ghori conquests:** **Bayana, Gwalior, Kalinjar, Mahoba, Khajuraho** — Bundelkhand and eastern Rajasthan forts fell by 1200.
-- **Death of Ghori (1206):** Assassinated at **Damyak/Jhelum** (while praying) — court faction killing; **no clear successor in India**.
-- **Indian succession:** **Qutb-ud-din Aibak** (slave-general) declared Sultan at **Lahore (1206)** — birth of **Delhi Sultanate**; severed link with Ghazni.
-- **UP angle:** **Tarain** near **Thanesar (Kurukshetra dist., Haryana)** — bordering UP; **Kannauj, Banaras, Kol** in UP were next targets after 1194.
+- **Ghori vs Ghazni model:** Unlike Mahmud, Ghori appointed governors, minted coins, and stayed through agents such as Aibak at Lahore and Bakhtiyar in Bengal.
+- **First Battle of Tarain (1191):** **Prithviraj Chauhan** and allied Rajputs defeated Ghori when the Rajput charge broke the Turkish left wing, forcing Ghori to escape with help from a **Khalji horseman**.
+- **Prithviraj's mistake:** Prithviraj treated the victory as a chivalric conclusion and failed to destroy Ghori, which allowed the Ghurids to regroup.
+- **Second Battle of Tarain (1192):** Ghori returned with a large force, used Turkish cavalry feigned retreat tactics, broke the Rajput army, and captured **Prithviraj**.
+- **Immediate results (1192):** The Turks occupied **Ajmer** and **Delhi**, placed garrisons in **Meerut, Kol (Aligarh), and Hansi**, and broke Chauhan control over the Doab gateway.
+- **Battle of Chandawar (1194):** Ghori defeated and killed **Jay Chandra** of **Kannauj**, bringing the **Banaras-Kannauj** region under pressure and opening UP to Turkish control.
+- **Further Ghori conquests:** By 1200, Ghurid forces had taken or subdued **Bayana, Gwalior, Kalinjar, Mahoba, and Khajuraho** across Bundelkhand and eastern Rajasthan.
+- **Death of Ghori (1206):** Ghori was assassinated at **Damyak/Jhelum** while praying, leaving no clear successor for his Indian territories.
+- **Indian succession:** **Qutb-ud-din Aibak** declared himself Sultan at **Lahore in 1206**, creating the Delhi Sultanate and severing the Indian line from Ghazni.
+- **UP angle:** **Tarain** lay near Thanesar on the UP frontier zone, while **Kannauj, Banaras, and Kol** became the next UP targets after 1194.
 
 > **Exam note:** Do not confuse **Tarain (1192, Prithviraj)** with **Chandawar (1194, Jaichand)** or **Panipat (1526, Ibrahim Lodi)** — three different turning points.
 
 ### Exam Facts (raata)
 
-- Ghori reign **1173–1206**
-- **1191** — First Tarain — Ghori **lost**
-- **1192** — Second Tarain — Ghori **won**; Prithviraj defeated
-- **1194** — Chandawar — **Jay Chandra** killed
-- **1206** — Ghori assassinated; **Aibak** Sultan at Lahore
-- Ghori also defeated near **Mount Abu (1178)**
-- Governor **Aibak** = builder of Delhi foundation
-- **Bakhtiyar Khalji** = Bihar (Nalanda) + Bengal (1204) — parallel to Ghori in east
+- Ghori reign **1173–1206**.
+- In **1191**, First Tarain — Ghori **lost**.
+- In **1192**, Ghori won the Second Battle of Tarain and defeated Prithviraj.
+- In **1194**, Chandawar — **Jay Chandra** killed.
+- In **1206**, Ghori was assassinated and **Aibak** became Sultan at Lahore.
+- Ghori also defeated near **Mount Abu (1178)**.
+- Governor **Aibak** is builder of Delhi foundation.
+- **Bakhtiyar Khalji** is Bihar (Nalanda) + Bengal (1204) is parallel to Ghori in east.
 
 ### PYQs — Muhammad Ghori & Tarain
 
@@ -327,16 +327,16 @@ PANIPAT I (20 April 1526):
 
 ### Establishment & Chronology — How It Works
 
-- **1206 anchor:** Aibak takes title **Sultan** at Lahore — ends subordination to Ghazni; Delhi Sultanate as **independent Indo-Muslim state**.
-- **Why Delhi?** Strategic **Doab** position; Ghori's conquests centred on **Delhi–Ajmer–Kannauj** triangle; Mongols made Lahore unsafe later — **Iltutmish** shifted focus to **Delhi**.
+- **1206 anchor:** Aibak took the title **Sultan** at Lahore in 1206, ended subordination to Ghazni, and created an independent Indo-Muslim state.
+- **Why Delhi?** Delhi mattered because its strategic **Doab** position linked Ghori's **Delhi–Ajmer–Kannauj** conquests, and later Mongol pressure made Lahore unsafe, so **Iltutmish** shifted focus to **Delhi**.
 - **Five dynasties sequence:** **Slave (1206–1290)** → **Khalji (1290–1320)** → **Tughlaq (1320–1414)** → **Sayyid (1414–1451)** → **Lodi (1451–1526)**.
-- **Slave = Mamluk:** Rulers were **military slaves** (bandagan) of Turkish origin — Aibak, Iltutmish, Balban lineage.
-- **Khalji revolution (1290):** **Jalaluddin Khalji** overthrew weak Slave successor — ended **Turkish monopoly** on high offices; Turko-Afghan elite entered.
-- **Tughlaq peak & break:** **Muhammad bin Tughlaq** (1325–1351) — empire **Punjab to Madurai** (1324); overreach → rebellions; **Firuz** stabilised but hereditary iqta weakened centre.
-- **Sayyid interregnum:** **Khizr Khan** (Timur's nominee, 1414) — weak sultans; **Alam Shah** abdicated to **Bahlul Lodi (1451)**.
-- **Lodi Afghan phase:** First **Afghan** dynasty — **Sikandar Lodi** moved capital activity to **Agra**; **Ibrahim Lodi** alienated nobles → **Babur invited (1526)**.
-- **1526 terminus:** **Ibrahim Lodi** killed at **Panipat I** — Sultanate extinguished; Mughal era begins (though Sur interlude later).
-- **Parallel regional breakaways:** Bengal (1338), Jaunpur Sharqi (1394), Gujarat, Malwa — Sultanate rarely controlled full subcontinent even at peak.
+- **Slave = Mamluk:** The first dynasty was called Mamluk because rulers such as Aibak, Iltutmish, and Balban came from Turkish military-slave backgrounds.
+- **Khalji revolution (1290):** **Jalaluddin Khalji** overthrew the weak Slave successor, ended the Turkish monopoly on high offices, and opened space for Turko-Afghan elites.
+- **Tughlaq peak & break:** **Muhammad bin Tughlaq** stretched the empire from Punjab to Madurai by 1324, but overreach caused rebellions and **Firuz's** hereditary iqta policy later weakened the centre.
+- **Sayyid interregnum:** **Khizr Khan**, Timur's nominee, founded a weak Sayyid line in 1414, and **Alam Shah** finally abdicated to **Bahlul Lodi** in 1451.
+- **Lodi Afghan phase:** The Lodis formed the first **Afghan** dynasty, with **Sikandar Lodi** developing Agra and **Ibrahim Lodi** alienating nobles enough to invite Babur's intervention.
+- **1526 terminus:** **Ibrahim Lodi** died at **Panipat I**, which extinguished the Sultanate and began the Mughal era despite the later Sur interlude.
+- **Parallel regional breakaways:** Bengal, Sharqi Jaunpur, Gujarat, and Malwa broke away at different times, so the Sultanate rarely controlled the full subcontinent even at its peak.
 
 > **Exam note:** **2025 Q95** — Khalsa vs Jagirs division is **true (A)**; Jagirs are **NOT** direct state land (**R false**) → answer **C**.
 
@@ -375,13 +375,13 @@ PANIPAT I (20 April 1526):
 
 ### Exam Facts (raata)
 
-- Delhi Sultanate **1206–1526** (320 years)
-- **5 dynasties** — Slave, Khalji, Tughlaq, Sayyid, Lodi
-- First Sultan **Aibak 1206** | Last **Ibrahim Lodi 1526**
-- Peak territorial extent **~1324** under Muhammad bin Tughlaq
-- **Timur 1398** — Delhi sacked; Tughlaq weakened
-- **1451** — Lodi replaces Sayyid
-- **1484** — Jaunpur Sharqi annexed by Bahlul Lodi
+- Delhi Sultanate **1206–1526** (320 years).
+- In **5 dynasties**, Slave, Khalji, Tughlaq, Sayyid, Lodi.
+- First Sultan **Aibak 1206** | Last **Ibrahim Lodi 1526**.
+- Peak territorial extent **~1324** under Muhammad bin Tughlaq.
+- **Timur sacked Delhi in 1398**, which weakened the Tughlaqs.
+- In **1451**, Lodi replaces Sayyid.
+- In **1484**, Jaunpur Sharqi annexed by Bahlul Lodi.
 
 ### PYQs — Establishment & Chronology
 
@@ -419,27 +419,27 @@ PANIPAT I (20 April 1526):
 
 ### Slave Dynasty — How It Works
 
-- **Qutb-ud-din Aibak (1206–1210):** Ghori's **slave-general**; ruled from **Lahore**; built **Quwwat-ul-Islam** mosque and started **Qutub Minar**; died **1210** playing **Chaugan (polo)**.
-- **Aibak's importance:** Severed Delhi from **Ghazni** politics; fought **Yildiz** of Ghazni; laid **Indo-Islamic architectural** foundation at Delhi and Ajmer.
-- **Iltutmish (1210–1236):** Purchased slave of Aibak; defeated **Qubacha (Multan)**, **Ali Mardan (Bengal)**, Delhi nobles; **real founder** of stable Sultanate.
-- **Iltutmish Mongol policy:** Refused asylum to **Jalaluddin Khwarizmi (1221)** — avoided Mongol war; repaired frontier; **Lahore lost 1241** to Mongols later.
-- **Iltutmish Rajput policy:** Recovered **Gwalior, Bayana, Kalinjar**; failed against **Gujarat Chalukyas** and **Nagda (Mewar)**.
-- **Iltutmish succession:** Nominated daughter **Razia** over sons — unique; issued **silver tanka** — first Sultanate coin standard.
-- **Razia Sultan (1236–1240):** First and **only woman Sultan**; fought **Chahalgani**; promoted **Yaqut (Abyssinian)**; imprisoned, married **Altunia**, killed by bandits **1240**.
-- **Balban (1266–1287):** Former **Naib** of Nasiruddin Mahmud; destroyed **Chahalgani**; introduced **Sijda & Paibos**; **Blood and Iron** against **Mewatis**; claimed descent from **Afrasiyab**.
-- **Balban centralisation:** Spy system (**barids**); reorganized **Diwan-i-Arz**; harsh justice; **northwest frontier** forts (Tabarhinda, Sunam, Samana) vs Mongols.
-- **Kaiqubad (1287–1290):** Weak; assassinated — **Khalji revolt 1290** ends Slave dynasty.
+- **Qutb-ud-din Aibak (1206–1210):** Ghori's **slave-general** ruled from **Lahore**, built the **Quwwat-ul-Islam** mosque, started the **Qutub Minar**, and died in **1210** while playing **Chaugan (polo)**.
+- **Aibak's importance:** Aibak severed Delhi from **Ghazni** politics, fought **Yildiz** of Ghazni, and laid the **Indo-Islamic architectural** foundation at Delhi and Ajmer.
+- **Iltutmish (1210–1236):** Iltutmish, a purchased slave of Aibak, defeated **Qubacha (Multan)**, **Ali Mardan (Bengal)**, and Delhi nobles, becoming the **real founder** of a stable Sultanate.
+- **Iltutmish Mongol policy:** Iltutmish refused asylum to **Jalaluddin Khwarizmi (1221)**, avoided a Mongol war, and repaired the frontier, though **Lahore was lost in 1241** to the Mongols later.
+- **Iltutmish Rajput policy:** Iltutmish recovered **Gwalior, Bayana, and Kalinjar**, but failed against the **Gujarat Chalukyas** and **Nagda (Mewar)**.
+- **Iltutmish succession:** Iltutmish uniquely nominated his daughter **Razia** over his sons and issued the **silver tanka**, the first standard Sultanate coin.
+- **Razia Sultan (1236–1240):** Razia became the first and **only woman Sultan**, fought the **Chahalgani**, promoted **Yaqut (Abyssinian)**, was imprisoned, married **Altunia**, and was killed by bandits in **1240**.
+- **Balban (1266–1287):** Balban, the former **Naib** of Nasiruddin Mahmud, destroyed the **Chahalgani**, introduced **Sijda & Paibos**, used **Blood and Iron** against the **Mewatis**, and claimed descent from **Afrasiyab**.
+- **Balban centralisation:** Balban strengthened the spy system (**barids**), reorganized **Diwan-i-Arz**, enforced harsh justice, and built **northwest frontier** forts at Tabarhinda, Sunam, and Samana against the Mongols.
+- **Kaiqubad (1287–1290):** Kaiqubad proved weak and was assassinated, after which the **Khalji revolt of 1290** ended the Slave dynasty.
 
 > **Exam note:** **UPPCS 2024 Q150** — A true (Balban centralised); R true (Mongol frontier) but **R does NOT explain A** → **C**. Centralisation was anti-noble policy, not primarily Mongol defence.
 
 ### Exam Facts (raata)
 
-- Aibak = **Lakh Baksh** (giver of lakhs); **Mamluk** = owned slave
-- Iltutmish = **consolidator**; refused **Jalaluddin** asylum **1221**
-- Razia = **1236–1240**; only **woman Sultan**
-- Balban = **Sijda, Paibos, Blood & Iron**; died **1287**
-- **Chahalgani** = Group of **Forty** nobles
-- Slave dynasty ends **1290** — Khalji coup
+- Aibak was called **Lakh Baksh** (giver of lakhs), and **Mamluk** means owned slave.
+- Iltutmish was the **consolidator** and refused **Jalaluddin** asylum in **1221**.
+- Razia ruled in **1236-1240** and was the only **woman Sultan**.
+- Balban is linked with **Sijda, Paibos, Blood & Iron**, and he died in **1287**.
+- **Chahalgani** is Group of **Forty** nobles.
+- Slave dynasty ends **1290** is Khalji coup.
 
 ### PYQs — Slave Dynasty
 
@@ -477,28 +477,28 @@ PANIPAT I (20 April 1526):
 
 ### Khalji Dynasty — How It Works
 
-- **Jalaluddin Khalji (1290–1296):** Old, tolerant; believed state needs **Hindu consent** — India cannot be purely Islamic state; murdered by nephew **Alauddin at Kara (1296)**.
-- **Alauddin's accession:** Governor of **Awadh**; looted **Deogir** treasure before throne; used wealth to buy army/noble loyalty.
-- **Khalji titles:** Jalaluddin = founder; **Alauddin** original name **Ali Gurshasp**; title **Sikandar-i-Sani** (Second Alexander) after southern campaigns; **Ulugh Khan** early name of Alauddin.
-- **Nobility control:** Banned private feasts, marriage alliances without permission; **wine ban**; spy network; rebels executed — old nobility destroyed.
-- **Military campaigns — chronology (★★★):** **Gujarat 1299** (Rai Karan fled; Malik Kafur captured at Cambay) → **Ranthambor 1301** (Hamirdeva; first Persian **Jauhar** account) → **Chittor 1303** (Ratan Singh; Jauhar) → **Malwa annexed** → **Deogir 1307** (Ramachandra = **Rai Rayan**) → **Warangal ~1309–1311** (Malik Kafur southern campaigns).
+- **Jalaluddin Khalji (1290–1296):** Jalaluddin Khalji was old and tolerant, believed the state needed **Hindu consent** because India could not be a purely Islamic state, and was murdered by his nephew **Alauddin at Kara (1296)**.
+- **Alauddin's accession:** Alauddin served as governor of **Awadh**, looted the **Deogir** treasure before taking the throne, and used that wealth to buy army and noble loyalty.
+- **Khalji titles:** Jalaluddin was the dynasty's founder, while **Alauddin** was originally **Ali Gurshasp**, took the title **Sikandar-i-Sani** (Second Alexander) after his southern campaigns, and was also known early as **Ulugh Khan**.
+- **Nobility control:** Alauddin banned private feasts and marriage alliances without permission, imposed a **wine ban**, expanded the spy network, and executed rebels to destroy the old nobility.
+- **Military campaigns — chronology (★★★):** Alauddin's campaigns moved from **Gujarat 1299**, when Rai Karan fled and Malik Kafur was captured at Cambay, to **Ranthambor 1301** with Hamirdeva and the first Persian **Jauhar** account, **Chittor 1303** with Ratan Singh and Jauhar, **Malwa annexation**, **Deogir 1307** under Ramachandra as **Rai Rayan**, and **Warangal ~1309–1311** during Malik Kafur's southern campaigns.
 - **2022 vs 2025 chronology sets:** 2022 Q59 items: Ranthambor, Gujarat, Warangal, Chittor → **C (2-1-4-3)**. 2025 Q30 adds **Jaisalmer (1299)** with Gujarat route → **B (2-1-4-3)** = Jaisalmer, Ranthambore, Chittor, Warangal.
-- **Rajput policy:** Mostly **tributaries** — not all annexed (unlike Malwa); strategic forts garrisoned.
-- **Military administration:** **Dagh** (horse branding) + **Chehra** (soldier descriptive roll); **cash salaries** (238 tankas/trooper); standing army ~**4.75 lakh** (Barani — likely exaggerated); **Siri Fort** built for Mongol defence.
-- **Market reforms:** **Shahna-i-Mandi**; separate markets for grain, cloth, horses; **50%** Doab revenue; price lists fixed — linked to **Mongol threat** (maintain huge army cheaply).
-- **Mubarak Shah (1316–1320):** Released prisoners; relaxed Alauddin's rules; **Khusrau Khan** (Hindu convert general) killed Mubarak — brief rule; **Ghiyasuddin Tughlaq** killed Khusrau **1320**.
+- **Rajput policy:** Alauddin usually made Rajput rulers **tributaries** rather than annexing every kingdom as he did in Malwa, while strategic forts received Sultanate garrisons.
+- **Military administration:** Alauddin introduced **Dagh** (horse branding), **Chehra** (soldier descriptive roll), and **cash salaries** of 238 tankas per trooper, while Barani's figure of a ~**4.75 lakh** standing army is likely exaggerated and **Siri Fort** strengthened Mongol defence.
+- **Market reforms:** Alauddin appointed the **Shahna-i-Mandi**, created separate markets for grain, cloth, and horses, fixed price lists, and imposed **50%** Doab revenue to maintain a huge army cheaply against the **Mongol threat**.
+- **Mubarak Shah (1316–1320):** Mubarak Shah released prisoners and relaxed Alauddin's rules, but **Khusrau Khan**, a Hindu convert general, killed him and ruled briefly before **Ghiyasuddin Tughlaq** killed Khusrau in **1320**.
 
 > **Exam note:** **2022 Q59 = C** and **2025 Q30 = B** — both test **Gujarat before Ranthambor before Chittor before Warangal**; 2025 inserts Jaisalmer at start of sequence.
 
 ### Exam Facts (raata)
 
-- Khalji revolution **1290** — ended **Turkish monopoly**
-- Alauddin **1296–1316** — longest powerful Khalji
-- **Malik Kafur** — Malik-i-Naib; southern campaigns
-- **Gujarat 1299, Ranthambor 1301, Chittor 1303, Warangal ~1309**
-- **Dagh + Chehra + cash army** = Alauddin
-- **Shahna-i-Mandi** = market controller
-- Mubarak killed **1320** — Tughlaq begins
+- Khalji revolution **1290** is ended **Turkish monopoly**.
+- Alauddin **1296–1316** is longest powerful Khalji.
+- **Malik Kafur** served as Malik-i-Naib and led the southern campaigns.
+- **Gujarat 1299, Ranthambor 1301, Chittor 1303, Warangal ~1309**.
+- **Dagh + Chehra + cash army** is Alauddin.
+- **Shahna-i-Mandi** is market controller.
+- Mubarak killed **1320** is Tughlaq begins.
 
 ### PYQs — Khalji Dynasty
 
@@ -534,31 +534,31 @@ PANIPAT I (20 April 1526):
 
 ### Tughlaq Dynasty — How It Works
 
-- **Ghiyasuddin Tughlaq (1320–1325):** Killed **Khusrau Khan**; built **Tughlaqabad** fort; died in **boat accident** (1325) — son Muhammad alleged involvement.
-- **Muhammad bin Tughlaq (1325–1351):** Scholar-sultan; empire zenith **1324** (Punjab to Madurai); **five experiments** strained state.
-- **Capital transfer (1327):** **Delhi → Daulatabad** (Deogir renamed); officials, Sufis shifted; **1500 km** — failed to govern north from south; long-term **Deccan Islamization**.
-- **Token currency (1329–1330):** Bronze = silver **tanka**; massive **forgery**; withdrawn — state capacity failure, not concept alone.
-- **Khurasan project:** Army raised for Central Asian frontier — abandoned — financial drain.
-- **Qarachil expedition:** **Kumaon** disaster — losses in hills.
-- **Diwan-i-Amir-i-Kohi:** Agricultural loans/irrigation department — corruption failed; idea later used by **Firuz** and **Akbar**.
-- **Ibn Battuta at court:** Moroccan traveller (**Rihla**); stayed **~8 years** at Muhammad bin Tughlaq's court; described **Delhi** as largest eastern Islamic city; witness to sultan's harsh justice.
-- **Firuz Shah Tughlaq (1351–1388):** Conciliation policy; **hereditary iqta** (long-term weakness); **jizya** separated from land revenue; Brahmins taxed.
-- **Firuz public works:** **Yamuna canal** at Hissar; **200 km** Sutlej-Hansi canal; towns **Hissar-Firuzah**, **Firuzabad**; **Hauz Khas** complex Delhi.
-- **Firuz Sanskrit patronage:** **300 volumes** from **Nagarkot** campaign translated by **Mulla Abdul Baqi** (2023 Q37).
-- **Decline post-Firuz:** Weak successors; **Timur sacked Delhi 1398**; dynasty ends **1414** — **Sayyids** take over.
+- **Ghiyasuddin Tughlaq (1320–1325):** Ghiyasuddin Tughlaq killed **Khusrau Khan**, built **Tughlaqabad** fort, and died in a **boat accident** in 1325, with his son Muhammad alleged to have been involved.
+- **Muhammad bin Tughlaq (1325–1351):** Muhammad bin Tughlaq was a scholar-sultan whose empire reached its zenith in **1324** from Punjab to Madurai, but his **five experiments** strained the state.
+- **Capital transfer (1327):** Muhammad bin Tughlaq shifted the capital from **Delhi to Daulatabad** (renamed Deogir), moved officials and Sufis about **1500 km**, failed to govern the north from the south, and still encouraged long-term **Deccan Islamization**.
+- **Token currency (1329–1330):** Muhammad bin Tughlaq equated bronze coins with the silver **tanka**, but massive **forgery** forced withdrawal and exposed state-capacity failure rather than a conceptual flaw alone.
+- **Khurasan project:** Muhammad bin Tughlaq raised an army for a Central Asian frontier campaign, abandoned the project, and created a major financial drain.
+- **Qarachil expedition:** Muhammad bin Tughlaq's Qarachil expedition ended in a **Kumaon** hill disaster with heavy losses.
+- **Diwan-i-Amir-i-Kohi:** The **Diwan-i-Amir-i-Kohi** gave agricultural loans and supported irrigation, but corruption ruined it, though **Firuz** and **Akbar** later used the idea.
+- **Ibn Battuta at court:** Ibn Battuta, the Moroccan traveller who wrote the **Rihla**, stayed for **~8 years** at Muhammad bin Tughlaq's court, described **Delhi** as the largest eastern Islamic city, and witnessed the sultan's harsh justice.
+- **Firuz Shah Tughlaq (1351–1388):** Firuz Shah Tughlaq followed a conciliation policy, made **hereditary iqta** a long-term weakness, separated **jizya** from land revenue, and taxed Brahmins.
+- **Firuz public works:** Firuz built the **Yamuna canal** at Hissar, the **200 km** Sutlej-Hansi canal, the towns of **Hissar-Firuzah** and **Firuzabad**, and the **Hauz Khas** complex in Delhi.
+- **Firuz Sanskrit patronage:** Firuz collected **300 volumes** during the **Nagarkot** campaign, and **Mulla Abdul Baqi** translated them (2023 Q37).
+- **Decline post-Firuz:** Weak successors followed Firuz, **Timur sacked Delhi in 1398**, and the dynasty ended in **1414** when the **Sayyids** took over.
 
 > **Exam note:** **Tughlaqnama** = **Barani**, NOT Ibn Battuta (2019 Q16). Ibn Battuta wrote **Rihla**, not Tughlaqnama.
 
 ### Exam Facts (raata)
 
-- Tughlaq founded **1320** | ends **1414**
-- Muhammad bin Tughlaq **1325–1351**
-- **Daulatabad** = renamed Deogir
-- **Token currency** bronze = silver tanka
-- **Diwan-i-Amir-i-Kohi** = agriculture dept
-- Firuz **1351–1388** | **Timur 1398**
-- Firuz translator = **Mulla Abdul Baqi**
-- Ibn Battuta = **Muhammad bin Tughlaq** court
+- Tughlaq founded **1320** | ends **1414**.
+- Muhammad bin Tughlaq **1325–1351**.
+- **Daulatabad** is renamed Deogir.
+- **Token currency** bronze is silver tanka.
+- **Diwan-i-Amir-i-Kohi** is agriculture dept.
+- Firuz **1351–1388** | **Timur 1398**.
+- Firuz translator is **Mulla Abdul Baqi**.
+- Ibn Battuta is **Muhammad bin Tughlaq** court.
 
 ### PYQs — Tughlaq Dynasty
 
@@ -594,27 +594,27 @@ PANIPAT I (20 April 1526):
 
 ### Sayyid & Lodi — How It Works
 
-- **Sayyid foundation:** **Khizr Khan** (1414) — governor under Timur; ruled as Timur's deputy; capital **Delhi**; territory shrunk — **Mewat, Doab** fragments.
-- **Sayyid rulers:** **Khizr Khan (1414–1421)** → **Mubarak Shah (1421–1434)** → **Muhammad Shah (1434–1445)** → **Alam Shah (1445–1451)** — last abdicated to Bahlul.
-- **Sayyid weakness:** No large conquests; faced **Malwa, Gujarat, Sharqi Jaunpur** pressure; "Kingdom of Delhi" only — prep for Afghan takeover.
-- **Bahlul Lodi (1451–1489):** Afghan from **Sirhind**; invited Afghans from **Roh**; annexed **Sharqi Jaunpur (1484)** — brought **eastern UP** (Jaunpur, Banaras belt) under Delhi.
-- **Jaunpur Sharqi overlap (UP):** Sharqi sultans (1394–1484) ruled **Jaunpur** as cultural centre — **Atala Masjid, Lal Darwaza**; Bahlul ended independent Jaunpur — important for **UP architecture/culture** exams.
-- **Sikandar Lodi (1489–1517):** Greatest Lodi; shifted focus to **Agra** ( founded/made important ); **Gazz-i-Sikandari** land measurement; abolished **octroi on grain**; roads safe; orthodox Sunni.
-- **Sikandar vs Ibrahim:** Sikandar controlled nobles; **Ibrahim (1517–1526)** reinstated **Lodi old nobles**, punished **Daulat Khan** — factional chaos.
-- **Ibrahim Lodi:** Last Sultan; large army at Panipat but no **artillery coordination**; **Daulat Khan** invited Babur (1524–1526); killed **20 April 1526**.
-- **Afghan vs Turkish:** Lodis = **Afghan** tribal network; different from Turkish Mamluk/Khalji elite — important for nobility structure at Panipat.
+- **Sayyid foundation:** **Khizr Khan** founded the Sayyid dynasty in 1414 after serving as Timur's governor, ruled from **Delhi** as Timur's deputy, and controlled only a shrunken territory with fragments such as **Mewat** and the **Doab**.
+- **Sayyid rulers:** The Sayyid line ran from **Khizr Khan (1414–1421)** to **Mubarak Shah (1421–1434)**, **Muhammad Shah (1434–1445)**, and **Alam Shah (1445–1451)**, who finally abdicated to Bahlul.
+- **Sayyid weakness:** The Sayyids made no large conquests, faced pressure from **Malwa, Gujarat, and Sharqi Jaunpur**, and reduced Delhi to a small "Kingdom of Delhi" before the Afghan takeover.
+- **Bahlul Lodi (1451–1489):** Bahlul Lodi, an Afghan from **Sirhind**, invited Afghans from **Roh** and annexed **Sharqi Jaunpur (1484)**, bringing **eastern UP** from Jaunpur to the Banaras belt under Delhi.
+- **Jaunpur Sharqi overlap (UP):** The Sharqi sultans ruled **Jaunpur** as a cultural centre from 1394 to 1484, built monuments such as **Atala Masjid** and **Lal Darwaza**, and remained important for **UP architecture/culture** exams after Bahlul ended independent Jaunpur.
+- **Sikandar Lodi (1489–1517):** Sikandar Lodi was the greatest Lodi ruler, shifted focus to **Agra** as an important centre, introduced **Gazz-i-Sikandari** land measurement, abolished **octroi on grain**, made roads safe, and followed orthodox Sunni policy.
+- **Sikandar vs Ibrahim:** Sikandar controlled the nobles, but **Ibrahim (1517–1526)** reinstated **Lodi old nobles**, punished **Daulat Khan**, and created factional chaos.
+- **Ibrahim Lodi:** Ibrahim Lodi was the last Sultan, brought a large army to Panipat without effective **artillery coordination**, faced Babur after **Daulat Khan** invited him between 1524 and 1526, and was killed on **20 April 1526**.
+- **Afghan vs Turkish:** The Lodis depended on an **Afghan** tribal network, which differed from the Turkish Mamluk/Khalji elite and shaped the nobility structure at Panipat.
 
 > **Exam note:** **Sikandar Lodi = Agra** (not Ibrahim); **Ibrahim = Panipat 1526** — do not swap Lodi rulers.
 
 ### Exam Facts (raata)
 
-- Sayyid **1414–1451** — 4 rulers
-- **Khizr Khan** first Sayyid
-- **Alam Shah** abdicated **1451**
-- Bahlul Lodi **1451–1489** — Afghan founder
-- **Jaunpur annexed 1484**
-- Sikandar **1489–1517** — **Agra**, Gazz-i-Sikandari
-- Ibrahim **1517–1526** — last Sultan
+- Sayyid **1414–1451** is 4 rulers.
+- **Khizr Khan** first Sayyid.
+- **Alam Shah** abdicated **1451**.
+- Bahlul Lodi **1451–1489** is Afghan founder.
+- **Jaunpur annexed 1484**.
+- Sikandar **1489–1517** is **Agra**, Gazz-i-Sikandari.
+- Ibrahim **1517–1526** is last Sultan.
 
 ### PYQs — Sayyid & Lodi
 
@@ -648,27 +648,27 @@ PANIPAT I (20 April 1526):
 
 ### First Battle of Panipat — How It Works
 
-- **Background:** **Timur (1398)** weakened Sultanate; **Sayyid-Lodi** phase never restored imperial power; **Ibrahim** alienated Punjab governor **Daulat Khan Lodi** and nobles.
-- **Babur's invitation:** **Daulat Khan** and **Rana Sanga** (Mewar) separately invited Babur — hoped to use him against rivals; Babur had **Kabul** base and **Central Asian** artillery tradition.
-- **Ibrahim's army:** Estimated **1 lakh** troops — elephants + cavalry; larger but less coordinated; no effective **artillery** or **wagon fort** doctrine.
-- **Babur's innovations:** **Araba** — carts chained with gaps for musketeers; **Tulughma** — flanking cavalry wings; **Ottoman-Uzbek** gunpowder technology.
-- **Battle (20 April 1526):** Babur's smaller force (~25,000) held centre; artillery disrupted Lodi charges; **Ibrahim Lodi killed**; Afghan army collapsed.
-- **Immediate results:** **Delhi and Agra** occupied; **Lodi dynasty extinguished**; Babur became master of **Indo-Gangetic plain** base.
-- **Why not full India yet:** **Khanwa (1527)** needed vs **Rana Sanga**; **Ghagra (1529)** vs Afghans — Panipat was **beginning**, not end, of Babur's wars.
-- **Historical significance:** End of **320-year Sultanate**; introduced **Mughal** political order; military revolution — **cannon + infantry muskets** vs traditional Indian medieval army.
-- **UP relevance:** **Panipat** (Haryana) — historic **Delhi gateway**; same field as **1556 Second Panipat** (Akbar-Hemu) and **1761 Third Panipat** (Marathas-Afghans) — chronology trap exams.
+- **Background:** **Timur (1398)** weakened the Sultanate, the **Sayyid-Lodi** phase never restored imperial power, and **Ibrahim** alienated Punjab governor **Daulat Khan Lodi** and the nobles.
+- **Babur's invitation:** **Daulat Khan** and **Rana Sanga** of Mewar separately invited Babur because each hoped to use him against rivals, while Babur brought a **Kabul** base and a **Central Asian** artillery tradition.
+- **Ibrahim's army:** Ibrahim's army was estimated at **1 lakh** troops with elephants and cavalry, but it was less coordinated and lacked effective **artillery** or **wagon fort** doctrine.
+- **Babur's innovations:** Babur used **Araba**, or carts chained with gaps for musketeers, and **Tulughma**, or flanking cavalry wings, along with **Ottoman-Uzbek** gunpowder technology.
+- **Battle (20 April 1526):** Babur's smaller force of about 25,000 held the centre, artillery disrupted Lodi charges, **Ibrahim Lodi was killed**, and the Afghan army collapsed.
+- **Immediate results:** Babur occupied **Delhi and Agra**, extinguished the **Lodi dynasty**, and became master of an **Indo-Gangetic plain** base.
+- **Why not full India yet:** Babur still had to fight **Khanwa (1527)** against **Rana Sanga** and **Ghagra (1529)** against the Afghans, so Panipat began rather than ended his wars in India.
+- **Historical significance:** The battle ended the **320-year Sultanate**, introduced the **Mughal** political order, and marked a military revolution in which **cannon + infantry muskets** defeated the traditional Indian medieval army.
+- **UP relevance:** **Panipat** in Haryana was the historic **Delhi gateway**, and the same field later hosted **1556 Second Panipat** (Akbar-Hemu) and **1761 Third Panipat** (Marathas-Afghans), creating a common chronology trap in exams.
 
 > **Exam note:** **First Panipat 1526** = Babur-Ibrahim (ends Sultanate). **Second Panipat 1556** = Akbar-Hemu (Mughal consolidation) — do not mix.
 
 ### Exam Facts (raata)
 
-- Date **20 April 1526**
-- **Babur** vs **Ibrahim Lodi**
-- Ibrahim **killed** in battle
-- **Tulughma + Araba** = Babur tactics
-- End of **Delhi Sultanate**
-- Babur wrote **Baburnama (Tuzuk-i-Baburi)**
-- Daulat Khan invited Babur to India
+- Date **20 April 1526**.
+- **Babur** vs **Ibrahim Lodi**.
+- Ibrahim **killed** in battle.
+- **Tulughma + Araba** is Babur tactics.
+- End of **Delhi Sultanate**.
+- Babur wrote **Baburnama (Tuzuk-i-Baburi)**.
+- Daulat Khan invited Babur to India.
 
 ### PYQs — Panipat 1526
 
@@ -703,30 +703,30 @@ PANIPAT I (20 April 1526):
 
 ### Administration — How It Works
 
-- **Sultan's position:** Supreme **legislative, executive, military, judicial** authority; no fixed **law of succession** — needed noble + army support.
-- **Central departments:** **Diwan-i-Wizarat** (finance/Wazir) | **Diwan-i-Arz** (army/Ariz-i-Mamalik) | **Diwan-i-Risalat** (religious grants/Sadr) | **Diwan-i-Insha** (state correspondence).
-- **2020 Q38 match (Medieval admin):** **Diwan-i-Tan** → look after **Jagirs and salaries (3)** | **Mustarfi** → examine **income-expenditure (4)** | **Mushrif** → look after **office (1)** | **Vakianvis** → **events/firmans list (2)** → Code **B (3-4-1-2)**.
-- **Khareetadar (2023 Q32):** **Despatcher of royal decrees** — not Pargana officer, not accountant.
-- **Provincial system — Iqta:** **Muqti/Wali** holds **iqta** — collects revenue, maintains troops, administers province; **NOT** direct deposit to Sultan (2019 Q15).
-- **Local hierarchy:** **Province (Iqta/Suba)** → **Shiq** → **Pargana (Amil)** → **Village (Muqaddam, Khut, Patwari)**.
-- **chakla (2018 Q92):** Territorial unit **between Subah and Pargana** — **not identical to Sarkar** (Mughal term overlap trap).
-- **Intelligence:** **Barids** (spies) under **Chief Barid** — Balban and Alauddin expanded network.
-- **Royal household:** **Wakil-i-Dar** — karkhanas, court protocol; **Naib** = deputy (Balban was Naib before Sultan).
-- **Khalsa vs Jagirs (2025 Q95):** **Khalsa** = crown/direct land; **Jagirs/Iqtas** = assigned to nobles for revenue + military obligation — **not** direct state land.
-- **Firuz additions:** **Department of Slaves**; **Public Works Department**; **hereditary iqta** — short-term peace, long-term noble power.
+- **Sultan's position:** The Sultan held supreme **legislative, executive, military, and judicial** authority, but the absence of a fixed **law of succession** made noble and army support essential.
+- **Central departments:** The central departments included **Diwan-i-Wizarat** for finance under the Wazir, **Diwan-i-Arz** for the army under the Ariz-i-Mamalik, **Diwan-i-Risalat** for religious grants under the Sadr, and **Diwan-i-Insha** for state correspondence.
+- **2020 Q38 match (Medieval admin):** The 2020 match pairs **Diwan-i-Tan** with **Jagirs and salaries (3)**, **Mustarfi** with **income-expenditure audit (4)**, **Mushrif** with **office records (1)**, and **Vakianvis** with the **events/firmans list (2)**, giving Code **B (3-4-1-2)**.
+- **Khareetadar (2023 Q32):** The **Khareetadar** despatched royal decrees and was not a Pargana officer or accountant.
+- **Provincial system — Iqta:** The **Muqti/Wali** held an **iqta**, collected revenue, maintained troops, and administered the province, so iqta revenue was **NOT** deposited directly with the Sultan (2019 Q15).
+- **Local hierarchy:** The local hierarchy ran from **Province (Iqta/Suba)** to **Shiq**, **Pargana (Amil)**, and **Village (Muqaddam, Khut, Patwari)**.
+- **chakla (2018 Q92):** A **chakla** was a territorial unit **between Subah and Pargana**, and it was **not identical to Sarkar**, which is the Mughal term overlap trap.
+- **Intelligence:** **Barids** served as spies under the **Chief Barid**, and Balban and Alauddin expanded this network.
+- **Royal household:** The **Wakil-i-Dar** managed karkhanas and court protocol, while the **Naib** served as deputy, as Balban did before becoming Sultan.
+- **Khalsa vs Jagirs (2025 Q95):** **Khalsa** meant crown or direct land, while **Jagirs/Iqtas** were assigned to nobles for revenue and military obligation and were **not** direct state land.
+- **Firuz additions:** Firuz added the **Department of Slaves** and **Public Works Department**, while his **hereditary iqta** policy brought short-term peace but increased noble power in the long term.
 
 > **Exam note:** **Diwan** in 2019 Q87 trap — **Diwan = revenue chief of province** is Mughal/regional usage; Sultanate central Diwan = Wazir's finance department — read option context.
 
 ### Exam Facts (raata)
 
-- **Wazir** = head of Diwan-i-Wizarat
-- **Ariz-i-Mamalik** = head of Diwan-i-Arz
-- **Muqti** = iqta holder
-- **Amil** = Pargana officer
-- **Barid** = spy
-- **Khareetadar** = decree despatcher
-- **chakla** = between Subah & Pargana
-- Iqta revenue **not** direct to Sultan
+- **Wazir** is head of Diwan-i-Wizarat.
+- **Ariz-i-Mamalik** is head of Diwan-i-Arz.
+- **Muqti** is iqta holder.
+- **Amil** is Pargana officer.
+- **Barid** is spy.
+- **Khareetadar** is decree despatcher.
+- **chakla** is between Subah & Pargana.
+- Iqta revenue **not** direct to Sultan.
 
 ### PYQs — Administration
 
@@ -766,29 +766,29 @@ PANIPAT I (20 April 1526):
 
 ### Revenue System — How It Works
 
-- **Land revenue (Kharaj):** Primary income; taken from peasants; rate varied — **half produce** under Alauddin in **Doab** (extreme).
-- **Iqta mechanism:** Sultan assigns territory to **Muqti**; Muqti deducts **administration + army** cost; remainder to centre — hence **NOT direct** to Sultan (2019 Q15 trap).
-- **Khalsa land:** Crown lands — revenue directly to Sultan's treasury; rest = **iqta/jagir** assignments (2025 Q95).
-- **Khams:** **1/5** of war booty to Sultan; rest to soldiers — encouraged campaigns.
-- **Jizya:** Poll tax on **non-Muslims** in lieu of military service; women/children/poor exempt initially; **Firuz** taxed **Brahmins** separately.
-- **Other cesses:** **Zakat** (Muslim charity tax to state in theory); **customs** at ports (Cambay, Lahore); **monopolies** under Alauddin (market control).
-- **Alauddin agrarian reforms:** **Jarib** (measurement); **50%** on measured land; curbed **Khut/Muqaddam** privileges; **house tax, cattle tax** on rural elite.
-- **Muhammad bin Tughlaq:** Increased demand in **Doab** → **1320–1321 rebellion** + famine; **Amir-i-Kohi** loans — failed.
-- **Firuz:** Fixed **1/6 to 1/3** on Khalsa; reduced torture in revenue audit; separate **jizya** account; canal income.
-- **Currency link:** **Silver tanka** + **copper dirham/jital** — stable coinage supported revenue collection and trade.
+- **Land revenue (Kharaj):** **Kharaj** was the primary income taken from peasants, and its rate varied, reaching the extreme level of **half produce** under Alauddin in the **Doab**.
+- **Iqta mechanism:** The Sultan assigned territory to a **Muqti**, who deducted **administration + army** costs and sent the remainder to the centre, so revenue was **NOT direct** to the Sultan (2019 Q15 trap).
+- **Khalsa land:** **Khalsa** lands sent revenue directly to the Sultan's treasury, while the rest was held as **iqta/jagir** assignments (2025 Q95).
+- **Khams:** **Khams** gave **1/5** of war booty to the Sultan and left the rest to soldiers, which encouraged campaigns.
+- **Jizya:** **Jizya** was a poll tax on **non-Muslims** in lieu of military service, with women, children, and the poor initially exempt, while **Firuz** taxed **Brahmins** separately.
+- **Other cesses:** The Sultanate also collected **Zakat** as a Muslim charity tax in theory, **customs** at ports such as Cambay and Lahore, and **monopolies** under Alauddin's market control.
+- **Alauddin agrarian reforms:** Alauddin used **Jarib** measurement, imposed **50%** on measured land, curbed **Khut/Muqaddam** privileges, and levied **house tax** and **cattle tax** on the rural elite.
+- **Muhammad bin Tughlaq:** Muhammad bin Tughlaq increased demand in the **Doab**, which led to the **1320–1321 rebellion** and famine, while his **Amir-i-Kohi** loans failed.
+- **Firuz:** Firuz fixed **1/6 to 1/3** on Khalsa, reduced torture in revenue audits, kept a separate **jizya** account, and drew income from canals.
+- **Currency link:** The **silver tanka** and **copper dirham/jital** provided stable coinage that supported revenue collection and trade.
 
 > **Exam note:** **Jarib** = measuring rope (2019 Q87 D is "type of tax" trap — Jarib is **measurement tool**, not tax). **Desai** = revenue collector (Gujarat/regional — 2019 Q87 B).
 
 ### Exam Facts (raata)
 
-- **Iqta** = revenue + military assignment
-- **Muqti** maintains troops from iqta income
-- Alauddin Doab = **50%** + **measurement**
-- **Khams** = 1/5 booty
-- **Jizya** = on non-Muslims
-- **Khalsa** = direct crown revenue
-- **Tanka** = silver; **jital** = copper
-- Firuz = lighter demand + jizya on Brahmins
+- **Iqta** is revenue + military assignment.
+- **Muqti** maintains troops from iqta income.
+- Alauddin Doab is **50%** + **measurement**.
+- **Khams** is 1/5 booty.
+- **Jizya** is on non-Muslims.
+- **Khalsa** is direct crown revenue.
+- **Tanka** was the silver coin, while **jital** was the copper coin.
+- Firuz is lighter demand + jizya on Brahmins.
 
 ### PYQs — Revenue
 
@@ -826,27 +826,27 @@ PANIPAT I (20 April 1526):
 
 ### Literature — How It Works
 
-- **Historical chronicles:** **Tabaqat-i-Nasiri** — **Minhaj-us-Siraj Juzjani** (Ghaznavid to early Sultanate); **Tarikh-i-Firoz Shahi** — **Ziauddin Barani** (Balban to Firuz); **Tughlaqnama** — **Barani** (NOT Ibn Battuta).
-- **2019 Q16 trap:** Option C pairs **Tughlaqnama–Ibn Battuta** — **wrong**; correct answer **C** means this pair is NOT matched (along with checking others: Tabaqat-i-Nasiri–Minhaj ✓, Tarikh-i-Firoz Shahi–Barani ✓, Humayunnama–Gulbadan ✓).
-- **Amir Khusrau (1253–1325):** Poet at **Balban, Alauddin, Khusrau Khan** courts; **Khaliq-e-Bari** (Hindavi), **Tughluqnama** (poem on Ghiyasuddin), **Miftah-ul-Futuh** (conquests); **Rag Vibodh** — music/raga treatise (2019 Q88).
-- **2019 Q88 match:** Mulla Daud–**Chandayan (1)** | Damodar Kavi–**Padmavati Katha (3)** | Somnath–**Ashiqa (2)** | Amir Khusrau–**Rag Vibodh (4)** → Code **A (1-3-2-4)** per standard key — verify: user said Amir Khusrau Rag Vibodh in literature; **Amir Khusrau = 4 Rag Vibodh**.
-- **Barani's view:** **Tarikh-i-Firoz Shahi** — admires Alauddin's efficiency; communal lens on market reforms — modern historians critique.
-- **Sufi literature:** **Fawaid-ul-Fuad** — conversations of **Nizamuddin Auliya** compiled by **Amir Hasan Sijzi** (2021 Q101 nearby topic); Khusrusrau disciple of Nizamuddin.
-- **Ibn Battuta:** **Rihla** — travel account; not a court chronicle writer; describes **Muhammad bin Tughlaq**'s capital, postal system, sati, cities.
-- **Sanskrit:** Firuz collected Sanskrit books; **Mulla Abdul Baqi** translated; **Hindavi** evolved — Khusrau's multilingual poetry bridge.
-- **Regional:** **Jaunpur Sharqi** patronized **Malik Muhammad Jaisi** (Padmavat later); **Sharqi sultans** promoted Persian-Urdu culture in **eastern UP**.
+- **Historical chronicles:** **Tabaqat-i-Nasiri** was written by **Minhaj-us-Siraj Juzjani** and covers the Ghaznavids to the early Sultanate, **Tarikh-i-Firoz Shahi** was written by **Ziauddin Barani** and covers Balban to Firuz, and **Tughlaqnama** belongs to **Barani**, not Ibn Battuta.
+- **2019 Q16 trap:** Option C wrongly pairs **Tughlaqnama–Ibn Battuta**, so answer **C** marks that pair as NOT matched while the other pairs remain correct: Tabaqat-i-Nasiri–Minhaj, Tarikh-i-Firoz Shahi–Barani, and Humayunnama–Gulbadan.
+- **Amir Khusrau (1253–1325):** Amir Khusrau served at the courts of **Balban, Alauddin, and Khusrau Khan**, wrote works such as **Khaliq-e-Bari** (Hindavi), **Tughluqnama** (poem on Ghiyasuddin), and **Miftah-ul-Futuh** (conquests), and is linked with **Rag Vibodh**, the music/raga treatise in 2019 Q88.
+- **2019 Q88 match:** The standard key matches Mulla Daud with **Chandayan (1)**, Damodar Kavi with **Padmavati Katha (3)**, Somnath with **Ashiqa (2)**, and Amir Khusrau with **Rag Vibodh (4)**, giving Code **A (1-3-2-4)**.
+- **Barani's view:** In **Tarikh-i-Firoz Shahi**, Barani admires Alauddin's efficiency but applies a communal lens to market reforms, which modern historians critique.
+- **Sufi literature:** **Fawaid-ul-Fuad** records conversations of **Nizamuddin Auliya** compiled by **Amir Hasan Sijzi** (2021 Q101 nearby topic), and Khusrau was a disciple of Nizamuddin.
+- **Ibn Battuta:** **Rihla** is Ibn Battuta's travel account rather than a court chronicle, and it describes **Muhammad bin Tughlaq**'s capital, postal system, sati, and cities.
+- **Sanskrit:** Firuz collected Sanskrit books, **Mulla Abdul Baqi** translated them, and **Hindavi** evolved through bridges such as Khusrau's multilingual poetry.
+- **Regional:** **Jaunpur Sharqi** later patronized **Malik Muhammad Jaisi** of Padmavat fame, and the **Sharqi sultans** promoted Persian-Urdu culture in **eastern UP**.
 
 > **Exam note:** **Shams-i-Siraj Alif** in 2019 Q16 option B is trap spelling — **Tarikh-i-Firoz Shahi** author = **Ziauddin Barani**, not "Alif".
 
 ### Exam Facts (raata)
 
-- **Barani** = Tarikh-i-Firoz Shahi + Tughlaqnama
-- **Minhaj** = Tabaqat-i-Nasiri
-- **Amir Khusrau** = Rag Vibodh, Khaliq-e-Bari
-- **Ibn Battuta** = Rihla (travelogue)
-- **Gulbadan** = Humayunnama (Mughal — boundary trap)
-- **Amir Hasan Sijzi** = Fawaid-ul-Fuad
-- Court language = **Persian**
+- **Barani** is Tarikh-i-Firoz Shahi + Tughlaqnama.
+- **Minhaj** is Tabaqat-i-Nasiri.
+- **Amir Khusrau** is Rag Vibodh, Khaliq-e-Bari.
+- **Ibn Battuta** is Rihla (travelogue).
+- **Gulbadan** is Humayunnama (Mughal is boundary trap).
+- **Amir Hasan Sijzi** is Fawaid-ul-Fuad.
+- Court language is **Persian**.
 
 ### PYQs — Literature
 
@@ -884,30 +884,30 @@ PANIPAT I (20 April 1526):
 
 ### Architecture — How It Works
 
-- **Early Sultanate (Aibak-Iltutmish):** **Quwwat-ul-Islam** mosque (Delhi) — built from **27 Hindu/Jain temple** materials; **iron pillar** inside; **Qutub Minar** started by **Aibak**, completed by **Iltutmish**, enlarged by **Alauddin**.
-- **Qutub Minar:** **73 m** stone minar; five storeys; red sandstone + marble; earthquake repairs by **Firuz Shah**; **UNESCO** site — UPPCS favourite.
-- **Adhai Din Ka Jhopra (Ajmer):** **Qutb-ud-din Aibak** — converted Jain temple/college; **seven-arched** screen wall; Ajmer = strategic Rajput gateway.
-- **Alauddin Khalji monuments:** **Alai Darwaza (1311)** — domed gateway to Qutb complex; **Siri Fort** (Delhi) — Mongol defence; **Alai Minar** (unfinished, planned 2× Qutub height).
-- **Balban:** **Tomb of Balban** — first **true arch** experiment in India; **Red Palace/Kuşk-i-Lal** associated with Balban (2022 Q4).
-- **Iltutmish:** **Sultan Garhi (1229)** — first Islamic tomb in India (son Nasiruddin Mahmud).
-- **Alauddin:** **Jamat Khana Masjid** (Nizamuddin, Delhi) — congregational mosque linked to Nizamuddin Auliya's hospice.
-- **Tughlaq architecture:** **Tughlaqabad** (Ghiyasuddin); **Adilabad**; **Muhammad bin Tughlaq** — **Bijak-ki-Masjid**; **Firuz** — **Hauz Khas**, **Kotla Firoz Shah**, **Lat ki Masjid** (Hissar).
-- **Sayyid-Lodi:** **Moth ki Masjid**, **Lodi Gardens** tombs; **Lodi** garden-tomb tradition; **Sharqi Jaunpur** (Atala, Jami masjids) — **eastern UP** Indo-Islamic style overlap.
-- **2022 Q4 answer A (3-4-1-2):** Sultan Garhi–**Iltutmish(3)** | Red Palace–**Balban(4)** | Jamat Khana–**Alauddin(1)** | Dhai Din Ka Jhopra–**Aibak(2)**.
-- **Style features:** **Horse-shoe arch**, **lotus bud** fringes, **calligraphy** bands, **madrasa-mosque** complexes.
+- **Early Sultanate (Aibak-Iltutmish):** The **Quwwat-ul-Islam** mosque in Delhi used materials from **27 Hindu/Jain temples** and contains the **iron pillar**, while **Aibak** started the **Qutub Minar**, **Iltutmish** completed it, and **Alauddin** enlarged the complex.
+- **Qutub Minar:** The **Qutub Minar** is a **73 m** stone minar with five storeys, red sandstone and marble work, earthquake repairs by **Firuz Shah**, and **UNESCO** status, making it a UPPCS favourite.
+- **Adhai Din Ka Jhopra (Ajmer):** **Qutb-ud-din Aibak** converted a Jain temple/college into **Adhai Din Ka Jhopra**, added a **seven-arched** screen wall, and used Ajmer as a strategic Rajput gateway.
+- **Alauddin Khalji monuments:** **Alai Darwaza (1311)** served as a domed gateway to the Qutb complex, **Siri Fort** defended Delhi against Mongols, and the unfinished **Alai Minar** was planned at twice the height of Qutub Minar.
+- **Balban:** The **Tomb of Balban** marks the first **true arch** experiment in India, and the **Red Palace/Kuşk-i-Lal** is associated with Balban in 2022 Q4.
+- **Iltutmish:** **Sultan Garhi (1229)**, built for Iltutmish's son Nasiruddin Mahmud, is considered the first Islamic tomb in India.
+- **Alauddin:** **Jamat Khana Masjid** at Nizamuddin in Delhi served as a congregational mosque linked to Nizamuddin Auliya's hospice.
+- **Tughlaq architecture:** Tughlaq architecture includes **Tughlaqabad** under Ghiyasuddin, **Adilabad**, **Bijak-ki-Masjid** under **Muhammad bin Tughlaq**, and **Hauz Khas**, **Kotla Firoz Shah**, and **Lat ki Masjid** at Hissar under **Firuz**.
+- **Sayyid-Lodi:** The **Moth ki Masjid**, **Lodi Gardens** tombs, the **Lodi** garden-tomb tradition, and **Sharqi Jaunpur** monuments such as Atala and Jami masjids show the **eastern UP** Indo-Islamic style overlap.
+- **2022 Q4 answer A (3-4-1-2):** The 2022 answer pairs Sultan Garhi with **Iltutmish(3)**, Red Palace with **Balban(4)**, Jamat Khana with **Alauddin(1)**, and Dhai Din Ka Jhopra with **Aibak(2)**.
+- **Style features:** Sultanate style used the **horse-shoe arch**, **lotus bud** fringes, **calligraphy** bands, and **madrasa-mosque** complexes.
 
 > **Exam note:** **Qutub Minar ≠ Alai Darwaza** — minar = Aibak/Iltutmish base; **Alai Darwaza = Alauddin only**.
 
 ### Exam Facts (raata)
 
-- **Quwwat-ul-Islam** — Aibak, Delhi
-- **Qutub Minar** — Aibak start, Iltutmish complete
-- **Alai Darwaza 1311** — Alauddin
-- **Adhai Din Ka Jhopra** — Ajmer, Aibak (2022 Q4)
-- **Sultan Garhi** — Iltutmish
-- **Tughlaqabad** — Ghiyasuddin
-- **Hauz Khas** — Firuz Shah
-- **True arch** — Balban tomb
+- **Quwwat-ul-Islam** is Aibak, Delhi.
+- **Qutub Minar** is Aibak start, Iltutmish complete.
+- **Alai Darwaza 1311** is Alauddin.
+- **Adhai Din Ka Jhopra** is Ajmer, Aibak (2022 Q4).
+- **Sultan Garhi** is Iltutmish.
+- **Tughlaqabad** is Ghiyasuddin.
+- **Hauz Khas** is Firuz Shah.
+- **True arch** is Balban tomb.
 
 ### PYQs — Architecture
 
@@ -2068,24 +2068,23 @@ D. Both true; R explains A
 
 ## Common Traps — Don't Fall For These
 
-1. **Tarain vs Panipat** — Tarain **1191/1192** (Ghori-Prithviraj); Panipat **1526** (Babur-Ibrahim) — three Panipat battles exist (1526, 1556, 1761).
-2. **Chandawar vs Tarain** — Chandawar **1194** = **Jaichand/Kannauj**; not Prithviraj.
-3. **Aibak vs Iltutmish consolidator** — Aibak **founded**; **Iltutmish consolidated** — exams prefer Iltutmish as real founder.
-4. **Tughlaqnama author** — **Barani**, NOT Ibn Battuta (2019 Q16).
-5. **Iqta revenue direct to Sultan** — **FALSE** (2019 Q15); muqti keeps troops first.
-6. **Jagirs = direct state land** — **FALSE** (2025 Q95); Khalsa = direct.
-7. **chakla = Sarkar** — **FALSE** (2018 Q92); between Subah and Pargana.
-8. **Hamida Banu = Alauddin's wife** — **FALSE** (2023 Q34); she was **Humayun's** wife.
-9. **Dagh/Chehra = Balban** — **FALSE**; both = **Alauddin Khalji**.
-10. **Alauddin chronology** — Always **Gujarat/Jaisalmer before Ranthambor before Chittor before Warangal** (2022 Q59 C; 2025 Q30 B).
-11. **2022 vs 2025 chronology items** — 2022 uses **Gujarat**; 2025 uses **Jaisalmer** — same order logic, different first item.
-12. **Jamat Khana vs Dhai Din Ka Jhopra** — Jamat Khana Masjid (Nizamuddin) = **Alauddin**; Adhai Din Ka Jhopra (Ajmer) = **Aibak** — do not swap (2022 Q4).
-13. **Qutub Minar vs Alai Darwaza** — Minar = Aibak/Iltutmish; Darwaza = **Alauddin only**.
-14. **Balban A/R 2024 Q150** — R (Mongols) true but **does not explain** centralisation (anti-noble policy).
-15. **Jarib = tax** — **FALSE** (2019 Q87); Jarib = **measuring rope**.
-16. **Rag Vibodh** — **Amir Khusrau**, not Somnath poet (2019 Q88).
-17. **Firoz translator** — **Mulla Abdul Baqi** (2023 Q37), not Talib Amuli.
-18. **Sayyid before Lodi** — Sayyid **1414–1451** then Lodi **1451** — do not reverse.
-19. **Sikandar vs Ibrahim Lodi** — **Sikandar** = Agra/admin reforms; **Ibrahim** = last Sultan Panipat.
-20. **Muhammad bin Qasim ≠ Delhi Sultanate** — Sind **712** is pre-Sultanate Arab; Sultanate starts **1206**.
-
+1. **Tarain and Panipat are different turning points.** Tarain in **1191/1192** was Ghori-Prithviraj, while Panipat in **1526** was Babur-Ibrahim.
+2. **Chandawar was not Tarain.** Chandawar in **1194** involved Jaichand of Kannauj, not Prithviraj Chauhan.
+3. **Aibak founded, but Iltutmish consolidated.** Exams often prefer Iltutmish as the real founder or consolidator of the stable Sultanate.
+4. **Tughlaqnama was written by Barani.** It was not written by Ibn Battuta in the 2019 Q16 trap.
+5. **Iqta revenue did not go directly to the Sultan.** The muqti first used iqta revenue for troops and administration.
+6. **Jagirs were not direct state land.** **Khalsa** was direct crown land, while jagirs/iqtas were assigned to nobles.
+7. **Chakla was not identical to Sarkar.** It was a unit between Subah and Pargana in the 2018 Q92 trap.
+8. **Hamida Banu was not Alauddin Khalji's wife.** She was Humayun's wife and Akbar's mother.
+9. **Dagh and Chehra belonged to Alauddin Khalji.** They were not Balban's reforms.
+10. **Alauddin's conquest order starts before Ranthambor.** Remember Gujarat/Jaisalmer before Ranthambor, then Chittor, then Warangal.
+11. **The 2022 and 2025 chronology sets use different first items.** 2022 uses Gujarat, while 2025 uses Jaisalmer with the same broad order logic.
+12. **Jamat Khana and Dhai Din Ka Jhopra should not be swapped.** Jamat Khana Masjid is linked with Alauddin, while Dhai Din Ka Jhopra is linked with Aibak.
+13. **Qutub Minar and Alai Darwaza have different builders.** Qutub Minar is Aibak/Iltutmish, while Alai Darwaza is Alauddin only.
+14. **Balban's centralisation was not explained mainly by Mongol defence.** The Mongol reason is true but does not explain the anti-noble centralisation in 2024 Q150.
+15. **Jarib was not a tax.** It was a measuring rope in the 2019 Q87 trap.
+16. **Rag Vibodh is linked with Amir Khusrau.** Do not assign it to Somnath poet in the 2019 Q88 match.
+17. **Firoz Shah's Sanskrit translator was Mulla Abdul Baqi.** It was not Talib Amuli.
+18. **Sayyid came before Lodi.** The sequence is Sayyid **1414-1451**, then Lodi from **1451**.
+19. **Sikandar and Ibrahim Lodi are tested for different facts.** Sikandar is linked with Agra and reforms, while Ibrahim is the last Sultan at Panipat.
+20. **Muhammad bin Qasim belongs to the pre-Sultanate phase.** Sind in **712** is not the Delhi Sultanate, which starts in **1206**.

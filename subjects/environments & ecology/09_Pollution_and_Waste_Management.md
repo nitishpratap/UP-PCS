@@ -168,16 +168,16 @@ CARRYING CAPACITY (2025 Q23):
 
 ### Environmental Pollution — How It Works
 
-- **Pollution** occurs when the **rate of pollutant addition** exceeds the environment's **assimilative/absorption capacity** — the threshold beyond which ecological damage becomes irreversible.
+- **Pollution** occurs when the **rate of pollutant addition** exceeds the environment's **assimilative/absorption capacity**. The threshold beyond which ecological damage becomes irreversible.
 - Pollutants can be **physical** (heat, noise, radiation), **chemical** (pesticides, heavy metals, gases), or **biological** (pathogens, algal toxins).
-- **Point sources** have identifiable discharge points — factory chimneys, sewage outfalls, drain pipes — making them easier to regulate and monitor.
-- **Non-point sources** are diffuse — fertilizer runoff from farms, road sediment, urban stormwater — harder to trace and control; major cause of river eutrophication.
+- **Point sources** have identifiable discharge points such as factory chimneys, sewage outfalls, and drain pipes, which makes them easier to regulate and monitor.
+- **Non-point sources** are diffuse, such as fertilizer runoff from farms, road sediment, and urban stormwater, and they are harder to trace and control as a major cause of river eutrophication.
 - **Primary pollutants** are emitted directly: **SO₂** from coal combustion, **CO** from vehicles, **PM** from dust and combustion.
-- **Secondary pollutants** form through atmospheric reactions: **O₃** from NOx + VOCs in sunlight; **PAN** (peroxyacetyl nitrate); **H₂SO₄/HNO₃** in acid rain.
-- **Pollution load** = concentration × volume × time — a low-concentration but high-volume discharge can exceed a high-concentration intermittent discharge.
-- India's legal framework: **Water Act 1974** (water pollution), **Air Act 1981** (air pollution), **EPA 1986** (umbrella — hazardous substances, environmental standards, EIA), enforced by **SPCBs** under **CPCB** guidance.
-- **CPCB** (est. 1974, HQ New Delhi) sets national ambient standards and coordinates pollution monitoring; **MoEFCC** is nodal ministry.
-- **Absorption capacity** links to carrying capacity — UPPCS 2025 Q23 tested that waste generation must stay **within** environmental absorption limits.
+- **Secondary pollutants** form through atmospheric reactions: **O₃** from NOx + VOCs in sunlight. **PAN** (peroxyacetyl nitrate). **H₂SO₄/HNO₃** in acid rain.
+- **Pollution load** = concentration × volume × time. A low-concentration but high-volume discharge can exceed a high-concentration intermittent discharge.
+- India's legal framework includes the **Water Act 1974** (water pollution), **Air Act 1981** (air pollution), and **EPA 1986** as the umbrella law for hazardous substances, environmental standards, and EIA, enforced by **SPCBs** under **CPCB** guidance.
+- **CPCB** (est. 1974, HQ New Delhi) sets national ambient standards and coordinates pollution monitoring. **MoEFCC** is nodal ministry.
+- **Absorption capacity** links to carrying capacity. UPPCS 2025 Q23 tested that waste generation must stay **within** environmental absorption limits.
 
 > **Exam note:** "Pollution = any human addition to environment" = **FALSE** — must exceed tolerance/absorption capacity. Natural volcanic SO₂ is not pollution at low concentrations.
 
@@ -197,10 +197,10 @@ CARRYING CAPACITY (2025 Q23):
 ### Exam Facts (raata)
 
 - Pollution = harmful addition **beyond** absorption capacity
-- Point vs non-point source distinction — exams love farm runoff as non-point
+- Point vs non-point source distinction. Exams love farm runoff as non-point.
 - Primary (SO₂, PM) vs secondary (O₃, acid rain) pollutants
-- Water Act **1974** | Air Act **1981** | EPA **1986** — chronological order
-- CPCB sets standards; SPCB enforces at state level
+- Water Act **1974** | Air Act **1981** | EPA **1986**. Chronological order.
+- CPCB sets standards. SPCB enforces at state level.
 - Waste within absorption capacity = carrying capacity principle (2025 Q23)
 
 ### PYQs — Environmental Pollution
@@ -208,10 +208,10 @@ CARRYING CAPACITY (2025 Q23):
 1. **(UPPCS Prelims 2025, Q23)** With reference to 'Carrying Capacity of Environment', which of the following statements is/are correct?
    1. The rate of resource extraction should remain above the rate of resource generation.
    2. Generation of waste should remain within the absorption capacity of environment.
-   → **Answer: B (Only 2)** — Stmt 1 false: extraction must be **at or below** regeneration. Stmt 2 true: waste ≤ absorption capacity.
+   → **Answer: B (Only 2)**. Stmt 1 false: extraction must be **at or below** regeneration. Stmt 2 true: waste ≤ absorption capacity.
 
-2. **(UPSC 2011 — pattern)** Which of the following are covered under EPA 1986? (a) Water pollution only (b) Air pollution only (c) Both water and air plus hazardous substances (d) Wildlife only
-   → **(c)** — EPA is umbrella law covering all environmental media post-Bhopal 1984.
+2. **(UPSC 2011 pattern)** Which of the following are covered under EPA 1986? (a) Water pollution only (b) Air pollution only (c) Both water and air plus hazardous substances (d) Wildlife only.
+   → **(c)**. EPA is umbrella law covering all environmental media post-Bhopal 1984.
 
 ### Examples (9.1)
 
@@ -235,16 +235,16 @@ CARRYING CAPACITY (2025 Q23):
 
 ### Environmental Degradation — How It Works
 
-- **Environmental degradation** is **broader than pollution** — pollution is one *cause* of degradation; degradation also includes deforestation, soil erosion, groundwater depletion, and biodiversity loss without necessarily involving toxic substances.
-- **Cause → effect chain**: deforestation → soil erosion → siltation of rivers → reduced water quality → flood risk → agricultural productivity decline.
+- **Environmental degradation** is **broader than pollution**. Pollution is one *cause* of degradation. Degradation also includes deforestation, soil erosion, groundwater depletion, and biodiversity loss without necessarily involving toxic substances.
+- A classic degradation chain runs from deforestation, then soil erosion, then siltation of rivers, then reduced water quality, then flood risk, then agricultural productivity decline.
 - **Urbanization** causes degradation through impervious surfaces (reduced groundwater recharge), heat islands, sewage overload, and solid waste accumulation.
-- **Mining** degrades land through subsidence, acid mine drainage, removal of vegetation, and toxic tailings — Sonbhadra (UP) has mining-related land degradation.
+- **Mining** degrades land through subsidence, acid mine drainage, removal of vegetation, and toxic tailings. Sonbhadra (UP) has mining-related land degradation.
 - **Industrialization** adds pollution load but also degrades land through slag heaps, contaminated sites, and abandoned industrial zones.
 - **Agricultural intensification** degrades soil through excessive pesticide/fertilizer use, salinization from irrigation, and monoculture reducing soil organic matter.
-- **Carrying capacity violation** is the root mechanism — when resource extraction exceeds regeneration OR waste exceeds absorption, degradation accelerates.
-- **Land degradation** affects ~30% of India's land area (ISRO Desertification Atlas) — desertification and erosion are related processes taught alongside soil pollution mechanisms here.
-- **Reversibility** varies: air pollution can improve quickly with controls; soil heavy-metal contamination may take decades; groundwater depletion is very slow to reverse.
-- **Environmental impact assessment (EIA)** under EPA 1986 aims to **prevent** degradation before projects begin — projects above thresholds need prior environmental clearance.
+- **Carrying capacity violation** is the root mechanism. When resource extraction exceeds regeneration OR waste exceeds absorption, degradation accelerates.
+- **Land degradation** affects ~30% of India's land area (ISRO Desertification Atlas). Desertification and erosion are related processes taught alongside soil pollution mechanisms here.
+- **Reversibility** varies: air pollution can improve quickly with controls. Soil heavy-metal contamination may take decades. Groundwater depletion is very slow to reverse.
+- **Environmental impact assessment (EIA)** under EPA 1986 aims to **prevent** degradation before projects begin. Projects above thresholds need prior environmental clearance.
 
 > **Exam note:** Degradation ≠ pollution only. A question asking "deforestation causes environmental degradation" = TRUE even without chemical pollutants.
 
@@ -259,19 +259,19 @@ CARRYING CAPACITY (2025 Q23):
 
 ### Exam Facts (raata)
 
-- Degradation broader than pollution — includes resource depletion
-- Deforestation → erosion → siltation = classic degradation chain
+- Degradation broader than pollution. Includes resource depletion.
+- Deforestation leads to erosion and siltation in the classic degradation chain.
 - ~30% India land degraded (ISRO)
-- Carrying capacity: extraction ≤ regeneration; waste ≤ absorption
+- Carrying capacity: extraction ≤ regeneration. Waste ≤ absorption.
 - Mining, urbanization, intensive agriculture = major degradation drivers
 
 ### PYQs — Environmental Degradation
 
-1. **(UPPCS Prelims 2025, Q23)** Carrying capacity — waste within absorption capacity = correct; extraction above regeneration = wrong.
-   → **B (Only 2)** — degradation occurs when carrying capacity is violated.
+1. **(UPPCS Prelims 2025, Q23)** Carrying capacity. Waste within absorption capacity = correct. Extraction above regeneration = wrong.
+   → **B (Only 2)**. Degradation occurs when carrying capacity is violated.
 
-2. **(UPSC 2016 — pattern)** Which is NOT a cause of land degradation in India? (a) Soil erosion (b) Salinization (c) Afforestation (d) Mining
-   → **(c) Afforestation** — afforestation *reverses* degradation; others cause it.
+2. **(UPSC 2016 pattern)** Which is NOT a cause of land degradation in India? (a) Soil erosion (b) Salinization (c) Afforestation (d) Mining.
+   → **(c) Afforestation**. Afforestation *reverses* degradation. Others cause it.
 
 ### Examples (9.2)
 
@@ -295,18 +295,18 @@ CARRYING CAPACITY (2025 Q23):
 
 ### Air Pollution — How It Works
 
-- **Criteria pollutants** (CPCB/WHO monitored): **PM2.5** (≤2.5 μm), **PM10** (≤10 μm), **SO₂**, **NOx**, **CO**, **O₃**, **Pb**, **NH₃** — each has NAAQS (National Ambient Air Quality Standards).
-- **PM2.5** penetrates deepest into lungs (alveoli), enters bloodstream — causes asthma, COPD, cardiovascular disease, premature death; major source = combustion, dust, crop burning.
-- **PM10** includes coarser particles — trapped in upper respiratory tract but still harmful; construction dust, road dust major contributors.
-- **SO₂** from coal/oil combustion causes respiratory illness, acid rain, and damages building materials; **lichens** are sensitive bio-indicators — die in high SO₂ (UPPCS 2025 Q61: lichens indicate pollution, do NOT grow well in polluted areas).
-- **NOx** (NO + NO₂) from vehicles and power plants → respiratory irritation + precursor to **photochemical smog** and **O₃** formation.
-- **CO** (carbon monoxide) from incomplete combustion binds haemoglobin 200× stronger than O₂ — causes oxygen deprivation; dangerous in enclosed spaces.
-- **Ground-level O₃** is a **secondary pollutant** — formed when NOx + VOCs react in sunlight; beneficial in stratosphere (ozone layer) but toxic at ground level.
+- **Criteria pollutants** (CPCB/WHO monitored): **PM2.5** (≤2.5 μm), **PM10** (≤10 μm), **SO₂**, **NOx**, **CO**, **O₃**, **Pb**, **NH₃**. Each has NAAQS (National Ambient Air Quality Standards).
+- **PM2.5** penetrates deepest into lungs (alveoli) and enters the bloodstream, causing asthma, COPD, cardiovascular disease, and premature death, with major sources being combustion, dust, and crop burning.
+- **PM10** includes coarser particles trapped in the upper respiratory tract but still harmful, with construction dust and road dust as major contributors.
+- **SO₂** from coal/oil combustion causes respiratory illness, acid rain, and damages building materials, and **lichens** are sensitive bio-indicators that die in high SO₂ (UPPCS 2025 Q61: lichens indicate pollution, do NOT grow well in polluted areas).
+- **NOx** (NO + NO₂) from vehicles and power plants causes respiratory irritation and acts as a precursor to **photochemical smog** and **O₃** formation.
+- **CO** (carbon monoxide) from incomplete combustion binds haemoglobin 200× stronger than O₂, causing oxygen deprivation that is especially dangerous in enclosed spaces.
+- **Ground-level O₃** is a **secondary pollutant** formed when NOx and VOCs react in sunlight, and it is beneficial in the stratosphere (ozone layer) but toxic at ground level.
 - **Smog types**: **London/classical smog** (SO₂ + smoke + fog, reducing atmosphere, winter) vs **Los Angeles/photochemical smog** (NOx + O₃ + PAN, oxidizing, sunny climates).
-- **AQI (Air Quality Index)** — CPCB scale 0–500: 0–50 Good, 51–100 Satisfactory, 101–200 Moderate, 201–300 Poor, 301–400 Very Poor, 401–500 Severe; 500+ Severe+.
-- **NCAP (National Clean Air Programme) 2019** — targets **122 non-attainment cities**; goal to reduce PM10/PM2.5 by **20–30% by 2024** (extended); city-specific action plans; UP cities include **Lucknow, Kanpur, Ghaziabad, Agra, Varanasi, Meerut, Noida, Prayagraj, Moradabad, Bareilly**.
-- **Vehicular emissions** = ~40% urban air pollution in India; **BS-VI** fuel standards (2020 nationwide) reduce sulphur and particulate emissions.
-- **Indoor air pollution** — second-hand smoke, LPG/biomass cooking (PM2.5), asbestos — kills more women in rural India than outdoor pollution.
+- **AQI (Air Quality Index)**. CPCB scale 0–500: 0–50 Good, 51–100 Satisfactory, 101–200 Moderate, 201–300 Poor, 301–400 Very Poor, 401–500 Severe. 500+ Severe+.
+- **NCAP (National Clean Air Programme) 2019** targets **122 non-attainment cities** with a goal to reduce PM10/PM2.5 by **20–30% by 2024** (extended), and UP cities include **Lucknow, Kanpur, Ghaziabad, Agra, Varanasi, Meerut, Noida, Prayagraj, Moradabad, Bareilly**.
+- **Vehicular emissions** = ~40% urban air pollution in India. **BS-VI** fuel standards (2020 nationwide) reduce sulphur and particulate emissions.
+- **Indoor air pollution** from second-hand smoke, LPG/biomass cooking (PM2.5), and asbestos kills more women in rural India than outdoor pollution.
 
 > **Exam note:** Lichens grow poorly in polluted areas (2025 Q61 stmt 2 = FALSE). Ground-level O₃ is harmful; stratospheric O₃ is protective — do not confuse.
 
@@ -323,11 +323,11 @@ CARRYING CAPACITY (2025 Q23):
 
 ### Exam Facts (raata)
 
-- PM2.5 ≤2.5 μm — most dangerous particulate
-- London smog = SO₂-based; LA smog = photochemical (O₃)
-- AQI 0–50 Good; 401–500 Severe
-- NCAP 2019 — 122 cities; 20–30% PM reduction
-- Lichens = SO₂ pollution bio-indicators — sensitive, die in polluted air
+- PM2.5 ≤2.5 μm. Most dangerous particulate.
+- London smog = SO₂-based. LA smog = photochemical (O₃).
+- AQI 0–50 Good. 401–500 Severe.
+- NCAP 2019. 122 cities. 20–30% PM reduction.
+- Lichens = SO₂ pollution bio-indicators, including sensitive, die in polluted air.
 - BS-VI from April 2020 nationwide
 - Air Act **1981** | CPCB sets NAAQS
 
@@ -336,10 +336,10 @@ CARRYING CAPACITY (2025 Q23):
 1. **(UPPCS Prelims 2025, Q61)** With reference to lichens, which of the following statements is/are correct?
    1. Lichens are very good indicators of pollution.
    2. Lichens grow well in polluted areas.
-   → **D (Only 1)** — Stmt 1 true (especially SO₂ sensitive). Stmt 2 false — lichens **decline** in polluted air.
+   → **D (Only 1)**. Stmt 1 true (especially SO₂ sensitive). Stmt 2 false. Lichens **decline** in polluted air.
 
-2. **(UPSC 2017 — pattern)** Photochemical smog is mainly composed of: (a) SO₂ and smoke (b) O₃ and PAN (c) CO₂ only (d) CH₄
-   → **(b) O₃ and PAN** — LA-type smog in oxidizing atmosphere.
+2. **(UPSC 2017 pattern)** Photochemical smog is mainly composed of: (a) SO₂ and smoke (b) O₃ and PAN (c) CO₂ only (d) CH₄.
+   → **(b) O₃ and PAN**. LA-type smog in oxidizing atmosphere.
 
 ### Examples (9.3)
 
@@ -363,18 +363,18 @@ CARRYING CAPACITY (2025 Q23):
 
 ### Water Pollution — How It Works
 
-- **BOD (Biochemical Oxygen Demand)** — milligrams of O₂ consumed by microorganisms decomposing organic matter in 5 days at 20°C; **higher BOD = more organic pollution**; clean river BOD <3 mg/L; raw sewage BOD 200–600 mg/L.
-- **COD (Chemical Oxygen Demand)** — total chemically oxidizable matter including non-biodegradable organics; always ≥ BOD; industrial effluent may have high COD but moderate BOD.
-- **DO (Dissolved Oxygen)** — oxygen available to fish/aquatic life; healthy river DO >6 mg/L; fish stressed below 5 mg/L; **thermal pollution** and **eutrophication** both crash DO.
-- **pH** — natural river pH 6.5–8.5; acid mine drainage can drop pH below 4; industrial alkaline waste raises pH.
-- **Coliform bacteria** (faecal coliform/E. coli) — indicator of **pathogenic contamination** from sewage; drinking water should have zero faecal coliform.
-- **Eutrophication** mechanism: excess **nitrogen + phosphorus** (detergents, fertilizers, sewage) → algal bloom → algae die → bacterial decomposition → **DO collapse** → fish kill → dead zone.
-- **Heavy metals** (Hg, Pb, Cd, Cr) from industry accumulate in sediments and biomagnify in food chain — Kanpur tanneries discharge **chromium** into Ganga.
-- **Sources**: **domestic sewage** (~70% of urban pollution load), **industrial effluent** (textile, tannery, paper, pharma), **agricultural runoff** (fertilizers, pesticides — non-point), **religious/social dumping** (Ganga ghats).
-- **Ganga pollution**: Kanpur–Varanasi stretch worst; **Namami Gange** (2014) — STP construction, river surface cleaning, biodiversity conservation; **National Mission for Clean Ganga (NMCG)** nodal agency.
-- **Gomti River** flows through **Lucknow** (not Kanpur) — municipal sewage major polluter; **Yamuna** polluted in Mathura–Agra–Delhi stretch.
-- **Groundwater pollution**: arsenic (Ganga-Brahmaputra basin), fluoride (Rajasthan/UP), nitrate (agricultural); **Annual Groundwater Quality Report** prepared by **CGWB** (Central Ground Water Board), **NOT CPCB** (UPPCS 2025 Q70 trap).
-- **STP (Sewage Treatment Plant)** treats domestic sewage; **CETP (Common Effluent Treatment Plant)** treats combined industrial effluent — required before discharge under Water Act.
+- **BOD (Biochemical Oxygen Demand)**. Milligrams of O₂ consumed by microorganisms decomposing organic matter in 5 days at 20°C. **higher BOD = more organic pollution**. Clean river BOD <3 mg/L. Raw sewage BOD 200–600 mg/L.
+- **COD (Chemical Oxygen Demand)**. Total chemically oxidizable matter including non-biodegradable organics. Always ≥ BOD. Industrial effluent may have high COD but moderate BOD.
+- **DO (Dissolved Oxygen)**. Oxygen available to fish/aquatic life. Healthy river DO >6 mg/L. Fish stressed below 5 mg/L. **thermal pollution** and **eutrophication** both crash DO.
+- **pH**. Natural river pH 6.5–8.5. Acid mine drainage can drop pH below 4, and industrial alkaline waste raises pH.
+- **Coliform bacteria** (faecal coliform/E. coli). Indicator of **pathogenic contamination** from sewage. Drinking water should have zero faecal coliform.
+- **Eutrophication** mechanism: excess **nitrogen + phosphorus** (detergents, fertilizers, sewage), which leads to algal bloom, then algae die, then bacterial decomposition, then **DO collapse**, then fish kill, then dead zone.
+- **Heavy metals** (Hg, Pb, Cd, Cr) from industry accumulate in sediments and biomagnify in food chain. Kanpur tanneries discharge **chromium** into Ganga.
+- **Sources**: **domestic sewage** (~70% of urban pollution load), **industrial effluent** (textile, tannery, paper, pharma), **agricultural runoff** (fertilizers, pesticides. Non-point), **religious/social dumping** (Ganga ghats).
+- **Ganga pollution**: Kanpur–Varanasi stretch worst. **Namami Gange** (2014). STP construction, river surface cleaning, biodiversity conservation. **National Mission for Clean Ganga (NMCG)** nodal agency.
+- **Gomti River** flows through **Lucknow** (not Kanpur). Municipal sewage major polluter. **Yamuna** polluted in Mathura–Agra–Delhi stretch.
+- **Groundwater pollution**: arsenic (Ganga-Brahmaputra basin), fluoride (Rajasthan/UP), nitrate (agricultural). **Annual Groundwater Quality Report** prepared by **CGWB** (Central Ground Water Board), **NOT CPCB** (UPPCS 2025 Q70 trap).
+- **STP (Sewage Treatment Plant)** treats domestic sewage. **CETP (Common Effluent Treatment Plant)** treats combined industrial effluent. Required before discharge under Water Act.
 
 > **Exam note:** CGWB publishes groundwater quality report — NOT CPCB (2025 Q70). BOD measures **organic** pollution only — not heavy metals or radioactive waste.
 
@@ -389,13 +389,13 @@ CARRYING CAPACITY (2025 Q23):
 
 ### Exam Facts (raata)
 
-- BOD = organic pollution index; higher = worse
+- BOD = organic pollution index. Higher = worse.
 - COD ≥ BOD always
-- DO <5 mg/L stresses fish; thermal/eutrophication lower DO
-- Eutrophication: N/P → algae → DO crash
-- CGWB = groundwater quality report (2025 Q70) — NOT CPCB
-- Namami Gange 2014; NMCG nodal
-- Gomti = Lucknow; Kanpur = Ganga tannery stretch
+- DO <5 mg/L stresses fish. Thermal/eutrophication lower DO.
+- Eutrophication: N/P, which leads to algae, then DO crash.
+- CGWB = groundwater quality report (2025 Q70). NOT CPCB.
+- Namami Gange 2014. NMCG nodal.
+- Gomti = Lucknow. Kanpur = Ganga tannery stretch.
 - Water Act **1974**
 
 ### PYQs — Water Pollution
@@ -404,10 +404,10 @@ CARRYING CAPACITY (2025 Q23):
    1. Central Pollution Control Board
    2. Central Water Commission
    3. Central Ground Water Board
-   → **B (Only 3)** — CGWB under Ministry of Jal Shakti assesses groundwater quality. CPCB monitors surface water/ambient air, not groundwater reports.
+   → **B (Only 3)**. CGWB under Ministry of Jal Shakti assesses groundwater quality. CPCB monitors surface water/ambient air, not groundwater reports.
 
-2. **(UPSC 2013 — pattern)** High BOD in river water indicates: (a) High dissolved oxygen (b) High organic pollution (c) Low microbial activity (d) Absence of sewage
-   → **(b) High organic pollution** — microbes consume O₂ decomposing organics.
+2. **(UPSC 2013 pattern)** High BOD in river water indicates: (a) High dissolved oxygen (b) High organic pollution (c) Low microbial activity (d) Absence of sewage.
+   → **(b) High organic pollution**. Microbes consume O₂ decomposing organics.
 
 ### Examples (9.4)
 
@@ -431,16 +431,16 @@ CARRYING CAPACITY (2025 Q23):
 
 ### Soil Pollution — How It Works
 
-- **Soil pollution** reduces fertility, contaminates food chain, and can leach into groundwater — slow, cumulative, and hard to remediate.
-- **Pesticides** (organochlorines like DDT, organophosphates) persist in soil for years — biomagnify in food chain; **Integrated Pest Management (IPM)** reduces dependency.
-- **Heavy metals** (Cd, Pb, Hg, Cr, As) from industrial discharge, mining, and sewage sludge accumulate in topsoil — **cadmium** from phosphate fertilizers; **chromium** from UP tanneries.
-- **Industrial solid waste** dumped on land leaches toxins into soil and groundwater — abandoned sites become **brownfields**.
-- **Acid rain** (SO₂/NOx → H₂SO₄/HNO₃) acidifies soil, releases toxic aluminium, damages root systems.
+- **Soil pollution** reduces fertility, contaminates food chain, and can leach into groundwater, including slow, cumulative, and hard to remediate.
+- **Pesticides** (organochlorines like DDT, organophosphates) persist in soil for years. Biomagnify in food chain. **Integrated Pest Management (IPM)** reduces dependency.
+- **Heavy metals** (Cd, Pb, Hg, Cr, As) from industrial discharge, mining, and sewage sludge accumulate in topsoil. **cadmium** from phosphate fertilizers. **chromium** from UP tanneries.
+- **Industrial solid waste** dumped on land leaches toxins into soil and groundwater. Abandoned sites become **brownfields**.
+- **Acid rain** (SO₂/NOx, which leads to H₂SO₄/HNO₃) acidifies soil, releases toxic aluminium, damages root systems.
 - **Plastic mulch and microplastics** in agricultural soil alter water retention and microbial communities.
 - **Sewage sludge** used as fertilizer can transfer heavy metals and pathogens to soil if untreated.
 - **Radioactive fallout** (nuclear accidents, weapons testing) contaminates soil for decades based on isotope half-life.
-- **Salinization** from excessive irrigation (not strictly pollution but degrades soil) — affects UP western districts.
-- **Remediation**: phytoremediation (plants absorb metals), bioremediation (microbes degrade organics), soil washing, containment — expensive and slow.
+- **Salinization** from excessive irrigation (not strictly pollution but degrades soil). Affects UP western districts.
+- **Remediation**: phytoremediation (plants absorb metals), bioremediation (microbes degrade organics), soil washing, containment. Expensive and slow.
 
 > **Exam note:** Soil pollution ≠ soil erosion alone. Erosion is physical degradation; chemical contamination = soil pollution.
 
@@ -456,7 +456,7 @@ CARRYING CAPACITY (2025 Q23):
 
 ### Exam Facts (raata)
 
-- Pesticides persist and biomagnify — DDT classic example
+- Pesticides persist and biomagnify. DDT classic example.
 - Heavy metals from tanneries (Cr), mining, sludge
 - Acid rain acidifies soil releasing toxic Al
 - Phytoremediation = plants absorb contaminants
@@ -465,11 +465,11 @@ CARRYING CAPACITY (2025 Q23):
 
 ### PYQs — Soil Pollution
 
-1. **(UPSC 2019 — pattern)** Which heavy metal in soil is associated with tannery waste? (a) Mercury (b) Chromium (c) Arsenic (d) Lead
-   → **(b) Chromium** — hexavalent Cr from leather tanning; Kanpur classic example.
+1. **(UPSC 2019 pattern)** Which heavy metal in soil is associated with tannery waste? (a) Mercury (b) Chromium (c) Arsenic (d) Lead.
+   → **(b) Chromium**. Hexavalent Cr from leather tanning. Kanpur classic example.
 
-2. **(UPSC 2015 — pattern)** DDT residues in soil demonstrate: (a) Biodegradability (b) Persistence and biomagnification (c) Eutrophication (d) Thermal pollution
-   → **(b) Persistence and biomagnification** — organochlorine pesticide lingers for decades.
+2. **(UPSC 2015 pattern)** DDT residues in soil demonstrate: (a) Biodegradability (b) Persistence and biomagnification (c) Eutrophication (d) Thermal pollution.
+   → **(b) Persistence and biomagnification**. Organochlorine pesticide lingers for decades.
 
 ### Examples (9.5)
 
@@ -493,15 +493,15 @@ CARRYING CAPACITY (2025 Q23):
 
 ### Noise Pollution — How It Works
 
-- **Decibel (dB)** is a **logarithmic scale** — every 10 dB increase = 10× intensity; 60 dB is 10× louder than 50 dB, not just "10 more."
+- **Decibel (dB)** is a **logarithmic scale**. Every 10 dB increase = 10× intensity. 60 dB is 10× louder than 50 dB, not just "10 more.".
 - **CPCB ambient noise standards** (day/night): **Industrial zone** 75/70 dB | **Commercial** 65/55 dB | **Residential** 55/45 dB | **Silence zone** (hospitals, schools) 50/40 dB.
-- **Day** = 6 AM–10 PM; **Night** = 10 PM–6 AM — night limits are stricter because sleep disruption has greater health impact.
-- **Sources**: road traffic (horns, engines), aircraft, railways, construction, industrial machinery, loudspeakers (festivals — major UP issue), firecrackers (Diwali spike).
+- **Day** = 6 AM–10 PM. **Night** = 10 PM–6 AM. Night limits are stricter because sleep disruption has greater health impact.
+- **Sources**: road traffic (horns, engines), aircraft, railways, construction, industrial machinery, loudspeakers (festivals, including major up issue), firecrackers (diwali spike).
 - **Health effects**: temporary threshold shift (temporary deafness), permanent **Noise-Induced Hearing Loss (NIHL)**, hypertension, sleep disturbance, stress, reduced productivity.
-- **WHO** recommends <70 dB annual average exposure; prolonged exposure above 85 dB causes permanent hearing damage.
-- **Silence zones** within 100 m of hospitals, educational institutions, courts — strictest limits; violations attract penalties under Noise Rules.
-- **Construction noise** regulated through time restrictions; **no loudspeaker** use 10 PM–6 AM and 2 hours afternoon in residential areas (Rules).
-- **Wildlife impact**: noise disrupts bird communication, breeding, and migration — highway noise reduces forest bird diversity.
+- **WHO** recommends <70 dB annual average exposure. Prolonged exposure above 85 dB causes permanent hearing damage.
+- **Silence zones** within 100 m of hospitals, educational institutions, courts. Strictest limits. Violations attract penalties under Noise Rules.
+- **Construction noise** regulated through time restrictions. **no loudspeaker** use 10 PM–6 AM and 2 hours afternoon in residential areas (Rules).
+- **Wildlife impact**: noise disrupts bird communication, breeding, and migration. Highway noise reduces forest bird diversity.
 - **Mitigation**: noise barriers, green belts, mufflers, zoning (industries away from residential), public awareness.
 
 > **Exam note:** dB is logarithmic — 70 dB is NOT twice as loud as 35 dB. Silence zone night limit = **40 dB**, not 55 dB.
@@ -526,11 +526,11 @@ CARRYING CAPACITY (2025 Q23):
 
 ### PYQs — Noise Pollution
 
-1. **(UPPCS 2018 — pattern)** Ambient noise standard for residential area at night is: (a) 40 dB (b) 45 dB (c) 55 dB (d) 65 dB
-   → **(b) 45 dB** — 55 dB is daytime residential; 40 dB is silence zone night.
+1. **(UPPCS 2018 pattern)** Ambient noise standard for residential area at night is: (a) 40 dB (b) 45 dB (c) 55 dB (d) 65 dB.
+   → **(b) 45 dB**. 55 dB is daytime residential. 40 dB is silence zone night.
 
-2. **(UPSC 2014 — pattern)** Noise pollution is measured in: (a) Hertz (b) Decibels (c) Pascals only (d) Lux
-   → **(b) Decibels** — dB(A) weighted for human hearing.
+2. **(UPSC 2014 pattern)** Noise pollution is measured in: (a) Hertz (b) Decibels (c) Pascals only (d) Lux.
+   → **(b) Decibels**. DB(A) weighted for human hearing.
 
 ### Examples (9.6)
 
@@ -554,16 +554,16 @@ CARRYING CAPACITY (2025 Q23):
 
 ### Radioactive Pollution — How It Works
 
-- **Ionizing radiation** (alpha, beta, gamma, neutrons) has enough energy to ionize atoms — damages DNA, causes mutations and cancer.
-- **Radioactivity measured in Becquerel (Bq)** — 1 disintegration per second; **dose in Sievert (Sv)** or millisievert (mSv) measures biological harm.
-- **Half-life** = time for 50% of radioactive atoms to decay — **Uranium-238** half-life ~4.5 billion years; **Iodine-131** ~8 days; **Strontium-90** ~29 years; **Plutonium-239** ~24,000 years.
+- **Ionizing radiation** (alpha, beta, gamma, neutrons) has enough energy to ionize atoms, including damages dna, causes mutations and cancer.
+- **Radioactivity measured in Becquerel (Bq)**. 1 disintegration per second. **dose in Sievert (Sv)** or millisievert (mSv) measures biological harm.
+- **Half-life** = time for 50% of radioactive atoms to decay. **Uranium-238** half-life ~4.5 billion years. **Iodine-131** ~8 days. **Strontium-90** ~29 years. **Plutonium-239** ~24,000 years.
 - **Natural sources**: cosmic rays, radon gas from uranium decay in soil (major indoor source), potassium-40 in food.
-- **Anthropogenic sources**: nuclear power plants (normal operation low; accidents catastrophic), nuclear weapons testing, medical isotopes (Co-60, Cs-137), uranium mining.
-- **Nuclear accidents**: Chernobyl 1986 (Ukraine), Fukushima 2011 (Japan) — long-term soil/water contamination; **Kudankulam, Tarapur, Kakrapar** are Indian nuclear plants.
-- **Radiation exposure routes**: external (gamma rays penetrate body), internal (inhaling/ingesting radioactive particles — alpha most dangerous internally).
-- **BMW Rules 2016** cover radioactive biomedical waste separately — lead-lined containers, designated disposal.
-- **AERB** (Atomic Energy Regulatory Board) regulates nuclear safety in India under DAE; sets dose limits for workers and public.
-- **Safe disposal**: deep geological repositories for high-level waste; low-level waste can be stored in shielded facilities until decay.
+- **Anthropogenic sources**: nuclear power plants (normal operation low. Accidents catastrophic), nuclear weapons testing, medical isotopes (Co-60, Cs-137), uranium mining.
+- **Nuclear accidents**: Chernobyl 1986 (Ukraine), Fukushima 2011 (Japan). Long-term soil/water contamination. **Kudankulam, Tarapur, Kakrapar** are Indian nuclear plants.
+- **Radiation exposure routes**: external (gamma rays penetrate body), internal (inhaling/ingesting radioactive particles. Alpha most dangerous internally).
+- **BMW Rules 2016** cover radioactive biomedical waste separately, including lead-lined containers, designated disposal.
+- **AERB** (Atomic Energy Regulatory Board) regulates nuclear safety in India under DAE. Sets dose limits for workers and public.
+- **Safe disposal**: deep geological repositories for high-level waste. Low-level waste can be stored in shielded facilities until decay.
 
 > **Exam note:** Alpha particles stopped by paper/skin but **most dangerous if ingested**. Gamma rays penetrate deeply — external hazard. Half-life ≠ safe immediately after one half-life — only 50% decayed.
 
@@ -579,20 +579,20 @@ CARRYING CAPACITY (2025 Q23):
 ### Exam Facts (raata)
 
 - Ionizing radiation damages DNA
-- Bq = activity; Sv = biological dose
+- Bq = activity. Sv = biological dose.
 - Half-life = 50% decay time
 - Radon = major natural indoor source
 - AERB regulates nuclear safety in India
-- Chernobyl 1986, Fukushima 2011 — landmark accidents
-- Alpha dangerous internally; gamma dangerous externally
+- Chernobyl 1986, Fukushima 2011. Landmark accidents.
+- Alpha dangerous internally. Gamma dangerous externally.
 
 ### PYQs — Radioactive Pollution
 
-1. **(UPSC 2018 — pattern)** Which is a radioactive pollutant? (a) CO₂ (b) Strontium-90 (c) O₃ (d) PM2.5
-   → **(b) Strontium-90** — fission product; mimics calcium in bones.
+1. **(UPSC 2018 pattern)** Which is a radioactive pollutant? (a) CO₂ (b) Strontium-90 (c) O₃ (d) PM2.5.
+   → **(b) Strontium-90**. Fission product. Mimics calcium in bones.
 
-2. **(UPSC 2012 — pattern)** Half-life of a radioactive element is: (a) Time for complete decay (b) Time for 50% decay (c) Time for 25% decay (d) Time for 75% decay
-   → **(b) Time for 50% decay** — classic definition.
+2. **(UPSC 2012 pattern)** Half-life of a radioactive element is: (a) Time for complete decay (b) Time for 50% decay (c) Time for 25% decay (d) Time for 75% decay.
+   → **(b) Time for 50% decay**. Classic definition.
 
 ### Examples (9.7)
 
@@ -616,15 +616,15 @@ CARRYING CAPACITY (2025 Q23):
 
 ### Thermal Pollution — How It Works
 
-- **Thermal pollution** primarily affects **aquatic ecosystems** — even 2–3°C rise can be ecologically devastating.
-- **Mechanism**: heated effluent (from power plant condensers, steel mills, refineries) → **reduced dissolved oxygen** (O₂ solubility decreases as temperature rises) → fish and invertebrate stress/death.
-- **Fish** are poikilothermic — metabolic rate rises with temperature, increasing O₂ demand precisely when DO is falling — double stress.
-- **Algal blooms** may increase in warm water — further depleting DO when algae die.
-- **Thermal stratification** — warm surface layer prevents mixing → bottom anoxia (oxygen-free dead zones).
-- **Power plants** are the largest thermal polluters — coal/nuclear plants use water for cooling and discharge at 5–10°C above intake temperature.
-- **Coral reefs** sensitive to temperature — bleaching at sustained +1–2°C; industrial thermal discharge is a local stressor alongside global warming.
-- **Mitigation**: **cooling towers** (evaporative cooling), **cooling ponds**, once-through systems replaced by recirculating systems; **fish ladders** do not solve thermal issue.
-- **Indian regulations**: thermal discharge consent under Water Act — max temperature rise typically 5°C above receiving water body.
+- **Thermal pollution** primarily affects **aquatic ecosystems**. Even 2–3°C rise can be ecologically devastating.
+- **Mechanism**: heated effluent (from power plant condensers, steel mills, refineries), which leads to **reduced dissolved oxygen** (O₂ solubility decreases as temperature rises), then fish and invertebrate stress/death.
+- **Fish** are poikilothermic, such as metabolic rate rises with temperature, increasing o₂ demand precisely when do is falling. Double stress.
+- **Algal blooms** may increase in warm water. Further depleting DO when algae die.
+- **Thermal stratification**. Warm surface layer prevents mixing, which leads to bottom anoxia (oxygen-free dead zones).
+- **Power plants** are the largest thermal polluters. Coal/nuclear plants use water for cooling and discharge at 5–10°C above intake temperature.
+- **Coral reefs** sensitive to temperature. Bleaching at sustained +1–2°C. Industrial thermal discharge is a local stressor alongside global warming.
+- **Mitigation**: **cooling towers** (evaporative cooling), **cooling ponds**, once-through systems replaced by recirculating systems. **fish ladders** do not solve thermal issue.
+- **Indian regulations**: thermal discharge consent under Water Act. Max temperature rise typically 5°C above receiving water body.
 - **Seasonal impact** worse in summer when baseline water temperature already high and DO already lower.
 
 > **Exam note:** A/R trap: "Thermal pollution kills fish because hot water is toxic" — partially true but **primary mechanism is DO reduction**, not direct heat toxicity.
@@ -640,7 +640,7 @@ CARRYING CAPACITY (2025 Q23):
 
 ### Exam Facts (raata)
 
-- Heated effluent → lower DO → fish kill
+- Heated effluent, which leads to lower do, then fish kill.
 - O₂ solubility decreases as water temperature rises
 - Power plants = major thermal pollution source
 - Cooling towers mitigate thermal discharge
@@ -649,11 +649,11 @@ CARRYING CAPACITY (2025 Q23):
 
 ### PYQs — Thermal Pollution
 
-1. **(UPSC 2016 — pattern)** Thermal pollution of water bodies is caused by: (a) Acid rain (b) Discharge of hot water from industries (c) Oil spills (d) Pesticide runoff
-   → **(b) Discharge of hot water** — power plants and industrial cooling.
+1. **(UPSC 2016 pattern)** Thermal pollution of water bodies is caused by: (a) Acid rain (b) Discharge of hot water from industries (c) Oil spills (d) Pesticide runoff.
+   → **(b) Discharge of hot water**. Power plants and industrial cooling.
 
-2. **(UPSC 2011 — pattern)** Dissolved oxygen in warm water is generally: (a) Higher than cold water (b) Lower than cold water (c) Same (d) Zero always
-   → **(b) Lower than cold water** — inverse relationship between temperature and O₂ solubility.
+2. **(UPSC 2011 pattern)** Dissolved oxygen in warm water is generally: (a) Higher than cold water (b) Lower than cold water (c) Same (d) Zero always.
+   → **(b) Lower than cold water**. Inverse relationship between temperature and O₂ solubility.
 
 ### Examples (9.8)
 
@@ -677,16 +677,16 @@ CARRYING CAPACITY (2025 Q23):
 
 ### Marine Pollution — How It Works
 
-- **80% of marine pollution originates on land** — rivers carry sewage, plastics, fertilizers, and industrial waste to sea; coastal cities are primary contributors.
-- **Oil pollution**: tanker spills (Exxon Valdez, Deepwater Horizon), routine ship bilge discharge, offshore drilling — oil slick reduces O₂ transfer, coats feathers/fur, toxic to marine life.
-- **Plastic pollution**: **Great Pacific Garbage Patch**; India among top plastic waste generators; microplastics ingested by fish → human food chain.
-- **Nutrient pollution (eutrophication)**: agricultural runoff → coastal algal blooms → **hypoxic dead zones** (Gulf of Mexico, Arabian Sea seasonal hypoxia).
-- **Heavy metals** (Hg, Pb, Cd) from industrial discharge biomagnify in marine food chains — **Minamata disease** (mercury) classic case.
-- **Sewage** introduces pathogens and nutrients — closed bays and estuaries most vulnerable.
-- **Coral bleaching**: UPPCS 2024 Q19 — catastrophic bleaching in Andaman-Nicobar linked to temperature rise + **marine pollution** (industrial coastal activity, heavy pollution stress corals).
-- **MARPOL Annexes**: I (oil), II (chemicals), III (packaged goods), IV (sewage), V (garbage/plastic — no plastic discharge), VI (air emissions from ships).
-- **Ballast water** from ships transfers invasive species across oceans — disrupts local marine ecosystems.
-- **India's coast**: 7,500 km coastline; major ports Mumbai, Chennai, Visakhapatnam, Kochi; **Indian Coast Guard** responds to oil spills under NOSDCP (National Oil Spill Disaster Contingency Plan).
+- **80% of marine pollution originates on land**. Rivers carry sewage, plastics, fertilizers, and industrial waste to sea. Coastal cities are primary contributors.
+- **Oil pollution**: tanker spills (Exxon Valdez, Deepwater Horizon), routine ship bilge discharge, offshore drilling. Oil slick reduces O₂ transfer, coats feathers/fur, toxic to marine life.
+- **Plastic pollution**: **Great Pacific Garbage Patch**. India among top plastic waste generators. Microplastics ingested by fish, which leads to human food chain.
+- **Nutrient pollution (eutrophication)**: agricultural runoff, which leads to coastal algal blooms, then **hypoxic dead zones** (Gulf of Mexico, Arabian Sea seasonal hypoxia).
+- **Heavy metals** (Hg, Pb, Cd) from industrial discharge biomagnify in marine food chains. **Minamata disease** (mercury) classic case.
+- **Sewage** introduces pathogens and nutrients. Closed bays and estuaries most vulnerable.
+- **Coral bleaching**: UPPCS 2024 Q19. Catastrophic bleaching in Andaman-Nicobar linked to temperature rise + **marine pollution** (industrial coastal activity, heavy pollution stress corals).
+- **MARPOL Annexes**: I (oil), II (chemicals), III (packaged goods), IV (sewage), V (garbage/plastic. No plastic discharge), VI (air emissions from ships).
+- **Ballast water** from ships transfers invasive species across oceans. Disrupts local marine ecosystems.
+- **India's coast**: 7,500 km coastline. Major ports Mumbai, Chennai, Visakhapatnam, Kochi. **Indian Coast Guard** responds to oil spills under NOSDCP (National Oil Spill Disaster Contingency Plan).
 
 > **Exam note:** 2024 Q19 — coral bleaching in Andaman caused by temperature rise + pollution, NOT temperature decrease. "All marine pollution from ships" = FALSE — 80% land-based.
 
@@ -702,7 +702,7 @@ CARRYING CAPACITY (2025 Q23):
 ### Exam Facts (raata)
 
 - 80% marine pollution from **land-based** sources
-- MARPOL 73/78 — international ship pollution convention
+- MARPOL 73/78. International ship pollution convention.
 - Oil slick reduces oxygen exchange + coats wildlife
 - Plastic gyres in Pacific/Indian Ocean
 - Coral bleaching = temperature + pollution stress (2024 Q19)
@@ -712,10 +712,10 @@ CARRYING CAPACITY (2025 Q23):
 ### PYQs — Marine Pollution
 
 1. **(UPPCS Prelims 2024, Q19)** Which of the following reasons caused catastrophic coral bleaching and mass coral deaths in the Andaman and Nicobar Islands?
-   → **B. Increase of 2°C temperature in the Indian Ocean** — warming primary trigger; pollution (option C) is contributing stressor. NOT temperature decrease (option D).
+   → **B. Increase of 2°C temperature in the Indian Ocean**. Warming primary trigger. Pollution (option C) is contributing stressor. NOT temperature decrease (option D).
 
-2. **(UPSC 2019 — pattern)** MARPOL Convention deals with: (a) Wildlife trade (b) Marine pollution from ships (c) Ozone depletion (d) Desertification
-   → **(b) Marine pollution from ships** — International Maritime Organization (IMO) convention.
+2. **(UPSC 2019 pattern)** MARPOL Convention deals with: (a) Wildlife trade (b) Marine pollution from ships (c) Ozone depletion (d) Desertification.
+   → **(b) Marine pollution from ships**. International Maritime Organization (IMO) convention.
 
 ### Examples (9.9)
 
@@ -739,16 +739,16 @@ CARRYING CAPACITY (2025 Q23):
 
 ### Plastic Pollution — How It Works
 
-- **Plastic persistence** — polyethylene, polypropylene, PET take **100–1000 years** to degrade; photodegrade into microplastics, never fully biodegrade.
-- **Microplastics** (<5 mm) from fragmentation, microbeads (cosmetics), synthetic textile fibres — ingested by plankton, fish, and humans; found in blood, lungs, placenta.
+- **Plastic persistence**. Polyethylene, polypropylene, PET take **100–1000 years** to degrade. Photodegrade into microplastics, never fully biodegrade.
+- **Microplastics** (<5 mm) from fragmentation, microbeads (cosmetics), synthetic textile fibres. Ingested by plankton, fish, and humans. Found in blood, lungs, placenta.
 - **Macroplastics** choke wildlife (turtles mistake bags for jellyfish), entangle marine mammals, block drains causing urban flooding (Mumbai, Chennai monsoon floods).
-- **Ganga** carries significant plastic waste — religious offerings in plastic bags, inadequate solid waste collection on ghats.
-- **PWM Rules 2016** (Plastic Waste Management): segregation, recycling, EPR on producers/importers/brand owners; phasing out non-recyclable multi-layered plastic.
-- **SUP (Single-Use Plastic) ban** — MoEFCC notification **July 2022** banned 19 identified SUP items: cutlery, straws, stirrers, earbuds with plastic sticks, plastic flags, candy sticks, wrapping films <50 micron, polystyrene decoration items.
-- **EPR (Extended Producer Responsibility)** — manufacturers must collect back equivalent plastic waste they produce; registered on CPCB portal.
-- **India** = **3rd largest plastic waste generator** globally (after USA and China); recycles ~60% (mostly informal sector) but much ends up in landfills/water bodies.
-- **Alternatives**: cloth/jute bags, biodegradable polymers (must meet ISO standards — not all "biodegradable" claims are genuine), steel/glass containers.
-- **Ocean impact**: 8–12 million tonnes plastic enters oceans annually; **ingestion, entanglement, toxic additive leaching** (BPA, phthalates).
+- **Ganga** carries significant plastic waste. Religious offerings in plastic bags, inadequate solid waste collection on ghats.
+- **PWM Rules 2016** (Plastic Waste Management): segregation, recycling, EPR on producers/importers/brand owners. Phasing out non-recyclable multi-layered plastic.
+- **SUP (Single-Use Plastic) ban**. MoEFCC notification **July 2022** banned 19 identified SUP items: cutlery, straws, stirrers, earbuds with plastic sticks, plastic flags, candy sticks, wrapping films <50 micron, polystyrene decoration items.
+- **EPR (Extended Producer Responsibility)**. Manufacturers must collect back equivalent plastic waste they produce. Registered on CPCB portal.
+- **India** = **3rd largest plastic waste generator** globally (after USA and China). Recycles ~60% (mostly informal sector) but much ends up in landfills/water bodies.
+- **Alternatives**: cloth/jute bags, biodegradable polymers (must meet ISO standards. Not all "biodegradable" claims are genuine), steel/glass containers.
+- **Ocean impact**: 8–12 million tonnes plastic enters oceans annually. **ingestion, entanglement, toxic additive leaching** (BPA, phthalates).
 
 > **Exam note:** SUP ban = **2022**, not 2016 (2016 is PWM Rules). "Biodegradable plastic needs no regulation" = FALSE — must meet composting standards.
 
@@ -763,8 +763,8 @@ CARRYING CAPACITY (2025 Q23):
 
 ### Exam Facts (raata)
 
-- Microplastics <5 mm — enter food chain
-- PWM Rules **2016**; SUP ban notification **2022**
+- Microplastics <5 mm. Enter food chain.
+- PWM Rules **2016**. SUP ban notification **2022**.
 - EPR on producers/brand owners
 - India = 3rd largest plastic waste generator
 - Ganga ghats = major plastic pollution source
@@ -773,11 +773,11 @@ CARRYING CAPACITY (2025 Q23):
 
 ### PYQs — Plastic Pollution
 
-1. **(UPSC 2020 — pattern)** Extended Producer Responsibility (EPR) in plastic waste management means: (a) Government collects all plastic (b) Producers responsible for end-of-life collection/disposal (c) Consumers banned from using plastic (d) States export waste
-   → **(b) Producers responsible for end-of-life collection** — core EPR principle under PWM Rules.
+1. **(UPSC 2020 pattern)** Extended Producer Responsibility (EPR) in plastic waste management means: (a) Government collects all plastic (b) Producers responsible for end-of-life collection/disposal (c) Consumers banned from using plastic (d) States export waste.
+   → **(b) Producers responsible for end-of-life collection**. Core EPR principle under PWM Rules.
 
-2. **(UPSC 2018 — pattern)** Which is a microplastic source? (a) Volcanic ash (b) Fragmentation of plastic bags (c) Soil erosion (d) Acid rain
-   → **(b) Fragmentation of plastic bags** — photodegradation into <5 mm particles.
+2. **(UPSC 2018 pattern)** Which is a microplastic source? (a) Volcanic ash (b) Fragmentation of plastic bags (c) Soil erosion (d) Acid rain.
+   → **(b) Fragmentation of plastic bags**. Photodegradation into <5 mm particles.
 
 ### Examples (9.10)
 
@@ -801,17 +801,17 @@ CARRYING CAPACITY (2025 Q23):
 
 ### Solid Waste Management — How It Works
 
-- **Solid waste** includes municipal waste (household garbage), commercial waste, construction debris, horticultural waste, and street sweepings — excludes biomedical, hazardous, and e-waste (separate rules).
-- **3R hierarchy**: **Reduce** (source minimization — most preferred) > **Reuse** (second-hand, refillable) > **Recycle** (material recovery) > **Recovery** (energy from waste) > **Disposal** (landfill — least preferred).
-- **Segregation at source** is mandatory under SWM Rules 2016 — wet (biodegradable), dry (recyclable), domestic hazardous (batteries, CFL) into separate bins; no mixing allowed.
-- **Wet waste treatment**: composting (aerobic — kitchen waste to manure), biomethanation (anaerobic digestion → biogas), vermicomposting (earthworms).
-- **Dry waste**: sent to material recovery facilities (MRF) — paper, plastic, metal, glass sorted and recycled.
-- **Sanitary waste** (napkins, diapers): wrapped in pouches provided by manufacturers; handed to waste collectors separately.
-- **Landfill standards**: only rejects/inert waste after treatment; lined landfills to prevent leachate contamination; methane capture from old dumps.
-- **Swachh Bharat Mission (SBM) 2014** — urban (SBM-U) and rural (SBM-G); aimed at Open Defecation Free (ODF) status + solid waste management; **2nd phase SBM 2.0 (2021–2026)** focuses on garbage-free cities.
-- **Waste-to-Energy (WTE)**: incineration of non-recyclable combustible waste to generate electricity — controversial due to emissions; OK for dry non-recyclable fraction only.
-- **UP context**: major cities (Lucknow, Kanpur, Ghaziabad) struggle with landfill saturation (Ghazipur landfill Delhi-NCR); rural waste mostly organic — composting potential high.
-- **Extended Producer Responsibility (EPR)** under PWM Rules applies to plastic and e-waste packaging — producers fund collection infrastructure.
+- **Solid waste** includes municipal waste (household garbage), commercial waste, construction debris, horticultural waste, and street sweepings. Excludes biomedical, hazardous, and e-waste (separate rules).
+- **3R hierarchy**: **Reduce** (source minimization, such as most preferred) > **reuse** (second-hand, refillable) > **recycle** (material recovery) > **recovery** (energy from waste) > **disposal** (landfill. Least preferred).
+- **Segregation at source** is mandatory under SWM Rules 2016. Wet (biodegradable), dry (recyclable), domestic hazardous (batteries, CFL) into separate bins. No mixing allowed.
+- **Wet waste treatment**: composting (aerobic. Kitchen waste to manure), biomethanation (anaerobic digestion, which leads to biogas), vermicomposting (earthworms).
+- **Dry waste**: sent to material recovery facilities (MRF), including paper, plastic, metal, glass sorted and recycled.
+- **Sanitary waste** (napkins, diapers): wrapped in pouches provided by manufacturers. Handed to waste collectors separately.
+- **Landfill standards**: only rejects/inert waste after treatment. Lined landfills to prevent leachate contamination. Methane capture from old dumps.
+- **Swachh Bharat Mission (SBM) 2014**. Urban (SBM-U) and rural (SBM-G). Aimed at Open Defecation Free (ODF) status + solid waste management. **2nd phase SBM 2.0 (2021–2026)** focuses on garbage-free cities.
+- **Waste-to-Energy (WTE)**: incineration of non-recyclable combustible waste to generate electricity. Controversial due to emissions. OK for dry non-recyclable fraction only.
+- **UP context**: major cities (Lucknow, Kanpur, Ghaziabad) struggle with landfill saturation (Ghazipur landfill Delhi-NCR). Rural waste mostly organic. Composting potential high.
+- **Extended Producer Responsibility (EPR)** under PWM Rules applies to plastic and e-waste packaging. Producers fund collection infrastructure.
 
 > **Exam note:** SWM Rules = **2016**, not 2000. Segregation at source is **mandatory** — not optional. Landfill is last resort, not first.
 
@@ -828,20 +828,20 @@ CARRYING CAPACITY (2025 Q23):
 ### Exam Facts (raata)
 
 - 3R hierarchy: Reduce > Reuse > Recycle > Disposal
-- SWM Rules **2016** — segregation at source mandatory
-- Wet/dry/domestic hazardous — 3-bin system
-- Swachh Bharat **2014**; SBM 2.0 (2021–2026) garbage-free cities
-- Composting for wet; MRF for dry waste
+- SWM Rules **2016**. Segregation at source mandatory.
+- Wet/dry/domestic hazardous. 3-bin system.
+- Swachh Bharat **2014**. SBM 2.0 (2021–2026) garbage-free cities.
+- Composting for wet. MRF for dry waste.
 - Landfill only for inert rejects after treatment
 - WTE for non-recyclable combustible fraction
 
 ### PYQs — Solid Waste Management
 
-1. **(UPPCS 2024 — pattern, schemes chronology)** Swachh Bharat Mission launched: (a) 2012 (b) 2014 (c) 2016 (d) 2019
-   → **(b) 2014** — October 2, Gandhi Jayanti launch by PM.
+1. **(UPPCS 2024. Pattern, schemes chronology)** Swachh Bharat Mission launched: (a) 2012 (b) 2014 (c) 2016 (d) 2019.
+   → **(b) 2014**, including october 2, gandhi jayanti launch by pm.
 
-2. **(UPSC 2019 — pattern)** Which is the correct hierarchy of waste management? (a) Recycle-Reuse-Reduce (b) Reduce-Reuse-Recycle (c) Dispose-Recycle-Reduce (d) Burn-Bury-Recycle
-   → **(b) Reduce-Reuse-Recycle** — standard 3R priority order.
+2. **(UPSC 2019 pattern)** Which is the correct hierarchy of waste management? (a) Recycle-Reuse-Reduce (b) Reduce-Reuse-Recycle (c) Dispose-Recycle-Reduce (d) Burn-Bury-Recycle.
+   → **(b) Reduce-Reuse-Recycle**. Standard 3R priority order.
 
 ### Examples (9.11)
 
@@ -865,8 +865,8 @@ CARRYING CAPACITY (2025 Q23):
 
 ### Biomedical Waste — How It Works
 
-- **Biomedical waste (BMW)** poses infection, injury, and toxic risks — must never mix with municipal solid waste; separate collection, treatment, and disposal mandatory.
-- **BMW Rules 2016** (amended 2018) replaced BMW Rules 1998 — applies to hospitals, clinics, labs, blood banks, veterinary institutions, research facilities.
+- **Biomedical waste (BMW)** poses infection, injury, and toxic risks. Must never mix with municipal solid waste. Separate collection, treatment, and disposal mandatory.
+- **BMW Rules 2016** (amended 2018) replaced BMW Rules 1998. Applies to hospitals, clinics, labs, blood banks, veterinary institutions, research facilities.
 - **Colour coding system** (critical for exams):
 
 | Colour | Category | Treatment |
@@ -877,11 +877,11 @@ CARRYING CAPACITY (2025 Q23):
 | **Blue** | Glassware, metallic body implants | Disinfection → recycling |
 
 - **Treatment technologies**: **autoclaving** (steam sterilization), **microwave** disinfection, **incineration** (high-temp combustion for anatomical/pathological waste), **deep burial** (rural areas, low-generation facilities).
-- **Bar coding system** introduced in 2016 Rules — waste tracked from source to disposal; **CBWTF (Common Biomedical Waste Treatment Facility)** serves clusters of small healthcare units.
-- **COVID-19** generated additional BMW — PPE, masks, swabs classified as yellow/red category; highlighted gaps in CBWTF capacity.
+- **Bar coding system** introduced in 2016 Rules. Waste tracked from source to disposal. **CBWTF (Common Biomedical Waste Treatment Facility)** serves clusters of small healthcare units.
+- **COVID-19** generated additional BMW. PPE, masks, swabs classified as yellow/red category. Highlighted gaps in CBWTF capacity.
 - **Occupational hazard**: waste handlers, rag-pickers sorting mixed waste face needle-stick injuries, hepatitis, HIV transmission risk.
-- **UP**: major hospitals in Lucknow, Kanpur, Varanasi, Noida require registered CBWTF; small clinics often non-compliant — enforcement by SPCB.
-- **Prohibited**: no untreated BMW shall be stored beyond 48 hours; no mixing of BMW with other waste streams.
+- **UP**: major hospitals in Lucknow, Kanpur, Varanasi, Noida require registered CBWTF. Small clinics often non-compliant. Enforcement by SPCB.
+- **Prohibited**: no untreated BMW shall be stored beyond 48 hours. No mixing of BMW with other waste streams.
 
 > **Exam note:** Yellow = incineration (anatomical/infectious). White = sharps (needles). Red ≠ yellow — red is disinfected then recyclable. Most common trap: sharps in yellow bag = WRONG (sharps = white).
 
@@ -908,11 +908,11 @@ CARRYING CAPACITY (2025 Q23):
 
 ### PYQs — Biomedical Waste
 
-1. **(UPSC 2018 — pattern)** Waste sharps (needles, scalpels) should be disposed in: (a) Yellow bag (b) Red bag (c) White/translucent container (d) Blue bag
-   → **(c) White/translucent container** — sharps category; yellow is for anatomical/infectious soiled waste.
+1. **(UPSC 2018 pattern)** Waste sharps (needles, scalpels) should be disposed in: (a) Yellow bag (b) Red bag (c) White/translucent container (d) Blue bag.
+   → **(c) White/translucent container**. Sharps category. Yellow is for anatomical/infectious soiled waste.
 
-2. **(UPSC 2016 — pattern)** Biomedical waste Rules in India were last comprehensively updated in: (a) 1998 (b) 2000 (c) 2016 (d) 2020
-   → **(c) 2016** — current BMW Rules; 1998 was the original.
+2. **(UPSC 2016 pattern)** Biomedical waste Rules in India were last comprehensively updated in: (a) 1998 (b) 2000 (c) 2016 (d) 2020.
+   → **(c) 2016**. Current BMW Rules. 1998 was the original.
 
 ### Examples (9.12)
 
@@ -936,16 +936,16 @@ CARRYING CAPACITY (2025 Q23):
 
 ### Hazardous Waste — How It Works
 
-- **Hazardous waste** includes industrial chemical waste, solvents, pesticides, heavy metal sludge, asbestos, used oil, battery acid — distinct from municipal, biomedical, and e-waste (though overlaps exist).
-- **Hazardous and Other Wastes (Management and Transboundary Movement) Rules 2016** — replaced HW (Management, Handling and Transboundary Movement) Rules 2008 and MSW Rules overlap.
-- **Characteristics of hazardous waste**: **ignitability** (flammable), **corrosivity** (pH <2 or >12.5), **reactivity** (explosive/unstable), **toxicity** (heavy metals, organics) — any one characteristic qualifies.
-- **Schedule I** lists **83 industrial processes** generating hazardous waste (petroleum refining, tannery, pharma, electroplating); **Schedule II** lists hazardous constituents with concentration limits.
-- **Storage**: permitted only up to **90 days** (unless extension granted); must be in leak-proof containers on impervious flooring with containment system.
+- **Hazardous waste** includes industrial chemical waste, solvents, pesticides, heavy metal sludge, asbestos, used oil, battery acid. Distinct from municipal, biomedical, and e-waste (though overlaps exist).
+- **Hazardous and Other Wastes (Management and Transboundary Movement) Rules 2016**. Replaced HW (Management, Handling and Transboundary Movement) Rules 2008 and MSW Rules overlap.
+- **Characteristics of hazardous waste**: **ignitability** (flammable), **corrosivity** (pH <2 or >12.5), **reactivity** (explosive/unstable), **toxicity** (heavy metals, organics). Any one characteristic qualifies.
+- **Schedule I** lists **83 industrial processes** generating hazardous waste (petroleum refining, tannery, pharma, electroplating). **Schedule II** lists hazardous constituents with concentration limits.
+- **Storage**: permitted only up to **90 days** (unless extension granted). Must be in leak-proof containers on impervious flooring with containment system.
 - **Treatment**: physicochemical treatment, incineration, secure landfill, stabilization/solidification before landfill.
-- **Manifest system** — waste tracked from generator to transporter to treatment facility (cradle-to-grave tracking).
-- **Basel Convention 1989** (ratified by India 1992) — controls **transboundary movement** of hazardous waste; prohibits export of hazardous waste from developed to developing countries for disposal.
-- **Shipbreaking at Alang (Gujarat)** generates hazardous waste (asbestos, PCBs, heavy metals) — regulated under HW Rules + Supreme Court guidelines.
-- **UP industries**: tanneries (chromium sludge), electroplating units, pharma (Solan/Sikkim corridor but UP consumption), dye units — all generate Schedule I hazardous waste.
+- **Manifest system**. Waste tracked from generator to transporter to treatment facility (cradle-to-grave tracking).
+- **Basel Convention 1989** (ratified by India 1992). Controls **transboundary movement** of hazardous waste. Prohibits export of hazardous waste from developed to developing countries for disposal.
+- **Shipbreaking at Alang (Gujarat)** generates hazardous waste (asbestos, PCBs, heavy metals). Regulated under HW Rules + Supreme Court guidelines.
+- **UP industries**: tanneries (chromium sludge), electroplating units, pharma (Solan/Sikkim corridor but UP consumption), dye units. All generate Schedule I hazardous waste.
 
 > **Exam note:** Basel Convention = **hazardous waste movement**, not biodiversity (CBD) or climate (UNFCCC). India ratified 1992.
 
@@ -961,21 +961,21 @@ CARRYING CAPACITY (2025 Q23):
 
 ### Exam Facts (raata)
 
-- HW Rules **2016** — Schedule I (83 processes) + Schedule II (constituents)
+- HW Rules **2016**. Schedule I (83 processes) + Schedule II (constituents).
 - Ignitable, corrosive, reactive, toxic = hazard characteristics
 - Storage max **90 days** without extension
-- Basel Convention **1989** — transboundary hazardous waste control
+- Basel Convention **1989**. Transboundary hazardous waste control.
 - India ratified Basel **1992**
 - Manifest system = cradle-to-grave tracking
 - Tannery chromium sludge = hazardous waste
 
 ### PYQs — Hazardous Waste
 
-1. **(UPSC 2017 — pattern)** Basel Convention is concerned with: (a) Climate change (b) Transboundary movement of hazardous waste (c) Ozone depletion (d) Wetland conservation
-   → **(b) Transboundary movement of hazardous waste** — HQ Geneva; under UNEP administration.
+1. **(UPSC 2017 pattern)** Basel Convention is concerned with: (a) Climate change (b) Transboundary movement of hazardous waste (c) Ozone depletion (d) Wetland conservation.
+   → **(b) Transboundary movement of hazardous waste**. HQ Geneva. Under UNEP administration.
 
-2. **(UPSC 2014 — pattern)** Which is hazardous waste? (a) Kitchen waste (b) Chromium sludge from tannery (c) Newspaper (d) Garden trimmings
-   → **(b) Chromium sludge from tannery** — toxic heavy metal sludge; Schedule I process waste.
+2. **(UPSC 2014 pattern)** Which is hazardous waste? (a) Kitchen waste (b) Chromium sludge from tannery (c) Newspaper (d) Garden trimmings.
+   → **(b) Chromium sludge from tannery**. Toxic heavy metal sludge. Schedule I process waste.
 
 ### Examples (9.13)
 
@@ -999,16 +999,16 @@ CARRYING CAPACITY (2025 Q23):
 
 ### E-waste — How It Works
 
-- **E-waste** is fastest-growing waste stream globally — India is the **3rd largest e-waste generator** (after China and USA); ~1.6 million tonnes annually (CPCB estimate).
-- **E-waste (Management) Rules 2022** replaced E-waste Rules 2016 — strengthened **EPR** (Extended Producer Responsibility), collection targets, and authorized recycler network.
-- **Schedule I** lists covered EEE: computers, phones, TVs, refrigerators, washing machines, fluorescent lamps, medical devices, telecom equipment — **67 categories**.
+- **E-waste** is fastest-growing waste stream globally. India is the **3rd largest e-waste generator** (after China and USA). ~1.6 million tonnes annually (CPCB estimate).
+- **E-waste (Management) Rules 2022** replaced E-waste Rules 2016. Strengthened **EPR** (Extended Producer Responsibility), collection targets, and authorized recycler network.
+- **Schedule I** lists covered EEE: computers, phones, TVs, refrigerators, washing machines, fluorescent lamps, medical devices, telecom equipment. **67 categories**.
 - **Hazardous components**: **lead** (CRT monitors, solder), **mercury** (CFL, LCD backlights), **cadmium** (batteries), **beryllium** (motherboards), **BFRs** (flame retardants in plastics).
-- **Valuable recovery**: gold, silver, copper, palladium in circuit boards — informal sector recovers metals through acid leaching (unsafe); formal recyclers use environmentally sound processes.
-- **EPR targets**: producers must meet collection targets (% of quantity placed in market) — 60% (2023–24), escalating to 80%; registered on CPCB EPR portal.
-- **Consumers** must hand e-waste only to authorized collectors/recyclers — not to kabadiwalas (informal sector causes soil/water contamination from acid baths).
-- **Bulk consumers** (offices, institutions): maintain e-waste records; channelize only to authorized dismantlers.
-- **UP**: Noida/Ghaziabad electronics manufacturing + consumption hubs; **Roorkee, Moradabad** have informal e-waste processing — health hazard to workers.
-- **RoHS (Restriction of Hazardous Substances)** — limits lead, mercury, cadmium in new electronics; India adopted similar standards.
+- **Valuable recovery**: gold, silver, copper, palladium in circuit boards. Informal sector recovers metals through acid leaching (unsafe). Formal recyclers use environmentally sound processes.
+- **EPR targets**: producers must meet collection targets (% of quantity placed in market). 60% (2023–24), escalating to 80%. Registered on CPCB EPR portal.
+- **Consumers** must hand e-waste only to authorized collectors/recyclers. Not to kabadiwalas (informal sector causes soil/water contamination from acid baths).
+- **Bulk consumers** (offices, institutions): maintain e-waste records. Channelize only to authorized dismantlers.
+- **UP**: Noida/Ghaziabad electronics manufacturing + consumption hubs. **Roorkee, Moradabad** have informal e-waste processing. Health hazard to workers.
+- **RoHS (Restriction of Hazardous Substances)**. Limits lead, mercury, cadmium in new electronics. India adopted similar standards.
 
 > **Exam note:** E-waste Rules = **2022** (not 2016 — 2016 was previous version). India = **3rd** largest generator, not 1st. EPR targets increasing annually.
 
@@ -1026,7 +1026,7 @@ CARRYING CAPACITY (2025 Q23):
 
 - India = **3rd largest** e-waste generator globally
 - E-waste Rules **2022** (replaced 2016)
-- EPR on producers — collection targets 60%→80%
+- EPR on producers, including collection targets 60%, which leads to 80%.
 - Schedule I = 67 EEE categories
 - Lead, mercury, cadmium = hazardous e-waste components
 - Informal recycling = acid leaching hazard
@@ -1034,11 +1034,11 @@ CARRYING CAPACITY (2025 Q23):
 
 ### PYQs — E-waste
 
-1. **(UPSC 2020 — pattern)** India's rank in global e-waste generation is: (a) 1st (b) 2nd (c) 3rd (d) 5th
-   → **(c) 3rd** — after China and USA.
+1. **(UPSC 2020 pattern)** India's rank in global e-waste generation is: (a) 1st (b) 2nd (c) 3rd (d) 5th.
+   → **(c) 3rd**. After China and USA.
 
-2. **(UPSC 2018 — pattern)** Extended Producer Responsibility in e-waste management requires: (a) Consumers to manufacture electronics (b) Producers to collect and channelize e-waste (c) States to export e-waste (d) CPCB to produce electronics
-   → **(b) Producers to collect and channelize e-waste** — EPR core obligation under E-waste Rules.
+2. **(UPSC 2018 pattern)** Extended Producer Responsibility in e-waste management requires: (a) Consumers to manufacture electronics (b) Producers to collect and channelize e-waste (c) States to export e-waste (d) CPCB to produce electronics.
+   → **(b) Producers to collect and channelize e-waste**. EPR core obligation under E-waste Rules.
 
 ### Examples (9.14)
 
@@ -1195,10 +1195,10 @@ Options: A. 4 3 2 1  B. 3 4 2 1  C. 4 3 1 2  D. 2 3 4 1
 
 (Pollutant/Source) — (Effect)
 
-1. SO₂ — Acid rain and respiratory illness
-2. Excess N/P in lakes — Eutrophication
-3. CO — Binds haemoglobin reducing oxygen transport
-4. BOD — Measures air pollution level
+1. SO₂. Acid rain and respiratory illness.
+2. Excess N/P in lakes. Eutrophication.
+3. CO. Binds haemoglobin reducing oxygen transport.
+4. BOD. Measures air pollution level.
 
 Select the correct answer from the code given below:
 
@@ -1301,9 +1301,9 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 (River) — (UP City)
 
-1. Gomti — Lucknow
-2. Ganga (worst pollution stretch) — Kanpur
-3. Yamuna — Agra-Mathura belt
+1. Gomti. Lucknow.
+2. Ganga (worst pollution stretch). Kanpur.
+3. Yamuna. Agra-Mathura belt.
 
 Select the correct answer from the code given below:
 
@@ -1356,9 +1356,9 @@ Options: A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 
 (Waste type) — (Governing Rules year)
 
-1. Solid Waste — 2016
-2. E-waste — 2016
-3. Biomedical Waste — 2016
+1. Solid Waste. 2016.
+2. E-waste. 2016.
+3. Biomedical Waste. 2016.
 
 Select the correct answer from the code given below:
 
@@ -1531,9 +1531,9 @@ Options: A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 
 (Zone) — (Daytime noise limit dB)
 
-1. Silence zone — 50
-2. Residential — 55
-3. Commercial — 75
+1. Silence zone. 50.
+2. Residential. 55.
+3. Commercial. 75.
 
 Select the correct answer from the code given below:
 
@@ -1845,9 +1845,9 @@ Options: A. Air Act → Water Act → EPA  B. Water Act → Air Act → EPA  C. 
 
 (Pollution type) — (Primary source)
 
-1. Thermal pollution — Power plant cooling water
-2. Radioactive pollution — Nuclear fuel cycle
-3. Noise pollution — Road traffic
+1. Thermal pollution. Power plant cooling water.
+2. Radioactive pollution. Nuclear fuel cycle.
+3. Noise pollution. Road traffic.
 
 Select the correct answer from the code given below:
 

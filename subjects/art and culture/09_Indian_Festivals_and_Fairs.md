@@ -106,8 +106,8 @@ GOVT CULTURAL FESTIVALS:
 - **Pan-India Hindu festivals**: **Diwali** (lights, Lakshmi), **Holi** (colours, spring), **Navratri/Dussehra** (9 nights + Vijayadashami), **Janmashtami** (Krishna birth), **Mahashivratri**, **Raksha Bandhan**.
 - **Festival functions**: **social cohesion**, **economic activity** (fairs, crafts), **artistic performance** (dance, music, theatre), **pilgrimage** (Kumbh, Char Dham seasons).
 - **UNESCO Intangible Heritage (festival-linked India)**: **Kumbh Mela (2017)**, **Ramlila (2008)**, **Durga Puja of Kolkata (2021)**, **Garba of Gujarat (2023)**, **Mudiyettu, Ramman, Sankirtana, Buddhist chanting, Vedic chanting, Yoga, Nawruz**.
-- **Government role**: Ministry of Culture + Tourism sponsor **national cultural festivals**; states promote **tourism festivals** — see §9.9.
-- **Trap**: Not all colourful festivals are Hindu — **Bihu (Assam), Onam (Kerala), Hornbill (Nagaland)** are regional/tribal with distinct roots.
+- **Government role**: Ministry of Culture + Tourism sponsor **national cultural festivals**. States promote **tourism festivals**. See §9.9.
+- **Trap**: Not all colourful festivals are Hindu. **Bihu (Assam), Onam (Kerala), Hornbill (Nagaland)** are regional/tribal with distinct roots.
 
 > **Exam note:** Classify festival by **type first** (harvest/religious/folk/tribal) before matching state — stops Holi=only north error.
 
@@ -117,10 +117,10 @@ GOVT CULTURAL FESTIVALS:
 - Types: seasonal, religious, folk, tribal, national
 - Pan-India: Diwali, Holi, Navratri, Dussehra
 - Kumbh Mela UNESCO intangible 2017
-- Ramlila UNESCO 2008; Durga Puja 2021; Garba 2023
+- Ramlila UNESCO 2008. Durga Puja 2021. Garba 2023.
 - Festivals drive pilgrimage economy
 - Not all festivals = Hindu only
-- Republic Day 26 Jan; Independence Day 15 Aug
+- Republic Day 26 Jan. Independence Day 15 Aug.
 - Harvest festivals region-specific
 - Government sponsors cultural festivals
 
@@ -158,8 +158,8 @@ GOVT CULTURAL FESTIVALS:
 
 ### State-wise Festivals — How It Works
 
-- **State-wise festivals** map **regional identity ↔ celebration** — UPPCS loves **"festival NOT in state X"** negative questions.
-- **Complete state/UT festival table** (exam-critical — all 28 states + key UTs):
+- **State-wise festivals** map **regional identity ↔ celebration**. UPPCS loves **"festival NOT in state X"** negative questions.
+- **Complete state/UT festival table** (exam-critical. All 28 states + key UTs):.
 
   | State/UT | Key Festival(s) | Month/Season |
   |----------|-----------------|--------------|
@@ -205,9 +205,9 @@ GOVT CULTURAL FESTIVALS:
 
 - Complete 28-state mapping in table above
 - UP: Kumbh, Braj Holi, Ramlila, Taj Mahotsav
-- Kerala: Onam; Tamil Nadu: Pongal
-- Assam: Bihu; Nagaland: Hornbill
-- Gujarat: Garba/Navratri; WB: Durga Puja
+- Kerala: Onam and Tamil Nadu: Pongal.
+- Assam: Bihu and Nagaland: Hornbill.
+- Gujarat: Garba/Navratri and WB: Durga Puja.
 - Rajasthan: Pushkar Fair
 - Bihar: Chhath Puja
 - Karnataka: Mysore Dasara
@@ -250,7 +250,7 @@ GOVT CULTURAL FESTIVALS:
 
 ### Folk Festivals — How It Works
 
-- **Folk festivals** emerge from **agrarian and community life** — less scriptural than religious festivals, more **dance, song, seasonal joy**.
+- **Folk festivals** emerge from **agrarian and community life**. Less scriptural than religious festivals, more **dance, song, seasonal joy**.
 - **Complete high-yield folk festival list**:
 
   | Festival | Region/State | Features |
@@ -270,11 +270,11 @@ GOVT CULTURAL FESTIVALS:
   | **Theyyam festivals** | **Kerala** | Ritual folk worship performances |
   | **Hemis folk elements** | **Ladakh** | Mask dances at monastery fair |
 
-- **Braj Holi (UP)** — among India's most famous folk festivals; **Mathura, Vrindavan, Barsana** — draws international tourists; **phoolon ki Holi** (flower Holi) at Banke Bihari temple.
-- **Garba (Gujarat)** — **9 nights of Navratri** — community circles, **dandiya raas** with sticks; inscribed **UNESCO intangible 2023**.
-- **Lohri → Makar Sankranti → Pongal** chain marks **north-to-south harvest transition** (mid-January).
-- **Folk vs classical**: **Garba, Bhangra, Bihu dance ≠ Bharatanatyam/Kathak** — community participation, no guru-shishya codification.
-- **Trap**: **Holi in UP = Braj folk tradition** distinct from urban Holi; **Garba ≠ Navratri everywhere** — Gujarat-specific folk form.
+- **Braj Holi (UP)**. Among India's most famous folk festivals. **Mathura, Vrindavan, Barsana**. It draws international tourists. **Phoolon ki Holi** (flower Holi) at Banke Bihari temple.
+- **Garba (Gujarat)** spans **9 nights of Navratri** with community circles and **dandiya raas** with sticks. It was inscribed as **UNESCO intangible heritage in 2023**.
+- **Lohri**, then **Makar Sankranti**, then **Pongal**, mark **north-to-south harvest transition** (mid-January).
+- **Folk vs classical**: **Garba, Bhangra, Bihu dance ≠ Bharatanatyam/Kathak**. Community participation, no guru-shishya codification.
+- **Trap**: **Holi in UP = Braj folk tradition** distinct from urban Holi. **Garba ≠ Navratri everywhere**. Gujarat-specific folk form.
 
 > **Exam note:** **Braj Holi ↔ UP** and **Garba ↔ Gujarat** — top folk festival geography pairs.
 
@@ -324,7 +324,7 @@ GOVT CULTURAL FESTIVALS:
 
 ### Tribal Festivals — How It Works
 
-- **Tribal festivals** preserve **pre-Hindu/indigenous cosmologies** — sacred groves, ancestral spirits, seasonal agriculture rituals.
+- **Tribal festivals** preserve **pre-Hindu/indigenous cosmologies**. Sacred groves, ancestral spirits, seasonal agriculture rituals.
 - **Complete exam tribal festival list**:
 
   | Festival | Tribe/State | Features |
@@ -344,11 +344,11 @@ GOVT CULTURAL FESTIVALS:
   | **Nyokum** | **Arunachal Pradesh** (Nyishi) | Nature harmony festival |
   | **Solung** | **Arunachal Pradesh** (Adi) | Agricultural festival |
 
-- **Bastar Dussehra (Chhattisgarh)** — **75 days long** — tribals worship **Devi Danteshwari** — distinct from pan-India Rama Vijayadashami.
-- **Sarhul (Jharkhand)** — worship of **sal tree** and earth; marks new year for Munda/Oraon; **Sarna religion** link.
-- **Hornbill Festival** — branded **"Festival of Festivals"** — all Naga tribes perform at **Kisama Heritage Village, Nagaland**.
-- **Medaram Jatara** — one of Asia's largest tribal gatherings — **Koya tribe**, Telangana — biennial.
-- **Trap**: **Bastar Dussehra ≠ standard Dussehra** — tribal deity focus, 75 days, Chhattisgarh only.
+- **Bastar Dussehra (Chhattisgarh)** lasts **75 days**. Tribals worship **Devi Danteshwari**, distinct from pan-India Rama Vijayadashami.
+- **Sarhul (Jharkhand)** centres on worship of the **sal tree** and earth. It marks the new year for Munda/Oraon communities and links to the **Sarna religion**.
+- **Hornbill Festival**. Branded **"Festival of Festivals"**. All Naga tribes perform at **Kisama Heritage Village, Nagaland**.
+- **Medaram Jatara** is one of Asia's largest tribal gatherings.
+- **Trap**: **Bastar Dussehra ≠ standard Dussehra**. Tribal deity focus, 75 days, Chhattisgarh only.
 
 > **Exam note:** **Sarhul ↔ Jharkhand** | **Bastar Dussehra ↔ Chhattisgarh** | **Hornbill ↔ Nagaland** — tribal geography trio.
 
@@ -398,7 +398,7 @@ GOVT CULTURAL FESTIVALS:
 
 ### North-East Indian Festivals — How It Works
 
-- **North-East India** has **highest tribal festival density** — each state has distinct ethnic celebrations.
+- **North-East India** has the **highest tribal festival density**, and each state has distinct ethnic celebrations.
 - **State-wise NE festival table** (complete):
 
   | State | Major Festivals | Month |
@@ -412,11 +412,11 @@ GOVT CULTURAL FESTIVALS:
   | **Sikkim** | **Losar**, Saga Dawa, Pang Lhabsol | Feb; May–Jun; Aug |
   | **Tripura** | Kharchi Puja, Garia Puja, Poush Sankranti | Jul; Apr; Jan |
 
-- **Bihu (Assam)** — **three Bihus**: **Rongali/Bohag** (spring, April — most festive), **Kongali** (autumn), **Bhogali/Magh** (January harvest bonfire).
-- **Hornbill Festival (Nagaland)** — **December 1–10** at **Kisama** — rock concerts, Naga morungs, cuisine, crafts — **Nagaland govt** flagship tourism event.
-- **Sangai Festival (Manipur)** — November — showcases Manipur's polo, dance, cuisine — named after **Sangai deer** (state animal).
-- **Losar** — **Tibetan Buddhist New Year** — celebrated in **Sikkim, Arunachal Pradesh, Ladakh, Himachal** — NOT limited to NE only.
-- **Ambubachi Mela (Assam)** — annual tantric fair at **Kamakhya Temple, Guwahati** — monsoon (June).
+- **Bihu (Assam)** includes **three Bihus**: **Rongali/Bohag** (spring, April. Most festive), **Kongali** (autumn), **Bhogali/Magh** (January harvest bonfire).
+- **Hornbill Festival (Nagaland)** **December 1–10** at **Kisama**. Rock concerts, Naga morungs, cuisine, crafts.
+- **Sangai Festival (Manipur)** is held in November. It showcases Manipur's polo, dance, and cuisine, and is named after the **Sangai deer** (state animal).
+- **Losar** is the **Tibetan Buddhist New Year**, celebrated in **Sikkim, Arunachal Pradesh, Ladakh, and Himachal**. It is not limited to the North-East only.
+- **Ambubachi Mela (Assam)**. Annual tantric fair at **Kamakhya Temple, Guwahati**. Monsoon (June).
 - **Trap**: **Bihu = Assam only**, NOT Arunachal or Nagaland. **Hornbill = Nagaland**, NOT Assam.
 
 > **Exam note:** **Bihu-Assam** and **Hornbill-Nagaland** — most-tested NE pairs; **Sangai-Manipur** third.
@@ -479,20 +479,20 @@ GOVT CULTURAL FESTIVALS:
   | **Telangana** | **Bathukamma**, Bonalu, Medaram Jatara | Women flower festival; goddess Bonalu |
   | **Puducherry** | Bastille Day, Pongal, French-Indian blend | July; January |
 
-- **Pongal (Tamil Nadu)** — **4-day harvest** (mid-January): **Bhogi** (bonfire), **Thai Pongal** (rice boiling), **Mattu Pongal** (cattle worship), **Kaanum Pongal** (outing).
-- **Onam (Kerala)** — **10-day harvest** (Aug–Sep) — **Athapookalam** (flower rangoli), **Onasadya** (feast), **Vallamkali** (snake boat race), **Pulikali** (tiger dance).
-- **Mysore Dasara (Karnataka)** — **10-day** royal festival — **Jamboo Savari** elephant procession with **Chamundeshwari** idol — Karnataka's flagship.
-- **Thrissur Pooram (Kerala)** — temple elephant caparison competition — **April–May** — "pooram of poorams."
-- **Ugadi** — **Hindu New Year** for **AP, Telangana, Karnataka** (and Maharashtra as Gudi Padwa) — March–April.
-- **Bathukamma (Telangana)** — women stack seasonal flowers — **Navratri season** — Telangana state symbol festival.
-- **Trap**: **Pongal = Tamil Nadu**, **Onam = Kerala** — never swap. **Mysore Dasara = Karnataka**, NOT Tamil Nadu.
+- **Pongal (Tamil Nadu)**. **4-day harvest** (mid-January): **Bhogi** (bonfire), **Thai Pongal** (rice boiling), **Mattu Pongal** (cattle worship), **Kaanum Pongal** (outing).
+- **Onam (Kerala)** **10-day harvest** (Aug–Sep).
+- **Mysore Dasara (Karnataka)** **10-day** royal festival.
+- **Thrissur Pooram (Kerala)** Temple elephant caparison competition.
+- **Ugadi** includes **Hindu New Year** for **AP, Telangana, Karnataka** (and Maharashtra as Gudi Padwa). March–April.
+- **Bathukamma (Telangana)** Women stack seasonal flowers.
+- **Trap**: **Pongal = Tamil Nadu**, **Onam = Kerala**. Never swap. **Mysore Dasara = Karnataka**, NOT Tamil Nadu.
 
 > **Exam note:** **Pongal-TN | Onam-KL | Mysore Dasara-KA** — south India geography trinity.
 
 ### Exam Facts (raata)
 
 - Pongal = TN 4-day January harvest
-- Onam = Kerala Aug–Sep; boat races
+- Onam = Kerala Aug–Sep. Boat races.
 - Mysore Dasara = Karnataka October
 - Thrissur Pooram = Kerala temple elephants
 - Ugadi = AP/Telangana/Karnataka New Year
@@ -535,7 +535,7 @@ GOVT CULTURAL FESTIVALS:
 
 ### Religious Festivals — How It Works
 
-- **Religious festivals** follow **faith-specific lunar/solar calendars** — many are **public holidays** in India.
+- **Religious festivals** follow **faith-specific lunar/solar calendars**, and many are **public holidays** in India.
 - **Complete religion-wise festival table**:
 
   | Religion | Major Festivals | Key features |
@@ -550,18 +550,18 @@ GOVT CULTURAL FESTIVALS:
   | **Jewish** | Limited community observance in India (Cochin Jewish heritage) | Minority |
 
 - **Hindu major festivals detail**:
-  - **Diwali** — Amavasya Kartik — Lakshmi-Ganesha worship, lights, nationwide
-  - **Holi** — Phalgun Purnima — colours, spring victory (UP Braj most famous)
-  - **Navratri/Dussehra** — Ashwin month — 9 nights goddess; **Vijayadashami** = Rama victory
-  - **Janmashtami** — Krishna birth — **Mathura-Dwarka** focus
-  - **Chhath Puja** — **sun worship** — **Bihar, UP, Jharkhand** ghats — strict fasting ritual
-  - **Ratha Yatra** — **Puri Jagannath** — June–July chariot procession
+  - **Diwali**. Amavasya Kartik. Lakshmi-Ganesha worship, lights, nationwide.
+  - **Holi**. Phalgun Purnima. Colours, spring victory (UP Braj most famous).
+  - **Navratri/Dussehra**. Ashwin month. 9 nights goddess. **Vijayadashami** = Rama victory.
+  - **Janmashtami** Krishna birth.
+  - **Chhath Puja** **Sun worship**.
+  - **Ratha Yatra** includes **Puri Jagannath**. June–July chariot procession.
 
-- **Ramlila (UP)** — **Ramayana enactment** — **Dussehra climax** — **UNESCO intangible 2008** — **Varanasi Ramnagar** month-long famous version.
-- **Eid-ul-Fitr** — ends **Ramadan fasting** — **moon sighting** determines date — nationwide Muslim celebration.
-- **Guru Nanak Jayanti** — **Gurpurab** — Sikh sacred day — **Gurdwaras** illuminated; **langar** community kitchen.
-- **Buddha Purnima** — single day marking **birth, enlightenment, death** of Buddha — **Sarnath, Bodh Gaya, Kushinagar** pilgrimages.
-- **Trap**: **Chhath = sun worship**, NOT moon — **Bihar/UP/Jharkhand**, NOT pan-south. **Christmas = 25 December fixed**, NOT lunar.
+- **Ramlila (UP)** **Ramayana enactment**.
+- **Eid-ul-Fitr** Ends **Ramadan fasting**.
+- **Guru Nanak Jayanti** **Gurpurab**. Sikh sacred day.
+- **Buddha Purnima** Single day marking **birth, enlightenment, death** of Buddha.
+- **Chhath = sun worship** , NOT moon.
 
 > **Exam note:** **Chhath ↔ Bihar/UP** and **Ramlila ↔ UP (UNESCO)** — high-yield religious geography.
 
@@ -611,8 +611,8 @@ GOVT CULTURAL FESTIVALS:
 
 ### Fairs of India — How It Works
 
-- **Indian fairs (melas)** combine **commerce + religion + entertainment** — often centuries old.
-- **Major fairs — complete exam list**:
+- **Indian fairs (melas)** combine **commerce + religion + entertainment**. Often centuries old.
+- **Major fairs: complete exam list**:
 
   | Fair | Location | State | Features |
   |------|----------|-------|----------|
@@ -631,12 +631,12 @@ GOVT CULTURAL FESTIVALS:
   | **Kandariya Mahadev Fair** | Khajuraho | MP | Shivratri fair |
 
 - **Kumbh Mela 4 sites** (memorise): **Prayagraj (Ganga-Yamuna-Saraswati sangam)**, **Haridwar (Ganga)**, **Nashik (Godavari)**, **Ujjain (Shipra)**.
-- **Kumbh timing** — when **Jupiter, Sun, Moon** align at specific zodiac points — **Purna Kumbh** every 12 years; **Ardh Kumbh** every 6 years; **Maha Kumbh** special 144-year cycle.
-- **Magh Mela (UP)** — **annual** mini-Kumbh at Prayagraj every January–February — **UP's year-round pilgrimage fair**.
-- **Pushkar Fair (Rajasthan)** — **world's largest camel fair** — Kartik month (Oct–Nov) — **NOT one of 4 Kumbh sites** — UPPCS 2025 trap places it in Rajasthan only.
-- **Surajkund Mela (Haryana)** — **first fortnight of February** — **international crafts** — organised by **Surajkund Mela Authority** (Haryana Tourism + Culture Ministry).
-- **Sonepur Mela (Bihar)** — **Harihar Kshetra** — elephants, horses, cattle trade — month-long Kartik fair.
-- **Trap**: **Kumbh 4 sites ≠ Pushkar** — Pushkar has separate bathing/fair tradition in Rajasthan.
+- **Kumbh timing** When **Jupiter, Sun, Moon** align at specific zodiac points.
+- **Magh Mela (UP)** **annual** mini-Kumbh at Prayagraj every January–February.
+- **Pushkar Fair (Rajasthan)** **world's largest camel fair**. Kartik month (Oct–Nov).
+- **Surajkund Mela (Haryana)** **first fortnight of February**.
+- **Sonepur Mela (Bihar)** includes **Harihar Kshetra**. Elephants, horses, cattle trade. Month-long Kartik fair.
+- **Trap**: **Kumbh 4 sites ≠ Pushkar**. Pushkar has separate bathing/fair tradition in Rajasthan.
 
 > **Exam note:** **Kumbh = P-H-N-U** (Prayagraj, Haridwar, Nashik, Ujjain) | **Pushkar = Rajasthan camel fair** — most common fair trap.
 
@@ -687,7 +687,7 @@ GOVT CULTURAL FESTIVALS:
 
 ### Cultural Festivals Organized by Government — How It Works
 
-- **Government cultural festivals** promote **soft power, tourism, artisan livelihood, classical arts** — distinct from spontaneous religious fairs.
+- **Government cultural festivals** promote **soft power, tourism, artisan livelihood, classical arts**. Distinct from spontaneous religious fairs.
 - **Central/State government festival table** (complete high-yield):
 
   | Festival | Organiser | Location | When |
@@ -720,7 +720,7 @@ GOVT CULTURAL FESTIVALS:
   | **Bharat Rang Mahotsav** | Annual since 1999 | Culture (NSD) | International theatre showcase |
 
 - **UP government festivals** (exam priority): **Taj Mahotsav (Agra)**, **Ganga Mahotsav (Varanasi)**, **Lucknow Mahotsav**, **Ayodhya Deepotsav**, **Kumbh/Magh Mela infrastructure (Prayagraj)**.
-- **NSD's Bharat Rang Mahotsav** — **January** — India's largest theatre festival — **Delhi** + touring editions.
+- **NSD's Bharat Rang Mahotsav** **January**. India's largest theatre festival.
 - **Trap**: **Surajkund = Haryana**, NOT Delhi/UP/Rajasthan. **Khajuraho Dance = MP**, NOT UP.
 
 > **Exam note:** **Surajkund ↔ Haryana + Culture Ministry** and **Taj Mahotsav ↔ Agra UP** — govt festival geography.

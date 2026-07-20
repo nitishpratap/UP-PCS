@@ -84,7 +84,7 @@ TRAPS:
 
 ### Tangible Cultural Heritage — How It Works
 
-- **Tangible cultural heritage** is what tourists **photograph and archaeologists excavate** — the **material evidence** of civilisation.
+- **Tangible cultural heritage** is what tourists **photograph and archaeologists excavate**. The **material evidence** of civilisation.
 - **Categories of tangible heritage**:
 
   | Category | Examples in India |
@@ -98,31 +98,31 @@ TRAPS:
   | **Cultural landscapes** | Champaner-Pavagadh, Nanda Devi landscape |
 
 - **Legal protection in India**:
-  - **ASI** — maintains **protected monuments** under **AMASR Act 1958** (~3,600+ centrally protected).
-  - **State archaeology departments** — additional monuments.
-  - **National Mission on Monuments and Antiquities (NMMA)** — documentation.
-  - **Trap**: ASI protected ≠ automatically UNESCO World Heritage — separate inscription process.
+  - The **ASI** protects monuments under the **AMASR Act, 1958** (~3,600+ centrally protected).
+  - **State archaeology departments**. Additional monuments.
+  - **National Mission on Monuments and Antiquities (NMMA)**. Documentation.
+  - **Trap**: **ASI protected ≠ automatically UNESCO World Heritage**. Separate inscription process.
 
 - **Threats to tangible heritage**:
-  - **Pollution** (Taj Mahal marble yellowing — Mathura oil refineries debate).
+  - **Pollution** (Taj Mahal marble yellowing. Mathura oil refineries debate).
   - **Urbanisation** encroachment around monuments.
-  - **Tourism pressure** — wear on fragile sites (Ajanta caves closed cyclically).
-  - **Natural disasters** — floods, earthquakes (Kedarnath context).
-  - **Illegal excavation/antiquity smuggling** — Antiquities and Art Treasures Act 1972.
+  - **Tourism pressure**. Wear on fragile sites (Ajanta caves closed cyclically).
+  - **Natural disasters**. Floods, earthquakes (Kedarnath context).
+  - **Illegal excavation and antiquity smuggling** are regulated under the **Antiquities and Art Treasures Act, 1972**.
 
 - **Conservation methods**:
-  - **Structural stabilisation** — underpinning, drainage (Humayun's Tomb restoration model).
-  - **Chemical cleaning** — controlled marble/sandstone treatment.
-  - **Documentation** — laser scanning, photogrammetry (Hampi, Taj).
-  - **Heritage bylaws** — buffer zones around WHS (Agra Taj Trapezium Zone).
+  - **Structural stabilisation**. Underpinning, drainage (Humayun's Tomb restoration model).
+  - **Chemical cleaning**. Controlled marble/sandstone treatment.
+  - **Documentation**. Laser scanning, photogrammetry (Hampi, Taj).
+  - **Heritage bylaws**. Buffer zones around WHS (Agra Taj Trapezium Zone).
 
-- **Tangible vs natural heritage overlap**: Some sites are **natural** (Kaziranga) or **mixed** (Khangchendzonga) — still tangible in physical sense but classified under natural/mixed WHS criteria.
+- **Tangible vs natural heritage overlap**: Some sites are **natural** (Kaziranga) or **mixed** (Khangchendzonga). Still tangible in physical sense but classified under natural/mixed WHS criteria.
 
 - **UP tangible heritage highlights**:
-  - **3 UNESCO WHS** — Taj Mahal, Agra Fort, Fatehpur Sikri (see §14.5).
-  - **Sarnath** — ASI protected Buddhist site (not WHS individually; part of Buddhist circuit).
-  - **Varanasi ghats** — on **Tentative List**, not yet inscribed.
-  - **Lucknow Residency, Bara Imambara** — state/ASI heritage, not WHS.
+  - **3 UNESCO WHS**. Taj Mahal, Agra Fort, Fatehpur Sikri (see §14.5).
+  - **Sarnath**. ASI protected Buddhist site (not WHS individually. Part of Buddhist circuit).
+  - **Varanasi ghats** are on the **Tentative List**, not yet inscribed.
+  - **Lucknow Residency, Bara Imambara**. State/ASI heritage, not WHS.
 
 > **Exam note:** **Tangible = physical monument/site** | **Intangible = Ramlila/Kumbh performance** — never classify Taj Mahal as intangible.
 
@@ -173,7 +173,7 @@ TRAPS:
 
 ### Intangible Cultural Heritage — How It Works
 
-- **Intangible cultural heritage** is **"living culture"** — it exists only while **communities perform and transmit** it.
+- **Intangible cultural heritage** is **"living culture"**. It exists only while **communities perform and transmit** it.
 - **Five domains of intangible heritage** (UNESCO 2003):
 
   | Domain | India examples |
@@ -190,23 +190,23 @@ TRAPS:
   - **2003 Convention** created after realising World Heritage Convention (1972) covered only **tangible** sites.
 
 - **Transmission mechanism**:
-  - **Guru-shishya parampara** — classical and folk (Ramlila akhadas).
-  - **Community festival cycle** — Kumbh Mela, Durga Puja pandals.
-  - **Family craft guilds** — brass craft Punjab, Chikankari Lucknow (GI + intangible overlap).
+  - **Guru-shishya parampara**. Classical and folk (Ramlila akhadas).
+  - **Community festival cycle**. Kumbh Mela, Durga Puja pandals.
+  - **Family craft guilds**. Brass craft Punjab, Chikankari Lucknow (GI + intangible overlap).
 
 - **India's intangible heritage status** (overview):
   - **15 elements** on UNESCO **Representative List** (as of 2023).
-  - **Yoga** inscribed 2016 — global Indian soft power symbol.
-  - **Kumbh Mela 2017** — largest peaceful gathering intangible element.
-  - **Garba 2023** — latest major Gujarat inscription.
-  - **NOT inscribed as named items**: Bharatanatyam, Kathak, Nautanki individually — trap in negative questions.
+  - **Yoga** inscribed 2016. Global Indian soft power symbol.
+  - **Kumbh Mela 2017**. Largest peaceful gathering intangible element.
+  - **Garba 2023**. Latest major Gujarat inscription.
+  - **NOT inscribed as named items**: **Bharatanatyam, Kathak, Nautanki individually**. Trap in negative questions.
 
 - **Safeguarding measures** (India):
-  - **Sangeet Natak Akademi** — documents performing arts.
-  - **IGNCA Janapada Sampada** — folk/tribal intangible documentation.
-  - **Zonal Cultural Centres** — support folk troupes.
-  - **Guru Shishya Parampara Scheme** — financial support to masters.
-  - **UNESCO inscription** — raises international profile + domestic conservation funds.
+  - **Sangeet Natak Akademi**. Documents performing arts.
+  - **IGNCA Janapada Sampada**. Folk/tribal intangible documentation.
+  - **Zonal Cultural Centres**. Support folk troupes.
+  - **Guru Shishya Parampara Scheme**. Financial support to masters.
+  - **UNESCO inscription**. Raises international profile + domestic conservation funds.
 
 - **Intangible vs tangible trap examples**:
 
@@ -227,8 +227,8 @@ TRAPS:
 - UNESCO 2003 Convention for intangible heritage
 - Five domains: oral, performing, social, knowledge, craft skills
 - India = 15 elements on Representative List (2023)
-- Yoga inscribed 2016; Kumbh 2017; Garba 2023
-- Ramlila 2008 — UP-North India tradition
+- Yoga inscribed 2016. Kumbh 2017. Garba 2023.
+- **Ramlila 2008**. UP-North India tradition.
 - Dies without community transmission
 - SNA + IGNCA document intangible heritage
 - Guru Shishya Parampara Scheme supports masters
@@ -268,15 +268,15 @@ TRAPS:
 
 ### UNESCO World Heritage Sites — How It Works
 
-- **World Heritage Convention 1972** — mechanism:
+- **World Heritage Convention 1972**. Mechanism:.
   - **States Parties** (member countries) nominate sites.
-  - **World Heritage Committee (WHC)** — 21 rotating member states — decides inscription.
-  - **UNESCO World Heritage Centre** (Paris) — secretariat coordination.
-  - **ICOMOS** evaluates cultural nominations; **IUCN** evaluates natural nominations.
+  - **World Heritage Committee (WHC)** includes 21 rotating member states. Decides inscription.
+  - **UNESCO World Heritage Centre** (Paris). Secretariat coordination.
+  - **ICOMOS** evaluates cultural nominations. **IUCN** evaluates natural nominations.
 
-- **Outstanding Universal Value (OUV)** — must prove site is **exceptional for all humanity**, not just one nation.
+- **Outstanding Universal Value (OUV)**. It must prove site is **exceptional for all humanity**, not just one nation.
 
-- **Selection criteria** (complete — exam uses numbers):
+- **Selection criteria** (complete. Exam uses numbers):.
 
   | Criteria | Type | Meaning |
   |----------|------|---------|
@@ -309,9 +309,9 @@ TRAPS:
 - **Global statistics (exam context)**:
   - **~1,199** sites worldwide (2024 approximate).
   - **Italy + China** lead in site count globally.
-  - **India = 43 sites** (2024–25) — ranks among top 5–6 countries.
+  - **India = 43 sites** (2024–25). Ranks among top 5–6 countries.
 
-- **Danger list**: Sites threatened by war, pollution, uncontrolled tourism — e.g., **Manas Wildlife Sanctuary** (India) was on danger list, later removed after recovery.
+- **Danger list**: Sites threatened by war, pollution, or uncontrolled tourism. For example, **Manas Wildlife Sanctuary** (India) was on the danger list and later removed after recovery.
 
 - **Related but DIFFERENT designations** (trap):
 
@@ -329,8 +329,8 @@ TRAPS:
 - World Heritage Convention adopted 1972
 - OUV = Outstanding Universal Value required
 - WHC = 21-member committee decides inscription
-- ICOMOS = cultural evaluation; IUCN = natural
-- Criteria i–vi cultural; vii–x natural
+- ICOMOS = cultural evaluation. IUCN = natural.
+- Criteria i–vi cultural. Vii–x natural.
 - Mixed site = both criteria sets
 - India has 43 WHS (2024–25)
 - Tentative List = nomination pipeline
@@ -371,7 +371,7 @@ TRAPS:
 
 ### UNESCO Intangible Cultural Heritage — How It Works
 
-- **2003 Intangible Heritage Convention** — why created:
+- **2003 Intangible Heritage Convention** was created because:
   - **1972 World Heritage Convention** could not protect **Ramlila, Vedic chanting, craft skills**.
   - Globalisation + urbanisation accelerated **cultural extinction**.
   - Convention emphasises **safeguarding through community participation**, not freezing traditions.
@@ -384,12 +384,12 @@ TRAPS:
   | **Urgent Safeguarding List** | Heritage **threatened with extinction** — needs emergency action | India has **few/none** prominently examined (focus Representative List) |
 
 - **Safeguarding measures** (Convention Article 2):
-  - **Documentation** — audio-visual archives.
-  - **Transmission programmes** — guru-shishya, school workshops.
-  - **Legal protection** — national heritage laws.
-  - **Funding** — grants to practitioner communities.
-  - **Education** — include ICH in curricula.
-  - **Trap**: Safeguarding ≠ **fossilising** — traditions must **evolve** while maintaining core identity.
+  - **Documentation**. Audio-visual archives.
+  - **Transmission programmes**. Guru-shishya, school workshops.
+  - **Legal protection**. National heritage laws.
+  - **Funding**. Grants to practitioner communities.
+  - **Education**. Include ICH in curricula.
+  - **Trap**: **Safeguarding ≠ fossilising**. Traditions must **evolve** while maintaining core identity.
 
 - **Inscription process**:
   1. State Party submits nomination with **community consent**.
@@ -399,17 +399,17 @@ TRAPS:
 
 - **Global context**:
   - **700+ elements** on Representative List worldwide.
-  - **India among active nominators** — Yoga, Kumbh, Garba successes.
-  - **Multinational elements possible** — Nawrouz shared by several countries including India.
+  - **India among active nominators**. Yoga, Kumbh, Garba successes.
+  - **Multinational elements possible**. Nawrouz shared by several countries including India.
 
 - **Key intangible heritage days**:
-  - **17 October** — anniversary of 2003 Convention adoption (Intangible Heritage related observance).
-  - **18 April** — **World Heritage Day** (tangible focus — ICOMOS) — UPPCS 2024 chronology question pattern.
+  - **17 October** marks the **2003** anniversary of Convention adoption (Intangible Heritage related observance).
+  - **18 April** includes **World Heritage Day** (tangible focus. ICOMOS). UPPCS 2024 chronology question pattern.
 
 - **Relationship to Indian policy**:
-  - **Ministry of Culture** — nodal for UNESCO culture conventions.
-  - **Sangeet Natak Akademi + IGNCA** — documentation partners.
-  - **Ek Bharat Shreshtha Bharat** — promotes interstate intangible exchange.
+  - **Ministry of Culture**. Nodal for UNESCO culture conventions.
+  - **Sangeet Natak Akademi + IGNCA**. Documentation partners.
+  - **Ek Bharat Shreshtha Bharat**. It promotes interstate intangible exchange.
 
 - **Intangible vs World Heritage comparison**:
 
@@ -468,7 +468,7 @@ TRAPS:
 
 ### UNESCO World Heritage Sites in India — How It Works
 
-- **India's World Heritage portfolio** — **43 sites** across **cultural (34), natural (7), mixed (1), serial (1 multi-property)** categories (2024–25 count).
+- **India's World Heritage portfolio** stood at **43 sites in 2024**. **43 sites** across **cultural (34), natural (7), mixed (1), serial (1 multi-property)** categories (–25 count).
 - **Complete inscribed list** (year of inscription):
 
   | # | Site | State/UT | Year | Type |
@@ -519,25 +519,25 @@ TRAPS:
 
   *Note: UNESCO counts serial properties (Mountain Railways, Western Ghats, Le Corbusier, Hill Forts) as single entries though multi-location.*
 
-- **State-wise high-count states**: **Maharashtra, Tamil Nadu, Karnataka, Rajasthan** — multiple sites each.
-- **UP has exactly 3 WHS** — **Taj Mahal, Agra Fort, Fatehpur Sikri** — no more, no less (exam trap: Varanasi, Sarnath, Lucknow NOT inscribed).
+- **State-wise high-count states**: **Maharashtra, Tamil Nadu, Karnataka, Rajasthan**. Multiple sites each.
+- **UP has exactly 3 WHS**.
 
 - **Recent inscriptions (high exam priority)**:
   - **2023**: **Santiniketan** (Tagore's university town, WB) + **Hoysala temples** (Halebidu, Belur, Somnathapura, Karnataka).
   - **2021**: **Dholavira** (IVC Gujarat) + **Ramappa Temple** (Telangana).
-  - **2016**: **Nalanda Mahavihara** (Bihar) — ancient university ruins.
+  - **2016**: **Nalanda Mahavihara** (Bihar). Ancient university ruins.
 
 - **Natural WHS India (7 standalone natural + Western Ghats serial)**:
   - Kaziranga, Manas, Keoladeo, Sundarbans, Nanda Devi/Valley of Flowers, Great Himalayan NP, Western Ghats.
-  - **Trap**: Kaziranga = **natural**, NOT cultural — criteria x rhino habitat.
+  - **Trap**: **Kaziranga = **natural**, NOT cultural**. Criteria x rhino habitat.
 
-- **Tentative List India** (not yet inscribed — negative trap):
-  - **Varanasi/Ghats**, **Delhi Mughal Gardens**, **Silk Road sites**, **Qutb Shahi tombs Hyderabad** (some later inscribed), **Cellular Jail** — exams test "NOT yet WHS."
+- **Tentative List India** (not yet inscribed. Negative trap):
+  - **Varanasi/Ghats**, **Delhi Mughal Gardens**, **Silk Road sites**, **Qutb Shahi tombs Hyderabad** (some later inscribed), **Cellular Jail**. Exams test "NOT yet WHS.".
 
 - **Ramsar vs WHS distinction (UPPCS 2025 Q58 overlap)**:
-  - **Sultanpur NP** = Ramsar in **Haryana** — NOT WHS, NOT in UP.
-  - **Rudrasagar Lake** = Ramsar in **Tripura** — NOT in UP.
-  - **Samaspur, Sarsai Nawar** = Ramsar in **UP** — still NOT UNESCO WHS.
+  - **Sultanpur NP** = Ramsar in **Haryana**. NOT WHS, NOT in UP.
+  - **Rudrasagar Lake** = Ramsar in **Tripura**. NOT in UP.
+  - **Samaspur, Sarsai Nawar** = Ramsar in **UP**. Still NOT UNESCO WHS.
   - Ramsar designation ≠ World Heritage inscription (different treaties).
 
 > **Exam note:** **UP = only 3 WHS (Taj, Agra Fort, Fatehpur Sikri)** | **Varanasi NOT inscribed** | **Dholavira 2021 Gujarat** — three most-tested India WHS traps.
@@ -588,7 +588,7 @@ TRAPS:
 
 ### UNESCO Intangible Heritage List (India) — How It Works
 
-- **India's complete Representative List** (all 15 elements — no gaps):
+- **India's complete Representative List** (all 15 elements. No gaps):.
 
   | # | Element | Year inscribed | Region/state |
   |---|---------|----------------|--------------|
@@ -620,10 +620,10 @@ TRAPS:
   | **Himalayan** | Buddhist chanting Ladakh |
 
 - **UP-relevant intangible heritage**:
-  - **Ramlila (2008)** — **only UP-focused intangible inscription** — Braj, Varanasi, Ayodhya, Ramnagar traditions.
-  - **Kumbh Mela (2017)** — **Prayagraj (UP)** is primary site among four rotation cities.
-  - **Vedic chanting + Yoga** — pan-India, not UP-specific.
-  - **NOT inscribed**: **Nautanki, Braj Holi, Chhath** — trap in "which is NOT listed."
+  - **Ramlila (2008)** includes **only UP-focused intangible inscription**. Braj, Varanasi, Ayodhya, Ramnagar traditions.
+  - **Kumbh Mela (2017)**. **Prayagraj (UP)** is primary site among four rotation cities.
+  - **Vedic chanting + Yoga**. Pan-India, not UP-specific.
+  - **NOT inscribed**: **Nautanki, Braj Holi, Chhath**. Common trap in "which is NOT listed" questions.
 
 - **Chronology chain (exam)**:
   - **2001** Kutiyattam (India's first intangible inscription among early batch).
@@ -633,15 +633,15 @@ TRAPS:
   - **2021** Durga Puja.
   - **2023** Garba (most recent).
 
-- **Multinational element**: **Nawrouz** — New Year festival shared by Iran, Afghanistan, Central Asia, and **Indian communities** — inscribed jointly.
+- **Multinational element**: **Nawrouz**. New Year festival shared by Iran, Afghanistan, Central Asia, and **Indian communities**. It inscribed jointly.
 
 - **What India has NOT inscribed (common wrong options)**:
   - **Bharatanatyam, Kathak, Kathakali** (as individual named items).
-  - **Diwali, Holi** (as generic festivals — unlike Garba specific form).
-  - **Nautanki** (UP folk theatre — not listed).
+  - **Diwali, Holi** (as generic festivals. Unlike Garba specific form).
+  - **Nautanki** (UP folk theatre. Not listed).
   - **Taj Mahal** (tangible WHS, not intangible).
 
-- **Urgent Safeguarding List**: India has **not prominently featured** in UPSC/UPPCS questions on Urgent List — focus remains **Representative List 15 elements**.
+- **Urgent Safeguarding List**: India has **not prominently featured** in UPSC/UPPCS questions on the Urgent List. Exam focus remains on the **Representative List's 15 elements**.
 
 > **Exam note:** **Full 15-element list** must be recallable | **Ramlila = UP** | **Garba 2023 = latest** | **Bharatanatyam NOT listed**.
 
@@ -649,12 +649,12 @@ TRAPS:
 
 - India = 15 intangible Representative List elements
 - First major: Kutiyattam 2001
-- Ramlila 2008 — UP-North India
-- Chhau 2010 — eastern India
+- **Ramlila 2008**. UP-North India.
+- **Chhau 2010**. Eastern India.
 - Yoga 2016 pan-India
-- Kumbh Mela 2017 — Prayagraj key site
+- **Kumbh Mela 2017**. Prayagraj key site.
 - Durga Puja 2021 Kolkata
-- Garba 2023 — latest inscription
+- **Garba 2023**. Latest inscription.
 - Nawrouz 2016 multinational
 - Bharatanatyam/Nautanki NOT on list
 

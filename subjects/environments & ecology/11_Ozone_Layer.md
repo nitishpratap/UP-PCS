@@ -141,16 +141,16 @@ KEY TRAPS:
 
 ### Ozone Layer — How It Works
 
-- **Ozone (O₃)** is a molecule of **three oxygen atoms** — distinct from atmospheric **O₂** (dioxygen) which makes up ~21% of air but does not absorb UV as effectively as O₃.
-- The **ozone layer** sits primarily in the **stratosphere** at altitudes of approximately **15–35 km**, with peak ozone concentration near **25 km** — this is why stratosphere temperature **increases with height** (ozone absorbs UV energy).
-- **Natural ozone formation** follows the **Chapman cycle**: UV-C splits O₂ → 2O; O + O₂ → O₃. UV also destroys O₃ back to O₂ + O — under natural conditions these processes balance.
-- **Ozone absorbs UV radiation** and converts it to heat — this shields Earth's surface from biologically damaging wavelengths, particularly **UV-B** (280–320 nm).
-- **UV radiation types**: **UV-A** (320–400 nm) largely reaches surface (aging, tanning); **UV-B** (280–320 nm) mostly blocked by O₃ (sunburn, skin cancer, cataracts, crop damage); **UVC** (100–280 nm) completely absorbed by O₃ and O₂ — never reaches surface under normal conditions.
-- **Column ozone** is measured in **Dobson Units (DU)** — 1 DU = 0.01 mm thickness of pure ozone at standard temperature and pressure; global average ≈ **300 DU**.
-- **"Good ozone"** = stratospheric O₃ (UV shield). **"Bad ozone"** = tropospheric/ground-level O₃ formed from **NOx + VOCs + sunlight** — respiratory pollutant and GHG (Topic 9 overlap). Same molecule, **different location, opposite impact**.
-- **Ozone is a trace gas** — even in the "ozone layer," maximum concentration is only ~**10 parts per million (ppm)**; the layer is defined by **total column abundance**, not a thick physical shell.
+- **Ozone (O₃)** is a molecule of **three oxygen atoms**, unlike atmospheric **O₂** (dioxygen), which makes up ~21% of air but absorbs UV less effectively than O₃.
+- The **ozone layer** sits primarily in the **stratosphere** at approximately **15–35 km**, with peak concentration near **25 km**. Ozone absorbs UV energy and releases heat, which is why stratosphere temperature **increases with height**.
+- **Natural ozone formation** follows the **Chapman cycle**: UV-C splits O₂ into oxygen atoms that combine with O₂ to form O₃, while UV also breaks O₃ back into O₂ and O. Under natural conditions these formation and destruction processes stay balanced.
+- **Ozone absorbs UV radiation** and converts it to heat, shielding Earth's surface from biologically damaging wavelengths, especially **UV-B** (280–320 nm).
+- **UV-A** (320–400 nm) largely reaches the surface and causes aging and tanning. **UV-B** (280–320 nm) is mostly blocked by O₃ and can cause sunburn, skin cancer, cataracts, and crop damage. **UVC** (100–280 nm) is fully absorbed by O₃ and O₂ and does not reach the surface under normal conditions.
+- **Column ozone** is measured in **Dobson Units (DU)**, where 1 DU equals 0.01 mm of pure ozone at standard temperature and pressure. The global average is approximately **300 DU**.
+- **"Good ozone"** is stratospheric O₃ that shields against UV. **"Bad ozone"** is tropospheric ground-level O₃ formed from **NOx, VOCs, and sunlight**, and acts as a respiratory pollutant and GHG (Topic 9 overlap). It is the same molecule with **opposite impact depending on location**.
+- **Ozone is a trace gas**. Even in the "ozone layer," maximum concentration is only ~**10 parts per million (ppm)**, and the layer is defined by **total column abundance**, not a thick physical shell.
 - **Atmosphere layer trap**: Weather, clouds, rain = **troposphere** (0–12 km). UV-blocking ozone = **stratosphere** (12–50 km). Statement "ozone layer is in troposphere" = **FALSE**.
-- **Without the ozone layer**, UV-B and UV-C would reach Earth's surface at lethal levels — suppressing photosynthesis, damaging DNA, increasing skin cancer and cataracts, and disrupting marine plankton productivity.
+- **Without the ozone layer**, UV-B and UV-C would reach Earth's surface at lethal levels, suppressing photosynthesis, damaging DNA, increasing skin cancer and cataracts, and disrupting marine plankton productivity.
 
 > **Exam note:** UPPCS 2025 Q45 Statement 1 — "ozone layer protects Earth's surface from ultraviolet radiation" = **TRUE**. Trap: students confuse **greenhouse effect** (IR trapping by CO₂) with **ozone protection** (UV absorption) — different radiation bands, different gases.
 
@@ -173,7 +173,7 @@ KEY TRAPS:
 
 ### Exam Facts (raata)
 
-- O₃ = triatomic oxygen; formula **O₃**
+- O₃ is triatomic oxygen with formula **O₃**.
 - Ozone layer altitude: **15–35 km** (stratosphere)
 - Peak concentration: ~**25 km** altitude
 - Global average column ozone: ~**300 DU**
@@ -217,16 +217,16 @@ KEY TRAPS:
 
 ### Ozone Depletion — How It Works
 
-- **Natural ozone levels fluctuate** with seasons, solar cycles, and volcanic aerosols — but pre-1980s anthropogenic interference created **sustained net decline** not explained by natural variability alone.
+- **Natural ozone levels fluctuate** with seasons, solar cycles, and volcanic aerosols, but pre-1980s anthropogenic interference created a **sustained net decline** not explained by natural variability alone.
 - **Ozone-Depleting Substances (ODS)** are human-made chemicals containing **chlorine and/or bromine** that reach the stratosphere and release free radicals through UV photolysis.
-- **CFCs (chlorofluorocarbons)** were widely used as **refrigerants, aerosol propellants, foam-blowing agents, and solvents** — chemically stable in troposphere (no rain washout), survive 50–100+ years, eventually transported to stratosphere.
-- In stratosphere, **UV breaks CFC bonds** → releases **chlorine atoms (Cl·)** → Cl· + O₃ → ClO + O₂ → ClO + O → Cl· + O₂ (catalytic cycle) — **one Cl atom destroys up to ~100,000 O₃ molecules** before removal.
-- **Bromine from halons** (fire suppressants) is **even more destructive per atom** than chlorine — used in aviation and military fire systems.
-- **Rowland-Molina hypothesis (1974)** predicted stratospheric ozone loss from CFCs — initially controversial; later confirmed by Antarctic observations; Nobel Prize in Chemistry 1995.
-- **Other major ODS**: **Carbon tetrachloride (CCl₄)** — solvent; **methyl bromide (CH₃Br)** — pesticide/soil fumigant; **HCFCs** — transitional substitutes (lower ODP but still depleting); **halons** — fire extinguishers.
-- **Health impacts of depletion**: Increased **UV-B** → higher **skin cancer (melanoma, non-melanoma)**, **cataracts**, **immunosuppression**; crop damage (rice, wheat, soy); phytoplankton reduction affecting marine food chains.
-- **Recovery trend**: Because of Montreal Protocol, global ODS emissions fell ~99% since 1990s; WMO/UNEP projects **near-global return to 1980 levels by ~2040** for mid-latitudes and **~2066 for Antarctic** — proof that international environmental law can work.
-- **Distinguish depletion from greenhouse effect**: ODS destroy O₃ (UV issue); CO₂/CH₄ trap IR (warming issue) — CFCs are also potent GHGs, but Montreal controls them for **ozone**, not climate.
+- **CFCs (chlorofluorocarbons)** were widely used as **refrigerants, aerosol propellants, foam-blowing agents, and solvents**. They are chemically stable in the troposphere (no rain washout), survive 50–100+ years, and are eventually transported to the stratosphere.
+- In the stratosphere, **UV breaks CFC bonds** and releases **chlorine atoms (Cl·)** that enter a catalytic cycle (Cl· + O₃ forms ClO + O₂, then ClO + O regenerates Cl·). **One Cl atom destroys up to ~100,000 O₃ molecules** before removal.
+- **Bromine from halons** (fire suppressants) is **even more destructive per atom** than chlorine and is used in aviation and military fire systems.
+- **Rowland-Molina hypothesis (1974)** predicted stratospheric ozone loss from CFCs. It was initially controversial but later confirmed by Antarctic observations and earned the Nobel Prize in Chemistry in 1995.
+- **Other major ODS** include **carbon tetrachloride (CCl₄)** as a solvent, **methyl bromide (CH₃Br)** as a pesticide/soil fumigant, **HCFCs** as transitional substitutes with lower ODP but still depleting, and **halons** in fire extinguishers.
+- **Health impacts of depletion** include increased **UV-B** exposure, which raises **skin cancer (melanoma, non-melanoma)**, **cataracts**, and **immunosuppression**, plus crop damage (rice, wheat, soy) and phytoplankton reduction affecting marine food chains.
+- **Recovery trend**: Because of the Montreal Protocol, global ODS emissions fell ~99% since the 1990s. WMO/UNEP projects **near-global return to 1980 levels by ~2040** for mid-latitudes and **~2066 for Antarctic**, showing that international environmental law can work.
+- **Distinguish depletion from the greenhouse effect**: ODS destroy O₃ (a UV issue), while CO₂/CH₄ trap IR (a warming issue). CFCs are also potent GHGs, but Montreal controls them for **ozone**, not climate.
 
 > **Exam note:** UPPCS 2025 Q45 Statement 2 — "Ozone depletion linked to CFCs" = **TRUE**. Trap: "CFCs cause global warming primarily" — true as GHGs but **exam context for ozone topic** = UV depletion mechanism, not IR trapping.
 
@@ -245,14 +245,14 @@ KEY TRAPS:
 
 ### Exam Facts (raata)
 
-- CFCs release **Cl·** in stratosphere — catalytic O₃ destruction
-- 1 Cl atom destroys up to **~100,000 O₃ molecules**
-- Rowland-Molina hypothesis: **1974**; Nobel **1995**
-- Halons contain **bromine** — more destructive per atom than chlorine
-- ODS are stable in troposphere → reach stratosphere over years
-- Montreal reduced ODS emissions ~**99%** since peak
-- Recovery: mid-latitudes ~**2040**; Antarctic ~**2066** (WMO 2022 assessment)
-- HCFCs = transitional substitutes — still ODS, lower ODP
+- CFCs release **Cl·** in the stratosphere, triggering catalytic O₃ destruction.
+- 1 Cl atom destroys up to **~100,000 O₃ molecules**.
+- Rowland-Molina hypothesis dates to **1974**, and the Nobel Prize followed in **1995**.
+- Halons contain **bromine**, which is more destructive per atom than chlorine.
+- ODS are stable in the troposphere and reach the stratosphere over years.
+- Montreal reduced ODS emissions ~**99%** since peak.
+- Recovery is projected around **2040** for mid-latitudes and **2066** for Antarctic (WMO 2022 assessment).
+- HCFCs are transitional substitutes that remain ODS with lower ODP.
 - Methyl bromide = agricultural ODS with critical-use exemptions
 - Ozone depletion ≠ enhanced greenhouse effect (different mechanism)
 
@@ -287,16 +287,16 @@ KEY TRAPS:
 
 ### Ozone Hole — How It Works
 
-- The **"ozone hole"** is **not a physical hole** in the atmosphere — it is a **region where stratospheric ozone column drops below 220 DU**, allowing abnormally high UV-B to reach the surface below.
-- **Antarctic-specific**: The phenomenon is **most severe over Antarctica** — not because ODS are emitted there, but because **unique polar conditions** concentrate depletion chemistry.
-- **Polar vortex** — a ring of strong stratospheric winds isolates Antarctic air during winter darkness, trapping ODS and enabling extreme cold (**−80°C** in stratosphere).
-- **Polar Stratospheric Clouds (PSCs)** form at these temperatures — ice/nitric acid surfaces enable **chlorine activation** (inactive HCl/ClONO₂ converted to reactive Cl₂/ClO that destroys ozone).
-- **Spring sunrise** (September–October Southern Hemisphere) triggers **photochemical ozone destruction** — ozone plummets rapidly when sunlight returns; hole **grows through spring**, recovers by **December** (Southern summer).
-- **Discovered 1985** by **Farman, Gardiner, and Shanklin** (British Antarctic Survey) over Halley Bay station — shocked scientific community; accelerated Montreal Protocol negotiations.
-- **Arctic depletion** occurs occasionally (cold winters) but is **less severe and less regular** than Antarctic — no permanent "Arctic ozone hole" equivalent; Arctic vortex is warmer and less stable.
-- **Size varies annually** — influenced by stratospheric temperature, volcanic aerosols, and remaining ODS loading; maximum area historically exceeded **25 million km²** (larger than Antarctica itself).
-- **Recovery signs**: Since Montreal Protocol, **peak depletion severity is declining** — 2022 WMO assessment notes hole duration and depth reducing; full recovery to 1980 levels expected ~**2066** for Antarctic.
-- **India/UP relevance**: India is not under the hole, but **global ozone thinning** raised UV-B at all latitudes in 1980s–2000s; Himalayan populations face **compound UV risk** (altitude + any column reduction).
+- The **"ozone hole"** is **not a physical hole** in the atmosphere. It is a **region where the stratospheric ozone column drops below 220 DU**, allowing abnormally high UV-B to reach the surface below.
+- **Antarctic-specific**: The phenomenon is **most severe over Antarctica** not because ODS are emitted there, but because **unique polar conditions** concentrate depletion chemistry.
+- The **polar vortex** is a ring of strong stratospheric winds that isolates Antarctic air during winter darkness, trapping ODS and enabling extreme cold (**−80°C** in the stratosphere).
+- **Polar Stratospheric Clouds (PSCs)** form at these temperatures. Their ice/nitric acid surfaces enable **chlorine activation** as inactive HCl/ClONO₂ converts to reactive Cl₂/ClO that destroys ozone.
+- **Spring sunrise** (September–October in the Southern Hemisphere) triggers **photochemical ozone destruction**. Ozone plummets when sunlight returns, the hole **grows through spring**, and recovery begins by **December** (Southern summer).
+- **Discovered in 1985** by **Farman, Gardiner, and Shanklin** (British Antarctic Survey) over Halley Bay station, the finding shocked the scientific community and accelerated Montreal Protocol negotiations.
+- **Arctic depletion** occurs occasionally during cold winters but is **less severe and less regular** than Antarctic. There is no permanent "Arctic ozone hole" equivalent because the Arctic vortex is warmer and less stable.
+- **Size varies annually** depending on stratospheric temperature, volcanic aerosols, and remaining ODS loading. Maximum area historically exceeded **25 million km²**, larger than Antarctica itself.
+- **Recovery signs**: Since the Montreal Protocol, **peak depletion severity is declining**. The 2022 WMO assessment notes reduced hole duration and depth, with full recovery to 1980 levels expected around **2066** for Antarctic.
+- **India/UP relevance**: India is not under the hole, but **global ozone thinning** raised UV-B at all latitudes in the 1980s–2000s. Himalayan populations face **compound UV risk** from altitude plus any column reduction.
 
 > **Exam note:** "Ozone hole occurs over the Arctic every winter" = **FALSE** — primary, severe, recurring hole is **Antarctic spring**. Trap: "Ozone hole is permanent year-round" = **FALSE** — seasonal, largely Sep–Nov (Southern spring).
 
@@ -316,10 +316,10 @@ KEY TRAPS:
 - Ozone hole threshold: **< 220 DU**
 - Location: primarily **Antarctica** (not Arctic)
 - Season: **Southern Hemisphere spring** (Sep–Oct)
-- Discovered: **1985** — British Antarctic Survey (Farman et al.)
+- Discovered in **1985** by the British Antarctic Survey (Farman et al.).
 - Polar Stratospheric Clouds (PSCs) enable chlorine activation
 - Polar vortex isolates cold Antarctic stratospheric air
-- Not a physical atmospheric hole — chemical depletion region
+- Not a physical atmospheric hole but a region of chemical depletion.
 - Arctic depletion less severe and less regular
 - Recovery projected ~**2066** for Antarctic (WMO)
 - Hole closes by Southern summer (Dec–Jan)
@@ -357,16 +357,16 @@ KEY TRAPS:
 
 ### Montreal Protocol — How It Works
 
-- **Vienna Convention (1985)** established the **legal and scientific framework** — parties agreed ozone layer must be protected; created cooperation on research and monitoring but **no binding reduction targets**.
-- **Montreal Protocol (1987)** added **legally binding phase-out schedules** for ODS — adopted **16 September 1987** (why **International Ozone Day = 16 September**).
-- **Annex A substances** (original): **CFCs** and **halons** — first priority phase-out groups with differentiated timelines for developed vs developing countries (**common but differentiated responsibilities**).
-- **Subsequent amendments** expanded controlled substances and accelerated timelines: **London (1990)**, **Copenhagen (1992)**, **Montreal (1997)**, **Beijing (1999)** — each added ODS categories or advanced deadlines.
-- **Multilateral Fund for the Implementation of the Montreal Protocol (1991)** — developed countries finance developing country transition to ODS-free technologies; India is a **recipient and implementer**.
-- **India ratified** the Montreal Protocol in **1992**; **Ozone Cell** established under **MoEFCC** coordinates national compliance; **CFC production phased out by 2010**; **HCFC phase-out by 2030** (consumption freeze 2020).
-- **Universal ratification achieved (2009)** — **only UN treaty ratified by every country** — reflects broad consensus on ozone science and manageable economic transition.
-- **Kigali Amendment (2016)** — extends Montreal framework to phase down **HFCs** (hydrofluorocarbons) — **not ODS** (no ozone depletion) but **high GWP** refrigerants; India to begin phasedown from **2028** with complete phase-down by **2047**.
-- **Enforcement mechanism**: Trade restrictions on ODS with non-parties; annual reporting; Technology and Economic Assessment Panel (TEAP) reviews alternatives; non-compliance procedure encourages rather than punishes.
-- **Success metrics**: ODS atmospheric concentrations declining since mid-1990s; ozone layer recovery underway; estimated **2 million skin cancer cases avoided annually by 2030** (UNEP); model for climate negotiations.
+- **Vienna Convention (1985)** established the **legal and scientific framework**. Parties agreed the ozone layer must be protected and created cooperation on research and monitoring, but set **no binding reduction targets**.
+- **Montreal Protocol (1987)** added **legally binding phase-out schedules** for ODS and was adopted on **16 September 1987**, which is why **International Ozone Day = 16 September**.
+- **Annex A substances** (original) were **CFCs** and **halons**, the first priority phase-out groups with differentiated timelines for developed vs developing countries under **common but differentiated responsibilities**.
+- **Subsequent amendments** expanded controlled substances and accelerated timelines: **London (1990)**, **Copenhagen (1992)**, **Montreal (1997)**, and **Beijing (1999)** each added ODS categories or advanced deadlines.
+- The **Multilateral Fund for the Implementation of the Montreal Protocol (1991)** lets developed countries finance developing-country transition to ODS-free technologies. India is both a **recipient and implementer**.
+- **India ratified** the Montreal Protocol in **1992**. The **Ozone Cell** under **MoEFCC** coordinates national compliance, **CFC production was phased out by 2010**, and **HCFC phase-out targets 2030** (with consumption freeze in 2020).
+- **Universal ratification was achieved in 2009**. It is the **only UN treaty ratified by every country**, reflecting broad consensus on ozone science and a manageable economic transition.
+- The **Kigali Amendment (2016)** extends the Montreal framework to phase down **HFCs** (hydrofluorocarbons). HFCs are **not ODS** (no ozone depletion) but are **high-GWP** refrigerants. India will begin phasedown from **2028** with complete phase-down by **2047**.
+- **Enforcement mechanism**: Trade restrictions on ODS with non-parties, annual reporting, Technology and Economic Assessment Panel (TEAP) reviews of alternatives, and a non-compliance procedure that encourages rather than punishes.
+- **Success metrics**: ODS atmospheric concentrations have declined since the mid-1990s, ozone layer recovery is underway, UNEP estimates **2 million skin cancer cases avoided annually by 2030**, and the Protocol serves as a model for climate negotiations.
 
 > **Exam note:** UPPCS 2024 Q35 — "Montreal Protocol related to climate change mitigation?" = **FALSE** — Montreal = **ozone/ODS**. **Kyoto Protocol** = climate. Trap: both are atmospheric treaties but **different targets, different years, different gases**.
 
@@ -399,9 +399,9 @@ KEY TRAPS:
 - Montreal Protocol = **1987** (binding ODS control)
 - International Ozone Day = **16 September** (Montreal signing date)
 - Only treaty **universally ratified** by all UN members
-- Multilateral Fund = **1991** — aids developing country transition
+- Multilateral Fund was established in **1991** to aid developing-country transition.
 - ODS emissions reduced ~**99%** since 1990 peak
-- Kigali Amendment = **2016** — HFC phase-down (not ODS)
+- Kigali Amendment (**2016**) phases down HFCs, which are not classic ODS.
 - India CFC phase-out = **2010** | HCFC = **2030**
 - Montreal ≠ Kyoto (ozone vs climate)
 - TEAP = Technology and Economic Assessment Panel

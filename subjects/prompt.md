@@ -14,8 +14,8 @@ Use this file to instruct any AI (or yourself) when creating or restructuring to
 ```
 Create/restructure Topic N in @subjects/[subject]/ using @subjects/prompt.md + @00_Syllabus.md + subject Topic 1 gold standard + @pyq/.
 Run Phase A→B→C from prompt.md. **Phase A Step 4: run full UPPCS PYQ search protocol (§UPPCS PYQ Search & Addition Protocol) — grep all `pyq/` files for years 2018–2025 + RO-ARO, list every hit, add all to topic file.**
-Self-verify (F1–F15). Output Delivery Report with PYQ audit table + "File ready: YES".
-Match Topic 1 depth. No etc. in lists. One topic only. Wait for approval before next.
+Self-verify (F1–F16). Output Delivery Report with PYQ audit table + "File ready: YES".
+Match Topic 1 depth. Use full-sentence bullets, not label-fragments or semicolon chains. No etc. in lists. One topic only. Wait for approval before next.
 ```
 
 ---
@@ -180,6 +180,7 @@ If **any** of these are true, the file is **NOT complete**:
 | F13 | "See Topic X" appears anywhere |
 | F14 | Must-Know Term Comparisons missing Hindi column |
 | F15 | Fewer than 10 Common Traps (15 for Topics 4, 9, 17, 24) |
+| F16 | Any explanatory bullet uses fragment style such as `Author: X. Fragment; fragment`, `Ruler: title; conquest; temple`, semicolon-chain notes, dash-chain notes (`Title — fact — trap`), or arrow-chain notes (`A → B → C`) instead of complete sentences |
 
 ---
 
@@ -199,7 +200,7 @@ After Phase C passes, output this table to the student — **no manual cross-che
 | 2025 overlap in prose | ✅ | [Q numbers → sections] |
 | Practice Zone count + format mix | ✅ | [N questions; X% multi-statement] |
 | UP Focus included | ✅/N/A | |
-| Automatic fail conditions (F1–F15) | ✅ 0 failures | |
+| Automatic fail conditions (F1–F16) | ✅ 0 failures | |
 | Gold standard diff vs Topic 1 structure | ✅ | [same skeleton] |
 
 **Deliberately excluded (other topics):** [list OUT-of-scope concepts]
@@ -278,6 +279,23 @@ UPPCS does **not** ask "umbrella law for pollution?" as a one-liner. It asks:
 
 **Reject:** Single 150-word paragraph with 6 bold terms.  
 **Accept:** 10 bullets, each 1–2 lines, same facts, easier to raata.
+
+### Full-Sentence Bullet Rule (mandatory — no fragment notes)
+
+Every bullet in `How It Works`, `Exam Facts`, `Common Traps`, and consolidated prose sections must be a complete sentence or two short complete sentences. Lucent-style means concise, not telegraphic.
+
+| Reject | Accept |
+|--------|--------|
+| `- **Author:** Nuruddin Jahangir himself. Personal observations; continued memoir tradition from Baburnama.` | `- **Author:** **Nuruddin Jahangir** wrote Tuzuk-i-Jahangiri himself. The work records his personal observations and continues the memoir tradition started by **Baburnama**.` |
+| `- **Rajaraja I:** Conquered Madurai, Sri Lanka, Maldives; built Brihadishwara.` | `- **Rajaraja I** conquered **Madurai**, northern **Sri Lanka**, and the **Maldives**. He built the **Brihadishwara Temple** at Tanjore in **1010 CE**.` |
+| `- **Language:** Persian. Court norm by 17th c.` | `- **Language:** The work was written in **Persian**, which had become the normal Mughal court language by the early 17th century.` |
+
+**Hard rules:**
+- Do not use semicolons (`;`) to pack separate facts into one bullet.
+- Do not use dash chains (`—`) or arrow chains (`→`) to pack separate facts into one bullet.
+- Do not write sentence fragments after a label, such as `Capital: Delhi. Important trade centre.`
+- If a bullet has multiple facts, split them into 1–2 complete sentences with clear subjects and verbs.
+- Tables and Quick Revision code blocks may stay compact, but explanatory bullets must pass this rule.
 
 ---
 
@@ -480,7 +498,7 @@ Restructure @[topic_file].md using @subjects/prompt.md, @00_Syllabus.md, @01_Env
 MANDATORY WORKFLOW (from prompt.md — do not skip):
 Phase A: Pre-audit → syllabus list, NCERT map, PYQ list, boundary table, concept inventory
 Phase B: Write full file matching Topic 1 depth
-Phase C: Post-audit → run F1–F15 fail conditions + Quality Checklist; fix all gaps
+Phase C: Post-audit → run F1–F16 fail conditions + Quality Checklist; fix all gaps
 
 Rules:
 1. List every subtopic from 00_Syllabus.md — map each to N.X (no skips).
@@ -909,7 +927,7 @@ Each framework: **Question title → Structure (word count) → 5–7 bullet poi
 
 ## Quality Checklist (Phase C — before marking a topic "complete")
 
-> This checklist is run **by the AI automatically**. Every item must pass; map failures to §Automatic Fail Conditions (F1–F15).
+> This checklist is run **by the AI automatically**. Every item must pass; map failures to §Automatic Fail Conditions (F1–F16).
 
 ### Syllabus coverage
 - [ ] Every `00_Syllabus.md` bullet for this topic has a dedicated N.X (or N.X.Y) section **(F1)**
@@ -981,7 +999,7 @@ Phase B — WRITE
   Step 9: Write/restructure ONE topic — all N.X sections, Consolidated Ref, Practice, etc.
 
 Phase C — POST-AUDIT (before presenting)
-  Step 10: Run Automatic Fail Conditions F1–F15
+  Step 10: Run Automatic Fail Conditions F1–F16
   Step 11: Run Quality Checklist — fix every failure
   Step 12: Output Delivery Report in chat → must show "File ready: YES"
   Step 13: Present to student → wait for approval before Topic N+1
@@ -1025,7 +1043,7 @@ Restructure environments & ecology/02_Ecology_and_Ecosystem.md using:
 
 Self-verify per prompt.md — I should NOT need to cross-check completeness.
 Phase A: boundary table + concept inventory before writing.
-Phase C: F1–F15 pass + Delivery Report "File ready: YES" (no audit tables in file).
+Phase C: F1–F16 pass + Delivery Report "File ready: YES" (no audit tables in file).
 No "etc." in any list. 2025 overlap in prose. UP Focus if applicable.
 Practice Zone: 40+ questions, UPPCS 2025 format.
 Work on Topic 2 only. Wait for my approval before Topic 3.
@@ -1042,7 +1060,7 @@ Create art and culture/01_Institutions_Related_to_Indian_Culture.md using:
 
 Self-verify per prompt.md — I should NOT need to cross-check completeness.
 Phase A: boundary table + concept inventory before writing.
-Phase C: F1–F15 pass + Delivery Report "File ready: YES" (no audit tables in file).
+Phase C: F1–F16 pass + Delivery Report "File ready: YES" (no audit tables in file).
 No "etc." in any list. UP Focus (Lucknow Museum, SNA, ASI HQ traps).
 Practice Zone: 30+ questions, UPPCS 2025 format.
 Work on Topic 1 only. Wait for my approval before Topic 2.

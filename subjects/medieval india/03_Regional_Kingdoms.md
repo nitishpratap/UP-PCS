@@ -144,15 +144,15 @@ BATTLE OF TALIKOTA (23 Jan 1565):
 
 ### Sharqi Kingdom — How It Works
 
-- **Origin:** After Timur's invasion (1398) weakened Delhi, **Malik Sarwar** (governor of Jaunpur under Tughlaqs) declared independence **~1394** and took title **Malik-us-Sharq** (Lord of the East).
-- **Geography:** Core territory in **eastern UP** — Jaunpur, Ghazipur, Banaras region; extent claimed from **Aligarh to Darbhanga**, Nepal foothills to Bundelkhand edges.
-- **UP relevance:** Jaunpur is a **UPPCS favourite** — only major medieval Indo-Islamic school **inside Uttar Pradesh** besides Delhi monuments.
-- **Political role:** Sharqi state **checked Bengal** and **contested Lodis** for control of the middle Ganga–Yamuna doab — part of post-Tughlaq balance of power.
-- **Ruler sequence:** Malik Sarwar → Mubarak Shah → **Shamsuddin Ibrahim Shah** (major builder) → Mahmud Shah → Muhammad Shah → **Hussain Shah** (last).
-- **Culture:** Patronised **Persian and Hindavi** literature; **Malik Muhammad Jaisi** composed **Padmavat** in Jaunpur intellectual milieu.
-- **Architecture:** Built **Atala Masjid**, **Lal Darwaza Masjid**, **Jami Masjid (Jaunpur)** — features **elevated plinths, pylon-like gateways, arched halls** without typical Persian minaret profile.
-- **Economy:** Ganga plain agriculture + river trade; Jaunpur city as craft and book-production centre.
-- **End:** **Bahlul Lodi** annexed Jaunpur **1484** after prolonged Lodi–Sharqi struggle — absorbed into Delhi Sultanate before Babur.
+- **Origin:** After Timur's invasion weakened Delhi in 1398, **Malik Sarwar** declared independence at Jaunpur around **1394** and took the title **Malik-us-Sharq** (Lord of the East).
+- **Geography:** The kingdom's core lay in **eastern UP**, especially Jaunpur, Ghazipur, and the Banaras region, though its claimed reach stretched from **Aligarh to Darbhanga** and from the Nepal foothills to Bundelkhand.
+- **UP relevance:** Jaunpur is a **UPPCS favourite** because it was the only major medieval Indo-Islamic school located **inside Uttar Pradesh** apart from Delhi's nearby monument zone.
+- **Political role:** The Sharqi state checked Bengal and contested the Lodis for the middle Ganga-Yamuna doab, making it a major post-Tughlaq regional power.
+- **Ruler sequence:** The main line ran from Malik Sarwar to Mubarak Shah, **Shamsuddin Ibrahim Shah**, Mahmud Shah, Muhammad Shah, and finally **Hussain Shah**.
+- **Culture:** The Sharqis patronised **Persian and Hindavi** literature, and **Malik Muhammad Jaisi** composed **Padmavat** in the Jaunpur intellectual milieu.
+- **Architecture:** Sharqi builders constructed **Atala Masjid**, **Lal Darwaza Masjid**, and **Jami Masjid (Jaunpur)** with elevated plinths, pylon-like gateways, and arched halls rather than the typical Persian minaret profile.
+- **Economy:** Jaunpur prospered on Ganga plain agriculture, river trade, crafts, and book production.
+- **End:** **Bahlul Lodi** annexed Jaunpur in **1484** after a prolonged Lodi-Sharqi struggle, bringing it back into the Delhi Sultanate sphere before Babur.
 
 > **Exam note:** **Lal Darwaza–Jaunpur** is **correctly matched** (2018 Q19); trap is **Tin Darwaza–Ahmedabad** — **Tin Darwaza belongs to Bidar Fort**, not Ahmedabad (which has **Teen Darwaza**).
 
@@ -169,13 +169,13 @@ BATTLE OF TALIKOTA (23 Jan 1565):
 
 ### Exam Facts (raata)
 
-- Sharqi capital = **Jaunpur** (eastern UP).
-- Founder = **Malik Sarwar**; title **Malik-us-Sharq**.
-- Jaunpur nickname = **Shiraz of the East**.
-- Key mosques = **Atala Masjid**, **Lal Darwaza Masjid**.
-- **Malik Muhammad Jaisi** — **Padmavat** — linked to Jaunpur.
-- Annexed by **Bahlul Lodi (1484)**.
-- Sharqi architecture = **large arches and gates**, not Delhi-style dominant minarets.
+- Sharqi capital is **Jaunpur** (eastern UP).
+- The founder was **Malik Sarwar**, who used the title **Malik-us-Sharq**.
+- Jaunpur was known as **Shiraz of the East**.
+- The key mosques are **Atala Masjid** and **Lal Darwaza Masjid**.
+- **Malik Muhammad Jaisi** and **Padmavat** are linked with the Jaunpur cultural milieu.
+- The Sharqi kingdom was annexed by **Bahlul Lodi in 1484**.
+- Sharqi architecture is **large arches and gates**, not Delhi-style dominant minarets.
 - **Atala Masjid** predates **Humayun's Tomb** and **Sher Shah's Tomb** (chronology trap).
 
 ### PYQs — Sharqi Kingdom
@@ -208,14 +208,14 @@ BATTLE OF TALIKOTA (23 Jan 1565):
 
 ### Rulers and States — How It Works
 
-- **Sharqi:** **Malik Sarwar** line at **Jaunpur** (1394–1484) — **UP** kingdom; ended by **Lodis**.
-- **Kashmir Sultanate:** Shah Mir founded Muslim rule **14th c.**; **Zain-ul-Abidin (1420–1470)** = high point under **Bud Shah**.
-- **Vijayanagara:** **Harihara I & Bukka I** founded **1336**; capital **Vijayanagara (Hampi)**; dynasties **Sangama → Saluva → Tuluva → Aravidu**.
-- **Bahmani:** **Hasan Gangu (Alauddin Bahman Shah)** founded **1347**; capitals **Gulbarga** then **Bidar**; minister **Mahmud Gawan**.
-- **Deccan Sultanates (from 1518):** Five successor states — **Bijapur (Adil Shahi)**, **Golkonda (Qutb Shahi)**, **Ahmadnagar (Nizam Shahi)**, **Bidar (Barid Shahi)**, **Berar (Imad Shahi)**.
-- **Conflict axis:** **Vijayanagara vs Bahmani** (14th–15th c.) → later **Vijayanagara vs Deccan confederacy** (Talikota 1565).
-- **UP angle:** Only **Sharqi/Jaunpur** lies in modern **Uttar Pradesh** among this topic's states — expect UP monument and cultural questions.
-- **Matching trap:** Students confuse **Bidar (Bahmani/Barid capital)** with **Bijapur (Adil Shahi)** — similar names, different sites.
+- **Sharqi:** The **Malik Sarwar** line ruled the **UP** kingdom of **Jaunpur** from 1394 to 1484 until the Lodis ended it.
+- **Kashmir Sultanate:** Shah Mir founded Muslim rule in Kashmir in the **14th century**, and **Zain-ul-Abidin (1420-1470)** marked its high point as **Bud Shah**.
+- **Vijayanagara:** **Harihara I and Bukka I** founded Vijayanagara in **1336**, ruled from **Hampi**, and were followed by the **Sangama, Saluva, Tuluva, and Aravidu** dynasties.
+- **Bahmani:** **Hasan Gangu (Alauddin Bahman Shah)** founded the Bahmani kingdom in **1347**, with **Gulbarga** and later **Bidar** as capitals and **Mahmud Gawan** as its famous minister.
+- **Deccan Sultanates (from 1518):** The Bahmani breakup produced five successor states: **Bijapur**, **Golkonda**, **Ahmadnagar**, **Bidar**, and **Berar**.
+- **Conflict axis:** The main conflict first ran between **Vijayanagara and Bahmani** power and later between **Vijayanagara and the Deccan confederacy** at Talikota in 1565.
+- **UP angle:** Among these states, only **Sharqi Jaunpur** lies in modern **Uttar Pradesh**, so UP monument and cultural questions are especially likely.
+- **Matching trap:** Students often confuse **Bidar**, the Bahmani and Barid capital, with **Bijapur**, the Adil Shahi centre.
 
 > **Exam note:** In "NOT matched" lists, check **monument–city** first (Tin Darwaza), then **book–region** (Riyaz-us-Salatin ≠ Gawan letters).
 
@@ -235,12 +235,12 @@ BATTLE OF TALIKOTA (23 Jan 1565):
 
 ### Exam Facts (raata)
 
-- **Jaunpur** = Sharqi; **Hampi** = Vijayanagara; **Bidar** = Bahmani later capital + Barid Shahi.
-- **Krishnadevaraya** = **Tuluva** dynasty, not Sangama founder.
-- **Hasan Gangu** = **Bahmani** founder (1347).
-- **Ibrahim Adil Shah II** = **Bijapur** — Kitab-i-Nauras.
-- **Abul Hasan Qutb Shah** = last Golkonda ruler (**1687**).
-- **Zain-ul-Abidin** = **Kashmir**, not Jaunpur or Deccan.
+- **Jaunpur** is Sharqi, **Hampi** is Vijayanagara, and **Bidar** is both the later Bahmani capital and the Barid Shahi centre.
+- **Krishnadevaraya** is **Tuluva** dynasty, not Sangama founder.
+- **Hasan Gangu** is **Bahmani** founder (1347).
+- **Ibrahim Adil Shah II** is **Bijapur** is Kitab-i-Nauras.
+- **Abul Hasan Qutb Shah** is last Golkonda ruler (**1687**).
+- **Zain-ul-Abidin** is **Kashmir**, not Jaunpur or Deccan.
 
 ### PYQs — Rulers and States
 
@@ -270,15 +270,15 @@ BATTLE OF TALIKOTA (23 Jan 1565):
 
 ### Zain-ul-Abidin — How It Works
 
-- **Context:** Preceded by **Sikandar Shah (1389–1413)** — orthodox phase with **forced conversions, temple destruction**, melting idols for coinage (influence of **Suha Bhatt**).
-- **Reversal:** Zain-ul-Abidin **deliberately reversed** intolerant policies — model often compared to **Akbar's later sulh-i-kul** (exam analogy, not identity).
-- **Religious policy:** **Abolished jaziya**; **banned cow slaughter**; **restored temples**; **recalled exiled Brahmins**; permitted **reconversion** to Hinduism.
-- **Administration:** Appointed Hindus including **Sriya Bhatt** as **Minister of Justice** and court physician — shared governance symbol.
-- **Cultural policy:** Patronised **Persian, Kashmiri, Sanskrit, Tibetan** learning; commissioned translation of **Mahabharata** and **Rajatarangini**.
-- **Economic revival:** Promoted **shawl weaving, papermaking, book-binding, stone-cutting, gold-beating, fireworks, musket-making** — broad craft base.
-- **Public works:** Built **dams, canals, bridges**; **Zaina Lanka** in Wular Lake — irrigation and prestige project.
-- **Military/diplomacy:** **Defeated Ladakh Mongols**; expanded influence over **Baltistan, Jammu, Rajauri** — secure frontiers enabled internal peace.
-- **Legacy:** Kashmir remembered him as **Bud Shah** — peak of medieval Kashmir Sultanate prosperity and composite culture.
+- **Context:** **Sikandar Shah (1389-1413)** preceded him with an orthodox phase marked by forced conversions, temple destruction, and the melting of idols for coinage under **Suha Bhatt's** influence.
+- **Reversal:** Zain-ul-Abidin deliberately reversed these intolerant policies, so textbooks often compare his approach with **Akbar's later sulh-i-kul** as an analogy rather than an identity.
+- **Religious policy:** He **abolished jaziya**, banned cow slaughter, restored temples, recalled exiled Brahmins, and permitted reconversion to Hinduism.
+- **Administration:** He appointed Hindus such as **Sriya Bhatt** as Minister of Justice and court physician, making shared governance a visible part of his rule.
+- **Cultural policy:** He patronised **Persian, Kashmiri, Sanskrit, and Tibetan** learning and commissioned translations of the **Mahabharata** and **Rajatarangini**.
+- **Economic revival:** He promoted shawl weaving, papermaking, book-binding, stone-cutting, gold-beating, fireworks, and musket-making to rebuild Kashmir's craft base.
+- **Public works:** He built dams, canals, bridges, and **Zaina Lanka** in Wular Lake as irrigation and prestige projects.
+- **Military/diplomacy:** He defeated Ladakh Mongols and expanded influence over **Baltistan, Jammu, and Rajauri**, which helped secure the frontiers for internal peace.
+- **Legacy:** Kashmir remembered him as **Bud Shah** because his reign represented the peak of medieval Kashmiri prosperity and composite culture.
 
 > **Exam note:** **UPPCS 2023 Q36** directly asks who abolished **jaziya AND cow slaughter** — only **Zain-ul-Abidin** among options; **Sikandar Shah** did the opposite.
 
@@ -287,13 +287,13 @@ BATTLE OF TALIKOTA (23 Jan 1565):
 - Zain-ul-Abidin ruled **1420–1470**.
 - Known as **Bud Shah** (Great Sultan).
 - **Abolished jaziya** and **cow slaughter**.
-- **Restored temples**; recalled exiles.
-- **Sriya Bhatt** — key Hindu official.
+- He **restored temples** and recalled exiles.
+- **Sriya Bhatt** is key Hindu official.
 - Translated **Mahabharata**, **Rajatarangini**.
 - Built **Zaina Lanka** (Wular Lake).
 - Promoted **shawl industry** and crafts.
 - Preceded by intolerant **Sikandar Shah**.
-- Often cited as **anticipating Akbar's tolerance** — statement-based trap (analogy, not same century/policy detail).
+- Often cited as **anticipating Akbar's tolerance** is statement-based trap (analogy, not same century/policy detail).
 
 ### PYQs — Kashmir
 
@@ -325,15 +325,15 @@ BATTLE OF TALIKOTA (23 Jan 1565):
 
 ### Vijayanagara Empire — How It Works
 
-- **Foundation (1336):** **Harihara I** and **Bukka I** established kingdom from **Anegundi/Hampi** region — response to **Delhi Sultanate** expansion under **Muhammad bin Tughlaq** and Deccan instability.
-- **Geographic core:** **Karnataka** heartland; Tungabhadra–Krishna doab; later expanded into **Tamil country, Raichur doab, Odisha (Gajapati conflicts)**.
-- **Capital:** **Vijayanagara** (modern **Hampi**, Karnataka) — UNESCO World Heritage site; urban sprawl with royal centre and sacred precincts.
-- **Bahmani rivalry:** From **14th century**, recurrent wars with **Bahmani Kingdom** over **Raichur doab** — fertile Krishna–Tungabhadra tract.
-- **Dynastic shifts:** **Saluva (1485)** and **Tuluva (1505)** coups replaced Sangama line without destroying state structure.
-- **Peak:** **Krishnadevaraya (1509–1529)** — Tuluva — maximum territorial extent and cultural florescence (see §3.8).
-- **Regency phase:** After Tuluva decline, **Aliya Rama Raya** (Aravidu-linked regent) dominated — led empire into **Talikota disaster 1565**.
-- **Post-1565:** Capital abandoned; **Aravidu** dynasty ruled diminished kingdom from **Penukonda/Chandragiri** — "empire" survived nominally but **Hampi never recovered**.
-- **Sources:** **Dominica Barbosa (Duarte Barbosa)**, **Nuniz**, **Paes** (Portuguese) describe city wealth; **Epigraphs** and **temple pillars** record grants.
+- **Foundation (1336):** **Harihara I** and **Bukka I** established the kingdom from the **Anegundi/Hampi** region in response to **Delhi Sultanate** expansion under **Muhammad bin Tughlaq** and wider Deccan instability.
+- **Geographic core:** The empire's **Karnataka** heartland included the Tungabhadra-Krishna doab, and it later expanded into **Tamil country, Raichur doab, and Odisha** during the Gajapati conflicts.
+- **Capital:** **Vijayanagara**, modern **Hampi** in Karnataka, became a UNESCO World Heritage site because its urban sprawl preserved royal and sacred precincts.
+- **Bahmani rivalry:** From the **14th century**, Vijayanagara fought recurrent wars with the **Bahmani Kingdom** over the fertile **Raichur doab** between the Krishna and Tungabhadra rivers.
+- **Dynastic shifts:** The **Saluva (1485)** and **Tuluva (1505)** coups replaced the Sangama line without destroying the empire's state structure.
+- **Peak:** **Krishnadevaraya (1509–1529)** of the Tuluva dynasty brought Vijayanagara to its maximum territorial extent and cultural florescence (see §3.8).
+- **Regency phase:** After the Tuluva decline, **Aliya Rama Raya**, an Aravidu-linked regent, dominated the court and led the empire into the **Talikota disaster of 1565**.
+- **Post-1565:** After the capital was abandoned, the **Aravidu** dynasty ruled a diminished kingdom from **Penukonda/Chandragiri**, so the "empire" survived nominally but **Hampi never recovered**.
+- **Sources:** **Dominica Barbosa (Duarte Barbosa)**, **Nuniz**, and **Paes** describe the city's wealth, while **epigraphs** and **temple pillars** record grants.
 
 > **Exam note:** Founders = **Harihara & Bukka**, not Krishnadevaraya — founder vs greatest ruler trap.
 
@@ -349,14 +349,14 @@ BATTLE OF TALIKOTA (23 Jan 1565):
 ### Exam Facts (raata)
 
 - Founded **1336** by **Harihara I & Bukka I**.
-- Capital = **Hampi (Vijayanagara)** on **Tungabhadra**.
-- Four dynasties: **Sangama, Saluva, Tuluva, Aravidu**.
-- Major rival = **Bahmani** then **Deccan Sultanates**.
-- **Raichur doab** = chronic war zone.
-- Peak ruler = **Krishnadevaraya (Tuluva)**.
-- **1565 Talikota** = turning point — Hampi sacked.
-- **Vitthala Temple**, **Virupaksha**, **Hazara Rama** — Hampi monuments.
-- Foreign accounts: **Nuniz**, **Paes**.
+- Capital is **Hampi (Vijayanagara)** on **Tungabhadra**.
+- Four dynasties is **Sangama, Saluva, Tuluva, Aravidu**.
+- Major rival is **Bahmani** then **Deccan Sultanates**.
+- **Raichur doab** is chronic war zone.
+- Peak ruler is **Krishnadevaraya (Tuluva)**.
+- In **1565 Talikota** is turning point, Hampi sacked.
+- **Vitthala Temple**, **Virupaksha**, **Hazara Rama** is Hampi monuments.
+- Foreign accounts is **Nuniz**, **Paes**.
 
 ### PYQs — Vijayanagara Empire
 
@@ -388,26 +388,26 @@ BATTLE OF TALIKOTA (23 Jan 1565):
 
 ### Vijayanagara Administration — How It Works
 
-- **Monarchy:** King = **dharma protector** and commander-in-chief; ruled through **cabinet (Ashtapradhana)** of great officers — exact titles varied by period.
-- **Provincial structure:** Empire divided into **rajyas/provinces** under **governors** (often royal relatives or loyal nayakas) — **nadu** (district clusters) and **villages** below.
-- **Nayankara/amara:** Central mechanism — king granted **amaram lands** to **nayakas** who owed **military service**, tribute, and aid in succession wars — precursor to post-1565 **Tanjor/Madurai nayak** states.
-- **Revenue:** Land revenue main income — surveys, **varied tenures** ( temple lands **devadana**, Brahmin **agrahara**, peasant holdings); **hundi** notes and cash crops (pepper, horses) in trade ports.
-- **Army:** **Four-fold** tradition — **elephants, cavalry, infantry, artillery** (gunpowder increased under 16th-c. Deccan wars); Portuguese supplied **horses and firearms**.
-- **Justice:** Local village assemblies + royal courts; **dharmashastra** and local custom; king as final appeal.
-- **Temple integration:** State **patronised major temples** (Virupaksha, Vitthala) — grants recorded on **mandapa pillars**; temple treasuries part of local economy.
-- **Urban control:** Capital **Hampi** highly planned — royal enclosure, bazaar streets (Paes describes), tank systems; **Tungabhadra** irrigation for agriculture.
-- **Checks on nobles:** Periodic **transfers**, **hostages**, and **royal spies** limited nayaka autonomy — yet **post-Talikota nayakas** became independent when centre collapsed.
+- **Monarchy:** The king acted as **dharma protector** and commander-in-chief and ruled through a **cabinet (Ashtapradhana)** of great officers, though exact titles varied by period.
+- **Provincial structure:** The empire was divided into **rajyas/provinces** under **governors**, often royal relatives or loyal nayakas, with **nadu** district clusters and **villages** below them.
+- **Nayankara/amara:** The king granted **amaram lands** to **nayakas**, who owed **military service**, tribute, and aid in succession wars. This system became the precursor to the post-1565 **Tanjor/Madurai nayak** states.
+- **Revenue:** Land revenue was the main income, supported by surveys, **varied tenures** such as temple lands (**devadana**), Brahmin **agrahara**, and peasant holdings, plus **hundi** notes and cash-crop trade in pepper and horses at ports.
+- **Army:** The army followed the **four-fold** tradition of **elephants, cavalry, infantry, and artillery**, and Portuguese traders supplied **horses and firearms** as gunpowder warfare grew in 16th-century Deccan conflicts.
+- **Justice:** Local village assemblies and royal courts administered justice through **dharmashastra** and local custom, with the king serving as the final appeal.
+- **Temple integration:** The state **patronised major temples** such as Virupaksha and Vitthala, recorded grants on **mandapa pillars**, and tied temple treasuries to the local economy.
+- **Urban control:** The capital **Hampi** was highly planned, with a royal enclosure, bazaar streets described by Paes, tank systems, and **Tungabhadra** irrigation for agriculture.
+- **Checks on nobles:** Periodic **transfers**, **hostages**, and **royal spies** limited nayaka autonomy, but **post-Talikota nayakas** became independent when the centre collapsed.
 
 > **Exam note:** **Nayankara** is **Vijayanagara** — do not confuse with Delhi **iqta** (muqti) or Mughal **jagir** — similar logic, different polity.
 
 ### Exam Facts (raata)
 
-- **Nayankara/amara** = military feudatory grants.
+- **Nayankara/amara** is military feudatory grants.
 - **Nayakas** maintained troops from assigned revenue.
-- **Mahanavami/Dasara** = royal festival of power.
-- Provinces under **governors**; villages under local assemblies.
-- **Land revenue** = primary fiscal base.
-- Army: **elephants + cavalry + infantry + guns** (16th c.).
+- **Mahanavami/Dasara** is royal festival of power.
+- Provinces were placed under **governors**, while villages continued under local assemblies.
+- **Land revenue** is primary fiscal base.
+- The army is **elephants + cavalry + infantry + guns** (16th c.).
 - **Temple grants** recorded on **Hampi pillars**.
 - Post-1565 **nayakas** → independent **Nayak kingdoms** (Madurai, Tanjore, etc.).
 
@@ -441,15 +441,15 @@ BATTLE OF TALIKOTA (23 Jan 1565):
 
 ### Bahmani Kingdom — How It Works
 
-- **Foundation (1347):** **Hasan Gangu**, a **Brahmin convert** (tradition) and Delhi officer in Deccan, rebelled against **Muhammad bin Tughlaq** — declared independence at **Gulbarga**.
-- **Territory:** Northern Deccan — **modern Karnataka, Maharashtra, Telangana** parts; chronic border with **Vijayanagara** over **Raichur doab**.
-- **Capital shift:** Early capital **Gulbarga**; **Ahmad Shah I Wali** moved to **Bidar (~1429)** — better fortifications and water.
-- **Conflict pattern:** Alternating **war and marriage alliances** with Vijayanagara — neither side achieved permanent conquest of doab.
-- **Mahmud Gawan:** **Persian minister** under **Muhammad Shah III** — greatest Bahmani administrator; expanded east to **Orissa coast**, disciplined nobles.
-- **Gawan's fall (1481):** Rival nobles forged **treason letter**; king ordered execution — **administrative peak ended**, factionalism surged.
-- **Noble factions:** **Deccani vs Afaqi (foreign)** nobles — paralysed court; parallel to later Mughal Deccan politics.
-- **Dissolution (1518):** Weak later sultans; **Kalimullah** last Bahmani sultan — kingdom split into **five Deccan Sultanates** (see §3.7).
-- **Culture:** **Persianate court** with **Deccani** synthesis — literature, Sufi orders, architecture (Bidar fort, Gulbarga tombs).
+- **Foundation (1347):** **Hasan Gangu**, a **Brahmin convert** in tradition and a Delhi officer in the Deccan, rebelled against **Muhammad bin Tughlaq** and declared independence at **Gulbarga**.
+- **Territory:** The kingdom controlled the northern Deccan, including parts of **modern Karnataka, Maharashtra, and Telangana**, and shared a chronic border with **Vijayanagara** over the **Raichur doab**.
+- **Capital shift:** The early capital was **Gulbarga**, but **Ahmad Shah I Wali** moved it to **Bidar (~1429)** for better fortifications and water.
+- **Conflict pattern:** Bahmani rulers alternated **war and marriage alliances** with Vijayanagara, and neither side achieved permanent conquest of the doab.
+- **Mahmud Gawan:** **Mahmud Gawan**, the **Persian minister** under **Muhammad Shah III**, became the greatest Bahmani administrator by expanding east to the **Orissa coast** and disciplining nobles.
+- **Gawan's fall (1481):** Rival nobles forged a **treason letter**, and the king ordered Gawan's execution, ending the administrative peak and intensifying factionalism.
+- **Noble factions:** The rivalry between **Deccani and Afaqi (foreign)** nobles paralysed the court and foreshadowed later Mughal Deccan factional politics.
+- **Dissolution (1518):** Weak later sultans could not hold the kingdom together, and under **Kalimullah**, the last Bahmani sultan, it split into **five Deccan Sultanates** (see §3.7).
+- **Culture:** The court blended **Persianate** and **Deccani** elements in literature, Sufi orders, and architecture such as Bidar fort and the Gulbarga tombs.
 
 > **Exam note:** **Bahmani founder = Hasan Gangu (1347)** — not Mahmud Gawan (minister, not founder).
 
@@ -468,11 +468,11 @@ BATTLE OF TALIKOTA (23 Jan 1565):
 - Bahmani founded **1347** by **Hasan Gangu**.
 - First capital **Gulbarga** → later **Bidar**.
 - **Eight tarafs** (provinces).
-- Rival of **Vijayanagara** — Raichur doab wars.
-- **Mahmud Gawan** — prime minister; executed **1481**.
+- Rival of **Vijayanagara** is Raichur doab wars.
+- **Mahmud Gawan** was the prime minister and was executed in **1481**.
 - Kingdom ended **1518** → five successor states.
 - **Persian + Deccani** noble factions.
-- Architecture: **Bidar Fort**, **Gulbarga Bahmani tombs**.
+- Architecture is **Bidar Fort**, **Gulbarga Bahmani tombs**.
 
 ### PYQs — Bahmani Kingdom
 
@@ -504,15 +504,15 @@ BATTLE OF TALIKOTA (23 Jan 1565):
 
 ### Deccan Sultanates — How It Works
 
-- **Breakup:** Last Bahmani sultan **Kalimullah** unable to control governors — **1518** marks effective split into **five sultanates**.
-- **Bijapur (Adil Shahi):** **Yusuf Adil Shah** (1490); capital **Bijapur**; peak under **Ibrahim Adil Shah II** — **Sufi-influenced**, music patron; **Kitab-i-Nauras** (song-book).
-- **Golkonda (Qutb Shahi):** **Quli Qutb Shah**; fort **Golkonda** near Hyderabad; **Muhammad Quli Qutb Shah** founded **Hyderabad city 1591** (Charminar); ** diamond trade** centre.
-- **Ahmadnagar (Nizam Shahi):** **Malik Ahmad**; capital **Ahmadnagar**; **Burhan-e-Masir** chronicle; fought Mughals and Vijayanagara alternately.
-- **Bidar (Barid Shahi):** **Amir Barid**; capital **Bidar** — **Tin Darwaza** of Bidar Fort (2018 Q19 trap vs Ahmedabad).
-- **Berar (Imad Shahi):** **Fathullah Imad-ul-Mulk**; capital **Ellichpur** — smallest; absorbed early by other powers.
-- **Confederacy:** By **1565** four sultanates (**Bijapur, Ahmadnagar, Golkonda, Bidar**) united against **Vijayanagara** at **Talikota**.
-- **Mughal phase:** Akbar/Aurangzeb gradually annexed — **Ahmadnagar (1636)**, **Bijapur (1686)**, **Golkonda (1687)** — Deccan fully under Mughals by late 17th c.
-- **Cultural synthesis:** **Deccani Urdu**, Indo-Persian architecture (**Gol Gumbaz**, **Charminar**), music schools — distinct from North Indian Mughal idiom.
+- **Breakup:** The last Bahmani sultan, **Kalimullah**, could not control the governors, so **1518** marks the effective split into **five sultanates**.
+- **Bijapur (Adil Shahi):** **Yusuf Adil Shah** founded the line in 1490, made **Bijapur** the capital, and the sultanate peaked under **Ibrahim Adil Shah II**, a **Sufi-influenced** music patron who wrote **Kitab-i-Nauras**.
+- **Golkonda (Qutb Shahi):** **Quli Qutb Shah** founded the line at **Golkonda** fort near Hyderabad, and **Muhammad Quli Qutb Shah** founded **Hyderabad city in 1591** with the Charminar as its landmark. The state also became a **diamond trade** centre.
+- **Ahmadnagar (Nizam Shahi):** **Malik Ahmad** founded Ahmadnagar with **Ahmadnagar** as its capital, and the sultanate is linked with the **Burhan-e-Masir** chronicle and alternating wars against the Mughals and Vijayanagara.
+- **Bidar (Barid Shahi):** **Amir Barid** founded the Barid Shahi line at **Bidar**, whose **Tin Darwaza** in Bidar Fort is the 2018 Q19 trap against Ahmedabad.
+- **Berar (Imad Shahi):** **Fathullah Imad-ul-Mulk** founded Berar with **Ellichpur** as its capital, but it remained the smallest successor state and was absorbed early by other powers.
+- **Confederacy:** By **1565**, four sultanates, **Bijapur, Ahmadnagar, Golkonda, and Bidar**, united against **Vijayanagara** at **Talikota**.
+- **Mughal phase:** Akbar and Aurangzeb gradually annexed **Ahmadnagar (1636)**, **Bijapur (1686)**, and **Golkonda (1687)**, bringing the Deccan fully under Mughal control by the late 17th century.
+- **Cultural synthesis:** The sultanates developed **Deccani Urdu**, Indo-Persian architecture such as **Gol Gumbaz** and **Charminar**, and music schools distinct from the North Indian Mughal idiom.
 
 > **Exam note:** **Kitab-i-Nauras = Ibrahim Adil Shah II (Bijapur)** — not Quli Qutb Shah (2020 Q44). **Abul Hasan Qutb Shah** ruled Golkonda when Aurangzeb seized **1687** (2020 Q35).
 
@@ -529,13 +529,13 @@ BATTLE OF TALIKOTA (23 Jan 1565):
 ### Exam Facts (raata)
 
 - Five successor states from Bahmani **1518**.
-- **Ibrahim Adil Shah II** — **Kitab-i-Nauras** (Bijapur).
-- **Gol Gumbaz** — Bijapur — **Muhammad Adil Shah's tomb**.
-- **Tin Darwaza** — **Bidar Fort** (not Ahmedabad).
-- **Quli Qutb Shah** — Golkonda founder line.
+- **Ibrahim Adil Shah II** is **Kitab-i-Nauras** (Bijapur).
+- **Gol Gumbaz** is Bijapur — **Muhammad Adil Shah's tomb**.
+- **Tin Darwaza** is **Bidar Fort** (not Ahmedabad).
+- **Quli Qutb Shah** is Golkonda founder line.
 - **Hyderabad** founded **1591** (Muhammad Quli Qutb Shah).
-- **Abul Hasan Qutb Shah** — last at Golkonda **1687**.
-- **Burhan-e-Masir** — Ahmadnagar history.
+- **Abul Hasan Qutb Shah** is last at Golkonda **1687**.
+- **Burhan-e-Masir** is Ahmadnagar history.
 - Confederated against Vijayanagara **1565**.
 
 ### PYQs — Deccan Sultanates
@@ -568,15 +568,15 @@ BATTLE OF TALIKOTA (23 Jan 1565):
 
 ### Krishnadevaraya — How It Works
 
-- **Accession (1509):** Came to throne after **Saluva/Tuluva** transition; inherited **Bahmani successor wars** and **Gajapati** frontier conflicts.
-- **Battle of Raichur (1520):** Led personal campaign against **Ismail Adil Shah** of Bijapur — captured **Raichur fort**; celebrated in **inscriptions and literature** as peak military moment.
-- **Orissa/Gajapati:** **Prataparudra** defeated — Krishna river boundary secured; **Udayagiri** campaign famous in tradition.
-- **Diplomacy:** Temporary peace with **Bijapur** after Raichur; used **Portuguese** contacts for **horses and guns** — pragmatic trade over religion.
-- **Administration:** Strengthened **nayankara** inspections; **temple restorations**; **irrigation tanks**; **Mahanavami** celebrations reached maximum scale (Paes account).
-- **Literature:** Authored **Amuktamalyada** in **Telugu**; patronised **Sanskrit** and **Kannada**; court hosted **Ashtadiggajas** including **Allasani Peddana** (Manucharitramu).
-- **Religion:** Personal **Vaishnava** devotion (Tirumala); yet patronised **Shaiva** temples — non-sectarian royal policy.
-- **Succession:** Brother **Achyuta Raya** followed — weaker reign; later **Aliya Rama Raya** regency led to **Talikota**.
-- **Death (1529):** Empire at zenith; decline came from **succession disputes + Deccan coalition**, not from his death alone.
+- **Accession (1509):** Krishnadevaraya came to the throne after the **Saluva/Tuluva** transition and inherited **Bahmani successor wars** and **Gajapati** frontier conflicts.
+- **Battle of Raichur (1520):** He led a personal campaign against **Ismail Adil Shah** of Bijapur, captured **Raichur fort**, and was celebrated in **inscriptions and literature** for this peak military moment.
+- **Orissa/Gajapati:** He defeated **Prataparudra**, secured the Krishna river boundary, and made the **Udayagiri** campaign famous in tradition.
+- **Diplomacy:** He made temporary peace with **Bijapur** after Raichur and used **Portuguese** contacts for **horses and guns**, showing pragmatic trade over religion.
+- **Administration:** He strengthened **nayankara** inspections, restored temples, built **irrigation tanks**, and made **Mahanavami** celebrations reach their maximum scale in Paes's account.
+- **Literature:** He authored **Amuktamalyada** in **Telugu**, patronised **Sanskrit** and **Kannada**, and hosted the **Ashtadiggajas**, including **Allasani Peddana** of Manucharitramu.
+- **Religion:** He showed personal **Vaishnava** devotion at Tirumala but also patronised **Shaiva** temples, making his royal policy non-sectarian.
+- **Succession:** His brother **Achyuta Raya** followed him with a weaker reign, and the later **Aliya Rama Raya** regency led to **Talikota**.
+- **Death (1529):** The empire stood at its zenith when he died, but decline came from **succession disputes and the Deccan coalition**, not from his death alone.
 
 > **Exam note:** **Krishnadevaraya ≠ founder** of Vijayanagara; he belongs to **Tuluva** dynasty — match questions test dynasty, not just name fame.
 
@@ -596,13 +596,13 @@ BATTLE OF TALIKOTA (23 Jan 1565):
 ### Exam Facts (raata)
 
 - Ruled **1509–1529** (Tuluva dynasty).
-- Greatest Vijayanagara ruler — **military + literary** peak.
-- **Battle of Raichur 1520** — vs Bijapur.
+- Greatest Vijayanagara ruler is **military + literary** peak.
+- **Battle of Raichur 1520** is vs Bijapur.
 - Author of **Amuktamalyada** (Telugu).
 - Patron of **Ashtadiggajas** (eight poets).
 - **Tenali Ramakrishna** at his court.
 - **Nuniz** and **Paes** describe his reign.
-- Died **1529** — empire peaked then slid to **1565** disaster under Rama Raya.
+- Died **1529** is empire peaked then slid to **1565** disaster under Rama Raya.
 
 ### PYQs — Krishnadevaraya
 
@@ -634,23 +634,23 @@ BATTLE OF TALIKOTA (23 Jan 1565):
 
 ### Battle of Talikota — How It Works
 
-- **Background:** **Aliya Rama Raya** (Aravidu-linked) dominated Vijayanagara court — **meddled in Deccan Sultanate successions**, alienating all four major sultanates.
-- **Coalition:** **Bijapur (Ali Adil Shah I)**, **Ahmadnagar (Hussain Nizam Shah I)**, **Golkonda (Ibrahim Qutb Shah)**, **Bidar (Ali Barid)** — rare unity against common threat.
-- **Battlefield:** **Rakkasa-Tangadi** near **Talikota** — Krishna–Tungabhadra region; Vijayanagara army **numerically large** but **coordination weak**.
-- **Turning point:** **Rama Raya** captured and **executed** — Vijayanagara lines collapsed; **six months of looting** followed at **Hampi**.
-- **Immediate result:** **Hampi abandoned** as capital; treasury and temples plundered; **Aravidu** dynasty retreated to **Penukonda/Chandragiri**.
-- **Long-term:** **Nayakas** (Madurai, Tanjore, Gingee, etc.) became **independent** — Vijayanagara central authority never restored.
-- **Mughal opportunity:** Weak Deccan balance eventually allowed **Akbar/Aurangzeb** conquests — Talikota indirectly reshaped **17th-c. Deccan** politics.
-- **Historiography:** Once blamed on **Muslim treachery alone** — modern view emphasises **Rama Raya's overreach**, **noble defections**, and **strategic encirclement**.
+- **Background:** **Aliya Rama Raya**, who was Aravidu-linked, dominated the Vijayanagara court and **meddled in Deccan Sultanate successions**, alienating all four major sultanates.
+- **Coalition:** **Bijapur (Ali Adil Shah I)**, **Ahmadnagar (Hussain Nizam Shah I)**, **Golkonda (Ibrahim Qutb Shah)**, and **Bidar (Ali Barid)** formed rare unity against a common threat.
+- **Battlefield:** The battle took place at **Rakkasa-Tangadi** near **Talikota** in the Krishna-Tungabhadra region, where the Vijayanagara army was **numerically large** but **coordination weak**.
+- **Turning point:** **Rama Raya** was captured and **executed**, after which Vijayanagara lines collapsed and **six months of looting** followed at **Hampi**.
+- **Immediate result:** **Hampi** was abandoned as capital after its treasury and temples were plundered, and the **Aravidu** dynasty retreated to **Penukonda/Chandragiri**.
+- **Long-term:** **Nayakas** such as those of Madurai, Tanjore, and Gingee became **independent**, and Vijayanagara central authority was never restored.
+- **Mughal opportunity:** The weakened Deccan balance eventually allowed **Akbar/Aurangzeb** conquests, so Talikota indirectly reshaped **17th-century Deccan** politics.
+- **Historiography:** Older accounts blamed the defeat on **Muslim treachery alone**, but the modern view emphasises **Rama Raya's overreach**, **noble defections**, and **strategic encirclement**.
 
 > **Exam note:** Talikota **1565** — not same as **Raichur 1520** (Krishnadevaraya's victory). Date + outcome pair is high-yield.
 
 ### Exam Facts (raata)
 
-- Date: **23 January 1565**.
-- Site: **Rakkasa-Tangadi (Talikota)**.
-- **Rama Raya** killed — not Krishnadevaraya (d. 1529).
-- Enemies: **four Deccan Sultanates** coalition.
+- The date is **23 January 1565**.
+- The site is **Rakkasa-Tangadi (Talikota)**.
+- **Rama Raya** killed is not Krishnadevaraya (d. 1529).
+- The enemies is **four Deccan Sultanates** coalition.
 - **Hampi sacked and abandoned**.
 - **Aravidu** moved capital southward.
 - **Nayak kingdoms** emerged post-battle.
@@ -687,15 +687,15 @@ BATTLE OF TALIKOTA (23 Jan 1565):
 
 ### Bahmani Administration — How It Works
 
-- **Central authority:** Sultan assisted by **wazir**, **mustaufi (finance)**, **mir jumla (foreign trade)** — copied/adapted **Delhi Sultanate** and **Persian** models.
-- **Provinces (tarafs):** Kingdom divided into **eight tarafs** — each under **tarafdar** collecting revenue and maintaining order; weak tarafdar = breakaway sultanate later.
-- **Noble factions:** **Deccani** (old local Muslim nobility) vs **Afaqi/Gharib** (newer immigrants from Iran/Iraq) — admin paralysed when factions split.
-- **Gawan's reforms:** **Land measurement**, **strict accounting**, **cash salaries** to soldiers, **merit appointments** — reduced corruption temporarily.
-- **Military:** **Mixed force** — Deccani cavalry, **war elephants**, increasing **artillery** contact with Vijayanagara and Portuguese.
-- **Revenue:** **Khalisa** (crown lands) + assignments to nobles; **trade tolls** on ports (Chaul, Dabhol) significant.
-- **Justice:** **Qazi courts** + sultan's court; **sharia** baseline but local Hindu customary law in villages continued.
-- **Literary admin record:** **Riyaz-ul-Insha** preserves Gawan's governance correspondence — UPPCS tests vs **Riyaz-us-Salatin** (Bengal).
-- **Decline mechanism:** After Gawan's **1481 execution**, reforms reversed; tarafdars became **hereditary**; **1518 split** into five sultanates — admin failure = political fragmentation.
+- **Central authority:** The sultan was assisted by the **wazir**, **mustaufi (finance)**, and **mir jumla (foreign trade)**, and the system copied and adapted **Delhi Sultanate** and **Persian** models.
+- **Provinces (tarafs):** The kingdom was divided into **eight tarafs**, each under a **tarafdar** who collected revenue and maintained order. Weak tarafdars later became the basis of breakaway sultanates.
+- **Noble factions:** The conflict between **Deccani** old local Muslim nobility and **Afaqi/Gharib** newer immigrants from Iran and Iraq paralysed administration when the factions split.
+- **Gawan's reforms:** Gawan introduced **land measurement**, **strict accounting**, **cash salaries** for soldiers, and **merit appointments**, which temporarily reduced corruption.
+- **Military:** The army used a **mixed force** of Deccani cavalry, **war elephants**, and increasing **artillery** shaped by contact with Vijayanagara and the Portuguese.
+- **Revenue:** The state drew income from **khalisa** crown lands, assignments to nobles, and significant **trade tolls** on ports such as Chaul and Dabhol.
+- **Justice:** **Qazi courts** and the sultan's court applied **sharia** as a baseline, while local Hindu customary law continued in villages.
+- **Literary admin record:** **Riyaz-ul-Insha** preserves Gawan's governance correspondence, which UPPCS tests against **Riyaz-us-Salatin** from Bengal.
+- **Decline mechanism:** After Gawan's **1481 execution**, reforms were reversed, tarafdars became **hereditary**, and the **1518 split** into five sultanates showed how administrative failure caused political fragmentation.
 
 > **Exam note:** **UPPCS 2023 Q33** — **Riyaz-ul-Insha = Mahmud Gawan's letters (3)**; **Riyaz-us-Salatin = Bengal history (1)** — swapping these two = wrong code.
 
@@ -710,14 +710,14 @@ BATTLE OF TALIKOTA (23 Jan 1565):
 
 ### Exam Facts (raata)
 
-- **Eight tarafs** — provincial divisions.
+- **Eight tarafs** is provincial divisions.
 - **Persianate centralised** bureaucracy.
-- **Mahmud Gawan** — chief minister; reforms **1460s–1481**.
-- **Riyaz-ul-Insha** = Gawan's letters.
-- **Riyaz-us-Salatin** = **Bengal** (NOT Bahmani — trap).
+- **Mahmud Gawan** was the chief minister, and his reforms belong to the **1460s–1481** period.
+- **Riyaz-ul-Insha** is Gawan's letters.
+- **Riyaz-us-Salatin** is **Bengal** (NOT Bahmani is trap).
 - **Deccani vs Afaqi** faction conflict.
-- Gawan executed **1481** — admin decline accelerates.
-- **1518** — Bahmani splits into five states.
+- Gawan executed **1481** is admin decline accelerates.
+- In **1518**, Bahmani splits into five states.
 
 ### PYQs — Bahmani Administration
 
@@ -1187,21 +1187,21 @@ Options: A. Shamsuddin Shah | B. Sikandar Shah | C. Zain-ul-Abidin | D. Haider S
 
 ## Common Traps — Don't Fall For These
 
-1. **Tin Darwaza – Ahmedabad** — **FALSE** (2018 Q19); Tin Darwaza = **Bidar**; Ahmedabad has **Teen Darwaza**.
-2. **Lal Darwaza – Jaunpur** — **TRUE** — do not mark as wrong in NOT-matched questions.
-3. **Riyaz-us-Salatin vs Riyaz-ul-Insha** — Salatin = **Bengal**; Insha = **Gawan's letters** (2023 Q33).
-4. **Kitab-i-Nauras vs Amuktamalyada** — Nauras = **Ibrahim Adil Shah II**; Amuktamalyada = **Krishnadevaraya**.
-5. **Krishnadevaraya vs Harihara-Bukka** — Founders ≠ Krishnadeva; he is **Tuluva** peak ruler.
-6. **Talikota vs Raichur** — Talikota **1565 defeat**; Raichur **1520 victory** under Krishnadevaraya.
-7. **Rama Raya vs Krishnadevaraya at Talikota** — **Rama Raya** killed 1565; Krishnadeva died **1529**.
-8. **Mahmud Gawan vs Hasan Gangu** — Gawan = **minister**; Hasan Gangu = **Bahmani founder**.
-9. **Bijapur vs Bidar** — Similar names; **Bijapur** = Adil Shahi + Gol Gumbaz; **Bidar** = Bahmani capital + Tin Darwaza.
-10. **Bahmani capitals** — **Gulbarga AND Bidar** both correct at different times; **Bijapur** was never Bahmani capital.
-11. **Zain-ul-Abidin vs Sikandar Shah (Kashmir)** — Jaziya abolished by **Zain**; imposed/persecution under **Sikandar**.
-12. **Jaunpur in UP vs Jaunpur as Deccan** — Sharqi Jaunpur = **eastern UP** only.
-13. **Five Deccan Sultanates** — Count **five** (Bijapur, Golkonda, Ahmadnagar, Bidar, Berar) — not four.
-14. **Atala Masjid chronology** — **Before** Sher Shah and Humayun tombs (2019 Q91).
-15. **Abul Hasan Qutb Shah** — Last Golkonda ruler **1687**, not founder Quli Qutb Shah.
-16. **Sharqi annexation** — **Bahlul Lodi 1484**, not Babur or Ibrahim Lodi.
-17. **Vijayanagara dynasties order** — Sangama → Saluva → Tuluva → Aravidu — Krishnadeva is **Tuluva**.
-18. **Gol Gumbaz** — **Bijapur (Adil Shahi)**, not Golkonda or Bidar.
+1. **Tin Darwaza-Ahmedabad is the wrong pair.** Tin Darwaza belongs to **Bidar**, while Ahmedabad has Teen Darwaza.
+2. **Lal Darwaza-Jaunpur is a correct pair.** Do not mark it wrong in NOT-matched questions.
+3. **Riyaz-us-Salatin and Riyaz-ul-Insha are different works.** Salatin is linked with **Bengal**, while Insha is **Mahmud Gawan's letters**.
+4. **Kitab-i-Nauras and Amuktamalyada have different authors.** Nauras is by **Ibrahim Adil Shah II**, while Amuktamalyada is by **Krishnadevaraya**.
+5. **Krishnadevaraya was not a founder of Vijayanagara.** Harihara and Bukka founded the empire; Krishnadevaraya was the Tuluva peak ruler.
+6. **Talikota and Raichur had opposite outcomes for Vijayanagara.** Talikota in **1565** was a defeat, while Raichur in **1520** was Krishnadevaraya's victory.
+7. **Rama Raya, not Krishnadevaraya, died at Talikota.** Krishnadevaraya died in **1529**, before the 1565 battle.
+8. **Mahmud Gawan was a minister, not the Bahmani founder.** Hasan Gangu founded the Bahmani kingdom.
+9. **Bijapur and Bidar are different Deccan centres.** Bijapur is Adil Shahi and Gol Gumbaz, while Bidar was a Bahmani capital and has Tin Darwaza.
+10. **Gulbarga and Bidar were both Bahmani capitals at different times.** Bijapur was never a Bahmani capital.
+11. **Zain-ul-Abidin and Sikandar Shah had opposite Kashmir policies.** Zain abolished jaziya, while Sikandar is linked with persecution.
+12. **Sharqi Jaunpur was in eastern UP.** Do not treat Jaunpur as a Deccan state.
+13. **There were five Deccan Sultanates.** The five were Bijapur, Golkonda, Ahmadnagar, Bidar, and Berar.
+14. **Atala Masjid is earlier than Sher Shah's and Humayun's tombs.** This is the key 2019 Q91 chronology point.
+15. **Abul Hasan Qutb Shah was the last Golkonda ruler in 1687.** He was not the founder Quli Qutb Shah.
+16. **The Sharqi kingdom was annexed by Bahlul Lodi in 1484.** It was not annexed by Babur or Ibrahim Lodi.
+17. **The Vijayanagara dynasty order is fixed.** The order is Sangama, Saluva, Tuluva, and Aravidu.
+18. **Gol Gumbaz is at Bijapur.** It belongs to the Adil Shahi context, not Golkonda or Bidar.

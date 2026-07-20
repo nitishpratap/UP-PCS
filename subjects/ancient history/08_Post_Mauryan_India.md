@@ -125,16 +125,16 @@ KEY INSCRIPTIONS:
 
 ### Post-Mauryan Period — How It Works
 
-- **Mauryan empire collapsed 185 BCE** — last king **Brihadratha** killed by his general **Pushyamitra Shunga**.
-- **Shunga dynasty (185–73 BCE)** — ruled **eastern/north India** (Magadha, UP regions); **Brahmanical revival** — performed **Ashwamedha yajnas**.
-- **Ayodhya inscription** records **two Ashwamedha sacrifices** by **Pushyamitra Shunga** ← **UPPCS 2018 Q91 answer C**.
-- **Kanva dynasty (73–28 BCE)** — succeeded Shungas; minor dynasty; limited territorial control.
-- **Political fragmentation** — no pan-Indian empire until Guptas; regional kingdoms rose independently.
-- **Foreign invasion wave** began: **Indo-Greeks → Shakas → Parthians → Kushans** ← **2023 Q23: Greeks → Sakas → Kushans**.
-- **Kharavela of Kalinga** — powerful eastern king; **Hathigumpha inscription** (Odisha) — contemporary with late Mauryas/early post-Mauryan.
-- **Economic shift** — long-distance Mauryan state trade reduced; **guild (shreni) autonomy** increased; **Roman trade** with south and west grew.
-- **Material culture** — **PGW (Painted Grey Ware)** in north; **Satavahanas** in Deccan; **coinage proliferation** (Indo-Greek, Shaka, Kushan types).
-- **Religious developments** — Buddhism spread south and abroad; **Mahayana** emerging; Brahmanism resurged under Shungas.
+- **Mauryan empire collapsed 185 BCE**. The last king **Brihadratha** killed by his general **Pushyamitra Shunga**.
+- **Shunga dynasty (185–73 BCE)** ruled **eastern/north India**, including Magadha and UP regions. It marked a **Brahmanical revival** and performed **Ashwamedha yajnas**.
+- **Ayodhya inscription** records **two Ashwamedha sacrifices** by **Pushyamitra Shunga**. **UPPCS 2018 Q91 answer C**.
+- **Kanva dynasty (73–28 BCE)** succeeded the Shungas. It was a minor dynasty with limited territorial control.
+- **Political fragmentation** followed the Mauryan collapse. No pan-Indian empire existed until the Guptas, and regional kingdoms rose independently.
+- **Foreign invasion wave** began: **Indo-Greeks to Shakas to Parthians to Kushans**. **2023 Q23: Greeks to Sakas to Kushans**.
+- **Kharavela of Kalinga** was a powerful eastern king. The **Hathigumpha inscription** in Odisha places him in the late Mauryan or early post-Mauryan context.
+- **Economic shift** reduced long-distance Mauryan state trade. **Guild (shreni) autonomy** increased, and **Roman trade** with the south and west grew.
+- **Material culture** included **PGW (Painted Grey Ware)** in the north and **Satavahanas** in the Deccan. Coinage also proliferated through Indo-Greek, Shaka, and Kushan types.
+- **Religious developments** included the spread of Buddhism to the south and abroad. **Mahayana** emerged, while Brahmanism resurged under the Shungas.
 
 ### Post-Mauryan Political Timeline
 
@@ -153,11 +153,11 @@ KEY INSCRIPTIONS:
 
 - Mauryan end 185 BCE
 - Pushyamitra Shunga founder
-- Ayodhya inscription — Shunga Ashwamedha (2018 Q91)
+- Ayodhya inscription. Shunga Ashwamedha (2018 Q91)
 - Kanva dynasty 73–28 BCE
 - Political fragmentation till Guptas
-- Greeks → Shakas → Kushans (2023 Q23)
-- Kharavela — Hathigumpha
+- Greeks to Shakas to Kushans (2023 Q23)
+- Kharavela. Hathigumpha
 - PGW culture in north India
 
 ### PYQs — Post-Mauryan Period
@@ -190,17 +190,17 @@ KEY INSCRIPTIONS:
 
 ### Satavahana Rulers — How It Works
 
-- **Satavahanas** ruled **Deccan and parts of central/western India** — bridge between north post-Mauryan chaos and southern kingdoms.
-- **Founder**: **Simuka** (traditional ~230 BCE or 1st century BCE — dates debated).
-- **Capitals**: **Pratishthana (Paithan, Maharashtra)** and **Amaravati (Andhra Pradesh)** — dual administrative centres.
-- **Gautamiputra Satakarni** — most powerful ruler; **Nasik inscription** praises his victories over **Shakas (Western Kshatrapas)**.
-- **Defeated Nahapana** (Shaka Kshatrapa) — recovered territories in western India.
-- **Prakrit language patrons** — Satavahanas nurtured **Prakrit** (not Sanskrit) for inscriptions and literature ← **2021 Q52 statement 1 (correct)**.
-- **Public art flourished** — **Amaravati stupa**, **Karla chaitya**, **Nasik caves** — art for public worship/display ← **2021 Q52 statement 2 (correct)**.
-- **Coins**: portrait coins of rulers; bilingual legends (Prakrit-Andhra/Tamil influences).
-- **Trade**: controlled routes between north and south; **Roman trade** — spices, textiles exported.
+- **Satavahanas** ruled **Deccan and parts of central/western India**. It formed a bridge between north post-Mauryan chaos and southern kingdoms.
+- **Founder**: **Simuka** (traditional ~230 BCE or 1st century BCE. Its dates are debated).
+- **Capitals**: **Pratishthana (Paithan, Maharashtra)** and **Amaravati (Andhra Pradesh)**. They were dual administrative centres.
+- **Gautamiputra Satakarni** was the most powerful Satavahana ruler. The **Nasik inscription** praises his victories over the **Shakas (Western Kshatrapas)**.
+- **Defeated Nahapana** (Shaka Kshatrapa). He recovered territories in western India.
+- **Prakrit language patrons**. Satavahanas nurtured **Prakrit** (not Sanskrit) for inscriptions and literature. **2021 Q52 statement 1 (correct)**.
+- **Public art flourished**. **Amaravati stupa**, **Karla chaitya**, **Nasik caves**. This art served public worship/display. **2021 Q52 statement 2 (correct)**.
+- **Coins** carried portraits of rulers and bilingual legends. They show Prakrit-Andhra and Tamil influences.
+- **Trade** benefited from Satavahana control of routes between north and south. **Roman trade** exported spices and textiles.
 - **Administrative titles**: **Raja**, **Maharaja**, **Dakshinapathapati** (lord of southern path).
-- **Decline** ~3rd century CE — succeeded by **Ikshvakus** (Andhra) and later **Vakatakas/Pallavas** in different regions.
+- **Decline** ~3rd century CE. It was succeeded by **Ikshvakus** (Andhra) and later **Vakatakas/Pallavas** in different regions.
 
 ### Major Satavahana Rulers — Table
 
@@ -218,11 +218,11 @@ KEY INSCRIPTIONS:
 ### Exam Facts (raata)
 
 - Deccan/Andhra dynasty
-- Capitals: Paithan + Amaravati
+- Capitals: Paithan and Amaravati
 - Gautamiputra Satakarni = greatest
 - Defeated Shaka Nahapana
 - Prakrit patrons (2021 Q52)
-- Public art — Amaravati, Karla (2021 Q52)
+- Public art. Amaravati, Karla (2021 Q52)
 - Roman trade connections
 - Also called Andhra dynasty
 
@@ -255,23 +255,23 @@ KEY INSCRIPTIONS:
 
 ### South Indian History — How It Works
 
-- Ancient south India **not unified** — multiple kingdoms: **Chera** (Kerala), **Chola** (Tamil Nadu), **Pandya** (deep south), plus **Kalinga** (Odisha) on eastern coast.
-- **Kharavela** — **Chedi dynasty** king of **Kalinga** — ruled early 1st century BCE (or 2nd century BCE per debates).
-- **Hathigumpha inscription** (Udayagiri, Odisha) — primary source on **Kharavela** — military campaigns, Jain patronage, repairs of Kalinga after Ashoka ← **UPPCS 2018 Q16 answer A (Kharvela)**.
-- **Kharavela** — patron of **Jainism**; excavated caves; defeated **Satavahanas** temporarily; retrieved Jain image from Greeks.
-- **Three Tamil kingdoms** (Chera, Chola, Pandya) — described in **Sangam literature** — see §8.9.
-- **Megalithic burials** — iron weapons, black-and-red ware — evidence of **Iron Age** culture before historic dynasties.
-- **Roman trade** — **Muziris** (Kerala), **Kaveripattinam** — pepper, pearls, textiles exported; Roman gold coins found in south.
-- **Satavahanas** controlled northern Deccan — linked south to Gangetic trade routes.
-- **No Mauryan direct rule** over deep south — Ashoka's edicts at edges (Karnataka, Odisha) but Tamil region largely independent.
+- Ancient south India **not unified**. It had multiple kingdoms: **Chera** (Kerala), **Chola** (Tamil Nadu), **Pandya** (deep south), plus **Kalinga** (Odisha) on eastern coast.
+- **Kharavela**. **Chedi dynasty** king of **Kalinga**. He ruled early 1st century BCE (or 2nd century BCE per debates).
+- **Hathigumpha inscription** (Udayagiri, Odisha). It is the primary source on **Kharavela**. It records military campaigns, Jain patronage, repairs of Kalinga after Ashoka. **UPPCS 2018 Q16 answer A (Kharvela)**.
+- **Kharavela** patronized **Jainism**. He excavated caves, temporarily defeated the **Satavahanas**, and retrieved a Jain image from the Greeks.
+- **Three Tamil kingdoms** (Chera, Chola, Pandya). They are described in **Sangam literature**. See §8.9.
+- **Megalithic burials**. They include iron weapons, black-and-red ware. They provide evidence of **Iron Age** culture before historic dynasties.
+- **Roman trade** used ports such as **Muziris** in Kerala and **Kaveripattinam**. Pepper, pearls, and textiles were exported, and Roman gold coins have been found in the south.
+- **Satavahanas** controlled northern Deccan. They linked the south to Gangetic trade routes.
+- **No Mauryan direct rule** over deep south. Ashoka's edicts at edges (Karnataka, Odisha) but Tamil region largely independent.
 - **Language zones**: Tamil (south), Telugu/Prakrit (Andhra-Satavahana), Kannada emerging later.
-- **Later historic dynasties** (post-Sangam) tested in UPPCS matching — **Pallava, Pandya, Chola, Rashtrakuta** (2025 Q121).
-- **Mahendravarman I** — **Pallava** king (~7th century CE); patron of **Mamallapuram/Mahabalipuram** rock-cut architecture; author *Mattavilasa Prahasana*.
-- **Kadungon** — **Pandya** king who **revived Pandya power** (~6th century CE) after Kalabhra interregnum; not to confuse with Sangam-era Pandyas.
-- **Amoghavarsha I** — greatest **Rashtrakuta** emperor (~9th century CE); capital **Manyakheta**; patron of **Kannada** (*Kavirajamarga*); Jain leanings.
-- **Rajaraja I** — imperial **Chola** king (~985–1014 CE); built **Brihadeshwara Temple, Thanjavur**; naval expeditions; not Sangam Chola.
-- **2025 Q121 answer = B (2-4-1-3)** — A→2 Pallava, B→4 Pandya, C→1 Rashtrakuta, D→3 Chola.
-- **Trap** — Rajaraja I is **Chola**, not Pallava; Mahendravarman is **Pallava**, not Chola; Amoghavarsha is **Rashtrakuta**, not Chola.
+- **Later historic dynasties** (post-Sangam) tested in UPPCS matching. **Pallava, Pandya, Chola, Rashtrakuta** (2025 Q121).
+- **Mahendravarman I** was a **Pallava** king of about the 7th century CE. He patronized **Mamallapuram/Mahabalipuram** rock-cut architecture and authored *Mattavilasa Prahasana*.
+- **Kadungon** was a **Pandya** king who **revived Pandya power** around the 6th century CE after the Kalabhra interregnum. He should not be confused with Sangam-era Pandyas.
+- **Amoghavarsha I** was the greatest **Rashtrakuta** emperor of about the 9th century CE. His capital was **Manyakheta**, he patronized **Kannada** through *Kavirajamarga*, and he had Jain leanings.
+- **Rajaraja I** was an imperial **Chola** king around 985–1014 CE. He built the **Brihadeshwara Temple, Thanjavur**, led naval expeditions, and was not a Sangam Chola.
+- **2025 Q121 answer = B (2-4-1-3)**. A to 2 Pallava, B to 4 Pandya, C to 1 Rashtrakuta, D to 3 Chola.
+- **Trap:** Rajaraja I is **Chola**, not Pallava. Mahendravarman is **Pallava**, not Chola, and Amoghavarsha is **Rashtrakuta**, not Chola.
 
 ### Ruler ↔ Dynasty Match Table (2025 Q121)
 
@@ -307,7 +307,7 @@ KEY INSCRIPTIONS:
 - Hathigumpha inscription (2018 Q16)
 - Kharavela = Jain patron
 - Megalithic culture in Deccan/south
-- Roman trade — Muziris, pepper
+- Roman trade. Muziris, pepper
 - Satavahanas link Deccan
 - Tamil Sangam describes early kingdoms
 
@@ -347,15 +347,15 @@ KEY INSCRIPTIONS:
 ### Indo-Greeks — How It Works
 
 - **Indo-Greek kingdoms** emerged from **Greco-Bactrian** state after Seleucid/Mauryan withdrawal from northwest.
-- **Demetrius I** (~180 BCE) — first major Indo-Greek invader of northwest India.
-- **Menander I (Milinda)** — most famous Indo-Greek king; ruled **Gandhara-Punjab**; Buddhist patron.
-- ***Milinda Panha*** — dialogue between **King Milinda (Menander)** and monk **Nagasena** ← **UPPCS 2023 Q24: saint = Nagasena**.
-- **Bilingual coins** — Greek + Kharoshthi/Prakrit — key archaeological evidence for Indo-Greek rule.
-- **Capitals**: **Taxila**, **Sagala (Sialkot)** — urban centres of Hellenistic-Indian culture.
-- **Gandhara art** begins — Greco-Buddhist sculpture fusion — Buddha in Greek-style drapery.
-- **Heliodorus pillar** (Besnagar) — Indo-Greek ambassador **Antialcidas** era — Bhagavata worship.
-- **Decline** — Indo-Greeks displaced by **Shakas** from northwest (~1st century BCE).
-- **Precede Shakas** in invasion chronology ← **2023 Q23: Greeks before Sakas**.
+- **Demetrius I** (~180 BCE). He was the first major Indo-Greek invader of northwest India.
+- **Menander I (Milinda)** was the most famous Indo-Greek king. He ruled **Gandhara-Punjab** and patronized Buddhism.
+- ***Milinda Panha***. Dialogue between **King Milinda (Menander)** and monk **Nagasena**. **UPPCS 2023 Q24: saint = Nagasena**.
+- **Bilingual coins**. They use Greek and Kharoshthi/Prakrit. They are key archaeological evidence for Indo-Greek rule.
+- **Capitals**: **Taxila**, **Sagala (Sialkot)**. They were urban centres of Hellenistic-Indian culture.
+- **Gandhara art** begins. Greco-Buddhist sculpture fusion. Buddha in Greek-style drapery.
+- **Heliodorus pillar** (Besnagar). Indo-Greek ambassador **Antialcidas** era. Bhagavata worship.
+- **Decline**. Indo-Greeks displaced by **Shakas** from northwest (~1st century BCE).
+- **Precede Shakas** in invasion chronology. **2023 Q23: Greeks before Sakas**.
 
 ### Major Indo-Greek Rulers — Table
 
@@ -374,7 +374,7 @@ KEY INSCRIPTIONS:
 - Bactria-based Greek kingdoms
 - Demetrius I first major invader
 - Menander = Milinda (2023 Q24)
-- Milinda Panha — Nagasena
+- Milinda Panha. Nagasena
 - Bilingual Greek-Kharoshthi coins
 - Gandhara Greco-Buddhist art
 - Precede Shakas (2023 Q23)
@@ -409,16 +409,16 @@ KEY INSCRIPTIONS:
 
 ### Shakas — How It Works
 
-- **Shakas** entered India through **northwest passes** after Indo-Greek decline — **Indo-Scythian** rulers.
-- **Maues (Moga)** — first Shaka king in India (~80 BCE) — established rule in Gandhara-Punjab.
-- **Western Kshatrapas** — Shaka satraps ruled **Gujarat, Maharashtra, Malwa, Rajasthan** — semi-independent of central power.
-- **Nahapana** — powerful Kshatrapa; defeated by **Gautamiputra Satakarni** (Nasik inscription evidence).
-- **Rudradaman I** — most famous Shaka Kshatrapa (~130–150 CE) — **Junagarh (Girnar) inscription** and **Nasik inscription**.
-- **Junagarh inscription** — Rudradaman's Sanskrit prose — repairs of Sudarshana lake; no Ashoka/ Chandragupta mention as predecessors.
-- **Nasik inscription** — Rudradaman's achievements; also Gautamiputra's victory over Nahapana on same site (different periods).
-- **Shakas before Kushans** ← **2023 Q23 answer: Greeks → Sakas → Kushans**.
-- **Administrative title**: **Kshatrapa** (satrap/governor) — derived from Persian administrative term.
-- **Coins**: Shaka rulers issued silver and copper coinage; influenced Gupta coinage later.
+- **Shakas** entered India through **northwest passes** after Indo-Greek decline. **Indo-Scythian** rulers.
+- **Maues (Moga)** was first Shaka king in India (~80 BCE). He established rule in Gandhara-Punjab.
+- **Western Kshatrapas**. Shaka satraps ruled **Gujarat, Maharashtra, Malwa, Rajasthan**. They were semi-independent of central power.
+- **Nahapana** was a powerful Kshatrapa. **Gautamiputra Satakarni** defeated him, as shown by Nasik inscription evidence.
+- **Rudradaman I** was most famous Shaka Kshatrapa (~130–150 CE). His evidence includes the **Junagarh (Girnar) inscription** and **Nasik inscription**.
+- **Junagarh inscription** preserves Rudradaman's Sanskrit prose. It records repairs of Sudarshana lake and does not mention Ashoka or Chandragupta as predecessors.
+- **Nasik inscription** records Rudradaman's achievements. The same site also preserves evidence for Gautamiputra's victory over Nahapana from a different period.
+- **Shakas before Kushans**. **2023 Q23 answer: Greeks to Sakas to Kushans**.
+- **Administrative title**: **Kshatrapa** (satrap/governor). It derived from Persian administrative term.
+- **Coins** issued by Shaka rulers included silver and copper types. They influenced Gupta coinage later.
 - **Defeated by**: Satavahanas (west) and later absorbed/replaced by **Kushans** (northwest).
 
 ### Major Shaka Rulers — Table
@@ -437,7 +437,7 @@ KEY INSCRIPTIONS:
 - Indo-Scythians from Central Asia
 - Maues = first Shaka king in India
 - Western Kshatrapas in west India
-- Rudradaman — Junagarh inscription
+- Rudradaman. Junagarh inscription
 - Nahapana defeated by Gautamiputra
 - Shakas before Kushans (2023 Q23)
 - Kshatrapa = governor title
@@ -472,16 +472,16 @@ KEY INSCRIPTIONS:
 
 ### Parthians — How It Works
 
-- **Parthians (Pahlavas)** — branch of **Indo-Parthian** movement; entered India after Shakas established in west.
-- **Gondophares** (~19–45 CE) — best-known Indo-Parthian ruler; ruled **Gandhara, Punjab, Sind**.
-- **Takht-i-Bahi** and **Taxila** region — Indo-Parthian archaeological remains.
-- **Christian tradition** — **St. Thomas** (apostle) said to have visited **Gondophares' court** in India — Gondophares coins as evidence cited.
-- **Brief rule** — Indo-Parthians soon absorbed into or displaced by **Kushan expansion** under Kujula Kadphises.
-- **Chronology position**: after **Shakas**, roughly contemporary with early **Kushans** — between Shaka and Kushan dominance in northwest.
-- **Coins**: Gondophares issued drachms with Greek legends — Hellenistic continuity.
-- **Administrative legacy** — satrap system continued from Shaka-Parthian into Kushan governance.
-- **Limited Gangetic penetration** — Parthians mainly northwest frontier rulers.
-- **Sources**: coins, archaeological sites; less inscriptional evidence than Shakas or Kushans.
+- **Parthians (Pahlavas)** were a branch of the **Indo-Parthian** movement. They entered India after the Shakas had established themselves in the west.
+- **Gondophares** (~19–45 CE) was the best-known Indo-Parthian ruler. He ruled **Gandhara, Punjab, and Sind**.
+- **Takht-i-Bahi** and **Taxila** region. Indo-Parthian archaeological remains.
+- **Christian tradition**. **St. Thomas** (apostle) said to have visited **Gondophares' court** in India. Gondophares coins as evidence cited.
+- **Brief rule**. Indo-Parthians soon absorbed into or displaced by **Kushan expansion** under Kujula Kadphises.
+- **Chronology position**: after **Shakas**, roughly contemporary with early **Kushans**. It stood between Shaka and Kushan dominance in northwest.
+- **Coins**: Gondophares issued drachms with Greek legends. Hellenistic continuity.
+- **Administrative legacy**. The satrap system continued from Shaka-Parthian into Kushan governance.
+- **Limited Gangetic penetration**. Parthians mainly northwest frontier rulers.
+- **Sources** for the Parthians include coins and archaeological sites. Their inscriptional evidence is thinner than that of the Shakas or Kushans.
 
 > **Exam note:** **Gondophares = Parthian (Pahlava)** king — NOT Shaka, NOT Kushan. Brief northwest rule before Kushan peak.
 
@@ -525,16 +525,16 @@ KEY INSCRIPTIONS:
 
 ### Kushanas — How It Works
 
-- **Kushans** descended from **Yuezhi** nomads — displaced Shakas/Parthians in northwest.
-- **Kujula Kadphises** (~30–80 CE) — founder who unified Kushan clans; conquered Gandhara, Punjab.
-- **Vima Kadphises** — son; expanded empire; issued **gold coins**; title **"Shaonanoshao"** (King of kings).
-- **Kanishka** — greatest Kushan emperor — see §8.8.
-- **Empire extent**: **Central Asia to Varanasi/Mathura** — controlled Silk Road trade.
-- **Capitals**: **Purushapura (Peshawar)** primary; **Mathura** second capital in India.
-- **After Shakas** in chronology ← **2023 Q23: Kushans last among Greeks-Shakas-Kushans**.
-- **Religious tolerance** — patronized Buddhism, Hinduism, Zoroastrianism; **Gandhara and Mathura art** flourished.
-- **Coins**: gold dinaras; bilingual inscriptions (Greek, Bactrian, Sanskrit/Kharoshthi) — finest ancient Indian coinage.
-- **Decline** ~3rd century CE — Sassanian pressure; replaced by **Guptas** in Gangetic plain.
+- **Kushans** descended from **Yuezhi** nomads. They displaced Shakas/Parthians in northwest.
+- **Kujula Kadphises** (~30–80 CE) was the founder who unified the Kushan clans. He conquered Gandhara and Punjab.
+- **Vima Kadphises** was his son. He expanded the empire, issued **gold coins**, and used the title **"Shaonanoshao"** (King of kings).
+- **Kanishka** was greatest Kushan emperor. See §8.8.
+- **Empire extent**: **Central Asia to Varanasi/Mathura**. It controlled Silk Road trade.
+- **Kushan capitals** included **Purushapura (Peshawar)** as the primary capital. **Mathura** served as a second capital in India.
+- **After Shakas** in chronology. **2023 Q23: Kushans last among Greeks-Shakas-Kushans**.
+- **Religious tolerance** under the Kushans included patronage of Buddhism, Hinduism, and Zoroastrianism. **Gandhara and Mathura art** flourished.
+- **Kushan coins** included gold dinaras and bilingual inscriptions in Greek, Bactrian, Sanskrit, or Kharoshthi. They are among the finest ancient Indian coinage.
+- **Kushan decline** began around the 3rd century CE under Sassanian pressure. The **Guptas** later replaced them in the Gangetic plain.
 
 ### Kushan Rulers — Table
 
@@ -557,7 +557,7 @@ KEY INSCRIPTIONS:
 - Mathura second capital
 - After Shakas (2023 Q23)
 - Silk Road trade control
-- Gold coinage; Gandhara art peak
+- Gold coinage marked Kushan prosperity, and Gandhara art reached its peak.
 
 ### PYQs — Kushanas
 
@@ -588,16 +588,16 @@ KEY INSCRIPTIONS:
 
 ### Kanishka — How It Works
 
-- **Kanishka** (~127–150 CE) — most powerful **Kushan emperor**; empire at maximum extent.
-- **Started Shaka Samvat (era)** — traditionally **78 CE** — still referenced in Indian calendars (debated attribution).
-- **Fourth Buddhist Council** held in **Kashmir** (Kundalvana region) under Kanishka — **Sarvastivada** canon finalized.
-- **Patron of Buddhism** — stupas, monasteries, Buddha images in **Gandhara and Mathura styles**.
-- **Capital**: **Purushapura (Peshawar)** — Kanishka's stupa (Chinese pilgrims Fa Xian, Xuanzang described it).
-- **Religious tolerance** — also honored Greek, Persian, Hindu deities on coins.
-- **Trade expansion** — Kushan control of **Silk Road** brought prosperity; **Roman, Chinese** contacts.
-- **Military campaigns** — extended Kushan power into **Gangetic plain** (Mathura region).
+- **Kanishka** (~127–150 CE) was the most powerful **Kushan emperor**. The empire reached its maximum extent under him.
+- **Started Shaka Samvat (era)**. It is traditionally dated to **78 CE**. It is still referenced in Indian calendars (debated attribution).
+- **Fourth Buddhist Council** held in **Kashmir** (Kundalvana region) under Kanishka. **Sarvastivada** canon finalized.
+- **Patron of Buddhism**. He patronized stupas, monasteries, Buddha images in **Gandhara and Mathura styles**.
+- **Capital**: **Purushapura (Peshawar)**. Kanishka's stupa (Chinese pilgrims Fa Xian, Xuanzang described it).
+- **Religious tolerance**. He also honored Greek, Persian, Hindu deities on coins.
+- **Trade expansion** followed Kushan control of the **Silk Road**. This brought prosperity and strengthened **Roman and Chinese** contacts.
+- **Military campaigns**. They extended Kushan power into **Gangetic plain** (Mathura region).
 - **Succession**: **Huvishka, Vasudeva** continued dynasty after Kanishka.
-- **NOT the Hathigumpha king** ← trap with 2018 Q16 option D (Kanishka).
+- **NOT the Hathigumpha king** was trap with 2018 Q16 option D (Kanishka).
 
 > **Exam note:** Kanishka ≠ Kharavela (2018 Q16 trap option D). **Shaka era 78 CE** traditionally linked to Kanishka. **4th Buddhist Council** in Kashmir under Kanishka.
 
@@ -651,13 +651,13 @@ KEY INSCRIPTIONS:
 
 ### Sangam Age — How It Works
 
-- **Sangam** = assembly/academy of **Tamil poets and scholars**, traditionally under **Pandya patronage** at **Madurai** — cultural-literary age contemporary with **Satavahanas** and early **Kushans** (not same dynasty).
-- **Period**: roughly **300 BCE–300 CE** in **Tamilakam** — early historic phase when **writing, state, iron agriculture, coinage, and classical Tamil literature** converge.
-- **Megalithic → Sangam transition** — iron-age **burial monuments** (dolmens, cists) and **hero stones** precede state formation; Sangam era adds **urban ports, Tamil-Brahmi inscriptions, Roman trade goods** (Arikamedu, Keeladi).
-- **Three Sangams (Muchchangam)** — later tradition claims three assemblies over millennia; **first two legendary**; **third Sangam (~1st–3rd c. CE)** linked to extant poetry. Historians accept **one important Madurai assembly** under Pandyas; poems composed over centuries, **compiled c. 300–600 CE**.
-- **Three kingdoms (Muvendar)**: **Chera** (west/Kerala), **Chola** (Kaveri/east), **Pandya** (Madurai/south) — fought each other but shared Tamil culture; poets moved between courts.
-- **Ashokan rock edicts** mention **Cholas, Pandyas, Keralaputras (Cheras), Satyaputras** — corroborates literary references; **no direct Mauryan rule** over deep Tamil region.
-- **Satavahana overlap** — north Deccan empire (c. 1st c. BCE–2nd c. CE) shared **Roman trade routes** across Krishna-Tungabhadra divide — **contemporary, not identical** with Sangam polity.
+- **Sangam** = assembly/academy of **Tamil poets and scholars**, traditionally under **Pandya patronage** at **Madurai**. It was a cultural-literary age contemporary with **Satavahanas** and early **Kushans** (not same dynasty).
+- **Period**: roughly **300 BCE–300 CE** in **Tamilakam**. It was an early historic phase when **writing, state, iron agriculture, coinage, and classical Tamil literature** converge.
+- **Megalithic to Sangam transition** moved from iron-age **burial monuments** such as dolmens, cists, and **hero stones** toward state formation. The Sangam era added **urban ports, Tamil-Brahmi inscriptions, and Roman trade goods** at sites such as Arikamedu and Keeladi.
+- **Three Sangams (Muchchangam)** are claimed by later tradition as three assemblies over millennia. The **first two are legendary**, while the **third Sangam (~1st–3rd c. CE)** is linked to extant poetry. Historians accept **one important Madurai assembly** under the Pandyas, with poems composed over centuries and **compiled c. 300–600 CE**.
+- **Three kingdoms (Muvendar)** were **Chera** in the west/Kerala, **Chola** in the Kaveri/east, and **Pandya** around Madurai/south. They fought each other but shared Tamil culture, and poets moved between their courts.
+- **Ashokan rock edicts** mention **Cholas, Pandyas, Keralaputras (Cheras), and Satyaputras**. This corroborates literary references, but there was **no direct Mauryan rule** over the deep Tamil region.
+- **Satavahana overlap** was north Deccan empire (c. 1st c. BCE–2nd c. CE) shared **Roman trade routes** across Krishna-Tungabhadra divide. It was **contemporary, not identical** with Sangam polity.
 
 ### Megalithic → Sangam Transition — Table
 
@@ -688,9 +688,9 @@ KEY INSCRIPTIONS:
 
 ### Literary Themes — Akam, Puram, and Tinai
 
-- **Akam (aham)** — subjective/inner — love, emotions, personal relationships; idealised heroes and heroines.
-- **Puram** — objective/outer — war, heroism, kingship, generosity, public duty.
-- **Tinai (five landscapes)** — from **Tolkappiyam**:
+- **Akam (aham)** refers to subjective or inner themes. It covers love, emotions, personal relationships, and idealised heroes and heroines.
+- **Puram**. It covers objective and outer themes. These include war, heroism, kingship, generosity, public duty.
+- **Tinai (five landscapes)**. It comes from **Tolkappiyam**:
 
 | Landscape | Region | Associated deity / life |
 |-----------|--------|-------------------------|
@@ -700,7 +700,7 @@ KEY INSCRIPTIONS:
 | **Neydal** | Coastal | Fishing, salt |
 | **Palai** | Arid/wasteland | Warrior life, separation |
 
-- Over **470 poets** — kings, merchants, **women poets** (Avvaiyar, Kakkaipadiniyar) — not only court bards; mainly **2nd century CE onward** composition, oral transmission, later compilation.
+- Sangam poetry names over **470 poets**, including kings, merchants, and **women poets** such as Avvaiyar and Kakkaipadiniyar. They were not only court bards, and much of the composition belongs mainly to the **2nd century CE onward**, followed by oral transmission and later compilation.
 
 ### Muvendar — Rulers, Capitals, and Specialities
 
@@ -710,10 +710,10 @@ KEY INSCRIPTIONS:
 | **Chola** | Tiger | **Uraiyur**; port **Puhar (Kaveripattinam)** | **Karikala** (~2nd c. CE) | Kaveri delta; **Kaveri embankment**; navy; cotton from Uraiyur |
 | **Pandya** | Fish (carp) | **Madurai**; port **Korkai** | **Nedunjeliyan** | Sangam patron; **pearl fisheries**; southern tip |
 
-- Collectively **Muvendar** — core trio tested in prelims; **Pallava, Rashtrakuta, imperial Chola** are **later** dynasties (see §8.3, 2025 Q121).
-- **Karikala Chola** — built **Kallanai/Kaveri embankment**, developed **Puhar** as major port — **NOT Rajaraja I** (imperial Chola, 11th c.) ← major trap.
-- **Senguttuvan Chera** — **Roman trade**, Pattini/Kannagi cult links; "Red Chera" in tradition.
-- **Coinage** — Pandya, Chola, Chera issued coins (elephant, fish, bow symbols) — evidence of monetised exchange alongside barter.
+- The three kingdoms are collectively called **Muvendar** and form the core trio tested in prelims. **Pallava, Rashtrakuta, and imperial Chola** are **later** dynasties (see §8.3, 2025 Q121).
+- **Karikala Chola**. He built **Kallanai/Kaveri embankment**, developed **Puhar** as major port. He was **NOT Rajaraja I** (imperial Chola, 11th c.). Major trap.
+- **Senguttuvan Chera** is linked with **Roman trade** and the Pattini/Kannagi cult. Tradition remembers him as the "Red Chera."
+- **Coinage**. Pandya, Chola, Chera issued coins (elephant, fish, bow symbols). They provide evidence of monetised exchange alongside barter.
 
 ### Muvendar Administration — Common Framework
 
@@ -787,11 +787,11 @@ All three kingdoms shared a **hereditary monarchy** model — simpler than Maury
 
 ### Polity, Society, and Religion
 
-- **Shared social structure** (Tolkappiyam) — **arasar** (ruling class), **anthanar** (priests), **vanigar** (merchants), **vellalar** (agriculturists); subordinate chieftains (**velir**, **maravar**).
-- **Hero stones (Virakkal / Nadukal)** — memorials linking megalithic warrior cult to Sangam **Puram** heroism.
-- **Women** — patriarchal norms but **women poets** and participation in trade/poetry (Avvaiyar etc.).
-- **Religion** — indigenous worship of **Murugan, Kotravai, Vel, Shiva, Vishnu**; **Jainism and Buddhism** present (Silappadikaram = Jain; Manimekalai = Buddhist); Brahmanization increases from **4th century CE** onward.
-- **Economy** — rice agriculture, tank/river irrigation (strongest under Chola); crafts — weaving, metalwork, **shipbuilding**; internal + Indian Ocean trade.
+- **Shared social structure** in the Tolkappiyam included **arasar** (ruling class), **anthanar** (priests), **vanigar** (merchants), and **vellalar** (agriculturists). Subordinate chieftains included **velir** and **maravar**.
+- **Hero stones (Virakkal / Nadukal)**. They were memorials linking megalithic warrior cult to Sangam **Puram** heroism.
+- **Women**. Society had patriarchal norms but **women poets** and participation in trade/poetry (Avvaiyar etc.).
+- **Religion** included indigenous worship of **Murugan, Kotravai, Vel, Shiva, and Vishnu**. **Jainism and Buddhism** were present, with *Silappadikaram* linked to Jainism and *Manimekalai* to Buddhism, while Brahmanization increased from the **4th century CE** onward.
+- **Economy** rested on rice agriculture and tank or river irrigation, strongest under the Cholas. Crafts such as weaving, metalwork, and **shipbuilding** supported internal and Indian Ocean trade.
 
 ### Ports, Trade, and Archaeology — Table
 
@@ -805,10 +805,10 @@ All three kingdoms shared a **hereditary monarchy** model — simpler than Maury
 | **Arikamedu** (near Pondicherry) | Chola contact zone | Roman trade archaeology | Mediterranean amphorae, glass beads, Arretine pottery |
 | **Keeladi** (Sivaganga, TN) | Sangam-era urban | ASI excavations | Tamil-Brahmi, urban structures, beads — pushes back urbanisation evidence |
 
-- **Roman trade** peaked **1st–3rd century CE** — exports: **pepper, spices, cotton, gems, pearls**; imports: gold, wine, pottery.
-- **Yavanas** (foreigners/Greeks-Romans) mentioned in Sangam poems — overseas merchants at Tamil ports.
-- **Foreign corroboration**: **Megasthenes** knew Pandyas; **Periplus of the Erythraean Sea** (1st c. CE) names **Muziris, Nelcynda**; **Pliny, Ptolemy** reference south Indian trade.
-- **Tamil-Brahmi inscriptions** (2nd–1st c. BCE) — earliest Tamil writing; mainly Madurai region.
+- **Roman trade** peaked in the **1st–3rd century CE**. Tamilakam exported **pepper, spices, cotton, gems, and pearls**, and imported gold, wine, and pottery.
+- **Yavanas** (foreigners/Greeks-Romans) mentioned in Sangam poems. They were overseas merchants at Tamil ports.
+- **Foreign corroboration** comes from several sources. **Megasthenes** knew of the Pandyas, the **Periplus of the Erythraean Sea** (1st c. CE) names **Muziris and Nelcynda**, and **Pliny and Ptolemy** refer to south Indian trade.
+- **Tamil-Brahmi inscriptions** of the 2nd–1st century BCE provide the earliest Tamil writing. They are mainly found in the Madurai region.
 
 > **Exam note:** Sangam = **Tamil literary-cultural age** in deep south — **NOT Satavahana dynasty** (Deccan Andhra). Traps: "Sangam assemblies founded by Kanishka" — **false**; "Sangam texts describe Mauryan provincial administration" — **false**; **Karikala ≠ Rajaraja I**; **Chera = customs/trade admin | Chola = irrigation/agrarian admin | Pandya = pearl + court admin**.
 
@@ -816,23 +816,23 @@ All three kingdoms shared a **hereditary monarchy** model — simpler than Maury
 
 - Tamilakam c. 300 BCE–300 CE (south of Krishna-Tungabhadra)
 - Muvendar = Chera-Chola-Pandya (bow-tiger-fish emblems)
-- Three Sangams at Madurai (legend; third = extant texts)
-- Tolkappiyam = earliest Tamil grammar; Tirukkural = Tamil Veda
-- Ettuttokai (8) + Pattuppattu (10) = core anthologies
-- Akam (love) vs Puram (war); Tinai = five landscapes
-- Karikala Chola = Kaveri embankment, Puhar — NOT Rajaraja
+- Three Sangams are traditionally placed at Madurai, but the tradition is legendary and the third is linked to extant texts.
+- Tolkappiyam is the earliest Tamil grammar, and Tirukkural is known as the Tamil Veda.
+- Ettuttokai (8) and Pattuppattu (10) = core anthologies
+- Akam covers love, Puram covers war, and Tinai classifies the five landscapes.
+- Karikala Chola = Kaveri embankment, Puhar. NOT Rajaraja
 - Muziris = Chera Roman trade port (pepper)
 - Arikamedu = Roman trade archaeology
 - Yavanas = foreigners in Sangam texts
-- Megalithic burials → hero stones → Sangam states
+- Megalithic burials to hero stones to Sangam states
 - Ashokan edicts mention Tamil kingdoms
-- Satavahana overlap contemporary — not same polity
-- Sangam literature in Tamil — NOT Mauryan admin manual
-- **Admin:** hereditary monarchy (vendan) + **vari** (land tax) + **Sungam** (customs)
-- **Chera admin** = Muziris customs + pepper trade (Senguttuvan)
-- **Chola admin** = Kaveri **vari** + Karikala irrigation + navy (Pattinappalai/Puhar)
-- **Pandya admin** = Madurai court + Korkai **pearl monopoly** (Nedunjeliyan)
-- Local units: **Nadu** (district) + **Ur** (village); **Velir** = feudatory chiefs
+- Satavahana overlap contemporary. It was not the same polity
+- Sangam literature in Tamil. NOT Mauryan admin manual
+- **Admin:** hereditary monarchy (vendan) and **vari** (land tax) and **Sungam** (customs)
+- **Chera admin** = Muziris customs and pepper trade (Senguttuvan)
+- **Chola admin** = Kaveri **vari** and Karikala irrigation and navy (Pattinappalai/Puhar)
+- **Pandya admin** = Madurai court and Korkai **pearl monopoly** (Nedunjeliyan)
+- Local units were **Nadu** (district) and **Ur** (village), while **Velir** were feudatory chiefs.
 
 ### PYQs — Sangam Age
 

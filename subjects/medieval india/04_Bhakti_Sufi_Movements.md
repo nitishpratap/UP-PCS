@@ -163,29 +163,29 @@ UP LINKS:
 
 ### Bhakti Movement — How It Works
 
-- **Vedic roots:** Bhakti idea appears in **Upanishads** and **Bhagavad Gita** — but mass movement crystallises in **Tamil country** first.
-- **Southern phase (7th–12th c.):** **63 Nayanars** (Shiva) and **12 Alvars** (Vishnu) compose Tamil devotional hymns — temple-centred bhakti.
-- **Northward transmission:** South traditions reach north via **scholars, pilgrims, saints** — Ramanuja's theology plus sant poetry fuse in Gangetic plain.
-- **Social driver:** **Decline of Rajput political power** and **Brahman ritual monopoly** — lower castes seek direct access to God.
-- **Islamic/Sufi influence:** Ideas of **equality, brotherhood, personal God** parallel Sufi humanism — not direct copying but shared social climate.
-- **Language shift:** Saints compose in **Marathi, Hindi, Awadhi, Braj, Punjabi, Bengali** — bypasses Sanskrit elite.
-- **Anti-ritual strand:** Many sants reject **idol worship, caste, pilgrimage, formal puja/namaz** — stress inner experience.
-- **Not one organisation:** **Decentralised sant parampara** — local gurus, no single church — yet shared themes.
-- **Mughal outcome:** Bhakti–Sufi synthesis contributes to **Akbar's sulh-i-kul** and **composite culture** — long-term tolerance.
+- **Vedic roots:** The idea of bhakti appears in the **Upanishads** and the **Bhagavad Gita**, but it first crystallised as a mass movement in the **Tamil country**.
+- **Southern phase (7th-12th c.):** The **63 Nayanars** and **12 Alvars** composed Tamil devotional hymns that made temple-centred Shaiva and Vaishnava bhakti popular.
+- **Northward transmission:** Southern traditions moved north through scholars, pilgrims, and saints, where Ramanuja's theology fused with sant poetry in the Gangetic plain.
+- **Social driver:** The decline of Rajput political power and the weight of Brahman ritual monopoly encouraged lower castes to seek direct access to God.
+- **Islamic/Sufi influence:** Bhakti shared a social climate with Sufi ideas of equality, brotherhood, and personal devotion, though it was not a simple copy of Sufism.
+- **Language shift:** Saints composed in **Marathi, Hindi, Awadhi, Braj, Punjabi, and Bengali**, which bypassed the Sanskrit elite and reached common people.
+- **Anti-ritual strand:** Many sants rejected idol worship, caste, pilgrimage, formal puja, and formal namaz when these replaced inner experience.
+- **Not one organisation:** The movement remained a **decentralised sant parampara** with local gurus and no single church, even though its themes were widely shared.
+- **Mughal outcome:** Bhakti-Sufi synthesis helped shape **Akbar's sulh-i-kul** and the broader composite culture of medieval India.
 
 > **Exam note:** Bhakti did **not** start in north with Kabir — **Alvars/Nayanars** are the earliest organised bhakti saints (trap in chronology questions).
 
 ### Exam Facts (raata)
 
-- Roots in **Gita/Upanishads**; mass movement from **7th c. South India**.
-- **Nayanars** = Shaiva; **Alvars** = Vaishnava.
-- **Two streams:** Saguna and Nirguna.
-- **Vernacular** poetry central — not Sanskrit-only.
-- **Anti-caste** and **anti-ritual** tendencies in many sants.
-- **Sufi influence** on equality discourse.
-- Spread to north by **13th–15th c.**
-- Contributed to **composite culture** under Mughals.
-- **Decentralised** — no single institution.
+- Bhakti has roots in the **Gita/Upanishads**, but the mass movement began from **7th c. South India**.
+- **Nayanars** were Shaiva, while **Alvars** were Vaishnava.
+- The two streams are Saguna and Nirguna.
+- **Vernacular** poetry was central, so Bhakti was not Sanskrit-only.
+- Many sants had **anti-caste** and **anti-ritual** tendencies.
+- **Sufi influence** strengthened the equality discourse.
+- Bhakti spread to north India by the **13th-15th c.**
+- It contributed to **composite culture** under the Mughals.
+- The movement was **decentralised** and had no single institution.
 
 ### PYQs — Bhakti Movement
 
@@ -215,15 +215,15 @@ UP LINKS:
 
 ### Major Bhakti Saints — How It Works
 
-- **Regional diversity:** Saints active in **Maharashtra, UP, Punjab, Braj, Rajasthan, Bengal** — UPPCS tests **UP-linked** saints heavily.
-- **Occupation diversity:** Weavers (**Kabir**), cobblers (**Ravidas**), barbers (**Sena**), royalty (**Mirabai**, **Chaitanya** educated elite) — social inclusivity message.
-- **Guru centrality:** Most north sants claim **Ramananda, Vallabhacharya**, or **personal revelation** line — guru legitimises teaching.
-- **Nirguna cluster:** **Kabir, Nanak, Dadu Dayal, Ravidas** — formless God vocabulary.
-- **Saguna cluster:** **Surdas, Tulsidas, Mirabai, Chaitanya** — Krishna/Rama devotion.
-- **Women saints:** **Mirabai**, **Andal** (Alvar), **Daya Bai**, **Sahajobai** — bhakti opened space for women poets.
-- **Literary legacy:** Compositions sung in **temples, homes, kirtans** — living oral tradition today.
-- **Panth formation:** Posthumous followers form **Kabir Panth, Dadu Panth, Ravidas Panth, Sikh Panth** — institutionalisation after saint's death.
-- **Contrast with orthodox Brahmanism:** Sants often **ignored varna rules** for dining and worship — radical for their time.
+- **Regional diversity:** Bhakti saints worked across **Maharashtra, UP, Punjab, Braj, Rajasthan, and Bengal**, and UPPCS tests the **UP-linked** saints most heavily.
+- **Occupation diversity:** The tradition included weavers like **Kabir**, cobblers like **Ravidas**, barbers like **Sena**, and royal or elite figures like **Mirabai** and **Chaitanya**, which strengthened its social inclusivity.
+- **Guru centrality:** Most north Indian sants claimed a line through **Ramananda**, **Vallabhacharya**, or personal revelation because the guru legitimised the teaching.
+- **Nirguna cluster:** **Kabir, Nanak, Dadu Dayal, and Ravidas** used the vocabulary of a formless God.
+- **Saguna cluster:** **Surdas, Tulsidas, Mirabai, and Chaitanya** centred devotion on Krishna or Rama with form and attributes.
+- **Women saints:** **Mirabai**, **Andal**, **Daya Bai**, and **Sahajobai** show how bhakti opened space for women poets.
+- **Literary legacy:** Their compositions are still sung in **temples, homes, and kirtans**, so the tradition remains orally alive.
+- **Panth formation:** Followers later formed **Kabir Panth, Dadu Panth, Ravidas Panth, and Sikh Panth**, institutionalising teachings after the saints' deaths.
+- **Contrast with orthodox Brahmanism:** Many sants ignored varna rules for dining and worship, which made their social message radical for the period.
 
 > **Exam note:** **Major saint ↔ city** — Kabir/Kashi, Nanak/Punjab, Chaitanya/Nabadwip, Mirabai/Mewar, Tulsidas/Ayodhya context.
 
@@ -244,16 +244,16 @@ UP LINKS:
 
 ### Exam Facts (raata)
 
-- **Namdev** — Marathi; among earliest in chronology lists.
-- **Ramananda** — opened bhakti to **all castes**; Rama focus.
-- **Kabir** — weaver; **Ramananda** disciple.
-- **Ravidas** — cobbler; **Ramananda** disciple.
-- **Nanak** — **1469–1539**; **Mardana** on rabab.
-- **Chaitanya** — **Gaudiya Vaishnavism**; Bengal.
-- **Surdas** — blind poet; **Vallabhacharya** disciple.
-- **Tulsidas** — **Ramcharitmanas** Awadhi.
-- **Mirabai** — Mewar princess; Krishna.
-- **Dadu Dayal** — **Nipakhi** non-sectarian path.
+- **Namdev** was a Marathi bhakti saint and is among the earliest names in chronology lists.
+- **Ramananda** opened bhakti to **all castes** and focused on Rama devotion.
+- **Kabir** was a weaver and a disciple of **Ramananda**.
+- **Ravidas** was a cobbler and a disciple of **Ramananda**.
+- **Nanak** lived in **1469-1539**, and **Mardana** played the rabab.
+- **Chaitanya** is linked with **Gaudiya Vaishnavism** in Bengal.
+- **Surdas** was a blind poet and a disciple of **Vallabhacharya**.
+- **Tulsidas** is **Ramcharitmanas** Awadhi.
+- **Mirabai** was a Mewar princess and a Krishna devotee.
+- **Dadu Dayal** is **Nipakhi** non-sectarian path.
 
 ### PYQs — Major Saints
 
@@ -282,15 +282,15 @@ UP LINKS:
 
 ### Chronology — How It Works
 
-- **Phase I (7th–12th c.):** **Alvars & Nayanars** in Tamil country — earliest bhakti corpus.
-- **Phase II (13th–14th c.):** **Namdev** (Maharashtra, ~1270–1350) — devotion spreads in Marathi.
-- **Phase III (14th–15th c.):** **Ramananda** active in Banaras — trains **Kabir, Ravidas** and others.
-- **Phase IV (15th c.):** **Kabir** (~1398–1518) — peak nirguna poetry in Kashi.
-- **Phase V (late 15th–16th c.):** **Guru Nanak (1469–1539)** and **Chaitanya (1486–1533)** — overlapping generation.
-- **Phase VI (16th c.):** **Surdas (1478–1581)**, **Mirabai (~1498–1547)**, **Tulsidas (1532–1623)** — saguna poetry matures.
-- **Phase VII (late 16th c.):** **Dadu Dayal (1544–1603)** — Rajasthan nirguna synthesis.
-- **Trap logic:** **Namdev before Kabir** always; **Kabir before Nanak** generally; **Nanak & Chaitanya** contemporaries but Nanak **born earlier** (1469 vs 1486).
-- **2025 Q74 order:** **3 Namdev → 4 Kabir → 1 Nanak → 2 Chaitanya** — code **C**.
+- **Phase I (7th–12th c.):** **Alvars & Nayanars** created the earliest bhakti corpus in the Tamil country.
+- **Phase II (13th–14th c.):** **Namdev** (Maharashtra, ~1270–1350) spread devotion through Marathi compositions.
+- **Phase III (14th–15th c.):** **Ramananda** worked in Banaras and trained **Kabir, Ravidas**, and others.
+- **Phase IV (15th c.):** **Kabir** (~1398–1518) represented the peak of nirguna poetry in Kashi.
+- **Phase V (late 15th–16th c.):** **Guru Nanak (1469–1539)** and **Chaitanya (1486–1533)** belonged to an overlapping generation.
+- **Phase VI (16th c.):** **Surdas (1478–1581)**, **Mirabai (~1498–1547)**, and **Tulsidas (1532–1623)** marked the maturation of saguna poetry.
+- **Phase VII (late 16th c.):** **Dadu Dayal (1544–1603)** carried the Rajasthan nirguna synthesis into the late 16th century.
+- **Trap logic:** **Namdev** always comes before **Kabir**. **Kabir** generally comes before **Nanak**, and Nanak was born earlier than **Chaitanya** (1469 vs 1486) even though they were contemporaries.
+- **2025 Q74 order:** The correct sequence is **3 Namdev → 4 Kabir → 1 Nanak → 2 Chaitanya**, giving code **C**.
 
 > **Exam note:** Do **not** place **Tulsidas before Kabir** — Tulsidas is **16th–17th c.** (Ramcharitmanas ~1574).
 
@@ -311,10 +311,10 @@ UP LINKS:
 
 ### Exam Facts (raata)
 
-- Earliest = **Alvars/Nayanars** (south).
+- Earliest is **Alvars/Nayanars** (south).
 - **Namdev** before **Kabir** (2025 Q74).
 - **Kabir** before **Nanak**.
-- **Nanak** born **1469**; **Chaitanya** **1486**.
+- **Nanak** was born in **1469**, while **Chaitanya** was born in **1486**.
 - **Tulsidas** later than Kabir/Nanak.
 - **Dadu Dayal** late 16th c.
 
@@ -345,15 +345,15 @@ UP LINKS:
 
 ### Guru-Shishya — How It Works
 
-- **Bhakti model:** Disciple receives **mantra, teaching, legitimacy** from guru — cannot self-authorise as sant.
-- **Ramananda line:** **Kabir, Ravidas, Sena, Sadhana** among disciples — **low-caste occupational diversity** deliberate.
-- **Vallabhacharya line:** **Surdas** and Pushti Marg followers — **Krishna saguna** theology.
-- **Nanak line:** **Mardana** (Muslim rabab-player) as lifelong companion — symbol of **Hindu–Muslim fellowship**.
-- **Sufi model:** **Pir–murid** bond stronger than tribal/clan tie — murid serves pir, receives **wazifa** (meditation formula).
-- **Khanqah:** Sufi hospice where **disciples live, learn, serve** — also centre of charity.
-- **Silsilah names:** **Chishti, Suhrawardi, Qadiri, Naqshbandi** — each chain traced to founding pir.
-- **2025 Q12 pairs:** Kabir→Ramananda | Khusrau→Nizamuddin | Surdas→Vallabhacharya | Mardana→Nanak → **C (2-3-4-1)**.
-- **Trap:** Amir Khusrau was **disciple of Nizamuddin**, not vice versa — Khusrau was poet, Nizamuddin was pir.
+- **Bhakti model:** A disciple received mantra, teaching, and legitimacy from the guru, so a sant was not treated as self-authorised.
+- **Ramananda line:** **Kabir, Ravidas, Sena, and Sadhana** are placed among Ramananda's disciples, showing deliberate occupational and caste diversity.
+- **Vallabhacharya line:** **Surdas** and other Pushti Marg followers carried a **Krishna saguna** theology.
+- **Nanak line:** **Mardana**, the Muslim rabab-player, remained Guru Nanak's lifelong companion and symbolised Hindu-Muslim fellowship.
+- **Sufi model:** The **pir-murid** bond tied the disciple to the pir through loyalty, service, and receipt of a **wazifa** or meditation formula.
+- **Khanqah:** A khanqah was the Sufi hospice where disciples lived, learned, served, and participated in charity.
+- **Silsilah names:** **Chishti, Suhrawardi, Qadiri, and Naqshbandi** each named a Sufi chain traced to a founding pir.
+- **2025 Q12 pairs:** The exam pairings are Kabir to Ramananda, Khusrau to Nizamuddin, Surdas to Vallabhacharya, and Mardana to Nanak, giving code **C (2-3-4-1)**.
+- **Trap:** Amir Khusrau was the disciple of **Nizamuddin**, not the other way round, because Khusrau was the poet and Nizamuddin was the pir.
 
 > **Exam note:** **Mardana → Guru Nanak** (not Nanak → Mardana) — Mardana is **disciple/companion**, Nanak is guru.
 
@@ -374,8 +374,8 @@ UP LINKS:
 - **Surdas → Vallabhacharya** (2025 Q12).
 - **Khusrau → Nizamuddin** (2025 Q12).
 - **Mardana → Nanak** (2025 Q12).
-- Sufi = **pir–murid**; Bhakti = **guru–shishya**.
-- **Silsilah** = Sufi spiritual chain.
+- Sufi transmission used the **pir-murid** bond, while Bhakti used the **guru-shishya** model.
+- **Silsilah** is Sufi spiritual chain.
 
 ### PYQs — Guru-Shishya
 
@@ -404,24 +404,24 @@ UP LINKS:
 
 ### Ramananda, Namdev & Ravidas — How It Works
 
-- **Namdev:** Tailor/calendar tradition; hymns in **Marathi**; some verses in **Guru Granth Sahib** — shows cross-regional respect.
-- **Ramananda:** Born near **Prayag**, worked **Banaras**; follower of **Ramanuja's** Vishishtadvaita but **simplified** for masses.
-- **Ramananda's break:** Replaced **Vishnu temple ritual** with **direct Rama bhakti** — no middle priesthood required.
-- **Caste openness:** Allowed **women and lower castes** as disciples — revolutionary in Gangetic society.
-- **Kabir & Ravidas:** Both **occupational "low" castes** — prove Ramananda's egalitarian practice.
-- **Ravidas teachings:** One formless God; rejected **Brahman supremacy**; **Ravidas Panth** continues today.
-- **Chronology:** **Namdev → Ramananda → Kabir/Ravidas** — Namdev earliest of this group.
-- **Geography:** All linked to **Gangetic sacred belt** — UPPCS favours **Banaras/Kashi** context.
+- **Namdev:** Namdev came from the tailor tradition, composed hymns in **Marathi**, and gained cross-regional respect because some verses entered the **Guru Granth Sahib**.
+- **Ramananda:** Ramananda was born near **Prayag**, worked in **Banaras**, followed **Ramanuja's** Vishishtadvaita, and simplified it for the masses.
+- **Ramananda's break:** Ramananda replaced temple-centred Vishnu ritual with direct **Rama bhakti**, reducing dependence on priestly mediation.
+- **Caste openness:** He accepted women and lower castes as disciples, which was revolutionary in Gangetic society.
+- **Kabir & Ravidas:** Kabir and Ravidas came from occupationally "low" castes, proving Ramananda's egalitarian practice.
+- **Ravidas teachings:** Ravidas taught one formless God, rejected **Brahman supremacy**, and inspired the continuing **Ravidas Panth**.
+- **Chronology:** The correct order is **Namdev → Ramananda → Kabir/Ravidas**, with Namdev earliest in this group.
+- **Geography:** These saints are linked to the **Gangetic sacred belt**, so UPPCS often frames them through the **Banaras/Kashi** context.
 
 > **Exam note:** **Ravidas = cobbler + Ramananda disciple** — two facts tested together in statement questions.
 
 ### Exam Facts (raata)
 
-- **Namdev** — Marathi; Vithoba devotion; pre-Kabir.
-- **Ramananda** — Prayag/Banaras; **Rama** bhakti.
+- **Namdev** was a Marathi saint linked with Vithoba devotion, and he came before Kabir.
+- **Ramananda** is linked with Prayag/Banaras and **Rama** bhakti.
 - Opened bhakti to **all castes**.
-- **Kabir & Ravidas** = Ramananda disciples.
-- **Ravidas** = cobbler/charmkar Varanasi.
+- **Kabir & Ravidas** is Ramananda disciples.
+- **Ravidas** was a cobbler/charmkar saint from Varanasi.
 - Namdev hymns in **Adi Granth**.
 - Followed **Ramanuja** philosophically (simplified).
 
@@ -452,27 +452,27 @@ UP LINKS:
 
 ### Kabir — How It Works
 
-- **Life:** Generally placed **15th century** (~1398–1518); born near **Kashi**, died at **Maghar** (tradition says to challenge "die in Kashi" belief).
-- **Guru:** Disciple of **Swami Ramananda** — received Rama mantra legend says through clever device.
-- **Teachings:** **One God** — calls Him **Ram, Hari, Govind, Allah, Sahib** interchangeably.
-- **Rejected:** **Idol worship, caste, thread ceremony, pilgrimage, formal namaz**, temple/mosque ritualism.
-- **Accepted:** **Guru, inner experience, honest householder life** — no need for sanyasa.
-- **Language:** **Hindi dohas** — short couplets easy to memorise (raata-friendly).
-- **Social message:** **Caste has no bearing on salvation** — weaver speaks truth to pandit and pir.
-- **Legacy:** **Kabir Panth**; verses in **Adi Granth**; influenced **Dadu Panth** and modern Dalit thought.
-- **UP link:** **Sant Kabir Nagar** district (UP); Maghar on UP border — high UPPCS relevance.
+- **Life:** Kabir is generally placed in the **15th century** (~1398–1518), was born near **Kashi**, and died at **Maghar** according to the tradition that he challenged the belief that one must die in Kashi.
+- **Guru:** Kabir was a disciple of **Swami Ramananda**, and tradition says he received the Rama mantra through a clever device.
+- **Teachings:** Kabir taught **One God** and used **Ram, Hari, Govind, Allah, and Sahib** interchangeably for Him.
+- **Rejected:** Kabir rejected **idol worship, caste, thread ceremony, pilgrimage, formal namaz**, and temple or mosque ritualism.
+- **Accepted:** Kabir accepted the **guru, inner experience, and honest householder life**, so he did not require sanyasa.
+- **Language:** Kabir composed **Hindi dohas** as short couplets that were easy to memorise.
+- **Social message:** Kabir taught that **caste has no bearing on salvation**, with a weaver speaking truth to both pandit and pir.
+- **Legacy:** **Kabir Panth** preserved his teachings, his verses entered the **Adi Granth**, and his ideas influenced **Dadu Panth** and modern Dalit thought.
+- **UP link:** **Sant Kabir Nagar** district (UP) and **Maghar** on the UP border make Kabir highly relevant for UPPCS.
 
 > **Exam note:** Kabir ≠ Guru Nanak — Kabir **15th c.**; Nanak **1469+**; both nirguna but **separate persons** (trap: "Kabir founded Sikhism").
 
 ### Exam Facts (raata)
 
-- Occupation = **weaver (julaha)**.
-- City = **Varanasi/Kashi**; died **Maghar**.
-- Guru = **Ramananda**.
-- **Nirguna** — formless God.
+- Occupation is **weaver (julaha)**.
+- Kabir is linked with **Varanasi/Kashi** and died at **Maghar**.
+- Guru is **Ramananda**.
+- **Nirguna** is formless God.
 - Used **Allah and Ram** as names of one God.
 - Rejected **idol + caste + ritual**.
-- **15th century** — before Nanak.
+- In **15th century**, before Nanak.
 - **Kabir Panth** + **Adi Granth** preserve verses.
 - **Sant Kabir Nagar** (UP district).
 
@@ -504,28 +504,28 @@ UP LINKS:
 
 ### Guru Nanak — How It Works
 
-- **Birth:** **1469** at **Talwandi (Nankana Sahib)** — Khatri family; Punjab region.
-- **Companion:** **Mardana** — lifelong **Hindu–Muslim fellowship** symbol; Mardana = **disciple** (2025 Q12 → Nanak guru **1**).
-- **Travels (udasis):** Across **India, Sri Lanka, Mecca, Medina** (tradition) — universal message.
-- **Teachings:** **One God, equality, honest living, remembrance of Name (nam simran), service (seva)**.
-- **Rejected:** **Caste, idol worship, empty ritual, ascetic escape from duty**.
-- **Accepted:** **Householder's life (grihastha)** — middle path between sanyasa and indulgence.
-- **Scripture link:** **974 hymns** in **Guru Granth Sahib**; also included **Kabir, Farid, Namdev** verses — syncretic canon.
-- **Did not call himself Sikh founder explicitly** — aim was **Hindu–Muslim unity**; institutional Sikhism develops under later Gurus.
-- **Death 1539** — before **Tulsidas** completed Ramcharitmanas (~1574).
+- **Birth:** Guru Nanak was born in **1469** at **Talwandi (Nankana Sahib)** in a Khatri family of the Punjab region.
+- **Companion:** **Mardana** symbolised lifelong **Hindu–Muslim fellowship** and is treated as Nanak's **disciple** in 2025 Q12, where Nanak is guru **1**.
+- **Travels (udasis):** Nanak's traditional **udasis** took him across **India, Sri Lanka, Mecca, and Medina**, spreading a universal message.
+- **Teachings:** Nanak taught **One God, equality, honest living, remembrance of Name (nam simran), and service (seva)**.
+- **Rejected:** Nanak rejected **caste, idol worship, empty ritual, and ascetic escape from duty**.
+- **Accepted:** Nanak accepted **householder's life (grihastha)** as a middle path between sanyasa and indulgence.
+- **Scripture link:** The **Guru Granth Sahib** contains **974 hymns** of Guru Nanak and also includes verses of **Kabir, Farid, and Namdev**, making it a syncretic canon.
+- **Did not call himself Sikh founder explicitly:** Nanak aimed at **Hindu-Muslim unity**, while institutional Sikhism developed under later Gurus.
+- **Death:** Nanak died in **1539**, before **Tulsidas** completed the Ramcharitmanas (~1574).
 
 > **Exam note:** **Mardana → Guru Nanak** in 2025 Q12 — do not reverse; Mardana is **not** guru of Nanak.
 
 ### Exam Facts (raata)
 
-- Born **1469**; died **1539**.
-- Place = **Nankana Sahib** (Ravi).
-- **Mardana** — rabab player; disciple.
-- **Udasis** — extensive travels.
-- **Householder path** — not ascetic rejection of world.
-- **Ik Onkar** — one God.
+- Guru Nanak was born in **1469** and died in **1539**.
+- Place is **Nankana Sahib** (Ravi).
+- **Mardana** was Nanak's rabab player and disciple.
+- **Udasis** is extensive travels.
+- **Householder path** is not ascetic rejection of world.
+- **Ik Onkar** is one God.
 - Hymns in **Adi Granth**.
-- Before **Tulsidas**; contemporary **Chaitanya**.
+- Guru Nanak came before **Tulsidas** and was a contemporary of **Chaitanya**.
 - Sought **Hindu–Muslim unity**.
 
 ### PYQs — Guru Nanak
@@ -555,20 +555,20 @@ UP LINKS:
 
 ### Chaitanya — How It Works
 
-- **Birth:** **1486** at **Nabadwip** (Bengal) — scholarly youth, then mystical conversion to Krishna devotion.
-- **Method:** **Public kirtan/sankirtan** — emotional **bhava** (ecstasy) — democratised devotion beyond temples.
-- **Theology:** **Krishna as supreme**; **Radha–Krishna** love symbolism; influenced by **Bhagavata Purana**.
-- **Social:** Cut across caste in kirtan gatherings — **Brahman and non-Brahman** participants.
-- **Political respect:** **Hussain Shah** (Bengal Sultan) and **Krishnadevaraya** court respected him — shows bhakti–state coexistence.
-- **Disciples:** **Rupa Goswami, Sanatana Goswami** systematised theology at **Vrindavan** after Chaitanya.
-- **Chronology:** Born **after Nanak (1469)** but died **1533** before Nanak's 1539 — 2025 Q74 places **Chaitanya last (2)** among the four.
-- **Language:** **Bengali** compositions — regional literary awakening.
+- **Birth:** Chaitanya was born in **1486** at **Nabadwip** in Bengal, began as a scholarly youth, and later underwent a mystical conversion to Krishna devotion.
+- **Method:** Chaitanya used **public kirtan/sankirtan** and emotional **bhava** (ecstasy) to democratise devotion beyond temples.
+- **Theology:** Chaitanya treated **Krishna as supreme**, used **Radha–Krishna** love symbolism, and drew influence from the **Bhagavata Purana**.
+- **Social:** Chaitanya's kirtan gatherings cut across caste and included both **Brahman and non-Brahman** participants.
+- **Political respect:** **Hussain Shah** (Bengal Sultan) and the **Krishnadevaraya** court respected Chaitanya, showing bhakti-state coexistence.
+- **Disciples:** **Rupa Goswami** and **Sanatana Goswami** systematised Chaitanya's theology at **Vrindavan**.
+- **Chronology:** Chaitanya was born **after Nanak (1469)** but died in **1533**, before Nanak's 1539 death, so 2025 Q74 places **Chaitanya last (2)** among the four.
+- **Language:** Chaitanya's **Bengali** compositions supported a regional literary awakening.
 
 > **Exam note:** Chaitanya = **Krishna saguna Bengal** — not nirguna like Kabir; not Rama like Tulsidas.
 
 ### Exam Facts (raata)
 
-- **1486–1533**; **Nabadwip** birth.
+- Chaitanya lived from **1486 to 1533** and was born at **Nabadwip**.
 - Founder **Gaudiya Vaishnavism**.
 - **Sankirtan** movement.
 - **Krishna + Radha** bhakti.
@@ -604,27 +604,27 @@ UP LINKS:
 
 ### Surdas, Tulsidas & Dadu — How It Works
 
-- **Surdas:** Disciple of **Vallabhacharya** (Pushti Marg); composed **Sursagar** — Krishna's childhood (**Bal Krishna**) theme in **Braj Bhasha**.
-- **Surdas blindness:** Legend says **born blind** — symbol of inner vision; UPPCS links to **Braj region (UP belt)**.
-- **Vallabhacharya theology:** **Shuddhadvaita** — Krishna is supreme; grace (pushti) saves — Surdas embodies this poetically.
-- **Tulsidas:** Wrote **Ramcharitmanas** in **Awadhi** (~**1574**) during **Akbar's** reign — Rama as **accessible hero-god**.
-- **Tulsidas impact:** Made **Ramayana** household text in north India; **humanistic Rama** — duty, family, devotion combined.
-- **Tulsidas & caste:** Modified strict caste views vs earlier orthodoxy — **salvation open to all** through Rama-nama.
-- **Dadu Dayal:** Rajasthan/Gujarat; **Nipakhi** (= nipun/ skilled) path — **non-sectarian**, beyond Hindu–Muslim labels.
-- **Dadu teachings:** **Brahma as supreme**; reject sectarian conflict; simple life and guru devotion.
-- **Chronology:** Surdas overlaps Kabir-Nanak era; **Tulsidas later**; **Dadu latest** of this trio.
+- **Surdas:** Surdas was a disciple of **Vallabhacharya** in the Pushti Marg and composed **Sursagar** in **Braj Bhasha** around Krishna's childhood (**Bal Krishna**).
+- **Surdas blindness:** Legend says Surdas was **born blind**, which became a symbol of inner vision, and UPPCS links him to the **Braj region (UP belt)**.
+- **Vallabhacharya theology:** **Shuddhadvaita** teaches that Krishna is supreme and that grace (pushti) saves, and Surdas embodies this theology poetically.
+- **Tulsidas:** Tulsidas wrote **Ramcharitmanas** in **Awadhi** (~**1574**) during **Akbar's** reign and presented Rama as an **accessible hero-god**.
+- **Tulsidas impact:** Tulsidas made the **Ramayana** a household text in north India and presented a **humanistic Rama** who combined duty, family, and devotion.
+- **Tulsidas & caste:** Tulsidas softened strict caste views compared with earlier orthodoxy and taught that **salvation was open to all** through Rama-nama.
+- **Dadu Dayal:** Dadu Dayal worked in the Rajasthan/Gujarat region and taught the **Nipakhi** (= nipun/ skilled) path as a **non-sectarian** path beyond Hindu-Muslim labels.
+- **Dadu teachings:** Dadu taught **Brahma as supreme**, rejected sectarian conflict, and emphasised simple life and guru devotion.
+- **Chronology:** Surdas overlaps the Kabir-Nanak era, while **Tulsidas** comes later and **Dadu** is the latest of this trio.
 
 > **Exam note:** **Surdas → Vallabhacharya** (2025 Q12 option **4**); do not match Surdas to Ramananda.
 
 ### Exam Facts (raata)
 
-- **Surdas** — Braj; **Sursagar**; blind poet.
-- **Surdas** guru = **Vallabhacharya**.
-- **Tulsidas** — **Ramcharitmanas** Awadhi ~1574.
-- **Tulsidas** — **Rama saguna**; UP Awadh link.
-- **Dadu Dayal** — **Nirguna**; Dadu Panth.
-- **Dadu** — Nipakhi non-sectarian path.
-- Surdas = **Krishna**; Tulsidas = **Rama**.
+- **Surdas** belonged to Braj, composed **Sursagar**, and is remembered as a blind poet.
+- **Surdas** guru is **Vallabhacharya**.
+- **Tulsidas** is **Ramcharitmanas** Awadhi ~1574.
+- **Tulsidas** represents **Rama saguna** devotion and has a strong UP-Awadh link.
+- **Dadu Dayal** represents **Nirguna** bhakti and is linked with the Dadu Panth.
+- **Dadu** is Nipakhi non-sectarian path.
+- Surdas is linked with **Krishna** bhakti, while Tulsidas is linked with **Rama** bhakti.
 
 ### PYQs — Surdas / Tulsidas / Dadu
 
@@ -654,14 +654,14 @@ UP LINKS:
 
 ### Mirabai & Women Poets — How It Works
 
-- **Mirabai:** Born **Mewar royal family**; married **Bhoj Raj**; defied court to worship **Krishna**; legends of survival attempts.
-- **Mirabai compositions:** **Rajasthani/Hindi** padas — **Krishna as lover-god** (madhurya bhava).
-- **Social significance:** Woman renouncing **royal duty** for devotion — challenged **patriarchy and Rajput honour codes**.
-- **Andal (Alvar):** **7th–9th c.** Tamil — **earliest major woman bhakti voice** in recorded tradition.
-- **Daya Bai:** **Charandasi** tradition disciple of **Charandas**; works **Vinay Malika**, **Dayabodh** — 2023 Q39 pair **correct**.
-- **Sahajobai:** Disciple of **Charandas** (Delhi); **Sahaj Prakash** — simplicity in devotion — 2023 Q39 pair **correct**.
-- **2023 Q39 trap:** **Gangabai — Ganesh Dev Leela** = **NOT matched** (official key **C**).
-- **Bhakti opened space:** Women could **sing, compose, lead congregations** — rare in orthodox Vedic ritualism.
+- **Mirabai:** Mirabai was born in the **Mewar royal family**, married **Bhoj Raj**, defied the court to worship **Krishna**, and became the subject of legends about survival attempts.
+- **Mirabai compositions:** Mirabai composed **Rajasthani/Hindi** padas that imagined **Krishna as lover-god** through madhurya bhava.
+- **Social significance:** Mirabai's renunciation of **royal duty** for devotion challenged **patriarchy and Rajput honour codes**.
+- **Andal (Alvar):** **Andal** belonged to the **7th–9th c.** Tamil tradition and is the **earliest major woman bhakti voice** in recorded tradition.
+- **Daya Bai:** Daya Bai belonged to the **Charandasi** tradition as a disciple of **Charandas**, and her works **Vinay Malika** and **Dayabodh** make the 2023 Q39 pair **correct**.
+- **Sahajobai:** Sahajobai was a disciple of **Charandas** of Delhi, and her **Sahaj Prakash** teaches simplicity in devotion, making the 2023 Q39 pair **correct**.
+- **2023 Q39 trap:** **Gangabai — Ganesh Dev Leela** is **NOT matched**, and the official key is **C**.
+- **Bhakti opened space:** Bhakti allowed women to **sing, compose, and lead congregations**, which was rare in orthodox Vedic ritualism.
 
 > **Exam note:** **2023 Q39** — Daya Bai–Vinay Malika ✓; Sahajobai–Sahaj Prakash ✓; wrong pair = **Gangabai–Ganesh Dev Leela**.
 
@@ -676,13 +676,13 @@ UP LINKS:
 
 ### Exam Facts (raata)
 
-- **Mirabai** — Mewar; Krishna devotee.
-- **Andal** — woman **Alvar**.
-- **Daya Bai** — Vinay Malika.
-- **Sahajobai** — Sahaj Prakash.
+- **Mirabai** belonged to Mewar and was a Krishna devotee.
+- **Andal** is woman **Alvar**.
+- **Daya Bai** is Vinay Malika.
+- **Sahajobai** is Sahaj Prakash.
 - Both Charandasi disciples of **Charandas**.
-- 2023 Q39 wrong pair = **Gangabai**.
-- Women bhakti = **madhurya** and equality themes.
+- 2023 Q39 wrong pair is **Gangabai**.
+- Women bhakti is **madhurya** and equality themes.
 
 ### PYQs — Women Poets
 
@@ -714,14 +714,14 @@ UP LINKS:
 
 ### Vedanta — How It Works
 
-- **Shankara (8th c.):** **Advaita** — only **Brahman** real; individual soul = Brahman under ignorance; **knowledge (jnana)** liberates.
-- **Ramanuja (11th–12th c.):** **Vishishtadvaita** — God has **body/soul of universe**; **bhakti + prapatti** over dry logic; opened to **Shudras**.
-- **Madhvacharya (13th c.):** **Dvaita** — **eternal difference** between God, soul, matter — bhakti of **Vishnu** essential.
-- **Nimbarka (13th c.):** **Dvaitadvaita** — Radha–Krishna worship; soul both one and different from God.
-- **Vallabhacharya (16th c.):** **Shuddhadvaita** — **Krishna is Brahman**; **pushti marg** (grace path) — links to **Surdas**.
-- **Bhakti connection:** **Ramananda** popularised **Ramanuja-related** ideas in north; **Vallabhacharya** feeds **Krishna poets**.
-- **2022 Q33 match:** Ramanuja→**Vishishtadvaita (4)**; Madhva→**Dvaita (3)**; Nimbarka→**Dvaitadvaita (2)**; Vallabha→**Shuddhadvaita (1)** → **D (4-3-2-1)**.
-- **Trap:** Shankara **Advaita** not in that question's list — don't force Shankara into Vallabha's slot.
+- **Shankara (8th c.):** **Advaita** holds that only **Brahman** is real, the individual soul is Brahman under ignorance, and **knowledge (jnana)** liberates.
+- **Ramanuja (11th–12th c.):** **Vishishtadvaita** teaches that God has the **body/soul of the universe**, values **bhakti + prapatti** over dry logic, and opened the path to **Shudras**.
+- **Madhvacharya (13th c.):** **Dvaita** teaches an **eternal difference** between God, soul, and matter, with bhakti of **Vishnu** as essential.
+- **Nimbarka (13th c.):** **Dvaitadvaita** centres on Radha-Krishna worship and teaches that the soul is both one with and different from God.
+- **Vallabhacharya (16th c.):** **Shuddhadvaita** teaches that **Krishna is Brahman**, follows **pushti marg** as the grace path, and links directly to **Surdas**.
+- **Bhakti connection:** **Ramananda** popularised **Ramanuja-related** ideas in the north, while **Vallabhacharya** shaped the theology of **Krishna poets**.
+- **2022 Q33 match:** Ramanuja matches **Vishishtadvaita (4)**, Madhva matches **Dvaita (3)**, Nimbarka matches **Dvaitadvaita (2)**, and Vallabha matches **Shuddhadvaita (1)**, giving **D (4-3-2-1)**.
+- **Trap:** Shankara's **Advaita** is not in that question's list, so do not force Shankara into Vallabha's slot.
 
 > **Exam note:** **Vallabhacharya = Shuddhadvaita** — pairs with **Surdas** guru line (2025 Q12 + 2022 Q33).
 
@@ -737,12 +737,12 @@ UP LINKS:
 
 ### Exam Facts (raata)
 
-- **Vedanta** = Upanishadic philosophy.
-- **Shankara** — Advaita (8th c.).
-- **Ramanuja** — Vishishtadvaita.
-- **Madhva** — Dvaita.
-- **Nimbarka** — Dvaitadvaita.
-- **Vallabhacharya** — Shuddhadvaita.
+- **Vedanta** is Upanishadic philosophy.
+- **Shankara** is Advaita (8th c.).
+- **Ramanuja** is Vishishtadvaita.
+- **Madhva** is Dvaita.
+- **Nimbarka** is Dvaitadvaita.
+- **Vallabhacharya** is Shuddhadvaita.
 - 2022 Q33 answer **D (4-3-2-1)**.
 - Ramananda linked to **Ramanuja** tradition.
 
@@ -773,27 +773,27 @@ UP LINKS:
 
 ### Nath Sect — How It Works
 
-- **Origins:** Emerges from **siddha/yogi** traditions — **Gorakhnath** (11th–12th c. tradition) systematises **Nath panth**.
-- **Practices:** **Hatha yoga**, **breath control**, **meditation**, **kanphata** (split-ear initiation).
-- **Anti-caste strand:** Challenged **Brahman ritual monopoly** — parallel to bhakti egalitarianism.
-- **Geography:** Strong in **north India** — **Gorakhpur** (UP) associated with **Gorakhnath** cult site.
-- **2019 Q14:** Statement 1 — **Hath Yog practiced by Nathpanthis** → **True**.
-- **2019 Q14:** Statement 2 — **Hath Yog technique adopted by Sufis** → **True** (Nizamuddin adopted **yogic breathing** per sources).
-- **Answer 2019 Q14:** **C (Both 1 and 2)** — Nath + Sufi crossover on yoga techniques.
-- **Relation to Bhakti:** Overlapping **anti-ritual** mood but Nath = **yogic ascetic**; Bhakti = **devotional poetry** — distinct paths, shared social critique.
-- **Tantric influence:** Nath literature has **tantric** elements — exams rarely deep-dive; know **Gorakhnath + hatha yoga**.
+- **Origins:** The Nath sect emerged from **siddha/yogi** traditions, and **Gorakhnath** (11th–12th c. tradition) systematised the **Nath panth**.
+- **Practices:** Nath practice centred on **hatha yoga**, **breath control**, **meditation**, and **kanphata** or split-ear initiation.
+- **Anti-caste strand:** Nathpanthis challenged **Brahman ritual monopoly**, paralleling bhakti egalitarianism.
+- **Geography:** The sect was strong in **north India**, and **Gorakhpur** in UP is associated with the **Gorakhnath** cult site.
+- **2019 Q14:** Statement 1 is **True** because **Hath Yog was practiced by Nathpanthis**.
+- **2019 Q14:** Statement 2 is **True** because **Hath Yog technique was adopted by Sufis**, with Nizamuddin adopting **yogic breathing** per sources.
+- **Answer 2019 Q14:** The answer is **C (Both 1 and 2)** because the question tests Nath-Sufi crossover on yoga techniques.
+- **Relation to Bhakti:** Nath and Bhakti traditions shared an **anti-ritual** mood, but Nath remained a **yogic ascetic** path while Bhakti centred on **devotional poetry**.
+- **Tantric influence:** Nath literature contains **tantric** elements, but exams rarely go deep, so the key facts are **Gorakhnath + hatha yoga**.
 
 > **Exam note:** **Nathpanthi ≠ Bhakti sant** — but both rejected caste rigidity; **2019 Q14** tests Nath–Sufi yoga link.
 
 ### Exam Facts (raata)
 
-- **Gorakhnath** = chief Nath figure.
-- **Hatha yoga** = Nath practice.
-- **Kanphata yogis** = Nath initiates.
+- **Gorakhnath** is chief Nath figure.
+- **Hatha yoga** is Nath practice.
+- **Kanphata yogis** is Nath initiates.
 - **Anti-caste** tendencies.
 - **Gorakhpur** UP association.
 - Sufis (Nizamuddin) adopted **breathing exercises**.
-- 2019 Q14 = **Both statements true**.
+- 2019 Q14 is **Both statements true**.
 - Distinct from **Bhakti kirtan** path.
 
 ### PYQs — Nath Sect
@@ -824,15 +824,15 @@ UP LINKS:
 
 ### Sufi Saints — How It Works
 
-- **Context:** Reaction against **Umayyad luxury** and **dry legalism** — stress **zuhd** (asceticism) and **divine love**.
-- **Al-Ghazzali (d.1112):** Reconciled **Sufism with orthodox Islam** — Quran + mysticism.
-- **Indian arrival:** Sufis came with **Delhi Sultanate** — **khanqahs** became social welfare centres.
-- **Hanafi law:** Turks followed **Hanafi** school — most **liberal** of four Sunni law schools.
-- **Pir–murid bond:** Disciple owes **loyalty and service**; pir gives **spiritual instruction**.
-- **Sama:** **Musical devotional assembly** — **Chishti** feature — **2018 Q90** Reason cites early Chishti fondness for sama.
-- **Similarity to Bhakti:** **Love of God, guru/pir, equality, vernacular** — facilitated **composite culture**.
-- **Major Indian saints:** **Moinuddin Chishti, Nizamuddin Auliya, Baba Farid, Bahauddin Zakariya (Suhrawardi)**.
-- **Women in Sufi tradition:** **Rabia of Basra** (8th c.) — divine love pioneer (background fact).
+- **Context:** Sufism arose partly as a reaction against **Umayyad luxury** and **dry legalism**, stressing **zuhd** (asceticism) and **divine love**.
+- **Al-Ghazzali (d.1112):** Al-Ghazzali reconciled **Sufism with orthodox Islam** by combining Quranic faith with mysticism.
+- **Indian arrival:** Sufis came with the **Delhi Sultanate**, and their **khanqahs** became social welfare centres.
+- **Hanafi law:** Turks followed the **Hanafi** school, which was the most **liberal** of the four Sunni law schools.
+- **Pir–murid bond:** The disciple owes **loyalty and service**, while the pir gives **spiritual instruction**.
+- **Sama:** **Sama** was a **musical devotional assembly** associated with the **Chishti** order, and 2018 Q90 cites early Chishti fondness for it.
+- **Similarity to Bhakti:** Sufism and Bhakti shared themes of **love of God, guru/pir, equality, and vernacular expression**, which facilitated **composite culture**.
+- **Major Indian saints:** The major Indian Sufi saints include **Moinuddin Chishti, Nizamuddin Auliya, Baba Farid, and Bahauddin Zakariya (Suhrawardi)**.
+- **Women in Sufi tradition:** **Rabia of Basra** (8th c.) is remembered as a pioneer of divine love in the Sufi tradition.
 
 > **Exam note:** Sufi ≠ always anti-Sharia — **Ba-shara** orders follow Islamic law while adding mysticism.
 
@@ -850,12 +850,12 @@ UP LINKS:
 
 ### Exam Facts (raata)
 
-- Sufis = Islamic **mystics**.
-- **Khanqah** = centre.
+- Sufis is Islamic **mystics**.
+- **Khanqah** is centre.
 - **Al-Ghazzali** reconciled Sufism + orthodoxy.
-- **Hanafi** law — Turkish preference.
+- **Hanafi** law is Turkish preference.
 - **Pir–murid** relationship.
-- **Sama** = musical gathering.
+- **Sama** is musical gathering.
 - Parallel to **Bhakti** in love/equality.
 - **Ba-shara vs Be-shara** split.
 
@@ -886,15 +886,15 @@ UP LINKS:
 
 ### Moinuddin & Chishti Order — How It Works
 
-- **Arrival:** **Khwaja Muinuddin Chishti** came to India **~1192** after Muhammad Ghori's campaigns — settled **Ajmer** (Rajasthan, exam hotspot).
-- **Death:** **1236** — dargah at Ajmer remains **major pilgrimage** for Hindus and Muslims.
-- **Lineage:** Moinuddin → **Qutbuddin Bakhtiyar Kaki (Delhi)** → **Baba Farid (Ajodhan)** → **Nizamuddin Auliya (Delhi)** → **Nasiruddin Chiragh-i-Delhi**.
-- **Chishti principles:** **Absolute poverty**, **no property**, **no state service**, **open kitchen (langar)**, **service to poor**.
-- **Language:** Used **Hindawi/Hindi** for masses — not Persian-only elite discourse.
-- **Sama controversy:** Some orthodox ulema opposed **music in worship** — Chishtis defended **sama** as path to God.
-- **2020 Q40:** **Moinuddin – Ajmer Chishti** = **correctly matched** (option A).
-- **Political aloofness:** Refused **sultan court patronage** — moral authority independent of state (idealised).
-- **Trap:** **Chishti ≠ Suhrawardi** — Chishti rejects wealth; Suhrawardi accepts state.
+- **Arrival:** **Khwaja Muinuddin Chishti** came to India **~1192** after Muhammad Ghori's campaigns and settled in **Ajmer**, which is a Rajasthan exam hotspot.
+- **Death:** Moinuddin died in **1236**, and his dargah at Ajmer remains a **major pilgrimage** centre for Hindus and Muslims.
+- **Lineage:** The Chishti lineage runs from Moinuddin to **Qutbuddin Bakhtiyar Kaki (Delhi)**, **Baba Farid (Ajodhan)**, **Nizamuddin Auliya (Delhi)**, and **Nasiruddin Chiragh-i-Delhi**.
+- **Chishti principles:** Chishti principles stressed **absolute poverty**, **no property**, **no state service**, **open kitchen (langar)**, and **service to poor**.
+- **Language:** Chishtis used **Hindawi/Hindi** for the masses instead of limiting themselves to Persian-only elite discourse.
+- **Sama controversy:** Some orthodox ulema opposed **music in worship**, while Chishtis defended **sama** as a path to God.
+- **2020 Q40:** **Moinuddin – Ajmer Chishti** is **correctly matched** as option A.
+- **Political aloofness:** Chishtis refused **sultan court patronage**, giving them moral authority independent of the state in the idealised tradition.
+- **Trap:** **Chishti ≠ Suhrawardi** because Chishtis rejected wealth while Suhrawardis accepted state patronage.
 
 > **Exam note:** **Moinuddin = Ajmer** always; **Nizamuddin = Delhi** — never Multan (2020 Q40 trap D).
 
@@ -910,12 +910,12 @@ UP LINKS:
 
 ### Exam Facts (raata)
 
-- **Moinuddin** — Ajmer; **~1192** arrival.
-- Died **1236**; **Garib Nawaz**.
-- **Chishti** = poverty + sama + Hindawi.
+- **Moinuddin** is linked with Ajmer and arrived around **1192**.
+- He died in **1236** and was known as **Garib Nawaz**.
+- **Chishti** is poverty + sama + Hindawi.
 - Avoided **state patronage**.
 - Chain through **Kaki, Farid, Nizamuddin**.
-- 2020 Q40: A (Moinuddin–Ajmer) **correct**.
+- In 2020 Q40, the Moinuddin-Ajmer pair is **correct**.
 - **Langar** tradition at khanqah.
 
 ### PYQs — Moinuddin / Chishti
@@ -945,28 +945,28 @@ UP LINKS:
 
 ### Nizamuddin — How It Works
 
-- **Life:** Lived **Delhi** — never left city despite sultan pressure; **khanqah at Ghiyaspur** (Delhi).
-- **Teachings:** **Love, tolerance, service** — fed hungry during famines; welcomed **Hindus and Muslims**.
-- **Yogic influence:** Adopted **breathing exercises** — yogis called him **siddha** — links to **Nath** (2019 Q14).
-- **Amir Khusrau:** Chief **murid** — invented **Hindavi** literary forms; associated with **qawwali**; buried near Nizamuddin.
-- **Fawaid-ul-Fuad:** **Amir Hasan Sijzi** compiled conversations — **2021 Q101 answer A** (not Khusrau, not Barani).
-- **2020 Q40 trap:** **Nizamuddin – Multan** = **WRONG** — Nizamuddin = **Delhi**; Multan = **Suhrawardi (Bahauddin Zakariya)**.
-- **2025 Q12:** **Amir Khusrau → Nizamuddin Auliya** → guru code **3**.
-- **After death:** **Nasiruddin Chiragh-i-Delhi** succeeded — last great Delhi Chishti of classical line.
-- **Impact:** Model for **Akbar-era tolerance** — spiritual authority above sultan.
+- **Life:** Nizamuddin lived in **Delhi**, never left the city despite sultan pressure, and maintained his **khanqah at Ghiyaspur**.
+- **Teachings:** Nizamuddin taught **love, tolerance, and service**, fed the hungry during famines, and welcomed **Hindus and Muslims**.
+- **Yogic influence:** Nizamuddin adopted **breathing exercises**, and yogis called him **siddha**, linking him to the **Nath** context of 2019 Q14.
+- **Amir Khusrau:** Amir Khusrau was Nizamuddin's chief **murid**, developed **Hindavi** literary forms, became associated with **qawwali**, and was buried near Nizamuddin.
+- **Fawaid-ul-Fuad:** **Amir Hasan Sijzi** compiled Nizamuddin's conversations, making **2021 Q101 answer A** correct rather than Khusrau or Barani.
+- **2020 Q40 trap:** **Nizamuddin – Multan** is **WRONG** because Nizamuddin belongs to **Delhi**, while Multan belongs to the **Suhrawardi** saint **Bahauddin Zakariya**.
+- **2025 Q12:** **Amir Khusrau → Nizamuddin Auliya** gives guru code **3**.
+- **After death:** **Nasiruddin Chiragh-i-Delhi** succeeded Nizamuddin and became the last great Delhi Chishti of the classical line.
+- **Impact:** Nizamuddin became a model for **Akbar-era tolerance** by placing spiritual authority above the sultan.
 
 > **Exam note:** **Fawaid-ul-Fuad compiler = Amir Hasan Sijzi** (2021 Q101) — trap: Amir **Khusrau** (he was poet disciple, not compiler).
 
 ### Exam Facts (raata)
 
-- Nizamuddin = **Delhi** (NOT Multan).
+- Nizamuddin is **Delhi** (NOT Multan).
 - Pupil of **Baba Farid**.
 - **1238–1325**.
-- **Amir Khusrau** = disciple.
-- **Fawaid-ul-Fuad** — Hasan **Sijzi** compiled.
+- **Amir Khusrau** is disciple.
+- **Fawaid-ul-Fuad** is Hasan **Sijzi** compiled.
 - **Tolerance + langar + sama**.
 - Yogic breathing adoption.
-- 2025 Q12: Khusrau → Nizamuddin = **3**.
+- 2025 Q12: Khusrau → Nizamuddin is **3**.
 
 ### PYQs — Nizamuddin
 
@@ -995,15 +995,15 @@ UP LINKS:
 
 ### Suhrawardi, Qadiri & Naqshbandi — How It Works
 
-- **Suhrawardi contrast:** Unlike **Chishti austerity**, Suhrawardis **accepted wealth, state grants, government posts** — closer to sultan courts.
-- **Bahauddin Zakariya:** Leading **Suhrawardi** of **Multan** — 2020 Q40 pairs **Multan** with **Suhrawardi**, not Nizamuddin.
-- **Region:** **Punjab and Multan** — western frontier Islam synthesis.
-- **Qadiri order:** Named after **Abdul Qadir Jilani (Ghaus-ul-Azam)** — **pan-Islamic** appeal; many later Indian saints claim Qadiri initiation.
-- **Qadiri feature:** Less political than Suhrawardi in India — broad **middle-class following**.
-- **Naqshbandi:** **Silent dhikr** (remembrance); **Baha-ud-din Naqshband** of Bukhara — entered India **Mughal period**.
-- **Ahmad Sirhindi (1564–1624):** **Mujaddid Alf-i-Sani** — opposed **pantheistic wahdat-ul-wujud**; demanded **strict Sharia**, **jizya**, separation from Hindu practices.
-- **Naqshbandi vs Chishti:** **Chishti = syncretic, music, sama**; **Naqshbandi = orthodox revival, anti-music, anti-tomb worship** (ideologically).
-- **Limited Naqshbandi success:** **Jahangir imprisoned Sirhindi**; **Aurangzeb** did not fully adopt successors — yet ideology influenced later ** revivalism**.
+- **Suhrawardi contrast:** Unlike **Chishti austerity**, Suhrawardis **accepted wealth, state grants, and government posts**, bringing them closer to sultan courts.
+- **Bahauddin Zakariya:** **Bahauddin Zakariya** was the leading **Suhrawardi** of **Multan**, so 2020 Q40 pairs **Multan** with **Suhrawardi**, not Nizamuddin.
+- **Region:** The order was centred in **Punjab and Multan**, where it shaped western frontier Islam.
+- **Qadiri order:** The Qadiri order is named after **Abdul Qadir Jilani (Ghaus-ul-Azam)**, had **pan-Islamic** appeal, and was claimed by many later Indian saints through initiation.
+- **Qadiri feature:** The Qadiri order was less political than the Suhrawardi order in India and attracted a broad **middle-class following**.
+- **Naqshbandi:** The Naqshbandi order practised **silent dhikr** (remembrance), traced itself to **Baha-ud-din Naqshband** of Bukhara, and entered India in the **Mughal period**.
+- **Ahmad Sirhindi (1564–1624):** **Mujaddid Alf-i-Sani** opposed **pantheistic wahdat-ul-wujud** and demanded **strict Sharia**, **jizya**, and separation from Hindu practices.
+- **Naqshbandi vs Chishti:** **Chishti** practice was more syncretic and accepted music and sama, while **Naqshbandi** ideology stressed orthodox revival, anti-music positions, and opposition to tomb worship.
+- **Limited Naqshbandi success:** **Jahangir imprisoned Sirhindi**, and **Aurangzeb** did not fully adopt his successors, yet Naqshbandi ideology influenced later **revivalism**.
 
 > **Exam note:** **Multan = Suhrawardi** | **Delhi = Chishti (Nizamuddin)** — 2020 Q40 core trap.
 
@@ -1019,13 +1019,13 @@ UP LINKS:
 
 ### Exam Facts (raata)
 
-- **Suhrawardi** — Multan/Punjab; accepts **wealth + state**.
-- **Chishti vs Suhrawardi** = poverty vs patronage.
-- **Qadiri** — Abdul Qadir Jilani lineage.
-- **Naqshbandi** — Ahmad **Sirhindi** revivalist.
+- The **Suhrawardi** silsila is linked with Multan/Punjab and accepted **wealth + state** connections more openly.
+- **Chishti vs Suhrawardi** is poverty vs patronage.
+- **Qadiri** is Abdul Qadir Jilani lineage.
+- **Naqshbandi** is Ahmad **Sirhindi** revivalist.
 - Sirhindi opposed **wahdat-ul-wujud**.
 - Naqshbandi anti-**sama/music** stance.
-- 2020 Q40: Multan ≠ Nizamuddin.
+- In 2020 Q40, Multan should not be matched with Nizamuddin.
 
 ### PYQs — Sufi Orders
 
@@ -1540,24 +1540,23 @@ Options: A. 3-4-2-1 | B. 4-3-1-2 | C. 3-4-1-2 | D. 4-3-2-1
 
 ## Common Traps — Don't Fall For These
 
-1. **Kabir → Nizamuddin** — **FALSE**; Kabir's guru = **Ramananda** (2025 Q12).
-2. **Nizamuddin → Multan** — **FALSE** (2020 Q40); Nizamuddin = **Delhi**.
-3. **Moinuddin → Delhi** — **FALSE**; Moinuddin = **Ajmer**.
-4. **Fawaid-ul-Fuad compiler = Khusrau** — **FALSE** (2021 Q101); compiler = **Amir Hasan Sijzi**.
-5. **Kabir founded Sikhism** — **FALSE**; **Guru Nanak** founded Sikh line.
-6. **Mardana was Nanak's guru** — **FALSE**; **Mardana → Nanak** as disciple (2025 Q12).
-7. **Surdas → Ramananda** — **FALSE**; Surdas → **Vallabhacharya**.
-8. **Tulsidas wrote Sursagar** — **FALSE**; **Surdas** = Sursagar; Tulsidas = **Ramcharitmanas**.
-9. **Ramcharitmanas in Sanskrit** — **FALSE** — **Awadhi**.
-10. **Chaitanya = nirguna** — **FALSE** — **Krishna saguna** Gaudiya Vaishnavism.
-11. **Namdev after Kabir** — **FALSE** chronology (2025 Q74); Namdev **earlier**.
-12. **Vallabhacharya = Dvaita** — **FALSE** — **Shuddhadvaita** (Madhva = Dvaita) (2022 Q33).
-13. **Shankara in 2022 Q33 list** — Don't assign Shankara to listed options; match **four named philosophers only**.
-14. **Gangabai–Ganesh Dev Leela** — **NOT matched** (2023 Q39).
-15. **Chishti = state service** — **FALSE**; Chishti avoided court; **Suhrawardi accepted** patronage.
-16. **Mirabai = Rama devotee** — **FALSE** — **Krishna** bhakti.
-17. **2018 Q90 — R explains A** — **FALSE**; answer **B** (both true, R not correct explanation).
-18. **Sama = Haj pilgrimage** — **FALSE** — **musical devotional assembly**.
-19. **Alvars = Shaiva** — **FALSE** — Alvars = **Vishnu**; Nayanars = Shiva.
-20. **Sant Kabir Nagar** — UP district named for **Kabir**, not Ravidas/Nanak.
-
+1. **Kabir was not a disciple of Nizamuddin.** Kabir's guru is **Ramananda** in the 2025 Q12 match.
+2. **Nizamuddin Auliya was not based in Multan.** Nizamuddin belongs to **Delhi**, while Multan is linked with Suhrawardi saints.
+3. **Moinuddin Chishti was not based in Delhi.** Moinuddin is linked with **Ajmer**.
+4. **Fawaid-ul-Fuad was not compiled by Amir Khusrau.** It was compiled by **Amir Hasan Sijzi**.
+5. **Kabir did not found Sikhism.** The Sikh line begins with **Guru Nanak**.
+6. **Mardana was not Nanak's guru.** Mardana was Nanak's companion/disciple in the 2025 Q12 match.
+7. **Surdas was not Ramananda's disciple.** Surdas is matched with **Vallabhacharya**.
+8. **Tulsidas did not write Sursagar.** **Surdas** wrote Sursagar, while Tulsidas wrote **Ramcharitmanas**.
+9. **Ramcharitmanas was not written in Sanskrit.** It was composed in **Awadhi**.
+10. **Chaitanya was not a nirguna saint.** He belonged to **Krishna saguna** Gaudiya Vaishnavism.
+11. **Namdev came before Kabir.** This is the key 2025 Q74 chronology trap.
+12. **Vallabhacharya did not teach Dvaita.** He taught **Shuddhadvaita**, while Madhva taught Dvaita.
+13. **Shankara is not part of the 2022 Q33 four-name match.** Match only Ramanuja, Madhva, Nimbarka, and Vallabhacharya there.
+14. **Gangabai-Ganesh Dev Leela is the wrong women-poet pair.** This is the NOT-matched pair in 2023 Q39.
+15. **Chishti saints did not favour state service.** Chishtis avoided court, while Suhrawardis accepted state patronage.
+16. **Mirabai was not a Rama devotee.** She is linked with **Krishna** bhakti.
+17. **In 2018 Q90, the Reason does not explain the Assertion.** The correct answer is **B**, because both statements are true but not causally linked.
+18. **Sama was not the Haj pilgrimage.** It was a **musical devotional assembly**.
+19. **Alvars were not Shaiva saints.** Alvars were **Vishnu** devotees, while Nayanars were Shiva devotees.
+20. **Sant Kabir Nagar is named after Kabir.** Do not confuse it with Ravidas or Nanak.

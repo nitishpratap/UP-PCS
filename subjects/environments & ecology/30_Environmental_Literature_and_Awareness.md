@@ -91,16 +91,16 @@ AWARENESS vs COMMUNICATION:
 
 ### Environmental Literature — How It Works
 
-- **Rachel Carson — *Silent Spring* (1962)**: Exposed **DDT and pesticide** bioaccumulation — birds, fish, human health harm — credited with launching **modern environmental movement** and tighter chemical regulation — **NOT** Garrett Hardin (UPSC 2021 trap).
-- **Garrett Hardin — "Tragedy of the Commons" (1968)**: Essay arguing individuals overexploit **shared resources** (pasture, fisheries, air) for private gain — foundation concept for **commons governance** and regulation — paired trap with Carson in MCQs.
-- **Club of Rome — *The Limits to Growth* (1972)**: Computer-modelling report warning that **exponential growth** hits **resource/planetary limits** — influential at Stockholm-era debates — **distinct from Brundtland Report** (UPPCS 2024 Q51 Reason = FALSE).
-- **Brundtland Commission — *Our Common Future* (1987)**: Defined **"Sustainable Development"** — meeting present needs without compromising future generations — **popularised SD concept globally** — Assertion in 2024 Q51 = **TRUE**.
-- **Aldo Leopold — *A Sand County Almanac* (1949)**: Introduced **"Land Ethic"** — moral responsibility to entire biotic community — precursor to deep ecology and conservation ethics.
-- **Paul Ehrlich — *The Population Bomb* (1968)**: Warned rapid **population growth** outstripping food/resources — sparked debate on population policy and carrying capacity — distinct from IPAT equation literature.
-- **Indian — Mahatma Gandhi — *Hind Swaraj* (1909)**: Critiqued **industrial civilisation's reckless consumption** — village self-sufficiency, restraint — roots of Indian environmental thought before formal EE.
-- **Indian — Rabindranath Tagore / Shantiniketan**: Integrated **nature, arts, and outdoor learning** — early model of **environment-sensitive pedagogy** — links literature to education (§30.2).
-- **Indian — Anil Agarwal & Sunita Narain (CSE)**: *Down To Earth* journalism, *Global Warming in an Unequal World* — bridged **research and public communication** — Indian environmental literature + communication crossover.
-- **Indian — Sunderlal Bahuguna**: Chipko writings — **"Ecology is permanent economy"** — literary voice of Himalayan forest movement — connects Topic 29 movements to literature.
+- **Rachel Carson, *Silent Spring* (1962)**: Carson exposed **DDT and pesticide** bioaccumulation harming birds, fish, and human health. The book launched the **modern environmental movement** and tighter chemical regulation, and it was **NOT** written by Garrett Hardin (UPSC 2021 trap).
+- **Garrett Hardin, "Tragedy of the Commons" (1968)**: Hardin's essay argued that individuals overexploit **shared resources** (pasture, fisheries, air) for private gain. It became a foundation concept for **commons governance** and regulation, and exams often pair it as a trap with Carson.
+- **Club of Rome, *The Limits to Growth* (1972)**: This computer-modelling report warned that **exponential growth** hits **resource and planetary limits**. It was influential at Stockholm-era debates and is **distinct from the Brundtland Report** (UPPCS 2024 Q51 Reason = FALSE).
+- **Brundtland Commission, *Our Common Future* (1987)**: The report defined **"Sustainable Development"** as meeting present needs without compromising future generations and **popularised the SD concept globally**. The assertion in 2024 Q51 is **TRUE**.
+- **Aldo Leopold, *A Sand County Almanac* (1949)**: Leopold introduced the **"Land Ethic"**, asserting moral responsibility to the entire biotic community. The work is a precursor to deep ecology and conservation ethics.
+- **Paul Ehrlich, *The Population Bomb* (1968)**: Ehrlich warned that rapid **population growth** would outstrip food and resources, sparking debate on population policy and carrying capacity. It is distinct from IPAT equation literature.
+- **Indian: Mahatma Gandhi, *Hind Swaraj* (1909)**: Gandhi critiqued **industrial civilisation's reckless consumption** and advocated village self-sufficiency and restraint, laying roots of Indian environmental thought before formal EE.
+- **Indian: Rabindranath Tagore / Shantiniketan**: Tagore integrated **nature, arts, and outdoor learning** into an early model of **environment-sensitive pedagogy** that connects literature to education (§30.2).
+- **Indian: Anil Agarwal & Sunita Narain (CSE)**: Through *Down To Earth* journalism and *Global Warming in an Unequal World*, they bridged **research and public communication**, crossing Indian environmental literature and communication.
+- **Indian: Sunderlal Bahuguna**: Bahuguna's Chipko writings, especially **"Ecology is permanent economy"**, gave a literary voice to the Himalayan forest movement and connect Topic 29 movements to literature.
 
 > **Exam note:** UPPCS **2024 Q51** — A true (Brundtland popularised SD); R false (Brundtland ≠ *Limits to Growth*). Limits to Growth = **Club of Rome 1972**.
 
@@ -119,13 +119,13 @@ AWARENESS vs COMMUNICATION:
 
 ### Exam Facts (raata)
 
-- Carson = **Silent Spring 1962**
-- Hardin = **Tragedy of the Commons 1968**
-- Limits to Growth = **Club of Rome 1972**
-- Brundtland = **Our Common Future 1987**
-- Brundtland **≠** Limits to Growth (2024 Q51)
-- Gandhi *Hind Swaraj* **1909**
-- CSE **Down To Earth** — Indian env literature/journalism
+- Carson wrote **Silent Spring** in **1962**.
+- Hardin wrote **Tragedy of the Commons** in **1968**.
+- *Limits to Growth* came from the **Club of Rome in 1972**.
+- The **Brundtland Report** is *Our Common Future* (**1987**).
+- Brundtland is **NOT** *Limits to Growth* (2024 Q51 trap).
+- Gandhi's *Hind Swaraj* appeared in **1909**.
+- CSE publishes **Down To Earth**, a key Indian env literature/journalism outlet.
 
 ### PYQs — Environmental Literature
 
@@ -168,16 +168,16 @@ AWARENESS vs COMMUNICATION:
 
 ### Environmental Education — How It Works
 
-- **Stockholm Conference (1972)** catalysed global EE — led to **UNESCO-UNEP International Workshop on EE at Tbilisi (1977)** — **Tbilisi Declaration** = first intergovernmental EE framework — goals, methods, target groups.
-- **Rio Earth Summit (1992) — Agenda 21 Chapter 36**: Mandates **reorienting education** toward sustainability — EE becomes part of **global SD strategy** — links to Topic 15 SD but EE mechanism taught here.
-- **NEP 2020 (India)**: Integrates **environmental awareness, conservation ethics, and sustainable development** across stages — **multidisciplinary, experiential learning** — local ecology projects, citizenship duties under **Art 51A(g)**.
-- **National Green Corps (NGC) / ECO Club Scheme**: **MoEFCC** programme establishing **ECO Clubs** in schools/colleges — students undertake **plantation, waste management, biodiversity surveys, energy audits** — flagship **formal+co-curricular EE** in India.
-- **Paryavaran Mitra (Environment Friend)**: **Centre for Environment Education (CEE), Ahmedabad** with MoEFCC — trains students/teachers as **environment ambassadors** in schools — scales EE to **lakhs of institutions**.
-- **Green Skill Development Programme (GSDP)**: **MoEFCC + Ministry of Skill Development** (2017) — short-term **employable green skills** — biodiversity conservation, waste management, parataxonomy — EE beyond school into **vocational training**.
-- **EEAT scheme (Environment Education Awareness and Training)**: MoEFCC supports **national EE institutions**, workshops, and teacher training — institutional backbone for EE capacity building.
-- **NCERT textbooks**: Bio 12 Ch 16, Geo 11 — standard **UPPCS syllabus source** — EE content embedded in science/social science — exams assume NCERT-level EE concepts (pollution, conservation, SD).
-- **UNESCO ESD frameworks**: **UN Decade of ESD 2005–2014**; current **ESD for 2030** — aligns EE with **SDG 4 (Quality Education)** and **SDG 12–13** — global policy context for Indian NEP alignment.
-- **Trap — Bharat Nirman vs NEP (2025 Q129)**: **ULLAS** (literacy) and **DIKSHA** (digital education) support NEP 2020; **Bharat Nirman** is **infrastructure/rural development programme** — **NOT** an NEP 2020 education scheme — Answer **B (Only 3)**.
+- **Stockholm Conference (1972)** catalysed global EE and led to the **UNESCO-UNEP International Workshop on EE at Tbilisi (1977)**. The **Tbilisi Declaration** became the first intergovernmental EE framework, setting goals, methods, and target groups.
+- **Rio Earth Summit (1992), Agenda 21 Chapter 36**: This chapter mandates **reorienting education** toward sustainability, making EE part of the **global SD strategy**. It connects to Topic 15 SD, but the EE mechanism is taught here.
+- **NEP 2020 (India)**: NEP integrates **environmental awareness, conservation ethics, and sustainable development** across stages through **multidisciplinary, experiential learning**, local ecology projects, and citizenship duties under **Art 51A(g)**.
+- **National Green Corps (NGC) / ECO Club Scheme**: **MoEFCC** runs this programme establishing **ECO Clubs** in schools and colleges where students undertake **plantation, waste management, biodiversity surveys, and energy audits**. It is India's flagship **formal and co-curricular EE** initiative.
+- **Paryavaran Mitra (Environment Friend)**: **Centre for Environment Education (CEE), Ahmedabad** works with MoEFCC to train students and teachers as **environment ambassadors** in schools, scaling EE to **lakhs of institutions**.
+- **Green Skill Development Programme (GSDP)**: **MoEFCC and the Ministry of Skill Development** launched GSDP in **2017** to offer short-term **employable green skills** in biodiversity conservation, waste management, and parataxonomy, extending EE into **vocational training**.
+- **EEAT scheme (Environment Education Awareness and Training)**: MoEFCC supports **national EE institutions**, workshops, and teacher training as the institutional backbone for EE capacity building.
+- **NCERT textbooks**: Bio 12 Ch 16 and Geo 11 are the standard **UPPCS syllabus source** with EE content embedded in science and social science. Exams assume NCERT-level EE concepts on pollution, conservation, and SD.
+- **UNESCO ESD frameworks**: The **UN Decade of ESD 2005–2014** and the current **ESD for 2030** align EE with **SDG 4 (Quality Education)** and **SDG 12–13**, providing global policy context for Indian NEP alignment.
+- **Trap (Bharat Nirman vs NEP, 2025 Q129)**: **ULLAS** (literacy) and **DIKSHA** (digital education) support NEP 2020, but **Bharat Nirman** is an **infrastructure/rural development programme**, **NOT** an NEP 2020 education scheme. Answer **B (Only 3)**.
 
 > **Exam note:** **ECO Club = MoEFCC NGC scheme** — not CPCB or NCERT alone. **Tbilisi 1977** = EE framework; **Stockholm 1972** = UNEP birth — different milestones.
 
@@ -195,13 +195,13 @@ AWARENESS vs COMMUNICATION:
 
 ### Exam Facts (raata)
 
-- Tbilisi Declaration = **1977**
-- ECO Club = **NGC, MoEFCC**
-- CEE = **Ahmedabad** — Paryavaran Mitra
-- GSDP = **2017**, MoEFCC + Skill Ministry
-- NEP 2020 = EE integrated holistically
-- Agenda 21 **Chapter 36** = EE
-- Bharat Nirman **NOT** NEP scheme (2025 Q129)
+- Tbilisi Declaration was adopted in **1977**.
+- ECO Club runs under **NGC, MoEFCC**.
+- CEE is based in **Ahmedabad** and runs Paryavaran Mitra.
+- GSDP launched in **2017** under MoEFCC and the Skill Ministry.
+- NEP 2020 integrates EE holistically.
+- Agenda 21 **Chapter 36** promotes EE.
+- Bharat Nirman is **NOT** a NEP scheme (2025 Q129 trap).
 
 ### PYQs — Environmental Education
 
@@ -244,16 +244,16 @@ AWARENESS vs COMMUNICATION:
 
 ### Environmental Awareness — How It Works
 
-- **Constitutional anchor — Art 51A(g)**: Every citizen must **protect and improve environment** — added by **42nd Amendment 1976** — awareness is not optional "soft" topic but **constitutional duty** — paired with **Art 48A** (state duty).
-- **National Environment Awareness Campaign (NEAC)**: **MoEFCC** scheme since **1980s** — funds NGOs/educational bodies for **district-level awareness activities** — rallies, exhibitions, competitions — longest-running central awareness programme.
-- **Van Mahotsav (Tree Plantation Week)**: **July** — popularised by **K.M. Munshi (1950)** — mass **tree plantation awareness** — schools, forest departments, citizens participate — high recall for UPPCS general awareness.
-- **LiFE Mission (Lifestyle for Environment)**: **MoEFCC** — idea at **COP26 (2021)**, launched **June 2022** — **75 pro-planet actions** — nudge-based **awareness + behaviour change** — UPPCS **2025 Q139**: Stmt 1 true (June 2022); Stmt 2 false (NOT COP-25 Madrid) → **D (Only 1)**.
-- **World Environment Day (5 June)**: Global awareness anchor — host country rotates themes — India hosted **2011 (Forests), 2018 (Beat Plastic Pollution)** — detailed dates in Topic 31 but awareness role taught here.
-- **Earth Day (22 April)**: Global civic awareness day — pollution, climate, biodiversity themes — school/college events — complements WED.
-- **Mass media & celebrity campaigns**: TV/radio spots on **air pollution (NCAP cities)**, **Ganga cleanliness**, **wildlife protection** — awareness reaches rural and urban audiences beyond formal education.
-- **Movement-led awareness**: Chipko, Silent Valley, Appiko raised **public consciousness** before formal EE scaled — grassroots awareness → policy change (brief link to Topic 29).
-- **SDG awareness linkage**: **SDG 12** (Responsible Consumption) and **SDG 13** (Climate Action) — global frameworks that Indian awareness campaigns (LiFE, NEAC) align with.
-- **Distinction from EE (§30.2)**: **EE** = structured learning in institutions; **Awareness** = broad public consciousness — campaigns, duties, nudges — can exist without formal schooling (LiFE targets general public).
+- **Constitutional anchor (Art 51A(g))**: Every citizen must **protect and improve the environment**, a duty added by the **42nd Amendment 1976**. Awareness is a **constitutional duty**, not an optional "soft" topic, and it pairs with **Art 48A** (state duty).
+- **National Environment Awareness Campaign (NEAC)**: **MoEFCC** has run this scheme since the **1980s**, funding NGOs and educational bodies for **district-level awareness activities** such as rallies, exhibitions, and competitions. It is the longest-running central awareness programme.
+- **Van Mahotsav (Tree Plantation Week)**: Celebrated in **July** and popularised by **K.M. Munshi (1950)**, Van Mahotsav drives mass **tree plantation awareness** with schools, forest departments, and citizens participating. It has high recall for UPPCS general awareness.
+- **LiFE Mission (Lifestyle for Environment)**: **MoEFCC** floated the idea at **COP26 (2021)** and launched the mission in **June 2022** with **75 pro-planet actions** for nudge-based **awareness and behaviour change**. UPPCS **2025 Q139**: Statement 1 is true (June 2022), Statement 2 is false (NOT COP-25 Madrid). Answer **D (Only 1)**.
+- **World Environment Day (5 June)**: This global awareness anchor rotates host country and themes. India hosted in **2011 (Forests)** and **2018 (Beat Plastic Pollution)**. Detailed dates appear in Topic 31, but the awareness role is taught here.
+- **Earth Day (22 April)**: A global civic awareness day on pollution, climate, and biodiversity themes, with school and college events that complement WED.
+- **Mass media & celebrity campaigns**: TV and radio spots on **air pollution (NCAP cities)**, **Ganga cleanliness**, and **wildlife protection** carry awareness to rural and urban audiences beyond formal education.
+- **Movement-led awareness**: Chipko, Silent Valley, and Appiko raised **public consciousness** before formal EE scaled, showing how grassroots awareness can drive policy change (brief link to Topic 29).
+- **SDG awareness linkage**: **SDG 12** (Responsible Consumption) and **SDG 13** (Climate Action) are global frameworks that Indian awareness campaigns such as LiFE and NEAC align with.
+- **Distinction from EE (§30.2)**: **EE** is structured learning in institutions, while **Awareness** is broad public consciousness through campaigns, duties, and nudges. Awareness can exist without formal schooling, as LiFE targets the general public.
 
 > **Exam note:** **LiFE = awareness/behaviour campaign**, not environmental education curriculum. COP-25 Madrid trap in **2025 Q139**.
 
@@ -269,13 +269,13 @@ AWARENESS vs COMMUNICATION:
 
 ### Exam Facts (raata)
 
-- Art **51A(g)** = protect environment duty
-- NEAC = **MoEFCC** awareness scheme
-- Van Mahotsav = **July**, K.M. Munshi 1950
-- LiFE launched **June 2022**; idea **COP26 2021**
-- LiFE **NOT** COP-25 Madrid (Q139)
-- WED = **5 June**
-- Awareness ≠ same as formal EE
+- Art **51A(g)** makes protecting the environment a citizen duty.
+- NEAC is a **MoEFCC** awareness scheme.
+- Van Mahotsav falls in **July** and was popularised by K.M. Munshi in **1950**.
+- LiFE launched in **June 2022** after the idea emerged at **COP26 2021**.
+- LiFE was **NOT** proposed at COP-25 Madrid (Q139 trap).
+- World Environment Day is **5 June**.
+- Awareness is not the same as formal EE.
 
 ### PYQs — Environmental Awareness
 
@@ -318,16 +318,16 @@ AWARENESS vs COMMUNICATION:
 
 ### Environmental Communication — How It Works
 
-- **Purpose**: Bridge gap between **scientists/policy makers** and **citizens** — translate technical data (AQI, BOD, IPCC summaries) into **understandable messages** — failure causes misinformation and policy resistance.
-- **Centre for Science and Environment (CSE) — *Down To Earth***: Fortnightly **Indian environmental magazine** — investigative reporting on pollution, water, food, climate — gold standard for **env journalism/communication** — founded by **Anil Agarwal**, led by **Sunita Narain**.
-- **Gobar Times**: CSE's **children's environmental supplement** — simplifies ecology for young readers — communication targeted at **school-age audience** — links to EE (§30.2).
-- **MoEFCC / PIB communication**: Press releases, policy explainers, **India State of Forest Report** summaries, **National Action Plan on Climate Change** documents — official **government env communication channel**.
-- **Kerala Sastra Sahithya Parishad (KSSP) model**: **People's science movement** — communicated ecological data during **Silent Valley campaign** — shows **science communication → policy victory** — exam link between communication and movements.
-- **IEC in government schemes**: **Swachh Bharat, Namami Gange, NCAP, PWM Rules compliance** use **Information + Education + Communication** components — posters, community meetings, SMS, social media — awareness (§30.3) delivered through communication tools.
-- **Digital communication**: **Mission LiFE app**, **Sameer app (CPCB AQI)**, **DIKSHA eco-modules** — real-time data and learning content — 2025 digital governance overlap.
-- **Community media**: **Street theatre, folk songs, community radio** — effective in rural/tribal areas where literacy or English media reach is low — UP Bundelkhand/Terai NGO env communication.
-- **IPCC communication trap**: **IPCC** synthesises climate **science** for policymakers — it communicates assessments but is **not** an awareness campaign body — distinct from MoEFCC LiFE or NEAC.
-- **Distinction — Communication vs Awareness vs Education**: **Education** = curriculum learning; **Awareness** = consciousness/duty; **Communication** = **channels and messages** (magazines, apps, IEC kits) that deliver the other two.
+- **Purpose**: Environmental communication bridges the gap between **scientists/policy makers** and **citizens** by translating technical data (AQI, BOD, IPCC summaries) into **understandable messages**. Failure here causes misinformation and policy resistance.
+- **Centre for Science and Environment (CSE), *Down To Earth***: This fortnightly **Indian environmental magazine** provides investigative reporting on pollution, water, food, and climate. Founded by **Anil Agarwal** and led by **Sunita Narain**, it is the gold standard for **env journalism/communication**.
+- **Gobar Times**: CSE's **children's environmental supplement** simplifies ecology for young readers and targets the **school-age audience**, connecting to EE (§30.2).
+- **MoEFCC / PIB communication**: Press releases, policy explainers, **India State of Forest Report** summaries, and **National Action Plan on Climate Change** documents form the official **government env communication channel**.
+- **Kerala Sastra Sahithya Parishad (KSSP) model**: This **people's science movement** communicated ecological data during the **Silent Valley campaign**, demonstrating how **science communication can lead to policy victory**. Exams connect communication and movements here.
+- **IEC in government schemes**: **Swachh Bharat, Namami Gange, NCAP, and PWM Rules compliance** use **Information, Education, and Communication** components through posters, community meetings, SMS, and social media, delivering awareness (§30.3) through communication tools.
+- **Digital communication**: The **Mission LiFE app**, **Sameer app (CPCB AQI)**, and **DIKSHA eco-modules** provide real-time data and learning content, reflecting 2025 digital governance overlap.
+- **Community media**: **Street theatre, folk songs, and community radio** reach rural and tribal areas where literacy or English media reach is low, including UP Bundelkhand/Terai NGO env communication.
+- **IPCC communication trap**: **IPCC** synthesises climate **science** for policymakers and communicates assessments, but it is **not** an awareness campaign body like MoEFCC LiFE or NEAC.
+- **Distinction (Communication vs Awareness vs Education)**: **Education** means curriculum learning, **Awareness** means consciousness and duty, and **Communication** means the **channels and messages** (magazines, apps, IEC kits) that deliver the other two.
 
 > **Exam note:** **Down To Earth = CSE**, not MoEFCC or CPCB. **KSSP = Kerala science communication**, not Karnataka (Appiko state trap).
 

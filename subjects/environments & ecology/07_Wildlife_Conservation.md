@@ -133,16 +133,16 @@ OPERATION OLIVIA (2025 Q143):
 
 ### Wildlife Conservation — How It Works
 
-- **Wildlife** includes all non-domesticated animals and plants living freely in natural habitats — forests, wetlands, grasslands, mountains, and coasts.
+- **Wildlife** includes all non-domesticated animals and plants living freely in forests, wetlands, grasslands, mountains, and coasts.
 - **Wildlife conservation** aims to prevent species extinction, maintain genetic diversity, and preserve ecosystem services (pollination, seed dispersal, nutrient cycling).
-- The primary strategy is **in-situ conservation** — protecting species where they naturally occur through protected areas, wildlife corridors, and habitat restoration.
-- **Ex-situ conservation** supplements in-situ efforts — captive breeding centres, zoos, botanical gardens, seed banks, and gene banks provide insurance against extinction.
-- **Flagship species** (tiger, lion, rhino) attract funding and public attention; **umbrella species** (tiger, elephant) protect entire ecosystems through large habitat requirements.
-- **Keystone species** (vultures as scavengers) maintain ecosystem structure — their loss triggers cascading effects on other species.
+- The primary strategy is **in-situ conservation**. Protecting species where they naturally occur through protected areas, wildlife corridors, and habitat restoration.
+- **Ex-situ conservation** supplements in-situ efforts. Captive breeding centres, zoos, botanical gardens, seed banks, and gene banks provide insurance against extinction.
+- **Flagship species** (tiger, lion, rhino) attract funding and public attention, while **umbrella species** (tiger, elephant) protect entire ecosystems through large habitat requirements.
+- **Keystone species** (vultures as scavengers) maintain ecosystem structure. Their loss triggers cascading effects on other species.
 - Major threats include **habitat fragmentation**, **poaching** (rhino horn, tiger skin), **human-wildlife conflict**, **pollution** (diclofenac killing vultures), and **climate change** altering migration and breeding patterns.
 - India uses **species-specific programmes** (Project Tiger, Elephant, Lion, Snow Leopard) layered over the **protected area network** under WPA 1972.
-- **Community participation** — Joint Forest Management, eco-development committees in tiger reserves, and compensation for crop/livestock damage reduce local hostility to conservation.
-- **International cooperation** — CITES regulates wildlife trade; CMS protects migratory species; bilateral initiatives like Operation Olivia protect marine turtles.
+- **Community participation** through Joint Forest Management, eco-development committees in tiger reserves, and compensation for crop/livestock damage reduces local hostility to conservation.
+- **International cooperation** takes several forms: CITES regulates wildlife trade, CMS protects migratory species, and bilateral initiatives like Operation Olivia protect marine turtles.
 
 > **Exam note:** World Wildlife Day = **3 March** (CITES adoption, 2013 UN resolution) — NOT 22 March (2025 Q62 trap). Wildlife Week in India = **2–8 October**.
 
@@ -158,8 +158,8 @@ OPERATION OLIVIA (2025 Q143):
 ### Exam Facts (raata)
 
 - Wildlife conservation = **in-situ primary** + ex-situ supplementary
-- **Flagship** = charismatic (tiger); **Umbrella** = large range (tiger, elephant); **Keystone** = ecosystem role (vulture)
-- World Wildlife Day = **3 March**; Wildlife Week India = **2–8 October**
+- **Flagship** = charismatic (tiger). **Umbrella** = large range (tiger, elephant). **Keystone** = ecosystem role (vulture).
+- World Wildlife Day = **3 March**. Wildlife Week India = **2–8 October**.
 - Operation Olivia = **ICG** protects Olive Ridley turtles on **Odisha coast** during **Nov–Feb** nesting
 - India hosts **7–8% of global biodiversity** with 4 biodiversity hotspots
 - Species programmes operate under **MoEFCC** as Centrally Sponsored Schemes
@@ -194,15 +194,15 @@ OPERATION OLIVIA (2025 Q143):
 
 ### Wildlife Protection — How It Works
 
-- **Wildlife (Protection) Act, 1972** is India's umbrella wildlife legislation — enacted after **Stockholm Conference 1972**, replacing the colonial-era protection framework.
-- The Act establishes **six schedules** classifying species by protection level — **Schedule I** receives maximum protection with hunting and trade completely banned.
-- **Schedule I** includes tiger, elephant, rhino, lion, gharial, snow leopard, vultures, and most endangered species — offences carry imprisonment up to **7 years** and fines.
-- **Schedule II** includes species needing protection but with slightly lesser penalties; **Schedule III–IV** cover protected plants and lesser fauna.
-- **Schedule V** lists vermin species (common crow, fruit bat, rat) that may be hunted; **Schedule VI** lists prohibited invasive plants (lantana, water hyacinth).
-- The **Chief Wildlife Warden (CWLW)** is the state-level authority for permits, sanctuary management, and conflict resolution — appointed by State Government.
-- **National Board for Wildlife (NBWL)** chaired by PM advises on PA notifications and wildlife policy — mandatory for altering NP boundaries.
-- **Hunting** is defined broadly — capturing, killing, poisoning, trapping, or driving any wild animal — prohibited for Schedule I and II species without special permission.
-- **Trade prohibition** — selling, buying, or possessing animal articles (tiger skin, ivory, rhino horn) from scheduled species is a cognizable offence.
+- **Wildlife (Protection) Act, 1972** is India's umbrella wildlife legislation. Enacted after **Stockholm Conference 1972**, replacing the colonial-era protection framework.
+- The Act establishes **six schedules** classifying species by protection level. **Schedule I** receives maximum protection with hunting and trade completely banned.
+- **Schedule I** includes tiger, elephant, rhino, lion, gharial, snow leopard, vultures, and most endangered species. Offences carry imprisonment up to **7 years** and fines.
+- **Schedule II** includes species needing protection but with slightly lesser penalties. **Schedule III–IV** cover protected plants and lesser fauna.
+- **Schedule V** lists vermin species (common crow, fruit bat, rat) that may be hunted. **Schedule VI** lists prohibited invasive plants (lantana, water hyacinth).
+- The **Chief Wildlife Warden (CWLW)** is the state-level authority for permits, sanctuary management, and conflict resolution. Appointed by State Government.
+- **National Board for Wildlife (NBWL)** chaired by PM advises on PA notifications and wildlife policy. Mandatory for altering NP boundaries.
+- **Hunting** is defined broadly as capturing, killing, poisoning, trapping, or driving any wild animal, and it is prohibited for Schedule I and II species without special permission.
+- **Trade prohibition** makes selling, buying, or possessing animal articles (tiger skin, ivory, rhino horn) from scheduled species a cognizable offence.
 - Constitutional backing: **Article 48A** (State duty to protect wildlife), **Article 51A(g)** (citizen duty), **Article 21** (SC: right to healthy environment includes wildlife protection).
 
 > **Exam note:** WPA = **1972** (same year as Stockholm). Trap: "WPA enacted in 1973 with Project Tiger" = **FALSE** — WPA 1972, Project Tiger 1973.
@@ -220,10 +220,10 @@ OPERATION OLIVIA (2025 Q143):
 
 ### Exam Facts (raata)
 
-- WPA enacted **1972** — primary wildlife protection law
-- **6 schedules** — Schedule I = maximum protection
+- WPA enacted **1972**. Primary wildlife protection law.
+- **6 schedules**. Schedule I = maximum protection.
 - **CWLW** = state implementing authority
-- **NBWL** chaired by **PM** — advises on PA policy
+- **NBWL** chaired by **PM**. Advises on PA policy.
 - Hunting/trade of Schedule I species = imprisonment up to **7 years**
 - Art **48A** (State), **51A(g)** (citizen), **21** (SC environmental right)
 - NTCA added by **WPA 2006 amendment** for tiger-specific governance
@@ -267,23 +267,23 @@ OPERATION OLIVIA (2025 Q143):
 
 ### Project Tiger — How It Works
 
-- **Project Tiger** launched in **1973** with **9 initial tiger reserves** — first was **Jim Corbett** (then Uttar Pradesh, now Uttarakhand).
-- India now has **58 Tiger Reserves** covering ~84,500 sq km — **Madhav Tiger Reserve** (Madhya Pradesh) is the **58th** (notified 2025).
-- **NTCA (National Tiger Conservation Authority)** established as statutory body under **WPA 2006 amendment** — gives legal teeth to tiger reserve management.
+- **Project Tiger** launched in **1973** with **9 initial tiger reserves**. First was **Jim Corbett** (then Uttar Pradesh, now Uttarakhand).
+- India now has **58 Tiger Reserves** covering ~84,500 sq km. **Madhav Tiger Reserve** (Madhya Pradesh) is the **58th** (notified 2025).
+- **NTCA (National Tiger Conservation Authority)** established as statutory body under **WPA 2006 amendment**. Gives legal teeth to tiger reserve management.
 - Every Tiger Reserve requires mandatory **Core Zone** (inviolate, no human activity) and **Buffer Zone** (limited regulated activity, eco-development).
-- **All India Tiger Estimation** conducted every **4 years** using camera traps, sign surveys, and **M-STrIPES** mobile app — 2022 census: **3,682 tigers** (up from 2,226 in 2014).
-- **Madhya Pradesh** has the most tiger reserves (**9**) and highest tiger population among states — **~70% of world's wild tigers** are in India.
-- Tiger is an **umbrella species** — protecting tigers through large inviolate cores simultaneously protects prey (deer, wild boar), co-predators (leopard), and forest habitat.
-- **ST (Species Tiger) Galaxy** — NTCA's geospatial database integrating tiger reserve boundaries, corridors, and monitoring data.
-- **UP Tiger Reserves**: **Dudhwa** (1987), **Pilibhit** (2014), **Ranipur** (2023) — Terai belt critical for Indo-Nepal tiger corridor.
-- Tourism regulated by NTCA guidelines — maximum **20% of core area** for visitation; emphasis on carrying capacity limits.
+- **All India Tiger Estimation** conducted every **4 years** using camera traps, sign surveys, and **M-STrIPES** mobile app. 2022 census: **3,682 tigers** (up from 2,226 in 2014).
+- **Madhya Pradesh** has the most tiger reserves (**9**) and highest tiger population among states. **~70% of world's wild tigers** are in India.
+- Tiger is an **umbrella species**. Protecting tigers through large inviolate cores simultaneously protects prey (deer, wild boar), co-predators (leopard), and forest habitat.
+- **ST (Species Tiger) Galaxy**. NTCA's geospatial database integrating tiger reserve boundaries, corridors, and monitoring data.
+- **UP Tiger Reserves**: **Dudhwa** (1987), **Pilibhit** (2014), **Ranipur** (2023). Terai belt critical for Indo-Nepal tiger corridor.
+- Tourism regulated by NTCA guidelines. Maximum **20% of core area** for visitation. Emphasis on carrying capacity limits.
 
 > **Exam note:** Project Tiger = **1973**. NTCA statutory = **2005 notification / 2006 WPA amendment**. Trap: "NTCA created in 1973" = **FALSE**.
 
 ### Exam Facts (raata)
 
-- Project Tiger = **1973**; first TR = **Corbett**
-- **58** Tiger Reserves; Madhav = 58th (2025)
+- Project Tiger = **1973**. First TR = **Corbett**.
+- **58** Tiger Reserves. Madhav = 58th (2025).
 - NTCA = statutory body (**WPA 2006**, Sec 38V)
 - 2022 tiger census = **3,682** tigers
 - MP = **9 TRs** (most in India)
@@ -330,23 +330,23 @@ OPERATION OLIVIA (2025 Q143):
 
 ### Project Elephant — How It Works
 
-- **Project Elephant** launched in **1992** as a Centrally Sponsored Scheme — addresses habitat loss, fragmentation, and rising **human-elephant conflict (HEC)**.
-- **Elephant Reserves (ER)** are notified by **State Governments** on MoEFCC recommendation — cover forests, corridors, and migration routes.
-- India has **33 Elephant Reserves** across **14 states** covering ~80,778 sq km — elephants found in **16 of 28 states**.
-- **150 elephant corridors** identified and ground-validated across 15 states — critical for genetic exchange between isolated herds.
-- ERs have **no WPA statutory backing** — legal protection comes from overlapping sanctuaries, NPs, and forest laws within ER boundaries.
-- **Elephant population** estimated ~**30,000** (2020 census) — up from ~25,000 when Project Elephant began.
+- **Project Elephant** launched in **1992** as a Centrally Sponsored Scheme. Addresses habitat loss, fragmentation, and rising **human-elephant conflict (HEC)**.
+- **Elephant Reserves (ER)** are notified by **State Governments** on MoEFCC recommendation. Cover forests, corridors, and migration routes.
+- India has **33 Elephant Reserves** across **14 states** covering ~80,778 sq km. Elephants found in **16 of 28 states**.
+- **150 elephant corridors** identified and ground-validated across 15 states. Critical for genetic exchange between isolated herds.
+- ERs have **no WPA statutory backing**. Legal protection comes from overlapping sanctuaries, NPs, and forest laws within ER boundaries.
+- **Elephant population** estimated ~**30,000** (2020 census). Up from ~25,000 when Project Elephant began.
 - **HEC mitigation** includes anti-depredation squads, early warning systems, solar fences, and **compensation schemes** for crop/livestock damage.
-- **UP Elephant Reserves**: **Uttar Pradesh ER** (2009, 744 sq km) and **Terai ER** (2022, 3,049 sq km) — Dudhwa-Pilibhit-Kishanpur landscape.
-- ERs often span **multiple districts and states** — e.g., Eastern Dooars ER (West Bengal) connects to Assam landscapes.
-- Project Elephant administration merged with Project Tiger under MoEFCC wildlife division — unified monitoring but distinct objectives.
+- **UP Elephant Reserves**: **Uttar Pradesh ER** (2009, 744 sq km) and **Terai ER** (2022, 3,049 sq km). Dudhwa-Pilibhit-Kishanpur landscape.
+- ERs often span **multiple districts and states**. E.g., Eastern Dooars ER (West Bengal) connects to Assam landscapes.
+- Project Elephant administration merged with Project Tiger under MoEFCC wildlife division. Unified monitoring but distinct objectives.
 
 > **Exam note:** Elephant Reserve = **NO WPA basis** (executive notification). Tiger Reserve = **WPA Sec 38V**. This is the #1 statutory comparison trap.
 
 ### Exam Facts (raata)
 
 - Project Elephant = **1992**
-- **33** Elephant Reserves; **14** states
+- **33** Elephant Reserves. **14** states.
 - **150** elephant corridors identified
 - **NO WPA statutory basis**
 - ~**30,000** elephants (2020 est.)
@@ -395,14 +395,14 @@ OPERATION OLIVIA (2025 Q143):
 
 - Launched in **1975** when all three Indian crocodilians faced near-extinction from hunting, habitat loss, and dam construction.
 - Covers **three species**: **Gharial** (*Gavialis gangeticus*), **Mugger/Marsh crocodile** (*Crocodylus palustris*), and **Saltwater crocodile** (*C. porosus*).
-- **Gharial** is the most critically endangered — long snout adapted for fish; males have ghara (pot-like snout bulb); found in **Ganga, Chambal, Yamuna, Girwa** rivers.
-- **Mugger** is the most widespread — found in rivers, lakes, and reservoirs across India including UP water bodies.
-- **Saltwater crocodile** — largest reptile; confined to coastal mangroves and estuaries — **Bhitar Kanika** (Odisha), Sundarbans, Andaman coast.
-- **Captive breeding centres** established at **Nandankanan** (Odisha), **Hyderabad**, **Chennai**, **Lucknow**, **Trivandrum** — bred juveniles for wild release.
-- **National Chambal Sanctuary** (tri-state: UP, MP, Rajasthan) is the **gharial stronghold** — largest breeding population in India.
-- **Katarniaghat WLS** (Bahraich, UP) on Girwa river is a key UP gharial habitat — part of Terai Arc Landscape.
-- Dam construction on Chambal and Yamuna fragmented gharial habitat — sand mining and fishing nets cause additional mortality.
-- Project success: mugger and saltwater croc populations recovered significantly; gharial remains **Critically Endangered** (IUCN) needing continued effort.
+- **Gharial** is the most critically endangered. Long snout adapted for fish. Males have ghara (pot-like snout bulb). Found in **Ganga, Chambal, Yamuna, Girwa** rivers.
+- **Mugger** is the most widespread. Found in rivers, lakes, and reservoirs across India including UP water bodies.
+- The **saltwater crocodile** is the largest reptile and lives in coastal mangroves and estuaries at **Bhitar Kanika** (Odisha), Sundarbans, and the Andaman coast.
+- **Captive breeding centres** established at **Nandankanan** (Odisha), **Hyderabad**, **Chennai**, **Lucknow**, **Trivandrum**. Bred juveniles for wild release.
+- **National Chambal Sanctuary** (tri-state: UP, MP, Rajasthan) is the **gharial stronghold**. Largest breeding population in India.
+- **Katarniaghat WLS** (Bahraich, UP) on Girwa river is a key UP gharial habitat. Part of Terai Arc Landscape.
+- Dam construction on Chambal and Yamuna fragmented gharial habitat. Sand mining and fishing nets cause additional mortality.
+- Project success: mugger and saltwater croc populations recovered significantly. Gharial remains **Critically Endangered** (IUCN) needing continued effort.
 
 > **Exam note:** Three species — **gharial + mugger + saltwater**. Trap: "Crocodile project covers only gharial" = **FALSE**. Gharial = Critically Endangered; mugger = Vulnerable.
 
@@ -418,7 +418,7 @@ OPERATION OLIVIA (2025 Q143):
 
 - Crocodile Project = **1975** (Crocodile Breeding and Management Project)
 - **3 species**: Gharial, Mugger, Saltwater crocodile
-- Gharial = **Critically Endangered**; distinctive long narrow snout
+- Gharial = **Critically Endangered**. Distinctive long narrow snout.
 - **National Chambal Sanctuary** = gharial stronghold (UP-MP-Rajasthan)
 - **Katarniaghat WLS** = UP gharial habitat (Girwa river)
 - UNDP/FAO provided initial technical assistance
@@ -465,26 +465,26 @@ OPERATION OLIVIA (2025 Q143):
 
 ### Asiatic Lion Conservation — How It Works
 
-- **Asiatic lion** (*Panthera leo persica*) is genetically distinct from African lion — smaller mane, distinctive belly fold, shared habitat tolerance.
-- The **only wild population** exists in **Gir National Park and surrounding Gir-Somnath-Girnar landscape**, Gujarat — approximately **750+ lions** (2025 census trend from ~523 in 2015).
-- Historically ranged from **Greece to Bihar** — hunting and habitat loss restricted them to Gir by early 20th century; Nawab of Junagadh protected last survivors.
+- **Asiatic lion** (*Panthera leo persica*) is genetically distinct from African lion. Smaller mane, distinctive belly fold, shared habitat tolerance.
+- The **only wild population** exists in **Gir National Park and surrounding Gir-Somnath-Girnar landscape**, Gujarat. Approximately **750+ lions** (2025 census trend from ~523 in 2015).
+- Historically ranged from **Greece to Bihar**. Hunting and habitat loss restricted them to Gir by early 20th century. Nawab of Junagadh protected last survivors.
 - **Gir Conservation Programme** (pre-2020) focused on habitat improvement, prey base (chital, nilgai), fire management, and **canine distemper virus** prevention after 2018 outbreak deaths.
-- **Project Lion (2020)** — ₹2,900+ crore Centrally Sponsored Scheme for Gir landscape management + establishing **second home** at **Kuno-Palpur WLS**, Madhya Pradesh.
-- **Kuno translocation** aims to reduce single-population catastrophe risk (disease, fire, genetic bottleneck) — cheetah introduction at Kuno (2022) complicated lion translocation timeline.
-- **WPA Schedule I** protection — hunting and trade banned; lion is **state animal of Gujarat**.
-- **Human-lion conflict** increasing as lions expand beyond Gir into villages — attacks on livestock and occasional human fatalities.
-- **NOT found in UP** — common trap in UPPCS geography questions; lions ≠ tigers in Dudhwa.
-- **Census method** — direct sighting during **Poonam Avlokan** (full moon observation) combined with camera traps and radio telemetry.
+- **Project Lion (2020)**. ₹2,900+ crore Centrally Sponsored Scheme for Gir landscape management + establishing **second home** at **Kuno-Palpur WLS**, Madhya Pradesh.
+- **Kuno translocation** aims to reduce single-population catastrophe risk (disease, fire, genetic bottleneck). Cheetah introduction at Kuno (2022) complicated lion translocation timeline.
+- **WPA Schedule I** protection. Hunting and trade banned. Lion is **state animal of Gujarat**.
+- **Human-lion conflict** increasing as lions expand beyond Gir into villages. Attacks on livestock and occasional human fatalities.
+- Asiatic lions are **not found in UP**, a common UPPCS geography trap since Dudhwa holds tigers, not lions.
+- The **census method** uses direct sighting during **Poonam Avlokan** (full moon observation) combined with camera traps and radio telemetry.
 
 > **Exam note:** Asiatic lion = **Gir, Gujarat ONLY** in wild. Trap: "Asiatic lions found in Dudhwa/UP" = **FALSE**. Project Lion = **2020**, not 1973.
 
 ### Exam Facts (raata)
 
 - Only wild population = **Gir, Gujarat**
-- ~**750+** lions (2025 trend); ~523 in 2015 census
+- ~**750+** lions (2025 trend). ~523 in 2015 census.
 - **Project Lion** launched **2020**
 - **Kuno-Palpur WLS** (MP) = planned second home
-- IUCN: **Endangered**; WPA **Schedule I**
+- IUCN: **Endangered**. WPA **Schedule I**.
 - State animal of **Gujarat**
 - 2018 canine distemper virus killed 30+ lions
 
@@ -529,16 +529,16 @@ OPERATION OLIVIA (2025 Q143):
 
 ### Rhino Conservation — How It Works
 
-- **Greater One-Horned Rhinoceros** (*Rhinoceros unicornis*) — single horn, armour-plate skin folds; found in tall grassland-wetland mosaics of **Terai and Brahmaputra basin**.
-- **Kaziranga NP** (Assam) holds the **largest population** (~2,600+ rhinos) — UNESCO World Heritage Site; also tiger reserve and Ramsar wetland.
-- **Poaching threat** — rhino horn used in traditional medicine (no scientific basis) — WPA Schedule I; Kaziranga has strict anti-poaching with armed guards.
-- **IRV 2020 (Indian Rhino Vision 2020)** — translocate rhinos from Kaziranga/Pobitora to **7 protected areas** to reduce single-site catastrophe risk.
+- **Greater One-Horned Rhinoceros** (*Rhinoceros unicornis*). Single horn, armour-plate skin folds. Found in tall grassland-wetland mosaics of **Terai and Brahmaputra basin**.
+- **Kaziranga NP** (Assam) holds the **largest population** (~2,600+ rhinos). UNESCO World Heritage Site. Also tiger reserve and Ramsar wetland.
+- **Poaching** remains the main threat because rhino horn is used in traditional medicine (with no scientific basis). The species has WPA Schedule I protection and Kaziranga runs strict anti-poaching with armed guards.
+- **IRV 2020 (Indian Rhino Vision 2020)**. Translocate rhinos from Kaziranga/Pobitora to **7 protected areas** to reduce single-site catastrophe risk.
 - Target PAs: **Kaziranga, Pobitora, Orang, Manas** (Assam), **Jaldapara, Gorumara** (West Bengal), **Dudhwa** (UP).
-- **Dudhwa NP** (Lakhimpur Kheri, UP) — rhinos **reintroduced** under IRV 2020; part of Dudhwa Tiger Reserve; Terai grassland habitat.
-- **Manas NP** rhino reintroduction succeeded after civil unrest decimated population — model for post-conflict conservation.
-- **Census method** — direct count during winter when grass is burnt/low; Kaziranga rhino census every 2–3 years.
-- **Flood mortality** — annual Brahmaputra floods kill rhinos in Kaziranga; artificial highlands (davies) built for refuge.
-- India hosts ~**4,000+** rhinos (2024 estimate) — over 80% of global greater one-horned rhino population.
+- **Dudhwa NP** (Lakhimpur Kheri, UP). Rhinos **reintroduced** under IRV 2020. Part of Dudhwa Tiger Reserve. Terai grassland habitat.
+- **Manas NP** rhino reintroduction succeeded after civil unrest decimated population. Model for post-conflict conservation.
+- The **census method** uses direct count during winter when grass is burnt or low, and Kaziranga conducts its rhino census every 2–3 years.
+- **Flood mortality** from annual Brahmaputra floods kills rhinos in Kaziranga, so artificial highlands (davies) have been built for refuge.
+- India hosts ~**4,000+** rhinos (2024 estimate). Over 80% of global greater one-horned rhino population.
 
 > **Exam note:** UP has rhinos in **Dudhwa NP** — not Kaziranga (Assam). Trap: "All Indian rhinos in Assam" = **FALSE**.
 
@@ -558,9 +558,9 @@ OPERATION OLIVIA (2025 Q143):
 
 - Species: **Greater One-Horned Rhinoceros** (*R. unicornis*)
 - Kaziranga = **largest population** (~2,600+)
-- **IRV 2020** — 7 protected areas target
+- **IRV 2020**. 7 protected areas target.
 - UP rhinos in **Dudhwa NP** (reintroduced)
-- IUCN: **Vulnerable**; WPA **Schedule I**
+- IUCN: **Vulnerable**. WPA **Schedule I**.
 - India = **80%+** of global population
 - Poaching for horn = primary threat
 
@@ -605,16 +605,16 @@ OPERATION OLIVIA (2025 Q143):
 
 ### Snow Leopard Conservation — How It Works
 
-- **Snow leopard** (*Panthera uncia*) inhabits high-altitude zones (**3,000–5,400 m**) across **Himalayas and trans-Himalayas** — rocky terrain, sparse vegetation.
+- **Snow leopard** (*Panthera uncia*) inhabits high-altitude zones (**3,000–5,400 m**) across **Himalayas and trans-Himalayas**. Rocky terrain, sparse vegetation.
 - India has **~500–700 snow leopards** across **~1.28 lakh sq km** potential habitat in **J&K, Ladakh, Himachal Pradesh, Uttarakhand, Sikkim, Arunachal Pradesh**.
-- **Project Snow Leopard (2009)** — identifies **snow leopard landscapes** and strengthens protected area network in high Himalayas.
-- **GSLEP (2013)** — intergovernmental alliance of **12 range countries** (India, Nepal, Bhutan, China, Mongolia, Russia, Kazakhstan, Kyrgyzstan, Tajikistan, Uzbekistan, Afghanistan, Pakistan) committing to protect **20 landscapes by 2020**.
-- **SECURE Himalaya** — UNDP-GEF-MoEFCC project for sustainable management of high-altitude biodiversity in **Himachal, Uttarakhand, Sikkim, Ladakh**.
-- **Hemis NP** (Ladakh) is a key snow leopard habitat — also **Nanda Devi Biosphere Reserve**, **Gangotri NP**, **Valley of Flowers** environs.
-- Snow leopard is **umbrella species** for high-altitude ecosystems — protecting it preserves blue sheep (bharal), ibex, marmots, and alpine vegetation.
+- **Project Snow Leopard (2009)**. Identifies **snow leopard landscapes** and strengthens protected area network in high Himalayas.
+- **GSLEP (2013)**. Intergovernmental alliance of **12 range countries** (India, Nepal, Bhutan, China, Mongolia, Russia, Kazakhstan, Kyrgyzstan, Tajikistan, Uzbekistan, Afghanistan, Pakistan) committing to protect **20 landscapes by 2020**.
+- **SECURE Himalaya** is a UNDP-GEF-MoEFCC project for sustainable management of high-altitude biodiversity in **Himachal, Uttarakhand, Sikkim, and Ladakh**.
+- **Hemis NP** (Ladakh) is a key snow leopard habitat. Also **Nanda Devi Biosphere Reserve**, **Gangotri NP**, **Valley of Flowers** environs.
+- Snow leopard is **umbrella species** for high-altitude ecosystems. Protecting it preserves blue sheep (bharal), ibex, marmots, and alpine vegetation.
 - **Threats**: retaliatory killing by herders (livestock predation), habitat fragmentation, climate change shifting tree line, poaching for bones/skin.
-- **SLN (Snow Leopard Network)** and **SLT (Snow Leopard Trust)** support community-based monitoring; **SLPP (Snow Leopard Project Protocol)** standardises census using camera traps and sign surveys.
-- **WPA Schedule I** — hunting and trade banned; **October 23** observed as **International Snow Leopard Day** (Bishkek Declaration 2013).
+- **SLN (Snow Leopard Network)** and **SLT (Snow Leopard Trust)** support community-based monitoring. **SLPP (Snow Leopard Project Protocol)** standardises census using camera traps and sign surveys.
+- The snow leopard has **WPA Schedule I** protection with hunting and trade banned, and **October 23** is observed as **International Snow Leopard Day** (Bishkek Declaration 2013).
 
 > **Exam note:** Snow leopard = **Himalayas only** — NOT Gir, NOT Western Ghats, NOT Terai. Project Snow Leopard = **2009**.
 
@@ -632,11 +632,11 @@ OPERATION OLIVIA (2025 Q143):
 ### Exam Facts (raata)
 
 - Project Snow Leopard = **2009**
-- GSLEP = **2013**; **12 range countries**
+- GSLEP = **2013**. **12 range countries**.
 - India: ~**500–700** snow leopards
 - Habitat: **3,000–5,400 m** altitude
 - **Hemis NP** (Ladakh) = key habitat
-- IUCN: **Vulnerable**; WPA **Schedule I**
+- IUCN: **Vulnerable**. WPA **Schedule I**.
 - International Snow Leopard Day = **23 October**
 - Umbrella species for high-altitude ecosystems
 
@@ -681,15 +681,15 @@ OPERATION OLIVIA (2025 Q143):
 
 ### Vulture Conservation — How It Works
 
-- **Vultures** are **keystone scavengers** — consume carcasses within hours, preventing pathogen spread (anthrax, botulism) and reducing feral dog populations.
-- **Population crash**: India had **40+ million** vultures in 1980s → **99% decline** by 2007 — among the fastest avian declines ever recorded.
-- **Cause identified (2003, BNHS study)**: **Diclofenac** — NSAID administered to cattle — causes **renal failure** in vultures feeding on treated carcasses within days.
-- **Veterinary diclofenac banned in 2006** — meloxicam promoted as safe alternative for cattle treatment.
-- **2015**: ban extended to **multi-dose vials** of diclofenac to close loopholes; **2018**: **ketoprofen** and **aceclofenac** also identified as toxic — phased restrictions.
-- **Action Plan for Vulture Conservation 2006** — four pillars: **ban toxic drugs**, **establish breeding centres**, **create Vulture Safe Zones (VSZ)**, **monitor wild populations**.
-- **Captive breeding centres**: **Pinjore** (Haryana), **Rajabhatkhawa** (West Bengal), **Rani** (Assam), **Bhopal** (MP) — breed white-rumped, long-billed, slender-billed vultures for wild release.
-- **Vulture Safe Zones (VSZ)** — 100 km radius areas where diclofenac use is eliminated and safe alternatives promoted — **VSZ programme** in South Asia.
-- **SAVE programme** (Saving Asia's Vultures from Extinction) — BNHS, RSPB, ZSL consortium coordinating India, Nepal, Bangladesh, Cambodia efforts.
+- **Vultures** are **keystone scavengers**. Consume carcasses within hours, preventing pathogen spread (anthrax, botulism) and reducing feral dog populations.
+- **Population crash**: India had **40+ million** vultures in 1980s to **99% decline** by 2007. Among the fastest avian declines ever recorded.
+- **Cause identified (2003, BNHS study)**: **Diclofenac**. NSAID administered to cattle. Causes **renal failure** in vultures feeding on treated carcasses within days.
+- **Veterinary diclofenac banned in 2006**. Meloxicam promoted as safe alternative for cattle treatment.
+- **2015**: ban extended to **multi-dose vials** of diclofenac to close loopholes. **2018**: **ketoprofen** and **aceclofenac** also identified as toxic. Phased restrictions.
+- **Action Plan for Vulture Conservation 2006**. Four pillars: **ban toxic drugs**, **establish breeding centres**, **create Vulture Safe Zones (VSZ)**, **monitor wild populations**.
+- **Captive breeding centres**: **Pinjore** (Haryana), **Rajabhatkhawa** (West Bengal), **Rani** (Assam), **Bhopal** (MP). Breed white-rumped, long-billed, slender-billed vultures for wild release.
+- **Vulture Safe Zones (VSZ)**. 100 km radius areas where diclofenac use is eliminated and safe alternatives promoted. **VSZ programme** in South Asia.
+- **SAVE programme** (Saving Asia's Vultures from Extinction). BNHS, RSPB, ZSL consortium coordinating India, Nepal, Bangladesh, Cambodia efforts.
 - **Threats beyond drugs**: habitat loss, food shortage (carcass disposal changes), electrocution on power lines, NSAIDs still used illegally.
 
 > **Exam note:** Diclofenac = **veterinary** drug for cattle caused vulture deaths — NOT human medicine directly. Ban year = **2006**.
@@ -710,7 +710,7 @@ OPERATION OLIVIA (2025 Q143):
 - 99% vulture decline by **2007** from 40+ million
 - **Diclofenac** (vet NSAID) = primary cause
 - Vet diclofenac ban = **2006**
-- Action Plan = **2006**; SAVE programme international
+- Action Plan = **2006**. SAVE programme international.
 - Breeding centres: **Pinjore, Rajabhatkhawa, Rani, Bhopal**
 - **Vulture Safe Zones** = diclofenac-free 100 km radius
 - Meloxicam = safe alternative NSAID for cattle

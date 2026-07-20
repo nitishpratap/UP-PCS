@@ -85,16 +85,16 @@ INDIA HOST WED:
 
 ### World Environment Day — How It Works
 
-- **Origin**: **UN General Assembly** designated **5 June** as WED at Stockholm 1972 — UNEP administers — marks birth of modern **global environmental governance** (UNEP created at Stockholm).
-- **Annual theme**: Host nation selects theme — drives campaigns on air pollution, plastic, biodiversity, illegal wildlife trade — MoEFCC leads Indian observance when India is not host.
-- **India as host — 2011**: Theme **"Forests: Nature at Your Service"** — highlighted forest ecosystem services — relevant to UP forest cover debates (ISFR data).
-- **India as host — 2018**: Theme **"Beat Plastic Pollution"** — preceded **PWM Rules 2016** enforcement push and SUP ban discourse — high CA overlap with Topic 9 plastic pollution.
-- **Distinction from Earth Day**: WED = **5 June**, UN/UNEP official day tied to **Stockholm 1972**; Earth Day = **22 April**, separate civic movement origin **1970** — exams swap dates deliberately.
-- **Distinction from World Wildlife Day**: WED = general environment; WWD = **3 March** wildlife/CITES focus — **2025 Q62** lists Wildlife as 22 March = trap (that's **Water Day**).
-- **Mechanism**: Governments, schools, NGOs organise rallies, plantation, waste drives — aligns with **Art 51A(g)** Fundamental Duty and NEAC/MoEFCC awareness programmes (Topic 30).
-- **UP observance**: State pollution control boards, forest department, schools in **Lucknow, Kanpur, Varanasi** run WED programmes — NCAP cities use WED for **air quality awareness**.
-- **Trap — 5 June vs other June days**: **World Ocean Day = 8 June** (NOT syllabus) — do not confuse with WED **5 June**.
-- **Trap — WED vs Wetlands Day**: WED = **5 June**; World Wetlands Day = **2 February** — Topic 18 practice question pairs these deliberately.
+- **Origin**: The UN General Assembly designated **5 June** as World Environment Day at the Stockholm Conference in 1972. UNEP administers the observance, marking the birth of modern global environmental governance when UNEP was created at Stockholm.
+- **Annual theme**: Each year the host nation selects a theme that drives campaigns on air pollution, plastic, biodiversity, and illegal wildlife trade. MoEFCC leads Indian observance when India is not the host.
+- **India as host (2011)**: When India hosted in 2011, the theme was **"Forests: Nature at Your Service"**, highlighting forest ecosystem services relevant to UP forest cover debates (ISFR data).
+- **India as host (2018)**: India hosted again in 2018 with the theme **"Beat Plastic Pollution"**, which preceded the **PWM Rules 2016** enforcement push and SUP ban discourse, with high CA overlap with Topic 9 plastic pollution.
+- **Distinction from Earth Day**: World Environment Day falls on **5 June** as the official UN/UNEP day tied to **Stockholm 1972**, whereas Earth Day is **22 April** with a separate US civic origin in **1970**. Exams deliberately swap these dates.
+- **Distinction from World Wildlife Day**: World Environment Day covers general environmental issues, while World Wildlife Day on **3 March** focuses on wildlife and CITES. **2025 Q62** traps candidates by listing Wildlife Day as 22 March, which is actually **Water Day**.
+- **Mechanism**: Governments, schools, and NGOs organise rallies, plantation drives, and waste collection events. These align with **Art 51A(g)** Fundamental Duty and NEAC/MoEFCC awareness programmes (Topic 30).
+- **UP observance**: State pollution control boards, the forest department, and schools in **Lucknow, Kanpur, and Varanasi** run WED programmes. NCAP cities use the day for **air quality awareness**.
+- **Trap (5 June vs other June days)**: **World Ocean Day falls on 8 June** (not on the syllabus). Do not confuse it with WED on **5 June**.
+- **Trap (WED vs Wetlands Day)**: World Environment Day is **5 June**, while World Wetlands Day is **2 February**. Topic 18 practice questions deliberately pair these as a trap.
 
 > **Exam note:** WED = **5 June** — commemorates **Stockholm Conference opening 1972**. Pair "WED — 2 February" = **FALSE** (that's Wetlands Day).
 
@@ -111,7 +111,7 @@ INDIA HOST WED:
 ### Exam Facts (raata)
 
 - WED = **5 June**
-- Since **1973** — Stockholm **1972**
+- World Environment Day has been observed since **1973**, commemorating the Stockholm Conference of **1972**.
 - Administered by **UNEP**
 - Host country **rotates** yearly
 - India **2011** (Forests), **2018** (Beat Plastic)
@@ -123,7 +123,7 @@ INDIA HOST WED:
 **UPPCS Prelims**
 
 1. **(UPPCS 2025 Q62)** Which pairs NOT correctly matched? World Environment Day — 5 June  
-   → **Pair is CORRECT** — wrong pair is stmt 3 (Wildlife 22 Mar). Answer **B (Only 3)**.
+   → **Pair is CORRECT**. The wrong pair is stmt 3 (Wildlife 22 Mar). Answer **B (Only 3)**.
 
 2. **(UPPCS 2018 — pattern)** World Environment Day is observed on:  
    → **5 June**.
@@ -131,7 +131,7 @@ INDIA HOST WED:
 **UPSC Prelims**
 
 3. **(UPSC 2014 — pattern)** World Environment Day observed on:  
-   → **5 June** — commemorates Stockholm Conference.
+   → **5 June**, commemorating the Stockholm Conference.
 
 4. **(UPSC 2016 — pattern)** World Environment Day is administered by:  
    → **UNEP**.
@@ -159,16 +159,16 @@ INDIA HOST WED:
 
 ### World Wetlands Day — How It Works
 
-- **Date fixed**: **2 February every year** — commemorates **Ramsar, Iran** signing of Convention on Wetlands **1971** — same treaty family as Topic 6 Ramsar sites and Topic 21 wetlands ecology.
-- **"Wise use" concept**: Ramsar promotes **sustainable utilisation** of wetlands — not total ban on human use — fishing, aquaculture, tourism allowed if ecologically sustainable.
-- **India's Ramsar growth**: From **25 sites (2014)** to **75+ sites (2024–25)** — largest network in South Asia — WWD campaigns highlight new designations (**Haiderpur, Ankasamudra, Thane Creek Flamingo Sanctuary**).
-- **UP Ramsar sites (10)**: Include **Haiderpur Wetland, Bakhira Sanctuary, Nawabganj, Parvati Agra, Saman, Sandi, Sarsai Nawar, Sur Sarovar, Upper Ganga, Vijaypalpur** — WWD used for **Ganga-Yamuna wetland awareness** in UP.
-- **Distinction from World Water Day**: Wetlands Day = **2 February** (Ramsar/wetland ecosystems); Water Day = **22 March** (freshwater resources broadly) — different month and scope.
-- **Distinction from World Wildlife Day**: Wetlands = **2 Feb**; Wildlife = **3 March** — consecutive early-year dates — easy to swap in match-the-pair questions.
-- **Trap — 2 February vs 2 March**: Some exams use **"2 March"** as distractor for Wetlands Day — correct = **2 February only**.
-- **Trap — 3 March confusion**: **3 March = World Wildlife Day** — not Wetlands — three different March days exist (3, 21, 22).
-- **Mechanism**: Ramsar Secretariat releases annual theme; MoEFCC/WII/state forest departments organise wetland walks, bird counts, school programmes on **UP Terai wetlands** (Dudhwa complex adjacent sites).
-- **Exam link to geography**: UPPCS tests **which Ramsar site NOT in UP** — WWD context reinforces Ramsar treaty knowledge without repeating full Topic 6 lists inline.
+- **Date fixed**: World Wetlands Day falls on **2 February every year**, commemorating the signing of the Convention on Wetlands at **Ramsar, Iran** in **1971**. It belongs to the same treaty family as Topic 6 Ramsar sites and Topic 21 wetlands ecology.
+- **"Wise use" concept**: Ramsar promotes the **sustainable utilisation** of wetlands rather than a total ban on human use. Fishing, aquaculture, and tourism are allowed when ecologically sustainable.
+- **India's Ramsar growth**: India expanded from **25 Ramsar sites (2014)** to **75+ sites (2024–25)**, the largest network in South Asia. WWD campaigns highlight new designations such as **Haiderpur, Ankasamudra, and Thane Creek Flamingo Sanctuary**.
+- **UP Ramsar sites (10)**: UP's ten sites include **Haiderpur Wetland, Bakhira Sanctuary, Nawabganj, Parvati Agra, Saman, Sandi, Sarsai Nawar, Sur Sarovar, Upper Ganga, and Vijaypalpur**. WWD supports **Ganga-Yamuna wetland awareness** across the state.
+- **Distinction from World Water Day**: Wetlands Day is **2 February** (Ramsar wetland ecosystems), while Water Day is **22 March** (freshwater resources broadly). They differ in both month and scope.
+- **Distinction from World Wildlife Day**: Wetlands Day is **2 February** and Wildlife Day is **3 March**, two consecutive early-year dates that exams easily swap in match-the-pair questions.
+- **Trap (2 February vs 2 March)**: Some exams offer **"2 March"** as a distractor for Wetlands Day. The correct date is **2 February only**.
+- **Trap (3 March confusion)**: **3 March is World Wildlife Day**, not Wetlands Day. Three different March observance days exist: 3, 21, and 22.
+- **Mechanism**: The Ramsar Secretariat releases an annual theme, and MoEFCC, WII, and state forest departments organise wetland walks, bird counts, and school programmes on **UP Terai wetlands** (Dudhwa complex adjacent sites).
+- **Exam link to geography**: UPPCS often tests **which Ramsar site is NOT in UP**. WWD context reinforces Ramsar treaty knowledge without repeating full Topic 6 lists inline.
 
 > **Exam note:** World Wetlands Day = **2 February** — **NOT 2 March, NOT 3 March, NOT 22 March**.
 
@@ -208,7 +208,7 @@ INDIA HOST WED:
    → **2 February**.
 
 4. **(UPSC 2018 — pattern)** Ramsar Convention relates to:  
-   → **Wetland conservation** — WWD date anchor 2 Feb.
+   → **Wetland conservation**. WWD date anchor is 2 Feb.
 
 ### Examples (31.2)
 
@@ -233,15 +233,15 @@ INDIA HOST WED:
 
 ### Earth Day — How It Works
 
-- **Date fixed**: **22 April every year** — independent of UN calendar — predates Stockholm 1972 by two years — symbolises **grassroots environmentalism**.
-- **1970 origin**: Mass teach-ins across US colleges on pollution, oil spills, biodiversity loss — catalysed **US EPA (1970)** and Clean Air Act amendments — model for global observance.
-- **Global spread**: Earth Day Network (Earthday.org) coordinates **190+ countries** — tree planting, clean-ups, climate marches — overlaps thematically with WED but **different date and origin**.
-- **Distinction from World Environment Day**: Earth Day = **22 April**, civic/US origin **1970**; WED = **5 June**, UN/Stockholm **1972/1973** — **most common date trap pair** in UPPCS.
-- **Distinction from World Water Day**: Earth Day = **22 April**; Water Day = **22 March** — same **22 date number** but **different months** — exams test month carefully.
-- **Distinction from Biological Diversity Day**: Earth Day = **22 April**; Biodiversity Day = **22 May** — consecutive month **22nd** pattern — trap in chronology questions.
-- **Themes**: Recent themes focus **climate action, Restore Our Earth, Invest in Our Planet** — aligns with net-zero and green economy discourse (Topic 24 brief overlap).
-- **India observance**: Schools, colleges, NGOs run clean-up drives — **Delhi-NCR, Mumbai, Bengaluru** air pollution awareness events often scheduled around Earth Day + WED season (April–June cluster).
-- **Trap — Earth Day vs Earth Hour**: **Earth Hour = last Saturday of March** (WWF lights-off) — **NOT syllabus** but frequent distractor — Earth Day = **22 April fixed**.
+- **Date fixed**: Earth Day is observed on **22 April every year**, independent of the UN calendar. It predates Stockholm 1972 by two years and symbolises **grassroots environmentalism**.
+- **1970 origin**: Mass teach-ins across US colleges on pollution, oil spills, and biodiversity loss catalysed creation of the **US EPA (1970)** and Clean Air Act amendments, becoming a model for global observance.
+- **Global spread**: Earth Day Network (Earthday.org) coordinates activities in **190+ countries**, including tree planting, clean-ups, and climate marches. It overlaps thematically with WED but has a **different date and origin**.
+- **Distinction from World Environment Day**: Earth Day is **22 April** with a civic US origin in **1970**, while WED is **5 June** with UN/Stockholm origins in **1972/1973**. This is the **most common date trap pair** in UPPCS.
+- **Distinction from World Water Day**: Earth Day is **22 April** and Water Day is **22 March**. Both use the **22 date number** but fall in **different months**, which exams test carefully.
+- **Distinction from Biological Diversity Day**: Earth Day is **22 April** and Biodiversity Day is **22 May**. The consecutive month **22nd** pattern is a common trap in chronology questions.
+- **Themes**: Recent themes focus on **climate action, Restore Our Earth, and Invest in Our Planet**, aligning with net-zero and green economy discourse (Topic 24 brief overlap).
+- **India observance**: Schools, colleges, and NGOs run clean-up drives, and **Delhi-NCR, Mumbai, and Bengaluru** often schedule air pollution awareness events around the Earth Day and WED season (April–June cluster).
+- **Trap (Earth Day vs Earth Hour)**: **Earth Hour is the last Saturday of March** (WWF lights-off event). It is **NOT on the syllabus** but is a frequent distractor, whereas Earth Day is fixed on **22 April**.
 - **UP angle**: Ganga cleaning drives, Kanpur industrial belt pollution awareness campaigns often piggyback on **April Earth Day** media cycle.
 
 > **Exam note:** Earth Day = **22 April** — **NOT 22 March** (Water Day), **NOT 5 June** (WED), **NOT 22 May** (Biodiversity Day).
@@ -273,7 +273,7 @@ INDIA HOST WED:
    → **22 April**.
 
 2. **(UPPCS 2020 — pattern)** Which pair is correctly matched? Earth Day — 22 April  
-   → **Correct pair** — not 5 June or 22 March.
+   → **Correct pair**. It is not 5 June or 22 March.
 
 **UPSC Prelims**
 
@@ -281,7 +281,7 @@ INDIA HOST WED:
    → **22 April**.
 
 4. **(UPSC 2017 — pattern)** Earth Day first celebrated in:  
-   → **1970** — United States.
+   → **1970**, in the United States.
 
 ### Examples (31.3)
 
@@ -306,16 +306,16 @@ INDIA HOST WED:
 
 ### International Day for Biological Diversity — How It Works
 
-- **Date fixed**: **22 May** — marks **Nairobi conference** adopting CBD agreement text **1992** — entered into force **1993** — India's **Biological Diversity Act 2002** implements CBD domestically.
-- **UN proclaimed**: Originally **29 December** (CBD entry into force 1993) — moved to **22 May** in **2000** to avoid holiday season — exams use **22 May** only (post-2000 standard).
-- **Annual themes**: CBD Secretariat sets theme — invasive species, islands, sustainable development, **Kunming-Montreal Global Biodiversity Framework (2022)** — links to post-2020 biodiversity targets.
-- **India observance**: MoEFCC, NBA Chennai, state biodiversity boards, BMCs highlight **People's Biodiversity Registers** on IDB — connects Topic 28 NBA/SBB/BMC institutions.
-- **Distinction from World Wildlife Day**: Biodiversity Day = **22 May** (whole ecosystems, genes, species); Wildlife Day = **3 March** (fauna/CITES focus) — scope and date differ.
-- **Distinction from Earth Day**: Both use **22 date** — IDB = **22 May**; Earth Day = **22 April** — month trap in match-the-pair.
-- **Distinction from World Environment Day**: IDB = biodiversity-specific **22 May**; WED = general environment **5 June** — do not merge.
+- **Date fixed**: International Day for Biological Diversity falls on **22 May**, marking the **Nairobi conference** that adopted the CBD agreement text in **1992**. The convention entered into force in **1993**, and India's **Biological Diversity Act 2002** implements CBD domestically.
+- **UN proclaimed**: The day was originally **29 December** (when CBD entered into force in 1993) but moved to **22 May** in **2000** to avoid the holiday season. Exams use **22 May** only (post-2000 standard).
+- **Annual themes**: The CBD Secretariat sets each year's theme, covering invasive species, islands, sustainable development, and the **Kunming-Montreal Global Biodiversity Framework (2022)**, linking to post-2020 biodiversity targets.
+- **India observance**: MoEFCC, NBA Chennai, state biodiversity boards, and BMCs highlight **People's Biodiversity Registers** on IDB, connecting Topic 28 NBA/SBB/BMC institutions.
+- **Distinction from World Wildlife Day**: Biodiversity Day on **22 May** covers whole ecosystems, genes, and species, while Wildlife Day on **3 March** focuses on fauna and CITES. Scope and date both differ.
+- **Distinction from Earth Day**: Both observances use the **22 date**: IDB is **22 May** and Earth Day is **22 April**. The month difference is a common match-the-pair trap.
+- **Distinction from World Environment Day**: IDB is biodiversity-specific on **22 May**, while WED covers general environmental issues on **5 June**. Do not merge the two.
 - **Mechanism**: School biodiversity registers, hotspot awareness (Western Ghats, Himalaya, NE India), anti-biopiracy messaging under **BDA 2002**.
-- **UP biodiversity angle**: Terai flora-fauna, Gangetic dolphin, vulture decline — IDB campaigns in **UP forest/wildlife circles** — Dudhwa/Katarniaghat awareness.
-- **Trap — 22 May vs 22 March**: **22 March = World Water Day** — three "22" days exist (Mar/Apr/May) — learn all three months.
+- **UP biodiversity angle**: IDB campaigns in **UP forest/wildlife circles** highlight Terai flora-fauna, Gangetic dolphin, and vulture decline, including Dudhwa/Katarniaghat awareness.
+- **Trap (22 May vs 22 March)**: **22 March is World Water Day**. Three observances use the "22" date across Mar/Apr/May, so learn all three months.
 
 > **Exam note:** International Day for Biological Diversity = **22 May** (CBD 1992) — **NOT 22 March** (Water), **NOT 5 June** (WED).
 
@@ -354,7 +354,7 @@ INDIA HOST WED:
    → **22 May**.
 
 4. **(UPSC 2019 — pattern)** CBD was signed at:  
-   → **Rio Earth Summit 1992** — IDB date marks Nairobi text adoption 22 May.
+   → **Rio Earth Summit 1992**. The IDB date marks Nairobi text adoption on 22 May.
 
 ### Examples (31.4)
 
@@ -379,16 +379,16 @@ INDIA HOST WED:
 
 ### International Day of Forests — How It Works
 
-- **Date fixed**: **21 March** — falls between **World Wildlife Day (3 March)** and **World Water Day (22 March)** — **March triple trap** zone for exams.
-- **UN proclamation 2012**: Each year UN Forum on Forests collaborates with FAO on theme — **"Forests and Health," "Forest restoration," "Forests and biodiversity"** — supports **SDG 15 (Life on Land)**.
-- **Global significance**: Forests store **~861 Gt carbon**, provide habitat to **80% terrestrial biodiversity**, supply water to **1/3 of largest cities** — IDF communicates these ecosystem services (Topic 2 crossover).
-- **India observance**: **Van Mahotsav (July)** is separate Indian tradition — IDF = **21 March UN day** — do not confuse the two dates (Topic 30 Van Mahotsav = July).
-- **FSI/ISFR link**: Forest Day campaigns often cite **India forest cover 21.76%** (ISFR 2023) — UP **6.24%** — policy awareness for NFP 1988 **33% target**.
-- **Distinction from World Environment Day 2011 theme**: WED 2011 theme was **"Forests: Nature at Your Service"** when **India hosted WED** — related but **different day** (5 June vs 21 March).
-- **Distinction from World Wildlife Day**: Forests Day = **21 March** (forest ecosystems); Wildlife Day = **3 March** (wild fauna/CITES) — 18 days apart in March.
-- **Mechanism**: Plantation drives, school essay competitions, joint forest management (JFM) awareness — **UP Terai sal forests, Vindhyan scrub** highlighted in state programmes.
-- **Trap — 21 March vs 22 March**: **21 = Forests**; **22 = Water** — consecutive days — UPSC/UPPCS loves adjacent-date traps.
-- **Trap — International Forest Day vs Forest Conservation Week**: India observes **Wildlife Week 2–8 October** — different from IDF **21 March**.
+- **Date fixed**: International Day of Forests falls on **21 March**, between **World Wildlife Day (3 March)** and **World Water Day (22 March)**. This **March triple trap** zone is heavily tested in exams.
+- **UN proclamation 2012**: Each year the UN Forum on Forests collaborates with FAO on themes such as **"Forests and Health," "Forest restoration," and "Forests and biodiversity"**, supporting **SDG 15 (Life on Land)**.
+- **Global significance**: Forests store **~861 Gt carbon**, provide habitat to **80% terrestrial biodiversity**, and supply water to **1/3 of largest cities**. IDF communicates these ecosystem services (Topic 2 crossover).
+- **India observance**: **Van Mahotsav (July)** is a separate Indian tradition, while IDF is the **21 March UN day**. Do not confuse the two dates (Topic 30 Van Mahotsav = July).
+- **FSI/ISFR link**: Forest Day campaigns often cite **India forest cover 21.76%** (ISFR 2023) and UP **6.24%**, raising policy awareness for the NFP 1988 **33% target**.
+- **Distinction from World Environment Day 2011 theme**: When **India hosted WED** in 2011, the theme was **"Forests: Nature at Your Service"**, which is related but a **different day** (5 June vs 21 March).
+- **Distinction from World Wildlife Day**: Forests Day on **21 March** focuses on forest ecosystems, while Wildlife Day on **3 March** focuses on wild fauna and CITES. They fall 18 days apart in March.
+- **Mechanism**: State programmes run plantation drives, school essay competitions, and joint forest management (JFM) awareness, highlighting **UP Terai sal forests and Vindhyan scrub**.
+- **Trap (21 March vs 22 March)**: **21 March is Forests Day** and **22 March is Water Day**, two consecutive days that UPSC/UPPCS frequently uses as adjacent-date traps.
+- **Trap (International Forest Day vs Forest Conservation Week)**: India observes **Wildlife Week 2–8 October**, which is different from IDF on **21 March**.
 
 > **Exam note:** International Day of Forests = **21 March** — **NOT 5 June** (even though WED 2011 theme was forests), **NOT 22 March** (Water Day).
 
@@ -409,7 +409,7 @@ INDIA HOST WED:
 - **NOT** Van Mahotsav (July)
 - **NOT** WED (5 June) despite 2011 forest theme
 - FSI/ISFR data used in campaigns
-- SDG 15 — Life on Land link
+- SDG 15 (Life on Land) is the anchor SDG for International Day of Forests.
 
 ### PYQs — International Day of Forests
 
@@ -427,7 +427,7 @@ INDIA HOST WED:
    → **21 March**.
 
 4. **(UPSC 2020 — pattern)** International Day of Forests promotes:  
-   → **SDG 15 — sustainable forest management**.
+   → **SDG 15**, focused on sustainable forest management.
 
 ### Examples (31.5)
 
@@ -452,16 +452,16 @@ INDIA HOST WED:
 
 ### World Water Day — How It Works
 
-- **Date fixed**: **22 March** — **UN General Assembly December 1992** — first celebrated **1993** — anchors global water governance calendar alongside World Wetlands Day (2 Feb).
-- **2025 Q62 trap context**: Question lists **World Wildlife Day — 22 March** as wrong pair — because **22 March = World Water Day**, not Wildlife (**3 March**) — this is the **core trap** of 2025 environmental days question.
-- **Annual themes**: Recent — **"Groundwater: Making the Invisible Visible"**, **"Water for Peace"**, **"Accelerating Change"** (2023) — links to Jal Jeevan Mission, Namami Gange (Topic 26).
-- **SDG 6 target**: Universal safe drinking water and sanitation — India **Jal Jeevan Mission (2019)** — rural tap connections — UPPCS 2025 Q72 chronology includes JJM.
-- **India observance**: **CGWB, MoJS, CPCB** water quality reports timed around Water Day — **UP Ganga-Yamuna-Gomti** basin awareness in Varanasi, Lucknow, Kanpur.
-- **Distinction from World Wetlands Day**: Water Day = **22 March** (all freshwater); Wetlands Day = **2 February** (Ramsar wetland ecosystems) — complementary but different dates/scopes.
-- **Distinction from World Wildlife Day**: **Wildlife = 3 March**; **Water = 22 March** — **2025 Q62** swaps these deliberately — raata: **22 = Water, 3 = Wildlife**.
-- **Distinction from Earth Day**: **22 March vs 22 April** — same day-number, different month — chronology MCQs test this.
-- **Mechanism**: Walks, river cleaning (Ganga), school water audits, groundwater awareness in **Bundelkhand drought belt** — UP-specific water stress messaging.
-- **Trap — World Water Week**: **World Water Week = August (Stockholm)** — conference, not the March 22 UN day.
+- **Date fixed**: World Water Day falls on **22 March**, declared by the **UN General Assembly in December 1992** and first celebrated in **1993**. It anchors the global water governance calendar alongside World Wetlands Day (2 Feb).
+- **2025 Q62 trap context**: The question lists **World Wildlife Day with 22 March** as a wrong pair because **22 March is World Water Day**, not Wildlife Day (**3 March**). This is the **core trap** of the 2025 environmental days question.
+- **Annual themes**: Recent themes include **"Groundwater: Making the Invisible Visible," "Water for Peace,"** and **"Accelerating Change"** (2023), connecting to Jal Jeevan Mission and Namami Gange (Topic 26).
+- **SDG 6 target**: SDG 6 aims for universal safe drinking water and sanitation. India's **Jal Jeevan Mission (2019)** targets rural tap connections, and UPPCS 2025 Q72 chronology includes JJM.
+- **India observance**: **CGWB, MoJS, and CPCB** release water quality reports timed around Water Day, with **UP Ganga-Yamuna-Gomti** basin awareness in Varanasi, Lucknow, and Kanpur.
+- **Distinction from World Wetlands Day**: Water Day on **22 March** covers all freshwater, while Wetlands Day on **2 February** focuses on Ramsar wetland ecosystems. They are complementary but differ in date and scope.
+- **Distinction from World Wildlife Day**: **Wildlife Day is 3 March** and **Water Day is 22 March**. **2025 Q62** deliberately swaps these. Raata: **22 = Water, 3 = Wildlife**.
+- **Distinction from Earth Day**: **22 March vs 22 April** share the same day-number but fall in different months, which chronology MCQs test.
+- **Mechanism**: Observances include walks, Ganga river cleaning, school water audits, and groundwater awareness in the **Bundelkhand drought belt**, with UP-specific water stress messaging.
+- **Trap (World Water Week)**: **World Water Week is held in August (Stockholm)**. It is a conference, not the March 22 UN observance day.
 
 > **Exam note:** **22 March = World Water Day** — the date wrongly assigned to **World Wildlife Day** in **UPPCS 2025 Q62**.
 
@@ -498,7 +498,7 @@ INDIA HOST WED:
 **UPSC Prelims**
 
 3. **(UPSC 2014 — pattern)** World Water Day:  
-   → **22 March** — SDG 6 focus.
+   → **22 March**, with SDG 6 as the focus.
 
 4. **(UPSC 2017 — pattern)** World Water Day first observed in:  
    → **1993**.
@@ -526,16 +526,16 @@ INDIA HOST WED:
 
 ### World Ozone Day — How It Works
 
-- **Date fixed**: **16 September** — **Montreal Protocol signed this day 1987** — celebrates most successful **multilateral environmental agreement** — phased out **99%+ CFCs**.
-- **UN designation**: Proclaimed by UN General Assembly **1994** — UNEP Ozone Secretariat coordinates — **MoEFCC Ozone Cell** leads India observance.
-- **Science communicated**: Stratospheric **ozone layer** blocks **UV-B** — ODS (CFCs, halons) caused **ozone hole over Antarctica** — Montreal reversed trend — awareness day reinforces compliance (Topic 11).
-- **Distinction from World Environment Day**: Ozone Day = **16 September**; WED = **5 June** — both UN environment days but **different months and treaties**.
-- **Distinction from Montreal vs Kyoto trap**: Ozone Day marks **Montreal Protocol (ozone/ODS)** — **NOT Kyoto Protocol (climate/GHGs)** — treaty-purpose trap from Topic 11/18.
-- **2025 Q62**: Pair **"International Ozone Day — 16 September"** is **CORRECTLY matched** — do not mark it wrong when finding the false pair — false pair is **Wildlife 22 March**.
-- **India's role**: India phased out **CFCs, halons, carbon tetrachloride** per Montreal schedule — **HPMP (HCFC Phase-out Management Plan)** — Ozone Day highlights remaining **HCFC/HFC** transition under Kigali Amendment.
-- **Mechanism**: School seminars on UV protection, ODS-free refrigerants, **"Montreal Protocol: keeping us, our food and vaccines cool"** themes — CPCB/MoEFCC outreach.
-- **Trap — 16 September vs 16 October**: **World Food Day = 16 October** (FAO) — common date-number distractor — Ozone = **16 September only**.
-- **UP angle**: NCAP cities **Kanpur, Lucknow** — Ozone Day linked to **atmospheric science + refrigerant gas compliance** awareness in hot climate zones.
+- **Date fixed**: World Ozone Day falls on **16 September**, the day the **Montreal Protocol was signed in 1987**. It celebrates the most successful **multilateral environmental agreement**, which phased out **99%+ CFCs**.
+- **UN designation**: The UN General Assembly proclaimed the day in **1994**. UNEP Ozone Secretariat coordinates globally, and **MoEFCC Ozone Cell** leads India observance.
+- **Science communicated**: The stratospheric **ozone layer** blocks **UV-B**. ODS (CFCs, halons) caused the **ozone hole over Antarctica**, but Montreal reversed the trend, and the awareness day reinforces compliance (Topic 11).
+- **Distinction from World Environment Day**: Ozone Day is **16 September** and WED is **5 June**. Both are UN environment days but fall in **different months and commemorate different treaties**.
+- **Distinction from Montreal vs Kyoto trap**: Ozone Day marks the **Montreal Protocol (ozone/ODS)**, **NOT the Kyoto Protocol (climate/GHGs)**. Treaty-purpose confusion is a trap from Topic 11/18.
+- **2025 Q62**: The pair **"International Ozone Day with 16 September"** is **CORRECTLY matched**. Do not mark it wrong when finding the false pair. The false pair is **Wildlife 22 March**.
+- **India's role**: India phased out **CFCs, halons, and carbon tetrachloride** per the Montreal schedule through **HPMP (HCFC Phase-out Management Plan)**. Ozone Day highlights the remaining **HCFC/HFC** transition under the Kigali Amendment.
+- **Mechanism**: Observances include school seminars on UV protection, ODS-free refrigerants, and **"Montreal Protocol: keeping us, our food and vaccines cool"** themes through CPCB/MoEFCC outreach.
+- **Trap (16 September vs 16 October)**: **World Food Day is 16 October** (FAO), a common date-number distractor. Ozone Day is **16 September only**.
+- **UP angle**: In NCAP cities **Kanpur and Lucknow**, Ozone Day supports **atmospheric science and refrigerant gas compliance** awareness in hot climate zones.
 
 > **Exam note:** World Ozone Day = **16 September** — Montreal Protocol signing date. **Correct pair in 2025 Q62** — trap is Wildlife date, not Ozone.
 
@@ -556,15 +556,15 @@ INDIA HOST WED:
 - UN proclaimed ozone day **1994**
 - **Correct in 2025 Q62**
 - **NOT** Kyoto/climate treaty day
-- MoEFCC Ozone Cell — India
-- Kigali Amendment — HFC phase-down
+- **MoEFCC Ozone Cell** leads India's Montreal Protocol compliance.
+- The **Kigali Amendment** governs the HFC phase-down under the Montreal Protocol.
 
 ### PYQs — World Ozone Day
 
 **UPPCS Prelims**
 
 1. **(UPPCS 2025 Q62)** International Ozone Day — 16 September  
-   → **Correctly matched** — false pair is stmt 3 only.
+   → **Correctly matched**. The false pair is stmt 3 only.
 
 2. **(UPPCS 2020 — pattern)** World Ozone Day commemorates:  
    → **Montreal Protocol (1987)**.
@@ -575,7 +575,7 @@ INDIA HOST WED:
    → **16 September**.
 
 4. **(UPSC 2018 — pattern)** Montreal Protocol signed on:  
-   → **16 September 1987** — Ozone Day anchor.
+   → **16 September 1987**, the Ozone Day anchor date.
 
 ### Examples (31.7)
 
@@ -600,16 +600,16 @@ INDIA HOST WED:
 
 ### World Wildlife Day — How It Works
 
-- **Date fixed**: **3 March** — **CITES adopted 3 March 1973** at Washington DC — UN General Assembly proclaimed **World Wildlife Day in December 2013** — first celebrated **2014**.
-- **2025 Q62 CORE TRAP**: Question states **"World Wildlife Day — 22 March"** — **FALSE** — **22 March = World Water Day**; **3 March = World Wildlife Day** — Answer **B (Only 3)**.
-- **CITES link**: Regulates **international trade in endangered species** — appendices I/II/III — WWD raises awareness on **poaching, smuggling, habitat loss** — India is CITES party since **1976**.
-- **Themes**: Recent — **"Partnerships for Wildlife Conservation," "Recovering key species," "Forests and Livelihoods"** — ties flagship species (tiger, elephant, rhino) to exams Topic 7.
-- **India observance**: **Wildlife Week 2–8 October** is **separate Indian tradition** — do not confuse with WWD **3 March** — both wildlife-focused but different dates.
-- **Distinction from Biological Diversity Day**: WWD = **3 March** (wildlife/CITES); IDB = **22 May** (full biodiversity/CBD) — scope and date differ.
-- **Distinction from World Wetlands Day**: Wetlands = **2 February**; Wildlife = **3 March** — consecutive early February/March — easy swap.
-- **UP wildlife context**: **Dudhwa tiger reserve, Katarniaghat gharial, Pilibhit tiger reserve** — WWD campaigns highlight **Terai arc** species — negative traps on sanctuaries NOT in UP (Topic 32 preview brief).
-- **Mechanism**: Anti-poaching awareness, school visits to zoos/sanctuaries, **WPA 1972 Schedule** education — MoEFCC/NTCA outreach.
-- **Trap — 22 March assignment**: Any option assigning **22 March to Wildlife** is **wrong** — assign 22 March to **Water Day only**.
+- **Date fixed**: World Wildlife Day falls on **3 March**, when **CITES was adopted on 3 March 1973** at Washington DC. The UN General Assembly proclaimed **World Wildlife Day in December 2013**, and it was first celebrated in **2014**.
+- **2025 Q62 CORE TRAP**: The question states **"World Wildlife Day with 22 March"**, which is **FALSE**. **22 March is World Water Day** and **3 March is World Wildlife Day**. Answer **B (Only 3)**.
+- **CITES link**: CITES regulates **international trade in endangered species** through appendices I/II/III. WWD raises awareness on **poaching, smuggling, and habitat loss**, and India has been a CITES party since **1976**.
+- **Themes**: Recent themes include **"Partnerships for Wildlife Conservation," "Recovering key species," and "Forests and Livelihoods"**, tying flagship species (tiger, elephant, rhino) to exams Topic 7.
+- **India observance**: **Wildlife Week 2–8 October** is a **separate Indian tradition**. Do not confuse it with WWD on **3 March**. Both are wildlife-focused but fall on different dates.
+- **Distinction from Biological Diversity Day**: WWD on **3 March** focuses on wildlife and CITES, while IDB on **22 May** covers full biodiversity under CBD. Scope and date both differ.
+- **Distinction from World Wetlands Day**: Wetlands Day is **2 February** and Wildlife Day is **3 March**, consecutive early February/March dates that are easy to swap.
+- **UP wildlife context**: WWD campaigns highlight **Terai arc** species at **Dudhwa tiger reserve, Katarniaghat gharial, and Pilibhit tiger reserve**, including negative traps on sanctuaries NOT in UP (Topic 32 preview brief).
+- **Mechanism**: Observances include anti-poaching awareness, school visits to zoos/sanctuaries, and **WPA 1972 Schedule** education through MoEFCC/NTCA outreach.
+- **Trap (22 March assignment)**: Any option assigning **22 March to Wildlife** is **wrong**. Assign 22 March to **Water Day only**.
 
 > **Exam note:** UPPCS **2025 Q62** — World Wildlife Day = **3 March (CITES 1973)** — **NOT 22 March**. Memorise: **3 = Wildlife, 22 = Water**.
 
@@ -628,17 +628,17 @@ INDIA HOST WED:
 - WWD = **3 March**
 - CITES adopted **3 March 1973**
 - UN proclaimed **2013**
-- **NOT 22 March** — that's **Water Day** (Q62)
+- **NOT 22 March**. That date belongs to **Water Day** (Q62).
 - Wildlife Week India = **October** (separate)
-- CITES appendices — trade regulation
-- WPA 1972 — Indian wildlife law context
+- **CITES appendices** I/II/III regulate international trade in endangered species.
+- **WPA 1972** provides the Indian wildlife law context for World Wildlife Day.
 
 ### PYQs — World Wildlife Day
 
 **UPPCS Prelims**
 
 1. **(UPPCS 2025 Q62)** Which pairs NOT correctly matched? World Wildlife Day — 22 March  
-   → **(B) Only 3** — WWD = **3 March**.
+   → **(B) Only 3**. WWD = **3 March**.
 
 2. **(UPPCS 2019 — pattern)** World Wildlife Day is observed on:  
    → **3 March**.
@@ -646,7 +646,7 @@ INDIA HOST WED:
 **UPSC Prelims**
 
 3. **(UPSC 2016 — pattern)** World Wildlife Day commemorates:  
-   → **CITES adoption (1973)** — 3 March.
+   → **CITES adoption (1973)** on 3 March.
 
 4. **(UPSC 2020 — pattern)** World Wildlife Day proclaimed by UN in:  
    → **2013**.

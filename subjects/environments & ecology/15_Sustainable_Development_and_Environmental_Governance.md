@@ -171,17 +171,17 @@ KEY TRAPS:
 
 ### Sustainable Development — How It Works
 
-- **Sustainable development (SD)** is not "no development" or "development vs environment" — it argues that **long-term economic and social progress depends on a healthy environment**; short-term growth that depletes resources destroys the foundation of future prosperity.
-- The **Brundtland Commission (WCED — World Commission on Environment and Development)**, chaired by **Gro Harlem Brundtland**, published ***Our Common Future*** in **1987** — this report **popularised** the SD concept globally and led directly to the **Rio Earth Summit 1992**.
-- **Brundtland Report ≠ *The Limits to Growth*** — *Limits to Growth* (1972) was by the **Club of Rome** using computer modelling; Brundtland (1987) gave the **operational SD definition** — UPPCS 2024 Q51 tests this confusion.
-- **Inter-generational equity** = present generation must not consume resources or degrade environment so much that **future generations** cannot meet their needs — core of Brundtland definition; **intra-generational equity** = fair distribution **within** the present generation (rich vs poor, urban vs rural, Global North vs South).
-- **Three pillars / dimensions**: **(1) Economic** — viable growth and employment; **(2) Social** — equity, education, health, gender justice; **(3) Environmental** — ecological integrity, biodiversity, pollution control; some frameworks add **(4) Institutional** — governance, rule of law, participation.
-- **Objectives of SD (complete list)**: satisfy **basic needs** (food, water, shelter, health); achieve **intra-generational equity**; ensure **inter-generational equity**; respect **ecological limits** and carrying capacity; promote **public participation** in decisions; integrate **environment into economic planning**; use **technology** responsibly (IPAT: Impact = Population × Affluence × Technology).
-- **Carrying capacity link** (UPPCS 2025 Q22): SD requires resource extraction **below** regeneration rate and waste generation **within** environmental absorption capacity — violating either = unsustainable even if GDP rises.
-- **Indicators of SD**: **HDI** (health, education, GNI per capita — UNDP); **ecological footprint** (gha per person — demand vs biocapacity); **Genuine Progress Indicator (GPI)**; **231 SDG global indicators**; **NITI Aayog SDG India Index** (state-wise ranking); **Environmental Performance Index (EPI)**; **Earth Overshoot Day** (when humanity exhausts annual biocapacity).
-- **Historical timeline**: **Stockholm 1972** (environment awareness, UNEP created) → **Brundtland 1987** (SD defined) → **Rio 1992** (Agenda 21, UNFCCC, CBD) → **Johannesburg 2002** (Rio+10) → **SDGs adopted 2015** (2030 Agenda) → **Paris Agreement 2015** (climate SDG 13 link).
-- **India's SD approach**: **NITI Aayog** coordinates SDG implementation; **SDG India Index** ranks states; schemes align to SDGs (Jal Jeevan Mission → SDG 6; PM-KISAN → SDG 1/2; Ayushman Bharat → SDG 3); **Net Zero 2070** (climate); **LiFE Mission 2022** (sustainable lifestyles).
-- **Agenda 21 trap**: Non-binding Rio **1992** blueprint for SD in the 21st century — **NOT signed in 1995** (UPPCS 2025 Q51 Reason false); Agenda 21 name = agenda for the **21st century**, not a date.
+- **Sustainable development (SD)** is not "no development" or "development vs environment." It holds that **long-term economic and social progress depends on a healthy environment**, and short-term growth that depletes resources destroys the foundation of future prosperity.
+- The **Brundtland Commission** (WCED, World Commission on Environment and Development), chaired by **Gro Harlem Brundtland**, published ***Our Common Future*** in **1987**. This report **popularised** the SD concept globally and led directly to the **Rio Earth Summit 1992**.
+- The **Brundtland Report** is not ***The Limits to Growth***. *Limits to Growth* (1972) was by the **Club of Rome** using computer modelling, while Brundtland (1987) gave the **operational SD definition**. UPPCS 2024 Q51 tests this confusion.
+- **Inter-generational equity** means the present generation must not consume resources or degrade the environment so much that **future generations** cannot meet their needs. This is the core of the Brundtland definition. **Intra-generational equity** means fair distribution **within** the present generation (rich vs poor, urban vs rural, Global North vs South).
+- The **three pillars / dimensions** are **(1) Economic** (viable growth and employment), **(2) Social** (equity, education, health, gender justice), and **(3) Environmental** (ecological integrity, biodiversity, pollution control). Some frameworks add **(4) Institutional** (governance, rule of law, participation).
+- **Objectives of SD (complete list)** include satisfying **basic needs** (food, water, shelter, health), achieving **intra-generational equity**, ensuring **inter-generational equity**, respecting **ecological limits** and carrying capacity, promoting **public participation** in decisions, integrating **environment into economic planning**, and using **technology** responsibly (IPAT: Impact = Population × Affluence × Technology).
+- The **carrying capacity link** (UPPCS 2025 Q22) requires resource extraction **below** the regeneration rate and waste generation **within** environmental absorption capacity. Violating either makes development unsustainable even if GDP rises.
+- **Indicators of SD** include **HDI** (health, education, GNI per capita, published by UNDP), **ecological footprint** (gha per person, measuring demand vs biocapacity), **Genuine Progress Indicator (GPI)**, **231 SDG global indicators**, **NITI Aayog SDG India Index** (state-wise ranking), **Environmental Performance Index (EPI)**, and **Earth Overshoot Day** (when humanity exhausts annual biocapacity).
+- The **historical timeline** runs from **Stockholm 1972** (environment awareness, UNEP created) to **Brundtland 1987** (SD defined), **Rio 1992** (Agenda 21, UNFCCC, CBD), **Johannesburg 2002** (Rio+10), **SDGs adopted 2015** (2030 Agenda), and **Paris Agreement 2015** (climate SDG 13 link).
+- **India's SD approach** has **NITI Aayog** coordinating SDG implementation and the **SDG India Index** ranking states. Schemes align to SDGs (Jal Jeevan Mission for SDG 6, PM-KISAN for SDG 1/2, Ayushman Bharat for SDG 3). India also pursues **Net Zero 2070** (climate) and the **LiFE Mission 2022** (sustainable lifestyles).
+- The **Agenda 21 trap**: Agenda 21 is a non-binding Rio **1992** blueprint for SD in the 21st century and was **NOT signed in 1995** (UPPCS 2025 Q51 Reason false). The name Agenda 21 means agenda for the **21st century**, not a date.
 
 > **Exam note:** UPPCS 2025 Q51 — Assertion (SD without harming environment/future needs) = **TRUE** (Brundtland). Reason (Agenda 21 signed 1995) = **FALSE** → Answer **C (A true, R false)**. Agenda 21 = **Rio 1992**.
 
@@ -237,23 +237,20 @@ KEY TRAPS:
 - Brundtland ≠ **Limits to Growth (1972)**
 - Three pillars: **economic + social + environmental**
 - Inter-generational + intra-generational **equity**
-- Agenda 21 = **Rio 1992** — NOT 1995
-- Carrying capacity: extraction **below** regeneration; waste within absorption
-- HDI by **UNDP**; NITI Aayog **SDG India Index**
-- Stockholm **1972** → Brundtland **1987** → Rio **1992** → SDGs **2015**
+- Agenda 21 was adopted at **Rio 1992**, not in 1995.
+- Carrying capacity requires extraction **below** regeneration and waste within absorption limits.
+- **HDI** is published by **UNDP**, and **NITI Aayog** publishes the **SDG India Index**.
+- The timeline runs Stockholm **1972**, then Brundtland **1987**, then Rio **1992**, then SDGs **2015**.
 
 ### PYQs — Sustainable Development
 
-1. **(UPPCS Prelims 2025, Q51)** Assertion: SD should take place without harming environment and without compromising needs of future generations. Reason: Agenda 21 signed in 1995.
-   → **C. A true, R false** — Brundtland SD definition. Agenda 21 = **Rio 1992**.
+1. **(UPPCS Prelims 2025, Q51)** Assertion: SD should take place without harming environment and without compromising needs of future generations. Reason: Agenda 21 signed in 1995. **Answer: C (A true, R false).** The Brundtland SD definition makes A true, but Agenda 21 was adopted at **Rio 1992**, not 1995.
 
-2. **(UPPCS Prelims 2024, Q51)** Assertion: SD concept popularised by Brundtland Report. Reason: Brundtland Report is also known as *The Limits to Growth*.
-   → **D. A true, R false** — Brundtland = *Our Common Future* (1987). Limits to Growth = Club of Rome 1972.
+2. **(UPPCS Prelims 2024, Q51)** Assertion: SD concept popularised by Brundtland Report. Reason: Brundtland Report is also known as *The Limits to Growth*. **Answer: D (A true, R false).** Brundtland is *Our Common Future* (1987), while *Limits to Growth* is Club of Rome 1972.
 
-3. **(UPPCS Prelims 2025, Q22 — SD link)** Carrying capacity: waste within absorption capacity = TRUE; extraction above regeneration = FALSE — core SD operational condition.
+3. **(UPPCS Prelims 2025, Q22, SD link)** On carrying capacity, waste within absorption capacity is TRUE and extraction above regeneration is FALSE. This is the core operational condition of SD.
 
-4. **(UPSC 2015 — pattern)** Sustainable Development includes: (a) Only environmental protection (b) Economic + social + environmental balance (c) Only economic growth (d) Stopping all industrialisation
-   → **(b) Three pillars balanced** — SD is integrated, not single-pillar.
+4. **(UPSC 2015, pattern)** Sustainable Development includes: (a) Only environmental protection (b) Economic + social + environmental balance (c) Only economic growth (d) Stopping all industrialisation. **Answer: (b) Three pillars balanced.** SD is integrated, not single-pillar.
 
 ### Examples (15.1)
 
@@ -280,16 +277,16 @@ KEY TRAPS:
 
 ### SDGs & SDGs 2030 — How It Works
 
-- **SDGs were adopted** by all **193 UN member states** on **25 September 2015** at the UN General Assembly in New York — part of the **2030 Agenda for Sustainable Development** — legally non-binding but politically universal commitment.
-- **2030 deadline** means countries must show measurable progress by **2030** on all 17 goals — mid-term review **2023 SDG Summit** showed global progress **off track** post-COVID; India emphasised that with **~18% of world population**, its SDG success = global SDG success (UPPCS 2025 Q120).
-- **SDGs are integrated and indivisible** — cannot achieve Goal 1 (No Poverty) without Goal 4 (Education), Goal 3 (Health), Goal 6 (Water), Goal 13 (Climate) — exams test cross-linking (clean water supports health supports poverty reduction).
-- **Leave No One Behind (LNOB)** = core SDG principle — progress must reach **most vulnerable** groups (women, SC/ST, disabled, remote villages) — aligns with India's **Sabka Saath Sabka Vikas** and UP's SDG localisation in aspirational districts.
-- **India's SDG architecture**: **NITI Aayog** = national coordinator; **Ministry of Statistics** (MoSPI) maintains **National Indicator Framework (NIF)**; **UP Planning Department** prepares state SDG Progress Report (UPPCS 2025 Q111); states compete on **SDG India Index** rankings.
-- **SDG 4 (Quality Education)** — UPPCS 2024 Q98: essential measures = free/compulsory education + school infrastructure + digital transformation — **NOT** expansion of agricultural programmes (stmt 3 trap).
-- **Financing SDGs**: domestic budgets, **ODA**, green bonds, **Global Environment Facility**, private sector CSR — SDG **17** (Partnerships) enables all others.
-- **SDGs replaced MDGs** but expanded scope: MDGs had **8 goals, 21 targets** (mainly developing countries focus); SDGs have **17 goals, 169 targets** — **universal** (apply to all countries including developed).
-- **Voluntary National Reviews (VNRs)** — countries report SDG progress at UN High-Level Political Forum (HLPF) every few years — India presented VNRs showcasing schemes mapped to SDGs.
-- **COVID-19 setback**: SDG progress reversed on Goals 1, 2, 3, 4, 8 in many countries (poverty, hunger, education disruption) — recovery requires integrated SD approach, not siloed sectoral plans.
+- **SDGs were adopted** by all **193 UN member states** on **25 September 2015** at the UN General Assembly in New York as part of the **2030 Agenda for Sustainable Development**. The commitment is legally non-binding but politically universal.
+- The **2030 deadline** means countries must show measurable progress by **2030** on all 17 goals. The mid-term **2023 SDG Summit** showed global progress **off track** post-COVID, and India emphasised that with **~18% of world population**, its SDG success equals global SDG success (UPPCS 2025 Q120).
+- **SDGs are integrated and indivisible** because Goal 1 (No Poverty) cannot be achieved without Goal 4 (Education), Goal 3 (Health), Goal 6 (Water), and Goal 13 (Climate). Exams test this cross-linking (clean water supports health, which supports poverty reduction).
+- **Leave No One Behind (LNOB)** is a core SDG principle requiring progress to reach **most vulnerable** groups (women, SC/ST, disabled, remote villages). It aligns with India's **Sabka Saath Sabka Vikas** and UP's SDG localisation in aspirational districts.
+- **India's SDG architecture** has **NITI Aayog** as national coordinator, the **Ministry of Statistics (MoSPI)** maintaining the **National Indicator Framework (NIF)**, and the **UP Planning Department** preparing the state SDG Progress Report (UPPCS 2025 Q111). States compete on **SDG India Index** rankings.
+- **SDG 4 (Quality Education)** (UPPCS 2024 Q98) requires free/compulsory education, school infrastructure, and digital transformation. Expansion of agricultural programmes is **NOT** an essential measure (stmt 3 trap).
+- **Financing SDGs** comes from domestic budgets, **ODA**, green bonds, the **Global Environment Facility**, and private sector CSR. SDG **17** (Partnerships) enables all others.
+- **SDGs replaced MDGs** but expanded scope. MDGs had **8 goals and 21 targets** with mainly developing countries focus, while SDGs have **17 goals and 169 targets** that are **universal** (apply to all countries including developed).
+- **Voluntary National Reviews (VNRs)** are when countries report SDG progress at the UN High-Level Political Forum (HLPF) every few years. India has presented VNRs showcasing schemes mapped to SDGs.
+- The **COVID-19 setback** reversed SDG progress on Goals 1, 2, 3, 4, and 8 in many countries (poverty, hunger, education disruption). Recovery requires an integrated SD approach, not siloed sectoral plans.
 
 > **Exam note:** UPPCS 2025 Q142 — Goal 1 = **No Poverty** (3); Goal 3 = **Good Health** (4); Goal 4 = **Quality Education** (2); Goal 6 = **Clean Water and Sanitation** (1). Answer **B: 3 4 2 1**.
 
@@ -328,11 +325,11 @@ KEY TRAPS:
 
 ### Exam Facts (raata)
 
-- SDGs adopted **2015**; deadline **2030**
+- SDGs were adopted in **2015** with a **2030** deadline.
 - **17 goals**, **169 targets**, **231 indicators**
 - Replaced **MDGs** (8 goals, 2000–2015)
 - **Leave No One Behind** = core principle
-- India ~**1/6** world population → global SDG success needs India (Q120)
+- India has roughly **1/6** of world population, so global SDG success needs India (Q120).
 - UP **Planning Department** = SDG Progress Report (Q111)
 - NITI Aayog = SDG India Index
 - Goal 6 = **Clean Water and Sanitation**
@@ -340,17 +337,13 @@ KEY TRAPS:
 
 ### PYQs — SDGs
 
-1. **(UPPCS Prelims 2025, Q142)** Match: Goal 1–No Poverty; Goal 3–Good Health; Goal 4–Quality Education; Goal 6–Clean Water.
-   → **B. 3 4 2 1**
+1. **(UPPCS Prelims 2025, Q142)** Match Goal 1 to No Poverty, Goal 3 to Good Health, Goal 4 to Quality Education, Goal 6 to Clean Water. **Answer: B (3 4 2 1).**
 
-2. **(UPPCS Prelims 2025, Q120)** A: India's success critical for global SDG success. R: India = ~1/6 world population.
-   → **D. Both true; R explains A** — Population scale makes India indispensable to global SDG achievement.
+2. **(UPPCS Prelims 2025, Q120)** A: India's success critical for global SDG success. R: India = ~1/6 world population. **Answer: D (Both true, R explains A).** India's population scale makes it indispensable to global SDG achievement.
 
-3. **(UPPCS Prelims 2025, Q111)** UP department for SDG National Indicator Framework Progress Report: Finance / Education / **Planning**?
-   → **B. Only 3 (Planning Department)**
+3. **(UPPCS Prelims 2025, Q111)** UP department for SDG National Indicator Framework Progress Report: Finance / Education / **Planning**? **Answer: B (Only 3, Planning Department).**
 
-4. **(UPPCS Prelims 2024, Q98)** Goal 4 essential measures: free compulsory education + school infrastructure + digital transformation.
-   → **A. 1 and 2** — Agricultural expansion (stmt 3) not core to SDG 4.
+4. **(UPPCS Prelims 2024, Q98)** Goal 4 essential measures: free compulsory education, school infrastructure, and digital transformation. **Answer: A (1 and 2).** Agricultural expansion (stmt 3) is not core to SDG 4.
 
 ### Examples (15.2)
 
@@ -375,16 +368,16 @@ KEY TRAPS:
 
 ### Environmental Governance — How It Works
 
-- **Environmental governance** operates at **multiple scales** — **global** (UNEP, UNFCCC, CBD, SDGs), **national** (MoEFCC, Parliament, CPCB), **state** (SPCBs, forest departments), and **local** (panchayats under PESA/FRA, municipal waste management) — effective SD requires coordination across all levels.
-- **MoEFCC (Ministry of Environment, Forest and Climate Change)** is India's **nodal ministry** — formulates policy, grants forest/environment clearances (with EIA), implements wildlife/forest laws, coordinates climate and SDG actions — renamed from MoEF in **2014** to reflect climate mandate.
-- **Key governance principles** (Rio 1992 + Indian jurisprudence): **Precautionary principle** (act before certainty of harm — *Vellore Citizens' Welfare Forum*); **Polluter Pays principle** (polluter bears cleanup cost); **Public Trust doctrine** (state holds natural resources in trust for public — *M.C. Mehta* cases); **Sustainable Development** as balancing principle in NGT/SC judgments.
-- **Constitutional anchors**: **Article 48A** (DPSP — State shall protect environment); **Article 51A(g)** (Fundamental Duty — citizens protect environment); **Article 21** expanded to include **right to healthy environment** (*Subhash Kumar*, *M.C. Mehta*).
-- **NGT (National Green Tribunal, 2010)** — specialised fast-track environmental court under **NGT Act 2010** — hears EC appeals, pollution cases, forest/wildlife disputes; **headquarters New Delhi** with regional benches; inspired by **Right to Healthy Environment** and Rio principles.
-- **CPCB/SPCBs** — set and enforce **pollution standards** (air, water, noise) under Water Act 1974 and Air Act 1981 — **NOT** the primary EC-granting body (MoEFCC/SEIAA grant EC — Topic 14 overlap).
-- **LiFE Mission (2022)** — governance through **behaviour change** — PM announced at **COP26 Glasgow (2021)**; launched **June 2022**; promotes **75 pro-planet actions** (reduce waste, save energy, sustainable food) — individual-level governance complementing state regulation (UPPCS 2025 Q139).
-- **Agenda 21 and Rio 1992** — blueprint for **local governance** — **Chapter 28** calls for **Local Agenda 21** plans at city/panchayat level — participatory SD planning; adopted **1992**, not 1995.
-- **Public participation mechanisms**: EIA **public hearings**; **RTI Act 2005** for environmental information; **Panchayat (Extension to Scheduled Areas) Act 1996** for tribal area resource governance; **Forest Rights Act 2006** for community forest governance.
-- **Challenges**: overlapping jurisdictions (Centre-State under Concurrent List); weak enforcement capacity at SPCB level; **regulatory capture** in pollution monitoring; slow judicial backlog despite NGT; need for **environmental federalism** coordination.
+- **Environmental governance** operates at **multiple scales**: **global** (UNEP, UNFCCC, CBD, SDGs), **national** (MoEFCC, Parliament, CPCB), **state** (SPCBs, forest departments), and **local** (panchayats under PESA/FRA, municipal waste management). Effective SD requires coordination across all levels.
+- **MoEFCC (Ministry of Environment, Forest and Climate Change)** is India's **nodal ministry**. It formulates policy, grants forest/environment clearances (with EIA), implements wildlife/forest laws, and coordinates climate and SDG actions. It was renamed from MoEF in **2014** to reflect its climate mandate.
+- **Key governance principles** (Rio 1992 + Indian jurisprudence) include the **Precautionary principle** (act before certainty of harm, as in *Vellore Citizens' Welfare Forum*), the **Polluter Pays principle** (polluter bears cleanup cost), the **Public Trust doctrine** (state holds natural resources in trust for public, in *M.C. Mehta* cases), and **Sustainable Development** as a balancing principle in NGT/SC judgments.
+- **Constitutional anchors** include **Article 48A** (DPSP: State shall protect environment), **Article 51A(g)** (Fundamental Duty: citizens protect environment), and **Article 21** expanded to include **right to healthy environment** (*Subhash Kumar*, *M.C. Mehta*).
+- The **NGT (National Green Tribunal, 2010)** is a specialised fast-track environmental court under **NGT Act 2010**. It hears EC appeals, pollution cases, and forest/wildlife disputes from **headquarters New Delhi** with regional benches, inspired by the **Right to Healthy Environment** and Rio principles.
+- **CPCB/SPCBs** set and enforce **pollution standards** (air, water, noise) under Water Act 1974 and Air Act 1981. They are **NOT** the primary EC-granting body (MoEFCC/SEIAA grant EC, Topic 14 overlap).
+- The **LiFE Mission (2022)** promotes governance through **behaviour change**. The PM announced it at **COP26 Glasgow (2021)** and launched it in **June 2022**. It promotes **75 pro-planet actions** (reduce waste, save energy, sustainable food) as individual-level governance complementing state regulation (UPPCS 2025 Q139).
+- **Agenda 21 and Rio 1992** provide a blueprint for **local governance**. **Chapter 28** calls for **Local Agenda 21** plans at city/panchayat level for participatory SD planning. It was adopted in **1992**, not 1995.
+- **Public participation mechanisms** include EIA **public hearings**, the **RTI Act 2005** for environmental information, the **Panchayat (Extension to Scheduled Areas) Act 1996** for tribal area resource governance, and the **Forest Rights Act 2006** for community forest governance.
+- **Challenges** include overlapping jurisdictions (Centre-State under Concurrent List), weak enforcement capacity at SPCB level, **regulatory capture** in pollution monitoring, slow judicial backlog despite NGT, and the need for **environmental federalism** coordination.
 
 > **Exam note:** UPPCS 2025 Q139 — LiFE launched **June 2022** (stmt 1 TRUE); idea at **COP-25 Madrid** (stmt 2 FALSE) — actually **COP26 Glasgow 2021**. Answer **D (Only 1)**.
 
@@ -412,24 +405,21 @@ KEY TRAPS:
 ### Exam Facts (raata)
 
 - MoEFCC = nodal environment ministry (renamed 2014)
-- NGT established **2010** — environmental tribunal
+- NGT was established in **2010** as the environmental tribunal.
 - Rio principles: Precautionary, Polluter Pays, Public Trust
 - Art **48A**, **51A(g)**, expanded Art **21**
 - Agenda 21 = **Rio 1992** local/global SD governance blueprint
 - LiFE = **COP26 2021** idea, launched **2022**
-- CPCB = standards; MoEFCC = policy + Category A EC
+- CPCB sets pollution standards, while MoEFCC handles policy and Category A EC.
 - UP SDG report = **Planning Department**
 
 ### PYQs — Environmental Governance
 
-1. **(UPPCS Prelims 2025, Q139)** LiFE: launched June 2022; proposed at COP-25?
-   → **D. Only 1** — COP-26 Glasgow, not COP-25.
+1. **(UPPCS Prelims 2025, Q139)** LiFE: launched June 2022 and proposed at COP-25? **Answer: D (Only 1).** LiFE was proposed at COP-26 Glasgow, not COP-25.
 
-2. **(UPPCS Prelims 2025, Q111)** UP SDG Progress Report prepared by Planning Department.
-   → **B. Only 3**
+2. **(UPPCS Prelims 2025, Q111)** UP SDG Progress Report is prepared by the Planning Department. **Answer: B (Only 3).**
 
-3. **(UPSC 2018 — pattern)** Precautionary principle in Indian environmental law originates from:
-   → **(a) Rio Declaration 1992** — adopted in *Vellore Citizens' Welfare Forum* SC judgment.
+3. **(UPSC 2018, pattern)** Precautionary principle in Indian environmental law originates from **(a) Rio Declaration 1992**, as adopted in the *Vellore Citizens' Welfare Forum* SC judgment.
 
 ### Examples (15.3)
 
@@ -455,22 +445,22 @@ KEY TRAPS:
 ### Environmental Justice — How It Works
 
 - **Environmental justice (EJ)** addresses **two dimensions**: **distributive justice** (who gets pollution vs who gets clean air/water/green spaces) and **procedural justice** (who participates in decisions affecting their environment).
-- **Distributive injustice pattern**: polluting industries (tanneries, coal plants, waste dumps) disproportionately located in **poor, minority, or politically weak areas** — "environmental racism" in US; in India = Dalit/tribal/urban slum communities near pollution hotspots.
-- **Bhopal Gas Tragedy (December 1984)** — **methyl isocyanate (MIC)** leak from Union Carbide plant — **~3,000+ immediate deaths**, thousands with lifelong disabilities — plant in densely populated **working-class area** with inadequate safety — classic global EJ failure leading to **EPA 1986**.
-- **UP environmental justice hotspots**: **Kanpur-Unnao tannery belt** — Dalit workers + Ganga pollution burden; **Singrauli–Sonbhadra** — tribal/Adivasi communities near coal TPPs and mining; **Ghaziabad/Noida** — migrant labour in industrial pollution; **Agra** — low-income communities near Mathura refinery pollution.
-- **Procedural injustice**: communities excluded from **EIA public hearings** (language, distance, intimidation); **Forest Rights Act** violations when displacement occurs without gram sabha consent; **Right to Information** used by activists to expose environmental harms (Ganga, mining).
-- **Gender dimension**: women bear higher burden — firewood/water collection in degraded environments, indoor air pollution from chulhas, health impacts during pregnancy from toxic exposure — SDG 5 + environmental justice intersection.
-- **Climate justice overlap**: countries that contributed least to GHGs (poor nations, tribal forest communities) face worst climate impacts (drought, floods) — **CBDR principle** in UNFCCC addresses international EJ.
-- **Legal remedies in India**: **NGT** accepts petitions from affected communities; **SC PILs** (*M.C. Mehta*, *Rural Litigation and Entitlement Kendra*); **NGT compensation orders** for pollution victims; **Bhopal settlement** and ongoing remediation debates.
-- **Environmental justice movements**: **Bhopal survivors' organisations**; **Narmada Bachao Andolan** (displacement without fair resettlement); **Plachimada anti-Coca-Cola** (Kerala groundwater depletion); **POSCO anti-steel plant** (Odisha tribal land).
-- **SDG link**: SDG **10** (Reduced Inequalities) + SDG **16** (Justice and Institutions) + SDG **1** (No Poverty) — EJ is cross-cutting requirement for genuine SD.
+- The **distributive injustice pattern** places polluting industries (tanneries, coal plants, waste dumps) disproportionately in **poor, minority, or politically weak areas**. The US calls this "environmental racism," while in India Dalit/tribal/urban slum communities sit near pollution hotspots.
+- The **Bhopal Gas Tragedy (December 1984)** was a **methyl isocyanate (MIC)** leak from the Union Carbide plant causing **~3,000+ immediate deaths** and thousands with lifelong disabilities. The plant stood in a densely populated **working-class area** with inadequate safety, a classic global EJ failure that led to **EPA 1986**.
+- **UP environmental justice hotspots** include the **Kanpur-Unnao tannery belt** (Dalit workers bearing Ganga pollution burden), **Singrauli–Sonbhadra** (tribal/Adivasi communities near coal TPPs and mining), **Ghaziabad/Noida** (migrant labour in industrial pollution), and **Agra** (low-income communities near Mathura refinery pollution).
+- **Procedural injustice** occurs when communities are excluded from **EIA public hearings** (language, distance, intimidation), when **Forest Rights Act** violations happen during displacement without gram sabha consent, and when **Right to Information** is needed by activists to expose environmental harms (Ganga, mining).
+- The **gender dimension** means women bear a higher burden through firewood/water collection in degraded environments, indoor air pollution from chulhas, and health impacts during pregnancy from toxic exposure, intersecting SDG 5 and environmental justice.
+- **Climate justice overlap** shows countries that contributed least to GHGs (poor nations, tribal forest communities) face the worst climate impacts (drought, floods). The **CBDR principle** in UNFCCC addresses international EJ.
+- **Legal remedies in India** include **NGT** accepting petitions from affected communities, **SC PILs** (*M.C. Mehta*, *Rural Litigation and Entitlement Kendra*), **NGT compensation orders** for pollution victims, and the **Bhopal settlement** with ongoing remediation debates.
+- **Environmental justice movements** include **Bhopal survivors' organisations**, **Narmada Bachao Andolan** (displacement without fair resettlement), **Plachimada anti-Coca-Cola** (Kerala groundwater depletion), and **POSCO anti-steel plant** (Odisha tribal land).
+- **SDG link**: SDG **10** (Reduced Inequalities), SDG **16** (Justice and Institutions), and SDG **1** (No Poverty) together show EJ is a cross-cutting requirement for genuine SD.
 
 > **Exam note:** Bhopal (1984) = EJ + governance failure → **EPA 1986** — not Stockholm 1972. Kanpur tanneries on Ganga = UP-specific EJ case for exams.
 
 ### Exam Facts (raata)
 
 - EJ = fair **distribution** + fair **participation**
-- Bhopal **1984** → EPA **1986**
+- Bhopal **1984** led to EPA **1986**.
 - UP hotspots: **Kanpur** tanneries, **Singrauli** coal belt
 - Distributive vs procedural justice both tested
 - FRA/PESA link to tribal EJ
@@ -480,14 +470,11 @@ KEY TRAPS:
 
 ### PYQs — Environmental Justice
 
-1. **(UPSC 2017 — pattern)** Bhopal Gas Tragedy led to enactment of:
-   → **(c) Environment (Protection) Act, 1986** — governance response to EJ catastrophe.
+1. **(UPSC 2017, pattern)** Bhopal Gas Tragedy led to enactment of **(c) Environment (Protection) Act, 1986** as the governance response to the EJ catastrophe.
 
-2. **(UPSC 2019 — pattern)** Environmental justice primarily concerns:
-   → **(b) Equitable distribution of environmental benefits and burdens** — not just conservation of protected areas.
+2. **(UPSC 2019, pattern)** Environmental justice primarily concerns **(b) Equitable distribution of environmental benefits and burdens**, not just conservation of protected areas.
 
-3. **(UPSC 2020 — pattern)** Which is an example of environmental injustice? (a) National Park creation with community consent (b) Toxic dump sited in low-income neighbourhood without consultation (c) Solar park on degraded land (d) Community forest rights under FRA
-   → **(b) Toxic dump in low-income area without consultation**
+3. **(UPSC 2020, pattern)** Which is an example of environmental injustice? **Answer: (b) Toxic dump sited in a low-income neighbourhood without consultation.**
 
 ### Examples (15.4)
 
@@ -514,15 +501,15 @@ KEY TRAPS:
 ### Environmental Ethics — How It Works
 
 - **Environmental ethics** asks: **Does nature have value only when useful to humans?** Or do rivers, forests, species have **intrinsic value** independent of economic use? This shapes pollution law strictness, conservation priorities, and SD policy.
-- **Anthropocentrism** (human-centred) — forests worth protecting because they provide timber, water, tourism — dominant in utilitarian conservation; weak on protecting species with no obvious human use — exam trap: "all Indian conservation is purely anthropocentric" = oversimplified (sacred groves have biocentric elements).
-- **Biocentrism** — every living organism deserves moral consideration — supports **strong wildlife protection** (WPA 1972), **ban on animal cruelty**, **vegan/anti-factory-farming ethics** — Aldo Schweitzer's "reverence for life" influences deep ecology.
-- **Ecocentrism** — values **whole ecosystems** (mountains, rivers, forests as systems) not just individual organisms — supports **biosphere reserves**, **river personhood** (*Ganga and Yamuna declared legal persons by Uttarakhand HC 2017* — later stayed/modified), **deep ecology** (Arne Næss — 1973).
-- **Shallow vs Deep ecology** (Arne Næss): **Shallow** = reform current system (pollution control, efficiency — most SD policy); **Deep** = fundamental change in human-nature relationship (reduce consumption, population, industrialism).
-- **Land Ethic** (Aldo Leopold, 1949 — *A Sand County Almanac*): "A thing is right when it tends to preserve the integrity, stability, and beauty of the biotic community" — foundational ecocentric text — influences modern conservation biology.
-- **Gandhian environmental ethics**: **Trusteeship** — wealthy and communities hold resources for all including future generations; **swadeshi** and **non-violence (ahimsa)** extend to nature; **limiting wants** — "Earth provides enough for everyone's need, not everyone's greed" — directly supports SD and LiFE Mission philosophy.
-- **Indian traditional ethics**: **Sacred groves** (deity-protected forest patches — Western Ghats, NE India); **ahimsa** in Jainism/Buddhism (minimal harm to all life); **panchamahabhuta** (five elements) — reverence for earth, water, fire, air, space in Hindu philosophy.
-- **Ethics in policy**: **Animal welfare Board**; **ban on jallikattu/live export debates**; **GM crop ethics** (Bt cotton accepted; Bt brinjal moratorium on precautionary ethics); **culling vs conservation** of problem wildlife (man-animal conflict ethics).
-- **SD and ethics connection**: SD without ethics becomes **greenwashing** — GDP growth labelled "sustainable" while ecosystems collapse — genuine SD requires **ethical commitment** to inter-generational and intra-generational justice (links §15.1 and §15.4).
+- **Anthropocentrism** (human-centred) treats forests as worth protecting because they provide timber, water, and tourism. It is dominant in utilitarian conservation but weak on protecting species with no obvious human use. The exam trap "all Indian conservation is purely anthropocentric" is oversimplified because sacred groves have biocentric elements.
+- **Biocentrism** holds that every living organism deserves moral consideration. It supports **strong wildlife protection** (WPA 1972), a **ban on animal cruelty**, and **vegan/anti-factory-farming ethics**. Aldo Schweitzer's "reverence for life" influences deep ecology.
+- **Ecocentrism** values **whole ecosystems** (mountains, rivers, forests as systems) rather than individual organisms alone. It supports **biosphere reserves**, **river personhood** (*Ganga and Yamuna declared legal persons by Uttarakhand HC 2017*, later stayed/modified), and **deep ecology** (Arne Næss, 1973).
+- **Shallow vs Deep ecology** (Arne Næss): **Shallow** ecology reforms the current system (pollution control, efficiency, most SD policy). **Deep** ecology calls for fundamental change in the human-nature relationship (reduce consumption, population, industrialism).
+- The **Land Ethic** (Aldo Leopold, 1949, *A Sand County Almanac*) states: "A thing is right when it tends to preserve the integrity, stability, and beauty of the biotic community." It is a foundational ecocentric text that influences modern conservation biology.
+- **Gandhian environmental ethics** include **Trusteeship** (wealthy and communities hold resources for all including future generations), **swadeshi** and **non-violence (ahimsa)** extended to nature, and **limiting wants** ("Earth provides enough for everyone's need, not everyone's greed"), directly supporting SD and LiFE Mission philosophy.
+- **Indian traditional ethics** include **Sacred groves** (deity-protected forest patches in Western Ghats and NE India), **ahimsa** in Jainism/Buddhism (minimal harm to all life), and **panchamahabhuta** (five elements) expressing reverence for earth, water, fire, air, and space in Hindu philosophy.
+- **Ethics in policy** touches the **Animal welfare Board**, **ban on jallikattu/live export debates**, **GM crop ethics** (Bt cotton accepted, Bt brinjal moratorium on precautionary ethics), and **culling vs conservation** of problem wildlife (man-animal conflict ethics).
+- **SD and ethics connection**: SD without ethics becomes **greenwashing** when GDP growth is labelled "sustainable" while ecosystems collapse. Genuine SD requires **ethical commitment** to inter-generational and intra-generational justice (links §15.1 and §15.4).
 
 > **Exam note:** Match-the-following trap — **Anthropocentrism** = human utility; **Biocentrism** = all life; **Ecocentrism** = whole ecosystem. **Gandhi** = trusteeship (not anthropocentric exploitation).
 
@@ -543,19 +530,16 @@ KEY TRAPS:
 - Leopold = **Land Ethic** (1949)
 - Arne Næss = **Deep ecology** (1973)
 - Gandhi = **trusteeship** + limit wants
-- Shallow ecology = reform; Deep = transform relationship
+- Shallow ecology reforms the system, while Deep ecology transforms the human-nature relationship.
 - Sacred groves = traditional Indian biocentric practice
 
 ### PYQs — Environmental Ethics
 
-1. **(UPSC 2016 — pattern)** Who proposed the Land Ethic?
-   → **(c) Aldo Leopold** — *A Sand County Almanac* (1949).
+1. **(UPSC 2016, pattern)** Who proposed the Land Ethic? **Answer: (c) Aldo Leopold** in *A Sand County Almanac* (1949).
 
-2. **(UPSC 2018 — pattern)** Deep ecology is associated with:
-   → **(a) Arne Næss** — contrasts with shallow reformist environmentalism.
+2. **(UPSC 2018, pattern)** Deep ecology is associated with **(a) Arne Næss**, who contrasts with shallow reformist environmentalism.
 
-3. **(UPSC 2014 — pattern)** Gandhian trusteeship implies:
-   → **(b) Resources held in trust for society including future generations** — supports SD ethics.
+3. **(UPSC 2014, pattern)** Gandhian trusteeship implies **(b) Resources held in trust for society including future generations**, supporting SD ethics.
 
 ### Examples (15.5)
 
@@ -580,16 +564,16 @@ KEY TRAPS:
 
 ### Green Economy — How It Works
 
-- **Green economy** aims to **decouple economic growth from environmental degradation** — GDP can rise while carbon emissions, water use, and waste **fall** through cleaner technology and better resource efficiency — not "stop growth" but "change how we grow."
-- **UNEP Green Economy Report (2011)** — *Towards a Green Economy* — argued investing **2% of global GDP** in green sectors (forestry, fisheries, renewable energy, agriculture) would grow GDP faster than business-as-usual while reducing ecological footprint.
-- **Three pillars alignment**: green economy operationalises SD's **economic + environmental + social** integration — **green jobs** (solar installers, EV mechanics, waste recyclers) provide **social** benefit while reducing **environmental** impact.
-- **Key sectors in India's green economy**: **renewable energy** (solar — Bhadla Rajasthan; wind — Tamil Nadu; target **500 GW non-fossil by 2030**); **green hydrogen** (**National Green Hydrogen Mission 2023** — 5 MMT production target by 2030); **electric mobility** (FAME-II subsidies); **energy efficiency** (UJALA LED bulbs, PAT scheme for industries).
-- **Green finance**: **green bonds** (SEBI green bond guidelines); **climate finance** from Global Environment Facility; **Priority Sector Lending** for renewables; **Sovereign Green Bonds** (2022-23 India issuance); **SDG bonds**.
-- **Green jobs** — employment in renewable energy, pollution control, organic farming, eco-tourism, forest restoration — ILO estimates green transition creates more jobs than fossil sector loses if managed with **just transition** policies.
-- **Green GDP debate**: conventional GDP counts pollution cleanup as **positive economic activity** — green accounting subtracts environmental damage (Natural Resource Accounting — MoSPI pilot **ENVIS** accounts).
-- **Green economy vs greenwashing trap**: labelling any project "green" without measurable environmental benefit — exams test whether student knows green economy requires **measurable decoupling** (lower carbon intensity, higher renewable share).
-- **International frameworks**: **Paris Agreement** (NDCs for low-carbon growth); **International Solar Alliance** (India-France initiative); **Global Methane Pledge**; **UN Decade on Ecosystem Restoration 2021–2030**.
-- **UP green economy elements**: **Bundelkhand solar parks**; **Noida-Greater Noida EV manufacturing**; **Ganga bioremediation** enterprises; **Kanpur leather sector** needs green technology upgrade (chrome recovery, common effluent plants).
+- The **green economy** aims to **decouple economic growth from environmental degradation**. GDP can rise while carbon emissions, water use, and waste **fall** through cleaner technology and better resource efficiency. The goal is not to stop growth but to change how we grow.
+- The **UNEP Green Economy Report (2011)**, *Towards a Green Economy*, argued that investing **2% of global GDP** in green sectors (forestry, fisheries, renewable energy, agriculture) would grow GDP faster than business-as-usual while reducing ecological footprint.
+- **Three pillars alignment**: the green economy operationalises SD's **economic, environmental, and social** integration. **Green jobs** (solar installers, EV mechanics, waste recyclers) provide **social** benefit while reducing **environmental** impact.
+- **Key sectors in India's green economy** include **renewable energy** (solar in Bhadla Rajasthan, wind in Tamil Nadu, target **500 GW non-fossil by 2030**), **green hydrogen** (**National Green Hydrogen Mission 2023** with 5 MMT production target by 2030), **electric mobility** (FAME-II subsidies), and **energy efficiency** (UJALA LED bulbs, PAT scheme for industries).
+- **Green finance** includes **green bonds** (SEBI green bond guidelines), **climate finance** from Global Environment Facility, **Priority Sector Lending** for renewables, **Sovereign Green Bonds** (2022-23 India issuance), and **SDG bonds**.
+- **Green jobs** are employment in renewable energy, pollution control, organic farming, eco-tourism, and forest restoration. ILO estimates the green transition creates more jobs than the fossil sector loses if managed with **just transition** policies.
+- The **Green GDP debate** notes that conventional GDP counts pollution cleanup as **positive economic activity**, while green accounting subtracts environmental damage (Natural Resource Accounting, MoSPI pilot **ENVIS** accounts).
+- The **green economy vs greenwashing trap** warns against labelling any project "green" without measurable environmental benefit. Exams test whether students know green economy requires **measurable decoupling** (lower carbon intensity, higher renewable share).
+- **International frameworks** include the **Paris Agreement** (NDCs for low-carbon growth), **International Solar Alliance** (India-France initiative), **Global Methane Pledge**, and **UN Decade on Ecosystem Restoration 2021–2030**.
+- **UP green economy elements** include **Bundelkhand solar parks**, **Noida-Greater Noida EV manufacturing**, **Ganga bioremediation** enterprises, and **Kanpur leather sector** needing green technology upgrade (chrome recovery, common effluent plants).
 
 > **Exam note:** Green Economy (UNEP 2011) ≠ Circular Economy — green = **low-carbon, resource-efficient growth overall**; circular = **specific waste/material loop design**. Overlap exists but concepts differ.
 
@@ -627,14 +611,11 @@ KEY TRAPS:
 
 ### PYQs — Green Economy
 
-1. **(UPSC 2019 — pattern)** Green economy as defined by UNEP emphasises:
-   → **(a) Improved well-being and social equity while reducing environmental risks** — all three dimensions.
+1. **(UPSC 2019, pattern)** Green economy as defined by UNEP emphasises **(a) Improved well-being and social equity while reducing environmental risks**, covering all three dimensions.
 
-2. **(UPSC 2021 — pattern)** National Green Hydrogen Mission aims to:
-   → **(b) Make India a global hub for production, usage, and export of green hydrogen**
+2. **(UPSC 2021, pattern)** National Green Hydrogen Mission aims to **(b) Make India a global hub for production, usage, and export of green hydrogen**.
 
-3. **(UPSC 2017 — pattern)** Which is a renewable energy source aligned with green economy? (a) Coal gasification (b) Solar PV (c) Diesel generators (d) Lignite mining
-   → **(b) Solar PV**
+3. **(UPSC 2017, pattern)** Which is a renewable energy source aligned with green economy? **Answer: (b) Solar PV.**
 
 ### Examples (15.6)
 
@@ -659,16 +640,16 @@ KEY TRAPS:
 
 ### Circular Economy — How It Works
 
-- **Linear economy** model: **extract resources → manufacture products → use → dispose as waste** — creates pollution, resource depletion, and landfill pressure — India's **1750 MT/year solid waste** generation mostly handled linearly.
-- **Circular economy** closes the loop: **design for durability, repair, reuse, remanufacturing, recycling, composting** — waste from one process becomes **input** for another — mimics natural cycles where there is no "waste."
-- **3R principle** (foundation): **Reduce** (use less material/energy), **Reuse** (second-life products), **Recycle** (process materials into new products) — extended to **9R**: Refuse, Rethink, Reduce, Reuse, Repair, Refurbish, Remanufacture, Repurpose, Recycle, Recover.
-- **Extended Producer Responsibility (EPR)**: manufacturer/importer **must collect and recycle** end-of-life products — **Plastic Waste Management Rules 2016** (amended 2022), **E-Waste Management Rules 2022**, **Battery Waste Rules 2022**, **Tyre EPR 2022** — India operationalising circular economy through regulation.
-- **Industrial symbiosis**: one industry's waste = another's raw material — **Kalundborg (Denmark)** classic example; India pilots in industrial clusters (cement kilns using industrial waste as fuel).
-- **Circular vs Green economy**: **Circular** focuses specifically on **material flows and waste elimination**; **Green economy** is broader — includes renewable energy, biodiversity, social equity, low-carbon growth — circular economy is a **component** of green economy (SDG 12 — Responsible Consumption and Production).
-- **Biological vs technical cycles** (Ellen MacArthur): **Biological nutrients** (food, cotton) → composting/biodegradation back to soil; **Technical nutrients** (metals, plastics) → designed for continuous recirculation without downcycling.
-- **India challenges**: informal waste sector (kabadiwalas, ragpickers) — **formalising and protecting** waste pickers is social justice + circular economy intersection; low recycling rates for plastic (~60% theoretically recyclable, much less actually recycled); **single-use plastic ban 2022** (identified SUP items).
-- **UP circular economy**: **Kanpur leather** — chrome recovery from tannery waste; **Agra footwear** — leather scrap recycling; **Lucknow/Kanpur municipal** waste — biomethanation plants; **Noida electronics** — e-waste recycling units under EPR.
-- **SDG 12** direct link: "Ensure sustainable consumption and production patterns" — circular economy is primary operational strategy for SDG 12; LiFE Mission promotes individual **reduce-reuse** behaviours.
+- The **linear economy** model follows **extract resources, manufacture products, use, and dispose as waste**. This creates pollution, resource depletion, and landfill pressure. India's **1750 MT/year solid waste** generation is mostly handled linearly.
+- The **circular economy** closes the loop by **designing for durability, repair, reuse, remanufacturing, recycling, and composting**. Waste from one process becomes **input** for another, mimicking natural cycles where there is no "waste."
+- The **3R principle** (foundation) means **Reduce** (use less material/energy), **Reuse** (second-life products), and **Recycle** (process materials into new products). This extends to **9R**: Refuse, Rethink, Reduce, Reuse, Repair, Refurbish, Remanufacture, Repurpose, Recycle, Recover.
+- **Extended Producer Responsibility (EPR)** requires manufacturer/importer to **collect and recycle** end-of-life products under **Plastic Waste Management Rules 2016** (amended 2022), **E-Waste Management Rules 2022**, **Battery Waste Rules 2022**, and **Tyre EPR 2022**. India operationalises circular economy through this regulation.
+- **Industrial symbiosis** means one industry's waste becomes another's raw material. **Kalundborg (Denmark)** is the classic example, and India pilots this in industrial clusters (cement kilns using industrial waste as fuel).
+- **Circular vs Green economy**: **Circular** focuses specifically on **material flows and waste elimination**, while **Green economy** is broader and includes renewable energy, biodiversity, social equity, and low-carbon growth. Circular economy is a **component** of green economy (SDG 12, Responsible Consumption and Production).
+- **Biological vs technical cycles** (Ellen MacArthur): **Biological nutrients** (food, cotton) return to soil through composting/biodegradation, while **Technical nutrients** (metals, plastics) are designed for continuous recirculation without downcycling.
+- **India challenges** include the informal waste sector (kabadiwalas, ragpickers) where **formalising and protecting** waste pickers is a social justice and circular economy intersection, low actual plastic recycling rates, and the **single-use plastic ban 2022** (identified SUP items).
+- **UP circular economy** examples include **Kanpur leather** (chrome recovery from tannery waste), **Agra footwear** (leather scrap recycling), **Lucknow/Kanpur municipal** waste (biomethanation plants), and **Noida electronics** (e-waste recycling units under EPR).
+- **SDG 12** ("Ensure sustainable consumption and production patterns") makes circular economy the primary operational strategy for SDG 12, and LiFE Mission promotes individual **reduce-reuse** behaviours.
 
 > **Exam note:** Statement "circular economy and green economy are identical" = **FALSE**. Circular = material loop design; Green = broader low-carbon inclusive growth. Circular ⊂ Green.
 
@@ -708,14 +689,11 @@ KEY TRAPS:
 
 ### PYQs — Circular Economy
 
-1. **(UPSC 2020 — pattern)** Extended Producer Responsibility (EPR) is associated with:
-   → **(a) Circular economy and waste management** — producers responsible for product lifecycle.
+1. **(UPSC 2020, pattern)** Extended Producer Responsibility (EPR) is associated with **(a) Circular economy and waste management**, making producers responsible for the product lifecycle.
 
-2. **(UPSC 2019 — pattern)** Which SDG most directly relates to circular economy?
-   → **(c) SDG 12** — Responsible Consumption and Production.
+2. **(UPSC 2019, pattern)** Which SDG most directly relates to circular economy? **Answer: (c) SDG 12**, Responsible Consumption and Production.
 
-3. **(UPSC 2022 — pattern)** Circular economy differs from linear economy because:
-   → **(b) Materials are kept in use for as long as possible through reuse and recycling**
+3. **(UPSC 2022, pattern)** Circular economy differs from linear economy because **(b) Materials are kept in use for as long as possible through reuse and recycling**.
 
 ### Examples (15.7)
 
@@ -1080,9 +1058,9 @@ Options: A. Unlimited consumption  B. Trusteeship of resources  C. Anthropocentr
 
 **Q20.** Which of the following pairs is/are NOT correctly matched?
 
-1. NITI Aayog — SDG India Index
-2. CPCB — Grants Environmental Clearance for all projects
-3. NGT — Environmental tribunal (2010)
+1. NITI Aayog publishes the SDG India Index.
+2. CPCB grants Environmental Clearance for all projects.
+3. NGT is the Environmental tribunal established in 2010.
 
 Select the correct answer from the code given below:
 

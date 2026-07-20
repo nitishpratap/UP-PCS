@@ -154,16 +154,16 @@ KEY TRAPS:
 
 ### EPA 1986 — How It Works
 
-- **EPA was enacted in November 1986** — direct legislative response to **Bhopal Gas Tragedy (December 1984)** and gaps exposed in fragmented pollution laws — consolidates Central authority over environment protection.
-- **Section 3** empowers Central Government to take **all necessary measures** — appoint officers, set standards, restrict areas, inspect premises, issue directions — this is the **legal parent** of EIA Notification (1994, replaced 2006), CRZ notifications, ESZ declarations, and plastic/e-waste rules.
-- **Section 6** enables Central Government to make **rules** for environmental protection — most subordinate legislation (EIA, noise rules, hazardous chemicals) flows from here.
-- **EPA defines "environmental pollutant" and "hazardous substance"** — creates uniform penalty framework: up to **5 years imprisonment** and **₹1 lakh fine** (extendable to **7 years** on continued violation after conviction).
-- **EPA does NOT replace Water Act 1974 or Air Act 1981** — it **supplements** them as umbrella law; water/air pollution still primarily enforced under respective Acts via CPCB/SPCB.
-- **EIA Notification** issued under **EPA Section 3(2)(v)** — mandates **Environmental Clearance** for listed projects — legally distinct from SPCB **consent** under Water/Air Acts (project may need **both**).
-- **Coastal Regulation Zone (CRZ)** and **Eco-Sensitive Zone (ESZ)** notifications issued under EPA — regulate coastal development and buffer zones around protected areas.
-- **EPA + Constitution**: SC read **right to healthy environment** into **Article 21** using EPA framework — *M.C. Mehta*, *Vellore Citizens' Welfare Forum* (precautionary + polluter pays principles).
-- **MoEFCC** is nodal ministry for EPA implementation — State Governments implement through SPCBs and state departments under EPA directions.
-- **Trap**: EPA enacted **1986**, not 1972 (Stockholm/WPA year) and not 1984 (Bhopal year itself — law came **after** disaster).
+- **EPA was enacted in November 1986**. Direct legislative response to **Bhopal Gas Tragedy (December 1984)** and gaps exposed in fragmented pollution laws. Consolidates Central authority over environment protection.
+- **Section 3** empowers the Central Government to take **all necessary measures**, including appointing officers, setting standards, restricting areas, inspecting premises, and issuing directions. This is the **legal parent** of EIA Notification (1994, replaced 2006), CRZ notifications, ESZ declarations, and plastic/e-waste rules.
+- **Section 6** enables Central Government to make **rules** for environmental protection. Most subordinate legislation (EIA, noise rules, hazardous chemicals) flows from here.
+- **EPA defines "environmental pollutant" and "hazardous substance"**. Creates uniform penalty framework: up to **5 years imprisonment** and **₹1 lakh fine** (extendable to **7 years** on continued violation after conviction).
+- **EPA does NOT replace Water Act 1974 or Air Act 1981**. It **supplements** them as umbrella law. Water/air pollution still primarily enforced under respective Acts via CPCB/SPCB.
+- **EIA Notification** issued under **EPA Section 3(2)(v)**. Mandates **Environmental Clearance** for listed projects. Legally distinct from SPCB **consent** under Water/Air Acts (project may need **both**).
+- **Coastal Regulation Zone (CRZ)** and **Eco-Sensitive Zone (ESZ)** notifications issued under EPA. Regulate coastal development and buffer zones around protected areas.
+- **EPA + Constitution**: SC read **right to healthy environment** into **Article 21** using EPA framework. *M.C. Mehta*, *Vellore Citizens' Welfare Forum* (precautionary + polluter pays principles).
+- **MoEFCC** is nodal ministry for EPA implementation. State Governments implement through SPCBs and state departments under EPA directions.
+- **Trap**: EPA was enacted in **1986**, not 1972 (Stockholm/WPA year) and not in 1984 itself (the law came **after** the Bhopal disaster).
 
 > **Exam note:** EIA Notification is under **EPA 1986**, NOT Water Act 1974. UPPCS Act-year matching: pair "EPA — 1974" = **FALSE**.
 
@@ -179,13 +179,13 @@ KEY TRAPS:
 
 ### Exam Facts (raata)
 
-- EPA = **1986** — post-Bhopal **1984**
-- **Umbrella law** — Section 3 powers
+- EPA = **1986**. Post-Bhopal **1984**.
+- **Umbrella law**. Section 3 powers.
 - EIA Notification under **EPA**, not Water Act
 - MoEFCC nodal ministry
 - Penalties up to **5 years** + fine
 - CRZ and ESZ under EPA
-- Supplements Water/Air Acts — does not replace them
+- Supplements Water/Air Acts. Does not replace them.
 
 ### PYQs — EPA 1986
 
@@ -222,9 +222,9 @@ KEY TRAPS:
 
 ### WPA 1972 — How It Works
 
-- **WPA enacted in 1972** — enacted **before/during** Stockholm Conference year — India's proactive domestic wildlife law independent of international treaty timeline.
-- **Unified wildlife law** — replaced patchwork of state hunting laws — Central law under **Concurrent List** (wildlife protection) — states implement through **Chief Wildlife Warden (CWLW)**.
-- **Six Schedules** classify species by protection level — complete list for exams:
+- **WPA enacted in 1972**. Enacted **before/during** Stockholm Conference year. India's proactive domestic wildlife law independent of international treaty timeline.
+- **Unified wildlife law**. Replaced patchwork of state hunting laws. Central law under **Concurrent List** (wildlife protection). States implement through **Chief Wildlife Warden (CWLW)**.
+- **Six Schedules** classify species by protection level. Complete list for exams:
 
 | Schedule | Content | Protection level |
 |----------|---------|------------------|
@@ -235,12 +235,12 @@ KEY TRAPS:
 | **Schedule V** | **Vermin** — common species declared pest | **Can be hunted** — opposite trap of Schedule I |
 | **Schedule VI** | **Protected plants** (specified botanical species) | Plant protection — hunting/collection restricted |
 
-- **Hunting defined broadly** — capturing, killing, poisoning, trapping — **banned** for Schedule I–IV species with **very narrow exceptions** (scientific research, public safety with CWLW permission).
-- **Protected area types under WPA**: **Wildlife Sanctuary** (Sec 18 — moderate restrictions), **National Park** (Sec 35 — **strictest** — no grazing/exploitation), **Conservation Reserve** (Sec 36A, 2002 amendment), **Community Reserve** (Sec 36B), **Tiger Reserve** (Sec 38V, 2006 amendment — core-buffer).
-- **National Board for Wildlife (NBWL)** — chaired by PM — policy body for wildlife conservation under WPA.
-- **Major amendments**: 1986 (rationalized penalties), 1991, 2002 (Conservation/Community Reserves), **2006** (Tiger Reserves + **NTCA**), 2013, 2022 — exam focus on **2006 tiger provisions**.
-- **Offences and penalties**: Schedule I species offences → imprisonment **3–7 years** + fine; subsequent offences harsher — ** cognizable and non-bailable** for serious wildlife crimes.
-- **WPA does NOT cover forest land diversion** (FCA 1980) or **community forest rights** (FRA 2006) — wildlife-focused only.
+- **Hunting defined broadly**. Capturing, killing, poisoning, trapping. **Banned** for Schedule I–IV species with **very narrow exceptions** (scientific research, public safety with CWLW permission).
+- **Protected area types under WPA** include **Wildlife Sanctuary** (Sec 18, moderate restrictions), **National Park** (Sec 35, **strictest**, no grazing/exploitation), **Conservation Reserve** (Sec 36A, 2002 amendment), **Community Reserve** (Sec 36B), and **Tiger Reserve** (Sec 38V, 2006 amendment, core-buffer).
+- **National Board for Wildlife (NBWL)**. Chaired by PM. Policy body for wildlife conservation under WPA.
+- **Major amendments**: 1986 (rationalized penalties), 1991, 2002 (Conservation/Community Reserves), **2006** (Tiger Reserves + **NTCA**), 2013, 2022. Exam focus on **2006 tiger provisions**.
+- **Offences and penalties**: Schedule I species offences. Imprisonment **3–7 years** + fine. Subsequent offences harsher. ** cognizable and non-bailable** for serious wildlife crimes.
+- **WPA does NOT cover forest land diversion** (FCA 1980) or **community forest rights** (FRA 2006). Wildlife-focused only.
 
 > **Exam note:** Schedule **V = vermin** (hunting allowed) — trap: "Schedule V species have highest protection" = **FALSE**. Schedule **I** = highest protection.
 
@@ -257,7 +257,7 @@ KEY TRAPS:
 ### Exam Facts (raata)
 
 - WPA = **1972**
-- **6 Schedules** — I to IV protected; **V vermin**; **VI plants**
+- **6 Schedules**. I to IV protected. **V vermin**. **VI plants**.
 - Schedule **I** = highest penalty
 - **Hunting ban** for Schedules I–IV
 - NP Sec **35** = strictest PA
@@ -299,16 +299,16 @@ KEY TRAPS:
 
 ### FCA 1980 — How It Works
 
-- **FCA enacted in 1980** on recommendations of **Tiwari Committee** — responded to rapid deforestation by states for agriculture, mining, and industrial projects in 1970s.
-- **Section 2** — **No State Government** shall authorize use of forest land for **non-forest purpose** except with **prior Central Government approval** — shifts critical veto power to Centre/MoEFCC.
-- **Non-forest purposes** include: mining, dams, highways, industries, urban expansion on forest land — **afforestation/reforestation on forest land** is NOT non-forest purpose.
-- **Compensatory afforestation** — when forest land diverted, equivalent area must be afforested + **Net Present Value (NPV)** of forest ecosystem services paid — funds go to **CAMPA** (Compensatory Afforestation Fund).
-- **Godavarman case (1996)** — SC held **"forest"** includes all areas meeting **dictionary meaning** of forest — not only legally notified forest — massively expanded FCA reach.
-- **FCA vs IFA 1927**: Indian Forest Act 1927 = **colonial revenue-focused** forest management; FCA 1980 = **conservation of forest land area** against diversion — different purposes.
-- **FCA vs FRA 2006 trap**: FCA = **restricts diversion** of forest land; FRA = **recognizes rights** of forest dwellers — complementary but **different legal objectives** — not the same Act.
-- **FCA vs WPA 1972**: FCA controls **land use change**; WPA protects **wildlife** within forests — project may need **both** forest clearance (FCA) and EC (EPA).
-- **Penalties**: Violation of FCA = **criminal offence** — imprisonment and fine — strict liability for unauthorized diversion.
-- **Amendments**: 1988, 1992, 2003, 2016, 2023 — 2016/2023 strengthened CAMPA fund management and compensatory afforestation rules.
+- **FCA enacted in 1980** on recommendations of **Tiwari Committee**. Responded to rapid deforestation by states for agriculture, mining, and industrial projects in 1970s.
+- **Section 2**. **No State Government** shall authorize use of forest land for **non-forest purpose** except with **prior Central Government approval**. Shifts critical veto power to Centre/MoEFCC.
+- **Non-forest purposes** include: mining, dams, highways, industries, urban expansion on forest land. **Afforestation/reforestation on forest land** is NOT non-forest purpose.
+- **Compensatory afforestation**. When forest land diverted, equivalent area must be afforested + **Net Present Value (NPV)** of forest ecosystem services paid. Funds go to **CAMPA** (Compensatory Afforestation Fund).
+- **Godavarman case (1996)**. SC held **"forest"** includes all areas meeting **dictionary meaning** of forest. Not only legally notified forest. Massively expanded FCA reach.
+- **FCA vs IFA 1927**: Indian Forest Act 1927 = **colonial revenue-focused** forest management. FCA 1980 = **conservation of forest land area** against diversion. Different purposes.
+- **FCA vs FRA 2006 trap**: FCA = **restricts diversion** of forest land. FRA = **recognizes rights** of forest dwellers. Complementary but **different legal objectives**. Not the same Act.
+- **FCA vs WPA 1972**: FCA controls **land use change**. WPA protects **wildlife** within forests. Project may need **both** forest clearance (FCA) and EC (EPA).
+- **Penalties**: Violation of FCA = **criminal offence**. Imprisonment and fine. Strict liability for unauthorized diversion.
+- **Amendments**: 1988, 1992, 2003, 2016, 2023. 2016/2023 strengthened CAMPA fund management and compensatory afforestation rules.
 
 > **Exam note:** FCA = **1980** — trap: "FCA enacted with WPA in 1972" = **FALSE**. FCA = **diversion control**; FRA = **rights recognition (2006)**.
 
@@ -323,12 +323,12 @@ KEY TRAPS:
 
 ### Exam Facts (raata)
 
-- FCA = **1980** — Tiwari Committee
+- FCA = **1980**. Tiwari Committee.
 - **Prior Central approval** for forest diversion
-- Compensatory afforestation + **NPV** → CAMPA
+- Compensatory afforestation + **NPV**. CAMPA.
 - Godavarman **1996** expanded "forest" definition
-- **≠ FRA 2006** — different purpose
-- **≠ WPA 1972** — land use vs wildlife
+- **≠ FRA 2006**. Different purpose.
+- **≠ WPA 1972**. Land use vs wildlife.
 
 ### PYQs — FCA 1980
 
@@ -364,16 +364,16 @@ KEY TRAPS:
 
 ### BDA 2002 — How It Works
 
-- **Biological Diversity Act enacted in 2002**, rules notified progressively — implements India's **CBD obligations** from **Rio 1992** — predates **Nagoya Protocol (2010)** but aligned with ABS principles.
-- **Three CBD objectives mirrored**: (1) **Conservation** of biodiversity; (2) **Sustainable use**; (3) **Fair and equitable benefit sharing** — BDA creates institutional machinery for all three.
-- **National Biodiversity Authority (NBA)** — statutory body at national level — HQ **Chennai** (NOT Delhi — frequent trap) — approves access by foreign nationals/companies to Indian biological resources.
-- **State Biodiversity Boards (SBB)** — one per state — regulate access at state level and coordinate BMCs.
-- **Biodiversity Management Committees (BMC)** — at **local body level** (panchayat/municipality) — **prepare and maintain People's Biodiversity Register (PBR)** documenting local species and traditional knowledge.
-- **Section 41 (BDA)** — mandates every local body shall constitute **BMC** and prepare **PBR** — grassroots biodiversity documentation.
-- **Access and Benefit Sharing (ABS)**: Commercial use of Indian bio-resources requires **NBA/SBB approval** — benefits shared with local communities — prevents **biopiracy** (neem, turmeric patent cases motivated BDA).
-- **BDA vs WPA**: WPA protects **wildlife species** and PAs; BDA governs **genetic resources, traditional knowledge, and benefit sharing** — overlapping but distinct.
-- **BDA vs EPA**: EPA = pollution/environment quality; BDA = **biodiversity as resource** governance — different domains.
-- **Penalties**: Unauthorized access/commercial use of bio-resources without NBA clearance → imprisonment and fine under BDA.
+- **Biological Diversity Act enacted in 2002**, rules notified progressively. Implements India's **CBD obligations** from **Rio 1992**. Predates **Nagoya Protocol (2010)** but aligned with ABS principles.
+- **Three CBD objectives mirrored**: (1) **Conservation** of biodiversity. (2) **Sustainable use**. (3) **Fair and equitable benefit sharing**. BDA creates institutional machinery for all three.
+- The **National Biodiversity Authority (NBA)** is the statutory body at national level with HQ in **Chennai** (NOT Delhi, a frequent trap). It approves access by foreign nationals and companies to Indian biological resources.
+- **State Biodiversity Boards (SBB)**. One per state. Regulate access at state level and coordinate BMCs.
+- **Biodiversity Management Committees (BMC)**. At **local body level** (panchayat/municipality). **Prepare and maintain People's Biodiversity Register (PBR)** documenting local species and traditional knowledge.
+- **Section 41 (BDA)**. Mandates every local body shall constitute **BMC** and prepare **PBR**. Grassroots biodiversity documentation.
+- **Access and Benefit Sharing (ABS)**: Commercial use of Indian bio-resources requires **NBA/SBB approval**. Benefits shared with local communities. Prevents **biopiracy** (neem, turmeric patent cases motivated BDA).
+- **BDA vs WPA**: WPA protects **wildlife species** and PAs. BDA governs **genetic resources, traditional knowledge, and benefit sharing**. Overlapping but distinct.
+- **BDA vs EPA**: EPA = pollution/environment quality. BDA = **biodiversity as resource** governance. Different domains.
+- **Penalties**: Unauthorized access/commercial use of bio-resources without NBA clearance. Imprisonment and fine under BDA.
 
 > **Exam note:** BDA 2002 implements **CBD** — trap: "BDA implements CITES/Kyoto" = **FALSE**. NBA HQ = **Chennai**, not New Delhi.
 
@@ -388,13 +388,13 @@ KEY TRAPS:
 
 ### Exam Facts (raata)
 
-- BDA = **2002** — implements **CBD 1992**
+- BDA = **2002**. Implements **CBD 1992**.
 - **NBA HQ = Chennai**
 - **BMC** prepares **PBR**
 - Three objectives: conservation + sustainable use + benefit sharing
-- Nagoya Protocol **2010** — ABS international framework
+- Nagoya Protocol **2010**. ABS international framework.
 - **≠ CITES** (trade in endangered species)
-- Section **41** — BMC mandate
+- Section **41**. BMC mandate.
 
 ### PYQs — BDA 2002
 
@@ -431,16 +431,16 @@ KEY TRAPS:
 
 ### Water Act 1974 — How It Works
 
-- **Water Act enacted in 1974** — influenced by **Stockholm Conference 1972** — India's first dedicated pollution control legislation — predates EPA 1986 by 12 years.
-- **Section 3** — establishes **Central Pollution Control Board (CPCB)** — national technical and coordinating body for water pollution (Air Act 1981 later extended CPCB role to air).
-- **Section 4** — mandates **State Pollution Control Boards (SPCBs)** in every state — primary enforcement at state level.
-- **Consent mechanism**: Industries must obtain **Consent to Establish (CTE)** before construction and **Consent to Operate (CTO)** before commencing discharge — core regulatory tool — **SPCB** issues consent.
-- **Water quality standards**: CPCB sets **effluent standards** for industries and **water quality criteria** for rivers/lakes — states enforce through SPCB monitoring and prosecution.
-- **State Boards** can inspect, sample, issue notices, cut power/water supply to polluting units, and initiate prosecution — **Kanpur tanneries** enforced under Water Act via **UPPCB**.
-- **Water Act vs EPA 1986**: Water Act = **specific** to water pollution; EPA = **umbrella** — EPA does not repeal Water Act (Section 24 EPA preserves other laws).
-- **Water Act vs Air Act 1981**: Water = **1974**; Air = **1981** — most common Act-year swap trap in UPPCS — **never confuse these two years**.
-- **Ganga Action Plan (1985)** and **Namami Gange** operate within Water Act + EPA framework — pollution control standards from CPCB.
-- **Penalties**: Violation of consent conditions → imprisonment up to **6 years** + fine under Water Act.
+- **Water Act enacted in 1974**. Influenced by **Stockholm Conference 1972**. India's first dedicated pollution control legislation. Predates EPA 1986 by 12 years.
+- **Section 3**. Establishes **Central Pollution Control Board (CPCB)**. National technical and coordinating body for water pollution (Air Act 1981 later extended CPCB role to air).
+- **Section 4**. Mandates **State Pollution Control Boards (SPCBs)** in every state. Primary enforcement at state level.
+- **Consent mechanism**: Industries must obtain **Consent to Establish (CTE)** before construction and **Consent to Operate (CTO)** before commencing discharge. Core regulatory tool. **SPCB** issues consent.
+- **Water quality standards**: CPCB sets **effluent standards** for industries and **water quality criteria** for rivers/lakes. States enforce through SPCB monitoring and prosecution.
+- **State Boards** can inspect, sample, issue notices, cut power/water supply to polluting units, and initiate prosecution. **Kanpur tanneries** enforced under Water Act via **UPPCB**.
+- **Water Act vs EPA 1986**: Water Act = **specific** to water pollution. EPA = **umbrella**. EPA does not repeal Water Act (Section 24 EPA preserves other laws).
+- **Water Act vs Air Act 1981**: Water = **1974**. Air = **1981**. Most common Act-year swap trap in UPPCS. **Never confuse these two years**.
+- **Ganga Action Plan (1985)** and **Namami Gange** operate within Water Act + EPA framework. Pollution control standards from CPCB.
+- **Penalties**: Violation of consent conditions. Imprisonment up to **6 years** + fine under Water Act.
 
 > **Exam note:** Water Act = **1974**. Statement "Water Act enacted in 1981" = **FALSE** — **1981 = Air Act**.
 
@@ -496,15 +496,15 @@ KEY TRAPS:
 
 ### Air Act 1981 — How It Works
 
-- **Air Act enacted in 1981** — growing industrial and vehicular air pollution + Bhopal tragedy context — complements Water Act 1974 without creating new boards (uses existing CPCB/SPCB).
-- **National Ambient Air Quality Standards (NAAQS)** — CPCB notifies permissible limits for **SO₂, NO₂, PM10, PM2.5, CO, O₃, NH₃, Pb, benzene** and other pollutants — revised periodically (2009, 2024 updates).
-- **Consent mechanism extended**: Industries and operations causing **air emissions** must obtain **CTE/CTO** from SPCB under Air Act — same institutional chain as Water Act.
-- **Automobile emission norms**: Air Act enables **Bharat Stage (BS)** emission standards for vehicles — aligned with fuel quality norms — enforced by SPCB + transport departments.
-- **Air quality monitoring**: **National Air Quality Monitoring Programme (NAMP)** — CPCB coordinates — data feeds **NCAP 2019** (132 non-attainment cities including **Lucknow, Kanpur, Ghaziabad, Varanasi, Agra** in UP).
-- **Noise pollution**: While separate **Noise Pollution Rules 2000** issued under **EPA 1986**, air/noise often tested together — noise standards for industrial/vehicular sources cross-reference Air/EPA framework.
-- **Air Act vs EPA**: Air Act = **specific** air pollution law; EPA = umbrella — both operate together; EPA hazardous air pollutants rules supplement Air Act.
-- **Air Act vs Water Act year trap**: Air = **1981**; Water = **1974** — if question lists "Air Act 1974" = **FALSE**.
-- **Penalties**: Air pollution beyond consent/standards → imprisonment up to **6 years** + fine — parallel to Water Act penalty structure.
+- **Air Act enacted in 1981**. Growing industrial and vehicular air pollution + Bhopal tragedy context. Complements Water Act 1974 without creating new boards (uses existing CPCB/SPCB).
+- **National Ambient Air Quality Standards (NAAQS)**. CPCB notifies permissible limits for **SO₂, NO₂, PM10, PM2.5, CO, O₃, NH₃, Pb, benzene** and other pollutants. Revised periodically (2009, 2024 updates).
+- **Consent mechanism extended**: Industries and operations causing **air emissions** must obtain **CTE/CTO** from SPCB under Air Act. Same institutional chain as Water Act.
+- **Automobile emission norms**: Air Act enables **Bharat Stage (BS)** emission standards for vehicles. Aligned with fuel quality norms. Enforced by SPCB + transport departments.
+- **Air quality monitoring**: **National Air Quality Monitoring Programme (NAMP)**. CPCB coordinates. Data feeds **NCAP 2019** (132 non-attainment cities including **Lucknow, Kanpur, Ghaziabad, Varanasi, Agra** in UP).
+- **Noise pollution**: While separate **Noise Pollution Rules 2000** issued under **EPA 1986**, air/noise often tested together. Noise standards for industrial/vehicular sources cross-reference Air/EPA framework.
+- **Air Act vs EPA**: Air Act = **specific** air pollution law. EPA = umbrella. Both operate together. EPA hazardous air pollutants rules supplement Air Act.
+- **Air Act vs Water Act year trap**: Air = **1981**. Water = **1974**. If question lists "Air Act 1974" = **FALSE**.
+- **Penalties**: Air pollution beyond consent/standards. Imprisonment up to **6 years** + fine. Parallel to Water Act penalty structure.
 - **Delhi-NCR/UP air**: **GRAP (Graded Response Action Plan)** and **NCAP** use Air Act + EPA enforcement on thermal power, brick kilns, construction dust.
 
 > **Exam note:** Air Act = **1981**. Match-list trap: "Air Act — 1974, Water Act — 1981" = **both wrong** (years swapped).
@@ -564,16 +564,16 @@ KEY TRAPS:
 
 ### NGT Act 2010 — How It Works
 
-- **NGT Act enacted in 2010** — operational from **2011** — fulfils long-standing demand for dedicated environmental judiciary — SC had directed specialized green courts.
-- **Section 14 — Jurisdiction**: Civil cases involving **substantial question relating to environment** under: **EPA 1986, WPA 1972, FCA 1980, Water Act 1974, Air Act 1981, BDA 2002, Public Liability Insurance Act 1991** — **exclusive** — ordinary civil courts barred from parallel jurisdiction.
-- **Section 15 — Relief**: NGT may award **compensation**, restitution, and remediation — implements **Polluter Pays** and **Precautionary** principles recognized by SC.
-- **Section 20 — Disposal target**: Endeavour to dispose applications within **6 months** — fast-track compared to ordinary courts.
-- **Composition**: **Chairperson** (retired SC judge or CJI of HC) + **judicial members** + **expert members** (environmental science/technical) — hybrid bench for technical disputes.
-- **Benches**: **Principal Bench New Delhi** + regional benches (**Bhopal, Pune, Kolkata, Chennai**) — circuit sittings elsewhere.
-- **Appeals against EC**: Project proponents or affected communities appeal **MoEFCC/SEIAA EC decisions** to NGT — **NGT does NOT grant EC** — only reviews legality and process.
-- **Penalties for non-compliance with NGT orders**: Up to **3 years imprisonment** + fine up to **₹10 crore** — plus **₹25,000 per day** continuing violation under NGT Act.
-- **Appeal from NGT**: **Supreme Court** on substantial questions of law — not High Courts directly for most matters.
-- **NGT vs MoEFCC**: MoEFCC = **policy + clearance**; NGT = **adjudication** — complementary roles.
+- **NGT Act enacted in 2010**. Operational from **2011**. Fulfils long-standing demand for dedicated environmental judiciary. SC had directed specialized green courts.
+- **Section 14. Jurisdiction**: Civil cases involving **substantial question relating to environment** under: **EPA 1986, WPA 1972, FCA 1980, Water Act 1974, Air Act 1981, BDA 2002, Public Liability Insurance Act 1991**. **Exclusive**. Ordinary civil courts barred from parallel jurisdiction.
+- **Section 15. Relief**: NGT may award **compensation**, restitution, and remediation. Implements **Polluter Pays** and **Precautionary** principles recognized by SC.
+- **Section 20. Disposal target**: Endeavour to dispose applications within **6 months**. Fast-track compared to ordinary courts.
+- **Composition**: **Chairperson** (retired SC judge or CJI of HC) + **judicial members** + **expert members** (environmental science/technical). Hybrid bench for technical disputes.
+- **Benches**: **Principal Bench New Delhi** + regional benches (**Bhopal, Pune, Kolkata, Chennai**). Circuit sittings elsewhere.
+- **Appeals against EC**: Project proponents or affected communities appeal **MoEFCC/SEIAA EC decisions** to NGT. **NGT does NOT grant EC**. Only reviews legality and process.
+- **Penalties for non-compliance with NGT orders**: Up to **3 years imprisonment** + fine up to **₹10 crore**. Plus **₹25,000 per day** continuing violation under NGT Act.
+- **Appeal from NGT**: **Supreme Court** on substantial questions of law. Not High Courts directly for most matters.
+- **NGT vs MoEFCC**: MoEFCC = **policy + clearance**. NGT = **adjudication**. Complementary roles.
 
 > **Exam note:** NGT Act = **2010**. Trap: "NGT established under EPA 1986" = **FALSE**. NGT **hears appeals** — does not grant Environmental Clearance.
 
@@ -591,12 +591,12 @@ KEY TRAPS:
 
 ### Exam Facts (raata)
 
-- NGT Act = **2010**; operational **2011**
+- NGT Act = **2010**. Operational **2011**.
 - **Exclusive jurisdiction** over listed environmental Acts
 - **6-month** disposal target
 - Chairperson = retired **SC judge**
 - Principal Bench = **New Delhi**
-- Hears **EC appeals** — does NOT grant EC
+- Hears **EC appeals**. Does NOT grant EC.
 - Penalties for disobeying NGT orders
 
 ### PYQs — NGT Act 2010
@@ -632,16 +632,16 @@ KEY TRAPS:
 
 ### FRA 2006 — How It Works
 
-- **FRA enacted December 2006** — Rules notified **2008** — landmark **social justice** law — recognizes forest dwellers as stakeholders, not encroachers — distinct from **FCA 1980** (diversion control).
-- **Eligible communities**: (1) **Scheduled Tribes (STs)** who primarily reside in and depend on forests; (2) **Other Traditional Forest Dwellers (OTFDs)** — non-tribal communities with **3 generations (75 years)** of prior occupation on forest land before **13 December 2005**.
-- **Cutoff date: 13 December 2005** — occupation/evidence must predate this date — trap: "FRA cutoff is 2006 enactment date" = **FALSE** — cutoff is **13 Dec 2005**.
-- **Individual Forest Rights (IFR)**: Up to **4 hectares** for habitation or self-cultivation — **NOT 5 or 10 ha** — Gram Sabha verifies claim → Sub-Divisional Level Committee → District Level Committee.
-- **Community Forest Rights (CFR)**: Rights of **community** over **community forest resources** — grazing, collection of minor forest produce, fish, water bodies — **no fixed hectare cap** for community resources.
-- **Community forest resource management**: Gram Sabha authority to **protect, regenerate, conserve, and manage** community forest — shifts governance from pure State Forest Department control.
-- **Critical Wildlife Habitat (CWH)**: Provision for relocating communities from **national parks/wildlife sanctuaries** ONLY if coexistence impossible — **scientifically established** + **consent/process** — balances WPA protection with FRA rights.
-- **Gram Sabha** — **initiates and verifies** claims at village level — central institution — FRA empowers local democracy in forest governance.
-- **FRA vs JFM**: JFM (1990) = **executive co-management scheme**; FRA = **statutory rights** — FRA provides stronger legal tenure security.
-- **FRA vs FCA**: FCA restricts **diversion**; FRA **recognizes existing rights** — both apply in forest landscapes — conflict resolved case-by-case (mining vs tribal rights debates).
+- **FRA enacted December 2006**. Rules notified **2008**. Landmark **social justice** law. Recognizes forest dwellers as stakeholders, not encroachers. Distinct from **FCA 1980** (diversion control).
+- **Eligible communities**: (1) **Scheduled Tribes (STs)** who primarily reside in and depend on forests. (2) **Other Traditional Forest Dwellers (OTFDs)**. Non-tribal communities with **3 generations (75 years)** of prior occupation on forest land before **13 December 2005**.
+- **Cutoff date: 13 December 2005**. Occupation/evidence must predate this date. Trap: "FRA cutoff is 2006 enactment date" = **FALSE**. Cutoff is **13 Dec 2005**.
+- **Individual Forest Rights (IFR)**: Up to **4 hectares** for habitation or self-cultivation. **NOT 5 or 10 ha**. Gram Sabha verifies claim. Sub-Divisional Level Committee. District Level Committee.
+- **Community Forest Rights (CFR)**: Rights of **community** over **community forest resources**. Grazing, collection of minor forest produce, fish, water bodies. **No fixed hectare cap** for community resources.
+- **Community forest resource management**: Gram Sabha authority to **protect, regenerate, conserve, and manage** community forest. Shifts governance from pure State Forest Department control.
+- **Critical Wildlife Habitat (CWH)**: Provision for relocating communities from **national parks/wildlife sanctuaries** ONLY if coexistence impossible. **Scientifically established** + **consent/process**. Balances WPA protection with FRA rights.
+- **Gram Sabha**. **Initiates and verifies** claims at village level. Central institution. FRA empowers local democracy in forest governance.
+- **FRA vs JFM**: JFM (1990) = **executive co-management scheme**. FRA = **statutory rights**. FRA provides stronger legal tenure security.
+- **FRA vs FCA**: FCA restricts **diversion**. FRA **recognizes existing rights**. Both apply in forest landscapes. Conflict resolved case-by-case (mining vs tribal rights debates).
 
 > **Exam note:** IFR cap = **4 hectares** — not 5. Cutoff = **13 December 2005** — not 2006. FRA = **rights**; FCA = **diversion control**.
 
@@ -657,7 +657,7 @@ KEY TRAPS:
 
 ### Exam Facts (raata)
 
-- FRA = **2006**; Rules **2008**
+- FRA = **2006**. Rules **2008**.
 - **ST + OTFD** eligible
 - IFR max = **4 ha**
 - Cutoff = **13 Dec 2005**
@@ -702,15 +702,15 @@ KEY TRAPS:
 
 ### National Forest Policy — How It Works
 
-- **National Forest Policy 1952** adopted post-independence — reflected **production forestry** mindset inherited from colonial **Indian Forest Act 1927** — priority on timber, fuelwood, and industrial supply.
-- **1952 policy goals**: Increase forest area; ensure **rational utilization** of forest products; **maximize revenue** for national economy — **limited ecological emphasis** by modern standards.
-- **National Forest Policy 1988** — current guiding document — adopted amid growing deforestation concern and Chipko/movement pressure — **replaced 1952 policy's production dominance**.
-- **NFP 1988 key principles**: (1) **Environmental stability** and ecological balance including atmospheric equilibrium; (2) **Conservation of natural heritage** and biodiversity; (3) **Substantial increase in forest/tree cover** — **33% of total land area**; (4) **66% in hills and mountains**; (5) **People's involvement** — JFM, tribal community participation.
-- **33%/66% targets** — most tested NFP numbers — **33% national forest/tree cover**; **66% for hills/mountains** — India currently ~**24.6%** forest cover (ISFR 2023) — gap remains.
-- **Social forestry, agroforestry, JFM** promoted under 1988 policy — aligns with participatory forest management — links to **FCA 1980** (conservation) and **FRA 2006** (community rights).
-- **1952 vs 1988 trap**: Question "Current National Forest Policy emphasizes revenue maximization as primary goal" = **FALSE under 1988** — was 1952 approach.
-- **NFP is policy, not law** — implemented through **FCA, WPA, IFA**, and state forest Acts — MoEFCC nodal for policy formulation.
-- **2018 Draft National Forest Policy** proposed (not yet finalized as of 2026) — proposed **PPP models, climate change integration** — exam trap: "NFP 2018 is current law" = check context — **1988 remains operative policy**.
+- **National Forest Policy 1952** adopted post-independence. Reflected **production forestry** mindset inherited from colonial **Indian Forest Act 1927**. Priority on timber, fuelwood, and industrial supply.
+- **1952 policy goals**: Increase forest area. Ensure **rational utilization** of forest products. **Maximize revenue** for national economy. **Limited ecological emphasis** by modern standards.
+- **National Forest Policy 1988**. Current guiding document. Adopted amid growing deforestation concern and Chipko/movement pressure. **Replaced 1952 policy's production dominance**.
+- **NFP 1988 key principles**: (1) **Environmental stability** and ecological balance including atmospheric equilibrium. (2) **Conservation of natural heritage** and biodiversity. (3) **Substantial increase in forest/tree cover**. **33% of total land area**. (4) **66% in hills and mountains**. (5) **People's involvement**. JFM, tribal community participation.
+- **33%/66% targets**. Most tested NFP numbers. **33% national forest/tree cover**. **66% for hills/mountains**. India currently ~**24.6%** forest cover (ISFR 2023). Gap remains.
+- **Social forestry, agroforestry, JFM** promoted under 1988 policy. Aligns with participatory forest management. Links to **FCA 1980** (conservation) and **FRA 2006** (community rights).
+- **1952 vs 1988 trap**: Question "Current National Forest Policy emphasizes revenue maximization as primary goal" = **FALSE under 1988**. Was 1952 approach.
+- **NFP is policy, not law**. Implemented through **FCA, WPA, IFA**, and state forest Acts. MoEFCC nodal for policy formulation.
+- **2018 Draft National Forest Policy** proposed (not yet finalized as of 2026). Proposed **PPP models, climate change integration**. Exam trap: "NFP 2018 is current law" = check context. **1988 remains operative policy**.
 
 > **Exam note:** Syllabus says **1952** — know it was **production-focused**. Current exam questions use **1988** targets (**33%/66%**) — both policies must be known with dates.
 
@@ -726,10 +726,10 @@ KEY TRAPS:
 ### Exam Facts (raata)
 
 - NFP **1952** = production/revenue focus
-- NFP **1988** = current — ecological focus
+- NFP **1988** = current. Ecological focus.
 - Target: **33%** forest cover nationally
 - Target: **66%** in hills/mountains
-- Implemented via FCA/WPA — not standalone law
+- Implemented via FCA/WPA. Not standalone law.
 - MoEFCC nodal for forest policy
 
 ### PYQs — National Forest Policy
@@ -767,16 +767,16 @@ KEY TRAPS:
 
 ### Environmental Law — How It Works
 
-- **Constitutional foundation**: **Article 48A** (42nd Amendment **1976**) — **DPSP** — "State shall endeavour to protect and improve the environment and safeguard forests and wildlife"; **Article 51A(g)** — **Fundamental Duty** — every citizen shall protect and improve natural environment.
-- **Article 21 (Right to Life)** — SC expanded to include **right to healthy environment** — *Subhash Kumar v. State of Bihar*, *M.C. Mehta* series, *Vellore Citizens' Welfare Forum* — environmental protection becomes **enforceable** through PIL.
-- **Article 48 trap**: **Article 48** (DPSP) = **agriculture and animal husbandry** on modern scientific lines — **NOT environment** — **Article 48A** = environment — UPPCS frequently swaps 48 and 48A.
-- **7th Schedule — Concurrent List**: **Forests**, **Protection of wild animals and birds**, **Pollution control** — both Centre and States legislate — explains overlapping EPA (Centre) + SPCB (State) architecture.
-- **Legislative chronology (pollution-conservation chain)**: **WPA 1972** → **Water 1974** → **FCA 1980** → **Air 1981** → **EPA 1986** → **BDA 2002** → **FRA 2006** → **NGT Act 2010** — each fills a gap.
-- **Judicial principles (SC)**: **Precautionary principle** (act before certainty of harm); **Polluter Pays principle** (polluter bears cleanup cost); **Public Trust doctrine** (state holds natural resources in trust for public); **Sustainable Development** as balancing principle — imported from Rio 1992 into Indian case law.
-- **Public Interest Litigation (PIL)**: Relaxed locus standi — any public-spirited citizen can approach SC/HC for environmental violations — *M.C. Mehta* (Ganga, Taj Mahal, Delhi air), *Rural Litigation and Entitlement Kendra* (Doon Valley quarrying).
-- **Three clearance/consent layers for projects**: (1) **EC** under EPA EIA Notification (MoEFCC/SEIAA); (2) **Forest clearance** under FCA 1980; (3) **Pollution consent** CTE/CTO under Water/Air Acts (SPCB) — projects may need all three.
-- **Environmental law ≠ only EPA** — spans Water, Air, WPA, FCA, BDA, FRA, NGT Act — integrated framework tested via org-function and Act-year matching.
-- **International law influence**: Stockholm 1972 → Water Act; Rio 1992 → BDA/CBD; Paris Agreement → climate policy under MoEFCC — domestic law implements treaty obligations.
+- **Constitutional foundation**: **Article 48A** (42nd Amendment **1976**). **DPSP**. "State shall endeavour to protect and improve the environment and safeguard forests and wildlife". **Article 51A(g)**. **Fundamental Duty**. Every citizen shall protect and improve natural environment.
+- **Article 21 (Right to Life)**. SC expanded to include **right to healthy environment**. *Subhash Kumar v. State of Bihar*, *M.C. Mehta* series, *Vellore Citizens' Welfare Forum*. Environmental protection becomes **enforceable** through PIL.
+- **Article 48 trap**: **Article 48** (DPSP) = **agriculture and animal husbandry** on modern scientific lines. **NOT environment**. **Article 48A** = environment. UPPCS frequently swaps 48 and 48A.
+- **7th Schedule. Concurrent List**: **Forests**, **Protection of wild animals and birds**, **Pollution control**. Both Centre and States legislate. Explains overlapping EPA (Centre) + SPCB (State) architecture.
+- **Legislative chronology (pollution-conservation chain)**: **WPA 1972**. **Water 1974**. **FCA 1980**. **Air 1981**. **EPA 1986**. **BDA 2002**. **FRA 2006**. **NGT Act 2010**. Each fills a gap.
+- **Judicial principles (SC)**: **Precautionary principle** (act before certainty of harm). **Polluter Pays principle** (polluter bears cleanup cost). **Public Trust doctrine** (state holds natural resources in trust for public). **Sustainable Development** as balancing principle. Imported from Rio 1992 into Indian case law.
+- **Public Interest Litigation (PIL)**: Relaxed locus standi. Any public-spirited citizen can approach SC/HC for environmental violations. *M.C. Mehta* (Ganga, Taj Mahal, Delhi air), *Rural Litigation and Entitlement Kendra* (Doon Valley quarrying).
+- **Three clearance/consent layers for projects**: (1) **EC** under EPA EIA Notification (MoEFCC/SEIAA). (2) **Forest clearance** under FCA 1980. (3) **Pollution consent** CTE/CTO under Water/Air Acts (SPCB). Projects may need all three.
+- **Environmental law ≠ only EPA**. Spans Water, Air, WPA, FCA, BDA, FRA, NGT Act. Integrated framework tested via org-function and Act-year matching.
+- **International law influence**: Stockholm 1972. Water Act. Rio 1992. BDA/CBD. Paris Agreement. Climate policy under MoEFCC. Domestic law implements treaty obligations.
 
 > **Exam note:** **Art 48 ≠ Art 48A**. 48A = environment (State duty). 51A(g) = citizen duty. Art 21 = enforceable right via SC interpretation.
 
@@ -795,7 +795,7 @@ KEY TRAPS:
 - **48A** = State environment duty (DPSP)
 - **51A(g)** = citizen environment duty
 - **Art 21** = right to healthy environment (SC)
-- **Art 48 ≠ 48A** — common trap
+- **Art 48 ≠ 48A**. Common trap.
 - Concurrent List: forests, wildlife, pollution
 - Rio principles in SC case law
 - PIL enabled environmental enforcement
@@ -834,16 +834,16 @@ KEY TRAPS:
 
 ### Wildlife Protection Laws — How It Works
 
-- **WPA 1972 is the principal wildlife protection law** — "Wildlife Protection Laws" in syllabus refers primarily to WPA and its amendment chain — not a separate Act.
-- **Hunting ban architecture**: Sections 9–12 WPA — **hunting prohibited** for Schedule I–IV species — **Schedule V vermin** may be hunted subject to state notification — **Schedule VI plants** protected from uprooting/collection.
-- **Trade prohibition**: Sections 39–40 WPA — **trade in scheduled wild animals/articles** prohibited without license — supports CITES implementation domestically (CITES itself is separate international treaty — Topic 18).
-- **Protected area legal toolkit**: **Sanctuary (Sec 18)**, **National Park (Sec 35)**, **Conservation Reserve (Sec 36A)**, **Community Reserve (Sec 36B)**, **Tiger Reserve (Sec 38V)** — each with distinct declaration procedure and restriction level.
-- **National Tiger Conservation Authority (NTCA)**: Statutory under **WPA 2006 amendment** — **Wildlife (Protection) Amendment Act, 2006** — HQ New Delhi — approves tiger reserve notifications, standards for core-buffer, Tiger Conservation Plans.
-- **Chief Wildlife Warden (CWLW)**: State authority under WPA — issues permits, manages sanctuaries, enforces hunting bans — state-level implementing officer.
-- **National Board for Wildlife (NBWL)**: Chaired by **Prime Minister** — reviews PA declarations, projects near PAs — policy oversight under WPA.
-- **Penalties tiered by Schedule**: Schedule I offences → **3–7 years** imprisonment; lower schedules → lesser penalties — **cognizable, non-bailable** for serious offences.
-- **Wildlife Protection Laws vs BDA**: WPA = species/habitat **protection**; BDA = genetic resources **access and benefit sharing** — both biodiversity-related but different legal tools.
-- **Wildlife Protection Laws vs FRA**: WPA restricts activity in PAs; FRA recognizes **pre-existing community rights** — **Critical Wildlife Habitat** procedure resolves conflict when relocation from PA necessary.
+- **WPA 1972 is the principal wildlife protection law**. "Wildlife Protection Laws" in syllabus refers primarily to WPA and its amendment chain. Not a separate Act.
+- **Hunting ban architecture**: Sections 9–12 WPA. **Hunting prohibited** for Schedule I–IV species. **Schedule V vermin** may be hunted subject to state notification. **Schedule VI plants** protected from uprooting/collection.
+- **Trade prohibition** under Sections 39–40 WPA bans **trade in scheduled wild animals and articles** without a licence and supports domestic CITES implementation (CITES itself is a separate international treaty, Topic 18).
+- **Protected area legal toolkit**: **Sanctuary (Sec 18)**, **National Park (Sec 35)**, **Conservation Reserve (Sec 36A)**, **Community Reserve (Sec 36B)**, **Tiger Reserve (Sec 38V)**. Each with distinct declaration procedure and restriction level.
+- **National Tiger Conservation Authority (NTCA)**: Statutory under **WPA 2006 amendment**. **Wildlife (Protection) Amendment Act, 2006**. HQ New Delhi. Approves tiger reserve notifications, standards for core-buffer, Tiger Conservation Plans.
+- **Chief Wildlife Warden (CWLW)**: State authority under WPA. Issues permits, manages sanctuaries, enforces hunting bans. State-level implementing officer.
+- **National Board for Wildlife (NBWL)**: Chaired by **Prime Minister**. Reviews PA declarations, projects near PAs. Policy oversight under WPA.
+- **Penalties tiered by Schedule**: Schedule I offences. **3–7 years** imprisonment. Lower schedules. Lesser penalties. **Cognizable, non-bailable** for serious offences.
+- **Wildlife Protection Laws vs BDA**: WPA = species/habitat **protection**. BDA = genetic resources **access and benefit sharing**. Both biodiversity-related but different legal tools.
+- **Wildlife Protection Laws vs FRA**: WPA restricts activity in PAs. FRA recognizes **pre-existing community rights**. **Critical Wildlife Habitat** procedure resolves conflict when relocation from PA necessary.
 
 > **Exam note:** "Wildlife Protection Laws" = **WPA 1972 framework** + amendments. Tiger Reserve legal basis = **WPA Sec 38V (2006)** + **NTCA** — not a separate Tiger Act.
 

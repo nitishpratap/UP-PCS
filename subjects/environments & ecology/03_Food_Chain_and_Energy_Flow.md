@@ -123,16 +123,16 @@ TRAPS: Energy cyclic? NO | Energy pyramid inverted? NO | Biomass/number can inve
 
 ### Food Chain — How It Works
 
-- A **food chain** shows **who eats whom** in a straight line — each organism occupies one feeding step called a **trophic level**.
-- Energy enters at the **producer** level (plants, algae, phytoplankton) and passes upward; it does **not** loop back — unlike nutrients, which cycle through decomposers.
+- A **food chain** shows **who eats whom** in a straight line. Each organism occupies one feeding step called a **trophic level**.
+- Energy enters at the **producer** level (plants, algae, phytoplankton) and passes upward. It does **not** loop back, unlike nutrients, which cycle through decomposers.
 - Real ecosystems contain **many overlapping chains**, but exams test the **chain** as the basic unit before the **food web**.
-- **Grazing (pastoral) food chain** starts from **living green plants** → herbivore → carnivore → top predator; this is the dominant visible chain in grasslands and most terrestrial systems.
-- **Detritus food chain** starts from **dead organic matter** (leaf litter, dead plankton, animal carcasses) → detritivores (earthworms, millipedes) → decomposers (bacteria, fungi); critical in forests and aquatic sediments.
-- Both chain types run **in parallel** in the same ecosystem — a bear in Dudhwa eats living deer (grazing chain) and also scavenges carrion (detritus chain).
-- Food chains are typically **short (3–5 levels)** because only ~**10%** of energy passes to the next level (Lindeman 1942) — insufficient energy remains for a 6th or 7th level.
-- Removing one link **breaks the chain** — if grasshoppers vanish, frogs, snakes, and hawks above them collapse (trophic cascade).
-- **Aquatic grazing chain** example: phytoplankton → zooplankton → small fish → large fish → fish-eating bird.
-- **Terrestrial grazing chain** (UP): Terai grass → barasingha/chital → tiger/leopard in Dudhwa.
+- A **grazing (pastoral) food chain** starts from **living green plants**, then passes to herbivore, carnivore, and top predator. This is the dominant visible chain in grasslands and most terrestrial systems.
+- A **detritus food chain** starts from **dead organic matter** (leaf litter, dead plankton, animal carcasses), then passes to detritivores (earthworms, millipedes) and decomposers (bacteria, fungi). It is critical in forests and aquatic sediments.
+- Both chain types run **in parallel** in the same ecosystem. A bear in Dudhwa eats living deer (grazing chain) and also scavenges carrion (detritus chain).
+- Food chains are typically **short (3–5 levels)** because only ~**10%** of energy passes to the next level (Lindeman 1942). Insufficient energy remains for a 6th or 7th level.
+- Removing one link **breaks the chain**. If grasshoppers vanish, frogs, snakes, and hawks above them collapse (trophic cascade).
+- An **aquatic grazing chain** example runs phytoplankton to zooplankton, small fish, large fish, and fish-eating bird.
+- A **terrestrial grazing chain** (UP) runs Terai grass to barasingha/chital to tiger/leopard in Dudhwa.
 
 > **Exam note:** Grazing chain starts from **living producer**; detritus chain starts from **dead organic matter**. Trap: "All food chains begin with sunlight" — sunlight is the **ultimate** source, but detritus chains begin at **dead matter**, not green plants.
 
@@ -156,12 +156,12 @@ TRAPS: Energy cyclic? NO | Energy pyramid inverted? NO | Biomass/number can inve
 
 ### Exam Facts (raata)
 
-- Food chain = **linear** feeding sequence; food web = **network** of chains
+- A **food chain** is a **linear** feeding sequence. A **food web** is a **network** of chains.
 - Two main types: **grazing** (living plants) and **detritus** (dead matter)
 - Chains are **3–5 levels** max due to 10% energy transfer
-- Ultimate energy source = **Sun**; immediate chain start = producer (grazing) or detritus (detritus chain)
+- The ultimate energy source is the **Sun**. The immediate chain start is the producer (grazing) or detritus (detritus chain).
 - Aquatic grazing chain often begins with **phytoplankton**, not trees
-- Removing one species can collapse levels above it — **trophic cascade**
+- Removing one species can collapse levels above it and trigger a **trophic cascade**.
 
 ### PYQs — Food Chain
 
@@ -201,16 +201,16 @@ TRAPS: Energy cyclic? NO | Energy pyramid inverted? NO | Biomass/number can inve
 
 ### Food Web — How It Works
 
-- A **food web** is formed when **multiple food chains interconnect** — one species often feeds on, and is fed by, several others.
+- A **food web** is formed when **multiple food chains interconnect**. One species often feeds on, and is fed by, several others.
 - Food webs represent **real ecosystems** more accurately than single chains because few animals eat only one prey species.
-- **Stability advantage:** if one prey species declines, predators can switch to alternatives — the web buffers single-chain collapse.
-- **Omnivores** (bear, crow, human) are major web connectors — they link grazing and detritus pathways and occupy **multiple trophic levels**.
-- In **aquatic food webs** (Ganga, Chilika-type systems), phytoplankton support zooplankton, multiple fish species, and birds — one phytoplankton species may enter dozens of chains.
+- **Stability advantage:** if one prey species declines, predators can switch to alternatives. The web buffers single-chain collapse.
+- **Omnivores** (bear, crow, human) are major web connectors. They link grazing and detritus pathways and occupy **multiple trophic levels**.
+- In **aquatic food webs** (Ganga, Chilika-type systems), phytoplankton support zooplankton, multiple fish species, and birds. One phytoplankton species may enter dozens of chains.
 - In **terrestrial forests**, canopy insects, ground herbivores, and detritus feeders form separate chains that merge at omnivore and top-predator levels.
-- **Keystone predators** (tiger, otter) regulate web structure — removing them causes **trophic cascade** across multiple chains simultaneously.
-- Food webs complicate **biomagnification** — toxins accumulate along multiple pathways to top predators (DDT in fish-eating birds).
-- Simpler food webs (agricultural monoculture) are **less stable** — loss of one pest predator can cause pest outbreak.
-- Energy still flows **unidirectionally** through every chain in the web — the web describes **pathways**, not cyclic energy.
+- **Keystone predators** (tiger, otter) regulate web structure. Removing them causes **trophic cascade** across multiple chains simultaneously.
+- Food webs complicate **biomagnification**. Toxins accumulate along multiple pathways to top predators (DDT in fish-eating birds).
+- Simpler food webs (agricultural monoculture) are **less stable**. Loss of one pest predator can cause pest outbreak.
+- Energy still flows **unidirectionally** through every chain in the web. The web describes **pathways**, not cyclic energy.
 
 > **Exam note:** "Food web makes energy flow cyclic" = **FALSE**. Each chain in the web is unidirectional; only **nutrients** cycle. Trap: confusing web complexity with energy recycling.
 
@@ -226,8 +226,8 @@ TRAPS: Energy cyclic? NO | Energy pyramid inverted? NO | Biomass/number can inve
 
 ### Exam Facts (raata)
 
-- Food web = **interconnected food chains** — more realistic than single chain
-- Greater **stability** than isolated chains — alternative food sources for predators
+- A **food web** consists of **interconnected food chains** and is more realistic than a single chain.
+- Food webs offer greater **stability** than isolated chains because predators have alternative food sources.
 - **Omnivores** connect multiple chains and trophic levels
 - Energy flow through web remains **unidirectional** (not cyclic)
 - Simpler webs (monoculture farms) = **lower stability**
@@ -271,16 +271,16 @@ TRAPS: Energy cyclic? NO | Energy pyramid inverted? NO | Biomass/number can inve
 
 ### Trophic Levels — How It Works
 
-- **Trophic level (T)** = feeding rank in a food chain — determined by **how many transfers** from the producer, not by body size.
-- **T1 — Producers (autotrophs):** green plants, algae, phytoplankton, cyanobacteria — convert solar energy to chemical energy via photosynthesis (or chemosynthesis at vents).
-- **T2 — Primary consumers (herbivores):** deer, rabbit, zooplankton, caterpillars — eat producers directly.
-- **T3 — Secondary consumers (carnivores):** frog, small fish, spider — eat primary consumers.
-- **T4 — Tertiary consumers:** snake, large fish, hawk — eat secondary consumers.
-- **T5 — Quaternary consumers:** top predators with no natural enemies — eagle, tiger (in a 4-transfer chain); rare because energy is too low to support further levels.
-- **Omnivores** (bear, pig, human) occupy **multiple trophic levels simultaneously** — eating both plants (T2 role) and animals (T3/T4 role).
-- **Decomposers** (bacteria, fungi) break down dead matter from **all levels** — they recycle nutrients but are typically shown **beside** the main chain, not as the "top" trophic level in energy pyramids.
-- **Detritivores** (earthworms, woodlice) fragment dead material — bridge detritus chain toward decomposers; trophic position depends on what they consume.
-- In **parasitic chains**, a large tree (T1 producer) supports vast insect herbivores (T2) and even more parasites (T3) — leads to **inverted pyramid of numbers** (Topic 3.5).
+- **Trophic level (T)** is the feeding rank in a food chain. It is determined by **how many transfers** from the producer, not by body size.
+- **T1 (Producers/autotrophs):** green plants, algae, phytoplankton, and cyanobacteria convert solar energy to chemical energy via photosynthesis (or chemosynthesis at vents).
+- **T2 (Primary consumers/herbivores):** deer, rabbit, zooplankton, and caterpillars eat producers directly.
+- **T3 (Secondary consumers/carnivores):** frog, small fish, and spider eat primary consumers.
+- **T4 (Tertiary consumers):** snake, large fish, and hawk eat secondary consumers.
+- **T5 (Quaternary consumers):** top predators with no natural enemies include eagle and tiger (in a 4-transfer chain). They are rare because energy is too low to support further levels.
+- **Omnivores** (bear, pig, human) occupy **multiple trophic levels simultaneously** by eating both plants (T2 role) and animals (T3/T4 role).
+- **Decomposers** (bacteria, fungi) break down dead matter from **all levels**. They recycle nutrients but are typically shown **beside** the main chain, not as the "top" trophic level in energy pyramids.
+- **Detritivores** (earthworms, woodlice) fragment dead material and bridge the detritus chain toward decomposers. Their trophic position depends on what they consume.
+- In **parasitic chains**, a large tree (T1 producer) supports vast insect herbivores (T2) and even more parasites (T3). This leads to an **inverted pyramid of numbers** (Topic 3.5).
 
 > **Exam note:** Producer = **T1**, not T0. Sun is **energy source**, not a trophic level. Trap: "Decomposers are trophic level 5" — decomposers are **outside** the consumer ladder in standard pyramid diagrams.
 
@@ -306,11 +306,11 @@ TRAPS: Energy cyclic? NO | Energy pyramid inverted? NO | Biomass/number can inve
 
 ### Exam Facts (raata)
 
-- **T1 = Producers** — always base of trophic pyramid
+- **T1 = Producers** and they always form the base of the trophic pyramid.
 - Sun = energy **source**, not a trophic level
-- Herbivore = T2; carnivores = T3, T4, T5 depending on chain length
-- **Omnivores span multiple levels** — common trap in matching questions
-- Decomposers recycle nutrients from **all levels** — parallel to main chain
+- Herbivores occupy T2. Carnivores occupy T3, T4, or T5 depending on chain length.
+- **Omnivores span multiple levels**, which is a common trap in matching questions.
+- Decomposers recycle nutrients from **all levels** and run parallel to the main chain.
 - Top predators are few because energy dwindles at each transfer
 
 ### PYQs — Trophic Levels
@@ -351,16 +351,16 @@ TRAPS: Energy cyclic? NO | Energy pyramid inverted? NO | Biomass/number can inve
 
 ### Energy Flow — How It Works
 
-- **Energy flow** is the movement of solar energy through living systems — it powers every food chain and food web.
-- Flow is **unidirectional** — Sun → producers (chemical energy in biomass) → consumers → **heat** lost to environment; energy does **not** return to the sun or recycle like nutrients.
-- **Nutrients cycle; energy does not** — carbon, nitrogen, phosphorus are reused via decomposers; energy is continuously lost as heat and must be replenished by sunlight.
-- Terrestrial green plants capture about **1%** of incident sunlight falling on leaves — the rest is reflected, transmitted, or lost as heat (UPPCS 2025 Q5 Statement 1).
-- At each trophic transfer, roughly **10%** of energy (or organic matter energy equivalent) passes to the next consumer level — **Lindeman's 10% rule (1942)** (UPPCS 2025 Q5 Statement 2).
+- **Energy flow** is the movement of solar energy through living systems. It powers every food chain and food web.
+- Flow is **unidirectional**: Sun to producers (chemical energy in biomass) to consumers to **heat** lost to environment. Energy does **not** return to the sun or recycle like nutrients.
+- **Nutrients cycle but energy does not.** Carbon, nitrogen, and phosphorus are reused via decomposers. Energy is continuously lost as heat and must be replenished by sunlight.
+- Terrestrial green plants capture about **1%** of incident sunlight falling on leaves. The rest is reflected, transmitted, or lost as heat (UPPCS 2025 Q5 Statement 1).
+- At each trophic transfer, roughly **10%** of energy (or organic matter energy equivalent) passes to the next consumer level. This is **Lindeman's 10% rule (1942)** (UPPCS 2025 Q5 Statement 2).
 - The remaining **~90%** is lost through: **respiration** (metabolic heat), **movement**, **egestion** (undigested waste), **non-consumed parts** (bones, shells not eaten), and **heat radiation**.
-- This loss explains why **top predators are few**, why **food chains are short**, and why eating lower on the chain (grain → human) is more energy-efficient than eating high (grain → cattle → human).
-- **Gross production** vs **net production** distinction: plants respire heavily — only **net** production (NPP) is available to herbivores (detailed productivity math in Topic 2 §2.13).
-- **Ecological efficiency** = (energy at level n+1 / energy at level n) × 100 — typically ~10% but varies (5–20%) by organism type.
-- In **aquatic systems**, energy flow often passes rapidly through phytoplankton → zooplankton with same 10% rule — high turnover masks low standing biomass.
+- This loss explains why **top predators are few**, why **food chains are short**, and why eating lower on the chain (grain to human) is more energy-efficient than eating high (grain to cattle to human).
+- **Gross production** differs from **net production**: plants respire heavily, so only **net** production (NPP) is available to herbivores (detailed productivity math in Topic 2 §2.13).
+- **Ecological efficiency** equals (energy at level n+1 / energy at level n) × 100. It is typically ~10% but varies (5–20%) by organism type.
+- In **aquatic systems**, energy flow often passes rapidly through phytoplankton and zooplankton with the same 10% rule. High turnover masks low standing biomass.
 
 > **Exam note:** UPPCS 2025 Q5 — **Both** statements correct: (1) ~1% sunlight capture; (2) ~10% organic matter to next consumer level → **Answer C**. Trap: "Energy flow is cyclic like nutrients" = **FALSE**.
 
@@ -384,13 +384,13 @@ TRAPS: Energy cyclic? NO | Energy pyramid inverted? NO | Biomass/number can inve
 
 ### Exam Facts (raata)
 
-- Energy flow = **unidirectional** (Sun → producers → consumers → heat)
-- Nutrients = **cyclic**; energy = **not cyclic** — classic A/R trap pair
+- Energy flow is **unidirectional** (Sun to producers to consumers to heat).
+- Nutrients are **cyclic** and energy is **not cyclic**. This is a classic A/R trap pair.
 - **~1%** sunlight captured by terrestrial plant leaves
-- **~10%** energy transfer between trophic levels — **Lindeman 1942**
-- **~90%** lost at each step — mainly respiration/heat
+- **~10%** energy transfer between trophic levels (**Lindeman 1942**)
+- **~90%** lost at each step, mainly as respiration/heat
 - Short food chains = energy efficiency for human food systems
-- Lindeman ≠ Darwin; Lindeman ≠ Tansley
+- Lindeman is not Darwin and Lindeman is not Tansley.
 
 ### PYQs — Energy Flow
 
@@ -432,16 +432,16 @@ TRAPS: Energy cyclic? NO | Energy pyramid inverted? NO | Biomass/number can inve
 
 ### Ecological Pyramids — How It Works
 
-- An **ecological pyramid** is a **diagram** showing trophic structure — broader base (producers) tapering to narrow top (top carnivores).
-- Three types exist: **pyramid of energy**, **pyramid of biomass**, and **pyramid of numbers** — each measures a different property.
-- **Pyramid of energy** plots **energy flow** (kcal/m²/yr) at each trophic level — always **upright** because energy is lost at every transfer and cannot increase upward.
-- **Pyramid of biomass** plots **dry weight** (g/m²) of organisms at each level — usually upright on land (tree forest: massive producer biomass at base).
-- **Pyramid of biomass can be inverted** in **open water ecosystems** — phytoplankton (T1) reproduce so fast that at any instant their **standing biomass** may be less than zooplankton (T2), even though energy flow is still upright.
-- **Pyramid of numbers** counts **individual organisms** at each level — usually upright (many grass plants → few hawks).
-- **Pyramid of numbers can be inverted** in **parasitic food chains** — one large tree (1 individual, T1) supports millions of insects (T2) and even more parasites (T3).
-- **Pyramid of energy is the best** representation of ecosystem function — shows actual energy availability; never inverted.
-- **Decomposers** are usually **not shown** in standard pyramid diagrams — they operate on all levels simultaneously; nutrients they release re-enter producers.
-- **Biomagnification** (DDT, mercury) causes toxin concentration to **increase up the pyramid** even as energy decreases — pollution topic overlap, but pyramid shape explains why top predators suffer most.
+- An **ecological pyramid** is a **diagram** showing trophic structure. It has a broader base (producers) tapering to a narrow top (top carnivores).
+- Three types exist: **pyramid of energy**, **pyramid of biomass**, and **pyramid of numbers**. Each measures a different property.
+- **Pyramid of energy** plots **energy flow** (kcal/m²/yr) at each trophic level. It is always **upright** because energy is lost at every transfer and cannot increase upward.
+- **Pyramid of biomass** plots **dry weight** (g/m²) of organisms at each level. It is usually upright on land (tree forest: massive producer biomass at base).
+- **Pyramid of biomass can be inverted** in **open water ecosystems**. Phytoplankton (T1) reproduce so fast that at any instant their **standing biomass** may be less than zooplankton (T2), even though energy flow is still upright.
+- **Pyramid of numbers** counts **individual organisms** at each level. It is usually upright (many grass plants, few hawks).
+- **Pyramid of numbers can be inverted** in **parasitic food chains**. One large tree (1 individual, T1) supports millions of insects (T2) and even more parasites (T3).
+- **Pyramid of energy is the best** representation of ecosystem function. It shows actual energy availability and is never inverted.
+- **Decomposers** are usually **not shown** in standard pyramid diagrams. They operate on all levels simultaneously and the nutrients they release re-enter producers.
+- **Biomagnification** (DDT, mercury) causes toxin concentration to **increase up the pyramid** even as energy decreases. This overlaps with pollution topics, but pyramid shape explains why top predators suffer most.
 
 > **Exam note:** Only **energy pyramid** is **always upright**. Biomass and number pyramids **can be inverted** — know the specific cases (sea biomass; tree-parasite numbers). Trap: "All ecological pyramids are always upright" = **FALSE**.
 
@@ -465,12 +465,12 @@ TRAPS: Energy cyclic? NO | Energy pyramid inverted? NO | Biomass/number can inve
 ### Exam Facts (raata)
 
 - Three pyramids: **energy**, **biomass**, **numbers**
-- **Energy pyramid — always upright** — most reliable for ecosystem analysis
-- **Biomass pyramid — inverted in sea** (phytoplankton vs zooplankton standing crop)
-- **Number pyramid — inverted in parasitism** (one tree, many insects)
-- Units: energy = kcal/m²/yr; biomass = g/m²; numbers = count
+- The **energy pyramid is always upright** and is the most reliable for ecosystem analysis.
+- The **biomass pyramid is inverted in the sea** (phytoplankton vs zooplankton standing crop).
+- The **number pyramid is inverted in parasitism** (one tree, many insects).
+- Energy pyramid units are kcal/m²/yr. Biomass pyramid units are g/m². Number pyramid uses individual count.
 - Decomposers typically **omitted** from standard pyramid diagrams
-- Elton (1927) — early pyramid concept; Lindeman (1942) — energy quantification
+- **Elton (1927)** introduced the early pyramid concept. **Lindeman (1942)** quantified energy transfer.
 
 ### PYQs — Ecological Pyramids
 

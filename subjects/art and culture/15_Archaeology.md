@@ -88,8 +88,8 @@ ANCIENT SITES BY PERIOD:
 
 ### Archaeology — How It Works
 
-- **Archaeology** answers *"what did people leave behind?"* — history answers *"what did people write?"* — both together build India's cultural past.
-- **Core principle — stratigraphy (law of superposition)**: In undisturbed soil, **lower layers are older**; upper layers are younger — excavation trenches read time like pages of a book.
+- **Archaeology** answers *"what did people leave behind?"* **History** answers *"what did people write?"* Both together build India's cultural past.
+- **Core principle: stratigraphy (law of superposition)**: In undisturbed soil, **lower layers are older** and upper layers are younger. Excavation trenches read time like pages of a book.
 - **Typology**: Artefacts (pottery shapes, seal styles, coin dies) compared across sites to establish **relative chronology** before absolute dates exist.
 - **Scientific dating methods**:
 
@@ -102,16 +102,16 @@ ANCIENT SITES BY PERIOD:
   | **Numismatics** | Coin hoards | Mauryan-Gupta chronology anchor |
 
 - **Sub-branches tested in exams**:
-  - **Field archaeology** — survey, excavation, recording.
-  - **Epigraphy** — reading inscriptions (Ashokan Brahmi, copper plates).
-  - **Numismatics** — punch-marked coins to Gupta dinaras.
-  - **Paleontology/paleoanthropology** — human evolution (Narmada hominid fossil context).
-  - **Underwater/marine archaeology** — Dwarka coast, ancient port studies.
+  - **Field archaeology**. Survey, excavation, recording.
+  - **Epigraphy**. Reading inscriptions (Ashokan Brahmi, copper plates).
+  - **Numismatics**. Punch-marked coins to Gupta dinaras.
+  - **Paleontology/paleoanthropology**. Human evolution (Narmada hominid fossil context).
+  - **Underwater/marine archaeology**. Dwarka coast, ancient port studies.
 
 - **Institutional framework in India**:
-  - **ASI (1861)** — apex body for archaeological exploration, excavation, monument protection — **Alexander Cunningham** first DG (Topic 1 has full ASI institutional detail).
-  - **State archaeology departments** — e.g., UP State Archaeology Department.
-  - **Universities/institutes** — Deccan College Pune, IIT Gandhinagar (archaeological sciences), National Museum conservation lab.
+  - **ASI (1861)**. Apex body for archaeological exploration, excavation, monument protection. **Alexander Cunningham** first DG (Topic 1 has full ASI institutional detail).
+  - **State archaeology departments**. E.g., UP State Archaeology Department.
+  - **Universities/institutes**. Deccan College Pune, IIT Gandhinagar (archaeological sciences), National Museum conservation lab.
 
 - **Archaeological sources vs literary sources**:
 
@@ -121,9 +121,9 @@ ANCIENT SITES BY PERIOD:
   | Unbiased by author's intent | Shaped by patron/politics |
   | Essential for IVC (no script fully deciphered) | Essential for Maurya-Gupta polity detail |
 
-- **Ethics and law**: **Antiquities and Art Treasures Act 1972** — regulates export; illegal digging is criminal; **AMASR Act 1958** protects notified sites from construction damage.
+- **Ethics and law**: **Antiquities and Art Treasures Act 1972**. It regulates export. Illegal digging is criminal. **AMASR Act 1958** protects notified sites from construction damage.
 
-- **Modern technology**: **Ground-penetrating radar (GPR)**, **LiDAR** (e.g., hidden structures near temples), **3D photogrammetry** — non-destructive survey before digging.
+- **Modern technology**: **Ground-penetrating radar (GPR)**, **LiDAR** (e.g., hidden structures near temples), **3D photogrammetry**. Non-destructive survey before digging.
 
 > **Exam note:** **Archaeology ≠ only digging** — stratigraphy + dating science are tested. **C-14 dates organic matter only** — statement "C-14 dates Harappan stone seals directly" = FALSE.
 
@@ -131,8 +131,8 @@ ANCIENT SITES BY PERIOD:
 
 - Archaeology = material remains + scientific analysis
 - Stratigraphy: lower layer = older (law of superposition)
-- C-14 for organic material; TL for fired pottery/brick
-- ASI established 1861; Cunningham first DG
+- C-14 for organic material. TL for fired pottery/brick.
+- ASI established 1861. Cunningham first DG.
 - Sub-branches: field, epigraphy, numismatics
 - Antiquities Act 1972 controls artefact export
 - IVC understood mainly through archaeology (script undeciphered)
@@ -175,7 +175,7 @@ ANCIENT SITES BY PERIOD:
 
 ### Archaeological Discoveries — How It Works
 
-- **Discovery precedes excavation** — a seal, mound, or traveller's account must be **recognised as ancient** before systematic digging begins.
+- **Discovery precedes excavation**. A seal, mound, or traveller's account must be **recognised as ancient** before systematic digging begins.
 - **Harappan/IVC discovery timeline (most tested)**:
 
   | Year | Person | Discovery |
@@ -190,50 +190,50 @@ ANCIENT SITES BY PERIOD:
   | **1989–1990s** | **R. S. Bisht** | **Dholavira** comprehensive excavation |
   | **2021** | ASI/State | **Dholavira** inscribed UNESCO WHS |
 
-- **Trap — excavator matching**: **Sahni = Harappa (1921)** | **Banerji = Mohenjo-daro (1922)** — students swap these constantly.
+- **Trap: excavator matching**: **Sahni = Harappa (1921)** | **Banerji = Mohenjo-daro (1922)**. Students swap these constantly.
 
 - **Pre-Harappan discoveries**:
-  - **Mehrgarh (Balochistan)** — Neolithic-Chalcolithic farming from c. 7000 BCE; discovered French-Pakistani team 1974 — **earliest agricultural evidence** in subcontinent region.
-  - **Bhimbetka rock shelters (Madhya Pradesh)** — prehistoric paintings; V. S. Wakankar 1957–58.
+  - **Mehrgarh (Balochistan)** Neolithic-Chalcolithic farming from c. 7000 BCE. Discovered French-Pakistani team 1974.
+  - **Bhimbetka rock shelters (Madhya Pradesh)** were explored from **1957** onward by V. S. Wakankar, revealing prehistoric paintings.
 
 - **Mauryan discoveries**:
-  - **Sarnath lion capital** — excavated by **Alexander Cunningham** (1835–36 context); now **National Emblem of India**.
-  - **Ashokan pillars/edicts** — across India (Delhi-Meerut, Lauriya, Sanchi) — gave **Brahmi script** key to decipherment.
+  - The **Sarnath lion capital** was excavated in **1835** by **Alexander Cunningham** (1835–36 context). It is now the **National Emblem of India**.
+  - **Ashokan pillars/edicts** across India (Delhi-Meerut, Lauriya, Sanchi) gave the **Brahmi script** key to decipherment.
 
 - **Buddhist site discoveries**:
-  - **Ajanta caves** — rediscovered 1819 by **John Smith** (British officer) — Ajanta paintings known to world thereafter.
-  - **Sanchi stupa** — systematic study/excavation Cunningham-Marshall era.
-  - **Nalanda ruins** — identified by **Francis Buchanan-Hamilton** (1812); major ASI excavation **1915 onward** under **Rakhal Das Banerji** and later.
+  - **Ajanta caves** were rediscovered in **1819** by **John Smith**, a British officer, bringing Ajanta paintings to world attention.
+  - **Sanchi stupa**. Systematic study/excavation Cunningham-Marshall era.
+  - **Nalanda ruins** were identified by **Francis Buchanan-Hamilton** (1812). Major ASI excavation followed **1915 onward** under **Rakhal Das Banerji** and later.
 
 - **Medieval discoveries**:
-  - **Fatehpur Sikri** — documented by ASI after abandonment; Akbar-period urban archaeology.
-  - **Hampi (Vijayanagara)** — extensive survey by **Alexander Rea**, **Robert Sewell** chronicles; ASI conservation.
+  - **Fatehpur Sikri**. Documented by ASI after abandonment. Akbar-period urban archaeology.
+  - **Hampi (Vijayanagara)**. Extensive survey by **Alexander Rea**, **Robert Sewell** chronicles. ASI conservation.
 
 - **Post-Independence landmark discoveries**:
-  - **B. B. Lal** — **Hastinapur, Mathura, Ahichhatra** — Mahabharata-period archaeology debate.
-  - **B. B. Lal** — **Kalibangan** (Rajasthan) Harappan fire altars.
-  - **S. R. Rao** — **Dwarka** underwater archaeology (1980s).
-  - **Rakhigarhi (Haryana)** — ongoing DNA/aDNA studies; confirmed among **largest IVC sites**.
+  - **B. B. Lal** includes **Hastinapur, Mathura, Ahichhatra**. Mahabharata-period archaeology debate.
+  - **B. B. Lal** includes **Kalibangan** (Rajasthan) Harappan fire altars.
+  - **S. R. Rao** includes **Dwarka** underwater archaeology (1980s).
+  - **Rakhigarhi (Haryana)**. Ongoing DNA/aDNA studies. Confirmed among **largest IVC sites**.
 
 - **Recent discoveries (exam awareness)**:
-  - **Keeladi (Tamil Nadu)** — Sangam-era urban site; state archaeology 2014 onward.
-  - **Sanauli (UP, Baghpat)** — 2018 chariot burials; **Ochre Coloured Pottery (OCP)**/Chalcolithic context — **UP-specific discovery**.
+  - **Keeladi (Tamil Nadu)** was excavated from **2014** onward as a Sangam-era urban site by state archaeology teams.
+  - **Sanauli (UP, Baghpat)** was excavated from **2018**, revealing chariot burials in an **Ochre Coloured Pottery (OCP)**/Chalcolithic context. This is a **UP-specific discovery**.
 
 > **Exam note:** **Sahni-Harappa-1921 / Banerji-Mohenjo-daro-1922** — highest-frequency matching trap. **Cunningham 1853 = seal notice**, not full excavation.
 
 ### Exam Facts (raata)
 
-- Cunningham 1853 — first Harappan seal noticed
-- Sahni 1921 — Harappa excavation
-- Banerji 1922 — Mohenjo-daro excavation
-- Marshall 1924 — announced IVC; 1931 large digs
-- Wheeler 1946 — scientific Harappa excavation
-- Mehrgarh — earliest farming evidence (pre-Harappan)
+- **Cunningham (1853)** noticed the first Harappan seal.
+- **Sahni (1921)** excavated Harappa.
+- **Banerji (1922)** excavated Mohenjo-daro.
+- **Marshall (1924)** announced the IVC. Large digs continued through **1931**.
+- **Wheeler 1946**. Scientific Harappa excavation.
+- **Mehrgarh**. Earliest farming evidence (pre-Harappan).
 - Ajanta rediscovered 1819 (John Smith)
-- Sarnath lion capital — Cunningham era
+- **Sarnath lion capital**. Cunningham era.
 - Nalanda ASI excavation from 1915
-- Sanauli 2018 UP — chariot burial discovery
-- Dholavira — Bisht excavation; WHS 2021
+- **Sanauli 2018 UP**. Chariot burial discovery.
+- **Dholavira** was inscribed as UNESCO WHS in **2021** after Bisht's excavations. Bisht excavation. WHS.
 
 ### PYQs — Archaeological Discoveries
 
@@ -271,7 +271,7 @@ ANCIENT SITES BY PERIOD:
 
 ### Excavations — How It Works
 
-- **Why excavate?** To recover **structures, artefacts, plant/animal remains** in their **original context** — a pot found in a grave vs a kitchen tells different stories.
+- **Why excavate?** To recover **structures, artefacts, plant/animal remains** in their **original context**. A pot found in a grave vs a kitchen tells different stories.
 - **Two main excavation strategies**:
 
   | Type | Purpose | Example use |
@@ -280,7 +280,7 @@ ANCIENT SITES BY PERIOD:
   | **Horizontal (areal)** | Map **layout of one period** at single level | Mohenjo-daro street plan exposure |
 
 - **Wheeler's box-grid method (1946 onward)**:
-  - Site divided into **grid squares**; each layer drawn, photographed, measured.
+  - Site divided into **grid squares**. Each layer drawn, photographed, measured.
   - **Balks** (earth walls) left between squares to read stratigraphy.
   - Introduced **scientific rigour** after Marshall's broader clearance style.
 
@@ -305,17 +305,17 @@ ANCIENT SITES BY PERIOD:
   | **ASI ongoing** | Rakhigarhi, Sarnath, Nalanda | Largest IVC; Buddhist; university ruins |
 
 - **Underwater/marine excavation**:
-  - **Dwarka** (Gujarat coast) — S. R. Rao searched for submerged structures linked to literary Dwarka.
-  - **Poompuhar** (Tamil Nadu) — Sangam port archaeology.
+  - **Dwarka** (Gujarat coast). S. R. Rao searched for submerged structures linked to literary Dwarka.
+  - **Poompuhar** (Tamil Nadu). Sangam port archaeology.
 
-- **Rescue archaeology**: Before highways/dams (Narmada valley projects), **salvage excavation** records sites about to be destroyed — **Mandu, Bhimbetka** corridor examples.
+- **Rescue archaeology**: Before highways/dams (Narmada valley projects), **salvage excavation** records sites about to be destroyed. **Mandu, Bhimbetka** corridor examples.
 
 - **Challenges in Indian excavation**:
-  - **High water table** (Mohenjo-daro, Gangetic plains) — brick decay.
+  - **High water table** (Mohenjo-daro, Gangetic plains). Brick decay.
   - **Encroachment** on mounds (Rakhigarhi, Hastinapur villages on site).
-  - **Illicit digging** — destroys stratigraphy forever.
+  - **Illicit digging**. Destroys stratigraphy forever.
 
-- **Trap — excavation destroys context if unscientific**: Haphazard treasure hunting removes artefacts but **destroys stratigraphic proof** — worthless to archaeology.
+- **Trap: excavation destroys context if unscientific**: **Haphazard treasure hunting removes artefacts but destroys stratigraphic proof**. Worthless to archaeology.
 
 > **Exam note:** **Vertical = time | Horizontal = space** — favourite UPPCS distinction. **Wheeler = grid stratigraphy**, not first IVC excavator.
 
@@ -323,12 +323,12 @@ ANCIENT SITES BY PERIOD:
 
 - Vertical excavation = chronological layers
 - Horizontal excavation = single-period plan
-- Wheeler 1946 — box-grid scientific method
+- **Wheeler 1946**. Box-grid scientific method.
 - Balks left between grid squares for stratigraphy reading
 - ASI licence required under AMASR Act 1958
-- BB Lal — Kalibangan, Hastinapur
-- SR Rao — Lothal, Dwarka underwater
-- RS Bisht — Dholavira
+- **BB Lal**. Kalibangan, Hastinapur.
+- **SR Rao**. Lothal, Dwarka underwater.
+- **RS Bisht**. Dholavira.
 - Rescue/salvage excavation before dams/highways
 - Context (layer + location) = artefact meaning
 
@@ -366,7 +366,7 @@ ANCIENT SITES BY PERIOD:
 
 ### Ancient Sites — How It Works
 
-- **Ancient sites** are classified by **period** and **cultural affiliation** — exams mix sites across periods to test precision.
+- **Ancient sites** are classified by **period** and **cultural affiliation**. Exams mix sites across periods to test precision.
 - **Prehistoric sites (Palaeolithic–Mesolithic–Neolithic)**:
 
   | Site | State | Note |
@@ -377,7 +377,7 @@ ANCIENT SITES BY PERIOD:
   | **Mehrgarh** | Pakistan (Balochistan) | Neolithic farming precursor to IVC |
   | **Burzahom** | Jammu & Kashmir | Pit-dwellings; Neolithic |
 
-- **Indus Valley Civilisation (Harappan) sites — complete exam list**:
+- **Indus Valley Civilisation (Harappan) sites: complete exam list**:
 
   | Site | Present location | Speciality |
   |------|------------------|------------|
@@ -396,11 +396,11 @@ ANCIENT SITES BY PERIOD:
   | **Hulas** | **Uttar Pradesh** (Saharanpur) | IVC site |
   | **Santhali** | **Uttar Pradesh** (Bijnor) | IVC site |
 
-- **UPPCS 2025 Q87 trap — UP IVC sites**:
+- **UPPCS 2025 Q87 trap: UP IVC sites**:
   - **Mandi** = **UP** ✓
   - **Hulas** = **UP** ✓
   - **Rakhigarhi** = **Haryana** ✗ (largest IVC but NOT in UP)
-  - Answer: **C — 1 and 3 only**
+  - Answer: **C and 1 and 3 only**.
 
 - **Chalcolithic (post-Harappan) sites**:
 
@@ -453,32 +453,32 @@ ANCIENT SITES BY PERIOD:
   | **Daulatabad** | Maharashtra | Fort capital |
 
 - **Site identification tricks (period)**:
-  - **Dockyard** → **Lothal** (NOT Dholavira)
-  - **Great Bath** → **Mohenjo-daro**
-  - **Fire altars + ploughed field** → **Kalibangan**
-  - **Lion capital** → **Sarnath**
-  - **Chariot burial 2018** → **Sanauli (UP)**
-  - **Easternmost IVC** → **Alamgirpur (UP)**
-  - **Largest IVC in India** → **Rakhigarhi (Haryana)**
+  - **Dockyard** leads to **Lothal** (NOT Dholavira)**.
+  - **Great Bath** leads to **Mohenjo-daro**.
+  - **Fire altars + ploughed field** leads to **Kalibangan**.
+  - **Lion capital** leads to **Sarnath**.
+  - **Chariot burial 2018** leads to **Sanauli (UP)**.
+  - **Easternmost IVC** leads to **Alamgirpur (UP)**.
+  - **Largest IVC in India** leads to **Rakhigarhi (Haryana)**.
 
 - **Negative geography (NOT traps)**:
-  - **Rakhigarhi NOT in UP** — Haryana
-  - **Mohenjo-daro NOT in India** — Pakistan
-  - **Dholavira NOT in Rajasthan** — Gujarat
-  - **Lothal NOT in Maharashtra** — Gujarat
-  - **Bhimbetka NOT Harappan** — prehistoric
+  - **Rakhigarhi NOT in UP**. Haryana.
+  - **Mohenjo-daro NOT in India**. Pakistan.
+  - **Dholavira NOT in Rajasthan**. Gujarat.
+  - **Lothal NOT in Maharashtra**. Gujarat.
+  - **Bhimbetka NOT Harappan**. Prehistoric.
 
 > **Exam note:** **UPPCS 2025 Q87** — Mandi + Hulas only. **Rakhigarhi = Haryana** is the single wrong pair in most UP geography MCQs.
 
 ### Exam Facts (raata)
 
-- IVC: Harappa, Mohenjo-daro (Pakistan); Dholavira, Lothal (Gujarat)
-- Rakhigarhi = Haryana = largest IVC; NOT UP
+- IVC: Harappa, Mohenjo-daro (Pakistan) and Dholavira, Lothal (Gujarat).
+- Rakhigarhi = Haryana = largest IVC. NOT UP.
 - UP IVC: Alamgirpur (easternmost), Mandi, Hulas, Santhali
-- Kalibangan = fire altars; Lothal = dockyard
+- Kalibangan = fire altars. Lothal = dockyard.
 - Sanauli UP 2018 = chariot burial
 - Hastinapur, Kaushambi, Sarnath, Shravasti = UP early historic
-- Nalanda = Bihar; Ajanta/Ellora = Maharashtra
+- Nalanda = Bihar. Ajanta/Ellora = Maharashtra.
 - Fatehpur Sikri, Hampi = medieval archaeological capitals
 - Bhimbetka = prehistoric rock art WHS
 

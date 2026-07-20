@@ -112,16 +112,16 @@ UP FOCUS:
 
 ### Post-Gupta Age — How It Works
 
-- **Gupta empire weakened** in 6th century CE — **Hun invasions** (Toramana, Mihirakula) and internal feudatory revolts broke central control.
-- **Last great Gupta rulers** (Budhagupta, Vishnugupta) could not hold full empire — **regional kingdoms** emerged independently.
+- **Gupta empire weakened** in the 6th century CE. **Hun invasions** by Toramana and Mihirakula and internal feudatory revolts broke central control.
+- **Last great Gupta rulers** such as Budhagupta and Vishnugupta could not hold the full empire. **Regional kingdoms** emerged independently.
 - **North India fragmented** into: **Maukharis (Kannauj)**, **Pushyabhutis (Thanesar)**, **Maitrakas (Valabhi, Gujarat)**, **Gaudas (Bengal)**, later **Chalukyas (Deccan)**.
 - **No pan-Indian empire** existed between Gupta collapse and **Harshavardhana's rise (~606 CE)**.
-- **Economic continuity** — guild trade, Buddhist monasteries (Nalanda peak), land-grant economy continued from Gupta era.
-- **Cultural transition** — Gupta art/literature traditions persisted; **Bana's prose kavya** and **Hiuen Tsang's records** mark literary high point of post-Gupta phase.
-- **Religious landscape** — Buddhism still patronized by rulers; Hindu Puranic traditions expanding; Jainism active in west/south.
-- **Political cause of Harsha's rise** — assassination of **Rajyavardhana** by **Shashanka (Gauda)** created vacuum Harsha filled through military revenge and Kannauj annexation.
-- **Harsha's death (647 CE)** ended last ancient pan-north-Indian empire — **immediate fragmentation** followed; no successor unified Kannauj empire.
-- **Historical significance** — bridge between **Gupta golden age** and **medieval regional kingdoms** (Pratiharas, Palas, Rashtrakutas later fought over Kannauj).
+- **Economic continuity** remained visible because guild trade, Buddhist monasteries such as Nalanda, and the land-grant economy continued from the Gupta era.
+- **Cultural transition** preserved Gupta art and literary traditions. **Bana's prose kavya** and **Hiuen Tsang's records** mark the literary high point of the post-Gupta phase.
+- **Religious landscape** remained plural. Rulers still patronized Buddhism, Hindu Puranic traditions expanded, and Jainism stayed active in the west and south.
+- **Political cause of Harsha's rise** was the assassination of **Rajyavardhana** by **Shashanka (Gauda)**. This created a vacuum that Harsha filled through military revenge and Kannauj annexation.
+- **Harsha's death (647 CE)** ended the last ancient pan-north-Indian empire. **Immediate fragmentation** followed because no successor unified the Kannauj empire.
+- **Historical significance** lies in the period's role as a bridge between the **Gupta golden age** and **medieval regional kingdoms**. The Pratiharas, Palas, and Rashtrakutas later fought over Kannauj.
 
 ### Post-Gupta Regional Kingdoms — Table
 
@@ -141,8 +141,8 @@ UP FOCUS:
 - Hun invasions weakened Guptas
 - Regional kingdoms: Maukhari, Pushyabhuti, Maitraka, Gauda
 - Harsha reunified north India ~606 CE
-- Harsha died 647 CE — empire ended
-- Bridge Gupta age → medieval regional states
+- Harsha died in 647 CE, and his empire ended.
+- The period connected the Gupta age with medieval regional states.
 - Nalanda flourished in post-Gupta period
 - Land-grant economy continued
 
@@ -177,15 +177,15 @@ UP FOCUS:
 ### Harshavardhana — How It Works
 
 - **Harshavardhana** belonged to **Pushyabhuti dynasty** of **Thanesar** (modern Haryana, near Kurukshetra).
-- **Father Prabhakaravardhana** and mother **Yasomati** — Prabhakaravardhana assumed imperial titles before death.
-- **606 CE** — Harsha ascended after elder brother **Rajyavardhana** was treacherously killed by **Shashanka** (Gauda/Bengal king).
-- **Sister Rajyashri** — married **Grihavarman** (Maukhari king of Kannauj); after Grihavarman's death, Shashanka imprisoned her — Harsha rescued her.
-- **Military campaigns** — defeated Shashanka (partially; Shashanka's death later removed Bengal threat), conquered **Kannauj**, extended control over **Punjab, UP, Bihar, Bengal, Odisha, Gujarat** regions.
-- **Capital shift** — early rule from **Thanesar**; later **Kannauj** became principal imperial capital.
-- **Titles** — **Paramabhattaraka**, **Maharajadhiraja**, **Siladitya** (used in some records).
-- **Religious profile** — early Shiva devotee (Yasomati's influence); later strong **Buddhist patron** under Hiuen Tsang's influence; tolerant of multiple faiths.
-- **Death ~647 CE** — without heir; empire disintegrated; **Arunashva** (brief successor) could not hold unity.
-- **Historical assessment** — **last pan-north-Indian ruler of ancient period**; medieval tripartite struggle for Kannauj followed centuries later.
+- **Father Prabhakaravardhana** and mother **Yasomati** were Harsha's parents. Prabhakaravardhana assumed imperial titles before death.
+- **Harsha ascended in 606 CE** after his elder brother **Rajyavardhana** was treacherously killed by **Shashanka**, the Gauda or Bengal king.
+- **Sister Rajyashri** married **Grihavarman**, the Maukhari king of Kannauj. After Grihavarman's death, Shashanka imprisoned her, and Harsha rescued her.
+- **Military campaigns** partly defeated Shashanka, whose later death removed the Bengal threat. Harsha conquered **Kannauj** and extended control over **Punjab, UP, Bihar, Bengal, Odisha, Gujarat** regions.
+- **Capital shift** began with early rule from **Thanesar**. Later **Kannauj** became the principal imperial capital.
+- **Titles** included **Paramabhattaraka**, **Maharajadhiraja**, and **Siladitya**, which appears in some records.
+- **Religious profile** changed over time. Harsha was an early Shiva devotee under Yasomati's influence, later became a strong **Buddhist patron** under Hiuen Tsang's influence, and tolerated multiple faiths.
+- **Death ~647 CE** came without a stable heir. The empire disintegrated, and **Arunashva**, a brief successor, could not hold unity.
+- **Historical assessment** treats Harsha as the **last pan-north-Indian ruler of the ancient period**. The medieval tripartite struggle for Kannauj followed centuries later.
 
 ### Harsha Family & Succession — Table
 
@@ -205,9 +205,9 @@ UP FOCUS:
 - Pushyabhuti dynasty, Thanesar
 - Ruled ~606–647 CE
 - Brother Rajyavardhana killed by Shashanka
-- Sister Rajyashri — Maukhari queen
+- Sister Rajyashri was a Maukhari queen.
 - United Thanesar + Kannauj
-- Capital: Thanesar → Kannauj
+- The capital shifted from Thanesar to Kannauj.
 - Last great ancient north Indian emperor
 - Died 647 CE without stable successor
 
@@ -242,17 +242,17 @@ UP FOCUS:
 
 ### Administration of Harsha — How It Works
 
-- Harsha's administration **inherited Gupta bureaucratic structure** — not as centralized as Mauryas but more organized than contemporary regional kings.
-- **King** remained supreme — personal supervision of major policy; Hiuen Tsang notes Harsha's **accessibility to officials** and subjects.
-- **Provincial governance** — empire divided into large units under **Uparikas** (governors) — feudatory kings also administered sub-regions.
-- **Mahasandhivigrahika** — handled diplomacy and military alliances (e.g., with Maitrakas of Valabhi against common enemies).
-- **Treasury (Bhandagaradhikarana)** — revenue from land tax, trade tolls, feudatory tribute; Harsha considered donating **entire revenue** for charity (per Bana).
-- **Feudatory system** — subordinate rulers (samanta-type) acknowledged Harsha's overlordship — **less direct control** than Mauryan rajukas.
-- **Land grants** — Brahmanical agrahara grants continued — local autonomy in granted villages.
-- **Judicial administration** — king as highest court; Hiuen Tsang praised **relative fairness** and road safety in Harsha's realm.
-- **Army organization** — large standing force with war elephants (Hiuen Tsang mentions **30,000+ elephants** in imperial array — likely exaggeration but indicates military might).
-- **Local administration** — village headmen (gramika-type officials) managed rural affairs under higher officials.
-- **Administrative weakness** — empire depended heavily on **Harsha's personal charisma** — collapsed quickly after his death showing **institutional fragility**.
+- Harsha's administration **inherited Gupta bureaucratic structure**. It was not as centralized as Mauryan administration but was more organized than contemporary regional kingdoms.
+- **King** remained supreme and personally supervised major policy. Hiuen Tsang notes Harsha's **accessibility to officials** and subjects.
+- **Provincial governance** divided the empire into large units under **Uparikas** (governors). Feudatory kings also administered sub-regions.
+- **Mahasandhivigrahika** handled diplomacy and military alliances, including alliances with the Maitrakas of Valabhi against common enemies.
+- **Treasury (Bhandagaradhikarana)** drew revenue from land tax, trade tolls, and feudatory tribute. According to Bana, Harsha considered donating the **entire revenue** for charity.
+- **Feudatory system** required subordinate rulers of the samanta type to acknowledge Harsha's overlordship. This gave Harsha **less direct control** than Mauryan rajukas had.
+- **Land grants** continued as Brahmanical agrahara grants, and they increased local autonomy in granted villages.
+- **Judicial administration** placed the king as the highest court. Hiuen Tsang praised **relative fairness** and road safety in Harsha's realm.
+- **Army organization** included a large standing force with war elephants. Hiuen Tsang mentions **30,000+ elephants** in the imperial array, which is likely an exaggeration but indicates military might.
+- **Local administration** used village headmen or gramika-type officials to manage rural affairs under higher officials.
+- **Administrative weakness** came from the empire's heavy dependence on **Harsha's personal charisma**. It collapsed quickly after his death and showed **institutional fragility**.
 
 ### Harsha's Key Officials — Table
 
@@ -275,7 +275,7 @@ UP FOCUS:
 - Treasury = Bhandagaradhikarana
 - Land grants to Brahmans continued
 - Hiuen Tsang praised road safety
-- Empire collapsed after Harsha's death — personal rule weakness
+- The empire collapsed after Harsha's death because personal rule remained a weakness.
 
 ### PYQs — Administration of Harsha
 
@@ -307,17 +307,17 @@ UP FOCUS:
 
 ### Policies of Harshavardhana — How It Works
 
-- **Expansionist policy** — Harsha undertook **digvijaya** to avenge family enemies and build empire after 606 CE.
-- **Shashanka campaign** — primary early goal; weakened Gauda power in Bengal/eastern regions (Shashanka died ~637 CE).
-- **Western campaigns** — extended influence into **Punjab, Rajasthan, Gujarat** (allied with Maitrakas through marriage diplomacy).
-- **Southern limit** — attempted Deccan expansion but **Pulakeshin II (Chalukya)** defeated him **~630 CE** near **Narmada**.
-- **Aihole inscription** — Pulakeshin boasted Harsha "descended from Himalayas like Ganga but was driven back" — **Narmada became effective southern boundary**.
-- **Buddhist patronage** — built stupas/viharas; convened **Kannauj religious assembly (643 CE)** — scholars of Mahayana, Hinayana, Hinduism, Jainism invited (per Chinese account).
-- **Charity policy** — distributed wealth every 5 years at **Prayag** assemblies; Hiuen Tsang witnessed massive alms-giving.
-- **Tax relief** — remitted taxes during drought/famine — populist welfare measure noted by Bana and Hiuen Tsang.
-- **Diplomatic marriages** — sister **Rajyasri** married **Dhruvasena II (Maitraka)** to secure western alliance.
-- **Religious tolerance** — though Buddhist patron, did not suppress Hindu/Jain worship; personal shift from Shaivism to Buddhism over reign.
-- **Policy failure** — could not permanently conquer Deccan or Bengal fully — empire remained **north-centric** with porous southern/eastern frontiers.
+- **Expansionist policy** guided Harsha's **digvijaya** to avenge family enemies and build an empire after 606 CE.
+- **Shashanka campaign** was Harsha's primary early goal. It weakened Gauda power in Bengal and eastern regions, and Shashanka died around 637 CE.
+- **Western campaigns** extended Harsha's influence into **Punjab, Rajasthan, and Gujarat**. He allied with the Maitrakas through marriage diplomacy.
+- **Southern limit** emerged when Harsha attempted Deccan expansion, but **Pulakeshin II (Chalukya)** defeated him around **630 CE** near the **Narmada**.
+- **Aihole inscription** records Pulakeshin's boast that Harsha "descended from Himalayas like Ganga but was driven back." **Narmada became effective southern boundary**.
+- **Buddhist patronage** included building stupas and viharas. Harsha also convened the **Kannauj religious assembly (643 CE)**, where scholars of Mahayana, Hinayana, Hinduism, and Jainism were invited according to the Chinese account.
+- **Charity policy** distributed wealth every five years at **Prayag** assemblies. Hiuen Tsang witnessed this massive alms-giving.
+- **Tax relief** remitted taxes during drought and famine. Bana and Hiuen Tsang noted this populist welfare measure.
+- **Diplomatic marriages** supported Harsha's policy. His sister **Rajyasri** married **Dhruvasena II (Maitraka)** to secure the western alliance.
+- **Religious tolerance** remained part of Harsha's rule. Although he became a Buddhist patron, he did not suppress Hindu or Jain worship, and his personal faith shifted from Shaivism toward Buddhism over the reign.
+- **Policy failure** appeared because Harsha could not permanently conquer the Deccan or fully control Bengal. The empire remained **north-centric** with porous southern and eastern frontiers.
 
 ### Harsha's Military High & Low Points
 
@@ -371,15 +371,15 @@ UP FOCUS:
 ### Banabhatta — How It Works
 
 - **Banabhatta** (c. 7th century CE) was **Harsha's court poet** (Asthana kavi) and **Brahmin scholar**.
-- Born in **Pritikuta** village near **Shravasti** (Uttar Pradesh) — family had Vedic scholarly tradition.
-- Father **Chitrabhanu** and mother **Rajadevi** — Bana initially lived as wandering scholar before Harsha's patronage.
-- **Harsha discovered Bana** through reputation — appointed him court poet; Bana became chief literary figure of reign.
-- **Literary pioneer** — developed **Sanskrit prose kavya** (ornate prose romance/biography) as major genre distinct from Gupta poetry.
+- Banabhatta was born in **Pritikuta** village near **Shravasti** in Uttar Pradesh. His family had a Vedic scholarly tradition.
+- Father **Chitrabhanu** and mother **Rajadevi** were Bana's parents. Bana initially lived as a wandering scholar before Harsha's patronage.
+- **Harsha discovered Bana** through his reputation and appointed him court poet. Bana became the chief literary figure of the reign.
+- **Literary pioneer** Bana developed **Sanskrit prose kavya** as a major genre distinct from Gupta poetry. This genre used ornate prose for romance and biography.
 - **Two major works**: ***Harshacharita*** (Harsha's biography) and ***Kadambari*** (romance novel).
-- **Historical value** — despite poetic exaggeration, *Harshacharita* provides **earliest detailed Sanskrit narrative** of Harsha's family, accession, and campaigns.
-- **Style** — long compound sentences, vivid imagery, embedded sub-stories — influenced later Sanskrit prose writers.
-- **Relationship with Harsha** — Bana portrays Harsha as ideal monarch; also records court life, ministers, and military events.
-- **Death** — Bana died before completing *Kadambari*; son **Bhushanabhatti** (or Pulinda) completed it per tradition.
+- **Historical value** remains high despite poetic exaggeration. *Harshacharita* provides the **earliest detailed Sanskrit narrative** of Harsha's family, accession, and campaigns.
+- **Style** used long compound sentences, vivid imagery, and embedded sub-stories. It influenced later Sanskrit prose writers.
+- **Relationship with Harsha** shaped Bana's portrayal of the king as an ideal monarch. Bana also records court life, ministers, and military events.
+- **Death** came before Bana completed *Kadambari*. His son **Bhushanabhatti** (or Pulinda) completed it according to tradition.
 
 > **Exam note:** Trap — "Kalidasa was Harsha's court poet" — FALSE. **Kalidasa = Gupta (Chandragupta II)**; **Bana = Harsha**.
 
@@ -430,16 +430,16 @@ UP FOCUS:
 
 ### Harshacharita — How It Works
 
-- ***Harshacharita*** (Deeds of Harsha) is **Banabhatta's biography-cum-kavya** of Harshavardhana — composed in **Sanskrit prose**.
-- Structured in **eight ucchvasas (kandas/chapters)** — only **first four** contain reliably historical narrative; later chapters incomplete or more fanciful.
-- **Book I (Ucchvasa 1)** — Bana's own autobiography and family background — rare author self-introduction in Sanskrit literature.
-- **Genealogy** — traces Pushyabhuti lineage from ancestors to Prabhakaravardhana.
-- **Rajyavardhana's death** — narrates Shashanka's treachery and Harsha's grief — key source for succession crisis.
-- **Harsha's accession** — describes military preparations and early conquests with poetic embellishment.
-- **Historical method** — mixes **fact + courtly exaggeration** — must be cross-checked with **Hiuen Tsang** and inscriptions.
-- ***Kadambari*** — Bana's other masterpiece; **romance story** of Kadambari and Chandrapida — **not historical text** but exam-distinguished from Harshacharita.
-- **Literary significance** — established **prose kavya** as prestigious genre; model for later biographical writings.
-- **Preservation** — complete enough to be **primary Sanskrit source** on Harsha where inscriptions are sparse.
+- ***Harshacharita*** (Deeds of Harsha) is **Banabhatta's biography-cum-kavya** of Harshavardhana. It was composed in **Sanskrit prose**.
+- *Harshacharita* is structured in **eight ucchvasas (kandas/chapters)**. Only the **first four** contain reliably historical narrative, while later chapters are incomplete or more fanciful.
+- **Book I (Ucchvasa 1)** contains Bana's own autobiography and family background. It is a rare author self-introduction in Sanskrit literature.
+- **Genealogy** traces the Pushyabhuti lineage from ancestors to Prabhakaravardhana.
+- **Rajyavardhana's death** appears through the narration of Shashanka's treachery and Harsha's grief. This makes the text a key source for the succession crisis.
+- **Harsha's accession** receives a description of military preparations and early conquests with poetic embellishment.
+- **Historical method** mixes **fact + courtly exaggeration**. It must be cross-checked with **Hiuen Tsang** and inscriptions.
+- ***Kadambari*** is Bana's other masterpiece. It is a **romance story** of Kadambari and Chandrapida, not a historical text, and exams distinguish it from Harshacharita.
+- **Literary significance** lies in establishing **prose kavya** as a prestigious genre. The work became a model for later biographical writings.
+- **Preservation** makes the text complete enough to serve as a **primary Sanskrit source** on Harsha where inscriptions are sparse.
 
 ### Harshacharita vs Other Sources — Table
 
@@ -456,7 +456,7 @@ UP FOCUS:
 
 - Written by Banabhatta
 - Sanskrit prose kavya (biography)
-- Eight ucchvasas — first four historically valuable
+- The work has eight ucchvasas, and the first four are historically valuable.
 - Opens with Bana's autobiography
 - Covers Rajyavardhana's death, Harsha's rise
 - Cross-check with Hiuen Tsang
@@ -494,16 +494,16 @@ UP FOCUS:
 ### Hiuen Tsang — How It Works
 
 - **Hiuen Tsang** (Chinese: **Xuanzang**, ~602–664 CE) was a **Buddhist monk-scholar** from Tang China.
-- Left China **629 CE** — traveled through Central Asia, reached **India 630 CE** (crossed Hindu Kush).
-- Studied at **Nalanda Mahavihara** under **Shilabhadra** — stayed ~15 years total in India subcontinent.
-- **Spent ~8 years in Harsha's dominions** — witnessed administration, assemblies, charity festivals.
-- **Met Harshavardhana** at **Kannauj** — became close; Harsha honored him with royal escort and resources.
-- **Kannauj assembly (643 CE)** — Hiuen Tsang recorded multi-religious debate convened by Harsha.
-- **Prayag assembly** — described Harsha's **quinquennial charity** — distributed enormous wealth to Buddhist monks, Brahmans, Jains.
-- ***Si-Yu-Ki* (Xiyu Ji)** — invaluable record of **Indian geography, monasteries, customs, politics** of 7th century.
-- **Returned to China 645 CE** — translated Buddhist texts; emperor Taizong patronized his translation project.
-- **Historical reliability** — generally accurate on institutions (Nalanda, Sarnath, Mathura); numbers sometimes exaggerated (army elephants, monastery students).
-- **Chronology trap** — Hiuen Tsang = **Harsha era**; **Fa-Hien = Gupta (~400 CE)**; **I-Tsing = post-Harsha (~675 CE)**; **Al-Biruni = medieval (11th c.)**.
+- Hiuen Tsang left China in **629 CE**, traveled through Central Asia, and reached **India in 630 CE** after crossing the Hindu Kush.
+- Hiuen Tsang studied at **Nalanda Mahavihara** under **Shilabhadra** and stayed about 15 years in the Indian subcontinent.
+- **Hiuen Tsang spent about 8 years in Harsha's dominions** and witnessed administration, assemblies, and charity festivals.
+- **Met Harshavardhana** at **Kannauj** and became close to him. Harsha honored him with a royal escort and resources.
+- **Kannauj assembly (643 CE)** was recorded by Hiuen Tsang as a multi-religious debate convened by Harsha.
+- **Prayag assembly** featured Harsha's **quinquennial charity**. Hiuen Tsang described the distribution of enormous wealth to Buddhist monks, Brahmans, and Jains.
+- ***Si-Yu-Ki* (Xiyu Ji)** is an invaluable record of **Indian geography, monasteries, customs, and politics** of the 7th century.
+- **Returned to China 645 CE** and translated Buddhist texts. Emperor Taizong patronized his translation project.
+- **Historical reliability** is generally strong on institutions such as Nalanda, Sarnath, and Mathura. His numbers are sometimes exaggerated, especially for army elephants and monastery students.
+- **Chronology trap**: Hiuen Tsang belongs to the **Harsha era**. **Fa-Hien** belongs to the Gupta period around 400 CE, **I-Tsing** to the post-Harsha period around 675 CE, and **Al-Biruni** to the medieval 11th century.
 
 ### Foreign Travellers Chronology — Table
 

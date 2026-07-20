@@ -145,16 +145,16 @@ KEY TRAPS:
 
 ### Desertification — How It Works
 
-- **Desertification** is **land degradation occurring specifically in dryland ecosystems** — classified as **arid** (<250 mm rainfall), **semi-arid** (250–500 mm), and **dry sub-humid** (500–1000 mm) zones — covering roughly **41% of Earth's land surface** and supporting **2 billion people**.
-- The process begins when **vegetation cover is removed or reduced** — through **overgrazing**, **deforestation**, **fuelwood collection**, or **unsustainable cropping** — exposing bare soil to **wind and water erosion**.
-- **Overgrazing** is the **single largest human cause** in drylands — too many livestock strip grasses; hooves compact soil; reduced infiltration → runoff increases → topsoil lost → land cannot recover even when rains return.
-- **Deforestation** in dry margins (Aravalli foothills, Bundelkhand scrub forest) removes root binding of soil — accelerates erosion and reduces local rainfall recycling through transpiration.
-- **Improper irrigation** in dry areas causes **secondary desertification** through **salinization** (salt accumulation as water evaporates) and **waterlogging** (rising water table drowns roots) — fertile irrigated land becomes uncultivable (common in parts of Punjab, Haryana, Rajasthan canal commands).
-- **Climate change and drought** amplify desertification — longer dry spells (Bundelkhand 2004–07, 2014–16 droughts) kill vegetation; intermittent intense rains on bare soil cause flash erosion; **feedback loop**: less vegetation → more erosion → less water retention → more drought stress.
-- **Wind erosion** dominates in **true arid zones** (Thar Desert) — sand dunes migrate, bury fields and roads; **fine topsoil (loess)** is blown away leaving coarse infertile material.
-- **Biological consequences**: loss of pasture → livestock starvation; crop failure → rural migration; **biodiversity collapse** in scrub/grassland; dust storms (UP/Rajasthan **aandhi**) increase respiratory illness and reduce visibility.
-- **Desertification is potentially reversible** in early stages through **afforestation, controlled grazing, water harvesting, and sustainable land management** — but **advanced desertification** (deep gullies, salinized crust, dune encroachment) may take decades or prove irreversible without massive investment.
-- **India's status**: ISRO **Desertification and Land Degradation Atlas (2016)** mapped **96.4 million hectares (~29.3% of India's geographical area)** under desertification/land degradation — **Rajasthan** worst affected state; **Delhi, Goa, Kerala, Assam** among least affected.
+- **Desertification** is **land degradation in dryland ecosystems**, classified as **arid** (<250 mm rainfall), **semi-arid** (250–500 mm), and **dry sub-humid** (500–1000 mm) zones. These drylands cover roughly **41% of Earth's land surface** and support **2 billion people**.
+- The process begins when **vegetation cover is removed or reduced** through **overgrazing**, **deforestation**, **fuelwood collection**, or **unsustainable cropping**, exposing bare soil to **wind and water erosion**.
+- **Overgrazing** is the **single largest human cause** in drylands. Too many livestock strip grasses, hooves compact soil, reduced infiltration increases runoff, topsoil is lost, and land cannot recover even when rains return.
+- **Deforestation** in dry margins (Aravalli foothills, Bundelkhand scrub forest) removes root binding of soil, which accelerates erosion and reduces local rainfall recycling through transpiration.
+- **Improper irrigation** in dry areas causes **secondary desertification** through **salinization** (salt accumulation as water evaporates) and **waterlogging** (rising water table drowns roots). Fertile irrigated land becomes uncultivable, common in parts of Punjab, Haryana, and Rajasthan canal commands.
+- **Climate change and drought** amplify desertification. Longer dry spells (Bundelkhand 2004–07, 2014–16 droughts) kill vegetation, and intermittent intense rains on bare soil cause flash erosion. A **feedback loop** follows: less vegetation leads to more erosion, less water retention, and more drought stress.
+- **Wind erosion** dominates in **true arid zones** (Thar Desert). Sand dunes migrate and bury fields and roads, while **fine topsoil (loess)** is blown away leaving coarse infertile material.
+- **Biological consequences** include loss of pasture and livestock starvation, crop failure and rural migration, **biodiversity collapse** in scrub/grassland, and dust storms (UP/Rajasthan **aandhi**) that increase respiratory illness and reduce visibility.
+- **Desertification is potentially reversible** in early stages through **afforestation, controlled grazing, water harvesting, and sustainable land management**, but **advanced desertification** (deep gullies, salinized crust, dune encroachment) may take decades or prove irreversible without massive investment.
+- **India's status**: ISRO's **Desertification and Land Degradation Atlas (2016)** mapped **96.4 million hectares (~29.3% of India's geographical area)** under desertification/land degradation. **Rajasthan** is the worst affected state, while **Delhi, Goa, Kerala, and Assam** are among the least affected.
 
 > **Exam note:** Statement "desertification means existing deserts like Thar are expanding only" = **FALSE**. UN definition covers **all ASDM areas** losing productivity — including dry sub-humid Bundelkhand fringe, not just sand desert advance.
 
@@ -184,14 +184,14 @@ KEY TRAPS:
 ### Exam Facts (raata)
 
 - Desertification = degradation in **ASDM** (arid, semi-arid, dry sub-humid) areas
-- **Not** just desert expansion — productivity loss in any qualifying dryland
+- Desertification means **productivity loss in any qualifying dryland**, not just desert expansion.
 - **Overgrazing** = #1 human cause in drylands
-- India ~**96.4 M ha** (~**29.3%**) degraded — ISRO Atlas 2016
+- India has about **96.4 M ha** (~**29.3%**) degraded land per ISRO Atlas 2016.
 - **Rajasthan** = most affected Indian state
-- **UNCCD** adopted **1994**; in force **1996**
+- **UNCCD** was adopted in **1994** and entered force in **1996**.
 - **17 June** = Desertification and Drought Day
 - **SDG 15.3** = Land Degradation Neutrality by 2030
-- Improper irrigation → salinization desertification
+- Improper irrigation can lead to salinization and secondary desertification.
 - Reversible in early stages with sustainable land management
 
 ### PYQs — Desertification
@@ -230,16 +230,16 @@ KEY TRAPS:
 
 ### Land Degradation — How It Works
 
-- **Land degradation** is the **umbrella concept** — desertification is one **subset** (drylands only); soil erosion is one **major process** within degradation; exams test whether you can **rank scope**: land degradation > desertification; land degradation includes non-erosion processes.
-- **Natural causes** include **geological erosion**, **floods** (strip topsoil from riverbanks), **landslides** (Himalayan foothills, Uttarakhand), **drought** (temporary productivity loss), and **natural salinity** (coastal ingress) — significant locally but **human causes dominate India's degradation statistics**.
-- **Human causes — complete list**: **overgrazing**, **deforestation**, **unsustainable agriculture** (no crop rotation, no fallow), **excessive chemical fertilizers** (soil structure breakdown), **excessive irrigation** (waterlogging + salinization), **mining** (overburden dumps, subsidence), **industrial pollution** (heavy metal contamination), **urban sprawl** (sealing fertile peri-urban farmland).
-- **Major degradation processes** (all must be known): **(1) Soil erosion** — physical topsoil loss; **(2) Waterlogging** — water table rise drowns roots; **(3) Salinization** — salts accumulate on surface (Punjab, Haryana, western UP canal areas); **(4) Alkalinization** — sodium salts create impermeable soil crust; **(5) Mining degradation** — Sonbhadra (UP), Jharkhand, Odisha; **(6) Deforestation/degradation of forest land**.
-- **Cause → effect chain**: deforestation → soil exposed → erosion increases → topsoil lost → nutrient depletion → crop yield falls → farmers overuse chemical inputs → further soil health decline → **downward spiral to wasteland**.
-- **India's scale**: ~**105 million hectares** (~**32%** of total area) affected by land degradation per MoEFCC/ISRO assessments; **~15.8%** classified as **degraded cultivable wasteland** (NRSA); **human-induced wasteland (~5.88%)** exceeds purely natural wasteland in cultivable categories.
-- **Wasteland classification (NRSA)**: **(1) Natural** — gullied/ravines, desert sand, barren rock, steep slopes; **(2) Natural + human** — waterlogged, saline/alkaline soils; **(3) Human-induced** — mining wasteland, industrial sites, degraded pasture, shifting cultivation scars.
-- **Consequences**: food insecurity, rural poverty, **forced migration** (Bundelkhand to cities), **silting of reservoirs** (reduced water storage — Tehri, Sardar Sarovar receive silt from eroded catchments), **increased flood severity** (silted riverbeds → reduced carrying capacity), biodiversity loss.
-- **Reversibility**: **salinization and waterlogging** can be reversed through drainage, gypsum application, and drip irrigation; **mining land** can be biologically reclaimed; **deep ravines** are hardest and costliest to restore — prevention cheaper than cure.
-- **Policy response**: **Integrated Watershed Management Programme (IWMP)**, **MGNREGA** (contour bunds, check dams), **DPAP/DDP**, **National Afforestation Programme**, **Soil Health Card Scheme** — all aim to halt and reverse land degradation.
+- **Land degradation** is the **umbrella concept**. Desertification is one **subset** (drylands only), and soil erosion is one **major process** within degradation. Exams test whether you can **rank scope**: land degradation is broader than desertification and includes non-erosion processes.
+- **Natural causes** include **geological erosion**, **floods** (stripping topsoil from riverbanks), **landslides** (Himalayan foothills, Uttarakhand), **drought** (temporary productivity loss), and **natural salinity** (coastal ingress). These matter locally but **human causes dominate India's degradation statistics**.
+- **Human causes** include **overgrazing**, **deforestation**, **unsustainable agriculture** (no crop rotation, no fallow), **excessive chemical fertilizers** (soil structure breakdown), **excessive irrigation** (waterlogging and salinization), **mining** (overburden dumps, subsidence), **industrial pollution** (heavy metal contamination), and **urban sprawl** (sealing fertile peri-urban farmland).
+- **Major degradation processes** (all must be known): **(1) Soil erosion** as physical topsoil loss. **(2) Waterlogging** when the water table rise drowns roots. **(3) Salinization** as salts accumulate on the surface (Punjab, Haryana, western UP canal areas). **(4) Alkalinization** when sodium salts create an impermeable soil crust. **(5) Mining degradation** in Sonbhadra (UP), Jharkhand, and Odisha. **(6) Deforestation/degradation of forest land**.
+- **Cause-and-effect chain**: deforestation exposes soil, erosion increases, topsoil is lost, nutrient depletion follows, crop yield falls, farmers overuse chemical inputs, soil health declines further, and the land spirals **downward toward wasteland**.
+- **India's scale**: ~**105 million hectares** (~**32%** of total area) are affected by land degradation per MoEFCC/ISRO assessments. **~15.8%** is classified as **degraded cultivable wasteland** (NRSA), and **human-induced wasteland (~5.88%)** exceeds purely natural wasteland in cultivable categories.
+- **Wasteland classification (NRSA)**: **(1) Natural** types include gullied/ravines, desert sand, barren rock, and steep slopes. **(2) Natural + human** types include waterlogged and saline/alkaline soils. **(3) Human-induced** types include mining wasteland, industrial sites, degraded pasture, and shifting cultivation scars.
+- **Consequences** include food insecurity, rural poverty, **forced migration** (Bundelkhand to cities), **silting of reservoirs** (reduced water storage as Tehri and Sardar Sarovar receive silt from eroded catchments), **increased flood severity** (silted riverbeds reduce carrying capacity), and biodiversity loss.
+- **Reversibility**: **Salinization and waterlogging** can be reversed through drainage, gypsum application, and drip irrigation. **Mining land** can be biologically reclaimed. **Deep ravines** are hardest and costliest to restore, and prevention is cheaper than cure.
+- **Policy response** includes the **Integrated Watershed Management Programme (IWMP)**, **MGNREGA** (contour bunds, check dams), **DPAP/DDP**, **National Afforestation Programme**, and **Soil Health Card Scheme**, all aimed at halting and reversing land degradation.
 
 > **Exam note:** UPSC pattern — "Which is **NOT** a cause of land degradation?" → **Afforestation** is the trap wrong answer turned right — planting trees **prevents** degradation; pick it when asked NOT a cause.
 
@@ -273,9 +273,9 @@ KEY TRAPS:
 - Human causes **dominate** India's degradation statistics
 - ~**30%** India land area degraded (ISRO 2016)
 - Processes: erosion, waterlogging, salinization, alkalinization, mining
-- Wasteland = uncultivable degraded land — end stage
+- Wasteland is uncultivable degraded land and represents an end stage.
 - NRSA total wasteland = **17.98%** of India
-- **Afforestation prevents** degradation — NOT a cause
+- **Afforestation prevents** degradation and is not a cause.
 - Watershed management = integrated land + water + vegetation approach
 - Silting of dams linked to catchment erosion
 
@@ -313,16 +313,16 @@ KEY TRAPS:
 
 ### Soil Erosion — How It Works
 
-- **Topsoil (A-horizon)** is the **most fertile layer** — rich in organic matter, microorganisms, and plant nutrients — typically only **15–30 cm deep**; losing it takes **100–1000 years** to regenerate naturally but can be stripped in **one heavy monsoon** on bare slopes.
-- **Normal (geological) erosion** occurs at rates balanced by **soil formation** (weathering of parent rock) — maintains landscape over millennia; **accelerated erosion** from human removal of vegetation causes loss **10–100× faster** than formation — this is what NCERT and UPPCS mean by "soil erosion" as an environmental problem.
-- **Water erosion** is dominant in **humid and sub-humid India** (monsoon regions) — raindrop impact dislodges particles; runoff carries them downslope; severity depends on **rainfall intensity**, **slope gradient**, **vegetation cover**, and **soil type**.
-- **Water erosion sequence (exam-critical progression)**: **(1) Sheet erosion** — uniform thin layer removed over entire slope (hard to detect visually); **(2) Rill erosion** — small finger-like channels form; **(3) Gully erosion** — deep channels (>30 cm wide) cut into subsoil; **(4) Ravines** — massive gully systems (Chambal type) — uncultivable badland topography.
-- **Chambal ravines** — India's most famous gully erosion landscape — formed by **deeply incised tributaries of Chambal river** in **MP (Morena, Bhind), UP (Etawah, Agra), Rajasthan (Dholpur, Karauli)** — **~3 million hectares** of ravine land; caused by **deforestation + overgrazing + improper agriculture on loess-like soils + concentrated runoff**.
-- **Wind erosion** dominates **arid and semi-arid regions** (Thar Desert, Rann of Kutch, parts of western UP/Rajasthan) — **deflation** lifts and carries fine particles (creates sand dunes, dust storms); **abrasion** sandblasts rock surfaces and crops.
-- **Gravity erosion (mass wasting)** — landslides, soil creep, slumping — important in **Himalayan and NE hill states**; deforestation + road cutting + earthquakes trigger catastrophic slope failures (Uttarakhand 2013 Kedarnath-linked debris flows).
+- **Topsoil (A-horizon)** is the **most fertile layer**, rich in organic matter, microorganisms, and plant nutrients, typically only **15–30 cm deep**. Losing it takes **100–1000 years** to regenerate naturally but can happen in **one heavy monsoon** on bare slopes.
+- **Normal (geological) erosion** occurs at rates balanced by **soil formation** (weathering of parent rock) and maintains the landscape over millennia. **Accelerated erosion** from human removal of vegetation causes loss **10–100× faster** than formation, which is what NCERT and UPPCS mean by "soil erosion" as an environmental problem.
+- **Water erosion** is dominant in **humid and sub-humid India** (monsoon regions). Raindrop impact dislodges particles and runoff carries them downslope. Severity depends on **rainfall intensity**, **slope gradient**, **vegetation cover**, and **soil type**.
+- **Water erosion sequence (exam-critical progression)**: **(1) Sheet erosion** removes a uniform thin layer over the entire slope and is hard to detect visually. **(2) Rill erosion** forms small finger-like channels. **(3) Gully erosion** cuts deep channels (>30 cm wide) into subsoil. **(4) Ravines** are massive gully systems (Chambal type) forming uncultivable badland topography.
+- **Chambal ravines** are India's most famous gully erosion landscape, formed by **deeply incised tributaries of the Chambal river** in **MP (Morena, Bhind), UP (Etawah, Agra), and Rajasthan (Dholpur, Karauli)**. They cover **~3 million hectares** of ravine land, caused by **deforestation, overgrazing, improper agriculture on loess-like soils, and concentrated runoff**.
+- **Wind erosion** dominates **arid and semi-arid regions** (Thar Desert, Rann of Kutch, parts of western UP/Rajasthan). **Deflation** lifts and carries fine particles (creating sand dunes and dust storms), while **abrasion** sandblasts rock surfaces and crops.
+- **Gravity erosion (mass wasting)** includes landslides, soil creep, and slumping and is important in **Himalayan and NE hill states**. Deforestation, road cutting, and earthquakes trigger catastrophic slope failures (Uttarakhand 2013 Kedarnath-linked debris flows).
 - **Factors accelerating erosion**: **deforestation**, **overgrazing**, **clean cultivation** (no stubble/cover crop), **forest fires**, **construction on slopes**, **mining**, ** improper drainage**, **climate change** (more intense rainfall events on bare soil).
-- **Conservation measures — complete toolkit**: **contour bunding/ploughing** (slow runoff on slopes); **terrace farming** (hills — NE states, Uttarakhand); **shelter belts/wind breaks** (tree rows against wind — Thar margins); **afforestation/reforestation**; **gully plugging** (check dams in gully mouths); **strip cropping** (alternate crop rows); **cover crops/fallow management**; **no-till farming**; **MGNREGA works** (nali bunding, farm ponds).
-- **Biological soil health**: **Earthworms** aerate soil, improve structure, and increase fertility — UPPCS 2025 Q73: "friends of farmers" — healthy soil biology resists erosion; **mycorrhizal fungi**, **nitrogen-fixing bacteria** in root nodules maintain soil structure.
+- **Conservation measures** include **contour bunding/ploughing** to slow runoff on slopes, **terrace farming** on hills (NE states, Uttarakhand), **shelter belts/wind breaks** as tree rows against wind (Thar margins), **afforestation/reforestation**, **gully plugging** with check dams in gully mouths, **strip cropping**, **cover crops/fallow management**, **no-till farming**, and **MGNREGA works** (nali bunding, farm ponds).
+- **Biological soil health**: **Earthworms** aerate soil, improve structure, and increase fertility. UPPCS 2025 Q73 calls them "friends of farmers." Healthy soil biology resists erosion, and **mycorrhizal fungi** and **nitrogen-fixing bacteria** in root nodules maintain soil structure.
 
 > **Exam note:** Match-the-following trap — **Sheet erosion** = thin uniform layer; **Gully erosion** = deep channels; **Chambal ravines** = advanced gully stage — NOT wind erosion product.
 
@@ -361,9 +361,9 @@ KEY TRAPS:
 
 - Topsoil loss = loss of **A-horizon** fertility
 - Accelerated erosion >> geological erosion rate
-- Water erosion sequence: **sheet → rill → gully → ravine**
-- **Chambal ravines** = gully erosion; MP + UP + Rajasthan
-- Wind erosion: **deflation + abrasion** — arid areas
+- Water erosion progresses from **sheet to rill to gully to ravine**.
+- **Chambal ravines** are gully erosion affecting MP, UP, and Rajasthan.
+- Wind erosion involves **deflation and abrasion** in arid areas.
 - Contour bunding slows runoff on slopes
 - Shelter belts combat **wind** erosion
 - Deforestation + overgrazing = top acceleration factors

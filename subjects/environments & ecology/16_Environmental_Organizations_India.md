@@ -155,16 +155,16 @@ KEY TRAPS:
 
 ### MoEFCC — How It Works
 
-- **MoEFCC** is India's **apex administrative body** for environment — it does not replace scientific or regulatory agencies but **coordinates** law, policy, clearance, and international treaty compliance across Centre and states.
-- Originally established as **Ministry of Environment & Forests (MoEF) in 1985** — **NOT 1972** (1972 = Stockholm Conference + WPA, not ministry birth year) — renamed **Ministry of Environment, Forest and Climate Change (MoEFCC) in 2014** when climate change mandate was formally integrated.
-- **Headquarters: New Delhi** (Indira Paryavaran Bhawan, Jorbagh) — all major national environment policy decisions route through this ministry.
-- **Key legal instruments administered**: **Environment (Protection) Act 1986** (umbrella — enables EIA Notification, CRZ, ESZ, hazardous waste rules); **Wildlife (Protection) Act 1972**; **Forest (Conservation) Act 1980** (prior Central approval for forest diversion); **Biological Diversity Act 2002**; coordinates with Water/Air Acts enforced via CPCB/SPCB.
-- **Environmental Clearance (EC)**: For **Category A** projects (large dams, inter-state highways, major thermal plants, airports), **MoEFCC** grants EC based on **Expert Appraisal Committee (EAC)** recommendation — this is **NOT** CPCB's function (org trap in almost every governance paper).
-- **Forest Clearance**: Under **FCA 1980**, diverting forest land for non-forest use requires **prior approval** from MoEFCC (Forest Advisory Committee process) — separate from pollution consent (SPCB) and separate from EC (though both may apply to same project).
-- **PARIVESH portal** — MoEFCC's **single-window online system** for Environmental Clearance applications, tracking, and transparency (Pro-Active and Responsive facilitation by MoEFCC for Environmental Clearance).
-- **Climate and international role**: Represents India at **UNFCCC**, **CBD**, **Montreal Protocol** meetings; implements **National Action Plan on Climate Change (NAPCC)**, **LiFE Mission**, **Net Zero 2070** commitment — climate division strengthened after 2014 rename.
-- **Attached/subordinate scientific bodies** (under MoEFCC umbrella): **WII, FSI, BSI, ZSI**, **Indian Council of Forestry Research and Education (ICFRE)**, **National Biodiversity Authority (NBA)** — MoEFCC sets policy; these bodies execute specialised functions.
-- **What MoEFCC does NOT do**: Does **not** set daily **NAAQS** technical standards (CPCB); does **not** publish **ISFR** (FSI); does **not** conduct plant/animal taxonomy (BSI/ZSI); does **not** hear appeals as primary forum (**NGT** does).
+- **MoEFCC** is India's **apex administrative body** for environment. It does not replace scientific or regulatory agencies but **coordinates** law, policy, clearance, and international treaty compliance across Centre and states.
+- Originally established as **Ministry of Environment & Forests (MoEF) in 1985**. **NOT 1972** (1972 = Stockholm Conference + WPA, not ministry birth year). Renamed **Ministry of Environment, Forest and Climate Change (MoEFCC) in 2014** when climate change mandate was formally integrated.
+- **Headquarters: New Delhi** (Indira Paryavaran Bhawan, Jorbagh). All major national environment policy decisions route through this ministry.
+- **Key legal instruments administered**: **Environment (Protection) Act 1986** (umbrella law enabling EIA Notification, CRZ, ESZ, and hazardous waste rules), **Wildlife (Protection) Act 1972**, **Forest (Conservation) Act 1980** (prior Central approval for forest diversion), and **Biological Diversity Act 2002**. MoEFCC coordinates with Water/Air Acts enforced via CPCB/SPCB.
+- **Environmental Clearance (EC)**: For **Category A** projects (large dams, inter-state highways, major thermal plants, airports), **MoEFCC** grants EC based on **Expert Appraisal Committee (EAC)** recommendation. This is **NOT** CPCB's function (org trap in almost every governance paper).
+- **Forest Clearance**: Under **FCA 1980**, diverting forest land for non-forest use requires **prior approval** from MoEFCC (Forest Advisory Committee process). Separate from pollution consent (SPCB) and separate from EC (though both may apply to same project).
+- The **PARIVESH portal** is MoEFCC's **single-window online system** for Environmental Clearance applications, tracking, and transparency (Pro-Active and Responsive facilitation by MoEFCC for Environmental Clearance).
+- **Climate and international role**: Represents India at **UNFCCC**, **CBD**, **Montreal Protocol** meetings. Implements **National Action Plan on Climate Change (NAPCC)**, **LiFE Mission**, **Net Zero 2070** commitment. Climate division strengthened after 2014 rename.
+- **Attached/subordinate scientific bodies** (under MoEFCC umbrella): **WII, FSI, BSI, ZSI**, **Indian Council of Forestry Research and Education (ICFRE)**, **National Biodiversity Authority (NBA)**. MoEFCC sets policy. These bodies execute specialised functions.
+- **What MoEFCC does NOT do**: Does **not** set daily **NAAQS** technical standards (CPCB). Does **not** publish **ISFR** (FSI). Does **not** conduct plant/animal taxonomy (BSI/ZSI). Does **not** hear appeals as primary forum (**NGT** does).
 
 > **Exam note:** MoEFCC established **1985**, not 1972. Statement "MoEFCC created at Stockholm Conference" = **FALSE**. MoEFCC grants **Category A EC** — trap option "CPCB grants all environmental clearances" = **FALSE**.
 
@@ -194,7 +194,7 @@ KEY TRAPS:
 
 ### Exam Facts (raata)
 
-- MoEF = **1985** → MoEFCC = **2014**
+- MoEF = **1985**. MoEFCC = **2014**.
 - HQ = **New Delhi**
 - Nodal ministry for environment, forest, wildlife, climate
 - **Category A EC** granted by MoEFCC
@@ -239,15 +239,15 @@ KEY TRAPS:
 
 ### CPCB — How It Works
 
-- **CPCB was established in September 1974** under the **Water (Prevention and Control of Pollution) Act, 1974** — one of India's earliest post-Stockholm institutional responses; Air Act 1981 extended its role to **air pollution**.
-- **Headquarters: New Delhi** (Parivesh Bhawan, East Arjun Nagar) — operates **Central Pollution Control Board laboratories** and national data centres from here.
-- **Core functions**: (1) Advise Central Government on pollution prevention; (2) Set **National Ambient Air Quality Standards (NAAQS)** and water quality criteria; (3) Coordinate **State Pollution Control Boards**; (4) Conduct **nationwide monitoring** (NAMP — National Air Quality Monitoring Programme; NWMP — water); (5) Identify polluted river stretches; (6) Develop guidelines for industries.
-- **Consent mechanism context**: While **SPCBs** issue **Consent to Establish (CTE)** and **Consent to Operate (CTO)** to individual industries under Water/Air Acts, CPCB sets the **technical standards** those consents must enforce — CPCB = standard-setter, SPCB = state enforcer.
-- **EPR and waste governance**: CPCB administers **Extended Producer Responsibility (EPR)** portals for **plastic waste**, **e-waste**, **battery waste**, **tyre waste** — tracks producer registration and recycling targets under MoEFCC rules.
-- **River pollution programmes**: CPCB identifies **Priority I–V polluted stretches** on Ganga and other rivers; works with **NMCG** and SPCBs on water quality data — but **Namami Gange implementation** is not CPCB's sole nodal role (MoEFCC/Jal Shakti lead policy).
-- **What CPCB does NOT do** — **highest-frequency exam traps**: (1) **Does NOT grant Environmental Clearance** — MoEFCC/SEIAA do; (2) **Does NOT publish ISFR** — FSI does; (3) **Does NOT prepare Annual Groundwater Quality Report** — **CGWB** does (UPPCS 2025 Q70); (4) **Does NOT survey plant/animal species** — BSI/ZSI do; (5) **Does NOT hear EC appeals** — NGT does.
-- **CPCB vs MoEFCC**: MoEFCC = **policy + clearances**; CPCB = **technical standards + monitoring + SPCB coordination** — complementary, not interchangeable.
-- **CPCB publishes**: **Annual Report on Air Quality**, river water quality reports, noise standards, industry-specific emission standards — always distinguish **which report belongs to which body**.
+- **CPCB was established in September 1974** under the **Water (Prevention and Control of Pollution) Act, 1974**. One of India's earliest post-Stockholm institutional responses. Air Act 1981 extended its role to **air pollution**.
+- **Headquarters: New Delhi** (Parivesh Bhawan, East Arjun Nagar). Operates **Central Pollution Control Board laboratories** and national data centres from here.
+- **Core functions**: CPCB (1) advises the Central Government on pollution prevention, (2) sets **National Ambient Air Quality Standards (NAAQS)** and water quality criteria, (3) coordinates **State Pollution Control Boards**, (4) conducts **nationwide monitoring** (NAMP for air and NWMP for water), (5) identifies polluted river stretches, and (6) develops guidelines for industries.
+- **Consent mechanism context**: While **SPCBs** issue **Consent to Establish (CTE)** and **Consent to Operate (CTO)** to individual industries under Water/Air Acts, CPCB sets the **technical standards** those consents must enforce. CPCB = standard-setter, SPCB = state enforcer.
+- **EPR and waste governance**: CPCB administers **Extended Producer Responsibility (EPR)** portals for **plastic waste**, **e-waste**, **battery waste**, **tyre waste**. Tracks producer registration and recycling targets under MoEFCC rules.
+- **River pollution programmes**: CPCB identifies **Priority I–V polluted stretches** on Ganga and other rivers. Works with **NMCG** and SPCBs on water quality data. But **Namami Gange implementation** is not CPCB's sole nodal role (MoEFCC/Jal Shakti lead policy).
+- **What CPCB does NOT do**. **Highest-frequency exam traps**: (1) **Does NOT grant Environmental Clearance**. MoEFCC/SEIAA do. (2) **Does NOT publish ISFR**. FSI does. (3) **Does NOT prepare Annual Groundwater Quality Report**. **CGWB** does (UPPCS 2025 Q70). (4) **Does NOT survey plant/animal species**. BSI/ZSI do. (5) **Does NOT hear EC appeals**. NGT does.
+- **CPCB vs MoEFCC**: MoEFCC = **policy + clearances**. CPCB = **technical standards + monitoring + SPCB coordination**. Complementary, not interchangeable.
+- **CPCB publishes**: **Annual Report on Air Quality**, river water quality reports, noise standards, industry-specific emission standards. Always distinguish **which report belongs to which body**.
 
 > **Exam note:** UPPCS 2025 Q70 — Groundwater Quality Report = **CGWB only**. Any option picking **CPCB** for groundwater reports = wrong. Same logic: CPCB ≠ EC authority.
 
@@ -318,15 +318,15 @@ KEY TRAPS:
 
 ### SPCB — How It Works
 
-- Every state and union territory has its own **Pollution Control Board** — collectively called **SPCBs** — established under **Water Act 1974** with powers expanded by **Air (Prevention and Control of Pollution) Act, 1981**.
-- **Dual accountability**: **Technical guidance** from **CPCB** (national standards, protocols) + **administrative control** by **state government** (appointments, budget) — explains variation in SPCB enforcement strength across states.
-- **Consent mechanism** — SPCB's most tested function: Industries must obtain **Consent to Establish (CTE)** before construction and **Consent to Operate (CTO)** before starting production — without valid consent, operation is illegal under Water/Air Acts.
+- Every state and union territory has its own **Pollution Control Board**. Collectively called **SPCBs**. Established under **Water Act 1974** with powers expanded by **Air (Prevention and Control of Pollution) Act, 1981**.
+- **Dual accountability**: **Technical guidance** from **CPCB** (national standards, protocols) + **administrative control** by **state government** (appointments, budget). Explains variation in SPCB enforcement strength across states.
+- **Consent mechanism**. SPCB's most tested function: Industries must obtain **Consent to Establish (CTE)** before construction and **Consent to Operate (CTO)** before starting production. Without valid consent, operation is illegal under Water/Air Acts.
 - **Monitoring and enforcement**: SPCBs run **state air quality monitoring stations**, inspect industries, collect samples, issue **show-cause notices**, **closure directions**, and **penalties** for exceeding emission/discharge standards.
 - **Hazardous/biomedical waste at state level**: SPCBs implement **authorization** for hazardous waste handlers, biomedical waste facilities, and common effluent treatment plants (CETPs) within state boundaries.
-- **Relationship with EC process**: SPCB provides **NOC/input** for environmental clearance in some cases and monitors **compliance conditions** post-EC — but **SEIAA/MoEFCC grant EC**, not SPCB. Trap: "SPCB grants Environmental Clearance for all state projects" = **FALSE** (SEIAA for Category B).
-- **Uttar Pradesh Pollution Control Board (UPPCB)**: HQ **Lucknow**; enforces norms on **Kanpur tanneries**, **Ghaziabad/Noida** industries, **Ganga/Yamuna** discharges; frequently named in **NGT orders** on Ganga pollution.
-- **SPCB vs CPCB division**: CPCB = **national standards + coordination**; SPCB = **state-level implementation** — student must not swap their primary roles.
-- **SPCB does NOT**: Grant **forest clearance** (MoEFCC); grant **Category B EC alone** (SEIAA); publish **ISFR** (FSI); adjudicate appeals (NGT/ courts).
+- **Relationship with EC process**: SPCB provides **NOC/input** for environmental clearance in some cases and monitors **compliance conditions** post-EC. But **SEIAA/MoEFCC grant EC**, not SPCB. Trap: "SPCB grants Environmental Clearance for all state projects" = **FALSE** (SEIAA for Category B).
+- **Uttar Pradesh Pollution Control Board (UPPCB)**: HQ **Lucknow**. Enforces norms on **Kanpur tanneries**, **Ghaziabad/Noida** industries, **Ganga/Yamuna** discharges. Frequently named in **NGT orders** on Ganga pollution.
+- **SPCB vs CPCB division**: CPCB = **national standards + coordination**. SPCB = **state-level implementation**. Student must not swap their primary roles.
+- **SPCB does NOT**: Grant **forest clearance** (MoEFCC). Grant **Category B EC alone** (SEIAA). Publish **ISFR** (FSI). Adjudicate appeals (NGT/ courts).
 
 > **Exam note:** UP-specific — **UPPCB Lucknow** handles Kanpur leather industry pollution. Statement "pollution control in UP is solely Central CPCB responsibility" = **FALSE** — SPCB is primary local enforcer.
 
@@ -393,15 +393,15 @@ KEY TRAPS:
 
 ### NGT — How It Works
 
-- **NGT was established under the National Green Tribunal Act, 2010** — operational from **2011** — India's dedicated environmental judiciary inspired by **Australia's Land and Environment Court** and recommendations of **Supreme Court** (SC directed specialised tribunal for environmental cases).
-- **Headquarters: New Delhi** — **Principal Bench**; **regional benches** at **Bhopal, Pune, Kolkata, Chennai** (and circuit sittings elsewhere) — ensures geographic access for environmental justice.
-- **Composition**: **Chairperson** (must be retired **Supreme Court judge** or Chief Justice of High Court) + **judicial members** + **expert members** (environmental science/technical specialists) — blend of law and science for technical environmental disputes.
-- **Jurisdiction**: **Civil cases** involving substantial questions relating to **environment** (including enforcement of EPA, WPA, FCA, Water Act, Air Act, BDA) — **exclusive jurisdiction** in listed statutes means ordinary civil courts cannot parallel-hear these matters.
-- **EC and clearance appeals**: NGT hears **appeals against Environmental Clearance** granted/rejected by MoEFCC/SEIAA — landmark cases on **coal mining, river sand mining, industrial projects** — **NGT does NOT grant EC itself**.
-- **Compensation principle**: NGT can award **compensation** for environmental damage and restitution — implements **Polluter Pays** and **Precautionary** principles recognised by Supreme Court (*Vellore Citizens' Welfare Forum*, *M.C. Mehta* cases).
-- **Six-month disposal target**: NGT Act mandates endeavour to dispose cases within **6 months** — contrast with slow ordinary civil courts; still faces backlog on complex cases.
-- **Penalties**: Non-compliance with NGT orders can lead to **imprisonment up to 3 years** and **fine up to ₹10 crore** under NGT Act — strong enforcement teeth.
-- **What NGT is NOT**: Not a **ministry** (MoEFCC); not a **standard-setter** (CPCB); not an **EC-granting authority**; not a **research institute** (WII); appeals from NGT go to **Supreme Court** on questions of law.
+- **NGT was established under the National Green Tribunal Act, 2010**. Operational from **2011**. India's dedicated environmental judiciary inspired by **Australia's Land and Environment Court** and recommendations of **Supreme Court** (SC directed specialised tribunal for environmental cases).
+- **Headquarters: New Delhi**. **Principal Bench**. **Regional benches** at **Bhopal, Pune, Kolkata, Chennai** (and circuit sittings elsewhere). Ensures geographic access for environmental justice.
+- **Composition**: **Chairperson** (must be retired **Supreme Court judge** or Chief Justice of High Court) + **judicial members** + **expert members** (environmental science/technical specialists). Blend of law and science for technical environmental disputes.
+- **Jurisdiction**: **Civil cases** involving substantial questions relating to **environment** (including enforcement of EPA, WPA, FCA, Water Act, Air Act, BDA). **Exclusive jurisdiction** in listed statutes means ordinary civil courts cannot parallel-hear these matters.
+- **EC and clearance appeals**: NGT hears **appeals against Environmental Clearance** granted/rejected by MoEFCC/SEIAA. Landmark cases on **coal mining, river sand mining, industrial projects**. **NGT does NOT grant EC itself**.
+- **Compensation principle**: NGT can award **compensation** for environmental damage and restitution. Implements **Polluter Pays** and **Precautionary** principles recognised by Supreme Court (*Vellore Citizens' Welfare Forum*, *M.C. Mehta* cases).
+- **Six-month disposal target**: NGT Act mandates endeavour to dispose cases within **6 months**. Contrast with slow ordinary civil courts. Still faces backlog on complex cases.
+- **Penalties**: Non-compliance with NGT orders can lead to **imprisonment up to 3 years** and **fine up to ₹10 crore** under NGT Act. Strong enforcement teeth.
+- **What NGT is NOT**: Not a **ministry** (MoEFCC). Not a **standard-setter** (CPCB). Not an **EC-granting authority**. Not a **research institute** (WII). Appeals from NGT go to **Supreme Court** on questions of law.
 
 > **Exam note:** NGT Act = **2010** (not 1986, not 2005). Statement "NGT grants Environmental Clearance" = **FALSE** — NGT **hears appeals** against EC decisions.
 
@@ -430,7 +430,7 @@ KEY TRAPS:
 
 - NGT Act = **2010**
 - HQ = **New Delhi** + 4 regional benches
-- Hears **appeals** — does **NOT** grant EC
+- Hears **appeals**. Does **NOT** grant EC.
 - **6-month** disposal target
 - Chairperson = retired **SC judge**
 - Implements **Polluter Pays** via compensation orders
@@ -470,14 +470,14 @@ KEY TRAPS:
 
 ### WII — How It Works
 
-- **WII was established in 1982** at **Dehradun, Uttarakhand** (Chandrabani campus) — created to build professional wildlife management capacity after **Project Tiger (1973)** and expanding protected area network.
-- **Autonomous institute under MoEFCC** — conducts research, offers **M.Sc. Wildlife Science**, **PG Diploma** courses, and **in-service training** for Indian Forest Service and state forest department officers.
-- **Biogeographic zone mapping**: WII scientists (with MoEFCC) published **Rodgers & Panwar (1988)** delineation of India's **10 biogeographic zones** — foundational for conservation planning and UPSC/UPPCS geography-environment crossover.
-- **Tiger and wildlife census**: WII develops **methodological protocols** for **All India Tiger Estimation** (camera traps, scat DNA, line transect) — executed with NTCA and state forest departments; WII provides scientific design, not sole field implementation.
-- **Protected area research**: Habitat studies in **Corbett, Dudhwa (UP)**, Western Ghats, Northeast — informs carrying capacity, tourism limits, and relocation policies.
-- **Human-wildlife conflict**: Research on **elephant corridors, leopard conflict, crop raiding** — advises state governments and MoEFCC on mitigation (fencing, compensation, early warning).
-- **What WII does NOT do**: **Does NOT** maintain national **plant/animal species inventories** (BSI/ZSI); **does NOT** publish **ISFR** (FSI); **does NOT** grant **EC or forest clearance**; **does NOT** enforce pollution laws (SPCB).
-- **WII vs ZSI**: ZSI = **taxonomic survey** of all animal species; WII = **applied wildlife ecology and management science** — complementary but distinct exam pairing.
+- **WII was established in 1982** at **Dehradun, Uttarakhand** (Chandrabani campus). Created to build professional wildlife management capacity after **Project Tiger (1973)** and expanding protected area network.
+- **Autonomous institute under MoEFCC**. Conducts research, offers **M.Sc. Wildlife Science**, **PG Diploma** courses, and **in-service training** for Indian Forest Service and state forest department officers.
+- **Biogeographic zone mapping**: WII scientists (with MoEFCC) published **Rodgers & Panwar (1988)** delineation of India's **10 biogeographic zones**. Foundational for conservation planning and UPSC/UPPCS geography-environment crossover.
+- **Tiger and wildlife census**: WII develops **methodological protocols** for **All India Tiger Estimation** (camera traps, scat DNA, line transect). Executed with NTCA and state forest departments. WII provides scientific design, not sole field implementation.
+- **Protected area research**: Habitat studies in **Corbett, Dudhwa (UP)**, Western Ghats, Northeast. Informs carrying capacity, tourism limits, and relocation policies.
+- **Human-wildlife conflict**: Research on **elephant corridors, leopard conflict, crop raiding**. Advises state governments and MoEFCC on mitigation (fencing, compensation, early warning).
+- **What WII does NOT do**: **Does NOT** maintain national **plant/animal species inventories** (BSI/ZSI). **Does NOT** publish **ISFR** (FSI). **Does NOT** grant **EC or forest clearance**. **Does NOT** enforce pollution laws (SPCB).
+- **WII vs ZSI**: ZSI = **taxonomic survey** of all animal species. WII = **applied wildlife ecology and management science**. Complementary but distinct exam pairing.
 
 > **Exam note:** Match-list trap — WII = **wildlife research/training, Dehradun**; ZSI = **animal taxonomy, Kolkata**. Swapping them = wrong answer.
 
@@ -504,7 +504,7 @@ KEY TRAPS:
 
 - WII = **1982**, HQ **Dehradun**
 - Wildlife **research + training** under MoEFCC
-- **Rodgers & Panwar 1988** — 10 biogeographic zones
+- **Rodgers & Panwar 1988**. 10 biogeographic zones.
 - Tiger census **methodology** contributor
 - **NOT** BSI/ZSI (taxonomy)
 - **NOT** FSI (forest cover)
@@ -543,14 +543,14 @@ KEY TRAPS:
 
 ### BSI — How It Works
 
-- **BSI was established in 1890** during British India — among world's oldest national botanical survey organisations — now under **MoEFCC**.
-- **Headquarters: Kolkata, West Bengal** (Central National Herbarium, **Shibpur, Howrah**) — **NOT Delhi, NOT Dehradun** — frequent HQ matching trap.
-- **Core mandate**: Explore and document **flora of India** — flowering plants, ferns, bryophytes, algae, fungi (in coordination) — publish **Flora of India** volumes and state floras.
-- **Herbarium network**: Maintains **Central National Herbarium** and regional circles at **Coimbatore, Pune, Dehradun, Shillong, Andaman & Nicobar, Itanagar, Kolkata, Jodhpur, and Hyderabad** — preserved plant specimens for taxonomic reference.
-- **Conservation assessment**: Publishes **Red Data Book of Indian Plants** listing **endangered/threatened** plant species — distinct from ZSI's animal Red Data Book.
-- **Biodiversity Act link**: Supports **NBA** and **Biodiversity Management Committees** with plant species identification — access and benefit sharing documentation.
-- **What BSI does NOT do**: **Does NOT** survey **animals** (ZSI); **Does NOT** assess **forest cover area** (FSI/ISFR); **Does NOT** conduct **wildlife population ecology** (WII); **Does NOT** set **pollution standards** (CPCB).
-- **BSI vs FSI**: BSI = **species-level plant taxonomy**; FSI = **forest cover extent** (hectares, canopy density) — completely different metrics.
+- **BSI was established in 1890** during British India. Among world's oldest national botanical survey organisations. Now under **MoEFCC**.
+- **Headquarters: Kolkata, West Bengal** (Central National Herbarium, **Shibpur, Howrah**). **NOT Delhi, NOT Dehradun**. Frequent HQ matching trap.
+- **Core mandate**: Explore and document **flora of India**. Flowering plants, ferns, bryophytes, algae, fungi (in coordination). Publish **Flora of India** volumes and state floras.
+- **Herbarium network**: Maintains **Central National Herbarium** and regional circles at **Coimbatore, Pune, Dehradun, Shillong, Andaman & Nicobar, Itanagar, Kolkata, Jodhpur, and Hyderabad**. Preserved plant specimens for taxonomic reference.
+- **Conservation assessment**: Publishes **Red Data Book of Indian Plants** listing **endangered/threatened** plant species. Distinct from ZSI's animal Red Data Book.
+- **Biodiversity Act link**: Supports **NBA** and **Biodiversity Management Committees** with plant species identification. Access and benefit sharing documentation.
+- **What BSI does NOT do**: **Does NOT** survey **animals** (ZSI). **Does NOT** assess **forest cover area** (FSI/ISFR). **Does NOT** conduct **wildlife population ecology** (WII). **Does NOT** set **pollution standards** (CPCB).
+- **BSI vs FSI**: BSI = **species-level plant taxonomy**. FSI = **forest cover extent** (hectares, canopy density). Completely different metrics.
 
 > **Exam note:** Statement "BSI is responsible for surveying Indian animal diversity" = **FALSE**. BSI = **Botanical** = **Plants only**.
 
@@ -578,9 +578,9 @@ KEY TRAPS:
 ### Exam Facts (raata)
 
 - BSI = **1890**, HQ **Kolkata**
-- **Plants** — Botanical Survey
+- **Plants**. Botanical Survey.
 - *Flora of India* publisher
-- Red Data Book — **plants**
+- Red Data Book. **Plants**.
 - **NOT** animals (ZSI)
 - Herbarium at **Shibpur, Howrah**
 
@@ -618,14 +618,14 @@ KEY TRAPS:
 
 ### ZSI — How It Works
 
-- **ZSI was established in 1916** — successor to zoological section of Indian Museum — premier **faunal survey** body under **MoEFCC**.
-- **Headquarters: Kolkata, West Bengal** — same city as BSI but **different function** (animals vs plants) — exams love **Kolkata + function** matching.
-- **Fauna of India series**: Publishes comprehensive **state-wise** and **group-wise** faunal accounts (mammals, birds, insects, marine fauna) — baseline for conservation status assessments.
-- **Red Data Book (Animals)**: Documents **endangered and threatened animal species** in India — paired concept with BSI's plant Red Data Book.
-- **Museum and reference collections**: Maintains **National Zoological Collections** — type specimens for species identification; supports CITES enforcement with species ID expertise.
-- **Biodiversity and WPA link**: ZSI scientific data informs **Schedule listing** under Wildlife (Protection) Act — which species need highest protection.
-- **What ZSI does NOT do**: **Does NOT** survey **plants** (BSI); **Does NOT** train forest officers in wildlife management (WII); **Does NOT** publish **ISFR** (FSI); **Does NOT** grant **EC** (MoEFCC/SEIAA).
-- **ZSI vs WII**: ZSI = **taxonomy and inventory** ("what species exist?"); WII = **ecology and management** ("how do populations and habitats work?") — both under MoEFCC but different exam answers.
+- **ZSI was established in 1916**. Successor to zoological section of Indian Museum. Premier **faunal survey** body under **MoEFCC**.
+- **Headquarters: Kolkata, West Bengal**. Same city as BSI but **different function** (animals vs plants). Exams love **Kolkata + function** matching.
+- **Fauna of India series**: Publishes comprehensive **state-wise** and **group-wise** faunal accounts (mammals, birds, insects, marine fauna). Baseline for conservation status assessments.
+- **Red Data Book (Animals)**: Documents **endangered and threatened animal species** in India. Paired concept with BSI's plant Red Data Book.
+- **Museum and reference collections**: Maintains **National Zoological Collections**. Type specimens for species identification. Supports CITES enforcement with species ID expertise.
+- **Biodiversity and WPA link**: ZSI scientific data informs **Schedule listing** under Wildlife (Protection) Act. Which species need highest protection.
+- **What ZSI does NOT do**: **Does NOT** survey **plants** (BSI). **Does NOT** train forest officers in wildlife management (WII). **Does NOT** publish **ISFR** (FSI). **Does NOT** grant **EC** (MoEFCC/SEIAA).
+- **ZSI vs WII**: ZSI = **taxonomy and inventory** ("what species exist?"). WII = **ecology and management** ("how do populations and habitats work?"). Both under MoEFCC but different exam answers.
 
 > **Exam note:** "Zoological Survey of India — plant taxonomy" = **FALSE**. ZSI = **Zoological** = **Animals**.
 
@@ -643,9 +643,9 @@ KEY TRAPS:
 ### Exam Facts (raata)
 
 - ZSI = **1916**, HQ **Kolkata**
-- **Animals** — Zoological Survey
+- **Animals**. Zoological Survey.
 - *Fauna of India* publisher
-- Red Data Book — **animals**
+- Red Data Book. **Animals**.
 - **NOT** plants (BSI)
 - Younger than BSI (1890)
 
@@ -682,14 +682,14 @@ KEY TRAPS:
 
 ### FSI — How It Works
 
-- **FSI was established in 1981** (under MoEF) — HQ **Dehradun, Uttarakhand** — national authority for **forest cover assessment** using satellite imagery.
-- **India State of Forest Report (ISFR)** — FSI's flagship publication — released **every two years (biennial)** — **NOT annual** — trap: "CPCB publishes ISFR" or "ISFR is annual" = **FALSE**.
-- **Forest cover definition (ISFR)**: All lands **≥1 hectare** with **tree canopy density ≥10%** — irrespective of legal ownership or land use — explains why **Recorded Forest Area (RFA)** ≠ Forest Cover on map.
-- **Canopy density classes**: **Very Dense Forest (≥70%)**, **Moderately Dense (40–70%)**, **Open Forest (10–40%)**, **Scrub (5–10%)** — UPPCS forest questions use these categories.
-- **Tree cover**: Patches **<1 hectare** outside recorded forests (farm bunds, urban trees) — reported separately from forest cover in ISFR.
-- **Mangrove and bamboo assessments**: FSI also maps **mangrove cover** (coastal states) and **bamboo resources** — cross-over with Topic 8 forestry.
-- **What FSI does NOT do**: **Does NOT** set **pollution standards** (CPCB); **Does NOT** survey **plant/animal species taxonomy** (BSI/ZSI); **Does NOT** grant **forest clearance** (MoEFCC under FCA); **Does NOT** conduct **wildlife population studies** (WII).
-- **ISFR 2023 UP data** (UPPCS 2025 Q8): Districts with **>20% forest cover** in UP include **Bahraich, Chandauli, Shravasti** — FSI is the publishing body behind this statistic.
+- **FSI was established in 1981** (under MoEF). HQ **Dehradun, Uttarakhand**. National authority for **forest cover assessment** using satellite imagery.
+- **India State of Forest Report (ISFR)**. FSI's flagship publication. Released **every two years (biennial)**. **NOT annual**. Trap: "CPCB publishes ISFR" or "ISFR is annual" = **FALSE**.
+- **Forest cover definition (ISFR)**: All lands **≥1 hectare** with **tree canopy density ≥10%**. Irrespective of legal ownership or land use. Explains why **Recorded Forest Area (RFA)** ≠ Forest Cover on map.
+- **Canopy density classes**: **Very Dense Forest (≥70%)**, **Moderately Dense (40–70%)**, **Open Forest (10–40%)**, **Scrub (5–10%)**. UPPCS forest questions use these categories.
+- **Tree cover**: Patches **<1 hectare** outside recorded forests (farm bunds, urban trees). Reported separately from forest cover in ISFR.
+- **Mangrove and bamboo assessments**: FSI also maps **mangrove cover** (coastal states) and **bamboo resources**. Cross-over with Topic 8 forestry.
+- **What FSI does NOT do**: **Does NOT** set **pollution standards** (CPCB). **Does NOT** survey **plant/animal species taxonomy** (BSI/ZSI). **Does NOT** grant **forest clearance** (MoEFCC under FCA). **Does NOT** conduct **wildlife population studies** (WII).
+- **ISFR 2023 UP data** (UPPCS 2025 Q8): Districts with **>20% forest cover** in UP include **Bahraich, Chandauli, Shravasti**. FSI is the publishing body behind this statistic.
 
 > **Exam note:** UPPCS 2025 Q8 — forest % districts from **ISFR 2023** = **FSI** report. Option "CPCB publishes forest cover data" = **FALSE**.
 

@@ -98,15 +98,15 @@ SOURCES: Kautilya Arthashastra | Megasthenes Indica | Ashokan inscriptions | Vis
 
 ### Mauryan Empire — How It Works
 
-- **Founded by Chandragupta Maurya** (~**322 BCE**) with guidance of **Kautilya (Chanakya)** — overthrew **Dhana Nanda**.
-- Chandragupta defeated **Seleucus Nicator** (~305 BCE); **treaty ~303 BCE** — gained northwest territories + **500 elephants** exchanged.
-- **Bindusara** (297–273 BCE) — son of Chandragupta; maintained empire; called **Amitraghata** (slayer of foes); patronized **Ajivikas**.
-- **Ashoka** (268–232 BCE) — grandson; empire reached maximum extent after **Kalinga war (261 BCE)**.
-- **Territorial extent**: **Afghanistan to Bengal**, **Himalayas to Karnataka** — largest empire in ancient India till then.
-- **Capital**: **Pataliputra** (modern Patna) — described by Megasthenes as fortified with wooden palisade.
-- **Decline post-Ashoka**: weak successors (**Dasaratha, Samprati, Brihadratha**); **Brihadratha killed 185 BCE** by general **Pushyamitra Shunga** — Mauryan dynasty ends.
-- **Sources**: **Arthashastra**, **Megasthenes' Indica**, **Ashokan inscriptions**, **Puranas** (Vishnu Purana has Mauryan genealogy — **2023 Q29**).
-- **Historical significance**: first **centralized bureaucratic empire**; model for later Gupta and Mughal administrations.
+- **Founded by Chandragupta Maurya** (~**322 BCE**) with guidance of **Kautilya (Chanakya)**. Overthrew **Dhana Nanda**.
+- Chandragupta defeated **Seleucus Nicator** around 305 BCE. The **treaty of about 303 BCE** gave him northwest territories, while **500 elephants** were exchanged.
+- **Bindusara** (297–273 BCE) was the son of Chandragupta. He maintained the empire, was called **Amitraghata** (slayer of foes), and patronized **Ajivikas**.
+- **Ashoka** (268–232 BCE) was Chandragupta's grandson. The empire reached its maximum extent after the **Kalinga war (261 BCE)**.
+- **Territorial extent**: **Afghanistan to Bengal**, **Himalayas to Karnataka**. Largest empire in ancient India till then.
+- **Capital**: **Pataliputra** (modern Patna). Described by Megasthenes as fortified with wooden palisade.
+- **Decline post-Ashoka** came under weak successors such as **Dasaratha, Samprati, and Brihadratha**. General **Pushyamitra Shunga** killed **Brihadratha in 185 BCE**, ending the Mauryan dynasty.
+- **Sources**: **Arthashastra**, **Megasthenes' Indica**, **Ashokan inscriptions**, **Puranas** (Vishnu Purana has Mauryan genealogy. **2023 Q29**).
+- **Historical significance** lies in the Mauryan Empire being the first **centralized bureaucratic empire**. It became a model for later Gupta and Mughal administrations.
 - **Material culture**: **Northern Black Polished Ware (NBPW)**, punch-marked coins, polished stone pillars.
 
 > **Exam note:** Mauryan empire ≠ Gupta empire. Trap: "Chandragupta II founded Mauryan dynasty" — that's Gupta ruler. **Vishnu Purana** records Mauryan line (2023 Q29).
@@ -162,17 +162,17 @@ SOURCES: Kautilya Arthashastra | Megasthenes Indica | Ashokan inscriptions | Vis
 
 ### Mauryan Administration — How It Works
 
-- **Monarchy absolute in theory** — king as **Chakravartin** (wheel-turner) with divine association but bound by **dharma**.
+- **Monarchy absolute in theory** was king as **Chakravartin** (wheel-turner) with divine association but bound by **dharma**.
 - **Arthashastra** prescribes **Saptanga** (7 organs of state): ruler, ministers, territory, fort, treasury, army, allies.
-- **Central administration** at **Pataliputra** — king assisted by **Mantriparishad** (council of ministers).
-- **Mahamatras** — high commissioners for departments (revenue, military, justice, welfare).
-- **Provincial division** — empire split into provinces ruled by **Kumara** (royal princes) or trusted governors.
-- **Local administration** — districts under **Rajuka** (revenue + judicial) and **Pradeshtri** (district head with spy duties).
+- **Central administration** at **Pataliputra**. King assisted by **Mantriparishad** (council of ministers).
+- **Mahamatras** were high commissioners for departments (revenue, military, justice, welfare).
+- **Provincial division** was empire split into provinces ruled by **Kumara** (royal princes) or trusted governors.
+- **Local administration** was districts under **Rajuka** (revenue and judicial) and **Pradeshtri** (district head with spy duties).
 - **Megasthenes** describes **six boards/committees** of five members each managing: industry, foreigners, registration, trade, supervision, collection.
-- **Ashoka's innovation** — added **Dhamma-mahamatras** (14th regnal year) for moral and social welfare alongside existing bureaucracy.
-- **Law and justice** — **Rajuka** settled disputes; **Vyavaharika** law based on customs; torture restricted under Ashoka.
-- **Communication** — royal roads (Uttarapatha), **dutas** (messengers), spy network for intelligence.
-- **Army** — **six committees** managed by Megasthenes' account; war elephants central; **Mitashas** (war office).
+- **Ashoka's innovation** added **Dhamma-mahamatras** (14th regnal year) for moral and social welfare alongside existing bureaucracy.
+- **Law and justice** were handled partly by the **Rajuka**, who settled disputes. **Vyavaharika** law was based on customs, and torture was restricted under Ashoka.
+- **Communication** was royal roads (Uttarapatha), **dutas** (messengers), spy network for intelligence.
+- **The army** was managed by **six committees** in Megasthenes' account. War elephants were central, and **Mitashas** formed the war office.
 
 > **Exam note:** Mauryan administration = **centralized + bureaucratic**. Trap: "Mauryan king was constitutional monarch" — absolute ruler advised by ministers, not elected.
 
@@ -182,7 +182,7 @@ SOURCES: Kautilya Arthashastra | Megasthenes Indica | Ashokan inscriptions | Vis
 - Mantriparishad = minister council
 - Mahamatras = departmental heads
 - Megasthenes 6 committees
-- Rajuka = revenue + judicial
+- Rajuka = revenue and judicial
 - Kumara = provincial governor (prince)
 - Dhamma-mahamatras added by Ashoka
 - Royal roads and messenger system
@@ -227,16 +227,16 @@ SOURCES: Kautilya Arthashastra | Megasthenes Indica | Ashokan inscriptions | Vis
 
 ### Important Mauryan Officials — How It Works
 
-- **Samaharta** and **Sannidhata** — paired revenue officials: one **collects**, other **stores** — checks corruption through separation of duties.
-- **Rajuka** — most versatile local officer; Ashokan edicts empower Rajukas for **fair judgment** and **dhamma promotion**.
-- **Pradeshtri** — roving inspector; doubles as **intelligence agent** reporting to central authority.
-- **Agronomai** (Megasthenes' Greek term) — measured fields, inspected irrigation — function tied to **revenue assessment** ← **2020 Q4 answer D**.
-- **Dhamma-mahamatras** — appointed in Ashoka's **14th regnal year** (2024 Q20); looked after **Brahmans, Shramanas, prisoners, border tribes**.
-- **Kumara** — royal princes posted to strategic provinces (**Taxila, Ujjain, Suvarnagiri**) — combines loyalty and administrative control.
-- **Committee system** (Megasthenes) — five-member boards for separate functions — early **departmental specialization**.
-- **Antapala/Durgapala** — frontier and fort security — critical for vast empire's border control.
-- **Nagaradhyaksha** — managed city sanitation, markets, guild registration.
-- Officials paid in **cash or land grants** — career bureaucracy, not hereditary nobility.
+- **Samaharta** and **Sannidhata**. Paired revenue officials: one **collects**, other **stores**. Checks corruption through separation of duties.
+- **Rajuka** was the most versatile local officer. Ashokan edicts empowered Rajukas for **fair judgment** and **dhamma promotion**.
+- **Pradeshtri** acted as a roving inspector. He also functioned as an **intelligence agent** reporting to the central authority.
+- **Agronomai** (Megasthenes' Greek term). Measured fields, inspected irrigation. Function tied to **revenue assessment**. **2020 Q4 answer D**.
+- **Dhamma-mahamatras** were appointed in Ashoka's **14th regnal year** (2024 Q20). They looked after **Brahmans, Shramanas, prisoners, and border tribes**.
+- **Kumara** was royal princes posted to strategic provinces (**Taxila, Ujjain, Suvarnagiri**). Combines loyalty and administrative control.
+- **Committee system** (Megasthenes). Five-member boards for separate functions. Early **departmental specialization**.
+- **Antapala/Durgapala** was frontier and fort security. Critical for vast empire's border control.
+- **Nagaradhyaksha** managed city sanitation, markets, guild registration.
+- Officials paid in **cash or land grants**. Career bureaucracy, not hereditary nobility.
 
 > **Exam note:** **Samaharta ≠ Sannidhata** — collector vs treasurer. **Agronomai = revenue/land measurement** (2020 Q4), NOT road construction.
 
@@ -244,7 +244,7 @@ SOURCES: Kautilya Arthashastra | Megasthenes Indica | Ashokan inscriptions | Vis
 
 - Samaharta = revenue collector-general
 - Sannidhata = treasury chief
-- Rajuka = revenue + judicial
+- Rajuka = revenue and judicial
 - Agronomai = revenue management (2020 Q4)
 - Pradeshtri = district officer/spy
 - Dhamma-mahamatra = Ashoka's 14th year
@@ -281,16 +281,16 @@ SOURCES: Kautilya Arthashastra | Megasthenes Indica | Ashokan inscriptions | Vis
 
 ### Ashoka — How It Works
 
-- **Ashoka** — son of **Bindusara**; mother **Subhadrangi (Dharma)**; fought succession war against brothers.
-- **Coronation** ~**268 BCE** (some sources 269 BCE) — became third Mauryan emperor.
-- **Early reign**: continued expansion — **Kalinga war (261 BCE)** — massive slaughter despite victory.
-- **Remorse after Kalinga** — edict describes **100,000 killed, 150,000 deported** — turned to **Dhamma/Buddhism**.
-- **Third Buddhist Council** at **Pataliputra** (~250 BCE) under **Moggaliputta Tissa** — Buddhist church reorganized.
-- **Missionaries sent**: son **Mahinda** and daughter **Sanghamitta** to **Sri Lanka**; Buddhism spread to Central/Southeast Asia.
+- **Ashoka** was the son of **Bindusara**, and his mother was **Subhadrangi (Dharma)**. He fought a succession war against his brothers.
+- **Coronation** ~**268 BCE** (some sources 269 BCE). Became third Mauryan emperor.
+- **Early reign**: continued expansion. **Kalinga war (261 BCE)**. Massive slaughter despite victory.
+- **Remorse after Kalinga** was edict describes **100,000 killed, 150,000 deported**. Turned to **Dhamma/Buddhism**.
+- **Third Buddhist Council** at **Pataliputra** (~250 BCE) under **Moggaliputta Tissa**. Buddhist church reorganized.
+- **Ashoka sent missionaries** such as his son **Mahinda** and daughter **Sanghamitta** to **Sri Lanka**. Buddhism also spread to Central and Southeast Asia.
 - **Titles in inscriptions**: **Devanampiya** (beloved of gods), **Priyadarshi/Priyadarsin** (pleasant appearance).
-- **First identified from inscriptions** — name "Ashoka" found in **Minor Rock Edicts** (Maski, Brahmagiri).
-- **Death** ~**232 BCE**; empire began fragmenting under successors.
-- **Legacy**: greatest royal patron of Buddhism; **Dhamma policy** influenced governance across empire.
+- **First identified from inscriptions** were name "Ashoka" found in **Minor Rock Edicts** (Maski, Brahmagiri).
+- **Ashoka died around 232 BCE**. The empire began fragmenting under his successors.
+- **Ashoka's legacy** rests on his role as the greatest royal patron of Buddhism. His **Dhamma policy** influenced governance across the empire.
 
 > **Exam note:** Ashoka identified as **Devanampiya Priyadarshi** in Major Edicts; name "Ashoka" appears first in **Minor Rock Edict (Maski)**. Trap: "Ashoka ruled till 185 BCE" — he died **232 BCE**.
 
@@ -302,7 +302,7 @@ SOURCES: Kautilya Arthashastra | Megasthenes Indica | Ashokan inscriptions | Vis
 - Converted to Dhamma post-Kalinga
 - Devanampiya Priyadarshi titles
 - Third Buddhist Council Pataliputra
-- Mahinda → Sri Lanka mission
+- Mahinda to Sri Lanka mission
 - Died 232 BCE
 
 ### PYQs — Ashoka
@@ -335,16 +335,16 @@ SOURCES: Kautilya Arthashastra | Megasthenes Indica | Ashokan inscriptions | Vis
 
 ### Ashoka's Dhamma — How It Works
 
-- **Ashoka's Dhamma** — practical ethical code for subjects of **all religions** — not state conversion to Buddhism.
-- **Definition source**: drawn from **Rahulovada Sutta** (Buddhist text on humility) ← **2024 Q20 statement 1 (correct)**.
+- **Ashoka's Dhamma** was practical ethical code for subjects of **all religions**. Not state conversion to Buddhism.
+- **Definition source**: drawn from **Rahulovada Sutta** (Buddhist text on humility). **2024 Q20 statement 1 (correct)**.
 - **Core principles**: respect parents and elders, **ahimsa** (non-violence), truthfulness, compassion, religious tolerance.
-- **Dhamma-mahamatras** appointed in **14th regnal year** ← **2024 Q20 statement 2 (correct)**.
+- **Dhamma-mahamatras** appointed in **14th regnal year**. **2024 Q20 statement 2 (correct)**.
 - **Dhamma-mahamatras' duties**: care for **Brahmans, Shramanas, Ajivikas, prisoners, slaves, border tribes, women, children**.
-- **Bherighosha → Dhammaghosha**: Ashoka abandoned war drum for moral proclamation (Rock Edict XIII).
-- **Animal welfare**: restricted animal slaughter (Rock Edicts I, II); established **veterinary hospitals**.
-- **Religious tolerance**: respect all sects — Brahmans and Shramanas equally (Rock Edicts VII, XII).
-- **Public works**: wells, rest houses, shade trees along roads; medical herbs planted.
-- **Not a rigid legal code** — persuasive moral policy enforced through officials and royal example.
+- **Bherighosha to Dhammaghosha**: Ashoka abandoned war drum for moral proclamation (Rock Edict XIII).
+- **Animal welfare** under Ashoka restricted animal slaughter in Rock Edicts I and II. He also established **veterinary hospitals**.
+- **Religious tolerance**: respect all sects. Brahmans and Shramanas equally (Rock Edicts VII, XII).
+- **Public works** included wells, rest houses, and shade trees along roads. Medical herbs were also planted.
+- **Not a rigid legal code** was persuasive moral policy enforced through officials and royal example.
 
 ### Ashoka's Dhamma — Key Elements Table
 
@@ -418,16 +418,16 @@ SOURCES: Kautilya Arthashastra | Megasthenes Indica | Ashokan inscriptions | Vis
 
 ### Major Rock Edicts — How It Works
 
-- **14 Major Rock Edicts** — core Ashokan policy statements — carved at **Kalsi, Girnar (Junagarh), Dhauli, Jaugada, Mansehra, Shahbazgarhi**.
+- **14 Major Rock Edicts** were core Ashokan policy statements. Carved at **Kalsi, Girnar (Junagarh), Dhauli, Jaugada, Mansehra, Shahbazgarhi**.
 - **Scripts used**: **Brahmi** (most of India), **Kharoshthi** (northwest), **Greek and Aramaic** (Kandahar).
-- **RE XIII** — most historically important — describes **Kalinga war**, remorse, and shift to **dhamma-vijaya** (moral conquest).
-- **RE XII** — urges **concord (samavaya) among sects** — **religious synthesis** ← **UPPCS 2022 Q54 answer B**.
-- **RE V** — establishes **Dhamma-mahamatras** — links to 2024 Q20.
-- **RE I–II** — **animal welfare** and medical care — practical dhamma.
-- **RE IV** — **Rajuka** tours every 5 years — connects administration to dhamma.
-- **RE VII, XII** — **religious tolerance** — respect Brahmans, Shramanas, Ajivikas equally.
-- **RE XIV** — meta-edict listing where inscriptions were placed — helps map empire extent.
-- **Dhauli and Jaugada** — Kalinga region edicts — local context of post-war remorse.
+- **RE XIII** was most historically important. Describes **Kalinga war**, remorse, and shift to **dhamma-vijaya** (moral conquest).
+- **RE XII** urges **concord (samavaya) among sects**. **religious synthesis**. **UPPCS 2022 Q54 answer B**.
+- **RE V** establishes **Dhamma-mahamatras**. Links to 2024 Q20.
+- **RE I–II**. **animal welfare** and medical care. Practical dhamma.
+- **RE IV**. **Rajuka** tours every 5 years. Connects administration to dhamma.
+- **RE VII, XII**. **religious tolerance**. Respect Brahmans, Shramanas, Ajivikas equally.
+- **RE XIV** was meta-edict listing where inscriptions were placed. Helps map empire extent.
+- **Dhauli and Jaugada**. Kalinga region edicts. Local context of post-war remorse.
 
 > **Exam note:** **2022 Q54 = Rock Edict XII** (religious synthesis). Trap: "RE XIII = religious synthesis" — RE XIII is **Kalinga war**. Trap: "RE XI = synthesis" — RE XI explains dhamma policy generally.
 
@@ -449,7 +449,7 @@ SOURCES: Kautilya Arthashastra | Megasthenes Indica | Ashokan inscriptions | Vis
 - RE XIII = Kalinga war
 - RE V = Dhamma-mahamatras
 - Girnar/Junagarh = key site
-- Brahmi + Kharoshthi scripts
+- Brahmi and Kharoshthi scripts
 - Dhauli/Jaugada in Odisha
 - RE XIV lists inscription sites
 
@@ -483,16 +483,16 @@ SOURCES: Kautilya Arthashastra | Megasthenes Indica | Ashokan inscriptions | Vis
 
 ### Minor Rock Edicts — How It Works
 
-- **Minor Rock Edicts** — two groups (I and II) at **local sites** — precede or supplement Major Rock Edicts.
-- **Minor Rock Edict I** — Ashoka's commitment to dhamma; personal tone; found at **Maski, Brahmagiri, Rairat, Siddapur, Jatinga-Rameshwar**.
-- **Minor Rock Edict II** — instructions to officials and subjects on dhamma conduct.
-- **Maski inscription (Karnataka)** — **first edict identifying king as "Ashoka"** — earlier edicts used only **Devanampiya Priyadarshi**.
-- **Brahmagiri, Nittur, Udegolam** — Karnataka cluster of minor edicts.
-- **Kandahar bilingual edict** — Greek and Aramaic — Minor Rock Edict for **Afghan frontier** population.
-- **Scholarly significance** — enabled linking **Devanampiya Priyadarshi** with historical **Ashoka** of Buddhist texts.
-- **Local audience** — more personal, less policy-oriented than Major Rock Edicts.
-- **Distribution** — south India (Karnataka), suggesting Ashoka's reach beyond north.
-- **Dated feel** — some scholars place Minor Edicts in early post-Kalinga propagation phase.
+- **Minor Rock Edicts** were two groups (I and II) at **local sites**. Precede or supplement Major Rock Edicts.
+- **Minor Rock Edict I** records Ashoka's commitment to dhamma in a personal tone. It is found at **Maski, Brahmagiri, Rairat, Siddapur, and Jatinga-Rameshwar**.
+- **Minor Rock Edict II** was instructions to officials and subjects on dhamma conduct.
+- **Maski inscription (Karnataka)**. **first edict identifying king as "Ashoka"**. Earlier edicts used only **Devanampiya Priyadarshi**.
+- **Brahmagiri, Nittur, Udegolam**. Karnataka cluster of minor edicts.
+- **Kandahar bilingual edict**. Greek and Aramaic. Minor Rock Edict for **Afghan frontier** population.
+- **Scholarly significance** was enabled linking **Devanampiya Priyadarshi** with historical **Ashoka** of Buddhist texts.
+- **Local audience** was more personal, less policy-oriented than Major Rock Edicts.
+- **Distribution** was south India (Karnataka), suggesting Ashoka's reach beyond north.
+- **Dated feel** was some scholars place Minor Edicts in early post-Kalinga propagation phase.
 
 ### Minor Rock Edict Sites — Table
 
@@ -558,16 +558,16 @@ SOURCES: Kautilya Arthashastra | Megasthenes Indica | Ashokan inscriptions | Vis
 
 ### Pillar Edicts — How It Works
 
-- **7 Pillar Edicts** — carved on **monolithic pillars** of polished **Chunar sandstone** — hallmark of Mauryan sculpture.
-- **Sarnath pillar** — bears edict and famous **Lion Capital** — **four lions on abacus with Dharma Chakra** — **India's national emblem** (adopted 1950).
+- **7 Pillar Edicts** were carved on **monolithic pillars** of polished **Chunar sandstone**. Hallmark of Mauryan sculpture.
+- **Sarnath pillar** bears edict and famous **Lion Capital**. **four lions on abacus with Dharma Chakra**. **India's national emblem** (adopted 1950).
 - **Pillar sites**: **Sarnath, Allahabad (Kosam), Delhi-Meerut, Delhi-Topra, Lauriya-Araraj, Lauriya-Nandangarh, Rampurva**.
-- **PE II** — most detailed **definition of dhamma** — good conduct, mercy, truth, purity, kindness.
-- **PE IV** — **Rajuka** instructed to tour every 5 years — administrative dhamma (parallels RE IV).
-- **PE V** — **Dhamma-mahamatras** — connects to 2024 Q20.
-- **PE VII** — Ashoka's summary: **"gift of dhamma is the best gift"**.
-- **Schism Edict** (not numbered with 7) and **Queen's Edict** on some pillars — additional pillar inscriptions.
-- **Allahabad pillar** — has Ashokan edicts + later Samudragupta and Jahangir inscriptions.
-- **Polished mirror-like surface** — unique Mauryan technical achievement — "Mauryan polish."
+- **PE II** was most detailed **definition of dhamma**. Good conduct, mercy, truth, purity, kindness.
+- **PE IV**. **Rajuka** instructed to tour every 5 years. Administrative dhamma (parallels RE IV).
+- **PE V**. **Dhamma-mahamatras**. Connects to 2024 Q20.
+- **PE VII**. Ashoka's summary: **"gift of dhamma is the best gift"**.
+- **Schism Edict** (not numbered with 7) and **Queen's Edict** on some pillars. Additional pillar inscriptions.
+- **Allahabad pillar** has Ashokan edicts and later Samudragupta and Jahangir inscriptions.
+- **Polished mirror-like surface** was unique Mauryan technical achievement. "Mauryan polish."
 
 > **Exam note:** **Lion Capital = Sarnath** (national emblem). Trap: "Lion Capital at Delhi" — Delhi has pillars but **Sarnath** lion capital is the emblem source.
 
@@ -615,16 +615,16 @@ SOURCES: Kautilya Arthashastra | Megasthenes Indica | Ashokan inscriptions | Vis
 
 ### Cave Architecture of Mauryan Period — How It Works
 
-- **Earliest rock-cut caves in India** — **Mauryan period** (~3rd century BCE) — patronized by **Ashoka and Dasharatha**.
-- **Barabar Caves** (Bihar) — **four caves**: **Karan Chaupar, Sudama, Lomas Rishi, Vishva Zopri** — donated to **Ajivika** sect.
-- **Nagarjuni Hills caves** (near Barabar) — **Gopika, Vadathi, Vapiya** — Ashoka and Dasharatha inscriptions.
-- **Lomas Rishi cave** — famous **horseshoe-shaped arch** entrance — prototype for later Buddhist chaitya arches.
-- **Sudama cave** — circular mandapa with polished interior — Mauryan mirror polish inside.
-- **Barabar polished granite** — same technical excellence as Ashokan pillars.
-- **Donation to Ajivikas** — Ashoka's tolerance (not only Buddhist patronage); **Barabar inscriptions** name Ashoka and Dasharatha.
-- **No structural (built) Mauryan temples survive** — rock-cut caves are primary Mauryan architectural evidence.
+- **Earliest rock-cut caves in India**. **Mauryan period** (~3rd century BCE). Patronized by **Ashoka and Dasharatha**.
+- **Barabar Caves** (Bihar). **four caves**: **Karan Chaupar, Sudama, Lomas Rishi, Vishva Zopri**. Donated to **Ajivika** sect.
+- **Nagarjuni Hills caves** (near Barabar). **Gopika, Vadathi, Vapiya**. Ashoka and Dasharatha inscriptions.
+- **Lomas Rishi cave** was famous **horseshoe-shaped arch** entrance. Prototype for later Buddhist chaitya arches.
+- **Sudama cave** was circular mandapa with polished interior. Mauryan mirror polish inside.
+- **Barabar polished granite** was same technical excellence as Ashokan pillars.
+- **Donations to Ajivikas** show Ashoka's religious tolerance beyond Buddhist patronage. **Barabar inscriptions** name Ashoka and Dasharatha.
+- **No structural (built) Mauryan temples survive** was rock-cut caves are primary Mauryan architectural evidence.
 - **Influence**: Lomas Rishi arch copied in **Ajanta, Bhaja, Karla** chaitya caves centuries later.
-- **Location**: **Makhdumpur region, Jehanabad district, Bihar** — not UP, but exam-critical as earliest caves.
+- **Location**: **Makhdumpur region, Jehanabad district, Bihar**. Not UP, but exam-critical as earliest caves.
 
 ### Mauryan Caves — Complete List
 
@@ -643,10 +643,10 @@ SOURCES: Kautilya Arthashastra | Megasthenes Indica | Ashokan inscriptions | Vis
 ### Exam Facts (raata)
 
 - Earliest Indian rock-cut caves
-- Barabar + Nagarjuni hills, Bihar
+- Barabar and Nagarjuni hills, Bihar
 - Donated to Ajivika sect
 - Lomas Rishi horseshoe arch
-- Ashoka + Dasharatha patronage
+- Ashoka and Dasharatha patronage
 - Polished interior surfaces
 - Prototype for later chaitya caves
 - Sudama cave = circular mandapa
@@ -680,16 +680,16 @@ SOURCES: Kautilya Arthashastra | Megasthenes Indica | Ashokan inscriptions | Vis
 
 ### Kautilya's Arthashastra — How It Works
 
-- **Kautilya (Chanakya/Vishnugupta)** — Brahman minister who helped **Chandragupta Maurya** overthrow Nandas.
-- ***Arthashastra*** — **15 adhikaranas (books)**, **150 chapters**, **180 sections** — comprehensive governance manual.
-- **Composed for Chandragupta** — practical guide to running the Mauryan state — not purely theoretical.
+- **Kautilya (Chanakya/Vishnugupta)**. Brahman minister who helped **Chandragupta Maurya** overthrow Nandas.
+- ***Arthashastra***. **15 adhikaranas (books)**, **150 chapters**, **180 sections**. Comprehensive governance manual.
+- **Composed for Chandragupta** was practical guide to running the Mauryan state. Not purely theoretical.
 - **Topics covered**: kingship duties, **council of ministers**, **provincial administration**, **espionage**, **law**, **treasury**, **army**, **foreign policy** (six-fold policy: sandhi, vigraha, asana, yana, samsarya, dvaidhibhava).
 - **Economic policies**: state **monopolies** (mining, salt, forests), **land revenue** (1/6 produce), regulation of **guilds (shreni)**.
-- **Spy system** detailed extensively — **gudhapurusha** (secret agents) in foreign courts and domestic surveillance.
-- **Mantriparishad** — council of ministers with defined roles; king must consult but decides.
-- **Saptanga theory** — seven organs of state as foundation of polity.
-- **Realpolitik** — pragmatic, not idealistic — "ends justify means" in state interest (unlike Ashoka's later dhamma).
-- **Discovery**: text lost for centuries; **R. Shamasastry** published first edition **1909** from Mysore manuscript.
+- **Spy system** detailed extensively. **gudhapurusha** (secret agents) in foreign courts and domestic surveillance.
+- **Mantriparishad** was the council of ministers with defined roles. The king had to consult it, but he made the final decision.
+- **Saptanga theory** was seven organs of state as foundation of polity.
+- **Realpolitik** was pragmatic, not idealistic. "ends justify means" in state interest (unlike Ashoka's later dhamma).
+- **The text was lost for centuries** before rediscovery. **R. Shamasastry** published the first edition in **1909** from a Mysore manuscript.
 
 > **Exam note:** **Kautilya = Chanakya = Vishnugupta** (same person). Trap: "Arthashastra written by Ashoka" — Kautilya for Chandragupta. Trap: "Megasthenes wrote Arthashastra" — he wrote *Indica*.
 
@@ -745,16 +745,16 @@ SOURCES: Kautilya Arthashastra | Megasthenes Indica | Ashokan inscriptions | Vis
 
 ### Megasthenes — How It Works
 
-- **Megasthenes** — Greek writer and diplomat; sent by **Seleucus Nicator** to **Chandragupta Maurya's court** (~302–288 BCE).
-- **Resided at Pataliputra** — firsthand observation of Mauryan administration and society.
-- **Wrote *Indica*** — original Greek text **lost**; known through **fragments quoted by later authors** (Strabo, Arrian, Diodorus, Pliny).
-- **Described Pataliputra** — city with **wooden palisade**, **570 towers**, **64 gates**, moat — grand capital.
-- **Seven castes theory** — philosophers, farmers, herdsmen, artisans, soldiers, overseers, councillors — debated accuracy.
-- **Six committees** — five-member boards managing industry, foreigners, census, trade, inspection, revenue collection.
-- **King worship** — described Indian king (Chandragupta) surrounded by elaborate court ritual.
-- **No slavery** — noted absence of chattel slavery (debated by modern scholars).
-- **Fauna and geography** — described Indian animals (ants gathering gold), rivers, climate.
-- **Not the same as Kautilya** — Megasthenes = Greek foreign observer; Kautilya = Indian minister-theorist.
+- **Megasthenes** was a Greek writer and diplomat. **Seleucus Nicator** sent him to **Chandragupta Maurya's court** around 302–288 BCE.
+- **Resided at Pataliputra** was firsthand observation of Mauryan administration and society.
+- **Megasthenes wrote *Indica***, but the original Greek text is **lost**. It is known through **fragments quoted by later authors** such as Strabo, Arrian, Diodorus, and Pliny.
+- **Described Pataliputra** was city with **wooden palisade**, **570 towers**, **64 gates**, moat. Grand capital.
+- **Seven castes theory** was philosophers, farmers, herdsmen, artisans, soldiers, overseers, councillors. Debated accuracy.
+- **Six committees** were five-member boards managing industry, foreigners, census, trade, inspection, revenue collection.
+- **King worship** described Indian king (Chandragupta) surrounded by elaborate court ritual.
+- **No slavery** was noted absence of chattel slavery (debated by modern scholars).
+- **Fauna and geography** described Indian animals (ants gathering gold), rivers, climate.
+- **Megasthenes is not the same as Kautilya**. Megasthenes was a Greek foreign observer, while Kautilya was an Indian minister-theorist.
 
 > **Exam note:** Megasthenes = **Seleucid ambassador** (NOT Alexander's companion). Sent **after Seleucus-Chandragupta treaty**.
 
@@ -798,17 +798,17 @@ SOURCES: Kautilya Arthashastra | Megasthenes Indica | Ashokan inscriptions | Vis
 
 ### Indica — How It Works
 
-- ***Indica*** — **Megasthenes' book** describing Mauryan India — primary **foreign account** of Chandragupta's empire.
-- **Original lost** — survives only as **fragments** quoted by later Greek/Roman geographers and historians.
+- ***Indica***. **Megasthenes' book** describing Mauryan India. Primary **foreign account** of Chandragupta's empire.
+- **Original lost** survives only as **fragments** quoted by later Greek/Roman geographers and historians.
 - **Main witnesses**: **Strabo** (Geography), **Arrian**, **Diodorus Siculus**, **Pliny the Elder**, **Clement of Alexandria**.
-- **Pataliputra description** — most cited passage — fortified capital on **Ganga-Son confluence**.
-- **Administration** — six boards/committees of five members each — early evidence of **departmental governance**.
-- **Social structure** — seven-fold division of society — not identical to Indian varna system; Greek interpretive lens.
-- **Army organization** — **war elephants**, infantry, cavalry; military committees separate from civil.
-- **Geography** — rivers (Ganga, Yamuna, Sarayu), climate, monsoon, Indian fauna.
-- **King and court** — Chandragupta's royal lifestyle, bodyguards, hunting practices.
-- **Historical value** — corroborates **Arthashastra** on administration; fills gaps where inscriptions silent.
-- **Limitations** — Greek cultural bias; some fanciful elements (gold-digging ants); seven castes may be oversimplification.
+- **Pataliputra description** was most cited passage. Fortified capital on **Ganga-Son confluence**.
+- **Administration** was six boards/committees of five members each. Early evidence of **departmental governance**.
+- **Social structure** was described as a seven-fold division of society. This was not identical to the Indian varna system and reflects a Greek interpretive lens.
+- **Army organization** included **war elephants**, infantry, and cavalry. Military committees were separate from civil administration.
+- **Geography** was rivers (Ganga, Yamuna, Sarayu), climate, monsoon, Indian fauna.
+- **King and court**. Chandragupta's royal lifestyle, bodyguards, hunting practices.
+- **Historical value** comes from how *Indica* corroborates the **Arthashastra** on administration. It also fills gaps where inscriptions are silent.
+- **Limitations** include Greek cultural bias and fanciful elements such as gold-digging ants. The seven-castes description may be an oversimplification.
 
 > **Exam note:** *Indica* = **Megasthenes only** (not Kautilya, not Ashoka). Trap: "Indica is Sanskrit text" — Greek work, lost original.
 
@@ -856,17 +856,17 @@ SOURCES: Kautilya Arthashastra | Megasthenes Indica | Ashokan inscriptions | Vis
 
 ### Provincial Administration — How It Works
 
-- Mauryan empire divided into **provinces (adesha/mandala)** — governed by centrally appointed officials.
-- **Kumara** (royal prince) — preferred provincial governor for strategic regions — combines **royal blood loyalty** with administrative authority.
+- Mauryan empire divided into **provinces (adesha/mandala)**. Governed by centrally appointed officials.
+- **Kumara** (royal prince). Preferred provincial governor for strategic regions. Combines **royal blood loyalty** with administrative authority.
 - **Key provincial centres**: **Taxila** (northwest), **Ujjain** (Avanti/west), **Suvarnagiri** (south, Karnataka goldfields).
-- **Aryaputra** — non-prince governor appointed where no kumara posted.
-- **Mahamatra** — provincial commissioner overseeing multiple districts within province.
-- **Pradeshtri** — district-level officer reporting to provincial governor — inspection and intelligence.
-- **Rajuka** — district revenue and judicial officer — periodic tours mandated by Ashokan edicts.
-- **Provincial autonomy limited** — all major appointments, revenue collection, and military controlled from **Pataliputra**.
-- **Strategic placement** — princes at borders (Taxila for northwest threats; Ujjain for western routes; Suvarnagiri for southern control).
-- **Post-Ashoka partition** — empire divided among grandsons (**Dasaratha got eastern, Samprati western**) — provincial system became basis for fragmentation.
-- **Eastern UP regions** (Kosala, Kashi areas) under direct imperial administration — no separate provincial capital named but integrated into Gangetic core.
+- **Aryaputra** was non-prince governor appointed where no kumara posted.
+- **Mahamatra** was provincial commissioner overseeing multiple districts within province.
+- **Pradeshtri** was district-level officer reporting to provincial governor. Inspection and intelligence.
+- **Rajuka** was district revenue and judicial officer. Periodic tours mandated by Ashokan edicts.
+- **Provincial autonomy limited** was all major appointments, revenue collection, and military controlled from **Pataliputra**.
+- **Strategic placement** put princes at border and route centres. Taxila guarded northwest threats, Ujjain controlled western routes, and Suvarnagiri managed southern control.
+- **Post-Ashoka partition** was empire divided among grandsons (**Dasaratha got eastern, Samprati western**). Provincial system became basis for fragmentation.
+- **Eastern UP regions** (Kosala, Kashi areas) under direct imperial administration. No separate provincial capital named but integrated into Gangetic core.
 
 > **Exam note:** **Taxila, Ujjain, Suvarnagiri** = three key kumara provinces. Trap: "Pataliputra was a province" — it was **capital**, not provincial seat.
 
@@ -912,17 +912,17 @@ SOURCES: Kautilya Arthashastra | Megasthenes Indica | Ashokan inscriptions | Vis
 
 ### Revenue Administration — How It Works
 
-- **Land revenue (bhaga)** — primary tax source — standard rate **1/6 of produce** (according to Arthashastra) — could vary by land quality.
-- **Samaharta** — **collector-general of revenue** — aggregates taxes from all provinces and sources.
-- **Sannidhata** — **treasury chief** — receives and stores collected revenue — **checks Samaharta** through separation of duties.
-- **Rajuka** — assesses land, records boundaries, settles revenue disputes — periodic reassessment tours.
-- **Agronomai** — **land measurement officers** (Megasthenes' term) — measure fields, inspect irrigation — feed revenue assessment ← **2020 Q4**.
+- **Land revenue (bhaga)** was primary tax source. Standard rate **1/6 of produce** (according to Arthashastra). Could vary by land quality.
+- **Samaharta**. **collector-general of revenue**. Aggregates taxes from all provinces and sources.
+- **Sannidhata**. **treasury chief**. Receives and stores collected revenue. **checks Samaharta** through separation of duties.
+- **Rajuka** assesses land, records boundaries, settles revenue disputes. Periodic reassessment tours.
+- **Agronomai**. **land measurement officers** (Megasthenes' term). Measure fields, inspect irrigation. Feed revenue assessment. **2020 Q4**.
 - **Non-agricultural revenue**: **customs duties** (sulka) on trade, **forest produce**, **mining royalties**, **guild taxes**.
-- **State monopolies** — **mines, salt, liquor, forest products** — Arthashastra recommends crown control of key resources.
-- **Pautavadhyaksha** — superintendent of **weights and measures** — prevents fraud in revenue collection.
-- **Treasury (kosha)** — stored gold, silver, punch-marked coins; funded army, administration, public works.
-- **Ashoka's dhamma** added welfare expenditure — hospitals, roads, wells — from same revenue base.
-- **No private ownership of land by king** — crown claimed revenue share, not necessarily ownership (debated by scholars).
+- **State monopolies**. **mines, salt, liquor, forest products**. Arthashastra recommends crown control of key resources.
+- **Pautavadhyaksha** was superintendent of **weights and measures**. Prevents fraud in revenue collection.
+- **Treasury (kosha)** stored gold, silver, and punch-marked coins. It funded the army, administration, and public works.
+- **Ashoka's dhamma** added welfare expenditure. Hospitals, roads, wells. From same revenue base.
+- **No private ownership of land by king** was crown claimed revenue share, not necessarily ownership (debated by scholars).
 
 ### Revenue Officials — Table
 
@@ -977,17 +977,17 @@ SOURCES: Kautilya Arthashastra | Megasthenes Indica | Ashokan inscriptions | Vis
 
 ### Spy System — How It Works
 
-- **Arthashastra** devotes extensive chapters to **espionage** — considers it essential for **state security and stability**.
-- **Gudhapurusha (secret agents)** — classified types: **spy as ascetic, merchant, householder, poisoner, firebrand agent**.
-- **Pradeshtri** — district officer with **intelligence duties** — inspects officials, reports corruption and rebellion.
-- **Domestic spies** — monitor ministers, provincial governors, and general population — detect **conspiracy and disloyalty**.
-- **Foreign spies** — stationed in **neighbouring states** — report on enemy military, alliances, and court politics.
-- **Double agents** — Arthashastra describes using **enemy spies turned** to feed false information.
-- **Female agents** — women spies in harems and households — gather intelligence in domestic settings.
-- **King's direct access** — spies report **secretly to king** — bypassing normal administrative chain to prevent collusion.
-- **Ashoka's contrast** — later dhamma policy de-emphasized harsh espionage; focused on **moral governance** through Dhamma-mahamatras.
-- **Practical purpose** — in large empire without modern communication, spy network was **early warning system** against rebellion and invasion.
-- **Ethical debate** — Kautilya justifies deception for state survival — "ends justify means" in Arthashastra tradition.
+- **Arthashastra** devotes extensive chapters to **espionage**. Considers it essential for **state security and stability**.
+- **Gudhapurusha (secret agents)** were classified types: **spy as ascetic, merchant, householder, poisoner, firebrand agent**.
+- **Pradeshtri** was district officer with **intelligence duties**. Inspects officials, reports corruption and rebellion.
+- **Domestic spies** were monitor ministers, provincial governors, and general population. Detect **conspiracy and disloyalty**.
+- **Foreign spies** were stationed in **neighbouring states**. Report on enemy military, alliances, and court politics.
+- **Double agents**. Arthashastra describes using **enemy spies turned** to feed false information.
+- **Female agents** were women spies in harems and households. Gather intelligence in domestic settings.
+- **King's direct access** were spies report **secretly to king**. Bypassing normal administrative chain to prevent collusion.
+- **Ashoka's later dhamma policy** de-emphasized harsh espionage. It focused on **moral governance** through Dhamma-mahamatras.
+- **Practical purpose** was in large empire without modern communication, spy network was **early warning system** against rebellion and invasion.
+- **Ethical debate**. Kautilya justifies deception for state survival. "ends justify means" in Arthashastra tradition.
 
 ### Spy Types in Arthashastra — Table
 
@@ -1006,7 +1006,7 @@ SOURCES: Kautilya Arthashastra | Megasthenes Indica | Ashokan inscriptions | Vis
 - Gudhapurusha = secret agents
 - Arthashastra details spy types
 - Pradeshtri has intelligence role
-- Domestic + foreign espionage
+- Domestic and foreign espionage
 - Female agents in households
 - King receives direct spy reports
 - Double agents used

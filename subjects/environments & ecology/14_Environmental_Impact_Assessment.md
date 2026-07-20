@@ -147,18 +147,18 @@ KEY TRAPS:
 
 ### Environmental Impact Assessment — How It Works
 
-- **EIA** is an **anticipatory** environmental management tool — it asks "what will this project do to air, water, land, biodiversity, and local communities?" **before** approval, so harmful projects can be rejected, redesigned, or conditioned with mitigation — not cleaned up after damage (reactive approach).
-- **Legal foundation** is the **Environment (Protection) Act, 1986** — enacted after **Bhopal Gas Tragedy (1984)**; **Section 3** gives Central Government power to notify rules; **EIA Notification** issued under this authority (first **1994**, replaced by comprehensive **EIA Notification 2006** dated **14 September 2006**).
-- **Environmental Clearance (EC)** is the **mandatory permit** for projects listed in the EIA Schedule — without EC, construction, land preparation, or operation is **illegal**; clearance specifies conditions the project must comply with throughout its life cycle.
-- **Competent authorities**: **Category A** projects (large scale, high impact — major dams, inter-state highways, big thermal plants, airports) → **MoEFCC** decides EC based on **Expert Appraisal Committee (EAC)** recommendation; **Category B** projects → **State Environment Impact Assessment Authority (SEIAA)** based on **State Expert Appraisal Committee (SEAC)** recommendation.
-- **Category B sub-division**: **Screening** (Stage 1, B only) splits Category B into **B1** (requires full EIA report + usually public hearing) and **B2** (no full EIA report required — smaller impact); **DEIAA** (District EIA Authority) handles **B2 minor mineral mining** at district level under amended rules.
-- **General Condition (GC) trap**: A project listed as Category B becomes **Category A** (central appraisal) if located in **sensitive areas** — national parks, wildlife sanctuaries, ESZ, CRZ, inter-state boundaries, or critically polluted areas — exams test this elevation rule.
-- **Four-stage EC process** (maximum — not all stages apply to every project): **(1) Screening** — Category B only, decides B1 vs B2; **(2) Scoping** — EAC/SEAC fixes **Terms of Reference (ToR)** defining what the EIA must study; **(3) Public Consultation** — **public hearing** at site + written comments from stakeholders; **(4) Appraisal** — EAC/SEAC evaluates draft/final EIA and EMP, recommends grant, rejection, or conditional clearance.
-- **EIA report core components**: **baseline environmental data** (pre-project air, water, soil, noise, biodiversity); **impact prediction** for construction and operation phases; **mitigation measures** to reduce adverse impacts; **Environmental Management Plan (EMP)** for ongoing compliance; **disaster management plan** where applicable.
-- **Rapid vs Comprehensive EIA**: **Rapid EIA** collects baseline data for **one season** only — faster but less reliable; **Comprehensive EIA** covers **all seasons** (mandatory for many Category A projects) — captures monsoon/dry variations critical in India.
-- **Post-clearance compliance**: Project proponent must submit **half-yearly compliance reports** to MoEFCC/SEIAA; **regional offices of MoEFCC**, **SPCBs**, and **CPCB** monitor conditions; violations can lead to **EC cancellation**, NGT orders, and penalties under EPA.
-- **PARIVESH portal** (Pro-Active and Responsive facilitation by MoEFCC for Environmental Clearance) — **single-window online system** for EC applications, tracking, and transparency; replaced earlier manual submission for most projects.
-- **Appeals and judicial review**: **National Green Tribunal (NGT)** established under **NGT Act, 2010** hears appeals against EC grants/rejections and pollution orders; **Supreme Court** has interpreted EIA law in landmark cases (**Lafarge mining**, **Himachal limestone**, **POSCO Odisha**, **Great Nicobar**).
+- **EIA** is an **anticipatory** environmental management tool that asks "what will this project do to air, water, land, biodiversity, and local communities?" **before** approval. Harmful projects can then be rejected, redesigned, or conditioned with mitigation rather than cleaned up after damage in a reactive approach.
+- The **legal foundation** is the **Environment (Protection) Act, 1986**, enacted after the **Bhopal Gas Tragedy (1984)**. **Section 3** gives the Central Government power to notify rules, and the **EIA Notification** is issued under this authority (first **1994**, replaced by the comprehensive **EIA Notification 2006** dated **14 September 2006**).
+- **Environmental Clearance (EC)** is the **mandatory permit** for projects listed in the EIA Schedule. Without EC, construction, land preparation, or operation is **illegal**, and clearance specifies conditions the project must comply with throughout its life cycle.
+- **Category A** projects (large scale, high impact: major dams, inter-state highways, big thermal plants, airports) are decided by **MoEFCC** based on **Expert Appraisal Committee (EAC)** recommendation. **Category B** projects go to **State Environment Impact Assessment Authority (SEIAA)** based on **State Expert Appraisal Committee (SEAC)** recommendation.
+- **Screening** (Stage 1, Category B only) splits Category B into **B1** (requires full EIA report and usually a public hearing) and **B2** (no full EIA report required for smaller impact). **DEIAA** (District EIA Authority) handles **B2 minor mineral mining** at district level under amended rules.
+- Under the **General Condition (GC) trap**, a project listed as Category B becomes **Category A** (central appraisal) if located in **sensitive areas** such as national parks, wildlife sanctuaries, ESZ, CRZ, inter-state boundaries, or critically polluted areas. Exams frequently test this elevation rule.
+- The **four-stage EC process** (maximum, not all stages apply to every project) runs as follows. **(1) Screening** applies to Category B only and decides B1 vs B2. **(2) Scoping** is when EAC/SEAC fixes **Terms of Reference (ToR)** defining what the EIA must study. **(3) Public Consultation** includes a **public hearing** at site plus written comments from stakeholders. **(4) Appraisal** is when EAC/SEAC evaluates draft/final EIA and EMP and recommends grant, rejection, or conditional clearance.
+- An **EIA report** includes **baseline environmental data** (pre-project air, water, soil, noise, biodiversity), **impact prediction** for construction and operation phases, **mitigation measures** to reduce adverse impacts, an **Environmental Management Plan (EMP)** for ongoing compliance, and a **disaster management plan** where applicable.
+- **Rapid EIA** collects baseline data for **one season** only, which is faster but less reliable. **Comprehensive EIA** covers **all seasons** (mandatory for many Category A projects) and captures monsoon/dry variations critical in India.
+- **Post-clearance compliance** requires the project proponent to submit **half-yearly compliance reports** to MoEFCC/SEIAA. **Regional offices of MoEFCC**, **SPCBs**, and **CPCB** monitor conditions, and violations can lead to **EC cancellation**, NGT orders, and penalties under EPA.
+- The **PARIVESH portal** (Pro-Active and Responsive facilitation by MoEFCC for Environmental Clearance) is a **single-window online system** for EC applications, tracking, and transparency. It replaced earlier manual submission for most projects.
+- **Appeals and judicial review** go to the **National Green Tribunal (NGT)**, established under **NGT Act, 2010**, which hears appeals against EC grants/rejections and pollution orders. The **Supreme Court** has interpreted EIA law in landmark cases (**Lafarge mining**, **Himachal limestone**, **POSCO Odisha**, **Great Nicobar**).
 
 > **Exam note:** Org trap (2025 Q70 pattern) — **CPCB prepares pollution standards and monitors air/water quality** — it does **NOT** grant Environmental Clearance. EC authority = **MoEFCC** (Category A) or **SEIAA** (Category B). Picking CPCB for EC questions = wrong.
 
@@ -204,35 +204,31 @@ KEY TRAPS:
 ### Exam Facts (raata)
 
 - EIA legal base = **EPA 1986**, Section 3
-- First EIA Notification = **1994**; current = **2006** (14 September)
-- **Category A** → MoEFCC + **EAC** (central)
-- **Category B** → **SEIAA** + **SEAC** (state)
-- Four stages: Screening → Scoping → Public Consultation → Appraisal
-- Screening = **Category B only**
-- B1 = full EIA; B2 = no full EIA report
-- **Public hearing** in Public Consultation stage
-- **NGT (2010)** hears EC appeals
-- **CPCB ≠ EC authority** — standards only
-- **PARIVESH** = online EC portal
-- EC must be **prior** to construction — ex-post facto illegal
+- The first EIA Notification came in **1994**, and the current framework is **2006** (14 September).
+- **Category A** projects are appraised by **MoEFCC** through **EAC** at the central level.
+- **Category B** projects are appraised by **SEIAA** through **SEAC** at the state level.
+- The four stages run Screening, then Scoping, then Public Consultation, then Appraisal.
+- Screening applies to **Category B only**.
+- **B1** requires a full EIA report, while **B2** does not.
+- The **public hearing** takes place in the Public Consultation stage.
+- **NGT (2010)** hears appeals against EC decisions.
+- **CPCB is not an EC authority** and sets pollution standards only.
+- **PARIVESH** is the online EC portal.
+- EC must be obtained **prior** to construction, and ex-post facto clearance is illegal.
 
 ### PYQs — EIA
 
-1. **(UPPCS Prelims 2025, Q22 — EIA relevance crossover)** With reference to carrying capacity: Stmt 2 — "Generation of waste should remain within the absorption capacity of environment" = **TRUE**. EIA process evaluates whether project's emissions/waste stay within this limit — core purpose of impact assessment.
+1. **(UPPCS Prelims 2025, Q22, EIA relevance crossover)** With reference to carrying capacity, Statement 2 ("Generation of waste should remain within the absorption capacity of environment") is **TRUE**. The EIA process evaluates whether a project's emissions and waste stay within this limit, which is the core purpose of impact assessment.
 
-2. **(UPPCS Prelims 2025, Q70 — org trap pattern)** Annual Groundwater Quality Report = **CGWB** (not CPCB). Parallel trap: **Environmental Clearance** = **MoEFCC/SEIAA** (not CPCB, not CGWB).
+2. **(UPPCS Prelims 2025, Q70, org trap pattern)** The Annual Groundwater Quality Report is prepared by **CGWB** (not CPCB). A parallel trap: **Environmental Clearance** is granted by **MoEFCC/SEIAA** (not CPCB or CGWB).
 
-3. **(UPPCS Prelims 2025 / Topic 1, Q33 — legal base)** Which pair NOT matched: Water Act — 1981?
-   → **Water Act = 1974** (Air Act = 1981). **EPA = 1986** = legal foundation for EIA Notification.
+3. **(UPPCS Prelims 2025 / Topic 1, Q33, legal base)** Which pair is NOT matched: Water Act and 1981? **Water Act = 1974** (Air Act = 1981). **EPA = 1986** is the legal foundation for the EIA Notification.
 
-4. **(UPSC 2019 — pattern)** Environmental Clearance for Category A projects is granted by:
-   → **(a) Ministry of Environment, Forest and Climate Change** on EAC recommendation. Trap: SPCB or CPCB — wrong bodies.
+4. **(UPSC 2019, pattern)** Environmental Clearance for Category A projects is granted by **(a) Ministry of Environment, Forest and Climate Change** on EAC recommendation. SPCB or CPCB are wrong bodies.
 
-5. **(UPSC 2020 — pattern)** Consider: 1. EIA is mandatory for all projects in India. 2. EIA Notification is issued under EPA 1986.
-   → **Only 2 correct** — EIA mandatory only for **listed** projects in Schedule, not all. Notification indeed under EPA 1986.
+5. **(UPSC 2020, pattern)** Consider: 1. EIA is mandatory for all projects in India. 2. EIA Notification is issued under EPA 1986. **Only 2 is correct** because EIA is mandatory only for **listed** projects in the Schedule, not all projects. The Notification is indeed issued under EPA 1986.
 
-6. **(UPSC 2014 — pattern)** The National Green Tribunal Act was passed in:
-   → **(b) 2010** — NGT hears appeals against EC and environmental orders.
+6. **(UPSC 2014, pattern)** The National Green Tribunal Act was passed in **(b) 2010**. NGT hears appeals against EC and environmental orders.
 
 ### Examples (14.1)
 
@@ -260,16 +256,16 @@ KEY TRAPS:
 
 ### Strategic Environmental Assessment — How It Works
 
-- **SEA operates upstream of EIA** — it asks "should we build anything here at all, and what type of development fits this region?" at the **policy/plan/programme (PPP)** stage — **before** individual projects are designed and submitted for EIA — prevents lock-in to environmentally harmful development paths.
-- **EIA is reactive at the project gate** — even a well-conducted EIA can only choose between accepting, modifying, or rejecting **one pre-selected project**; it cannot question whether the **overall plan** (e.g., 100 new coal plants in a river basin) is environmentally wise — **SEA addresses that strategic gap**.
-- **SEA assesses cumulative and synergistic impacts** — multiple projects in a plan may each pass individual EIA but collectively overwhelm an ecosystem (e.g., several dams on Ganga tributaries, multiple expressways through Terai forests) — SEA evaluates **combined footprint**.
-- **Alternatives analysis at strategic level**: SEA compares **different plan scenarios** — zero option, moderate growth, high infrastructure — and identifies the **most environmentally sustainable strategic choice** before committing public resources.
-- **Public participation in planning**: SEA embeds consultation when **policy choices are still flexible** — cheaper and more democratic than consulting only after a specific project design is finalized (late-stage EIA public hearing limitation).
-- **Global legal frameworks**: **Espoo Convention (1991)** — UNECE convention on **EIA in transboundary context**; **SEA Protocol (2003)** signed at Kiev — extends to strategic plans/programmes; **EU SEA Directive 2001/42/EC** — binding on member states for listed sectors.
-- **Rio Declaration (1992) Principle 17**: "Environmental impact assessment, as a national instrument, shall be undertaken for proposed activities that are likely to have a significant adverse impact" — establishes **EIA as international norm**; SEA builds on this logic at higher decision tier but is **not explicitly in Rio Principle 17 text**.
-- **India's status — critical exam point**: India has **robust project-level EIA** (Notification 2006) but **no standalone SEA legislation** — strategic environmental concerns enter indirectly through **planning commissions/NITI Aayog**, **coastal zone management plans**, **wildlife conservation plans**, and ** river-basin planning** — but no unified mandatory SEA law like EU.
-- **Partial SEA-like mechanisms in India**: **Coastal Regulation Zone (CRZ) notifications** — strategic zoning before project EC; **Eco-Sensitive Zone (ESZ) notifications** around protected areas — restrict plan types; **Environmental Appraisal of River Valley projects** — basin-level review; **Draft National Forest Policy** and **National Mineral Policy** — ideally should undergo SEA but not legally mandated as SEA.
-- **SDG and LDN link**: **SDG 15.3 (Land Degradation Neutrality)** and integrated planning require **strategic** assessment of land-use change — SEA methodology supports achieving LDN by evaluating plans before projects fragment habitats (Topic 13 crossover — brief: plan-level prevention vs project-level mitigation).
+- **SEA operates upstream of EIA**, asking "should we build anything here at all, and what type of development fits this region?" at the **policy/plan/programme (PPP)** stage **before** individual projects are designed and submitted for EIA. This prevents lock-in to environmentally harmful development paths.
+- **EIA is reactive at the project gate** because even a well-conducted EIA can only choose between accepting, modifying, or rejecting **one pre-selected project**. It cannot question whether the **overall plan** (e.g., 100 new coal plants in a river basin) is environmentally wise, and **SEA addresses that strategic gap**.
+- **SEA assesses cumulative and synergistic impacts** because multiple projects in a plan may each pass individual EIA but collectively overwhelm an ecosystem (e.g., several dams on Ganga tributaries, multiple expressways through Terai forests). SEA evaluates the **combined footprint**.
+- At the **strategic level**, SEA compares **different plan scenarios** (zero option, moderate growth, high infrastructure) and identifies the **most environmentally sustainable strategic choice** before committing public resources.
+- **Public participation in planning** is embedded in SEA when **policy choices are still flexible**, which is cheaper and more democratic than consulting only after a specific project design is finalized (the limitation of late-stage EIA public hearings).
+- **Global legal frameworks** include the **Espoo Convention (1991)**, a UNECE convention on **EIA in transboundary context**, the **SEA Protocol (2003)** signed at Kiev extending to strategic plans/programmes, and the **EU SEA Directive 2001/42/EC**, binding on member states for listed sectors.
+- **Rio Declaration (1992) Principle 17** states: "Environmental impact assessment, as a national instrument, shall be undertaken for proposed activities that are likely to have a significant adverse impact." This establishes **EIA as an international norm**, while SEA builds on this logic at a higher decision tier but is **not explicitly in Rio Principle 17 text**.
+- **India's status** is a critical exam point: India has **robust project-level EIA** (Notification 2006) but **no standalone SEA legislation**. Strategic environmental concerns enter indirectly through **planning commissions/NITI Aayog**, **coastal zone management plans**, **wildlife conservation plans**, and **river-basin planning**, but there is no unified mandatory SEA law like the EU.
+- **Partial SEA-like mechanisms in India** include **Coastal Regulation Zone (CRZ) notifications** for strategic zoning before project EC, **Eco-Sensitive Zone (ESZ) notifications** around protected areas that restrict plan types, **Environmental Appraisal of River Valley projects** for basin-level review, and **Draft National Forest Policy** and **National Mineral Policy**, which ideally should undergo SEA but are not legally mandated as SEA.
+- **SDG 15.3 (Land Degradation Neutrality)** and integrated planning require **strategic** assessment of land-use change. SEA methodology supports achieving LDN by evaluating plans before projects fragment habitats (Topic 13 crossover: plan-level prevention vs project-level mitigation).
 
 > **Exam note:** Statement "India has mandatory SEA law equivalent to EIA Notification" = **FALSE**. India mandates **project-level EIA** under EPA 1986 notification — **no equivalent standalone SEA notification** as of 2026. SEA exists in international law (UNECE Protocol 2003) and EU — not fully domesticated in India.
 
@@ -299,10 +295,10 @@ KEY TRAPS:
 
 ### Exam Facts (raata)
 
-- SEA = **Policies, Plans, Programmes** — not individual projects
-- SEA is **upstream** of EIA in decision hierarchy
-- India has **EIA law** — **no standalone SEA law**
-- SEA Protocol = **2003** (Kiev) — UNECE Espoo framework
+- SEA applies to **Policies, Plans, and Programmes**, not individual projects.
+- SEA sits **upstream** of EIA in the decision hierarchy.
+- India has **EIA law** but **no standalone SEA law**.
+- The SEA Protocol dates to **2003** (Kiev) under the UNECE Espoo framework.
 - EU SEA Directive = **2001/42/EC**
 - Rio **Principle 17** = EIA norm (project level)
 - SEA evaluates **cumulative** impacts of multiple projects
@@ -312,14 +308,11 @@ KEY TRAPS:
 
 ### PYQs — SEA
 
-1. **(UPSC 2018 — pattern)** Strategic Environmental Assessment (SEA) is conducted at the level of:
-   → **(b) Policies, plans, and programmes** — Not individual projects (EIA) or products.
+1. **(UPSC 2018, pattern)** Strategic Environmental Assessment (SEA) is conducted at the level of **(b) Policies, plans, and programmes**, not individual projects (EIA) or products.
 
-2. **(UPSC 2016 — pattern)** Which statement about EIA and SEA is correct? (a) SEA comes after EIA (b) SEA is project-specific (c) SEA is applied at planning stage before projects (d) India has SEA notification identical to EIA
-   → **(c) SEA at planning stage before projects** — SEA is upstream; India lacks identical SEA notification (d false).
+2. **(UPSC 2016, pattern)** Which statement about EIA and SEA is correct? **(c) SEA is applied at the planning stage before projects** because SEA is upstream, and India lacks an identical SEA notification (making d false).
 
-3. **(UPSC 2021 — pattern)** Espoo Convention is related to:
-   → **(a) Environmental Impact Assessment in transboundary context** — SEA Protocol 2003 extends Espoo to strategic level.
+3. **(UPSC 2021, pattern)** Espoo Convention is related to **(a) Environmental Impact Assessment in transboundary context**. The SEA Protocol 2003 extends Espoo to the strategic level.
 
 ### Examples (14.2)
 
@@ -489,9 +482,9 @@ Options: A. Central Pollution Control Board  B. State Environment Impact Assessm
 
 **Q6.** Which of the following pairs is/are correctly matched?
 
-1. EAC — Expert Appraisal Committee at central level
-2. SEAC — State Expert Appraisal Committee
-3. CPCB — Grants environmental clearance for Category A projects
+1. EAC is the Expert Appraisal Committee at the central level.
+2. SEAC is the State Expert Appraisal Committee.
+3. CPCB grants environmental clearance for Category A projects.
 
 Select the correct answer from the code given below:
 
@@ -795,9 +788,9 @@ Options: A. Requires no baseline data  B. Covers data from all seasons  C. Exemp
 
 **Q27.** Which of the following pairs is/are NOT correctly matched?
 
-1. MoEFCC — Category A Environmental Clearance
-2. CPCB — Category A Environmental Clearance
-3. SEIAA — Category B Environmental Clearance
+1. MoEFCC grants Category A Environmental Clearance.
+2. CPCB grants Category A Environmental Clearance.
+3. SEIAA grants Category B Environmental Clearance.
 
 Select the correct answer from the code given below:
 

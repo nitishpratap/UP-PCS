@@ -106,29 +106,29 @@ SCIENCE: Aryabhata (Aryabhatiya, zero) | Varahamihira | Brahmagupta
 ### Gupta Administration — How It Works
 
 - **Gupta empire** restored pan-north Indian unity (~320 CE) after post-Mauryan fragmentation and Kushan decline.
-- **Administration less centralized than Mauryas** — **land grants (brahmadeya, agrahara)** to Brahmans created local autonomous pockets.
-- **King** = supreme sovereign; titles **Maharajadhiraja**, **Paramabhattaraka**; divine kingship ideology stronger than Mauryan era.
-- **Council of ministers (Mantriparishad)** advised king; **Sandhivigrahika** = minister of foreign affairs/war-and-peace (unique Gupta title).
+- **Administration was less centralized than Mauryan administration** because **land grants (brahmadeya, agrahara)** to Brahmans created local autonomous pockets.
+- **King** was the supreme sovereign and used titles such as **Maharajadhiraja** and **Paramabhattaraka**. Gupta political ideology gave divine kingship a stronger emphasis than in the Mauryan era.
+- **Council of ministers (Mantriparishad)** advised the king. The **Sandhivigrahika** served as the minister of foreign affairs and war-and-peace, a distinctive Gupta title.
 - **Provincial system**: empire divided into **Bhuktis** (provinces) governed by **Uparikas** (governors).
-- **District level**: **Vishayas** administered by **Kumaramatyas** or **Ayuktakas** — executive officers.
+- **District level** had **Vishayas** administered by **Kumaramatyas** or **Ayuktakas**, who served as executive officers.
 - **Village level**: **Gramika** (village headman), **Kutumbins** (leading families) managed local affairs.
-- **Revenue**: land tax (**bhaga**) typically **1/4 to 1/6** of produce; reduced rates in Gupta prosperity era.
-- **Guilds (shreni)** autonomous — managed trade and crafts; guild laws recognized by state.
+- **Revenue** came mainly from land tax (**bhaga**), typically **1/4 to 1/6** of produce. Rates were lower during the prosperous Gupta phase.
+- **Guilds (shreni)** remained autonomous and managed trade and crafts. The state recognized guild laws.
 - **Legal traditions**: **Dharmashastras** and **Smritis** (Narada, Yajnavalkya) codified during Gupta period.
-- **Sources**: inscriptions (land grants), **Puranas** (genealogy — but **Vayu Purana Gupta governance claim is unreliable** per 2023 Q29).
+- **Sources** include inscriptions for land grants and **Puranas** for genealogy. The **Vayu Purana Gupta governance claim is unreliable** per 2023 Q29.
 
 > **Exam note:** Gupta admin = **decentralized + land grants**. Trap: "Gupta administration more centralized than Mauryas" — false; samanta feudatories increased.
 
 ### Exam Facts (raata)
 
-- Less centralized than Mauryas
-- Bhukti = province; Uparika = governor
-- Vishaya = district
-- Sandhivigrahika = foreign minister
-- Samanta = feudatory chief
-- Brahmadeya land grants
-- Guild (shreni) autonomy
-- Dharmashastra codification
+- Gupta administration was less centralized than Mauryan administration.
+- **Bhukti** was the province, and **Uparika** was its governor.
+- **Vishaya** was the district-level unit.
+- **Sandhivigrahika** was the foreign minister or war-and-peace officer.
+- **Samanta** was a feudatory chief.
+- **Brahmadeya** land grants increased local autonomy.
+- Guilds (**shreni**) enjoyed recognized autonomy.
+- Dharmashastra codification was important in this period.
 
 ### PYQs — Gupta Administration
 
@@ -152,17 +152,17 @@ SCIENCE: Aryabhata (Aryabhatiya, zero) | Varahamihira | Brahmagupta
 
 ### Gupta Administration System — How It Works
 
-- **Hierarchical structure**: King → Ministers → **Uparikas** (provinces) → **Kumaramatyas/Ayuktakas** (districts) → **Gramikas** (villages).
-- **Maharajadhiraja** at apex — **paramount sovereignty** over subordinate kings (samantas).
-- **Kumaramatya** — versatile officer: revenue, justice, military — posted to **Vishayas** and special assignments.
-- **Ayuktaka** — appointed official for specific districts; similar to Kumaramatya function.
-- **Pustapalas** — record keepers maintaining land grant registers and revenue accounts.
-- **Dutaka** — messenger/commissioner who delivered royal grants and carried orders.
-- **Army**: **Chaturangabala** (infantry, cavalry, elephants, chariots) — samantas supplied contingents.
-- **Feudatory integration**: defeated kings became **samantas** — acknowledged Gupta suzerainty, paid tribute, attended court.
-- **Land grants to temples/Brahmans** carried fiscal and administrative immunity — reduced direct crown control.
-- **Judicial system**: local village assemblies (**panchayat** tradition); king as court of final appeal.
-- **No elaborate spy system** like Arthashastra — Gupta rule relied more on feudal loyalty and Brahmanical legitimacy.
+- **Hierarchical structure** moved from the king to ministers, then to **Uparikas** for provinces, **Kumaramatyas/Ayuktakas** for districts, and **Gramikas** for villages.
+- **Maharajadhiraja** stood at the apex and claimed **paramount sovereignty** over subordinate kings or samantas.
+- **Kumaramatya** was a versatile officer who handled revenue, justice, and military work in **Vishayas** and special assignments.
+- **Ayuktaka** was an appointed official for specific districts. Its function was similar to that of a Kumaramatya.
+- **Pustapalas** were record keepers who maintained land grant registers and revenue accounts.
+- **Dutaka** was a messenger or commissioner who delivered royal grants and carried orders.
+- **Army** used **Chaturangabala**, which included infantry, cavalry, elephants, and chariots. Samantas supplied contingents.
+- **Feudatory integration** turned defeated kings into **samantas** who acknowledged Gupta suzerainty, paid tribute, and attended court.
+- **Land grants to temples/Brahmans** carried fiscal and administrative immunity and reduced direct crown control.
+- **Judicial system** relied on local village assemblies in the **panchayat** tradition. The king remained the court of final appeal.
+- **Gupta rule lacked an elaborate spy system** like the Arthashastra model and relied more on feudal loyalty and Brahmanical legitimacy.
 
 ### Administrative Hierarchy — Table
 
@@ -177,7 +177,7 @@ SCIENCE: Aryabhata (Aryabhatiya, zero) | Varahamihira | Brahmagupta
 
 ### Exam Facts (raata)
 
-- King → Uparika → Kumaramatya → Gramika chain
+- The administrative chain ran from king to Uparika, then to Kumaramatya and Gramika.
 - Kumaramatya = district executive
 - Dutaka = grant delivery officer
 - Pustapala = record keeper
@@ -215,16 +215,16 @@ SCIENCE: Aryabhata (Aryabhatiya, zero) | Varahamihira | Brahmagupta
 
 ### Chandragupta II — How It Works
 
-- **Chandragupta II** (~380–415 CE) — son of **Samudragupta**; also called **Vikramaditya** in literary tradition.
-- **Greatest military achievement**: defeated **Western Kshatrapas (Shakas)** — ended Shaka rule in western India.
+- **Chandragupta II** (~380–415 CE) was the son of **Samudragupta**. Literary tradition also calls him **Vikramaditya**.
+- **Greatest military achievement** was Chandragupta II's defeat of the **Western Kshatrapas (Shakas)**, which ended Shaka rule in western India.
 - **Strongest evidence of Shaka victory**: **silver coins** issued by Chandragupta II commemorating victory ← **UPPCS 2022 Q23 statement 1 (correct)**.
-- **Silver coin weight**: approximately **33 grains** (rupaka standard) ← **2022 Q23 statement 2 (correct)** → **Answer B (Both 1 and 2)**.
-- **Court of Nine Gems (Navaratna)** — legendary scholars including **Kalidasa, Amarasimha, Varahamihira** (partly literary tradition).
-- **Fa-Hien (Faxian)** — Chinese pilgrim visited India **399–414 CE** during Chandragupta II's reign — described **Pataliputra, Nalanda, Ujjain**.
-- **Udayagiri caves** (Madhya Pradesh) — **Vishnu Varaha** sculpture commissioned under his patronage.
-- **Mehrauli Iron Pillar** (Delhi) — inscription mentions **Chandra** — widely identified with **Chandragupta II** (debated).
-- **Capital**: **Pataliputra** primary; **Ujjain** important second city (Fa-Hien visited).
-- **Marriage alliance**: **Kuberanaga** (Naga princess) — strengthened hold over central India.
+- **Silver coin weight** was approximately **33 grains** under the rupaka standard. **2022 Q23 statement 2** is correct, so the answer is **B (Both 1 and 2)**.
+- **Court of Nine Gems (Navaratna)** included legendary scholars such as **Kalidasa, Amarasimha, and Varahamihira**, although the tradition is partly literary.
+- **Fa-Hien (Faxian)** was a Chinese pilgrim who visited India during **399–414 CE** in Chandragupta II's reign and described **Pataliputra, Nalanda, and Ujjain**.
+- **Udayagiri caves** in Madhya Pradesh contain the **Vishnu Varaha** sculpture commissioned under his patronage.
+- **Mehrauli Iron Pillar** in Delhi has an inscription that mentions **Chandra**, who is widely identified with **Chandragupta II**, though this is debated.
+- **Capital** was primarily **Pataliputra**, while **Ujjain** was an important second city visited by Fa-Hien.
+- **Marriage alliance** with **Kuberanaga**, a Naga princess, strengthened Gupta hold over central India.
 - **Cultural peak**: Gupta Golden Age reaches maximum under his patronage.
 
 > **Exam note:** **2022 Q23 = Both correct (B).** Silver coins + 33 grains = Shaka victory evidence. Trap: "Chandragupta Maurya defeated Shakas" — that was **Chandragupta II Gupta**.
@@ -269,14 +269,14 @@ SCIENCE: Aryabhata (Aryabhatiya, zero) | Varahamihira | Brahmagupta
 
 ### Samudragupta's Military Campaigns — How It Works
 
-- **Samudragupta** (~335–375 CE) — expanded Gupta empire through **digvijaya** (conquest in all directions).
+- **Samudragupta** (~335–375 CE) expanded the Gupta empire through **digvijaya**, or conquest in all directions.
 - **Primary source**: **Prayag Prashasti** (Allahabad pillar inscription) composed by court poet **Harishena**.
-- **Aryavarta (North India)**: **nine kings uprooted** — kingdoms annexed directly into Gupta empire.
-- **Dakshinapatha (South India)**: **twelve kings defeated** — made **tributaries** (not annexed); then **released** and reinstated with Gupta suzerainty.
-- **Frontier kings (Atavika/Davaka)**: **five frontier kingdoms** — accepted tributary status.
-- **Tribal republics (ganarajyas)**: **nine republics** in Punjab/Rajasthan — forced to pay tribute.
-- **Samudragupta performed Ashvamedha** — horse sacrifice — confirmed imperial status; depicted on gold coins.
-- **South Indian kings** listed in inscription — exam matching ← **UPPCS 2018 Q87**:
+- **Aryavarta (North India)** saw **nine kings uprooted**, and their kingdoms were annexed directly into the Gupta empire.
+- **Dakshinapatha (South India)** saw **twelve kings defeated**. They were made **tributaries**, not annexed, and were then released and reinstated under Gupta suzerainty.
+- **Frontier kings (Atavika/Davaka)** ruled **five frontier kingdoms** that accepted tributary status.
+- **Tribal republics (ganarajyas)** included **nine republics** in Punjab and Rajasthan that were forced to pay tribute.
+- **Samudragupta performed Ashvamedha**, the horse sacrifice that confirmed imperial status. The ritual was depicted on gold coins.
+- **South Indian kings** listed in the inscription form the exam matching source for **UPPCS 2018 Q87**:
 
 | King | Kingdom | List-II code |
 |------|---------|--------------|
@@ -286,8 +286,8 @@ SCIENCE: Aryabhata (Aryabhatiya, zero) | Varahamihira | Brahmagupta
 | **Vishnugopa** | Kanchi | 2 |
 
 - **2018 Q87 answer = C (3-1-4-2)**.
-- **Diplomatic marriages**: Licchavi alliance continued; matrimonial ties with Vakataka (Prabhavatigupta).
-- **Never lost a battle** per Prayag Prashasti (royal propaganda) — empire extended from Himalayas to Krishna-Godavari.
+- **Diplomatic marriages** continued the Licchavi alliance. Matrimonial ties with the Vakatakas were strengthened through Prabhavatigupta.
+- **Samudragupta never lost a battle** according to the Prayag Prashasti, which is royal propaganda. His empire extended from the Himalayas to the Krishna-Godavari region.
 
 > **Exam note:** **2018 Q87 = C (3-1-4-2).** Trap: "Samudragupta annexed all of South India" — south kings made **tributaries**, not directly ruled.
 
@@ -332,17 +332,17 @@ SCIENCE: Aryabhata (Aryabhatiya, zero) | Varahamihira | Brahmagupta
 
 ### Gupta Inscriptions — How It Works
 
-- **Gupta history reconstructed mainly from inscriptions** — coins supplement but inscriptions give names, dates, territories.
-- **Prayag Prashasti (Allahabad pillar)** — Samudragupta's eulogy by **Harishena** — most important military source.
-- **Mehrauli Iron Pillar inscription** — **Chandra** eulogy — Gupta metallurgical marvel (rust-resistant iron).
-- **Bhitari pillar inscription** — **Skandagupta** vs **Hunas** (Huns) — victory record.
-- **Udayagiri cave inscriptions** — **Chandragupta II** and **Kumaragupta I** — Vishnu worship.
-- **Eran inscription** (MP) — **Samudragupta** and **Buddhagupta** — earliest Gupta stone inscription.
-- **Mandasor inscription** — **Kumaragupta** and **Yashodharman** era records.
-- **Copper plate grants**: **Damodarpur, Baigram, Banskhera** — land grants with administrative details.
-- **Later Gupta vs Imperial Gupta**: **Jivitagupta II** (later Gupta of Magadha) — inscriptions at **Aphsad/Bankura** — NOT "Deva Barnark" ← **2022 Q87 trap pair C**.
-- **Maukhari inscriptions** (contemporary): **Ishanavarman — Harha/Mau stone inscription** (correct pair in 2022 Q87).
-- **Ishwaravarman — Jaunpur** = **NOT correctly matched** (2022 Q87 answer options).
+- **Gupta history is reconstructed mainly from inscriptions** because coins supplement the record while inscriptions give names, dates, and territories.
+- **Prayag Prashasti (Allahabad pillar)** is Samudragupta's eulogy by **Harishena** and serves as the most important military source.
+- **Mehrauli Iron Pillar inscription** praises **Chandra** and stands as a Gupta metallurgical marvel in rust-resistant iron.
+- **Bhitari pillar inscription** records **Skandagupta's** victory over the **Hunas** or Huns.
+- **Udayagiri cave inscriptions** connect **Chandragupta II** and **Kumaragupta I** with Vishnu worship.
+- **Eran inscription** in Madhya Pradesh mentions **Samudragupta** and **Buddhagupta** and is the earliest Gupta stone inscription.
+- **Mandasor inscription** preserves records from the eras of **Kumaragupta** and **Yashodharman**.
+- **Copper plate grants** such as **Damodarpur, Baigram, and Banskhera** record land grants with administrative details.
+- **Later Gupta vs Imperial Gupta** matters because **Jivitagupta II** was a later Gupta of Magadha with inscriptions at **Aphsad/Bankura**, not "Deva Barnark." This is **2022 Q87 trap pair C**.
+- **Maukhari inscriptions** are contemporary sources, and **Ishanavarman with the Harha/Mau stone inscription** is the correct pair in 2022 Q87.
+- **Ishwaravarman and Jaunpur** are **NOT correctly matched** in the 2022 Q87 answer options.
 
 ### Major Gupta Inscriptions — Table
 
@@ -398,18 +398,18 @@ SCIENCE: Aryabhata (Aryabhatiya, zero) | Varahamihira | Brahmagupta
 
 ### Gupta Coins — How It Works
 
-- **Gupta coinage** among finest in ancient India — gold, silver, copper — used for **trade, tribute, and propaganda**.
-- **Gold dinaras** — standard gold coin; king's portrait or symbolic types on obverse.
-- **Silver coins (rupaka)** — **Chandragupta II** issued silver coins commemorating **Shaka victory** ← **2022 Q23**.
+- **Gupta coinage** was among the finest in ancient India and included gold, silver, and copper coins used for **trade, tribute, and propaganda**.
+- **Gold dinaras** were the standard gold coin. They carried the king's portrait or symbolic types on the obverse.
+- **Silver coins (rupaka)** were issued by **Chandragupta II** to commemorate the **Shaka victory**, which is tested in **2022 Q23**.
 - **Silver weight standard**: approximately **33 grains** per rupaka ← **2022 Q23 statement 2**.
-- **Copper coins (karshapana)** — for everyday market exchange; less artistic.
-- **Chandragupta I-Kumaradevi type** — king-and-queen standing together — **Licchavi alliance** symbol.
-- **Samudragupta Ashvamedha type** — king performing horse sacrifice on reverse.
-- **Chandragupta II Archer type** — king as archer (Shaka defeat symbolism).
-- **Skandagupta Lion-slayer type** — king fighting lion (Hun wars symbolism).
-- **Kumaragupta Lion-trampler type** — continuation of imperial imagery.
-- **Inscriptions on coins** — Sanskrit legends; deity images (Lakshmi, Garuda, altar).
-- **Numismatic evidence** fills gaps where stone inscriptions absent — chronology and genealogy aid.
+- **Copper coins (karshapana)** were used for everyday market exchange. They were less artistic than gold and silver issues.
+- **Chandragupta I-Kumaradevi type** shows the king and queen standing together and symbolizes the **Licchavi alliance**.
+- **Samudragupta Ashvamedha type** shows the king performing the horse sacrifice on the reverse.
+- **Chandragupta II Archer type** depicts the king as an archer and symbolizes the Shaka defeat.
+- **Skandagupta Lion-slayer type** shows the king fighting a lion and symbolizes the Hun wars.
+- **Kumaragupta Lion-trampler type** continues imperial imagery.
+- **Inscriptions on coins** used Sanskrit legends. The coins also carried deity images such as Lakshmi, Garuda, and altar motifs.
+- **Numismatic evidence** fills gaps where stone inscriptions are absent and helps with chronology and genealogy.
 
 ### Gupta Coin Types — Table
 
@@ -456,17 +456,17 @@ SCIENCE: Aryabhata (Aryabhatiya, zero) | Varahamihira | Brahmagupta
 
 ### Gupta Gold Coins — How It Works
 
-- **Gupta gold dinaras** — highest artistic and metallurgical quality in ancient Indian numismatics.
-- **Influenced by Kushan gold coins** — Gupta adapted and refined dinara standard.
-- **Chandragupta I-Kumaradevi gold coins** — most famous Gupta coin; king and queen standing on obverse; **Licchavi dynasty** connection on reverse goddess.
+- **Gupta gold dinaras** achieved the highest artistic and metallurgical quality in ancient Indian numismatics.
+- **Kushan gold coins influenced Gupta coinage**, and the Guptas adapted and refined the dinara standard.
+- **Chandragupta I-Kumaradevi gold coins** are the most famous Gupta coins. The obverse shows the king and queen standing, while the reverse goddess signals the **Licchavi dynasty** connection.
 - **Samudragupta gold types**: **Ashvamedha** (horse sacrifice), **Lyrist** (king playing veena), **Standard** (Garuda emblem).
 - **Chandragupta II gold types**: **Archer** (most common), **Couch-and-Lion**, **Horseman**.
 - **Kumaragupta I gold types**: **Garuda type**, **Peacock type**, **Lion-trampler**.
 - **Skandagupta gold types**: **Lion-slayer**, **King-and-Queen** (rare).
-- **Gold content high** — reflects Gupta economic prosperity and control of trade revenues.
-- **Used for**: army payment, diplomatic gifts, hoarded wealth — less for daily market (copper used).
-- **Hoard discoveries**: Bayana (Rajasthan) hoard — thousands of Gupta gold coins — key numismatic find.
-- **Decline**: gold coin quality and quantity decline post-Skandagupta — Hun invasions strained treasury.
+- **Gold content remained high** and reflects Gupta economic prosperity and control of trade revenues.
+- **Gold coins were used for** army payment, diplomatic gifts, and hoarded wealth. They were used less for daily markets, where copper coins circulated.
+- **Hoard discoveries** include the Bayana hoard in Rajasthan, which contains thousands of Gupta gold coins and is a key numismatic find.
+- **Decline** appeared when gold coin quality and quantity decreased after Skandagupta because Hun invasions strained the treasury.
 
 > **Exam note:** **Gold dinara ≠ Shaka victory evidence** — that's **silver rupaka** (2022 Q23). Gold = imperial prestige; silver = specific Shaka victory commemoration.
 
@@ -489,7 +489,7 @@ SCIENCE: Aryabhata (Aryabhatiya, zero) | Varahamihira | Brahmagupta
 - Bayana hoard discovery
 - Kushan influence on dinara
 - Quality declined post-Skandagupta
-- Gold for prestige; silver for Shaka evidence
+- Gold coins mainly expressed imperial prestige, while silver coins are the key evidence for the Shaka victory.
 
 ### PYQs — Gupta Gold Coins
 
@@ -513,17 +513,17 @@ SCIENCE: Aryabhata (Aryabhatiya, zero) | Varahamihira | Brahmagupta
 
 ### Gupta Achievements — How It Works
 
-- **Gupta period** (~320–550 CE) called **Golden Age of India** — political stability enabled cultural flowering.
-- **Political**: pan-north Indian empire; effective administration; **digvijaya** and feudatory integration.
-- **Economic**: prosperous agriculture; **Silk Road** and Indian Ocean trade; guild commerce; gold coinage.
-- **Religious**: **Hindu revival** (Vaishnavism, Shaivism); **Buddhism** still patronized (Nalanda, Sarnath); Jainism continued.
+- **Gupta period** (~320–550 CE) is called the **Golden Age of India** because political stability enabled cultural flowering.
+- **Political** achievements included a pan-north Indian empire, effective administration, **digvijaya**, and feudatory integration.
+- **Economic** achievements rested on prosperous agriculture, **Silk Road** and Indian Ocean trade, guild commerce, and gold coinage.
+- **Religious** life saw a **Hindu revival** in Vaishnavism and Shaivism. **Buddhism** remained patronized at places such as Nalanda and Sarnath, and Jainism continued.
 - **Educational**: **Nalanda**, **Takshashila**, **Vallabhi** universities flourished.
-- **Artistic**: Ajanta paintings, Sarnath Buddha, Mathura sculptures, Deogarh temple — see §9.12.
-- **Literary**: Sanskrit classics — Kalidasa, Vishakhadatta — see §9.13.
-- **Scientific**: Aryabhata, Varahamihira, Brahmagupta — see §9.14.
-- **Technological**: **Mehrauli Iron Pillar** — rust-resistant wrought iron (metallurgical achievement).
-- **Legal/social**: Dharmashastra compilation; varna-jati system documented; position of women varied (some royal agency, overall patriarchal).
-- **Legacy**: template for later medieval Indian kingship; cultural standards unmatched until Mughal era per historians.
+- **Artistic achievements** included Ajanta paintings, Sarnath Buddha, Mathura sculptures, and Deogarh temple. See §9.12.
+- **Literary achievements** included Sanskrit classics by Kalidasa and Vishakhadatta. See §9.13.
+- **Scientific achievements** included the work of Aryabhata, Varahamihira, and Brahmagupta. See §9.14.
+- **Technological achievement** appears in the **Mehrauli Iron Pillar**, which shows rust-resistant wrought iron metallurgy.
+- **Legal/social** developments included Dharmashastra compilation and documentation of the varna-jati system. The position of women varied, with some royal agency but an overall patriarchal order.
+- **Legacy** lay in a model for later medieval Indian kingship. Historians often treat Gupta cultural standards as unmatched until the Mughal era.
 
 > **Exam note:** "Golden Age" = **Gupta period specifically** — not Mauryan, not Mughal. Trap: attributing Ajanta's **earliest** phase to Guptas — earliest caves pre-Gupta; **Gupta-era paintings** in caves 16-17.
 
@@ -567,14 +567,14 @@ SCIENCE: Aryabhata (Aryabhatiya, zero) | Varahamihira | Brahmagupta
 
 ### Prayag Prashasti — How It Works
 
-- **Prayag Prashasti** — primary literary-historical source for **Samudragupta's reign** and military campaigns.
-- **Composed by Harishena** — who served as **Sandhivigrahika** (foreign minister) and **Mahadandanayaka** (chief judicial officer).
-- **Inscribed on Allahabad (Prayagraj) pillar** — same Ashokan pillar with Ashoka's edicts — Gupta reused ancient monument.
-- **Written in Sanskrit** — elegant **chandah** (metrical) and **prose** — model of classical Sanskrit court poetry.
+- **Prayag Prashasti** is the primary literary-historical source for **Samudragupta's reign** and military campaigns.
+- **Harishena composed it** and served as **Sandhivigrahika** (foreign minister) and **Mahadandanayaka** (chief judicial officer).
+- **Allahabad (Prayagraj) pillar** carries the inscription on the same Ashokan pillar that has Ashoka's edicts, showing that the Guptas reused an ancient monument.
+- **Written in Sanskrit**, it uses elegant **chandah** (metrical) and **prose** forms and became a model of classical Sanskrit court poetry.
 - **Lists conquests in four categories**: Aryavarta kings uprooted (9), Dakshinapatha tributaries (12), frontier kings (5), tribal republics (9).
-- **South Indian kings named** — Dhananjaya, Nilaraja, Ugrasena, Vishnugopa — matching pairs ← **2018 Q87**.
-- **Samudragupta's qualities praised**: poet, musician (lyre player), warrior, donor — **versatile king** ideal.
-- **Ashvamedha performance** recorded — imperial sovereignty ritual.
+- **South Indian kings named** include Dhananjaya, Nilaraja, Ugrasena, and Vishnugopa. These names form the matching pairs for **2018 Q87**.
+- **Samudragupta's qualities praised** include poet, musician or lyre player, warrior, and donor, creating the **versatile king** ideal.
+- **Ashvamedha performance** is recorded as an imperial sovereignty ritual.
 - **Genealogical section**: traces lineage from **Chandragupta I** and **Kumaradevi** (Licchavi).
 - **Historiographical value**: combines royal propaganda with genuine territorial information.
 
@@ -620,16 +620,16 @@ SCIENCE: Aryabhata (Aryabhatiya, zero) | Varahamihira | Brahmagupta
 
 ### Allahabad Pillar Inscription — How It Works
 
-- **Allahabad pillar** — single monolithic sandstone pillar — bears **inscriptions from four eras**.
-- **Layer 1 — Ashokan edicts**: **Pillar Edict VI and VII** — Moral policy of Ashoka (~3rd century BCE).
-- **Layer 2 — Gupta**: **Prayag Prashasti** of **Samudragupta** by **Harishena** (~4th century CE) — main Gupta content.
-- **Layer 3 — Mughal**: **Jahangir's inscription** (1601 CE) — records his accession and court events.
-- **Layer 4 — Later**: some medieval additions.
-- **Samudragupta portion** lists **military campaigns, tributary kings, Ashvamedha** — same as Prayag Prashasti (§9.9).
-- **South Indian section** — kings of **Kanchi, Avamukta, Kusthalapura, Palaka** — **2018 Q87** matching source.
-- **Pillar originally located** at **Kosam (Kaushambi region)** — moved to **Allahabad Fort** by Akbar.
-- **UP location** — **Prayagraj, Uttar Pradesh** — exam-critical geography.
-- **Ashoka + Samudragupta on same pillar** — unique multi-dynasty epigraphic monument.
+- **Allahabad pillar** is a single monolithic sandstone pillar that bears **inscriptions from four eras**.
+- **Layer 1 contains Ashokan edicts**, including **Pillar Edict VI and VII** on the moral policy of Ashoka around the 3rd century BCE.
+- **Layer 2 belongs to the Gupta period** and contains the **Prayag Prashasti** of **Samudragupta** by **Harishena** from around the 4th century CE.
+- **Layer 3 belongs to the Mughal period** and contains **Jahangir's inscription** from 1601 CE, which records his accession and court events.
+- **Layer 4** contains later medieval additions.
+- **Samudragupta portion** lists **military campaigns, tributary kings, and Ashvamedha** and matches the Prayag Prashasti content in §9.9.
+- **South Indian section** names kings of **Kanchi, Avamukta, Kusthalapura, and Palaka** and serves as the **2018 Q87** matching source.
+- **Pillar originally stood** at **Kosam (Kaushambi region)** and was moved to **Allahabad Fort** by Akbar.
+- **UP location** is **Prayagraj, Uttar Pradesh**, which is exam-critical geography.
+- **Ashoka and Samudragupta appear on the same pillar**, making it a unique multi-dynasty epigraphic monument.
 
 ### Allahabad Pillar — Inscription Layers
 
@@ -675,16 +675,16 @@ SCIENCE: Aryabhata (Aryabhatiya, zero) | Varahamihira | Brahmagupta
 
 ### Nalanda University — How It Works
 
-- **Nalanda Mahavihara** — ancient Buddhist monastic university near **Rajgir, Bihar** — world's earliest residential universities.
-- **Origins**: monastic settlement from early Buddhist period; **formal university status under Guptas**.
-- **Kumaragupta I** (~427 CE) — traditionally credited with **founding/building main mahavihara** complex.
-- **Layout**: **8 large compounds**, **10 temples**, **numerous classrooms and meditation halls** — Hiuen Tsang counted **10,000+ students**.
+- **Nalanda Mahavihara** was an ancient Buddhist monastic university near **Rajgir, Bihar** and was among the world's earliest residential universities.
+- **Origins** go back to a monastic settlement from the early Buddhist period. Nalanda gained **formal university status under Guptas**.
+- **Kumaragupta I** (~427 CE) is traditionally credited with **founding/building the main mahavihara** complex.
+- **Layout** included **8 large compounds**, **10 temples**, and **numerous classrooms and meditation halls**. Hiuen Tsang counted **10,000+ students**.
 - **Curriculum**: **Buddhist philosophy** (Mahayana, Hinayana), logic, grammar, medicine, astronomy, Vedas studied too.
-- **International students** from China, Korea, Tibet, Central Asia, Sri Lanka — truly cosmopolitan.
-- **Fa-Hien** (~399–414 CE) noted monastic learning; **Hiuen Tsang** (630s CE) and **I-Tsing** (670s CE) studied and praised Nalanda.
+- **International students** came from China, Korea, Tibet, Central Asia, and Sri Lanka, making Nalanda truly cosmopolitan.
+- **Fa-Hien** (~399–414 CE) noted monastic learning. **Hiuen Tsang** (630s CE) and **I-Tsing** (670s CE) studied at Nalanda and praised it.
 - **Famous teachers**: **Dharmapala, Shilabhadra** (Hiuen Tsang's teacher), **Shankaracharya** debated here (later).
-- **Library**: **Ratnodadhi, Ratnasagara, Ratnaranjaka** — legendary vast collections (burned by Bakhtiyar Khilji 1193 CE).
-- **Patronage**: Gupta kings, later Pala kings — declined after 12th century destruction.
+- **Library** included **Ratnodadhi, Ratnasagara, and Ratnaranjaka**, which were legendary vast collections burned by Bakhtiyar Khilji in 1193 CE.
+- **Patronage** came from Gupta kings and later Pala kings, and Nalanda declined after its 12th century destruction.
 - **Archaeological remains**: red-brick ruins excavated by **Alexander Cunningham** and later ASI.
 
 > **Exam note:** Nalanda peak under **Guptas + Palas**. Trap: "Nalanda founded by Ashoka" — expanded under **Kumaragupta I**. Fa-Hien saw it before full Gupta expansion.
@@ -722,16 +722,16 @@ SCIENCE: Aryabhata (Aryabhatiya, zero) | Varahamihira | Brahmagupta
 
 ### Gupta Art — How It Works
 
-- **Gupta art** = classical phase of Indian art — defined proportions, spiritual serenity, refined craftsmanship.
-- **Schools**: **Mathura school** (north) and **Sarnath school** (eastern) — distinct Gupta sculptural styles.
-- **Sarnath Buddha** — **preaching Buddha (Dharmachakra mudra)** — refined, transparent drapery, halo — iconic Gupta image.
-- **Mathura sculptures** — red sandstone; Buddha, Vishnu, Yaksha figures; sensuous modeling.
-- **Ajanta caves** — **paintings** in caves 16-17 (Gupta period) — Jataka stories, Bodhisattvas, vivid colors.
-- **Ellora caves** — early excavation begins (later phases more prominent).
-- **Udayagiri** — **Vishnu Varaha** boar incarnation (Chandragupta II); rock-cut shrines.
-- **Deogarh temple** (Jhansi) — **Dashavatara Vishnu temple** — one of earliest **stone Hindu temples** with shikhara.
-- **Terracotta art** — folk and religious figurines across Gangetic towns.
-- **Coin art** — king portraits and deity images — miniature sculpture tradition.
+- **Gupta art** represents the classical phase of Indian art with defined proportions, spiritual serenity, and refined craftsmanship.
+- **Schools** included the **Mathura school** in the north and the **Sarnath school** in the east, which had distinct Gupta sculptural styles.
+- **Sarnath Buddha** shows the **preaching Buddha (Dharmachakra mudra)** with refined transparent drapery and a halo, making it an iconic Gupta image.
+- **Mathura sculptures** used red sandstone. They represented Buddha, Vishnu, and Yaksha figures with sensuous modeling.
+- **Ajanta caves** contain **paintings** in caves 16-17 from the Gupta period, including Jataka stories, Bodhisattvas, and vivid colors.
+- **Ellora caves** began early excavation, although later phases became more prominent.
+- **Udayagiri** is known for the **Vishnu Varaha** boar incarnation linked with Chandragupta II. It also contains rock-cut shrines.
+- **Deogarh temple** in Jhansi is the **Dashavatara Vishnu temple** and one of the earliest **stone Hindu temples** with a shikhara.
+- **Terracotta art** produced folk and religious figurines across Gangetic towns.
+- **Coin art** used king portraits and deity images and formed a miniature sculpture tradition.
 - **Influence**: Gupta art model for **Southeast Asian** Buddhist art (Srivijaya, Cham kingdoms).
 
 ### Gupta Art — Major Sites Table
@@ -780,24 +780,24 @@ SCIENCE: Aryabhata (Aryabhatiya, zero) | Varahamihira | Brahmagupta
 
 ### Gupta Literature — How It Works
 
-- **Sanskrit revival** during Guptas — court patronized **classical Sanskrit** literature, drama, poetry.
-- **Kalidasa** — greatest Sanskrit poet-dramatist; flourished in **Chandragupta II's court** (tradition).
+- **Sanskrit revival** during the Guptas occurred because the court patronized **classical Sanskrit** literature, drama, and poetry.
+- **Kalidasa** was the greatest Sanskrit poet-dramatist. Tradition places him in **Chandragupta II's court**.
 - **Kalidasa's works**: **Abhijnanashakuntalam (Shakuntala)**, **Meghaduta**, **Raghuvamsha**, **Kumarasambhava**, **Malavikagnimitram**, **Vikramorvashiyam**.
-- **Shringara Shataka** — **NOT by Kalidasa** — written by **Bhartrhari** ← **UPPCS 2025 Q48 answer B (Only 3)**.
-- **Vishakhadatta** — **Mudrarakshasa** (political drama about Chanakya and Chandragupta Maurya).
-- **Shudraka** — **Mrichchhakatika (Little Clay Cart)** — social drama.
-- **Vishnu Sharma** — **Panchatantra** (fables) — compiled in this period.
-- **Amarasimha** — **Amarakosha** (Sanskrit thesaurus) — Navaratna member.
-- **Puranas** — compiled/redacted in Gupta era — **Vishnu Purana, Vayu Purana** (genealogies — use cautiously per 2023 Q29).
-- **Scientific literature**: Aryabhatiya, Panchasiddhantika — see §9.14.
+- **Shringara Shataka** was **NOT by Kalidasa** and was written by **Bhartrhari**. This supports **UPPCS 2025 Q48 answer B (Only 3)**.
+- **Vishakhadatta** wrote **Mudrarakshasa**, a political drama about Chanakya and Chandragupta Maurya.
+- **Shudraka** wrote **Mrichchhakatika (Little Clay Cart)**, a social drama.
+- **Vishnu Sharma** is associated with **Panchatantra**, a fable collection compiled in this period.
+- **Amarasimha** wrote **Amarakosha**, a Sanskrit thesaurus, and is counted as a Navaratna member.
+- **Puranas** were compiled and redacted in the Gupta era, including **Vishnu Purana** and **Vayu Purana**. Their genealogies should be used cautiously per 2023 Q29.
+- **Scientific literature** included Aryabhatiya and Panchasiddhantika. See §9.14.
 - **Dramatic theory**: based on **Natyashastra** of Bharata (earlier text, applied in Gupta plays).
-- **Later Sanskrit authors** (also tested in UPPCS 2025 Q86) — match writer ↔ text carefully:
-  - **Trivikram Bhatta** — ***Nal Champu*** (campu-kavya blending prose and verse).
-  - **Somadeva (Somdev)** — ***Kathasaritsagara*** (ocean of stories; based on Gunadhya's Brihatkatha).
-  - **Jaidev (Jayadeva)** — ***Gita Govinda*** (12th-century lyrical poem on Radha-Krishna; Odisha/Bengal tradition).
-  - **Kshemendra** — ***Brihatkathamanjari*** (condensed version of Brihatkatha narrative cycle).
-- **2025 Q86 answer = A (3-4-1-2)** — A→3, B→4, C→1, D→2.
-- **Trap** — Somadeva ↔ Brihatkathamanjari (that's Kshemendra); Jaidev ↔ Nal Champu (that's Trivikram Bhatta).
+- **Later Sanskrit authors** are also tested in UPPCS 2025 Q86, so match each writer with the correct text carefully:
+  - **Trivikram Bhatta** wrote ***Nal Champu***, a campu-kavya blending prose and verse.
+  - **Somadeva (Somdev)** wrote ***Kathasaritsagara***, an ocean of stories based on Gunadhya's Brihatkatha.
+  - **Jaidev (Jayadeva)** wrote ***Gita Govinda***, a 12th-century lyrical poem on Radha-Krishna linked with the Odisha/Bengal tradition.
+  - **Kshemendra** wrote ***Brihatkathamanjari***, a condensed version of the Brihatkatha narrative cycle.
+- **2025 Q86 answer = A (3-4-1-2)** because A matches 3, B matches 4, C matches 1, and D matches 2.
+- **Trap**: Somadeva did not write Brihatkathamanjari, which belongs to Kshemendra. Jaidev did not write Nal Champu, which belongs to Trivikram Bhatta.
 
 ### Sanskrit Authors — Books Match Table (2025 Q86)
 
@@ -827,8 +827,8 @@ SCIENCE: Aryabhata (Aryabhatiya, zero) | Varahamihira | Brahmagupta
 - Kalidasa = greatest poet-dramatist
 - 2025 Q48: Shringara Shataka ≠ Kalidasa
 - 2025 Q86 = A (3-4-1-2) author-book match
-- Somdev = Kathasaritsagara; Kshemendra = Brihatkathamanjari
-- Jaidev = Gita Govinda; Trivikram Bhatta = Nal Champu
+- Somdev wrote Kathasaritsagara, and Kshemendra wrote Brihatkathamanjari.
+- Jaidev wrote Gita Govinda, and Trivikram Bhatta wrote Nal Champu.
 - Meghaduta, Raghuvamsha, Shakuntala
 - Mudrarakshasa = Vishakhadatta
 - Panchatantra = Vishnu Sharma
@@ -869,15 +869,15 @@ SCIENCE: Aryabhata (Aryabhatiya, zero) | Varahamihira | Brahmagupta
 
 ### Gupta Science — How It Works
 
-- **Aryabhata** (476–550 CE) — greatest Gupta mathematician-astronomer; wrote **Aryabhatiya** (499 CE) and **Arya-siddhanta**.
+- **Aryabhata** (476–550 CE) was the greatest Gupta mathematician-astronomer. He wrote **Aryabhatiya** (499 CE) and **Arya-siddhanta**.
 - **Aryabhata's contributions**: **zero** as placeholder, **decimal system**, **pi (π) ≈ 3.1416**, **Earth's rotation** on axis, **solar eclipse** explanation.
-- **Varahamihira** (~505–587 CE) — polymath; **Panchasiddhantika** (five astronomical schools), **Brihat Samhita** (encyclopedia: astrology, architecture, gems, rain).
-- **Brahmagupta** (~598–670 CE) — **Brahmasphutasiddhanta**; rules for **zero, negative numbers**, quadratic equations.
-- **Astronomy**: Gupta scientists proposed **heliocentric hints** (Aryabhata); refined **solar year** length; **eclipse calculations**.
-- **Medicine**: **Sushruta Samhita** and **Charaka Samhita** commented and preserved; surgery, Ayurveda systematized.
-- **Chemistry/metallurgy**: **Mehrauli Iron Pillar** — corrosion-resistant iron — demonstrates advanced metallurgy.
-- **Calendar**: **Aryabhata's sine tables**; improved **luni-solar calendars** for festival dating.
-- **Influence**: Gupta mathematics transmitted to **Arab world** (via later translations) — foundation for modern mathematics.
+- **Varahamihira** (~505–587 CE) was a polymath. His works included **Panchasiddhantika** on five astronomical schools and **Brihat Samhita**, an encyclopedia covering astrology, architecture, gems, and rain.
+- **Brahmagupta** (~598–670 CE) wrote **Brahmasphutasiddhanta**. He gave rules for **zero, negative numbers**, and quadratic equations.
+- **Astronomy** advanced through **heliocentric hints** associated with Aryabhata. Gupta scientists also refined the **solar year** length and **eclipse calculations**.
+- **Medicine** preserved and commented on the **Sushruta Samhita** and **Charaka Samhita**. Surgery and Ayurveda were systematized.
+- **Chemistry/metallurgy** includes the **Mehrauli Iron Pillar**, whose corrosion-resistant iron demonstrates advanced metallurgy.
+- **Calendar** science used **Aryabhata's sine tables**. Improved **luni-solar calendars** helped fix festival dates.
+- **Influence** of Gupta mathematics reached the **Arab world** through later translations and helped form a foundation for modern mathematics.
 - **Navaratna tradition** links **Varahamihira** and **Aryabhata** to Chandragupta II's court (partly legendary).
 
 > **Exam note:** **Aryabhata = Aryabhatiya (499 CE)**. Trap: "Zero invented by Brahmagupta only" — Aryabhata used zero earlier; Brahmagupta gave **rules for zero/negatives**.

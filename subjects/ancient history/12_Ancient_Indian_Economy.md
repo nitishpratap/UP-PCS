@@ -115,16 +115,16 @@ ECONOMY BASE: Agriculture + crafts + trade | urban centres as entrepots
 
 ### Ancient Indian Coins — How It Works
 
-- **Barter** dominated early Vedic economy — **coinage emerged** in **6th–5th century BCE** with mahajanapadas.
-- **Punch-marked coins (PMCs)** — earliest widespread Indian coinage; **silver** cut into bars/rounds, stamped with **punches** (sun, six-armed symbol, elephant, etc.).
-- **Janapada coins** — each mahajanapada issued distinct punch-mark types (Magadha, Kashi, Gandhara punch types differ).
-- **Weight standard** — based on **ratti/shanapada** system; later standardized under Mauryas.
-- **Mauryan period** — punch-marked coins circulated widely; **cast copper coins** also used for small transactions.
+- **Barter** dominated the early Vedic economy. **Coinage emerged** in the **6th–5th century BCE** with the mahajanapadas.
+- **Punch-marked coins (PMCs)** were the earliest widespread Indian coinage. They were **silver** pieces cut into bars or rounds and stamped with **punches** such as the sun, six-armed symbol, and elephant.
+- **Janapada coins** had distinct punch-mark types issued by each mahajanapada, including Magadha, Kashi, and Gandhara.
+- The **weight standard** was based on the **ratti/shanapada** system and was later standardized under the Mauryas.
+- In the **Mauryan period**, punch-marked coins circulated widely. **Cast copper coins** were also used for small transactions.
 - **Indo-Greeks** introduced **round die-struck coins** with **portraits** and bilingual legends (Greek + Kharosthi/Brahmi).
-- **Kushans** perfected **gold + copper** portrait coinage — influenced Gupta style.
-- **Gupta coinage** — artistic peak: **gold dinaras**, **silver rupakas**, **copper** — propaganda + trade medium.
-- **Coins as historical sources** — provide ruler names, dates, titles, deity iconography, military victories (complement inscriptions).
-- **Regional continuity** — south India had independent punch-mark and sangam-era coin traditions parallel to north.
+- **Kushans** perfected **gold + copper** portrait coinage and influenced Gupta style.
+- **Gupta coinage** reached an artistic peak through **gold dinaras**, **silver rupakas**, and **copper** coins used for propaganda and trade.
+- **Coins as historical sources** provide ruler names, dates, titles, deity iconography, and military victories that complement inscriptions.
+- **Regional continuity** appeared in south India's independent punch-mark and Sangam-era coin traditions, which ran parallel to northern traditions.
 
 ### Coin Types by Period — Complete Table
 
@@ -180,20 +180,20 @@ ECONOMY BASE: Agriculture + crafts + trade | urban centres as entrepots
 
 ### Gold Coins in India — How It Works
 
-- **Indus Valley** — no confirmed standard gold coinage; trade used **weights of metal** and barter.
-- **Vedic period** — **nishka** mentioned as gold ornament/wealth unit; not standardized coinage.
-- **Indo-Greeks (2nd–1st c. BCE)** — first **round gold coins** with royal portraits in northwest India.
-- **Kushans (1st–3rd c. CE)** — issued extensive **gold dinaras** — King + deity (Shiva, Buddha, Nana) types; facilitated Central Asian trade.
-- **Gupta gold dinaras (4th–6th c. CE)** — most celebrated Indian gold coinage; types include:
+- The **Indus Valley** had no confirmed standard gold coinage. Trade used **weights of metal** and barter.
+- In the **Vedic period**, **nishka** was mentioned as a gold ornament or wealth unit, not as standardized coinage.
+- **Indo-Greeks (2nd–1st c. BCE)** issued the first **round gold coins** with royal portraits in northwest India.
+- **Kushans (1st–3rd c. CE)** issued extensive **gold dinaras**. Their king-and-deity types, including Shiva, Buddha, and Nana, facilitated Central Asian trade.
+- **Gupta gold dinaras (4th–6th c. CE)** became the most celebrated Indian gold coinage. Their types include:
   - **King-Queen type** (Chandragupta I + Kumaradevi)
   - **Ashvamedha horse type** (Samudragupta)
   - **Lion-slayer/Archer type** (Chandragupta II)
   - **Goddess Lakshmi seated on throne**
-- **Gold coins served propaganda** — displayed royal power, divine sanction, military victories — not just everyday market exchange.
-- **Roman gold coins (aurei/denarii)** found in Indian hoards — imported via **Muziris trade**; melted or circulated as bullion.
-- **Gold drain theory** — Pliny complained Rome's gold flowed east for **pepper and luxuries** — India accumulated gold.
-- **Post-Gupta** — gold coinage declined with empire fragmentation; regional kingdoms issued fewer imperial gold types.
-- **Trap**: Chandragupta II's **Shaka victory evidence** is on **silver** coins (2022 Q23) — NOT gold dinaras.
+- **Gold coins served propaganda** by displaying royal power, divine sanction, and military victories, not just everyday market exchange.
+- **Roman gold coins (aurei/denarii)** found in Indian hoards were imported through **Muziris trade**. They were melted or circulated as bullion.
+- **Gold drain theory** records Pliny's complaint that Rome's gold flowed east for **pepper and luxuries**, so India accumulated gold.
+- In the **post-Gupta** period, gold coinage declined with empire fragmentation. Regional kingdoms issued fewer imperial gold types.
+- **Trap**: Chandragupta II's **Shaka victory evidence** appears on **silver** coins (2022 Q23), not gold dinaras.
 
 ### Gupta Gold Coin Types — Table
 
@@ -247,16 +247,16 @@ ECONOMY BASE: Agriculture + crafts + trade | urban centres as entrepots
 
 ### Guilds & Trade Organisations — How It Works
 
-- **Shreni system** emerged by **Mauryan period** (if not earlier) — organized artisans and merchants by occupation (weavers, metalworkers, traders).
-- **Guild autonomy** — shrenis had **own rules (shreni-dharma)**, elected heads, and internal dispute resolution — state recognized guild law per **Arthashastra**.
-- **Economic functions** — quality control, price regulation, training apprentices, collective bargaining with state, financing trade expeditions.
-- **Religious donations** — guilds donated to **Buddhist stupas** and Hindu temples (inscriptions at Bharhut, Sanchi record shreni gifts).
-- **Nagaram** — urban merchant corporation managing town trade (more prominent in **medieval south India**).
-- **Nanadesi (Nanadesis)** — federation of merchants from **many regions** — long-distance inter-regional trade (not exclusively foreign).
-- **Manigrama** — guild of merchants engaged specifically in **foreign/overseas commerce** — prominent in **Tamil/Chola** trade with Southeast Asia and Rome (**2018 Q89 answer D**).
-- **Ainnurruvar** — another south Indian merchant guild (500+ nagarams) for overseas trade — syllabus expansion.
-- **State relationship** — Mauryan/Gupta state collected tax from guild-organized production; guilds provided economic stability.
-- **Decline pattern** — with feudatory fragmentation post-Gupta, guild autonomy increased but long-distance trade guilds (Manigrama/Nanadesi) dominated coastal commerce.
+- **Shreni system** emerged by the **Mauryan period** or earlier and organized artisans and merchants by occupation, including weavers, metalworkers, and traders.
+- **Guild autonomy** gave shrenis **own rules (shreni-dharma)**, elected heads, and internal dispute resolution, while the **Arthashastra** shows state recognition of guild law.
+- **Economic functions** included quality control, price regulation, apprentice training, collective bargaining with the state, and financing trade expeditions.
+- **Religious donations** came from guilds to **Buddhist stupas** and Hindu temples, as inscriptions at Bharhut and Sanchi record shreni gifts.
+- **Nagaram** was an urban merchant corporation that managed town trade, especially in **medieval south India**.
+- **Nanadesi (Nanadesis)** was a federation of merchants from **many regions** that handled long-distance inter-regional trade, not exclusively foreign trade.
+- **Manigrama** was a merchant guild engaged specifically in **foreign/overseas commerce** and was prominent in **Tamil/Chola** trade with Southeast Asia and Rome (**2018 Q89 answer D**).
+- **Ainnurruvar** was another south Indian merchant guild of 500+ nagarams that supported overseas trade as syllabus expansion.
+- The **Mauryan and Gupta states** collected tax from guild-organized production. Guilds also provided economic stability.
+- **Decline pattern** after post-Gupta feudatory fragmentation increased guild autonomy, while long-distance trade guilds such as Manigrama and Nanadesi dominated coastal commerce.
 
 ### Trade Organisations — Complete Comparison Table
 
@@ -313,16 +313,16 @@ ECONOMY BASE: Agriculture + crafts + trade | urban centres as entrepots
 
 ### Inland Trade — How It Works
 
-- **Rivers as trade highways** — Ganga, Yamuna, Narmada, Godavari, Krishna enabled bulk goods transport cheaper than roads.
-- **River-ports** dotted major rivers — goods loaded/unloaded at urban centres along banks (**2024 Q2 statement 1 = correct**).
-- **Entrepots** — large cities functioned as **warehousing + redistribution hubs** for regional and long-distance goods (**2024 Q2 statement 2 = correct**).
-- **Mauryan imperial unification** — standardized weights/measures, improved **royal highways** (Megasthenes mentions Chandragupta's road network).
+- **Rivers as trade highways** made the Ganga, Yamuna, Narmada, Godavari, and Krishna cheaper routes than roads for bulk goods transport.
+- **River-ports** dotted major rivers, where goods were loaded and unloaded at urban centres along the banks (**2024 Q2 statement 1 = correct**).
+- **Entrepots** were large cities that functioned as **warehousing + redistribution hubs** for regional and long-distance goods (**2024 Q2 statement 2 = correct**).
+- **Mauryan imperial unification** standardized weights and measures and improved **royal highways**, as Megasthenes mentions Chandragupta's road network.
 - **Major inland trade goods**: textiles (cotton, silk), grains, salt, metals, gems, horses (imported from Central Asia), wine, pottery.
-- **Urban centres as entrepots**: **Pataliputra**, **Ujjain**, **Varanasi**, **Taxila**, **Kannauj** (later) — collected, stored, and redistributed goods.
-- **Dakshinapath** linked north Indian markets to **Deccan and Tamil regions** — facilitated spice/textile flow northward.
-- **Guild-organized trade** — shrenis managed caravan logistics, quality standards, and inter-city contracts.
-- **Taxation** — tolls at river ferries, city gates, and marketplaces; Mauryan **samaharta** collected trade-related revenue.
-- **2024 Q2 answer = A (Both 1 and 2)** — confirms river-ports and entrepots as features of early Indian trade.
+- **Urban centres as entrepots** included **Pataliputra**, **Ujjain**, **Varanasi**, **Taxila**, and later **Kannauj**, which collected, stored, and redistributed goods.
+- **Dakshinapath** linked north Indian markets to **Deccan and Tamil regions** and facilitated the northward flow of spices and textiles.
+- **Guild-organized trade** relied on shrenis to manage caravan logistics, quality standards, and inter-city contracts.
+- **Taxation** included tolls at river ferries, city gates, and marketplaces. The Mauryan **samaharta** collected trade-related revenue.
+- **2024 Q2 answer = A (Both 1 and 2)** confirms river-ports and entrepots as features of early Indian trade.
 
 ### Major Inland Trade Centres — Table
 
@@ -378,16 +378,16 @@ ECONOMY BASE: Agriculture + crafts + trade | urban centres as entrepots
 
 ### Maritime Trade & Ports — How It Works
 
-- **Harappan maritime trade** (~2500 BCE) — **Lothal** had **dockyard** with berthing chambers; trade with Mesopotamia (Persian Gulf).
-- **Boat models** found at **Mohenjo-daro and Lothal** — evidence of riverine/maritime transport awareness (**2022 Q68 = C**).
-- **West coast ports**: **Lothal**, **Sutkagen-dor** (Baluchistan), **Broach/Bharuch**, **Sopara**, **Kalyan** — gateway to Arabian Sea trade.
-- **East coast ports**: **Tamralipti** (Tamluk, Bengal) — chief **Ganga mouth** port; **Kalinga ports** (Palur, Gopalpur).
-- **South coast ports**: **Muziris/Muchiri** (Kerala), **Kaveripattinam/Puhar** (Tamil Nadu), **Arikamedu** (near Pondicherry — Roman contact).
-- **Monsoon knowledge** — Indian sailors used **monsoon winds** for Arabian Sea crossings (documented in Periplus).
-- **Shipbuilding** — teak wood from western Ghats; Sangam texts mention **colandia** (large ships).
+- **Harappan maritime trade** (~2500 BCE) used **Lothal**, which had a **dockyard** with berthing chambers. It supported trade with Mesopotamia through the Persian Gulf.
+- **Boat models** found at **Mohenjo-daro and Lothal** provide evidence of riverine and maritime transport awareness (**2022 Q68 = C**).
+- **West coast ports** such as **Lothal**, **Sutkagen-dor** (Baluchistan), **Broach/Bharuch**, **Sopara**, and **Kalyan** served as gateways to Arabian Sea trade.
+- **East coast ports** included **Tamralipti** (Tamluk, Bengal), the chief **Ganga mouth** port. **Kalinga ports** such as Palur and Gopalpur also served the Bay of Bengal route.
+- **South coast ports** included **Muziris/Muchiri** (Kerala), **Kaveripattinam/Puhar** (Tamil Nadu), and **Arikamedu**, near Pondicherry, which shows Roman contact.
+- **Monsoon knowledge** helped Indian sailors use **monsoon winds** for Arabian Sea crossings, as documented in the Periplus.
+- **Shipbuilding** used teak wood from the western Ghats. Sangam texts mention **colandia**, or large ships.
 - **Goods exported by sea**: spices, pepper, pearls, diamonds, ivory, cotton textiles, sandalwood.
 - **Goods imported by sea**: horses, wine, gold, glass, coral, slaves (limited), luxury metals.
-- **Bay of Bengal circuit** — connected Tamralipti to southeast Asian ports (later Kalinga/Srivijaya trade).
+- **Bay of Bengal circuit** connected Tamralipti to southeast Asian ports and later supported Kalinga and Srivijaya trade.
 
 ### Ancient Ports — Complete List (exam-matching)
 
@@ -449,15 +449,15 @@ ECONOMY BASE: Agriculture + crafts + trade | urban centres as entrepots
 ### Roman Trade — How It Works
 
 - **Roman trade with India** peaked **1st–3rd century CE** when Roman Empire controlled Egypt and Red Sea access.
-- **Route**: Roman goods shipped to **Alexandria** → Red Sea ports (**Myos Hormos**, **Berenice**) → monsoon crossing to **Muziris** (Kerala) and other Indian west coast ports.
-- **Periplus of the Erythraean Sea** (~mid-1st c. CE) — key source naming **Muziris, Nelcynda, Barbarikon (Broach)** and trade conditions.
+- **Route**: Roman goods shipped to **Alexandria**, moved to Red Sea ports such as **Myos Hormos** and **Berenice**, and then crossed by monsoon route to **Muziris** (Kerala) and other Indian west coast ports.
+- **Periplus of the Erythraean Sea** (~mid-1st c. CE) is a key source that names **Muziris, Nelcynda, Barbarikon (Broach)** and trade conditions.
 - **Primary Indian exports to Rome**: **pepper** (most valuable), **spices** (cardamom, ginger), **cotton textiles**, **ivory**, **pearls**, **precious stones**, **sandalwood**, **animals** (peacocks, monkeys).
 - **Roman imports to India**: **gold coins** (aurei, denarii), **wine**, **copper**, **tin**, **lead**, **glass**, **coral**, **slaves** (limited).
-- **Gold drain** — Roman writer **Pliny the Elder** complained millions of sesterces flowed to India for pepper — India accumulated Roman gold.
-- **Roman coin hoards** found in **Kerala, Tamil Nadu, Karnataka** — evidence of direct trade contact.
-- **Arikamedu** (near Pondicherry) — archaeological evidence of **Roman pottery/amphorae** — Indo-Roman trading post.
+- **Gold drain** refers to Roman writer **Pliny the Elder** complaining that millions of sesterces flowed to India for pepper, which meant India accumulated Roman gold.
+- **Roman coin hoards** found in **Kerala, Tamil Nadu, and Karnataka** provide evidence of direct trade contact.
+- **Arikamedu**, near Pondicherry, provides archaeological evidence of **Roman pottery/amphorae** and functioned as an Indo-Roman trading post.
 - **Sangam literature** references **Yavanas** (foreigners/Romans) and **Muziris** prosperity from overseas trade.
-- **Decline** — Roman trade reduced after **3rd century CE** crisis in Roman Empire; continued at lower scale through Byzantine and Arab intermediaries.
+- **Roman trade** declined after the **3rd century CE** crisis in the Roman Empire. It continued at a lower scale through Byzantine and Arab intermediaries.
 
 ### Roman Trade — Key Ports & Goods Table
 
@@ -512,17 +512,17 @@ ECONOMY BASE: Agriculture + crafts + trade | urban centres as entrepots
 
 ### Ancient Indian Economy — How It Works
 
-- **Agrarian foundation** — majority population engaged in **agriculture**; land revenue = primary state income (bhaga/bali tax).
-- **Craft specialization** — urban centres developed **specialized industries**: metallurgy, textiles, pottery, bead-making, jewelry.
-- **Harappan economy** — surplus agriculture + standardized weights + long-distance **Mesopotamian trade** — earliest urban market economy.
-- **Mauryan economy** — state-controlled **granaries**, **royal workshops (rajakula)**, standardized weights, extensive **road and irrigation** investment per Arthashastra.
-- **Gupta economy** — **prosperity peak** (golden age); land grants to Brahmans changed revenue pattern; **guild autonomy** increased; coinage flourished.
-- **Money economy growth** — from punch-marked silver → gold dinaras → regional copper; facilitated market exchange beyond barter.
-- **Tax structure** — Mauryan **1/6th** land produce standard (Arthashastra); Gupta often **1/4 to 1/6**; tolls on trade routes.
-- **Labour organization** — **shreni guilds** provided apprenticeship, quality control, and collective economic bargaining.
-- **Trade share of economy** — internal trade (rivers + roads) larger than foreign; but **Roman trade** brought significant **gold inflow** in south.
-- **Sangam economy** — south India: **pearls, salt, fish, paddy, textiles**; three kingdoms (Chera-Chola-Pandya) competed for **Muziris trade** revenue.
-- **Post-Harsha** — economic fragmentation; regional markets; continued guild and coastal trade without pan-Indian imperial coordination.
+- The **agrarian foundation** meant that most people engaged in **agriculture**. Land revenue, especially the bhaga/bali tax, was the primary state income.
+- **Craft specialization** led urban centres to develop **specialized industries** such as metallurgy, textiles, pottery, bead-making, and jewelry.
+- **Harappan economy** combined surplus agriculture, standardized weights, and long-distance **Mesopotamian trade** to form the earliest urban market economy.
+- **Mauryan economy** used state-controlled **granaries**, **royal workshops (rajakula)**, standardized weights, and extensive **road and irrigation** investment per the Arthashastra.
+- The **Gupta economy** marked a **prosperity peak** or golden age. Land grants to Brahmans changed the revenue pattern, **guild autonomy** increased, and coinage flourished.
+- **Money economy growth** moved from punch-marked silver to gold dinaras and regional copper. This facilitated market exchange beyond barter.
+- The **tax structure** used the Mauryan **1/6th** land produce standard in the Arthashastra. Gupta demands often ranged from **1/4 to 1/6**, along with tolls on trade routes.
+- **Labour organization** depended on **shreni guilds**, which provided apprenticeship, quality control, and collective economic bargaining.
+- **Internal trade** through rivers and roads was larger than foreign trade. However, **Roman trade** brought a significant **gold inflow** into south India.
+- The **Sangam economy** of south India centered on **pearls, salt, fish, paddy, and textiles**. The Chera, Chola, and Pandya kingdoms competed for **Muziris trade** revenue.
+- In the **post-Harsha** period, economic fragmentation produced regional markets. Guild and coastal trade continued without pan-Indian imperial coordination.
 
 ### Economy by Period — Overview Table
 

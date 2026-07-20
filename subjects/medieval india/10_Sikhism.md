@@ -109,30 +109,30 @@ PYQ TRAPS:
 
 ### Sikhism — How It Works
 
-- **Historical context:** 15th–16th c. **Punjab** — Hindu–Muslim society; **caste**, **ritual**, **political instability** under Lodis/Mughals — Nanak's message addressed social and spiritual crisis.
-- **Ik Onkar:** Core belief in **one formless God** — rejects **idol worship** and empty ritual — overlaps **nirguna Bhakti** but Sikhism builds **separate canon**.
-- **Three pillars:** **Naam Japna** (remember God), **Kirat Karni** (honest labour), **Vand Chakna** (share with others) — ethical life in **world**, not forest renunciation.
-- **Householder ideal:** Nanak rejected extreme **asceticism** — family life compatible with spirituality — contrast with some Nath/sanyasi paths.
-- **Equality symbols:** **Langar** (community kitchen), **sangat** (congregation) — caste distinctions theoretically dissolved at meal/worship — exam social reform angle.
-- **No priestly caste:** **Guru** as preceptor — later **Granthis** read scripture — no hereditary Brahmin priesthood in Sikh model.
-- **Scripture-centred turn:** From **oral hymns (shabad)** of Nanak → **written Adi Granth (1604)** → **eternal Guru Granth (1708)** — increasing **text authority**.
-- **Mughal interaction:** Peaceful early gurus → **martyrdoms** (Arjan 1606, Tegh Bahadur 1675) → **militarised Khalsa (1699)** — cause→effect chain.
-- **Relation to Bhakti saints:** **Kabir, Namdev, Farid** hymns in Granth — intellectual exchange — but **institutional Sikhism = Nanak's line** only.
-- **Trap — Kabir founder:** **Kabir did NOT found Sikhism** — common UPPCS false statement; Nanak = founder.
-- **Trap — Khalsa word:** **Sikh Khalsa (1699)** ≠ **Mughal Khalsa land** (2025 Q95 Sultanate question) — homonym trap.
-- **Geographic core:** **Punjab** — **Amritsar**, **Anandpur**, **Kartarpur**, **Nankana Sahib** — UPPCS map/chronology with north India saints (**2025 Q74**).
+- **Historical context:** Sikhism arose in **15th–16th century Punjab** amid caste divisions, ritual debates, and political instability under the Lodis and Mughals. Guru Nanak's message addressed both social and spiritual concerns.
+- **Ik Onkar:** **Ik Onkar** expresses belief in one formless God. Sikhism rejects idol worship and empty ritual, shares some **nirguna Bhakti** language, and develops its own canon.
+- **Three pillars:** **Naam Japna**, **Kirat Karni**, and **Vand Chakna** define Sikh ethical life. The ideal is spirituality within the world, not forest renunciation.
+- **Householder ideal:** Guru Nanak rejected extreme **asceticism**. Family life could remain compatible with spiritual discipline.
+- **Equality symbols:** **Langar** and **sangat** expressed community equality. They challenged caste distinctions through shared meal and worship practices.
+- **No priestly caste:** The **Guru** functioned as the preceptor, and later **Granthis** read scripture. Sikh practice did not require a hereditary Brahmin priesthood.
+- **Scripture-centred turn:** Sikh authority moved from Nanak's oral **shabad** tradition to the **Adi Granth in 1604** and then to **Guru Granth Sahib** as eternal Guru in **1708**.
+- **Mughal interaction:** Early Sikh Gurus were largely peaceful community leaders. The martyrdoms of **Arjan in 1606** and **Tegh Bahadur in 1675** helped shape the later **Khalsa** militancy of **1699**.
+- **Relation to Bhakti saints:** The Granth includes hymns of **Kabir, Namdev, Farid**, and other bhagats. Institutional Sikhism, however, remained the Guru line founded by Nanak.
+- **Trap — Kabir founder:** **Kabir did not found Sikhism**. Guru Nanak is the founder in exam usage.
+- **Trap — Khalsa word:** **Sikh Khalsa** refers to the initiated Panth of **1699**. **Mughal Khalsa** means crown land and is a separate revenue term.
+- **Geographic core:** **Punjab** was Sikhism's core region. **Amritsar, Anandpur, Kartarpur, and Nankana Sahib** are the main places to remember.
 
 > **Exam note:** Statement **"Sikhism is identical to Kabir's panth"** = **FALSE** — shared nirguna idiom, **different institution** (10 Gurus, Khalsa, Granth).
 
 ### Exam Facts (raata)
 
-- Founder: **Guru Nanak (1469–1539)**
-- **Ik Onkar** — one God
-- **Naam, Kirat, Vand** — three pillars
-- **Langar + sangat** — equality practices
-- **Householder** path — not ascetic-only
-- **Punjab** heartland
-- **Not founded by Kabir**
+- **Guru Nanak (1469–1539)** founded Sikhism.
+- **Ik Onkar** means belief in one God.
+- **Naam Japna, Kirat Karni, and Vand Chakna** are the three pillars.
+- **Langar** and **sangat** were equality practices.
+- Sikhism emphasised the **householder** path, not asceticism alone.
+- **Punjab** was the heartland of Sikhism.
+- Sikhism was **not founded by Kabir**.
 
 ### PYQs — Sikhism (Origins)
 
@@ -162,28 +162,28 @@ PYQ TRAPS:
 
 ### Guru Tradition — How It Works
 
-- **Nanak as first Guru:** Personal revelation and hymn tradition — established **personal charisma + teaching** model copied by successors.
-- **Succession mechanism:** Each Guru **nominated successor** — typically son or trusted disciple — **Guru Angad** succeeded Nanak (not eldest son pattern always).
-- **Family line tendency:** **3rd–5th Gurus** (Amar Das → Ram Das → Arjan Dev) — ** Sodhi/Ram Das line** — centralised leadership in one family branch.
-- **Guru as centre:** Followers gathered around **Guru's court** — **hymns, langar, justice, donations** — proto-state functions emerge by **Hargobind/Gobind Singh**.
-- **Scriptural authority grows:** Early gurus = living voice; **Arjan's Adi Granth** shifts authority to **text + living Guru**; **1708** text alone.
-- **Mardana model:** **Muslim rababi** companion — shows **disciple–guru** relationship across religion — **Mardana → Nanak** (**2025 Q12**, option D→1).
-- **Guru–Sikh relationship:** **Sikh** = disciple/learners of Guru — term becomes community name — **Khalsa** = initiated warrior subset from **1699**.
-- **End of human Guruship:** **Gobind Singh (1708)** declared **Guru Granth Sahib** eternal Guru — no 11th human Guru — exam favourite.
-- **Contrast Hindu guru:** Sikh Gurus held **exclusive** spiritual authority for Panth — not one guru among many sects only.
-- **Contrast Sufi pir:** Some parallels (sil sila vs guru line) but Sikhism has **Granth** and **Khalsa** — different institutional outcome.
-- **Women in tradition:** **Mata Khivi** (langar), **Guru Amar Das** emphasised women's participation — limited but exam social note.
+- **Nanak as first Guru:** Guru Nanak established the model of personal revelation, hymn teaching, and community guidance. His successors continued this Guru-centred pattern.
+- **Succession mechanism:** Each Guru nominated his successor. **Guru Angad** succeeded Nanak, so succession was not always based on eldest-son inheritance.
+- **Family line tendency:** The **3rd to 5th Gurus** linked Amar Das, Ram Das, and Arjan Dev through the Sodhi/Ram Das line. Leadership became more centralized in one family branch.
+- **Guru as centre:** Followers gathered around the **Guru's court** for hymns, langar, justice, and donations. By Hargobind and Gobind Singh, the office also carried proto-state functions.
+- **Scriptural authority grows:** Early Gurus were the living voice of the Panth. **Arjan's Adi Granth** added scriptural authority, and in **1708** the Granth became the eternal Guru.
+- **Mardana model:** **Mardana** was a Muslim rababi companion of Guru Nanak. The pair shows a disciple-Guru relationship across religious boundaries.
+- **Guru–Sikh relationship:** A **Sikh** was a disciple or learner of the Guru. The term later became the community name, while **Khalsa** referred to the initiated warrior order from **1699**.
+- **End of human Guruship:** **Guru Gobind Singh** declared **Guru Granth Sahib** the eternal Guru in **1708**. There was no 11th human Guru.
+- **Contrast Hindu guru:** Sikh Gurus held exclusive spiritual authority for the Panth. They were not merely one teacher among many sectarian gurus.
+- **Contrast Sufi pir:** Sikh succession had some parallels with Sufi lineages. Its final outcome differed because Sikhism centred on the **Granth** and the **Khalsa**.
+- **Women in tradition:** **Mata Khivi** is associated with langar, and **Guru Amar Das** supported women's participation. These points matter for social reform questions.
 
 > **Exam note:** **2025 Q12** — **Mardana is disciple**, **Guru Nanak is guru** — statement "Mardana was Nanak's guru" = **FALSE**.
 
 ### Exam Facts (raata)
 
-- **10 human Gurus** then **Granth**
-- Succession by **nomination**
-- **Mardana → Nanak** (disciple)
-- **1708** — eternal Granth Guru
-- Guru = spiritual + community head
-- **Sikh** = follower of Guru
+- Sikh tradition has **10 human Gurus**, followed by the **Granth** as eternal Guru.
+- Succession usually occurred by **nomination**.
+- **Mardana** was Guru Nanak's disciple.
+- In **1708**, **Guru Granth Sahib** became the eternal Guru.
+- The Guru was both spiritual guide and community head.
+- A **Sikh** means a follower or learner of the Guru.
 
 ### PYQs — Guru Tradition
 
@@ -213,18 +213,18 @@ PYQ TRAPS:
 
 ### Ten Sikh Gurus — How It Works
 
-- **1. Guru Nanak (1469–1539):** Founder; **Udasis/travels** across India; **Kartarpur** settlement; **Ik Onkar** hymns — **Mardana** companion.
-- **2. Guru Angad (1539–1552):** Developed **Gurmukhi script**; collected Nanak's hymns; **Khadi Sahib** centre.
-- **3. Guru Amar Das (1552–1574):** **Langar** institutionalised; **Goindwal** pilgrimage; **52 step baoli**; opposed **sati** influence.
-- **4. Guru Ram Das (1574–1581):** Founded **Amritsar**; dug **Amrit Sarovar** (tank); hymn tradition for city.
-- **5. Guru Arjan Dev (1581–1606):** **Compiled Adi Granth 1604**; built **Harmandir Sahib** (Golden Temple); **first martyr** — executed on **Jahangir's orders 1606**.
-- **6. Guru Hargobind (1606–1644):** **Militarisation** — **Miri-Piri** (two swords); built **Akal Takht**; armed followers; conflicts with Mughals.
-- **7. Guru Har Rai (1644–1661):** Maintained armed tradition peacefully; **Dara Shikoh** supported during succession struggle context.
-- **8. Guru Har Krishan (1661–1664):** **Child Guru**; served epidemic victims in **Delhi**; died young of **smallpox** — UP geography link.
-- **9. Guru Tegh Bahadur (1665–1675):** **Martyred in Delhi 1675** under **Aurangzeb** — defended **Kashmiri Pandits'** right to faith (exam narrative); father of Gobind Singh.
-- **10. Guru Gobind Singh (1675–1708):** **Khalsa 1699**; battles vs Mughals/hill chiefs; **Zafarnama**; finalised Granth; **1708** eternal Guru decree — see §10.6.
-- **Martyrdom pair:** **Arjan (1606)** + **Tegh Bahadur (1675)** — two gurus executed by Mughals — different emperors, causes.
-- **Military turn arc:** **Nanak (peace)** → **Hargobind (armed)** → **Gobind Singh (Khalsa)** — response to **persecution + political threat**.
+- **1. Guru Nanak (1469–1539):** Guru Nanak founded Sikhism, undertook **Udasis** across India, settled at **Kartarpur**, and taught **Ik Onkar**. **Mardana** was his companion.
+- **2. Guru Angad (1539–1552):** Guru Angad developed the **Gurmukhi script** and collected Nanak's hymns. **Khadur Sahib** became an important centre.
+- **3. Guru Amar Das (1552–1574):** Guru Amar Das institutionalised **langar** and developed **Goindwal** as a pilgrimage centre. He is also linked with the **52-step baoli** and opposition to sati influence.
+- **4. Guru Ram Das (1574–1581):** Guru Ram Das founded **Amritsar** and dug the **Amrit Sarovar**. His work shaped the city's sacred identity.
+- **5. Guru Arjan Dev (1581–1606):** Guru Arjan compiled the **Adi Granth in 1604** and built **Harmandir Sahib**. He became the first Sikh Guru martyr under **Jahangir in 1606**.
+- **6. Guru Hargobind (1606–1644):** Guru Hargobind began the major militarisation phase through **Miri-Piri**. He built the **Akal Takht** and armed followers.
+- **7. Guru Har Rai (1644–1661):** Guru Har Rai maintained the armed tradition while keeping a relatively peaceful profile. He is linked with the Dara Shikoh succession context.
+- **8. Guru Har Krishan (1661–1664):** Guru Har Krishan was the **child Guru**. He served epidemic victims in **Delhi** and died young of smallpox.
+- **9. Guru Tegh Bahadur (1665–1675):** Guru Tegh Bahadur was martyred in **Delhi in 1675** under **Aurangzeb**. The exam narrative links him with defending the religious rights of Kashmiri Pandits.
+- **10. Guru Gobind Singh (1675–1708):** Guru Gobind Singh created the **Khalsa in 1699**, fought Mughals and hill chiefs, wrote the **Zafarnama**, and declared the Granth eternal Guru in **1708**.
+- **Martyrdom pair:** **Guru Arjan in 1606** and **Guru Tegh Bahadur in 1675** were executed under different Mughal emperors. Keep their dates and emperors separate.
+- **Military turn arc:** Sikh history moved from **Nanak's peaceful teaching** to **Hargobind's armed discipline** and **Gobind Singh's Khalsa**. This shift responded to persecution and political pressure.
 
 > **Exam note:** **Child guru = Har Krishan** (not Gobind Singh childhood title confusion) — **8th Guru** died **1664** in Delhi epidemic service.
 
@@ -245,14 +245,14 @@ PYQ TRAPS:
 
 ### Exam Facts (raata)
 
-- **10 Gurus** — Nanak to Gobind Singh
-- **Angad** — Gurmukhi
-- **Ram Das** — Amritsar
-- **Arjan** — Adi Granth + martyr **1606**
-- **Hargobind** — Miri-Piri, Akal Takht
-- **Har Krishan** — child guru
-- **Tegh Bahadur** — martyr **1675**
-- **Gobind Singh** — 10th, Khalsa
+- The **10 Gurus** run from Nanak to Gobind Singh.
+- **Guru Angad** is linked with Gurmukhi.
+- **Guru Ram Das** is linked with Amritsar.
+- **Guru Arjan** compiled the Adi Granth and was martyred in **1606**.
+- **Guru Hargobind** is linked with Miri-Piri and Akal Takht.
+- **Guru Har Krishan** was the child Guru.
+- **Guru Tegh Bahadur** was martyred in **1675**.
+- **Guru Gobind Singh** was the 10th Guru and creator of the Khalsa.
 
 ### PYQs — Ten Sikh Gurus
 
@@ -282,29 +282,29 @@ PYQ TRAPS:
 
 ### Guru Granth Sahib — How It Works
 
-- **Origins in shabad:** Gurus composed **hymns** in **Punjabi, Hindi, Persian** — sung in **ragas** — oral then written transmission.
-- **Adi Granth 1604:** **Guru Arjan Dev** compiled — included **Nanak, Angad, Amar Das, Ram Das, Arjan** + **Kabir, Namdev, Ravidas, Sheikh Farid, Bhagat Beni, Bhagat Dhanna** and other bhagats.
-- **Installation:** First placed in **Harmandir Sahib (Golden Temple), Amritsar** — **1604** — central worship object.
-- **Language mix:** **Gurmukhi script** predominant — multilingual spiritual corpus — exam "script" link to **Guru Angad**.
-- **Bhagat bani inclusion:** Shows **openness** — not only Guru-line verses — but **authority structure** remains Guru Panth + Granth.
-- **Guru Tegh Bahadur's hymns:** Added before finalisation — **9th Guru's** compositions part of canon.
-- **Gobind Singh's role:** Before death **1708**, affirmed **Guru Granth Sahib** as **permanent Guru** — no human successor — institutional revolution.
-- **Adi Granth vs Guru Granth Sahib:** Same core text tradition — name **Guru Granth Sahib** reflects **Guru status** post-1708 — exam terminology trap.
-- **Dasam Granth:** Separate compilation attributed to **Gobind Singh** — **not** the eternal Guru — don't confuse in MCQ.
-- **Granthis:** Custodians who **read and interpret** in gurdwaras — Granth is **Guru**, granthi is **servant/reader**.
-- **No idol worship:** Granth on **raised platform (takht)** — respect with **rumala, chaur** — scripture veneration, not deity statue.
-- **Daily liturgy:** **Five banis** for Amritdhari Khalsa — **Japji** (Nanak) central — raata Japji–Nanak link.
+- **Origins in shabad:** The Gurus composed **hymns** in Punjabi, Hindi, Persian, and related languages. These hymns were sung in **ragas** before being transmitted in written form.
+- **Adi Granth 1604:** **Guru Arjan Dev** compiled the Adi Granth in **1604**. It included hymns of the early Gurus and bhagats such as **Kabir, Namdev, Ravidas, Sheikh Farid, Beni, and Dhanna**.
+- **Installation:** The Adi Granth was first installed at **Harmandir Sahib, Amritsar**, in **1604**. It became the central scripture for worship.
+- **Language mix:** **Gurmukhi** was the main script of the corpus. This links the scripture tradition with **Guru Angad** in exam questions.
+- **Bhagat bani inclusion:** The inclusion of bhagat hymns shows openness beyond the Guru line. Authority still remained with the Guru Panth and the Granth.
+- **Guru Tegh Bahadur's hymns:** The 9th Guru's hymns were added before finalisation. His compositions are part of the accepted canon.
+- **Gobind Singh's role:** Before his death in **1708**, Guru Gobind Singh affirmed **Guru Granth Sahib** as the permanent Guru. He appointed no human successor.
+- **Adi Granth vs Guru Granth Sahib:** The Adi Granth is the core text compiled in **1604**. The title **Guru Granth Sahib** reflects its eternal Guru status after **1708**.
+- **Dasam Granth:** The **Dasam Granth** is a separate compilation attributed to Guru Gobind Singh. It is not the eternal Guru.
+- **Granthis:** **Granthis** read and care for the scripture in gurdwaras. The Granth is the Guru, while the granthi is the servant-reader.
+- **No idol worship:** The Granth is placed on a **takht** and honoured with **rumala** and **chaur**. This is scripture veneration, not deity-statue worship.
+- **Daily liturgy:** **Five banis** are central for Amritdhari Khalsa practice. **Japji** is especially linked with Guru Nanak.
 
 > **Exam note:** **Who compiled Adi Granth?** → **Guru Arjan Dev (1604)** — trap options: Nanak, Gobind Singh, Tegh Bahadur.
 
 ### Exam Facts (raata)
 
-- **Adi Granth compiled 1604** — **Arjan Dev**
-- Installed **Harmandir Sahib, Amritsar**
-- **Gurmukhi** script (Angad)
-- Includes **bhagat** hymns (Kabir, Namdev, Farid)
-- **1708** — eternal Guru status
-- **Dasam Granth ≠ eternal Guru**
+- **Guru Arjan Dev** compiled the **Adi Granth in 1604**.
+- The Adi Granth was installed at **Harmandir Sahib, Amritsar**.
+- **Gurmukhi** script is linked with Guru Angad.
+- The Granth includes **bhagat** hymns, including Kabir, Namdev, and Farid.
+- In **1708**, Guru Granth Sahib received eternal Guru status.
+- **Dasam Granth** is not the eternal Guru.
 
 ### PYQs — Guru Granth Sahib
 
@@ -334,29 +334,29 @@ PYQ TRAPS:
 
 ### Khalsa — How It Works
 
-- **Context 1690s:** **Gobind Singh** faced **Mughal empire** and **Pahari hill rajas** alliance — needed **unified martial Panth** — prior martyrdoms (Arjan, Tegh Bahadur) set memory.
-- **Vaisakhi 1699:** At **Anandpur Sahib** — Guru called assembly — tested willingness — **first five initiates (Panj Pyare)** came forward.
-- **Panj Pyare (Five Beloved):** Traditionally **Bhai Daya Singh, Bhai Dharam Singh, Bhai Himmat Singh, Bhai Mohkam Singh, Bhai Sahib Singh** — Guru initiated them, then they **initiated Guru** into Khalsa — equality symbol.
-- **Amrit ceremony:** **Amrit Sanchar** — stirred **sweet water** with **double-edged sword (khanda)** — initiates drink — new birth into **Khalsa**.
-- **Five Ks (Kakars):** **Kesh** (uncut hair), **Kangha** (comb), **Kara** (steel bracelet), **Kachha** (short breeches), **Kirpan** (sword) — visible identity markers.
-- **Singh & Kaur:** Men take **Singh** (lion), women **Kaur** (princess) — replaced caste surnames for initiates — equality signal.
-- **Code of conduct:** **Rehat Maryada** evolves — later codification adds prohibitions on **tobacco, halal meat, adultery, cutting hair** — exam focuses on **1699 core**.
-- **Military role:** Khalsa = **saint-soldier (sant-sipahi)** ideal — fight injustice, protect Panth — post-1699 conflicts intensified.
-- **Relation to non-Khalsa Sikhs:** Not all Sikhs initiated immediately — **Khalsa** = core warrior order; broader **Sikh sangat** continued.
-- **After Gobind Singh's death:** Khalsa led by **Guru Granth + Guru Panth** consensus — later **Misls** and **Ranjit Singh** empire (modern history beyond this file — brief only).
-- **Trap — Khalsa homonym:** **Mughal Khalsa** = crown land (**2025 Q95** Sultanate A/R) — **zero relation** to Sikh initiation.
-- **Trap — Baisakhi:** **Harvest festival** + **1699 Khalsa birth** — UPPCS may ask **year/event** pair.
+- **Context 1690s:** Guru Gobind Singh faced pressure from the **Mughal empire** and **Pahari hill rajas**. Earlier martyrdoms helped create the memory behind a unified martial Panth.
+- **Vaisakhi 1699:** At **Anandpur Sahib**, the Guru called an assembly and tested the willingness of his followers. The first five initiates became the **Panj Pyare**.
+- **Panj Pyare (Five Beloved):** The Panj Pyare are traditionally **Bhai Daya Singh, Bhai Dharam Singh, Bhai Himmat Singh, Bhai Mohkam Singh, and Bhai Sahib Singh**. The Guru initiated them, and they then initiated the Guru into the Khalsa.
+- **Amrit ceremony:** **Amrit Sanchar** used sweetened water stirred with a **khanda**. Initiates drank it as a sign of new birth into the **Khalsa**.
+- **Five Ks (Kakars):** The Five Ks are **Kesh, Kangha, Kara, Kachha, and Kirpan**. They served as visible identity markers of the Khalsa.
+- **Singh & Kaur:** Men took the name **Singh**, and women took **Kaur**. The practice challenged caste surnames among initiates.
+- **Code of conduct:** **Rehat Maryada** developed over time. Exam questions usually focus on the **1699** core rather than later detailed prohibitions.
+- **Military role:** The Khalsa embodied the **sant-sipahi** ideal. Its purpose was to fight injustice and protect the Panth.
+- **Relation to non-Khalsa Sikhs:** Not all Sikhs became initiated immediately. The **Khalsa** was the core warrior order within the broader Sikh sangat.
+- **After Gobind Singh's death:** Khalsa leadership rested on **Guru Granth** and **Guru Panth** consensus. Later Misls and Ranjit Singh's empire belong mainly to modern-history continuity.
+- **Trap — Khalsa homonym:** **Mughal Khalsa** meant crown land. It has no relation to Sikh initiation.
+- **Trap — Baisakhi:** **Baisakhi** is both a harvest festival and the **1699** Khalsa birth event. UPPCS may ask this year-event pair.
 
 > **Exam note:** **Khalsa founded 1699** — **NOT** by Nanak or Arjan — only **Guru Gobind Singh** — date MCQ trap.
 
 ### Exam Facts (raata)
 
-- **Vaisakhi 1699** — Anandpur Sahib
-- **Panj Pyare** — five first initiates
-- **Five Ks** — Kesh, Kangha, Kara, Kachha, Kirpan
-- **Singh / Kaur** naming
-- **Guru Gobind Singh** creator
-- **Sant-sipahi** ideal
+- The Khalsa was created on **Vaisakhi 1699** at Anandpur Sahib.
+- The **Panj Pyare** were the first five initiates.
+- The **Five Ks** are Kesh, Kangha, Kara, Kachha, and Kirpan.
+- **Singh** and **Kaur** became Khalsa names.
+- **Guru Gobind Singh** created the Khalsa.
+- The Khalsa followed the **sant-sipahi** ideal.
 
 ### PYQs — Khalsa
 
@@ -386,30 +386,30 @@ PYQ TRAPS:
 
 ### Guru Gobind Singh — How It Works
 
-- **Birth and succession:** Born **Gobind Rai** — son of **Guru Tegh Bahadur** — became Guru **1675** after father's **Delhi martyrdom** — personal stake in resistance narrative.
-- **Anandpur base:** Fortified **Anandpur Sahib** — centre for **Khalsa creation 1699** — strategic hill location vs plains Mughal pressure.
-- **Khalsa founding 1699:** See §10.5 — defining achievement — **Vaisakhi** date mandatory for exams.
-- **Wars with hill rajas:** **Battle of Bhangani (1688)** vs combined **Pahari rajas** — early military assertion before Khalsa formalisation.
-- **Mughal conflict:** After **1699**, intensified struggle — **siege of Anandpur**, ** Chamkaur**, **Muktsar** battles — **four sons** martyred (exam emotional/cultural fact).
-- **Zafarnama:** Letter to **Aurangzeb** in **Persian** — moral critique of tyranny — Gobind Singh as **literary-political** voice.
-- **Final Granth decree 1708:** At **Nanded** (Maharashtra) — Guru declared **Guru Granth Sahib** as **only Guru** thereafter — closes human line.
-- **Death 1708:** Died at **Nanded** — accounts include **assassination wound** — **Gurudwara Hazur Sahib** site.
-- **Dasam Granth:** Compositions attributed to Gobind Singh — **distinct** from **Guru Granth Sahib** — don't equate as eternal Guru.
-- **Legacy bridge:** Post-1708 → **Khalsa Misls** → **Maharaja Ranjit Singh (1799–1839)** — **2021 Q67** Ranjit Singh **Adalat-i-Ala at Amritsar** — modern Sikh polity (brief cross-era note).
-- **Trap — 10th Guru identity:** **Gobind Singh** = last human Guru — **Har Krishan** was **8th**, not 10th.
-- **Trap — Khalsa creator:** Only **Gobind Singh** — not **Hargobind** (he started Miri-Piri militancy but not Khalsa ritual).
+- **Birth and succession:** Guru Gobind Singh was born **Gobind Rai**, the son of Guru Tegh Bahadur. He became Guru in **1675** after his father's martyrdom in Delhi.
+- **Anandpur base:** He fortified **Anandpur Sahib** as a major centre. The same place became the site of **Khalsa creation in 1699**.
+- **Khalsa founding 1699:** The founding of the Khalsa was his defining achievement. The **Vaisakhi 1699** date is mandatory for exams.
+- **Wars with hill rajas:** The **Battle of Bhangani (1688)** was fought against combined **Pahari rajas**. It showed his military assertion before formal Khalsa creation.
+- **Mughal conflict:** Conflict intensified after **1699** through the siege of Anandpur and battles such as **Chamkaur** and **Muktsar**. The martyrdom of his four sons became a major Panth memory.
+- **Zafarnama:** The **Zafarnama** was a Persian letter to **Aurangzeb**. It presented Guru Gobind Singh as a literary and political critic of tyranny.
+- **Final Granth decree 1708:** At **Nanded**, Guru Gobind Singh declared **Guru Granth Sahib** the only Guru thereafter. This closed the line of human Gurus.
+- **Death 1708:** He died at **Nanded** in **1708**, with accounts mentioning an assassination wound. **Gurudwara Hazur Sahib** marks the site.
+- **Dasam Granth:** The **Dasam Granth** contains compositions attributed to Guru Gobind Singh. It is distinct from **Guru Granth Sahib** and is not the eternal Guru.
+- **Legacy bridge:** After 1708, Sikh power moved toward **Khalsa Misls** and later **Maharaja Ranjit Singh**. The Ranjit Singh point is only a modern-history bridge.
+- **Trap — 10th Guru identity:** **Guru Gobind Singh** was the 10th and last human Guru. **Guru Har Krishan** was the 8th Guru.
+- **Trap — Khalsa creator:** **Guru Gobind Singh** created the Khalsa. **Guru Hargobind** began Miri-Piri militancy but did not create the Khalsa ritual.
 
 > **Exam note:** **Four sons of Gobind Singh** martyred — cultural fact; **exam MCQ** often pairs **1699 Khalsa + Gobind Singh + Anandpur** together.
 
 ### Exam Facts (raata)
 
-- **10th Guru** — last human
-- **1675** succeeds Tegh Bahadur
-- **Khalsa 1699** Anandpur
-- **1708** — Guru Granth eternal; died **Nanded**
-- **Zafarnama** — Aurangzeb
-- **Bhangani 1688** — hill rajas
-- Sons martyred — Panth memory
+- Guru Gobind Singh was the **10th** and last human Guru.
+- He succeeded Guru Tegh Bahadur in **1675**.
+- He created the **Khalsa in 1699** at Anandpur.
+- In **1708**, he made Guru Granth Sahib eternal Guru and died at **Nanded**.
+- **Zafarnama** was addressed to Aurangzeb.
+- **Bhangani 1688** was fought against hill rajas.
+- The martyrdom of his sons is a major Panth memory.
 
 ### PYQs — Guru Gobind Singh
 
@@ -1098,17 +1098,17 @@ D. Multan
 
 ## Common Traps — Sikhism (≥10)
 
-1. **Kabir founded Sikhism** — **FALSE** — **Guru Nanak** founded Sikh line.
-2. **Mardana was Nanak's guru** — **FALSE** — **Mardana → Nanak** as disciple (**2025 Q12**).
-3. **Khalsa created by Nanak** — **FALSE** — **Gobind Singh 1699** only.
-4. **Mughal Khalsa = Sikh Khalsa** — **FALSE** — **2025 Q95** revenue trap.
-5. **Arjan martyred by Aurangzeb** — **FALSE** — **Jahangir 1606**; Aurangzeb = **Tegh Bahadur 1675**.
-6. **Adi Granth by Gobind Singh** — **FALSE** — **Arjan Dev 1604**.
-7. **Dasam Granth = eternal Guru** — **FALSE** — **Guru Granth Sahib 1708**.
-8. **Hargobind created Khalsa** — **FALSE** — **Miri-Piri** yes; **Khalsa = Gobind Singh**.
-9. **11 human Gurus** — **FALSE** — exactly **10**.
-10. **Har Krishan = 10th Guru** — **FALSE** — **8th**; **10th = Gobind Singh**.
-11. **Khalsa at Amritsar 1699** — **FALSE** — **Anandpur Sahib**.
-12. **Sikhism = pure asceticism** — **FALSE** — **householder** path emphasised.
-13. **Granth has only Guru hymns** — **FALSE** — includes **bhagats** (Kabir, Namdev, Farid).
-14. **1604 = Arjan martyrdom** — **FALSE** — **1604 Granth**; martyrdom **1606**.
+1. **Kabir did not found Sikhism.** **Guru Nanak** founded the Sikh line.
+2. **Mardana was not Nanak's guru.** He was Guru Nanak's disciple and companion (**2025 Q12**).
+3. **Guru Nanak did not create the Khalsa.** **Guru Gobind Singh** created it in **1699**.
+4. **Mughal Khalsa and Sikh Khalsa are different terms.** The Mughal term is a revenue category, while the Sikh term refers to the initiated Panth.
+5. **Guru Arjan was not martyred by Aurangzeb.** He was martyred under **Jahangir in 1606**, while **Tegh Bahadur** was martyred under Aurangzeb in **1675**.
+6. **Guru Gobind Singh did not compile the Adi Granth.** **Guru Arjan Dev** compiled it in **1604**.
+7. **Dasam Granth is not the eternal Guru.** **Guru Granth Sahib** received eternal Guru status in **1708**.
+8. **Guru Hargobind did not create the Khalsa.** He introduced **Miri-Piri**, while **Guru Gobind Singh** created the Khalsa.
+9. **There were not 11 human Gurus.** Sikh tradition has exactly **10** human Gurus.
+10. **Guru Har Krishan was not the 10th Guru.** He was the **8th** Guru, and **Guru Gobind Singh** was the 10th.
+11. **The Khalsa was not created at Amritsar.** It was created at **Anandpur Sahib** in **1699**.
+12. **Sikhism is not pure asceticism.** It emphasises the **householder** path.
+13. **Guru Granth Sahib does not contain only Guru hymns.** It also includes bhagat hymns of Kabir, Namdev, Farid, and others.
+14. **1604 is not the year of Arjan's martyrdom.** **1604** marks Adi Granth compilation, while the martyrdom came in **1606**.

@@ -101,25 +101,25 @@ KEY TRAPS:
 
 ### Global Environmental Geography — How It Works
 
-- **Global environmental geography** asks *where* environmental phenomena occur on Earth and *why* those locations share similar conditions — it bridges physical geography and ecology.
+- **Global environmental geography** asks *where* environmental phenomena occur on Earth and *why* those locations share similar conditions, bridging physical geography and ecology.
 - **Climate is the primary control** on biome distribution: temperature + precipitation together determine whether a region becomes rainforest, desert, grassland, or tundra.
-- **Latitude drives energy input**: equatorial regions receive direct sunlight year-round → high productivity and biodiversity; polar regions receive oblique rays → cold, low productivity.
+- **Latitude drives energy input**: equatorial regions receive direct sunlight year-round, yielding high productivity and biodiversity, while polar regions receive oblique rays and remain cold with low productivity.
 - **Continentality vs maritime influence** modifies climate: interior continents (central Asia, central Australia) have extreme temperatures and aridity despite mid-latitude position.
-- **Altitude creates vertical zonation**: Himalaya, Andes, Alps show biome change with height — same latitude can host tropical forest at base and alpine tundra at summit.
-- **Ocean currents redistribute heat**: warm Gulf Stream keeps western Europe mild; cold Humboldt/Peru Current supports rich fisheries but coastal deserts (Atacama).
-- **Relief and rain-shadow effects** create wet windward and dry leeward sides — Western Ghats vs Deccan interior is India's classic example.
+- **Altitude creates vertical zonation**: the Himalaya, Andes, and Alps show biome change with height, so the same latitude can host tropical forest at the base and alpine tundra at the summit.
+- **Ocean currents redistribute heat**: the warm Gulf Stream keeps western Europe mild, while the cold Humboldt/Peru Current supports rich fisheries but also coastal deserts (Atacama).
+- **Relief and rain-shadow effects** create wet windward and dry leeward sides. Western Ghats versus Deccan interior is India's classic example.
 - **Human activity overlays natural geography**: industrial belts, mega-cities, and agricultural frontiers become **anthropogenic environmental regions** (Indo-Gangetic pollution corridor, Amazon deforestation arc).
-- **Environmental problems are often transboundary**: dust from Sahara reaches Europe; Amazon fires affect global CO₂; plastic gyres cross national waters — geography explains spread.
-- **India's position** in tropical monsoon + Himalayan + desert + coastal zones makes it a **microcosm** of global environmental geography — useful for comparison questions.
+- **Environmental problems are often transboundary**: dust from the Sahara reaches Europe, Amazon fires affect global CO₂, and plastic gyres cross national waters. Geography explains how they spread.
+- **India's position** across tropical monsoon, Himalayan, desert, and coastal zones makes it a **microcosm** of global environmental geography, useful for comparison questions.
 
 > **Exam note:** UPPCS 2025 Q1 — Australia interior is desert because of **subtropical high pressure + rain shadow + continentality**, NOT because "northern Australia is in temperate zone" (Reason is **FALSE**). Answer: **(A) is true, (R) is false**.
 
 ### Exam Facts (raata)
 
-- Global environmental geography links **physical geography → biomes → biodiversity → pollution/degradation belts**
+- Global environmental geography connects **physical geography, biomes, biodiversity, and pollution/degradation belts** in sequence.
 - **Latitudinal biodiversity gradient**: species richness highest near equator, decreases toward poles
-- **Megadiversity countries**: 17 globally — Australia, Brazil, China, Colombia, DRC, Ecuador, India, Indonesia, Madagascar, Malaysia, Mexico, Papua New Guinea, Peru, Philippines, South Africa, USA, Venezuela
-- **14 terrestrial biomes** globally vs **10 biogeographic zones** in India — do not confuse counts
+- **Megadiversity countries** number 17 globally: Australia, Brazil, China, Colombia, DRC, Ecuador, India, Indonesia, Madagascar, Malaysia, Mexico, Papua New Guinea, Peru, Philippines, South Africa, USA, and Venezuela.
+- There are **14 terrestrial biomes** globally versus **10 biogeographic zones** in India. Do not confuse these counts.
 - **Anthropocene** influence: human-modified biomes (agricultural, urban) now cover >50% ice-free land
 - **Transboundary** rivers, airsheds, and ocean currents make environmental geography inherently international
 
@@ -162,16 +162,16 @@ KEY TRAPS:
 
 ### Major Global Biomes — How It Works
 
-- A **biome** is the largest ecologically meaningful land unit — determined primarily by **climate** (temperature + rainfall), not political boundaries.
-- **Tropical rainforest** biome: hot, wet year-round (>200 cm rain), no dry season, layered canopy, highest species diversity — Amazon, Congo, Southeast Asia, Western Ghats.
-- **Tropical deciduous** biome: monsoon climate with distinct wet/dry seasons — sal/teak forests; most of peninsular India.
-- **Desert biome**: arid, typically <25 cm annual rainfall, sparse vegetation, extreme day-night temperature — Sahara, Arabian, Gobi, Thar, Atacama.
-- **Temperate grassland** biome: moderate rainfall, no trees (fire + grazing), deep fertile soils — Prairies (North America), Steppes (Eurasia), Pampas (South America), **Puszta (Hungary)**.
-- **Taiga (boreal coniferous)**: cold long winters, conifer forests (spruce, fir), **permafrost** in northern patches — Canada, Russia, Scandinavia.
-- **Tundra**: very cold, short growing season, moss/lichen, **permafrost** throughout — Arctic coasts; no trees.
-- **Savanna**: grassland + scattered trees, distinct wet/dry seasons — African savanna (lions, elephants); Gir (Gujarat) is India's savanna patch.
-- **Mediterranean (Chaparral)**: mild wet winters, hot dry summers, fire-adapted shrubs — California, Cape Town, Mediterranean Basin, SW Australia.
-- **Mangrove** and **wetland** biomes are **transitional** between terrestrial and aquatic — exams trap "purely terrestrial" classification.
+- A **biome** is the largest ecologically meaningful land unit, determined primarily by **climate** (temperature and rainfall), not political boundaries.
+- The **tropical rainforest** biome is hot and wet year-round (>200 cm rain), with no dry season, layered canopy, and highest species diversity. Examples include the Amazon, Congo, Southeast Asia, and Western Ghats.
+- The **tropical deciduous** biome has a monsoon climate with distinct wet and dry seasons, featuring sal/teak forests across most of peninsular India.
+- The **desert biome** is arid, typically receiving <25 cm annual rainfall, with sparse vegetation and extreme day-night temperature swings. Examples include the Sahara, Arabian, Gobi, Thar, and Atacama.
+- The **temperate grassland** biome has moderate rainfall, no trees (due to fire and grazing), and deep fertile soils. Examples include Prairies (North America), Steppes (Eurasia), Pampas (South America), and **Puszta (Hungary)**.
+- **Taiga (boreal coniferous)** has cold long winters, conifer forests (spruce, fir), and **permafrost** in northern patches across Canada, Russia, and Scandinavia.
+- **Tundra** is very cold with a short growing season, moss and lichen, and **permafrost** throughout Arctic coasts. Trees are absent.
+- **Savanna** is grassland with scattered trees and distinct wet/dry seasons, such as African savanna (lions, elephants). Gir (Gujarat) is India's savanna patch.
+- **Mediterranean (Chaparral)** has mild wet winters, hot dry summers, and fire-adapted shrubs in California, Cape Town, the Mediterranean Basin, and SW Australia.
+- **Mangrove** and **wetland** biomes are **transitional** between terrestrial and aquatic. Exams trap candidates who classify them as purely terrestrial.
 
 > **Exam note:** **14 biomes globally** vs **10 biogeographic zones in India** — UPPCS 2021 asked India's count (=10). Trap: "India has 14 biogeographic zones" = **FALSE**. **Permafrost** in **Taiga + Tundra**, NOT Savannah (UPSC 2013).
 
@@ -196,14 +196,14 @@ KEY TRAPS:
 
 ### Exam Facts (raata)
 
-- **14 terrestrial biomes** — complete list mandatory; never write "etc."
+- All **14 terrestrial biomes** must be listed completely. Never write "etc."
 - **Permafrost**: permanently frozen ground in **Tundra + Taiga** (northern taiga has discontinuous permafrost)
 - **Highest biodiversity biome**: Tropical rainforest (Amazon = ~10% of world's species)
 - **Largest biome by area**: Taiga/boreal forest
-- **Driest desert**: Atacama (Chile) — some stations record zero rainfall for years
+- The **driest desert** is Atacama (Chile), where some stations record zero rainfall for years.
 - **Largest hot desert**: Sahara (Africa)
-- **India's Gir**: last refuge of Asiatic lion — **tropical dry deciduous/savanna** type
-- **Mangrove** = coastal transitional — UPSC 2020 trap: NOT purely terrestrial
+- **India's Gir** is the last refuge of the Asiatic lion in a **tropical dry deciduous/savanna** type ecosystem.
+- **Mangrove** is coastal transitional. UPSC 2020 trap: it is NOT purely terrestrial.
 
 ### PYQs — Major Global Biomes
 
@@ -247,16 +247,16 @@ KEY TRAPS:
 
 ### Climate Zones & Environmental Regions — How It Works
 
-- **Köppen Group A (Tropical)**: all months ≥18°C — includes **Af** (rainforest), **Am** (monsoon), **Aw** (savanna/wet-dry); India = mainly **Am** (monsoon climate).
-- **Köppen Group B (Arid)**: evaporation exceeds precipitation — **BW** (desert) and **BS** (steppe/semi-arid); Thar = **BWh** (hot desert); Gobi = cold desert (**BWk**).
-- **Köppen Group C (Temperate)**: warmest month >10°C, coldest between −3°C and 18°C — includes **Cfa** (humid subtropical), **Cfb** (marine west coast).
-- **Köppen Group D (Cold/Continental)**: warmest month >10°C, coldest ≤−3°C — taiga and cold winters; Siberia, northern Canada.
-- **Köppen Group E (Polar)**: warmest month <10°C — tundra (**ET**) and ice cap (**EF**); Antarctica, Greenland.
-- **Latitudinal environment belts** (simplified): Equator (0–10°) = rainforest | 10–30° = desert/savanna | 30–60° = temperate forest/grassland | 60°+ = taiga → tundra → polar ice.
-- **ITCZ (Inter-Tropical Convergence Zone)** shifts seasonally — drives monsoon and equatorial rainfall belts; drought when ITCZ fails to reach (Sahel).
-- **Subtropical high-pressure belts (horse latitudes, ~20–35° N/S)** suppress rainfall → world's major deserts align here (Sahara, Arabian, Thar, Australian interior).
-- **West coast vs east coast at same latitude**: cold ocean current + upwelling on west (Peru, Namibia) → aridity; warm current on east (Brazil, SE USA) → wetter conditions.
-- **Monsoon climate** is a distinct environmental region — seasonal wind reversal drives India's agriculture, floods, and droughts; not found uniformly at same latitude globally.
+- **Köppen Group A (Tropical)**: all months ≥18°C, including **Af** (rainforest), **Am** (monsoon), and **Aw** (savanna/wet-dry). India is mainly **Am** (monsoon climate).
+- **Köppen Group B (Arid)**: evaporation exceeds precipitation, with **BW** (desert) and **BS** (steppe/semi-arid). Thar is **BWh** (hot desert) and Gobi is a cold desert (**BWk**).
+- **Köppen Group C (Temperate)**: warmest month >10°C, coldest between −3°C and 18°C, including **Cfa** (humid subtropical) and **Cfb** (marine west coast).
+- **Köppen Group D (Cold/Continental)**: warmest month >10°C, coldest ≤−3°C, with taiga and cold winters in Siberia and northern Canada.
+- **Köppen Group E (Polar)**: warmest month <10°C, with tundra (**ET**) and ice cap (**EF**) in Antarctica and Greenland.
+- **Latitudinal environment belts** (simplified): Equator (0–10°) has rainforest, 10–30° has desert/savanna, 30–60° has temperate forest/grassland, and 60°+ progresses from taiga through tundra to polar ice.
+- The **ITCZ (Inter-Tropical Convergence Zone)** shifts seasonally, driving monsoon and equatorial rainfall belts. Drought occurs when ITCZ fails to reach an area (Sahel).
+- **Subtropical high-pressure belts (horse latitudes, ~20–35° N/S)** suppress rainfall, and the world's major deserts align here (Sahara, Arabian, Thar, Australian interior).
+- **West coast vs east coast at same latitude**: cold ocean current and upwelling on the west (Peru, Namibia) cause aridity, while warm current on the east (Brazil, SE USA) brings wetter conditions.
+- **Monsoon climate** is a distinct environmental region where seasonal wind reversal drives India's agriculture, floods, and droughts. It is not found uniformly at the same latitude globally.
 
 > **Exam note:** Australia's interior desert sits largely in **subtropical/tropical arid** belts under persistent high pressure — NOT explained by "temperate zone" (2025 Q1). **Am** = monsoon; trap: "India has Af rainforest climate everywhere" = **FALSE**.
 
@@ -273,10 +273,10 @@ KEY TRAPS:
 ### Exam Facts (raata)
 
 - **Köppen 5 major groups**: A-B-C-D-E (Tropical-Arid-Temperate-Cold-Polar)
-- **India dominant climate**: **Am** (tropical monsoon) — supports diversified cropping (2024 agri-geography link)
-- **Horse latitudes (~20–35°)**: subtropical high → desert belt alignment
-- **ITCZ**: equatorial low-pressure belt — seasonal migration drives monsoon
-- **Rain-shadow deserts**: Patagonia, Gobi (partially), Thar — leeward of mountains
+- **India's dominant climate** is **Am** (tropical monsoon), which supports diversified cropping (2024 agri-geography link).
+- **Horse latitudes (~20–35°)** have subtropical high pressure that aligns with the desert belt.
+- The **ITCZ** is an equatorial low-pressure belt whose seasonal migration drives the monsoon.
+- **Rain-shadow deserts** include Patagonia, Gobi (partially), and Thar on the leeward side of mountains.
 - **Cold west coast deserts**: Atacama (Peru Current), Namib (Benguela Current)
 
 ### PYQs — Climate Zones
@@ -319,16 +319,16 @@ KEY TRAPS:
 
 ### World Deserts, Rainforests & Critical Regions — How It Works
 
-- **Hot deserts** (Sahara, Arabian, Thar, Kalahari): subtropical high pressure + continentality; day-night temperature extremes; adapted xerophytes.
-- **Cold deserts** (Gobi, Patagonian): interior continentality or rain shadow; cold winters; **Gobi extends into Mongolia + China** (2025 Q27 — NOT primarily Russia/Kazakhstan).
-- **Kalahari Desert** (Southern Africa): semi-arid basin — home to **Bushman/San** hunter-gatherers (2025 Q23 — correctly matched).
-- **Atacama Desert** (Chile): cold west-coast desert — Peru/Humboldt Current + Andes rain shadow; driest on Earth.
-- **Amazon Rainforest (Selva)**: equatorial Af climate; Amazon River basin; **"Selva"** is the local name for Brazil's equatorial rainforests (2025 Q63 Stmt 1 = **TRUE**).
-- **Terra Roxa soils**: volcanic basalt-derived, dark, fertile — found in **southern Brazil** (Paraná region), NOT Amazon basin floor (Stmt 2 also **TRUE** for Brazil — 2025 Q63 answer **Both 1 and 2**).
-- **Congo Rainforest**: second-largest tropical rainforest — Congo Basin, Africa; high biodiversity, logging pressure.
-- **Sundarbans mangrove**: largest mangrove forest — delta of Ganga-Brahmaputra; transitional coastal ecosystem.
-- **Great Barrier Reef** (Australia): largest coral reef system — marine environmental region; climate change bleaching threat.
-- **Adolf Engler** classified **World Floral Regions**; **C.O. Sauer** proposed **Planting Hearth** (agricultural origin centres) — 2024 Q29 matching favourites.
+- **Hot deserts** (Sahara, Arabian, Thar, Kalahari) form under subtropical high pressure and continentality, with day-night temperature extremes and adapted xerophytes.
+- **Cold deserts** (Gobi, Patagonian) arise from interior continentality or rain shadow with cold winters. The **Gobi extends into Mongolia and China** (2025 Q27), NOT primarily Russia/Kazakhstan.
+- The **Kalahari Desert** (Southern Africa) is a semi-arid basin and home to **Bushman/San** hunter-gatherers (2025 Q23, correctly matched).
+- The **Atacama Desert** (Chile) is a cold west-coast desert shaped by the Peru/Humboldt Current and Andes rain shadow. It is the driest on Earth.
+- The **Amazon Rainforest (Selva)** has equatorial Af climate in the Amazon River basin. **"Selva"** is the local name for Brazil's equatorial rainforests (2025 Q63 Stmt 1 = **TRUE**).
+- **Terra Roxa soils** are volcanic basalt-derived, dark, and fertile, found in **southern Brazil** (Paraná region), NOT the Amazon basin floor (Stmt 2 also **TRUE** for Brazil, 2025 Q63 answer **Both 1 and 2**).
+- The **Congo Rainforest** is the second-largest tropical rainforest in the Congo Basin, Africa, with high biodiversity and logging pressure.
+- The **Sundarbans mangrove** is the largest mangrove forest at the delta of Ganga-Brahmaputra, a transitional coastal ecosystem.
+- The **Great Barrier Reef** (Australia) is the largest coral reef system and a marine environmental region facing climate change bleaching threat.
+- **Adolf Engler** classified **World Floral Regions**, and **C.O. Sauer** proposed **Planting Hearth** (agricultural origin centres). Both are 2024 Q29 matching favourites.
 
 > **Exam note:** **2025 Q63 Brazil** — BOTH statements correct: Selva = Amazon rainforest; Terra Roxa = fertile dark soil. Trap: rejecting Terra Roxa because Amazon has poor oxisol soils — Terra Roxa is in **southern Brazil**, not central Amazon. **Masai = East Africa (Kenya/Tanzania), NOT West Africa** (2025 Q23).
 
@@ -360,10 +360,10 @@ KEY TRAPS:
 - **Selva** = Brazilian Amazon equatorial rainforest name
 - **Terra Roxa** = fertile basaltic soil, southern Brazil (coffee, soy, sugarcane)
 - **Gobi** = Mongolia + China (2025 Q27: Only 1 and 2)
-- **Bushman** = Kalahari (correct); **Masai** = East Africa (NOT West Africa — Q23 answer **Only 4**)
-- **Eskimo** = Arctic Canada/Greenland; **Pygmy** = Congo Basin rainforest
-- **Engler** = floral regions; **Sauer** = planting hearth
-- **36 global biodiversity hotspots** (Myers/NCI-CI) — criteria: ≥1500 endemic vascular plants + ≥70% habitat loss
+- **Bushman** = Kalahari (correct). **Masai** = East Africa, NOT West Africa (Q23 answer **Only 4**).
+- **Eskimo** = Arctic Canada/Greenland. **Pygmy** = Congo Basin rainforest.
+- **Engler** = floral regions. **Sauer** = planting hearth.
+- There are **36 global biodiversity hotspots** (Myers/NCI-CI) with criteria of ≥1500 endemic vascular plants and ≥70% habitat loss.
 
 ### PYQs — Deserts, Rainforests & Critical Regions
 
@@ -410,15 +410,15 @@ KEY TRAPS:
 ### Global Pollution & Degradation Hotspots — How It Works
 
 - **Pollution hotspots follow geography + economy**: industrial belts, river basins with dense population, and basins with temperature inversions trap pollutants.
-- **Indo-Gangetic Plain (IGP)**: world's worst **PM2.5 airshed** — winter inversion + stubble burning + coal + geography traps smog; includes Delhi, Kanpur, Lucknow, Lahore, Dhaka corridor.
-- **China industrial belt**: Pearl River Delta, Yangtze basin — SO₂, PM, industrial effluents; Beijing-Tianjin-Hebei airshed.
-- **Niger Delta (Nigeria)**: oil extraction pollution — flaring, spills, mangrove destruction; classic **resource curse** environmental hotspot.
-- **Aral Sea basin (Central Asia)**: Soviet irrigation diverted rivers — sea shrank 90%+, salinity toxicity, dust storms with pesticides.
-- **Amazon deforestation arc** (Brazil): "arc of deforestation" along forest edge — cattle, soy, roads; global CO₂ and biodiversity loss.
-- **Congo Basin**: logging, mining, bushmeat — second rainforest under pressure; lower global visibility than Amazon but critical.
-- **Great Pacific Garbage Patch**: ocean gyre concentrates microplastics — marine pollution hotspot spanning international waters.
-- **Gulf of Mexico dead zone**: Mississippi River agricultural runoff (nitrogen/phosphorus) → hypoxia — nutrient pollution geography.
-- **Climate-vulnerable hotspots**: Small Island Developing States (SIDS), Arctic, Sahel — degradation from drought + sea-level rise overlaps with geography.
+- The **Indo-Gangetic Plain (IGP)** is the world's worst **PM2.5 airshed**, where winter inversion, stubble burning, coal, and geography trap smog across Delhi, Kanpur, Lucknow, Lahore, and Dhaka corridor.
+- The **China industrial belt** spans Pearl River Delta and Yangtze basin with SO₂, PM, and industrial effluents, plus the Beijing-Tianjin-Hebei airshed.
+- The **Niger Delta (Nigeria)** suffers oil extraction pollution through flaring, spills, and mangrove destruction, a classic **resource curse** environmental hotspot.
+- The **Aral Sea basin (Central Asia)** saw Soviet irrigation divert rivers, the sea shrink 90%+, salinity toxicity rise, and dust storms carry pesticides.
+- The **Amazon deforestation arc** (Brazil) is an "arc of deforestation" along the forest edge driven by cattle, soy, and roads, causing global CO₂ and biodiversity loss.
+- The **Congo Basin** faces logging, mining, and bushmeat pressure as the second rainforest under stress. It has lower global visibility than the Amazon but remains critical.
+- The **Great Pacific Garbage Patch** is where an ocean gyre concentrates microplastics, a marine pollution hotspot spanning international waters.
+- The **Gulf of Mexico dead zone** forms when Mississippi River agricultural runoff (nitrogen/phosphorus) causes hypoxia, illustrating nutrient pollution geography.
+- **Climate-vulnerable hotspots** include Small Island Developing States (SIDS), Arctic, and Sahel, where degradation from drought and sea-level rise overlaps with geography.
 
 > **Exam note:** **Biodiversity hotspot** requires BOTH high endemism AND significant habitat loss (2024 Q33 — **both statements correct**). Trap: "All biodiverse regions are hotspots" = **FALSE**. Pollution hotspot ≠ biodiversity hotspot — different criteria.
 
@@ -438,11 +438,11 @@ KEY TRAPS:
 
 ### Exam Facts (raata)
 
-- **2024 Q33**: Hotspots have **high endemism** AND **significant habitat loss** — both true
-- **36 biodiversity hotspots** globally; **4 in India** (Himalaya, Western Ghats, NE, Nicobar)
+- **2024 Q33**: hotspots have **high endemism** AND **significant habitat loss**. Both statements are true.
+- There are **36 biodiversity hotspots** globally and **4 in India** (Himalaya, Western Ghats, NE, Nicobar).
 - **Indo-Gangetic Plain** = major transboundary airshed (India, Pakistan, Bangladesh, Nepal)
 - **Aral Sea** = classic anthropogenic environmental disaster from river diversion
-- **Dead zones** = eutrophication from agricultural runoff — Gulf of Mexico largest
+- **Dead zones** result from eutrophication caused by agricultural runoff. The Gulf of Mexico has the largest.
 - **Megacities** as pollution hotspots: Delhi, Beijing, Cairo, Mexico City, Jakarta
 
 ### PYQs — Pollution & Degradation Hotspots
@@ -487,16 +487,16 @@ KEY TRAPS:
 
 ### International Environmental Geography Links — How It Works
 
-- **Transboundary rivers** link nations environmentally: Nile (11 countries), Mekong (6), Ganga-Brahmaputra (India-Bangladesh-Nepal), Danube (Europe) — dams, pollution, and flow alteration cross borders.
-- **Shared airsheds**: Indo-Gangetic smog affects India, Pakistan, Nepal, Bangladesh; European pollution crosses EU borders — geography makes pollution **international by default**.
-- **Ocean currents connect continents**: Gulf Stream warms Europe; ENSO (El Niño) in Pacific affects Indian monsoon and global weather — teleconnections are environmental geography.
-- **Saharan dust transport**: African dust reaches Amazon (fertilizes with phosphorus) and Caribbean — intercontinental nutrient link.
-- **Migratory species routes**: Central Asian Flyway, East Atlantic Flyway — bird migration links protected areas across countries; CMS (Bonn Convention) governs.
-- **Amazon fires + global climate**: Deforestation in Brazil affects global CO₂ — environmental geography of carbon cycle is borderless.
-- **Plastic gyres**: Five major ocean gyres accumulate plastic — no single nation owns the hotspot; UN Plastics Treaty negotiations address global commons.
-- **Antarctica**: governed by Antarctic Treaty — environmental protection of polar ice biome as global commons; ozone hole (historically) linked to global ODS emissions.
-- **Trade and environment**: Palm oil (SE Asia), soy (Brazil), minerals (Congo) — global supply chains create **embedded environmental footprints** in consumer countries.
-- **India's international links**: Monsoon tied to Indian Ocean + Pacific ENSO; Himalayan rivers shared with Nepal/China/Bangladesh; transboundary air pollution with Pakistan; migratory birds from Central Asia.
+- **Transboundary rivers** link nations environmentally: Nile (11 countries), Mekong (6), Ganga-Brahmaputra (India-Bangladesh-Nepal), and Danube (Europe). Dams, pollution, and flow alteration cross borders.
+- **Shared airsheds** mean Indo-Gangetic smog affects India, Pakistan, Nepal, and Bangladesh, while European pollution crosses EU borders. Geography makes pollution **international by default**.
+- **Ocean currents connect continents**: the Gulf Stream warms Europe, and ENSO (El Niño) in the Pacific affects Indian monsoon and global weather. Such teleconnections are environmental geography.
+- **Saharan dust transport** carries African dust to the Amazon (fertilizing with phosphorus) and the Caribbean, forming an intercontinental nutrient link.
+- **Migratory species routes** such as Central Asian Flyway and East Atlantic Flyway link protected areas across countries through bird migration. CMS (Bonn Convention) governs these routes.
+- **Amazon fires and global climate**: deforestation in Brazil affects global CO₂, showing that the environmental geography of the carbon cycle is borderless.
+- **Plastic gyres**: five major ocean gyres accumulate plastic where no single nation owns the hotspot. UN Plastics Treaty negotiations address this global commons issue.
+- **Antarctica** is governed by the Antarctic Treaty for environmental protection of the polar ice biome as global commons. The ozone hole was historically tied to global ODS emissions.
+- **Trade and environment**: palm oil (SE Asia), soy (Brazil), and minerals (Congo) show how global supply chains create **embedded environmental footprints** in consumer countries.
+- **India's international links** include monsoon tied to Indian Ocean and Pacific ENSO, Himalayan rivers shared with Nepal, China, and Bangladesh, transboundary air pollution with Pakistan, and migratory birds from Central Asia.
 
 > **Exam note:** Environmental geography questions often test **location + process + cross-border link** together. Trap: treating pollution as purely local — IGP smog is **transboundary airshed** issue.
 
@@ -515,10 +515,10 @@ KEY TRAPS:
 
 ### Exam Facts (raata)
 
-- **Transboundary** = crosses political borders — rivers, air, species, ocean currents
+- **Transboundary** means crossing political borders through rivers, air, species, or ocean currents.
 - **Ganga-Brahmaputra-Meghna basin**: shared by India, Bangladesh, Nepal, Bhutan, China (Tibet tributaries)
 - **ENSO** (El Niño/La Niña): Pacific phenomenon with **Indian monsoon** teleconnection
-- **Sahara dust → Amazon**: intercontinental nutrient transfer
+- **Sahara dust reaching the Amazon** demonstrates intercontinental nutrient transfer.
 - **Antarctic Treaty 1959**: demilitarisation + environmental protection of polar region
 - **CMS (Bonn Convention)**: migratory species across national boundaries
 

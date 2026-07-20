@@ -99,15 +99,15 @@ UP FOCUS:
 ### Vedic Period — How It Works
 
 - The **Vedic Period** bridges Bronze/Iron transition and formation of classical Indian civilization foundations.
-- **Chronology debated** — Aryan migration/Indigenous debate aside, archaeological markers: **PGW** (Painted Grey Ware) linked to Later Vedic ~1000 BCE.
-- **Geographic shift**: Rigvedic = **northwest** (Punjab, Afghanistan fringe); Later Vedic = **east** (Ganga-Yamuna doab, UP, Bihar).
+- **Chronology debated**. Aryan migration/Indigenous debate aside, archaeological markers: **PGW** (Painted Grey Ware) linked to Later Vedic ~1000 BCE.
+- **Geographic shift:** This refers to Rigvedic = **northwest** (Punjab, Afghanistan fringe). Later Vedic = **east** (Ganga-Yamuna doab, UP, Bihar).
 - **Source hierarchy**: **Vedas** (primary) + archaeological (iron tools, PGW pottery, settlement patterns).
-- **Early Vedic** society was **tribal and pastoral** — no large cities, no empires.
-- **Later Vedic** saw **janapadas** (territorial states) emerge — precursor to Mahajanapadas (Topic 5).
-- **Iron technology** appears in Later Vedic — **iron plough** enabled Gangetic forest clearance and agriculture.
-- **Language**: Vedic Sanskrit — older than Classical Sanskrit of Panini.
-- **Religious evolution**: polytheistic hymns (Rigveda) → ritual complexity (Brahmanas) → philosophy (Upanishads).
-- **End of Vedic Period** ~600 BCE — rise of Mahajanapadas, Buddhism, Jainism (Topic 4–5).
+- **Early Vedic** society was **tribal and pastoral**. No large cities, no empires.
+- **Later Vedic** saw **janapadas** (territorial states) emerge. Precursor to Mahajanapadas (Topic 5).
+- **Iron technology** appears in Later Vedic. **Iron plough** enabled Gangetic forest clearance and agriculture.
+- **Language**: Vedic Sanskrit. Older than Classical Sanskrit of Panini.
+- **Religious evolution**: polytheistic hymns (Rigveda) then ritual complexity (Brahmanas) then philosophy (Upanishads).
+- **End of Vedic Period** ~600 BCE. Rise of Mahajanapadas, Buddhism, Jainism (Topic 4–5).
 
 > **Exam note:** Rigvedic = northwest pastoral; Later Vedic = Gangetic agrarian. Trap: "Vedic period = only UP" — Rigvedic core was Punjab.
 
@@ -144,26 +144,26 @@ UP FOCUS:
 
 ### Rigvedic Society — How It Works
 
-- **Pastoral-nomadic** economy — cattle rearing primary; agriculture secondary and limited.
-- **Tribal organisation** — **jana** (tribe) and **vis** (clan); loyalty to clan over territory.
-- **Rajan** (chief) — **not hereditary king** always; chosen with assembly consent; military leader.
-- **Women's status** — relatively higher than Later Vedic: **Apala, Lopamudra, Visvavara** composed hymns; attended **sabha**.
-- **Gavishti** — cattle raids/wars between tribes; primary wealth acquisition method.
-- **Cattle = wealth** — **go** (cow) central; no private land ownership concept strong.
-- **Varna** — four-fold division **mentioned** in Purusha Sukta (Rigveda X.90) but **not rigid**; occupation flexible.
+- **Pastoral-nomadic** economy. Cattle rearing primary. Agriculture secondary and limited.
+- **Tribal organisation:** **jana** (tribe) and **vis** (clan). loyalty to clan over territory.
+- **Rajan** (chief). **Not hereditary king** always. Chosen with assembly consent. Military leader.
+- **Women's status:** relatively higher than Later Vedic: **Apala, Lopamudra, Visvavara** composed hymns. attended **sabha**.
+- **Gavishti:** cattle raids/wars between tribes. primary wealth acquisition method.
+- **Cattle = wealth:** **go** (cow) central. no private land ownership concept strong.
+- **Varna:** four-fold division **mentioned** in Purusha Sukta (Rigveda X. 90) but **not rigid**. occupation flexible.
 - **No child marriage, sati, or purdah** in Rigvedic society evidence.
-- **Religion** — nature worship: **Indra** (war/rain), **Agni** (fire), **Varuna** (cosmic order), **Soma** (ritual drink).
-- **Houses** — temporary/straw and wood; no stone cities; **rathas** (chariots) for mobility.
+- **Religion**. Nature worship: **Indra** (war/rain), **Agni** (fire), **Varuna** (cosmic order), **Soma** (ritual drink).
+- **Houses:** temporary/straw and wood. no stone cities. **rathas** (chariots) for mobility.
 
 > **Exam note:** UPPCS 2020 Q21 — Rigvedic = **Pastoral** (NOT agrarian). Trap: "Rigvedic society was fully agrarian" — that's Later Vedic.
 
 ### Exam Facts (raata)
 
 - Pastoral-nomadic economy
-- Cattle = primary wealth; gavishti = cattle raid
+- Cattle = primary wealth. gavishti = cattle raid.
 - Tribal jana/vis organisation
 - Rajan = chief (assembly-elected tendency)
-- Women composed hymns; attended sabha
+- Women composed hymns. attended sabha.
 - Varna mentioned but not rigid
 - Nature gods: Indra, Agni, Varuna
 - No iron, no coins, no cities
@@ -189,17 +189,17 @@ UP FOCUS:
 
 ### Later Vedic Society — How It Works
 
-- **Agrarian-settled** society — iron plough agriculture; surplus enables specialization.
-- **Geographic expansion** — from Punjab into **Ganga-Yamuna doab (UP)**, Bihar, Bengal fringe.
-- **Janapadas** — territorial kingdoms replace nomadic tribes; capital cities emerge.
-- **Four varnas rigidified** — **Brahmana** (priests), **Kshatriya** (warriors/rulers), **Vaishya** (producers/traders), **Shudra** (servile labour).
-- **Land ownership** — **kings grant land** to priests (brahmadeya); landlordism begins ← linked to **landlordism** in 2020 Q21 for medieval but Later Vedic starts agrarian landlord trends.
+- **Agrarian-settled** society. Iron plough agriculture. Surplus enables specialization.
+- **Geographic expansion**. From Punjab into **Ganga-Yamuna doab (UP)**, Bihar, Bengal fringe.
+- **Janapadas:** territorial kingdoms replace nomadic tribes. capital cities emerge.
+- **Four varnas rigidified**. **Brahmana** (priests), **Kshatriya** (warriors/rulers), **Vaishya** (producers/traders), **Shudra** (servile labour).
+- **Land ownership:** **kings grant land** to priests (brahmadeya). Landlordism begins. This is linked to **landlordism** in 2020 Q21 for medieval but Later Vedic starts agrarian landlord trends.
 - **2020 Q21**: Later Vedic Society = **Agrarian** (option D: B gets 3 = Agrarian).
-- **Women's status declined** — exclusion from Upanayana; no public political role; child marriage emerging.
-- **Ashramas** — four life stages (Brahmacharya, Grihastha, Vanaprastha, Sannyasa) systematized.
-- **Gotra system** — exogamous lineage rules for marriage; Brahmanical control strengthened.
-- **Shudras** — denied Upanayana (sacred thread); ritual exclusion hardened.
-- **Philosophical shift** — **Upanishads** question ritual; Brahman/Atman concepts develop.
+- **Women's status declined:** exclusion from Upanayana. no public political role. child marriage emerging.
+- **Ashramas**. Four life stages (Brahmacharya, Grihastha, Vanaprastha, Sannyasa) systematized.
+- **Gotra system:** exogamous lineage rules for marriage. Brahmanical control strengthened.
+- **Shudras:** denied Upanayana (sacred thread). ritual exclusion hardened.
+- **Philosophical shift:** **Upanishads** question ritual. Brahman/Atman concepts develop.
 
 > **Exam note:** Later Vedic = **Agrarian** (2020 Q21). Trap: "Women had equal status throughout Vedic period" — decline is in Later Vedic.
 
@@ -236,16 +236,16 @@ UP FOCUS:
 
 ### Vedic Administration — How It Works
 
-- **Rajan** (king) — Later Vedic: becomes **hereditary** and more powerful; claims divine origin.
-- **Purohita** (chief priest) — **Mantri** role; advises king; consecration rituals; enormous influence (Vasishtha, Visvamitra legends).
-- **Senani** — army commander; leads wars and gavishti-style campaigns.
-- **Gramani** — village headman; local administration link.
-- **Bhagadugha** — **revenue collector**; collected king's **share (bhaga)** of produce and booty ← **UPPCS 2023 Q26 answer D**.
-- **Sangrahitri** — treasurer; maintained royal treasury.
-- **Akshavapa** — accountant/gambler supervisor (dice games revenue in some texts).
-- **Spies** — mentioned in later texts; intelligence gathering.
-- **Tribal assemblies declined** — king's power grew at expense of sabha/samiti in Later Vedic.
-- **No elaborate bureaucracy** — unlike Mauryan administration (Topic 7); family-clan based officers.
+- **Rajan** (king). Later Vedic: becomes **hereditary** and more powerful. Claims divine origin.
+- **Purohita** (chief priest). **Mantri** role. Advises king. Consecration rituals. Enormous influence (Vasishtha, Visvamitra legends).
+- **Senani:** army commander. leads wars and gavishti-style campaigns.
+- **Gramani:** village headman. local administration link.
+- **Bhagadugha:** **revenue collector**. Collected king's **share (bhaga)** of produce and booty. the **UPPCS 2023 Q26 answer D**.
+- **Sangrahitri:** treasurer. maintained royal treasury.
+- **Akshavapa**. Accountant/gambler supervisor (dice games revenue in some texts).
+- **Spies:** mentioned in later texts. intelligence gathering.
+- **Tribal assemblies declined**. King's power grew at expense of sabha/samiti in Later Vedic.
+- **No elaborate bureaucracy:** unlike Mauryan administration (Topic 7). family-clan based officers.
 - **Taxes**: **bali** (tribute), **bhaga** (share of produce), **shulka** (customs toll later).
 
 > **Exam note:** UPPCS 2023 Q26 — **Bhagadugha = Revenue Collector** (D). Trap: "Forest officer" or "Messenger" — wrong options.
@@ -256,9 +256,9 @@ UP FOCUS:
 - Purohita = priest-cum-minister
 - Senani = army chief
 - Gramani = village head
-- Bhagadugha = revenue collector ← 2023 Q26
+- Bhagadugha = revenue collector. This is 2023 Q26.
 - Sangrahitri = treasurer
-- Bali = tribute; bhaga = royal share
+- Bali = tribute. bhaga = royal share.
 - Assemblies weakened in Later Vedic
 - Hereditary kingship later
 
@@ -285,16 +285,16 @@ UP FOCUS:
 
 ### Rigvedic Economy — How It Works
 
-- **Pastoral economy** — **cattle** primary wealth; measured in **cows** (gavishti = cattle raid as economic warfare).
-- **Limited agriculture** — barley cultivation known but secondary; no iron plough yet.
-- **Barter system** — direct exchange of goods; **nishka** (gold necklace) as **value standard**, not coin.
-- **No coins** — metal currency absent; cow and gold ornaments as wealth stores.
-- **Craft production** — copper/bronze tools; pottery; leatherwork; chariot-making (ratha).
-- **Trade limited** — local and inter-tribal; no long-distance maritime trade like Harappans.
-- **Soma trade** — ritual drink (possibly ephedra/haoma plant) imported from mountains.
-- **No private property in land** — communal/tribal pasture land dominant.
-- **Spoils of war** — cattle, women, goods from defeated tribes redistributed.
-- **Priests rewarded** — dakshina (gifts) from yajamana (sacrifice performer) after rituals.
+- **Pastoral economy:** **cattle** primary wealth. measured in **cows** (gavishti = cattle raid as economic warfare).
+- **Limited agriculture:** barley cultivation known but secondary. no iron plough yet.
+- **Barter system:** direct exchange of goods. **nishka** (gold necklace) as **value standard**, not coin.
+- **No coins:** metal currency absent. cow and gold ornaments as wealth stores.
+- **Craft production:** copper/bronze tools. pottery. leatherwork. chariot-making (ratha).
+- **Trade limited:** local and inter-tribal. no long-distance maritime trade like Harappans.
+- **Soma trade**. Ritual drink (possibly ephedra/haoma plant) imported from mountains.
+- **No private property in land**. Communal/tribal pasture land dominant.
+- **Spoils of war**. Cattle, women, goods from defeated tribes redistributed.
+- **Priests rewarded**. Dakshina (gifts) from yajamana (sacrifice performer) after rituals.
 
 > **Exam note:** Rigvedic = pastoral/barter; no coins. Trap: "nishka was a gold coin" — it was ornament used as value measure.
 
@@ -331,16 +331,16 @@ UP FOCUS:
 
 ### Political Institutions — How It Works
 
-- **Rigvedic polity** — **tribal democracy elements** — king checked by assemblies.
-- **Rajan** — military and ritual leader; not absolute; election/selection by gana (tribe).
-- **Three assemblies** — **Sabha, Samiti, Vidhata** — limited royal power (see §3.7–3.9).
-- **Vis** (clan) and **jana** (tribe) — political units above family; vis elected leaders.
-- **Later Vedic shift** — **hereditary monarchy** strengthens; **janapada** replaces jana.
-- **Royal rituals** — **Ashvamedha** (horse sacrifice), **Rajasuya** (royal consecration) — legitimize king's territorial authority.
-- **Gana-sangha** tradition — some republican tribes (later period); sabha as oligarchy.
-- **No standing army** — tribal militia (sena) under senani; citizen warriors.
-- **Law** — custom-based; **dharma** concept emerging; no written legal codes yet.
-- **Succession** — primogeniture not fixed in Rigvedic; later becomes hereditary.
+- **Rigvedic polity**. **Tribal democracy elements**. King checked by assemblies.
+- **Rajan:** military and ritual leader. not absolute. election/selection by gana (tribe).
+- **Three assemblies**. **Sabha, Samiti, Vidhata**. Limited royal power (see §3.7–3.9).
+- **Vis** (clan) and **jana** (tribe). Political units above family. Vis elected leaders.
+- **Later Vedic shift:** **hereditary monarchy** strengthens. **janapada** replaces jana.
+- **Royal rituals**. **Ashvamedha** (horse sacrifice), **Rajasuya** (royal consecration). Legitimize king's territorial authority.
+- **Gana-sangha** tradition. Some republican tribes (later period). Sabha as oligarchy.
+- **No standing army:** tribal militia (sena) under senani. citizen warriors.
+- **Law:** custom-based. **dharma** concept emerging. no written legal codes yet.
+- **Succession:** primogeniture not fixed in Rigvedic. later becomes hereditary.
 
 > **Exam note:** Rigvedic = assemblies strong; Later Vedic = king strong. Know all three assemblies separately.
 
@@ -377,16 +377,16 @@ UP FOCUS:
 
 ### Sabha — How It Works
 
-- **Sabha** — one of three major **Vedic assemblies**; assembly of **elders, nobles, and select members**.
-- In **Rigvedic period** — women could participate (e.g., **Sabha vadhu** — woman skilled in assembly).
+- **Sabha:** one of three major **Vedic assemblies**. assembly of **elders, nobles, and select members**.
+- In **Rigvedic period**. Women could participate (e.g., **Sabha vadhu**. Woman skilled in assembly).
 - Functions: **deliberation on tribal affairs**, dispute resolution, advising the Rajan.
-- **Later Vedic period** — Sabha became **exclusive** — restricted to elite; women excluded.
-- Distinguished from **Samiti** — Sabha = smaller, elite; Samiti = broader popular assembly.
-- **Gram Sabha** concept in modern India is **not** the same as Vedic Sabha — trap in polity questions.
-- Some texts associate Sabha with **gambling place** in later degenerated form — social criticism in later literature.
+- **Later Vedic period:** Sabha became **exclusive**. Restricted to elite. Women excluded.
+- Distinguished from **Samiti**. Sabha = smaller, elite. Samiti = broader popular assembly.
+- **Gram Sabha** concept in modern India is **not** the same as Vedic Sabha. Trap in polity questions.
+- Some texts associate Sabha with **gambling place** in later degenerated form. Social criticism in later literature.
 - **Buddhist literature** later references Sabha as guild/corporation (different context).
 - Sabha's **decline** paralleled rise of absolute monarchy in Later Vedic and post-Vedic periods.
-- Archaeological evidence limited — institution known primarily from Vedic texts.
+- Archaeological evidence limited. Institution known primarily from Vedic texts.
 
 > **Exam note:** Vedic Sabha ≠ Lok Sabha/Gram Sabha (modern). Rigvedic Sabha allowed women; Later Vedic excluded them.
 
@@ -396,7 +396,7 @@ UP FOCUS:
 - Rigvedic: women could participate
 - Later Vedic: exclusive to elite males
 - Smaller than Samiti
-- Advised Rajan; dispute resolution
+- Advised Rajan. dispute resolution.
 - Declined in Later Vedic period
 - Text-based evidence primarily
 - NOT same as modern Gram Sabha
@@ -423,16 +423,16 @@ UP FOCUS:
 
 ### Samiti — How It Works
 
-- **Samiti** — **general assembly of the tribe** (jana); broader than Sabha; popular participation.
-- **Elected/selected Rajan** — Samiti had role in **choosing the chief/king** in early period.
-- **Military decisions** — Samiti approval sought for wars and major tribal moves.
-- **People's voice** — represented common freemen of the tribe (vis members).
-- **Women** — limited or no role in Samiti (unlike early Sabha in some readings).
-- **Decline** — Later Vedic kings bypassed Samiti; hereditary succession reduced its electoral role.
-- **Paired with Sabha** — Samiti = popular; Sabha = elite; together checked royal power.
-- **Vidhata** sometimes overlapped in function — all three formed balance of power.
-- **Republican tradition** — later gana-sanghas (Licchavi, Vajji) may echo Samiti tradition.
-- **No permanent venue** — convened as needed; oral deliberation.
+- **Samiti:** **general assembly of the tribe** (jana). broader than Sabha. popular participation.
+- **Elected/selected Rajan**. Samiti had role in **choosing the chief/king** in early period.
+- **Military decisions**. Samiti approval sought for wars and major tribal moves.
+- **People's voice**. Represented common freemen of the tribe (vis members).
+- **Women**. Limited or no role in Samiti (unlike early Sabha in some readings).
+- **Decline:** Later Vedic kings bypassed Samiti. hereditary succession reduced its electoral role.
+- **Paired with Sabha:** Samiti = popular. Sabha = elite. together checked royal power.
+- **Vidhata** sometimes overlapped in function. All three formed balance of power.
+- **Republican tradition**. Later gana-sanghas (Licchavi, Vajji) may echo Samiti tradition.
+- **No permanent venue:** convened as needed. oral deliberation.
 
 > **Exam note:** Samiti = **general tribal assembly** (broader than Sabha). Trap: "Samiti = Rajya Sabha" — completely different (modern polity trap).
 
@@ -469,16 +469,16 @@ UP FOCUS:
 
 ### Vidhata — How It Works
 
-- **Vidhata** — **deliberative assembly** among the three Vedic political institutions.
-- Mentioned in **Rigveda** — appears to be the **earliest or most inclusive** assembly in some hymns.
+- **Vidhata**. **Deliberative assembly** among the three Vedic political institutions.
+- Mentioned in **Rigveda**. Appears to be the **earliest or most inclusive** assembly in some hymns.
 - Functions: **distribution of goods**, **economic matters**, **charitable/feasting activities**, **military deliberation**.
-- **Women participated** in Vidhata — sang hymns, attended gatherings (Rigvedic evidence).
-- **Social gathering** aspect — feasting, distribution of soma and wealth after raids/yajnas.
-- **Declined earliest** — among three assemblies, Vidhata disappeared from Later Vedic texts first.
-- **Less discussed** in exams than Sabha/Samiti — but syllabus lists separately; know distinct role.
-- **Not a court of law** — deliberative and distributive, not judicial (Sabha handled disputes more).
-- **Overlapping functions** with Sabha/Samiti — precise boundaries debated by scholars.
-- **Democratic ethos** — collective decision-making before monarchical centralization.
+- **Women participated** in Vidhata. Sang hymns, attended gatherings (Rigvedic evidence).
+- **Social gathering** aspect. Feasting, distribution of soma and wealth after raids/yajnas.
+- **Declined earliest**. Among three assemblies, Vidhata disappeared from Later Vedic texts first.
+- **Less discussed** in exams than Sabha/Samiti. But syllabus lists separately. Know distinct role.
+- **Not a court of law**. Deliberative and distributive, not judicial (Sabha handled disputes more).
+- **Overlapping functions** with Sabha/Samiti. Precise boundaries debated by scholars.
+- **Democratic ethos**. Collective decision-making before monarchical centralization.
 
 > **Exam note:** Vidhata = economic + distributive assembly; women attended. Trap: "Vidhata = same as Sabha" — different functions.
 
@@ -523,16 +523,16 @@ UP FOCUS:
 
 ### Vedic Literature — How It Works
 
-- **Vedic literature** transmitted **orally** for centuries — **Guru-shishya parampara** (oral chain).
-- **Shruti** corpus — Vedas + attached texts; considered divinely revealed.
-- **Four-layer development** per Veda: **Samhita → Brahmana → Aranyaka → Upanishad**.
-- **Oral preservation** — precise pronunciation mattered; **Vedangas** developed to protect text.
-- **Chronology** — Rigveda oldest (~1500 BCE); Atharvaveda and later texts progressively younger.
-- **Language shift** — Vedic Sanskrit (archaic) → Classical Sanskrit (Panini, ~500 BCE).
-- **Commentarial tradition** — Sayana's Vedic commentary (14th century CE) — medieval, not Vedic period.
-- **Manuscript writing** — texts written down much later; oral priority for ritual accuracy.
-- **Regional recension** — different Shakhas (branches) of each Veda across India.
-- **UP connection** — Later Vedic texts composed in Kuru-Panchala, Kosala, Videha (eastern Gangetic).
+- **Vedic literature** transmitted **orally** for centuries. **Guru-shishya parampara** (oral chain).
+- **Shruti** corpus. Vedas + attached texts. Considered divinely revealed.
+- **Four-layer development** per Veda: **Samhita then Brahmana then Aranyaka then Upanishad**.
+- **Oral preservation:** precise pronunciation mattered. **Vedangas** developed to protect text.
+- **Chronology:** Rigveda oldest (~1500 BCE). Atharvaveda and later texts progressively younger.
+- **Language shift**. Vedic Sanskrit (archaic) then Classical Sanskrit (Panini, ~500 BCE).
+- **Commentarial tradition**. Sayana's Vedic commentary (14th century CE). Medieval, not Vedic period.
+- **Manuscript writing:** texts written down much later. oral priority for ritual accuracy.
+- **Regional recension**. Different Shakhas (branches) of each Veda across India.
+- **UP connection**. Later Vedic texts composed in Kuru-Panchala, Kosala, Videha (eastern Gangetic).
 
 > **Exam note:** Shruti = Vedas + Brahmanas + Aranyakas + Upanishads. Trap: "Vedas were written at time of composition" — oral transmission first.
 
@@ -578,16 +578,16 @@ UP FOCUS:
 
 ### Four Vedas — How It Works
 
-- **Rigveda** — **oldest** Indian text; **1028 hymns** in **10 mandalas**; Mandala II–VII = family books (oldest core).
-- **Samaveda** — **"Veda of melodies"** — verses adapted from Rigveda for **chanting** at sacrifices.
-- **Yajurveda** — **"Veda of yajus (sacrificial formulas)"** — priest's handbook for rituals.
-- **Yajurveda split**: **Shukla (White)** = **Vajasaneyi Samhita** (Madhyandina, Kanva) ← **UPPCS 2018 Q13 answer A (Vajasanami = typo)**.
-- **Krishna (Black) Yajurveda** = **Taittiriya, Kathaka, Maitrayani** Samhitas — mantras and Brahmana prose mixed.
-- **Atharvaveda** — **spells, healing, domestic rituals**; references to iron; more popular religion.
-- **Gayatri Mantra** — from Rigveda III.62.10; addressed to solar deity Savitar.
-- **Purusha Sukta** — Rigveda X.90; varna creation myth.
-- **Each Veda** has its own **Samhita** as core text; Brahmana, Aranyaka, and Upanishad layers attach per Veda.
-- **Veda Vyasa** — traditional compiler (mythological); classified Vedas into four.
+- **Rigveda:** **oldest** Indian text. **1028 hymns** in **10 mandalas**. Mandala II–VII = family books (oldest core).
+- **Samaveda**. **"Veda of melodies"**. Verses adapted from Rigveda for **chanting** at sacrifices.
+- **Yajurveda**. **"Veda of yajus (sacrificial formulas)"**. Priest's handbook for rituals.
+- **Yajurveda split**: **Shukla (White)** = **Vajasaneyi Samhita** (Madhyandina, Kanva). the **UPPCS 2018 Q13 answer A (Vajasanami = typo)**.
+- **Krishna (Black) Yajurveda** = **Taittiriya, Kathaka, Maitrayani** Samhitas. Mantras and Brahmana prose mixed.
+- **Atharvaveda:** **spells, healing, domestic rituals**. references to iron. more popular religion.
+- **Gayatri Mantra:** from Rigveda III. 62. 10. addressed to solar deity Savitar.
+- **Purusha Sukta:** Rigveda X. 90. varna creation myth.
+- **Each Veda** has its own **Samhita** as core text. Brahmana, Aranyaka, and Upanishad layers attach per Veda.
+- **Veda Vyasa:** traditional compiler (mythological). classified Vedas into four.
 
 > **Exam note:** UPPCS 2018 Q13 — Shukla Yajurveda = **Vajasaneyi** (A). Trap: Taittiriya/Maitrayani = **Krishna** (Black) Yajurveda.
 
@@ -625,16 +625,16 @@ UP FOCUS:
 
 ### Brahmanas — How It Works
 
-- **Brahmanas** — **prose texts** explaining **Vedic ritual** (yajna) procedures and symbolism.
-- Attached to each Veda's Samhita — **Aitareya & Kausitaki** (Rigveda); **Shatapatha** (Yajurveda); **Tandya & Jaiminiya** (Samaveda); **Gopatha** (Atharvaveda).
-- **Shatapatha Brahmana** — largest; **100 chapters**; white Yajurveda ritual; philosophical passages too.
-- **Aitareya Brahmana** — Rigvedic rituals; royal consecration (Rajasuya) details.
-- **Language** — later Vedic Sanskrit prose; more complex than Samhita hymns.
-- **Priests' manual** — hotri, adhvaryu, udgatri, brahman priest roles detailed.
-- **Mythological stories** — embed narratives explaining ritual origins (why a ritual is done).
-- **Social norms** — varna duties, marriage rules codified in Brahmana prose.
-- **Bridge** — between pure ritual Samhitas and philosophical Aranyakas/Upanishads.
-- **Composed** — Later Vedic period (~1000–800 BCE) primarily in Brahmin centres.
+- **Brahmanas**. **Prose texts** explaining **Vedic ritual** (yajna) procedures and symbolism.
+- Attached to each Veda's Samhita. **Aitareya & Kausitaki** (Rigveda). **Shatapatha** (Yajurveda). **Tandya & Jaiminiya** (Samaveda). **Gopatha** (Atharvaveda).
+- **Shatapatha Brahmana:** largest. **100 chapters**. white Yajurveda ritual. philosophical passages too.
+- **Aitareya Brahmana:** Rigvedic rituals. royal consecration (Rajasuya) details.
+- **Language:** later Vedic Sanskrit prose. more complex than Samhita hymns.
+- **Priests' manual**. Hotri, adhvaryu, udgatri, brahman priest roles detailed.
+- **Mythological stories**. Embed narratives explaining ritual origins (why a ritual is done).
+- **Social norms**. Varna duties, marriage rules codified in Brahmana prose.
+- **Bridge**. Between pure ritual Samhitas and philosophical Aranyakas/Upanishads.
+- **Composed**. Later Vedic period (~1000–800 BCE) primarily in Brahmin centres.
 
 > **Exam note:** Brahmanas = **prose ritual manuals**. Trap: "Brahmanas are hymns" — hymns = Samhitas.
 
@@ -683,16 +683,16 @@ UP FOCUS:
 
 ### Aranyakas — How It Works
 
-- **Aranyakas** — **"forest texts"** — transitional between Brahmanas and Upanishads.
-- Composed for **hermits in forests** (vanaprastha stage) — rituals simplified for solitary practice.
-- **Less emphasis on external sacrifice** — more on **symbolic and meditative** ritual interpretation.
-- **Aitareya Aranyaka** (Rigveda); **Taittiriya Aranyaka** (Yajurveda); **Brihadaranyaka** (Yajurveda) — last one merges into Upanishad.
-- **Philosophical transition** — questions about ritual efficacy lead to Upanishadic speculation.
-- **Secret teachings** — esoteric; not for village public; forest-dwelling rishis.
-- **Language** — late Vedic prose; increasingly philosophical.
-- **Not all Vedas** have separate Aranyakas — Rigveda and Yajurveda main sources.
-- **Upanishads sometimes embedded** — Brihadaranyaka Upanishad is part of Shatapatha Brahmana/Aranyaka corpus.
-- **Mystical interpretation** — fire altar symbolism, cosmic sacrifice (Purusha) internalized.
+- **Aranyakas**. **"forest texts"**. Transitional between Brahmanas and Upanishads.
+- Composed for **hermits in forests** (vanaprastha stage). Rituals simplified for solitary practice.
+- **Less emphasis on external sacrifice**. More on **symbolic and meditative** ritual interpretation.
+- **Aitareya Aranyaka** (Rigveda). **Taittiriya Aranyaka** (Yajurveda). **Brihadaranyaka** (Yajurveda). Last one merges into Upanishad.
+- **Philosophical transition**. Questions about ritual efficacy lead to Upanishadic speculation.
+- **Secret teachings:** esoteric. not for village public. forest-dwelling rishis.
+- **Language:** late Vedic prose. increasingly philosophical.
+- **Not all Vedas** have separate Aranyakas. Rigveda and Yajurveda main sources.
+- **Upanishads sometimes embedded**. Brihadaranyaka Upanishad is part of Shatapatha Brahmana/Aranyaka corpus.
+- **Mystical interpretation**. Fire altar symbolism, cosmic sacrifice (Purusha) internalized.
 
 > **Exam note:** Aranyaka = **forest texts**, bridge to Upanishads. Trap: "Aranyaka = same as Brahmana" — forest/hermit context differs.
 
@@ -729,16 +729,16 @@ UP FOCUS:
 
 ### Upanishads — How It Works
 
-- **Upanishads** — **philosophical culmination** of Vedic literature; **Vedanta** (end of Vedas) foundation.
-- **Central concepts**: **Brahman** (universal soul/reality) and **Atman** (individual soul); **"Tat Tvam Asi"** (That Thou Art).
-- **Question ritual** — shift from external yajna to **internal meditation** and knowledge (jnana).
+- **Upanishads:** **philosophical culmination** of Vedic literature. **Vedanta** (end of Vedas) foundation.
+- **Central concepts:** These include **Brahman** (universal soul/reality) and **Atman** (individual soul). **"Tat Tvam Asi"** (That Thou Art).
+- **Question ritual**. Shift from external yajna to **internal meditation** and knowledge (jnana).
 - **Principal Upanishads** (10–13 main): **Brihadaranyaka, Chandogya, Isha, Kena, Katha, Mundaka, Mandukya, Prashna, Taittiriya, Aitareya**.
-- **Chandogya Upanishad** — **Uddalaka Aruni** teaches **Shvetaketu**; "Tat Tvam Asi" dialogue.
-- **Katha Upanishad** — **Nachiketa** and Yama (death) dialogue; immortality quest.
-- **Mandukya Upanishad** — shortest; **Om (AUM)** symbolism; four states of consciousness.
-- **Composed** — Later Vedic period (~800–600 BCE); Kuru-Panchala, Videha (eastern centres).
-- **Opposition to ritualism** — some kings (Janaka of Videha) patronized philosophical debates.
-- **108 Upanishads** traditionally listed — but only **10–13 principal** ones are early/authentic.
+- **Chandogya Upanishad:** **Uddalaka Aruni** teaches **Shvetaketu**. "Tat Tvam Asi" dialogue.
+- **Katha Upanishad:** **Nachiketa** and Yama (death) dialogue. immortality quest.
+- **Mandukya Upanishad:** shortest. **Om (AUM)** symbolism. four states of consciousness.
+- **Composed:** Later Vedic period (~800–600 BCE). Kuru-Panchala, Videha (eastern centres).
+- **Opposition to ritualism**. Some kings (Janaka of Videha) patronized philosophical debates.
+- **108 Upanishads** traditionally listed. But only **10–13 principal** ones are early/authentic.
 
 > **Exam note:** "Tat Tvam Asi" = Chandogya Upanishad. Trap: "Upanishads promote elaborate external yajna" — they question/supersede ritual.
 
@@ -760,9 +760,9 @@ UP FOCUS:
 ### Exam Facts (raata)
 
 - Philosophy: Brahman + Atman
-- "Tat Tvam Asi" — Chandogya
-- Nachiketa — Katha Upanishad
-- Mandukya — Om/AUM symbolism
+- "Tat Tvam Asi". Chandogya.
+- Nachiketa. Katha Upanishad.
+- Mandukya. Om/AUM symbolism.
 - ~800–600 BCE composition
 - Vedanta foundation
 - 10–13 principal (of 108 listed)
@@ -790,9 +790,9 @@ UP FOCUS:
 
 ### Vedangas — How It Works
 
-- **Vedangas** — **six "limbs" of the Veda** — auxiliary sciences to preserve and understand Vedic texts.
-- Developed when oral tradition needed **systematic rules** — grammar, pronunciation, ritual, etymology.
-- **Six Vedangas** (complete list — no truncation):
+- **Vedangas**. **Six "limbs" of the Veda**. Auxiliary sciences to preserve and understand Vedic texts.
+- Developed when oral tradition needed **systematic rules**. Grammar, pronunciation, ritual, etymology.
+- **Six Vedangas** (complete list. No truncation):
 
 | # | Vedanga | Meaning | Author/tradition |
 |---|---------|---------|------------------|
@@ -804,11 +804,11 @@ UP FOCUS:
 | 6 | **Jyotisha** | Astronomy/astrology for ritual timing | Vedanga Jyotisha (late Vedic) |
 
 - **Kalpa** subdivided: **Shrauta** (public sacrifice), **Grihya** (domestic rituals), **Dharma** (social law).
-- **Panini** (~500 BCE) — grammarian; slightly post-Vedic but Vedanga category.
-- **Yaska's Nirukta** — explains difficult Vedic words; preserves lost meanings.
-- **Jyotisha** — Vedic calendar; solstices, equinoxes for fixing sacrifice dates.
-- **Memorization aids** — Shiksha and Chhanda ensure correct oral transmission.
-- **Sutra style** — ultra-compressed aphoristic texts for memorization.
+- **Panini** (~500 BCE). Grammarian. Slightly post-Vedic but Vedanga category.
+- **Yaska's Nirukta:** explains difficult Vedic words. preserves lost meanings.
+- **Jyotisha:** Vedic calendar. solstices, equinoxes for fixing sacrifice dates.
+- **Memorization aids**. Shiksha and Chhanda ensure correct oral transmission.
+- **Sutra style**. Ultra-compressed aphoristic texts for memorization.
 
 > **Exam note:** Six Vedangas = **Shiksha, Kalpa, Vyakarana, Nirukta, Chhanda, Jyotisha**. Trap: "Upanishad is a Vedanga" — Upanishad is Vedanta/shruti, not Vedanga.
 

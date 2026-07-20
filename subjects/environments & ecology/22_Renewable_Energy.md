@@ -152,16 +152,16 @@ KEY TRAPS:
 
 ### Solar Energy — How It Works
 
-- **Solar photovoltaic (PV)** cells use **semiconductor materials (silicon)** — photons knock electrons loose → direct current (DC) → inverter converts to AC for grid/use.
-- **Concentrated Solar Power (CSP)** uses **mirrors/lenses** to focus sunlight on a receiver — heats fluid → produces steam → drives **turbine** — can store heat for after-sunset generation (unlike simple PV).
-- **India's solar geography**: Highest insolation in **Rajasthan, Gujarat, Madhya Pradesh, Maharashtra** (western dry belt) — UP receives moderate insolation — **Bundelkhand solar parks** compensate for land availability in drought-affected districts.
-- **National Solar Mission (2010)** — pillar of **NAPCC (2008)** — initial target **20 GW by 2022**, revised to **100 GW solar** — India achieved ~100 GW solar installed capacity around **2022–2024**.
-- **500 GW non-fossil fuel capacity by 2030** — includes solar, wind, hydro, nuclear, biomass — announced at **COP26 (2021)** — solar remains largest growth component.
-- **International Solar Alliance (ISA)**: Launched **30 November 2015** at **COP21 Paris** by **India and France** — **treaty-based intergovernmental organisation** — HQ **Gurugram, Haryana** — aims to mobilise solar deployment in **121 sunshine countries** (tropical belt).
-- **UPPCS 2025 Q109 trap**: Stmt 1 "38 member countries" = **OUTDATED** (ISA signatories/countries far exceed 38 now) — Stmt 2 **OSOWOG (One Sun One World One Grid)** and **World Solar Bank** concept under ISA = largely **TRUE** → Answer **A (Only 2)**.
-- **PM-KUSUM (2019)**: **Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan** — solar pumps for farmers, grid-connected solar on barren/fallow land — reduces diesel pump use — MNRE nodal.
-- **Environmental pros/cons**: Zero operational emissions; but **land use**, **water for panel cleaning**, and **manufacturing energy** for panels are lifecycle considerations — e-waste from end-of-life panels emerging issue (Topic 9 crossover).
-- **Net metering / rooftop solar**: Households/industry feed surplus solar to grid — urban UP (Lucknow, Noida, Ghaziabad) rooftop schemes expanding.
+- **Solar photovoltaic (PV)** cells use **semiconductor materials (silicon)** where photons knock electrons loose to produce direct current (DC), which an inverter converts to AC for grid use.
+- **Concentrated Solar Power (CSP)** uses **mirrors/lenses** to focus sunlight on a receiver, heat fluid, produce steam, and drive a **turbine**. It can store heat for after-sunset generation, unlike simple PV.
+- **India's solar geography**: Highest insolation in **Rajasthan, Gujarat, Madhya Pradesh, Maharashtra** (western dry belt), UP receives moderate insolation, and **Bundelkhand solar parks** compensate for land availability in drought-affected districts.
+- The **National Solar Mission (2010)** is a pillar of **NAPCC (2008)** with an initial target of **20 GW by 2022**, later revised to **100 GW solar**. India achieved roughly 100 GW solar installed capacity around **2022–2024**.
+- The **500 GW non-fossil fuel capacity by 2030** target includes solar, wind, hydro, nuclear, and biomass, announced at **COP26 (2021)**, with solar remaining the largest growth component.
+- **International Solar Alliance (ISA)**: Launched **30 November 2015** at **COP21 Paris** by **India and France**, **Treaty-based intergovernmental organisation**, and HQ **Gurugram, Haryana**. Aims to mobilise solar deployment in **121 sunshine countries** (tropical belt).
+- **UPPCS 2025 Q109 trap**: Stmt 1 "38 member countries" = **OUTDATED** (ISA signatories/countries far exceed 38 now), Stmt 2 **OSOWOG (One Sun One World One Grid)** and **World Solar Bank** concept under ISA = largely **TRUE**. Answer **A (Only 2)**.
+- **PM-KUSUM (2019)**: **Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan**, solar pumps for farmers, grid-connected solar on barren/fallow land, and reduces diesel pump use. MNRE nodal.
+- **Environmental pros/cons**: Zero operational emissions but **land use**, **water for panel cleaning**, and **manufacturing energy** for panels are lifecycle considerations. E-waste from end-of-life panels emerging issue (Topic 9 crossover).
+- **Net metering / rooftop solar**: Households/industry feed surplus solar to grid. Urban UP (Lucknow, Noida, Ghaziabad) rooftop schemes expanding.
 
 > **Exam note:** ISA HQ = **Gurugram** (not Delhi, not Paris). Q109 — **38 members FALSE**; OSOWOG under ISA = TRUE.
 
@@ -176,7 +176,7 @@ KEY TRAPS:
 
 ### Exam Facts (raata)
 
-- Solar PV = **direct** light → electricity
+- Solar PV = **direct** light. Electricity.
 - National Solar Mission = **2010**
 - **100 GW solar** achieved ~2022
 - **500 GW non-fossil by 2030**
@@ -224,16 +224,16 @@ KEY TRAPS:
 
 ### Wind Energy — How It Works
 
-- **Wind turbines** use aerodynamic **blades** — wind turns rotor → gearbox/generator produces electricity — modern utility-scale turbines **2–3 MW** each.
-- **Wind speed cubed law**: Doubling wind speed → **8× power** — site selection is critical — coastal and open plateau areas preferred.
-- **India wind leadership**: **Tamil Nadu** historically #1 (Muppandal wind farm); **Gujarat, Karnataka, Maharashtra, Rajasthan** follow — **onshore** turbines dominate.
-- **Offshore wind potential**: **Gujarat and Tamil Nadu coasts** — National Offshore Wind Energy Policy — higher capacity factor but **higher installation cost** and marine ecosystem impact.
-- **Intermittency trap**: Wind is **variable** — not available on demand — needs **grid integration**, **hybrid projects (wind+solar)**, or **storage ( batteries, pumped hydro)** for reliability.
-- **Environmental impacts**: **Bird/bat mortality** (collision), **noise**, visual impact, land access roads — siting away from migratory flyways reduces harm.
-- **Capacity factor**: Wind farms produce **~25–35%** of nameplate capacity annually (vs **~20–25%** solar) — location-dependent.
-- **MNRE targets**: Part of **500 GW non-fossil by 2030** — wind repowering policy to replace old smaller turbines with efficient modern units.
-- **UP wind context**: UP has **limited wind potential** compared to coastal/western states — wind is less UP-specific; exam focus is **national leaders (TN, Gujarat)**.
-- **Comparison trap**: Wind = **kinetic air**; Solar = **photons** — both renewable but different technology and siting.
+- **Wind turbines** use aerodynamic **blades**, wind turns rotor, and gearbox/generator produces electricity. Modern utility-scale turbines **2–3 MW** each.
+- **Wind speed cubed law**: Doubling wind speed, **8× power**, and site selection is critical. Coastal and open plateau areas preferred.
+- **India wind leadership**: **Tamil Nadu** historically #1 (Muppandal wind farm), **Gujarat, Karnataka, Maharashtra, Rajasthan** follow, and **Onshore** turbines dominate.
+- **Offshore wind potential**: **Gujarat and Tamil Nadu coasts**, national Offshore Wind Energy Policy, and higher capacity factor but **higher installation cost** and marine ecosystem impact.
+- **Intermittency trap**: Wind is **variable**, not available on demand, and needs **grid integration**, **hybrid projects (wind+solar)**, or **storage ( batteries, pumped hydro)** for reliability.
+- **Environmental impacts**: **Bird/bat mortality** (collision), **noise**, visual impact, land access roads. Siting away from migratory flyways reduces harm.
+- **Capacity factor**: Wind farms produce **~25–35%** of nameplate capacity annually (vs **~20–25%** solar). Location-dependent.
+- **MNRE targets**: Part of **500 GW non-fossil by 2030**. Wind repowering policy to replace old smaller turbines with efficient modern units.
+- **UP wind context**: UP has **limited wind potential** compared to coastal/western states, wind is less UP-specific, and exam focus is **national leaders (TN, Gujarat)**.
+- **Comparison trap**: Wind = **kinetic air**, solar = **photons**, and both renewable but different technology and siting.
 
 > **Exam note:** Tamil Nadu = **wind energy leader** — trap: "Rajasthan leads wind" (Rajasthan leads **solar**, not wind).
 
@@ -252,7 +252,7 @@ KEY TRAPS:
 - **Tamil Nadu** = leading wind state
 - **Onshore** dominant in India
 - Offshore potential: **Gujarat, TN coast**
-- Intermittent — needs grid/storage
+- Intermittent. Needs grid/storage.
 - Muppandal (TN) = iconic wind farm
 - MNRE nodal for wind policy
 
@@ -296,16 +296,16 @@ KEY TRAPS:
 
 ### Biomass Energy — How It Works
 
-- **Biomass** captures solar energy via photosynthesis and stores it in **cellulose, lignin, starches** — releasing this energy through **direct combustion** (cookstoves, power plants) or **biochemical conversion** (biogas, ethanol).
-- **Anaerobic digestion**: Bacteria break organic matter **without oxygen** in a **digester** → produces **biogas** (energy) + **slurry** (organic fertiliser) — ideal for **cattle dung + crop waste** in rural India.
-- **Biogas composition (raata)**: **Methane (CH₄) ~50–70%** (energy carrier) + **Carbon dioxide (CO₂) ~25–45%** + traces of H₂S, moisture — **UPPCS 2025 Q28**: Options **1 (Methane) and 3 (CO₂)** → Answer **A**.
-- **Trap**: **Butane** is LPG/petroleum gas component — **not** major biogas constituent; **carbon monoxide (CO)** is incomplete combustion product — dangerous — not biogas main component.
-- **Bagasse**: Sugarcane crush residue — burned in **UP sugar mills** (Meerut, Muzaffarnagar belt) for **cogeneration** — electricity + process heat — major UP biomass source.
-- **Crop residue burning**: Stubble burning in **UP/Punjab/Haryana** wastes biomass and causes **air pollution (PM2.5)** — alternatives: **pelletisation**, **bio-CNG**, **in-situ decomposition** (PUSA decomposer).
-- **GOBAR-Dhan / Biourja**: Government push for **community biogas plants** and **bio-CNG** under **SATAT** scheme — oil marketing companies procure compressed biogas (CBG).
-- **Ethanol blending**: **E20 target by 2025** — biomass ethanol from **sugarcane, maize, agri-waste** — reduces petrol import — **PM-JIVAN** for ethanol infrastructure.
-- **Environmental balance**: Biomass is **carbon-neutral in theory** (CO₂ absorbed during plant growth ≈ released on burning) — but **stubble burning, deforestation for wood** make practice problematic.
-- **UP rural biogas**: Gaushalas, dairy clusters, and **Ganga basin villages** use family/community digesters — links **SDG 7 (energy) + SDG 2 (agriculture)**.
+- **Biomass** captures solar energy via photosynthesis and stores it in **cellulose, lignin, starches**. Releasing this energy through **direct combustion** (cookstoves, power plants) or **biochemical conversion** (biogas, ethanol).
+- **Anaerobic digestion**: Bacteria break organic matter **without oxygen** in a **digester**, produces **biogas** (energy) + **slurry** (organic fertiliser), and ideal for **cattle dung + crop waste** in rural India.
+- **Biogas composition (raata)**: **Methane (CH₄) ~50–70%** (energy carrier) + **Carbon dioxide (CO₂) ~25–45%** + traces of H₂S, moisture, **UPPCS 2025 Q28**: Options **1 (Methane) and 3 (CO₂)**, and answer **A**.
+- **Trap**: **Butane** is LPG/petroleum gas component, **Not** major biogas constituent, and **Carbon monoxide (CO)** is incomplete combustion product. Dangerous, not biogas main component.
+- **Bagasse**: Sugarcane crush residue, burned in **UP sugar mills** (Meerut, Muzaffarnagar belt) for **cogeneration**, and electricity + process heat. Major UP biomass source.
+- **Crop residue burning**: Stubble burning in **UP/Punjab/Haryana** wastes biomass and causes **air pollution (PM2.5)**. Alternatives: **pelletisation**, **bio-CNG**, **in-situ decomposition** (PUSA decomposer).
+- **GOBAR-Dhan / Biourja**: Government push for **community biogas plants** and **bio-CNG** under **SATAT** scheme. Oil marketing companies procure compressed biogas (CBG).
+- **Ethanol blending**: **E20 target by 2025**, biomass ethanol from **sugarcane, maize, agri-waste**, and reduces petrol import. **PM-JIVAN** for ethanol infrastructure.
+- **Environmental balance**: Biomass is **carbon-neutral in theory** (CO₂ absorbed during plant growth ≈ released on burning). But **stubble burning, deforestation for wood** make practice problematic.
+- **UP rural biogas**: Gaushalas, dairy clusters, and **Ganga basin villages** use family/community digesters. Links **SDG 7 (energy) + SDG 2 (agriculture)**.
 
 > **Exam note:** UPPCS 2025 Q28 — Biogas major constituents = **Methane (1) + Carbon dioxide (3)** → **A**. Butane trap = wrong.
 
@@ -321,9 +321,9 @@ KEY TRAPS:
 
 ### Exam Facts (raata)
 
-- Biogas = **CH₄ + CO₂** (major) — **2025 Q28**
+- Biogas = **CH₄ + CO₂** (major). **2025 Q28**.
 - Anaerobic digestion = **no oxygen**
-- Bagasse = **sugarcane** waste — UP mills
+- Bagasse = **sugarcane** waste. UP mills.
 - GOBAR-Dhan / SATAT = **bio-CNG** push
 - E20 ethanol blending target
 - Stubble burning = biomass **misuse** + pollution
@@ -368,15 +368,15 @@ KEY TRAPS:
 
 ### Geothermal Energy — How It Works
 
-- **Geothermal systems** drill wells into **hot underground reservoirs** — steam or hot water rises → spins **turbine** → electricity — or **direct use** for heating greenhouses, spas, district heating.
-- **Types**: **Hydrothermal** (natural steam/hot water — Iceland, New Zealand); **Enhanced Geothermal Systems (EGS)** — artificially fracture hot dry rock and circulate water — technology still developing.
-- **India's geothermal prospects**: **Puga Valley (Ladakh)** — highest potential — hot springs, high gradient; **Manikaran (Himachal Pradesh)** — religious site + energy potential; **Tattapani (Chhattisgarh)** — Narmada basin hot springs; **Cambay Basin (Gujarat)** — low-enthalpy geothermal for direct heating.
-- **Geological Survey of India (GSI)** and **MNRE** conduct resource assessment — **no large-scale geothermal power plant** operational in India at commercial utility scale (as of 2026 exam baseline) — pilot projects only.
-- **Advantages**: **Baseload renewable** — not intermittent like solar/wind — can run 24/7 if reservoir sustained.
-- **Disadvantages**: **Site-specific** (only along tectonic/plate boundaries or hot spots in India); high **exploration drilling cost**; potential **subsurface water contamination** if mismanaged.
-- **Global leaders**: **Iceland, USA (California), Indonesia, Philippines, New Zealand** — India is **early stage** — trap: "India's primary renewable is geothermal" = **FALSE**.
-- **Direct use applications**: **Manikaran hot springs** — potential heating; **Puga** explored for **10 MW pilot** — Ladakh renewable mix with solar.
-- **vs Solar trap**: Geothermal uses **Earth heat**, not sunlight — completely different resource.
+- **Geothermal systems** drill wells into **hot underground reservoirs**, steam or hot water rises, and spins **turbine**. Electricity or **direct use** for heating greenhouses, spas, district heating.
+- **Types**: **Hydrothermal** (natural steam/hot water, iceland, New Zealand), and **Enhanced Geothermal Systems (EGS)**. Artificially fracture hot dry rock and circulate water, technology still developing.
+- **India's geothermal prospects**: **Puga Valley (Ladakh)**, highest potential, and hot springs, high gradient. **Manikaran (Himachal Pradesh)**, religious site + energy potential, and **Tattapani (Chhattisgarh)**. Narmada basin hot springs, **Cambay Basin (Gujarat)**, and low-enthalpy geothermal for direct heating.
+- **Geological Survey of India (GSI)** and **MNRE** conduct resource assessment, **No large-scale geothermal power plant** operational in India at commercial utility scale (as of 2026 exam baseline). Pilot projects only.
+- **Advantages**: **Baseload renewable**, not intermittent like solar/wind, and can run 24/7 if reservoir sustained.
+- **Disadvantages**: **Site-specific** (only along tectonic/plate boundaries or hot spots in India), high **exploration drilling cost**, and potential **subsurface water contamination** if mismanaged.
+- **Global leaders**: **Iceland, USA (California), Indonesia, Philippines, and New Zealand** lead globally, while India remains at an **early stage**. The trap "India's primary renewable is geothermal" is **FALSE**.
+- **Direct use applications**: **Manikaran hot springs**, potential heating, and **Puga** explored for **10 MW pilot**. Ladakh renewable mix with solar.
+- **vs Solar trap**: Geothermal uses **Earth heat**, not sunlight. Completely different resource.
 
 > **Exam note:** India geothermal = **Puga, Manikaran, Tattapani** — NOT yet major capacity. Iceland/Indonesia = global leaders trap.
 
@@ -440,15 +440,15 @@ KEY TRAPS:
 
 ### Tidal Energy — How It Works
 
-- **Tides** occur as ocean bulges follow Moon's gravity — **semi-diurnal tides** (two high, two low per day) in most Indian coasts — **tidal range** (height difference) determines energy potential.
-- **Tidal barrage**: Dam built across **estuary/bay** — gates allow water in at high tide, release at low tide through **turbines** — similar to hydro dam but driven by tides not river flow — **La Rance (France)** classic example.
-- **Tidal stream turbines**: Underwater turbines in **fast tidal channels** — no large dam — lower ecosystem barrier impact — emerging technology.
-- **India's tidal potential**: **Gulf of Khambhat** — tidal range up to **~11 m** in some estimates — highest in India; **Gulf of Kutch** — 2nd major site; **Sundarbans delta** — environmental sensitivity limits development.
-- **Operational status trap**: India has **identified and pilot-studied** tidal sites — **no major commercial tidal power plant** at utility scale operational nationally (unlike France, South Korea, UK) — exams test **potential**, not installed capacity leadership.
-- **Advantages**: **Predictable** (tides follow lunar calendar) — unlike variable wind/solar — good for grid planning.
-- **Disadvantages**: **High capital cost**; **marine ecosystem disruption** (barrage alters estuary ecology); **siltation** in Gulf of Khambhat complicates engineering; limited suitable sites.
-- **Tidal vs wave energy trap**: **Tidal** = gravity-driven sea level change; **Wave** = wind-driven surface waves — different technologies.
-- **Gujarat nodal**: Most tidal potential on **Gujarat coast** — state renewable policy includes tidal feasibility studies.
+- **Tides** occur as ocean bulges follow Moon's gravity, **Semi-diurnal tides** (two high, two low per day) in most Indian coasts, and **Tidal range** (height difference) determines energy potential.
+- **Tidal barrage**: Dam built across **estuary/bay**, gates allow water in at high tide, release at low tide through **turbines**, and similar to hydro dam but driven by tides not river flow. **La Rance (France)** classic example.
+- **Tidal stream turbines**: Underwater turbines in **fast tidal channels**, no large dam, and lower ecosystem barrier impact. Emerging technology.
+- **India's tidal potential**: **Gulf of Khambhat**, tidal range up to **~11 m** in some estimates, and highest in India. **Gulf of Kutch**, 2nd major site, and **Sundarbans delta**. Environmental sensitivity limits development.
+- **Operational status trap**: India has **identified and pilot-studied** tidal sites, **No major commercial tidal power plant** at utility scale operational nationally (unlike France, South Korea, UK). Exams test **potential**, not installed capacity leadership.
+- **Advantages**: **Predictable** (tides follow lunar calendar), unlike variable wind/solar, and good for grid planning.
+- **Disadvantages**: **High capital cost**, **Marine ecosystem disruption** (barrage alters estuary ecology), and **Siltation** in Gulf of Khambhat complicates engineering. Limited suitable sites.
+- **Tidal vs wave energy trap**: **Tidal** = gravity-driven sea level change, **Wave** = wind-driven surface waves, and different technologies.
+- **Gujarat nodal**: Most tidal potential on **Gujarat coast**. State renewable policy includes tidal feasibility studies.
 
 > **Exam note:** Highest Indian tidal potential = **Gulf of Khambhat (Cambay)** and **Gulf of Kutch** — NOT operational mega-plants yet.
 
@@ -511,16 +511,16 @@ KEY TRAPS:
 
 ### Small Hydro Projects — How It Works
 
-- **Hydropower** uses water under **pressure/head** to spin **turbines** — efficiency high (~85–90%) — no fuel combustion — emissions only from construction/reservoir methane in tropical dams.
-- **Small hydro (≤25 MW)**: Lower environmental footprint than mega-dams — suitable for **hill streams, irrigation canals, tributaries** — MNRE provides **central financial assistance** for SHP on public sector projects.
-- **Run-of-river SHP**: Diverts part of river flow through penstock → turbine → returns water downstream — **minimal submergence** — preferred in ecologically sensitive Himalaya.
-- **Himalayan hydro potential (UPPCS 2025 Q31)**: **Statement 1** — Himalayan region has **enormous hydroelectric potential** = **TRUE** — steep gradient, perennial snow-fed rivers (Indus, Ganga, Brahmaputra systems).
-- **Q31 Statement 2 trap** — "Eastern UP and Bihar cannot utilize potential because Himalayas are in Nepal" = **FALSE** — Indian Himalaya in **Uttarakhand, Himachal, Sikkim, Arunachal** hosts major Indian projects (**Tehri, Nathpa Jhakri, Koldam, Bhakra system**); UP benefits via **Ramganga, Ganga, Yamuna** systems; transboundary rivers still allow **Indian-side** development → Answer **D (Only 1)**.
-- **Ramganga Project (2024 Q72)**: **Garhwal (Uttarakhand)** — dam on Ramganga (tributary of Ganga) — hydropower **~198 MW** — irrigation to UP plains — exam tests **project facts matching**.
-- **2024 Q72 trap pair**: Often **irrigated area** figure mismatched in options — verify: Ramganga irrigates large **western UP** tracts — capacity **198 MW** is correct pair.
-- **UP hydro context**: UP receives power/irrigation from **Uttarakhand Himalayan projects** (Ramganga, Tehri downstream benefits) — **Singrauli** is thermal not hydro — **Obra, Rihand** thermal belt trap.
-- **Environmental issues**: **Dam siltation**, **fish migration blocked**, **seismic risk** in Himalaya, **submergence/displacement** — EIA mandatory (Topic 14 brief).
-- **Pumped storage hydro**: Uses off-peak electricity to pump water uphill — releases at peak demand — **battery alternative** for grid balancing with solar/wind.
+- **Hydropower** uses water under **pressure/head** to spin **turbines**, efficiency high (~85–90%), and no fuel combustion. Emissions only from construction/reservoir methane in tropical dams.
+- **Small hydro (≤25 MW)**: Lower environmental footprint than mega-dams, suitable for **hill streams, irrigation canals, and tributaries**. MNRE provides **central financial assistance** for SHP on public sector projects.
+- **Run-of-river SHP**: Diverts part of river flow through penstock, turbine, and returns water downstream. **Minimal submergence**, preferred in ecologically sensitive Himalaya.
+- **Himalayan hydro potential (UPPCS 2025 Q31)**: **Statement 1**, himalayan region has **enormous hydroelectric potential** = **TRUE**. Steep gradient, perennial snow-fed rivers (Indus, Ganga, Brahmaputra systems).
+- **Q31 Statement 2 trap**, "Eastern UP and Bihar cannot utilize potential because Himalayas are in Nepal" = **FALSE**. Indian Himalaya in **Uttarakhand, Himachal, Sikkim, Arunachal** hosts major Indian projects (**Tehri, Nathpa Jhakri, Koldam, Bhakra system**), UP benefits via **Ramganga, Ganga, Yamuna** systems, and transboundary rivers still allow **Indian-side** development. Answer **D (Only 1)**.
+- **Ramganga Project (2024 Q72)**: **Garhwal (Uttarakhand)**, dam on Ramganga (tributary of Ganga), and hydropower **~198 MW**. Irrigation to UP plains, exam tests **project facts matching**.
+- **2024 Q72 trap pair**: Often **irrigated area** figure mismatched in options, verify: Ramganga irrigates large **western UP** tracts, and capacity **198 MW** is correct pair.
+- **UP hydro context**: UP receives power/irrigation from **Uttarakhand Himalayan projects** (Ramganga, Tehri downstream benefits), **Singrauli** is thermal not hydro. **Obra, Rihand** thermal belt trap.
+- **Environmental issues**: **Dam siltation**, **fish migration blocked**, **seismic risk** in Himalaya, **submergence/displacement**. EIA mandatory (Topic 14 brief).
+- **Pumped storage hydro**: Uses off-peak electricity to pump water uphill, releases at peak demand, and **Battery alternative** for grid balancing with solar/wind.
 
 > **Exam note:** UPPCS 2025 Q31 — Only **Statement 1** true. Nepal border does **not** eliminate Indian Himalayan hydro.
 
@@ -582,16 +582,16 @@ KEY TRAPS:
 
 ### Green Hydrogen — How It Works
 
-- **Hydrogen (H₂)** is an **energy carrier** — not primary energy source — must be produced from water, gas, or biomass — burns to water vapour — **no carbon at point of use**.
-- **Green hydrogen production**: **Electrolyser** splits **H₂O** → **H₂ + O₂** — when powered by **solar/wind/hydro**, product is **green hydrogen** — only emissions from equipment manufacturing.
-- **Grey hydrogen trap**: ~**98% of current global hydrogen** is **grey** — made from **natural gas (methane steam reforming)** — releases large **CO₂** — NOT climate-friendly despite H₂ being clean fuel.
-- **Blue hydrogen**: Grey production + **carbon capture and storage (CCS)** — lower emissions but still fossil-dependent — debated as "transition" fuel.
-- **National Green Hydrogen Mission (January 2023)**: Target **5 MMT (million metric tonnes) green hydrogen per annum by 2030** — expected to avoid **~50 MMT CO₂ emissions** — sectors: **refineries, ammonia/fertiliser (urea), steel, heavy transport, shipping**.
-- **Strategic Hydrogen Energy Programme (2018)** preceded Mission — MNRE pilot projects — Mission scales to national industrial policy.
-- **Green ammonia**: Hydrogen + nitrogen → **ammonia (NH₃)** — critical for **urea fertiliser** — India imports ammonia/gas — green route improves **Atmanirbhar** fertiliser security.
-- **Green steel**: Replace **coking coal** in direct reduced iron (DRI) with **green hydrogen** — Tata, JSW pilot projects — major decarbonisation pathway.
-- **Challenges**: **High cost** vs grey hydrogen; **energy losses** in conversion; need **massive renewable capacity** dedicated; **storage/transport** (compress, liquefy, or pipeline) infrastructure nascent.
-- **UP/industrial link**: **Refineries, fertiliser plants** along Ganga corridor — future green H₂ off-take — **Singrauli** energy hub may integrate hydrogen with renewable hybrid (policy evolving).
+- **Hydrogen (H₂)** is an **energy carrier**, not primary energy source, and must be produced from water, gas, or biomass. Burns to water vapour, **No carbon at point of use**.
+- **Green hydrogen production**: **Electrolyser** splits **H₂O**, **H₂ + O₂**, and when powered by **solar/wind/hydro**, product is **green hydrogen**. Only emissions from equipment manufacturing.
+- **Grey hydrogen trap**: ~**98% of current global hydrogen** is **grey**, made from **natural gas (methane steam reforming)**, and releases large **CO₂**. NOT climate-friendly despite H₂ being clean fuel.
+- **Blue hydrogen**: Grey production + **carbon capture and storage (CCS)**, lower emissions but still fossil-dependent, and debated as "transition" fuel.
+- **National Green Hydrogen Mission (January 2023)**: Target **5 MMT (million metric tonnes) green hydrogen per annum by 2030**, expected to avoid **~50 MMT CO₂ emissions**, and sectors: **refineries, ammonia/fertiliser (urea), steel, heavy transport, shipping**.
+- **Strategic Hydrogen Energy Programme (2018)** preceded the Mission through MNRE pilot projects before the Mission scaled to national industrial policy.
+- **Green ammonia**: Hydrogen + nitrogen, **Ammonia (NH₃)**, and critical for **urea fertiliser**. India imports ammonia/gas, green route improves **Atmanirbhar** fertiliser security.
+- **Green steel**: Replace **coking coal** in direct reduced iron (DRI) with **green hydrogen**. Tata and JSW pilot projects mark a major decarbonisation pathway.
+- **Challenges**: **High cost** vs grey hydrogen, **Energy losses** in conversion, and need **massive renewable capacity** dedicated. **Storage/transport** (compress, liquefy, or pipeline) infrastructure nascent.
+- **UP/industrial link**: **Refineries, fertiliser plants** along Ganga corridor, future green H₂ off-take. **Singrauli** energy hub may integrate hydrogen with renewable hybrid (policy evolving).
 
 > **Exam note:** **Green** = renewable electrolysis ONLY. Grey from natural gas = **NOT green**. Mission target = **5 MMT by 2030**.
 
@@ -620,7 +620,7 @@ KEY TRAPS:
 - Green H₂ = **electrolysis + renewable power**
 - Mission launched **2023**
 - Target **5 MMT/year by 2030**
-- Grey H₂ = **natural gas** — dominant today
+- Grey H₂ = **natural gas**. Dominant today.
 - Blue = grey + **CCS**
 - Uses: **ammonia, steel, refineries**
 - MNRE nodal ministry

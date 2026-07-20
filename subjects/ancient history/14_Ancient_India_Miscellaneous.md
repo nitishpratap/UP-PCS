@@ -120,15 +120,15 @@ CHARAKA SAMHITA (★★★ 2023 Q25):
 
 ### World Civilizations — How It Works
 
-- **Civilization** implies **surplus food** → **specialized crafts** → **urban centres** → **writing/administration** → **cultural institutions** (temples, law, art).
-- **Four early Old World cores** tested in exams: **Mesopotamia, Egypt, Indus Valley, China (Shang)** — all Bronze Age riverine cultures.
-- **Mesopotamia (Sumer/Akkad/Babylon)** — **Tigris-Euphrates** floodplain; **cuneiform** script on clay tablets; **ziggurat** temples; city-states like **Ur, Uruk, Babylon**.
-- **Ancient Egypt** — **Nile** monoculture; **pharaonic** divine kingship; **pyramids** and tombs; **hieroglyphic** script; strong centralized bureaucracy.
-- **Indus Valley (Harappan)** — **Indus-Ghaggar** system; **planned grid cities** (Mohenjo-daro, Harappa); **undeciphered script**; trade partner **Meluhha** in Mesopotamian records.
-- **Early China (Shang dynasty)** — **Yellow River (Huang He)**; **oracle bone** script (earliest Chinese writing); bronze **ritual vessels**; ancestor worship state ideology.
-- **New World civilizations** (Maya, Aztec, Inca) — later/separate trajectory; maize-based agriculture; no contact with Old World Bronze Age trio.
-- **Greek-Roman** civilizations emerge **later** (Iron Age/classical) — democracy/philosophy (Greece), law/engineering (Rome) — distinct exam bucket from Bronze Age.
-- **Inter-civilization contact** — Harappan **seal** in Mesopotamia; **lapis lazuli** from Afghanistan in IVC; **no evidence** Harappans copied Egyptian pyramids.
+- **Civilization** develops when **surplus food** supports **specialized crafts**, **urban centres**, **writing/administration**, and **cultural institutions** such as temples, law, and art.
+- **Four early Old World cores** tested in exams are **Mesopotamia, Egypt, Indus Valley, and China (Shang)**, and all were Bronze Age riverine cultures.
+- **Mesopotamia (Sumer/Akkad/Babylon)** developed in the **Tigris-Euphrates** floodplain. It used **cuneiform** script on clay tablets, built **ziggurat** temples, and had city-states like **Ur, Uruk, and Babylon**.
+- **Ancient Egypt** developed around **Nile** monoculture. It had **pharaonic** divine kingship, **pyramids** and tombs, **hieroglyphic** script, and a strong centralized bureaucracy.
+- **Indus Valley (Harappan)** civilization developed in the **Indus-Ghaggar** system. It had **planned grid cities** such as Mohenjo-daro and Harappa, an **undeciphered script**, and trade links with **Meluhha** in Mesopotamian records.
+- **Early China (Shang dynasty)** developed around the **Yellow River (Huang He)**. It used **oracle bone** script, the earliest Chinese writing, and produced bronze **ritual vessels** within an ancestor-worship state ideology.
+- **New World civilizations** such as the Maya, Aztec, and Inca followed a later and separate trajectory. They were maize-based and had no contact with the Old World Bronze Age trio.
+- **Greek-Roman** civilizations emerged **later** in the Iron Age and classical period, with Greece known for democracy and philosophy and Rome known for law and engineering, so they form a distinct exam bucket from the Bronze Age.
+- **Inter-civilization contact** is shown by a Harappan **seal** in Mesopotamia and **lapis lazuli** from Afghanistan in IVC contexts. There is **no evidence** that Harappans copied Egyptian pyramids.
 
 > **Exam note:** Trap — **"Harappan script is read like Egyptian hieroglyphs"** — Harappan script remains **undeciphered**. Bronze Age trio = Mesopotamia + Egypt + Harappan (standard NCERT framing).
 
@@ -187,15 +187,15 @@ CHARAKA SAMHITA (★★★ 2023 Q25):
 
 ### Civilizations and their Characteristics — How It Works
 
-- **Geography shapes civilization** — river floods deposit silt (fertile surplus) but require **coordination** (canals, dikes) → strong administration.
-- **Mesopotamian characteristics** — **poly-city state** competition; **temple economy**; **cuneiform** for accounts/law; **bronze + wheel + plough**; frequent warfare and empire cycles (Sargon, Hammurabi, Assyria, Babylon).
-- **Egyptian characteristics** — **Nile regularity** enabled **stable unified monarchy**; **divine pharaoh**; **afterlife-focused** tomb culture (pyramids, mummification); **less urban fragmentation** than Mesopotamia.
-- **Harappan characteristics** — **standardized bricks/weights**; **urban planning** (grid, covered drains); **no monumental temples/palaces** found; **peaceful image** (few weapons); **trade-oriented** economy.
-- **Chinese (Shang) characteristics** — **ancestor cult**; **bronze ritual sets** for elite burials; **oracle bone divination** tied to kingship; **chariot warfare** technology.
-- **Writing as civilization marker** — administration, religion, literature preserved; but **Indus script** unreadable limits political history reconstruction.
-- **Religion patterns** — Mesopotamia (polytheism, enuma elish); Egypt (Ra, Osiris, ma'at order); Harappan (proto-Shiva Pashupati seal?, mother goddess); Shang (Di + ancestors).
-- **Decline patterns differ** — Egypt: continuity through dynasties; Mesopotamia: conquest replacement; Harappan: **de-urbanization** (~1900 BCE) with environmental + economic causes debated.
-- **Comparative trap** — civilizations are **not identical stages** — different political forms (pharaoh vs city-state vs Harappan corporate groups).
+- **Geography shapes civilization** because river floods deposit fertile silt but require **coordination** through canals and dikes, which encourages strong administration.
+- **Mesopotamian characteristics** included **poly-city state** competition, a **temple economy**, **cuneiform** for accounts and law, **bronze + wheel + plough** technology, and frequent warfare with empire cycles under Sargon, Hammurabi, Assyria, and Babylon.
+- **Egyptian characteristics** reflected the regularity of the **Nile**, which enabled a **stable unified monarchy**. Egypt also had a **divine pharaoh**, **afterlife-focused** tomb culture with pyramids and mummification, and **less urban fragmentation** than Mesopotamia.
+- **Harappan characteristics** included **standardized bricks/weights** and **urban planning** with grids and covered drains. No monumental temples or palaces have been found, and the civilization has a **peaceful image** with few weapons and a **trade-oriented** economy.
+- **Chinese (Shang) characteristics** included an **ancestor cult**, **bronze ritual sets** for elite burials, **oracle bone divination** tied to kingship, and **chariot warfare** technology.
+- **Writing** served as a civilization marker because it preserved administration, religion, and literature. The unreadable **Indus script** still limits reconstruction of Harappan political history.
+- **Religion patterns** differed across civilizations. Mesopotamia had polytheism and the Enuma Elish, Egypt emphasized Ra, Osiris, and ma'at order, Harappan religion is linked cautiously with proto-Shiva Pashupati and mother goddess interpretations, and Shang religion centered on Di and ancestors.
+- **Decline patterns** differed across civilizations. Egypt showed dynastic continuity, Mesopotamia saw conquest replacement, and Harappan cities experienced **de-urbanization** around 1900 BCE with environmental and economic causes still debated.
+- **Comparative trap** warns that civilizations are **not identical stages** because political forms differed, including pharaohs, city-states, and Harappan corporate groups.
 
 > **Exam note:** Multi-statement questions test **one wrong characteristic** — e.g., "Harappan had ziggurats" = FALSE; "Egypt depended on Nile inundation" = TRUE.
 
@@ -218,7 +218,7 @@ CHARAKA SAMHITA (★★★ 2023 Q25):
 - Harappan = urban planning + standardization + trade
 - Shang = ancestor worship + oracle bone writing
 - Harappan decline = de-urbanization ~1900 BCE
-- Compare traits — do not assume identical political forms
+- Compare traits carefully and do not assume identical political forms.
 
 ### PYQs — Civilizations and their Characteristics
 
@@ -254,16 +254,16 @@ CHARAKA SAMHITA (★★★ 2023 Q25):
 
 ### Puranas — How It Works
 
-- **Puranas** are **post-Vedic** encyclopaedic texts — mostly compiled **Gupta period onward** (4th–10th century CE) though preserving older oral genealogies.
-- **18 Mahapuranas** grouped by deity orientation: **Brahma (1), Vishnu (6), Shiva (6), miscellaneous (5)** — exam may test counts.
-- **Historical value** — Puranas contain **royal genealogies** (Solar/Lunar dynasties, Mauryas, Andhras) but mixed with **mythology** — must cross-check with inscriptions.
-- **Vishnu Purana** — contains **Mauryan dynasty information** ← **2023 Q29 statement 1 = TRUE**.
+- **Puranas** are **post-Vedic** encyclopaedic texts that were mostly compiled from the **Gupta period onward** (4th–10th century CE) while preserving older oral genealogies.
+- **18 Mahapuranas** are grouped by deity orientation as **Brahma (1), Vishnu (6), Shiva (6), and miscellaneous (5)**, and exams may test these counts.
+- **Historical value** comes from Puranic **royal genealogies** such as Solar/Lunar dynasties, Mauryas, and Andhras, but mythology requires cross-checking with inscriptions.
+- **Vishnu Purana** contains **Mauryan dynasty information**, which makes **2023 Q29 statement 1 = TRUE**.
 - **Vayu Purana** (and Vishnu in parts) lists **Gupta genealogy** but **does NOT reliably document Gupta administrative system** ← **2023 Q29 statement 2 = FALSE trap**.
-- **Puranas as smriti** — secondary to Vedas; used for **popular Hindu practice**, temple lore, vrata-katha (fasting stories).
-- **Regional Purana names** — **Bhagavata Purana** (Krishna); **Shiva Purana**; **Markandeya Purana** (Devi Mahatmya); **Agni Purana** (weapons/architecture); **Skanda Purana** (largest, pilgrimage).
-- **2020 Q2 — Shriparvatiya** — Puranas call **Ikshvakus of Nagarjunakonda** (Andhra) **Shriparvatiya** rulers (Sriparvata = Nagarjunakonda hill).
-- **Purana Qila (Delhi)** — medieval fort name only; **NOT a Purana text** — trap unrelated to this section.
-- **Criticism by historians** — Puranic king-lists have **inflated reign lengths** and **duplicated names** — use as **supplementary** source only.
+- **Puranas as smriti** are secondary to the Vedas. They are used for **popular Hindu practice**, temple lore, and vrata-katha or fasting stories.
+- **Regional Purana names** include **Bhagavata Purana** for Krishna, **Shiva Purana**, **Markandeya Purana** for Devi Mahatmya, **Agni Purana** for weapons and architecture, and **Skanda Purana** as the largest pilgrimage-oriented Purana.
+- **2020 Q2** tests **Shriparvatiya**, the Puranic name for **Ikshvakus of Nagarjunakonda** in Andhra because Sriparvata refers to the Nagarjunakonda hill.
+- **Purana Qila (Delhi)** is only a medieval fort name. It is **NOT a Purana text**, which makes it an unrelated trap in this section.
+- **Criticism by historians** notes that Puranic king-lists have **inflated reign lengths** and **duplicated names**, so they should be used only as a **supplementary** source.
 
 > **Exam note:** **2023 Q29 answer = A (Only 1)**. Statement 2 is the classic trap — Vayu Purana does **not** provide dependable Gupta governance details.
 
@@ -308,7 +308,7 @@ CHARAKA SAMHITA (★★★ 2023 Q25):
 - Vayu Purana Gupta governance = FALSE trap
 - Shriparvatiya = Ikshvakus (2020 Q2)
 - Puranas compiled mainly Gupta era onward
-- Genealogy useful but myth-mixed — verify with inscriptions
+- Genealogy is useful but mixed with myth, so verify it with inscriptions.
 
 ### PYQs — Puranas
 
@@ -344,16 +344,16 @@ CHARAKA SAMHITA (★★★ 2023 Q25):
 
 ### Materialist Thinkers — How It Works
 
-- **Indian philosophy** is mostly **spiritual/idealist** (Vedanta, Sankhya, Buddhism) — **Charvaka/Lokayata** is the major **materialist exception**.
-- **Charvaka epistemology** — **only Pratyaksha (direct perception)** is valid **pramana** (means of knowledge); **inference (anumana) rejected** — "can't prove fire from smoke logically."
-- **Metaphysics** — **four elements** (earth, water, fire, air); **consciousness arises from matter** (body like intoxication — mind from fermented grain analogy).
-- **No soul (atman)** — self is **body-mind complex**; death = **complete annihilation**.
-- **No karma, no rebirth, no heaven/hell** — ethics derived from **worldly pleasure** (hedonism); famous quote: *"While life remains, happy be; no debt for ghee when life is gone."*
-- **Ethics** — pleasure is highest good; **intelligent hedonism** (avoid pain that outweighs pleasure) in some versions.
-- **Extinct school** — no Charvaka texts survive intact; known through **Buddhist/Jain/Mimamsa polemics** (Sarvasiddhanta Samgraha, Madhavacharya's doxographies).
-- **Ajivika contrast** — Ajivikas are **fatalists** (niyati determines all), **not materialists**; founded by **Gosala Makkhaliputta**.
-- **Buddhist/Jain critique** — Charvakas called worst sinners for undermining moral restraint; yet historically important as **rationalist critique** of ritualism.
-- **Modern relevance** — Charvaka represents **empiricist strand** in Indian thought — comparable loosely to Greek atomists (Democritus) but distinct.
+- **Indian philosophy** is mostly **spiritual/idealist**, including Vedanta, Sankhya, and Buddhism, while **Charvaka/Lokayata** is the major **materialist exception**.
+- **Charvaka epistemology** accepts **only Pratyaksha (direct perception)** as a valid **pramana** or means of knowledge. It rejects **inference (anumana)**, arguing that smoke cannot logically prove fire with certainty.
+- **Charvaka metaphysics** uses **four elements**: earth, water, fire, and air. It holds that **consciousness arises from matter**, using analogies such as mind emerging from the body like intoxication from fermented grain.
+- **Charvaka** denies a separate soul (**atman**). It treats the self as the **body-mind complex** and sees death as **complete annihilation**.
+- **Charvaka** rejects karma, rebirth, heaven, and hell. Its ethics derive from **worldly pleasure** or hedonism, expressed in the famous idea that one should live happily while life remains.
+- **Charvaka ethics** treat pleasure as the highest good. Some versions present **intelligent hedonism**, which avoids pain that outweighs pleasure.
+- **Charvaka** is an extinct school because no complete Charvaka texts survive. It is known through **Buddhist, Jain, and Mimamsa polemics** such as Sarvasiddhanta Samgraha and Madhavacharya's doxographies.
+- The **Ajivika contrast** is that Ajivikas are **fatalists** whose doctrine says niyati determines all. They are **not materialists** and were founded by **Gosala Makkhaliputta**.
+- The **Buddhist and Jain critique** called Charvakas the worst sinners for undermining moral restraint. Even so, Charvaka remains historically important as a **rationalist critique** of ritualism.
+- **Modern relevance** comes from Charvaka representing an **empiricist strand** in Indian thought, loosely comparable to Greek atomists such as Democritus but distinct from them.
 
 > **Exam note:** Trap — **"Buddhism is materialist"** = FALSE (Buddha accepted karma/rebirth). **"Charvaka accepted inference"** = FALSE (perception only).
 
@@ -375,7 +375,7 @@ CHARAKA SAMHITA (★★★ 2023 Q25):
 - Perception (pratyaksha) only valid pramana
 - No soul, karma, rebirth, heaven
 - Pleasure (hedonism) as ethics
-- Texts lost — known from opponents' accounts
+- Charvaka texts are lost, and the school is known from opponents' accounts.
 - Ajivika = fatalist, not materialist
 - Buddhism denies Vedas but accepts rebirth
 
@@ -411,16 +411,16 @@ CHARAKA SAMHITA (★★★ 2023 Q25):
 
 ### Kakatiya Dynasty — How It Works
 
-- **Kakatiyas** emerged as **feudatories of Western Chalukyas** — rose to independence in **12th century CE**.
-- **Core territory** — **Telangana** (Warangal, Karimnagar, Nalgonda) — **NOT Uttar Pradesh**; exams test **Deccan geography**.
-- **Capital** — **Warangal (Orugallu)** with **Hanamkonda** as early secondary capital ← **2019 Q90: Kakatiya ↔ Warangal (1)**.
-- **Timeline** — c. **1163–1323 CE**; peak under **Ganapatideva** and **Rudramadevi**; ended with **Prataparudra II**.
-- **Political model** — **nayankara system** (feudatory chiefs) supporting central Kakatiya authority; **fort-network** across hills.
-- **Conflict with Delhi Sultanate** — **Alauddin Khalji's** general **Malik Kafur** raided Warangal (**1310** tribute); final fall **1323** when **Ghiasuddin Tughlaq/Ulugh Khan** captured Prataparudra.
-- **2022 Q59 / 2025 Q30** — Warangal appears in **Alauddin Khalji conquest chronology** — connects to Kakatiya defeat (medieval overlap).
-- **2018 Q96 trap** — **"Warangal — Ramchandra Dev"** is **NOT correctly matched** — Warangal = **Kakatiya** rulers (Ganapatideva/Rudramadevi/Prataparudra), not Ramchandra Dev.
-- **Cultural identity** — Telugu-speaking rulers patronizing **Telugu + Sanskrit**; Shaivite temple architecture flourished.
-- **Succession** — Ganapatideva made daughter **Rudramadevi** successor (rare female monarch) — strengthened legitimacy.
+- **Kakatiyas** emerged as **feudatories of Western Chalukyas** and rose to independence in the **12th century CE**.
+- The **core territory** of the Kakatiyas was **Telangana**, including Warangal, Karimnagar, and Nalgonda. It was **NOT Uttar Pradesh**, so exams test **Deccan geography** here.
+- **Capital** was **Warangal (Orugallu)**, with **Hanamkonda** as an early secondary capital, as tested in **2019 Q90: Kakatiya and Warangal (1)**.
+- The **timeline** runs from c. **1163 to 1323 CE**. The dynasty peaked under **Ganapatideva** and **Rudramadevi** and ended with **Prataparudra II**.
+- The **political model** used the **nayankara system** of feudatory chiefs to support central Kakatiya authority. A **fort-network** across hills strengthened control.
+- In the **conflict with the Delhi Sultanate**, **Alauddin Khalji's** general **Malik Kafur** raided Warangal in **1310** and forced tribute. The final fall came in **1323**, when **Ghiasuddin Tughlaq/Ulugh Khan** captured Prataparudra.
+- **2022 Q59 / 2025 Q30** use Warangal in **Alauddin Khalji conquest chronology** and connect it to the Kakatiya defeat in a medieval overlap.
+- **2018 Q96 trap** says **"Warangal and Ramchandra Dev"** is **NOT correctly matched** because Warangal belongs to **Kakatiya** rulers such as Ganapatideva, Rudramadevi, and Prataparudra, not Ramchandra Dev.
+- The **cultural identity** of the Kakatiyas was Telugu-speaking and patronized **Telugu + Sanskrit**. Shaivite temple architecture flourished under them.
+- **Succession** changed when Ganapatideva made his daughter **Rudramadevi** successor, and this rare female monarchy strengthened legitimacy.
 
 > **Exam note:** **Kakatiya capital = Warangal** — trap swaps with **Devagiri (Yadava)** or **Kanchi (Pallava)** in matching questions (2019 Q90).
 
@@ -439,7 +439,7 @@ CHARAKA SAMHITA (★★★ 2023 Q25):
 - Kakatiya capital = Warangal (Orugallu)
 - Region = Telangana (not UP)
 - Period ~1163–1323 CE
-- 2019 Q90: Kakatiya → Warangal
+- 2019 Q90 links Kakatiya with Warangal.
 - Feudatories of Chalukyas initially
 - Fell to Delhi Sultanate 1323
 - Warangal ≠ Ramchandra Dev (2018 Q96 trap)
@@ -475,16 +475,16 @@ CHARAKA SAMHITA (★★★ 2023 Q25):
 
 ### Major Rulers of Kakatiya Dynasty — How It Works
 
-- **Prola II (c. 1110–1157 CE)** — early Kakatiya chief; **feudatory → sovereign** transition begins; fortified **Hanamkonda**.
-- **Mahadeva** — brief rule; succeeded by daughter's son **Ganapatideva**.
-- **Ganapatideva (c. 1199–1262 CE)** — **greatest Kakatiya conqueror**; extended rule from **Godavari to Krishna**; built **Warangal fort** expansions; **patron of temples**; later abdicated for daughter.
-- **Rudramadevi (c. 1263–1295/96)** — ruled as **Rudradeva** (male royal name for administration); **one of few female monarchs** in Indian history; **Marco Polo** reportedly mentions Andhra ruled by a queen (debated link).
-- **Prataparudra II (c. 1296–1323 CE)** — faced **repeated Delhi Sultanate invasions**; paid tribute after Malik Kafur raid; **final defeat 1323** — legend of self-sacrifice on Narmada/persecution in Persian accounts.
-- **Succession innovation** — Ganapatideva nominated **daughter over sons** — unusual but stabilized dynasty.
-- **Military organization** — **horse archers + fort garrisons**; Kakatiya **thoranas** (four ornamental gates) symbolize royal power.
-- **Religious patronage** — **Shaivite** primarily; also Vaishnavite grants; **Thousand Pillar Temple** credited to Rudradeva/Rudramadevi era.
-- **Administrative continuity** — **nayankara** chiefs collected revenue and supplied troops — precursor to Vijayanagara amaranayaka system.
-- **Dynastic end** — after 1323, Telangana passed to **Delhi**, later **Bahmani**, then **Qutb Shahi** (Golconda).
+- **Prola II (c. 1110–1157 CE)** was an early Kakatiya chief. The **feudatory to sovereign** transition began under him, and he fortified **Hanamkonda**.
+- **Mahadeva** had a brief rule. He was succeeded by his daughter's son **Ganapatideva**.
+- **Ganapatideva (c. 1199–1262 CE)** was the **greatest Kakatiya conqueror**. He extended rule from the **Godavari to Krishna**, expanded **Warangal fort**, patronized temples, and later abdicated for his daughter.
+- **Rudramadevi (c. 1263–1295/96)** ruled as **Rudradeva**, using a male royal name for administration. She was **one of few female monarchs** in Indian history, and Marco Polo reportedly mentions Andhra ruled by a queen, though the link is debated.
+- **Prataparudra II (c. 1296–1323 CE)** faced **repeated Delhi Sultanate invasions**. He paid tribute after Malik Kafur's raid and suffered the **final defeat in 1323**, followed by legends of self-sacrifice on the Narmada and persecution in Persian accounts.
+- **Succession innovation** occurred when Ganapatideva nominated his **daughter over sons**, an unusual choice that stabilized the dynasty.
+- **Military organization** combined **horse archers + fort garrisons**. The Kakatiya **thoranas**, or four ornamental gates, symbolized royal power.
+- **Religious patronage** was primarily **Shaivite**. The rulers also made Vaishnavite grants, and the **Thousand Pillar Temple** is credited to the Rudradeva/Rudramadevi era.
+- **Administrative continuity** relied on **nayankara** chiefs who collected revenue and supplied troops, making the system a precursor to the Vijayanagara amaranayaka system.
+- **Dynastic end** came after 1323, when Telangana passed to **Delhi**, later **Bahmani**, and then **Qutb Shahi** (Golconda) control.
 
 > **Exam note:** **Rudramadevi** is the **most asked Kakatiya ruler** — female monarch + Thousand Pillar Temple era. Trap: **"Prataparudra founded Kakatiya dynasty"** — he was the **last**, not founder.
 
@@ -539,16 +539,16 @@ CHARAKA SAMHITA (★★★ 2023 Q25):
 
 ### Achievements of Kakatiya Dynasty — How It Works
 
-- **Temple architecture** — Kakatiya style = **lighter sandstone, intricate bracket figures, cruciform plans, sandbox foundations** absorbing earthquakes.
-- **Thousand Pillar Temple (Rudreshwara/Rudradeva Temple)** — **Hanamkonda**; triple shrine (Shiva, Surya, Vishnu); **1213 CE** inscription tradition; named for numerous carved pillars.
-- **Ramappa Temple (Rudreshwara, Palampet)** — built **1213 CE** under **Recharla Rudra** (general of Ganapatideva); famous **"floating bricks"** (low-density porous clay); **UNESCO WHS 2021**.
-- **Warangal Fort + Thoranas** — massive **laterite/stone** fortifications; **four Kakatiya Thoranas** (Eastern, Western, Southern, Northern gates) — state emblem of Telangana.
-- **Irrigation engineering** — **Ramappa Lake** (Pakhal variant) fed fields; **chain tank system** across Telangana hills — sustainable rain-fed agriculture model.
-- **Art & craft** — **bronze icons**, **terracotta**, **temple jewellery** traditions; **Perini Shivatandavam** dance linked to Kakatiya military culture.
-- **Literary patronage** — **Telugu** gained court status alongside Sanskrit; **Nannaya** (Andhra Mahabharata) emerged in adjacent cultural zone.
-- **Trade** — access to **Golconda diamond** hinterland (later famous); routes connecting **east coast** and **Deccan interior**.
-- **Administrative achievement** — **nayankara feudatory** system balanced local autonomy with royal control — model for later Deccan states.
-- **Legacy** — Kakatiya monuments = **major heritage tourism**; Ramappa UNESCO raised global profile; Warangal thorana on Telangana state logo.
+- **Temple architecture** in the Kakatiya style used **lighter sandstone, intricate bracket figures, cruciform plans, and sandbox foundations** that absorbed earthquakes.
+- The **Thousand Pillar Temple (Rudreshwara/Rudradeva Temple)** is at **Hanamkonda**. It is a triple shrine for Shiva, Surya, and Vishnu, has a **1213 CE** inscription tradition, and is named for its numerous carved pillars.
+- The **Ramappa Temple (Rudreshwara, Palampet)** was built in **1213 CE** under **Recharla Rudra**, a general of Ganapatideva. It is famous for **"floating bricks"** made of low-density porous clay and became a **UNESCO WHS in 2021**.
+- **Warangal Fort + Thoranas** include massive **laterite/stone** fortifications. The **four Kakatiya Thoranas**, or Eastern, Western, Southern, and Northern gates, became the state emblem of Telangana.
+- **Irrigation engineering** used **Ramappa Lake** and the Pakhal variant to feed fields. The **chain tank system** across Telangana hills supported sustainable rain-fed agriculture.
+- **Art and craft** included **bronze icons**, **terracotta**, and **temple jewellery** traditions. **Perini Shivatandavam** dance is linked to Kakatiya military culture.
+- **Literary patronage** raised **Telugu** to court status alongside Sanskrit. **Nannaya**, associated with the Andhra Mahabharata, emerged in the adjacent cultural zone.
+- **Trade** benefited from access to the **Golconda diamond** hinterland, which became famous later. Routes connected the **east coast** with the **Deccan interior**.
+- **Administrative achievement** came from the **nayankara feudatory** system, which balanced local autonomy with royal control and became a model for later Deccan states.
+- The **legacy** of Kakatiya monuments is visible in **major heritage tourism**. Ramappa's UNESCO recognition raised the global profile, and the Warangal thorana appears on the Telangana state logo.
 
 > **Exam note:** **Ramappa Temple = UNESCO 2021** — high-yield current-static crossover. Trap: **"Thousand Pillar Temple is at Warangal fort"** — it is at **Hanamkonda**, not inside fort.
 
@@ -607,16 +607,16 @@ CHARAKA SAMHITA (★★★ 2023 Q25):
 
 ### Historiography — How It Works
 
-- **UPPCS tests book ↔ author matching** — four classic works appear repeatedly in match-the-following questions.
-- ***Hindu Polity*** — **K.P. Jayaswal** — argued ancient India had **real constitutional/republican institutions** (gana-sanghas, janapadas); challenged "Oriental despotism" stereotype.
-- ***The Wonder That Was India*** — **A.L. Basham** — accessible **cultural survey** of ancient Indian civilization (religion, art, society); widely used introductory text.
-- ***An Introduction to the Study of Indian History*** — **D.D. Kosambi** — **Marxist/analytical** framework; uses archaeology, folklore, economics — not narrative chronology alone.
-- ***The Early History of India*** — **Vincent Arthur Smith** — **colonial-era** political narrative from Vedic age to 12th century; administrative/dynastic focus; dated but still cited in exams.
-- **2024 Q134 correct code = C (3-2-1-4)** — A→3 (Jayaswal), B→2 (Basham), C→1 (Kosambi), D→4 (Smith).
-- **Trap pairs** — Kosambi ↔ Smith swapped; Jayaswal ↔ Basham swapped; "Wonder That Was India = Kosambi" is **false**.
-- **Basham vs Kosambi** — Basham = **popular cultural history**; Kosambi = **critical/analytical** with economic interpretation.
-- **Jayaswal vs Smith** — Jayaswal = **Indian nationalist** reading of ancient polity; Smith = **British ICS officer's** dynastic history.
-- **Exam strategy** — memorise **four pairs as a block**; UPPCS rarely asks page-level content, only **author identification**.
+- **UPPCS tests book and author matching** because four classic works appear repeatedly in match-the-following questions.
+- ***Hindu Polity*** by **K.P. Jayaswal** argued that ancient India had **real constitutional/republican institutions** such as gana-sanghas and janapadas. It challenged the "Oriental despotism" stereotype.
+- ***The Wonder That Was India*** by **A.L. Basham** is an accessible **cultural survey** of ancient Indian civilization. It covers religion, art, and society and is widely used as an introductory text.
+- ***An Introduction to the Study of Indian History*** by **D.D. Kosambi** uses a **Marxist/analytical** framework. It draws on archaeology, folklore, and economics rather than narrative chronology alone.
+- ***The Early History of India*** by **Vincent Arthur Smith** is a **colonial-era** political narrative from the Vedic age to the 12th century. It has an administrative and dynastic focus and is dated but still cited in exams.
+- **2024 Q134 correct code = C (3-2-1-4)** matches A with 3 (Jayaswal), B with 2 (Basham), C with 1 (Kosambi), and D with 4 (Smith).
+- **Trap pairs** swap Kosambi with Smith and Jayaswal with Basham. The claim that *The Wonder That Was India* was written by Kosambi is **false**.
+- **Basham vs Kosambi** is a contrast between **popular cultural history** and **critical/analytical** history with economic interpretation.
+- **Jayaswal vs Smith** is a contrast between an **Indian nationalist** reading of ancient polity and a **British ICS officer's** dynastic history.
+- The **exam strategy** is to memorise the **four pairs as a block**. UPPCS rarely asks page-level content and usually asks only **author identification**.
 
 > **Exam note:** **2024 Q134 = C (3-2-1-4).** Trap: Option A (3-2-4-1) swaps Kosambi and Smith — Smith wrote *Early History*, NOT Kosambi.
 
@@ -636,7 +636,7 @@ CHARAKA SAMHITA (★★★ 2023 Q25):
 - Basham = *Wonder That Was India*
 - Kosambi = *Introduction to Study of Indian History*
 - Smith = *Early History of India*
-- Kosambi ≠ Smith — most common swap trap
+- Kosambi is not Smith, and this is the most common swap trap.
 - Basham = cultural survey, not Marxist analysis
 
 ### PYQs — Historiography
@@ -672,16 +672,16 @@ CHARAKA SAMHITA (★★★ 2023 Q25):
 
 ### Charaka Samhita — How It Works
 
-- **Charaka Samhita** is the foundational text of **Ayurvedic internal medicine** — attributed to **Charaka** who redacted/compiled earlier Agnivesha Tantra tradition.
-- **Period** — core compilation **~2nd century BCE to 2nd century CE** (Gupta era received major commentaries); not Vedic-period text.
-- **Structure** — **120 chapters (adhyayas)** divided into **8 sections (Sthanas)** ← **UPPCS 2023 Q25 answer = A (120 chapters and 8 sections)**.
-- **Eight Sthanas** — **Sutra, Nidana, Vimana, Sharira, Indriya, Chikitsa, Kalpa, Siddhi** — cover theory, diagnosis, anatomy, treatment, pharmacology.
-- **Content scope** — **tridosha theory** (vata, pitta, kapha), **diagnosis by pulse/palpation**, **dietetics**, **medical ethics**, **mental health**, **rejuvenation (rasayana)**.
-- **Charaka vs Sushruta** — **Charaka = medicine/internal**; **Sushruta Samhita = surgery** (rhinoplasty, cataract, instruments) — both are Ayurvedic but different specialisations.
-- **Historical significance** — WHO recognises Ayurveda heritage; Charaka called **"father of Indian medicine"** in standard texts.
-- **Trap numbers** — 100/5, 80/7, 60/8 are **distractors** in 2023 Q25; only **120/8** is correct.
-- **Not Vedic** — Charaka Samhita is **classical Sanskrit medical literature**, compiled centuries after Rigveda — do not place in Vedic syllabus bucket.
-- **Commentary tradition** — **Chakrapani Datta** and later physicians wrote commentaries preserving the text through medieval period.
+- **Charaka Samhita** is the foundational text of **Ayurvedic internal medicine** and is attributed to **Charaka**, who redacted or compiled the earlier Agnivesha Tantra tradition.
+- The **period** of the core compilation is **~2nd century BCE to 2nd century CE**. The Gupta era received major commentaries, but the text is not Vedic-period literature.
+- **Structure** has **120 chapters (adhyayas)** divided into **8 sections (Sthanas)**, which makes **UPPCS 2023 Q25 answer = A (120 chapters and 8 sections)**.
+- **Eight Sthanas** are **Sutra, Nidana, Vimana, Sharira, Indriya, Chikitsa, Kalpa, and Siddhi**, and they cover theory, diagnosis, anatomy, treatment, and pharmacology.
+- **Content scope** includes **tridosha theory** (vata, pitta, kapha), **diagnosis by pulse/palpation**, **dietetics**, **medical ethics**, **mental health**, and **rejuvenation (rasayana)**.
+- **Charaka vs Sushruta** is the contrast between **Charaka = medicine/internal** and **Sushruta Samhita = surgery**, including rhinoplasty, cataract, and instruments. Both are Ayurvedic texts but cover different specialisations.
+- The **historical significance** is that WHO recognises Ayurveda heritage. Charaka is called the **"father of Indian medicine"** in standard texts.
+- **Trap numbers** such as 100/5, 80/7, and 60/8 are **distractors** in 2023 Q25. Only **120/8** is correct.
+- **Not Vedic** means Charaka Samhita is **classical Sanskrit medical literature** compiled centuries after the Rigveda, so do not place it in the Vedic syllabus bucket.
+- **Commentary tradition** preserved the text through the medieval period through **Chakrapani Datta** and later physicians.
 
 > **Exam note:** **2023 Q25 = A (120 chapters and 8 sections).** Trap: confusing with Sushruta Samhita chapter count or guessing round numbers like 100/5.
 
@@ -694,12 +694,12 @@ CHARAKA SAMHITA (★★★ 2023 Q25):
 
 ### Exam Facts (raata)
 
-- 2023 Q25 = **A — 120 chapters and 8 sections**
+- 2023 Q25 answer is **A**, with 120 chapters and 8 sections.
 - Charaka Samhita = Ayurvedic internal medicine
 - 8 Sthanas, 120 Adhyayas
 - Charaka = redactor/compiler tradition
 - Sushruta = surgery text (separate)
-- Not a Vedic text — classical period
+- Charaka Samhita is not a Vedic text and belongs to the classical period.
 - Tridosha theory in Charaka
 
 ### PYQs — Charaka Samhita

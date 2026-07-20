@@ -96,24 +96,24 @@ RISE OF MAGADHA — 4 FACTORS:
 
 ### Political Condition of Sixth Century BCE — How It Works
 
-- North India transitioned from **Later Vedic janapadas** to **16 Mahajanapadas** — territorial states with capitals.
-- **Iron technology** widespread — enabled **forest clearance** and surplus agriculture in Middle and Lower Gangetic plains.
+- North India transitioned from **Later Vedic janapadas** to **16 Mahajanapadas**. They became territorial states with capitals.
+- **Iron technology** widespread. Enabled **forest clearance** and surplus agriculture in Middle and Lower Gangetic plains.
 - **Two polity types**: **monarchies** (Magadha, Kosala, Vatsa) and **gana-sanghas/republics** (Vajji, Malla, Shakya).
-- **Constant interstate warfare** — ambition to control fertile doabs and trade routes.
-- **Rise of heterodox movements** — Buddhism and Jainism challenged Brahmanical orthodoxy (brief: full treatment in Topic 4).
-- **Urban centres grew** — Varanasi, Rajgir, Kaushambi, Shravasti, Vaishali became administrative and commercial hubs.
-- **Coinage begins** — **punch-marked coins** (silver) appear in 6th–5th century BCE — facilitates trade.
-- **Social change** — varna-jati system rigidified; urban merchants (setthi) and craftsmen gained wealth.
-- **No pan-Indian empire yet** — fragmented politics; Magadha's rise begins in this century.
-- **Greek-Persian context** — Achaemenid Persia touched northwest (Gandhara); Alexander comes end of 4th century.
+- **Constant interstate warfare**. It reflected ambition to control fertile doabs and trade routes.
+- **Rise of heterodox movements**. Buddhism and Jainism challenged Brahmanical orthodoxy (brief: full treatment in Topic 4).
+- **Urban centres grew**. Varanasi, Rajgir, Kaushambi, Shravasti, Vaishali became administrative and commercial hubs.
+- **Coinage begins**. **punch-marked coins** (silver) appear in 6th–5th century BCE. This facilitated trade.
+- **Social change** made the varna-jati system more rigid. Urban merchants (**setthi**) and craftsmen also gained wealth.
+- **No pan-Indian empire existed yet** because politics remained fragmented. Magadha's rise began in this century.
+- **Greek-Persian context** mattered because Achaemenid Persia touched the northwest, including Gandhara. Alexander arrived only at the end of the 4th century BCE.
 
 > **Exam note:** 6th century BCE = Mahajanapada age + Shramanic movements. Trap: "Pan-Indian Mauryan empire existed in 6th century" — false.
 
 ### Exam Facts (raata)
 
 - Age of 16 Mahajanapadas (~600–300 BCE)
-- Iron Age + second urbanization
-- Monarchies + gana-sanghas coexist
+- Iron Age and second urbanization
+- Monarchies and gana-sanghas coexist
 - Buddhism and Jainism founded ~6th–5th century BCE
 - Punch-marked coins emerge
 - Interstate warfare common
@@ -163,16 +163,16 @@ RISE OF MAGADHA — 4 FACTORS:
 
 ### Sixteen Mahajanapadas — How It Works
 
-- **Solasa Mahajanapada** — Buddhist and Jain texts list **16 major states**; Anguttara Nikaya is key source.
-- **Geographic spread** — from **Gandhara** (northwest) to **Asmaka** (south); **Kamboja** farthest west.
-- **Gangetic heartland** — most mahajanapadas clustered in **UP-Bihar** belt — fertile, densely populated.
-- **Monarchical states** — Kashi, Kosala, Magadha, Vatsa, Avanti, Anga, Chedi, Kuru, Panchala.
-- **Republican gana-sanghas** — **Vajji** (confederacy of 8 clans including Licchavi), **Malla** (nine clans), **Shakya** (Kapilavastu — Buddha's clan, sometimes counted separately).
-- **Largest rivals** — **Magadha, Kosala, Vatsa, Avanti** — four-power struggle in early period.
-- **Naming** — derived from dominant clan or region (Kuru from Kuru tribe, Panchala from Panchala tribe).
-- **Army** — infantry, cavalry, elephants, chariots; **elephants** gave Magadha edge.
-- **Buddha and Mahavira** — both lived and taught in this mahajanapada landscape (~6th–5th century BCE).
-- **Eventually absorbed** — Magadha conquered all by Mauryan period.
+- **Solasa Mahajanapada** refers to the **16 major states** listed in Buddhist and Jain texts. The **Anguttara Nikaya** is a key source.
+- **Geographic spread** ran from **Gandhara** in the northwest to **Asmaka** in the south. **Kamboja** lay farthest west.
+- **Gangetic heartland**. Most mahajanapadas clustered in **UP-Bihar** belt. The region was fertile and densely populated.
+- **Monarchical states**. Kashi, Kosala, Magadha, Vatsa, Avanti, Anga, Chedi, Kuru, Panchala.
+- **Republican gana-sanghas**. **Vajji** (confederacy of 8 clans including Licchavi), **Malla** (nine clans), **Shakya** (Kapilavastu. Buddha's clan, sometimes counted separately).
+- **Largest rivals**. **Magadha, Kosala, Vatsa, Avanti**. They drove the four-power struggle in the early period.
+- **Naming**. Their names derived from dominant clan or region (Kuru from Kuru tribe, Panchala from Panchala tribe).
+- **Armies** used infantry, cavalry, elephants, and chariots. **Elephants** gave Magadha a military edge.
+- **Buddha and Mahavira**. Both lived and taught in this mahajanapada landscape (~6th–5th century BCE).
+- **Eventually absorbed**. Magadha conquered all by Mauryan period.
 
 > **Exam note:** Complete 16 with capitals — no truncation. Trap: "Shakya was one of 16" — sometimes listed separately from Malla/Vajji.
 
@@ -180,10 +180,10 @@ RISE OF MAGADHA — 4 FACTORS:
 
 - 16 mahajanapadas total
 - Buddhist Anguttara Nikaya lists them
-- Vajji + Malla = gana-sanghas
+- Vajji and Malla = gana-sanghas
 - Gandhara (northwest) to Asmaka (south)
 - Four great rivals: Magadha, Kosala, Vatsa, Avanti
-- Elephants in warfare — Magadha advantage
+- Elephants in warfare. Magadha advantage
 - All absorbed by Magadha/Mauryas eventually
 
 ### PYQs — Sixteen Mahajanapadas
@@ -207,16 +207,16 @@ RISE OF MAGADHA — 4 FACTORS:
 
 ### Mahajanapadas of Uttar Pradesh — How It Works
 
-- **Eight mahajanapadas** had core territory in present-day **Uttar Pradesh** — high UPPCS yield.
-- **Kashi** — Varanasi; oldest living city; powerful at first, later absorbed by Kosala then Magadha.
-- **Kosala** — **Ayodhya** (southern capital) and **Shravasti** (northern capital); Rama's legendary kingdom; Buddha spent much time here.
-- **Vatsa** — **Kaushambi** (near Allahabad/Prayagraj); King Udayana legends; strategic doab position.
-- **Kuru** — **Hastinapur** (Meerut) and **Indraprastha** (Delhi); Mahabharata association.
-- **Panchala** — **Ahichchhatra** (Bareilly) and **Kampilya**; Draupadi's kingdom in epic tradition.
-- **Malla** — **Kushinagar** (Kusinara) — Buddha attained Mahaparinirvana here; gana-sangha.
-- **Surasena** — **Mathura** — Krishna legends; strategic Yamuna position.
-- **Chedi** — **Bundelkhand** (southern UP-northern MP); Shuktimati capital; epic Chedi kings.
-- **UPPCS strategy** — know which of 16 are in UP vs Bihar/MP/Rajasthan traps.
+- **Eight mahajanapadas** had core territory in present-day **Uttar Pradesh**. This is high-yield for UPPCS.
+- **Kashi** was centered on Varanasi, the oldest living city. It was powerful at first and was later absorbed by Kosala and then Magadha.
+- **Kosala** had **Ayodhya** as its southern capital and **Shravasti** as its northern capital. It was Rama's legendary kingdom, and Buddha spent much time here.
+- **Vatsa** had **Kaushambi** near Allahabad/Prayagraj as its capital. King Udayana legends and its strategic doab position make it exam-relevant.
+- **Kuru** had **Hastinapur** in Meerut and **Indraprastha** in Delhi as key centres. It is strongly associated with the Mahabharata tradition.
+- **Panchala** had **Ahichchhatra** in Bareilly and **Kampilya** as key centres. Epic tradition associates it with Draupadi's kingdom.
+- **Malla** was a **gana-sangha** linked to **Kushinagar** (Kusinara). Buddha attained Mahaparinirvana there.
+- **Surasena** was centered on **Mathura**. It is associated with Krishna legends and a strategic Yamuna position.
+- **Chedi** covered **Bundelkhand** in southern UP and northern MP. Its capital was Shuktimati, and epic tradition remembers Chedi kings.
+- **UPPCS strategy**. Know which of 16 are in UP vs Bihar/MP/Rajasthan traps.
 
 > **Exam note:** **8 UP mahajanapadas** — Kashi, Kosala, Vatsa, Kuru, Panchala, Malla, Surasena, Chedi. Trap: "Magadha is in UP" — Magadha = Bihar.
 
@@ -250,7 +250,7 @@ RISE OF MAGADHA — 4 FACTORS:
 
 - 8 mahajanapadas in UP
 - Kashi = Varanasi
-- Kosala = Ayodhya + Shravasti
+- Kosala = Ayodhya and Shravasti
 - Vatsa = Kaushambi
 - Kushinagar = Malla (Buddha's death)
 - Mathura = Surasena
@@ -280,28 +280,28 @@ RISE OF MAGADHA — 4 FACTORS:
 ### Capitals of Mahajanapadas — How It Works
 
 - **Capital matching** is the **#1 UPPCS question format** for this topic.
-- **UPPCS 2020 Q6** (labeled Geography — cross-subject):  
-  - **Matsya** → **Viratnagar** (3)  
-  - **Kuru** → **Indraprastha** (4)  
-  - **Surasena** → **Mathura** (1)  
-  - **Asmaka** → **Potana** (2)  
+- **UPPCS 2020 Q6** was labeled Geography but is cross-subject for this topic:
+  - **Matsya** matches **Viratnagar** (3).
+  - **Kuru** matches **Indraprastha** (4).
+  - **Surasena** matches **Mathura** (1).
+  - **Asmaka** matches **Potana** (2).
   - **Answer: C (3-4-1-2)**
-- **Dual capitals** common — Kosala (Ayodhya + Shravasti), Avanti (Ujjain + Mahishmati), Kuru (Hastinapur + Indraprastha).
-- **Magadha shift** — **Rajgir** (Rajagriha) early → **Pataliputra** (Patna) from **Udayin** onward.
-- **Taxila** — Gandhara capital; ancient university city; northwest gateway.
-- **Vaishali** — Vajji gana-sangha; First Buddhist Council (brief overlap Topic 4).
-- **Varanasi** — Kashi; never abandoned as city; sacred + political centre.
-- **Champa** — Anga capital; near modern Bhagalpur, Bihar.
-- **Pratishthana/Potana** — Asmaka; southernmost mahajanapada capital.
-- Memorize **all 16 pairs** — exams swap one wrong capital in match lists.
+- **Dual capitals** common. Kosala (Ayodhya and Shravasti), Avanti (Ujjain and Mahishmati), Kuru (Hastinapur and Indraprastha).
+- **Magadha shift**. **Rajgir** (Rajagriha) early to **Pataliputra** (Patna) from **Udayin** onward.
+- **Taxila** was the capital of Gandhara. It was an ancient university city and a northwest gateway.
+- **Vaishali** was the capital of the Vajji **gana-sangha**. It also overlaps with Topic 4 through Buddhist council traditions.
+- **Varanasi** was the capital of Kashi. It remained a continuously inhabited sacred and political centre.
+- **Champa** was the capital of Anga. It lay near modern Bhagalpur in Bihar.
+- **Pratishthana/Potana** was linked to Asmaka. It was the southernmost mahajanapada capital.
+- Memorize **all 16 pairs**. Exams swap one wrong capital in match lists.
 
 > **Exam note:** 2020 Q6 answer **C: 3-4-1-2**. Trap: Matsya = Mathura (that's Surasena).
 
 ### Exam Facts (raata)
 
 - 2020 Q6: Matsya-Viratnagar, Kuru-Indraprastha, Surasena-Mathura, Asmaka-Potana
-- Magadha: Rajgir → Pataliputra
-- Kosala: Shravasti + Ayodhya
+- Magadha: Rajgir to Pataliputra
+- Kosala: Shravasti and Ayodhya
 - Vajji: Vaishali
 - Gandhara: Taxila
 - Avanti: Ujjain
@@ -331,16 +331,16 @@ RISE OF MAGADHA — 4 FACTORS:
 
 ### Expansion of Mahajanapadas — How It Works
 
-- All mahajanapadas **expanded territorially** from 6th–4th century BCE — warfare and alliances drove growth.
-- **Magadha** expanded most successfully — absorbed Anga, Vajji, Kosala, Kashi, eventually most of North India.
-- **Kosala** under **Prasenajit** — major power; Buddha's patron; later defeated by Ajatashatru of Magadha.
-- **Avanti** — King **Chanda Pradyota** — rival of Bimbisara; eventually conquered by Shishunaga.
-- **Vatsa** — allied with Magadha through **matrimonial ties** (Bimbisara married Kosala princess).
-- **Anga** — **first annexed** by Bimbisara of Magadha (6th century BCE) — Magadha's first major expansion.
-- **Vajji (Vaishali)** — **confederacy** resisted Magadha for decades; Ajatashatru conquered after 16 years of war (use of **Rathamusala** war engine).
-- **Gana-sanghas** — Malla, Vajji resisted monarchy longer — eventually absorbed.
-- **Northwest** — Gandhara and Kamboja affected by **Persian** and later **Greek** incursions (Topic 6).
-- **Result** — **pan-Gangetic empire** under Nandas, then Mauryas — mahajanapada system ended.
+- All mahajanapadas **expanded territorially** from 6th–4th century BCE. Warfare and alliances drove growth.
+- **Magadha** expanded most successfully. It absorbed Anga, Vajji, Kosala, Kashi, eventually most of North India.
+- **Kosala** under **Prasenajit** was a major power. Prasenajit patronized Buddha and was later defeated by Ajatashatru of Magadha.
+- **Avanti** under King **Chanda Pradyota** rivaled Bimbisara. It was eventually conquered by Shishunaga.
+- **Vatsa**. It allied with Magadha through **matrimonial ties** (Bimbisara married Kosala princess).
+- **Anga**. It was **first annexed** by Bimbisara of Magadha (6th century BCE). Magadha's first major expansion.
+- **Vajji (Vaishali)** was a **confederacy** that resisted Magadha for decades. Ajatashatru conquered it after 16 years of war and used the **Rathamusala** war engine.
+- **Gana-sanghas**. Malla and Vajji resisted monarchy longer. They were eventually absorbed.
+- **Northwest**. Gandhara and Kamboja were affected by **Persian** and later **Greek** incursions (Topic 6).
+- **Result**. The result was a **pan-Gangetic empire** under Nandas, then Mauryas. The mahajanapada system ended.
 
 > **Exam note:** First Magadha annexation = **Anga** (Bimbisara). Longest resistance = **Vajji** (Ajatashatru).
 
@@ -376,22 +376,22 @@ RISE OF MAGADHA — 4 FACTORS:
 
 ### Rise of Magadha — How It Works
 
-- **Magadha** (southern Bihar) rose from one of 16 mahajanapadas to **dominant imperial power** — foundation of Mauryan empire.
-- **Geographic advantages** — fertile **Gangetic alluvial soil**, heavy **rainfall**, rich **iron ore** (Rajgir hills), abundant **elephants** for army.
-- **Strategic capitals** — **Rajgir** surrounded by **5 hills** (impregnable fort); **Pataliputra** at **Ganga-Son confluence** — trade and military hub.
-- **Control of trade routes** — eastern Gangetic valley connects to Bengal; later northwest via conquests.
-- **Ambitious rulers** — Bimbisara, Ajatashatru, Mahapadma Nanda — continuous expansion policy.
-- **Matrimonial alliances** — Bimbisara married **Kosala princess**, **Chellana** (Lichchhavi), **Madhavi** (Madhra) — peaceful annexation + diplomacy.
-- **Military innovation** — **Rathamusala** (scythed chariot) used by Ajatashatru against Vajji.
-- **Administrative growth** — standing army, ministerial system (Purohita, Senapati) — precursor to Mauryan bureaucracy.
-- **Rival elimination** — systematically defeated Kosala, Vatsa, Avanti, Vajji over two centuries.
-- **Nanda climax** — first **pan-North Indian empire** before Mauryas; vast army and treasury.
+- **Magadha** (southern Bihar) rose from one of 16 mahajanapadas to **dominant imperial power**. It formed the foundation of the Mauryan empire.
+- **Geographic advantages**. It had fertile **Gangetic alluvial soil**, heavy **rainfall**, rich **iron ore** (Rajgir hills), abundant **elephants** for army.
+- **Strategic capitals** strengthened Magadha. **Rajgir** was surrounded by **5 hills** as an impregnable fort, while **Pataliputra** at the **Ganga-Son confluence** became a trade and military hub.
+- **Control of trade routes** helped Magadha connect the eastern Gangetic valley to Bengal. Later conquests extended its reach toward the northwest.
+- **Ambitious rulers**. Bimbisara, Ajatashatru, Mahapadma Nanda. They followed a continuous expansion policy.
+- **Matrimonial alliances**. Bimbisara married **Kosala princess**, **Chellana** (Lichchhavi), **Madhavi** (Madhra). These alliances supported peaceful annexation and diplomacy.
+- **Military innovation**. **Rathamusala** (scythed chariot) used by Ajatashatru against Vajji.
+- **Administrative growth**. It built a standing army, ministerial system (Purohita, Senapati). This was a precursor to Mauryan bureaucracy.
+- **Rival elimination**. It systematically defeated Kosala, Vatsa, Avanti, Vajji over two centuries.
+- **Nanda rule marked the climax** of pre-Mauryan Magadha. It created the first **pan-North Indian empire** before the Mauryas, with a vast army and treasury.
 
 > **Exam note:** Four factors: **fertile land + iron/elephants + strategic capital + ambitious rulers**. Trap: "Magadha rose due to maritime trade" — primarily land-based expansion.
 
 ### Exam Facts (raata)
 
-- Fertile soil + rainfall + iron + elephants
+- Fertile soil and rainfall and iron and elephants
 - Rajgir = fortified hill capital
 - Pataliputra = Ganga-Son confluence
 - Matrimonial alliances (Bimbisara)
@@ -421,16 +421,16 @@ RISE OF MAGADHA — 4 FACTORS:
 
 ### Haryanka Dynasty — How It Works
 
-- **Haryanka** — first **historical dynasty** of Magadha (~544–413 BCE); Buddhist and Jain sources primary evidence.
-- **Bimbisara** (Shrenika) — **founder**; ruled c. **544–492 BCE**; contemporary of **Buddha and Mahavira**.
-- **Bimbisara's expansion** — annexed **Anga** (Champa); matrimonial alliances with **Kosala, Lichchhavi, Madra**.
-- **Patron of Buddhism** — Buddha accepted Bimbisara's invitation; Jetavana monastery gift via Anathapindada.
-- **Ajatashatru** (Kunika) — son; **killed/imprisoned father Bimbisara** (~492 BCE); seized throne.
-- **Ajatashatru's conquests** — defeated **Kosala** (Prasenajit); **16-year war against Vajji** (Vaishali); used **Rathamusala**.
-- **First Buddhist Council** — held at **Rajagriha** after Buddha's death during Ajatashatru's reign (Topic 4 overlap).
-- **Udayin** (Udayibhadda) — son of Ajatashatru; shifted capital from **Rajgir to Pataliputra** (~460 BCE) — Ganga-Son strategic site.
-- **Udayin** — founded **Pataliputra** on site of future Mauryan capital; fortified city.
-- **Later Haryankas** — **Mundas, Nagadasaka** — weak successors; dynasty ended ~413 BCE.
+- **Haryanka** was the first **historical dynasty** of Magadha (~544–413 BCE). Buddhist and Jain sources provide the main evidence.
+- **Bimbisara** (Shrenika) was the **founder** and ruled c. **544–492 BCE**. He was a contemporary of **Buddha and Mahavira**.
+- **Bimbisara expanded Magadha** by annexing **Anga** (Champa). He also built matrimonial alliances with **Kosala, Lichchhavi, and Madra**.
+- **Bimbisara patronized Buddhism** when Buddha accepted his invitation. The Jetavana monastery gift is linked to Anathapindada.
+- **Ajatashatru** (Kunika) was Bimbisara's son. He **killed or imprisoned Bimbisara** around 492 BCE and seized the throne.
+- **Ajatashatru expanded Magadha** by defeating **Kosala** under Prasenajit. He also fought a **16-year war against Vajji** (Vaishali) and used the **Rathamusala**.
+- **First Buddhist Council**. It was held at **Rajagriha** after Buddha's death during Ajatashatru's reign (Topic 4 overlap).
+- **Udayin** (Udayibhadda), the son of Ajatashatru, shifted the capital from **Rajgir to Pataliputra** around 460 BCE. The new site was strategic because it lay near the Ganga-Son confluence.
+- **Udayin** founded **Pataliputra** on the site of the future Mauryan capital. He fortified the city.
+- **Later Haryankas** such as **Mundas** and **Nagadasaka** were weak successors. The dynasty ended around 413 BCE.
 
 > **Exam note:** Bimbisara = alliances; Ajatashatru = parricide + Vajji conquest; Udayin = Pataliputra. Trap: "Pataliputra founded by Chandragupta" — Udayin founded it.
 
@@ -449,10 +449,10 @@ RISE OF MAGADHA — 4 FACTORS:
 
 - Bimbisara 544–492 BCE
 - Ajatashatru killed Bimbisara
-- Udayin → Pataliputra capital
+- Udayin to Pataliputra capital
 - Anga first annexation (Bimbisara)
 - Vajji war 16 years (Ajatashatru)
-- Contemporary of Buddha + Mahavira
+- Contemporary of Buddha and Mahavira
 - Dynasty ended ~413 BCE
 
 ### PYQs — Haryanka Dynasty
@@ -477,16 +477,16 @@ RISE OF MAGADHA — 4 FACTORS:
 
 ### Shishunaga Dynasty — How It Works
 
-- **Shishunaga** — founder; **minister who seized throne** after Haryanka decline (~413 BCE).
-- **Ruled c. 413–344 BCE** — restored Magadha dominance after period of instability.
-- **Conquered Avanti** — ended long rivalry; made **Ujjain** part of Magadha sphere.
-- **Capital** — remained **Pataliputra** (Rajgir secondary).
-- **Kalashoka** (Kakavarna) — son of Shishunaga; **Second Buddhist Council** at **Vaishali** (~383 BCE) during his reign.
-- **Second Council** — Buddhist schism; Sthaviravada vs Mahasanghika (Topic 4 overlap — council at Vaishali mahajanapada site).
-- **Dynasty decline** — weak successors; **Mahapadma Nanda** (minister/rebel) overthrew last Shishunaga ruler ~344 BCE.
-- **10 rulers** traditionally listed — Shishunaga + 9 successors including Kalashoka.
-- **Northward expansion** — consolidated Magadha control over Gangetic plain fully.
-- **Transition** — from regional power to **subcontinental empire** under succeeding Nandas.
+- **Shishunaga** was the founder of the dynasty. He was a **minister who seized the throne** after the Haryanka decline around 413 BCE.
+- **Ruled c. 413–344 BCE**. It restored Magadha dominance after period of instability.
+- **Shishunaga conquered Avanti** and ended Magadha's long rivalry with it. This brought **Ujjain** into the Magadha sphere.
+- **Capital**. It remained **Pataliputra** (Rajgir secondary).
+- **Kalashoka** (Kakavarna), the son of Shishunaga, ruled when the **Second Buddhist Council** was held at **Vaishali** around 383 BCE.
+- **The Second Council** produced a Buddhist schism between Sthaviravada and Mahasanghika. It also overlaps with Topic 4 because Vaishali was a mahajanapada site.
+- **The dynasty declined** under weak successors. **Mahapadma Nanda**, described as a minister or rebel, overthrew the last Shishunaga ruler around 344 BCE.
+- **10 rulers** traditionally listed. It included Shishunaga and 9 successors including Kalashoka.
+- **Northward expansion** consolidated Magadha control over Gangetic plain fully.
+- **Transition**. It moved Magadha from regional power to **subcontinental empire** under succeeding Nandas.
 
 > **Exam note:** Shishunaga conquered **Avanti**. Kalashoka = **Second Buddhist Council at Vaishali**. Trap: "Shishunaga founded Pataliputra" — Udayin did.
 
@@ -530,16 +530,16 @@ RISE OF MAGADHA — 4 FACTORS:
 
 ### Nanda Dynasty — How It Works
 
-- **Nanda dynasty** — first **empire-scale** Magadha rule (~344–322 BCE); preceded Mauryas.
-- **Mahapadma Nanda** — founder; **"destroyer of all Kshatriyas"** (Puranic); possibly **Shudra origin** — challenged varna order.
-- **Mahapadma** — conquered **Kosala, Kalinga, Kuru, Panchala, Vatsa** — most of North India.
-- **Dhana Nanda** — last Nanda ruler; contemporary of **Alexander's invasion** (326 BCE); enormous wealth ("great hoarder").
-- **Army strength** — Greek sources: **200,000 infantry, 20,000 cavalry, 2,000 chariots, 3,000 elephants** — deterred Alexander from advancing into Gangetic Magadha.
-- **Wealth** — extensive taxation; treasure hoarded; unpopularity among subjects per Greek/Jain accounts.
-- **Chanakya-Kautilya** — humiliated by Dhana Nanda; vowed revenge; mentored **Chandragupta Maurya**.
-- **Overthrow** — Chandragupta Maurya defeated Dhana Nanda ~**322 BCE** with Chanakya's strategy — founded Mauryan empire (Topic 7).
-- **9 Nanda rulers** per Puranic lists — Mahapadma + 8 sons including Dhana.
-- **Administrative legacy** — centralized revenue, large standing army — model for Mauryas.
+- **The Nanda dynasty** created the first **empire-scale** Magadha rule (~344–322 BCE). It preceded the Mauryas.
+- **Mahapadma Nanda** was the founder. Puranic tradition calls him the **"destroyer of all Kshatriyas"**, and his possible **Shudra origin** challenged the varna order.
+- **Mahapadma**. He conquered **Kosala, Kalinga, Kuru, Panchala, Vatsa**. Most of North India.
+- **Dhana Nanda** was the last Nanda ruler. He was a contemporary of **Alexander's invasion** in 326 BCE and was famous for enormous wealth as a "great hoarder."
+- **Army strength**. Greek sources record **200,000 infantry, 20,000 cavalry, 2,000 chariots, 3,000 elephants**. This deterred Alexander from advancing into Gangetic Magadha.
+- **Nanda wealth** came from extensive taxation. Greek and Jain accounts describe hoarded treasure and unpopularity among subjects.
+- **Chanakya-Kautilya** was humiliated by Dhana Nanda. He vowed revenge and mentored **Chandragupta Maurya**.
+- **Overthrow**. Chandragupta Maurya defeated Dhana Nanda ~**322 BCE** with Chanakya's strategy. He founded the Mauryan empire (Topic 7).
+- **9 Nanda rulers** per Puranic lists. They included Mahapadma and 8 sons including Dhana.
+- **Administrative legacy**. They left centralized revenue, large standing army. Model for Mauryas.
 
 > **Exam note:** Dhana Nanda = Alexander's contemporary; huge army. Trap: "Alexander defeated Nandas" — Alexander turned back at Beas; never fought Nandas directly.
 
@@ -555,7 +555,7 @@ RISE OF MAGADHA — 4 FACTORS:
 
 - Mahapadma Nanda = founder (~344 BCE)
 - Dhana Nanda = last ruler
-- Alexander invasion 326 BCE — did not fight Nandas
+- Alexander invasion 326 BCE. Did not fight Nandas
 - Army: 200,000 infantry (Greek accounts)
 - Overthrown by Chandragupta ~322 BCE
 - Chanakya's humiliation legend

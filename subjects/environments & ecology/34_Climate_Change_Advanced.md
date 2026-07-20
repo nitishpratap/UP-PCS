@@ -122,15 +122,15 @@ IPCC REPORTS:
 
 ### Climate Change — How It Works
 
-- **Climate ≠ weather**: Weather = day-to-day; climate = **30-year average** and statistical distribution — UPPCS tests "one cold winter disproves global warming" = **FALSE**.
-- **Anthropogenic drivers**: Burning **fossil fuels** (coal, oil, gas), **deforestation**, **cement production**, **agriculture (CH₄, N₂O)**, **F-gases** — raise atmospheric GHG concentrations beyond natural interglacial range.
-- **Natural drivers** (volcanic aerosols, solar variability, orbital Milankovitch cycles) still operate — but **IPCC AR6** concludes human influence is **dominant cause** of observed warming since mid-20th century.
-- **Feedback loops amplify change**: **Ice-albedo** (less ice → more absorption), **water vapour** (warmer air holds more GHG water vapour), **permafrost thaw** (releases CH₄/CO₂), **wildfire** cycles — cause → effect chains tested in multi-statement questions.
-- **Impacts are system-wide**: Not only temperature — **monsoon variability**, **glacier retreat**, **sea-level rise**, **ocean acidification**, **species range shifts**, **health (heat stress)** — "climate change = only warming" is incomplete.
-- **India's vulnerability**: Long coastline, **Himalayan water dependence**, **agriculture rain-fed areas** (Bundelkhand drought), **dense cities (Kanpur, Lucknow heat)** — high adaptation need despite moderate per capita emissions.
-- **Tipping points (AR6 warning)**: Amazon dieback, ice sheet instability, AMOC slowdown — potentially **irreversible** beyond thresholds — relevant to urgency of carbon budget.
-- **CBDR-RC principle**: **Common But Differentiated Responsibilities and Respective Capabilities** — developed countries bear historical emission responsibility; developing countries need development space — India's negotiating stance at UNFCCC.
-- **1.5°C vs 2°C Paris goals**: Every fraction of a degree increases extreme heat, flood, and species loss risk — IPCC Special Report (1.5°C, 2018) informed stricter Paris ambition.
+- **Climate ≠ weather**: Weather describes day-to-day conditions, while climate is the **30-year average** and statistical distribution. UPPCS often tests whether "one cold winter disproves global warming," and that claim is **FALSE**.
+- **Anthropogenic drivers**: Burning **fossil fuels** (coal, oil, gas), **deforestation**, **cement production**, **agriculture (CH₄, N₂O)**, and **F-gases** raise atmospheric GHG concentrations beyond the natural interglacial range.
+- **Natural drivers** such as volcanic aerosols, solar variability, and orbital Milankovitch cycles still operate, but **IPCC AR6** concludes human influence is the **dominant cause** of observed warming since the mid-20th century.
+- **Feedback loops amplify change**: **Ice-albedo** (less ice means more absorption), **water vapour** (warmer air holds more GHG water vapour), **permafrost thaw** (releases CH₄/CO₂), and **wildfire** cycles form cause-and-effect chains that appear often in multi-statement questions.
+- **Impacts are system-wide**: Climate change affects more than temperature alone, including **monsoon variability**, **glacier retreat**, **sea-level rise**, **ocean acidification**, **species range shifts**, and **health (heat stress)**. Treating climate change as only warming is incomplete.
+- **India's vulnerability**: India faces a long coastline, **Himalayan water dependence**, **agriculture rain-fed areas** (Bundelkhand drought), and **dense cities (Kanpur, Lucknow heat)**, so it needs strong adaptation despite moderate per capita emissions.
+- **Tipping points (AR6 warning)**: Amazon dieback, ice sheet instability, and AMOC slowdown may become **irreversible** beyond certain thresholds, which underscores the urgency of staying within the carbon budget.
+- **CBDR-RC principle**: Under **Common But Differentiated Responsibilities and Respective Capabilities**, developed countries bear historical emission responsibility while developing countries need development space. This is India's negotiating stance at UNFCCC.
+- **1.5°C vs 2°C Paris goals**: Every fraction of a degree increases the risk of extreme heat, floods, and species loss. The IPCC Special Report on 1.5°C (2018) helped inform stricter Paris ambition.
 
 > **Exam note:** "Climate change and global warming are identical" = **FALSE** — warming is one key variable within broader climate system change.
 
@@ -138,7 +138,7 @@ IPCC REPORTS:
 
 - UNFCCC definition includes **human alteration of atmosphere**
 - IPCC AR6: **human dominance** since mid-20th century
-- Climate = **long-term**; weather = short-term
+- Climate describes **long-term** patterns, whereas weather describes short-term conditions.
 - India = **highly vulnerable** despite lower per capita emissions
 - CBDR-RC = India's UNFCCC equity argument
 - Paris goals: **1.5°C** (aspirational) and **2°C** limit
@@ -173,23 +173,23 @@ IPCC REPORTS:
 
 ### Atmospheric Studies — How It Works
 
-- **Atmosphere composition (dry air approx.)**: **N₂ ~78%**, **O₂ ~21%**, **Ar ~0.9%** — **GHGs are trace gases** (CO₂ ~420+ ppm) but disproportionately control thermal balance.
-- **Vertical structure**: **Troposphere** (weather, warming trend), **Stratosphere** (ozone layer; cooling trend from GHG + ozone recovery dynamics), **Mesosphere**, **Thermosphere**, **Exosphere** — GHG fingerprint: **troposphere warms, stratosphere cools**.
-- **Greenhouse mechanism (atmospheric physics)**: Solar **shortwave** passes through; Earth emits **longwave infrared**; GHG molecules absorb and re-emit IR → net energy retention → radiative forcing.
-- **Mauna Loa CO₂ record (Keeling Curve)**: First continuous high-precision CO₂ monitoring — crossed **400 ppm (2013)**, **420+ ppm (2020s)** — iconic evidence of anthropogenic rise from ~280 ppm pre-industrial.
-- **Aerosols and forcing**: **Sulphate aerosols** (from coal, volcanoes) produce **negative forcing** (cooling) — partially mask GHG warming — air pollution control may **unmask** warming.
-- **Water vapour**: Most abundant GHG by concentration — **feedback**, not primary driver (short atmospheric lifetime; concentration set by temperature via Clausius-Clapeyron).
-- **Atmospheric circulation links**: **Hadley, Ferrel, Polar cells**; **monsoon systems**; **jet streams** — climate change shifts circulation → altered rainfall (e.g., western disturbances, UP winter rain variability).
-- **IMD / IITM research**: India Meteorological Department monitors **surface temperature, rainfall, cyclones** — all-India mean temperature rose ~**0.7°C since 1901**.
-- **Atmospheric CO₂ measurement networks**: NOAA Earth System Research Laboratory, WMO Global Atmosphere Watch — complement Mauna Loa with global flask networks.
+- **Atmosphere composition (dry air approx.)**: Dry air is roughly **N₂ ~78%**, **O₂ ~21%**, and **Ar ~0.9%**. **GHGs are trace gases** (CO₂ ~420+ ppm) but disproportionately control thermal balance.
+- **Vertical structure**: The **Troposphere** holds weather and shows a warming trend, the **Stratosphere** holds the ozone layer and shows a cooling trend from GHG and ozone recovery dynamics, and **Mesosphere**, **Thermosphere**, and **Exosphere** sit above. The GHG fingerprint is that the **troposphere warms while the stratosphere cools**.
+- **Greenhouse mechanism (atmospheric physics)**: Solar **shortwave** radiation passes through the atmosphere, Earth emits **longwave infrared**, and GHG molecules absorb and re-emit IR. This produces net energy retention and radiative forcing.
+- **Mauna Loa CO₂ record (Keeling Curve)**: Mauna Loa provides the first continuous high-precision CO₂ monitoring record. It crossed **400 ppm (2013)** and **420+ ppm (2020s)**, giving iconic evidence of the anthropogenic rise from ~280 ppm pre-industrial.
+- **Aerosols and forcing**: **Sulphate aerosols** from coal and volcanoes produce **negative forcing** (cooling) and partially mask GHG warming. Stricter air pollution control may therefore **unmask** additional warming.
+- **Water vapour**: Water vapour is the most abundant GHG by concentration and acts as a **feedback**, not the primary driver, because of its short atmospheric lifetime and because concentration follows temperature via Clausius-Clapeyron.
+- **Atmospheric circulation links**: **Hadley, Ferrel, and Polar cells**, **monsoon systems**, and **jet streams** connect the climate system. Climate change shifts circulation and can alter rainfall, as seen in western disturbances and UP winter rain variability.
+- **IMD / IITM research**: The India Meteorological Department monitors **surface temperature, rainfall, and cyclones**. All-India mean temperature has risen ~**0.7°C since 1901**.
+- **Atmospheric CO₂ measurement networks**: NOAA Earth System Research Laboratory and WMO Global Atmosphere Watch complement Mauna Loa with global flask networks.
 
 > **Exam note:** Water vapour is a **feedback GHG**, not the primary anthropogenic emission driver — exams trap "water vapour causes most human warming" = misleading without feedback context.
 
 ### Exam Facts (raata)
 
 - Keeling Curve = **Mauna Loa, 1958**
-- Pre-industrial CO₂ ≈ **280 ppm**; now **420+ ppm**
-- Troposphere **warms**; stratosphere **cools** (GHG signature)
+- Pre-industrial CO₂ was about **280 ppm**, and concentrations are now **420+ ppm**.
+- The troposphere **warms** while the stratosphere **cools**, which is the GHG signature.
 - Radiative forcing unit = **W/m²**
 - N₂ + O₂ = not GHGs (no dipole IR absorption)
 - IMD: India ~**0.7°C** warming since 1901
@@ -224,14 +224,14 @@ IPCC REPORTS:
 
 ### Global Climate Monitoring — How It Works
 
-- **WMO (World Meteorological Organization)** coordinates global meteorological data — publishes **State of the Global Climate** report annually — tracks **hottest years**, **GHG concentrations**, **sea-level rise**, **Arctic sea ice minimum**.
-- **NASA GISS / NOAA NCEI** maintain global surface temperature datasets — **2023–2024 among warmest on record** — based on station + ocean buoy networks.
-- **Copernicus Climate Change Service (C3S, EU)** provides reanalysis and real-time monitoring — European complement to US datasets.
-- **Global Carbon Project (GCP)** publishes **Global Carbon Budget** annually — fossil fuel emissions, land-use change, ocean/land sink uptake, atmospheric growth — science backbone for carbon budget questions.
-- **Emissions Gap Report — UNEP** (NOT IPCC): Measures shortfall between **summed NDC pledges** and **1.5°C/2°C pathways** — **UPPCS 2024 Q6** maps Emissions Gap Report → **UNEP (2)**.
-- **IPCC does not publish Emissions Gap Report** — IPCC publishes **Assessment Reports (AR)** — trap: confusing UNEP operational report with IPCC science cycle.
-- **Ocean monitoring**: Argo float network measures **ocean heat content** — ~**90% of excess energy** stored in oceans — explains slower surface warming vs full Earth energy imbalance.
-- **Cryosphere monitoring**: NSIDC (US) tracks **Arctic sea ice extent**; glacier mass balance networks — Himalayan glacial melt monitored by **WGMS, ISRO, ICIMOD**.
+- **WMO (World Meteorological Organization)** coordinates global meteorological data and publishes the **State of the Global Climate** report annually. It tracks **hottest years**, **GHG concentrations**, **sea-level rise**, and **Arctic sea ice minimum**.
+- **NASA GISS / NOAA NCEI** maintain global surface temperature datasets. **2023–2024 ranked among the warmest on record**, based on station and ocean buoy networks.
+- **Copernicus Climate Change Service (C3S, EU)** provides reanalysis and real-time monitoring as a European complement to US datasets.
+- **Global Carbon Project (GCP)** publishes the **Global Carbon Budget** annually, covering fossil fuel emissions, land-use change, ocean/land sink uptake, and atmospheric growth. It is the science backbone for carbon budget questions.
+- **Emissions Gap Report (UNEP, NOT IPCC)**: This report measures the shortfall between **summed NDC pledges** and **1.5°C/2°C pathways**. **UPPCS 2024 Q6** maps the Emissions Gap Report to **UNEP (2)**.
+- **IPCC does not publish the Emissions Gap Report**. IPCC publishes **Assessment Reports (AR)**, so confusing UNEP's operational report with the IPCC science cycle is a common trap.
+- **Ocean monitoring**: The Argo float network measures **ocean heat content**. About **90% of excess energy** is stored in oceans, which helps explain slower surface warming relative to the full Earth energy imbalance.
+- **Cryosphere monitoring**: NSIDC (US) tracks **Arctic sea ice extent**, while glacier mass balance networks monitor Himalayan glacial melt through **WGMS, ISRO, and ICIMOD**.
 - **India agencies**: **IMD** (weather/climate), **MoES/INCOIS** (ocean), **ISRO** (remote sensing), **MoEFCC** (GHG inventory national communications to UNFCCC).
 
 > **Exam note:** **Emissions Gap Report = UNEP** (2024 Q6). **IPCC = Assessment Reports**, not Emissions Gap.
@@ -253,7 +253,7 @@ IPCC REPORTS:
 - WMO = State of Global Climate
 - Global Carbon Project = Carbon Budget
 - IPCC AR6 Synthesis = **2023**
-- ~**90%** excess heat → oceans
+- About **90%** of excess heat is absorbed by the oceans.
 - 2024 Q6 answer = **A (3 1 4 2)** for HDR/IMF/UNCTAD/UNEP match
 
 ### PYQs — Global Climate Monitoring
@@ -286,15 +286,15 @@ IPCC REPORTS:
 
 ### Greenhouse Gas Emissions — How It Works
 
-- **Kyoto Protocol listed six gases**: **CO₂, CH₄, N₂O, HFCs, PFCs, SF₆** — Montreal Protocol later added **HFCs** phase-down via Kigali Amendment (overlap Topic 36/37).
-- **CO₂ dominates total emissions (~75%+ of global GHG from human activity)** — primarily **fossil fuel combustion** and **cement** — longest atmospheric residence among major GHGs (centuries).
-- **CH₄ (methane)** — **GWP-100 ~28** — shorter lifetime (~12 years) but high near-term forcing — sources: **rice paddies, livestock enteric fermentation, landfills, natural gas leaks, coal mines** — India among top CH₄ emitters (agriculture share).
-- **N₂O (nitrous oxide)** — **GWP-100 ~265** — sources: **fertilizer application**, **industrial processes**, **biomass burning** — UP Gangetic agriculture relevant.
-- **Fluorinated gases (F-gases)** — very high GWP (thousands) — **refrigerants, AC (HFCs)** — small volume but high impact per kg.
-- **India's emission profile**: **~7% of global CO₂ emissions** (2020s) — **low per capita** (~2 tCO₂/person vs US ~15) — but **large absolute total** due to population and coal-heavy grid.
-- **Sectoral global shares (approx.)**: **Energy/electricity ~25%**, **Industry ~21%**, **AFOLU ~24%**, **Transport ~14%**, **Buildings ~6%**, **Other/waste ~10%** — figures vary by year/method — exams test **energy + industry = largest fossil CO₂ block**.
-- **LULUCF emissions**: Deforestation = **source**; afforestation = **sink** — India reports net LULUCF sink in national communications (forest cover gains).
-- **Measurement**: **GHG inventories** submitted to UNFCCC under **National Communications** and **Biennial Update Reports (BURs)** — MoEFCC nodal for India.
+- **Kyoto Protocol listed six gases**: **CO₂, CH₄, N₂O, HFCs, PFCs, and SF₆**. The Montreal Protocol later added an **HFCs** phase-down through the Kigali Amendment (overlap with Topics 36/37).
+- **CO₂ dominates total emissions (~75%+ of global GHG from human activity)**. It comes mainly from **fossil fuel combustion** and **cement**, and it has the longest atmospheric residence among major GHGs (centuries).
+- **CH₄ (methane)** has **GWP-100 ~28**, a shorter lifetime (~12 years), but high near-term forcing. Major sources include **rice paddies, livestock enteric fermentation, landfills, natural gas leaks, and coal mines**. India ranks among the top CH₄ emitters, largely through agriculture.
+- **N₂O (nitrous oxide)** has **GWP-100 ~265** and comes from **fertilizer application**, **industrial processes**, and **biomass burning**, making UP Gangetic agriculture especially relevant.
+- **Fluorinated gases (F-gases)** have very high GWP (thousands) and are used in **refrigerants and AC (HFCs)**. They are emitted in small volume but have high impact per kg.
+- **India's emission profile**: India accounts for **~7% of global CO₂ emissions** (2020s) with **low per capita** emissions (~2 tCO₂/person vs US ~15), but its **large absolute total** reflects population size and a coal-heavy grid.
+- **Sectoral global shares (approx.)**: **Energy/electricity ~25%**, **Industry ~21%**, **AFOLU ~24%**, **Transport ~14%**, **Buildings ~6%**, and **Other/waste ~10%**. Figures vary by year and method, but exams often test that **energy + industry form the largest fossil CO₂ block**.
+- **LULUCF emissions**: Deforestation acts as a **source**, while afforestation acts as a **sink**. India reports a net LULUCF sink in national communications because of forest cover gains.
+- **Measurement**: **GHG inventories** are submitted to UNFCCC under **National Communications** and **Biennial Update Reports (BURs)**, with MoEFCC as India's nodal agency.
 
 > **Exam note:** **Carbon monoxide (CO)** is air pollutant, **not** a major GHG in Kyoto basket — 2025 biogas Q lists CO₂ + CH₄ as constituents, not CO as GHG trap.
 
@@ -311,8 +311,8 @@ IPCC REPORTS:
 ### Exam Facts (raata)
 
 - CO₂ = largest emission share globally
-- CH₄ GWP-100 ≈ **28**; N₂O ≈ **265**
-- India ≈ **7%** global CO₂; low per capita
+- CH₄ has GWP-100 ≈ **28**, while N₂O has GWP-100 ≈ **265**.
+- India accounts for ≈ **7%** of global CO₂ with low per capita emissions.
 - Kyoto 6-gas basket
 - CO₂e = common accounting unit
 - MoEFCC = India GHG inventory nodal
@@ -346,15 +346,15 @@ IPCC REPORTS:
 
 ### Sources of Greenhouse Gases — How It Works
 
-- **Energy sector (largest CO₂ block globally)**: **Coal-fired power plants** (India's grid backbone), **oil refineries**, **natural gas** — UP: **Obra, Anpara, Harduaganj (coal)**; NCR gas thermal — mitigation = renewables + efficiency.
-- **Industry**: **Cement** (limestone calcination releases CO₂), **steel**, **chemicals**, **brick kilns (UP)** — process emissions beyond fuel combustion.
-- **Transport**: **Petrol/diesel vehicles**, **aviation**, **shipping** — NCR/UP cities: **Kanpur, Lucknow, Ghaziabad** vehicle growth — EV policy mitigation link.
-- **Agriculture — CH₄**: **Enteric fermentation** (cattle/buffalo — UP dairy belt), **flooded rice paddies** (eastern UP), **manure management**.
-- **Agriculture — N₂O**: **Synthetic fertilizer** (urea overuse in wheat-rice), **crop residue burning** (Punjab-Haryana-UP border stubble issue — also aerosol pollution).
-- **Waste**: **Landfill methane** (Lucknow, Kanpur MSW), **wastewater treatment**, **open dumping** — waste-to-energy mitigation.
-- **Land use / forests**: **Deforestation = source**; **afforestation/reforestation = sink** — India claims **net forest carbon sink** through Green India Mission, CAMPA funds.
-- **Buildings**: **Heating/cooling electricity**, **refrigerant leakage (HFCs)** — urban UP cooling demand rising with heat waves.
-- **Fossil fuel extraction**: **Coal mine CH₄**, **oil/gas flaring**, **pipeline leaks** — fugitive emissions often underreported.
+- **Energy sector (largest CO₂ block globally)**: Major sources include **coal-fired power plants** (India's grid backbone), **oil refineries**, and **natural gas**. In UP, examples include **Obra, Anpara, and Harduaganj (coal)** plus NCR gas thermal plants. Mitigation relies on renewables and efficiency.
+- **Industry**: **Cement** (limestone calcination releases CO₂), **steel**, **chemicals**, and **brick kilns (UP)** produce process emissions beyond fuel combustion.
+- **Transport**: **Petrol/diesel vehicles**, **aviation**, and **shipping** drive emissions, with **Kanpur, Lucknow, and Ghaziabad** showing rapid vehicle growth. EV policy is a key mitigation tool.
+- **Agriculture (CH₄)**: **Enteric fermentation** from cattle and buffalo in the UP dairy belt, **flooded rice paddies** in eastern UP, and **manure management** are major methane sources.
+- **Agriculture (N₂O)**: **Synthetic fertilizer** (urea overuse in wheat-rice systems) and **crop residue burning** on the Punjab-Haryana-UP border release N₂O and also add aerosol pollution.
+- **Waste**: **Landfill methane** (Lucknow, Kanpur MSW), **wastewater treatment**, and **open dumping** can be reduced through waste-to-energy mitigation.
+- **Land use / forests**: **Deforestation is a source**, while **afforestation/reforestation is a sink**. India claims a **net forest carbon sink** through the Green India Mission and CAMPA funds.
+- **Buildings**: **Heating/cooling electricity** and **refrigerant leakage (HFCs)** matter more as urban UP cooling demand rises with heat waves.
+- **Fossil fuel extraction**: **Coal mine CH₄**, **oil/gas flaring**, and **pipeline leaks** are fugitive emissions that are often underreported.
 
 > **Exam note:** **Livestock = CH₄**, not CO₂ directly — "agriculture emissions are only CO₂" = **FALSE**. Stubble burning adds **N₂O, CH₄, aerosols**.
 
@@ -407,14 +407,14 @@ IPCC REPORTS:
 
 ### Greenhouse Effect — How It Works
 
-- **Solar radiation** (visible/UV) passes through atmosphere and warms Earth's surface — surface emits **longwave infrared (IR)** radiation upward.
-- **GHG molecules** (CO₂, CH₄, N₂O, H₂O vapour) absorb specific IR wavelengths and **re-emit** energy in all directions — including back toward surface → **net energy retention**.
-- **Natural GH effect is essential for life** — without it Earth would be frozen — trap: "greenhouse effect is always harmful" = **FALSE** — **enhancement** is the problem.
-- **Enhanced effect mechanism**: Pre-industrial CO₂ ~**280 ppm** → **420+ ppm** today → increased absorption of outgoing IR → **radiative forcing +2.0 W/m²** (CO₂ alone, AR6 approx.) → surface warming.
-- **Venus comparison (exam analogy)**: Extreme **runaway greenhouse** on Venus from dense CO₂ atmosphere — illustrates physics; not directly applicable to Earth timeline but shows GHG–temperature link.
-- **Ozone (stratosphere)** absorbs UV — different role from GHG IR trapping — do not confuse **ozone hole** (cooling stratosphere chemistry) with **greenhouse warming** (troposphere).
-- **Cloud feedback**: Low clouds may cool; high clouds may warm — **cloud feedback uncertainty** remains in climate sensitivity estimates — IPCC AR6 equilibrium climate sensitivity **2.5–4°C** per CO₂ doubling.
-- **Albedo interaction**: More GHG warming → less snow/ice → lower albedo → **more absorption** — positive feedback amplifying initial forcing.
+- **Solar radiation** (visible/UV) passes through the atmosphere and warms Earth's surface, which then emits **longwave infrared (IR)** radiation upward.
+- **GHG molecules** (CO₂, CH₄, N₂O, H₂O vapour) absorb specific IR wavelengths and **re-emit** energy in all directions, including back toward the surface. This produces **net energy retention**.
+- **Natural GH effect is essential for life**. Without it Earth would be frozen, so the trap statement "greenhouse effect is always harmful" is **FALSE**. **Enhancement** from human emissions is the problem.
+- **Enhanced effect mechanism**: Pre-industrial CO₂ of ~**280 ppm** has risen to **420+ ppm** today, increasing absorption of outgoing IR and producing **radiative forcing +2.0 W/m²** (CO₂ alone, AR6 approx.), which drives surface warming.
+- **Venus comparison (exam analogy)**: Venus shows an extreme **runaway greenhouse** from a dense CO₂ atmosphere. It illustrates the physics well, though Earth's timeline differs.
+- **Ozone (stratosphere)** absorbs UV and plays a different role from GHG IR trapping. Do not confuse the **ozone hole** (stratosphere chemistry) with **greenhouse warming** (troposphere).
+- **Cloud feedback**: Low clouds may cool and high clouds may warm, so **cloud feedback uncertainty** remains in climate sensitivity estimates. IPCC AR6 gives equilibrium climate sensitivity of **2.5–4°C** per CO₂ doubling.
+- **Albedo interaction**: More GHG warming reduces snow and ice, lowers albedo, and causes **more absorption**, forming a positive feedback that amplifies initial forcing.
 
 > **Exam note:** Natural GH effect = **beneficial**. **Enhanced** GH effect from fossil fuel emissions = climate change driver.
 
@@ -455,14 +455,14 @@ IPCC REPORTS:
 
 ### Global Warming — How It Works
 
-- **Observed warming trend**: Each decade since 1980s warmer than previous — **2023–2024** among hottest years in instrumental record (~**1.2°C+** temporary spike includes El Niño boost).
-- **India-specific warming**: IMD — **~0.7°C** mean temperature rise since **1901** — **faster warming in arid/semi-arid** regions including parts of **Bundelkhand** — monsoon variability increasing.
-- **Ocean heat content rise**: Stores majority of excess energy — causes **thermal expansion** → **sea-level rise** — threatens Indian coastal cities (Mumbai, Chennai; indirect UP impact via migration/economy).
-- **Arctic amplification**: Polar regions warm **2–3× faster** than global mean — ice melt, permafrost feedback — Himalayan **Third Pole** glaciers retreat (Ganga-Yamuna headwaters).
-- **Extreme event linkage**: AR6 — **heatwaves, heavy precipitation, droughts** made more likely/intense by warming — **UP heat action plans** (Lucknow, Varanasi) = adaptation response.
-- **Pause/m slowdown myths**: Short-term variability (La Niña, aerosols) does not negate **long-term trend** — "global warming stopped" statements = **FALSE** in multi-statement format.
-- **Black carbon (soot)**: Short-lived climate forcer — **Himalayan glacier melt accelerator** — brick kilns, biomass burning in Indo-Gangetic Plain including UP — mitigation co-benefit with air quality (NCAP).
-- **Urban heat island (UHI)**: Cities **2–5°C warmer** than rural — Kanpur, Lucknow, Noida amplify heat stress **on top of** global warming baseline.
+- **Observed warming trend**: Each decade since the 1980s has been warmer than the previous one. **2023–2024** ranked among the hottest years in the instrumental record (~**1.2°C+** temporary spike includes an El Niño boost).
+- **India-specific warming**: IMD records a **~0.7°C** mean temperature rise since **1901**, with **faster warming in arid/semi-arid** regions including parts of **Bundelkhand** and increasing monsoon variability.
+- **Ocean heat content rise**: Oceans store the majority of excess energy, causing **thermal expansion** and **sea-level rise**. This threatens Indian coastal cities such as Mumbai and Chennai, with indirect UP impact through migration and economy.
+- **Arctic amplification**: Polar regions warm **2–3× faster** than the global mean through ice melt and permafrost feedback. Himalayan **Third Pole** glaciers are retreating at Ganga-Yamuna headwaters.
+- **Extreme event linkage**: AR6 finds that **heatwaves, heavy precipitation, and droughts** are made more likely or intense by warming. **UP heat action plans** in Lucknow and Varanasi are an adaptation response.
+- **Pause/slowdown myths**: Short-term variability from La Niña and aerosols does not negate the **long-term trend**. Statements that "global warming stopped" are **FALSE** in multi-statement format.
+- **Black carbon (soot)**: Black carbon is a short-lived climate forcer and a **Himalayan glacier melt accelerator** from brick kilns and biomass burning in the Indo-Gangetic Plain including UP. Cutting it brings mitigation co-benefits with air quality (NCAP).
+- **Urban heat island (UHI)**: Cities are **2–5°C warmer** than rural areas, so Kanpur, Lucknow, and Noida amplify heat stress **on top of** the global warming baseline.
 
 > **Exam note:** Global warming ≈ **1.1°C** (IPCC AR6 global); India ≈ **0.7°C** (IMD) — do not swap numbers.
 
@@ -505,15 +505,15 @@ IPCC REPORTS:
 
 ### Carbon Cycle — How It Works
 
-- **Atmospheric pool**: ~**850 GtC** (gigatonnes carbon) in CO₂ — small vs ocean (~**38,000 GtC**) and lithosphere/fossil reserves — but atmosphere-ocean exchange rate makes atmosphere responsive.
-- **Photosynthesis (sink pathway)**: Plants fix CO₂ → organic carbon — **forests, crops, phytoplankton** — UP Terai forests and nationwide Green India Mission enhance this leg.
-- **Respiration & decomposition (source pathway)**: Plants, animals, microbes release CO₂ — **soil respiration** in agricultural Gangetic plain is significant seasonal flux.
-- **Ocean uptake**: **Solubility pump** (CO₂ dissolves) + **biological pump** (plankton sink organic carbon) — oceans absorbed ~**25% of anthropogenic CO₂** emissions historically — also causes **ocean acidification**.
-- **Fossil fuel disruption**: Burning coal/oil/gas transfers carbon from **slow lithosphere pool** to atmosphere in **decades** — rate exceeds natural weathering return — primary carbon cycle imbalance.
-- **Deforestation**: Removes photosynthetic sink + releases stored carbon from biomass/soil — **LULUCF emissions** in national inventories.
-- **Carbonate chemistry**: Shell formation by marine organisms — long-term sequestration in sediments — **slow cycle** return via subduction/volcanism over geological time.
-- **Permafrost thaw risk**: Arctic/Himalayan permafrost stores organic carbon — warming may release **CH₄ and CO₂** — potential positive feedback (carbon-climate feedback loop).
-- **Indian monsoon forests & mangroves**: **Blue carbon** (coastal mangroves, seagrass) — fast-cycle sinks with high areal efficiency — Sundarbans not in UP but national sink contribution.
+- **Atmospheric pool**: The atmosphere holds ~**850 GtC** (gigatonnes carbon) in CO₂, which is small compared with the ocean (~**38,000 GtC**) and lithosphere/fossil reserves, but the atmosphere-ocean exchange rate makes it highly responsive.
+- **Photosynthesis (sink pathway)**: Plants fix CO₂ into organic carbon through **forests, crops, and phytoplankton**. UP Terai forests and the nationwide Green India Mission strengthen this pathway.
+- **Respiration & decomposition (source pathway)**: Plants, animals, and microbes release CO₂, and **soil respiration** in the agricultural Gangetic plain is a significant seasonal flux.
+- **Ocean uptake**: The **solubility pump** (CO₂ dissolves) and **biological pump** (plankton sink organic carbon) mean oceans have absorbed ~**25% of anthropogenic CO₂** emissions historically, while also causing **ocean acidification**.
+- **Fossil fuel disruption**: Burning coal, oil, and gas transfers carbon from the **slow lithosphere pool** to the atmosphere in **decades** at a rate that exceeds natural weathering return. This is the primary carbon cycle imbalance.
+- **Deforestation**: Deforestation removes the photosynthetic sink and releases stored carbon from biomass and soil, appearing as **LULUCF emissions** in national inventories.
+- **Carbonate chemistry**: Marine organisms form shells and sequester carbon long term in sediments, with **slow cycle** return through subduction and volcanism over geological time.
+- **Permafrost thaw risk**: Arctic and Himalayan permafrost store organic carbon, and warming may release **CH₄ and CO₂**, creating a potential positive feedback (carbon-climate feedback loop).
+- **Indian monsoon forests & mangroves**: **Blue carbon** ecosystems such as coastal mangroves and seagrass are fast-cycle sinks with high areal efficiency. Sundarbans is not in UP but contributes nationally.
 
 > **Exam note:** Fossil fuel burning moves carbon from **slow → fast cycle** too quickly for natural sinks to absorb — causes atmospheric CO₂ rise.
 
@@ -528,7 +528,7 @@ IPCC REPORTS:
 
 ### Exam Facts (raata)
 
-- Fast cycle = years–decades; slow = geological
+- The fast carbon cycle operates over years to decades, while the slow cycle operates over geological timescales.
 - Photosynthesis = key land sink
 - Ocean absorbs ~**25%** of human CO₂
 - Fossil fuels = slow-pool carbon released fast
@@ -565,14 +565,14 @@ IPCC REPORTS:
 
 ### Carbon Budget — How It Works
 
-- **Temperature linked to cumulative CO₂**: IPCC AR6 — global warming is closely proportional to **total cumulative CO₂ emissions** — not just annual rate — hence **carbon budget** concept central to Paris Agreement.
-- **1.5°C remaining budget (approx., AR6)**: Roughly **400–500 GtCO₂** from **2020** for **50% probability** of staying below 1.5°C — at ~**40 GtCO₂/year** global emissions → **~10 years** at current rates without drastic cuts — drives urgency.
-- **2°C budget**: Larger remaining allowance — **~1,150 GtCO₂** (2020 start, 50% probability) — still finite.
-- **Global Carbon Project annual budget**: Reports **fossil fuel emissions + land-use change = sources**; **ocean + land = sinks**; **atmospheric growth = residual** — if sources > sinks + growth, imbalance confirmed.
-- **India's fair share debate**: CBDR-RC — India argues developed nations consumed **historical budget** — India's **2070 net zero** allows development space while **2022 NDC** shows near-term action.
-- **Budget overshoot scenarios**: Temporary exceedance then **net negative emissions** (DACCS, BECCS) to return below threshold — controversial due to **sustainability and equity** concerns.
-- **Non-CO₂ gases**: Budget usually expressed in **CO₂** — CH₄/N₂O handled via **CO₂e pathways** or separate metrics — exam trap: "carbon budget includes only methane" = context-dependent false.
-- **Annual vs cumulative trap**: Cutting annual emissions to zero eventually required; **cumulative total** determines temperature — late action = smaller remaining budget.
+- **Temperature linked to cumulative CO₂**: IPCC AR6 shows that global warming is closely proportional to **total cumulative CO₂ emissions**, not just the annual rate. That is why the **carbon budget** concept is central to the Paris Agreement.
+- **1.5°C remaining budget (approx., AR6)**: Roughly **400–500 GtCO₂** remains from **2020** for a **50% probability** of staying below 1.5°C. At ~**40 GtCO₂/year** global emissions, that gives **~10 years** at current rates without drastic cuts, which drives urgency.
+- **2°C budget**: The remaining allowance is larger at **~1,150 GtCO₂** (2020 start, 50% probability), but it is still finite.
+- **Global Carbon Project annual budget**: The GCP reports **fossil fuel emissions + land-use change = sources**, **ocean + land = sinks**, and **atmospheric growth = residual**. If sources exceed sinks plus growth, the imbalance is confirmed.
+- **India's fair share debate**: Under CBDR-RC, India argues developed nations consumed the **historical budget**. India's **2070 net zero** pledge allows development space while the **2022 NDC** shows near-term action.
+- **Budget overshoot scenarios**: Temporary exceedance followed by **net negative emissions** (DACCS, BECCS) could return warming below threshold, but this remains controversial because of **sustainability and equity** concerns.
+- **Non-CO₂ gases**: Budgets are usually expressed in **CO₂**, while CH₄/N₂O are handled via **CO₂e pathways** or separate metrics. The trap "carbon budget includes only methane" is context-dependent and often false.
+- **Annual vs cumulative trap**: Annual emissions must eventually fall to zero, but the **cumulative total** determines temperature. Late action leaves a smaller remaining budget.
 
 > **Exam note:** Carbon budget = **cumulative CO₂ limit** for temperature target — Global Carbon Project publishes it annually — distinct from **Emissions Gap Report (UNEP)**.
 
@@ -615,14 +615,14 @@ IPCC REPORTS:
 
 ### Carbon Sink — How It Works
 
-- **Forest sinks**: Trees sequester carbon in **biomass + soil** — India's **forest cover ~24.6% (ISFR 2023)** — Green India Mission, compensatory afforestation (CAMPA) — UP Terai and Shivalik plantation drives.
-- **Ocean sink**: **Dissolved CO₂** and biological pump — absorbs ~**25%** of anthropogenic CO₂ annually — trade-off: **ocean acidification** harms coral/shellfish.
-- **Soil carbon**: **Conservation agriculture**, **biochar**, **organic farming** — Gangetic plain soil organic carbon depletion from intensive tillage — restoration = sink enhancement.
-- **Blue carbon**: **Mangroves, seagrass, salt marshes** — high per-hectare sequestration — India: Sundarbans, Gulf of Mannar — not UP (landlocked).
-- **Technological sinks**: **CCS (Carbon Capture and Storage)**, **DACCS (Direct Air Capture)**, **BECCS** — engineered removal — limited deployment in India so far — future net zero pathway option.
-- **Urban sinks**: **Urban forestry**, **green roofs**, **wetland restoration** — Lucknow, Noida municipal tree plantation — small but locally significant.
-- **Sink saturation risk**: Forests may saturate; **drought/fire** can flip sink to source — climate feedback on Amazon/Himalayan forests monitored.
-- **NDC accounting**: India pledges **additional 2.5–3 GtCO₂e sink by 2030** — not total forest stock — exams trap swapping **additional vs total**.
+- **Forest sinks**: Trees sequester carbon in **biomass and soil**. India's **forest cover is ~24.6% (ISFR 2023)**, supported by the Green India Mission and compensatory afforestation (CAMPA), including UP Terai and Shivalik plantation drives.
+- **Ocean sink**: **Dissolved CO₂** and the biological pump allow oceans to absorb ~**25%** of anthropogenic CO₂ annually, but the trade-off is **ocean acidification**, which harms coral and shellfish.
+- **Soil carbon**: **Conservation agriculture**, **biochar**, and **organic farming** can rebuild soil carbon after depletion from intensive tillage in the Gangetic plain.
+- **Blue carbon**: **Mangroves, seagrass, and salt marshes** offer high per-hectare sequestration. In India, examples include Sundarbans and Gulf of Mannar, though not UP (landlocked).
+- **Technological sinks**: **CCS (Carbon Capture and Storage)**, **DACCS (Direct Air Capture)**, and **BECCS** provide engineered removal with limited deployment in India so far, but they remain future net zero pathway options.
+- **Urban sinks**: **Urban forestry**, **green roofs**, and **wetland restoration** through Lucknow and Noida municipal tree plantation are small but locally significant.
+- **Sink saturation risk**: Forests may saturate, and **drought/fire** can flip a sink into a source. Climate feedback on Amazon and Himalayan forests is closely monitored.
+- **NDC accounting**: India pledges an **additional 2.5–3 GtCO₂e sink by 2030**, not total forest stock. Exams often trap students by swapping **additional vs total**.
 
 > **Exam note:** India NDC = **additional** 2.5–3 GtCO₂e forest sink by 2030 — not "zero emissions from forests alone".
 
@@ -674,14 +674,14 @@ IPCC REPORTS:
 
 ### Carbon Credit — How It Works
 
-- **Unit definition**: **1 carbon credit = 1 tCO₂e** — can bundle CO₂ or other GHGs converted via **GWP** — foundational for trading markets.
-- **Kyoto CDM (Clean Development Mechanism)**: Developed countries funded projects in developing nations (India: **wind, solar, waste-to-energy**) → issued **CERs** — foundational carbon credit architecture — **2024 Q35 Kyoto link**.
-- **Voluntary carbon market (VCM)**: Corporates buy credits for **ESG/net-zero claims** — nature-based credits (forestry, mangrove) vs renewable energy credits — quality/double-counting concerns.
-- **Removal vs avoidance credits**: **Avoidance** = would-have-emitted baseline; **Removal** = direct air/forest sequestration — removal harder to verify but needed for net zero residual emissions.
-- **India Green Credit Programme (2023)**: MoEFCC — tradable **green credits** for tree plantation, water conservation, sustainable agriculture — **broader than CO₂e** — major exam trap vs carbon credit.
-- **Double counting trap**: Same reduction claimed by **buyer country and seller country** — Paris Article 6 rules attempt resolution via **corresponding adjustments**.
-- **Nature-based credits**: Forest conservation (REDD+), mangrove restoration — India coastal states; UP tree plantation may generate **green credits** under 2023 rules, not always international CERs.
-- **Verification standards**: **Verra (VCS), Gold Standard** — third-party audit required — "any project automatically gets credits" = false.
+- **Unit definition**: **1 carbon credit equals 1 tCO₂e** and can bundle CO₂ or other GHGs converted via **GWP**. This unit is foundational for trading markets.
+- **Kyoto CDM (Clean Development Mechanism)**: Developed countries funded projects in developing nations (India: **wind, solar, waste-to-energy**) that issued **CERs**. This created the foundational carbon credit architecture tested in **2024 Q35 Kyoto link**.
+- **Voluntary carbon market (VCM)**: Corporates buy credits for **ESG/net-zero claims**, including nature-based credits (forestry, mangrove) and renewable energy credits, though quality and double-counting remain concerns.
+- **Removal vs avoidance credits**: **Avoidance** credits compare against a would-have-emitted baseline, while **Removal** credits represent direct air or forest sequestration. Removal is harder to verify but needed for net zero residual emissions.
+- **India Green Credit Programme (2023)**: MoEFCC issues tradable **green credits** for tree plantation, water conservation, and sustainable agriculture. These are **broader than CO₂e** and are a major exam trap versus carbon credit.
+- **Double counting trap**: The same reduction may be claimed by both **buyer country and seller country**. Paris Article 6 rules attempt resolution through **corresponding adjustments**.
+- **Nature-based credits**: Forest conservation (REDD+) and mangrove restoration occur in India's coastal states. UP tree plantation may generate **green credits** under 2023 rules, not always international CERs.
+- **Verification standards**: **Verra (VCS)** and **Gold Standard** require third-party audit, so "any project automatically gets credits" is false.
 
 > **Exam note:** **Green Credit Programme 2023 ≠ carbon credit** — green credit = wider eco-actions; carbon credit = **1 tCO₂e unit**.
 
@@ -734,14 +734,14 @@ IPCC REPORTS:
 
 ### Carbon Trading — How It Works
 
-- **Credit vs trading distinction**: **Credit** = the **unit** (1 tCO₂e); **Trading** = the **market exchange** of credits/allowances — exams test both separately.
-- **EU ETS (Emissions Trading System)**: World's largest carbon market — **cap-and-trade** for EU power/industry — price signal for abatement — model reference for India CCTS.
-- **Kyoto flexible mechanisms**: **CDM, JI, Emissions Trading** among Annex I — origin of international carbon trading architecture — **2024 Q35** tests Kyoto as climate mitigation treaty enabling trading.
-- **India CCTS (2023)**: Notified by **Ministry of Power** — **Bureau of Energy Efficiency (BEE)** administers — obligated entities meet GHG targets using **tradable carbon credit certificates**.
-- **PAT scheme (Perform, Achieve, Trade)**: Since **2012** — trades **Energy Saving Certificates (ESCerts)** — **energy efficiency**, not identical to carbon credits — trap: "PAT = carbon trading" = oversimplified **FALSE**.
-- **Article 6 Paris Agreement**: Rules for **international carbon market cooperation** — avoids double counting via **corresponding adjustments** — successor to Kyoto mechanisms.
-- **Price discovery**: Scarce allowances → higher carbon price → incentive for **renewables, efficiency, CCS** — carbon trading = **mitigation policy tool**, not end in itself.
-- **Voluntary vs compliance markets**: Compliance = legally mandated (EU ETS, CCTS); voluntary = corporate purchases — different rules and prices.
+- **Credit vs trading distinction**: A **credit** is the **unit** (1 tCO₂e), while **trading** is the **market exchange** of credits or allowances. Exams test both separately.
+- **EU ETS (Emissions Trading System)**: The world's largest carbon market uses **cap-and-trade** for EU power and industry, creating a price signal for abatement and serving as a model reference for India CCTS.
+- **Kyoto flexible mechanisms**: **CDM, JI, and Emissions Trading** among Annex I countries formed the origin of international carbon trading architecture. **2024 Q35** tests Kyoto as the climate mitigation treaty enabling trading.
+- **India CCTS (2023)**: Notified by the **Ministry of Power** and administered by the **Bureau of Energy Efficiency (BEE)**, it requires obligated entities to meet GHG targets using **tradable carbon credit certificates**.
+- **PAT scheme (Perform, Achieve, Trade)**: Since **2012**, PAT trades **Energy Saving Certificates (ESCerts)** for **energy efficiency**, not carbon credits directly. The trap "PAT = carbon trading" is an oversimplified **FALSE**.
+- **Article 6 Paris Agreement**: These rules govern **international carbon market cooperation** and avoid double counting through **corresponding adjustments** as the successor to Kyoto mechanisms.
+- **Price discovery**: Scarce allowances raise the carbon price and incentivize **renewables, efficiency, and CCS**. Carbon trading is a **mitigation policy tool**, not an end in itself.
+- **Voluntary vs compliance markets**: Compliance markets such as EU ETS and CCTS are legally mandated, while voluntary markets involve corporate purchases under different rules and prices.
 
 > **Exam note:** **Kyoto Protocol = climate mitigation + carbon trading origin** (2024 Q35). **Montreal = ozone**, not carbon trading.
 
@@ -793,15 +793,15 @@ IPCC REPORTS:
 
 ### Climate Change Mitigation — How It Works
 
-- **Two mitigation levers**: **(1) Reduce emissions at source** — renewables, efficiency, fuel switch, transport shift; **(2) Enhance sinks** — afforestation, soil carbon, CCS/DACCS.
-- **UNFCCC (1992)**: Framework treaty — Rio Earth Summit — parent of Kyoto and Paris — **no binding targets itself**.
-- **Kyoto Protocol (1997, effective 2005)**: **Legally binding cuts for Annex I (developed) countries** — **CDM** for developing country credits — **2024 Q35 direct answer** — India had **no binding reduction target** (non-Annex I).
-- **Paris Agreement (2015, COP-21)**: **NDC-based** — all countries submit pledges — goal **well below 2°C**, pursue **1.5°C** — **5-year global stocktake** (GST).
-- **India updated NDC (2022)**: **45% emission intensity reduction** vs 2005 by 2030; **50% non-fossil electricity capacity**; **2.5–3 GtCO₂e additional forest sink**; pathway to **net zero 2070**.
-- **Renewable expansion**: **500 GW non-fossil capacity by 2030** (COP-26 announcement) — solar (Rajasthan, Gujarat), wind (TN), UP solar parks Bundelkhand.
-- **Energy efficiency**: **PAT scheme**, **UJALA LED**, **BS-VI norms**, **Perform Achieve Trade** — reduces CO₂ per unit GDP — supports **intensity target**.
-- **LiFE Mission (June 2022)**: **Lifestyle for Environment** — demand-side mitigation — reduce waste, energy, mindful consumption — **2025 Q139**: launched June 2022 ✓; idea at **COP-26**, NOT COP-25 ✗.
-- **Global mitigation gap**: UNEP Emissions Gap Report — current NDCs **insufficient for 1.5°C** — requires **~45% cut by 2030 globally** vs 2010 levels.
+- **Two mitigation levers**: **(1) Reduce emissions at source** through renewables, efficiency, fuel switch, and transport shift, and **(2) Enhance sinks** through afforestation, soil carbon, and CCS/DACCS.
+- **UNFCCC (1992)**: This framework treaty from the Rio Earth Summit is the parent of Kyoto and Paris and sets **no binding targets itself**.
+- **Kyoto Protocol (1997, effective 2005)**: It imposed **legally binding cuts for Annex I (developed) countries** and created **CDM** for developing country credits. **2024 Q35 direct answer**. India had **no binding reduction target** as a non-Annex I country.
+- **Paris Agreement (2015, COP-21)**: It is **NDC-based**, with all countries submitting pledges and a goal of **well below 2°C** while pursuing **1.5°C**, plus a **5-year global stocktake** (GST).
+- **India updated NDC (2022)**: Targets include **45% emission intensity reduction** vs 2005 by 2030, **50% non-fossil electricity capacity**, **2.5–3 GtCO₂e additional forest sink**, and a pathway to **net zero 2070**.
+- **Renewable expansion**: India aims for **500 GW non-fossil capacity by 2030** (COP-26 announcement) through solar (Rajasthan, Gujarat), wind (TN), and UP solar parks in Bundelkhand.
+- **Energy efficiency**: **PAT scheme**, **UJALA LED**, **BS-VI norms**, and **Perform Achieve Trade** reduce CO₂ per unit GDP and support the **intensity target**.
+- **LiFE Mission (June 2022)**: **Lifestyle for Environment** promotes demand-side mitigation by reducing waste, energy use, and encouraging mindful consumption. **2025 Q139**: launched June 2022 ✓, but the idea came at **COP-26**, NOT COP-25 ✗.
+- **Global mitigation gap**: The UNEP Emissions Gap Report shows current NDCs are **insufficient for 1.5°C** and require a **~45% cut by 2030 globally** vs 2010 levels.
 
 > **Exam note:** Kyoto bound **developed countries only** — "India had binding Kyoto targets" = **FALSE**. LiFE idea = **COP-26 Glasgow**, not COP-25 Madrid (2025 Q139).
 
@@ -853,15 +853,15 @@ IPCC REPORTS:
 
 ### Climate Change Adaptation — How It Works
 
-- **Mitigation vs adaptation**: Mitigation = **reduce cause** (emissions); Adaptation = **manage impacts** (heat, flood, drought) — both needed; "adaptation alone solves climate change" = **FALSE**.
-- **NAPCC (National Action Plan on Climate Change), 2008**: **8 national missions** — mix mitigation/adaptation — launched under PM, MoEFCC nodal.
+- **Mitigation vs adaptation**: Mitigation means **reducing the cause** (emissions), while adaptation means **managing impacts** (heat, flood, drought). Both are needed, and "adaptation alone solves climate change" is **FALSE**.
+- **NAPCC (National Action Plan on Climate Change), 2008**: It launched **8 national missions** mixing mitigation and adaptation under the PM with MoEFCC as nodal agency.
 - **Eight NAPCC missions (complete list)**: **(1) National Solar Mission**, **(2) National Mission for Enhanced Energy Efficiency**, **(3) National Mission on Sustainable Habitat**, **(4) National Water Mission**, **(5) National Mission for Sustaining Himalayan Ecosystem**, **(6) National Mission for Green India**, **(7) National Mission for Sustainable Agriculture**, **(8) National Mission on Strategic Knowledge for Climate Change**.
-- **State Action Plans (SAPCC)**: States including **Uttar Pradesh** prepared SAPCC — local vulnerability assessment + sectoral adaptation — UP focus: **water stress, heat, agriculture, flood (Ganga-Ghaghara)**.
-- **Heat Action Plans (HAPs)**: **Lucknow, Varanasi, Agra** developing HAPs — early warning, cooling centres, labour guidelines — direct UP adaptation.
-- **National Adaptation Fund for Climate Change (NAFCC)**: Central scheme supporting **adaptation projects** in states — vulnerability reduction in agriculture, water, forestry.
-- **Crop adaptation**: **Drought-resistant varieties**, ** altered sowing dates**, **micro-irrigation** — Bundelkhand drought adaptation priority.
-- **Infrastructure resilience**: **Flood embankments**, **climate-resilient roads**, **urban drainage** — Ghaghara, Rapti, Yamuna floodplains in UP.
-- **Early warning systems**: **IMD cyclone/heat/flood forecasts**, **MOSDAC satellite data** — disaster preparedness = adaptation.
+- **State Action Plans (SAPCC)**: States including **Uttar Pradesh** prepared SAPCC with local vulnerability assessment and sectoral adaptation. UP focus areas include **water stress, heat, agriculture, and flood (Ganga-Ghaghara)**.
+- **Heat Action Plans (HAPs)**: **Lucknow, Varanasi, and Agra** are developing HAPs with early warning, cooling centres, and labour guidelines as direct UP adaptation.
+- **National Adaptation Fund for Climate Change (NAFCC)**: This central scheme supports **adaptation projects** in states to reduce vulnerability in agriculture, water, and forestry.
+- **Crop adaptation**: **Drought-resistant varieties**, **altered sowing dates**, and **micro-irrigation** are priorities for Bundelkhand drought adaptation.
+- **Infrastructure resilience**: **Flood embankments**, **climate-resilient roads**, and **urban drainage** protect Ghaghara, Rapti, and Yamuna floodplains in UP.
+- **Early warning systems**: **IMD cyclone/heat/flood forecasts** and **MOSDAC satellite data** support disaster preparedness as adaptation.
 
 > **Exam note:** NAPCC = **2008**, **8 missions** — do not confuse with **12th Plan** or **SDG 2030** alone.
 
@@ -916,16 +916,16 @@ IPCC REPORTS:
 
 ### Climate Change Policy of India — How It Works
 
-- **MoEFCC** = nodal ministry for climate change policy, UNFCCC negotiations, and NAPCC coordination — **CPCB** handles pollution standards (co-benefits with mitigation).
-- **NAPCC 2008**: Foundational domestic framework — **8 missions** spanning solar, efficiency, water, Himalaya, green India, agriculture, habitat, knowledge — still operational backbone.
-- **India's first NDC (2015)**: **33–35% emission intensity reduction** vs 2005 by 2030; **40% non-fossil capacity**; **2.5–3 GtCO₂e forest sink** — submitted under Paris Agreement.
-- **Updated NDC (2022)**: Strengthened to **45% intensity reduction**; **50% non-fossil capacity** — reflects increased ambition post-COP-26.
-- **COP-26 Glasgow pledges (2021)**: **Net zero by 2070**; **500 GW non-fossil capacity by 2030**; **50% renewable energy share in installed capacity** — headline policy markers.
-- **LiFE Mission (June 2022)**: **Lifestyle for Environment** — MoEFCC — promotes mindful consumption — **2025 Q139**: launched June 2022 correct; proposed at **COP-26**, NOT COP-25 Madrid.
-- **National Hydrogen Mission (2021)**: Green hydrogen for **hard-to-abate sectors** (steel, fertiliser) — long-term mitigation pathway to 2070 net zero.
-- **NCAP (National Clean Air Programme, 2019)**: Reduces **PM2.5** in **122 cities** including **Lucknow, Kanpur, Varanasi, Ghaziabad, Noida, Agra, Meerut** — **co-benefit mitigation** (less coal burning, cleaner transport).
-- **Carbon Credit Trading Scheme (2023)**: Domestic compliance market under **BEE/Ministry of Power** — institutionalises market-based mitigation.
-- **International role**: **International Solar Alliance (2015)**, **Coalition for Disaster Resilient Infrastructure (CDRI)**, **Leadership Group for Industry Transition** — climate diplomacy beyond domestic policy.
+- **MoEFCC** is the nodal ministry for climate change policy, UNFCCC negotiations, and NAPCC coordination. **CPCB** handles pollution standards with co-benefits for mitigation.
+- **NAPCC 2008**: This foundational domestic framework includes **8 missions** spanning solar, efficiency, water, Himalaya, green India, agriculture, habitat, and knowledge. It remains the operational backbone.
+- **India's first NDC (2015)**: Pledged **33–35% emission intensity reduction** vs 2005 by 2030, **40% non-fossil capacity**, and **2.5–3 GtCO₂e forest sink** under the Paris Agreement.
+- **Updated NDC (2022)**: Strengthened targets to **45% intensity reduction** and **50% non-fossil capacity**, reflecting increased ambition after COP-26.
+- **COP-26 Glasgow pledges (2021)**: Headline markers include **net zero by 2070**, **500 GW non-fossil capacity by 2030**, and **50% renewable energy share in installed capacity**.
+- **LiFE Mission (June 2022)**: **Lifestyle for Environment** from MoEFCC promotes mindful consumption. **2025 Q139**: launched June 2022 is correct, but it was proposed at **COP-26**, NOT COP-25 Madrid.
+- **National Hydrogen Mission (2021)**: Green hydrogen targets **hard-to-abate sectors** (steel, fertiliser) as a long-term mitigation pathway to 2070 net zero.
+- **NCAP (National Clean Air Programme, 2019)**: Reduces **PM2.5** in **122 cities** including **Lucknow, Kanpur, Varanasi, Ghaziabad, Noida, Agra, and Meerut**, with **co-benefit mitigation** from less coal burning and cleaner transport.
+- **Carbon Credit Trading Scheme (2023)**: This domestic compliance market under **BEE/Ministry of Power** institutionalises market-based mitigation.
+- **International role**: India leads through the **International Solar Alliance (2015)**, **Coalition for Disaster Resilient Infrastructure (CDRI)**, and **Leadership Group for Industry Transition** in climate diplomacy beyond domestic policy.
 
 > **Exam note:** **LiFE = June 2022 launch; COP-26 idea** (2025 Q139). India net zero = **2070**, not 2050 or 2030.
 
@@ -980,15 +980,15 @@ IPCC REPORTS:
 
 ### IPCC Assessment Reports — How It Works
 
-- **IPCC structure**: **195 member governments** approve summary for policymakers (SPM) line-by-line — scientists write assessment; governments endorse — **policy-relevant, not policy-prescriptive**.
-- **Working Group I (WGI)**: **Physical science basis** — temperature trends, GHG concentrations, climate sensitivity, attribution — AR6 WGI **2021**.
-- **Working Group II (WGII)**: **Impacts, adaptation, vulnerability** — regional impacts (South Asia monsoon, Himalayan water) — AR6 WGII **2022**.
-- **Working Group III (WGIII)**: **Mitigation pathways** — sectoral options, costs, carbon budgets, net zero timelines — AR6 WGIII **2022**.
-- **Synthesis Report (SYR)**: Integrates all three WGs — **AR6 SYR March 2023** — headline: **"urgency of action"**, closing window for **1.5°C**.
-- **Complete AR cycle list**: **AR1 (1990)**, **AR2 (1995)**, **AR3 (2001)**, **AR4 (2007)**, **AR5 (2014)**, **AR6 (2021–23)** — AR4 Nobel Peace Prize shared with Al Gore (2007).
-- **Special reports (exam-relevant)**: **1.5°C (SR15, 2018)** — informed Paris ambition; **Ocean and Cryosphere (SROCC, 2019)**; **Land (SRCCL, 2019)**.
-- **IPCC ≠ UNFCCC**: IPCC = **science**; UNFCCC = **treaty negotiations** — trap: "IPCC enforces emission cuts" = **FALSE**.
-- **IPCC ≠ Emissions Gap Report**: Emissions Gap = **UNEP** operational report — IPCC = peer-reviewed assessment cycle.
+- **IPCC structure**: **195 member governments** approve the summary for policymakers (SPM) line-by-line. Scientists write the assessment and governments endorse it, making it **policy-relevant, not policy-prescriptive**.
+- **Working Group I (WGI)**: Covers the **physical science basis**, including temperature trends, GHG concentrations, climate sensitivity, and attribution. AR6 WGI was released in **2021**.
+- **Working Group II (WGII)**: Covers **impacts, adaptation, and vulnerability**, including regional impacts such as South Asia monsoon and Himalayan water. AR6 WGII was released in **2022**.
+- **Working Group III (WGIII)**: Covers **mitigation pathways**, including sectoral options, costs, carbon budgets, and net zero timelines. AR6 WGIII was released in **2022**.
+- **Synthesis Report (SYR)**: Integrates all three working groups. **AR6 SYR March 2023** headline message: **"urgency of action"** and a closing window for **1.5°C**.
+- **Complete AR cycle list**: **AR1 (1990)**, **AR2 (1995)**, **AR3 (2001)**, **AR4 (2007)**, **AR5 (2014)**, and **AR6 (2021–23)**. AR4 shared the Nobel Peace Prize with Al Gore (2007).
+- **Special reports (exam-relevant)**: **1.5°C (SR15, 2018)** informed Paris ambition, plus **Ocean and Cryosphere (SROCC, 2019)** and **Land (SRCCL, 2019)**.
+- **IPCC ≠ UNFCCC**: IPCC provides **science**, while UNFCCC handles **treaty negotiations**. The trap "IPCC enforces emission cuts" is **FALSE**.
+- **IPCC ≠ Emissions Gap Report**: The Emissions Gap Report comes from **UNEP** as an operational report, whereas IPCC produces peer-reviewed assessment cycles.
 
 > **Exam note:** IPCC publishes **Assessment Reports** — **not** Emissions Gap Report (UNEP). Latest synthesis = **AR6 SYR 2023**.
 
@@ -1105,7 +1105,7 @@ B. Ramsar Convention
 C. Kyoto Protocol  
 D. CITES
 
-**Ans: C** — 2024 Q35 reproduction.
+**Ans: C.** This question reproduces UPPCS 2024 Q35.
 
 ---
 
@@ -1133,7 +1133,7 @@ B. Neither 1 nor 2
 C. Both 1 and 2  
 D. Only 1
 
-**Ans: D** — 2025 Q139 reproduction.
+**Ans: D.** This question reproduces UPPCS 2025 Q139.
 
 ---
 
@@ -1150,7 +1150,7 @@ B. 2 and 3 only
 C. 1 and 3 only  
 D. 1, 2 and 3
 
-**Ans: B** — Emissions Gap = **UNEP**, not IPCC.
+**Ans: B.** The Emissions Gap Report is published by **UNEP**, not IPCC.
 
 ---
 
@@ -1167,7 +1167,7 @@ B. 2 and 3 only
 C. 1 and 2 only  
 D. 1, 2 and 3
 
-**Ans: A** — Net zero = **2070** (COP-26), not 2050.
+**Ans: A.** India's net zero target is **2070** (COP-26), not 2050.
 
 ---
 
@@ -1184,7 +1184,7 @@ B. 2 and 3 only
 C. 1 and 3 only  
 D. 1, 2 and 3
 
-**Ans: A** — CO is not major GHG.
+**Ans: A.** Carbon monoxide is not a major GHG.
 
 ---
 
@@ -1214,7 +1214,7 @@ B. 2 and 3 only
 C. 1 and 3 only  
 D. 1, 2 and 3
 
-**Ans: A** — Mauna Loa = **CO₂ monitoring**, not ozone.
+**Ans: A.** Mauna Loa monitors **CO₂**, not ozone.
 
 ---
 
@@ -1245,7 +1245,7 @@ B. 2 and 3 only
 C. 1 and 3 only  
 D. 1, 2 and 3
 
-**Ans: A** — Fossil fuels = **stored carbon source**, not active sink.
+**Ans: A.** Fossil fuel reserves are a **stored carbon source**, not an active sink.
 
 ---
 
@@ -1279,7 +1279,7 @@ B. 2 and 3 only
 C. 1 and 3 only  
 D. 1, 2 and 3
 
-**Ans: A** — CCTS under **EC Act**, not WPA.
+**Ans: A.** CCTS operates under the **EC Act**, not the Wildlife Protection Act.
 
 ---
 
@@ -1296,7 +1296,7 @@ B. 2 and 3 only
 C. 1 and 3 only  
 D. 1, 2 and 3
 
-**Ans: A** — **8 missions**, not 12.
+**Ans: A.** NAPCC has **8 missions**, not 12.
 
 ---
 
@@ -1330,7 +1330,7 @@ B. 2 and 3 only
 C. 1 and 3 only  
 D. 1, 2 and 3
 
-**Ans: A** — Global **1.1°C** ≠ India **0.7°C**.
+**Ans: A.** Global warming is **1.1°C**, which differs from India's **0.7°C** figure.
 
 ---
 
@@ -1488,7 +1488,7 @@ B. 2 and 3 only
 C. 1 and 3 only  
 D. 1, 2 and 3
 
-**Ans: A** — NAPCC = **2008**.
+**Ans: A.** NAPCC was launched in **2008**.
 
 ---
 
@@ -1570,7 +1570,7 @@ B. 2 and 3 only
 C. 1 and 3 only  
 D. 1, 2 and 3
 
-**Ans: A** — Himalaya mainly Uttarakhand/Himachal.
+**Ans: A.** The Himalayan mission mainly targets Uttarakhand and Himachal Pradesh.
 
 ---
 
@@ -1678,7 +1678,7 @@ D. CITES
 <details>
 <summary>Show answer</summary>
 
-**Ans: C (Kyoto Protocol)** — Montreal = ozone; Ramsar = wetlands; CITES = wildlife trade.
+**Ans: C (Kyoto Protocol).** Montreal covers ozone, Ramsar covers wetlands, and CITES covers wildlife trade.
 
 </details>
 
@@ -1699,7 +1699,7 @@ D. 2 3 4 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: A (3 1 4 2)** — Emissions Gap Report = **UNEP (2)**. HDR=UNDP(3); WEO=IMF(1); WIR=UNCTAD(4).
+**Ans: A (3 1 4 2).** The Emissions Gap Report belongs to **UNEP (2)**. HDR is UNDP (3), WEO is IMF (1), and WIR is UNCTAD (4).
 
 </details>
 
@@ -1720,13 +1720,13 @@ D. Only 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: D (Only 1)** — LiFE launched **June 2022**. Idea proposed at **COP-26 Glasgow (2021)**, not COP-25 Madrid.
+**Ans: D (Only 1).** LiFE was launched in **June 2022**, and the idea was proposed at **COP-26 Glasgow (2021)**, not COP-25 Madrid.
 
 </details>
 
 ---
 
-**Q4. UPSC Prelims 2018 — pattern**
+**Q4. UPSC Prelims 2018 (pattern)**
 
 One carbon credit generally represents:
 
@@ -1739,33 +1739,33 @@ One carbon credit generally represents:
 
 ---
 
-**Q5. UPSC Prelims 2021 — pattern**
+**Q5. UPSC Prelims 2021 (pattern)**
 
 India announced net zero emissions by which year at COP-26?
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: 2070** — Glasgow, November 2021.
+**Ans: 2070.** India announced this target at Glasgow in November 2021.
 
 </details>
 
 ---
 
-**Q6. UPSC Prelims 2014 — pattern**
+**Q6. UPSC Prelims 2014 (pattern)**
 
 Mauna Loa Observatory is famous for:
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: Continuous monitoring of atmospheric CO₂** — Keeling Curve since 1958.
+**Ans: Continuous monitoring of atmospheric CO₂.** This is the Keeling Curve record since 1958.
 
 </details>
 
 ---
 
-**Q7. UPSC Prelims 2016 — pattern**
+**Q7. UPSC Prelims 2016 (pattern)**
 
 National Action Plan on Climate Change (NAPCC) launched in:
 
@@ -1778,14 +1778,14 @@ National Action Plan on Climate Change (NAPCC) launched in:
 
 ---
 
-**Q8. UPSC Prelims 2018 — pattern**
+**Q8. UPSC Prelims 2018 (pattern)**
 
 Emissions Gap Report is published by:
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: UNEP** — not IPCC.
+**Ans: UNEP.** The Emissions Gap Report is published by UNEP, not IPCC.
 
 </details>
 
@@ -1804,4 +1804,4 @@ Emissions Gap Report is published by:
 
 ---
 
-*End of Topic 34 — Climate Change (Advanced)*
+*End of Topic 34: Climate Change (Advanced)*

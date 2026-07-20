@@ -111,14 +111,14 @@ SOURCES ON RULERS:
 ### Ancient Rulers — How It Works
 
 - **Ancient Indian polity** evolved from **tribal chieftaincies** (Vedic rajan) to **centralized empires** (Maurya, Gupta) to **feudatory imperial systems** (later Gupta, Harsha).
-- **Magadha-based rulers** dominated north Indian imperial history — Bimbisara, Chandragupta Maurya, Ashoka, Chandragupta I, Samudragupta, Harsha all Magadha-linked.
-- **Pre-imperial phase** (~6th–4th c. BCE): **Mahajanapada kings** — Bimbisara/Ajatashatru (Haryanka), Mahapadma Nanda (first empire-builder before Mauryas).
-- **First pan-Indian empire**: **Chandragupta Maurya (322 BCE)** — overthrew Nandas; extended to northwest under Bindusara and Ashoka.
-- **Ashoka (268–232 BCE)** — peak Mauryan territorial extent; **Dhamma governance** model; last great Mauryan before decline.
+- **Magadha-based rulers** dominated north Indian imperial history. Bimbisara, Chandragupta Maurya, Ashoka, Chandragupta I, Samudragupta, and Harsha were all linked with the Magadha political zone.
+- **Pre-imperial phase** (~6th–4th c. BCE): The pre-imperial phase was led by **Mahajanapada kings** such as Bimbisara and Ajatashatru of the Haryanka line. **Mahapadma Nanda** became an empire-builder before the Mauryas.
+- **First pan-Indian empire** began with **Chandragupta Maurya (322 BCE)**. He overthrew the Nandas, and the empire extended to the northwest under Bindusara and Ashoka.
+- **Ashoka (268–232 BCE)** marked the peak of Mauryan territorial extent. He developed the **Dhamma governance** model and was the last great Mauryan before decline.
 - **Post-Mauryan regional rulers**: **Pushyamitra Shunga** (Magadha), **Kharavela** (Kalinga), **Kanishka** (Kushan), **Gautamiputra Satakarni** (Deccan).
-- **Gupta imperial restoration** (~320 CE): **Chandragupta I** founded; **Samudragupta** conquered; **Chandragupta II** cultural peak; **Skandagupta** fought Huns.
-- **Harshavardhana (606–647 CE)** — last ancient ruler to unify much of **north India**; Pushyabhuti dynasty of Thanesar/Kannauj.
-- **Sources identifying rulers**: **inscriptions** (most reliable), **coins**, **Puranas** (genealogies — 2023 Q29), foreign accounts (Megasthenes, Fa-Hien, Hiuen Tsang), literary texts (Bana, Kalidasa).
+- **Gupta imperial restoration** began around 320 CE. **Chandragupta I** founded the line, **Samudragupta** expanded it through conquest, **Chandragupta II** marked the cultural peak, and **Skandagupta** fought the Huns.
+- **Harshavardhana (606–647 CE)** was the last ancient ruler to unify much of **north India**. He belonged to the Pushyabhuti dynasty of Thanesar and Kannauj.
+- **Sources identifying rulers:** Rulers are identified through **inscriptions**, **coins**, **Puranas**, foreign accounts, and literary texts. Inscriptions are the most reliable, while the **Vishnu Purana** is important for Mauryan genealogy in **2023 Q29**.
 
 ### Major Ancient Rulers — Chronological Table
 
@@ -136,11 +136,11 @@ SOURCES ON RULERS:
 
 - Magadha = imperial heartland across Maurya, Gupta, Harsha
 - Chandragupta Maurya founded first pan-Indian empire 322 BCE
-- Ashoka = peak Mauryan; Dhamma policy
+- Ashoka represented the peak of Mauryan power and promoted the Dhamma policy.
 - Samudragupta = Gupta military conqueror
 - Chandragupta II = Vikramaditya cultural peak
 - Harsha = last great ancient north Indian emperor
-- Puranas = genealogical source (Vishnu Purana — Mauryas)
+- Puranas are genealogical sources, and the **Vishnu Purana** is especially linked with Mauryan information.
 - Inscriptions most reliable for ruler identification
 
 ### PYQs — Ancient Rulers
@@ -174,16 +174,16 @@ SOURCES ON RULERS:
 
 ### Titles of Ancient Rulers — How It Works
 
-- **Vedic period titles** were modest — **rajan** (chief), **samrat** (emperor concept emerging in later Vedic texts), **ekarat** (sole ruler).
-- **Ashokan titles** on inscriptions: **Devanampiya** (beloved of gods) + **Piyadasi** (looks on all with affection) — used instead of name "Ashoka" in most edicts until Maski/Gurjara discoveries.
-- **Bindusara** known as **Amitraghata** (slayer of foes/amitraghata) in Greek accounts — maintained empire without major expansion.
-- **Chandragupta Maurya** — no special epithet preserved; Greek accounts call him **Sandrokottos**.
-- **Samudragupta** assumed **Maharajadhiraja** and performed **Ashvamedha** — claimed **digvijaya** (conquest of quarters) in Prayag Prashasti.
-- **Chandragupta II** took **Vikramaditya** (sun of valor) — defeated Shakas; literary golden age under this title.
-- **Gupta standard imperial titles**: **Paramabhattaraka** (most devout), **Maharajadhiraja**, **Parameshvara**, **Prithvi-vallabha** (beloved of earth).
-- **Harsha** used **Siladitya**, **Paramabhattaraka**, **Maharajadhiraja** — Buddhist-era imperial titles.
-- **Feudatory titles**: **Samanta**, **Mahasamanta**, **Raja**, **Maharaja** — subordinate rulers under Gupta/Harsha.
-- **Title inflation pattern** — as empires grew, rulers accumulated **multiple honorifics** on inscriptions and coins to assert legitimacy over feudatories.
+- **Vedic period titles** were modest. **Rajan** meant chief or king, while **samrat** and **ekarat** showed the later Vedic idea of a wider or sole ruler.
+- **Ashoka's inscriptional title** was **Devanampiya Piyadasi**. Most edicts used this title instead of the personal name "Ashoka" until discoveries such as Maski and Gurjara linked the title with Ashoka.
+- **Bindusara** was known as **Amitraghata**, meaning slayer of foes, in Greek accounts. He maintained the Mauryan empire without major new expansion.
+- **Chandragupta Maurya** has no special epithet preserved. Greek accounts call him **Sandrokottos**.
+- **Samudragupta** assumed the title **Maharajadhiraja** and performed the **Ashvamedha**. In the Prayag Prashasti, he claimed **digvijaya**, or conquest of the quarters.
+- **Chandragupta II** took the title **Vikramaditya**, meaning sun of valor. He defeated the Shakas, and the literary golden age is associated with this title.
+- **Gupta rulers used standard imperial titles** such as **Paramabhattaraka** (most devout), **Maharajadhiraja**, **Parameshvara**, and **Prithvi-vallabha** (beloved of earth).
+- **Harsha** used titles such as **Siladitya**, **Paramabhattaraka**, and **Maharajadhiraja**. These titles reflected Buddhist-era imperial prestige.
+- **Feudatory titles** included **Samanta**, **Mahasamanta**, **Raja**, and **Maharaja**. These were used by subordinate rulers under the Gupta and Harsha political systems.
+- **Title inflation pattern** means that rulers accumulated **multiple honorifics** as empires grew. These titles helped kings assert legitimacy over feudatories through inscriptions and coins.
 
 ### Ruler ↔ Title — Complete Matching Table
 
@@ -243,18 +243,18 @@ SOURCES ON RULERS:
 
 ### Rulers and their Inscriptions — How It Works
 
-- **Inscriptions** are the most reliable **primary sources** for ancient rulers — provide names, dates, conquests, grants, and titles directly from the period.
-- **Ashokan edicts** — **14 Major Rock Edicts**, **2 Special Rock Edicts**, **Minor Rock Edicts**, **Pillar Edicts I–VII** — spread across India, Pakistan, Afghanistan, Nepal.
-- **Maski Minor Rock Edict** — first revealed name **"Ashoka"** linked to **Devanampiya Piyadasi**.
-- **Rock Edict XIII** — Kalinga war account; **Rock Edict XII** — religious synthesis (**2022 Q54 answer B**).
-- **Samudragupta's Prayag Prashasti** — composed by **Harishena**; inscribed on **Allahabad pillar** (with Ashokan edicts on same pillar).
-- **Hathigumpha inscription** — **Kharavela** of Kalinga (Odisha, Udayagiri) — NOT Ashoka, Harsha, or Kanishka (**2018 Q16 = A Kharavela**).
-- **Ayodhya inscription** — records **two Ashwamedha sacrifices** by **Pushyamitra Shunga** (**2018 Q91 = C Ayodhya**).
-- **Nasik inscription** of **Gautamiputra Satakarni** — praises victories over Shakas and claims **99 feudatories**.
-- **Junagarh Rock Inscription** — **Rudradaman I** (Shaka Kshatrapa) — Sanskrit prose; repairs Sudarshana lake.
-- **Aihole inscription** — **Pulakeshin II** — records defeat of **Harshavardhana** at Narmada.
-- **Mehrauli Iron Pillar** — Gupta-era (traditionally linked to **Chandragupta II**) — rust-resistant metallurgy.
-- **2022 Q87 trap** — **Jivitagupta II — Deva Barnark** is **NOT** correctly matched (answer **C**).
+- **Inscriptions** are the most reliable **primary sources** for ancient rulers. They provide names, dates, conquests, grants, and titles directly from the period.
+- **Ashokan edicts** include **14 Major Rock Edicts**, **2 Special Rock Edicts**, **Minor Rock Edicts**, and **Pillar Edicts I–VII**. They are spread across India, Pakistan, Afghanistan, and Nepal.
+- **Maski Minor Rock Edict** first revealed the name **"Ashoka"** linked with **Devanampiya Piyadasi**.
+- **Rock Edict XIII** gives the Kalinga war account. **Rock Edict XII** presents religious synthesis and is linked to **2022 Q54 answer B**.
+- **Samudragupta's Prayag Prashasti** was composed by **Harishena**. It is inscribed on the **Allahabad pillar**, which also carries Ashokan edicts.
+- **Hathigumpha inscription** belongs to **Kharavela** of Kalinga at Udayagiri in Odisha. It should not be assigned to Ashoka, Harsha, or Kanishka, and **2018 Q16** gives answer **A**.
+- **Ayodhya inscription** records **two Ashwamedha sacrifices** by **Pushyamitra Shunga**. This is why **2018 Q91** has answer **C**, Ayodhya.
+- **Nasik inscription** of **Gautamiputra Satakarni** praises his victories over the Shakas and claims control over **99 feudatories**.
+- **Junagarh Rock Inscription** belongs to **Rudradaman I**, the Shaka Kshatrapa. It is in Sanskrit prose and records repairs to the Sudarshana lake.
+- **Aihole inscription** belongs to **Pulakeshin II**. It records his defeat of **Harshavardhana** at the Narmada.
+- **Mehrauli Iron Pillar** is a Gupta-era monument traditionally linked with **Chandragupta II**. It is also important for rust-resistant metallurgy.
+- **2022 Q87 trap** asks for the wrong inscription pair. **Jivitagupta II and Deva Barnark** are **not** correctly matched, so the answer is **C**.
 
 ### Master Ruler ↔ Inscription Table (complete — no etc.)
 
@@ -287,7 +287,7 @@ SOURCES ON RULERS:
 - Prayag Prashasti = Samudragupta on Allahabad pillar
 - Hathigumpha = Kharavela (2018 Q16)
 - Ayodhya = Pushyamitra Shunga (2018 Q91)
-- 2022 Q87 = Jivitagupta II — Deva Barnark wrong
+- In **2022 Q87**, **Jivitagupta II and Deva Barnark** form the wrong pair.
 - 2018 Q87 south kings = 3-1-4-2
 - Rock Edict XII = religious synthesis (2022 Q54)
 - Mehrauli pillar = Gupta (Chandragupta II)
@@ -329,19 +329,19 @@ SOURCES ON RULERS:
 
 ### Ancient Administration — How It Works
 
-- **Vedic administration** was **tribal-democratic** — king (rajan) limited by assemblies; no standing bureaucracy.
+- **Vedic administration** was **tribal-democratic**. The king (**rajan**) was limited by assemblies, and there was no standing bureaucracy.
 - **Vedic assemblies**: **Sabha** (council of elders/privileged), **Samiti** (general tribal assembly), **Vidhata** (deliberative body for distribution/ritual).
-- **Vedic officials**: **Purohita** (priest-adviser), **Senani** (army chief), **Gramani** (village headman), **Bhagadugha** (revenue/share collector) — **2023 Q26 answer D**.
-- **Mauryan administration** = **highly centralized** — Kautilya's **Arthashastra** + Megasthenes' *Indica* describe detailed bureaucracy.
-- **Mauryan revenue chain**: **Samaharta** (collects revenue) → **Sannidhata** (treasurer) → **Rajuka** (land measurement, revenue assessment, local judicial functions).
-- **Agronomai** — Greek term Megasthenes used for **revenue/agricultural management official** — **2020 Q4 answer D (revenue management)**.
-- **Mauryan provinces** called **janapadas** governed by **Kumara** (princes) or **Ayukta** (appointed governors) — Ashoka was Kumara of Ujjain/Takshashila.
-- **Ashoka's Dhamma administration** — appointed **Dhamma-mahamatras** in **14th regnal year** to propagate moral law — **2024 Q20 both statements correct (A)**.
-- **Gupta administration** = **less centralized** — **feudatory samanta system** grew; land grants (brahmadeya) created autonomous pockets.
-- **Gupta provincial system**: **Bhukti** (province) under **Uparika** → **Vishaya** (district) under **Kumaramatya/Ayuktaka** → village under **Gramika**.
-- **Gupta special officer**: **Sandhivigrahika** — minister of war-and-peace/foreign affairs.
-- **Harsha's administration** continued Gupta model — **Mahasandhivigrahika**, **Uparika**, **Bhandagaradhikarana** (treasury); more feudatory-dependent than Mauryas.
-- **Evolution pattern**: Vedic (tribal assemblies) → Mauryan (centralized bureaucracy) → Gupta/Harsha (feudatory decentralization with grant economy).
+- **Vedic officials:** Important Vedic officials included **Purohita** as priest-adviser, **Senani** as army chief, **Gramani** as village headman, and **Bhagadugha** as revenue/share collector. **Bhagadugha** is the answer to **2023 Q26**.
+- **Mauryan administration** was **highly centralized**. Kautilya's **Arthashastra** and Megasthenes' *Indica* describe its detailed bureaucracy.
+- **Mauryan revenue chain** ran from **Samaharta** (collects revenue) to **Sannidhata** (treasurer) and then to **Rajuka** (land measurement, revenue assessment, local judicial functions).
+- **Agronomai** was the Greek term used by Megasthenes for a **revenue/agricultural management official**. **2020 Q4** identifies this as revenue management.
+- **Mauryan provinces** were governed by **Kumara** princes or **Ayukta** appointed governors. Ashoka himself served as Kumara of Ujjain or Takshashila before becoming emperor.
+- **Ashoka's Dhamma administration** appointed **Dhamma-mahamatras** in the **14th regnal year** to propagate moral law. In **2024 Q20**, both statements are correct and the answer is **A**.
+- **Gupta administration** was **less centralized**. The **feudatory samanta system** grew, and land grants (**brahmadeya**) created autonomous pockets.
+- **Gupta provincial system** placed the **Bhukti** (province) under the **Uparika**, the **Vishaya** (district) under the **Kumaramatya/Ayuktaka**, and the village under the **Gramika**.
+- **Gupta special officer:** **Sandhivigrahika** was the minister of war-and-peace or foreign affairs.
+- **Harsha's administration** continued the Gupta model through offices such as **Mahasandhivigrahika**, **Uparika**, and **Bhandagaradhikarana** (treasury). It was more dependent on feudatories than Mauryan administration.
+- **Evolution pattern** moved from Vedic tribal assemblies to Mauryan centralized bureaucracy and then to Gupta-Harsha feudatory decentralization with a grant economy.
 
 ### Administration Comparison — Complete Table
 
@@ -381,7 +381,7 @@ SOURCES ON RULERS:
 - Gupta: Uparika, Sandhivigrahika, Samanta
 - Harsha: Mahasandhivigrahika, feudatory system
 - Arthashastra = Kautilya's admin manual
-- Centralized Maurya → feudatory Gupta/Harsha
+- Mauryan administration was centralized, while Gupta and Harsha administration became feudatory.
 
 ### PYQs — Ancient Administration
 

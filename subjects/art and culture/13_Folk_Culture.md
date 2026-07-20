@@ -85,7 +85,7 @@ UPPCS 2025 Q97:
 
 ### Folk Arts — How It Works
 
-- **Folk arts** differ from classical arts because they are **community-owned**, **regionally rooted**, and **functionally tied** to rituals, festivals, and livelihood — not court or temple codification alone.
+- **Folk arts** differ from classical arts because they are **community-owned**, **regionally rooted**, and **functionally tied** to rituals, festivals, and livelihood. Not court or temple codification alone.
 - **Major folk painting traditions** (complete exam list):
 
   | Folk art | State/region | Features | Material/surface |
@@ -102,21 +102,21 @@ UPPCS 2025 Q97:
   | **Mandana** | **Rajasthan-Madhya Pradesh** | Floor/wall white chalk patterns | Harvest/festival decoration |
   | **Rangoli/Kolam** | Pan-India (esp. South) | Floor powder art at doorsteps | Daily/festival practice |
 
-- **Folk arts mechanism — how they survive**:
-  - **Oral transmission** — mother to daughter, artisan caste guild, village expert.
-  - **Ritual function** — Madhubani at weddings; Sanjhi at Yamuna; Warli at harvest.
-  - **Local material economy** — natural dyes, clay, bamboo, palm leaf keep costs low.
-  - **Modern revival** — government fairs (Surajkund), GI tags, NGOs, e-commerce export.
+- **Folk arts mechanism: how they survive**:
+  - **Oral transmission**. Mother to daughter, artisan caste guild, village expert.
+  - **Ritual function**. Madhubani at weddings. Sanjhi at Yamuna. Warli at harvest.
+  - **Local material economy**. Natural dyes, clay, bamboo, palm leaf keep costs low.
+  - **Modern revival**. Government fairs (Surajkund), GI tags, NGOs, e-commerce export.
 
-- **Folk performing arts overlap** (brief — dance/theatre detail in Topics 6–7):
-  - **Nautanki, Raslila (UP)**, **Garba (Gujarat)**, **Bhangra (Punjab)** — folk **performance** not folk **visual art**, but exams sometimes bundle "folk arts."
-  - **Trap**: **Warli = tribal folk painting Maharashtra** | **Madhubani = Mithila Bihar** — never swap states.
+- **Folk performing arts overlap** (brief. Dance/theatre detail in Topics 6–7):.
+  - **Nautanki, Raslila (UP)**, **Garba (Gujarat)**, **Bhangra (Punjab)**. Folk **performance** not folk **visual art**, but exams sometimes bundle "folk arts.".
+  - **Trap**: **Warli = tribal folk painting Maharashtra** | **Madhubani = Mithila Bihar**. Never swap states.
 
 - **UP folk visual arts priority**:
-  - **Sanjhi (Mathura)** — UNESCO-recognised living tradition efforts; paper-cutting on Yamuna ghats.
-  - **Chikankari (Lucknow)** — embroidery folk-court craft continuum — detailed in §13.6.
+  - **Sanjhi (Mathura)**. UNESCO-recognised living tradition efforts. Paper-cutting on Yamuna ghats.
+  - **Chikankari (Lucknow)**. Embroidery folk-court craft continuum. Detailed in §13.6.
   - **Braj folk wall decorations** during Holi/Krishna festivals.
-  - **Pilkhuwa hand-block print (Hapur district)** — textile folk-craft.
+  - **Pilkhuwa hand-block print (Hapur district)**. Textile folk-craft.
 
 - **Government support**: **Kala Sanskriti Vikas Yojana** (folk festival grants), **Guru Shishya Parampara Scheme** (folk classical continuity), **IGNCA Janapada Sampada** (documentation).
 
@@ -133,7 +133,7 @@ UPPCS 2025 Q97:
 - Sanjhi = Mathura UP paper-cutting
 - Kalamkari = Andhra textile painting
 - Phulkari = Punjab embroidery art
-- Folk ≠ classical — no SNA codification
+- **Folk ≠ classical**. No SNA codification.
 
 ### PYQs — Folk Arts
 
@@ -169,7 +169,7 @@ UPPCS 2025 Q97:
 
 ### Folk Traditions — How It Works
 
-- **Folk traditions** are the **living behaviour** behind folk arts — the **when, why, and how** communities create and perform culture.
+- **Folk traditions** are the **living behaviour** behind folk arts. The **when, why, and how** communities create and perform culture.
 - **Types of folk traditions** (classification for exams):
 
   | Type | What it includes | India examples |
@@ -182,14 +182,14 @@ UPPCS 2025 Q97:
   | **Cuisine tradition** | Regional food rituals | Chhath prasad (UP-Bihar), Onam sadya (Kerala) |
 
 - **Oral tradition mechanism**:
-  - Knowledge stored in **songs, proverbs, epics, folk tales** — not written Sanskrit canon.
-  - **Guru-shishya exists in folk** but is **informal** — within family, caste guild, or village elder.
-  - **Folk epics**: **Pandavani** (Chhattisgarh — Teejan Bai), **Nautanki stories** (UP), **Tamasha lavani** (Maharashtra).
+  - **Knowledge stored in songs, proverbs, epics, folk tales**. Not written Sanskrit canon.
+  - **Guru-shishya exists in folk** but is **informal**. Within family, caste guild, or village elder.
+  - **Folk epics**: **Pandavani** (Chhattisgarh. Teejan Bai), **Nautanki stories** (UP), **Tamasha lavani** (Maharashtra).
 
 - **Craft fair traditions** (handicraft culture linkage):
-  - **Surajkund International Crafts Mela** — **Faridabad, Haryana** — February — **Ministry of Tourism + Haryana govt** — showcases **handloom + handicrafts** from all states.
-  - **Pushkar Fair** — **Rajasthan** — Kartik month — **camel/livestock + crafts** — **NOT Kumbh Mela** (UPPCS 2025 Q97 trap).
-  - **Sonepur Cattle Fair** — Bihar; **Taj Mahotsav** — Agra UP (crafts + culture).
+  - **Surajkund International Crafts Mela** **Faridabad, Haryana**. February.
+  - **Pushkar Fair** **Rajasthan**. Kartik month.
+  - **Sonepur Cattle Fair**. Bihar. **Taj Mahotsav**. Agra UP (crafts + culture).
 
 - **Folk tradition vs classical tradition**:
   - Folk = **flexible, local language, community participation**.
@@ -197,11 +197,11 @@ UPPCS 2025 Q97:
   - **Syncretism**: **Sufi folk (qawwali at Nizamuddin)**, **Hindu-Muslim composite festivals** in villages.
 
 - **Transmission agents**:
-  - **Women** — Madhubani, Phulkari, Sanjhi, rangoli.
-  - **Artisan castes** — potters (Kumhar), weavers (Julaha), metalworkers.
-  - **Bards/performer communities** — Bhopas, Nautanki mandalis.
+  - **Women**. Madhubani, Phulkari, Sanjhi, rangoli.
+  - **Artisan castes**. Potters (Kumhar), weavers (Julaha), metalworkers.
+  - **Bards/performer communities**. Bhopas, Nautanki mandalis.
 
-- **Threats + revival**: urbanisation, cheap machine goods, migration — countered by **GI tags, craft melas, craft villages, e-commerce (India Handloom/Hastshilp portals)**.
+- **Threats + revival**: urbanisation, cheap machine goods, migration: countered by **GI tags, craft melas, craft villages, e-commerce (India Handloom/Hastshilp portals)**.
 
 > **Exam note:** **Surajkund = Haryana crafts fair** | **Pushkar = Rajasthan** (UPPCS 2025 Q97) — fair geography pair.
 
@@ -210,7 +210,7 @@ UPPCS 2025 Q97:
 - Folk tradition = customary social practice, oral transmission
 - Agrarian, life-cycle, oral epic, craft fair types
 - Surajkund Mela = Haryana, February, crafts showcase
-- Pushkar Fair = Rajasthan — NOT UP (2025 Q97)
+- **Pushkar Fair** belongs to **Rajasthan**, not UP (2025 CA trap Q97). NOT UP ( Q97.
 - Pandavani = Chhattisgarh oral epic tradition
 - Ramlila = UP folk theatre tradition (UNESCO 2008)
 - Folk guru-shishya = informal family/guild
@@ -254,7 +254,7 @@ UPPCS 2025 Q97:
 
 ### Folk Beliefs — How It Works
 
-- **Folk beliefs** operate at **village and tribal level** — they **supplement** (not replace) Hindu, Muslim, Christian, or Buddhist formal doctrine with **local spirit world**.
+- **Folk beliefs** operate at **village and tribal level**. They **supplement** (not replace) Hindu, Muslim, Christian, or Buddhist formal doctrine with **local spirit world**.
 - **Major folk belief categories**:
 
   | Category | Belief content | Indian manifestation |
@@ -268,39 +268,39 @@ UPPCS 2025 Q97:
   | **Fertility beliefs** | Crop/human fertility rituals | **Holi bonfire**, **Theyyam** possession, **Bhitara** rice rituals |
 
 - **Gramdevta/Kuldevi mechanism**:
-  - Every village/clan has **protector deity** — annual **jatra/fair** honours deity.
+  - Every village/clan has **protector deity**. Annual **jatra/fair** honours deity.
   - **Animal sacrifice** still in some tribal/folk contexts (controversial but exam-documented as cultural fact).
   - **Rajasthan Kuldevi** cult (e.g., **Mataji** traditions) influences Rajput identity.
 
 - **Nag Panchami** (pan-India folk belief):
-  - **Snake worship** — milk offered to snake idols/holes.
+  - **Snake worship**. Milk offered to snake idols/holes.
   - Blends **Hindu mythology (Shesha)** with **agrarian fear of snakebite**.
   - **UP observance** widespread in rural belt.
 
 - **Bhoot-pret and evil eye (UP-Bihar belt)**:
-  - Illness attributed to **spirit possession** — **exorcism rituals** by folk healers.
-  - **Nazar warding** — **black dot on child**, **lemon-chilli hangings**, **mirchi smoke**.
-  - Distinct from **Ayurveda** (scriptural medicine) — folk parallel system.
+  - **Illness attributed to spirit possession** includes **exorcism rituals** by folk healers.
+  - **Nazar warding** includes **black dot on child**, **lemon-chilli hangings**, **mirchi smoke**.
+  - **Distinct from **Ayurveda** (scriptural medicine)**. Folk parallel system.
 
 - **Tribal folk beliefs** (overlap with folk culture):
-  - **Sarnaism** (Jharkhand) — sacred groves (**Jaherthan**).
-  - **Donyi-Polo** (Arunachal) — sun-moon worship.
-  - **Sanamahi** (Manipur) — indigenous deity before Hinduisation.
-  - **Trap**: tribal beliefs = **indigenous cosmology**; Hindu folk beliefs = **village syncretism**.
+  - **Sarnaism** (Jharkhand). Sacred groves (**Jaherthan**).
+  - **Donyi-Polo** (Arunachal). It sun-moon worship.
+  - **Sanamahi** (Manipur). Indigenous deity before Hinduisation.
+  - **Trap**: Tribal beliefs = **indigenous cosmology**. Hindu folk beliefs = **village syncretism**.
 
 - **Folk belief in arts**:
   - **Warli** paintings include **Palaghata** mother goddess.
   - **Gond** art depicts **bada dev** forest spirits.
   - **Madhubani** includes **Kohbar** marriage chamber symbols for fertility.
 
-- **Modern change**: education, medical access reduce some beliefs — but **festivals (Chhath, Nag Panchami)** remain mass practices.
+- **Modern change**: education, medical access reduce some beliefs: but **festivals (Chhath, Nag Panchami)** remain mass practices.
 
 > **Exam note:** **Gramdevta/Kuldevi = village/clan protector** | **Nag Panchami = snake worship festival** — belief ↔ practice matching.
 
 ### Exam Facts (raata)
 
 - Folk belief = local supernatural worldview
-- Gramdevta = village deity; Kuldevi = clan goddess
+- Gramdevta = village deity. Kuldevi = clan goddess.
 - Nag Panchami = snake worship (pan-India folk)
 - Nazar/evil eye = folk protection rituals
 - Ojha/Gunia = folk healer (UP-Bihar belt)
@@ -344,7 +344,7 @@ UPPCS 2025 Q97:
 
 ### Folk Culture of India — How It Works
 
-- **Folk culture of India** is not one uniform system — it is **hundreds of regional micro-cultures** united by **shared agrarian rhythms**, **festival calendars**, and **oral creativity**.
+- **Folk culture of India** is not one uniform system. It it is **hundreds of regional micro-cultures** united by **shared agrarian rhythms**, **festival calendars**, and **oral creativity**.
 - **Three-layer Indian culture model** (exam framework):
 
   | Layer | Character | Examples |
@@ -364,7 +364,7 @@ UPPCS 2025 Q97:
   | **North-East** | **Bihu, Hornbill showcase, bamboo craft, tribal textiles** |
   | **Central-tribal belt** | **Gond art, Bastar iron, Pandavani, Bhagoria** |
 
-- **UNESCO Intangible Cultural Heritage — India (folk-related)**:
+- **UNESCO Intangible Cultural Heritage: India (folk-related)**:
 
   | Year | Element | Region |
   |------|---------|--------|
@@ -379,23 +379,23 @@ UPPCS 2025 Q97:
   | **2023** | **Garba of Gujarat** | Gujarat |
 
 - **Folk culture economy**:
-  - **Craft villages** — **Moradabad (brass), Firozabad (glass), Khurja (pottery), Bhadohi (carpet)** — all **UP**.
-  - **Rural haats** (weekly markets) — exchange of craft, oral news, folk performance.
-  - **GI tags** protect folk craft identity in global market — see §13.7.
+  - **Craft villages** includes **Moradabad (brass), Firozabad (glass), Khurja (pottery), Bhadohi (carpet)**. All **UP**.
+  - **Rural haats** (weekly markets). Exchange of craft, oral news, folk performance.
+  - **GI tags** protect folk craft identity in global market. See §13.7.
 
 - **Government institutions for folk culture**:
-  - **Zonal Cultural Centres (7 ZCCs)** — promote folk/tribal troupes.
-  - **IGNCA Janapada Sampada** — documents folk culture.
-  - **Anthropological Survey of India** — tribal/folk ethnography.
-  - **Sangeet Natak Akademi** — folk award category.
+  - **Zonal Cultural Centres (7 ZCCs)**. It promote folk/tribal troupes.
+  - **IGNCA Janapada Sampada**. Documents folk culture.
+  - **Anthropological Survey of India**. Tribal/folk ethnography.
+  - **Sangeet Natak Akademi**. Folk award category.
 
-- **Folk culture threats**: **globalisation, machine-made goods, youth migration, loss of dialect** — policy response = **craft clusters, GI, tourism circuits (Rural Tourism), Ek Bharat Shreshtha Bharat**.
+- **Folk culture threats**: **globalisation, machine-made goods, youth migration, loss of dialect**. Policy response = **craft clusters, GI, tourism circuits (Rural Tourism), Ek Bharat Shreshtha Bharat**.
 
 - **UP as folk culture heartland**:
-  - **Braj belt** (Mathura-Vrindavan) — Krishna folk culture epicentre.
-  - **Awadh** (Lucknow) — Chikankari, Urdu-Hindi folk poetry (marsiya, soz khwani).
-  - **Eastern UP-Bihar cultural continuum** — Chhath, Bhojpuri folk songs.
-  - **Craft clusters** across UP — see UP Focus table.
+  - **Braj belt** (Mathura-Vrindavan). Krishna folk culture epicentre.
+  - **Awadh** (Lucknow). Chikankari, Urdu-Hindi folk poetry (marsiya, soz khwani).
+  - **Eastern UP-Bihar cultural continuum**. Chhath, Bhojpuri folk songs.
+  - **Craft clusters** across UP. See UP Focus table.
 
 > **Exam note:** **Ramlila UNESCO 2008 = UP folk culture landmark** | **Garba UNESCO 2023 = Gujarat** — recent intangible heritage traps.
 
@@ -446,7 +446,7 @@ UPPCS 2025 Q97:
 
 ### Handloom — How It Works
 
-- **Handloom sector** employs **millions of weavers** — predominantly **rural, household-based**, organised in **weaver cooperatives and master-weaver networks**.
+- **Handloom sector** employs **millions of weavers**. Predominantly **rural, household-based**, organised in **weaver cooperatives and master-weaver networks**.
 - **Handloom vs powerloom vs khadi** (paired concepts):
 
   | Type | Mechanism | Cultural/economic note |
@@ -455,7 +455,7 @@ UPPCS 2025 Q97:
   | **Powerloom** | Machine-powered — mass production | Lower cost; threatens handloom livelihood |
   | **Khadi** | **Hand-spun AND hand-woven** (KVIC mandate) | Swadeshi symbol; freedom movement icon |
 
-- **Nodal ministry**: **Ministry of Textiles** (NOT Ministry of Culture) — handloom is **economic-craft** sector.
+- **Nodal ministry**: **Ministry of Textiles** (NOT Ministry of Culture). It handloom is **economic-craft** sector.
 - **Key institutions**:
 
   | Body | Role |
@@ -466,7 +466,7 @@ UPPCS 2025 Q97:
   | **WCC** | Weaver Service Centres — skill + design upgradation |
   | **Handloom Export Promotion Council** | International marketing |
 
-- **National Handloom Day — 7 August**:
+- **National Handloom Day: 7 August**:
   - Commemorates **Swadeshi Movement launch (7 August 1905)**.
   - Promotes **handloom awareness + weaver welfare**.
   - Annual event trap: date = **7 August**, NOT 15 August.
@@ -505,7 +505,7 @@ UPPCS 2025 Q97:
   | **Mudra loans for weavers** | Credit access |
   | **E-commerce handloom portals** | India Handloom, Handloom Export |
 
-- **UP handloom priority**: **Varanasi silk brocade** — **~50% of India's handloom silk output** traditionally attributed to Varanasi region; **Mirzapur-Bhadohi** carpet belt adjacent.
+- **UP handloom priority**: **Varanasi silk brocade** includes **~50% of India's handloom silk output** traditionally attributed to Varanasi region. **Mirzapur-Bhadohi** carpet belt adjacent.
 
 > **Exam note:** **National Handloom Day = 7 August 1905 Swadeshi** | **Ministry = Textiles** — two most common traps.
 
@@ -556,10 +556,10 @@ UPPCS 2025 Q97:
 
 ### Handicrafts — How It Works
 
-- **Handicraft sector** is India's **second-largest employment** in rural areas after agriculture — **export-oriented** (US, EU, Middle East markets for carpets, metal, wood).
+- **Handicraft sector** is India's **second-largest employment** in rural areas after agriculture.
 - **Nodal administration**:
   - **Development Commissioner (Handicrafts)** under **Ministry of Textiles**.
-  - **Export Promotion Council for Handicrafts (EPCH)** — Gurgaon-based export body.
+  - **Export Promotion Council for Handicrafts (EPCH)**. Gurgaon-based export body.
   - **Trap**: Handicrafts under **Textiles ministry**, NOT Culture ministry.
 
 - **Major handicraft categories + centres** (complete exam map):
@@ -598,18 +598,18 @@ UPPCS 2025 Q97:
   | **Guru Shishya Parampara Scheme** | Culture/Textiles overlap | Master artisan trains apprentices in dying crafts |
   | **SFURTI scheme** | MSME | Traditional industry clusters (includes handicraft) |
 
-- **Craft export facts**: **Hand-knotted carpets (Bhadohi-UP)**, **brassware (Moradabad)**, **wood crafts** — top foreign exchange earners among crafts.
+- **Craft export facts**: **Hand-knotted carpets (Bhadohi-UP)**, **brassware (Moradabad)**, **wood crafts**. Top foreign exchange earners among crafts.
 
-- **Artisan social issues**: **middlemen exploitation**, **raw material price spikes**, **competition from plastic/machine goods** — **cooperatives + GI + direct e-commerce** as solutions.
+- **Artisan social issues**: **middlemen exploitation**, **raw material price spikes**, **competition from plastic/machine goods** includes **cooperatives + GI + direct e-commerce** as solutions.
 
 - **UP handicraft belt** (highest exam density):
-  - **Varanasi** — silk brocade + wood lacquer + glass beads.
-  - **Lucknow** — Chikankari + Zardozi.
-  - **Moradabad** — brass export capital of India.
-  - **Firozabad** — glass bangle city.
-  - **Khurja** — ceramic pottery.
-  - **Bhadohi** — "carpet city" (Sant Ravidas Nagar).
-  - **Agra** — marble inlay + leather (historical).
+  - **Varanasi**. Silk brocade + wood lacquer + glass beads.
+  - **Lucknow**. Chikankari + Zardozi.
+  - **Moradabad**. Brass export capital of India.
+  - **Firozabad**. Glass bangle city.
+  - **Khurja**. Ceramic pottery.
+  - **Bhadohi** includes "carpet city" (Sant Ravidas Nagar).
+  - **Agra**. Marble inlay + leather (historical).
 
 > **Exam note:** **Moradabad = brass** | **Firozabad = glass** | **Khurja = pottery** | **Bhadohi = carpet** — UP craft city quartet.
 
@@ -660,11 +660,11 @@ UPPCS 2025 Q97:
 
 ### GI Tagged Crafts — How It Works
 
-- **GI tag mechanism** — why it matters for folk crafts:
-  - **Prevents misuse** — only authorised producers in geographic area can use name (e.g., only **Varanasi weavers** sell "Banarasi Brocade" GI product).
-  - **Boosts export price** — GI = authenticity premium in global market.
-  - **Preserves traditional knowledge** — links craft to **community identity**.
-  - **Registration process**: producers' association files → examination → 10-year renewable registration.
+- **GI tag mechanism**. Why it matters for folk crafts:.
+  - **Prevents misuse**. Only authorised producers in geographic area can use name (e.g., only **Varanasi weavers** sell "Banarasi Brocade" GI product).
+  - **Boosts export price**. GI = authenticity premium in global market.
+  - **Preserves traditional knowledge**. It links craft to **community identity**.
+  - **Registration process**: The order runs producers' association files, then examination, then 10-year renewable registration.
 
 - **GI administrative facts** (exam traps):
 
@@ -736,13 +736,13 @@ UPPCS 2025 Q97:
   | **Owner** | Producer community/association | Individual company |
   | **Example** | Banarasi Brocade (region) | Fabindia brand (company) |
 
-- **Recent GI momentum**: India has **300+ registered GIs (2024–25)** — crafts among fastest-growing category; **UP among top states** for craft GI count.
+- **Recent GI momentum**: India has **300+ registered GIs (2024–25)**. Crafts among fastest-growing category. **UP among top states** for craft GI count.
 
 > **Exam note:** **GI Registry = Chennai** | **Ministry = Commerce & Industry** | **Banarasi + Chikankari = UP** — three most-tested GI facts.
 
 ### Exam Facts (raata)
 
-- GI Act 1999; registry Chennai
+- GI Act 1999. Registry Chennai.
 - Ministry = Commerce & Industry (DPIIT)
 - First GI = Darjeeling Tea 2004
 - GI validity = 10 years renewable
@@ -750,8 +750,8 @@ UPPCS 2025 Q97:
 - Chikankari GI = Lucknow UP
 - Moradabad Metal Craft GI = UP
 - Bhadohi Carpet GI = UP
-- Madhubani GI = Bihar; Warli = Maharashtra
-- GI ≠ Trademark — community vs company
+- Madhubani GI = Bihar. Warli = Maharashtra.
+- **GI ≠ Trademark**. Community vs company.
 
 ### PYQs — GI Tagged Crafts
 
