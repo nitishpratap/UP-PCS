@@ -16,14 +16,17 @@ HOME RULE (1916–18):
   Area: Maharashtra (ex Bombay city), Karnataka, CP, Berar
   President: Joseph Baptista | Secy: N.C. Kelkar
   Besant League: Sep 1916, Madras/Adyar; all-India incl. Bombay city
-  Demand: Home Rule / self-govt within Empire (Irish model)
-  1917: Besant–Arundale–Wadia interned → mass protest
+  Associates: S. Subramania Iyer, George Arundale, B.P. Wadia, C.P. Ramaswami Aiyar
+  Peak memory: ~30,000 members; New India + Commonweal = propaganda engines
+  Demand: Home Rule / self-govt within Empire (Irish / dominion model)
+  1917: Besant–Arundale–Wadia interned (16 Jun) → mass protest → release Sep
   Aug 1917 Montagu Declaration | Dec 1917 Besant = INC President (1st woman)
   Decline: Montagu–Chelmsford reforms hope + Tilak abroad + Gandhi rise
+  1920: Gandhi elected All-India Home Rule League President → renamed Swarajya Sabha
   Chronology trap 2023 Q47: Home Rule FIRST among Home Rule→Jallianwala→Khilafat→Moplah
 
 BESANT TAGS:
-  Theosophy leader (NOT founder) | New India + Commonweal
+  Theosophy leader (NOT founder; Blavatsky/Olcott founded 1875) | New India + Commonweal
   Central Hindu College 1898 (Varanasi) → nucleus for BHU
   Home Rule Sep 1916 | INC President 1917 | Opposed NCM later
 
@@ -42,9 +45,11 @@ NATIONAL EDUCATION:
   Home Rule era = educative propaganda + national colleges mood
 
 LABOUR / AITUC:
-  ILO Washington 1919 labour rep = N.M. Joshi ← 2020 Q16
+  Madras Labour Union 1918 (B.P. Wadia) = early organised mill union tag (UPSC lists)
+  ILO Washington 1919 labour rep = N.M. Joshi ← 2020 Q16 (NOT Wadia / Baptista)
   AITUC 1920; first President association = Lala Lajpat Rai
   INTUC 1947 Congress | BMS 1955 BJP | UTUC → CPI(M) key | AITUC → CPI
+  Meerut Conspiracy 1929 = labour-left repression landmark
   2022 Q123 map: BMS–4 BJP; INTUC–1 INC; UTUC–3 CPI(M); AITUC–2 CPI
 
 LEFT:
@@ -305,6 +310,7 @@ REGIONAL:
 6. **20 August 1917:** **Montagu Declaration** announces the goal of responsible government; pressure politics claims a partial victory.
 7. **December 1917:** Besant becomes **President of the Indian National Congress** (Calcutta) — first woman President.
 8. **1918–19:** Momentum fades as reform hopes, Tilak’s England visit, and the rise of Gandhi’s mass methods reshape nationalist politics.
+9. **1920:** Gandhi is elected President of the All-India Home Rule League; organisation is renamed **Swarajya Sabha** and its cadres feed into NCM mobilisation.
 
 ### Home Rule Movement — How It Works
 
@@ -736,21 +742,22 @@ REGIONAL:
 ### Course — Step by Step
 
 1. Early twentieth-century local unions and strikes appear in Bombay, Madras, Calcutta, and railway centres.
-2. In **1919**, **N.M. Joshi** goes as Indian labour representative to the **ILO Washington Summit**.
-3. In **1920**, **AITUC** is founded as the first major all-India trade-union congress.
-4. **Lala Lajpat Rai** is associated in exam memory with early AITUC presidentship.
-5. Through the 1920s–30s, communist and left influence grows inside AITUC; **Meerut Conspiracy (1929)** hits labour-left organisers.
-6. After independence politics crystallises, **INTUC (1947)** emerges as the Congress labour wing.
-7. **BMS (1955)** develops as the RSS/BJP-linked labour centre; other left centres complete the match map.
-8. UPPCS questions focus on **year + person + party affiliation**, not long strike narratives.
+2. In **1918**, **Madras Labour Union** (often tagged with **B.P. Wadia**) marks an early modern mill-union organisation in UPSC match lists.
+3. In **1919**, **N.M. Joshi** goes as Indian labour representative to the **ILO Washington Summit**.
+4. In **1920**, **AITUC** is founded as the first major all-India trade-union congress.
+5. **Lala Lajpat Rai** is associated in exam memory with early AITUC presidentship.
+6. Through the 1920s–30s, communist and left influence grows inside AITUC; **Meerut Conspiracy (1929)** hits labour-left organisers.
+7. After independence politics crystallises, **INTUC (1947)** emerges as the Congress labour wing.
+8. **BMS (1955)** develops as the RSS/BJP-linked labour centre; other left centres complete the match map.
+9. UPPCS questions focus on **year + person + party affiliation**, not long strike narratives.
 
 ### Labour Movement — How It Works
 
 - Labour Prelims is a matching sport: ILO person, AITUC year, and union↔party pairs.
 - **N.M. Joshi = ILO Washington 1919** is a direct UPPCS ask (**2020 Q16**).
-- AITUC (**1920**) is the syllabus "Trade Union Congress" core; INTUC is later (**1947**).
+- AITUC (**1920**) is the syllabus Trade Union Congress core; INTUC is later (**1947**).
 - Joseph Baptista appears in Home Rule as Tilak League President and sometimes as an ILO distractor — do not swap him with Joshi.
-- V.P. Wadia is a famous early Madras labour figure but is **not** the UPPCS ILO-1919 answer.
+- **B.P. / V.P. Wadia** = Madras Labour Union / Besant associate tag, but **not** the UPPCS ILO-1919 answer (**Joshi**).
 - Party splits after 1947 explain why one map has four unions and four parties.
 - Bonded rural labour is a different syllabus angle (Topic 8 depth); here the focus is organised industrial unions and labour politics.
 - Trap: "ILO 1919 rep = Joseph Baptista or V.P. Wadia." UPPCS key = **N.M. Joshi**.

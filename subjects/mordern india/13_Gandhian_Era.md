@@ -52,7 +52,8 @@ SWARAJ PARTY 1923:
   Karachi Mar 1931 (Patel Pres.) — Fundamental Rights + National Economic Programme ★★★
   2nd RTC Sep–Dec 1931 (Gandhi sole Congress rep; Rajendra Prasad NOT ← 2020 Q24)
   Communal Award 16 Aug 1932 (NOT 1933 ← 2019 Q19)
-  Yeravada fast 20 Sep → Poona Pact 24 Sep 1932 (71→148 reserved seats; Gandhi–Ambedkar)
+  Yeravada fast 20 Sep → Poona Pact 24 Sep 1932 (Gandhi–Ambedkar; Malaviya among signatories)
+  Poona Pact: separate electorates → reserved seats in joint electorates; 71→148 provincial; ~18% Central seats memory
   CDM ends ~Apr/May 1934
 
 CHRONOLOGY CODES:
@@ -144,7 +145,7 @@ CHRONOLOGY CODES:
 | **Nehru Report** | **1928**; goal = **Dominion Status** (not Purna Swaraj) |
 | **Lahore** | **Dec 1929**; President = **Jawaharlal**; goal = **Purna Swaraj** |
 | **Independence Day call** | **26 January 1930** |
-| **Dandi** | Start **12 Mar 1930**; salt made **6 Apr 1930**; ~240 miles; ~78 starters memory |
+| **Dandi** | Start **12 Mar 1930**; salt made **6 Apr 1930**; ~240 miles / ~385 km; **78** starters memory |
 | **Gandhi's 11 Points** | Sent to Irwin **Jan 1930** before Dandi (salt tax abolition among demands) |
 | **Gandhi–Irwin Pact** | **5 March 1931** (also called **Delhi Pact**) |
 | **Karachi Session** | **Mar 1931**; President **Sardar Patel**; **Fundamental Rights + National Economic Programme** |
@@ -1649,9 +1650,9 @@ CHRONOLOGY CODES:
 1. On **16 August 1932**, Communal Award announces separate electorates for Depressed Classes (among other communal schemes).
 2. Gandhi, in Yeravada Jail, begins a fast unto death against separate electorates for Depressed Classes.
 3. Intense talks occur between Gandhi's side and Ambedkar's side.
-4. On **24 September 1932**, **Poona Pact** is signed.
-5. Separate electorates for Depressed Classes are dropped in favour of **reserved seats** in joint electorates.
-6. Number of reserved seats is increased compared with the Award's original seat numbers.
+4. On **24 September 1932**, **Poona Pact** is signed (Gandhi–Ambedkar; **Madan Mohan Malaviya** among key signatories in UPSC lists).
+5. Separate electorates for Depressed Classes are dropped in favour of **reserved seats** in joint electorates (all voters vote; seats reserved).
+6. Provincial reserved seats rise **71 → 148**; exam memory also tags **~18%** reserved seats in the **Central** legislature.
 7. Award's wrong year **1933** is a UPPCS trap (**2019 Q19**).
 8. Pact becomes the classic Gandhi–Ambedkar constitutional compromise of 1932.
 
@@ -1674,7 +1675,8 @@ CHRONOLOGY CODES:
 |------|----------------|------------|
 | Date | **16 Aug 1932** | **24 Sep 1932** |
 | Depressed Classes | Separate electorates | Reserved seats + joint electorates |
-| Key figure | Ramsay MacDonald | Gandhi & Ambedkar |
+| Seat count memory | **71** provincial (Award scheme) | **148** provincial; **~18%** Central tag |
+| Key figure | Ramsay MacDonald | Gandhi & Ambedkar (+ Malaviya among signatories) |
 | Exam trap | Fake year **1933** | Confused with Irwin Pact |
 
 ### Key Persons
