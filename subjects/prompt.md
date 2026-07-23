@@ -3,19 +3,21 @@
 Use this file to instruct any AI (or yourself) when creating or restructuring topic notes inside `subjects/`. Every topic file must be a **complete source of truth** — the student should never need to open NCERT, another book, or a different topic file to prepare for that topic's exam questions.
 
 **Exam pattern standard:** `pyq/2025/UP_PCS_Pre_2025_GS_Paper_1.md` (format reference) + **all files in `pyq/` from 2018–2025** + **RO-ARO** — **every matching UPPCS/RO-ARO question must be searched and added per §UPPCS PYQ Search & Addition Protocol**  
+**External high-yield (mandatory when `pyq/` is thin):** Also run **§External High-Yield Completeness Protocol** — search UPSC/standard exam lists + known RO-ARO hits so books, poems, novels, authors, match-pairs are not missed just because they are absent from local `pyq/`.  
 **Syllabus source:** Each subject folder's `00_Syllabus.md`  
 **Gold standard (structure + depth):** `subjects/environments & ecology/01_Environment_Basics.md` — **match this file's depth, not just its headings**  
-**Per-subject gold standard:** Once a subject's Topic 1 is student-approved, that file becomes the gold standard for *that* subject (e.g. `subjects/art and culture/01_Institutions_Related_to_Indian_Culture.md`)
+**Per-subject gold standard:** Once a subject's Topic 1 is student-approved, that file becomes the gold standard for *that* subject (e.g. `subjects/art and culture/01_Institutions_Related_to_Indian_Culture.md`, `subjects/mordern india/01_Advent_of_Europeans.md`). Match **narrative depth and block structure**, not section headings alone.
 
-> **For the AI:** You must **self-verify** every topic before presenting it. The student should never need to ask "is this complete?" Run the full workflow in §Mandatory AI Workflow and output the §Delivery Report. If any gate fails, fix the file first — do not ask the student to cross-check.
+> **For the AI:** You must **self-verify** every topic before presenting it. The student should never need to ask "is this complete?" or "why is this section thin?" Run the full workflow in §Mandatory AI Workflow and output the §Delivery Report. If any gate fails (including **F17–F21** history event depth and **F22** external high-yield gaps), fix the file first — do not ask the student to cross-check.
 
 ### One-Line Universal Prompt (copy for any topic)
 
 ```
 Create/restructure Topic N in @subjects/[subject]/ using @subjects/prompt.md + @00_Syllabus.md + subject Topic 1 gold standard + @pyq/.
 Run Phase A→B→C from prompt.md. **Phase A Step 4: run full UPPCS PYQ search protocol (§UPPCS PYQ Search & Addition Protocol) — grep all `pyq/` files for years 2018–2025 + RO-ARO, list every hit, add all to topic file.**
-Self-verify (F1–F16). Output Delivery Report with PYQ audit table + "File ready: YES".
-Match Topic 1 depth. Use full-sentence bullets, not label-fragments or semicolon chains. No etc. in lists. One topic only. Wait for approval before next.
+**Phase A Step 4b: run §External High-Yield Completeness Protocol** — web/standard UPSC–UPPCS match lists + RO-ARO culture hits for books/authors/poems/novels/schemes so nothing exam-critical is left only because local `pyq/` lacks it.
+Self-verify (F1–F22). Output Delivery Report with PYQ audit + External high-yield audit + per-section depth audit + "File ready: YES".
+Match subject Topic 1 gold-standard depth exactly — headings alone are NOT enough. For wars/battles/treaties/rebellions/annexations: enforce §History Event Depth Protocol (Causes + Step-by-Step Course + Results + Key Persons). Use full-sentence bullets, not label-fragments or semicolon chains. No etc. in lists. One topic only. Wait for approval before next.
 ```
 
 ---
@@ -58,21 +60,26 @@ Every topic must go through **Phase A → B → C**. Do not present output until
 
 ```
 1. Read 00_Syllabus.md → copy EVERY bullet for this topic number into a list
-2. Read 01_Environment_Basics.md → note section pattern (Definitions, How It Works, Exam Facts, PYQs, Examples)
+2. Read subject **Topic 1 gold-standard file** (e.g. `01_Environment_Basics.md` or `01_Advent_of_Europeans.md`) → note section pattern **and narrative depth** (not headings only). For History: study one approved war section (Carnatic / Anglo-Maratha) as depth template.
 3. Read NCERT chapters for this topic (see §NCERT map) → list every heading/subheading
 4. **Run UPPCS PYQ search protocol** (§UPPCS PYQ Search & Addition Protocol) — grep **every file in `pyq/` (UPPCS Prelims 2018–2025 + RO-ARO)**; build a numbered PYQ inventory (Q#, year, exam type, subtopic, target §N.X); **do not write until this list exists**
+4b. **Run External High-Yield Completeness Protocol** (§External High-Yield Completeness Protocol) — search **beyond local `pyq/`** (UPSC/standard match lists, known RO-ARO hits, standard freedom-struggle / culture lists) for books, poems, novels, authors, schemes, match-pairs that this syllabus topic owns; merge into Concept Inventory; **do not write matching-heavy sections until this inventory exists**
 5. Build TOPIC BOUNDARY TABLE (IN / OUT / BRIEF)
 6. Build SYLLABUS → N.X MAP (one row per bullet; no bullet unassigned)
 7. Build CONCEPT INVENTORY — every exam concept that must appear, with target section:
    - definitions, mechanisms, paired concepts, complete lists, dates, UP examples, 2025 PYQ overlaps
+   - **plus every row from External High-Yield inventory** (Step 4b)
 8. Draft Syllabus Coverage Map "What must be inside" column — specific concepts, not vague labels
 ```
 
-**Stop if:** Any syllabus bullet has no N.X assignment → fix map before writing.
+**Stop if:** Any syllabus bullet has no N.X assignment → fix map before writing.  
+**Stop if:** Topic is matching-heavy (books/authors, poems, novels, culture names, scheme↔ministry, org↔report) and External High-Yield inventory was skipped → run Step 4b before writing.
 
 ### Phase B — Write (follow gold standard structure)
 
-Write the full file per §Required Document Structure. While writing, enforce §Subtopic Depth Matrix and §Completeness Rules.
+Write the full file per §Required Document Structure. While writing, enforce §Subtopic Depth Matrix, §History Event Depth Protocol (if applicable), and §Completeness Rules.
+
+**Phase B depth rule:** Do not batch-write all sections then audit at the end. For History/Modern India topics, write **one war/event block at a time** and self-check it against §History Event Depth Protocol before moving to the next. A file with correct headings but thin bodies is a **Phase B failure** — fix before Phase C.
 
 ### Phase C — Post-Audit (before presenting to student)
 
@@ -96,8 +103,13 @@ These are the gaps that made Topic 1 *look* incomplete. The AI must check each o
 | 6 | **Mechanism content mandatory (point-wise)** | 5 tables, zero explanation | Point-wise bullets per subtopic (≥8 substantive points) before tables |
 | 7 | **UP Focus when applicable** | Kanpur pollution omitted in Topic 9 | UP Focus table in Consolidated Reference |
 | 8 | **PYQ mined from pyq/, not invented** | Generic "UPPCS asked this"; only recent years searched | Full question text from `pyq/`; **all** matching UPPCS/RO-ARO (2018–2025) in PYQ Bank; Q# + year in Delivery Report |
+| 8b | **External high-yield beyond pyq/** | Only syllabus eight + local PYQs; missed Firangiya / Bose / Savarkar / GG books | Ran §External High-Yield Completeness Protocol; Quick Revision + Master Match include standard UPSC–UPPCS match titles |
 | 9 | **Practice mirrors 2025 format** | All simple MCQs | ≥40% multi-statement; mix A/R, matching |
 | 10 | **Syllabus map = checklist** | Vague "covers basics" | Specific concepts per row |
+| 11 | **History events = full narrative depth** | Anglo-Maratha as 8 date bullets only | Each war: Causes + Step-by-Step Course + Results + Key Persons (see §History Event Depth Protocol) |
+| 12 | **Multi-war topics split per war** | "Four Anglo-Mysore Wars" in one 10-line block | Parent §N.X + sub-blocks `N.X.1` First War, `N.X.2` Second War, etc. |
+| 13 | **Gold standard = depth, not headings** | File has Definitions + How It Works headings but body is thin | Match approved subject Topic 1 section **line count and block structure**, not just section titles |
+| 14 | **Treaty-year traps need comparison table** | Salbai/Bassein/Madras/Mangalore mentioned only in bullets | Dedicated treaty comparison table when 2+ treaties in same subtopic |
 
 ---
 
@@ -120,6 +132,93 @@ Every subtopic section must include **all** rows that apply:
 **Classification subtopics** must include: all bases, sub-types, India-specific list (if any), legal/administrative class (if any), comparison traps.
 
 **Scheme/policy subtopics** must include: Scheme card (Year | Ministry | Objective | Trap).
+
+**History event subtopics** (wars, battles, treaties, rebellions, annexations, administrative turning points) must follow **§History Event Depth Protocol** in addition to this matrix. Passing F2 (≥8 bullets) alone is **not sufficient** for event subtopics.
+
+---
+
+## History Event Depth Protocol (Mandatory — Ancient, Medieval, Modern India)
+
+> **Why this exists:** Topic 2 (East India Company Expansion) initially passed heading checks but failed student review — sections like Anglo-Maratha Wars had only ~10 summary bullets while Carnatic Wars in Topic 1 had Causes, Step-by-Step Course, Results, and Key Persons. **Headings without narrative depth = incomplete.**
+
+### When this protocol applies
+
+Apply to **every** §N.X (or §N.X.Y) that covers any of:
+
+| Event type | Examples |
+|------------|----------|
+| **War / campaign** | Anglo-Mysore Wars, Carnatic Wars, Anglo-Maratha Wars, Anglo-Sikh Wars |
+| **Battle** | Plassey, Buxar, Assaye, Mudki, Wandiwash |
+| **Treaty / settlement** | Salbai, Bassein, Sugauli, Lahore, Allahabad 1765 |
+| **Rebellion / revolt** | Banaras Rebellion, Chait Singh, 1857 precursors |
+| **Annexation** | Punjab, Sindh, Awadh, Doctrine of Lapse states |
+| **Policy turning point** | Subsidiary Alliance, Dual Government, Doctrine of Lapse |
+
+**Do NOT apply** to pure definition lists (e.g. "types of biomes") or scheme cards — those follow §Subtopic Depth Matrix only.
+
+### Required blocks per event subtopic (all mandatory)
+
+| Block | Required? | Minimum |
+|-------|-----------|---------|
+| `### Definitions` | **Always** | Terms, dates, key actors for this event |
+| `### Causes` or `#### Causes` | **Always** | **4–5 numbered causes** — not one-line bullets |
+| `### Course of [Event] — Step by Step` or `#### Course — Step by Step` | **Always** | **6–8 numbered steps** — chronological sequence |
+| `### [Event] — How It Works` | **Always** | **≥8 full-sentence bullets** — mechanism, cause→effect, traps |
+| `### Results of [Event]` or `#### Results` | **Always** | **Results table** (Result \| Why it matters) — minimum 4 rows |
+| `### Key Persons` | If people matter | Table: Person \| Side \| Role — minimum 4 rows |
+| `> **Exam note:**` | **Always** | Most-tested trap for this event |
+| `### Exam Facts (raata)` | **Always** | 5–15 bullets |
+| `### PYQs — [Subtopic]` | **Always** | Per §Subtopic Depth Matrix |
+| `### Examples (N.X)` | **Always** | ≥3 rows |
+
+### Multi-war / multi-event parent sections
+
+When one syllabus bullet covers **2 or more wars, battles, or treaties** (e.g. Anglo-Mysore Wars, Anglo-Maratha Wars, Carnatic Wars):
+
+1. Parent `## N.X` gets: **Definitions**, **Background**, **Master Overview Table**, **Treaty Comparison Table** (if applicable).
+2. **Each war/event** gets its own sub-block: `### N.X.1 First … War`, `### N.X.2 Second … War`, etc.
+3. **Each sub-block** must satisfy the full Required blocks table above — no shortcuts.
+4. **Never** summarise all wars in one `How It Works` block only.
+
+**Gold-standard reference (Modern India):** `subjects/mordern india/01_Advent_of_Europeans.md` §1.13–1.15 (Carnatic Wars) and `02_East_India_Company_Expansion.md` §2.10 (Anglo-Maratha Wars) after student-approved expansion.
+
+### Thin-section smell test (auto-fail — expand before delivery)
+
+Reject and expand if **any** of these are true for an event subtopic:
+
+| Smell test | Fail signal |
+|------------|-------------|
+| **No Causes block** | Only dates and outcomes listed |
+| **No Step-by-Step Course** | War covered in 3–5 summary bullets |
+| **No Results table** | Results mentioned only inline |
+| **Multi-war in one block** | "First War: … Second War: … Third War: …" in one How It Works |
+| **Treaty trap without table** | Salbai vs Bassein, Madras vs Mangalore — no comparison table |
+| **Section too short** | Event subtopic under **~35 lines** total (excluding PYQs) |
+| **Checklist bullets only** | `How It Works` = date + treaty + trap list with no cause→course→result narrative |
+
+### Bad vs Good (reject thin war sections)
+
+**Bad (reject — looks complete but is not):**
+```
+### Anglo-Maratha Wars — How It Works
+- First War 1775–82: Raghunath Rao; Salbai 1782.
+- Second War 1803–05: Wellesley; Bassein 1802.
+- Third War 1817–18: Peshwa removed.
+- Trap: Salbai ended Third War.
+```
+
+**Good (required — each war expanded):**
+```
+### 2.10.1 First Anglo-Maratha War (1775–1782)
+#### Causes
+1. Succession dispute at Poona …
+#### Course of the War — Step by Step
+1. 1775: British troops march from Bombay …
+#### First War — How It Works
+- [8+ full-sentence bullets]
+#### Results of the First Anglo-Maratha War
+| Result | Why it matters |
+```
 
 ---
 
@@ -181,6 +280,12 @@ If **any** of these are true, the file is **NOT complete**:
 | F14 | Must-Know Term Comparisons missing Hindi column |
 | F15 | Fewer than 10 Common Traps (15 for Topics 4, 9, 17, 24) |
 | F16 | Any explanatory bullet uses fragment style such as `Author: X. Fragment; fragment`, `Ruler: title; conquest; temple`, semicolon-chain notes, dash-chain notes (`Title — fact — trap`), or arrow-chain notes (`A → B → C`) instead of complete sentences |
+| F17 | Any History **event subtopic** (war, battle, treaty, rebellion, annexation, policy turning point) lacks **`Causes`** section with ≥4 numbered causes |
+| F18 | Any History **event subtopic** lacks **`Course — Step by Step`** section with ≥6 numbered steps |
+| F19 | Any History **event subtopic** lacks **`Results`** table with ≥4 rows |
+| F20 | Any parent section covering **2+ wars/events** lacks per-event sub-blocks (`N.X.1`, `N.X.2`, …) each with full §History Event Depth Protocol blocks |
+| F21 | Any History event subtopic's `How It Works` is only a date/treaty/name checklist without cause→course→result narrative (thin summary disguised as depth) |
+| F22 | Matching-heavy topic (books/authors, poems, novels, Bhojpuri/UP culture, schemes, org↔report) delivered **without** §External High-Yield Completeness Protocol — OR high-yield title known from UPSC/standard lists / RO-ARO is missing from Quick Revision / Master Match / teaching prose |
 
 ---
 
@@ -197,11 +302,13 @@ After Phase C passes, output this table to the student — **no manual cross-che
 | NCERT headings covered (IN scope) | ✅ | [chapters checked] |
 | PYQs mined from pyq/ | ✅ | **UPPCS/RO-ARO: [list Q# + year + exam for every hit, 2018–2025]**; UPSC: [count]; all in PYQ Bank |
 | UPPCS PYQ audit | ✅ | Searched: [list all pyq/ paths — Prelims 2018–2025 + RO-ARO]; Found: [N]; Added inline: [N]; Added PYQ Bank: [N]; Missing: 0 |
+| External high-yield audit (F22) | ✅ | Sources searched: [list]; Titles added beyond syllabus/`pyq/`: [list]; Deliberately skipped: [list + why] |
 | 2025 overlap in prose | ✅ | [Q numbers → sections] |
 | Practice Zone count + format mix | ✅ | [N questions; X% multi-statement] |
 | UP Focus included | ✅/N/A | |
-| Automatic fail conditions (F1–F16) | ✅ 0 failures | |
-| Gold standard diff vs Topic 1 structure | ✅ | [same skeleton] |
+| Automatic fail conditions (F1–F22) | ✅ 0 failures | |
+| History event depth audit | ✅ | [list every war/battle/treaty §N.X — Causes ✅ / Course ✅ / Results ✅ / Key Persons ✅ or N/A] |
+| Gold standard diff vs subject Topic 1 | ✅ | [same skeleton **and** same narrative depth — not headings only] |
 
 **Deliberately excluded (other topics):** [list OUT-of-scope concepts]
 **File ready for student review:** YES / NO
@@ -330,6 +437,7 @@ Not all 25 topics are equal. Match effort to syllabus size and exam weight.
 | **Current affairs** | 24 | **Last verified: [Month Year]** in header; govt sources (PIB, MoEFCC, Budget); schemes with launch year + nodal ministry; refresh every 6 months |
 | **Sparse syllabus** | 25 Global Environmental Geography | Split into: Major biomes, Climate zones & environment, Global pollution hotspots, International env geography links — still full prose + 25+ Practice questions |
 | **Renewable / disaster** | 22, 23 | India capacity, UP projects where relevant, disaster–environment cause chain |
+| **History — Ancient / Medieval / Modern India** | Advent of Europeans, EIC Expansion, Revolt, National Movement | **§History Event Depth Protocol mandatory** for every war, battle, treaty, rebellion, annexation; multi-war topics split into `N.X.1`–`N.X.N`; match subject Topic 1 Carnatic-war depth |
 
 ### Practice Zone sizing (scale by subtopic count)
 
@@ -488,32 +596,118 @@ Do **not** rely only on inline memory. For each topic:
 
 ---
 
+## External High-Yield Completeness Protocol (Mandatory — F22)
+
+> **Why this exists:** Modern India Topic 10 initially covered only syllabus eight + local Prelims PYQs. Student found **Firangiya (Manoranjan Prasad Sinha)** missing — a real **RO-ARO 2021** ask absent from local `pyq/` because `pyq/ro-aro/` was empty. Later audit also showed standard UPSC match titles (Bose *Indian Struggle*, Savarkar *War of Independence*, Curzon/Hardinge GG books, etc.) thin or missing. **Local `pyq/` alone is not a complete source of truth for matching-heavy topics.**
+
+### When this protocol applies (do not skip)
+
+Run **in Phase A Step 4b** for **every** topic. Treat as **hard mandatory** (cannot mark File ready: YES without it) when **any** of these are true:
+
+| Trigger | Examples |
+|---------|----------|
+| Syllabus lists **Books / Authors / Literature / Poems / Novels** | Modern India Topic 10; Art & Culture literature bullets |
+| Topic is **match-list heavy** | Book↔author, poem↔poet, scheme↔ministry, org↔report, day↔date, treaty↔year |
+| UP / Purvanchal **language-culture** stream | Bhojpuri, Awadhi, Hindi realism, folk theatre |
+| Local `pyq/ro-aro/` **missing or empty** but topic is ★★+ culture/history | Must still search known RO-ARO hits externally |
+| Syllabus bullet is a **short label** that exams expand | "Bhojpuri Literature", "Books Related to Governors-General", "Realistic Novels" |
+
+### Phase A — External search workflow (before writing matching sections)
+
+```
+Step 1: From 00_Syllabus.md, list every matching / name-pair bullet for this topic
+Step 2: Search standard UPSC / UPPCS / SSC static-GK sources for that bullet family:
+        - "Modern Indian History Books and Authors" / "Books of Freedom Struggle"
+        - ClearIAS / standard UPSC portals / reputable exam compilations
+        - Topic-specific: Bhojpuri literature, Premchand novels, Bankim novels, Ambedkar books
+Step 3: Search known RO-ARO / UPPSC culture hits when pyq/ro-aro/ is empty:
+        - e.g. "UPPSC RO ARO Firangiya", "Bidesiya", "Batohiya", district/culture poems
+Step 4: Build EXTERNAL HIGH-YIELD INVENTORY (AI-internal):
+        | Title / Work | Author | Type (book/poem/play/novel) | Why exam-relevant | Source | Target §N.X | Add? (YES/NO) |
+Step 5: Merge every YES row into Concept Inventory + Quick Revision + Master Match Table
+Step 6: For each YES row — teach in prose (not only a table cell): definition/tag + Exam note trap if swap-prone
+Step 7: If a found RO-ARO/UPSC question is NOT in local pyq/ — still add full text to PYQ Bank tagged
+        `(RO-ARO/UPSC YYYY — not yet in local pyq/)` and note gap in Delivery Report
+Step 8: Stop if matching-heavy topic and inventory has < syllabus expansions for labelled bullets
+        (e.g. "Bhojpuri Literature" with only one name = FAIL — broaden search)
+```
+
+### Minimum coverage rules (matching topics)
+
+| Level | Rule |
+|-------|------|
+| **Syllabus named titles** | Every explicitly named book in `00_Syllabus.md` → full §N.X teaching |
+| **Syllabus labelled streams** | "Bhojpuri Literature", "Realistic Novels", "Books by Ambedkar", "Books Related to Governors-General", "Books on Partition" → **≥ core high-yield set**, not one example only |
+| **Standard freedom-struggle match list** | Include common UPSC/UPPCS pairs even if not in local `pyq/` this year (Bose, Savarkar, Prasad *India Divided*, Bhagat Singh essay, Neel Darpan, Unhappy India↔Mother India, etc.) when topic owns Books & Authors |
+| **RO-ARO culture** | If `pyq/ro-aro/` empty, still search and add known hits (Firangiya-class) — do not wait for folder |
+| **Depth** | Title in Master Table alone is **not** enough for syllabus-stream bullets — need How It Works / Exam Facts / traps for the stream |
+
+### Canonical anti-pattern (reject)
+
+**Bad (F22):**
+```
+### Bhojpuri Literature
+- Bhikhari Thakur — Bidesiya
+```
+→ Misses Firangiya / Batohiya / Heera Dom already asked or standard in culture lists.
+
+**Good:**
+```
+Quick Revision + §N.X with:
+Firangiya → Manoranjan Prasad Sinha (1921; RO-ARO)
+Batohiya → Raghuveer Narayan
+Bidesiya → Bhikhari Thakur
+Achhut Kee Shikayat → Heera Dom
++ traps swapping authors
+```
+
+### What NOT to dump
+
+| Reject dumping | Why |
+|----------------|-----|
+| Entire Wikipedia author bibliographies | Not exam ROI |
+| Current-affairs bestsellers unrelated to syllabus | Out of scope |
+| Ancient/medieval historiography inside Modern India Books topic | Wrong topic boundary |
+| Economy-thinker match lists inside Modern India Topic 10 | Wrong subject |
+
+Mark those **OUT** in Topic Boundary Table and list under Delivery Report "Deliberately excluded".
+
+### Delivery Report row (required)
+
+```
+| External high-yield audit (F22) | ✅ | Sources: [ClearIAS / UPSC portals / RO-ARO web]; Added: [titles]; Skipped: [titles + why]; pyq/ro-aro missing?: YES/NO |
+```
+
+---
+
 ## When Restructuring a Topic File
 
 Copy-paste this block as your instruction:
 
 ```
-Restructure @[topic_file].md using @subjects/prompt.md, @00_Syllabus.md, @01_Environment_Basics.md, and @pyq/ (Prelims 2018–2025 + RO-ARO).
+Restructure @[topic_file].md using @subjects/prompt.md, @00_Syllabus.md, subject Topic 1 gold-standard file, and @pyq/ (Prelims 2018–2025 + RO-ARO).
 
 MANDATORY WORKFLOW (from prompt.md — do not skip):
-Phase A: Pre-audit → syllabus list, NCERT map, PYQ list, boundary table, concept inventory
-Phase B: Write full file matching Topic 1 depth
-Phase C: Post-audit → run F1–F16 fail conditions + Quality Checklist; fix all gaps
+Phase A: Pre-audit → syllabus list, NCERT map, PYQ list, **External High-Yield inventory (F22)**, boundary table, concept inventory
+Phase B: Write full file matching subject Topic 1 depth (headings + narrative — not headings only)
+Phase C: Post-audit → run F1–F22 fail conditions + Quality Checklist; fix all gaps
 
 Rules:
 1. List every subtopic from 00_Syllabus.md — map each to N.X (no skips).
-2. Match EXPLANATION DEPTH of 01_Environment_Basics.md — prose + tables, not table-only.
+2. Match EXPLANATION DEPTH of subject Topic 1 gold standard — prose + tables, not table-only or thin checklists.
 3. Every N.X needs: Definitions (if applicable) + How It Works (**point-wise bullets**, ≥8 points) + Exam note + Exam Facts + PYQs + Examples.
-4. No "etc." — all enumerated lists must be complete (biomes, zones, categories).
-5. Every 2025 paper overlap concept must appear in N.X prose, not only Practice Zone.
-6. PYQs: run §UPPCS PYQ Search Protocol — grep all `pyq/` files (**2018–2025 Prelims + RO-ARO**); add **every** matching UPPCS/RO-ARO (full text inline + Complete PYQ Bank); list all Q# + year in Delivery Report.
-7. Practice Zone: scaled count (25–50); UPPCS 2025 format mix (≥40% multi-statement); answers in `<details>` blocks.
-8. Hindi terms in Must-Know Term Comparisons.
-9. UP Focus table if topic touches UP geography/forests/wildlife/rivers/pollution.
-10. Internal Phase A syllabus map complete (do NOT put Syllabus Coverage Map/Checklist in the student file).
-11. Work on ONE topic only. Do not touch other files.
-12. Output Delivery Report (from prompt.md) showing 0 fail conditions.
-13. Stop and wait for my approval before starting the next topic.
+4. **History events (wars/battles/treaties/rebellions/annexations):** enforce §History Event Depth Protocol — Causes (≥4) + Course Step-by-Step (≥6) + Results table + Key Persons. Multi-war topics → `N.X.1`, `N.X.2`, … sub-blocks.
+5. No "etc." — all enumerated lists must be complete (biomes, zones, categories).
+6. Every 2025 paper overlap concept must appear in N.X prose, not only Practice Zone.
+7. PYQs: run §UPPCS PYQ Search Protocol — grep all `pyq/` files (**2018–2025 Prelims + RO-ARO**); add **every** matching UPPCS/RO-ARO (full text inline + Complete PYQ Bank); list all Q# + year in Delivery Report.
+7b. **External high-yield:** run §External High-Yield Completeness Protocol — UPSC/standard match lists + RO-ARO culture hits for books/poems/novels/authors; add to Quick Revision + Master Match + prose; Delivery Report External high-yield audit row.
+8. Practice Zone: scaled count (25–50); UPPCS 2025 format mix (≥40% multi-statement); answers in `<details>` blocks.
+9. Hindi terms in Must-Know Term Comparisons.
+10. UP Focus table if topic touches UP geography/forests/wildlife/rivers/pollution.
+11. Internal Phase A syllabus map complete (do NOT put Syllabus Coverage Map/Checklist in the student file).
+12. Work on ONE topic only. Do not touch other files.
+13. Output Delivery Report (from prompt.md) with History event depth audit + External high-yield audit + "File ready: YES" only if F1–F22 pass.
+14. Stop and wait for my approval before starting the next topic.
 
 Do NOT present until Verification Report shows "File ready: YES".
 ```
@@ -933,7 +1127,7 @@ Each framework: **Question title → Structure (word count) → 5–7 bullet poi
 
 ## Quality Checklist (Phase C — before marking a topic "complete")
 
-> This checklist is run **by the AI automatically**. Every item must pass; map failures to §Automatic Fail Conditions (F1–F16).
+> This checklist is run **by the AI automatically**. Every item must pass; map failures to §Automatic Fail Conditions (F1–F22).
 
 ### Syllabus coverage
 - [ ] Every `00_Syllabus.md` bullet for this topic has a dedicated N.X (or N.X.Y) section **(F1)**
@@ -945,6 +1139,9 @@ Each framework: **Question title → Structure (word count) → 5–7 bullet poi
 ### Content depth
 - [ ] Every subtopic has **Definitions** table (where applicable) **(F7)**
 - [ ] Every subtopic has **point-wise How It Works bullets** (≥8 substantive points) **(F2)**
+- [ ] **History event subtopics** have **Causes** (≥4), **Course Step-by-Step** (≥6), **Results table** (≥4 rows) **(F17–F19)**
+- [ ] **Multi-war/event** parent sections split into per-war sub-blocks with full depth each **(F20)**
+- [ ] No event subtopic is a thin date/treaty checklist only **(F21)**
 - [ ] Every subtopic has **≥1 Exam note** callout **(F7)**
 - [ ] No section has **4+ consecutive tables** without prose **(F12)**
 - [ ] No "etc." or incomplete enumerated lists **(F4)**
@@ -971,6 +1168,8 @@ Each framework: **Question title → Structure (word count) → 5–7 bullet poi
 - [ ] **Every** matching UPPCS/RO-ARO from `pyq/` added to Complete PYQ Bank with full question text **(F9)**
 - [ ] PYQ inventory in Delivery Report lists all Q# + year + exam type found — Missing: 0 **(F9)**
 - [ ] PYQs mined from `pyq/` — full text inline + PYQ Bank self-test cards with hidden answers **(F9)**
+- [ ] **External High-Yield Completeness Protocol** run for matching-heavy topics; Delivery Report External high-yield audit row filled **(F22)**
+- [ ] Standard UPSC/UPPCS match titles + known RO-ARO culture hits for this topic present in Quick Revision / Master Match / prose **(F22)**
 - [ ] Hindi column in Must-Know Term Comparisons **(F14)**
 
 ### UP & completeness
@@ -988,6 +1187,8 @@ Each framework: **Question title → Structure (word count) → 5–7 bullet poi
 - [ ] Each syllabus bullet: student can answer a 2-statement UPPCS question from that section alone
 - [ ] Each Practice Zone wrong option: explanation says why it fails
 - [ ] Student does not need NCERT or another topic file for this topic's questions
+- [ ] **History events:** student can explain cause → course → result → key trap for every war/battle/treaty section without opening another file
+- [ ] **Multi-war sections:** student can distinguish treaties/years across wars (e.g. Salbai vs Bassein) using tables in the file
 
 ---
 
@@ -996,11 +1197,12 @@ Each framework: **Question title → Structure (word count) → 5–7 bullet poi
 ```
 Phase A — PRE-AUDIT (before writing)
   Step 1: Read 00_Syllabus.md → list ALL bullets for THIS topic
-  Step 2: Read 01_Environment_Basics.md → gold standard structure
+  Step 2: Read subject Topic 1 gold-standard file → structure **and narrative depth** (History: Carnatic/Anglo-Maratha war section as template)
   Step 3: Read NCERT chapters for this topic → heading list
   Step 4: Run §UPPCS PYQ Search Protocol — grep all `pyq/` (**2018–2025 Prelims + RO-ARO**) → PYQ inventory (Q#, year, exam, §N.X) — **mandatory before writing**
+  Step 4b: Run §External High-Yield Completeness Protocol → EXTERNAL HIGH-YIELD INVENTORY (books/poems/novels/authors/match pairs beyond local pyq/) — **mandatory for matching-heavy topics (F22)**
   Step 5: Build Topic Boundary Table (IN / OUT / BRIEF)
-  Step 6: Build Syllabus → N.X map + Concept Inventory
+  Step 6: Build Syllabus → N.X map + Concept Inventory (merge External High-Yield YES rows)
   Step 7: Draft Syllabus Coverage Map with specific "What must be inside"
 
 Phase B — WRITE
@@ -1008,7 +1210,7 @@ Phase B — WRITE
   Step 9: Write/restructure ONE topic — all N.X sections, Consolidated Ref, Practice, etc.
 
 Phase C — POST-AUDIT (before presenting)
-  Step 10: Run Automatic Fail Conditions F1–F16
+  Step 10: Run Automatic Fail Conditions F1–F22
   Step 11: Run Quality Checklist — fix every failure
   Step 12: Output Delivery Report in chat → must show "File ready: YES"
   Step 13: Present to student → wait for approval before Topic N+1
@@ -1051,8 +1253,8 @@ Restructure environments & ecology/02_Ecology_and_Ecosystem.md using:
 - @pyq/ (Prelims 2018–2025 + RO-ARO)
 
 Self-verify per prompt.md — I should NOT need to cross-check completeness.
-Phase A: boundary table + concept inventory before writing.
-Phase C: F1–F16 pass + Delivery Report "File ready: YES" (no audit tables in file).
+Phase A: boundary table + concept inventory + External High-Yield inventory (F22) before writing.
+Phase C: F1–F22 pass + Delivery Report "File ready: YES" (no audit tables in file).
 No "etc." in any list. 2025 overlap in prose. UP Focus if applicable.
 Practice Zone: 40+ questions, UPPCS 2025 format.
 Work on Topic 2 only. Wait for my approval before Topic 3.
@@ -1068,8 +1270,8 @@ Create art and culture/01_Institutions_Related_to_Indian_Culture.md using:
 - @pyq/ (Prelims 2018–2025 + RO-ARO)
 
 Self-verify per prompt.md — I should NOT need to cross-check completeness.
-Phase A: boundary table + concept inventory before writing.
-Phase C: F1–F16 pass + Delivery Report "File ready: YES" (no audit tables in file).
+Phase A: boundary table + concept inventory + External High-Yield inventory (F22) before writing.
+Phase C: F1–F22 pass + Delivery Report "File ready: YES" (no audit tables in file).
 No "etc." in any list. UP Focus (Lucknow Museum, SNA, ASI HQ traps).
 Practice Zone: 30+ questions, UPPCS 2025 format.
 Work on Topic 1 only. Wait for my approval before Topic 2.
@@ -1182,6 +1384,21 @@ Run **§UPPCS PYQ Search & Addition Protocol** on all `pyq/` files (**UPPCS Prel
 **Visual priority for Ancient History:** (1) **location maps** for site/capital matching, (2) **conceptual diagrams** for structure/chronology, (3) labelled sketches only when PYQ demands artefact ID. All files in `images/` — must open offline.
 -->
 **Images disabled:** Cover site/capital matching and structure/chronology in prose and tables only — do not generate or attach image files.
+
+### Modern India (in progress)
+
+| Topic | File | Status | Depth reference |
+|-------|------|--------|-----------------|
+| 1 | `01_Advent_of_Europeans.md` | ✅ Student-approved | Carnatic Wars §1.13–1.15 = gold standard for war depth |
+| 2 | `02_East_India_Company_Expansion.md` | ✅ Expanded | Anglo-Maratha §2.10, Anglo-Mysore §2.9 = multi-war sub-block pattern |
+
+**Depth rule for Modern India:** Every war/battle/treaty/rebellion/annexation section must match §History Event Depth Protocol. Multi-war syllabus bullets **must** use `N.X.1`, `N.X.2`, … sub-blocks. Topic 2 thin-draft failure is the canonical anti-pattern — do not repeat.
+
+**PYQ mining (Modern India):** Run §UPPCS PYQ Search & Addition Protocol on all `pyq/` files. Search `Subject: History`, treaty-year matching, battle chronology, Governor-General matching, Dalhousie/Wellesley/Hastings traps.
+
+**External high-yield (Modern India — F22):** For Topic 10 (Books & Authors) and any literature/culture bullet, also run §External High-Yield Completeness Protocol. Canonical miss to never repeat: **Firangiya → Manoranjan Prasad Sinha (RO-ARO 2021)** when `pyq/ro-aro/` is empty. Also lock standard freedom-struggle match titles (Bose, Savarkar, Prasad *India Divided*, Bhagat Singh, Neel Darpan, Curzon/Hardinge GG books, Batohiya, Bidesiya, Heera Dom) into Quick Revision + Master Match even if absent from local Prelims `pyq/`.
+
+**UP Focus (Modern India):** Prayagraj/Akbar Fort, Banaras/Chait Singh, Awadh annexation, Jhansi/Lapse, UP 1857 centres (Kanpur, Lucknow, Meerut link), Gorakhpur/Chunar fort.
 
 ### Future subjects
 
