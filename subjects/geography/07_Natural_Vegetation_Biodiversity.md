@@ -2,14 +2,25 @@
 ### ★ Complete Source of Truth — No other book/notes needed for this topic
 
 > **Covers syllabus:** Forest Types | Tropical Evergreen Forests | Tropical Deciduous Forests | Thorn Forests | Montane Forests | Tidal / Littoral Forests | Natural Vegetation | Forest Distribution | Plant Acclimatization | National Parks | Wildlife Sanctuaries | Biosphere Reserves | Biosphere Reserve Programme | Ramsar Sites | Mangroves | Coral Reefs
-> **Also baked (exam-critical expansions):** Moist vs dry deciduous | ISFR/FSI figures | In-situ vs ex-situ | Project Tiger & Elephant chronology | WLPA 1972 / BDA 2002 | UP forests, NPs, WLS, Ramsar | MISHTI | Operation Olivia | World vegetation matches (Maquis/Fynbos/Chaparral)
-> **Sources baked in:** NCERT Geography Class 9–11 (Natural Vegetation), ISFR (FSI), MoEFCC protected-area lists, UPPCS/UPSC PYQs 2018–2025
+> **Also baked (exam-critical expansions):** Moist vs dry deciduous | ISFR/FSI figures | In-situ vs ex-situ | Project Tiger & Elephant chronology | WLPA 1972 / BDA 2002 | UP forests + only-NP Dudhwa + 4 Tiger Reserves + WLS/Ramsar full locks | **Surha Tal (Ballia) = India’s 100th Ramsar (2026) / UP’s 13th** | Biosphere core–buffer–transition | Conservation/Community Reserve | Forest Policy 1988 / 33% goal | MISHTI | Operation Olivia | World vegetation matches (Maquis/Fynbos/Chaparral)
+> **Sources baked in:** NCERT Geography Class 9–11 (Natural Vegetation), ISFR (FSI), MoEFCC protected-area lists, Ramsar/MoEFCC 2026 Surha Tal notification, UPPCS/UPSC PYQs 2018–2025
 > **Exam weight:** ★★★★ Very High — forest-type × rainfall × region triples, PA–state matches, UP Ramsar traps, Biosphere–state locks, Project chronology, ISFR UP districts
-> **Last verified:** August 2026
+> **Last verified:** August 2026 (Surha Tal / 100th Ramsar baked June 2026 update)
 
 ---
 
-## Quick Revision Box — Raata This First
+## How to use this file
+
+1. **Learn:** Open one ## section → read Definitions → Teach prose → table → Exam note → that section's PYQs.
+2. **Revise later:** Quick Revision + Memory Tricks only (day-before / weak recall).
+3. **Test:** Practice Zone → Common Traps → Complete PYQ Bank.
+4. Do **not** re-read the whole file every sitting — finish one section, then move on.
+
+> Each section is written to make sense on first read. Quick Revision is not the first teaching layer.
+
+---
+
+## Quick Revision Box — Raata Later (after learning sections)
 
 ```
 VEGETATION = climate index (Thornthwaite 2018) | Climate + soil + relief + biotic + time
@@ -30,7 +41,8 @@ DISTRIBUTION / ISFR:
   FSI → India State of Forest Report
   ISFR 2017 forest cover ~21.54% of TGA (2018 Q44)
   ISFR 2021 max increase among options: Andhra Pradesh (2022 Q61)
-  UP forest cover ~6% TGA (NOT 12.8%) | Jaunpur–Ghazipur–Ballia = no/near-nil forest land lore
+  UP forest cover ~6% TGA (NOT 12.8%) | Jaunpur–Ghazipur–Ballia = no/near-nil FOREST land lore
+  Ballia trap: near-nil forest ≠ no wetland — Surha Tal (JP Narayan Bird Sanctuary) = Ramsar
   ISFR 2023 UP >20% districts: Chandauli + Shravasti (NOT Bahraich) (2025 Q8)
 
 PROTECTED AREAS:
@@ -39,8 +51,12 @@ PROTECTED AREAS:
   WLPA 1972 → Project Tiger 1973 → Project Elephant 1992 → BDA 2002
 
 UP LOCKS:
-  Dudhwa NP = Lakhimpur Kheri | Chandraprabha WLS = Chandauli
-  Katarniaghat WLS est. 1975 | Terai teak–sal belt
+  Only NP = Dudhwa (Lakhimpur Kheri)
+  Tiger Reserves = Dudhwa | Pilibhit | Amangarh | Ranipur
+  Dudhwa TR = Dudhwa NP + Kishanpur + Katarniaghat
+  Chandraprabha WLS = Chandauli | Katarniaghat est. 1975
+  Also: Hastinapur | Kaimoor | Suhelwa | Sohagibarwa | Chambal (UP-MP-RJ)
+  Terai teak–sal | Vindhyan south forests | ~6% forest cover
 
 FAMOUS PA:
   Dachigam = Hangul (Kashmir stag) | Keibul Lamjao = Loktak (floating)
@@ -49,6 +65,8 @@ FAMOUS PA:
 
 RAMSAR UP:
   IN UP: Sarsai Nawar, Samaspur, Sur Sarovar, Haiderpur, Nawabganj, Sandi, Saman, Parvati Arga, Bakhira, Upper Ganga…
+  Surha Tal / Jai Prakash Narayan Bird Sanctuary (Ballia) = India’s 100th Ramsar (2026); UP’s 13th
+  India = Asia’s highest Ramsar count; 3rd globally (after UK, Mexico) after Surha Tal
   NOT UP: Rudrasagar (Tripura), Sultanpur (Haryana), Surinsar–Mansar (J&K)
   Jan 2020: +6 Ramsar to UP (2020 Q48)
 
@@ -103,6 +121,8 @@ MANGROVE / CORAL:
 | **Botanical garden = ex-situ** | 2018 trap |
 | **1972–1973–1992–2002** | WLPA → Tiger → Elephant → BDA |
 | **Sarsai & Samaspur = UP** | Ramsar elimination |
+| **Surha Tal Ballia = 100th Ramsar** | India milestone + UP’s 13th |
+| **Ballia forest≠wetland** | Near-nil forest lore; Surha Tal still Ramsar |
 | **MISHTI = 2023 not 2019** | Scheme year |
 | **Olivia ≠ August nesting** | Nov–May season |
 
@@ -138,7 +158,7 @@ Natural vegetation questions begin with climate control, then ask India forest t
 
 > **Exam note:** Do not confuse Köppen’s climate letters with Thornthwaite’s vegetation-as-climate-index statement.
 
-### Exam Facts (raata)
+### Exam Facts (raata — traps only)
 
 | # | Fact to remember |
 |---|------------------|
@@ -147,15 +167,6 @@ Natural vegetation questions begin with climate control, then ask India forest t
 | 3 | Amazon/equatorial forests are classic high-biodiversity locks |
 | 4 | Acclimatization is adjustment to climate, not a forest-type name |
 | 5 | Human land use can erase climax vegetation even where climate would allow forest |
-
-### Examples
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Thornthwaite quote PYQ** | Climate–vegetation theory lock |
-| **Equatorial epiphytes** | Humid multilayer flora |
-| **Sahara/savanna acacia–baobab** | Dry tropical adaptations |
-| **UP cultivated plain** | Climate allows forest but humans cleared it |
 
 ### PYQs — 7.0 Natural Vegetation
 
@@ -219,7 +230,7 @@ Indian forest-type questions almost always give rainfall or a region and ask the
 | Altitude stack | Montane | Oak, deodar, chir, alpine flora |
 | Tidal coasts | Littoral / mangrove | Sundari, rhizophora |
 
-### Exam Facts (raata)
+### Exam Facts (raata — traps only)
 
 | # | Fact to remember |
 |---|------------------|
@@ -229,15 +240,6 @@ Indian forest-type questions almost always give rainfall or a region and ask the
 | 4 | Teak and sal are deciduous identity trees |
 | 5 | Mangroves are tidal/littoral, not montane |
 
-### Examples
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Central India teak belt** | Moist/dry deciduous commercial region |
-| **Assam–Meghalaya wet hills** | Evergreen / semi-evergreen |
-| **Thar fringe scrub** | Thorn type |
-| **Sundarbans** | Tidal mangrove |
-
 ### PYQs — 7.1 Forest Types of India
 
 **UPPCS Prelims**
@@ -246,8 +248,10 @@ Indian forest-type questions almost always give rainfall or a region and ask the
    - Options: A. Both true, R not explanation / B. A false, R true / C. A true, R false / D. Both true and R explains A
    → **D** — Both are true and altitude-driven climate change explains the stacked vegetation belts.
 
-2. **(UPPCS 2025, Q63)** With reference to Brazil: 1. Equatorial rainforests are called Selva. 2. Fertile dark-coloured soil there is Terra Roxa.
-   - Options: A. Only 2 / B. Neither / C. Both 1 and 2 / D. Only 1
+2. **(UPPCS 2025, Q63)** With reference to Brazil, which of the following statements is/are correct?
+   1. The equatorial rainforests of Brazil are called "Selva".
+   2. The fertile dark-coloured soil found there is known as "Terra Roxa".
+   - Options: A. Only 2 / B. Neither 1 nor 2 / C. Both 1 and 2 / D. Only 1
    → **C. Both 1 and 2** — Selva is the Amazon rainforest name; Terra Roxa is the fertile basaltic coffee soil of Brazil.
 
 ---
@@ -281,7 +285,17 @@ Tropical evergreen forests are the wet, dense, multilayer forests of India’s h
 
 > **Exam note:** Evergreen = wettest + multilayer + no full dry leaf-shed. Teak is the wrong identity tree here.
 
-### Exam Facts (raata)
+#### Evergreen — Species & Region Table
+
+| Region | Typical trees / note |
+|--------|----------------------|
+| Western Ghats windward | Rosewood, mahogany, ebony; dense multilayer |
+| North-East hills | Evergreen / semi-evergreen mix; high rainfall |
+| Andaman & Nicobar | Island evergreen rainforest |
+| Not identity trees | **Teak and sal** (those are deciduous) |
+
+
+### Exam Facts (raata — traps only)
 
 | # | Fact to remember |
 |---|------------------|
@@ -291,21 +305,15 @@ Tropical evergreen forests are the wet, dense, multilayer forests of India’s h
 | 4 | Teak is not the signature evergreen tree |
 | 5 | Epiphytes are common in humid equatorial/evergreen canopies |
 
-### Examples
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Silent Valley / W Ghats** | Evergreen remnant fame |
-| **Andaman rainforest** | Island evergreen |
-| **NE hills** | High rain evergreen/semi-evergreen |
-
 ### PYQs — 7.2 Tropical Evergreen Forests
 
 **UPPCS Prelims**
 
-1. **(UPPCS 2019, Q3)** Epiphytes matched with equatorial region in the natural-vegetation match list.
-   - Options: See full options under §7.0
-   → **A (part of match)** — Epiphytes lock to humid equatorial/evergreen canopies, not Mediterranean cedar belts.
+1. **(UPPCS 2019, Q3)** Match List-I with List-II and select the correct answer using the codes given below the lists:
+   **List-I (Natural Vegetation)** A. Epiphytes B. Acacia C. Baobab D. Cedars
+   **List-II (Region)** 1. Mediterranean 2. Equatorial 3. Sahara 4. Savanna
+   - Options: A. 2 3 4 1 / B. 2 3 1 4 / C. 2 4 3 1 / D. 2 4 1 3
+   → **A. 2 3 4 1** — Epiphytes = Equatorial; Acacia = Sahara; Baobab = Savanna; Cedars = Mediterranean. Epiphytes belong to humid equatorial/evergreen canopies, not Mediterranean cedar belts.
 
 ---
 
@@ -338,7 +346,17 @@ Tropical deciduous (monsoon) forests shed leaves in the dry season. Moist decidu
 
 > **Exam note:** Largest area in India = moist deciduous. Teak and sal = deciduous identity pair.
 
-### Exam Facts (raata)
+#### Deciduous — Species & Region Table
+
+| Belt | Trees | Region cue |
+|------|-------|------------|
+| Moist deciduous | Teak, sal, shisham, bamboo | Central India, Chota Nagpur, Terai |
+| Dry deciduous | Open teak/sal, tendu, palash | Drier peninsula, Bundelkhand fringe |
+| UP Terai | Sal–teak moist deciduous | Dudhwa–Pilibhit belt |
+| UP Vindhyan | Dry deciduous / scrub | Sonbhadra–Mirzapur–Chandauli |
+
+
+### Exam Facts (raata — traps only)
 
 | # | Fact to remember |
 |---|------------------|
@@ -347,14 +365,6 @@ Tropical deciduous (monsoon) forests shed leaves in the dry season. Moist decidu
 | 3 | Dry deciduous forests occupy roughly the 70–100 cm rainfall belt |
 | 4 | UP Terai forests are moist deciduous with sal–teak character |
 | 5 | Deciduous leaf fall is a dry-season adaptation in monsoon climates |
-
-### Examples
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Kanha–Pench teak–sal landscape** | Peninsular deciduous |
-| **Dudhwa–Pilibhit Terai** | UP moist deciduous |
-| **Bundelkhand scrub edge** | Dry deciduous degradation |
 
 ### PYQs — 7.3 Tropical Deciduous Forests (Moist & Dry)
 
@@ -395,7 +405,7 @@ Thorn forests are xerophytic woodlands and scrubs of arid and semi-arid India. T
 
 > **Exam note:** Thorn = driest Indian type. Acacia/babool = identity. Do not confuse with Himalayan alpine scrub.
 
-### Exam Facts (raata)
+### Exam Facts (raata — traps only)
 
 | # | Fact to remember |
 |---|------------------|
@@ -405,21 +415,15 @@ Thorn forests are xerophytic woodlands and scrubs of arid and semi-arid India. T
 | 4 | World scrub matches (Maquis, Fynbos, Chaparral, Matorral) are separate from Indian thorn type |
 | 5 | Thorn forest grades from dry deciduous as rainfall falls |
 
-### Examples
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Thar fringe babool scrub** | Arid thorn |
-| **Rain-shadow Deccan scrub** | Interior dryness |
-| **Chaparral California** | World scrub match |
-
 ### PYQs — 7.4 Thorn Forests & Scrubs
 
 **UPPCS Prelims**
 
-1. **(UPPCS 2019, Q1)** World scrub vegetation match (Maquis/Fynbos/Chaparral/Matorral).
-   - Options: Full options in §7.0
-   → **A. 2 3 1 4** — These are Mediterranean-climate scrub analogues worldwide, useful contrast to Indian thorn forests.
+1. **(UPPCS 2019, Q1)** Match List-I with List-II and select the correct answer using the codes given below the lists:
+   **List-I (Vegetation Type)** A. Maquis B. Fynbos C. Chaparral D. Matorral
+   **List-II (Region)** 1. California 2. Mediterranean Sea Coastal Region 3. South Africa 4. Chile
+   - Options: A. 2 3 1 4 / B. 4 3 2 1 / C. 3 4 1 2 / D. 4 2 3 1
+   → **A. 2 3 1 4** — Maquis = Mediterranean; Fynbos = South Africa; Chaparral = California; Matorral = Chile. These are world scrub analogues, not Indian thorn-forest synonyms.
 
 ---
 
@@ -453,7 +457,7 @@ Montane forests change with altitude because temperature and moisture change wit
 
 > **Exam note:** Himalayan vegetation diversity is an altitude story. Both A and R true, R explains A (2025 Q21).
 
-### Exam Facts (raata)
+### Exam Facts (raata — traps only)
 
 | # | Fact to remember |
 |---|------------------|
@@ -462,14 +466,6 @@ Montane forests change with altitude because temperature and moisture change wit
 | 3 | Alpine meadows lie above the tree line |
 | 4 | Shola forests are high-elevation south-Indian montane patches |
 | 5 | Montane belts replace the simple plains rainfall ladder with a temperature elevator |
-
-### Examples
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Deodar belt Himachal/UK** | Temperate conifer |
-| **Alpine bugyal Uttarakhand** | Above tree line |
-| **Nilgiri shola** | Southern montane |
 
 ### PYQs — 7.5 Montane Forests
 
@@ -511,7 +507,20 @@ Littoral and tidal forests occupy coasts and deltas. Mangroves are salt-tolerant
 
 > **Exam note:** MISHTI year trap: Budget 2023–24, not 2019. Only restoration aim is correct in 2025 Q93.
 
-### Exam Facts (raata)
+#### Mangrove Distribution — India
+
+| Region | Cue |
+|--------|-----|
+| Sundarbans (WB–Bangladesh) | Largest; sundari; tiger landscape |
+| Bhitarkanika (Odisha) | East-coast mangrove; Olive Ridley coast nearby |
+| Mahanadi / Godavari / Krishna / Cauvery deltas | East-coast delta mangroves |
+| Andaman & Nicobar | Island mangroves |
+| Gulf of Kachchh (Gujarat) | West-coast mangrove |
+| Mumbai creek / Maharashtra coast | Urbanising mangrove patches |
+| Pichavaram / Muthupet (TN) | South-east mangrove awareness |
+
+
+### Exam Facts (raata — traps only)
 
 | # | Fact to remember |
 |---|------------------|
@@ -521,20 +530,14 @@ Littoral and tidal forests occupy coasts and deltas. Mangroves are salt-tolerant
 | 4 | Major deltas of the east coast hold important mangrove patches |
 | 5 | Mangroves are tidal/littoral forests, not Himalayan montane forests |
 
-### Examples
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Sundarbans tiger landscape** | Mangrove + fauna |
-| **Bhitarkanika Odisha** | East-coast mangrove |
-| **MISHTI coastal planting** | Scheme restoration |
-
 ### PYQs — 7.6 Tidal / Littoral Forests & Mangroves
 
 **UPPCS Prelims**
 
-1. **(UPPCS 2025, Q93)** With reference to MISHTI: 1. It was initiated in 2019. 2. It aims to restore mangrove forests.
-   - Options: A. Only 2 / B. Neither / C. Both 1 and 2 / D. Only 1
+1. **(UPPCS 2025, Q93)** With reference to Mangrove Initiative for Shoreline Habitats and Tangible Income (MISHTI), which of the following statements is/are correct?
+   1. It was initiated in 2019.
+   2. It aims to restore mangrove forests.
+   - Options: A. Only 2 / B. Neither 1 nor 2 / C. Both 1 and 2 / D. Only 1
    → **A. Only 2** — Statement 2 is correct. Statement 1 is wrong: MISHTI was announced in Union Budget 2023–24, not 2019.
 
 ---
@@ -569,7 +572,7 @@ Distribution questions mix two skills: (1) which climatic region holds which for
 
 > **Exam note:** For UP: remember ~6% forest cover, Terai + Sonbhadra belt, and Chandauli–Shravasti >20% in ISFR 2023.
 
-### Exam Facts (raata)
+### Exam Facts (raata — traps only)
 
 | # | Fact to remember |
 |---|------------------|
@@ -578,14 +581,6 @@ Distribution questions mix two skills: (1) which climatic region holds which for
 | 3 | Chandauli and Shravasti crossed 20% forest cover in ISFR 2023 among the listed districts |
 | 4 | Bahraich did not cross 20% forest cover in that ISFR 2023 comparison |
 | 5 | Andhra Pradesh was the max-increase state among the 2022 ISFR-2021 options |
-
-### Examples
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Sonbhadra Vindhyan forests** | Largest UP forest area district lore |
-| **Shravasti Terai** | >20% cover ISFR 2023 |
-| **Jaunpur–Ballia plains** | Near-nil forest districts |
 
 ### PYQs — 7.7 Forest Distribution & ISFR
 
@@ -599,13 +594,18 @@ Distribution questions mix two skills: (1) which climatic region holds which for
    - Options: A. Kerala / B. Assam / C. Arunachal Pradesh / D. Andhra Pradesh
    → **D. Andhra Pradesh** — Among the given options, Andhra Pradesh had the maximum increase in that ISFR comparison.
 
-3. **(UPPCS 2025, Q8)** As per ISFR 2023, which UP districts had forest over more than 20% of their total area? 1. Bahraich 2. Chandauli 3. Shravasti
+3. **(UPPCS 2025, Q8)** As per the India State of Forest Report 2023, which of the following districts in Uttar Pradesh had forest over more than 20% of their total area?
+   1. Bahraich
+   2. Chandauli
+   3. Shravasti
    - Options: A. 1 and 2 / B. Only 3 / C. 2 and 3 / D. Only 1
    → **C. 2 and 3** — Chandauli and Shravasti crossed 20%; Bahraich did not.
 
-4. **(UPPCS 2023, Q59)** UP forests ~12.8% TGA; Jaunpur, Ghazipur, Ballia have no forest land.
-   - Options: A. Only 1 / B. Both / C. Only 2 / D. Neither
-   → **C. Only 2 (geography-standard key)** — 12.8% is not the current ISFR forest-cover share (~6%). The no-forest-land eastern districts statement is the retained lock.
+4. **(UPPCS 2023, Q59)** Consider the following statements with reference to Uttar Pradesh—
+   1. Forests constitute about 12.8% of the total geographical area of the State.
+   2. The districts of Jaunpur, Ghazipur and Ballia have no forest land.
+   - Options: A. Only 1 / B. Both 1 and 2 / C. Only 2 / D. Neither 1 nor 2
+   → **C. Only 2 (geography-standard key)** — Statement 1 is wrong for current ISFR (~6% forest cover, not 12.8%). Statement 2 is the traditional lock that these eastern plain districts lack forest land.
 
 ---
 
@@ -640,7 +640,7 @@ Acclimatization questions are definitional. Link adaptations to forest types: th
 
 > **Exam note:** If options mix 'acclimatization' with a forest type, pick the definition — it is a process, not a biome.
 
-### Exam Facts (raata)
+### Exam Facts (raata — traps only)
 
 | # | Fact to remember |
 |---|------------------|
@@ -650,21 +650,13 @@ Acclimatization questions are definitional. Link adaptations to forest types: th
 | 4 | Epiphytes are common in humid evergreen canopies |
 | 5 | Deciduous leaf shed is a dry-season adaptation |
 
-### Examples
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Babool thorns** | Xerophyte |
-| **Water hyacinth** | Hydrophyte |
-| **Wheat variety trial in new zone** | Crop acclimatization idea |
-
 ### PYQs — 7.8 Plant Acclimatization & Adaptations
 
 **UPPCS Prelims**
 
-1. **(UPPCS 2018, Q25)** Vegetation as true index of climate (Thornthwaite) — related conceptual neighbour of adaptation/acclimatization thinking.
+1. **(UPPCS 2018, Q25)** 'Vegetation is the true index of climate'. This statement is associated with
    - Options: A. Thornthwaite / B. Koppen / C. Trewartha / D. Stamp
-   → **A. Thornthwaite** — Climate shapes vegetation; plants that persist have matched adaptations.
+   → **A. Thornthwaite** — Climate shapes vegetation; plants that persist have matched adaptations. Among the given names, UPPCS keys this statement to Thornthwaite.
 
 ---
 
@@ -700,7 +692,21 @@ UPPCS loves category traps (in-situ vs ex-situ) and park–state–species match
 
 > **Exam note:** Botanical garden = ex-situ. Sacred grove = in-situ. Memorise that pair for 2018-style traps.
 
-### Exam Facts (raata)
+#### Protected Area Categories — Comparison
+
+| Category | Rights / use | Typical exam lock |
+|----------|--------------|-------------------|
+| **National Park** | Strict; private rights generally not allowed | Dudhwa (UP’s only NP) |
+| **Wildlife Sanctuary** | Wildlife focus; some regulated rights possible | Chandraprabha; Katarniaghat |
+| **Tiger Reserve** | NTCA core+buffer management overlay | Dudhwa / Pilibhit / Amangarh / Ranipur |
+| **Biosphere Reserve** | Core + buffer + transition; sustainable use outer | Nokrek; Simlipal; Nilgiri |
+| **Conservation Reserve** | Govt land near PAs; consultative | WLPA newer category |
+| **Community Reserve** | Community/private land; participatory | WLPA newer category |
+| **Sacred grove** | Community cultural protection | In-situ |
+| **Botanical garden / zoo** | Ex-situ | 2018 trap |
+
+
+### Exam Facts (raata — traps only)
 
 | # | Fact to remember |
 |---|------------------|
@@ -709,14 +715,6 @@ UPPCS loves category traps (in-situ vs ex-situ) and park–state–species match
 | 3 | Wildlife Protection Act was enacted in 1972 |
 | 4 | Project Tiger was launched in 1973 (UPPCS 2018 options keyed 1972 as nearest/foundational year — learn true 1973 launch) |
 | 5 | Project Elephant began in 1992; Biological Diversity Act in 2002 |
-
-### Examples
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Corbett tiger reserve landscape** | NP + Project Tiger |
-| **Sacred grove in Western Ghats** | Community in-situ |
-| **Lucknow botanical garden idea** | Ex-situ contrast |
 
 ### PYQs — 7.9 Protected Areas Framework (NP, WLS, BR)
 
@@ -730,13 +728,22 @@ UPPCS loves category traps (in-situ vs ex-situ) and park–state–species match
    - Options: A. In-situ conservation / B. Ex-situ conservation / C. Gene pool / D. None of the above
    → **A. In-situ conservation** — National Parks protect species in their natural habitats.
 
-3. **(UPPCS 2019, Q67)** Arrange chronological order: I. Wildlife (Protection) Act II. Biological Diversity Act III. Project Tiger IV. Project Elephant
+3. **(UPPCS 2019, Q67)** Arrange the following events in chronological order of their commencement and select correct answer from the codes given below:
+   I. Wild Life (Protection) Act
+   II. Biological Diversity Act
+   III. Project Tiger
+   IV. Project Elephant
    - Options: A. I, II, III, IV / B. I, III, IV, II / C. II, III, IV, I / D. II, III, I, IV
    → **B. I, III, IV, II** — 1972 WLPA → 1973 Project Tiger → 1992 Project Elephant → 2002 BDA.
 
-4. **(UPPCS 2020, Q77)** Arrange: I. Project Tiger II. Project Elephant III. Wildlife Protection Act IV. Biological Diversity Act
+4. **(UPPCS 2020, Q77)** Arrange the following events in chronological order of their commencement:
+   I. Project Tiger
+   II. Project Elephant
+   III. Wildlife Protection Act
+   IV. Biological Diversity Act
+   Select the correct answer using the codes given below.
    - Options: A. I, II, III, IV / B. II, I, IV, III / C. III, I, II, IV / D. III, IV, I, II
-   → **C. III, I, II, IV** — Same chronology: WLPA → Tiger → Elephant → BDA.
+   → **C. III, I, II, IV** — Wildlife Protection Act (1972) → Project Tiger (1973) → Project Elephant (1992) → Biological Diversity Act (2002).
 
 5. **(UPPCS 2018, Q45)** When was 'Project Tiger' launched in India?
    - Options: A. 1968 / B. 1972 / C. 1984 / D. 1993
@@ -772,7 +779,41 @@ Park questions are matching drills: park ↔ state, park ↔ flagship species, o
 
 > **Exam note:** Simlipal ≠ Madhya Pradesh. Dudhwa ≠ Bahraich (it is Lakhimpur Kheri).
 
-### Exam Facts (raata)
+#### High-Frequency National Parks — India Master
+
+| National Park | State / UT | Flagship / trap |
+|---------------|------------|-----------------|
+| Jim Corbett | Uttarakhand | First NP legacy; tiger |
+| Dudhwa | Uttar Pradesh | Only UP NP |
+| Kaziranga | Assam | One-horned rhino |
+| Manas | Assam | Also biosphere / tiger landscape |
+| Kaziranga ≠ Keibul | — | Do not swap Assam/Manipur locks |
+| Keibul Lamjao | Manipur | Loktak floating; Sangai |
+| Dachigam | J&K | Hangul |
+| Gir | Gujarat | Asiatic lion |
+| Ranthambore | Rajasthan | Tiger |
+| Keoladeo (Bharatpur) | Rajasthan | Birds |
+| Kanha | Madhya Pradesh | Tiger |
+| Bandhavgarh | Madhya Pradesh | Tiger |
+| Pench | MP / Maharashtra | Tiger landscape |
+| Bandipur | Karnataka | Tiger |
+| Nagarhole | Karnataka | Tiger / elephant |
+| Periyar | Kerala | Elephant / tiger landscape |
+| Silent Valley | Kerala | Evergreen remnant fame |
+| Simlipal | Odisha | Not MP |
+| Sundarbans | West Bengal | Mangrove tiger |
+| Desert NP | Rajasthan | Arid fauna |
+| Valley of Flowers | Uttarakhand | Alpine flowers; with Nanda Devi landscape |
+| Namdapha | Arunachal Pradesh | NE biodiversity |
+| Hemis | Ladakh | High-altitude; snow leopard awareness |
+| Eravikulam | Kerala | Nilgiri tahr awareness |
+| Indravati | Chhattisgarh | 2020 match |
+| Mollem (Bhagwan Mahavir) | Goa | 2020 match |
+| Kalesar | Haryana | 2020 match |
+| Betla (Palamau landscape) | Jharkhand | 2020 match |
+
+
+### Exam Facts (raata — traps only)
 
 | # | Fact to remember |
 |---|------------------|
@@ -781,14 +822,6 @@ Park questions are matching drills: park ↔ state, park ↔ flagship species, o
 | 3 | Dudhwa National Park is in Lakhimpur Kheri district |
 | 4 | Simlipal National Park is in Odisha |
 | 5 | Keoladeo is in Rajasthan; Kanha in Madhya Pradesh; Periyar in Kerala |
-
-### Examples
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Hangul in Dachigam** | Species–park lock |
-| **Sangai on Loktak phumdis** | Floating NP |
-| **Dudhwa tiger–rhino Terai** | UP flagship NP |
 
 ### PYQs — 7.10 National Parks
 
@@ -806,17 +839,21 @@ Park questions are matching drills: park ↔ state, park ↔ flagship species, o
    - Options: A. Bahraich / B. Lakhimpur Kheri / C. Pilibhit / D. Sitapur
    → **B. Lakhimpur Kheri** — Dudhwa lies in Lakhimpur Kheri; neighbouring Terai districts host related sanctuaries/reserves.
 
-4. **(UPPCS 2018, Q58)** Which pair is NOT correctly matched?
-   - Options: A. Bandipur NP–Karnataka / B. Manas WLS–Assam / C. Periyar WLS–Kerala / D. Simlipal NP–Madhya Pradesh
-   → **D** — Simlipal is in Odisha, not Madhya Pradesh.
+4. **(UPPCS 2018, Q58)** Which of the following pairs is NOT correctly matched?
+   - Options: A. Bandipur National Park–Karnataka / B. Manas Wildlife Sanctuary–Assam / C. Periyar Wildlife Sanctuary–Kerala / D. Simlipal National Park–Madhya Pradesh
+   → **D** — Simlipal National Park is in **Odisha**, not Madhya Pradesh. The other three pairs are correctly matched.
 
-5. **(UPPCS 2025, Q90)** Match: A. Dachigam B. Keoladeo C. Kanha D. Periyar — 1. MP 2. Rajasthan 3. Kerala 4. J&K
+5. **(UPPCS 2025, Q90)** Match List-I with List-II and select the correct answer using the code given below.
+   **List-I** A. Dachigam B. Keoladeo C. Kanha D. Periyar
+   **List-II** 1. Madhya Pradesh 2. Rajasthan 3. Kerala 4. Jammu and Kashmir
    - Options: A. 4 2 3 1 / B. 2 4 1 3 / C. 2 4 3 1 / D. 4 2 1 3
-   → **D. 4 2 1 3** — Dachigam–J&K, Keoladeo–Rajasthan, Kanha–MP, Periyar–Kerala.
+   → **D. 4 2 1 3** — Dachigam–Jammu and Kashmir; Keoladeo–Rajasthan; Kanha–Madhya Pradesh; Periyar–Kerala.
 
-6. **(UPPCS 2020, Q62)** Match National Parks: A. Indravati B. Mollem C. Kalesar D. Betla — 1. Jharkhand 2. Haryana 3. Goa 4. Chhattisgarh
+6. **(UPPCS 2020, Q62)** Match List-I with List-II and select the correct answer using the codes given below the lists:
+   **List-I (National Parks)** A. Indravati B. Mollem C. Kalesar D. Betla
+   **List-II (States)** 1. Jharkhand 2. Haryana 3. Goa 4. Chhattisgarh
    - Options: A. 4 3 2 1 / B. 4 2 3 1 / C. 4 1 3 2 / D. 3 4 2 1
-   → **A. 4 3 2 1** — Indravati–Chhattisgarh, Mollem–Goa, Kalesar–Haryana, Betla–Jharkhand.
+   → **A. 4 3 2 1** — Indravati–Chhattisgarh; Mollem–Goa; Kalesar–Haryana; Betla–Jharkhand.
 
 ---
 
@@ -847,7 +884,7 @@ UP sanctuary questions ask establishment year, district, or name recognition. Ch
 
 > **Exam note:** Chandraprabha = Chandauli (not Sonbhadra). Katarniaghat = 1975.
 
-### Exam Facts (raata)
+### Exam Facts (raata — traps only)
 
 | # | Fact to remember |
 |---|------------------|
@@ -856,14 +893,6 @@ UP sanctuary questions ask establishment year, district, or name recognition. Ch
 | 3 | Many UP bird sanctuaries are also Ramsar wetlands |
 | 4 | Dudhwa is a National Park; Katarniaghat and Kishanpur are sanctuary/reserve units in the Terai complex |
 | 5 | Chambal sanctuary is shared by UP, MP and Rajasthan |
-
-### Examples
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Chandraprabha escarpment forests** | Vindhyan UP sanctuary |
-| **Katarniaghat gharies/tigers lore** | Terai 1975 sanctuary |
-| **Samaspur birds** | Ramsar sanctuary |
 
 ### PYQs — 7.11 Wildlife Sanctuaries
 
@@ -923,7 +952,7 @@ Biosphere questions are almost pure state-matching. Build a table of name → st
 | Gulf of Mannar | Tamil Nadu |
 | Great Nicobar | A&N |
 
-### Exam Facts (raata)
+### Exam Facts (raata — traps only)
 
 | # | Fact to remember |
 |---|------------------|
@@ -933,33 +962,35 @@ Biosphere questions are almost pure state-matching. Build a table of name → st
 | 4 | Nanda Devi Biosphere Reserve is in Uttarakhand |
 | 5 | Agasthyamalai is linked with Kerala (and Tamil Nadu hills) |
 
-### Examples
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Nokrek red panda landscape lore** | Meghalaya BR |
-| **Nilgiri BR tri-state** | Western Ghats landscape |
-| **Sundarbans BR** | Mangrove biosphere |
-
 ### PYQs — 7.12 Biosphere Reserves & Programme
 
 **UPPCS Prelims**
 
-1. **(UPPCS 2025, Q144)** Which pairs are NOT correctly matched? (Biosphere Reserve)–(State) 1. Nokrek–Manipur 2. Manas–Assam 3. Agasthyamalai–Kerala
+1. **(UPPCS 2025, Q144)** Which of the following pairs is/are NOT correctly matched?
+   (Biosphere Reserve) — (State)
+   1. Nokrek — Manipur
+   2. Manas — Assam
+   3. Agasthyamalai — Kerala
    - Options: A. 1 and 2 / B. Only 3 / C. 2 and 3 / D. Only 1
-   → **D. Only 1** — Only Nokrek–Manipur is wrong; Nokrek is in Meghalaya. Manas–Assam and Agasthyamalai–Kerala are acceptable locks.
+   → **D. Only 1** — Only Nokrek–Manipur is wrong; Nokrek is in Meghalaya. Manas–Assam and Agasthyamalai–Kerala are correctly matched.
 
-2. **(UPPCS 2024, Q10)** Match: A. Simlipal B. Nokrek C. Agasthyamalai D. Manas — 1. Kerala 2. Odisha 3. Assam 4. Meghalaya
+2. **(UPPCS 2024, Q10)** Match List-I with List-II and choose the correct answer using the codes given below the lists:
+   **List-I** A. Simlipal B. Nokrek C. Agasthyamalai D. Manas
+   **List-II** 1. Kerala 2. Odisha 3. Assam 4. Meghalaya
    - Options: A. 1 2 4 3 / B. 3 1 4 2 / C. 2 4 3 1 / D. 2 4 1 3
-   → **D. 2 4 1 3** — Simlipal–Odisha, Nokrek–Meghalaya, Agasthyamalai–Kerala, Manas–Assam.
+   → **D. 2 4 1 3** — Simlipal–Odisha; Nokrek–Meghalaya; Agasthyamalai–Kerala; Manas–Assam.
 
-3. **(UPPCS 2021, Q140)** Match Biosphere: A. Similipal B. Pachmarhi C. Nandadevi D. Nokrek — 1. Uttarakhand 2. Meghalaya 3. Madhya Pradesh 4. Odisha
+3. **(UPPCS 2021, Q140)** Match List-I with List-II and select the correct answer using the codes given below the lists.
+   **List-I (Biosphere)** A. Similipal B. Pachmarhi C. Nandadevi D. Nokrek
+   **List-II (Location)** 1. Uttarakhand 2. Meghalaya 3. Madhya Pradesh 4. Odisha
    - Options: A. 4 3 2 1 / B. 4 3 1 2 / C. 1 3 4 2 / D. 3 4 1 2
-   → **B. 4 3 1 2** — Similipal–Odisha, Pachmarhi–MP, Nandadevi–Uttarakhand, Nokrek–Meghalaya.
+   → **B. 4 3 1 2** — Similipal–Odisha; Pachmarhi–Madhya Pradesh; Nandadevi–Uttarakhand; Nokrek–Meghalaya.
 
-4. **(UPPCS 2022, Q110)** Match Bio-reserve: A. Manas B. Sundarbans C. Nanda Devi D. Pachmarhi — List-II includes Assam, WB, UP, MP
-   - Options: D. A-3, B-4, C-2, D-1 (paper key)
-   → **D (paper key) / learn true states** — Manas–Assam and Sundarbans–West Bengal and Pachmarhi–MP are correct geography. Nanda Devi is in **Uttarakhand**, not Uttar Pradesh — if the paper lists UP, treat it as a known trap and still remember the true state.
+4. **(UPPCS 2022, Q110)** Match List-I with List-II and select the correct answer from the code given below.
+   **List-I (Bio-reserve Sector)** A. Manas B. Sundarbans C. Nanda Devi D. Pachmarhi
+   **List-II (State)** 1. Madhya Pradesh 2. Uttar Pradesh 3. Assam 4. West Bengal
+   - Options: A. A-2, B-1, C-3, D-4 / B. A-4, B-3, C-2, D-1 / C. A-1, B-2, C-3, D-4 / D. A-3, B-4, C-2, D-1
+   → **D. A-3, B-4, C-2, D-1 (paper key)** — Manas–Assam and Sundarbans–West Bengal and Pachmarhi–Madhya Pradesh match. The paper keys Nanda Devi to Uttar Pradesh (option C-2), but geographically Nanda Devi is in **Uttarakhand** — remember the true state even if the keyed option uses UP.
 
 ---
 
@@ -979,8 +1010,12 @@ For this topic, treat Ramsar as biodiversity–geography matching, especially UP
 #### How It Works
 
 - Ramsar sites are wetlands recognised for international ecological importance.
-- UP has a large set of floodplain bird wetlands designated as Ramsar sites.
-- Sites **in UP**: Sarsai Nawar Jheel (Etawah), Samaspur (Raebareli), Sur Sarovar (Agra), Haiderpur (Muzaffarnagar–Bijnor), Nawabganj (Unnao), Sandi (Hardoi), Saman (Mainpuri), Parvati Arga (Gonda), Bakhira (Sant Kabir Nagar), Upper Ganga stretch, and others as notified.
+- UP has a large set of floodplain bird wetlands designated as Ramsar sites — **13 sites** after Surha Tal (2026), second among Indian states after Tamil Nadu in current public framing.
+- Sites **in UP**: Sarsai Nawar Jheel (Etawah), Samaspur (Raebareli), Sur Sarovar (Agra), Haiderpur (Muzaffarnagar–Bijnor), Nawabganj (Unnao), Sandi (Hardoi), Saman (Mainpuri), Parvati Arga (Gonda), Bakhira (Sant Kabir Nagar), Upper Ganga stretch, **Surha Tal / Jai Prakash Narayan Bird Sanctuary (Ballia)**, and others as notified.
+- **Surha Tal (Ballia)** is an oxbow lake on the Ganga floodplain (Central Asian Flyway). It was designated as a Ramsar site in **January 2026** and announced as **India’s 100th Ramsar site** on **World Environment Day, 5 June 2026**.
+- Surha Tal is also a bird sanctuary (declared 1991; renamed after Jai Prakash Narayan in 2002). Ramsar status does not make it a National Park.
+- **Ballia trap:** the district is still classed as near-nil **forest land** in UPPCS forest PYQs — that does **not** mean Ballia has no wetland of international importance.
+- With Surha Tal, India became Asia’s leader in Ramsar count and third globally (after the UK and Mexico in the 2026 announcement framing).
 - Sites **NOT in UP**: Rudrasagar (Tripura), Sultanpur (Haryana), Surinsar–Mansar (J&K).
 - January 2020: **six** more Ramsar sites were added to Uttar Pradesh (2020 Q48).
 - 2025 Q58: Rudrasagar and Sultanpur are the NOT-in-UP pair; Sarsai Nawar and Samaspur are in UP.
@@ -989,9 +1024,9 @@ For this topic, treat Ramsar as biodiversity–geography matching, especially UP
 - Ramsar status does not automatically equal National Park status.
 - For lake landforms (lagoon vs crater), cross-check Topic 4; for Prelims name–state traps, this section is enough.
 
-> **Exam note:** Elimination order for NOT-in-UP: strike Sarsai Nawar and Samaspur first — both are UP.
+> **Exam note:** Elimination order for NOT-in-UP: strike Sarsai Nawar and Samaspur first — both are UP. Add Surha Tal (Ballia) as the 100th-India / 13th-UP current-affairs lock. Do not confuse Surha Tal with Sur Sarovar (Agra).
 
-### Exam Facts (raata)
+### Exam Facts (raata — traps only)
 
 | # | Fact to remember |
 |---|------------------|
@@ -1000,20 +1035,18 @@ For this topic, treat Ramsar as biodiversity–geography matching, especially UP
 | 3 | Surinsar–Mansar Lakes are in Jammu & Kashmir |
 | 4 | Six additional Ramsar sites were added to UP in January 2020 |
 | 5 | Haiderpur and Sur Sarovar are also UP Ramsar wetlands |
-
-### Examples
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Sarsai Nawar Etawah** | UP Ramsar bird jheel |
-| **Rudrasagar Tripura** | NOT UP trap |
-| **Surinsar–Mansar J&K** | 2021 NOT UP |
+| 6 | Surha Tal (Jai Prakash Narayan Bird Sanctuary), Ballia, is India’s 100th Ramsar site (2026) |
+| 7 | Surha Tal is UP’s 13th Ramsar site; Ballia near-nil forest lore does not cancel this wetland |
 
 ### PYQs — 7.13 Ramsar Sites
 
 **UPPCS Prelims**
 
-1. **(UPPCS 2025, Q58)** Which Ramsar sites are NOT located in Uttar Pradesh? 1. Sarsai Nawar Jheel 2. Samaspur Bird Sanctuary 3. Rudrasagar Lake 4. Sultanpur National Park
+1. **(UPPCS 2025, Q58)** Which of the following Ramsar sites are NOT located in Uttar Pradesh?
+   1. Sarsai Nawar Jheel
+   2. Samaspur Bird Sanctuary
+   3. Rudrasagar Lake
+   4. Sultanpur National Park
    - Options: A. 1 and 3 / B. 3 and 4 / C. 2 and 3 / D. 1 and 2
    → **B. 3 and 4** — Rudrasagar (Tripura) and Sultanpur (Haryana) are outside UP. Sarsai Nawar and Samaspur are in UP.
 
@@ -1055,7 +1088,17 @@ India’s reef questions ask location belts or bleaching causes. Reefs need warm
 
 > **Exam note:** Bleaching = warming stress. If an option says temperature decrease, reject it for the Andaman mass-death PYQ.
 
-### Exam Facts (raata)
+#### Coral Regions of India — Comparison
+
+| Region | Sea | Note |
+|--------|-----|------|
+| Andaman & Nicobar | Bay of Bengal / Andaman Sea | Mass bleaching PYQ (warming) |
+| Lakshadweep | Arabian Sea | Atoll / coral islands |
+| Gulf of Mannar | Between India–Sri Lanka | Also a Biosphere Reserve |
+| Gulf of Kachchh | Arabian Sea (Gujarat) | West-coast reefs |
+
+
+### Exam Facts (raata — traps only)
 
 | # | Fact to remember |
 |---|------------------|
@@ -1065,19 +1108,11 @@ India’s reef questions ask location belts or bleaching causes. Reefs need warm
 | 4 | Corals need clear warm shallow water |
 | 5 | Gulf of Mannar combines reef ecology with biosphere-reserve status |
 
-### Examples
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Lakshadweep atolls** | Coral island geography |
-| **Gulf of Mannar BR** | Reef + biosphere |
-| **Andaman bleaching event** | Warming PYQ |
-
 ### PYQs — 7.14 Coral Reefs
 
 **UPPCS Prelims**
 
-1. **(UPPCS 2024, Q19)** Which reason caused catastrophic coral bleaching and mass coral deaths in the Andaman and Nicobar Islands?
+1. **(UPPCS 2024, Q19)** Which of the following reasons caused catastrophic coral bleaching and mass coral deaths in the Andaman and Nicobar Islands?
    - Options: A. Increased industrial activities in the coastal regions / B. Increase of 2°C temperature in the Indian Ocean / C. Heavy marine pollution / D. Decrease of temperature by 4°C in the Indian Ocean
    → **B** — Mass bleaching is tied to ocean warming; the keyed option is about a 2°C rise, not a temperature fall.
 
@@ -1112,7 +1147,7 @@ Chronology and one coastal operation complete the biodiversity-geography toolkit
 
 > **Exam note:** Olivia statement 1 true (Coast Guard + Olive Ridley + Odisha); statement 2 false (August nesting).
 
-### Exam Facts (raata)
+### Exam Facts (raata — traps only)
 
 | # | Fact to remember |
 |---|------------------|
@@ -1122,20 +1157,14 @@ Chronology and one coastal operation complete the biodiversity-geography toolkit
 | 4 | Olive Ridley nesting season is not August; it is mainly the winter–summer nesting window |
 | 5 | WLPA 1972 precedes Project Tiger |
 
-### Examples
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Gahirmatha arribada** | Olive Ridley mass nesting |
-| **Corbett 1973 tiger reserve start lore** | Project Tiger origins |
-| **Elephant corridor Assam/KL** | Project Elephant landscape |
-
 ### PYQs — 7.15 Species Programmes & Coastal Wildlife Ops
 
 **UPPCS Prelims**
 
-1. **(UPPCS 2025, Q143)** With reference to Operation Olivia: 1. Indian Coast Guard protects Olive Ridley turtles along Odisha coast. 2. Operation is carried out in August, the nesting time.
-   - Options: A. Only 2 / B. Neither / C. Both 1 and 2 / D. Only 1
+1. **(UPPCS 2025, Q143)** With reference to 'Operation Olivia', which of the following statements is/are correct?
+   1. It is an initiative of Indian Coast Guard to protect Olive Ridley turtles along the coast of Odisha.
+   2. Operation Olivia is carried out during the month of August which is the nesting time of Olive Ridley turtles.
+   - Options: A. Only 2 / B. Neither 1 nor 2 / C. Both 1 and 2 / D. Only 1
    → **D. Only 1** — Statement 1 is correct. Statement 2 is wrong: nesting is not August; the operation covers the Nov–May nesting/hatching window.
 
 ---
@@ -1149,11 +1178,15 @@ Chronology and one coastal operation complete the biodiversity-geography toolkit
 | Forest cover share | About **6%** of UP TGA (recent ISFR) — not 12.8% |
 | Forest belts | Terai–bhabar moist deciduous; Vindhyan south (Sonbhadra–Mirzapur–Chandauli) |
 | >20% districts (ISFR 2023) | **Chandauli, Shravasti** (not Bahraich among the trio) |
-| Near-nil forest lore | Jaunpur, Ghazipur, Ballia |
-| National Park | **Dudhwa — Lakhimpur Kheri** |
+| Near-nil forest lore | Jaunpur, Ghazipur, Ballia (forest land — not “no wetlands”) |
+| National Park | **Only Dudhwa — Lakhimpur Kheri** |
+| Tiger Reserves | **Dudhwa, Pilibhit, Amangarh, Ranipur** |
+| Dudhwa TR formula | Dudhwa NP + Kishanpur + Katarniaghat |
 | Sanctuary district | **Chandraprabha — Chandauli** |
 | Sanctuary year | **Katarniaghat — 1975** |
-| Ramsar in UP | Sarsai Nawar, Samaspur, Sur Sarovar, Haiderpur, Nawabganj, Sandi, Saman, Parvati Arga, Bakhira, Upper Ganga… |
+| Other WLS locks | Hastinapur; Kaimoor; Suhelwa; Sohagibarwa; Chambal (tri-state) |
+| Ramsar in UP | Upper Ganga, Nawabganj, Sarsai Nawar, Sandi, Samaspur, Parvati Arga, Saman, Sur Sarovar, Haiderpur, Bakhira, **Surha Tal (Ballia)** |
+| Ramsar milestone | **Surha Tal = India’s 100th / UP’s 13th (2026)** |
 | Ramsar NOT UP | Rudrasagar (Tripura), Sultanpur (Haryana), Surinsar–Mansar (J&K) |
 
 ### Important Dates
@@ -1164,10 +1197,12 @@ Chronology and one coastal operation complete the biodiversity-geography toolkit
 | 1972 | Wildlife (Protection) Act |
 | 1973 | Project Tiger launched (1 April) |
 | 1975 | Katarniaghat WLS established |
+| 1991 | Surha Tal declared bird sanctuary (later JP Narayan name) |
 | 1992 | Project Elephant |
 | 2002 | Biological Diversity Act |
 | 2017 | ISFR figure 21.54% used in 2018 PYQ |
 | Jan 2020 | Six more Ramsar sites for UP |
+| Jan 2026 | Surha Tal designated Ramsar (India’s 100th; announced 5 June 2026 WED) |
 | 2023–24 | MISHTI announced in Union Budget |
 
 ### Master Match — Park / Biosphere / Species
@@ -1201,7 +1236,304 @@ Chronology and one coastal operation complete the biodiversity-geography toolkit
 
 ---
 
-## Practice Zone — UPPCS Format Questions
+## 7.16 Uttar Pradesh — Forests, Parks, Sanctuaries & Ramsar (Complete Exam List)
+
+### Definitions
+
+| Term | Definition |
+|------|------------|
+| **Dudhwa Tiger Reserve** | Composite tiger reserve = Dudhwa NP + Kishanpur WLS + Katarniaghat WLS |
+| **Tiger Reserve** | Project Tiger / NTCA management unit (core + buffer); may contain NP and WLS |
+| **Amangarh Tiger Reserve** | UP tiger reserve in Bijnor; buffer/extension linked with Corbett landscape |
+| **Pilibhit Tiger Reserve** | Terai tiger reserve in Pilibhit–Shahjahanpur belt |
+| **Ranipur Tiger Reserve** | Tiger reserve in Chitrakoot (Bundelkhand) on Ranipur WLS base |
+
+### Overview
+
+UPPCS repeatedly asks named UP parks, sanctuaries, years and Ramsar sites. Lock these numbers: **one National Park (Dudhwa)**, four tiger-reserve names (**Dudhwa, Pilibhit, Amangarh, Ranipur**), about **25** wildlife sanctuaries, and a long Ramsar wetland list. Forest geography is Terai–bhabar moist deciduous plus Vindhyan south.
+
+#### How It Works
+
+- UP has **only one National Park: Dudhwa** (Lakhimpur Kheri). Do not invent a second NP for ordinary Prelims locks.
+- **Dudhwa Tiger Reserve** = Dudhwa NP + **Kishanpur** WLS + **Katarniaghat** WLS.
+- **Pilibhit Tiger Reserve** is a separate Terai tiger landscape (not the same as the Dudhwa NP district lock).
+- **Amangarh** (Bijnor) is UP’s Corbett-linked tiger reserve / buffer landscape.
+- **Ranipur** (Chitrakoot) is the Bundelkhand tiger reserve name to know.
+- Chandraprabha WLS = **Chandauli** (2023). Katarniaghat WLS established **1975** (2022).
+- Hastinapur WLS protects floodplain / swamp deer landscape along the Ganga.
+- National Chambal Sanctuary is shared by **UP, MP and Rajasthan** (gharial).
+- Bird / wetland sanctuaries that are also Ramsar include Samaspur, Nawabganj, Sandi, Saman, Parvati Arga, Sur Sarovar, Bakhira, Sarsai Nawar, Haiderpur, the Upper Ganga stretch, and **Surha Tal (Ballia)**.
+- Forest cover of UP is about **6%** of TGA; Sonbhadra leads absolute forest area; Chandauli and Shravasti crossed **20%** cover in ISFR 2023 among the asked trio.
+- Jaunpur, Ghazipur and Ballia are the classic **near-nil forest land** eastern plain districts — but Ballia still hosts **Surha Tal**, India’s 100th Ramsar site (wetland ≠ forest cover).
+
+> **Exam note:** Dudhwa is the only UP National Park. Tiger Reserve names are not National Park names — Pilibhit and Amangarh are tiger reserves, not extra national parks.
+
+#### UP National Park & Tiger Reserves
+
+| Name | Type | District / belt | Lock |
+|------|------|-----------------|------|
+| **Dudhwa** | National Park | Lakhimpur Kheri | Only UP NP |
+| **Dudhwa TR** | Tiger Reserve | Kheri + Bahraich complex | NP + Kishanpur + Katarniaghat |
+| **Pilibhit TR** | Tiger Reserve | Pilibhit–Shahjahanpur | Separate Terai TR |
+| **Amangarh TR** | Tiger Reserve | Bijnor | Corbett buffer/extension |
+| **Ranipur TR** | Tiger Reserve | Chitrakoot | Bundelkhand TR |
+
+#### UP Wildlife Sanctuaries — High-Frequency Exam List
+
+| Sanctuary | District / region | Extra lock |
+|-----------|-------------------|------------|
+| Katarniaghat | Bahraich (Terai) | Est. **1975**; Dudhwa TR unit |
+| Kishanpur | Lakhimpur Kheri | Dudhwa TR; swamp deer / grasslands |
+| Chandraprabha | **Chandauli** | 2023 district PYQ |
+| National Chambal | Etawah–Agra belt (tri-state) | Gharial; UP–MP–RJ |
+| Hastinapur | Meerut–Bijnor–Amroha belt | Floodplain / swamp deer |
+| Kaimoor (Kaimur) | Sonbhadra–Chandauli Vindhyan | Hill forest corridor |
+| Suhelwa | Balrampur–Shravasti–Gonda | Terai–Nepal fringe |
+| Sohagibarwa | Maharajganj | Terai |
+| Mahavir Swami | Lalitpur | Bundelkhand |
+| Ranipur | Chitrakoot | Base of Ranipur TR |
+| Okhla | Gautam Buddha Nagar / Delhi fringe | Bird sanctuary |
+| Samaspur | Raebareli | Ramsar |
+| Nawabganj | Unnao | Ramsar |
+| Sandi | Hardoi | Ramsar |
+| Saman | Mainpuri | Ramsar; sarus |
+| Parvati Arga | Gonda | Ramsar |
+| Sur Sarovar (Keetham) | Agra | Ramsar |
+| Bakhira | Sant Kabir Nagar | Ramsar; large wetland |
+| Sarsai Nawar | Etawah | Ramsar |
+| Surha Tal (Jai Prakash Narayan Bird Sanctuary) | Ballia | Ramsar; India’s 100th (2026) |
+
+#### UP Ramsar Sites — Full Awareness List
+
+| Ramsar site | District cue |
+|-------------|--------------|
+| Upper Ganga River (Brijghat to Narora stretch) | Ganga upper-stretch Ramsar |
+| Nawabganj Bird Sanctuary | Unnao |
+| Sarsai Nawar Jheel | Etawah |
+| Sandi Bird Sanctuary | Hardoi |
+| Samaspur Bird Sanctuary | Raebareli |
+| Parvati Arga Bird Sanctuary | Gonda |
+| Saman Bird Sanctuary | Mainpuri |
+| Sur Sarovar | Agra |
+| Haiderpur Wetland | Muzaffarnagar–Bijnor |
+| Bakhira Wildlife Sanctuary | Sant Kabir Nagar |
+| **Surha Tal (Jai Prakash Narayan Bird Sanctuary)** | **Ballia — India’s 100th Ramsar (2026); UP’s 13th** |
+
+**NOT in UP (elimination locks):** Rudrasagar (Tripura), Sultanpur (Haryana), Surinsar–Mansar (J&K).
+
+> **Name trap:** **Surha Tal** (Ballia) ≠ **Sur Sarovar** (Agra / Keetham). Both are UP Ramsar wetlands.
+
+### Exam Facts (raata — traps only) — §7.16
+
+| # | Fact to remember |
+|---|------------------|
+| 1 | Uttar Pradesh has only one National Park — Dudhwa |
+| 2 | Dudhwa Tiger Reserve = Dudhwa NP + Kishanpur + Katarniaghat |
+| 3 | Pilibhit, Amangarh and Ranipur are UP tiger reserves |
+| 4 | Chandraprabha Wildlife Sanctuary is in Chandauli |
+| 5 | Katarniaghat Wildlife Sanctuary was established in 1975 |
+| 6 | National Chambal Sanctuary is shared by UP, Madhya Pradesh and Rajasthan |
+| 7 | Sarsai Nawar and Samaspur are UP Ramsar sites |
+| 8 | UP forest cover is about 6% of state geographical area in recent ISFR |
+| 9 | Chandauli and Shravasti had over 20% forest cover in ISFR 2023 among the asked districts |
+| 10 | January 2020 added six more Ramsar sites to Uttar Pradesh |
+| 11 | Surha Tal (Ballia) is India’s 100th Ramsar site and UP’s 13th (2026) |
+| 12 | Ballia’s near-nil forest-land lore does not mean Ballia has no Ramsar wetland |
+
+### PYQs — §7.16
+
+**UPPCS Prelims**
+
+1. **(UPPCS 2022, Q56)** Dudhwa National Park is situated in which of the following districts of Uttar Pradesh?
+   - Options: A. Bahraich / B. Lakhimpur Kheri / C. Pilibhit / D. Sitapur
+   → **B. Lakhimpur Kheri** — Only UP National Park; do not confuse with Pilibhit Tiger Reserve.
+
+2. **(UPPCS 2023, Q56)** Chandraprabha Wildlife Sanctuary is situated in which district of Uttar Pradesh?
+   - Options: A. Sonbhadra / B. Chandauli / C. Bahraich / D. Lakhimpur Kheri
+   → **B. Chandauli** — Vindhyan sanctuary district lock.
+
+3. **(UPPCS 2022, Q36)** Which of the following Wildlife Sanctuaries of Uttar Pradesh was established in 1975?
+   - Options: A. Chambal / B. Katarniaghat / C. Raipur / D. Kishanpur
+   → **B. Katarniaghat** — Year lock for the Terai sanctuary later brought into Dudhwa TR.
+
+4. **(UPPCS 2025, Q58)** Which of the following Ramsar sites are NOT located in Uttar Pradesh?
+   1. Sarsai Nawar Jheel
+   2. Samaspur Bird Sanctuary
+   3. Rudrasagar Lake
+   4. Sultanpur National Park
+   - Options: A. 1 and 3 / B. 3 and 4 / C. 2 and 3 / D. 1 and 2
+   → **B. 3 and 4** — Rudrasagar (Tripura) and Sultanpur (Haryana) are outside UP.
+
+---
+
+## 7.17 Biosphere Reserve Programme — Deep Dive
+
+### Definitions
+
+| Term | Definition |
+|------|------------|
+| **UNESCO MAB** | Man and the Biosphere Programme that frames biosphere reserves worldwide |
+| **World Network of Biosphere Reserves** | UNESCO list of designated biosphere reserves |
+| **Core zone** | Strictly protected inner zone; conservation first |
+| **Buffer zone** | Surrounds core; research, education, limited use |
+| **Transition zone** | Outer zone with settlements and sustainable economic activity |
+
+### Overview
+
+The Biosphere Reserve Programme is not only a name–state match list. UPPCS also expects the **three-zone model** and the idea that a BR can contain National Parks and Sanctuaries while allowing sustainable use in the transition zone.
+
+#### How It Works
+
+- Biosphere reserves join **conservation + research + sustainable livelihoods**.
+- **Core** follows strict protection logic; extraction is minimal or nil.
+- **Buffer** allows managed activities that do not hurt the core.
+- **Transition** is where villages, farming and eco-development sit.
+- India designates biosphere reserves nationally; some also enter the UNESCO World Network.
+- A single BR may span more than one state (Nilgiri; Agasthyamalai; Achanakmar-Amarkantak).
+- Biosphere status is different from Ramsar (wetlands) and from Project Tiger (species programme).
+- Wrong-state pairs are the highest-yield trap: Nokrek≠Manipur; Simlipal≠MP; Nanda Devi≠UP.
+- Forest Research Institute / ICFRE detail belongs mainly to Topic 10 — only FRI Dehradun awareness here if asked.
+
+> **Exam note:** If a question asks the structure of a biosphere reserve, answer **core–buffer–transition**, not “same as national park”.
+
+### Exam Facts (raata — traps only) — §7.17
+
+| # | Fact to remember |
+|---|------------------|
+| 1 | Biosphere reserves have core, buffer and transition zones |
+| 2 | UNESCO MAB is the international programme frame |
+| 3 | Nilgiri Biosphere Reserve spans Tamil Nadu, Kerala and Karnataka |
+| 4 | Nanda Devi Biosphere Reserve is in Uttarakhand |
+| 5 | A biosphere reserve can contain national parks and sanctuaries inside it |
+| 6 | Nokrek is in Meghalaya |
+| 7 | Biosphere reserves are an in-situ, landscape-scale tool |
+
+### PYQs — §7.17
+
+**UPPCS Prelims**
+
+1. **(UPPCS 2024, Q10)** Match List-I with List-II and choose the correct answer using the codes given below the lists:
+   **List-I** A. Simlipal B. Nokrek C. Agasthyamalai D. Manas
+   **List-II** 1. Kerala 2. Odisha 3. Assam 4. Meghalaya
+   - Options: A. 1 2 4 3 / B. 3 1 4 2 / C. 2 4 3 1 / D. 2 4 1 3
+   → **D. 2 4 1 3** — Simlipal–Odisha; Nokrek–Meghalaya; Agasthyamalai–Kerala; Manas–Assam.
+
+2. **(UPPCS 2025, Q144)** Which of the following pairs is/are NOT correctly matched?
+   (Biosphere Reserve) — (State)
+   1. Nokrek — Manipur
+   2. Manas — Assam
+   3. Agasthyamalai — Kerala
+   - Options: A. 1 and 2 / B. Only 3 / C. 2 and 3 / D. Only 1
+   → **D. Only 1** — Only Nokrek–Manipur is wrong; Nokrek is in Meghalaya.
+
+---
+
+## 7.18 Forest Policy, Movements & Conservation Reserves (Exam Awareness)
+
+### Definitions
+
+| Term | Definition |
+|------|------------|
+| **National Forest Policy** | Policy frame for forest conservation and tree cover goals (major modern revision 1988) |
+| **Conservation Reserve** | WLPA category on government land adjacent to PAs, with stakeholder consultation |
+| **Community Reserve** | WLPA category on community/private land for wildlife, with community participation |
+| **Sacred grove** | Community-protected forest patch (in-situ cultural conservation) |
+| **Van Mahotsav** | Tree-planting festival tradition in India |
+
+### Overview
+
+These items appear as definition or chronology neighbours to vegetation/biodiversity geography. Keep them short but exact.
+
+#### How It Works
+
+- National Forest Policy **1988** emphasises environmental stability and a notional **33%** forest/tree cover goal for the country.
+- Conservation Reserves and Community Reserves were added to WLPA to fill gaps between classical NP/WLS and people-managed lands.
+- Sacred groves are in-situ, not botanical gardens.
+- Chipko (Uttarakhand hills) and Appiko (Western Ghats Karnataka) are forest-protection movements sometimes paired with vegetation questions.
+- Social forestry and farm forestry raise tree cover outside dense natural forest — important for ISFR tree-cover reading.
+- Jhum (shifting cultivation) clears forest patches in NE hills; it explains forest degradation patterns here and is taught fully under Agriculture.
+- FRI Dehradun / ICFRE are forest institutions (full detail in Topic 10).
+
+> **Exam note:** 33% is a **policy goal**, not India’s present ISFR forest-cover percentage.
+
+### Exam Facts (raata — traps only) — §7.18
+
+| # | Fact to remember |
+|---|------------------|
+| 1 | National Forest Policy 1988 is linked with the 33% forest/tree cover goal idea |
+| 2 | Conservation Reserve and Community Reserve are WLPA categories beyond NP/WLS |
+| 3 | Sacred groves are in-situ conservation |
+| 4 | Chipko is associated with Himalayan forest protection movements |
+| 5 | Present ISFR forest cover is far below the 33% policy aspiration |
+
+### PYQs — §7.18
+
+**UPPCS Prelims**
+
+1. **(UPPCS 2018, Q54)** Which of the following is NOT an example of in-situ conservation strategy?
+   - Options: A. Biosphere reserve / B. Botanical garden / C. National Park / D. Sacred groves
+   → **B. Botanical garden** — Sacred groves are in-situ; botanical gardens are ex-situ.
+
+2. No direct 2018–2025 National Forest Policy percentage stem in local `pyq/` — still raata the **1988 / 33% goal vs ISFR reality** contrast for awareness MCQs.
+
+---
+
+### Legal / Administrative Forest Classes (awareness)
+
+| Class | Meaning | Exam use |
+|-------|---------|----------|
+| **Reserved Forest** | Highest legal protection under Indian Forest Act; rights generally restricted | Protection intensity |
+| **Protected Forest** | Notified forest with more limited restrictions than reserved | Mid-tier legal forest |
+| **Unclassed Forest** | Forest land not reserved/protected; often community or revenue forest | Completes RFA total |
+| **Recorded Forest Area (RFA)** | Sum of reserved + protected + unclassed notified forest | Differs from satellite **forest cover** |
+| **Very Dense / Moderately Dense / Open Forest** | ISFR canopy-density classes | Density matching in advanced stems |
+
+> **Exam note:** A district can have high recorded forest area but lower forest cover if canopy is degraded — do not treat the two phrases as synonyms.
+
+### India Biosphere Reserves — Extended Match List
+
+| Biosphere Reserve | State(s) |
+|-------------------|----------|
+| Nilgiri | Tamil Nadu, Kerala, Karnataka |
+| Nanda Devi | Uttarakhand |
+| Nokrek | Meghalaya |
+| Great Nicobar | Andaman & Nicobar |
+| Gulf of Mannar | Tamil Nadu |
+| Manas | Assam |
+| Sunderbans | West Bengal |
+| Simlipal | Odisha |
+| Dibru-Saikhowa | Assam |
+| Dehang-Debang | Arunachal Pradesh |
+| Pachmarhi | Madhya Pradesh |
+| Khangchendzonga | Sikkim |
+| Agasthyamalai | Kerala, Tamil Nadu |
+| Achanakmar-Amarkantak | Madhya Pradesh, Chhattisgarh |
+| Cold Desert | Himachal Pradesh |
+| Seshachalam | Andhra Pradesh |
+| Panna | Madhya Pradesh |
+| Kachchh | Gujarat |
+
+### World Vegetation — Quick Extra Locks
+
+| Name | Region | Note |
+|------|--------|------|
+| Selva | Amazon / Brazil | Equatorial rainforest |
+| Terra Roxa | Brazil | Fertile basaltic coffee soil |
+| Maquis | Mediterranean | Scrub |
+| Fynbos | South Africa | Scrub |
+| Chaparral | California | Scrub |
+| Matorral | Chile | Scrub |
+
+### Plantation vs Natural Forest (boundary with Agriculture)
+
+| Feature | Natural forest | Plantation |
+|---------|----------------|------------|
+| Origin | Spontaneous / climax or secondary | Planted estate |
+| Species | Mixed | Often monoculture (teak, eucalyptus, tea, rubber) |
+| Exam home | This topic | Tea/coffee/rubber also in Agriculture |
+| Trap | Calling tea estate a tropical evergreen climax | Estate ≠ climax evergreen |
+
+## Practice Zone — 50 Questions (2025 Pattern Mix)
 
 **Q1.** Which forest type covers the largest area in India?
 Options: A. Tropical evergreen  B. Moist deciduous  C. Thorn  D. Alpine
@@ -1445,577 +1777,825 @@ Options: A. Ex-situ banks only  B. In-situ conservation  C. Only captive breedin
 
 ---
 
-## Complete PYQ Bank — Natural Vegetation & Biodiversity Geography
+**Q31.** Uttar Pradesh has how many National Parks (standard Prelims lock)?
+Options: A. One  B. Two  C. Three  D. Four
+<details><summary>Show answer</summary>
 
-**Q1. UPPCS 2018 Q25**
+**Ans: A** — Only Dudhwa. Tiger reserves are not extra national parks.
 
-'Vegetation is the true index of climate' associated with?
+</details>
+
+**Q32.** Dudhwa Tiger Reserve includes:
+Options: A. Dudhwa NP only  B. Dudhwa NP + Kishanpur + Katarniaghat  C. Pilibhit + Amangarh  D. Chandraprabha + Kaimoor
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q33.** Amangarh Tiger Reserve is in:
+Options: A. Lakhimpur Kheri  B. Pilibhit  C. Bijnor  D. Chitrakoot
+<details><summary>Show answer</summary>
+
+**Ans: C** — Corbett-linked UP buffer landscape.
+
+</details>
+
+**Q34.** Ranipur Tiger Reserve is associated with:
+Options: A. Terai Nepal border only  B. Chitrakoot / Bundelkhand  C. Agra Yamuna only  D. Sonbhadra only
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q35.** Biosphere reserve zones in correct inner-to-outer idea:
+Options: A. Transition–buffer–core  B. Core–buffer–transition  C. Buffer–core–transition  D. Core–transition only
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q36.** National Forest Policy 1988 is associated with which aspirational cover idea?
+Options: A. 10%  B. 21.54%  C. 33%  D. 50%
+<details><summary>Show answer</summary>
+
+**Ans: C** — Policy goal, not current ISFR %.
+
+</details>
+
+**Q37.** Which is a Community Reserve idea?
+Options: A. Strict NP with no people zone ever named  B. Participatory reserve on community/private land  C. Only UNESCO biosphere core  D. Only botanical garden
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q38.** Hastinapur Wildlife Sanctuary is mainly known for:
+Options: A. Desert fox only  B. Ganga floodplain / swamp deer landscape  C. Alpine hangul  D. Coral reefs
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q39.** Suhelwa Wildlife Sanctuary lies in:
+Options: A. Bundelkhand only  B. Terai fringe (Balrampur–Shravasti–Gonda belt)  C. Agra only  D. Mirzapur only
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q40.** Kaimoor (Kaimur) Sanctuary is in which physiographic setting?
+Options: A. Pure Terai grassland only  B. Vindhyan / Kaimur hill forest  C. Alpine meadow  D. Andaman coast
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q41.** Nilgiri Biosphere Reserve spans:
+Options: A. Only Tamil Nadu  B. Tamil Nadu–Kerala–Karnataka  C. Only Kerala–Goa  D. Assam–Meghalaya
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q42.** Which mangrove region is on India’s west coast?
+Options: A. Sundarbans  B. Bhitarkanika  C. Gulf of Kachchh  D. Godavari delta only
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q43.** Gulf of Mannar is important because it is:
+Options: A. Only a Himalayan biosphere  B. Coral region and a Biosphere Reserve  C. Only a desert scrub  D. UP Ramsar site
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q44.** Conservation Reserve under WLPA is typically:
+Options: A. Ex-situ zoo category  B. Government land adjacent to protected areas with consultation  C. Same as botanical garden  D. Only marine EEZ label
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q45.** Pilibhit is best classified for Prelims as:
+Options: A. UP’s second National Park  B. A Tiger Reserve in the Terai  C. A biosphere in Meghalaya  D. A coral park
+<details><summary>Show answer</summary>
+
+**Ans: B** — Not a second National Park.
+
+</details>
+
+**Q46.** Chipko movement is associated with protection of:
+Options: A. Coral reefs of Lakshadweep  B. Himalayan forests  C. Sundarbans mangroves only  D. Thar desert dunes only
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q47.** Which UP Ramsar site is in Etawah?
+Options: A. Samaspur  B. Sarsai Nawar Jheel  C. Bakhira  D. Surinsar–Mansar
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q47b.** Surha Tal (Jai Prakash Narayan Bird Sanctuary), India’s 100th Ramsar site, is in which district?
+Options: A. Etawah  B. Agra  C. Ballia  D. Unnao
+<details><summary>Show answer</summary>
+
+**Ans: C** — Ballia. Do not confuse with Sur Sarovar (Agra). Near-nil forest lore ≠ no Ramsar wetland.
+
+</details>
+
+**Q48.** Recorded Forest Area and Forest Cover are:
+Options: A. Always identical numbers  B. Different concepts (legal notification vs canopy mapping)  C. Only Hindi translations  D. Only mangrove terms
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q49.** Semi-evergreen forests occur where:
+Options: A. Rain is high but a short dry season exists  B. Rain is below 50 cm always  C. Only above snowline  D. Only in thorn desert
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q50.** Which is correctly matched?
+Options: A. Nanda Devi – Uttar Pradesh  B. Nokrek – Meghalaya  C. Simlipal – Madhya Pradesh  D. Manas – Kerala
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+---
+
+## Complete PYQ Bank — Natural Vegetation & Biodiversity Geography (2018–2025)
+
+**Q1. UPPCS Prelims 2018, Q25**
+
+'Vegetation is the true index of climate'. This statement is associated with
 
 Options: A. Thornthwaite  B. Koppen  C. Trewartha  D. Stamp
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Thornthwaite is the keyed association.
+**Ans: A** — Among the given climatologists, UPPCS keys this statement to Thornthwaite. Köppen is the letter-code climate system.
 
 </details>
 
 ---
 
-**Q2. UPPCS 2018 Q44**
+**Q2. UPPCS Prelims 2018, Q44**
 
-ISFR 2017 forest % of TGA?
+According to the India State of Forest Report, 2017, what percentage of total geographical area of the country is under forest?
 
 Options: A. 20.34  B. 22.34  C. 21.54  D. 23.54
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — 21.54% is the PYQ figure.
+**Ans: C** — Memorise the PYQ figure **21.54%** for ISFR 2017; later reports differ.
 
 </details>
 
 ---
 
-**Q3. UPPCS 2018 Q45**
+**Q3. UPPCS Prelims 2018, Q45**
 
-Project Tiger launched?
+When was 'Project Tiger' launched in India?
 
 Options: A. 1968  B. 1972  C. 1984  D. 1993
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B (among options) / remember 1973** — True launch 1973; options omit it.
+**Ans: B (among given options)** — True launch date is **1 April 1973**. Options omit 1973; many UPPCS keys pick 1972 (WLPA/census year). Remember **1973** for open-ended recall.
 
 </details>
 
 ---
 
-**Q4. UPPCS 2018 Q49**
+**Q4. UPPCS Prelims 2018, Q49**
 
-Dachigam associated with?
+Dachigam National Park is associated with which of the following?
 
-Options: A. Musk Deer  B. Golden Oriole  C. Yellow-throated Marten  D. Hangul
+Options: A. Musk Deer  B. Golden Oriole  C. Yellow-throated Marten  D. Hangul or Kashmir Stag
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Hangul / Kashmir stag.
+**Ans: D** — Hangul (Kashmir stag) is the flagship deer of Dachigam.
 
 </details>
 
 ---
 
-**Q5. UPPCS 2018 Q54**
+**Q5. UPPCS Prelims 2018, Q54**
 
-NOT in-situ?
+Which of the following is NOT an example of in-situ conservation strategy?
 
 Options: A. Biosphere reserve  B. Botanical garden  C. National Park  D. Sacred groves
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Botanical garden is ex-situ.
+**Ans: B** — Botanical gardens conserve plants outside wild habitats (ex-situ). Biosphere reserve, National Park and sacred groves are in-situ.
 
 </details>
 
 ---
 
-**Q6. UPPCS 2018 Q58**
+**Q6. UPPCS Prelims 2018, Q58**
 
-NOT correctly matched?
+Which of the following pairs is NOT correctly matched?
 
-Options: A. Bandipur–Karnataka  B. Manas–Assam  C. Periyar–Kerala  D. Simlipal–Madhya Pradesh
+Options:
+- A. Bandipur National Park — Karnataka
+- B. Manas Wildlife Sanctuary — Assam
+- C. Periyar Wildlife Sanctuary — Kerala
+- D. Simlipal National Park — Madhya Pradesh
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Simlipal is in Odisha.
+**Ans: D** — Simlipal National Park is in **Odisha**, not Madhya Pradesh. A, B and C are correctly matched.
 
 </details>
 
 ---
 
-**Q7. UPPCS 2019 Q1**
+**Q7. UPPCS Prelims 2019, Q1**
 
-Maquis/Fynbos/Chaparral/Matorral match
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+
+**List-I (Vegetation Type)**  
+A. Maquis  
+B. Fynbos  
+C. Chaparral  
+D. Matorral  
+
+**List-II (Region)**  
+1. California  
+2. Mediterranean Sea Coastal Region  
+3. South Africa  
+4. Chile  
 
 Options: A. 2 3 1 4  B. 4 3 2 1  C. 3 4 1 2  D. 4 2 3 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Med / SA / California / Chile.
+**Ans: A** — Maquis = Mediterranean; Fynbos = South Africa; Chaparral = California; Matorral = Chile.
 
 </details>
 
 ---
 
-**Q8. UPPCS 2019 Q3**
+**Q8. UPPCS Prelims 2019, Q3**
 
-Epiphytes/Acacia/Baobab/Cedars match
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+
+**List-I (Natural Vegetation)**  
+A. Epiphytes  
+B. Acacia  
+C. Baobab  
+D. Cedars  
+
+**List-II (Region)**  
+1. Mediterranean  
+2. Equatorial  
+3. Sahara  
+4. Savanna  
 
 Options: A. 2 3 4 1  B. 2 3 1 4  C. 2 4 3 1  D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Equatorial / Sahara / Savanna / Mediterranean.
+**Ans: A** — Epiphytes = Equatorial; Acacia = Sahara; Baobab = Savanna; Cedars = Mediterranean.
 
 </details>
 
 ---
 
-**Q9. UPPCS 2019 Q58**
+**Q9. UPPCS Prelims 2019, Q58**
 
-NOT true about species diversity?
+Which of the following statement is NOT true?
 
-Options: A. Increases equator→poles  B. Tropics > temperate  C. Amazon high  D. Decreases temperate→poles
+Options:
+- A. Species diversity increases from equator towards poles
+- B. Tropics harbour more species than temperate areas
+- C. Greatest biodiversity occurs in Amazonian rainforest
+- D. Species diversity decreases from temperate areas towards poles
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — A is false.
+**Ans: A** — Statement A is false. Species diversity **decreases** from equator toward the poles. B, C and D are consistent with the latitudinal diversity gradient.
 
 </details>
 
 ---
 
-**Q10. UPPCS 2019 Q67**
+**Q10. UPPCS Prelims 2019, Q67**
 
-Chronology WLPA / BDA / Tiger / Elephant
+Arrange the following events in chronological order of their commencement and select correct answer from the codes given below:
 
-Options: A. I II III IV  B. I III IV II  C. II III IV I  D. II III I IV
+I. Wild Life (Protection) Act  
+II. Biological Diversity Act  
+III. Project Tiger  
+IV. Project Elephant  
+
+Options: A. I, II, III, IV  B. I, III, IV, II  C. II, III, IV, I  D. II, III, I, IV
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 1972–1973–1992–2002.
+**Ans: B** — 1972 WLPA → 1973 Project Tiger → 1992 Project Elephant → 2002 Biological Diversity Act.
 
 </details>
 
 ---
 
-**Q11. UPPCS 2020 Q48**
+**Q11. UPPCS Prelims 2020, Q48**
 
-More Ramsar sites added to UP in Jan 2020?
+How many more 'Ramsar Sites' were added to Uttar Pradesh in January, 2020?
 
 Options: A. 3  B. 6  C. 9  D. 12
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Six sites.
+**Ans: B** — Six additional Ramsar sites were added to UP in January 2020.
 
 </details>
 
 ---
 
-**Q12. UPPCS 2020 Q62**
+**Q12. UPPCS Prelims 2020, Q62**
 
-Indravati/Mollem/Kalesar/Betla states
+Match List-I with List-II and select the correct answer using the codes given below the lists:
+
+**List-I (National Parks)**  
+A. Indravati  
+B. Mollem  
+C. Kalesar  
+D. Betla  
+
+**List-II (States)**  
+1. Jharkhand  
+2. Haryana  
+3. Goa  
+4. Chhattisgarh  
 
 Options: A. 4 3 2 1  B. 4 2 3 1  C. 4 1 3 2  D. 3 4 2 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — CG / Goa / Haryana / Jharkhand.
+**Ans: A** — Indravati–Chhattisgarh; Mollem–Goa; Kalesar–Haryana; Betla–Jharkhand.
 
 </details>
 
 ---
 
-**Q13. UPPCS 2020 Q77**
+**Q13. UPPCS Prelims 2020, Q77**
 
-Chronology Tiger/Elephant/WLPA/BDA
+Arrange the following events in chronological order of their commencement:
 
-Options: A. I II III IV  B. II I IV III  C. III I II IV  D. III IV I II
+I. Project Tiger  
+II. Project Elephant  
+III. Wildlife Protection Act  
+IV. Biological Diversity Act  
+
+Select the correct answer using the codes given below.
+
+Options: A. I, II, III, IV  B. II, I, IV, III  C. III, I, II, IV  D. III, IV, I, II
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — WLPA → Tiger → Elephant → BDA.
+**Ans: C** — Wildlife Protection Act (1972) → Project Tiger (1973) → Project Elephant (1992) → Biological Diversity Act (2002).
 
 </details>
 
 ---
 
-**Q14. UPPCS 2021 Q17**
+**Q14. UPPCS Prelims 2021, Q17**
 
-Ramsar NOT in UP?
+Which of the following Ramsar site is NOT situated in Uttar Pradesh?
 
-Options: A. Sur Sarovar  B. Samaspur  C. Sarsai Nawar  D. Surinsar–Mansar
+Options: A. Sur Sarovar  B. Samaspur Bird Sanctuary  C. Sarsai Nawar Jheel  D. Surinsar–Mansar Lakes
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — J&K site.
+**Ans: D** — Surinsar–Mansar Lakes are in Jammu & Kashmir. The other three are UP Ramsar sites.
 
 </details>
 
 ---
 
-**Q15. UPPCS 2021 Q140**
+**Q15. UPPCS Prelims 2021, Q140**
 
-Similipal/Pachmarhi/Nandadevi/Nokrek
+Match List-I with List-II and select the correct answer using the codes given below the lists.
+
+**List-I (Biosphere)**  
+A. Similipal  
+B. Pachmarhi  
+C. Nandadevi  
+D. Nokrek  
+
+**List-II (Location)**  
+1. Uttarakhand  
+2. Meghalaya  
+3. Madhya Pradesh  
+4. Odisha  
 
 Options: A. 4 3 2 1  B. 4 3 1 2  C. 1 3 4 2  D. 3 4 1 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Odisha / MP / Uttarakhand / Meghalaya.
+**Ans: B** — Similipal–Odisha; Pachmarhi–Madhya Pradesh; Nandadevi–Uttarakhand; Nokrek–Meghalaya.
 
 </details>
 
 ---
 
-**Q16. UPPCS 2022 Q36**
+**Q16. UPPCS Prelims 2022, Q36**
 
-UP WLS established 1975?
+Which of the following Wildlife Sanctuaries of Uttar Pradesh was established in 1975?
 
 Options: A. Chambal  B. Katarniaghat  C. Raipur  D. Kishanpur
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Katarniaghat.
+**Ans: B** — Katarniaghat Wildlife Sanctuary (1975) is the year lock among the given options.
 
 </details>
 
 ---
 
-**Q17. UPPCS 2022 Q56**
+**Q17. UPPCS Prelims 2022, Q56**
 
-Dudhwa district?
+Dudhwa National Park is situated in which of the following districts of Uttar Pradesh?
 
 Options: A. Bahraich  B. Lakhimpur Kheri  C. Pilibhit  D. Sitapur
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Lakhimpur Kheri.
+**Ans: B** — Dudhwa National Park is in Lakhimpur Kheri. Do not confuse with Pilibhit Tiger Reserve.
 
 </details>
 
 ---
 
-**Q18. UPPCS 2022 Q61**
+**Q18. UPPCS Prelims 2022, Q61**
 
-ISFR 2021 max forest-cover increase state?
+As per the India State of Forest Report–2021, which of the following States has registered the maximum increase in forest cover during the last two years?
 
 Options: A. Kerala  B. Assam  C. Arunachal Pradesh  D. Andhra Pradesh
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Andhra Pradesh among options.
+**Ans: D** — Among the given options, Andhra Pradesh had the maximum increase in that ISFR comparison.
 
 </details>
 
 ---
 
-**Q19. UPPCS 2022 Q73**
+**Q19. UPPCS Prelims 2022, Q73**
 
-Keibul Lamjao lake?
+Keibul Lamjao National Park is located in which lake?
 
 Options: A. Loktak  B. Dal  C. Wular  D. Kolleru
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Loktak.
+**Ans: A** — Keibul Lamjao is the floating national park on Manipur’s Loktak Lake.
 
 </details>
 
 ---
 
-**Q20. UPPCS 2022 Q110**
+**Q20. UPPCS Prelims 2022, Q110**
 
-Manas/Sundarbans/Nanda Devi/Pachmarhi
+Match List-I with List-II and select the correct answer from the code given below.
 
-Options: Paper key D; learn true states
+**List-I (Bio-reserve Sector)**  
+A. Manas  
+B. Sundarbans  
+C. Nanda Devi  
+D. Pachmarhi  
+
+**List-II (State)**  
+1. Madhya Pradesh  
+2. Uttar Pradesh  
+3. Assam  
+4. West Bengal  
+
+Options: A. A-2, B-1, C-3, D-4  B. A-4, B-3, C-2, D-1  C. A-1, B-2, C-3, D-4  D. A-3, B-4, C-2, D-1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D / caution** — Nanda Devi is Uttarakhand, not UP.
+**Ans: D (paper key)** — Manas–Assam; Sundarbans–West Bengal; Pachmarhi–Madhya Pradesh. The paper keys Nanda Devi to Uttar Pradesh, but geographically Nanda Devi is in **Uttarakhand** — learn the true state.
 
 </details>
 
 ---
 
-**Q21. UPPCS 2023 Q56**
+**Q21. UPPCS Prelims 2023, Q56**
 
-Chandraprabha district?
+Chandraprabha Wildlife Sanctuary is situated in which district of Uttar Pradesh?
 
 Options: A. Sonbhadra  B. Chandauli  C. Bahraich  D. Lakhimpur Kheri
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Chandauli.
+**Ans: B** — Chandraprabha is in Chandauli.
 
 </details>
 
 ---
 
-**Q22. UPPCS 2023 Q59**
+**Q22. UPPCS Prelims 2023, Q59**
 
-UP 12.8% forests; Jaunpur–Ghazipur–Ballia no forest
+Consider the following statements with reference to Uttar Pradesh—
 
-Options: A. Only 1  B. Both  C. Only 2  D. Neither
+1. Forests constitute about 12.8% of the total geographical area of the State.  
+2. The districts of Jaunpur, Ghazipur and Ballia have no forest land.
+
+Select the correct answer using the code given below.
+
+Options: A. Only 1  B. Both 1 and 2  C. Only 2  D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C (geography key)** — ~6% not 12.8%; statement 2 retained.
+**Ans: C (geography-standard key)** — Statement 1 is wrong for current ISFR (~6% forest cover, not 12.8%). Statement 2 is the traditional no-forest-land lock for those eastern plain districts.
 
 </details>
 
 ---
 
-**Q23. UPPCS 2023 Q118**
+**Q23. UPPCS Prelims 2023, Q118**
 
-NP genetic diversity maintained through?
+In National Parks, genetic diversity is maintained through—
 
-Options: A. In-situ  B. Ex-situ  C. Gene pool  D. None
+Options: A. In-situ conservation  B. Ex-situ conservation  C. Gene pool  D. None of the above
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — In-situ.
+**Ans: A** — National Parks protect species in their natural habitats (in-situ).
 
 </details>
 
 ---
 
-**Q24. UPPCS 2024 Q10**
+**Q24. UPPCS Prelims 2024, Q10**
 
-Simlipal/Nokrek/Agasthyamalai/Manas
+Match List-I with List-II and choose the correct answer using the codes given below the lists:
+
+**List-I**  
+A. Simlipal  
+B. Nokrek  
+C. Agasthyamalai  
+D. Manas  
+
+**List-II**  
+1. Kerala  
+2. Odisha  
+3. Assam  
+4. Meghalaya  
 
 Options: A. 1 2 4 3  B. 3 1 4 2  C. 2 4 3 1  D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Odisha / Meghalaya / Kerala / Assam.
+**Ans: D** — Simlipal–Odisha; Nokrek–Meghalaya; Agasthyamalai–Kerala; Manas–Assam.
 
 </details>
 
 ---
 
-**Q25. UPPCS 2024 Q19**
+**Q25. UPPCS Prelims 2024, Q19**
 
-Andaman coral mass death reason?
+Which of the following reasons caused catastrophic coral bleaching and mass coral deaths in the Andaman and Nicobar Islands?
 
-Options: A. Industry  B. +2°C Indian Ocean  C. Pollution only  D. −4°C
+Options: A. Increased industrial activities in the coastal regions  B. Increase of 2°C temperature in the Indian Ocean  C. Heavy marine pollution  D. Decrease of temperature by 4°C in the Indian Ocean
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Warming/bleaching.
+**Ans: B** — Mass bleaching is linked with ocean warming; the keyed option is about a 2°C rise, not cooling.
 
 </details>
 
 ---
 
-**Q26. UPPCS 2025 Q8**
+**Q26. UPPCS Prelims 2025, Q8**
 
-UP districts >20% forest: Bahraich, Chandauli, Shravasti
+As per the India State of Forest Report 2023, which of the following districts in Uttar Pradesh had forest over more than 20% of their total area?
+
+1. Bahraich  
+2. Chandauli  
+3. Shravasti  
+
+Select the correct answer from the code given below.
 
 Options: A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Chandauli + Shravasti.
+**Ans: C** — Chandauli and Shravasti crossed 20%; Bahraich did not.
 
 </details>
 
 ---
 
-**Q27. UPPCS 2025 Q21**
+**Q27. UPPCS Prelims 2025, Q21**
 
-Himalayan vegetation A/R altitude
+Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 
-Options: Standard A/R options
+**Assertion (A):** In the Himalayan mountains different types of vegetation are found.  
+**Reason (R):** In Himalayas, there are variations in climate with change in altitude.
+
+Options:
+- A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+- B. (A) is false, but (R) is true
+- C. (A) is true, but (R) is false
+- D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: Both true, R explains** — Altitude climate elevator.
+**Ans: D** — Both true; altitude-driven climate change explains stacked Himalayan vegetation belts.
 
 </details>
 
 ---
 
-**Q28. UPPCS 2025 Q58**
+**Q28. UPPCS Prelims 2025, Q58**
 
-Ramsar NOT in UP
+Which of the following Ramsar sites are NOT located in Uttar Pradesh?
+
+1. Sarsai Nawar Jheel  
+2. Samaspur Bird Sanctuary  
+3. Rudrasagar Lake  
+4. Sultanpur National Park  
+
+Select the correct answer from the code given below.
 
 Options: A. 1 and 3  B. 3 and 4  C. 2 and 3  D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Rudrasagar + Sultanpur.
+**Ans: B** — Rudrasagar (Tripura) and Sultanpur (Haryana) are outside UP. Sarsai Nawar and Samaspur are in UP.
 
 </details>
 
 ---
 
-**Q29. UPPCS 2025 Q63**
+**Q29. UPPCS Prelims 2025, Q63**
 
-Brazil Selva + Terra Roxa
+With reference to Brazil, which of the following statements is/are correct?
 
-Options: A. Only 2  B. Neither  C. Both  D. Only 1
+1. The equatorial rainforests of Brazil are called "Selva".  
+2. The fertile dark-coloured soil found there is known as "Terra Roxa".  
+
+Select the correct answer from the code given below.
+
+Options: A. Only 2  B. Neither 1 nor 2  C. Both 1 and 2  D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both correct.
+**Ans: C** — Both statements are correct.
 
 </details>
 
 ---
 
-**Q30. UPPCS 2025 Q90**
+**Q30. UPPCS Prelims 2025, Q90**
 
-Dachigam/Keoladeo/Kanha/Periyar
+Match List-I with List-II and select the correct answer using the code given below.
+
+**List-I**  
+A. Dachigam  
+B. Keoladeo  
+C. Kanha  
+D. Periyar  
+
+**List-II**  
+1. Madhya Pradesh  
+2. Rajasthan  
+3. Kerala  
+4. Jammu and Kashmir  
 
 Options: A. 4 2 3 1  B. 2 4 1 3  C. 2 4 3 1  D. 4 2 1 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — J&K / RJ / MP / Kerala.
+**Ans: D** — Dachigam–J&K; Keoladeo–Rajasthan; Kanha–Madhya Pradesh; Periyar–Kerala.
 
 </details>
 
 ---
 
-**Q31. UPPCS 2025 Q93**
+**Q31. UPPCS Prelims 2025, Q93**
 
-MISHTI 2019? restore mangroves?
+With reference to Mangrove Initiative for Shoreline Habitats and Tangible Income (MISHTI), which of the following statements is/are correct?
 
-Options: A. Only 2  B. Neither  C. Both  D. Only 1
+1. It was initiated in 2019.  
+2. It aims to restore mangrove forests.  
+
+Select the correct answer from the code given below.
+
+Options: A. Only 2  B. Neither 1 nor 2  C. Both 1 and 2  D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Only restore is true; year is 2023–24 Budget.
+**Ans: A** — Only statement 2 is correct. MISHTI was announced in Union Budget 2023–24, not 2019.
 
 </details>
 
 ---
 
-**Q32. UPPCS 2025 Q143**
+**Q32. UPPCS Prelims 2025, Q143**
 
-Operation Olivia statements
+With reference to 'Operation Olivia', which of the following statements is/are correct?
 
-Options: A. Only 2  B. Neither  C. Both  D. Only 1
+1. It is an initiative of Indian Coast Guard to protect Olive Ridley turtles along the coast of Odisha.  
+2. Operation Olivia is carried out during the month of August which is the nesting time of Olive Ridley turtles.  
+
+Select the correct answer from the code given below.
+
+Options: A. Only 2  B. Neither 1 nor 2  C. Both 1 and 2  D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Coast Guard + Odisha true; August nesting false.
+**Ans: D** — Statement 1 is correct. Statement 2 is false: nesting is mainly November–May, not August.
 
 </details>
 
 ---
 
-**Q33. UPPCS 2025 Q144**
+**Q33. UPPCS Prelims 2025, Q144**
 
-BR–state NOT matched
+Which of the following pairs is/are NOT correctly matched?
+
+**(Biosphere Reserve) — (State)**  
+1. Nokrek — Manipur  
+2. Manas — Assam  
+3. Agasthyamalai — Kerala  
+
+Select the correct answer from the code given below.
 
 Options: A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Only Nokrek–Manipur wrong.
+**Ans: D** — Only Nokrek–Manipur is wrong. Nokrek is in Meghalaya. Manas–Assam and Agasthyamalai–Kerala are correctly matched.
 
 </details>
 
 ---
 
-## Expanded Reference — Legal Forest Classes & Full Biosphere List
-
-### Legal / Administrative Forest Classes (awareness)
-
-| Class | Meaning | Exam use |
-|-------|---------|----------|
-| **Reserved Forest** | Highest legal protection under Indian Forest Act; rights generally restricted | Area statistics and protection intensity |
-| **Protected Forest** | Notified forest with more limited restrictions than reserved | Mid-tier legal forest |
-| **Unclassed Forest** | Forest land not reserved/protected; often community or revenue forest | Completes RFA total |
-| **Recorded Forest Area (RFA)** | Sum of reserved + protected + unclassed notified forest | Differs from satellite **forest cover** |
-| **Very Dense / Moderately Dense / Open Forest** | ISFR canopy-density classes | Density matching in advanced stems |
-
-> **Exam note:** A district can have high **recorded forest area** but lower **forest cover** if canopy is degraded — do not treat the two phrases as synonyms.
-
-### Forests of Uttar Pradesh — Expanded
-
-| Belt | Districts / cue | Vegetation |
-|------|-----------------|------------|
-| **Terai–Bhabar** | Lakhimpur Kheri, Pilibhit, Bahraich, Shravasti, Maharajganj, Balrampur | Moist deciduous; sal–teak; Dudhwa–Pilibhit–Katarniaghat complex |
-| **Vindhyan south** | Sonbhadra, Mirzapur, Chandauli, Prayagraj fringe | Dry deciduous to scrub; Chandraprabha landscape |
-| **Central/eastern plains** | Most Ganga plain districts | Cultivated; very low forest; Jaunpur–Ghazipur–Ballia near-nil lore |
-| **Bundelkhand fringe** | Southern UP | Dry deciduous / scrub under low rain |
-
-- Sonbhadra often leads UP in absolute forest area.
-- Shravasti and Chandauli cross the 20% cover threshold in ISFR 2023 among the asked trio.
-- Social forestry, farm bund trees and roadside plantations raise **tree cover** even where natural forest is thin.
-
-### India Biosphere Reserves — Extended Match List
-
-| Biosphere Reserve | State(s) |
-|-------------------|----------|
-| Nilgiri | Tamil Nadu, Kerala, Karnataka |
-| Nanda Devi | Uttarakhand |
-| Nokrek | Meghalaya |
-| Great Nicobar | Andaman & Nicobar |
-| Gulf of Mannar | Tamil Nadu |
-| Manas | Assam |
-| Sunderbans | West Bengal |
-| Simlipal | Odisha |
-| Dibru-Saikhowa | Assam |
-| Dehang-Debang | Arunachal Pradesh |
-| Pachmarhi | Madhya Pradesh |
-| Khangchendzonga | Sikkim |
-| Agasthyamalai | Kerala, Tamil Nadu |
-| Achanakmar-Amarkantak | MP, Chhattisgarh |
-| Cold Desert | Himachal Pradesh |
-| Seshachalam | Andhra Pradesh |
-| Panna | Madhya Pradesh |
-| Kachchh | Gujarat |
-
-### World Vegetation — Quick Extra Locks
-
-| Name | Region | Note |
-|------|--------|------|
-| Selva | Amazon / Brazil | Equatorial rainforest |
-| Terra Roxa | Brazil | Fertile basaltic coffee soil |
-| Campos / Pampas | South America | Grassland contrast (not forest) |
-| Maquis | Mediterranean | Scrub |
-| Fynbos | South Africa | Scrub |
-| Chaparral | California | Scrub |
-| Matorral | Chile | Scrub |
-
-### Plantation vs Natural Forest (boundary with Agriculture topic)
-
-| Feature | Natural forest | Plantation |
-|---------|----------------|------------|
-| Origin | Spontaneous / climax or secondary | Planted estate |
-| Species | Mixed | Often monoculture (teak, eucalyptus, tea, rubber) |
-| Exam home | This topic | Tea/coffee/rubber also in Agriculture |
-| Trap | Calling tea estate a tropical evergreen climax | Estate ≠ climax evergreen |
-
----
-
-## Common Traps
+## Common Traps — Natural Vegetation & Biodiversity (≥45)
 
 | # | Trap | Truth |
 |---|------|-------|
@@ -2037,6 +2617,39 @@ Options: A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
 | 16 | Coral deaths from ocean cooling | From **warming / bleaching** |
 | 17 | Thornthwaite quote → Köppen | Statement keyed to **Thornthwaite** |
 | 18 | Mangrove = montane forest | Mangrove = **tidal / littoral** |
+| 19 | UP has many National Parks | Only **Dudhwa** |
+| 20 | Pilibhit is a National Park | It is a **Tiger Reserve** |
+| 21 | Amangarh = Lakhimpur Kheri | **Bijnor** (Corbett link) |
+| 22 | Dudhwa TR = NP alone | NP + **Kishanpur + Katarniaghat** |
+| 23 | Biosphere = same as National Park | BR has **core–buffer–transition** |
+| 24 | 33% forest cover is today’s ISFR % | It is a **1988 policy goal** |
+| 25 | Conservation Reserve = zoo | It is an **in-situ WLPA category** |
+| 26 | Community Reserve = reserved forest only | On **community/private** land logic |
+| 27 | Hastinapur = alpine hangul park | Ganga **floodplain / swamp deer** |
+| 28 | Suhelwa = Bundelkhand only | **Terai** fringe districts |
+| 29 | Kaimoor = Terai grassland only | **Vindhyan / Kaimur** hills |
+| 30 | Nilgiri BR = only Tamil Nadu | **TN–KL–KA** |
+| 31 | All mangroves are on east coast only | Also **Gulf of Kachchh** (west) |
+| 32 | Gulf of Mannar = only port name | Coral + **Biosphere Reserve** |
+| 33 | Forest cover = Recorded Forest Area | **Different** concepts |
+| 34 | Semi-evergreen = thorn forest | High rain with **short dry season** |
+| 35 | Ranipur TR = Terai Nepal border | **Chitrakoot / Bundelkhand** |
+| 36 | Chambal sanctuary only in UP | **UP + MP + Rajasthan** |
+| 37 | Sacred grove = ex-situ | **In-situ** |
+| 38 | Chipko = mangrove movement | **Himalayan forest** movement |
+| 39 | FRI Dehradun detail needed in Topic 7 body | Institutions detail → **Topic 10**; awareness only here |
+| 40 | Every UP bird sanctuary is a National Park | Many are **WLS / Ramsar**, not NP |
+| 41 | Bakhira not Ramsar | It **is** a Ramsar wetland sanctuary |
+| 42 | Haiderpur not in UP | It **is** in UP (Muzaffarnagar–Bijnor) |
+| 43 | Upper Ganga stretch not Ramsar | It **is** a UP Ramsar stretch |
+| 44 | Nanda Devi BR in UP because “Devi” | State is **Uttarakhand** |
+| 45 | Project Tiger chronology starts 1992 | **1973** (after WLPA 1972) |
+| 46 | Surha Tal = Sur Sarovar (Agra) | **Surha Tal = Ballia**; Sur Sarovar = Agra |
+| 47 | Ballia has no Ramsar because near-nil forest | **Surha Tal is India’s 100th Ramsar** |
+| 48 | India’s 100th Ramsar is outside UP | It is **Surha Tal, Ballia (UP)** |
+| 49 | Surha Tal announcement year 2024 | Designated **Jan 2026**; announced **5 June 2026** |
+| 50 | Surha Tal = National Park | Bird sanctuary / Ramsar — **not** UP’s NP (Dudhwa) |
+
 
 ---
 

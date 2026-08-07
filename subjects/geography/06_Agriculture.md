@@ -9,7 +9,18 @@
 
 ---
 
-## Quick Revision Box — Raata This First
+## How to use this file
+
+1. **Learn:** Open one ## section → read Definitions → Teach prose → table → Exam note → that section's PYQs.
+2. **Revise later:** Quick Revision + Memory Tricks only (day-before / weak recall).
+3. **Test:** Practice Zone → Common Traps → Complete PYQ Bank.
+4. Do **not** re-read the whole file every sitting — finish one section, then move on.
+
+> Each section is written to make sense on first read. Quick Revision is not the first teaching layer.
+
+---
+
+## Quick Revision Box — Raata Later (after learning sections)
 
 ```
 LAND USE (NCERT idea): Forests | Barren | Pastures | Misc tree crops | Culturable waste | Fallow | Net sown
@@ -177,7 +188,7 @@ UPPCS agriculture questions usually test crop growing conditions with region and
 | Mixed | Crops + animals | Medium–high | Peasant mixed farms |
 | Dairy | Milk | Specialised | Cooperative milk belts |
 
-### Exam Facts (raata) — §6.0
+### Exam Facts (raata — traps only) — §6.0
 
 | # | Fact to remember |
 |---|------------------|
@@ -189,15 +200,6 @@ UPPCS agriculture questions usually test crop growing conditions with region and
 | 6 | Punjab and Haryana have among India’s highest cropping intensity |
 | 7 | Irrigation can create rice bowls even where natural rainfall is not very high (example: Punjab) |
 | 8 | Tea is the standard example of a plantation crop |
-
-### Examples (§6.0)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Punjab NSA vs GCA gap** | High multiple cropping |
-| **Nagaland jhum plot** | Primitive shifting |
-| **Kerala rubber estate** | Plantation type |
-| **Amul dairy village** | Cooperative dairy system |
 
 ### PYQs — §6.0
 
@@ -265,7 +267,7 @@ Knowing whether a crop is kharif, rabi or zaid removes many wrong options at onc
 | Relay cropping | Overlap sow | Advanced pattern |
 | Plantation | Perennial | Tea 2024 |
 
-### Exam Facts (raata) — §6.1
+### Exam Facts (raata — traps only) — §6.1
 
 | # | Fact to remember |
 |---|------------------|
@@ -279,15 +281,6 @@ Knowing whether a crop is kharif, rabi or zaid removes many wrong options at onc
 | 8 | Sugarcane is a long-duration crop (about 10–18 months), not a short seasonal cereal |
 | 9 | Tea is a plantation crop, not a zaid melon-type crop |
 | 10 | Highest cropping intensity is in irrigated Green Revolution plains |
-
-### Examples (§6.1)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Rice–wheat W UP** | Double cropping irrigated |
-| **Bajra–mustard RJ** | Dryland kharif–rabi pair |
-| **Boro rice Bengal** | Irrigated non-monsoon rice |
-| **Tea estate Assam** | Plantation pattern |
 
 ### PYQs — §6.1
 
@@ -372,7 +365,7 @@ Rice is India’s dominant wet cereal. Remember the growing needs (heat, high ra
 | East | More rainfed/humid rice emphasis |
 | Trap | Not a jute state |
 
-### Exam Facts (raata) — §6.2
+### Exam Facts (raata — traps only) — §6.2
 
 | # | Fact to remember |
 |---|------------------|
@@ -386,15 +379,6 @@ Rice is India’s dominant wet cereal. Remember the growing needs (heat, high ra
 | 8 | West Bengal and Uttar Pradesh are always in the main rice belt discussion |
 | 9 | Rice–wheat rotation is the main Green Revolution system in the north-west plains |
 | 10 | Wheat does not need standing water like rice |
-
-### Examples (§6.2)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Sundarbans fringe aman rice** | Delta humid rice |
-| **Punjab basmati / common rice** | Irrigated NW |
-| **Boro in north Bihar** | Non-monsoon irrigated rice |
-| **Azolla in water-logged field** | Biofertiliser practice |
 
 ### PYQs — §6.2
 
@@ -475,7 +459,7 @@ Wheat is India’s main **rabi** cereal. It needs cool weather while growing and
 | West UP | GR showcase |
 | Link | Wheat–rice–sugarcane intensive system |
 
-### Exam Facts (raata) — §6.3
+### Exam Facts (raata — traps only) — §6.3
 
 | # | Fact to remember |
 |---|------------------|
@@ -489,15 +473,6 @@ Wheat is India’s main **rabi** cereal. It needs cool weather while growing and
 | 8 | Wheat has strong government MSP procurement |
 | 9 | Frost at flowering reduces yield |
 | 10 | Wheat is not a plantation crop |
-
-### Examples (§6.3)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Punjab wheat bowl** | Irrigated HYV success |
-| **Western UP GR belt** | Regional development (2022) |
-| **MP wheat** | Central rabi rise |
-| **Canal wheat in RJ** | Irrigation overcomes aridity |
 
 ### PYQs — §6.3
 
@@ -564,7 +539,7 @@ Syllabus lists millets; **maize** is NCERT/exam-critical beside them. Lock dryla
 | GR favouritism | Low historically | High |
 | Nutrition | High micronutrients | Calories focus |
 
-### Exam Facts (raata) — §6.4
+### Exam Facts (raata — traps only) — §6.4
 
 | # | Fact to remember |
 |---|------------------|
@@ -576,15 +551,6 @@ Syllabus lists millets; **maize** is NCERT/exam-critical beside them. Lock dryla
 | 6 | Mixed cropping with pulses is common in millet areas |
 | 7 | Some irrigated eastern districts also grow rabi maize |
 | 8 | Millets are not plantation crops |
-
-### Examples (§6.4)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Rajasthan bajra** | Arid kharif |
-| **Maharashtra jowar** | Deccan dryland |
-| **Karnataka ragi** | South millet |
-| **Bihar rabi maize** | Irrigated non-kharif maize |
 
 ### PYQs — §6.4
 
@@ -652,7 +618,7 @@ Pulses are protein crops and **biological fertiliser factories**. 2019 locks Rhi
 | Soybean | Oilseed (also protein) |
 | Groundnut | Oilseed |
 
-### Exam Facts (raata) — §6.5
+### Exam Facts (raata — traps only) — §6.5
 
 | # | Fact to remember |
 |---|------------------|
@@ -664,15 +630,6 @@ Pulses are protein crops and **biological fertiliser factories**. 2019 locks Rhi
 | 6 | Moong and urad can also be grown as short-duration crops |
 | 7 | Mustard is an oilseed, not a pulse |
 | 8 | India is a major pulse producer and still imports in deficit years |
-
-### Examples (§6.5)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Malwa gram** | Rabi pulse belt |
-| **Vidarbha/Marathwada tur** | Kharif pulse |
-| **Pulse–wheat rotation** | Fertility logic |
-| **Summer moong after wheat** | Zaid intensification |
 
 ### PYQs — §6.5
 
@@ -737,7 +694,7 @@ India’s three highest-yield state locks are **groundnut in Gujarat**, **mustar
 | Grey | Fertilisers |
 | Black | Petroleum |
 
-### Exam Facts (raata) — §6.6
+### Exam Facts (raata — traps only) — §6.6
 
 | # | Fact to remember |
 |---|------------------|
@@ -751,15 +708,6 @@ India’s three highest-yield state locks are **groundnut in Gujarat**, **mustar
 | 8 | In school geography lists, soybean is treated as an oilseed, not a pulse |
 | 9 | Do not confuse Yellow Revolution (oilseeds) with Golden Revolution (horticulture and honey) |
 | 10 | Full oilseed set also includes sesame, sunflower and niger |
-
-### Examples (§6.6)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Saurashtra groundnut** | GJ kharif oilseed |
-| **Hadoti/Shekhawati mustard** | RJ rabi oilseed |
-| **Malwa soybean** | MP soya identity |
-| **Castor in north GJ** | Industrial oilseed |
 
 ### PYQs — §6.6
 
@@ -840,7 +788,7 @@ Cotton is India’s main warm-season fibre crop. It grows best on moisture-reten
 | Largest cotton textile centre | Mumbai traditionally; not Ahmedabad |
 | Fibre competitor crop | Jute (different ecology) |
 
-### Exam Facts (raata) — §6.7
+### Exam Facts (raata — traps only) — §6.7
 
 | # | Fact to remember |
 |---|------------------|
@@ -854,15 +802,6 @@ Cotton is India’s main warm-season fibre crop. It grows best on moisture-reten
 | 8 | Cotton is not a Himalayan crop |
 | 9 | After ginning, the fibre is called lint |
 | 10 | Longer staple cotton gives better spinning quality |
-
-### Examples (§6.7)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Vidarbha rainfed cotton** | Risk-prone black-soil belt |
-| **Gujarat cotton–ginning** | Crop–industry cluster |
-| **Malwa cotton** | Central extension |
-| **Irrigated north-west cotton** | Canal/tube-well cotton |
 
 ### PYQs — §6.7
 
@@ -934,7 +873,7 @@ Jute is the hot, humid delta fibre crop of the lower Ganga plain. Stems are stee
 | Water process | Retting | Ginning |
 | Core state | West Bengal | MH/GJ |
 
-### Exam Facts (raata) — §6.8
+### Exam Facts (raata — traps only) — §6.8
 
 | # | Fact to remember |
 |---|------------------|
@@ -946,15 +885,6 @@ Jute is the hot, humid delta fibre crop of the lower Ganga plain. Stems are stee
 | 6 | Mesta is a related fibre used as a jute substitute |
 | 7 | Jute climate is hotter and wetter than the cotton belt |
 | 8 | Jute is a kharif crop |
-
-### Examples (§6.8)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Murshidabad/Nadia jute** | Bengal heartland |
-| **Assam Brahmaputra jute** | Moist plains |
-| **Hugli mills** | Industry link |
-| **Wrong UP match** | Exam trap |
 
 ### PYQs — §6.8
 
@@ -1020,7 +950,7 @@ Sugarcane is a long-duration commercial crop. Uttar Pradesh often leads in total
 | Cane climate | Sub-tropical | Tropical |
 | Exam trap | Both facts true, but cooperatives do not explain UP’s lower yield |
 
-### Exam Facts (raata) — §6.9
+### Exam Facts (raata — traps only) — §6.9
 
 | # | Fact to remember |
 |---|------------------|
@@ -1034,15 +964,6 @@ Sugarcane is a long-duration commercial crop. Uttar Pradesh often leads in total
 | 8 | Sugarcane is not a hill plantation crop like tea |
 | 9 | In the Philippines, coconut and sugarcane agriculture is credited to Spanish and Americans |
 | 10 | Frost and waterlogging both damage cane |
-
-### Examples (§6.9)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Muzaffarnagar–Meerut cane** | W UP cane–wheat |
-| **Ahmednagar/Kolhapur coops** | MH cooperative sugars |
-| **Bagasse cogeneration** | By-product energy |
-| **Philippines history PYQ** | World agri |
 
 ### PYQs — §6.9
 
@@ -1109,7 +1030,7 @@ Tea is the classic plantation crop in the syllabus (asked directly in 2024). Mai
 | GI | Darjeeling Tea |
 | Trap | Gujarat–Tea; wheat as plantation |
 
-### Exam Facts (raata) — §6.10
+### Exam Facts (raata — traps only) — §6.10
 
 | # | Fact to remember |
 |---|------------------|
@@ -1121,15 +1042,6 @@ Tea is the classic plantation crop in the syllabus (asked directly in 2024). Mai
 | 6 | Gujarat is not a tea state |
 | 7 | CTC tea is for everyday bulk tea; orthodox tea is for premium leaf grades |
 | 8 | Green leaf is perishable, so processing is done near the gardens |
-
-### Examples (§6.10)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Upper Assam gardens** | Bulk tea |
-| **Darjeeling slopes** | Quality GI tea |
-| **Nilgiri tea** | South plantation |
-| **Dooars belt** | WB foothill tea |
 
 ### PYQs — §6.10
 
@@ -1186,7 +1098,7 @@ India coffee = **Karnataka > Kerala > Tamil Nadu**. World = **Brazil first**; 20
 | World #1 | Brazil |
 | 2018 order | BR–VN–CO–ID |
 
-### Exam Facts (raata) — §6.11
+### Exam Facts (raata — traps only) — §6.11
 
 | # | Fact to remember |
 |---|------------------|
@@ -1198,15 +1110,6 @@ India coffee = **Karnataka > Kerala > Tamil Nadu**. World = **Brazil first**; 20
 | 6 | Arabica grows at higher elevation; Robusta at lower elevation |
 | 7 | Baba Budan Hills are linked with coffee’s introduction lore in Karnataka |
 | 8 | Coffee is not grown as a Rajasthan or UP plains crop |
-
-### Examples (§6.11)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Kodagu estates** | KA heartland |
-| **Wayanaad coffee** | Kerala belt |
-| **Brazil Cerrado/terra roxa talk** | World + soil link |
-| **Nilgiri pockets** | TN extension |
 
 ### PYQs — §6.11
 
@@ -1258,7 +1161,7 @@ Natural rubber needs a hot, very humid climate. **Kerala** is India’s leading 
 | Soil | Lateritic humid drained |
 | Trap | Dry inland matches |
 
-### Exam Facts (raata) — §6.12
+### Exam Facts (raata — traps only) — §6.12
 
 | # | Fact to remember |
 |---|------------------|
@@ -1270,15 +1173,6 @@ Natural rubber needs a hot, very humid climate. **Kerala** is India’s leading 
 | 6 | Rubber has also expanded in some North-East pockets |
 | 7 | Rubber is not a north Indian plains rabi crop |
 | 8 | World natural rubber leadership is with South-East Asia |
-
-### Examples (§6.12)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Kottayam rubber** | Kerala humid belt |
-| **Tripura rubber** | NE expansion |
-| **Thailand plantations** | World context |
-| **Andaman pockets** | Island humid niche |
 
 ### PYQs — §6.12
 
@@ -1330,7 +1224,7 @@ Natural rubber needs a hot, very humid climate. **Kerala** is India’s leading 
 | Cumin | Dry | Rajasthan / Gujarat |
 | Coriander | Dry–moderate | RJ/MP/others |
 
-### Exam Facts (raata) — §6.13
+### Exam Facts (raata — traps only) — §6.13
 
 | # | Fact to remember |
 |---|------------------|
@@ -1342,15 +1236,6 @@ Natural rubber needs a hot, very humid climate. **Kerala** is India’s leading 
 | 6 | Many spices have Geographical Indication (GI) tags |
 | 7 | Malabar coast is historically famous for the spice trade |
 | 8 | Spices are high-value commercial crops on smaller area than cereals |
-
-### Examples (§6.13)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Idukki cardamom** | Kerala hills |
-| **Malabar pepper** | Classic spice coast |
-| **Unjha cumin market** | GJ–RJ cumin trade |
-| **Guntur chilli fame** | Deccan chilli belt |
 
 ### PYQs — §6.13
 
@@ -1411,7 +1296,7 @@ Variety matches (guava 2018), world citrus (2020), UP potato (2025), and GI prod
 | Guava (2018 varieties) | Sultana, Gulabi, Kali Champa |
 | CIP-SARC | Agra (Singna), not Aligarh |
 
-### Exam Facts (raata) — §6.14
+### Exam Facts (raata — traps only) — §6.14
 
 | # | Fact to remember |
 |---|------------------|
@@ -1425,15 +1310,6 @@ Variety matches (guava 2018), world citrus (2020), UP potato (2025), and GI prod
 | 8 | Nagpur is famous for oranges |
 | 9 | Mango questions often ask variety linked to a state |
 | 10 | Potato is a tuber, but it is counted in horticulture production statistics |
-
-### Examples (§6.14)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Malihabad Dasheri** | UP mango identity |
-| **Nagpur oranges** | Inland citrus |
-| **Kashmir apple–saffron** | Temperate high-value |
-| **Agra CIP centre** | Institution location trap |
 
 ### PYQs — §6.14
 
@@ -1516,7 +1392,7 @@ Exams test **three number locks** (15 / ~20 / ~127) and **zone ↔ state ↔ cro
 | ICAR NARP | **~127** | Research / extension targeting |
 | NBSS&LUP AER | **~20** | Agro-ecological / LGP land use |
 
-### Exam Facts (raata) — §6.15
+### Exam Facts (raata — traps only) — §6.15
 
 | # | Fact to remember |
 |---|------------------|
@@ -1530,15 +1406,6 @@ Exams test **three number locks** (15 / ~20 / ~127) and **zone ↔ state ↔ cro
 | 8 | Length of Growing Period (LGP) is important in agro-ecological thinking |
 | 9 | The 15 zones are further split into about 72–73 sub-zones |
 | 10 | One state can fall in more than one agro-climatic zone |
-
-### Examples (§6.15)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Trans-Gangetic wheat–rice** | Zone 6 intensity |
-| **Western Dry bajra** | Zone 14 aridity |
-| **West Coast rubber–spice** | Zone 12 humid commercial |
-| **Upper Ganga sugarcane** | Zone 5 UP identity |
 
 ### PYQs — §6.15
 
@@ -1621,7 +1488,7 @@ Map irrigation to physiography. CAD is about **using** water already “created�
 | Drainage | Prevent waterlogging |
 | Farmer organisations | Participation / maintenance |
 
-### Exam Facts (raata) — §6.16
+### Exam Facts (raata — traps only) — §6.16
 
 | # | Fact to remember |
 |---|------------------|
@@ -1635,15 +1502,6 @@ Map irrigation to physiography. CAD is about **using** water already “created�
 | 8 | Sprinkler suits undulating or sandy fields |
 | 9 | Fertiliser subsidy is an indirect farm subsidy |
 | 10 | Doubling farmer income policies stress agriculture together with irrigation and rural development |
-
-### Examples (§6.16)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Bhakra command** | Perennial canal plains |
-| **Punjab tube wells** | GW-led intensity |
-| **TN/KA tanks** | Peninsular storage |
-| **Drip in MH grapes/sugarcane** | Micro-irrigation |
 
 ### PYQs — §6.16
 
@@ -1737,7 +1595,7 @@ ICAR researches; CACP prices — never swap them. Seed chain order is a favourit
 | Potato “Krishnakant” | O₂ deficiency |
 | Wheat “Sahu” | Insect |
 
-### Exam Facts (raata) — §6.17
+### Exam Facts (raata — traps only) — §6.17
 
 | # | Fact to remember |
 |---|------------------|
@@ -1751,15 +1609,6 @@ ICAR researches; CACP prices — never swap them. Seed chain order is a favourit
 | 8 | PAU Ludhiana and Pantnagar are famous Green Revolution–era research universities |
 | 9 | International Potato Centre’s South Asia centre in India is at Agra |
 | 10 | ICAR does research; it does not recommend MSP (CACP does) |
-
-### Examples (§6.17)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Pusa institute** | National research |
-| **Ludhiana wheat breeding** | GR science geography |
-| **KVK demo plot** | Extension pathway |
-| **Red rot surveillance in cane belts** | Disease geography |
 
 ### PYQs — §6.17
 
@@ -1842,7 +1691,7 @@ India leads world **milk production** totals. Lock Kurien, Operation Flood, NDDB
 | Jamunapari | Goat | UP fame |
 | Rashtrapati / other poultry lines | Poultry | Silver Revolution context |
 
-### Exam Facts (raata) — §6.18
+### Exam Facts (raata — traps only) — §6.18
 
 | # | Fact to remember |
 |---|------------------|
@@ -1856,15 +1705,6 @@ India leads world **milk production** totals. Lock Kurien, Operation Flood, NDDB
 | 8 | Oilcakes are an important protein feed for cattle |
 | 9 | Buffaloes are especially important in north Indian milk production |
 | 10 | Swaminathan is linked with Green Revolution; Kurien with milk — do not swap them |
-
-### Examples (§6.18)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Anand dairy cooperative** | White Revolution model |
-| **Murrah breeding tracts** | Buffalo genetics |
-| **RJ sheep–goat economy** | Dryland livestock |
-| **Poultry belt commercial farms** | Silver Revolution |
 
 ### PYQs — §6.18
 
@@ -1931,7 +1771,7 @@ Three syllabus bullets often tested as definition traps. Keep them separate.
 | Organic | No synthetic chemicals | Certified farms; Azolla rice |
 | Precision | Variable-rate tech | GPS/GIS/sensors |
 
-### Exam Facts (raata) — §6.19
+### Exam Facts (raata — traps only) — §6.19
 
 | # | Fact to remember |
 |---|------------------|
@@ -1943,15 +1783,6 @@ Three syllabus bullets often tested as definition traps. Keep them separate.
 | 6 | Delhi’s bio-decomposer spray is free to farmers and made from a mix of fungi |
 | 7 | When jhum fallow period becomes too short, erosion and forest damage increase |
 | 8 | Precision farming does not mean stopping irrigation; it means using water more accurately |
-
-### Examples (§6.19)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Nagaland jhum fields** | Shifting cultivation |
-| **Sikkim organic mission lore** | State organic push awareness |
-| **Sensor-based drip pilots** | Precision idea |
-| **Paddy stubble fungal spray** | Residue practice |
 
 ### PYQs — §6.19
 
@@ -2015,7 +1846,7 @@ For MSP questions, first learn the institutional chain: the **CACP recommends** 
 | Cane price framework | FRP (+ SAP possible) |
 | Open market | Mandis / traders / e-NAM |
 
-### Exam Facts (raata) — §6.20
+### Exam Facts (raata — traps only) — §6.20
 
 | # | Fact to remember |
 |---|------------------|
@@ -2029,15 +1860,6 @@ For MSP questions, first learn the institutional chain: the **CACP recommends** 
 | 8 | PM-KISAN is a direct income-support scheme for farmer families |
 | 9 | PMFBY is the main crop insurance scheme to remember by name |
 | 10 | Fertiliser subsidy is an indirect subsidy |
-
-### Examples (§6.20)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Punjab paddy procurement** | Effective MSP |
-| **e-NAM mandi onboarding** | Market reform |
-| **Oilseed MSP without deep buy** | Announcement ≠ purchase |
-| **FRP declaration for cane season** | Cane price policy |
 
 ### PYQs — §6.20
 
@@ -2107,7 +1929,7 @@ The Green Revolution is the mid-1960s package of HYV seeds, irrigation, fertilis
 | Pesticide | Protects HYV stands |
 | Credit/machines | Timely operations |
 
-### Exam Facts (raata) — §6.21
+### Exam Facts (raata — traps only) — §6.21
 
 | # | Fact to remember |
 |---|------------------|
@@ -2121,15 +1943,6 @@ The Green Revolution is the mid-1960s package of HYV seeds, irrigation, fertilis
 | 8 | Critiques include regional inequality and groundwater decline |
 | 9 | Verghese Kurien is White Revolution (milk), not Green Revolution |
 | 10 | Green Revolution in India began in the mid-1960s, first with wheat |
-
-### Examples (§6.21)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Punjab HYV wheat** | Package success |
-| **W UP cane–wheat** | Regional GR |
-| **Rainfed Deccan lag** | Spatial inequality |
-| **Evergreen phrasing in policy** | Sustainability sequel |
 
 ### PYQs — §6.21
 
@@ -2202,7 +2015,7 @@ Prelims love matching each “colour” revolution with its product. UPPCS 2022 
 | Rainbow | Multi-sector | Holistic |
 | Evergreen | Sustainable productivity | Swaminathan idea |
 
-### Exam Facts (raata) — §6.22
+### Exam Facts (raata — traps only) — §6.22
 
 | # | Fact to remember |
 |---|------------------|
@@ -2216,15 +2029,6 @@ Prelims love matching each “colour” revolution with its product. UPPCS 2022 
 | 8 | Rainbow Revolution = combined / integrated agri development |
 | 9 | Pink Revolution is not the same as Yellow Revolution (oilseeds) |
 | 10 | Memorise the four-pair match: Golden–horticulture/honey, Grey–fertilisers, Yellow–oilseeds, Black–petroleum |
-
-### Examples (§6.22)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Operation Flood** | White mechanism |
-| **Shrimp farms coast** | Blue / pink-prawn overlap |
-| **Oilseed mission era** | Yellow |
-| **Poultry belt expansion** | Silver |
 
 ### PYQs — §6.22
 

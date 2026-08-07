@@ -127,6 +127,8 @@ Every subtopic section must include **all** rows that apply:
 | `### PYQs — [Subtopic]` | **Always** | **≥2 UPPCS or RO-ARO** (any year 2018–2025) if in `pyq/`; else **1 UPPCS/RO-ARO + 1 UPSC**; full text + why |
 | `### Examples (N.X)` | **Always** | ≥3 rows; ≥1 UP/India-specific |
 
+> **Geography exception (`subjects/geography/` — ALL topics 01–N, including future):** Follow `.cursor/rules/geography-anti-redundancy.mdc`. Student reads **one section at a time, once** — not Pass A→D skip reading. Each `##` section must be self-explanatory on first read (Definitions + full-sentence Teach + table + exam note + section PYQs). Quick Revision = later raata only. Practice stems = full questions + short why (no telegrams). Do **not** add Examples that only restate Teach/table. Exam Facts = traps only (omit if already clear). Prefer one teaching home per fact — no Overview + How It Works + Exam Facts + Examples + Consolidated echo stacks. No telegram PYQ shorthand in Teach (e.g. do not write “Amrit Bharat (Feb 2023 framing): 149” without explaining the scheme).
+
 **NCERT depth:** For each NCERT subheading mapped IN to this topic, there must be corresponding prose — not just a one-line table row.
 
 **Classification subtopics** must include: all bases, sub-types, India-specific list (if any), legal/administrative class (if any), comparison traps.

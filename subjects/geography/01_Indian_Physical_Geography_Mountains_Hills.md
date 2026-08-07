@@ -8,7 +8,18 @@
 
 ---
 
-## Quick Revision Box — Raata This First
+## How to use this file
+
+1. **Learn:** Open one ## section → read Definitions → Teach prose → table → Exam note → that section's PYQs.
+2. **Revise later:** Quick Revision + Memory Tricks only (day-before / weak recall).
+3. **Test:** Practice Zone → Common Traps → Complete PYQ Bank.
+4. Do **not** re-read the whole file every sitting — finish one section, then move on.
+
+> Each section is written to make sense on first read. Quick Revision is not the first teaching layer.
+
+---
+
+## Quick Revision Box — Raata Later (after learning sections)
 
 ```
 6 PHYSIOGRAPHIC DIVISIONS:
@@ -279,7 +290,7 @@ The Peninsular Plateau is India's oldest and most stable landmass. Full range-by
 > **Exam note:** **Andaman & Nicobar Islands are volcanic** in origin; **Lakshadweep Islands are coral atolls**. Never reverse these origins in match questions.
 
 
-### Exam Facts (raata)
+### Exam Facts (raata — traps only)
 
 - India has **six physiographic divisions**: Northern Mountains, Northern Plains, Peninsular Plateau, Indian Desert, Coastal Plains, and Islands.
 - The **Thar Desert** rests on **Pleistocene and recent deposits**, not Paleocene or Oligocene layers.
@@ -310,16 +321,6 @@ The Peninsular Plateau is India's oldest and most stable landmass. Full range-by
 
 4. **(UPSC — pattern)** Which Indian state has the longest coastline?
    - Same lock as UPPCS 2018 Q98: **Gujarat**, not Maharashtra or Kerala.
-
-### Examples (1.1)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Gujarat coastline** | Kachchh, Saurashtra, and mainland coast make Gujarat #1 in coastline length |
-| **Thar at Jaisalmer** | Active dunes on Pleistocene-recent sand; arid due to leeward position of Aravalli |
-| **Terai in UP** | Dudhwa, Katarniaghat forests sit on Terai belt south of Bhabar in Uttar Pradesh |
-
----
 
 ## 1.2 Himalayan Mountain System
 
@@ -615,7 +616,7 @@ The Peninsular Plateau is India's oldest and most stable landmass. Full range-by
 
 > **Exam note:** **Duars/Dooars** are the **Himalayan foothills of West Bengal and Assam**, not a peninsular or coastal landform.
 
-### Exam Facts (raata)
+### Exam Facts (raata — traps only)
 
 - **Himadri** is the Greater Himalayas; **Himachal** is the Lesser Himalayas; **Shiwalik** is the Outer Himalayas.
 - **Greater Himalayas** are fossil-less; **Lesser Himalayas** preserve marine fossils; the **Shiwalik** holds remains of human civilization.
@@ -680,16 +681,6 @@ The Peninsular Plateau is India's oldest and most stable landmass. Full range-by
 
 8. **(UPSC — pattern)** Which range is known as Sahyadri?
    - The **Western Ghats** (continuous west-coast escarpment) — not a Himalayan range.
-
-### Examples (1.2)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Atal Tunnel, Rohtang** | 9.02 km highway tunnel through Pir Panjal; connects Manali-Lahaul |
-| **Kanchenjunga from Darjeeling** | Highest peak wholly in India; on Sikkim-Nepal border |
-| **Shillong (Khasi Hills)** | Meghalaya Plateau hill station; part of Garo-Khasi-Jaintia system |
-
----
 
 ## 1.3 Peninsular Mountains, Hills & Plateaus
 
@@ -951,7 +942,7 @@ The Peninsular Plateau is India's oldest and most stable landmass. Full range-by
 | **Patkai Bum** | Arunachal-Myanmar | — | Purvanchal extension |
 | **Kaimur Hills** | UP, Bihar | Amsot (~941 m) | UP highest point |
 
-### Exam Facts (raata)
+### Exam Facts (raata — traps only)
 
 - The **Aravalli** is India’s oldest fold mountain system; the **Himalaya/Himadri** is the youngest major mountain system among the usual exam options.
 - The **Vindhya Range** lies north of the Narmada; the **Satpura Range** lies south of the Narmada.
@@ -995,16 +986,6 @@ The Peninsular Plateau is India's oldest and most stable landmass. Full range-by
 **UPSC Prelims**
 
 6. **(UPSC — pattern)** Amarkantak plateau is the source region of the Narmada and Son and lies at the junction of the Vindhya and Satpura systems — a standard peninsular source-and-junction lock.
-
-### Examples (1.3)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Guru Shikhar, Mount Abu** | Rajasthan's highest peak on Aravalli Range |
-| **Anaimudi, Idukki** | Kerala's highest point in Eravikulam National Park, Western Ghats |
-| **Maikal Hills, Kanha** | Eastern extension of Satpura; tiger reserve on Chhattisgarh-MP border |
-
----
 
 ## 1.4 Passes, Peaks & Sacred Geography
 
@@ -1148,7 +1129,7 @@ The Peninsular Plateau is India's oldest and most stable landmass. Full range-by
 | **Ajmer Sharif** | Rajasthan | Aravalli foothills (Taragarh hill nearby) |
 | **Chamundi Hills** | Karnataka | Mysuru; Eastern Ghats fringe |
 
-### Exam Facts (raata) — Passes, Peaks & Sacred Geography
+### Exam Facts (raata — traps only) — Passes, Peaks & Sacred Geography
 
 - **Lipulekh Pass** is in **Uttarakhand**; **Nathu La** is in **Sikkim**; **Shipki La** is in **Himachal Pradesh**.
 - **Niti Pass** and **Mana Pass** are both in **Uttarakhand** (Mana is not in Himachal Pradesh).
@@ -1207,16 +1188,6 @@ The Peninsular Plateau is India's oldest and most stable landmass. Full range-by
 **UPSC Prelims**
 
 8. **(UPSC — pattern)** Nathu La lies in **Sikkim** and connects India with the Tibetan region of China — a standard pass–state lock.
-
-### Examples (1.4)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Lipulekh Yatra route** | Uttarakhand pass to Kailash-Mansarovar; not in Ladakh |
-| **Tirumala Hills, Tirupati** | Sacred site on Eastern Ghats; Shevaroy is separate range near Salem |
-| **Dhupgarh, Pachmarhi** | MP's highest peak; hill station on Satpura Range |
-
----
 
 ## 1.5 Locational Framework
 
@@ -1341,7 +1312,7 @@ The Peninsular Plateau is India's oldest and most stable landmass. Full range-by
 | 9 | Goa | ~104 |
 | — | Andaman & Nicobar (UT) | ~1962 (island UT, not in state ranking) |
 
-### Exam Facts (raata)
+### Exam Facts (raata — traps only)
 
 - India’s **Standard Meridian** is **82°30′ E**; **IST** is **GMT + 5 hours 30 minutes** for the whole country.
 - The **Tropic of Cancer** passes through **8 states plus Ladakh**; it does **not** pass through Uttar Pradesh or Bihar.
@@ -1373,16 +1344,6 @@ The Peninsular Plateau is India's oldest and most stable landmass. Full range-by
 
 3. **(UPSC — pattern)** The Standard Meridian of India (**82°30′ E**) passes through **Uttar Pradesh** near **Mirzapur**.
 4. **(UPSC — pattern)** The Tropic of Cancer passes through **eight Indian states** (plus **Ladakh** after 2019 reorganisation).
-
-### Examples (1.5)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Mirzapur, UP** | Standard Meridian 82°30′ E passes near here |
-| **Indira Point subsidence** | Great Nicobar southern tip; part submerged after 2004 tsunami |
-| **Kachchh coast, Gujarat** | Longest state coastline includes indented gulf |
-
----
 
 ## Consolidated Reference — Everything in One Place
 

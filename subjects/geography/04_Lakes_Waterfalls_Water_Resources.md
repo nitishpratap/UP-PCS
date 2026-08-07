@@ -8,7 +8,18 @@
 
 ---
 
-## Quick Revision Box — Raata This First
+## How to use this file
+
+1. **Learn:** Open one ## section → read Definitions → Teach prose → table → Exam note → that section's PYQs.
+2. **Revise later:** Quick Revision + Memory Tricks only (day-before / weak recall).
+3. **Test:** Practice Zone → Common Traps → Complete PYQ Bank.
+4. Do **not** re-read the whole file every sitting — finish one section, then move on.
+
+> Each section is written to make sense on first read. Quick Revision is not the first teaching layer.
+
+---
+
+## Quick Revision Box — Raata Later (after learning sections)
 
 ```
 WATER RESOURCES (India — NCERT frame):
@@ -133,7 +144,7 @@ India receives most rainfall in a short monsoon window, so **storage and transfe
 | Industry | Thermal plants, manufacturing |
 | Navigation / ecology | NW-1, wetlands, fisheries |
 
-### Exam Facts (raata) — §4.0
+### Exam Facts (raata — traps only) — §4.0
 
 | # | Fact |
 |---|------|
@@ -141,17 +152,6 @@ India receives most rainfall in a short monsoon window, so **storage and transfe
 | 2 | Irrigation is the largest consumer of developed water in India |
 | 3 | The Himalayan region has very high hydroelectric potential |
 | 4 | Groundwater is over-exploited in northwest India and parts of western Uttar Pradesh |
-
-### Examples (§4.0)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Bhakra canals in Punjab** | Storage → Green Revolution water |
-| **Western UP tube wells** | Groundwater dependence + depletion risk |
-| **Hirakud flood cushion** | Dam as flood-control tool |
-
----
-
 
 ### 4.0.2 Water Availability, Utilisation & Scarcity (NCERT Frame)
 
@@ -482,13 +482,14 @@ UPPCS tests lakes in three clusters: **(1) type superlatives** — Chilika vs Sa
 - **Samaspur Bird Sanctuary (Raebareli):** Ramsar — **IS in UP**.
 - **Sur Sarovar (Keetham, Agra):** Ramsar near Yamuna.
 - **Haiderpur Wetland (Muzaffarnagar–Bijnor):** Ramsar on Ganga.
+- **Surha Tal / Jai Prakash Narayan Bird Sanctuary (Ballia):** oxbow on Ganga floodplain — **India’s 100th Ramsar (2026)**; UP’s 13th. Do not confuse with Sur Sarovar.
 - **Nawabganj, Sandi, Lakh Bahosi, Patna Bird Sanctuary:** State bird wetlands.
 - Ox-bow lakes along Ganga, Ghaghra, Rapti — fisheries and flood buffers.
 - **NOT in UP:** Rudrasagar (**Tripura**), Sultanpur (**Haryana**) — 2025 Q58.
 - January 2020 saw additional UP Ramsar designations (current-affairs style count question in 2020 Prelims) — know the **named sites**, not only the count.
 - Floodplain **jheels** shrink in dry season and expand in monsoon — seasonal bird congregations drive Ramsar value.
 
-> **Exam note:** When asked which Ramsar sites are not in Uttar Pradesh, eliminate Sarsai Nawar and Samaspur first — both are in UP; Rudrasagar (Tripura) and Sultanpur (Haryana) are the outsiders.
+> **Exam note:** When asked which Ramsar sites are not in Uttar Pradesh, eliminate Sarsai Nawar and Samaspur first — both are in UP; Rudrasagar (Tripura) and Sultanpur (Haryana) are the outsiders. Bake **Surha Tal–Ballia = India’s 100th Ramsar**.
 
 #### UP Ramsar — Quick Table
 
@@ -498,6 +499,7 @@ UPPCS tests lakes in three clusters: **(1) type superlatives** — Chilika vs Sa
 | Samaspur | Raebareli | Yes |
 | Sur Sarovar | Agra | Yes |
 | Haiderpur | Muzaffarnagar–Bijnor | Yes |
+| **Surha Tal (JP Narayan Bird Sanctuary)** | **Ballia** | **Yes — India’s 100th (2026)** |
 | Rudrasagar | Tripura | **No** |
 | Sultanpur | Haryana | **No** |
 
@@ -582,17 +584,7 @@ UPPCS tests lakes in three clusters: **(1) type superlatives** — Chilika vs Sa
    - Options: A. 1 and 3 / B. 3 and 4 / C. 2 and 3 / D. 1 and 2
    → **B. 3 and 4** — Rudrasagar is in Tripura and Sultanpur is in Haryana. Sarsai Nawar and Samaspur are both in Uttar Pradesh.
 
-### Examples (§4.1)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Chilika dolphin tourism** | Lagoon ecology + Ramsar |
-| **Sambhar salt pans** | Inland saline economy |
-| **Sangai on Loktak phumdis** | Lake–wildlife exam link |
-| **Nainital lake district** | Himalayan freshwater tourism |
-| **Gobind Sagar** | Artificial lake = Bhakra reservoir |
-
-### Exam Facts (raata) — §4.1 Lakes
+### Exam Facts (raata — traps only) — §4.1 Lakes
 
 | # | Fact |
 |---|------|
@@ -786,15 +778,7 @@ UPPCS loves **height superlatives** (Kunchikal ≠ Jog — 2018 Q24) and **water
    - Options: A. A-3, B-2, C-4, D-1 / B. A-4, B-3, C-2, D-1 / C. A-1, B-2, C-3, D-4 / D. A-4, B-1, C-2, D-3
    → **D. A-4, B-1, C-2, D-3** — Dudhsagar–Goa, Barkana–Karnataka, Khandadhar–Odisha, Palani–Himachal Pradesh (code 4 1 2 3).
 
-### Examples (§4.2)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Jog tourism vs Kunchikal height** | Famous ≠ tallest |
-| **Dhuandhar at Marble Rocks** | Fall–river–landform trio |
-| **Dudhsagar monsoon trains** | Goa/Mandovi identity |
-
-### Exam Facts (raata) — §4.2
+### Exam Facts (raata — traps only) — §4.2
 
 | # | Fact |
 |---|------|
@@ -1297,16 +1281,7 @@ Syllabus names **Ramganga, Tulbul, Tehri, Bhakra Nangal, Hirakud, Sardar Sarovar
    - Options: A. 1 and 2 / B. Only 3 / C. 2 and 3 / D. Only 1
    → **C. 2 and 3** — Baglihar–Chenab is correct. Pandoh is on the Beas, not the Ravi; Srisailam is on the Krishna, not the Tungabhadra.
 
-### Examples (§4.3)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Bhakra → Gobind Sagar → Punjab canals** | Dam–reservoir–canal chain |
-| **Ramganga 198 MW vs 6 lakh ha** | Spec precision trap |
-| **Mangdechhu 2019** | Bhutan hydro current-affairs style |
-| **IGC in Thar fringe** | Longest canal + desert irrigation |
-
-### Exam Facts (raata) — §4.3
+### Exam Facts (raata — traps only) — §4.3
 
 | # | Fact |
 |---|------|
@@ -1437,7 +1412,7 @@ E-UP/Bihar hydro limit            → Himalaya in Nepal
 
 | Feature | UP relevance |
 |---------|--------------|
-| **Ramsar wetlands** | Sarsai Nawar, Samaspur, Sur Sarovar, Haiderpur — NOT Rudrasagar (Tripura) / Sultanpur (Haryana) |
+| **Ramsar wetlands** | Sarsai Nawar, Samaspur, Sur Sarovar, Haiderpur, **Surha Tal (Ballia = India’s 100th)** — NOT Rudrasagar (Tripura) / Sultanpur (Haryana) |
 | **Ox-bow lakes** | Common along Ganga–Ghaghra–Rapti floodplains |
 | **Ramganga Project** | Dam length 825.8 m; 198 MW; Garhwal (UK); irrigates ~5.75–5.90 lakh ha in UP command (≠ 6 lakh) |
 | **Rihand Dam / G.B. Pant Sagar** | Rihand (Son trib); Singrauli–Sonbhadra power belt |

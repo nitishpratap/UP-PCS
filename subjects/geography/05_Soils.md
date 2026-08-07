@@ -1,14 +1,25 @@
 # Topic 5 — Soils
 ### ★ Complete Source of Truth — No other book/notes needed for this topic
 
-> **Covers syllabus:** Soil Formation | Soil Profile | Soil Classification | Alluvial Soil | Black Soil (Regur) | Red Soil | Laterite Soil | Desert Soil | Mountain Soil | Saline Soil | Alkaline Soil | Problem Soils (Acidic, Saline, Alkaline) | Soil Texture | Soil Fertility | Soil Erosion | Soil Conservation | Soil Conservation Methods
+> **Covers syllabus:** Soil Formation | Soil Profile | Soil Classification | Peaty/Marshy Soil | Alluvial Soil | Black Soil (Regur) | Red Soil | Laterite Soil | Desert Soil | Mountain Soil | Saline Soil | Alkaline Soil | Problem Soils (Acidic, Saline, Alkaline) | Soil Texture | Soil Fertility | Soil Erosion | Soil Conservation | Soil Conservation Methods | **Soils of UP** (Bhabar–Tarai–Alluvial–Bundelkhand–Vindhyan; Mar/Kabar/Parua/Rakar; Usar)
 > **Sources baked in:** NCERT Geography Class 11 (India — Physical Environment: Soils), Class 12 (Resources), UPPCS/UPSC PYQs 2018–2025
 > **Exam weight:** ★★★ High — soil-type vs crop/region traps, laterite Fe/Al, black soil distribution, khadar/bangar, usar/reh, erosion–conservation methods
 > **Last verified:** August 2026
 
 ---
 
-## Quick Revision Box — Raata This First
+## How to use this file
+
+1. **Learn:** Open one ## section → read Definitions → Teach prose → table → Exam note → that section's PYQs.
+2. **Revise later:** Quick Revision + Memory Tricks only (day-before / weak recall).
+3. **Test:** Practice Zone → Common Traps → Complete PYQ Bank.
+4. Do **not** re-read the whole file every sitting — finish one section, then move on.
+
+> Each section is written to make sense on first read. Quick Revision is not the first teaching layer.
+
+---
+
+## Quick Revision Box — Raata Later (after learning sections)
 
 ```
 FORMATION FACTORS (CLORPT):
@@ -59,6 +70,18 @@ CONSERVATION METHODS:
   Mitti Bachao = Hoshangabad (Narmadapuram), MP (2020 Q81 = D)
   World Soil Day = 5 December (2022 Q25)
 
+
+SOILS OF UP (raata):
+  ~90% alluvial plains | Khadar / Bangar / Bhur
+  Bhabar = pebble strip foothills (Saharanpur–Bijnor) — poor for crops
+  Tarai = moist nitrogen-rich south of Bhabar — rice, wheat, sugarcane
+  Bundelkhand black = Mar (clayey, waterlogs) + Kabar (sticky, hard blocks)
+  Bundelkhand red = Parua (yellowish, aerated) + Rakar/pathari (coarse, sloping)
+  Vindhyan = Bhonta/Monta (Mirzapur–Sonbhadra–Prayagraj fringe) — red/yellow
+  Usar/Reh/Kallar/Thur = saline–alkaline; western–central canal tracts
+  Ravines = Agra–Etawah–Jalaun (Chambal–Yamuna)
+  Aravali fringe soil = Agra (Chambal-brought reddish)
+
 WORLD LINK: Brazil Selva + Terra Roxa fertile basaltic coffee soil (2025 Q63 Both)
 ```
 
@@ -90,6 +113,10 @@ WORLD LINK: Brazil Selva + Terra Roxa fertile basaltic coffee soil (2025 Q63 Bot
 | **Usara** | NCERT name for saline infertile soils | ऊसरा / ऊसर |
 | **Soil degradation** | Decline in soil quality from erosion, salts, or exhaustion | मृदा अवनयन |
 | **Soil structure** | Arrangement of particles into crumbs/clods | मृदा संरचना |
+| **Mar / Kabar** | Bundelkhand black soils (Mar clayey; Kabar sticky/hard) | मार / कबार |
+| **Parua / Rakar** | Bundelkhand red soils (Parua yellowish; Rakar coarse/pathari) | परुआ / राकर |
+| **Bhonta / Monta** | Vindhyan red–yellow soils (Mirzapur–Sonbhadra belt) | भोंटा / मोंटा |
+| **Bhabar / Tarai soil** | Foothill pebble strip vs moist fertile belt south of it | भाबर / तराई |
 
 ### Memory Tricks
 
@@ -107,6 +134,11 @@ WORLD LINK: Brazil Selva + Terra Roxa fertile basaltic coffee soil (2025 Q63 Bot
 | **Gypsum for alkali** | Na soils; lime for acid soils |
 | **Sheet→Rill→Gully→Ravine** | Erosion severity ladder |
 | **Terra Roxa = Brazil coffee** | Basaltic fertile red-purple earth |
+| **Mar = moisture clay** | Bundelkhand black clay that waterlogs |
+| **Kabar = hard kabar** | Bundelkhand sticky black that hardens |
+| **Parua / Rakar = red pair** | Bundelkhand red types |
+| **Bhonta = Vindhyan** | Mirzapur–Sonbhadra red–yellow |
+| **Bhabar stones / Tarai crops** | Pebbles north; moist fertile south |
 
 ---
 
@@ -137,7 +169,7 @@ Soil is a living, layered natural body formed slowly and destroyed quickly by mi
 
 > **Exam note:** **Edaphic = soil.** Climatic, biotic, and topography are other environmental factors, not synonyms for soil.
 
-### Exam Facts (raata) — §5.0
+### Exam Facts (raata — traps only) — §5.0
 
 | # | Fact to remember |
 |---|------------------|
@@ -145,14 +177,6 @@ Soil is a living, layered natural body formed slowly and destroyed quickly by mi
 | 2 | Soil forms slowly and can be destroyed quickly by misuse |
 | 3 | Indian soils reflect parent rock, climate and relief |
 | 4 | Both soil classification and soil conservation are high-scoring areas |
-
-### Examples (§5.0)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Edaphic control on vegetation** | Soil as environmental factor |
-| **UP alluvial plains** | Soil as agricultural resource |
-| **Chambal ravines** | Resource destroyed by erosion |
 
 ### PYQs — §5.0
 
@@ -205,7 +229,7 @@ Soil formation is controlled by five classical factors remembered as **CLORPT**.
 | Parent material | Mineral base | Deccan Trap → regur |
 | Time | Maturity of profile | Mature black soils vs young khadar |
 
-### Exam Facts (raata) — §5.1
+### Exam Facts (raata — traps only) — §5.1
 
 | # | Fact to remember |
 |---|------------------|
@@ -214,14 +238,6 @@ Soil formation is controlled by five classical factors remembered as **CLORPT**.
 | 3 | High temperature plus heavy rain causes strong leaching |
 | 4 | Steep slopes keep soils thin |
 | 5 | Alluvial soil is a transported soil |
-
-### Examples (§5.1)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Basalt → black soil** | Parent material control |
-| **Western Ghats laterite** | Climate leaching control |
-| **Himalayan thin soils** | Relief control |
 
 ### PYQs — §5.1
 
@@ -276,7 +292,7 @@ A soil profile is the exam diagram of pedogenesis. Know the order top to bottom 
 | C | Weathered parent | Transition |
 | R | Bedrock | Base |
 
-### Exam Facts (raata) — §5.2
+### Exam Facts (raata — traps only) — §5.2
 
 | # | Fact |
 |---|------|
@@ -284,16 +300,6 @@ A soil profile is the exam diagram of pedogenesis. Know the order top to bottom 
 | 2 | A = topsoil; B = subsoil accumulation |
 | 3 | Eluviation vs illuviation is a favourite definition trap |
 | 4 | Immature soils have weak horizons |
-
-### Examples (§5.2)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Forest O horizon** | Organic layer importance |
-| **Mature black soil profile** | Deep clayey development |
-| **Fresh khadar** | Weak horizonation |
-
----
 
 ## 5.3 Soil Classification
 
@@ -345,7 +351,7 @@ UPPCS uses the familiar school classification (alluvial, black, red, laterite, a
 - UPPCS 2025 Q63 pairs Selva and Terra Roxa; majority keys treat **both** statements as correct.
 - Use Terra Roxa as a world parallel to fertile basaltic soils, while remembering Indian black soils are the domestic Deccan analogue for cotton.
 
-### Exam Facts (raata) — §5.3
+### Exam Facts (raata — traps only) — §5.3
 
 | # | Fact |
 |---|------|
@@ -354,14 +360,6 @@ UPPCS uses the familiar school classification (alluvial, black, red, laterite, a
 | 3 | Laterite = hot wet leaching; Fe/Al rich |
 | 4 | Peaty soils = waterlogged organic accumulations |
 | 5 | Terra Roxa + Selva = Brazil (2025) |
-
-### Examples (§5.3)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Indo-Gangetic alluvium** | Transported fertile soil |
-| **Maharashtra regur** | Residual trap soil |
-| **Kerala peaty pockets** | Marshy organic soils |
 
 ### PYQs — §5.3
 
@@ -372,6 +370,84 @@ UPPCS uses the familiar school classification (alluvial, black, red, laterite, a
    2. The fertile dark-coloured soil found there is known as "Terra Roxa".
    - Options: A. Only 2 / B. Neither 1 nor 2 / C. Both 1 and 2 / D. Only 1
    → **C. Both 1 and 2** — Selva = Brazilian equatorial rainforest. Terra Roxa = fertile basaltic soil linked with coffee regions (useful world parallel to fertile volcanic soils).
+
+---
+
+
+## 5.3.1 Peaty / Marshy Soil
+
+### Definitions
+
+| Term | Definition |
+|------|------------|
+| **Peaty / marshy soil** | Soil with heavy accumulation of organic matter under waterlogged, humid conditions |
+| **Peat** | Partially decomposed plant matter accumulated in anaerobic wetlands |
+
+### Peaty / Marshy Soil — Overview
+
+Listed in the ICAR school set but often skipped in revision. Peaty soils are **not** Deccan black regur — they are organic-rich wetland soils of humid pockets.
+
+#### Peaty / Marshy Soil — How It Works
+
+- Form where waterlogging slows decay, so plant residues pile up as dark organic matter.
+- Common settings: humid Kerala coastal tracts, Sundarbans fringes, deltaic backwaters, and inland marshy depressions.
+- Texture is heavy and poorly drained; soils are often **acidic** and need drainage before normal cropping.
+- Organic content is high, but usable fertility for field crops is limited until drainage and management improve aeration.
+- Colour can be blackish — do not confuse with **regur**; peaty black is organic/waterlogged, regur is basaltic clay of the Deccan.
+- Crops need specialised management; with drainage, paddy and specialised horticulture may occupy reclaimed tracts.
+- Lock: **humid + waterlogged + organic heavy + often acidic + Kerala/marsh coasts ≠ cotton regur**.
+
+> **Exam note:** Black colour on a Kerala marsh stem → peaty/marshy, not Deccan cotton soil.
+
+#### Peaty Snapshot
+
+| Item | Fact |
+|------|------|
+| Setting | Humid waterlogged coasts/depressions |
+| Chemistry | High OM; often acidic |
+| Exam trap | Confuse with black regur |
+| Need | Drainage before normal crops |
+
+### Exam Facts (raata — traps only) — §5.3.1
+
+| # | Fact |
+|---|------|
+| 1 | Peaty = waterlogged organic accumulation |
+| 2 | Often acidic; needs drainage |
+| 3 | Kerala / marshy coasts / depressions |
+| 4 | Not Deccan Trap black cotton soil |
+
+---
+
+### 5.3.2 Soil Exam Decision Tree
+
+```
+STEM KEYWORD                    → LOCK
+────────────────────────────────────────────
+~40% / Indo-Gangetic / khadar   → Alluvial
+Bhur sandy ridges               → Alluvial variant
+Cotton + Deccan / moisture      → Black regur
+Crystalline + Fe red/yellow     → Red & Yellow
+Hot wet + Fe/Al / brick         → Laterite
+W Rajasthan sandy + kankar below→ Arid/desert
+Himalaya slopes/valleys         → Forest/mountain
+Usara / reh / salts              → Saline
+High pH + Na / gypsum           → Alkaline
+Low pH + lime                   → Acidic
+Kerala organic heavy black      → Peaty
+Mar / Kabar                     → Bundelkhand black (UP)
+Parua / Rakar / pathari         → Bundelkhand red (UP)
+Bhonta / Monta                  → Vindhyan UP
+Bhabar pebbles                  → Foothill strip (poor crops)
+Tarai moist nitrogen            → South of Bhabar (rice–wheat–cane)
+NOT in Himalaya (black)         → 2018 trap
+Poor in Fe/Al (laterite claim)  → FALSE
+Edaphic                         → Soil factor
+Mitti Bachao                    → Hoshangabad MP
+World Soil Day                  → 5 December
+Shelter belts in Thar           → Wind/dune control
+Earthworms = friends of farmers → Fertility true; "two pairs of hearts" false (2025)
+```
 
 ---
 
@@ -445,7 +521,7 @@ Alluvial soils are India's **most extensive** soils — about **40%** of the cou
 | Risk | Canal waterlogging → reh/usar in western–central tracts |
 | Crops | Wheat–rice–sugarcane system |
 
-### Exam Facts (raata) — §5.4
+### Exam Facts (raata — traps only) — §5.4
 
 | # | Fact |
 |---|------|
@@ -457,17 +533,6 @@ Alluvial soils are India's **most extensive** soils — about **40%** of the cou
 | 6 | Deltaic alluvium on east coast |
 | 7 | Supports wheat–rice–sugarcane–jute systems |
 | 8 | Kankar typical of bhangar |
-
-### Examples (§5.4)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Western UP wheat–sugarcane belt** | Alluvial fertility + irrigation |
-| **Khadar near Yamuna floods** | New silt renewal |
-| **Bhangar upland villages** | Older alluvium with kankar |
-| **Godavari–Krishna delta rice** | Deltaic alluvium |
-
----
 
 ## 5.5 Black Soil (Regur)
 
@@ -497,7 +562,7 @@ Black soil is the Deccan cotton soil. UPPCS 2018 nails the Himalaya trap. Lock c
 - Core distribution: Maharashtra, Madhya Pradesh, Gujarat, Andhra Pradesh/Telangana, northern Karnataka, parts of Tamil Nadu; very deep in upper Godavari–Krishna and NW Deccan.
 - They are **not** characteristic of the Himalayan region (2018 Q31 false statement).
 - Ideal crop is **cotton**; also jowar, wheat, linseed, castor, tobacco, and citrus in suitable tracts.
-- Expanding clay behaviour is linked to montmorillonitic minerals — useful for deeper science awareness.
+- In UP, true Deccan-style black soils appear mainly as **Mar/Kabar** in Bundelkhand — not across the Gangetic plain.
 
 > **Exam note:** Black soil belongs to the Deccan Trap / regur belt. It is moisture-retentive, used for cotton, and treated as a mature soil — it is not a Himalayan soil.
 
@@ -529,7 +594,7 @@ Black soil is the Deccan cotton soil. UPPCS 2018 nails the Himalaya trap. Lock c
 | Star crop | Cotton |
 | Maturity | Mature (Krabs) |
 
-### Exam Facts (raata) — §5.5
+### Exam Facts (raata — traps only) — §5.5
 
 | # | Fact to remember |
 |---|------------------|
@@ -541,15 +606,6 @@ Black soil is the Deccan cotton soil. UPPCS 2018 nails the Himalaya trap. Lock c
 | 6 | Dry-season cracks give a natural self-ploughing effect |
 | 7 | Black soil is not a Himalayan soil type |
 | 8 | Very deep black soils occur in upper Godavari–Krishna and north-west Deccan tracts |
-
-### Examples (§5.5)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Vidarbha cotton** | Regur–cotton link |
-| **Malwa black soils** | MP Trap cover |
-| **Dry-season field cracks** | Self-ploughing |
-| **Rainfed cotton after monsoon soak** | Moisture retention |
 
 ### PYQs — §5.5
 
@@ -619,7 +675,7 @@ NCERT groups **red and yellow** together. They cover large crystalline tracts of
 | Odisha, Chota Nagpur | Upland red soils |
 | Parts of MP / NE | Local red–yellow tracts |
 
-### Exam Facts (raata) — §5.6
+### Exam Facts (raata — traps only) — §5.6
 
 | # | Fact |
 |---|------|
@@ -630,17 +686,6 @@ NCERT groups **red and yellow** together. They cover large crystalline tracts of
 | 5 | Not identical to laterite |
 | 6 | Better in lowlands than bare uplands |
 | 7 | Millets and pulses are classic crops |
-
-### Examples (§5.6)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Tamil Nadu red loams** | Peninsular red belt |
-| **Chota Nagpur uplands** | Coarse upland red soils |
-| **Yellow patches in hydrated zones** | Colour variant |
-| **Irrigated cotton on red soils** | Management can widen crops |
-
----
 
 ## 5.7 Laterite Soil
 
@@ -688,7 +733,7 @@ Laterite is a UPPCS favourite because of the Fe/Al trap (2023 Q51). Leaching rem
 | Crops | Cashew, tea, coffee, rubber, cinchona |
 | Field crops | Need heavy manuring |
 
-### Exam Facts (raata) — §5.7
+### Exam Facts (raata — traps only) — §5.7
 
 | # | Fact to remember |
 |---|------------------|
@@ -699,15 +744,6 @@ Laterite is a UPPCS favourite because of the Fe/Al trap (2023 Q51). Leaching rem
 | 5 | The name links with brick (later = brick in Latin lore) |
 | 6 | Do not say laterite is poor in iron and aluminium — that statement is false |
 | 7 | Cashew, tea, coffee and cinchona grow on laterite uplands with management |
-
-### Examples (§5.7)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Western Ghats cashew laterite** | Crop–soil link |
-| **Laterite bricks in coastal south** | Hardening property |
-| **Tea on lateritic slopes** | Plantation use |
-| **Meghalaya plateau leaching** | Hot wet setting |
 
 ### PYQs — §5.7
 
@@ -770,7 +806,7 @@ NCERT arid soils are red to brown, sandy, and saline, with low moisture and humu
 | Crops with water | Millets, wheat, mustard |
 | Conservation | Shelter belts, agro-forestry |
 
-### Exam Facts (raata) — §5.8
+### Exam Facts (raata — traps only) — §5.8
 
 | # | Fact |
 |---|------|
@@ -781,17 +817,6 @@ NCERT arid soils are red to brown, sandy, and saline, with low moisture and humu
 | 5 | Western Rajasthan heartland |
 | 6 | Salt may be evaporated commercially locally |
 | 7 | Shelter belts fight dune encroachment |
-
-### Examples (§5.8)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Thar sandy soils** | Arid texture |
-| **IGC command farms** | Irrigation transformation |
-| **Salt evaporation pans** | Extreme salinity |
-| **Shelter belts in Rajasthan** | Wind/dune control |
-
----
 
 ## 5.9 Forest / Mountain Soil
 
@@ -829,7 +854,7 @@ NCERT forest soils change with altitude. Steep slopes stay thin; valleys hold lo
 | Valleys / terraces | Deeper loams | Crops, orchards |
 | Wet eastern hills | More organic upper layers | Tea, dense forest |
 
-### Exam Facts (raata) — §5.9
+### Exam Facts (raata — traps only) — §5.9
 
 | # | Fact |
 |---|------|
@@ -839,17 +864,6 @@ NCERT forest soils change with altitude. Steep slopes stay thin; valleys hold lo
 | 4 | Can be acidic in snow zones |
 | 5 | Not black regur |
 | 6 | Deforestation destroys organic top layer |
-
-### Examples (§5.9)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Himachal orchard terraces** | Valley fertility |
-| **Eastern Himalaya forest floors** | Organic litter |
-| **Landslide scars** | Slope soil reset |
-| **Deforested Himalayan slopes** | Erosion after cover loss |
-
----
 
 ## 5.10 Saline Soil (Usara / Reh)
 
@@ -895,7 +909,7 @@ NCERT calls these **Usara** soils. They contain large proportions of sodium, pot
 | Kallar | Regional alkali/saline label |
 | Canal commands | Secondary salinisation |
 
-### Exam Facts (raata) — §5.10
+### Exam Facts (raata — traps only) — §5.10
 
 | # | Fact |
 |---|------|
@@ -906,17 +920,6 @@ NCERT calls these **Usara** soils. They contain large proportions of sodium, pot
 | 5 | Arid tracts + waterlogged canal plains + coastal deltas |
 | 6 | Green Revolution irrigation can increase salinity |
 | 7 | Remedy = leaching + drainage |
-
-### Examples (§5.10)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Reh patches in western UP** | Canal-plain salinity |
-| **Sundarbans fringe salts** | Coastal saline soils |
-| **Punjab–Haryana waterlogged fields** | Secondary salinisation |
-| **Tawa command soil stress** | Mitti Bachao background |
-
----
 
 ## 5.11 Alkaline Soil (Sodic / Kallar)
 
@@ -956,7 +959,7 @@ Alkaline soils overlap with saline Usara tracts but the key chemistry is **excha
 | Surface clue | White reh | Often darkish alkali stains |
 | Key remedy | Leach + drain | Gypsum + leach |
 
-### Exam Facts (raata) — §5.11
+### Exam Facts (raata — traps only) — §5.11
 
 | # | Fact |
 |---|------|
@@ -966,16 +969,6 @@ Alkaline soils overlap with saline Usara tracts but the key chemistry is **excha
 | 4 | Gypsum amendment |
 | 5 | Usar/kallar in northern plains |
 | 6 | Often mixed with saline Usara |
-
-### Examples (§5.11)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Gypsum on UP usar** | Chemical reclamation |
-| **Black alkali patches** | Organic matter in alkali |
-| **Canal command kallar belts** | Irrigation side-effect |
-
----
 
 ## 5.12 Problem Soils (Acidic, Saline, Alkaline)
 
@@ -1024,7 +1017,7 @@ Syllabus groups acidic, saline, and alkaline soils. Master **cause → effect �
 | Ravine influence | Chambal–Yamuna fringe; Agra–Etawah–Jalaun Bundelkhand edge awareness |
 | Fix package | Drainage + gypsum + organic matter + salt-tolerant cropping |
 
-### Exam Facts (raata) — §5.12
+### Exam Facts (raata — traps only) — §5.12
 
 | # | Fact |
 |---|------|
@@ -1034,15 +1027,6 @@ Syllabus groups acidic, saline, and alkaline soils. Master **cause → effect �
 | 4 | Usar = UP keyword |
 | 5 | Canal waterlogging feeds salts |
 | 6 | Mitti Bachao = Hoshangabad MP |
-
-### Examples (§5.12)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **NE acidic soils** | Rainfall leaching |
-| **UP usar gypsum trials** | Alkaline fix |
-| **Hoshangabad Mitti Bachao** | Social soil politics |
-| **Etawah–Agra ravine fringe** | Erosion problem soils |
 
 ### PYQs — §5.12
 
@@ -1102,7 +1086,7 @@ Texture controls water, air, and tillage. Structure controls how those pores are
 | Usar sodic | Strongly alkaline | Gypsum |
 | Healthy alluvial loam | Near neutral | Maintain OM |
 
-### Exam Facts (raata) — §5.13
+### Exam Facts (raata — traps only) — §5.13
 
 | # | Fact |
 |---|------|
@@ -1112,17 +1096,6 @@ Texture controls water, air, and tillage. Structure controls how those pores are
 | 4 | Sand drains; clay holds |
 | 5 | pH controls nutrient availability |
 | 6 | Sodic clay has bad structure |
-
-### Examples (§5.13)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Sandy Thar fields** | Fast drainage |
-| **Sticky black cotton soil** | Clay behaviour |
-| **Alluvial loams of W UP** | Ideal farming texture |
-| **Dispersed usar clay** | Structure failure |
-
----
 
 ## 5.14 Soil Fertility
 
@@ -1166,7 +1139,7 @@ Fertility is chemical + physical + biological. Colour alone never proves fertili
 | Moisture & aeration | Root function |
 | Drainage | Prevents salinity/waterlogging |
 
-### Exam Facts (raata) — §5.14
+### Exam Facts (raata — traps only) — §5.14
 
 | # | Fact |
 |---|------|
@@ -1177,20 +1150,17 @@ Fertility is chemical + physical + biological. Colour alone never proves fertili
 | 5 | Edaphic = soil factor (2018) |
 | 6 | Soil Health Card = fertility advisory awareness |
 
-### Examples (§5.14)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Green manuring in usar** | Organic rebuild |
-| **NPK on alluvial wheat** | Nutrient supplement |
-| **Laterite base deficiency** | Chemistry limit |
-| **Soil Health Card testing** | Balanced fertiliser use |
-
 ### PYQs — §5.14
 
 **UPPCS Prelims**
 
-1. **(UPPCS 2018, Q51)** Which of the following is concerned with soil?
+1. **(UPPCS 2025, Q73)** With reference to earthworms, which of the following statements is/are correct?
+   1. Earthworms increase soil fertility and are known as friends of farmers.
+   2. Earthworms have two pairs of hearts.
+   - Options: A. Only 2 / B. Neither 1 nor 2 / C. Both 1 and 2 / D. Only 1
+   → **D. Only 1** — Statement 1 is standard soil-biology lock. Statement 2 is false: earthworms have **five pairs** of aortic arches (commonly called hearts), not two.
+
+2. **(UPPCS 2018, Q51)** Which of the following is concerned with soil?
    - Options: A. Edaphic / B. Climatic / C. Biotic / D. Topography
    → **A. Edaphic** — Fertility and soil quality are edaphic concerns.
 
@@ -1264,7 +1234,7 @@ NCERT treats **soil degradation** and **soil erosion** together. Degradation inc
 | Ravine | Water | Badland maze | Chambal; Agra–Etawah fringe |
 | Wind / deflation | Wind | Sand removal, dunes | Thar |
 
-### Exam Facts (raata) — §5.15
+### Exam Facts (raata — traps only) — §5.15
 
 | # | Fact |
 |---|------|
@@ -1275,17 +1245,6 @@ NCERT treats **soil degradation** and **soil erosion** together. Degradation inc
 | 5 | Deforestation and overgrazing accelerate loss |
 | 6 | Over-irrigation → salinity degradation |
 | 7 | Topsoil loss = fertility loss |
-
-### Examples (§5.15)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Chambal ravines** | Extreme gully landscape |
-| **Thar dust and dunes** | Wind erosion |
-| **Canal usar expansion** | Chemical degradation |
-| **Bare Himalayan slopes** | Deforestation erosion |
-
----
 
 ## 5.16 Soil Conservation
 
@@ -1324,7 +1283,7 @@ NCERT defines conservation as maintaining fertility, preventing erosion/exhausti
 | CSCB | Central planning for conservation |
 | Core idea | Cover + drain + replenish |
 
-### Exam Facts (raata) — §5.16
+### Exam Facts (raata — traps only) — §5.16
 
 | # | Fact to remember |
 |---|------------------|
@@ -1336,15 +1295,6 @@ NCERT defines conservation as maintaining fertility, preventing erosion/exhausti
 | 6 | Mitti Bachao movement started at Hoshangabad (Narmadapuram), Madhya Pradesh |
 | 7 | World Soil Day is celebrated on 5 December |
 | 8 | Central Soil Conservation Board is the classic institutional name lock |
-
-### Examples (§5.16)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Mitti Bachao agitation** | People–soil politics |
-| **World Soil Day campaigns** | Awareness calendar |
-| **Usar reclamation projects** | Restoration |
-| **Watershed missions** | Integrated conservation |
 
 ### PYQs — §5.16
 
@@ -1429,7 +1379,7 @@ Syllabus separates principles (§5.16) from **methods**. Match each method to th
 | Gypsum / lime | Chemical reclaim | Alkaline / acid soils |
 | Drainage | Lower water table | Canal usar tracts |
 
-### Exam Facts (raata) — §5.17
+### Exam Facts (raata — traps only) — §5.17
 
 | # | Fact |
 |---|------|
@@ -1441,15 +1391,6 @@ Syllabus separates principles (§5.16) from **methods**. Match each method to th
 | 6 | Contour trenching on hills |
 | 7 | Method must match erosion agent |
 | 8 | CSCB plans used such method packages |
-
-### Examples (§5.17)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Himalayan rice terraces** | Terrace farming |
-| **Rajasthan shelter belts** | Wind and dune control |
-| **Chambal check dams** | Gully control |
-| **Contour bunds in plateau farms** | Bunding |
 
 ### PYQs — §5.17
 
@@ -1464,29 +1405,92 @@ Syllabus separates principles (§5.16) from **methods**. Match each method to th
 ---
 
 
-### 5.3.2 Soil Exam Decision Tree
 
-```
-STEM KEYWORD                    → LOCK
-────────────────────────────────────────────
-~40% / Indo-Gangetic / khadar   → Alluvial
-Bhur sandy ridges               → Alluvial variant
-Cotton + Deccan / moisture      → Black regur
-Crystalline + Fe red/yellow     → Red & Yellow
-Hot wet + Fe/Al / brick         → Laterite
-W Rajasthan sandy + kankar below→ Arid/desert
-Himalaya slopes/valleys         → Forest/mountain
-Usara / reh / salts              → Saline
-High pH + Na / gypsum           → Alkaline
-Low pH + lime                   → Acidic
-Kerala organic heavy black      → Peaty
-NOT in Himalaya (black)         → 2018 trap
-Poor in Fe/Al (laterite claim)  → FALSE
-Edaphic                         → Soil factor
-Mitti Bachao                    → Hoshangabad MP
-World Soil Day                  → 5 December
-Shelter belts in Thar           → Wind/dune control
-```
+## 5.18 Soils of Uttar Pradesh
+
+> **Syllabus lock:** `00_Syllabus.md` → UP Geography → **Soils of UP**. This is the state GK layer on top of ICAR types in §5.3–5.11.
+
+### Definitions
+
+| Term | Definition |
+|------|------------|
+| **Soils of UP** | Regional soil groups of the state: Bhabar, Tarai, Gangetic alluvium, Bundelkhand, Vindhyan, plus usar/reh patches |
+| **Mar / Kabar** | Local black soils of Bundelkhand |
+| **Parua / Rakar** | Local red soils of Bundelkhand (Rakar also called pathari) |
+| **Bhonta / Monta** | Local Vindhyan red–yellow soils |
+
+### Soils of UP — Overview
+
+UP is **overwhelmingly alluvial**, but exam setters love **Bundelkhand local names**, **Bhabar vs Tarai**, **usar/reh districts**, and **Chambal ravines**. Do not answer every UP soil stem with "alluvial" when the stem says Mar, Kabar, Parua, or Bhonta.
+
+#### Soils of UP — How It Works
+
+- Roughly **nine-tenths** of the state is Gangetic **alluvium** (khadar, bangar, bhur variants).
+- Northern fringe: **Bhabar** (pebbly foothill strip) then **Tarai** (moist, nitrogen-rich, crop-friendly) south of it.
+- Southern plateau fringe: **Bundelkhand** holds black **Mar/Kabar** and red **Parua/Rakar**; **Vindhyan** belt holds **Bhonta/Monta** red–yellow soils (Mirzapur–Sonbhadra–Prayagraj fringe).
+- **Usar/Reh/Kallar/Thur** saline–alkaline patches concentrate in western–central canal tracts (Aligarh, Mainpuri, Etawah, Kanpur, Unnao, Raebareli, Lucknow belt in standard GK lists).
+- **Ravine badlands** of the Chambal–Yamuna system hit Agra–Etawah–Jalaun hardest; wind erosion also hits Agra–Mathura–Etawah in dry summers.
+- Aravali-fringe reddish soils appear in parts of **Agra** brought by Chambal and tributaries.
+- Conservation in UP = drainage + gypsum for usar, check dams/afforestation on ravines, canal lining against seepage, and organic returns against fertility decline.
+- Lock: **Alluvial plains + Bundelkhand names + Tarai crops + usar districts + ravine fringe**.
+
+> **Exam note:** UP ≠ Deccan black-soil state. Black soils in UP are mainly **Bundelkhand Mar/Kabar**, not statewide regur.
+
+#### Regional Groups — Master Table
+
+| Group | Where in UP | Character | Exam tag |
+|-------|-------------|-----------|----------|
+| Bhabar | Shivalik foothill strip; strong in Saharanpur–Bijnor west | Shallow, pebbly, calcareous, immature | Poor for crops |
+| Tarai | South of Bhabar | Moist, N + OM rich, silty–clayey | Rice, wheat, sugarcane |
+| Gangetic alluvium | West–east plains | Deep fertile; khadar/bangar/bhur | ~90% of state |
+| Bundelkhand | Jhansi, Lalitpur, Hamirpur, Jalaun, Banda, Mahoba, Chitrakoot | Mar/Kabar black; Parua/Rakar red | Local-name favourite |
+| Vindhyan / Baghelkhand fringe | Mirzapur, Sonbhadra, parts of Prayagraj–Chandauli | Red–yellow; Fe/Al; Bhonta | Pulses, millets, oilseeds |
+| Aravali fringe | Parts of Agra | Reddish, Chambal-brought | Local fringe soil |
+| Usar / Reh | Western–central canal plains | Saline–alkaline crusts | Gypsum + drainage |
+
+#### Bundelkhand Local Types
+
+| Local name | Colour family | Key trait | Districts (core) |
+|------------|---------------|-----------|------------------|
+| **Mar** | Black | Fine clayey; organic-rich; prone to waterlogging; kankar | Jalaun, Hamirpur, Jhansi, Banda |
+| **Kabar** | Dark to grey-black | Coarse; extremely sticky; hardens into blocks when dry | Lalitpur, Banda, Jalaun, Hamirpur |
+| **Parua** | Yellowish red | Sandy to clayey; well aerated | Throughout Bundelkhand |
+| **Rakar (pathari)** | Reddish-brown | Coarse; sloping; slightly acidic; leaching-prone; poor for general crops | Sloping Bundelkhand grounds |
+
+#### Local Names — Quick Match
+
+| Soil | Local / regional names |
+|------|------------------------|
+| Alluvial | Jalodh, Cop |
+| Khadar | Kachari, Domat, Matiyar |
+| Bangar | Uprhar, Domat, Matiyar |
+| Saline–alkaline | Reh, Usar, Kallar, Thur, Banjar |
+| Bundelkhand black | Mar, Kabar, Regur |
+| Bundelkhand red | Parua, Rakar |
+| Vindhyan | Bhonta, Monta |
+| Sandy ridges | Bhur (Upper Ganga–Yamuna Doab) |
+
+#### Problems & Conservation — UP
+
+| Problem | Hotspot | Fix |
+|---------|---------|-----|
+| Usar / reh | Western–central canal tracts | Gypsum + drainage + organic matter |
+| Ravines / gullies | Agra–Etawah–Jalaun | Check dams, afforestation, grazing control |
+| Wind erosion (summer) | Agra–Mathura–Etawah | Shelter belts / cover |
+| Waterlogging | Tarai + canal seepage zones | Drainage; canal lining |
+| Fertility decline | Intensive multi-cropped plains | Rotation, legumes, organic returns |
+
+### Exam Facts (raata — traps only) — §5.18
+
+| # | Fact |
+|---|------|
+| 1 | UP ~90% alluvial — not a black-soil state |
+| 2 | Mar/Kabar = Bundelkhand black; Parua/Rakar = Bundelkhand red |
+| 3 | Bhonta = Vindhyan Mirzapur–Sonbhadra belt |
+| 4 | Bhabar = pebbles/poor crops; Tarai = moist fertile |
+| 5 | Usar names: reh, kallar, thur |
+| 6 | Ravines classic: Agra–Etawah–Jalaun |
+| 7 | Gypsum for UP usar reclamation |
 
 ---
 
@@ -1496,13 +1500,16 @@ Shelter belts in Thar           → Wind/dune control
 
 | Feature | UP relevance |
 |---------|--------------|
-| **Dominant soil** | Alluvial (~entire plain): khadar, bhangar, local **bhur** sand ridges |
-| **Chemistry** | Generally rich potash/lime/phosphoric acid; local N/humus gaps |
-| **Usar / reh / kallar** | Saline–alkaline patches in canal-irrigated western and central tracts |
-| **Ravine fringe** | Chambal–Yamuna influence; Agra–Etawah–Jalaun / Bundelkhand edge |
-| **Crops** | Wheat, rice, sugarcane, pulses on alluvium |
-| **Conservation** | Drainage, gypsum in usar, check dams/afforestation on ravine margins |
-| **Irrigation risk** | Canals/tube wells raise water tables and salts if unmanaged |
+| **Dominant soil** | ~90% alluvial: khadar, bhangar, **bhur** sand ridges |
+| **Bhabar / Tarai** | Pebbly foothill strip vs moist N-rich crop belt |
+| **Bundelkhand** | Mar/Kabar (black); Parua/Rakar (red) |
+| **Vindhyan** | Bhonta/Monta — Mirzapur–Sonbhadra–Prayagraj fringe |
+| **Usar / reh / kallar / thur** | Western–central canal tracts |
+| **Ravine fringe** | Agra–Etawah–Jalaun (Chambal–Yamuna) |
+| **Crops** | Wheat–rice–sugarcane on alluvium; millets/pulses on red plateau soils |
+| **Conservation** | Gypsum+drainage (usar); check dams+afforestation (ravines) |
+| **Irrigation risk** | Canals/tube wells → water table + salts if unmanaged |
+| **Full section** | §5.18 |
 
 ### Syllabus Bullet → Section Map
 
@@ -1510,7 +1517,10 @@ Shelter belts in Thar           → Wind/dune control
 |-----------------|---------|
 | Soil Formation | §5.1 |
 | Soil Profile | §5.2 |
-| Soil Classification | §5.3 (+ peaty §5.3.1; decision tree §5.3.2) |
+| Soil Classification | §5.3 |
+| Peaty / Marshy Soil | §5.3.1 |
+| Exam decision tree | §5.3.2 |
+| Soils of UP | §5.18 |
 | Alluvial Soil | §5.4 |
 | Black Soil (Regur) | §5.5 |
 | Red and Yellow Soil | §5.6 |
@@ -1571,7 +1581,7 @@ Shelter belts in Thar           → Wind/dune control
 
 ## Practice Zone — UPPCS Format Questions
 > **Answers hidden** — click *Show answer*.
-> **55 questions** covering all Topic 5 syllabus bullets + NCERT extras (bhur, usara, CSCB, degradation).
+> **65 questions** covering all Topic 5 syllabus bullets + Peaty + **Soils of UP** local names + NCERT extras.
 
 **Q1.** Soil-forming factors:
 1. Parent material influences chemistry/colour.
@@ -2183,9 +2193,123 @@ Options: A. 1 only  B. 2 only  C. Both  D. Neither
 
 </details>
 
+
+**Q56.** Which pair is correctly matched for Uttar Pradesh?
+
+Options: A. Mar — Bundelkhand red soil  B. Kabar — Bundelkhand black soil  C. Parua — saline usar  D. Bhonta — Bhabar pebble soil
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Kabar (and Mar) are Bundelkhand black soils. Parua/Rakar = red; Bhonta = Vindhyan.
+
+</details>
+
+**Q57.** Bhabar soils of UP are typically:
+
+Options: A. Deep, nitrogen-rich rice soils  B. Shallow, pebbly foothill soils poor for crops  C. Black cotton regur of Deccan type  D. Peaty backwater soils of Kerala type
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Bhabar = immature pebbly strip along Shivalik foothills (e.g. Saharanpur–Bijnor).
+
+</details>
+
+**Q58.** Tarai soils of UP are known for:
+
+Options: A. Extreme aridity and bhur dunes only  B. Moisture, nitrogen/organic richness, rice–wheat–sugarcane  C. Laterite brick quarrying  D. Being identical to Deccan Trap basalt soils
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Tarai lies south of Bhabar; moist and crop-friendly.
+
+</details>
+
+**Q59.** Rakar (pathari) soil in Bundelkhand is:
+
+Options: A. Fine black clay that waterlogs  B. Coarse reddish soil of slopes, often poor for general crops  C. New alluvium of Ganga khadar  D. White reh crust of usar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Rakar = coarse red sloping soil; Mar is the waterlogging black clay.
+
+</details>
+
+**Q60.** Match: Mar, Parua, Bhonta, Reh → Black Bundelkhand, Red Bundelkhand, Vindhyan, Saline crust
+
+Options: A. 1-2-3-4  B. 2-1-3-4  C. 1-3-2-4  D. 1-2-4-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Mar black; Parua red; Bhonta Vindhyan; Reh saline.
+
+</details>
+
+**Q61.** Classic Chambal–Yamuna ravine districts in UP include:
+
+Options: A. Gorakhpur–Deoria–Ballia  B. Agra–Etawah–Jalaun  C. Saharanpur–Bijnor only  D. Mirzapur–Sonbhadra only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Agra–Etawah–Jalaun ravine fringe.
+
+</details>
+
+**Q62.** Which statement about UP soils is NOT correct?
+
+Options: A. Alluvial soils dominate the plains  B. Usar patches occur in canal-irrigated western–central tracts  C. Entire state is covered by Deccan Trap black regur  D. Vindhyan soils are often called Bhonta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Statewide Deccan regur is false; black soils are mainly Bundelkhand Mar/Kabar.
+
+</details>
+
+**Q63.** Peaty/marshy soils differ from black regur because they:
+
+Options: A. Form on Deccan Trap basalt  B. Are organic accumulations of humid waterlogged tracts  C. Are the main cotton soils of Maharashtra  D. Always lack any organic matter
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Peaty = wetland organic; regur = basaltic Deccan clay.
+
+</details>
+
+**Q64.** Earthworms and soil fertility:
+
+1. They increase fertility and are called friends of farmers.
+2. They have two pairs of hearts.
+
+Options: A. 1 only  B. 2 only  C. Both  D. Neither
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — 2025 Q73 logic: only statement 1.
+
+</details>
+
+**Q65.** Best first remedy package for UP usar/reh patches:
+
+Options: A. Terracing alone on flat usar  B. Gypsum + drainage + organic matter  C. More canal water without outlets  D. Shelter belts only, no chemical amendment
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Gypsum for sodicity/alkalinity with leaching–drainage; organics help structure.
+
+</details>
+
 ## Complete PYQ Bank (Topic 5)
 
-> **Coverage:** 6 UPPCS Prelims hits (2018–2025) + fertility overlap — grouped **2025 → 2018**.
+> **Coverage:** 7 UPPCS Prelims hits (2018–2025) including earthworms fertility lock — grouped **2025 → 2018**.
 
 **Q1. UPPCS Prelims 2025, Q63**
 
@@ -2205,7 +2329,25 @@ Options: A. Only 2  B. Neither 1 nor 2  C. Both 1 and 2  D. Only 1
 
 ---
 
-**Q2. UPPCS Prelims 2023, Q51**
+**Q2. UPPCS Prelims 2025, Q73**
+
+With reference to earthworms, which of the following statements is/are correct?
+
+1. Earthworms increase soil fertility and are known as friends of farmers.
+2. Earthworms have two pairs of hearts.
+
+Options: A. Only 2  B. Neither 1 nor 2  C. Both 1 and 2  D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Only statement 1 is correct. Earthworms aid fertility ("friends of farmers"); they have five pairs of aortic arches (hearts), not two.
+
+</details>
+
+---
+
+**Q3. UPPCS Prelims 2023, Q51**
 
 Which of the following statements is correct about Laterite Soil?
 
@@ -2223,7 +2365,7 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 ---
 
-**Q3. UPPCS Prelims 2022, Q25**
+**Q4. UPPCS Prelims 2022, Q25**
 
 Match List-I (Day) with List-II (Event): April 18, May 22, July 29, December 5 → World Heritage Day, International Day of Biodiversity, International Tiger Day, World Soil Day.
 
@@ -2238,7 +2380,7 @@ Options: A. 4, 3, 2, 1  B. 1, 2, 3, 4  C. 2, 4, 1, 3  D. 3, 2, 1, 4
 
 ---
 
-**Q4. UPPCS Prelims 2020, Q81**
+**Q5. UPPCS Prelims 2020, Q81**
 
 Where was the Mitti Bachao (Save the Soil) Movement started in India?
 
@@ -2253,7 +2395,7 @@ Options: A. Thane, Maharashtra  B. Mysore, Karnataka  C. Darbhanga, Bihar  D. Ho
 
 ---
 
-**Q5. UPPCS Prelims 2018, Q31**
+**Q6. UPPCS Prelims 2018, Q31**
 
 Which of the following statements is NOT correct?
 
@@ -2268,7 +2410,7 @@ Options: A. Black soil is locally called 'regur'  B. According to Krabs the regu
 
 ---
 
-**Q6. UPPCS Prelims 2018, Q51**
+**Q7. UPPCS Prelims 2018, Q51**
 
 Which of the following is concerned with soil?
 
@@ -2278,19 +2420,6 @@ Options: A. Edaphic  B. Climatic  C. Biotic  D. Topography
 <summary>Show answer</summary>
 
 **Ans: A** — Edaphic = soil-related environmental factor.
-
-</details>
-
----
-
-**Q7. UPPCS Prelims 2025, Q73** *(fertility overlap — biology stem)*
-
-With reference to earthworms: statement 1 says they increase soil fertility and are friends of farmers (true); statement 2 on anatomy is false in the original paper.
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D (Only 1)** in original — retain under fertility awareness; detailed anatomy is outside soil taxonomy.
 
 </details>
 
@@ -2335,6 +2464,11 @@ With reference to earthworms: statement 1 says they increase soil fertility and 
 | 33 | No institutional body for soil plans | Central Soil Conservation Board prepared plans |
 | 34 | Degradation = only gullies | Includes salts, exhaustion, erosion |
 | 35 | Agro-forestry useless in Thar | Shelter belts/agro-forestry fight dunes |
+| 36 | UP = Deccan black soil state | ~90% alluvial; black mainly Bundelkhand Mar/Kabar |
+| 37 | Mar = red Bundelkhand soil | Mar = black; Parua/Rakar = red |
+| 38 | Bhabar = best rice soil | Bhabar pebbly/poor; Tarai moist fertile |
+| 39 | Bhonta = Gangetic khadar | Bhonta = Vindhyan red–yellow |
+| 40 | Earthworms have two pairs of hearts | Five pairs of aortic arches; fertility statement alone is correct (2025 Q73) |
 
 ---
 

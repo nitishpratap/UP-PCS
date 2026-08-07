@@ -8,7 +8,18 @@
 
 ---
 
-## Quick Revision Box — Raata This First
+## How to use this file
+
+1. **Learn:** Open one ## section → read Definitions → Teach prose → table → Exam note → that section's PYQs.
+2. **Revise later:** Quick Revision + Memory Tricks only (day-before / weak recall).
+3. **Test:** Practice Zone → Common Traps → Complete PYQ Bank.
+4. Do **not** re-read the whole file every sitting — finish one section, then move on.
+
+> Each section is written to make sense on first read. Quick Revision is not the first teaching layer.
+
+---
+
+## Quick Revision Box — Raata Later (after learning sections)
 
 ```
 INDIA = TROPICAL MONSOON (Köppen Am/Cwg dominant):
@@ -331,7 +342,7 @@ India has a **monsoon-type climate** dominated by seasonal reversal of winds, no
 
 > **Exam note:** The seasonal north–south shift of the ITCZ is the fundamental monsoon mechanism; always link it to the seasonal reversal of pressure and winds over the subcontinent.
 
-### Exam Facts (raata) — §2.1 Climate Basics
+### Exam Facts (raata — traps only) — §2.1 Climate Basics
 
 - The troposphere is heated mainly by **long-wave terrestrial radiation**, not by direct short-wave solar radiation (UPPCS 2022 Q138).
 - The **normal lapse rate** is about **6.5 °C per 1000 m**, which explains why Agra is much warmer than Darjeeling in January despite similar latitude (UPPCS 2022 Q22).
@@ -385,16 +396,6 @@ India has a **monsoon-type climate** dominated by seasonal reversal of winds, no
 7. **(UPPCS 2018, Q25)** 'Vegetation is the true index of climate'. This statement is associated with:
    - Options: A. Thornthwaite / B. Köppen / C. Trewartha / D. Stamp
    → **A** — Thornthwaite linked climate classification to moisture balance and vegetation. Köppen uses temperature–precipitation letter codes; Trewartha modified Köppen.
-
-### Examples (§2.1)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Kanpur winter fog** | Radiation inversion + pollution trap in Gangetic plain |
-| **Mawsynram vs Jaisalmer** | Same country; 1100+ cm vs <25 cm rain — monsoon + relief vs rain shadow/desert |
-| **Delhi heat island** | Urban surface 2–4 °C warmer than rural fringe on summer nights |
-
----
 
 ## 2.2 Monsoon System
 
@@ -559,7 +560,7 @@ The Indian monsoon is the **single most tested climate topic** in UPPCS. Three s
    - Options: A. East to West / B. West to East / C. North to South / D. South to North
    → **B** — Western Disturbances enter from the west, so rainfall is stronger in Punjab–Haryana and decreases eastward toward eastern Uttar Pradesh.
 
-### Exam Facts (raata) — §2.2 Monsoon System
+### Exam Facts (raata — traps only) — §2.2 Monsoon System
 
 - The **South-West monsoon** supplies about **75–90%** of India's annual rainfall between June and September.
 - The **Tamil Nadu south-east coast stays dry in the South-West monsoon** because it lies parallel to the Bay of Bengal branch and in the rain shadow of the Arabian Sea branch (UPPCS 2023 Q54).
@@ -571,16 +572,6 @@ The Indian monsoon is the **single most tested climate topic** in UPPCS. Three s
 - **Mango showers** are pre-monsoon rains of Kerala and Karnataka; **Nor'westers** are pre-monsoon thunderstorms of West Bengal and Assam.
 - India's location in the **tropical monsoon region** enables diversified cropping through the year (UPPCS 2024 Q73, statement 2).
 - Normal **onset** is about **1 June** over Kerala, about **29 June** over Delhi, and latest over Rajasthan.
-
-### Examples (§2.2)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Purvanchal (east UP) monsoon** | BoB branch + depressions → flood-prone Ganga-Ghaghra |
-| **Coromandel TN agriculture** | 50% rain from NE monsoon — not SW |
-| **Punjab Rabi wheat** | Depends on WD winter rain + irrigation |
-
----
 
 ## 2.3 Winds, Storms & Cyclones
 
@@ -782,7 +773,7 @@ UPPCS tests **Indian phenomena** (Loo, Nor'westers, mango showers) together with
    - Options: A. 3 4 1 2 / B. 2 3 4 1 / C. 1 3 2 4 / D. 2 3 1 4
    → **D** — Code **2 3 1 4**: Willy-willies–Australia, Taifu–Japan, Baguio–Philippines, Hurricanes–USA. Do not put Baguio on the USA.
 
-### Exam Facts (raata) — §2.3 Winds, Storms & Cyclones
+### Exam Facts (raata — traps only) — §2.3 Winds, Storms & Cyclones
 
 - The **Loo** is a hot, dry summer wind of the north Indian plains; a **Nor'wester** is a violent pre-monsoon thunderstorm of eastern India — they are different phenomena.
 - **Mango showers** occur in **Kerala and Karnataka**, not in Punjab or Haryana.
@@ -793,16 +784,6 @@ UPPCS tests **Indian phenomena** (Loo, Nor'westers, mango showers) together with
 - Tropical cyclones need sea-surface temperature of about **26–27 °C or more** and a significant **Coriolis force** (they are weak or absent on the equator).
 - **Chinook and Foehn** are warm, dry downslope winds (UPPCS 2024 Q33).
 - **Anabatic** winds blow **upslope by day**; **katabatic** winds drain **downslope by night**.
-
-### Examples (§2.3)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Super Cyclone 1999 (Odisha)** | BoB shallow shelf → catastrophic surge |
-| **Tauktae (2021)** | Arabian Sea cyclone — Gujarat landfall possible |
-| **Kal Baisakhi in Kolkata** | Nor'wester hail damage pre-monsoon |
-
----
 
 ## 2.4 Climate Classification & Ocean–Atmosphere Phenomena
 
@@ -945,7 +926,7 @@ UPPCS tests **Indian phenomena** (Loo, Nor'westers, mango showers) together with
 | **−IOD** | Eastern Indian Ocean warmer | **Suppresses monsoon** | Worsens El Niño drought |
 | **2019 case** | El Niño + positive IOD | Monsoon near normal overall | IOD offset example in prose |
 
-### Exam Facts (raata) — §2.4 Classification & Phenomena
+### Exam Facts (raata — traps only) — §2.4 Classification & Phenomena
 
 - The statement **"Vegetation is the true index of climate"** is associated with **Thornthwaite**, not Köppen (UPPCS 2018 Q25).
 - In Köppen's scheme for India, **Am** is monsoon climate, **BWh** is the Thar hot desert, and **Cwg** covers much of the Gangetic plain.
@@ -955,16 +936,6 @@ UPPCS tests **Indian phenomena** (Loo, Nor'westers, mango showers) together with
 - **El Niño** brings a warm current off Peru, a tendency for a **weak Indian monsoon**, and a **fall** in plankton (UPPCS 2023 Q67).
 - **La Niña** is linked with a tendency for a **stronger Indian monsoon**.
 - A **positive IOD (+IOD)** helps the Indian monsoon; a **negative IOD (−IOD)** tends to hurt it.
-
-### Examples (§2.4)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **2019 monsoon** | El Niño year saved partly by +IOD |
-| **1997 drought** | Strong El Niño + drought in central India |
-| **Köppen Cwg Lucknow** | Hot dry summer + cool dry winter + wet monsoon summer |
-
----
 
 ### PYQs — Classification & Phenomena
 

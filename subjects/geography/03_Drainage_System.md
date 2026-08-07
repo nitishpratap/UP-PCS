@@ -8,7 +8,18 @@
 
 ---
 
-## Quick Revision Box — Raata This First
+## How to use this file
+
+1. **Learn:** Open one ## section → read Definitions → Teach prose → table → Exam note → that section's PYQs.
+2. **Revise later:** Quick Revision + Memory Tricks only (day-before / weak recall).
+3. **Test:** Practice Zone → Common Traps → Complete PYQ Bank.
+4. Do **not** re-read the whole file every sitting — finish one section, then move on.
+
+> Each section is written to make sense on first read. Quick Revision is not the first teaching layer.
+
+---
+
+## Quick Revision Box — Raata Later (after learning sections)
 
 ```
 INDIA DRAINAGE FRAMEWORK:
@@ -241,7 +252,7 @@ India's surface water drains into three outlets: the **Bay of Bengal** (~77% of 
 | Superimposed | Inherited after cover removed | Chambal |
 | Fault-guided | Occupies rift/graben | Narmada, Tapi, Damodar |
 
-### Exam Facts (raata) — §3.0 Framework
+### Exam Facts (raata — traps only) — §3.0 Framework
 
 | # | Fact to remember |
 |---|------|
@@ -253,16 +264,6 @@ India's surface water drains into three outlets: the **Bay of Bengal** (~77% of 
 | 6 | **Antecedent** rivers that cut through rising Himalaya include **Indus, Sutlej and Brahmaputra** |
 | 7 | **Chambal** is the classic Indian example of **superimposed** drainage |
 | 8 | India’s **largest basin** is the **Ganga**; the **largest peninsular basin** is the **Godavari** |
-
-### Examples (§3.0)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Western Ghats water divide** | Short west streams vs long east rivers |
-| **Amarkantak radial divide** | Narmada west, Son to Ganga — opposite outlets |
-| **Indus antecedent gorge (Ladakh)** | River older than Himalayan uplift |
-
----
 
 ## 3.1 Himalayan Rivers
 
@@ -646,16 +647,7 @@ India's northern drainage is dominated by three great systems — **Indus, Ganga
    - Options: A. 4, 3, 1 and 2 / B. 1, 2, 3 and 4 / C. 3, 2, 1 and 4 / D. 2, 3, 1 and 4
    → **A** — Geographic west→east is Chambal–Sindh–Betwa–Ken. With paper numbering that is **4, 3, 1, 2**. Do not assume the printed numbers are already in west–east order.
 
-### Examples (§3.1)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Prayagraj Kumbh / Sangam** | Ganga + Yamuna + mythical Saraswati confluence |
-| **Corbett NP on Ramganga** | Himalayan tributary through tarai before joining Ganga |
-| **Kosi embankments Bihar** | Avulsion-prone Himalayan tributary in plains |
-| **Bhakra-Nangal on Sutlej** | Trans-Himalayan river harnessed for irrigation–power |
-
-### Exam Facts (raata) — §3.1 Summary
+### Exam Facts (raata — traps only) — §3.1 Summary
 
 | # | Fact to remember |
 |---|------|
@@ -943,16 +935,7 @@ The **Peninsular Plateau** sends **most major rivers eastward** into the Bay of 
    - Options: A. Godavari / B. Tapti/Tapi / C. Kaveri / D. Kabam
    → **B** — Tapi does not originate in the Western Ghats in the sense of the wrong option — it rises in Satpura (Multai area).
 
-### Examples (§3.2)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Hampi on Tungabhadra** | Krishna tributary through Vijayanagara heritage landscape |
-| **Sundarbans vs Godavari delta** | Himalayan-fed vs peninsular east-coast delta formation |
-| **Surat on Tapi estuary** | West-coast estuarine port, not delta |
-| **Sambhar Lake, Rajasthan** | Inland terminal drainage, salt production |
-
-### Exam Facts (raata) — §3.2 Summary
+### Exam Facts (raata — traps only) — §3.2 Summary
 
 | # | Fact to remember |
 |---|------|
@@ -1076,17 +1059,6 @@ The **Peninsular Plateau** sends **most major rivers eastward** into the Bay of 
 4. **(UPPCS 2020, Q150)** The National Chambal Sanctuary does NOT fall in which of the following States?
    - Options: A. Uttar Pradesh / B. Madhya Pradesh / C. Haryana / D. Rajasthan
    → **C** — The sanctuary is not in Haryana among typical wrong options.
-
-### Examples (§3.3)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Lucknow on Gomti** | City NOT on Ganga — common trap |
-| **Ayodhya on Saryu/Ghaghra** | Purvanchal cultural geography |
-| **Chambal ravines (Morena)** | Badland erosion on Yamuna tributary |
-| **Kanpur tannery pollution** | Ganga mainstream industrial stretch in UP |
-
----
 
 ## 3.4 River Features & Patterns
 
@@ -1381,17 +1353,6 @@ UPPCS and UPSC love **city on which river** matching. Memorise the high-yield pa
 3. **(UPPCS 2019, Q85)** 'Moribund Delta' is a subdivision of which of the following Delta?
    - Options: A. Krishna-Godawari Delta / B. Mahanadi Delta / C. Bengul Deltu / D. Cauvery Delta
    → **D** — Cauvery is associated with a moribund delta character in the standard question.
-
-### Examples (§3.4)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Sundarbans arcuate delta** | Combined Ganga-Brahmaputra sediment load |
-| **Narmada estuary at Bharuch** | West coast estuary vs east coast delta |
-| **Amarkantak radial streams** | Dome origin of Narmada + Son |
-| **Mississippi bird's-foot** | World type example — not Indian river |
-
----
 
 ## 3.5 Waterways & River Linking
 
