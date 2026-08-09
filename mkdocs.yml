@@ -5,12 +5,14 @@ site_author: UP PCS Study Library
 theme:
   name: material
   language: en
+  font:
+    text: Source Sans 3
+    code: JetBrains Mono
   features:
     - navigation.instant
     - navigation.tracking
     - navigation.tabs
     - navigation.sections
-    - navigation.expand
     - navigation.path
     - navigation.top
     - search.suggest

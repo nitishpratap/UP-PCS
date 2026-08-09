@@ -3,6 +3,21 @@
   --md-accent-fg-color: #d97706;
 }
 
+.md-typeset {
+  font-size: .84rem;
+  line-height: 1.72;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  font-weight: 700;
+  letter-spacing: -.015em;
+  line-height: 1.28;
+}
+
+.md-typeset h1 { font-weight: 750; }
+
 .landing-hero {
   padding: 2.5rem 1.75rem;
   margin: 1rem 0 2rem;
