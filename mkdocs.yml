@@ -35,7 +35,7 @@ theme:
 
 repo_name: UP-PCS
 repo_url: https://github.com/nitishpratap/UP-PCS
-edit_uri: edit/master/
+edit_uri: edit/final/
 
 docs_dir: .
 use_directory_urls: true
