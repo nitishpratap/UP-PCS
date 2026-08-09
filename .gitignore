@@ -26,3 +26,5 @@
 !/.github/**
 !/assets/
 !/assets/**
+!/docs/
+!/docs/index.md

@@ -250,7 +250,7 @@
 ### Polity & Constitution → `GS-2/Polity_Constitution/`
 
 > **Booklet mapping:** UPPCS GS-II section **2.1 (Polity & Constitution)** — one **`.md` file per syllabus topic** directly in this folder (no subfolders). **IR, governance, social sector** (Topics 11–21) use topic folders under `GS-2/`.  
-> **2026 study guide:** [`00_UPPCS_2026_Polity_Analysis.md`](Polity_Constitution/00_UPPCS_2026_Polity_Analysis.md) — PYQ trends, priorities, revision plan.
+> **2026 study guide:** [`00_UPPCS_2026_Polity_Analysis.md`](GS-2/Polity_Constitution/00_UPPCS_2026_Polity_Analysis.md) — PYQ trends, priorities, revision plan.
 
 | Topic | Title | File |
 |-------|-------|------|
