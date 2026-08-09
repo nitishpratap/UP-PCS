@@ -1,13 +1,13 @@
 site_name: UP PCS Study Library
 site_description: Readable UPSC and UP PCS notes, organised subject-wise and by Mains PYQ themes.
 site_author: UP PCS Study Library
+site_url: https://nitishpratap.github.io/UP-PCS/
 
 theme:
   name: material
   language: en
-  font:
-    text: Source Sans 3
-    code: JetBrains Mono
+  font: false
+  # Local font stacks in extra.css keep the site readable even if Google Fonts is unavailable.
   features:
     - navigation.instant
     - navigation.tracking

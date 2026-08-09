@@ -4,19 +4,33 @@
 }
 
 .md-typeset {
-  font-size: .84rem;
-  line-height: 1.72;
+  font-family: Georgia, Cambria, "Times New Roman", serif;
+  font-size: .9rem;
+  line-height: 1.78;
 }
 
 .md-typeset h1,
 .md-typeset h2,
 .md-typeset h3 {
+  font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-weight: 700;
   letter-spacing: -.015em;
   line-height: 1.28;
 }
 
 .md-typeset h1 { font-weight: 750; }
+
+.md-header,
+.md-tabs,
+.md-nav,
+.reading-tools {
+  font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.md-sidebar--primary .md-nav--primary > .md-nav__list > .md-nav__item--section > label {
+  cursor: pointer;
+  font-weight: 700;
+}
 
 .landing-hero {
   padding: 2.5rem 1.75rem;
