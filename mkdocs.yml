@@ -1,0 +1,81 @@
+site_name: UP PCS Study Library
+site_description: Readable UPSC and UP PCS notes, organised subject-wise and by Mains PYQ themes.
+site_author: UP PCS Study Library
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  icon:
+    repo: fontawesome/brands/github
+
+repo_name: UP-PCS
+repo_url: https://github.com/nitishpratap/UP-PCS
+edit_uri: edit/master/
+
+docs_dir: .
+use_directory_urls: true
+
+exclude_docs: |
+  .github/**
+  active-recall-prompt/**
+  exports/**
+  pyq/**
+  README.md
+  subjects/prompt.md
+  subjects/**/_*/**
+  subjects/**/_*.md
+  mains-pyqs/_*.md
+  mains-pyqs/_*/**
+  mains-pyqs/prompt.md
+  mains-pyqs/TOPIC_INPUT.md
+  mains-pyqs/README.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/nitishpratap/UP-PCS
+      name: View source on GitHub
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+
+plugins:
+  - search

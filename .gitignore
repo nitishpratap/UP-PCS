@@ -17,3 +17,12 @@
 !/subjects/environments & ecology**
 !mains-pyqs/
 !mains-pyqs/**
+
+# Study-library website and GitHub Pages deployment.
+!/mkdocs.yml
+!/requirements.txt
+!/index.md
+!/.github/
+!/.github/**
+!/assets/
+!/assets/**
