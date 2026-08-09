@@ -45,3 +45,43 @@
 
 .study-card__icon { font-size: 1.75rem; }
 .study-card strong { font-size: 1.12rem; }
+
+.reading-tools {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .45rem;
+  padding: .8rem 0 1rem;
+  border-bottom: 1px solid var(--md-default-fg-color--lighter);
+}
+
+.reading-tools__label {
+  margin-right: .2rem;
+  color: var(--md-default-fg-color--light);
+  font-size: .75rem;
+  font-weight: 700;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+}
+
+.md-button--compact {
+  margin: 0;
+  padding: .35rem .55rem;
+  font-size: .62rem;
+}
+
+@media screen and (min-width: 76.25em) {
+  body.study-hide-subjects .md-sidebar--primary,
+  body.study-hide-toc .md-sidebar--secondary {
+    display: none;
+  }
+
+  body.study-hide-subjects .md-content,
+  body.study-hide-toc .md-content {
+    margin: 0 auto;
+  }
+
+  body.study-hide-subjects.study-hide-toc .md-content {
+    max-width: 58rem;
+  }
+}
