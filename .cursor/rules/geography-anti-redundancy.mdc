@@ -1,0 +1,60 @@
+---
+description: Geography notes — section-first readable teach; no echo stacks; applies to EVERY geography topic.
+globs: subjects/geography/**/*.md
+alwaysApply: false
+---
+
+# Geography notes — section-first + anti-echo
+
+**Scope:** Every file under `subjects/geography/` (Topics 01–N and future topics). Not Topic 9 only.
+
+## How the student actually reads
+
+They do **not** run Pass A→D skip reading. They read **one section at a time, once**, top to bottom inside that section.
+
+Therefore:
+
+- Each `## N.X` section must be **self-explanatory on first read**
+- Do **not** write telegram locks that only make sense if QR or another pass already taught the idea
+- Do **not** defer the real explanation to a later pass or assume QR is the teach layer
+- Quick Revision is for **later raata / day-before**, not the first explanation
+
+## Required study box (near top of every geography topic)
+
+```markdown
+## How to use this file
+
+1. **Learn:** Open one `##` section → read Definitions → Teach prose → table → Exam note → that section’s PYQs.
+2. **Revise later:** Quick Revision + Memory Tricks only (day-before / weak recall).
+3. **Test:** Practice Zone → Common Traps → Complete PYQ Bank.
+4. Do **not** re-read the whole file every sitting — finish one section, then move on.
+```
+
+## One fact, one home (still mandatory)
+
+Same lock must not be restated as Overview + How It Works + Exam Facts + Examples + Consolidated prose.
+
+| Layer | Role |
+|-------|------|
+| Quick Revision | Dense **revision** raata only (after learning) |
+| Definitions | Once, plain language |
+| Teach | Full sentences that explain *what / why / exam trap* — readable alone |
+| Master table | Place / HQ / crop / scheme locks |
+| Exam note | One blockquote trap tip |
+| Exam Facts | Optional; only traps **not** already clear in Teach/table — else omit |
+| Examples | **Forbidden** if they only echo Teach/table |
+| Consolidated | Tables / pointers only |
+| Extra Raata Drill Cards | **Forbidden** |
+
+## Teach quality (non-negotiable — all topics)
+
+- Prefer `### … — Overview` + `#### … — How It Works` **or** a single `### Teach` with **full sentences**
+- Forbidden in Teach: PYQ shorthand like `Amrit Bharat (Feb 2023 UPPCS framing): 149` without saying **what the scheme is**
+- Every scheme / programme / named project gets: what it is → what it does → the exam number/date/trap
+- Tables hold lists; Teach holds meaning
+- Practice Zone stems must be full questions with a short why — not `NER HQ? A B C D` telegrams
+
+## Still required
+
+- Full PYQ stems + options + why (`geography-pyq-prose-style`)
+- Syllabus coverage; delete **echoes**, not unique locks

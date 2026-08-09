@@ -1,0 +1,54 @@
+---
+description: Geography notes must use full PYQ text and readable teaching prose (no telegram answer-keys).
+globs: subjects/geography/**/*.md
+alwaysApply: false
+---
+
+# Geography notes — PYQ and prose style
+
+When writing or editing files under `subjects/geography/`:
+
+## Inline PYQs (mandatory)
+
+Every `### PYQs` entry must include:
+
+1. Exam tag: `(UPPCS YYYY, Q#)`
+2. **Full question stem** (copy from `pyq/`)
+3. **All options** (or full Assertion/Reason / statements)
+4. **Answer** with letter
+5. **Why / trap** in 1–2 plain sentences
+
+**Forbidden (F9):**
+
+- `(UPPCS 2022, Q136) Yellow → oilseed`
+- `→ **D**` with no stem
+- Answer-only one-liners
+
+**Required shape (match Topic 1):**
+
+```markdown
+1. **(UPPCS 2020, Q58)** Given below are two statements…
+   **Assertion (A):** …
+   **Reason (R):** …
+   - Options: A. Both, R explains / B. Both, R not / C. A true R false / D. A false R true
+   → **D** — A is false because… R is true because…
+```
+
+## Overview, Exam notes, and Exam Facts
+
+- Write **full sentences** a student can study from.
+- **Forbidden telegram locks** as the only teaching line: `Cotton = black soil + 210 frost-free + kharif + MH/GJ/TG`
+- **Forbidden bare keys:** `Exam note: 2020 Q58 → A false, R true (D)`
+- **Forbidden Exam Facts rows:** `2020 A false R true`, `2019 = Both true; R not explanation`, `2022 Q136 set A`
+- **Required Exam Facts style:** complete memorisable fact, e.g. `Ahmedabad is in the cotton belt, but it is not India’s largest cotton textile centre`
+- Allowed: explain the fact first; year/Q# only as optional support after the fact.
+
+## Dashes and arrows
+
+- Keep normal markdown bullets (`- item`).
+- Do not chain facts with `+` / `→` / `↔` as a substitute for explanation in Overview, Exam notes, or Exam Facts.
+- Compact `+` / `|` lists are OK only inside the **Quick Revision** fenced code box.
+
+## PYQ Bank
+
+Complete PYQ Bank entries need stem + options + `<details>` answer — not year/Q#/letter alone. PYQ Bank answers must also explain in plain words (not only `A false, R true`).
