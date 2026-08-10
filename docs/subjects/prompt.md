@@ -15,7 +15,7 @@ Use this file to instruct any AI (or yourself) when creating or restructuring to
 **Syllabus source:** Each subject folder's `00_Syllabus.md`  
 **Gold standard (structure + brevity):** **Lucent GK page layout** + this prompt’s §Lucent Voice + §Length Budget. Do **not** copy narrative depth from older encyclopedic Topic 1 files. Those files are **anti-patterns**.
 
-> **For the AI:** Self-verify every topic before presenting it. Run §Mandatory AI Workflow and output the §Delivery Report. If any gate fails (including redundancy gates **R1–R8**, Practice **≥25**, CA when needed, and PYQ gates **F9/F22**), fix the file first.
+> **For the AI:** Self-verify every topic before presenting it. Run §Mandatory AI Workflow and output the §Delivery Report. If any gate fails (including redundancy gates **R1–R9**, Practice **≥25**, CA when needed, and PYQ gates **F9/F22**), fix the file first.
 
 ### One-Line Universal Prompt (copy for any topic)
 
@@ -26,7 +26,7 @@ Phase A Step 4b: §External High-Yield Completeness Protocol when matching-heavy
 Phase A Step 4c: §Current Affairs Protocol when topic can carry recent exam facts.
 Write LUCENT-STYLE notes — one-fact-one-home; NO repetition. Length may exceed 20 min if chapter needs it.
 Practice Zone: minimum 25 (scale up by chapter size). Keep full PYQ Bank.
-Self-verify (R1–R8 + F1–F22). Delivery Report with PYQ + CA + redundancy audit + "File ready: YES".
+Self-verify (R1–R9 + F1–F22). Delivery Report with PYQ + CA + redundancy audit + "File ready: YES".
 One topic only. Wait for approval before next.
 ```
 
@@ -38,10 +38,12 @@ Build UPPCS Prelims (+ light Mains where required) notes that maximize **ROI per
 
 | Priority | Meaning |
 |----------|---------|
-| **Revision-first** | Scannable bullets, tables, chronology boxes, article/scholar lists, trap boxes |
+| **Lucent voice** | Headings → bullets/tables → locks only; no essay filler |
 | **Syllabus-complete** | Every `00_Syllabus.md` bullet for this topic is covered |
 | **PYQ-complete** | Every matching UPPCS/RO-ARO (2018–2025) from `pyq/` is mined and placed (see PYQ protocol — **unchanged**) |
+| **CA when needed** | Recent exam-relevant facts added once (schemes, amendments, reports, UP CA) |
 | **One-fact-one-home** | Each exam fact appears in **exactly one** teaching home; other sections may only **point**, never re-teach |
+| **Practice ≥25** | Practice Zone minimum 25; scale up with chapter size |
 | **Self-contained enough** | Student can answer this topic’s Prelims questions from this file alone — without textbook prose |
 | **One topic at a time** | Fully complete and student-approved before moving on |
 
@@ -49,16 +51,63 @@ Build UPPCS Prelims (+ light Mains where required) notes that maximize **ROI per
 
 ---
 
+## Lucent Voice (mandatory look)
+
+**Gold-standard layout = coaching/PW notes + Lucent GK**, not textbook chapters.
+
+### Canonical Act / Event block (COPY THIS SHAPE)
+
+```markdown
+## Indian Councils Act, 1861
+**Viceroy:** Lord Canning
+
+- The Viceroy could nominate Indians as non-official members; in **1862** Canning nominated three: Raja of Benaras, Maharaja of Patiala, Sir Dinkar Rao.
+- Restored legislative powers of Bombay and Madras (start of decentralisation).
+- Enabled Viceroy to issue **Ordinances** (valid **6 months**) in emergencies without council consent.
+- Portfolio system (from **1859**) was **legally recognised** by the 1861 Act — each member managed a department independently.
+
+> **Exam note:** UPPCS 2021 Q13 — portfolio/departmental system = **1861**, not 1892/1909.
+```
+
+| Do | Don't |
+|----|-------|
+| **One heading → Viceroy/year → exam bullets** | `### Definitions` + `### How It Works` + `### Exam Facts` + `### Examples` stack |
+| Put **all** locks for that Act in that single bullet list | Restate the same locks in Raata / Examples / second prose block |
+| Include **exam specifics** (names, numbers, years, “firsts”) | Vague one-liners only (“introduced portfolio system”) with no exam meat |
+| One optional `Exam note` / PYQ year tag under the block | Full PYQ dump under every Act **and** again as Raata |
+| Comparison table only for confused pairs (Dyarchy vs Autonomy) | Narrative “How It Works” essays |
+
+### Hard ban — the stack you rejected
+
+**REJECT and rewrite if any N.X looks like this:**
+
+1. Definitions table  
+2. How It Works (repeats Definitions)  
+3. Exam Facts / Raata (repeats How It Works)  
+4. Examples (repeats again)  
+5. Inline PYQs  
+
+That stack is why notes become unreadable. **One teaching home = the Act bullet list.**
+
+### Density rule
+
+- Prefer **5–12 solid bullets** per Act/event (PW density), not 2–3 empty lines and not 40-line essays.
+- Expand with **new facts** only; never a second section that rephrases the first.
+- Quick Revision Box = short spine for later raata — **does not** restate every bullet from Act blocks (years + one-line identity only).
+
+---
+
 ## North Star vs Anti-Pattern
 
-| ✅ High-ROI revision note | ❌ Encyclopedic anti-pattern (REJECT) |
-|---------------------------|----------------------------------------|
-| 12–15 min first read | 60–90 min / 30–50+ pages |
+| ✅ Lucent-style revision note | ❌ Encyclopedic anti-pattern (REJECT) |
+|------------------------------|----------------------------------------|
+| Dense, readable, no repeated facts | Same fact 5× across sections (unreadably long) |
 | One chronology box + compact Act cards | Full Causes → Course → Results essays per Act |
 | Fact taught once; traps as 1-line callouts | Same fact in Quick Revision, Exam Facts, Traps, Consolidated, PYQ “why” |
 | Table / list where exam asks matching | Long narrative where a one-line exam point suffices |
-| Practice Zone = short drill (see sizing) | 40–50 practice questions bloating the file |
+| Practice Zone **≥25**, scaled by chapter | Practice Zone under 25 |
 | PYQ Bank = full (protocol unchanged) | Skipping PYQs to “save length” — **forbidden** |
+| CA block only when topic needs recent facts | Random CA dump unrelated to syllabus |
 
 **Canonical length anti-pattern:** `subjects/polity/01_Constitutional_Development.md` (pre-rewrite) — huge Quick Revision + Must-Know + Memory Tricks + per-Act Definitions/How It Works/Exam Facts/Examples/PYQs stacks repeating the same chronology. **Never generate that shape again.**
 
@@ -98,18 +147,21 @@ Every exam fact has **one teaching home**. Other places may cite it only as a **
 
 ---
 
-## Length Budget (hard — R1–R4)
+## Length Budget (redundancy-first — not a hard time cap)
 
-| Budget | Limit | Notes |
-|--------|------:|-------|
-| **First-read body** (header → end of teaching sections + Quick Revision + comparisons + traps + consolidated) | Target **~400–700 lines**; hard cap **~900 lines** excluding Practice Zone + Complete PYQ Bank | PYQ Bank may be long — that is OK |
-| **Quick Revision Box** | Max **~80 lines** for large topics; prefer denser tables | Raata spine only |
-| **Per syllabus bullet (N.X)** | Target **8–25 lines**; hard cap **~35 lines** excluding inline PYQs | Tables beat essays |
-| **Practice Zone** | **8–15** questions (see sizing table) | Not 25–50 |
-| **Common Traps** | **8–15** short lines; no re-teaching | Only trap formulations |
-| **Mains Framework** | Only if mandatory; **1 short frame** (≤15 lines) | Skip if thin value |
+**Hard rule:** zero repetition (one-fact-one-home).  
+**Soft rule:** keep Lucent-dense; do not write essays.  
+**Allowed:** teaching body **may exceed ~20 minutes** when the chapter has many syllabus bullets or dense PYQ/CA surface — **only** by adding **new** locks, never by restating.
 
-**File may exceed line cap only because Complete PYQ Bank is large.** Teaching body must still pass the time-target smell test: a student who already knows the PYQ Bank can finish teaching content in ≤20 minutes.
+| Budget | Guidance | Notes |
+|--------|----------|-------|
+| **Teaching body** | As long as needed for syllabus + PYQ + needed CA | Fail only if repetitive / essay-padded (**R1–R3**) |
+| **Quick Revision Box** | Dense spine; prefer tables | Cut low-density narrative, not exam locks |
+| **Per syllabus bullet (N.X)** | Prefer **8–25 lines** of locks; expand only for new PYQ/CA locks | Tables beat essays; no Definitions+HowItWorks+ExamFacts+Examples echo |
+| **Practice Zone** | **Minimum 25**; scale up by chapter (see sizing) | Not optional; not under 25 |
+| **Common Traps** | **8–15** short lines; no re-teaching | Trap formulations only |
+| **Mains Framework** | Only if mandatory; **1 short frame** | Skip if thin value |
+| **Complete PYQ Bank** | Full protocol — length OK | Do not trim PYQs |
 
 ---
 
@@ -125,10 +177,11 @@ Every topic: **Phase A → B → C**. Do not present until Phase C passes.
 3. Read NCERT / standard sources for this topic → list exam-relevant headings only
 4. Run UPPCS PYQ search protocol (§UPPCS PYQ Search & Addition Protocol) — full inventory before writing
 4b. Run External High-Yield Completeness Protocol when matching-heavy / F22 triggers
+4c. Run Current Affairs Protocol — search recent (≈ last 12–24 months) exam-relevant CA for this topic; skip only if topic is purely historical with zero CA surface
 5. Build TOPIC BOUNDARY TABLE (IN / OUT / BRIEF)
 6. Build SYLLABUS → N.X MAP (one row per bullet)
-7. Build CONCEPT INVENTORY — each concept tagged with ONE home section
-8. Draft length plan: estimate lines per N.X; cut any section that would only restate Quick Revision
+7. Build CONCEPT INVENTORY — each concept tagged with ONE home section (include CA rows)
+8. Draft coverage plan: every syllabus/PYQ/CA lock has a home; delete any planned section that would only restate another
 ```
 
 **Stop if:** Any syllabus bullet has no N.X assignment.  
@@ -147,7 +200,7 @@ Write per §Required Document Structure. Enforce one-fact-one-home while writing
 
 ### Phase C — Post-Audit
 
-Run §Quality Checklist + §Automatic Fail Conditions (including **R1–R8**). Fix all failures. Output **§Delivery Report** in chat only.
+Run §Quality Checklist + §Automatic Fail Conditions (including **R1–R9**). Fix all failures. Output **§Delivery Report** in chat only.
 
 ---
 
@@ -170,60 +223,36 @@ Run §Quality Checklist + §Automatic Fail Conditions (including **R1–R8**). F
 
 ## Subtopic Depth Matrix (revision mode)
 
-Every `## N.X` includes **only what adds exam value**:
+Every Act / event / concept uses **one block only**:
 
-| Block | Required? | Maximum / rule |
-|-------|-----------|----------------|
-| Compact lead (1–3 bullets) **or** Definitions (only if wording variants are tested) | If needed | ≤5 lines total — skip empty “Definitions” tables |
-| Teach block: bullets **and/or** 1 table | **Always** | Prefer table; ≤12 bullets if prose needed |
-| `> **Exam note:**` | **Always** | 1 trap (2 only if both PYQ-proven) |
-| Supporting table | If classifying/comparing | 1 primary table; 2nd only if distinct exam job |
-| `### Exam Facts (raata)` | **Only if** facts are **not** already in Quick Revision / table above | ≤8 bullets; else **omit section** |
-| `### PYQs — [Subtopic]` | **Always** (per PYQ protocol) | Full text + why — **unchanged rules** |
-| `### Examples` | **Rarely** | Only if example teaches a **new** match/location; else **omit** |
-
-> **Geography exception (`subjects/geography/`):** Follow any local anti-redundancy rule if present. Still obey length budget and one-fact-one-home.
-
-**Scheme/policy:** Scheme card (Year | Ministry | Objective | Trap) — one card, one home.  
-**Match-list topics:** Master Match table is the teaching home; prose only for swap traps.
+| Block | Required? | Rule |
+|-------|-----------|------|
+| Heading (`##` / `###`) + Viceroy / Year line | **Always** for Acts | e.g. `**Viceroy:** Lord Canning` |
+| Exam bullets (PW/Lucent density) | **Always** | 5–12 locks; names/numbers/firsts included |
+| `> **Exam note:**` | When trap exists | 1 line OK if **no** PYQ cited |
+| Full PYQ under Act (when cited) | **Mandatory if citing** | Complete stem + options + `<details>` answer — never year/Q# only |
+| Full PYQ text under every N.X | Not required for every Act | Only where a real PYQ is being referenced; all mapped PYQs still in Complete PYQ Bank |
 
 ---
 
-## History Event Card Protocol (replaces encyclopedic war essays)
+## History / Act Block Protocol (PW style)
 
-Apply to wars, battles, treaties, rebellions, annexations, constitutional Acts, missions/plans.
-
-### Required card (compact)
+Apply to Acts, wars, treaties, missions, CA events.
 
 ```markdown
-## N.X [Event / Act Name] ([Year])
+## [Name], [Year]
+**Viceroy / Key actor:** …
 
-| Field | Exam lock |
-|-------|-----------|
-| **What** | 1 line |
-| **Why it matters** | 1 line (exam angle) |
-| **Key provisions / outcomes** | 3–6 bullets OR mini-table |
-| **Firsts / numbers** | Only PYQ-tested locks |
+- Fact 1 (exam-specific)
+- Fact 2
+- …
 
-> **Exam note:** [single highest-yield trap]
-
-### PYQs — [Subtopic]
-[per PYQ protocol]
+> **Exam note:** [trap + PYQ year if any]
 ```
 
-### Multi-event parents (e.g. Anglo-Mysore Wars, Charter Acts)
+Multi-event parents (e.g. Charter Acts, Anglo-Mysore): one short intro line + separate `###` blocks per Act/war — each block is self-contained bullets, **no** shared How It Works that repeats children.
 
-1. Parent gets **one master chronology / comparison table**.
-2. Each war/Act gets a **short card** (`### N.X.1`, `### N.X.2`) — **not** Causes×5 + Course×8 + Results×4 essays.
-3. Treaty-year traps → **one comparison table**, not repeated prose.
-
-### Reject (thin *and* fat both fail)
-
-| Reject | Why |
-|--------|-----|
-| Date checklist with no trap/comparison | Cannot beat wrong options |
-| Full Causes → Course → Results novel per Act | Kills revision time |
-| Restating the parent chronology inside every child card | Violates one-fact-one-home |
+**Reject:** Causes → Course → Results novels; Definitions/How It Works/Raata/Examples stacks.
 
 ---
 
@@ -254,14 +283,15 @@ If **any** are true, the file is **NOT complete**:
 
 | # | Fail condition |
 |---|----------------|
-| R1 | Teaching body clearly exceeds **~20 min** first-read (encyclopedic prose / repeated stacks) |
+| R1 | Teaching body padded with **encyclopedic prose / repeated stacks** (length OK; **repetition is not**) |
 | R2 | Same fact fully restated in **3+** of: Quick Revision, N.X teach, Exam Facts, Consolidated, Common Traps |
 | R3 | Any N.X has Definitions + How It Works essay + Exam Facts + Examples all repeating one table |
 | R4 | History/Act section uses full Causes/Course/Results novel instead of Event/Act card |
-| R5 | Practice Zone **>15** questions without student requesting more |
+| R5 | Practice Zone **fewer than 25** questions |
 | R6 | Common Traps re-explain concepts already taught (should be trap-only lines) |
-| R7 | Quick Revision > ~80 lines of low-density narrative |
+| R7 | Quick Revision is low-density narrative that only restates N.X cards |
 | R8 | File tagged or titled as “Complete Source of Truth — no other book needed” |
+| R9 | Topic has clear CA surface (schemes/amendments/reports/appointments/UP CA) but §Current Affairs Protocol was skipped with no justification |
 
 ### Coverage & quality (F-gates)
 
@@ -296,15 +326,15 @@ If **any** are true, the file is **NOT complete**:
 | Gate | Status | Notes |
 |------|--------|-------|
 | Syllabus bullets mapped | ✅ N/N | |
-| Length / time target | ✅ | Est. first read: [min]; teaching lines ~[N]; PYQ Bank excluded from time target |
-| One-fact-one-home audit | ✅ | No triple restates |
+| Redundancy audit (one-fact-one-home) | ✅ | No triple restates; length may be >20 min if needed |
 | PYQs mined from pyq/ | ✅ | **UPPCS/RO-ARO: [Q# + year + exam…]**; all in PYQ Bank |
 | UPPCS PYQ audit | ✅ | Searched: [paths]; Found: [N]; Inline: [N]; Bank: [N]; Missing: 0 |
 | External high-yield audit (F22) | ✅/N/A | |
+| Current affairs audit (R9) | ✅/N/A | Sources: [PIB/…]; Added: [list]; Skipped: [why] |
 | 2025 overlap in teaching home | ✅ | |
-| Practice Zone count + mix | ✅ | [8–15]; multi-statement % |
+| Practice Zone count + mix | ✅ | **≥25** (actual: [N]); multi-statement % |
 | UP Focus | ✅/N/A | |
-| R1–R8 + F1–F22 | ✅ 0 failures | |
+| R1–R9 + F1–F22 | ✅ 0 failures | |
 | History/Act cards (not novels) | ✅ | |
 
 **Deliberately excluded (other topics / non-exam fluff):** […]
@@ -340,12 +370,23 @@ Topic files are **revision notes**. Do **not** include AI workflow artifacts in 
 
 ```markdown
 # Topic N — [Topic Title]
-### ★ UPPCS Revision Sheet — High-ROI (read 12–15 min · revise 2–3 min)
+### ★ UPPCS Revision Sheet — Lucent-style (no repetition · Practice ≥25)
 
-> **Covers syllabus:** [every bullet — grouped but complete]
-> **Sources baked in:** [NCERT / standard book chapters, official sources, PYQs]
-> **Exam weight:** ★★★ / ★★ / ★ — [what UPPCS actually repeats]
-> **Last verified:** [Month Year]
+> **Covers syllabus:** put inside a toggle (see structure below) — do not leave as a long always-visible line  
+> **Sources baked in:** …  
+> **Exam weight:** …  
+> **Last verified:** …  
+
+```markdown
+<details>
+<summary><strong>Covers syllabus</strong> (click to expand)</summary>
+
+Constitutional Development | Regulating Act 1773 | … (every bullet)
+
+</details>
+```
+
+**PYQ citation rule:** If an Act/event block refers to a PYQ, write the **complete question** (stem + options) under that block with answer in `<details>`. Do **not** cite as only `UPPCS 2021 Q13`. Full bank at the end still required.
 
 ---
 
@@ -373,12 +414,17 @@ Topic files are **revision notes**. Do **not** include AI workflow artifacts in 
 ---
 
 ## Practice Zone — UPPCS Format Drill
-[8–15 questions; answers in `<details>`]
+[**Minimum 25** questions; scale up by chapter; answers in `<details>`]
 
 ---
 
 ## Complete PYQ Bank (Topic N)
 [FULL protocol — every mapped UPPCS/RO-ARO with full text + `<details>` answers]
+
+---
+
+## Current Affairs (if needed)
+[Only exam-relevant recent facts for THIS topic — Year | Fact | Why asked | Source. Skip section if N/A]
 
 ---
 
@@ -423,22 +469,57 @@ Syllabus Coverage Map, Checklist, How to Use, How UPPCS Tests, Exam Intelligence
 | **Triple restatement** across sections | Wasted minutes |
 | **Causes/Course/Results novels** by default | Low marks per minute |
 | **Empty Definitions / Examples / Exam Facts stacks** | Pure padding |
-| **Practice Zone 25–50** | Bloat (PYQ Bank already trains) |
+| **Practice Zone under 25** | Too thin for chapter drill |
 | **"See Topic X"** to dodge needed trap | Breaks self-test |
 | **"etc."** in match lists | Missed row = missed mark |
 | **Skipping PYQs to shorten file** | **Forbidden** — PYQ protocol unchanged |
+| **Skipping needed CA** | Misses Prelims currency (R9) |
 | **Wikipedia dumps / non-exam colour** | Not ROI |
+| **Repeating facts to “fill” a long chapter** | Length without new locks = fail |
 
-### Practice Zone sizing (revision mode)
+### Practice Zone sizing (minimum 25)
 
 | Subtopics in topic | Practice questions |
 |--------------------|-------------------:|
-| ≤5 | 8–10 |
-| 6–12 | 10–12 |
-| 13+ | 12–15 |
-| CA-heavy | 12–15 (≥50% last 2 years’ patterns) |
+| ≤5 | **25–30** |
+| 6–12 | **30–40** |
+| 13+ | **40–50** |
+| CA-heavy | **30–50** (≥50% last 2 years’ patterns / CA locks) |
 
-**Format mix (unchanged intent):** ≥40% multi-statement; include A/R, matching, NOT-matched as relevant. Answers in `<details>`.
+**Format mix:** ≥40% multi-statement; include A/R, matching, NOT-matched as relevant. Answers in `<details>`.
+
+---
+
+## Current Affairs Protocol (add when needed — R9)
+
+Run in **Phase A Step 4c** for every topic. Mark **N/A** only when the topic is purely static/historical with **no** plausible recent Prelims ask.
+
+### When CA is required (do not skip)
+
+| Trigger | Examples |
+|---------|----------|
+| Schemes / missions / portals | New launches, nodal ministry changes, target revisions |
+| Constitutional / statutory updates | Amendments, new Bills passed, body strength/composition changes |
+| Reports / indices / rankings | Latest edition year, publishing body |
+| Appointments / offices | CEC, CAG, CJI, Governors, key UP posts when topic owns them |
+| Environment / Economy / Science CA topics | Always check last 12–24 months |
+| UP-specific polity/admin | New districts, local-body changes, UP schemes |
+
+### How to add CA (Lucent density)
+
+1. Search PIB / official ministry / India Year Book / reputable CA compilations for **this topic only**.
+2. Keep only facts that can become a Prelims statement (year, ministry, number, “which is correct”).
+3. Place each CA fact in **one home**: short `### Current Affairs` table **or** inside the matching N.X card — **not both**.
+4. Put `**Last verified:** [Month Year]` in the topic header when any CA is included.
+5. Optionally fold 2–4 CA-based items into Practice Zone (still count toward ≥25).
+
+### Reject
+
+| Reject | Why |
+|--------|-----|
+| Newspaper narrative paragraphs | Not Lucent |
+| CA unrelated to this syllabus topic | Wrong boundary |
+| Restating the same scheme card in CA + N.X + Consolidated | One-fact-one-home |
 
 ---
 
@@ -511,7 +592,7 @@ Step 7: Stop if inventory has zero UPPCS/RO-ARO hits but topic is ★★+ — br
 | Level | Rule |
 |-------|------|
 | **Topic file (total)** | **Every** UPPCS Prelims (2018–2025) + **every** RO-ARO question from `pyq/` that maps to this topic → must appear in **Complete PYQ Bank** with full question text |
-| **Per §N.X subtopic** | **≥2 UPPCS or RO-ARO** inline under `### PYQs — [Subtopic]` if available in `pyq/` across **any year 2018–2025**; else **1 UPPCS/RO-ARO + 1 UPSC**; full text + why |
+| **Per §N.X subtopic** | Prefer **Exam note with year/Q#**; optional **1** highest-yield full PYQ under that Act only if it adds self-test value. Do **not** place ≥2 full PYQs under every Act (that recreates the stack). All mapped PYQs still go to **Complete PYQ Bank** |
 | **2025 paper** | Every matching **2025 Q** → taught in matching §N.X **teaching home** + inline PYQ + PYQ Bank **(F5)** |
 | **Older UPPCS (2018–2024)** | Every matching Q → inline in best-matching §N.X + PYQ Bank |
 | **RO-ARO** | Same as UPPCS — full text, map to §N.X, tag `RO-ARO Prelims YYYY, Q#` |
@@ -521,9 +602,11 @@ Step 7: Stop if inventory has zero UPPCS/RO-ARO hits but topic is ★★+ — br
 ### Where to add each PYQ (four placements)
 
 1. **§N.X teaching home** — 1-line callout for high-yield traps: `> **2025 Q144 trap:** …`
-2. **`### PYQs — [Subtopic]`** — full question text + answer + why wrong options fail
+2. **`> **Exam note:**` / year tag** — e.g. `UPPCS 2021 Q13 → portfolio = 1861`
 3. **`## Complete PYQ Bank`** — every deduplicated UPPCS/RO-ARO from `pyq/` for this topic; answers in `<details>`; group by year (2025 → 2018 → RO-ARO) or chronological
-4. **Practice Zone** (optional) — reproduce 1–3 highest-yield UPPCS/RO-ARO only if useful for format drill (do not dump the whole bank here)
+4. **Practice Zone** — original drill questions; do not dump the whole PYQ Bank here
+
+> **Anti-stack rule:** Do not put full PYQ cards under every Act *and* Exam Facts *and* Bank. Teaching bullets + Bank is enough; one inline PYQ only when high-yield.
 
 ### Subject-specific search hints (Environment & Ecology)
 
@@ -593,8 +676,8 @@ Entire Wikipedia bibliographies, unrelated bestsellers, wrong-topic historiograp
 Restructure @[topic_file].md using @subjects/prompt.md, @00_Syllabus.md, and @pyq/ (2018–2025 + RO-ARO).
 
 Phase A: syllabus list, PYQ inventory, External High-Yield if needed, boundary table, concept inventory with ONE home each
-Phase B: HIGH-ROI revision sheet (12–15 min). Act/Event cards. One-fact-one-home. NO encyclopedic novels.
-Phase C: R1–R8 + F1–F22; Delivery Report "File ready: YES"
+Phase B: LUCENT-STYLE sheet. Act/Event cards. One-fact-one-home. NO repetition. Length may exceed 20 min if chapter needs new locks.
+Phase C: R1–R9 + F1–F22; Delivery Report "File ready: YES"
 
 Rules:
 1. Map every 00_Syllabus.md bullet → N.X.
@@ -604,7 +687,8 @@ Rules:
 5. No "etc." in exam lists.
 6. PYQs: full §UPPCS PYQ Search Protocol — every matching UPPCS/RO-ARO full text inline + Complete PYQ Bank (do not trim PYQs for length).
 7. External high-yield when matching-heavy (F22).
-8. Practice Zone: 8–15 questions; ≥40% multi-statement; `<details>` answers.
+7b. Current affairs when needed (§Current Affairs Protocol / R9).
+8. Practice Zone: **minimum 25** (scale by chapter size); ≥40% multi-statement; `<details>` answers.
 9. Hindi column in term comparisons.
 10. UP Focus if applicable.
 11. One topic only; wait for approval.
@@ -659,7 +743,7 @@ Acts | Articles | Orgs | Dates | Schemes | Reports | UP Focus.
 
 ### 4. Practice Zone
 
-8–15 UPPCS-format questions. Hidden answers:
+**Minimum 25** UPPCS-format questions; scale up per sizing table. Hidden answers:
 
 ```markdown
 <details>
@@ -715,10 +799,10 @@ Only when topic is law/governance/environment-policy heavy and a short frame hel
 ### Syllabus & ROI
 - [ ] Every syllabus bullet has N.X **(F1)**
 - [ ] Header covers all bullets
-- [ ] Teaching body fits **≤20 min** first read **(R1)**
-- [ ] One-fact-one-home holds **(R2–R3)**
+- [ ] **No repetition** — one-fact-one-home **(R1–R3)** (length may exceed 20 min)
 - [ ] No “Complete Source of Truth” framing **(R8)**
 - [ ] History/Acts use cards, not novels **(R4)**
+- [ ] Current affairs added when needed, or N/A justified **(R9)**
 
 ### Teaching quality
 - [ ] Each N.X has teach locks + Exam note **(F2/F7)**
@@ -736,7 +820,7 @@ Only when topic is law/governance/environment-policy heavy and a short frame hel
 - [ ] F22 external high-yield when required
 
 ### Practice
-- [ ] 8–15 questions **(R5)**
+- [ ] **≥25** questions **(R5)**; scaled by chapter size
 - [ ] ≥40% multi-statement **(F8)**
 - [ ] Answers in `<details>`
 
@@ -744,6 +828,7 @@ Only when topic is law/governance/environment-policy heavy and a short frame hel
 - [ ] 2-statement decidable from section locks alone
 - [ ] Wrong options fail via Exam note / comparison
 - [ ] PYQ Bank usable as pure self-test without rereading essays
+- [ ] No section only restates another section
 
 ---
 
@@ -754,17 +839,17 @@ Phase A — PRE-AUDIT
   Syllabus bullets → PYQ inventory → External HY if needed → Boundary → Concept homes → Length plan
 
 Phase B — WRITE
-  Revision sheet structure → Act/Event cards → Consolidated (deduped) → Practice 8–15 → Full PYQ Bank
+  Revision sheet structure → Act/Event cards → CA if needed → Consolidated (deduped) → Practice ≥25 → Full PYQ Bank
 
 Phase C — POST-AUDIT
-  R1–R8 + F-gates → Delivery Report → File ready YES → wait for approval
+  R1–R9 + F-gates → Delivery Report → File ready YES → wait for approval
 ```
 
 **Do NOT start Topic N+1 until student approves Topic N.**
 
 ---
 
-## Gold Standard Structure Diff (revision mode)
+## Gold Standard Structure Diff (Lucent mode)
 
 | Block | Required? |
 |-------|-----------|
@@ -774,8 +859,9 @@ Phase C — POST-AUDIT
 | Memory Tricks | **Optional** — only PYQ-useful |
 | N.X compact teach + Exam note + PYQs | **Yes** |
 | Consolidated Reference (deduped) | **Yes** if shared lists remain |
+| Current Affairs (if needed) | When R9 triggers; else omit |
 | UP Focus | If UP-relevant |
-| Practice Zone (8–15) | **Yes** |
+| Practice Zone (**≥25**, scaled) | **Yes** |
 | Complete PYQ Bank (full) | **Yes** |
 | Mains Framework | Only if high value |
 | Common Traps (trap-only) | **Yes** for ★★+ |
@@ -788,15 +874,17 @@ Phase C — POST-AUDIT
 
 ```
 Restructure subjects/polity/01_Constitutional_Development.md using:
-- @subjects/prompt.md (high-ROI revision mode; Phase A→B→C)
+- @subjects/prompt.md (Lucent style; Phase A→B→C)
 - @subjects/polity/00_Syllabus.md
 - @pyq/ (2018–2025 + RO-ARO)
 
-Convert encyclopedic chapter → 12–15 min revision sheet.
+Convert encyclopedic chapter → Lucent-style notes (no repetition).
+Length may exceed 20 min if needed — only with NEW locks.
 One-fact-one-home. Act/mission cards + chronology tables.
 KEEP full PYQ protocol (every matching Q full text + Complete PYQ Bank).
-Practice Zone 8–15 only.
-Delivery Report with length audit + PYQ audit; File ready: YES.
+Add CA only if this topic has recent exam surface (else N/A).
+Practice Zone minimum 25 (scale up for large chapter).
+Delivery Report with redundancy + PYQ + CA audit; File ready: YES.
 Topic 1 only. Wait for approval.
 ```
 
@@ -806,14 +894,34 @@ Topic 1 only. Wait for approval.
 
 ### Environment & Ecology
 
-Prefer mechanism **locks** (definitions that decide T/F) over essays. UP Focus for forests/Ramsar/pollution cities. Full PYQ protocol. Practice 8–15.
+Prefer mechanism **locks** (definitions that decide T/F) over essays. UP Focus for forests/Ramsar/pollution cities. Full PYQ protocol. **Practice ≥25**. Run CA for schemes/reports/climate targets.
 
 ### Art & Culture
 
-Match tables (dance↔state, temple↔style, author↔work) as primary home. Run F22 for literature streams. UP Focus: Mathura, Varanasi, Lucknow, Sarnath, Agra, UP folk forms.
+Match tables (dance↔state, temple↔style, author↔work) as primary home. Run F22 for literature streams. UP Focus: Mathura, Varanasi, Lucknow, Sarnath, Agra, UP folk forms. **Practice ≥25**. CA for new GI tags / UNESCO / awards when relevant.
 
 ### Ancient / Medieval / Modern India
 
-Use **Event cards + chronology/treaty tables**. Do **not** recreate Carnatic-war novel depth. Multi-war bullets → `N.X.1`… cards under one parent table.
+Use **Event cards + chronology/treaty tables**. Do **not** recreate Carnatic-war novel depth. Multi-war bullets → `N.X.1`… cards under one parent table. **Practice ≥25**.
 
-**Mod
+**Modern India F22:** Topic 10 Books & Authors — never miss Firangiya → Manoranjan Prasad Sinha (RO-ARO) and standard freedom-struggle match titles.
+
+**UP Focus (Modern):** Awadh, Banaras/Chait Singh, Jhansi, 1857 centres (Kanpur, Lucknow, Meerut link).
+
+### Polity
+
+Chronology + comparison tables (Dyarchy vs Autonomy, Adoption vs Enforcement, borrowed features). Constitutional Development = Act/mission cards, **not** per-Act textbooks. Full PYQ protocol remains mandatory. **Practice ≥25**. CA for recent amendments/appointments when topic owns them.
+
+### Geography
+
+One teaching home per fact; avoid Overview + Teach + Exam Facts + Examples echo stacks. Full PYQ protocol. **Practice ≥25**. CA for census/ISFR/scheme updates when relevant.
+
+### Future subjects
+
+1. Create `00_Syllabus.md`
+2. Link this `prompt.md`
+3. One topic file per syllabus `##`
+4. One topic at a time
+5. Complete only when R-gates + F-gates pass (PYQ Bank complete; Practice ≥25; no repetition; CA when needed)
+
+---
