@@ -12,7 +12,7 @@ theme:
     - navigation.instant
     - navigation.tracking
     - navigation.tabs
-    - navigation.sections
+    - navigation.indexes
     - navigation.path
     - navigation.top
     - search.suggest
@@ -43,11 +43,6 @@ docs_dir: docs
 use_directory_urls: true
 
 exclude_docs: |
-  .github/**
-  active-recall-prompt/**
-  exports/**
-  pyq/**
-  README.md
   subjects/prompt.md
   subjects/**/_*/**
   subjects/**/_*.md
@@ -84,3 +79,4 @@ markdown_extensions:
 
 plugins:
   - search
+  - awesome-pages

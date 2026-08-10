@@ -26,11 +26,6 @@ jobs:
           python-version: '3.x'
       - name: Install MkDocs Material
         run: pip install -r requirements.txt
-      - name: Assemble study content
-        run: |
-          cp -R subjects docs/subjects
-          cp -R mains-pyqs docs/mains-pyqs
-          cp -R assets docs/assets
       - name: Build website
         run: mkdocs build
       - name: Configure GitHub Pages
