@@ -1,1252 +1,1157 @@
 # Topic 13 — Archaeology
-### ★ Complete Source of Truth — No other book/notes needed for this topic
-
-> **Covers syllabus:** Archaeological Sites | Excavations | Archaeological Sites of Uttar Pradesh | ASI | Carbon Dating | Stratigraphy  
-> **Sources baked in:** NCERT *Themes in Indian History* I (Ch 1–2), RS Sharma, ASI publications, excavation reports (Harappa, Sanauli, Kaushambi), UPPCS/UPSC PYQs  
-> **Exam weight:** ★★★ High — site ↔ state matching (2023 Q27, 2020 Q12), UP IVC trio (2025 Q87, 2018 Q88, 2021 Q100), archaeologist traps (2020 Q10 Wakankar)  
-> **Last verified:** July 2026
-
----
-
-## Quick Revision Box — Raata This First
-
-```
-ARCHAEOLOGY CORE:
-  Archaeology = study of past human societies through material remains (artefacts, structures, layers)
-  Excavation = systematic digging in strata | Stratigraphy = layer study (deeper = older)
-  Relative dating = stratigraphy + typology | Absolute dating = C-14 (organic only)
-
-UP IVC TRIO (★★★):
-  Alamgirpur (Meerut) = easternmost IVC in India ← 2023 Q28
-  Hulas (Baghpat) + Mandi (Bijnor) = UP Harappan ← 2018 Q88, 2025 Q87, 2021 Q100
-  Rakhigarhi = HARYANA (NOT UP) ← 2025 Q87 trap
-
-2023 Q27 SITE MATCH (Answer A):
-  Nevasa → Maharashtra (3) | Isampur → Karnataka (4)
-  Didwana → Rajasthan (1) | Gudiyam Cave → Tamil Nadu (2)
-
-2020 Q12 HARAPPAN MATCH (Answer D = 3-2-4-1):
-  Balu → Haryana | Manda → J&K | Padri → Gujarat | Hulas → UP
-
-ASI:
-  Founded 1861 | Alexander Cunningham = first DG
-  Marshall (1902–28) = IVC announcement 1924
-  Wheeler = post-Partition Harappa 1946; stratigraphic grid method
-  HQ: 24 Tilak Marg, New Delhi (NOT Lucknow)
-
-C-14 DATING:
-  Willard Libby (1949 Nobel) | Half-life ~5730 years
-  Works on organic material only (charcoal, bone, wood) — NOT stone/metal
-  Range ~50,000 years max | Revolutionized IVC chronology (~2600 BCE mature phase)
-
-KEY ARCHAEOLOGISTS:
-  Wakankar → Bhimbetka 1957–58 (2020 Q10 = C)
-  Sahni → Harappa 1921 | Banerjee → Mohenjo-daro 1922
-  Wheeler ≠ IVC discoverer (came 1946)
-
-UP NON-IVC SITES:
-  Sarnath (Varanasi) | Kaushambi (Prayagraj) | Hastinapur (Meerut)
-  Ahichchhatra (Bareilly) | Sanauli chariots 2018 (Baghpat)
-  Koldihwa/Mahagara (Belan Valley, UP)
-```
-
-### Must-Know Term Comparisons (very frequently asked)
-
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Archaeological site vs excavation** | Site = location with remains; excavation = active scientific digging at that site | पुरातात्विक स्थल / उत्खनन |
-| **Stratigraphy vs typology** | Stratigraphy = layer sequence (relative age); typology = artefact style change over time | स्तरिकी / प्रकारिकी |
-| **Relative vs absolute dating** | Relative = older/younger only (layers); absolute = calendar years (C-14, dendrochronology) | सापेक्ष / निरपेक्ष कालनिर्धारण |
-| **Rock shelter vs cave** | Rock shelter = natural overhang (Bhimbetka); cave = hollow (natural or carved) | शैल आश्रय / गुफा |
-| **Alamgirpur vs Rakhigarhi** | Alamgirpur = easternmost IVC (UP); Rakhigarhi = largest IVC (Haryana, NOT UP) | आलमगीरपुर / राखीगढ़ी |
-| **Hulas vs Lothal** | Hulas = eastern Harappan site (UP); Lothal = dockyard port (Gujarat) | हुलास / लोथल |
-| **Mandi vs Manda** | Mandi = Harappan site (UP, Bijnor); Manda = Harappan site (Jammu & Kashmir) | मंडी / मांडा |
-| **Marshall vs Wheeler** | Marshall = announced IVC 1924, DG ASI; Wheeler = post-1947 Harappa, grid stratigraphy | मार्शल / व्हीलर |
-| **Wakankar vs Sankalia** | Wakankar = Bhimbetka discoverer 1957–58; Sankalia = Deccan prehistory (Langhnaj etc.) | वाकणकर / संकलिया |
-| **C-14 vs thermoluminescence** | C-14 = organic samples; TL = fired pottery/minerals — different material limits | कार्बन-14 / तापप्रकाश |
-
-### Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **A-H-M = UP IVC** | Alamgirpur, Hulas, Mandi = Uttar Pradesh |
-| **Rakhigarhi = Haryana** | 2025 Q87 trap — never mark as UP |
-| **2023 Q27 = A** | Nevasa-MH, Isampur-KA, Didwana-RJ, Gudiyam-TN |
-| **2020 Q12 = D** | 3-2-4-1 (Balu-HR, Manda-J&K, Padri-GJ, Hulas-UP) |
-| **2020 Q10 = C** | Wakankar = Bhimbetka |
-| **2018 Q88 = D** | Only Alamgirpur + Hulas in UP |
-| **2025 Q87 = C** | Mandi + Hulas (1 and 3) |
-| **Deep = Old** | Law of superposition — bottom layer oldest |
-| **C-14 = Carbon life** | Organic only; 5730-year half-life |
-| **Cunningham 1861** | ASI birth year + first DG |
-
----
-
-## Exam Visuals — High-ROI Images
-
-> **Type priority:** location map → conceptual diagram. Images stored locally (`images/`) so they open offline.
-
-### 1. Archaeological Sites of Uttar Pradesh — Location Map
-
-![Map of Uttar Pradesh showing Alamgirpur, Hulas, Mandi, Sanauli, Kaushambi, Sarnath, Hastinapur and other key sites](images/up_archaeological_sites_map.png)
-
-*Raata **site ↔ district ↔ period**. **IVC**: Alamgirpur (Meerut, eastern boundary), Hulas (Baghpat), Mandi (Bijnor). **2025 Q87 trap**: Rakhigarhi = **Haryana**. **Sanauli** (Baghpat) = 2018 chariot burials. **Kaushambi** = Vatsa capital; **Sarnath** = Buddhist + Ashokan pillar.*
-*Source: Study map — generated for UPPCS UP site matching*
-
-### 2. Stratigraphy & Carbon-14 Dating — Conceptual Diagram
-
-![Diagram showing soil strata layers with law of superposition and Carbon-14 half-life decay curve](images/stratigraphy_carbon_dating_diagram.png)
-
-*Raata **method ↔ what it dates**. **Stratigraphy** = relative dating (deeper layer = older). **C-14** = absolute dating of **organic** samples only; half-life **~5730 years**. Trap: C-14 cannot date **stone tools or metal** directly.*
-*Source: Study diagram — generated for UPPCS archaeology concepts*
-
----
-
-## 13.1 Archaeological Sites
-
-### Definitions (learn all — exams pick different ones)
-
-| Term | Meaning |
-|------|---------|
-| **Archaeological Site** | Any location where physical evidence of past human activity survives — settlements, burials, factories, rock art, mounds |
-| **Mound (Tila/Tell)** | Artificial hill formed by successive habitation layers — e.g., Harappa mound, Hastinapur tila |
-| **Surface Survey** | Walking and recording artefacts on ground without digging — locates sites for excavation |
-| **Provenance** | Exact find-spot of an artefact — critical for dating and cultural attribution |
-
-### Archaeological Sites — How It Works
-
-- **Archaeology** reconstructs past societies from **material culture** such as pottery, tools, bones, buildings, pollen, and DNA, not from written records alone, especially for pre-3000 BCE India.
-- Sites are classified by **cultural period** (Paleolithic, Mesolithic, Neolithic, Chalcolithic, Harappan, Early Historic, Medieval) and **geographic zone** (Ganga plain, Deccan, northwest, coastal).
-- **Settlement sites** yield habitation floors, hearths, and post-holes. **Burial sites** yield grave goods such as Sanauli chariots, while **factory sites** yield workshop debris such as Chanhudaro bead-making remains.
-- **Rock shelters** such as Bhimbetka and Adamgarh differ from **limestone caves** such as Ajanta, and UPPCS tests the natural versus carved distinction.
-- **Site reports** published by ASI and universities serve as primary evidence because they record location, strata, artefact lists, and C-14 dates.
-- **Multi-period sites** show **cultural continuity or replacement**. Hastinapur has PGW and early historic layers, while Kaushambi has Mauryan through Gupta layers.
-- **Destroyed/reburied sites** survive as **mounds** in Indo-Gangetic alluvium, which explains why most ancient cities look like "hills" today.
-- **Underwater/coastal sites** such as Dwarka offshore and Poompuhar expand maritime archaeology and complement land sites.
-- **DNA/aDNA analysis** from skeletal remains (Rakhigarhi 2015–22) now supplements traditional artefact typology.
-
-> **Exam note:** UPPCS favourite = **site ↔ present state** matching (2023 Q27, 2020 Q12). Memorize **state first**, then cultural label.
-
-### Major Archaeological Sites by Period (India-wide)
-
-| # | Site | State | Period / Culture | Exam Tag |
-|---|------|-------|------------------|----------|
-| 1 | Bhimbetka | Madhya Pradesh | Paleolithic–Medieval rock art | Wakankar 2020 Q10 |
-| 2 | Nevasa | Maharashtra | Paleolithic (Pravara basin) | 2023 Q27 |
-| 3 | Isampur | Karnataka | Lower Paleolithic Acheulian | 2023 Q27 |
-| 4 | Didwana | Rajasthan | Paleolithic (Thar fringe) | 2023 Q27 |
-| 5 | Gudiyam Cave | Tamil Nadu | Paleolithic cave | 2023 Q27 |
-| 6 | Mehrgarh | Pakistan (Balochistan) | Neolithic–Chalcolithic precursor to IVC | Pre-Harappan |
-| 7 | Harappa | Pakistan (Punjab) | Mature Harappan | Sahni 1921 |
-| 8 | Mohenjo-daro | Pakistan (Sindh) | Mature Harappan | Banerjee 1922 |
-| 9 | Dholavira | Gujarat | Mature + Late Harappan | Water management |
-| 10 | Lothal | Gujarat | Harappan port/dockyard | NOT UP |
-| 11 | Rakhigarhi | Haryana | Largest IVC site | NOT UP trap |
-| 12 | Alamgirpur | Uttar Pradesh | Easternmost IVC (India) | 2023 Q28 |
-| 13 | Hastinapur | Uttar Pradesh | PGW + early historic | Kuru capital |
-| 14 | Kaushambi | Uttar Pradesh | Mauryan–Gupta urban | Vatsa capital |
-| 15 | Sarnath | Uttar Pradesh | Buddhist + Mauryan pillar | Lion Capital |
-| 16 | Arikamedu | Puducherry | Indo-Roman trade | Coastal factory |
-| 17 | Nagarjunakonda | Andhra Pradesh | Ikshvaku Buddhist | River valley |
-| 18 | Sanauli | Uttar Pradesh | Late Harappan/OCP chariots 2018 | Baghpat UP |
-
-### Exam Facts (raata)
-
-- Archaeological site = physical evidence of past human activity
-- 2023 Q27 tests Paleolithic/prehistoric site ↔ state matching
-- Bhimbetka is in MP, not UP, and Wakankar identified its prehistoric significance in 1957–58.
-- Isampur is in Karnataka, and Gudiyam is in Tamil Nadu.
-- Rakhigarhi is in Haryana and is the largest IVC site, not a UP site.
-- Multi-period mounds common in Ganga plain
-
-### PYQs — Archaeological Sites
-
-1. **(UPPCS Prelims 2023, Q27)** Match List-I with List-II:
-   - (A) Nevasa, (B) Isampur, (C) Didwana, and (D) Gudiyam Cave.
-   - 1. Rajasthan  2. Tamil Nadu  3. Maharashtra  4. Karnataka  
-   → **A — A-(3), B-(4), C-(1), D-(2).** Nevasa = Maharashtra; Isampur = Karnataka; Didwana = Rajasthan; Gudiyam Cave = Tamil Nadu.
-
-2. **(UPPCS Prelims 2020, Q10)** Which Indian archaeologist first visited Bhimbetka Caves and discovered prehistoric significance of rock paintings?  
-   A. Madho Swaroop Vatsa  B. H.D. Sankalia  C. V.S. Wakankar  D. V.N. Mishra  
-   → **C — V.S. Wakankar (1957–58).** Vatsa = Harappan; Sankalia = other prehistoric work.
-
-3. **(UPPCS Prelims 2022, Q68)** From which archaeological site of the Indus Valley Civilization are figures or models of boats found?  
-   A. Dholavira and Bhagatrav  B. Harappa and Kot Diji  C. Mohenjo-daro and Lothal  D. Kalibangan and Ropar  
-   → **C — Mohenjo-daro and Lothal.** Key archaeological finds from excavations.
-
-### Examples (13.1)
-
-| Example | Why exam-relevant |
-|---------|-------------------|
-| **Nevasa, Maharashtra** | 2023 Q27 List-I site — Pravara river Palaeolithic |
-| **Gudiyam Cave, Tamil Nadu** | 2023 Q27 — Palaeolithic cave near Chennai |
-| **Alamgirpur, UP** | Eastern boundary IVC — repeated UPPCS trap |
-
----
-
-## 13.2 Excavations
-
-### Definitions (learn all — exams pick different ones)
-
-| Term | Meaning |
-|------|---------|
-| **Excavation** | Controlled removal of soil in layers to expose and record structures and artefacts in situ |
-| **Trial Trench** | Small initial cut to judge site's depth and cultural sequence before full dig |
-| **In situ** | Artefact found in original deposited position — preserves stratigraphic context |
-| **Site Report** | Published excavation record — trench maps, layer descriptions, finds catalogue, dates |
-
-### Excavations — How It Works
-
-- **Excavation destroys context while revealing it**, so only **systematic, recorded** digging is scientifically valid. Looting removes provenance.
-- **Pre-excavation steps** move from survey to permission from ASI or State Archaeology, then to grid layout and trial trench.
-- The **Wheeler-Kenyon method** (balk-and-grid) leaves vertical **balks** between trenches to read **stratigraphy**. **Mortimer Wheeler** introduced it rigorously in Indian archaeology at Harappa in 1946.
-- **Horizontal excavation** exposes a single culture layer, such as one habitation floor. **Vertical excavation** cuts through all periods to establish chronology.
-- **Recording tools**: trench maps, photographs, section drawings, artefact bag labels with **locus/stratum number**.
-- **Key Indian excavations timeline** begins with Harappa in **1921** by Sahni, followed by Mohenjo-daro in **1922** by Banerjee, the IVC announcement in **1924** by Marshall, the Harappa re-dig in **1946** by Wheeler, Lothal in **1955–62** by S.R. Rao, Dholavira in the **1990s** by R.S. Bisht, and Sanauli in **2018** by ASI at Baghpat.
-- After Partition, the major IVC cities lay in Pakistan. Indian archaeology therefore focused on border-zone sites in **Gujarat, Haryana, Punjab (India), UP, and Rajasthan**.
-- **Underwater/marine excavation** at Dwarka and Poompuhar complements land digs for port history.
-- **Scientific analyses** on excavation finds: C-14, thermoluminescence, XRF on pottery, aDNA on bone.
-
-> **Exam note:** Trap — **"Wheeler discovered IVC"** = FALSE. Wheeler excavated Harappa **1946**; discovery credit = **Sahni 1921 + Banerjee 1922** under **Marshall**.
-
-### Major Excavations & Archaeologists (Master Table)
-
-| Year | Site | Archaeologist | Significance |
-|------|------|---------------|--------------|
-| 1861–62 | Sarnath, Sanchi, Bodh Gaya | Alexander Cunningham | Early systematic Buddhist site surveys; ASI founded |
-| 1921 | Harappa | Daya Ram Sahni | First major IVC excavation |
-| 1922 | Mohenjo-daro | R.D. Banerjee | Revealed urban IVC character |
-| 1924 | — | John Marshall (DG, ASI) | Announced "Indus Civilization" to world |
-| 1946 | Harappa | Mortimer Wheeler | Stratigraphic dating; post-Partition |
-| 1955–62 | Lothal | S.R. Rao | Dockyard identification |
-| 1957–58 | Bhimbetka | V.S. Wakankar | Prehistoric rock art discovery |
-| 1961–69 | Kalibangan | B.B. Lal | Pre-Harappan + Harappan ploughed field |
-| 1990s | Dholavira | R.S. Bisht | Water reservoirs, signboard |
-| 2015–22 | Rakhigarhi | Amarendra Nath / ASI | Largest IVC; aDNA studies |
-| 2018 | Sanauli | ASI (SK Manjul) | Copper chariot burials; Late Harappan/OCP, UP |
-
-### Exam Facts (raata)
-
-- Sahni excavated Harappa in 1921, and Banerjee excavated Mohenjo-daro in 1922.
-- Marshall announced the IVC in 1924 and served as DG ASI from 1902 to 1928.
-- Wheeler is linked with grid stratigraphy and the 1946 Harappa excavation.
-- S.R. Rao = Lothal dockyard excavation
-- Wakankar = Bhimbetka 1957–58
-- Sanauli 2018 = ASI Baghpat UP chariot burials
-- In situ context = scientific value of excavation
-
-### PYQs — Excavations
-
-1. **(UPPCS Prelims 2020, Q10)** Wakankar discovered Bhimbetka's prehistoric significance — see §13.1 for full question.  
-   → **C — V.S. Wakankar.**
-
-2. **(UPSC Prelims 2016 — pattern)** Mohenjo-daro was excavated by:  
-   A. Marshall  B. Wheeler  C. R.D. Banerjee  D. Sahni  
-   → **C — R.D. Banerjee (1922).** Marshall was DG; Wheeler came later.
-
-### Examples (13.2)
-
-| Example | Why exam-relevant |
-|---------|-------------------|
-| **Harappa 1921 — Sahni** | First IVC excavation — chronology trap vs Wheeler |
-| **Sanauli 2018 — ASI** | Recent UP excavation — chariots, OCP/Late Harappan |
-| **Kalibangan — B.B. Lal** | Ploughed field + fire altars — Rajasthan, NOT UP |
-
----
-
-## 13.3 Archaeological Sites of Uttar Pradesh
-
-### Definitions (learn all — exams pick different ones)
-
-| Term | Meaning |
-|------|---------|
-| **Archaeological Sites of UP** | Prehistoric through early historic locations in present Uttar Pradesh with excavated/remains evidence |
-| **Eastern IVC Extension** | Harappan settlements on eastern fringe — Alamgirpur, Hulas, Mandi |
-| **Doab Sites** | Ganga–Yamuna interfluve centres — Kaushambi, Hastinapur, Koldihwa |
-
-### Archaeological Sites of Uttar Pradesh — How It Works
-
-- **UP lies in the Ganga plain core** and has rich **multi-period** sites from Neolithic through Gupta-Buddhist layers.
-- **IVC eastern sites (★★★)**: **Alamgirpur** (Meerut, Hindon) = **easternmost** Harappan culture marker in India ← **2023 Q28 answer B**.
-- **Hulas** (Baghpat) was an eastern Harappan habitation site. It appears in **2018 Q88, 2025 Q87, and 2020 Q12**.
-- **Mandi** in Bijnor on the Ramganga is a UP Harappan site, as confirmed by **2021 Q100 answer D (Uttar Pradesh)**.
-- **Trap trio to reject for UP** includes **Rakhigarhi (Haryana), Kalibangan (Rajasthan), and Lothal (Gujarat)** because they appear as wrong options in UPPCS.
-- **Sanauli** (Baghpat, 2018) yielded **copper chariot burials** with antenna swords. It represents a Late Harappan/OCP overlap and is a high-yield current excavation.
-- **Neolithic/Chalcolithic UP** includes **Koldihwa and Mahagara** in the Belan Valley of Allahabad/Prayagraj district. These sites provide rice evidence, while **Lalitpur** is known for microliths.
-- **Early Historic/Mahajanapada**: **Kaushambi** (Vatsa capital), **Hastinapur** (Kuru), **Ahichchhatra** (Panchala, Bareilly), **Shravasti** (Kosala), **Kampilya** (Panchala).
-- **Buddhist/Mauryan UP** includes **Sarnath** with the first sermon site and Ashokan Lion Capital pillar, **Kushinagar** with the Mahaparinirvana site in the culturally Purvanchal zone, and **Rajghat** with the ancient Varanasi rampart.
-- **Prayagraj/Allahabad region** includes the **Kosam pillar**, which carries a Gupta inscription on an Ashokan pillar and creates an archaeological-artefact crossover.
-- In **western UP vs eastern UP**, IVC sites cluster around Meerut, Baghpat, and Bijnor. PGW/OCP evidence is stronger in the **doab/western UP** zone.
-
-> **Exam note:** **2018 Q88 = D (III, IV only)** — Alamgirpur + Hulas. **2025 Q87 = C (1 and 3)** — Mandi + Hulas; Rakhigarhi is trap. Never assume "biggest IVC site = UP."
-
-### Complete UP Archaeological Sites Table
-
-| # | Site | District / Region | Period | Key Find / Exam Tag |
-|---|------|-------------------|--------|---------------------|
-| 1 | Alamgirpur | Meerut | Mature Harappan | Easternmost IVC India — 2023 Q28 |
-| 2 | Hulas | Baghpat | Harappan | 2018 Q88, 2025 Q87, 2020 Q12 |
-| 3 | Mandi | Bijnor | Harappan | 2021 Q100, 2025 Q87 |
-| 4 | Sanauli | Baghpat | Late Harappan/OCP | Chariot burials 2018 |
-| 5 | Koldihwa | Prayagraj (Belan) | Neolithic | Early rice evidence |
-| 6 | Mahagara | Prayagraj (Belan) | Neolithic | Belan Valley culture |
-| 7 | Kaushambi | Prayagraj | Mauryan–Gupta | Vatsa mahajanapada capital |
-| 8 | Hastinapur | Meerut | PGW + early historic | Kuru capital mound |
-| 9 | Ahichchhatra | Bareilly | PGW + early historic | Panchala capital |
-| 10 | Sarnath | Varanasi | Mauryan–Gupta Buddhist | Lion Capital pillar |
-| 11 | Rajghat | Varanasi | Early historic | Ancient Kashi rampart |
-| 12 | Shravasti | Shravasti | Buddhist | Kosala capital (Sahet-Mahet) |
-| 13 | Kampilya | Farrukhabad | Mahajanapada | Panchala associated |
-| 14 | Atranjikhera | Etah (UP border) | PGW | Painted Grey Ware |
-
-### IVC Sites — UP vs Non-UP (Trap Shield)
-
-| Site | Present State | In UP? |
-|------|---------------|--------|
-| Alamgirpur | Uttar Pradesh | ✅ Yes |
-| Hulas | Uttar Pradesh | ✅ Yes |
-| Mandi | Uttar Pradesh | ✅ Yes |
-| Rakhigarhi | Haryana | ❌ No — 2025 trap |
-| Kalibangan | Rajasthan | ❌ No — 2018 trap |
-| Lothal | Gujarat | ❌ No — 2018 trap |
-| Balu | Haryana | ❌ No — 2020 Q12 |
-| Manda | Jammu & Kashmir | ❌ No — 2020 Q12 (not Mandi) |
-| Padri | Gujarat | ❌ No — 2020 Q12 |
-
-### Exam Facts (raata)
-
-- UP IVC trio: Alamgirpur, Hulas, Mandi
-- Alamgirpur = eastern boundary of Harappan culture (India)
-- 2018 Q88: only III (Alamgirpur) + IV (Hulas)
-- 2025 Q87: statements 1 (Mandi) + 3 (Hulas) correct
-- 2021 Q100: Mandi = Uttar Pradesh
-- Rakhigarhi is in Haryana and is the largest IVC site.
-- Sanauli 2018 = Baghpat chariot burials
-- Kaushambi = Vatsa capital excavations
-
-### PYQs — Archaeological Sites of Uttar Pradesh
-
-1. **(UPPCS Prelims 2025, Q87)** Which IVC sites are in present-day Uttar Pradesh? 1. Mandi  2. Rakhigarhi  3. Hulas  
-   → **C — 1 and 3 only.** Mandi + Hulas = UP. Rakhigarhi = Haryana.
-
-2. **(UPPCS Prelims 2018, Q88)** Which IVC centres are in Uttar Pradesh? I. Kalibangan  II. Lothal  III. Alamgirpur  IV. Hulas  
-   → **D — III and IV only.**
-
-3. **(UPPCS Prelims 2021, Q100)** In which State is Harappan site Mandi situated?  
-   A. Gujarat  B. Haryana  C. Rajasthan  D. Uttar Pradesh  
-   → **D — Uttar Pradesh (Bijnor).**
-
-4. **(UPPCS Prelims 2023, Q28)** Eastern boundary of Harappan culture indicated by:  
-   A. Harappa  B. Alamgirpur  C. Rakhigarhi  D. Manda  
-   → **B — Alamgirpur (UP).**
-
-5. **(UPPCS Prelims 2020, Q12)** Match Harappan Site ↔ State: A. Balu  B. Manda  C. Padri  D. Hulas → 1. UP  2. J&K  3. Haryana  4. Gujarat  
-   → **D — 3-2-4-1** (Balu-Haryana, Manda-J&K, Padri-Gujarat, Hulas-UP).
-
-### Examples (13.3)
-
-| Example | Why exam-relevant |
-|---------|-------------------|
-| **Alamgirpur, Meerut** | Easternmost IVC — 2023 Q28 |
-| **Mandi, Bijnor** | UP Harappan — 2021 Q100, 2025 Q87 |
-| **Sanauli, Baghpat** | 2018 ASI chariots — UP current excavation |
-
----
-
-## 13.4 ASI (Archaeological Survey of India)
-
-### Definitions (learn all — exams pick different ones)
-
-| Term | Meaning |
-|------|---------|
-| **ASI** | Archaeological Survey of India — apex body under Ministry of Culture for archaeological research, excavation, conservation |
-| **Director-General (DG)** | Head of ASI — Cunningham first DG (1861); Marshall oversaw IVC discovery |
-| **Protected Monument** | Site declared under Ancient Monuments and Archaeological Sites and Remains Act (AMASR) — ASI maintains |
-| **Circles** | Regional ASI offices (e.g., Agra Circle, Lucknow Circle) managing field operations |
-
-### ASI — How It Works
-
-- **Founded 1861** by **Lord Canning** (Viceroy), ASI had **Alexander Cunningham** as **first Director-General** and began systematic survey of Buddhist stupas, pillars, and coins.
-- **Cunningham's contribution** included identifying the **Sarnath Lion Capital** and mapping **Bharhut/Sanchi**. He used **Chinese pilgrim accounts** of Fa-Hien and Xuanzang to locate sites.
-- In the **1902 reorganization**, ASI became a permanent scientific department. **John Marshall** was appointed DG and later led the **Harappa/Mohenjo-daro** excavation phase.
-- During the **Marshall era (1902–1928)**, ASI announced the **Indus Valley Civilization (1924)**. Conservation of **Taj Mahal, Sanchi, and Ajanta** also began under modern principles.
-- **Mortimer Wheeler** served as DG ASI from **1944 to 1948**. He brought the **British stratigraphic grid method** and excavated **Harappa 1946**, **Taxila**, and **Arikamedu**.
-- After Independence, ASI was divided into **Circles** such as Agra, Patna, Jaipur, and Lucknow. Each circle oversees excavations and monument upkeep in its states.
-- **Functions today** include granting excavation licences, maintaining **3,600+ protected monuments**, publishing **Indian Archaeology: A Review** annually, and running museums such as Sarnath Museum.
-- **Headquarters** are at **24 Tilak Marg, New Delhi**. The exam trap is **not Lucknow**, because Lucknow has the State Museum and State Archaeology Department, not ASI headquarters.
-- The **legal framework** includes the **AMASR Act 1958** (amended 2010), which regulates digging near protected sites. The **Antiquities and Art Treasures Act 1972** controls export.
-- **ASI** is a Union body, while the **State Department of Archaeology** such as UP State Archaeology handles state-level sites. Both can excavate with permissions.
-
-> **Exam note:** Cunningham = **1861 + first DG**. Marshall = **IVC announcement 1924**. Trap: **"ASI HQ at Lucknow"** — false; HQ is **New Delhi**.
-
-### ASI Directors-General (High-Yield)
-
-| DG | Tenure | Key Contribution |
-|----|--------|------------------|
-| **Alexander Cunningham** | 1861–1888 (founding phase) | First systematic surveys; ASI establishment |
-| **John Marshall** | 1902–1928 | IVC discovery announcement 1924 |
-| **Rai Bahadur Daya Ram Sahni** | Excavator (not DG) | Harappa 1921 |
-| **Mortimer Wheeler** | 1944–1948 | Stratigraphic excavation method; Harappa 1946 |
-| **B.B. Lal** | DG 1968–1972 | Mahabharata archaeology; Kalibangan |
-
-### Exam Facts (raata)
-
-- ASI established 1861
-- Alexander Cunningham = first DG
-- Marshall = IVC announced 1924
-- Wheeler = grid stratigraphy + Harappa 1946
-- HQ = 24 Tilak Marg, New Delhi
-- AMASR Act 1958 protects monuments
-- Lucknow Circle exists but HQ ≠ Lucknow
-
-### PYQs — ASI
-
-1. **(UPSC Prelims 2015 — pattern)** The Archaeological Survey of India was founded in:  
-   A. 1858  B. 1861  C. 1902  D. 1924  
-   → **B — 1861.** 1902 = reorganization; 1924 = IVC announcement.
-
-2. **(UPSC Prelims 2014 — pattern)** Who among the following was the first Director-General of ASI?  
-   A. John Marshall  B. Alexander Cunningham  C. Mortimer Wheeler  D. B.B. Lal  
-   → **B — Alexander Cunningham.**
-
-### Examples (13.4)
-
-| Example | Why exam-relevant |
-|---------|-------------------|
-| **Cunningham at Sarnath, 1835–36** | Early survey locating Lion Capital |
-| **Marshall — IVC 1924** | ASI's greatest discovery announcement |
-| **Sanauli dig — ASI 2018** | Recent high-profile UP excavation |
-
----
-
-## 13.5 Carbon Dating
-
-### Definitions (learn all — exams pick different ones)
-
-| Term | Meaning |
-|------|---------|
-| **Carbon Dating (Radiocarbon Dating)** | Absolute dating method using decay of Carbon-14 isotope in organic material |
-| **C-14 (Radiocarbon)** | Radioactive isotope of carbon absorbed by living organisms from atmosphere; decays after death |
-| **Half-life** | Time for half the C-14 in a sample to decay — **~5730 years** for radiocarbon |
-| **BP (Before Present)** | Scientific date convention — "present" = 1950 CE (pre-bomb standard) |
-
-### Carbon Dating — How It Works
-
-- Living plants/animals maintain equilibrium **C-14/C-12 ratio** by exchanging carbon with atmosphere.
-- At **death**, C-14 intake stops and **radioactive decay** begins. Archaeologists measure the remaining C-14 to estimate age.
-- **Willard Libby** developed the method in the 1940s and won the **Nobel Prize in 1949**. Radiocarbon dating revolutionized archaeology worldwide.
-- **Half-life ~5730 +/- 40 years** means half the original C-14 remains after 5730 years. After 11,460 years, one quarter remains.
-- The **effective range** is roughly **100 to 50,000 years**. It is ideal for Upper Paleolithic through early historic material but becomes less reliable near its limits.
-- **Sample types** include **charcoal, wood, bone, shell, cloth, and seeds**. The sample must be **organic**, because **stone, metal, and fired brick** cannot be C-14 dated directly.
-- **Calibration** converts raw C-14 years through a **calibration curve** based on tree-ring data to calendar years, so 3000 BP may calibrate to about 1200 BCE.
-- **IVC impact** came from C-14 dates on charcoal, which pushed the mature Harappan phase to **c. 2600–1900 BCE** and replaced earlier guesses.
-- **Limitations**: **contamination** (modern carbon), **old wood effect** (reused timber), **marine reservoir effect** (seafood diet skew), **atomic bomb carbon** post-1950.
-- **Alternatives for non-organic material** include **thermoluminescence (TL)** for pottery, **potassium-argon** for volcanic rock, and **dendrochronology** for tree-ring calendar dating.
-
-> **Exam note:** Trap — **"C-14 dates stone tools"** = FALSE. Stone can only be dated **indirectly** if organic material found **in same layer**.
-
-### Dating Methods Comparison
-
-| Method | Material Dated | Age Range | Type |
-|--------|----------------|-----------|------|
-| **Stratigraphy** | Layers | Relative only | Relative |
-| **Typology** | Artefact style | Relative sequence | Relative |
-| **Carbon-14** | Organic (bone, charcoal) | ~100–50,000 years | Absolute |
-| **Dendrochronology** | Tree rings | Up to ~12,000 years | Absolute |
-| **Thermoluminescence** | Fired pottery/minerals | ~1,000–500,000 years | Absolute |
-| **Potassium-Argon** | Volcanic rock | Millions of years | Absolute |
-
-### Exam Facts (raata)
-
-- Libby won the Nobel Prize in 1949 for radiocarbon dating.
-- C-14 half-life ~5730 years
-- C-14 dates organic material only, not stone or metal.
-- Range ~50,000 years maximum
-- IVC chronology refined by C-14
-- BP = Before Present (1950 baseline)
-- Contamination = major error source
-
-### PYQs — Carbon Dating
-
-1. **(UPSC Prelims 2018 — pattern)** Carbon dating is used to determine the age of:  
-   A. Only rocks  B. Only organic materials  C. Only metals  D. All materials  
-   → **B — Only organic materials.**
-
-2. **(UPSC Prelims 2012 — pattern)** Radiocarbon dating technique was developed by:  
-   A. Willard Libby  B. Darwin  C. Wheeler  D. Marshall  
-   → **A — Willard Libby.**
-
-### Examples (13.5)
-
-| Example | Why exam-relevant |
-|---------|-------------------|
-| **Charcoal from Harappan hearth** | Standard C-14 sample for IVC dates |
-| **Bhimbetka organic pigment layers** | Dating rock shelter occupation |
-| **Sanauli wooden coffins/chariots** | Recent C-14 demand for OCP/Late Harappan |
-
----
-
-## 13.6 Stratigraphy
-
-### Definitions (learn all — exams pick different ones)
-
-| Term | Meaning |
-|------|---------|
-| **Stratigraphy** | Study of soil/rock layers (strata) in excavation — foundation of archaeological chronology |
-| **Law of Superposition** | In undisturbed sequence, **lower layers are older**, upper layers younger |
-| **Stratum (Strata)** | Single distinguishable layer — e.g., Stratum I (top), Stratum II, Stratum III (bottom) |
-| **Sterile Layer** | Deposit without human artefacts — marks abandonment or natural event between occupations |
-
-### Stratigraphy — How It Works
-
-- **Relative dating backbone** before C-14 used **layer order** and **pottery typology**.
-- **Law of Superposition** states that if Stratum III lies below Stratum II, Stratum III is older unless pits or rodents disturbed the sequence.
-- **Cultural strata** preserve each habitation phase through **distinct pottery, ash, and floors**, such as the PGW layer above the OCP layer at Hastinapur.
-- **Wheeler-Kenyon balk method** separates trenches by **vertical balks** that show a **clean section** of all layers side by side.
-- **Harris Matrix** diagrams show **logical relationships** between layers, including which layer cuts which, and prevent dating errors from intrusion pits.
-- **Intrusive features** such as **post-holes, burial pits, and robber trenches** cut through older layers and must be identified so chronology does not reverse.
-- **Natural strata** such as flood silt and volcanic ash can seal archaeological layers and serve as useful marker horizons.
-- **Typology linked to stratigraphy** means that if **Northern Black Polished Ware (NBPW)** always appears above **PGW** in the Ganga plain, pottery type confirms layer age.
-- **Superposition limits** include **bioturbation** from roots and worms, **ploughing**, and **modern pits**, all of which disturb order and require careful excavation records.
-- The **combined approach today** uses stratigraphy for **relative sequence** and C-14 from a specific stratum for an **absolute calendar date** for that phase.
-
-> **Exam note:** **"Deeper = older"** holds only in **undisturbed** deposits. Trap: **intrusive burial** can place younger objects below older ones.
-
-### Stratigraphy vs Other Relative Methods
-
-| Method | Principle | Example |
-|--------|-----------|---------|
-| **Superposition** | Lower layer = older | Stratum III below Stratum II |
-| **Association** | Objects in same layer = same age | Pottery + seal in one floor |
-| **Cross-dating** | Link to dated culture elsewhere | IVC seal in stratified Gulf site |
-| **Typology** | Style evolution over time | PGW → NBPW sequence in doab |
-
-### Exam Facts (raata)
-
-- Stratigraphy = study of layers
-- Law of superposition means deeper layers are older if the deposit is undisturbed.
-- Wheeler introduced rigorous section drawing in India
-- Relative dating provides sequence but not a calendar year by itself.
-- Combine with C-14 for absolute dates
-- Intrusive pits can violate superposition
-- Harris Matrix maps layer relationships
-
-### PYQs — Stratigraphy
-
-1. **(UPSC Prelims 2016 — pattern)** In archaeological excavation, the principle that lower deposits are earlier than those above is called:  
-   A. Law of Superposition  B. Uniformitarianism  C. Natural Selection  D. Typology  
-   → **A — Law of Superposition.**
-
-2. **(UPSC Prelims 2019 — pattern)** Stratigraphy is primarily used for:  
-   A. Absolute dating of metals  B. Relative dating through layer sequence  C. Chemical analysis of bones  D. Underwater excavation only  
-   → **B — Relative dating through layer sequence.**
-
-### Examples (13.6)
-
-| Example | Why exam-relevant |
-|---------|-------------------|
-| **Hastinapur PGW strata** | Classic Ganga plain layer sequence |
-| **Harappa Wheeler sections** | Post-1946 stratigraphic standard |
-| **Kaushambi Mauryan layers** | Multi-period UP site reading |
-
----
-
-## Consolidated Reference
-
-### UP Focus — Archaeology & Uttar Pradesh
-
-| Element | UP-specific detail |
-|---------|-------------------|
-| **IVC sites** | Alamgirpur (Meerut), Hulas (Baghpat), Mandi (Bijnor) — only these three for UP IVC |
-| **Recent excavation** | Sanauli 2018 (Baghpat) — chariot burials, ASI |
-| **Neolithic** | Koldihwa, Mahagara — Belan Valley (Prayagraj) |
-| **Mahajanapada capitals** | Kaushambi (Vatsa), Hastinapur (Kuru), Ahichchhatra (Panchala) |
-| **Buddhist/Mauryan** | Sarnath (Lion Capital), Kushinagar, Shravasti |
-| **Trap sites (NOT UP)** | Rakhigarhi (Haryana), Kalibangan (Rajasthan), Lothal (Gujarat) |
-| **Mandi vs Manda** | Mandi = UP (Bijnor); Manda = Jammu & Kashmir |
-| **ASI in UP** | Lucknow Circle; Sarnath Museum — but ASI HQ = New Delhi |
-| **District focus** | Meerut, Baghpat, Bijnor, Prayagraj, Varanasi, Bareilly |
-
-### Important Dates & Numbers
-
-| Date / Number | Event |
-|---------------|-------|
-| **1861** | ASI founded; Cunningham first DG |
-| **1902** | ASI reorganization; Marshall becomes DG |
-| **1921** | Harappa excavation — Sahni |
-| **1922** | Mohenjo-daro excavation — Banerjee |
-| **1924** | Marshall announces Indus Valley Civilization |
-| **1946** | Wheeler excavates Harappa — stratigraphic method |
-| **1949** | Willard Libby Nobel Prize — radiocarbon dating |
-| **1957–58** | Wakankar discovers Bhimbetka |
-| **5730 years** | C-14 half-life (approx.) |
-| **2018** | Sanauli chariot burials excavated (Baghpat, UP) |
-
-### Archaeologist ↔ Site Quick Match
-
-| Archaeologist | Site / Role |
-|---------------|-------------|
-| Alexander Cunningham | ASI founder; Sarnath survey |
-| Daya Ram Sahni | Harappa 1921 |
-| R.D. Banerjee | Mohenjo-daro 1922 |
-| John Marshall | DG ASI; IVC 1924 |
-| Mortimer Wheeler | Harappa 1946; stratigraphy |
-| V.S. Wakankar | Bhimbetka 1957–58 |
-| S.R. Rao | Lothal dockyard |
-| B.B. Lal | Kalibangan; DG ASI |
-| R.S. Bisht | Dholavira |
-| SK Manjul / ASI team | Sanauli 2018 |
-
----
-
-## Practice Zone — UPPCS Format Questions
-
-> **Answers hidden** — click *Show answer* under each question to reveal.
-
-**Q1.** Consider the following statements about Harappan sites in Uttar Pradesh (2025 Q87):
-
-1. Mandi (Bijnor) is a Harappan site in UP.
-2. Rakhigarhi is a Harappan site in Uttar Pradesh.
-3. Hulas (Baghpat) is a Harappan site in UP.
-
-Select the correct answer from the code given below:
-
-Options:
-A. 1 and 2 only
-B. 2 and 3 only
-C. 1 and 3 only
-D. 1, 2 and 3
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥42)
 
 <details>
-<summary>Show answer</summary>
+<summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-**Ans: C — 1 and 3 only** (2025 Q87). Mandi + Hulas = UP Harappan. **Rakhigarhi = Haryana** (largest IVC — NOT UP trap).
+ASI · Stratigraphy · Carbon Dating · Excavations · Archaeological Sites · Archaeological Sites of Uttar Pradesh
+
+Taught so the method comes before the site: who runs the dig → how layers and dates work → who dug what → site↔state matches → UP trio.
 
 </details>
 
-**Q2.** Match List-I with List-II (2023 Q27):
+> **Sources baked in:** ASI history, excavation reports, UPPCS Prelims 2018–2025  
+> **Exam weight:** ★★★ — UP IVC trio, 2023 site-state, Wakankar, 2020 Harappan match  
+> **Last verified:** August 2026  
+> **Current Affairs:** N/A — static methods. Sanauli 2018 is the recent dig lock.
 
-List-I (Site)
-A. Nevasa
-B. Isampur
-C. Didwana
-D. Gudiyam Cave
+---
 
-List-II (State)
-1. Rajasthan
-2. Tamil Nadu
-3. Maharashtra
-4. Karnataka
+## Quick Revision — Spine Only
 
-Options:
-A. A-(3), B-(4), C-(1), D-(2)
-B. A-(4), B-(3), C-(2), D-(1)
-C. A-(3), B-(1), C-(4), D-(2)
-D. A-(1), B-(2), C-(3), D-(4)
+```
+ASI 1861 | Cunningham first DG | Marshall announces IVC 1924 | Wheeler grid 1944–48
+HQ: 24 Tilak Marg, New Delhi | not Lucknow
 
-<details>
-<summary>Show answer</summary>
+Stratigraphy: deeper = older | balk-and-grid = Wheeler
+C-14: Libby | half-life ~5730 years | organic only | not stone, not metal
 
-**Ans: A — A-(3), B-(4), C-(1), D-(2)** (2023 Q27 = A). Nevasa-Maharashtra; Isampur-Karnataka; Didwana-Rajasthan; Gudiyam-Tamil Nadu.
+Sahni Harappa 1921 | Banerjee Mohenjo-daro 1922 | Marshall DG, not the trench man
+Wheeler Harappa 1946 | NOT the discoverer
+Wakankar Bhimbetka 1957–58 (2020 Q10 C)
+S.R. Rao Lothal | B.B. Lal Kalibangan | R.S. Bisht Dholavira
+Sanauli 2018 Baghpat | chariots | Late Harappan / OCP
 
-</details>
+2023 Q27: Nevasa-MH, Isampur-KA, Didwana-RJ, Gudiyam-TN = A
+2020 Q12: Balu-HR, Manda-J&K, Padri-GJ, Hulas-UP = D 3-2-4-1
+2023 Q28: eastern Harappan = Alamgirpur B
+2018 Q88: Alamgirpur + Hulas = D III, IV
+2021 Q100: Mandi = UP D (Bijnor)
+2025 Q87: Mandi + Hulas = C 1 and 3 | Rakhigarhi = Haryana trap
+Mandi (Bijnor UP) ≠ Manda (J&K)
+```
 
-**Q3.** Which Indian archaeologist first visited Bhimbetka and discovered the prehistoric significance of rock paintings?
+### Confused pairs
 
-Options:
-A. Madho Swaroop Vatsa
-B. H.D. Sankalia
-C. V.S. Wakankar
+| A | B | Difference | Hindi |
+|---|----|------------|-------|
+| Site | Excavation | Place with remains vs the **dig** | स्थल / उत्खनन |
+| Stratigraphy | C-14 | Relative (layers) vs **calendar years** | स्तरिकी / कार्बन-14 |
+| Relative | Absolute | Older/younger vs **5730-year** clock | सापेक्ष / निरपेक्ष |
+| Marshall | Wheeler | Announces IVC **1924** vs grid dig **1946** | मार्शल / व्हीलर |
+| Sahni | Banerjee | **Harappa 1921** vs **Mohenjo-daro 1922** | साहनी / बनर्जी |
+| Wakankar | Sankalia | **Bhimbetka** vs Deccan prehistory | वाकणकर / संकलिया |
+| Alamgirpur | Rakhigarhi | Easternmost **UP** vs largest **Haryana** | आलमगीरपुर / राखीगढ़ी |
+| Mandi | Manda | **Bijnor UP** vs **J&K** Chenab | मंडी / मांडा |
+| Hulas | Lothal | Baghpat **UP** vs Gujarat **dock** | हुलास / लोथल |
+| Rock shelter | Cave | Bhimbetka overhang vs hollow | शैल आश्रय / गुफा |
+| ASI HQ | Lucknow | **New Delhi** vs UP state archaeology | दिल्ली / लखनऊ |
+
+---
+
+## 13.1 ASI
+
+**Archaeological Survey of India | 1861 | Union body under Culture**
+
+- Founded **1861**. Viceroy **Canning**.
+- First Director-General: **Alexander Cunningham**.
+- Cunningham used Chinese pilgrim routes to hunt Buddhist sites (Sarnath, Sanchi, Bharhut).
+- **John Marshall** DG **1902–1928**. Makes ASI a standing scientific department.
+- Marshall **announces** the Indus civilization to the world in **1924**.
+- **Mortimer Wheeler** DG **1944–1948**. Brings the **balk-and-grid** method.
+- Wheeler digs Harappa **1946**. That is a re-dig, not the discovery.
+- HQ: **24 Tilak Marg, New Delhi**. Not Lucknow.
+- Lucknow has UP **State** Archaeology and the State Museum. Different office.
+- Law: **AMASR Act 1958**. Antiquities export: **1972** Act.
+- Journal: *Indian Archaeology — A Review*.
+- Field units are **Circles** (Agra, Lucknow, Patna…). Circles do not replace HQ.
+
+> **Exam note:** Cunningham founded the Survey. Marshall announced IVC. Wheeler did not discover it.
+
+---
+
+## 13.2 Stratigraphy
+
+**Layers in the trench | relative dating | deeper is older**
+
+- A habitation mound is a stack of floors, dumps and fills.
+- **Law of superposition:** the **bottom** layer is **older** than the top, if the stack is not flipped.
+- A **balk** is the uncut wall Wheeler leaves so you can still **read** the layers.
+- **Vertical** cut = all periods, one chronology.
+- **Horizontal** scrape = one floor, one culture.
+- **Typology** (pottery shape, tool type) sits beside layers. It is also relative.
+- Stratigraphy cannot give “2600 BCE” by itself. That needs an absolute clock.
+
+> **Exam note:** Deeper ≠ always older if a pit is cut down from a later floor. Read the section, not the depth number alone.
+
+---
+
+## 13.3 Carbon Dating
+
+**Absolute date | organic carbon only | Libby**
+
+- **Willard Libby**, 1949 Nobel path. Method in use from the late 1940s.
+- **Half-life** of C-14 ≈ **5730 years**.
+- Works on **charcoal, wood, bone, seed, shell**. Living things that took in carbon.
+- Does **not** date a stone tool or a copper sword by itself. Date the charcoal **with** it.
+- Useful range roughly to ~50,000 years. After that the leftover C-14 is too thin.
+- Fired pottery can use **thermoluminescence (TL)** instead. Different clock, different sample.
+- This is how Mature Harappan sits near **~2600–1900 BCE**, not “guesswork from bricks.”
+
+> **Exam note:** C-14 = organic. Stone handaxe ≠ a C-14 sample.
+
+---
+
+## 13.4 Excavations
+
+**Who opened which trench | discovery ≠ later re-dig**
+
+| Year | Site | Who | Lock |
+|------|------|-----|------|
+| 1863 | Pallavaram | **Robert Bruce Foote** | First recognised Indian Paleolithic tools |
+| 1921 | Harappa | **Daya Ram Sahni** | First big IVC dig |
+| 1922 | Mohenjo-daro | **R.D. Banerjee** | Urban IVC in the trench |
+| 1924 | — | **Marshall** (DG) | World announcement |
+| 1946 | Harappa | **Wheeler** | Grid stratigraphy |
+| 1955–62 | Lothal | **S.R. Rao** | Dockyard |
+| 1957–58 | Bhimbetka | **V.S. Wakankar** | Rock-art prehistory |
+| 1960s | Kalibangan | **B.B. Lal** | Ploughed field, fire altars |
+| 1990s | Dholavira | **R.S. Bisht** | Reservoirs, signboard |
+| 2018 | **Sanauli** (Baghpat) | ASI / **S.K. Manjul** | Copper chariots, coffins |
+
+- A find is useful only **in situ** (still in its layer). Looting kills the date.
+- After 1947 the two giant IVC cities are in Pakistan. Indian trenches shift to Gujarat, Haryana, Rajasthan, Punjab, **UP**.
+- Boat **models** come from **Mohenjo-daro and Lothal** (2022 Q68).
+
+**PYQ — UPPCS Prelims 2020, Q10**
+
+Which of the following Indian Archaeologists first visited 'Bhimbetka Caves' and discovered prehistoric significance of its rock paintings?
+
+A. Madho Swaroop Vatsa  
+B. H.D. Sankalia  
+C. V.S. Wakankar  
 D. V.N. Mishra
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C — V.S. Wakankar (1957–58)** (2020 Q10). Bhimbetka rock shelters, Madhya Pradesh — Paleolithic to medieval rock art.
+**Ans: C.** Vatsa = Harappan trenches. Sankalia = Deccan prehistory (Langhnaj). Bhimbetka is in **Madhya Pradesh**.
 
 </details>
 
-**Q4.** Consider the following statements about Alamgirpur:
+**PYQ — UPPCS Prelims 2022, Q68**
 
-1. Alamgirpur (Meerut) is the easternmost Harappan site in India.
-2. Alamgirpur is located in Uttar Pradesh.
+From which archaeological site of the Indus Valley Civilization are figures or models of boats found?
 
-Select the correct answer from the code given below:
-
-Options:
-A. Both 1 and 2
-B. Neither 1 nor 2
-C. Only 1
-D. Only 2
+A. Dholavira and Bhagatrav  
+B. Harappa and Kot Diji  
+C. Mohenjo-daro and Lothal  
+D. Kalibangan and Ropar
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A — Both correct** (2023 Q28). Eastern boundary marker of IVC in India; Meerut district, UP.
+**Ans: C.**
 
 </details>
 
-**Q5.** Given below are two statements:
+> **Exam note:** Wakankar ≠ Vatsa. Wheeler ≠ Sahni.
 
-Assertion (A): Carbon-14 dating can directly determine the age of Harappan stone tools and copper artefacts.
+---
 
-Reason (R): Carbon-14 dating works only on organic material such as charcoal, bone, and wood.
+## 13.5 Archaeological Sites
 
-Select the correct answer from the code given below:
+**Paper wants present state | two match-lists to freeze**
 
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+**2023 Q27 — prehistoric site → state**
+
+| Site | State |
+|------|--------|
+| **Nevasa** | **Maharashtra** (Pravara) |
+| **Isampur** | **Karnataka** (Acheulian) |
+| **Didwana** | **Rajasthan** (Thar fringe) |
+| **Gudiyam Cave** | **Tamil Nadu** |
+
+**PYQ — UPPCS Prelims 2023, Q27**
+
+Match List-I with List-II.
+
+A. Nevasa  B. Isampur  C. Didwana  D. Gudiyam Cave  
+1. Rajasthan  2. Tamil Nadu  3. Maharashtra  4. Karnataka
+
+A. A-3, B-4, C-1, D-2  B. A-4, B-3, C-1, D-2  C. A-3, B-4, C-2, D-1  D. A-3, B-2, C-4, D-1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D — A false, R true.** C-14 cannot date stone/metal directly — only organic samples from same stratigraphic layer.
+**Ans: A.**
 
 </details>
 
-**Q6.** Match List-I with List-II:
+**2020 Q12 — Harappan site → state**
 
-List-I (Archaeologist)
-A. V.S. Wakankar
-B. Daya Ram Sahni
-C. R.D. Banerjee
-D. Sir John Marshall
+| Site | State / UT |
+|------|------------|
+| **Balu** | **Haryana** |
+| **Manda** | **Jammu & Kashmir** |
+| **Padri** | **Gujarat** |
+| **Hulas** | **Uttar Pradesh** |
 
-List-II (Contribution)
-1. Announced IVC to world (1924) as ASI Director-General
-2. Bhimbetka rock shelter discovery (1957–58)
-3. Harappa excavation (1921)
-4. Mohenjo-daro excavation (1922)
+**PYQ — UPPCS Prelims 2020, Q12**
 
-Options:
-A. 2-3-4-1
-B. 3-4-2-1
-C. 2-4-3-1
-D. 1-2-3-4
+Match List-I (Harappan Site) with List-II (UT/State of India).
+
+A. Balu  B. Manda  C. Padri  D. Hulas  
+1. Uttar Pradesh  2. Jammu & Kashmir  3. Haryana  4. Gujarat
+
+A. 3 2 1 4  B. 2 3 4 1  C. 2 4 3 1  D. 3 2 4 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A — 2-3-4-1.** Wakankar-Bhimbetka; Sahni-Harappa 1921; Banerjee-Mohenjo-daro 1922; Marshall-IVC announcement 1924.
+**Ans: D — 3 2 4 1.**
 
 </details>
 
-**Q7.** Consider the following statements about stratigraphy:
+- Bhimbetka = **MP**. UNESCO rock shelters. Not a UP site.
+- Rakhigarhi = **Hisar, Haryana**. Largest IVC. **Not UP.**
+- Mehrgarh = Balochistan. Pre-Harappan farming. Not in India.
 
-1. The law of superposition states that lower/deeper strata are generally older.
-2. Stratigraphy provides relative dating (older/younger) but not absolute calendar years by itself.
+> **Exam note:** Manda ≠ Mandi. Padri ≠ Hulas.
 
-Select the correct answer from the code given below:
+---
 
-Options:
-A. Both 1 and 2
-B. Neither 1 nor 2
-C. Only 1
-D. Only 2
+## 13.6 Archaeological Sites of Uttar Pradesh
+
+**IVC east fringe + doab mounds + Buddhist/Mauryan**
+
+**UP Harappan trio (learn cold)**
+
+| Site | District | Lock |
+|------|----------|------|
+| **Alamgirpur** | Meerut (Hindon) | **Easternmost** IVC in India. **2023 Q28 = B** |
+| **Hulas** | Baghpat | 2018, 2020, 2025 |
+| **Mandi** | Bijnor (Ramganga) | **2021 Q100 = D.** **2025 Q87** |
+
+**Not UP — bait in those papers**
+
+| Site | Actual state |
+|------|----------------|
+| Rakhigarhi | Haryana |
+| Kalibangan | Rajasthan |
+| Lothal | Gujarat |
+| Balu | Haryana |
+| Manda | J&K |
+
+**Other UP trenches**
+
+- **Sanauli** (Baghpat, 2018): copper **chariots**, coffins, antenna swords. Late Harappan / OCP overlap. Same district as Hulas. Different period-label.
+- **Koldihwa** and **Mahagara** (Belan, Prayagraj): Neolithic. Early **rice** claim.
+- **Hastinapur** (Meerut): PGW + Kuru mound. Lal’s flood-layer story.
+- **Kaushambi** (Prayagraj): Vatsa capital. Mauryan–Gupta stack. The Allahabad pillar stone was moved from here.
+- **Ahichchhatra** (Bareilly): Panchala.
+- **Sarnath** (Varanasi): first sermon. Ashokan lion capital. Cunningham’s hunting ground.
+- **Rajghat**: old Kashi rampart.
+- **Shravasti** (Sahet-Mahet): Kosala / Jetavana.
+- **Atranjikhera** (Etah): PGW type-site.
+
+**PYQ — UPPCS Prelims 2025, Q87**
+
+Which of the following archaeological sites related to the Indus Valley Civilization are situated in present-day Uttar Pradesh?
+
+1. Mandi  2. Rakhigarhi  3. Hulas
+
+A. 1 and 2  B. Only 3  C. 1 and 3  D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A — Both correct.** Relative dating via layer sequence; absolute dates need C-14, dendrochronology, etc.
+**Ans: C.** Rakhigarhi is Haryana.
 
 </details>
 
-**Q8.** Given below are two statements:
+**PYQ — UPPCS Prelims 2023, Q28**
 
-Assertion (A): Rakhigarhi is the largest Indus Valley Civilization site and is located in Uttar Pradesh.
+The eastern boundary of the Harappan culture is indicated by which of the following?
 
-Reason (R): Rakhigarhi is in Haryana, while Mandi and Hulas are confirmed Harappan sites in UP.
-
-Select the correct answer from the code given below:
-
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+A. Harappa  B. Alamgirpur  C. Rakhigarhi  D. Manda
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D — A false, R true** (2025 Q87 trap). Rakhigarhi = Haryana (largest IVC); UP trio = Alamgirpur, Hulas, Mandi.
+**Ans: B.** Harappa is in Pakistan. Rakhigarhi is big, not east. Manda is north (J&K).
 
 </details>
 
-**Q9.** Match List-I with List-II (2020 Q12 Harappan site-state):
+**PYQ — UPPCS Prelims 2021, Q100**
 
-List-I (Site)
-A. Balu
-B. Manda
-C. Padri
-D. Hulas
+In which State of India is the Harappan Civilization site Mandi situated?
 
-List-II (State)
-1. Uttar Pradesh
-2. Jammu & Kashmir
-3. Haryana
-4. Gujarat
-
-Options:
-A. 3-2-4-1
-B. 2-3-1-4
-C. 4-1-3-2
-D. 1-4-2-3
+A. Gujarat  B. Haryana  C. Rajasthan  D. Uttar Pradesh
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A — 3-2-4-1** (2020 Q12 = D). Balu-Haryana; Manda-J&K; Padri-Gujarat; Hulas-UP. Trap: Manda ≠ Mandi.
+**Ans: D.** Bijnor.
 
 </details>
 
-**Q10.** Consider the following statements about Carbon-14 dating:
+**PYQ — UPPCS Prelims 2018, Q88**
 
-1. Willard Libby developed C-14 dating (Nobel Prize 1949).
-2. The half-life of Carbon-14 is approximately 5730 years.
+Which of the following centres related to Indus Valley are situated in Uttar Pradesh?
 
-Select the correct answer from the code given below:
+I. Kalibanga  II. Lothal  III. Alamgirpur  IV. Hulas
 
-Options:
-A. Both 1 and 2
-B. Neither 1 nor 2
-C. Only 1
-D. Only 2
+A. I, II, III, IV  B. I, II  C. II, III  D. III, IV
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A — Both correct.** C-14 revolutionized IVC chronology (~2600 BCE mature phase); range ~50,000 years max.
+**Ans: D.** Kalibangan = Rajasthan. Lothal = Gujarat.
 
 </details>
 
-**Q11.** Given below are two statements:
+> **Exam note:** Biggest IVC site is **not** automatically UP. Eastern end is **Alamgirpur**, not Rakhigarhi.
 
-Assertion (A): Bhimbetka rock shelters are located in Uttar Pradesh.
+---
 
-Reason (R): Bhimbetka is in Madhya Pradesh and was discovered by V.S. Wakankar in 1957–58.
+## UP Focus
 
-Select the correct answer from the code given below:
+UP site locks already sit in the table above. Extra traps:
 
-Options:
-A. Both (A) and (R) are true and (R) is the correct explanation of (A)
-B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
-C. (A) is true, but (R) is false
-D. (A) is false, but (R) is true
+| Trap | Fact |
+|------|------|
+| Bhimbetka in UP | **MP** |
+| ASI HQ Lucknow | **New Delhi** |
+| Sanauli = Mature Harappan dock | Late Harappan / OCP **chariots**, Baghpat |
+
+---
+
+## Practice Zone — UPPCS Format Drill
+
+**Q1.** Which IVC sites are in present-day Uttar Pradesh?
+
+1. Mandi  2. Rakhigarhi  3. Hulas
+
+A. 1 and 2  B. Only 3  C. 1 and 3  D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D — A false, R true** (2020 Q10). Bhimbetka = MP, NOT UP; Wakankar = discoverer of prehistoric rock art significance.
-
-</details>
-
-**Q12.** Match List-I with List-II (UP archaeological sites):
-
-List-I (Site)
-A. Kaushambi
-B. Sarnath
-C. Hastinapur
-D. Sanauli
-
-List-II (Significance)
-1. Vatsa mahajanapada capital; Mauryan-Gupta layers
-2. Buddhist site + Ashokan pillar; Lion Capital origin
-3. PGW + early historic; Kuru capital tradition
-4. 2018 chariot burials (Baghpat, UP)
-
-Options:
-A. 1-2-3-4
-B. 2-1-4-3
-C. 4-3-2-1
-D. 1-4-2-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — 1-2-3-4.** Kaushambi-Vatsa; Sarnath-Buddhist/Ashoka; Hastinapur-Kuru/PGW; Sanauli-chariots 2018 Baghpat.
-
-</details>
-
-**Q13.** Consider the following statements about the Archaeological Survey of India:
-
-1. ASI was founded in 1861 under Alexander Cunningham as first Director-General.
-2. Sir John Marshall announced the Indus Valley Civilization to the world in 1924.
-
-Select the correct answer from the code given below:
-
-Options:
-A. Both 1 and 2
-B. Neither 1 nor 2
-C. Only 1
-D. Only 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Both correct.** Cunningham 1861; Marshall DG 1902–28 — IVC announcement after Sahni/Banerjee excavations.
-
-</details>
-
-**Q14.** Sir Mortimer Wheeler is associated with:
-
-Options:
-A. Discovering Bhimbetka (1957–58)
-B. Post-1947 Harappa excavations and grid stratigraphy method
-C. First Harappa excavation (1921)
-D. Founding ASI in 1861
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Post-1947 Harappa + grid method.** Wheeler ≠ IVC discoverer (came 1946); Sahni/Banerjee = 1921–22.
-
-</details>
-
-**Q15.** Which site is the easternmost Harappan culture marker in India?
-
-Options:
-A. Rakhigarhi
-B. Alamgirpur
-C. Lothal
-D. Kalibangan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Alamgirpur (Meerut, UP)** (2023 Q28). NOT Rakhigarhi (Haryana, largest but western/northwest of Alamgirpur's eastern boundary role).
-
-</details>
-
-**Q16.** Mandi (Harappan site) is located in which UP district?
-
-Options:
-A. Meerut
-B. Baghpat
-C. Bijnor
-D. Varanasi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Bijnor** (2025 Q87, 2021 Q100). UP IVC trio: Alamgirpur (Meerut), Hulas (Baghpat), Mandi (Bijnor).
-
-</details>
-
-**Q17.** A rock shelter differs from a carved cave because:
-
-Options:
-A. Rock shelter is always man-made
-B. Rock shelter is a natural overhang; caves may be natural or carved
-C. Caves cannot contain prehistoric paintings
-D. Rock shelters exist only in Uttar Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Natural overhang vs hollow cave.** Bhimbetka = rock shelters (natural); Ajanta = carved caves — UPPCS tests this distinction.
-
-</details>
-
-**Q18.** Hulas is a Harappan site in:
-
-Options:
-A. Haryana
-B. Rajasthan
-C. Uttar Pradesh (Baghpat district)
-D. Gujarat
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — UP (Baghpat).** Appears in 2018 Q88, 2020 Q12, 2025 Q87 — eastern Harappan habitation in UP.
-
-</details>
-
-**Q19.** Thermoluminescence (TL) dating is useful for dating:
-
-Options:
-A. Organic charcoal exclusively
-B. Fired pottery and certain minerals (not organic material)
-C. Only metal coins
-D. Living plant tissue only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Fired pottery/minerals.** Complements C-14 (organic only); different material limits.
-
-</details>
-
-**Q20.** 2018 Q88 asked which Harappan sites are in UP — the correct pair was:
-
-Options:
-A. Rakhigarhi and Kalibangan
-B. Lothal and Dholavira
-C. Harappa and Mohenjo-daro
-D. Alamgirpur and Hulas only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Alamgirpur and Hulas** (2018 Q88). Mandi added in later questions; Rakhigarhi = Haryana trap.
-
-</details>
-
-**Q21.** Excavation at Harappa was first undertaken by:
-
-Options:
-A. R.D. Banerjee
-B. Daya Ram Sahni (1921)
-C. V.S. Wakankar
-D. Mortimer Wheeler
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Daya Ram Sahni (1921).** Banerjee = Mohenjo-daro 1922; Marshall announced IVC 1924 based on both.
-
-</details>
-
-**Q22.** The law of superposition in stratigraphy means:
-
-Options:
-A. Upper layers are always older than lower layers
-B. In undisturbed deposits, lower layers were deposited before upper layers
-C. All layers are exactly the same age
-D. Stone tools cannot be found in any layer
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Lower = older in undisturbed sequence.** Foundation of relative dating; "Deep = Old" mnemonic.
-
-</details>
-
-**Q23.** ASI headquarters is located at:
-
-Options:
-A. Lucknow, Uttar Pradesh
-B. 24 Tilak Marg, New Delhi
-C. Sarnath, Varanasi
-D. Bharatpur, Rajasthan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — 24 Tilak Marg, New Delhi.** NOT Lucknow (common UP trap).
-
-</details>
-
-**Q24.** Isampur (2023 Q27) is a Paleolithic site in:
-
-Options:
-A. Maharashtra
-B. Karnataka
-C. Tamil Nadu
-D. Rajasthan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Karnataka.** Lower Paleolithic Acheulian site; 2023 Q27 List-I match B-(4).
-
-</details>
-
-**Q25.** Gudiyam Cave (2023 Q27) is located in:
-
-Options:
-A. Karnataka
-B. Maharashtra
-C. Tamil Nadu
-D. Madhya Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Tamil Nadu.** Paleolithic cave near Chennai; 2023 Q27 pair D-(2).
-
-</details>
-
-**Q26.** Which dating method provides absolute calendar years from organic samples?
-
-Options:
-A. Typology alone
-B. Stratigraphy alone
-C. Carbon-14 (radiocarbon) dating
-D. Surface survey only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Carbon-14.** Absolute dating; stratigraphy/typology = relative (older/younger only).
-
-</details>
-
-**Q27.** Manda (Harappan site) should NOT be confused with Mandi (UP) because:
-
-Options:
-A. Both are in the same district
-B. Manda is in Jammu & Kashmir; Mandi is in Bijnor, UP
-C. Manda is in Gujarat; Mandi is in Rajasthan
-D. Both are Paleolithic rock art sites
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Manda = J&K; Mandi = Bijnor UP** (2020 Q12 trap). Similar names — different states and sites.
-
-</details>
-
-**Q28.** Nevasa (2023 Q27) is associated with:
-
-Options:
-A. Paleolithic site in Maharashtra (Pravara basin)
-B. Harappan dockyard in Gujarat
-C. Mauryan pillar at Sarnath
-D. Gupta gold coin hoard at Bayana
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Paleolithic, Maharashtra.** 2023 Q27 pair A-(3); Pravara river basin prehistoric site.
-
-</details>
-
-**Q29.** Multi-period archaeological mounds (tilas) in the Ganga plain often indicate:
-
-Options:
-A. Single-period occupation only
-B. Successive habitation layers showing cultural continuity or replacement
-C. Natural hills with no human activity
-D. Modern construction exclusively
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Successive habitation layers.** Hastinapur, Kaushambi show PGW + early historic + later periods in stratified mounds.
-
-</details>
-
-**Q30.** Didwana (2023 Q27) is a prehistoric site in:
-
-Options:
-A. Thar fringe of Rajasthan
-B. Meerut district of UP
-C. Malabar coast of Kerala
-D. Brahmagiri hills of Karnataka
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Rajasthan (Thar fringe).** Paleolithic site; 2023 Q27 pair C-(1).
+**Ans: C**
 
 </details>
 
 ---
 
+**Q2.** The eastern boundary of the Harappan culture is indicated by:
+
+A. Harappa  B. Alamgirpur  C. Rakhigarhi  D. Manda
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+---
+
+**Q3.** In which State is the Harappan site Mandi situated?
+
+A. Gujarat  B. Haryana  C. Rajasthan  D. Uttar Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+---
+
+**Q4.** Which Indus centres are in Uttar Pradesh?
+
+I. Kalibanga  II. Lothal  III. Alamgirpur  IV. Hulas
+
+A. I, II, III, IV  B. I, II  C. II, III  D. III, IV
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+---
+
+**Q5.** Match List-I with List-II:
+
+A. Nevasa  B. Isampur  C. Didwana  D. Gudiyam Cave  
+1. Rajasthan  2. Tamil Nadu  3. Maharashtra  4. Karnataka
+
+A. A-3, B-4, C-1, D-2  B. A-4, B-3, C-1, D-2  C. A-3, B-4, C-2, D-1  D. A-3, B-2, C-4, D-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
+**Q6.** Match List-I with List-II:
+
+A. Balu  B. Manda  C. Padri  D. Hulas  
+1. Uttar Pradesh  2. Jammu & Kashmir  3. Haryana  4. Gujarat
+
+A. 3 2 1 4  B. 2 3 4 1  C. 2 4 3 1  D. 3 2 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+---
+
+**Q7.** Who first visited Bhimbetka and showed the prehistoric meaning of its paintings?
+
+A. Madho Swaroop Vatsa  B. H.D. Sankalia  C. V.S. Wakankar  D. V.N. Mishra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
+**Q8.** Boat models of the IVC are found at:
+
+A. Dholavira and Bhagatrav  B. Harappa and Kot Diji  C. Mohenjo-daro and Lothal  D. Kalibangan and Ropar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
+**Q9.** Given below are two statements:
+
+**Assertion (A):** Daya Ram Sahni excavated Harappa in 1921.  
+**Reason (R):** Wheeler discovered the Indus civilization in 1946.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
+**Q10.** Which of the following statements is/are correct?
+
+1. C-14 dates organic charcoal and bone.  
+2. C-14 dates a stone handaxe directly.  
+3. Half-life is about 5730 years.
+
+A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+---
+
+**Q11.** Which one of the following pairs is **not** correctly matched?
+
+A. Alamgirpur — Meerut  
+B. Hulas — Baghpat  
+C. Mandi — Hisar  
+D. Sanauli — Baghpat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Mandi = Bijnor. Hisar = Rakhigarhi.
+
+</details>
+
+---
+
+**Q12.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|---------|
+| A. Cunningham | 1. Bhimbetka 1957–58 |
+| B. Marshall | 2. First DG, ASI 1861 |
+| C. Wakankar | 3. IVC announcement 1924 |
+
+A. 2 3 1  B. 3 2 1  C. 2 1 3  D. 1 3 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
+**Q13.** With reference to ASI, consider the following statements:
+
+1. Headquarters are at 24 Tilak Marg, New Delhi.  
+2. Lucknow is the national HQ because of Sarnath.  
+3. First DG is Alexander Cunningham.
+
+How many of the above statements are correct?  
+A. Only one  B. Only two  C. All three  D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — 1 and 3.
+
+</details>
+
+---
+
+**Q14.** Arrange:
+
+1. Wheeler at Harappa  
+2. Sahni at Harappa  
+3. ASI founded  
+4. Marshall’s IVC announcement
+
+A. 3–2–4–1  B. 3–4–2–1  C. 2–3–4–1  D. 3–2–1–4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — 1861 → 1921 → 1924 → 1946.
+
+</details>
+
+---
+
+**Q15.** Given below are two statements:
+
+**Assertion (A):** Stratigraphy gives relative order.  
+**Reason (R):** C-14 gives a calendar-style date on organic carbon.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+---
+
+**Q16.** Which of the following statements is/are correct?
+
+1. Mandi is in Bijnor, UP.  
+2. Manda is in Jammu & Kashmir.  
+3. Mandi and Manda are the same mound.
+
+A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
+**Q17.** Which one of the following pairs is **not** correctly matched?
+
+A. Nevasa — Maharashtra  
+B. Isampur — Karnataka  
+C. Didwana — Tamil Nadu  
+D. Gudiyam — Tamil Nadu
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Didwana = Rajasthan.
+
+</details>
+
+---
+
+**Q18.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|---------|
+| A. S.R. Rao | 1. Kalibangan |
+| B. B.B. Lal | 2. Lothal |
+| C. R.S. Bisht | 3. Dholavira |
+
+A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
+**Q19.** Which of the following statements is/are correct?
+
+1. Sanauli chariots are a 2018 Baghpat find.  
+2. Sanauli is the same as Mature Harappan Lothal dock.  
+3. Hulas is also in Baghpat.
+
+A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+---
+
+**Q20.** Given below are two statements:
+
+**Assertion (A):** 2025 Q87 answer is 1 and 3.  
+**Reason (R):** Rakhigarhi lies in Haryana.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
+**Q21.** With reference to C-14, consider the following statements:
+
+1. Libby developed the method.  
+2. Thermoluminescence is the same test on charcoal.  
+3. Pottery can be dated by TL.
+
+How many of the above statements are correct?  
+A. Only one  B. Only two  C. All three  D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — 1 and 3.
+
+</details>
+
+---
+
+**Q22.** Which one of the following pairs is **not** correctly matched?
+
+A. Banerjee — Mohenjo-daro 1922  
+B. Sahni — Harappa 1921  
+C. Wheeler — IVC announcement 1924  
+D. Foote — Pallavaram 1863
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
+**Q23.** Which of the following statements is/are correct?
+
+1. Superposition: bottom layer is older if the stack is unflipped.  
+2. A balk is left to read the section.  
+3. Stratigraphy alone prints the year 2600 BCE.
+
+A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
+**Q24.** Arrange these UP IVC papers by year:
+
+1. 2025 Mandi + Hulas  
+2. 2018 Alamgirpur + Hulas  
+3. 2021 Mandi = UP  
+4. 2023 Alamgirpur = east end
+
+A. 2–3–4–1  B. 2–4–3–1  C. 3–2–4–1  D. 2–3–1–4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
+**Q25.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|---------|
+| A. Kaushambi | 1. Kuru PGW mound |
+| B. Hastinapur | 2. Vatsa capital |
+| C. Ahichchhatra | 3. Panchala |
+
+A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
+**Q26.** Given below are two statements:
+
+**Assertion (A):** 2020 Q12 code is 3-2-4-1.  
+**Reason (R):** Hulas is in Gujarat.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Hulas = UP. Padri = Gujarat.
+
+</details>
+
+---
+
+**Q27.** Which of the following statements is/are correct?
+
+1. Bhimbetka is in Madhya Pradesh.  
+2. Wakankar showed its prehistoric rock art.  
+3. Bhimbetka is an eastern IVC site in Meerut.
+
+A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
+**Q28.** Which one of the following pairs is **not** correctly matched?
+
+A. Padri — Gujarat  
+B. Balu — Haryana  
+C. Manda — Uttar Pradesh  
+D. Hulas — Uttar Pradesh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
+**Q29.** With reference to Sarnath, consider the following statements:
+
+1. Cunningham surveyed it in the ASI’s early years.  
+2. The lion capital is Ashokan.  
+3. It is the easternmost Harappan site.
+
+How many of the above statements are correct?  
+A. Only one  B. Only two  C. All three  D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — 1 and 2.
+
+</details>
+
+---
+
+**Q30.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|---------|
+| A. Koldihwa | 1. Chariots 2018 |
+| B. Sanauli | 2. Belan Neolithic rice |
+| C. Alamgirpur | 3. Eastern IVC |
+
+A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
+**Q31.** Given below are two statements:
+
+**Assertion (A):** AMASR Act 1958 protects monuments.  
+**Reason (R):** ASI is a state department of Uttar Pradesh only.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
+**Q32.** Which of the following statements is/are correct?
+
+1. 2018 Q88 excludes Kalibangan and Lothal from UP.  
+2. 2023 Q28 is Alamgirpur, not Manda.  
+3. Manda marks the eastern Harappan boundary.
+
+A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Manda = north (J&K).
+
+</details>
+
+---
+
+**Q33.** Arrange:
+
+1. Wakankar at Bhimbetka  
+2. Foote at Pallavaram  
+3. Sanauli chariots  
+4. Banerjee at Mohenjo-daro
+
+A. 2–4–1–3  B. 2–1–4–3  C. 4–2–1–3  D. 2–4–3–1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — 1863 → 1922 → 1957–58 → 2018.
+
+</details>
+
+---
+
+**Q34.** Which one of the following pairs is **not** correctly matched?
+
+A. Wheeler — balk-and-grid  
+B. Libby — C-14  
+C. Vatsa — Bhimbetka rock art  
+D. Manjul / ASI — Sanauli
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
+**Q35.** Which of the following statements is/are correct?
+
+1. A find in situ keeps its layer.  
+2. Looting destroys provenance.  
+3. Horizontal excavation is the only way to get a C-14 date.
+
+A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
+**Q36.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|---------|
+| A. Rakhigarhi | 1. Gujarat dock |
+| B. Lothal | 2. Haryana, largest IVC |
+| C. Kalibangan | 3. Rajasthan |
+
+A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
+**Q37.** Given below are two statements:
+
+**Assertion (A):** 2023 Q27 answer is A.  
+**Reason (R):** Gudiyam Cave is in Karnataka.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Gudiyam = Tamil Nadu. Isampur = Karnataka.
+
+</details>
+
+---
+
+**Q38.** With reference to UP mounds, consider the following statements:
+
+1. Hastinapur is a PGW / Kuru site in Meerut.  
+2. Kaushambi is the Vatsa capital near Prayagraj.  
+3. Ahichchhatra is in Gujarat.
+
+How many of the above statements are correct?  
+A. Only one  B. Only two  C. All three  D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — 1 and 2. Ahichchhatra = Bareilly.
+
+</details>
+
+---
+
+**Q39.** Which of the following statements is/are correct?
+
+1. ASI Circles are field offices.  
+2. They replace the New Delhi HQ.  
+3. Cunningham used pilgrim itineraries to find Buddhist sites.
+
+A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+---
+
+**Q40.** Which one of the following pairs is **not** correctly matched?
+
+A. 2021 Q100 — Mandi in UP  
+B. 2020 Q10 — Wakankar  
+C. 2023 Q28 — Rakhigarhi as east end  
+D. 2018 Q88 — Alamgirpur and Hulas
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
+**Q41.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|---------|
+| A. Shravasti | 1. First sermon / lion capital |
+| B. Sarnath | 2. Sahet-Mahet, Kosala |
+| C. Rajghat | 3. Old Kashi rampart |
+
+A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
+**Q42.** Given below are two statements:
+
+**Assertion (A):** C-14 cannot date a copper chariot metal by itself.  
+**Reason (R):** The clock needs organic carbon that once lived.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
 
 ## Complete PYQ Bank (Topic 13)
 
-> **Answers hidden** — click *Show answer* under each question to reveal.
-
+> Full UPPCS Prelims hits 2018–2025 mapped here. Answers hidden. Newest first.
 
 ### UPPCS Prelims 2025
 
-**Q87.** Which IVC sites are in present-day Uttar Pradesh? 1. Mandi  2. Rakhigarhi  3. Hulas
+**Q1. UPPCS Prelims 2025, Q87**
+
+Which of the following archaeological sites related to the Indus Valley Civilization are situated in present-day Uttar Pradesh?
+
+1. Mandi  2. Rakhigarhi  3. Hulas
+
+A. 1 and 2  B. Only 3  C. 1 and 3  D. Only 1
 
 <details>
 <summary>Show answer</summary>
-**C — 1 and 3 only.** Mandi + Hulas = UP. Rakhigarhi = Haryana trap.
+
+**Ans: C.**
+
 </details>
+
+### UPPCS Prelims 2024
+
+No extra GS-I archaeology-method / site-state hit after keyword search.
 
 ### UPPCS Prelims 2023
 
-**Q27.** Match: (A) Nevasa (B) Isampur (C) Didwana (D) Gudiyam Cave ↔ 1. Rajasthan 2. Tamil Nadu 3. Maharashtra 4. Karnataka
+**Q2. UPPCS Prelims 2023, Q27**
+
+Match List-I with List-II.
+
+A. Nevasa  B. Isampur  C. Didwana  D. Gudiyam Cave  
+1. Rajasthan  2. Tamil Nadu  3. Maharashtra  4. Karnataka
+
+A. A-3, B-4, C-1, D-2  B. A-4, B-3, C-1, D-2  C. A-3, B-4, C-2, D-1  D. A-3, B-2, C-4, D-1
 
 <details>
 <summary>Show answer</summary>
-**A — A-(3), B-(4), C-(1), D-(2).**
+
+**Ans: A.**
+
 </details>
 
-**Q28.** Eastern boundary of Harappan culture indicated by: A. Harappa  B. Alamgirpur  C. Rakhigarhi  D. Manda
+**Q3. UPPCS Prelims 2023, Q28**
+
+The eastern boundary of the Harappan culture is indicated by which of the following?
+
+A. Harappa  B. Alamgirpur  C. Rakhigarhi  D. Manda
 
 <details>
 <summary>Show answer</summary>
-**B — Alamgirpur (UP).**
-</details>
 
-### UPPCS Prelims 2021
+**Ans: B.**
 
-**Q100.** Harappan site Mandi is in which State? A. Gujarat  B. Haryana  C. Rajasthan  D. Uttar Pradesh
-
-<details>
-<summary>Show answer</summary>
-**D — Uttar Pradesh (Bijnor).**
-</details>
-
-### UPPCS Prelims 2020
-
-**Q10.** Bhimbetka prehistoric significance discovered by: A. Madho Swaroop Vatsa  B. H.D. Sankalia  C. V.S. Wakankar  D. V.N. Mishra
-
-<details>
-<summary>Show answer</summary>
-**C — V.S. Wakankar (1957–58).**
-</details>
-
-**Q12.** Match: A. Balu  B. Manda  C. Padri  D. Hulas ↔ 1. UP  2. J&K  3. Haryana  4. Gujarat
-
-<details>
-<summary>Show answer</summary>
-**D — 3-2-4-1** (Balu-Haryana, Manda-J&K, Padri-Gujarat, Hulas-UP).
-</details>
-
-### UPPCS Prelims 2018
-
-**Q88.** IVC centres in Uttar Pradesh? I. Kalibangan  II. Lothal  III. Alamgirpur  IV. Hulas
-
-<details>
-<summary>Show answer</summary>
-**D — III and IV only** (Alamgirpur + Hulas).
 </details>
 
 ### UPPCS Prelims 2022
 
-**Q68.** From which IVC archaeological sites are boat figures/models found?
+**Q4. UPPCS Prelims 2022, Q68** — boat models → **C Mohenjo-daro and Lothal.**
 
-<details>
-<summary>Show answer</summary>
-**C — Mohenjo-daro and Lothal.**
-</details>
+### UPPCS Prelims 2021
 
-### UPSC Pattern (Concept Overlap)
+**Q5. UPPCS Prelims 2021, Q100** — Mandi situated in → **D Uttar Pradesh.**
 
-**Pattern — C-14:** Organic material only; Libby Nobel 1949.
+### UPPCS Prelims 2020
 
-**Pattern — Superposition:** Lower stratum = older in undisturbed deposits.
+**Q6. UPPCS Prelims 2020, Q10** — Bhimbetka first visitor → **C V.S. Wakankar.**
 
-**Pattern — ASI:** Founded 1861; Cunningham first DG; Marshall IVC 1924.
+**Q7. UPPCS Prelims 2020, Q12** — Balu / Manda / Padri / Hulas → **D 3-2-4-1.**
+
+### UPPCS Prelims 2019
+
+No further GS-I archaeology hit after keyword search.
+
+### UPPCS Prelims 2018
+
+**Q8. UPPCS Prelims 2018, Q88** — IVC centres in UP → **D III and IV** (Alamgirpur, Hulas).
 
 ---
 
 ## Common Traps — Don't Fall For These
 
-1. **Rakhigarhi = Haryana** — NOT UP (2025 Q87 trap statement 2).
-2. **Alamgirpur = easternmost IVC** — NOT Rakhigarhi (2023 Q28 answer B).
-3. **2018 Q88 = only Alamgirpur + Hulas** — Kalibangan/Lothal wrong.
-4. **Mandi (UP) ≠ Manda (J&K)** — 2020 Q12 tests both names.
-5. **Hulas = UP** — NOT Gujarat (2020 Q12 pairs Hulas with UP = option 1).
-6. **Wakankar = Bhimbetka** — NOT Sankalia/Vatsa (2020 Q10).
-7. **Wheeler did NOT discover IVC** — Sahni 1921 + Banerjee 1922; Wheeler came 1946.
-8. **Marshall announced IVC 1924** — he did not excavate Harappa first.
-9. **C-14 = organic only** — cannot date stone tools or metal directly.
-10. **Stratigraphy = relative dating** — not calendar years alone.
-11. **ASI HQ = New Delhi** — NOT Lucknow (Lucknow has Circle/Museum only).
-12. **Isampur = Karnataka** — NOT Tamil Nadu (2023 Q27 trap option D-(3) for Isampur).
-13. **Bhimbetka = MP** — discovered by Wakankar; not a UP site.
-14. **Sanauli = Baghpat UP** — do not confuse with Sarnath (Varanasi).
-15. **Balu = Haryana** — 2020 Q12; not Rajasthan or UP.
-
----
+1. **Rakhigarhi = UP** → **Haryana**. 2025 bait.
+2. **Biggest IVC = eastern boundary** → east end is **Alamgirpur**.
+3. **Mandi = Manda** → Bijnor UP vs **J&K**.
+4. **Hulas = Gujarat** → **Baghpat, UP**. Padri is Gujarat.
+5. **Kalibangan / Lothal = UP** → Rajasthan / Gujarat (2018).
+6. **Wheeler discovered IVC** → Sahni + Banerjee under **Marshall 1924**. Wheeler = 1946 grid.
+7. **Marshall dug every trench** → he is the **DG** who announced.
+8. **Wakankar = Vatsa** → Vatsa is Harappan. Wakankar = **Bhimbetka**.
+9. **Bhimbetka = UP** → **MP**.
+10. **C-14 dates stone / copper** → **organic** only.
+11. **ASI HQ = Lucknow** → **New Delhi**.
+12. **Sanauli = Lothal dock** → Baghpat **chariots**, Late Harappan / OCP.
+13. **Didwana = Tamil Nadu** → **Rajasthan**. Gudiyam = TN.
+14. **Isampur = Maharashtra** → **Karnataka**. Nevasa = MH.
+15. **Manda = eastern Harappan** → **north** (J&K). East = Alamgirpur.

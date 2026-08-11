@@ -1,1432 +1,970 @@
 # Topic 12 — Sculpture
-### ★ Complete Source of Truth — No other book/notes needed for this topic
+### ★ UPPCS Revision Sheet — heading → identity line → exam bullets (tables only for confused pairs)
 
-> **Covers syllabus:** Indian Sculpture | Gupta Sculpture | Buddhist Sculpture | Temple Sculpture | Stone Sculpture | Bronze Sculpture | Gandhara School | Mathura School | Amaravati School  
-> **Sources baked in:** NCERT An Introduction to Indian Art (Class 11), Themes in Indian History I, ASI publications, UPPCS/UPSC PYQs  
-> **Exam weight:** ★★★ Very High — school ↔ region ↔ material matching, Gupta Buddha, Chola Nataraja, Gandhara-Mathura traps  
-> **Last verified:** July 2026
+<details>
+<summary><strong>Covers syllabus</strong> (click to expand)</summary>
+
+Indian Sculpture | Gupta Sculpture | Buddhist Sculpture | Temple Sculpture | Stone Sculpture | Bronze Sculpture | Gandhara School | Mathura School | Amaravati School
+
+</details>
+
+> **Sources baked in:** NCERT An Introduction to Indian Art (Class 11), Themes I, UPPCS Prelims 2018–2025  
+> **Exam weight:** ★★★ — school ↔ stone ↔ region, Gupta Sarnath Buddha, Chola Nataraja, Aryaka-pillars  
+> **Last verified:** August 2026  
+> **Current Affairs:** Sarnath UNESCO WHS **2026** (Lion Capital + Gupta Buddha site). No new school-material lock.
 
 ---
 
-## Quick Revision Box — Raata This First
+## Quick Revision — Spine Only
 
 ```
-SCULPTURE TIMELINE:
-  Harappan bronze (c. 2500 BCE) → Mauryan polish (3rd c. BCE) → Shunga reliefs (Bharhut, Sanchi)
-  → Kushan schools (Gandhara NW + Mathura UP) → Amaravati (Andhra) → Gupta classical (4th–6th c.)
-  → Medieval temple sculpture (Khajuraho, Konark, Hoysala) → Chola bronze Nataraja (9th–13th c.)
-
-THREE BUDDHIST-JAIN SCHOOLS (region trap):
-  Gandhara — NW (Pakistan-Afghanistan) | grey schist | Greco-Roman Buddha
-  Mathura — UP | red sandstone | indigenous Indian Buddha + Jain Tirthankaras
-  Amaravati — Andhra | white limestone | dynamic narrative stupa panels
-
-GUPTA SCULPTURE:
-  Sarnath Buddha — dharmachakra mudra, transparent sanghati, spiritual calm
-  Deogarh Vishnu panels | Udayagiri Varaha (Chandragupta II)
-
-BUDDHIST SCULPTURE:
-  Aniconic (wheel, throne, tree) → Iconic (standing/seated Buddha after Kushan)
-  Bharhut + Sanchi toranas = narrative relief | Amaravati = human Buddha in motion
-
-TEMPLE SCULPTURE:
-  Khajuraho (Chandella) — Nagara shikhara + mithuna panels
-  Konark (Odisha) — Sun temple wheels, horses, colossal stone
-  Mahabalipuram (Pallava) — rock reliefs | Hoysala — soapstone micro-carving
-  Chola — granite temple + bronze Nataraja (lost-wax)
-
-STONE vs BRONZE:
-  Stone — Chunar sandstone (Mauryan polish UP), Mathura red sandstone, Gandhara schist
-  Bronze — lost-wax (cire perdue): Dancing Girl (IVC), Chola Nataraja, Pallava icons
-
-UP TRAPS:
-  Mathura + Sarnath = UP sculpture centres | Chunar sandstone = Mauryan pillars
-  Didarganj Yakshi (Patna museum) — Mauryan polish style | Rakhigarhi ≠ UP (2025 Q87)
+TIMELINE: IVC bronze → Mauryan polish → Bharhut/Sanchi relief → Kushan Gandhara+Mathura → Amaravati → Gupta Sarnath → temple walls → Chola bronze
+SCHOOLS: Gandhara grey schist Greco-Roman NW | Mathura red sandstone indigenous UP | Amaravati limestone Andhra narrative
+GUPTA: Sarnath Buddha dharmachakra, transparent robe, calm | Udayagiri Varaha | Deogarh Vishnu
+BUDDHIST: Aniconic wheel/tree/throne → iconic Kushan human Buddha | Mudras: dharmachakra, bhumisparsha, abhaya, dhyana, varada
+TEMPLE: Khajuraho Chandela mithuna | Konark 24 wheels 7 horses | Mahabalipuram Pallava relief | Hoysala soapstone
+STONE: Chunar polish UP | Mathura red | Gandhara schist | Amaravati lime | Hoysala chloritic schist | South granite
+BRONZE: Dancing Girl lost-wax | Chola Nataraja | Pala Buddhist | Dhokra tribal ≠ Chola
+NATARAJA: damaru + fire + abhaya + gajahasta | right foot on Apasmara | prabhamandala
+UP: Mathura school | Sarnath Lion Capital + Gupta Buddha | Chunar | Ahichhatra terracotta
 ```
 
-### Must-Know Term Comparisons (very frequently asked)
+- Gandhara ≠ Mathura stone.
+- Bharhut is **Shunga**, not Mauryan.
+- Early Sanchi is **aniconic**.
 
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Gandhara vs Mathura** | Greco-Roman grey schist Apollo-face Buddha (NW) vs indigenous red sandstone Buddha/Jain art (UP) | गांधार / मथुरा |
-| **Gandhara vs Amaravati** | Hellenistic standing Bodhisattva schist vs flowing limestone narrative panels (Andhra) | गांधार / अमरावती |
-| **Mathura vs Gupta Sarnath** | Kushan bold volume red sandstone vs refined spiritual idealism + transparent drapery | मथुरा / सारनाथ गुप्त |
-| **Aniconic vs Iconic Buddha** | Symbols only (wheel, footprints, throne) vs anthropomorphic Buddha image after Kushan | अनिकोनिक / आइकोनिक |
-| **Stupa relief vs Temple sculpture** | Narrative panels on railings/toranas (Bharhut, Sanchi) vs deity/icon on temple walls/shrines | स्तूप रilievo / मंदिर मूर्ति |
-| **Stone vs Bronze casting** | Carved/chiselled solid stone vs hollow lost-wax molten metal pour | पत्थर / कांस्य ढलाई |
-| **Mauryan polish vs Gupta finish** | Mirror-like Chunar sandstone surface (unique Mauryan) vs smooth spiritual modelling without heavy polish | मौर्य polish / गुप्त शैली |
-| **Chola Nataraja vs IVC Dancing Girl** | Medieval Shiva cosmic dance bronze (lost-wax, ring of fire) vs prehistoric Mohenjo-daro statuette | नटराज / नृत्य करती लड़की |
-| **Narrative relief vs Rounded sculpture** | Flat story panels (Amaravati, Bharhut) vs three-dimensional free-standing icons (Mathura Buddha) | कथा-पट्ट / प्रतिमा |
-| **Dhokra vs Chola bronze** | Tribal hollow bell-metal craft (Chhattisgarh-Odisha) vs classical South Indian lost-wax temple bronzes | ढोकरा / चोल कांस्य |
+### Confused pairs
 
-### Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **G-M-A-G chronology** | **G**andhara → **M**athura → **A**maravati → **G**upta (NW → UP → South → classical) |
-| **Gandhara = Greece** | Greco-Roman wavy hair, toga-robe, schist, Northwest |
-| **Mathura = Red UP** | Red spotted sandstone, indigenous, Jain + Buddhist |
-| **Amaravati = Andhra Lime** | White limestone, dynamic movement, Godavari region |
-| **Sarnath = Emblem** | Lion Capital + Gupta Buddha both at **Sarnath, UP** |
-| **Dancing Girl = Bronze** | Mohenjo-daro, lost-wax — NOT terracotta |
-| **Nataraja 4 arms** | Damaru + fire + abhaya + gaja hasta; crushes Apasmara dwarf |
-| **Chunar = Mauryan** | Polished pillar stone from Mirzapur, **UP** |
-| **Khajuraho = Chandella** | Nagara temple + mithuna sculpture panels |
-| **Rakhigarhi ≠ UP** | IVC trap — Haryana (UPPCS 2025 Q87) |
+| A | B | Lock | Hindi |
+|---|----|------|-------|
+| Gandhara | Mathura | Grey **schist**, Greco-Roman, NW vs red **sandstone**, indigenous, **UP** | गांधार / मथुरा |
+| Mathura | Amaravati | Free-standing red-sandstone icons vs Andhra **limestone** narrative panels | मथुरा / अमरावती |
+| Mathura Kushan | Gupta Sarnath | Heavy volume vs transparent robe + spiritual calm | कुषाण / गुप्त |
+| Aniconic | Iconic | Wheel, tree, throne vs human Buddha from Kushan | अनिकोनिक / साकार |
+| Mauryan polish | Gupta finish | Mirror Chunar surface vs smooth idealism, not that polish | मौर्य / गुप्त |
+| Chola Nataraja | IVC Dancing Girl | Processional Shiva bronze vs Harappan lost-wax girl | नटराज / नर्तकी |
+| Khajuraho | Konark | Chandela mithuna vs Ganga Sun-chariot wheels | खजुराहो / कोणार्क |
+| Chola bronze | Dhokra | Temple lost-wax utsava murti vs tribal bell-metal | चोल / ढोकरा |
 
 ---
 
 ## 12.1 Indian Sculpture
 
-### Definitions (learn all — exams pick different ones)
+**Identity:** Stone, bronze and terracotta | Religion and court pay for it | Period ↔ school ↔ region
 
-| Source | Definition |
-|--------|------------|
-| **General** | **Indian sculpture** = three-dimensional art — carved stone, cast bronze, modelled terracotta — expressing religious, royal, and secular themes from prehistoric to medieval India |
-| **NCERT** | Indian sculpture evolves from **Harappan metal figurines** through **Mauryan court realism**, **Buddhist narrative reliefs**, **Gupta spiritual idealism**, to **temple and bronze icon traditions** |
-| **Exam usage** | Period ↔ material ↔ site ↔ patron; distinguish sculpture from architecture (built space) and painting (2D surface) |
+- Indian sculpture begins in the Indus Valley with terracotta figurines.
+- The metal lock from that age is the **Dancing Girl** bronze of Mohenjo-daro.
+- Mauryan stone is polished **Chunar sandstone**. Pillars and Yaksha–Yakshi images take that mirror finish.
+- After the Mauryas, Shunga and Satavahana art tells stories on stupa railings. Named sites are **Bharhut** and **Sanchi**.
+- The first mature **human Buddha** appears in the **Kushan** age.
+- Two Kushan centres matter. **Gandhara** is in the northwest. **Mathura** is in UP.
+- **Gupta** sculpture is the classical ideal. Later Indian and Southeast Asian icons copy this calm type.
+- Medieval work shifts onto temple walls. South India adds **bronze** processional images.
+- A murti is made for worship. Stupa panels teach Jataka stories. Courts also used sculpture as display.
+- UP stone homes are **Mathura**, **Sarnath** and **Chunar**.
+- UP terracotta homes are **Ahichhatra** and **Kaushambi**.
+- Sculpture is not Buddhist-only. Mathura also cut **Jain Tirthankaras**.
+- Hindu temple deities become standard from the **Gupta** age onward.
+- **Yaksha** images are older than the Buddha image.
 
-### Indian Sculpture — How It Works
-
-- **Indian sculpture** is primarily **religion-driven**. Buddhist, Jain, Hindu courts and monastic orders commissioned images for **worship, narrative teaching, and imperial legitimacy**.
-- **Complete periodisation** (exam chronology chain):
-
-  | Period | Dates (approx.) | Dominant sculpture type | Key sites |
-  |--------|-----------------|---------------------------|-----------|
-  | **Prehistoric/IVC** | c. 2500 BCE | Bronze + terracotta figurines | Mohenjo-daro, Harappa |
-  | **Mauryan** | 3rd c. BCE | Polished sandstone monoliths | Sarnath, Didarganj, Pataliputra |
-  | **Shunga-Satavahana** | 2nd–1st c. BCE | Stupa narrative reliefs | Bharhut, Sanchi, Paunar |
-  | **Kushan** | 1st–3rd c. CE | Buddha icons — Gandhara + Mathura | Peshawar, Mathura |
-  | **Amaravati** | 2nd–3rd c. CE | Dynamic limestone panels | Amaravati, Nagarjunakonda |
-  | **Gupta** | 4th–6th c. CE | Classical spiritual icons | Sarnath, Mathura, Deogarh |
-  | **Medieval** | 7th–13th c. CE | Temple wall sculpture + Chola bronze | Khajuraho, Konark, Thanjavur |
-  | **Later regional** | 14th c. onward | Sultanate decorative, Vijayanagara, Rajput | Hampi, Jaunpur |
-
-- **Material logic**: **Stone** (durable, monumental) dominates sacred public art. **Bronze** (portable, ritual processions) dominates temple worship icons. **Terracotta** (cheap, local) fills folk and urban domestic demand.
-- **Patronage chain**: The order runs **urban merchants/guilds** (IVC), then **imperial court + Buddhist sangha** (Mauryan-Kushan), then **temple trusts under Hindu dynasties** (medieval).
-- **Regional centres**. Must know all:.
-
-  | Region | Centre | Material speciality |
-  |--------|--------|---------------------|
-  | **Northwest** | Gandhara (Taxila-Peshawar) | Grey schist Greco-Buddhist |
-  | **Gangetic plain (UP)** | **Mathura, Sarnath, Kaushambi** | Red sandstone, Chunar polish |
-  | **Central India** | Bharhut, Sanchi, Khajuraho | Sandstone narrative + temple |
-  | **East** | Nalanda, Pala Bengal | Bronze + stone Buddhist |
-  | **South** | Amaravati, Mahabalipuram, Thanjavur | Limestone, granite, bronze |
-
-- **Sculpture functions**: **(1)** ritual worship (murti), **(2)** narrative edification (Jataka panels), **(3)** imperial propaganda (Ashoka pillars, royal portraits), **(4)** architectural ornament (temple shikhara figures).
-- **UP as sculpture hub**: **Mathura** (Kushan-Gupta red sandstone), **Sarnath** (Mauryan Lion Capital + Gupta Buddha), **Chunar** sandstone source (Mirzapur district), **Ahichhatra/Kaushambi** terracotta figurines.
-- **Trap**: Indian sculpture ≠ only Buddhist. **Jain Tirthankaras (Mathura)**, **Hindu deities (Gupta onward)**, **Yaksha-Yakshi (Mauryan secular)** are equally exam-tested.
-
-> **Exam note:** **Period ↔ school ↔ region** chain is the #1 trap — never swap Gandhara (NW) with Mathura (UP) or Amaravati (Andhra).
-
-### Exam Facts (raata)
-
-- Indian sculpture = stone + bronze + terracotta traditions
-- Religion = primary patronage driver
-- IVC: earliest bronze (Dancing Girl)
-- Mauryan: polished Chunar sandstone
-- Kushan: first mature Buddha images (Gandhara + Mathura)
-- Gupta: classical spiritual ideal (Sarnath)
-- Medieval: temple wall + Chola bronze peak
-- Mathura + Sarnath = UP centres
-- Sculpture functions: worship, narrative, propaganda, ornament
-- **Regional schools geographically distinct**. No interchange in exams.
-
-### PYQs — Indian Sculpture
-
-1. **(UPSC Prelims 2020 — pattern)** The Dancing Girl figurine is made of:
-
-   A. Terracotta  B. Bronze  C. Stone  D. Copper  
-   → **B — Bronze** (lost-wax, Mohenjo-daro) — earliest Indian bronze sculpture.
-
-2. **(UPSC Prelims 2019 — pattern)** With reference to Indian sculpture, consider:
-
-   1. Bharhut sculptures belong to the Mauryan period.  
-   2. Gandhara sculptures show Greek influence.
-
-   Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2  
-   → **B — Only 2**. Bharhut = **Shunga** (not Mauryan); Gandhara = Greco-Roman influence correct.
-
-### Examples (12.1)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Dancing Girl, Mohenjo-daro** | Earliest bronze; lost-wax technique |
-| **Sarnath Lion Capital** | Mauryan polished stone; National Emblem |
-| **Chola Nataraja, Thanjavur** | Medieval bronze peak |
+> **Exam note:** Never swap **Gandhara (NW)** with **Mathura (UP)** or **Amaravati (Andhra)**.
 
 ---
 
 ## 12.2 Gupta Sculpture
 
-### Definitions (learn all — exams pick different ones)
+**Identity:** 4th–6th c. classical icons | Sarnath is the Buddha lock
 
-| Source | Definition |
-|--------|------------|
-| **General** | **Gupta sculpture** (c. 4th–6th century CE) = **classical golden age** of Indian iconography — refined proportions, spiritual calm, transparent drapery, standardized Buddha and Hindu deity forms |
-| **NCERT** | Gupta art marks transition from **Kushan heaviness** to **spiritual idealism** — "Gupta classical style" becomes template for later Indian sculpture |
-| **Exam usage** | Sarnath Buddha features; dharmachakra mudra; compare with Kushan Mathura; Deogarh/Udayagiri panels |
+- Gupta faces look calm. Eyes are half-closed. The body is balanced, not the heavy Kushan type.
+- The robe is a **transparent sanghati**. Cloth clings, but the body still shows. That is the Gupta hallmark.
+- A halo and a lotus seat become normal.
+- The **Sarnath Buddha** sits in **dharmachakra mudra**. This is the first-sermon lock.
+- The stone is pale sandstone, not Mathura’s red spotted type.
+- Sarnath already holds the Mauryan **Lion Capital**. The Gupta Buddha stands on the same campus, centuries later.
+- Mathura workshops still work in Gupta times. The exam “ideal Buddha” is still the Sarnath type.
+- **Udayagiri** near Vidisha in Madhya Pradesh has the **Varaha** relief of Chandragupta II. Do not confuse it with Odisha’s Udayagiri–Khandagiri caves.
+- **Deogarh Dashavatara** carries Vishnu panels on an early structural temple.
+- Terracotta continues at **Ahichhatra** and **Kaushambi** in UP.
 
-### Gupta Sculpture — How It Works
-
-- **Gupta sculpture** defines the **canonical Indian icon**. Later medieval, Pala, and even Southeast Asian Buddhist art copies Gupta models.
-- **Key stylistic features** (cause to visual effect):
-
-  | Feature | What it looks like | Why it matters |
-  |---------|-------------------|----------------|
-  | **Spiritual calm** | Half-closed eyes, meditative face | Buddha = inner enlightenment, not royal portrait |
-  | **Transparent sanghati** | Drapery clings yet body visible | Technical mastery; Gupta innovation over Kushan thick folds |
-  | **Halo (prabha)** | Circular/backplate behind head | Sanctity marker — standardized in Gupta Buddha |
-  | **Lotus pedestal** | Buddha/deity on lotus throne | Purity symbol; becomes mandatory icon element |
-  | **Smooth volumes** | Less muscular heaviness than Kushan | Classical balance — Greek ideal filtered through Indian spirituality |
-  | **Long earlobes, ushnisha** | Elongated ears, cranial protuberance | Lakshana of Buddha — Gupta codifies all 32 marks |
-
-- **Masterpiece: Sarnath Buddha (UP)**:
-  - **Dharmachakra mudra** (turning the wheel of law). Sermon at Sarnath after enlightenment.
-  - **Carved in spotted red sandstone**. Same region as Mauryan Lion Capital.
-  - **Ashokan pillar** nearby. Gupta sculptors worked in continuity at sacred Buddhist site.
-  - Defines **Indian Buddhist iconography standard** exported to Sri Lanka, Southeast Asia.
-
-- **Other Gupta sculpture sites**:
-
-  | Site | Sculpture | Note |
-  |------|-----------|------|
-  | **Mathura (UP)** | Buddha, Vishnu, Yaksha figures | Continues Kushan centre into Gupta refinement |
-  | **Deogarh (MP)** | **Dashavatara temple panels** — Vishnu reclining | Early Gupta Hindu temple sculpture |
-  | **Udayagiri (MP)** | **Varaha boar incarnation** relief | Chandragupta II association; rock-cut |
-  | **Bhumara (MP)** | Shiva lingam shrine sculptures | Early Shaiva iconography |
-  | **Sanchi** | Stupa-4 Buddha statues | Gupta additions to older Buddhist site |
-  | **Ajanta** | Relief sculpture accompanying paintings | Gupta-Vakataka phase |
-
-- **Gupta Buddha vs Kushan Mathura Buddha**:
-  - **Kushan**: heavier body, thicker robe folds, more earthly mass.
-  - **Gupta**: slender proportions, ethereal drapery, introspective expression.
-  - Exam trap: **Sarnath Buddha = Gupta**, NOT Kushan.
-
-- **Hindu sculpture under Gupta**: **Vishnu** (Varaha, Narasimha), **Shiva**, **Devi** icons gain standardized forms. Foundation for **medieval temple sculpture**.
-- **Terracotta Gupta figurines**: **Ahichhatra, Kaushambi, Rajghat (UP)**. Mother-goddess, folk deities. Parallel to court stone art.
-- **Decline**: **Post-6th century Gupta political fragmentation**. Regional styles (Medieval, Pala, Chalukya) branch from Gupta root but add local ornament.
-
-> **Exam note:** **Sarnath Buddha + dharmachakra mudra = Gupta classical** — most repeated sculpture identification in UPSC/UPPCS pattern.
-
-### Exam Facts (raata)
-
-- Gupta sculpture = 4th–6th c. CE golden age
-- Sarnath Buddha = dharmachakra mudra. Spotted red sandstone.
-- Transparent sanghati = Gupta hallmark
-- Spiritual calm, halo, lotus pedestal standardized
-- Deogarh = Vishnu Dashavatara panels
-- Udayagiri Varaha = Chandragupta II
-- Mathura continues as UP Gupta centre
-- Kushan = heavier. Gupta = refined idealism.
-- Terracotta figurines from Ahichhatra/Kaushambi UP
-- Gupta style template for later Indian + SE Asian art
-
-### PYQs — Gupta Sculpture
-
-1. **(UPSC Prelims 2018 — pattern)** The famous rock-cut temple at Udayagiri in Madhya Pradesh is associated with an image of:
-
-   A. Varaha  B. Nataraja  C. Vishnu reclining  D. Buddha preaching  
-   → **A — Varaha** (boar incarnation relief; Chandragupta II patronage).
-
-2. **(UPSC Prelims 2016 — pattern)** Which of the following characterises Gupta sculpture?
-
-   A. Heavy muscular Kushan style  B. Spiritual idealism with transparent drapery  C. Greco-Roman Apollo faces  D. Only aniconic symbols  
-   → **B — Gupta classical idealism**.
-
-### Examples (12.2)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Sarnath Buddha (Gupta)** | Dharmachakra mudra; classical ideal |
-| **Udayagiri Varaha relief** | Gupta Hindu rock-cut sculpture |
-| **Deogarh Vishnu panels** | Early Gupta temple stone carving |
+> **Exam note:** **Sarnath Buddha = Gupta + dharmachakra**. Kushan Mathura is heavier.
 
 ---
 
 ## 12.3 Buddhist Sculpture
 
-### Definitions (learn all — exams pick different ones)
+**Identity:** Stupa relief → human Buddha | Mudra tells the scene
 
-| Source | Definition |
-|--------|------------|
-| **General** | **Buddhist sculpture** = images and reliefs depicting **Buddha, Bodhisattvas, Jataka tales, and stupa ornament** — evolving from **aniconic symbols** to **anthropomorphic icons** |
-| **NCERT** | Buddhist sculpture flourishes on **stupas** (railings, toranas) and in **monastic sites** (Sarnath, Nalanda) — narrative + devotional functions |
-| **Exam usage** | Aniconic vs iconic phases; mudras; Bharhut/Sanchi/Amaravati; Bodhisattva in Gandhara |
+- Early Buddhist art is **aniconic**. The Buddha is shown as a wheel, footprints, an empty throne, the Bodhi tree, or a stupa.
+- **Bharhut** is **Shunga**. Panels are labelled Jatakas. Yakshi brackets appear. It is not Mauryan.
+- **Sanchi** toranas carry narrative scenes and Yakshis. Early railings still avoid a human Buddha.
+- The human Buddha becomes normal in the **Kushan** age at Gandhara and Mathura.
+- **Dharmachakra mudra** turns the wheel. It marks the Sarnath sermon.
+- **Bhumisparsha mudra** is earth-witness. It marks enlightenment.
+- **Abhaya mudra** means fearlessness.
+- **Dhyana mudra** means meditation.
+- **Varada mudra** means boon-giving.
+- Bodhisattvas look princely. They wear jewellery. Gandhara types may have a moustache. They are not the shaved monk Buddha.
+- Pala Bihar–Bengal later casts Buddhist bronzes around Nalanda.
 
-### Buddhist Sculpture — How It Works
-
-- **Buddhist sculpture** follows **doctrine + patronage timeline**. Early Buddhism avoided Buddha's human image. Kushan period standardizes the **Buddha figure**.
-- **Aniconic to Iconic evolution**:
-
-  | Phase | Period | Representation | Examples |
-  |-------|--------|----------------|----------|
-  | **Aniconic** | 3rd c. BCE – 1st c. CE | **Wheel, footprints, throne, Bodhi tree, stupa** stand for Buddha | Early Sanchi railings — no human Buddha |
-  | **Transitional** | 1st–2nd c. CE | Buddha appears symbolically + partially | Gandhara experiments |
-  | **Iconic** | Kushan onward (1st–3rd c. CE) | **Standing/seated human Buddha** standardized | Gandhara, Mathura Buddha images |
-  | **Classical iconic** | Gupta (4th–6th c.) | Refined spiritual Buddha | Sarnath Gupta Buddha |
-  | **Narrative relief** | Continuous | **Jataka panels** on stupas | Bharhut, Sanchi, Amaravati |
-
-- **Buddha mudras** (exam must-know):
-
-  | Mudra | Meaning | Common context |
-  |-------|---------|----------------|
-  | **Dharmachakra** | Turning wheel of law | Sarnath first sermon |
-  | **Bhumisparsha** | Earth witness | Enlightenment under Bodhi tree |
-  | **Abhaya** | Fearlessness/protection | Standing Buddha reassurance |
-  | **Dhyana** | Meditation | Seated meditation Buddha |
-  | **Varada** | Granting boon | Compassionate blessing |
-
-- **Stupa sculpture sites** (narrative relief tradition):
-  - **Bharhut** (MP, Shunga 2nd c. BCE): **labelled panels**. Jataka stories identified by inscriptions and yakshi brackets.
-  - **Sanchi** (MP): **Toranas** (gateways) and master narrative sculpture and **yakshi-yaksha** brackets and early aniconic Buddha symbols on gateways.
-  - **Amaravati** (Andhra): **Human Buddha in dynamic scenes** and see §12.9 and white limestone flowing movement.
-  - **Nagarjunakonda** (Andhra): Ikshvaku patronage and buddha in royal context.
-
-- **Bodhisattva sculpture**:
-  - **Gandhara** excels in **Maitreya** (future Buddha) and **Avalokiteshvara**. Princely jewellery, moustache, Hellenistic face.
-  - **Distinct from serene historical Buddha**. Bodhisattva = compassionate saviour figure.
-
-- **Monastic centre sculpture**: **Nalanda, Vikramashila** (Bihar). Pala period bronze Buddha and Bodhisattva images (later phase extending Buddhist sculptural tradition).
-- **Jain overlap**: **Jainism rejects Buddha images but shares stupa-era artisan networks**. Mathura produces **Jain Tirthankaras** alongside Buddhist icons (see §12.8).
-- **Trap**: **Sanchi toranas = sculpture**, not architecture alone. It narrative panels are core Buddhist art.
-
-> **Exam note:** **Early Sanchi = aniconic** (no human Buddha body) | **Kushan onward = iconic** — statement reversal trap in multi-statement questions.
-
-### Exam Facts (raata)
-
-- Early Buddhism = aniconic (wheel, tree, footprints)
-- Kushan era = anthropomorphic Buddha standardized
-- Bharhut = labelled Shunga narrative panels
-- Sanchi toranas = masterpiece Buddhist relief
-- Five key mudras: dharmachakra, bhumisparsha, abhaya, dhyana, varada
-- Bodhisattva = Gandhara speciality (Maitreya)
-- Amaravati = dynamic human Buddha scenes
-- Gupta Sarnath = classical Buddha icon
-- Jain Tirthankaras coexist at Mathura
-- Pala bronze Buddha extends eastern tradition
-
-### PYQs — Buddhist Sculpture
-
-1. **(UPSC Prelims 2019 — pattern)** At which of the following places has Buddha been depicted in human form in Buddhist art from the earliest times?
-
-   A. Sanchi earliest railings  B. Mathura  C. Bharhut only  D. Ajanta only  
-   → **B — Mathura** (early iconic Buddha images, Kushan period); earliest Sanchi = aniconic.
-
-2. **(UPSC Prelims 2017 — pattern)** Buddhist stupa railings with narrative sculptures are found at:
-
-   A. Bharhut and Sanchi  B. Taj Mahal  C. Red Fort  D. Fatehpur Sikri  
-   → **A — Bharhut and Sanchi** (classic stupa relief sites).
-
-### Examples (12.3)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Sanchi Torana yakshi bracket** | Aniconic-era narrative + decorative sculpture |
-| **Gandhara Maitreya Bodhisattva** | Bodhisattva vs Buddha distinction |
-| **Gupta Sarnath Buddha (dharmachakra)** | Classical iconic culmination |
+> **Exam note:** **Early Sanchi = aniconic**. **Iconic Buddha = Kushan onward**.
 
 ---
 
 ## 12.4 Temple Sculpture
 
-### Definitions (learn all — exams pick different ones)
+**Identity:** The temple wall is the scripture | Dynasty ↔ theme
 
-| Source | Definition |
-|--------|------------|
-| **General** | **Temple sculpture** = carved images on **Hindu (and Jain) temple walls, shikharas, mandapas, and gopurams** — deities, mythological narratives, dancers, mithuna couples, and decorative motifs |
-| **NCERT** | Temple sculpture integrates with **Nagara, Dravida, Vesara** architectural plans — sculpture is **not separate** but **essential religious programme** of the temple |
-| **Exam usage** | Monument ↔ dynasty ↔ sculptural theme; Khajuraho mithuna; Konark wheels; Pallava relief; Hoysala detail |
+- **Khajuraho** is **Chandela** work in Madhya Pradesh.
+- The temples are **Nagara** and sandstone. The exam tag is **mithuna** panels, not Dravida.
+- **Konark** is Eastern Ganga work in Odisha.
+- The temple is built as **Surya’s chariot**. Lock: **24 wheels** and **7 horses**.
+- **Mahabalipuram** is Pallava. It is open-air granite.
+- The named relief is **Arjuna’s Penance**, also called Descent of the Ganga. The Five Rathas stand nearby.
+- **Brihadeeswara** is a Chola granite vimana. Ritual bronzes matter more here than a crowded wall programme.
+- **Hoysala** temples at Belur and Halebidu use **soapstone** (chloritic schist). Carving is jewellery-fine. The plan is star-shaped.
+- **Ellora Kailasa (cave 16)** is Rashtrakuta. The whole temple is cut down from living rock.
+- **Elephanta** holds the **Maheshamurti / Trimurti** Shiva. It is not Ellora Kailasa.
+- **Gommateshwara (Bahubali)** stands at **Shravanabelagola** in Karnataka. It is a colossal Jain image in **kayotsarga**. **Mahamastakabhisheka** is held every **12** years.
+- **Modhera** is a Solanki Surya temple in Gujarat.
+- Puri Jagannath images are **wood**. That is the exception to stone and bronze.
+- The garbhagriha holds the main murti. The shikhara or vimana carries dikpalas and other deities.
 
-### Temple Sculpture — How It Works
-
-- **Temple sculpture** transforms the temple into a **visual scripture**. It every wall zone has prescribed iconographic programme (dikpalas, dasavatara, devi, gana attendants).
-- **Regional temple sculpture schools**:
-
-  | Temple/site | Dynasty | Style features | Sculptural highlight |
-  |-------------|---------|----------------|----------------------|
-  | **Khajuraho** | Chandella (10th–11th c.) | **Nagara** shikhara | **Mithuna** (erotic) panels + Vishnu/Devi icons; sandstone |
-  | **Konark Sun Temple** | Ganga (13th c.) | Odisha Nagara | **Colossal wheels, horses, Sun god**; stone as chariot sculpture |
-  | **Mahabalipuram** | Pallava (7th–8th c.) | Rock-cut + ratha | **Arjuna's Penance** relief, **Descent of Ganga**, Pancha Rathas |
-  | **Brihadeeswarar (Thanjavur)** | Chola (11th c.) | Dravida vimana | Granite structural mass; **bronze idols** inside (not wall-heavy) |
-  | **Hoysaleswara (Halebidu)** | Hoysala (12th c.) | Vesara | **Soapstone micro-carving** — jewellery-level detail |
-  | **Ellora Kailashnath** | Rashtrakuta (8th c.) | Rock-cut monolith | Entire temple carved from living rock — sculpture + architecture fused |
-  | **Modhera Sun Temple** | Solanki (11th c.) | Gujarat | Torana, stepwell, Surya iconography |
-  | **Jagannath Puri** | Ganga | Odisha | Deity sculpture tradition (wooden idols — exception to stone norm) |
-
-- **Sculptural zones on Nagara temple** (exam structure):
-  - **Garbhagriha**. Main deity murti (sculpture + ritual focus).
-  - **Shikhara/Vimana walls** includes **dikpalas** (eight direction guardians), **devatas**, **myth panels**.
-  - **Mandapa pillars**. Dancers, musicians, **mithuna** couples (Khajuraho famous).
-  - **Torana/Gopuram**. Narrative friezes, guardian figures.
-
-- **Khajuraho sculpture logic**:
-  - **Mithuna panels** = **tantric/aesthetic/ life-cycle symbolism**. NOT mere decoration. Exams test "associated with Khajuraho.".
-  - **Western + Eastern group** temples includes **Chandella** patronage. **Sandstone**.
-  - Trap: Khajuraho = **Nagara**, NOT Dravida.
-
-- **Pallava rock sculpture (Mahabalipuram)**:
-  - **Open-air reliefs** carved on granite boulders. Unique among temple sculpture (not enclosed temple wall).
-  - **Arjuna's Penance / Descent of Ganga**. Largest relief panel in India.
-  - **Ratha sculptures**. Monolithic temple-shaped rocks with deity carvings.
-
-- **Hoysala innovation**: **Chloritic schist (soapstone)**. Soft enough for **undercut filigree**. Hair strands, finger rings visible in stone.
-- **Chola temple sculpture relationship**: **Granite walls** relatively plain externally. **Ritual sculpture shifts to bronze** (Nataraja) for processional worship. Architecture + bronze pairing.
-- **Trap**: **Konark wheels** = **sculpture/architecture fusion**. Stone wheels of Sun chariot. NOT separate monument type.
-
-> **Exam note:** **Khajuraho = mithuna + Chandella + Nagara** | **Konark = Sun chariot wheels** | **Mahabalipuram = Pallava open-air relief** — three most-tested temple sculpture associations.
-
-### Exam Facts (raata)
-
-- Temple sculpture = deity icons + narrative + decorative panels
-- **Khajuraho**. Chandella, Nagara, mithuna panels, sandstone.
-- **Konark**. Odisha, Sun temple stone wheels/horses.
-- **Mahabalipuram**. Pallava rock reliefs (Arjuna's Penance).
-- **Hoysala**. Soapstone micro-carving (Halebidu).
-- **Ellora Kailashnath**. Monolithic rock-cut sculpture.
-- Garbhagriha = main deity. Shikhara = dikpalas + devatas.
-- **Chola**. Granite temple + bronze ritual icons.
-- Khajuraho = Nagara NOT Dravida
-- Temple sculpture = visual scripture of Hindu mythology
-
-### PYQs — Temple Sculpture
-
-1. **(UPSC Prelims 2019 — pattern)** Which of the following is known for erotic sculptures?
-
-   A. Brihadeeswarar  B. Khajuraho  C. Kailashnath Ellora  D. Lingaraj Temple  
-   → **B — Khajuraho** (mithuna panels, Chandella).
-
-2. **(UPSC Prelims 2018 — pattern)** Arjuna's Penance is a sculpture at:
-
-   A. Ellora  B. Mahabalipuram  C. Khajuraho  D. Sanchi  
-   → **B — Mahabalipuram** (Pallava rock relief).
-
-### Examples (12.4)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Khajuraho mithuna panel** | Nagara temple sculptural programme |
-| **Konark stone chariot wheel** | Odisha sculptural architecture |
-| **Hoysaleswara Halebidu frieze** | Soapstone micro-carving peak |
+> **Exam note:** **Khajuraho = mithuna + Chandela**. **Konark = chariot wheels**. **Mahabalipuram = Pallava relief**.
 
 ---
 
 ## 12.5 Stone Sculpture
 
-### Definitions (learn all — exams pick different ones)
+**Lock:** stone — place — school
 
-| Source | Definition |
-|--------|------------|
-| **General** | **Stone sculpture** = art created by **carving, chiselling, and abrading** stone — primary material for **monumental Indian sculpture** from Mauryan pillars to medieval temples |
-| **NCERT** | Stone choice follows **regional geology** — sandstone (North), granite (South), limestone (Andhra), schist (Northwest) — determines style possibilities |
-| **Exam usage** | Material ↔ site ↔ period; Chunar sandstone; Mauryan polish technique; relief vs round sculpture |
+- **Chunar sandstone** comes from the Mirzapur belt in **UP**. Mauryan pillars take a **mirror polish** on it. The Lion Capital is this stone.
+- **Mathura** icons use red or spotted **sandstone**. The region is **UP**. The age is Kushan into Gupta.
+- **Gandhara** uses grey **schist**. Drapery looks Greco-Roman.
+- **Amaravati** and Nagarjunakonda use white or greenish **limestone**.
+- Pallava and Chola mass is **granite**.
+- Hoysala carving is **chloritic schist**, also called soapstone.
+- Bharhut, Sanchi and Khajuraho use central Indian **sandstone**.
+- Ellora’s monolith is Deccan **basalt**.
+- Relief tells a story on a slab. Round sculpture is a free-standing murti. Rock-cut work subtracts the hill.
+- **Didarganj Yakshi** (Chauri-bearer) has Mauryan polish. The find is from Patna. She is a Yakshi, not a Buddha.
+- **Parkham Yaksha** is from the Mathura region. It is a colossal early stone guardian.
 
-### Stone Sculpture — How It Works
-
-- **Stone sculpture** in India follows **geology-driven regional schools**. Artists exploit local stone properties (hardness, colour, ability to polish).
-- **Complete stone material map** (no gaps. Exam matching):.
-
-  | Stone type | Region/source | Period/school | Property |
-  |------------|---------------|---------------|----------|
-  | **Chunar sandstone** | **Mirzapur, UP** | Mauryan pillars | Takes **mirror polish** |
-  | **Mathura red/spotted sandstone** | **Mathura, UP** | Kushan-Gupta | Soft, warm tone, fine carving |
-  | **Grey schist** | Gandhara (NW) | Kushan Buddhist | Fine grain, Greco-detail |
-  | **White/greenish limestone** | Amaravati, Andhra | Satavahana | Smooth narrative flow |
-  | **Granite** | South India (Tamil Nadu, Karnataka) | Pallava-Chola temples | Hard, massive monuments |
-  | **Chloritic schist (soapstone)** | Karnataka (Hoysala) | Medieval | Soft — intricate undercut |
-  | **Sandstone** | Khajuraho, Sanchi, Bharhut | Central India | Medium hardness, temple panels |
-  | **Basalt** | Ellora (Deccan trap) | Rashtrakuta rock-cut | Volcanic, massive Kailashnath |
-
-- **Carving techniques**:
-  - **Subtraction carving**. Chisel away from block (free-standing murti).
-  - **Relief carving** includes **high relief** (figures project strongly. Toranas) vs **low relief** (shallow narrative panels).
-  - **Rock-cut**. Remove surrounding rock to reveal sculpture (Ellora, Ajanta, Mahabalipuram).
-  - **Mauryan polish** Fine abrasive buffing on Chunar sandstone.
-  - **No true arch** in pre-Islamic stone architecture. Corbel technique. Sculpture independent of arch development.
-
-- **Monolithic vs assembled**:
-  - **Monolithic**. Single stone block (Ashoka pillars, Mahabalipuram rathas).
-  - **Assembled**. Multiple carved blocks fitted (temple shikhara sculptures).
-
-- **Didarganj Yakshi** (Chauri Bearer):
-  - **Mauryan polished sandstone** sculpture. It discovered Patna area.
-  - **Exemplifies secular court sculpture**. Not religious icon.
-  - **Mirror polish** same technique as Ashoka pillars.
-
-- **Yaksha-Yakshi tradition**:
-  - **Mauryan-Sunga** stone sculptures of nature spirits. It robust, sensuous female forms (yakshi) and male guardians (yaksha).
-  - **Sanchi brackets**, **Parkham yaksha** (Mathura region). Bridge to Kushan icon development.
-
-- **UP stone sculpture focus**:
-  - **Chunar** = raw material for **Mauryan pillars** across empire.
-  - **Mathura** = carving centre for **Kushan-Gupta** red sandstone.
-  - **Sarnath** = Mauryan capital + Gupta Buddha in same stone tradition.
-  - **Kaushambi/Ahichhatra** = stone + terracotta sculpture finds.
-
-- **Trap**: **Granite = South Indian temple** scale. **Sandstone = North/Central** narrative panels. Material-region pairing.
-
-> **Exam note:** **Chunar sandstone + Mauryan polish** = UP-specific pair | **Soapstone = Hoysala** | **Schist = Gandhara** — material traps in NOT-matched questions.
-
-### Exam Facts (raata)
-
-- Stone sculpture = regional geology determines style
-- Chunar sandstone = Mauryan mirror polish (UP source)
-- Mathura red sandstone = Kushan-Gupta carving
-- Gandhara grey schist = fine Greco-detail
-- Amaravati limestone = narrative flow
-- Granite = Pallava-Chola South India
-- Soapstone = Hoysala intricate carving
-- Techniques: subtraction, relief, rock-cut, polish
-- Didarganj Yakshi = Mauryan polished sandstone
-- Monolithic pillars vs assembled temple blocks
-
-### PYQs — Stone Sculpture
-
-1. **(UPSC Prelims 2020 — pattern)** Ashoka pillars are made of:
-
-   A. Granite  B. Chunar sandstone  C. Marble  D. Basalt  
-   → **B — Chunar sandstone** with Mauryan polish (Mirzapur, UP).
-
-2. **(UPSC Prelims 2016 — pattern)** Mathura school of art used which material?
-
-   A. Grey schist  B. Spotted red sandstone  C. White marble  D. Granite  
-   → **B — Spotted red sandstone** (indigenous UP stone).
-
-### Examples (12.5)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Chunar sandstone Ashoka pillar** | Mauryan polish technique |
-| **Didarganj Yakshi** | Secular Mauryan stone sculpture |
-| **Hoysala soapstone frieze** | Soft stone micro-carving |
+> **Exam note:** **Chunar = Mauryan polish**. **Red sandstone = Mathura**. **Schist = Gandhara**.
 
 ---
 
 ## 12.6 Bronze Sculpture
 
-### Definitions (learn all — exams pick different ones)
+**Identity:** Lost-wax (*cire perdue*) | Portable ritual metal
 
-| Source | Definition |
-|--------|------------|
-| **General** | **Bronze sculpture** = cast metal images using **lost-wax (cire perdue)** or **hollow casting** — portable temple icons for ritual procession and worship |
-| **NCERT** | Indian bronze tradition spans **IVC Dancing Girl** to **Chola Nataraja** — peak in **South Indian temple workshops** |
-| **Exam usage** | Lost-wax steps; Nataraja iconography; Chola period; distinguish from terracotta and stone |
+- The **Dancing Girl** is from Mohenjo-daro. She is **bronze**, made by lost-wax. She is not terracotta and not stone.
+- Chola **utsava murtis** are processional bronzes. They are taken out of the granite temple.
+- **Nataraja** is the Chola bronze lock. It is Tamil Nadu. Shiva is the cosmic dancer.
+- The upper right hand holds the **damaru**.
+- The upper left hand holds **agni**.
+- The lower right hand shows **abhaya**.
+- The lower left is **gajahasta**, pointing to the raised left foot.
+- The right foot crushes **Apasmara**, the dwarf of ignorance.
+- The ring of fire is the **prabhamandala**.
+- Pala–Sena eastern India casts Buddhist bronzes of Buddha, Tara and Avalokiteshvara.
+- The **Sultanganj Buddha** is a colossal copper image from Bihar. It is now in the British Museum. It is Pala-age metal, not a Chola Nataraja.
+- **Dhokra** is tribal lost-wax bell-metal from the Bastar belt. It is not a Chola temple icon.
+- The Indus people also used copper tools. The exam bronze is still the Dancing Girl.
 
-### Bronze Sculpture — How It Works
-
-- **Bronze sculpture** serves **ritual mobility**. Deity leaves garbhagriha for **procession (utsava murti)**. Stone temple icons remain fixed.
-- **Lost-wax (cire perdue) process**. Exam step sequence:.
-
-  | Step | Action |
-  |------|--------|
-  | **1** | Model deity in **wax** (with clay core for hollow cast) |
-  | **2** | Cover wax with **clay mould**; leave vents |
-  | **3** | Heat mould — **wax melts and drains** ("lost wax") |
-  | **4** | Pour **molten bronze** (copper + tin alloy) into cavity |
-  | **5** | Break clay mould; **finish, polish, gild** the bronze image |
-
-- **Historical phases**:
-
-  | Period | Bronze example | Significance |
-  |--------|----------------|--------------|
-  | **Harappan/IVC** | **Dancing Girl** (Mohenjo-daro) | Earliest Indian bronze; **lost-wax** c. 2500 BCE |
-  | **Pallava** (7th–8th c.) | Shiva Parvati bronze groups | South Indian bronze tradition begins |
-  | **Chola** (9th–13th c.) | **Nataraja**, Devi, saints | **Peak of Indian bronze art** |
-  | **Pala** (8th–12th c., East) | Buddhist bronze Buddhas | Nalanda-Bengal export to Tibet, SE Asia |
-  | **Vijayanagara** | Continuing Chola tradition | Bronze workshops at Hampi region |
-  | **Tribal** | **Dhokra** (bell metal) | Hollow casting — Chhattisgarh, Odisha, Jharkhand |
-
-- **Chola Nataraja. Iconography decode** (every element tested):.
-
-  | Element | Meaning |
-  |---------|---------|
-  | **Ring of fire (prabhamandala)** | Cosmic cycle of creation-destruction |
-  | **Damaru (upper right hand)** | Sound of creation (Nada) |
-  | **Fire (upper left)** | Destruction of universe |
-  | **Abhaya mudra (lower right)** | Protection for devotees |
-  | **Gaja hasta (lower left)** | Pointing to raised foot — refuge |
-  | **Raised left leg / bent right** | Cosmic dance rhythm (tandava) |
-  | **Apasmara dwarf crushed** | Ignorance destroyed under foot |
-  | **Lotus pedestal** | Sacred ground of dance |
-
-- **Chola bronze workshops**: **Swamimalai, Thanjavur region (Tamil Nadu)**. Hereditary **Sthapati** (sculptor) guilds continue tradition today.
-- **Pala bronze**: **Nalanda, Kurkihar (Bihar)**. Slender Buddha figures with **flame ushnisha**, ornate aureole. Exported across Himalayas.
-- **Dhokra tribal bronze** (distinct tradition):
-  - **Bell metal** (brass/bronze alloy) includes **hollow core clay casting**.
-  - **Bastar (Chhattisgarh), Koraput (Odisha)**. Folk motifs, tribal deities.
-  - **NOT Chola lost-wax refined style**. Trap in "all Indian bronze = Chola.".
-
-- **IVC bronze context (UPPCS 2025 Q87 overlap)**:
-  - **Dancing Girl** proves **advanced metallurgy** in Harappan culture.
-  - **UP IVC sites (**Mandi, Hulas**)**. Culture zone for early crafts. **Rakhigarhi = Haryana NOT UP**.
-
-- **Trap**: **Dancing Girl = bronze** (NOT terracotta) | **Nataraja = Chola** (NOT Pallava peak, though Pallava begins bronze) | **Dhokra ≠ Chola technique**.
-
-> **Exam note:** **Lost-wax steps** and **Nataraja element meanings** are the two highest-yield bronze question types.
-
-### Exam Facts (raata)
-
-- Lost-wax (cire perdue) = standard Indian bronze method
-- Dancing Girl = earliest bronze. Mohenjo-daro. IVC.
-- Chola Nataraja = Shiva cosmic dance. 9th–13th c. peak.
-- Nataraja crushes Apasmara = ignorance
-- **Four arms**. Damaru, fire, abhaya, gaja hasta.
-- Swamimalai = traditional Chola bronze centre
-- Pala bronze Buddha from Nalanda-Bengal
-- Dhokra = tribal bell-metal hollow casting
-- Bronze = processional utsava murti. Stone = fixed temple.
-- Pallava begins South Indian bronze. Chola perfects.
-
-### PYQs — Bronze Sculpture
-
-1. **(UPPCS Prelims 2025 — Q87 — culture overlap)** Which IVC sites are in present-day Uttar Pradesh?
-
-   1. Mandi  2. Rakhigarhi  3. Hulas
-
-   Options: A. 1 and 2  B. Only 3  C. 1 and 3  D. Only 1  
-   → **C — 1 and 3**. Mandi + Hulas in UP; Rakhigarhi = Haryana. Harappan zone includes bronze-age crafts context.
-
-2. **(UPSC Prelims 2020 — pattern)** Dancing Girl is made of:
-
-   A. Terracotta  B. Bronze  C. Stone  D. Copper  
-   → **B — Bronze** (lost-wax, Mohenjo-daro).
-
-### Examples (12.6)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Dancing Girl, Mohenjo-daro** | IVC lost-wax bronze |
-| **Chola Nataraja, Thanjavur** | Medieval bronze iconography peak |
-| **Dhokra tribal figurine (Bastar)** | Folk bronze distinct from classical |
+> **Exam note:** **Nataraja = Chola lost-wax**. **Dancing Girl = Harappan bronze**. Do not swap.
 
 ---
 
 ## 12.7 Gandhara School
 
-### Definitions (learn all — exams pick different ones)
+**Region:** NW (Peshawar–Taxila belt) | **Stone:** grey **schist** (also stucco) | **Age:** Kushan peak
 
-| Source | Definition |
-|--------|------------|
-| **General** | **Gandhara school** = **Greco-Buddhist sculpture** of **northwest India** (modern Pakistan-Afghanistan) under **Kushan patronage** — grey schist Buddha and Bodhisattva images with Hellenistic features |
-| **NCERT** | Gandhara = **Indian iconography + Greco-Roman realism** — first standing Buddha images alongside Mathura school |
-| **Exam usage** | Region (NW NOT UP); schist material; Apollo-face; Greco-Roman influence; Bodhisattva focus |
+- The face is Greco-Roman. Hair is wavy. Robe folds look like a toga.
+- The Buddha can look Apollo-like. Bodhisattvas sometimes have a moustache.
+- This is the first large crop of standing and seated Buddhas in the northwest.
+- A halo often appears. The look is more “foreign” than Mathura.
+- Patronage is **Kushan**, in Kanishka’s world. This is not a Gangetic red-sandstone school.
+- It is not Amaravati. It is not UP.
 
-### Gandhara School — How It Works
-
-- **Gandhara school** emerges from **Alexander's legacy + Kushan empire trade**. Bactria-Gandhara region was cultural crossroads of **India, Persia, Central Asia, Mediterranean**.
-- **Geographic core** (complete site list):
-  - **Peshawar valley** (Pakistan)
-  - **Taxila/Takshashila** (ancient university + art centre)
-  - **Swat valley** (Udigran, Butkara stupas)
-  - **Hadda, Bamiyan region** (Afghanistan. Bamiyan Buddhas were later Gandhara lineage).
-  - **Trap**: Gandhara = **Northwest**, NOT Mathura, NOT Andhra, NOT UP.
-
-- **Stylistic features** (identify in any exam image description):
-  - **Apollo-like face**. Straight nose, deep-set eyes, wavy hair.
-  - **Toga-like sanghati** (robe) with heavy parallel folds. Roman sculpture influence.
-  - **Bodhisattva jewellery**. Moustache on princely figures, necklaces, turbans.
-  - **Grey-blue schist** or **stucco** (later period). Fine detail carving.
-  - **Standing Buddha** with **abhaya mudra** common.
-
-- **Subject matter**:
-  - **Buddha**. Historical Shakyamuni in human form.
-  - **Bodhisattvas**. Especially **Maitreya** (future Buddha) with princely attire.
-  - **Jataka scenes** in relief panels on stupas.
-  - **Jain influence minimal**. Gandhara is predominantly **Buddhist**.
-
-- **Chronology**: **1st–3rd century CE** (Kushan peak, especially Kanishka era). Declines after **Kushan empire fragmentation** and **Huna invasions**.
-- **Gandhara vs Mathura comparison** (paired concept. Always tested together):.
-
-  | Feature | Gandhara | Mathura |
-  |---------|----------|---------|
-  | **Region** | Northwest (Pakistan-Afghanistan) | **Mathura, UP** |
-  | **Material** | Grey schist | Red spotted sandstone |
-  | **Influence** | Greco-Roman | Indigenous Indian |
-  | **Face** | Hellenistic Apollo-type | Broader Indian features |
-  | **Drapery** | Toga-like heavy folds | Transparent/spiritual (later Gupta link) |
-  | **Jain art** | Rare | Major Tirthankara centre |
-
-- **Historical significance**: **Gandhara art **exported Buddha image** along Silk Route to Central Asia, China, Korea, Japan**. Indian sculpture shapes East Asian Buddhist art.
-- **Stucco phase**: **Later Gandhara (3rd–5th c.) uses stucco over brick**. Cheaper than schist. Polychrome painting applied.
-
-> **Exam note:** **Gandhara = Greco-Roman + schist + Northwest** — single most tested sculpture school identification.
-
-### Exam Facts (raata)
-
-- Gandhara = Greco-Buddhist northwest school
-- Region: Peshawar, Taxila, Swat, Hadda
-- Material: grey schist (+ later stucco)
-- Kushan patronage 1st–3rd c. CE
-- Apollo-face, wavy hair, toga-robe
-- Bodhisattva Maitreya = common subject
-- Standing Buddha with abhaya mudra
-- Contrast with indigenous Mathura school
-- Exported via Silk Route to East Asia
-- NOT located in UP or South India
-
-### PYQs — Gandhara School
-
-1. **(UPSC Prelims 2018 — pattern)** Gandhara school of art is influenced by:
-
-   A. Chinese art  B. Greco-Roman art  C. Persian art only  D. Dravidian art  
-   → **B — Greco-Roman** Hellenistic realism.
-
-2. **(UPSC Prelims 2015 — pattern)** Gandhara sculptures are made primarily of:
-
-   A. Red sandstone  B. Grey schist  C. White marble  D. Granite  
-   → **B — Grey schist** (Northwest stone).
-
-### Examples (12.7)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Gandhara standing Buddha (schist)** | Greco-Roman face + Buddhist icon |
-| **Taxila stupa relief panel** | Gandhara narrative sculpture |
-| **Gandhara Maitreya Bodhisattva** | Princely jewellery + moustache |
+> **Exam note:** **Gandhara = schist + Greco-Roman**. If the option says red sandstone, it is Mathura.
 
 ---
 
 ## 12.8 Mathura School
 
-### Definitions (learn all — exams pick different ones)
+**Region:** **Mathura, UP** | **Stone:** red / spotted **sandstone** | **Age:** Kushan into Gupta
 
-| Source | Definition |
-|--------|------------|
-| **General** | **Mathura school** = **indigenous Indian sculpture** centred at **Mathura, Uttar Pradesh** — red sandstone images of **Buddha, Jain Tirthankaras, Hindu deities, and Yaksha** under Kushan-Gupta patronage |
-| **NCERT** | Mathura is the **Indian answer to Gandhara** — develops Buddha image without Hellenistic dependence; also premier **Jain sculpture** centre |
-| **Exam usage** | UP geography trap; red sandstone; Kanishka statue; Jain Tirthankara kayotsarga posture |
+- The Buddha here is indigenous Indian. The body is fleshy. Early Kushan eyes are often open.
+- The same workshops cut **Jain Tirthankaras**. Mathura is Buddhist and Jain.
+- Older Yaksha–Yakshi types feed this iconic body.
+- Gupta-period Mathura images exist. The calm “poster” Buddha is still usually **Sarnath**.
+- The stone is not grey schist. It is not Andhra limestone.
 
-### Mathura School — How It Works
-
-- **Mathura school** represents **indigenous sculptural genius**. Uses local **spotted red sandstone** to create icons that feel **Indian**, not Mediterranean.
-- **Geographic + patronage base**:
-  - **Mathura city (UP)**. On Yamuna trade route. **Kushan imperial workshop**.
-  - **Kanishka** patronized Mathura ateliers.
-  - **Continues into Gupta period**. Buddha refinement toward Sarnath classical style.
-
-- **Stylistic features**:
-  - **Spotted red sandstone**. Warm colour, visible grain spots.
-  - **Full, fleshy body volumes** (Kushan phase)** leads to **refined spiritual slimness (Gupta phase).**.
-  - **Indian facial features**. Broader face, not Apollo-nose.
-  - **Sanghati drapery**. Kushan thick folds** leads to **Gupta transparent clinging robe.**.
-  - **Lotus halo, ushnisha** develop here alongside Gandhara.
-
-- **Buddhist Mathura sculpture**:
-  - Among **earliest standing Buddha images** in human form (alongside Gandhara).
-  - **Seated and standing Buddhas**. Abhaya, dhyana mudras.
-  - **Trap**: Mathura Buddha = **indigenous**, NOT Greco-influenced.
-
-- **Jain Mathura sculpture** (syllabus Jain component):
-  - **Tirthankara figures**. Nude standing **kayotsarga** (meditation posture), no loincloth.
-  - **24 Tirthankaras** identifiable by **cognizance (lanchhana)** symbols on pedestal.
-  - **Yaksha-Yakshi pairs** as attendant deities includes **Chakreshvari Yakshi** etc.
-  - **Mathura = most important ancient Jain sculpture centre**. Coexists with Buddhist workshops.
-
-- **Hindu Mathura sculpture**:
-  - **Kushan-era Karttikeya, Vishnu, Shiva** figures.
-  - **Mother goddess (Devi)** terracotta and stone.
-  - Foundation for **Gupta Hindu iconography**.
-
-- **Related UP sites in Mathura tradition**:
-  - **Parkham yaksha** (near Mathura). Mauryan-era precursor.
-  - **Sarnath** (eastern UP). Gupta refinement of Mathura-started Buddha type.
-  - **Kaushambi**. Sculpture finds in same Gangetic cultural zone.
-
-- **Mathura vs Sarnath (Gupta)**:
-  - **Both UP**. But **Sarnath Buddha** = **classical Gupta peak**. **Mathura Kushan Buddha** = earlier, heavier volumes.
-  - Exams test: "Mathura school centre = **Mathura UP**" vs "Gupta classical Buddha = **Sarnath**."
-
-> **Exam note:** **Mathura = UP + red sandstone + indigenous + Jain-Buddhist-Hindu** — four-element identification chain.
-
-### Exam Facts (raata)
-
-- Mathura school centre = Mathura, **Uttar Pradesh**
-- Material = spotted red sandstone
-- **Kushan peak**. Kanishka patronage.
-- Indigenous Indian style (not Greco-Roman)
-- Early standing Buddha images
-- Jain Tirthankara kayotsarga posture
-- Yaksha-Yakshi attendant deities
-- Hindu deities from Kushan era onward
-- Gupta phase refines Mathura Buddha toward Sarnath ideal
-- Parkham yaksha = related UP sculpture find
-
-### PYQs — Mathura School
-
-1. **(UPSC Prelims 2016 — pattern)** Mathura school of art flourished during which period?
-
-   A. Mauryan  B. Kushan-Gupta  C. Mughal  D. British  
-   → **B — Kushan-Gupta** (1st–6th c. CE peak).
-
-2. **(UPSC Prelims 2014 — pattern)** The Mathura school of sculpture is noted for images of:
-
-   A. Only Buddha  B. Buddha, Jain Tirthankaras, and Hindu deities  C. Only Islamic calligraphy  D. Only terracotta  
-   → **B — Multi-religious indigenous sculpture**.
-
-### Examples (12.8)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Kanishka standing statue (Mathura)** | Kushan royal portrait sculpture |
-| **Mathura Jain Tirthankara (kayotsarga)** | Jain component of school |
-| **Kushan Buddha, Mathura red sandstone** | Indigenous iconic Buddha |
+> **Exam note:** **Mathura = red sandstone + UP**. Jain + Buddhist together.
 
 ---
 
 ## 12.9 Amaravati School
 
-### Definitions (learn all — exams pick different ones)
+**Region:** Krishna–Godavari, Andhra | **Stone:** white / greenish **limestone** | **Age:** Satavahana–Ikshvaku
 
-| Source | Definition |
-|--------|------------|
-| **General** | **Amaravati school** = **Andhra Pradesh** Buddhist narrative sculpture — white limestone panels with **dynamic movement, floral abundance, and human Buddha scenes** on stupa railings |
-| **NCERT** | Amaravati represents **distinct South Indian Buddhist sculptural idiom** — contrasts with static Gandhara and robust Mathura |
-| **Exam usage** | Andhra geography; limestone material; dynamic narrative; Satavahana-Ikshvaku patronage; NOT UP/NW |
+- Panels are narrative **stupa** casing slabs. Scenes are crowded and moving. The human Buddha appears in action.
+- A platform with **Aryaka-pillars** is the lock. UPPCS **2022 Q80**.
+- **Nagarjunakonda** and Ghantasala are related Andhra sites. The named Aryaka-pillar answer is still **Amaravati**.
+- Bodies are flowing. They are not Gandhara’s toga-Buddha.
+- The first identity is not Mathura’s free-standing red-sandstone icon.
 
-### Amaravati School — How It Works
+> **Exam note:** **Amaravati = limestone + Aryaka-pillars**. Not Bodh Gaya, not Sanchi.
 
-- **Amaravati school** decorates **Great Stupa at Amaravati** (Krishna-Godavari delta). Among India's greatest **narrative relief** programmes.
-- **Geographic + patronage**:
-  - **Amaravati, Dhanyakataka** (ancient Andhra capital region).
-  - **Nagarjunakonda**. Related Ikshvaku site with parallel style.
-  - Patrons: **Satavahana** (2nd c. BCE – 2nd c. CE) and **Ikshvaku** (3rd–4th c. CE).
-  - **Trap**: Amaravati = **Andhra Pradesh (South)**, NOT Amaravati in Maharashtra confusion (different place names).
+**PYQ — UPPCS Prelims 2022, Q80**
 
-- **Material + technique**:
-  - **White/greenish limestone** (sometimes called **Amaravati marble** in older texts).
-  - **Shallow to high relief** narrative panels. Fitted onto **stupa railing (vedika)** and **torana**.
-  - **Polished smooth surfaces**. Figures appear to swirl in motion.
+In which of the following stupas are the features of a platform with **'Aryaka-Pillars'** found?
 
-- **Stylistic features** (identification checklist):
-  - **Dynamic movement**. Figures lean, turn, gesture actively.
-  - **Profuse floral motifs**. Lotus scrolls, garlands frame every scene.
-  - **Turbans, heavy earrings, beaded necklaces** on figures.
-  - **Slender bodies**. More elongated than Mathura Kushan mass.
-  - **Human Buddha** depicted in scenes (unlike early aniconic Sanchi).
-  - **Crowded compositions**. Many figures per panel telling Jataka stories.
-
-- **Subject matter**:
-  - **Jataka tales**. Buddha's previous births.
-  - **Life of Buddha**. Birth, enlightenment, sermon scenes.
-  - **Worship scenes**. Devotees around stupa/Buddha.
-  - **Royal processions**. Satavahana kings depicted (some panels show foreign dress).
-
-- **Amaravati vs other schools** (master comparison):
-
-  | Feature | Amaravati | Gandhara | Mathura |
-  |---------|-----------|----------|---------|
-  | **Region** | Andhra (South) | Northwest | UP (North) |
-  | **Material** | White limestone | Grey schist | Red sandstone |
-  | **Style** | Dynamic narrative panels | Greco-Buddhist icons | Indigenous round icons |
-  | **Buddha form** | Human in narrative scenes | Standing icon | Standing/seated icon |
-  | **Influence** | Indigenous South Indian | Greco-Roman | Indigenous North Indian |
-
-- **Decline**: **3rd–4th century** peak. Stupa fell into ruin. Panels dispersed to **British Museum, Chennai Museum, Amaravati site museum**. Archaeological tragedy but exam focuses on style identification.
-- **Jain connection**: Amaravati region also has **Jain cave and sculpture** remains, but school is **primarily Buddhist** in exam context.
-
-> **Exam note:** **Amaravati = Andhra + limestone + dynamic narrative panels** — geography trap (NOT Gandhara, NOT Mathura) is #1 error.
-
-### Exam Facts (raata)
-
-- Amaravati school = Andhra Pradesh (South India)
-- White/greenish limestone material
-- Great Stupa at Amaravati = main site
-- Satavahana + Ikshvaku patronage
-- Dynamic movement + profuse floral motifs
-- Human Buddha in narrative scenes
-- Jataka and life-of-Buddha panels
-- Nagarjunakonda = related Andhra site
-- Contrasts with static Gandhara icons
-- Panels in Chennai + British Museum collections
-
-### PYQs — Amaravati School
-
-1. **(UPSC Prelims 2019 — pattern)** Amaravati school of art flourished in:
-
-   A. Gujarat  B. Andhra region  C. Kashmir  D. Bihar  
-   → **B — Andhra region** (Krishna-Godavari delta).
-
-2. **(UPSC Prelims 2017 — pattern)** Which school is known for narrative limestone panels on stupas?
-
-   A. Gandhara  B. Mathura  C. Amaravati  D. Mughal  
-   → **C — Amaravati** (dynamic stupa relief tradition).
-
-### Examples (12.9)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Amaravati stupa railing panel** | Dynamic narrative limestone relief |
-| **Nagarjunakonda Buddha scene** | Related Ikshvaku Andhra sculpture |
-| **Amaravati lotus-scroll motif** | Floral decorative style hallmark |
-
----
-
-## Consolidated Reference — Everything in One Place
-
-### Sculpture Schools — Master Comparison Table
-
-| School | Region | Period | Material | Style | Main subjects |
-|--------|--------|--------|----------|-------|---------------|
-| **Mauryan** | Gangetic plain | 3rd c. BCE | Chunar sandstone | Mirror polish, realism | Pillars, yaksha-yakshi |
-| **Shunga** | Central India | 2nd–1st c. BCE | Sandstone | Narrative relief | Bharhut, Sanchi panels |
-| **Gandhara** | Northwest | 1st–3rd c. CE | Grey schist | Greco-Roman Buddha | Buddha, Bodhisattva |
-| **Mathura** | **UP** | 1st–6th c. CE | Red sandstone | Indigenous Indian | Buddha, Jain, Hindu |
-| **Amaravati** | Andhra | 2nd–4th c. CE | White limestone | Dynamic narrative | Stupa Jataka panels |
-| **Gupta** | **UP** (Sarnath, Mathura) | 4th–6th c. CE | Sandstone | Spiritual idealism | Buddha, Vishnu |
-| **Chola bronze** | Tamil Nadu | 9th–13th c. CE | Bronze (lost-wax) | Iconographic precision | Nataraja, Devi |
-| **Hoysala** | Karnataka | 12th c. CE | Soapstone | Micro-carving | Temple friezes |
-
-### Buddha Mudras — Quick Table
-
-| Mudra | Hand position | Event |
-|-------|---------------|-------|
-| **Dharmachakra** | Both hands at chest, wheel-turning | First sermon (Sarnath) |
-| **Bhumisparsha** | Right hand touches earth | Enlightenment |
-| **Abhaya** | Right hand raised, palm out | Protection |
-| **Dhyana** | Hands in lap | Meditation |
-| **Varada** | Hand extended downward | Boons |
-
-### Stone Materials — Region Map
-
-| Material | Source region | School |
-|----------|---------------|--------|
-| Chunar sandstone | Mirzapur, **UP** | Mauryan polish |
-| Red spotted sandstone | **Mathura, UP** | Mathura-Kushan-Gupta |
-| Grey schist | Gandhara NW | Greco-Buddhist |
-| White limestone | Andhra | Amaravati |
-| Granite | Tamil Nadu, Karnataka | Pallava-Chola |
-| Chloritic schist | Karnataka | Hoysala |
-
-### Chola Nataraja — Iconography Table
-
-| Part | Symbolism |
-|------|-----------|
-| Ring of fire | Cosmic cycle |
-| Damaru | Creation sound |
-| Fire in hand | Destruction |
-| Apasmara dwarf | Ignorance crushed |
-| Abhaya mudra | Devotee protection |
-| Raised leg | Refuge-giving dance |
-
-### Important Dates — Sculpture
-
-| Date/Period | Event |
-|-------------|-------|
-| **c. 2500 BCE** | Dancing Girl bronze (IVC, Mohenjo-daro) |
-| **3rd c. BCE** | Mauryan polished pillars (Sarnath Lion Capital) |
-| **2nd c. BCE** | Bharhut stupa reliefs (Shunga) |
-| **1st–3rd c. CE** | Gandhara + Mathura Buddha icons (Kushan) |
-| **2nd–4th c. CE** | Amaravati narrative panels (Satavahana-Ikshvaku) |
-| **4th–6th c. CE** | Gupta classical Buddha (Sarnath) |
-| **7th–8th c. CE** | Pallava rock sculpture (Mahabalipuram) |
-| **9th–13th c. CE** | Chola bronze Nataraja peak |
-| **UPPCS 2025 Q87** | Mandi + Hulas = UP IVC; Rakhigarhi ≠ UP |
-
-### UP Focus — Sculpture
-
-| Element | UP Detail |
-|---------|-----------|
-| **Mathura** | Kushan-Gupta red sandstone school; Buddha + Jain Tirthankaras |
-| **Sarnath** | Mauryan Lion Capital (National Emblem) + Gupta Buddha |
-| **Chunar sandstone** | Mirzapur district — Mauryan pillar material |
-| **Kaushambi** | Sculpture + terracotta finds (Gangetic plain) |
-| **Ahichhatra** | Bareilly — Gupta terracotta figurines |
-| **Parkham yaksha** | Near Mathura — Mauryan sculpture precursor |
-| **Didarganj Yakshi** | Mauryan polish style (Patna museum; cultural zone) |
-| **NOT UP trap** | Gandhara = NW Pakistan; Amaravati = Andhra; Rakhigarhi = Haryana |
-| **Khajuraho** | MP (border cultural zone) — mithuna temple sculpture |
-
----
-
-## Practice Zone (Topic 12)
-
-> **35 questions** | ~46% multi-statement/A/R/matching | Answers hidden — click *Show answer*.
-
-**Q1.** Gandhara school of art shows influence of:
-
-Options: A. Greco-Roman art  B. Chinese art  C. Dravidian art  D. Tribal art only
+A. Nagarjunakonda  
+B. Ghantasala  
+C. Amaravati  
+D. Bodhgaya
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Greco-Buddhist Hellenistic influence.
+**Ans: C — Amaravati.**
 
 </details>
 
 ---
 
-**Q2.** The Dancing Girl figurine is made of:
+## Consolidated Reference — Once Only
 
-Options: A. Terracotta  B. Bronze  C. Stone  D. Copper
+**UP Focus**
 
-<details>
-<summary>Show answer</summary>
+- **Mathura** is the red-sandstone school. It cuts both Buddha and Tirthankara images.
+- **Sarnath** holds the Mauryan Lion Capital and the Gupta dharmachakra Buddha. UNESCO WHS **2026**.
+- **Chunar** is the Mauryan polish stone.
+- **Ahichhatra** and **Kaushambi** are the terracotta homes.
+- Gandhara and Amaravati are not UP schools.
+- Khajuraho, Sanchi, Konark, Chola bronze and Didarganj are also outside UP.
 
-**Ans: B** — Bronze, lost-wax, Mohenjo-daro.
+**Lion Capital (once)**
 
-</details>
-
----
-
-**Q3.** Lion Capital of Ashoka is located at:
-
-Options: A. Sarnath  B. Sanchi  C. Bharhut  D. Mathura
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Sarnath, UP (National Emblem source).
-
-</details>
+- Four lions sit back to back. The abacus shows a horse, a bull, an elephant and a lion, with the dharmachakra. It became the National Emblem in **1950**.
 
 ---
 
-**Q4.** Consider the following about sculpture schools:
+## Practice Zone — UPPCS Format Drill
 
-1. Gandhara used grey schist.  
-2. Mathura school was in present-day Uttar Pradesh.
+**40 questions.** ≥60% multi-statement. A/R, Match-List, chronology, NOT-matched included.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+**Q1.** With reference to Indian sculpture schools, which of the following statements is/are correct?
+
+1. Gandhara uses grey schist and shows Greco-Roman influence.  
+2. Mathura uses red sandstone and lies in Uttar Pradesh.  
+3. Amaravati is a Himalayan grey-schist school.
+
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 and 3 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both correct.
+**Ans: A.** Amaravati = Andhra limestone.
 
 </details>
 
----
+**Q2.** Match List-I with List-II.
 
-**Q5.** Amaravati school of sculpture flourished in:
+**List-I**  
+A. Gandhara  
+B. Mathura  
+C. Amaravati  
+D. Hoysala  
 
-Options: A. Gujarat  B. Andhra region  C. Kashmir  D. Bihar
+**List-II**  
+1. Red sandstone  
+2. Grey schist  
+3. Soapstone  
+4. Limestone  
+
+A. 2 1 4 3  
+B. 2 1 3 4  
+C. 1 2 4 3  
+D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Krishna-Godavari delta, Andhra.
+**Ans: A.**
 
 </details>
 
----
+**Q3.** Which of the following pairs is/are NOT correctly matched?
 
-**Q6.** Consider the following about Gupta sculpture:
+1. Bharhut — Shunga narrative relief  
+2. Bharhut — Mauryan polish pillars  
+3. Sanchi toranas — Buddhist narrative sculpture  
 
-1. Sarnath Buddha shows dharmachakra mudra.  
-2. Gupta Buddha style is heavier and more muscular than Kushan Mathura sculpture.
-
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. 1 and 2 only  
+B. 2 only  
+C. 2 and 3 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Only 1. Gupta = refined spiritual idealism; Kushan Mathura = heavier volumes (statement 2 false).
+**Ans: B.** Bharhut is Shunga, not Mauryan.
 
 </details>
 
----
+**Q4.** Assertion (A): The Sarnath seated Buddha in dharmachakra mudra is a Gupta classic.  
+Reason (R): Gupta images typically show a heavy Kushan body and thick toga folds.
 
-**Q7.** Match List-I with List-II:
-
-List-I: A. Gandhara  B. Mathura  C. Amaravati  D. Hoysala  
-List-II: 1. Soapstone micro-carving  2. Grey schist  3. White limestone  4. Red sandstone
-
-Options: A. 2 4 3 1  B. 4 2 1 3  C. 2 4 1 3  D. 3 4 2 1
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Gandhara-schist, Mathura-sandstone, Amaravati-limestone, Hoysala-soapstone.
+**Ans: C.** Gupta = transparent robe and calm, not Kushan bulk.
 
 </details>
 
----
+**Q5.** Aryaka-pillars on a stupa platform are associated with:
 
-**Q8.** Chola Nataraja bronze depicts Shiva crushing:
-
-Options: A. Ravana  B. Apasmara (ignorance dwarf)  C. Mahishasura  D. Kansa
+A. Bodhgaya  
+B. Sanchi  
+C. Amaravati  
+D. Sarnath
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Apasmara = ignorance under foot.
+**Ans: C.** UPPCS 2022 Q80.
 
 </details>
 
----
+**Q6.** Arrange the following in chronological order.
 
-**Q9.** Consider the following:
+1. Chola Nataraja bronzes  
+2. Harappan Dancing Girl  
+3. Gupta Sarnath Buddha  
+4. Mauryan Lion Capital  
 
-1. Early Sanchi sculpture is largely aniconic.  
-2. Bharhut sculptures belong to the Mauryan period.
-
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. 2 4 3 1  
+B. 2 4 1 3  
+C. 4 2 3 1  
+D. 2 3 4 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Only 1. Bharhut = **Shunga**, not Mauryan.
+**Ans: A.**
 
 </details>
 
----
+**Q7.** Match List-I with List-II.
 
-**Q10.** Ashoka pillars are made of:
+**List-I (Mudra)**  
+A. Dharmachakra  
+B. Bhumisparsha  
+C. Abhaya  
+D. Dhyana  
 
-Options: A. Granite  B. Chunar sandstone  C. Marble  D. Basalt
+**List-II**  
+1. Meditation  
+2. First sermon  
+3. Earth-witness  
+4. Fearlessness  
+
+A. 2 3 4 1  
+B. 2 3 1 4  
+C. 3 2 4 1  
+D. 2 4 3 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Chunar sandstone with Mauryan polish (UP source).
+**Ans: A.**
 
 </details>
 
----
+**Q8.** With reference to early Buddhist art, which of the following statements is/are correct?
 
-**Q11.** Khajuraho temple sculpture is famous for:
+1. Aniconic art uses the wheel, tree and empty throne.  
+2. The earliest Sanchi railings already show a standardised Gupta Buddha.  
+3. The human Buddha becomes common in the Kushan period.
 
-Options: A. Only Buddhist Jataka panels  B. Mithuna panels and Nagara architecture  C. Chola bronze icons  D. Gandhara Bodhisattva heads
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 and 3 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Chandella Nagara + mithuna sculpture.
+**Ans: B.**
 
 </details>
 
----
+**Q9.** Which of the following is NOT correctly matched?
 
-**Q12.** Arjuna's Penance is a rock relief at:
-
-Options: A. Ellora  B. Mahabalipuram  C. Khajuraho  D. Konark
+A. Dancing Girl — bronze, lost-wax  
+B. Didarganj Yakshi — Mauryan polish  
+C. Nataraja — Chola bronze  
+D. Dancing Girl — terracotta mother goddess
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Pallava Mahabalipuram open-air relief.
+**Ans: D.**
 
 </details>
 
----
+**Q10.** Consider the following about Nataraja:
 
-**Q13.** Which is/are correctly matched?
+1. The upper right hand holds the damaru.  
+2. The right foot crushes Apasmara.  
+3. It is typically a Hoysala soapstone wall-figure, not a bronze.
 
-1. Mathura — Jain Tirthankara sculpture  2. Gandhara — indigenous Indian style without foreign influence  3. Gupta — transparent sanghati
+How many of the above statements are correct?
 
-Options: A. 1 and 2  B. 2 and 3  C. 1 and 3  D. 1, 2 and 3
+A. Only one  
+B. Only two  
+C. All three  
+D. None
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — 1 and 3 correct. Gandhara HAS Greco influence (2 wrong).
+**Ans: B.** 1 and 2. Nataraja = Chola bronze.
 
 </details>
 
----
+**Q11.** Assertion (A): Mathura produced both Buddha and Tirthankara images.  
+Reason (R): Mathura stone is grey Gandhara schist.
 
-**Q14.** Lost-wax casting is associated with:
-
-Options: A. Mauryan pillar polish  B. Chola bronze Nataraja  C. Hoysala soapstone  D. Amaravati limestone relief
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Bronze lost-wax (cire perdue) technique.
+**Ans: C.**
 
 </details>
 
----
+**Q12.** Match List-I with List-II.
 
-**Q15.** Which IVC sites are in present-day Uttar Pradesh?
+**List-I**  
+A. Khajuraho  
+B. Konark  
+C. Mahabalipuram  
+D. Halebidu  
 
-1. Mandi  2. Rakhigarhi  3. Hulas
+**List-II**  
+1. Pallava open-air relief  
+2. Chandela mithuna  
+3. Hoysala soapstone  
+4. Sun-chariot wheels  
 
-Options: A. 1 and 2  B. Only 3  C. 1 and 3  D. Only 1
+A. 2 4 1 3  
+B. 2 4 3 1  
+C. 4 2 1 3  
+D. 2 1 4 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — UPPCS 2025 Q87: Mandi + Hulas; Rakhigarhi = Haryana.
+**Ans: A.**
 
 </details>
 
----
+**Q13.** Udayagiri (Vidisha) Varaha relief is associated with which period?
 
-**Q16.** Assertion (A): Gupta sculpture represents spiritual idealism.  
-Reason (R): Gupta Buddha at Sarnath shows transparent sanghati and meditative calm.
-
-Options: A. Both true; R explains A  B. Both true; R not explanation  C. A true, R false  D. A false, R true
+A. Mauryan  
+B. Gupta  
+C. Chola  
+D. Mughal
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Both true; Sarnath Buddha exemplifies Gupta idealism.
+**Ans: B.** Chandragupta II. Not Odisha’s Jain caves.
 
 </details>
 
----
+**Q14.** With reference to stone, which of the following statements is/are correct?
 
-**Q17.** Mathura school used which stone?
+1. Chunar sandstone takes Mauryan polish.  
+2. Amaravati panels are typically limestone.  
+3. Hoysala temples are typically Chunar sandstone.
 
-Options: A. Grey schist  B. Spotted red sandstone  C. White marble  D. Basalt
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 and 3 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Indigenous UP red spotted sandstone.
+**Ans: A.** Hoysala = soapstone.
 
 </details>
 
----
+**Q15.** Which of the following pairs is NOT correctly matched?
 
-**Q18.** Konark Sun Temple is known for sculptural depiction of:
-
-Options: A. Only Jain Tirthankaras  B. Stone wheels and horses of Sun chariot  C. Greco-Buddhist heads  D. Mughal miniature panels
+A. Lion Capital — Sarnath  
+B. Parkham Yaksha — Mathura region  
+C. Elephanta Trimurti — Odisha Konark  
+D. Kailasa monolith — Ellora
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Colossal stone chariot sculpture.
+**Ans: C.** Elephanta = Mumbai harbour.
 
 </details>
 
----
+**Q16.** Consider the following statements:
 
-**Q19.** Arrange chronologically (earliest first):
+1. Konark has 24 wheels and 7 horses in the usual exam lock.  
+2. Khajuraho is Dravida in style.  
+3. Mithuna panels are a Khajuraho tag.
 
-1. Mauryan polished pillars  2. Gandhara Buddha icons  3. Chola Nataraja bronze  4. Amaravati stupa panels
-
-Options: A. 1,4,2,3  B. 1,2,4,3  C. 4,1,2,3  D. 1,4,3,2
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 and 3 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Mauryan (3rd c. BCE) → Gandhara icons (1st–3rd c. CE) → Amaravati panels (2nd–4th c. CE) → Chola bronze (9th–13th c.).
+**Ans: B.** Khajuraho = Nagara.
 
 </details>
 
----
+**Q17.** Assertion (A): Chola temples pair granite architecture with bronze processional images.  
+Reason (R): Nataraja is the standard Chola lost-wax lock.
 
-**Q20.** Didarganj Yakshi is an example of:
-
-Options: A. Gupta spiritual Buddha  B. Mauryan polished stone sculpture  C. Chola bronze  D. Gandhara schist Bodhisattva
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Mauryan polished sandstone yakshi.
+**Ans: A.**
 
 </details>
 
----
+**Q18.** Gandhara Bodhisattvas often show:
 
-**Q21.** Which is NOT correctly matched?
-
-Options: A. Sarnath — Gupta Buddha  B. Taxila — Gandhara school  C. Mathura — White limestone panels  D. Halebidu — Hoysala sculpture
+A. Red spotted sandstone only  
+B. Hellenistic face, jewellery, sometimes a moustache  
+C. Chandela mithuna  
+D. Hoysala star-plan walls
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Mathura = red sandstone, NOT limestone (that's Amaravati).
+**Ans: B.**
 
 </details>
 
----
+**Q19.** Match List-I with List-II.
 
-**Q22.** Consider Chola Nataraja iconography:
+**List-I**  
+A. Didarganj Yakshi  
+B. Sarnath Lion Capital  
+C. Dancing Girl  
+D. Gommateshwara  
 
-1. Ring of fire represents cosmic cycle.  
-2. Damaru represents sound of creation.
+**List-II**  
+1. National Emblem stone  
+2. Mauryan polish, Patna  
+3. Shravanabelagola, Karnataka  
+4. Mohenjo-daro bronze  
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. 2 1 4 3  
+B. 2 1 3 4  
+C. 1 2 4 3  
+D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both correct.
+**Ans: A.**
 
 </details>
 
----
+**Q20.** With reference to Amaravati, which of the following statements is/are correct?
 
-**Q23.** Early Buddhist sculpture at Sanchi (earliest phase) primarily used:
+1. It is a limestone narrative school of Andhra.  
+2. Aryaka-pillars are its UPPCS lock.  
+3. It is the same as the Mathura red-sandstone school.
 
-Options: A. Human Buddha figures only  B. Aniconic symbols  C. Mughal-style portraits  D. Terracotta only
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 and 3 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Aniconic wheel, tree, footprints.
+**Ans: A.**
 
 </details>
 
----
+**Q21.** Which of the following is/are Gupta sculpture locks?
 
-**Q24.** Match List-I with List-II:
+1. Sarnath dharmachakra Buddha  
+2. Udayagiri Varaha  
+3. Chola Nataraja  
 
-List-I: A. Bharhut  B. Udayagiri  C. Khajuraho  D. Swamimalai  
-List-II: 1. Varaha relief  2. Narrative stupa panels  3. Chola bronze centre  4. Mithuna temple sculpture
-
-Options: A. 2 1 4 3  B. 2 1 3 4  C. 1 2 4 3  D. 4 2 1 3
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 and 3 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Bharhut-panels, Udayagiri-Varaha, Khajuraho-mithuna, Swamimalai-bronze.
+**Ans: A.**
 
 </details>
 
----
+**Q22.** Dhokra is best described as:
 
-**Q25.** Dhokra bronze craft is primarily associated with:
-
-Options: A. Chola temple workshops  B. Tribal hollow bell-metal casting  C. Mauryan pillar making  D. Gandhara schist carving
+A. Chola temple Nataraja  
+B. Tribal lost-wax bell-metal  
+C. Gandhara schist Buddha  
+D. Mauryan pillar polish
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Tribal tradition (Chhattisgarh-Odisha), distinct from Chola.
+**Ans: B.**
 
 </details>
 
----
+**Q23.** Arrange these schools from north-west to the Krishna–Godavari.
 
-**Q26.** Jain Tirthankara sculptures at Mathura typically show:
+1. Amaravati  
+2. Gandhara  
+3. Mathura  
 
-Options: A. Seated on lion throne with weapons  B. Standing nude kayotsarga posture  C. Greco-Roman toga  D. Chariot wheel mudra only
+A. 2 3 1  
+B. 3 2 1  
+C. 2 1 3  
+D. 1 3 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Kayotsarga meditation posture, nude standing.
+**Ans: A.**
 
 </details>
 
----
+**Q24.** With reference to the Lion Capital, which of the following statements is/are correct?
 
-**Q27.** Which is/are correctly matched?
+1. It is from Sarnath.  
+2. It is Mauryan polished sandstone.  
+3. It is a Chola bronze.
 
-1. Deogarh — Gupta Vishnu panels  2. Konark — Odisha temple sculpture  3. Gandhara — Andhra limestone
-
-Options: A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 and 3 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — 1 and 2 only. Gandhara = NW schist, not Andhra limestone.
+**Ans: A.**
 
 </details>
 
----
+**Q25.** Which of the following pairs is NOT correctly matched?
 
-**Q28.** The Mauryan polish technique is found on:
-
-Options: A. Hoysala soapstone  B. Chunar sandstone pillars  C. Amaravati limestone  D. Chola bronze
+A. Abhaya — fearlessness  
+B. Varada — boon  
+C. Bhumisparsha — first sermon  
+D. Dhyana — meditation
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Unique Mauryan Chunar sandstone polish.
+**Ans: C.** First sermon = dharmachakra. Bhumisparsha = enlightenment.
 
 </details>
 
----
+**Q26.** Assertion (A): Early Buddhist stupa art at Sanchi is largely aniconic.  
+Reason (R): The Kushan age standardises the human Buddha image.
 
-**Q29.** Assertion (A): Mathura and Gandhara developed Buddha images independently.  
-Reason (R): Mathura used indigenous red sandstone while Gandhara used Greco-Roman influenced schist.
-
-Options: A. Both true; R explains A  B. Both true; R not explanation  C. A true, R false  D. A false, R true
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Parallel schools with different materials and influences.
+**Ans: B.** Both true. R explains the later phase, not why early Sanchi is aniconic.
 
 </details>
 
----
+**Q27.** Pala bronzes are mainly associated with:
 
-**Q30.** Pala period bronze Buddha images are mainly associated with:
-
-Options: A. Tamil Nadu  B. Bihar-Bengal (Nalanda region)  C. Gujarat  D. Kashmir only
+A. Chola Nataraja processions in Tamil Nadu  
+B. Eastern Indian Buddhist images  
+C. Hoysala soapstone walls  
+D. Mughal pietra dura
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Eastern Indian Buddhist bronze tradition.
+**Ans: B.**
 
 </details>
 
----
+**Q28.** Consider the following:
 
-**Q31.** Consider temple sculpture:
+1. Parkham Yaksha belongs to the Mathura region.  
+2. Didarganj Yakshi shows Mauryan polish.  
+3. Both are Chola bronzes.
 
-1. Hoysala temples feature soapstone micro-carving.  
-2. Khajuraho features Dravida-style gopuram as primary form.
+How many of the above statements are correct?
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only one  
+B. Only two  
+C. All three  
+D. None
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Only 1. Khajuraho = **Nagara**, not Dravida gopuram.
+**Ans: B.** 1 and 2.
 
 </details>
 
----
+**Q29.** Match List-I with List-II.
 
-**Q32.** Grey schist is the primary material of:
+**List-I**  
+A. Ellora Kailasa  
+B. Elephanta  
+C. Deogarh  
+D. Bhitargaon  
 
-Options: A. Mathura school  B. Gandhara school  C. Amaravati school  D. Chola bronze
+**List-II**  
+1. Gupta Vishnu panels  
+2. Rashtrakuta monolith  
+3. Gupta brick temple (UP)  
+4. Maheshamurti Shiva  
+
+A. 2 4 1 3  
+B. 2 4 3 1  
+C. 4 2 1 3  
+D. 2 1 4 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Gandhara northwest school.
+**Ans: A.**
 
 </details>
 
----
+**Q30.** Gommateshwara (Bahubali) at Shravanabelagola is:
 
-**Q33.** Which mudra is associated with Buddha's first sermon at Sarnath?
-
-Options: A. Bhumisparsha  B. Dharmachakra  C. Dhyana  D. Varada
+A. A Chola Nataraja  
+B. A colossal Jain stone image in Karnataka  
+C. A Gandhara schist Buddha  
+D. A Mathura red-sandstone Yakshi
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Turning the wheel of law.
+**Ans: B.** Kayotsarga. Mahamastakabhisheka every 12 years is the ritual tag.
 
 </details>
 
----
+**Q31.** With reference to UP sculpture, which of the following statements is/are correct?
 
-**Q34.** Consider foreign influence on sculpture:
+1. Mathura is the red-sandstone school.  
+2. Sarnath holds both the Lion Capital and the Gupta Buddha.  
+3. Amaravati is in eastern Uttar Pradesh.
 
-1. Gandhara shows Greco-Roman elements.  
-2. Mathura shows no indigenous Indian elements.
-
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 and 3 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Only 1. Mathura is **indigenous Indian** (statement 2 false).
+**Ans: A.**
 
 </details>
 
----
+**Q32.** Which of the following is/are rock-cut sculpture sites?
 
-**Q35.** National Emblem of India is derived from sculpture at:
+1. Mahabalipuram reliefs  
+2. Ellora Kailasa  
+3. Chola Nataraja bronzes  
 
-Options: A. Sanchi stupa  B. Sarnath Lion Capital  C. Khajuraho temple  D. Konark wheel
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 and 3 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Mauryan Lion Capital, Sarnath, UP.
+**Ans: A.**
+
+</details>
+
+**Q33.** Assertion (A): Hoysala sculpture is famous for minute jewellery-like carving.  
+Reason (R): The usual stone is soft chloritic schist (soapstone).
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.**
+
+</details>
+
+**Q34.** The National Emblem of India is taken from:
+
+A. Mathura Parkham Yaksha  
+B. Sarnath Lion Capital  
+C. Konark wheel  
+D. Chola Nataraja
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.**
+
+</details>
+
+**Q35.** Consider the following pairs:
+
+1. Ghantasala — Amaravati region  
+2. Nagarjunakonda — Andhra Buddhist site  
+3. Aryaka-pillars — Bodh Gaya Mahabodhi as the 2022 lock  
+
+Which of the pairs given above is/are correctly matched?
+
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 2022 lock = Amaravati, not Bodh Gaya.
+
+</details>
+
+**Q36.** Transparent clinging drapery is a hallmark of:
+
+A. Early aniconic Sanchi  
+B. Gupta Sarnath Buddha  
+C. IVC terracotta  
+D. Dhokra brass
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.**
+
+</details>
+
+**Q37.** With reference to Jain sculpture, which of the following statements is/are correct?
+
+1. Mathura workshops cut Tirthankaras in red sandstone.  
+2. Gommateshwara is a Karnataka colossus.  
+3. Jain images never appear in the same city as Buddhist images.
+
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Mathura does both.
+
+</details>
+
+**Q38.** Match List-I with List-II.
+
+**List-I**  
+A. Apasmara  
+B. Prabhamandala  
+C. Utsava murti  
+D. Sanghati  
+
+**List-II**  
+1. Buddha’s robe  
+2. Dwarf of ignorance  
+3. Ring of fire  
+4. Processional bronze  
+
+A. 2 3 4 1  
+B. 2 3 1 4  
+C. 3 2 4 1  
+D. 2 4 3 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.**
+
+</details>
+
+**Q39.** Which of the following statements is/are correct?
+
+1. Pallava rathas at Mahabalipuram are monolithic.  
+2. Chola Brihadeeswara is a granite structural temple.  
+3. Both are soapstone Hoysala shrines.
+
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.**
+
+</details>
+
+**Q40.** Assertion (A): Gandhara and Mathura both made Buddha images in the Kushan period.  
+Reason (R): Both schools used the same red spotted sandstone of Mathura.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Same age, different stone and region.
 
 </details>
 
@@ -1434,208 +972,51 @@ Options: A. Sanchi stupa  B. Sarnath Lion Capital  C. Khajuraho temple  D. Konar
 
 ## Complete PYQ Bank (Topic 12)
 
-> **Answers hidden** — click *Show answer* under each question to reveal.
+**UPPCS Prelims 2022, Q80**
 
-**Q1. UPPCS Prelims 2025 — Q87**
+In which of the following stupas are the features of a platform with **'Aryaka-Pillars'** found?
 
-Which IVC archaeological sites are situated in present-day Uttar Pradesh?
-
-1. Mandi  2. Rakhigarhi  3. Hulas
-
-Options: A. 1 and 2  B. Only 3  C. 1 and 3  D. Only 1
+A. Nagarjunakonda  
+B. Ghantasala  
+C. Amaravati  
+D. Bodhgaya
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Mandi + Hulas in UP; Rakhigarhi = Haryana.
+**Ans: C — Amaravati.**
 
 </details>
+
+**Related, not banked as sculpture-primary:** 2025 Q87 IVC-UP sites (Topic 10). 2018 temple chronology (architecture). 2018 Hathigumpha = Kharavela (inscription). 2021 Tirthankara list (Topic 2).
 
 ---
 
-**Q2. UPSC Prelims 2020 — pattern**
+## Current Affairs
 
-Dancing Girl figurine material:
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| **25 July 2026** | Ancient Buddhist Site of Sarnath = UNESCO WHS (India’s **45th**; UP’s **4th**). Serial: **Chaukhandi Stupa** + Archaeological Remains | Lion Capital + Gupta Buddha campus | UNESCO 48th WHC, Busan |
+| Standing | National Emblem from Sarnath Lion Capital (1950) | Static identity | GoI |
 
-Options: A. Terracotta  B. Bronze  C. Stone  D. Copper
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Bronze (lost-wax).
-
-</details>
-
----
-
-**Q3. UPSC Prelims 2020 — pattern**
-
-Ashoka pillars made of:
-
-Options: A. Granite  B. Chunar sandstone  C. Marble  D. Basalt
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Chunar sandstone, Mauryan polish.
-
-</details>
-
----
-
-**Q4. UPSC Prelims 2020 — pattern**
-
-Lion Capital of Ashoka located at:
-
-Options: A. Sarnath  B. Sanchi  C. Bharhut  D. Mathura
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Sarnath, UP.
-
-</details>
-
----
-
-**Q5. UPSC Prelims 2019 — pattern**
-
-Gandhara school influenced by:
-
-Options: A. Chinese  B. Greco-Roman  C. Persian only  D. Dravidian
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Greco-Buddhist.
-
-</details>
-
----
-
-**Q6. UPSC Prelims 2019 — pattern**
-
-Amaravati school flourished in:
-
-Options: A. Gujarat  B. Andhra  C. Kashmir  D. Bihar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Andhra region.
-
-</details>
-
----
-
-**Q7. UPSC Prelims 2019 — pattern**
-
-Bharhut = Mauryan period? Gandhara = Greek influence?
-
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Only 2 (Gandhara Greek influence). Bharhut = Shunga.
-
-</details>
-
----
-
-**Q8. UPSC Prelims 2018 — pattern**
-
-Gandhara art influence:
-
-Options: A. Chinese  B. Greco-Roman  C. Persian only  D. Dravidian
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Greco-Roman.
-
-</details>
-
----
-
-**Q9. UPSC Prelims 2018 — pattern**
-
-Khajuraho known for:
-
-Options: A. Buddhist chaitya  B. Erotic/mithuna sculptures  C. Mughal gardens  D. IVC drains
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Mithuna temple panels.
-
-</details>
-
----
-
-**Q10. UPSC Prelims 2018 — pattern**
-
-Arjuna's Penance at:
-
-Options: A. Ellora  B. Mahabalipuram  C. Khajuraho  D. Sanchi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Pallava rock relief.
-
-</details>
-
----
-
-**Q11. UPSC Prelims 2017 — pattern**
-
-Northern Black Polished Ware = Mauryan (culture period overlap):
-
-Options: A. Harappan  B. Mauryan  C. Gupta  D. Vedic
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Mauryan period context.
-
-</details>
-
----
-
-**Q12. UPSC Prelims 2016 — pattern**
-
-Mathura school material:
-
-Options: A. Grey schist  B. Red sandstone  C. White marble  D. Granite
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Spotted red sandstone.
-
-</details>
+No new school-vs-stone CA (verified August 2026).
 
 ---
 
 ## Common Traps — Don't Fall For These
 
-| Trap | Correct answer |
-|------|----------------|
-| Gandhara school in Mathura/UP? | **NO** — Gandhara = **Northwest** (Pakistan-Afghanistan) |
-| Mathura school uses grey schist? | **NO** — **Red spotted sandstone** (UP) |
-| Amaravati school in Gujarat? | **NO** — **Andhra Pradesh** (limestone) |
-| Dancing Girl = terracotta? | **NO** — **Bronze** (lost-wax, Mohenjo-daro) |
-| Bharhut sculptures = Mauryan? | **NO** — **Shunga** period (2nd c. BCE) |
-| Sanchi Lion Capital? | **NO** — Lion Capital at **Sarnath**; Sanchi = stupa/toranas |
-| Early Sanchi shows human Buddha body? | **NO** — **Aniconic** symbols only (earliest phase) |
-| Khajuraho = Dravida gopuram style? | **NO** — **Nagara** (Chandella) |
-| Taj Mahal sculpture topic? | **NO** — Mughal **architecture** (pietra dura ≠ this topic's core) |
-| Din-i-Ilahi = sculpture school? | **NO** — Akbar religious policy (Topic 11) |
-| Gupta Buddha = Kushan heavy style? | **NO** — Gupta = **spiritual idealism**, transparent sanghati |
-| Chola Nataraja = Pallava invention peak? | **Pallava begins**, but **Chola = bronze peak** |
-| Dhokra = Chola lost-wax? | **NO** — **Tribal bell-metal** hollow casting |
-| Rakhigarhi in UP? | **NO** — **Haryana** (UPPCS 2025 Q87) |
-| Mathura = white limestone panels? | **NO** — White limestone = **Amaravati** |
-
----
+1. **Gandhara = schist + Greco-Roman + NW.** **Mathura = red sandstone + UP.**
+2. **Amaravati = limestone + Aryaka-pillars**, not Bodh Gaya.
+3. **Sarnath Buddha = Gupta**, not Kushan bulk.
+4. **Bharhut = Shunga**, not Mauryan.
+5. **Early Sanchi = aniconic.** Human Buddha = Kushan onward.
+6. **Dharmachakra ≠ bhumisparsha.** Sermon vs enlightenment.
+7. **Dancing Girl = bronze**, not terracotta.
+8. **Nataraja = Chola lost-wax**, not Hoysala soapstone.
+9. **Khajuraho = Nagara mithuna**, not Dravida.
+10. **Konark = 24 wheels / 7 horses.** Elephanta ≠ Konark.
+11. **Udayagiri Varaha = MP Gupta.** Odisha Udayagiri–Khandagiri = Jain caves.
+12. **Didarganj = Mauryan polish Yakshi**, not a Buddha.
+13. **Dhokra ≠ Chola temple bronze.**
+14. **Chunar polish = Mauryan pillars.** Hoysala = soapstone.
+15. Mathura cuts **Jain and Buddhist** images. It is not Buddha-only.

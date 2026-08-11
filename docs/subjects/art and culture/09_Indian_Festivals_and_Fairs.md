@@ -1,1471 +1,1121 @@
 # Topic 9 — Indian Festivals & Fairs
-### ★ Complete Source of Truth — No other book/notes needed for this topic
+### ★ UPPCS Revision Sheet — heading → identity line → exam bullets (tables only for confused pairs)
 
-> **Covers syllabus:** Festivals of India | State-wise Festivals | Folk Festivals | Tribal Festivals | North-East Indian Festivals | South Indian Festivals | Religious Festivals | Fairs of India | Cultural Festivals Organized by Government  
-> **Sources baked in:** NCERT An Introduction to Indian Art (Class 11), Ministry of Culture/ Tourism, UNESCO intangible list, UPPCS/UPSC PYQs  
-> **Exam weight:** ★★★ Very High — festival ↔ state, Kumbh sites, govt festival ↔ organiser, 2025 Pushkar trap  
-> **Last verified:** July 2026
+<details>
+<summary><strong>Covers syllabus</strong> (click to expand)</summary>
+
+Festivals of India | State-wise Festivals | Folk Festivals | Tribal Festivals | North-East Indian Festivals | South Indian Festivals | Religious Festivals | Fairs of India | Cultural Festivals Organized by Government
+
+</details>
+
+> **Sources baked in:** Ministry of Culture / Tourism, UNESCO ICH, UPPCS Prelims 2018–2025  
+> **Exam weight:** ★★★ — festival ↔ state, Kumbh 4 sites, harvest pairs, fair geography, 2025 Pushkar-Kumbh trap  
+> **Last verified:** August 2026  
+> **Current Affairs:** Maha Kumbh **Prayagraj, 13 Jan–26 Feb 2025** (45 days). **Pushkar Kumbh May 2025** = **Uttarakhand** (Mana / Keshav Prayag), not Rajasthan.
 
 ---
 
-## Quick Revision Box — Raata This First
+## Quick Revision — Spine Only
 
 ```
-KUMBH MELA 4 SITES (UNESCO 2017):
-  Prayagraj (UP) | Haridwar (Uttarakhand) | Nashik (Maharashtra) | Ujjain (MP)
-  NOT Pushkar for Maha Kumbh cycle — Pushkar = Rajasthan annual/Kartik fair
-
-UPPCS 2025 Q97 TRAP:
-  Pushkar Kumbh Mela 2025 (May) = Rajasthan ONLY → Ans D (Only 1)
-
-HARVEST FESTIVALS:
-  Pongal — Tamil Nadu | Onam — Kerala | Bihu — Assam | Makar Sankranti — pan-India
-  Nuakhai — Odisha | Lohri — Punjab | Vishu — Kerala New Year
-
-NORTH-EAST:
-  Hornbill — Nagaland (Dec) | Bihu — Assam | Sangai — Manipur | Losar — Sikkim/Arunachal
-  Chapchar Kut — Mizoram | Wangala — Meghalaya
-
-SOUTH:
-  Pongal — TN | Onam — Kerala | Ugadi — AP/Telangana/Karnataka | Mysore Dasara — Karnataka
-  Thrissur Pooram — Kerala | Hampi Utsav — Karnataka
-
-FOLK:
-  Braj Holi — UP | Garba — Gujarat (Navratri) | Bhangra — Punjab (Baisakhi)
-  Ramlila — UP (UNESCO 2008) | Chhau mask — linked to spring festivals
-
-TRIBAL:
-  Bastar Dussehra — Chhattisgarh | Sarhul — Jharkhand | Hornbill — Nagaland
-  Medaram Jatara — Telangana | Bhagoria — MP (Bhil)
-
-MAJOR FAIRS:
-  Kumbh/Magh Mela — Prayagraj | Pushkar Camel Fair — Rajasthan
-  Surajkund Crafts Mela — Haryana | Sonepur Cattle Fair — Bihar
-
-GOVT CULTURAL FESTIVALS:
-  Surajkund Mela — Haryana (Culture/Tourism) | Khajuraho Dance — MP
-  Konark Dance — Odisha | Tansen Samaroh — Gwalior MP | Bharat Rang Mahotsav — NSD Delhi
-  Taj Mahotsav — Agra UP | Ganga Mahotsav — Varanasi UP | Lucknow Mahotsav — UP
+KUMBH 4: Prayagraj Ganga-Yamuna-Saraswati | Haridwar Ganga | Nashik Godavari | Ujjain Shipra | UNESCO 2017
+NOT 4-SITE: Pushkar Fair = Rajasthan camel/Kartik | Pushkar Kumbh May 2025 = Mana UK (Alaknanda-Saraswati)
+HARVEST: Pongal TN | Onam Kerala | Bihu Assam | Baisakhi Punjab | Nuakhai Odisha | Lohri Punjab | Vishu Kerala NY
+NE: Hornbill Nagaland Kisama Dec 1–10 | Sangai Manipur | Chapchar Kut Mizoram | Wangala Meghalaya Garo
+SOUTH: Pongal 4-day Jan | Onam Mahabali | Ugadi AP/TS/KA | Mysore Dasara KA | Thrissur Pooram KL | Bathukamma TS
+TRIBAL: Sarhul Jharkhand sal | Bastar Dussehra CG 75-day | Medaram Telangana Koya | Bhagoria MP Bhil
+FAIRS: Magh Mela annual Prayagraj | Sonepur Bihar cattle | Surajkund Haryana Feb crafts | Gangasagar WB
+GOVT: Taj Mahotsav Agra Feb | Ganga Mahotsav Varanasi | Lucknow Mahotsav | Khajuraho Dance MP | Tansen Gwalior | NSD Bharat Rang
+UNESCO FEST: Ramlila 2008 | Kumbh 2017 | Durga Puja Kolkata 2021 | Garba Gujarat 2023
+UP: Prayagraj Kumbh/Magh | Braj Holi | Ramlila | Chhath east | Taj/Ganga/Lucknow Mahotsav | Ayodhya Deepotsav
+TRAP 2025 Q97: May Pushkar Kumbh ≠ Pushkar camel fair
 ```
 
-### Must-Know Term Comparisons (very frequently asked)
+- Onam ≠ Tamil Nadu.
+- Surajkund ≠ Rajasthan.
+- Bastar Dussehra ≠ Rama–Ravana Dussehra.
 
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Kumbh Mela vs Pushkar Fair** | 4-site rotating mega pilgrimage (Prayagraj/Haridwar/Nashik/Ujjain) vs Rajasthan **camel fair** at Pushkar | कुंभ मेला / पुष्कर मेला |
-| **Magh Mela vs Kumbh** | Annual Prayagraj bathing fair on Magh month vs full Kumbh when Jupiter completes cycle | माघ मेला / कुंभ |
-| **Pongal vs Onam** | **Tamil Nadu** 4-day harvest (January) vs **Kerala** 10-day harvest with boat races (August–Sept) | पोंगल / ओणम |
-| **Bihu vs Hornbill** | **Assam** harvest festival trio vs **Nagaland** Dec cultural showcase fair | बिहू / हॉर्नबिल |
-| **Garba vs Bhangra** | **Gujarat** Navratri circle dance vs **Punjab** Baisakhi harvest dance | गरबा / भांगड़ा |
-| **Folk festival vs Religious festival** | Community/cultural celebration (Holi, Bihu) vs faith-specific worship (Eid, Christmas) | लोक पर्व / धार्मिक पर्व |
-| **Tribal festival vs Folk festival** | Adivasi indigenous ritual (Sarhul, Hornbill) vs regional peasant/community (Braj Holi) | आदिवासी पर्व / लोक पर्व |
-| **Surajkund Mela vs Pushkar Fair** | **Haryana** govt crafts fair (February) vs **Rajasthan** camel/livestock fair (Kartik) | सूरजकुंड मेला / पुष्कर मेला |
-| **Ramlila vs Dussehra** | **UP** month-long Ramayana enactment vs pan-India Vijayadashami (Ravana effigy) | रामलीला / दशहरा |
-| **Durga Puja vs Navratri** | **Bengal** elaborate pandal festival (Sep–Oct) vs 9-night goddess worship (Gujarat Garba focus) | दुर्गा पूजा / नवरात्रि |
+### Confused pairs
 
-### Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **P-H-N-U Kumbh** | **P**rayagraj, **H**aridwar, **N**ashik, **U**jjain |
-| **Pushkar = Rajasthan** | UPPCS 2025 — NOT UP, NOT Uttarakhand |
-| **P-O-B harvest** | **P**ongal (TN), **O**nam (KL), **B**ihu (AS) |
-| **Hornbill = Nagaland** | December 1–10 at Kisama |
-| **Surajkund = Haryana** | Not Rajasthan, not UP |
-| **Braj Holi = UP** | Mathura-Vrindavan |
-| **4 UNESCO festival intangibles** | Kumbh, Ramlila, Durga Puja (2021), Garba (2023) — know major ones |
-| **Tansen = Gwalior** | MP, near UP border |
-| **Chhath = Bihar/UP/Jharkhand** | Sun worship at ghats |
-| **Taj Mahotsav = Agra** | 10-day Feb festival, UP |
+| A | B | Lock | Hindi |
+|---|----|------|-------|
+| Kumbh (4 sites) | Pushkar Fair | Prayagraj–Haridwar–Nashik–Ujjain vs Rajasthan camel fair | कुंभ / पुष्कर मेला |
+| Pushkar Fair | Pushkar Kumbh 2025 | Ajmer **Rajasthan**, Kartik vs **Mana, Uttarakhand**, May | पुष्कर मेला / पुष्कर कुंभ |
+| Magh Mela | Kumbh | Annual Prayagraj bath vs 12-year mega at a Kumbh site | माघ मेला / कुंभ |
+| Pongal | Onam | **Tamil Nadu** January vs **Kerala** Aug–Sep | पोंगल / ओणम |
+| Bihu | Hornbill | **Assam** harvest trio vs **Nagaland** Dec showcase | बिहू / हॉर्नबिल |
+| Garba | Bhangra | **Gujarat** Navratri vs **Punjab** Baisakhi | गरबा / भांगड़ा |
+| Durga Puja | Navratri | **Bengal** pandals vs 9-night goddess (Gujarat Garba) | दुर्गा पूजा / नवरात्रि |
+| Ramlila | Dussehra | Ramayana play (UNESCO 2008) vs Vijayadashami / Ravana effigy | रामलीला / दशहरा |
+| Surajkund | Pushkar Fair | **Haryana** Feb crafts vs **Rajasthan** Kartik livestock | सूरजकुंड / पुष्कर |
+| Ugadi | Gudi Padwa | AP/Telangana/Karnataka New Year vs Maharashtra New Year (same season) | उगादि / गुड़ी पड़वा |
+| Folk | Tribal | Peasant/community (Braj Holi) vs adivasi ritual (Sarhul) | लोक / आदिवासी |
+| Eid-ul-Fitr | Eid-ul-Adha | End of Ramadan vs Bakrid / sacrifice | ईद उल फितर / बकरीद |
 
 ---
 
 ## 9.1 Festivals of India
 
-### Definitions (learn all — exams pick different ones)
+**Identity:** Recurring community celebration | Season, harvest, faith, or nation | Exam ask = type + state
 
-| Source | Definition |
-|--------|------------|
-| **General** | **Indian festivals** = recurring cultural-religious celebrations marking **seasons, harvests, myths, saints, national events** — blend ritual, food, music, dance |
-| **NCERT** | Festivals express **community identity** — agrarian cycle, bhakti devotion, tribal cosmology, and modern nationalism interwoven |
-| **Exam usage** | Festival ↔ state ↔ month ↔ activity; distinguish national/religious/folk/tribal |
+- Three calendars run together: Gregorian, Hindu lunar (Chaitra–Phalgun) and regional solar (Pongal, Bihu, Onam).
+- Harvest festivals include Pongal, Onam, Bihu, Makar Sankranti and Baisakhi.
+- Religious festivals include Diwali, Eid, Christmas, Buddha Purnima and Mahavir Jayanti.
+- Folk and regional festivals include Braj Holi, Garba and Lohri.
+- Tribal festivals include Sarhul, Hornbill and Bastar Dussehra.
+- National festivals are Republic Day on **26 January**, Independence Day on **15 August** and Gandhi Jayanti on **2 October**.
+- The pan-India Hindu spine includes Diwali, Holi, Navratri, Dussehra, Janmashtami, Mahashivratri and Raksha Bandhan.
+- Festival-named UNESCO ICH entries are **Ramlila 2008**, **Kumbh Mela 2017**, **Durga Puja of Kolkata 2021** and **Garba of Gujarat 2023**.
+- Nawruz / Navroz is also UNESCO (multinational). It is the Parsi New Year in India.
+- Not every colourful festival is Hindu. Bihu, Onam and Hornbill have regional or tribal roots.
 
-### Festivals of India — How It Works
-
-- **Indian festivals** operate on **three calendars**: **Gregorian** (Republic Day, Independence Day), **Hindu lunar (Chaitra–Phalgun)**, and **regional solar** (Pongal, Bihu, Onam).
-- **Classification by basis**:
-
-  | Type | Basis | Examples |
-  |------|-------|----------|
-  | **Seasonal/Harvest** | Agriculture cycle | Pongal, Onam, Bihu, Makar Sankranti |
-  | **Religious** | Faith-specific worship | Diwali, Eid, Christmas, Buddha Purnima |
-  | **Folk/Regional** | Local community tradition | Braj Holi, Garba, Lohri |
-  | **Tribal** | Adivasi cosmology | Sarhul, Hornbill, Bastar Dussehra |
-  | **National** | Constitutional/patriotic | Republic Day (26 Jan), Independence Day (15 Aug), Gandhi Jayanti |
-
-- **Pan-India Hindu festivals**: **Diwali** (lights, Lakshmi), **Holi** (colours, spring), **Navratri/Dussehra** (9 nights + Vijayadashami), **Janmashtami** (Krishna birth), **Mahashivratri**, **Raksha Bandhan**.
-- **Festival functions**: **social cohesion**, **economic activity** (fairs, crafts), **artistic performance** (dance, music, theatre), **pilgrimage** (Kumbh, Char Dham seasons).
-- **UNESCO Intangible Heritage (festival-linked India)**: **Kumbh Mela (2017)**, **Ramlila (2008)**, **Durga Puja of Kolkata (2021)**, **Garba of Gujarat (2023)**, **Mudiyettu, Ramman, Sankirtana, Buddhist chanting, Vedic chanting, Yoga, Nawruz**.
-- **Government role**: Ministry of Culture + Tourism sponsor **national cultural festivals**. States promote **tourism festivals**. See §9.9.
-- **Trap**: Not all colourful festivals are Hindu. **Bihu (Assam), Onam (Kerala), Hornbill (Nagaland)** are regional/tribal with distinct roots.
-
-> **Exam note:** Classify festival by **type first** (harvest/religious/folk/tribal) before matching state — stops Holi=only north error.
-
-### Exam Facts (raata)
-
-- Three calendars: Gregorian, Hindu lunar, regional solar
-- Types: seasonal, religious, folk, tribal, national
-- Pan-India: Diwali, Holi, Navratri, Dussehra
-- Kumbh Mela UNESCO intangible 2017
-- Ramlila UNESCO 2008. Durga Puja 2021. Garba 2023.
-- Festivals drive pilgrimage economy
-- Not all festivals = Hindu only
-- Republic Day 26 Jan. Independence Day 15 Aug.
-- Harvest festivals region-specific
-- Government sponsors cultural festivals
-
-### PYQs — Festivals of India
-
-1. **(UPSC Prelims 2019 — pattern)** Which is/are on UNESCO Intangible Heritage List from India?
-
-   1. Kumbh Mela  2. Yoga  3. Qutub Minar  
-
-   → **1 and 2 only.** Qutub Minar = tangible World Heritage, not intangible.
-
-2. **(UPSC Prelims 2017 — pattern)** Garba is performed during:
-
-   A. Diwali  B. Navratri  C. Holi  D. Baisakhi  
-   → **B — Navratri** (Gujarat). UNESCO 2023.
-
-### Examples (9.1)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Kumbh Mela, Prayagraj** | Largest religious gathering |
-| **Diwali, nationwide** | Pan-India festival |
-| **Republic Day parade, Delhi** | National festival |
+> **Exam note:** First lock **type**, then **state**. Stops “Holi = north only” and “Onam = Tamil Nadu.”
 
 ---
 
 ## 9.2 State-wise Festivals
 
-### Definitions
+**Rule:** One flagship name per state. Papers ask “festival of X” and “NOT matched.”
 
-| Term | Meaning |
-|------|---------|
-| **State-wise festival** | Festival **most strongly identified** with a particular state/UT — often state tourism symbol |
-| **UT festival** | Festival linked to Union Territory cultural identity |
+- **Andhra Pradesh**’s exam lock is **Ugadi**.
+- **Arunachal Pradesh**’s exam lock is **Losar**. Solung (Adi) and Nyokum (Nyishi) are also named.
+- **Assam**’s exam lock is **Bihu**. Ambubachi Mela is at Kamakhya.
+- **Bihar**’s exam locks are **Chhath Puja** and the **Sonepur** cattle fair.
+- **Chhattisgarh**’s exam lock is **Bastar Dussehra**.
+- **Goa**’s exam locks are Carnival and Shigmo.
+- **Gujarat**’s exam lock is **Navratri / Garba**. Uttarayan is the kite festival at Makar Sankranti.
+- **Haryana**’s exam lock is the **Surajkund** crafts mela.
+- **Himachal Pradesh**’s exam lock is **Kullu Dussehra**.
+- **Jharkhand**’s exam lock is **Sarhul**. Karma is also named, and Chhath is kept on the plateau too.
+- **Karnataka**’s exam lock is **Mysore Dasara**. Ugadi and Hampi Utsav are also named.
+- **Kerala**’s exam lock is **Onam**. Thrissur Pooram and Vishu are also named.
+- **Madhya Pradesh**’s exam locks are the Khajuraho Dance Festival, **Tansen Samaroh** (Gwalior) and Bhagoria (Bhil).
+- **Maharashtra**’s exam locks are **Ganesh Chaturthi** and **Gudi Padwa**.
+- **Manipur**’s exam lock is the **Sangai Festival**. Yaoshang is also named.
+- **Meghalaya**’s exam lock is **Wangala** (Garo). Nongkrem (Khasi) is also named.
+- **Mizoram**’s exam lock is **Chapchar Kut**.
+- **Nagaland**’s exam lock is the **Hornbill Festival**.
+- **Odisha**’s exam lock is **Ratha Yatra** (Puri). Nuakhai harvest and Konark Dance Festival are also named.
+- **Punjab**’s exam lock is **Baisakhi**. Lohri is also named.
+- **Rajasthan**’s exam lock is the **Pushkar Fair** (camel, Kartik). Teej, Gangaur and the Desert Festival (Jaisalmer) are also named.
+- **Sikkim**’s exam lock is **Losar**. Saga Dawa is also named.
+- **Tamil Nadu**’s exam lock is **Pongal**. Karthigai Deepam and Puthandu are also named.
+- **Telangana**’s exam lock is **Bathukamma**. Bonalu and Medaram Jatara are also named.
+- **Tripura**’s exam locks are Kharchi Puja and Garia Puja.
+- **Uttar Pradesh**’s exam locks are **Kumbh / Magh Mela** (Prayagraj), **Braj Holi**, **Ramlila** and Taj Mahotsav (Agra).
+- **Uttarakhand**’s exam lock is **Kumbh** (Haridwar). **Pushkar Kumbh** at Mana / Keshav Prayag is the May 2025 lock.
+- **West Bengal**’s exam lock is **Durga Puja**. Gangasagar Mela is also named.
+- **Delhi**’s exam locks are Qutub Festival and Phool Walon Ki Sair.
+- **Ladakh**’s exam locks are Losar and the **Hemis** monastery festival.
+- **Jammu & Kashmir**’s exam locks are the Tulip Festival (Srinagar) and Urs fairs.
+- **Puducherry**’s exam locks are Bastille Day heritage and Pongal overlap.
 
-### State-wise Festivals — How It Works
-
-- **State-wise festivals** map **regional identity ↔ celebration**. UPPCS loves **"festival NOT in state X"** negative questions.
-- **Complete state/UT festival table** (exam-critical. All 28 states + key UTs):.
-
-  | State/UT | Key Festival(s) | Month/Season |
-  |----------|-----------------|--------------|
-  | **Andhra Pradesh** | Ugadi, Visakha Utsav | Mar–Apr |
-  | **Arunachal Pradesh** | Losar, Solung, Ziro Festival | Feb; Sep |
-  | **Assam** | **Bihu** (Rongali/Kongali/Bhogali) | Apr; Jan; Oct |
-  | **Bihar** | **Chhath Puja**, Sonepur Mela, Rajgir Mahotsav | Oct–Nov |
-  | **Chhattisgarh** | **Bastar Dussehra** | Sep–Oct |
-  | **Goa** | Carnival, Shigmo, Feast of St. Francis Xavier | Feb; Mar |
-  | **Gujarat** | **Navratri/Garba**, Uttarayan (Kite Festival) | Sep–Oct; Jan |
-  | **Haryana** | **Surajkund Mela**, Teej | Feb; Aug |
-  | **Himachal Pradesh** | **Kullu Dussehra**, Losar | Oct; Feb |
-  | **Jharkhand** | Sarhul, Karma, Chhath | Spring; Aug |
-  | **Karnataka** | **Mysore Dasara**, Ugadi, Hampi Utsav | Oct; Mar–Apr |
-  | **Kerala** | **Onam**, Thrissur Pooram, Vishu | Aug–Sep; Apr–May |
-  | **Madhya Pradesh** | Khajuraho Dance Festival, Tansen Samaroh (Gwalior), Lokrang | Feb; Dec |
-  | **Maharashtra** | **Ganesh Chaturthi**, Gudi Padwa | Aug–Sep; Mar–Apr |
-  | **Manipur** | Yaoshang (Holi-type), **Sangai Festival** | Mar; Nov |
-  | **Meghalaya** | Nongkrem, Wangala (100 Drums) | Nov |
-  | **Mizoram** | **Chapchar Kut** | Mar |
-  | **Nagaland** | **Hornbill Festival** | Dec 1–10 |
-  | **Odisha** | **Ratha Yatra** (Puri), Konark Dance Festival | Jun–Jul; Dec |
-  | **Punjab** | **Baisakhi**, Lohri | Apr; Jan |
-  | **Rajasthan** | **Pushkar Fair**, Teej, Gangaur, Desert Festival (Jaisalmer) | Kartik (Oct–Nov); Aug |
-  | **Sikkim** | Losar, Saga Dawa | Feb; May–Jun |
-  | **Tamil Nadu** | **Pongal**, Karthigai Deepam, Tamil New Year (Puthandu) | Jan; Nov |
-  | **Telangana** | **Bathukamma**, Bonalu | Sep–Oct; Jul–Aug |
-  | **Tripura** | Kharchi Puja, Garia Puja | Jul; Apr |
-  | **Uttar Pradesh** | **Kumbh/Magh Mela** (Prayagraj), **Braj Holi**, **Ramlila**, Taj Mahotsav | Rotating; Mar; Sep–Oct; Feb |
-  | **Uttarakhand** | **Kumbh** (Haridwar), Kandali Festival | Rotating; Aug |
-  | **West Bengal** | **Durga Puja** | Sep–Oct |
-  | **Delhi** | Qutub Festival, Phool Walon Ki Sair | Nov; Sep |
-  | **Jammu & Kashmir** | Tulip Festival (Srinagar), Urs festivals | Apr |
-  | **Ladakh** | Losar, Hemis Festival | Feb; Jun–Jul |
-  | **Puducherry** | Bastille Day (French heritage), Pongal overlap | Jul; Jan |
-
-- **UP** = highest exam weight: **Kumbh (Prayagraj)**, **Braj Holi (Mathura-Vrindavan)**, **Ramlila (Varanasi/Ramnagar)**, **Taj Mahotsav (Agra)**, **Ganga Mahotsav (Varanasi)**, **Lucknow Mahotsav**.
-- **Trap**: **Onam = Kerala**, NOT Tamil Nadu (Pongal = TN). **Garba = Gujarat**, NOT Rajasthan.
-
-> **Exam note:** **State ↔ ONE flagship festival** — Onam-Kerala, Pongal-TN, Bihu-Assam, Hornbill-Nagaland, Durga Puja-WB.
-
-### Exam Facts (raata)
-
-- Complete 28-state mapping in table above
-- UP: Kumbh, Braj Holi, Ramlila, Taj Mahotsav
-- Kerala: Onam and Tamil Nadu: Pongal.
-- Assam: Bihu and Nagaland: Hornbill.
-- Gujarat: Garba/Navratri and WB: Durga Puja.
-- Rajasthan: Pushkar Fair
-- Bihar: Chhath Puja
-- Karnataka: Mysore Dasara
-- Odisha: Ratha Yatra Puri
-- Haryana: Surajkund Mela
-- Pushkar = Rajasthan (2025 CA trap)
-
-### PYQs — State-wise Festivals
-
-1. **(UPPCS Prelims 2025 — Q97)** Pushkar Kumbh Mela 2025 (May) was in which states?
-
-   1. Rajasthan  2. Uttar Pradesh  3. Uttarakhand  
-
-   Options: A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1  
-   → **D — Only 1 (Rajasthan).** Pushkar is in Ajmer district, Rajasthan.
-
-2. **(UPSC Prelims 2020 — pattern)** Onam is a festival of:
-
-   A. Tamil Nadu  B. Kerala  C. Karnataka  D. Andhra Pradesh  
-   → **B — Kerala** (harvest festival).
-
-### Examples (9.2)
-
-| Example | Detail |
-|---------|--------|
-| **Braj Holi, Mathura UP** | State flagship folk-religious festival |
-| **Hornbill Festival, Kisama Nagaland** | NE state showcase |
-| **Mysore Dasara, Karnataka** | Royal Dussehra procession |
+> **Exam note:** **Onam = Kerala**. **Pongal = Tamil Nadu**. **Hornbill = Nagaland**. **Pushkar Fair = Rajasthan**. **Pushkar Kumbh 2025 = Uttarakhand**.
 
 ---
 
 ## 9.3 Folk Festivals
 
-### Definitions
+**Identity:** Peasant / village / regional joy | Dance, song, season | Not SNA classical
 
-| Term | Meaning |
-|------|---------|
-| **Folk festival** | Community celebration of **peasant/village/regional culture** — music, dance, food, oral tradition |
-| **Lok parv** | Hindi for folk festival — distinct from classical temple ritual |
+- **Braj Holi** is of Mathura–Vrindavan in **UP**. It is a Krishna legend and an international tourist lock.
+- **Lathmar Holi** is of Barsana–Nandgaon in **UP**. Women beat men with sticks in play.
+- **Phoolon ki Holi** is the flower Holi at Banke Bihari, Vrindavan.
+- **Garba / Dandiya** is of Gujarat. It is Navratri circles and UNESCO **2023**. It is not Rajasthan.
+- **Bhangra / Giddha** is of Punjab. It is the Baisakhi harvest.
+- **Lohri** is of Punjab / Haryana / Himachal. It is a January bonfire.
+- **Teej** is of Rajasthan, UP and Haryana. It is monsoon swings and women-centred.
+- **Gangaur** is of Rajasthan. It is Gauri worship in spring.
+- **Uttarayan** is Gujarat’s kite festival on Makar Sankranti.
+- **Pulikali** is Kerala’s tiger-dance in the Onam season.
+- The **Theyyam** season is north Kerala ritual folk worship.
+- The mid-January harvest belt is Lohri, then Makar Sankranti, then Pongal.
 
-### Folk Festivals — How It Works
-
-- **Folk festivals** emerge from **agrarian and community life**. Less scriptural than religious festivals, more **dance, song, seasonal joy**.
-- **Complete high-yield folk festival list**:
-
-  | Festival | Region/State | Features |
-  |----------|----------------|----------|
-  | **Braj Holi** | **UP (Mathura-Vrindavan)** | Lathmar Holi, colours, Krishna legend |
-  | **Lathmar Holi** | **UP (Barsana-Nandgaon)** | Women beat men with sticks playfully |
-  | **Garba/Dandiya** | **Gujarat** | Navratri circle dance; UNESCO 2023 |
-  | **Bhangra/Giddha** | **Punjab** | Baisakhi harvest celebration |
-  | **Lohri** | **Punjab/Haryana/HP** | Bonfire, winter harvest (Jan) |
-  | **Bihu dance festivals** | **Assam** | Rongali Bihu (Bohag) spring festival |
-  | **Raslila** | **UP (Braj)** | Krishna folk dance-drama |
-  | **Teej** | **Rajasthan, UP, Haryana** | Women swing festival (monsoon) |
-  | **Gangaur** | **Rajasthan** | Women worship Gauri (spring) |
-  | **Chhau mask festivals** | **Jharkhand/WB/Bihar** | Spring martial mask dance |
-  | **Kite Festival (Uttarayan)** | **Gujarat** | Makar Sankranti kite flying |
-  | **Pulikali (Tiger dance)** | **Kerala** | Onam season folk performance |
-  | **Theyyam festivals** | **Kerala** | Ritual folk worship performances |
-  | **Hemis folk elements** | **Ladakh** | Mask dances at monastery fair |
-
-- **Braj Holi (UP)**. Among India's most famous folk festivals. **Mathura, Vrindavan, Barsana**. It draws international tourists. **Phoolon ki Holi** (flower Holi) at Banke Bihari temple.
-- **Garba (Gujarat)** spans **9 nights of Navratri** with community circles and **dandiya raas** with sticks. It was inscribed as **UNESCO intangible heritage in 2023**.
-- **Lohri**, then **Makar Sankranti**, then **Pongal**, mark **north-to-south harvest transition** (mid-January).
-- **Folk vs classical**: **Garba, Bhangra, Bihu dance ≠ Bharatanatyam/Kathak**. Community participation, no guru-shishya codification.
-- **Trap**: **Holi in UP = Braj folk tradition** distinct from urban Holi. **Garba ≠ Navratri everywhere**. Gujarat-specific folk form.
-
-> **Exam note:** **Braj Holi ↔ UP** and **Garba ↔ Gujarat** — top folk festival geography pairs.
-
-### Exam Facts (raata)
-
-- Folk = community agrarian/regional culture
-- Braj Holi = UP Mathura-Vrindavan
-- Lathmar Holi = Barsana UP
-- Garba = Gujarat Navratri (UNESCO 2023)
-- Bhangra = Punjab Baisakhi
-- Lohri = Punjab winter bonfire
-- Bihu = Assam folk harvest
-- Teej/Gangaur = Rajasthan (+UP/Haryana)
-- Uttarayan kite = Gujarat
-- Folk ≠ classical dance forms
-
-### PYQs — Folk Festivals
-
-1. **(UPSC Prelims 2019 — pattern)** Garba is a folk dance-festival of:
-
-   A. Rajasthan  B. Gujarat  C. Maharashtra  D. Odisha  
-   → **B — Gujarat** (Navratri).
-
-2. **(UPSC Prelims 2018 — pattern)** Bihu is associated with:
-
-   A. Assam  B. Odisha  C. Kerala  D. Tamil Nadu  
-   → **A — Assam** (folk harvest festival).
-
-### Examples (9.3)
-
-| Example | Detail |
-|---------|--------|
-| **Lathmar Holi, Barsana UP** | Iconic folk Holi |
-| **Navratri Garba, Gujarat** | UNESCO intangible 2023 |
-| **Baisakhi Bhangra, Punjab** | Harvest folk celebration |
+> **Exam note:** **Braj Holi = UP**. **Garba = Gujarat**. Folk dance at a festival is not a ninth SNA classical.
 
 ---
 
 ## 9.4 Tribal Festivals
 
-### Definitions
+**Identity:** Adivasi ritual | Sacred grove, tree, clan deity | Not the same as village Holi
 
-| Term | Meaning |
-|------|---------|
-| **Tribal festival** | **Adivasi/indigenous** ritual celebration — nature worship, ancestor veneration, clan identity |
-| **Sarna/Sari Dhorom** | Tribal nature-worship tradition linked to Sarhul festival (Jharkhand) |
+- **Sarhul** is of Jharkhand (Munda, Oraon). It is **sal tree** and earth worship in the Sarna tradition.
+- **Karma** is of Jharkhand / Chhattisgarh. It is Karma-tree worship.
+- **Bastar Dussehra** is of Chhattisgarh. It lasts about **75 days** and honours Devi **Danteshwari**. It is not Rama–Ravana.
+- **Hornbill** covers all Naga tribes. It is a government showcase. The full card sits under North-East.
+- **Medaram Jatara** is of Telangana. It is of the **Koya** tribe and Sammakka–Sarakka. It is biennial and among Asia’s largest tribal gatherings.
+- **Bhagoria Haat** is of Madhya Pradesh. It is a **Bhil** Holi-season tribal fair.
+- **Wangala** is of Meghalaya. It is the **Garo** Hundred Drums harvest thanks.
+- **Nongkrem** is of Meghalaya. It is **Khasi**.
+- **Chapchar Kut** is of Mizoram. It is a spring bamboo-clearing festival.
+- **Lai Haraoba** is of Manipur. It is the Meitei indigenous creation festival and a pre-Vaishnava layer.
+- **Tusu Parab** is the Jharkhand / West Bengal tribal harvest.
+- **Nyokum** is of Arunachal. It is Nyishi.
+- **Solung** is of Arunachal. It is the Adi agricultural festival.
 
-### Tribal Festivals — How It Works
-
-- **Tribal festivals** preserve **pre-Hindu/indigenous cosmologies**. Sacred groves, ancestral spirits, seasonal agriculture rituals.
-- **Complete exam tribal festival list**:
-
-  | Festival | Tribe/State | Features |
-  |----------|-------------|----------|
-  | **Sarhul** | **Jharkhand** (Munda, Oraon) | Sal tree worship; spring; nature deity |
-  | **Karma** | **Jharkhand/Chhattisgarh** | Karma tree worship; tribal groups |
-  | **Bastar Dussehra** | **Chhattisgarh** (tribal Bastar) | 75-day unique tribal Dussehra (NOT Rama-Ravana) |
-  | **Hornbill Festival** | **Nagaland** (all Naga tribes) | Govt-organised tribal showcase Dec 1–10 |
-  | **Medaram Jatara** | **Telangana** (Koya tribe) | Biennial Sammakka-Sarakka tribal fair |
-  | **Bhagoria Haat** | **MP** (Bhil tribe) | Holi-type tribal fair with elopement tradition |
-  | **Wangala (100 Drums)** | **Meghalaya** (Garo) | Harvest thanksgiving |
-  | **Nongkrem** | **Meghalaya** (Khasi) | Pomblang goat sacrifice festival |
-  | **Chapchar Kut** | **Mizoram** | Spring bamboo clearing festival |
-  | **Lai Haraoba** | **Manipur** (Meitei indigenous) | Pre-Hindu creation dance festival |
-  | **Sammakka Saralamma** | **Telangana** | Tribal goddess fair |
-  | **Tusu Parab** | **Jharkhand/WB** | Harvest festival of tribal communities |
-  | **Nyokum** | **Arunachal Pradesh** (Nyishi) | Nature harmony festival |
-  | **Solung** | **Arunachal Pradesh** (Adi) | Agricultural festival |
-
-- **Bastar Dussehra (Chhattisgarh)** lasts **75 days**. Tribals worship **Devi Danteshwari**, distinct from pan-India Rama Vijayadashami.
-- **Sarhul (Jharkhand)** centres on worship of the **sal tree** and earth. It marks the new year for Munda/Oraon communities and links to the **Sarna religion**.
-- **Hornbill Festival**. Branded **"Festival of Festivals"**. All Naga tribes perform at **Kisama Heritage Village, Nagaland**.
-- **Medaram Jatara** is one of Asia's largest tribal gatherings.
-- **Trap**: **Bastar Dussehra ≠ standard Dussehra**. Tribal deity focus, 75 days, Chhattisgarh only.
-
-> **Exam note:** **Sarhul ↔ Jharkhand** | **Bastar Dussehra ↔ Chhattisgarh** | **Hornbill ↔ Nagaland** — tribal geography trio.
-
-### Exam Facts (raata)
-
-- Tribal festivals = adivasi indigenous rituals
-- Sarhul = Jharkhand sal tree worship
-- Karma = Jharkhand/Chhattisgarh
-- Bastar Dussehra = 75-day Chhattisgarh tribal
-- Hornbill = Nagaland Dec 1–10
-- Medaram Jatara = Telangana Koya tribe
-- Bhagoria = MP Bhil tribal fair
-- Wangala = Meghalaya Garo harvest
-- Chapchar Kut = Mizoram spring
-- Lai Haraoba = Manipur indigenous
-
-### PYQs — Tribal Festivals
-
-1. **(UPSC Prelims 2020 — pattern)** Hornbill Festival is celebrated in:
-
-   A. Assam  B. Nagaland  C. Meghalaya  D. Mizoram  
-   → **B — Nagaland** (Kisama, December).
-
-2. **(UPSC Prelims 2017 — pattern)** Sarhul festival is associated with:
-
-   A. Jharkhand  B. Chhattisgarh  C. Odisha  D. Bihar  
-   → **A — Jharkhand** (Munda/Oraon tribes).
-
-### Examples (9.4)
-
-| Example | Detail |
-|---------|--------|
-| **Hornbill Festival, Kisama** | Nagaland tribal showcase |
-| **Sarhul, Ranchi region** | Jharkhand sal tree festival |
-| **Bastar Dussehra, Jagdalpur** | 75-day tribal celebration |
+> **Exam note:** **Sarhul = Jharkhand**. **Bastar Dussehra = Chhattisgarh**, 75 days, not standard Dussehra.
 
 ---
 
 ## 9.5 North-East Indian Festivals
 
-### Definitions
+**Span:** 8 NE states (Seven Sisters + Sikkim) | Highest tribal-festival density
 
-| Term | Meaning |
-|------|---------|
-| **North-East festivals** | Cultural celebrations of **8 NE states** — tribal, Hindu, Buddhist, Christian blends |
-| **Seven Sisters + Sikkim** | Arunachal, Assam, Meghalaya, Manipur, Mizoram, Nagaland, Tripura + Sikkim |
+- **Bihu** is **Assam only**. It is not Arunachal and not Nagaland.
+- The three Bihus are **Rongali / Bohag** (April, most festive), **Kongali / Kati** (autumn) and **Bhogali / Magh** (January harvest bonfire).
+- **Hornbill Festival** is of **Nagaland**. It runs **1–10 December** at **Kisama** Heritage Village. It is branded “Festival of Festivals.”
+- **Sangai Festival** is of **Manipur**. It is in November and is named after the **Sangai deer** (state animal).
+- **Yaoshang** is of Manipur. It is a five-day spring festival with a Holi colour.
+- **Chapchar Kut** is of Mizoram. It falls in March.
+- **Wangala** is of Meghalaya (Garo).
+- **Losar** is the Tibetan Buddhist New Year. It is kept in **Sikkim, Arunachal, Ladakh and Himachal**. It is not NE-only.
+- **Saga Dawa** is of Sikkim. It is the Buddha month.
+- **Ambubachi Mela** is at **Kamakhya**, Guwahati, Assam. It is a June tantric annual fair.
+- **Kharchi Puja** is of Tripura.
+- **Ziro Festival of Music** is of Arunachal. It is a modern tourism overlay, not a tribal new-year.
 
-### North-East Indian Festivals — How It Works
-
-- **North-East India** has the **highest tribal festival density**, and each state has distinct ethnic celebrations.
-- **State-wise NE festival table** (complete):
-
-  | State | Major Festivals | Month |
-  |-------|-----------------|-------|
-  | **Assam** | **Rongali Bihu**, Kongali Bihu, Bhogali Bihu; Ambubachi Mela (Kamakhya) | Apr; Oct; Jan; Jun |
-  | **Arunachal Pradesh** | Losar, Solung, Nyokum, Ziro Festival of Music | Feb; Sep; Feb; Sep |
-  | **Manipur** | **Yaoshang** (5-day Holi-type), **Sangai Festival**, Lai Haraoba | Mar; Nov; year-round |
-  | **Meghalaya** | Nongkrem, Wangala, Shad Suk Mynsiem | Nov; Nov; Apr |
-  | **Mizoram** | **Chapchar Kut**, Mim Kut, Pawl Kut | Mar; Aug; Dec |
-  | **Nagaland** | **Hornbill Festival**, Sekrenyi, Moatsu | Dec; Feb; May |
-  | **Sikkim** | **Losar**, Saga Dawa, Pang Lhabsol | Feb; May–Jun; Aug |
-  | **Tripura** | Kharchi Puja, Garia Puja, Poush Sankranti | Jul; Apr; Jan |
-
-- **Bihu (Assam)** includes **three Bihus**: **Rongali/Bohag** (spring, April. Most festive), **Kongali** (autumn), **Bhogali/Magh** (January harvest bonfire).
-- **Hornbill Festival (Nagaland)** **December 1–10** at **Kisama**. Rock concerts, Naga morungs, cuisine, crafts.
-- **Sangai Festival (Manipur)** is held in November. It showcases Manipur's polo, dance, and cuisine, and is named after the **Sangai deer** (state animal).
-- **Losar** is the **Tibetan Buddhist New Year**, celebrated in **Sikkim, Arunachal Pradesh, Ladakh, and Himachal**. It is not limited to the North-East only.
-- **Ambubachi Mela (Assam)**. Annual tantric fair at **Kamakhya Temple, Guwahati**. Monsoon (June).
-- **Trap**: **Bihu = Assam only**, NOT Arunachal or Nagaland. **Hornbill = Nagaland**, NOT Assam.
-
-> **Exam note:** **Bihu-Assam** and **Hornbill-Nagaland** — most-tested NE pairs; **Sangai-Manipur** third.
-
-### Exam Facts (raata)
-
-- 8 NE states each have distinct festivals
-- Bihu trio = Assam (Rongali most famous)
-- Hornbill = Nagaland Dec 1–10 Kisama
-- Sangai Festival = Manipur November
-- Chapchar Kut = Mizoram spring
-- Losar = Sikkim/Arunachal Buddhist
-- Ambubachi = Kamakhya Assam June
-- Yaoshang = Manipur spring
-- Wangala = Meghalaya Garo
-- Bihu NOT pan-NE
-
-### PYQs — North-East Indian Festivals
-
-1. **(UPSC Prelims 2021 — pattern)** Bihu is a festival of:
-
-   A. Assam  B. Arunachal Pradesh  C. Nagaland  D. Sikkim  
-   → **A — Assam.**
-
-2. **(UPSC Prelims 2019 — pattern)** Hornbill Festival is held in:
-
-   A. Meghalaya  B. Nagaland  C. Manipur  D. Mizoram  
-   → **B — Nagaland.**
-
-### Examples (9.5)
-
-| Example | Detail |
-|---------|--------|
-| **Rongali Bihu, Assam** | Spring festival with Bihu dance |
-| **Hornbill Festival, Kisama** | Nagaland Dec showcase |
-| **Sangai Festival, Imphal** | Manipur cultural tourism |
+> **Exam note:** **Bihu–Assam**. **Hornbill–Nagaland (Kisama, December)**. **Sangai–Manipur**.
 
 ---
 
 ## 9.6 South Indian Festivals
 
-### Definitions
+**Span:** TN, Kerala, Karnataka, AP, Telangana, Puducherry | Harvest + temple car + royal Dasara
 
-| Term | Meaning |
-|------|---------|
-| **South Indian festivals** | Celebrations of **5 southern states + Puducherry** — Dravidian harvest, temple, cultural traditions |
-| **Dravidian harvest** | Pongal (TN), Onam (KL), Ugadi (AP/KA/Telangana) |
+- **Pongal** is the Tamil Nadu harvest festival. It falls in mid-January and lasts four days.
+- **Bhogi** is the first day. It is a bonfire of old things.
+- **Thai Pongal** is rice boiled in a new pot. It is the name-day.
+- **Mattu Pongal** is cattle worship.
+- **Kaanum Pongal** is the outing / family visit.
+- **Jallikattu** is bull-taming in the Pongal season in Tamil Nadu. It is not Kerala.
+- **Puthandu** is the Tamil New Year (April).
+- **Karthigai Deepam** is the Tamil Nadu lamp festival. Tiruvannamalai is the lock.
+- **Onam** is of **Kerala**. It lasts about 10 days in August–September and marks King **Mahabali**.
+- Onam marks include the *pookalam* flower carpet, *Vallamkali* snake-boat and *Onasadya* feast.
+- **Vishu** is Kerala’s solar New Year. It falls in April with Vishukkani.
+- **Thrissur Pooram** is of Kerala. It is a temple elephant caparison and is not Onam.
+- **Mysore Dasara** is of Karnataka. It is a ten-day royal festival with the **Jamboo Savari** procession.
+- **Hampi Utsav** is Karnataka’s tourism festival at the Vijayanagara ruins.
+- **Ugadi** is the Hindu New Year for **Andhra, Telangana and Karnataka**. It falls in March–April.
+- **Gudi Padwa** is Maharashtra’s New Year in the same season. It is not Ugadi’s name.
+- **Bathukamma** is of Telangana. Women stack seasonal flowers.
+- **Bonalu** is of Telangana. It is a goddess offering.
 
-### South Indian Festivals — How It Works
-
-- **South India** festivals centre on **harvest thanksgiving**, **temple car festivals**, and **classical arts**.
-- **State-wise South festival table**:
-
-  | State | Major Festivals | Features |
-  |-------|-----------------|----------|
-  | **Tamil Nadu** | **Pongal** (4 days), Thai Pongal, Mattu Pongal, Karthigai Deepam, Puthandu (Tamil New Year) | January harvest; November lamp festival |
-  | **Kerala** | **Onam**, Vishu, Thrissur Pooram, Theyyam season | August–Sep harvest; April New Year; temple elephant pooram |
-  | **Karnataka** | **Mysore Dasara**, Ugadi, Hampi Utsav, Kadalekai Parishe (groundnut fair) | October royal procession; March New Year |
-  | **Andhra Pradesh** | Ugadi, Visakha Utsav, Lumbini Festival | New Year; tourism |
-  | **Telangana** | **Bathukamma**, Bonalu, Medaram Jatara | Women flower festival; goddess Bonalu |
-  | **Puducherry** | Bastille Day, Pongal, French-Indian blend | July; January |
-
-- **Pongal (Tamil Nadu)**. **4-day harvest** (mid-January): **Bhogi** (bonfire), **Thai Pongal** (rice boiling), **Mattu Pongal** (cattle worship), **Kaanum Pongal** (outing).
-- **Onam (Kerala)** **10-day harvest** (Aug–Sep).
-- **Mysore Dasara (Karnataka)** **10-day** royal festival.
-- **Thrissur Pooram (Kerala)** Temple elephant caparison competition.
-- **Ugadi** includes **Hindu New Year** for **AP, Telangana, Karnataka** (and Maharashtra as Gudi Padwa). March–April.
-- **Bathukamma (Telangana)** Women stack seasonal flowers.
-- **Trap**: **Pongal = Tamil Nadu**, **Onam = Kerala**. Never swap. **Mysore Dasara = Karnataka**, NOT Tamil Nadu.
-
-> **Exam note:** **Pongal-TN | Onam-KL | Mysore Dasara-KA** — south India geography trinity.
-
-### Exam Facts (raata)
-
-- Pongal = TN 4-day January harvest
-- Onam = Kerala Aug–Sep. Boat races.
-- Mysore Dasara = Karnataka October
-- Thrissur Pooram = Kerala temple elephants
-- Ugadi = AP/Telangana/Karnataka New Year
-- Bathukamma = Telangana flower festival
-- Vishu = Kerala April New Year
-- Karthigai Deepam = TN lamp festival
-- Pulikali tiger dance = Kerala Onam
-- Pongal ≠ Onam (different states)
-
-### PYQs — South Indian Festivals
-
-1. **(UPSC Prelims 2020 — pattern)** Pongal is a harvest festival of:
-
-   A. Kerala  B. Tamil Nadu  C. Karnataka  D. Andhra Pradesh  
-   → **B — Tamil Nadu.**
-
-2. **(UPSC Prelims 2018 — pattern)** Onam is celebrated in:
-
-   A. Tamil Nadu  B. Kerala  C. Karnataka  D. Telangana  
-   → **B — Kerala.**
-
-### Examples (9.6)
-
-| Example | Detail |
-|---------|--------|
-| **Pongal, Tamil Nadu** | 4-day harvest January |
-| **Onam boat race, Kerala** | Vallamkali snake boats |
-| **Mysore Dasara procession** | Karnataka royal Jamboo Savari |
+> **Exam note:** **Pongal-TN | Onam-Kerala | Mysore Dasara-Karnataka**. Never swap the first two.
 
 ---
 
 ## 9.7 Religious Festivals
 
-### Definitions
+**Identity:** Faith calendar | Deity, prophet, or sacred event | Many are gazetted holidays
 
-| Term | Meaning |
-|------|---------|
-| **Religious festival** | Celebration tied to **specific faith's calendar, deity, prophet, or sacred event** |
-| **Panth-nirpeksh** | Indian secular state respects all religious festivals as cultural holidays |
+- **Diwali** falls on Kartik Amavasya. It is Lakshmi–Ganesha, lights, and nationwide.
+- **Holi** falls on Phalgun Purnima. It is colours, and Braj (UP) is the folk-famous form.
+- **Navratri** is nine nights of the goddess in Ashwin. Gujarat’s public face is Garba.
+- **Dussehra / Vijayadashami** marks Rama’s victory / goddess victory. The Ravana effigy is the northern form.
+- **Durga Puja** is the Bengal pandal festival. UNESCO **2021** lists it as **Durga Puja of Kolkata**.
+- **Janmashtami** is Krishna’s birth. Mathura–Vrindavan carries the weight.
+- **Mahashivratri** is the Shiva night.
+- **Chhath Puja** is **Surya** worship at river ghats. It belongs to **Bihar, eastern UP and Jharkhand**. It is not moon worship.
+- **Ratha Yatra** is of **Puri, Odisha**. Jagannath, Balabhadra and Subhadra chariots run in June–July.
+- **Ramlila** is Ramayana enactment. It is of **UP** (Ramnagar–Varanasi, Braj) and UNESCO **2008**.
+- **Eid-ul-Fitr** marks the end of **Ramadan**.
+- **Eid-ul-Adha** is Bakrid. It is the sacrifice.
+- **Muharram** is Ashura mourning. Lucknow is a major **Shia** centre in UP.
+- **Christmas** falls on **25 December**.
+- **Guru Nanak Jayanti** is Gurpurab.
+- **Baisakhi** is when the Sikh **Khalsa** was founded in **1699**. It is also the Punjab harvest.
+- **Buddha Purnima** falls on Vaishakha Purnima. Birth, enlightenment and parinirvana share one day-lock.
+- **Mahavir Jayanti** is Jain.
+- **Paryushana** is the Jain fasting festival.
+- **Navroz / Nowruz** is the Parsi New Year. UNESCO Nawruz is multinational.
 
-### Religious Festivals — How It Works
-
-- **Religious festivals** follow **faith-specific lunar/solar calendars**, and many are **public holidays** in India.
-- **Complete religion-wise festival table**:
-
-  | Religion | Major Festivals | Key features |
-  |----------|-----------------|--------------|
-  | **Hindu** | Diwali, Holi, Navratri, Dussehra, Janmashtami, Mahashivratri, Raksha Bandhan, Chhath, Ratha Yatra | Lunar calendar; regional variation |
-  | **Islam** | **Eid-ul-Fitr** (end Ramadan), **Eid-ul-Adha** (Bakrid), **Muharram** (Ashura), **Eid-e-Milad** | Hijri calendar; moon sighting |
-  | **Christian** | **Christmas** (25 Dec), **Good Friday**, **Easter**, Feast days | Gregorian/lunar Easter |
-  | **Sikh** | **Guru Nanak Jayanti**, **Baisakhi** (Khalsa creation 1699), **Guru Gobind Singh Jayanti**, **Lohri** | Nanakshahi + lunar |
-  | **Buddhist** | **Buddha Purnima** (Vaishakha Purnima), Losar (in Himalayan Buddhism) | Birth-enlightenment-parinirvana |
-  | **Jain** | **Mahavir Jayanti**, **Paryushana/Parvadhiraj**, **Mahamastakabhisheka** (Shravanabelagola) | Ahimsa, fasting |
-  | **Parsi (Zoroastrian)** | **Navroz** (Nowruz), Muktad, Pateti | UNESCO Nawruz intangible |
-  | **Jewish** | Limited community observance in India (Cochin Jewish heritage) | Minority |
-
-- **Hindu major festivals detail**:
-  - **Diwali**. Amavasya Kartik. Lakshmi-Ganesha worship, lights, nationwide.
-  - **Holi**. Phalgun Purnima. Colours, spring victory (UP Braj most famous).
-  - **Navratri/Dussehra**. Ashwin month. 9 nights goddess. **Vijayadashami** = Rama victory.
-  - **Janmashtami** Krishna birth.
-  - **Chhath Puja** **Sun worship**.
-  - **Ratha Yatra** includes **Puri Jagannath**. June–July chariot procession.
-
-- **Ramlila (UP)** **Ramayana enactment**.
-- **Eid-ul-Fitr** Ends **Ramadan fasting**.
-- **Guru Nanak Jayanti** **Gurpurab**. Sikh sacred day.
-- **Buddha Purnima** Single day marking **birth, enlightenment, death** of Buddha.
-- **Chhath = sun worship** , NOT moon.
-
-> **Exam note:** **Chhath ↔ Bihar/UP** and **Ramlila ↔ UP (UNESCO)** — high-yield religious geography.
-
-### Exam Facts (raata)
-
-- Hindu: Diwali, Holi, Navratri, Dussehra, Janmashtami
-- Islam: Eid-ul-Fitr, Eid-ul-Adha, Muharram
-- Christian: Christmas 25 Dec, Easter
-- Sikh: Guru Nanak Jayanti, Baisakhi
-- Buddhist: Buddha Purnima
-- Jain: Mahavir Jayanti, Paryushana
-- Parsi: Navroz (UNESCO Nawruz)
-- Chhath = sun worship Bihar/UP/Jharkhand
-- Ramlila UNESCO 2008 UP
-- Ratha Yatra = Puri Odisha
-
-### PYQs — Religious Festivals
-
-1. **(UPSC Prelims 2019 — pattern)** Chhath Puja is dedicated to:
-
-   A. Moon  B. Sun  C. Ganga  D. Agni  
-   → **B — Sun** (Surya worship at ghats).
-
-2. **(UPSC Prelims 2017 — pattern)** Ramlila is recognised by UNESCO as:
-
-   A. Tangible heritage  B. Intangible heritage  C. Natural heritage  D. Biosphere reserve  
-   → **B — Intangible cultural heritage** (2008).
-
-### Examples (9.7)
-
-| Example | Detail |
-|---------|--------|
-| **Chhath Puja, Bihar/UP ghats** | Sun worship festival |
-| **Ramlila, Varanasi Ramnagar** | UNESCO intangible UP |
-| **Ratha Yatra, Puri Odisha** | Jagannath chariot festival |
+> **Exam note:** **Chhath = Sun**, Bihar/east UP. **Ramlila = UNESCO 2008**, not a classical dance.
 
 ---
 
 ## 9.8 Fairs of India
 
-### Definitions
+**Identity:** Mela = periodic gathering | Trade + pilgrimage + spectacle | Kumbh is the mega-lock
 
-| Term | Meaning |
-|------|---------|
-| **Mela/Fair** | Periodic **gathering** for trade, pilgrimage, livestock, crafts, entertainment — often tied to festival |
-| **Kumbh Mela** | Mass Hindu pilgrimage bathing fair at 4 sacred river sites |
+- **Kumbh Mela** is UNESCO ICH **2017**. It is the largest peaceful pilgrimage gathering.
+- The four sites only are **Prayagraj, Haridwar, Nashik and Ujjain**.
+- **Prayagraj** is Triveni Sangam. It is Ganga, Yamuna and mythical Saraswati in **Uttar Pradesh**.
+- **Haridwar** is on the Ganga in **Uttarakhand**.
+- **Nashik** is on the Godavari in **Maharashtra**. The Trimbakeshwar link is named.
+- **Ujjain** is on the Shipra in **Madhya Pradesh**. The Mahakaleshwar link is named.
+- Each site hosts a Kumbh about every **12 years**. Across four sites a Kumbh falls roughly every **3–4 years**.
+- **Ardh Kumbh** falls every **6 years** at Prayagraj and Haridwar.
+- **Maha Kumbh** is at Prayagraj. It is marketed as a 144-year planetary lock. The **13 Jan–26 Feb 2025** run lasted about **45 days**.
+- **Magh Mela** is the **annual** bathing fair at Prayagraj in Magh. It is not the full Kumbh.
+- **Pushkar Fair** is at **Pushkar, Ajmer, Rajasthan**. It is camel and livestock in **Kartik** (Oct–Nov). It is not a 4-site Kumbh.
+- **Pushkar Kumbh** is a different event. It is at **Keshav Prayag, Mana** (Chamoli) in **Uttarakhand**, at Alaknanda and Saraswati. It falls every **12 years** when Jupiter enters Gemini, and ran in **May 2025** (about 14–26 May).
+- **Sonepur Mela** is of Bihar at Harihar Kshetra. It is Asia’s large cattle fair in Kartik.
+- **Surajkund International Crafts Mela** is at Faridabad in **Haryana**. It is a February government crafts fair.
+- **Gangasagar Mela** is at Sagar Island, West Bengal. It is a Makar Sankranti bath.
+- **Ambubachi Mela** is at Kamakhya, Assam. It falls in June.
+- **Deva Mela** is at Barabanki in **UP**.
+- **Bateshwar Fair** is in Agra district, **UP**. It is a livestock fair.
+- **Nagaur Fair** is a Rajasthan cattle fair.
+- **Kolayat Fair** is of Rajasthan. Kapil Muni is the lock.
 
-### Fairs of India — How It Works
+> **Exam note:** UPPCS **2025 Q97** — **May 2025 Pushkar Kumbh = Uttarakhand only**. Do not mark Rajasthan. Rajasthan owns the **Pushkar camel fair**, not this May Kumbh.
 
-- **Indian fairs (melas)** combine **commerce + religion + entertainment**. Often centuries old.
-- **Major fairs: complete exam list**:
+**PYQ — UPPCS Prelims 2025, Q97**
 
-  | Fair | Location | State | Features |
-  |------|----------|-------|----------|
-  | **Kumbh Mela** | **Prayagraj, Haridwar, Nashik, Ujjain** | UP, UK, MH, MP | Rotating mega pilgrimage; UNESCO 2017 |
-  | **Magh Mela** | **Prayagraj** | **UP** | Annual bathing fair (every year) |
-  | **Pushkar Fair** | **Pushkar (Ajmer)** | **Rajasthan** | Camel/livestock fair; Kartik month |
-  | **Surajkund International Crafts Mela** | **Surajkund (Faridabad)** | **Haryana** | Crafts fair; February; govt-organised |
-  | **Sonepur Mela** | **Sonepur** | **Bihar** | Asia's largest cattle fair; Kartik month |
-  | **Kolayat Fair** | Kolayat | Rajasthan | Kapil Muni temple fair |
-  | **Nagaur Fair** | Nagaur | Rajasthan | Cattle fair |
-  | **Chandrabhaga Fair** | Jhalawar | Rajasthan | Kartik bathing |
-  | **Gangasagar Mela** | Sagar Island | West Bengal | Makar Sankranti bathing |
-  | **Ambubachi Mela** | Kamakhya, Guwahati | Assam | Tantric annual fair June |
-  | **Deva Mela** | Barabanki | **UP** | Annual fair near Lucknow |
-  | **Bateshwar Fair** | Bateshwar (Agra dist.) | **UP** | Livestock/cattle fair |
-  | **Kandariya Mahadev Fair** | Khajuraho | MP | Shivratri fair |
+In May 2025, Pushkar Kumbh Mela 2025 was organized in which of the following States?
 
-- **Kumbh Mela 4 sites** (memorise): **Prayagraj (Ganga-Yamuna-Saraswati sangam)**, **Haridwar (Ganga)**, **Nashik (Godavari)**, **Ujjain (Shipra)**.
-- **Kumbh timing** When **Jupiter, Sun, Moon** align at specific zodiac points.
-- **Magh Mela (UP)** **annual** mini-Kumbh at Prayagraj every January–February.
-- **Pushkar Fair (Rajasthan)** **world's largest camel fair**. Kartik month (Oct–Nov).
-- **Surajkund Mela (Haryana)** **first fortnight of February**.
-- **Sonepur Mela (Bihar)** includes **Harihar Kshetra**. Elephants, horses, cattle trade. Month-long Kartik fair.
-- **Trap**: **Kumbh 4 sites ≠ Pushkar**. Pushkar has separate bathing/fair tradition in Rajasthan.
+1. Rajasthan  
+2. Uttar Pradesh  
+3. Uttarakhand  
 
-> **Exam note:** **Kumbh = P-H-N-U** (Prayagraj, Haridwar, Nashik, Ujjain) | **Pushkar = Rajasthan camel fair** — most common fair trap.
+A. 1 and 2  
+B. Only 3  
+C. 2 and 3  
+D. Only 1
 
-### Exam Facts (raata)
+<details>
+<summary>Show answer</summary>
 
-- Kumbh 4 sites: Prayagraj, Haridwar, Nashik, Ujjain
-- Kumbh UNESCO intangible 2017
-- Magh Mela = annual Prayagraj UP
-- Pushkar Fair = Rajasthan camel fair
-- Pushkar 2025 = Rajasthan only (UPPCS Q97)
-- Surajkund = Haryana February crafts
-- Sonepur = Bihar cattle fair
-- Gangasagar = WB Makar Sankranti
-- Ambubachi = Assam Kamakhya
-- Kumbh ≠ Pushkar site
+**Ans: B — Only 3.** Held at **Keshav Prayag, Mana** (near Badrinath), **Uttarakhand**. Pushkar town in Rajasthan is a different fair (Kartik camel mela). Not UP.
 
-### PYQs — Fairs of India
-
-1. **(UPPCS Prelims 2025 — Q97)** Pushkar Kumbh Mela 2025 organised in:
-
-   1. Rajasthan  2. Uttar Pradesh  3. Uttarakhand  
-
-   → **D — Only 1 (Rajasthan).**
-
-2. **(UPSC Prelims 2020 — pattern)** Kumbh Mela is held at how many principal locations?
-
-   A. 2  B. 3  C. 4  D. 6  
-   → **C — 4** (Prayagraj, Haridwar, Nashik, Ujjain).
-
-### Examples (9.8)
-
-| Example | Detail |
-|---------|--------|
-| **Kumbh Mela, Prayagraj UP** | Largest bathing pilgrimage |
-| **Pushkar Camel Fair, Rajasthan** | Kartik livestock fair |
-| **Surajkund Crafts Mela, Haryana** | February international crafts |
+</details>
 
 ---
 
 ## 9.9 Cultural Festivals Organized by Government
 
-### Definitions
+**Identity:** State or Union sponsors arts, crafts, tourism | Not a spontaneous village rite
 
-| Term | Meaning |
-|------|---------|
-| **Government cultural festival** | Festival **organised/sponsored** by Central or State government to promote arts, crafts, tourism, heritage |
-| **Ministry of Culture** | Nodal ministry for most national cultural festivals (with Tourism partnership) |
+- **Surajkund International Crafts Mela** is of Haryana Tourism with Culture support. It is in **February** at Faridabad, not Delhi and not Rajasthan.
+- **Khajuraho Dance Festival** is of MP. It is in February against the Chandela temples.
+- **Konark Dance Festival** is of Odisha. It is in December on the Konark Sun Temple lawn.
+- **Tansen Samaroh** is at **Gwalior, MP**. It is in December and is not UP.
+- **Bharat Rang Mahotsav** is of the **National School of Drama**, New Delhi. It is January theatre, not SNA dance.
+- **Hornbill Festival** is of the Nagaland government. It is at Kisama from 1–10 December.
+- **Sangai Festival** is of the Manipur government. It is in November.
+- **Taj Mahotsav** is at **Agra, UP**. It runs about **10 days** in **February** under UP Tourism.
+- **Ganga Mahotsav** is at **Varanasi, UP**. It is in November.
+- **Lucknow Mahotsav** is at Lucknow. It is in November–December.
+- **Ayodhya Deepotsav** is at Ayodhya. It is Diwali-season government lighting.
+- **Hampi Utsav** is of Karnataka.
+- **Qutub Festival** is of Delhi.
+- **Rajgir Mahotsav** is of Bihar.
+- **Ek Bharat Shreshtha Bharat** began in **2015**. It is a Ministry of Culture state-pair cultural exchange, not a single-city mela.
+- **Kala Utsav** is school arts under the Ministry of Education.
+- **Saras Aajeevika Mela** is of the Ministry of **Rural Development** / DAY-NRLM. It is rural SHG crafts. The **2021** edition was at **Noida Haat**.
+- **SCO Film Festival 2023** was of the Ministry of I&B and NFDC. It ran at **Mumbai** from **27–31 January 2023** during India’s SCO Presidency. It showcased films of SCO members.
 
-### Cultural Festivals Organized by Government — How It Works
+> **Exam note:** **Surajkund = Haryana**. **Taj Mahotsav = Agra**. **Tansen = Gwalior (MP)**. **Saras 2021 = Noida**.
 
-- **Government cultural festivals** promote **soft power, tourism, artisan livelihood, classical arts**. Distinct from spontaneous religious fairs.
-- **Central/State government festival table** (complete high-yield):
+**PYQ — UPPCS Prelims 2021, Q39**
 
-  | Festival | Organiser | Location | When |
-  |----------|-----------|----------|------|
-  | **Surajkund International Crafts Mela** | **Haryana Tourism + Ministry of Culture** | Surajkund, Haryana | February |
-  | **Khajuraho Dance Festival** | **MP Tourism/Culture** | Khajuraho, MP | February |
-  | **Konark Dance Festival** | **Odisha Tourism** | Konark, Odisha | December |
-  | **Tansen Samaroh** | **MP Govt (Ustad Alauddin Khan Sangeet Academy)** | Gwalior, MP | December |
-  | **Bharat Rang Mahotsav** | **National School of Drama (Culture Ministry)** | New Delhi | January |
-  | **Hornbill Festival** | **Nagaland Govt** | Kisama, Nagaland | December 1–10 |
-  | **Sangai Festival** | **Manipur Govt** | Imphal, Manipur | November |
-  | **Taj Mahotsav** | **UP Tourism** | Agra, **UP** | February (10 days) |
-  | **Ganga Mahotsav** | **UP Tourism** | Varanasi, **UP** | November |
-  | **Lucknow Mahotsav** | **UP Tourism** | Lucknow, **UP** | November–December |
-  | **Hampi Utsav** | **Karnataka Govt** | Hampi, Karnataka | January |
-  | **Mysore Dasara** | **Karnataka Govt** | Mysore | October |
-  | **Qutub Festival** | **Delhi Tourism** | Delhi | November |
-  | **Rajgir Mahotsav** | **Bihar Tourism** | Rajgir, Bihar | October |
-  | **Ek Bharat Shreshtha Bharat** | **Ministry of Culture** | Rotating state pairs | Year-round |
-  | **Kala Utsav** | **Ministry of Education** | National school arts | Annual |
-  | **India International Trade Fair** | **ITPO (Commerce)** | Delhi | November (trade-culture overlap) |
+The 'Saras Ajeevika Mela - 2021' was organised in which of the following city?
 
-- **Scheme cards** (exam format):
-
-  | Scheme/Festival | Year | Ministry | Objective |
-  |-----------------|------|----------|-----------|
-  | **Surajkund Mela** | 1987 launch | Culture + Haryana Tourism | International crafts exchange |
-  | **Ek Bharat Shreshtha Bharat** | 2015 | Culture | State-pair cultural exchange |
-  | **Kala Sanskriti Vikas Yojana** | Ongoing | Culture | Grants for performing arts festivals |
-  | **Bharat Rang Mahotsav** | Annual since 1999 | Culture (NSD) | International theatre showcase |
-
-- **UP government festivals** (exam priority): **Taj Mahotsav (Agra)**, **Ganga Mahotsav (Varanasi)**, **Lucknow Mahotsav**, **Ayodhya Deepotsav**, **Kumbh/Magh Mela infrastructure (Prayagraj)**.
-- **NSD's Bharat Rang Mahotsav** **January**. India's largest theatre festival.
-- **Trap**: **Surajkund = Haryana**, NOT Delhi/UP/Rajasthan. **Khajuraho Dance = MP**, NOT UP.
-
-> **Exam note:** **Surajkund ↔ Haryana + Culture Ministry** and **Taj Mahotsav ↔ Agra UP** — govt festival geography.
-
-### Exam Facts (raata)
-
-- Surajkund Mela = Haryana February (Culture + Tourism)
-- Khajuraho Dance = MP February
-- Konark Dance = Odisha December
-- Tansen Samaroh = Gwalior MP December
-- Bharat Rang Mahotsav = NSD Delhi January
-- Hornbill = Nagaland govt December
-- Taj Mahotsav = Agra UP February
-- Ganga Mahotsav = Varanasi UP November
-- Ek Bharat Shreshtha Bharat 2015 Culture Ministry
-- Kala Sanskriti Vikas Yojana = festival grants
-
-### PYQs — Cultural Festivals Organized by Government
-
-1. **(UPSC Prelims 2019 — pattern)** Surajkund Crafts Mela is held in:
-
-   A. Rajasthan  B. Haryana  C. Uttar Pradesh  D. Delhi  
-   → **B — Haryana** (Surajkund, Faridabad district).
-
-2. **(UPSC Prelims 2018 — pattern)** Bharat Rang Mahotsav is organised by:
-
-   A. Sangeet Natak Akademi  B. National School of Drama  C. Sahitya Akademi  D. IGNCA  
-   → **B — National School of Drama** (Culture Ministry).
-
-### Examples (9.9)
-
-| Example | Detail |
-|---------|--------|
-| **Surajkund Mela, Haryana** | Govt international crafts fair |
-| **Taj Mahotsav, Agra UP** | UP Tourism 10-day festival |
-| **Bharat Rang Mahotsav, NSD Delhi** | Govt theatre festival |
-
----
-
-## Consolidated Reference — Everything in One Place
-
-### Kumbh Mela — 4 Sites Master Table
-
-| Site | River | State | Notes |
-|------|-------|-------|-------|
-| **Prayagraj** | Ganga-Yamuna-Saraswati sangam | **Uttar Pradesh** | Magh Mela annual; Maha Kumbh |
-| **Haridwar** | Ganga | **Uttarakhand** | Kumbh when Jupiter in Aquarius |
-| **Nashik** | Godavari | **Maharashtra** | Trimbakeshwar link |
-| **Ujjain** | Shipra | **Madhya Pradesh** | Mahakaleshwar link |
-
-### Harvest Festivals — Regional Map
-
-| Festival | State | Season |
-|----------|-------|--------|
-| **Pongal** | Tamil Nadu | January |
-| **Onam** | Kerala | August–September |
-| **Bihu** | Assam | April (Rongali main) |
-| **Makar Sankranti/Uttarayan** | Pan-India (Gujarat kite famous) | January |
-| **Nuakhai** | Odisha | August–September |
-| **Baisakhi** | Punjab | April |
-| **Vishu** | Kerala | April |
-
-### UNESCO Intangible — Festival-Linked India
-
-| Item | Year inscribed |
-|------|----------------|
-| **Ramlila** | 2008 |
-| **Kumbh Mela** | 2017 |
-| **Durga Puja (Kolkata)** | 2021 |
-| **Garba (Gujarat)** | 2023 |
-| **Nawruz (Parsi)** | 2009 (multinational) |
-
-### Major Fairs — Quick Match
-
-| Fair | State |
-|------|-------|
-| Kumbh/Magh Mela | **UP** (Prayagraj) |
-| Pushkar Fair | **Rajasthan** |
-| Surajkund Crafts Mela | **Haryana** |
-| Sonepur Mela | **Bihar** |
-| Gangasagar Mela | **West Bengal** |
-
-### Important Dates — Festivals & Fairs
-
-| Date/Month | Event |
-|------------|-------|
-| **26 January** | Republic Day (national festival) |
-| **15 August** | Independence Day |
-| **January (mid)** | Pongal, Makar Sankranti, Lohri, Magh Mela |
-| **February** | Surajkund Mela, Taj Mahotsav (Agra) |
-| **March** | Holi (Braj UP famous), Yaoshang Manipur |
-| **April** | Bihu (Rongali), Baisakhi, Vishu |
-| **June–July** | Ratha Yatra Puri, Ambubachi Mela |
-| **August–September** | Onam, Teej, Janmashtami |
-| **September–October** | Navratri, Durga Puja, Dussehra, Bastar Dussehra |
-| **October–November** | Diwali, Chhath Puja, Pushkar Fair (Kartik) |
-| **December 1–10** | Hornbill Festival Nagaland |
-| **2008** | Ramlila UNESCO intangible |
-| **2017** | Kumbh Mela UNESCO intangible |
-| **2025 May** | Pushkar Kumbh Mela — Rajasthan (UPPCS Q97) |
-
-### UP Focus — Indian Festivals & Fairs
-
-| Element | UP Detail |
-|---------|-----------|
-| **Kumbh/Magh Mela** | **Prayagraj** — largest religious gathering; UP's #1 fair |
-| **Braj Holi** | **Mathura-Vrindavan-Barsana** — Lathmar Holi world-famous |
-| **Ramlila** | **Varanasi (Ramnagar)**, Braj — UNESCO intangible 2008 |
-| **Taj Mahotsav** | **Agra** — 10-day UP Tourism festival (February) |
-| **Ganga Mahotsav** | **Varanasi** — November UP Tourism |
-| **Lucknow Mahotsav** | **Lucknow** — November–December cultural festival |
-| **Chhath Puja** | **Eastern UP** ghats (with Bihar/Jharkhand) — sun worship |
-| **Deva Mela** | **Barabanki** (near Lucknow) |
-| **Ayodhya Deepotsav** | **Ayodhya** — Diwali season govt event |
-| **NOT UP traps** | Pushkar = **Rajasthan**; Onam = **Kerala**; Hornbill = **Nagaland**; Surajkund = **Haryana** |
-| **2025 PYQ** | Q97 Pushkar Kumbh = Rajasthan only |
-
----
-
-## Practice Zone (Topic 9)
-
-> **45 questions** — mix of MCQ, multi-statement, A/R, matching. Answers in `<details>`.
-
-**Q1.** With reference to Kumbh Mela, which statements is/are correct?
-
-1. It is held at four principal locations.  
-2. Prayagraj is one of the Kumbh sites.
-
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Patna  
+B. Raipur  
+C. Lucknow  
+D. Noida
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both correct (Prayagraj, Haridwar, Nashik, Ujjain).
+**Ans: D — Noida.** Noida Haat. Rural Development / NRLM SHG crafts fair. Not Lucknow.
+
+</details>
+
+**PYQ — UPPCS Prelims 2023, Q87**
+
+With reference to the **SCO Film Festival–2023**, which of the following statement(s) is/are correct?
+
+1. The SCO Film Festival is being held during India's Presidency of the Shanghai Cooperation Organisation.  
+2. The SCO Film Festival showcases films from SCO member countries.
+
+A. Only 1  
+B. Only 2  
+C. Both 1 and 2  
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C — Both 1 and 2.** Mumbai, Jan 2023. I&B / NFDC. India’s SCO Presidency.
 
 </details>
 
 ---
 
-**Q2.** Pushkar Kumbh Mela 2025 was organized in:
+## Consolidated Reference — Once Only
 
-1. Rajasthan  2. Uttar Pradesh  3. Uttarakhand
+**UP Focus**
 
-Options: A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
+- Prayagraj holds Magh Mela every year. Kumbh / Maha Kumbh is at the Sangam.
+- Maha Kumbh **2025** ran from 13 Jan to 26 Feb. It lasted about 45 days.
+- Braj Holi is of Mathura, Vrindavan and Barsana.
+- Ramlila is of Ramnagar / Varanasi. It is UNESCO 2008.
+- Chhath is of the eastern UP ghats (with Bihar / Jharkhand).
+- Taj Mahotsav is at Agra in February.
+- Ganga Mahotsav is at Varanasi in November.
+- Lucknow Mahotsav is named. Muharram / Shia processions are in Lucknow.
+- Deva Mela is at Barabanki. Bateshwar Fair is in Agra district.
+- Ayodhya Deepotsav is named.
+- These are **not UP**: Pushkar Fair (Rajasthan), Pushkar Kumbh 2025 (Uttarakhand), Surajkund (Haryana), Onam (Kerala), Hornbill (Nagaland) and Tansen Samaroh (Gwalior, MP).
 
-<details>
-<summary>Show answer</summary>
+**Kumbh river lock (once)**
 
-**Ans: D** — Only Rajasthan (UPPCS 2025 Q97).
-
-</details>
-
----
-
-**Q3.** Onam is a festival of:
-
-Options: A. Tamil Nadu  B. Kerala  C. Karnataka  D. Assam
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Kerala harvest festival.
-
-</details>
+- Prayagraj’s rivers are Ganga, Yamuna and Saraswati.
+- Haridwar’s river is Ganga.
+- Nashik’s river is Godavari.
+- Ujjain’s river is Shipra.
 
 ---
 
-**Q4.** Pongal is celebrated in:
+## Practice Zone — UPPCS Format Drill
 
-Options: A. Kerala  B. Tamil Nadu  C. Andhra Pradesh  D. Karnataka
+**40 questions.** ≥60% multi-statement. A/R, Match-List, chronology, NOT-matched included.
+
+**Q1.** With reference to Kumbh Mela, which of the following statements is/are correct?
+
+1. It is inscribed on UNESCO’s Representative List of Intangible Cultural Heritage.  
+2. The four traditional sites include Pushkar in Rajasthan.  
+3. Prayagraj’s bathing site is the Triveni Sangam.
+
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 and 3 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Tamil Nadu January harvest.
+**Ans: B.** UNESCO 2017. Four sites = Prayagraj, Haridwar, Nashik, Ujjain. Pushkar is not one of them.
 
 </details>
 
----
+**Q2.** Match List-I with List-II.
 
-**Q5.** Hornbill Festival is held in:
+**List-I**  
+A. Prayagraj  
+B. Haridwar  
+C. Nashik  
+D. Ujjain  
 
-Options: A. Assam  B. Nagaland  C. Meghalaya  D. Manipur
+**List-II**  
+1. Godavari  
+2. Shipra  
+3. Ganga–Yamuna–Saraswati  
+4. Ganga  
+
+A. 3 4 1 2  
+B. 3 4 2 1  
+C. 4 3 1 2  
+D. 3 1 4 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Nagaland (December 1–10).
+**Ans: A.**
 
 </details>
 
----
+**Q3.** Which of the following pairs is/are NOT correctly matched?
 
-**Q6.** Which is/are correctly matched?
+1. Pongal — Kerala  
+2. Onam — Tamil Nadu  
+3. Bihu — Assam  
 
-1. Garba — Gujarat  2. Bihu — Assam  3. Durga Puja — West Bengal
-
-Options: A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — All three pairs correct.
+**Ans: A.** Pongal = Tamil Nadu. Onam = Kerala. Bihu = Assam is correct.
 
 </details>
 
----
+**Q4.** Assertion (A): The Pushkar camel fair is held in Rajasthan.  
+Reason (R): Pushkar Kumbh Mela of May 2025 was organised only in Rajasthan.
 
-**Q7.** Surajkund International Crafts Mela is held in:
-
-Options: A. Rajasthan  B. Haryana  C. Uttar Pradesh  D. Delhi
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Haryana (Faridabad district).
+**Ans: C.** Camel fair = Pushkar, Ajmer, Rajasthan. May 2025 Pushkar Kumbh = Mana, Uttarakhand.
 
 </details>
 
----
+**Q5.** Consider the following statements about Maha Kumbh 2025:
 
-**Q8.** Ramlila is recognised by UNESCO as:
+1. It was held at Prayagraj.  
+2. It ran for about 45 days from mid-January to late February 2025.  
+3. It was held at Haridwar on the Godavari.
 
-Options: A. Tangible heritage  B. Intangible heritage  C. Natural heritage  D. Not on UNESCO list
+How many of the above statements are correct?
+
+A. Only one  
+B. Only two  
+C. All three  
+D. None
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Intangible cultural heritage (2008).
+**Ans: B.** 1 and 2. Haridwar is Ganga, not Godavari. 2025 mega event = Prayagraj.
 
 </details>
 
----
+**Q6.** Arrange the following UNESCO inscriptions in chronological order.
 
-**Q9.** Consider the following about fairs:
+1. Garba of Gujarat  
+2. Ramlila  
+3. Kumbh Mela  
+4. Durga Puja of Kolkata  
 
-1. Pushkar Fair is in Rajasthan.  
-2. Kumbh Mela is held at Prayagraj in Uttar Pradesh.
-
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. 2 3 4 1  
+B. 2 4 3 1  
+C. 3 2 4 1  
+D. 2 3 1 4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both correct.
+**Ans: A.** Ramlila 2008 → Kumbh 2017 → Durga Puja 2021 → Garba 2023.
 
 </details>
 
----
+**Q7.** With reference to harvest festivals, which of the following statements is/are correct?
 
-**Q10.** Sarhul festival is associated with:
+1. Pongal is a four-day January festival of Tamil Nadu.  
+2. Mattu Pongal is the cattle-worship day.  
+3. Onam commemorates King Mahabali in Kerala.
 
-Options: A. Jharkhand  B. Chhattisgarh  C. Odisha  D. Bihar
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Jharkhand tribal festival.
+**Ans: D.**
 
 </details>
 
----
+**Q8.** Match List-I with List-II.
 
-**Q11.** Bastar Dussehra is a festival of:
+**List-I**  
+A. Hornbill  
+B. Sangai  
+C. Chapchar Kut  
+D. Wangala  
 
-Options: A. Odisha  B. Chhattisgarh  C. Jharkhand  D. Madhya Pradesh
+**List-II**  
+1. Mizoram  
+2. Nagaland  
+3. Meghalaya  
+4. Manipur  
+
+A. 2 4 1 3  
+B. 2 1 4 3  
+C. 4 2 1 3  
+D. 2 4 3 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 75-day tribal Dussehra Chhattisgarh.
+**Ans: A.**
 
 </details>
 
----
+**Q9.** Which of the following is NOT correctly matched?
 
-**Q12.** Match List-I with List-II:
-
-List-I: A. Mysore Dasara  B. Thrissur Pooram  C. Bathukamma  D. Chapchar Kut  
-List-II: 1. Telangana  2. Mizoram  3. Karnataka  4. Kerala
-
-Options: A. 3 4 1 2  B. 4 3 2 1  C. 3 4 2 1  D. 2 1 4 3
+A. Sarhul — Jharkhand  
+B. Bastar Dussehra — Odisha  
+C. Medaram Jatara — Telangana  
+D. Bhagoria — Madhya Pradesh
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Mysore Dasara-Karnataka, Thrissur Pooram-Kerala, Bathukamma-Telangana, Chapchar Kut-Mizoram.
+**Ans: B.** Bastar Dussehra = Chhattisgarh.
 
 </details>
 
----
+**Q10.** With reference to Bastar Dussehra, which of the following statements is/are correct?
 
-**Q13.** Chhath Puja is dedicated to:
+1. It lasts about 75 days.  
+2. It is identical with the pan-India Rama–Ravana Dussehra.  
+3. The principal deity associated with it is Danteshwari.
 
-Options: A. Moon  B. Sun  C. Ganga  D. Shiva
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 and 3 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Sun (Surya) worship.
+**Ans: B.** Tribal Devi Danteshwari. Not the standard Rama play.
 
 </details>
 
----
+**Q11.** Assertion (A): Magh Mela is held every year at Prayagraj.  
+Reason (R): Magh Mela is the same event as the 12-year Kumbh at Ujjain.
 
-**Q14.** Bharat Rang Mahotsav is organised by:
-
-Options: A. Sangeet Natak Akademi  B. National School of Drama  C. Sahitya Akademi  D. ICCR
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — NSD (Culture Ministry).
+**Ans: C.** Magh Mela is the annual Prayagraj bath. Ujjain Kumbh is a different 12-year site.
 
 </details>
 
----
+**Q12.** Consider the following pairs:
 
-**Q15.** Assertion (A): Pushkar is one of the four principal Kumbh Mela sites.  
-Reason (R): Pushkar hosts an annual camel fair in Rajasthan.
+1. Surajkund Mela — Haryana  
+2. Sonepur Mela — Bihar  
+3. Gangasagar Mela — Gujarat  
 
-Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A false, R true  D. A true, R false
+Which of the pairs given above is/are correctly matched?
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — A false (4 sites = P-H-N-U, not Pushkar). R true about camel fair.
+**Ans: A.** Gangasagar = West Bengal, Makar Sankranti.
 
 </details>
 
----
+**Q13.** With reference to Chhath Puja, which of the following statements is/are correct?
 
-**Q16.** Bihu is a festival of:
+1. It is dedicated to the Sun.  
+2. It is mainly associated with Bihar and eastern Uttar Pradesh.  
+3. It is a moon-worship festival of Rajasthan.
 
-Options: A. Assam  B. Nagaland  C. Sikkim  D. Tripura
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 and 3 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Assam (three Bihus).
+**Ans: A.**
 
 </details>
 
----
+**Q14.** Match List-I with List-II.
 
-**Q17.** Which is/are NOT correctly matched?
+**List-I**  
+A. Taj Mahotsav  
+B. Tansen Samaroh  
+C. Bharat Rang Mahotsav  
+D. Konark Dance Festival  
 
-1. Onam — Tamil Nadu  2. Braj Holi — Uttar Pradesh  3. Sonepur Mela — Bihar
+**List-II**  
+1. Gwalior  
+2. Agra  
+3. Odisha  
+4. National School of Drama  
 
-Options: A. 1 only  B. 2 only  C. 1 and 3  D. 3 only
+A. 2 1 4 3  
+B. 2 1 3 4  
+C. 1 2 4 3  
+D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Only 1 wrong (Onam = Kerala). Braj Holi-UP and Sonepur-Bihar correct.
+**Ans: A.**
 
 </details>
 
----
+**Q15.** Hornbill Festival is held at which of the following?
 
-**Q18.** Taj Mahotsav is held in:
-
-Options: A. Lucknow  B. Varanasi  C. Agra  D. Prayagraj
+A. Kaziranga, Assam, April  
+B. Kisama, Nagaland, 1–10 December  
+C. Imphal, Manipur, November  
+D. Shillong, Meghalaya, March
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Agra UP (February, UP Tourism).
+**Ans: B.**
 
 </details>
 
----
+**Q16.** With reference to Bihu, which of the following statements is/are correct?
 
-**Q19.** Garba is performed during:
+1. Rongali or Bohag Bihu is the spring festival of Assam.  
+2. Bhogali or Magh Bihu is a January harvest bonfire.  
+3. Bihu is the state festival of Nagaland.
 
-Options: A. Diwali  B. Navratri  C. Holi  D. Onam
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Navratri (Gujarat). UNESCO 2023.
+**Ans: A.** Bihu = Assam. Nagaland = Hornbill.
 
 </details>
 
----
+**Q17.** Which of the following pairs is NOT correctly matched?
 
-**Q20.** Kumbh Mela was inscribed on UNESCO Intangible Heritage List in:
-
-Options: A. 2008  B. 2012  C. 2017  D. 2021
+A. Ugadi — Andhra Pradesh / Telangana / Karnataka  
+B. Gudi Padwa — Maharashtra  
+C. Vishu — Tamil Nadu  
+D. Puthandu — Tamil Nadu
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — 2017 (Ramlila = 2008).
+**Ans: C.** Vishu = Kerala New Year.
 
 </details>
 
----
+**Q18.** Consider the following statements:
 
-**Q21.** Consider the following about government festivals:
+1. Garba of Gujarat is on the UNESCO ICH list.  
+2. Garba is an SNA classical dance.  
+3. Garba is performed mainly during Navratri.
 
-1. Surajkund Mela is organised with Ministry of Culture involvement.  
-2. Hornbill Festival is organised by Nagaland government.
+How many of the above statements are correct?
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only one  
+B. Only two  
+C. All three  
+D. None
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both correct.
+**Ans: B.** 1 and 3. UNESCO 2023. Not one of the SNA eight.
 
 </details>
 
----
+**Q19.** Assertion (A): Ramlila is recognised by UNESCO as intangible cultural heritage.  
+Reason (R): Ramlila is the ninth classical dance of Sangeet Natak Akademi.
 
-**Q22.** Ratha Yatra is associated with:
-
-Options: A. Varanasi  B. Puri  C. Ayodhya  D. Mathura
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Puri Jagannath, Odisha.
+**Ans: C.** UNESCO 2008 folk theatre. Not SNA classical.
 
 </details>
 
----
+**Q20.** Match List-I with List-II.
 
-**Q23.** Sangai Festival is celebrated in:
+**List-I**  
+A. Eid-ul-Fitr  
+B. Eid-ul-Adha  
+C. Baisakhi  
+D. Buddha Purnima  
 
-Options: A. Manipur  B. Mizoram  C. Meghalaya  D. Nagaland
+**List-II**  
+1. Khalsa founded 1699  
+2. End of Ramadan  
+3. Birth, enlightenment, parinirvana lock  
+4. Bakrid  
+
+A. 2 4 1 3  
+B. 2 4 3 1  
+C. 4 2 1 3  
+D. 2 1 4 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Manipur (November).
+**Ans: A.**
 
 </details>
 
----
+**Q21.** With reference to Onam, which of the following statements is/are correct?
 
-**Q24.** Which is/are harvest festivals?
+1. It is the harvest festival of Kerala.  
+2. Vallamkali snake-boat races are associated with it.  
+3. It is the same festival as Pongal.
 
-1. Pongal  2. Onam  3. Christmas
-
-Options: A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 and 3 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Pongal and Onam are harvest festivals. Christmas is religious.
+**Ans: A.**
 
 </details>
 
----
+**Q22.** Which of the following is/are correctly matched?
 
-**Q25.** Sonepur Mela is famous for:
+1. Lathmar Holi — Barsana, UP  
+2. Bathukamma — Telangana  
+3. Thrissur Pooram — Karnataka  
 
-Options: A. Camel trade  B. Cattle trade  C. Crafts only  D. Kite flying
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Bihar cattle fair (Asia's largest cattle fair).
+**Ans: A.** Thrissur Pooram = Kerala.
 
 </details>
 
----
+**Q23.** Consider the following about Sarhul:
 
-**Q26.** Magh Mela is held annually at:
+1. It is associated with sal-tree worship.  
+2. It is a major festival of Munda and Oraon communities in Jharkhand.  
+3. It is the harvest festival of Tamil Nadu.
 
-Options: A. Haridwar  B. Prayagraj  C. Nashik  D. Pushkar
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Prayagraj UP (annual bathing fair).
+**Ans: A.**
 
 </details>
 
----
+**Q24.** Arrange the following in the order they typically fall in the calendar year.
 
-**Q27.** Match List-I with List-II:
+1. Pongal  
+2. Hornbill Festival  
+3. Onam  
+4. Rongali Bihu  
 
-List-I: A. Tansen Samaroh  B. Khajuraho Dance Festival  C. Konark Dance Festival  D. Ganga Mahotsav  
-List-II: 1. Varanasi  2. Gwalior  3. Konark  4. Khajuraho
-
-Options: A. 2 4 3 1  B. 4 2 1 3  C. 2 4 1 3  D. 3 2 4 1
+A. 1 4 3 2  
+B. 1 3 4 2  
+C. 4 1 3 2  
+D. 1 4 2 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Tansen-Gwalior, Khajuraho-Khajuraho, Konark-Konark, Ganga Mahotsav-Varanasi.
+**Ans: A.** Pongal Jan → Rongali Bihu April → Onam Aug–Sep → Hornbill December.
 
 </details>
 
----
+**Q25.** With reference to government cultural festivals, which of the following statements is/are correct?
 
-**Q28.** Losar festival is primarily associated with:
+1. Taj Mahotsav is organised in Agra.  
+2. Tansen Samaroh is organised in Varanasi.  
+3. Bharat Rang Mahotsav is organised by the National School of Drama.
 
-Options: A. Buddhist communities in Himalayan regions  B. Tamil Nadu  C. Kerala  D. Gujarat
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 and 3 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Tibetan Buddhist New Year (Sikkim, Ladakh, Arunachal, HP).
+**Ans: B.** Tansen Samaroh = Gwalior, MP.
 
 </details>
 
----
+**Q26.** Which of the following pairs is NOT correctly matched?
 
-**Q29.** With reference to religious festivals:
-
-1. Chhath Puja involves sun worship.  
-2. Eid-ul-Fitr marks the end of Ramadan.
-
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Ambubachi Mela — Kamakhya, Assam  
+B. Hemis Festival — Ladakh  
+C. Kullu Dussehra — Himachal Pradesh  
+D. Pushkar Camel Fair — Uttarakhand
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both correct.
+**Ans: D.** Camel fair = Rajasthan. Uttarakhand’s May event is Pushkar **Kumbh** at Mana.
 
 </details>
 
----
+**Q27.** Assertion (A): Losar is celebrated in Sikkim and Arunachal Pradesh.  
+Reason (R): Losar is the Tibetan Buddhist New Year and is also observed in Ladakh.
 
-**Q30.** Lucknow Mahotsav is a cultural festival of:
-
-Options: A. Bihar  B. Madhya Pradesh  C. Uttar Pradesh  D. Uttarakhand
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — UP Tourism festival.
+**Ans: A.** Same festival across Himalayan Buddhist belts.
 
 </details>
 
----
+**Q28.** Consider the following statements about Sangai Festival:
 
-**Q31.** Which festival is NOT from North-East India?
+1. It is held in Manipur.  
+2. It is named after Manipur’s state animal.  
+3. It is held at Kisama Heritage Village.
 
-Options: A. Hornbill  B. Bihu  C. Pongal  D. Chapchar Kut
+How many of the above statements are correct?
+
+A. Only one  
+B. Only two  
+C. All three  
+D. None
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Pongal = Tamil Nadu (South), not NE.
+**Ans: B.** 1 and 2. Kisama is Hornbill, Nagaland.
 
 </details>
 
----
+**Q29.** Match List-I with List-II.
 
-**Q32.** Durga Puja is most famously associated with:
+**List-I**  
+A. Nuakhai  
+B. Baisakhi  
+C. Lohri  
+D. Uttarayan  
 
-Options: A. Gujarat  B. West Bengal  C. Punjab  D. Rajasthan
+**List-II**  
+1. Punjab winter bonfire  
+2. Odisha harvest  
+3. Gujarat kite festival  
+4. Punjab April harvest / Khalsa  
+
+A. 2 4 1 3  
+B. 2 1 4 3  
+C. 4 2 1 3  
+D. 2 4 3 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — West Bengal (UNESCO 2021 Kolkata Durga Puja).
+**Ans: A.**
 
 </details>
 
----
+**Q30.** With reference to Durga Puja, which of the following statements is/are correct?
 
-**Q33.** Consider the following:
+1. UNESCO inscribed Durga Puja of Kolkata in 2021.  
+2. It is the same inscription as Garba of Gujarat.  
+3. It is a tangible World Heritage monument.
 
-1. Kumbh Mela is on UNESCO Intangible Heritage List.  
-2. Qutub Minar is on UNESCO Intangible Heritage List.
-
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. 1 only  
+B. 1 and 2 only  
+C. 2 and 3 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Only 1. Qutub Minar = tangible World Heritage Site.
+**Ans: A.** Garba is a separate 2023 ICH. Not a monument.
 
 </details>
 
----
+**Q31.** Which of the following is/are tribal festivals?
 
-**Q34.** Ganesh Chaturthi is most prominently celebrated in:
+1. Medaram Jatara  
+2. Mysore Dasara  
+3. Bhagoria Haat  
 
-Options: A. Maharashtra  B. Kerala  C. Assam  D. Punjab
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 and 3 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Maharashtra (Mumbai, Pune).
+**Ans: B.** Mysore Dasara is a royal / state Dasara, not a tribal jatara.
 
 </details>
 
----
+**Q32.** Consider the following statements:
 
-**Q35.** Ek Bharat Shreshtha Bharat was launched in:
+1. Jallikattu is associated with Pongal in Tamil Nadu.  
+2. Pulikali is associated with Onam in Kerala.  
+3. Both are classical dances of Sangeet Natak Akademi.
 
-Options: A. 2010  B. 2015  C. 2019  D. 2022
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 2015 (Ministry of Culture state-pair exchange).
+**Ans: A.** Folk / festival sports and performances. Not SNA 8.
 
 </details>
 
----
+**Q33.** The Saras Ajeevika Mela 2021 was organised in:
 
-**Q36.** Which is/are folk festivals?
-
-1. Braj Holi  2. Garba  3. Guru Nanak Jayanti
-
-Options: A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. Lucknow  
+B. Patna  
+C. Noida  
+D. Raipur
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Braj Holi and Garba = folk. Guru Nanak Jayanti = religious.
+**Ans: C.** Noida Haat. Rural Development / NRLM. UPPCS 2021 Q39.
 
 </details>
 
----
+**Q34.** With reference to the SCO Film Festival 2023, which of the following statements is/are correct?
 
-**Q37.** Medaram Jatara is a tribal festival of:
+1. It was held during India’s Presidency of the SCO.  
+2. It showcased films from SCO member countries.  
+3. It was organised at Prayagraj during Maha Kumbh.
 
-Options: A. Telangana  B. Odisha  C. Jharkhand  D. Chhattisgarh
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 and 3 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Telangana (Koya tribe).
+**Ans: A.** Mumbai, January 2023. Not Kumbh.
 
 </details>
 
----
+**Q35.** Which of the following pairs is/are NOT correctly matched?
 
-**Q38.** Uttarayan (Kite Festival) is famous in:
+1. Ratha Yatra — Puri, Odisha  
+2. Ganesh Chaturthi — Maharashtra  
+3. Carnival — Punjab  
 
-Options: A. Gujarat  B. Rajasthan  C. UP  D. Bihar
+A. 1 and 2 only  
+B. 3 only  
+C. 2 and 3 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Gujarat (Makar Sankranti).
+**Ans: B.** Goa Carnival.
 
 </details>
 
----
+**Q36.** Assertion (A): Surajkund Mela is a crafts fair of Haryana.  
+Reason (R): Surajkund lies in Faridabad district and the mela is usually held in February.
 
-**Q39.** Which Kumbh site is in Uttarakhand?
-
-Options: A. Prayagraj  B. Haridwar  C. Nashik  D. Ujjain
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Haridwar on Ganga.
+**Ans: A.**
 
 </details>
 
----
+**Q37.** Consider the following about Ek Bharat Shreshtha Bharat:
 
-**Q40.** Ayodhya Deepotsav is associated with which festival season?
+1. It was launched in 2015.  
+2. It is a Ministry of Culture programme of state-pair cultural exchange.  
+3. It is the official name of the Surajkund Mela.
 
-Options: A. Holi  B. Diwali  C. Navratri  D. Onam
+How many of the above statements are correct?
+
+A. Only one  
+B. Only two  
+C. All three  
+D. None
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Diwali season (UP govt event).
+**Ans: B.** 1 and 2.
 
 </details>
 
----
+**Q38.** Match List-I with List-II.
 
-**Q41.** Which is/are South Indian festivals?
+**List-I**  
+A. Lai Haraoba  
+B. Yaoshang  
+C. Kharchi Puja  
+D. Solung  
 
-1. Pongal  2. Onam  3. Hornbill
+**List-II**  
+1. Tripura  
+2. Manipur indigenous creation festival  
+3. Arunachal (Adi)  
+4. Manipur spring / Holi-type  
 
-Options: A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 2 4 1 3  
+B. 4 2 1 3  
+C. 2 4 3 1  
+D. 2 1 4 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Pongal and Onam = South. Hornbill = Nagaland (NE).
+**Ans: A.**
 
 </details>
 
----
+**Q39.** With reference to national festivals of India, which of the following statements is/are correct?
 
-**Q42.** Assertion (A): Surajkund Crafts Mela is held in Haryana.  
-Reason (R): It is organised with participation of Ministry of Culture.
+1. Republic Day is 26 January.  
+2. Independence Day is 15 August.  
+3. Gandhi Jayanti is 2 October.
 
-Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A false, R true  D. A true, R false
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 and 3 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Both true; location (Haryana) not explained by Culture Ministry involvement alone.
+**Ans: D.**
 
 </details>
 
----
+**Q40.** Which of the following statements is/are correct?
 
-**Q43.** Which is/are tribal festivals?
+1. Navroz is the Parsi New Year.  
+2. Muharram processions are a major cultural lock of Lucknow.  
+3. Christmas is observed on 25 December.
 
-1. Sarhul  2. Bastar Dussehra  3. Durga Puja
-
-Options: A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Sarhul + Bastar Dussehra = tribal. Durga Puja = religious/regional.
-
-</details>
-
----
-
-**Q44.** With reference to UP festivals:
-
-1. Magh Mela is held at Prayagraj.  
-2. Taj Mahotsav is held at Varanasi.
-
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Only 1. Taj Mahotsav = **Agra**, not Varanasi (Ganga Mahotsav = Varanasi).
-
-</details>
-
----
-
-**Q45.** Which is/are correctly matched?
-
-1. Ratha Yatra — Odisha  2. Baisakhi — Punjab  3. Losar — Nagaland only
-
-Options: A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — 1 and 2 only. Losar = Himalayan Buddhist regions (Sikkim, Ladakh, Arunachal), NOT Nagaland only.
+**Ans: D.**
 
 </details>
 
@@ -1473,292 +1123,93 @@ Options: A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 
 ## Complete PYQ Bank (Topic 9)
 
-> **Answers hidden** — click *Show answer* under each question to reveal.
-
-**Q1. UPPCS Prelims 2025 — Q97**
+**UPPCS Prelims 2025, Q97**
 
 In May 2025, Pushkar Kumbh Mela 2025 was organized in which of the following States?
 
-1. Rajasthan  2. Uttar Pradesh  3. Uttarakhand
+1. Rajasthan  
+2. Uttar Pradesh  
+3. Uttarakhand  
 
-Options: A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Only Rajasthan.
-
-</details>
-
----
-
-**Q2. UPSC Prelims 2019 — pattern**
-
-Which is/are on UNESCO Intangible Heritage List from India?
-
-1. Kumbh Mela  2. Yoga  3. Qutub Minar
-
-Options: A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2  
+B. Only 3  
+C. 2 and 3  
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — 1 and 2 only.
+**Ans: B — Only 3.** Keshav Prayag, Mana, Uttarakhand. Not the Rajasthan camel fair. Not UP.
 
 </details>
 
----
+**UPPCS Prelims 2023, Q87**
 
-**Q3. UPSC Prelims 2020 — pattern**
+With reference to the **SCO Film Festival–2023**, which of the following statement(s) is/are correct?
 
-Onam is a festival of:
+1. The SCO Film Festival is being held during India's Presidency of the Shanghai Cooperation Organisation.  
+2. The SCO Film Festival showcases films from SCO member countries.
 
-Options: A. Tamil Nadu  B. Kerala  C. Karnataka  D. Andhra Pradesh
+A. Only 1  
+B. Only 2  
+C. Both 1 and 2  
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Kerala.
+**Ans: C.** Mumbai, 27–31 Jan 2023. I&B / NFDC.
 
 </details>
 
----
+**UPPCS Prelims 2021, Q39**
 
-**Q4. UPSC Prelims 2020 — pattern**
+The 'Saras Ajeevika Mela - 2021' was organised in which of the following city?
 
-Pongal is a harvest festival of:
-
-Options: A. Kerala  B. Tamil Nadu  C. Karnataka  D. Andhra Pradesh
+A. Patna  
+B. Raipur  
+C. Lucknow  
+D. Noida
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Tamil Nadu.
+**Ans: D — Noida.**
 
 </details>
 
----
-
-**Q5. UPSC Prelims 2020 — pattern**
-
-Hornbill Festival is celebrated in:
-
-Options: A. Assam  B. Nagaland  C. Meghalaya  D. Mizoram
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Nagaland.
-
-</details>
+**Related lock, not banked as a festival PYQ:** UPPCS **2024 Q56** Cannes Best Actress (Anasuya Sengupta) is international cinema CA, not this chapter. **2021 Q120** Azadi ka Amrit Mahotsav / Ram Prasad Bismil is modern-history CA.
 
 ---
 
-**Q6. UPSC Prelims 2020 — pattern**
-
-Kumbh Mela is held at how many principal locations?
-
-Options: A. 2  B. 3  C. 4  D. 6
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — 4 sites.
-
-</details>
-
----
-
-**Q7. UPSC Prelims 2019 — pattern**
-
-Garba is a folk dance-festival of:
-
-Options: A. Rajasthan  B. Gujarat  C. Maharashtra  D. Odisha
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Gujarat.
-
-</details>
-
----
-
-**Q8. UPSC Prelims 2019 — pattern**
-
-Chhath Puja is dedicated to:
-
-Options: A. Moon  B. Sun  C. Ganga  D. Agni
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Sun.
-
-</details>
-
----
-
-**Q9. UPSC Prelims 2019 — pattern**
-
-Surajkund Crafts Mela is held in:
-
-Options: A. Rajasthan  B. Haryana  C. Uttar Pradesh  D. Delhi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Haryana.
-
-</details>
-
----
-
-**Q10. UPSC Prelims 2018 — pattern**
-
-Bharat Rang Mahotsav is organised by:
-
-Options: A. Sangeet Natak Akademi  B. National School of Drama  C. Sahitya Akademi  D. IGNCA
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — NSD.
-
-</details>
-
----
-
-**Q11. UPSC Prelims 2018 — pattern**
-
-Onam is celebrated in:
-
-Options: A. Tamil Nadu  B. Kerala  C. Karnataka  D. Telangana
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Kerala.
-
-</details>
-
----
-
-**Q12. UPSC Prelims 2017 — pattern**
-
-Garba is performed during:
-
-Options: A. Diwali  B. Navratri  C. Holi  D. Baisakhi
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Navratri.
-
-</details>
-
----
-
-**Q13. UPSC Prelims 2017 — pattern**
-
-Sarhul festival is associated with:
-
-Options: A. Jharkhand  B. Chhattisgarh  C. Odisha  D. Bihar
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Jharkhand.
-
-</details>
-
----
-
-**Q14. UPSC Prelims 2017 — pattern**
-
-Ramlila is recognised by UNESCO as:
-
-Options: A. Tangible heritage  B. Intangible heritage  C. Natural heritage  D. Biosphere reserve
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Intangible (2008).
-
-</details>
-
----
-
-**Q15. UPSC Prelims 2016 — pattern**
-
-Bihu is associated with:
-
-Options: A. Assam  B. Odisha  C. Kerala  D. Tamil Nadu
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Assam.
-
-</details>
-
----
-
-## Mains Answer Framework (Topic 9)
-
-### Q: Discuss the cultural significance of Indian festivals and fairs
-
-**Structure (250 words):**
-1. **Intro:** Festivals = living heritage — agrarian roots, religious devotion, tribal identity, tourism economy
-2. **Classification:** National (Republic Day), religious (Diwali, Eid), folk (Braj Holi, Garba), tribal (Sarhul, Hornbill)
-3. **Regional diversity:** Pongal-TN, Onam-KL, Bihu-Assam, Durga Puja-WB — unity in diversity
-4. **Fairs:** Kumbh (UNESCO 2017), Pushkar, Surajkund — commerce + pilgrimage + crafts
-5. **UP significance:** Prayagraj Kumbh, Braj Holi, Ramlila (UNESCO 2008), Taj Mahotsav
-6. **Government role:** Culture/Tourism ministries — Surajkund, Khajuraho Dance, Ek Bharat Shreshtha Bharat
-7. **Conclusion:** Festivals preserve intangible heritage; need sustainable management (Kumbh sanitation, tribal respect)
-
-### Q: Role of fairs in preserving Indian crafts and cultural exchange
-
-**Structure (200 words):**
-1. **Intro:** Melas = centuries-old trade-religion-arts gatherings
-2. **Craft fairs:** Surajkund (Haryana) — state crafts exchange; Taj Mahotsav — UP artisan platform
-3. **Pilgrimage fairs:** Kumbh, Magh Mela, Pushkar — economic spillover for local crafts
-4. **Tribal fairs:** Hornbill, Sangai — NE cultural showcase to national audience
-5. **Government sponsorship:** Culture Ministry + state tourism boards
-6. **Conclusion:** Fairs bridge rural artisans and urban markets; global tourism potential
-
-### Q: Kumbh Mela and Uttar Pradesh's cultural heritage
-
-**Structure (200 words):**
-1. **Intro:** Kumbh = world's largest peaceful gathering; UNESCO intangible 2017
-2. **Prayagraj (UP):** Triveni sangam — primary UP spiritual geography
-3. **Magh Mela:** Annual version — year-round cultural-religious economy
-4. **Infrastructure:** Govt planning for ghats, sanitation, crowd management
-5. **UP ecosystem:** Kumbh + Ramlila + Braj Holi + Ganga Mahotsav — festival chain
-6. **Trap:** Pushkar ≠ UP Kumbh site (Rajasthan separate fair)
-7. **Conclusion:** UP = heartland of north Indian pilgrimage festival tradition
+## Current Affairs
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| 13 Jan–26 Feb 2025 | Maha Kumbh at **Prayagraj**, ~45 days | UP + Kumbh site | UP / PIB |
+| May 2025 (about 14–26) | **Pushkar Kumbh** at Mana / Keshav Prayag, **Uttarakhand** | 2025 Q97. Not Rajasthan camel fair | UK CMO / press |
+| Dec 2023 | Garba of Gujarat UNESCO ICH | Folk ≠ classical | UNESCO |
+| 2021 | Durga Puja of Kolkata UNESCO ICH | Bengal festival vs Navratri | UNESCO |
+| 2017 | Kumbh Mela UNESCO ICH | Standing lock | UNESCO |
+| Jan 2023 | SCO Film Festival, Mumbai | 2023 Q87 | PIB / I&B |
 
 ---
 
 ## Common Traps — Don't Fall For These
 
-| Trap | Correct answer |
-|------|----------------|
-| Pushkar = Kumbh 4th site? | **NO** — 4 sites = **P-H-N-U** (Prayagraj, Haridwar, Nashik, Ujjain) |
-| Pushkar Kumbh 2025 in UP? | **NO** — **Rajasthan only** (UPPCS 2025 Q97) |
-| Onam = Tamil Nadu? | **NO** — **Kerala** (Pongal = Tamil Nadu) |
-| Pongal = Kerala? | **NO** — **Tamil Nadu** |
-| Hornbill = Assam? | **NO** — **Nagaland** (Bihu = Assam) |
-| Garba = Rajasthan? | **NO** — **Gujarat** (Navratri) |
-| Surajkund = Rajasthan/UP? | **NO** — **Haryana** |
-| Kumbh at Pushkar? | **NO** — Pushkar = **camel fair**, separate tradition |
-| Chhath = moon worship? | **NO** — **Sun** worship (Bihar/UP/Jharkhand) |
-| Qutub Minar = intangible heritage? | **NO** — **Tangible** World Heritage Site |
-| Bastar Dussehra = standard Rama Dussehra? | **NO** — **75-day tribal** Chhattisgarh festival |
-| Ramlila = only Dussehra day? | **NO** — **Month-long enactment** (UP Varanasi) |
-| Mysore Dasara = Tamil Nadu? | **NO** — **Karnataka** |
-| Sonepur Mela = Rajasthan? | **NO** — **Bihar** cattle fair |
-| Magh Mela = Haridwar only? | **NO** — **Prayagraj UP** (annual) |
-
----
-
+1. The **Kumbh 4 sites** are Prayagraj, Haridwar, Nashik and Ujjain. **Pushkar is not** one of them.
+2. **Pushkar Fair** is the Rajasthan camel fair in Kartik. **Pushkar Kumbh May 2025** is **Uttarakhand (Mana)**.
+3. **Magh Mela** is annual at Prayagraj. It is not the 12-year Ujjain Kumbh.
+4. **Pongal is Tamil Nadu**. **Onam is Kerala**. Never swap.
+5. **Bihu is Assam**. **Hornbill is Nagaland (Kisama, December)**.
+6. **Surajkund is Haryana**, not Rajasthan and not UP.
+7. **Bastar Dussehra** is Chhattisgarh, about 75 days, Danteshwari. It is not Rama–Ravana.
+8. **Chhath is Sun**, Bihar / east UP. It is not moon.
+9. **Garba** is Gujarat Navratri, UNESCO 2023. It is not SNA classical.
+10. **Ramlila** is UNESCO 2008 theatre. It is not a ninth classical dance.
+11. **Tansen Samaroh is Gwalior (MP)**. **Taj Mahotsav is Agra (UP)**.
+12. **Sangai is Manipur**. Kisama is Hornbill, not Sangai.
+13. **Vishu is Kerala**. **Ugadi is AP / Telangana / Karnataka**. **Gudi Padwa is Maharashtra**.
+14. **Sonepur is Bihar**. **Gangasagar is West Bengal**.
+15. **Saras Ajeevika Mela 2021 is Noida**, not Lucknow.
+16. **Losar** is Buddhist New Year across Sikkim, Arunachal and Ladakh. It is not “Assam Bihu.”

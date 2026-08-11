@@ -315,26 +315,17 @@
 
 # High-Priority UPPCS Additions
 
-These are not explicitly in your notes but have repeatedly appeared in UPSC/UPPCS or logically fit the syllabus:
+Repeated UPSC/UPPCS hits that sit *inside* the topic files (not extra chapters):
 
-- Megalithic Culture
-- Painted Grey Ware (PGW)
-- Northern Black Polished Ware (NBPW)
-- Ochre Coloured Pottery (OCP)
-- Copper Hoard Culture
-- Iron Age in India
-- Sangam Literature
-- Sangam Polity
-- Ashokan Pillar Edicts
-- Junagarh Inscription
-- Hathigumpha Inscription
-- Nasik Inscription
-- Prayag Prashasti
-- Allahabad Pillar Inscription
-- Mehrauli Iron Pillar Inscription
-- Ancient Universities (Nalanda, Takshashila, Vikramashila, Vallabhi)
-- Megasthenes, Faxian, Hiuen Tsang, Itsing
-- Sources of Ancient Indian History
-- Numismatics
-- Epigraphy
-- Archaeology
+- Megalithic Culture — Post-Mauryan / south
+- Painted Grey Ware (PGW) — Later Vedic
+- Northern Black Polished Ware (NBPW) — Sixth century / Maurya
+- Ochre Coloured Pottery (OCP) + Copper Hoard — Stone Age / IVC overlap
+- Iron Age in India — Later Vedic
+- Sangam Literature + Polity — Post-Mauryan
+- Ashokan Pillar Edicts — Mauryan
+- Junagadh / Hathigumpha / Nasik — Post-Mauryan inscriptions
+- Prayag Prashasti, Allahabad pillar, Mehrauli iron pillar — Gupta
+- Ancient Universities (Nalanda, Takshashila, Vikramashila, Vallabhi) — Gupta Nalanda card
+- Megasthenes, Fa-Hien, Hiuen Tsang, I-tsing — Maurya / Gupta / Harsha
+- Sources / Numismatics / Epigraphy / Archaeology — Administration, Economy, Archaeology files

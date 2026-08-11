@@ -1,5 +1,5 @@
 # Topic 5 — Fundamental Rights & Duties
-### ★ UPPCS Revision Sheet — Lucent / PW style · **Complete (Go 1 + Go 2)**
+### ★ UPPCS Revision Sheet — Lucent / PW style
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -100,6 +100,8 @@ D. Dr. S. Radha Krishnan
 
 ### Who enjoys which FR
 
+**Split lock:** 15/16/19/29/30 = **citizens only**; 14/20/21/21A/22/23/24/25–28/32 = **all persons**.
+
 | Available to **citizens only** | Available to **all persons** (citizens + foreigners) |
 |--------------------------------|--------------------------------------------------------|
 | Arts. **15, 16, 19, 29, 30** | Arts. **14, 20, 21, 21A, 22, 23, 24, 25–28, 32** |
@@ -121,14 +123,14 @@ For Part III, **State** includes:
 
 ## Article 13 — laws inconsistent with FR
 
-| Clause | Lock |
-|--------|------|
-| **13(1)** | Pre-Constitution laws inconsistent with FR are **void to that extent** |
-| **13(2)** | State shall **not make** a law that takes away / abridges FR; such law is void |
-| **13(3)** | “Law” includes ordinance, order, bye-law, rule, regulation, notification, custom, usage |
-| **13(4)** | Nothing in Art. 13 applies to a **constitutional amendment** under Art. 368 (inserted by **24th Amendment** after *Golaknath*) |
+**Part III gate:** laws inconsistent with Fundamental Rights are void to that extent; “law” is wide; constitutional amendments sit outside via 13(4).
 
-> **Doctrines** of Eclipse, Severability, Waiver — full table in the *Doctrines under Article 13* section below. One-line: pre-1950 inconsistent law is *eclipsed*, not dead; valid parts of a statute can be *severed*; FRs generally **cannot be waived**.
+- **13(1):** Pre-Constitution laws inconsistent with FR are **void to that extent**.
+- **13(2):** State shall **not make** a law that takes away / abridges FR; such law is void.
+- **13(3):** “Law” includes ordinance, order, bye-law, rule, regulation, notification, custom, usage.
+- **13(4):** Nothing in Art. 13 applies to a **constitutional amendment** under Art. 368 (inserted by **24th Amendment** after *Golaknath*).
+
+> **Doctrines** of Eclipse, Severability, Waiver — see *Doctrines under Article 13* below. One-line: pre-1950 inconsistent law is *eclipsed*, not dead; valid parts of a statute can be *severed*; FRs generally **cannot be waived**.
 
 ---
 
@@ -136,9 +138,11 @@ For Part III, **State** includes:
 
 ### Art. 14 — Equality before law
 
-| Art. | Subject | Elaboration |
-|------|---------|-------------|
-| **14** | Equality before law + equal protection of laws | **Any person** (not only citizens). “Equality before law” = British (Dicey’s rule of law; no special privileges). “Equal protection” = US (equal treatment in equal circumstances). Permits **reasonable classification**; forbids **class legislation**. |
+**Any person** (not only citizens): equality before law + equal protection of laws.
+
+- **Equality before law** = British (Dicey’s rule of law; no special privileges).
+- **Equal protection of laws** = US (equal treatment in equal circumstances).
+- Permits **reasonable classification**; forbids **class legislation**.
 
 **Reasonable classification (two tests):**
 1. **Intelligible differentia** — the group is distinguishable  
@@ -188,26 +192,26 @@ D. Altering the name of a State — Power of a State Legislature
 
 ### Art. 15 — Prohibition of discrimination
 
-| Clause | Lock |
-|--------|------|
-| **15(1)** | State shall not discriminate on **religion, race, caste, sex, place of birth** (citizens) |
-| **15(2)** | No disability on those grounds in access to shops, public restaurants, wells, tanks, bathing ghats, roads maintained wholly/partly out of State funds |
-| **15(3)** | Special provision for **women and children** — valid |
-| **15(4)** | Special provision for **SEBC / SC / ST** — **1st Amendment, 1951** (after *Champakam Dorairajan*) |
-| **15(5)** | Reservation in **aided/unaided** educational institutions except minority institutions under 30 — **93rd Amendment, 2005** |
-| **15(6)** | **EWS** (not SC/ST/OBC) — admissions, including private unaided except minority — **103rd Amendment, 2019**; **10%** |
+**Citizens:** State shall not discriminate on listed grounds; special provisions for women/children, SEBC/SC/ST, and EWS sit as enabling exceptions.
+
+- **15(1):** State shall not discriminate on **religion, race, caste, sex, place of birth** (citizens).
+- **15(2):** No disability on those grounds in access to shops, public restaurants, wells, tanks, bathing ghats, roads maintained wholly/partly out of State funds.
+- **15(3):** Special provision for **women and children** — valid.
+- **15(4):** Special provision for **SEBC / SC / ST** — **1st Amendment, 1951** (after *Champakam Dorairajan*).
+- **15(5):** Reservation in **aided/unaided** educational institutions except minority institutions under 30 — **93rd Amendment, 2005**.
+- **15(6):** **EWS** (not SC/ST/OBC) — admissions, including private unaided except minority — **103rd Amendment, 2019**; **10%**.
 
 ### Art. 16 — Equality of opportunity in public employment
 
-| Clause | Lock |
-|--------|------|
-| **16(1)–(2)** | Equality of opportunity; no discrimination on religion, race, caste, sex, descent, **place of birth, residence** |
-| **16(3)** | **Parliament** (not State) may prescribe **residence** as a requirement for a class of State posts |
-| **16(4)** | Reservation for backward classes **not adequately represented** in services |
-| **16(4A)** | Reservation in **promotion** for SC/ST — **77th Amendment, 1995**; **consequential seniority** — **85th Amendment, 2001** (w.e.f. 1995) |
-| **16(4B)** | Carry-forward / **catch-up** of unfilled reserved vacancies (backlog not subject to 50% for that year) — **81st Amendment, 2000** |
-| **16(5)** | Religious/denominational institution may reserve its offices for members of that religion/denomination |
-| **16(6)** | **EWS** reservation in posts — **103rd, 2019** |
+**Citizens only:** equality of opportunity in public employment; residence, backward-class reservation, and EWS are the exam exceptions.
+
+- **16(1)–(2):** Equality of opportunity; no discrimination on religion, race, caste, sex, descent, **place of birth, residence**.
+- **16(3):** **Parliament** (not State) may prescribe **residence** as a requirement for a class of State posts.
+- **16(4):** Reservation for backward classes **not adequately represented** in services.
+- **16(4A):** Reservation in **promotion** for SC/ST — **77th Amendment, 1995**; **consequential seniority** — **85th Amendment, 2001** (w.e.f. 1995).
+- **16(4B):** Carry-forward / **catch-up** of unfilled reserved vacancies (backlog not subject to 50% for that year) — **81st Amendment, 2000**.
+- **16(5):** Religious/denominational institution may reserve its offices for members of that religion/denomination.
+- **16(6):** **EWS** reservation in posts — **103rd, 2019**.
 
 **Mandal locks (*Indra Sawhney*, 1992):** 27% OBC; **50%** ceiling (extraordinary exceptions); **creamy layer** excluded; no reservation in **promotion** (later restored for SC/ST by 77th/85th). *Janhit Abhiyan* (2022): **EWS 10%** upheld; 50% ceiling not a bar to EWS in the same way. *M. Nagaraj* (2006) / *Jarnail Singh* (2018): SC/ST promotion reservation needs data on backwardness/representation + efficiency (Art. 335).
 
@@ -229,17 +233,14 @@ D. Altering the name of a State — Power of a State Legislature
 
 ## Right to Freedom — Article 19 + reasonable restrictions
 
-- **Citizens only.** Originally **seven** freedoms; **19(1)(f)** right to acquire, hold and dispose of **property** deleted by **44th Amendment, 1978**.
-- All six remaining freedoms are subject to **reasonable restrictions** in **19(2)–(6)** — restriction must be by **law**, not executive whim; courts test reasonableness.
+**Citizens only.** Originally **seven** freedoms; **19(1)(f)** right to acquire, hold and dispose of **property** deleted by **44th Amendment, 1978**. Remaining six are subject to **reasonable restrictions** in **19(2)–(6)** — restriction must be by **law**, not executive whim; courts test reasonableness.
 
-| Clause | Freedom | Restriction article | Grounds (exam list) |
-|--------|---------|---------------------|---------------------|
-| **19(1)(a)** | Speech and **expression** (includes **press**, commercial speech, hoisting national flag — as held) | **19(2)** | Sovereignty & integrity; security of State; friendly relations with foreign States; public order; decency/morality; contempt of court; defamation; incitement to an offence |
-| **19(1)(b)** | Assemble **peaceably and without arms** | **19(3)** | Sovereignty & integrity; **public order** |
-| **19(1)(c)** | Form associations / unions / **co-operative societies** (97th added co-ops) | **19(4)** | Sovereignty & integrity; public order; **morality** |
-| **19(1)(d)** | Move freely throughout India | **19(5)** | Interests of general public; protection of **Scheduled Tribes** |
-| **19(1)(e)** | Reside and settle anywhere in India | **19(5)** | Same as movement |
-| **19(1)(g)** | Practise any profession, occupation, trade or business | **19(6)** | General public; **professional/technical qualifications**; State may carry on a trade **to the exclusion of citizens** (State monopoly — **1st Amendment**) |
+- **19(1)(a) Speech and expression** (includes **press**, commercial speech, hoisting national flag — as held): restricted under **19(2)** — sovereignty & integrity; security of State; friendly relations with foreign States; public order; decency/morality; contempt of court; defamation; incitement to an offence.
+- **19(1)(b) Assemble peaceably and without arms:** **19(3)** — sovereignty & integrity; **public order**.
+- **19(1)(c) Form associations / unions / co-operative societies** (97th added co-ops): **19(4)** — sovereignty & integrity; public order; **morality**.
+- **19(1)(d) Move freely throughout India:** **19(5)** — interests of general public; protection of **Scheduled Tribes**.
+- **19(1)(e) Reside and settle anywhere in India:** **19(5)** — same as movement.
+- **19(1)(g) Practise any profession, occupation, trade or business:** **19(6)** — general public; **professional/technical qualifications**; State may carry on a trade **to the exclusion of citizens** (State monopoly — **1st Amendment**).
 
 **Not in Art. 19:** right to **property** (after 44th); right to **strike** (not a FR); right to **privacy** (Art. **21**, not 19).
 
@@ -263,10 +264,10 @@ D. Freedom to practise any trade or profession
 
 ## Right against Exploitation — Articles 23–24
 
-| Art. | Subject | Elaboration |
-|------|---------|-------------|
-| **23** | Traffic in human beings and *begar* | Prohibits traffic, *begar* and similar **forced labour**. Binds State **and private persons**. Exception: State may impose **compulsory service for public purposes** (no discrimination on religion/race/caste/class). |
-| **24** | Child labour (hazardous) | No child **below 14** in **factory, mine, or other hazardous employment**. Does **not** ban all child work (e.g. non-hazardous family work as statute now stands). Child Labour (Prohibition and Regulation) Act, 1986 / 2016 amendment. |
+**All persons;** binds State **and private persons**; the exploitation pair is traffic/*begar* (23) and child labour in hazardous work (24).
+
+- **23 Traffic in human beings and *begar*:** Prohibits traffic, *begar* and similar **forced labour**. Exception: State may impose **compulsory service for public purposes** (no discrimination on religion/race/caste/class).
+- **24 Child labour (hazardous):** No child **below 14** in **factory, mine, or other hazardous employment**. Does **not** ban all child work (e.g. non-hazardous family work as statute now stands). Child Labour (Prohibition and Regulation) Act, 1986 / 2016 amendment.
 
 **Trap list — NOT exploitation:**
 - Abolition of **untouchability** = **Art. 17** (Equality)
@@ -297,13 +298,11 @@ D. 1 and 4
 
 ## Article 20 — Protection in respect of conviction
 
-Available to **all persons** (citizens, foreigners, companies as relevant). **Three** protections only — nothing else.
+**All persons** (citizens, foreigners, companies as relevant). **Three** protections only — nothing else.
 
-| Clause | Name | Lock |
-|--------|------|------|
-| **20(1)** | **Ex post facto** | No *conviction* for an act that was not an offence **when committed**. No **greater penalty** than what the law provided at the time of the act. Applies to **criminal** law, **not** civil / tax liability. **Benefit** of a reduced penalty can be given. |
-| **20(2)** | **Double jeopardy** | No **prosecution and punishment** more than once for the **same offence**. Departmental enquiry + criminal trial can both run (different nature). “Same offence” ≠ same facts with a different legal charge in every case. |
-| **20(3)** | **Self-incrimination** | No person **accused of an offence** shall be compelled to be a **witness against himself**. Protection is against **testimonial** compulsion — **not** against fingerprints, blood, DNA, search as such. *Selvi* (2010): narco / polygraph / BEAP cannot be forced. |
+- **20(1) Ex post facto:** No *conviction* for an act that was not an offence **when committed**. No **greater penalty** than what the law provided at the time of the act. Applies to **criminal** law, **not** civil / tax liability. **Benefit** of a reduced penalty can be given.
+- **20(2) Double jeopardy:** No **prosecution and punishment** more than once for the **same offence**. Departmental enquiry + criminal trial can both run (different nature). “Same offence” ≠ same facts with a different legal charge in every case.
+- **20(3) Self-incrimination:** No person **accused of an offence** shall be compelled to be a **witness against himself**. Protection is against **testimonial** compulsion — **not** against fingerprints, blood, DNA, search as such. *Selvi* (2010): narco / polygraph / BEAP cannot be forced.
 
 **Not in Art. 20:** prohibition of **torture** (that is **Art. 21** / statutory). No “right to silence” as a separate numbered clause beyond 20(3).
 
@@ -395,48 +394,46 @@ Two codes in one article.
 
 ## Landmark FR cases (one-line locks)
 
-| Case | Lock |
-|------|------|
-| **A.K. Gopalan (1950)** | Narrow view — each FR read separately; “procedure established by law” literal |
-| **Champakam Dorairajan (1951)** | Led to **1st Amendment** (Art. 15(4)) |
-| **Golaknath (1967)** | Parliament **cannot** amend FRs → reversed by **24th Amendment** + *Kesavananda* |
-| **Kesavananda Bharati (1973)** | **Basic Structure**; FRs amendable but not to destroy basic structure |
-| **Maneka Gandhi (1978)** | Art. 21 procedure must be **fair, just, reasonable**; 14-19-21 linked |
-| **Minerva Mills (1980)** | Balance of FR and DPSP is basic structure; struck down parts of 42nd |
-| **Olga Tellis (1985)** | Right to **livelihood** under Art. 21 |
-| **Indra Sawhney (1992)** | 27% OBC, **creamy layer**, **50%** cap |
-| **Vishaka (1997)** | Workplace sexual-harassment guidelines under 14/19/21 |
-| **Puttaswamy (2017)** | **Right to Privacy** = FR (Art. 21) |
-| **Janhit Abhiyan (2022)** | **EWS 103rd** upheld |
+**Exam chronology:** *Gopalan* (1950) → *Janhit Abhiyan* (2022) — one lock per case.
+
+- **A.K. Gopalan (1950):** Narrow view — each FR read separately; “procedure established by law” literal.
+- **Champakam Dorairajan (1951):** Led to **1st Amendment** (Art. 15(4)).
+- **Golaknath (1967):** Parliament **cannot** amend FRs → reversed by **24th Amendment** + *Kesavananda*.
+- **Kesavananda Bharati (1973):** **Basic Structure**; FRs amendable but not to destroy basic structure.
+- **Maneka Gandhi (1978):** Art. 21 procedure must be **fair, just, reasonable**; 14-19-21 linked.
+- **Minerva Mills (1980):** Balance of FR and DPSP is basic structure; struck down parts of 42nd.
+- **Olga Tellis (1985):** Right to **livelihood** under Art. 21.
+- **Indra Sawhney (1992):** 27% OBC, **creamy layer**, **50%** cap.
+- **Vishaka (1997):** Workplace sexual-harassment guidelines under 14/19/21.
+- **Puttaswamy (2017):** **Right to Privacy** = FR (Art. 21).
+- **Janhit Abhiyan (2022):** **EWS 103rd** upheld.
 
 ---
 
-## Constitutional amendments touching Part III (exam table)
+## Constitutional amendments touching Part III
 
-| Amendment | Change |
-|-----------|--------|
-| **1st (1951)** | Added **15(4)**; **9th Schedule (31B)**; reasonable restrictions to 19 |
-| **24th (1971)** | Parliament can amend FRs (**13(4) / 368(3)**) — after *Golaknath* |
-| **42nd (1976)** | Added **Fundamental Duties (51A)**; tried to give some DPSP primacy over FR (curbed by *Minerva Mills*) |
-| **44th (1978)** | **Property** removed from Part III → **Art. 300A**; 20 & 21 **cannot** be suspended even in Emergency (359) |
-| **77th / 81st / 85th** | Promotion reservation (4A), backlog (4B), consequential seniority |
-| **86th (2002)** | **21A** (RTE); recast 45; **51A(k)** |
-| **93rd (2005)** | **15(5)** — reservation in private educational institutions |
-| **97th (2011)** | Co-operative societies added to **19(1)(c)** |
-| **103rd (2019)** | **EWS 10%** — 15(6) & 16(6) |
+**Part III rewrite locks** that UPPCS actually asks — 1st through 103rd.
+
+- **1st (1951):** Added **15(4)**; **9th Schedule (31B)**; reasonable restrictions to 19.
+- **24th (1971):** Parliament can amend FRs (**13(4) / 368(3)**) — after *Golaknath*.
+- **42nd (1976):** Added **Fundamental Duties (51A)**; tried to give some DPSP primacy over FR (curbed by *Minerva Mills*).
+- **44th (1978):** **Property** removed from Part III → **Art. 300A**; 20 & 21 **cannot** be suspended even in Emergency (359).
+- **77th / 81st / 85th:** Promotion reservation (4A), backlog (4B), consequential seniority.
+- **86th (2002):** **21A** (RTE); recast 45; **51A(k)**.
+- **93rd (2005):** **15(5)** — reservation in private educational institutions.
+- **97th (2011):** Co-operative societies added to **19(1)(c)**.
+- **103rd (2019):** **EWS 10%** — 15(6) & 16(6).
 
 ---
 
 ## Right to Freedom of Religion — Articles 25–28
 
-India = **secular** State: no State religion; equal treatment; State can regulate secular activity linked to religion.
+**All persons (25);** India = **secular** State: no State religion; equal treatment; State can regulate secular activity linked to religion.
 
-| Art. | Subject | Elaboration |
-|------|---------|-------------|
-| **25** | Freedom of conscience; profess, practise, **propagate** | To **all persons**. Subject to public order, morality, health, other Part III rights. State may (a) regulate secular activity associated with religion (b) provide social welfare/reform + throw open **Hindu** religious institutions to all classes (Explanation: Sikhs, Jains, Buddhists included in “Hindus”; **wearing & carrying of kirpans** deemed part of Sikh religion). |
-| **26** | Manage religious affairs (denomination) | Establish/maintain institutions for religious & charitable purposes; manage own affairs in matters of **religion**; own/acquire property; administer property **in accordance with law**. |
-| **27** | No tax for promotion of a religion | No person compelled to pay a **tax** whose proceeds are specifically appropriated for a **particular** religion. (A **fee** for regulation is allowed — tax vs fee trap.) |
-| **28** | Religious instruction in institutions | **Wholly** State-funded institution: **no** religious instruction. State-administered but established under an **endowment/trust**: instruction allowed. State-**recognised/aided** institution: instruction only with **consent** (of the person / guardian if minor). |
+- **25 Freedom of conscience; profess, practise, propagate:** To **all persons**. Subject to public order, morality, health, other Part III rights. State may (a) regulate secular activity associated with religion (b) provide social welfare/reform + throw open **Hindu** religious institutions to all classes (Explanation: Sikhs, Jains, Buddhists included in “Hindus”; **wearing & carrying of kirpans** deemed part of Sikh religion).
+- **26 Manage religious affairs (denomination):** Establish/maintain institutions for religious & charitable purposes; manage own affairs in matters of **religion**; own/acquire property; administer property **in accordance with law**.
+- **27 No tax for promotion of a religion:** No person compelled to pay a **tax** whose proceeds are specifically appropriated for a **particular** religion. (A **fee** for regulation is allowed — tax vs fee trap.)
+- **28 Religious instruction in institutions:** **Wholly** State-funded institution: **no** religious instruction. State-administered but established under an **endowment/trust**: instruction allowed. State-**recognised/aided** institution: instruction only with **consent** (of the person / guardian if minor).
 
 > **Locks:** 25 has **propagate** (not force conversion). 27 = **tax**, not fee. 28 four-fold funding test.
 
@@ -444,13 +441,13 @@ India = **secular** State: no State religion; equal treatment; State can regulat
 
 ## Cultural & Educational Rights — Articles 29–30
 
-| Art. | Subject | Elaboration |
-|------|---------|-------------|
-| **29(1)** | Conserve culture | **Any section of citizens** (majority or minority) with a distinct language, script or culture may conserve it. |
-| **29(2)** | No denial of admission | No citizen denied admission to a State-maintained / State-aided institution on grounds of religion, race, caste, **language**. |
-| **30(1)** | Minority institutions | **Religious or linguistic minorities** may establish and administer educational institutions of their choice. |
-| **30(1A)** | Compensation | If such institution’s property is compulsorily acquired, the amount must not restrict the right (added **44th**). |
-| **30(2)** | No discrimination in aid | State shall not discriminate against minority institutions in granting aid. |
+**Citizens:** **29** = any section (culture); **30** = **religious or linguistic minorities** and their institutions.
+
+- **29(1) Conserve culture:** **Any section of citizens** (majority or minority) with a distinct language, script or culture may conserve it.
+- **29(2) No denial of admission:** No citizen denied admission to a State-maintained / State-aided institution on grounds of religion, race, caste, **language**.
+- **30(1) Minority institutions:** **Religious or linguistic minorities** may establish and administer educational institutions of their choice.
+- **30(1A) Compensation:** If such institution’s property is compulsorily acquired, the amount must not restrict the right (added **44th**).
+- **30(2) No discrimination in aid:** State shall not discriminate against minority institutions in granting aid.
 
 **Exam locks:**
 - Constitution does **not define “minority”** — decided State-wise (*T.M.A. Pai*, 2002). Only **religious and linguistic** minorities (not caste/economic).
@@ -511,13 +508,13 @@ D. Neither 1 nor 2
 
 ### The Five Writs
 
-| Writ | Literal | Against | Purpose |
-|------|---------|---------|---------|
-| **Habeas Corpus** | “to have the body” | Public **or private** | Produce a detained person; test legality of detention |
-| **Mandamus** | “we command” | Public authority / lower court / govt | Compel performance of a **public duty**. **Not** against President/Governor, private person, or discretionary/contractual duty |
-| **Prohibition** | “to forbid” | **Judicial / quasi-judicial** body | Stop a lower court exceeding jurisdiction — issued **before** decision |
-| **Certiorari** | “to be certified/informed” | Judicial / quasi-judicial (now also administrative affecting rights) | **Quash** an order already passed / transfer case — **after** decision |
-| **Quo Warranto** | “by what authority” | A person in a **public office** | Test the legal right of a person to hold a substantive public office; any person may seek |
+**English prerogative writs:** SC under **32** (FR only); HC under **226** (wider). Prohibition vs Certiorari is the before/after trap.
+
+- **Habeas Corpus** (“to have the body”): against public **or private**; produce a detained person; test legality of detention.
+- **Mandamus** (“we command”): against public authority / lower court / govt; compel performance of a **public duty**. **Not** against President/Governor, private person, or discretionary/contractual duty.
+- **Prohibition** (“to forbid”): against a **judicial / quasi-judicial** body; stop a lower court exceeding jurisdiction — issued **before** decision.
+- **Certiorari** (“to be certified/informed”): judicial / quasi-judicial (now also administrative affecting rights); **quash** an order already passed / transfer case — **after** decision.
+- **Quo Warranto** (“by what authority”): a person in a **public office**; test the legal right of a person to hold a substantive public office; any person may seek.
 
 > **Traps:** Habeas Corpus lies even against a **private** person. Mandamus **not** against President/Governor personally. Prohibition = *before*, Certiorari = *after*. Quo Warranto only for a **public office** created by law.
 
@@ -534,10 +531,10 @@ D. Neither 1 nor 2
 
 ## Suspension of FR during Emergency
 
-| Article | Lock |
-|---------|------|
-| **Art. 358** | On a **National Emergency due to war / external aggression**, **Art. 19** is **automatically suspended** (not for armed rebellion after 44th). Revives when Emergency ends. |
-| **Art. 359** | President may by order suspend the **right to move courts** for enforcement of specified FRs during any National Emergency — **except Arts. 20 and 21** (44th Amendment lock, after *ADM Jabalpur* 1976). |
+**National Emergency only:** 358 auto-kills Art. 19 (war/external aggression); 359 can bar court-enforcement of named FRs — never 20 & 21.
+
+- **Art. 358:** On a **National Emergency due to war / external aggression**, **Art. 19** is **automatically suspended** (not for armed rebellion after 44th). Revives when Emergency ends.
+- **Art. 359:** President may by order suspend the **right to move courts** for enforcement of specified FRs during any National Emergency — **except Arts. 20 and 21** (44th Amendment lock, after *ADM Jabalpur* 1976).
 
 > **Exam:** 358 = **only Art. 19**, war/external aggression, automatic. 359 = **other FRs by Presidential order**, never 20 & 21.
 
@@ -545,15 +542,17 @@ D. Neither 1 nor 2
 
 ## Doctrines under Article 13
 
-| Doctrine | Lock |
-|----------|------|
-| **Eclipse** | A **pre-Constitution** law inconsistent with FR is **not dead** — only *eclipsed*/dormant; becomes operative again if the FR is later amended to remove the conflict (*Bhikaji Narain*). |
-| **Severability** | Only the **inconsistent part** of a law is void; the valid part survives if separable (*A.K. Gopalan*, *R.M.D. Chamarbaugwalla*). |
-| **Waiver** | A citizen **cannot waive** his Fundamental Rights (FRs are for public interest, not just individual benefit) — *Basheshar Nath* (1959). |
+**Three doctrines** on how Art. 13 treats inconsistent law — eclipse, severability, waiver.
+
+- **Eclipse:** A **pre-Constitution** law inconsistent with FR is **not dead** — only *eclipsed*/dormant; becomes operative again if the FR is later amended to remove the conflict (*Bhikaji Narain*).
+- **Severability:** Only the **inconsistent part** of a law is void; the valid part survives if separable (*A.K. Gopalan*, *R.M.D. Chamarbaugwalla*).
+- **Waiver:** A citizen **cannot waive** his Fundamental Rights (FRs are for public interest, not just individual benefit) — *Basheshar Nath* (1959).
 
 ---
 
 ## FR vs DPSP vs Legal Rights
+
+**Justiciable (USA) vs non-justiciable (Ireland);** property after 44th is a **legal** right (300A), not a FR.
 
 | Point | Fundamental Rights (III) | DPSP (IV) |
 |-------|--------------------------|-----------|
@@ -577,11 +576,11 @@ D. Neither 1 nor 2
 
 ### Classification (learn the buckets)
 
-| Type | Nature | Key articles |
-|------|--------|--------------|
-| **Socialist** | Welfare / socio-economic justice | **38** (welfare, reduce inequality), **39** (resources, equal pay), **39A** (legal aid), **41** (work/education/assistance), **42** (work conditions, maternity), **43** (living wage), **43A** (workers’ participation), **47** (nutrition, public health) |
-| **Gandhian** | Rural / decentralisation / weaker sections | **40** (village panchayats), **43** (cottage industry), **43B** (co-operatives), **46** (SC/ST/weaker sections), **47** (prohibition), **48** (cow slaughter / cattle) |
-| **Liberal–Intellectual** | Modern/liberal governance | **44** (UCC), **45** (early childhood care <6), **48** (modern agriculture/animal husbandry), **48A** (environment), **49** (monuments), **50** (separation of judiciary–executive), **51** (international peace) |
+**Study buckets only** (not in the Constitution’s text): Socialist / Gandhian / Liberal–Intellectual.
+
+- **Socialist** (welfare / socio-economic justice): **38** (welfare, reduce inequality), **39** (resources, equal pay), **39A** (legal aid), **41** (work/education/assistance), **42** (work conditions, maternity), **43** (living wage), **43A** (workers’ participation), **47** (nutrition, public health).
+- **Gandhian** (rural / decentralisation / weaker sections): **40** (village panchayats), **43** (cottage industry), **43B** (co-operatives), **46** (SC/ST/weaker sections), **47** (prohibition), **48** (cow slaughter / cattle).
+- **Liberal–Intellectual** (modern/liberal governance): **44** (UCC), **45** (early childhood care <6), **48** (modern agriculture/animal husbandry), **48A** (environment), **49** (monuments), **50** (separation of judiciary–executive), **51** (international peace).
 
 **PYQ — UPPCS Prelims 2018, Q143**
 
@@ -601,43 +600,43 @@ D. All of the above
 
 ### DPSP — article-by-article (36–51 elaborated)
 
-| Art. | Bucket | What it actually directs (exam lock) |
-|------|--------|--------------------------------------|
-| **36** | — | “State” has the **same meaning** as in Art. 12. |
-| **37** | — | DPSP are **not enforceable** by any court, but are **fundamental in governance**; State’s **duty to apply** them in law-making. |
-| **38** | Socialist | Secure a **social order** for the welfare of the people (justice — social, economic, political). **38(2)** (44th): minimise inequalities in **income, status, facilities, opportunities**. |
-| **39(a)** | Socialist | Adequate **means of livelihood** to all citizens (men & women). |
-| **39(b)** | Socialist | **Ownership & control of material resources** distributed to best subserve the **common good** (↔ 31C). |
-| **39(c)** | Socialist | Operation of economy should **not** result in **concentration of wealth** (↔ 31C). |
-| **39(d)** | Socialist | **Equal pay for equal work** for men and women. |
-| **39(e)–(f)** | Socialist | Health & strength of workers/children not abused; children given opportunities to develop in a healthy manner (39(f) recast by 42nd). |
-| **39A** | Socialist | **Equal justice and free legal aid** — **42nd Amendment, 1976**. |
-| **40** | Gandhian | Organise **Village Panchayats** as units of self-government (seed of Part IX / 73rd). |
-| **41** | Socialist | Right to **work, education, public assistance** (unemployment, old age, sickness, disablement) within economic capacity. |
-| **42** | Socialist | Just & humane **conditions of work** and **maternity relief**. |
-| **43** | Gandhian | **Living wage**, decent standard of life, social & cultural opportunities; promote **cottage industries** in rural areas. |
-| **43A** | Socialist | **Participation of workers** in management of industries — **42nd Amendment**. |
-| **43B** | Gandhian | Promotion of **co-operative societies** (management, autonomy, professional) — **97th Amendment, 2011**. |
-| **44** | Liberal | **Uniform Civil Code** throughout India. |
-| **45** | Liberal | After 86th: **early childhood care and education** for children **below 6** (the 6–14 part moved to FR **21A**). |
-| **46** | Gandhian | Promote **educational & economic interests of SC, ST and weaker sections**; protect from social injustice/exploitation. |
-| **47** | Gandhian | Raise **nutrition**, standard of living, **public health**; State to bring about **prohibition** of intoxicating drinks/drugs (except medicinal). |
-| **48** | Gandhian | Organise **agriculture & animal husbandry** on modern lines; **prohibit slaughter** of cows, calves and milch/draught cattle. |
-| **48A** | Liberal | Protect and improve **environment**, forests and wildlife — **42nd Amendment**. |
-| **49** | Liberal | Protect **monuments, places and objects** of national importance. |
-| **50** | Liberal | **Separation of judiciary from executive** in the public services of the State. |
-| **51** | Liberal | Promote **international peace and security**; just relations; respect for **international law** & treaties; encourage **arbitration** of disputes. |
+**Arts. 36–51**, borrowed from **Ireland**, non-justiciable (**37**). Bucket tags are study labels only.
+
+- **36:** “State” has the **same meaning** as in Art. 12.
+- **37:** DPSP are **not enforceable** by any court, but are **fundamental in governance**; State’s **duty to apply** them in law-making.
+- **38 (Socialist):** Secure a **social order** for the welfare of the people (justice — social, economic, political). **38(2)** (44th): minimise inequalities in **income, status, facilities, opportunities**.
+- **39(a) (Socialist):** Adequate **means of livelihood** to all citizens (men & women).
+- **39(b) (Socialist):** **Ownership & control of material resources** distributed to best subserve the **common good** (↔ 31C).
+- **39(c) (Socialist):** Operation of economy should **not** result in **concentration of wealth** (↔ 31C).
+- **39(d) (Socialist):** **Equal pay for equal work** for men and women.
+- **39(e)–(f) (Socialist):** Health & strength of workers/children not abused; children given opportunities to develop in a healthy manner (39(f) recast by 42nd).
+- **39A (Socialist):** **Equal justice and free legal aid** — **42nd Amendment, 1976**.
+- **40 (Gandhian):** Organise **Village Panchayats** as units of self-government (seed of Part IX / 73rd).
+- **41 (Socialist):** Right to **work, education, public assistance** (unemployment, old age, sickness, disablement) within economic capacity.
+- **42 (Socialist):** Just & humane **conditions of work** and **maternity relief**.
+- **43 (Gandhian):** **Living wage**, decent standard of life, social & cultural opportunities; promote **cottage industries** in rural areas.
+- **43A (Socialist):** **Participation of workers** in management of industries — **42nd Amendment**.
+- **43B (Gandhian):** Promotion of **co-operative societies** (management, autonomy, professional) — **97th Amendment, 2011**.
+- **44 (Liberal):** **Uniform Civil Code** throughout India.
+- **45 (Liberal):** After 86th: **early childhood care and education** for children **below 6** (the 6–14 part moved to FR **21A**).
+- **46 (Gandhian):** Promote **educational & economic interests of SC, ST and weaker sections**; protect from social injustice/exploitation.
+- **47 (Gandhian):** Raise **nutrition**, standard of living, **public health**; State to bring about **prohibition** of intoxicating drinks/drugs (except medicinal).
+- **48 (Gandhian):** Organise **agriculture & animal husbandry** on modern lines; **prohibit slaughter** of cows, calves and milch/draught cattle.
+- **48A (Liberal):** Protect and improve **environment**, forests and wildlife — **42nd Amendment**.
+- **49 (Liberal):** Protect **monuments, places and objects** of national importance.
+- **50 (Liberal):** **Separation of judiciary from executive** in the public services of the State.
+- **51 (Liberal):** Promote **international peace and security**; just relations; respect for **international law** & treaties; encourage **arbitration** of disputes.
 
 > **Match traps:** **39A** legal aid ≠ **41** right to work. **43A** workers ≠ **43B** co-operatives. **48** cattle/agriculture ≠ **50** separation of judiciary. **45** now “below 6” (not 6–14 — that is 21A).
 
 ### DPSP added later (amendment locks)
 
-| Amendment | New / changed DPSP |
-|-----------|--------------------|
-| **42nd (1976)** | **39A** (legal aid), **43A** (workers’ participation), **48A** (environment); recast 39(f) |
-| **44th (1978)** | **38(2)** (minimise inequalities); also made property a legal right (300A) |
-| **86th (2002)** | Recast **45** (early childhood <6) as 6–14 became FR (21A) |
-| **97th (2011)** | **43B** (co-operative societies) |
+**Later inserts/recasts** of Part IV — 42nd, 44th, 86th, 97th.
+
+- **42nd (1976):** **39A** (legal aid), **43A** (workers’ participation), **48A** (environment); recast 39(f).
+- **44th (1978):** **38(2)** (minimise inequalities); also made property a legal right (300A).
+- **86th (2002):** Recast **45** (early childhood <6) as 6–14 became FR (21A).
+- **97th (2011):** **43B** (co-operative societies).
 
 **PYQ — UPPCS Prelims 2021, Q66**
 
@@ -715,19 +714,19 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 ### The 11 duties (51A a–k) — elaborated
 
-| Clause | Duty | Exam note |
-|--------|------|-----------|
-| **(a)** | Abide by the Constitution; respect its **ideals & institutions**, the **National Flag** and the **National Anthem** | Only duty that names Flag/Anthem — *Bijoe Emmanuel* (1986): not singing (while standing respectfully) is not an offence |
-| **(b)** | Cherish and follow the **noble ideals of the freedom struggle** | — |
-| **(c)** | Uphold and protect the **sovereignty, unity and integrity** of India | — |
-| **(d)** | **Defend the country** and render national service when called upon | — |
-| **(e)** | Promote **harmony and the spirit of common brotherhood**; renounce practices **derogatory to the dignity of women** | Transcends religious/linguistic/regional diversity |
-| **(f)** | **Value and preserve the rich heritage** of our composite culture | **Trap:** protecting **monuments** as such is **DPSP Art. 49**, not this duty |
-| **(g)** | Protect and improve the **natural environment** — forests, lakes, rivers, wildlife; **compassion for living creatures** | Mirrors DPSP **48A** → environment in **both** |
-| **(h)** | Develop **scientific temper**, humanism and the spirit of inquiry and reform | — |
-| **(i)** | Safeguard **public property** and **abjure violence** | — |
-| **(j)** | Strive towards **excellence** in all spheres of individual and collective activity | — |
-| **(k)** | Parent/guardian to provide **opportunities for education** to a child **6–14 years** | Added by **86th Amendment, 2002**; pairs with **21A** & **45** |
+**Art. 51A(a–k)** — the full exam list (citizens; 10 + education duty).
+
+- **51A(a):** Abide by the Constitution; respect its **ideals & institutions**, the **National Flag** and the **National Anthem**. Only duty that names Flag/Anthem — *Bijoe Emmanuel* (1986): not singing (while standing respectfully) is not an offence.
+- **51A(b):** Cherish and follow the **noble ideals of the freedom struggle**.
+- **51A(c):** Uphold and protect the **sovereignty, unity and integrity** of India.
+- **51A(d):** **Defend the country** and render national service when called upon.
+- **51A(e):** Promote **harmony and the spirit of common brotherhood**; renounce practices **derogatory to the dignity of women**. Transcends religious/linguistic/regional diversity.
+- **51A(f):** **Value and preserve the rich heritage** of our composite culture. **Trap:** protecting **monuments** as such is **DPSP Art. 49**, not this duty.
+- **51A(g):** Protect and improve the **natural environment** — forests, lakes, rivers, wildlife; **compassion for living creatures**. Mirrors DPSP **48A** → environment in **both**.
+- **51A(h):** Develop **scientific temper**, humanism and the spirit of inquiry and reform.
+- **51A(i):** Safeguard **public property** and **abjure violence**.
+- **51A(j):** Strive towards **excellence** in all spheres of individual and collective activity.
+- **51A(k):** Parent/guardian to provide **opportunities for education** to a child **6–14 years**. Added by **86th Amendment, 2002**; pairs with **21A** & **45**.
 
 ### Duties — quick locks
 - **Verma Committee (1999)** identified existing legal provisions for enforcing some duties (e.g. Prevention of Insults to National Honour Act; Protection of Civil Rights Act; Wildlife/Forest laws).
@@ -1520,7 +1519,7 @@ A. Only one  B. Only two  C. All three  D. None
 
 ---
 
-## Complete PYQ Bank (Topic 5)
+## Complete PYQ Bank (Art. 22 preventive detention)
 
 ### 2024
 

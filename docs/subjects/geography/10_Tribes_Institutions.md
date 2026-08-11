@@ -1,1251 +1,785 @@
 # Topic 10 — Tribes & Institutions
-### ★ Complete Source of Truth — No other book/notes needed for this topic
 
-> **Covers syllabus:** Tribes of India | Tribes of UP | Tribes of Central India | Tribes of Jharkhand | Andaman Tribes | IMD | ICAR | Agricultural Institutes | Dairy Research | Horticulture Institutes | Forest Research Institutes
-> **Also baked:** State-wise India tribe master table | Full UP ST list (15) + Terai/Vindhyan zones | Central + Jharkhand expanded | Andaman six natives | World habitats | PVTG | Institution HQs (IMD/ICAR/IARI/FRI/NDRI/IVRI/IIHR/CISH)
-> **Sources baked in:** NCERT Human Geography / India people, Ministry of Tribal Affairs ST lists, IMD/ICAR official framing, UPPCS PYQs 2018–2025
-> **Exam weight:** ★★★ High — tribe–state / tribe–habitat NOT correctly matched; Andaman natives; UP ST names; institute HQ
-> **Last verified:** August 2026
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥25)
 
----
+<details>
+<summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-## How to use this file
+**Tribes:** Tribes of India | Tribes of UP | Tribes of Central India | Tribes of Jharkhand | Andaman Tribes
+**Institutions:** IMD | ICAR | Agricultural Institutes | Dairy Research | Horticulture Institutes | Forest Research Institutes
+</details>
 
-1. **Learn:** Open one `##` section → read Definitions → Teach prose → table → Exam note → that section's PYQs.
-2. **Revise later:** Quick Revision + Memory Tricks only (day-before / weak recall).
-3. **Test:** Practice Zone → Common Traps → Complete PYQ Bank.
-4. Do **not** re-read the whole file every sitting — finish one section, then move on.
-
-> Each section is written to make sense on first read. Quick Revision is not the first teaching layer.
+> **Sources baked in:** NCERT Human Geography, Ministry of Tribal Affairs ST lists, IMD/ICAR, UPPCS Prelims 2018–2025  
+> **Exam weight:** ★★★ — tribe–state NOT-matched; Andaman natives; world habitats; institute HQ  
+> **Last verified:** August 2026  
+> **Current Affairs:** PM-JANMAN (PVTG); Janjatiya Gaurav Diwas 15 Nov; IMD 150 years (1875→2025); Adi Karmayogi (MoTA, Jun 2025)
 
 ---
 
-## Quick Revision Box — Raata Later (after learning sections)
+## Quick Revision — Spine Only
 
 ```
-INDIA: ST lists are state-wise (Art. 342) | Belts = NE + Central + West Bhil + Islands
-  Largest awareness: Bhil, Gond, Santhal | Khasi/Garo = matriliny (Meghalaya)
+ST lists = state-wise (Art. 342) | Belts = NE + Central + West Bhil + Islands
+Largest awareness: Bhil, Gond, Santhal | Khasi/Garo = matriliny (Meghalaya)
 STATE LOCKS:
-  Angami/Rengma=Nagaland | Toda/Paliyan=TN | Birhor=JH | Khasi=Meghalaya (NOT Arunachal)
-  Kuki=NE (NOT UP) | Keria/Kharia=Odisha | Yanadi=AP (NOT RJ) | Chenchu=AP/TG
-  Bodo=Assam | Lepcha=Sikkim | Meena=RJ | Warli=MH | Apatani=Arunachal
-
-UP ST (full):
-  Classic 5: Tharu, Bhotia, Buksa, Jaunsari, Raji | PVTG: Buksa + Raji
-  Tharu=Terai (Kheri/Bahraich/Balrampur…) | Buksa=Bijnor fringe
-  Saharya=Lalitpur | Agariya=iron smelting (Sonbhadra/Mirzapur)
-  District-limited south/east: Gond, Kharwar, Chero, Baiga, Parahiya, Patari, Pankha, Bhuiya
-  Two zones: Terai north vs Vindhyan/Sonbhadra south
-
+ Angami/Rengma=Nagaland | Toda/Paliyan=TN | Birhor=JH | Khasi=Meghalaya (NOT Arunachal)
+ Kuki=NE (NOT UP) | Keria/Kharia=Odisha | Yanadi=AP (NOT RJ) | Chenchu=AP/TG
+ Bodo=Assam | Lepcha=Sikkim | Meena=RJ | Warli=MH | Apatani=Arunachal
+UP ST (15):
+ Classic 5: Tharu, Bhotia, Buksa, Jaunsari, Raji | PVTG: Buksa + Raji
+ Tharu=Terai (Kheri/Bahraich/Balrampur…) | Buksa=Bijnor fringe
+ Saharya=Lalitpur | Agariya=iron smelting (Sonbhadra/Mirzapur)
+ District-limited: Gond, Kharwar, Chero, Baiga, Parahiya, Patari, Pankha, Bhuiya
+ Two zones: Terai north vs Vindhyan/Sonbhadra south | Kuki ≠ UP
 CENTRAL: Gond (+Maria/Muria) | Bhil | Baiga | Kol | Korku | Sahariya | Halba | Warli | Meena
-JHARKHAND: Santhal, Munda, Oraon, Ho, Kharia, Birhor, Bhumij, Asur, Birjia (NOT Andaman)
-  Santhali language; Birsa Munda; Hul 1855
-
+JH: Santhal, Munda, Oraon, Ho, Kharia, Birhor, Bhumij, Asur, Birjia (NOT Andaman)
+ Santhali language; Birsa Munda; Hul 1855
 ANDAMAN Negrito: Great Andamanese, Onge, Jarawa, Sentinelese (North Sentinel)
 NICOBAR Mongoloid: Nicobarese, Shompen (PVTG)
-  NOT island: Rengma (Nagaland) | Ten Degree Channel splits AN groups
-
-WORLD (PYQ):
-  Bushman = Kalahari | Eskimo = N Canada/Arctic | Pygmy = Congo Basin
-  Masai = East Africa (NOT West) | Ainu = Japan
-  Khirghiz ≠ Sudan | Alaska ≠ Koryak (Koryak = NE Siberia)
-
+ NOT island: Rengma (Nagaland) | Ten Degree Channel splits AN groups
+WORLD:
+ Bushman=Kalahari | Eskimo=N Canada | Pygmy=Congo | Masai=East Africa (NOT West)
+ Ainu=Japan | Khirghiz ≠ Sudan | Alaska ≠ Koryak (Koryak=NE Siberia)
+ Punan=Borneo | Ruwala=Arab desert | Lapps/Sami=Sweden–Finland
 INSTITUTIONS:
-  IMD HQ = New Delhi | ICAR HQ = New Delhi | IARI = Pusa, New Delhi
-  FRI = Dehradun | NDRI = Karnal | IVRI = Izatnagar (Bareilly), UP
-  IIHR = Bengaluru | CISH = Lucknow (UP)
+ IMD HQ=New Delhi (1875) | ICAR HQ=New Delhi (1929) | IARI=Pusa, New Delhi
+ FRI=Dehradun | ICFRE=Dehradun | WII=Dehradun (≠ FRI answer)
+ NDRI=Karnal (dairy lab) | IVRI=Izatnagar Bareilly UP | NDDB=Anand / Operation Flood (≠ NDRI)
+ IIHR=Bengaluru | CISH=Lucknow (Rehmankhera) | CSAUAT Kanpur | Pantnagar first SAU
+ Adi Karmayogi Jun 2025 = Ministry of Tribal Affairs only
 ```
 
-### Must-Know Term Comparisons
+---
 
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Tribe / Adivasi** | Indigenous community often listed as Scheduled Tribe | जनजाति / आदिवासी |
-| **Scheduled Tribe (ST)** | Constitutionally notified tribe for special safeguards | अनुसूचित जनजाति |
-| **PVTG** | Particularly Vulnerable Tribal Group — most vulnerable ST subset | विशेष रूप से कमजोर जनजातीय समूह |
-| **Habitat** | Usual living region of a tribe | निवास क्षेत्र |
-| **Negrito tribes (Andaman)** | Great Andamanese, Onge, Jarawa, Sentinelese | अंडमान नीग्रिटो |
-| **Mongoloid tribes (Nicobar)** | Nicobarese, Shompen | निकोबार मंगोलॉयड |
-| **IMD** | India's national weather and climate service | भारतीय मौसम विज्ञान विभाग |
-| **ICAR** | Apex body for agri research and education | भाकृअनुप |
-| **IARI** | Premier ICAR institute at Pusa, New Delhi | भारतीय कृषि अनुसंधान संस्थान |
-| **FRI** | Forest Research Institute, Dehradun | वन अनुसंधान संस्थान |
-| **NDRI** | National Dairy Research Institute, Karnal | राष्ट्रीय डेयरी अनुसंधान संस्थान |
-| **IVRI** | Indian Veterinary Research Institute, Izatnagar | भारतीय पशु चिकित्सा अनुसंधान संस्थान |
-| **Matriliny** | Descent/inheritance through mother’s line (Khasi/Garo) | मातृवंशीयता |
-| **Article 342** | Constitutional route to notify STs state/UT-wise | अनुच्छेद 342 |
-| **Fifth / Sixth Schedule** | Tribal area administration frameworks (polity neighbour) | पाँचवी / छठी अनुसूची |
+## Confused Pairs (exam killers)
 
-### Memory Tricks
+| Pair | Right lock | Trap | Hindi |
+|------|------------|------|-------|
+| Khasi | **Meghalaya** | Arunachal | मेघालय |
+| Rengma | **Nagaland** | Andaman | नागालैंड |
+| Kuki | **North-East** | UP | पूर्वोत्तर |
+| Yanadi | **Andhra Pradesh** | Rajasthan | आंध्र |
+| Toda / Paliyan | **Tamil Nadu** | Nagaland | तमिलनाडु |
+| Birhor | **Jharkhand** | Islands / TN | झारखंड |
+| Keria/Kharia | **Odisha** (also JH) | Random west | ओडिशा |
+| Masai | **East Africa** | West Africa | पूर्वी अफ्रीका |
+| Khirghiz | **Central Asia** | Sudan | मध्य एशिया |
+| Koryak | **NE Siberia** | Alaska | साइबेरिया |
+| Tharu | **Terai** | Sonbhadra only | तराई |
+| Agariya | Iron smelting | Farming-only tag | लोहा गलाना |
+| Saharya | **Lalitpur** | Terai | ललितपुर |
+| NDRI | **Karnal** | Lucknow / Izatnagar | करनाल |
+| IVRI | **Izatnagar (Bareilly)** | Karnal | इज्जतनगर |
+| FRI | **Dehradun** | Delhi / Lucknow | देहरादून |
+| NDRI vs NDDB | Karnal **lab** vs Anand **co-op board** | Same body | एनडीआरआई ≠ एनडीडीबी |
 
-| Trick | Remembers |
+---
+
+## Memory Tricks
+
+- **Tharu = Terai · Buksa–Raji = UP PVTG.**
+- **Rengma = Nagaland, not islands.**
+- **Khasi = Meghalaya · Masai = East Africa.**
+- **Toda = TN · Birhor = JH.**
+- **IMD & ICAR = Delhi · IVRI = Bareilly · FRI = Dehradun.**
+
+---
+
+## N.1 Tribes of India
+
+ST lists are **state/UT-wise** under **Article 342** (same name may be ST in one state, not another). High-ST belts: **NE hills, central plateau, western Bhil country, A&N isolates**. Largest-population awareness: **Bhil, Gond, Santhal**. India has **~75 PVTGs** (most vulnerable ST subset). **Fifth Schedule** = tribal areas in many states; **Sixth Schedule** = NE autonomous councils (polity neighbour — names only here).
+
+| State / UT | High-yield tribes |
+|------------|-------------------|
+| AP / Telangana | **Chenchu**, **Yanadi**, Koya, Lambadi, Gond |
+| Arunachal | Nyishi, **Apatani**, Adi, Monpa, Wancho, Tangsa — **not Khasi** |
+| Assam | **Bodo**, Mishing, Karbi, Dimasa, Rabha |
+| Bihar | Santhal, Oraon, Munda, Tharu (north) |
+| Chhattisgarh | Gond, Halba, Kawar; Maria/Muria (Bastar) |
+| Gujarat | Bhil, Siddi, Rathwa |
+| Himachal / J&K–Ladakh | Gaddi, Gujjar, Kinnaura; **Gujjar–Bakarwal** pastoral |
+| Jharkhand | → N.4 |
+| Karnataka | Siddi, Soliga, Koraga, Jenu Kuruba |
+| Kerala | Irular, Kurumba, Kadar, Paniyan, Kattunayakan |
+| Madhya Pradesh | Bhil, Gond, Baiga, Kol, Korku, Sahariya, Bharia |
+| Maharashtra | Bhil, Gond, **Warli**, Katkari |
+| Manipur | Naga groups, **Kuki**/Zomi |
+| Meghalaya | **Khasi, Jaintia, Garo** (matriliny) |
+| Mizoram | Mizo, Chakma, Bru/Reang |
+| Nagaland | **Angami**, Ao, Sumi, Lotha, **Rengma**, Konyak, Phom, Chang, Chakhesang |
+| Odisha | Santhal, Munda, Kondh, Saora, Juang, Bonda, **Kharia/Keria**, Ho, Gond |
+| Rajasthan | Bhil, **Meena**, Garasia, Sahariya |
+| Sikkim | **Lepcha**, Bhutia, Limboo |
+| Tamil Nadu | **Toda**, Kota, Irular, **Paliyan**, Kadar |
+| Tripura | Tripuri, Reang, Jamatia |
+| Uttarakhand | Tharu, Bhotia, Buksa, Jaunsari, Raji |
+| Uttar Pradesh | → N.2 |
+| West Bengal | Santhal, Munda, Oraon, Toto |
+| A&N | → N.5 |
+| Tribe | Extra tag |
 |-------|-----------|
-| **Tharu = Terai** | UP northern marsh belt |
-| **Buksa–Raji = PVTG pair (UP)** | Most vulnerable in classic UP five |
-| **Rengma = Nagaland not islands** | 2020 Andaman trap |
-| **Khasi = Meghalaya** | Not Arunachal (2020) |
-| **Masai = East Africa** | Not West (2025) |
-| **Toda = Tamil Nadu Nilgiris** | South lock |
-| **Birhor = Jharkhand** | Central east |
-| **FRI = Dehradun** | Forest institute |
-| **IVRI = Izatnagar / Bareilly** | UP veterinary lock |
-| **ICAR & IMD = New Delhi** | Twin HQ city |
-
-## 10.0 Framework
-
-### Definitions
-
-| Term | Definition |
-|------|------------|
-| **Tribal geography** | Study of where tribes live and how that maps to states/habitats |
-| **Research institution** | Specialised body for science, weather, crops, forests, dairy, etc. |
-
-### Framework — Overview
-
-UPPCS mixes two ask types in this topic: **tribe–place matching** (India + world + Andaman) and **institution identity / headquarters**. Read tribes first, then institutes. Do not confuse a tribe name with a neighbouring state's tribe.
-
-#### Framework — How It Works
-
-- Most Prelims tribe questions are **NOT correctly matched** formats — one wrong pair sinks the set.
-- Indian tribal concentration is strongest in the North-East hills, the central Indian belt, western Bhil country, and the Andaman–Nicobar isolates.
-- UP has a **small ST share** but a fixed list of notified tribes — Terai names and Sonbhadra-belt names are both tested in GK.
-- Institutions in this syllabus are the weather service (**IMD**), the agri research system (**ICAR** and linked institutes), dairy/veterinary research, horticulture institutes, and **FRI Dehradun**.
-- Keep crop-detail inside Agriculture notes if you already know it; here lock **what the body is** and **where it sits**.
-
-> **Exam note:** First decide: Is the stem about a **tribe habitat** or an **institute HQ**? Wrong bucket wastes time.
-
----
-
-## 10.1 Tribes of India
-
-### Definitions
-
-| Term | Definition |
-|------|------------|
-| **Scheduled Tribe (ST)** | Community notified by the President under Article 342 for a State/UT (lists are state-wise, not one all-India list) |
-| **Tribal belt** | Region with high ST share — NE hills, central Indian plateau forests, western Bhil country, island isolates |
-| **Tribe–state match** | Exam pairing of a tribe with its core home state/region |
-| **PVTG** | Particularly Vulnerable Tribal Group — most vulnerable subset within STs (India has ~75 PVTGs) |
-
-### Tribes of India — Overview
-
-India has hundreds of Scheduled Tribes. UPPCS does not ask every name. It asks **state–tribe matches**, **wrong neighbours**, and a few cultural tags (matriliny, largest tribe, island isolates). Build a **state-wise master table** first, then drill traps.
-
-#### Tribes of India — How It Works
-
-- ST lists are **state/UT-wise** under **Article 342** — the same community may be ST in one state and not in another.
-- High ST share states include the North-East (except Assam’s plains share pattern), Jharkhand, Chhattisgarh, Odisha, Madhya Pradesh, and parts of Rajasthan/Gujarat.
-- Largest tribal communities by population awareness: **Bhil** and **Gond** (often ranked among the biggest), **Santhal** in the east.
-- **Khasi** and **Garo** of Meghalaya are classic **matrilineal** society locks.
-- **Santhali** is in the Eighth Schedule (language awareness).
-- **Birsa Munda** (Munda) and **Santhal Hul (1855)** are history overlaps — useful tags, not the main geography ask.
-- Fifth Schedule (tribal areas in many states) and Sixth Schedule (NE autonomous councils) are polity neighbours — know the names exist; deep Article detail is optional here.
-
-> **Exam note:** Match the **state on the option**, not “I have heard this tribe somewhere in India.”
-
-#### State-wise major tribes (raata master table)
-
-| State / UT | High-yield tribes (core exam set) |
-|------------|-----------------------------------|
-| **Andhra Pradesh / Telangana** | Chenchu, Yanadi/Yenadi, Koya, Sugali/Lambadi, Gond; Chenchu often tagged Telangana/AP hills |
-| **Arunachal Pradesh** | Nyishi, Apatani, Adi, Monpa, Wancho, Tangsa, Singpho — **not** Khasi |
-| **Assam** | Bodo/Boro, Mishing/Miri, Karbi, Dimasa, Rabha, Sonowal Kachari; also Garo/Khasi pockets |
-| **Bihar** | Santhal, Oraon, Munda, Tharu (north), Chero, Kharwar |
-| **Chhattisgarh** | Gond, Halba, Kawar, Bhattra, Oraon; Maria/Muria (Bastar) |
-| **Gujarat** | Bhil, Siddi, Rathwa, Dhodia, Gamit, Kokna |
-| **Himachal Pradesh** | Gaddi, Gujjar, Kinnaura/Kinnara, Lahaula, Pangwala |
-| **Jharkhand** | Santhal, Munda, Oraon, Ho, Kharia, Birhor, Asur, Birjia, Bhumij |
-| **Karnataka** | Siddi, Soliga, Koraga, Toda fringe awareness; Jenu Kuruba |
-| **Kerala** | Irular, Kurumba, Kadar, Paniyan, Kattunayakan |
-| **Madhya Pradesh** | Bhil, Gond, Baiga, Kol, Korku, Sahariya, Bharia |
-| **Maharashtra** | Bhil, Gond, Warli, Koli-related ST groups, Katkari, Madia |
-| **Manipur** | Naga groups (Tangkhul, Mao, etc.), Kuki/Zomi groups, Aimol |
-| **Meghalaya** | **Khasi, Jaintia, Garo** (matriliny lock) |
-| **Mizoram** | Mizo/Lushai, Chakma, Bru/Reang, Lakher, Pawi |
-| **Nagaland** | Angami, Ao, Sema/Sumi, Lotha, **Rengma**, Konyak, Phom, Chang, Sangtam, Chakhesang, Zeliang… |
-| **Odisha** | Santhal, Munda, Kondh/Khond, Saora/Soura, Juang, Bonda, **Kharia/Keria**, Ho, Gond |
-| **Rajasthan** | Bhil, Meena/Mina, Garasia, Sahariya, Damor |
-| **Sikkim** | Lepcha, Bhutia, Limboo |
-| **Tamil Nadu** | **Toda**, Kota, Irular, Kurumba, Paliyan, Kadar |
-| **Tripura** | Tripuri, Reang/Bru, Jamatia, Chakma |
-| **Uttarakhand** | Tharu, Bhotia, Buksa, Jaunsari, Raji (shared Himalayan–Terai set with UP history) |
-| **Uttar Pradesh** | See §10.2 full list |
-| **West Bengal** | Santhal, Munda, Oraon, Bhumij, Lepcha (north), Toto |
-| **A&N Islands** | See §10.5 |
-
-#### Special cultural / exam tags
-
-| Tribe | Tag to remember |
-|-------|-----------------|
 | Khasi / Garo | Matrilineal Meghalaya |
-| Toda | Nilgiri buffalo herders; barrel-shaped mund huts |
-| Chenchu | Andhra–Telangana forest hunter-gatherers / PVTG awareness |
-| Bonda | Odisha PVTG (often in UPSC lists) |
-| Warli | Maharashtra; Warli painting |
-| Gond | Gond painting; Gondwana region name |
-| Santhal | Eastern India; Santhali language; 1855 Hul |
+| Toda | Nilgiri buffalo; barrel mund huts |
+| Chenchu | AP–TG hunter-gatherer / PVTG awareness |
+| Bonda | Odisha PVTG |
+| Warli | MH; Warli painting |
+| Gond | Gond painting; Gondwana |
+| Santhal | Santhali (8th Schedule); Hul **1855** |
 | Munda | Birsa Munda; Mundari |
-| Siddi | African-origin community in GJ/KA (ST in parts) |
-| Gujjar / Bakarwal | Himalayan/pastoral (J&K–HP awareness) |
+| Siddi | African-origin; ST in parts of GJ/KA |
+| Gujjar / Bakarwal | Himalayan pastoral (HP–J&K) |
 
-#### High-yield trap pairs (from PYQs + standard lists)
-
-| Tribe | Correct | Wrong option often planted |
-|-------|---------|----------------------------|
-| Angami / Rengma | Nagaland | Andaman / random south |
-| Khasi | Meghalaya | Arunachal Pradesh |
-| Kuki | North-East | Uttar Pradesh |
-| Toda | Tamil Nadu | Nagaland |
-| Birhor | Jharkhand | Tamil Nadu / islands |
-| Keria/Kharia | Odisha | — |
-| Paliyan | Tamil Nadu | — |
-| Yanadi | Andhra Pradesh | Rajasthan |
-
-### PYQs — §10.1
-
-**UPPCS Prelims**
-
-1. **(UPPCS 2020, Q54)** Which of the following is NOT correctly matched? (Tribes) — (Location)
-   - Options: A. Angamis — Nagaland / B. Birhors — Jharkhand / C. Khas — Arunachal Pradesh / D. Todas — Tamil Nadu
-   → **C. Khas — Arunachal Pradesh** — Khasi (Khas) belong to Meghalaya, not Arunachal Pradesh.
-
-2. **(UPPCS 2022, Q40)** Which two of the following are correctly matched?
-   1. Keria — Odisha
-   2. Kuki — Uttar Pradesh
-   3. Yanadi — Rajasthan
-   4. Paliyan — Tamil Nadu
-   - Options: A. 3 and 4 / B. 1 and 4 / C. 2 and 3 / D. 1 and 2
-   → **B. 1 and 4** — Keria/Kharia–Odisha and Paliyan–Tamil Nadu are correct. Kuki is not a UP tribe; Yanadi is not Rajasthan-based.
+**Inline PYQ**
+**(UPPCS 2020, Q54)** Angamis–Nagaland; Birhors–JH; Khas–Arunachal; Todas–TN
+**Ans: C** — Khasi = **Meghalaya**.
+**(UPPCS 2022, Q40)** Keria–OD, Kuki–UP, Yanadi–RJ, Paliyan–TN → correctly matched **1 and 4**.
 
 ---
 
-## 10.2 Tribes of Uttar Pradesh
+## N.2 Tribes of Uttar Pradesh
 
-### Definitions
+Low ST share (~**0.6%**, ~11 lakh in Census 2011 framing) but a **fixed notified list**. Two clusters: **Terai north** vs **Vindhyan / Sonbhadra south**. Classic five still appear: **Tharu, Bhotia, Buksa, Jaunsari, Raji**. The **Constitution (Scheduled Tribes) Order (Amendment) Act, 2003** added many **district-limited** groups — ST status applies **only in named districts**. **Kuki ≠ UP**.
 
-| Term | Definition |
-|------|------------|
-| **Tharu** | Major Terai tribe of northern UP along the Indo-Nepal border |
-| **Bhotia / Bhotiya** | Himalayan trading–herding tribe also on UP ST list |
-| **Buksa / Bhoksa** | Terai–Bhabar tribe; PVTG in UP |
-| **Raji** | Small Himalayan/Terai-linked tribe; PVTG in UP |
-| **Jaunsari** | Himalayan tribe also notified in UP ST list |
-| **Sonbhadra belt tribes** | District-limited ST groups of southern UP plateau forests |
-
-### Tribes of UP — Overview
-
-UP has a **low ST share** (~0.6% / about 11 lakh in Census 2011 framing), but UPPCS/UP GK tests the **full notified list**, two geographic clusters (**Terai** vs **Vindhyan/Sonbhadra**), and a few occupation tags (Agariya = iron smelting).
-
-#### Tribes of UP — How It Works
-
-- Tribes concentrate in two zones: **Northern Terai** (Tharu, Buksa) and **Southern Vindhyan / Sonbhadra–Mirzapur–Lalitpur** (Gond, Kharwar, Chero, Baiga, Agariya…).
-- The older “classic five” still appear everywhere: **Tharu, Bhotia, Buksa, Jaunsari, Raji**.
-- The **Constitution (Scheduled Tribes) Order (Amendment) Act, 2003** expanded UP’s list with many **district-limited** groups — status applies only in named districts.
-- **Buksa** and **Raji** are the standard **PVTG** pair in the UP set.
-- **Tharu** = Terai agriculture/fishing; Dudhwa landscape awareness.
-- **Agariya** = traditional **iron smelting** of Mirzapur–Sonbhadra (Verrier Elwin documentation awareness).
-- **Saharya** = **Lalitpur** (Bundelkhand).
-- Do **not** place **Kuki** in UP (2022 trap).
-- Kol is widely mentioned in UP GK as a major Vindhyan community; treat it as a southern UP tribal identity tag while using the official ST table below for notification locks.
-
-> **Exam note:** Terai → Tharu. Iron smelting → Agariya. Lalitpur → Saharya. PVTG → Buksa & Raji.
-
-#### Official UP ST list (exam table)
-
-| # | Tribe / group | Where notified (cue) | Extra lock |
-|---|---------------|----------------------|------------|
-| 1 | Bhotia | UP ST list (Himalayan link) | Trading–herding tradition |
-| 2 | Buksa (Bhoksa) | Terai–Bhabar (e.g. Bijnor fringe) | **PVTG** |
-| 3 | Jaunsari | Himalayan / UP list | Shared UK–UP Himalayan set |
-| 4 | Raji | Small Himalayan/Terai-linked | **PVTG** |
-| 5 | Tharu | Terai — Kheri, Bahraich, Balrampur, Shravasti, Pilibhit… | Best-known UP Terai tribe |
-| 6 | Gond (Dhuria, Nayak, Ojha, Pathari, Raj Gond) | Eastern districts incl. Maharajganj, Siddharthnagar, Basti, Gorakhpur, Deoria, Mau, Azamgarh, Jaunpur, Ballia, Ghazipur, Varanasi, Mirzapur, Sonbhadra | District-limited |
-| 7 | Kharwar / Khairwar | Deoria, Ballia, Ghazipur, Varanasi, Sonbhadra | District-limited |
-| 8 | Saharya | **Lalitpur** | Bundelkhand |
-| 9 | Parahiya | Sonbhadra | Hill/forest |
-| 10 | Baiga | Sonbhadra | Shifting cultivation / healer tag |
-| 11 | Pankha / Panika | Sonbhadra, Mirzapur | — |
-| 12 | Agariya | Sonbhadra | **Iron smelting** |
-| 13 | Patari | Sonbhadra | — |
-| 14 | Chero | Sonbhadra, Varanasi | Former ruling/warrior tradition tag |
-| 15 | Bhuiya / Bhuinya | Sonbhadra | — |
-
-#### UP tribe — region — occupation (revision)
-
+| # | Tribe | Cue |
+|---|-------|-----|
+| 1 | Bhotia | Himalayan trading–herding |
+| 2 | Buksa (Bhoksa) | Terai–Bhabar (Bijnor fringe); **PVTG** |
+| 3 | Jaunsari | Himalayan / UK–UP set |
+| 4 | Raji | Tiny northern; **PVTG** |
+| 5 | Tharu | Terai — Kheri, Bahraich, Balrampur, Shravasti, Pilibhit |
+| 6 | Gond (Dhuria, Nayak, Ojha, Pathari, Raj Gond) | Maharajganj, Siddharthnagar, Basti, Gorakhpur, Deoria, Mau, Azamgarh, Jaunpur, Ballia, Ghazipur, Varanasi, Mirzapur, **Sonbhadra** — district-limited |
+| 7 | Kharwar | Deoria–Ballia–Ghazipur–Varanasi–Sonbhadra |
+| 8 | Saharya | **Lalitpur** |
+| 9 | Parahiya | Sonbhadra |
+| 10 | Baiga | Sonbhadra |
+| 11 | Pankha / Panika | Sonbhadra, Mirzapur |
+| 12 | Agariya | Sonbhadra / Mirzapur — **iron smelting** |
+| 13 | Patari | Sonbhadra |
+| 14 | Chero | Sonbhadra, Varanasi |
+| 15 | Bhuiya | Sonbhadra |
+| Zone | Districts | Key tribes |
+|------|-----------|------------|
+| Terai / north | Kheri, Bahraich, Balrampur, Shravasti, Pilibhit, Bijnor fringe | Tharu, Buksa |
+| Vindhyan / south | Sonbhadra, Mirzapur, Lalitpur + notified east pockets | Gond, Kharwar, Chero, Baiga, Agariya, Saharya |
 | Tribe | Region | Occupation / tag |
 |-------|--------|------------------|
-| Tharu | Terai | Agriculture, fishing; Terai adaptation |
+| Tharu | Terai | Agriculture, fishing; Dudhwa landscape |
 | Buksa | Bijnor / western Terai–Bhabar | Agriculture, animal husbandry; PVTG |
 | Raji | Small northern pockets | PVTG; tiny population |
 | Bhotia | Himalayan link | Trade, herding |
 | Jaunsari | Himalayan link | Hill agriculture |
-| Gond | Sonbhadra–east UP | Agriculture, labour; Gond cultural world |
-| Agariya | Mirzapur–Sonbhadra | Traditional iron smelting |
+| Gond | Sonbhadra–east UP | Agriculture, labour |
+| Agariya | Mirzapur–Sonbhadra | Traditional **iron smelting** |
 | Chero | Sonbhadra | Agriculture; historical polity tag |
 | Baiga | Sonbhadra | Forest / shifting cultivation |
 | Saharya | Lalitpur | Forest produce / agriculture |
 | Kharwar | East–south districts | Agriculture / forest fringe |
 
-#### UP tribal geography — two-zone map
-
-| Zone | Districts (core) | Key tribes |
-|------|------------------|------------|
-| Terai / north | Lakhimpur Kheri, Bahraich, Balrampur, Shravasti, Pilibhit, Bijnor fringe | Tharu, Buksa |
-| Vindhyan / south | Sonbhadra, Mirzapur, Lalitpur, eastern plain notified pockets | Gond, Kharwar, Chero, Baiga, Agariya, Saharya… |
+Kol is a strong southern-UP GK identity; use the **15-row official table** for notification locks.
 
 ---
 
-## 10.3 Tribes of Central India
+## N.3 Central India
 
-### Definitions
+Forested plateau: MP, CG, JH fringe, W-Odisha, SE-Rajasthan, N-Maharashtra. **Gond + Bhil** = heartland.
 
-| Term | Definition |
-|------|------------|
-| **Central Indian tribal belt** | Forested plateau belt of MP, Chhattisgarh, Jharkhand fringe, western Odisha, south-east Rajasthan, north Maharashtra |
-| **Gondwana** | Historical–cultural region named after Gond dominance in central India |
-
-### Central India Tribes — Overview
-
-Central India is the school-geography heartland of **Gond** and **Bhil**. Expand beyond two names: Baiga, Kol, Korku, Sahariya, Halba, Maria/Muria, Warli (MH), Meena (RJ).
-
-#### Central India Tribes — How It Works
-
-- **Gond** — among India’s largest tribes; MP, CG, MH, Odisha, Telangana/AP fringe, and eastern UP notified pockets. Sub-groups include Maria, Muria, Dorla in Bastar/Dandakaranya awareness. **Gond painting** is a culture tag.
-- **Bhil** — western–central belt: Rajasthan, Gujarat, Madhya Pradesh, Maharashtra. Often listed among the largest ST communities. Archery / Bhilwara name association is optional GK.
-- **Baiga** — MP–CG; also Sonbhadra (UP). Linked with forest life and traditional healing/tattoo culture tags.
-- **Kol** — Vindhyan / central fringe; strong UP southern GK identity.
-- **Korku** — Satpura belt (MP–MH).
-- **Sahariya** — MP–Rajasthan; related **Saharya** notified in Lalitpur (UP).
-- **Halba**, **Kawar**, **Bhattra** — Chhattisgarh awareness.
-- **Warli** — northern Maharashtra; Warli art.
-- **Meena (Mina)** — Rajasthan (large ST community there).
-- When the stem says Santhal / Munda / Oraon / Birhor, jump to **Jharkhand** even though the plateau belt is continuous.
-
-> **Exam note:** Gond + Bhil = central/western heartland. Do not put them in Andaman lists.
-
-#### Central India — expanded match table
-
-| Tribe | Core states | Extra tag |
-|-------|-------------|-----------|
-| Gond | MP, CG, MH, Odisha, east UP pockets | Largest-central; Gondwana; painting |
-| Bhil | RJ, GJ, MP, MH | Western heartland; very large |
-| Baiga | MP, CG, Sonbhadra (UP) | Forest / PVTG awareness in MP |
+| Tribe | Core states | Tag |
+|-------|-------------|-----|
+| Gond | MP, CG, MH, Odisha, east-UP pockets | Gondwana; painting; Maria/Muria (Bastar) |
+| Bhil | RJ, GJ, MP, MH | Often among largest ST |
+| Baiga | MP, CG, Sonbhadra | Forest / healer; PVTG awareness in MP |
 | Kol | MP / Vindhyan / south UP GK | Vindhyan identity |
-| Korku | MP–MH Satpura | — |
-| Sahariya / Saharya | MP–RJ; Lalitpur (UP) | Forest people tag |
-| Halba | CG / MH fringe | — |
-| Maria / Muria | Bastar (CG) | Gond sub-groups |
-| Warli | Maharashtra | Warli painting |
+| Korku | MP–MH Satpura | |
+| Sahariya | MP–RJ; Saharya in Lalitpur | |
+| Halba / Kawar | CG | |
+| Warli | Maharashtra | Painting |
 | Meena | Rajasthan | Large RJ ST |
-| Katkari | Maharashtra | PVTG awareness |
-| Bharia | MP (Patalkot awareness) | — |
+| Katkari | MH | PVTG awareness |
+| Bharia | MP (Patalkot) | |
+
+These are **mainland** tribes — not Andaman Negrito groups. Santhal / Munda / Oraon / Birhor = **Jharkhand** (N.4).
 
 ---
 
-## 10.4 Tribes of Jharkhand
+## N.4 Jharkhand
 
-### Definitions
+High-ST Chotanagpur. Core: **Santhal, Munda, Oraon, Ho, Kharia**. **Birhor** = JH (2020). Mainland PVTGs (**Asur, Birhor, Birjia, Korwa, Paharia, Savar**) ≠ islands.
 
-| Term | Definition |
-|------|------------|
-| **Chotanagpur tribal cluster** | Santhal, Munda, Oraon, Ho, Kharia and related plateau tribes of Jharkhand |
-| **PVTG (JH)** | Includes groups such as Asur, Birhor, Birjia, Korwa, Mal Paharia, Sauria Paharia, Savar (standard JH PVTG awareness set) |
-
-### Jharkhand Tribes — Overview
-
-Jharkhand is a high-ST plateau state. Lock the **big five names** (Santhal, Munda, Oraon, Ho, Kharia), the **Birhor** PYQ pair, and mainland PVTGs that are **not** Andaman tribes.
-
-#### Jharkhand Tribes — How It Works
-
-- **Santhal** — largest eastern Indian tribal community; JH + WB + Odisha + Bihar + Assam pockets. Santhali language; Ol Chiki script; 1855 Hul (Sido-Kanhu) history tag.
-- **Munda** — Chotanagpur; Mundari language; **Birsa Munda** / Ulgulan; Janjatiya Gaurav Diwas association (15 Nov awareness).
-- **Oraon (Kurukh)** — Chotanagpur; Dravidian language family tag.
-- **Ho** — Kolhan belt (West Singhbhum awareness).
-- **Kharia / Keria** — JH–Odisha; 2022 Odisha match uses Keria.
-- **Birhor** — Jharkhand (2020 correctly matched); often PVTG; hunter-gatherer tag.
-- **Asur, Birjia** — JH mainland PVTG awareness — **Birjia ≠ Andaman**.
-- Other names: Bhumij, Chero, Kharwar, Mal Paharia, Sauria Paharia, Savar, Korwa.
-- Do not dump every central Indian tribe into Jharkhand; use this section for Chotanagpur names.
-
-> **Exam note:** Birhor → Jharkhand. Birjia → JH mainland, not islands. Santhal/Munda/Oraon = JH core trio for many match questions.
-
-#### Jharkhand — master table
-
-| Tribe | Lock | Extra |
-|-------|------|-------|
-| Santhal | JH core (+ WB/Odisha/Bihar) | Language + Hul 1855 |
-| Munda | Chotanagpur | Birsa Munda |
-| Oraon | Chotanagpur | Kurukh |
-| Ho | Kolhan | — |
-| Kharia / Keria | JH–Odisha | 2022 Odisha pair |
-| Birhor | Jharkhand | PYQ 2020; PVTG |
-| Bhumij | JH–WB–Odisha fringe | — |
-| Asur | JH | PVTG; iron-smelting tradition tag |
-| Birjia | JH | PVTG; **not** Andaman |
-| Korwa | JH–CG–UP fringe awareness | PVTG in JH lists |
-| Mal / Sauria Paharia | JH Santhal Pargana hills | PVTG awareness |
-
----
-
-## 10.5 Andaman & Nicobar Tribes
-
-### Definitions
-
-| Term | Definition |
-|------|------------|
-| **Negrito Andaman tribes** | Great Andamanese, Onge, Jarawa, Sentinelese |
-| **Mongoloid Nicobar tribes** | Nicobarese, Shompen |
-| **Sentinelese** | Most isolated tribe; North Sentinel Island; outside contact resisted |
-| **Shompen** | Interior Great Nicobar tribe; PVTG |
-
-### Andaman Tribes — Overview
-
-Island questions are almost always “who is **NOT** native?” Memorise the six island natives, then reject mainland tribes (especially **Rengma** of Nagaland).
-
-#### Andaman Tribes — How It Works
-
-- **Andaman (Negrito):** Great Andamanese, **Onge** (Little Andaman), **Jarawa** (South/Middle Andaman forests), **Sentinelese** (North Sentinel Island — most isolated; tribal reserve; outside contact prohibited).
-- **Nicobar (Mongoloid):** **Nicobarese** (coastal Nicobar), **Shompen** (Great Nicobar interior; PVTG; hunter-gatherer/horticulture).
-- **Rengma** = Naga tribe of **Nagaland** (Assam fringe) — **not** AN (2020 Q50).
-- Papers may include obscure option names (e.g. Halchu); in the 2020 key the clear non-native is **Rengma**.
-- **Ten Degree Channel** separates Andaman group from Nicobar group.
-- **Birjia / Santhal / Gond** appearing in an “island native” stem are mainland rejects.
-
-> **Exam note:** Four Andaman Negrito + two Nicobar Mongoloid. Rengma = Nagaland ≠ islands.
-
-#### Island tribes — full snapshot
-
-| Tribe | Island / area | Group | Notes |
-|-------|---------------|-------|-------|
-| Great Andamanese | Andaman | Negrito | Small surviving population |
-| Onge | Little Andaman | Negrito | Native; 2020 option |
-| Jarawa | South & Middle Andaman | Negrito | Forest reserve |
-| Sentinelese | North Sentinel Island | Negrito | Uncontacted; highest isolation |
-| Nicobarese | Nicobar Islands | Mongoloid | Larger Nicobar community |
-| Shompen | Great Nicobar interior | Mongoloid | PVTG; 2020 option |
-| Rengma | — | Mainland Naga | **NOT** AN |
-
-### PYQs — §10.5
-
-**UPPCS Prelims**
-
-1. **(UPPCS 2020, Q50)** Which of the following tribes is NOT the native to the Andaman and Nicobar Islands of India?
-   - Options: A. Halchu / B. Rengma / C. Onge / D. Shompen
-   → **B. Rengma** — Rengma is a Naga tribe of Nagaland. Onge and Shompen are island natives.
-
----
-
-## 10.6 World Tribes & Habitats (exam expansion)
-
-### Definitions
-
-| Term | Definition |
-|------|------------|
-| **Tribe–habitat match (world)** | Pairing a named people with their classic environment/region |
-
-### World Tribes — Overview
-
-UPPCS repeatedly asks world ethnographic pairs. Memorise the correct habitats and the one planted wrong continent/region.
-
-#### World Tribes — How It Works
-
-- **Bushman (San)** → **Kalahari Desert** (southern Africa) — correct in 2025.
-- **Eskimo (Inuit)** → **Northern Canada / Arctic** — correct in 2025.
-- **Pygmy** → **Congo Basin** — correct in 2025; also Congo basin in 2019 set.
-- **Masai** → **East Africa** (Kenya–Tanzania) — **not West Africa** (2025 wrong pair).
-- **Ainu** → **Japan** — correctly matched in 2019.
-- **Angami** → **Nagaland** (India) — correctly matched in 2019 world/India mix set.
-- **Khirghiz (Kyrgyz)** → Central Asia — **not Sudan** (2019 wrong pair).
-- **Koryak** → north-east **Siberia / Kamchatka** — **not Alaska** (2021 wrong pair).
-- Other useful awareness: Punan–Borneo; Ruwala–Arab desert; Lapps (Sami)–Sweden/Finland (2021 correct pairs).
-
-> **Exam note:** Masai ≠ West Africa. Khirghiz ≠ Sudan. Alaska ≠ Koryak.
-
-#### World match table
-
-| People | Correct habitat | Classic wrong option |
-|--------|-----------------|----------------------|
-| Bushman | Kalahari | — |
-| Eskimo / Inuit | N Canada / Arctic | — |
-| Pygmy | Congo Basin | — |
-| Masai | East Africa | West Africa (2025) |
-| Ainu | Japan | — |
-| Khirghiz | Central Asia | Sudan (2019) |
-| Koryak | NE Siberia | Alaska (2021) |
-| Punan | Borneo | — |
-| Lapps / Sami | N Scandinavia / Finland | — |
-
-### PYQs — §10.6
-
-**UPPCS Prelims**
-
-1. **(UPPCS 2019, Q4)** Which of the following is NOT correctly matched? (Tribe) — (Place)
-   - Options: A. Pygmy — Congo basin / B. Angami — Nagaland / C. Ainu — Japan / D. Khirghiz — Sudan
-   → **D. Khirghiz — Sudan** — Kyrgyz/Khirghiz are Central Asian, not Sudanese.
-
-2. **(UPPCS 2021, Q96)** Which of the following pair is NOT correctly matched? (Place) — (Tribe)
-   - Options: A. Alaska — Koryak / B. Borneo — Punan / C. Arab Desert — Ruwala / D. Sweden and Finland — Lapps
-   → **A. Alaska — Koryak** — Koryak are of north-east Siberia, not Alaska.
-
-3. **(UPPCS 2025, Q23)** Which of the following pairs is/are NOT correctly matched? (Tribe) — (Habitat)
-   1. Bushman — Kalahari Desert
-   2. Eskimo — Northern Canada
-   3. Pygmy — Congo Basin
-   4. Masai — West Africa
-   - Options: A. Only 1, 2 and 3 / B. Only 4 / C. Only 3 and 4 / D. Only 1
-   → **B. Only 4** — Masai live in East Africa, not West Africa. Pairs 1–3 are correct.
-
-## 10.7 India Meteorological Department (IMD)
-
-### Definitions
-
-| Term | Definition |
-|------|------------|
-| **IMD** | National agency for weather observation, forecasting, and climate services under the Ministry of Earth Sciences |
-
-### IMD — Overview
-
-IMD is India's weather service. Exam need is identity + headquarters, not forecasting maths.
-
-#### IMD — How It Works
-
-- **Headquarters: New Delhi.**
-- Issues weather forecasts, cyclone warnings, monsoon updates, and climate data used by agriculture, aviation, and disaster managers.
-- Regional centres exist across India; do not confuse a regional office with the national HQ.
-- For Prelims, “weather department of India” → IMD, New Delhi.
-
-> **Exam note:** IMD HQ = New Delhi.
-
-#### IMD snapshot
-
-| Item | Lock |
-|------|------|
-| Full form | India Meteorological Department |
-| HQ | New Delhi |
-| Role | Weather, climate, cyclone warnings |
-
----
-
-## 10.8 Indian Council of Agricultural Research (ICAR)
-
-### Definitions
-
-| Term | Definition |
-|------|------------|
-| **ICAR** | Apex body coordinating agricultural research and education in India |
-
-### ICAR — Overview
-
-ICAR sits at the top of the agri-research pyramid. Crop details live in Agriculture notes; here lock the council itself.
-
-#### ICAR — How It Works
-
-- **Headquarters: New Delhi.**
-- Coordinates ICAR institutes, agricultural universities' research linkage, and all-India coordinated projects.
-- **IARI (Pusa, New Delhi)** is the flagship institute under the ICAR system — often asked separately.
-- KVKs (Krishi Vigyan Kendras) are district extension arms linked to the research–education system.
-- Do not confuse ICAR (research council) with a single university campus.
-
-> **Exam note:** ICAR HQ = New Delhi. IARI = Pusa, New Delhi.
-
-#### ICAR snapshot
-
-| Item | Lock |
-|------|------|
-| Full form | Indian Council of Agricultural Research |
-| HQ | New Delhi |
-| Flagship institute | IARI, Pusa |
-
----
-
-## 10.9 Agricultural Institutes
-
-### Definitions
-
-| Term | Definition |
-|------|------------|
-| **Agricultural institute / university** | Teaching and research campus for crops, soils, agri engineering, etc. |
-
-### Agricultural Institutes — Overview
-
-Syllabus wants the main named hubs. Memorise a short HQ list, not every state college.
-
-#### Agricultural Institutes — How It Works
-
-- **IARI, Pusa (New Delhi)** — premier ICAR institute; “Pusa Institute” in older language.
-- State agricultural universities exist in every major state (e.g. awareness of GBPUAT Pantnagar, CSAUAT Kanpur for UP GK).
-- Seed chain and KVK extension are operational arms you also meet in Agriculture notes — here remember they sit under the ICAR–agri university system.
-- If a stem asks only “apex agri research body,” answer **ICAR**, not a single SAU.
-
-> **Exam note:** IARI = Pusa, New Delhi. Apex council = ICAR.
-
-#### Agricultural institutes — short list
-
-| Institute | Place | Cue |
-|-----------|-------|-----|
-| IARI | Pusa, New Delhi | Flagship |
-| ICAR HQ | New Delhi | Apex council |
-| CSAUAT (awareness) | Kanpur, UP | UP agri university |
-| GBPUAT (awareness) | Pantnagar | First SAU tradition |
-
----
-
-## 10.10 Dairy Research
-
-### Definitions
-
-| Term | Definition |
-|------|------------|
-| **NDRI** | National Dairy Research Institute |
-| **IVRI** | Indian Veterinary Research Institute |
-| **NDDB** | National Dairy Development Board (dairy cooperative programme body — Operation Flood link) |
-
-### Dairy Research — Overview
-
-Dairy questions may ask research campus or White Revolution institutions. Separate research (NDRI/IVRI) from cooperative board (NDDB).
-
-#### Dairy Research — How It Works
-
-- **NDRI, Karnal (Haryana)** — premier dairy research and education institute.
-- **IVRI, Izatnagar (Bareilly), Uttar Pradesh** — premier veterinary research institute — strong UP lock.
-- **NDDB** (Anand association / cooperative dairy development) is the Operation Flood institutional face — more “White Revolution” than lab research, but often grouped in dairy GK.
-- Do not place NDRI in Lucknow or IVRI in Karnal.
-
-> **Exam note:** NDRI = Karnal. IVRI = Izatnagar / Bareilly (UP).
-
-#### Dairy / veterinary snapshot
-
-| Body | Place | Role |
-|------|-------|------|
-| NDRI | Karnal | Dairy research & education |
-| IVRI | Izatnagar, Bareilly (UP) | Veterinary research |
-| NDDB | Anand-linked cooperative system | Dairy development / Operation Flood |
-
----
-
-## 10.11 Horticulture Institutes
-
-### Definitions
-
-| Term | Definition |
-|------|------------|
-| **Horticulture institute** | Research body for fruits, vegetables, flowers, plantation horticulture |
-
-### Horticulture Institutes — Overview
-
-Lock one national and one UP-facing name; do not invent a long campus list.
-
-#### Horticulture Institutes — How It Works
-
-- **IIHR (Indian Institute of Horticultural Research), Bengaluru** — major ICAR horticulture institute.
-- **CISH (Central Institute for Subtropical Horticulture), Lucknow** — UP-relevant ICAR institute for subtropical fruits (mango belt awareness).
-- Horticulture revolutions (Golden Revolution) are Agriculture topic territory; here only institute identity/place.
-- Potato research awareness often points to CPRI Shimla in wider GK — optional unless a stem names it.
-
-> **Exam note:** IIHR = Bengaluru. CISH = Lucknow (UP).
-
-#### Horticulture snapshot
-
-| Institute | Place | Cue |
-|-----------|-------|-----|
-| IIHR | Bengaluru | National horticulture research |
-| CISH | Lucknow | Subtropical fruits; UP |
-
----
-
-## 10.12 Forest Research Institutes
-
-### Definitions
-
-| Term | Definition |
-|------|------------|
-| **FRI** | Forest Research Institute, Dehradun — premier forestry research campus |
-
-### Forest Research — Overview
-
-FRI Dehradun is the one must-know forest institute for Prelims geography/GK.
-
-#### Forest Research — How It Works
-
-- **Forest Research Institute (FRI), Dehradun (Uttarakhand)** — historic and premier forestry research and training campus (ICFRE system awareness).
-- Works on silviculture, forest products, ecology and related training.
-- Do not place FRI in Delhi or Lucknow.
-- State forest research units exist, but FRI Dehradun is the national exam lock.
-
-> **Exam note:** FRI = Dehradun.
-
-#### Forest research snapshot
-
-| Institute | Place | Cue |
-|-----------|-------|-----|
-| FRI | Dehradun | Premier forest research |
-
-## Consolidated Reference (tables only)
-
-| Theme | Lock |
+| Tribe | Lock |
 |-------|------|
-| UP Terai tribe | Tharu |
-| UP PVTG pair | Buksa, Raji |
-| UP iron-smelting tribe | Agariya |
-| UP Lalitpur ST | Saharya |
-| UP ST count (notified groups) | 15 entries in standard list |
-| Meghalaya matriliny | Khasi, Garo |
-| Largest-central tags | Gond, Bhil |
-| Andaman reject | Rengma (Nagaland) |
-| Khasi state | Meghalaya |
-| Toda state | Tamil Nadu |
-| Birhor state | Jharkhand |
-| Masai habitat | East Africa |
-| IMD / ICAR HQ | New Delhi |
-| IARI | Pusa, New Delhi |
-| FRI | Dehradun |
-| NDRI | Karnal |
-| IVRI | Izatnagar (Bareilly), UP |
-| IIHR | Bengaluru |
-| CISH | Lucknow |
-
-### Syllabus map
-
-| Bullet | Section |
-|--------|---------|
-| Tribes of India | §10.1 |
-| Tribes of UP | §10.2 |
-| Tribes of Central India | §10.3 |
-| Tribes of Jharkhand | §10.4 |
-| Andaman Tribes | §10.5 (+ world §10.6) |
-| IMD | §10.7 |
-| ICAR | §10.8 |
-| Agricultural Institutes | §10.9 |
-| Dairy Research | §10.10 |
-| Horticulture Institutes | §10.11 |
-| Forest Research Institutes | §10.12 |
+| Santhal | JH + WB/OD/BR; Santhali + **Ol Chiki** script; Hul **1855** (Sido–Kanhu) |
+| Munda | Birsa Munda; Mundari; Janjatiya Gaurav Diwas **15 Nov** |
+| Oraon | Kurukh (Dravidian family tag) |
+| Ho | Kolhan / W. Singhbhum |
+| Kharia / Keria | JH–Odisha (2022 OD pair) |
+| Birhor | JH; PVTG; hunter-gatherer |
+| Bhumij | JH–WB–OD fringe |
+| Asur | JH PVTG; iron-smelting tag |
+| Birjia | JH PVTG — **not Andaman** |
 
 ---
 
-## Practice Zone — UPPCS Format Questions
+## N.5 Andaman & Nicobar
+
+“Who is **NOT** native?” — memorise six, reject mainland (**Rengma**). **Ten Degree Channel** splits Andaman from Nicobar. Sentinelese: **North Sentinel Island**, tribal reserve, **outside contact prohibited**. Jarawa: South/Middle Andaman forests. Onge: **Little Andaman**. Shompen: Great Nicobar interior (PVTG).
+
+| Tribe | Where | Group |
+|-------|-------|-------|
+| Great Andamanese | Andaman | Negrito |
+| Onge | Little Andaman | Negrito |
+| Jarawa | S/Middle Andaman | Negrito |
+| Sentinelese | **North Sentinel** | Negrito; uncontacted |
+| Nicobarese | Nicobar coasts | Mongoloid |
+| Shompen | Great Nicobar interior | Mongoloid; **PVTG** |
+| **Rengma** | Nagaland | **NOT** AN |
+
+2020 options included **Halchu**; the clear non-native is **Rengma**. Onge and Shompen **are** natives.
+
+---
+
+## N.6 World tribes (PYQ expansion)
+
+Not a separate syllabus bullet — UPPCS still asks habitats every few years.
+
+| People | Correct habitat | Planted wrong |
+|--------|-----------------|---------------|
+| Bushman (San) | **Kalahari** | |
+| Eskimo / Inuit | **N Canada / Arctic** | |
+| Pygmy | **Congo Basin** | |
+| Masai | **East Africa** (Kenya–Tanzania) | West Africa (2025) |
+| Ainu | **Japan** | |
+| Khirghiz | **Central Asia** | Sudan (2019) |
+| Koryak | **NE Siberia / Kamchatka** | Alaska (2021) |
+| Punan | Borneo | |
+| Ruwala | Arab desert | |
+| Lapps / Sami | Sweden & Finland | |
+
+**Inline PYQ**
+**(UPPCS 2025, Q23)** Bushman–Kalahari; Eskimo–N Canada; Pygmy–Congo; Masai–West Africa
+**Ans: B Only 4** — Masai = **East Africa**.
+
+---
+
+## N.7 IMD & ICAR
+
+**IMD (India Meteorological Department)** — national weather/climate service under **Ministry of Earth Sciences**. Founded **1875** (150 years in 2025). **HQ = New Delhi**. Issues monsoon updates, cyclone warnings, agromet advisories, aviation weather. Regional centres exist — a regional office is **not** the national HQ.
+**ICAR (Indian Council of Agricultural Research)** — apex body for agri **research and education** (under DARE). Founded **16 July 1929** (Imperial Council → ICAR). **HQ = New Delhi**. Coordinates ICAR institutes + State Agricultural Universities + All-India Coordinated Research Projects.
+**IARI (Indian Agricultural Research Institute)** — flagship ICAR institute at **Pusa, New Delhi** (historic Pusa, Bihar campus moved after 1934 Bihar earthquake lore). “Pusa Institute” in older language. If the stem asks the **apex council**, answer **ICAR**, not IARI/SAU.
+**KVK (Krishi Vigyan Kendra)** = district **extension** arm of the ICAR–SAU system — not a research HQ.
+
+| Body | HQ | Role |
+|------|-----|------|
+| **IMD** | **New Delhi** | Weather, climate, cyclone warnings |
+| **ICAR** | **New Delhi** | Apex agri research & education |
+| **IARI** | **Pusa, New Delhi** | Flagship ICAR institute |
+
+---
+
+## N.8 Agricultural, dairy, horticulture & forest institutes
+
+**Agricultural universities:** every major state has an SAU. Exam locks: **GBPUAT Pantnagar** = first SAU tradition; **CSAUAT Kanpur** = UP agri university. Seed/KVK operations.
+**Dairy vs veterinary vs cooperative (do not swap)**
+
+| Body | Place | What it is |
+|------|-------|------------|
+| **NDRI** | **Karnal (Haryana)** | Premier **dairy** research & education (ICAR) |
+| **IVRI** | **Izatnagar, Bareilly (UP)** | Premier **veterinary** research — strongest UP lock |
+| **NDDB** | **Anand** association | Dairy **development** / cooperatives; **Operation Flood** (White Revolution) face — not the Karnal lab |
+
+**Horticulture**
+
+| Institute | Place | Cue |
+|-----------|-------|-----|
+| **IIHR** | Hessaraghatta, **Bengaluru** | National horticulture research (ICAR) |
+| **CISH** | Rehmankhera, **Lucknow** | Subtropical fruits (mango belt); UP lock |
+| CPRI (awareness) | **Shimla** | Potato |
+| IISR (awareness) | Kozhikode | Spices |
+
+Golden Revolution = horticulture **and honey**.
+**Forest**
+
+| Institute | Place | Cue |
+|-----------|-------|-----|
+| **FRI** | **Dehradun** | Premier forestry research/training campus (historic; ICFRE system) |
+| **ICFRE** | Dehradun | Apex forestry research council (awareness) |
+| WII (awareness) | Dehradun | Wildlife Institute of India |
+| IIFM (awareness) | Bhopal | Forest management institute |
+
+FRI ≠ Delhi / Lucknow. WII is wildlife, not the “FRI” answer.
+
+---
+
+## Consolidated — 20 Must-Score Locks
+
+1. ST lists are **state-wise** (Art. 342).
+2. Khasi = **Meghalaya**, not Arunachal.
+3. Rengma = **Nagaland**, not Andaman.
+4. Kuki ≠ UP; Yanadi ≠ Rajasthan; Paliyan = TN; Keria = Odisha.
+5. Toda = Tamil Nadu; Birhor = Jharkhand.
+6. UP PVTG = **Buksa + Raji**; Tharu = Terai.
+7. Agariya = iron smelting; Saharya = Lalitpur.
+8. UP has **15** notified ST entries (standard list).
+9. Gond + Bhil = central/western heartland.
+10. JH core = Santhal, Munda, Oraon; Birjia ≠ islands.
+11. Six AN natives; Sentinelese = North Sentinel.
+12. Masai = **East Africa**.
+13. Khirghiz ≠ Sudan; Koryak ≠ Alaska.
+14. IMD HQ = New Delhi (**1875**).
+15. ICAR HQ = New Delhi (**1929**); IARI = Pusa (not the apex council).
+16. FRI = Dehradun (≠ WII).
+17. NDRI = Karnal (lab); IVRI = Izatnagar (UP); NDDB = Anand / Operation Flood.
+18. IIHR = Bengaluru; CISH = Lucknow.
+19. Khasi/Garo = matriliny.
+20. Bushman = Kalahari; Pygmy = Congo; Eskimo = N Canada.
+
+---
+
+## Practice Zone — 35 Questions (2025 Pattern Mix)
 
 **Q1.** Tharu tribe of UP is mainly associated with which belt?
-
-Options: A. Sonbhadra plateau only  B. Terai  C. Pure Thar desert  D. Nicobar Islands
+Options: A. Sonbhadra plateau only B. Terai C. Pure Thar desert D. Nicobar Islands
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B** — Tharu = Terai.
-
 </details>
 
 **Q2.** Which pair is a PVTG pair in the UP tribal set?
-
-Options: A. Tharu and Gond  B. Buksa and Raji  C. Angami and Toda  D. Santhal and Masai
+Options: A. Tharu and Gond B. Buksa and Raji C. Angami and Toda D. Santhal and Masai
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B**
-
 </details>
 
 **Q3.** Which tribe is NOT native to Andaman and Nicobar Islands?
-
-Options: A. Onge  B. Shompen  C. Rengma  D. Jarawa
+Options: A. Onge B. Shompen C. Rengma D. Jarawa
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: C** — Rengma = Nagaland.
-
 </details>
 
 **Q4.** Khasi tribe is correctly matched with:
-
-Options: A. Arunachal Pradesh  B. Meghalaya  C. Rajasthan  D. Tamil Nadu
+Options: A. Arunachal Pradesh B. Meghalaya C. Rajasthan D. Tamil Nadu
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B**
-
 </details>
 
 **Q5.** Birhor tribe is correctly matched with:
-
-Options: A. Tamil Nadu  B. Jharkhand  C. Nagaland  D. Kerala
+Options: A. Tamil Nadu B. Jharkhand C. Nagaland D. Kerala
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B**
-
 </details>
 
 **Q6.** Toda tribe is correctly matched with:
-
-Options: A. Nagaland  B. Tamil Nadu  C. Gujarat  D. Punjab
+Options: A. Nagaland B. Tamil Nadu C. Gujarat D. Punjab
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B**
-
 </details>
 
 **Q7.** Kuki is correctly associated with:
-
-Options: A. Uttar Pradesh  B. North-East India  C. Kalahari  D. Nicobar only
+Options: A. Uttar Pradesh B. North-East India C. Kalahari D. Nicobar only
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B**
-
 </details>
 
 **Q8.** Masai habitat is:
-
-Options: A. West Africa  B. East Africa  C. Kalahari only  D. Congo Basin only
+Options: A. West Africa B. East Africa C. Kalahari only D. Congo Basin only
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B**
-
 </details>
 
 **Q9.** Which pair is NOT correctly matched?
-
-Options: A. Bushman — Kalahari  B. Pygmy — Congo Basin  C. Eskimo — Northern Canada  D. Masai — West Africa
+Options: A. Bushman — Kalahari B. Pygmy — Congo Basin C. Eskimo — Northern Canada D. Masai — West Africa
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: D**
-
 </details>
 
 **Q10.** Khirghiz are NOT correctly matched with:
-
-Options: A. Central Asia  B. Sudan  C. Steppe pastoral tradition  D. Neither A nor C as wrong labels
+Options: A. Central Asia B. Sudan C. Steppe pastoral tradition D. Neither A nor C as wrong labels
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B** — Sudan is the wrong pairing used in 2019.
-
 </details>
 
 **Q11.** Koryak people are associated with:
-
-Options: A. Alaska  B. North-east Siberia  C. Congo Basin  D. Nilgiris
+Options: A. Alaska B. North-east Siberia C. Congo Basin D. Nilgiris
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B**
-
 </details>
 
 **Q12.** Ainu are correctly matched with:
-
-Options: A. Sudan  B. Japan  C. Nagaland  D. Borneo
+Options: A. Sudan B. Japan C. Nagaland D. Borneo
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B**
-
 </details>
 
 **Q13.** Headquarters of IMD is at:
-
-Options: A. Pune only as national HQ claim  B. New Delhi  C. Dehradun  D. Karnal
+Options: A. Pune only as national HQ claim B. New Delhi C. Dehradun D. Karnal
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B**
-
 </details>
 
 **Q14.** Headquarters of ICAR is at:
-
-Options: A. Karnal  B. New Delhi  C. Izatnagar  D. Bengaluru
+Options: A. Karnal B. New Delhi C. Izatnagar D. Bengaluru
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B**
-
 </details>
 
 **Q15.** IARI is located at:
-
-Options: A. Pantnagar  B. Pusa, New Delhi  C. Lucknow  D. Dehradun
+Options: A. Pantnagar B. Pusa, New Delhi C. Lucknow D. Dehradun
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B**
-
 </details>
 
 **Q16.** Forest Research Institute (FRI) is at:
-
-Options: A. New Delhi  B. Dehradun  C. Bareilly  D. Shimla only
+Options: A. New Delhi B. Dehradun C. Bareilly D. Shimla only
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B**
-
 </details>
 
 **Q17.** NDRI is at:
-
-Options: A. Izatnagar  B. Karnal  C. Lucknow  D. Port Blair
+Options: A. Izatnagar B. Karnal C. Lucknow D. Port Blair
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B**
-
 </details>
 
 **Q18.** IVRI is at:
-
-Options: A. Karnal  B. Izatnagar (Bareilly), UP  C. Pusa only  D. Anand only
+Options: A. Karnal B. Izatnagar (Bareilly), UP C. Pusa only D. Anand only
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B**
-
 </details>
 
 **Q19.** IIHR is mainly associated with:
-
-Options: A. Dairy at Karnal  B. Horticulture research at Bengaluru  C. Cyclone warning only  D. Sentinelese census only
+Options: A. Dairy at Karnal B. Horticulture research at Bengaluru C. Cyclone warning only D. Sentinelese census only
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B**
-
 </details>
 
 **Q20.** CISH (subtropical horticulture) is at:
-
-Options: A. Bengaluru  B. Lucknow  C. Kohima  D. Kalahari
+Options: A. Bengaluru B. Lucknow C. Kohima D. Kalahari
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B**
-
 </details>
 
 **Q21.** Shompen tribe belongs to:
-
-Options: A. Nicobar (Great Nicobar)  B. Nagaland  C. Rajasthan  D. Punjab
+Options: A. Nicobar (Great Nicobar) B. Nagaland C. Rajasthan D. Punjab
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: A**
-
 </details>
 
 **Q22.** Sentinelese are associated with:
-
-Options: A. Nicobar plains towns  B. Andaman Islands  C. Meghalaya plateau  D. Terai of UP
+Options: A. Nicobar plains towns B. Andaman Islands C. Meghalaya plateau D. Terai of UP
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B**
-
 </details>
 
 **Q23.** Saharya tribe in UP notification is linked mainly with:
-
-Options: A. Lakhimpur Kheri only  B. Lalitpur  C. Nicobar  D. Japan
+Options: A. Lakhimpur Kheri only B. Lalitpur C. Nicobar D. Japan
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B**
-
 </details>
 
 **Q24.** Which two are correctly matched? Keria–Odisha and Paliyan–Tamil Nadu
-
-Options: A. Only first  B. Only second  C. Both  D. Neither
+Options: A. Only first B. Only second C. Both D. Neither
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: C** — 2022 logic.
-
 </details>
 
 **Q25.** Yanadi tribe is NOT correctly matched with:
-
-Options: A. Andhra Pradesh  B. Rajasthan  C. Coastal plains tradition  D. None of these
+Options: A. Andhra Pradesh B. Rajasthan C. Coastal plains tradition D. None of these
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B** — Rajasthan was the wrong 2022 pairing.
-
 </details>
 
 ---
 
 **Q26.** Agariya tribe of UP is specially remembered for:
-
-Options: A. Sea fishing in Nicobar  B. Traditional iron smelting in Sonbhadra–Mirzapur  C. Matriliny of Meghalaya  D. Being a Naga group
+Options: A. Sea fishing in Nicobar B. Traditional iron smelting in Sonbhadra–Mirzapur C. Matriliny of Meghalaya D. Being a Naga group
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B**
-
 </details>
 
 **Q27.** Saharya tribe in UP is mainly notified in:
-
-Options: A. Lakhimpur Kheri  B. Lalitpur  C. Nagaland  D. Nicobar
+Options: A. Lakhimpur Kheri B. Lalitpur C. Nagaland D. Nicobar
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B**
-
 </details>
 
 **Q28.** Khasi and Garo societies are classically described as:
-
-Options: A. Strictly patrilineal only  B. Matrilineal  C. Andaman Negrito only  D. Kyrgyz steppe only
+Options: A. Strictly patrilineal only B. Matrilineal C. Andaman Negrito only D. Kyrgyz steppe only
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B**
-
 </details>
 
 **Q29.** Sentinelese live on:
-
-Options: A. Great Nicobar town belt  B. North Sentinel Island (Andaman)  C. Nilgiri plateau  D. Kalahari
+Options: A. Great Nicobar town belt B. North Sentinel Island (Andaman) C. Nilgiri plateau D. Kalahari
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B**
-
 </details>
 
 **Q30.** Which is a correct Jharkhand PVTG / mainland lock?
-
-Options: A. Birjia — Andaman  B. Birhor — Jharkhand  C. Rengma — Jharkhand  D. Toda — Jharkhand
+Options: A. Birjia — Andaman B. Birhor — Jharkhand C. Rengma — Jharkhand D. Toda — Jharkhand
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B**
-
 </details>
 
 **Q31.** Chenchu tribe is mainly associated with:
-
-Options: A. Rajasthan desert  B. Andhra–Telangana forests  C. Nagaland hills only  D. Terai of UP
+Options: A. Rajasthan desert B. Andhra–Telangana forests C. Nagaland hills only D. Terai of UP
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B**
-
 </details>
 
 **Q32.** Warli painting tradition is linked with tribes of:
-
-Options: A. Nagaland  B. Maharashtra  C. Nicobar  D. Sikkim only
+Options: A. Nagaland B. Maharashtra C. Nicobar D. Sikkim only
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B**
-
 </details>
 
 **Q33.** Scheduled Tribe lists in India are notified:
-
-Options: A. As one single all-India roster only  B. State/UT-wise under Article 342  C. Only by state governors without President  D. Only for Andaman
+Options: A. As one single all-India roster only B. State/UT-wise under Article 342 C. Only by state governors without President D. Only for Andaman
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B**
-
 </details>
 
 **Q34.** Two geographic tribal clusters of UP are:
-
-Options: A. Kalahari and Congo  B. Terai (north) and Vindhyan/Sonbhadra (south)  C. Only Nicobar and Japan  D. Only Punjab and Kerala
+Options: A. Kalahari and Congo B. Terai (north) and Vindhyan/Sonbhadra (south) C. Only Nicobar and Japan D. Only Punjab and Kerala
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B**
-
 </details>
 
 **Q35.** Meena (Mina) tribe is mainly associated with:
-
-Options: A. Meghalaya  B. Rajasthan  C. Andaman  D. Kerala
+Options: A. Meghalaya B. Rajasthan C. Andaman D. Kerala
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B**
-
 </details>
 
+## Complete PYQ Bank
 
-## Complete PYQ Bank (Topic 10)
-
-> **Coverage:** 6 UPPCS Prelims tribe/habitat hits (2019–2025). Institutions are syllabus locks (few direct stems in local `pyq/`).
-
+**Instructions:** Answers are under `<details>`. Read the full stem before opening. Local `pyq/` 2018–2025 tribe/habitat + Tribal Affairs hits are below. Institute HQ locks are syllabus-mandatory.
 **Q1. UPPCS Prelims 2025, Q23**
-
 Which of the following pairs is/are NOT correctly matched? (Tribe) — (Habitat)
-
 1. Bushman — Kalahari Desert
 2. Eskimo — Northern Canada
 3. Pygmy — Congo Basin
 4. Masai — West Africa
-
-Options: A. Only 1, 2 and 3  B. Only 4  C. Only 3 and 4  D. Only 1
+Options: A. Only 1, 2 and 3 B. Only 4 C. Only 3 and 4 D. Only 1
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B** — Only pair 4 is wrong; Masai = East Africa.
-
 </details>
 
 ---
 
 **Q2. UPPCS Prelims 2022, Q40**
-
 Which two of the following are correctly matched?
-
 1. Keria — Odisha
 2. Kuki — Uttar Pradesh
 3. Yanadi — Rajasthan
 4. Paliyan — Tamil Nadu
-
-Options: A. 3 and 4  B. 1 and 4  C. 2 and 3  D. 1 and 2
+Options: A. 3 and 4 B. 1 and 4 C. 2 and 3 D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B**
-
 </details>
 
 ---
 
 **Q3. UPPCS Prelims 2021, Q96**
-
 Which of the following pair is NOT correctly matched? (Place) — (Tribe)
-
-Options: A. Alaska — Koryak  B. Borneo — Punan  C. Arab Desert — Ruwala  D. Sweden and Finland — Lapps
+Options: A. Alaska — Koryak B. Borneo — Punan C. Arab Desert — Ruwala D. Sweden and Finland — Lapps
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: A** — Koryak = NE Siberia, not Alaska.
-
 </details>
 
 ---
 
 **Q4. UPPCS Prelims 2020, Q54**
-
 Which of the following is NOT correctly matched? (Tribes) — (Location)
-
-Options: A. Angamis — Nagaland  B. Birhors — Jharkhand  C. Khas — Arunachal Pradesh  D. Todas — Tamil Nadu
+Options: A. Angamis — Nagaland B. Birhors — Jharkhand C. Khas — Arunachal Pradesh D. Todas — Tamil Nadu
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: C** — Khasi = Meghalaya.
-
 </details>
 
 ---
 
 **Q5. UPPCS Prelims 2020, Q50**
-
 Which of the following tribes is NOT the native to the Andaman and Nicobar Islands of India?
-
-Options: A. Halchu  B. Rengma  C. Onge  D. Shompen
+Options: A. Halchu B. Rengma C. Onge D. Shompen
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: B** — Rengma = Nagaland.
-
 </details>
 
 ---
 
 **Q6. UPPCS Prelims 2019, Q4**
-
 Which of the following is NOT correctly matched? (Tribe) — (Place)
-
-Options: A. Pygmy — Congo basin  B. Angami — Nagaland  C. Ainu — Japan  D. Khirghiz — Sudan
+Options: A. Pygmy — Congo basin B. Angami — Nagaland C. Ainu — Japan D. Khirghiz — Sudan
 
 <details>
 <summary>Show answer</summary>
 
 **Ans: D** — Khirghiz/Kyrgyz are Central Asian, not Sudanese.
-
 </details>
+
+---
+
+**Q7. UPPCS Prelims 2025, Q29**
+In June 2025, the "Adi Karmayogi Beta Version - A Responsive Governance Initiative" was launched by which of the following Ministries?
+1. Ministry of AYUSH
+2. Ministry of Women and Child Development
+3. Ministry of Social Justice and Empowerment
+4. Ministry of Tribal Affairs
+Options: A. Only 1 and 2 B. Only 4 C. Only 2 and 3 D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Ministry of **Tribal Affairs** only.
+</details>
+
+---
+
+## Current Affairs (this topic)
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| **15 Nov** | **Janjatiya Gaurav Diwas** — Birsa Munda birth anniversary | Tribal identity CA | MoTA |
+| **2023** | **PM-JANMAN** — PVTG mission (housing, health, education, connectivity) | PVTG living scheme | MoTA / PIB |
+| **1875 → 2025** | **IMD** 150 years; HQ still **New Delhi** | Institute + anniversary | IMD / MoES |
+| **Jun 2025** | **Adi Karmayogi** (beta) launched by **Ministry of Tribal Affairs** | 2025 Q29 | MoTA |
+| Static | UP ST list still the **15-row** notification set; district-limited groups | Match traps | ST Order |
+
+World-habitat PYQs are frozen pairs — do not “update” Masai to West Africa.
 
 ---
 
 ## Common Traps — Don't Fall For These
 
-| # | Trap | Correct |
-|---|------|---------|
-| 1 | Rengma = Andaman | Nagaland |
-| 2 | Khasi = Arunachal | Meghalaya |
-| 3 | Kuki = UP | North-East |
-| 4 | Yanadi = Rajasthan | Andhra Pradesh |
-| 5 | Masai = West Africa | East Africa |
-| 6 | Khirghiz = Sudan | Central Asia |
-| 7 | Alaska = Koryak | Koryak = NE Siberia |
-| 8 | Toda = Nagaland | Tamil Nadu Nilgiris |
-| 9 | Birhor = Tamil Nadu | Jharkhand |
-| 10 | Tharu = Sonbhadra only | Terai |
-| 11 | FRI = Delhi | Dehradun |
-| 12 | NDRI = Izatnagar | Karnal |
-| 13 | IVRI = Karnal | Izatnagar / Bareilly |
-| 14 | Shompen = Nagaland | Great Nicobar |
-| 15 | ICAR HQ = Karnal | New Delhi |
-| 16 | Agariya = only fishing tribe | Iron smelting tradition |
-| 17 | Saharya = Terai | Lalitpur |
-| 18 | Birjia = Andaman | Jharkhand mainland PVTG |
-| 19 | Khasi = patrilineal Assam only | Matrilineal Meghalaya |
-| 20 | Sentinelese = Nicobar town tribe | North Sentinel Island, Andaman |
-| 21 | One all-India ST list | State-wise under Art. 342 |
-| 22 | Chenchu = Rajasthan | Andhra–Telangana |
-| 23 | Meena = Meghalaya | Rajasthan |
-| 24 | Warli = Nagaland | Maharashtra |
-
----
-
-**End of Topic 10 — Tribes & Institutions.**  
-**Do not start Topic 11 until this file is student-approved.**
+1. **Khasi = Arunachal** — FALSE. **Meghalaya** (2020 Q54).
+2. **Rengma = Andaman native** — FALSE. **Nagaland** (2020 Q50).
+3. **Kuki = Uttar Pradesh** — FALSE. **North-East** (2022 Q40).
+4. **Yanadi = Rajasthan** — FALSE. **Andhra Pradesh**. Paliyan = **TN**; Keria = **Odisha**.
+5. **Masai = West Africa** — FALSE. **East Africa** (2025 Q23).
+6. **Khirghiz = Sudan** — FALSE. **Central Asia** (2019 Q4).
+7. **Alaska = Koryak** — FALSE. Koryak = **NE Siberia** (2021 Q96).
+8. **Tharu = Sonbhadra only** — FALSE. **Terai**.
+9. **UP PVTG = Tharu + Gond** — FALSE. **Buksa + Raji**.
+10. **Agariya = only farmers** — FALSE. Traditional **iron smelting**.
+11. **Birjia / Santhal = island tribes** — FALSE. **Jharkhand / mainland**.
+12. **NDRI = Izatnagar / IVRI = Karnal** — SWAP. NDRI **Karnal**; IVRI **Bareilly**.
+13. **FRI = Delhi or Lucknow** — FALSE. **Dehradun**.
+14. **Toda = Nagaland** — FALSE. **Tamil Nadu** (Nilgiris).
+15. **IMD / ICAR HQ = a regional campus** — FALSE. Both **New Delhi**. NDRI ≠ NDDB; FRI ≠ WII.

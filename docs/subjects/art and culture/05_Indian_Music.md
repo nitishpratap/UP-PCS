@@ -1,1164 +1,1117 @@
 # Topic 5 — Indian Music
-### ★ Complete Source of Truth — No other book/notes needed for this topic
+### ★ UPPCS Revision Sheet — heading → identity line → exam bullets (tables only for confused pairs)
 
-> **Covers syllabus:** Indian Music | Hindustani Classical Music | Carnatic Classical Music | Major Gharanas | Musical Instruments | Musicians of India  
-> **Sources baked in:** NCERT An Introduction to Indian Art (Class 11), Natyashastra, Sangeet Natak Akademi references, UPPCS/UPSC PYQs  
-> **Exam weight:** ★★★ High — gharana matching, instrument classification, Carnatic Trinity, Tansen/Khusrau traps  
-> **Last verified:** July 2026
+<details>
+<summary><strong>Covers syllabus</strong> (click to expand)</summary>
+
+Indian Music | Hindustani Classical Music | Carnatic Classical Music | Major Gharanas | Musical Instruments | Musicians of India
+
+</details>
+
+> **Sources baked in:** NCERT An Introduction to Indian Art (Class 11), Natyashastra, Sangeet Ratnakar, UPPCS Prelims PYQs 2018–2025  
+> **Exam weight:** ★★★ — treatise↔author, form↔court, gharana↔artist, instrument family, Trinity  
+> **Last verified:** August 2026  
+> **Current Affairs:** Ustad **Zakir Hussain** died **15 Dec 2024**. SNA founded **1952**. Vedic chanting is UNESCO ICH **2008**. Sankirtana **2013**.
 
 ---
 
-## Quick Revision Box — Raata This First
+## Quick Revision — Spine Only
 
 ```
-TWO CLASSICAL TRADITIONS:
-  Hindustani = North India, raga-tala improvisation, khayal/dhrupad
-  Carnatic = South India, kriti-based, 72 melakarta system, Trinity
-
-SANGEET TRIMURTI:
-  Vocal (gayan) + Instrumental (vadan) + Dance (nritya) = complete sangeet
-
-CORE CONCEPTS:
-  Raga = melody framework (NOT scale alone) | Tala = rhythmic time cycle
-  Shruti = microtones | Swara = 7 notes (Sa Re Ga Ma Pa Dha Ni)
-  Alap → Jor → Jhala → Gat/Bandish (Hindustani performance arc)
-
-HINDUSTANI FORMS:
-  Dhrupad (oldest, austere) | Khayal (most popular) | Thumri (light, romantic)
-  Tarana (syllables) | Ghazal (Urdu poetry) | Qawwali (Sufi devotional)
-
-CARNATIC CORE:
-  Trinity = Tyagaraja | Muthuswami Dikshitar | Syama Sastri
-  Kriti form dominant | Tyagaraja Aradhana at Thiruvaiyaru (January)
-  72 Melakarta ragas (systematic classification)
-
-MAJOR GHARANAS (Hindustani vocal):
-  Gwalior | Agra | Kirana | Jaipur-Atrauli | Patiala | Rampur-Sahaswan | Mewati
-  Instrumental: Maihar (Allauddin Khan) | Imdadkhani/Etawah (sitar) | Senia (Tansen line)
-
-INSTRUMENT FAMILIES (Bharata):
-  Tat = plucked string (sitar, veena) | Vitat = bowed (sarangi)
-  Sushir = wind (bansuri, shehnai, nadaswaram) | Avanaddha = percussion (tabla, mridangam)
-
-MUSICIANS TRAP:
-  Tansen = Akbar court, dhrupad | Amir Khusrau = Sufi, qawwali/tarana (Nizamuddin disciple)
-  Bismillah Khan = Shehnai, Varanasi | Ravi Shankar = Sitar | Zakir Hussain = Tabla
-  MS Subbulakshmi = Carnatic vocal | Bhimsen Joshi = Kirana gharana
-
-UP LINKS:
-  Varanasi = shehnai (Bismillah Khan), thumri hub
-  Lucknow = ghazal, thumri, Begum Akhtar (Faizabad-Awadhi)
-  Tansen Samaroh Gwalior (near UP) | Braj folk (Mathura-Vrindavan)
+ROOTS: Samaveda chant | Natyashastra Bharata | Sangeet Ratnakar Sharngadeva | first "raga" word = Matanga Brihaddeshi
+SANGEET = gita + vadya + nritya
+7 SWARA: Sa Re Ga Ma Pa Dha Ni | 22 shruti
+HINDUSTANI: north, khayal/dhrupad, tabla/pakhawaj, gharana, time-theory
+CARNATIC: south, kriti, 72 melakarta, mridangam, Trinity
+FORMS: Dhrupad oldest+pakhawaj | Khayal dominant+tabla | Thumri light | Tappa = Muhammad Shah | Tarana syllables | Qawwali Khusrau
+TRINITY: Tyagaraja Telugu Rama | Dikshitar Sanskrit | Syama Sastri Devi
+TEXTS: Ragamala Pundrik Vitthal | Rasa Kaumudi Sri Kantha | Raga Vibodh Somanath | Chaturdandi Venkatamakhin
+GHARANA: Gwalior oldest khayal | Agra UP | Kirana Bhimsen | Patiala Bade Ghulam | Jaipur-Atrauli Kishori | Maihar Allauddin
+VADYA: Tata string | Vitat bowed | Sushira wind | Avanaddha membrane | Ghana solid
+TANSEN: dhrupad, Akbar Navaratna, earlier Raja Ramchandra of Bhata/Rewa
+UP: Bismillah shehnai Varanasi | Begum Akhtar Faizabad | Kirana+Agra gharanas | thumri Lucknow–Banaras
 ```
 
-### Must-Know Term Comparisons (very frequently asked)
+- Tansen ≠ Carnatic Trinity.
+- Mridangam ≠ tabla.
+- Tappa ≠ Akbar.
 
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Hindustani vs Carnatic** | North Indian improvisation-led khayal/dhrupad vs South Indian kriti-based devotional system | हिंदुस्तानी / कर्नाटक |
-| **Raga vs Tala** | Melodic mood framework (swara sequence) vs rhythmic time cycle (matra/beats) | राग / ताल |
-| **Dhrupad vs Khayal** | Oldest austere Hindustani form (fixed composition) vs popular improvisatory form (bada/khuda bandish) | ध्रुपद / ख्याल |
-| **Khayal vs Thumri** | Serious classical raga exposition vs light romantic semi-classical (Bol Banav) | ख्याल / ठुमरी |
-| **Gharana vs Raga** | Stylistic **school/lineage** of performance vs melodic **framework** | घराना / राग |
-| **Tat vs Avanaddha** | Plucked string (sitar, tanpura) vs struck/membrane percussion (tabla, mridangam) | तत / अवनद्ध |
-| **Sushir vs Vitat** | Wind-blown (bansuri, shehnai) vs bowed string (sarangi, esraj) | सुषिर / वितत |
-| **Melakarta vs Janya** | 72 parent ragas in Carnatic system vs derived child ragas from melakarta | मेलकर्ता / जन्य |
-| **Alap vs Bandish** | Slow raga exploration without tala vs composed song text in fixed tala | आलाप / बंदिश |
-| **Tansen vs Amir Khusrau** | Akbar court dhrupad maestro vs Sufi poet-musician (qawwali, tarana; Nizamuddin disciple) | तानसेन / अमीर खुसरो |
+### Confused pairs
 
-### Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **H-C = North-South** | Hindustani (north) / Carnatic (south) |
-| **TDS Trinity** | **T**yagaraja, **D**ikshitar, **S**yama Sastri |
-| **72 Melakarta** | Carnatic systematic parent ragas |
-| **4 instrument families** | Tat-Vitat-Sushir-Avanaddha (TVSA) |
-| **GAKP gharanas** | Gwalior, Agra, Kirana, Patiala — top vocal schools |
-| **Tansen = Akbar + Dhrupad** | Not Carnatic; not Amir Khusrau |
-| **Khusrau = Nizamuddin** | UPPCS 2025 Q12: Amir Khusrau → guru 3 (Nizamuddin) |
-| **Bismillah = Shehnai + Banaras** | UP river-city music icon |
-| **Maihar = Allauddin Khan** | Sarod-sitar gharana; Ali Akbar Khan, Ravi Shankar link |
-| **7 Swaras = SRGMPDN** | Sa Re Ga Ma Pa Dha Ni |
+| A | B | Lock | Hindi |
+|---|----|------|-------|
+| Hindustani | Carnatic | North improvisation + gharana vs south kriti + 72 melakarta | हिंदुस्तानी / कर्नाटक |
+| Raga | Tala | Melody framework vs beat-cycle | राग / ताल |
+| Dhrupad | Khayal | Oldest + **pakhawaj** vs dominant today + **tabla** | ध्रुपद / ख्याल |
+| Khayal | Thumri | Full classical vs light romantic (Bol Banav) | ख्याल / ठुमरी |
+| Tappa | Thumri | Fast, camel-song origin, **Muhammad Shah** court vs Awadh–Banaras romantic | टप्पा / ठुमरी |
+| Gharana | Raga | Performance school vs melodic framework | घराना / राग |
+| Melakarta | Janya | 72 parent scales vs derived child ragas | मेलकर्ता / जन्य |
+| Tabla | Mridangam | Hindustani khayal vs Carnatic primary drum | तबला / मृदंगम |
+| Tabla | Pakhawaj | Khayal/thumri vs dhrupad | तबला / पखावज |
+| Shehnai | Nadaswaram | Hindustani reed, Banaras vs Carnatic temple reed | शहनाई / नादस्वरम् |
+| Tata | Vitat | Plucked string vs bowed string | तत / वितत |
+| Avanaddha | Ghana | Membrane drum vs solid/idiophone (manjira, ghatam) | अवनद्ध / घन |
+| Tansen | Amir Khusrau | Akbar dhrupad vs Nizamuddin, qawwali/tarana | तानसेन / अमीर खुसरो |
+| Tyagaraja | Tansen | Carnatic Rama kritis vs Hindustani Navaratna | त्यागराज / तानसेन |
 
 ---
 
 ## 5.1 Indian Music
 
-### Definitions (learn all — exams pick different ones)
+**Identity:** Raga–tala art music | Two classical branches after ~12th–13th c. | Folk and film run parallel
 
-| Source | Definition |
-|--------|------------|
-| **General** | **Indian music** = subcontinental tradition spanning **classical, devotional, folk, and film** — built on **raga** (melody) and **tala** (rhythm) principles |
-| **NCERT / Natyashastra** | **Sangeet** = union of **gita** (vocal), **vadya** (instrumental), **nritya** (dance) — three limbs of performing arts |
-| **Exam usage** | Two classical systems (Hindustani/Carnatic); folk separate; instrument families from Bharata's classification |
+- **Sangeet** is *gita* (vocal) + *vadya* (instrumental) + *nritya* (dance).
+- The earliest musical lock is **Samaveda** (chanted hymns). It is not a concert raga book.
+- The theory root is **Natyashastra** by **Bharata Muni**.
+- The first clear use of the word **raga** is **Matanga**, *Brihaddeshi*.
+- The medieval encyclopedia is **Sangeet Ratnakar** by **Sharngadeva** (**13th** c., Devagiri).
+- **Raga** is a melody framework. It is not “a Western scale.” It has aroha, avarohana, vadi, samvadi, rasa, and often a time/season.
+- **Tala** is a repeating beat-cycle. **Teental** is **16**. Carnatic **Adi tala** is **8**.
+- The seven swaras are **Sa Re Ga Ma Pa Dha Ni**.
+- Sanskrit names are Shadja, Rishabha, Gandhara, Madhyama, Panchama, Dhaivata and Nishada.
+- There are **22 shrutis** in an octave. This is finer than Western semitones.
+- The two classical systems are **Hindustani** (north) and **Carnatic** (south). Do not call Carnatic “southern Hindustani.”
+- Folk and film run parallel to classical. UP light locks are **Kajri**, **thumri** and **Begum Akhtar**.
+- Sangeet Natak Akademi was founded in **1952**, New Delhi. It is the apex body for music, dance and theatre.
 
-### Indian Music — How It Works
+### Treatise ↔ author (UPPCS match set)
 
-- **Indian music** is among the world's oldest continuous traditions. **Samaveda** (Vedic hymn chants) is earliest musical text. Melody patterns for ritual recitation.
-- **Natyashastra** (Bharata Muni, ~2nd c. BCE–2nd c. CE) codifies **music theory** alongside drama and dance. Foundational treatise for all classical performing arts.
-- **Two parallel classical systems** evolved after 12th–13th c. north-south cultural divergence:
-  - **Hindustani**. North/west/east India. Persian-Afghan influences. Improvisation-heavy.
-  - **Carnatic**. South India (Tamil Nadu, Karnataka, Andhra, Kerala). Composition-heavy, devotional.
-- **Raga** = melodic framework, nOT merely a scale. Defines **ascending (aroha)**, **descending (avarohana)**, **vadi/samvadi** (principal notes), **mood (rasa)**, and **time of day/season**.
-- **Tala** = rhythmic cycle. Repeating beat pattern (e.g. **Teental 16 beats**, **Adi tala 8 beats**). Hand gestures (kriyas) mark divisions.
-- **Shruti** = microtonal intervals includes 22 shrutis in an octave (Indian tuning finer than Western semitones).
-- **Seven swaras**: **Sa, Re, Ga, Ma, Pa, Dha, Ni** (Shadja, Rishabha, Gandhara, Madhyama, Panchama, Dhaivata, Nishada).
-- **Folk music** runs parallel includes **Bhangra** (Punjab), **Baul** (Bengal), **Lavani** (Maharashtra), **Brij rasiya** (UP Braj). Distinct from classical but shares raga concepts locally.
-- **Devotional streams**: **Bhajan, Kirtan, Shabad** (Gurudwara), **Qawwali** (Sufi), **Abhang** (Marathi). It bridge classical and popular worship.
-- **Modern era**: **Sangeet Natak Akademi (1952)**. Apex body. **Radio/TV/film** democratised music. **Fusion** (Ravi Shankar-Western) globalised Indian sound.
-- **Trap**: Indian classical ≠ only vocal. **Instrumental** (sitar, veena, flute) is equal classical tradition.
+**Lock:** book — writer — one extra fact.
 
-> **Exam note:** **Samaveda + Natyashastra** = ancient roots; **Hindustani/Carnatic** = two classical branches — never call Carnatic "Hindustani of south" (different grammar).
+- **Natyashastra** is by Bharata. It treats music + dance + drama together.
+- **Brihaddeshi** is by Matanga. It has the first **raga** word.
+- **Sangeet Ratnakar** is by Sharngadeva. Later writers call him the ocean of music.
+- **Ragamala** is by **Pundrik Vitthal**. It treats raga–ragini families. He also wrote *Sadragachandrodaya* and *Ragamanjari*.
+- **Rasa Kaumudi** is by **Sri Kantha**. It treats music, dance and rasa.
+- **Raga Vibodh / Ragavibodha** is by **Somanath** (~**1610**). It has janya–janaka talk. It describes veenas.
+- **Chaturdandi Prakashika** is by **Venkatamakhin / Venkatraman**. It sets out theoretical **melakarta** for Carnatic.
+- **Swaramelakalanidhi** is by Ramamatya (if asked). It is earlier south raga grouping.
 
-### Exam Facts (raata)
+> **Exam note:** UPPCS **2021 Q22** and **2022 Q108** use the same four pairs. The code is **Ragamala–Pundrik, Rasa Kaumudi–Sri Kantha, Raga Vibodh–Somanath, Chaturdandi–Venkatraman**.
 
-- Samaveda = earliest Indian musical text (Vedic chant)
-- **Natyashastra = Bharata Muni**. Music + dance + drama theory.
-- Sangeet = gita + vadya + nritya (vocal + instrumental + dance)
-- Two classical: Hindustani (north) + Carnatic (south)
-- Raga = melody framework. Tala = rhythm cycle.
-- 7 swaras: Sa Re Ga Ma Pa Dha Ni
-- 22 shrutis per octave
-- Folk parallel: Bhangra, Baul, Lavani, Brij rasiya
-- Sangeet Natak Akademi established **1952**
-- Devotional: bhajan, kirtan, qawwali, shabad
+**PYQ — UPPCS Prelims 2021, Q22**
 
-### PYQs — Indian Music
+Match List-I with List-II and select the correct answer using the codes given below the lists.
 
-1. **(UPSC Prelims 2020 — pattern)** With reference to Indian classical music, consider:
+**List-I (Text)**  
+A. Ragamala  
+B. Rasa Kaumudi  
+C. Raga Vibodh  
+D. Chaturdandi Prakashika  
 
-   1. Hindustani music is prevalent in North India.  
-   2. Carnatic music uses the melakarta system.
+**List-II (Author)**  
+1. Somanath  
+2. Venkatraman  
+3. Pundrik Vitthal  
+4. Sri Kantha  
 
-   → **Both correct.** Hindustani = north; Carnatic = 72 melakarta parent ragas.
+A. 3 4 1 2  
+B. 4 2 1 3  
+C. 2 3 4 1  
+D. 1 2 3 4
 
-2. **(UPSC Prelims 2016 — pattern)** Natyashastra is attributed to:
+<details>
+<summary>Show answer</summary>
 
-   A. Panini  B. Bharata Muni  C. Kalidasa  D. Patanjali  
-   → **B — Bharata Muni** (music, dance, drama treatise).
+**Ans: A** — 3 4 1 2.
 
-### Examples (5.1)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Samaveda chanting** | Vedic root of Indian musical thought |
-| **Brij rasiya, Mathura-UP** | Folk stream in Gangetic belt |
-| **Sangeet Natak Akademi awards** | National recognition of musicians (Topic 16 overlap) |
+</details>
 
 ---
 
 ## 5.2 Hindustani Classical Music
 
-### Definitions
+**Region:** North / west / east | **Grammar:** raga improvisation + tala | **Court mix:** Indian raga + Persian colour
 
-| Term | Meaning |
-|------|---------|
-| **Hindustani classical** | North Indian art music tradition — **raga-tala** improvisation with Persian-influenced aesthetics |
-| **Khayal** | Dominant Hindustani vocal form — **bada khayal** (slow) + **chhota khayal** (fast) in same raga |
-| **Dhrupad** | Oldest surviving Hindustani form — austere, fixed composition, **pakhwaj** accompaniment |
+- The performance arc (instrumental type) is **Alap** (no tala) → **Jor** (pulse) → **Jhala** (fast) → **Gat / Bandish** (in tala).
+- **Vadi** is the main note. **Samvadi** is the second main note.
+- Time theory is stronger here than in Carnatic. **Bhairav** is dawn. **Yaman** is evening.
+- The **10 thatas** of **V.N. Bhatkhande** are the modern Hindustani grouping. They are not the same as **72** melakarta.
+- **Vishnu Digambar Paluskar** stands for public concert + notation + Gandharva Mahavidyalaya.
+- Gharana is the school system. The oldest khayal gharana is **Gwalior**.
 
-### Hindustani Classical Music — How It Works
+### Vocal forms (one form, one lock)
 
-- **Hindustani music** crystallised in **Mughal courts** (16th–18th c.) blending **Indian raga** with **Persian maqam** aesthetics. It khayal replaced dhrupad dominance gradually.
-- **Performance structure** (typical instrumental/vocal):
-  - **Alap**. Slow, free-rhythm raga introduction.
-  - **Jor**. It pulse introduced, no tala yet.
-  - **Jhala**. Fast plucked/strumming climax (instrumental).
-  - **Gat/Bandish**. Composed melody in **tala** with improvisation (taans, sargam).
-- **Major vocal forms**:
+- **Dhrupad** is the oldest surviving art form. It is austere. The drum is **Pakhawaj**, not tabla.
+- Dhrupad revival names include **Dagar** bani. The Gwalior court of **Man Singh Tomar** is an early dhrupad home.
+- **Khayal** is the dominant concert form today. The drum is **Tabla**. It has bada (slow) + chhota (fast).
+- Khayal bloom is **Niyamat Khan Sadarang** and Adarang at **Muhammad Shah Rangeela’s** court.
+- **Thumri** is light classical. It is romantic *bol banav*. Centres are **Lucknow** and **Banaras** (**UP**).
+- **Tappa** is short, fast and ornate. It has a camel-song origin (Punjab/NW). It was refined at **Muhammad Shah’s** court.
+- The tappa composer lock is **Shori Miyan (Ghulam Nabi)**. It is not Akbar, not Jahangir, and not Shah Jahan.
+- **Tarana** uses nonsense syllables (*tom, ta, der*). It is a fast close. Tradition links **Amir Khusrau**.
+- **Ghazal** is Urdu poetry, semi-classical. **Begum Akhtar** (Faizabad–Lucknow) is the UP lock.
+- **Qawwali** is Sufi chorus. **Amir Khusrau** is the disciple of **Nizamuddin Auliya**.
+- **Dadra** is light, like thumri, often 6-beat.
+- **Hori / Kajri / Chaiti** are seasonal light forms. **Kajri** is monsoon of the **Mirzapur–Banaras belt (UP)**.
 
-  | Form | Character | Accompaniment |
-  |------|-----------|---------------|
-  | **Dhrupad** | Oldest, spiritual, austere | Pakhawaj + tanpura |
-  | **Khayal** | Popular, improvisatory | Tabla + tanpura + harmonium |
-  | **Thumri** | Light classical, romantic (Bol Banav) | Tabla + sarangi |
-  | **Tarana** | Syllables (tom, der, na) — fast finale | Tabla |
-  | **Ghazal** | Urdu poetry, semi-classical | Tabla + harmonium |
-  | **Qawwali** | Sufi devotional chorus | Harmonium + dholak |
+> **Exam note:** UPPCS **2023 Q38** — Tappa was refined in **Muhammad Shah’s** court, not Akbar’s.
 
-- **Raga exposition** uses **vadi** (sonant) and **samvadi** (consonant) swaras. It defines raga identity.
-- **Time theory (samay)**. Ragas tied to **time of day/season** (e.g. Bhairav = dawn, Yaman = evening). More emphasised in Hindustani.
-- **Gharana system**. Stylistic schools transmitting repertoire via **guru-shishya parampara** (see §5.4).
-- **Key ragas for exam**: **Bhairav, Yaman, Bhimpalasi, Malkauns, Darbari Kanada, Todi, Puriya Dhanashri**.
-- **Key talas**: **Teental (16)**, **Ektal (12)**, **Jhaptal (10)**, **Deepchandi (14)**, **Rupak (7)**.
-- **Persian influence**: court etiquette, **ghazal** form, instrument modifications (sitar development).
-- **Trap**: **Khayal ≠ Thumri**. Khayal = full classical weight. Thumri = light/romantic with "Bol Banav" (playful word-painting).
+**PYQ — UPPCS Prelims 2023, Q38**
 
-> **Exam note:** **Dhrupad = oldest + pakhawaj**; **Khayal = most performed today + tabla** — form-instrument matching trap.
+The Tappa style of music was refined and developed in the court of which of the following Mughal Emperors?
 
-### Exam Facts (raata)
+A. Akbar  
+B. Jahangir  
+C. Shah Jahan  
+D. Muhammad Shah
 
-- Hindustani = north India. Mughal-Persian influence.
-- A typical performance arc runs **Alap**, then **Jor**, then **Jhala**, then **Gat/Bandish**.
-- Dhrupad = oldest form. Pakhawaj accompaniment.
-- Khayal = dominant form today. Tabla accompaniment.
-- Thumri = light classical, romantic, Bol Banav
-- Tarana = rhythmic syllable composition
-- Ghazal = Urdu poetry sung form
-- Qawwali = Sufi devotional (Amir Khusrau tradition)
-- Vadi/samvadi = principal swaras of raga
-- Teental = 16-beat tala (most common)
+<details>
+<summary>Show answer</summary>
 
-### PYQs — Hindustani Classical Music
+**Ans: D — Muhammad Shah.**
 
-1. **(UPSC Prelims 2019 — pattern)** Dhrupad is accompanied by:
-
-   A. Tabla  B. Pakhawaj  C. Mridangam  D. Ghatam  
-   → **B — Pakhawaj** (barrel drum). Tabla = khayal/thumri.
-
-2. **(UPSC Prelims 2017 — pattern)** Which is a light classical form?
-
-   A. Dhrupad  B. Khayal  C. Thumri  D. Alap  
-   → **C — Thumri** (light classical). Dhrupad/khayal = full classical.
-
-### Examples (5.2)
-
-| Example | Detail |
-|---------|--------|
-| **Khayal in raga Yaman** | Evening raga — standard concert opener |
-| **Dhrupad by Dagar brothers** | Modern dhrupad revival tradition |
-| **Thumri in Varanasi/Lucknow** | UP centres of light classical |
+</details>
 
 ---
 
 ## 5.3 Carnatic Classical Music
 
-### Definitions
+**Region:** Tamil Nadu, Karnataka, Andhra/Telangana, Kerala | **Core form:** **kriti** | **Bhakti** more than Mughal court
 
-| Term | Meaning |
-|------|---------|
-| **Carnatic music** | South Indian classical tradition — **kriti**-centred, highly systematised raga classification, devotional orientation |
-| **Kriti** | Main Carnatic composition form — **pallavi, anupallavi, charanam** sections with composer signature (mudra) |
-| **Melakarta** | System of **72 parent ragas** — complete scale permutations in Carnatic theory |
+- **Kriti** parts are pallavi → anupallavi → charanam. The composer *mudra* sits inside the song.
+- **72 Melakarta** are parent (sampurna) ragas. Child ragas are **janya**.
+- The melakarta theory text is **Chaturdandi Prakashika** by **Venkatamakhin**.
+- The concert spine is varnam → kriti (niraval + kalpana swaras) → **Ragam–Tanam–Pallavi** → **tani avartanam**.
+- The main tala is **Adi (8)**. Also used are Rupaka and Chapu.
+- The main drum is **mridangam**. It is not tabla.
+- **Violin** entered Carnatic via **Baluswami Dikshitar** (Muthuswami’s brother). It is now a standard accompaniment.
 
-### Carnatic Classical Music — How It Works
+### Trinity (18th–19th c., Thanjavur belt)
 
-- **Carnatic music** is rooted in **Bhakti movement**. Compositions praise **Rama, Krishna, Devi**. Predominantly devotional unlike court-centric Hindustani origins.
-- **Trinity of Carnatic composers** (18th–19th c.):
+**Lock:** name — language — deity.
 
-  | Composer | Period | Patron/Region | Specialty |
-  |----------|--------|---------------|-----------|
-  | **Tyagaraja** | 1767–1847 | Thanjavur/Tiruvaiyaru | Rama bhakti, Telugu kritis, largest output (~24,000 songs tradition) |
-  | **Muthuswami Dikshitar** | 1775–1835 | Tamil Nadu | Sanskrit kritis, Devi/Shiva, Hindustani raga influence |
-  | **Syama Sastri** | 1762–1827 | Thanjavur | Devi (kamakshi) kritis, tala complexity |
+- **Tyagaraja** (**1767–1847**) wrote in **Telugu** on **Rama**. He has the largest output. He is linked to Tiruvaiyaru.
+- **Muthuswami Dikshitar** (**1775–1835**) wrote in **Sanskrit** on Devi/Shiva. He has some Hindustani raga colour.
+- **Syama Sastri** (**1762–1827**) wrote on Devi (**Kamakshi**). He is known for tala difficulty.
+- These are **not** in the Trinity: Tansen, Khusrau and Purandara Dasa.
+- **Purandara Dasa** (**16th** c., Vijayanagara) is “Pitamaha of Carnatic music” if the paper asks a founder-teacher before the Trinity.
+- **Tyagaraja Aradhana** is at **Thiruvaiyaru**, January. Musicians sing the **Pancharatna** kritis together.
 
-- **Tyagaraja Aradhana**. Annual music festival at **Thiruvaiyaru** (Tamil Nadu) in **January**. Musicians sing **Pancharatna kritis** in unison.
-- **Melakarta system**: **72 parent ragas** (Sampurna. All 7 swaras in aroha/avarohana). Systematic unlike Hindustani's descriptive tradition.
-- **Janya ragas** = derived scales from melakarta parents. Hundreds of child ragas.
-- **Carnatic performance structure**:
-  - **Varnam**. Warm-up composition (teaches raga+tala).
-  - **Kriti**. Main item with **niraval** (improvised line) and **kalpana swaras** (improvised swara passages).
-  - **Ragam-tanam-pallavi** (RTP). Advanced improvisation suite.
-  - **Tani avartanam**. Percussion solo.
-- **Primary tala**: **Adi tala (8 beats)**, **Rupaka tala (3)**, **Misra chapu (7)**, **Khanda chapu (5)**.
-- **Instruments**: **mridangam** (primary percussion), **veena, violin, flute, gottuvadhyam, ghatam, kanjira**.
-- **Violin** adapted by **Baluswami Dikshitar** (Muthuswami's brother). Now essential Carnatic accompaniment.
-- **Trap**: **Carnatic Trinity = Tyagaraja, Dikshitar, Syama Sastri**. NOT Tansen, NOT Amir Khusrau.
-
-> **Exam note:** **Tyagaraja = Rama bhakti, Telugu, Pancharatna**; **Dikshitar = Sanskrit, Devi** — Trinity composer-theme matching.
-
-### Exam Facts (raata)
-
-- Carnatic = south India. Kriti-based, devotional.
-- Trinity: Tyagaraja, Muthuswami Dikshitar, Syama Sastri
-- 72 Melakarta parent ragas
-- **Tyagaraja Aradhana**. Thiruvaiyaru, January.
-- Pancharatna kritis = five gems of Tyagaraja
-- Kriti = pallavi + anupallavi + charanam
-- Mridangam = primary Carnatic percussion
-- Adi tala = 8 beats (most common)
-- Baluswami Dikshitar introduced violin to Carnatic
-- Niraval + kalpana swaras = improvisation in kriti
-
-### PYQs — Carnatic Classical Music
-
-1. **(UPSC Prelims 2021 — pattern)** Tyagaraja composed primarily in:
-
-   A. Sanskrit  B. Telugu  C. Tamil  D. Kannada  
-   → **B — Telugu** (majority kritis). Dikshitar = Sanskrit predominant.
-
-2. **(UPSC Prelims 2018 — pattern)** Carnatic music's melakarta system has:
-
-   A. 12 ragas  B. 36 ragas  C. 72 ragas  D. 100 ragas  
-   → **C — 72 melakarta** parent ragas.
-
-### Examples (5.3)
-
-| Example | Detail |
-|---------|--------|
-| **Pancharatna kritis, Tyagaraja** | Endaro Mahanubhavulu, Jagadanandakaraka — five gems |
-| **Tyagaraja Aradhana, Thiruvaiyaru** | Annual January festival |
-| **Mridangam accompaniment** | Primary tala keeper in Carnatic concert |
+> **Exam note:** **Tyagaraja** is Telugu Rama. **Dikshitar** is Sanskrit. The Trinity never includes Tansen.
 
 ---
 
 ## 5.4 Major Gharanas
 
-### Definitions
+**Identity:** Hindustani stylistic house via **guru–shishya**. Named for a place or a founder.
 
-| Term | Meaning |
-|------|---------|
-| **Gharana** | **Stylistic school** of Hindustani music — unique performance aesthetic, repertoire, and technique transmitted through **guru-shishya parampara** |
-| **Guru-shishya parampara** | Master-disciple lineage — oral transmission of raga secrets, taan patterns, bandishes |
-| **Baaj** | Distinctive performance style of a gharana (e.g. Kirana baaj = slow, sustained notes) |
+- Gharana is a **Hindustani** idea. Carnatic lines run by composer, not gharana.
+- **Baaj** is that house’s playing/singing feel.
 
-### Major Gharanas — How It Works
+### Vocal (one house, one artist lock)
 
-- **Gharana** literally means **"house/household"**. It stylistic family named after place of origin or founder (e.g. Gwalior, Kirana, Agra).
-- **Gharanas apply primarily to Hindustani** music. Carnatic uses **composer lineage** (Trinity) rather than gharana schools.
-- **Vocal gharanas** (major. Complete list):.
+- **Gwalior** is the oldest khayal house. It has clear taans. The line is **Haddu–Hassu Khan**. Paluskar taught from this soil.
+- **Agra** is **UP**. It has a deep voice. It keeps dhrupad colour inside khayal.
+- **Faiyaz Khan** is Agra.
+- **Kirana** is Kirana village, **UP** (near Rampur belt). It is slow, tuneful, with microtones.
+- **Abdul Karim Khan** is Kirana.
+- **Bhimsen Joshi** is Kirana.
+- **Gangubai Hangal** is Kirana.
+- **Jaipur–Atrauli** has rare ragas and layakari.
+- **Kishori Amonkar** is Jaipur–Atrauli.
+- **Mallikarjun Mansur** is Jaipur–Atrauli.
+- **Patiala** is Punjab. It has open throat and ornaments.
+- **Bade Ghulam Ali Khan** is Patiala.
+- **Rampur–Sahaswan** is **UP**. It has refined taans.
+- **Rashid Khan** is Rampur–Sahaswan.
+- **Mewati** is bhajan-coloured khayal.
+- **Pandit Jasraj** is Mewati.
+- **Bhendi Bazar** is Mumbai. It uses note-stretching. The line is Aman Ali Khan.
+- **Delhi** is an older court house. It is a tarana/qawwali neighbour.
 
-  | Gharana | Centre/Origin | Distinctive Feature | Notable Musicians |
-  |---------|---------------|---------------------|-------------------|
-  | **Gwalior** | Gwalior, MP | Oldest khayal gharana; clear taans; balanced | Vishnu Digambar Paluskar, Kumar Gandharva (later) |
-  | **Agra** | Agra, UP | Deep, powerful voice; dhrupad-khayal fusion | Faiyaz Khan, Dinkar Kaikini |
-  | **Kirana** | Kirana, UP (Rampur region) | Slow, sustained **gamak**, microtonal precision | Abdul Karim Khan, Bhimsen Joshi, Gangubai Hangal |
-  | **Jaipur-Atrauli** | Rajasthan | Complex layakari (rhythmic play), rare ragas | Kishori Amonkar, Mallikarjun Mansur |
-  | **Patiala** | Punjab | Ornamentation, lively taans, robust voice | Bade Ghulam Ali Khan |
-  | **Rampur-Sahaswan** | UP | Middle-range voice, refined taans | Rashid Khan |
-  | **Bhendi Bazaar** | Mumbai | Unique note-stretching, urban tradition | Aman Ali Khan |
-  | **Mewati** | Rajasthan/Haryana | Bhajan-khayal fusion, devotional | Pandit Jasraj |
-  | **Delhi** | Delhi | Tarana, dhrupad-khayal, Qawwali link | Chand Khan, Tanras Khan |
+### Instrumental
 
-- **Instrumental gharanas**:
+- **Maihar** is the house of **Allauddin Khan** (Maihar, **MP**).
+- **Ali Akbar Khan** is a Maihar sarod/sitar disciple.
+- **Ravi Shankar** is a Maihar sarod/sitar disciple.
+- **Annapurna Devi** is a Maihar sarod/sitar disciple.
+- **Imdadkhani / Etawah** is sitar.
+- **Vilayat Khan** is Imdadkhani.
+- **Senia** is the **Tansen** line. It has a multi-instrument claim.
+- **Punjab** is a tabla *baaj* name if the paper matches drums.
+- **Farukhabad** is a tabla *baaj* name if the paper matches drums.
+- **Ajrada** is a tabla *baaj* name if the paper matches drums.
+- **Lucknow** is a tabla *baaj* name if the paper matches drums.
 
-  | Gharana | Instrument | Founder/Key Figure |
-  |---------|------------|---------------------|
-  | **Maihar** | Sarod, sitar | Baba **Allauddin Khan** (Maihar, MP) |
-  | **Imdadkhani/Etawah** | Sitar | **Imdad Khan** → Vilayat Khan, Imrat Khan |
-  | **Senia** | Multi-instrument | **Mian Tansen** lineage (Baiju Bawra tradition) |
-  | **Lucknow (tabla)** | Tabla | **Modhu Khan** lineage |
-
-- **Gharana transmission**: secret **bandishes**, **taan patterns**, **raga interpretations** passed orally: notation secondary.
-- **Kirana gharana** linked to **UP** (Kirana village, near Rampur). Exam geography favourite.
-- **Agra gharana**. Direct **UP** link (Agra city).
-- **Cross-pollination**: Artists learn from multiple gharanas. Strict purity rare in modern era.
-- **Trap**: **Gharana ≠ Raga**. It gharana is **school of performance**. Raga is **melodic framework**.
-
-> **Exam note:** **Kirana = Bhimsen Joshi + Gangubai**; **Jaipur-Atrauli = Kishori Amonkar**; **Patiala = Bade Ghulam Ali Khan** — artist-gharana pairs.
-
-### Exam Facts (raata)
-
-- Gharana = stylistic school via guru-shishya parampara
-- **Hindustani phenomenon**. Not Carnatic gharana system.
-- Gwalior = oldest khayal gharana
-- Kirana = UP origin. Gamak, microtones. Bhimsen Joshi.
-- Agra = UP. Deep voice, dhrupad influence.
-- Jaipur-Atrauli = complex layakari. Kishori Amonkar.
-- Patiala = Bade Ghulam Ali Khan
-- Maihar = Allauddin Khan. Sarod-sitar.
-- Imdadkhani = sitar. Vilayat Khan.
-- Mewati = Pandit Jasraj
-
-### PYQs — Major Gharanas
-
-1. **(UPSC Prelims 2020 — pattern)** Bhimsen Joshi belonged to:
-
-   A. Gwalior gharana  B. Kirana gharana  C. Patiala gharana  D. Agra gharana  
-   → **B — Kirana gharana.**
-
-2. **(UPSC Prelims 2016 — pattern)** Maihar gharana is associated with:
-
-   A. Tabla  B. Sarod and sitar  C. Flute  D. Shehnai  
-   → **B — Maihar gharana** (Allauddin Khan — sarod, sitar).
-
-### Examples (5.4)
-
-| Example | Detail |
-|---------|--------|
-| **Kirana gharana, UP** | Kirana village — Bhimsen Joshi, Abdul Karim Khan |
-| **Agra gharana** | Agra city — Faiyaz Khan tradition |
-| **Maihar gharana** | Allauddin Khan → Ali Akbar Khan, Annapurna Devi |
+> **Exam note:** **Kirana** is **Bhimsen Joshi**. **Patiala** is **Bade Ghulam Ali Khan**. **Maihar** is **Allauddin Khan**. Gharana is not raga.
 
 ---
 
 ## 5.5 Musical Instruments
 
-### Definitions
+**Bharata’s four:** Tata (string) | Avanaddha (membrane) | Ghana (solid) | Sushira (wind)
 
-| Term | Meaning |
-|------|---------|
-| **Tat vadya** | **Plucked string** instruments — sound from stretched string (sitar, sarod, veena, tanpura) |
-| **Avanaddha vadya** | **Percussion/membrane** instruments — struck drums (tabla, pakhawaj, mridangam, ghatam) |
-| **Sushir vadya** | **Wind** instruments — air column vibration (bansuri, shehnai, nadaswaram, flute) |
-| **Vitat vadya** | **Bowed string** instruments — bow on strings (sarangi, esraj, violin in Indian style) |
+Later exam set splits string into **Tata** as plucked and **Vitat** as bowed.
 
-### Musical Instruments — How It Works
+### Family locks
 
-- **Bharata's Natyashastra** classifies instruments into **four families**. It still used in Indian musicology today.
-- **Complete four-family classification**:
+- **Tata / Tat** is plucked string. Examples are sitar, sarod, veena and tanpura.
+- **Vitat** is bowed string. Examples are sarangi, esraj and violin.
+- **Sushira / Sushir** is wind. Examples are bansuri, shehnai, nadaswaram and shankh.
+- **Avanaddha** is membrane drum. Examples are tabla, pakhawaj, mridangam and dholak.
+- **Ghana** is solid, with no skin. **Manjira** and kartal belong here. **Ghatam** is a clay pot. Park it in **Ghana**, not tabla-class.
 
-  | Family (Vadya) | Mechanism | Instruments |
-  |----------------|-----------|-------------|
-  | **Tat** | Plucked string | **Sitar, Sarod, Veena (Saraswati/Rudra), Tanpura, Ektara, Dotara, Surbahar** |
-  | **Vitat** | Bowed string | **Sarangi, Esraj, Violin** (Carnatic/Hindustani bowing) |
-  | **Sushir** | Wind/blown | **Bansuri (flute), Shehnai, Nadaswaram, Shankh (conch), Harmonium** (reed — debated class) |
-  | **Avanaddha** | Membrane percussion | **Tabla, Pakhawaj, Mridangam, Ghatam, Kanjira, Dholak, Chenda, Manjira** |
+### One instrument, one lock
 
-- **Sitar** includes **Hindustani** plucked lute. **Gourd resonator**. **Movable frets**. Popularised globally by **Ravi Shankar**. Frets adjusted for microtones.
-- **Sarod** includes **Hindustani** fretless lute. **Metal fingerboard**. Ali Akbar Khan, Amjad Ali Khan masters.
-- **Veena** includes **Carnatic** primary string (Saraswati veena). **Ancient** instrument in sculptures. Rudra veena = Hindustani dhrupad.
-- **Tanpura** includes **drone instrument**. Four/five strings. Continuous **Sa-Pa-Sa** drone in both traditions. Not melodic solo.
-- **Tabla** includes **Hindustani** paired drums (dayan/bayan). **16+ bol syllables** (dha, tin, na, ta). Zakir Hussain global icon.
-- **Pakhawaj** includes **barrel drum** for **dhrupad**. Bass + treble heads. Horizontal play.
-- **Mridangam** includes **Carnatic primary percussion**. Double-headed. Pitched heads. Tani avartanam solos.
-- **Bansuri** includes **bamboo transverse flute**. **Hindustani** (Hariprasad Chaurasia). Lord Krishna association.
-- **Shehnai**. **Reed pipe**. **Bismillah Khan** made it concert instrument. **UP Varanasi** icon. Weddings/religious.
-- **Nadaswaram** includes **Carnatic wind**. Double-reed. Temple ceremonies. South India.
-- **Sarangi** includes **Hindustani bowed**. **Human-voice mimic**. Traditional **vocal accompaniment**. 3 main strings + sympathetic.
-- **Ghatam** includes **Carnatic clay pot percussion**. Pitched. Circular rim strike.
-- **Trap**: **Mridangam = Carnatic**. **Tabla = Hindustani**. Don't swap percussion-tradition pairs.
+- **Sitar** is a Hindustani lute. It has a gourd and movable frets.
+- **Ravi Shankar** is the sitar lock.
+- **Sarod** is fretless. It has a metal fingerboard.
+- **Amjad Ali Khan** is sarod.
+- **Ali Akbar Khan** is sarod.
+- **Saraswati veena** is the Carnatic main plucked lute.
+- **Rudra veena** is Hindustani. It is dhrupad. It is not the same as Saraswati veena.
+- **Tanpura** is drone only. It is not a melody soloist.
+- **Sarangi** is bowed. It is closest to the human voice. It is vocal accompaniment.
+- **Bansuri** is a bamboo flute. It has Krishna iconography.
+- **Hariprasad Chaurasia** is bansuri.
+- **Shehnai** is a Hindustani reed.
+- **Bismillah Khan** of **Varanasi (UP)** gave shehnai concert status.
+- **Nadaswaram** is a Carnatic temple reed. It is longer and louder than shehnai.
+- **Tabla** is paired drums. It is Hindustani khayal/thumri.
+- **Alla Rakha** is tabla.
+- **Zakir Hussain** is tabla.
+- **Pakhawaj** is a barrel drum. It is **Dhrupad** only in the standard match.
+- **Mridangam** is the Carnatic main drum.
+- **Palghat Mani Iyer** is mridangam.
+- **Kanjira** is a Carnatic frame drum.
+- **Harmonium** is a reed-box. It is used in khayal/ghazal. Purists argue it is not a classical Indian *vadya*.
 
-> **Exam note:** **Four families: Tat-Vitat-Sushir-Avanaddha** — classify **sitar=tat, sarangi=vitat, bansuri=sushir, tabla=avanaddha**.
-
-### Exam Facts (raata)
-
-- Four families: Tat, Vitat, Sushir, Avanaddha (Natyashastra)
-- Sitar, sarod, veena, tanpura = Tat (plucked)
-- Sarangi, esraj, violin = Vitat (bowed)
-- Bansuri, shehnai, nadaswaram = Sushir (wind)
-- Tabla, pakhawaj, mridangam, ghatam = Avanaddha (percussion)
-- Tanpura = drone (not solo melodic)
-- Tabla = Hindustani. Mridangam = Carnatic.
-- Pakhawaj = dhrupad percussion
-- Shehnai = Bismillah Khan, Varanasi
-- Sitar = Ravi Shankar global ambassador
-
-### PYQs — Musical Instruments
-
-1. **(UPSC Prelims 2019 — pattern)** Sarangi is classified as:
-
-   A. Tat vadya  B. Vitat vadya  C. Sushir vadya  D. Avanaddha vadya  
-   → **B — Vitat vadya** (bowed string).
-
-2. **(UPSC Prelims 2017 — pattern)** Mridangam is primarily used in:
-
-   A. Hindustani music  B. Carnatic music  C. Qawwali  D. Folk Bhangra  
-   → **B — Carnatic music** primary percussion.
-
-### Examples (5.5)
-
-| Example | Detail |
-|---------|--------|
-| **Tanpura drone** | Essential in both Hindustani and Carnatic concerts |
-| **Shehnai at Kashi Vishwanath** | Bismillah Khan — Varanasi UP association |
-| **Mridangam in Carnatic kutcheri** | Primary rhythm keeper |
+> **Exam note:** Sitar is Tata. Sarangi is Vitat. Shehnai is Sushira. Tabla is Avanaddha. Ghatam is not tabla family.
 
 ---
 
 ## 5.6 Musicians of India
 
-### Definitions
+**Lock:** name — job — one exam fact.
 
-| Term | Meaning |
-|------|---------|
-| **Sangeet Samrat** | Title for **Tansen** — greatest musician of Akbar's court |
-| **Sangeet Kalanidhi** | Prestigious title by **Madras Music Academy** for Carnatic musicians |
-| **Ustad/Pandit** | Honorific for master musicians — Ustad (often Muslim lineage), Pandit (Hindu/scholarly) |
+### Medieval / foundation
 
-### Musicians of India — How It Works
+- **Amir Khusrau** is qawwali and tarana tradition. He is the disciple of **Nizamuddin Auliya**.
+- **Swami Haridas** is Vrindavan. Tradition makes him **Tansen’s** teacher. He is Braj / UP.
+- **Tansen** (Ramtanu) is **dhrupad**. He is Akbar’s **Navaratna**. He is Senia line, Gwalior soil.
+- Before Akbar, Tansen’s patron is **Raja Ramchandra Singh of Bhata / Rewa**.
+- The title **Miyan** is linked to Akbar’s court. Do not say Akbar *invented* Tansen’s art.
+- **Baiju Bawra** is a legendary dhrupad rival. He is semi-historical.
 
-- **Medieval/foundation figures**:
+### Hindustani vocal
 
-  | Musician | Period | Contribution | Trap |
-  |----------|--------|--------------|------|
-  | **Tansen** (Ramtanu Pandey) | 16th c. | Akbar's **Navaratna**; **dhrupad** master; Senia gharana founder | NOT Carnatic; born near Gwalior |
-  | **Baiju Bawra** | 16th c. | Legendary rival of Tansen; dhrupad tradition | Semi-legendary |
-  | **Amir Khusrau** | 13th–14th c. | **Qawwali** pioneer, **tarana** form, **Persian-Hindi** musical synthesis; **Nizamuddin Auliya's disciple** | Tabla invention attributed (debated) |
-  | **Swami Haridas** | 16th c. | Vrindavan saint-musician; Tansen's guru (tradition) | Braj/UP link |
+- **Abdul Karim Khan** is the Kirana founder-figure.
+- **Bhimsen Joshi** is Kirana. He received Bharat Ratna **2008**.
+- **Gangubai Hangal** is Kirana. She is Karnataka, not UP birth.
+- **Bade Ghulam Ali Khan** is Patiala. He sang khayal + thumri.
+- **Kishori Amonkar** is Jaipur–Atrauli.
+- **Pandit Jasraj** is Mewati.
+- **Faiyaz Khan** is Agra.
+- **Begum Akhtar** is ghazal / thumri. She is **Faizabad–Lucknow (UP)**.
+- **Girija Devi** is Banaras thumri. She is **UP**.
 
-- **Carnatic Trinity** (repeated for exam): **Tyagaraja, Muthuswami Dikshitar, Syama Sastri** and see §5.3.
-- **Hindustani vocal legends (modern)**:
+### Instrumental
 
-  | Musician | Gharana/Tradition | Instrument/Form |
-  |----------|-------------------|-----------------|
-  | **Pandit Bhimsen Joshi** | Kirana | Khayal vocal |
-  | **Ustad Bade Ghulam Ali Khan** | Patiala | Khayal/thumri |
-  | **Kishori Amonkar** | Jaipur-Atrauli | Khayal vocal |
-  | **Pandit Jasraj** | Mewati | Khayal/bhajan |
-  | **Begum Akhtar** | Lucknow ghazal | Ghazal/thumri (**UP** — Faizabad) |
-  | **Gangubai Hangal** | Kirana | Khayal vocal (Karnataka) |
+- **Allauddin Khan** is the Maihar founder. He is a sarod/sitar teacher.
+- **Ravi Shankar** is sitar. He is Maihar. He received Bharat Ratna **1999**.
+- **Ali Akbar Khan** is sarod. He is Maihar.
+- **Vilayat Khan** is sitar. He is Imdadkhani.
+- **Amjad Ali Khan** is sarod.
+- **Bismillah Khan** is **shehnai**. He is **Varanasi**. He received Bharat Ratna **2001**. Independence-Day Red Fort is a lock in many papers.
+- **Hariprasad Chaurasia** is bansuri.
+- **Alla Rakha** is tabla. He is Punjab gharana.
+- **Zakir Hussain** is tabla. He died **15 Dec 2024**. He received Padma Vibhushan **2023**. He is not shehnai.
 
-- **Instrumental masters**:
+### Carnatic
 
-  | Musician | Instrument | Gharana/Note |
-  |----------|------------|--------------|
-  | **Ustad Bismillah Khan** | Shehnai | **Varanasi, UP**; Bharat Ratna 2001 |
-  | **Pandit Ravi Shankar** | Sitar | Maihar gharana; global ambassador |
-  | **Ustad Ali Akbar Khan** | Sarod | Maihar; Allauddin Khan's son |
-  | **Pandit Hariprasad Chaurasia** | Bansuri (flute) | Hindustani classical flute |
-  | **Ustad Zakir Hussain** | Tabla | Son of Alla Rakha; global percussion |
-  | **Ustad Vilayat Khan** | Sitar | Imdadkhani gharana |
-  | **Ustad Amjad Ali Khan** | Sarod | Sarod maestro |
+- **Purandara Dasa** is early pedagogy. He wrote Kannada *devaranama*.
+- **Tyagaraja** wrote Telugu Rama *kritis*.
+- **Muthuswami Dikshitar** wrote Sanskrit *kritis*.
+- **Syama Sastri** wrote Devi *kritis*.
+- **M.S. Subbulakshmi** is Carnatic vocal. She is the first musician **Bharat Ratna (1998)**. UN concert is a lock.
+- **Semmangudi Srinivasa Iyer** is Carnatic vocal.
+- **Lalgudi Jayaraman** is violin.
+- **Palghat Mani Iyer** is mridangam.
+- **Balamuralikrishna** is vocal + composer.
 
-- **Carnatic vocal/instrumental**:
+### Festivals (name–place)
 
-  | Musician | Speciality |
-  |----------|------------|
-  | **M.S. Subbulakshmi** | Carnatic vocal; Bharat Ratna; first musician BR |
-  | **Lalgudi Jayaraman** | Violin maestro |
-  | **Ustad Allauddin Khan** | Sarod/sitar; Maihar gharana founder |
-  | **Palghat Mani Iyer** | Mridangam legend |
+- **Tansen Samaroh** is at **Gwalior**, December. It is a tomb festival. It is **MP**, not UP.
+- **Tyagaraja Aradhana** is at Thiruvaiyaru, January.
+- **Sawai Gandharva** is at Pune. It is the Paluskar–Bhimsen line.
 
-- **UPPCS 2025 link**: **Amir Khusrau** leads to **Nizamuddin Auliya** (Q12 disciple-guru match). Khusrau's musical legacy = qawwali, tarana.**.
-- **Awards**: **Bharat Ratna** to M.S. Subbulakshmi, Ravi Shankar, Bismillah Khan, Bhimsen Joshi, Pandit Jasraj. **Sangeet Natak Akademi Fellowship** = highest Akademi honour.
-- **Festivals**: **Tansen Samaroh** (Gwalior, December). National music festival at Tansen's tomb.
-- **Trap**: **Bismillah Khan = Shehnai** (not tabla). **Zakir Hussain = Tabla** (not shehnai).
+> **Exam note:** UPPCS **2019 Q89** — Tansen before Akbar is **Raja Ramchandra of Bhata**. **Bismillah** is shehnai + Banaras. MS Subbulakshmi is not Hindustani.
 
-> **Exam note:** **UP musicians** — Bismillah Khan (Varanasi), Begum Akhtar (Faizabad/Lucknow), Agra/Kirana gharana UP geography.
+**PYQ — UPPCS Prelims 2019, Q89**
 
-### Exam Facts (raata)
+Who among the following kings had given patronage to Tansen before Akbar?
 
-- Tansen = Akbar's Navaratna. Dhrupad. Senia gharana.
-- Amir Khusrau = qawwali, tarana. Nizamuddin Auliya's disciple.
-- Bhimsen Joshi = Kirana gharana. Bharat Ratna.
-- Bismillah Khan = shehnai. Varanasi. Bharat Ratna 2001.
-- Ravi Shankar = sitar. Maihar. Global icon.
-- Zakir Hussain = tabla. Alla Rakha's son.
-- MS Subbulakshmi = Carnatic vocal. First musician Bharat Ratna.
-- Begum Akhtar = ghazal. Lucknow-Faizabad UP.
-- Tansen Samaroh = Gwalior (December)
-- Tyagaraja = Carnatic Trinity (NOT Hindustani)
-
-### PYQs — Musicians of India
-
-1. **(UPPCS Prelims 2025 — Q12)** Match disciple-guru: Amir Khusrau → Nizamuddin Auliya (option 3).  
-   → **Ans: C — 2 3 4 1** (Kabir-Ramananda, Khusrau-Nizamuddin, Surdas-Vallabhacharya, Mardana-Nanak).
-
-2. **(UPSC Prelims 2020 — pattern)** Bismillah Khan was associated with:
-
-   A. Sitar  B. Shehnai  C. Sarod  D. Tabla  
-   → **B — Shehnai** (Varanasi).
-
-### Examples (5.6)
-
-| Example | Detail |
-|---------|--------|
-| **Bismillah Khan, Varanasi** | Shehnai at Kashi Vishwanath — UP icon |
-| **Begum Akhtar, Lucknow** | Ghazal queen of Awadh |
-| **Tansen Samaroh, Gwalior** | Annual festival at Tansen tomb |
-
----
-
-## Consolidated Reference — Everything in One Place
-
-### Hindustani vs Carnatic — Master Comparison
-
-| Feature | Hindustani | Carnatic |
-|---------|------------|----------|
-| **Region** | North/West/East India | South India (TN, Karnataka, AP, Kerala) |
-| **Primary form** | Khayal, Dhrupad | Kriti |
-| **Improvisation** | Heavy (alap, taan) | Structured (niraval, kalpana swaras) |
-| **Raga system** | Descriptive tradition | 72 Melakarta parent ragas |
-| **Main percussion** | Tabla (khayal), Pakhawaj (dhrupad) | Mridangam |
-| **Composers** | Gharana bandish makers | Trinity: Tyagaraja, Dikshitar, Syama Sastri |
-| **Influence** | Persian/Mughal court | Bhakti devotional |
-| **Key festival** | Tansen Samaroh (Gwalior) | Tyagaraja Aradhana (Thiruvaiyaru) |
-
-### Hindustani Vocal Forms — Complete Table
-
-| Form | Weight | Typical Accompaniment | Key Feature |
-|------|--------|----------------------|-------------|
-| **Dhrupad** | Full classical (oldest) | Pakhawaj + tanpura | Austere, fixed composition |
-| **Khayal** | Full classical (dominant) | Tabla + tanpura + harmonium | Bada + chhota khayal |
-| **Thumri** | Light classical | Tabla + sarangi | Bol Banav, romantic |
-| **Tarana** | Light/technical | Tabla | Syllables (tom, der, na) |
-| **Ghazal** | Semi-classical | Tabla + harmonium | Urdu poetry |
-| **Qawwali** | Sufi devotional | Harmonium + dholak | Chorus, Amir Khusrau tradition |
-
-### Major Gharanas — Complete List
-
-| Gharana | Type | Origin | Notable Artist |
-|---------|------|--------|----------------|
-| **Gwalior** | Vocal | Gwalior, MP | Vishnu Digambar Paluskar |
-| **Agra** | Vocal | Agra, UP | Faiyaz Khan |
-| **Kirana** | Vocal | Kirana, UP | Bhimsen Joshi, Abdul Karim Khan |
-| **Jaipur-Atrauli** | Vocal | Rajasthan | Kishori Amonkar |
-| **Patiala** | Vocal | Punjab | Bade Ghulam Ali Khan |
-| **Rampur-Sahaswan** | Vocal | UP | Rashid Khan |
-| **Bhendi Bazaar** | Vocal | Mumbai | Aman Ali Khan |
-| **Mewati** | Vocal | Rajasthan/Haryana | Pandit Jasraj |
-| **Maihar** | Instrumental | Maihar, MP | Allauddin Khan, Ravi Shankar |
-| **Imdadkhani/Etawah** | Instrumental (sitar) | Etawah, UP | Vilayat Khan |
-| **Senia** | Multi | Tansen lineage | Baiju Bawra tradition |
-
-### Instrument Classification — Complete (Natyashastra)
-
-| Family | Hindi | Mechanism | Instruments |
-|--------|-------|-----------|-------------|
-| **Tat** | तत | Plucked string | Sitar, Sarod, Veena, Tanpura, Ektara, Surbahar |
-| **Vitat** | वितत | Bowed string | Sarangi, Esraj, Violin |
-| **Sushir** | सुषिर | Wind/blown | Bansuri, Shehnai, Nadaswaram, Shankh |
-| **Avanaddha** | अवनद्ध | Membrane percussion | Tabla, Pakhawaj, Mridangam, Ghatam, Kanjira, Dholak, Chenda |
-
-### Carnatic Trinity — Comparison
-
-| Composer | Years | Language | Deity Focus | Speciality |
-|----------|-------|----------|-------------|------------|
-| **Tyagaraja** | 1767–1847 | Telugu | Rama | Largest output; Pancharatna kritis |
-| **Muthuswami Dikshitar** | 1775–1835 | Sanskrit | Devi, Shiva | Hindustani raga influence |
-| **Syama Sastri** | 1762–1827 | Telugu | Devi (Kamakshi) | Tala complexity |
-
-### Important Musicians — Quick Reference
-
-| Musician | Instrument/Form | Gharana/Tradition | Award |
-|----------|-----------------|-------------------|-------|
-| **Tansen** | Dhrupad vocal | Senia; Akbar court | Navaratna |
-| **Amir Khusrau** | Qawwali, tarana | Nizamuddin disciple | — |
-| **Bhimsen Joshi** | Khayal | Kirana | Bharat Ratna |
-| **Bismillah Khan** | Shehnai | Varanasi | Bharat Ratna 2001 |
-| **Ravi Shankar** | Sitar | Maihar | Bharat Ratna |
-| **Zakir Hussain** | Tabla | — | Padma Vibhushan |
-| **MS Subbulakshmi** | Carnatic vocal | — | Bharat Ratna (first musician) |
-| **Begum Akhtar** | Ghazal/thumri | Lucknow | Padma Bhushan |
-| **Kishori Amonkar** | Khayal | Jaipur-Atrauli | Sangeet Natak Akademi Fellowship |
-| **Ali Akbar Khan** | Sarod | Maihar | Padma Vibhushan |
-
-### Important Dates — Music
-
-| Date/Year | Event |
-|-----------|-------|
-| **Ancient** | Samaveda — earliest musical text |
-| **~2nd c. BCE** | Natyashastra (Bharata Muni) |
-| **16th c.** | Tansen at Akbar's court |
-| **13th–14th c.** | Amir Khusrau — qawwali, tarana |
-| **1762–1847** | Carnatic Trinity era |
-| **January annually** | Tyagaraja Aradhana, Thiruvaiyaru |
-| **December annually** | Tansen Samaroh, Gwalior |
-| **1952** | Sangeet Natak Akademi established |
-| **2001** | Bismillah Khan Bharat Ratna |
-
-### UP Focus — Indian Music
-
-| Element | UP Detail |
-|---------|-----------|
-| **Varanasi (Kashi)** | **Bismillah Khan** — shehnai maestro; temple/wedding music tradition |
-| **Lucknow** | **Thumri, ghazal** hub; Nawabi court music; **Begum Akhtar** (Faizabad-Awadhi) |
-| **Agra gharana** | Hindustani vocal school — **Agra city, UP** |
-| **Kirana gharana** | **Kirana village, UP** (Rampur region) — Bhimsen Joshi, Abdul Karim Khan |
-| **Etawah** | **Imdadkhani sitar gharana** origin (Etawah, UP) |
-| **Imdadkhani gharana** | Vilayat Khan sitar lineage — Etawah connection |
-| **Mathura-Vrindavan** | **Braj sangeet**, Swami Haridas tradition; Krishna bhakti music |
-| **Rampur-Sahaswan** | Vocal gharana — **Rampur, UP** |
-| **Tansen Samaroh** | Gwalior, MP (near UP border) — annual national music festival |
-| **NOT Carnatic hub** | Carnatic = south India — negative trap for UP geography |
-
----
-
-## Practice Zone — UPPCS Format Questions
-
-> **Answers hidden** — click *Show answer* under each question to reveal.
-
-**Q1.** With reference to Indian classical music, which statements is/are correct?
-
-1. Hindustani music is primarily practised in North India.  
-2. Carnatic music uses the 72 melakarta raga system.
-
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Raja Ramchandra Singh of Bhata  
+B. Rajbahadur of Malwa  
+C. Uday Singh of Mewar  
+D. Muzaffar Shah of Gujarat
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both correct.
+**Ans: A — Raja Ramchandra Singh of Bhata** (Rewa).
 
 </details>
 
 ---
 
-**Q2.** Assertion (A): Tansen was one of Akbar's Navaratnas. Reason (R): Tansen was a master of Carnatic kriti composition.
+## Consolidated Reference — Once Only
 
-Options: A. Both true, R explains A  B. A false, R true  C. A true, R false  D. Both true, R not explanation
+**UP Focus**
 
-<details>
-<summary>Show answer</summary>
+- **Agra gharana** is Agra city.
+- **Kirana gharana** is Kirana village (western UP belt).
+- **Banaras / Lucknow thumri** is a UP lock. **Kajri** is Mirzapur–Banaras.
+- **Bismillah Khan** is shehnai, Varanasi.
+- **Begum Akhtar** is Faizabad / Lucknow ghazal.
+- **Girija Devi** is Banaras thumri.
+- **Swami Haridas** is Vrindavan.
+- These are **not UP:** Tansen Samaroh (Gwalior, **MP**). Tyagaraja Aradhana (TN). Maihar (**MP**).
 
-**Ans: C** — Tansen = Navaratna + **dhrupad** (Hindustani). NOT Carnatic kriti.
+**Bharat Ratna musicians**
 
-</details>
-
----
-
-**Q3.** Match List-I with List-II:
-
-List-I: A. Bhimsen Joshi  B. MS Subbulakshmi  C. Bismillah Khan  D. Zakir Hussain  
-List-II: 1. Shehnai  2. Kirana gharana  3. Tabla  4. Carnatic vocal
-
-Options: A. 2 4 1 3  B. 4 2 3 1  C. 2 4 3 1  D. 1 2 3 4
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Bhimsen-2 (Kirana), MS Subbulakshmi-4 (Carnatic), Bismillah-1 (Shehnai), Zakir-3 (Tabla).
-
-</details>
+- **M.S. Subbulakshmi** received Bharat Ratna in **1998** (first musician).
+- **Ravi Shankar** received Bharat Ratna in **1999**.
+- **Bismillah Khan** received Bharat Ratna in **2001**.
+- **Bhimsen Joshi** received Bharat Ratna in **2008**.
 
 ---
 
-**Q4.** With reference to musical instruments, which statements is/are correct?
+## Practice Zone — UPPCS Format Drill
 
-1. Sarangi is a vitat (bowed string) instrument.  
-2. Mridangam is primarily used in Hindustani music.
+**40 questions.** ≥60% multi-statement. A/R, Match-List, chronology, NOT-matched included.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+**Q1.** With reference to Indian music, which of the following statements is/are correct?
+
+1. Samaveda is the earliest commonly cited musical text.  
+2. Natyashastra is attributed to Bharata Muni.  
+3. Carnatic music is simply Hindustani music practised in the south.
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1, 2 and 3  
+D. 1 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Sarangi = vitat (true). Mridangam = **Carnatic**, not Hindustani.
+**Ans: A** — Statement 3 is the standard trap.
 
 </details>
 
----
+**Q2.** Match List-I with List-II and select the correct answer from the code given below.
 
-**Q5.** Which pairs is/are NOT correctly matched?
+**List-I (Text)**  
+A. Brihaddeshi  
+B. Sangeet Ratnakar  
+C. Chaturdandi Prakashika  
+D. Natyashastra  
 
-1. Dhrupad — Pakhawaj  
-2. Khayal — Mridangam  
-3. Tyagaraja — Carnatic composer
+**List-II (Author)**  
+1. Sharngadeva  
+2. Bharata  
+3. Matanga  
+4. Venkatamakhin  
 
-Options: A. Only 2  B. 1 and 2  C. 2 and 3  D. Only 1
+A. 3 1 4 2  
+B. 3 4 1 2  
+C. 1 3 4 2  
+D. 2 1 4 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Khayal uses **tabla**, not mridangam. Pairs 1 and 3 correct.
+**Ans: A** — Matanga, Sharngadeva, Venkatamakhin, Bharata.
 
 </details>
 
----
+**Q3.** Which of the following pairs is NOT correctly matched?
 
-**Q6.** With reference to gharanas, which statements is/are correct?
-
-1. Kirana gharana originated in Uttar Pradesh.  
-2. Maihar gharana is associated with sarod and sitar.
-
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Ragamala — Pundrik Vitthal  
+B. Rasa Kaumudi — Sri Kantha  
+C. Raga Vibodh — Venkatraman  
+D. Chaturdandi Prakashika — Venkatamakhin
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both correct. Kirana = UP; Maihar = Allauddin Khan.
+**Ans: C** — Raga Vibodh = **Somanath**.
 
 </details>
 
----
+**Q4.** Assertion (A): Raga is not merely a scale.  
+Reason (R): A raga also fixes aroha–avarohana, vadi–samvadi and a mood.
 
-**Q7.** Assertion (A): Amir Khusrau was a disciple of Nizamuddin Auliya. Reason (R): He pioneered the qawwali form of devotional music.
-
-Options: A. Both true, R explains A  B. A false, R true  C. A true, R false  D. Both true, R not explanation
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Both true (UPPCS 2025 Q12). Sufi disciple relationship + qawwali legacy; R doesn't fully explain A but both facts stand — UPPCS accepts both true.
+**Ans: A.**
 
 </details>
 
----
+**Q5.** How many of the following statements are correct?
 
-**Q8.** Carnatic Trinity includes:
+1. Indian tradition counts 22 shrutis in an octave.  
+2. Teental has 16 matras.  
+3. Adi tala has 8 beats.
 
-Options: A. Tansen, Baiju Bawra, Amir Khusrau  B. Tyagaraja, Dikshitar, Syama Sastri  C. Bhimsen Joshi, Jasraj, Bade Ghulam Ali  D. Ravi Shankar, Ali Akbar Khan, Zakir Hussain
+A. Only one  
+B. Only two  
+C. All three  
+D. None
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Carnatic Trinity only.
+**Ans: C.**
 
 </details>
 
----
+**Q6.** With reference to Hindustani forms, which of the following statements is/are correct?
 
-**Q9.** With reference to Hindustani forms, which statements is/are correct?
+1. Dhrupad is commonly accompanied by pakhawaj.  
+2. Khayal is commonly accompanied by tabla.  
+3. Thumri is the oldest surviving art-music form.
 
-1. Thumri is a light classical form.  
-2. Tarana uses meaningful Hindi/Urdu poetry exclusively.
-
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Thumri = light classical (true). Tarana uses **syllables** (tom, der, na), not poetry.
+**Ans: A** — Oldest surviving form = **dhrupad**.
 
 </details>
 
----
+**Q7.** The Tappa style of music was refined in the court of
 
-**Q10.** Match List-I with List-II:
-
-List-I: A. Tat  B. Sushir  C. Avanaddha  D. Vitat  
-List-II: 1. Tabla  2. Bansuri  3. Sarangi  4. Sitar
-
-Options: A. 4 2 1 3  B. 2 4 3 1  C. 4 2 3 1  D. 1 2 3 4
+A. Akbar  
+B. Jahangir  
+C. Shah Jahan  
+D. Muhammad Shah
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Tat-4 (Sitar), Sushir-2 (Bansuri), Avanaddha-1 (Tabla), Vitat-3 (Sarangi).
+**Ans: D** — UPPCS 2023 pattern.
 
 </details>
 
----
+**Q8.** Match List-I with List-II.
 
-**Q11.** Tyagaraja Aradhana is held at:
+**List-I (Form)**  
+A. Dhrupad  
+B. Khayal  
+C. Thumri  
+D. Tappa  
 
-Options: A. Gwalior  B. Thiruvaiyaru  C. Varanasi  D. Lucknow
+**List-II (Lock)**  
+1. Lucknow–Banaras light classical  
+2. Pakhawaj  
+3. Muhammad Shah / Shori Miyan  
+4. Dominant concert form today  
+
+A. 2 4 1 3  
+B. 2 1 4 3  
+C. 4 2 1 3  
+D. 2 4 3 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Thiruvaiyaru, Tamil Nadu (January).
+**Ans: A.**
 
 </details>
 
----
+**Q9.** Assertion (A): Amir Khusrau is credited with tarana and qawwali tradition.  
+Reason (R): He was a disciple of Nizamuddin Auliya.
 
-**Q12.** With reference to Indian music theory, which statements is/are correct?
-
-1. Natyashastra is attributed to Bharata Muni.  
-2. Samaveda is an early musical text.
-
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both correct.
+**Ans: B** — Both true. Discipleship does not *explain* the musical forms.
 
 </details>
 
----
+**Q10.** Arrange the following in chronological order of their main period.
 
-**Q13.** Assertion (A): Gharana refers to a school of musical style. Reason (R): Gharana and raga mean the same thing.
+1. Tyagaraja  
+2. Amir Khusrau  
+3. Tansen  
+4. Sharngadeva  
 
-Options: A. Both true, R explains A  B. A false, R true  C. A true, R false  D. Both true, R not explanation
+A. 4, 2, 3, 1  
+B. 2, 4, 3, 1  
+C. 4, 3, 2, 1  
+D. 2, 3, 4, 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Gharana = school (true). Gharana ≠ raga — R false.
+**Ans: A** — Sharngadeva 13th c. → Khusrau 13th–14th → Tansen 16th → Tyagaraja 18th–19th.
 
 </details>
 
----
+**Q11.** Which of the following is/are correct about Carnatic music?
 
-**Q14.** Bismillah Khan is associated with which city?
+1. The kriti is the main composition type.  
+2. Melakarta parent ragas are 72.  
+3. Tabla is the primary percussion.
 
-Options: A. Lucknow  B. Varanasi  C. Agra  D. Chennai
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Varanasi (Banaras), UP.
+**Ans: A** — Primary percussion = **mridangam**.
 
 </details>
 
----
+**Q12.** Match List-I with List-II.
 
-**Q15.** With reference to UP and music, which statements is/are correct?
+**List-I (Trinity)**  
+A. Tyagaraja  
+B. Muthuswami Dikshitar  
+C. Syama Sastri  
 
-1. Agra gharana is a Hindustani vocal school.  
-2. Carnatic music's main hub is Varanasi.
+**List-II**  
+1. Sanskrit, Devi/Shiva  
+2. Telugu, Rama  
+3. Kamakshi, tala complexity  
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. 2 1 3  
+B. 1 2 3  
+C. 2 3 1  
+D. 3 1 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Agra gharana = UP (true). Carnatic hub = **south India**, not Varanasi.
+**Ans: A.**
 
 </details>
 
----
+**Q13.** Which of the following pairs is NOT correctly matched?
 
-**Q16.** Which instrument is a drone instrument?
-
-Options: A. Tabla  B. Tanpura  C. Sitar  D. Sarangi
+A. Tyagaraja Aradhana — Thiruvaiyaru  
+B. Pancharatna kritis — Tyagaraja  
+C. Violin in Carnatic — Baluswami Dikshitar  
+D. Carnatic Trinity — Tansen, Dikshitar, Syama Sastri
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Tanpura = continuous drone (Sa-Pa-Sa).
+**Ans: D.**
 
 </details>
 
----
+**Q14.** How many of the following statements are correct?
 
-**Q17.** With reference to musicians, which statements is/are correct?
+1. Purandara Dasa is often called the Pitamaha of Carnatic music.  
+2. The Trinity belongs to the 18th–19th centuries.  
+3. Melakarta theory is set out in Chaturdandi Prakashika.
 
-1. Ravi Shankar played the sitar.  
-2. Begum Akhtar was a ghazal singer from the Lucknow-Awadhi tradition.
-
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only one  
+B. Only two  
+C. All three  
+D. None
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both correct.
+**Ans: C.**
 
 </details>
 
----
+**Q15.** With reference to gharanas, which of the following statements is/are correct?
 
-**Q18.** Match List-I with List-II:
+1. Gharana is primarily a Hindustani institution.  
+2. Kirana gharana is linked to a village in the UP belt.  
+3. Carnatic music is organised into the same gharana houses as Hindustani.
 
-List-I: A. Kishori Amonkar  B. Bade Ghulam Ali Khan  C. Pandit Jasraj  D. Faiyaz Khan  
-List-II: 1. Agra  2. Jaipur-Atrauli  3. Patiala  4. Mewati
-
-Options: A. 2 3 4 1  B. 3 2 1 4  C. 2 3 1 4  D. 4 2 3 1
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Kishori-2 (Jaipur-Atrauli), Bade Ghulam-3 (Patiala), Jasraj-4 (Mewati), Faiyaz-1 (Agra).
+**Ans: A.**
 
 </details>
 
----
+**Q16.** Match List-I with List-II.
 
-**Q19.** How many melakarta ragas are in Carnatic music?
+**List-I (Artist)**  
+A. Bhimsen Joshi  
+B. Bade Ghulam Ali Khan  
+C. Kishori Amonkar  
+D. Allauddin Khan  
 
-Options: A. 12  B. 36  C. 72  D. 108
+**List-II (House)**  
+1. Jaipur–Atrauli  
+2. Kirana  
+3. Maihar  
+4. Patiala  
+
+A. 2 4 1 3  
+B. 2 1 4 3  
+C. 4 2 1 3  
+D. 2 4 3 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — 72 parent melakarta ragas.
+**Ans: A.**
 
 </details>
 
----
+**Q17.** Which of the following pairs is NOT correctly matched?
 
-**Q20.** With reference to Amir Khusrau, which statements is/are correct?
-
-1. He was a disciple of Nizamuddin Auliya.  
-2. He is credited with developing the qawwali tradition.
-
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Agra gharana — Faiyaz Khan  
+B. Mewati gharana — Pandit Jasraj  
+C. Imdadkhani gharana — Vilayat Khan  
+D. Maihar gharana — Bismillah Khan
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both correct (UPPCS 2025 Q12 overlap).
+**Ans: D** — Maihar = Allauddin / sitar–sarod. Bismillah = shehnai.
 
 </details>
 
----
+**Q18.** Assertion (A): Gwalior is called the oldest khayal gharana.  
+Reason (R): Tansen composed Carnatic kritis at Gwalior.
 
-**Q21.** Assertion (A): Pakhawaj accompanies dhrupad singing. Reason (R): Tabla is the primary percussion of dhrupad.
-
-Options: A. Both true, R explains A  B. A false, R true  C. A true, R false  D. Both true, R not explanation
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Pakhawaj = dhrupad (A true). Tabla = khayal, NOT dhrupad (R false).
+**Ans: C.**
 
 </details>
 
----
+**Q19.** Natyashastra’s four vadya classes include which of the following?
 
-**Q22.** Which gharana is associated with Allauddin Khan?
+1. Tata  
+2. Avanaddha  
+3. Ghana  
+4. Sushira  
 
-Options: A. Kirana  B. Maihar  C. Gwalior  D. Patiala
+A. 1 and 2 only  
+B. 1, 2 and 4 only  
+C. 1, 2, 3 and 4  
+D. 2 and 4 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Maihar gharana (sarod, sitar).
+**Ans: C.**
 
 </details>
 
----
+**Q20.** Match List-I with List-II.
 
-**Q23.** With reference to Carnatic music, which statements is/are correct?
+**List-I (Instrument)**  
+A. Sarangi  
+B. Sitar  
+C. Shehnai  
+D. Tabla  
 
-1. Tyagaraja composed mainly in Telugu.  
-2. Violin was introduced to Carnatic music by Baluswami Dikshitar.
+**List-II (Family)**  
+1. Sushira  
+2. Vitat  
+3. Avanaddha  
+4. Tata  
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. 2 4 1 3  
+B. 4 2 1 3  
+C. 2 4 3 1  
+D. 2 1 4 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both correct.
+**Ans: A.**
 
 </details>
 
----
+**Q21.** Which of the following statements is/are correct?
 
-**Q24.** Seven swaras of Indian music are:
+1. Pakhawaj accompanies dhrupad.  
+2. Mridangam is the main Carnatic drum.  
+3. Ghatam is a membrane drum like tabla.
 
-Options: A. Do Re Mi Fa Sol La Ti  B. Sa Re Ga Ma Pa Dha Ni  C. Ka Cha Ta Tha Pa  D. Tom Der Na Dir Dir
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 and 3 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Sa Re Ga Ma Pa Dha Ni.
+**Ans: A** — Ghatam is a clay pot (**Ghana**).
 
 </details>
 
----
+**Q22.** Which of the following pairs is NOT correctly matched?
 
-**Q25.** Which pairs is/are NOT correctly matched?
-
-1. Shehnai — Bismillah Khan  
-2. Tabla — Hariprasad Chaurasia  
-3. Sitar — Ravi Shankar
-
-Options: A. Only 2  B. 1 and 2  C. 2 and 3  D. Only 3
+A. Rudra veena — dhrupad  
+B. Saraswati veena — Carnatic  
+C. Tanpura — melody solo  
+D. Nadaswaram — south Indian temple reed
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Hariprasad Chaurasia = **bansuri (flute)**, not tabla.
+**Ans: C** — Tanpura = drone.
 
 </details>
 
----
+**Q23.** How many of the following are correctly matched?
 
-**Q26.** With reference to Hindustani music, which statements is/are correct?
+1. Bismillah Khan — shehnai — Varanasi  
+2. Zakir Hussain — tabla  
+3. Hariprasad Chaurasia — bansuri  
+4. Amjad Ali Khan — sitar  
 
-1. Khayal is the most widely performed form today.  
-2. Alap is a slow raga exposition without tala.
-
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only two  
+B. Only three  
+C. All four  
+D. Only one
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both correct.
+**Ans: B** — Amjad Ali Khan = **sarod**.
 
 </details>
 
----
+**Q24.** Who among the following kings had given patronage to Tansen before Akbar?
 
-**Q27.** Match List-I with List-II:
-
-List-I: A. Dhrupad  B. Khayal  C. Thumri  D. Qawwali  
-List-II: 1. Sufi devotional  2. Light classical  3. Oldest austere form  4. Popular improvisatory
-
-Options: A. 3 4 2 1  B. 4 3 1 2  C. 3 4 1 2  D. 2 3 4 1
+A. Raja Ramchandra Singh of Bhata  
+B. Uday Singh of Mewar  
+C. Muzaffar Shah of Gujarat  
+D. Rajbahadur of Malwa
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Dhrupad-3, Khayal-4, Thumri-2, Qawwali-1.
+**Ans: A.**
 
 </details>
 
----
+**Q25.** Assertion (A): Tansen was one of Akbar’s Navaratnas.  
+Reason (R): Tansen was a master of Carnatic kriti.
 
-**Q28.** Tansen Samaroh is held annually at:
-
-Options: A. Varanasi  B. Lucknow  C. Gwalior  D. Thiruvaiyaru
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Gwalior (December) — near UP border.
+**Ans: C.**
 
 </details>
 
----
+**Q26.** Match List-I with List-II.
 
-**Q29.** With reference to Sangeet, which statements is/are correct?
+**List-I**  
+A. M.S. Subbulakshmi  
+B. Begum Akhtar  
+C. Girija Devi  
+D. Ravi Shankar  
 
-1. Sangeet Natak Akademi was established in 1952.  
-2. Sangeet includes vocal, instrumental, and dance.
+**List-II**  
+1. Banaras thumri  
+2. Sitar  
+3. Carnatic vocal, first musician Bharat Ratna  
+4. Ghazal, Faizabad–Lucknow  
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. 3 4 1 2  
+B. 3 1 4 2  
+C. 4 3 1 2  
+D. 3 4 2 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both correct (gita + vadya + nritya).
+**Ans: A.**
 
 </details>
 
----
+**Q27.** Which of the following pairs is NOT correctly matched?
 
-**Q30.** Nadaswaram is primarily associated with:
-
-Options: A. Hindustani classical  B. Carnatic/temple music  C. Qawwali  D. Bhangra folk
+A. Tansen Samaroh — Gwalior  
+B. Tyagaraja Aradhana — Thiruvaiyaru  
+C. Kajri — Kerala temple music  
+D. Swami Haridas — Vrindavan
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Carnatic wind instrument; South Indian temple ceremonies.
+**Ans: C** — Kajri = monsoon song of the **Mirzapur–Banaras** belt.
 
 </details>
 
----
+**Q28.** With reference to Muhammad Shah Rangeela’s court, which of the following statements is/are correct?
 
-**Q31.** Assertion (A): Gwalior gharana is the oldest khayal gharana. Reason (R): Gwalior is in Uttar Pradesh.
+1. Tappa was refined in this court.  
+2. Khayal gained a major push through Sadarang.  
+3. Tansen was a Navaratna of this emperor.
 
-Options: A. Both true, R explains A  B. A false, R true  C. A true, R false  D. Both true, R not explanation
+A. 1 and 2 only  
+B. 1 only  
+C. 2 and 3 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Gwalior = oldest khayal gharana (true). Gwalior is in **Madhya Pradesh**, not UP (R false).
+**Ans: A** — Tansen = **Akbar**.
 
 </details>
 
----
+**Q29.** Arrange the Bharat Ratna musicians in the order they received the award.
 
-**Q32.** With reference to instrument families, which statements is/are correct?
+1. Bismillah Khan  
+2. M.S. Subbulakshmi  
+3. Bhimsen Joshi  
+4. Ravi Shankar  
 
-1. Bansuri is a sushir vadya.  
-2. Ghatam is a tat vadya.
-
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. 2, 4, 1, 3  
+B. 2, 1, 4, 3  
+C. 4, 2, 1, 3  
+D. 2, 4, 3, 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Bansuri = sushir (wind). Ghatam = **avanaddha** (clay pot percussion).
+**Ans: A** — 1998, 1999, 2001, 2008.
 
 </details>
 
----
+**Q30.** How many of the following statements are correct?
 
-**Q33.** Who was the first musician to receive Bharat Ratna?
+1. Kirana and Agra gharanas have UP geography locks.  
+2. Tansen Samaroh is held in Varanasi.  
+3. Begum Akhtar is an Awadh ghazal lock.
 
-Options: A. Ravi Shankar  B. Bismillah Khan  C. M.S. Subbulakshmi  D. Bhimsen Joshi
+A. Only one  
+B. Only two  
+C. All three  
+D. None
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — M.S. Subbulakshmi (first musician BR).
+**Ans: B** — Tansen Samaroh = **Gwalior**.
 
 </details>
 
----
+**Q31.** Assertion (A): Shehnai became a concert instrument in the 20th century.  
+Reason (R): Ustad Bismillah Khan of Varanasi placed it on the classical stage.
 
-**Q34.** Kirana gharana is known for:
-
-Options: A. Fast taans and ornamentation  B. Slow sustained gamak and microtonal precision  C. Folk bhangra rhythm  D. Qawwali chorus singing
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Kirana = slow, sustained notes, microtonal gamak.
+**Ans: A.**
 
 </details>
 
----
+**Q32.** Which of the following is/are correct?
 
-**Q35.** With reference to Indian music, which statements is/are correct?
+1. V.N. Bhatkhande grouped Hindustani ragas into 10 thatas.  
+2. Paluskar worked for public concerts and notation.  
+3. 10 thatas are the same list as 72 melakarta.
 
-1. Raga is a melodic framework.  
-2. Tala is a rhythmic time cycle.
-
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both correct — fundamental pair.
+**Ans: A.**
+
+</details>
+
+**Q33.** Match List-I with List-II.
+
+**List-I**  
+A. Alap  
+B. Bandish / Gat  
+C. Tani avartanam  
+D. Varnam  
+
+**List-II**  
+1. Carnatic percussion solo  
+2. Raga without tala  
+3. Carnatic opening composition  
+4. Composed piece in tala  
+
+A. 2 4 1 3  
+B. 2 1 4 3  
+C. 4 2 1 3  
+D. 2 4 3 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.**
+
+</details>
+
+**Q34.** Which of the following pairs is NOT correctly matched?
+
+A. Qawwali — Sufi chorus  
+B. Tarana — swara-syllable composition  
+C. Ghazal — Telugu Rama kriti  
+D. Thumri — bol banav
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.**
+
+</details>
+
+**Q35.** With reference to Ustad Zakir Hussain, which of the following statements is/are correct?
+
+1. He was a tabla maestro.  
+2. He died in December 2024.  
+3. He is the standard shehnai lock for Varanasi.
+
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Shehnai lock = **Bismillah Khan**.
+
+</details>
+
+**Q36.** Assertion (A): Carnatic music uses a closed 72-parent raga grid.  
+Reason (R): Venkatamakhin’s Chaturdandi Prakashika set out the melakarta idea.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.**
+
+</details>
+
+**Q37.** Which of the following statements is/are correct about Tansen?
+
+1. He was a dhrupad musician.  
+2. He served Raja Ramchandra of Bhata before Akbar.  
+3. He is one of the Carnatic Trinity.
+
+A. 1 and 2 only  
+B. 1 only  
+C. 2 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.**
+
+</details>
+
+**Q38.** Match List-I with List-II.
+
+**List-I (UP / nearby lock)**  
+A. Bismillah Khan  
+B. Begum Akhtar  
+C. Kirana  
+D. Tansen Samaroh  
+
+**List-II**  
+1. Ghazal  
+2. Shehnai, Varanasi  
+3. Gwalior (not UP)  
+4. Vocal gharana in UP belt  
+
+A. 2 1 4 3  
+B. 2 4 1 3  
+C. 1 2 4 3  
+D. 2 1 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.**
+
+</details>
+
+**Q39.** How many of the following are Ghana vadya?
+
+1. Manjira  
+2. Tabla  
+3. Ghatam  
+
+A. Only one  
+B. Only two  
+C. All three  
+D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Tabla is **Avanaddha**.
+
+</details>
+
+**Q40.** Which of the following pairs is NOT correctly matched?
+
+A. Sadarang — khayal, Muhammad Shah  
+B. Shori Miyan — tappa  
+C. Man Singh Tomar — early dhrupad home, Gwalior  
+D. Niyamat Khan Sadarang — Carnatic Pancharatna
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.**
 
 </details>
 
@@ -1166,207 +1119,121 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 ## Complete PYQ Bank (Topic 5)
 
-> **Answers hidden** — click *Show answer* under each question to reveal.
+**Q1. UPPCS Prelims 2023, Q38**
 
-**Q1. UPPCS Prelims 2025 — Bhakti/Sufi (Q12) — Amir Khusrau**
+The Tappa style of music was refined and developed in the court of which of the following Mughal Emperors?
 
-Match List-I (Disciple) with List-II (Guru): Amir Khusrau → ?
-
-Options include Nizamuddin Auliya as option 3. Full match: Kabir-Ramananda(2), Khusrau-Nizamuddin(3), Surdas-Vallabhacharya(4), Mardana-Nanak(1).
+A. Akbar  
+B. Jahangir  
+C. Shah Jahan  
+D. Muhammad Shah
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C — 2 3 4 1** — Amir Khusrau was disciple of **Nizamuddin Auliya** (Sufi saint, Delhi). Musical legacy: qawwali, tarana.
+**Ans: D — Muhammad Shah.**
+
+</details>
+
+**Q2. UPPCS Prelims 2022, Q108**
+
+Match List-I with List-II and select the correct answer from the code given below.
+
+**List-I (Text)**  
+A. Ragmala  
+B. Rasakaumudi  
+C. Ragvivodh  
+D. Chaturdandi Prakashika  
+
+**List-II (Writer)**  
+1. Somnath  
+2. Venkatraman  
+3. Pundarik Vitthal  
+4. Srikantha  
+
+A. A-1, B-2, C-3, D-4  
+B. A-2, B-4, C-3, D-1  
+C. A-4, B-2, C-1, D-3  
+D. A-3, B-4, C-1, D-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Ragmala = Pundarik Vitthal, Rasakaumudi = Srikantha, Ragvivodh = Somnath, Chaturdandi = Venkatraman.
+
+</details>
+
+**Q3. UPPCS Prelims 2021, Q22**
+
+Match List-I with List-II and select the correct answer using the codes given below the lists.
+
+**List-I (Text)**  
+A. Ragamala  
+B. Rasa Kaumudi  
+C. Raga Vibodh  
+D. Chaturdandi Prakashika  
+
+**List-II (Author)**  
+1. Somanath  
+2. Venkatraman  
+3. Pundrik Vitthal  
+4. Sri Kantha  
+
+A. 3 4 1 2  
+B. 4 2 1 3  
+C. 2 3 4 1  
+D. 1 2 3 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — 3 4 1 2.** Same four pairs as 2022 Q108; option order differs.
+
+</details>
+
+**Q4. UPPCS Prelims 2019, Q89**
+
+Who among the following kings had given patronage to Tansen before Akbar?
+
+A. Raja Ramchandra Singh of Bhata  
+B. Rajbahadur of Malwa  
+C. Uday Singh of Mewar  
+D. Muzaffar Shah of Gujarat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A — Raja Ramchandra Singh of Bhata** (Rewa).
 
 </details>
 
 ---
 
-**Q2. UPSC Prelims 2020 — pattern**
+## Current Affairs
 
-Bhimsen Joshi belonged to which gharana?
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| Dec 2024 | Ustad **Zakir Hussain** died (tabla). Padma Vibhushan 2023. | Personality + instrument match | Family/press, 15 Dec 2024 |
+| 1952 / standing | Sangeet Natak Akademi | Body year if mixed with musicians | SNA 1952, New Delhi |
 
-Options: A. Gwalior  B. Kirana  C. Patiala  D. Agra
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Kirana gharana.**
-
-</details>
-
----
-
-**Q3. UPSC Prelims 2020 — pattern**
-
-Bismillah Khan was associated with:
-
-Options: A. Sitar  B. Shehnai  C. Sarod  D. Tabla
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Shehnai** (Varanasi, UP).
-
-</details>
-
----
-
-**Q4. UPSC Prelims 2021 — pattern**
-
-Tyagaraja composed primarily in:
-
-Options: A. Sanskrit  B. Telugu  C. Tamil  D. Kannada
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Telugu** (majority compositions).
-
-</details>
-
----
-
-**Q5. UPSC Prelims 2021 — pattern**
-
-Carnatic melakarta system has how many ragas?
-
-Options: A. 12  B. 36  C. 72  D. 100
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — 72 melakarta** parent ragas.
-
-</details>
-
----
-
-**Q6. UPSC Prelims 2019 — pattern**
-
-Sarangi belongs to which instrument family?
-
-Options: A. Tat  B. Vitat  C. Sushir  D. Avanaddha
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Vitat vadya** (bowed string).
-
-</details>
-
----
-
-**Q7. UPSC Prelims 2019 — pattern**
-
-Dhrupad is accompanied by:
-
-Options: A. Tabla  B. Pakhawaj  C. Mridangam  D. Ghatam
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Pakhawaj.** Tabla = khayal/thumri.
-
-</details>
-
----
-
-**Q8. UPSC Prelims 2018 — pattern**
-
-Mridangam is used primarily in:
-
-Options: A. Hindustani  B. Carnatic  C. Qawwali  D. Folk
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Carnatic music.**
-
-</details>
-
----
-
-**Q9. UPSC Prelims 2017 — pattern**
-
-Thumri is:
-
-Options: A. Oldest classical form  B. Light classical form  C. Carnatic kriti  D. Qawwali variant
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Light classical** (Hindustani).
-
-</details>
-
----
-
-**Q10. UPSC Prelims 2017 — pattern**
-
-Maihar gharana is associated with:
-
-Options: A. Tabla  B. Sarod and sitar  C. Flute  D. Vocal only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Maihar** (Allauddin Khan — sarod, sitar).
-
-</details>
-
----
-
-**Q11. UPSC Prelims 2016 — pattern**
-
-Natyashastra is attributed to:
-
-Options: A. Panini  B. Bharata Muni  C. Kalidasa  D. Patanjali
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B — Bharata Muni.**
-
-</details>
-
----
-
-**Q12. UPSC Prelims 2016 — pattern**
-
-'Shadanga' in Indian art refers to six limbs of:
-
-Options: A. Dance  B. Sculpture  C. Painting  D. Music
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C — Painting** (Vishnudharmottara). Music has separate theory in Natyashastra — trap question tests cross-topic clarity.
-
-</details>
+Vedic chanting UNESCO ICH **2008**. Sankirtana (Manipur) **2013**.
 
 ---
 
 ## Common Traps — Don't Fall For These
 
-| Trap | Correct answer |
-|------|----------------|
-| Tansen = Carnatic composer? | **NO** — **Hindustani dhrupad**; Akbar's Navaratna |
-| Carnatic Trinity includes Tansen? | **NO** — **Tyagaraja, Dikshitar, Syama Sastri** |
-| Tabla accompanies dhrupad? | **NO** — **Pakhawaj** accompanies dhrupad |
-| Mridangam = Hindustani? | **NO** — **Carnatic** primary percussion |
-| Khayal = light classical? | **NO** — **Thumri** = light classical; khayal = full classical |
-| Gharana = raga? | **NO** — Gharana = **school**; raga = **melody framework** |
-| Bismillah Khan = tabla? | **NO** — **Shehnai** (Varanasi) |
-| Ravi Shankar = sarod? | **NO** — **Sitar** (Maihar gharana) |
-| Amir Khusrau = Akbar's court? | **NO** — **13th–14th c.**; disciple of **Nizamuddin Auliya** |
-| Gwalior gharana in UP? | **NO** — **Madhya Pradesh** (but Agra, Kirana, Etawah = UP) |
-| Carnatic hub = Varanasi? | **NO** — **South India**; Varanasi = Hindustani/shehnai |
-| Tanpura = solo melodic instrument? | **NO** — **Drone** instrument only |
-| Tyagaraja composed in Sanskrit only? | **NO** — Primarily **Telugu** (Dikshitar = Sanskrit) |
-| Sitar = vitat (bowed)? | **NO** — **Tat** (plucked string) |
-| Shehnai = Carnatic instrument? | **NO** — **Hindustani** wind; Bismillah Khan/Varanasi |
-
----
-
+1. **Tappa** is **Muhammad Shah**, not Akbar.
+2. Tansen before Akbar is **Ramchandra of Bhata/Rewa**, not Malwa’s Baz Bahadur.
+3. **Raga Vibodh** is **Somanath**, not Venkatamakhin.
+4. **Chaturdandi** is **Venkatamakhin**. It is melakarta, not Ragamala.
+5. The Trinity is Tyagaraja, Dikshitar and Syama Sastri. It is **not Tansen.**
+6. **Tyagaraja** is **Telugu**, not Tamil/Sanskrit.
+7. Dhrupad uses **pakhawaj**. Khayal uses **tabla**. Carnatic uses **mridangam**.
+8. Shehnai is **Bismillah / Varanasi**. Tabla is **Zakir**. Do not swap.
+9. Gharana is not raga. Kirana is a **school**. Yaman is a **raga**.
+10. Tanpura is a **drone**, not a solo sitar-class melody instrument.
+11. Ghatam is **Ghana**, not Avanaddha.
+12. Tansen Samaroh is **Gwalior (MP)**, not Varanasi.
+13. Amir Khusrau’s guru is **Nizamuddin Auliya**. Here he is qawwali/tarana.
+14. **10** thatas are not **72** melakarta.
+15. MS Subbulakshmi is **Carnatic**, first musician Bharat Ratna, not Hindustani khayal.

@@ -42,7 +42,7 @@ Build UPPCS Prelims (+ light Mains where required) notes that maximize **ROI per
 | **Syllabus-complete** | Every `00_Syllabus.md` bullet for this topic is covered |
 | **PYQ-complete** | Every matching UPPCS/RO-ARO (2018–2025) from `pyq/` is mined and placed (see PYQ protocol — **unchanged**) |
 | **CA when needed** | Recent exam-relevant facts added once (schemes, amendments, reports, UP CA) |
-| **One-fact-one-home** | Each exam fact appears in **exactly one** teaching home; other sections may only **point**, never re-teach |
+| **One-fact-one-home** | Each exam fact has **one full teaching home**; other sections may give a **one-line lock**, never a jump (`→ §` / `→ Topic N`) |
 | **Practice ≥25** | Practice Zone minimum 25; scale up with chapter size |
 | **Self-contained enough** | Student can answer this topic’s Prelims questions from this file alone — without textbook prose |
 | **One topic at a time** | Fully complete and student-approved before moving on |
@@ -115,7 +115,7 @@ That stack is why notes become unreadable. **One teaching home = the Act bullet 
 
 ## One-Fact-One-Home Rule (critical)
 
-Every exam fact has **one teaching home**. Other places may cite it only as a **pointer** (e.g. `→ see §1.3` or a year tag), never a second explanation.
+Every exam fact has **one full teaching home**. If another section must mention the same name, write the **one-line exam lock** there (the date, the author, the state). **Never** write `→ §7.5`, `→ Topic 8`, `see §2.3`, or “full card → Topic 1” in teaching bullets. A jump teaches nothing while the student is reading.
 
 | Content type | Primary home | Must NOT also appear as full restate in |
 |--------------|--------------|----------------------------------------|
@@ -211,7 +211,7 @@ Run §Quality Checklist + §Automatic Fail Conditions (including **R1–R9**). F
 | 1 | **No "etc." in exam lists** | "Charter Acts 1793, 1813, etc." | Full exam-relevant rows in table |
 | 2 | **2025 overlap in teaching home** | Only in Practice Zone | 1-line in N.X + Exam note |
 | 3 | **Paired concepts together** | Dyarchy without Autonomy | One comparison row/table |
-| 4 | **One home per fact** | Same date in 4 sections | One home + pointers |
+| 4 | **One home per fact** | Same date in 4 sections; or `→ §7.5` / `→ Topic N` jumps | One full home; other mentions = one-line lock, never a jump |
 | 5 | **Syllabus map complete** | Bullet with no N.X | Every bullet → N.X |
 | 6 | **PYQ mined from pyq/** | Invented / memory-only | Full protocol (§ below) |
 | 7 | **External high-yield when needed** | Missed Firangiya-class titles | F22 protocol |
@@ -359,8 +359,10 @@ UPPCS asks multi-statement, A/R, matching, NOT-matched, chronology, scheme traps
 
 - One idea per bullet; bold **dates, numbers, names**.
 - Prefer complete short sentences in teaching bullets.
-- Quick Revision code blocks and tables may stay compact (semicolons OK there).
-- Do not pack unrelated facts with semicolon chains in teaching bullets when a table row is clearer.
+- Quick Revision code blocks and tables may stay compact (pipes OK there).
+- **HARD BAN — label dumps in teaching bullets.** Never write `IVC: terracotta…`, `Functions: worship murti…`, or `Khajuraho — Chandela, MP, sandstone, Nagara.` A teaching bullet must read as a sentence (`The Dancing Girl is a Harappan bronze.`). Identity lines may use `|` for founder/year/place only.
+- **HARD BAN — semicolon / comma dumps in teaching bullets.** Never pack many names, books, artists, or monuments in one line (`Tuti-nama; Hamzanama; Baburnama…`). One name = one bullet, written as a sentence.
+- **HARD BAN — section/topic jumps in teaching bullets.** Never write `Codifier: Natyashastra → §7.5`, `Sanskrit layer → §7.4`, `institution card → Topic 1`, or `full list → Topic 14`. If the name appears, the lock appears. Delete TOC-style “see later” lines.
 
 ---
 

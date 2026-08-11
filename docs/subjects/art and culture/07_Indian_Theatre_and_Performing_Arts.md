@@ -1,1345 +1,1003 @@
 # Topic 7 — Indian Theatre & Performing Arts
-### ★ Complete Source of Truth — No other book/notes needed for this topic
+### ★ UPPCS Revision Sheet — heading → identity line → exam bullets (tables only for confused pairs)
 
-> **Covers syllabus:** Indian Theatre | Performing Arts | Folk Theatre | Sanskrit Theatre | Natyashastra | Rangmanch (Stage Traditions) | Kathputli | Shadow Puppetry | String Puppetry  
-> **Sources baked in:** NCERT An Introduction to Indian Art (Class 11), Natyashastra, IGNCA/SNA publications, UPPCS/UPSC PYQs  
-> **Exam weight:** ★★★ High — Natyashastra rasa, folk theatre ↔ state, Kalidasa/Bhasa, puppet types  
-> **Last verified:** July 2026
+<details>
+<summary><strong>Covers syllabus</strong> (click to expand)</summary>
+
+Indian Theatre | Performing Arts | Folk Theatre | Sanskrit Theatre | Natyashastra | Rangmanch (Stage Traditions) | Kathputli | Shadow Puppetry | String Puppetry
+
+</details>
+
+> **Sources baked in:** NCERT An Introduction to Indian Art (Class 11), Natyashastra, UNESCO ICH, SNA/NSD  
+> **Exam weight:** ★★★ — folk theatre ↔ state, playwright ↔ play, Natyashastra stage words, puppet type  
+> **Last verified:** August 2026  
+> **Current Affairs:** Koodiyattam UNESCO (proclaimed **2001**, list **2008**). Ramlila UNESCO **2008**. Mudiyettu **2010**.
 
 ---
 
-## Quick Revision Box — Raata This First
+## Quick Revision — Spine Only
 
 ```
-NATYASHASTRA (Bharata Muni):
-  9 Rasas | 4 Abhinaya (angika, vachika, aharya, sattvika)
-  Nritta + Nritya + Natya | Drama types: Nataka, Prakarana, Bhana
-
-SANSKRIT THEATRE PLAYWRIGHTS:
-  Bhasa (earliest, 13 plays) | Kalidasa (Shakuntala, Vikramorvashiya, Malavikagnimitram)
-  Shudraka (Mrichchhakatika) | Vishakhadatta (Mudrarakshasa) | Bhavabhuti (Uttararamacharita)
-
-FOLK THEATRE ↔ STATE:
-  Nautanki — UP | Jatra — Bengal/OD | Tamasha — Maharashtra | Yakshagana — Karnataka
-  Bhavai — Gujarat | Bhand Pather — Kashmir | Swang — Haryana/UP | Ramlila — UP (Braj)
-
-SANSKIT-CLASSICAL THEATRE:
-  Koodiyattam — Kerala (UNESCO 2001) | Ankia Naat/Bhaona — Assam (Sankaradeva)
-
-RANGMANCH (STAGE):
-  Yavanika = curtain | Nepathya = backstage | Koothambalam = Kerala temple theatre
-  Natyagraha = theatre building | Rangashirsha = stage platform
-
-PUPPETRY TRIO:
-  Kathputli — Rajasthan STRING marionettes
-  Shadow — Tholu Bommalata (AP), Ravana Chhaya (Odisha), Tolpavakoothu (Kerala)
-  String — Kathputli (Rajasthan), Gombe Atta (Karnataka), Bommalattam (TN)
-
-UP FOCUS:
-  Nautanki = UP folk opera | Ramlila = Braj/UP | Swang = UP-Haryana
-  Lucknow Awadhi theatre | Kalidasa NOT Uttararamacharita (UPPCS 2025 trap)
+NATYASHASTRA: Bharata c.200 BCE–200 CE | 10 rupaka | Abhinavabharati | Dasharupaka | 9 rasa | 4 abhinaya
+PLAYS: Ashvaghosha first | Bhasa 13 | Kalidasa 3 dramas | Shudraka Mrichchhakatika | Vishakhadatta Mudrarakshasa | Bhavabhuti Uttararamacharita | Harsha Ratnavali
+STAGE: Yavanika | Nepathya | Sitabenga amphitheatre | Koothambalam | Sutradhara
+FOLK: Nautanki UP Kanpur+Lucknow | Ramlila UNESCO 2008 | Raslila Braj | Swang | Jatra | Tamasha | Yakshagana KA | Bhavai | Bhaona Majuli | Ramman UK | Powada | Burrakatha | Oja-Pali
+LIVING SANSKRIT: Koodiyattam Kerala Chakyar/Mizhavu UNESCO 2001/2008
+PUPPET: Kathputli RJ (no legs) | Kundhei Odisha | Tholu AP | Ravana Chhaya Odisha | Gulabo-Sitabo Lucknow glove
+UP EXTRA: Indra Sabha Amanat 1853 | Bidesiya Purvanchal | Bhartendu Banaras
+TRAP: Shringara Shataka ≠ Kalidasa (Bhartrihari)
 ```
 
-### Must-Know Term Comparisons (very frequently asked)
+### Confused pairs
 
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Nataka vs Prakarana** | Heroic mythological drama (10 acts) vs social/love drama (5–10 acts) | नाटक / प्रकरण |
-| **Natya vs Nritta** | Dramatic storytelling with dialogue vs pure abstract dance | नाट्य / नृत्त |
-| **Folk theatre vs Sanskrit theatre** | Regional oral community performance vs codified classical Sanskrit drama | लोक रंगमंच / संस्कृत नाटक |
-| **Nautanki vs Tamasha** | **UP** folk opera-dance with music vs Maharashtra folk theatre with lavani | नौटंकी / तमाशा |
-| **Kathputli vs Shadow puppetry** | Rajasthan **string** marionettes vs flat leather silhouette behind screen | कठपुतली / छाया कठपुतली |
-| **Shadow vs String puppetry** | Flat cut-out behind lit screen vs marionette suspended on strings | छाया / सूत्र |
-| **Rasa vs Bhava** | Audience emotional flavour experienced vs actor's inner emotion portrayed | रस / भाव |
-| **Yavanika vs Nepathya** | Stage **curtain** (entry point) vs **backstage** (costume/scenery area) | यवनिका / नेपथ्य |
-| **Koodiyattam vs Kathakali** | Kerala **Sanskrit** temple theatre (2000+ years) vs Kerala dance-drama with makeup | कूड़ियाट्टम् / कथकली |
-| **Rangmanch vs Natyagraha** | Generic **stage** concept vs purpose-built **theatre building** | रंगमंच / नाट्यगृह |
-
-### Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **B-K-S-V-B** Sanskrit playwrights | **B**hasa, **K**alidasa, **S**hudraka, **V**ishakhadatta, **B**havabhuti |
-| **9 Rasas** | Shringara, Hasya, Karuna, Raudra, Veera, Bhayanaka, Bibhatsa, Adbhuta, Shanta |
-| **N-J-T-Y-B** folk theatre states | **N**autanki-UP, **J**atra-Bengal, **T**amasha-MH, **Y**akshagana-KA, **B**havai-GJ |
-| **Kathputli = STRING Rajasthan** | Not shadow — marionette on threads |
-| **Tholu = AP shadow** | Tholu Bommalata = leather shadow (Andhra) |
-| **Kalidasa 3 plays** | Shakuntala + Vikramorvashiya + Malavikagnimitram |
-| **NOT Kalidasa** | Uttararamacharita = **Bhavabhuti** (UPPCS 2025 trap) |
-| **4 Abhinaya = AVAS** | Angika, Vachika, Aharya, Sattvika |
-| **Bharata = Natyashastra** | Not Panini, not Kalidasa |
-| **Koothambalam = Kerala** | Temple theatre for Koodiyattam |
+| A | B | Lock | Hindi |
+|---|----|------|-------|
+| Nataka | Prakarana | Mythic heroic play vs invented social plot | नाटक / प्रकरण |
+| Natya | Nritta | Drama-story vs pure dance | नाट्य / नृत्त |
+| Nautanki | Tamasha | **UP** folk opera vs Maharashtra + lavani | नौटंकी / तमाशा |
+| Ramlila (Braj) | Koodiyattam | Hindi Ramayana folk vs Kerala Sanskrit temple | रामलीला / कूड़ियाट्टम् |
+| Koodiyattam | Kathakali | Sanskrit theatre vs Kerala dance-drama makeup | कूड़ियाट्टम् / कथकली |
+| Yavanika | Nepathya | Curtain vs backstage | यवनिका / नेपथ्य |
+| Kathputli | Shadow puppet | Rajasthan string marionette vs leather silhouette | कठपुतली / छाया |
+| Kalidasa | Bhavabhuti | Shakuntala trio vs **Uttararamacharita** | कालिदास / भवभूति |
+| Rasa | Bhava | Spectator flavour vs actor’s emotion | रस / भाव |
+| String | Glove | Kathputli threads vs Gulabo-Sitabo hand-puppets | सूत्र / दस्ताना |
 
 ---
 
 ## 7.1 Indian Theatre
 
-### Definitions (learn all — exams pick different ones)
+**Identity:** Live drama with speech, song, dance, costume | Three layers: Sanskrit, folk, modern
 
-| Source | Definition |
-|--------|------------|
-| **General** | **Indian theatre** = live performance tradition combining **acting, speech, music, dance, costume** — from Sanskrit classical to regional folk to modern proscenium |
-| **NCERT / Standard** | Indian drama is **total theatre** — integrates multiple performing arts; roots in **Vedic rituals**, **Natyashastra**, temple/folk/community stages |
-| **Exam usage** | Distinguish classical Sanskrit vs folk vs modern; match form ↔ region |
+- It is the oldest continuous drama tradition in the subcontinent. Vedic *samvada* hymns are only a hint, not full plays.
+- The word *nataka* is from *nata*, meaning dancer. Drama, dance and music start as one art.
+- The oldest rock amphitheatre lock is **Sitabenga** (Ramgarh, Chhattisgarh). Neighbouring **Jogimara** cave is the painting lock.
+- The codifier is **Natyashastra** by **Bharata Muni**. It lists about **10 rupaka** and **9 rasa**.
+- Sanskrit court and temple theatre includes Kalidasa’s **three** dramas. The living remnant is **Koodiyattam** (Kerala).
+- Regional folk includes **Nautanki** of **UP**. Ramlila is UNESCO **2008**.
+- Modern proscenium starts from the 19th c. onward. **Bhartendu Harishchandra** (Banaras, **UP**) is the Hindi theatre lock.
+- **Parsi theatre** (19th c. Bombay) is company stage with Urdu/Hindi myth and romance. It feeds later films.
+- **Indra Sabha** is by **Amanat**, **Lucknow, 1853**. It is an Awadh court play. It is the highest-yield UP modern-folk lock.
+- **IPTA** was founded in **1943**. It is people’s theatre and an anti-fascist/left cultural front.
+- **National School of Drama** was founded in **1959** at **New Delhi**. Its festival is Bharat Rang Mahotsav. The long director lock is **Ebrahim Alkazi**.
+- **Badal Sircar** is linked to Third Theatre (street, no proscenium).
+- SNA was founded in **1952** at New Delhi. It is the apex body for music, dance **and theatre**, not dance-only.
+- Sanskrit plays **end well**. There is no Greek-style tragedy as the rule.
+- Stock figures are **nayaka**, **nayika**, and **vidushaka** (clown). **Sutradhara** is the director-presenter. The same word is the etymology of string-puppet *sutradhara*.
 
-### Indian Theatre — How It Works
-
-- **Indian theatre** is among the world's **oldest continuous dramatic traditions**. Vedic dialogues (Rigveda Samvada Sukta) hint at early performance.
-- **Natyashastra** (Bharata Muni) provides first systematic dramaturgy. See §7.5 for full treatment.
-- **Three historical layers**:
-  1. **Sanskrit classical** (2nd c. BCE–12th c. CE) — court/temple, Sanskrit language, Bhasa/Kalidasa
-  2. **Folk/regional** (continuous) — local language, community festivals, oral tradition
-  3. **Modern** (19th c. onward) — proscenium stage, Ibsen/Shakespeare influence, IPTA, regional drama
-- **Sanskrit drama features**: **No tragedy** (happy ending mandatory). Mix of **heroic, comic, romantic**. Hero (**nayaka**) + heroine (**nayika**) + clown (**vidushaka**).
-- **Dramatic forms** (Sanskrit): **Nataka** (heroic mythological), **Prakarana** (social fiction), **Bhana** (monologue), **Vithi** (one-act street), **Anka** (interlude).
-- **Folk theatre** survives colonial suppression includes **Nautanki, Jatra, Tamasha, Yakshagana**. See §7.3.
-- **Temple theatre**: **Koodiyattam** (Kerala). Sanskrit performed in **Koothambalam** temple theatres for 2000+ years.
-- **Modern milestones**: **Indian People's Theatre Association (IPTA, 1943)**. **Prithvi Theatre** (Mumbai). **National School of Drama (NSD, 1959, Delhi)**.
-- **UP theatre**: **Nautanki** (folk), **Ramlila** (Braj), **Swang** (Gangetic belt), Lucknow Urdu/Hindi drama.
-- **Trap**: Indian theatre ≠ only Sanskrit. **Folk theatre is equally exam-heavy**.
-
-> **Exam note:** Indian drama traditionally **no tragedy** — all Sanskrit plays end happily (unlike Greek tragedy).
-
-### Exam Facts (raata)
-
-- Roots: Vedic rituals + Natyashastra
-- Three layers: Sanskrit classical, folk regional, modern
-- **No tragedy tradition**. Happy endings mandatory.
-- Hero (nayaka), heroine (nayika), clown (vidushaka)
-- Forms: Nataka, Prakarana, Bhana, Vithi
-- IPTA 1943. NSD 1959 Delhi.
-- Koodiyattam = Kerala Sanskrit temple theatre
-- UP: Nautanki, Ramlila, Swang
-- Folk + classical both exam-relevant
-
-### PYQs — Indian Theatre
-
-1. **(UPSC Prelims 2019 — pattern)** Indian Sanskrit drama traditionally:
-
-   A. Ends in tragedy  B. Ends happily  C. Has no plot  D. Is always one-act  
-   → **B — happy ending** mandatory (no Greek-style tragedy).
-
-2. **(UPSC Prelims 2016 — pattern)** National School of Drama is in:
-
-   A. Mumbai  B. Kolkata  C. New Delhi  D. Chennai  
-   → **C — New Delhi** (established 1959).
-
-### Examples (7.1)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Nautanki, UP** | Living folk theatre tradition |
-| **NSD, Delhi** | Modern Indian theatre training |
-| **Koothambalam, Kerala** | Temple theatre architecture |
+> **Exam note:** Theatre is not “only Sanskrit.” UPPCS geography loves **Nautanki** as **UP**.
 
 ---
 
 ## 7.2 Performing Arts
 
-### Definitions
+**Identity:** Live arts before an audience | Music + dance + theatre + puppetry
 
-| Term | Meaning |
-|------|---------|
-| **Performing arts** | Arts **performed live before audience** — **music, dance, theatre** (and puppetry) as distinct from visual/literary arts |
-| **Sangeet** | Union of **gita** (vocal) + **vadya** (instrumental) + **nritya** (dance) — total performance art |
-| **Lok rangmanch** | Folk performing arts — community-based, festival-linked |
+- *Sangeet* is gita, vadya, and nritya. This chapter locks **theatre, puppetry and stage**.
+- Folk “total shows” mix all three: Nautanki, Yakshagana, Jatra, Tamasha.
+- The temple cluster is Koodiyattam, Bhagavata Mela (TN), and theyyam/mudiyettu as ritual theatre.
+- The street cluster is puppets and bahurupi.
+- Trap: SNA is not a dance-only body.
 
-### Performing Arts — How It Works
-
-- **Performing arts** in India = **music + dance + theatre + puppetry**. Traditionally **not separated** (unlike Western specialisation).
-- **Natyashastra** treats drama as **total art**. Incorporates all four **abhinaya** types including music and dance.
-- **Classical performing arts** (SNA recognised):
-  - **Music**: Hindustani, Carnatic (Topic 5)
-  - **Dance**: 8 classical forms (Topic 6)
-  - **Theatre**: Koodiyattam (UNESCO 2001). Sanskrit theatre tradition.
-- **Folk performing arts**: combine **singing, dancing, acting** in single performance: nautanki, Jatra, Yakshagana.
-- **Temple performing arts**: **Devadasi dance** (Bharatanatyam origin), **Koodiyattam** Sanskrit theatre, **Bhagavata Mela** (TN).
-- **Street performing arts**: **Puppetry** (Kathputli, shadow), **acrobatics**, **bahurupi** (impersonators).
-- **Modern performing arts ecosystem**: **Sangeet Natak Akademi (1952)**. Apex body. **Zonal cultural centres**. **State academies**.
-- **Festivals**: **Bharat Rang Mahotsav** (NSD), **Sangeet Natak Akademi festivals**, **Khajuraho Dance Festival** (dance, not theatre but performing arts umbrella).
-- **UP performing arts**: **Nautanki** (theatre-music-dance combined), **Ramlila** (drama + music), **Kathak** (dance. Topic 6), **Shehnai** (music. Topic 5).
-- **Trap**: Performing arts ≠ only dance. **Theatre and puppetry** are equal components.
-
-> **Exam note:** **Sangeet Natak Akademi** covers **music + dance + theatre + puppetry** — not dance alone.
-
-### Exam Facts (raata)
-
-- Performing arts = music + dance + theatre + puppetry
-- Natyashastra = total art integration
-- Sangeet = gita + vadya + nritya
-- **Sangeet Natak Akademi 1952**. Apex body.
-- Koodiyattam = only UNESCO theatre intangible (India)
-- Folk forms combine sing-dance-act
-- Bharat Rang Mahotsav = NSD theatre festival
-- UP: Nautanki, Ramlila, Kathak, Shehnai
-- Temple + folk + classical + modern layers
-- Not limited to dance alone
-
-### PYQs — Performing Arts
-
-1. **(UPSC Prelims 2020 — pattern)** Sangeet Natak Akademi covers:
-
-   A. Music only  B. Dance only  C. Music, dance, and theatre  D. Painting only  
-   → **C — music, dance, theatre** (and puppetry/drama).
-
-2. **(UPSC Prelims 2017 — pattern)** Koodiyattam is recognised by UNESCO as:
-
-   A. Dance  B. Music  C. Theatre/performing art  D. Painting  
-   → **C — theatre** (Sanskrit temple theatre, Kerala, 2001).
-
-### Examples (7.2)
-
-| Example | Detail |
-|---------|--------|
-| **Sangeet Natak Akademi awards** | Cover all performing arts |
-| **Yakshagana, Karnataka** | Total performing art — sing, dance, act |
-| **Nautanki, UP** | Combined folk performing art |
+> **Exam note:** Koodiyattam is **theatre**, not a ninth SNA classical dance.
 
 ---
 
 ## 7.3 Folk Theatre
 
-### Definitions
+**Rule:** Regional language, open air, oral, and festival/fair.
 
-| Term | Meaning |
-|------|---------|
-| **Folk theatre** | Community-based **regional language** drama — festivals, fairs, open-air stages; oral transmission |
-| **Lok natak** | Hindi for folk theatre — distinct from Sanskrit classical |
+**Lock:** name, state, and one fact.
 
-### Folk Theatre — How It Works
+- **Nautanki** belongs to **Uttar Pradesh**. It is folk opera and an offshoot of Swang. It is named in **Ain-i-Akbari**.
+- The Nautanki drum is **nagara**. Two schools are **Kanpur** and **Lucknow**.
+- **Ramlila** belongs to **UP** (Ramnagar–Varanasi, Braj). It is for Dussehra and is UNESCO **2008** (proclaimed 2005). Traditionally men play Sita too.
+- **Raslila** is the **Braj / Mathura–Vrindavan** Krishna play. Manipuri Ras Lila is classical dance of Manipur, not this Braj folk play.
+- **Swang** belongs to Haryana, western **UP**, and Rajasthan. It is satire. Men play women.
+- **Jatra** belongs to Bengal and Odisha. It is open-air, and Chaitanya used it for Krishna-bhakti. The Odisha street variant is Sahi Jatra.
+- **Tamasha** belongs to Maharashtra. It uses Lavani. **Women even play male roles** (opposite of Swang).
+- **Yakshagana** belongs to coastal **Karnataka**. It is all-night, on Vijayanagara court soil, and in Kannada.
+- **Bhavai** belongs to Gujarat (Kutch–Kathiawar). It uses vesha/swanga skits. The sutradhara is called **Nayaka**.
+- **Bhand Pather** belongs to Kashmir. It is satire. Muslim performers tell secular stories.
+- **Maach** belongs to Malwa / Ujjain, MP. Couplets are called *rangat doha*.
+- **Therukoothu** is Tamil Nadu street theatre.
+- **Dashavatar** belongs to Konkan (Sindhudurg–Goa). It presents ten Vishnu avatars.
+- **Ankiya Nat** belongs to Assam and is linked to Sankaradeva. It is one-act and uses masks. Musicians are Gayan–Bayan (khol).
+- **Bhaona** is the staging of Ankiya Nat. **Majuli** is the lock.
+- **Mudiyettu** is Kerala ritual theatre. It is UNESCO **2010**. It is not Kathakali.
+- **Ramman** belongs to Garhwal, Uttarakhand. It honours Bhumiyal Devta and is UNESCO **2009**. It is ritual theatre, not SNA dance.
+- **Oja-Pali** belongs to Assam. It is a Manasa / serpent-goddess narrative. Oja is the lead and Pali is the chorus.
+- **Powada** belongs to Maharashtra. It is a Shivaji ballad-opera. Singers are Shahir / Gondhali.
+- **Kariyila** is Himachal open-air night skits.
+- **Daskathia** belongs to Odisha. Two narrators (Gayaka and Palia) use *kathia* clappers.
+- **Naqal / Bhand** belongs to Punjab. It is Behroopiya mimicry by two artists.
+- **Burrakatha** belongs to Andhra. It is named from the *burra* drum. It has one narrator and two chorus.
+- **Villu Pattu** is Tamil bow-song Ramayana.
+- **Krishnattam** belongs to Kerala. It is an eight-night Krishna cycle. It is not Kathakali.
+- **Ottamthullal** belongs to Kerala. It is linked to Kunchan Nambiar. It is solo satirical dance-theatre.
+- **Bidesiya** is by Bhikhari Thakur. It belongs to the Bhojpuri belt (Bihar / eastern **UP**). It is a migrant-labour play.
+- **Pandavani** belongs to Chhattisgarh. It tells the Mahabharata. Teejan Bai is linked to it.
+- **Khyal** is a Rajasthan folk play. It is not Hindustani *khayal* singing.
+- **Theyyam** is north Kerala ritual theatre. It holds Sangam Velan memory. It is not Kathakali.
 
-- **Folk theatre** uses **local languages**, **open-air stages**, **community participation**. Survives without court patronage.
-- **Complete high-yield folk theatre list**:
-
-  | Form | State/Region | Features |
-  |------|--------------|----------|
-  | **Nautanki** | **Uttar Pradesh** | Folk opera; music + dance + drama; semi-historical stories; **naubat** drum |
-  | **Ramlila** | **UP (Braj), nationwide** | Ramayana enactment; **Dussehra** climax; UNESCO intangible 2008 |
-  | **Swang** | **Haryana, UP, Rajasthan** | Comic-satirical; male-female impersonation |
-  | **Jatra** | **West Bengal, Odisha** | Religious + social; open-air; musical |
-  | **Tamasha** | **Maharashtra** | Lavani songs + comedy + dance; **dholki** rhythm |
-  | **Yakshagana** | **Karnataka** | Dance-drama; elaborate costume; all-night; Kannada |
-  | **Bhavai** | **Gujarat** | Social satire; **bhavai** = emotion; two main characters |
-  | **Bhand Pather** | **Kashmir** | Satirical; mask; musical; social commentary |
-  | **Maach** | **Madhya Pradesh** | Musical folk theatre; Malwa region |
-  | **Ankia Naat** | **Assam** | One-act Vaishnavite drama; Sankaradeva; Bhaona performance |
-  | **Koodiyattam** | **Kerala** | Sanskrit temple theatre (folk-classical border) |
-  | **Therukoothu** | **Tamil Nadu** | Street theatre; Tamil; all-night |
-  | **Dashavatar** | **Konkan/Goa/Maharashtra** | 10 Vishnu avatars enacted |
-
-- **Nautanki (UP)**. Most important for UPPCS:.
-  - Originated **Gangetic plain** (Mathura, Kanpur, Lucknow belt)
-  - **Mandali** (troupe) system. **Sangeet** interludes between scenes.
-  - Stories: **Laila-Majnu, Heer-Ranjha, Amar Singh Rathore**, historical romances
-  - **Decline** in 20th c. due to cinema. **Revival efforts** by folk artists.
-
-- **Ramlila (UP)**: **Braj, Varanasi, Ramnagar (Varanasi)** famous month-long versions. **UNESCO intangible 2008**.
-- **Swang**: **Haryana-Swang** and **UP-Swang**. Comic, satirical, **female roles by men**.
-- **Performance features**: **no fixed script** (oral improvisation), **audience interaction**, **portable stage**.
-- **Trap**: **Nautanki = UP**, NOT Maharashtra (Tamasha) or Bengal (Jatra).
-
-> **Exam note:** **Nautanki ↔ UP** and **Jatra ↔ Bengal** — most-tested folk theatre geography pairs.
-
-### Exam Facts (raata)
-
-- Folk theatre = regional language, community, open-air
-- Nautanki = **UP** folk opera (Gangetic belt)
-- Ramlila = UP Braj + Varanasi. UNESCO 2008.
-- Swang = Haryana/UP/Rajasthan satirical
-- Jatra = Bengal/Odisha
-- Tamasha = Maharashtra (lavani)
-- Yakshagana = Karnataka dance-drama
-- Bhavai = Gujarat satire
-- Bhand Pather = Kashmir
-- Ankia Naat = Assam (Sankaradeva)
-
-### PYQs — Folk Theatre
-
-1. **(UPSC Prelims 2020 — pattern)** Nautanki is a folk theatre form of:
-
-   A. Punjab  B. Uttar Pradesh  C. Bengal  D. Maharashtra  
-   → **B — Uttar Pradesh.**
-
-2. **(UPSC Prelims 2018 — pattern)** Yakshagana belongs to:
-
-   A. Tamil Nadu  B. Karnataka  C. Kerala  D. Andhra Pradesh  
-   → **B — Karnataka** dance-drama folk theatre.
-
-### Examples (7.3)
-
-| Example | Detail |
-|---------|--------|
-| **Nautanki mandali, UP** | Folk troupe performances in Gangetic belt |
-| **Ramnagar Ramlila, Varanasi** | Month-long UP tradition |
-| **Yakshagana, coastal Karnataka** | All-night dance-drama |
+> **Exam note:** **Nautanki** belongs to **UP**. Tamasha is not UP. Yakshagana belongs to Karnataka, not Kerala.
 
 ---
 
 ## 7.4 Sanskrit Theatre
 
-### Definitions
+**Language:** Sanskrit + Prakrit | **Age:** roughly 2nd c. BCE–12th c. CE | **Living remnant:** Koodiyattam
 
-| Term | Meaning |
-|------|---------|
-| **Sanskrit theatre** | Classical Indian drama in **Sanskrit language** — codified by Natyashastra; court and festival performance |
-| **Nataka** | Major Sanskrit dramatic form — **5–10 acts**, heroic mythological plot, happy ending |
-| **Prakarana** | Sanskrit social/romantic drama — invented plot, middle-class heroes |
+### Playwrights (one name, one play lock)
 
-### Sanskrit Theatre — How It Works
+- **Ashvaghosha** wrote *Sariputraprakarana*. It is often tagged the **first** classical Sanskrit play (Buddhist).
+- **Bhasa** has the earliest large surviving set (~13 plays). The locks are *Svapnavasavadattam* and *Urubhanga*.
+- **Kalidasa** has three dramas only: ***Abhijnanashakuntalam***, ***Vikramorvashiya***, and ***Malavikagnimitram***.
+- Kalidasa poems (not dramas) are *Meghaduta*, *Raghuvamsha*, *Kumarasambhava*, and *Ritusamhara*. **Shringara Shataka is not his** (**Bhartrihari**). This is UPPCS **2025 Q48**.
+- **Shudraka** wrote ***Mrichchhakatika*** (Little Clay Cart). It has conflict and an antagonist, with a commoner hero. It is not Kalidasa.
+- **Vishakhadatta** wrote ***Mudrarakshasa***. It is a Chanakya–Chandragupta plot.
+- **Bhavabhuti** wrote ***Uttararamacharita***. He also wrote *Mahaviracharita* and *Malatimadhava*. He is not Kalidasa.
+- **Harsha** (7th c.) wrote *Ratnavali*, *Priyadarshika*, and *Nagananda*. *Ratnavali* is an early **Holi** textual lock.
+- **Mahendravarman I** wrote *Mattavilasa Prahasana* (Pallava satire). He is the same king as the rock-cut Mandagapattu caves.
 
-- **Sanskrit drama** golden age: **2nd c. BCE – 12th c. CE**. It performed at **royal courts**, temple festivals, and public gatherings.
-- **Major playwrights** (complete exam list):
+### Conventions
 
-  | Playwright | Period | Major Works | Notes |
-  |------------|--------|-------------|-------|
-  | **Bhasa** | c. 2nd–3rd c. CE | **Svapnavasavadattam, Pancharatra, Urubhanga** (13 plays total) | **Earliest** extant Sanskrit dramatist |
-  | **Kalidasa** | c. 4th–5th c. CE | **Abhijnanashakuntalam** (Shakuntala), **Vikramorvashiya**, **Malavikagnimitram** | Greatest Sanskrit poet-dramatist |
-  | **Shudraka** | c. 5th c. CE | **Mrichchhakatika** (Little Clay Cart) | Social drama; commoner hero |
-  | **Vishakhadatta** | c. 4th–5th c. CE | **Mudrarakshasa** | Political intrigue; Chanakya-Chandragupta |
-  | **Bhavabhuti** | c. 7th–8th c. CE | **Uttararamacharita**, **Malatimadhava** | Romantic tragedy-tinged; **NOT Kalidasa** |
+- Elite speech is Sanskrit. Women, clowns, and servants speak **Prakrit**.
+- **Natyadharmi** is stylised. **Lokadharmi** is closer to life.
+- Classical Sanskrit used **curtains, not masks**. Kathakali *chutti* makeup is dance-drama, not this Sanskrit stage.
+- **Koodiyattam / Kutiyattam** belongs to Kerala. It is the oldest *living* Sanskrit theatre, staged in a *Koothambalam*. One act can last days.
+- Koodiyattam castes are **Chakyar** (actors) and **Nambiar** (drums). The drum is **mizhavu**. Opening recall is **nirvahana**.
+- Koodiyattam UNESCO tags are masterpiece **2001** and Representative List **2008**.
+- Sanskrit theatre declined as language left the masses and courts shifted. It survives as Koodiyattam, not as a north-Indian court play.
 
-- **UPPCS 2025 trap**: **Shringara Shataka = NOT Kalidasa** (Q48). **Uttararamacharita = Bhavabhuti**, NOT Kalidasa.
-- **Kalidasa's 3 plays only**: **Shakuntala, Vikramorvashiya, Malavikagnimitram**. NOT Mudrarakshasa, NOT Mrichchhakatika, NOT Uttararamacharita.
-- **Dramatic conventions**: **Sutradhara** (narrator/director), **Vidushaka** (jester/clown), **Natyadharmi** (stylised) vs **Lokadharmi** (realistic).
-- **Language**: Sanskrit for elite characters. **Prakrit** for women, clowns, commoners.
-- **Staging**: **Yavanika** curtain entry. **Nepathya** backstage. Musicians on stage.
-- **Decline**: Turkic invasions (12th c.). Sanskrit theatre survived in **Koodiyattam** (Kerala) unbroken.
-- **Trap**: **Mrichchhakatika = Shudraka**, NOT Kalidasa.
-
-> **Exam note:** **Kalidasa = 3 plays only** (Shakuntala, Vikramorvashiya, Malavikagnimitram) — UPPCS 2025 asked which was NOT Kalidasa.
-
-### Exam Facts (raata)
-
-- Golden age 2nd c. BCE – 12th c. CE
-- Bhasa = earliest (13 plays)
-- Kalidasa = Shakuntala, Vikramorvashiya, Malavikagnimitram
-- Shudraka = Mrichchhakatika
-- Vishakhadatta = Mudrarakshasa
-- Bhavabhuti = Uttararamacharita (NOT Kalidasa)
-- Sutradhara = director-narrator. Vidushaka = clown.
-- Sanskrit for elite. Prakrit for women/commoners.
-- **No tragedy**. Happy ending.
-- Koodiyattam = living Sanskrit theatre (Kerala)
-
-### PYQs — Sanskrit Theatre
-
-1. **(UPPCS Prelims 2025 — Q48)** Which of the following works was NOT written by Kalidasa?
-
-   1. Meghaduta  
-   2. Raghuvamsha  
-   3. Shringara Shataka  
-
-   Options: A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1  
-   → **B — Only 3 (Shringara Shataka)** is NOT Kalidasa. Meghaduta + Raghuvamsha are his kavya works. Shringara Shataka attributed to Bhartrihari/Bilhana.
-
-2. **(UPSC Prelims 2019 — pattern)** Mrichchhakatika was written by:
-
-   A. Kalidasa  B. Bhasa  C. Shudraka  D. Vishakhadatta  
-   → **C — Shudraka** (Little Clay Cart).
-
-### Examples (7.4)
-
-| Example | Detail |
-|---------|--------|
-| **Abhijnanashakuntalam** | Kalidasa's masterpiece — Shakuntala-Dushyanta |
-| **Mudrarakshasa** | Vishakhadatta — Chanakya's political strategy |
-| **Koodiyattam, Kerala** | Living Sanskrit theatre tradition |
+> **Exam note:** Kalidasa’s **plays** are three. *Uttararamacharita* is by Bhavabhuti. *Mrichchhakatika* is by Shudraka.
 
 ---
 
 ## 7.5 Natyashastra
 
-### Definitions
+**Author:** Bharata Muni | **Identity:** drama + dance + music treatise | Dance papers use the same book
 
-| Source | Definition |
-|--------|------------|
-| **General** | **Natyashastra** = foundational Sanskrit treatise on **drama, dance, music** — attributed to **Bharata Muni** |
-| **NCERT** | India's oldest performing arts encyclopaedia — codifies **rasa theory, abhinaya, stagecraft, dramatic types** |
-| **Exam usage** | Bharata Muni author; 9 rasas; 4 abhinaya; NOT Panini |
+- It is called a **Natyaveda** / fifth Veda in tradition.
+- Pathya (words) is from **Rigveda**.
+- Gita (song) is from **Samaveda**.
+- Abhinaya (acting) is from **Yajurveda**.
+- Rasa is from **Atharvaveda**.
+- The usual date band is **c. 200 BCE – 200 CE**. It is not Panini. It is not Kalidasa.
+- Four abhinaya are **angika, vachika, aharya, sattvika**.
+- The nine rasas are Shringara, Hasya, Karuna, Raudra, Veera, Bhayanaka, Bibhatsa, Adbhuta, and **Shanta** (later ninth).
+- **Bhava** is what the actor holds. **Rasa** is what the spectator tastes.
+- The commentary lock is **Abhinavagupta**, *Abhinavabharati*.
+- The later digest is **Dhananjaya**, *Dasharupaka*.
+- There are ten *rupakas*. Natyashastra itself leans on **Nataka** and **Prakarana**. Learn all ten names:
 
-### Natyashastra — How It Works
+1. **Nataka** is a mythic hero play and is longer.  
+2. **Prakarana** is an invented social plot.  
+3. **Samavakara** is one of the ten rupakas.  
+4. **Ihamrga** is one of the ten rupakas.  
+5. **Dima** is one of the ten rupakas.  
+6. **Vyayoga** is one of the ten rupakas.  
+7. **Anka / Utsrishtikanka** is one of the ten rupakas.  
+8. **Prahasana** is farce.  
+9. **Bhana** is a monologue.  
+10. **Vithi** is one of the ten rupakas.
 
-- **Natyashastra** attributed to **Bharata Muni**. Composed between **2nd c. BCE – 2nd c. CE** (debated). **36 chapters** (some traditions say 37).
-- **Scope**: drama + dance + music + stagecraft + cosmetics + audience psychology: **total theatre manual**.
-- **Origin myth**: Brahma created **Natya Veda** (5th Veda) combining elements of **Rig, Sama, Yajur, Atharva** for all varnas.
-- **Rasa theory**. Core contribution:.
+- **Purvaranga** is the ritual prelude (often behind the curtain). Then the sutradhara in white announces time and place.
+- There is a happy-ending rule. The protagonist is male in the classical formula.
+- The classical stage idea is lower floor = earth, upper = gods. Masks are not part of this grammar.
 
-  | Rasa | Emotion | Example |
-  |------|---------|---------|
-  | **Shringara** | Love/erotic | Hero-heroine union |
-  | **Hasya** | Comic | Vidushaka antics |
-  | **Karuna** | Compassion | Suffering character |
-  | **Raudra** | Anger | Warrior rage |
-  | **Veera** | Heroism | Battle valour |
-  | **Bhayanaka** | Fear | Threat scene |
-  | **Bibhatsa** | Disgust | Repulsive character |
-  | **Adbhuta** | Wonder | Miracle scene |
-  | **Shanta** | Peace/tranquillity | Added later (Abhinavagupta) — 9th rasa |
-
-- **Bhava to Rasa**: **Bhava** (the actor's emotion) leads to **Rasa** (the audience's savouring).
-- **Four Abhinaya** (expression modes):
-  1. **Angika** — body movement (gestures, dance)
-  2. **Vachika** — speech/song (dialogue, lyrics)
-  3. **Aharya** — costume, makeup, props
-  4. **Sattvika** — inner emotional state (trembling, tears, horripilation)
-
-- **Dramatic types**: **Nataka, Prakarana, Bhana, Samavakara, Dima, Ihamrga, Vyayoga, Vithi, Anka, Prahasana**.
-- **Stage divisions**: **Rangashirsha** (stage), **Nepathya** (backstage), **Yavanika** (curtain), **Rangapitha** (green room area).
-- **Dance in Natyashastra**: codifies **karanas** (108 dance movements) from Shiva's tandava: basis of classical dance.
-- **Influence**: foundation for **all Indian classical dance and drama**: bharatanatyam karanas, Kathakali abhinaya, Koodiyattam.
-- **Trap**: Natyashastra author = **Bharata Muni**, NOT Panini (grammar) or Kalidasa (playwright).
-
-> **Exam note:** **9 rasas** (with Shanta) + **4 abhinaya types** — highest-frequency Natyashastra questions.
-
-### Exam Facts (raata)
-
-- Author: Bharata Muni
-- 36 chapters. 2nd c. BCE – 2nd c. CE approx.
-- 9 rasas (Shanta added later)
-- **Bhava** leads to **Rasa theory**.
-- 4 abhinaya: angika, vachika, aharya, sattvika
-- 108 karanas (dance movements)
-- Stage: yavanika, nepathya, rangashirsha
-- Drama types: Nataka, Prakarana, Bhana
-- Natya Veda = 5th Veda (origin myth)
-- Foundation for classical dance + drama
-
-### PYQs — Natyashastra
-
-1. **(UPSC Prelims 2020 — pattern)** Natyashastra is attributed to:
-
-   A. Panini  B. Bharata Muni  C. Kalidasa  D. Patanjali  
-   → **B — Bharata Muni.** Panini = grammar; Patanjali = Mahabhashya.
-
-2. **(UPSC Prelims 2017 — pattern)** Which is NOT one of the nine rasas?
-
-   A. Shringara  B. Hasya  C. Bhakti  D. Karuna  
-   → **C — Bhakti** is NOT a rasa. Shringara, Hasya, Karuna are rasas.
-
-### Examples (7.5)
-
-| Example | Detail |
-|---------|--------|
-| **108 karanas in Brihadeeswara** | Sculptural evidence of Natyashastra dance |
-| **Koodiyattam abhinaya** | Living Natyashastra tradition |
-| **Rasa in Shakuntala** | Shringara + Karuna rasas dominant |
+> **Exam note:** Bharata is Natyashastra. Shanta is the ninth rasa in later lists.
 
 ---
 
 ## 7.6 Rangmanch (Stage Traditions)
 
-### Definitions
+**Identity:** How the play is housed and entered
 
-| Term | Meaning |
-|------|---------|
-| **Rangmanch** | **Stage** — performance space where drama/dance unfolds; Hindi for theatre stage |
-| **Natyagraha** | Purpose-built **theatre building** — enclosed performance hall |
-| **Rangashirsha (rangashirsha)** | Main **acting platform** — front stage area |
+- **Yavanika** is the curtain. It is used for entries and exits.
+- **Nepathya** is backstage (dress, props).
+- **Rangapitha / rangashirsha** is the acting platform.
+- **Mattavarani** are side platforms in the classical plan.
+- **Natyagriha** is the theatre building.
+- **Sitabenga** is in the Ramgarh hills. It is the earliest Indian amphitheatre lock.
+- **Koothambalam** is the Kerala temple theatre for Koodiyattam. It is not a gopuram.
+- Folk rangmanch is often a **ground, mela, or temporary mandap**. No yavanika is needed.
+- Ramnagar Ramlila uses the **town as stage** (moving audience).
+- The modern lock is **NSD**, New Delhi, **1959**.
+- **Prithvi Theatre** is in Mumbai (Kapoor). It is not NSD.
+- **Naya Theatre** is linked to Habib Tanvir. Folk actors appear on the modern stage.
 
-### Rangmanch — How It Works
-
-- **Indian stage traditions** span **temple courtyards, village squares, royal courts, proscenium halls**. Diverse rangmanch types.
-- **Sanskrit stage elements** (Natyashastra):
-
-  | Element | Meaning | Function |
-  |---------|---------|----------|
-  | **Rangashirsha** | Main stage platform | Acting area |
-  | **Yavanika** | Curtain | Entry/exit of actors; "yavanika udyana" = curtain raised |
-  | **Nepathya** | Backstage | Costume change, scenery, actor waiting |
-  | **Rangapitha** | Green room | Pre-entry preparation |
-  | **Rangavedi** | Stage altar | Ritual invocation before performance |
-
-- **Koothambalam** (Kerala): **temple theatre** inside Hindu temples. **Koodiyattam** performed and strict ritual architecture and **vastu**-compliant.
-- **Folk open-air stage**: **Raised wooden platform** (Nautanki, Jatra, Ramlila). **Audience sits on ground** around stage.
-- **Yakshagana stage**: **Bare ground** with oil lamps. **All-night** performance. Minimal scenery.
-- **Court stage**: **Mughal/Rajput courts**. Takht-e-Waqia (Red Fort) for Kathak. Royal patronage.
-- **Modern proscenium**: **NSD Delhi, Prithvi Mumbai**. Western-style **picture-frame stage** with wings, flies, cyclorama.
-- **Rangmanch traditions by region**:
-
-  | Region | Stage tradition |
-  |--------|-----------------|
-  | **Kerala** | Koothambalam temple theatre |
-  | **UP** | Nautanki portable platform; Ramlila neighbourhood stages |
-  | **Karnataka** | Yakshagana open-air ground |
-  | **Assam** | Namghar (prayer hall) for Bhaona |
-  | **Modern** | Proscenium (NSD, Prithvi) |
-
-- **Pre-performance ritual**: **Natya aradhana** (worship lamp/stage). **Ganesh vandana** in folk theatre.
-- **Trap**: **Yavanika = curtain**, NOT backstage (that's **Nepathya**).
-
-> **Exam note:** **Yavanika = curtain** | **Nepathya = backstage** — paired trap in stage terminology.
-
-### Exam Facts (raata)
-
-- Rangmanch = stage (Hindi)
-- Yavanika = curtain. Nepathya = backstage.
-- Rangashirsha = main acting platform
-- Koothambalam = Kerala temple theatre
-- Folk stage = open-air raised platform
-- Yakshagana = ground-level all-night
-- Modern proscenium = NSD, Prithvi
-- Natyagraha = theatre building
-- Pre-performance lamp worship ritual
-- Court stages for Kathak (Mughal/Rajput)
-
-### PYQs — Rangmanch
-
-1. **(UPSC Prelims 2019 — pattern)** In Natyashastra, yavanika refers to:
-
-   A. Backstage  B. Curtain  C. Audience  D. Orchestra  
-   → **B — curtain** (actor entry point). Backstage = Nepathya.
-
-2. **(UPSC Prelims 2016 — pattern)** Koothambalam is associated with:
-
-   A. Folk theatre  B. Temple theatre  C. Modern proscenium  D. Puppet theatre  
-   → **B — temple theatre** (Kerala, Koodiyattam).
-
-### Examples (7.6)
-
-| Example | Detail |
-|---------|--------|
-| **Koothambalam, Kerala temples** | Ritual temple theatre architecture |
-| **Nautanki portable stage, UP** | Folk rangmanch tradition |
-| **NSD proscenium, Delhi** | Modern Indian stage |
+> **Exam note:** Yavanika is not nepathya. Koothambalam is Kerala, not UP.
 
 ---
 
-## 7.7 Kathputli
+## 7.7 Puppetry
 
-### Definitions
+**Four Indian types in standard notes:** string | shadow | rod | glove  
+Syllabus names the first two plus Kathputli (a string school).
 
-| Term | Meaning |
-|------|---------|
-| **Kathputli** | **Rajasthani string puppet** (marionette) — wooden dolls manipulated by **threads from above** |
-| **Kath** | Wood; **Putli** = doll — literally "wooden doll" |
+### String (sutradharika)
 
-### Kathputli — How It Works
+- Sutradhara literally means **holder of strings**. Puppet and play-director share the word.
+- **Kathputli** belongs to **Rajasthan**. They are wooden marionettes with bright dress and **no legs** (skirt hides the base). They are **not** UP.
+- **Kundhei** is Odisha string. It uses light wood and is jointed.
+- **Gombeyatta** is Karnataka string (Yakshagana look).
+- **Bommalattam** belongs to Tamil Nadu. It is a string and rod mix.
 
-- **Kathputli** is the most famous **string puppet** tradition of **Rajasthan**, performed by the **Bhat community** of genealogists and storytellers.
-- **Type**: **Marionette** (sutradhar-controlled). Puppet suspended on **strings/threads** from horizontal control bar.
-- **Material**: **Wood** heads + cloth bodies. Painted faces. **Bright Rajasthani costumes**.
-- **Stories**: **Rajput romances, Amar Singh Rathore, Prithviraj Chauhan, local legends**. Overlap with Nautanki themes.
-- **Music**: **dhol, tabla, harmonium**. Puppeteer (**kathputliwala**) narrates and sings while manipulating strings.
-- **Performance**: Travelling troupes. **Village fairs, festivals, patron households**.
-- **UNESCO**: Rajasthan **Kathputli** tradition part of **intangible cultural heritage** discourse (nominated/proposed).
-- **Delhi's Kathputli Colony** (Shadipur). Famous artisan settlement of puppeteers (urban migration).
-- **Trap**: **Kathputli = **STRING puppet**, NOT shadow puppet**. Exams swap with Tholu Bommalata.
+### Shadow (chhaya)
 
-> **Exam note:** **Kathputli = Rajasthan + STRING (marionette)** — NOT shadow, NOT Odisha.
+- They are leather figures used with a lamp and screen. They have a flat profile.
+- **Tholu Bommalata** belongs to Andhra / Telangana. It uses large coloured leather.
+- **Ravana Chhaya** belongs to Odisha. It uses deer-skin for the Ramayana. Figures stay mostly black.
+- **Togalu Gombeyatta** is Karnataka shadow.
+- **Tolpavakoothu** belongs to Kerala. It is temple leather for the Kamba Ramayana.
 
-### Exam Facts (raata)
+### Rod and glove (exam extras)
 
-- Rajasthan string marionette tradition
-- Kath = wood. Putli = doll.
-- Bhat community performers
-- Strings from above (marionette type)
-- Stories: Rajput legends, Amar Singh Rathore
-- Music: dhol, harmonium, tabla
-- Travelling village fair performances
-- Kathputli Colony, Delhi (artisan settlement)
-- **STRING puppet**. Not shadow.
-- Bright painted wooden heads
+- **Yampuri** are Bihar rod puppets. They have no legs.
+- **Putul Nach** is Bengal rod.
+- **Pavakathakali / Pavakoothu** is Kerala glove.
+- **Gulabo–Sitabo** belongs to **Lucknow, UP**. They are a glove pair of comic women. This is the UP puppet lock, **not** Kathputli.
 
-### PYQs — Kathputli
-
-1. **(UPSC Prelims 2020 — pattern)** Kathputli is a:
-
-   A. Shadow puppet  B. String puppet  C. Glove puppet  D. Rod puppet  
-   → **B — string/marionette puppet** (Rajasthan).
-
-2. **(UPSC Prelims 2017 — pattern)** Kathputli tradition is from:
-
-   A. Odisha  B. Rajasthan  C. Kerala  D. Assam  
-   → **B — Rajasthan.**
-
-### Examples (7.7)
-
-| Example | Detail |
-|---------|--------|
-| **Kathputli Colony, Shadipur, Delhi** | Urban puppeteer community |
-| **Rajasthan village fair** | Traditional Kathputli performance setting |
-| **Amar Singh Rathore puppet play** | Popular Kathputli story |
+> **Exam note:** Kathputli is **Rajasthan string**. Shadow is not Kathputli. Gulabo-Sitabo is **Lucknow glove**.
 
 ---
 
-## 7.8 Shadow Puppetry
+## Consolidated Reference — Once Only
 
-### Definitions
+**UP Focus**
 
-| Term | Meaning |
-|------|---------|
-| **Shadow puppetry** | Flat **cut-out figures** held between **light source and screen** — audience sees **silhouette shadows** |
-| **Chhaya putli** | Hindi — shadow puppet |
+- **Nautanki** has Kanpur and Lucknow schools. It is named in Ain-i-Akbari.
+- **Ramlila** belongs to Ramnagar, Braj, and Varanasi. It is UNESCO 2008.
+- **Raslila** is the Braj Krishna play.
+- **Swang** belongs to the western UP / Haryana border.
+- **Gulabo–Sitabo** are Lucknow glove puppets.
+- **Indra Sabha** is by Amanat, Lucknow, 1853.
+- **Bidesiya** belongs to the eastern UP / Bhojpuri belt.
+- **Bhartendu Harishchandra** belongs to Banaras and the modern Hindi stage.
+- These are **not UP:** Kathputli (Rajasthan), Yakshagana (Karnataka), Koodiyattam (Kerala), Tamasha (Maharashtra), and Ramman (Uttarakhand).
 
-### Shadow Puppetry — How It Works
+**UNESCO theatre-related**
 
-- **Shadow puppetry** = **flat leather/parchment puppets** + **backlit screen** + puppeteer behind screen.
-- **Mechanism**: **strong **oil lamp/light** behind **white cloth screen** leads to **puppet shadows projected to audience side.**.
-- **Complete Indian shadow puppet traditions**:
+- Koodiyattam is 2001 / 2008.
+- Ramlila is 2008.
+- Mudiyettu is 2010.
 
-  | Tradition | State | Material | Stories |
-  |-----------|-------|----------|---------|
-  | **Tholu Bommalata** | **Andhra Pradesh/Telangana** | Leather (parchment) coloured | Ramayana, Mahabharata |
-  | **Ravana Chhaya** | **Odisha** | Single-piece leather | Ramayana |
-  | **Togalu Gombeyaata** | **Karnataka** | Leather; coloured + perforated | Epics, Puranas |
-  | **Tolpavakoothu** | **Kerala** | Leather; temple performance | Kamba Ramayana |
-  | **Charma Chhaya Nacha** | Odisha variant | Leather shadow | Folk epics |
+**Playwright spine (do not mix poems here)**
 
-- **Tholu Bommalata** (AP): **largest** Indian shadow puppets (up to 2 m) and **coloured leather** and both shadow and coloured projection.
-- **Ravana Chhaya** (Odisha): **smaller** puppets and **single-piece** leather cut-out and simpler movement.
-- **Tolpavakoothu** (Kerala): performed in **temples** (Bhagavati temples) and **21-day** Ramayana performance tradition and **deity worship** before show.
-- **Puppet construction**: **Deha** (body), **tholu** (leather), painted with **natural dyes**. **Joints** at shoulders/elbows for movement.
-- **Puppeteer**: Sits/stands **behind screen**. Voices characters. **Sings** epic verses.
-- **Trap**: **Shadow ≠ Kathputli** includes **shadow = flat screen silhouette**. **Kathputli = 3D string marionette**.
-
-> **Exam note:** **Tholu Bommalata = AP shadow** | **Ravana Chhaya = Odisha shadow** | **Tolpavakoothu = Kerala shadow**.
-
-### Exam Facts (raata)
-
-- Flat leather puppets + backlit screen
-- Tholu Bommalata = Andhra Pradesh/Telangana
-- Ravana Chhaya = Odisha
-- Togalu Gombeyaata = Karnataka
-- Tolpavakoothu = Kerala (temple Ramayana)
-- Coloured + perforated leather (some traditions)
-- Puppeteer behind screen
-- Ramayana/Mahabharata stories
-- Oil lamp traditional light source
-- NOT string puppet (that's Kathputli)
-
-### PYQs — Shadow Puppetry
-
-1. **(UPSC Prelims 2019 — pattern)** Tholu Bommalata is:
-
-   A. String puppetry  B. Shadow puppetry  C. Glove puppetry  D. Rod puppetry  
-   → **B — shadow puppetry** (Andhra Pradesh).
-
-2. **(UPSC Prelims 2016 — pattern)** Ravana Chhaya is a shadow puppet tradition of:
-
-   A. Kerala  B. Odisha  C. Rajasthan  D. Assam  
-   → **B — Odisha.**
-
-### Examples (7.8)
-
-| Example | Detail |
-|---------|--------|
-| **Tholu Bommalata, AP** | Large coloured leather shadow puppets |
-| **Tolpavakoothu, Kerala temples** | 21-day Ramayana shadow play |
-| **Ravana Chhaya, Odisha** | Single-piece leather shadows |
+- Kalidasa dramas are 3.
+- Shudraka wrote Mrichchhakatika.
+- Vishakhadatta wrote Mudrarakshasa.
+- Bhavabhuti wrote Uttararamacharita.
 
 ---
 
-## 7.9 String Puppetry
+## Practice Zone — UPPCS Format Drill
 
-### Definitions
+**40 questions.** ≥60% multi-statement. A/R, Match-List, chronology, NOT-matched included.
 
-| Term | Meaning |
-|------|---------|
-| **String puppetry** | Puppets manipulated by **strings/threads** attached to body parts — **marionette** type |
-| **Sutradhar** | Puppeteer who controls strings — also means narrator in Sanskrit drama |
+**Q1.** With reference to Indian theatre, which of the following statements is/are correct?
 
-### String Puppetry — How It Works
+1. Sanskrit drama as a rule ends happily.  
+2. Vidushaka is the clown figure.  
+3. IPTA was founded in 1959.
 
-- **String puppetry** = marionettes. Puppets **suspended on threads** from control bar or rigging. Puppeteer manipulates from **above**.
-- **Indian string puppet traditions** (complete list):
-
-  | Tradition | State | Features |
-  |-----------|-------|----------|
-  | **Kathputli** | **Rajasthan** | Wooden head, cloth body; Bhat community; most famous |
-  | **Gombe Atta** | **Karnataka** | Wooden puppets; Kannada folk stories |
-  | **Bommalattam** | **Tamil Nadu** | Largest marionettes; complex stringing |
-  | **Putul Nautch** | **West Bengal** | Rod-string hybrid; folk tales |
-  | **Kundhei** | **Odisha** | String puppets; folk narratives |
-
-- **Kathputli** (Rajasthan). See §7.7 for full detail. **Primary exam answer** for "string puppetry of India.".
-- **Gombe Atta** (Karnataka): **wooden dolls** with elaborate jointing and stories from **folk epics, social satire**.
-- **Bommalattam** (Tamil Nadu): among **largest Indian puppets** (up to 4–5 ft) and **9 strings** per puppet minimum and heavy wooden construction.
-- **Control mechanism**: **Main bar** with strings to head, hands, back. Skilled puppeteers make puppets **walk, dance, fight**.
-- **Comparison with other puppet types**:
-
-  | Type | Mechanism | Indian example |
-  |------|-----------|----------------|
-  | **String** | Threads from above | Kathputli (Rajasthan) |
-  | **Shadow** | Flat behind screen | Tholu Bommalata (AP) |
-  | **Glove** | Fingers inside puppet | **Pavakoothu** (Kerala glove — rare) |
-  | **Rod** | Rods attached to hands | **Yampuri** (Bihar rod puppet) |
-
-- **Sutradhar** term: means **"holder of strings"**. It links puppetry to Sanskrit drama's narrator-director role.
-- **Trap**: All string puppets ≠ Kathputli only. It but **Kathputli is default exam answer** for Indian string puppetry.
-
-> **Exam note:** **Kathputli = Rajasthan string** is #1 answer; **Bommalattam = Tamil Nadu** for "largest string puppets."
-
-### Exam Facts (raata)
-
-- String puppetry = marionette on threads
-- Kathputli = Rajasthan (primary example)
-- Gombe Atta = Karnataka
-- Bommalattam = Tamil Nadu (largest)
-- Kundhei = Odisha string puppets
-- Sutradhar = string holder / narrator
-- Control bar with multiple strings
-- Wooden heads + cloth/wood bodies
-- Different from shadow (flat screen) and rod (hand rods)
-- Bhat community = Kathputli performers
-
-### PYQs — String Puppetry
-
-1. **(UPSC Prelims 2021 — pattern)** Which is a string puppet tradition?
-
-   A. Tholu Bommalata  B. Kathputli  C. Ravana Chhaya  D. Tolpavakoothu  
-   → **B — Kathputli** (string). Others = shadow.
-
-2. **(UPSC Prelims 2018 — pattern)** Bommalattam string puppets are from:
-
-   A. Tamil Nadu  B. Rajasthan  C. Odisha  D. Kerala  
-   → **A — Tamil Nadu** (large marionettes).
-
-### Examples (7.9)
-
-| Example | Detail |
-|---------|--------|
-| **Kathputli, Rajasthan** | Primary Indian string puppet |
-| **Bommalattam, Tamil Nadu** | Largest string marionettes |
-| **Gombe Atta, Karnataka** | Kannada folk string puppets |
-
----
-
-## Consolidated Reference — Everything in One Place
-
-### Folk Theatre — Complete State Match Table
-
-| Form | State/Region | Type |
-|------|--------------|------|
-| **Nautanki** | **Uttar Pradesh** | Folk opera-dance |
-| **Ramlila** | **UP (Braj) + nationwide** | Ramayana enactment |
-| **Swang** | Haryana, **UP**, Rajasthan | Comic-satirical |
-| **Jatra** | West Bengal, Odisha | Religious-social musical |
-| **Tamasha** | Maharashtra | Lavani + comedy |
-| **Yakshagana** | Karnataka | Dance-drama all-night |
-| **Bhavai** | Gujarat | Social satire |
-| **Bhand Pather** | Kashmir | Mask satire |
-| **Maach** | Madhya Pradesh | Musical folk |
-| **Ankia Naat/Bhaona** | Assam | Vaishnavite one-act |
-| **Koodiyattam** | Kerala | Sanskrit temple theatre |
-| **Therukoothu** | Tamil Nadu | Street theatre |
-| **Dashavatar** | Konkan/Goa/MH | 10 Vishnu avatars |
-
-### Sanskrit Playwrights — Master Table
-
-| Playwright | Major Works | Trap |
-|------------|-------------|------|
-| **Bhasa** | Svapnavasavadattam, Pancharatra (13 plays) | Earliest dramatist |
-| **Kalidasa** | Shakuntala, Vikramorvashiya, Malavikagnimitram + Meghaduta, Raghuvamsha | NOT Shringara Shataka |
-| **Shudraka** | Mrichchhakatika | NOT Kalidasa |
-| **Vishakhadatta** | Mudrarakshasa | Political drama |
-| **Bhavabhuti** | Uttararamacharita, Malatimadhava | NOT Kalidasa |
-
-### Natyashastra — Quick Reference
-
-| Element | Detail |
-|---------|--------|
-| **Author** | Bharata Muni |
-| **Chapters** | 36 |
-| **9 Rasas** | Shringara, Hasya, Karuna, Raudra, Veera, Bhayanaka, Bibhatsa, Adbhuta, Shanta |
-| **4 Abhinaya** | Angika, Vachika, Aharya, Sattvika |
-| **108 Karanas** | Dance movements from Shiva tandava |
-| **Stage terms** | Yavanika (curtain), Nepathya (backstage), Rangashirsha (platform) |
-
-### Puppetry — Complete Type Table
-
-| Type | Mechanism | Indian Examples |
-|------|-----------|-----------------|
-| **String** | Threads from above | Kathputli (Rajasthan), Bommalattam (TN), Gombe Atta (KA) |
-| **Shadow** | Flat behind lit screen | Tholu Bommalata (AP), Ravana Chhaya (OD), Tolpavakoothu (KL) |
-| **Rod** | Rods to hands | Yampuri (Bihar) |
-| **Glove** | Fingers inside | Pavakoothu (Kerala — rare) |
-
-### Important Dates — Theatre & Performing Arts
-
-| Date/Year | Event |
-|-----------|-------|
-| **~2nd c. BCE – 2nd c. CE** | Natyashastra composed (Bharata Muni) |
-| **c. 2nd–3rd c. CE** | Bhasa — earliest Sanskrit plays |
-| **c. 4th–5th c. CE** | Kalidasa golden period |
-| **1468** | Cihna Yatra — first Bhaona (Sankaradeva, Assam) |
-| **1943** | IPTA founded |
-| **1952** | Sangeet Natak Akademi established |
-| **1959** | National School of Drama (NSD), Delhi |
-| **2001** | Koodiyattam UNESCO intangible |
-| **2008** | Ramlila UNESCO intangible |
-
-### UP Focus — Indian Theatre & Performing Arts
-
-| Element | UP Detail |
-|---------|-----------|
-| **Nautanki** | **Primary UP folk theatre** — Gangetic belt (Mathura, Kanpur, Lucknow); mandali troupes; semi-historical romances |
-| **Ramlila** | **Braj (Mathura-Vrindavan)** + **Ramnagar (Varanasi)** month-long versions; UNESCO 2008 |
-| **Swang** | **UP-Haryana border** — comic satire; female impersonation |
-| **Lucknow theatre** | Nawabi Urdu/Hindi drama tradition; Kathak overlap (Topic 6) |
-| **Awadhi folk** | Nautanki stories in Awadhi/Braj dialects |
-| **NOT UP traps** | Bhavai = **Gujarat**; Jatra = **Bengal**; Yakshagana = **Karnataka**; Kathputli = **Rajasthan** |
-| **Kalidasa trap** | Shringara Shataka NOT Kalidasa (UPPCS 2025 Q48) |
-
----
-
-## Practice Zone (Topic 7)
-
-> **39 questions** — mix of MCQ, multi-statement, A/R, matching. Answers in `<details>`.
-
-**Q1.** With reference to Natyashastra, which statements is/are correct?
-
-1. It is attributed to Bharata Muni.  
-2. It describes nine rasas including Shanta.
-
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both correct.
+**Ans: A** — IPTA = **1943**. NSD = 1959.
 
 </details>
 
----
+**Q2.** Match List-I with List-II and select the correct answer from the code given below.
 
-**Q2.** Nautanki is a folk theatre form of:
+**List-I (Form)**  
+A. Nautanki  
+B. Tamasha  
+C. Yakshagana  
+D. Jatra  
 
-Options: A. Punjab  B. Uttar Pradesh  C. Bengal  D. Gujarat
+**List-II (Region)**  
+1. Maharashtra  
+2. Uttar Pradesh  
+3. West Bengal  
+4. Karnataka  
+
+A. 2 1 4 3  
+B. 2 4 1 3  
+C. 1 2 4 3  
+D. 2 1 3 4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — UP folk opera.
+**Ans: A.**
 
 </details>
 
----
+**Q3.** Which of the following pairs is NOT correctly matched?
 
-**Q3.** Consider the following statements about Sanskrit drama:
-
-1. Sanskrit plays traditionally end happily.  
-2. Vidushaka is the clown character.
-
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Bhavai — Gujarat  
+B. Bhand Pather — Kashmir  
+C. Nautanki — Maharashtra  
+D. Maach — Madhya Pradesh
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both correct.
+**Ans: C.**
 
 </details>
 
----
+**Q4.** Assertion (A): Ramlila of north India is on UNESCO’s ICH list.  
+Reason (R): Ramlila is one of the eight SNA classical dances.
 
-**Q4.** Mrichchhakatika was written by:
-
-Options: A. Kalidasa  B. Bhasa  C. Shudraka  D. Bhavabhuti
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Shudraka (Little Clay Cart).
+**Ans: C.**
 
 </details>
 
----
+**Q5.** How many of the following statements are correct?
 
-**Q5.** Kathputli is an example of:
+1. Natyashastra is attributed to Bharata.  
+2. Song in the Natyaveda scheme is taken from Samaveda.  
+3. Panini wrote the Natyashastra.
 
-Options: A. Shadow puppetry  B. String puppetry  C. Rod puppetry  D. Glove puppetry
+A. Only one  
+B. Only two  
+C. All three  
+D. None
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Rajasthan string marionette.
+**Ans: B.**
 
 </details>
 
----
+**Q6.** With reference to Kalidasa’s dramas, which of the following statements is/are correct?
 
-**Q6.** Tholu Bommalata belongs to:
+1. *Abhijnanashakuntalam* is his.  
+2. *Uttararamacharita* is his.  
+3. *Malavikagnimitram* is his.
 
-Options: A. Rajasthan  B. Andhra Pradesh  C. Odisha  D. Assam
+A. 1 and 3 only  
+B. 1 and 2 only  
+C. 1 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Andhra Pradesh shadow puppetry.
+**Ans: A** — *Uttararamacharita* = **Bhavabhuti**.
 
 </details>
 
----
+**Q7.** Match List-I with List-II.
 
-**Q7.** Assertion (A): Indian Sanskrit drama has no tragedy tradition.  
-Reason (R): Natyashastra mandates happy endings for dramatic performances.
+**List-I (Author)**  
+A. Bhasa  
+B. Shudraka  
+C. Vishakhadatta  
+D. Harsha  
 
-Options: A. Both A and R true; R explains A  B. Both true; R does not explain A  C. A true, R false  D. A false, R true
+**List-II (Work)**  
+1. Mrichchhakatika  
+2. Svapnavasavadattam  
+3. Ratnavali  
+4. Mudrarakshasa  
+
+A. 2 1 4 3  
+B. 2 4 1 3  
+C. 1 2 4 3  
+D. 2 1 3 4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Both true; convention of happy ending = no Greek-style tragedy.
+**Ans: A.**
 
 </details>
 
----
+**Q8.** Which of the following pairs is NOT correctly matched?
 
-**Q8.** Which is/are correctly matched?
-
-1. Yakshagana — Karnataka  
-2. Bhavai — Gujarat  
-3. Jatra — West Bengal
-
-Options: A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. Yavanika — curtain  
+B. Nepathya — backstage  
+C. Koothambalam — Kerala temple theatre  
+D. Yavanika — NSD director’s title
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — All three pairs correct.
+**Ans: D.**
 
 </details>
 
----
+**Q9.** Assertion (A): Koodiyattam is a living Sanskrit theatre of Kerala.  
+Reason (R): It is performed in koothambalam attached to temples.
 
-**Q9.** In Natyashastra stage terminology, yavanika means:
-
-Options: A. Backstage  B. Curtain  C. Audience hall  D. Orchestra pit
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Curtain. Nepathya = backstage.
+**Ans: A.**
 
 </details>
 
----
+**Q10.** National School of Drama was established in
 
-**Q10.** Koodiyattam is:
-
-Options: A. Folk dance of Assam  B. Sanskrit temple theatre of Kerala  C. Shadow puppetry of Odisha  D. String puppetry of Rajasthan
+A. 1943 at Mumbai  
+B. 1952 at Lucknow  
+C. 1959 at New Delhi  
+D. 1959 at Banaras
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Kerala Sanskrit theatre; UNESCO 2001.
+**Ans: C.**
 
 </details>
 
----
+**Q11.** With reference to puppetry, which of the following statements is/are correct?
 
-**Q11.** Which of the following works was NOT written by Kalidasa?
+1. Kathputli of Rajasthan is a string marionette.  
+2. Tholu Bommalata is a shadow tradition of Andhra.  
+3. Gulabo-Sitabo of Lucknow are string kathputlis.
 
-1. Meghaduta  
-2. Raghuvamsha  
-3. Shringara Shataka
-
-Options: A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Only 3 (Shringara Shataka) is NOT Kalidasa. UPPCS 2025 Q48.
+**Ans: A** — Gulabo-Sitabo = **glove**.
 
 </details>
 
----
+**Q12.** Match List-I with List-II.
 
-**Q12.** National School of Drama (NSD) is located in:
+**List-I (Puppet)**  
+A. Kathputli  
+B. Ravana Chhaya  
+C. Tolpavakoothu  
+D. Gulabo-Sitabo  
 
-Options: A. Mumbai  B. Kolkata  C. New Delhi  D. Chennai
+**List-II**  
+1. Odisha shadow  
+2. Rajasthan string  
+3. Lucknow glove  
+4. Kerala shadow  
+
+A. 2 1 4 3  
+B. 2 4 1 3  
+C. 1 2 4 3  
+D. 2 1 3 4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Established 1959, Delhi.
+**Ans: A.**
 
 </details>
 
----
+**Q13.** Which of the following pairs is NOT correctly matched?
 
-**Q13.** Consider the following about puppetry:
-
-1. Kathputli uses strings from above.  
-2. Ravana Chhaya is a shadow puppet tradition.
-
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Ankiya Nat — Assam  
+B. Therukoothu — Tamil Nadu  
+C. Yakshagana — Kerala  
+D. Swang — Haryana / UP
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both correct.
+**Ans: C** — Yakshagana = **Karnataka**.
 
 </details>
 
----
+**Q14.** How many of the following are correctly matched?
 
-**Q14.** Uttararamacharita was written by:
+1. Nataka — heroic mythic rupaka  
+2. Prakarana — invented social plot  
+3. Vidushaka — director-narrator  
 
-Options: A. Kalidasa  B. Bhasa  C. Bhavabhuti  D. Vishakhadatta
+A. Only one  
+B. Only two  
+C. All three  
+D. None
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Bhavabhuti, NOT Kalidasa.
+**Ans: B** — Director-narrator = **sutradhara**.
 
 </details>
 
----
+**Q15.** Assertion (A): Elite characters in Sanskrit drama speak Sanskrit.  
+Reason (R): Women and the vidushaka typically speak Prakrit.
 
-**Q15.** Match List-I with List-II:
-
-List-I: A. Tamasha  B. Nautanki  C. Bhand Pather  D. Ankia Naat  
-List-II: 1. Assam  2. Kashmir  3. Maharashtra  4. Uttar Pradesh
-
-Options: A. 3-4-2-1  B. 4-3-1-2  C. 3-4-1-2  D. 2-4-3-1
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Tamasha-MH, Nautanki-UP, Bhand Pather-Kashmir, Ankia Naat-Assam.
+**Ans: B** — Both conventions are true. Prakrit use does not *explain* why elites use Sanskrit.
 
 </details>
 
----
+**Q16.** Arrange in chronological order of founding / inscription commonly cited in exams.
 
-**Q16.** Which is NOT one of the nine rasas in Natyashastra?
+1. IPTA  
+2. NSD  
+3. Koodiyattam UNESCO masterpiece proclamation  
 
-Options: A. Shringara  B. Hasya  C. Bhakti  D. Karuna
+A. 1, 2, 3  
+B. 1, 3, 2  
+C. 2, 1, 3  
+D. 3, 1, 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Bhakti is NOT a rasa.
+**Ans: A** — 1943 → 1959 → 2001.
 
 </details>
 
----
+**Q17.** Which of the following is/are correct about Natyashastra?
 
-**Q17.** Tolpavakoothu is a shadow puppet tradition of:
+1. Rasa is what the spectator tastes.  
+2. Bhava is the actor’s emotion.  
+3. Shanta is never counted among rasas.
 
-Options: A. Kerala  B. Odisha  C. Karnataka  D. Tamil Nadu
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 1 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Kerala temple Ramayana shadow play.
+**Ans: A** — Shanta is the later **ninth**.
 
 </details>
 
----
+**Q18.** Match List-I with List-II.
 
-**Q18.** With reference to performing arts in India:
+**List-I (UP lock)**  
+A. Nautanki  
+B. Gulabo-Sitabo  
+C. Bhartendu Harishchandra  
+D. Ramnagar  
 
-1. Sangeet Natak Akademi covers music, dance, and theatre.  
-2. Folk theatre uses regional languages and open-air stages.
+**List-II**  
+1. Lucknow glove puppets  
+2. Folk opera  
+3. Ramlila town-as-stage  
+4. Modern Hindi theatre, Banaras  
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. 2 1 4 3  
+B. 2 4 1 3  
+C. 1 2 4 3  
+D. 2 1 3 4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both correct.
+**Ans: A.**
 
 </details>
 
----
+**Q19.** Which of the following pairs is NOT correctly matched?
 
-**Q19.** Mudrarakshasa was written by:
-
-Options: A. Kalidasa  B. Shudraka  C. Vishakhadatta  D. Bhasa
+A. Mudiyettu — Kerala — UNESCO 2010  
+B. Ramlila — UNESCO 2008  
+C. Koodiyattam — ninth SNA classical dance  
+D. Koodiyattam — Sanskrit theatre
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Political drama on Chanakya.
+**Ans: C.**
 
 </details>
 
----
+**Q20.** With reference to shadow puppetry, which of the following statements is/are correct?
 
-**Q20.** Bommalattam string puppets are from:
+1. Ravana Chhaya belongs to Odisha.  
+2. Tholu Bommalata uses large coloured leather figures.  
+3. Kathputli is a Kerala shadow form.
 
-Options: A. Tamil Nadu  B. Rajasthan  C. Odisha  D. Kerala
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Tamil Nadu (large marionettes).
+**Ans: A.**
 
 </details>
 
----
+**Q21.** *Mrichchhakatika* was written by
 
-**Q21.** Which is/are NOT correctly matched?
-
-1. Kathputli — Shadow puppetry  
-2. Swang — Haryana/UP  
-3. Ramlila — UNESCO intangible heritage
-
-Options: A. 1 only  B. 2 only  C. 1 and 3  D. 3 only
+A. Kalidasa  
+B. Bhasa  
+C. Shudraka  
+D. Vishakhadatta
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Only statement 1 wrong (Kathputli = string, not shadow). Swang + Ramlila correct.
+**Ans: C.**
 
 </details>
 
----
+**Q22.** Assertion (A): Nautanki is the standard UP folk-theatre lock.  
+Reason (R): Tamasha of Maharashtra is built around lavani.
 
-**Q22.** Koothambalam is associated with:
-
-Options: A. Folk open-air stage  B. Kerala temple theatre  C. Mughal court stage  D. Modern proscenium
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Temple theatre for Koodiyattam.
+**Ans: B.**
 
 </details>
 
----
+**Q23.** How many of the following are UP performing-art locks?
 
-**Q23.** The earliest extant Sanskrit dramatist is:
+1. Nautanki  
+2. Kathputli  
+3. Ramlila of Ramnagar  
+4. Gulabo-Sitabo  
 
-Options: A. Kalidasa  B. Bhasa  C. Shudraka  D. Bhavabhuti
+A. Only two  
+B. Only three  
+C. All four  
+D. Only one
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Bhasa (13 plays).
+**Ans: B** — Kathputli = **Rajasthan**.
 
 </details>
 
----
+**Q24.** Match List-I with List-II.
 
-**Q24.** Consider the following about abhinaya:
+**List-I**  
+A. Sutradhara  
+B. Purvaranga  
+C. Prahasana  
+D. Bhana  
 
-1. Angika abhinaya uses body movement.  
-2. Vachika abhinaya uses speech and song.  
-3. Aharya abhinaya uses costume and makeup.
+**List-II**  
+1. Farce  
+2. Prelude  
+3. Presenter-director  
+4. Monologue play  
 
-Options: A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 3 2 1 4  
+B. 3 1 2 4  
+C. 2 3 1 4  
+D. 3 2 4 1
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — All three are abhinaya types (4th = Sattvika).
+**Ans: A.**
 
 </details>
 
----
+**Q25.** Which of the following statements is/are correct?
 
-**Q25.** Ramlila is most strongly associated with which UP region?
+1. Ankiya Nat is linked to Sankaradeva.  
+2. Bhaona is the performance of that drama.  
+3. Ankiya Nat is the folk theatre of Gujarat.
 
-Options: A. Bundelkhand  B. Braj (Mathura-Vrindavan)  C. Terai  D. Rohilkhand
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 1 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Braj region; also famous at Ramnagar, Varanasi.
+**Ans: A** — Gujarat = **Bhavai**.
 
 </details>
 
----
+**Q26.** Which of the following pairs is NOT correctly matched?
 
-**Q26.** Ravana Chhaya is a shadow puppet tradition of:
-
-Options: A. Kerala  B. Odisha  C. Rajasthan  D. Assam
+A. Mahendravarman — Mattavilasa Prahasana  
+B. Harsha — Ratnavali  
+C. Bhavabhuti — Mudrarakshasa  
+D. Kalidasa — Vikramorvashiya
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Odisha leather shadow puppets.
+**Ans: C** — Mudrarakshasa = **Vishakhadatta**.
 
 </details>
 
----
+**Q27.** With reference to rangmanch, which of the following statements is/are correct?
 
-**Q27.** Assertion (A): Kathputli is a shadow puppet tradition of Rajasthan.  
-Reason (R): Shadow puppets are flat leather figures projected on a screen.
+1. Folk nautanki often uses a temporary mandap, not a koothambalam.  
+2. Ramnagar Ramlila treats the town as the stage.  
+3. Koothambalam is the NSD campus in Delhi.
 
-Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A false, R true  D. A true, R false
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — A is FALSE (Kathputli = string). R is true about shadow puppetry mechanism.
+**Ans: A.**
 
 </details>
 
----
+**Q28.** Arrange the playwrights in the usual exam chronology (earliest to latest among the set).
 
-**Q28.** Abhijnanashakuntalam was written by:
+1. Bhavabhuti  
+2. Bhasa  
+3. Harsha  
 
-Options: A. Bhasa  B. Kalidasa  C. Bhavabhuti  D. Shudraka
+A. 2, 3, 1  
+B. 2, 1, 3  
+C. 3, 2, 1  
+D. 1, 2, 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Kalidasa's masterpiece.
+**Ans: A** — Bhasa (early centuries CE) → Harsha 7th c. → Bhavabhuti 7th–8th c.
 
 </details>
 
----
+**Q29.** Assertion (A): Kathputli is a Rajasthan string tradition.  
+Reason (R): Shadow puppets of Odisha are called Ravana Chhaya.
 
-**Q29.** Which folk theatre form is associated with lavani songs?
-
-Options: A. Jatra  B. Tamasha  C. Nautanki  D. Yakshagana
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Maharashtra Tamasha.
+**Ans: B.**
 
 </details>
 
----
+**Q30.** Four abhinaya of Natyashastra include which of the following?
 
-**Q30.** Gombe Atta string puppets are from:
+1. Angika  
+2. Vachika  
+3. Aharya  
+4. Sattvika  
 
-Options: A. Karnataka  B. Gujarat  C. Bengal  D. Punjab
+A. 1 and 2 only  
+B. 1, 2 and 3 only  
+C. 1, 2, 3 and 4  
+D. 2 and 4 only
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Karnataka folk string puppets.
+**Ans: C.**
 
 </details>
 
----
+**Q31.** Which of the following is/are correct?
 
-**Q31.** Which is/are correctly matched?
+1. SNA (1952) includes theatre in its mandate.  
+2. NSD (1959) is India’s national theatre school.  
+3. Kalakshetra is the National School of Drama.
 
-1. Nepathya — Backstage  
-2. Rangashirsha — Main stage platform  
-3. Natyagraha — Theatre building
-
-Options: A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — All three stage terms correct.
+**Ans: A** — Kalakshetra = Bharatanatyam.
 
 </details>
 
----
+**Q32.** Match List-I with List-II.
 
-**Q32.** IPTA (Indian People's Theatre Association) was founded in:
+**List-I**  
+A. Pandavani  
+B. Mudiyettu  
+C. Dashavatar  
+D. Therukoothu  
 
-Options: A. 1929  B. 1943  C. 1952  D. 1959
+**List-II**  
+1. Kerala ritual theatre  
+2. Chhattisgarh  
+3. Tamil street theatre  
+4. Konkan Vishnu-avatar play  
+
+A. 2 1 4 3  
+B. 2 4 1 3  
+C. 1 2 4 3  
+D. 2 1 3 4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 1943 — modern theatre movement.
+**Ans: A.**
 
 </details>
 
----
+**Q33.** Which of the following pairs is NOT correctly matched?
 
-**Q33.** Bhand Pather is a folk theatre form of:
-
-Options: A. Gujarat  B. Kashmir  C. Assam  D. Odisha
+A. Bommalattam — Tamil Nadu  
+B. Yampuri — Bihar rod puppets  
+C. Tholu Bommalata — Rajasthan string  
+D. Togalu Gombeyatta — Karnataka shadow
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Kashmir satirical mask theatre.
+**Ans: C.**
 
 </details>
 
----
+**Q34.** With reference to Bhartendu Harishchandra, which of the following statements is/are correct?
 
-**Q34.** Consider the following statements:
+1. He is a modern Hindi theatre lock.  
+2. He is associated with Banaras (UP).  
+3. He wrote *Mrichchhakatika*.
 
-1. Sanskrit was used for elite characters in Sanskrit drama.  
-2. Prakrit was used for women and commoners.
-
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both correct — language convention in Sanskrit theatre.
+**Ans: A.**
 
 </details>
 
----
+**Q35.** How many of the following UNESCO tags are theatre / ritual-theatre?
 
-**Q35.** Togalu Gombeyaata is a shadow puppet tradition of:
+1. Koodiyattam  
+2. Ramlila  
+3. Garba  
+4. Mudiyettu  
 
-Options: A. Andhra Pradesh  B. Karnataka  C. Kerala  D. Tamil Nadu
+A. Only two  
+B. Only three  
+C. All four  
+D. Only one
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Karnataka leather shadow puppets.
+**Ans: B** — Garba is **folk dance**, not theatre.
 
 </details>
 
----
+**Q36.** Assertion (A): *Mudrarakshasa* is a political Sanskrit play.  
+Reason (R): It was written by Kalidasa at Akbar’s court.
 
-**Q36.** Sutradhara in Sanskrit drama means:
-
-Options: A. Hero  B. Clown  C. Director-narrator  D. Stage curtain
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Director-narrator (also string-holder in puppetry).
+**Ans: C** — Author = Vishakhadatta. Not Mughal.
 
 </details>
 
----
+**Q37.** Which of the following statements is/are correct about Koodiyattam?
 
-**Q37.** Which is/are correctly matched?
+1. It can take many days to finish one act.  
+2. UNESCO proclaimed it a masterpiece in 2001.  
+3. It is the same art as Kathakali.
 
-1. Bhasa — Earliest Sanskrit dramatist  
-2. Vishakhadatta — Mudrarakshasa  
-3. Kalidasa — Mrichchhakatika
-
-Options: A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 only  
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — 1 and 2 only. Mrichchhakatika = Shudraka, NOT Kalidasa.
+**Ans: A.**
 
 </details>
 
----
+**Q38.** Match List-I with List-II.
 
-**Q38.** Consider the following about Indian puppetry:
+**List-I (Natyaveda limb)**  
+A. Pathya  
+B. Gita  
+C. Abhinaya  
+D. Rasa  
 
-1. Shadow puppets are flat figures behind a lit screen.  
-2. String puppets are manipulated by threads from above.  
-3. Kathputli and Tholu Bommalata are both shadow traditions.
+**List-II (Veda)**  
+1. Samaveda  
+2. Rigveda  
+3. Atharvaveda  
+4. Yajurveda  
 
-Options: A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 2 1 4 3  
+B. 2 4 1 3  
+C. 1 2 4 3  
+D. 2 1 3 4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — 1 and 2 only. Statement 3 wrong — Kathputli = string; Tholu Bommalata = shadow.
+**Ans: A.**
 
 </details>
 
----
+**Q39.** Which of the following pairs is NOT correctly matched?
 
-**Q39.** With reference to Sanskrit theatre conventions:
-
-1. Sutradhara acts as director-narrator.  
-2. Vidushaka is the clown/jester character.  
-3. Tragedy endings are mandatory.
-
-Options: A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. Habib Tanvir — Naya Theatre  
+B. Prithvi Theatre — Mumbai  
+C. NSD — New Delhi  
+D. IPTA — 1959
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — 1 and 2 only. Statement 3 wrong — happy endings mandatory, no tragedy.
+**Ans: D** — IPTA = **1943**.
+
+</details>
+
+**Q40.** With reference to Swang and Nautanki, which of the following statements is/are correct?
+
+1. Both appear in the western Gangetic / Haryana–UP belt.  
+2. Swang is especially known for satire and male impersonation of women.  
+3. Both are SNA classical dances of Kerala.
+
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.**
 
 </details>
 
@@ -1347,307 +1005,45 @@ Options: A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 
 ## Complete PYQ Bank (Topic 7)
 
-> **Answers hidden** — click *Show answer* under each question to reveal.
+**Local `pyq/` 2018–2025:** no UPPCS question whose *primary* topic is theatre, Natyashastra, or puppetry.
 
-**Q1. UPPCS Prelims 2025 — Q48**
+**Trap for this chapter:** UPPCS **2025 Q48** — *Shringara Shataka* is **Bhartrihari**, not Kalidasa. Kalidasa’s **three plays** are *Abhijnanashakuntalam*, *Vikramorvashiya*, *Malavikagnimitram*.
 
-Which of the following works was NOT written by Kalidasa?
+**External high-yield (UPSC — not in local pyq/)**
 
-1. Meghaduta  
-2. Raghuvamsha  
-3. Shringara Shataka
-
-Options: A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Only 3 (Shringara Shataka) is NOT Kalidasa.
-
-</details>
+Koodiyattam is Sanskrit temple theatre of Kerala (UNESCO 2001/2008), not a classical dance. Nautanki is UP folk theatre. Yakshagana is Karnataka. These three matches are the usual UPSC/state pattern this chapter must carry.
 
 ---
 
-**Q2. UPSC Prelims 2020 — pattern**
-
-Natyashastra is attributed to:
-
-Options: A. Panini  B. Bharata Muni  C. Kalidasa  D. Patanjali
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Bharata Muni.
-
-</details>
-
----
-
-**Q3. UPSC Prelims 2020 — pattern**
-
-Nautanki is a folk theatre form of:
-
-Options: A. Punjab  B. Uttar Pradesh  C. Bengal  D. Maharashtra
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Uttar Pradesh.
-
-</details>
-
----
-
-**Q4. UPSC Prelims 2020 — pattern**
-
-Indian Sanskrit drama traditionally:
-
-Options: A. Ends in tragedy  B. Ends happily  C. Has no plot  D. Is always one-act
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Happy ending mandatory.
-
-</details>
-
----
-
-**Q5. UPSC Prelims 2021 — pattern**
-
-Which is a string puppet tradition?
-
-Options: A. Tholu Bommalata  B. Kathputli  C. Ravana Chhaya  D. Tolpavakoothu
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Kathputli (string). Others = shadow.
-
-</details>
-
----
-
-**Q6. UPSC Prelims 2021 — pattern**
-
-Koodiyattam is recognised by UNESCO as:
-
-Options: A. Dance only  B. Music  C. Theatre/performing art  D. Painting
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Kerala Sanskrit temple theatre (2001).
-
-</details>
-
----
-
-**Q7. UPSC Prelims 2019 — pattern**
-
-Tholu Bommalata is:
-
-Options: A. String puppetry  B. Shadow puppetry  C. Glove puppetry  D. Rod puppetry
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Andhra Pradesh shadow puppetry.
-
-</details>
-
----
-
-**Q8. UPSC Prelims 2019 — pattern**
-
-In Natyashastra, yavanika refers to:
-
-Options: A. Backstage  B. Curtain  C. Audience  D. Orchestra
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Curtain.
-
-</details>
-
----
-
-**Q9. UPSC Prelims 2019 — pattern**
-
-Mrichchhakatika was written by:
-
-Options: A. Kalidasa  B. Bhasa  C. Shudraka  D. Vishakhadatta
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Shudraka.
-
-</details>
-
----
-
-**Q10. UPSC Prelims 2018 — pattern**
-
-Yakshagana belongs to:
-
-Options: A. Tamil Nadu  B. Karnataka  C. Kerala  D. Andhra Pradesh
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Karnataka dance-drama.
-
-</details>
-
----
-
-**Q11. UPSC Prelims 2018 — pattern**
-
-Bommalattam string puppets are from:
-
-Options: A. Tamil Nadu  B. Rajasthan  C. Odisha  D. Kerala
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Tamil Nadu.
-
-</details>
-
----
-
-**Q12. UPSC Prelims 2017 — pattern**
-
-Which is NOT one of the nine rasas?
-
-Options: A. Shringara  B. Hasya  C. Bhakti  D. Karuna
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Bhakti is NOT a rasa.
-
-</details>
-
----
-
-**Q13. UPSC Prelims 2017 — pattern**
-
-Kathputli tradition is from:
-
-Options: A. Odisha  B. Rajasthan  C. Kerala  D. Assam
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Rajasthan string puppets.
-
-</details>
-
----
-
-**Q14. UPSC Prelims 2016 — pattern**
-
-Ravana Chhaya is a shadow puppet tradition of:
-
-Options: A. Kerala  B. Odisha  C. Rajasthan  D. Assam
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Odisha.
-
-</details>
-
----
-
-**Q15. UPSC Prelims 2016 — pattern**
-
-Koothambalam is associated with:
-
-Options: A. Folk theatre  B. Temple theatre  C. Modern proscenium  D. Puppet theatre
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Kerala temple theatre.
-
-</details>
-
----
-
-**Q16. UPSC Prelims 2016 — pattern**
-
-National School of Drama is in:
-
-Options: A. Mumbai  B. Kolkata  C. New Delhi  D. Chennai
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — New Delhi (1959).
-
-</details>
-
----
-
-## Mains Answer Framework (Topic 7)
-
-### Q: Discuss the significance of Natyashastra in Indian performing arts
-
-**Structure (250 words):**
-1. **Intro:** Bharata Muni's Natyashastra (~2nd c. BCE–CE) — foundational treatise on drama, dance, music, stagecraft
-2. **Rasa theory:** 9 rasas — bhava → rasa transformation; audience psychology; influence on classical dance (Bharatanatyam, Kathakali)
-3. **Abhinaya:** 4 types (angika, vachika, aharya, sattvika) — total theatre integration
-4. **Dramatic forms:** Nataka, Prakarana, Bhana — Sanskrit theatre conventions; no tragedy
-5. **Stagecraft:** Yavanika, nepathya, rangashirsha — Koothambalam temple theatres
-6. **Living legacy:** Koodiyattam (UNESCO 2001); 108 karanas in temple sculpture; NSD/SNA continuing tradition
-7. **Conclusion:** Natyashastra unifies India's performing arts — not mere text but living aesthetic framework
-
-### Q: Diversity of Indian folk theatre traditions
-
-**Structure (200 words):**
-1. **Intro:** Folk theatre = regional language, community participation, oral tradition — complements Sanskrit classical
-2. **North:** **Nautanki (UP)**, Swang (Haryana/UP), Ramlila (Braj)
-3. **East:** Jatra (Bengal/Odisha)
-4. **West:** Tamasha (Maharashtra), Bhavai (Gujarat)
-5. **South:** Yakshagana (Karnataka), Therukoothu (TN)
-6. **Features:** Open-air stage, music-dance-acting combined, festival-linked, improvisation
-7. **Conclusion:** Folk theatre preserves local identity; UNESCO recognition (Ramlila 2008); need patronage amid cinema competition
-
-### Q: Nautanki and Uttar Pradesh's folk theatre heritage
-
-**Structure (200 words):**
-1. **Intro:** Nautanki = UP's premier folk opera-dance theatre — Gangetic belt (Mathura, Kanpur, Lucknow)
-2. **Form:** Mandali troupe; sangeet interludes; stories (Laila-Majnu, Amar Singh Rathore)
-3. **UP ecosystem:** Nautanki + Ramlila (Braj, Varanasi) + Swang — UP's folk theatre triad
-4. **Decline & revival:** 20th c. cinema competition; folk artist efforts; SNA documentation
-5. **Distinction:** NOT Tamasha (MH), NOT Jatra (Bengal) — geography trap
-6. **Conclusion:** Nautanki = UP's unique folk theatre contribution; integral to Awadhi-Braj cultural identity
+## Current Affairs
+
+| Year | Fact | Why asked | Source |
+|------|------|-----------|--------|
+| 2001 / 2008 | Koodiyattam UNESCO masterpiece then Representative List | Theatre vs dance trap | UNESCO ICH |
+| 2008 | Ramlila UNESCO ICH | UP + folk theatre | UNESCO |
+| 2010 | Mudiyettu UNESCO | Kerala ritual theatre ≠ Kathakali | UNESCO |
+
+SNA / NSD standing dates are static, not news.
 
 ---
 
 ## Common Traps — Don't Fall For These
 
-| Trap | Correct answer |
-|------|----------------|
-| Natyashastra by Panini? | **NO** — **Bharata Muni** (Panini = grammar) |
-| Bhakti = rasa? | **NO** — **9 rasas**; Bhakti NOT included |
-| Kathputli = shadow puppet? | **NO** — **String/marionette** (Rajasthan) |
-| Tholu Bommalata = string? | **NO** — **Shadow** puppetry (Andhra Pradesh) |
-| Nautanki = Maharashtra? | **NO** — **Uttar Pradesh** (Tamasha = Maharashtra) |
-| Mrichchhakatika = Kalidasa? | **NO** — **Shudraka** |
-| Uttararamacharita = Kalidasa? | **NO** — **Bhavabhuti** |
-| Shringara Shataka = Kalidasa? | **NO** — NOT Kalidasa (UPPCS 2025 Q48) |
-| Yavanika = backstage? | **NO** — **Curtain** (Nepathya = backstage) |
-| Koodiyattam = folk dance? | **NO** — **Sanskrit temple theatre** (Kerala) |
-| Yakshagana = Tamil Nadu? | **NO** — **Karnataka** |
-| Bhavai = UP? | **NO** — **Gujarat** |
-| Jatra = UP? | **NO** — **West Bengal/Odisha** |
-| Sanskrit drama = tragedy? | **NO** — **Happy ending** mandatory |
-| Bhasa = latest dramatist? | **NO** — **Earliest** extant Sanskrit dramatist |
-
----
-
+1. **Nautanki** belongs to **UP** (Kanpur and Lucknow). Tamasha belongs to Maharashtra. Jatra belongs to Bengal.
+2. **Yakshagana** belongs to **Karnataka**, not Kerala.
+3. **Koodiyattam** is **Sanskrit theatre**, not Kathakali and not SNA dance no. 9.
+4. Kalidasa dramas are **three**. *Uttararamacharita* is by **Bhavabhuti**.
+5. *Mrichchhakatika* is by **Shudraka**. *Mudrarakshasa* is by **Vishakhadatta**. *Sariputraprakarana* is by **Ashvaghosha**.
+6. *Shringara Shataka* is not by Kalidasa (**Bhartrihari**).
+7. **Kathputli** is **Rajasthan string**, not Lucknow. **Kundhei** is **Odisha string**.
+8. **Gulabo-Sitabo** is **Lucknow glove**, not Kathputli.
+9. In shadow puppetry, Tholu belongs to AP. Ravana Chhaya belongs to Odisha. Tolpavakoothu belongs to Kerala.
+10. Yavanika is the curtain. Nepathya is backstage.
+11. IPTA is **1943**. NSD is **1959**. SNA is **1952**.
+12. Ramlila is UNESCO folk **theatre**, not a classical dance. **Ramman** belongs to **Uttarakhand**, not UP.
+13. Koothambalam is the Kerala temple stage, not NSD Delhi.
+14. Khayal singing is not Khyal, the Rajasthan folk play.
+15. In Swang, men play women. In Tamasha, women may play men.
+16. **Indra Sabha** is by Amanat, Lucknow, not Kalidasa.
+17. Sitabenga is the amphitheatre (CG). Jogimara next door is the painting lock.
+18. Learn all ten rupakas. Do not stop at Nataka/Prakarana only.
