@@ -7,18 +7,24 @@ theme:
   name: material
   language: en
   font: false
-  # Local font stacks in extra.css keep the site readable even if Google Fonts is unavailable.
+  # Study fonts (Lexend + Atkinson Hyperlegible) are loaded in extra.css.
   features:
     - navigation.instant
+    - navigation.instant.progress
     - navigation.tracking
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.indexes
     - navigation.path
     - navigation.top
+    - navigation.footer
+    - toc.follow
     - search.suggest
     - search.highlight
+    - search.share
     - content.code.copy
-    - content.action.edit
+    - content.tooltips
+    - content.tabs.link
   palette:
     - scheme: default
       primary: indigo
@@ -37,7 +43,7 @@ theme:
 
 repo_name: UP-PCS
 repo_url: https://github.com/nitishpratap/UP-PCS
-edit_uri: edit/final/
+edit_uri: ""
 
 docs_dir: docs
 use_directory_urls: true
@@ -68,14 +74,32 @@ markdown_extensions:
   - admonition
   - attr_list
   - md_in_html
+  - tables
+  - footnotes
+  - def_list
+  - abbr
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.highlight:
       anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.mark
+  - pymdownx.caret
+  - pymdownx.tilde
+  - pymdownx.keys
+  - pymdownx.smartsymbols
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - toc:
       permalink: true
+      permalink_title: Link to this section
+      toc_depth: 3
 
 plugins:
   - search

@@ -10,49 +10,36 @@ hide:
 
 ## Prelims clarity. Mains answer practice.
 
-Your personal UP PCS library — subject notes for Prelims recall, PYQ themes for Mains writing.
+Subject notes built for **fast recall**. PYQ themes built for **answer writing**.
+Open a subject from the tabs above, or jump straight in below.
 
-[Start Prelims notes](subjects/index.md) {.md-button .md-button--primary}
-[Start Mains PYQs](mains-pyqs/index.md) {.md-button}
-
-</div>
-
-## How to study from this library
-
-<div class="study-path" markdown>
-
-1. **Prelims day** — open [Subject Notes](subjects/index.md), begin from that subject’s **Syllabus** page, then read numbered chapters in order. Use search for Articles, cases, schemes, and keywords.
-2. **Mains day** — open [Mains PYQs](mains-pyqs/index.md), pick one subtopic, skim **PYQs → Quick Revision → Traps**, then write a timed answer from memory.
-3. **Same-day link** — after a Prelims chapter, jump to the matching Mains theme (search the topic name) and practise one 125/200-word answer.
+[Start with Subject Notes](subjects/index.md){ .md-button .md-button--primary }
+[Practice Mains PYQs](mains-pyqs/index.md){ .md-button }
 
 </div>
-
-## Choose a track
 
 <div class="study-grid" markdown>
 
-<a class="study-card" href="subjects/index.md">
-  <span class="study-card__icon">📚</span>
-  <strong>Subject Notes</strong>
-  <span>Prelims-first coverage: History, Polity, Geography, Environment, Art & Culture.</span>
-</a>
+[**:material-book-open-page-variant: Subject Notes**
+<span>Prelims chapters — spine, confused pairs, and traps. Expand a subject in the left sidebar.</span>](subjects/index.md){ .study-card }
 
-<a class="study-card" href="mains-pyqs/index.md">
-  <span class="study-card__icon">✍️</span>
-  <strong>Mains PYQs</strong>
-  <span>Syllabus-linked themes with past questions, revision blocks, traps, and answer frames.</span>
-</a>
+[**:material-file-document-edit: Mains PYQs**
+<span>Syllabus themes with past questions, quick-revision blocks, and common traps.</span>](mains-pyqs/index.md){ .study-card }
 
 </div>
 
-## Daily session template
+## How to use this library
 
-| Minutes | Do this |
-|--------:|---------|
-| 40–50 | Read **one** subject chapter or **one** Mains subtopic |
-| 15–20 | Close notes → write / speak key points from memory |
-| 10 | Check **Traps** (Mains) or re-scan weak lines (Prelims) |
-| 5 | Note 3 facts to revise tomorrow |
+<div class="study-path" markdown>
 
-!!! tip "Site tools"
-    Use **search** in the top bar for any Article, judgment, scheme, or keyword. Use **Focus mode** on long pages to hide sidebars. Toggle light/dark from the palette icon.
+1. **Read the spine first.** Each note opens with a *Quick Revision — Spine Only* block. Skim it before the detail.
+2. **Drill the confused pairs.** The comparison tables are the highest-yield part for Prelims.
+3. **Write from memory.** For Mains, read *PYQs → Quick Revision → Traps*, then write the answer without looking.
+4. **Use Focus mode.** On any note, hit **Focus mode** to hide both sidebars and read distraction-free.
+5. **Search everything.** Press <kbd>/</kbd> (or the search box) to jump to any article, schedule, or theme instantly.
+
+</div>
+
+!!! tip "Study cues used across notes"
+    Notes use colour-coded callouts so you can scan by intent:
+    **Prelims fact**, **Mains angle**, **Trap**, **Mnemonic**, and **Revise before exam**.

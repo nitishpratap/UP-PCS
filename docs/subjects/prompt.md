@@ -304,7 +304,7 @@ If **any** are true, the file is **NOT complete**:
 | F5 | 2025 overlap cited but concept not in matching N.X teaching home |
 | F6 | Common Trap date/number missing from its teaching home (Quick Revision or N.X/Consolidated) |
 | F7 | `> **Exam note:**` missing from any substantial N.X |
-| F8 | Practice Zone mostly simple MCQs (<40% multi-statement) **when Practice Zone is included** |
+| F8 | Practice Zone not in **UPPCS 2024–25 format**: **<60% multi-statement/application**, OR missing any of {A/R, Match-List, chronology, NOT-matched}, OR dominated by direct single-fact recall (`"X is under: A…B…"`) **when Practice Zone is included** |
 | F9 | PYQs or PYQ Bank use summary-table only (no full question text); PYQ Bank answers visible without `<details>`; **any UPPCS Prelims (2018–2025) or RO-ARO question in `pyq/` that maps to this topic is missing from the topic file** |
 | F10 | Internal syllabus audit fails — bullet lacks N.X |
 | F11 | UP-relevant topic lacks UP Focus table |
@@ -414,7 +414,7 @@ Constitutional Development | Regulating Act 1773 | … (every bullet)
 ---
 
 ## Practice Zone — UPPCS Format Drill
-[**Minimum 25** questions; scale up by chapter; answers in `<details>`]
+[**Minimum 25** questions; scale up by chapter; answers in `<details>`. **Must follow the UPPCS 2024–25 Format mix:** ≥60% multi-statement/application; include A/R, Match-List, chronology, NOT-matched; no direct one-liner recall as the majority. See §Format mix.]
 
 ---
 
@@ -486,7 +486,21 @@ Syllabus Coverage Map, Checklist, How to Use, How UPPCS Tests, Exam Intelligence
 | 13+ | **40–50** |
 | CA-heavy | **30–50** (≥50% last 2 years’ patterns / CA locks) |
 
-**Format mix:** ≥40% multi-statement; include A/R, matching, NOT-matched as relevant. Answers in `<details>`.
+**Format mix (UPPCS 2024–25 standard — mandatory):** Practice questions must **mirror the current UPPCS/RO-ARO paper**, not direct one-liners. Reference: `pyq/2025/UP_PCS_Pre_2025_GS_Paper_1.md`.
+
+- **≥60%** of questions must be **multi-statement / application** style (not simple single-fact recall).
+- **≤25%** may be single-best-answer, and even those should test a trap, not a bare definition.
+- Use the **full UPPCS format toolkit**, spread across the set:
+  - **"Which of the following statement(s) is/are correct?"** — 2–3 numbered statements + code (Only 1 / Only 2 / Both / Neither).
+  - **"How many of the above statements are correct?"** — 3–4 statements + code (Only one / Only two / All three / None).
+  - **Assertion–Reason (A/R)** — use the standard four options verbatim (A: both true & R explains A; B: both true, R not explanation; C: A true, R false; D: A false, R true).
+  - **Match List-I with List-II** — 4 pairs + four code permutations (A-1,B-2,…).
+  - **Chronological order** — arrange events/cases/amendments + code.
+  - **"NOT correctly matched"** — numbered pairs + code (Only 2 / 1 and 2 / …).
+- Each set should contain **at least one** of: A/R, Match-List, chronology, and NOT-matched.
+- Answers hidden in `<details>`; give the **trap/why**, not just the letter.
+
+> **Anti-pattern (fails F8):** a Practice Zone that is mostly `"X is guaranteed by: A. Art.12 B. Art.14 …"` direct recall. That is **not** UPPCS format.
 
 ---
 
@@ -688,7 +702,7 @@ Rules:
 6. PYQs: full §UPPCS PYQ Search Protocol — every matching UPPCS/RO-ARO full text inline + Complete PYQ Bank (do not trim PYQs for length).
 7. External high-yield when matching-heavy (F22).
 7b. Current affairs when needed (§Current Affairs Protocol / R9).
-8. Practice Zone: **minimum 25** (scale by chapter size); ≥40% multi-statement; `<details>` answers.
+8. Practice Zone: **minimum 25** (scale by chapter size); **UPPCS 2024–25 format** (≥60% multi-statement/application; A/R + Match-List + chronology + NOT-matched; ≤25% direct recall); `<details>` answers.
 9. Hindi column in term comparisons.
 10. UP Focus if applicable.
 11. One topic only; wait for approval.
@@ -743,7 +757,7 @@ Acts | Articles | Orgs | Dates | Schemes | Reports | UP Focus.
 
 ### 4. Practice Zone
 
-**Minimum 25** UPPCS-format questions; scale up per sizing table. Hidden answers:
+**Minimum 25** UPPCS-format questions; scale up per sizing table. **Format = current UPPCS/RO-ARO paper** (see §Format mix): ≥60% multi-statement/application; must include A/R (standard 4 options), Match List-I/II, chronological order, and NOT-correctly-matched; single-fact recall ≤25%. Hidden answers:
 
 ```markdown
 <details>
@@ -821,7 +835,7 @@ Only when topic is law/governance/environment-policy heavy and a short frame hel
 
 ### Practice
 - [ ] **≥25** questions **(R5)**; scaled by chapter size
-- [ ] ≥40% multi-statement **(F8)**
+- [ ] **UPPCS 2024–25 format (F8):** ≥60% multi-statement/application; includes A/R, Match-List, chronology, NOT-matched; ≤25% direct recall
 - [ ] Answers in `<details>`
 
 ### Student test
