@@ -500,6 +500,7 @@ D. None
 **Q6.** Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 
 **Assertion (A):** The Harappan political form cannot be reconstructed as a named pharaonic monarchy.  
+
 **Reason (R):** The Indus script is still undeciphered and the cities lack a clear palace-temple skyline.
 
 A. Both A and R are true and R is the correct explanation of A  
@@ -661,6 +662,7 @@ D. 2, 4, 1, 3
 **Q15.** Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 
 **Assertion (A):** Historians treat Puranic dynastic lists as a supplementary source.  
+
 **Reason (R):** The lists mix mythology with genealogy and often stretch reign lengths.
 
 A. Both A and R are true and R is the correct explanation of A  
@@ -741,6 +743,7 @@ D. Uttara Mimansa — Kapila
 **Q20.** Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 
 **Assertion (A):** Charvaka arguments survive mainly as quotations in other schools.  
+
 **Reason (R):** The living Charvaka *matha* died out and no complete root sutra corpus remains.
 
 A. Both A and R are true and R is the correct explanation of A  
@@ -869,6 +872,7 @@ D. None
 **Q27.** Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 
 **Assertion (A):** 1323 is treated as the end of Kakatiya sovereignty.  
+
 **Reason (R):** Ulugh Khan captured Warangal and Prataparudra II’s line ended as an independent house.
 
 A. Both A and R are true and R is the correct explanation of A  
@@ -1019,6 +1023,7 @@ D. D.D. Kosambi — *An Introduction to the Study of Indian History*
 **Q35.** Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 
 **Assertion (A):** Jayaswal’s *Hindu Polity* is classed as nationalist historiography.  
+
 **Reason (R):** It argued that ancient India had real political institutions such as *gana-sanghas*, against the Oriental-despotism stereotype.
 
 A. Both A and R are true and R is the correct explanation of A  

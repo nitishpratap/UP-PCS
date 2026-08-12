@@ -19,7 +19,6 @@
 - Rock Shelters
 - Bhimbetka Rock Shelters
 
-
 - Microliths
 - Neolithic Revolution
 - Burzahom
@@ -50,7 +49,6 @@
 - Seals
 - Weights and Measures
 
-
 - Dholavira
 - Rakhigarhi
 - Lothal Dockyard
@@ -76,7 +74,6 @@
 - Samiti
 - Vidhata
 
-
 - Vedic Literature
 - Four Vedas
 - Brahmanas
@@ -99,7 +96,6 @@
 - Tripitaka
 - Cave Architecture
 
-
 - Hinayana
 - Mahayana
 - Vajrayana
@@ -117,7 +113,6 @@
 - Tirthankaras and their Symbols
 - Nirvana Sites of Tirthankaras
 
-
 - Mahavira
 - Parshvanatha
 - Five Great Vows
@@ -131,7 +126,6 @@
 ### Core Topics
 - Ajivika Sect
 - Shramana Tradition
-
 
 - Charvaka (Lokayata)
 - Materialist Thinkers
@@ -159,7 +153,6 @@
 - Capitals of Mahajanapadas
 - Expansion of Mahajanapadas
 
-
 - Rise of Magadha
 - Haryanka Dynasty
 - Shishunaga Dynasty
@@ -174,7 +167,6 @@
 - Alexander's Invasion
 - Persons Accompanying Alexander
 - Foreign Invasions
-
 
 - Seleucus Nicator
 - Indo-Greek Kingdom
@@ -195,7 +187,6 @@
 - Cave Architecture of Mauryan Period
 - Kautilya's Arthashastra
 
-
 - Megasthenes
 - Indica
 - Provincial Administration
@@ -210,7 +201,6 @@
 - Post-Mauryan Period
 - Satavahana Rulers
 - South Indian History
-
 
 - Indo-Greeks
 - Shakas
@@ -233,7 +223,6 @@
 - Gupta Gold Coins
 - Gupta Achievements
 
-
 - Prayag Prashasti
 - Allahabad Pillar Inscription
 - Nalanda University
@@ -250,7 +239,6 @@
 - Harshavardhana
 - Administration of Harsha
 - Policies of Harshavardhana
-
 
 - Banabhatta
 - Harshacharita
@@ -278,7 +266,6 @@
 - Ports
 - Economy
 
-
 - Guilds (Shreni)
 - Inland Trade
 - Maritime Trade
@@ -292,7 +279,6 @@
 - Archaeological Sites
 - Excavations
 - Archaeological Sites of Uttar Pradesh
-
 
 - ASI
 - Carbon Dating

@@ -826,7 +826,10 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 </details>
 
-**Q3.** **Assertion (A):** The State may make special provisions for women and children.  
+**Q3.**
+
+**Assertion (A):** The State may make special provisions for women and children.
+
 **Reason (R):** Article 15(3) is an enabling exception to the rule against discrimination.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -918,7 +921,10 @@ A. Only one  B. Only two  C. All three  D. None
 
 </details>
 
-**Q10.** **Assertion (A):** Article 21 is available to foreigners residing in India.  
+**Q10.**
+
+**Assertion (A):** Article 21 is available to foreigners residing in India.
+
 **Reason (R):** Article 21 uses the word “person”, not “citizen”.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1008,7 +1014,10 @@ A. Only one  B. Only two  C. All three  D. None
 
 </details>
 
-**Q17.** **Assertion (A):** Directive Principles cannot be enforced by any court.  
+**Q17.**
+
+**Assertion (A):** Directive Principles cannot be enforced by any court.
+
 **Reason (R):** Article 37 declares them fundamental in the governance of the country.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1109,7 +1118,10 @@ A. Only one  B. Only two  C. All three  D. None
 
 </details>
 
-**Q25.** **Assertion (A):** The 86th Amendment did not remove the right to property from Part III.  
+**Q25.**
+
+**Assertion (A):** The 86th Amendment did not remove the right to property from Part III.
+
 **Reason (R):** The right to property was removed from Part III by the 44th Amendment.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1174,7 +1186,10 @@ A. Only one  B. Only two  C. All three  D. None
 
 </details>
 
-**Q30.** **Assertion (A):** A citizen cannot waive his Fundamental Rights.  
+**Q30.**
+
+**Assertion (A):** A citizen cannot waive his Fundamental Rights.
+
 **Reason (R):** Fundamental Rights are conferred in the larger public interest, not merely for individual benefit.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1251,7 +1266,10 @@ A. Only one  B. Only two  C. Only three  D. All four
 
 </details>
 
-**Q36.** **Assertion (A):** The writ of Habeas Corpus can be issued against a private individual.  
+**Q36.**
+
+**Assertion (A):** The writ of Habeas Corpus can be issued against a private individual.
+
 **Reason (R):** The writ is meant to test the legality of a person’s detention.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1442,7 +1460,10 @@ A. 1 only  B. 1 and 3  C. 2 and 3  D. 1, 2 and 3
 
 </details>
 
-**Q51.** **Assertion (A):** Fundamental Duties are non-justiciable.  
+**Q51.**
+
+**Assertion (A):** Fundamental Duties are non-justiciable.
+
 **Reason (R):** No law can be enacted to enforce any Fundamental Duty.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1492,7 +1513,10 @@ A. Only two  B. Only three  C. All four  D. Only one
 
 </details>
 
-**Q55.** **Assertion (A):** Article 32 is described as the “heart and soul of the Constitution”.  
+**Q55.**
+
+**Assertion (A):** Article 32 is described as the “heart and soul of the Constitution”.
+
 **Reason (R):** Article 32 is itself a Fundamental Right and the Supreme Court is its guarantor.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  

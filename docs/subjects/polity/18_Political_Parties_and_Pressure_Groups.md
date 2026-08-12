@@ -467,7 +467,10 @@ A. INTUC 1947  B. AITUC 1920  C. BMS 1955  D. CITU 1970
 
 </details>
 
-**Q7.** **Assertion (A):** India has a multi-party system.  
+**Q7.**
+
+**Assertion (A):** India has a multi-party system.
+
 **Reason (R):** The BJP won a single-party majority in 2014 and 2019.  
 A. Both (A) and (R) true and (R) explains (A)  
 B. Both (A) and (R) true but (R) does not explain (A)  
@@ -606,7 +609,10 @@ A. The Speaker alone  B. ECI under Para 15 of the Symbols Order  C. The Supreme 
 
 </details>
 
-**Q21.** **Assertion (A):** A hung House must lead to President’s Rule.  
+**Q21.**
+
+**Assertion (A):** A hung House must lead to President’s Rule.
+
 **Reason (R):** The head of State first invites the combination most likely to prove a majority on the floor.  
 A. Both (A) and (R) true and (R) explains (A)  
 B. Both (A) and (R) true but (R) does not explain (A)  
@@ -762,7 +768,10 @@ A. 1918  B. 1920  C. 1926  D. 1947
 
 </details>
 
-**Q37.** **Assertion (A):** Electoral bonds are the present legal route for anonymous party funding.  
+**Q37.**
+
+**Assertion (A):** Electoral bonds are the present legal route for anonymous party funding.
+
 **Reason (R):** The Supreme Court struck the electoral-bond scheme down in 2024.  
 A. Both (A) and (R) true and (R) explains (A)  
 B. Both (A) and (R) true but (R) does not explain (A)  
@@ -873,7 +882,10 @@ A. SAD — 1920  B. NC — 1932  C. DMK — 1949  D. TDP — 1992
 
 </details>
 
-**Q48.** **Assertion (A):** A registered unrecognised party never gets any common symbol.  
+**Q48.**
+
+**Assertion (A):** A registered unrecognised party never gets any common symbol.
+
 **Reason (R):** Reserved symbols are only for recognised National and State parties.  
 A. Both (A) and (R) true and (R) explains (A)  
 B. Both (A) and (R) true but (R) does not explain (A)  

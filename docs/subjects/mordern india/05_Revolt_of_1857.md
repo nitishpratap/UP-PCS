@@ -187,7 +187,13 @@ The six named leaders of the syllabus have their own headings below. These are t
 
 Who was the leader of the revolt in **Bareilly (Uttar Pradesh)** during the Revolt of 1857?
 
-Options: A. Hazrat Mahal  B. Khan Bahadur Khan  C. Kunwar Singh  D. Nana Saheb
+A. Hazrat Mahal
+
+B. Khan Bahadur Khan
+
+C. Kunwar Singh
+
+D. Nana Saheb
 
 <details>
 <summary>Show answer</summary>
@@ -292,7 +298,13 @@ Consider the following statements:
 
 Which of the above statements is/are correct?
 
-Options: A. Only 2  B. Neither 1 nor 2  C. Only 1  D. Both 1 and 2
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Both 1 and 2
 
 <details>
 <summary>Show answer</summary>
@@ -407,7 +419,13 @@ D. Jhansi — 11 May 1857
 **List-I (Centre)** A. Bareilly  B. Kanpur  C. Lucknow  D. Jagdishpur  
 **List-II (Leader)** 1. Nana Sahib  2. Kunwar Singh  3. Khan Bahadur Khan  4. Begum Hazrat Mahal
 
-Options: A. 3 1 4 2  B. 1 3 4 2  C. 3 1 2 4  D. 4 1 3 2
+A. 3 1 4 2
+
+B. 1 3 4 2
+
+C. 3 1 2 4
+
+D. 4 1 3 2
 
 <details>
 <summary>Show answer</summary>
@@ -423,7 +441,13 @@ Options: A. 3 1 4 2  B. 1 3 4 2  C. 3 1 2 4  D. 4 1 3 2
 1. Mangal Pandey’s attack took place at Barrackpore on 29 March 1857.  
 2. The mass outbreak of the revolt began at Delhi on 10 May 1857.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -436,7 +460,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q4.** Who was the leader of the revolt in Bareilly (Uttar Pradesh) during 1857?
 
-Options: A. Hazrat Mahal  B. Khan Bahadur Khan  C. Kunwar Singh  D. Nana Saheb
+A. Hazrat Mahal
+
+B. Khan Bahadur Khan
+
+C. Kunwar Singh
+
+D. Nana Saheb
 
 <details>
 <summary>Show answer</summary>
@@ -473,7 +503,13 @@ D. (A) is false but (R) is true
 
 Which of the statements given above is/are correct?
 
-Options: A. Only 2  B. Neither 1 nor 2  C. Only 1  D. Both 1 and 2
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Both 1 and 2
 
 <details>
 <summary>Show answer</summary>
@@ -486,7 +522,13 @@ Options: A. Only 2  B. Neither 1 nor 2  C. Only 1  D. Both 1 and 2
 
 **Q7.** Arrange: 1. Queen’s Proclamation  2. Meerut outbreak  3. Mangal Pandey incident  4. Recapture of Delhi
 
-Options: A. 3, 2, 4, 1  B. 2, 3, 4, 1  C. 3, 2, 1, 4  D. 3, 4, 2, 1
+A. 3, 2, 4, 1
+
+B. 2, 3, 4, 1
+
+C. 3, 2, 1, 4
+
+D. 3, 4, 2, 1
 
 <details>
 <summary>Show answer</summary>
@@ -503,7 +545,13 @@ Options: A. 3, 2, 4, 1  B. 2, 3, 4, 1  C. 3, 2, 1, 4  D. 3, 4, 2, 1
 2. Khan Bahadur Khan — Bareilly  
 3. Nana Sahib — Jhansi
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -519,7 +567,13 @@ Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
 1. Rebels proclaimed him emperor at Delhi.  
 2. Bakht Khan, not Zafar, organised the main military command at Delhi.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -535,7 +589,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. Hugh Rose  B. John Nicholson  C. Henry Lawrence  D. Colin Campbell  
 **List-II** 1. Delhi assault  2. Lucknow Residency (died)  3. Jhansi–Gwalior  4. Relief of Lucknow / Kanpur
 
-Options: A. 3 1 2 4  B. 1 3 2 4  C. 3 1 4 2  D. 3 2 1 4
+A. 3 1 2 4
+
+B. 1 3 2 4
+
+C. 3 1 4 2
+
+D. 3 2 1 4
 
 <details>
 <summary>Show answer</summary>
@@ -570,7 +630,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 1. Jhansi was taken under the Doctrine of Lapse.  
 2. She died defending the fort of Jhansi in May 1857.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -583,7 +649,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q13.** V.D. Savarkar’s book treating 1857 as the First War of Independence was published in
 
-Options: A. 1858  B. 1885  C. 1909  D. 1947
+A. 1858
+
+B. 1885
+
+C. 1909
+
+D. 1947
 
 <details>
 <summary>Show answer</summary>
@@ -599,7 +671,13 @@ Options: A. 1858  B. 1885  C. 1909  D. 1947
 1. He was the adopted son of Peshwa Baji Rao II.  
 2. He was the principal rebel leader at Bareilly.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -612,7 +690,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q15.** Arrange: 1. Indigo Revolt  2. Acquisition of Awadh  3. Ilbert Bill  4. Second Anglo-Afghan War
 
-Options: A. 2, 1, 4, 3  B. 1, 2, 4, 3  C. 2, 1, 3, 4  D. 2, 4, 1, 3
+A. 2, 1, 4, 3
+
+B. 1, 2, 4, 3
+
+C. 2, 1, 3, 4
+
+D. 2, 4, 1, 3
 
 <details>
 <summary>Show answer</summary>
@@ -630,7 +714,13 @@ Options: A. 2, 1, 4, 3  B. 1, 2, 4, 3  C. 2, 1, 3, 4  D. 2, 4, 1, 3
 
 Which of the statements given above is/are correct?
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -647,7 +737,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Zafar exiled — Rangoon  
 3. Kunwar Singh — Jhansi
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -679,7 +775,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q19.** The Queen’s Proclamation transferring India to the Crown was issued on
 
-Options: A. 10 May 1857  B. 1 November 1858  C. 8 April 1857  D. 15 August 1858
+A. 10 May 1857
+
+B. 1 November 1858
+
+C. 8 April 1857
+
+D. 15 August 1858
 
 <details>
 <summary>Show answer</summary>
@@ -695,7 +797,13 @@ Options: A. 10 May 1857  B. 1 November 1858  C. 8 April 1857  D. 15 August 1858
 **List-I (Place)** A. Kalpi–Gwalior  B. Arrah  C. Lucknow Residency  D. Barrackpore  
 **List-II** 1. Henry Lawrence  2. Mangal Pandey  3. Kunwar Singh  4. Lakshmibai / Tantia last phase
 
-Options: A. 4 3 1 2  B. 4 3 2 1  C. 3 4 1 2  D. 4 1 3 2
+A. 4 3 1 2
+
+B. 4 3 2 1
+
+C. 3 4 1 2
+
+D. 4 1 3 2
 
 <details>
 <summary>Show answer</summary>
@@ -711,7 +819,13 @@ Options: A. 4 3 1 2  B. 4 3 2 1  C. 3 4 1 2  D. 4 1 3 2
 1. Wajid Ali Shah was the Nawab when Awadh was annexed.  
 2. Annexation occurred in 1858 as a punishment after the revolt.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -728,7 +842,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Queen’s Proclamation — 1 November 1858  
 3. Meerut outbreak — 29 March 1857
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -744,7 +864,13 @@ Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
 1. He served as Nana Sahib’s principal military commander.  
 2. He was hanged at Shivpuri in 1859.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -762,7 +888,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 Which of the statements given above is/are correct?
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -775,7 +907,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q25.** Maulvi Ahmadullah Shah is associated mainly with
 
-Options: A. Bareilly  B. Jagdishpur  C. Faizabad  D. Jhansi
+A. Bareilly
+
+B. Jagdishpur
+
+C. Faizabad
+
+D. Jhansi
 
 <details>
 <summary>Show answer</summary>
@@ -791,7 +929,13 @@ Options: A. Bareilly  B. Jagdishpur  C. Faizabad  D. Jhansi
 **List-I** A. Damodar Rao  B. Birjis Qadr  C. Baji Rao II  D. Wajid Ali Shah  
 **List-II** 1. Peshwa (Nana’s adoptive father)  2. Nawab of Awadh  3. Adopted heir of Jhansi  4. Son of Hazrat Mahal
 
-Options: A. 3 4 1 2  B. 3 4 2 1  C. 4 3 1 2  D. 3 1 4 2
+A. 3 4 1 2
+
+B. 3 4 2 1
+
+C. 4 3 1 2
+
+D. 3 1 4 2
 
 <details>
 <summary>Show answer</summary>
@@ -826,7 +970,13 @@ D. (A) is false but (R) is true
 1. He belonged to the 34th Native Infantry at Barrackpore.  
 2. He was hanged on 10 May 1857 at Meerut.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -842,7 +992,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. End of further aggressive annexation as policy  
 2. Non-interference in religious beliefs of Indians
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -855,7 +1011,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q30.** Arrange: 1. Fall of Gwalior / death of Lakshmibai  2. Barrackpore incident  3. Lucknow rising (4 June)  4. Delhi seized by rebels
 
-Options: A. 2, 4, 3, 1  B. 2, 3, 4, 1  C. 4, 2, 3, 1  D. 2, 4, 1, 3
+A. 2, 4, 3, 1
+
+B. 2, 3, 4, 1
+
+C. 4, 2, 3, 1
+
+D. 2, 4, 1, 3
 
 <details>
 <summary>Show answer</summary>
@@ -872,7 +1034,13 @@ Options: A. 2, 4, 3, 1  B. 2, 3, 4, 1  C. 4, 2, 3, 1  D. 2, 4, 1, 3
 2. Azimullah Khan — adviser of Nana Sahib  
 3. Khan Bahadur Khan — leader at Kanpur
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -888,7 +1056,13 @@ Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
 1. Several Sikh and Gurkha units fought on the British side.  
 2. Rebels possessed a single national command equal to the Company’s.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -906,7 +1080,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 Which of the statements given above is/are correct?
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -941,7 +1121,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 1. Maulvi Liaquat Ali is associated with Allahabad in 1857.  
 2. The Queen’s Proclamation was read at Allahabad.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -957,7 +1143,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. Nana Sahib was the political leader.  
 2. Tantia Tope was a British commander sent to relieve the Residency.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -970,7 +1162,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q37.** The immediate military grievance most closely tied to the Enfield rifle was
 
-Options: A. Doctrine of Lapse  B. Greased cartridge rumour  C. Subsidiary Alliance  D. Permanent Settlement
+A. Doctrine of Lapse
+
+B. Greased cartridge rumour
+
+C. Subsidiary Alliance
+
+D. Permanent Settlement
 
 <details>
 <summary>Show answer</summary>
@@ -988,7 +1186,13 @@ Options: A. Doctrine of Lapse  B. Greased cartridge rumour  C. Subsidiary Allian
 
 Which of the statements given above is/are correct?
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1005,7 +1209,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Lucknow start — 4 June 1857  
 3. Barrackpore — 10 May 1857
 
-Options: A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1021,7 +1231,13 @@ Options: A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
 1. Meerut, Lucknow, Kanpur and Bareilly were major UP-linked centres.  
 2. Kunwar Singh’s home base was Lucknow.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>

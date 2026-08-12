@@ -694,7 +694,10 @@ A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
 
 </details>
 
-**Q7.** **Assertion (A):** After the 24th Amendment the President must assent to a Constitution Amendment Bill.  
+**Q7.**
+
+**Assertion (A):** After the 24th Amendment the President must assent to a Constitution Amendment Bill.
+
 **Reason (R):** The 24th Amendment was Parliament’s reply to *Golaknath*.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -789,7 +792,10 @@ A. 7th  B. 35th  C. 36th  D. 42nd
 
 </details>
 
-**Q16.** **Assertion (A):** *Minerva Mills* struck down Articles 368(4) and (5).  
+**Q16.**
+
+**Assertion (A):** *Minerva Mills* struck down Articles 368(4) and (5).
+
 **Reason (R):** Unlimited amending power would destroy the basic structure.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -907,7 +913,10 @@ A. 25th  B. 42nd  C. 44th  D. 1st
 
 </details>
 
-**Q27.** **Assertion (A):** Article 350B was not added by the 9th Constitutional Amendment.  
+**Q27.**
+
+**Assertion (A):** Article 350B was not added by the 9th Constitutional Amendment.
+
 **Reason (R):** It was added by the 7th Amendment, 1956.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -988,7 +997,10 @@ A. 24th  B. 25th  C. 43rd/44th  D. 7th
 
 </details>
 
-**Q35.** **Assertion (A):** A Constitution Amendment Bill is not a Money Bill.  
+**Q35.**
+
+**Assertion (A):** A Constitution Amendment Bill is not a Money Bill.
+
 **Reason (R):** It can originate in the Rajya Sabha.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1092,7 +1104,10 @@ A. 42nd  B. 44th  C. 1st  D. 24th
 
 </details>
 
-**Q45.** **Assertion (A):** The 39th Amendment’s attempt to put the Prime Minister’s election beyond the Court failed.  
+**Q45.**
+
+**Assertion (A):** The 39th Amendment’s attempt to put the Prime Minister’s election beyond the Court failed.
+
 **Reason (R):** *Indira Nehru Gandhi* (1975) treated free and fair elections / judicial review as basic structure.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1297,7 +1312,10 @@ A. 1, 4, 2, 3  B. 1, 2, 4, 3  C. 4, 1, 2, 3  D. 1, 4, 3, 2
 
 </details>
 
-**Q65.** **Assertion (A):** The 106th Amendment has already reserved one-third of Lok Sabha seats for women from 2024.  
+**Q65.**
+
+**Assertion (A):** The 106th Amendment has already reserved one-third of Lok Sabha seats for women from 2024.
+
 **Reason (R):** The 106th comes into force only after a delimitation following the next census.  
 A. Both (A) and (R) true and (R) explains (A)  
 B. Both (A) and (R) true but (R) does not explain (A)  
@@ -1409,7 +1427,10 @@ A. 52nd — 1985  B. 61st — 1989 in force  C. 86th — 2011  D. 101st — 2016
 
 </details>
 
-**Q76.** **Assertion (A):** After the 102nd Amendment, only the President can notify SEBCs for the Union.  
+**Q76.**
+
+**Assertion (A):** After the 102nd Amendment, only the President can notify SEBCs for the Union.
+
 **Reason (R):** The 105th Amendment restored to States the power to identify SEBCs for their own purposes.  
 A. Both (A) and (R) true and (R) explains (A)  
 B. Both (A) and (R) true but (R) does not explain (A)  
@@ -1552,7 +1573,10 @@ A. A-2, B-1, C-3, D-4  B. A-1, B-2, C-3, D-4  C. A-2, B-1, C-4, D-3  D. A-2, B-4
 
 </details>
 
-**Q89.** **Assertion (A):** The 99th Amendment is not in force.  
+**Q89.**
+
+**Assertion (A):** The 99th Amendment is not in force.
+
 **Reason (R):** The Supreme Court struck it down as violating the basic structure (judicial independence).  
 A. Both (A) and (R) true and (R) explains (A)  
 B. Both (A) and (R) true but (R) does not explain (A)  

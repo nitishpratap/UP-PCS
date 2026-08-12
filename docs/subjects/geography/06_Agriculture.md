@@ -276,6 +276,7 @@ Three **number** locks — do not mix:
 One state can sit in **multiple** zones. Western Dry ≠ West Coast Ghats.
 **Inline PYQ**
 **(UPPCS 2022, Q142)** Which is correctly matched?
+
 A. Gujarat—Tea B. Uttar Pradesh—Jute C. Kerala—Rubber D. Assam—Wheat
 **Ans: C**
 
@@ -353,7 +354,15 @@ AIDC (Budget 2021–22 framing) on **29** products (2021 Q103).
 2018 paddy MSP figure **₹1,750/q** is year-specific — lock institution, not old rupees. Fertiliser/power/irrigation support = **indirect** subsidy (2022 Q74 stmt 1 solid).
 **Inline PYQ**
 **(UPPCS 2024, Q43)** Who recommends the Minimum Support Price (MSP) for agricultural crops?
-Options: A. RBI B. NITI Aayog C. CACP D. Ministry of Finance
+
+A. RBI
+
+B. NITI Aayog
+
+C. CACP
+
+D. Ministry of Finance
+
 **Ans: C**
 
 ---
@@ -431,7 +440,14 @@ Options: A. RBI B. NITI Aayog C. CACP D. Ministry of Finance
 ## Practice Zone — 60 Questions (2025 Pattern Mix)
 
 **Q1.** Cropping intensity is:
-Options: A. NSA/GCA × 100 B. GCA/NSA × 100 C. GCA − NSA only D. Forest area / NSA
+
+A. NSA/GCA × 100
+
+B. GCA/NSA × 100
+
+C. GCA − NSA only
+
+D. Forest area / NSA
 
 <details><summary>Show answer</summary>
 
@@ -439,9 +455,17 @@ Options: A. NSA/GCA × 100 B. GCA/NSA × 100 C. GCA − NSA only D. Forest area 
 </details>
 
 **Q2.** Statements:
+
 1. Wheat is mainly rabi in India.
 2. Cotton is mainly rabi in India.
-Options: A. Only 1 B. Only 2 C. Both D. Neither
+
+A. Only 1
+
+B. Only 2
+
+C. Both
+
+D. Neither
 
 <details><summary>Show answer</summary>
 
@@ -449,7 +473,14 @@ Options: A. Only 1 B. Only 2 C. Both D. Neither
 </details>
 
 **Q3.** Which farming type best fits Assam tea estates?
-Options: A. Primitive jhum only B. Plantation agriculture C. Mediterranean grain only D. Tundra herding
+
+A. Primitive jhum only
+
+B. Plantation agriculture
+
+C. Mediterranean grain only
+
+D. Tundra herding
 
 <details><summary>Show answer</summary>
 
@@ -457,7 +488,14 @@ Options: A. Primitive jhum only B. Plantation agriculture C. Mediterranean grain
 </details>
 
 **Q4.** A: Tea is grown under plantation agriculture. R: Tea is a short zaid melon crop of sandy deserts.
-Options: A. Both R explains B. Both R not C. A true R false D. A false R true
+
+A. Both R explains
+
+B. Both R not
+
+C. A true R false
+
+D. A false R true
 
 <details><summary>Show answer</summary>
 
@@ -465,7 +503,14 @@ Options: A. Both R explains B. Both R not C. A true R false D. A false R true
 </details>
 
 **Q5.** Correct match:
-Options: A. Gujarat—Tea B. UP—Jute C. Kerala—Rubber D. Assam—Wheat
+
+A. Gujarat—Tea
+
+B. UP—Jute
+
+C. Kerala—Rubber
+
+D. Assam—Wheat
 
 <details><summary>Show answer</summary>
 
@@ -473,7 +518,14 @@ Options: A. Gujarat—Tea B. UP—Jute C. Kerala—Rubber D. Assam—Wheat
 </details>
 
 **Q6.** Who recommends MSP?
-Options: A. RBI B. NITI Aayog C. CACP D. Finance Ministry
+
+A. RBI
+
+B. NITI Aayog
+
+C. CACP
+
+D. Finance Ministry
 
 <details><summary>Show answer</summary>
 
@@ -481,7 +533,14 @@ Options: A. RBI B. NITI Aayog C. CACP D. Finance Ministry
 </details>
 
 **Q7.** Sugarcane price framework is best labelled as:
-Options: A. Only e-NAM fee B. FRP (with possible SAP) C. Only WTO bound tariff D. Only jute cess
+
+A. Only e-NAM fee
+
+B. FRP (with possible SAP)
+
+C. Only WTO bound tariff
+
+D. Only jute cess
 
 <details><summary>Show answer</summary>
 
@@ -489,7 +548,14 @@ Options: A. Only e-NAM fee B. FRP (with possible SAP) C. Only WTO bound tariff D
 </details>
 
 **Q8.** Norman Borlaug Nobel field:
-Options: A. Agriculture B. Economics C. Medicine D. Peace
+
+A. Agriculture
+
+B. Economics
+
+C. Medicine
+
+D. Peace
 
 <details><summary>Show answer</summary>
 
@@ -497,7 +563,14 @@ Options: A. Agriculture B. Economics C. Medicine D. Peace
 </details>
 
 **Q9.** Match revolutions: Golden; Grey; Yellow; Black → horticulture & honey; fertilisers; oilseed; petroleum
-Options: A. Correct as listed order B. Golden=oilseed C. Grey=honey D. Black=milk
+
+A. Correct as listed order
+
+B. Golden=oilseed
+
+C. Grey=honey
+
+D. Black=milk
 
 <details><summary>Show answer</summary>
 
@@ -505,7 +578,14 @@ Options: A. Correct as listed order B. Golden=oilseed C. Grey=honey D. Black=mil
 </details>
 
 **Q10.** N-fixing bacteria with root cells of:
-Options: A. Pulses B. Rice C. Wheat D. Sugarcane
+
+A. Pulses
+
+B. Rice
+
+C. Wheat
+
+D. Sugarcane
 
 <details><summary>Show answer</summary>
 
@@ -513,7 +593,14 @@ Options: A. Pulses B. Rice C. Wheat D. Sugarcane
 </details>
 
 **Q11.** Biofertiliser in water-logged rice:
-Options: A. Lemna B. Azolla C. Wolffia D. Trapa
+
+A. Lemna
+
+B. Azolla
+
+C. Wolffia
+
+D. Trapa
 
 <details><summary>Show answer</summary>
 
@@ -521,7 +608,14 @@ Options: A. Lemna B. Azolla C. Wolffia D. Trapa
 </details>
 
 **Q12.** Cardamom and pepper largest producer:
-Options: A. Tamil Nadu B. Goa C. Kerala D. Maharashtra
+
+A. Tamil Nadu
+
+B. Goa
+
+C. Kerala
+
+D. Maharashtra
 
 <details><summary>Show answer</summary>
 
@@ -529,9 +623,17 @@ Options: A. Tamil Nadu B. Goa C. Kerala D. Maharashtra
 </details>
 
 **Q13.** Statements on sugarcane:
+
 1. UP often leads production/area.
 2. MH often has higher productivity.
-Options: A. Only 1 B. Only 2 C. Both D. Neither
+
+A. Only 1
+
+B. Only 2
+
+C. Both
+
+D. Neither
 
 <details><summary>Show answer</summary>
 
@@ -539,7 +641,14 @@ Options: A. Only 1 B. Only 2 C. Both D. Neither
 </details>
 
 **Q14.** A: Ahmedabad is India’s largest cotton textile centre. R: It lies in a major cotton-growing region.
-Options: A. Both R explains B. Both R not C. A true R false D. A false R true
+
+A. Both R explains
+
+B. Both R not
+
+C. A true R false
+
+D. A false R true
 
 <details><summary>Show answer</summary>
 
@@ -547,7 +656,14 @@ Options: A. Both R explains B. Both R not C. A true R false D. A false R true
 </details>
 
 **Q15.** Coffee producers descending (2016 framing): Brazil, Vietnam, Colombia, Indonesia
-Options: A. Wrong order B. Correct order C. Indonesia first D. Colombia first
+
+A. Wrong order
+
+B. Correct order
+
+C. Indonesia first
+
+D. Colombia first
 
 <details><summary>Show answer</summary>
 
@@ -555,7 +671,14 @@ Options: A. Wrong order B. Correct order C. Indonesia first D. Colombia first
 </details>
 
 **Q16.** Sultana, Gulabi, Kali Champa are varieties of:
-Options: A. Custard apple B. Orange C. Guava D. Grapes
+
+A. Custard apple
+
+B. Orange
+
+C. Guava
+
+D. Grapes
 
 <details><summary>Show answer</summary>
 
@@ -563,7 +686,14 @@ Options: A. Custard apple B. Orange C. Guava D. Grapes
 </details>
 
 **Q17.** Citrus well developed in:
-Options: A. Tundra B. Equatorial ice caps C. Mediterranean regions D. Permanent frost belts
+
+A. Tundra
+
+B. Equatorial ice caps
+
+C. Mediterranean regions
+
+D. Permanent frost belts
 
 <details><summary>Show answer</summary>
 
@@ -571,9 +701,17 @@ Options: A. Tundra B. Equatorial ice caps C. Mediterranean regions D. Permanent 
 </details>
 
 **Q18.** UP potato / CIP centre:
+
 1. UP leading potato producer.
 2. CIP-SARC approved at Aligarh.
-Options: A. Only 2 B. Neither C. Both D. Only 1
+
+A. Only 2
+
+B. Neither
+
+C. Both
+
+D. Only 1
 
 <details><summary>Show answer</summary>
 
@@ -581,7 +719,14 @@ Options: A. Only 2 B. Neither C. Both D. Only 1
 </details>
 
 **Q19.** Planning Commission agro-climatic zones number:
-Options: A. 5 B. 15 C. 127 only D. 200
+
+A. 5
+
+B. 15
+
+C. 127 only
+
+D. 200
 
 <details><summary>Show answer</summary>
 
@@ -589,7 +734,14 @@ Options: A. 5 B. 15 C. 127 only D. 200
 </details>
 
 **Q20.** Western Dry Region ACZ is mainly:
-Options: A. Kerala coast B. West Rajasthan C. Sundarbans only D. Nicobar only
+
+A. Kerala coast
+
+B. West Rajasthan
+
+C. Sundarbans only
+
+D. Nicobar only
 
 <details><summary>Show answer</summary>
 
@@ -597,7 +749,14 @@ Options: A. Kerala coast B. West Rajasthan C. Sundarbans only D. Nicobar only
 </details>
 
 **Q21.** Tank irrigation is characteristic of:
-Options: A. Only Punjab doabs B. Peninsular hard-rock regions C. Only Ladakh glaciers D. Only mangroves
+
+A. Only Punjab doabs
+
+B. Peninsular hard-rock regions
+
+C. Only Ladakh glaciers
+
+D. Only mangroves
 
 <details><summary>Show answer</summary>
 
@@ -605,7 +764,14 @@ Options: A. Only Punjab doabs B. Peninsular hard-rock regions C. Only Ladakh gla
 </details>
 
 **Q22.** Drip irrigation delivers water primarily to:
-Options: A. Atmosphere only B. Root zone C. Sea only D. Clouds
+
+A. Atmosphere only
+
+B. Root zone
+
+C. Sea only
+
+D. Clouds
 
 <details><summary>Show answer</summary>
 
@@ -613,7 +779,14 @@ Options: A. Atmosphere only B. Root zone C. Sea only D. Clouds
 </details>
 
 **Q23.** Seed chain correct order:
-Options: A. Certified→Breeder→Foundation B. Breeder→Foundation→Certified C. Foundation→Certified→Breeder D. Only certified exists
+
+A. Certified→Breeder→Foundation
+
+B. Breeder→Foundation→Certified
+
+C. Foundation→Certified→Breeder
+
+D. Only certified exists
 
 <details><summary>Show answer</summary>
 
@@ -621,7 +794,14 @@ Options: A. Certified→Breeder→Foundation B. Breeder→Foundation→Certified
 </details>
 
 **Q24.** Red rot of sugarcane agent type:
-Options: A. Bacteria B. Fungus C. Insect only D. O₂ deficiency
+
+A. Bacteria
+
+B. Fungus
+
+C. Insect only
+
+D. O₂ deficiency
 
 <details><summary>Show answer</summary>
 
@@ -629,7 +809,14 @@ Options: A. Bacteria B. Fungus C. Insect only D. O₂ deficiency
 </details>
 
 **Q25.** Citrus canker agent type:
-Options: A. Fungus B. Bacteria C. Insect only D. Nematode named rust
+
+A. Fungus
+
+B. Bacteria
+
+C. Insect only
+
+D. Nematode named rust
 
 <details><summary>Show answer</summary>
 
@@ -637,7 +824,14 @@ Options: A. Fungus B. Bacteria C. Insect only D. Nematode named rust
 </details>
 
 **Q26.** Verghese Kurien associated with:
-Options: A. HYV wheat alone B. Milk / Operation Flood C. Jute mills D. Tea auctions
+
+A. HYV wheat alone
+
+B. Milk / Operation Flood
+
+C. Jute mills
+
+D. Tea auctions
 
 <details><summary>Show answer</summary>
 
@@ -645,7 +839,14 @@ Options: A. HYV wheat alone B. Milk / Operation Flood C. Jute mills D. Tea aucti
 </details>
 
 **Q27.** Jhum cultivation best associated with:
-Options: A. Punjab canals B. North-East India C. Kerala rubber only as definition D. Rajasthan IGNP only
+
+A. Punjab canals
+
+B. North-East India
+
+C. Kerala rubber only as definition
+
+D. Rajasthan IGNP only
 
 <details><summary>Show answer</summary>
 
@@ -653,7 +854,14 @@ Options: A. Punjab canals B. North-East India C. Kerala rubber only as definitio
 </details>
 
 **Q28.** Bajra–Ragi–Jowar locks:
-Options: A. KL; RJ; Assam B. RJ; KA; MH C. PB; KL; GJ D. All only in Kerala
+
+A. KL; RJ; Assam
+
+B. RJ; KA; MH
+
+C. PB; KL; GJ
+
+D. All only in Kerala
 
 <details><summary>Show answer</summary>
 
@@ -661,7 +869,14 @@ Options: A. KL; RJ; Assam B. RJ; KA; MH C. PB; KL; GJ D. All only in Kerala
 </details>
 
 **Q29.** Groundnut–Mustard–Soybean locks:
-Options: A. MP; KA; KL B. GJ; RJ; MP C. Assam; PB; Goa D. HP; SK; MN
+
+A. MP; KA; KL
+
+B. GJ; RJ; MP
+
+C. Assam; PB; Goa
+
+D. HP; SK; MN
 
 <details><summary>Show answer</summary>
 
@@ -669,7 +884,14 @@ Options: A. MP; KA; KL B. GJ; RJ; MP C. Assam; PB; Goa D. HP; SK; MN
 </details>
 
 **Q30.** Cotton needs roughly how many frost-free days (textbook lock)?
-Options: A. 50 B. 90 C. 210 D. 365 always
+
+A. 50
+
+B. 90
+
+C. 210
+
+D. 365 always
 
 <details><summary>Show answer</summary>
 
@@ -677,7 +899,14 @@ Options: A. 50 B. 90 C. 210 D. 365 always
 </details>
 
 **Q31.** Jute retting requires:
-Options: A. Desert dunes only B. Water steeping of stems C. Snow fields D. Only drip emitters
+
+A. Desert dunes only
+
+B. Water steeping of stems
+
+C. Snow fields
+
+D. Only drip emitters
 
 <details><summary>Show answer</summary>
 
@@ -685,7 +914,14 @@ Options: A. Desert dunes only B. Water steeping of stems C. Snow fields D. Only 
 </details>
 
 **Q32.** Aus / Aman / Boro refer to:
-Options: A. Wheat grades B. Eastern rice seasons C. Cotton staples D. Coffee species
+
+A. Wheat grades
+
+B. Eastern rice seasons
+
+C. Cotton staples
+
+D. Coffee species
 
 <details><summary>Show answer</summary>
 
@@ -693,7 +929,14 @@ Options: A. Wheat grades B. Eastern rice seasons C. Cotton staples D. Coffee spe
 </details>
 
 **Q33.** Arabica vs Robusta:
-Options: A. Both temperate apples B. Coffee species/elevation niches C. Jute grades D. Canal types
+
+A. Both temperate apples
+
+B. Coffee species/elevation niches
+
+C. Jute grades
+
+D. Canal types
 
 <details><summary>Show answer</summary>
 
@@ -701,7 +944,14 @@ Options: A. Both temperate apples B. Coffee species/elevation niches C. Jute gra
 </details>
 
 **Q34.** Mixed cropping means:
-Options: A. Sequence only across years B. Two+ crops together same time C. Only fallow D. Only plantation monoculture
+
+A. Sequence only across years
+
+B. Two+ crops together same time
+
+C. Only fallow
+
+D. Only plantation monoculture
 
 <details><summary>Show answer</summary>
 
@@ -709,7 +959,14 @@ Options: A. Sequence only across years B. Two+ crops together same time C. Only 
 </details>
 
 **Q35.** Evergreen Revolution emphasises:
-Options: A. Ending all farming B. Sustainable productivity without ecological harm C. Only petroleum D. Only jhum expansion
+
+A. Ending all farming
+
+B. Sustainable productivity without ecological harm
+
+C. Only petroleum
+
+D. Only jhum expansion
 
 <details><summary>Show answer</summary>
 
@@ -717,7 +974,14 @@ Options: A. Ending all farming B. Sustainable productivity without ecological ha
 </details>
 
 **Q36.** ICAR is:
-Options: A. MSP recommending body B. Apex agri research/education body C. Tea board auction only D. WTO farm committee of India
+
+A. MSP recommending body
+
+B. Apex agri research/education body
+
+C. Tea board auction only
+
+D. WTO farm committee of India
 
 <details><summary>Show answer</summary>
 
@@ -725,7 +989,14 @@ Options: A. MSP recommending body B. Apex agri research/education body C. Tea bo
 </details>
 
 **Q37.** Warabandi is:
-Options: A. Crop insurance brand B. Canal water roster turns C. Coffee curing D. Rubber tapping knife
+
+A. Crop insurance brand
+
+B. Canal water roster turns
+
+C. Coffee curing
+
+D. Rubber tapping knife
 
 <details><summary>Show answer</summary>
 
@@ -733,7 +1004,14 @@ Options: A. Crop insurance brand B. Canal water roster turns C. Coffee curing D.
 </details>
 
 **Q38.** CAD primarily aims to:
-Options: A. Ban irrigation B. Improve utilisation of created irrigation potential C. Replace ICAR D. Set weekly MSP
+
+A. Ban irrigation
+
+B. Improve utilisation of created irrigation potential
+
+C. Replace ICAR
+
+D. Set weekly MSP
 
 <details><summary>Show answer</summary>
 
@@ -741,7 +1019,14 @@ Options: A. Ban irrigation B. Improve utilisation of created irrigation potentia
 </details>
 
 **Q39.** NOT major cocoa producer:
-Options: A. Latvia B. Cameroon C. Ghana D. Ivory Coast
+
+A. Latvia
+
+B. Cameroon
+
+C. Ghana
+
+D. Ivory Coast
 
 <details><summary>Show answer</summary>
 
@@ -749,7 +1034,14 @@ Options: A. Latvia B. Cameroon C. Ghana D. Ivory Coast
 </details>
 
 **Q40.** Golden rice associated with:
-Options: A. Vitamin C only B. Vitamin A C. Iodine only D. Cobalt only
+
+A. Vitamin C only
+
+B. Vitamin A
+
+C. Iodine only
+
+D. Cobalt only
 
 <details><summary>Show answer</summary>
 
@@ -757,7 +1049,14 @@ Options: A. Vitamin C only B. Vitamin A C. Iodine only D. Cobalt only
 </details>
 
 **Q41.** Entitlements approach in food security:
-Options: A. Only Borlaug B. Amartya Sen C. Only Kurien D. Only PAU registrar
+
+A. Only Borlaug
+
+B. Amartya Sen
+
+C. Only Kurien
+
+D. Only PAU registrar
 
 <details><summary>Show answer</summary>
 
@@ -765,7 +1064,14 @@ Options: A. Only Borlaug B. Amartya Sen C. Only Kurien D. Only PAU registrar
 </details>
 
 **Q42.** Blue Revolution:
-Options: A. Fertiliser B. Petroleum C. Fisheries D. Cotton lint
+
+A. Fertiliser
+
+B. Petroleum
+
+C. Fisheries
+
+D. Cotton lint
 
 <details><summary>Show answer</summary>
 
@@ -773,7 +1079,14 @@ Options: A. Fertiliser B. Petroleum C. Fisheries D. Cotton lint
 </details>
 
 **Q43.** Silver Revolution:
-Options: A. Eggs/poultry B. Wheat C. Rubber D. Jute
+
+A. Eggs/poultry
+
+B. Wheat
+
+C. Rubber
+
+D. Jute
 
 <details><summary>Show answer</summary>
 
@@ -781,7 +1094,14 @@ Options: A. Eggs/poultry B. Wheat C. Rubber D. Jute
 </details>
 
 **Q44.** Yellow Revolution:
-Options: A. Milk B. Oilseeds C. Fish D. Eggs
+
+A. Milk
+
+B. Oilseeds
+
+C. Fish
+
+D. Eggs
 
 <details><summary>Show answer</summary>
 
@@ -789,7 +1109,14 @@ Options: A. Milk B. Oilseeds C. Fish D. Eggs
 </details>
 
 **Q45.** NARP agro-climatic research zones are about:
-Options: A. 15 only B. ~127 C. 3 D. 1000 exactly always
+
+A. 15 only
+
+B. ~127
+
+C. 3
+
+D. 1000 exactly always
 
 <details><summary>Show answer</summary>
 
@@ -797,7 +1124,14 @@ Options: A. 15 only B. ~127 C. 3 D. 1000 exactly always
 </details>
 
 **Q46.** NBSS&LUP agro-ecological regions about:
-Options: A. 15 B. ~20 C. 127 D. 2
+
+A. 15
+
+B. ~20
+
+C. 127
+
+D. 2
 
 <details><summary>Show answer</summary>
 
@@ -805,7 +1139,14 @@ Options: A. 15 B. ~20 C. 127 D. 2
 </details>
 
 **Q47.** Murrah is a famous:
-Options: A. Tea clone B. Buffalo breed C. Cotton staple D. Canal type
+
+A. Tea clone
+
+B. Buffalo breed
+
+C. Cotton staple
+
+D. Canal type
 
 <details><summary>Show answer</summary>
 
@@ -813,7 +1154,14 @@ Options: A. Tea clone B. Buffalo breed C. Cotton staple D. Canal type
 </details>
 
 **Q48.** Operation Flood linked to:
-Options: A. NDDB dairy cooperatives B. Only jute retting C. Only coffee blossom D. Only tank silt
+
+A. NDDB dairy cooperatives
+
+B. Only jute retting
+
+C. Only coffee blossom
+
+D. Only tank silt
 
 <details><summary>Show answer</summary>
 
@@ -821,7 +1169,14 @@ Options: A. NDDB dairy cooperatives B. Only jute retting C. Only coffee blossom 
 </details>
 
 **Q49.** Philippines coconut & sugarcane credit:
-Options: A. French B. Britishers C. Hollanders D. Spanish and Americans
+
+A. French
+
+B. Britishers
+
+C. Hollanders
+
+D. Spanish and Americans
 
 <details><summary>Show answer</summary>
 
@@ -829,9 +1184,17 @@ Options: A. French B. Britishers C. Hollanders D. Spanish and Americans
 </details>
 
 **Q50.** Bio-decomposer programme statements (Delhi):
+
 1. Free to convert stubble to manure.
 2. Prepared using mix of fungi.
-Options: A. Only 2 B. Neither C. Both D. Only 1
+
+A. Only 2
+
+B. Neither
+
+C. Both
+
+D. Only 1
 
 <details><summary>Show answer</summary>
 
@@ -839,7 +1202,14 @@ Options: A. Only 2 B. Neither C. Both D. Only 1
 </details>
 
 **Q51.** Intensive subsistence farming in India is typical of:
-Options: A. Only empty deserts B. Small monsoon farms with high labour on food grains C. Only Canadian prairies D. Only Amazon jhum identical always
+
+A. Only empty deserts
+
+B. Small monsoon farms with high labour on food grains
+
+C. Only Canadian prairies
+
+D. Only Amazon jhum identical always
 
 <details><summary>Show answer</summary>
 
@@ -847,7 +1217,14 @@ Options: A. Only empty deserts B. Small monsoon farms with high labour on food g
 </details>
 
 **Q52.** Which crop condition set is correct for rubber?
-Options: A. Cold dry 40 cm rain B. Hot humid >200 cm rain class C. Only rabi loam like wheat D. Frosty Himalaya apple belt
+
+A. Cold dry 40 cm rain
+
+B. Hot humid >200 cm rain class
+
+C. Only rabi loam like wheat
+
+D. Frosty Himalaya apple belt
 
 <details><summary>Show answer</summary>
 
@@ -855,7 +1232,14 @@ Options: A. Cold dry 40 cm rain B. Hot humid >200 cm rain class C. Only rabi loa
 </details>
 
 **Q53.** Trans-Gangetic Plains ACZ core crops:
-Options: A. Only rubber B. Intensive wheat–rice C. Only jhum millets D. Only saffron
+
+A. Only rubber
+
+B. Intensive wheat–rice
+
+C. Only jhum millets
+
+D. Only saffron
 
 <details><summary>Show answer</summary>
 
@@ -863,7 +1247,14 @@ Options: A. Only rubber B. Intensive wheat–rice C. Only jhum millets D. Only s
 </details>
 
 **Q54.** e-NAM relates to:
-Options: A. Electronic agri market networking B. Nobel prizes C. Only jhum registration D. Cocoa in Latvia
+
+A. Electronic agri market networking
+
+B. Nobel prizes
+
+C. Only jhum registration
+
+D. Cocoa in Latvia
 
 <details><summary>Show answer</summary>
 
@@ -871,7 +1262,14 @@ Options: A. Electronic agri market networking B. Nobel prizes C. Only jhum regis
 </details>
 
 **Q55.** AIDC 2021–22 PYQ product count:
-Options: A. 12 B. 20 C. 25 D. 29
+
+A. 12
+
+B. 20
+
+C. 25
+
+D. 29
 
 <details><summary>Show answer</summary>
 
@@ -879,7 +1277,14 @@ Options: A. 12 B. 20 C. 25 D. 29
 </details>
 
 **Q56.** Precision farming emphasises:
-Options: A. Same dose everywhere always B. Site-specific input management C. Ending all irrigation D. Only shifting cultivation
+
+A. Same dose everywhere always
+
+B. Site-specific input management
+
+C. Ending all irrigation
+
+D. Only shifting cultivation
 
 <details><summary>Show answer</summary>
 
@@ -887,7 +1292,14 @@ Options: A. Same dose everywhere always B. Site-specific input management C. End
 </details>
 
 **Q57.** Organic farming:
-Options: A. Requires synthetic urea always B. Avoids synthetic agrochemicals per standards C. Means only jhum D. Means only plantation CTC
+
+A. Requires synthetic urea always
+
+B. Avoids synthetic agrochemicals per standards
+
+C. Means only jhum
+
+D. Means only plantation CTC
 
 <details><summary>Show answer</summary>
 
@@ -895,7 +1307,14 @@ Options: A. Requires synthetic urea always B. Avoids synthetic agrochemicals per
 </details>
 
 **Q58.** Western UP + Green Revolution:
-Options: A. Neither true B. Both true C. Only GR false D. Only development false
+
+A. Neither true
+
+B. Both true
+
+C. Only GR false
+
+D. Only development false
 
 <details><summary>Show answer</summary>
 
@@ -903,7 +1322,14 @@ Options: A. Neither true B. Both true C. Only GR false D. Only development false
 </details>
 
 **Q59.** Mesta is:
-Options: A. Wheat HYV B. Jute-related fibre substitute C. Coffee species D. Canal lining chemical
+
+A. Wheat HYV
+
+B. Jute-related fibre substitute
+
+C. Coffee species
+
+D. Canal lining chemical
 
 <details><summary>Show answer</summary>
 
@@ -911,7 +1337,14 @@ Options: A. Wheat HYV B. Jute-related fibre substitute C. Coffee species D. Cana
 </details>
 
 **Q60.** Which is correctly paired?
-Options: A. Mustard—kharif only always B. Gram—rabi pulse C. Tea—zaid melon D. Bajra—Kerala cardamom hills only
+
+A. Mustard—kharif only always
+
+B. Gram—rabi pulse
+
+C. Tea—zaid melon
+
+D. Bajra—Kerala cardamom hills only
 
 <details><summary>Show answer</summary>
 
@@ -928,7 +1361,14 @@ Options: A. Mustard—kharif only always B. Gram—rabi pulse C. Tea—zaid melo
 ### 2018
 
 **Q9.** From 4th July 2018 the Minimum Support Price (MSP) during 2018-19 for paddy per quintal is
-Options: A. Rs. 1,550 B. Rs. 1,650 C. Rs. 1,750 D. Rs. 1,950
+
+A. Rs. 1,550
+
+B. Rs. 1,650
+
+C. Rs. 1,750
+
+D. Rs. 1,950
 
 <details><summary>Show answer</summary>
 
@@ -936,8 +1376,16 @@ Options: A. Rs. 1,550 B. Rs. 1,650 C. Rs. 1,750 D. Rs. 1,950
 </details>
 
 **Q28.** Arrange the following coffee producing countries in descending order of their coffee production (2016, quantity) and select the correct answer from the codes given below:
+
 A. Colombia B. Vietnam C. Brazil D. Indonesia
-Options: A. D, C, B, A B. C, B, A, D C. B, D, C, A D. C, A, B, D
+
+A. D, C, B, A
+
+B. C, B, A, D
+
+C. B, D, C, A
+
+D. C, A, B, D
 
 <details><summary>Show answer</summary>
 
@@ -945,7 +1393,14 @@ Options: A. D, C, B, A B. C, B, A, D C. B, D, C, A D. C, A, B, D
 </details>
 
 **Q56.** Norman Borlaug was given Nobel Prize in which field?
-Options: A. Agriculture B. Economics C. Medicine D. Peace
+
+A. Agriculture
+
+B. Economics
+
+C. Medicine
+
+D. Peace
 
 <details><summary>Show answer</summary>
 
@@ -953,7 +1408,14 @@ Options: A. Agriculture B. Economics C. Medicine D. Peace
 </details>
 
 **Q57.** Which pair is NOT correctly matched?
-Options: A. Renneting–Cheese B. Genetic Engineering–Plasmids C. Golden rice–Vitamin A D. Ozone layer–Troposphere
+
+A. Renneting–Cheese
+
+B. Genetic Engineering–Plasmids
+
+C. Golden rice–Vitamin A
+
+D. Ozone layer–Troposphere
 
 <details><summary>Show answer</summary>
 
@@ -961,7 +1423,14 @@ Options: A. Renneting–Cheese B. Genetic Engineering–Plasmids C. Golden rice�
 </details>
 
 **Q106.** Sultana, Gulabi and Kali Champa varieties are of which major fruit?
-Options: A. Custard Apple B. Orange C. Guava D. Grapes
+
+A. Custard Apple
+
+B. Orange
+
+C. Guava
+
+D. Grapes
 
 <details><summary>Show answer</summary>
 
@@ -969,7 +1438,14 @@ Options: A. Custard Apple B. Orange C. Guava D. Grapes
 </details>
 
 **Q107.** Largest producer of cardamom and pepper in India?
-Options: A. Tamil Nadu B. Goa C. Kerala D. Maharashtra
+
+A. Tamil Nadu
+
+B. Goa
+
+C. Kerala
+
+D. Maharashtra
 
 <details><summary>Show answer</summary>
 
@@ -979,7 +1455,14 @@ Options: A. Tamil Nadu B. Goa C. Kerala D. Maharashtra
 ### 2019
 
 **Q46.** Nitrogen fixing bacteria make combination with cells of the roots of
-Options: A. Pulses B. Rice C. Wheat D. Sugarcane
+
+A. Pulses
+
+B. Rice
+
+C. Wheat
+
+D. Sugarcane
 
 <details><summary>Show answer</summary>
 
@@ -987,7 +1470,14 @@ Options: A. Pulses B. Rice C. Wheat D. Sugarcane
 </details>
 
 **Q86.** A: Sugarcane and sugar production in U.P. is more than Maharashtra but productivity is less. R: Most sugar factories in Maharashtra are in cooperative sector.
-Options: A. Both, R explains B. Both, R does not explain C. A true R false D. A false R true
+
+A. Both, R explains
+
+B. Both, R does not explain
+
+C. A true R false
+
+D. A false R true
 
 <details><summary>Show answer</summary>
 
@@ -997,7 +1487,14 @@ Options: A. Both, R explains B. Both, R does not explain C. A true R false D. A 
 ### 2020
 
 **Q58.** A: Ahmedabad is the largest centre of cotton textile industry in India. R: Ahmedabad is located in a major cotton growing region, so no raw-material problem.
-Options: A. Both, R explains B. Both, R not explanation C. A true R false D. A false R true
+
+A. Both, R explains
+
+B. Both, R not explanation
+
+C. A true R false
+
+D. A false R true
 
 <details><summary>Show answer</summary>
 
@@ -1005,7 +1502,14 @@ Options: A. Both, R explains B. Both, R not explanation C. A true R false D. A f
 </details>
 
 **Q72.** In which of the following regions of the world, the production of citrus fruits is well developed?
-Options: A. (Hindi OCR hill-range pair) B. (Hindi OCR Himalayan pair) C. Mediterranean regions D. Equatorial regions
+
+A. (Hindi OCR hill-range pair)
+
+B. (Hindi OCR Himalayan pair)
+
+C. Mediterranean regions
+
+D. Equatorial regions
 
 <details><summary>Show answer</summary>
 
@@ -1013,6 +1517,7 @@ Options: A. (Hindi OCR hill-range pair) B. (Hindi OCR Himalayan pair) C. Mediter
 </details>
 
 **Q143.** A: Union Budget 2020-21 focused on rural development aiming at doubling farmer income. R: 16 action points centred on agriculture, irrigation and rural development.
+
 Options: standard A/R codes
 
 <details><summary>Show answer</summary>
@@ -1023,7 +1528,14 @@ Options: standard A/R codes
 ### 2021
 
 **Q45.** Which is NOT a major cocoa producer country?
-Options: A. Latvia B. Cameroon C. Ghana D. Ivory Coast
+
+A. Latvia
+
+B. Cameroon
+
+C. Ghana
+
+D. Ivory Coast
 
 <details><summary>Show answer</summary>
 
@@ -1031,7 +1543,14 @@ Options: A. Latvia B. Cameroon C. Ghana D. Ivory Coast
 </details>
 
 **Q103.** Agriculture Infrastructure and Development Cess (Budget 2021-22) levied on how many products?
-Options: A. 12 B. 20 C. 25 D. 29
+
+A. 12
+
+B. 20
+
+C. 25
+
+D. 29
 
 <details><summary>Show answer</summary>
 
@@ -1041,12 +1560,20 @@ Options: A. 12 B. 20 C. 25 D. 29
 ### 2022
 
 **Q21.** Match List-I with List-II and select the correct answer from the code given below.
-**List-I (Plant Disease)** | **List-II (Cause)**
-A. Citrus Canker | 1. Insect
-B. Red Rot Disease of Sugarcane | 2. Deficiency of Oxygen
-C. Krishnakant Disease of Potato | 3. Bacteria
-D. Sahu Disease of Wheat | 4. Fungus
-Options: A. A-4, B-1, C-3, D-2 B. A-1, B-3, C-4, D-2 C. A-3, B-4, C-2, D-1 D. A-1, B-2, C-3, D-4
+| List-I (Plant Disease) | List-II (Cause) |
+|---|---|
+| A. Citrus Canker | 1. Insect |
+| B. Red Rot Disease of Sugarcane | 2. Deficiency of Oxygen |
+| C. Krishnakant Disease of Potato | 3. Bacteria |
+| D. Sahu Disease of Wheat | 4. Fungus |
+
+A. A-4, B-1, C-3, D-2
+
+B. A-1, B-3, C-4, D-2
+
+C. A-3, B-4, C-2, D-1
+
+D. A-1, B-2, C-3, D-4
 
 <details><summary>Show answer</summary>
 
@@ -1054,12 +1581,20 @@ Options: A. A-4, B-1, C-3, D-2 B. A-1, B-3, C-4, D-2 C. A-3, B-4, C-2, D-1 D. A-
 </details>
 
 **Q39.** Match List-I with List-II and select the correct answer from the code given below.
-**List-I (Person)** | **List-II (Concerned with)**
-A. M. S. Swaminathan | 1. Social control on Banks
-B. L. K. Jha | 2. Milk Production
-C. Verghese Kurien | 3. Green Revolution
-D. Morarji Desai | 4. Economic Administration Reforms
-Options: A. A-4, B-1, C-3, D-2 B. A-2, B-3, C-4, D-1 C. A-3, B-4, C-2, D-1 D. A-1, B-2, C-4, D-3
+| List-I (Person) | List-II (Concerned with) |
+|---|---|
+| A. M. S. Swaminathan | 1. Social control on Banks |
+| B. L. K. Jha | 2. Milk Production |
+| C. Verghese Kurien | 3. Green Revolution |
+| D. Morarji Desai | 4. Economic Administration Reforms |
+
+A. A-4, B-1, C-3, D-2
+
+B. A-2, B-3, C-4, D-1
+
+C. A-3, B-4, C-2, D-1
+
+D. A-1, B-2, C-4, D-3
 
 <details><summary>Show answer</summary>
 
@@ -1067,11 +1602,19 @@ Options: A. A-4, B-1, C-3, D-2 B. A-2, B-3, C-4, D-1 C. A-3, B-4, C-2, D-1 D. A-
 </details>
 
 **Q74.** Consider the following statements about farm subsidies in India.
+
 1. The input subsidies in India, such as on fertilizers, fall under indirect farm subsidies.
 2. Reduction in power and irrigation bills offered to farmers fall under direct farm subsidies.
 3. The agricultural provisions of the World Trade Organization (WTO) allow direct farm subsidies but prohibit indirect subsidies.
 4. All subsidies provided by the governments in India fall under indirect subsidies.
-Options: A. 1 and 4 B. 3 and 4 C. 2 and 3 D. 1 and 2
+
+A. 1 and 4
+
+B. 3 and 4
+
+C. 2 and 3
+
+D. 1 and 2
 
 <details><summary>Show answer</summary>
 
@@ -1079,9 +1622,17 @@ Options: A. 1 and 4 B. 3 and 4 C. 2 and 3 D. 1 and 2
 </details>
 
 **Q91.** With reference to Western Uttar Pradesh, which of the following statements is/are correct?
+
 1. The western region of U.P. is much more developed compared to other regions.
 2. The region has witnessed the Green Revolution.
-Options: A. Neither 1 nor 2 B. Both 1 and 2 C. Only 2 D. Only 1
+
+A. Neither 1 nor 2
+
+B. Both 1 and 2
+
+C. Only 2
+
+D. Only 1
 
 <details><summary>Show answer</summary>
 
@@ -1089,12 +1640,20 @@ Options: A. Neither 1 nor 2 B. Both 1 and 2 C. Only 2 D. Only 1
 </details>
 
 **Q136.** Match List-I with List-II and select the correct answer from the code given below.
-**List-I (Revolution)** | **List-II (Related with)**
-A. Golden Revolution | 1. Oilseed production
-B. Grey Revolution | 2. Horticulture and honey
-C. Yellow Revolution | 3. Petroleum production
-D. Black Revolution | 4. Fertilizers
-Options: A. A-2, B-4, C-1, D-3 B. A-2, B-3, C-4, D-1 C. A-1, B-2, C-3, D-4 D. A-4, B-2, C-1, D-3
+| List-I (Revolution) | List-II (Related with) |
+|---|---|
+| A. Golden Revolution | 1. Oilseed production |
+| B. Grey Revolution | 2. Horticulture and honey |
+| C. Yellow Revolution | 3. Petroleum production |
+| D. Black Revolution | 4. Fertilizers |
+
+A. A-2, B-4, C-1, D-3
+
+B. A-2, B-3, C-4, D-1
+
+C. A-1, B-2, C-3, D-4
+
+D. A-4, B-2, C-1, D-3
 
 <details><summary>Show answer</summary>
 
@@ -1102,7 +1661,14 @@ Options: A. A-2, B-4, C-1, D-3 B. A-2, B-3, C-4, D-1 C. A-1, B-2, C-3, D-4 D. A-
 </details>
 
 **Q142.** Which one of the following is correctly matched?
-Options: A. Gujarat — Tea B. Uttar Pradesh — Jute C. Kerala — Rubber D. Assam — Wheat
+
+A. Gujarat — Tea
+
+B. Uttar Pradesh — Jute
+
+C. Kerala — Rubber
+
+D. Assam — Wheat
 
 <details><summary>Show answer</summary>
 
@@ -1112,7 +1678,14 @@ Options: A. Gujarat — Tea B. Uttar Pradesh — Jute C. Kerala — Rubber D. As
 ### 2023
 
 **Q64.** Credit for coconut and sugarcane agriculture in the Philippines?
-Options: A. French B. Britishers C. Hollanders D. Spanish and Americans
+
+A. French
+
+B. Britishers
+
+C. Hollanders
+
+D. Spanish and Americans
 
 <details><summary>Show answer</summary>
 
@@ -1120,7 +1693,14 @@ Options: A. French B. Britishers C. Hollanders D. Spanish and Americans
 </details>
 
 **Q104.** Aquatic plant used as biofertilizer in water-logged rice fields?
-Options: A. Lemna B. Azolla C. Wolffia D. Trapa
+
+A. Lemna
+
+B. Azolla
+
+C. Wolffia
+
+D. Trapa
 
 <details><summary>Show answer</summary>
 
@@ -1130,7 +1710,14 @@ Options: A. Lemna B. Azolla C. Wolffia D. Trapa
 ### 2024
 
 **Q34.** Crop predominantly grown under plantation agriculture?
-Options: A. Wheat B. Tea C. Rice D. Maize
+
+A. Wheat
+
+B. Tea
+
+C. Rice
+
+D. Maize
 
 <details><summary>Show answer</summary>
 
@@ -1138,7 +1725,14 @@ Options: A. Wheat B. Tea C. Rice D. Maize
 </details>
 
 **Q43.** Who recommends MSP for agricultural crops?
-Options: A. RBI B. NITI Aayog C. CACP D. Ministry of Finance
+
+A. RBI
+
+B. NITI Aayog
+
+C. CACP
+
+D. Ministry of Finance
 
 <details><summary>Show answer</summary>
 
@@ -1146,10 +1740,18 @@ Options: A. RBI B. NITI Aayog C. CACP D. Ministry of Finance
 </details>
 
 **Q73.** Consider the following statements with reference to cultivated area of some countries of the world:
+
 1. In comparison to USA, China and Japan, India has highest geographical area under cultivation.
 2. India's location in tropical monsoon region helps diversified cropping all through the year.
 Which of the above statements is/are correct?
-Options: A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
+
+A. Both 1 and 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Only 2
 
 <details><summary>Show answer</summary>
 
@@ -1159,9 +1761,17 @@ Options: A. Both 1 and 2 B. Neither 1 nor 2 C. Only 1 D. Only 2
 ### 2025
 
 **Q10.** With reference to 'Delhi Government's Bio-decomposer and Spray Programme', which of the following statements is/are correct?
+
 1. The Bio-decomposer solution is provided free of cost to farmers to help convert stubble into manure.
 2. The Bio-decomposer solution is prepared using a mix of several fungi.
-Options: A. Only 2 B. Neither 1 nor 2 C. Both 1 and 2 D. Only 1
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
 
 <details><summary>Show answer</summary>
 
@@ -1169,9 +1779,17 @@ Options: A. Only 2 B. Neither 1 nor 2 C. Both 1 and 2 D. Only 1
 </details>
 
 **Q34.** With reference to Uttar Pradesh, which of the following statements is/are correct?
+
 1. Uttar Pradesh is the leading producer of potato in the country.
 2. Government of India has approved the establishment of the South Asia Regional Centre of the International Potato Centre at Aligarh.
-Options: A. Only 2 B. Neither 1 nor 2 C. Both 1 and 2 D. Only 1
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
 
 <details><summary>Show answer</summary>
 
@@ -1179,8 +1797,16 @@ Options: A. Only 2 B. Neither 1 nor 2 C. Both 1 and 2 D. Only 1
 </details>
 
 **Q147.** Who among the following introduced the concept of entitlements in food security?
+
 1. M. S. Swaminathan 2. Atul Pranay 3. Samali Srikant 4. Amartya Sen
-Options: A. 1 and 2 B. Only 4 C. 3 and 4 D. Only 1
+
+A. 1 and 2
+
+B. Only 4
+
+C. 3 and 4
+
+D. Only 1
 
 <details><summary>Show answer</summary>
 

@@ -121,7 +121,13 @@ B. Sadlar Commission
 C. Wood's Despatch  
 D. Sargeant Plan
 
-Options: A. A B D C  B. C B A D  C. A B C D  D. C A B D
+A. A B D C
+
+B. C B A D
+
+C. A B C D
+
+D. C A B D
 
 <details>
 <summary>Show answer</summary>
@@ -228,7 +234,13 @@ D. He was the Principal of the Muir Central College, Allahabad.
 
 Who was the founder of the 'Asiatic Society of Bengal'?
 
-Options: A. Jonathan Duncan  B. Sir William Jones  C. Warren Hastings  D. William Bentinck
+A. Jonathan Duncan
+
+B. Sir William Jones
+
+C. Warren Hastings
+
+D. William Bentinck
 
 <details>
 <summary>Show answer</summary>
@@ -359,7 +371,13 @@ D. A-1, B-2, C-3, D-4
 
 **Q1.** Arrange: A. Hunter Commission  B. Sadler Commission  C. Wood's Despatch  D. Sargent Plan
 
-Options: A. A B D C  B. C B A D  C. A B C D  D. C A B D
+A. A B D C
+
+B. C B A D
+
+C. A B C D
+
+D. C A B D
 
 <details>
 <summary>Show answer</summary>
@@ -372,7 +390,13 @@ Options: A. A B D C  B. C B A D  C. A B C D  D. C A B D
 
 **Q2.** Who was the founder of the Asiatic Society of Bengal?
 
-Options: A. Jonathan Duncan  B. Sir William Jones  C. Warren Hastings  D. William Bentinck
+A. Jonathan Duncan
+
+B. Sir William Jones
+
+C. Warren Hastings
+
+D. William Bentinck
 
 <details>
 <summary>Show answer</summary>
@@ -424,7 +448,13 @@ D. Principal of Muir Central College, Allahabad
 **List-I** A. Swadesh  B. Bharat Bandhu  C. Satyawadi  D. Shakti  
 **List-II** 1. Agra  2. Almora  3. Hathras  4. Gorakhpur
 
-Options: A. 3 2 1 4  B. 4 3 1 2  C. 2 3 4 1  D. 1 2 3 4
+A. 3 2 1 4
+
+B. 4 3 1 2
+
+C. 2 3 4 1
+
+D. 1 2 3 4
 
 <details>
 <summary>Show answer</summary>
@@ -440,7 +470,13 @@ Options: A. 3 2 1 4  B. 4 3 1 2  C. 2 3 4 1  D. 1 2 3 4
 1. It was written in 1835 and favoured English for higher education.  
 2. It is the same document as Wood’s Despatch of 1854.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -457,7 +493,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Indian Universities Act — 1904  
 3. Wardha Scheme — 1944
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -494,7 +536,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Which of the statements given above is/are correct?
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -507,7 +555,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q10.** The first newspaper in India was
 
-Options: A. Kesari  B. Bengal Gazette  C. Young India  D. The Hindu
+A. Kesari
+
+B. Bengal Gazette
+
+C. Young India
+
+D. The Hindu
 
 <details>
 <summary>Show answer</summary>
@@ -523,7 +577,13 @@ Options: A. Kesari  B. Bengal Gazette  C. Young India  D. The Hindu
 1. It was passed in 1878 under Lytton.  
 2. It was repealed by Ripon.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -539,7 +599,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. Macaulay’s Minute  B. Wood’s Despatch  C. Hunter Commission  D. Sargent Plan  
 **List-II** 1. 1854  2. 1835  3. 1944  4. 1882
 
-Options: A. 2 1 4 3  B. 1 2 4 3  C. 2 1 3 4  D. 2 4 1 3
+A. 2 1 4 3
+
+B. 1 2 4 3
+
+C. 2 1 3 4
+
+D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -552,7 +618,13 @@ Options: A. 2 1 4 3  B. 1 2 4 3  C. 2 1 3 4  D. 2 4 1 3
 
 **Q13.** Arrange: 1. Indian Universities Act  2. Macaulay’s Minute  3. Wardha Scheme  4. Wood’s Despatch
 
-Options: A. 2, 4, 1, 3  B. 2, 1, 4, 3  C. 4, 2, 1, 3  D. 2, 4, 3, 1
+A. 2, 4, 1, 3
+
+B. 2, 1, 4, 3
+
+C. 4, 2, 1, 3
+
+D. 2, 4, 3, 1
 
 <details>
 <summary>Show answer</summary>
@@ -568,7 +640,13 @@ Options: A. 2, 4, 1, 3  B. 2, 1, 4, 3  C. 4, 2, 1, 3  D. 2, 4, 3, 1
 1. It is Gandhi’s Basic Education plan of 1937.  
 2. It is the same as the Sargent Plan.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -581,7 +659,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q15.** Jonathan Duncan is associated with
 
-Options: A. Asiatic Society of Bengal  B. Sanskrit College, Banaras  C. MAO College, Aligarh  D. Wardha Scheme
+A. Asiatic Society of Bengal
+
+B. Sanskrit College, Banaras
+
+C. MAO College, Aligarh
+
+D. Wardha Scheme
 
 <details>
 <summary>Show answer</summary>
@@ -598,7 +682,13 @@ Options: A. Asiatic Society of Bengal  B. Sanskrit College, Banaras  C. MAO Coll
 2. Swadesh — Gorakhpur  
 3. Shakti — Hathras
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -633,7 +723,13 @@ D. (A) is false but (R) is true
 1. It was founded in 1800 under Wellesley.  
 2. It trained Company civilians in Indian languages and administration.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -646,7 +742,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q19.** Sadler Commission is mainly associated with
 
-Options: A. Primary education in 1882  B. Calcutta University / higher education, 1917–19  C. Basic Education, 1937  D. Charter Act grant, 1813
+A. Primary education in 1882
+
+B. Calcutta University / higher education, 1917–19
+
+C. Basic Education, 1937
+
+D. Charter Act grant, 1813
 
 <details>
 <summary>Show answer</summary>
@@ -662,7 +764,13 @@ Options: A. Primary education in 1882  B. Calcutta University / higher education
 **List-I** A. Young India  B. New India  C. Kesari  D. Bengal Gazette  
 **List-II** 1. Annie Besant  2. M.K. Gandhi  3. James Hicky  4. Bal Gangadhar Tilak
 
-Options: A. 2 1 4 3  B. 2 1 3 4  C. 1 2 4 3  D. 2 4 1 3
+A. 2 1 4 3
+
+B. 2 1 3 4
+
+C. 1 2 4 3
+
+D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -678,7 +786,13 @@ Options: A. 2 1 4 3  B. 2 1 3 4  C. 1 2 4 3  D. 2 4 1 3
 1. It grew during the Swadeshi period after 1905.  
 2. Bengal National College is a usual example.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -696,7 +810,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 Which of the statements given above is/are correct?
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -713,7 +833,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Anglicists — English and Western science  
 3. Downward filtration — Macaulay’s aim
 
-Options: A. Only 1  B. Only 1 and 3  C. Only 2 and 3  D. Only 3
+A. Only 1
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
@@ -726,7 +852,13 @@ Options: A. Only 1  B. Only 1 and 3  C. Only 2 and 3  D. Only 3
 
 **Q24.** The Charter Act of 1813 is important for education because it
 
-Options: A. Founded the three universities  B. Set aside one lakh rupees for education  C. Passed the Universities Act  D. Adopted the Wardha Scheme
+A. Founded the three universities
+
+B. Set aside one lakh rupees for education
+
+C. Passed the Universities Act
+
+D. Adopted the Wardha Scheme
 
 <details>
 <summary>Show answer</summary>
@@ -742,7 +874,13 @@ Options: A. Founded the three universities  B. Set aside one lakh rupees for edu
 1. MAO College (1875) later became AMU.  
 2. BHU was founded in 1916, associated with Madan Mohan Malaviya.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -755,7 +893,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q26.** Arrange: 1. Hicky’s Bengal Gazette  2. Vernacular Press Act  3. Asiatic Society of Bengal  4. Wood’s Despatch
 
-Options: A. 1, 3, 4, 2  B. 3, 1, 4, 2  C. 1, 3, 2, 4  D. 1, 4, 3, 2
+A. 1, 3, 4, 2
+
+B. 3, 1, 4, 2
+
+C. 1, 3, 2, 4
+
+D. 1, 4, 3, 2
 
 <details>
 <summary>Show answer</summary>
@@ -787,7 +931,13 @@ D. (A) is false but (R) is true
 
 **Q28.** Amrita Bazar Patrika is associated with which city?
 
-Options: A. Pune  B. Madras  C. Calcutta  D. Almora
+A. Pune
+
+B. Madras
+
+C. Calcutta
+
+D. Almora
 
 <details>
 <summary>Show answer</summary>
@@ -803,7 +953,13 @@ Options: A. Pune  B. Madras  C. Calcutta  D. Almora
 1. He was associated with working out the Wardha / Basic Education scheme.  
 2. He drafted Macaulay’s Minute of 1835.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -821,7 +977,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 Which of the statements given above is/are correct?
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -838,7 +1000,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Gandhi — Young India  
 3. Besant — Commonweal
 
-Options: A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -854,7 +1022,13 @@ Options: A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
 1. It recommended grants-in-aid to private schools.  
 2. It rejected all use of Indian vernaculars.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -867,7 +1041,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q33.** Muir Central College was located at
 
-Options: A. Aligarh  B. Lahore  C. Allahabad  D. Dacca
+A. Aligarh
+
+B. Lahore
+
+C. Allahabad
+
+D. Dacca
 
 <details>
 <summary>Show answer</summary>
@@ -884,7 +1064,13 @@ Options: A. Aligarh  B. Lahore  C. Allahabad  D. Dacca
 2. Satyawadi — Agra  
 3. Swadesh — Almora
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -902,7 +1088,13 @@ Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
 
 Which of the statements given above is/are correct?
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -934,7 +1126,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q37.** Hindu College, Calcutta (1817) is associated with
 
-Options: A. Jonathan Duncan  B. David Hare  C. Charles Wood  D. John Sargent
+A. Jonathan Duncan
+
+B. David Hare
+
+C. Charles Wood
+
+D. John Sargent
 
 <details>
 <summary>Show answer</summary>
@@ -950,7 +1148,13 @@ Options: A. Jonathan Duncan  B. David Hare  C. Charles Wood  D. John Sargent
 1. Hicky’s Bengal Gazette began in 1780.  
 2. The Vernacular Press Act was passed by Ripon in 1882.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -963,7 +1167,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q39.** Raleigh Commission is a backdrop to which of the following?
 
-Options: A. Wardha Scheme  B. Indian Universities Act, 1904  C. Hunter Commission  D. Charter Act of 1813
+A. Wardha Scheme
+
+B. Indian Universities Act, 1904
+
+C. Hunter Commission
+
+D. Charter Act of 1813
 
 <details>
 <summary>Show answer</summary>
@@ -981,7 +1191,13 @@ Options: A. Wardha Scheme  B. Indian Universities Act, 1904  C. Hunter Commissio
 
 Which of the statements given above is/are correct?
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1050,7 +1266,13 @@ D. A-1, B-2, C-3, D-4
 
 Who was the founder of the 'Asiatic Society of Bengal'?
 
-Options: A. Jonathan Duncan  B. Sir William Jones  C. Warren Hastings  D. William Bentinck
+A. Jonathan Duncan
+
+B. Sir William Jones
+
+C. Warren Hastings
+
+D. William Bentinck
 
 <details>
 <summary>Show answer</summary>
@@ -1095,7 +1317,13 @@ B. Sadlar Commission
 C. Wood's Despatch  
 D. Sargeant Plan
 
-Options: A. A B D C  B. C B A D  C. A B C D  D. C A B D
+A. A B D C
+
+B. C B A D
+
+C. A B C D
+
+D. C A B D
 
 <details>
 <summary>Show answer</summary>

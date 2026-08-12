@@ -708,7 +708,10 @@ A. FR cannot be amended  B. **Procedure under Art. 21 must be fair, just and rea
 
 </details>
 
-**Q7.** **Assertion (A):** After *Maneka*, Article 21’s wording is “due process of law”.  
+**Q7.**
+
+**Assertion (A):** After *Maneka*, Article 21’s wording is “due process of law”.
+
 **Reason (R):** *Maneka* required the procedure to be fair, just and reasonable.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -841,7 +844,10 @@ A. NJAC composition  B. **Secular character and federal character**  C. GST Coun
 
 </details>
 
-**Q21.** **Assertion (A):** *Kesavananda* held that the Preamble is part of the Constitution.  
+**Q21.**
+
+**Assertion (A):** *Kesavananda* held that the Preamble is part of the Constitution.
+
 **Reason (R):** *Berubari* had held that the Preamble is not part of the Constitution.  
 A. **Both true and R explains A**  B. Both true, R not explanation  C. A true R false  D. A false R true
 
@@ -925,7 +931,10 @@ A. All DPSPs  B. **Arts. 39(b) and 39(c) only**  C. Art. 40 only  D. None
 
 </details>
 
-**Q30.** **Assertion (A):** Limited amending power is itself Basic Structure.  
+**Q30.**
+
+**Assertion (A):** Limited amending power is itself Basic Structure.
+
 **Reason (R):** *Minerva Mills* struck 368(4) and (5).  
 A. **Both true and R explains A**  B. Both true, R not explanation  C. A true R false  D. A false R true
 
@@ -1001,6 +1010,7 @@ A. Automatically valid  B. **Open to being struck (*Coelho*)**  C. Reviewable on
 </details>
 
 **Q38.** Match List-I with List-II:  
+
 | List-I | List-II |
 |--------|---------|
 | a. *Gopalan* | 1. Basic Structure |
@@ -1017,6 +1027,7 @@ A. a-1 b-2 c-3 d-4  B. **a-2 b-4 c-1 d-3**  C. a-2 b-1 c-4 d-3  D. a-4 b-2 c-1 d
 </details>
 
 **Q39.** Match:  
+
 | Case | Year |
 |------|------|
 | a. *Minerva Mills* | 1. 1975 |
@@ -1059,7 +1070,10 @@ A. *Shankari Prasad* — 1st Amd  B. *Sajjan Singh* — 17th Amd  C. *Indira Gan
 
 </details>
 
-**Q43.** **Assertion (A):** *Golaknath* struck down the 1st Amendment.  
+**Q43.**
+
+**Assertion (A):** *Golaknath* struck down the 1st Amendment.
+
 **Reason (R):** *Golaknath* applied prospective overruling.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -1069,7 +1083,10 @@ A. Both true and R explains A  B. Both true, R not explanation  C. A true R fals
 
 </details>
 
-**Q44.** **Assertion (A):** The 9th Schedule is a complete bar to judicial review.  
+**Q44.**
+
+**Assertion (A):** The 9th Schedule is a complete bar to judicial review.
+
 **Reason (R):** *Coelho* allows Basic Structure review of post-24 Apr 1973 inserts.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -1079,7 +1096,10 @@ A. Both true and R explains A  B. Both true, R not explanation  C. A true R fals
 
 </details>
 
-**Q45.** **Assertion (A):** *Kesavananda* held that Parliament cannot amend Fundamental Rights.  
+**Q45.**
+
+**Assertion (A):** *Kesavananda* held that Parliament cannot amend Fundamental Rights.
+
 **Reason (R):** *Golaknath* had held that FR cannot be amended.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -1210,7 +1230,10 @@ A. GST  B. **Berubari / India–Pakistan boundary**  C. 9th Schedule  D. NJAC
 
 </details>
 
-**Q59.** **Assertion (A):** *Kesavananda* held that the Preamble cannot be amended.  
+**Q59.**
+
+**Assertion (A):** *Kesavananda* held that the Preamble cannot be amended.
+
 **Reason (R):** The Preamble is part of the Constitution after 1973.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -1335,6 +1358,7 @@ A. **Only 1**  B. Only 2  C. Both  D. Neither
 </details>
 
 **Q72.** Match the dissent / seed:  
+
 | Person | Case |
 |--------|------|
 | a. Fazl Ali | 1. *Sajjan Singh* (basic features hint) |
@@ -1349,7 +1373,10 @@ A. **a-2 b-1 c-3**  B. a-1 b-2 c-3  C. a-2 b-3 c-1  D. a-3 b-1 c-2
 
 </details>
 
-**Q73.** **Assertion (A):** *Maneka* read Arts. 14, 19 and 21 together.  
+**Q73.**
+
+**Assertion (A):** *Maneka* read Arts. 14, 19 and 21 together.
+
 **Reason (R):** *Gopalan* had read those Articles in silos.  
 A. **Both true and R explains A**  B. Both true, R not explanation  C. A true R false  D. A false R true
 
@@ -1624,7 +1651,10 @@ A. 1 and 2  B. 1 and 3  C. 2 and 3  D. **All three**
 
 </details>
 
-**Q102.** **Assertion (A):** Collegium is written in Article 124.  
+**Q102.**
+
+**Assertion (A):** Collegium is written in Article 124.
+
 **Reason (R):** NJAC was inserted into the Constitution by the 99th Amendment and was still struck down.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -1738,6 +1768,7 @@ A. Only 1  B. Only 2  C. **Both**  D. Neither
 </details>
 
 **Q114.** Match List-I with List-II:  
+
 | List-I | List-II |
 |--------|---------|
 | a. *Bommai* | 1. Privacy = FR |
@@ -1754,6 +1785,7 @@ A. a-1 b-2 c-3 d-4  B. **a-2 b-3 c-1 d-4**  C. a-2 b-1 c-3 d-4  D. a-3 b-2 c-1 d
 </details>
 
 **Q115.** Match:  
+
 | Case | Year |
 |------|------|
 | a. Second Judges | 1. 2015 |
@@ -1787,7 +1819,10 @@ A. *Lily Thomas* — RPA s.8(4)  B. *Shreya Singhal* — s.66A  C. *Navtej* — 
 
 </details>
 
-**Q118.** **Assertion (A):** *Bommai* held that a State government can be dismissed without a floor test if the Governor is satisfied.  
+**Q118.**
+
+**Assertion (A):** *Bommai* held that a State government can be dismissed without a floor test if the Governor is satisfied.
+
 **Reason (R):** Majority is proved on the floor of the House.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -1797,7 +1832,10 @@ A. Both true and R explains A  B. Both true, R not explanation  C. A true R fals
 
 </details>
 
-**Q119.** **Assertion (A):** Creamy layer exclusion in *Indra Sawhney* applies to SC/ST.  
+**Q119.**
+
+**Assertion (A):** Creamy layer exclusion in *Indra Sawhney* applies to SC/ST.
+
 **Reason (R):** The 1992 holding required creamy-layer exclusion for OBC reservation.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -1807,7 +1845,10 @@ A. Both true and R explains A  B. Both true, R not explanation  C. A true R fals
 
 </details>
 
-**Q120.** **Assertion (A):** The Speaker’s decision under the 10th Schedule cannot be challenged in any court.  
+**Q120.**
+
+**Assertion (A):** The Speaker’s decision under the 10th Schedule cannot be challenged in any court.
+
 **Reason (R):** *Kihoto* held that para 7’s total ouster of jurisdiction is invalid.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -1956,7 +1997,10 @@ A. Second Judges — *SCAORA* 1993  B. NJAC — *SCAORA* 2015  C. Third Judges �
 
 </details>
 
-**Q136.** **Assertion (A):** *Shreya Singhal* struck s.69A of the IT Act.  
+**Q136.**
+
+**Assertion (A):** *Shreya Singhal* struck s.69A of the IT Act.
+
 **Reason (R):** s.66A was struck as vague and overbroad.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -1966,7 +2010,10 @@ A. Both true and R explains A  B. Both true, R not explanation  C. A true R fals
 
 </details>
 
-**Q137.** **Assertion (A):** *Nabam Rebia* held that Art. 163(2) makes every gubernatorial act unreviewable.  
+**Q137.**
+
+**Assertion (A):** *Nabam Rebia* held that Art. 163(2) makes every gubernatorial act unreviewable.
+
 **Reason (R):** The Court held that 163 discretion is not a general reservoir of power.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 

@@ -771,7 +771,10 @@ A. Tamil Nadu, Punjab, West Bengal  B. **Andhra Pradesh, Bihar, Karnataka, Mahar
 
 </details>
 
-**Q34.** **Assertion (A):** The Uttar Pradesh Legislative Assembly has 500 members because Article 170 fixes 500.  
+**Q34.**
+
+**Assertion (A):** The Uttar Pradesh Legislative Assembly has 500 members because Article 170 fixes 500.
+
 **Reason (R):** Article 170 sets a maximum of 500 elected members.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -781,7 +784,10 @@ A. Both true and R explains A  B. Both true, R not explanation  C. A true R fals
 
 </details>
 
-**Q35.** **Assertion (A):** Lucknow has its own High Court, separate from Allahabad.  
+**Q35.**
+
+**Assertion (A):** Lucknow has its own High Court, separate from Allahabad.
+
 **Reason (R):** The 1948 Amalgamation Order made Lucknow a permanent Bench of the Allahabad High Court.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -792,6 +798,7 @@ A. Both true and R explains A  B. Both true, R not explanation  C. A true R fals
 </details>
 
 **Q36.** Match:  
+
 | a. UP LA | 1. 31 |
 | b. UP LC | 2. 403 |
 | c. UP LS | 3. 100 |
@@ -806,6 +813,7 @@ A. a-1 b-2 c-3 d-4  B. **a-2 b-3 c-4 d-1**  C. a-2 b-3 c-1 d-4  D. a-3 b-2 c-4 d
 </details>
 
 **Q37.** Match:  
+
 | a. Allahabad HC | 1. 1948 |
 | b. Shift Agra → Allahabad | 2. 1866 |
 | c. Lucknow Bench | 3. 1869 |
@@ -920,7 +928,10 @@ A. UP LA — Lucknow  B. Raj Bhavan — Lucknow  C. HC principal seat — Prayag
 
 </details>
 
-**Q49.** **Assertion (A):** After 2000, the Allahabad High Court’s jurisdiction still covers Uttarakhand.  
+**Q49.**
+
+**Assertion (A):** After 2000, the Allahabad High Court’s jurisdiction still covers Uttarakhand.
+
 **Reason (R):** Uttarakhand has its High Court at Nainital.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -930,7 +941,10 @@ A. Both true and R explains A  B. Both true, R not explanation  C. A true R fals
 
 </details>
 
-**Q50.** **Assertion (A):** UP is a Region A State under the Official Language Rules, 1976.  
+**Q50.**
+
+**Assertion (A):** UP is a Region A State under the Official Language Rules, 1976.
+
 **Reason (R):** Hindi is the official language of UP.  
 A. **Both true and R explains A**  B. Both true, R not explanation  C. A true R false  D. A false R true
 
@@ -1091,7 +1105,10 @@ Which is **not** correctly matched?
 
 </details>
 
-**Q67.** **Assertion (A):** Uttar Pradesh sends the largest number of members to both Houses of Parliament.  
+**Q67.**
+
+**Assertion (A):** Uttar Pradesh sends the largest number of members to both Houses of Parliament.
+
 **Reason (R):** It has 80 LS and 31 RS seats.  
 A. **Both true and R explains A**  B. Both true, R not explanation  C. A true R false  D. A false R true
 
@@ -1278,6 +1295,7 @@ A. Panchayat Samiti  B. **Kshetra Panchayat**  C. Mandal Panchayat  D. Nyaya Pan
 </details>
 
 **Q87.** Match the UP heads:  
+
 | a. Gram Panchayat | 1. Adhyaksha |
 | b. Kshetra Panchayat | 2. Pradhan |
 | c. Zila Panchayat | 3. Pramukh |
@@ -1410,6 +1428,7 @@ A. UPPSC — Prayagraj  B. UP SEC — Lucknow  C. Raj Bhavan — Lucknow  D. **U
 </details>
 
 **Q101.** Match:  
+
 | a. 243K | 1. State Finance Commission (Panchayats) |
 | b. 243I | 2. SEC (Panchayats) |
 | c. 243ZA | 3. SEC (municipalities) |
@@ -1432,7 +1451,10 @@ A. Gram Panchayat — Pradhan  B. Kshetra — Pramukh  C. Zila — Adhyaksha  D.
 
 </details>
 
-**Q103.** **Assertion (A):** The Election Commission of India conducts all elections to UP Nagar Nigams.  
+**Q103.**
+
+**Assertion (A):** The Election Commission of India conducts all elections to UP Nagar Nigams.
+
 **Reason (R):** Article 243ZA vests municipal elections in the State Election Commission.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -1442,7 +1464,10 @@ A. Both true and R explains A  B. Both true, R not explanation  C. A true R fals
 
 </details>
 
-**Q104.** **Assertion (A):** The Governor of UP can extend UPPSC’s functions by an executive order.  
+**Q104.**
+
+**Assertion (A):** The Governor of UP can extend UPPSC’s functions by an executive order.
+
 **Reason (R):** Article 321 leaves the extension of SPSC functions to the State Legislature.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -1452,7 +1477,10 @@ A. Both true and R explains A  B. Both true, R not explanation  C. A true R fals
 
 </details>
 
-**Q105.** **Assertion (A):** There is a Panchayati Raj Commission of India that conducts Gram Panchayat polls.  
+**Q105.**
+
+**Assertion (A):** There is a Panchayati Raj Commission of India that conducts Gram Panchayat polls.
+
 **Reason (R):** Article 243K names the State Election Commission.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -1659,7 +1687,10 @@ A. 243D women floor — ≥1/3  B. UP women — 50% by statute  C. 243F age — 
 
 </details>
 
-**Q127.** **Assertion (A):** Uttar Pradesh must constitute a District Planning Committee in every district.  
+**Q127.**
+
+**Assertion (A):** Uttar Pradesh must constitute a District Planning Committee in every district.
+
 **Reason (R):** Article 243ZD (in the 74th’s text) requires a DPC to consolidate PRI and ULB plans.  
 A. **Both true and R explains A**  B. Both true, R not explanation  C. A true R false  D. A false R true
 
@@ -1884,7 +1915,10 @@ A. 5  B. 18  C. **13**  D. 75
 
 </details>
 
-**Q151.** **Assertion (A):** Greater Noida is a Nagar Nigam under the 1959 Corporation Act.  
+**Q151.**
+
+**Assertion (A):** Greater Noida is a Nagar Nigam under the 1959 Corporation Act.
+
 **Reason (R):** Article 243Q allows an industrial township that provides municipal services not to constitute a municipality.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 

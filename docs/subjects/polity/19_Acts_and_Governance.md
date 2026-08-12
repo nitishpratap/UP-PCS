@@ -286,6 +286,7 @@ A. Goods of best quality  B. Safe goods for environment  C. Exported goods  D. I
 **PYQ — UPPCS Prelims 2025, Q137**
 
 **Assertion (A):** Consumers can bargain below the Maximum Retail Price (MRP).  
+
 **Reason (R):** MRP is the price above which a seller cannot charge a buyer.
 
 A. Both true, R not explanation  B. A false R true  C. A true R false  D. Both true and R explains A
@@ -989,7 +990,10 @@ A. Best quality  B. Environment-safe goods  C. Exports  D. Imports
 
 </details>
 
-**Q10.** **Assertion (A):** Consumers may bargain below MRP.  
+**Q10.**
+
+**Assertion (A):** Consumers may bargain below MRP.
+
 **Reason (R):** MRP is a ceiling — the seller cannot charge more.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. A false R true
 
@@ -1133,7 +1137,10 @@ A. A-2, B-3, C-1  B. A-3, B-2, C-1  C. A-2, B-1, C-3  D. A-1, B-2, C-3
 
 </details>
 
-**Q25.** **Assertion (A):** The Disaster Management Division is in MHA.  
+**Q25.**
+
+**Assertion (A):** The Disaster Management Division is in MHA.
+
 **Reason (R):** Therefore the Home Minister chairs NDMA.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. A false R true
 
@@ -1302,7 +1309,10 @@ A. ₹20 lakh as in 1986 forever  B. ₹50 lakh  C. ₹10 crore  D. Unlimited
 
 </details>
 
-**Q43.** **Assertion (A):** PESA does not apply to Nagaland.  
+**Q43.**
+
+**Assertion (A):** PESA does not apply to Nagaland.
+
 **Reason (R):** Nagaland is a Fifth Schedule State.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. A false R true
 
@@ -1392,7 +1402,10 @@ A. A-2, B-3, C-1  B. A-1, B-2, C-3  C. A-2, B-1, C-3  D. A-3, B-2, C-1
 
 </details>
 
-**Q52.** **Assertion (A):** COVID response used the Disaster Management Act.  
+**Q52.**
+
+**Assertion (A):** COVID response used the Disaster Management Act.
+
 **Reason (R):** The Epidemic Diseases Act, 1897 was repealed in 2005.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. A false R true
 
@@ -1718,7 +1731,10 @@ A. Personnel / DoPT  B. Electronics & IT  C. **Tribal Affairs**  D. Home
 
 </details>
 
-**Q86.** **Assertion (A):** Civil servants must be politically neutral.  
+**Q86.**
+
+**Assertion (A):** Civil servants must be politically neutral.
+
 **Reason (R):** The Constitution uses the phrase “committed bureaucracy” in Part XIV.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. A false R true
 
@@ -1852,7 +1868,10 @@ A. DARPG — CPGRAMS  B. MeitY — Digital India  C. DoPT — Mission Karmayogi 
 
 </details>
 
-**Q100.** **Assertion (A):** Sevottam uses the Citizen Charter as one module.  
+**Q100.**
+
+**Assertion (A):** Sevottam uses the Citizen Charter as one module.
+
 **Reason (R):** Therefore the Charter became a fundamental right in 2006.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. A false R true
 
@@ -2017,7 +2036,10 @@ A. Rule 3  B. Rule 5  C. **Rule 13**  D. Rule 18
 
 </details>
 
-**Q117.** **Assertion (A):** First ARC recommended a Lokpal.  
+**Q117.**
+
+**Assertion (A):** First ARC recommended a Lokpal.
+
 **Reason (R):** Therefore the Lokpal Act was passed in 1966.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. A false R true
 
@@ -2074,6 +2096,7 @@ A. 1 and 2  B. Only 4  C. 2, 3 and 4  D. Only 1
 
 **Q2. UPPCS Prelims 2025, Q137**  
 **Assertion (A):** Consumers can bargain below the Maximum Retail Price (MRP).  
+
 **Reason (R):** MRP is the price above which a seller cannot charge a buyer.  
 A. Both true, R not explanation  B. A false R true  C. A true R false  D. Both true and R explains A
 

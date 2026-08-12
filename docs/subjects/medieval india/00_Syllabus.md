@@ -4,8 +4,6 @@
 
 # 1. Early Medieval India (Regional Kingdoms)
 
-
-
 - Early Medieval India
 - Major Dynasties of South India
 - Major Rulers of South India
@@ -21,8 +19,6 @@
 - Tripartite Struggle for Kannauj
 - Medieval Names of Cities of Uttar Pradesh
 
-
-
 - Pallava Dynasty
 - Chalukya Dynasty
 - Western Chalukyas
@@ -36,8 +32,6 @@
 ---
 
 # 2. Turkish Invasions & Delhi Sultanate
-
-
 
 - Turkish Invasions of India
 - Muhammad Ghori
@@ -64,8 +58,6 @@
 - Rulers of the Sayyid Dynasty
 - Lodi Dynasty
 
-
-
 - Qutb-ud-din Aibak
 - Iltutmish
 - Razia Sultan
@@ -80,15 +72,11 @@
 
 # 3. Regional Kingdoms
 
-
-
 - Sharki Kingdom
 - Rulers and Their States
 - Kashmir under Zain-ul-Abidin
 - Vijayanagara Empire
 - Vijayanagara Administration
-
-
 
 - Bahmani Kingdom
 - Deccan Sultanates
@@ -100,8 +88,6 @@
 
 # 4. Bhakti & Sufi Movements
 
-
-
 - Bhakti Movement
 - Major Bhakti Saints
 - Chronology of Bhakti Saints
@@ -112,8 +98,6 @@
 - Vedanta Philosophy
 - Sufi Saints
 - Nath Sect
-
-
 
 - Ramananda
 - Kabir
@@ -135,14 +119,10 @@
 
 # 5. Medieval Literature
 
-
-
 - Medieval Literature
 - Medieval Books and Their Authors
 - Delhi Sultanate Literature
 - Sultanate and Mughal Literature
-
-
 
 - Amir Khusrau
 - Ziauddin Barani
@@ -158,13 +138,9 @@
 
 # 6. Medieval Music & Culture
 
-
-
 - Medieval Music
 - Later Mughal Music
 - Mughal Court Patronage
-
-
 
 - Amir Khusrau
 - Tansen
@@ -232,8 +208,6 @@
 - Rulers and Their Families
 - Later Mughal Rulers
 
-
-
 - Humayun
 - Sher Shah Suri
 - Jahangir
@@ -253,11 +227,7 @@
 
 # 8. Sher Shah Suri
 
-
-
 - Sher Shah Suri
-
-
 
 - Administration
 - Revenue Reforms
@@ -269,12 +239,8 @@
 
 # 9. Rajputs
 
-
-
 - Rajput Warriors
 - Maharana Pratap
-
-
 
 - Battle of Haldighati
 - Rana Sanga
@@ -284,12 +250,8 @@
 
 # 10. Sikhism
 
-
-
 - Sikhism
 - Guru Tradition
-
-
 
 - Ten Sikh Gurus
 - Guru Granth Sahib
@@ -300,16 +262,12 @@
 
 # 11. Marathas
 
-
-
 - Maratha Empire
 - Shivaji
 - Administrative Structure of Shivaji
 - Peshwas
 - Peshwa Period
 - Maratha Revenue System
-
-
 
 - Ashtapradhan Council
 - Chauth
@@ -322,13 +280,9 @@
 
 # 12. Later Medieval India
 
-
-
 - Independent State of Awadh
 - British East India Company: Arrival
 - Arrival of British Travellers
-
-
 
 - European Trading Companies
 - Portuguese

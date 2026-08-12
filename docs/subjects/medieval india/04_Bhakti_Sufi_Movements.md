@@ -426,7 +426,13 @@ Tulsidas — Awadhi UP | Surdas — Braj (Mathura-Vrindavan) | Gorakhnath — Go
 1. It originated exclusively in the Gangetic plain with Kabir.
 2. Alvars and Nayanars represent an early phase in south India.
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: B** — Early phase = Alvars/Nayanars; Kabir is later north.</details>
 
@@ -444,55 +450,109 @@ Options: A.3-4-1-2 | B.4-3-1-2 | C.3-4-2-1 | D.4-3-2-1
 
 **Q4.** Assertion (A): Ramananda opened bhakti to all castes. Reason (R): He was influenced by egalitarian Bhakti-Sufi ideas.
 
-Options: A. Both true, R explains A | B. Both true, R not explanation | C. A true, R false | D. A false, R true
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q5.** Ramananda's disciples include: 1. Kabir (weaver) 2. Ravidas (cobbler)
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q6.** Consider Kabir: 1. Weaver from Varanasi 2. Founded Sikh religion
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: A** — Nanak founded Sikh line.</details>
 
 **Q7.** Mardana and Guru Nanak: 1. Mardana played rabab 2. Mardana was guru of Nanak
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: A** — Mardana was disciple, not guru.</details>
 
 **Q8.** 1. Chaitanya founded Gaudiya Vaishnavism 2. He promoted sankirtan in Bengal
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q9.** Ramcharitmanas was written in:
 
-Options: A. Sanskrit | B. Awadhi | C. Braj Bhasha | D. Persian
+A. Sanskrit |
+
+B. Awadhi |
+
+C. Braj Bhasha |
+
+D. Persian
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q10.** 1. Surdas was disciple of Vallabhacharya 2. Tulsidas wrote Sursagar
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: A** — Sursagar = Surdas.</details>
 
 **Q11.** Mirabai: 1. Krishna devotee from Mewar 2. Composed only in Persian
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: A** — Rajasthani/Hindi compositions.</details>
 
 **Q12.** Which poetess-composition pair is NOT matched?
 
-Options: A. Daya Bai — Vinay Malika | B. Sahajobai — Sahaj Prakash | C. Gangabai — Ganesh Dev Leela | D. Mirabai — Padas
+A. Daya Bai — Vinay Malika |
+
+B. Sahajobai — Sahaj Prakash |
+
+C. Gangabai — Ganesh Dev Leela |
+
+D. Mirabai — Padas
 
 <details><summary>Show answer</summary>**Ans: C** — 2023 Q39.</details>
 
@@ -504,73 +564,145 @@ Options: A.2-4-1-3 | B.3-1-4-2 | C.1-2-3-4 | D.4-3-2-1
 
 **Q14.** Hath Yog was practiced by:
 
-Options: A. Nathpanthis only | B. Sufis only | C. Both Nathpanthis and some Sufis | D. Neither
+A. Nathpanthis only |
+
+B. Sufis only |
+
+C. Both Nathpanthis and some Sufis |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: C** — 2019 Q14.</details>
 
 **Q15.** Chishti silsilah: 1. Moinuddin settled Ajmer 2. Nizamuddin belonged to Chishti order at Delhi
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q16.** Which is NOT correctly matched?
 
-Options: A. Moinuddin — Ajmer | B. Nizamuddin — Delhi | C. Nizamuddin — Multan | D. Bahauddin Zakariya — Multan
+A. Moinuddin — Ajmer |
+
+B. Nizamuddin — Delhi |
+
+C. Nizamuddin — Multan |
+
+D. Bahauddin Zakariya — Multan
 
 <details><summary>Show answer</summary>**Ans: C** — 2020 Q40.</details>
 
 **Q17.** Fawaid-ul-Fuad was compiled by:
 
-Options: A. Amir Hasan Sijzi | B. Amir Khusrau | C. Ziauddin Barani | D. Abdul Qadir Jilani
+A. Amir Hasan Sijzi |
+
+B. Amir Khusrau |
+
+C. Ziauddin Barani |
+
+D. Abdul Qadir Jilani
 
 <details><summary>Show answer</summary>**Ans: A** — 2021 Q101.</details>
 
 **Q18.** A(A): Early Chishti sufis were fond of sama. R(R): Sanskrit music works were translated to Persian.
 
-Options: A. Both true, R explains A | B. Both true, R not explanation | C. A true, R false | D. A false, R true
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
 
 <details><summary>Show answer</summary>**Ans: B** — 2018 Q90.</details>
 
 **Q19.** A(A): Sama was a musical gathering. R(R): Chishtis used only Persian.
 
-Options: A. Both true, R explains A | B. Both true, R not explanation | C. A true, R false | D. A false, R true
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
 
 <details><summary>Show answer</summary>**Ans: C** — Chishtis used Hindawi.</details>
 
 **Q20.** Suhrawardi vs Chishti: 1. Suhrawardis accepted state patronage 2. Chishtis avoided sultan courts
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q21.** Naqshbandi revival in India:
 
-Options: A. Moinuddin Chishti | B. Ahmad Sirhindi | C. Baba Farid | D. Gorakhnath
+A. Moinuddin Chishti |
+
+B. Ahmad Sirhindi |
+
+C. Baba Farid |
+
+D. Gorakhnath
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q22.** Guru Nanak: 1. Born 1469 2. Rejected householder life
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: A** — Nanak supported grihastha.</details>
 
 **Q23.** Namdev is associated with:
 
-Options: A. Awadhi Rama bhakti | B. Marathi Vithoba devotion | C. Bengali kirtan | D. Persian Sufi
+A. Awadhi Rama bhakti |
+
+B. Marathi Vithoba devotion |
+
+C. Bengali kirtan |
+
+D. Persian Sufi
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q24.** Dadu Dayal preached:
 
-Options: A. Nipakhi non-sectarian path | B. Gaudiya Vaishnavism | C. Chishti silsilah | D. Advaita only
+A. Nipakhi non-sectarian path |
+
+B. Gaudiya Vaishnavism |
+
+C. Chishti silsilah |
+
+D. Advaita only
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q25.** Nirguna saints: 1. Kabir is nirguna 2. Surdas is nirguna
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: A** — Surdas = saguna Krishna.</details>
 
@@ -582,103 +714,205 @@ Options: A.2-3-4-1 | B.3-2-1-4 | C.2-1-3-4 | D.4-3-2-1
 
 **Q27.** 1. Shankara — Advaita 2. Vallabhacharya — Dvaita
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: A** — Vallabha = Shuddhadvaita; Madhva = Dvaita.</details>
 
 **Q28.** Andal was:
 
-Options: A. Chishti saint | B. Only woman Alvar | C. Naqshbandi pir | D. Disciple of Tulsidas
+A. Chishti saint |
+
+B. Only woman Alvar |
+
+C. Naqshbandi pir |
+
+D. Disciple of Tulsidas
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q29.** Qadiri order traces to:
 
-Options: A. Abdul Qadir Jilani | B. Moinuddin Chishti | C. Gorakhnath | D. Ramananda
+A. Abdul Qadir Jilani |
+
+B. Moinuddin Chishti |
+
+C. Gorakhnath |
+
+D. Ramananda
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q30.** UP context:
 
-Options: A. Ajmer dargah | B. Kabir's Varanasi | C. Nabadwip of Chaitanya | D. Nankana Sahib
+A. Ajmer dargah |
+
+B. Kabir's Varanasi |
+
+C. Nabadwip of Chaitanya |
+
+D. Nankana Sahib
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q31.** A/R: Kabir used Ram and Allah for one God. R: He followed nirguna monotheism.
 
-Options: A. Both true, R explains A | B. Both true, R not explanation | C. A true, R false | D. A false, R true
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q32.** Who came latest?
 
-Options: A. Kabir | B. Namdev | C. Tulsidas | D. Ramananda
+A. Kabir |
+
+B. Namdev |
+
+C. Tulsidas |
+
+D. Ramananda
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q33.** Baba Farid's verses appear in:
 
-Options: A. Ramcharitmanas | B. Adi Granth | C. Fawaid-ul-Fuad | D. Sursagar
+A. Ramcharitmanas |
+
+B. Adi Granth |
+
+C. Fawaid-ul-Fuad |
+
+D. Sursagar
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q34.** 1. Chishti saints avoided state patronage 2. Suhrawardis accepted government service
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q35.** Sankirtan linked to:
 
-Options: A. Chaitanya | B. Kabir | C. Nizamuddin | D. Shankara
+A. Chaitanya |
+
+B. Kabir |
+
+C. Nizamuddin |
+
+D. Shankara
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q36.** NOT matched disciple–guru:
 
-Options: A. Kabir–Ramananda | B. Surdas–Vallabhacharya | C. Khusrau–Nizamuddin | D. Kabir–Nizamuddin
+A. Kabir–Ramananda |
+
+B. Surdas–Vallabhacharya |
+
+C. Khusrau–Nizamuddin |
+
+D. Kabir–Nizamuddin
 
 <details><summary>Show answer</summary>**Ans: D**</details>
 
 **Q37.** Sant Kabir Nagar district (UP) named after:
 
-Options: A. Kabir | B. Nanak | C. Ravidas | D. Tulsidas
+A. Kabir |
+
+B. Nanak |
+
+C. Ravidas |
+
+D. Tulsidas
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q38.** 1. Mirabai was Rajput princess 2. Sahajobai wrote Sahaj Prakash
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q39.** Gorakhnath associated with:
 
-Options: A. Chishti order | B. Nathpanthis | C. Qadiri silsilah | D. Gaudiya Vaishnavism
+A. Chishti order |
+
+B. Nathpanthis |
+
+C. Qadiri silsilah |
+
+D. Gaudiya Vaishnavism
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q40.** Tulsidas correct statement:
 
-Options: A. Wrote in Sanskrit | B. Focused on Krishna childhood | C. Composed Ramcharitmanas in Awadhi | D. Disciple of Ramananda
+A. Wrote in Sanskrit |
+
+B. Focused on Krishna childhood |
+
+C. Composed Ramcharitmanas in Awadhi |
+
+D. Disciple of Ramananda
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q41.** Alvars were devotees of:
 
-Options: A. Shiva | B. Vishnu | C. Allah | D. Formless Brahman only
+A. Shiva |
+
+B. Vishnu |
+
+C. Allah |
+
+D. Formless Brahman only
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q42.** Chishti features: 1. Used Hindawi 2. Mandatory sultan court employment
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q43.** Ramanuja linked to:
 
-Options: A. Dvaita | B. Vishishtadvaita | C. Shuddhadvaita | D. Charvaka
+A. Dvaita |
+
+B. Vishishtadvaita |
+
+C. Shuddhadvaita |
+
+D. Charvaka
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
@@ -690,7 +924,13 @@ Options: A.2-1-3 | B.1-3-2 | C.3-2-1 | D.2-3-1
 
 **Q45.** Correctly matched:
 
-Options: A. Shankara–Vishishtadvaita | B. Madhvacharya–Dvaita | C. Vallabha–Advaita | D. Nimbarka–Shuddhadvaita
+A. Shankara–Vishishtadvaita |
+
+B. Madhvacharya–Dvaita |
+
+C. Vallabha–Advaita |
+
+D. Nimbarka–Shuddhadvaita
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
@@ -702,7 +942,13 @@ Options: A. Shankara–Vishishtadvaita | B. Madhvacharya–Dvaita | C. Vallabha�
 
 Assertion (A): Many Sanskrit works on music were translated into Persian during medieval period. Reason (R): Early Chishti sufis were fond of musical assemblies called 'sama'.
 
-Options: A. Both true, R explains A | B. Both true, R not explanation | C. A true, R false | D. A false, R true
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
 
 <details><summary>Show answer</summary>**Ans: B** — Both true; Persian translations had broader court causes — sama alone doesn't explain A.</details>
 
@@ -710,7 +956,13 @@ Options: A. Both true, R explains A | B. Both true, R not explanation | C. A tru
 
 Hath Yog: 1. Practiced by Nathpanthis 2. Adopted by Sufis
 
-Options: A. 1 only | B. 2 only | C. Both | D. Neither
+A. 1 only |
+
+B. 2 only |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 

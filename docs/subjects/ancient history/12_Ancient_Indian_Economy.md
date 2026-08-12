@@ -384,6 +384,7 @@ A. 4 2 3 1  B. 2 1 4 3  C. 3 4 1 2  D. 4 3 1 2
 **Q6.** Given below are two statements:
 
 **Assertion (A):** The earliest Indian coins are punch-marked silver.  
+
 **Reason (R):** Gupta dinaras are the first coins in India.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -473,6 +474,7 @@ A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
 **Q11.** Given below are two statements:
 
 **Assertion (A):** 2022 Q23 keys silver coins.  
+
 **Reason (R):** Those coins weigh about 33 grains.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -596,6 +598,7 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 **Q18.** Given below are two statements:
 
 **Assertion (A):** 2018 Q89 answer is Manigrama.  
+
 **Reason (R):** Shreni is the general craft guild, not the foreign-trade lock in that paper.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -685,6 +688,7 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 **Q23.** Given below are two statements:
 
 **Assertion (A):** Indo-Greeks introduce portrait die-struck coins.  
+
 **Reason (R):** Punch-marked coins carry royal portraits of Bimbisara.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -774,6 +778,7 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 **Q28.** Given below are two statements:
 
 **Assertion (A):** 2022 Q68 answer is Mohenjo-daro and Lothal.  
+
 **Reason (R):** Dholavira is the paper’s boat-model pair.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -863,6 +868,7 @@ D. Kaveripattinam — Puhar
 **Q33.** Given below are two statements:
 
 **Assertion (A):** Dakshinapatha links the Ganga belt to the Deccan.  
+
 **Reason (R):** Ujjain sits on that line.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -936,6 +942,7 @@ A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
 **Q37.** Given below are two statements:
 
 **Assertion (A):** Pliny’s gold-drain remark is about Indian exports.  
+
 **Reason (R):** Pepper and textiles pulled Roman gold east.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -1025,6 +1032,7 @@ A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
 **Q42.** Given below are two statements:
 
 **Assertion (A):** 2022 Shaka proof is not the gold dinara.  
+
 **Reason (R):** The paper keys silver coins of about 33 grains.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -1157,4 +1165,3 @@ A. Śreni  B. Nagaram  C. Nānādesis  D. Manigrama
 16. **Dakshinapatha = only sea** → inland north–Deccan road.
 17. **Yavana = only a Greek king** → Sangam foreign / western trader.
 18. **2024 Q2 = Only 1** → **Both A**.
-

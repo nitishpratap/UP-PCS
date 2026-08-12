@@ -109,6 +109,7 @@ D. William Bentinck
 Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 
 **Assertion (A):** The Asiatic Society of Bengal was established in the period of Warren Hastings and he modestly declined the offer of Presidentship of that learned body in favour of Sir William Jones.  
+
 **Reason (R):** Warren Hastings was himself a great scholar and an ardent orientalist who used to encourage the study of Sanskrit, Persian and Arabic.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -1376,6 +1377,7 @@ D. Chittaranjan
 Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 
 **Assertion (A):** The Asiatic Society of Bengal was established in the period of Warren Hastings and he modestly declined the offer of Presidentship of that learned body in favour of Sir William Jones.  
+
 **Reason (R):** Warren Hastings was himself a great scholar and an ardent orientalist who used to encourage the study of Sanskrit, Persian and Arabic.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  

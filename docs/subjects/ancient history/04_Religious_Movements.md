@@ -782,6 +782,7 @@ D. Anicca means impermanence of conditioned things.
 **Q10.** Given below are two statements:
 
 **Assertion (A):** The Second Buddhist Council is associated with a sangha split.  
+
 **Reason (R):** It was held at Kundalvana under Kanishka.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -893,6 +894,7 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 **Q16.** Given below are two statements:
 
 **Assertion (A):** Karle is noted for a large early chaitya hall.  
+
 **Reason (R):** A chaitya is a Buddhist monastery dormitory, while a vihara is the apsidal prayer hall.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -1036,6 +1038,7 @@ A. Only one  B. Only two  C. All three  D. None
 **Q24.** Given below are two statements:
 
 **Assertion (A):** Ajivikas taught that niyati determines all events.  
+
 **Reason (R):** Makkhali Gosala is remembered as the sect’s founder-teacher.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -1189,6 +1192,7 @@ A. Only one  B. Only two  C. All three  D. None
 **Q33.** Given below are two statements:
 
 **Assertion (A):** Jain triratna is samyak darshan, jnana and charitra.  
+
 **Reason (R):** It is the same triad as Buddha, Dhamma and Sangha.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -1336,6 +1340,7 @@ A. 2 3 1 4  B. 2 3 4 1  C. 3 2 1 4  D. 2 1 3 4
 **Q41.** Given below are two statements:
 
 **Assertion (A):** Heliodorus’ inscription is early evidence of Vasudeva worship.  
+
 **Reason (R):** Bhagavatism originated as a Mathura-region Krishna–Vasudeva cult that later fused with Vishnu.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -1547,6 +1552,7 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 **Q53.** Given below are two statements:
 
 **Assertion (A):** Kaundinya is remembered as the first of the five companions to understand the Sarnath sermon.  
+
 **Reason (R):** Mahapajapati Gotami is remembered as the first Buddhist nun.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  

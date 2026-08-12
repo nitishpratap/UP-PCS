@@ -704,7 +704,10 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 </details>
 
-**Q3.** **Assertion (A):** The Election Commission of India does not conduct elections to Panchayats.  
+**Q3.**
+
+**Assertion (A):** The Election Commission of India does not conduct elections to Panchayats.
+
 **Reason (R):** Superintendence of Panchayat elections is vested in the State Election Commission.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -797,7 +800,10 @@ A. Estimates Committee  B. Public Accounts Committee  C. Business Advisory Commi
 
 </details>
 
-**Q11.** **Assertion (A):** The CAG of India is not a Comptroller in the British sense.  
+**Q11.**
+
+**Assertion (A):** The CAG of India is not a Comptroller in the British sense.
+
 **Reason (R):** In India, the CAG audits expenditure after it has been incurred rather than blocking it in advance.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -918,7 +924,10 @@ D. By the Inter-State Council
 
 </details>
 
-**Q21.** **Assertion (A):** The Solicitor General of India is a constitutional functionary.  
+**Q21.**
+
+**Assertion (A):** The Solicitor General of India is a constitutional functionary.
+
 **Reason (R):** Article 76 mentions the Attorney General, not the Solicitor General.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -999,7 +1008,10 @@ A. 1 and 3 only  B. 1, 2 and 3 only  C. 1 and 4 only  D. 1, 3 and 4
 
 </details>
 
-**Q28.** **Assertion (A):** An Election Commissioner is as independent as the CEC in removal.  
+**Q28.**
+
+**Assertion (A):** An Election Commissioner is as independent as the CEC in removal.
+
 **Reason (R):** The Constitution allows removal of an EC only on the CEC’s recommendation.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1115,7 +1127,10 @@ A. Only one  B. Only two  C. Only three  D. All four
 
 </details>
 
-**Q38.** **Assertion (A):** NITI Aayog is not a constitutional body.  
+**Q38.**
+
+**Assertion (A):** NITI Aayog is not a constitutional body.
+
 **Reason (R):** It was created by an executive resolution in 2015, replacing the Planning Commission.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1202,7 +1217,10 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 </details>
 
-**Q45.** **Assertion (A):** The Chairman of the UPSC is ineligible for further employment under the Government of India or a State.  
+**Q45.**
+
+**Assertion (A):** The Chairman of the UPSC is ineligible for further employment under the Government of India or a State.
+
 **Reason (R):** Article 319 imposes a stricter bar on the UPSC Chairman than on an SPSC Chairman.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1289,7 +1307,10 @@ D. The State Election Commissioner
 
 </details>
 
-**Q52.** **Assertion (A):** The 7th Amendment inserted both Article 350A and Article 350B.  
+**Q52.**
+
+**Assertion (A):** The 7th Amendment inserted both Article 350A and Article 350B.
+
 **Reason (R):** The 9th Amendment created the Special Officer for Linguistic Minorities.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1338,7 +1359,10 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 </details>
 
-**Q56.** **Assertion (A):** Article 340 and Article 338B are not the same body.  
+**Q56.**
+
+**Assertion (A):** Article 340 and Article 338B are not the same body.
+
 **Reason (R):** 340 authorises an ad hoc investigating commission; 338B is the standing NCBC.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1475,7 +1499,10 @@ A. Constitutional body  B. Statutory body  C. Executive body with no Act  D. Tri
 
 </details>
 
-**Q68.** **Assertion (A):** English continues as an official language of the Union after 1965.  
+**Q68.**
+
+**Assertion (A):** English continues as an official language of the Union after 1965.
+
 **Reason (R):** The Official Languages Act, 1963 (as amended in 1967) provided for the continuance of English.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1631,7 +1658,10 @@ A. Only one  B. Only two  C. Only three  D. All four
 
 </details>
 
-**Q81.** **Assertion (A):** CAT is not a constitutional body in the same sense as the UPSC.  
+**Q81.**
+
+**Assertion (A):** CAT is not a constitutional body in the same sense as the UPSC.
+
 **Reason (R):** Part XIVA enables tribunals; CAT itself is created by a 1985 Act.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  

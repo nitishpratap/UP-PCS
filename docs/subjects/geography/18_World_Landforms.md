@@ -964,7 +964,6 @@ C. 2 3 1 4
 
 D. 4 1 2 3
 
-
 <details>
 <summary>Show answer</summary>
 
@@ -985,7 +984,6 @@ B. Mount Pinatubo
 C. Mount Kilimanjaro
 
 D. Mount St. Helens
-
 
 <details>
 <summary>Show answer</summary>
@@ -1011,7 +1009,6 @@ C. Only 2
 
 D. Only 1
 
-
 <details>
 <summary>Show answer</summary>
 
@@ -1035,7 +1032,6 @@ C. Only 1, 2 and 3
 
 D. Only 1
 
-
 <details>
 <summary>Show answer</summary>
 
@@ -1058,7 +1054,6 @@ B. II, I, III, IV
 C. I, IV, II, III
 
 D. II, I, IV, III
-
 
 <details>
 <summary>Show answer</summary>
@@ -1088,7 +1083,6 @@ C. A-3, B-4, C-1, D-2
 
 D. A-4, B-2, C-3, D-1
 
-
 <details>
 <summary>Show answer</summary>
 
@@ -1116,7 +1110,6 @@ B. 4 3 2 1
 C. 3 4 1 2
 
 D. 4 2 3 1
-
 
 <details>
 <summary>Show answer</summary>
@@ -1146,7 +1139,6 @@ C. 2 4 3 1
 
 D. 2 4 1 3
 
-
 <details>
 <summary>Show answer</summary>
 
@@ -1167,7 +1159,6 @@ B. Tropical Monsoon Region
 C. Hot Desert Region
 
 D. Tropical Savanna Region
-
 
 <details>
 <summary>Show answer</summary>
@@ -1190,7 +1181,6 @@ C. Chile
 
 D. Ecuador
 
-
 <details>
 <summary>Show answer</summary>
 
@@ -1211,7 +1201,6 @@ B. Taklamakan – China
 C. Karakum – Turkmenistan
 
 D. Gibson – Brazil
-
 
 <details>
 <summary>Show answer</summary>
@@ -1237,7 +1226,6 @@ C. Only 1
 
 D. Both 1 and 2
 
-
 <details>
 <summary>Show answer</summary>
 
@@ -1260,7 +1248,6 @@ B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
 
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
 
 <details>
 <summary>Show answer</summary>
@@ -1290,7 +1277,6 @@ C. 2 1 4 3
 
 D. 4 3 2 1
 
-
 <details>
 <summary>Show answer</summary>
 
@@ -1319,7 +1305,6 @@ C. 2 3 4 1
 
 D. 1 3 4 2
 
-
 <details>
 <summary>Show answer</summary>
 
@@ -1343,7 +1328,6 @@ B. Neither 1 nor 2
 C. Both 1 and 2
 
 D. Only 1
-
 
 <details>
 <summary>Show answer</summary>
@@ -1373,7 +1357,6 @@ C. 3 4 1 2
 
 D. 2 3 4 1
 
-
 <details>
 <summary>Show answer</summary>
 
@@ -1394,7 +1377,6 @@ B. Between Pir Panjal and Himadri
 C. Mediterranean regions
 
 D. Equatorial regions
-
 
 <details>
 <summary>Show answer</summary>
@@ -1420,7 +1402,6 @@ C. Both 1 and 2
 
 D. Neither
 
-
 <details>
 <summary>Show answer</summary>
 
@@ -1441,7 +1422,6 @@ B. Veld – South Africa
 C. Downs – Australia
 
 D. Pampas – Brazil
-
 
 <details>
 <summary>Show answer</summary>
@@ -1466,7 +1446,6 @@ C. (A) is true, but (R) is false
 
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-
 <details>
 <summary>Show answer</summary>
 
@@ -1490,7 +1469,6 @@ B. 2 only
 C. Both
 
 D. Neither
-
 
 <details>
 <summary>Show answer</summary>
@@ -1520,7 +1498,6 @@ C. 4 1 2 3
 
 D. 2 1 3 4
 
-
 <details>
 <summary>Show answer</summary>
 
@@ -1541,7 +1518,6 @@ B. Chaparral
 C. Fynbos
 
 D. Selva
-
 
 <details>
 <summary>Show answer</summary>
@@ -1566,7 +1542,6 @@ C. 4, 2, 1, 3
 
 D. 2, 4, 3, 1
 
-
 <details>
 <summary>Show answer</summary>
 
@@ -1587,7 +1562,6 @@ B. Pamir
 C. Altiplano
 
 D. Colorado
-
 
 <details>
 <summary>Show answer</summary>
@@ -1613,7 +1587,6 @@ C. Both
 
 D. Neither
 
-
 <details>
 <summary>Show answer</summary>
 
@@ -1634,7 +1607,6 @@ B. Form the conventional Europe–Asia divide
 C. Are the highest range on Earth
 
 D. Lie entirely in China
-
 
 <details>
 <summary>Show answer</summary>
@@ -1657,7 +1629,6 @@ C. Namib – Namibia coast
 
 D. Karakum – Brazil
 
-
 <details>
 <summary>Show answer</summary>
 
@@ -1678,7 +1649,6 @@ B. West coasts about 30–45°
 C. Equatorial west coasts
 
 D. Polar east coasts
-
 
 <details>
 <summary>Show answer</summary>
@@ -1705,7 +1675,6 @@ C. All three
 
 D. None
 
-
 <details>
 <summary>Show answer</summary>
 
@@ -1729,7 +1698,6 @@ C. (A) is true, but (R) is false
 
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-
 <details>
 <summary>Show answer</summary>
 
@@ -1750,7 +1718,6 @@ B. USA
 C. Italy
 
 D. Mexico
-
 
 <details>
 <summary>Show answer</summary>
@@ -1776,7 +1743,6 @@ C. Both
 
 D. Neither
 
-
 <details>
 <summary>Show answer</summary>
 
@@ -1797,7 +1763,6 @@ B. Mongolia
 C. Australia
 
 D. USA
-
 
 <details>
 <summary>Show answer</summary>
@@ -1827,7 +1792,6 @@ C. 1 2 4 3
 
 D. 2 1 3 4
 
-
 <details>
 <summary>Show answer</summary>
 
@@ -1848,7 +1812,6 @@ B. Arabian
 C. Gobi
 
 D. Great Sandy
-
 
 <details>
 <summary>Show answer</summary>
@@ -1874,7 +1837,6 @@ C. Both
 
 D. Neither
 
-
 <details>
 <summary>Show answer</summary>
 
@@ -1895,7 +1857,6 @@ B. Veld – South Africa
 C. Downs – Australia
 
 D. Steppe – Argentina
-
 
 <details>
 <summary>Show answer</summary>
@@ -1919,7 +1880,6 @@ B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false
 
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
-
 
 <details>
 <summary>Show answer</summary>

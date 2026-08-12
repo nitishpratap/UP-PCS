@@ -373,6 +373,7 @@ A. 2 1 3 4  B. 1 2 3 4  C. 2 1 4 3  D. 2 3 1 4
 **Q5.** Given below are two statements:
 
 **Assertion (A):** Alexander restored Porus after Hydaspes.  
+
 **Reason (R):** Porus had been Alexander’s ally from the moment the Macedonians crossed the Indus.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -495,6 +496,7 @@ A. Only one  B. Only two  C. All three  D. None
 **Q12.** Given below are two statements:
 
 **Assertion (A):** Seleucus used Indian elephants in the west after the Indian treaty.  
+
 **Reason (R):** The battle of Ipsus (301 BCE) is the usual textbook sequel for those elephants.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -636,6 +638,7 @@ A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
 **Q20.** Given below are two statements:
 
 **Assertion (A):** Callisthenes did not write a finished Indian campaign history.  
+
 **Reason (R):** He was executed over the proskynesis quarrel before the Indian plains war.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -773,6 +776,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **Q28.** Given below are two statements:
 
 **Assertion (A):** Indo-Greek rule in India is later than Alexander’s own lifetime.  
+
 **Reason (R):** Demetrius and Menander belong to the 2nd century BCE Bactrian expansion.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -1003,6 +1007,7 @@ D. Vima Kadphises — Menander’s naval admiral on the Indus
 **Q41.** Given below are two statements:
 
 **Assertion (A):** Greek writers’ Sandrokottos is identified with Chandragupta Maurya.  
+
 **Reason (R):** That synchronism with Seleucus/Alexander is the usual peg for Mauryan dates.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  

@@ -506,7 +506,13 @@ Qutub Minar Aibak start/Iltutmish finish | Alai Darwaza Alauddin 1311
 1. Muhammad bin Qasim conquered Sindh in 712 CE.
 2. Mahmud of Ghazni permanently ruled the entire Gangetic plain.
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>
 
@@ -516,7 +522,13 @@ Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
 
 **Q2.** Assertion (A): Turkish invasions succeeded. Reason (R): North India lacked political unity.
 
-Options: A. Both true, R explains A | B. Both true, R not explanation | C. A true, R false | D. A false, R true
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
 
 <details><summary>Show answer</summary>
 
@@ -526,7 +538,13 @@ Options: A. Both true, R explains A | B. Both true, R not explanation | C. A tru
 
 **Q3.** Arrange: 1. Second Tarain 2. Aibak becomes Sultan 3. Chandawar 4. First Tarain
 
-Options: A. 4-1-3-2 | B. 4-3-1-2 | C. 1-4-3-2 | D. 4-1-2-3
+A. 4-1-3-2 |
+
+B. 4-3-1-2 |
+
+C. 1-4-3-2 |
+
+D. 4-1-2-3
 
 <details><summary>Show answer</summary>
 
@@ -541,7 +559,13 @@ Options: A. 4-1-3-2 | B. 4-3-1-2 | C. 1-4-3-2 | D. 4-1-2-3
 3. Iltutmish — silver tanka
 4. Balban — Sijda and Paibos
 
-Options: A. Only 2 | B. Only 1 | C. 2 and 4 | D. Only 3
+A. Only 2 |
+
+B. Only 1 |
+
+C. 2 and 4 |
+
+D. Only 3
 
 <details><summary>Show answer</summary>
 
@@ -551,7 +575,13 @@ Options: A. Only 2 | B. Only 1 | C. 2 and 4 | D. Only 3
 
 **Q5.** Assertion (A): Balban centralised authority. Reason (R): He wanted to protect the northwest against Mongols.
 
-Options: A. Both true, R explains A | B. Both true, R not explanation | C. A true, R false | D. A false, R true
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
 
 <details><summary>Show answer</summary>
 
@@ -571,7 +601,13 @@ Options: A.1-2-3-4 | B.2-1-4-3 | C.2-1-3-4 | D.1-2-4-3
 
 **Q7.** Which is NOT characteristic of the Iqta system?
 
-Options: A. Muqti maintains troops | B. Iqta is revenue assignment | C. Revenue directly deposited in Sultan's account | D. Muqti administers assigned territory
+A. Muqti maintains troops |
+
+B. Iqta is revenue assignment |
+
+C. Revenue directly deposited in Sultan's account |
+
+D. Muqti administers assigned territory
 
 <details><summary>Show answer</summary>
 
@@ -581,7 +617,13 @@ Options: A. Muqti maintains troops | B. Iqta is revenue assignment | C. Revenue 
 
 **Q8.** Assertion (A): Sultanate land divided into Khalsa and Jagirs. Reason (R): Jagirs were under direct state control.
 
-Options: A. Both true, R not explanation | B. A false, R true | C. A true, R false | D. Both true, R explains A
+A. Both true, R not explanation |
+
+B. A false, R true |
+
+C. A true, R false |
+
+D. Both true, R explains A
 
 <details><summary>Show answer</summary>
 
@@ -591,7 +633,13 @@ Options: A. Both true, R not explanation | B. A false, R true | C. A true, R fal
 
 **Q9.** Which book-author pair is NOT correctly matched?
 
-Options: A. Tabaqat-i-Nasiri — Minhaj | B. Tarikh-i-Firoz Shahi — Barani | C. Tughlaqnama — Ibn Battuta | D. Rihla — Ibn Battuta
+A. Tabaqat-i-Nasiri — Minhaj |
+
+B. Tarikh-i-Firoz Shahi — Barani |
+
+C. Tughlaqnama — Ibn Battuta |
+
+D. Rihla — Ibn Battuta
 
 <details><summary>Show answer</summary>
 
@@ -625,7 +673,13 @@ Options: A.3-4-1-2 | B.4-3-1-2 | C.3-4-2-1 | D.2-1-4-3
 2. Alai Darwaza was built by Alauddin Khalji in 1311.
 3. Quwwat-ul-Islam was built by Firoz Shah Tughlaq.
 
-Options: A. Only one | B. Only two | C. All three | D. None
+A. Only one |
+
+B. Only two |
+
+C. All three |
+
+D. None
 
 <details><summary>Show answer</summary>
 
@@ -639,7 +693,13 @@ Options: A. Only one | B. Only two | C. All three | D. None
 2. He introduced token currency.
 3. Ibn Battuta wrote Tughlaqnama at his court.
 
-Options: A. Only 1 and 2 | B. Only 2 and 3 | C. Only 1 and 3 | D. All three
+A. Only 1 and 2 |
+
+B. Only 2 and 3 |
+
+C. Only 1 and 3 |
+
+D. All three
 
 <details><summary>Show answer</summary>
 
@@ -649,7 +709,13 @@ Options: A. Only 1 and 2 | B. Only 2 and 3 | C. Only 1 and 3 | D. All three
 
 **Q14.** Who translated Sanskrit books collected by Firoz Shah at Nagarkot?
 
-Options: A. Amir Khusrau | B. Ziauddin Barani | C. Mulla Abdul Baqi | D. Ibn Battuta
+A. Amir Khusrau |
+
+B. Ziauddin Barani |
+
+C. Mulla Abdul Baqi |
+
+D. Ibn Battuta
 
 <details><summary>Show answer</summary>
 
@@ -674,7 +740,13 @@ Options: A.2-4-3-1 | B.4-2-3-1 | C.2-3-4-1 | D.1-2-4-3
 3. chakla — identical to Mughal Sarkar
 4. Jizya — tax on non-Muslims
 
-Options: A. Only 3 | B. Only 2 | C. 1 and 3 | D. Only 4
+A. Only 3 |
+
+B. Only 2 |
+
+C. 1 and 3 |
+
+D. Only 4
 
 <details><summary>Show answer</summary>
 
@@ -688,7 +760,13 @@ Options: A. Only 3 | B. Only 2 | C. 1 and 3 | D. Only 4
 2. Ibrahim Lodi was killed in the battle.
 3. The battle ended all of Babur's Indian campaigns immediately.
 
-Options: A. Only 1 and 2 | B. Only 2 and 3 | C. Only 1 and 3 | D. All three
+A. Only 1 and 2 |
+
+B. Only 2 and 3 |
+
+C. Only 1 and 3 |
+
+D. All three
 
 <details><summary>Show answer</summary>
 
@@ -698,7 +776,13 @@ Options: A. Only 1 and 2 | B. Only 2 and 3 | C. Only 1 and 3 | D. All three
 
 **Q18.** Who founded Agra's importance under the Lodis?
 
-Options: A. Bahlul Lodi | B. Sikandar Lodi | C. Ibrahim Lodi | D. Alam Shah
+A. Bahlul Lodi |
+
+B. Sikandar Lodi |
+
+C. Ibrahim Lodi |
+
+D. Alam Shah
 
 <details><summary>Show answer</summary>
 
@@ -712,7 +796,13 @@ Options: A. Bahlul Lodi | B. Sikandar Lodi | C. Ibrahim Lodi | D. Alam Shah
 2. He was a disciple of Nizamuddin Auliya.
 3. He authored Tughlaqnama.
 
-Options: A. Only 1 and 2 | B. Only 2 and 3 | C. Only 1 and 3 | D. All three
+A. Only 1 and 2 |
+
+B. Only 2 and 3 |
+
+C. Only 1 and 3 |
+
+D. All three
 
 <details><summary>Show answer</summary>
 
@@ -726,7 +816,13 @@ Options: A. Only 1 and 2 | B. Only 2 and 3 | C. Only 1 and 3 | D. All three
 2. Chahalgani — Group of Forty nobles
 3. Amir-i-Kohi — Alauddin's market controller
 
-Options: A. Only one | B. Only two | C. All three | D. None
+A. Only one |
+
+B. Only two |
+
+C. All three |
+
+D. None
 
 <details><summary>Show answer</summary>
 
@@ -736,7 +832,13 @@ Options: A. Only one | B. Only two | C. All three | D. None
 
 **Q21.** Assertion (A): Alauddin introduced Dagh and Chehra. Reason (R): He wanted to prevent fake musters and maintain a cash-paid standing army.
 
-Options: A. Both true, R explains A | B. Both true, R not explanation | C. A true, R false | D. A false, R true
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
 
 <details><summary>Show answer</summary>
 
@@ -746,7 +848,13 @@ Options: A. Both true, R explains A | B. Both true, R not explanation | C. A tru
 
 **Q22.** Which ruler made iqta hereditary?
 
-Options: A. Alauddin Khalji | B. Balban | C. Firoz Shah Tughlaq | D. Iltutmish
+A. Alauddin Khalji |
+
+B. Balban |
+
+C. Firoz Shah Tughlaq |
+
+D. Iltutmish
 
 <details><summary>Show answer</summary>
 
@@ -777,7 +885,13 @@ Options: A.2-3-1-4 | B.3-2-1-4 | C.2-1-3-4 | D.1-2-3-4
 2. Razia was nominated by Iltutmish.
 3. Kaiqubad's weakness led to Khalji takeover.
 
-Options: A. Only 1 and 2 | B. Only 2 and 3 | C. Only 1 and 3 | D. All three
+A. Only 1 and 2 |
+
+B. Only 2 and 3 |
+
+C. Only 1 and 3 |
+
+D. All three
 
 <details><summary>Show answer</summary>
 
@@ -787,7 +901,13 @@ Options: A. Only 1 and 2 | B. Only 2 and 3 | C. Only 1 and 3 | D. All three
 
 **Q25.** NOT correctly matched:
 
-Options: A. Dagh — horse branding | B. Chehra — soldier roll | C. Khareetadar — spy | D. Barid — spy
+A. Dagh — horse branding |
+
+B. Chehra — soldier roll |
+
+C. Khareetadar — spy |
+
+D. Barid — spy
 
 <details><summary>Show answer</summary>
 
@@ -797,7 +917,13 @@ Options: A. Dagh — horse branding | B. Chehra — soldier roll | C. Khareetada
 
 **Q26.** Alauddin's Doab revenue demand was approximately:
 
-Options: A. 1/6 | B. 1/3 | C. 50% | D. 1/5
+A. 1/6 |
+
+B. 1/3 |
+
+C. 50% |
+
+D. 1/5
 
 <details><summary>Show answer</summary>
 
@@ -807,7 +933,13 @@ Options: A. 1/6 | B. 1/3 | C. 50% | D. 1/5
 
 **Q27.** Timur sacked Delhi in:
 
-Options: A. 1320 | B. 1398 | C. 1414 | D. 1526
+A. 1320 |
+
+B. 1398 |
+
+C. 1414 |
+
+D. 1526
 
 <details><summary>Show answer</summary>
 
@@ -817,7 +949,13 @@ Options: A. 1320 | B. 1398 | C. 1414 | D. 1526
 
 **Q28.** Who killed Jalaluddin Khalji?
 
-Options: A. Malik Kafur | B. Alauddin Khalji | C. Ghiyasuddin Tughlaq | D. Balban
+A. Malik Kafur |
+
+B. Alauddin Khalji |
+
+C. Ghiyasuddin Tughlaq |
+
+D. Balban
 
 <details><summary>Show answer</summary>
 
@@ -841,7 +979,13 @@ Options: A.2-3-1 | B.3-2-1 | C.2-1-3 | D.1-2-3
 2. Five dynasties ruled in sequence.
 3. The Sayyid period was the strongest phase.
 
-Options: A. Only 1 and 2 | B. Only 2 and 3 | C. Only 1 and 3 | D. All three
+A. Only 1 and 2 |
+
+B. Only 2 and 3 |
+
+C. Only 1 and 3 |
+
+D. All three
 
 <details><summary>Show answer</summary>
 
@@ -856,7 +1000,13 @@ Options: A. Only 1 and 2 | B. Only 2 and 3 | C. Only 1 and 3 | D. All three
 3. Muqti — iqta holder
 4. Amil — village headman
 
-Options: A. Only one | B. Only two | C. Only three | D. All four
+A. Only one |
+
+B. Only two |
+
+C. Only three |
+
+D. All four
 
 <details><summary>Show answer</summary>
 
@@ -866,7 +1016,13 @@ Options: A. Only one | B. Only two | C. Only three | D. All four
 
 **Q32.** Assertion (A): Ghori established permanent rule unlike Mahmud. Reason (R): Ghori appointed governors and garrisoned Delhi-Ajmer.
 
-Options: A. Both true, R explains A | B. Both true, R not explanation | C. A true, R false | D. A false, R true
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
 
 <details><summary>Show answer</summary>
 
@@ -876,7 +1032,13 @@ Options: A. Both true, R explains A | B. Both true, R not explanation | C. A tru
 
 **Q33.** Which monument is at Ajmer?
 
-Options: A. Quwwat-ul-Islam | B. Adhai Din Ka Jhopra | C. Alai Darwaza | D. Hauz Khas
+A. Quwwat-ul-Islam |
+
+B. Adhai Din Ka Jhopra |
+
+C. Alai Darwaza |
+
+D. Hauz Khas
 
 <details><summary>Show answer</summary>
 
@@ -886,7 +1048,13 @@ Options: A. Quwwat-ul-Islam | B. Adhai Din Ka Jhopra | C. Alai Darwaza | D. Hauz
 
 **Q34.** Khusrau Khan was killed by:
 
-Options: A. Mubarak Shah | B. Alauddin Khalji | C. Ghiyasuddin Tughlaq | D. Balban
+A. Mubarak Shah |
+
+B. Alauddin Khalji |
+
+C. Ghiyasuddin Tughlaq |
+
+D. Balban
 
 <details><summary>Show answer</summary>
 
@@ -896,7 +1064,13 @@ Options: A. Mubarak Shah | B. Alauddin Khalji | C. Ghiyasuddin Tughlaq | D. Balb
 
 **Q35.** Which is the first Islamic tomb in India?
 
-Options: A. Humayun's Tomb | B. Sultan Garhi | C. Balban's tomb | D. Iltutmish's own tomb at Qutb
+A. Humayun's Tomb |
+
+B. Sultan Garhi |
+
+C. Balban's tomb |
+
+D. Iltutmish's own tomb at Qutb
 
 <details><summary>Show answer</summary>
 
@@ -920,7 +1094,13 @@ Options: A.3-4-2-1 | B.2-3-1-4 | C.3-1-2-4 | D.4-3-2-1
 2. Kharaj is land revenue.
 3. Khalsa revenue went to iqta holders.
 
-Options: A. Only 1 and 2 | B. Only 2 and 3 | C. Only 1 and 3 | D. All three
+A. Only 1 and 2 |
+
+B. Only 2 and 3 |
+
+C. Only 1 and 3 |
+
+D. All three
 
 <details><summary>Show answer</summary>
 
@@ -930,7 +1110,13 @@ Options: A. Only 1 and 2 | B. Only 2 and 3 | C. Only 1 and 3 | D. All three
 
 **Q38.** Who refused asylum to Jalaluddin Khwarizmi in 1221?
 
-Options: A. Aibak | B. Iltutmish | C. Balban | D. Razia
+A. Aibak |
+
+B. Iltutmish |
+
+C. Balban |
+
+D. Razia
 
 <details><summary>Show answer</summary>
 
@@ -954,7 +1140,13 @@ Options: A.2-3-4-1 | B.3-2-4-1 | C.2-4-3-1 | D.4-3-2-1
 2. Sikandar Lodi developed Agra.
 3. Ibrahim Lodi was the first Lodi ruler.
 
-Options: A. Only 1 and 2 | B. Only 2 and 3 | C. Only 1 and 3 | D. All three
+A. Only 1 and 2 |
+
+B. Only 2 and 3 |
+
+C. Only 1 and 3 |
+
+D. All three
 
 <details><summary>Show answer</summary>
 
@@ -968,7 +1160,13 @@ Options: A. Only 1 and 2 | B. Only 2 and 3 | C. Only 1 and 3 | D. All three
 2. Khusrau Khan briefly usurped the throne.
 3. Ghiyasuddin Tughlaq killed Khusrau Khan in 1320.
 
-Options: A. Only one | B. Only two | C. All three | D. None
+A. Only one |
+
+B. Only two |
+
+C. All three |
+
+D. None
 
 <details><summary>Show answer</summary>
 
@@ -978,7 +1176,13 @@ Options: A. Only one | B. Only two | C. All three | D. None
 
 **Q42.** NOT matched: A. Minhaj — Tabaqat-i-Nasiri B. Barani — Tarikh-i-Firoz Shahi C. Ibn Battuta — Tughlaqnama D. Gulbadan — Humayunnama
 
-Options: A. Only C | B. Only D | C. C and D | D. B and C
+A. Only C |
+
+B. Only D |
+
+C. C and D |
+
+D. B and C
 
 <details><summary>Show answer</summary>
 
@@ -988,7 +1192,13 @@ Options: A. Only C | B. Only D | C. C and D | D. B and C
 
 **Q43.** Assertion (A): Firuz Shah imposed jizya on Brahmins. Reason (R): Firuz followed a conciliation and welfare policy.
 
-Options: A. Both true, R explains A | B. Both true, R not explanation | C. A true, R false | D. A false, R true
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
 
 <details><summary>Show answer</summary>
 
@@ -998,7 +1208,13 @@ Options: A. Both true, R explains A | B. Both true, R not explanation | C. A tru
 
 **Q44.** Delhi Sultanate ended with:
 
-Options: A. Timur's invasion | B. Second Battle of Tarain | C. First Battle of Panipat 1526 | D. Death of Firoz Shah
+A. Timur's invasion |
+
+B. Second Battle of Tarain |
+
+C. First Battle of Panipat 1526 |
+
+D. Death of Firoz Shah
 
 <details><summary>Show answer</summary>
 
@@ -1104,7 +1320,13 @@ D. Gulbadan Begum — Daughter of Babur
 
 Who among the following translated the **300 volumes of Sanskrit books** collected by Firoz Shah Tughlaq during the campaign of Nagarkot?
 
-Options: A. Amir Khusrau | B. Ziauddin Barani | C. Mulla Abdul Baqi | D. Ibn Battuta
+A. Amir Khusrau |
+
+B. Ziauddin Barani |
+
+C. Mulla Abdul Baqi |
+
+D. Ibn Battuta
 
 <details><summary>Show answer</summary>
 

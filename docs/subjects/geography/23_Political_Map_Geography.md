@@ -2035,8 +2035,11 @@ D. China
 Match List-I with List-II (Country) (Capital)
 
 A. Uzbekistan 1. Tashkent  
+
 B. Tajikistan 2. Dushanbe  
+
 C. Kyrgyzstan 3. Bishkek  
+
 D. Turkmenistan 4. Ashgabat
 
 **Options:**

@@ -585,7 +585,13 @@ UP CITIES     Kannauj=Kanyakubja | Ayodhya=Saketa | Varanasi=Kashi/Avimukta | Ma
 1. The period is conventionally taken as roughly 750–1200 CE after Harsha.
 2. A single pan-India empire continuously controlled the whole subcontinent in this age.
 
-Options: A. Only 1 | B. Only 2 | C. Both 1 and 2 | D. Neither 1 nor 2
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both 1 and 2 |
+
+D. Neither 1 nor 2
 
 <details><summary>Show answer</summary>
 
@@ -598,7 +604,13 @@ Options: A. Only 1 | B. Only 2 | C. Both 1 and 2 | D. Neither 1 nor 2
 1. Palas, Gurjara-Pratiharas and Rashtrakutas fought for Kannauj.
 2. The Cholas were the fourth permanent participant for Kannauj.
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>
 
@@ -615,7 +627,13 @@ Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
 | C. Yadava | 3. Madura |
 | D. Kakatiya | 4. Devagiri |
 
-Options: A. 2 1 4 3 | B. 2 3 4 1 | C. 1 2 3 4 | D. 2 4 3 1
+A. 2 1 4 3 |
+
+B. 2 3 4 1 |
+
+C. 1 2 3 4 |
+
+D. 2 4 3 1
 
 <details><summary>Show answer</summary>
 
@@ -632,7 +650,13 @@ Options: A. 2 1 4 3 | B. 2 3 4 1 | C. 1 2 3 4 | D. 2 4 3 1
 | C. Amoghavarsha I | 3. Chola |
 | D. Rajaraja I | 4. Pandya |
 
-Options: A. 2 4 1 3 | B. 2 4 3 1 | C. 4 2 1 3 | D. 1 2 3 4
+A. 2 4 1 3 |
+
+B. 2 4 3 1 |
+
+C. 4 2 1 3 |
+
+D. 1 2 3 4
 
 <details><summary>Show answer</summary>
 
@@ -643,7 +667,13 @@ Options: A. 2 4 1 3 | B. 2 4 3 1 | C. 4 2 1 3 | D. 1 2 3 4
 **Q5.** Assertion (A): We have much more information about Cholas than their predecessors.  
 Reason (R): Chola rulers had historical narratives of victories inscribed on temple walls.
 
-Options: A. Both true, R explains A | B. Both true, R not explanation | C. A true, R false | D. A false, R true
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
 
 <details><summary>Show answer</summary>
 
@@ -653,7 +683,13 @@ Options: A. Both true, R explains A | B. Both true, R not explanation | C. A tru
 
 **Q6.** Arrange Sen rulers of Bengal in ascending order: 1. Ballal Sen 2. Lakshman Sen 3. Hemant Sen 4. Vijaya Sen
 
-Options: A. 4 3 2 1 | B. 2 1 4 3 | C. 1 2 3 4 | D. 3 4 1 2
+A. 4 3 2 1 |
+
+B. 2 1 4 3 |
+
+C. 1 2 3 4 |
+
+D. 3 4 1 2
 
 <details><summary>Show answer</summary>
 
@@ -663,7 +699,13 @@ Options: A. 4 3 2 1 | B. 2 1 4 3 | C. 1 2 3 4 | D. 3 4 1 2
 
 **Q7.** Arrange chronologically: 1. Brihadishwara temple 2. Gangaikondacholapuram temple 3. Shore temple, Mahabalipuram
 
-Options: A. 1-2-3 | B. 3-1-2 | C. 3-2-1 | D. 2-1-3
+A. 1-2-3 |
+
+B. 3-1-2 |
+
+C. 3-2-1 |
+
+D. 2-1-3
 
 <details><summary>Show answer</summary>
 
@@ -678,7 +720,13 @@ Options: A. 1-2-3 | B. 3-1-2 | C. 3-2-1 | D. 2-1-3
 3. Pandya — Madurai  
 4. Rashtrakuta — Manyakheta  
 
-Options: A. Only 2 | B. 1 and 2 | C. Only 3 | D. 2 and 4
+A. Only 2 |
+
+B. 1 and 2 |
+
+C. Only 3 |
+
+D. 2 and 4
 
 <details><summary>Show answer</summary>
 
@@ -692,7 +740,13 @@ Options: A. Only 2 | B. 1 and 2 | C. Only 3 | D. 2 and 4
 2. Aihole inscription of Ravikirti praises Pulakeshin II.
 3. Early Chalukya capital was Kalyani.
 
-Options: A. Only one | B. Only two | C. All three | D. None
+A. Only one |
+
+B. Only two |
+
+C. All three |
+
+D. None
 
 <details><summary>Show answer</summary>
 
@@ -705,7 +759,13 @@ Options: A. Only one | B. Only two | C. All three | D. None
 1. Ur was the assembly of an ordinary village.
 2. Sabha/Mahasabha was the Brahmana assembly of an agrahara village.
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>
 
@@ -718,7 +778,13 @@ Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
 1. Mandalam was a province.
 2. Nadu was a larger unit than Mandalam.
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>
 
@@ -729,7 +795,13 @@ Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
 **Q12.** Assertion (A): Bay of Bengal was called “Chola Lake” in the imperial Chola age.  
 Reason (R): Rajendra I’s naval campaigns secured dominance over Bay of Bengal trade lanes including Kadaram.
 
-Options: A. Both true, R explains A | B. Both true, R not explanation | C. A true, R false | D. A false, R true
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
 
 <details><summary>Show answer</summary>
 
@@ -743,7 +815,13 @@ Options: A. Both true, R explains A | B. Both true, R not explanation | C. A tru
 2. Brihadishwara — Rajendra I, 1025  
 3. Gangaikondachola — title of Rajendra I  
 
-Options: A. Only 1 and 2 | B. Only 1 and 3 | C. Only 2 and 3 | D. All three
+A. Only 1 and 2 |
+
+B. Only 1 and 3 |
+
+C. Only 2 and 3 |
+
+D. All three
 
 <details><summary>Show answer</summary>
 
@@ -760,7 +838,13 @@ Options: A. Only 1 and 2 | B. Only 1 and 3 | C. Only 2 and 3 | D. All three
 | C. Amoghavarsha I | 3. Rashtrakuta |
 | D. Gopala | 4. Elected Pala founder |
 
-Options: A. 2 1 3 4 | B. 1 2 3 4 | C. 2 1 4 3 | D. 1 2 4 3
+A. 2 1 3 4 |
+
+B. 1 2 3 4 |
+
+C. 2 1 4 3 |
+
+D. 1 2 4 3
 
 <details><summary>Show answer</summary>
 
@@ -774,7 +858,13 @@ Options: A. 2 1 3 4 | B. 1 2 3 4 | C. 2 1 4 3 | D. 1 2 4 3
 2. Gopala was elected by chiefs after anarchy.
 3. Senas preceded Palas in Bengal.
 
-Options: A. Only 1 and 2 | B. Only 2 and 3 | C. Only 1 and 3 | D. All three
+A. Only 1 and 2 |
+
+B. Only 2 and 3 |
+
+C. Only 1 and 3 |
+
+D. All three
 
 <details><summary>Show answer</summary>
 
@@ -784,7 +874,13 @@ Options: A. Only 1 and 2 | B. Only 2 and 3 | C. Only 1 and 3 | D. All three
 
 **Q16.** Arrange: 1. Indra III sacks Kannauj 2. Mihir Bhoja recovers Kannauj (~836) 3. Vijayalaya takes Thanjavur (~850)
 
-Options: A. 2-3-1 | B. 3-2-1 | C. 1-2-3 | D. 2-1-3
+A. 2-3-1 |
+
+B. 3-2-1 |
+
+C. 1-2-3 |
+
+D. 2-1-3
 
 <details><summary>Show answer</summary>
 
@@ -794,7 +890,13 @@ Options: A. 2-3-1 | B. 3-2-1 | C. 1-2-3 | D. 2-1-3
 
 **Q17.** Which pair is NOT correctly matched?
 
-Options: A. Devgiri — Shankar Dev | B. Warangal — Ramchandra Dev | C. Hoysal — Veer Ballal | D. Madura — Veer Pandya
+A. Devgiri — Shankar Dev |
+
+B. Warangal — Ramchandra Dev |
+
+C. Hoysal — Veer Ballal |
+
+D. Madura — Veer Pandya
 
 <details><summary>Show answer</summary>
 
@@ -808,7 +910,13 @@ Options: A. Devgiri — Shankar Dev | B. Warangal — Ramchandra Dev | C. Hoysal
 2. Al-Masudi praised Pratihara cavalry.
 3. Their lasting capital under Mihir Bhoja was Manyakheta.
 
-Options: A. Only 1 and 2 | B. Only 2 and 3 | C. Only 1 and 3 | D. All three
+A. Only 1 and 2 |
+
+B. Only 2 and 3 |
+
+C. Only 1 and 3 |
+
+D. All three
 
 <details><summary>Show answer</summary>
 
@@ -823,7 +931,13 @@ Options: A. Only 1 and 2 | B. Only 2 and 3 | C. Only 1 and 3 | D. All three
 3. Kalachuri — Tripuri  
 4. Gahadavala — Halebid  
 
-Options: A. Only one | B. Only two | C. Only three | D. All four
+A. Only one |
+
+B. Only two |
+
+C. Only three |
+
+D. All four
 
 <details><summary>Show answer</summary>
 
@@ -837,7 +951,13 @@ Options: A. Only one | B. Only two | C. Only three | D. All four
 2. Jay Chandra was killed at Tarain in 1192.
 3. They held Kannauj and Banaras.
 
-Options: A. Only 1 and 2 | B. Only 1 and 3 | C. Only 2 and 3 | D. All three
+A. Only 1 and 2 |
+
+B. Only 1 and 3 |
+
+C. Only 2 and 3 |
+
+D. All three
 
 <details><summary>Show answer</summary>
 
@@ -854,7 +974,13 @@ Options: A. Only 1 and 2 | B. Only 1 and 3 | C. Only 2 and 3 | D. All three
 | C. Kalinjar | 3. Saketa |
 | D. Mahoba | 4. Chandela capital |
 
-Options: A. 2 3 1 4 | B. 2 3 4 1 | C. 3 2 1 4 | D. 2 1 3 4
+A. 2 3 1 4 |
+
+B. 2 3 4 1 |
+
+C. 3 2 1 4 |
+
+D. 2 1 3 4
 
 <details><summary>Show answer</summary>
 
@@ -865,7 +991,13 @@ Options: A. 2 3 1 4 | B. 2 3 4 1 | C. 3 2 1 4 | D. 2 1 3 4
 **Q22.** Assertion (A): Shore Temple belongs to the Chola architectural climax under Rajaraja I.  
 Reason (R): Brihadishwara temple at Tanjore was completed in 1010 CE by Rajaraja I.
 
-Options: A. Both true, R explains A | B. Both true, R not explanation | C. A true, R false | D. A false, R true
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
 
 <details><summary>Show answer</summary>
 
@@ -879,7 +1011,13 @@ Options: A. Both true, R explains A | B. Both true, R not explanation | C. A tru
 2. Krishna I is associated with Kailasa temple, Ellora.
 3. Amoghavarsha I was a Pallava ruler.
 
-Options: A. Only 1 and 2 | B. Only 2 and 3 | C. Only 1 and 3 | D. All three
+A. Only 1 and 2 |
+
+B. Only 2 and 3 |
+
+C. Only 1 and 3 |
+
+D. All three
 
 <details><summary>Show answer</summary>
 
@@ -893,7 +1031,13 @@ Options: A. Only 1 and 2 | B. Only 2 and 3 | C. Only 1 and 3 | D. All three
 2. Devagiri later came to be called Daulatabad.
 3. Warangal was the Yadava capital.
 
-Options: A. Only 1 and 2 | B. Only 2 and 3 | C. Only 1 and 3 | D. All three
+A. Only 1 and 2 |
+
+B. Only 2 and 3 |
+
+C. Only 1 and 3 |
+
+D. All three
 
 <details><summary>Show answer</summary>
 
@@ -903,7 +1047,13 @@ Options: A. Only 1 and 2 | B. Only 2 and 3 | C. Only 1 and 3 | D. All three
 
 **Q25.** Arrange south power markers earliest to later: 1. Western Chalukyas of Kalyani rise after Rashtrakuta fall 2. Pulakeshin II’s Badami phase 3. Vijayalaya captures Thanjavur
 
-Options: A. 2-3-1 | B. 3-2-1 | C. 2-1-3 | D. 1-2-3
+A. 2-3-1 |
+
+B. 3-2-1 |
+
+C. 2-1-3 |
+
+D. 1-2-3
 
 <details><summary>Show answer</summary>
 
@@ -917,7 +1067,13 @@ Options: A. 2-3-1 | B. 3-2-1 | C. 2-1-3 | D. 1-2-3
 2. Hoysalesvara temple is a Hoysala monument.
 3. Their capital was Manyakheta.
 
-Options: A. Only 1 and 2 | B. Only 1 and 3 | C. Only 2 and 3 | D. All three
+A. Only 1 and 2 |
+
+B. Only 1 and 3 |
+
+C. Only 2 and 3 |
+
+D. All three
 
 <details><summary>Show answer</summary>
 
@@ -931,7 +1087,13 @@ Options: A. Only 1 and 2 | B. Only 1 and 3 | C. Only 2 and 3 | D. All three
 2. Adivaraha — Mihir Bhoja  
 3. Gangaikondachola — Rajaraja I  
 
-Options: A. Only one | B. Only two | C. All three | D. None
+A. Only one |
+
+B. Only two |
+
+C. All three |
+
+D. None
 
 <details><summary>Show answer</summary>
 
@@ -946,7 +1108,13 @@ Options: A. Only one | B. Only two | C. All three | D. None
 3. Rashtrakuta — Kanchi  
 4. Chola — Thanjavur  
 
-Options: A. Only 3 | B. Only 2 | C. 1 and 3 | D. 3 and 4
+A. Only 3 |
+
+B. Only 2 |
+
+C. 1 and 3 |
+
+D. 3 and 4
 
 <details><summary>Show answer</summary>
 
@@ -960,7 +1128,13 @@ Options: A. Only 3 | B. Only 2 | C. 1 and 3 | D. 3 and 4
 2. Kadaram expedition of 1025 is credited to Rajendra I.
 3. China embassies are recorded in 1016, 1033 and 1077.
 
-Options: A. Only 1 and 2 | B. Only 2 and 3 | C. Only 1 and 3 | D. All three
+A. Only 1 and 2 |
+
+B. Only 2 and 3 |
+
+C. Only 1 and 3 |
+
+D. All three
 
 <details><summary>Show answer</summary>
 
@@ -971,7 +1145,13 @@ Options: A. Only 1 and 2 | B. Only 2 and 3 | C. Only 1 and 3 | D. All three
 **Q30.** Assertion (A): Kannauj and Kashi served different symbolic roles for Gahadavalas.  
 Reason (R): Kannauj was the political sovereignty seat while Kashi/Banaras was the major religious-cultural centre.
 
-Options: A. Both true, R explains A | B. Both true, R not explanation | C. A true, R false | D. A false, R true
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
 
 <details><summary>Show answer</summary>
 
@@ -985,7 +1165,13 @@ Options: A. Both true, R explains A | B. Both true, R not explanation | C. A tru
 2. Lakshman Sen’s court is associated with Jayadeva.
 3. Bakhtiyar Khalji ended Sena power at Nadia in 1204.
 
-Options: A. Only 1 and 2 | B. Only 2 and 3 | C. Only 1 and 3 | D. All three
+A. Only 1 and 2 |
+
+B. Only 2 and 3 |
+
+C. Only 1 and 3 |
+
+D. All three
 
 <details><summary>Show answer</summary>
 
@@ -1002,7 +1188,13 @@ Options: A. Only 1 and 2 | B. Only 2 and 3 | C. Only 1 and 3 | D. All three
 | C. Vishnuvardhana | 3. Hoysala peak |
 | D. Rudramadevi | 4. Kakatiya |
 
-Options: A. 2 1 3 4 | B. 1 2 3 4 | C. 2 1 4 3 | D. 2 3 1 4
+A. 2 1 3 4 |
+
+B. 1 2 3 4 |
+
+C. 2 1 4 3 |
+
+D. 2 3 1 4
 
 <details><summary>Show answer</summary>
 
@@ -1016,7 +1208,13 @@ Options: A. 2 1 3 4 | B. 1 2 3 4 | C. 2 1 4 3 | D. 2 3 1 4
 2. Mahoba was a Chandela centre in UP Bundelkhand.
 3. Dhara was their chief capital.
 
-Options: A. Only one | B. Only two | C. All three | D. None
+A. Only one |
+
+B. Only two |
+
+C. All three |
+
+D. None
 
 <details><summary>Show answer</summary>
 
@@ -1030,7 +1228,13 @@ Options: A. Only one | B. Only two | C. All three | D. None
 2. Gangeyadeva and Karna were important rulers.
 3. They are identical with the Paramaras of Malwa.
 
-Options: A. Only 1 and 2 | B. Only 2 and 3 | C. Only 1 and 3 | D. All three
+A. Only 1 and 2 |
+
+B. Only 2 and 3 |
+
+C. Only 1 and 3 |
+
+D. All three
 
 <details><summary>Show answer</summary>
 
@@ -1040,7 +1244,13 @@ Options: A. Only 1 and 2 | B. Only 2 and 3 | C. Only 1 and 3 | D. All three
 
 **Q35.** Arrange: 1. Battle of Chandawar 2. Second Battle of Tarain 3. Bakhtiyar takes Nadia
 
-Options: A. 2-1-3 | B. 1-2-3 | C. 2-3-1 | D. 3-2-1
+A. 2-1-3 |
+
+B. 1-2-3 |
+
+C. 2-3-1 |
+
+D. 3-2-1
 
 <details><summary>Show answer</summary>
 
@@ -1054,7 +1264,13 @@ Options: A. 2-1-3 | B. 1-2-3 | C. 2-3-1 | D. 3-2-1
 2. Pulakeshin II’s main northern rival was Harsha.
 3. Shore Temple was built by Pulakeshin II.
 
-Options: A. Only 1 and 2 | B. Only 1 and 3 | C. Only 2 and 3 | D. All three
+A. Only 1 and 2 |
+
+B. Only 1 and 3 |
+
+C. Only 2 and 3 |
+
+D. All three
 
 <details><summary>Show answer</summary>
 
@@ -1069,7 +1285,13 @@ Options: A. Only 1 and 2 | B. Only 1 and 3 | C. Only 2 and 3 | D. All three
 3. Mandalam — village ward below Nadu  
 4. Tank committee — irrigation  
 
-Options: A. Only 3 | B. Only 1 | C. 2 and 3 | D. Only 4
+A. Only 3 |
+
+B. Only 1 |
+
+C. 2 and 3 |
+
+D. Only 4
 
 <details><summary>Show answer</summary>
 
@@ -1083,7 +1305,13 @@ Options: A. Only 3 | B. Only 1 | C. 2 and 3 | D. Only 4
 2. Sulaiman — Pala as Ruhma/Dharma  
 3. Al-Masudi — Rashtrakuta as Balhara  
 
-Options: A. Only one | B. Only two | C. All three | D. None
+A. Only one |
+
+B. Only two |
+
+C. All three |
+
+D. None
 
 <details><summary>Show answer</summary>
 
@@ -1094,7 +1322,13 @@ Options: A. Only one | B. Only two | C. All three | D. None
 **Q39.** Assertion (A): Western Chalukyas of Kalyani repeatedly fought the Cholas.  
 Reason (R): Control of Vengi and the Tungabhadra doab was strategically valuable to both.
 
-Options: A. Both true, R explains A | B. Both true, R not explanation | C. A true, R false | D. A false, R true
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
 
 <details><summary>Show answer</summary>
 
@@ -1108,7 +1342,13 @@ Options: A. Both true, R explains A | B. Both true, R not explanation | C. A tru
 2. Samantas were hereditary intermediaries who weakened central control.
 3. Agrahara grants expanded cultivation but also created landed elites.
 
-Options: A. Only 1 and 2 | B. Only 2 and 3 | C. Only 1 and 3 | D. All three
+A. Only 1 and 2 |
+
+B. Only 2 and 3 |
+
+C. Only 1 and 3 |
+
+D. All three
 
 <details><summary>Show answer</summary>
 
@@ -1122,7 +1362,13 @@ Options: A. Only 1 and 2 | B. Only 2 and 3 | C. Only 1 and 3 | D. All three
 2. Rajasekhara wrote Kavyamimamsa at Mahipala’s Pratihara court.
 3. Vikramashila was founded by Dharmapala.
 
-Options: A. Only one | B. Only two | C. All three | D. None
+A. Only one |
+
+B. Only two |
+
+C. All three |
+
+D. None
 
 <details><summary>Show answer</summary>
 
@@ -1133,7 +1379,13 @@ Options: A. Only one | B. Only two | C. All three | D. None
 **Q42.** Assertion (A): Rudramadevi ruled the Kakatiyas.  
 Reason (R): Inscriptions record her under the royal name Rudradeva.
 
-Options: A. Both true, R explains A | B. Both true, R not explanation | C. A true, R false | D. A false, R true
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
 
 <details><summary>Show answer</summary>
 
@@ -1148,7 +1400,13 @@ Options: A. Both true, R explains A | B. Both true, R not explanation | C. A tru
 3. Chennakesava — Halebid  
 4. Sarasvatikanthabharana — Mihir Bhoja  
 
-Options: A. Only 4 | B. Only 3 | C. 3 and 4 | D. Only 2
+A. Only 4 |
+
+B. Only 3 |
+
+C. 3 and 4 |
+
+D. Only 2
 
 <details><summary>Show answer</summary>
 
@@ -1162,7 +1420,13 @@ Options: A. Only 4 | B. Only 3 | C. 3 and 4 | D. Only 2
 2. Bhogapatis were village-level intermediaries.
 3. Agrahara grants were heavily taxed Brahmana villages.
 
-Options: A. Only 1 and 2 | B. Only 2 and 3 | C. Only 1 and 3 | D. All three
+A. Only 1 and 2 |
+
+B. Only 2 and 3 |
+
+C. Only 1 and 3 |
+
+D. All three
 
 <details><summary>Show answer</summary>
 
@@ -1172,7 +1436,13 @@ Options: A. Only 1 and 2 | B. Only 2 and 3 | C. Only 1 and 3 | D. All three
 
 **Q45.** Arrange chronologically: 1. Pulakeshin II vs Harsha 2. Parantaka I loses to Krishna III 3. Rajendra I’s Ganga expedition
 
-Options: A. 1-2-3 | B. 2-1-3 | C. 3-2-1 | D. 1-3-2
+A. 1-2-3 |
+
+B. 2-1-3 |
+
+C. 3-2-1 |
+
+D. 1-3-2
 
 <details><summary>Show answer</summary>
 
@@ -1238,6 +1508,7 @@ D. 3, 4, 1, 2
 Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
 
 **Assertion (A):** We have much more information about Cholas than their predecessors.  
+
 **Reason (R):** The Chola rulers adopted the practice of having inscriptions written on the walls of temples giving a historical narrative of their victories.
 
 Select the correct answer from the codes given below.  

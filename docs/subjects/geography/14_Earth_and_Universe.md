@@ -466,7 +466,14 @@ India seismic **zones II–V**. NDMA chair = **PM**.
 ## Practice Zone — 65 Questions (2025 Pattern Mix)
 
 **Q1.** The ozone layer that absorbs UV exists in the:
-Options: A. Troposphere B. Mesosphere C. Stratosphere D. Thermosphere
+
+A. Troposphere
+
+B. Mesosphere
+
+C. Stratosphere
+
+D. Thermosphere
 
 <details>
 <summary>Show answer</summary>
@@ -477,9 +484,17 @@ Options: A. Troposphere B. Mesosphere C. Stratosphere D. Thermosphere
 ---
 
 **Q2.** With reference to the ozone layer:
+
 1. It protects the surface from solar UV.
 2. Depletion has been linked to CFCs.
-Options: A. Only 2 B. Neither C. Both D. Only 1
+
+A. Only 2
+
+B. Neither
+
+C. Both
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -490,7 +505,14 @@ Options: A. Only 2 B. Neither C. Both D. Only 1
 ---
 
 **Q3.** Which pair is NOT correctly matched?
-Options: A. Renneting–Cheese B. Golden rice–Vitamin A C. Montreal–Ozone D. Ozone layer–Troposphere
+
+A. Renneting–Cheese
+
+B. Golden rice–Vitamin A
+
+C. Montreal–Ozone
+
+D. Ozone layer–Troposphere
 
 <details>
 <summary>Show answer</summary>
@@ -501,9 +523,17 @@ Options: A. Renneting–Cheese B. Golden rice–Vitamin A C. Montreal–Ozone D.
 ---
 
 **Q4.** With reference to El Niño:
+
 1. Warm current off Peru in the eastern Pacific.
 2. That warmth increases plankton off Peru.
-Options: A. Only 1 B. Only 2 C. Both D. Neither
+
+A. Only 1
+
+B. Only 2
+
+C. Both
+
+D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -514,7 +544,14 @@ Options: A. Only 1 B. Only 2 C. Both D. Neither
 ---
 
 **Q5.** Winds deflect to the **left** in the Southern Hemisphere because of:
-Options: A. Temperature B. Coriolis Force C. Magnetic Field D. Pressure
+
+A. Temperature
+
+B. Coriolis Force
+
+C. Magnetic Field
+
+D. Pressure
 
 <details>
 <summary>Show answer</summary>
@@ -526,7 +563,14 @@ Options: A. Temperature B. Coriolis Force C. Magnetic Field D. Pressure
 
 **Q6.** Assertion (A): Jet streams discovered in WWII are high-altitude **easterly** winds.
 Reason (R): Jet streams flow at about 300–500 km/h.
-Options: A. Both true, R explains A B. A false, R true C. Both true, R not explanation D. A true, R false
+
+A. Both true, R explains A
+
+B. A false, R true
+
+C. Both true, R not explanation
+
+D. A true, R false
 
 <details>
 <summary>Show answer</summary>
@@ -537,7 +581,14 @@ Options: A. Both true, R explains A B. A false, R true C. Both true, R not expla
 ---
 
 **Q7.** Earth’s atmosphere is mainly heated by:
-Options: A. Long-wave terrestrial radiation B. Scattered solar C. Reflected solar D. Incoming short-wave solar
+
+A. Long-wave terrestrial radiation
+
+B. Scattered solar
+
+C. Reflected solar
+
+D. Incoming short-wave solar
 
 <details>
 <summary>Show answer</summary>
@@ -548,7 +599,14 @@ Options: A. Long-wave terrestrial radiation B. Scattered solar C. Reflected sola
 ---
 
 **Q8.** Which is NOT a greenhouse gas?
-Options: A. Argon B. CFC C. Methane D. Carbon dioxide
+
+A. Argon
+
+B. CFC
+
+C. Methane
+
+D. Carbon dioxide
 
 <details>
 <summary>Show answer</summary>
@@ -559,7 +617,14 @@ Options: A. Argon B. CFC C. Methane D. Carbon dioxide
 ---
 
 **Q9.** Saturn’s atmosphere in the 2022 paper is keyed to which gas in large quantity among the options?
-Options: A. Sulphur dioxide B. Carbon monoxide C. Methane D. Nitrogen
+
+A. Sulphur dioxide
+
+B. Carbon monoxide
+
+C. Methane
+
+D. Nitrogen
 
 <details>
 <summary>Show answer</summary>
@@ -570,7 +635,14 @@ Options: A. Sulphur dioxide B. Carbon monoxide C. Methane D. Nitrogen
 ---
 
 **Q10.** India’s first Mars mission is:
-Options: A. Chandrayaan-1 B. Mangalyaan C. Aditya-L1 D. Astrosat
+
+A. Chandrayaan-1
+
+B. Mangalyaan
+
+C. Aditya-L1
+
+D. Astrosat
 
 <details>
 <summary>Show answer</summary>
@@ -581,7 +653,14 @@ Options: A. Chandrayaan-1 B. Mangalyaan C. Aditya-L1 D. Astrosat
 ---
 
 **Q11.** 2018 Science report: massive underground lake on:
-Options: A. Jupiter B. Saturn C. Venus D. Mars
+
+A. Jupiter
+
+B. Saturn
+
+C. Venus
+
+D. Mars
 
 <details>
 <summary>Show answer</summary>
@@ -592,7 +671,14 @@ Options: A. Jupiter B. Saturn C. Venus D. Mars
 ---
 
 **Q12.** Which planet is most suitable for life among these options?
-Options: A. Mars B. Mercury C. Venus D. Jupiter
+
+A. Mars
+
+B. Mercury
+
+C. Venus
+
+D. Jupiter
 
 <details>
 <summary>Show answer</summary>
@@ -603,7 +689,14 @@ Options: A. Mars B. Mercury C. Venus D. Jupiter
 ---
 
 **Q13.** Which volcano is NOT in the Pacific Ring of Fire?
-Options: A. Fuji B. Pinatubo C. Kilimanjaro D. St. Helens
+
+A. Fuji
+
+B. Pinatubo
+
+C. Kilimanjaro
+
+D. St. Helens
 
 <details>
 <summary>Show answer</summary>
@@ -614,7 +707,15 @@ Options: A. Fuji B. Pinatubo C. Kilimanjaro D. St. Helens
 ---
 
 **Q14.** Match: Rainier, Etna, Paricutin, Apo → Italy, Mexico, Philippines, USA
-Options: A. 4 2 1 3 B. 4 1 2 3 C. 2 1 4 3 D. 4 3 2 1
+
+A. 4 2 1 3
+
+B. 4 1 2 3
+
+C. 2 1 4 3
+
+D. 4 3 2 1
+
 (List-II: 1 Italy 2 Mexico 3 Philippines 4 USA)
 
 <details>
@@ -626,7 +727,15 @@ Options: A. 4 2 1 3 B. 4 1 2 3 C. 2 1 4 3 D. 4 3 2 1
 ---
 
 **Q15.** Agra and Darjeeling, nearly same latitude, January T ~16°C vs 4°C because:
-Options: A. A false R true B. A true R false C. Both true, R not explanation D. Both true, R explains A
+
+A. A false R true
+
+B. A true R false
+
+C. Both true, R not explanation
+
+D. Both true, R explains A
+
 (R = temperature falls with height / thinner air)
 
 <details>
@@ -638,12 +747,20 @@ Options: A. A false R true B. A true R false C. Both true, R not explanation D. 
 ---
 
 **Q16.** With reference to India:
+
 1. Sixth-largest country.
 2. About 2.4% of world area.
 3. Tropic of Cancer through the middle (two latitudinal halves as stated).
 4. Lies completely in the tropical zone.
 Correct are:
-Options: A. 2 and 3 B. 2 and 4 C. 3 and 4 D. 1 and 2
+
+A. 2 and 3
+
+B. 2 and 4
+
+C. 3 and 4
+
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
@@ -654,9 +771,17 @@ Options: A. 2 and 3 B. 2 and 4 C. 3 and 4 D. 1 and 2
 ---
 
 **Q17.** Mediterranean climate:
+
 1. Rain in winter.
 2. Winter solstice → pressure belts shift south.
-Options: A. Only 2 B. Neither C. Only 1 D. Both
+
+A. Only 2
+
+B. Neither
+
+C. Only 1
+
+D. Both
 
 <details>
 <summary>Show answer</summary>
@@ -667,7 +792,14 @@ Options: A. Only 2 B. Neither C. Only 1 D. Both
 ---
 
 **Q18.** Carbon credit originated from:
-Options: A. Rio Earth Summit only B. Kyoto Protocol C. Montreal Protocol D. G-8 Heiligendamm
+
+A. Rio Earth Summit only
+
+B. Kyoto Protocol
+
+C. Montreal Protocol
+
+D. G-8 Heiligendamm
 
 <details>
 <summary>Show answer</summary>
@@ -678,7 +810,14 @@ Options: A. Rio Earth Summit only B. Kyoto Protocol C. Montreal Protocol D. G-8 
 ---
 
 **Q19.** NOT correctly matched:
-Options: A. Cartagena — Biosafety B. Stockholm — POPs C. Montreal — Ozone D. Kyoto — Save water
+
+A. Cartagena — Biosafety
+
+B. Stockholm — POPs
+
+C. Montreal — Ozone
+
+D. Kyoto — Save water
 
 <details>
 <summary>Show answer</summary>
@@ -689,7 +828,14 @@ Options: A. Cartagena — Biosafety B. Stockholm — POPs C. Montreal — Ozone 
 ---
 
 **Q20.** Climate-change mitigation agreement among these:
-Options: A. Montreal Protocol B. Ramsar C. Kyoto Protocol D. CITES
+
+A. Montreal Protocol
+
+B. Ramsar
+
+C. Kyoto Protocol
+
+D. CITES
 
 <details>
 <summary>Show answer</summary>
@@ -700,7 +846,14 @@ Options: A. Montreal Protocol B. Ramsar C. Kyoto Protocol D. CITES
 ---
 
 **Q21.** Maximum ozone concentration is in the:
-Options: A. Troposphere B. Mesosphere C. Stratosphere D. Exosphere
+
+A. Troposphere
+
+B. Mesosphere
+
+C. Stratosphere
+
+D. Exosphere
 
 <details>
 <summary>Show answer</summary>
@@ -711,7 +864,14 @@ Options: A. Troposphere B. Mesosphere C. Stratosphere D. Exosphere
 ---
 
 **Q22.** Diffusion of light in the atmosphere takes place due to:
-Options: A. Carbon dioxide B. Dust particles C. Helium D. Water vapours
+
+A. Carbon dioxide
+
+B. Dust particles
+
+C. Helium
+
+D. Water vapours
 
 <details>
 <summary>Show answer</summary>
@@ -722,7 +882,14 @@ Options: A. Carbon dioxide B. Dust particles C. Helium D. Water vapours
 ---
 
 **Q23.** IST is based on:
-Options: A. 0° B. 82°30′ E C. 180° D. 23½° N
+
+A. 0°
+
+B. 82°30′ E
+
+C. 180°
+
+D. 23½° N
 
 <details>
 <summary>Show answer</summary>
@@ -733,7 +900,14 @@ Options: A. 0° B. 82°30′ E C. 180° D. 23½° N
 ---
 
 **Q24.** 15° of longitude equal:
-Options: A. 4 minutes B. 1 hour C. 1 day D. 1 month
+
+A. 4 minutes
+
+B. 1 hour
+
+C. 1 day
+
+D. 1 month
 
 <details>
 <summary>Show answer</summary>
@@ -744,7 +918,14 @@ Options: A. 4 minutes B. 1 hour C. 1 day D. 1 month
 ---
 
 **Q25.** International Date Line is based near:
-Options: A. 0° B. 23½° C. **180°** D. 82½° E
+
+A. 0°
+
+B. 23½°
+
+C. **180°**
+
+D. 82½° E
 
 <details>
 <summary>Show answer</summary>
@@ -755,7 +936,14 @@ Options: A. 0° B. 23½° C. **180°** D. 82½° E
 ---
 
 **Q26.** Perihelion occurs about:
-Options: A. 4 July B. **3 January** C. 21 June D. 23 September
+
+A. 4 July
+
+B. **3 January**
+
+C. 21 June
+
+D. 23 September
 
 <details>
 <summary>Show answer</summary>
@@ -766,7 +954,14 @@ Options: A. 4 July B. **3 January** C. 21 June D. 23 September
 ---
 
 **Q27.** Seasons on Earth are caused primarily by:
-Options: A. Changing distance only B. **Axial tilt 23½°** C. Moon’s phases D. El Niño only
+
+A. Changing distance only
+
+B. **Axial tilt 23½°**
+
+C. Moon’s phases
+
+D. El Niño only
 
 <details>
 <summary>Show answer</summary>
@@ -777,7 +972,14 @@ Options: A. Changing distance only B. **Axial tilt 23½°** C. Moon’s phases D
 ---
 
 **Q28.** ITCZ is a:
-Options: A. Polar high B. Subtropical high C. **Equatorial low / convergence** D. Jet of easterlies only
+
+A. Polar high
+
+B. Subtropical high
+
+C. **Equatorial low / convergence**
+
+D. Jet of easterlies only
 
 <details>
 <summary>Show answer</summary>
@@ -788,7 +990,14 @@ Options: A. Polar high B. Subtropical high C. **Equatorial low / convergence** D
 ---
 
 **Q29.** Which is a **fold** mountain?
-Options: A. Vosges B. Sierra Nevada (block) C. **Himalaya** D. Black Forest
+
+A. Vosges
+
+B. Sierra Nevada (block)
+
+C. **Himalaya**
+
+D. Black Forest
 
 <details>
 <summary>Show answer</summary>
@@ -799,7 +1008,14 @@ Options: A. Vosges B. Sierra Nevada (block) C. **Himalaya** D. Black Forest
 ---
 
 **Q30.** Which is a **block/fault** mountain example?
-Options: A. Andes B. Alps C. **Vosges** D. Rockies
+
+A. Andes
+
+B. Alps
+
+C. **Vosges**
+
+D. Rockies
 
 <details>
 <summary>Show answer</summary>
@@ -810,7 +1026,14 @@ Options: A. Andes B. Alps C. **Vosges** D. Rockies
 ---
 
 **Q31.** Wegener’s supercontinent was:
-Options: A. Panthalassa B. **Pangaea** C. Ring of Fire D. ITCZ
+
+A. Panthalassa
+
+B. **Pangaea**
+
+C. Ring of Fire
+
+D. ITCZ
 
 <details>
 <summary>Show answer</summary>
@@ -821,7 +1044,14 @@ Options: A. Panthalassa B. **Pangaea** C. Ring of Fire D. ITCZ
 ---
 
 **Q32.** S-waves do not pass through the:
-Options: A. Crust B. Mantle rock C. **Outer core (liquid)** D. Inner core as a concept of solidity
+
+A. Crust
+
+B. Mantle rock
+
+C. **Outer core (liquid)**
+
+D. Inner core as a concept of solidity
 
 <details>
 <summary>Show answer</summary>
@@ -832,7 +1062,14 @@ Options: A. Crust B. Mantle rock C. **Outer core (liquid)** D. Inner core as a c
 ---
 
 **Q33.** Moho separates:
-Options: A. Inner and outer core B. **Crust and mantle** C. Troposphere and stratosphere D. Land and sea
+
+A. Inner and outer core
+
+B. **Crust and mantle**
+
+C. Troposphere and stratosphere
+
+D. Land and sea
 
 <details>
 <summary>Show answer</summary>
@@ -843,7 +1080,14 @@ Options: A. Inner and outer core B. **Crust and mantle** C. Troposphere and stra
 ---
 
 **Q34.** Shield volcano example:
-Options: A. Vesuvius B. Fuji C. **Mauna Loa** D. Paricutin cone
+
+A. Vesuvius
+
+B. Fuji
+
+C. **Mauna Loa**
+
+D. Paricutin cone
 
 <details>
 <summary>Show answer</summary>
@@ -854,7 +1098,14 @@ Options: A. Vesuvius B. Fuji C. **Mauna Loa** D. Paricutin cone
 ---
 
 **Q35.** Trade winds blow from the subtropical highs toward the:
-Options: A. Poles B. **ITCZ** C. Stratosphere D. IDL only
+
+A. Poles
+
+B. **ITCZ**
+
+C. Stratosphere
+
+D. IDL only
 
 <details>
 <summary>Show answer</summary>
@@ -865,8 +1116,16 @@ Options: A. Poles B. **ITCZ** C. Stratosphere D. IDL only
 ---
 
 **Q36.** Which energy is NOT ultimately from the Sun?
+
 1. Biomass 2. Nuclear 3. Wind 4. Geothermal
-Options: A. 1 and 3 B. **2 and 4** C. Only 1 D. 1, 2, 3 and 4
+
+A. 1 and 3
+
+B. **2 and 4**
+
+C. Only 1
+
+D. 1, 2, 3 and 4
 
 <details>
 <summary>Show answer</summary>
@@ -877,7 +1136,14 @@ Options: A. 1 and 3 B. **2 and 4** C. Only 1 D. 1, 2, 3 and 4
 ---
 
 **Q37.** Big Bang timescale is about:
-Options: A. 4.6 million years B. 4.6 billion (that is the **solar system**) C. **13.8 billion years** (universe) D. 2000 years
+
+A. 4.6 million years
+
+B. 4.6 billion (that is the **solar system**)
+
+C. **13.8 billion years** (universe)
+
+D. 2000 years
 
 <details>
 <summary>Show answer</summary>
@@ -888,7 +1154,14 @@ Options: A. 4.6 million years B. 4.6 billion (that is the **solar system**) C. *
 ---
 
 **Q38.** Correct order from the Sun:
-Options: A. Earth, Venus, Mercury B. **Mercury, Venus, Earth, Mars** C. Jupiter, Mars, Earth D. Neptune, Mercury, Earth
+
+A. Earth, Venus, Mercury
+
+B. **Mercury, Venus, Earth, Mars**
+
+C. Jupiter, Mars, Earth
+
+D. Neptune, Mercury, Earth
 
 <details>
 <summary>Show answer</summary>
@@ -899,7 +1172,14 @@ Options: A. Earth, Venus, Mercury B. **Mercury, Venus, Earth, Mars** C. Jupiter,
 ---
 
 **Q39.** Coriolis force is zero at the:
-Options: A. Poles B. **Equator** C. Tropic of Cancer only D. IDL
+
+A. Poles
+
+B. **Equator**
+
+C. Tropic of Cancer only
+
+D. IDL
 
 <details>
 <summary>Show answer</summary>
@@ -910,7 +1190,14 @@ Options: A. Poles B. **Equator** C. Tropic of Cancer only D. IDL
 ---
 
 **Q40.** Weather phenomena are confined to the:
-Options: A. Stratosphere B. **Troposphere** C. Exosphere D. Outer core
+
+A. Stratosphere
+
+B. **Troposphere**
+
+C. Exosphere
+
+D. Outer core
 
 <details>
 <summary>Show answer</summary>
@@ -921,7 +1208,14 @@ Options: A. Stratosphere B. **Troposphere** C. Exosphere D. Outer core
 ---
 
 **Q41.** East African Rift volcano:
-Options: A. Fuji B. Pinatubo C. **Kilimanjaro** D. Rainier
+
+A. Fuji
+
+B. Pinatubo
+
+C. **Kilimanjaro**
+
+D. Rainier
 
 <details>
 <summary>Show answer</summary>
@@ -932,7 +1226,14 @@ Options: A. Fuji B. Pinatubo C. **Kilimanjaro** D. Rainier
 ---
 
 **Q42.** Divergent plate boundary makes:
-Options: A. Himalaya collision B. **Mid-ocean ridge / rift** C. Only IDL D. Only ozone hole
+
+A. Himalaya collision
+
+B. **Mid-ocean ridge / rift**
+
+C. Only IDL
+
+D. Only ozone hole
 
 <details>
 <summary>Show answer</summary>
@@ -943,7 +1244,14 @@ Options: A. Himalaya collision B. **Mid-ocean ridge / rift** C. Only IDL D. Only
 ---
 
 **Q43.** India–Eurasia convergence produced:
-Options: A. Mid-Atlantic Ridge B. **Himalaya (fold)** C. Hawaiian shield only D. Sahara
+
+A. Mid-Atlantic Ridge
+
+B. **Himalaya (fold)**
+
+C. Hawaiian shield only
+
+D. Sahara
 
 <details>
 <summary>Show answer</summary>
@@ -954,7 +1262,14 @@ Options: A. Mid-Atlantic Ridge B. **Himalaya (fold)** C. Hawaiian shield only D.
 ---
 
 **Q44.** Leap year exists because revolution is about:
-Options: A. 24 hours B. **365¼ days** C. 23½ degrees D. 15° per hour
+
+A. 24 hours
+
+B. **365¼ days**
+
+C. 23½ degrees
+
+D. 15° per hour
 
 <details>
 <summary>Show answer</summary>
@@ -965,7 +1280,14 @@ Options: A. 24 hours B. **365¼ days** C. 23½ degrees D. 15° per hour
 ---
 
 **Q45.** Crossing the IDL westward you:
-Options: A. Repeat the day B. **Skip a calendar day** C. Gain 15° latitude D. Enter the core
+
+A. Repeat the day
+
+B. **Skip a calendar day**
+
+C. Gain 15° latitude
+
+D. Enter the core
 
 <details>
 <summary>Show answer</summary>
@@ -976,7 +1298,14 @@ Options: A. Repeat the day B. **Skip a calendar day** C. Gain 15° latitude D. E
 ---
 
 **Q46.** Polar easterlies blow from:
-Options: A. ITCZ to 30° B. **Polar high toward subpolar low** C. Only the stratosphere D. Only in El Niño years
+
+A. ITCZ to 30°
+
+B. **Polar high toward subpolar low**
+
+C. Only the stratosphere
+
+D. Only in El Niño years
 
 <details>
 <summary>Show answer</summary>
@@ -987,7 +1316,14 @@ Options: A. ITCZ to 30° B. **Polar high toward subpolar low** C. Only the strat
 ---
 
 **Q47.** Composite volcano example:
-Options: A. Mauna Loa B. **Mount Fuji / Etna** C. Deccan fissure only D. Kilimanjaro as Ring of Fire
+
+A. Mauna Loa
+
+B. **Mount Fuji / Etna**
+
+C. Deccan fissure only
+
+D. Kilimanjaro as Ring of Fire
 
 <details>
 <summary>Show answer</summary>
@@ -998,7 +1334,14 @@ Options: A. Mauna Loa B. **Mount Fuji / Etna** C. Deccan fissure only D. Kiliman
 ---
 
 **Q48.** Which is NOT correctly matched?
-Options: A. Montreal — ozone B. Kyoto — GHG/climate C. Fold mountain — Himalaya D. Jet stream — always easterly
+
+A. Montreal — ozone
+
+B. Kyoto — GHG/climate
+
+C. Fold mountain — Himalaya
+
+D. Jet stream — always easterly
 
 <details>
 <summary>Show answer</summary>
@@ -1009,7 +1352,14 @@ Options: A. Montreal — ozone B. Kyoto — GHG/climate C. Fold mountain — Him
 ---
 
 **Q49.** Tropic of Cancer value:
-Options: A. 0° B. **23½° N** C. 66½° N D. 82½° E
+
+A. 0°
+
+B. **23½° N**
+
+C. 66½° N
+
+D. 82½° E
 
 <details>
 <summary>Show answer</summary>
@@ -1021,7 +1371,14 @@ Options: A. 0° B. **23½° N** C. 66½° N D. 82½° E
 
 **Q50.** Assertion (A): S-waves are not recorded in the outer-core shadow.
 Reason (R): The outer core behaves as a liquid.
-Options: A. Both true, R explains A B. Both true, R not explanation C. A true R false D. A false R true
+
+A. Both true, R explains A
+
+B. Both true, R not explanation
+
+C. A true R false
+
+D. A false R true
 
 <details>
 <summary>Show answer</summary>
@@ -1032,7 +1389,14 @@ Options: A. Both true, R explains A B. Both true, R not explanation C. A true R 
 ---
 
 **Q51.** Which of the following (Theory — Propounder) is **not** correctly matched?
-Options: A. Nebular — Kant–Laplace B. Big Bang — Gamow C. Steady State — Hoyle D. Nebular — Wegener
+
+A. Nebular — Kant–Laplace
+
+B. Big Bang — Gamow
+
+C. Steady State — Hoyle
+
+D. Nebular — Wegener
 
 <details>
 <summary>Show answer</summary>
@@ -1043,7 +1407,14 @@ Options: A. Nebular — Kant–Laplace B. Big Bang — Gamow C. Steady State —
 ---
 
 **Q52.** Hottest planet in the solar system is:
-Options: A. Mercury B. **Venus** C. Mars D. Jupiter
+
+A. Mercury
+
+B. **Venus**
+
+C. Mars
+
+D. Jupiter
 
 <details>
 <summary>Show answer</summary>
@@ -1054,7 +1425,14 @@ Options: A. Mercury B. **Venus** C. Mars D. Jupiter
 ---
 
 **Q53.** Asteroid belt lies between:
-Options: A. Earth and Venus B. **Mars and Jupiter** C. Jupiter and Saturn D. Neptune and Pluto
+
+A. Earth and Venus
+
+B. **Mars and Jupiter**
+
+C. Jupiter and Saturn
+
+D. Neptune and Pluto
 
 <details>
 <summary>Show answer</summary>
@@ -1065,7 +1443,14 @@ Options: A. Earth and Venus B. **Mars and Jupiter** C. Jupiter and Saturn D. Nep
 ---
 
 **Q54.** Largest moon in the solar system is:
-Options: A. Titan B. Moon of Earth C. **Ganymede** D. Phobos
+
+A. Titan
+
+B. Moon of Earth
+
+C. **Ganymede**
+
+D. Phobos
 
 <details>
 <summary>Show answer</summary>
@@ -1076,7 +1461,14 @@ Options: A. Titan B. Moon of Earth C. **Ganymede** D. Phobos
 ---
 
 **Q55.** Solar eclipse can occur only at:
-Options: A. Full Moon B. **New Moon** C. Equinox only D. Perihelion only
+
+A. Full Moon
+
+B. **New Moon**
+
+C. Equinox only
+
+D. Perihelion only
 
 <details>
 <summary>Show answer</summary>
@@ -1087,7 +1479,14 @@ Options: A. Full Moon B. **New Moon** C. Equinox only D. Perihelion only
 ---
 
 **Q56.** Of 100 units of insolation, Earth’s surface absorbs about:
-Options: A. 100 B. 14 C. **51** D. 0
+
+A. 100
+
+B. 14
+
+C. **51**
+
+D. 0
 
 <details>
 <summary>Show answer</summary>
@@ -1098,7 +1497,14 @@ Options: A. 100 B. 14 C. **51** D. 0
 ---
 
 **Q57.** Roaring Forties are:
-Options: A. Trade winds at 40°N B. **Strong SH westerlies ~40°S** C. Polar easterlies D. ITCZ calms
+
+A. Trade winds at 40°N
+
+B. **Strong SH westerlies ~40°S**
+
+C. Polar easterlies
+
+D. ITCZ calms
 
 <details>
 <summary>Show answer</summary>
@@ -1109,7 +1515,14 @@ Options: A. Trade winds at 40°N B. **Strong SH westerlies ~40°S** C. Polar eas
 ---
 
 **Q58.** Horse latitudes correspond to:
-Options: A. ITCZ B. **~30° subtropical highs** C. 60° subpolar lows D. IDL
+
+A. ITCZ
+
+B. **~30° subtropical highs**
+
+C. 60° subpolar lows
+
+D. IDL
 
 <details>
 <summary>Show answer</summary>
@@ -1120,7 +1533,14 @@ Options: A. ITCZ B. **~30° subtropical highs** C. 60° subpolar lows D. IDL
 ---
 
 **Q59.** Sial is typical of:
-Options: A. Oceanic crust B. **Continental crust** C. Outer core D. Stratosphere
+
+A. Oceanic crust
+
+B. **Continental crust**
+
+C. Outer core
+
+D. Stratosphere
 
 <details>
 <summary>Show answer</summary>
@@ -1131,7 +1551,14 @@ Options: A. Oceanic crust B. **Continental crust** C. Outer core D. Stratosphere
 ---
 
 **Q60.** Gutenberg discontinuity lies near:
-Options: A. 8 km B. **2900 km** (mantle / outer core) C. Tropopause D. IDL
+
+A. 8 km
+
+B. **2900 km** (mantle / outer core)
+
+C. Tropopause
+
+D. IDL
 
 <details>
 <summary>Show answer</summary>
@@ -1142,7 +1569,14 @@ Options: A. 8 km B. **2900 km** (mantle / outer core) C. Tropopause D. IDL
 ---
 
 **Q61.** ‘Lighthouse of the Mediterranean’ is:
-Options: A. Fuji B. Kilimanjaro C. **Stromboli** D. Mauna Loa
+
+A. Fuji
+
+B. Kilimanjaro
+
+C. **Stromboli**
+
+D. Mauna Loa
 
 <details>
 <summary>Show answer</summary>
@@ -1153,7 +1587,14 @@ Options: A. Fuji B. Kilimanjaro C. **Stromboli** D. Mauna Loa
 ---
 
 **Q62.** India’s only active volcano is:
-Options: A. Vesuvius B. **Barren Island (Andaman)** C. Deccan Trap currently erupting D. Kilimanjaro
+
+A. Vesuvius
+
+B. **Barren Island (Andaman)**
+
+C. Deccan Trap currently erupting
+
+D. Kilimanjaro
 
 <details>
 <summary>Show answer</summary>
@@ -1164,7 +1605,14 @@ Options: A. Vesuvius B. **Barren Island (Andaman)** C. Deccan Trap currently eru
 ---
 
 **Q63.** Sea-floor spreading is associated with:
-Options: A. Kant B. Wegener only C. **Harry Hess** D. Hoyle
+
+A. Kant
+
+B. Wegener only
+
+C. **Harry Hess**
+
+D. Hoyle
 
 <details>
 <summary>Show answer</summary>
@@ -1175,7 +1623,14 @@ Options: A. Kant B. Wegener only C. **Harry Hess** D. Hoyle
 ---
 
 **Q64.** Which of the following (Belt — Example) is **not** correctly matched?
-Options: A. Ring of Fire — Fuji B. East African Rift — Kilimanjaro C. Mediterranean — Stromboli/Etna D. Ring of Fire — Kilimanjaro
+
+A. Ring of Fire — Fuji
+
+B. East African Rift — Kilimanjaro
+
+C. Mediterranean — Stromboli/Etna
+
+D. Ring of Fire — Kilimanjaro
 
 <details>
 <summary>Show answer</summary>
@@ -1186,7 +1641,14 @@ Options: A. Ring of Fire — Fuji B. East African Rift — Kilimanjaro C. Medite
 ---
 
 **Q65.** Pluto was reclassified as a dwarf planet in:
-Options: A. 1912 B. 1987 C. **2006 (IAU)** D. 2024
+
+A. 1912
+
+B. 1987
+
+C. **2006 (IAU)**
+
+D. 2024
 
 <details>
 <summary>Show answer</summary>
@@ -1204,9 +1666,17 @@ Options: A. 1912 B. 1987 C. **2006 (IAU)** D. 2024
 
 **Q1. UPPCS Prelims 2025, Q45**
 With reference to the ozone layer, which of the following statements is/are correct?
+
 1. The ozone layer protects the Earth's surface from ultraviolet radiation coming from the Sun.
 2. Ozone depletion has been linked to chlorofluorocarbons (CFCs).
-Options: A. Only 2 B. Neither 1 nor 2 C. Both 1 and 2 D. Only 1
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1219,7 +1689,14 @@ Options: A. Only 2 B. Neither 1 nor 2 C. Both 1 and 2 D. Only 1
 **Q2. UPPCS Prelims 2024, Q60**
 Assertion (A): Jet streams discovered during World War II are high altitude easterly winds.
 Reason (R): Jet streams flow with a speed of 300-500 km/hour.
-Options: A. Both true, R explains A B. (A) is false, but (R) is true C. Both true, R not explanation D. (A) is true, (R) is false
+
+A. Both true, R explains A
+
+B. (A) is false, but (R) is true
+
+C. Both true, R not explanation
+
+D. (A) is true, (R) is false
 
 <details>
 <summary>Show answer</summary>
@@ -1231,7 +1708,14 @@ Options: A. Both true, R explains A B. (A) is false, but (R) is true C. Both tru
 
 **Q3. UPPCS Prelims 2024, Q46**
 Which of the following missions was India's first mission to Mars?
-Options: A. Chandrayaan-1 B. Mangalyaan C. Aditya-L1 D. Astrosat
+
+A. Chandrayaan-1
+
+B. Mangalyaan
+
+C. Aditya-L1
+
+D. Astrosat
 
 <details>
 <summary>Show answer</summary>
@@ -1243,7 +1727,14 @@ Options: A. Chandrayaan-1 B. Mangalyaan C. Aditya-L1 D. Astrosat
 
 **Q4. UPPCS Prelims 2024, Q35**
 Which of the following international agreements is related to climate change mitigation?
-Options: A. Montreal Protocol B. Ramsar Convention C. Kyoto Protocol D. CITES
+
+A. Montreal Protocol
+
+B. Ramsar Convention
+
+C. Kyoto Protocol
+
+D. CITES
 
 <details>
 <summary>Show answer</summary>
@@ -1255,7 +1746,14 @@ Options: A. Montreal Protocol B. Ramsar Convention C. Kyoto Protocol D. CITES
 
 **Q5. UPPCS Prelims 2024, Q30**
 Which of the following volcanoes is not located in the Pacific Ring of Fire?
-Options: A. Mount Fuji B. Mount Pinatubo C. Mount Kilimanjaro D. Mount St. Helens
+
+A. Mount Fuji
+
+B. Mount Pinatubo
+
+C. Mount Kilimanjaro
+
+D. Mount St. Helens
 
 <details>
 <summary>Show answer</summary>
@@ -1267,9 +1765,17 @@ Options: A. Mount Fuji B. Mount Pinatubo C. Mount Kilimanjaro D. Mount St. Helen
 
 **Q6. UPPCS Prelims 2024, Q79**
 Consider the following statements with reference to Mediterranean climate:
+
 1. It receives rainfall in winter season.
 2. Due to winter solstice, air pressure belts shift to the south.
-Options: A. Only 2 B. Neither 1 nor 2 C. Only 1 D. Both 1 and 2
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Both 1 and 2
 
 <details>
 <summary>Show answer</summary>
@@ -1281,7 +1787,14 @@ Options: A. Only 2 B. Neither 1 nor 2 C. Only 1 D. Both 1 and 2
 
 **Q7. UPPCS Prelims 2023, Q68**
 What causes winds to deflect towards the left in the Southern Hemisphere?
-Options: A. Temperature B. Coriolis Force C. Magnetic Field D. Pressure
+
+A. Temperature
+
+B. Coriolis Force
+
+C. Magnetic Field
+
+D. Pressure
 
 <details>
 <summary>Show answer</summary>
@@ -1293,9 +1806,17 @@ Options: A. Temperature B. Coriolis Force C. Magnetic Field D. Pressure
 
 **Q8. UPPCS Prelims 2023, Q67**
 With reference to El Niño, which of the following statements is/are correct?
+
 1. El Niño involves the appearance of a warm current off the coast of Peru in the eastern Pacific.
 2. This warm current increases the temperature of water on the Peruvian coast by about 10°C, thereby increasing the amount of plankton in the sea.
-Options: A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1307,7 +1828,14 @@ Options: A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 **Q9. UPPCS Prelims 2023, Q52**
 The ozone layer, which absorbs ultraviolet radiation, exists in which layer of the atmosphere?
-Options: A. Troposphere B. Mesosphere C. Stratosphere D. Thermosphere
+
+A. Troposphere
+
+B. Mesosphere
+
+C. Stratosphere
+
+D. Thermosphere
 
 <details>
 <summary>Show answer</summary>
@@ -1319,7 +1847,14 @@ Options: A. Troposphere B. Mesosphere C. Stratosphere D. Thermosphere
 
 **Q10. UPPCS Prelims 2022, Q138**
 The Earth's atmosphere is mainly heated by which one of the following?
-Options: A. Long-wave terrestrial radiation B. Scattered solar radiation C. Reflected solar radiation D. Short-wave solar radiation
+
+A. Long-wave terrestrial radiation
+
+B. Scattered solar radiation
+
+C. Reflected solar radiation
+
+D. Short-wave solar radiation
 
 <details>
 <summary>Show answer</summary>
@@ -1331,7 +1866,14 @@ Options: A. Long-wave terrestrial radiation B. Scattered solar radiation C. Refl
 
 **Q11. UPPCS Prelims 2022, Q139**
 Most of the sources of energy we use represent stored solar energy. Which of the following is NOT ultimately derived from the Sun's energy?
-Options: A. Biomass energy B. Nuclear energy C. Wind energy D. Geothermal energy
+
+A. Biomass energy
+
+B. Nuclear energy
+
+C. Wind energy
+
+D. Geothermal energy
 
 <details>
 <summary>Show answer</summary>
@@ -1343,7 +1885,14 @@ Options: A. Biomass energy B. Nuclear energy C. Wind energy D. Geothermal energy
 
 **Q12. UPPCS Prelims 2022, Q105**
 The atmosphere of Saturn contains which one of the following gases in large quantity?
-Options: A. Sulphur dioxide B. Carbon monoxide C. Methane D. Nitrogen
+
+A. Sulphur dioxide
+
+B. Carbon monoxide
+
+C. Methane
+
+D. Nitrogen
 
 <details>
 <summary>Show answer</summary>
@@ -1355,7 +1904,14 @@ Options: A. Sulphur dioxide B. Carbon monoxide C. Methane D. Nitrogen
 
 **Q13. UPPCS Prelims 2022, Q102**
 Which of the following is NOT a greenhouse gas?
-Options: A. Argon B. Chlorofluorocarbon C. Methane D. Carbon dioxide
+
+A. Argon
+
+B. Chlorofluorocarbon
+
+C. Methane
+
+D. Carbon dioxide
 
 <details>
 <summary>Show answer</summary>
@@ -1367,11 +1923,19 @@ Options: A. Argon B. Chlorofluorocarbon C. Methane D. Carbon dioxide
 
 **Q14. UPPCS Prelims 2022, Q35**
 With reference to India, which of the following statements is/are correct?
+
 1. India is the sixth largest country in the world.
 2. India occupies about 2.4% of the total area of the world.
 3. The Tropic of Cancer passes through the middle of the country dividing it into two latitudinal halves.
 4. India lies completely in the tropical zone.
-Options: A. 2 and 3 B. 2 and 4 C. 3 and 4 D. 1 and 2
+
+A. 2 and 3
+
+B. 2 and 4
+
+C. 3 and 4
+
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
@@ -1384,7 +1948,14 @@ Options: A. 2 and 3 B. 2 and 4 C. 3 and 4 D. 1 and 2
 **Q15. UPPCS Prelims 2022, Q22**
 Assertion (A): Agra and Darjeeling are located on nearly the same latitude, but January temperature in Agra is about 16°C, whereas it is only 4°C in Darjeeling.
 Reason (R): Temperature decreases with height due to thinner air compared to places in the plains.
-Options: A. (A) false (R) true B. (A) true (R) false C. Both true, R not explanation D. Both true and R explains A
+
+A. (A) false (R) true
+
+B. (A) true (R) false
+
+C. Both true, R not explanation
+
+D. Both true and R explains A
 
 <details>
 <summary>Show answer</summary>
@@ -1396,7 +1967,14 @@ Options: A. (A) false (R) true B. (A) true (R) false C. Both true, R not explana
 
 **Q16. UPPCS Prelims 2021, Q125**
 The concept of 'carbon credit' originated from
-Options: A. Earth Summit, Rio-de-Janeiro B. Kyoto protocol C. Montreal protocol D. G-8 Summit, Heiligendum
+
+A. Earth Summit, Rio-de-Janeiro
+
+B. Kyoto protocol
+
+C. Montreal protocol
+
+D. G-8 Summit, Heiligendum
 
 <details>
 <summary>Show answer</summary>
@@ -1408,9 +1986,18 @@ Options: A. Earth Summit, Rio-de-Janeiro B. Kyoto protocol C. Montreal protocol 
 
 **Q17. UPPCS Prelims 2021, Q78**
 Match List-I (Volcanic Mountains) with List-II (Country):
+
 A. Mount Rainier B. Mount Etna C. Mount Pericutine D. Mount Apo
+
 1. Italy 2. Mexico 3. Philippines 4. U.S.A.
-Options: A. 4 2 1 3 B. 4 1 2 3 C. 2 1 4 3 D. 4 3 2 1
+
+A. 4 2 1 3
+
+B. 4 1 2 3
+
+C. 2 1 4 3
+
+D. 4 3 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -1422,7 +2009,14 @@ Options: A. 4 2 1 3 B. 4 1 2 3 C. 2 1 4 3 D. 4 3 2 1
 
 **Q18. UPPCS Prelims 2021, Q134**
 Diffusion of light in the atmosphere takes place due to
-Options: A. Carbon dioxide B. Dust particles C. Helium D. Water vapours
+
+A. Carbon dioxide
+
+B. Dust particles
+
+C. Helium
+
+D. Water vapours
 
 <details>
 <summary>Show answer</summary>
@@ -1434,7 +2028,14 @@ Options: A. Carbon dioxide B. Dust particles C. Helium D. Water vapours
 
 **Q19. UPPCS Prelims 2020, Q139**
 Which one of the following is NOT a green house gas found naturally in the atmosphere?
-Options: A. Nitrogen oxide B. Carbon dioxide C. Methane D. Ozone
+
+A. Nitrogen oxide
+
+B. Carbon dioxide
+
+C. Methane
+
+D. Ozone
 
 <details>
 <summary>Show answer</summary>
@@ -1446,7 +2047,14 @@ Options: A. Nitrogen oxide B. Carbon dioxide C. Methane D. Ozone
 
 **Q20. UPPCS Prelims 2019, Q132**
 Which of the following is NOT correctly matched?
-Options: A. Cartagena Protocol — Biosafety B. Stockholm Convention — Persistent organic pollutant C. Montreal Protocol — Ozone layer D. Kyoto Protocol — Save water
+
+A. Cartagena Protocol — Biosafety
+
+B. Stockholm Convention — Persistent organic pollutant
+
+C. Montreal Protocol — Ozone layer
+
+D. Kyoto Protocol — Save water
 
 <details>
 <summary>Show answer</summary>
@@ -1458,7 +2066,14 @@ Options: A. Cartagena Protocol — Biosafety B. Stockholm Convention — Persist
 
 **Q21. UPPCS Prelims 2018, Q57**
 Which of the following pairs is NOT correctly matched?
-Options: A. Renneting–Cheese B. Genetic Engineering–Plasmids C. Golden rice–Vitamin A D. Ozone layer–Troposphere
+
+A. Renneting–Cheese
+
+B. Genetic Engineering–Plasmids
+
+C. Golden rice–Vitamin A
+
+D. Ozone layer–Troposphere
 
 <details>
 <summary>Show answer</summary>
@@ -1470,7 +2085,14 @@ Options: A. Renneting–Cheese B. Genetic Engineering–Plasmids C. Golden rice�
 
 **Q22. UPPCS Prelims 2018, Q52**
 The maximum concentration of Ozone is found in which of the following?
-Options: A. Troposphere B. Mesosphere C. Stratosphere D. Exosphere
+
+A. Troposphere
+
+B. Mesosphere
+
+C. Stratosphere
+
+D. Exosphere
 
 <details>
 <summary>Show answer</summary>
@@ -1482,7 +2104,14 @@ Options: A. Troposphere B. Mesosphere C. Stratosphere D. Exosphere
 
 **Q23. UPPCS Prelims 2018, Q85**
 As per report released by U.S. Journal, 'SCIENCE' on 26th July, 2018, a massive underground lake has been detected on which planet?
-Options: A. Jupiter B. Saturn C. Venus D. Mars
+
+A. Jupiter
+
+B. Saturn
+
+C. Venus
+
+D. Mars
 
 <details>
 <summary>Show answer</summary>
@@ -1494,7 +2123,14 @@ Options: A. Jupiter B. Saturn C. Venus D. Mars
 
 **Q24. UPPCS Prelims 2018, Q140**
 Which of the following planets may be suitable for existence of life?
-Options: A. Mars B. Mercury C. Venus D. Jupitor
+
+A. Mars
+
+B. Mercury
+
+C. Venus
+
+D. Jupitor
 
 <details>
 <summary>Show answer</summary>
@@ -1506,7 +2142,14 @@ Options: A. Mars B. Mercury C. Venus D. Jupitor
 
 **Q25. UPPCS Prelims 2018, Q53**
 As a result of global warming the frequency and severity of which of the following are increasing?
-Options: A. Cyclones only B. Storms only C. Hurricanes only D. All of the above
+
+A. Cyclones only
+
+B. Storms only
+
+C. Hurricanes only
+
+D. All of the above
 
 <details>
 <summary>Show answer</summary>

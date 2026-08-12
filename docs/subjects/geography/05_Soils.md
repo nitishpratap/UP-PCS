@@ -171,7 +171,15 @@ Tarai moist nitrogen → South of Bhabar
 
 **Inline PYQ**
 **(UPPCS 2018, Q51)** Which of the following is concerned with soil?
-Options: A. Edaphic B. Climatic C. Biotic D. Topography
+
+A. Edaphic
+
+B. Climatic
+
+C. Biotic
+
+D. Topography
+
 **Ans: A**
 
 ---
@@ -306,11 +314,21 @@ Excess **exchangeable sodium**, typically **pH > 8.5**. Na **disperses clay** �
 
 **Inline PYQ**
 **(UPPCS 2023, Q51)** Which of the following statements is correct about Laterite Soil?
+
 1. Developed in areas with high temperature and heavy rainfall.
 2. It is poor in iron oxide and aluminium.
-Options: A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
 **Ans: A** — (2) false; laterite is **rich** in Fe/Al.
 **(UPPCS 2018, Q31)** Which statement is NOT correct?
+
 A. Black soil is locally called ‘regur’ B. According to Krabs the regur soil is essentially a mature soil C. Black soils are highly retentive to moisture D. Black soil is found in Himalayan region
 **Ans: D**
 
@@ -389,7 +407,15 @@ Ladder: **Sheet → Rill → Gully → Ravine**. Loss of A-horizon humus collaps
 
 **Inline PYQ**
 **(UPPCS 2020, Q81)** Where was the Mitti Bachao (Save the Soil) Movement started in India?
-Options: A. Thane, Maharashtra B. Mysore, Karnataka C. Darbhanga, Bihar D. Hoshangabad, Madhya Pradesh
+
+A. Thane, Maharashtra
+
+B. Mysore, Karnataka
+
+C. Darbhanga, Bihar
+
+D. Hoshangabad, Madhya Pradesh
+
 **Ans: D**
 
 ---
@@ -458,9 +484,17 @@ Options: A. Thane, Maharashtra B. Mysore, Karnataka C. Darbhanga, Bihar D. Hosha
 > **65 questions** covering all syllabus bullets + Peaty + **Soils of UP** local names + NCERT extras.
 
 **Q1.** Soil-forming factors:
+
 1. Parent material influences chemistry/colour.
 2. Steep slopes develop deeper soils than valleys.
-Options: A. 1 only B. 2 only C. Both D. Neither
+
+A. 1 only
+
+B. 2 only
+
+C. Both
+
+D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -469,7 +503,14 @@ Options: A. 1 only B. 2 only C. Both D. Neither
 </details>
 
 **Q2.** Which is concerned with soil?
-Options: A. Edaphic B. Climatic C. Biotic D. Topography
+
+A. Edaphic
+
+B. Climatic
+
+C. Biotic
+
+D. Topography
 
 <details>
 <summary>Show answer</summary>
@@ -478,7 +519,14 @@ Options: A. Edaphic B. Climatic C. Biotic D. Topography
 </details>
 
 **Q3.** A: A horizon is main topsoil. R: B horizon enriched by illuviation.
-Options: A. Both R explains B. Both R not explain C. A true R false D. A false R true
+
+A. Both R explains
+
+B. Both R not explain
+
+C. A true R false
+
+D. A false R true
 
 <details>
 <summary>Show answer</summary>
@@ -487,7 +535,14 @@ Options: A. Both R explains B. Both R not explain C. A true R false D. A false R
 </details>
 
 **Q4.** Match O,A,B,R to Organic, Topsoil, Illuvial, Bedrock
-Options: A. 2 3 4 1 B. 3 2 4 1 C. 2 4 3 1 D. 2 3 1 4
+
+A. 2 3 4 1
+
+B. 3 2 4 1
+
+C. 2 4 3 1
+
+D. 2 3 1 4
 
 <details>
 <summary>Show answer</summary>
@@ -496,7 +551,14 @@ Options: A. 2 3 4 1 B. 3 2 4 1 C. 2 4 3 1 D. 2 3 1 4
 </details>
 
 **Q5.** NOT matched?
-Options: A. Khadar-new B. Bangar-old C. Khadar-more kankar D. Bangar-coarser
+
+A. Khadar-new
+
+B. Bangar-old
+
+C. Khadar-more kankar
+
+D. Bangar-coarser
 
 <details>
 <summary>Show answer</summary>
@@ -505,7 +567,14 @@ Options: A. Khadar-new B. Bangar-old C. Khadar-more kankar D. Bangar-coarser
 </details>
 
 **Q6.** 1. Alluvial most widespread. 2. UP dominated by black regur.
-Options: A. 1 only B. 2 only C. Both D. Neither
+
+A. 1 only
+
+B. 2 only
+
+C. Both
+
+D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -514,7 +583,14 @@ Options: A. 1 only B. 2 only C. Both D. Neither
 </details>
 
 **Q7.** NOT correct?
-Options: A. Regur name B. Moisture retentive C. Mature soil D. Found in Himalaya
+
+A. Regur name
+
+B. Moisture retentive
+
+C. Mature soil
+
+D. Found in Himalaya
 
 <details>
 <summary>Show answer</summary>
@@ -523,7 +599,14 @@ Options: A. Regur name B. Moisture retentive C. Mature soil D. Found in Himalaya
 </details>
 
 **Q8.** Black soils ideal for:
-Options: A. Tea B. Cotton C. Jute D. Rubber
+
+A. Tea
+
+B. Cotton
+
+C. Jute
+
+D. Rubber
 
 <details>
 <summary>Show answer</summary>
@@ -532,7 +615,14 @@ Options: A. Tea B. Cotton C. Jute D. Rubber
 </details>
 
 **Q9.** Red soils: 1. Crystalline rocks 2. Fe oxides colour
-Options: A. 1 only B. 2 only C. Both D. Neither
+
+A. 1 only
+
+B. 2 only
+
+C. Both
+
+D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -541,7 +631,14 @@ Options: A. 1 only B. 2 only C. Both D. Neither
 </details>
 
 **Q10.** Laterite: 1. High T+heavy rain 2. Poor in Fe/Al
-Options: A. Only 1 B. Only 2 C. Both D. Neither
+
+A. Only 1
+
+B. Only 2
+
+C. Both
+
+D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -550,7 +647,14 @@ Options: A. Only 1 B. Only 2 C. Both D. Neither
 </details>
 
 **Q11.** Laterite crops:
-Options: A. Cotton only B. Cashew/tea/coffee C. Jute only D. Apple only
+
+A. Cotton only
+
+B. Cashew/tea/coffee
+
+C. Jute only
+
+D. Apple only
 
 <details>
 <summary>Show answer</summary>
@@ -559,7 +663,14 @@ Options: A. Cotton only B. Cashew/tea/coffee C. Jute only D. Apple only
 </details>
 
 **Q12.** Desert soils typical of:
-Options: A. W Rajasthan B. Kerala coast C. Sundarbans D. Meghalaya
+
+A. W Rajasthan
+
+B. Kerala coast
+
+C. Sundarbans
+
+D. Meghalaya
 
 <details>
 <summary>Show answer</summary>
@@ -568,7 +679,14 @@ Options: A. W Rajasthan B. Kerala coast C. Sundarbans D. Meghalaya
 </details>
 
 **Q13.** 1. Steep slopes thin soils 2. Himalaya main regur belt
-Options: A. 1 only B. 2 only C. Both D. Neither
+
+A. 1 only
+
+B. 2 only
+
+C. Both
+
+D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -577,7 +695,14 @@ Options: A. 1 only B. 2 only C. Both D. Neither
 </details>
 
 **Q14.** Reh crust means:
-Options: A. Laterite B. Saline soil C. Peat D. Red soil
+
+A. Laterite
+
+B. Saline soil
+
+C. Peat
+
+D. Red soil
 
 <details>
 <summary>Show answer</summary>
@@ -586,7 +711,14 @@ Options: A. Laterite B. Saline soil C. Peat D. Red soil
 </details>
 
 **Q15.** Usar soils are:
-Options: A. Acid forest B. Saline-alkaline C. Dunes D. Peat
+
+A. Acid forest
+
+B. Saline-alkaline
+
+C. Dunes
+
+D. Peat
 
 <details>
 <summary>Show answer</summary>
@@ -595,7 +727,14 @@ Options: A. Acid forest B. Saline-alkaline C. Dunes D. Peat
 </details>
 
 **Q16.** Match remedies: Acid→Lime; Alkaline→Gypsum; Saline→Leaching+drainage. Correct code if lists are A-Acid B-Alkaline C-Saline and 1-Gypsum 2-Lime 3-Leach?
-Options: A. 2 1 3 B. 1 2 3 C. 3 2 1 D. 2 3 1
+
+A. 2 1 3
+
+B. 1 2 3
+
+C. 3 2 1
+
+D. 2 3 1
 
 <details>
 <summary>Show answer</summary>
@@ -604,7 +743,14 @@ Options: A. 2 1 3 B. 1 2 3 C. 3 2 1 D. 2 3 1
 </details>
 
 **Q17.** A: Gypsum for sodic. R: Ca replaces Na.
-Options: A. Both R explains B. Both R not C. A true R false D. A false R true
+
+A. Both R explains
+
+B. Both R not
+
+C. A true R false
+
+D. A false R true
 
 <details>
 <summary>Show answer</summary>
@@ -613,7 +759,14 @@ Options: A. Both R explains B. Both R not C. A true R false D. A false R true
 </details>
 
 **Q18.** Holds most water:
-Options: A. Sand B. Clay C. Gravel D. Pebbles
+
+A. Sand
+
+B. Clay
+
+C. Gravel
+
+D. Pebbles
 
 <details>
 <summary>Show answer</summary>
@@ -622,7 +775,14 @@ Options: A. Sand B. Clay C. Gravel D. Pebbles
 </details>
 
 **Q19.** Loam preferred because:
-Options: A. Pure clay B. Balanced sand-silt-clay C. No pores D. Always saline
+
+A. Pure clay
+
+B. Balanced sand-silt-clay
+
+C. No pores
+
+D. Always saline
 
 <details>
 <summary>Show answer</summary>
@@ -631,7 +791,14 @@ Options: A. Pure clay B. Balanced sand-silt-clay C. No pores D. Always saline
 </details>
 
 **Q20.** Humus helps by:
-Options: A. Adding sand only B. Structure + nutrient holding C. Forcing alkali D. Removing Fe
+
+A. Adding sand only
+
+B. Structure + nutrient holding
+
+C. Forcing alkali
+
+D. Removing Fe
 
 <details>
 <summary>Show answer</summary>
@@ -640,7 +807,14 @@ Options: A. Adding sand only B. Structure + nutrient holding C. Forcing alkali D
 </details>
 
 **Q21.** Erosion order:
-Options: A. Ravine-Gully-Rill-Sheet B. Sheet-Rill-Gully-Ravine C. Gully-Sheet-Rill-Ravine D. Rill-Sheet-Ravine-Gully
+
+A. Ravine-Gully-Rill-Sheet
+
+B. Sheet-Rill-Gully-Ravine
+
+C. Gully-Sheet-Rill-Ravine
+
+D. Rill-Sheet-Ravine-Gully
 
 <details>
 <summary>Show answer</summary>
@@ -649,7 +823,14 @@ Options: A. Ravine-Gully-Rill-Sheet B. Sheet-Rill-Gully-Ravine C. Gully-Sheet-Ri
 </details>
 
 **Q22.** Chambal badlands:
-Options: A. Wind only B. Ravine/gully C. Laterisation D. Glacial
+
+A. Wind only
+
+B. Ravine/gully
+
+C. Laterisation
+
+D. Glacial
 
 <details>
 <summary>Show answer</summary>
@@ -658,7 +839,14 @@ Options: A. Wind only B. Ravine/gully C. Laterisation D. Glacial
 </details>
 
 **Q23.** Mitti Bachao started:
-Options: A. Thane B. Mysore C. Darbhanga D. Hoshangabad MP
+
+A. Thane
+
+B. Mysore
+
+C. Darbhanga
+
+D. Hoshangabad MP
 
 <details>
 <summary>Show answer</summary>
@@ -667,7 +855,14 @@ Options: A. Thane B. Mysore C. Darbhanga D. Hoshangabad MP
 </details>
 
 **Q24.** World Soil Day:
-Options: A. 5 June B. 22 April C. 5 December D. 16 Sep
+
+A. 5 June
+
+B. 22 April
+
+C. 5 December
+
+D. 16 Sep
 
 <details>
 <summary>Show answer</summary>
@@ -676,7 +871,14 @@ Options: A. 5 June B. 22 April C. 5 December D. 16 Sep
 </details>
 
 **Q25.** Day match code for Dec5=Soil Day (2022 style):
-Options: A. 4 3 2 1 B. 1 2 3 4 C. 2 4 1 3 D. 3 2 1 4
+
+A. 4 3 2 1
+
+B. 1 2 3 4
+
+C. 2 4 1 3
+
+D. 3 2 1 4
 
 <details>
 <summary>Show answer</summary>
@@ -685,7 +887,14 @@ Options: A. 4 3 2 1 B. 1 2 3 4 C. 2 4 1 3 D. 3 2 1 4
 </details>
 
 **Q26.** Shelter belts control:
-Options: A. Only gullies B. Wind erosion C. Laterite leach D. Tsunami
+
+A. Only gullies
+
+B. Wind erosion
+
+C. Laterite leach
+
+D. Tsunami
 
 <details>
 <summary>Show answer</summary>
@@ -694,7 +903,14 @@ Options: A. Only gullies B. Wind erosion C. Laterite leach D. Tsunami
 </details>
 
 **Q27.** Terracing for:
-Options: A. Flat playa B. Steep slopes C. Ocean trench D. Only dunes
+
+A. Flat playa
+
+B. Steep slopes
+
+C. Ocean trench
+
+D. Only dunes
 
 <details>
 <summary>Show answer</summary>
@@ -703,7 +919,14 @@ Options: A. Flat playa B. Steep slopes C. Ocean trench D. Only dunes
 </details>
 
 **Q28.** Contour ploughing:
-Options: A. Up-down slope B. Along contours C. Raises salinity always D. Removes clay
+
+A. Up-down slope
+
+B. Along contours
+
+C. Raises salinity always
+
+D. Removes clay
 
 <details>
 <summary>Show answer</summary>
@@ -712,7 +935,14 @@ Options: A. Up-down slope B. Along contours C. Raises salinity always D. Removes
 </details>
 
 **Q29.** Check dams:
-Options: A. Raise wind B. Stop gullies/trap silt C. Make laterite D. Remove humus
+
+A. Raise wind
+
+B. Stop gullies/trap silt
+
+C. Make laterite
+
+D. Remove humus
 
 <details>
 <summary>Show answer</summary>
@@ -721,7 +951,14 @@ Options: A. Raise wind B. Stop gullies/trap silt C. Make laterite D. Remove humu
 </details>
 
 **Q30.** Brazil Selva + Terra Roxa:
-Options: A. Only 2 B. Neither C. Both D. Only 1
+
+A. Only 2
+
+B. Neither
+
+C. Both
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -730,7 +967,14 @@ Options: A. Only 2 B. Neither C. Both D. Only 1
 </details>
 
 **Q31.** Peaty soils:
-Options: A. Arid dunes B. Waterlogged organics C. =desert D. Only Trap
+
+A. Arid dunes
+
+B. Waterlogged organics
+
+C. =desert
+
+D. Only Trap
 
 <details>
 <summary>Show answer</summary>
@@ -739,7 +983,14 @@ Options: A. Arid dunes B. Waterlogged organics C. =desert D. Only Trap
 </details>
 
 **Q32.** Self-ploughing soil:
-Options: A. Desert sand B. Black regur C. Peat D. Skeletal mountain
+
+A. Desert sand
+
+B. Black regur
+
+C. Peat
+
+D. Skeletal mountain
 
 <details>
 <summary>Show answer</summary>
@@ -748,7 +999,14 @@ Options: A. Desert sand B. Black regur C. Peat D. Skeletal mountain
 </details>
 
 **Q33.** Kankar typical of:
-Options: A. Khadar B. Bangar C. Peat D. Laterite brick
+
+A. Khadar
+
+B. Bangar
+
+C. Peat
+
+D. Laterite brick
 
 <details>
 <summary>Show answer</summary>
@@ -757,7 +1015,14 @@ Options: A. Khadar B. Bangar C. Peat D. Laterite brick
 </details>
 
 **Q34.** 1. pH affects nutrients 2. Cropping without OM mines nutrients
-Options: A. 1 only B. 2 only C. Both D. Neither
+
+A. 1 only
+
+B. 2 only
+
+C. Both
+
+D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -766,7 +1031,14 @@ Options: A. 1 only B. 2 only C. Both D. Neither
 </details>
 
 **Q35.** Strip cropping:
-Options: A. Concrete strips B. Alternate strips vs erosion C. Max sheet erosion D. Create usar
+
+A. Concrete strips
+
+B. Alternate strips vs erosion
+
+C. Max sheet erosion
+
+D. Create usar
 
 <details>
 <summary>Show answer</summary>
@@ -775,7 +1047,14 @@ Options: A. Concrete strips B. Alternate strips vs erosion C. Max sheet erosion 
 </details>
 
 **Q36.** Correct pair:
-Options: A. Black-Kerala peat B. Alluvial-Ganga plain C. Desert-Meghalaya D. Laterite-Thar
+
+A. Black-Kerala peat
+
+B. Alluvial-Ganga plain
+
+C. Desert-Meghalaya
+
+D. Laterite-Thar
 
 <details>
 <summary>Show answer</summary>
@@ -784,7 +1063,14 @@ Options: A. Black-Kerala peat B. Alluvial-Ganga plain C. Desert-Meghalaya D. Lat
 </details>
 
 **Q37.** A: Afforestation conserves soil. R: Cover reduces runoff.
-Options: A. Both R explains B. Both R not C. A true R false D. A false R true
+
+A. Both R explains
+
+B. Both R not
+
+C. A true R false
+
+D. A false R true
 
 <details>
 <summary>Show answer</summary>
@@ -793,7 +1079,14 @@ Options: A. Both R explains B. Both R not C. A true R false D. A false R true
 </details>
 
 **Q38.** Saline soils key issue:
-Options: A. pH<4 always B. Soluble salts C. Never in India D. =regur
+
+A. pH<4 always
+
+B. Soluble salts
+
+C. Never in India
+
+D. =regur
 
 <details>
 <summary>Show answer</summary>
@@ -802,7 +1095,14 @@ Options: A. pH<4 always B. Soluble salts C. Never in India D. =regur
 </details>
 
 **Q39.** Chemical method:
-Options: A. Bunding B. Terrace C. Gypsum D. Check dam
+
+A. Bunding
+
+B. Terrace
+
+C. Gypsum
+
+D. Check dam
 
 <details>
 <summary>Show answer</summary>
@@ -811,7 +1111,14 @@ Options: A. Bunding B. Terrace C. Gypsum D. Check dam
 </details>
 
 **Q40.** Red soils:
-Options: A. More humus than peat always B. Porous; often N/humus poor on uplands C. Only Ladakh D. Always like black clay
+
+A. More humus than peat always
+
+B. Porous; often N/humus poor on uplands
+
+C. Only Ladakh
+
+D. Always like black clay
 
 <details>
 <summary>Show answer</summary>
@@ -820,7 +1127,14 @@ Options: A. More humus than peat always B. Porous; often N/humus poor on uplands
 </details>
 
 **Q41.** NOT conservation:
-Options: A. Contour plough B. Shelter belt C. Up-down steep ploughing D. Cover crop
+
+A. Contour plough
+
+B. Shelter belt
+
+C. Up-down steep ploughing
+
+D. Cover crop
 
 <details>
 <summary>Show answer</summary>
@@ -829,7 +1143,14 @@ Options: A. Contour plough B. Shelter belt C. Up-down steep ploughing D. Cover c
 </details>
 
 **Q42.** Bangar is:
-Options: A. Newer B. Older alluvium + kankar C. Volcanic ash D. Always peat
+
+A. Newer
+
+B. Older alluvium + kankar
+
+C. Volcanic ash
+
+D. Always peat
 
 <details>
 <summary>Show answer</summary>
@@ -838,7 +1159,14 @@ Options: A. Newer B. Older alluvium + kankar C. Volcanic ash D. Always peat
 </details>
 
 **Q43.** Laterite used as:
-Options: A. Cotton B. Bricks C. Petroleum D. Rock salt
+
+A. Cotton
+
+B. Bricks
+
+C. Petroleum
+
+D. Rock salt
 
 <details>
 <summary>Show answer</summary>
@@ -847,7 +1175,14 @@ Options: A. Cotton B. Bricks C. Petroleum D. Rock salt
 </details>
 
 **Q44.** Wind erosion worst:
-Options: A. Dense forests B. W Rajasthan sands C. Mangroves D. Flooded khadar
+
+A. Dense forests
+
+B. W Rajasthan sands
+
+C. Mangroves
+
+D. Flooded khadar
 
 <details>
 <summary>Show answer</summary>
@@ -856,7 +1191,14 @@ Options: A. Dense forests B. W Rajasthan sands C. Mangroves D. Flooded khadar
 </details>
 
 **Q45.** NPK:
-Options: A. Ni Pd Kr B. N P K C. Ne P Kr D. Na P Kr
+
+A. Ni Pd Kr
+
+B. N P K
+
+C. Ne P Kr
+
+D. Na P Kr
 
 <details>
 <summary>Show answer</summary>
@@ -865,7 +1207,14 @@ Options: A. Ni Pd Kr B. N P K C. Ne P Kr D. Na P Kr
 </details>
 
 **Q46.** Black: 1. Moisture retentive 2. Himalaya snow belt
-Options: A. 1 only B. 2 only C. Both D. Neither
+
+A. 1 only
+
+B. 2 only
+
+C. Both
+
+D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -874,7 +1223,14 @@ Options: A. 1 only B. 2 only C. Both D. Neither
 </details>
 
 **Q47.** Canal irrigation sans drainage:
-Options: A. Instant laterite B. Waterlogging + usar C. Becomes regur D. Glacial till
+
+A. Instant laterite
+
+B. Waterlogging + usar
+
+C. Becomes regur
+
+D. Glacial till
 
 <details>
 <summary>Show answer</summary>
@@ -883,7 +1239,14 @@ Options: A. Instant laterite B. Waterlogging + usar C. Becomes regur D. Glacial 
 </details>
 
 **Q48.** Match: A.Black B.Desert C.Alluvial D.Laterite with 1.W Rajasthan 2.Deccan Trap 3.Hot wet Ghats 4.Ganga plain
-Options: A. 2 1 4 3 B. 1 2 3 4 C. 2 1 3 4 D. 4 1 2 3
+
+A. 2 1 4 3
+
+B. 1 2 3 4
+
+C. 2 1 3 4
+
+D. 4 1 2 3
 
 <details>
 <summary>Show answer</summary>
@@ -892,7 +1255,14 @@ Options: A. 2 1 4 3 B. 1 2 3 4 C. 2 1 3 4 D. 4 1 2 3
 </details>
 
 **Q49.** 1. Contour bunding holds soil 2. Shelter belts plug Chambal gullies
-Options: A. 1 only B. 2 only C. Both D. Neither
+
+A. 1 only
+
+B. 2 only
+
+C. Both
+
+D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -901,7 +1271,14 @@ Options: A. 1 only B. 2 only C. Both D. Neither
 </details>
 
 **Q50.** Pedogenesis:
-Options: A. Quake origin B. Soil formation C. River capture D. Ocean salinity
+
+A. Quake origin
+
+B. Soil formation
+
+C. River capture
+
+D. Ocean salinity
 
 <details>
 <summary>Show answer</summary>
@@ -910,7 +1287,14 @@ Options: A. Quake origin B. Soil formation C. River capture D. Ocean salinity
 </details>
 
 **Q51.** 'Bhur' soils in the western Gangetic plain are:
-Options: A. Black regur patches B. Sandy alluvial ridges C. Laterite uplands D. Peaty backwaters
+
+A. Black regur patches
+
+B. Sandy alluvial ridges
+
+C. Laterite uplands
+
+D. Peaty backwaters
 
 <details>
 <summary>Show answer</summary>
@@ -919,7 +1303,14 @@ Options: A. Black regur patches B. Sandy alluvial ridges C. Laterite uplands D. 
 </details>
 
 **Q52.** NCERT names saline infertile soils as:
-Options: A. Regur B. Usara C. Laterite D. Chernozem
+
+A. Regur
+
+B. Usara
+
+C. Laterite
+
+D. Chernozem
 
 <details>
 <summary>Show answer</summary>
@@ -928,7 +1319,14 @@ Options: A. Regur B. Usara C. Laterite D. Chernozem
 </details>
 
 **Q53.** For arid western Rajasthan, which is correctly emphasised in NCERT-style conservation?
-Options: A. Only deep Himalayan terracing B. Shelter belts and agro-forestry against sand dunes C. Laterite brick cutting as main land use D. Peat excavation
+
+A. Only deep Himalayan terracing
+
+B. Shelter belts and agro-forestry against sand dunes
+
+C. Laterite brick cutting as main land use
+
+D. Peat excavation
 
 <details>
 <summary>Show answer</summary>
@@ -937,7 +1335,14 @@ Options: A. Only deep Himalayan terracing B. Shelter belts and agro-forestry aga
 </details>
 
 **Q54.** Central Soil Conservation Board is associated with:
-Options: A. Only World Soil Day speeches B. Preparing soil conservation plans for India C. Building only multipurpose dams D. Declaring biosphere reserves
+
+A. Only World Soil Day speeches
+
+B. Preparing soil conservation plans for India
+
+C. Building only multipurpose dams
+
+D. Declaring biosphere reserves
 
 <details>
 <summary>Show answer</summary>
@@ -946,9 +1351,17 @@ Options: A. Only World Soil Day speeches B. Preparing soil conservation plans fo
 </details>
 
 **Q55.** Which statement about soil degradation is correct?
+
 1. Over-irrigation can cause salinisation even without dramatic sheet erosion.
 2. Soil degradation means only gully formation.
-Options: A. 1 only B. 2 only C. Both D. Neither
+
+A. 1 only
+
+B. 2 only
+
+C. Both
+
+D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -957,7 +1370,14 @@ Options: A. 1 only B. 2 only C. Both D. Neither
 </details>
 
 **Q56.** Which pair is correctly matched for Uttar Pradesh?
-Options: A. Mar — Bundelkhand red soil B. Kabar — Bundelkhand black soil C. Parua — saline usar D. Bhonta — Bhabar pebble soil
+
+A. Mar — Bundelkhand red soil
+
+B. Kabar — Bundelkhand black soil
+
+C. Parua — saline usar
+
+D. Bhonta — Bhabar pebble soil
 
 <details>
 <summary>Show answer</summary>
@@ -966,7 +1386,14 @@ Options: A. Mar — Bundelkhand red soil B. Kabar — Bundelkhand black soil C. 
 </details>
 
 **Q57.** Bhabar soils of UP are typically:
-Options: A. Deep, nitrogen-rich rice soils B. Shallow, pebbly foothill soils poor for crops C. Black cotton regur of Deccan type D. Peaty backwater soils of Kerala type
+
+A. Deep, nitrogen-rich rice soils
+
+B. Shallow, pebbly foothill soils poor for crops
+
+C. Black cotton regur of Deccan type
+
+D. Peaty backwater soils of Kerala type
 
 <details>
 <summary>Show answer</summary>
@@ -975,7 +1402,14 @@ Options: A. Deep, nitrogen-rich rice soils B. Shallow, pebbly foothill soils poo
 </details>
 
 **Q58.** Tarai soils of UP are known for:
-Options: A. Extreme aridity and bhur dunes only B. Moisture, nitrogen/organic richness, rice–wheat–sugarcane C. Laterite brick quarrying D. Being identical to Deccan Trap basalt soils
+
+A. Extreme aridity and bhur dunes only
+
+B. Moisture, nitrogen/organic richness, rice–wheat–sugarcane
+
+C. Laterite brick quarrying
+
+D. Being identical to Deccan Trap basalt soils
 
 <details>
 <summary>Show answer</summary>
@@ -984,7 +1418,14 @@ Options: A. Extreme aridity and bhur dunes only B. Moisture, nitrogen/organic ri
 </details>
 
 **Q59.** Rakar (pathari) soil in Bundelkhand is:
-Options: A. Fine black clay that waterlogs B. Coarse reddish soil of slopes, often poor for general crops C. New alluvium of Ganga khadar D. White reh crust of usar
+
+A. Fine black clay that waterlogs
+
+B. Coarse reddish soil of slopes, often poor for general crops
+
+C. New alluvium of Ganga khadar
+
+D. White reh crust of usar
 
 <details>
 <summary>Show answer</summary>
@@ -993,7 +1434,14 @@ Options: A. Fine black clay that waterlogs B. Coarse reddish soil of slopes, oft
 </details>
 
 **Q60.** Match: Mar, Parua, Bhonta, Reh → Black Bundelkhand, Red Bundelkhand, Vindhyan, Saline crust
-Options: A. 1-2-3-4 B. 2-1-3-4 C. 1-3-2-4 D. 1-2-4-3
+
+A. 1-2-3-4
+
+B. 2-1-3-4
+
+C. 1-3-2-4
+
+D. 1-2-4-3
 
 <details>
 <summary>Show answer</summary>
@@ -1002,7 +1450,14 @@ Options: A. 1-2-3-4 B. 2-1-3-4 C. 1-3-2-4 D. 1-2-4-3
 </details>
 
 **Q61.** Classic Chambal–Yamuna ravine districts in UP include:
-Options: A. Gorakhpur–Deoria–Ballia B. Agra–Etawah–Jalaun C. Saharanpur–Bijnor only D. Mirzapur–Sonbhadra only
+
+A. Gorakhpur–Deoria–Ballia
+
+B. Agra–Etawah–Jalaun
+
+C. Saharanpur–Bijnor only
+
+D. Mirzapur–Sonbhadra only
 
 <details>
 <summary>Show answer</summary>
@@ -1011,7 +1466,14 @@ Options: A. Gorakhpur–Deoria–Ballia B. Agra–Etawah–Jalaun C. Saharanpur�
 </details>
 
 **Q62.** Which statement about UP soils is NOT correct?
-Options: A. Alluvial soils dominate the plains B. Usar patches occur in canal-irrigated western–central tracts C. Entire state is covered by Deccan Trap black regur D. Vindhyan soils are often called Bhonta
+
+A. Alluvial soils dominate the plains
+
+B. Usar patches occur in canal-irrigated western–central tracts
+
+C. Entire state is covered by Deccan Trap black regur
+
+D. Vindhyan soils are often called Bhonta
 
 <details>
 <summary>Show answer</summary>
@@ -1020,7 +1482,14 @@ Options: A. Alluvial soils dominate the plains B. Usar patches occur in canal-ir
 </details>
 
 **Q63.** Peaty/marshy soils differ from black regur because they:
-Options: A. Form on Deccan Trap basalt B. Are organic accumulations of humid waterlogged tracts C. Are the main cotton soils of Maharashtra D. Always lack any organic matter
+
+A. Form on Deccan Trap basalt
+
+B. Are organic accumulations of humid waterlogged tracts
+
+C. Are the main cotton soils of Maharashtra
+
+D. Always lack any organic matter
 
 <details>
 <summary>Show answer</summary>
@@ -1029,9 +1498,17 @@ Options: A. Form on Deccan Trap basalt B. Are organic accumulations of humid wat
 </details>
 
 **Q64.** Earthworms and soil fertility:
+
 1. They increase fertility and are called friends of farmers.
 2. They have two pairs of hearts.
-Options: A. 1 only B. 2 only C. Both D. Neither
+
+A. 1 only
+
+B. 2 only
+
+C. Both
+
+D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -1040,7 +1517,14 @@ Options: A. 1 only B. 2 only C. Both D. Neither
 </details>
 
 **Q65.** Best first remedy package for UP usar/reh patches:
-Options: A. Terracing alone on flat usar B. Gypsum + drainage + organic matter C. More canal water without outlets D. Shelter belts only, no chemical amendment
+
+A. Terracing alone on flat usar
+
+B. Gypsum + drainage + organic matter
+
+C. More canal water without outlets
+
+D. Shelter belts only, no chemical amendment
 
 <details>
 <summary>Show answer</summary>
@@ -1054,9 +1538,17 @@ Options: A. Terracing alone on flat usar B. Gypsum + drainage + organic matter C
 
 **Q1. UPPCS Prelims 2025, Q63**
 With reference to Brazil, which of the following statements is/are correct?
+
 1. The equatorial rainforests of Brazil are called "Selva".
 2. The fertile dark-coloured soil found there is known as "Terra Roxa".
-Options: A. Only 2 B. Neither 1 nor 2 C. Both 1 and 2 D. Only 1
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1068,9 +1560,17 @@ Options: A. Only 2 B. Neither 1 nor 2 C. Both 1 and 2 D. Only 1
 
 **Q2. UPPCS Prelims 2025, Q73**
 With reference to earthworms, which of the following statements is/are correct?
+
 1. Earthworms increase soil fertility and are known as friends of farmers.
 2. Earthworms have two pairs of hearts.
-Options: A. Only 2 B. Neither 1 nor 2 C. Both 1 and 2 D. Only 1
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1082,9 +1582,17 @@ Options: A. Only 2 B. Neither 1 nor 2 C. Both 1 and 2 D. Only 1
 
 **Q3. UPPCS Prelims 2023, Q51**
 Which of the following statements is correct about Laterite Soil?
+
 1. This soil is developed in areas with high temperature and heavy rainfall.
 2. It is poor in iron oxide and aluminium.
-Options: A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1096,12 +1604,20 @@ Options: A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 **Q4. UPPCS Prelims 2022, Q25**
 Match List-I with List-II and select the correct answer from the code given below.
-**List-I (Day)** | **List-II (Event)**
-A. April 18 | 1. International Tiger Day
-B. May 22 | 2. World Heritage Day
-C. July 29 | 3. World Soil Day
-D. December 5 | 4. International Day of Biodiversity
-Options: A. 4, 3, 2, 1 B. 1, 2, 3, 4 C. 2, 4, 1, 3 D. 3, 2, 1, 4
+| List-I (Day) | List-II (Event) |
+|---|---|
+| A. April 18 | 1. International Tiger Day |
+| B. May 22 | 2. World Heritage Day |
+| C. July 29 | 3. World Soil Day |
+| D. December 5 | 4. International Day of Biodiversity |
+
+A. 4, 3, 2, 1
+
+B. 1, 2, 3, 4
+
+C. 2, 4, 1, 3
+
+D. 3, 2, 1, 4
 
 <details>
 <summary>Show answer</summary>
@@ -1113,7 +1629,14 @@ Options: A. 4, 3, 2, 1 B. 1, 2, 3, 4 C. 2, 4, 1, 3 D. 3, 2, 1, 4
 
 **Q5. UPPCS Prelims 2020, Q81**
 Where was the Mitti Bachao (Save the Soil) Movement started in India?
-Options: A. Thane, Maharashtra B. Mysore, Karnataka C. Darbhanga, Bihar D. Hoshangabad, Madhya Pradesh
+
+A. Thane, Maharashtra
+
+B. Mysore, Karnataka
+
+C. Darbhanga, Bihar
+
+D. Hoshangabad, Madhya Pradesh
 
 <details>
 <summary>Show answer</summary>
@@ -1125,7 +1648,14 @@ Options: A. Thane, Maharashtra B. Mysore, Karnataka C. Darbhanga, Bihar D. Hosha
 
 **Q6. UPPCS Prelims 2018, Q31**
 Which of the following statements is NOT correct?
-Options: A. Black soil is locally called 'regur' B. According to Krabs the regur soil is essentially a mature soil C. Black soils are highly retentive to moisture D. Black soil is found in Himalayan region
+
+A. Black soil is locally called 'regur'
+
+B. According to Krabs the regur soil is essentially a mature soil
+
+C. Black soils are highly retentive to moisture
+
+D. Black soil is found in Himalayan region
 
 <details>
 <summary>Show answer</summary>
@@ -1137,7 +1667,14 @@ Options: A. Black soil is locally called 'regur' B. According to Krabs the regur
 
 **Q7. UPPCS Prelims 2018, Q51**
 Which of the following is concerned with soil?
-Options: A. Edaphic B. Climatic C. Biotic D. Topography
+
+A. Edaphic
+
+B. Climatic
+
+C. Biotic
+
+D. Topography
 
 <details>
 <summary>Show answer</summary>

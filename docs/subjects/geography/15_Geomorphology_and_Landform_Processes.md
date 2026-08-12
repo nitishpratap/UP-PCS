@@ -428,7 +428,14 @@ Waves: **swash** up / **backwash** down. **Longshore drift** builds spits along 
 ## Practice Zone — 65 Questions (2025 Pattern Mix)
 
 **Q1.** Drainage pattern associated with **folded** structures is:
-Options: A. Radial B. Trellis C. Dendritic D. Rectangular
+
+A. Radial
+
+B. Trellis
+
+C. Dendritic
+
+D. Rectangular
 
 <details>
 <summary>Show answer</summary>
@@ -439,7 +446,14 @@ Options: A. Radial B. Trellis C. Dendritic D. Rectangular
 ---
 
 **Q2.** Bird’s-foot delta is classically at the mouth of the:
-Options: A. Huang Ho B. Nile C. Danube D. Mississippi
+
+A. Huang Ho
+
+B. Nile
+
+C. Danube
+
+D. Mississippi
 
 <details>
 <summary>Show answer</summary>
@@ -450,7 +464,14 @@ Options: A. Huang Ho B. Nile C. Danube D. Mississippi
 ---
 
 **Q3.** ‘Moribund Delta’ is a subdivision of the:
-Options: A. Krishna–Godavari B. Mahanadi C. Bengal D. Cauvery
+
+A. Krishna–Godavari
+
+B. Mahanadi
+
+C. Bengal
+
+D. Cauvery
 
 <details>
 <summary>Show answer</summary>
@@ -461,7 +482,14 @@ Options: A. Krishna–Godavari B. Mahanadi C. Bengal D. Cauvery
 ---
 
 **Q4.** Imphal Basin surrounded by Manipur hills is a:
-Options: A. Lacustrine plain B. Loess plain C. Glacial plain D. Alluvial plain (MCQ trap)
+
+A. Lacustrine plain
+
+B. Loess plain
+
+C. Glacial plain
+
+D. Alluvial plain (MCQ trap)
 
 <details>
 <summary>Show answer</summary>
@@ -472,7 +500,14 @@ Options: A. Lacustrine plain B. Loess plain C. Glacial plain D. Alluvial plain (
 ---
 
 **Q5.** Marble is metamorphosed:
-Options: A. Sandstone B. Granite C. **Limestone** D. Shale
+
+A. Sandstone
+
+B. Granite
+
+C. **Limestone**
+
+D. Shale
 
 <details>
 <summary>Show answer</summary>
@@ -483,7 +518,14 @@ Options: A. Sandstone B. Granite C. **Limestone** D. Shale
 ---
 
 **Q6.** Quartzite comes from:
-Options: A. Limestone B. **Sandstone** C. Basalt D. Shale
+
+A. Limestone
+
+B. **Sandstone**
+
+C. Basalt
+
+D. Shale
 
 <details>
 <summary>Show answer</summary>
@@ -494,7 +536,14 @@ Options: A. Limestone B. **Sandstone** C. Basalt D. Shale
 ---
 
 **Q7.** Granite typically metamorphoses to:
-Options: A. Marble B. **Gneiss** C. Slate D. Quartzite
+
+A. Marble
+
+B. **Gneiss**
+
+C. Slate
+
+D. Quartzite
 
 <details>
 <summary>Show answer</summary>
@@ -505,7 +554,14 @@ Options: A. Marble B. **Gneiss** C. Slate D. Quartzite
 ---
 
 **Q8.** Which is an **extrusive** igneous rock?
-Options: A. Granite B. Gabbro C. **Basalt** D. Gneiss
+
+A. Granite
+
+B. Gabbro
+
+C. **Basalt**
+
+D. Gneiss
 
 <details>
 <summary>Show answer</summary>
@@ -516,7 +572,14 @@ Options: A. Granite B. Gabbro C. **Basalt** D. Gneiss
 ---
 
 **Q9.** Weathering differs from erosion because weathering:
-Options: A. Always involves a river B. Is **in-situ** breakdown C. Is only glacial D. Means deposition
+
+A. Always involves a river
+
+B. Is **in-situ** breakdown
+
+C. Is only glacial
+
+D. Means deposition
 
 <details>
 <summary>Show answer</summary>
@@ -527,7 +590,14 @@ Options: A. Always involves a river B. Is **in-situ** breakdown C. Is only glaci
 ---
 
 **Q10.** Carbonation is most effective on:
-Options: A. Granite domes only B. **Limestone** C. Basalt only D. Ice
+
+A. Granite domes only
+
+B. **Limestone**
+
+C. Basalt only
+
+D. Ice
 
 <details>
 <summary>Show answer</summary>
@@ -538,7 +608,14 @@ Options: A. Granite domes only B. **Limestone** C. Basalt only D. Ice
 ---
 
 **Q11.** Ox-bow lakes form in the river’s:
-Options: A. Youth gorge B. **Old-age floodplain** (cut-off meander) C. Cirque D. Barchan field
+
+A. Youth gorge
+
+B. **Old-age floodplain** (cut-off meander)
+
+C. Cirque
+
+D. Barchan field
 
 <details>
 <summary>Show answer</summary>
@@ -549,7 +626,14 @@ Options: A. Youth gorge B. **Old-age floodplain** (cut-off meander) C. Cirque D.
 ---
 
 **Q12.** Natural levees are:
-Options: A. Glacial moraines B. **Raised silt banks along a channel** C. Coral atolls D. Yardangs
+
+A. Glacial moraines
+
+B. **Raised silt banks along a channel**
+
+C. Coral atolls
+
+D. Yardangs
 
 <details>
 <summary>Show answer</summary>
@@ -560,7 +644,14 @@ Options: A. Glacial moraines B. **Raised silt banks along a channel** C. Coral a
 ---
 
 **Q13.** Ganga–Brahmaputra delta type is:
-Options: A. Bird’s-foot B. **Arcuate** C. Moribund Cauvery type only D. Cuspate Tiber type only
+
+A. Bird’s-foot
+
+B. **Arcuate**
+
+C. Moribund Cauvery type only
+
+D. Cuspate Tiber type only
 
 <details>
 <summary>Show answer</summary>
@@ -571,7 +662,14 @@ Options: A. Bird’s-foot B. **Arcuate** C. Moribund Cauvery type only D. Cuspat
 ---
 
 **Q14.** Nile delta is typically classed as:
-Options: A. Bird’s-foot B. **Arcuate** C. Fjord D. Seif
+
+A. Bird’s-foot
+
+B. **Arcuate**
+
+C. Fjord
+
+D. Seif
 
 <details>
 <summary>Show answer</summary>
@@ -582,9 +680,17 @@ Options: A. Bird’s-foot B. **Arcuate** C. Fjord D. Seif
 ---
 
 **Q15.** With reference to Mekong:
+
 1. Rises in the Tibetan Plateau.
 2. Delta is in southern Cambodia.
-Options: A. Only 1 B. Only 2 C. Both D. Neither
+
+A. Only 1
+
+B. Only 2
+
+C. Both
+
+D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -595,7 +701,14 @@ Options: A. Only 1 B. Only 2 C. Both D. Neither
 ---
 
 **Q16.** U-shaped valley indicates:
-Options: A. Youthful river B. **Glacier** C. Wind D. Karst only
+
+A. Youthful river
+
+B. **Glacier**
+
+C. Wind
+
+D. Karst only
 
 <details>
 <summary>Show answer</summary>
@@ -606,7 +719,14 @@ Options: A. Youthful river B. **Glacier** C. Wind D. Karst only
 ---
 
 **Q17.** A fjord is:
-Options: A. A barchan B. **A drowned glacial trough** C. A stalagmite D. A trellis stream
+
+A. A barchan
+
+B. **A drowned glacial trough**
+
+C. A stalagmite
+
+D. A trellis stream
 
 <details>
 <summary>Show answer</summary>
@@ -617,7 +737,14 @@ Options: A. A barchan B. **A drowned glacial trough** C. A stalagmite D. A trell
 ---
 
 **Q18.** Barchan horns point:
-Options: A. Upwind B. **Downwind** C. Always north D. Toward the cirque
+
+A. Upwind
+
+B. **Downwind**
+
+C. Always north
+
+D. Toward the cirque
 
 <details>
 <summary>Show answer</summary>
@@ -628,7 +755,14 @@ Options: A. Upwind B. **Downwind** C. Always north D. Toward the cirque
 ---
 
 **Q19.** Loess is:
-Options: A. Glacial till only B. **Wind-laid silt** C. Coral sand D. Extrusive lava
+
+A. Glacial till only
+
+B. **Wind-laid silt**
+
+C. Coral sand
+
+D. Extrusive lava
 
 <details>
 <summary>Show answer</summary>
@@ -639,7 +773,14 @@ Options: A. Glacial till only B. **Wind-laid silt** C. Coral sand D. Extrusive l
 ---
 
 **Q20.** Stalactites hang from the:
-Options: A. Floor B. **Cave ceiling** C. Moraine D. Spit
+
+A. Floor
+
+B. **Cave ceiling**
+
+C. Moraine
+
+D. Spit
 
 <details>
 <summary>Show answer</summary>
@@ -650,7 +791,14 @@ Options: A. Floor B. **Cave ceiling** C. Moraine D. Spit
 ---
 
 **Q21.** A tombolo:
-Options: A. Is a cirque lake B. **Joins an island to the mainland** C. Is a fold mountain D. Is a drumlin
+
+A. Is a cirque lake
+
+B. **Joins an island to the mainland**
+
+C. Is a fold mountain
+
+D. Is a drumlin
 
 <details>
 <summary>Show answer</summary>
@@ -661,7 +809,14 @@ Options: A. Is a cirque lake B. **Joins an island to the mainland** C. Is a fold
 ---
 
 **Q22.** Dendritic drainage develops on:
-Options: A. Tight folds only B. **Homogeneous rock** C. Only ice sheets D. Only limestone caves
+
+A. Tight folds only
+
+B. **Homogeneous rock**
+
+C. Only ice sheets
+
+D. Only limestone caves
 
 <details>
 <summary>Show answer</summary>
@@ -672,7 +827,14 @@ Options: A. Tight folds only B. **Homogeneous rock** C. Only ice sheets D. Only 
 ---
 
 **Q23.** Rectangular drainage is controlled by:
-Options: A. ITCZ B. **Joints / faults** C. Coral growth D. Barchans
+
+A. ITCZ
+
+B. **Joints / faults**
+
+C. Coral growth
+
+D. Barchans
 
 <details>
 <summary>Show answer</summary>
@@ -683,7 +845,14 @@ Options: A. ITCZ B. **Joints / faults** C. Coral growth D. Barchans
 ---
 
 **Q24.** Radial drainage is typical of:
-Options: A. Fold belts B. **Domes / volcanic cones** C. Loess plateaux only D. Fjords
+
+A. Fold belts
+
+B. **Domes / volcanic cones**
+
+C. Loess plateaux only
+
+D. Fjords
 
 <details>
 <summary>Show answer</summary>
@@ -694,7 +863,14 @@ Options: A. Fold belts B. **Domes / volcanic cones** C. Loess plateaux only D. F
 ---
 
 **Q25.** Rejuvenation of a river produces:
-Options: A. Only barchans B. **Knickpoints, terraces, incised meanders** C. Only atolls D. Only drumlins
+
+A. Only barchans
+
+B. **Knickpoints, terraces, incised meanders**
+
+C. Only atolls
+
+D. Only drumlins
 
 <details>
 <summary>Show answer</summary>
@@ -705,7 +881,14 @@ Options: A. Only barchans B. **Knickpoints, terraces, incised meanders** C. Only
 ---
 
 **Q26.** Alluvial fans form:
-Options: A. At deep-sea trenches B. **At the foot of mountains** C. Only on ice caps D. In the stratosphere
+
+A. At deep-sea trenches
+
+B. **At the foot of mountains**
+
+C. Only on ice caps
+
+D. In the stratosphere
 
 <details>
 <summary>Show answer</summary>
@@ -716,7 +899,14 @@ Options: A. At deep-sea trenches B. **At the foot of mountains** C. Only on ice 
 ---
 
 **Q27.** Hanging valleys are products of:
-Options: A. Wind B. **Glaciers** C. Coral D. Trellis folds only
+
+A. Wind
+
+B. **Glaciers**
+
+C. Coral
+
+D. Trellis folds only
 
 <details>
 <summary>Show answer</summary>
@@ -727,7 +917,14 @@ Options: A. Wind B. **Glaciers** C. Coral D. Trellis folds only
 ---
 
 **Q28.** Drumlins are:
-Options: A. Wind dunes B. **Streamlined glacial till mounds** C. Coral rings D. Ox-bows
+
+A. Wind dunes
+
+B. **Streamlined glacial till mounds**
+
+C. Coral rings
+
+D. Ox-bows
 
 <details>
 <summary>Show answer</summary>
@@ -738,7 +935,14 @@ Options: A. Wind dunes B. **Streamlined glacial till mounds** C. Coral rings D. 
 ---
 
 **Q29.** Eskers are deposited by:
-Options: A. Trade winds B. **Subglacial meltwater streams** C. Tsunamis only D. ITCZ
+
+A. Trade winds
+
+B. **Subglacial meltwater streams**
+
+C. Tsunamis only
+
+D. ITCZ
 
 <details>
 <summary>Show answer</summary>
@@ -749,7 +953,14 @@ Options: A. Trade winds B. **Subglacial meltwater streams** C. Tsunamis only D. 
 ---
 
 **Q30.** Yardangs are:
-Options: A. Fluvial levees B. **Wind-eroded ridges** C. Stalagmites D. Moraines
+
+A. Fluvial levees
+
+B. **Wind-eroded ridges**
+
+C. Stalagmites
+
+D. Moraines
 
 <details>
 <summary>Show answer</summary>
@@ -760,7 +971,14 @@ Options: A. Fluvial levees B. **Wind-eroded ridges** C. Stalagmites D. Moraines
 ---
 
 **Q31.** Exfoliation is typical on:
-Options: A. Limestone caves B. **Granite / massive igneous** C. Icebergs D. Atolls
+
+A. Limestone caves
+
+B. **Granite / massive igneous**
+
+C. Icebergs
+
+D. Atolls
 
 <details>
 <summary>Show answer</summary>
@@ -771,7 +989,14 @@ Options: A. Limestone caves B. **Granite / massive igneous** C. Icebergs D. Atol
 ---
 
 **Q32.** Potholes in a river bed are features of:
-Options: A. Old-age delta B. **Youthful / turbulent channel** C. Barchan D. Fjord mouth only
+
+A. Old-age delta
+
+B. **Youthful / turbulent channel**
+
+C. Barchan
+
+D. Fjord mouth only
 
 <details>
 <summary>Show answer</summary>
@@ -782,7 +1007,14 @@ Options: A. Old-age delta B. **Youthful / turbulent channel** C. Barchan D. Fjor
 ---
 
 **Q33.** West-flowing Narmada and Tapi occupy:
-Options: A. Himalayan folds B. **Rift / fault valleys** C. Coral lagoons D. Cirques
+
+A. Himalayan folds
+
+B. **Rift / fault valleys**
+
+C. Coral lagoons
+
+D. Cirques
 
 <details>
 <summary>Show answer</summary>
@@ -793,7 +1025,14 @@ Options: A. Himalayan folds B. **Rift / fault valleys** C. Coral lagoons D. Cirq
 ---
 
 **Q34.** East coast of India favours deltas because of:
-Options: A. Narrow shelf + huge waves only B. **Broader shelf + lower wave energy** C. Only glaciers D. Only loess
+
+A. Narrow shelf + huge waves only
+
+B. **Broader shelf + lower wave energy**
+
+C. Only glaciers
+
+D. Only loess
 
 <details>
 <summary>Show answer</summary>
@@ -804,7 +1043,14 @@ Options: A. Narrow shelf + huge waves only B. **Broader shelf + lower wave energ
 ---
 
 **Q35.** Shale metamorphoses first toward:
-Options: A. Marble B. **Slate** C. Quartzite D. Basalt
+
+A. Marble
+
+B. **Slate**
+
+C. Quartzite
+
+D. Basalt
 
 <details>
 <summary>Show answer</summary>
@@ -815,7 +1061,14 @@ Options: A. Marble B. **Slate** C. Quartzite D. Basalt
 ---
 
 **Q36.** Fossils are expected mainly in:
-Options: A. Granite B. Basalt C. **Sedimentary rocks** D. Fresh obsidian
+
+A. Granite
+
+B. Basalt
+
+C. **Sedimentary rocks**
+
+D. Fresh obsidian
 
 <details>
 <summary>Show answer</summary>
@@ -826,7 +1079,14 @@ Options: A. Granite B. Basalt C. **Sedimentary rocks** D. Fresh obsidian
 ---
 
 **Q37.** Cirque lake is a:
-Options: A. Ox-bow B. **Tarn** C. Lagoon D. Playa only
+
+A. Ox-bow
+
+B. **Tarn**
+
+C. Lagoon
+
+D. Playa only
 
 <details>
 <summary>Show answer</summary>
@@ -837,7 +1097,14 @@ Options: A. Ox-bow B. **Tarn** C. Lagoon D. Playa only
 ---
 
 **Q38.** A spit is attached at:
-Options: A. Both ends to two continents B. **One end to the coast** C. Only to a glacier D. Only to a barchan
+
+A. Both ends to two continents
+
+B. **One end to the coast**
+
+C. Only to a glacier
+
+D. Only to a barchan
 
 <details>
 <summary>Show answer</summary>
@@ -848,7 +1115,14 @@ Options: A. Both ends to two continents B. **One end to the coast** C. Only to a
 ---
 
 **Q39.** Darwin’s coral sequence is:
-Options: A. Atoll → barrier → fringing B. **Fringing → barrier → atoll** C. Stack → spit → cirque D. Gneiss → granite → magma only
+
+A. Atoll → barrier → fringing
+
+B. **Fringing → barrier → atoll**
+
+C. Stack → spit → cirque
+
+D. Gneiss → granite → magma only
 
 <details>
 <summary>Show answer</summary>
@@ -859,7 +1133,14 @@ Options: A. Atoll → barrier → fringing B. **Fringing → barrier → atoll**
 ---
 
 **Q40.** Which pair is NOT correctly matched?
-Options: A. Mississippi — bird’s-foot B. Cauvery — moribund C. Imphal — lacustrine D. Ganga — bird’s-foot
+
+A. Mississippi — bird’s-foot
+
+B. Cauvery — moribund
+
+C. Imphal — lacustrine
+
+D. Ganga — bird’s-foot
 
 <details>
 <summary>Show answer</summary>
@@ -870,7 +1151,14 @@ Options: A. Mississippi — bird’s-foot B. Cauvery — moribund C. Imphal — 
 ---
 
 **Q41.** Seif dunes are:
-Options: A. Crescent barchans B. **Longitudinal, parallel to wind** C. Glacial eskers D. Stalactites
+
+A. Crescent barchans
+
+B. **Longitudinal, parallel to wind**
+
+C. Glacial eskers
+
+D. Stalactites
 
 <details>
 <summary>Show answer</summary>
@@ -881,7 +1169,14 @@ Options: A. Crescent barchans B. **Longitudinal, parallel to wind** C. Glacial e
 ---
 
 **Q42.** Terminal moraine marks:
-Options: A. The ITCZ B. **Maximum former ice stand** C. A spit D. A trellis junction
+
+A. The ITCZ
+
+B. **Maximum former ice stand**
+
+C. A spit
+
+D. A trellis junction
 
 <details>
 <summary>Show answer</summary>
@@ -892,7 +1187,14 @@ Options: A. The ITCZ B. **Maximum former ice stand** C. A spit D. A trellis junc
 ---
 
 **Q43.** Chemical weathering is fastest in:
-Options: A. Hot dry desert nights only B. **Hot wet tropics** C. Polar ice caps D. The stratosphere
+
+A. Hot dry desert nights only
+
+B. **Hot wet tropics**
+
+C. Polar ice caps
+
+D. The stratosphere
 
 <details>
 <summary>Show answer</summary>
@@ -904,7 +1206,14 @@ Options: A. Hot dry desert nights only B. **Hot wet tropics** C. Polar ice caps 
 
 **Q44.** Assertion (A): Trellis drainage is common in folded terrain.
 Reason (R): Alternate hard and soft beds guide subsequent streams in valleys.
-Options: A. Both true, R explains A B. Both true, R not explanation C. A true R false D. A false R true
+
+A. Both true, R explains A
+
+B. Both true, R not explanation
+
+C. A true R false
+
+D. A false R true
 
 <details>
 <summary>Show answer</summary>
@@ -915,7 +1224,14 @@ Options: A. Both true, R explains A B. Both true, R not explanation C. A true R 
 ---
 
 **Q45.** Incised meanders imply:
-Options: A. Only wind work B. **Rejuvenation / uplift** C. Only coral growth D. Only loess
+
+A. Only wind work
+
+B. **Rejuvenation / uplift**
+
+C. Only coral growth
+
+D. Only loess
 
 <details>
 <summary>Show answer</summary>
@@ -926,7 +1242,14 @@ Options: A. Only wind work B. **Rejuvenation / uplift** C. Only coral growth D. 
 ---
 
 **Q46.** Stacks are leftover of:
-Options: A. Barchans B. **Coastal arches collapsing** C. Drumlins D. Gneiss melting
+
+A. Barchans
+
+B. **Coastal arches collapsing**
+
+C. Drumlins
+
+D. Gneiss melting
 
 <details>
 <summary>Show answer</summary>
@@ -937,7 +1260,14 @@ Options: A. Barchans B. **Coastal arches collapsing** C. Drumlins D. Gneiss melt
 ---
 
 **Q47.** Playas are:
-Options: A. Alpine horns B. **Desert interior basins / dry lake flats** C. Bird’s-foot toes D. Ox-bows of Ganga only
+
+A. Alpine horns
+
+B. **Desert interior basins / dry lake flats**
+
+C. Bird’s-foot toes
+
+D. Ox-bows of Ganga only
 
 <details>
 <summary>Show answer</summary>
@@ -948,7 +1278,14 @@ Options: A. Alpine horns B. **Desert interior basins / dry lake flats** C. Bird�
 ---
 
 **Q48.** Greater Himalaya sedimentary rocks in the 2019 framing were:
-Options: A. Rich in marine fossils like Lesser Himalaya B. **Fossil-poor / fossil-less** C. The same as Shiwalik conglomerates D. Loess
+
+A. Rich in marine fossils like Lesser Himalaya
+
+B. **Fossil-poor / fossil-less**
+
+C. The same as Shiwalik conglomerates
+
+D. Loess
 
 <details>
 <summary>Show answer</summary>
@@ -959,7 +1296,14 @@ Options: A. Rich in marine fossils like Lesser Himalaya B. **Fossil-poor / fossi
 ---
 
 **Q49.** Which agent dominates mushroom/pedestal rocks in deserts?
-Options: A. Glacier plucking B. **Wind abrasion** C. Coral D. Meander cutoff
+
+A. Glacier plucking
+
+B. **Wind abrasion**
+
+C. Coral
+
+D. Meander cutoff
 
 <details>
 <summary>Show answer</summary>
@@ -970,7 +1314,14 @@ Options: A. Glacier plucking B. **Wind abrasion** C. Coral D. Meander cutoff
 ---
 
 **Q50.** Karst topography requires mainly:
-Options: A. Basalt + ice B. **Limestone + carbonation** C. Granite + barchans D. Gneiss + fjords
+
+A. Basalt + ice
+
+B. **Limestone + carbonation**
+
+C. Granite + barchans
+
+D. Gneiss + fjords
 
 <details>
 <summary>Show answer</summary>
@@ -981,7 +1332,14 @@ Options: A. Basalt + ice B. **Limestone + carbonation** C. Granite + barchans D.
 ---
 
 **Q51.** Which river is famous for **fault valley drainage** in the UPPCS framing?
-Options: A. Chambal B. **Damodar** C. Gandak D. Ramganga
+
+A. Chambal
+
+B. **Damodar**
+
+C. Gandak
+
+D. Ramganga
 
 <details>
 <summary>Show answer</summary>
@@ -992,7 +1350,14 @@ Options: A. Chambal B. **Damodar** C. Gandak D. Ramganga
 ---
 
 **Q52.** A **sill** is an igneous sheet that:
-Options: A. Always cuts bedding B. Lies **parallel to bedding** C. Is always a granite batholith D. Is a barchan
+
+A. Always cuts bedding
+
+B. Lies **parallel to bedding**
+
+C. Is always a granite batholith
+
+D. Is a barchan
 
 <details>
 <summary>Show answer</summary>
@@ -1003,7 +1368,14 @@ Options: A. Always cuts bedding B. Lies **parallel to bedding** C. Is always a g
 ---
 
 **Q53.** A **dyke** is:
-Options: A. Concordant with beds B. **Discordant — cuts the beds** C. A spit D. A moraine
+
+A. Concordant with beds
+
+B. **Discordant — cuts the beds**
+
+C. A spit
+
+D. A moraine
 
 <details>
 <summary>Show answer</summary>
@@ -1014,7 +1386,14 @@ Options: A. Concordant with beds B. **Discordant — cuts the beds** C. A spit D
 ---
 
 **Q54.** Conglomerate differs from breccia because conglomerate pebbles are:
-Options: A. Angular B. **Rounded** C. Always limestone D. Always glassy
+
+A. Angular
+
+B. **Rounded**
+
+C. Always limestone
+
+D. Always glassy
 
 <details>
 <summary>Show answer</summary>
@@ -1025,7 +1404,14 @@ Options: A. Angular B. **Rounded** C. Always limestone D. Always glassy
 ---
 
 **Q55.** On a meander, the **point bar** grows on the:
-Options: A. Concave cut bank B. **Convex inner bank** C. Cirque floor D. Stack top
+
+A. Concave cut bank
+
+B. **Convex inner bank**
+
+C. Cirque floor
+
+D. Stack top
 
 <details>
 <summary>Show answer</summary>
@@ -1036,7 +1422,14 @@ Options: A. Concave cut bank B. **Convex inner bank** C. Cirque floor D. Stack t
 ---
 
 **Q56.** A **yazoo** stream:
-Options: A. Is a glacial esker B. **Runs parallel behind a levee and joins downstream** C. Is a bird’s-foot toe D. Is a sill
+
+A. Is a glacial esker
+
+B. **Runs parallel behind a levee and joins downstream**
+
+C. Is a bird’s-foot toe
+
+D. Is a sill
 
 <details>
 <summary>Show answer</summary>
@@ -1047,7 +1440,14 @@ Options: A. Is a glacial esker B. **Runs parallel behind a levee and joins downs
 ---
 
 **Q57.** Davis’s end-product of humid old age is a:
-Options: A. Fjord B. **Peneplain** (leftovers = monadnocks) C. Atoll D. Barchan
+
+A. Fjord
+
+B. **Peneplain** (leftovers = monadnocks)
+
+C. Atoll
+
+D. Barchan
 
 <details>
 <summary>Show answer</summary>
@@ -1058,7 +1458,14 @@ Options: A. Fjord B. **Peneplain** (leftovers = monadnocks) C. Atoll D. Barchan
 ---
 
 **Q58.** **Pediplain** is associated with:
-Options: A. Only coral coasts B. **King’s pediment retreat (arid/savanna)** C. Only ice sheets D. Only trellis folds
+
+A. Only coral coasts
+
+B. **King’s pediment retreat (arid/savanna)**
+
+C. Only ice sheets
+
+D. Only trellis folds
 
 <details>
 <summary>Show answer</summary>
@@ -1069,7 +1476,14 @@ Options: A. Only coral coasts B. **King’s pediment retreat (arid/savanna)** C.
 ---
 
 **Q59.** An **antecedent** river:
-Options: A. Follows a new fault only B. **Predates and cuts rising land** C. Is always a yazoo D. Is wind-laid loess
+
+A. Follows a new fault only
+
+B. **Predates and cuts rising land**
+
+C. Is always a yazoo
+
+D. Is wind-laid loess
 
 <details>
 <summary>Show answer</summary>
@@ -1080,7 +1494,14 @@ Options: A. Follows a new fault only B. **Predates and cuts rising land** C. Is 
 ---
 
 **Q60.** A **cuesta** has:
-Options: A. Equal steep sides like a hogback B. **Gentle dip slope + steep scarp** C. Only glacial striations D. Only coral polyps
+
+A. Equal steep sides like a hogback
+
+B. **Gentle dip slope + steep scarp**
+
+C. Only glacial striations
+
+D. Only coral polyps
 
 <details>
 <summary>Show answer</summary>
@@ -1091,7 +1512,14 @@ Options: A. Equal steep sides like a hogback B. **Gentle dip slope + steep scarp
 ---
 
 **Q61.** A **ria** coast is:
-Options: A. A drowned glacial trough B. **A drowned river valley** C. A barchan chain D. A batholith
+
+A. A drowned glacial trough
+
+B. **A drowned river valley**
+
+C. A barchan chain
+
+D. A batholith
 
 <details>
 <summary>Show answer</summary>
@@ -1102,7 +1530,14 @@ Options: A. A drowned glacial trough B. **A drowned river valley** C. A barchan 
 ---
 
 **Q62.** **Subsequent** streams typically follow:
-Options: A. Only the ITCZ B. **Weaker beds / faults** C. Only ice shelves D. Only atolls
+
+A. Only the ITCZ
+
+B. **Weaker beds / faults**
+
+C. Only ice shelves
+
+D. Only atolls
 
 <details>
 <summary>Show answer</summary>
@@ -1113,7 +1548,14 @@ Options: A. Only the ITCZ B. **Weaker beds / faults** C. Only ice shelves D. Onl
 ---
 
 **Q63.** Batholiths are typically:
-Options: A. Thin lava skins B. **Huge intrusive granite masses** C. Wind dunes D. Ox-bows
+
+A. Thin lava skins
+
+B. **Huge intrusive granite masses**
+
+C. Wind dunes
+
+D. Ox-bows
 
 <details>
 <summary>Show answer</summary>
@@ -1124,7 +1566,14 @@ Options: A. Thin lava skins B. **Huge intrusive granite masses** C. Wind dunes D
 ---
 
 **Q64.** River **capture** leaves a:
-Options: A. Coral atoll B. **Wind gap + elbow of capture** C. Only a seif D. Only a tarn
+
+A. Coral atoll
+
+B. **Wind gap + elbow of capture**
+
+C. Only a seif
+
+D. Only a tarn
 
 <details>
 <summary>Show answer</summary>
@@ -1135,7 +1584,14 @@ Options: A. Coral atoll B. **Wind gap + elbow of capture** C. Only a seif D. Onl
 ---
 
 **Q65.** Foliated metamorphic rock among the following is:
-Options: A. Marble B. Quartzite C. **Gneiss / schist / slate** D. Rock salt
+
+A. Marble
+
+B. Quartzite
+
+C. **Gneiss / schist / slate**
+
+D. Rock salt
 
 <details>
 <summary>Show answer</summary>
@@ -1153,7 +1609,14 @@ Options: A. Marble B. Quartzite C. **Gneiss / schist / slate** D. Rock salt
 
 **Q1. UPPCS Prelims 2024, Q31**
 Which one of the following drainage patterns is associated with folded structures?
-Options: A. Radial B. Trellis C. Dendritic D. Rectangular
+
+A. Radial
+
+B. Trellis
+
+C. Dendritic
+
+D. Rectangular
 
 <details>
 <summary>Show answer</summary>
@@ -1165,9 +1628,17 @@ Options: A. Radial B. Trellis C. Dendritic D. Rectangular
 
 **Q2. UPPCS Prelims 2021, Q121**
 With reference to Mekong river, which of the following statement/s is/are correct?
+
 1. Mekong rises in Tibetan Plateau
 2. Mekong delta is situated in Southern Cambodia.
-Options: A. 1 only B. 2 only C. Both 1 and 2 D. Neither 1 nor 2
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1179,7 +1650,14 @@ Options: A. 1 only B. 2 only C. Both 1 and 2 D. Neither 1 nor 2
 
 **Q3. UPPCS Prelims 2019, Q85**
 'Moribund Delta' is a subdivision of which of the following Delta?
-Options: A. Krishna-Godawari Delta B. Mahanadi Delta C. Bengal Delta D. Cauvery Delta
+
+A. Krishna-Godawari Delta
+
+B. Mahanadi Delta
+
+C. Bengal Delta
+
+D. Cauvery Delta
 
 <details>
 <summary>Show answer</summary>
@@ -1191,10 +1669,18 @@ Options: A. Krishna-Godawari Delta B. Mahanadi Delta C. Bengal Delta D. Cauvery 
 
 **Q4. UPPCS Prelims 2019, Q11**
 With reference to the Himalayan range, which of the statements is/are correct?
+
 1. The sedimentary rocks of the greater Himalayas were fossil less.
 2. Marine livings fossils are found in the sedimentary rocks of lesser Himalayas.
 3. Remains of human civilization are found in outer or Shivalik Himalayas.
-Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3 are correct
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3 are correct
 
 <details>
 <summary>Show answer</summary>
@@ -1206,7 +1692,14 @@ Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3 are corre
 
 **Q5. UPPCS Prelims 2019, Q8**
 'Imphal Basin' surrounded by Manipur hills is fine example of
-Options: A. Lacustrine plain B. Loess plain C. Glacial plain D. Alluvial plain
+
+A. Lacustrine plain
+
+B. Loess plain
+
+C. Glacial plain
+
+D. Alluvial plain
 
 <details>
 <summary>Show answer</summary>
@@ -1218,7 +1711,14 @@ Options: A. Lacustrine plain B. Loess plain C. Glacial plain D. Alluvial plain
 
 **Q6. UPPCS Prelims 2018, Q33**
 At the mouth of which of the following rivers the 'bird's foot' type delta is formed?
-Options: A. Huang Ho B. Nile C. Danube D. Mississippi
+
+A. Huang Ho
+
+B. Nile
+
+C. Danube
+
+D. Mississippi
 
 <details>
 <summary>Show answer</summary>
@@ -1230,7 +1730,14 @@ Options: A. Huang Ho B. Nile C. Danube D. Mississippi
 
 **Q7. UPPCS Prelims 2019, Q9**
 Which of the following rivers is famous for its fault valley drainage?
-Options: A. Chambal B. Damodar C. Gandak D. Ramaganga
+
+A. Chambal
+
+B. Damodar
+
+C. Gandak
+
+D. Ramaganga
 
 <details>
 <summary>Show answer</summary>

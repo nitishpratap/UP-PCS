@@ -617,7 +617,10 @@ A. No arbitrary power  B. Equality before law  C. **Constitution as the result o
 
 </details>
 
-**Q9.** **Assertion (A):** India follows Dicey’s Rule of Law in full.  
+**Q9.**
+
+**Assertion (A):** India follows Dicey’s Rule of Law in full.
+
 **Reason (R):** Article 14 guarantees equality before law.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -701,7 +704,10 @@ A. Replacing Art. 21’s text with “due process”  B. **Fair, just, reasonabl
 
 </details>
 
-**Q18.** **Assertion (A):** After *Maneka*, Article 21’s wording is “due process of law”.  
+**Q18.**
+
+**Assertion (A):** After *Maneka*, Article 21’s wording is “due process of law”.
+
 **Reason (R):** The Court read fairness into “procedure established by law”.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -767,7 +773,10 @@ A. Judicial review  B. **Separation of the judiciary from the executive in the S
 
 </details>
 
-**Q25.** **Assertion (A):** Article 50 is a Fundamental Right.  
+**Q25.**
+
+**Assertion (A):** Article 50 is a Fundamental Right.
+
 **Reason (R):** It concerns separation of the judiciary from the executive.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -852,7 +861,10 @@ A. Art. 12  B. **Art. 245**  C. Art. 50  D. Art. 393
 
 </details>
 
-**Q34.** **Assertion (A):** Indian Parliament is sovereign in the Dicey sense.  
+**Q34.**
+
+**Assertion (A):** Indian Parliament is sovereign in the Dicey sense.
+
 **Reason (R):** India has a parliamentary system of government.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -964,7 +976,10 @@ A. 2-1-3-4  B. **1-2-3-4**  C. 1-2-4-3  D. 2-1-4-3
 
 </details>
 
-**Q46.** **Assertion (A):** Constitutional morality can invalidate a practice supported by a majority.  
+**Q46.**
+
+**Assertion (A):** Constitutional morality can invalidate a practice supported by a majority.
+
 **Reason (R):** *Navtej Johar* treated constitutional morality as distinct from majoritarian morality.  
 A. **Both true and R explains A**  B. Both true, R not explanation  C. A true R false  D. A false R true
 
@@ -1041,7 +1056,10 @@ A. WTO  B. **Constitutional morality and criminal antecedents of ministers**  C.
 
 </details>
 
-**Q54.** **Assertion (A):** The US model of SOP is fusion of Cabinet and Congress.  
+**Q54.**
+
+**Assertion (A):** The US model of SOP is fusion of Cabinet and Congress.
+
 **Reason (R):** The Indian PM must (normally) be a member of Parliament.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -1136,7 +1154,10 @@ A. A Ninth Schedule statute  B. **Passport impounded without a hearing**  C. NJA
 
 </details>
 
-**Q64.** **Assertion (A):** After *Maneka*, a law is no longer required to deprive a person of liberty.  
+**Q64.**
+
+**Assertion (A):** After *Maneka*, a law is no longer required to deprive a person of liberty.
+
 **Reason (R):** *Maneka* added fairness (*jus*) to the need for a valid law (*lex*).  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -1297,7 +1318,10 @@ A. Marxist one-party rule  B. **Democratic / mixed-economy socialism**  C. A rep
 
 </details>
 
-**Q81.** **Assertion (A):** The 1991 reforms deleted “Socialist” from the Preamble.  
+**Q81.**
+
+**Assertion (A):** The 1991 reforms deleted “Socialist” from the Preamble.
+
 **Reason (R):** The word was inserted by the 42nd Amendment.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -1392,7 +1416,10 @@ A. **Only 1**  B. Only 2  C. Both  D. Neither
 
 </details>
 
-**Q91.** **Assertion (A):** “Republic” was added to the Preamble by the 42nd Amendment.  
+**Q91.**
+
+**Assertion (A):** “Republic” was added to the Preamble by the 42nd Amendment.
+
 **Reason (R):** “Socialist” and “Secular” were added by the 42nd.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -1529,7 +1556,10 @@ A. Welfare — Art. 38  B. Secular code — Arts. 25–28  C. Republic — elect
 
 </details>
 
-**Q105.** **Assertion (A):** Indian secularism forbids the State from regulating any religious institution.  
+**Q105.**
+
+**Assertion (A):** Indian secularism forbids the State from regulating any religious institution.
+
 **Reason (R):** Art. 25(2) allows regulation of secular activity associated with religion.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -1633,7 +1663,10 @@ A. Art. 25 as a FR  B. **Art. 44 DPSP**  C. Art. 54  D. The Preamble as a sixth 
 
 </details>
 
-**Q116.** **Assertion (A):** The Preamble is directly enforceable like Article 14.  
+**Q116.**
+
+**Assertion (A):** The Preamble is directly enforceable like Article 14.
+
 **Reason (R):** *Kesavananda* held the Preamble is part of the Constitution.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -1708,7 +1741,10 @@ A. Liberty  B. **Justice**  C. Equality  D. Fraternity
 
 </details>
 
-**Q124.** **Assertion (A):** India is a democratic republic.  
+**Q124.**
+
+**Assertion (A):** India is a democratic republic.
+
 **Reason (R):** The President of India is a hereditary monarch advised by the PM.  
 A. Both true and R explains A  B. Both true, R not explanation  C. **A true R false**  D. A false R true
 
@@ -1756,7 +1792,10 @@ A. Art. 245  B. **Art. 368**  C. Art. 50  D. Art. 21
 
 </details>
 
-**Q129.** **Assertion (A):** Article 368 is unlimited because it is constituent power.  
+**Q129.**
+
+**Assertion (A):** Article 368 is unlimited because it is constituent power.
+
 **Reason (R):** *Kesavananda* held that constituent power cannot destroy Basic Structure.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 

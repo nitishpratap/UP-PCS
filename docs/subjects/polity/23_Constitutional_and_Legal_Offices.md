@@ -525,7 +525,10 @@ A. Vote in both Houses  B. **Speak in both Houses and committees, without vote**
 
 </details>
 
-**Q5.** **Assertion (A):** The AG may take private briefs.  
+**Q5.**
+
+**Assertion (A):** The AG may take private briefs.
+
 **Reason (R):** The AG is a full-time government servant barred from all private practice.  
 A. Both true and R explains A  B. Both true, R not explanation  C. **A true R false**  D. A false R true
 
@@ -672,7 +675,10 @@ A. By pleasure of the President  B. **Like a Supreme Court judge**  C. By the PA
 
 </details>
 
-**Q20.** **Assertion (A):** The CAG may be appointed Governor of a State after retirement.  
+**Q20.**
+
+**Assertion (A):** The CAG may be appointed Governor of a State after retirement.
+
 **Reason (R):** Art. 148(4) bars further Union or State office.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -803,7 +809,10 @@ A. HC judge / AdvG  B. **SC judge / AG**  C. CAG  D. SG
 
 </details>
 
-**Q34.** **Assertion (A):** The Solicitor General can take part in LS debates under Article 88.  
+**Q34.**
+
+**Assertion (A):** The Solicitor General can take part in LS debates under Article 88.
+
 **Reason (R):** Article 88 speaks of the Attorney General.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -906,7 +915,10 @@ A. CAG  B. **AG**  C. PAC chairman  D. CEC
 
 </details>
 
-**Q45.** **Assertion (A):** The Advocate General is a constitutional functionary.  
+**Q45.**
+
+**Assertion (A):** The Advocate General is a constitutional functionary.
+
 **Reason (R):** Article 165 creates the office.  
 A. **Both true and R explains A**  B. Both true, R not explanation  C. A true R false  D. A false R true
 
@@ -973,6 +985,7 @@ A. He is an MP  B. **He is not a member; 88 is participation, not membership**  
 </details>
 
 **Q52.** Match:  
+
 | List-I | List-II |
 |--------|---------|
 | a. First AG | 1. V. Narahari Rao |
@@ -1052,7 +1065,10 @@ A. PM + LoP + CJI  B. **PM + LoP in LS + a Union Cabinet Minister**  C. Collegiu
 
 </details>
 
-**Q60.** **Assertion (A):** After the 2023 Act, the CJI sits on the CEC selection panel.  
+**Q60.**
+
+**Assertion (A):** After the 2023 Act, the CJI sits on the CEC selection panel.
+
 **Reason (R):** *Anoop Baranwal* had put the CJI on the *interim* panel until Parliament legislated.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -1198,7 +1214,10 @@ A. HC CJ  B. **CJI / SC judge / AG**  C. SPSC Chair  D. CEC as a text lock
 
 </details>
 
-**Q75.** **Assertion (A):** An HC judge resigns to the Governor because the oath is before the Governor.  
+**Q75.**
+
+**Assertion (A):** An HC judge resigns to the Governor because the oath is before the Governor.
+
 **Reason (R):** Art. 217 sends the resignation to the President.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -1265,6 +1284,7 @@ A. CAG  B. SC judge  C. **President**  D. HC judge
 </details>
 
 **Q82.** Match resign-to:  
+
 | List-I | List-II |
 |--------|---------|
 | a. CJI | 1. Governor |
@@ -1317,7 +1337,10 @@ A. Not an Indian citizen  B. **Usually transferred from another HC**  C. Must be
 
 </details>
 
-**Q87.** **Assertion (A):** SPSC Chairman is appointed by the President.  
+**Q87.**
+
+**Assertion (A):** SPSC Chairman is appointed by the President.
+
 **Reason (R):** SPSC Chairman is removed by the President.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -1467,7 +1490,10 @@ A. 124 — SC/CJI  B. 217 — HC judge  C. 324 — ECI  D. **165 — CEC**
 
 </details>
 
-**Q103.** **Assertion (A):** Other ECs have the same constitutional status as the CEC in Commission *decisions*.  
+**Q103.**
+
+**Assertion (A):** Other ECs have the same constitutional status as the CEC in Commission *decisions*.
+
 **Reason (R):** They can be removed only in the same manner as an SC judge.  
 A. Both true and R explains A  B. Both true, R not explanation  C. **A true R false**  D. A false R true
 
@@ -1563,6 +1589,7 @@ A. One member  B. **Three (CEC + 2 ECs)**  C. Five  D. Nine
 </details>
 
 **Q113.** Match firsts:  
+
 | List-I | List-II |
 |--------|---------|
 | a. First CEC | 1. M.C. Setalvad |
@@ -1700,7 +1727,10 @@ A. Art. 324  B. **Arts. 243K / 243ZA**  C. Art. 76  D. Art. 148
 
 </details>
 
-**Q127.** **Assertion (A):** The Attorney General’s consent in some contempt matters makes him a judge of the SC.  
+**Q127.**
+
+**Assertion (A):** The Attorney General’s consent in some contempt matters makes him a judge of the SC.
+
 **Reason (R):** Contempt of Courts Act s.15 uses the AG (or SG) for certain criminal-contempt motions.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 

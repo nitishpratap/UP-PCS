@@ -363,7 +363,13 @@ Jizya reimposed 1679 | Later: Muhammad Shah Rangeela (Tappa — Topic 6)
 
 **Q1.** A(A): Babur wrote Tuzk-e-Babri in Chagatai Turki. R(R): Turki was official Mughal court language.
 
-Options: A. Both true, R not explanation | B. A false, R true | C. A true, R false | D. Both true, R explains A
+A. Both true, R not explanation |
+
+B. A false, R true |
+
+C. A true, R false |
+
+D. Both true, R explains A
 
 <details><summary>Show answer</summary>**Ans: C** — 2025 Q3.</details>
 
@@ -381,25 +387,49 @@ Options: A.2-4-3-1 | B.4-2-1-3 | C.4-2-3-1 | D.2-4-1-3
 
 **Q4.** A(A): Akbar built Buland Darwaza at Fatehpur Sikri. R(R): Built in memory of Jahangir’s birth.
 
-Options: A. Both true, R not explanation | B. A false, R true | C. A true, R false | D. Both true, R explains A
+A. Both true, R not explanation |
+
+B. A false, R true |
+
+C. A true, R false |
+
+D. Both true, R explains A
 
 <details><summary>Show answer</summary>**Ans: C** — 2025 Q49; Gujarat 1572.</details>
 
 **Q5.** Bairam Khan: 1. Akbar gave him Khan-i-Khana 2. Title was not given when appointed Vazir
 
-Options: A. Both | B. Neither | C. Only 1 | D. Only 2
+A. Both |
+
+B. Neither |
+
+C. Only 1 |
+
+D. Only 2
 
 <details><summary>Show answer</summary>**Ans: D** — 2024 Q4; title from Humayun.</details>
 
 **Q6.** Mansabdari: 1. Official nobility started by Akbar 2. Hereditary
 
-Options: A. 1 only | B. Both | C. 2 only | D. Neither
+A. 1 only |
+
+B. Both |
+
+C. 2 only |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: A** — 2019 Q92.</details>
 
 **Q7.** A(A): Akbar, like Sher Shah, tried to regulate currency. R(R): Chief copper coin was the Dam.
 
-Options: A. Both true, R explains A | B. Both true, R not explanation | C. A true, R false | D. A false, R true
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
 
 <details><summary>Show answer</summary>**Ans: A** — 2019 Q12.</details>
 
@@ -411,25 +441,49 @@ Options: A.2-4-3-1 | B.1-3-4-2 | C.3-4-2-1 | D.4-2-1-3
 
 **Q9.** Golkonda 1687 last ruler:
 
-Options: A. Abul Hasan Qutb Shah | B. Sikandar Adil Shah | C. Ali Adil Shah II | D. Shayasta Khan
+A. Abul Hasan Qutb Shah |
+
+B. Sikandar Adil Shah |
+
+C. Ali Adil Shah II |
+
+D. Shayasta Khan
 
 <details><summary>Show answer</summary>**Ans: A** — 2020 Q34.</details>
 
 **Q10.** Canal from restored Rajabwah of Firuz Shah:
 
-Options: A. Shekhnu-Ni | B. Shahab Nahr | C. Nahr-i-Bihisht | D. Nahr-i-Agra
+A. Shekhnu-Ni |
+
+B. Shahab Nahr |
+
+C. Nahr-i-Bihisht |
+
+D. Nahr-i-Agra
 
 <details><summary>Show answer</summary>**Ans: C** — 2020 Q42.</details>
 
 **Q11.** Kavindra Acharya Saraswati of Banaras patronised by:
 
-Options: A. Shah Jahan | B. Jahangir | C. Akbar | D. Humayun
+A. Shah Jahan |
+
+B. Jahangir |
+
+C. Akbar |
+
+D. Humayun
 
 <details><summary>Show answer</summary>**Ans: A** — 2022 Q146.</details>
 
 **Q12.** Hawkins: 1. Came 1611 as James I envoy 2. Well versed in Turkish
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: B** — 2023 Q31; arrived **1608**.</details>
 
@@ -453,211 +507,421 @@ Options: A.II-I-III-IV | B.II-III-IV-I | C.III-II-I-IV | D.III-I-II-IV
 
 **Q16.** First Battle of Panipat year:
 
-Options: A. 1526 | B. 1527 | C. 1556 | D. 1761
+A. 1526 |
+
+B. 1527 |
+
+C. 1556 |
+
+D. 1761
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q17.** Khanwa 1527 opponent of Babur:
 
-Options: A. Ibrahim Lodi | B. Rana Sanga | C. Hemu | D. Sher Shah
+A. Ibrahim Lodi |
+
+B. Rana Sanga |
+
+C. Hemu |
+
+D. Sher Shah
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q18.** Dahsala is:
 
-Options: A. 10-year average assessment | B. Hereditary mansab | C. Copper coin | D. Victory gate
+A. 10-year average assessment |
+
+B. Hereditary mansab |
+
+C. Copper coin |
+
+D. Victory gate
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q19.** Din-i-Ilahi started:
 
-Options: A. 1564 | B. 1572 | C. 1582 | D. 1679
+A. 1564 |
+
+B. 1572 |
+
+C. 1582 |
+
+D. 1679
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q20.** Jizya under Akbar / Aurangzeb:
 
-Options: A. Abolished 1564; reimposed 1679 | B. Never abolished | C. Both kept it throughout | D. Only Jahangir levied it
+A. Abolished 1564; reimposed 1679 |
+
+B. Never abolished |
+
+C. Both kept it throughout |
+
+D. Only Jahangir levied it
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q21.** Zat vs sawar:
 
-Options: A. Zat = cavalry, sawar = personal rank | B. Zat = personal rank, sawar = cavalry | C. Both mean jagir | D. Both hereditary titles
+A. Zat = cavalry, sawar = personal rank |
+
+B. Zat = personal rank, sawar = cavalry |
+
+C. Both mean jagir |
+
+D. Both hereditary titles
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q22.** NOT correctly matched:
 
-Options: A. Hamida Banu — Humayun’s wife | B. Gulbadan — Babur’s daughter | C. Hamida Banu — Alauddin Khalji’s wife | D. Nur Jahan — Jahangir’s wife
+A. Hamida Banu — Humayun’s wife |
+
+B. Gulbadan — Babur’s daughter |
+
+C. Hamida Banu — Alauddin Khalji’s wife |
+
+D. Nur Jahan — Jahangir’s wife
 
 <details><summary>Show answer</summary>**Ans: C** — 2023 Q34 pattern.</details>
 
 **Q23.** Second Panipat:
 
-Options: A. 1526 Babur–Lodi | B. 1556 Akbar–Hemu | C. 1761 Marathas–Abdali | D. 1658 Dara–Aurangzeb
+A. 1526 Babur–Lodi |
+
+B. 1556 Akbar–Hemu |
+
+C. 1761 Marathas–Abdali |
+
+D. 1658 Dara–Aurangzeb
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q24.** Fatehpur Sikri was Akbar’s capital roughly:
 
-Options: A. 1526–30 | B. 1571–85 | C. 1631–48 | D. 1686–1707
+A. 1526–30 |
+
+B. 1571–85 |
+
+C. 1631–48 |
+
+D. 1686–1707
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q25.** Abul Fazl wrote:
 
-Options: A. Only Ain-i-Akbari | B. Akbarnama and Ain-i-Akbari | C. Only Tuzuk-i-Jahangiri | D. Padshahnama
+A. Only Ain-i-Akbari |
+
+B. Akbarnama and Ain-i-Akbari |
+
+C. Only Tuzuk-i-Jahangiri |
+
+D. Padshahnama
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q26.** Birbal died in:
 
-Options: A. Haldighati | B. Yusufzai campaign 1586 | C. Samugarh | D. Golkonda
+A. Haldighati |
+
+B. Yusufzai campaign 1586 |
+
+C. Samugarh |
+
+D. Golkonda
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q27.** Raja Man Singh belonged to:
 
-Options: A. Mewar Sisodia | B. Amber Kachhwaha | C. Marwar Rathore | D. Bundela
+A. Mewar Sisodia |
+
+B. Amber Kachhwaha |
+
+C. Marwar Rathore |
+
+D. Bundela
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q28.** Sulh-i-Kul means:
 
-Options: A. Jizya collection | B. Universal peace/tolerance | C. Hereditary mansab | D. Deccan tribute
+A. Jizya collection |
+
+B. Universal peace/tolerance |
+
+C. Hereditary mansab |
+
+D. Deccan tribute
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q29.** Dara Shikoh is associated with:
 
-Options: A. Majma-ul-Bahrain / Upanishad translation | B. Founding Din-i-Ilahi | C. Building Buland Darwaza | D. Battle of Khanwa
+A. Majma-ul-Bahrain / Upanishad translation |
+
+B. Founding Din-i-Ilahi |
+
+C. Building Buland Darwaza |
+
+D. Battle of Khanwa
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q30.** Jahangir’s tomb city:
 
-Options: A. Agra | B. Delhi | C. Lahore | D. Kabul
+A. Agra |
+
+B. Delhi |
+
+C. Lahore |
+
+D. Kabul
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q31.** 1. Daurah is 1658 Dharmat 2. Daurah is 1532 Humayun vs Afghans
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q32.** Todar Mal is linked to:
 
-Options: A. Qawwali | B. Zabt and dahsala | C. Peacock Throne | D. Golkonda siege
+A. Qawwali |
+
+B. Zabt and dahsala |
+
+C. Peacock Throne |
+
+D. Golkonda siege
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q33.** Sir Thomas Roe visited:
 
-Options: A. Babur | B. Akbar | C. Jahangir | D. Aurangzeb
+A. Babur |
+
+B. Akbar |
+
+C. Jahangir |
+
+D. Aurangzeb
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q34.** Khalsa land means:
 
-Options: A. Jagir of a mansabdar | B. Crown/direct imperial land | C. Waqf only | D. Inam to poets
+A. Jagir of a mansabdar |
+
+B. Crown/direct imperial land |
+
+C. Waqf only |
+
+D. Inam to poets
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q35.** Jajau 1707 was fought between:
 
-Options: A. Babur and Sanga | B. Aurangzeb and Dara | C. Bahadur Shah I and Azam Shah | D. Akbar and Hemu
+A. Babur and Sanga |
+
+B. Aurangzeb and Dara |
+
+C. Bahadur Shah I and Azam Shah |
+
+D. Akbar and Hemu
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q36.** Rahim Khan-i-Khana was:
 
-Options: A. Bairam Khan’s son | B. Akbar’s brother | C. Aurangzeb’s wazir | D. Sher Shah’s diwan
+A. Bairam Khan’s son |
+
+B. Akbar’s brother |
+
+C. Aurangzeb’s wazir |
+
+D. Sher Shah’s diwan
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q37.** Ibadat Khana is at:
 
-Options: A. Agra Fort only | B. Fatehpur Sikri | C. Lahore Fort | D. Golkonda
+A. Agra Fort only |
+
+B. Fatehpur Sikri |
+
+C. Lahore Fort |
+
+D. Golkonda
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q38.** 1. Mansab jagirs were often rotated 2. Mansab was strictly hereditary like zamindari
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q39.** Shah Jahan’s Red Fort canal lock:
 
-Options: A. Nahr-i-Bihisht | B. Grand Trunk Road | C. Rajabwah built first by Akbar | D. Dam canal of Todar Mal
+A. Nahr-i-Bihisht |
+
+B. Grand Trunk Road |
+
+C. Rajabwah built first by Akbar |
+
+D. Dam canal of Todar Mal
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q40.** Hemu was defeated at:
 
-Options: A. Panipat I | B. Panipat II | C. Khanwa | D. Samugarh
+A. Panipat I |
+
+B. Panipat II |
+
+C. Khanwa |
+
+D. Samugarh
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q41.** Faizi died in:
 
-Options: A. 1595 | B. 1602 | C. 1604 | D. 1627
+A. 1595 |
+
+B. 1602 |
+
+C. 1604 |
+
+D. 1627
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q42.** Aurangzeb reimposed jizya in:
 
-Options: A. 1564 | B. 1582 | C. 1679 | D. 1707
+A. 1564 |
+
+B. 1582 |
+
+C. 1679 |
+
+D. 1707
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q43.** Babur’s final burial:
 
-Options: A. Agra only | B. Delhi | C. Kabul | D. Lahore
+A. Agra only |
+
+B. Delhi |
+
+C. Kabul |
+
+D. Lahore
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q44.** 1. Din-i-Ilahi was a mass conversion movement 2. It remained a small court circle (1582)
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q45.** Correct pair:
 
-Options: A. Tuzuk-i-Jahangiri — Turki | B. Baburnama — Persian original | C. Tuzuk-i-Jahangiri — Persian | D. Ain-i-Akbari — Jahangir
+A. Tuzuk-i-Jahangiri — Turki |
+
+B. Baburnama — Persian original |
+
+C. Tuzuk-i-Jahangiri — Persian |
+
+D. Ain-i-Akbari — Jahangir
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q46.** A(A): The Mughal Empire was originally a Military State. R(R): Vitality of the central government depended on military power.
 
-Options: A. Both true, R explains A | B. Both true, R not explanation | C. A true, R false | D. A false, R true
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
 
 <details><summary>Show answer</summary>**Ans: A** — 2021 Q126.</details>
 
 **Q47.** Akbar organised about how many subahs?
 
-Options: A. 4 | B. 12 | C. 21 | D. 36
+A. 4 |
+
+B. 12 |
+
+C. 21 |
+
+D. 36
 
 <details><summary>Show answer</summary>**Ans: B** — Aurangzeb later ~21.</details>
 
 **Q48.** Du-aspah sih-aspah is linked to:
 
-Options: A. Babur’s Tulughma | B. Jahangir’s mansab reform | C. Sher Shah’s jarib | D. Shah Jahan’s canal
+A. Babur’s Tulughma |
+
+B. Jahangir’s mansab reform |
+
+C. Sher Shah’s jarib |
+
+D. Shah Jahan’s canal
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q49.** Hamzanama illustrated project belongs to:
 
-Options: A. Babur | B. Akbar | C. Aurangzeb | D. Bahadur Shah II
+A. Babur |
+
+B. Akbar |
+
+C. Aurangzeb |
+
+D. Bahadur Shah II
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q50.** Ilahi calendar of Akbar:
 
-Options: A. 1564 | B. 1572 | C. 1584 | D. 1679
+A. 1564 |
+
+B. 1572 |
+
+C. 1584 |
+
+D. 1679
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
@@ -669,7 +933,13 @@ Options: A. 1564 | B. 1572 | C. 1584 | D. 1679
 
 A(A): Babur wrote Tuzk-e-Babri in Chagatai Turki. R(R): Turki was the official language of the Mughal Court.
 
-Options: A. Both true, R not explanation | B. A false, R true | C. A true, R false | D. Both true, R explains A
+A. Both true, R not explanation |
+
+B. A false, R true |
+
+C. A true, R false |
+
+D. Both true, R explains A
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
@@ -677,7 +947,13 @@ Options: A. Both true, R not explanation | B. A false, R true | C. A true, R fal
 
 A(A): Akbar got Buland Darwaza constructed at Fatehpur Sikri. R(R): Constructed in memory of the birth of Jahangir.
 
-Options: A. Both true, R not explanation | B. A false, R true | C. A true, R false | D. Both true, R explains A
+A. Both true, R not explanation |
+
+B. A false, R true |
+
+C. A true, R false |
+
+D. Both true, R explains A
 
 <details><summary>Show answer</summary>**Ans: C** — Gujarat victory 1572.</details>
 
@@ -701,7 +977,13 @@ Options: A.2-4-3-1 | B.4-2-1-3 | C.4-2-3-1 | D.2-4-1-3
 
 Bairam Khan: 1. Akbar gave title Khan-i-Khana 2. Title was not given at appointment as Vazir
 
-Options: A. Both | B. Neither | C. Only 1 | D. Only 2
+A. Both |
+
+B. Neither |
+
+C. Only 1 |
+
+D. Only 2
 
 <details><summary>Show answer</summary>**Ans: D** — Humayun conferred Khan-i-Khana.</details>
 
@@ -717,7 +999,13 @@ Options: A.2-1-4-3 | B.3-2-1-4 | C.2-3-1-4 | D.2-4-3-1
 
 Hawkins: 1. Came to India in 1611 as envoy of James I 2. Very well versed in Turkish
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: B** — arrived **1608**.</details>
 
@@ -739,7 +1027,13 @@ Options: A.2-4-3-1 | B.1-3-4-2 | C.3-4-2-1 | D.4-2-1-3
 
 Which Mughal ruler patronised Kavindra Acharya Saraswati of Banaras?
 
-Options: A. Shah Jahan | B. Jahangir | C. Akbar | D. Humayun
+A. Shah Jahan |
+
+B. Jahangir |
+
+C. Akbar |
+
+D. Humayun
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
@@ -747,7 +1041,13 @@ Options: A. Shah Jahan | B. Jahangir | C. Akbar | D. Humayun
 
 Travellers arrival: I Hawkins II Ralph Fitch III Roe IV Nicholas Dawnton
 
-Options: A. II-I-IV-III | B. IV-II-I-III | C. I-III-II-IV | D. III-II-IV-I
+A. II-I-IV-III |
+
+B. IV-II-I-III |
+
+C. I-III-II-IV |
+
+D. III-II-IV-I
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
@@ -755,7 +1055,13 @@ Options: A. II-I-IV-III | B. IV-II-I-III | C. I-III-II-IV | D. III-II-IV-I
 
 Ruler of Golkonda when Aurangzeb seized the fort in 1687?
 
-Options: A. Abul Hasan Qutb Shah | B. Sikandar Adil Shah | C. Ali Adil Shah II | D. Shayasta Khan
+A. Abul Hasan Qutb Shah |
+
+B. Sikandar Adil Shah |
+
+C. Ali Adil Shah II |
+
+D. Shayasta Khan
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
@@ -763,7 +1069,13 @@ Options: A. Abul Hasan Qutb Shah | B. Sikandar Adil Shah | C. Ali Adil Shah II |
 
 Which Mughal canal was constructed by restoring Rajabwah of Firuz Shah?
 
-Options: A. Shekhnu-Ni | B. Shahab Nahr | C. Nahr-i-Bihisht | D. Nahr-i-Agra
+A. Shekhnu-Ni |
+
+B. Shahab Nahr |
+
+C. Nahr-i-Bihisht |
+
+D. Nahr-i-Agra
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
@@ -771,7 +1083,13 @@ Options: A. Shekhnu-Ni | B. Shahab Nahr | C. Nahr-i-Bihisht | D. Nahr-i-Agra
 
 A(A): Akbar, like Sher Shah, tried to regulate the currency of the state. R(R): As in Sher Shah’s currency, the chief copper coin of Akbar’s time was the Dam.
 
-Options: A. Both true, R explains A | B. Both true, R not explanation | C. A true, R false | D. A false, R true
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
@@ -779,7 +1097,13 @@ Options: A. Both true, R explains A | B. Both true, R not explanation | C. A tru
 
 I Battle of Sarnal II Bilgram III Dharmat IV Jajau
 
-Options: A. II-I-III-IV | B. II-III-IV-I | C. III-II-I-IV | D. III-I-II-IV
+A. II-I-III-IV |
+
+B. II-III-IV-I |
+
+C. III-II-I-IV |
+
+D. III-I-II-IV
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
@@ -787,7 +1111,13 @@ Options: A. II-I-III-IV | B. II-III-IV-I | C. III-II-I-IV | D. III-I-II-IV
 
 I Rabia Daurani’s Tomb Aurangabad II Sher Shah tomb Sasaram III Humayun’s Tomb Delhi IV Atala Mosque Jaunpur
 
-Options: A. I-II-IV-III | B. IV-II-III-I | C. II-I-III-IV | D. III-IV-II-I
+A. I-II-IV-III |
+
+B. IV-II-III-I |
+
+C. II-I-III-IV |
+
+D. III-IV-II-I
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
@@ -795,7 +1125,13 @@ Options: A. I-II-IV-III | B. IV-II-III-I | C. II-I-III-IV | D. III-IV-II-I
 
 Mansabdari: 1. Official nobility started by Akbar 2. A Mansabdari was hereditary
 
-Options: A. 1 only | B. Both | C. 2 only | D. Neither
+A. 1 only |
+
+B. Both |
+
+C. 2 only |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
@@ -803,7 +1139,13 @@ Options: A. 1 only | B. Both | C. 2 only | D. Neither
 
 A(A): The Mughal Empire was originally a Military State. R(R): The vitality of the development of the Central Government System depended on its military power.
 
-Options: A. Both true, R explains A | B. Both true, R not explanation | C. A true, R false | D. A false, R true
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 

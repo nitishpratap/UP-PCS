@@ -93,7 +93,13 @@ Native Marriage Act    1872
 
 Jyotiba Phule was associated with—
 
-Options: A. Civil Disobedience Movement  B. Trade Union Movement  C. Anti-caste Movement  D. Peasant Movement
+A. Civil Disobedience Movement
+
+B. Trade Union Movement
+
+C. Anti-caste Movement
+
+D. Peasant Movement
 
 <details>
 <summary>Show answer</summary>
@@ -118,7 +124,13 @@ Options: A. Civil Disobedience Movement  B. Trade Union Movement  C. Anti-caste 
 
 Who was the founder of **'Satyashodhak Samaj'**, having its primary emphasis on the seeking of truth?
 
-Options: A. Tarabai Shinde  B. M. G. Ranade  C. Jyotiba Phule  D. Raja Ram Mohan Roy
+A. Tarabai Shinde
+
+B. M. G. Ranade
+
+C. Jyotiba Phule
+
+D. Raja Ram Mohan Roy
 
 <details>
 <summary>Show answer</summary>
@@ -148,7 +160,13 @@ With reference to the Age of Consent Act, 1891 consider the following statements
 
 Which of the above statements is/are correct?
 
-Options: A. Only 2  B. Neither 1 nor 2  C. Only 1  D. Both 1 and 2
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Both 1 and 2
 
 <details>
 <summary>Show answer</summary>
@@ -248,7 +266,13 @@ D. Deva Samaj — Banaras
 
 In which year was the 'Native Marriage Act' passed?
 
-Options: A. 1870  B. 1872  C. 1874  D. 1876
+A. 1870
+
+B. 1872
+
+C. 1874
+
+D. 1876
 
 <details>
 <summary>Show answer</summary>
@@ -326,7 +350,13 @@ With reference to **E. V. Ramaswami Naicker**, which of the following statement(
 1. He participated in the Non-Cooperation Movement.  
 2. He left the Indian National Congress in 1925.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -474,7 +504,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q1.** Jyotiba Phule was associated with—
 
-Options: A. Civil Disobedience Movement  B. Trade Union Movement  C. Anti-caste Movement  D. Peasant Movement
+A. Civil Disobedience Movement
+
+B. Trade Union Movement
+
+C. Anti-caste Movement
+
+D. Peasant Movement
 
 <details>
 <summary>Show answer</summary>
@@ -487,7 +523,13 @@ Options: A. Civil Disobedience Movement  B. Trade Union Movement  C. Anti-caste 
 
 **Q2.** Who was the founder of Satyashodhak Samaj?
 
-Options: A. Tarabai Shinde  B. M. G. Ranade  C. Jyotiba Phule  D. Raja Ram Mohan Roy
+A. Tarabai Shinde
+
+B. M. G. Ranade
+
+C. Jyotiba Phule
+
+D. Raja Ram Mohan Roy
 
 <details>
 <summary>Show answer</summary>
@@ -503,7 +545,13 @@ Options: A. Tarabai Shinde  B. M. G. Ranade  C. Jyotiba Phule  D. Raja Ram Mohan
 1. Behramji Malabari advocated this legislation.  
 2. The extremist wing led by Tilak supported the Act.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -519,7 +567,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. D.K. Karve  B. J.E.D. Bethune  C. Ishwar Chandra Vidyasagar  D. B.M. Malabari  
 **List-II** 1. Girls’ school, Calcutta  2. Secretary, Widow Remarriage Association  3. Crusade against child marriage  4. Principal, Sanskrit College, Calcutta
 
-Options: A. 1 2 4 3  B. 2 1 4 3  C. 2 1 3 4  D. 1 2 3 4
+A. 1 2 4 3
+
+B. 2 1 4 3
+
+C. 2 1 3 4
+
+D. 1 2 3 4
 
 <details>
 <summary>Show answer</summary>
@@ -568,7 +622,13 @@ D. (A) is false but (R) is true
 
 **Q7.** Arrange: 1. Ramakrishna Mission  2. Brahmo Sabha  3. Arya Samaj  4. Satyashodhak Samaj
 
-Options: A. 2, 4, 3, 1  B. 2, 3, 4, 1  C. 4, 2, 3, 1  D. 2, 4, 1, 3
+A. 2, 4, 3, 1
+
+B. 2, 3, 4, 1
+
+C. 4, 2, 3, 1
+
+D. 2, 4, 1, 3
 
 <details>
 <summary>Show answer</summary>
@@ -585,7 +645,13 @@ Options: A. 2, 4, 3, 1  B. 2, 3, 4, 1  C. 4, 2, 3, 1  D. 2, 4, 1, 3
 2. Deoband — Dayanand Saraswati  
 3. Prarthana Samaj — Bombay
 
-Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
+A. Only 2
+
+B. Only 1 and 2
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -601,7 +667,13 @@ Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
 1. He participated in the Non-Cooperation Movement.  
 2. He left the Indian National Congress in 1925.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -614,7 +686,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q10.** The Native Marriage Act was passed in
 
-Options: A. 1870  B. 1872  C. 1856  D. 1891
+A. 1870
+
+B. 1872
+
+C. 1856
+
+D. 1891
 
 <details>
 <summary>Show answer</summary>
@@ -630,7 +708,13 @@ Options: A. 1870  B. 1872  C. 1856  D. 1891
 1. It was started by Raja Ram Mohan Roy in 1828.  
 2. Keshab Chandra Sen later formed the Brahmo Samaj of India.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -646,7 +730,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. Arya Samaj  B. Theosophical Society  C. Ramakrishna Mission  D. Deoband  
 **List-II** 1. 1897  2. 1875 Bombay  3. 1866  4. 1875 New York
 
-Options: A. 2 4 1 3  B. 2 4 3 1  C. 4 2 1 3  D. 2 1 4 3
+A. 2 4 1 3
+
+B. 2 4 3 1
+
+C. 4 2 1 3
+
+D. 2 1 4 3
 
 <details>
 <summary>Show answer</summary>
@@ -681,7 +771,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 1. He addressed the Parliament of Religions at Chicago in 1893.  
 2. He founded the Ramakrishna Mission in 1893.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -694,7 +790,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q15.** Arrange: 1. Age of Consent Act  2. Widow Remarriage Act  3. Sati Regulation  4. Native Marriage Act
 
-Options: A. 3, 2, 4, 1  B. 3, 2, 1, 4  C. 2, 3, 4, 1  D. 3, 4, 2, 1
+A. 3, 2, 4, 1
+
+B. 3, 2, 1, 4
+
+C. 2, 3, 4, 1
+
+D. 3, 4, 2, 1
 
 <details>
 <summary>Show answer</summary>
@@ -712,7 +814,13 @@ Options: A. 3, 2, 4, 1  B. 3, 2, 1, 4  C. 2, 3, 4, 1  D. 3, 4, 2, 1
 
 Which of the statements given above is/are correct?
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -729,7 +837,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Blavatsky and Olcott — Theosophical Society, New York  
 3. Annie Besant — Central Hindu College, Banaras
 
-Options: A. Only 1  B. Only 1 and 3  C. Only 2 and 3  D. Only 3
+A. Only 1
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
@@ -745,7 +859,13 @@ Options: A. Only 1  B. Only 1 and 3  C. Only 2 and 3  D. Only 3
 1. It was founded in Bombay in 1867.  
 2. Jyotiba Phule was its founder.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -758,7 +878,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q19.** MAO College at Aligarh was founded in
 
-Options: A. 1866  B. 1875  C. 1897  D. 1828
+A. 1866
+
+B. 1875
+
+C. 1897
+
+D. 1828
 
 <details>
 <summary>Show answer</summary>
@@ -774,7 +900,13 @@ Options: A. 1866  B. 1875  C. 1897  D. 1828
 **List-I** A. Atmiya Sabha  B. Tattvabodhini Sabha  C. Satyashodhak Samaj  D. Ramakrishna Mission  
 **List-II** 1. Debendranath Tagore  2. Raja Ram Mohan Roy  3. Vivekananda  4. Jyotiba Phule
 
-Options: A. 2 1 4 3  B. 2 1 3 4  C. 1 2 4 3  D. 2 4 1 3
+A. 2 1 4 3
+
+B. 2 1 3 4
+
+C. 1 2 4 3
+
+D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -790,7 +922,13 @@ Options: A. 2 1 4 3  B. 2 1 3 4  C. 1 2 4 3  D. 2 4 1 3
 1. He founded Dar-ul-Ulum Deoband.  
 2. He published *Tahzib-ul-Akhlaq*.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -807,7 +945,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Faraizi — Haji Shariatullah  
 3. Wahabi (India) — Keshab Chandra Sen
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -825,7 +969,13 @@ Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
 
 Which of the statements given above is/are correct?
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -857,7 +1007,13 @@ D. (A) is false but (R) is true
 
 **Q25.** Indian headquarters of the Theosophical Society were set up at
 
-Options: A. Calcutta  B. Bombay  C. Adyar  D. Lahore
+A. Calcutta
+
+B. Bombay
+
+C. Adyar
+
+D. Lahore
 
 <details>
 <summary>Show answer</summary>
@@ -873,7 +1029,13 @@ Options: A. Calcutta  B. Bombay  C. Adyar  D. Lahore
 **List-I** A. Sambad Kaumudi  B. Satyarth Prakash  C. Gulamgiri  D. Tahzib-ul-Akhlaq  
 **List-II** 1. Dayanand  2. Raja Ram Mohan Roy  3. Sir Syed  4. Jyotiba Phule
 
-Options: A. 2 1 4 3  B. 2 1 3 4  C. 1 2 4 3  D. 2 4 1 3
+A. 2 1 4 3
+
+B. 2 1 3 4
+
+C. 1 2 4 3
+
+D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -889,7 +1051,13 @@ Options: A. 2 1 4 3  B. 2 1 3 4  C. 1 2 4 3  D. 2 4 1 3
 1. She was a leading Theosophist in India.  
 2. She founded Central Hindu College at Banaras.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -902,7 +1070,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q28.** Arrange: 1. MAO College  2. Dar-ul-Ulum Deoband  3. Brahmo Sabha  4. Chicago Parliament of Religions
 
-Options: A. 3, 2, 1, 4  B. 3, 1, 2, 4  C. 2, 3, 1, 4  D. 3, 2, 4, 1
+A. 3, 2, 1, 4
+
+B. 3, 1, 2, 4
+
+C. 2, 3, 1, 4
+
+D. 3, 2, 4, 1
 
 <details>
 <summary>Show answer</summary>
@@ -918,7 +1092,13 @@ Options: A. 3, 2, 1, 4  B. 3, 1, 2, 4  C. 2, 3, 1, 4  D. 3, 2, 4, 1
 1. It was founded by Vivekananda in 1897.  
 2. Ramakrishna Paramahamsa himself registered the Mission in 1828.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -936,7 +1116,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 Which of the statements given above is/are correct?
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -953,7 +1139,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Widow Remarriage Act — 1856  
 3. Age of Consent Act — 1829
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -969,7 +1161,13 @@ Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
 1. He was associated with a split in the Brahmo movement.  
 2. He founded Arya Samaj at Lahore.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1001,7 +1199,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q34.** Shuddhi as a mass reconversion method is associated mainly with
 
-Options: A. Brahmo Samaj  B. Arya Samaj  C. Prarthana Samaj  D. Ramakrishna Mission
+A. Brahmo Samaj
+
+B. Arya Samaj
+
+C. Prarthana Samaj
+
+D. Ramakrishna Mission
 
 <details>
 <summary>Show answer</summary>
@@ -1017,7 +1221,13 @@ Options: A. Brahmo Samaj  B. Arya Samaj  C. Prarthana Samaj  D. Ramakrishna Miss
 1. It was founded in 1866.  
 2. Muhammad Qasim Nanautawi was among its founders.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1035,7 +1245,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 Which of the statements given above is/are correct?
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1048,7 +1264,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q37.** Raja Ram Mohan Roy died at
 
-Options: A. Calcutta  B. Bombay  C. Bristol  D. Banaras
+A. Calcutta
+
+B. Bombay
+
+C. Bristol
+
+D. Banaras
 
 <details>
 <summary>Show answer</summary>
@@ -1065,7 +1287,13 @@ Options: A. Calcutta  B. Bombay  C. Bristol  D. Banaras
 2. MAO College — Aligarh  
 3. Theosophical HQ in India — Adyar
 
-Options: A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1081,7 +1309,13 @@ Options: A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 1. He was associated with Prarthana Samaj.  
 2. He founded Satyashodhak Samaj in 1873.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1099,7 +1333,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 Which of the statements given above is/are correct?
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1246,7 +1486,13 @@ D. A-1, B-2, C-3, D-4
 
 In which year was the 'Native Marriage Act' passed?
 
-Options: A. 1870  B. 1872  C. 1874  D. 1876
+A. 1870
+
+B. 1872
+
+C. 1874
+
+D. 1876
 
 <details>
 <summary>Show answer</summary>

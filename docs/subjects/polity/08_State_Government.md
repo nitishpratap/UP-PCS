@@ -126,6 +126,7 @@ D. Article 156 – Term of the Governor
 **PYQ — UPPCS Prelims 2024, Q100**
 
 **Assertion (A):** According to the Constitution of India, the same person cannot function as the Governor of two or more States at the same time.  
+
 **Reason (R):** Article 153 of the Indian Constitution states that there shall be a Governor for each State.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
@@ -525,7 +526,10 @@ A. Only 2  B. 1 and 2  C. 2 and 3  D. Only 1
 
 </details>
 
-**Q3.** **Assertion (A):** The Governor holds office during the pleasure of the President.  
+**Q3.**
+
+**Assertion (A):** The Governor holds office during the pleasure of the President.
+
 **Reason (R):** There is no impeachment procedure for the Governor in the Constitution.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -587,7 +591,10 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 </details>
 
-**Q8.** **Assertion (A):** A Council of Ministers that enjoys a majority in the Legislative Assembly cannot be dismissed by the Governor.  
+**Q8.**
+
+**Assertion (A):** A Council of Ministers that enjoys a majority in the Legislative Assembly cannot be dismissed by the Governor.
+
 **Reason (R):** *S.R. Bommai* held that majority must be tested on the floor of the House.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -674,7 +681,10 @@ A. Only one  B. Only two  C. All three  D. None
 
 </details>
 
-**Q15.** **Assertion (A):** A person who is not a member of the State legislature can be appointed Chief Minister.  
+**Q15.**
+
+**Assertion (A):** A person who is not a member of the State legislature can be appointed Chief Minister.
+
 **Reason (R):** He must become a member of either House within six months.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -747,7 +757,10 @@ A. Only two  B. Only three  C. All four  D. Only one
 
 </details>
 
-**Q21.** **Assertion (A):** A Legislative Council cannot be dissolved.  
+**Q21.**
+
+**Assertion (A):** A Legislative Council cannot be dissolved.
+
 **Reason (R):** It can, however, be abolished under Article 169.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -808,7 +821,10 @@ A. Literature  B. Co-operative movement  C. Sport  D. Social service
 
 </details>
 
-**Q26.** **Assertion (A):** The Governor of a State cannot pardon a death sentence.  
+**Q26.**
+
+**Assertion (A):** The Governor of a State cannot pardon a death sentence.
+
 **Reason (R):** Article 161 does not extend to sentences of death or to court-martial.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -885,7 +901,10 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 </details>
 
-**Q32.** **Assertion (A):** Parliament may create or abolish a Legislative Council by a simple majority.  
+**Q32.**
+
+**Assertion (A):** Parliament may create or abolish a Legislative Council by a simple majority.
+
 **Reason (R):** Such a law is deemed not to be an amendment of the Constitution for the purposes of Article 368.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -968,7 +987,10 @@ A. Only two  B. Only three  C. All four  D. Only one
 
 </details>
 
-**Q39.** **Assertion (A):** A member of the State Public Service Commission is appointed by the Governor.  
+**Q39.**
+
+**Assertion (A):** A member of the State Public Service Commission is appointed by the Governor.
+
 **Reason (R):** He can be removed by the Governor after an enquiry by the High Court.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1014,6 +1036,7 @@ D. Article 156 – Term of the Governor
 
 **Q2. UPPCS Prelims 2024, Q100**  
 **Assertion (A):** According to the Constitution of India, the same person cannot function as the Governor of two or more States at the same time.  
+
 **Reason (R):** Article 153 of the Indian Constitution states that there shall be a Governor for each State.  
 A. Both true, R not the explanation B. (A) false, (R) true C. Both true and R explains A D. (A) true, (R) false
 

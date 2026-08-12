@@ -691,6 +691,7 @@ A. 2 1 4 3  B. 2 1 3 4  C. 1 2 4 3  D. 2 4 1 3
 **Q7.** Given below are two statements:
 
 **Assertion (A):** Rock Edict XIII is the Kalinga edict.  
+
 **Reason (R):** Rock Edict XII is the usual key for “religious synthesis” in UPPCS 2022.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -812,6 +813,7 @@ A. Swami  B. Kosha  C. Dhamma-mahamatra  D. Mitra
 **Q14.** Given below are two statements:
 
 **Assertion (A):** Barabar caves are the earliest surviving Indian rock-cut chambers.  
+
 **Reason (R):** Ashoka and Dasharatha granted them to the Ajivikas.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -953,6 +955,7 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 **Q22.** Given below are two statements:
 
 **Assertion (A):** Agronomai in 2020 is keyed to revenue management.  
+
 **Reason (R):** Pautavadhyaksha is the weights-and-measures adhyaksha.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -1091,6 +1094,7 @@ A. 2–1–3  B. 1–2–3  C. 2–3–1  D. 3–2–1
 **Q30.** Given below are two statements:
 
 **Assertion (A):** Mauryan southern edicts reach Karnataka.  
+
 **Reason (R):** Chola and Pandya are listed in RE II as conquered Mauryan janapadas under kumara-viceroys.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -1247,6 +1251,7 @@ A. Only one  B. Only two  C. All three  D. None
 **Q39.** Given below are two statements:
 
 **Assertion (A):** Mauryan administration used a salaried official class.  
+
 **Reason (R):** Gupta-style hereditary samantas are the core of Kautilya’s saptanga.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -1440,6 +1445,7 @@ D. RE XIII — Maski naming of Ashoka
 **Q50.** Given below are two statements:
 
 **Assertion (A):** Rummindei records a tax concession at Lumbini.  
+
 **Reason (R):** Ahraura is the UP site of the Sarnath lion capital.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  

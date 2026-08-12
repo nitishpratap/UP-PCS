@@ -337,7 +337,14 @@ FRI ≠ Delhi / Lucknow. WII is wildlife, not the “FRI” answer.
 ## Practice Zone — 35 Questions (2025 Pattern Mix)
 
 **Q1.** Tharu tribe of UP is mainly associated with which belt?
-Options: A. Sonbhadra plateau only B. Terai C. Pure Thar desert D. Nicobar Islands
+
+A. Sonbhadra plateau only
+
+B. Terai
+
+C. Pure Thar desert
+
+D. Nicobar Islands
 
 <details>
 <summary>Show answer</summary>
@@ -346,7 +353,14 @@ Options: A. Sonbhadra plateau only B. Terai C. Pure Thar desert D. Nicobar Islan
 </details>
 
 **Q2.** Which pair is a PVTG pair in the UP tribal set?
-Options: A. Tharu and Gond B. Buksa and Raji C. Angami and Toda D. Santhal and Masai
+
+A. Tharu and Gond
+
+B. Buksa and Raji
+
+C. Angami and Toda
+
+D. Santhal and Masai
 
 <details>
 <summary>Show answer</summary>
@@ -355,7 +369,14 @@ Options: A. Tharu and Gond B. Buksa and Raji C. Angami and Toda D. Santhal and M
 </details>
 
 **Q3.** Which tribe is NOT native to Andaman and Nicobar Islands?
-Options: A. Onge B. Shompen C. Rengma D. Jarawa
+
+A. Onge
+
+B. Shompen
+
+C. Rengma
+
+D. Jarawa
 
 <details>
 <summary>Show answer</summary>
@@ -364,7 +385,14 @@ Options: A. Onge B. Shompen C. Rengma D. Jarawa
 </details>
 
 **Q4.** Khasi tribe is correctly matched with:
-Options: A. Arunachal Pradesh B. Meghalaya C. Rajasthan D. Tamil Nadu
+
+A. Arunachal Pradesh
+
+B. Meghalaya
+
+C. Rajasthan
+
+D. Tamil Nadu
 
 <details>
 <summary>Show answer</summary>
@@ -373,7 +401,14 @@ Options: A. Arunachal Pradesh B. Meghalaya C. Rajasthan D. Tamil Nadu
 </details>
 
 **Q5.** Birhor tribe is correctly matched with:
-Options: A. Tamil Nadu B. Jharkhand C. Nagaland D. Kerala
+
+A. Tamil Nadu
+
+B. Jharkhand
+
+C. Nagaland
+
+D. Kerala
 
 <details>
 <summary>Show answer</summary>
@@ -382,7 +417,14 @@ Options: A. Tamil Nadu B. Jharkhand C. Nagaland D. Kerala
 </details>
 
 **Q6.** Toda tribe is correctly matched with:
-Options: A. Nagaland B. Tamil Nadu C. Gujarat D. Punjab
+
+A. Nagaland
+
+B. Tamil Nadu
+
+C. Gujarat
+
+D. Punjab
 
 <details>
 <summary>Show answer</summary>
@@ -391,7 +433,14 @@ Options: A. Nagaland B. Tamil Nadu C. Gujarat D. Punjab
 </details>
 
 **Q7.** Kuki is correctly associated with:
-Options: A. Uttar Pradesh B. North-East India C. Kalahari D. Nicobar only
+
+A. Uttar Pradesh
+
+B. North-East India
+
+C. Kalahari
+
+D. Nicobar only
 
 <details>
 <summary>Show answer</summary>
@@ -400,7 +449,14 @@ Options: A. Uttar Pradesh B. North-East India C. Kalahari D. Nicobar only
 </details>
 
 **Q8.** Masai habitat is:
-Options: A. West Africa B. East Africa C. Kalahari only D. Congo Basin only
+
+A. West Africa
+
+B. East Africa
+
+C. Kalahari only
+
+D. Congo Basin only
 
 <details>
 <summary>Show answer</summary>
@@ -409,7 +465,14 @@ Options: A. West Africa B. East Africa C. Kalahari only D. Congo Basin only
 </details>
 
 **Q9.** Which pair is NOT correctly matched?
-Options: A. Bushman — Kalahari B. Pygmy — Congo Basin C. Eskimo — Northern Canada D. Masai — West Africa
+
+A. Bushman — Kalahari
+
+B. Pygmy — Congo Basin
+
+C. Eskimo — Northern Canada
+
+D. Masai — West Africa
 
 <details>
 <summary>Show answer</summary>
@@ -418,7 +481,14 @@ Options: A. Bushman — Kalahari B. Pygmy — Congo Basin C. Eskimo — Northern
 </details>
 
 **Q10.** Khirghiz are NOT correctly matched with:
-Options: A. Central Asia B. Sudan C. Steppe pastoral tradition D. Neither A nor C as wrong labels
+
+A. Central Asia
+
+B. Sudan
+
+C. Steppe pastoral tradition
+
+D. Neither A nor C as wrong labels
 
 <details>
 <summary>Show answer</summary>
@@ -427,7 +497,14 @@ Options: A. Central Asia B. Sudan C. Steppe pastoral tradition D. Neither A nor 
 </details>
 
 **Q11.** Koryak people are associated with:
-Options: A. Alaska B. North-east Siberia C. Congo Basin D. Nilgiris
+
+A. Alaska
+
+B. North-east Siberia
+
+C. Congo Basin
+
+D. Nilgiris
 
 <details>
 <summary>Show answer</summary>
@@ -436,7 +513,14 @@ Options: A. Alaska B. North-east Siberia C. Congo Basin D. Nilgiris
 </details>
 
 **Q12.** Ainu are correctly matched with:
-Options: A. Sudan B. Japan C. Nagaland D. Borneo
+
+A. Sudan
+
+B. Japan
+
+C. Nagaland
+
+D. Borneo
 
 <details>
 <summary>Show answer</summary>
@@ -445,7 +529,14 @@ Options: A. Sudan B. Japan C. Nagaland D. Borneo
 </details>
 
 **Q13.** Headquarters of IMD is at:
-Options: A. Pune only as national HQ claim B. New Delhi C. Dehradun D. Karnal
+
+A. Pune only as national HQ claim
+
+B. New Delhi
+
+C. Dehradun
+
+D. Karnal
 
 <details>
 <summary>Show answer</summary>
@@ -454,7 +545,14 @@ Options: A. Pune only as national HQ claim B. New Delhi C. Dehradun D. Karnal
 </details>
 
 **Q14.** Headquarters of ICAR is at:
-Options: A. Karnal B. New Delhi C. Izatnagar D. Bengaluru
+
+A. Karnal
+
+B. New Delhi
+
+C. Izatnagar
+
+D. Bengaluru
 
 <details>
 <summary>Show answer</summary>
@@ -463,7 +561,14 @@ Options: A. Karnal B. New Delhi C. Izatnagar D. Bengaluru
 </details>
 
 **Q15.** IARI is located at:
-Options: A. Pantnagar B. Pusa, New Delhi C. Lucknow D. Dehradun
+
+A. Pantnagar
+
+B. Pusa, New Delhi
+
+C. Lucknow
+
+D. Dehradun
 
 <details>
 <summary>Show answer</summary>
@@ -472,7 +577,14 @@ Options: A. Pantnagar B. Pusa, New Delhi C. Lucknow D. Dehradun
 </details>
 
 **Q16.** Forest Research Institute (FRI) is at:
-Options: A. New Delhi B. Dehradun C. Bareilly D. Shimla only
+
+A. New Delhi
+
+B. Dehradun
+
+C. Bareilly
+
+D. Shimla only
 
 <details>
 <summary>Show answer</summary>
@@ -481,7 +593,14 @@ Options: A. New Delhi B. Dehradun C. Bareilly D. Shimla only
 </details>
 
 **Q17.** NDRI is at:
-Options: A. Izatnagar B. Karnal C. Lucknow D. Port Blair
+
+A. Izatnagar
+
+B. Karnal
+
+C. Lucknow
+
+D. Port Blair
 
 <details>
 <summary>Show answer</summary>
@@ -490,7 +609,14 @@ Options: A. Izatnagar B. Karnal C. Lucknow D. Port Blair
 </details>
 
 **Q18.** IVRI is at:
-Options: A. Karnal B. Izatnagar (Bareilly), UP C. Pusa only D. Anand only
+
+A. Karnal
+
+B. Izatnagar (Bareilly), UP
+
+C. Pusa only
+
+D. Anand only
 
 <details>
 <summary>Show answer</summary>
@@ -499,7 +625,14 @@ Options: A. Karnal B. Izatnagar (Bareilly), UP C. Pusa only D. Anand only
 </details>
 
 **Q19.** IIHR is mainly associated with:
-Options: A. Dairy at Karnal B. Horticulture research at Bengaluru C. Cyclone warning only D. Sentinelese census only
+
+A. Dairy at Karnal
+
+B. Horticulture research at Bengaluru
+
+C. Cyclone warning only
+
+D. Sentinelese census only
 
 <details>
 <summary>Show answer</summary>
@@ -508,7 +641,14 @@ Options: A. Dairy at Karnal B. Horticulture research at Bengaluru C. Cyclone war
 </details>
 
 **Q20.** CISH (subtropical horticulture) is at:
-Options: A. Bengaluru B. Lucknow C. Kohima D. Kalahari
+
+A. Bengaluru
+
+B. Lucknow
+
+C. Kohima
+
+D. Kalahari
 
 <details>
 <summary>Show answer</summary>
@@ -517,7 +657,14 @@ Options: A. Bengaluru B. Lucknow C. Kohima D. Kalahari
 </details>
 
 **Q21.** Shompen tribe belongs to:
-Options: A. Nicobar (Great Nicobar) B. Nagaland C. Rajasthan D. Punjab
+
+A. Nicobar (Great Nicobar)
+
+B. Nagaland
+
+C. Rajasthan
+
+D. Punjab
 
 <details>
 <summary>Show answer</summary>
@@ -526,7 +673,14 @@ Options: A. Nicobar (Great Nicobar) B. Nagaland C. Rajasthan D. Punjab
 </details>
 
 **Q22.** Sentinelese are associated with:
-Options: A. Nicobar plains towns B. Andaman Islands C. Meghalaya plateau D. Terai of UP
+
+A. Nicobar plains towns
+
+B. Andaman Islands
+
+C. Meghalaya plateau
+
+D. Terai of UP
 
 <details>
 <summary>Show answer</summary>
@@ -535,7 +689,14 @@ Options: A. Nicobar plains towns B. Andaman Islands C. Meghalaya plateau D. Tera
 </details>
 
 **Q23.** Saharya tribe in UP notification is linked mainly with:
-Options: A. Lakhimpur Kheri only B. Lalitpur C. Nicobar D. Japan
+
+A. Lakhimpur Kheri only
+
+B. Lalitpur
+
+C. Nicobar
+
+D. Japan
 
 <details>
 <summary>Show answer</summary>
@@ -544,7 +705,14 @@ Options: A. Lakhimpur Kheri only B. Lalitpur C. Nicobar D. Japan
 </details>
 
 **Q24.** Which two are correctly matched? Keria–Odisha and Paliyan–Tamil Nadu
-Options: A. Only first B. Only second C. Both D. Neither
+
+A. Only first
+
+B. Only second
+
+C. Both
+
+D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -553,7 +721,14 @@ Options: A. Only first B. Only second C. Both D. Neither
 </details>
 
 **Q25.** Yanadi tribe is NOT correctly matched with:
-Options: A. Andhra Pradesh B. Rajasthan C. Coastal plains tradition D. None of these
+
+A. Andhra Pradesh
+
+B. Rajasthan
+
+C. Coastal plains tradition
+
+D. None of these
 
 <details>
 <summary>Show answer</summary>
@@ -564,7 +739,14 @@ Options: A. Andhra Pradesh B. Rajasthan C. Coastal plains tradition D. None of t
 ---
 
 **Q26.** Agariya tribe of UP is specially remembered for:
-Options: A. Sea fishing in Nicobar B. Traditional iron smelting in Sonbhadra–Mirzapur C. Matriliny of Meghalaya D. Being a Naga group
+
+A. Sea fishing in Nicobar
+
+B. Traditional iron smelting in Sonbhadra–Mirzapur
+
+C. Matriliny of Meghalaya
+
+D. Being a Naga group
 
 <details>
 <summary>Show answer</summary>
@@ -573,7 +755,14 @@ Options: A. Sea fishing in Nicobar B. Traditional iron smelting in Sonbhadra–M
 </details>
 
 **Q27.** Saharya tribe in UP is mainly notified in:
-Options: A. Lakhimpur Kheri B. Lalitpur C. Nagaland D. Nicobar
+
+A. Lakhimpur Kheri
+
+B. Lalitpur
+
+C. Nagaland
+
+D. Nicobar
 
 <details>
 <summary>Show answer</summary>
@@ -582,7 +771,14 @@ Options: A. Lakhimpur Kheri B. Lalitpur C. Nagaland D. Nicobar
 </details>
 
 **Q28.** Khasi and Garo societies are classically described as:
-Options: A. Strictly patrilineal only B. Matrilineal C. Andaman Negrito only D. Kyrgyz steppe only
+
+A. Strictly patrilineal only
+
+B. Matrilineal
+
+C. Andaman Negrito only
+
+D. Kyrgyz steppe only
 
 <details>
 <summary>Show answer</summary>
@@ -591,7 +787,14 @@ Options: A. Strictly patrilineal only B. Matrilineal C. Andaman Negrito only D. 
 </details>
 
 **Q29.** Sentinelese live on:
-Options: A. Great Nicobar town belt B. North Sentinel Island (Andaman) C. Nilgiri plateau D. Kalahari
+
+A. Great Nicobar town belt
+
+B. North Sentinel Island (Andaman)
+
+C. Nilgiri plateau
+
+D. Kalahari
 
 <details>
 <summary>Show answer</summary>
@@ -600,7 +803,14 @@ Options: A. Great Nicobar town belt B. North Sentinel Island (Andaman) C. Nilgir
 </details>
 
 **Q30.** Which is a correct Jharkhand PVTG / mainland lock?
-Options: A. Birjia — Andaman B. Birhor — Jharkhand C. Rengma — Jharkhand D. Toda — Jharkhand
+
+A. Birjia — Andaman
+
+B. Birhor — Jharkhand
+
+C. Rengma — Jharkhand
+
+D. Toda — Jharkhand
 
 <details>
 <summary>Show answer</summary>
@@ -609,7 +819,14 @@ Options: A. Birjia — Andaman B. Birhor — Jharkhand C. Rengma — Jharkhand D
 </details>
 
 **Q31.** Chenchu tribe is mainly associated with:
-Options: A. Rajasthan desert B. Andhra–Telangana forests C. Nagaland hills only D. Terai of UP
+
+A. Rajasthan desert
+
+B. Andhra–Telangana forests
+
+C. Nagaland hills only
+
+D. Terai of UP
 
 <details>
 <summary>Show answer</summary>
@@ -618,7 +835,14 @@ Options: A. Rajasthan desert B. Andhra–Telangana forests C. Nagaland hills onl
 </details>
 
 **Q32.** Warli painting tradition is linked with tribes of:
-Options: A. Nagaland B. Maharashtra C. Nicobar D. Sikkim only
+
+A. Nagaland
+
+B. Maharashtra
+
+C. Nicobar
+
+D. Sikkim only
 
 <details>
 <summary>Show answer</summary>
@@ -627,7 +851,14 @@ Options: A. Nagaland B. Maharashtra C. Nicobar D. Sikkim only
 </details>
 
 **Q33.** Scheduled Tribe lists in India are notified:
-Options: A. As one single all-India roster only B. State/UT-wise under Article 342 C. Only by state governors without President D. Only for Andaman
+
+A. As one single all-India roster only
+
+B. State/UT-wise under Article 342
+
+C. Only by state governors without President
+
+D. Only for Andaman
 
 <details>
 <summary>Show answer</summary>
@@ -636,7 +867,14 @@ Options: A. As one single all-India roster only B. State/UT-wise under Article 3
 </details>
 
 **Q34.** Two geographic tribal clusters of UP are:
-Options: A. Kalahari and Congo B. Terai (north) and Vindhyan/Sonbhadra (south) C. Only Nicobar and Japan D. Only Punjab and Kerala
+
+A. Kalahari and Congo
+
+B. Terai (north) and Vindhyan/Sonbhadra (south)
+
+C. Only Nicobar and Japan
+
+D. Only Punjab and Kerala
 
 <details>
 <summary>Show answer</summary>
@@ -645,7 +883,14 @@ Options: A. Kalahari and Congo B. Terai (north) and Vindhyan/Sonbhadra (south) C
 </details>
 
 **Q35.** Meena (Mina) tribe is mainly associated with:
-Options: A. Meghalaya B. Rajasthan C. Andaman D. Kerala
+
+A. Meghalaya
+
+B. Rajasthan
+
+C. Andaman
+
+D. Kerala
 
 <details>
 <summary>Show answer</summary>
@@ -656,13 +901,22 @@ Options: A. Meghalaya B. Rajasthan C. Andaman D. Kerala
 ## Complete PYQ Bank
 
 **Instructions:** Answers are under `<details>`. Read the full stem before opening. Local `pyq/` 2018–2025 tribe/habitat + Tribal Affairs hits are below. Institute HQ locks are syllabus-mandatory.
+
 **Q1. UPPCS Prelims 2025, Q23**
 Which of the following pairs is/are NOT correctly matched? (Tribe) — (Habitat)
+
 1. Bushman — Kalahari Desert
 2. Eskimo — Northern Canada
 3. Pygmy — Congo Basin
 4. Masai — West Africa
-Options: A. Only 1, 2 and 3 B. Only 4 C. Only 3 and 4 D. Only 1
+
+A. Only 1, 2 and 3
+
+B. Only 4
+
+C. Only 3 and 4
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -674,11 +928,19 @@ Options: A. Only 1, 2 and 3 B. Only 4 C. Only 3 and 4 D. Only 1
 
 **Q2. UPPCS Prelims 2022, Q40**
 Which two of the following are correctly matched?
+
 1. Keria — Odisha
 2. Kuki — Uttar Pradesh
 3. Yanadi — Rajasthan
 4. Paliyan — Tamil Nadu
-Options: A. 3 and 4 B. 1 and 4 C. 2 and 3 D. 1 and 2
+
+A. 3 and 4
+
+B. 1 and 4
+
+C. 2 and 3
+
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
@@ -690,7 +952,14 @@ Options: A. 3 and 4 B. 1 and 4 C. 2 and 3 D. 1 and 2
 
 **Q3. UPPCS Prelims 2021, Q96**
 Which of the following pair is NOT correctly matched? (Place) — (Tribe)
-Options: A. Alaska — Koryak B. Borneo — Punan C. Arab Desert — Ruwala D. Sweden and Finland — Lapps
+
+A. Alaska — Koryak
+
+B. Borneo — Punan
+
+C. Arab Desert — Ruwala
+
+D. Sweden and Finland — Lapps
 
 <details>
 <summary>Show answer</summary>
@@ -702,7 +971,14 @@ Options: A. Alaska — Koryak B. Borneo — Punan C. Arab Desert — Ruwala D. S
 
 **Q4. UPPCS Prelims 2020, Q54**
 Which of the following is NOT correctly matched? (Tribes) — (Location)
-Options: A. Angamis — Nagaland B. Birhors — Jharkhand C. Khas — Arunachal Pradesh D. Todas — Tamil Nadu
+
+A. Angamis — Nagaland
+
+B. Birhors — Jharkhand
+
+C. Khas — Arunachal Pradesh
+
+D. Todas — Tamil Nadu
 
 <details>
 <summary>Show answer</summary>
@@ -714,7 +990,14 @@ Options: A. Angamis — Nagaland B. Birhors — Jharkhand C. Khas — Arunachal 
 
 **Q5. UPPCS Prelims 2020, Q50**
 Which of the following tribes is NOT the native to the Andaman and Nicobar Islands of India?
-Options: A. Halchu B. Rengma C. Onge D. Shompen
+
+A. Halchu
+
+B. Rengma
+
+C. Onge
+
+D. Shompen
 
 <details>
 <summary>Show answer</summary>
@@ -726,7 +1009,14 @@ Options: A. Halchu B. Rengma C. Onge D. Shompen
 
 **Q6. UPPCS Prelims 2019, Q4**
 Which of the following is NOT correctly matched? (Tribe) — (Place)
-Options: A. Pygmy — Congo basin B. Angami — Nagaland C. Ainu — Japan D. Khirghiz — Sudan
+
+A. Pygmy — Congo basin
+
+B. Angami — Nagaland
+
+C. Ainu — Japan
+
+D. Khirghiz — Sudan
 
 <details>
 <summary>Show answer</summary>
@@ -738,11 +1028,19 @@ Options: A. Pygmy — Congo basin B. Angami — Nagaland C. Ainu — Japan D. Kh
 
 **Q7. UPPCS Prelims 2025, Q29**
 In June 2025, the "Adi Karmayogi Beta Version - A Responsive Governance Initiative" was launched by which of the following Ministries?
+
 1. Ministry of AYUSH
 2. Ministry of Women and Child Development
 3. Ministry of Social Justice and Empowerment
 4. Ministry of Tribal Affairs
-Options: A. Only 1 and 2 B. Only 4 C. Only 2 and 3 D. Only 1
+
+A. Only 1 and 2
+
+B. Only 4
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>

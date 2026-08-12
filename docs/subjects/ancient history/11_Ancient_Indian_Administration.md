@@ -442,6 +442,7 @@ A. 2 3 1  B. 3 2 1  C. 2 1 3  D. 1 3 2
 **Q8.** Given below are two statements:
 
 **Assertion (A):** Samaharta collected Mauryan revenue.  
+
 **Reason (R):** Sannidhata stored it.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -530,6 +531,7 @@ A. Only one  B. Only two  C. All three  D. None
 **Q13.** Given below are two statements:
 
 **Assertion (A):** 2024 Q20 answer is Only 2.  
+
 **Reason (R):** Dhamma-mahamatras in the 14th year is the true statement.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -619,6 +621,7 @@ D. Harsha — Siladitya
 **Q18.** Given below are two statements:
 
 **Assertion (A):** Agronomai is keyed as revenue in 2020.  
+
 **Reason (R):** Pautavadhyaksha is the weights officer.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -708,6 +711,7 @@ D. Naneghat — Naganika
 **Q23.** Given below are two statements:
 
 **Assertion (A):** Chandragupta I is the first Gupta Maharajadhiraja.  
+
 **Reason (R):** Sri Gupta and Ghatotkacha stay Maharaja in the record.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -798,6 +802,7 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 **Q28.** Given below are two statements:
 
 **Assertion (A):** 2022 Q87 answer is B.  
+
 **Reason (R):** Jivitagupta II is not the Deo-Baranark king.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -887,6 +892,7 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 **Q33.** Given below are two statements:
 
 **Assertion (A):** Mauryan rule is more central than Gupta rule.  
+
 **Reason (R):** Gupta samantas punch holes in direct control.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -976,6 +982,7 @@ A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
 **Q38.** Given below are two statements:
 
 **Assertion (A):** 2018 Q91 answer is Ayodhya.  
+
 **Reason (R):** Hathigumpha records Pushyamitra’s two ashwamedhas.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -1046,6 +1053,7 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 **Q42.** Given below are two statements:
 
 **Assertion (A):** Maski proves Devanampiya Piyadassi is Ashoka.  
+
 **Reason (R):** Major Rock Edicts usually avoid the personal name.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  

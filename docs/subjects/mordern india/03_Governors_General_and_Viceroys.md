@@ -95,7 +95,13 @@ Mountbatten — 3 June Plan 1947
 
 Who was the founder of the 'Asiatic Society of Bengal'?
 
-Options: A. Jonathan Duncan  B. Sir William Jones  C. Warren Hastings  D. William Bentinck
+A. Jonathan Duncan
+
+B. Sir William Jones
+
+C. Warren Hastings
+
+D. William Bentinck
 
 <details>
 <summary>Show answer</summary>
@@ -155,7 +161,13 @@ Consider the following events and arrange them in chronological order starting f
 3. Recall of Wellesley  
 4. Anglo-Nepalese War
 
-Options: A. 2, 3, 1, 4  B. 4, 1, 3, 2  C. 2, 3, 4, 1  D. 3, 1, 2, 4
+A. 2, 3, 1, 4
+
+B. 4, 1, 3, 2
+
+C. 2, 3, 4, 1
+
+D. 3, 1, 2, 4
 
 <details>
 <summary>Show answer</summary>
@@ -196,7 +208,13 @@ B. Sadlar Commission
 C. Wood's Despatch  
 D. Sargeant Plan
 
-Options: A. A B D C  B. C B A D  C. A B C D  D. C A B D
+A. A B D C
+
+B. C B A D
+
+C. A B C D
+
+D. C A B D
 
 <details>
 <summary>Show answer</summary>
@@ -224,7 +242,13 @@ Match List-I with List-II:
 **List-I** A. Lord Dalhousie  B. Lord Curzon  C. Lord William Bentinck  D. Lord Cornwallis  
 **List-II** 1. Permanent Settlement of Bengal  2. Prohibition of Practice of Sati  3. Partition of Bengal  4. Doctrine of Lapse
 
-Options: A. 4 3 1 2  B. 3 4 2 1  C. 3 4 1 2  D. 4 3 2 1
+A. 4 3 1 2
+
+B. 3 4 2 1
+
+C. 3 4 1 2
+
+D. 4 3 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -240,7 +264,13 @@ Consider the following statements:
 1. Kunwar Singh, Landlord of Jagdishpur in Bihar, led the rebellion against the British.  
 2. Lord Dalhousie recognised the adopted son of Rani Lakshmi Bai as the heir apparent.
 
-Options: A. Only 2  B. Neither 1 nor 2  C. Only 1  D. Both 1 and 2
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Both 1 and 2
 
 <details>
 <summary>Show answer</summary>
@@ -267,7 +297,13 @@ Options: A. Only 2  B. Neither 1 nor 2  C. Only 1  D. Both 1 and 2
 
 Which one of the following Acts of British India strengthened the Viceroy's authority over his executive council by substituting 'portfolio' or 'departmental' system for corporate functioning?
 
-Options: A. Indian Council Act, 1861  B. Government of India Act, 1858  C. Indian Council Act, 1892  D. Indian Council Act, 1909
+A. Indian Council Act, 1861
+
+B. Government of India Act, 1858
+
+C. Indian Council Act, 1892
+
+D. Indian Council Act, 1909
 
 <details>
 <summary>Show answer</summary>
@@ -299,7 +335,13 @@ Options: A. Indian Council Act, 1861  B. Government of India Act, 1858  C. India
 
 Who among the following Governor Generals ridiculed congress as representing only a 'microscopic minority' of people?
 
-Options: A. Lord Dufferin  B. Lord Curzon  C. Lord Minto  D. Lord Lansdown
+A. Lord Dufferin
+
+B. Lord Curzon
+
+C. Lord Minto
+
+D. Lord Lansdown
 
 <details>
 <summary>Show answer</summary>
@@ -335,7 +377,13 @@ With reference to the Civil Administration in 1905, which of the statements is/a
 1. Lord Curzon decided to rearrange the provincial boundaries.  
 2. A new province was constituted, called East Bengal and Assam.
 
-Options: A. 1 only  B. Both 1 and 2  C. 2 only  D. Neither 1 nor 2
+A. 1 only
+
+B. Both 1 and 2
+
+C. 2 only
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -367,7 +415,13 @@ Options: A. 1 only  B. Both 1 and 2  C. 2 only  D. Neither 1 nor 2
 
 Which among the following organisations was responsible for throwing a bomb at Viceroy Lord Hardinge in Delhi?
 
-Options: A. All India Labour Association  B. United Patriotic Association  C. Anushilan Samiti  D. Yugantar
+A. All India Labour Association
+
+B. United Patriotic Association
+
+C. Anushilan Samiti
+
+D. Yugantar
 
 <details>
 <summary>Show answer</summary>
@@ -395,7 +449,13 @@ Consider the following events and arrange them in chronological order:
 3. Ramgarh Congress Session  
 4. Resignation letters of Congress Ministers
 
-Options: A. 3, 1, 4, 2  B. 4, 3, 1, 2  C. 1, 3, 4, 2  D. 4, 2, 3, 1
+A. 3, 1, 4, 2
+
+B. 4, 3, 1, 2
+
+C. 1, 3, 4, 2
+
+D. 4, 2, 3, 1
 
 <details>
 <summary>Show answer</summary>
@@ -422,7 +482,13 @@ Consider the following events and arrange them in correct chronological order.
 3. Shimla Conference  
 4. Wavell Plan
 
-Options: A. 1, 4, 3, 2  B. 4, 1, 2, 3  C. 4, 1, 3, 2  D. 1, 4, 2, 3
+A. 1, 4, 3, 2
+
+B. 4, 1, 2, 3
+
+C. 4, 1, 3, 2
+
+D. 1, 4, 2, 3
 
 <details>
 <summary>Show answer</summary>
@@ -473,7 +539,13 @@ Consider the following events and arrange them in correct chronological order.
 3. Indigo Revolt  
 4. Second Anglo-Afghan War
 
-Options: A. 1, 3, 4, 2  B. 3, 1, 2, 4  C. 3, 1, 4, 2  D. 1, 3, 2, 4
+A. 1, 3, 4, 2
+
+B. 3, 1, 2, 4
+
+C. 3, 1, 4, 2
+
+D. 1, 3, 2, 4
 
 <details>
 <summary>Show answer</summary>
@@ -495,7 +567,13 @@ Options: A. 1, 3, 4, 2  B. 3, 1, 2, 4  C. 3, 1, 4, 2  D. 1, 3, 2, 4
 
 By which of the following Acts was the Chamber of Princes with 120 members created?
 
-Options: A. Charter Act of 1853  B. Act of 1793  C. Act of 1909  D. Government of India Act, 1919
+A. Charter Act of 1853
+
+B. Act of 1793
+
+C. Act of 1909
+
+D. Government of India Act, 1919
 
 <details>
 <summary>Show answer</summary>
@@ -513,7 +591,13 @@ Who among the following resigned from the Viceroy's Executive Council in protest
 3. Muhammad Shafi  
 4. Iqbal Narayan Gurtu
 
-Options: A. 2 and 3  B. Only 4  C. 3 and 4  D. Only 1
+A. 2 and 3
+
+B. Only 4
+
+C. 3 and 4
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -526,7 +610,13 @@ Options: A. 2 and 3  B. Only 4  C. 3 and 4  D. Only 1
 
 Who returned the 'Knighthood' title to the British Government in reaction against the Jallianwala Bagh Massacre?
 
-Options: A. Md. Ali Jinnah  B. Rabindranath Tagore  C. Rameshwar Singh  D. Shankaran Nair
+A. Md. Ali Jinnah
+
+B. Rabindranath Tagore
+
+C. Rameshwar Singh
+
+D. Shankaran Nair
 
 <details>
 <summary>Show answer</summary>
@@ -560,7 +650,13 @@ With reference to the Age of Consent Act, 1891 consider the following statements
 1. It was Behramji Malabari, a Parsi reformer from Bombay, who advocated for this legislation.  
 2. The Act was supported by the extremist wing led by Bal Gangadhar Tilak.
 
-Options: A. Only 2  B. Neither 1 nor 2  C. Only 1  D. Both 1 and 2
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Both 1 and 2
 
 <details>
 <summary>Show answer</summary>
@@ -627,7 +723,13 @@ Options: A. Only 2  B. Neither 1 nor 2  C. Only 1  D. Both 1 and 2
 **List-I** A. Dalhousie  B. Curzon  C. Bentinck  D. Cornwallis  
 **List-II** 1. Permanent Settlement  2. Sati  3. Partition of Bengal  4. Doctrine of Lapse
 
-Options: A. 4 3 1 2  B. 3 4 2 1  C. 3 4 1 2  D. 4 3 2 1
+A. 4 3 1 2
+
+B. 3 4 2 1
+
+C. 3 4 1 2
+
+D. 4 3 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -640,7 +742,13 @@ Options: A. 4 3 1 2  B. 3 4 2 1  C. 3 4 1 2  D. 4 3 2 1
 
 **Q2.** Who among the following ridiculed Congress as a “microscopic minority”?
 
-Options: A. Lord Dufferin  B. Lord Curzon  C. Lord Minto  D. Lord Lansdowne
+A. Lord Dufferin
+
+B. Lord Curzon
+
+C. Lord Minto
+
+D. Lord Lansdowne
 
 <details>
 <summary>Show answer</summary>
@@ -656,7 +764,13 @@ Options: A. Lord Dufferin  B. Lord Curzon  C. Lord Minto  D. Lord Lansdowne
 1. Warren Hastings was the first Viceroy of India.  
 2. Lord Canning was the first Viceroy after the Government of India Act, 1858.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -673,7 +787,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Vernacular Press Act — Lord Ripon  
 3. Local Self-Government Resolution 1882 — Lord Ripon
 
-Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
+A. Only 2
+
+B. Only 1 and 2
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -710,7 +830,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 3. Second Anglo-Afghan War  
 4. Indigo Revolt
 
-Options: A. 2, 4, 3, 1  B. 4, 2, 1, 3  C. 2, 4, 1, 3  D. 2, 3, 4, 1
+A. 2, 4, 3, 1
+
+B. 4, 2, 1, 3
+
+C. 2, 4, 1, 3
+
+D. 2, 3, 4, 1
 
 <details>
 <summary>Show answer</summary>
@@ -726,7 +852,13 @@ Options: A. 2, 4, 3, 1  B. 4, 2, 1, 3  C. 2, 4, 1, 3  D. 2, 3, 4, 1
 1. The Minute on Education (1835) favoured English as the medium of higher education.  
 2. Wood’s Despatch (1854) is another name for Macaulay’s Minute.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -742,7 +874,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. Wellesley  B. Dalhousie  C. Lytton  D. Ripon  
 **List-II** 1. Ilbert Bill  2. Subsidiary Alliance  3. Vernacular Press Act  4. Doctrine of Lapse
 
-Options: A. 2 4 3 1  B. 2 4 1 3  C. 4 2 3 1  D. 2 3 4 1
+A. 2 4 3 1
+
+B. 2 4 1 3
+
+C. 4 2 3 1
+
+D. 2 3 4 1
 
 <details>
 <summary>Show answer</summary>
@@ -760,7 +898,13 @@ Options: A. 2 4 3 1  B. 2 4 1 3  C. 4 2 3 1  D. 2 3 4 1
 
 Which of the statements given above is/are correct?
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -776,7 +920,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. The capital of India was shifted from Calcutta to Delhi in 1911.  
 2. The Partition of Bengal was announced during his tenure in 1905.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -808,7 +958,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q12.** Arrange: 1. Cripps Mission  2. Cabinet Mission  3. Shimla Conference  4. Wavell Plan
 
-Options: A. 1, 4, 3, 2  B. 4, 1, 2, 3  C. 1, 4, 2, 3  D. 4, 1, 3, 2
+A. 1, 4, 3, 2
+
+B. 4, 1, 2, 3
+
+C. 1, 4, 2, 3
+
+D. 4, 1, 3, 2
 
 <details>
 <summary>Show answer</summary>
@@ -824,7 +980,13 @@ Options: A. 1, 4, 3, 2  B. 4, 1, 2, 3  C. 1, 4, 2, 3  D. 4, 1, 3, 2
 1. It was ended by Warren Hastings in 1772.  
 2. It was created by Lord Cornwallis in 1793.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -841,7 +1003,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. First GG of India — Lord Canning  
 3. First Viceroy — Lord Canning
 
-Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
+A. Only 2
+
+B. Only 1 and 2
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -859,7 +1027,13 @@ Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
 
 Which of the statements given above is/are correct?
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -875,7 +1049,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. It introduced the portfolio or departmental system.  
 2. It was passed during Lord Canning’s viceroyalty.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -893,7 +1073,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 3. Anglo-Nepalese War  
 4. Vellore Mutiny
 
-Options: A. 2, 1, 4, 3  B. 2, 1, 3, 4  C. 1, 2, 4, 3  D. 2, 4, 1, 3
+A. 2, 1, 4, 3
+
+B. 2, 1, 3, 4
+
+C. 1, 2, 4, 3
+
+D. 2, 4, 1, 3
 
 <details>
 <summary>Show answer</summary>
@@ -925,7 +1111,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q19.** Who resigned from the Viceroy’s Executive Council after Jallianwala Bagh?
 
-Options: A. Rabindranath Tagore  B. Chettur Sankaran Nair  C. Motilal Nehru  D. Madan Mohan Malaviya
+A. Rabindranath Tagore
+
+B. Chettur Sankaran Nair
+
+C. Motilal Nehru
+
+D. Madan Mohan Malaviya
 
 <details>
 <summary>Show answer</summary>
@@ -941,7 +1133,13 @@ Options: A. Rabindranath Tagore  B. Chettur Sankaran Nair  C. Motilal Nehru  D. 
 1. He is the same person as Warren Hastings, the first Governor-General.  
 2. The Anglo-Nepal War and Treaty of Sugauli fall in his tenure.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -957,7 +1155,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. Hardinge  B. Minto II  C. Linlithgow  D. Wavell  
 **List-II** 1. August Offer  2. Delhi capital 1911  3. Wavell Plan  4. Separate electorates 1909
 
-Options: A. 2 4 1 3  B. 2 4 3 1  C. 4 2 1 3  D. 2 1 4 3
+A. 2 4 1 3
+
+B. 2 4 3 1
+
+C. 4 2 1 3
+
+D. 2 1 4 3
 
 <details>
 <summary>Show answer</summary>
@@ -975,7 +1179,13 @@ Options: A. 2 4 1 3  B. 2 4 3 1  C. 4 2 1 3  D. 2 1 4 3
 
 Which of the statements given above is/are correct?
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -991,7 +1201,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. Sati was abolished in 1829.  
 2. William Sleeman led the campaign against Thuggee.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1010,7 +1226,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Hunter Commission — 1882  
 3. Sadler Commission — 1854
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1023,7 +1245,13 @@ Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
 
 **Q25.** Arrange: 1. Cripps Mission  2. Resignation of Congress ministries  3. August Offer  4. Ramgarh Session
 
-Options: A. 2, 4, 3, 1  B. 4, 2, 3, 1  C. 2, 3, 4, 1  D. 2, 4, 1, 3
+A. 2, 4, 3, 1
+
+B. 4, 2, 3, 1
+
+C. 2, 3, 4, 1
+
+D. 2, 4, 1, 3
 
 <details>
 <summary>Show answer</summary>
@@ -1039,7 +1267,13 @@ Options: A. 2, 4, 3, 1  B. 4, 2, 3, 1  C. 2, 3, 4, 1  D. 2, 4, 1, 3
 1. Awadh was annexed in 1856 under the Doctrine of Lapse.  
 2. The first railway in India ran during his tenure (1853).
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1071,7 +1305,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q28.** The bomb thrown at Lord Hardinge in Delhi (1912) is associated with which organisation?
 
-Options: A. Ghadar Party  B. Anushilan Samiti  C. Hindustan Republican Association  D. Indian Independence League
+A. Ghadar Party
+
+B. Anushilan Samiti
+
+C. Hindustan Republican Association
+
+D. Indian Independence League
 
 <details>
 <summary>Show answer</summary>
@@ -1087,7 +1327,13 @@ Options: A. Ghadar Party  B. Anushilan Samiti  C. Hindustan Republican Associati
 1. The first Subsidiary Alliance was with Hyderabad in 1798.  
 2. He was recalled in 1805.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1105,7 +1351,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 Which of the statements given above is/are correct?
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1122,7 +1374,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Irwin — Gandhi–Irwin Pact, 1931  
 3. Ellenborough — Partition of Bengal
 
-Options: A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1138,7 +1396,13 @@ Options: A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
 1. Behramji Malabari advocated the legislation.  
 2. Bal Gangadhar Tilak led extremist support for the Act.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1151,7 +1415,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q33.** Arrange education landmarks: 1. Hunter Commission  2. Wood’s Despatch  3. Macaulay’s Minute  4. Sargeant Plan
 
-Options: A. 3, 2, 1, 4  B. 2, 3, 1, 4  C. 3, 1, 2, 4  D. 3, 2, 4, 1
+A. 3, 2, 1, 4
+
+B. 2, 3, 1, 4
+
+C. 3, 1, 2, 4
+
+D. 3, 2, 4, 1
 
 <details>
 <summary>Show answer</summary>
@@ -1167,7 +1437,13 @@ Options: A. 3, 2, 1, 4  B. 2, 3, 1, 4  C. 3, 1, 2, 4  D. 3, 2, 4, 1
 1. Morley–Minto Reforms introduced separate electorates for Muslims.  
 2. Dyarchy in the provinces was introduced by the Act of 1909.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1202,7 +1478,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 1. Delhi Durbar of 1877 proclaimed Victoria as Empress.  
 2. Second Anglo-Afghan War began in his tenure.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1215,7 +1497,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q37.** Who among the following was the first Governor-General of India under the Charter Act of 1833?
 
-Options: A. Warren Hastings  B. Lord Cornwallis  C. Lord William Bentinck  D. Lord Dalhousie
+A. Warren Hastings
+
+B. Lord Cornwallis
+
+C. Lord William Bentinck
+
+D. Lord Dalhousie
 
 <details>
 <summary>Show answer</summary>
@@ -1234,7 +1522,13 @@ Options: A. Warren Hastings  B. Lord Cornwallis  C. Lord William Bentinck  D. Lo
 
 How many of the above statements are correct?
 
-Options: A. Only one  B. Only two  C. All three  D. None
+A. Only one
+
+B. Only two
+
+C. All three
+
+D. None
 
 <details>
 <summary>Show answer</summary>
@@ -1251,7 +1545,13 @@ Options: A. Only one  B. Only two  C. All three  D. None
 2. Mountbatten — last Viceroy  
 3. Warren Hastings — first Viceroy
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1267,7 +1567,13 @@ Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
 1. The August Offer was made in 1940.  
 2. Congress ministries resigned in 1939, before the August Offer.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1298,7 +1604,13 @@ D. Lord Cornwallis
 3. Partition of Bengal  
 4. Doctrine of Lapse
 
-Options: A. 4 3 1 2  B. 3 4 2 1  C. 3 4 1 2  D. 4 3 2 1
+A. 4 3 1 2
+
+B. 3 4 2 1
+
+C. 3 4 1 2
+
+D. 4 3 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -1316,7 +1628,13 @@ Consider the following events and arrange them in correct chronological order.
 3. Shimla Conference  
 4. Wavell Plan
 
-Options: A. 1, 4, 3, 2  B. 4, 1, 2, 3  C. 4, 1, 3, 2  D. 1, 4, 2, 3
+A. 1, 4, 3, 2
+
+B. 4, 1, 2, 3
+
+C. 4, 1, 3, 2
+
+D. 1, 4, 2, 3
 
 <details>
 <summary>Show answer</summary>
@@ -1334,7 +1652,13 @@ Consider the following events and arrange them in correct chronological order.
 3. Indigo Revolt  
 4. Second Anglo-Afghan War
 
-Options: A. 1, 3, 4, 2  B. 3, 1, 2, 4  C. 3, 1, 4, 2  D. 1, 3, 2, 4
+A. 1, 3, 4, 2
+
+B. 3, 1, 2, 4
+
+C. 3, 1, 4, 2
+
+D. 1, 3, 2, 4
 
 <details>
 <summary>Show answer</summary>
@@ -1352,7 +1676,13 @@ Who among the following resigned from the Viceroy's Executive Council in protest
 3. Muhammad Shafi  
 4. Iqbal Narayan Gurtu
 
-Options: A. 2 and 3  B. Only 4  C. 3 and 4  D. Only 1
+A. 2 and 3
+
+B. Only 4
+
+C. 3 and 4
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1370,7 +1700,13 @@ With reference to the Age of Consent Act, 1891 consider the following statements
 1. It was Behramji Malabari, a Parsi reformer from Bombay, who advocated for this legislation.  
 2. The Act was supported by the extremist wing led by Bal Gangadhar Tilak.
 
-Options: A. Only 2  B. Neither 1 nor 2  C. Only 1  D. Both 1 and 2
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Both 1 and 2
 
 <details>
 <summary>Show answer</summary>
@@ -1388,7 +1724,13 @@ Consider the following events and arrange them in chronological order:
 3. Ramgarh Congress Session  
 4. Resignation letters of Congress Ministers
 
-Options: A. 3, 1, 4, 2  B. 4, 3, 1, 2  C. 1, 3, 4, 2  D. 4, 2, 3, 1
+A. 3, 1, 4, 2
+
+B. 4, 3, 1, 2
+
+C. 1, 3, 4, 2
+
+D. 4, 2, 3, 1
 
 <details>
 <summary>Show answer</summary>
@@ -1406,7 +1748,13 @@ Consider the following events and arrange them in chronological order starting f
 3. Recall of Wellesley  
 4. Anglo-Nepalese War
 
-Options: A. 2, 3, 1, 4  B. 4, 1, 3, 2  C. 2, 3, 4, 1  D. 3, 1, 2, 4
+A. 2, 3, 1, 4
+
+B. 4, 1, 3, 2
+
+C. 2, 3, 4, 1
+
+D. 3, 1, 2, 4
 
 <details>
 <summary>Show answer</summary>
@@ -1422,7 +1770,13 @@ Consider the following statements:
 1. Kunwar Singh, Landlord of Jagdishpur in Bihar, led the rebellion against the British.  
 2. Lord Dalhousie recognised the adopted son of Rani Lakshmi Bai as the heir apparent.
 
-Options: A. Only 2  B. Neither 1 nor 2  C. Only 1  D. Both 1 and 2
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Both 1 and 2
 
 <details>
 <summary>Show answer</summary>
@@ -1437,7 +1791,13 @@ Options: A. Only 2  B. Neither 1 nor 2  C. Only 1  D. Both 1 and 2
 
 Which among the following organisations was responsible for throwing a bomb at Viceroy Lord Hardinge in Delhi?
 
-Options: A. All India Labour Association  B. United Patriotic Association  C. Anushilan Samiti  D. Yugantar
+A. All India Labour Association
+
+B. United Patriotic Association
+
+C. Anushilan Samiti
+
+D. Yugantar
 
 <details>
 <summary>Show answer</summary>
@@ -1450,7 +1810,13 @@ Options: A. All India Labour Association  B. United Patriotic Association  C. An
 
 By which of the following Acts was the Chamber of Princes with 120 members created?
 
-Options: A. Charter Act of 1853  B. Act of 1793  C. Act of 1909  D. Government of India Act, 1919
+A. Charter Act of 1853
+
+B. Act of 1793
+
+C. Act of 1909
+
+D. Government of India Act, 1919
 
 <details>
 <summary>Show answer</summary>
@@ -1465,7 +1831,13 @@ Options: A. Charter Act of 1853  B. Act of 1793  C. Act of 1909  D. Government o
 
 Who returned the 'Knighthood' title to the British Government in reaction against the Jallianwala Bagh Massacre?
 
-Options: A. Md. Ali Jinnah  B. Rabindranath Tagore  C. Rameshwar Singh  D. Shankaran Nair
+A. Md. Ali Jinnah
+
+B. Rabindranath Tagore
+
+C. Rameshwar Singh
+
+D. Shankaran Nair
 
 <details>
 <summary>Show answer</summary>
@@ -1480,7 +1852,13 @@ Options: A. Md. Ali Jinnah  B. Rabindranath Tagore  C. Rameshwar Singh  D. Shank
 
 Which one of the following Acts of British India strengthened the Viceroy's authority over his executive council by substituting 'portfolio' or 'departmental' system for corporate functioning?
 
-Options: A. Indian Council Act, 1861  B. Government of India Act, 1858  C. Indian Council Act, 1892  D. Indian Council Act, 1909
+A. Indian Council Act, 1861
+
+B. Government of India Act, 1858
+
+C. Indian Council Act, 1892
+
+D. Indian Council Act, 1909
 
 <details>
 <summary>Show answer</summary>
@@ -1493,7 +1871,13 @@ Options: A. Indian Council Act, 1861  B. Government of India Act, 1858  C. India
 
 Who was the founder of the 'Asiatic Society of Bengal'?
 
-Options: A. Jonathan Duncan  B. Sir William Jones  C. Warren Hastings  D. William Bentinck
+A. Jonathan Duncan
+
+B. Sir William Jones
+
+C. Warren Hastings
+
+D. William Bentinck
 
 <details>
 <summary>Show answer</summary>
@@ -1530,7 +1914,13 @@ With reference to the Civil Administration in 1905, which of the statements is/a
 1. Lord Curzon decided to rearrange the provincial boundaries.  
 2. A new province was constituted, called East Bengal and Assam.
 
-Options: A. 1 only  B. Both 1 and 2  C. 2 only  D. Neither 1 nor 2
+A. 1 only
+
+B. Both 1 and 2
+
+C. 2 only
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1550,7 +1940,13 @@ B. Sadlar Commission
 C. Wood's Despatch  
 D. Sargeant Plan
 
-Options: A. A B D C  B. C B A D  C. A B C D  D. C A B D
+A. A B D C
+
+B. C B A D
+
+C. A B C D
+
+D. C A B D
 
 <details>
 <summary>Show answer</summary>
@@ -1563,7 +1959,13 @@ Options: A. A B D C  B. C B A D  C. A B C D  D. C A B D
 
 Who among the following Governor Generals ridiculed congress as representing only a 'microscopic minority' of people?
 
-Options: A. Lord Dufferin  B. Lord Curzon  C. Lord Minto  D. Lord Lansdown
+A. Lord Dufferin
+
+B. Lord Curzon
+
+C. Lord Minto
+
+D. Lord Lansdown
 
 <details>
 <summary>Show answer</summary>

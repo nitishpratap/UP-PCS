@@ -123,13 +123,19 @@ Rises **Bokhar Chu** (Tibet, near Mansarovar); antecedent gorge in Ladakh; to **
 > **Exam note:** Trans-Himalayan among Jhelum/Sutlej/Ganga/Ravi = **Sutlej** (2020 Q52). 2025 Q92 NOT matched: **Pandoh–Ravi** and **Srisailam–Tungabhadra**.
 
 **PYQ — UPPCS Prelims 2025, Q92**
+
 Which of the following pairs is/are NOT correctly matched? (Dam) — (River)
+
 1. Baglihar Dam — Chenab
 2. Pandoh Dam — Ravi
 3. Srisailam Dam — Tungabhadra
+
 A. 1 and 2
+
 B. Only 3
+
 C. 2 and 3
+
 D. Only 1
 
 <details>
@@ -172,12 +178,19 @@ Upstream → downstream: **Vishnu → Nanda → Karn → Rudra → Dev**.
 | Tehri | Bhagirathi + **Bhilangana** |
 
 **PYQ — UPPCS Prelims 2024, Q74**
+
 Match List-I with List-II:
+
 A. Devprayag · B. Rudraprayag · C. Karnaprayag · D. Tehri
+
 1. Alaknanda and Pindar · 2. Alaknanda and Bhagirathi · 3. Bhagirathi and Bhilangna · 4. Alaknanda and Mandakini
+
 A. 4 1 2 3
+
 B. 2 3 1 4
+
 C. 4 1 3 2
+
 D. 2 4 1 3
 
 <details>
@@ -220,10 +233,15 @@ Bhagirathi = Gangotri; Alaknanda = Satopanth; Yamuna = Yamunotri; Ramganga (West
 
 **2025 Q116:** of Periyar / Pennar / Palar → only **Periyar** to Arabian Sea.
 **PYQ — UPPCS Prelims 2018, Q102**
+
 Which of the following rivers of India does NOT originate from the Western Ghats?
+
 A. Godavari
+
 B. Tapti/Tapi
+
 C. Kaveri
+
 D. Kabini *(paper: Kabam in some OCR)*
 
 <details>
@@ -364,11 +382,20 @@ Godavari longest + largest peninsular basin · Krishna 2nd basin · Narmada long
 > **Format mix:** 50 questions — 20 multi-statement | 10 A/R | 8 match | 6 NOT-matched | 3 sequence | 3 direct recall
 
 **Q1.** With reference to the drainage system of India, which of the following statements is/are correct?
+
 1. The Ganga river is formed at Devprayag by the confluence of the Alaknanda and Bhagirathi.
 2. The Godavari is the largest peninsular river basin in India by area.
 3. The Narmada and Tapi rivers flow eastward into the Bay of Bengal.
+
 Select the correct answer from the code given below:
-Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -377,10 +404,20 @@ Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 </details>
 
 **Q2.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+
 **Assertion (A):** Teesta river was earlier a tributary of Ganga but is now a tributary of Brahmaputra.
+
 **Reason (R):** River capturing is a major feature of Himalayan rivers.
+
 Select the correct answer from the code given below:
-Options: A. Both (A) and (R) are true and (R) is the correct explanation of (A) B. Both (A) and (R) are true, but (R) is not the correct explanation of (A) C. (A) is true, but (R) is false D. (A) is false, but (R) is true
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+C. (A) is true, but (R) is false
+
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
@@ -389,7 +426,14 @@ Options: A. Both (A) and (R) are true and (R) is the correct explanation of (A) 
 </details>
 
 **Q3.** Which one of the following pairs (**Tributary — River**) is **NOT** correctly matched?
-Options: A. Pranhita — Godavari B. Manjra — Godavari C. Malaprabha — Krishna D. Pranhita — Mahanadi
+
+A. Pranhita — Godavari
+
+B. Manjra — Godavari
+
+C. Malaprabha — Krishna
+
+D. Pranhita — Mahanadi
 
 <details>
 <summary>Show answer</summary>
@@ -398,12 +442,21 @@ Options: A. Pranhita — Godavari B. Manjra — Godavari C. Malaprabha — Krish
 </details>
 
 **Q4.** Match **List-I** with **List-II**:
-**List-I (Prayag)** | **List-II (Confluence)**
-A. Devprayag | 1. Alaknanda + Pindar
-B. Karnaprayag | 2. Alaknanda + Bhagirathi
-C. Rudraprayag | 3. Alaknanda + Mandakini
-D. Vishnuprayag | 4. Alaknanda + Dhauli Ganga
-Options: A. 2 1 3 4 B. 4 1 2 3 C. 2 4 1 3 D. 1 2 3 4
+
+| List-I (Prayag) | List-II (Confluence) |
+|---|---|
+| A. Devprayag | 1. Alaknanda + Pindar |
+| B. Karnaprayag | 2. Alaknanda + Bhagirathi |
+| C. Rudraprayag | 3. Alaknanda + Mandakini |
+| D. Vishnuprayag | 4. Alaknanda + Dhauli Ganga |
+
+A. 2 1 3 4
+
+B. 4 1 2 3
+
+C. 2 4 1 3
+
+D. 1 2 3 4
 
 <details>
 <summary>Show answer</summary>
@@ -412,7 +465,14 @@ Options: A. 2 1 3 4 B. 4 1 2 3 C. 2 4 1 3 D. 1 2 3 4
 </details>
 
 **Q5.** Which of the following rivers of India does **NOT** originate from the Western Ghats?
-Options: A. Godavari B. Tapti/Tapi C. Kaveri D. Kabini
+
+A. Godavari
+
+B. Tapti/Tapi
+
+C. Kaveri
+
+D. Kabini
 
 <details>
 <summary>Show answer</summary>
@@ -421,11 +481,20 @@ Options: A. Godavari B. Tapti/Tapi C. Kaveri D. Kabini
 </details>
 
 **Q6.** With reference to rivers of Uttar Pradesh, which of the following statements is/are correct?
+
 1. Ram Ganga joins the Ganga at Kannauj.
 2. River Betwa joins the Yamuna near Prayagraj.
 3. Gomti has been in news as a 'biological disaster' due to pollution.
+
 Select the correct answer from the code given below:
-Options: A. 1 and 3 only B. 2 and 3 only C. 1 and 2 only D. 1, 2 and 3
+
+A. 1 and 3 only
+
+B. 2 and 3 only
+
+C. 1 and 2 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -434,7 +503,14 @@ Options: A. 1 and 3 only B. 2 and 3 only C. 1 and 2 only D. 1, 2 and 3
 </details>
 
 **Q7.** Which one of the following rivers is a **Trans-Himalayan** river?
-Options: A. Jhelum B. Sutlej C. Ganga D. Ravi
+
+A. Jhelum
+
+B. Sutlej
+
+C. Ganga
+
+D. Ravi
 
 <details>
 <summary>Show answer</summary>
@@ -443,7 +519,14 @@ Options: A. Jhelum B. Sutlej C. Ganga D. Ravi
 </details>
 
 **Q8.** Which one of the following drainage patterns is associated with **folded structures**?
-Options: A. Radial B. Trellis C. Dendritic D. Rectangular
+
+A. Radial
+
+B. Trellis
+
+C. Dendritic
+
+D. Rectangular
 
 <details>
 <summary>Show answer</summary>
@@ -452,10 +535,20 @@ Options: A. Radial B. Trellis C. Dendritic D. Rectangular
 </details>
 
 **Q9.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+
 **Assertion (A):** The Himalayas form the source of several large perennial rivers.
+
 **Reason (R):** The higher ranges of the Himalayas remain snow-covered throughout the year.
+
 Select the correct answer from the code given below:
-Options: A. Both (A) and (R) are true, but (R) is not the correct explanation of (A) B. (A) is false, but (R) is true C. (A) is true, but (R) is false D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
@@ -464,11 +557,20 @@ Options: A. Both (A) and (R) are true, but (R) is not the correct explanation of
 </details>
 
 **Q10.** Which of the following pairs (**Dam — River**) is/are **NOT** correctly matched?
+
 1. Baglihar Dam — Chenab
 2. Pandoh Dam — Ravi
 3. Srisailam Dam — Tungabhadra
+
 Select the correct answer from the code given below:
-Options: A. 1 and 2 B. Only 3 C. 2 and 3 D. Only 1
+
+A. 1 and 2
+
+B. Only 3
+
+C. 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -477,11 +579,20 @@ Options: A. 1 and 2 B. Only 3 C. 2 and 3 D. Only 1
 </details>
 
 **Q11.** Which of the following rivers fall into the **Arabian Sea**?
+
 1. Periyar
 2. Pennar
 3. Palar
+
 Select the correct answer from the code given below:
-Options: A. Only 1 B. Only 3 C. 2 and 3 D. 1 and 2
+
+A. Only 1
+
+B. Only 3
+
+C. 2 and 3
+
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
@@ -490,7 +601,14 @@ Options: A. Only 1 B. Only 3 C. 2 and 3 D. 1 and 2
 </details>
 
 **Q12.** Which one of the following rivers is **NOT** part of the Indian Ganga river basin?
-Options: A. Punpun B. Ajoy C. Jalangi D. Jonk
+
+A. Punpun
+
+B. Ajoy
+
+C. Jalangi
+
+D. Jonk
 
 <details>
 <summary>Show answer</summary>
@@ -499,7 +617,14 @@ Options: A. Punpun B. Ajoy C. Jalangi D. Jonk
 </details>
 
 **Q13.** At the mouth of which of the following rivers is a **'bird's foot'** type delta formed?
-Options: A. Huang Ho B. Nile C. Danube D. Mississippi
+
+A. Huang Ho
+
+B. Nile
+
+C. Danube
+
+D. Mississippi
 
 <details>
 <summary>Show answer</summary>
@@ -508,7 +633,14 @@ Options: A. Huang Ho B. Nile C. Danube D. Mississippi
 </details>
 
 **Q14.** 'Moribund Delta' is a subdivision of which of the following deltas?
-Options: A. Krishna-Godavari Delta B. Mahanadi Delta C. Bengal Delta D. Cauvery Delta
+
+A. Krishna-Godavari Delta
+
+B. Mahanadi Delta
+
+C. Bengal Delta
+
+D. Cauvery Delta
 
 <details>
 <summary>Show answer</summary>
@@ -517,7 +649,14 @@ Options: A. Krishna-Godavari Delta B. Mahanadi Delta C. Bengal Delta D. Cauvery 
 </details>
 
 **Q15.** Which of the following rivers is famous for its **fault valley** drainage?
-Options: A. Chambal B. Damodar C. Gandak D. Ramganga
+
+A. Chambal
+
+B. Damodar
+
+C. Gandak
+
+D. Ramganga
 
 <details>
 <summary>Show answer</summary>
@@ -526,7 +665,14 @@ Options: A. Chambal B. Damodar C. Gandak D. Ramganga
 </details>
 
 **Q16.** In which of the following rivers does the upper course contain fresh water but saline water flow in the lower part?
-Options: A. Barak B. Luni C. Ghaggar D. None of the above
+
+A. Barak
+
+B. Luni
+
+C. Ghaggar
+
+D. None of the above
 
 <details>
 <summary>Show answer</summary>
@@ -535,7 +681,14 @@ Options: A. Barak B. Luni C. Ghaggar D. None of the above
 </details>
 
 **Q17.** Which one of the following river basins is the **largest in respect of area** among the following?
-Options: A. Tapti B. Narmada C. Mahanadi D. Cauvery
+
+A. Tapti
+
+B. Narmada
+
+C. Mahanadi
+
+D. Cauvery
 
 <details>
 <summary>Show answer</summary>
@@ -544,7 +697,14 @@ Options: A. Tapti B. Narmada C. Mahanadi D. Cauvery
 </details>
 
 **Q18.** The National Chambal Sanctuary does **NOT** fall in which of the following States?
-Options: A. Uttar Pradesh B. Madhya Pradesh C. Haryana D. Rajasthan
+
+A. Uttar Pradesh
+
+B. Madhya Pradesh
+
+C. Haryana
+
+D. Rajasthan
 
 <details>
 <summary>Show answer</summary>
@@ -553,7 +713,14 @@ Options: A. Uttar Pradesh B. Madhya Pradesh C. Haryana D. Rajasthan
 </details>
 
 **Q19.** Which of the following rivers of Uttar Pradesh has been declared a **'Biological Disaster'** due to environmental pollution?
-Options: A. Yamuna B. Gomati C. Sai D. Tamsa
+
+A. Yamuna
+
+B. Gomati
+
+C. Sai
+
+D. Tamsa
 
 <details>
 <summary>Show answer</summary>
@@ -562,12 +729,21 @@ Options: A. Yamuna B. Gomati C. Sai D. Tamsa
 </details>
 
 **Q20.** Match the following **rivers** with their **places of origin**:
-**List-I** | **List-II**
-A. Yamuna | 1. Sihawa
-B. Krishna | 2. Nashik
-C. Godavari | 3. Mahabaleshwar
-D. Mahanadi | 4. Yamunotri
-Options: A. A-4, B-3, C-2, D-1 B. A-1, B-2, C-3, D-4 C. A-4, B-2, C-1, D-3 D. A-4, B-2, C-3, D-1
+
+| List-I | List-II |
+|---|---|
+| A. Yamuna | 1. Sihawa |
+| B. Krishna | 2. Nashik |
+| C. Godavari | 3. Mahabaleshwar |
+| D. Mahanadi | 4. Yamunotri |
+
+A. A-4, B-3, C-2, D-1
+
+B. A-1, B-2, C-3, D-4
+
+C. A-4, B-2, C-1, D-3
+
+D. A-4, B-2, C-3, D-1
 
 <details>
 <summary>Show answer</summary>
@@ -576,7 +752,14 @@ Options: A. A-4, B-3, C-2, D-1 B. A-1, B-2, C-3, D-4 C. A-4, B-2, C-1, D-3 D. A-
 </details>
 
 **Q21.** Which of the following is **NOT** correctly matched?
-Options: A. Hundru Waterfall — Subarnarekha B. Chachai Waterfall — Bihad River C. Dhuandhar Waterfall — Narmada D. Budha Ghagh — Kanchi
+
+A. Hundru Waterfall — Subarnarekha
+
+B. Chachai Waterfall — Bihad River
+
+C. Dhuandhar Waterfall — Narmada
+
+D. Budha Ghagh — Kanchi
 
 <details>
 <summary>Show answer</summary>
@@ -585,8 +768,16 @@ Options: A. Hundru Waterfall — Subarnarekha B. Chachai Waterfall — Bihad Riv
 </details>
 
 **Q22.** Consider the following tributaries of River Yamuna and arrange them from **West to East**:
+
 1. Betwa 2. Ken 3. Sindh 4. Chambal
-Options: A. 4, 3, 1 and 2 B. 1, 2, 3 and 4 C. 3, 2, 1 and 4 D. 2, 3, 1 and 4
+
+A. 4, 3, 1 and 2
+
+B. 1, 2, 3 and 4
+
+C. 3, 2, 1 and 4
+
+D. 2, 3, 1 and 4
 
 <details>
 <summary>Show answer</summary>
@@ -595,11 +786,20 @@ Options: A. 4, 3, 1 and 2 B. 1, 2, 3 and 4 C. 3, 2, 1 and 4 D. 2, 3, 1 and 4
 </details>
 
 **Q23.** With reference to **National Waterways**, which of the following statements is/are correct?
+
 1. NW-1 is the Ganga-Bhagirathi-Hooghly system.
 2. NW-2 is on the Brahmaputra river.
 3. NW-3 is the West Coast Canal in Kerala.
+
 Select the correct answer from the code given below:
-Options: A. 1 and 2 only B. 2 and 3 only C. 1, 2 and 3 D. 1 and 3 only
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1, 2 and 3
+
+D. 1 and 3 only
 
 <details>
 <summary>Show answer</summary>
@@ -608,11 +808,20 @@ Options: A. 1 and 2 only B. 2 and 3 only C. 1, 2 and 3 D. 1 and 3 only
 </details>
 
 **Q24.** Which of the following statements about **peninsular rivers** is/are correct?
+
 1. Most major peninsular rivers flow eastward into the Bay of Bengal.
 2. Narmada and Tapi occupy fault-guided valleys.
 3. Luni is an example of inland drainage.
+
 Select the correct answer from the code given below:
-Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -623,8 +832,16 @@ Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 **Q25.** Given below are two statements:
 **Statement-I:** Estuaries are common on India's west coast where rivers meet the Arabian Sea.
 **Statement-II:** Deltas are generally larger on India's east coast than on the west coast.
+
 Select the correct answer from the code given below:
-Options: A. Both Statement-I and Statement-II are correct B. Both Statement-I and Statement-II are incorrect C. Statement-I is correct, Statement-II is incorrect D. Statement-I is incorrect, Statement-II is correct
+
+A. Both Statement-I and Statement-II are correct
+
+B. Both Statement-I and Statement-II are incorrect
+
+C. Statement-I is correct, Statement-II is incorrect
+
+D. Statement-I is incorrect, Statement-II is correct
 
 <details>
 <summary>Show answer</summary>
@@ -633,7 +850,14 @@ Options: A. Both Statement-I and Statement-II are correct B. Both Statement-I an
 </details>
 
 **Q26.** Which one of the following places is the confluence of the rivers **Alaknanda** and **Bhagirathi**?
-Options: A. Vishnu Prayag B. Karn Prayag C. Rudra Prayag D. Dev Prayag
+
+A. Vishnu Prayag
+
+B. Karn Prayag
+
+C. Rudra Prayag
+
+D. Dev Prayag
 
 <details>
 <summary>Show answer</summary>
@@ -642,7 +866,14 @@ Options: A. Vishnu Prayag B. Karn Prayag C. Rudra Prayag D. Dev Prayag
 </details>
 
 **Q27.** Which one of the following pairs is **NOT** correctly matched regarding **Ramganga Project**?
-Options: A. Location — Garhwal (Uttarakhand) B. Hydropower capacity — 198 MW C. Dam length — 825.8 metres D. Irrigated area — 6 lakh hectares
+
+A. Location — Garhwal (Uttarakhand)
+
+B. Hydropower capacity — 198 MW
+
+C. Dam length — 825.8 metres
+
+D. Irrigated area — 6 lakh hectares
 
 <details>
 <summary>Show answer</summary>
@@ -651,12 +882,23 @@ Options: A. Location — Garhwal (Uttarakhand) B. Hydropower capacity — 198 MW
 </details>
 
 **Q28.** Match **List-I** with **List-II**:
-**List-I (River)** | **List-II (Sea/Ocean)**
-A. Narmada | 1. Bay of Bengal
-B. Mahanadi | 2. Arabian Sea
+
+| List-I (River) | List-II (Sea/Ocean) |
+|---|---|
+| A. Narmada | 1. Bay of Bengal |
+| B. Mahanadi | 2. Arabian Sea |
+
 C. Periyar | 2
+
 D. Pennar | 1
-Options: A. A-2, B-1, C-2, D-1 B. A-1, B-2, C-2, D-1 C. A-2, B-1, C-1, D-2 D. A-1, B-1, C-2, D-2
+
+A. A-2, B-1, C-2, D-1
+
+B. A-1, B-2, C-2, D-1
+
+C. A-2, B-1, C-1, D-2
+
+D. A-1, B-1, C-2, D-2
 
 <details>
 <summary>Show answer</summary>
@@ -665,11 +907,20 @@ Options: A. A-2, B-1, C-2, D-1 B. A-1, B-2, C-2, D-1 C. A-2, B-1, C-1, D-2 D. A-
 </details>
 
 **Q29.** With reference to the **Indus system**, which of the following statements is/are correct?
+
 1. Sutlej is a trans-Himalayan tributary of the Indus.
 2. Pandoh Dam is located on the Beas river.
 3. Baglihar Dam is on the Ravi river.
+
 Select the correct answer from the code given below:
-Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -678,7 +929,14 @@ Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 </details>
 
 **Q30.** Which of the following is the correct sequence of **Panch Prayag** from **upstream to downstream** along the Alaknanda?
-Options: A. Vishnuprayag → Nandaprayag → Karnaprayag → Rudraprayag → Devprayag B. Karnaprayag → Rudraprayag → Vishnuprayag → Nandaprayag → Devprayag C. Vishnuprayag → Karnaprayag → Nandaprayag → Rudraprayag → Devprayag D. Nandaprayag → Vishnuprayag → Karnaprayag → Devprayag → Rudraprayag
+
+A. Vishnuprayag → Nandaprayag → Karnaprayag → Rudraprayag → Devprayag
+
+B. Karnaprayag → Rudraprayag → Vishnuprayag → Nandaprayag → Devprayag
+
+C. Vishnuprayag → Karnaprayag → Nandaprayag → Rudraprayag → Devprayag
+
+D. Nandaprayag → Vishnuprayag → Karnaprayag → Devprayag → Rudraprayag
 
 <details>
 <summary>Show answer</summary>
@@ -687,10 +945,20 @@ Options: A. Vishnuprayag → Nandaprayag → Karnaprayag → Rudraprayag → Dev
 </details>
 
 **Q31.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+
 **Assertion (A):** The east coast of India has larger river deltas than the west coast.
+
 **Reason (R):** The continental shelf is wider on the east coast and wave energy is relatively lower.
+
 Select the correct answer from the code given below:
-Options: A. Both (A) and (R) are true and (R) is the correct explanation of (A) B. Both (A) and (R) are true, but (R) is not the correct explanation of (A) C. (A) is true, but (R) is false D. (A) is false, but (R) is true
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+C. (A) is true, but (R) is false
+
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
@@ -699,9 +967,18 @@ Options: A. Both (A) and (R) are true and (R) is the correct explanation of (A) 
 </details>
 
 **Q32.** Which of the following rivers originate from **Amarkantak**?
+
 1. Narmada 2. Son 3. Johilla
+
 Select the correct answer from the code given below:
-Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -710,7 +987,14 @@ Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 </details>
 
 **Q33.** Which one of the following is **NOT** a left-bank tributary of the Ganga?
-Options: A. Ramganga B. Gomti C. Yamuna D. Ghaghra
+
+A. Ramganga
+
+B. Gomti
+
+C. Yamuna
+
+D. Ghaghra
 
 <details>
 <summary>Show answer</summary>
@@ -719,11 +1003,20 @@ Options: A. Ramganga B. Gomti C. Yamuna D. Ghaghra
 </details>
 
 **Q34.** Match **List-I** with **List-II**:
-**List-I (Delta type)** | **List-II (Example)**
-A. Bird's-foot | 1. Ganga-Brahmaputra
-B. Arcuate | 2. Mississippi
-C. Moribund subdivision | 3. Cauvery
-Options: A. 2 1 3 B. 1 2 3 C. 2 3 1 D. 3 2 1
+
+| List-I (Delta type) | List-II (Example) |
+|---|---|
+| A. Bird's-foot | 1. Ganga-Brahmaputra |
+| B. Arcuate | 2. Mississippi |
+| C. Moribund subdivision | 3. Cauvery |
+
+A. 2 1 3
+
+B. 1 2 3
+
+C. 2 3 1
+
+D. 3 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -732,11 +1025,20 @@ Options: A. 2 1 3 B. 1 2 3 C. 2 3 1 D. 3 2 1
 </details>
 
 **Q35.** Which of the following statements about **Brahmaputra** is/are correct?
+
 1. It is known as Yarlung Tsangpo in Tibet.
 2. Teesta is its tributary.
 3. It drains into the Arabian Sea.
+
 Select the correct answer from the code given below:
-Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -745,7 +1047,14 @@ Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 </details>
 
 **Q36.** Which of the following pairs (**Waterfall — River**) is correctly matched?
-Options: A. Jog — Sharavathi B. Dhuandhar — Narmada C. Chachai — Son D. Hundru — Damodar
+
+A. Jog — Sharavathi
+
+B. Dhuandhar — Narmada
+
+C. Chachai — Son
+
+D. Hundru — Damodar
 
 <details>
 <summary>Show answer</summary>
@@ -754,11 +1063,19 @@ Options: A. Jog — Sharavathi B. Dhuandhar — Narmada C. Chachai — Son D. Hu
 </details>
 
 **Q37.** With reference to **inland drainage**, consider the following statements:
+
 1. Luni river ends in the Rann of Kutch.
 2. About 8% of India's area has inland drainage.
 3. Ghaggar river reaches the Arabian Sea.
 Which of the statements given above is/are correct?
-Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -767,7 +1084,14 @@ Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 </details>
 
 **Q38.** Which of the following is **NOT** a tributary of the Godavari?
-Options: A. Manjra B. Pranhita C. Penganga D. Hemavati
+
+A. Manjra
+
+B. Pranhita
+
+C. Penganga
+
+D. Hemavati
 
 <details>
 <summary>Show answer</summary>
@@ -776,10 +1100,19 @@ Options: A. Manjra B. Pranhita C. Penganga D. Hemavati
 </details>
 
 **Q39.** Given below are two statements:
+
 1. Ken-Betwa river link is an inter-basin transfer project.
 2. NW-4 connects the Krishna and Godavari river systems for navigation.
+
 Select the correct answer from the code given below:
-Options: A. Both 1 and 2 B. Only 1 C. Only 2 D. Neither 1 nor 2
+
+A. Both 1 and 2
+
+B. Only 1
+
+C. Only 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -788,8 +1121,16 @@ Options: A. Both 1 and 2 B. Only 1 C. Only 2 D. Neither 1 nor 2
 </details>
 
 **Q40.** Arrange the following **west-flowing rivers** from **north to south**:
+
 1. Narmada 2. Tapi 3. Mahi 4. Periyar
-Options: A. 1, 2, 3, 4 B. 3, 1, 2, 4 C. 1, 3, 2, 4 D. 2, 1, 3, 4
+
+A. 1, 2, 3, 4
+
+B. 3, 1, 2, 4
+
+C. 1, 3, 2, 4
+
+D. 2, 1, 3, 4
 
 <details>
 <summary>Show answer</summary>
@@ -798,7 +1139,14 @@ Options: A. 1, 2, 3, 4 B. 3, 1, 2, 4 C. 1, 3, 2, 4 D. 2, 1, 3, 4
 </details>
 
 **Q41.** Which of the following rivers passes through a **rift valley**?
-Options: A. Godavari B. Narmada C. Mahanadi D. Kaveri
+
+A. Godavari
+
+B. Narmada
+
+C. Mahanadi
+
+D. Kaveri
 
 <details>
 <summary>Show answer</summary>
@@ -807,11 +1155,19 @@ Options: A. Godavari B. Narmada C. Mahanadi D. Kaveri
 </details>
 
 **Q42.** Consider the following statements about **Himalayan rivers**:
+
 1. They are in youthful stage and carry heavy sediment.
 2. They form meanders and ox-bow lakes in plain stage.
 3. They are mainly seasonal ephemeral streams.
 Which is/are correct?
-Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -820,12 +1176,21 @@ Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 </details>
 
 **Q43.** Match **List-I** with **List-II** (Uttarakhand — 2024 Q74 pattern):
-**List-I** | **List-II**
-A. Devprayag | 1. Alaknanda + Pindar
-B. Rudraprayag | 2. Alaknanda + Bhagirathi
-C. Karnaprayag | 3. Bhagirathi + Bhilangana
-D. Tehri | 4. Alaknanda + Mandakini
-Options: A. 2 4 1 3 B. 4 1 2 3 C. 2 3 1 4 D. 1 2 3 4
+
+| List-I | List-II |
+|---|---|
+| A. Devprayag | 1. Alaknanda + Pindar |
+| B. Rudraprayag | 2. Alaknanda + Bhagirathi |
+| C. Karnaprayag | 3. Bhagirathi + Bhilangana |
+| D. Tehri | 4. Alaknanda + Mandakini |
+
+A. 2 4 1 3
+
+B. 4 1 2 3
+
+C. 2 3 1 4
+
+D. 1 2 3 4
 
 <details>
 <summary>Show answer</summary>
@@ -834,7 +1199,14 @@ Options: A. 2 4 1 3 B. 4 1 2 3 C. 2 3 1 4 D. 1 2 3 4
 </details>
 
 **Q44.** Which of the following is the **longest river** of Peninsular India?
-Options: A. Krishna B. Godavari C. Mahanadi D. Narmada
+
+A. Krishna
+
+B. Godavari
+
+C. Mahanadi
+
+D. Narmada
 
 <details>
 <summary>Show answer</summary>
@@ -843,10 +1215,20 @@ Options: A. Krishna B. Godavari C. Mahanadi D. Narmada
 </details>
 
 **Q45.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+
 **Assertion (A):** Dendritic drainage pattern develops on uniformly resistant rock.
+
 **Reason (R):** Trellis pattern develops on folded sedimentary rocks with alternating hard and soft beds.
+
 Select the correct answer from the code given below:
-Options: A. Both (A) and (R) are true and (R) is the correct explanation of (A) B. Both (A) and (R) are true, but (R) is not the correct explanation of (A) C. (A) is true, but (R) is false D. (A) is false, but (R) is true
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+C. (A) is true, but (R) is false
+
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
@@ -855,7 +1237,14 @@ Options: A. Both (A) and (R) are true and (R) is the correct explanation of (A) 
 </details>
 
 **Q46.** Which of the following cities is **NOT** located on the river Ganga?
-Options: A. Kanpur B. Varanasi C. Lucknow D. Prayagraj
+
+A. Kanpur
+
+B. Varanasi
+
+C. Lucknow
+
+D. Prayagraj
 
 <details>
 <summary>Show answer</summary>
@@ -864,11 +1253,20 @@ Options: A. Kanpur B. Varanasi C. Lucknow D. Prayagraj
 </details>
 
 **Q47.** With reference to **Sundarbans**, which of the following statements is/are correct?
+
 1. It is formed by the Ganga and Brahmaputra delta.
 2. It is the largest mangrove forest in the world.
 3. It is a bird's-foot delta.
+
 Select the correct answer from the code given below:
-Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -877,7 +1275,14 @@ Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 </details>
 
 **Q48.** Which of the following is **NOT** matched correctly?
-Options: A. Hirakud — Mahanadi B. Sardar Sarovar — Narmada C. Tehri — Bhagirathi D. Mettur — Krishna
+
+A. Hirakud — Mahanadi
+
+B. Sardar Sarovar — Narmada
+
+C. Tehri — Bhagirathi
+
+D. Mettur — Krishna
 
 <details>
 <summary>Show answer</summary>
@@ -886,11 +1291,20 @@ Options: A. Hirakud — Mahanadi B. Sardar Sarovar — Narmada C. Tehri — Bhag
 </details>
 
 **Q49.** Consider the following statements about **river rejuvenation**:
+
 1. It may result from uplift of the land.
 2. It produces knickpoints and terraces.
 3. It is common in mature peninsular rivers with graded profiles.
+
 Select the correct answer from the code given below:
-Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -899,7 +1313,14 @@ Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 </details>
 
 **Q50.** Which one of the following sequences shows rivers of the **Panj Ab** (Indus tributaries in Punjab) from **east to west**?
-Options: A. Sutlej, Beas, Ravi, Chenab, Jhelum B. Jhelum, Chenab, Ravi, Beas, Sutlej C. Ravi, Beas, Sutlej, Chenab, Jhelum D. Chenab, Jhelum, Ravi, Beas, Sutlej
+
+A. Sutlej, Beas, Ravi, Chenab, Jhelum
+
+B. Jhelum, Chenab, Ravi, Beas, Sutlej
+
+C. Ravi, Beas, Sutlej, Chenab, Jhelum
+
+D. Chenab, Jhelum, Ravi, Beas, Sutlej
 
 <details>
 <summary>Show answer</summary>
@@ -917,11 +1338,20 @@ Options: A. Sutlej, Beas, Ravi, Chenab, Jhelum B. Jhelum, Chenab, Ravi, Beas, Su
 **Q1. UPPCS Prelims 2025, Q92**
 Which of the following pairs is/are NOT correctly matched?
 (Dam) — (River)
+
 1. Baglihar Dam — Chenab
 2. Pandoh Dam — Ravi
 3. Srisailam Dam — Tungabhadra
+
 Select the correct answer from the code given below:
-Options: A. 1 and 2 B. Only 3 C. 2 and 3 D. Only 1
+
+A. 1 and 2
+
+B. Only 3
+
+C. 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -935,8 +1365,16 @@ Options: A. 1 and 2 B. Only 3 C. 2 and 3 D. Only 1
 Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
 Assertion (A): The Himalayas form the source of several large perennial rivers.
 Reason (R): The higher ranges of the Himalayas remain snow-covered throughout the year.
+
 Select the correct answer from the code given below:
-Options: A. Both (A) and (R) are true, but (R) is not the correct explanation of (A) B. (A) is false, but (R) is true C. (A) is true, but (R) is false D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
@@ -948,9 +1386,18 @@ Options: A. Both (A) and (R) are true, but (R) is not the correct explanation of
 
 **Q3. UPPCS Prelims 2025, Q116**
 Which of the following rivers fall into the Arabian Sea?
+
 1. Periyar 2. Pennar 3. Palar
+
 Select the correct answer from the code given below:
-Options: A. Only 1 B. Only 3 C. 2 and 3 D. 1 and 2
+
+A. Only 1
+
+B. Only 3
+
+C. 2 and 3
+
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
@@ -962,7 +1409,14 @@ Options: A. Only 1 B. Only 3 C. 2 and 3 D. 1 and 2
 
 **Q4. UPPCS Prelims 2024, Q31**
 Which one of the following drainage patterns is associated with folded structures?
-Options: A. Radial B. Trellis C. Dendritic D. Rectangular
+
+A. Radial
+
+B. Trellis
+
+C. Dendritic
+
+D. Rectangular
 
 <details>
 <summary>Show answer</summary>
@@ -974,7 +1428,14 @@ Options: A. Radial B. Trellis C. Dendritic D. Rectangular
 
 **Q5. UPPCS Prelims 2024, Q72**
 Which one of the following pairs is not correctly matched regarding peculiarities of Ramganga Project?
-Options: A. Dam's length – 825.8 metres B. Hydropower generation capacity – 198 MW C. Location – Garhwal (Uttarakhand) D. Irrigated area – 6 lakh hectares
+
+A. Dam's length – 825.8 metres
+
+B. Hydropower generation capacity – 198 MW
+
+C. Location – Garhwal (Uttarakhand)
+
+D. Irrigated area – 6 lakh hectares
 
 <details>
 <summary>Show answer</summary>
@@ -988,7 +1449,14 @@ Options: A. Dam's length – 825.8 metres B. Hydropower generation capacity – 
 Match List-I with List-II:
 List-I: A. Devprayag B. Rudraprayag C. Karnaprayag D. Tehri
 List-II: 1. Alaknanda and Pindar 2. Alaknanda and Bhagirathi 3. Bhagirathi and Bhilangna 4. Alaknanda and Mandakini
-Options: A. 4 1 2 3 B. 2 3 1 4 C. 4 1 3 2 D. 2 4 1 3
+
+A. 4 1 2 3
+
+B. 2 3 1 4
+
+C. 4 1 3 2
+
+D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -1000,7 +1468,14 @@ Options: A. 4 1 2 3 B. 2 3 1 4 C. 4 1 3 2 D. 2 4 1 3
 
 **Q7. UPPCS Prelims 2023, Q49**
 Which one of the following pairs (Tributary — River) is not correctly matched?
-Options: A. Manjra — Godavari B. Hemavathi — Kaveri C. Malaprabha — Krishna D. Pranhita — Mahanadi
+
+A. Manjra — Godavari
+
+B. Hemavathi — Kaveri
+
+C. Malaprabha — Krishna
+
+D. Pranhita — Mahanadi
 
 <details>
 <summary>Show answer</summary>
@@ -1012,7 +1487,14 @@ Options: A. Manjra — Godavari B. Hemavathi — Kaveri C. Malaprabha — Krishn
 
 **Q8. UPPCS Prelims 2023, Q50**
 Which one of the following places is the confluence of the rivers Alaknanda and Bhagirathi?
-Options: A. Vishnu Prayag B. Karn Prayag C. Rudra Prayag D. Dev Prayag
+
+A. Vishnu Prayag
+
+B. Karn Prayag
+
+C. Rudra Prayag
+
+D. Dev Prayag
 
 <details>
 <summary>Show answer</summary>
@@ -1028,7 +1510,14 @@ Match the following rivers with their places of origin.
 (B) Krishna — (2) Nashik
 (C) Godavari — (3) Mahabaleshwar
 (D) Mahanadi — (4) Yamunotri
-Options: A. A-4, B-3, C-2, D-1 B. A-1, B-2, C-3, D-4 C. A-4, B-2, C-1, D-3 D. A-4, B-2, C-3, D-1
+
+A. A-4, B-3, C-2, D-1
+
+B. A-1, B-2, C-3, D-4
+
+C. A-4, B-2, C-1, D-3
+
+D. A-4, B-2, C-3, D-1
 
 <details>
 <summary>Show answer</summary>
@@ -1040,10 +1529,19 @@ Options: A. A-4, B-3, C-2, D-1 B. A-1, B-2, C-3, D-4 C. A-4, B-2, C-1, D-3 D. A-
 
 **Q10. UPPCS Prelims 2023, Q55**
 Which of the following statement(s) is/are correct?
+
 1. Ram Ganga River joins the Ganga at Kannauj.
 2. River Betwa joins the Yamuna near Prayagraj.
+
 Select the correct answer using the code given below.
-Options: A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1055,7 +1553,14 @@ Options: A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 **Q11. UPPCS Prelims 2022, Q16**
 Which one of the following river basins is the largest in respect of area?
-Options: A. Tapti B. Narmada C. Mahanadi D. Cauvery
+
+A. Tapti
+
+B. Narmada
+
+C. Mahanadi
+
+D. Cauvery
 
 <details>
 <summary>Show answer</summary>
@@ -1067,7 +1572,14 @@ Options: A. Tapti B. Narmada C. Mahanadi D. Cauvery
 
 **Q12. UPPCS Prelims 2021, Q5**
 Which one of the following rivers is NOT part of Indian Ganga river basin?
-Options: A. Punpun B. Ajoy C. Jalangi D. Jonk
+
+A. Punpun
+
+B. Ajoy
+
+C. Jalangi
+
+D. Jonk
 
 <details>
 <summary>Show answer</summary>
@@ -1079,7 +1591,14 @@ Options: A. Punpun B. Ajoy C. Jalangi D. Jonk
 
 **Q13. UPPCS Prelims 2021, Q9**
 Which of the following is NOT correctly matched?
-Options: A. Hundru — Subarnarekha B. Chachai — Bihad River C. Dhuandhar — Narmada D. Budha Ghagh — Kanchi
+
+A. Hundru — Subarnarekha
+
+B. Chachai — Bihad River
+
+C. Dhuandhar — Narmada
+
+D. Budha Ghagh — Kanchi
 
 <details>
 <summary>Show answer</summary>
@@ -1092,7 +1611,14 @@ Options: A. Hundru — Subarnarekha B. Chachai — Bihad River C. Dhuandhar — 
 **Q14. UPPCS Prelims 2021, Q63**
 Assertion (A): Teesta river was earlier a tributary of Ganga now it is a tributary of Brahmaputra.
 Reason (R): River capturing is a major feature of Himalayan rivers.
-Options: A. Both (A) and (R) are true and (R) is correct explanation of (A) B. Both (A) and (R) are true, but (R) is not correct explanation of (A) C. (A) is true, but (R) is false D. (A) is false, but (R) is true
+
+A. Both (A) and (R) are true and (R) is correct explanation of (A)
+
+B. Both (A) and (R) are true, but (R) is not correct explanation of (A)
+
+C. (A) is true, but (R) is false
+
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
@@ -1104,7 +1630,14 @@ Options: A. Both (A) and (R) are true and (R) is correct explanation of (A) B. B
 
 **Q15. UPPCS Prelims 2020, Q52**
 Which of the following rivers is a Trans-Himalayan river?
-Options: A. Jhelum B. Sutlej C. Ganga D. Ravi
+
+A. Jhelum
+
+B. Sutlej
+
+C. Ganga
+
+D. Ravi
 
 <details>
 <summary>Show answer</summary>
@@ -1116,8 +1649,16 @@ Options: A. Jhelum B. Sutlej C. Ganga D. Ravi
 
 **Q16. UPPCS Prelims 2020, Q68**
 Consider the following tributaries of River Yamuna and arrange them from West to East:
+
 1. Betwa 2. Ken 3. Sindh 4. Chambal
-Options: A. 4, 3, 1 and 2 B. 1, 2, 3 and 4 C. 3, 2, 1 and 4 D. 2, 3, 1 and 4
+
+A. 4, 3, 1 and 2
+
+B. 1, 2, 3 and 4
+
+C. 3, 2, 1 and 4
+
+D. 2, 3, 1 and 4
 
 <details>
 <summary>Show answer</summary>
@@ -1129,7 +1670,14 @@ Options: A. 4, 3, 1 and 2 B. 1, 2, 3 and 4 C. 3, 2, 1 and 4 D. 2, 3, 1 and 4
 
 **Q17. UPPCS Prelims 2020, Chambal Sanctuary Q**
 The National Chambal Sanctuary does NOT fall in which of the following States?
-Options: A. Uttar Pradesh B. Madhya Pradesh C. Haryana D. Rajasthan
+
+A. Uttar Pradesh
+
+B. Madhya Pradesh
+
+C. Haryana
+
+D. Rajasthan
 
 <details>
 <summary>Show answer</summary>
@@ -1141,7 +1689,14 @@ Options: A. Uttar Pradesh B. Madhya Pradesh C. Haryana D. Rajasthan
 
 **Q18. UPPCS Prelims 2019, Q9**
 Which of the following rivers is famous for its fault valley drainage?
-Options: A. Chambal B. Damodar C. Gandak D. Ramaganga
+
+A. Chambal
+
+B. Damodar
+
+C. Gandak
+
+D. Ramaganga
 
 <details>
 <summary>Show answer</summary>
@@ -1153,7 +1708,14 @@ Options: A. Chambal B. Damodar C. Gandak D. Ramaganga
 
 **Q19. UPPCS Prelims 2019, Q84**
 In which of the following rivers, the upper course contains fresh water but saline water flowing at the lower part?
-Options: A. Barak B. Luni C. Ghaggar D. None of the above
+
+A. Barak
+
+B. Luni
+
+C. Ghaggar
+
+D. None of the above
 
 <details>
 <summary>Show answer</summary>
@@ -1165,7 +1727,14 @@ Options: A. Barak B. Luni C. Ghaggar D. None of the above
 
 **Q20. UPPCS Prelims 2019, Q85**
 'Moribund Delta' is a subdivision of which of the following Delta?
-Options: A. Krishna-Godawari Delta B. Mahanadi Delta C. Bengal Delta D. Cauvery Delta
+
+A. Krishna-Godawari Delta
+
+B. Mahanadi Delta
+
+C. Bengal Delta
+
+D. Cauvery Delta
 
 <details>
 <summary>Show answer</summary>
@@ -1177,7 +1746,14 @@ Options: A. Krishna-Godawari Delta B. Mahanadi Delta C. Bengal Delta D. Cauvery 
 
 **Q21. UPPCS Prelims 2018, Q33**
 At the mouth of which of the following rivers the 'bird's foot' type delta is formed?
-Options: A. Huang Ho B. Nile C. Danube D. Mississippi
+
+A. Huang Ho
+
+B. Nile
+
+C. Danube
+
+D. Mississippi
 
 <details>
 <summary>Show answer</summary>
@@ -1189,7 +1765,14 @@ Options: A. Huang Ho B. Nile C. Danube D. Mississippi
 
 **Q22. UPPCS Prelims 2018, Q99**
 Which of the following rivers of Uttar Pradesh has been declared a 'Biological Disaster due to environmental pollution?
-Options: A. Yamuna B. Gomati C. Sai D. Tamsa
+
+A. Yamuna
+
+B. Gomati
+
+C. Sai
+
+D. Tamsa
 
 <details>
 <summary>Show answer</summary>
@@ -1201,7 +1784,14 @@ Options: A. Yamuna B. Gomati C. Sai D. Tamsa
 
 **Q23. UPPCS Prelims 2018, Q102**
 Which of the following rivers of India does NOT originate from the Western Ghats?
-Options: A. Godavari B. Tapti/Tapi C. Kaveri D. Kabam
+
+A. Godavari
+
+B. Tapti/Tapi
+
+C. Kaveri
+
+D. Kabam
 
 <details>
 <summary>Show answer</summary>
@@ -1213,7 +1803,14 @@ Options: A. Godavari B. Tapti/Tapi C. Kaveri D. Kabam
 
 **Q24. UPPCS Prelims 2018, Q24** *(River–waterfall overlap; drainage relevance)*
 Which of the following is the highest waterfall in India?
-Options: A. Jog fall B. Kunchikal fall C. Rakim Kund fall D. Kevti fall
+
+A. Jog fall
+
+B. Kunchikal fall
+
+C. Rakim Kund fall
+
+D. Kevti fall
 
 <details>
 <summary>Show answer</summary>
@@ -1225,7 +1822,14 @@ Options: A. Jog fall B. Kunchikal fall C. Rakim Kund fall D. Kevti fall
 
 **Q25. UPPCS Prelims 2022, Q121** *(Drainage–pollution overlap)*
 The main purpose of the **'Ganga Action Plan'** project, launched in 1985, was—
-Options: A. To make its water pollution-free only B. To utilize the river water for irrigation only C. To build new dams over the Ganga river valley D. None of the above
+
+A. To make its water pollution-free only
+
+B. To utilize the river water for irrigation only
+
+C. To build new dams over the Ganga river valley
+
+D. None of the above
 
 <details>
 <summary>Show answer</summary>

@@ -162,7 +162,13 @@ One home for extra titles. Details of the syllabus eight sit in the cards below.
 
 In which year the book 'Poverty and Un-British Rule in India' was published?
 
-Options: A. 1900 A.D.  B. 1901 A.D.  C. 1902 A.D.  D. 1903 A.D.
+A. 1900 A.D.
+
+B. 1901 A.D.
+
+C. 1902 A.D.
+
+D. 1903 A.D.
 
 <details>
 <summary>Show answer</summary>
@@ -300,7 +306,13 @@ B. Gita Rahasya  2. Maulana Abul Kalam Azad
 C. A Nation in Making  3. Lala Lajpat Rai  
 D. India Wins Freedom  4. Bal Gangadhar Tilak
 
-Options: A. 3 4 1 2  B. 4 2 1 3  C. 2 4 1 3  D. 4 3 2 1
+A. 3 4 1 2
+
+B. 4 2 1 3
+
+C. 2 4 1 3
+
+D. 4 3 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -331,7 +343,15 @@ Options: A. 3 4 1 2  B. 4 2 1 3  C. 2 4 1 3  D. 4 3 2 1
 
 "The Rise and Growth of Economic Nationalism in India" was written by
 
-Options: A. Partha Sarthi Gupta  B. S Gopal  C. B. R. Nanda  D. Bipin Chandra
+A. Partha Sarthi Gupta
+
+B. S Gopal
+
+C. 
+
+B. R. Nanda
+
+D. Bipin Chandra
 
 <details>
 <summary>Show answer</summary>
@@ -413,7 +433,13 @@ Options: A. Partha Sarthi Gupta  B. S Gopal  C. B. R. Nanda  D. Bipin Chandra
 **List-I** A. The Story of My Deportation  B. Gita Rahasya  C. A Nation in Making  D. India Wins Freedom  
 **List-II** 1. Surendranath Banerjee  2. Abul Kalam Azad  3. Lala Lajpat Rai  4. Bal Gangadhar Tilak
 
-Options: A. 3 4 1 2  B. 4 2 1 3  C. 2 4 1 3  D. 4 3 2 1
+A. 3 4 1 2
+
+B. 4 2 1 3
+
+C. 2 4 1 3
+
+D. 4 3 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -426,7 +452,13 @@ Options: A. 3 4 1 2  B. 4 2 1 3  C. 2 4 1 3  D. 4 3 2 1
 
 **Q2.** In which year was *Poverty and Un-British Rule in India* published?
 
-Options: A. 1900  B. 1901  C. 1902  D. 1903
+A. 1900
+
+B. 1901
+
+C. 1902
+
+D. 1903
 
 <details>
 <summary>Show answer</summary>
@@ -439,7 +471,13 @@ Options: A. 1900  B. 1901  C. 1902  D. 1903
 
 **Q3.** "The Rise and Growth of Economic Nationalism in India" was written by
 
-Options: A. Partha Sarthi Gupta  B. S. Gopal  C. B.R. Nanda  D. Bipan Chandra
+A. Partha Sarthi Gupta
+
+B. S. Gopal
+
+C. B.R. Nanda
+
+D. Bipan Chandra
 
 <details>
 <summary>Show answer</summary>
@@ -455,7 +493,13 @@ Options: A. Partha Sarthi Gupta  B. S. Gopal  C. B.R. Nanda  D. Bipan Chandra
 **List-I** A. Anandamath  B. Hind Swaraj  C. Gulamgiri  D. Annihilation of Caste  
 **List-II** 1. Gandhi  2. Bankim  3. Ambedkar  4. Phule
 
-Options: A. 2 1 4 3  B. 1 2 3 4  C. 2 1 3 4  D. 2 4 1 3
+A. 2 1 4 3
+
+B. 1 2 3 4
+
+C. 2 1 3 4
+
+D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -468,7 +512,13 @@ Options: A. 2 1 4 3  B. 1 2 3 4  C. 2 1 3 4  D. 2 4 1 3
 
 **Q5.** Which of the following pairs is NOT correctly matched?
 
-Options: A. Gita Rahasya — Tilak  B. Arctic Home in the Vedas — Tilak  C. Neel Darpan — Bankim Chandra  D. Anandamath — Bankim Chandra
+A. Gita Rahasya — Tilak
+
+B. Arctic Home in the Vedas — Tilak
+
+C. Neel Darpan — Bankim Chandra
+
+D. Anandamath — Bankim Chandra
 
 <details>
 <summary>Show answer</summary>
@@ -484,7 +534,13 @@ Options: A. Gita Rahasya — Tilak  B. Arctic Home in the Vedas — Tilak  C. Ne
 1. It was written by Bankim Chandra Chattopadhyay in 1882.  
 2. Vande Mataram appears in it.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -500,7 +556,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. Gandhi wrote it in 1909.  
 2. It is the same book as *The Story of My Experiments with Truth*.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -535,7 +597,13 @@ D. (A) is false, but (R) is true
 1. *India Wins Freedom* was written by Maulana Abul Kalam Azad.  
 2. *Freedom at Midnight* was written by Azad.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -551,7 +619,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. Firangiya  B. Batohiya  C. Bidesiya  D. Achhut Kee Shikayat  
 **List-II** 1. Raghuveer Narayan  2. Manoranjan Prasad Sinha  3. Heera Dom  4. Bhikhari Thakur
 
-Options: A. 2 1 4 3  B. 1 2 3 4  C. 2 4 1 3  D. 4 1 2 3
+A. 2 1 4 3
+
+B. 1 2 3 4
+
+C. 2 4 1 3
+
+D. 4 1 2 3
 
 <details>
 <summary>Show answer</summary>
@@ -568,7 +642,13 @@ Options: A. 2 1 4 3  B. 1 2 3 4  C. 2 4 1 3  D. 4 1 2 3
 2. Annihilation of Caste — Jyotiba Phule  
 3. Annihilation of Caste — B.R. Ambedkar
 
-Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
+A. Only 2
+
+B. Only 1 and 2
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -584,7 +664,13 @@ Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
 1. *Annihilation of Caste* was published in 1936.  
 2. *Pakistan or the Partition of India* was written by Rajendra Prasad.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -602,7 +688,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 3. Poverty and Un-British Rule in India  
 4. Hind Swaraj
 
-Options: A. 1, 2, 3, 4  B. 2, 1, 3, 4  C. 1, 2, 4, 3  D. 2, 1, 4, 3
+A. 1, 2, 3, 4
+
+B. 2, 1, 3, 4
+
+C. 1, 2, 4, 3
+
+D. 2, 1, 4, 3
 
 <details>
 <summary>Show answer</summary>
@@ -618,7 +710,13 @@ Options: A. 1, 2, 3, 4  B. 2, 1, 3, 4  C. 1, 2, 4, 3  D. 2, 1, 4, 3
 1. *Godaan* is a realistic novel by Premchand.  
 2. *Anandamath* is a realistic social novel by Premchand.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -631,7 +729,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q15.** Which of the following is NOT correctly matched?
 
-Options: A. Problems of the Far East — Curzon  B. My Indian Years — Hardinge  C. Train to Pakistan — Khushwant Singh  D. India Divided — Ambedkar
+A. Problems of the Far East — Curzon
+
+B. My Indian Years — Hardinge
+
+C. Train to Pakistan — Khushwant Singh
+
+D. India Divided — Ambedkar
 
 <details>
 <summary>Show answer</summary>
@@ -647,7 +751,13 @@ Options: A. Problems of the Far East — Curzon  B. My Indian Years — Hardinge
 1. It was written by Bal Gangadhar Tilak.  
 2. It was written in Mandalay jail.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -663,7 +773,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. Durgeshnandini  B. Neel Darpan  C. Satyarth Prakash  D. Gitanjali  
 **List-II** 1. Dayanand  2. Bankim  3. Tagore  4. Dinabandhu Mitra
 
-Options: A. 2 4 1 3  B. 2 1 4 3  C. 4 2 1 3  D. 2 4 3 1
+A. 2 4 1 3
+
+B. 2 1 4 3
+
+C. 4 2 1 3
+
+D. 2 4 3 1
 
 <details>
 <summary>Show answer</summary>
@@ -698,7 +814,13 @@ D. (A) is false, but (R) is true
 1. *The Indian War of Independence* was written by V.D. Savarkar.  
 2. It treats the Revolt of 1857 as a national war.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -715,7 +837,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Bidesiya — Bhikhari Thakur  
 3. Batohiya — Raghuveer Narayan
 
-Options: A. Only 1  B. Only 1 and 2  C. Only 2  D. Only 1 and 3
+A. Only 1
+
+B. Only 1 and 2
+
+C. Only 2
+
+D. Only 1 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -731,7 +859,13 @@ Options: A. Only 1  B. Only 1 and 2  C. Only 2  D. Only 1 and 3
 1. *The Discovery of India* was published in 1946.  
 2. *Glimpses of World History* is a set of letters to Indira.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -747,7 +881,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. Economic History of India  B. Rise and Growth of Economic Nationalism  C. Poverty and Un-British Rule  D. Causes of the Indian Mutiny  
 **List-II** 1. Naoroji  2. R.C. Dutt  3. Sir Syed  4. Bipan Chandra
 
-Options: A. 2 4 1 3  B. 4 2 1 3  C. 2 1 4 3  D. 2 4 3 1
+A. 2 4 1 3
+
+B. 4 2 1 3
+
+C. 2 1 4 3
+
+D. 2 4 3 1
 
 <details>
 <summary>Show answer</summary>
@@ -763,7 +903,13 @@ Options: A. 2 4 1 3  B. 4 2 1 3  C. 2 1 4 3  D. 2 4 3 1
 1. *The Buddha and His Dhamma* is by B.R. Ambedkar.  
 2. *What Congress and Gandhi have done to the Untouchables* is by Gandhi.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -776,7 +922,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q24.** Which of the following is NOT correctly matched?
 
-Options: A. Devi Chaudhurani — Bankim  B. Kapalkundala — Bankim  C. Sevasadan — Premchand  D. Godaan — Bankim
+A. Devi Chaudhurani — Bankim
+
+B. Kapalkundala — Bankim
+
+C. Sevasadan — Premchand
+
+D. Godaan — Bankim
 
 <details>
 <summary>Show answer</summary>
@@ -792,7 +944,13 @@ Options: A. Devi Chaudhurani — Bankim  B. Kapalkundala — Bankim  C. Sevasada
 1. Phule wrote it in Marathi in 1873.  
 2. He compared caste oppression to slavery.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -810,7 +968,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 3. Discovery of India  
 4. Anandamath
 
-Options: A. 4, 2, 1, 3  B. 4, 2, 3, 1  C. 2, 4, 1, 3  D. 4, 1, 2, 3
+A. 4, 2, 1, 3
+
+B. 4, 2, 3, 1
+
+C. 2, 4, 1, 3
+
+D. 4, 1, 2, 3
 
 <details>
 <summary>Show answer</summary>
@@ -845,7 +1009,13 @@ D. (A) is false, but (R) is true
 1. Bhikhari Thakur is called the Shakespeare of Bhojpuri.  
 2. Heera Dom wrote *Achhut Kee Shikayat* in 1914.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -862,7 +1032,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. An Indian Pilgrim — Subhas Chandra Bose  
 3. Why I Am an Atheist — Lala Lajpat Rai
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -878,7 +1054,13 @@ Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
 1. *Train to Pakistan* is a novel by Khushwant Singh.  
 2. *India Wins Freedom* is a novel by Khushwant Singh.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -894,7 +1076,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. Tuhfat-ul-Muwahhidin  B. History of the INC  C. Why I Am an Atheist  D. The Indian War of Independence  
 **List-II** 1. Pattabhi Sitaramayya  2. Rammohan Roy  3. Savarkar  4. Bhagat Singh
 
-Options: A. 2 1 4 3  B. 2 1 3 4  C. 1 2 4 3  D. 2 4 1 3
+A. 2 1 4 3
+
+B. 2 1 3 4
+
+C. 1 2 4 3
+
+D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -910,7 +1098,13 @@ Options: A. 2 1 4 3  B. 2 1 3 4  C. 1 2 4 3  D. 2 4 1 3
 1. *Young India* as a **newspaper** is associated with Gandhi.  
 2. *Young India* as a **book** in the 2020-style match set is Lala Lajpat Rai’s nationalist work.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -923,7 +1117,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q33.** Which of the following is NOT correctly matched?
 
-Options: A. Hind Swaraj — 1909  B. Gulamgiri — 1873  C. Annihilation of Caste — 1936  D. Poverty and Un-British Rule — 1882
+A. Hind Swaraj — 1909
+
+B. Gulamgiri — 1873
+
+C. Annihilation of Caste — 1936
+
+D. Poverty and Un-British Rule — 1882
 
 <details>
 <summary>Show answer</summary>
@@ -939,7 +1139,13 @@ Options: A. Hind Swaraj — 1909  B. Gulamgiri — 1873  C. Annihilation of Cast
 1. *Durgeshnandini* is his early Bengali novel.  
 2. He edited *Bangadarshan*.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -974,7 +1180,13 @@ D. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 1. Firangiya is an anti-British Bhojpuri poem of 1921.  
 2. Batohiya (the patriotic poem) is by Manoranjan Prasad Sinha.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -990,7 +1202,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. Godaan  B. Train to Pakistan  C. Mother India  D. Unhappy India  
 **List-II** 1. Katherine Mayo  2. Premchand  3. Lajpat Rai  4. Khushwant Singh
 
-Options: A. 2 4 1 3  B. 2 1 4 3  C. 4 2 1 3  D. 2 4 3 1
+A. 2 4 1 3
+
+B. 2 1 4 3
+
+C. 4 2 1 3
+
+D. 2 4 3 1
 
 <details>
 <summary>Show answer</summary>
@@ -1006,7 +1224,13 @@ Options: A. 2 4 1 3  B. 2 1 4 3  C. 4 2 1 3  D. 2 4 3 1
 1. *The Indian Struggle* is by Subhas Chandra Bose.  
 2. *An Indian Pilgrim* is Bose’s autobiography.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1023,7 +1247,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Toward Freedom — Azad  
 3. Discovery of India — Nehru
 
-Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
+A. Only 2
+
+B. Only 1 and 2
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1039,7 +1269,13 @@ Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
 1. *States and Minorities* is a constitutional memorandum by Ambedkar.  
 2. *The Buddha and His Dhamma* was published after Ambedkar’s death.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1052,7 +1288,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q41.** Which of the following is NOT correctly matched?
 
-Options: A. Shakespeare of Bhojpuri — Bhikhari Thakur  B. Firangiya — 1921  C. Batohiya poem — 1911  D. Bidesiya — Premchand
+A. Shakespeare of Bhojpuri — Bhikhari Thakur
+
+B. Firangiya — 1921
+
+C. Batohiya poem — 1911
+
+D. Bidesiya — Premchand
 
 <details>
 <summary>Show answer</summary>
@@ -1068,7 +1310,13 @@ Options: A. Shakespeare of Bhojpuri — Bhikhari Thakur  B. Firangiya — 1921  
 1. Dinabandhu Mitra wrote it.  
 2. It is a play on indigo planter oppression.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1084,7 +1332,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. Who Were the Shudras?  B. India Divided  C. Glimpses of World History  D. Arctic Home in the Vedas  
 **List-II** 1. Nehru  2. Ambedkar  3. Tilak  4. Rajendra Prasad
 
-Options: A. 2 4 1 3  B. 2 1 4 3  C. 4 2 1 3  D. 2 4 3 1
+A. 2 4 1 3
+
+B. 2 1 4 3
+
+C. 4 2 1 3
+
+D. 2 4 3 1
 
 <details>
 <summary>Show answer</summary>
@@ -1119,7 +1373,13 @@ D. (A) is false, but (R) is true
 1. *Poverty and Un-British Rule in India* and *The Rise and Growth of Economic Nationalism in India* are by the same author.  
 2. The first is Naoroji (1901); the second is Bipan Chandra.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1138,7 +1398,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 In which year the book 'Poverty and Un-British Rule in India' was published?
 
-Options: A. 1900 A.D.  B. 1901 A.D.  C. 1902 A.D.  D. 1903 A.D.
+A. 1900 A.D.
+
+B. 1901 A.D.
+
+C. 1902 A.D.
+
+D. 1903 A.D.
 
 <details>
 <summary>Show answer</summary>
@@ -1159,7 +1425,13 @@ B. Gita Rahasya  2. Maulana Abul Kalam Azad
 C. A Nation in Making  3. Lala Lajpat Rai  
 D. India Wins Freedom  4. Bal Gangadhar Tilak
 
-Options: A. 3 4 1 2  B. 4 2 1 3  C. 2 4 1 3  D. 4 3 2 1
+A. 3 4 1 2
+
+B. 4 2 1 3
+
+C. 2 4 1 3
+
+D. 4 3 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -1174,7 +1446,15 @@ Options: A. 3 4 1 2  B. 4 2 1 3  C. 2 4 1 3  D. 4 3 2 1
 
 "The Rise and Growth of Economic Nationalism in India" was written by
 
-Options: A. Partha Sarthi Gupta  B. S Gopal  C. B. R. Nanda  D. Bipin Chandra
+A. Partha Sarthi Gupta
+
+B. S Gopal
+
+C. 
+
+B. R. Nanda
+
+D. Bipin Chandra
 
 <details>
 <summary>Show answer</summary>

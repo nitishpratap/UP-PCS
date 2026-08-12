@@ -259,7 +259,15 @@ IMD wind ladder. Basins, landfall, local names:
 
 **Inline PYQ**
 **(UPPCS 2021, Q26)** Who is the Ex-officio Chairman of the National Disaster Management Authority?
-Options: A. The Prime Minister B. The Home Minister C. The Defence Minister D. The Health and Family Welfare Minister
+
+A. The Prime Minister
+
+B. The Home Minister
+
+C. The Defence Minister
+
+D. The Health and Family Welfare Minister
+
 **Ans: A**
 
 ---
@@ -334,7 +342,14 @@ Shift: relief-centric → **prevention / Sendai**.
 
 **Q1.** Assertion (A): The highest concentration of seismic zones lies in the Himalayan region in India.
 Reason (R): There are many longitudinal thrust zones in Himalayas.
-Options: A. Both true, R explains A B. Both true, R not explanation C. A true R false D. A false R true
+
+A. Both true, R explains A
+
+B. Both true, R not explanation
+
+C. A true R false
+
+D. A false R true
 
 <details>
 <summary>Show answer</summary>
@@ -345,7 +360,14 @@ Options: A. Both true, R explains A B. Both true, R not explanation C. A true R 
 ---
 
 **Q2.** Ex-officio Chairman of NDMA is:
-Options: A. The Prime Minister B. The Home Minister C. The Defence Minister D. The Health Minister
+
+A. The Prime Minister
+
+B. The Home Minister
+
+C. The Defence Minister
+
+D. The Health Minister
 
 <details>
 <summary>Show answer</summary>
@@ -358,7 +380,14 @@ Options: A. The Prime Minister B. The Home Minister C. The Defence Minister D. T
 **Q3.** Match List-I with List-II.
 **List-I** A. Baguios B. Hurricanes C. Typhoons D. Willy-Willies
 **List-II** 1. Australia 2. China 3. Philippines 4. USA
-Options: A. 3 4 1 2 B. 3 4 2 1 C. 2 3 4 1 D. 2 1 3 4
+
+A. 3 4 1 2
+
+B. 3 4 2 1
+
+C. 2 3 4 1
+
+D. 2 1 3 4
 
 <details>
 <summary>Show answer</summary>
@@ -369,7 +398,14 @@ Options: A. 3 4 1 2 B. 3 4 2 1 C. 2 3 4 1 D. 2 1 3 4
 ---
 
 **Q4.** Match: Willy-Willies, Taifu, Baguio, Hurricanes → Philippines, Australia, Japan, USA
-Options: A. 3 4 1 2 B. 2 3 4 1 C. 1 3 2 4 D. 2 3 1 4
+
+A. 3 4 1 2
+
+B. 2 3 4 1
+
+C. 1 3 2 4
+
+D. 2 3 1 4
 
 <details>
 <summary>Show answer</summary>
@@ -380,7 +416,14 @@ Options: A. 3 4 1 2 B. 2 3 4 1 C. 1 3 2 4 D. 2 3 1 4
 ---
 
 **Q5.** Which volcano is **not** in the Pacific Ring of Fire?
-Options: A. Mount Fuji B. Mount Pinatubo C. Mount Kilimanjaro D. Mount St. Helens
+
+A. Mount Fuji
+
+B. Mount Pinatubo
+
+C. Mount Kilimanjaro
+
+D. Mount St. Helens
 
 <details>
 <summary>Show answer</summary>
@@ -391,11 +434,19 @@ Options: A. Mount Fuji B. Mount Pinatubo C. Mount Kilimanjaro D. Mount St. Helen
 ---
 
 **Q6.** Which statements are true?
+
 1. Natural disasters cause maximum damage in developing countries.
 2. Bhopal gas tragedy was man-made.
 3. India is a disaster-free country.
 4. Mangroves reduce the impact of cyclones.
-Options: A. 1, 2 and 3 B. 2, 3 and 4 C. 1, 2 and 4 D. 1, 3 and 4
+
+A. 1, 2 and 3
+
+B. 2, 3 and 4
+
+C. 1, 2 and 4
+
+D. 1, 3 and 4
 
 <details>
 <summary>Show answer</summary>
@@ -406,7 +457,14 @@ Options: A. 1, 2 and 3 B. 2, 3 and 4 C. 1, 2 and 4 D. 1, 3 and 4
 ---
 
 **Q7.** UP river declared a ‘Biological Disaster’ due to pollution (2018):
-Options: A. Yamuna B. Gomati C. Sai D. Tamsa
+
+A. Yamuna
+
+B. Gomati
+
+C. Sai
+
+D. Tamsa
 
 <details>
 <summary>Show answer</summary>
@@ -417,7 +475,14 @@ Options: A. Yamuna B. Gomati C. Sai D. Tamsa
 ---
 
 **Q8.** Chronology: 1 Food for Work 2 CDP 3 TRYSEM 4 DPAP
-Options: A. 4, 2, 3, 1 B. 2, 4, 1, 3 C. 2, 4, 3, 1 D. 4, 2, 1, 3
+
+A. 4, 2, 3, 1
+
+B. 2, 4, 1, 3
+
+C. 2, 4, 3, 1
+
+D. 4, 2, 1, 3
 
 <details>
 <summary>Show answer</summary>
@@ -428,7 +493,14 @@ Options: A. 4, 2, 3, 1 B. 2, 4, 1, 3 C. 2, 4, 3, 1 D. 4, 2, 1, 3
 ---
 
 **Q9.** India’s **highest** BIS seismic zone on the 2016 map is:
-Options: A. Zone I B. Zone II C. Zone IV D. Zone V
+
+A. Zone I
+
+B. Zone II
+
+C. Zone IV
+
+D. Zone V
 
 <details>
 <summary>Show answer</summary>
@@ -439,7 +511,14 @@ Options: A. Zone I B. Zone II C. Zone IV D. Zone V
 ---
 
 **Q10.** Which of the following (Place — Typical zone) is **not** correctly matched?
-Options: A. Andaman & Nicobar — V B. Entire NE — largely V C. Kutch — V D. Entire Uttar Pradesh — V
+
+A. Andaman & Nicobar — V
+
+B. Entire NE — largely V
+
+C. Kutch — V
+
+D. Entire Uttar Pradesh — V
 
 <details>
 <summary>Show answer</summary>
@@ -450,7 +529,14 @@ Options: A. Andaman & Nicobar — V B. Entire NE — largely V C. Kutch — V D.
 ---
 
 **Q11.** Latur (1993) earthquake is important because it occurred in:
-Options: A. Zone V Himalaya B. The **peninsular** shield C. Andaman trench only D. Only the Rann of Kutch
+
+A. Zone V Himalaya
+
+B. The **peninsular** shield
+
+C. Andaman trench only
+
+D. Only the Rann of Kutch
 
 <details>
 <summary>Show answer</summary>
@@ -461,7 +547,14 @@ Options: A. Zone V Himalaya B. The **peninsular** shield C. Andaman trench only 
 ---
 
 **Q12.** Koyna 1967 is classically tagged as:
-Options: A. Volcanic B. Reservoir-induced C. Tsunami D. Cloudburst
+
+A. Volcanic
+
+B. Reservoir-induced
+
+C. Tsunami
+
+D. Cloudburst
 
 <details>
 <summary>Show answer</summary>
@@ -472,9 +565,17 @@ Options: A. Volcanic B. Reservoir-induced C. Tsunami D. Cloudburst
 ---
 
 **Q13.** Consider the following:
+
 1. Focus is the surface point of maximum damage.
 2. Epicentre is the surface point above the focus.
-Options: A. Only 1 B. Only 2 C. Both D. Neither
+
+A. Only 1
+
+B. Only 2
+
+C. Both
+
+D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -485,7 +586,14 @@ Options: A. Only 1 B. Only 2 C. Both D. Neither
 ---
 
 **Q14.** Richter scale measures:
-Options: A. Intensity of damage only B. Magnitude / energy C. Only tsunami height D. Only wind speed
+
+A. Intensity of damage only
+
+B. Magnitude / energy
+
+C. Only tsunami height
+
+D. Only wind speed
 
 <details>
 <summary>Show answer</summary>
@@ -496,7 +604,14 @@ Options: A. Intensity of damage only B. Magnitude / energy C. Only tsunami heigh
 ---
 
 **Q15.** Indian Ocean tsunami of 26 Dec 2004 originated near:
-Options: A. Koyna dam B. Sumatra megathrust C. Latur D. Kilimanjaro
+
+A. Koyna dam
+
+B. Sumatra megathrust
+
+C. Latur
+
+D. Kilimanjaro
 
 <details>
 <summary>Show answer</summary>
@@ -507,7 +622,14 @@ Options: A. Koyna dam B. Sumatra megathrust C. Latur D. Kilimanjaro
 ---
 
 **Q16.** India’s tsunami early-warning centre is at:
-Options: A. NDMA HQ only B. INCOIS, Hyderabad C. IMD Pune only D. NIDM Jaipur
+
+A. NDMA HQ only
+
+B. INCOIS, Hyderabad
+
+C. IMD Pune only
+
+D. NIDM Jaipur
 
 <details>
 <summary>Show answer</summary>
@@ -518,7 +640,14 @@ Options: A. NDMA HQ only B. INCOIS, Hyderabad C. IMD Pune only D. NIDM Jaipur
 ---
 
 **Q17.** IMD cloudburst cut is:
-Options: A. 10 mm/day B. 50 mm/day C. **≥ 100 mm in one hour** D. Any rain in hills
+
+A. 10 mm/day
+
+B. 50 mm/day
+
+C. **≥ 100 mm in one hour**
+
+D. Any rain in hills
 
 <details>
 <summary>Show answer</summary>
@@ -529,7 +658,14 @@ Options: A. 10 mm/day B. 50 mm/day C. **≥ 100 mm in one hour** D. Any rain in 
 ---
 
 **Q18.** Heat-wave gate for Indian **plains** is Tmax:
-Options: A. 30°C B. 37°C C. **40°C** D. 47°C
+
+A. 30°C
+
+B. 37°C
+
+C. **40°C**
+
+D. 47°C
 
 <details>
 <summary>Show answer</summary>
@@ -540,7 +676,14 @@ Options: A. 30°C B. 37°C C. **40°C** D. 47°C
 ---
 
 **Q19.** Severe heat wave by departure from normal is:
-Options: A. 1–2°C B. 4.5–6.4°C C. **> 6.4°C** D. Any Tmax 35°C
+
+A. 1–2°C
+
+B. 4.5–6.4°C
+
+C. **> 6.4°C**
+
+D. Any Tmax 35°C
 
 <details>
 <summary>Show answer</summary>
@@ -551,9 +694,17 @@ Options: A. 1–2°C B. 4.5–6.4°C C. **> 6.4°C** D. Any Tmax 35°C
 ---
 
 **Q20.** With reference to cyclone basins:
+
 1. Bay of Bengal generates more cyclones than the Arabian Sea.
 2. Arabian Sea cyclones never hit Gujarat.
-Options: A. Only 1 B. Only 2 C. Both D. Neither
+
+A. Only 1
+
+B. Only 2
+
+C. Both
+
+D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -564,7 +715,14 @@ Options: A. Only 1 B. Only 2 C. Both D. Neither
 ---
 
 **Q21.** Peak seasons for BoB cyclones affecting India are:
-Options: A. Only July–August B. May–June and October–December C. Only January D. Only winter WD months
+
+A. Only July–August
+
+B. May–June and October–December
+
+C. Only January
+
+D. Only winter WD months
 
 <details>
 <summary>Show answer</summary>
@@ -575,7 +733,14 @@ Options: A. Only July–August B. May–June and October–December C. Only Janu
 ---
 
 **Q22.** SDMA is chaired by the:
-Options: A. Governor B. Chief Minister C. Chief Secretary only D. Prime Minister
+
+A. Governor
+
+B. Chief Minister
+
+C. Chief Secretary only
+
+D. Prime Minister
 
 <details>
 <summary>Show answer</summary>
@@ -586,7 +751,14 @@ Options: A. Governor B. Chief Minister C. Chief Secretary only D. Prime Minister
 ---
 
 **Q23.** NDRF was raised under the DM Act framework in:
-Options: A. 1991 B. 2001 C. **2006** D. 2016
+
+A. 1991
+
+B. 2001
+
+C. **2006**
+
+D. 2016
 
 <details>
 <summary>Show answer</summary>
@@ -597,7 +769,14 @@ Options: A. 1991 B. 2001 C. **2006** D. 2016
 ---
 
 **Q24.** Sendai Framework period is:
-Options: A. 1994–2004 B. 2005–2015 C. **2015–2030** D. 2020–2025 only
+
+A. 1994–2004
+
+B. 2005–2015
+
+C. **2015–2030**
+
+D. 2020–2025 only
 
 <details>
 <summary>Show answer</summary>
@@ -610,7 +789,14 @@ Options: A. 1994–2004 B. 2005–2015 C. **2015–2030** D. 2020–2025 only
 **Q25.** Match List-I with List-II.
 **List-I** A. NDMA B. SDMA C. NIDM D. INCOIS
 **List-II** 1. Training, Delhi 2. PM 3. Tsunami warning 4. CM
-Options: A. 2 4 1 3 B. 2 4 3 1 C. 4 2 1 3 D. 2 1 4 3
+
+A. 2 4 1 3
+
+B. 2 4 3 1
+
+C. 4 2 1 3
+
+D. 2 1 4 3
 
 <details>
 <summary>Show answer</summary>
@@ -621,7 +807,14 @@ Options: A. 2 4 1 3 B. 2 4 3 1 C. 4 2 1 3 D. 2 1 4 3
 ---
 
 **Q26.** Which of the following (Cyclone — Country, 2019) is **not** correctly matched?
-Options: A. Dorian — Bahamas B. Hagibis — Japan C. Lekima — China D. Mitag — Australia
+
+A. Dorian — Bahamas
+
+B. Hagibis — Japan
+
+C. Lekima — China
+
+D. Mitag — Australia
 
 <details>
 <summary>Show answer</summary>
@@ -632,7 +825,14 @@ Options: A. Dorian — Bahamas B. Hagibis — Japan C. Lekima — China D. Mitag
 ---
 
 **Q27.** Landslides in India are **least** typical of:
-Options: A. Himalaya B. Western Ghats C. NE hills D. Flat Ganga floodplain of central UP
+
+A. Himalaya
+
+B. Western Ghats
+
+C. NE hills
+
+D. Flat Ganga floodplain of central UP
 
 <details>
 <summary>Show answer</summary>
@@ -643,7 +843,14 @@ Options: A. Himalaya B. Western Ghats C. NE hills D. Flat Ganga floodplain of ce
 ---
 
 **Q28.** Kedarnath 2013 combined which hazards?
-Options: A. Only drought B. Cloudburst + flash flood + landslide/debris C. Only tsunami D. Only heat wave
+
+A. Only drought
+
+B. Cloudburst + flash flood + landslide/debris
+
+C. Only tsunami
+
+D. Only heat wave
 
 <details>
 <summary>Show answer</summary>
@@ -654,7 +861,14 @@ Options: A. Only drought B. Cloudburst + flash flood + landslide/debris C. Only 
 ---
 
 **Q29.** Meteorological drought (IMD exam cut) begins when rainfall is:
-Options: A. 5% below normal B. **< 75% of normal** (deficiency > 25%) C. Exactly 100% of normal D. Only when Tmax is 47°C
+
+A. 5% below normal
+
+B. **< 75% of normal** (deficiency > 25%)
+
+C. Exactly 100% of normal
+
+D. Only when Tmax is 47°C
 
 <details>
 <summary>Show answer</summary>
@@ -666,7 +880,14 @@ Options: A. 5% below normal B. **< 75% of normal** (deficiency > 25%) C. Exactly
 
 **Q30.** Assertion (A): S-waves do not travel through the outer core.
 Reason (R): S-waves are shear waves that need a solid.
-Options: A. Both true, R explains A B. Both true, R not explanation C. A true R false D. A false R true
+
+A. Both true, R explains A
+
+B. Both true, R not explanation
+
+C. A true R false
+
+D. A false R true
 
 <details>
 <summary>Show answer</summary>
@@ -677,7 +898,14 @@ Options: A. Both true, R explains A B. Both true, R not explanation C. A true R 
 ---
 
 **Q31.** Bhuj earthquake year:
-Options: A. 1993 B. 1999 C. **2001** D. 2004
+
+A. 1993
+
+B. 1999
+
+C. **2001**
+
+D. 2004
 
 <details>
 <summary>Show answer</summary>
@@ -688,7 +916,14 @@ Options: A. 1993 B. 1999 C. **2001** D. 2004
 ---
 
 **Q32.** Which pair is **not** correctly matched?
-Options: A. Kangra — 1905 B. Bihar–Nepal — 1934 C. Latur — 1993 D. Bhuj — 2004
+
+A. Kangra — 1905
+
+B. Bihar–Nepal — 1934
+
+C. Latur — 1993
+
+D. Bhuj — 2004
 
 <details>
 <summary>Show answer</summary>
@@ -699,7 +934,14 @@ Options: A. Kangra — 1905 B. Bihar–Nepal — 1934 C. Latur — 1993 D. Bhuj 
 ---
 
 **Q33.** NEC under the DM Act is chaired by the:
-Options: A. Prime Minister B. **Union Home Secretary** C. Cabinet Secretary only as NDMA chair D. Chief of Army Staff
+
+A. Prime Minister
+
+B. **Union Home Secretary**
+
+C. Cabinet Secretary only as NDMA chair
+
+D. Chief of Army Staff
 
 <details>
 <summary>Show answer</summary>
@@ -710,7 +952,14 @@ Options: A. Prime Minister B. **Union Home Secretary** C. Cabinet Secretary only
 ---
 
 **Q34.** Global warming tends to increase the frequency/severity of:
-Options: A. Cyclones only B. Storms only C. Hurricanes only D. **All of the above**
+
+A. Cyclones only
+
+B. Storms only
+
+C. Hurricanes only
+
+D. **All of the above**
 
 <details>
 <summary>Show answer</summary>
@@ -721,7 +970,14 @@ Options: A. Cyclones only B. Storms only C. Hurricanes only D. **All of the abov
 ---
 
 **Q35.** Which UP belt is the classic **drought** lock?
-Options: A. Terai flood belt only B. **Bundelkhand** C. Andaman D. Sundarbans
+
+A. Terai flood belt only
+
+B. **Bundelkhand**
+
+C. Andaman
+
+D. Sundarbans
 
 <details>
 <summary>Show answer</summary>
@@ -732,7 +988,14 @@ Options: A. Terai flood belt only B. **Bundelkhand** C. Andaman D. Sundarbans
 ---
 
 **Q36.** Which UP belt is the classic **flood** lock?
-Options: A. Entire Bundelkhand equally B. **Eastern / trans-Ghaghara** (Rapti–Ghaghara–Gandak) C. Only the Thar D. Only Zone V Himalaya inside UP
+
+A. Entire Bundelkhand equally
+
+B. **Eastern / trans-Ghaghara** (Rapti–Ghaghara–Gandak)
+
+C. Only the Thar
+
+D. Only Zone V Himalaya inside UP
 
 <details>
 <summary>Show answer</summary>
@@ -743,9 +1006,17 @@ Options: A. Entire Bundelkhand equally B. **Eastern / trans-Ghaghara** (Rapti–
 ---
 
 **Q37.** Consider:
+
 1. P-waves arrive before S-waves.
 2. Surface waves generally cause the worst shaking at the ground.
-Options: A. Only 1 B. Only 2 C. Both D. Neither
+
+A. Only 1
+
+B. Only 2
+
+C. Both
+
+D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -756,7 +1027,14 @@ Options: A. Only 1 B. Only 2 C. Both D. Neither
 ---
 
 **Q38.** NDMP (National Disaster Management Plan) was first released in:
-Options: A. 2005 B. **2016** C. 1991 D. 2025
+
+A. 2005
+
+B. **2016**
+
+C. 1991
+
+D. 2025
 
 <details>
 <summary>Show answer</summary>
@@ -767,7 +1045,14 @@ Options: A. 2005 B. **2016** C. 1991 D. 2025
 ---
 
 **Q39.** CDRI was launched by India in:
-Options: A. 2005 B. 2015 C. **2019** D. 2024
+
+A. 2005
+
+B. 2015
+
+C. **2019**
+
+D. 2024
 
 <details>
 <summary>Show answer</summary>
@@ -778,7 +1063,14 @@ Options: A. 2005 B. 2015 C. **2019** D. 2024
 ---
 
 **Q40.** Which is a GLOF-type disaster lock?
-Options: A. Latur 1993 B. **Sikkim Teesta / South Lhonak 2023** C. Bhopal 1984 D. DPAP 1973
+
+A. Latur 1993
+
+B. **Sikkim Teesta / South Lhonak 2023**
+
+C. Bhopal 1984
+
+D. DPAP 1973
 
 <details>
 <summary>Show answer</summary>
@@ -789,7 +1081,14 @@ Options: A. Latur 1993 B. **Sikkim Teesta / South Lhonak 2023** C. Bhopal 1984 D
 ---
 
 **Q41.** Coastal Odisha’s disaster signature is primarily:
-Options: A. Desertification B. **Tropical cyclone + storm surge** C. Only cold wave D. Only Zone II earthquakes
+
+A. Desertification
+
+B. **Tropical cyclone + storm surge**
+
+C. Only cold wave
+
+D. Only Zone II earthquakes
 
 <details>
 <summary>Show answer</summary>
@@ -800,7 +1099,14 @@ Options: A. Desertification B. **Tropical cyclone + storm surge** C. Only cold w
 ---
 
 **Q42.** Which of the following (Body — Role) is **not** correctly matched?
-Options: A. NDMA — policy, PM chairs B. NDRF — specialised response C. NIDM — training D. INCOIS — drought code in Bundelkhand
+
+A. NDMA — policy, PM chairs
+
+B. NDRF — specialised response
+
+C. NIDM — training
+
+D. INCOIS — drought code in Bundelkhand
 
 <details>
 <summary>Show answer</summary>
@@ -811,7 +1117,14 @@ Options: A. NDMA — policy, PM chairs B. NDRF — specialised response C. NIDM 
 ---
 
 **Q43.** Heat-wave declaration also requires the criterion at:
-Options: A. One village for one hour B. **At least 2 stations, 2 consecutive days** C. Only satellite data D. Only Zone V
+
+A. One village for one hour
+
+B. **At least 2 stations, 2 consecutive days**
+
+C. Only satellite data
+
+D. Only Zone V
 
 <details>
 <summary>Show answer</summary>
@@ -822,9 +1135,17 @@ Options: A. One village for one hour B. **At least 2 stations, 2 consecutive day
 ---
 
 **Q44.** Which statement is/are correct?
+
 1. Mercalli scale is about felt damage.
 2. A magnitude-8 quake releases far more energy than magnitude 7 (logarithmic).
-Options: A. Only 1 B. Only 2 C. Both D. Neither
+
+A. Only 1
+
+B. Only 2
+
+C. Both
+
+D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -835,7 +1156,14 @@ Options: A. Only 1 B. Only 2 C. Both D. Neither
 ---
 
 **Q45.** Zone I on India’s present BIS map:
-Options: A. Covers all of UP B. **Does not exist (abolished 2002)** C. Is higher than Zone V D. Is the tsunami zone
+
+A. Covers all of UP
+
+B. **Does not exist (abolished 2002)**
+
+C. Is higher than Zone V
+
+D. Is the tsunami zone
 
 <details>
 <summary>Show answer</summary>
@@ -846,7 +1174,14 @@ Options: A. Covers all of UP B. **Does not exist (abolished 2002)** C. Is higher
 ---
 
 **Q46.** 2019 match: Dorian, Hagibis, Lekima, Mitag → Bahamas, China, Korea, Japan
-Options: A. 1 2 4 3 B. **1 4 2 3** C. 4 2 3 1 D. 3 4 2 1
+
+A. 1 2 4 3
+
+B. **1 4 2 3**
+
+C. 4 2 3 1
+
+D. 3 4 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -857,7 +1192,14 @@ Options: A. 1 2 4 3 B. **1 4 2 3** C. 4 2 3 1 D. 3 4 2 1
 ---
 
 **Q47.** Joshimath (2023) is a CA lock for:
-Options: A. Super cyclone B. **Land subsidence / slope instability** C. Heat wave of 47°C D. NDMA chairmanship
+
+A. Super cyclone
+
+B. **Land subsidence / slope instability**
+
+C. Heat wave of 47°C
+
+D. NDMA chairmanship
 
 <details>
 <summary>Show answer</summary>
@@ -868,7 +1210,14 @@ Options: A. Super cyclone B. **Land subsidence / slope instability** C. Heat wav
 ---
 
 **Q48.** Which of the following is **not** correctly matched?
-Options: A. Hurricane — USA B. Baguio — Philippines C. Willy-willies — Australia D. Taifu — Bahamas
+
+A. Hurricane — USA
+
+B. Baguio — Philippines
+
+C. Willy-willies — Australia
+
+D. Taifu — Bahamas
 
 <details>
 <summary>Show answer</summary>
@@ -879,7 +1228,14 @@ Options: A. Hurricane — USA B. Baguio — Philippines C. Willy-willies — Aus
 ---
 
 **Q49.** DDMA is chaired by the:
-Options: A. Prime Minister B. Chief Minister C. **District Magistrate** D. NDRF DG only
+
+A. Prime Minister
+
+B. Chief Minister
+
+C. **District Magistrate**
+
+D. NDRF DG only
 
 <details>
 <summary>Show answer</summary>
@@ -890,7 +1246,14 @@ Options: A. Prime Minister B. Chief Minister C. **District Magistrate** D. NDRF 
 ---
 
 **Q50.** BIS Zone VI (extremely high) as a **current** Prelims map:
-Options: A. Official since 1956 B. Draft 2025 **withdrawn Mar 2026** — use **II–V** C. Replaces Sendai D. Applies only to UP Bundelkhand
+
+A. Official since 1956
+
+B. Draft 2025 **withdrawn Mar 2026** — use **II–V**
+
+C. Replaces Sendai
+
+D. Applies only to UP Bundelkhand
 
 <details>
 <summary>Show answer</summary>
@@ -908,11 +1271,19 @@ Options: A. Official since 1956 B. Draft 2025 **withdrawn Mar 2026** — use **I
 
 **Q1. UPPCS Prelims 2025, Q134**
 Consider the following programmes and arrange them in correct chronological order.
+
 1. Food for Work Programme
 2. Community Development Programme
 3. Training of Rural Youth for Self Employment (TRYSEM)
 4. Drought Prone Areas Programme
-Options: A. 4, 2, 3, 1 B. 2, 4, 1, 3 C. 2, 4, 3, 1 D. 4, 2, 1, 3
+
+A. 4, 2, 3, 1
+
+B. 2, 4, 1, 3
+
+C. 2, 4, 3, 1
+
+D. 4, 2, 1, 3
 
 <details>
 <summary>Show answer</summary>
@@ -924,7 +1295,14 @@ Options: A. 4, 2, 3, 1 B. 2, 4, 1, 3 C. 2, 4, 3, 1 D. 4, 2, 1, 3
 
 **Q2. UPPCS Prelims 2024, Q30**
 Which of the following volcanoes is not located in the Pacific Ring of Fire?
-Options: A. Mount Fuji B. Mount Pinatubo C. Mount Kilimanjaro D. Mount St. Helens
+
+A. Mount Fuji
+
+B. Mount Pinatubo
+
+C. Mount Kilimanjaro
+
+D. Mount St. Helens
 
 <details>
 <summary>Show answer</summary>
@@ -936,7 +1314,14 @@ Options: A. Mount Fuji B. Mount Pinatubo C. Mount Kilimanjaro D. Mount St. Helen
 
 **Q3. UPPCS Prelims 2021, Q26**
 The National Disaster Management Division in India is the nodal division in the Ministry of Home Affairs for disaster management. Who is the Ex-officio Chairman of the National Disaster Management Authority?
-Options: A. The Prime Minister B. The Home Minister C. The Defence Minister D. The Health and Family Welfare Minister
+
+A. The Prime Minister
+
+B. The Home Minister
+
+C. The Defence Minister
+
+D. The Health and Family Welfare Minister
 
 <details>
 <summary>Show answer</summary>
@@ -950,7 +1335,14 @@ Options: A. The Prime Minister B. The Home Minister C. The Defence Minister D. T
 Match List-I with List-II and select the correct answer using the codes given below the lists:
 **List-I (Tropical cyclones)** A. Baguios B. Hurricanes C. Typhoons D. Willy-Willies
 **List-II (Country)** 1. Australia 2. China 3. Philippines 4. United States of America
-Options: A. 3 4 1 2 B. 3 4 2 1 C. 2 3 4 1 D. 2 1 3 4
+
+A. 3 4 1 2
+
+B. 3 4 2 1
+
+C. 2 3 4 1
+
+D. 2 1 3 4
 
 <details>
 <summary>Show answer</summary>
@@ -964,7 +1356,14 @@ Options: A. 3 4 1 2 B. 3 4 2 1 C. 2 3 4 1 D. 2 1 3 4
 Match List-I with List-II:
 **List-I (Typhoon/Hurricane August–September 2019)** A. Dorian B. Hagibis C. Lekima D. Mitag
 **List-II (Most affected country)** 1. Bahamas 2. China 3. Jeju, South Korea 4. Japan
-Options: A. 1 2 4 3 B. 1 4 2 3 C. 4 2 3 1 D. 3 4 2 1
+
+A. 1 2 4 3
+
+B. 1 4 2 3
+
+C. 4 2 3 1
+
+D. 3 4 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -978,7 +1377,14 @@ Options: A. 1 2 4 3 B. 1 4 2 3 C. 4 2 3 1 D. 3 4 2 1
 Match List-I with List-II:
 **List-I (Different name of tropical cyclone)** A. Willy-Willies B. Taifu C. Baguio D. Hurricanes
 **List-II (Country)** 1. Philippines 2. Australia 3. Japan 4. U.S.A.
-Options: A. 3 4 1 2 B. 2 3 4 1 C. 1 3 2 4 D. 2 3 1 4
+
+A. 3 4 1 2
+
+B. 2 3 4 1
+
+C. 1 3 2 4
+
+D. 2 3 1 4
 
 <details>
 <summary>Show answer</summary>
@@ -991,8 +1397,16 @@ Options: A. 3 4 1 2 B. 2 3 4 1 C. 1 3 2 4 D. 2 3 1 4
 **Q7. UPPCS Prelims 2019, Q7**
 Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 **Assertion (A):** The highest concentration of Seismic zones lies in Himalayan region in India.
+
 **Reason (R):** There are many longitudinal thrust zones in Himalayas.
-Options: A. Both (A) and (R) are true and (R) is the correct explanation of (A) B. Both (A) and (R) are true, but (R) is not the correct explanation of (A) C. (A) is true, but (R) is false D. (A) is false, but (R) is true
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+C. (A) is true, but (R) is false
+
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
@@ -1004,11 +1418,19 @@ Options: A. Both (A) and (R) are true and (R) is the correct explanation of (A) 
 
 **Q8. UPPCS Prelims 2018, Q133**
 Which of the following statements are true?
+
 1. Natural disasters cause maximum damage in developing countries.
 2. Bhopal gas tragedy was man-made.
 3. India is a disaster free country.
 4. Mangroves reduce the impact of cyclones.
-Options: A. 1, 2 and 3 B. 2, 3 and 4 C. 1, 2 and 4 D. 1, 3 and 4
+
+A. 1, 2 and 3
+
+B. 2, 3 and 4
+
+C. 1, 2 and 4
+
+D. 1, 3 and 4
 
 <details>
 <summary>Show answer</summary>
@@ -1020,7 +1442,14 @@ Options: A. 1, 2 and 3 B. 2, 3 and 4 C. 1, 2 and 4 D. 1, 3 and 4
 
 **Q9. UPPCS Prelims 2018, Q99**
 Which of the following rivers of Uttar Pradesh has been declared a 'Biological Disaster due to environmental pollution'?
-Options: A. Yamuna B. Gomati C. Sai D. Tamsa
+
+A. Yamuna
+
+B. Gomati
+
+C. Sai
+
+D. Tamsa
 
 <details>
 <summary>Show answer</summary>
@@ -1032,7 +1461,14 @@ Options: A. Yamuna B. Gomati C. Sai D. Tamsa
 
 **Q10. UPPCS Prelims 2018, Q53**
 As a result of global warming the frequency and severity of which of the following are increasing due to global warming?
-Options: A. Cyclones only B. Storms only C. Hurricanes only D. All of the above
+
+A. Cyclones only
+
+B. Storms only
+
+C. Hurricanes only
+
+D. All of the above
 
 <details>
 <summary>Show answer</summary>

@@ -225,6 +225,7 @@ Size (Census) and function are **different** questions. **No town is purely one-
 | **NCR** | Delhi + **Ghaziabad, Noida, Greater Noida, Meerut** (UP) + Gurugram, Faridabad (HR) |
 
 **Urban agglomeration — any one of three**
+
 1. A town + its adjoining **outgrowths**
 2. Two or more **contiguous towns**, with or without OGs
 3. A city + one or more adjoining towns + their OGs, as one contiguous spread
@@ -270,10 +271,26 @@ National 12 (for NOT-matched): Ajmer, Amravati, Amritsar, Badami, Dwarka, Gaya, 
 
 **Inline PYQ**
 **(UPPCS 2018, Q41)** Which of the following cities in Uttar Pradesh has NOT been selected for development under the Smart City Development Programme of the Central Government?
-Options: A. Lucknow B. Allahabad C. Ghaziabad D. Kanpur
+
+A. Lucknow
+
+B. Allahabad
+
+C. Ghaziabad
+
+D. Kanpur
+
 **Ans: C**
 **(UPPCS 2020, Q11)** No. of cities in U.P. which are covered under the 'Smart City' Scheme
-Options: A. 10 B. 12 C. 15 D. 18
+
+A. 10
+
+B. 12
+
+C. 15
+
+D. 18
+
 **Ans: A**
 
 ---
@@ -314,6 +331,7 @@ Code **2, 4, 1, 3**.
 
 **Inline PYQ**
 **(UPPCS 2023, Q143)** Which of the following (Scheme — Year) is not correctly matched?
+
 A. DDU-GKY — 2014 B. Rural Housing Interest Subsidy Scheme — 2017 C. SPMRM — 2015 D. SAGY — 2014
 **Ans: C** — SPMRM **launched 2016**.
 **(UPPCS 2025, Q72)** Chronology: 1 AMRUT 2 JNNURM 3 Jal Jeevan Mission 4 National Urban Housing and Habitat Policy
@@ -378,10 +396,18 @@ A. DDU-GKY — 2014 B. Rural Housing Interest Subsidy Scheme — 2017 C. SPMRM �
 ## Practice Zone — 60 Questions (2025 Pattern Mix)
 
 **Q1.** With reference to a census town in India, which of the following statements is/are correct?
+
 1. Population is at least 5,000.
 2. Density is at least 400 persons per km².
 3. At least 75% of **female** main workers must be in non-agriculture.
-Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -393,7 +419,14 @@ Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 **Q2.** Assertion (A): A census town is always administered as a municipality.
 Reason (R): Census towns are identified by demographic–occupational criteria even without statutory status.
-Options: A. Both true, R explains A B. Both true, R not explanation C. A true R false D. A false R true
+
+A. Both true, R explains A
+
+B. Both true, R not explanation
+
+C. A true R false
+
+D. A false R true
 
 <details>
 <summary>Show answer</summary>
@@ -404,7 +437,14 @@ Options: A. Both true, R explains A B. Both true, R not explanation C. A true R 
 ---
 
 **Q3.** Which of the following (Village type — Typical region) is **not** correctly matched?
-Options: A. Clustered — Ganga plain B. Dispersed — Meghalaya / NE forests C. Hamleted — several hamlets, one village name D. Clustered — high Himalaya interior
+
+A. Clustered — Ganga plain
+
+B. Dispersed — Meghalaya / NE forests
+
+C. Hamleted — several hamlets, one village name
+
+D. Clustered — high Himalaya interior
 
 <details>
 <summary>Show answer</summary>
@@ -417,7 +457,14 @@ Options: A. Clustered — Ganga plain B. Dispersed — Meghalaya / NE forests C.
 **Q4.** Match List-I with List-II and select the correct answer.
 **List-I (Form)** A. Linear B. Nucleated C. Isolated farmstead D. Several hamlets, one name
 **List-II** 1. Fertile plains 2. Road / river 3. Hamleted 4. Dispersed
-Options: A. 2 1 4 3 B. 1 2 4 3 C. 2 1 3 4 D. 4 1 2 3
+
+A. 2 1 4 3
+
+B. 1 2 4 3
+
+C. 2 1 3 4
+
+D. 4 1 2 3
 
 <details>
 <summary>Show answer</summary>
@@ -428,7 +475,14 @@ Options: A. 2 1 4 3 B. 1 2 4 3 C. 2 1 3 4 D. 4 1 2 3
 ---
 
 **Q5.** Census Class I town means population:
-Options: A. ≥ 5,000 B. ≥ 50,000 C. ≥ 1,00,000 D. ≥ 10,00,000
+
+A. ≥ 5,000
+
+B. ≥ 50,000
+
+C. ≥ 1,00,000
+
+D. ≥ 10,00,000
 
 <details>
 <summary>Show answer</summary>
@@ -439,7 +493,14 @@ Options: A. ≥ 5,000 B. ≥ 50,000 C. ≥ 1,00,000 D. ≥ 10,00,000
 ---
 
 **Q6.** Which one of the following is **not** correctly matched?
-Options: A. Class I — ≥ 1 lakh B. Million UA — ≥ 10 lakh C. NCERT mega city — > 50 lakh D. Class I — ≥ 10 lakh
+
+A. Class I — ≥ 1 lakh
+
+B. Million UA — ≥ 10 lakh
+
+C. NCERT mega city — > 50 lakh
+
+D. Class I — ≥ 10 lakh
 
 <details>
 <summary>Show answer</summary>
@@ -450,9 +511,17 @@ Options: A. Class I — ≥ 1 lakh B. Million UA — ≥ 10 lakh C. NCERT mega c
 ---
 
 **Q7.** Consider the following statements:
+
 1. Most Indian cities are multifunctional.
 2. Functional classification uses the **dominant** activity.
-Options: A. Only 1 B. Only 2 C. Both D. Neither
+
+A. Only 1
+
+B. Only 2
+
+C. Both
+
+D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -465,7 +534,14 @@ Options: A. Only 1 B. Only 2 C. Both D. Neither
 **Q8.** Match List-I with List-II.
 **List-I (Function)** A. Administrative B. Industrial C. Mining D. Garrison
 **List-II** 1. Dhanbad 2. Lucknow 3. Meerut 4. Kanpur
-Options: A. 2 4 1 3 B. 2 4 3 1 C. 4 2 1 3 D. 2 1 4 3
+
+A. 2 4 1 3
+
+B. 2 4 3 1
+
+C. 4 2 1 3
+
+D. 2 1 4 3
 
 <details>
 <summary>Show answer</summary>
@@ -476,7 +552,14 @@ Options: A. 2 4 1 3 B. 2 4 3 1 C. 4 2 1 3 D. 2 1 4 3
 ---
 
 **Q9.** Which of the following (Town — Evolution layer) is **not** correctly matched?
-Options: A. Varanasi — ancient B. Lucknow — medieval C. Chandigarh — planned modern D. Madurai — planned greenfield Smart City only
+
+A. Varanasi — ancient
+
+B. Lucknow — medieval
+
+C. Chandigarh — planned modern
+
+D. Madurai — planned greenfield Smart City only
 
 <details>
 <summary>Show answer</summary>
@@ -487,7 +570,14 @@ Options: A. Varanasi — ancient B. Lucknow — medieval C. Chandigarh — plann
 ---
 
 **Q10.** A million city / million UA in Indian Census usage is:
-Options: A. ≥ 1 lakh B. ≥ 10 lakh C. Only ≥ 1 crore D. Any district HQ
+
+A. ≥ 1 lakh
+
+B. ≥ 10 lakh
+
+C. Only ≥ 1 crore
+
+D. Any district HQ
 
 <details>
 <summary>Show answer</summary>
@@ -499,7 +589,14 @@ Options: A. ≥ 1 lakh B. ≥ 10 lakh C. Only ≥ 1 crore D. Any district HQ
 
 **Q11.** Assertion (A): An urban agglomeration includes the municipal core plus adjoining outgrowths.
 Reason (R): Conurbation means a single hamleted village.
-Options: A. Both true, R explains A B. Both true, R not explanation C. A true R false D. A false R true
+
+A. Both true, R explains A
+
+B. Both true, R not explanation
+
+C. A true R false
+
+D. A false R true
 
 <details>
 <summary>Show answer</summary>
@@ -510,7 +607,14 @@ Options: A. Both true, R explains A B. Both true, R not explanation C. A true R 
 ---
 
 **Q12.** Which UP city was NOT selected under the Central Smart City Development Programme?
-Options: A. Lucknow B. Allahabad C. Ghaziabad D. Kanpur
+
+A. Lucknow
+
+B. Allahabad
+
+C. Ghaziabad
+
+D. Kanpur
 
 <details>
 <summary>Show answer</summary>
@@ -521,7 +625,14 @@ Options: A. Lucknow B. Allahabad C. Ghaziabad D. Kanpur
 ---
 
 **Q13.** Number of U.P. cities covered under the (Central) 'Smart City' Scheme in the 2020 framing is:
-Options: A. 10 B. 12 C. 15 D. 18
+
+A. 10
+
+B. 12
+
+C. 15
+
+D. 18
 
 <details>
 <summary>Show answer</summary>
@@ -532,9 +643,17 @@ Options: A. 10 B. 12 C. 15 D. 18
 ---
 
 **Q14.** Consider the following:
+
 1. Ghaziabad is among UP’s original Central / Mission-100 Smart Cities.
 2. UP later named some Nagar Nigams as State Smart Cities (2019), including Ghaziabad.
-Options: A. Only 1 B. Only 2 C. Both D. Neither
+
+A. Only 1
+
+B. Only 2
+
+C. Both
+
+D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -545,8 +664,16 @@ Options: A. Only 1 B. Only 2 C. Both D. Neither
 ---
 
 **Q15.** HRIDAY cities of Uttar Pradesh are:
+
 1. Varanasi 2. Mathura 3. Prayagraj 4. Ayodhya
-Options: A. 1 only B. 3 only C. 1 and 2 D. 1, 2, 3 and 4
+
+A. 1 only
+
+B. 3 only
+
+C. 1 and 2
+
+D. 1, 2, 3 and 4
 
 <details>
 <summary>Show answer</summary>
@@ -559,7 +686,14 @@ Options: A. 1 only B. 3 only C. 1 and 2 D. 1, 2, 3 and 4
 **Q16.** Match ISAC-2020 categories with winner cities.
 **List-I** A. Culture B. Governance C. Social Aspects D. Urban Environment
 **List-II** 1. Vadodara 2. Indore 3. Bhopal 4. Tirupati
-Options: A. 2, 1, 3, 4 B. 2, 1, 4, 3 C. 1, 2, 4, 3 D. 1, 2, 3, 4
+
+A. 2, 1, 3, 4
+
+B. 2, 1, 4, 3
+
+C. 1, 2, 4, 3
+
+D. 1, 2, 3, 4
 
 <details>
 <summary>Show answer</summary>
@@ -570,9 +704,17 @@ Options: A. 2, 1, 3, 4 B. 2, 1, 4, 3 C. 1, 2, 4, 3 D. 1, 2, 3, 4
 ---
 
 **Q17.** With reference to ISAC-2020, which of the following statements is/are correct?
+
 1. Best State award went to Uttar Pradesh.
 2. Culture category winner in the paper’s list was Vadodara.
-Options: A. Only 1 B. Only 2 C. Both D. Neither
+
+A. Only 1
+
+B. Only 2
+
+C. Both
+
+D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -583,7 +725,14 @@ Options: A. Only 1 B. Only 2 C. Both D. Neither
 ---
 
 **Q18.** Which of the following (Scheme — Year) is **not** correctly matched?
-Options: A. DDU-GKY — 2014 B. Rural Housing Interest Subsidy Scheme — 2017 C. SPMRM — 2015 as *launch* D. SAGY — 2014
+
+A. DDU-GKY — 2014
+
+B. Rural Housing Interest Subsidy Scheme — 2017
+
+C. SPMRM — 2015 as *launch*
+
+D. SAGY — 2014
 
 <details>
 <summary>Show answer</summary>
@@ -594,8 +743,16 @@ Options: A. DDU-GKY — 2014 B. Rural Housing Interest Subsidy Scheme — 2017 C
 ---
 
 **Q19.** Arrange in correct chronological order:
+
 1. AMRUT 2. JNNURM 3. Jal Jeevan Mission 4. National Urban Housing and Habitat Policy
-Options: A. 2, 4, 1, 3 B. 4, 2, 1, 3 C. 2, 4, 3, 1 D. 4, 2, 3, 1
+
+A. 2, 4, 1, 3
+
+B. 4, 2, 1, 3
+
+C. 2, 4, 3, 1
+
+D. 4, 2, 3, 1
 
 <details>
 <summary>Show answer</summary>
@@ -606,7 +763,14 @@ Options: A. 2, 4, 1, 3 B. 4, 2, 1, 3 C. 2, 4, 3, 1 D. 4, 2, 3, 1
 ---
 
 **Q20.** The idea of ‘Rurbanization’ in the 2022 sociologist set is keyed to:
-Options: A. M. N. Srinivas B. Yogendra Singh C. G. S. Ghurye D. H. Spencer
+
+A. M. N. Srinivas
+
+B. Yogendra Singh
+
+C. G. S. Ghurye
+
+D. H. Spencer
 
 <details>
 <summary>Show answer</summary>
@@ -617,7 +781,14 @@ Options: A. M. N. Srinivas B. Yogendra Singh C. G. S. Ghurye D. H. Spencer
 ---
 
 **Q21.** The development of the concept of ‘Global Village’ is based on:
-Options: A. Social development B. Political development C. Transport and Communication Development D. International organisations
+
+A. Social development
+
+B. Political development
+
+C. Transport and Communication Development
+
+D. International organisations
 
 <details>
 <summary>Show answer</summary>
@@ -629,7 +800,14 @@ Options: A. Social development B. Political development C. Transport and Communi
 
 **Q22.** Assertion (A): AMRUT was launched in 2015.
 Reason (R): JNNURM was launched in 2015.
-Options: A. Both true, R explains A B. Both true, R not explanation C. A true R false D. A false R true
+
+A. Both true, R explains A
+
+B. Both true, R not explanation
+
+C. A true R false
+
+D. A false R true
 
 <details>
 <summary>Show answer</summary>
@@ -640,7 +818,14 @@ Options: A. Both true, R explains A B. Both true, R not explanation C. A true R 
 ---
 
 **Q23.** Which pair of nodal ministries is correct?
-Options: A. Smart Cities Mission — MoRD; SPMRM — MoHUA B. Smart Cities Mission — MoHUA; SPMRM — MoRD C. Both under MoES D. Both under MHA only
+
+A. Smart Cities Mission — MoRD; SPMRM — MoHUA
+
+B. Smart Cities Mission — MoHUA; SPMRM — MoRD
+
+C. Both under MoES
+
+D. Both under MHA only
 
 <details>
 <summary>Show answer</summary>
@@ -651,10 +836,18 @@ Options: A. Smart Cities Mission — MoRD; SPMRM — MoHUA B. Smart Cities Missi
 ---
 
 **Q24.** Consider the following statements about SPMRM:
+
 1. It is implemented by the Ministry of Rural Development.
 2. It was launched on 21 February 2016.
 3. It targeted about 100 clusters only.
-Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -665,7 +858,14 @@ Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 ---
 
 **Q25.** Site of a settlement refers to:
-Options: A. Global coordinates of a country B. Immediate local ground (water, slope, soil) C. Only its function D. Only its census class
+
+A. Global coordinates of a country
+
+B. Immediate local ground (water, slope, soil)
+
+C. Only its function
+
+D. Only its census class
 
 <details>
 <summary>Show answer</summary>
@@ -676,7 +876,14 @@ Options: A. Global coordinates of a country B. Immediate local ground (water, sl
 ---
 
 **Q26.** Situation of a settlement refers to:
-Options: A. House architecture B. Regional location relative to routes and markets C. Only rainfall D. Only caste
+
+A. House architecture
+
+B. Regional location relative to routes and markets
+
+C. Only rainfall
+
+D. Only caste
 
 <details>
 <summary>Show answer</summary>
@@ -687,9 +894,17 @@ Options: A. House architecture B. Regional location relative to routes and marke
 ---
 
 **Q27.** Which of the following statements is/are correct?
+
 1. Linear rural settlements typically align with a road, river or canal.
 2. Dispersed settlements are the default pattern of the Punjab–Haryana wheat belt.
-Options: A. Only 1 B. Only 2 C. Both D. Neither
+
+A. Only 1
+
+B. Only 2
+
+C. Both
+
+D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -700,7 +915,14 @@ Options: A. Only 1 B. Only 2 C. Both D. Neither
 ---
 
 **Q28.** A hamleted village means:
-Options: A. One compact block only B. Several separated hamlets under one village name C. A Class I town D. A megacity
+
+A. One compact block only
+
+B. Several separated hamlets under one village name
+
+C. A Class I town
+
+D. A megacity
 
 <details>
 <summary>Show answer</summary>
@@ -711,7 +933,14 @@ Options: A. One compact block only B. Several separated hamlets under one villag
 ---
 
 **Q29.** NCERT ‘mega cities’ of India (2011 table) are cities/UAs with population:
-Options: A. ≥ 1 lakh B. 10–50 lakh only C. **> 50 lakh** (six cities) D. Any Class II town
+
+A. ≥ 1 lakh
+
+B. 10–50 lakh only
+
+C. **> 50 lakh** (six cities)
+
+D. Any Class II town
 
 <details>
 <summary>Show answer</summary>
@@ -722,7 +951,14 @@ Options: A. ≥ 1 lakh B. 10–50 lakh only C. **> 50 lakh** (six cities) D. Any
 ---
 
 **Q30.** How many Indian cities were taken up under Smart Cities Mission?
-Options: A. 10 B. 53 C. 100 D. 300
+
+A. 10
+
+B. 53
+
+C. 100
+
+D. 300
 
 <details>
 <summary>Show answer</summary>
@@ -733,7 +969,14 @@ Options: A. 10 B. 53 C. 100 D. 300
 ---
 
 **Q31.** Which of the following (Scheme — Ministry / scale) is **not** correctly matched?
-Options: A. Smart Cities Mission — 100 cities, MoHUA B. SPMRM — ~300 clusters, MoRD C. AMRUT (2015) — ~500 cities D. HRIDAY — 100 heritage cities
+
+A. Smart Cities Mission — 100 cities, MoHUA
+
+B. SPMRM — ~300 clusters, MoRD
+
+C. AMRUT (2015) — ~500 cities
+
+D. HRIDAY — 100 heritage cities
 
 <details>
 <summary>Show answer</summary>
@@ -744,7 +987,14 @@ Options: A. Smart Cities Mission — 100 cities, MoHUA B. SPMRM — ~300 cluster
 ---
 
 **Q32.** AMRUT 2.0 was launched on:
-Options: A. 25 June 2015 B. 21 February 2016 C. 1 October 2021 D. 15 August 2019
+
+A. 25 June 2015
+
+B. 21 February 2016
+
+C. 1 October 2021
+
+D. 15 August 2019
 
 <details>
 <summary>Show answer</summary>
@@ -755,9 +1005,17 @@ Options: A. 25 June 2015 B. 21 February 2016 C. 1 October 2021 D. 15 August 2019
 ---
 
 **Q33.** Which statement is/are correct about Smart Cities Mission design?
+
 1. Area-Based Development includes retrofit, redevelopment and greenfield.
 2. A city-level SPV implements the mission.
-Options: A. Only 1 B. Only 2 C. Both D. Neither
+
+A. Only 1
+
+B. Only 2
+
+C. Both
+
+D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -768,7 +1026,14 @@ Options: A. Only 1 B. Only 2 C. Both D. Neither
 ---
 
 **Q34.** Varanasi is best tagged as a:
-Options: A. Pure mining town B. Religious–educational–cultural city C. Only a seaport D. Census village
+
+A. Pure mining town
+
+B. Religious–educational–cultural city
+
+C. Only a seaport
+
+D. Census village
 
 <details>
 <summary>Show answer</summary>
@@ -779,7 +1044,14 @@ Options: A. Pure mining town B. Religious–educational–cultural city C. Only 
 ---
 
 **Q35.** Which pair is **not** correctly matched?
-Options: A. Administrative town — Lucknow B. Industrial — Kanpur C. Port town — Varanasi D. Tourist — Agra
+
+A. Administrative town — Lucknow
+
+B. Industrial — Kanpur
+
+C. Port town — Varanasi
+
+D. Tourist — Agra
 
 <details>
 <summary>Show answer</summary>
@@ -790,7 +1062,14 @@ Options: A. Administrative town — Lucknow B. Industrial — Kanpur C. Port tow
 ---
 
 **Q36.** National Urban Housing and Habitat Policy in the 2025 chronology is:
-Options: A. 2005 B. 2007 C. 2015 D. 2019
+
+A. 2005
+
+B. 2007
+
+C. 2015
+
+D. 2019
 
 <details>
 <summary>Show answer</summary>
@@ -801,7 +1080,14 @@ Options: A. 2005 B. 2007 C. 2015 D. 2019
 ---
 
 **Q37.** Sansad Adarsh Gram Yojana year:
-Options: A. 2005 B. 2014 C. 2016 D. 2019
+
+A. 2005
+
+B. 2014
+
+C. 2016
+
+D. 2019
 
 <details>
 <summary>Show answer</summary>
@@ -812,7 +1098,14 @@ Options: A. 2005 B. 2014 C. 2016 D. 2019
 ---
 
 **Q38.** Which is NOT a rural settlement type in the NCERT four?
-Options: A. Clustered B. Hamleted C. Dispersed D. Megacity
+
+A. Clustered
+
+B. Hamleted
+
+C. Dispersed
+
+D. Megacity
 
 <details>
 <summary>Show answer</summary>
@@ -824,7 +1117,14 @@ Options: A. Clustered B. Hamleted C. Dispersed D. Megacity
 
 **Q39.** Assertion (A): Ghaziabad is a million+ UA of western UP.
 Reason (R): Therefore it was among UP’s original 10 Central Smart Cities.
-Options: A. Both true, R explains A B. Both true, R not explanation C. A true R false D. A false R true
+
+A. Both true, R explains A
+
+B. Both true, R not explanation
+
+C. A true R false
+
+D. A false R true
 
 <details>
 <summary>Show answer</summary>
@@ -835,8 +1135,16 @@ Options: A. Both true, R explains A B. Both true, R not explanation C. A true R 
 ---
 
 **Q40.** Which of the following cities is/are in UP’s Central Smart City ten?
+
 1. Lucknow 2. Varanasi 3. Noida 4. Saharanpur
-Options: A. 1 and 2 only B. 1, 2 and 4 C. 1, 2, 3 and 4 D. 2 and 3 only
+
+A. 1 and 2 only
+
+B. 1, 2 and 4
+
+C. 1, 2, 3 and 4
+
+D. 2 and 3 only
 
 <details>
 <summary>Show answer</summary>
@@ -847,7 +1155,14 @@ Options: A. 1 and 2 only B. 1, 2 and 4 C. 1, 2, 3 and 4 D. 2 and 3 only
 ---
 
 **Q41.** ‘Metropolitan’ in Indian Census practice is closest to:
-Options: A. Any panchayat B. 10 lakh+ urban agglomeration C. Only the national capital D. Only census villages
+
+A. Any panchayat
+
+B. 10 lakh+ urban agglomeration
+
+C. Only the national capital
+
+D. Only census villages
 
 <details>
 <summary>Show answer</summary>
@@ -858,7 +1173,14 @@ Options: A. Any panchayat B. 10 lakh+ urban agglomeration C. Only the national c
 ---
 
 **Q42.** Which scheme is urban (MoHUA) rather than rurban (MoRD)?
-Options: A. SPMRM B. SAGY C. Smart Cities Mission D. DDU-GKY
+
+A. SPMRM
+
+B. SAGY
+
+C. Smart Cities Mission
+
+D. DDU-GKY
 
 <details>
 <summary>Show answer</summary>
@@ -869,9 +1191,17 @@ Options: A. SPMRM B. SAGY C. Smart Cities Mission D. DDU-GKY
 ---
 
 **Q43.** Consider the following about HRIDAY:
+
 1. It covered 12 cities nationally.
 2. Prayagraj and Ayodhya were in the original 12.
-Options: A. Only 1 B. Only 2 C. Both D. Neither
+
+A. Only 1
+
+B. Only 2
+
+C. Both
+
+D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -882,7 +1212,14 @@ Options: A. Only 1 B. Only 2 C. Both D. Neither
 ---
 
 **Q44.** Which of the following (Location factor — Meaning) is **not** correctly matched?
-Options: A. Upland site — flood-free ground B. Defence site — hill-top / fort village C. Linear form — along a route D. Dispersed form — always a municipal ward
+
+A. Upland site — flood-free ground
+
+B. Defence site — hill-top / fort village
+
+C. Linear form — along a route
+
+D. Dispersed form — always a municipal ward
 
 <details>
 <summary>Show answer</summary>
@@ -895,7 +1232,14 @@ Options: A. Upland site — flood-free ground B. Defence site — hill-top / for
 **Q45.** Match List-I with List-II.
 **List-I** A. JNNURM B. Smart Cities Mission C. SPMRM D. AMRUT 2.0
 **List-II** 1. 2016 2. 2005 3. 2021 4. 2015
-Options: A. 2 4 1 3 B. 4 2 1 3 C. 2 4 3 1 D. 2 1 4 3
+
+A. 2 4 1 3
+
+B. 4 2 1 3
+
+C. 2 4 3 1
+
+D. 2 1 4 3
 
 <details>
 <summary>Show answer</summary>
@@ -906,7 +1250,14 @@ Options: A. 2 4 1 3 B. 4 2 1 3 C. 2 4 3 1 D. 2 1 4 3
 ---
 
 **Q46.** In which environment does NCERT expect **dispersed** rural settlements?
-Options: A. Alluvial plains of Ganga B. Arid Rajasthan as a whole C. Lower Himalayan valleys only as clustered D. Forests and hills in the North-East
+
+A. Alluvial plains of Ganga
+
+B. Arid Rajasthan as a whole
+
+C. Lower Himalayan valleys only as clustered
+
+D. Forests and hills in the North-East
 
 <details>
 <summary>Show answer</summary>
@@ -917,7 +1268,14 @@ Options: A. Alluvial plains of Ganga B. Arid Rajasthan as a whole C. Lower Himal
 ---
 
 **Q47.** Which of the following (Name — Meaning) is **not** correctly matched?
-Options: A. Dhani — hamlet (Rajasthan) B. Nagla — hamlet (western UP / Ganga) C. Panna / para — hamleted units D. Dhani — a Class I town
+
+A. Dhani — hamlet (Rajasthan)
+
+B. Nagla — hamlet (western UP / Ganga)
+
+C. Panna / para — hamleted units
+
+D. Dhani — a Class I town
 
 <details>
 <summary>Show answer</summary>
@@ -929,7 +1287,14 @@ Options: A. Dhani — hamlet (Rajasthan) B. Nagla — hamlet (western UP / Ganga
 
 **Q48.** Assertion (A): Compact villages in Rajasthan are typical despite aridity.
 Reason (R): Scarcity of water forces clustering around wells / oases.
-Options: A. Both true, R explains A B. Both true, R not explanation C. A true R false D. A false R true
+
+A. Both true, R explains A
+
+B. Both true, R not explanation
+
+C. A true R false
+
+D. A false R true
 
 <details>
 <summary>Show answer</summary>
@@ -940,7 +1305,14 @@ Options: A. Both true, R explains A B. Both true, R not explanation C. A true R 
 ---
 
 **Q49.** Semi-clustered villages typically have:
-Options: A. Only isolated farmsteads B. Dominant community at the **centre**, lower strata on the **flanks** C. Only megacity wards D. No caste/land factor
+
+A. Only isolated farmsteads
+
+B. Dominant community at the **centre**, lower strata on the **flanks**
+
+C. Only megacity wards
+
+D. No caste/land factor
 
 <details>
 <summary>Show answer</summary>
@@ -951,7 +1323,14 @@ Options: A. Only isolated farmsteads B. Dominant community at the **centre**, lo
 ---
 
 **Q50.** Which town is **NOT** located on a river bank?
-Options: A. Agra B. Bhopal C. Patna D. Kolkata
+
+A. Agra
+
+B. Bhopal
+
+C. Patna
+
+D. Kolkata
 
 <details>
 <summary>Show answer</summary>
@@ -962,7 +1341,14 @@ Options: A. Agra B. Bhopal C. Patna D. Kolkata
 ---
 
 **Q51.** 2011 UA size order (1–4) is:
-Options: A. Greater Mumbai, Bengaluru, Kolkata, Chennai B. Delhi, Greater Mumbai, Chennai, Kolkata C. Greater Mumbai, Delhi, Kolkata, Chennai D. Greater Mumbai, Kolkata, Delhi, Chennai
+
+A. Greater Mumbai, Bengaluru, Kolkata, Chennai
+
+B. Delhi, Greater Mumbai, Chennai, Kolkata
+
+C. Greater Mumbai, Delhi, Kolkata, Chennai
+
+D. Greater Mumbai, Kolkata, Delhi, Chennai
 
 <details>
 <summary>Show answer</summary>
@@ -973,10 +1359,18 @@ Options: A. Greater Mumbai, Bengaluru, Kolkata, Chennai B. Delhi, Greater Mumbai
 ---
 
 **Q52.** Consider the following about Census 2011 urban India:
+
 1. Class I towns hold about **60%** of urban population.
 2. There were **53** million+ cities/UAs.
 3. NCERT lists **six** mega cities (> 5 million).
-Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -987,7 +1381,14 @@ Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 ---
 
 **Q53.** Smallest million+ city/UA in the NCERT 2011 set is:
-Options: A. Kota B. Shimla C. Dispur D. Panaji
+
+A. Kota
+
+B. Shimla
+
+C. Dispur
+
+D. Panaji
 
 <details>
 <summary>Show answer</summary>
@@ -998,7 +1399,14 @@ Options: A. Kota B. Shimla C. Dispur D. Panaji
 ---
 
 **Q54.** Which of the following is **not** an urban outgrowth (OG) example?
-Options: A. Railway colony B. University campus C. Military cantonment contiguous to a town D. A scattered Himalayan farmstead
+
+A. Railway colony
+
+B. University campus
+
+C. Military cantonment contiguous to a town
+
+D. A scattered Himalayan farmstead
 
 <details>
 <summary>Show answer</summary>
@@ -1011,7 +1419,14 @@ Options: A. Railway colony B. University campus C. Military cantonment contiguou
 **Q55.** Match List-I with List-II.
 **List-I** A. Saharanpur B. Digboi C. Ambala D. Chandigarh
 **List-II** 1. Administrative 2. Commercial 3. Mining 4. Garrison
-Options: A. 2 3 4 1 B. 3 2 4 1 C. 2 3 1 4 D. 1 3 4 2
+
+A. 2 3 4 1
+
+B. 3 2 4 1
+
+C. 2 3 1 4
+
+D. 1 3 4 2
 
 <details>
 <summary>Show answer</summary>
@@ -1022,7 +1437,14 @@ Options: A. 2 3 4 1 B. 3 2 4 1 C. 2 3 1 4 D. 1 3 4 2
 ---
 
 **Q56.** Which of the following (Town — Layer) is **not** correctly matched?
-Options: A. Varanasi — ancient B. Lucknow — medieval C. Surat — early European port foothold D. Chandigarh — ancient river town
+
+A. Varanasi — ancient
+
+B. Lucknow — medieval
+
+C. Surat — early European port foothold
+
+D. Chandigarh — ancient river town
 
 <details>
 <summary>Show answer</summary>
@@ -1033,8 +1455,16 @@ Options: A. Varanasi — ancient B. Lucknow — medieval C. Surat — early Euro
 ---
 
 **Q57.** Satellite towns of Delhi include:
+
 1. Ghaziabad 2. Gurugram 3. Rohtak 4. Jamshedpur
-Options: A. 1, 2 and 3 B. 1 and 4 only C. 2 and 4 only D. 1, 2, 3 and 4
+
+A. 1, 2 and 3
+
+B. 1 and 4 only
+
+C. 2 and 4 only
+
+D. 1, 2, 3 and 4
 
 <details>
 <summary>Show answer</summary>
@@ -1045,7 +1475,14 @@ Options: A. 1, 2 and 3 B. 1 and 4 only C. 2 and 4 only D. 1, 2, 3 and 4
 ---
 
 **Q58.** First UP city selected under Smart Cities Mission was:
-Options: A. Varanasi in Jan 2016 B. **Lucknow, May 2016** C. Ghaziabad 2015 D. Noida 2016
+
+A. Varanasi in Jan 2016
+
+B. **Lucknow, May 2016**
+
+C. Ghaziabad 2015
+
+D. Noida 2016
 
 <details>
 <summary>Show answer</summary>
@@ -1056,7 +1493,14 @@ Options: A. Varanasi in Jan 2016 B. **Lucknow, May 2016** C. Ghaziabad 2015 D. N
 ---
 
 **Q59.** Which statement about the census-town definition is **incorrect**?
-Options: A. Population ≥ 5,000 B. Density ≥ 400/km² C. ≥ 75% of population in the **primary** sector D. ≥ 75% of male main workers in non-agriculture
+
+A. Population ≥ 5,000
+
+B. Density ≥ 400/km²
+
+C. ≥ 75% of population in the **primary** sector
+
+D. ≥ 75% of male main workers in non-agriculture
 
 <details>
 <summary>Show answer</summary>
@@ -1067,7 +1511,14 @@ Options: A. Population ≥ 5,000 B. Density ≥ 400/km² C. ≥ 75% of populatio
 ---
 
 **Q60.** Compact villages for **defence** are NCERT-typical of:
-Options: A. Kerala backwaters only B. **Bundelkhand and Nagaland** C. Only Mumbai UA D. Only megacities
+
+A. Kerala backwaters only
+
+B. **Bundelkhand and Nagaland**
+
+C. Only Mumbai UA
+
+D. Only megacities
 
 <details>
 <summary>Show answer</summary>
@@ -1085,12 +1536,21 @@ Options: A. Kerala backwaters only B. **Bundelkhand and Nagaland** C. Only Mumba
 
 **Q1. UPPCS Prelims 2025, Q72**
 Consider the following and arrange them in the correct chronological order:
+
 1. Atal Mission for Rejuvenation and Urban Transformation (AMRUT)
 2. Jawaharlal Nehru National Urban Renewal Mission (JNNURM)
 3. Jal Jeevan Mission
 4. National Urban Housing and Habitat Policy
+
 Select the correct answer from the code given below:
-Options: A. 2, 4, 1, 3 B. 4, 2, 1, 3 C. 2, 4, 3, 1 D. 4, 2, 3, 1
+
+A. 2, 4, 1, 3
+
+B. 4, 2, 1, 3
+
+C. 2, 4, 3, 1
+
+D. 4, 2, 3, 1
 
 <details>
 <summary>Show answer</summary>
@@ -1102,7 +1562,14 @@ Options: A. 2, 4, 1, 3 B. 4, 2, 1, 3 C. 2, 4, 3, 1 D. 4, 2, 3, 1
 
 **Q2. UPPCS Prelims 2023, Q143**
 Which of the following (Scheme — Year) is not correctly matched?
-Options: A. Deen Dayal Upadhyaya Gramin Kaushalya Yojana — 2014 B. Rural Housing Interest Subsidy Scheme — 2017 C. Shyama Prasad Mukherji Rurban Mission — 2015 D. Sansad Adarsh Gram Yojana — 2014
+
+A. Deen Dayal Upadhyaya Gramin Kaushalya Yojana — 2014
+
+B. Rural Housing Interest Subsidy Scheme — 2017
+
+C. Shyama Prasad Mukherji Rurban Mission — 2015
+
+D. Sansad Adarsh Gram Yojana — 2014
 
 <details>
 <summary>Show answer</summary>
@@ -1116,7 +1583,14 @@ Options: A. Deen Dayal Upadhyaya Gramin Kaushalya Yojana — 2014 B. Rural Housi
 With reference to the India Smart City Awards Contest–2020 (awards presented in April 2022), match List-I with List-II and select the correct answer.
 **List-I (Category)** A. Culture B. Governance C. Social Aspects D. Urban Environment
 **List-II (Winner City)** 1. Vadodara 2. Indore 3. Bhopal 4. Tirupati
-Options: A. 2, 1, 3, 4 B. 2, 1, 4, 3 C. 1, 2, 4, 3 D. 1, 2, 3, 4
+
+A. 2, 1, 3, 4
+
+B. 2, 1, 4, 3
+
+C. 1, 2, 4, 3
+
+D. 1, 2, 3, 4
 
 <details>
 <summary>Show answer</summary>
@@ -1128,7 +1602,14 @@ Options: A. 2, 1, 3, 4 B. 2, 1, 4, 3 C. 1, 2, 4, 3 D. 1, 2, 3, 4
 
 **Q4. UPPCS Prelims 2022, Q120**
 The idea of 'Rurbanization' was elaborated by which one of the following sociologists?
-Options: A. M. N. Srinivas B. Yogendra Singh C. G. S. Ghurye D. H. Spencer
+
+A. M. N. Srinivas
+
+B. Yogendra Singh
+
+C. G. S. Ghurye
+
+D. H. Spencer
 
 <details>
 <summary>Show answer</summary>
@@ -1140,7 +1621,14 @@ Options: A. M. N. Srinivas B. Yogendra Singh C. G. S. Ghurye D. H. Spencer
 
 **Q5. UPPCS Prelims 2020, Q11**
 No. of cities in U.P. which are covered under the 'Smart City' Scheme
-Options: A. 10 B. 12 C. 15 D. 18
+
+A. 10
+
+B. 12
+
+C. 15
+
+D. 18
 
 <details>
 <summary>Show answer</summary>
@@ -1152,9 +1640,18 @@ Options: A. 10 B. 12 C. 15 D. 18
 
 **Q6. UPPCS Prelims 2020, Q115**
 Which of the following cities of Uttar Pradesh is/are covered under the 'Heritage City Development and Augmentation Yojana (HRIDAY)'?
+
 1. Varanasi 2. Mathura 3. Prayagraj 4. Ayodhya
+
 Select the correct answer from the codes given below.
-Options: A. 1 only B. 3 only C. 1 and 2 D. 1, 2, 3 and 4
+
+A. 1 only
+
+B. 3 only
+
+C. 1 and 2
+
+D. 1, 2, 3 and 4
 
 <details>
 <summary>Show answer</summary>
@@ -1166,7 +1663,14 @@ Options: A. 1 only B. 3 only C. 1 and 2 D. 1, 2, 3 and 4
 
 **Q7. UPPCS Prelims 2018, Q41**
 Which of the following cities in Uttar Pradesh has NOT been selected for development under the Smart City Development Programme of the Central Government?
-Options: A. Lucknow B. Allahabad C. Ghaziabad D. Kanpur
+
+A. Lucknow
+
+B. Allahabad
+
+C. Ghaziabad
+
+D. Kanpur
 
 <details>
 <summary>Show answer</summary>
@@ -1178,7 +1682,14 @@ Options: A. Lucknow B. Allahabad C. Ghaziabad D. Kanpur
 
 **Q8. UPPCS Prelims 2018, Q103**
 The development of the concept of 'Global Village' is based on
-Options: A. Social development B. Political development C. Transport and Communication Development D. International organisations
+
+A. Social development
+
+B. Political development
+
+C. Transport and Communication Development
+
+D. International organisations
 
 <details>
 <summary>Show answer</summary>
@@ -1190,7 +1701,14 @@ Options: A. Social development B. Political development C. Transport and Communi
 
 **Q9. NCERT Class 12 (India: People and Economy, Ch. Human Settlements) — pattern**
 Which one of the following towns is NOT located on a river bank?
-Options: A. Agra B. Bhopal C. Patna D. Kolkata
+
+A. Agra
+
+B. Bhopal
+
+C. Patna
+
+D. Kolkata
 
 <details>
 <summary>Show answer</summary>
@@ -1202,7 +1720,14 @@ Options: A. Agra B. Bhopal C. Patna D. Kolkata
 
 **Q10. NCERT Class 12 — pattern**
 Which one of the following is NOT part of the definition of a town as per the Census of India?
-Options: A. Population density of 400 persons per sq km B. Presence of municipality, corporation, etc. C. More than 75% of the population engaged in primary sector D. Population size of more than 5,000 persons
+
+A. Population density of 400 persons per sq km
+
+B. Presence of municipality, corporation, etc.
+
+C. More than 75% of the population engaged in primary sector
+
+D. Population size of more than 5,000 persons
 
 <details>
 <summary>Show answer</summary>
@@ -1214,7 +1739,14 @@ Options: A. Population density of 400 persons per sq km B. Presence of municipal
 
 **Q11. NCERT Class 12 — pattern**
 In which one of the following environments does one expect the presence of dispersed rural settlements?
-Options: A. Alluvial plains of Ganga B. Arid and semi-arid regions of Rajasthan C. Lower valleys of Himalayas D. Forests and hills in north-east
+
+A. Alluvial plains of Ganga
+
+B. Arid and semi-arid regions of Rajasthan
+
+C. Lower valleys of Himalayas
+
+D. Forests and hills in north-east
 
 <details>
 <summary>Show answer</summary>
@@ -1226,7 +1758,14 @@ Options: A. Alluvial plains of Ganga B. Arid and semi-arid regions of Rajasthan 
 
 **Q12. NCERT Class 12 — pattern (use Census 2011 ranks in the hall)**
 Which group of cities is arranged 1, 2, 3, 4 in size as per **Census 2011**?
-Options: A. Greater Mumbai, Bengaluru, Kolkata, Chennai B. Delhi, Greater Mumbai, Chennai, Kolkata C. Greater Mumbai, Delhi, Kolkata, Chennai D. Greater Mumbai, Kolkata, Delhi, Chennai
+
+A. Greater Mumbai, Bengaluru, Kolkata, Chennai
+
+B. Delhi, Greater Mumbai, Chennai, Kolkata
+
+C. Greater Mumbai, Delhi, Kolkata, Chennai
+
+D. Greater Mumbai, Kolkata, Delhi, Chennai
 
 <details>
 <summary>Show answer</summary>

@@ -229,229 +229,457 @@ Chauth and Maratha horse in the **Doab / Bundelkhand / Rohilkhand**. Panipat its
 
 **Q1.** Maratha protection revenue is called:
 
-Options: A. Sardeshmukhi | B. Chauth | C. Abwab | D. Jamadani
+A. Sardeshmukhi |
+
+B. Chauth |
+
+C. Abwab |
+
+D. Jamadani
 
 <details><summary>Show answer</summary>**Ans: B** — 2018 Q93.</details>
 
 **Q2.** Peshwas (2025): 1.Bajirao I 2.Balaji Bajirao 3.Balaji Vishwanath 4.Madhav Rao I
 
-Options: A. 1-3-2-4 | B. 3-1-4-2 | C. 3-1-2-4 | D. 1-3-4-2
+A. 1-3-2-4 |
+
+B. 3-1-4-2 |
+
+C. 3-1-2-4 |
+
+D. 1-3-4-2
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q3.** Peshwas (2023): I Vishwanath II Bajirao I III Narayan Rao IV Madhav Rao I
 
-Options: A. I-III-II-IV | B. I-II-III-IV | C. II-I-IV-III | D. I-II-IV-III
+A. I-III-II-IV |
+
+B. I-II-III-IV |
+
+C. II-I-IV-III |
+
+D. I-II-IV-III
 
 <details><summary>Show answer</summary>**Ans: D**</details>
 
 **Q4.** Peshwas (2024): 1.Raghoba 2.Balaji Baji Rao 3.Narayan Rao 4.Balaji Vishwanath
 
-Options: A. 4-2-3-1 | B. 3-4-1-2 | C. 1-2-3-4 | D. 1-3-2-4
+A. 4-2-3-1 |
+
+B. 3-4-1-2 |
+
+C. 1-2-3-4 |
+
+D. 1-3-2-4
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q5.** A: Shivaji faced big Deshmukhs. R: They wanted to remain Bijapur feudal lords.
 
-Options: A. Both true, R explains A | B. A false R true | C. Both true, R does not explain | D. A true R false
+A. Both true, R explains A |
+
+B. A false R true |
+
+C. Both true, R does not explain |
+
+D. A true R false
 
 <details><summary>Show answer</summary>**Ans: A** — 2024 Q18.</details>
 
 **Q6.** Chauth is:
 
-Options: A. 10% extra chief claim | B. 25% protection levy | C. Mughal jizya | D. Sikh initiation
+A. 10% extra chief claim |
+
+B. 25% protection levy |
+
+C. Mughal jizya |
+
+D. Sikh initiation
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q7.** Sardeshmukhi is:
 
-Options: A. 25% protection | B. Extra 10% deshmukh claim | C. Ashtapradhan foreign minister | D. Panipat commander
+A. 25% protection |
+
+B. Extra 10% deshmukh claim |
+
+C. Ashtapradhan foreign minister |
+
+D. Panipat commander
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q8.** Shivaji’s coronation:
 
-Options: A. Pune 1713 | B. Raigad 1674 | C. Panipat 1761 | D. Agra 1666
+A. Pune 1713 |
+
+B. Raigad 1674 |
+
+C. Panipat 1761 |
+
+D. Agra 1666
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q9.** Ashtapradhan foreign minister:
 
-Options: A. Amatya | B. Sumant | C. Nyayadish | D. Pandit Rao
+A. Amatya |
+
+B. Sumant |
+
+C. Nyayadish |
+
+D. Pandit Rao
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q10.** Amatya handled:
 
-Options: A. Army | B. Finance | C. Religion | D. Navy only
+A. Army |
+
+B. Finance |
+
+C. Religion |
+
+D. Navy only
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q11.** First hereditary Peshwa:
 
-Options: A. Bajirao I | B. Balaji Vishwanath | C. Madhav Rao I | D. Nana Fadnavis
+A. Bajirao I |
+
+B. Balaji Vishwanath |
+
+C. Madhav Rao I |
+
+D. Nana Fadnavis
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q12.** Panipat III year and winner:
 
-Options: A. 1556 Akbar | B. 1526 Babur | C. 1761 Abdali | D. 1761 Marathas
+A. 1556 Akbar |
+
+B. 1526 Babur |
+
+C. 1761 Abdali |
+
+D. 1761 Marathas
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q13.** Maratha commander at Panipat III:
 
-Options: A. Bajirao I | B. Sadashiv Rao Bhau | C. Shivaji | D. Sambhaji
+A. Bajirao I |
+
+B. Sadashiv Rao Bhau |
+
+C. Shivaji |
+
+D. Sambhaji
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q14.** 1. Peshwa was supreme in Shivaji’s lifetime 2. Peshwa was one of eight ministers then
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q15.** Treaty of Purandar (1665) was with:
 
-Options: A. Afzal Khan | B. Raja Jai Singh I | C. Ahmad Shah Abdali | D. Nizam of Hyderabad
+A. Afzal Khan |
+
+B. Raja Jai Singh I |
+
+C. Ahmad Shah Abdali |
+
+D. Nizam of Hyderabad
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q16.** Afzal Khan episode:
 
-Options: A. Panipat 1761 | B. Pratapgad 1659 | C. Lanavada 1718 | D. Palkhed 1728
+A. Panipat 1761 |
+
+B. Pratapgad 1659 |
+
+C. Lanavada 1718 |
+
+D. Palkhed 1728
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q17.** Scindia seat:
 
-Options: A. Pune | B. Gwalior | C. Indore | D. Baroda
+A. Pune |
+
+B. Gwalior |
+
+C. Indore |
+
+D. Baroda
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q18.** Holkar seat:
 
-Options: A. Nagpur | B. Indore | C. Gwalior | D. Raigad
+A. Nagpur |
+
+B. Indore |
+
+C. Gwalior |
+
+D. Raigad
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q19.** 1. Madhav Rao I ruled after Panipat III 2. Narayan Rao ruled before Madhav Rao I
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q20.** Bajirao I’s years:
 
-Options: A. 1713–20 | B. 1720–40 | C. 1740–61 | D. 1761–72
+A. 1713–20 |
+
+B. 1720–40 |
+
+C. 1740–61 |
+
+D. 1761–72
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q21.** Palkhed 1728 was:
 
-Options: A. Shivaji vs Bijapur | B. Bajirao I vs Nizam | C. Bhau vs Abdali | D. Raghoba vs British
+A. Shivaji vs Bijapur |
+
+B. Bajirao I vs Nizam |
+
+C. Bhau vs Abdali |
+
+D. Raghoba vs British
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q22.** Shivaji was born at:
 
-Options: A. Raigad | B. Shivneri | C. Pune | D. Panipat
+A. Raigad |
+
+B. Shivneri |
+
+C. Pune |
+
+D. Panipat
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q23.** NOT matched:
 
-Options: A. Senapati – army | B. Nyayadish – justice | C. Sachiv – finance | D. Pandit Rao – religion
+A. Senapati – army |
+
+B. Nyayadish – justice |
+
+C. Sachiv – finance |
+
+D. Pandit Rao – religion
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q24.** Lanavada 1718 is linked with:
 
-Options: A. Shivaji–Jai Singh | B. Balaji Vishwanath / Shahu–Mughals | C. Panipat III | D. Afzal Khan
+A. Shivaji–Jai Singh |
+
+B. Balaji Vishwanath / Shahu–Mughals |
+
+C. Panipat III |
+
+D. Afzal Khan
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q25.** 1. Chauth is protection quarter 2. Sardeshmukhi is the same 25%
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q26.** Last Peshwa:
 
-Options: A. Balaji Vishwanath | B. Bajirao I | C. Baji Rao II | D. Narayan Rao
+A. Balaji Vishwanath |
+
+B. Bajirao I |
+
+C. Baji Rao II |
+
+D. Narayan Rao
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q27.** Nadir Shah 1739 is the same event as Panipat III.
 
-Options: A. True | B. False | C. Only in Punjab | D. Only in the Doab
+A. True |
+
+B. False |
+
+C. Only in Punjab |
+
+D. Only in the Doab
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q28.** Gaekwad seat:
 
-Options: A. Baroda | B. Nagpur | C. Gwalior | D. Indore
+A. Baroda |
+
+B. Nagpur |
+
+C. Gwalior |
+
+D. Indore
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q29.** Shahu’s release is tied to:
 
-Options: A. 1659 Pratapgad | B. 1707 after Aurangzeb | C. 1761 Panipat | D. 1674 coronation
+A. 1659 Pratapgad |
+
+B. 1707 after Aurangzeb |
+
+C. 1761 Panipat |
+
+D. 1674 coronation
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q30.** 23 forts surrendered at:
 
-Options: A. Panipat | B. Purandar | C. Raigad coronation | D. Palkhed
+A. Panipat |
+
+B. Purandar |
+
+C. Raigad coronation |
+
+D. Palkhed
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q31.** Balaji Bajirao is also called:
 
-Options: A. Rau | B. Nana Saheb (Peshwa) | C. Bhau | D. Raghoba
+A. Rau |
+
+B. Nana Saheb (Peshwa) |
+
+C. Bhau |
+
+D. Raghoba
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q32.** 1. Ashtapradhan has eight ministers 2. Deshmukhs were those eight ministers
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q33.** Vishwas Rao died at:
 
-Options: A. Pratapgad 1659 | B. Panipat 1761 | C. Agra 1666 | D. Palkhed 1728
+A. Pratapgad 1659 |
+
+B. Panipat 1761 |
+
+C. Agra 1666 |
+
+D. Palkhed 1728
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q34.** Correct pair:
 
-Options: A. Khalsa 1699 – Maratha levy | B. Chauth – 25% protection | C. Sardeshmukhi – 25% | D. Chauth – textile
+A. Khalsa 1699 – Maratha levy |
+
+B. Chauth – 25% protection |
+
+C. Sardeshmukhi – 25% |
+
+D. Chauth – textile
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q35.** Shivaji’s navy forts include:
 
-Options: A. Akal Takht | B. Sindhudurg | C. Purana Qila | D. Gwalior
+A. Akal Takht |
+
+B. Sindhudurg |
+
+C. Purana Qila |
+
+D. Gwalior
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q36.** 1. Bajirao I died before Panipat III 2. Bhau commanded in 1761
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q37.** Bhonsle confederacy seat:
 
-Options: A. Pune | B. Nagpur | C. Indore | D. Baroda
+A. Pune |
+
+B. Nagpur |
+
+C. Indore |
+
+D. Baroda
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q38.** 2018 trap: Sardeshmukhi is the Maratha protection-quarter name.
 
-Options: A. True | B. False | C. Only in the Konkan | D. Only after 1761
+A. True |
+
+B. False |
+
+C. Only in the Konkan |
+
+D. Only after 1761
 
 <details><summary>Show answer</summary>**Ans: B** — that name is Chauth.</details>
 
@@ -463,7 +691,13 @@ Options: A. True | B. False | C. Only in the Konkan | D. Only after 1761
 
 The Maratha claim of revenue for protection is known by what name?
 
-Options: A. Sardesh Mukhi | B. Chauth | C. Abwab | D. Jamadani
+A. Sardesh Mukhi |
+
+B. Chauth |
+
+C. Abwab |
+
+D. Jamadani
 
 <details><summary>Show answer</summary>**Ans: B** — Chauth = ¼ protection levy. Sardeshmukhi is the extra 10%.</details>
 
@@ -471,7 +705,13 @@ Options: A. Sardesh Mukhi | B. Chauth | C. Abwab | D. Jamadani
 
 Arrange: (I) Balaji Vishwanath (II) Bajirao I (III) Narayan Rao (IV) Madhav Rao I
 
-Options: A. I, III, II, IV | B. I, II, III, IV | C. II, I, IV, III | D. I, II, IV, III
+A. I, III, II, IV |
+
+B. I, II, III, IV |
+
+C. II, I, IV, III |
+
+D. I, II, IV, III
 
 <details><summary>Show answer</summary>**Ans: D** — Vishwanath → Bajirao I → Madhav Rao I → Narayan Rao.</details>
 
@@ -479,7 +719,13 @@ Options: A. I, III, II, IV | B. I, II, III, IV | C. II, I, IV, III | D. I, II, I
 
 Arrange: 1. Raghunath Rao (Raghoba) 2. Balaji Baji Rao 3. Narayan Rao 4. Balaji Vishwanath
 
-Options: A. 4, 2, 3, 1 | B. 3, 4, 1, 2 | C. 1, 2, 3, 4 | D. 1, 3, 2, 4
+A. 4, 2, 3, 1 |
+
+B. 3, 4, 1, 2 |
+
+C. 1, 2, 3, 4 |
+
+D. 1, 3, 2, 4
 
 <details><summary>Show answer</summary>**Ans: A** — Vishwanath → Balaji Baji Rao → Narayan Rao → Raghoba.</details>
 
@@ -488,7 +734,13 @@ Options: A. 4, 2, 3, 1 | B. 3, 4, 1, 2 | C. 1, 2, 3, 4 | D. 1, 3, 2, 4
 Assertion (A): Shivaji had to face opposition from the big Deshmukhs.  
 Reason (R): These Deshmukhs were not in favour of an independent Maratha State and wanted to remain as feudal lords of Bijapur.
 
-Options: A. Both true, R explains A | B. A false, R true | C. Both true, R does not explain | D. A true, R false
+A. Both true, R explains A |
+
+B. A false, R true |
+
+C. Both true, R does not explain |
+
+D. A true, R false
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
@@ -496,7 +748,13 @@ Options: A. Both true, R explains A | B. A false, R true | C. Both true, R does 
 
 Arrange: 1. Bajirao I 2. Balaji Bajirao 3. Balaji Vishwanath 4. Madhav Rao I
 
-Options: A. 1, 3, 2, 4 | B. 3, 1, 4, 2 | C. 3, 1, 2, 4 | D. 1, 3, 4, 2
+A. 1, 3, 2, 4 |
+
+B. 3, 1, 4, 2 |
+
+C. 3, 1, 2, 4 |
+
+D. 1, 3, 4, 2
 
 <details><summary>Show answer</summary>**Ans: C** — Vishwanath → Bajirao I → Balaji Bajirao → Madhav Rao I.</details>
 

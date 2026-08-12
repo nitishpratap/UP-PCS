@@ -225,229 +225,457 @@ Awadh is the **UP** Nawabi state. Fitch’s Banaras visit and Shuja’s Banaras-
 
 **Q1.** Travellers: I Hawkins II Fitch III Roe IV Downton
 
-Options: A. II-I-IV-III | B. IV-II-I-III | C. I-III-II-IV | D. III-II-IV-I
+A. II-I-IV-III |
+
+B. IV-II-I-III |
+
+C. I-III-II-IV |
+
+D. III-II-IV-I
 
 <details><summary>Show answer</summary>**Ans: A** — 2021 Q75.</details>
 
 **Q2.** Hawkins: 1. Came 1611 as James I envoy 2. Well versed in Turkish
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: B** — 2023 Q31; arrival is 1608.</details>
 
 **Q3.** Aix-la-Chapelle 1748: 1. First Carnatic War ended 2. Madras returned to the English
 
-Options: A. Only 2 | B. Neither | C. Both | D. Only 1
+A. Only 2 |
+
+B. Neither |
+
+C. Both |
+
+D. Only 1
 
 <details><summary>Show answer</summary>**Ans: C** — 2025 Q67 / 2020 Q18.</details>
 
 **Q4.** Awadh 1, Ilbert 2, Indigo 3, 2nd Afghan 4
 
-Options: A. 1-3-4-2 | B. 3-1-2-4 | C. 3-1-4-2 | D. 1-3-2-4
+A. 1-3-4-2 |
+
+B. 3-1-2-4 |
+
+C. 3-1-4-2 |
+
+D. 1-3-2-4
 
 <details><summary>Show answer</summary>**Ans: A** — 2025 Q127.</details>
 
 **Q5.** Wars: 1.First Anglo-Mysore 2.Second Anglo-French 3.First Anglo-Sikh 4.First Anglo-Afghan
 
-Options: A. 2-1-4-3 | B. 1-2-3-4 | C. 1-2-4-3 | D. 2-1-3-4
+A. 2-1-4-3 |
+
+B. 1-2-3-4 |
+
+C. 1-2-4-3 |
+
+D. 2-1-3-4
 
 <details><summary>Show answer</summary>**Ans: A** — 2025 Q26.</details>
 
 **Q6.** Goa 1510 was taken by:
 
-Options: A. Vasco da Gama | B. Albuquerque | C. Dupleix | D. Hawkins
+A. Vasco da Gama |
+
+B. Albuquerque |
+
+C. Dupleix |
+
+D. Hawkins
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q7.** First lasting English factory:
 
-Options: A. Madras 1498 | B. Surat 1612 | C. Calcutta 1600 | D. Pondicherry 1674
+A. Madras 1498 |
+
+B. Surat 1612 |
+
+C. Calcutta 1600 |
+
+D. Pondicherry 1674
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q8.** Tranquebar is:
 
-Options: A. Portuguese | B. Dutch | C. French | D. Danish
+A. Portuguese |
+
+B. Dutch |
+
+C. French |
+
+D. Danish
 
 <details><summary>Show answer</summary>**Ans: D**</details>
 
 **Q9.** Pondicherry is:
 
-Options: A. Dutch | B. French | C. Danish | D. Portuguese
+A. Dutch |
+
+B. French |
+
+C. Danish |
+
+D. Portuguese
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q10.** Awadh Nawabi founder:
 
-Options: A. Murshid Quli Khan | B. Saadat Khan | C. Wajid Ali Shah | D. Dupleix
+A. Murshid Quli Khan |
+
+B. Saadat Khan |
+
+C. Wajid Ali Shah |
+
+D. Dupleix
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q11.** Cartaze is:
 
-Options: A. Mughal farman | B. Portuguese sea-pass | C. Dutch spice tax | D. Awadh land grant
+A. Mughal farman |
+
+B. Portuguese sea-pass |
+
+C. Dutch spice tax |
+
+D. Awadh land grant
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q12.** EIC charter year:
 
-Options: A. 1498 | B. 1600 | C. 1602 | D. 1664
+A. 1498 |
+
+B. 1600 |
+
+C. 1602 |
+
+D. 1664
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q13.** VOC charter year:
 
-Options: A. 1600 | B. 1602 | C. 1616 | D. 1664
+A. 1600 |
+
+B. 1602 |
+
+C. 1616 |
+
+D. 1664
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q14.** Bernier was:
 
-Options: A. English ambassador of 1608 | B. French physician at Aurangzeb’s court | C. Danish governor of Tranquebar | D. Founder of Awadh
+A. English ambassador of 1608 |
+
+B. French physician at Aurangzeb’s court |
+
+C. Danish governor of Tranquebar |
+
+D. Founder of Awadh
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q15.** Hooghly expulsion 1632:
 
-Options: A. Akbar vs Dutch | B. Shah Jahan vs Portuguese | C. Jahangir vs French | D. Aurangzeb vs Danes
+A. Akbar vs Dutch |
+
+B. Shah Jahan vs Portuguese |
+
+C. Jahangir vs French |
+
+D. Aurangzeb vs Danes
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q16.** Fort St George is at:
 
-Options: A. Surat | B. Madras | C. Bombay | D. Calcutta
+A. Surat |
+
+B. Madras |
+
+C. Bombay |
+
+D. Calcutta
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q17.** Bombay leased to EIC in:
 
-Options: A. 1608 | B. 1612 | C. 1668 | D. 1748
+A. 1608 |
+
+B. 1612 |
+
+C. 1668 |
+
+D. 1748
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q18.** 1. Hawkins came 1608 2. Roe came 1615–19
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q19.** Bara Imambara is linked with:
 
-Options: A. Saadat Khan | B. Asaf-ud-Daula | C. Albuquerque | D. Clive
+A. Saadat Khan |
+
+B. Asaf-ud-Daula |
+
+C. Albuquerque |
+
+D. Clive
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q20.** Last Nawab of Awadh:
 
-Options: A. Safdar Jung | B. Shuja-ud-Daula | C. Wajid Ali Shah | D. Saadat Khan
+A. Safdar Jung |
+
+B. Shuja-ud-Daula |
+
+C. Wajid Ali Shah |
+
+D. Saadat Khan
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q21.** Aix-la-Chapelle is the same treaty as Paris 1763.
 
-Options: A. True | B. False | C. Only for Bengal | D. Only for Goa
+A. True |
+
+B. False |
+
+C. Only for Bengal |
+
+D. Only for Goa
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q22.** Pulicat was the HQ of:
 
-Options: A. Portuguese | B. Dutch | C. French | D. Danish
+A. Portuguese |
+
+B. Dutch |
+
+C. French |
+
+D. Danish
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q23.** Chandernagore was:
 
-Options: A. Danish | B. French Bengal | C. English Surat | D. Awadh capital
+A. Danish |
+
+B. French Bengal |
+
+C. English Surat |
+
+D. Awadh capital
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q24.** 1. EIC ruled India from 1600 2. 1600 is a trade charter
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q25.** Shuja-ud-Daula at Panipat III:
 
-Options: A. Fought for Marathas | B. Allied with Abdali | C. Commanded French guns | D. Founded Goa
+A. Fought for Marathas |
+
+B. Allied with Abdali |
+
+C. Commanded French guns |
+
+D. Founded Goa
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q26.** French company founded:
 
-Options: A. 1498 | B. 1600 | C. 1602 | D. 1664
+A. 1498 |
+
+B. 1600 |
+
+C. 1602 |
+
+D. 1664
 
 <details><summary>Show answer</summary>**Ans: D**</details>
 
 **Q27.** NOT matched:
 
-Options: A. Fitch – 1585 | B. Hawkins – 1608 | C. Roe – 1608 | D. Downton – 1614
+A. Fitch – 1585 |
+
+B. Hawkins – 1608 |
+
+C. Roe – 1608 |
+
+D. Downton – 1614
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q28.** Awadh annexed in:
 
-Options: A. 1722 | B. 1765 | C. 1856 | D. 1748
+A. 1722 |
+
+B. 1765 |
+
+C. 1856 |
+
+D. 1748
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q29.** Calicut 1498 visitor:
 
-Options: A. Albuquerque | B. Vasco da Gama | C. Thomas Roe | D. Dupleix
+A. Albuquerque |
+
+B. Vasco da Gama |
+
+C. Thomas Roe |
+
+D. Dupleix
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q30.** Serampore was originally:
 
-Options: A. French | B. Danish | C. Awadh | D. Mughal capital
+A. French |
+
+B. Danish |
+
+C. Awadh |
+
+D. Mughal capital
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q31.** 1. Pondicherry is French 2. Tranquebar is French
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q32.** Hawkins’s court was:
 
-Options: A. Akbar | B. Jahangir | C. Aurangzeb | D. Saadat Khan
+A. Akbar |
+
+B. Jahangir |
+
+C. Aurangzeb |
+
+D. Saadat Khan
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q33.** Treaty of Allahabad 1765 mainly squeezed:
 
-Options: A. Portuguese Goa | B. Awadh after Buxar | C. Danish Tranquebar | D. VOC Pulicat
+A. Portuguese Goa |
+
+B. Awadh after Buxar |
+
+C. Danish Tranquebar |
+
+D. VOC Pulicat
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q34.** Dupleix was:
 
-Options: A. English victor of Plassey | B. French Carnatic governor | C. First Awadh Nawab | D. Dutch Pulicat admiral
+A. English victor of Plassey |
+
+B. French Carnatic governor |
+
+C. First Awadh Nawab |
+
+D. Dutch Pulicat admiral
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q35.** 1. Indigo Revolt is before Awadh annexation 2. Awadh annexation is 1856
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: B** — Indigo is 1859, after 1856.</details>
 
 **Q36.** Factory in this topic means:
 
-Options: A. Modern mill | B. Trading post | C. Mughal mint | D. Awadh imambara
+A. Modern mill |
+
+B. Trading post |
+
+C. Mughal mint |
+
+D. Awadh imambara
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q37.** Correct pair:
 
-Options: A. VOC – 1600 | B. EIC – 1602 | C. French – 1664 | D. Danish – 1498
+A. VOC – 1600 |
+
+B. EIC – 1602 |
+
+C. French – 1664 |
+
+D. Danish – 1498
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q38.** 2023 trap: Hawkins came to India in 1611.
 
-Options: A. True | B. False | C. True only as ambassador Roe | D. True only for Fitch
+A. True |
+
+B. False |
+
+C. True only as ambassador Roe |
+
+D. True only for Fitch
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
@@ -459,7 +687,13 @@ Options: A. True | B. False | C. True only as ambassador Roe | D. True only for 
 
 Arrange foreign travellers by arrival: I. William Hawkins II. Ralph Fitch III. Sir Thomas Roe IV. Nicholas Dawnton
 
-Options: A. II, I, IV and III | B. IV, II, I and III | C. I, III, II and IV | D. III, II, IV and I
+A. II, I, IV and III |
+
+B. IV, II, I and III |
+
+C. I, III, II and IV |
+
+D. III, II, IV and I
 
 <details><summary>Show answer</summary>**Ans: A** — Fitch 1585 → Hawkins 1608 → Downton 1614 → Roe 1615.</details>
 
@@ -467,7 +701,13 @@ Options: A. II, I, IV and III | B. IV, II, I and III | C. I, III, II and IV | D.
 
 Captain Hawkins: 1. Came to India in 1611 as envoy of James I. 2. Very well versed in Turkish.
 
-Options: A. Only 1 | B. Only 2 | C. Both 1 and 2 | D. Neither 1 nor 2
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both 1 and 2 |
+
+D. Neither 1 nor 2
 
 <details><summary>Show answer</summary>**Ans: B** — Turkish is true. Arrival is **1608**, not 1611.</details>
 
@@ -475,7 +715,13 @@ Options: A. Only 1 | B. Only 2 | C. Both 1 and 2 | D. Neither 1 nor 2
 
 Treaty of Aix-la-Chapelle (1748): 1. First Carnatic War ended. 2. Madras was returned to the English.
 
-Options: A. 1 only | B. 2 only | C. Both 1 and 2 | D. Neither 1 nor 2
+A. 1 only |
+
+B. 2 only |
+
+C. Both 1 and 2 |
+
+D. Neither 1 nor 2
 
 <details><summary>Show answer</summary>**Ans: C** — same pair as 2025 Q67. (2020 paper text is truncated in `pyq/`; statements match the repeated 1748 lock.)</details>
 
@@ -483,7 +729,13 @@ Options: A. 1 only | B. 2 only | C. Both 1 and 2 | D. Neither 1 nor 2
 
 Treaty of Aix-la-Chapelle (1748): 1. The First Carnatic War ended. 2. Madras was returned to the English.
 
-Options: A. Only 2 | B. Neither 1 nor 2 | C. Both 1 and 2 | D. Only 1
+A. Only 2 |
+
+B. Neither 1 nor 2 |
+
+C. Both 1 and 2 |
+
+D. Only 1
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
@@ -491,7 +743,13 @@ Options: A. Only 2 | B. Neither 1 nor 2 | C. Both 1 and 2 | D. Only 1
 
 Arrange: 1. First Anglo-Mysore War 2. Second Anglo-French War 3. First Anglo-Sikh War 4. First Anglo-Afghan War
 
-Options: A. 2, 1, 4, 3 | B. 1, 2, 3, 4 | C. 1, 2, 4, 3 | D. 2, 1, 3, 4
+A. 2, 1, 4, 3 |
+
+B. 1, 2, 3, 4 |
+
+C. 1, 2, 4, 3 |
+
+D. 2, 1, 3, 4
 
 <details><summary>Show answer</summary>**Ans: A** — Second Carnatic/Anglo-French (1749–54) → Mysore 1767 → Afghan 1839 → Sikh 1845.</details>
 
@@ -499,7 +757,13 @@ Options: A. 2, 1, 4, 3 | B. 1, 2, 3, 4 | C. 1, 2, 4, 3 | D. 2, 1, 3, 4
 
 Arrange: 1. Acquisition of Awadh by the British 2. Ilbert Bill Controversy 3. Indigo Revolt 4. Second Anglo-Afghan War
 
-Options: A. 1, 3, 4, 2 | B. 3, 1, 2, 4 | C. 3, 1, 4, 2 | D. 1, 3, 2, 4
+A. 1, 3, 4, 2 |
+
+B. 3, 1, 2, 4 |
+
+C. 3, 1, 4, 2 |
+
+D. 1, 3, 2, 4
 
 <details><summary>Show answer</summary>**Ans: A** — 1856 → 1859 → 1878–80 → 1883.</details>
 

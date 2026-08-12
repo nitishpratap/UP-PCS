@@ -744,7 +744,10 @@ A. 268  B. 280  C. 276  D. None of the above
 
 </details>
 
-**Q5.** **Assertion (A):** The CVC is not a police investigating agency.  
+**Q5.**
+
+**Assertion (A):** The CVC is not a police investigating agency.
+
 **Reason (R):** It exercises superintendence over the CBI in cases under the Prevention of Corruption Act.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -889,7 +892,10 @@ A. 1935  B. 1988  C. 1992  D. 2002
 
 </details>
 
-**Q18.** **Assertion (A):** CAT is a statutory body.  
+**Q18.**
+
+**Assertion (A):** CAT is a statutory body.
+
 **Reason (R):** Article 323A only enables Parliament to create administrative tribunals; the CAT is created by the 1985 Act.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1029,7 +1035,10 @@ A. Under 14  B. Under 16  C. Under 18  D. Under 21
 
 </details>
 
-**Q31.** **Assertion (A):** The National Commission for Minorities is not the Special Officer for Linguistic Minorities.  
+**Q31.**
+
+**Assertion (A):** The National Commission for Minorities is not the Special Officer for Linguistic Minorities.
+
 **Reason (R):** NCM is a 1992 statutory body for notified religious minorities; 350B is a constitutional officer.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1160,7 +1169,10 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 </details>
 
-**Q43.** **Assertion (A):** The CVC was given statutory status in 2003.  
+**Q43.**
+
+**Assertion (A):** The CVC was given statutory status in 2003.
+
 **Reason (R):** The Santhanam Committee had recommended a vigilance body in the 1960s.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1254,7 +1266,10 @@ A. Cabinet papers  B. Personal privacy  C. Suo motu disclosure under s.4  D. Com
 
 </details>
 
-**Q52.** **Assertion (A):** NHRC does not ordinarily inquire into a complaint older than one year.  
+**Q52.**
+
+**Assertion (A):** NHRC does not ordinarily inquire into a complaint older than one year.
+
 **Reason (R):** NHRC’s findings bind the criminal court and substitute a trial.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1380,7 +1395,10 @@ A. Rajiv Kumar  B. Raghuram Rajan  C. Arvind Panagariya  D. Suman Bery
 
 </details>
 
-**Q63.** **Assertion (A):** The Finance Commission does not submit its report to NITI Aayog.  
+**Q63.**
+
+**Assertion (A):** The Finance Commission does not submit its report to NITI Aayog.
+
 **Reason (R):** NITI Aayog is an extra-constitutional think-tank; the FC reports to the President.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1567,7 +1585,10 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 
 </details>
 
-**Q81.** **Assertion (A):** The National Security Council is chaired by the Prime Minister.  
+**Q81.**
+
+**Assertion (A):** The National Security Council is chaired by the Prime Minister.
+
 **Reason (R):** The first National Security Adviser was Brajesh Mishra.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1611,7 +1632,10 @@ A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
 
 </details>
 
-**Q85.** **Assertion (A):** CBI is a statutory commission on the pattern of the CVC Act, 2003.  
+**Q85.**
+
+**Assertion (A):** CBI is a statutory commission on the pattern of the CVC Act, 2003.
+
 **Reason (R):** CBI was created by an MHA resolution in 1963 and derives investigation power from the DSPE Act, 1946.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1752,7 +1776,10 @@ A. Ministry of Home Affairs  B. DoPT  C. Department of Revenue, Ministry of Fina
 
 </details>
 
-**Q98.** **Assertion (A):** RAW reports to the Ministry of Home Affairs.  
+**Q98.**
+
+**Assertion (A):** RAW reports to the Ministry of Home Affairs.
+
 **Reason (R):** RAW is India’s external intelligence agency, created in 1968.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  

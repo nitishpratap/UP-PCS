@@ -187,6 +187,7 @@ D. Only 1
 **PYQ — UPPCS Prelims 2023, Q9**
 
 **Assertion (A):** The President is a part of the Parliament.  
+
 **Reason (R):** A Bill passed by the two Houses of Parliament cannot become a law without the assent of the President.
 
 A. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -204,6 +205,7 @@ D. (A) is false but (R) is true
 **PYQ — UPPCS Prelims 2023, Q4**
 
 **Assertion (A):** The President can recommend to the Parliament to change the boundary of any State after seeking the views of the concerned Legislature of that State within the specified period.  
+
 **Reason (R):** It is not mandatory for the President to accept the proposal of the concerned State Legislature.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -358,6 +360,7 @@ D. R. Venkataraman
 **PYQ — UPPCS Prelims 2021, Q117**
 
 **Assertion (A):** The Council of Ministers in India is collectively responsible to both Lok Sabha and Rajya Sabha.  
+
 **Reason (R):** Members of both Lok Sabha and Rajya Sabha are eligible to become Ministers in the Union Government.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -562,7 +565,10 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 </details>
 
-**Q3.** **Assertion (A):** The value of an MLA's vote in the Presidential election is based on the 1971 census.  
+**Q3.**
+
+**Assertion (A):** The value of an MLA's vote in the Presidential election is based on the 1971 census.
+
 **Reason (R):** The population figures for this purpose are frozen until the first census after 2026.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -627,7 +633,10 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 </details>
 
-**Q8.** **Assertion (A):** The President cannot return a Money Bill for reconsideration.  
+**Q8.**
+
+**Assertion (A):** The President cannot return a Money Bill for reconsideration.
+
 **Reason (R):** A Money Bill is introduced only on the recommendation of the President.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -715,7 +724,10 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 </details>
 
-**Q15.** **Assertion (A):** An ordinance cannot be used to amend the Constitution.  
+**Q15.**
+
+**Assertion (A):** An ordinance cannot be used to amend the Constitution.
+
 **Reason (R):** The President's ordinance-making power is co-extensive with the legislative power of Parliament.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -787,7 +799,10 @@ A. Only 2  B. 1 and 2  C. 2 and 3  D. Only 1
 
 </details>
 
-**Q21.** **Assertion (A):** The Council of Ministers is collectively responsible to the Lok Sabha.  
+**Q21.**
+
+**Assertion (A):** The Council of Ministers is collectively responsible to the Lok Sabha.
+
 **Reason (R):** Ministers can be drawn from both the Lok Sabha and the Rajya Sabha.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -862,7 +877,10 @@ A. Only one  B. Only two  C. All three  D. None
 
 </details>
 
-**Q27.** **Assertion (A):** The Attorney General is not a full-time counsel for the Government.  
+**Q27.**
+
+**Assertion (A):** The Attorney General is not a full-time counsel for the Government.
+
 **Reason (R):** He is not debarred from private legal practice.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -923,7 +941,10 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 </details>
 
-**Q32.** **Assertion (A):** The President must give his assent to a Constitutional Amendment Bill.  
+**Q32.**
+
+**Assertion (A):** The President must give his assent to a Constitutional Amendment Bill.
+
 **Reason (R):** The 24th Amendment made the President's assent to such a Bill obligatory.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1000,7 +1021,10 @@ A. Only one  B. Only two  C. All three  D. None
 
 </details>
 
-**Q38.** **Assertion (A):** The Prime Minister's Office is not headed by the Cabinet Secretary.  
+**Q38.**
+
+**Assertion (A):** The Prime Minister's Office is not headed by the Cabinet Secretary.
+
 **Reason (R):** The Cabinet Secretary heads the Cabinet Secretariat, while the PMO is headed by the Principal Secretary.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1117,6 +1141,7 @@ A. Members of Lok Sabha only B. Members of Rajya Sabha only C. Elected members o
 
 **Q5. UPPCS Prelims 2023, Q4**  
 **Assertion (A):** The President can recommend to the Parliament to change the boundary of any State after seeking the views of the concerned Legislature of that State within the specified period.  
+
 **Reason (R):** It is not mandatory for the President to accept the proposal of the concerned State Legislature.  
 A. Both true and R explains A B. Both true but R not the explanation C. A true, R false D. A false, R true
 
@@ -1139,6 +1164,7 @@ A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 **Q7. UPPCS Prelims 2023, Q9**  
 **Assertion (A):** The President is a part of the Parliament.  
+
 **Reason (R):** A Bill passed by the two Houses of Parliament cannot become a law without the assent of the President.  
 A. Both true but R not the explanation B. Both true and R explains A C. A true, R false D. A false, R true
 
@@ -1186,6 +1212,7 @@ A. 1 only B. 2 only C. Both 1 and 2 D. Neither 1 nor 2
 
 **Q11. UPPCS Prelims 2021, Q117**  
 **Assertion (A):** The Council of Ministers in India is collectively responsible to both Lok Sabha and Rajya Sabha.  
+
 **Reason (R):** Members of both Lok Sabha and Rajya Sabha are eligible to become Ministers in the Union Government.  
 A. Both true and R explains A B. Both true but R not the explanation C. A true, R false D. A false, R true
 

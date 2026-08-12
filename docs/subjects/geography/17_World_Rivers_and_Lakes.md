@@ -318,7 +318,14 @@ A **delta** is the load dumped at a quiet, shallow mouth (many distributaries).
 ## Practice Zone — 50 Questions (2025 Pattern Mix)
 
 **Q1.** Which pairs are **NOT** correctly matched? 1 Budapest–Danube 2 Cologne–Rhine 3 New Orleans–Missouri 4 Hyderabad–Musi
-Options: A. Only 1, 2 and 3 B. Only 3 and 4 C. Only 2, 3 and 4 D. Only 1 and 2
+
+A. Only 1, 2 and 3
+
+B. Only 3 and 4
+
+C. Only 2, 3 and 4
+
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
@@ -329,7 +336,14 @@ Options: A. Only 1, 2 and 3 B. Only 3 and 4 C. Only 2, 3 and 4 D. Only 1 and 2
 ---
 
 **Q2.** River–direction **NOT** correctly matched:
-Options: A. Amur — NE B. Syr Darya — NW C. Angara — North D. **Mekong — South-West**
+
+A. Amur — NE
+
+B. Syr Darya — NW
+
+C. Angara — North
+
+D. **Mekong — South-West**
 
 <details>
 <summary>Show answer</summary>
@@ -340,7 +354,14 @@ Options: A. Amur — NE B. Syr Darya — NW C. Angara — North D. **Mekong — 
 ---
 
 **Q3.** USA–Mexico border river:
-Options: A. Mississippi B. **Rio Grande** C. Amazon D. Colorado
+
+A. Mississippi
+
+B. **Rio Grande**
+
+C. Amazon
+
+D. Colorado
 
 <details>
 <summary>Show answer</summary>
@@ -351,7 +372,14 @@ Options: A. Mississippi B. **Rio Grande** C. Amazon D. Colorado
 ---
 
 **Q4.** Lake–country **NOT** matched:
-Options: A. Baikal — Russia B. Michigan — USA C. **Onega — Canada** D. Maracaibo — Venezuela
+
+A. Baikal — Russia
+
+B. Michigan — USA
+
+C. **Onega — Canada**
+
+D. Maracaibo — Venezuela
 
 <details>
 <summary>Show answer</summary>
@@ -362,7 +390,14 @@ Options: A. Baikal — Russia B. Michigan — USA C. **Onega — Canada** D. Mar
 ---
 
 **Q5.** Mekong: 1. Rises in Tibet. 2. Delta in southern Cambodia.
-Options: A. **Only 1** B. Only 2 C. Both D. Neither
+
+A. **Only 1**
+
+B. Only 2
+
+C. Both
+
+D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -373,7 +408,14 @@ Options: A. **Only 1** B. Only 2 C. Both D. Neither
 ---
 
 **Q6.** Bird’s-foot delta river:
-Options: A. Nile B. Danube C. Hwang Ho D. **Mississippi**
+
+A. Nile
+
+B. Danube
+
+C. Hwang Ho
+
+D. **Mississippi**
 
 <details>
 <summary>Show answer</summary>
@@ -384,7 +426,14 @@ Options: A. Nile B. Danube C. Hwang Ho D. **Mississippi**
 ---
 
 **Q7.** Budapest stands on the:
-Options: A. Rhine B. **Danube** C. Volga D. Seine
+
+A. Rhine
+
+B. **Danube**
+
+C. Volga
+
+D. Seine
 
 <details>
 <summary>Show answer</summary>
@@ -395,7 +444,14 @@ Options: A. Rhine B. **Danube** C. Volga D. Seine
 ---
 
 **Q8.** Cologne stands on the:
-Options: A. Danube B. **Rhine** C. Elbe D. Thames
+
+A. Danube
+
+B. **Rhine**
+
+C. Elbe
+
+D. Thames
 
 <details>
 <summary>Show answer</summary>
@@ -406,7 +462,14 @@ Options: A. Danube B. **Rhine** C. Elbe D. Thames
 ---
 
 **Q9.** Hyderabad (India) stands on the:
-Options: A. Godavari B. **Musi** C. Paleru D. Narmada
+
+A. Godavari
+
+B. **Musi**
+
+C. Paleru
+
+D. Narmada
 
 <details>
 <summary>Show answer</summary>
@@ -417,7 +480,14 @@ Options: A. Godavari B. **Musi** C. Paleru D. Narmada
 ---
 
 **Q10.** Missouri joins the Mississippi at:
-Options: A. New Orleans B. **St Louis** C. Chicago D. Montreal
+
+A. New Orleans
+
+B. **St Louis**
+
+C. Chicago
+
+D. Montreal
 
 <details>
 <summary>Show answer</summary>
@@ -428,7 +498,14 @@ Options: A. New Orleans B. **St Louis** C. Chicago D. Montreal
 ---
 
 **Q11.** Longest river in Europe:
-Options: A. Danube B. Rhine C. **Volga** D. Thames
+
+A. Danube
+
+B. Rhine
+
+C. **Volga**
+
+D. Thames
 
 <details>
 <summary>Show answer</summary>
@@ -439,7 +516,14 @@ Options: A. Danube B. Rhine C. **Volga** D. Thames
 ---
 
 **Q12.** Longest river in Asia:
-Options: A. Mekong B. **Yangtze** C. Amur D. Hwang Ho
+
+A. Mekong
+
+B. **Yangtze**
+
+C. Amur
+
+D. Hwang Ho
 
 <details>
 <summary>Show answer</summary>
@@ -450,7 +534,14 @@ Options: A. Mekong B. **Yangtze** C. Amur D. Hwang Ho
 ---
 
 **Q13.** Traditionally longest river:
-Options: A. Amazon B. **Nile** C. Mississippi D. Yangtze
+
+A. Amazon
+
+B. **Nile**
+
+C. Mississippi
+
+D. Yangtze
 
 <details>
 <summary>Show answer</summary>
@@ -461,7 +552,14 @@ Options: A. Amazon B. **Nile** C. Mississippi D. Yangtze
 ---
 
 **Q14.** Largest discharge:
-Options: A. Nile B. **Amazon** C. Congo D. Volga
+
+A. Nile
+
+B. **Amazon**
+
+C. Congo
+
+D. Volga
 
 <details>
 <summary>Show answer</summary>
@@ -472,7 +570,14 @@ Options: A. Nile B. **Amazon** C. Congo D. Volga
 ---
 
 **Q15.** White Nile and Blue Nile meet at:
-Options: A. Cairo B. **Khartoum** C. Aswan D. Alexandria
+
+A. Cairo
+
+B. **Khartoum**
+
+C. Aswan
+
+D. Alexandria
 
 <details>
 <summary>Show answer</summary>
@@ -483,7 +588,14 @@ Options: A. Cairo B. **Khartoum** C. Aswan D. Alexandria
 ---
 
 **Q16.** Paris stands on the:
-Options: A. Thames B. **Seine** C. Rhine D. Rhône
+
+A. Thames
+
+B. **Seine**
+
+C. Rhine
+
+D. Rhône
 
 <details>
 <summary>Show answer</summary>
@@ -494,7 +606,14 @@ Options: A. Thames B. **Seine** C. Rhine D. Rhône
 ---
 
 **Q17.** London stands on the:
-Options: A. Seine B. **Thames** C. Elbe D. Clyde as the only lock
+
+A. Seine
+
+B. **Thames**
+
+C. Elbe
+
+D. Clyde as the only lock
 
 <details>
 <summary>Show answer</summary>
@@ -505,7 +624,14 @@ Options: A. Seine B. **Thames** C. Elbe D. Clyde as the only lock
 ---
 
 **Q18.** Baghdad stands on the:
-Options: A. Euphrates only B. **Tigris** C. Jordan D. Nile
+
+A. Euphrates only
+
+B. **Tigris**
+
+C. Jordan
+
+D. Nile
 
 <details>
 <summary>Show answer</summary>
@@ -516,7 +642,14 @@ Options: A. Euphrates only B. **Tigris** C. Jordan D. Nile
 ---
 
 **Q19.** Three Gorges dam is on the:
-Options: A. Hwang Ho B. **Yangtze** C. Mekong D. Amur
+
+A. Hwang Ho
+
+B. **Yangtze**
+
+C. Mekong
+
+D. Amur
 
 <details>
 <summary>Show answer</summary>
@@ -527,7 +660,14 @@ Options: A. Hwang Ho B. **Yangtze** C. Mekong D. Amur
 ---
 
 **Q20.** Aswan High Dam is on the:
-Options: A. Congo B. **Nile** C. Niger D. Zambezi
+
+A. Congo
+
+B. **Nile**
+
+C. Niger
+
+D. Zambezi
 
 <details>
 <summary>Show answer</summary>
@@ -538,7 +678,14 @@ Options: A. Congo B. **Nile** C. Niger D. Zambezi
 ---
 
 **Q21.** Itaipu dam is on the:
-Options: A. Amazon B. **Paraná** C. Orinoco D. Mississippi
+
+A. Amazon
+
+B. **Paraná**
+
+C. Orinoco
+
+D. Mississippi
 
 <details>
 <summary>Show answer</summary>
@@ -549,7 +696,14 @@ Options: A. Amazon B. **Paraná** C. Orinoco D. Mississippi
 ---
 
 **Q22.** Hoover Dam is on the:
-Options: A. Columbia B. **Colorado** C. Rio Grande D. Yukon
+
+A. Columbia
+
+B. **Colorado**
+
+C. Rio Grande
+
+D. Yukon
 
 <details>
 <summary>Show answer</summary>
@@ -560,7 +714,14 @@ Options: A. Columbia B. **Colorado** C. Rio Grande D. Yukon
 ---
 
 **Q23.** Kariba dam is on the:
-Options: A. Nile B. Congo C. **Zambezi** D. Orange
+
+A. Nile
+
+B. Congo
+
+C. **Zambezi**
+
+D. Orange
 
 <details>
 <summary>Show answer</summary>
@@ -571,7 +732,14 @@ Options: A. Nile B. Congo C. **Zambezi** D. Orange
 ---
 
 **Q24.** Largest lake on Earth:
-Options: A. Superior B. **Caspian** C. Baikal D. Victoria
+
+A. Superior
+
+B. **Caspian**
+
+C. Baikal
+
+D. Victoria
 
 <details>
 <summary>Show answer</summary>
@@ -582,7 +750,14 @@ Options: A. Superior B. **Caspian** C. Baikal D. Victoria
 ---
 
 **Q25.** Deepest lake:
-Options: A. Tanganyika B. **Baikal** C. Superior D. Dead Sea
+
+A. Tanganyika
+
+B. **Baikal**
+
+C. Superior
+
+D. Dead Sea
 
 <details>
 <summary>Show answer</summary>
@@ -593,7 +768,14 @@ Options: A. Tanganyika B. **Baikal** C. Superior D. Dead Sea
 ---
 
 **Q26.** Largest freshwater lake **by area**:
-Options: A. Baikal B. **Superior** C. Caspian D. Onega
+
+A. Baikal
+
+B. **Superior**
+
+C. Caspian
+
+D. Onega
 
 <details>
 <summary>Show answer</summary>
@@ -604,7 +786,14 @@ Options: A. Baikal B. **Superior** C. Caspian D. Onega
 ---
 
 **Q27.** Highest waterfall:
-Options: A. Victoria B. Niagara C. **Angel** D. Iguazu
+
+A. Victoria
+
+B. Niagara
+
+C. **Angel**
+
+D. Iguazu
 
 <details>
 <summary>Show answer</summary>
@@ -615,7 +804,14 @@ Options: A. Victoria B. Niagara C. **Angel** D. Iguazu
 ---
 
 **Q28.** Victoria Falls is on the:
-Options: A. Nile B. Congo C. **Zambezi** D. Niger
+
+A. Nile
+
+B. Congo
+
+C. **Zambezi**
+
+D. Niger
 
 <details>
 <summary>Show answer</summary>
@@ -626,7 +822,14 @@ Options: A. Nile B. Congo C. **Zambezi** D. Niger
 ---
 
 **Q29.** Niagara lies between lakes:
-Options: A. Superior–Michigan B. **Erie–Ontario** C. Huron–Erie as the fall itself D. Baikal–Onega
+
+A. Superior–Michigan
+
+B. **Erie–Ontario**
+
+C. Huron–Erie as the fall itself
+
+D. Baikal–Onega
 
 <details>
 <summary>Show answer</summary>
@@ -637,7 +840,14 @@ Options: A. Superior–Michigan B. **Erie–Ontario** C. Huron–Erie as the fal
 ---
 
 **Q30.** Titicaca is in:
-Options: A. Russia B. **Peru–Bolivia** C. Canada D. Venezuela
+
+A. Russia
+
+B. **Peru–Bolivia**
+
+C. Canada
+
+D. Venezuela
 
 <details>
 <summary>Show answer</summary>
@@ -648,7 +858,14 @@ Options: A. Russia B. **Peru–Bolivia** C. Canada D. Venezuela
 ---
 
 **Q31.** Dead Sea is fed mainly by the:
-Options: A. Nile B. **Jordan** C. Tigris D. Volga
+
+A. Nile
+
+B. **Jordan**
+
+C. Tigris
+
+D. Volga
 
 <details>
 <summary>Show answer</summary>
@@ -659,7 +876,14 @@ Options: A. Nile B. **Jordan** C. Tigris D. Volga
 ---
 
 **Q32.** Syr Darya ends in the:
-Options: A. Caspian B. **Aral** C. Black Sea D. Baikal
+
+A. Caspian
+
+B. **Aral**
+
+C. Black Sea
+
+D. Baikal
 
 <details>
 <summary>Show answer</summary>
@@ -670,7 +894,14 @@ Options: A. Caspian B. **Aral** C. Black Sea D. Baikal
 ---
 
 **Q33.** Angara flows out of:
-Options: A. Superior B. **Baikal** C. Onega D. Dead Sea
+
+A. Superior
+
+B. **Baikal**
+
+C. Onega
+
+D. Dead Sea
 
 <details>
 <summary>Show answer</summary>
@@ -681,7 +912,14 @@ Options: A. Superior B. **Baikal** C. Onega D. Dead Sea
 ---
 
 **Q34.** Busiest European inland navigation:
-Options: A. Thames B. **Rhine** C. Po D. Tagus
+
+A. Thames
+
+B. **Rhine**
+
+C. Po
+
+D. Tagus
 
 <details>
 <summary>Show answer</summary>
@@ -692,7 +930,14 @@ Options: A. Thames B. **Rhine** C. Po D. Tagus
 ---
 
 **Q35.** River with the most countries:
-Options: A. Rhine B. **Danube** C. Volga D. Seine
+
+A. Rhine
+
+B. **Danube**
+
+C. Volga
+
+D. Seine
 
 <details>
 <summary>Show answer</summary>
@@ -703,7 +948,14 @@ Options: A. Rhine B. **Danube** C. Volga D. Seine
 ---
 
 **Q36.** St Lawrence Seaway links:
-Options: A. Caspian–Volga B. **Great Lakes–Atlantic** C. Baikal–Yenisei only D. Nile–Med only
+
+A. Caspian–Volga
+
+B. **Great Lakes–Atlantic**
+
+C. Baikal–Yenisei only
+
+D. Nile–Med only
 
 <details>
 <summary>Show answer</summary>
@@ -714,7 +966,14 @@ Options: A. Caspian–Volga B. **Great Lakes–Atlantic** C. Baikal–Yenisei on
 ---
 
 **Q37.** Shanghai is on the:
-Options: A. Hwang Ho B. **Yangtze** C. Mekong D. Amur
+
+A. Hwang Ho
+
+B. **Yangtze**
+
+C. Mekong
+
+D. Amur
 
 <details>
 <summary>Show answer</summary>
@@ -725,7 +984,14 @@ Options: A. Hwang Ho B. **Yangtze** C. Mekong D. Amur
 ---
 
 **Q38.** Iguazu Falls: countries:
-Options: A. USA–Canada B. **Brazil–Argentina** C. Zambia–Zimbabwe D. Peru–Bolivia
+
+A. USA–Canada
+
+B. **Brazil–Argentina**
+
+C. Zambia–Zimbabwe
+
+D. Peru–Bolivia
 
 <details>
 <summary>Show answer</summary>
@@ -736,7 +1002,14 @@ Options: A. USA–Canada B. **Brazil–Argentina** C. Zambia–Zimbabwe D. Peru�
 ---
 
 **Q39.** Maracaibo is in:
-Options: A. Russia B. Canada C. **Venezuela** D. USA
+
+A. Russia
+
+B. Canada
+
+C. **Venezuela**
+
+D. USA
 
 <details>
 <summary>Show answer</summary>
@@ -747,7 +1020,14 @@ Options: A. Russia B. Canada C. **Venezuela** D. USA
 ---
 
 **Q40.** Great Lake lying wholly in the USA:
-Options: A. Superior B. **Michigan** C. Huron D. Ontario
+
+A. Superior
+
+B. **Michigan**
+
+C. Huron
+
+D. Ontario
 
 <details>
 <summary>Show answer</summary>
@@ -758,7 +1038,14 @@ Options: A. Superior B. **Michigan** C. Huron D. Ontario
 ---
 
 **Q41.** Volga empties into the:
-Options: A. Black Sea B. **Caspian** C. Baltic D. Mediterranean
+
+A. Black Sea
+
+B. **Caspian**
+
+C. Baltic
+
+D. Mediterranean
 
 <details>
 <summary>Show answer</summary>
@@ -769,7 +1056,14 @@ Options: A. Black Sea B. **Caspian** C. Baltic D. Mediterranean
 ---
 
 **Q42.** Niger delta opens into the:
-Options: A. Red Sea B. **Gulf of Guinea** C. Mediterranean D. Indian Ocean
+
+A. Red Sea
+
+B. **Gulf of Guinea**
+
+C. Mediterranean
+
+D. Indian Ocean
 
 <details>
 <summary>Show answer</summary>
@@ -780,7 +1074,14 @@ Options: A. Red Sea B. **Gulf of Guinea** C. Mediterranean D. Indian Ocean
 ---
 
 **Q43.** Darling Range is:
-Options: A. The Murray–Darling mouth B. **A hill range of Western Australia** C. A Canadian lake D. A Nile dam
+
+A. The Murray–Darling mouth
+
+B. **A hill range of Western Australia**
+
+C. A Canadian lake
+
+D. A Nile dam
 
 <details>
 <summary>Show answer</summary>
@@ -791,7 +1092,14 @@ Options: A. The Murray–Darling mouth B. **A hill range of Western Australia** 
 ---
 
 **Q44.** Cairo stands on the:
-Options: A. Congo B. **Nile** C. Niger D. Zambezi
+
+A. Congo
+
+B. **Nile**
+
+C. Niger
+
+D. Zambezi
 
 <details>
 <summary>Show answer</summary>
@@ -802,7 +1110,14 @@ Options: A. Congo B. **Nile** C. Niger D. Zambezi
 ---
 
 **Q45.** Belgrade stands on the:
-Options: A. Rhine B. **Danube** C. Volga D. Po
+
+A. Rhine
+
+B. **Danube**
+
+C. Volga
+
+D. Po
 
 <details>
 <summary>Show answer</summary>
@@ -813,7 +1128,14 @@ Options: A. Rhine B. **Danube** C. Volga D. Po
 ---
 
 **Q46.** Hwang Ho is also called:
-Options: A. Yangtze B. **Yellow River** C. Mekong D. Amur
+
+A. Yangtze
+
+B. **Yellow River**
+
+C. Mekong
+
+D. Amur
 
 <details>
 <summary>Show answer</summary>
@@ -824,7 +1146,14 @@ Options: A. Yangtze B. **Yellow River** C. Mekong D. Amur
 ---
 
 **Q47.** Amazon rises in the:
-Options: A. Ethiopian Highlands B. **Andes** C. Alps D. Tibetan Plateau
+
+A. Ethiopian Highlands
+
+B. **Andes**
+
+C. Alps
+
+D. Tibetan Plateau
 
 <details>
 <summary>Show answer</summary>
@@ -835,7 +1164,14 @@ Options: A. Ethiopian Highlands B. **Andes** C. Alps D. Tibetan Plateau
 ---
 
 **Q48.** Blue Nile source lake (standard lock):
-Options: A. Victoria B. **Tana** C. Malawi D. Chad
+
+A. Victoria
+
+B. **Tana**
+
+C. Malawi
+
+D. Chad
 
 <details>
 <summary>Show answer</summary>
@@ -846,7 +1182,14 @@ Options: A. Victoria B. **Tana** C. Malawi D. Chad
 ---
 
 **Q49.** Grand Coulee dam: river:
-Options: A. Colorado B. **Columbia** C. Mississippi D. Yukon
+
+A. Colorado
+
+B. **Columbia**
+
+C. Mississippi
+
+D. Yukon
 
 <details>
 <summary>Show answer</summary>
@@ -857,7 +1200,14 @@ Options: A. Colorado B. **Columbia** C. Mississippi D. Yukon
 ---
 
 **Q50.** Ladoga is in:
-Options: A. Canada B. **Russia** C. USA D. Venezuela
+
+A. Canada
+
+B. **Russia**
+
+C. USA
+
+D. Venezuela
 
 <details>
 <summary>Show answer</summary>
@@ -876,11 +1226,19 @@ Options: A. Canada B. **Russia** C. USA D. Venezuela
 **Q1. UPPCS Prelims 2025, Q68**
 Which of the following pairs are NOT correctly matched?
 (City) — (River)
+
 1. Budapest — Danube
 2. Cologne — Rhine
 3. New Orleans — Missouri
 4. Hyderabad (India) — Musi
-Options: A. Only 1, 2 and 3 B. Only 3 and 4 C. Only 2, 3 and 4 D. Only 1 and 2
+
+A. Only 1, 2 and 3
+
+B. Only 3 and 4
+
+C. Only 2, 3 and 4
+
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
@@ -893,10 +1251,15 @@ Paper options have **no “Only 3”**. Do not treat Musi as wrong. Some series 
 
 **Q2. UPPCS Prelims 2024, Q77**
 Which one of the following pairs (River - Direction) is not correctly matched?
+
 Options:
+
 A. Amur River - North-East
+
 B. Syr Darya - North-West
+
 C. Angara River - North
+
 D. Mekong River - South-West
 
 <details>
@@ -909,7 +1272,14 @@ D. Mekong River - South-West
 
 **Q3. UPPCS Prelims 2023, Q62**
 The river situated along the border between the United States of America and Mexico is—
-Options: A. Mississippi B. Rio Grande C. Amazon D. Colorado
+
+A. Mississippi
+
+B. Rio Grande
+
+C. Amazon
+
+D. Colorado
 
 <details>
 <summary>Show answer</summary>
@@ -921,7 +1291,14 @@ Options: A. Mississippi B. Rio Grande C. Amazon D. Colorado
 
 **Q4. UPPCS Prelims 2023, Q66**
 Which one of the following (Lake—Country) is not correctly matched?
-Options: A. Baikal — Russia B. Michigan — United States of America C. Onega — Canada D. Maracaibo — Venezuela
+
+A. Baikal — Russia
+
+B. Michigan — United States of America
+
+C. Onega — Canada
+
+D. Maracaibo — Venezuela
 
 <details>
 <summary>Show answer</summary>
@@ -933,9 +1310,17 @@ Options: A. Baikal — Russia B. Michigan — United States of America C. Onega 
 
 **Q5. UPPCS Prelims 2021, Q121**
 With reference to Mekong river, which of the following statement/s is/are correct?
+
 1. Mekong rises in Tibetan Plateau
 2. Mekong delta is situated in Southern Cambodia.
-Options: A. 1 only B. 2 only C. Both 1 and 2 D. Neither 1 nor 2
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -947,7 +1332,14 @@ Options: A. 1 only B. 2 only C. Both 1 and 2 D. Neither 1 nor 2
 
 **Q6. UPPCS Prelims 2018, Q33**
 At the mouth of which of the following rivers the 'bird's foot' type delta is formed?
-Options: A. Huang Ho B. Nile C. Danube D. Mississippi
+
+A. Huang Ho
+
+B. Nile
+
+C. Danube
+
+D. Mississippi
 
 <details>
 <summary>Show answer</summary>

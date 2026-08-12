@@ -463,6 +463,7 @@ A. 3 1 2 4  B. 3 2 1 4  C. 1 3 2 4  D. 3 1 4 2
 **Q7.** Given below are two statements:
 
 **Assertion (A):** Magadha’s early capital was Rajagriha.  
+
 **Reason (R):** Udayin shifted the capital to Pataliputra at the Ganga–Son confluence.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -585,6 +586,7 @@ A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
 **Q14.** Given below are two statements:
 
 **Assertion (A):** Greek writers mention a huge Magadhan army under the last Nanda.  
+
 **Reason (R):** Alexander’s troops refused to march further east from the Beas.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -726,6 +728,7 @@ D. Jain texts also call him Shrenika.
 **Q22.** Given below are two statements:
 
 **Assertion (A):** Ajatashatru’s minister Vassakara is remembered for dividing Vajji.  
+
 **Reason (R):** Vajji was a compact hereditary monarchy like Magadha.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -885,6 +888,7 @@ D. Mahapadma is the house’s great conqueror in Puranic memory.
 **Q31.** Given below are two statements:
 
 **Assertion (A):** Magadha used matrimonial alliances as well as war.  
+
 **Reason (R):** Bimbisara obtained Kashi as dowry from Kosala.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -1094,6 +1098,7 @@ D. Vidudabha — founder of the Nanda dynasty
 **Q43.** Given below are two statements:
 
 **Assertion (A):** Bimbisara sent Jivaka in connection with Pradyota of Avanti.  
+
 **Reason (R):** Avanti was annexed by Bimbisara in the same campaign as Anga.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  

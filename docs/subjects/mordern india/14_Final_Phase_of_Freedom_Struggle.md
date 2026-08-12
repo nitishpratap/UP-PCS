@@ -102,7 +102,13 @@ Consider the following events and arrange them in correct chronological order.
 3. Shimla Conference  
 4. Wavell Plan
 
-Options: A. 1, 4, 3, 2  B. 4, 1, 2, 3  C. 4, 1, 3, 2  D. 1, 4, 2, 3
+A. 1, 4, 3, 2
+
+B. 4, 1, 2, 3
+
+C. 4, 1, 3, 2
+
+D. 1, 4, 2, 3
 
 <details>
 <summary>Show answer</summary>
@@ -168,7 +174,13 @@ Consider the following events and arrange them in chronological order:
 3. Ramgarh Congress Session  
 4. Resignation letters of Congress Ministers
 
-Options: A. 3, 1, 4, 2  B. 4, 3, 1, 2  C. 1, 3, 4, 2  D. 4, 2, 3, 1
+A. 3, 1, 4, 2
+
+B. 4, 3, 1, 2
+
+C. 1, 3, 4, 2
+
+D. 4, 2, 3, 1
 
 <details>
 <summary>Show answer</summary>
@@ -213,7 +225,13 @@ Options: A. 3, 1, 4, 2  B. 4, 3, 1, 2  C. 1, 3, 4, 2  D. 4, 2, 3, 1
 
 Who among the following women freedom fighters was **not associated** with the **Quit India Movement**?
 
-Options: A. Matangini Hazra  B. Aruna Asaf Ali  C. Kanaklata Barua  D. Shanti Ghosh
+A. Matangini Hazra
+
+B. Aruna Asaf Ali
+
+C. Kanaklata Barua
+
+D. Shanti Ghosh
 
 <details>
 <summary>Show answer</summary>
@@ -240,7 +258,13 @@ Options: A. Matangini Hazra  B. Aruna Asaf Ali  C. Kanaklata Barua  D. Shanti Gh
 
 What was the name of the women's regiment constituted as a part of the **Azad Hind Fauj** by Netaji Subhas Chandra Bose?
 
-Options: A. Rani Bhabani Regiment  B. Rani Jhansi Regiment  C. Bharat Mata Regiment  D. Veerangana Regiment
+A. Rani Bhabani Regiment
+
+B. Rani Jhansi Regiment
+
+C. Bharat Mata Regiment
+
+D. Veerangana Regiment
 
 <details>
 <summary>Show answer</summary>
@@ -267,7 +291,13 @@ Options: A. Rani Bhabani Regiment  B. Rani Jhansi Regiment  C. Bharat Mata Regim
 
 The trial of the Officers of the I.N.A. was held in
 
-Options: A. Red Fort, Delhi  B. Gwalior Fort  C. Amer Fort, Jalpur  D. Agra Fort
+A. Red Fort, Delhi
+
+B. Gwalior Fort
+
+C. Amer Fort, Jalpur
+
+D. Agra Fort
 
 <details>
 <summary>Show answer</summary>
@@ -291,7 +321,13 @@ Options: A. Red Fort, Delhi  B. Gwalior Fort  C. Amer Fort, Jalpur  D. Agra Fort
 
 Who prepared "C.R. Formula" to remove the political deadlock between Muslim League and Indian National Congress?
 
-Options: A. Jawaharlal Nehru  B. Rajgopalachar  C. Chittaranjan Das  D. V. P. Menon
+A. Jawaharlal Nehru
+
+B. Rajgopalachar
+
+C. Chittaranjan Das
+
+D. V. P. Menon
 
 <details>
 <summary>Show answer</summary>
@@ -375,7 +411,13 @@ Consider the following events and arrange them in correct chronological order st
 3. Formation of Interim Government  
 4. Arrival of a UK Parliamentary Delegation in Delhi
 
-Options: A. 4, 3, 2, 1  B. 4, 1, 2, 3  C. 4, 2, 1, 3  D. 2, 4, 1, 3
+A. 4, 3, 2, 1
+
+B. 4, 1, 2, 3
+
+C. 4, 2, 1, 3
+
+D. 2, 4, 1, 3
 
 <details>
 <summary>Show answer</summary>
@@ -431,7 +473,13 @@ Options: A. 4, 3, 2, 1  B. 4, 1, 2, 3  C. 4, 2, 1, 3  D. 2, 4, 1, 3
 
 **Q1.** Arrange: 1. Cripps Mission  2. Cabinet Mission  3. Shimla Conference  4. Wavell Plan
 
-Options: A. 1, 4, 3, 2  B. 4, 1, 2, 3  C. 4, 1, 3, 2  D. 1, 4, 2, 3
+A. 1, 4, 3, 2
+
+B. 4, 1, 2, 3
+
+C. 4, 1, 3, 2
+
+D. 1, 4, 2, 3
 
 <details>
 <summary>Show answer</summary>
@@ -444,7 +492,13 @@ Options: A. 1, 4, 3, 2  B. 4, 1, 2, 3  C. 4, 1, 3, 2  D. 1, 4, 2, 3
 
 **Q2.** Arrange: 1. RIN Revolt  2. Announcement of Cabinet Mission  3. Formation of Interim Government  4. UK Parliamentary Delegation
 
-Options: A. 4, 3, 2, 1  B. 4, 1, 2, 3  C. 4, 2, 1, 3  D. 2, 4, 1, 3
+A. 4, 3, 2, 1
+
+B. 4, 1, 2, 3
+
+C. 4, 2, 1, 3
+
+D. 2, 4, 1, 3
 
 <details>
 <summary>Show answer</summary>
@@ -457,7 +511,13 @@ Options: A. 4, 3, 2, 1  B. 4, 1, 2, 3  C. 4, 2, 1, 3  D. 2, 4, 1, 3
 
 **Q3.** Arrange: 1. August Offer  2. Cripps arrival  3. Ramgarh Session  4. Congress ministries resign
 
-Options: A. 3, 1, 4, 2  B. 4, 3, 1, 2  C. 1, 3, 4, 2  D. 4, 2, 3, 1
+A. 3, 1, 4, 2
+
+B. 4, 3, 1, 2
+
+C. 1, 3, 4, 2
+
+D. 4, 2, 3, 1
 
 <details>
 <summary>Show answer</summary>
@@ -470,7 +530,13 @@ Options: A. 3, 1, 4, 2  B. 4, 3, 1, 2  C. 1, 3, 4, 2  D. 4, 2, 3, 1
 
 **Q4.** The women’s regiment of Azad Hind Fauj was
 
-Options: A. Rani Bhabani Regiment  B. Rani Jhansi Regiment  C. Bharat Mata Regiment  D. Veerangana Regiment
+A. Rani Bhabani Regiment
+
+B. Rani Jhansi Regiment
+
+C. Bharat Mata Regiment
+
+D. Veerangana Regiment
 
 <details>
 <summary>Show answer</summary>
@@ -483,7 +549,13 @@ Options: A. Rani Bhabani Regiment  B. Rani Jhansi Regiment  C. Bharat Mata Regim
 
 **Q5.** Who was **not** associated with Quit India?
 
-Options: A. Matangini Hazra  B. Aruna Asaf Ali  C. Kanaklata Barua  D. Shanti Ghosh
+A. Matangini Hazra
+
+B. Aruna Asaf Ali
+
+C. Kanaklata Barua
+
+D. Shanti Ghosh
 
 <details>
 <summary>Show answer</summary>
@@ -496,7 +568,13 @@ Options: A. Matangini Hazra  B. Aruna Asaf Ali  C. Kanaklata Barua  D. Shanti Gh
 
 **Q6.** INA officers were tried at
 
-Options: A. Red Fort, Delhi  B. Gwalior Fort  C. Amer Fort  D. Agra Fort
+A. Red Fort, Delhi
+
+B. Gwalior Fort
+
+C. Amer Fort
+
+D. Agra Fort
 
 <details>
 <summary>Show answer</summary>
@@ -509,7 +587,13 @@ Options: A. Red Fort, Delhi  B. Gwalior Fort  C. Amer Fort  D. Agra Fort
 
 **Q7.** Who prepared the C.R. Formula?
 
-Options: A. Jawaharlal Nehru  B. Rajgopalachar  C. Chittaranjan Das  D. V.P. Menon
+A. Jawaharlal Nehru
+
+B. Rajgopalachar
+
+C. Chittaranjan Das
+
+D. V.P. Menon
 
 <details>
 <summary>Show answer</summary>
@@ -544,7 +628,13 @@ D. (A) is false, but (R) is true
 1. It offered Dominion Status after the war.  
 2. Congress accepted it as immediate independence.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -560,7 +650,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. The AICC adopted it at Bombay on 8 August 1942.  
 2. Gandhi’s slogan was “Do or Die.”
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -573,7 +669,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q11.** Which of the following pairs is NOT correctly matched?
 
-Options: A. Azad Hind Government — 21 October 1943  B. Quit India — 8 August 1942  C. Mountbatten Plan — 3 June 1947  D. Independence Act — 3 June 1947
+A. Azad Hind Government — 21 October 1943
+
+B. Quit India — 8 August 1942
+
+C. Mountbatten Plan — 3 June 1947
+
+D. Independence Act — 3 June 1947
 
 <details>
 <summary>Show answer</summary>
@@ -589,7 +691,13 @@ Options: A. Azad Hind Government — 21 October 1943  B. Quit India — 8 August
 **List-I** A. Forward Bloc  B. CSP  C. August Offer  D. Individual Satyagraha  
 **List-II** 1. 1934  2. 1939  3. Oct 1940  4. Aug 1940
 
-Options: A. 2 1 4 3  B. 2 1 3 4  C. 1 2 4 3  D. 2 4 1 3
+A. 2 1 4 3
+
+B. 2 1 3 4
+
+C. 1 2 4 3
+
+D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -605,7 +713,13 @@ Options: A. 2 1 4 3  B. 2 1 3 4  C. 1 2 4 3  D. 2 4 1 3
 1. He was Congress President at Haripura (1938) and Tripuri (1939).  
 2. He founded the Forward Bloc in 1939.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -621,7 +735,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. Rani Jhansi Regiment was commanded in memory by Lakshmi Sehgal.  
 2. It was a regiment of the 1857 revolt, not of INA.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -656,7 +776,13 @@ D. (A) is false, but (R) is true
 1. It proposed a weak Centre and three groups of provinces.  
 2. It created two sovereign states immediately in May 1946.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -672,7 +798,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. Aruna Asaf Ali  B. Usha Mehta  C. Matangini Hazra  D. Shanti Ghosh  
 **List-II** 1. Congress Radio  2. Gowalia Tank flag  3. 1931 Bengal revolutionary  4. Tamluk 1942
 
-Options: A. 2 1 4 3  B. 2 1 3 4  C. 1 2 4 3  D. 2 4 1 3
+A. 2 1 4 3
+
+B. 2 1 3 4
+
+C. 1 2 4 3
+
+D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -688,7 +820,13 @@ Options: A. 2 1 4 3  B. 2 1 3 4  C. 1 2 4 3  D. 2 4 1 3
 1. INA trial trio included Shah Nawaz Khan, Sahgal and Dhillon.  
 2. The trials were held at Red Fort.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -705,7 +843,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. C.R. Formula — C.R. Das  
 3. Desai–Liaquat — 1945
 
-Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
+A. Only 2
+
+B. Only 1 and 2
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -721,7 +865,13 @@ Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
 1. It was made by Linlithgow in August 1940.  
 2. It is the same document as the Cripps proposals.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -734,7 +884,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q21.** Arrange: 1. Direct Action Day  2. Mountbatten Plan  3. Independence Act  4. 15 August 1947
 
-Options: A. 1, 2, 3, 4  B. 1, 2, 4, 3  C. 2, 1, 3, 4  D. 1, 3, 2, 4
+A. 1, 2, 3, 4
+
+B. 1, 2, 4, 3
+
+C. 2, 1, 3, 4
+
+D. 1, 3, 2, 4
 
 <details>
 <summary>Show answer</summary>
@@ -750,7 +906,13 @@ Options: A. 1, 2, 3, 4  B. 1, 2, 4, 3  C. 2, 1, 3, 4  D. 1, 3, 2, 4
 1. Ballia (UP) is associated with Chittu Pandey.  
 2. Satara Prati Sarkar is associated with Nana Patil.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -763,7 +925,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q23.** Which of the following is NOT correctly matched?
 
-Options: A. Individual Satyagraha first — Vinoba Bhave  B. Forward Bloc — 1939  C. Azad Hind Govt — 21 Oct 1943  D. RIN Revolt — 1942
+A. Individual Satyagraha first — Vinoba Bhave
+
+B. Forward Bloc — 1939
+
+C. Azad Hind Govt — 21 Oct 1943
+
+D. RIN Revolt — 1942
 
 <details>
 <summary>Show answer</summary>
@@ -798,7 +966,13 @@ D. (A) is false, but (R) is true
 1. Interim Government was announced on 24 August 1946 and took office on 2 September 1946.  
 2. The Muslim League joined it on 26 October 1946.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -814,7 +988,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. Group A (Cabinet Mission)  B. Group B  C. Group C  D. Centre subjects  
 **List-II** 1. Punjab, NWFP, Sindh  2. Bengal, Assam  3. Madras, Bombay, UP, Bihar, CP, Orissa  4. Defence, foreign, communications
 
-Options: A. 3 1 2 4  B. 3 2 1 4  C. 1 3 2 4  D. 3 1 4 2
+A. 3 1 2 4
+
+B. 3 2 1 4
+
+C. 1 3 2 4
+
+D. 3 1 4 2
 
 <details>
 <summary>Show answer</summary>
@@ -830,7 +1010,13 @@ Options: A. 3 1 2 4  B. 3 2 1 4  C. 1 3 2 4  D. 3 1 4 2
 1. It received assent on 18 July 1947.  
 2. It created two dominions, India and Pakistan.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -847,7 +1033,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Rash Behari Bose — Indian Independence League  
 3. Lakshmi Sehgal — Quit India Radio
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -863,7 +1055,13 @@ Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
 1. Attlee announced in February 1947 that power would be transferred by June 1948.  
 2. Mountbatten advanced the date to 15 August 1947.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -876,7 +1074,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q30.** Which of the following is NOT correctly matched?
 
-Options: A. Haripura — Bose 1938  B. Tripuri — Bose 1939  C. Forward Bloc — 1934  D. CSP — 1934
+A. Haripura — Bose 1938
+
+B. Tripuri — Bose 1939
+
+C. Forward Bloc — 1934
+
+D. CSP — 1934
 
 <details>
 <summary>Show answer</summary>
@@ -892,7 +1096,13 @@ Options: A. Haripura — Bose 1938  B. Tripuri — Bose 1939  C. Forward Bloc �
 1. It broke out in February 1946, centred on Bombay.  
 2. It is the same event as Quit India 1942.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -908,7 +1118,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. Cripps  B. Wavell Plan  C. Cabinet Mission  D. Mountbatten Plan  
 **List-II** 1. 3 June 1947  2. March 1942  3. June 1945  4. May 1946
 
-Options: A. 2 3 4 1  B. 2 3 1 4  C. 3 2 4 1  D. 2 4 3 1
+A. 2 3 4 1
+
+B. 2 3 1 4
+
+C. 3 2 4 1
+
+D. 2 4 3 1
 
 <details>
 <summary>Show answer</summary>
@@ -943,7 +1159,13 @@ D. (A) is false, but (R) is true
 1. Punjab and Bengal could be partitioned.  
 2. Transfer of power was fixed for 15 August 1947.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -959,7 +1181,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. Vinoba Bhave was the first Individual Satyagrahi.  
 2. Individual Satyagraha began in October 1940.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -976,7 +1204,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. League joins Interim — 26 October 1946  
 3. Cabinet Mission Plan — 16 May 1942
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -992,7 +1226,13 @@ Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
 1. Congress ministries resigned in 1939.  
 2. Britain had declared India at war without consulting Congress.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1005,7 +1245,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q38.** Arrange: 1. Bose escape from India  2. Forward Bloc  3. Azad Hind Government  4. INA Trials
 
-Options: A. 2, 1, 3, 4  B. 1, 2, 3, 4  C. 2, 1, 4, 3  D. 2, 3, 1, 4
+A. 2, 1, 3, 4
+
+B. 1, 2, 3, 4
+
+C. 2, 1, 4, 3
+
+D. 2, 3, 1, 4
 
 <details>
 <summary>Show answer</summary>
@@ -1021,7 +1267,13 @@ Options: A. 2, 1, 3, 4  B. 1, 2, 3, 4  C. 2, 1, 4, 3  D. 2, 3, 1, 4
 1. Kanaklata Barua is associated with Quit India in Assam.  
 2. Matangini Hazra is associated with Tamluk in 1942.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1034,7 +1286,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q40.** Which of the following is NOT correctly matched?
 
-Options: A. Pethick-Lawrence — Cabinet Mission  B. Stafford Cripps — Cripps Mission 1942  C. A.V. Alexander — Cabinet Mission  D. Cripps Mission — 16 May 1946 plan
+A. Pethick-Lawrence — Cabinet Mission
+
+B. Stafford Cripps — Cripps Mission 1942
+
+C. A.V. Alexander — Cabinet Mission
+
+D. Cripps Mission — 16 May 1946 plan
 
 <details>
 <summary>Show answer</summary>
@@ -1050,7 +1308,13 @@ Options: A. Pethick-Lawrence — Cabinet Mission  B. Stafford Cripps — Cripps 
 1. The Independence Act ended British paramountcy.  
 2. Full integration of states is the next topic’s story (Patel/Menon).
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1066,7 +1330,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. Ballia  B. Tamluk  C. Satara  D. Gowalia Tank  
 **List-II** 1. Nana Patil  2. Chittu Pandey  3. Bombay QI  4. Midnapore
 
-Options: A. 2 4 1 3  B. 2 4 3 1  C. 4 2 1 3  D. 2 1 4 3
+A. 2 4 1 3
+
+B. 2 4 3 1
+
+C. 4 2 1 3
+
+D. 2 1 4 3
 
 <details>
 <summary>Show answer</summary>
@@ -1101,7 +1371,13 @@ D. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 1. Nehru never formally joined the CSP.  
 2. Forward Bloc was founded by Bose after Tripuri.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1118,7 +1394,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Do or Die — Gandhi, 1942  
 3. Do or Die — Bose, INA
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1142,7 +1424,13 @@ Consider the following events and arrange them in correct chronological order.
 3. Shimla Conference  
 4. Wavell Plan
 
-Options: A. 1, 4, 3, 2  B. 4, 1, 2, 3  C. 4, 1, 3, 2  D. 1, 4, 2, 3
+A. 1, 4, 3, 2
+
+B. 4, 1, 2, 3
+
+C. 4, 1, 3, 2
+
+D. 1, 4, 2, 3
 
 <details>
 <summary>Show answer</summary>
@@ -1162,7 +1450,13 @@ Consider the following events and arrange them in correct chronological order st
 3. Formation of Interim Government  
 4. Arrival of a UK Parliamentary Delegation in Delhi
 
-Options: A. 4, 3, 2, 1  B. 4, 1, 2, 3  C. 4, 2, 1, 3  D. 2, 4, 1, 3
+A. 4, 3, 2, 1
+
+B. 4, 1, 2, 3
+
+C. 4, 2, 1, 3
+
+D. 2, 4, 1, 3
 
 <details>
 <summary>Show answer</summary>
@@ -1180,7 +1474,13 @@ Consider the following events and arrange them in chronological order:
 3. Ramgarh Congress Session  
 4. Resignation letters of Congress Ministers
 
-Options: A. 3, 1, 4, 2  B. 4, 3, 1, 2  C. 1, 3, 4, 2  D. 4, 2, 3, 1
+A. 3, 1, 4, 2
+
+B. 4, 3, 1, 2
+
+C. 1, 3, 4, 2
+
+D. 4, 2, 3, 1
 
 <details>
 <summary>Show answer</summary>
@@ -1195,7 +1495,13 @@ Options: A. 3, 1, 4, 2  B. 4, 3, 1, 2  C. 1, 3, 4, 2  D. 4, 2, 3, 1
 
 What was the name of the women's regiment constituted as a part of the **Azad Hind Fauj** by Netaji Subhas Chandra Bose?
 
-Options: A. Rani Bhabani Regiment  B. Rani Jhansi Regiment  C. Bharat Mata Regiment  D. Veerangana Regiment
+A. Rani Bhabani Regiment
+
+B. Rani Jhansi Regiment
+
+C. Bharat Mata Regiment
+
+D. Veerangana Regiment
 
 <details>
 <summary>Show answer</summary>
@@ -1208,7 +1514,13 @@ Options: A. Rani Bhabani Regiment  B. Rani Jhansi Regiment  C. Bharat Mata Regim
 
 Who among the following women freedom fighters was **not associated** with the **Quit India Movement**?
 
-Options: A. Matangini Hazra  B. Aruna Asaf Ali  C. Kanaklata Barua  D. Shanti Ghosh
+A. Matangini Hazra
+
+B. Aruna Asaf Ali
+
+C. Kanaklata Barua
+
+D. Shanti Ghosh
 
 <details>
 <summary>Show answer</summary>
@@ -1223,7 +1535,13 @@ Options: A. Matangini Hazra  B. Aruna Asaf Ali  C. Kanaklata Barua  D. Shanti Gh
 
 The trial of the Officers of the I.N.A. was held in
 
-Options: A. Red Fort, Delhi  B. Gwalior Fort  C. Amer Fort, Jalpur  D. Agra Fort
+A. Red Fort, Delhi
+
+B. Gwalior Fort
+
+C. Amer Fort, Jalpur
+
+D. Agra Fort
 
 <details>
 <summary>Show answer</summary>
@@ -1236,7 +1554,13 @@ Options: A. Red Fort, Delhi  B. Gwalior Fort  C. Amer Fort, Jalpur  D. Agra Fort
 
 Who prepared "C.R. Formula" to remove the political deadlock between Muslim League and Indian National Congress?
 
-Options: A. Jawaharlal Nehru  B. Rajgopalachar  C. Chittaranjan Das  D. V. P. Menon
+A. Jawaharlal Nehru
+
+B. Rajgopalachar
+
+C. Chittaranjan Das
+
+D. V. P. Menon
 
 <details>
 <summary>Show answer</summary>

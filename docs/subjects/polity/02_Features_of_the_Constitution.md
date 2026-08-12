@@ -154,6 +154,7 @@ D. K. C. Wheare
 **PYQ — UPPCS Prelims 2020, Q126**
 
 **Assertion (A):** Indian federalism is called 'Quasi-federal'.  
+
 **Reason (R):** India has an independent judiciary with power of Judicial Review.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -273,6 +274,7 @@ D. 3 2 4 1
 **PYQ — UPPCS Prelims 2025, Q54**
 
 **Assertion (A):** India has a parliamentary system of government.  
+
 **Reason (R):** In India, the executive is responsible to the legislature.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
@@ -601,6 +603,7 @@ D. III, I, IV, II
 **PYQ — UPPCS Prelims 2025, Q47**
 
 **Assertion (A):** Public Interest Litigation is essential for the rule of law in India.  
+
 **Reason (R):** Public Interest Litigation provides effective access to justice to socially and economically weaker sections.
 
 A. Both true, R not explanation  
@@ -939,6 +942,7 @@ A. Only central planning  B. States competing on performance/investment  C. Abol
 
 **Q1. UPPCS Prelims 2025, Q54**  
 **Assertion (A):** India has a parliamentary system of government.  
+
 **Reason (R):** In India, the executive is responsible to the legislature.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
@@ -973,6 +977,7 @@ D. 1 and 2
 
 **Q3. UPPCS Prelims 2025, Q47**  
 **Assertion (A):** Public Interest Litigation is essential for the rule of law in India.  
+
 **Reason (R):** Public Interest Litigation provides effective access to justice to socially and economically weaker sections.
 
 A. Both true, R not explanation  
@@ -1114,6 +1119,7 @@ D. The Sajjan Singh Case in 1965
 
 **Q11. UPPCS Prelims 2020, Q126**  
 **Assertion (A):** Indian federalism is called 'Quasi-federal'.  
+
 **Reason (R):** India has an independent judiciary with power of Judicial Review.
 
 A. Both true and R explains A  

@@ -638,6 +638,7 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 **Q7.** Given below are two statements:
 
 **Assertion (A):** Samudragupta uprooted the Aryavarta kings.  
+
 **Reason (R):** He annexed all twelve dakshinapatha kingdoms as Gupta bhuktis under uparikas.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -745,6 +746,7 @@ A. 1–3–4–2  B. 1–4–3–2  C. 3–1–4–2  D. 1–3–2–4
 **Q13.** Given below are two statements:
 
 **Assertion (A):** 2022 keys Chandragupta II’s Shaka victory to silver coins.  
+
 **Reason (R):** Gupta gold dinaras weigh about 33 grains.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -864,6 +866,7 @@ A. Only one  B. Only two  C. All three  D. None
 **Q20.** Given below are two statements:
 
 **Assertion (A):** Gupta administration used samantas.  
+
 **Reason (R):** This made it more tightly centralised than the Mauryan amatya-state.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -987,6 +990,7 @@ A. 2 then 1  B. 1 then 2  C. Both identical annexation  D. Neither used
 **Q27.** Given below are two statements:
 
 **Assertion (A):** The Allahabad pillar carries Ashokan writing.  
+
 **Reason (R):** Prayag Prashasti is a Mauryan edict of Ashoka.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -1110,6 +1114,7 @@ A. Only one  B. Only two  C. All three  D. None
 **Q34.** Given below are two statements:
 
 **Assertion (A):** Vishnugopa of Kanchi appears in the Prayag Prashasti.  
+
 **Reason (R):** He was uprooted and his land became a Gupta bhukti.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -1232,6 +1237,7 @@ A. Only 2  B. Only 1  C. Both 1 and 2  D. Neither
 **Q41.** Given below are two statements:
 
 **Assertion (A):** Ajanta’s painted caves are often Vakataka.  
+
 **Reason (R):** Therefore Sarnath Buddha cannot be Gupta.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -1374,6 +1380,7 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 **Q49.** Given below are two statements:
 
 **Assertion (A):** 2018 Q87 answer is 3-1-4-2.  
+
 **Reason (R):** Vishnugopa is matched with Kanchi.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  

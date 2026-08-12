@@ -444,6 +444,7 @@ A. Shri Santhanam  B. Shri K.C. Neogy  C. Dr. Raj Mannar  D. Shri A.K. Chanda
 **PYQ — UPPCS Prelims 2021, Q88**
 
 **Assertion (A):** The President of India determines the qualifications of the Chairman and Members of the Finance Commission.  
+
 **Reason (R):** Chairman and members are appointed by the President of India.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -945,7 +946,10 @@ D. Proclamation of Emergency under Article 250
 
 </details>
 
-**Q6.** **Assertion (A):** A State law on a Concurrent subject may prevail in that State even if it is repugnant to an earlier Union law.  
+**Q6.**
+
+**Assertion (A):** A State law on a Concurrent subject may prevail in that State even if it is repugnant to an earlier Union law.
+
 **Reason (R):** Article 254(2) saves such a State law if it was reserved for the President and received his assent.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1018,7 +1022,10 @@ A. Only one  B. Only two  C. All three  D. None
 
 </details>
 
-**Q12.** **Assertion (A):** Article 365 can lead to President’s Rule.  
+**Q12.**
+
+**Assertion (A):** Article 365 can lead to President’s Rule.
+
 **Reason (R):** Failure of a State to comply with Union directions may be treated as a situation in which the State government cannot be carried on in accordance with the Constitution.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1115,7 +1122,10 @@ D. Eleventh Finance Commission — A.M. Khusro
 
 </details>
 
-**Q20.** **Assertion (A):** Article 275 grants are charged on the Consolidated Fund of India.  
+**Q20.**
+
+**Assertion (A):** Article 275 grants are charged on the Consolidated Fund of India.
+
 **Reason (R):** Article 282 grants can be made by the Union or a State for any public purpose.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1247,7 +1257,10 @@ A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
 
 </details>
 
-**Q31.** **Assertion (A):** The Union may issue directions to a State for the construction of means of communication of national or military importance.  
+**Q31.**
+
+**Assertion (A):** The Union may issue directions to a State for the construction of means of communication of national or military importance.
+
 **Reason (R):** Article 257 expressly authorises such directions.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1354,7 +1367,10 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 </details>
 
-**Q40.** **Assertion (A):** Inter-State migration is a Union List subject.  
+**Q40.**
+
+**Assertion (A):** Inter-State migration is a Union List subject.
+
 **Reason (R):** Entry 81 of the Union List mentions inter-State migration and inter-State quarantine.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1444,7 +1460,10 @@ A. A-2, B-3, C-1, D-4  B. A-2, B-1, C-3, D-4  C. A-3, B-2, C-1, D-4  D. A-2, B-3
 
 </details>
 
-**Q47.** **Assertion (A):** NITI Aayog is not a substitute for the Finance Commission.  
+**Q47.**
+
+**Assertion (A):** NITI Aayog is not a substitute for the Finance Commission.
+
 **Reason (R):** NITI Aayog is an extra-constitutional body; the Finance Commission is a constitutional body under Article 280.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1528,7 +1547,10 @@ A. Only 2  B. 1 and 2 only  C. 2 and 3 only  D. 1, 2 and 3
 
 </details>
 
-**Q54.** **Assertion (A):** The Supreme Court has no original jurisdiction over inter-State river water disputes if Parliament so provides.  
+**Q54.**
+
+**Assertion (A):** The Supreme Court has no original jurisdiction over inter-State river water disputes if Parliament so provides.
+
 **Reason (R):** Article 262(2) permits Parliament to bar the Supreme Court and other courts, and the 1956 Act did so.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1631,7 +1653,10 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 </details>
 
-**Q62.** **Assertion (A):** The Rajamannar Committee recommended abolition of the All-India Services.  
+**Q62.**
+
+**Assertion (A):** The Rajamannar Committee recommended abolition of the All-India Services.
+
 **Reason (R):** The Sarkaria Commission also recommended abolition of the IAS and IPS.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1735,7 +1760,10 @@ A. A-2, B-3, C-4, D-1  B. A-2, B-4, C-3, D-1  C. A-3, B-2, C-4, D-1  D. A-2, B-3
 
 </details>
 
-**Q70.** **Assertion (A):** Finance Commission is not the Inter-State Council.  
+**Q70.**
+
+**Assertion (A):** Finance Commission is not the Inter-State Council.
+
 **Reason (R):** Article 280 constitutes the Finance Commission; Article 263 constitutes (permits) the Inter-State Council.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1821,7 +1849,10 @@ D. Setting up of the Inter-State Council was unnecessary because 263 is optional
 
 </details>
 
-**Q77.** **Assertion (A):** The Punchhi Commission could not have been the body on whose recommendation the Inter-State Council was first set up.  
+**Q77.**
+
+**Assertion (A):** The Punchhi Commission could not have been the body on whose recommendation the Inter-State Council was first set up.
+
 **Reason (R):** The Council was constituted in 1990; Punchhi was appointed in 2007.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -2012,6 +2043,7 @@ A. Shri Santhanam  B. Shri K.C. Neogy  C. Dr. Raj Mannar  D. Shri A.K. Chanda
 
 **Q10. UPPCS Prelims 2021, Q88**  
 **Assertion (A):** The President of India determines the qualifications of the Chairman and Members of the Finance Commission.  
+
 **Reason (R):** Chairman and members are appointed by the President of India.  
 A. Both (A) and (R) true and (R) explains (A)  
 B. Both true, (R) does not explain (A)  

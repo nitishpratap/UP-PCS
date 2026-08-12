@@ -129,6 +129,7 @@ Part **XVIII**. Three proclamations + when FRs sleep (**358–359**) + the **44t
 **PYQ — UPPCS Prelims 2024, Q122**
 
 **Assertion (A):** Article 352 of the Indian Constitution deals with the declaration of an emergency.  
+
 **Reason (R):** An emergency may take place at any time.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
@@ -327,7 +328,10 @@ Governor’s 356 *recommendation* is a **discretion** (Art. **163**) — the loc
 
 > **Answers hidden.** **60 questions.** ≥60% multi-statement.
 
-**Q1.** **Assertion (A):** Article 352 of the Indian Constitution deals with the declaration of an Emergency.  
+**Q1.**
+
+**Assertion (A):** Article 352 of the Indian Constitution deals with the declaration of an Emergency.
+
 **Reason (R):** An Emergency may take place at any time.  
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
 B. (A) is false, but (R) is true  
@@ -402,7 +406,10 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 
 </details>
 
-**Q8.** **Assertion (A):** Article 19 is not automatically suspended during a National Emergency proclaimed on the ground of armed rebellion.  
+**Q8.**
+
+**Assertion (A):** Article 19 is not automatically suspended during a National Emergency proclaimed on the ground of armed rebellion.
+
 **Reason (R):** Article 358 operates only when the Emergency is on the ground of war or external aggression.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -520,7 +527,10 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 </details>
 
-**Q19.** **Assertion (A):** The President should not dissolve a State Assembly immediately on a 356 proclamation.  
+**Q19.**
+
+**Assertion (A):** The President should not dissolve a State Assembly immediately on a 356 proclamation.
+
 **Reason (R):** *Bommai* requires parliamentary approval before dissolution.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -633,7 +643,10 @@ A. Only one  B. Only two  C. All three  D. None
 
 </details>
 
-**Q30.** **Assertion (A):** Financial Emergency has never been declared in India.  
+**Q30.**
+
+**Assertion (A):** Financial Emergency has never been declared in India.
+
 **Reason (R):** Article 360 was deleted by the 44th Amendment.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -751,7 +764,10 @@ A. Only one  B. Only two  C. All three  D. None
 
 </details>
 
-**Q41.** **Assertion (A):** Article 355 is not itself President’s Rule.  
+**Q41.**
+
+**Assertion (A):** Article 355 is not itself President’s Rule.
+
 **Reason (R):** 355 is the Union’s duty to protect States; 356 is the proclamation that takes over a State.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -859,7 +875,10 @@ A. The Rajya Sabha Chairman  B. One-tenth of the total members of the Lok Sabha 
 
 </details>
 
-**Q51.** **Assertion (A):** A law made while Article 358 is in force is not protected if it has no connection with the Emergency.  
+**Q51.**
+
+**Assertion (A):** A law made while Article 358 is in force is not protected if it has no connection with the Emergency.
+
 **Reason (R):** The 44th Amendment required an emergency nexus / recital for 358–359 cover.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  

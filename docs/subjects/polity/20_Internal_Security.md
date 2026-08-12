@@ -650,7 +650,10 @@ A. 1968  B. 1978  C. **1986**  D. 2008
 
 </details>
 
-**Q13.** **Assertion (A):** SPG provides close protection to the Prime Minister.  
+**Q13.**
+
+**Assertion (A):** SPG provides close protection to the Prime Minister.
+
 **Reason (R):** SPG also means the Strategic Policy Group under the NSC.  
 A. Both true and R explains A  B. **Both true, R not explanation**  C. A true R false  D. A false R true
 
@@ -829,7 +832,10 @@ A. Only Navy  B. **Marine police + Coast Guard + Navy**  C. Only BSF  D. Only NS
 
 </details>
 
-**Q32.** **Assertion (A):** Assam Rifles is the oldest of this paramilitary family.  
+**Q32.**
+
+**Assertion (A):** Assam Rifles is the oldest of this paramilitary family.
+
 **Reason (R):** It was raised in 1965 along with BSF.  
 A. Both true and R explains A  B. Both true, R not explanation  C. **A true R false**  D. A false R true
 
@@ -981,7 +987,10 @@ A. Only Union ministries  B. **Certain private establishments on payment**  C. O
 
 </details>
 
-**Q48.** **Assertion (A):** Interpol’s National Central Bureau in India is the CBI.  
+**Q48.**
+
+**Assertion (A):** Interpol’s National Central Bureau in India is the CBI.
+
 **Reason (R):** Therefore RAW cannot collect external intelligence.  
 A. Both true and R explains A  B. Both true, R not explanation  C. **A true R false**  D. A false R true
 
@@ -1271,7 +1280,10 @@ A. Tripura AFSPA lifted — 2015  B. Punjab AFSPA Act — repealed 1997  C. AFSP
 
 </details>
 
-**Q79.** **Assertion (A):** *EEVEFA* (2016) said AFSPA is not a licence for fake encounters.  
+**Q79.**
+
+**Assertion (A):** *EEVEFA* (2016) said AFSPA is not a licence for fake encounters.
+
 **Reason (R):** Therefore AFSPA was struck down in its entirety.  
 A. Both true and R explains A  B. Both true, R not explanation  C. **A true R false**  D. A false R true
 
@@ -1384,7 +1396,10 @@ A. Local chowkidar  B. **Assam Rifles / Army as notified**  C. GeM  D. CIC
 
 </details>
 
-**Q91.** **Assertion (A):** UAPA 2019 created a Fourth Schedule for individuals.  
+**Q91.**
+
+**Assertion (A):** UAPA 2019 created a Fourth Schedule for individuals.
+
 **Reason (R):** Before 2019 only organisations could be listed as terrorist organisations.  
 A. **Both true and R explains A**  B. Both true, R not explanation  C. A true R false  D. A false R true
 

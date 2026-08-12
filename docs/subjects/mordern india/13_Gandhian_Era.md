@@ -104,7 +104,13 @@ Consider the following events and arrange them in correct chronological order.
 3. Gandhi-Irwin Pact  
 4. Second Round Table Conference
 
-Options: A. 3, 4, 2, 1  B. 4, 3, 1, 2  C. 4, 3, 2, 1  D. 3, 4, 1, 2
+A. 3, 4, 2, 1
+
+B. 4, 3, 1, 2
+
+C. 4, 3, 2, 1
+
+D. 3, 4, 1, 2
 
 <details>
 <summary>Show answer</summary>
@@ -209,7 +215,13 @@ Options: A. 3, 4, 2, 1  B. 4, 3, 1, 2  C. 4, 3, 2, 1  D. 3, 4, 1, 2
 
 Who returned the 'Knighthood' title to the British Government in reaction against the Jallianwala Bagh Massacre?
 
-Options: A. Md. Ali Jinnah  B. Rabindranath Tagore  C. Rameshwar Singh  D. Shankaran Nair
+A. Md. Ali Jinnah
+
+B. Rabindranath Tagore
+
+C. Rameshwar Singh
+
+D. Shankaran Nair
 
 <details>
 <summary>Show answer</summary>
@@ -227,7 +239,13 @@ Who among the following resigned from the Viceroy's Executive Council in protest
 3. Muhammad Shafi  
 4. Iqbal Narayan Gurtu
 
-Options: A. 2 and 3  B. Only 4  C. 3 and 4  D. Only 1
+A. 2 and 3
+
+B. Only 4
+
+C. 3 and 4
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -318,7 +336,13 @@ II. Nehru Report
 III. Constitution of Simon Commission  
 IV. Dandi March
 
-Options: A. III, II, I and IV  B. I, II, III and IV  C. IV, III, II and I  D. I, IV, II and III
+A. III, II, I and IV
+
+B. I, II, III and IV
+
+C. IV, III, II and I
+
+D. I, IV, II and III
 
 <details>
 <summary>Show answer</summary>
@@ -363,7 +387,13 @@ Options: A. III, II, I and IV  B. I, II, III and IV  C. IV, III, II and I  D. I,
 
 The name of the foreign journalist who reported about Satyagraha at Dharsana salt works was
 
-Options: A. Francis Louis  B. Mark Tully  C. Web Miller  D. Philip Sprat
+A. Francis Louis
+
+B. Mark Tully
+
+C. Web Miller
+
+D. Philip Sprat
 
 <details>
 <summary>Show answer</summary>
@@ -392,7 +422,13 @@ Options: A. Francis Louis  B. Mark Tully  C. Web Miller  D. Philip Sprat
 
 Who among the following leaders did NOT participated in the Second Round Table Conference?
 
-Options: A. M.K. Gandhi  B. Sarojini Naidu  C. Pt. Madan Mohan Malviya  D. Dr. Rajendra Prasad
+A. M.K. Gandhi
+
+B. Sarojini Naidu
+
+C. Pt. Madan Mohan Malviya
+
+D. Dr. Rajendra Prasad
 
 <details>
 <summary>Show answer</summary>
@@ -433,7 +469,13 @@ Options: A. M.K. Gandhi  B. Sarojini Naidu  C. Pt. Madan Mohan Malviya  D. Dr. R
 
 Which of the following is NOT correctly matched? (Event) (Year)
 
-Options: A. Indian Navy Act 1927  B. Civil Disobedience 1930 Movement  C. Second Round Table 1931 Conference  D. The Communal Award 1933
+A. Indian Navy Act 1927
+
+B. Civil Disobedience 1930 Movement
+
+C. Second Round Table 1931 Conference
+
+D. The Communal Award 1933
 
 <details>
 <summary>Show answer</summary>
@@ -460,7 +502,13 @@ In the contexts of Indian history, which of the following statement/s is/are cor
 1. It was a satyagraha against untouchability and caste discrimination.  
 2. Mahatma Gandhi participated in this Satyagraha.
 
-Options: A. 1 only  B. 2 only  C. Both 1 and 2  D. Neither 1 nor 2
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -489,7 +537,13 @@ Options: A. 1 only  B. 2 only  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q1.** Arrange: 1. Poona Pact  2. End of CDM  3. Gandhi-Irwin Pact  4. Second RTC
 
-Options: A. 3, 4, 2, 1  B. 4, 3, 1, 2  C. 4, 3, 2, 1  D. 3, 4, 1, 2
+A. 3, 4, 2, 1
+
+B. 4, 3, 1, 2
+
+C. 4, 3, 2, 1
+
+D. 3, 4, 1, 2
 
 <details>
 <summary>Show answer</summary>
@@ -502,7 +556,13 @@ Options: A. 3, 4, 2, 1  B. 4, 3, 1, 2  C. 4, 3, 2, 1  D. 3, 4, 1, 2
 
 **Q2.** Arrange: I. Sharda Act  II. Nehru Report  III. Simon Commission  IV. Dandi March
 
-Options: A. III, II, I and IV  B. I, II, III and IV  C. IV, III, II and I  D. I, IV, II and III
+A. III, II, I and IV
+
+B. I, II, III and IV
+
+C. IV, III, II and I
+
+D. I, IV, II and III
 
 <details>
 <summary>Show answer</summary>
@@ -515,7 +575,13 @@ Options: A. III, II, I and IV  B. I, II, III and IV  C. IV, III, II and I  D. I,
 
 **Q3.** Who returned the Knighthood after Jallianwala Bagh?
 
-Options: A. Md. Ali Jinnah  B. Rabindranath Tagore  C. Rameshwar Singh  D. Shankaran Nair
+A. Md. Ali Jinnah
+
+B. Rabindranath Tagore
+
+C. Rameshwar Singh
+
+D. Shankaran Nair
 
 <details>
 <summary>Show answer</summary>
@@ -530,7 +596,13 @@ Options: A. Md. Ali Jinnah  B. Rabindranath Tagore  C. Rameshwar Singh  D. Shank
 
 1. Chettur Sankaran Nair  2. Ishwari Prasad  3. Muhammad Shafi  4. Iqbal Narayan Gurtu
 
-Options: A. 2 and 3  B. Only 4  C. 3 and 4  D. Only 1
+A. 2 and 3
+
+B. Only 4
+
+C. 3 and 4
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -543,7 +615,13 @@ Options: A. 2 and 3  B. Only 4  C. 3 and 4  D. Only 1
 
 **Q5.** Who did NOT participate in the Second Round Table Conference?
 
-Options: A. M.K. Gandhi  B. Sarojini Naidu  C. Pt. Madan Mohan Malviya  D. Dr. Rajendra Prasad
+A. M.K. Gandhi
+
+B. Sarojini Naidu
+
+C. Pt. Madan Mohan Malviya
+
+D. Dr. Rajendra Prasad
 
 <details>
 <summary>Show answer</summary>
@@ -556,7 +634,13 @@ Options: A. M.K. Gandhi  B. Sarojini Naidu  C. Pt. Madan Mohan Malviya  D. Dr. R
 
 **Q6.** The foreign journalist who reported Dharasana salt satyagraha was
 
-Options: A. Francis Louis  B. Mark Tully  C. Web Miller  D. Philip Sprat
+A. Francis Louis
+
+B. Mark Tully
+
+C. Web Miller
+
+D. Philip Sprat
 
 <details>
 <summary>Show answer</summary>
@@ -569,7 +653,13 @@ Options: A. Francis Louis  B. Mark Tully  C. Web Miller  D. Philip Sprat
 
 **Q7.** Which of the following is NOT correctly matched?
 
-Options: A. Indian Navy Act 1927  B. Civil Disobedience 1930  C. Second RTC 1931  D. Communal Award 1933
+A. Indian Navy Act 1927
+
+B. Civil Disobedience 1930
+
+C. Second RTC 1931
+
+D. Communal Award 1933
 
 <details>
 <summary>Show answer</summary>
@@ -582,7 +672,13 @@ Options: A. Indian Navy Act 1927  B. Civil Disobedience 1930  C. Second RTC 1931
 
 **Q8.** Arrange: I. Poona Pact  II. Gandhi-Irwin Pact  III. Cripps Mission  IV. Civil Disobedience Movement
 
-Options: A. IV, II, III, I  B. II, IV, I, III  C. IV, II, I, III  D. III, I, IV, II
+A. IV, II, III, I
+
+B. II, IV, I, III
+
+C. IV, II, I, III
+
+D. III, I, IV, II
 
 <details>
 <summary>Show answer</summary>
@@ -598,7 +694,13 @@ Options: A. IV, II, III, I  B. II, IV, I, III  C. IV, II, I, III  D. III, I, IV,
 1. Tinkathia meant indigo on 3/20 of the holding.  
 2. Raj Kumar Shukla brought Gandhi to Champaran.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -614,7 +716,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. It was against untouchability and caste discrimination.  
 2. Gandhi participated in it.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -649,7 +757,13 @@ D. (A) is false, but (R) is true
 **List-I** A. Champaran  B. Kheda  C. Ahmedabad mill  D. Dandi  
 **List-II** 1. 1918 revenue  2. 1917 indigo  3. 1930 salt  4. 1918 wages
 
-Options: A. 2 1 4 3  B. 2 1 3 4  C. 1 2 4 3  D. 2 4 1 3
+A. 2 1 4 3
+
+B. 2 1 3 4
+
+C. 1 2 4 3
+
+D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -665,7 +779,13 @@ Options: A. 2 1 4 3  B. 2 1 3 4  C. 1 2 4 3  D. 2 4 1 3
 1. It allowed detention without ordinary trial.  
 2. It is the same as the Government of India Act, 1919.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -681,7 +801,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. Tagore returned his knighthood after Jallianwala.  
 2. Sankaran Nair returned his knighthood after Jallianwala.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -694,7 +820,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q15.** Which of the following pairs is NOT correctly matched?
 
-Options: A. Swaraj Party — C.R. Das and Motilal Nehru  B. Nehru Report — Motilal Nehru  C. Lahore 1929 — Jawaharlal Nehru  D. Nehru Report — Jawaharlal Nehru as author
+A. Swaraj Party — C.R. Das and Motilal Nehru
+
+B. Nehru Report — Motilal Nehru
+
+C. Lahore 1929 — Jawaharlal Nehru
+
+D. Nehru Report — Jawaharlal Nehru as author
 
 <details>
 <summary>Show answer</summary>
@@ -710,7 +842,13 @@ Options: A. Swaraj Party — C.R. Das and Motilal Nehru  B. Nehru Report — Mot
 1. It was adopted at the Lahore session, 1929.  
 2. 26 January 1930 was observed as Independence Day.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -726,7 +864,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. 1st RTC  B. 2nd RTC  C. Communal Award  D. Poona Pact  
 **List-II** 1. 16 Aug 1932  2. 1930–31 Congress absent  3. 24 Sep 1932  4. Gandhi sole Congress rep
 
-Options: A. 2 4 1 3  B. 2 4 3 1  C. 4 2 1 3  D. 2 1 4 3
+A. 2 4 1 3
+
+B. 2 4 3 1
+
+C. 4 2 1 3
+
+D. 2 1 4 3
 
 <details>
 <summary>Show answer</summary>
@@ -742,7 +886,13 @@ Options: A. 2 4 1 3  B. 2 4 3 1  C. 4 2 1 3  D. 2 1 4 3
 1. It was signed on 5 March 1931.  
 2. CDM was to be suspended and Gandhi was to attend the 2nd RTC.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -758,7 +908,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. The Communal Award gave separate electorates to Depressed Classes.  
 2. The Poona Pact replaced that with reserved seats in joint electorates.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -773,7 +929,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 1. Chauri Chaura — Gorakhpur  2. Dandi March started — 12 March 1930  3. Jallianwala — 13 April 1920
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -808,7 +970,13 @@ D. (A) is false, but (R) is true
 1. It had no Indian member.  
 2. It was appointed in November 1927.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -824,7 +992,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. Swarajists wanted council entry after NCM.  
 2. No-changers wanted only constructive work.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -840,7 +1014,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. Natal Indian Congress  B. Hind Swaraj  C. Sabarmati Ashram  D. Belgaum Congress  
 **List-II** 1. 1909  2. 1894  3. 1924 Gandhi president  4. After 1915 return
 
-Options: A. 2 1 4 3  B. 2 1 3 4  C. 1 2 4 3  D. 2 4 1 3
+A. 2 1 4 3
+
+B. 2 1 3 4
+
+C. 1 2 4 3
+
+D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -856,7 +1036,13 @@ Options: A. 2 1 4 3  B. 2 1 3 4  C. 1 2 4 3  D. 2 4 1 3
 1. It was allied with Non-Cooperation in 1920–22.  
 2. Mohammad Ali and Shaukat Ali were leading figures.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -869,7 +1055,15 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q26.** Which of the following is NOT correctly matched?
 
-Options: A. Dharasana — Webb Miller  B. Vedaranyam — C. Rajagopalachari  C. Dandi March — 12 March 1930 start  D. Dandi March — 12 March 1929 start
+A. Dharasana — Webb Miller
+
+B. Vedaranyam —
+
+C. Rajagopalachari
+
+C. Dandi March — 12 March 1930 start
+
+D. Dandi March — 12 March 1929 start
 
 <details>
 <summary>Show answer</summary>
@@ -882,7 +1076,13 @@ Options: A. Dharasana — Webb Miller  B. Vedaranyam — C. Rajagopalachari  C. 
 
 **Q27.** Arrange: 1. Rowlatt Act  2. Jallianwala  3. NCM launch climate  4. Chauri Chaura
 
-Options: A. 1, 2, 3, 4  B. 2, 1, 3, 4  C. 1, 2, 4, 3  D. 1, 3, 2, 4
+A. 1, 2, 3, 4
+
+B. 2, 1, 3, 4
+
+C. 1, 2, 4, 3
+
+D. 1, 3, 2, 4
 
 <details>
 <summary>Show answer</summary>
@@ -898,7 +1098,13 @@ Options: A. 1, 2, 3, 4  B. 2, 1, 3, 4  C. 1, 2, 4, 3  D. 1, 3, 2, 4
 1. Vallabhbhai Patel was President.  
 2. Congress adopted a Fundamental Rights resolution.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -914,7 +1120,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. Dominion Status was the Nehru Report demand.  
 2. Purna Swaraj replaced that as Congress goal at Lahore 1929.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -931,7 +1143,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Champaran — tinkathia  
 3. Kheda — salt law 1930
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -966,7 +1184,13 @@ D. (A) is false, but (R) is true
 1. He returned to India in 1915.  
 2. Gokhale is remembered as his political guru.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -982,7 +1206,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. Hunter Committee  B. Tilak Swaraj Fund  C. Eleven Points  D. Jinnah 14 Points  
 **List-II** 1. NCM finance  2. Jallianwala inquiry  3. 1929  4. Jan 1930 to Irwin
 
-Options: A. 2 1 4 3  B. 2 1 3 4  C. 1 2 4 3  D. 2 4 1 3
+A. 2 1 4 3
+
+B. 2 1 3 4
+
+C. 1 2 4 3
+
+D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -998,7 +1228,13 @@ Options: A. 2 1 4 3  B. 2 1 3 4  C. 1 2 4 3  D. 2 4 1 3
 1. Gandhi was the sole Congress representative at the 2nd RTC.  
 2. Congress attended the 1st RTC in full strength.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1011,7 +1247,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q35.** Which of the following is NOT correctly matched?
 
-Options: A. Poona Pact — 24 September 1932  B. Gandhi–Irwin — 5 March 1931  C. Jallianwala — 13 April 1919  D. Chauri Chaura — 5 February 1920
+A. Poona Pact — 24 September 1932
+
+B. Gandhi–Irwin — 5 March 1931
+
+C. Jallianwala — 13 April 1919
+
+D. Chauri Chaura — 5 February 1920
 
 <details>
 <summary>Show answer</summary>
@@ -1027,7 +1269,13 @@ Options: A. Poona Pact — 24 September 1932  B. Gandhi–Irwin — 5 March 1931
 1. It was launched with the salt satyagraha of 1930.  
 2. It was finally withdrawn around April 1934.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1040,7 +1288,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q37.** Arrange: 1. Death of Ferozeshah Mehta  2. Jallianwala  3. Simon Commission  4. Dandi March
 
-Options: A. 1, 2, 3, 4  B. 2, 1, 3, 4  C. 1, 2, 4, 3  D. 1, 3, 2, 4
+A. 1, 2, 3, 4
+
+B. 2, 1, 3, 4
+
+C. 1, 2, 4, 3
+
+D. 1, 3, 2, 4
 
 <details>
 <summary>Show answer</summary>
@@ -1056,7 +1310,13 @@ Options: A. 1, 2, 3, 4  B. 2, 1, 3, 4  C. 1, 2, 4, 3  D. 1, 3, 2, 4
 1. Satyagraha aims at converting the opponent.  
 2. Gandhi held that immoral means could still produce a moral Swaraj.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1072,7 +1332,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. Phoenix Settlement and Tolstoy Farm are South Africa ashrams.  
 2. Natal Indian Congress was founded in 1894.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1089,7 +1355,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Karachi 1931 — Patel President  
 3. Lahore 1929 — Motilal Nehru President
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1124,7 +1396,13 @@ D. (A) is false, but (R) is true
 1. It was signed in September 1932 after Gandhi’s Yeravada fast.  
 2. It retained MacDonald’s separate electorates for Depressed Classes.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1140,7 +1418,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. C.R. Das  B. Raj Kumar Shukla  C. Anasuya Sarabhai  D. Michael O’Dwyer  
 **List-II** 1. Champaran  2. Swaraj Party  3. Punjab Lt Governor 1919  4. Ahmedabad mill
 
-Options: A. 2 1 4 3  B. 2 1 3 4  C. 1 2 4 3  D. 2 4 1 3
+A. 2 1 4 3
+
+B. 2 1 3 4
+
+C. 1 2 4 3
+
+D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -1156,7 +1440,13 @@ Options: A. 2 1 4 3  B. 2 1 3 4  C. 1 2 4 3  D. 2 4 1 3
 1. NCM boycotted schools, courts and foreign cloth.  
 2. CDM’s opening symbol was the salt law.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1169,7 +1459,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q45.** Which of the following is NOT correctly matched?
 
-Options: A. Sharda Act — 1929  B. Nehru Report — 1928  C. Simon appointed — 1927  D. Purna Swaraj session — 1928
+A. Sharda Act — 1929
+
+B. Nehru Report — 1928
+
+C. Simon appointed — 1927
+
+D. Purna Swaraj session — 1928
 
 <details>
 <summary>Show answer</summary>
@@ -1193,7 +1489,13 @@ Consider the following events and arrange them in correct chronological order.
 3. Gandhi-Irwin Pact  
 4. Second Round Table Conference
 
-Options: A. 3, 4, 2, 1  B. 4, 3, 1, 2  C. 4, 3, 2, 1  D. 3, 4, 1, 2
+A. 3, 4, 2, 1
+
+B. 4, 3, 1, 2
+
+C. 4, 3, 2, 1
+
+D. 3, 4, 1, 2
 
 <details>
 <summary>Show answer</summary>
@@ -1211,7 +1513,13 @@ Who among the following resigned from the Viceroy's Executive Council in protest
 3. Muhammad Shafi  
 4. Iqbal Narayan Gurtu
 
-Options: A. 2 and 3  B. Only 4  C. 3 and 4  D. Only 1
+A. 2 and 3
+
+B. Only 4
+
+C. 3 and 4
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1226,7 +1534,13 @@ Options: A. 2 and 3  B. Only 4  C. 3 and 4  D. Only 1
 
 Who returned the 'Knighthood' title to the British Government in reaction against the Jallianwala Bagh Massacre?
 
-Options: A. Md. Ali Jinnah  B. Rabindranath Tagore  C. Rameshwar Singh  D. Shankaran Nair
+A. Md. Ali Jinnah
+
+B. Rabindranath Tagore
+
+C. Rameshwar Singh
+
+D. Shankaran Nair
 
 <details>
 <summary>Show answer</summary>
@@ -1246,7 +1560,13 @@ II. Nehru Report
 III. Constitution of Simon Commission  
 IV. Dandi March
 
-Options: A. III, II, I and IV  B. I, II, III and IV  C. IV, III, II and I  D. I, IV, II and III
+A. III, II, I and IV
+
+B. I, II, III and IV
+
+C. IV, III, II and I
+
+D. I, IV, II and III
 
 <details>
 <summary>Show answer</summary>
@@ -1259,7 +1579,13 @@ Options: A. III, II, I and IV  B. I, II, III and IV  C. IV, III, II and I  D. I,
 
 The name of the foreign journalist who reported about Satyagraha at Dharsana salt works was
 
-Options: A. Francis Louis  B. Mark Tully  C. Web Miller  D. Philip Sprat
+A. Francis Louis
+
+B. Mark Tully
+
+C. Web Miller
+
+D. Philip Sprat
 
 <details>
 <summary>Show answer</summary>
@@ -1275,7 +1601,13 @@ In the contexts of Indian history, which of the following statement/s is/are cor
 1. It was a satyagraha against untouchability and caste discrimination.  
 2. Mahatma Gandhi participated in this Satyagraha.
 
-Options: A. 1 only  B. 2 only  C. Both 1 and 2  D. Neither 1 nor 2
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1290,7 +1622,13 @@ Options: A. 1 only  B. 2 only  C. Both 1 and 2  D. Neither 1 nor 2
 
 Who among the following leaders did NOT participated in the Second Round Table Conference?
 
-Options: A. M.K. Gandhi  B. Sarojini Naidu  C. Pt. Madan Mohan Malviya  D. Dr. Rajendra Prasad
+A. M.K. Gandhi
+
+B. Sarojini Naidu
+
+C. Pt. Madan Mohan Malviya
+
+D. Dr. Rajendra Prasad
 
 <details>
 <summary>Show answer</summary>
@@ -1305,7 +1643,13 @@ Options: A. M.K. Gandhi  B. Sarojini Naidu  C. Pt. Madan Mohan Malviya  D. Dr. R
 
 Which of the following is NOT correctly matched? (Event) (Year)
 
-Options: A. Indian Navy Act 1927  B. Civil Disobedience 1930 Movement  C. Second Round Table 1931 Conference  D. The Communal Award 1933
+A. Indian Navy Act 1927
+
+B. Civil Disobedience 1930 Movement
+
+C. Second Round Table 1931 Conference
+
+D. The Communal Award 1933
 
 <details>
 <summary>Show answer</summary>
@@ -1323,7 +1667,13 @@ II. Jallianwala Bagh Massacre
 III. Mahatma Gandhi's Dandi March  
 IV. Death of Ferozshah Mehta
 
-Options: A. IV, II, I, III  B. I, II, IV, III  C. II, III, IV, I  D. IV, III, II, I
+A. IV, II, I, III
+
+B. I, II, IV, III
+
+C. II, III, IV, I
+
+D. IV, III, II, I
 
 <details>
 <summary>Show answer</summary>
@@ -1341,7 +1691,13 @@ II. Gandhi-Irvin Agreement
 III. Cripps Mission  
 IV. Civil Disobedience Movement
 
-Options: A. IV, II, III, I  B. II, IV, I, III  C. IV, II, I, III  D. III, I, IV, II
+A. IV, II, III, I
+
+B. II, IV, I, III
+
+C. IV, II, I, III
+
+D. III, I, IV, II
 
 <details>
 <summary>Show answer</summary>

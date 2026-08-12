@@ -392,6 +392,7 @@ Emergency clipped judicial review; Janata restored it. **Not** a before/after pa
 **PYQ — UPPCS Prelims 2019, Q104**
 
 **Assertion (A):** The Supreme Court of India has exclusive jurisdiction regarding Constitutional validity of Central laws.  
+
 **Reason (R):** The Supreme Court is the Guardian of the Indian Constitution.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -602,6 +603,7 @@ Power of courts to test **constitutionality** of legislative and executive actio
 **PYQ — UPPCS Prelims 2020, Q126**
 
 **Assertion (A):** Indian federalism is called ‘Quasi-federal’.  
+
 **Reason (R):** India has an independent judiciary with power of Judicial Review.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -695,6 +697,7 @@ D. A.S. Anand
 **PYQ — UPPCS Prelims 2025, Q47**
 
 **Assertion (A):** Public Interest Litigation is essential for the rule of law in India.  
+
 **Reason (R):** Public Interest Litigation provides effective access to justice to socially and economically weaker sections.
 
 A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
@@ -1066,7 +1069,10 @@ A. Only one  B. Only two  C. All three  D. None
 
 </details>
 
-**Q3.** **Assertion (A):** A distinguished jurist can be appointed a judge of a High Court.  
+**Q3.**
+
+**Assertion (A):** A distinguished jurist can be appointed a judge of a High Court.
+
 **Reason (R):** Article 217 does not contain a “distinguished jurist” clause.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1129,7 +1135,10 @@ A. 1 – 3 – 2 – 4  B. 1 – 2 – 3 – 4  C. 3 – 1 – 2 – 4  D. 1 –
 
 </details>
 
-**Q8.** **Assertion (A):** The Collegium system was created by the Second Judges Case.  
+**Q8.**
+
+**Assertion (A):** The Collegium system was created by the Second Judges Case.
+
 **Reason (R):** The First Judges Case had given primacy to the executive in appointments.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1206,7 +1215,10 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 </details>
 
-**Q14.** **Assertion (A):** A Special Leave Petition does not lie against a court or tribunal of the armed forces.  
+**Q14.**
+
+**Assertion (A):** A Special Leave Petition does not lie against a court or tribunal of the armed forces.
+
 **Reason (R):** Article 136 expressly excepts armed-forces courts from its sweep.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1281,7 +1293,10 @@ A. A-2, B-1, C-3, D-4  B. A-2, B-1, C-4, D-3  C. A-1, B-2, C-3, D-4  D. A-2, B-3
 
 </details>
 
-**Q20.** **Assertion (A):** Article 226 is wider than Article 32.  
+**Q20.**
+
+**Assertion (A):** Article 226 is wider than Article 32.
+
 **Reason (R):** A High Court may issue writs for the enforcement of legal rights other than Fundamental Rights.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1339,7 +1354,10 @@ A. Union vs a State  B. State vs State  C. Enforcement of a Fundamental Right  D
 
 </details>
 
-**Q25.** **Assertion (A):** The Supreme Court has exclusive jurisdiction over the constitutional validity of all Central laws.  
+**Q25.**
+
+**Assertion (A):** The Supreme Court has exclusive jurisdiction over the constitutional validity of all Central laws.
+
 **Reason (R):** Article 131A, inserted by the 42nd Amendment, was repealed by the 43rd Amendment.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1416,7 +1434,10 @@ A. Only one  B. Only two  C. All three  D. None
 
 </details>
 
-**Q31.** **Assertion (A):** The High Court controls posting and promotion of district judges.  
+**Q31.**
+
+**Assertion (A):** The High Court controls posting and promotion of district judges.
+
 **Reason (R):** Article 235 vests control over the subordinate courts in the High Court.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1530,7 +1551,10 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 </details>
 
-**Q40.** **Assertion (A):** The Supreme Court has exclusive original jurisdiction over the election of the President.  
+**Q40.**
+
+**Assertion (A):** The Supreme Court has exclusive original jurisdiction over the election of the President.
+
 **Reason (R):** Article 131 covers all disputes to which the Union is a party.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1579,7 +1603,10 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 
 </details>
 
-**Q44.** **Assertion (A):** Salaries of High Court judges are charged on the Consolidated Fund of India.  
+**Q44.**
+
+**Assertion (A):** Salaries of High Court judges are charged on the Consolidated Fund of India.
+
 **Reason (R):** Pensions of High Court judges are charged on the Consolidated Fund of India.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1694,7 +1721,10 @@ A. A-2, B-3, C-1, D-4  B. A-2, B-1, C-3, D-4  C. A-3, B-2, C-1, D-4  D. A-2, B-3
 
 </details>
 
-**Q53.** **Assertion (A):** Public Interest Litigation is essential for the rule of law in India.  
+**Q53.**
+
+**Assertion (A):** Public Interest Litigation is essential for the rule of law in India.
+
 **Reason (R):** Public Interest Litigation provides effective access to justice to socially and economically weaker sections.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1730,7 +1760,10 @@ A. Only 1  B. 1 and 2  C. 2 and 3  D. Only 3
 
 </details>
 
-**Q56.** **Assertion (A):** Indian federalism is called quasi-federal.  
+**Q56.**
+
+**Assertion (A):** Indian federalism is called quasi-federal.
+
 **Reason (R):** India has an independent judiciary with power of judicial review.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1833,7 +1866,10 @@ A. A-2, B-3, C-1, D-4  B. A-2, B-1, C-3, D-4  C. A-1, B-3, C-2, D-4  D. A-2, B-3
 
 </details>
 
-**Q64.** **Assertion (A):** Tribunals in India are dealt with in Part XI of the Constitution.  
+**Q64.**
+
+**Assertion (A):** Tribunals in India are dealt with in Part XI of the Constitution.
+
 **Reason (R):** Part XIVA was added by the 42nd Amendment.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1922,7 +1958,10 @@ A. A-2, B-3, C-4, D-1  B. A-2, B-3, C-1, D-4  C. A-3, B-2, C-4, D-1  D. A-2, B-4
 
 </details>
 
-**Q71.** **Assertion (A):** A Gram Nyayalaya is a court at the intermediate Panchayat level.  
+**Q71.**
+
+**Assertion (A):** A Gram Nyayalaya is a court at the intermediate Panchayat level.
+
 **Reason (R):** The Nyayadhikari is appointed by the State Government in consultation with the High Court.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1995,7 +2034,10 @@ A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
 
 </details>
 
-**Q77.** **Assertion (A):** *L. Chandra Kumar* (1997) treated administrative tribunals as substitutes for High Courts.  
+**Q77.**
+
+**Assertion (A):** *L. Chandra Kumar* (1997) treated administrative tribunals as substitutes for High Courts.
+
 **Reason (R):** Judicial review under Articles 226 and 227 is part of the basic structure.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -2087,7 +2129,10 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 </details>
 
-**Q84.** **Assertion (A):** Truth is never a defence to criminal contempt.  
+**Q84.**
+
+**Assertion (A):** Truth is never a defence to criminal contempt.
+
 **Reason (R):** The 2006 Amendment allows truth as a defence if it is in the public interest and bona fide.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -2158,7 +2203,10 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 </details>
 
-**Q90.** **Assertion (A):** A Fast Track Court is a forum of Alternative Dispute Resolution.  
+**Q90.**
+
+**Assertion (A):** A Fast Track Court is a forum of Alternative Dispute Resolution.
+
 **Reason (R):** Fast Track Courts were recommended by the 11th Finance Commission.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -2179,6 +2227,7 @@ D. (A) is false but (R) is true
 
 **Q1. UPPCS Prelims 2025, Q47**  
 **Assertion (A):** Public Interest Litigation is essential for the rule of law in India.  
+
 **Reason (R):** Public Interest Litigation provides effective access to justice to socially and economically weaker sections.  
 A. Both true, R not the explanation B. (A) false, (R) true C. (A) true, (R) false D. Both true and (R) is the correct explanation of (A)
 
@@ -2283,6 +2332,7 @@ A. Interstate Council – Article 263 B. Finance Commission – Article 280 C. A
 
 **Q10. UPPCS Prelims 2020, Q126**  
 **Assertion (A):** Indian federalism is called ‘Quasi-federal’.  
+
 **Reason (R):** India has an independent judiciary with power of Judicial Review.  
 A. Both true, R explains A B. Both true, R not the explanation C. A true, R false D. A false, R true
 
@@ -2296,6 +2346,7 @@ A. Both true, R explains A B. Both true, R not the explanation C. A true, R fals
 
 **Q11. UPPCS Prelims 2019, Q104**  
 **Assertion (A):** The Supreme Court of India has exclusive jurisdiction regarding Constitutional validity of Central laws.  
+
 **Reason (R):** The Supreme Court is the Guardian of the Indian Constitution.  
 A. Both true, R explains A B. Both true, R not the explanation C. A true, R false D. A false, R true
 

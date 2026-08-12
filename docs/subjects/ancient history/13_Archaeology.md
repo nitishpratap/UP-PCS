@@ -456,6 +456,7 @@ A. Dholavira and Bhagatrav  B. Harappa and Kot Diji  C. Mohenjo-daro and Lothal 
 **Q9.** Given below are two statements:
 
 **Assertion (A):** Daya Ram Sahni excavated Harappa in 1921.  
+
 **Reason (R):** Wheeler discovered the Indus civilization in 1946.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -563,6 +564,7 @@ A. 3–2–4–1  B. 3–4–2–1  C. 2–3–4–1  D. 3–2–1–4
 **Q15.** Given below are two statements:
 
 **Assertion (A):** Stratigraphy gives relative order.  
+
 **Reason (R):** C-14 gives a calendar-style date on organic carbon.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -651,6 +653,7 @@ A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
 **Q20.** Given below are two statements:
 
 **Assertion (A):** 2025 Q87 answer is 1 and 3.  
+
 **Reason (R):** Rakhigarhi lies in Haryana.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -758,6 +761,7 @@ A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
 **Q26.** Given below are two statements:
 
 **Assertion (A):** 2020 Q12 code is 3-2-4-1.  
+
 **Reason (R):** Hulas is in Gujarat.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -847,6 +851,7 @@ A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
 **Q31.** Given below are two statements:
 
 **Assertion (A):** AMASR Act 1958 protects monuments.  
+
 **Reason (R):** ASI is a state department of Uttar Pradesh only.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -953,6 +958,7 @@ A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
 **Q37.** Given below are two statements:
 
 **Assertion (A):** 2023 Q27 answer is A.  
+
 **Reason (R):** Gudiyam Cave is in Karnataka.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -1042,6 +1048,7 @@ A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
 **Q42.** Given below are two statements:
 
 **Assertion (A):** C-14 cannot date a copper chariot metal by itself.  
+
 **Reason (R):** The clock needs organic carbon that once lived.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  

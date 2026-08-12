@@ -205,7 +205,13 @@ With reference to Captain Hawkins, which of the following statement(s) is/are co
 1. He came to India in 1611 as an envoy of James I.  
 2. He was very well versed in the Turkish language.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -319,7 +325,13 @@ Early centres sat under **Mughal or local authority** — a trading centre ≠ s
 
 In India the First Municipal Corporation was set up in which one among the following places?
 
-Options: A. Calcutta  B. Madras  C. Bombay  D. Delhi
+A. Calcutta
+
+B. Madras
+
+C. Bombay
+
+D. Delhi
 
 <details>
 <summary>Show answer</summary>
@@ -396,7 +408,13 @@ With reference to the Treaty of Aix-la-Chapelle (1748), which of the following s
 
 Select the correct answer from the code given below:
 
-Options: A. Only 2  B. Neither 1 nor 2  C. Both 1 and 2  D. Only 1
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -432,7 +450,13 @@ Consider the following wars and arrange them in correct chronological order.
 
 Select the correct answer from the code given below:
 
-Options: A. 2, 1, 4, 3  B. 1, 2, 3, 4  C. 1, 2, 4, 3  D. 2, 1, 3, 4
+A. 2, 1, 4, 3
+
+B. 1, 2, 3, 4
+
+C. 1, 2, 4, 3
+
+D. 2, 1, 3, 4
 
 <details>
 <summary>Show answer</summary>
@@ -499,7 +523,13 @@ Ended the **Seven Years’ War** globally and closed the **Third Carnatic War** 
 
 Select the correct answer from the code given below:
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -519,7 +549,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 Select the correct answer from the code given below:
 
-Options: A. 1, 2 and 3 only  B. 2, 3 and 4 only  C. 1, 3 and 4 only  D. 1, 2, 3 and 4
+A. 1, 2 and 3 only
+
+B. 2, 3 and 4 only
+
+C. 1, 3 and 4 only
+
+D. 1, 2, 3 and 4
 
 <details>
 <summary>Show answer</summary>
@@ -535,7 +571,13 @@ Options: A. 1, 2 and 3 only  B. 2, 3 and 4 only  C. 1, 3 and 4 only  D. 1, 2, 3 
 1. Vasco da Gama captured Goa in 1498.  
 2. Shah Jahan expelled the Portuguese from Hooghly in 1632.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -553,7 +595,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 3. Foundation of the Dutch VOC  
 4. Vasco da Gama at Calicut
 
-Options: A. 4, 2, 3, 1  B. 4, 3, 2, 1  C. 2, 3, 4, 1  D. 4, 2, 1, 3
+A. 4, 2, 3, 1
+
+B. 4, 3, 2, 1
+
+C. 2, 3, 4, 1
+
+D. 4, 2, 1, 3
 
 <details>
 <summary>Show answer</summary>
@@ -595,7 +643,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Select the correct answer from the code given below:
 
-Options: A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -611,7 +665,13 @@ Options: A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 1. He reached India in 1608 and appeared at Jahangir’s court.  
 2. He was the official ambassador of James I throughout 1615–19.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -636,7 +696,13 @@ D. Goa
 3. French  
 4. Danish
 
-Options: A. 2 3 4 1  B. 3 2 4 1  C. 2 3 1 4  D. 4 3 2 1
+A. 2 3 4 1
+
+B. 3 2 4 1
+
+C. 2 3 1 4
+
+D. 4 3 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -655,7 +721,13 @@ Options: A. 2 3 4 1  B. 3 2 4 1  C. 2 3 1 4  D. 4 3 2 1
 
 How many of the above statements are correct?
 
-Options: A. Only one  B. Only two  C. All three  D. None
+A. Only one
+
+B. Only two
+
+C. All three
+
+D. None
 
 <details>
 <summary>Show answer</summary>
@@ -671,7 +743,13 @@ Options: A. Only one  B. Only two  C. All three  D. None
 1. The first permanent English factory was at Surat in 1612.  
 2. Bombay was leased to the EIC in 1668 after coming to the English Crown as dowry in 1661.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -708,7 +786,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 3. Defence of Arcot by Clive  
 4. Treaty of Paris
 
-Options: A. 2, 3, 1, 4  B. 3, 2, 1, 4  C. 2, 1, 3, 4  D. 2, 3, 4, 1
+A. 2, 3, 1, 4
+
+B. 3, 2, 1, 4
+
+C. 2, 1, 3, 4
+
+D. 2, 3, 4, 1
 
 <details>
 <summary>Show answer</summary>
@@ -724,7 +808,13 @@ Options: A. 2, 3, 1, 4  B. 3, 2, 1, 4  C. 2, 1, 3, 4  D. 2, 3, 4, 1
 1. It was linked to the War of Austrian Succession.  
 2. It ended with the Treaty of Paris (1763).
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -740,7 +830,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. The Battle of Bedara (1759) saw the English defeat the Dutch in Bengal.  
 2. The Battle of Colachel (1741) was fought between the English and the French.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -756,7 +852,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. Tranquebar was founded in 1620 and is identified with Fort Dansborg.  
 2. Denmark sold Tranquebar to the British in 1845.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -781,7 +883,13 @@ D. Battle of Bedara
 3. 1759  
 4. 1674
 
-Options: A. 2 1 4 3  B. 1 2 4 3  C. 2 1 3 4  D. 2 4 1 3
+A. 2 1 4 3
+
+B. 1 2 4 3
+
+C. 2 1 3 4
+
+D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -800,7 +908,13 @@ Options: A. 2 1 4 3  B. 1 2 4 3  C. 2 1 3 4  D. 2 4 1 3
 
 Which of the statements given above is/are correct?
 
-Options: A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -835,7 +949,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 1. The three Presidencies were Madras, Bombay and Bengal.  
 2. Fort St George is associated with Bombay.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -855,7 +975,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 3. Eyre Coote — Defence of Arcot (1751)  
 4. Count de Lally — French commander, Third Carnatic War
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 3 and 4  D. Only 2 and 3
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 3 and 4
+
+D. Only 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -871,7 +997,13 @@ Options: A. Only 3  B. Only 1 and 3  C. Only 3 and 4  D. Only 2 and 3
 1. He reached Calicut in 1498 and met the Zamorin.  
 2. He opened a direct Atlantic sea route for Portugal; he did not “discover” India.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -890,7 +1022,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 How many of the above statements are correct?
 
-Options: A. Only one  B. Only two  C. All three  D. None
+A. Only one
+
+B. Only two
+
+C. All three
+
+D. None
 
 <details>
 <summary>Show answer</summary>
@@ -906,7 +1044,13 @@ Options: A. Only one  B. Only two  C. All three  D. None
 1. It ended the Third Carnatic War / Seven Years’ War in the Indian context.  
 2. It restored Madras to the English after the 1746 French capture.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -923,7 +1067,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Ralph Fitch  
 3. William Hawkins
 
-Options: A. 2, 3, 1  B. 3, 2, 1  C. 2, 1, 3  D. 1, 3, 2
+A. 2, 3, 1
+
+B. 3, 2, 1
+
+C. 2, 1, 3
+
+D. 1, 3, 2
 
 <details>
 <summary>Show answer</summary>
@@ -956,7 +1106,13 @@ D. First Municipal Corporation in India — Delhi, 1911
 1. It was the Indian theatre of the Seven Years’ War.  
 2. The French permanently captured Madras in 1758–59.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -976,7 +1132,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 Which of the pairs given above are correctly matched?
 
-Options: A. 1, 3 and 4 only  B. 1, 2 and 3 only  C. 2, 3 and 4 only  D. 1, 2, 3 and 4
+A. 1, 3 and 4 only
+
+B. 1, 2 and 3 only
+
+C. 2, 3 and 4 only
+
+D. 1, 2, 3 and 4
 
 <details>
 <summary>Show answer</summary>
@@ -992,7 +1154,13 @@ Options: A. 1, 3 and 4 only  B. 1, 2 and 3 only  C. 2, 3 and 4 only  D. 1, 2, 3 
 1. Union with Spain (1580–1640) pulled Portugal into wars against the Dutch.  
 2. By the 17th century their main Indian holdings were Goa, Daman and Diu.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1027,7 +1195,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 1. Saltpetre from the Bihar–Bengal belt fed European gunpowder demand.  
 2. Coromandel ports specialised mainly in pepper, not cotton textiles.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1043,7 +1217,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. He was the first Portuguese Viceroy of India.  
 2. He captured Goa in 1510 and treated it as the capital of Estado da Índia.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1068,7 +1248,13 @@ D. Battle of Bedara
 3. Dupleix recalled 1754  
 4. Paris 1763
 
-Options: A. 2 3 4 1  B. 2 4 3 1  C. 3 2 4 1  D. 2 3 1 4
+A. 2 3 4 1
+
+B. 2 4 3 1
+
+C. 3 2 4 1
+
+D. 2 3 1 4
 
 <details>
 <summary>Show answer</summary>
@@ -1087,7 +1273,13 @@ Options: A. 2 3 4 1  B. 2 4 3 1  C. 3 2 4 1  D. 2 3 1 4
 
 Which of the statements given above is/are correct?
 
-Options: A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1103,7 +1295,13 @@ Options: A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 1. Pondicherry became the French headquarters in 1674 under François Martin.  
 2. Chandernagore was the principal Dutch factory in Bengal.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1120,7 +1318,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Battle of Adyar 1746 — English vs Hyder Ali  
 3. Battle of Wandiwash 1760 — Coote vs Lally
 
-Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
+A. Only 2
+
+B. Only 1 and 2
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1139,7 +1343,13 @@ Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
 
 How many of the above statements are correct?
 
-Options: A. Only one  B. Only two  C. All three  D. None
+A. Only one
+
+B. Only two
+
+C. All three
+
+D. None
 
 <details>
 <summary>Show answer</summary>
@@ -1155,7 +1365,13 @@ Options: A. Only one  B. Only two  C. All three  D. None
 1. It was fought in 1760 in the Carnatic (present-day Tamil Nadu).  
 2. Robert Clive defeated Siraj-ud-Daulah in this battle.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1172,7 +1388,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Recall of Dupleix (1754) and later mismanagement under Lally.  
 3. French possession of a larger Indian land-revenue base than Bengal after 1757.
 
-Options: A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1188,7 +1410,13 @@ Options: A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
 1. Europeans used both the Arabian Sea and Bay of Bengal coasts.  
 2. A trading centre in the 16th–17th centuries automatically meant full European sovereignty over the hinterland.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1207,7 +1435,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 Which of the statements given above is/are correct?
 
-Options: A. 1 and 3 only  B. 1 and 2 only  C. 2 and 3 only  D. 1, 2 and 3
+A. 1 and 3 only
+
+B. 1 and 2 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1257,7 +1491,13 @@ With reference to the Treaty of Aix-la-Chapelle (1748), which of the following s
 
 Select the correct answer from the code given below:
 
-Options: A. Only 2  B. Neither 1 nor 2  C. Both 1 and 2  D. Only 1
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1275,7 +1515,13 @@ With reference to Captain Hawkins, which of the following statement(s) is/are co
 1. He came to India in 1611 as an envoy of James I.  
 2. He was very well versed in the Turkish language.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1336,7 +1582,13 @@ D. III, II, IV and I
 
 In India the First Municipal Corporation was set up in which one among the following places?
 
-Options: A. Calcutta  B. Madras  C. Bombay  D. Delhi
+A. Calcutta
+
+B. Madras
+
+C. Bombay
+
+D. Delhi
 
 <details>
 <summary>Show answer</summary>
@@ -1354,7 +1606,13 @@ With reference to the Treaty of Aix-la-Chapelle (1748), which of the following s
 1. The First Carnatic War ended.  
 2. Madras was returned to the English.
 
-Options: A. 1 only  B. 2 only  C. Both 1 and 2  D. Neither 1 nor 2
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>

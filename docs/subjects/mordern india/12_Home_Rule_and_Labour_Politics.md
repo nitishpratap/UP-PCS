@@ -96,7 +96,13 @@ REGIONAL: Justice Party 1916 Madras — both 2024 Q13 statements true
 
 Which of the following events was the **last** in chronological order?
 
-Options: A. Home Rule Movement  B. Khilafat Movement  C. Jallianwala Bagh Massacre  D. Moplah Revolt
+A. Home Rule Movement
+
+B. Khilafat Movement
+
+C. Jallianwala Bagh Massacre
+
+D. Moplah Revolt
 
 <details>
 <summary>Show answer</summary>
@@ -187,7 +193,13 @@ Options: A. Home Rule Movement  B. Khilafat Movement  C. Jallianwala Bagh Massac
 
 Who of the following was sent as representative of labourers by Indian Government in the Washington Summit of I.L.O. in the year 1919?
 
-Options: A. V.P. Wadia  B. N.M. Joshi  C. C.F. Andrews  D. Joseph Baptista
+A. V.P. Wadia
+
+B. N.M. Joshi
+
+C. C.F. Andrews
+
+D. Joseph Baptista
 
 <details>
 <summary>Show answer</summary>
@@ -245,7 +257,13 @@ Consider the following statements with reference to the Workers and Peasants Par
 
 Which of the above statements is/are correct?
 
-Options: A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
+A. Both 1 and 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
@@ -258,7 +276,13 @@ Options: A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
 
 Who among the following was NOT associated with the Kanpur Conspiracy Case of 1924?
 
-Options: A. Muzaffar Ahmed  B. Nalini Gupta  C. Shaukat Usmani  D. M.A. Ansari
+A. Muzaffar Ahmed
+
+B. Nalini Gupta
+
+C. Shaukat Usmani
+
+D. M.A. Ansari
 
 <details>
 <summary>Show answer</summary>
@@ -292,7 +316,13 @@ Consider the following statements with reference to the Congress Socialist Party
 
 Which of the above statements is/are correct?
 
-Options: A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
+A. Both 1 and 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
@@ -324,7 +354,13 @@ Consider the following statements with reference to the Justice Party:
 
 Which of the above statements is/are correct?
 
-Options: A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
+A. Both 1 and 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
@@ -363,7 +399,13 @@ Options: A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
 **List-I** A. Tilak Home Rule League  B. Besant Home Rule League  C. Montagu Declaration  D. Besant INC President  
 **List-II** 1. Sep 1916  2. Apr 1916  3. Dec 1917  4. 20 Aug 1917
 
-Options: A. 2 1 4 3  B. 1 2 3 4  C. 2 1 3 4  D. 2 4 1 3
+A. 2 1 4 3
+
+B. 1 2 3 4
+
+C. 2 1 3 4
+
+D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -379,7 +421,13 @@ Options: A. 2 1 4 3  B. 1 2 3 4  C. 2 1 3 4  D. 2 4 1 3
 1. It opposed Congress by calling it a Brahmin-dominated organisation.  
 2. It claimed the same communal representation for non-Brahmins as Morley-Minto had given to Muslims.
 
-Options: A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
+A. Both 1 and 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
@@ -395,7 +443,13 @@ Options: A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
 1. It was formed in 1927 and given All-India form in that same packaging.  
 2. Its objective was to work within Congress and radicalise it.
 
-Options: A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
+A. Both 1 and 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
@@ -411,7 +465,13 @@ Options: A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
 1. It was formed in January 1934.  
 2. Jawaharlal Nehru formally joined this party.
 
-Options: A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
+A. Both 1 and 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
@@ -424,7 +484,13 @@ Options: A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
 
 **Q5.** Who was sent as labour representative to the ILO Washington Summit in 1919?
 
-Options: A. V.P. Wadia  B. N.M. Joshi  C. C.F. Andrews  D. Joseph Baptista
+A. V.P. Wadia
+
+B. N.M. Joshi
+
+C. C.F. Andrews
+
+D. Joseph Baptista
 
 <details>
 <summary>Show answer</summary>
@@ -440,7 +506,13 @@ Options: A. V.P. Wadia  B. N.M. Joshi  C. C.F. Andrews  D. Joseph Baptista
 **List-I** A. BMS  B. INTUC  C. UTUC  D. AITUC  
 **List-II** 1. INC  2. CPI  3. CPI(M)  4. BJP
 
-Options: A. 2 4 3 1  B. 4 1 3 2  C. 4 1 2 3  D. 1 4 3 2
+A. 2 4 3 1
+
+B. 4 1 3 2
+
+C. 4 1 2 3
+
+D. 1 4 3 2
 
 <details>
 <summary>Show answer</summary>
@@ -453,7 +525,13 @@ Options: A. 2 4 3 1  B. 4 1 3 2  C. 4 1 2 3  D. 1 4 3 2
 
 **Q7.** Which of the following events was the last in chronological order?
 
-Options: A. Home Rule Movement  B. Khilafat Movement  C. Jallianwala Bagh Massacre  D. Moplah Revolt
+A. Home Rule Movement
+
+B. Khilafat Movement
+
+C. Jallianwala Bagh Massacre
+
+D. Moplah Revolt
 
 <details>
 <summary>Show answer</summary>
@@ -466,7 +544,13 @@ Options: A. Home Rule Movement  B. Khilafat Movement  C. Jallianwala Bagh Massac
 
 **Q8.** Who among the following was NOT associated with the Kanpur Conspiracy Case of 1924?
 
-Options: A. Muzaffar Ahmed  B. Nalini Gupta  C. Shaukat Usmani  D. M.A. Ansari
+A. Muzaffar Ahmed
+
+B. Nalini Gupta
+
+C. Shaukat Usmani
+
+D. M.A. Ansari
 
 <details>
 <summary>Show answer</summary>
@@ -482,7 +566,13 @@ Options: A. Muzaffar Ahmed  B. Nalini Gupta  C. Shaukat Usmani  D. M.A. Ansari
 1. It was founded in April 1916 at Poona.  
 2. Joseph Baptista was its President.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -498,7 +588,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. It was founded in September 1916 at Madras/Adyar.  
 2. Its area included Bombay city.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -511,7 +607,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q11.** Which of the following pairs is NOT correctly matched?
 
-Options: A. Tilak League HQ — Poona  B. Besant League HQ — Madras  C. Tilak League area — included Bombay city  D. Besant internment — 1917
+A. Tilak League HQ — Poona
+
+B. Besant League HQ — Madras
+
+C. Tilak League area — included Bombay city
+
+D. Besant internment — 1917
 
 <details>
 <summary>Show answer</summary>
@@ -546,7 +648,13 @@ D. (A) is false, but (R) is true
 1. Madan Mohan Malaviya is the chief founder/organiser tag.  
 2. Lord Hardinge laid the foundation stone in February 1916.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -563,7 +671,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. BHU — 1916  
 3. BHU — 1906 with the National Council of Education
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -579,7 +693,13 @@ Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
 1. AITUC was founded in 1920.  
 2. INTUC was founded in 1920 as the Congress labour wing.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -595,7 +715,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. Central Hindu College  B. Kesari  C. New India  D. AITUC first president  
 **List-II** 1. Tilak  2. Besant  3. Lajpat Rai  4. Besant (1898 Banaras)
 
-Options: A. 4 1 2 3  B. 2 1 4 3  C. 4 2 1 3  D. 4 1 3 2
+A. 4 1 2 3
+
+B. 2 1 4 3
+
+C. 4 2 1 3
+
+D. 4 1 3 2
 
 <details>
 <summary>Show answer</summary>
@@ -608,7 +734,13 @@ Options: A. 4 1 2 3  B. 2 1 4 3  C. 4 2 1 3  D. 4 1 3 2
 
 **Q17.** Arrange: 1. Tilak Home Rule League  2. Besant Home Rule League  3. Montagu Declaration  4. CSP Bombay conference
 
-Options: A. 1, 2, 3, 4  B. 2, 1, 3, 4  C. 1, 2, 4, 3  D. 1, 3, 2, 4
+A. 1, 2, 3, 4
+
+B. 2, 1, 3, 4
+
+C. 1, 2, 4, 3
+
+D. 1, 3, 2, 4
 
 <details>
 <summary>Show answer</summary>
@@ -624,7 +756,13 @@ Options: A. 1, 2, 3, 4  B. 2, 1, 3, 4  C. 1, 2, 4, 3  D. 1, 3, 2, 4
 1. It was a socialist group inside Congress.  
 2. Acharya Narendra Dev and Jayaprakash Narayan were leading figures.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -659,7 +797,13 @@ D. (A) is false, but (R) is true
 1. N.C. Kelkar was President of Tilak’s Home Rule League.  
 2. Joseph Baptista was President of Tilak’s Home Rule League.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -672,7 +816,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q21.** Which of the following is NOT correctly matched?
 
-Options: A. Madras Labour Union — 1918  B. AITUC — 1920  C. BMS — 1955  D. ILO labour rep 1919 — Joseph Baptista
+A. Madras Labour Union — 1918
+
+B. AITUC — 1920
+
+C. BMS — 1955
+
+D. ILO labour rep 1919 — Joseph Baptista
 
 <details>
 <summary>Show answer</summary>
@@ -688,7 +838,13 @@ Options: A. Madras Labour Union — 1918  B. AITUC — 1920  C. BMS — 1955  D.
 1. It was issued on 20 August 1917.  
 2. It promised gradual development of self-governing institutions in India.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -704,7 +860,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. Justice Party  B. CSP  C. WPP All-India conference  D. CPI exam tag  
 **List-II** 1. 1934  2. 1916  3. 1925  4. 1928
 
-Options: A. 2 1 4 3  B. 2 1 3 4  C. 1 2 4 3  D. 2 4 1 3
+A. 2 1 4 3
+
+B. 2 1 3 4
+
+C. 1 2 4 3
+
+D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -720,7 +882,13 @@ Options: A. 2 1 4 3  B. 2 1 3 4  C. 1 2 4 3  D. 2 4 1 3
 1. Besant later opposed Gandhi’s Non-Cooperation methods.  
 2. Besant was the first woman Congress President.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -737,7 +905,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Central Hindu College — Besant  
 3. BHU founder tag — Lord Hardinge alone
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -753,7 +927,13 @@ Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
 1. CPI is a separate communist party.  
 2. CSP worked as a socialist group inside Congress.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -766,7 +946,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q27.** Arrange: 1. AITUC  2. ILO Washington (Joshi)  3. Madras Labour Union  4. Meerut Conspiracy
 
-Options: A. 3, 2, 1, 4  B. 2, 3, 1, 4  C. 3, 1, 2, 4  D. 3, 2, 4, 1
+A. 3, 2, 1, 4
+
+B. 2, 3, 1, 4
+
+C. 3, 1, 2, 4
+
+D. 3, 2, 4, 1
 
 <details>
 <summary>Show answer</summary>
@@ -801,7 +987,13 @@ D. (A) is false, but (R) is true
 1. In 1920 Gandhi became president of the All-India Home Rule League.  
 2. The league was renamed Swarajya Sabha.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -814,7 +1006,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q30.** Which of the following is NOT correctly matched?
 
-Options: A. Forward Bloc — 1939  B. Meerut Conspiracy — 1929  C. Kanpur Conspiracy — 1924  D. CSP — January 1934
+A. Forward Bloc — 1939
+
+B. Meerut Conspiracy — 1929
+
+C. Kanpur Conspiracy — 1924
+
+D. CSP — January 1934
 
 <details>
 <summary>Show answer</summary>
@@ -830,7 +1028,13 @@ Options: A. Forward Bloc — 1939  B. Meerut Conspiracy — 1929  C. Kanpur Cons
 1. Besant, Arundale and Wadia were interned in June 1917.  
 2. The internment reduced Home Rule to a tiny elite club with no public protest.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -846,7 +1050,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. Acharya Narendra Dev  B. Joseph Baptista  C. N.M. Joshi  D. P. Theagaraya Chetty  
 **List-II** 1. Justice Party circle  2. CSP  3. Tilak League President  4. ILO 1919
 
-Options: A. 2 3 4 1  B. 2 3 1 4  C. 3 2 4 1  D. 2 4 3 1
+A. 2 3 4 1
+
+B. 2 3 1 4
+
+C. 3 2 4 1
+
+D. 2 4 3 1
 
 <details>
 <summary>Show answer</summary>
@@ -862,7 +1072,13 @@ Options: A. 2 3 4 1  B. 2 3 1 4  C. 3 2 4 1  D. 2 4 3 1
 1. Tilak never presided over a Congress session.  
 2. Besant presided over the Calcutta session of 1917.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -879,7 +1095,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Justice Party — claimed Morley-Minto-style communal representation for non-Brahmins  
 3. Justice Party — founded by Annie Besant
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -895,7 +1117,13 @@ Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
 1. Its strategy was to work within Congress.  
 2. It is the same body as the Congress Socialist Party of 1934.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -911,7 +1139,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. BMS is linked with BJP.  
 2. AITUC is linked with CPI in the UPPCS map.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -924,7 +1158,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q37.** Which of the following is NOT correctly matched?
 
-Options: A. *New India* — Besant  B. *Commonweal* — Besant  C. *Kesari* — Tilak  D. *Commonweal* — Tilak
+A. *New India* — Besant
+
+B. *Commonweal* — Besant
+
+C. *Kesari* — Tilak
+
+D. *Commonweal* — Tilak
 
 <details>
 <summary>Show answer</summary>
@@ -937,7 +1177,13 @@ Options: A. *New India* — Besant  B. *Commonweal* — Besant  C. *Kesari* — 
 
 **Q38.** Arrange: 1. Central Hindu College  2. BHU foundation stone  3. NCE  4. Wardha Scheme
 
-Options: A. 1, 3, 2, 4  B. 3, 1, 2, 4  C. 1, 2, 3, 4  D. 3, 1, 4, 2
+A. 1, 3, 2, 4
+
+B. 3, 1, 2, 4
+
+C. 1, 2, 3, 4
+
+D. 3, 1, 4, 2
 
 <details>
 <summary>Show answer</summary>
@@ -972,7 +1218,13 @@ D. (A) is false, but (R) is true
 1. Lala Lajpat Rai was associated with the first presidentship of AITUC.  
 2. The Meerut Conspiracy Case (1929) hit labour-left organisers.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -988,7 +1240,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. Home Rule peaked during World War I.  
 2. Home Rule is the same movement as Quit India 1942.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1004,7 +1262,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. Blavatsky  B. Malaviya  C. M.N. Roy  D. Jayaprakash Narayan  
 **List-II** 1. CSP  2. Theosophical Society founder circle  3. BHU  4. Early communism
 
-Options: A. 2 3 4 1  B. 2 3 1 4  C. 3 2 4 1  D. 2 4 3 1
+A. 2 3 4 1
+
+B. 2 3 1 4
+
+C. 3 2 4 1
+
+D. 2 4 3 1
 
 <details>
 <summary>Show answer</summary>
@@ -1021,7 +1285,13 @@ Options: A. 2 3 4 1  B. 2 3 1 4  C. 3 2 4 1  D. 2 4 3 1
 2. Besant INC President — 1917  
 3. Montagu Declaration — 1916
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1037,7 +1307,13 @@ Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
 1. Central Hindu College (1898) is linked to the later BHU.  
 2. Wardha Basic Education is a Home Rule League syllabus of 1916.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1053,7 +1329,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. CITU, not UTUC, is the classic CPI(M) trade-union centre.  
 2. In the 2022 UPPCS map, UTUC is still matched with CPI(M).
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1077,7 +1359,13 @@ Consider the following statements with reference to the Justice Party:
 
 Which of the above statements is/are correct?
 
-Options: A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
+A. Both 1 and 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
@@ -1095,7 +1383,13 @@ Consider the following statements with reference to the Workers and Peasants Par
 
 Which of the above statements is/are correct?
 
-Options: A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
+A. Both 1 and 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
@@ -1113,7 +1407,13 @@ Consider the following statements with reference to the Congress Socialist Party
 
 Which of the above statements is/are correct?
 
-Options: A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
+A. Both 1 and 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
@@ -1128,7 +1428,13 @@ Options: A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
 
 Which of the following events was the **last** in chronological order?
 
-Options: A. Home Rule Movement  B. Khilafat Movement  C. Jallianwala Bagh Massacre  D. Moplah Revolt
+A. Home Rule Movement
+
+B. Khilafat Movement
+
+C. Jallianwala Bagh Massacre
+
+D. Moplah Revolt
 
 <details>
 <summary>Show answer</summary>
@@ -1164,7 +1470,13 @@ Standard paper code: **4 1 3 2**
 
 Who among the following was NOT associated with the Kanpur Conspiracy Case of 1924?
 
-Options: A. Muzaffar Ahmed  B. Nalini Gupta  C. Shaukat Usmani  D. M.A. Ansari
+A. Muzaffar Ahmed
+
+B. Nalini Gupta
+
+C. Shaukat Usmani
+
+D. M.A. Ansari
 
 <details>
 <summary>Show answer</summary>
@@ -1179,7 +1491,13 @@ Options: A. Muzaffar Ahmed  B. Nalini Gupta  C. Shaukat Usmani  D. M.A. Ansari
 
 Who of the following was sent as representative of labourers by Indian Government in the Washington Summit of I.L.O. in the year 1919?
 
-Options: A. V.P. Wadia  B. N.M. Joshi  C. C.F. Andrews  D. Joseph Baptista
+A. V.P. Wadia
+
+B. N.M. Joshi
+
+C. C.F. Andrews
+
+D. Joseph Baptista
 
 <details>
 <summary>Show answer</summary>

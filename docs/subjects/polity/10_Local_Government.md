@@ -102,6 +102,7 @@ A. 26 January  B. 2 October  C. 21 April  D. 24 April
 **PYQ — UPPCS Prelims 2022, Q49**
 
 **Assertion (A):** The 73rd Amendment of the Constitution is considered to be a watershed in the history of local self-government in India.  
+
 **Reason (R):** The 73rd Constitutional Amendment conferred the much-coveted constitutional status on Panchayats.
 
 A. (A) false, (R) true  B. (A) true, (R) false  C. Both true, R not the explanation  D. Both true and R is the correct explanation of A
@@ -968,7 +969,10 @@ A. 2 October  B. 24 April  C. 26 January  D. 15 August
 
 </details>
 
-**Q3.** **Assertion (A):** The 73rd Amendment is a watershed in local self-government.  
+**Q3.**
+
+**Assertion (A):** The 73rd Amendment is a watershed in local self-government.
+
 **Reason (R):** It conferred constitutional status on Panchayats.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1063,7 +1067,10 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 </details>
 
-**Q11.** **Assertion (A):** Every State must constitute a Panchayat at the intermediate level.  
+**Q11.**
+
+**Assertion (A):** Every State must constitute a Panchayat at the intermediate level.
+
 **Reason (R):** A State with a population not exceeding 20 lakh may not constitute the intermediate tier.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1145,7 +1152,10 @@ A. 18 years  B. 21 years  C. 25 years  D. 30 years
 
 </details>
 
-**Q18.** **Assertion (A):** All 29 subjects of the Eleventh Schedule vest automatically in every Gram Panchayat.  
+**Q18.**
+
+**Assertion (A):** All 29 subjects of the Eleventh Schedule vest automatically in every Gram Panchayat.
+
 **Reason (R):** Article 243G uses the word “may” for endowing Panchayats with powers.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1210,7 +1220,10 @@ A. 1993  B. 1995  C. 1996  D. 1998
 
 </details>
 
-**Q24.** **Assertion (A):** PESA extends Part IX to the Sixth Schedule areas.  
+**Q24.**
+
+**Assertion (A):** PESA extends Part IX to the Sixth Schedule areas.
+
 **Reason (R):** Article 243M allows Parliament to extend Part IX to Scheduled Areas.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1272,7 +1285,10 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 
 </details>
 
-**Q29.** **Assertion (A):** The State Finance Commission is constituted by the Governor every five years.  
+**Q29.**
+
+**Assertion (A):** The State Finance Commission is constituted by the Governor every five years.
+
 **Reason (R):** Its report is submitted to the President of India.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1356,7 +1372,10 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 </details>
 
-**Q36.** **Assertion (A):** The 73rd Amendment failed to become law in 1989.  
+**Q36.**
+
+**Assertion (A):** The 73rd Amendment failed to become law in 1989.
+
 **Reason (R):** The 64th Amendment Bill was defeated in the Rajya Sabha.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1445,7 +1464,10 @@ A. A-2, B-3, C-1, D-4  B. A-2, B-1, C-3, D-4  C. A-3, B-2, C-1, D-4  D. A-2, B-3
 
 </details>
 
-**Q43.** **Assertion (A):** A District Planning Committee is the same body as the Zila Panchayat.  
+**Q43.**
+
+**Assertion (A):** A District Planning Committee is the same body as the Zila Panchayat.
+
 **Reason (R):** Not less than four-fifths of DPC members are elected from the elected members of the district Panchayat and of the Municipalities.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1563,7 +1585,10 @@ A. Only two  B. Only three  C. All four  D. Only one
 
 </details>
 
-**Q53.** **Assertion (A):** A Municipal Corporation need not be constituted in an industrial township where the industry already provides municipal services.  
+**Q53.**
+
+**Assertion (A):** A Municipal Corporation need not be constituted in an industrial township where the industry already provides municipal services.
+
 **Reason (R):** Article 243Q contains an exception for such areas.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1620,7 +1645,10 @@ A. Only two  B. Only three  C. All four  D. Only one
 
 </details>
 
-**Q58.** **Assertion (A):** Elections to Municipal Corporations are conducted by the Election Commission of India.  
+**Q58.**
+
+**Assertion (A):** Elections to Municipal Corporations are conducted by the Election Commission of India.
+
 **Reason (R):** Article 243ZA vests municipal elections in the State Election Commission.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1717,7 +1745,10 @@ A. Only one  B. Only two  C. All three  D. None
 
 </details>
 
-**Q66.** **Assertion (A):** The 64th and 65th Amendment Acts created Panchayats and Municipalities.  
+**Q66.**
+
+**Assertion (A):** The 64th and 65th Amendment Acts created Panchayats and Municipalities.
+
 **Reason (R):** Local governance institutions were constitutionalised by the 73rd and 74th Amendments.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1821,7 +1852,10 @@ A. Only one  B. Only two  C. All four  D. Only three
 
 </details>
 
-**Q75.** **Assertion (A):** A Ward Committee is the urban analogue of the Gram Sabha.  
+**Q75.**
+
+**Assertion (A):** A Ward Committee is the urban analogue of the Gram Sabha.
+
 **Reason (R):** The Constitution does not create an urban Gram Sabha; it creates Ward Committees in large municipalities.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1901,7 +1935,10 @@ A. 2 – 1 – 4 – 3  B. 2 – 4 – 1 – 3  C. 1 – 2 – 4 – 3  D. 2 –
 
 </details>
 
-**Q81.** **Assertion (A):** There is no Directive Principle corresponding to Article 40 for cities.  
+**Q81.**
+
+**Assertion (A):** There is no Directive Principle corresponding to Article 40 for cities.
+
 **Reason (R):** Urban local bodies derive constitutional status only from Part IXA.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -2046,6 +2083,7 @@ A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 **Q7. UPPCS Prelims 2022, Q49**  
 **Assertion (A):** The 73rd Amendment is a watershed in the history of local self-government in India.  
+
 **Reason (R):** The 73rd Constitutional Amendment conferred constitutional status on Panchayats.  
 A. (A) false, (R) true B. (A) true, (R) false C. Both true, R not the explanation D. Both true and R explains A
 

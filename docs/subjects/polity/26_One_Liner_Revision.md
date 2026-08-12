@@ -858,7 +858,10 @@ A. Has been imposed twice  B. **Has never been imposed**  C. Was imposed in 1991
 
 </details>
 
-**Q32.** **Assertion (A):** Article 19 is automatically suspended during every National Emergency.  
+**Q32.**
+
+**Assertion (A):** Article 19 is automatically suspended during every National Emergency.
+
 **Reason (R):** Article 358 operates only when the Emergency is on the ground of war or external aggression.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -1806,7 +1809,10 @@ A. Keep AIS  B. Keep 356  C. Residuary with Union  D. **Abolish AIS and repeal 3
 
 </details>
 
-**Q92.** **Assertion (A):** Punchhi could not have been the body on whose word the ISC was first set up.  
+**Q92.**
+
+**Assertion (A):** Punchhi could not have been the body on whose word the ISC was first set up.
+
 **Reason (R):** The Council was constituted in 1990; Punchhi was appointed in 2007.  
 A. **Both true and R explains A**  B. Both true, R not explanation  C. A true R false  D. A false R true
 
@@ -2344,7 +2350,10 @@ A. Before the money is spent  B. **After PAC examines the overspend, then LS**  
 
 </details>
 
-**Q151.** **Assertion (A):** A joint sitting can pass a Constitutional Amendment Bill.  
+**Q151.**
+
+**Assertion (A):** A joint sitting can pass a Constitutional Amendment Bill.
+
 **Reason (R):** Article 108 is barred for Money Bills and for 368 Bills.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 

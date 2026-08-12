@@ -4,8 +4,6 @@
 
 # 1. Advent of Europeans
 
-
-
 - Arrival of European Companies
 - Portuguese in India
 - Dutch in India
@@ -21,8 +19,6 @@
 - Second Carnatic War
 - Third Carnatic War
 
-
-
 - Portuguese Governors
 - Vasco da Gama
 - Battle of Wandiwash
@@ -32,8 +28,6 @@
 ---
 
 # 2. East India Company Expansion
-
-
 
 - East India Company and Nawabs of Bengal
 - Nawabs of Bengal
@@ -58,8 +52,6 @@
 - Banaras Rebellion
 - Akbar Fort, Prayagraj
 
-
-
 - Robert Clive
 - Warren Hastings
 - Subsidiary Alliance
@@ -72,8 +64,6 @@
 
 # 3. Governors-General & Viceroys
 
-
-
 - Governors-General and Their Reforms
 - Governors-General and Associated Wars
 - British Governors
@@ -84,8 +74,6 @@
 - Doctrine of Lapse
 - Lord Curzon
 - Lord Macaulay
-
-
 
 - Warren Hastings
 - Cornwallis
@@ -105,8 +93,6 @@
 
 # 4. British Administration & Economy
 
-
-
 - Administrative System of British India
 - Local Administration
 - British Economic Policy
@@ -115,8 +101,6 @@
 - Permanent Settlement
 - Ryotwari System
 - Mahalwari System
-
-
 
 - Drain of Wealth Theory
 - Commercialization of Agriculture
@@ -129,8 +113,6 @@
 
 # 5. Revolt of 1857
 
-
-
 - Revolt of 1857
 - Causes
 - Beginning of Revolt
@@ -138,8 +120,6 @@
 - Leaders of Revolt
 - Important Places
 - Consequences
-
-
 
 - Rani Lakshmibai
 - Nana Sahib
@@ -154,8 +134,6 @@
 
 # 6. Socio-Religious Reform Movements
 
-
-
 - Raja Ram Mohan Roy
 - Ishwar Chandra Vidyasagar
 - Jyotiba Phule
@@ -166,8 +144,6 @@
 - Major Socio-Religious Institutions
 - Bengal Reform Movements
 - Social Reformers and Their Titles
-
-
 
 - Brahmo Samaj
 - Arya Samaj
@@ -185,8 +161,6 @@
 
 # 7. Education & Press
 
-
-
 - Development of Education
 - Educational Centres
 - Teachers
@@ -194,8 +168,6 @@
 - Newspapers and Journals
 - Beginning of Newspapers
 - Editors and Founders
-
-
 
 - Wood's Dispatch
 - Hunter Commission
@@ -208,8 +180,6 @@
 
 # 8. Peasant, Tribal & Labour Movements
 
-
-
 - Peasant Movements
 - Peasant Revolts
 - Leaders
@@ -220,8 +190,6 @@
 - Labour Organisations
 - Bonded Labour Practices
 - Early Uprisings Chronology
-
-
 
 - Indigo Revolt
 - Deccan Riots
@@ -236,8 +204,6 @@
 
 # 9. Rise of Nationalism
 
-
-
 - Political Organisations before INC
 - Freedom Leaders
 - Political Organisations
@@ -251,8 +217,6 @@
 - Tilak
 - Dadabhai Naoroji
 
-
-
 - Poona Sarvajanik Sabha
 - Indian Association
 - East India Association
@@ -262,8 +226,6 @@
 ---
 
 # 10. Books & Authors
-
-
 
 - Books and Authors
 - History Books
@@ -275,8 +237,6 @@
 - Bankim Chandra Chattopadhyay
 - Bhojpuri Literature
 - Realistic Novels
-
-
 
 - Anandamath
 - Poverty and Un-British Rule
@@ -291,8 +251,6 @@
 
 # 11. Swadeshi & Revolutionary Movement
 
-
-
 - Partition of Bengal
 - Swadeshi Movement
 - Delhi Durbar
@@ -300,8 +258,6 @@
 - Revolutionary Centres
 - Revolutionary Activities
 - Revolutionary Events
-
-
 
 - Anushilan Samiti
 - Jugantar
@@ -315,16 +271,12 @@
 
 # 12. Home Rule & Labour Politics
 
-
-
 - Home Rule Movement
 - National Education
 - BHU Movement
 - Labour Movement
 - Left Parties
 - Regional Parties
-
-
 
 - Annie Besant
 - B.G. Tilak
@@ -334,8 +286,6 @@
 ---
 
 # 13. Gandhian Era (1915–1948)
-
-
 
 - Gandhi in South Africa
 - Gandhian Ideology
@@ -357,8 +307,6 @@
 - Communal Award
 - Indian National Movement Chronology
 
-
-
 - Poona Pact
 - Dandi March
 - Gandhi's Constructive Programme
@@ -366,8 +314,6 @@
 ---
 
 # 14. Final Phase of Freedom Struggle
-
-
 
 - Congress Socialist Party
 - Subhash Chandra Bose
@@ -379,8 +325,6 @@
 - Political Deadlock
 - Final Phase (1945–47)
 - Independence Chronology
-
-
 
 - INA Trials
 - Cabinet Mission
@@ -394,13 +338,9 @@
 
 # 15. Post-Independence India
 
-
-
 - Community Development Programme
 - Etawah Pilot Project
 - Post-Independence India
-
-
 
 - Integration of Princely States
 - Constitution Making
@@ -411,8 +351,6 @@
 ---
 
 # 16. Miscellaneous (Frequently Asked by UPPCS)
-
-
 
 - Important Slogans and Who Gave Them
 - Important Newspapers and Journals
@@ -431,8 +369,6 @@
 ---
 
 # High-Priority UPPCS Additions
-
-
 
 - Regulating Act (1773)
 - Pitt's India Act (1784)

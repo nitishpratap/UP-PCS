@@ -232,229 +232,457 @@ Zafarnama to Aurangzeb | died 1708 Nanded (Hazur Sahib)
 
 **Q1.** Match (2025 pattern): D. Mardana maps to
 
-Options: A. Ramananda | B. Nizamuddin Auliya | C. Vallabhacharya | D. Guru Nanak Dev
+A. Ramananda |
+
+B. Nizamuddin Auliya |
+
+C. Vallabhacharya |
+
+D. Guru Nanak Dev
 
 <details><summary>Show answer</summary>**Ans: D** — 2025 Q12 full code C (2-3-4-1).</details>
 
 **Q2.** Saints: 1.Guru Nanak 2.Chaitanya 3.Namdev 4.Kabir
 
-Options: A. 3-4-2-1 | B. 4-3-1-2 | C. 3-4-1-2 | D. 4-3-2-1
+A. 3-4-2-1 |
+
+B. 4-3-1-2 |
+
+C. 3-4-1-2 |
+
+D. 4-3-2-1
 
 <details><summary>Show answer</summary>**Ans: C** — 2025 Q74.</details>
 
 **Q3.** Adi Granth compiler:
 
-Options: A. Guru Nanak | B. Guru Arjan Dev | C. Guru Gobind Singh | D. Guru Tegh Bahadur
+A. Guru Nanak |
+
+B. Guru Arjan Dev |
+
+C. Guru Gobind Singh |
+
+D. Guru Tegh Bahadur
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q4.** Khalsa created in:
 
-Options: A. 1604 Amritsar | B. 1606 Delhi | C. 1699 Anandpur | D. 1708 Nanded
+A. 1604 Amritsar |
+
+B. 1606 Delhi |
+
+C. 1699 Anandpur |
+
+D. 1708 Nanded
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q5.** Guru Arjan was executed under:
 
-Options: A. Babur | B. Akbar | C. Jahangir | D. Aurangzeb
+A. Babur |
+
+B. Akbar |
+
+C. Jahangir |
+
+D. Aurangzeb
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q6.** Guru Tegh Bahadur was executed under:
 
-Options: A. Jahangir | B. Shah Jahan | C. Aurangzeb | D. Bahadur Shah I
+A. Jahangir |
+
+B. Shah Jahan |
+
+C. Aurangzeb |
+
+D. Bahadur Shah I
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q7.** Gurmukhi is linked with:
 
-Options: A. Guru Nanak | B. Guru Angad | C. Guru Ram Das | D. Guru Har Rai
+A. Guru Nanak |
+
+B. Guru Angad |
+
+C. Guru Ram Das |
+
+D. Guru Har Rai
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q8.** Amritsar tank is linked with:
 
-Options: A. Guru Angad | B. Guru Amar Das | C. Guru Ram Das | D. Guru Har Krishan
+A. Guru Angad |
+
+B. Guru Amar Das |
+
+C. Guru Ram Das |
+
+D. Guru Har Krishan
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q9.** Miri-Piri and Akal Takht:
 
-Options: A. Guru Arjan | B. Guru Hargobind | C. Guru Gobind Singh | D. Guru Amar Das
+A. Guru Arjan |
+
+B. Guru Hargobind |
+
+C. Guru Gobind Singh |
+
+D. Guru Amar Das
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q10.** Child Guru who died in Delhi:
 
-Options: A. Har Krishan | B. Gobind Singh | C. Har Rai | D. Angad
+A. Har Krishan |
+
+B. Gobind Singh |
+
+C. Har Rai |
+
+D. Angad
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q11.** 1. Kabir founded Sikhism 2. Kabir’s hymns are in the Granth
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q12.** Eternal Guru after 1708:
 
-Options: A. Banda Bahadur | B. Dasam Granth | C. Guru Granth Sahib | D. An 11th human Guru
+A. Banda Bahadur |
+
+B. Dasam Granth |
+
+C. Guru Granth Sahib |
+
+D. An 11th human Guru
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q13.** Sikh Khalsa of 1699 is the same as Mughal Khalsa land.
 
-Options: A. True | B. False | C. Only under Akbar | D. Only under Aurangzeb
+A. True |
+
+B. False |
+
+C. Only under Akbar |
+
+D. Only under Aurangzeb
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q14.** Last human Guru:
 
-Options: A. Tegh Bahadur | B. Hargobind | C. Gobind Singh | D. Har Krishan
+A. Tegh Bahadur |
+
+B. Hargobind |
+
+C. Gobind Singh |
+
+D. Har Krishan
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q15.** Zafarnama was addressed to:
 
-Options: A. Jahangir | B. Akbar | C. Aurangzeb | D. Nadir Shah
+A. Jahangir |
+
+B. Akbar |
+
+C. Aurangzeb |
+
+D. Nadir Shah
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q16.** Gobind Singh died at:
 
-Options: A. Amritsar | B. Anandpur | C. Nanded | D. Lahore
+A. Amritsar |
+
+B. Anandpur |
+
+C. Nanded |
+
+D. Lahore
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q17.** Harmandir Sahib is primarily:
 
-Options: A. The Akal Takht | B. The Golden Temple shrine | C. Khalsa birthplace | D. Ranjit Singh’s Adalat
+A. The Akal Takht |
+
+B. The Golden Temple shrine |
+
+C. Khalsa birthplace |
+
+D. Ranjit Singh’s Adalat
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q18.** 1. Adi Granth 1604 2. Arjan martyred 1604
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q19.** Ranjit Singh’s Adalat-i-Ala:
 
-Options: A. Amritsar | B. Lahore | C. Firozpur | D. Multan
+A. Amritsar |
+
+B. Lahore |
+
+C. Firozpur |
+
+D. Multan
 
 <details><summary>Show answer</summary>**Ans: A** — 2021 Q67.</details>
 
 **Q20.** Which is NOT a Five K?
 
-Options: A. Kesh | B. Kirpan | C. Khanda as a worn kakar | D. Kara
+A. Kesh |
+
+B. Kirpan |
+
+C. Khanda as a worn kakar |
+
+D. Kara
 
 <details><summary>Show answer</summary>**Ans: C** — khanda stirs amrit; the worn five are Kesh, Kangha, Kara, Kachha, Kirpan.</details>
 
 **Q21.** Langar means:
 
-Options: A. Crown land | B. Free community meal | C. Steel bracelet | D. Child guruship
+A. Crown land |
+
+B. Free community meal |
+
+C. Steel bracelet |
+
+D. Child guruship
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q22.** 1. Mardana was Nanak’s guru 2. Mardana played the rabab
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q23.** Battle of Bhangani (1688):
 
-Options: A. Nanak vs Lodis | B. Gobind Singh vs hill rajas | C. Arjan vs Jahangir | D. Ranjit Singh vs Afghans
+A. Nanak vs Lodis |
+
+B. Gobind Singh vs hill rajas |
+
+C. Arjan vs Jahangir |
+
+D. Ranjit Singh vs Afghans
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q24.** Correct pair:
 
-Options: A. Khalsa – Amritsar 1604 | B. Khalsa – Anandpur 1699 | C. Adi Granth – 1699 | D. Tegh Bahadur – 1606
+A. Khalsa – Amritsar 1604 |
+
+B. Khalsa – Anandpur 1699 |
+
+C. Adi Granth – 1699 |
+
+D. Tegh Bahadur – 1606
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q25.** Guru Amar Das is remembered for:
 
-Options: A. Khalsa | B. Goindwal langar centre | C. Akal Takht | D. Zafarnama
+A. Khalsa |
+
+B. Goindwal langar centre |
+
+C. Akal Takht |
+
+D. Zafarnama
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q26.** 1. Ten human Gurus 2. Guru Granth Sahib as Guru after 1708
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q27.** Dasam Granth is:
 
-Options: A. The eternal Guru | B. A separate Gobind Singh corpus | C. Compiled by Arjan in 1604 | D. A Mughal farmans book
+A. The eternal Guru |
+
+B. A separate Gobind Singh corpus |
+
+C. Compiled by Arjan in 1604 |
+
+D. A Mughal farmans book
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q28.** Singh and Kaur names begin with:
 
-Options: A. Nanak at Kartarpur | B. Khalsa initiation 1699 | C. Arjan’s martyrdom | D. Ranjit Singh’s court
+A. Nanak at Kartarpur |
+
+B. Khalsa initiation 1699 |
+
+C. Arjan’s martyrdom |
+
+D. Ranjit Singh’s court
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q29.** NOT matched:
 
-Options: A. Ram Das – Amritsar | B. Angad – Gurmukhi | C. Hargobind – Khalsa 1699 | D. Arjan – Adi Granth
+A. Ram Das – Amritsar |
+
+B. Angad – Gurmukhi |
+
+C. Hargobind – Khalsa 1699 |
+
+D. Arjan – Adi Granth
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q30.** Japji Sahib is composed by:
 
-Options: A. Guru Nanak | B. Guru Gobind Singh | C. Kabir | D. Guru Angad
+A. Guru Nanak |
+
+B. Guru Gobind Singh |
+
+C. Kabir |
+
+D. Guru Angad
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q31.** 1. Harmandir is spiritual centre 2. Akal Takht is temporal seat
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q32.** Panj Pyare were:
 
-Options: A. The ten Gurus | B. The first five Khalsa initiates | C. Nanak’s five udasis | D. Five Mughal subahs
+A. The ten Gurus |
+
+B. The first five Khalsa initiates |
+
+C. Nanak’s five udasis |
+
+D. Five Mughal subahs
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q33.** Guru succession was always strict primogeniture.
 
-Options: A. True | B. False | C. Only after Hargobind | D. Only for Har Krishan
+A. True |
+
+B. False |
+
+C. Only after Hargobind |
+
+D. Only for Har Krishan
 
 <details><summary>Show answer</summary>**Ans: B** — nomination; Angad was not Nanak’s son.</details>
 
 **Q34.** 1606 and 1675 martyrdoms belong to:
 
-Options: A. Angad and Amar Das | B. Arjan and Tegh Bahadur | C. Hargobind and Gobind Singh | D. Nanak and Ram Das
+A. Angad and Amar Das |
+
+B. Arjan and Tegh Bahadur |
+
+C. Hargobind and Gobind Singh |
+
+D. Nanak and Ram Das
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q35.** Householder ideal in Sikhism means:
 
-Options: A. Compulsory sanyasa | B. Spiritual life within family and work | C. Ban on langar | D. Idol priesthood
+A. Compulsory sanyasa |
+
+B. Spiritual life within family and work |
+
+C. Ban on langar |
+
+D. Idol priesthood
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q36.** Khalsa was created by Guru Hargobind at Akal Takht.
 
-Options: A. True | B. False | C. Only the Five Ks | D. Only Singh names
+A. True |
+
+B. False |
+
+C. Only the Five Ks |
+
+D. Only Singh names
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q37.** 1. Nanak taught Ik Onkar 2. Nanak created the Khalsa in 1699
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q38.** Correct chronology:
 
-Options: A. Khalsa → Adi Granth → Tegh Bahadur martyrdom | B. Adi Granth → Arjan martyrdom → Khalsa | C. 1708 → 1604 → 1699 | D. Tegh Bahadur 1606 → Arjan 1675
+A. Khalsa → Adi Granth → Tegh Bahadur martyrdom |
+
+B. Adi Granth → Arjan martyrdom → Khalsa |
+
+C. 1708 → 1604 → 1699 |
+
+D. Tegh Bahadur 1606 → Arjan 1675
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
@@ -468,7 +696,13 @@ Match List-I (Disciple) with List-II (Guru):
 A. Kabir | B. Amir Khusrau | C. Surdas | D. Mardana  
 1. Guru Nanak Dev | 2. Swami Ramananda | 3. Nizamuddin Auliya | 4. Vallabhacharya
 
-Options: A. 3 2 4 1 | B. 3 2 1 4 | C. 2 3 4 1 | D. 2 3 1 4
+A. 3 2 4 1 |
+
+B. 3 2 1 4 |
+
+C. 2 3 4 1 |
+
+D. 2 3 1 4
 
 <details><summary>Show answer</summary>**Ans: C (2-3-4-1)** — Mardana → Guru Nanak Dev.</details>
 
@@ -476,7 +710,13 @@ Options: A. 3 2 4 1 | B. 3 2 1 4 | C. 2 3 4 1 | D. 2 3 1 4
 
 Arrange: 1. Guru Nanak 2. Chaitanya Mahaprabhu 3. Namdev 4. Kabir
 
-Options: A. 3, 4, 2, 1 | B. 4, 3, 1, 2 | C. 3, 4, 1, 2 | D. 4, 3, 2, 1
+A. 3, 4, 2, 1 |
+
+B. 4, 3, 1, 2 |
+
+C. 3, 4, 1, 2 |
+
+D. 4, 3, 2, 1
 
 <details><summary>Show answer</summary>**Ans: C (3-4-1-2)** — Namdev → Kabir → Nanak → Chaitanya.</details>
 
@@ -484,7 +724,13 @@ Options: A. 3, 4, 2, 1 | B. 4, 3, 1, 2 | C. 3, 4, 1, 2 | D. 4, 3, 2, 1
 
 At which place did Raja Ranjit Singh set up the Adalat-i-Ala?
 
-Options: A. Amritsar | B. Lahore | C. Firozpur | D. Multan
+A. Amritsar |
+
+B. Lahore |
+
+C. Firozpur |
+
+D. Multan
 
 <details><summary>Show answer</summary>**Ans: A** — Sikh Empire court at Amritsar, not a Guru-period office.</details>
 

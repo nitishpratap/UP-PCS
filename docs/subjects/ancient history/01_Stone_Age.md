@@ -557,7 +557,13 @@ Sister Neolithic site to Koldihwa in the **same Belan valley (UP)**; same **G.R.
 1. Hathnora in the Narmada valley yielded a *Homo erectus* cranium.  
 2. Attirampakkam in Tamil Nadu is famous as a *Homo sapiens* fossil site.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -575,7 +581,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 Which of the above is/are correct?
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -593,7 +605,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 3. Mesolithic  
 4. Chalcolithic
 
-Options: A. 2, 3, 1, 4  B. 3, 2, 1, 4  C. 2, 1, 3, 4  D. 2, 3, 4, 1
+A. 2, 3, 1, 4
+
+B. 3, 2, 1, 4
+
+C. 2, 1, 3, 4
+
+D. 2, 3, 4, 1
 
 <details>
 <summary>Show answer</summary>
@@ -609,7 +627,13 @@ Options: A. 2, 3, 1, 4  B. 3, 2, 1, 4  C. 2, 1, 3, 4  D. 2, 3, 4, 1
 1. It was devised by C.J. Thomsen in the 19th century.  
 2. In India, Paleolithic, Mesolithic and Neolithic begin on the same date in every region.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -647,6 +671,7 @@ D. A-3, B-2, C-4, D-1
 **Q6.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
 
 **Assertion (A):** Paleolithic communities in India commonly used polished stone axes to clear forests.  
+
 **Reason (R):** Ground and polished stone axes are a hallmark of the Neolithic period.
 
 Options:  
@@ -685,7 +710,13 @@ D. Lakhnia
 1. Bagor in Rajasthan is associated with animal domestication.  
 2. Sarai Nahar Rai in Uttar Pradesh is known mainly as a Mesolithic cemetery.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -703,7 +734,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 How many of the above statements are correct?
 
-Options: A. Only one  B. Only two  C. None  D. Both are about Neolithic pottery
+A. Only one
+
+B. Only two
+
+C. None
+
+D. Both are about Neolithic pottery
 
 <details>
 <summary>Show answer</summary>
@@ -719,7 +756,13 @@ Options: A. Only one  B. Only two  C. None  D. Both are about Neolithic pottery
 1. It is marked by food production, pottery and ground stone tools.  
 2. Every major Neolithic site in the subcontinent shows rice as the first crop.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -753,7 +796,13 @@ D. V.S. Wakankar
 3. OCP — Ganga–Yamuna doab  
 4. Malwa (Navdatoli) — Madhya Pradesh
 
-Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 4
+A. Only 2
+
+B. Only 1 and 2
+
+C. Only 2 and 3
+
+D. Only 4
 
 <details>
 <summary>Show answer</summary>
@@ -769,7 +818,13 @@ Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 4
 1. They used copper along with stone tools.  
 2. Their settlements were typically planned cities like Mohenjo-daro.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -807,6 +862,7 @@ D. A-3, B-1, C-4, D-2
 **Q15.** Given below are two statements:
 
 **Assertion (A):** Bori in Maharashtra is the standard UPPCS answer for Mesolithic animal domestication.  
+
 **Reason (R):** Bagor on the Kothari (Rajasthan) is the site usually cited for Mesolithic domestication.
 
 Options:  
@@ -829,7 +885,13 @@ D. (A) is false, but (R) is true
 1. Sarai Nahar Rai lies in Pratapgarh district.  
 2. Morhana Pahar rock paintings are in Sonbhadra district.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -872,7 +934,13 @@ D. A-3, B-1, C-4, D-2
 
 How many of the above statements are correct?
 
-Options: A. Only one  B. Only two  C. All three  D. None
+A. Only one
+
+B. Only two
+
+C. All three
+
+D. None
 
 <details>
 <summary>Show answer</summary>
@@ -888,7 +956,13 @@ Options: A. Only one  B. Only two  C. All three  D. None
 1. Pit dwellings were dug several metres into the ground.  
 2. It has yielded the earliest rice-husk impressions in the subcontinent.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -918,6 +992,7 @@ D. Balochistan
 **Q21.** Given below are two statements:
 
 **Assertion (A):** Koldihwa and Mahagara provide early rice evidence in India.  
+
 **Reason (R):** Both sites lie in the Belan valley of Uttar Pradesh.
 
 Options:  
@@ -942,7 +1017,13 @@ D. (A) is false, but (R) is true
 3. Lothal  
 4. Mahagara
 
-Options: A. 1, 2 and 4 only  B. 2 and 3 only  C. 1, 3 and 4 only  D. 1, 2, 3 and 4
+A. 1, 2 and 4 only
+
+B. 2 and 3 only
+
+C. 1, 3 and 4 only
+
+D. 1, 2, 3 and 4
 
 <details>
 <summary>Show answer</summary>
@@ -975,7 +1056,13 @@ D. V.N. Mishra
 2. It was inscribed as a UNESCO World Heritage Site in 2003.  
 3. All its paintings belong exclusively to the Lower Paleolithic.
 
-Options: A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -991,7 +1078,13 @@ Options: A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
 1. They occur mainly on natural rock shelters, especially in the Vindhyan belt.  
 2. Superimposition shows more than one period of painting on the same surface.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1047,7 +1140,13 @@ D. A-3, B-2, C-1, D-4
 1. They were often mounted in bone or wood to make composite tools.  
 2. Geometric forms include lunates, triangles and trapezes.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1065,7 +1164,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 3. Chirand  
 4. Koldihwa
 
-Options: A. 1, 2, 4, 3  B. 2, 1, 4, 3  C. 1, 2, 3, 4  D. 2, 1, 3, 4
+A. 1, 2, 4, 3
+
+B. 2, 1, 4, 3
+
+C. 1, 2, 3, 4
+
+D. 2, 1, 3, 4
 
 <details>
 <summary>Show answer</summary>
@@ -1085,7 +1190,13 @@ Options: A. 1, 2, 4, 3  B. 2, 1, 4, 3  C. 1, 2, 3, 4  D. 2, 1, 3, 4
 
 How many pairs are correctly matched?
 
-Options: A. Only one  B. Only two  C. Only three  D. All four
+A. Only one
+
+B. Only two
+
+C. Only three
+
+D. All four
 
 <details>
 <summary>Show answer</summary>
@@ -1099,6 +1210,7 @@ Options: A. Only one  B. Only two  C. Only three  D. All four
 **Q31.** Given below are two statements:
 
 **Assertion (A):** Ochre Coloured Pottery culture is a mature Harappan urban culture of Gujarat.  
+
 **Reason (R):** OCP is mainly reported from the Ganga–Yamuna doab and is often linked with Copper Hoards.
 
 Options:  
@@ -1121,7 +1233,13 @@ D. (A) is false, but (R) is true
 1. It is a Neolithic site in Assam (North-East India).  
 2. It is the type site of Jorwe culture in Maharashtra.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1137,7 +1255,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. Ash mounds are associated with sites such as Piklihal and Utnur.  
 2. Ash mounds are the chief feature of Chirand in Bihar.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1153,7 +1277,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. It is in Maharashtra.  
 2. It is known for Upper Paleolithic ostrich eggshell beads.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1171,7 +1301,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 3. Adamgarh — Madhya Pradesh  
 4. Birbhanpur — West Bengal
 
-Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 4  D. Only 3
+A. Only 2
+
+B. Only 1 and 2
+
+C. Only 2 and 4
+
+D. Only 3
 
 <details>
 <summary>Show answer</summary>
@@ -1187,7 +1323,13 @@ Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 4  D. Only 3
 1. It is a Neolithic site in the Belan valley of Uttar Pradesh.  
 2. Evidence includes circular hut post-holes and charred rice.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1205,7 +1347,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 How many of the above statements are correct?
 
-Options: A. Only one  B. Only two  C. None  D. Only the UNESCO year is correct and the counts are inverted
+A. Only one
+
+B. Only two
+
+C. None
+
+D. Only the UNESCO year is correct and the counts are inverted
 
 <details>
 <summary>Show answer</summary>
@@ -1243,6 +1391,7 @@ D. A-4, B-1, C-2, D-3
 **Q39.** Given below are two statements:
 
 **Assertion (A):** Rock shelters at Bhimbetka are man-made caves cut on the Ajanta model.  
+
 **Reason (R):** Bhimbetka shelters are natural sandstone overhangs in the Vindhyan hills.
 
 Options:  
@@ -1267,7 +1416,13 @@ D. (A) is false, but (R) is true
 
 Which of the statements given above is/are correct?
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1284,7 +1439,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Baghor — Upper Paleolithic, Son valley (MP)  
 3. Baghor — Mesolithic cemetery, Pratapgarh
 
-Options: A. Only 3  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 2
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1300,7 +1461,13 @@ Options: A. Only 3  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
 1. The Soanian industry is characterised by pebble chopper-chopping tools in the Siwalik–Soan belt.  
 2. The Acheulian (Madrasian) industry is characterised by handaxes and cleavers.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1318,7 +1485,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 How many of the above statements are correct?
 
-Options: A. Only one  B. Only two  C. None  D. Only stmt 1, and Attirampakkam is in Karnataka
+A. Only one
+
+B. Only two
+
+C. None
+
+D. Only stmt 1, and Attirampakkam is in Karnataka
 
 <details>
 <summary>Show answer</summary>
@@ -1332,6 +1505,7 @@ Options: A. Only one  B. Only two  C. None  D. Only stmt 1, and Attirampakkam is
 **Q44.** Given below are two statements:
 
 **Assertion (A):** Mahagara is known for a Neolithic cattle pen with hoof impressions.  
+
 **Reason (R):** Mahagara and Koldihwa lie in the Belan valley of Uttar Pradesh.
 
 Options:  
@@ -1378,7 +1552,13 @@ D. A-3, B-1, C-4, D-2
 1. Period I is aceramic Neolithic — farming and mud-brick houses before pottery.  
 2. Cotton is reported from Mehrgarh in addition to wheat and barley.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1394,7 +1574,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. The name is often glossed as “cave of the potter.”  
 2. It is a pit-dwelling Neolithic site in the Kashmir valley, like Burzahom.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1410,7 +1596,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. Navdatoli is a Malwa Chalcolithic site on the Narmada, excavated by H.D. Sankalia.  
 2. Jwalapuram in Andhra Pradesh is associated with Middle Paleolithic tools around Toba ash.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>

@@ -130,7 +130,15 @@ Tea/rubber **estates** are plantations, not climax evergreen.
 **Mangrove / tidal:** Salt-tolerant; **pneumatophores** (breathing roots); storm buffer. **Sundarbans** (*sundari*) = largest; also Mahanadi, Godavari–Krishna, Cauvery, Andamans, Gujarat pockets. **MISHTI** (Mangrove Initiative for Shoreline Habitats and Tangible Income) = Budget **2023–24** restoration — **not initiated 2019** (2025 Q93 **Only 2**).
 **Inline PYQ**
 **(UPPCS 2018, Q25)** ‘Vegetation is the true index of climate’. This statement is associated with
-Options: A. Thornthwaite B. Koppen C. Trewartha D. Stamp
+
+A. Thornthwaite
+
+B. Koppen
+
+C. Trewartha
+
+D. Stamp
+
 **Ans: A**
 
 ---
@@ -229,7 +237,15 @@ Chronology (2019 Q67 / 2020 Q77): **WLPA 1972 → Project Tiger 1973 (1 Apr) →
 2025 Q144 **NOT** matched: **Only Nokrek–Manipur**.
 **Inline PYQ**
 **(UPPCS 2018, Q54)** Which is NOT an example of in-situ conservation?
-Options: A. Biosphere reserve B. Botanical garden C. National Park D. Sacred groves
+
+A. Biosphere reserve
+
+B. Botanical garden
+
+C. National Park
+
+D. Sacred groves
+
 **Ans: B**
 
 ---
@@ -306,7 +322,14 @@ Project Tiger 1973 / Project Elephant 1992 — already dated in N.5. MISHTI → 
 ## Practice Zone — 50 Questions (2025 Pattern Mix)
 
 **Q1.** Which forest type covers the largest area in India?
-Options: A. Tropical evergreen B. Moist deciduous C. Thorn D. Alpine
+
+A. Tropical evergreen
+
+B. Moist deciduous
+
+C. Thorn
+
+D. Alpine
 
 <details><summary>Show answer</summary>
 
@@ -314,7 +337,14 @@ Options: A. Tropical evergreen B. Moist deciduous C. Thorn D. Alpine
 </details>
 
 **Q2.** 'Vegetation is the true index of climate' is associated with:
-Options: A. Köppen B. Thornthwaite C. Trewartha D. Stamp
+
+A. Köppen
+
+B. Thornthwaite
+
+C. Trewartha
+
+D. Stamp
 
 <details><summary>Show answer</summary>
 
@@ -322,7 +352,14 @@ Options: A. Köppen B. Thornthwaite C. Trewartha D. Stamp
 </details>
 
 **Q3.** Simlipal National Park is in:
-Options: A. Madhya Pradesh B. Odisha C. Jharkhand D. Chhattisgarh
+
+A. Madhya Pradesh
+
+B. Odisha
+
+C. Jharkhand
+
+D. Chhattisgarh
 
 <details><summary>Show answer</summary>
 
@@ -330,7 +367,14 @@ Options: A. Madhya Pradesh B. Odisha C. Jharkhand D. Chhattisgarh
 </details>
 
 **Q4.** Which is NOT in-situ conservation?
-Options: A. National Park B. Sacred grove C. Botanical garden D. Biosphere reserve
+
+A. National Park
+
+B. Sacred grove
+
+C. Botanical garden
+
+D. Biosphere reserve
 
 <details><summary>Show answer</summary>
 
@@ -338,7 +382,14 @@ Options: A. National Park B. Sacred grove C. Botanical garden D. Biosphere reser
 </details>
 
 **Q5.** Dachigam is associated with:
-Options: A. Sangai B. Hangul C. One-horned rhino D. Lion
+
+A. Sangai
+
+B. Hangul
+
+C. One-horned rhino
+
+D. Lion
 
 <details><summary>Show answer</summary>
 
@@ -346,7 +397,14 @@ Options: A. Sangai B. Hangul C. One-horned rhino D. Lion
 </details>
 
 **Q6.** Dudhwa National Park is in:
-Options: A. Bahraich B. Pilibhit C. Lakhimpur Kheri D. Sitapur
+
+A. Bahraich
+
+B. Pilibhit
+
+C. Lakhimpur Kheri
+
+D. Sitapur
 
 <details><summary>Show answer</summary>
 
@@ -354,7 +412,14 @@ Options: A. Bahraich B. Pilibhit C. Lakhimpur Kheri D. Sitapur
 </details>
 
 **Q7.** Chandraprabha Wildlife Sanctuary is in:
-Options: A. Sonbhadra B. Chandauli C. Mirzapur D. Ballia
+
+A. Sonbhadra
+
+B. Chandauli
+
+C. Mirzapur
+
+D. Ballia
 
 <details><summary>Show answer</summary>
 
@@ -362,7 +427,14 @@ Options: A. Sonbhadra B. Chandauli C. Mirzapur D. Ballia
 </details>
 
 **Q8.** Correct chronology:
-Options: A. Project Tiger → WLPA → Elephant → BDA B. WLPA → Tiger → Elephant → BDA C. BDA → Tiger → WLPA → Elephant D. Elephant → Tiger → WLPA → BDA
+
+A. Project Tiger → WLPA → Elephant → BDA
+
+B. WLPA → Tiger → Elephant → BDA
+
+C. BDA → Tiger → WLPA → Elephant
+
+D. Elephant → Tiger → WLPA → BDA
 
 <details><summary>Show answer</summary>
 
@@ -370,7 +442,14 @@ Options: A. Project Tiger → WLPA → Elephant → BDA B. WLPA → Tiger → El
 </details>
 
 **Q9.** Nokrek Biosphere Reserve is in:
-Options: A. Manipur B. Meghalaya C. Assam D. Nagaland
+
+A. Manipur
+
+B. Meghalaya
+
+C. Assam
+
+D. Nagaland
 
 <details><summary>Show answer</summary>
 
@@ -378,7 +457,14 @@ Options: A. Manipur B. Meghalaya C. Assam D. Nagaland
 </details>
 
 **Q10.** Which Ramsar sites are NOT in UP? 1 Sarsai Nawar 2 Samaspur 3 Rudrasagar 4 Sultanpur
-Options: A. 1 and 2 B. 3 and 4 C. 2 and 3 D. 1 and 3
+
+A. 1 and 2
+
+B. 3 and 4
+
+C. 2 and 3
+
+D. 1 and 3
 
 <details><summary>Show answer</summary>
 
@@ -386,7 +472,14 @@ Options: A. 1 and 2 B. 3 and 4 C. 2 and 3 D. 1 and 3
 </details>
 
 **Q11.** Keibul Lamjao NP is on which lake?
-Options: A. Wular B. Dal C. Loktak D. Chilika
+
+A. Wular
+
+B. Dal
+
+C. Loktak
+
+D. Chilika
 
 <details><summary>Show answer</summary>
 
@@ -394,7 +487,14 @@ Options: A. Wular B. Dal C. Loktak D. Chilika
 </details>
 
 **Q12.** ISFR 2017 forest cover % of India TGA:
-Options: A. 20.34 B. 21.54 C. 22.34 D. 23.54
+
+A. 20.34
+
+B. 21.54
+
+C. 22.34
+
+D. 23.54
 
 <details><summary>Show answer</summary>
 
@@ -402,7 +502,14 @@ Options: A. 20.34 B. 21.54 C. 22.34 D. 23.54
 </details>
 
 **Q13.** MISHTI was announced in:
-Options: A. 2019 B. Union Budget 2023–24 C. 2014 D. 2002
+
+A. 2019
+
+B. Union Budget 2023–24
+
+C. 2014
+
+D. 2002
 
 <details><summary>Show answer</summary>
 
@@ -410,7 +517,14 @@ Options: A. 2019 B. Union Budget 2023–24 C. 2014 D. 2002
 </details>
 
 **Q14.** Assertion: Himalaya shows different vegetation types. Reason: Climate varies with altitude.
-Options: A. Both true, R explains B. Both true, R not explanation C. A true R false D. A false R true
+
+A. Both true, R explains
+
+B. Both true, R not explanation
+
+C. A true R false
+
+D. A false R true
 
 <details><summary>Show answer</summary>
 
@@ -418,7 +532,14 @@ Options: A. Both true, R explains B. Both true, R not explanation C. A true R fa
 </details>
 
 **Q15.** Katarniaghat WLS established in:
-Options: A. 1972 B. 1975 C. 1984 D. 1992
+
+A. 1972
+
+B. 1975
+
+C. 1984
+
+D. 1992
 
 <details><summary>Show answer</summary>
 
@@ -426,7 +547,14 @@ Options: A. 1972 B. 1975 C. 1984 D. 1992
 </details>
 
 **Q16.** Which UP districts had >20% forest cover (ISFR 2023) among Bahraich, Chandauli, Shravasti?
-Options: A. Only Bahraich B. Chandauli and Shravasti C. All three D. Only Shravasti
+
+A. Only Bahraich
+
+B. Chandauli and Shravasti
+
+C. All three
+
+D. Only Shravasti
 
 <details><summary>Show answer</summary>
 
@@ -434,7 +562,14 @@ Options: A. Only Bahraich B. Chandauli and Shravasti C. All three D. Only Shrava
 </details>
 
 **Q17.** Coral bleaching in Andaman mass-death PYQ linked mainly to:
-Options: A. 4°C cooling B. About 2°C ocean warming C. Only industrial ports D. Mangrove clearance inland
+
+A. 4°C cooling
+
+B. About 2°C ocean warming
+
+C. Only industrial ports
+
+D. Mangrove clearance inland
 
 <details><summary>Show answer</summary>
 
@@ -442,7 +577,14 @@ Options: A. 4°C cooling B. About 2°C ocean warming C. Only industrial ports D.
 </details>
 
 **Q18.** Operation Olivia protects:
-Options: A. Gharial in Chambal B. Olive Ridley turtles off Odisha C. Hangul in Dachigam D. Dolphins in Ganga only
+
+A. Gharial in Chambal
+
+B. Olive Ridley turtles off Odisha
+
+C. Hangul in Dachigam
+
+D. Dolphins in Ganga only
 
 <details><summary>Show answer</summary>
 
@@ -450,7 +592,14 @@ Options: A. Gharial in Chambal B. Olive Ridley turtles off Odisha C. Hangul in D
 </details>
 
 **Q19.** Maquis vegetation is associated with:
-Options: A. California B. Mediterranean coastal region C. South Africa D. Chile
+
+A. California
+
+B. Mediterranean coastal region
+
+C. South Africa
+
+D. Chile
 
 <details><summary>Show answer</summary>
 
@@ -458,7 +607,14 @@ Options: A. California B. Mediterranean coastal region C. South Africa D. Chile
 </details>
 
 **Q20.** Which statement is NOT true?
-Options: A. Tropics have more species than temperate zones B. Diversity increases from equator to poles C. Amazon has very high biodiversity D. Diversity falls from temperate toward poles
+
+A. Tropics have more species than temperate zones
+
+B. Diversity increases from equator to poles
+
+C. Amazon has very high biodiversity
+
+D. Diversity falls from temperate toward poles
 
 <details><summary>Show answer</summary>
 
@@ -466,7 +622,14 @@ Options: A. Tropics have more species than temperate zones B. Diversity increase
 </details>
 
 **Q21.** Surinsar–Mansar Lakes Ramsar site is in:
-Options: A. Uttar Pradesh B. Uttarakhand C. Jammu & Kashmir D. Himachal Pradesh
+
+A. Uttar Pradesh
+
+B. Uttarakhand
+
+C. Jammu & Kashmir
+
+D. Himachal Pradesh
 
 <details><summary>Show answer</summary>
 
@@ -474,7 +637,14 @@ Options: A. Uttar Pradesh B. Uttarakhand C. Jammu & Kashmir D. Himachal Pradesh
 </details>
 
 **Q22.** Pneumatophores are characteristic of:
-Options: A. Alpine scrub B. Thorn forest C. Mangroves D. Chir pine forest
+
+A. Alpine scrub
+
+B. Thorn forest
+
+C. Mangroves
+
+D. Chir pine forest
 
 <details><summary>Show answer</summary>
 
@@ -482,7 +652,14 @@ Options: A. Alpine scrub B. Thorn forest C. Mangroves D. Chir pine forest
 </details>
 
 **Q23.** Match: Chaparral —?
-Options: A. Chile B. California C. South Africa D. Mediterranean France only
+
+A. Chile
+
+B. California
+
+C. South Africa
+
+D. Mediterranean France only
 
 <details><summary>Show answer</summary>
 
@@ -490,7 +667,14 @@ Options: A. Chile B. California C. South Africa D. Mediterranean France only
 </details>
 
 **Q24.** UP forest cover ~12.8% of TGA — this statement is:
-Options: A. Correct for recent ISFR B. Incorrect; cover is about 6% C. Correct only for Sonbhadra D. Correct for tree cover + crops
+
+A. Correct for recent ISFR
+
+B. Incorrect; cover is about 6%
+
+C. Correct only for Sonbhadra
+
+D. Correct for tree cover + crops
 
 <details><summary>Show answer</summary>
 
@@ -498,7 +682,14 @@ Options: A. Correct for recent ISFR B. Incorrect; cover is about 6% C. Correct o
 </details>
 
 **Q25.** Agasthyamalai Biosphere Reserve is primarily linked with:
-Options: A. Assam B. Odisha C. Kerala (Western Ghats south) D. Meghalaya
+
+A. Assam
+
+B. Odisha
+
+C. Kerala (Western Ghats south)
+
+D. Meghalaya
 
 <details><summary>Show answer</summary>
 
@@ -506,7 +697,14 @@ Options: A. Assam B. Odisha C. Kerala (Western Ghats south) D. Meghalaya
 </details>
 
 **Q26.** Which is a hydrophyte adaptation setting?
-Options: A. Babool scrub B. Water hyacinth in a jheel C. Deodar slope D. Acacia rain-shadow
+
+A. Babool scrub
+
+B. Water hyacinth in a jheel
+
+C. Deodar slope
+
+D. Acacia rain-shadow
 
 <details><summary>Show answer</summary>
 
@@ -514,7 +712,14 @@ Options: A. Babool scrub B. Water hyacinth in a jheel C. Deodar slope D. Acacia 
 </details>
 
 **Q27.** Project Elephant commenced in:
-Options: A. 1972 B. 1973 C. 1992 D. 2002
+
+A. 1972
+
+B. 1973
+
+C. 1992
+
+D. 2002
 
 <details><summary>Show answer</summary>
 
@@ -522,7 +727,14 @@ Options: A. 1972 B. 1973 C. 1992 D. 2002
 </details>
 
 **Q28.** Sundari tree is iconic of:
-Options: A. Nilgiri shola B. Sundarbans mangrove C. Thar thorn forest D. Alpine meadow
+
+A. Nilgiri shola
+
+B. Sundarbans mangrove
+
+C. Thar thorn forest
+
+D. Alpine meadow
 
 <details><summary>Show answer</summary>
 
@@ -530,7 +742,14 @@ Options: A. Nilgiri shola B. Sundarbans mangrove C. Thar thorn forest D. Alpine 
 </details>
 
 **Q29.** Brazil’s equatorial rainforest is called:
-Options: A. Campos B. Selva C. Pampas D. Prairies
+
+A. Campos
+
+B. Selva
+
+C. Pampas
+
+D. Prairies
 
 <details><summary>Show answer</summary>
 
@@ -538,7 +757,14 @@ Options: A. Campos B. Selva C. Pampas D. Prairies
 </details>
 
 **Q30.** Genetic diversity in National Parks is maintained through:
-Options: A. Ex-situ banks only B. In-situ conservation C. Only captive breeding D. None
+
+A. Ex-situ banks only
+
+B. In-situ conservation
+
+C. Only captive breeding
+
+D. None
 
 <details><summary>Show answer</summary>
 
@@ -548,7 +774,14 @@ Options: A. Ex-situ banks only B. In-situ conservation C. Only captive breeding 
 ---
 
 **Q31.** Uttar Pradesh has how many National Parks (standard Prelims lock)?
-Options: A. One B. Two C. Three D. Four
+
+A. One
+
+B. Two
+
+C. Three
+
+D. Four
 
 <details><summary>Show answer</summary>
 
@@ -556,7 +789,14 @@ Options: A. One B. Two C. Three D. Four
 </details>
 
 **Q32.** Dudhwa Tiger Reserve includes:
-Options: A. Dudhwa NP only B. Dudhwa NP + Kishanpur + Katarniaghat C. Pilibhit + Amangarh D. Chandraprabha + Kaimoor
+
+A. Dudhwa NP only
+
+B. Dudhwa NP + Kishanpur + Katarniaghat
+
+C. Pilibhit + Amangarh
+
+D. Chandraprabha + Kaimoor
 
 <details><summary>Show answer</summary>
 
@@ -564,7 +804,14 @@ Options: A. Dudhwa NP only B. Dudhwa NP + Kishanpur + Katarniaghat C. Pilibhit +
 </details>
 
 **Q33.** Amangarh Tiger Reserve is in:
-Options: A. Lakhimpur Kheri B. Pilibhit C. Bijnor D. Chitrakoot
+
+A. Lakhimpur Kheri
+
+B. Pilibhit
+
+C. Bijnor
+
+D. Chitrakoot
 
 <details><summary>Show answer</summary>
 
@@ -572,7 +819,14 @@ Options: A. Lakhimpur Kheri B. Pilibhit C. Bijnor D. Chitrakoot
 </details>
 
 **Q34.** Ranipur Tiger Reserve is associated with:
-Options: A. Terai Nepal border only B. Chitrakoot / Bundelkhand C. Agra Yamuna only D. Sonbhadra only
+
+A. Terai Nepal border only
+
+B. Chitrakoot / Bundelkhand
+
+C. Agra Yamuna only
+
+D. Sonbhadra only
 
 <details><summary>Show answer</summary>
 
@@ -580,7 +834,14 @@ Options: A. Terai Nepal border only B. Chitrakoot / Bundelkhand C. Agra Yamuna o
 </details>
 
 **Q35.** Biosphere reserve zones in correct inner-to-outer idea:
-Options: A. Transition–buffer–core B. Core–buffer–transition C. Buffer–core–transition D. Core–transition only
+
+A. Transition–buffer–core
+
+B. Core–buffer–transition
+
+C. Buffer–core–transition
+
+D. Core–transition only
 
 <details><summary>Show answer</summary>
 
@@ -588,7 +849,14 @@ Options: A. Transition–buffer–core B. Core–buffer–transition C. Buffer�
 </details>
 
 **Q36.** National Forest Policy 1988 is associated with which aspirational cover idea?
-Options: A. 10% B. 21.54% C. 33% D. 50%
+
+A. 10%
+
+B. 21.54%
+
+C. 33%
+
+D. 50%
 
 <details><summary>Show answer</summary>
 
@@ -596,7 +864,14 @@ Options: A. 10% B. 21.54% C. 33% D. 50%
 </details>
 
 **Q37.** Which is a Community Reserve idea?
-Options: A. Strict NP with no people zone ever named B. Participatory reserve on community/private land C. Only UNESCO biosphere core D. Only botanical garden
+
+A. Strict NP with no people zone ever named
+
+B. Participatory reserve on community/private land
+
+C. Only UNESCO biosphere core
+
+D. Only botanical garden
 
 <details><summary>Show answer</summary>
 
@@ -604,7 +879,14 @@ Options: A. Strict NP with no people zone ever named B. Participatory reserve on
 </details>
 
 **Q38.** Hastinapur Wildlife Sanctuary is mainly known for:
-Options: A. Desert fox only B. Ganga floodplain / swamp deer landscape C. Alpine hangul D. Coral reefs
+
+A. Desert fox only
+
+B. Ganga floodplain / swamp deer landscape
+
+C. Alpine hangul
+
+D. Coral reefs
 
 <details><summary>Show answer</summary>
 
@@ -612,7 +894,14 @@ Options: A. Desert fox only B. Ganga floodplain / swamp deer landscape C. Alpine
 </details>
 
 **Q39.** Suhelwa Wildlife Sanctuary lies in:
-Options: A. Bundelkhand only B. Terai fringe (Balrampur–Shravasti–Gonda belt) C. Agra only D. Mirzapur only
+
+A. Bundelkhand only
+
+B. Terai fringe (Balrampur–Shravasti–Gonda belt)
+
+C. Agra only
+
+D. Mirzapur only
 
 <details><summary>Show answer</summary>
 
@@ -620,7 +909,14 @@ Options: A. Bundelkhand only B. Terai fringe (Balrampur–Shravasti–Gonda belt
 </details>
 
 **Q40.** Kaimoor (Kaimur) Sanctuary is in which physiographic setting?
-Options: A. Pure Terai grassland only B. Vindhyan / Kaimur hill forest C. Alpine meadow D. Andaman coast
+
+A. Pure Terai grassland only
+
+B. Vindhyan / Kaimur hill forest
+
+C. Alpine meadow
+
+D. Andaman coast
 
 <details><summary>Show answer</summary>
 
@@ -628,7 +924,14 @@ Options: A. Pure Terai grassland only B. Vindhyan / Kaimur hill forest C. Alpine
 </details>
 
 **Q41.** Nilgiri Biosphere Reserve spans:
-Options: A. Only Tamil Nadu B. Tamil Nadu–Kerala–Karnataka C. Only Kerala–Goa D. Assam–Meghalaya
+
+A. Only Tamil Nadu
+
+B. Tamil Nadu–Kerala–Karnataka
+
+C. Only Kerala–Goa
+
+D. Assam–Meghalaya
 
 <details><summary>Show answer</summary>
 
@@ -636,7 +939,14 @@ Options: A. Only Tamil Nadu B. Tamil Nadu–Kerala–Karnataka C. Only Kerala–
 </details>
 
 **Q42.** Which mangrove region is on India’s west coast?
-Options: A. Sundarbans B. Bhitarkanika C. Gulf of Kachchh D. Godavari delta only
+
+A. Sundarbans
+
+B. Bhitarkanika
+
+C. Gulf of Kachchh
+
+D. Godavari delta only
 
 <details><summary>Show answer</summary>
 
@@ -644,7 +954,14 @@ Options: A. Sundarbans B. Bhitarkanika C. Gulf of Kachchh D. Godavari delta only
 </details>
 
 **Q43.** Gulf of Mannar is important because it is:
-Options: A. Only a Himalayan biosphere B. Coral region and a Biosphere Reserve C. Only a desert scrub D. UP Ramsar site
+
+A. Only a Himalayan biosphere
+
+B. Coral region and a Biosphere Reserve
+
+C. Only a desert scrub
+
+D. UP Ramsar site
 
 <details><summary>Show answer</summary>
 
@@ -652,7 +969,14 @@ Options: A. Only a Himalayan biosphere B. Coral region and a Biosphere Reserve C
 </details>
 
 **Q44.** Conservation Reserve under WLPA is typically:
-Options: A. Ex-situ zoo category B. Government land adjacent to protected areas with consultation C. Same as botanical garden D. Only marine EEZ label
+
+A. Ex-situ zoo category
+
+B. Government land adjacent to protected areas with consultation
+
+C. Same as botanical garden
+
+D. Only marine EEZ label
 
 <details><summary>Show answer</summary>
 
@@ -660,7 +984,14 @@ Options: A. Ex-situ zoo category B. Government land adjacent to protected areas 
 </details>
 
 **Q45.** Pilibhit is best classified for Prelims as:
-Options: A. UP’s second National Park B. A Tiger Reserve in the Terai C. A biosphere in Meghalaya D. A coral park
+
+A. UP’s second National Park
+
+B. A Tiger Reserve in the Terai
+
+C. A biosphere in Meghalaya
+
+D. A coral park
 
 <details><summary>Show answer</summary>
 
@@ -668,7 +999,14 @@ Options: A. UP’s second National Park B. A Tiger Reserve in the Terai C. A bio
 </details>
 
 **Q46.** Chipko movement is associated with protection of:
-Options: A. Coral reefs of Lakshadweep B. Himalayan forests C. Sundarbans mangroves only D. Thar desert dunes only
+
+A. Coral reefs of Lakshadweep
+
+B. Himalayan forests
+
+C. Sundarbans mangroves only
+
+D. Thar desert dunes only
 
 <details><summary>Show answer</summary>
 
@@ -676,7 +1014,14 @@ Options: A. Coral reefs of Lakshadweep B. Himalayan forests C. Sundarbans mangro
 </details>
 
 **Q47.** Which UP Ramsar site is in Etawah?
-Options: A. Samaspur B. Sarsai Nawar Jheel C. Bakhira D. Surinsar–Mansar
+
+A. Samaspur
+
+B. Sarsai Nawar Jheel
+
+C. Bakhira
+
+D. Surinsar–Mansar
 
 <details><summary>Show answer</summary>
 
@@ -684,7 +1029,14 @@ Options: A. Samaspur B. Sarsai Nawar Jheel C. Bakhira D. Surinsar–Mansar
 </details>
 
 **Q47b.** Surha Tal (Jai Prakash Narayan Bird Sanctuary), India’s 100th Ramsar site, is in which district?
-Options: A. Etawah B. Agra C. Ballia D. Unnao
+
+A. Etawah
+
+B. Agra
+
+C. Ballia
+
+D. Unnao
 
 <details><summary>Show answer</summary>
 
@@ -692,7 +1044,14 @@ Options: A. Etawah B. Agra C. Ballia D. Unnao
 </details>
 
 **Q48.** Recorded Forest Area and Forest Cover are:
-Options: A. Always identical numbers B. Different concepts (legal notification vs canopy mapping) C. Only Hindi translations D. Only mangrove terms
+
+A. Always identical numbers
+
+B. Different concepts (legal notification vs canopy mapping)
+
+C. Only Hindi translations
+
+D. Only mangrove terms
 
 <details><summary>Show answer</summary>
 
@@ -700,7 +1059,14 @@ Options: A. Always identical numbers B. Different concepts (legal notification v
 </details>
 
 **Q49.** Semi-evergreen forests occur where:
-Options: A. Rain is high but a short dry season exists B. Rain is below 50 cm always C. Only above snowline D. Only in thorn desert
+
+A. Rain is high but a short dry season exists
+
+B. Rain is below 50 cm always
+
+C. Only above snowline
+
+D. Only in thorn desert
 
 <details><summary>Show answer</summary>
 
@@ -708,7 +1074,14 @@ Options: A. Rain is high but a short dry season exists B. Rain is below 50 cm al
 </details>
 
 **Q50.** Which is correctly matched?
-Options: A. Nanda Devi – Uttar Pradesh B. Nokrek – Meghalaya C. Simlipal – Madhya Pradesh D. Manas – Kerala
+
+A. Nanda Devi – Uttar Pradesh
+
+B. Nokrek – Meghalaya
+
+C. Simlipal – Madhya Pradesh
+
+D. Manas – Kerala
 
 <details><summary>Show answer</summary>
 
@@ -721,7 +1094,14 @@ Options: A. Nanda Devi – Uttar Pradesh B. Nokrek – Meghalaya C. Simlipal –
 
 **Q1. UPPCS Prelims 2018, Q25**
 'Vegetation is the true index of climate'. This statement is associated with
-Options: A. Thornthwaite B. Koppen C. Trewartha D. Stamp
+
+A. Thornthwaite
+
+B. Koppen
+
+C. Trewartha
+
+D. Stamp
 
 <details>
 <summary>Show answer</summary>
@@ -733,7 +1113,14 @@ Options: A. Thornthwaite B. Koppen C. Trewartha D. Stamp
 
 **Q2. UPPCS Prelims 2018, Q44**
 According to the India State of Forest Report, 2017, what percentage of total geographical area of the country is under forest?
-Options: A. 20.34 B. 22.34 C. 21.54 D. 23.54
+
+A. 20.34
+
+B. 22.34
+
+C. 21.54
+
+D. 23.54
 
 <details>
 <summary>Show answer</summary>
@@ -745,7 +1132,14 @@ Options: A. 20.34 B. 22.34 C. 21.54 D. 23.54
 
 **Q3. UPPCS Prelims 2018, Q45**
 When was 'Project Tiger' launched in India?
-Options: A. 1968 B. 1972 C. 1984 D. 1993
+
+A. 1968
+
+B. 1972
+
+C. 1984
+
+D. 1993
 
 <details>
 <summary>Show answer</summary>
@@ -757,7 +1151,14 @@ Options: A. 1968 B. 1972 C. 1984 D. 1993
 
 **Q4. UPPCS Prelims 2018, Q49**
 Dachigam National Park is associated with which of the following?
-Options: A. Musk Deer B. Golden Oriole C. Yellow-throated Marten D. Hangul or Kashmir Stag
+
+A. Musk Deer
+
+B. Golden Oriole
+
+C. Yellow-throated Marten
+
+D. Hangul or Kashmir Stag
 
 <details>
 <summary>Show answer</summary>
@@ -769,7 +1170,14 @@ Options: A. Musk Deer B. Golden Oriole C. Yellow-throated Marten D. Hangul or Ka
 
 **Q5. UPPCS Prelims 2018, Q54**
 Which of the following is NOT an example of in-situ conservation strategy?
-Options: A. Biosphere reserve B. Botanical garden C. National Park D. Sacred groves
+
+A. Biosphere reserve
+
+B. Botanical garden
+
+C. National Park
+
+D. Sacred groves
 
 <details>
 <summary>Show answer</summary>
@@ -781,6 +1189,7 @@ Options: A. Biosphere reserve B. Botanical garden C. National Park D. Sacred gro
 
 **Q6. UPPCS Prelims 2018, Q58**
 Which of the following pairs is NOT correctly matched?
+
 Options:
 - A. Bandipur National Park — Karnataka
 - B. Manas Wildlife Sanctuary — Assam
@@ -798,16 +1207,28 @@ Options:
 **Q7. UPPCS Prelims 2019, Q1**
 Match List-I with List-II and select the correct answer using the codes given below the lists:
 **List-I (Vegetation Type)**
+
 A. Maquis
+
 B. Fynbos
+
 C. Chaparral
+
 D. Matorral
 **List-II (Region)**
+
 1. California
 2. Mediterranean Sea Coastal Region
 3. South Africa
 4. Chile
-Options: A. 2 3 1 4 B. 4 3 2 1 C. 3 4 1 2 D. 4 2 3 1
+
+A. 2 3 1 4
+
+B. 4 3 2 1
+
+C. 3 4 1 2
+
+D. 4 2 3 1
 
 <details>
 <summary>Show answer</summary>
@@ -820,16 +1241,28 @@ Options: A. 2 3 1 4 B. 4 3 2 1 C. 3 4 1 2 D. 4 2 3 1
 **Q8. UPPCS Prelims 2019, Q3**
 Match List-I with List-II and select the correct answer using the codes given below the lists:
 **List-I (Natural Vegetation)**
+
 A. Epiphytes
+
 B. Acacia
+
 C. Baobab
+
 D. Cedars
 **List-II (Region)**
+
 1. Mediterranean
 2. Equatorial
 3. Sahara
 4. Savanna
-Options: A. 2 3 4 1 B. 2 3 1 4 C. 2 4 3 1 D. 2 4 1 3
+
+A. 2 3 4 1
+
+B. 2 3 1 4
+
+C. 2 4 3 1
+
+D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -841,6 +1274,7 @@ Options: A. 2 3 4 1 B. 2 3 1 4 C. 2 4 3 1 D. 2 4 1 3
 
 **Q9. UPPCS Prelims 2019, Q58**
 Which of the following statement is NOT true?
+
 Options:
 - A. Species diversity increases from equator towards poles
 - B. Tropics harbour more species than temperate areas
@@ -861,7 +1295,14 @@ I. Wild Life (Protection) Act
 II. Biological Diversity Act
 III. Project Tiger
 IV. Project Elephant
-Options: A. I, II, III, IV B. I, III, IV, II C. II, III, IV, I D. II, III, I, IV
+
+A. I, II, III, IV
+
+B. I, III, IV, II
+
+C. II, III, IV, I
+
+D. II, III, I, IV
 
 <details>
 <summary>Show answer</summary>
@@ -873,7 +1314,14 @@ Options: A. I, II, III, IV B. I, III, IV, II C. II, III, IV, I D. II, III, I, IV
 
 **Q11. UPPCS Prelims 2020, Q48**
 How many more 'Ramsar Sites' were added to Uttar Pradesh in January, 2020?
-Options: A. 3 B. 6 C. 9 D. 12
+
+A. 3
+
+B. 6
+
+C. 9
+
+D. 12
 
 <details>
 <summary>Show answer</summary>
@@ -886,16 +1334,28 @@ Options: A. 3 B. 6 C. 9 D. 12
 **Q12. UPPCS Prelims 2020, Q62**
 Match List-I with List-II and select the correct answer using the codes given below the lists:
 **List-I (National Parks)**
+
 A. Indravati
+
 B. Mollem
+
 C. Kalesar
+
 D. Betla
 **List-II (States)**
+
 1. Jharkhand
 2. Haryana
 3. Goa
 4. Chhattisgarh
-Options: A. 4 3 2 1 B. 4 2 3 1 C. 4 1 3 2 D. 3 4 2 1
+
+A. 4 3 2 1
+
+B. 4 2 3 1
+
+C. 4 1 3 2
+
+D. 3 4 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -911,8 +1371,16 @@ I. Project Tiger
 II. Project Elephant
 III. Wildlife Protection Act
 IV. Biological Diversity Act
+
 Select the correct answer using the codes given below.
-Options: A. I, II, III, IV B. II, I, IV, III C. III, I, II, IV D. III, IV, I, II
+
+A. I, II, III, IV
+
+B. II, I, IV, III
+
+C. III, I, II, IV
+
+D. III, IV, I, II
 
 <details>
 <summary>Show answer</summary>
@@ -924,7 +1392,14 @@ Options: A. I, II, III, IV B. II, I, IV, III C. III, I, II, IV D. III, IV, I, II
 
 **Q14. UPPCS Prelims 2021, Q17**
 Which of the following Ramsar site is NOT situated in Uttar Pradesh?
-Options: A. Sur Sarovar B. Samaspur Bird Sanctuary C. Sarsai Nawar Jheel D. Surinsar–Mansar Lakes
+
+A. Sur Sarovar
+
+B. Samaspur Bird Sanctuary
+
+C. Sarsai Nawar Jheel
+
+D. Surinsar–Mansar Lakes
 
 <details>
 <summary>Show answer</summary>
@@ -937,16 +1412,28 @@ Options: A. Sur Sarovar B. Samaspur Bird Sanctuary C. Sarsai Nawar Jheel D. Suri
 **Q15. UPPCS Prelims 2021, Q140**
 Match List-I with List-II and select the correct answer using the codes given below the lists.
 **List-I (Biosphere)**
+
 A. Similipal
+
 B. Pachmarhi
+
 C. Nandadevi
+
 D. Nokrek
 **List-II (Location)**
+
 1. Uttarakhand
 2. Meghalaya
 3. Madhya Pradesh
 4. Odisha
-Options: A. 4 3 2 1 B. 4 3 1 2 C. 1 3 4 2 D. 3 4 1 2
+
+A. 4 3 2 1
+
+B. 4 3 1 2
+
+C. 1 3 4 2
+
+D. 3 4 1 2
 
 <details>
 <summary>Show answer</summary>
@@ -958,7 +1445,14 @@ Options: A. 4 3 2 1 B. 4 3 1 2 C. 1 3 4 2 D. 3 4 1 2
 
 **Q16. UPPCS Prelims 2022, Q36**
 Which of the following Wildlife Sanctuaries of Uttar Pradesh was established in 1975?
-Options: A. Chambal B. Katarniaghat C. Raipur D. Kishanpur
+
+A. Chambal
+
+B. Katarniaghat
+
+C. Raipur
+
+D. Kishanpur
 
 <details>
 <summary>Show answer</summary>
@@ -970,7 +1464,14 @@ Options: A. Chambal B. Katarniaghat C. Raipur D. Kishanpur
 
 **Q17. UPPCS Prelims 2022, Q56**
 Dudhwa National Park is situated in which of the following districts of Uttar Pradesh?
-Options: A. Bahraich B. Lakhimpur Kheri C. Pilibhit D. Sitapur
+
+A. Bahraich
+
+B. Lakhimpur Kheri
+
+C. Pilibhit
+
+D. Sitapur
 
 <details>
 <summary>Show answer</summary>
@@ -982,7 +1483,14 @@ Options: A. Bahraich B. Lakhimpur Kheri C. Pilibhit D. Sitapur
 
 **Q18. UPPCS Prelims 2022, Q61**
 As per the India State of Forest Report–2021, which of the following States has registered the maximum increase in forest cover during the last two years?
-Options: A. Kerala B. Assam C. Arunachal Pradesh D. Andhra Pradesh
+
+A. Kerala
+
+B. Assam
+
+C. Arunachal Pradesh
+
+D. Andhra Pradesh
 
 <details>
 <summary>Show answer</summary>
@@ -994,7 +1502,14 @@ Options: A. Kerala B. Assam C. Arunachal Pradesh D. Andhra Pradesh
 
 **Q19. UPPCS Prelims 2022, Q73**
 Keibul Lamjao National Park is located in which lake?
-Options: A. Loktak B. Dal C. Wular D. Kolleru
+
+A. Loktak
+
+B. Dal
+
+C. Wular
+
+D. Kolleru
 
 <details>
 <summary>Show answer</summary>
@@ -1007,16 +1522,28 @@ Options: A. Loktak B. Dal C. Wular D. Kolleru
 **Q20. UPPCS Prelims 2022, Q110**
 Match List-I with List-II and select the correct answer from the code given below.
 **List-I (Bio-reserve Sector)**
+
 A. Manas
+
 B. Sundarbans
+
 C. Nanda Devi
+
 D. Pachmarhi
 **List-II (State)**
+
 1. Madhya Pradesh
 2. Uttar Pradesh
 3. Assam
 4. West Bengal
-Options: A. A-2, B-1, C-3, D-4 B. A-4, B-3, C-2, D-1 C. A-1, B-2, C-3, D-4 D. A-3, B-4, C-2, D-1
+
+A. A-2, B-1, C-3, D-4
+
+B. A-4, B-3, C-2, D-1
+
+C. A-1, B-2, C-3, D-4
+
+D. A-3, B-4, C-2, D-1
 
 <details>
 <summary>Show answer</summary>
@@ -1028,7 +1555,14 @@ Options: A. A-2, B-1, C-3, D-4 B. A-4, B-3, C-2, D-1 C. A-1, B-2, C-3, D-4 D. A-
 
 **Q21. UPPCS Prelims 2023, Q56**
 Chandraprabha Wildlife Sanctuary is situated in which district of Uttar Pradesh?
-Options: A. Sonbhadra B. Chandauli C. Bahraich D. Lakhimpur Kheri
+
+A. Sonbhadra
+
+B. Chandauli
+
+C. Bahraich
+
+D. Lakhimpur Kheri
 
 <details>
 <summary>Show answer</summary>
@@ -1040,10 +1574,19 @@ Options: A. Sonbhadra B. Chandauli C. Bahraich D. Lakhimpur Kheri
 
 **Q22. UPPCS Prelims 2023, Q59**
 Consider the following statements with reference to Uttar Pradesh—
+
 1. Forests constitute about 12.8% of the total geographical area of the State.
 2. The districts of Jaunpur, Ghazipur and Ballia have no forest land.
+
 Select the correct answer using the code given below.
-Options: A. Only 1 B. Both 1 and 2 C. Only 2 D. Neither 1 nor 2
+
+A. Only 1
+
+B. Both 1 and 2
+
+C. Only 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1055,7 +1598,14 @@ Options: A. Only 1 B. Both 1 and 2 C. Only 2 D. Neither 1 nor 2
 
 **Q23. UPPCS Prelims 2023, Q118**
 In National Parks, genetic diversity is maintained through—
-Options: A. In-situ conservation B. Ex-situ conservation C. Gene pool D. None of the above
+
+A. In-situ conservation
+
+B. Ex-situ conservation
+
+C. Gene pool
+
+D. None of the above
 
 <details>
 <summary>Show answer</summary>
@@ -1068,16 +1618,28 @@ Options: A. In-situ conservation B. Ex-situ conservation C. Gene pool D. None of
 **Q24. UPPCS Prelims 2024, Q10**
 Match List-I with List-II and choose the correct answer using the codes given below the lists:
 **List-I**
+
 A. Simlipal
+
 B. Nokrek
+
 C. Agasthyamalai
+
 D. Manas
 **List-II**
+
 1. Kerala
 2. Odisha
 3. Assam
 4. Meghalaya
-Options: A. 1 2 4 3 B. 3 1 4 2 C. 2 4 3 1 D. 2 4 1 3
+
+A. 1 2 4 3
+
+B. 3 1 4 2
+
+C. 2 4 3 1
+
+D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -1089,7 +1651,14 @@ Options: A. 1 2 4 3 B. 3 1 4 2 C. 2 4 3 1 D. 2 4 1 3
 
 **Q25. UPPCS Prelims 2024, Q19**
 Which of the following reasons caused catastrophic coral bleaching and mass coral deaths in the Andaman and Nicobar Islands?
-Options: A. Increased industrial activities in the coastal regions B. Increase of 2°C temperature in the Indian Ocean C. Heavy marine pollution D. Decrease of temperature by 4°C in the Indian Ocean
+
+A. Increased industrial activities in the coastal regions
+
+B. Increase of 2°C temperature in the Indian Ocean
+
+C. Heavy marine pollution
+
+D. Decrease of temperature by 4°C in the Indian Ocean
 
 <details>
 <summary>Show answer</summary>
@@ -1101,11 +1670,20 @@ Options: A. Increased industrial activities in the coastal regions B. Increase o
 
 **Q26. UPPCS Prelims 2025, Q8**
 As per the India State of Forest Report 2023, which of the following districts in Uttar Pradesh had forest over more than 20% of their total area?
+
 1. Bahraich
 2. Chandauli
 3. Shravasti
+
 Select the correct answer from the code given below.
-Options: A. 1 and 2 B. Only 3 C. 2 and 3 D. Only 1
+
+A. 1 and 2
+
+B. Only 3
+
+C. 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1118,7 +1696,9 @@ Options: A. 1 and 2 B. Only 3 C. 2 and 3 D. Only 1
 **Q27. UPPCS Prelims 2025, Q21**
 Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 **Assertion (A):** In the Himalayan mountains different types of vegetation are found.
+
 **Reason (R):** In Himalayas, there are variations in climate with change in altitude.
+
 Options:
 - A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 - B. (A) is false, but (R) is true
@@ -1135,12 +1715,21 @@ Options:
 
 **Q28. UPPCS Prelims 2025, Q58**
 Which of the following Ramsar sites are NOT located in Uttar Pradesh?
+
 1. Sarsai Nawar Jheel
 2. Samaspur Bird Sanctuary
 3. Rudrasagar Lake
 4. Sultanpur National Park
+
 Select the correct answer from the code given below.
-Options: A. 1 and 3 B. 3 and 4 C. 2 and 3 D. 1 and 2
+
+A. 1 and 3
+
+B. 3 and 4
+
+C. 2 and 3
+
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
@@ -1152,10 +1741,19 @@ Options: A. 1 and 3 B. 3 and 4 C. 2 and 3 D. 1 and 2
 
 **Q29. UPPCS Prelims 2025, Q63**
 With reference to Brazil, which of the following statements is/are correct?
+
 1. The equatorial rainforests of Brazil are called "Selva".
 2. The fertile dark-coloured soil found there is known as "Terra Roxa".
+
 Select the correct answer from the code given below.
-Options: A. Only 2 B. Neither 1 nor 2 C. Both 1 and 2 D. Only 1
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1168,16 +1766,28 @@ Options: A. Only 2 B. Neither 1 nor 2 C. Both 1 and 2 D. Only 1
 **Q30. UPPCS Prelims 2025, Q90**
 Match List-I with List-II and select the correct answer using the code given below.
 **List-I**
+
 A. Dachigam
+
 B. Keoladeo
+
 C. Kanha
+
 D. Periyar
 **List-II**
+
 1. Madhya Pradesh
 2. Rajasthan
 3. Kerala
 4. Jammu and Kashmir
-Options: A. 4 2 3 1 B. 2 4 1 3 C. 2 4 3 1 D. 4 2 1 3
+
+A. 4 2 3 1
+
+B. 2 4 1 3
+
+C. 2 4 3 1
+
+D. 4 2 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -1189,10 +1799,19 @@ Options: A. 4 2 3 1 B. 2 4 1 3 C. 2 4 3 1 D. 4 2 1 3
 
 **Q31. UPPCS Prelims 2025, Q93**
 With reference to Mangrove Initiative for Shoreline Habitats and Tangible Income (MISHTI), which of the following statements is/are correct?
+
 1. It was initiated in 2019.
 2. It aims to restore mangrove forests.
+
 Select the correct answer from the code given below.
-Options: A. Only 2 B. Neither 1 nor 2 C. Both 1 and 2 D. Only 1
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1204,10 +1823,19 @@ Options: A. Only 2 B. Neither 1 nor 2 C. Both 1 and 2 D. Only 1
 
 **Q32. UPPCS Prelims 2025, Q143**
 With reference to 'Operation Olivia', which of the following statements is/are correct?
+
 1. It is an initiative of Indian Coast Guard to protect Olive Ridley turtles along the coast of Odisha.
 2. Operation Olivia is carried out during the month of August which is the nesting time of Olive Ridley turtles.
+
 Select the correct answer from the code given below.
-Options: A. Only 2 B. Neither 1 nor 2 C. Both 1 and 2 D. Only 1
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1220,11 +1848,20 @@ Options: A. Only 2 B. Neither 1 nor 2 C. Both 1 and 2 D. Only 1
 **Q33. UPPCS Prelims 2025, Q144**
 Which of the following pairs is/are NOT correctly matched?
 **(Biosphere Reserve) — (State)**
+
 1. Nokrek — Manipur
 2. Manas — Assam
 3. Agasthyamalai — Kerala
+
 Select the correct answer from the code given below.
-Options: A. 1 and 2 B. Only 3 C. 2 and 3 D. Only 1
+
+A. 1 and 2
+
+B. Only 3
+
+C. 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>

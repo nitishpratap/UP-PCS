@@ -211,7 +211,13 @@ Consider the following events and arrange them in chronological order:
 
 Select the correct answer from the codes given below:
 
-Options: A. 1, 2, 4, 3  B. 1, 3, 2, 4  C. 2, 1, 4, 3  D. 1, 2, 3, 4
+A. 1, 2, 4, 3
+
+B. 1, 3, 2, 4
+
+C. 2, 1, 4, 3
+
+D. 1, 2, 3, 4
 
 <details>
 <summary>Show answer</summary>
@@ -281,7 +287,13 @@ Options: A. 1, 2, 4, 3  B. 1, 3, 2, 4  C. 2, 1, 4, 3  D. 1, 2, 3, 4
 
 Who among the following never presided a Session of Indian National Congress?
 
-Options: A. Lala Lajpat Rai  B. Bal Gangadhar Tilak  C. Gopal Krishna Gokhale  D. Subhash Chandra Bose
+A. Lala Lajpat Rai
+
+B. Bal Gangadhar Tilak
+
+C. Gopal Krishna Gokhale
+
+D. Subhash Chandra Bose
 
 <details>
 <summary>Show answer</summary>
@@ -398,7 +410,13 @@ D. (A) is true, but (R) is false.
 
 In which year the book 'Poverty and Un-British Rule in India' was published?
 
-Options: A. 1900 A.D.  B. 1901 A.D.  C. 1902 A.D.  D. 1903 A.D.
+A. 1900 A.D.
+
+B. 1901 A.D.
+
+C. 1902 A.D.
+
+D. 1903 A.D.
 
 <details>
 <summary>Show answer</summary>
@@ -451,7 +469,13 @@ B. Gita Rahasya  2. Maulana Abul Kalam Azad
 C. A Nation in Making  3. Lala Lajpat Rai  
 D. India Wins Freedom  4. Bal Gangadhar Tilak
 
-Options: A. 3 4 1 2  B. 4 2 1 3  C. 2 4 1 3  D. 4 3 2 1
+A. 3 4 1 2
+
+B. 4 2 1 3
+
+C. 2 4 1 3
+
+D. 4 3 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -475,7 +499,13 @@ Options: A. 3 4 1 2  B. 4 2 1 3  C. 2 4 1 3  D. 4 3 2 1
 3. Indian Society  
 4. Indian Association
 
-Options: A. 1, 2, 4, 3  B. 1, 3, 2, 4  C. 2, 1, 4, 3  D. 1, 2, 3, 4
+A. 1, 2, 4, 3
+
+B. 1, 3, 2, 4
+
+C. 2, 1, 4, 3
+
+D. 1, 2, 3, 4
 
 <details>
 <summary>Show answer</summary>
@@ -488,7 +518,13 @@ Options: A. 1, 2, 4, 3  B. 1, 3, 2, 4  C. 2, 1, 4, 3  D. 1, 2, 3, 4
 
 **Q2.** Who among the following never presided a Session of Indian National Congress?
 
-Options: A. Lala Lajpat Rai  B. Bal Gangadhar Tilak  C. Gopal Krishna Gokhale  D. Subhash Chandra Bose
+A. Lala Lajpat Rai
+
+B. Bal Gangadhar Tilak
+
+C. Gopal Krishna Gokhale
+
+D. Subhash Chandra Bose
 
 <details>
 <summary>Show answer</summary>
@@ -501,7 +537,13 @@ Options: A. Lala Lajpat Rai  B. Bal Gangadhar Tilak  C. Gopal Krishna Gokhale  D
 
 **Q3.** In which year was *Poverty and Un-British Rule in India* published?
 
-Options: A. 1900  B. 1901  C. 1902  D. 1903
+A. 1900
+
+B. 1901
+
+C. 1902
+
+D. 1903
 
 <details>
 <summary>Show answer</summary>
@@ -536,7 +578,13 @@ D. (A) is true, but (R) is false
 **List-I (Book)** A. The Story of My Deportation  B. Gita Rahasya  C. A Nation in Making  D. India Wins Freedom  
 **List-II** 1. Surendranath Banerjee  2. Abul Kalam Azad  3. Lala Lajpat Rai  4. Bal Gangadhar Tilak
 
-Options: A. 3 4 1 2  B. 4 2 1 3  C. 2 4 1 3  D. 4 3 2 1
+A. 3 4 1 2
+
+B. 4 2 1 3
+
+C. 2 4 1 3
+
+D. 4 3 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -553,7 +601,13 @@ Options: A. 3 4 1 2  B. 4 2 1 3  C. 2 4 1 3  D. 4 3 2 1
 2. Transfer of capital from Calcutta to Delhi  
 3. Lucknow Pact between Congress and Muslim League
 
-Options: A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
+A. 1 and 2
+
+B. Only 3
+
+C. 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -569,7 +623,13 @@ Options: A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
 1. The first session was held at Bombay in 1885.  
 2. A.O. Hume was the first President of the Congress.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -585,7 +645,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. East India Association  B. Indian Association  C. Poona Sarvajanik Sabha  D. Madras Mahajan Sabha  
 **List-II** 1. 1876  2. 1866  3. 1884  4. 1870
 
-Options: A. 2 1 4 3  B. 1 2 3 4  C. 2 4 1 3  D. 4 1 2 3
+A. 2 1 4 3
+
+B. 1 2 3 4
+
+C. 2 4 1 3
+
+D. 4 1 2 3
 
 <details>
 <summary>Show answer</summary>
@@ -601,7 +667,13 @@ Options: A. 2 1 4 3  B. 1 2 3 4  C. 2 4 1 3  D. 4 1 2 3
 1. Behramji Malabari advocated this legislation.  
 2. The extremist wing led by Tilak supported the Act.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -614,7 +686,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q10.** Which of the following pairs is NOT correctly matched?
 
-Options: A. First INC President — W.C. Bonnerjee  B. First Muslim INC President — Badruddin Tyabji  C. First woman INC President — Annie Besant  D. Tilak — President, Surat 1907
+A. First INC President — W.C. Bonnerjee
+
+B. First Muslim INC President — Badruddin Tyabji
+
+C. First woman INC President — Annie Besant
+
+D. Tilak — President, Surat 1907
 
 <details>
 <summary>Show answer</summary>
@@ -630,7 +708,13 @@ Options: A. First INC President — W.C. Bonnerjee  B. First Muslim INC Presiden
 1. Dadabhai Naoroji founded the East India Association in London in 1866.  
 2. Surendranath Banerjee founded the East India Association in Calcutta in 1876.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -648,7 +732,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 3. First Bombay session  
 4. Banaras session of Gokhale
 
-Options: A. 3, 4, 1, 2  B. 3, 1, 4, 2  C. 4, 3, 1, 2  D. 3, 4, 2, 1
+A. 3, 4, 1, 2
+
+B. 3, 1, 4, 2
+
+C. 4, 3, 1, 2
+
+D. 3, 4, 2, 1
 
 <details>
 <summary>Show answer</summary>
@@ -664,7 +754,13 @@ Options: A. 3, 4, 1, 2  B. 3, 1, 4, 2  C. 4, 3, 1, 2  D. 3, 4, 2, 1
 1. They believed British rule could modernise India if conducted justly.  
 2. They never criticised the drain of wealth.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -680,7 +776,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. Lal–Bal–Pal stands for Lajpat Rai, Tilak and Bipin Chandra Pal.  
 2. They preferred boycott and Swadeshi over pure petition politics.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -715,7 +817,13 @@ D. (A) is false, but (R) is true
 **List-I** A. W.C. Bonnerjee  B. Gokhale  C. Annie Besant  D. Subhas Bose  
 **List-II** 1. Banaras 1905  2. Bombay 1885  3. Haripura 1938  4. Calcutta 1917
 
-Options: A. 2 1 4 3  B. 1 2 3 4  C. 2 4 1 3  D. 2 1 3 4
+A. 2 1 4 3
+
+B. 1 2 3 4
+
+C. 2 4 1 3
+
+D. 2 1 3 4
 
 <details>
 <summary>Show answer</summary>
@@ -731,7 +839,13 @@ Options: A. 2 1 4 3  B. 1 2 3 4  C. 2 4 1 3  D. 2 1 3 4
 1. The Bombay Presidency Association was founded in 1866 by Dadabhai Naoroji.  
 2. The Madras Mahajan Sabha was founded in 1884.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -748,7 +862,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Indian Association — 1866  
 3. Madras Mahajan Sabha — 1884
 
-Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
+A. Only 2
+
+B. Only 1 and 2
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -764,7 +884,13 @@ Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
 1. Moderates and Extremists reunited in Congress.  
 2. Congress and the Muslim League signed the Lucknow Pact.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -780,7 +906,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. Dadabhai Naoroji presided over the Congress in 1886, 1893 and 1906.  
 2. At the 1906 Calcutta session Swaraj was put forward as a Congress goal.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -793,7 +925,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q21.** Which of the following is NOT correctly matched?
 
-Options: A. Kesari — Tilak  B. Servants of India Society — Gokhale  C. A Nation in Making — Lajpat Rai  D. Drain of Wealth — Naoroji
+A. Kesari — Tilak
+
+B. Servants of India Society — Gokhale
+
+C. A Nation in Making — Lajpat Rai
+
+D. Drain of Wealth — Naoroji
 
 <details>
 <summary>Show answer</summary>
@@ -811,7 +949,13 @@ Options: A. Kesari — Tilak  B. Servants of India Society — Gokhale  C. A Nat
 3. Madras Mahajan Sabha  
 4. INC first session
 
-Options: A. 2, 1, 3, 4  B. 1, 2, 3, 4  C. 2, 3, 1, 4  D. 2, 1, 4, 3
+A. 2, 1, 3, 4
+
+B. 1, 2, 3, 4
+
+C. 2, 3, 1, 4
+
+D. 2, 1, 4, 3
 
 <details>
 <summary>Show answer</summary>
@@ -827,7 +971,13 @@ Options: A. 2, 1, 3, 4  B. 1, 2, 3, 4  C. 2, 3, 1, 4  D. 2, 1, 4, 3
 1. He was a retired ICS officer who organised the first Congress.  
 2. He was the first President of the Indian National Congress.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -862,7 +1012,13 @@ D. (A) is false, but (R) is true
 1. Badruddin Tyabji was the first Muslim President of Congress.  
 2. George Yule was the first English President of Congress.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -878,7 +1034,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. He started Kesari and Maratha.  
 2. He founded a Home Rule League in 1916.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -894,7 +1056,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. Surat  B. Lucknow  C. Banaras  D. Calcutta (first woman President)  
 **List-II** 1. 1905  2. 1907  3. 1916  4. 1917
 
-Options: A. 2 3 1 4  B. 3 2 1 4  C. 2 3 4 1  D. 1 2 3 4
+A. 2 3 1 4
+
+B. 3 2 1 4
+
+C. 2 3 4 1
+
+D. 1 2 3 4
 
 <details>
 <summary>Show answer</summary>
@@ -911,7 +1079,13 @@ Options: A. 2 3 1 4  B. 3 2 1 4  C. 2 3 4 1  D. 1 2 3 4
 2. Annie Besant — 1917 Calcutta President  
 3. Tilak — 1905 Banaras President
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -927,7 +1101,13 @@ Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
 1. The Indian National Conference of Surendranath Banerjee met in 1883 and 1885.  
 2. The Indian National Conference and the INC were the same body in 1885.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -943,7 +1123,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. He was elected to the British House of Commons from Central Finsbury in 1892.  
 2. Drain of Wealth is associated with him.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -961,7 +1147,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 3. August Offer  
 4. Cripps Mission arrival
 
-Options: A. 3, 1, 4, 2  B. 4, 3, 1, 2  C. 1, 2, 3, 4  D. 1, 3, 2, 4
+A. 3, 1, 4, 2
+
+B. 4, 3, 1, 2
+
+C. 1, 2, 3, 4
+
+D. 1, 3, 2, 4
 
 <details>
 <summary>Show answer</summary>
@@ -977,7 +1169,13 @@ Options: A. 3, 1, 4, 2  B. 4, 3, 1, 2  C. 1, 2, 3, 4  D. 1, 3, 2, 4
 1. Gokhale founded the Servants of India Society in 1905.  
 2. Tilak founded the Servants of India Society.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -992,7 +1190,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 (Organisation) (Founder / circle)
 
-Options: A. East India Association — Dadabhai Naoroji  B. Indian Association — Surendranath Banerjee  C. Bombay Presidency Association — Mary Carpenter  D. National Indian Association — Mary Carpenter
+A. East India Association — Dadabhai Naoroji
+
+B. Indian Association — Surendranath Banerjee
+
+C. Bombay Presidency Association — Mary Carpenter
+
+D. National Indian Association — Mary Carpenter
 
 <details>
 <summary>Show answer</summary>
@@ -1008,7 +1212,13 @@ Options: A. East India Association — Dadabhai Naoroji  B. Indian Association �
 1. It took place in 1907.  
 2. It was a split between Moderates and Extremists.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1043,7 +1253,13 @@ D. (A) is false, but (R) is true
 1. Annie Besant was the first woman President of the Indian National Congress.  
 2. She presided over the Lucknow session of 1916.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1059,7 +1275,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. Lal  B. Bal  C. Pal  D. Lion of Bombay  
 **List-II** 1. Tilak  2. Lajpat Rai  3. Pherozeshah Mehta  4. Bipin Chandra Pal
 
-Options: A. 2 1 4 3  B. 1 2 3 4  C. 2 1 3 4  D. 4 1 2 3
+A. 2 1 4 3
+
+B. 1 2 3 4
+
+C. 2 1 3 4
+
+D. 4 1 2 3
 
 <details>
 <summary>Show answer</summary>
@@ -1075,7 +1297,13 @@ Options: A. 2 1 4 3  B. 1 2 3 4  C. 2 1 3 4  D. 4 1 2 3
 1. It met at Gokuldas Tejpal Sanskrit College, Bombay.  
 2. About seventy-two delegates attended.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1092,7 +1320,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. *Poverty and Un-British Rule in India* — 1901  
 3. *A Nation in Making* — Gokhale
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1108,7 +1342,13 @@ Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
 1. The Lucknow Pact accepted separate electorates as part of a Congress–League bargain.  
 2. The Lucknow Pact was signed in 1911 at the Delhi Durbar.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1124,7 +1364,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. He wrote *The Story of My Deportation*.  
 2. He never presided over any Congress session.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1142,7 +1388,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 3. Gokhale  
 4. Badruddin Tyabji
 
-Options: A. 2, 4, 3, 1  B. 2, 3, 4, 1  C. 4, 2, 3, 1  D. 2, 4, 1, 3
+A. 2, 4, 3, 1
+
+B. 2, 3, 4, 1
+
+C. 4, 2, 3, 1
+
+D. 2, 4, 1, 3
 
 <details>
 <summary>Show answer</summary>
@@ -1158,7 +1410,13 @@ Options: A. 2, 4, 3, 1  B. 2, 3, 4, 1  C. 4, 2, 3, 1  D. 2, 4, 1, 3
 1. Indian League (1875) is associated with Sisir Kumar Ghosh.  
 2. Indian Association (1876) is associated with Surendranath Banerjee and Ananda Mohan Bose.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1171,7 +1429,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q44.** Which of the following is NOT correctly matched?
 
-Options: A. Ramgarh Session — 1940  B. Haripura Session — 1938  C. Surat Session — 1906  D. Amritsar Session — 1919
+A. Ramgarh Session — 1940
+
+B. Haripura Session — 1938
+
+C. Surat Session — 1906
+
+D. Amritsar Session — 1919
 
 <details>
 <summary>Show answer</summary>
@@ -1187,7 +1451,13 @@ Options: A. Ramgarh Session — 1940  B. Haripura Session — 1938  C. Surat Ses
 1. It demanded a reduction in military expenditure.  
 2. It rejected all council reform as a Moderate illusion and asked only for armed revolt.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1212,7 +1482,13 @@ Which of the following events took place in the year 1911?
 
 Select the correct answer from the code given below:
 
-Options: A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
+A. 1 and 2
+
+B. Only 3
+
+C. 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1234,7 +1510,13 @@ Consider the following events and arrange them in chronological order:
 
 Select the correct answer from the codes given below:
 
-Options: A. 1, 2, 4, 3  B. 1, 3, 2, 4  C. 2, 1, 4, 3  D. 1, 2, 3, 4
+A. 1, 2, 4, 3
+
+B. 1, 3, 2, 4
+
+C. 2, 1, 4, 3
+
+D. 1, 2, 3, 4
 
 <details>
 <summary>Show answer</summary>
@@ -1252,7 +1534,13 @@ With reference to the Age of Consent Act, 1891 consider the following statements
 
 Which of the above statements is/are correct?
 
-Options: A. Only 2  B. Neither 1 nor 2  C. Only 1  D. Both 1 and 2
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Both 1 and 2
 
 <details>
 <summary>Show answer</summary>
@@ -1272,7 +1560,13 @@ Consider the following events and arrange them in chronological order:
 
 Select the correct answer from the codes given below:
 
-Options: A. 3, 1, 4, 2  B. 4, 3, 1, 2  C. 1, 3, 4, 2  D. 4, 2, 3, 1
+A. 3, 1, 4, 2
+
+B. 4, 3, 1, 2
+
+C. 1, 3, 4, 2
+
+D. 4, 2, 3, 1
 
 <details>
 <summary>Show answer</summary>
@@ -1310,7 +1604,13 @@ D. (A) is true, but (R) is false.
 
 Who among the following never presided a Session of Indian National Congress?
 
-Options: A. Lala Lajpat Rai  B. Bal Gangadhar Tilak  C. Gopal Krishna Gokhale  D. Subhash Chandra Bose
+A. Lala Lajpat Rai
+
+B. Bal Gangadhar Tilak
+
+C. Gopal Krishna Gokhale
+
+D. Subhash Chandra Bose
 
 <details>
 <summary>Show answer</summary>
@@ -1323,7 +1623,13 @@ Options: A. Lala Lajpat Rai  B. Bal Gangadhar Tilak  C. Gopal Krishna Gokhale  D
 
 In which year the book 'Poverty and Un-British Rule in India' was published?
 
-Options: A. 1900 A.D.  B. 1901 A.D.  C. 1902 A.D.  D. 1903 A.D.
+A. 1900 A.D.
+
+B. 1901 A.D.
+
+C. 1902 A.D.
+
+D. 1903 A.D.
 
 <details>
 <summary>Show answer</summary>
@@ -1344,7 +1650,13 @@ B. Gita Rahasya  2. Maulana Abul Kalam Azad
 C. A Nation in Making  3. Lala Lajpat Rai  
 D. India Wins Freedom  4. Bal Gangadhar Tilak
 
-Options: A. 3 4 1 2  B. 4 2 1 3  C. 2 4 1 3  D. 4 3 2 1
+A. 3 4 1 2
+
+B. 4 2 1 3
+
+C. 2 4 1 3
+
+D. 4 3 2 1
 
 <details>
 <summary>Show answer</summary>

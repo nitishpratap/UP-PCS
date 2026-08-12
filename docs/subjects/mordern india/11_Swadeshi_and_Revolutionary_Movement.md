@@ -109,7 +109,13 @@ With reference to the Civil Administration in 1905, which of the statements is/a
 1. Lord Curzon decided to rearrange the provincial boundaries.  
 2. A new province was constituted, called East Bengal and Assam.
 
-Options: A. 1 only  B. Both 1 and 2  C. 2 only  D. Neither 1 nor 2
+A. 1 only
+
+B. Both 1 and 2
+
+C. 2 only
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -160,7 +166,13 @@ Which of the following events took place in the year 1911?
 2. Transfer of capital from Calcutta to Delhi  
 3. Lucknow Pact between Congress and Muslim League
 
-Options: A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
+A. 1 and 2
+
+B. Only 3
+
+C. 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -209,7 +221,13 @@ Options: A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
 
 Which among the following organisations was responsible for throwing a bomb at Viceroy **Lord Hardinge** in Delhi?
 
-Options: A. All India Labour Association  B. United Patriotic Association  C. Anushilan Samiti  D. Yugantar
+A. All India Labour Association
+
+B. United Patriotic Association
+
+C. Anushilan Samiti
+
+D. Yugantar
 
 <details>
 <summary>Show answer</summary>
@@ -247,7 +265,13 @@ Options: A. All India Labour Association  B. United Patriotic Association  C. An
 
 Who among the following leaders founded the revolutionary organization-'Abhinav Bharat Society'?
 
-Options: A. Bhagat Singh  B. Vinayak Damodar Savarkar  C. Barindra Kumar Ghosh  D. Pulin Bihari
+A. Bhagat Singh
+
+B. Vinayak Damodar Savarkar
+
+C. Barindra Kumar Ghosh
+
+D. Pulin Bihari
 
 <details>
 <summary>Show answer</summary>
@@ -281,7 +305,13 @@ II. Chittagong Armoury Raid
 III. Set up of the 'Indian Independence Committee' at Berlin  
 IV. Central Assembly Bomb Case
 
-Options: A. III, I, IV and II  B. I, III, IV and II  C. I, III, II and IV  D. III, I, II and IV
+A. III, I, IV and II
+
+B. I, III, IV and II
+
+C. I, III, II and IV
+
+D. III, I, II and IV
 
 <details>
 <summary>Show answer</summary>
@@ -325,7 +355,13 @@ Options: A. III, I, IV and II  B. I, III, IV and II  C. I, III, II and IV  D. II
 
 Who among the following was NOT an early member of the Naujawan-Sabha' formed in 1926 A.D.?
 
-Options: A. Bhagat Singh  B. Yaspal  C. Chhabil Das  D. Ambika Chakravarti
+A. Bhagat Singh
+
+B. Yaspal
+
+C. Chhabil Das
+
+D. Ambika Chakravarti
 
 <details>
 <summary>Show answer</summary>
@@ -387,7 +423,13 @@ Options: A. Bhagat Singh  B. Yaspal  C. Chhabil Das  D. Ambika Chakravarti
 
 Who among the following was NOT associated with the Kanpur Conspiracy Case of 1924?
 
-Options: A. Muzaffar Ahmed  B. Nalini Gupta  C. Shaukat Usmani  D. M.A. Ansari
+A. Muzaffar Ahmed
+
+B. Nalini Gupta
+
+C. Shaukat Usmani
+
+D. M.A. Ansari
 
 <details>
 <summary>Show answer</summary>
@@ -422,7 +464,13 @@ Options: A. Muzaffar Ahmed  B. Nalini Gupta  C. Shaukat Usmani  D. M.A. Ansari
 1. Lord Curzon decided to rearrange the provincial boundaries.  
 2. A new province was constituted, called East Bengal and Assam.
 
-Options: A. Only 1  B. Both 1 and 2  C. Only 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Both 1 and 2
+
+C. Only 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -439,7 +487,13 @@ Options: A. Only 1  B. Both 1 and 2  C. Only 2  D. Neither 1 nor 2
 2. Transfer of capital from Calcutta to Delhi  
 3. Lucknow Pact between Congress and Muslim League
 
-Options: A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
+A. 1 and 2
+
+B. Only 3
+
+C. 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -452,7 +506,13 @@ Options: A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
 
 **Q3.** Which organisation was responsible for throwing a bomb at Viceroy Lord Hardinge in Delhi?
 
-Options: A. All India Labour Association  B. United Patriotic Association  C. Anushilan Samiti  D. Yugantar
+A. All India Labour Association
+
+B. United Patriotic Association
+
+C. Anushilan Samiti
+
+D. Yugantar
 
 <details>
 <summary>Show answer</summary>
@@ -470,7 +530,13 @@ II. Chittagong Armoury Raid
 III. Indian Independence Committee at Berlin  
 IV. Central Assembly Bomb Case
 
-Options: A. III, I, IV and II  B. I, III, IV and II  C. I, III, II and IV  D. III, I, II and IV
+A. III, I, IV and II
+
+B. I, III, IV and II
+
+C. I, III, II and IV
+
+D. III, I, II and IV
 
 <details>
 <summary>Show answer</summary>
@@ -483,7 +549,13 @@ Options: A. III, I, IV and II  B. I, III, IV and II  C. I, III, II and IV  D. II
 
 **Q5.** Who founded the revolutionary organisation Abhinav Bharat Society?
 
-Options: A. Bhagat Singh  B. Vinayak Damodar Savarkar  C. Barindra Kumar Ghosh  D. Pulin Bihari
+A. Bhagat Singh
+
+B. Vinayak Damodar Savarkar
+
+C. Barindra Kumar Ghosh
+
+D. Pulin Bihari
 
 <details>
 <summary>Show answer</summary>
@@ -496,7 +568,13 @@ Options: A. Bhagat Singh  B. Vinayak Damodar Savarkar  C. Barindra Kumar Ghosh  
 
 **Q6.** Who among the following was NOT an early member of the Naujawan Sabha formed in 1926?
 
-Options: A. Bhagat Singh  B. Yashpal  C. Chhabil Das  D. Ambika Chakravarti
+A. Bhagat Singh
+
+B. Yashpal
+
+C. Chhabil Das
+
+D. Ambika Chakravarti
 
 <details>
 <summary>Show answer</summary>
@@ -509,7 +587,13 @@ Options: A. Bhagat Singh  B. Yashpal  C. Chhabil Das  D. Ambika Chakravarti
 
 **Q7.** Who among the following was NOT associated with the Kanpur Conspiracy Case of 1924?
 
-Options: A. Muzaffar Ahmed  B. Nalini Gupta  C. Shaukat Usmani  D. M.A. Ansari
+A. Muzaffar Ahmed
+
+B. Nalini Gupta
+
+C. Shaukat Usmani
+
+D. M.A. Ansari
 
 <details>
 <summary>Show answer</summary>
@@ -525,7 +609,13 @@ Options: A. Muzaffar Ahmed  B. Nalini Gupta  C. Shaukat Usmani  D. M.A. Ansari
 **List-I** A. Kakori  B. Chittagong  C. Hardinge bomb  D. Assembly bomb  
 **List-II** 1. 1930  2. 1925  3. 1929  4. 1912
 
-Options: A. 2 1 4 3  B. 1 2 3 4  C. 2 1 3 4  D. 2 4 1 3
+A. 2 1 4 3
+
+B. 1 2 3 4
+
+C. 2 1 3 4
+
+D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -541,7 +631,13 @@ Options: A. 2 1 4 3  B. 1 2 3 4  C. 2 1 3 4  D. 2 4 1 3
 1. The Boycott Resolution was passed at Calcutta Town Hall on 7 August 1905.  
 2. The National Council of Education was set up in August 1906.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -554,7 +650,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q10.** Which of the following pairs is NOT correctly matched?
 
-Options: A. East Bengal and Assam — 1905  B. Annulment of Partition — 1911  C. Lucknow Pact — 1911  D. Calcutta Congress Swaraj goal — 1906
+A. East Bengal and Assam — 1905
+
+B. Annulment of Partition — 1911
+
+C. Lucknow Pact — 1911
+
+D. Calcutta Congress Swaraj goal — 1906
 
 <details>
 <summary>Show answer</summary>
@@ -570,7 +672,13 @@ Options: A. East Bengal and Assam — 1905  B. Annulment of Partition — 1911  
 1. Kakori action was carried out by the HRA in 1925.  
 2. Kakori action was carried out by the HSRA in 1928.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -586,7 +694,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. He was born at Shahjahanpur.  
 2. He was hanged at Gorakhpur Jail in December 1927.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -621,7 +735,13 @@ D. (A) is false, but (R) is true
 **List-I** A. Ghadar Party  B. HRA  C. HSRA  D. Abhinav Bharat  
 **List-II** 1. Savarkar  2. 1913  3. 1924  4. 1928
 
-Options: A. 2 3 4 1  B. 2 4 3 1  C. 3 2 4 1  D. 2 3 1 4
+A. 2 3 4 1
+
+B. 2 4 3 1
+
+C. 3 2 4 1
+
+D. 2 3 1 4
 
 <details>
 <summary>Show answer</summary>
@@ -637,7 +757,13 @@ Options: A. 2 3 4 1  B. 2 4 3 1  C. 3 2 4 1  D. 2 3 1 4
 1. Surya Sen led the armoury raid on 18 April 1930.  
 2. Pritilata Waddedar and Kalpana Datta were associated with this circle.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -653,7 +779,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. Khudiram Bose and Prafulla Chaki were associated with the Muzaffarpur bomb of 1908.  
 2. The Alipore Conspiracy Case followed the Manicktolla arrests.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -670,7 +802,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Ghadar — Lala Hardayal / Sohan Singh Bhakna  
 3. Hardinge bomb — Bhagat Singh
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -686,7 +824,13 @@ Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
 1. It was formed in 1928 at Feroz Shah Kotla, Delhi.  
 2. Bhagat Singh and B.K. Dutt threw bombs in the Central Assembly in April 1929.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -699,7 +843,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q19.** Arrange: 1. Partition of Bengal  2. Delhi Durbar annulment  3. Surat Split  4. Kakori
 
-Options: A. 1, 3, 2, 4  B. 1, 2, 3, 4  C. 3, 1, 2, 4  D. 1, 3, 4, 2
+A. 1, 3, 2, 4
+
+B. 1, 2, 3, 4
+
+C. 3, 1, 2, 4
+
+D. 1, 3, 4, 2
 
 <details>
 <summary>Show answer</summary>
@@ -715,7 +865,13 @@ Options: A. 1, 3, 2, 4  B. 1, 2, 3, 4  C. 3, 1, 2, 4  D. 1, 3, 4, 2
 1. V.O. Chidambaram Pillai founded the Swadeshi Steam Navigation Company.  
 2. Ashwini Kumar Dutt organised the Swadesh Bandhab Samiti at Barisal.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -728,7 +884,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q21.** Which of the following is NOT correctly matched?
 
-Options: A. Bismil hanged — Gorakhpur  B. Ashfaqulla hanged — Faizabad  C. Azad hanged in Kakori case — Shahjahanpur  D. Lahiri hanged — Gonda
+A. Bismil hanged — Gorakhpur
+
+B. Ashfaqulla hanged — Faizabad
+
+C. Azad hanged in Kakori case — Shahjahanpur
+
+D. Lahiri hanged — Gonda
 
 <details>
 <summary>Show answer</summary>
@@ -763,7 +925,13 @@ D. (A) is false, but (R) is true
 **List-I** A. Khudiram Bose  B. Madan Lal Dhingra  C. Surya Sen  D. Bhagat Singh  
 **List-II** 1. Curzon Wyllie  2. Muzaffarpur  3. Assembly bomb  4. Chittagong
 
-Options: A. 2 1 4 3  B. 1 2 3 4  C. 2 1 3 4  D. 2 4 1 3
+A. 2 1 4 3
+
+B. 1 2 3 4
+
+C. 2 1 3 4
+
+D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -779,7 +947,13 @@ Options: A. 2 1 4 3  B. 1 2 3 4  C. 2 1 3 4  D. 2 4 1 3
 1. It was HSRA’s revenge after Lala Lajpat Rai’s death.  
 2. It took place in Lahore in December 1928.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -795,7 +969,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. Anushilan Samiti was founded in Calcutta in 1902.  
 2. Pulin Behari Das is associated with Dhaka Anushilan.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -812,7 +992,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Berlin Committee — 1913  
 3. Ghadar Party — 1913
 
-Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
+A. Only 2
+
+B. Only 1 and 2
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -828,7 +1014,13 @@ Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
 1. He took part in the HRA/Kakori network and escaped hanging.  
 2. He died at Alfred Park, Allahabad, on 27 February 1931.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -844,7 +1036,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I (GG/Viceroy)** A. Dalhousie  B. Curzon  C. Bentinck  D. Cornwallis  
 **List-II** 1. Permanent Settlement  2. Abolition of Sati  3. Partition of Bengal  4. Doctrine of Lapse
 
-Options: A. 4 3 2 1  B. 4 3 1 2  C. 3 4 2 1  D. 4 2 3 1
+A. 4 3 2 1
+
+B. 4 3 1 2
+
+C. 3 4 2 1
+
+D. 4 2 3 1
 
 <details>
 <summary>Show answer</summary>
@@ -860,7 +1058,13 @@ Options: A. 4 3 2 1  B. 4 3 1 2  C. 3 4 2 1  D. 4 2 3 1
 1. Aurobindo was principal of Bengal National College.  
 2. Aurobindo was convicted and hanged in the Alipore case.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -873,7 +1077,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q30.** Which of the following is NOT correctly matched?
 
-Options: A. Nasik / Jackson murder — 1909  B. Hardinge bomb — 1912  C. Assembly bomb — 1929  D. Chittagong raid — 1925
+A. Nasik / Jackson murder — 1909
+
+B. Hardinge bomb — 1912
+
+C. Assembly bomb — 1929
+
+D. Chittagong raid — 1925
 
 <details>
 <summary>Show answer</summary>
@@ -889,7 +1099,13 @@ Options: A. Nasik / Jackson murder — 1909  B. Hardinge bomb — 1912  C. Assem
 1. The National Council of Education was formed in 1906.  
 2. BHU was founded in 1906 as part of the same NCE resolution.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -924,7 +1140,13 @@ D. (A) is false, but (R) is true
 1. Sachindra Nath Sanyal is associated with the founding of HRA.  
 2. The Revolutionary (Yellow Paper) stated HRA’s republican aim.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -940,7 +1162,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. Swadesh Bandhab Samiti  B. Swadeshi Steam Navigation  C. Bengal National College  D. India House  
 **List-II** 1. Aurobindo  2. Ashwini Kumar Dutt  3. Shyamji Krishna Varma  4. V.O.C. Pillai
 
-Options: A. 2 4 1 3  B. 2 4 3 1  C. 4 2 1 3  D. 2 1 4 3
+A. 2 4 1 3
+
+B. 2 4 3 1
+
+C. 4 2 1 3
+
+D. 2 1 4 3
 
 <details>
 <summary>Show answer</summary>
@@ -957,7 +1185,13 @@ Options: A. 2 4 1 3  B. 2 4 3 1  C. 4 2 1 3  D. 2 1 4 3
 2. Surya Sen hanged — 1925  
 3. Khudiram hanged after Muzaffarpur — 1908
 
-Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
+A. Only 2
+
+B. Only 1 and 2
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -973,7 +1207,13 @@ Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
 1. The party was based among Pacific-coast Indians and published *Ghadar*.  
 2. Komagata Maru (1914) was used as proof of racial exclusion.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -986,7 +1226,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q37.** Arrange: 1. Muzaffarpur bomb  2. Kakori  3. Hardinge bomb  4. Chittagong raid
 
-Options: A. 1, 3, 2, 4  B. 1, 2, 3, 4  C. 3, 1, 2, 4  D. 1, 3, 4, 2
+A. 1, 3, 2, 4
+
+B. 1, 2, 3, 4
+
+C. 3, 1, 2, 4
+
+D. 1, 3, 4, 2
 
 <details>
 <summary>Show answer</summary>
@@ -1002,7 +1248,13 @@ Options: A. 1, 3, 2, 4  B. 1, 2, 3, 4  C. 3, 1, 2, 4  D. 1, 3, 4, 2
 1. Ambika Chakravarti was an early member of Naujawan Bharat Sabha in 1926.  
 2. Ambika Chakravarti belonged to the Chittagong revolutionary circle.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1015,7 +1267,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q39.** Which of the following is NOT correctly matched?
 
-Options: A. Chapekar brothers — 1897  B. Dhingra / Curzon Wyllie — 1909  C. Saunders murder — 1928  D. HRA founded — 1930
+A. Chapekar brothers — 1897
+
+B. Dhingra / Curzon Wyllie — 1909
+
+C. Saunders murder — 1928
+
+D. HRA founded — 1930
 
 <details>
 <summary>Show answer</summary>
@@ -1031,7 +1289,13 @@ Options: A. Chapekar brothers — 1897  B. Dhingra / Curzon Wyllie — 1909  C. 
 1. Partition of Bengal was annulled.  
 2. The imperial capital was transferred from Calcutta to Delhi.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1066,7 +1330,13 @@ D. (A) is false, but (R) is true
 **List-I** A. Rash Behari Bose  B. Barindra Kumar Ghosh  C. Sohan Singh Bhakna  D. Surya Sen  
 **List-II** 1. Jugantar / Manicktolla  2. Hardinge bomb  3. Chittagong  4. Ghadar
 
-Options: A. 2 1 4 3  B. 1 2 3 4  C. 2 1 3 4  D. 2 4 1 3
+A. 2 1 4 3
+
+B. 1 2 3 4
+
+C. 2 1 3 4
+
+D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -1082,7 +1352,13 @@ Options: A. 2 1 4 3  B. 1 2 3 4  C. 2 1 3 4  D. 2 4 1 3
 1. M.A. Ansari was an accused in the Kanpur Conspiracy Case of 1924.  
 2. Muzaffar Ahmed and Shaukat Usmani were associated with that case.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1098,7 +1374,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. Extremists wanted boycott to extend to schools, courts, titles and jobs.  
 2. Moderates generally limited boycott to foreign goods and constitutional protest.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1115,7 +1397,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Faizabad hanging — Ram Prasad Bismil  
 3. Lahore hanging 23 March 1931 — Bhagat Singh, Rajguru, Sukhdev
 
-Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
+A. Only 2
+
+B. Only 1 and 2
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1138,7 +1426,13 @@ Which of the following events took place in the year 1911?
 2. Transfer of capital from Calcutta to Delhi  
 3. Lucknow Pact between Congress and Muslim League
 
-Options: A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
+A. 1 and 2
+
+B. Only 3
+
+C. 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1157,7 +1451,13 @@ B. Lord Curzon  2. Prohibition of Practice of Sati
 C. Lord William Bentinck  3. Partition of Bengal  
 D. Lord Cornwallis  4. Doctrine of Lapse
 
-Options: A. 4 3 1 2  B. 3 4 2 1  C. 3 4 1 2  D. 4 3 2 1
+A. 4 3 1 2
+
+B. 3 4 2 1
+
+C. 3 4 1 2
+
+D. 4 3 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -1172,7 +1472,13 @@ Options: A. 4 3 1 2  B. 3 4 2 1  C. 3 4 1 2  D. 4 3 2 1
 
 Which among the following organisations was responsible for throwing a bomb at Viceroy **Lord Hardinge** in Delhi?
 
-Options: A. All India Labour Association  B. United Patriotic Association  C. Anushilan Samiti  D. Yugantar
+A. All India Labour Association
+
+B. United Patriotic Association
+
+C. Anushilan Samiti
+
+D. Yugantar
 
 <details>
 <summary>Show answer</summary>
@@ -1192,7 +1498,13 @@ II. Chittagong Armoury Raid
 III. Set up of the 'Indian Independence Committee' at Berlin  
 IV. Central Assembly Bomb Case
 
-Options: A. III, I, IV and II  B. I, III, IV and II  C. I, III, II and IV  D. III, I, II and IV
+A. III, I, IV and II
+
+B. I, III, IV and II
+
+C. I, III, II and IV
+
+D. III, I, II and IV
 
 <details>
 <summary>Show answer</summary>
@@ -1207,7 +1519,13 @@ Options: A. III, I, IV and II  B. I, III, IV and II  C. I, III, II and IV  D. II
 
 Who among the following was NOT associated with the Kanpur Conspiracy Case of 1924?
 
-Options: A. Muzaffar Ahmed  B. Nalini Gupta  C. Shaukat Usmani  D. M.A. Ansari
+A. Muzaffar Ahmed
+
+B. Nalini Gupta
+
+C. Shaukat Usmani
+
+D. M.A. Ansari
 
 <details>
 <summary>Show answer</summary>
@@ -1220,7 +1538,13 @@ Options: A. Muzaffar Ahmed  B. Nalini Gupta  C. Shaukat Usmani  D. M.A. Ansari
 
 Who among the following was NOT an early member of the Naujawan-Sabha' formed in 1926 A.D.?
 
-Options: A. Bhagat Singh  B. Yaspal  C. Chhabil Das  D. Ambika Chakravarti
+A. Bhagat Singh
+
+B. Yaspal
+
+C. Chhabil Das
+
+D. Ambika Chakravarti
 
 <details>
 <summary>Show answer</summary>
@@ -1238,7 +1562,13 @@ With reference to the Civil Administration in 1905, which of the statements is/a
 1. Lord Curzon decided to rearrange the provincial boundaries.  
 2. A new province was constituted, called East Bengal and Assam.
 
-Options: A. 1 only  B. Both 1 and 2  C. 2 only  D. Neither 1 nor 2
+A. 1 only
+
+B. Both 1 and 2
+
+C. 2 only
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1253,7 +1583,13 @@ Options: A. 1 only  B. Both 1 and 2  C. 2 only  D. Neither 1 nor 2
 
 Who among the following leaders founded the revolutionary organization-'Abhinav Bharat Society'?
 
-Options: A. Bhagat Singh  B. Vinayak Damodar Savarkar  C. Barindra Kumar Ghosh  D. Pulin Bihari
+A. Bhagat Singh
+
+B. Vinayak Damodar Savarkar
+
+C. Barindra Kumar Ghosh
+
+D. Pulin Bihari
 
 <details>
 <summary>Show answer</summary>

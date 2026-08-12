@@ -237,7 +237,13 @@ TRAP: 2019 Q88 matched Amir Khusrau–Rag Vibodh in a literary list;
 
 **Q1.** Who patronised Tansen **before** Akbar?
 
-Options: A. Raja Ramchandra Singh of Bhata | B. Rajbahadur of Malwa | C. Uday Singh of Mewar | D. Muzaffar Shah of Gujarat
+A. Raja Ramchandra Singh of Bhata |
+
+B. Rajbahadur of Malwa |
+
+C. Uday Singh of Mewar |
+
+D. Muzaffar Shah of Gujarat
 
 <details><summary>Show answer</summary>**Ans: A** — 2019 Q89.</details>
 
@@ -249,37 +255,73 @@ Options: A.3-4-1-2 | B.4-2-1-3 | C.2-3-4-1 | D.1-2-3-4
 
 **Q3.** Tappa style was refined in the court of:
 
-Options: A. Akbar | B. Jahangir | C. Shah Jahan | D. Muhammad Shah
+A. Akbar |
+
+B. Jahangir |
+
+C. Shah Jahan |
+
+D. Muhammad Shah
 
 <details><summary>Show answer</summary>**Ans: D** — 2023 Q38.</details>
 
 **Q4.** A(A): Sanskrit music works were translated into Persian. R(R): Early Chishti sufis were fond of sama.
 
-Options: A. Both true, R explains A | B. Both true, R not explanation | C. A true, R false | D. A false, R true
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
 
 <details><summary>Show answer</summary>**Ans: B** — 2018 Q90.</details>
 
 **Q5.** Primary drum of dhrupad:
 
-Options: A. Tabla | B. Mridangam | C. Pakhawaj | D. Dholak
+A. Tabla |
+
+B. Mridangam |
+
+C. Pakhawaj |
+
+D. Dholak
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q6.** 1. Tansen was Akbar’s Navratna 2. Tansen’s main form was khayal
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: A** — Tansen = dhrupad.</details>
 
 **Q7.** Amir Khusrau’s guru:
 
-Options: A. Ramananda | B. Nizamuddin Auliya | C. Vallabhacharya | D. Guru Nanak
+A. Ramananda |
+
+B. Nizamuddin Auliya |
+
+C. Vallabhacharya |
+
+D. Guru Nanak
 
 <details><summary>Show answer</summary>**Ans: B** — 2025 Q12.</details>
 
 **Q8.** Khayal bloom is linked to:
 
-Options: A. Tansen at Akbar’s court | B. Sadarang/Adarang under Muhammad Shah | C. Man Singh Tomar only | D. Tyagaraja
+A. Tansen at Akbar’s court |
+
+B. Sadarang/Adarang under Muhammad Shah |
+
+C. Man Singh Tomar only |
+
+D. Tyagaraja
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
@@ -291,103 +333,205 @@ Options: A.1-2-3-4 | B.2-4-3-1 | C.4-2-1-3 | D.3-4-1-2
 
 **Q10.** Qawwali is traditionally linked to:
 
-Options: A. Tansen | B. Amir Khusrau | C. Tyagaraja | D. Venkatamakhin
+A. Tansen |
+
+B. Amir Khusrau |
+
+C. Tyagaraja |
+
+D. Venkatamakhin
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q11.** 1. Dhrupad is older than khayal 2. Khayal uses tabla as main drum
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q12.** NOT correctly matched:
 
-Options: A. Tansen — dhrupad | B. Tappa — Muhammad Shah | C. Khayal — Akbar’s signature form | D. Qawwali — Khusrau
+A. Tansen — dhrupad |
+
+B. Tappa — Muhammad Shah |
+
+C. Khayal — Akbar’s signature form |
+
+D. Qawwali — Khusrau
 
 <details><summary>Show answer</summary>**Ans: C** — Akbar signature = dhrupad.</details>
 
 **Q13.** Chaturdandi Prakashika author:
 
-Options: A. Pundrik Vitthal | B. Sri Kantha | C. Somanath | D. Venkatraman
+A. Pundrik Vitthal |
+
+B. Sri Kantha |
+
+C. Somanath |
+
+D. Venkatraman
 
 <details><summary>Show answer</summary>**Ans: D**</details>
 
 **Q14.** Raja Man Singh Tomar is linked with early:
 
-Options: A. Carnatic kriti | B. Dhrupad | C. Tappa | D. Thumri
+A. Carnatic kriti |
+
+B. Dhrupad |
+
+C. Tappa |
+
+D. Thumri
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q15.** 1. Khusrau lived under Alauddin Khalji 2. Khusrau was Tansen’s contemporary
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q16.** Raga Vibodh (music-treatise PYQ lock) is by:
 
-Options: A. Amir Khusrau | B. Somanath | C. Tansen | D. Sharngadeva
+A. Amir Khusrau |
+
+B. Somanath |
+
+C. Tansen |
+
+D. Sharngadeva
 
 <details><summary>Show answer</summary>**Ans: B** — 2021/2022.</details>
 
 **Q17.** Muhammad Shah is also called:
 
-Options: A. Zil-i-Ilahi | B. Rangeela | C. Jahandari | D. Garib Nawaz
+A. Zil-i-Ilahi |
+
+B. Rangeela |
+
+C. Jahandari |
+
+D. Garib Nawaz
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q18.** Tappa composer lock:
 
-Options: A. Tansen | B. Shori Miyan | C. Tyagaraja | D. Abul Fazl
+A. Tansen |
+
+B. Shori Miyan |
+
+C. Tyagaraja |
+
+D. Abul Fazl
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q19.** Sama refers to:
 
-Options: A. Carnatic kriti | B. Chishti musical assembly | C. Mughal coin | D. Gwalior fort
+A. Carnatic kriti |
+
+B. Chishti musical assembly |
+
+C. Mughal coin |
+
+D. Gwalior fort
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q20.** 1. Ragamala — Pundrik Vitthal 2. Rasa Kaumudi — Somanath
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: A** — Rasa Kaumudi = Sri Kantha.</details>
 
 **Q21.** Ain-i-Akbari is useful for:
 
-Options: A. Listing Akbar-court musicians | B. Inventing khayal | C. Founding Carnatic Trinity | D. Writing Natyashastra
+A. Listing Akbar-court musicians |
+
+B. Inventing khayal |
+
+C. Founding Carnatic Trinity |
+
+D. Writing Natyashastra
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q22.** Which form uses nonsense syllables traditionally linked to Khusrau?
 
-Options: A. Dhrupad | B. Tarana | C. Tappa | D. Thumri
+A. Dhrupad |
+
+B. Tarana |
+
+C. Tappa |
+
+D. Thumri
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q23.** Pre-Akbar Tansen patron kingdom:
 
-Options: A. Bhata/Rewa | B. Mewar | C. Gujarat | D. Malwa (Rajbahadur)
+A. Bhata/Rewa |
+
+B. Mewar |
+
+C. Gujarat |
+
+D. Malwa (Rajbahadur)
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q24.** 1. Khayal bloomed under Muhammad Shah 2. Tappa also linked to Muhammad Shah court
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q25.** Oldest Hindustani art form among these:
 
-Options: A. Khayal | B. Thumri | C. Dhrupad | D. Tappa
+A. Khayal |
+
+B. Thumri |
+
+C. Dhrupad |
+
+D. Tappa
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q26.** NOT a Tansen-era lock:
 
-Options: A. Navratna | B. Dhrupad | C. Bhata patronage earlier | D. Carnatic Trinity member
+A. Navratna |
+
+B. Dhrupad |
+
+C. Bhata patronage earlier |
+
+D. Carnatic Trinity member
 
 <details><summary>Show answer</summary>**Ans: D**</details>
 
@@ -399,49 +543,97 @@ Options: A.2-3-1 | B.3-2-1 | C.1-2-3 | D.2-1-3
 
 **Q28.** Aurangzeb’s music policy traditionally meant:
 
-Options: A. Peak of khayal invention | B. Reduced imperial patronage; music shifted to regional courts | C. Invention of qawwali | D. Patronage of Tansen
+A. Peak of khayal invention |
+
+B. Reduced imperial patronage; music shifted to regional courts |
+
+C. Invention of qawwali |
+
+D. Patronage of Tansen
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q29.** Ragamala treatise author:
 
-Options: A. Sri Kantha | B. Pundrik Vitthal | C. Venkatraman | D. Sharngadeva
+A. Sri Kantha |
+
+B. Pundrik Vitthal |
+
+C. Venkatraman |
+
+D. Sharngadeva
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q30.** Which statement is false?
 
-Options: A. Tansen served Akbar | B. Tappa refined under Muhammad Shah | C. Qawwali linked to Khusrau | D. Dhrupad’s main drum is tabla
+A. Tansen served Akbar |
+
+B. Tappa refined under Muhammad Shah |
+
+C. Qawwali linked to Khusrau |
+
+D. Dhrupad’s main drum is tabla
 
 <details><summary>Show answer</summary>**Ans: D**</details>
 
 **Q31.** Sadarang is associated with:
 
-Options: A. Dhrupad under Akbar | B. Khayal under Muhammad Shah | C. Carnatic kriti | D. Natyashastra
+A. Dhrupad under Akbar |
+
+B. Khayal under Muhammad Shah |
+
+C. Carnatic kriti |
+
+D. Natyashastra
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q32.** 1. Chishti sama is musical 2. Naqshbandis were the strongest sama patrons
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: A** — Naqshbandi opposed music/sama.</details>
 
 **Q33.** Miyan Ki Todi is traditionally linked to:
 
-Options: A. Tyagaraja | B. Tansen | C. Venkatamakhin | D. Shori Miyan
+A. Tyagaraja |
+
+B. Tansen |
+
+C. Venkatamakhin |
+
+D. Shori Miyan
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q34.** Hindustani vs Carnatic (medieval outcome):
 
-Options: A. North court improvisation stream vs south kriti/melakarta stream | B. Same system with different names only | C. Both invented by Tansen | D. Both began under Muhammad Shah
+A. North court improvisation stream vs south kriti/melakarta stream |
+
+B. Same system with different names only |
+
+C. Both invented by Tansen |
+
+D. Both began under Muhammad Shah
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q35.** Correct pair:
 
-Options: A. Tappa — Akbar | B. Dhrupad — pakhawaj | C. Khayal — pakhawaj | D. Qawwali — Venkatamakhin
+A. Tappa — Akbar |
+
+B. Dhrupad — pakhawaj |
+
+C. Khayal — pakhawaj |
+
+D. Qawwali — Venkatamakhin
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
@@ -454,7 +646,13 @@ Options: A. Tappa — Akbar | B. Dhrupad — pakhawaj | C. Khayal — pakhawaj |
 Assertion (A): Many Sanskrit works on music were translated into Persian during the medieval period.  
 Reason (R): The early Chishti sufis were fond of musical assemblies called ‘sama’.
 
-Options: A. Both true; R explains A | B. Both true; R not explanation | C. A true; R false | D. A false; R true
+A. Both true; R explains A |
+
+B. Both true; R not explanation |
+
+C. A true; R false |
+
+D. A false; R true
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
@@ -462,7 +660,13 @@ Options: A. Both true; R explains A | B. Both true; R not explanation | C. A tru
 
 Who among the following kings had given patronage to Tansen before Akbar?
 
-Options: A. Raja Ramchandra Singh of Bhata | B. Rajbahadur of Malwa | C. Uday Singh of Mewar | D. Muzaffar Shah of Gujarat
+A. Raja Ramchandra Singh of Bhata |
+
+B. Rajbahadur of Malwa |
+
+C. Uday Singh of Mewar |
+
+D. Muzaffar Shah of Gujarat
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
@@ -494,7 +698,13 @@ Options: A.A-1 B-2 C-3 D-4 | B.A-2 B-4 C-3 D-1 | C.A-4 B-2 C-1 D-3 | D.A-3 B-4 C
 
 The Tappa style of music was refined and developed in the court of which Mughal Emperor?
 
-Options: A. Akbar | B. Jahangir | C. Shah Jahan | D. Muhammad Shah
+A. Akbar |
+
+B. Jahangir |
+
+C. Shah Jahan |
+
+D. Muhammad Shah
 
 <details><summary>Show answer</summary>**Ans: D**</details>
 

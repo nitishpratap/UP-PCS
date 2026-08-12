@@ -246,6 +246,7 @@ D. IV, III, I, II
 Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
 
 **Assertion (A):** We have much more information about Cholas than their predecessors.  
+
 **Reason (R):** The Chola rulers adopted the practice of having inscriptions written on the walls of temples giving a historical narrative of their victories.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -849,6 +850,7 @@ D. 1, 2 and 3
 **Q6.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 **Assertion (A):** The Shore Temple at Mahabalipuram is a structural temple.  
+
 **Reason (R):** The Pancha Rathas at the same site are monolithic rock-cut shrines.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -1054,6 +1056,7 @@ D. 1, 2 and 3
 **Q16.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 **Assertion (A):** The Alai Darwaza is considered a landmark in Indo-Islamic architecture.  
+
 **Reason (R):** It is the first building in the Qutub complex to use a true arch and true dome on a mature scale.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -1190,6 +1193,7 @@ D. 4, 2, 3, 1
 **Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 **Assertion (A):** Akbar constructed the Buland Darwaza at Fatehpur Sikri.  
+
 **Reason (R):** It was built to commemorate the birth of Prince Salim.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -1433,6 +1437,7 @@ D. 2, 4, 1, 3
 **Q34.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 **Assertion (A):** We know more about the Cholas than about many earlier South Indian dynasties.  
+
 **Reason (R):** Chola rulers had long historical narratives inscribed on temple walls.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -1752,6 +1757,7 @@ D. 1, 2 and 3
 **Q49.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 **Assertion (A):** The Kailasa temple at Ellora is considered the largest monolithic temple in the world.  
+
 **Reason (R):** It was assembled from granite blocks transported from Kanchipuram by the Cholas.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -1893,6 +1899,7 @@ D. Bodhgaya
 Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
 
 **Assertion (A):** We have much more information about Cholas than their predecessors.  
+
 **Reason (R):** The Chola rulers adopted the practice of having inscriptions written on the walls of temples giving a historical narrative of their victories.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  

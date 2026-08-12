@@ -347,7 +347,13 @@ PYQ LOCKS
 1. Malik Sarwar took the title Malik-us-Sharq.
 2. Its capital was Patna.
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>
 
@@ -357,7 +363,13 @@ Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
 
 **Q2.** Which pair is NOT correctly matched?
 
-Options: A. Lal Darwaza Masjid — Jaunpur | B. Atala Masjid — Jaunpur | C. Tin Darwaza — Bidar | D. Tin Darwaza — Ahmedabad
+A. Lal Darwaza Masjid — Jaunpur |
+
+B. Atala Masjid — Jaunpur |
+
+C. Tin Darwaza — Bidar |
+
+D. Tin Darwaza — Ahmedabad
 
 <details><summary>Show answer</summary>
 
@@ -377,7 +389,13 @@ Options: A.1-3-2 | B.3-1-2 | C.1-2-3 | D.2-1-3
 
 **Q4.** Jaunpur was annexed by which Lodi ruler in 1484?
 
-Options: A. Ibrahim Lodi | B. Bahlul Lodi | C. Sikandar Lodi | D. Babur
+A. Ibrahim Lodi |
+
+B. Bahlul Lodi |
+
+C. Sikandar Lodi |
+
+D. Babur
 
 <details><summary>Show answer</summary>
 
@@ -387,7 +405,13 @@ Options: A. Ibrahim Lodi | B. Bahlul Lodi | C. Sikandar Lodi | D. Babur
 
 **Q5.** Which ruler abolished jaziya and cow slaughter in Kashmir?
 
-Options: A. Sikandar Shah | B. Zain-ul-Abidin | C. Shamsuddin Shah | D. Haider Shah
+A. Sikandar Shah |
+
+B. Zain-ul-Abidin |
+
+C. Shamsuddin Shah |
+
+D. Haider Shah
 
 <details><summary>Show answer</summary>
 
@@ -397,7 +421,13 @@ Options: A. Sikandar Shah | B. Zain-ul-Abidin | C. Shamsuddin Shah | D. Haider S
 
 **Q6.** Zaina Lanka was built in:
 
-Options: A. Wular Lake | B. Dal Lake | C. Chilka Lake | D. Loktak Lake
+A. Wular Lake |
+
+B. Dal Lake |
+
+C. Chilka Lake |
+
+D. Loktak Lake
 
 <details><summary>Show answer</summary>
 
@@ -407,7 +437,13 @@ Options: A. Wular Lake | B. Dal Lake | C. Chilka Lake | D. Loktak Lake
 
 **Q7.** Vijayanagara was founded in:
 
-Options: A. 1336 | B. 1347 | C. 1394 | D. 1518
+A. 1336 |
+
+B. 1347 |
+
+C. 1394 |
+
+D. 1518
 
 <details><summary>Show answer</summary>
 
@@ -417,7 +453,13 @@ Options: A. 1336 | B. 1347 | C. 1394 | D. 1518
 
 **Q8.** Founders of Vijayanagara were:
 
-Options: A. Krishnadevaraya and Achyuta Raya | B. Harihara I and Bukka I | C. Hasan Gangu and Mahmud Gawan | D. Rama Raya and Tirumala
+A. Krishnadevaraya and Achyuta Raya |
+
+B. Harihara I and Bukka I |
+
+C. Hasan Gangu and Mahmud Gawan |
+
+D. Rama Raya and Tirumala
 
 <details><summary>Show answer</summary>
 
@@ -427,7 +469,13 @@ Options: A. Krishnadevaraya and Achyuta Raya | B. Harihara I and Bukka I | C. Ha
 
 **Q9.** Krishnadevaraya belonged to which dynasty?
 
-Options: A. Sangama | B. Saluva | C. Tuluva | D. Aravidu
+A. Sangama |
+
+B. Saluva |
+
+C. Tuluva |
+
+D. Aravidu
 
 <details><summary>Show answer</summary>
 
@@ -437,7 +485,13 @@ Options: A. Sangama | B. Saluva | C. Tuluva | D. Aravidu
 
 **Q10.** Nayankara system is associated with:
 
-Options: A. Delhi Sultanate | B. Mughal Empire | C. Vijayanagara Empire | D. Bahmani Kingdom
+A. Delhi Sultanate |
+
+B. Mughal Empire |
+
+C. Vijayanagara Empire |
+
+D. Bahmani Kingdom
 
 <details><summary>Show answer</summary>
 
@@ -447,7 +501,13 @@ Options: A. Delhi Sultanate | B. Mughal Empire | C. Vijayanagara Empire | D. Bah
 
 **Q11.** Bahmani Kingdom was founded in:
 
-Options: A. 1336 | B. 1347 | C. 1394 | D. 1518
+A. 1336 |
+
+B. 1347 |
+
+C. 1394 |
+
+D. 1518
 
 <details><summary>Show answer</summary>
 
@@ -457,7 +517,13 @@ Options: A. 1336 | B. 1347 | C. 1394 | D. 1518
 
 **Q12.** Bahmani founder was:
 
-Options: A. Mahmud Gawan | B. Hasan Gangu | C. Yusuf Adil Shah | D. Quli Qutb Shah
+A. Mahmud Gawan |
+
+B. Hasan Gangu |
+
+C. Yusuf Adil Shah |
+
+D. Quli Qutb Shah
 
 <details><summary>Show answer</summary>
 
@@ -467,7 +533,13 @@ Options: A. Mahmud Gawan | B. Hasan Gangu | C. Yusuf Adil Shah | D. Quli Qutb Sh
 
 **Q13.** Which was NOT a Bahmani capital?
 
-Options: A. Gulbarga | B. Bidar | C. Bijapur | D. Both A and B were capitals
+A. Gulbarga |
+
+B. Bidar |
+
+C. Bijapur |
+
+D. Both A and B were capitals
 
 <details><summary>Show answer</summary>
 
@@ -477,7 +549,13 @@ Options: A. Gulbarga | B. Bidar | C. Bijapur | D. Both A and B were capitals
 
 **Q14.** Riyaz-ul-Insha is:
 
-Options: A. History of Bengal | B. Gawan's letters | C. History of Gujarat | D. Telugu epic
+A. History of Bengal |
+
+B. Gawan's letters |
+
+C. History of Gujarat |
+
+D. Telugu epic
 
 <details><summary>Show answer</summary>
 
@@ -487,7 +565,13 @@ Options: A. History of Bengal | B. Gawan's letters | C. History of Gujarat | D. 
 
 **Q15.** Author of Kitab-i-Nauras:
 
-Options: A. Ibrahim Adil Shah II | B. Krishnadevaraya | C. Abul Hasan Qutb Shah | D. Zain-ul-Abidin
+A. Ibrahim Adil Shah II |
+
+B. Krishnadevaraya |
+
+C. Abul Hasan Qutb Shah |
+
+D. Zain-ul-Abidin
 
 <details><summary>Show answer</summary>
 
@@ -497,7 +581,13 @@ Options: A. Ibrahim Adil Shah II | B. Krishnadevaraya | C. Abul Hasan Qutb Shah 
 
 **Q16.** Ruler of Golkonda when Aurangzeb captured it in 1687:
 
-Options: A. Abul Hasan Qutb Shah | B. Ibrahim Qutb Shah | C. Muhammad Quli Qutb Shah | D. Ali Adil Shah II
+A. Abul Hasan Qutb Shah |
+
+B. Ibrahim Qutb Shah |
+
+C. Muhammad Quli Qutb Shah |
+
+D. Ali Adil Shah II
 
 <details><summary>Show answer</summary>
 
@@ -507,7 +597,13 @@ Options: A. Abul Hasan Qutb Shah | B. Ibrahim Qutb Shah | C. Muhammad Quli Qutb 
 
 **Q17.** How many Deccan Sultanates emerged from Bahmani breakup?
 
-Options: A. Three | B. Four | C. Five | D. Six
+A. Three |
+
+B. Four |
+
+C. Five |
+
+D. Six
 
 <details><summary>Show answer</summary>
 
@@ -517,7 +613,13 @@ Options: A. Three | B. Four | C. Five | D. Six
 
 **Q18.** Gol Gumbaz is located at:
 
-Options: A. Bidar | B. Bijapur | C. Hampi | D. Hyderabad
+A. Bidar |
+
+B. Bijapur |
+
+C. Hampi |
+
+D. Hyderabad
 
 <details><summary>Show answer</summary>
 
@@ -527,7 +629,13 @@ Options: A. Bidar | B. Bijapur | C. Hampi | D. Hyderabad
 
 **Q19.** Battle of Talikota was fought in:
 
-Options: A. 1520 | B. 1529 | C. 1565 | D. 1687
+A. 1520 |
+
+B. 1529 |
+
+C. 1565 |
+
+D. 1687
 
 <details><summary>Show answer</summary>
 
@@ -537,7 +645,13 @@ Options: A. 1520 | B. 1529 | C. 1565 | D. 1687
 
 **Q20.** Who was killed at Talikota?
 
-Options: A. Krishnadevaraya | B. Rama Raya | C. Harihara I | D. Hasan Gangu
+A. Krishnadevaraya |
+
+B. Rama Raya |
+
+C. Harihara I |
+
+D. Hasan Gangu
 
 <details><summary>Show answer</summary>
 
@@ -547,7 +661,13 @@ Options: A. Krishnadevaraya | B. Rama Raya | C. Harihara I | D. Hasan Gangu
 
 **Q21.** Battle of Raichur (1520) resulted in:
 
-Options: A. Vijayanagara defeat | B. Krishnadevaraya's victory over Bijapur | C. Bahmani annexation of Hampi | D. Mughal victory
+A. Vijayanagara defeat |
+
+B. Krishnadevaraya's victory over Bijapur |
+
+C. Bahmani annexation of Hampi |
+
+D. Mughal victory
 
 <details><summary>Show answer</summary>
 
@@ -557,7 +677,13 @@ Options: A. Vijayanagara defeat | B. Krishnadevaraya's victory over Bijapur | C.
 
 **Q22.** Assertion (A): Talikota ended Vijayanagara as a great power. Reason (R): Rama Raya was killed and Hampi was sacked.
 
-Options: A. Both true, R explains A | B. Both true, R not explanation | C. A true, R false | D. A false, R true
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
 
 <details><summary>Show answer</summary>
 
@@ -567,7 +693,13 @@ Options: A. Both true, R explains A | B. Both true, R not explanation | C. A tru
 
 **Q23.** Amuktamalyada was written by:
 
-Options: A. Ibrahim Adil Shah II | B. Krishnadevaraya | C. Malik Muhammad Jaisi | D. Mahmud Gawan
+A. Ibrahim Adil Shah II |
+
+B. Krishnadevaraya |
+
+C. Malik Muhammad Jaisi |
+
+D. Mahmud Gawan
 
 <details><summary>Show answer</summary>
 
@@ -597,7 +729,13 @@ Options: A.2-3-4-1 | B.3-2-1-4 | C.2-4-3-1 | D.1-3-2-4
 
 **Q26.** Which is NOT correctly matched?
 
-Options: A. Hasan Gangu — Bahmani founder | B. Malik Sarwar — Sharqi founder | C. Mahmud Gawan — Founded Vijayanagara | D. Quli Qutb Shah — Golkonda line
+A. Hasan Gangu — Bahmani founder |
+
+B. Malik Sarwar — Sharqi founder |
+
+C. Mahmud Gawan — Founded Vijayanagara |
+
+D. Quli Qutb Shah — Golkonda line
 
 <details><summary>Show answer</summary>
 
@@ -607,7 +745,13 @@ Options: A. Hasan Gangu — Bahmani founder | B. Malik Sarwar — Sharqi founder
 
 **Q27.** Taraf is a:
 
-Options: A. Vijayanagara nayaka grant | B. Bahmani provincial division | C. Mughal mansab rank | D. Sharqi tax
+A. Vijayanagara nayaka grant |
+
+B. Bahmani provincial division |
+
+C. Mughal mansab rank |
+
+D. Sharqi tax
 
 <details><summary>Show answer</summary>
 
@@ -617,7 +761,13 @@ Options: A. Vijayanagara nayaka grant | B. Bahmani provincial division | C. Mugh
 
 **Q28.** Mahmud Gawan was executed in:
 
-Options: A. 1394 | B. 1481 | C. 1518 | D. 1565
+A. 1394 |
+
+B. 1481 |
+
+C. 1518 |
+
+D. 1565
 
 <details><summary>Show answer</summary>
 
@@ -627,7 +777,13 @@ Options: A. 1394 | B. 1481 | C. 1518 | D. 1565
 
 **Q29.** Charminar was built at:
 
-Options: A. Bijapur | B. Hyderabad | C. Bidar | D. Jaunpur
+A. Bijapur |
+
+B. Hyderabad |
+
+C. Bidar |
+
+D. Jaunpur
 
 <details><summary>Show answer</summary>
 
@@ -637,7 +793,13 @@ Options: A. Bijapur | B. Hyderabad | C. Bidar | D. Jaunpur
 
 **Q30.** Which monument is in Uttar Pradesh?
 
-Options: A. Gol Gumbaz | B. Atala Masjid | C. Vitthala Temple | D. Charminar
+A. Gol Gumbaz |
+
+B. Atala Masjid |
+
+C. Vitthala Temple |
+
+D. Charminar
 
 <details><summary>Show answer</summary>
 
@@ -647,7 +809,13 @@ Options: A. Gol Gumbaz | B. Atala Masjid | C. Vitthala Temple | D. Charminar
 
 **Q31.** Assertion (A): Zain-ul-Abidin was called Bud Shah. Reason (R): He reversed Sikandar Shah's intolerant policies.
 
-Options: A. Both true, R explains A | B. Both true, R not explanation | C. A true, R false | D. A false, R true
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
 
 <details><summary>Show answer</summary>
 
@@ -657,7 +825,13 @@ Options: A. Both true, R explains A | B. Both true, R not explanation | C. A tru
 
 **Q32.** Sriya Bhatt served under:
 
-Options: A. Sikandar Shah | B. Zain-ul-Abidin | C. Malik Sarwar | D. Hasan Gangu
+A. Sikandar Shah |
+
+B. Zain-ul-Abidin |
+
+C. Malik Sarwar |
+
+D. Hasan Gangu
 
 <details><summary>Show answer</summary>
 
@@ -667,7 +841,13 @@ Options: A. Sikandar Shah | B. Zain-ul-Abidin | C. Malik Sarwar | D. Hasan Gangu
 
 **Q33.** Vijayanagara dynasties in order:
 
-Options: A. Sangama → Saluva → Tuluva → Aravidu | B. Tuluva → Sangama → Aravidu → Saluva | C. Saluva → Sangama → Tuluva → Aravidu | D. Aravidu → Tuluva → Saluva → Sangama
+A. Sangama → Saluva → Tuluva → Aravidu |
+
+B. Tuluva → Sangama → Aravidu → Saluva |
+
+C. Saluva → Sangama → Tuluva → Aravidu |
+
+D. Aravidu → Tuluva → Saluva → Sangama
 
 <details><summary>Show answer</summary>
 
@@ -681,7 +861,13 @@ Options: A. Sangama → Saluva → Tuluva → Aravidu | B. Tuluva → Sangama �
 2. Golkonda
 3. Jaunpur
 
-Options: A. Only 1 and 2 | B. Only 2 and 3 | C. Only 1 and 3 | D. All three
+A. Only 1 and 2 |
+
+B. Only 2 and 3 |
+
+C. Only 1 and 3 |
+
+D. All three
 
 <details><summary>Show answer</summary>
 
@@ -701,7 +887,13 @@ Options: A.2-1 | B.1-2 | C.2-2 | D.1-1
 
 **Q36.** Ashtadiggajas were:
 
-Options: A. Eight poets at Krishnadevaraya's court | B. Eight Bahmani tarafdars | C. Eight Sharqi nobles | D. Eight Sufi saints of Kashmir
+A. Eight poets at Krishnadevaraya's court |
+
+B. Eight Bahmani tarafdars |
+
+C. Eight Sharqi nobles |
+
+D. Eight Sufi saints of Kashmir
 
 <details><summary>Show answer</summary>
 
@@ -714,7 +906,13 @@ Options: A. Eight poets at Krishnadevaraya's court | B. Eight Bahmani tarafdars 
 1. Bahmani and Vijayanagara fought over Raichur doab.
 2. Krishnadevaraya died at Talikota.
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>
 
@@ -724,7 +922,13 @@ Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
 
 **Q38.** Jaunpur was known as:
 
-Options: A. City of Victory | B. Shiraz of the East | C. Gateway of Deccan | D. Pearl of Kashmir
+A. City of Victory |
+
+B. Shiraz of the East |
+
+C. Gateway of Deccan |
+
+D. Pearl of Kashmir
 
 <details><summary>Show answer</summary>
 
@@ -734,7 +938,13 @@ Options: A. City of Victory | B. Shiraz of the East | C. Gateway of Deccan | D. 
 
 **Q39.** Which is NOT a successor of Bahmani Kingdom?
 
-Options: A. Ahmadnagar | B. Golkonda | C. Jaunpur | D. Berar
+A. Ahmadnagar |
+
+B. Golkonda |
+
+C. Jaunpur |
+
+D. Berar
 
 <details><summary>Show answer</summary>
 
@@ -744,7 +954,13 @@ Options: A. Ahmadnagar | B. Golkonda | C. Jaunpur | D. Berar
 
 **Q40.** Mahanavami festival is linked to:
 
-Options: A. Bahmani tarafdar investiture | B. Vijayanagara royal display | C. Sharqi literary fair | D. Kashmir Bud Shah coronation
+A. Bahmani tarafdar investiture |
+
+B. Vijayanagara royal display |
+
+C. Sharqi literary fair |
+
+D. Kashmir Bud Shah coronation
 
 <details><summary>Show answer</summary>
 
@@ -754,7 +970,13 @@ Options: A. Bahmani tarafdar investiture | B. Vijayanagara royal display | C. Sh
 
 **Q41.** Assertion (A): Mahmud Gawan strengthened Bahmani administration. Reason (R): He introduced land surveys and strict revenue accounting.
 
-Options: A. Both true, R explains A | B. Both true, R not explanation | C. A true, R false | D. A false, R true
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
 
 <details><summary>Show answer</summary>
 
@@ -764,7 +986,13 @@ Options: A. Both true, R explains A | B. Both true, R not explanation | C. A tru
 
 **Q42.** Padmavat is associated with:
 
-Options: A. Amir Khusrau | B. Malik Muhammad Jaisi | C. Krishnadevaraya | D. Ibrahim Adil Shah II
+A. Amir Khusrau |
+
+B. Malik Muhammad Jaisi |
+
+C. Krishnadevaraya |
+
+D. Ibrahim Adil Shah II
 
 <details><summary>Show answer</summary>
 
@@ -778,7 +1006,13 @@ Options: A. Amir Khusrau | B. Malik Muhammad Jaisi | C. Krishnadevaraya | D. Ibr
 2. Bijapur was a Bahmani capital.
 3. Tin Darwaza is at Bidar Fort.
 
-Options: A. Only one | B. Only two | C. All three | D. None
+A. Only one |
+
+B. Only two |
+
+C. All three |
+
+D. None
 
 <details><summary>Show answer</summary>
 
@@ -788,7 +1022,13 @@ Options: A. Only one | B. Only two | C. All three | D. None
 
 **Q44.** After Talikota, Vijayanagara capital shifted toward:
 
-Options: A. Delhi | B. Penukonda/Chandragiri | C. Jaunpur | D. Srinagar
+A. Delhi |
+
+B. Penukonda/Chandragiri |
+
+C. Jaunpur |
+
+D. Srinagar
 
 <details><summary>Show answer</summary>
 
@@ -814,7 +1054,13 @@ Options: A.2-1-3 | B.1-2-3 | C.2-3-1 | D.3-2-1
 
 Which of the following pairs is NOT correctly matched?
 
-Options: A. Adina Masjid – Mandu | B. Lal Darwaza Masjid – Jaunpur | C. Dakhil Darwaza – Gaour | D. Tin Darwaza – Ahmedabad
+A. Adina Masjid – Mandu |
+
+B. Lal Darwaza Masjid – Jaunpur |
+
+C. Dakhil Darwaza – Gaour |
+
+D. Tin Darwaza – Ahmedabad
 
 <details><summary>Show answer</summary>
 
@@ -826,7 +1072,13 @@ Options: A. Adina Masjid – Mandu | B. Lal Darwaza Masjid – Jaunpur | C. Dakh
 
 Arrange chronologically: I. Rabia Daurani's Tomb, Aurangabad | II. Sher Shah's Tomb, Sasaram | III. Humayun's Tomb, Delhi | IV. Atala Mosque, Jaunpur
 
-Options: A. I, II, IV, III | B. IV, II, III, I | C. II, I, III, IV | D. III, IV, II, I
+A. I, II, IV, III |
+
+B. IV, II, III, I |
+
+C. II, I, III, IV |
+
+D. III, IV, II, I
 
 <details><summary>Show answer</summary>
 
@@ -838,7 +1090,13 @@ Options: A. I, II, IV, III | B. IV, II, III, I | C. II, I, III, IV | D. III, IV,
 
 Who was the ruler of Golkonda when Aurangzeb seized the fort of Golkonda in 1687?
 
-Options: A. Abul Hasan Qutb Shah | B. Sikandar Adil Shah | C. Ali Adil Shah II | D. Shayasta Khan
+A. Abul Hasan Qutb Shah |
+
+B. Sikandar Adil Shah |
+
+C. Ali Adil Shah II |
+
+D. Shayasta Khan
 
 <details><summary>Show answer</summary>
 
@@ -850,7 +1108,13 @@ Options: A. Abul Hasan Qutb Shah | B. Sikandar Adil Shah | C. Ali Adil Shah II |
 
 Who among the following was the author of the book **Kitab-i-Nauras**?
 
-Options: A. Ibrahim Adil Shah II | B. Ali Adil Shah | C. Quli Qutab Shah | D. Akbar II
+A. Ibrahim Adil Shah II |
+
+B. Ali Adil Shah |
+
+C. Quli Qutab Shah |
+
+D. Akbar II
 
 <details><summary>Show answer</summary>
 
@@ -862,7 +1126,13 @@ Options: A. Ibrahim Adil Shah II | B. Ali Adil Shah | C. Quli Qutab Shah | D. Ak
 
 Match List-I (Book) / List-II (Context): A. Mirat-e-Sikandari | B. Burhan-e-Masir | C. Riyaz-us-Salatin | D. Riyaz-ul-Insha — 1. Bengal | 2. Ahmadnagar | 3. Gawan's letters | 4. Gujarat victory
 
-Options: A. 4-2-1-3 | B. 2-4-1-3 | C. 1-2-4-3 | D. 4-2-3-1
+A. 4-2-1-3 |
+
+B. 2-4-1-3 |
+
+C. 1-2-4-3 |
+
+D. 4-2-3-1
 
 <details><summary>Show answer</summary>
 
@@ -874,7 +1144,13 @@ Options: A. 4-2-1-3 | B. 2-4-1-3 | C. 1-2-4-3 | D. 4-2-3-1
 
 Which among the following rulers of Kashmir abolished **Jaziya** and **cow slaughter**?
 
-Options: A. Shamsuddin Shah | B. Sikandar Shah | C. Zain-ul-Abidin | D. Haider Shah
+A. Shamsuddin Shah |
+
+B. Sikandar Shah |
+
+C. Zain-ul-Abidin |
+
+D. Haider Shah
 
 <details><summary>Show answer</summary>
 

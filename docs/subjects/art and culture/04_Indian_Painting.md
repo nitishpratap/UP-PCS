@@ -593,6 +593,7 @@ D. 1, 2 and 3
 **Q5.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 **Assertion (A):** Ajanta is more famous for mural painting than Ellora.  
+
 **Reason (R):** Ellora’s outstanding monument is the monolithic Kailasa temple, a work of sculpture/architecture.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -758,6 +759,7 @@ D. 1, 2 and 3
 **Q13.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 **Assertion (A):** Raja Ravi Varma is not grouped with the Bengal School.  
+
 **Reason (R):** He used European oil technique and oleographs, which the Bengal School later rejected as academic-colonial.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -951,6 +953,7 @@ D. 2, 1, 3, 4
 **Q22.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 **Assertion (A):** Company painting declined in the mid-nineteenth century.  
+
 **Reason (R):** Photography began to satisfy the documentary demand of European patrons.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -1171,6 +1174,7 @@ D. 2, 3, 4, 1
 **Q33.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 **Assertion (A):** Mughal painting is classified as miniature, not mural.  
+
 **Reason (R):** Its typical support is the manuscript folio or album page, not the cave wall.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -1460,6 +1464,7 @@ D. 1, 2 and 3
 **Q47.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
 
 **Assertion (A):** Tanjore paintings are readily distinguished from Mysore paintings in GK matching.  
+
 **Reason (R):** Tanjore work typically uses heavier gold foil and gem/glass inlay on wood, while Mysore work is finer-lined gesso with less gemming.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  

@@ -216,7 +216,13 @@ There was **not** one policy from start to finish. The method changed with each 
 
 Who among the following established a modem armoury in Dindigal Mysore in 1755?
 
-Options: A. Nanjraj  B. Haider Ali  C. Devraj  D. Chikka Krishnaraj
+A. Nanjraj
+
+B. Haider Ali
+
+C. Devraj
+
+D. Chikka Krishnaraj
 
 <details>
 <summary>Show answer</summary>
@@ -263,7 +269,13 @@ Arrange the following in chronological order of their rule:
 3. Balaji Vishwanath  
 4. Madhav Rao I
 
-Options: A. 1, 3, 2, 4  B. 3, 1, 4, 2  C. 3, 1, 2, 4  D. 1, 3, 4, 2
+A. 1, 3, 2, 4
+
+B. 3, 1, 4, 2
+
+C. 3, 1, 2, 4
+
+D. 1, 3, 4, 2
 
 <details>
 <summary>Show answer</summary>
@@ -281,7 +293,13 @@ Consider the following Peshwas and arrange them in ascending chronological order
 3. Narayan Rao  
 4. Balaji Vishwanath
 
-Options: A. 4, 2, 3, 1  B. 3, 4, 1, 2  C. 1, 2, 3, 4  D. 1, 3, 2, 4
+A. 4, 2, 3, 1
+
+B. 3, 4, 1, 2
+
+C. 1, 2, 3, 4
+
+D. 1, 3, 2, 4
 
 <details>
 <summary>Show answer</summary>
@@ -299,7 +317,13 @@ Consider the reign of the following Peshwas and arrange them in chronological or
 (III) Narayan Rao  
 (IV) Madhav Rao I
 
-Options: A. I, III, II, IV  B. I, II, III, IV  C. II, I, IV, III  D. I, II, IV, III
+A. I, III, II, IV
+
+B. I, II, III, IV
+
+C. II, I, IV, III
+
+D. I, II, IV, III
 
 <details>
 <summary>Show answer</summary>
@@ -312,7 +336,13 @@ Options: A. I, III, II, IV  B. I, II, III, IV  C. II, I, IV, III  D. I, II, IV, 
 
 The Maratha claim of revenue for protection is known by what name?
 
-Options: A. Sardesh Mukhi  B. Chauth  C. Abwab  D. Jamadani
+A. Sardesh Mukhi
+
+B. Chauth
+
+C. Abwab
+
+D. Jamadani
 
 <details>
 <summary>Show answer</summary>
@@ -342,7 +372,13 @@ Options: A. Sardesh Mukhi  B. Chauth  C. Abwab  D. Jamadani
 
 At which place did Raja Ranjit Singh set up the Adalat-i-Ala?
 
-Options: A. Amritsar  B. Lahore  C. Firozpur  D. Multan
+A. Amritsar
+
+B. Lahore
+
+C. Firozpur
+
+D. Multan
 
 <details>
 <summary>Show answer</summary>
@@ -374,7 +410,13 @@ Which of the following sites were obtained by the British East India Company und
 3. Ranikhet  
 4. Nainital
 
-Options: A. 1 and 2  B. Only 3 and 4  C. 2, 3 and 4  D. Only 1
+A. 1 and 2
+
+B. Only 3 and 4
+
+C. 2, 3 and 4
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -392,7 +434,13 @@ Consider the following events and arrange them in chronological order starting f
 3. Recall of Wellesley  
 4. Anglo-Nepalese War
 
-Options: A. 2, 3, 1, 4  B. 4, 1, 3, 2  C. 2, 3, 4, 1  D. 3, 1, 2, 4
+A. 2, 3, 1, 4
+
+B. 4, 1, 3, 2
+
+C. 2, 3, 4, 1
+
+D. 3, 1, 2, 4
 
 <details>
 <summary>Show answer</summary>
@@ -424,7 +472,13 @@ Match List-I with List-II:
 **List-I** A. Lord Dalhousie  B. Lord Curzon  C. Lord William Bentinck  D. Lord Cornwallis  
 **List-II** 1. Permanent Settlement of Bengal  2. Prohibition of Practice of Sati  3. Partition of Bengal  4. Doctrine of Lapse
 
-Options: A. 4 3 1 2  B. 3 4 2 1  C. 3 4 1 2  D. 4 3 2 1
+A. 4 3 1 2
+
+B. 3 4 2 1
+
+C. 3 4 1 2
+
+D. 4 3 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -442,7 +496,13 @@ Consider the following statements:
 
 Which of the above statements is/are correct?
 
-Options: A. Only 2  B. Neither 1 nor 2  C. Only 1  D. Both 1 and 2
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Both 1 and 2
 
 <details>
 <summary>Show answer</summary>
@@ -538,7 +598,13 @@ Match List-I with List-II:
 **List-I** A. Treaty of Allahabad  B. Treaty of Manglore  C. Treaty of Salbai  D. Treaty of Madras  
 **List-II** 1. 1782  2. 1784  3. 1769  4. 1765
 
-Options: A. 4 2 3 1  B. 2 4 3 1  C. 4 2 1 3  D. 2 4 1 3
+A. 4 2 3 1
+
+B. 2 4 3 1
+
+C. 4 2 1 3
+
+D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -556,7 +622,13 @@ Consider the following wars and arrange them in correct chronological order.
 3. First Anglo-Sikh War  
 4. First Anglo-Afghan War
 
-Options: A. 2, 1, 4, 3  B. 1, 2, 3, 4  C. 1, 2, 4, 3  D. 2, 1, 3, 4
+A. 2, 1, 4, 3
+
+B. 1, 2, 3, 4
+
+C. 1, 2, 4, 3
+
+D. 2, 1, 3, 4
 
 <details>
 <summary>Show answer</summary>
@@ -574,7 +646,13 @@ II. Battle of Porto Novo
 III. Battle of Shakarkheda  
 IV. Battle of Bedara
 
-Options: A. II, III, IV, I  B. III, IV, II, I  C. IV, III, II, I  D. I, II, III, IV
+A. II, III, IV, I
+
+B. III, IV, II, I
+
+C. IV, III, II, I
+
+D. I, II, III, IV
 
 <details>
 <summary>Show answer</summary>
@@ -594,7 +672,13 @@ Options: A. II, III, IV, I  B. III, IV, II, I  C. IV, III, II, I  D. I, II, III,
 1. It was fought on 23 June 1757.  
 2. The Company obtained the Diwani of Bengal on the same day.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -610,7 +694,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. Hector Munro commanded the English forces.  
 2. The defeated coalition included Mir Qasim, Shuja-ud-Daula and Shah Alam II.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -627,7 +717,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Dual Government ended by — Robert Clive  
 3. Bengal Famine under dual system — 1770
 
-Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
+A. Only 2
+
+B. Only 1 and 2
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -643,7 +739,13 @@ Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
 **List-I (Treaty)** A. Allahabad  B. Madras  C. Salbai  D. Mangalore  
 **List-II (Year)** 1. 1769  2. 1765  3. 1784  4. 1782
 
-Options: A. 2 1 4 3  B. 2 1 3 4  C. 1 2 4 3  D. 2 3 4 1
+A. 2 1 4 3
+
+B. 2 1 3 4
+
+C. 1 2 4 3
+
+D. 2 3 4 1
 
 <details>
 <summary>Show answer</summary>
@@ -678,7 +780,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 1. Awadh was annexed in 1856 under the Doctrine of Lapse.  
 2. Jhansi was annexed in 1853 after the adopted heir was not recognised.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -696,7 +804,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 3. Treaty of Sugauli  
 4. Sindh annexation
 
-Options: A. 2, 3, 4, 1  B. 2, 3, 1, 4  C. 3, 2, 4, 1  D. 2, 4, 3, 1
+A. 2, 3, 4, 1
+
+B. 2, 3, 1, 4
+
+C. 3, 2, 4, 1
+
+D. 2, 4, 3, 1
 
 <details>
 <summary>Show answer</summary>
@@ -715,7 +829,13 @@ Options: A. 2, 3, 4, 1  B. 2, 3, 1, 4  C. 3, 2, 4, 1  D. 2, 4, 3, 1
 
 How many of the above statements are correct?
 
-Options: A. Only one  B. Only two  C. All three  D. None
+A. Only one
+
+B. Only two
+
+C. All three
+
+D. None
 
 <details>
 <summary>Show answer</summary>
@@ -731,7 +851,13 @@ Options: A. Only one  B. Only two  C. All three  D. None
 1. The Treaty of Seringapatam (1792) made him cede about half of Mysore.  
 2. He was killed in the Fourth Anglo-Mysore War in 1799.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -748,7 +874,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Treaty of Mangalore — Third Anglo-Mysore War  
 3. Treaty of Bassein — Peshwa accepts Subsidiary Alliance
 
-Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
+A. Only 2
+
+B. Only 1 and 2
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -783,7 +915,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 1. Nepal was annexed as a British province.  
 2. Nepal remained independent but ceded hill/Tarai tracts.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -799,7 +937,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. Battle of Plassey  B. Battle of Buxar  C. Battle of Mudki  D. Battle of Miani  
 **List-II** 1. 1843  2. 1757  3. 1764  4. 1845
 
-Options: A. 2 3 4 1  B. 2 3 1 4  C. 3 2 4 1  D. 2 4 3 1
+A. 2 3 4 1
+
+B. 2 3 1 4
+
+C. 3 2 4 1
+
+D. 2 4 3 1
 
 <details>
 <summary>Show answer</summary>
@@ -815,7 +959,13 @@ Options: A. 2 3 4 1  B. 2 3 1 4  C. 3 2 4 1  D. 2 4 3 1
 1. He shifted his capital to Munger and tried to equalise internal trade duties.  
 2. He was the Nawab installed immediately after Plassey in 1757.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -833,7 +983,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 3. Baji Rao I  
 4. Balaji Baji Rao
 
-Options: A. 2, 3, 4, 1  B. 2, 4, 3, 1  C. 3, 2, 4, 1  D. 2, 3, 1, 4
+A. 2, 3, 4, 1
+
+B. 2, 4, 3, 1
+
+C. 3, 2, 4, 1
+
+D. 2, 3, 1, 4
 
 <details>
 <summary>Show answer</summary>
@@ -852,7 +1008,13 @@ Options: A. 2, 3, 4, 1  B. 2, 4, 3, 1  C. 3, 2, 4, 1  D. 2, 3, 1, 4
 
 Which of the statements given above is/are correct?
 
-Options: A. 2 and 3 only  B. 1 and 2 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 2 and 3 only
+
+B. 1 and 2 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -868,7 +1030,13 @@ Options: A. 2 and 3 only  B. 1 and 2 only  C. 1 and 3 only  D. 1, 2 and 3
 1. It ended with the Treaty of Salbai in 1782.  
 2. It ended with the Treaty of Bassein in 1802.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -904,7 +1072,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 2. Tipu Sultan — killed 4 May 1799  
 3. Eyre Coote — Battle of Porto Novo, 1781
 
-Options: A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -920,7 +1094,13 @@ Options: A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 1. Charles Napier defeated the Talpur Amirs at Miani in 1843.  
 2. Sindh and Punjab were annexed in the same year.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -939,7 +1119,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 How many of the above statements are correct?
 
-Options: A. Only one  B. Only two  C. All three  D. None
+A. Only one
+
+B. Only two
+
+C. All three
+
+D. None
 
 <details>
 <summary>Show answer</summary>
@@ -958,7 +1144,13 @@ Options: A. Only one  B. Only two  C. All three  D. None
 2. Mudki — Second Anglo-Mysore War  
 3. Gujrat — Second Anglo-Sikh War
 
-Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
+A. Only 2
+
+B. Only 1 and 2
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -974,7 +1166,13 @@ Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
 1. It was led by Chait Singh in 1781 against Warren Hastings.  
 2. It was a centre of the Revolt of 1857 under Nana Sahib.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -992,7 +1190,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 3. Third Anglo-Maratha War  
 4. Treaty of Salbai
 
-Options: A. 4, 1, 2, 3  B. 4, 2, 1, 3  C. 1, 4, 2, 3  D. 4, 1, 3, 2
+A. 4, 1, 2, 3
+
+B. 4, 2, 1, 3
+
+C. 1, 4, 2, 3
+
+D. 4, 1, 3, 2
 
 <details>
 <summary>Show answer</summary>
@@ -1008,7 +1212,13 @@ Options: A. 4, 1, 2, 3  B. 4, 2, 1, 3  C. 1, 4, 2, 3  D. 4, 1, 3, 2
 1. It was granted by Shah Alam II in 1765.  
 2. It meant the Company’s right to collect revenue of Bengal, Bihar and Orissa.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1024,7 +1234,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. Satara  B. Jhansi  C. Awadh  D. Punjab  
 **List-II** 1. 1849 (war)  2. 1848 (lapse)  3. 1856 (misrule)  4. 1853 (lapse)
 
-Options: A. 2 4 3 1  B. 2 4 1 3  C. 4 2 3 1  D. 2 3 4 1
+A. 2 4 3 1
+
+B. 2 4 1 3
+
+C. 4 2 3 1
+
+D. 2 3 4 1
 
 <details>
 <summary>Show answer</summary>
@@ -1059,7 +1275,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 1. Lord Cornwallis personally led the campaign.  
 2. It ended with the Treaty of Madras (1769).
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1078,7 +1300,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 How many of the above statements are correct?
 
-Options: A. Only one  B. Only two  C. All three  D. None
+A. Only one
+
+B. Only two
+
+C. All three
+
+D. None
 
 <details>
 <summary>Show answer</summary>
@@ -1094,7 +1322,13 @@ Options: A. Only one  B. Only two  C. All three  D. None
 1. Akbar Fort associated with this topic stands at Prayagraj (Allahabad).  
 2. The Treaty of Allahabad (1765) is linked to the Diwani grant.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1110,7 +1344,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. Chillianwala was a British setback.  
 2. The Battle of Gujrat (1849) decided the war and was followed by annexation.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1128,7 +1368,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 3. Subsidiary Alliance with Hyderabad  
 4. Third Anglo-Maratha War
 
-Options: A. 2, 3, 1, 4  B. 2, 1, 3, 4  C. 1, 2, 3, 4  D. 2, 3, 4, 1
+A. 2, 3, 1, 4
+
+B. 2, 1, 3, 4
+
+C. 1, 2, 3, 4
+
+D. 2, 3, 4, 1
 
 <details>
 <summary>Show answer</summary>
@@ -1144,7 +1390,13 @@ Options: A. 2, 3, 1, 4  B. 2, 1, 3, 4  C. 1, 2, 3, 4  D. 2, 3, 4, 1
 1. He ended Dual Government in Bengal in 1772.  
 2. The Banaras Rebellion of Chait Singh occurred during his tenure.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1161,7 +1413,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Treaty of Sugauli — 1816  
 3. Treaty of Yandabo — 1849
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1180,7 +1438,13 @@ Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
 
 Which of the statements given above is/are correct?
 
-Options: A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1196,7 +1460,13 @@ Options: A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
 1. Kashmir was ceded under the Treaty of Lahore (1846).  
 2. It was sold to Gulab Singh (Dogras).
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1228,7 +1498,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q38.** Who among the following was the last Maharaja of the Sikh Empire, deposed after Punjab’s annexation?
 
-Options: A. Ranjit Singh  B. Sher Singh  C. Duleep Singh  D. Hira Singh
+A. Ranjit Singh
+
+B. Sher Singh
+
+C. Duleep Singh
+
+D. Hira Singh
 
 <details>
 <summary>Show answer</summary>
@@ -1244,7 +1520,13 @@ Options: A. Ranjit Singh  B. Sher Singh  C. Duleep Singh  D. Hira Singh
 1. Vellore Mutiny (1806) came after Wellesley’s recall (1805).  
 2. Anglo-Nepalese War began before Wellesley’s recall.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1263,7 +1545,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 Which of the pairs given above are correctly matched?
 
-Options: A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1279,7 +1567,13 @@ Options: A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 1. Mysore was wholly annexed and no Indian dynasty was restored.  
 2. Krishna Raja Wodeyar III was placed on the throne under Subsidiary Alliance.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1297,7 +1591,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 3. Punjab  
 4. Satara (Lapse)
 
-Options: A. 2, 4, 3, 1  B. 2, 3, 4, 1  C. 4, 2, 3, 1  D. 2, 4, 1, 3
+A. 2, 4, 3, 1
+
+B. 2, 3, 4, 1
+
+C. 4, 2, 3, 1
+
+D. 2, 4, 1, 3
 
 <details>
 <summary>Show answer</summary>
@@ -1313,7 +1613,13 @@ Options: A. 2, 4, 3, 1  B. 2, 3, 4, 1  C. 4, 2, 3, 1  D. 2, 4, 1, 3
 1. Mahadji Sindhia was a leading Maratha general in the First Anglo-Maratha War.  
 2. Arthur Wellesley fought at Assaye in the Second Anglo-Maratha War.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1329,7 +1635,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. The Company held Diwani while the Nawab nominally held Nizamat.  
 2. The system was designed so the Company took revenue without full administrative responsibility.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1348,7 +1660,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 How many of the above statements are correct?
 
-Options: A. Only one  B. Only two  C. All three  D. None
+A. Only one
+
+B. Only two
+
+C. All three
+
+D. None
 
 <details>
 <summary>Show answer</summary>
@@ -1372,7 +1690,13 @@ Consider the following wars and arrange them in correct chronological order.
 3. First Anglo-Sikh War  
 4. First Anglo-Afghan War
 
-Options: A. 2, 1, 4, 3  B. 1, 2, 3, 4  C. 1, 2, 4, 3  D. 2, 1, 3, 4
+A. 2, 1, 4, 3
+
+B. 1, 2, 3, 4
+
+C. 1, 2, 4, 3
+
+D. 2, 1, 3, 4
 
 <details>
 <summary>Show answer</summary>
@@ -1388,7 +1712,13 @@ Match List-I with List-II:
 **List-I** A. Lord Dalhousie  B. Lord Curzon  C. Lord William Bentinck  D. Lord Cornwallis  
 **List-II** 1. Permanent Settlement of Bengal  2. Prohibition of Practice of Sati  3. Partition of Bengal  4. Doctrine of Lapse
 
-Options: A. 4 3 1 2  B. 3 4 2 1  C. 3 4 1 2  D. 4 3 2 1
+A. 4 3 1 2
+
+B. 3 4 2 1
+
+C. 3 4 1 2
+
+D. 4 3 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -1406,7 +1736,13 @@ Which of the following sites were obtained by the British East India Company und
 3. Ranikhet  
 4. Nainital
 
-Options: A. 1 and 2  B. Only 3 and 4  C. 2, 3 and 4  D. Only 1
+A. 1 and 2
+
+B. Only 3 and 4
+
+C. 2, 3 and 4
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1424,7 +1760,13 @@ Arrange the following in chronological order of their rule:
 3. Balaji Vishwanath  
 4. Madhav Rao I
 
-Options: A. 1, 3, 2, 4  B. 3, 1, 4, 2  C. 3, 1, 2, 4  D. 1, 3, 4, 2
+A. 1, 3, 2, 4
+
+B. 3, 1, 4, 2
+
+C. 3, 1, 2, 4
+
+D. 1, 3, 4, 2
 
 <details>
 <summary>Show answer</summary>
@@ -1444,7 +1786,13 @@ Consider the following Peshwas and arrange them in ascending chronological order
 3. Narayan Rao  
 4. Balaji Vishwanath
 
-Options: A. 4, 2, 3, 1  B. 3, 4, 1, 2  C. 1, 2, 3, 4  D. 1, 3, 2, 4
+A. 4, 2, 3, 1
+
+B. 3, 4, 1, 2
+
+C. 1, 2, 3, 4
+
+D. 1, 3, 2, 4
 
 <details>
 <summary>Show answer</summary>
@@ -1462,7 +1810,13 @@ Consider the following events and arrange them in chronological order starting f
 3. Recall of Wellesley  
 4. Anglo-Nepalese War
 
-Options: A. 2, 3, 1, 4  B. 4, 1, 3, 2  C. 2, 3, 4, 1  D. 3, 1, 2, 4
+A. 2, 3, 1, 4
+
+B. 4, 1, 3, 2
+
+C. 2, 3, 4, 1
+
+D. 3, 1, 2, 4
 
 <details>
 <summary>Show answer</summary>
@@ -1478,7 +1832,13 @@ Consider the following statements:
 1. Kunwar Singh, Landlord of Jagdishpur in Bihar, led the rebellion against the British.  
 2. Lord Dalhousie recognised the adopted son of Rani Lakshmi Bai as the heir apparent.
 
-Options: A. Only 2  B. Neither 1 nor 2  C. Only 1  D. Both 1 and 2
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Both 1 and 2
 
 <details>
 <summary>Show answer</summary>
@@ -1498,7 +1858,13 @@ Consider the reign of the following Peshwas and arrange them in chronological or
 (III) Narayan Rao  
 (IV) Madhav Rao I
 
-Options: A. I, III, II, IV  B. I, II, III, IV  C. II, I, IV, III  D. I, II, IV, III
+A. I, III, II, IV
+
+B. I, II, III, IV
+
+C. II, I, IV, III
+
+D. I, II, IV, III
 
 <details>
 <summary>Show answer</summary>
@@ -1518,7 +1884,13 @@ II. Battle of Porto Novo
 III. Battle of Shakarkheda  
 IV. Battle of Bedara
 
-Options: A. II, III, IV, I  B. III, IV, II, I  C. IV, III, II, I  D. I, II, III, IV
+A. II, III, IV, I
+
+B. III, IV, II, I
+
+C. IV, III, II, I
+
+D. I, II, III, IV
 
 <details>
 <summary>Show answer</summary>
@@ -1533,7 +1905,13 @@ Options: A. II, III, IV, I  B. III, IV, II, I  C. IV, III, II, I  D. I, II, III,
 
 At which place did Raja Ranjit Singh set up the Adalat-i-Ala?
 
-Options: A. Amritsar  B. Lahore  C. Firozpur  D. Multan
+A. Amritsar
+
+B. Lahore
+
+C. Firozpur
+
+D. Multan
 
 <details>
 <summary>Show answer</summary>
@@ -1548,7 +1926,13 @@ Options: A. Amritsar  B. Lahore  C. Firozpur  D. Multan
 
 Who among the following established a modem armoury in Dindigal Mysore in 1755?
 
-Options: A. Nanjraj  B. Haider Ali  C. Devraj  D. Chikka Krishnaraj
+A. Nanjraj
+
+B. Haider Ali
+
+C. Devraj
+
+D. Chikka Krishnaraj
 
 <details>
 <summary>Show answer</summary>
@@ -1585,7 +1969,13 @@ Match List-I with List-II:
 **List-I** A. Treaty of Allahabad  B. Treaty of Manglore  C. Treaty of Salbai  D. Treaty of Madras  
 **List-II** 1. 1782  2. 1784  3. 1769  4. 1765
 
-Options: A. 4 2 3 1  B. 2 4 3 1  C. 4 2 1 3  D. 2 4 1 3
+A. 4 2 3 1
+
+B. 2 4 3 1
+
+C. 4 2 1 3
+
+D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -1600,7 +1990,13 @@ Options: A. 4 2 3 1  B. 2 4 3 1  C. 4 2 1 3  D. 2 4 1 3
 
 The Maratha claim of revenue for protection is known by what name?
 
-Options: A. Sardesh Mukhi  B. Chauth  C. Abwab  D. Jamadani
+A. Sardesh Mukhi
+
+B. Chauth
+
+C. Abwab
+
+D. Jamadani
 
 <details>
 <summary>Show answer</summary>

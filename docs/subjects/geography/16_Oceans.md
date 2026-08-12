@@ -525,7 +525,14 @@ POLAR: Operational Antarctica = MAITRI + BHARATI (not Dakshin Gangotri) | Treaty
 ## Practice Zone — 70 Questions (2025 Pattern Mix)
 
 **Q1.** Which are **NOT** cold ocean currents? 1 Agulhas 2 Brazil 3 Humboldt 4 California
-Options: A. 1 and 3 B. 3 and 4 C. 2 and 3 D. **1 and 2**
+
+A. 1 and 3
+
+B. 3 and 4
+
+C. 2 and 3
+
+D. **1 and 2**
 
 <details>
 <summary>Show answer</summary>
@@ -536,7 +543,14 @@ Options: A. 1 and 3 B. 3 and 4 C. 2 and 3 D. **1 and 2**
 ---
 
 **Q2.** Ocean current associated with the **Indian Ocean**:
-Options: A. Florida B. Canary C. **Agulhas** D. Kurile
+
+A. Florida
+
+B. Canary
+
+C. **Agulhas**
+
+D. Kurile
 
 <details>
 <summary>Show answer</summary>
@@ -547,7 +561,14 @@ Options: A. Florida B. Canary C. **Agulhas** D. Kurile
 ---
 
 **Q3.** Benguela Current is a cold current of the:
-Options: A. Pacific B. **Atlantic** C. Arctic D. Only Indian Ocean
+
+A. Pacific
+
+B. **Atlantic**
+
+C. Arctic
+
+D. Only Indian Ocean
 
 <details>
 <summary>Show answer</summary>
@@ -558,7 +579,14 @@ Options: A. Pacific B. **Atlantic** C. Arctic D. Only Indian Ocean
 ---
 
 **Q4.** Ocean salinity in the open ocean is **maximum** near:
-Options: A. Equator B. **Tropics of Cancer and Capricorn** C. Poles D. Only river mouths
+
+A. Equator
+
+B. **Tropics of Cancer and Capricorn**
+
+C. Poles
+
+D. Only river mouths
 
 <details>
 <summary>Show answer</summary>
@@ -569,7 +597,14 @@ Options: A. Equator B. **Tropics of Cancer and Capricorn** C. Poles D. Only rive
 ---
 
 **Q5.** Sun, Earth and Moon in a straight line produce a:
-Options: A. Small neap B. **Large spring tide** C. Tsunami D. Only EEZ
+
+A. Small neap
+
+B. **Large spring tide**
+
+C. Tsunami
+
+D. Only EEZ
 
 <details>
 <summary>Show answer</summary>
@@ -580,7 +615,14 @@ Options: A. Small neap B. **Large spring tide** C. Tsunami D. Only EEZ
 ---
 
 **Q6.** Match oceans to deepest points: Pacific, Arctic, Indian, Atlantic.
-Options: A. 4 3 2 1 B. 3 2 1 4 C. 1 2 3 4 D. **3, 4, 1, 2** (Mariana, Molloy, Sunda, Puerto Rico)
+
+A. 4 3 2 1
+
+B. 3 2 1 4
+
+C. 1 2 3 4
+
+D. **3, 4, 1, 2** (Mariana, Molloy, Sunda, Puerto Rico)
 
 <details>
 <summary>Show answer</summary>
@@ -591,7 +633,14 @@ Options: A. 4 3 2 1 B. 3 2 1 4 C. 1 2 3 4 D. **3, 4, 1, 2** (Mariana, Molloy, Su
 ---
 
 **Q7.** Telegraphic Plateau is part of the:
-Options: A. **North Atlantic Ridge** B. South Atlantic Ridge C. Indian Ocean Ridge D. None
+
+A. **North Atlantic Ridge**
+
+B. South Atlantic Ridge
+
+C. Indian Ocean Ridge
+
+D. None
 
 <details>
 <summary>Show answer</summary>
@@ -602,7 +651,14 @@ Options: A. **North Atlantic Ridge** B. South Atlantic Ridge C. Indian Ocean Rid
 ---
 
 **Q8.** Suez Canal connects:
-Options: A. Atlantic and Mediterranean only as a pair in 2025 codes B. Mediterranean and Indian Ocean as the two numbered seas C. **Red Sea and Mediterranean** D. Atlantic and Red Sea only
+
+A. Atlantic and Mediterranean only as a pair in 2025 codes
+
+B. Mediterranean and Indian Ocean as the two numbered seas
+
+C. **Red Sea and Mediterranean**
+
+D. Atlantic and Red Sea only
 
 <details>
 <summary>Show answer</summary>
@@ -613,7 +669,14 @@ Options: A. Atlantic and Mediterranean only as a pair in 2025 codes B. Mediterra
 ---
 
 **Q9.** Suez lakes **north → south**:
-Options: A. Timsah–Little Bitter–Great Bitter–Manzala B. Great–Little–Timsah–Manzala C. Manzala–Great–Little–Timsah D. **Manzala–Timsah–Great Bitter–Little Bitter**
+
+A. Timsah–Little Bitter–Great Bitter–Manzala
+
+B. Great–Little–Timsah–Manzala
+
+C. Manzala–Great–Little–Timsah
+
+D. **Manzala–Timsah–Great Bitter–Little Bitter**
 
 <details>
 <summary>Show answer</summary>
@@ -624,7 +687,14 @@ Options: A. Timsah–Little Bitter–Great Bitter–Manzala B. Great–Little–
 ---
 
 **Q10.** Maritime distance India–Europe fell after Suez by about:
-Options: A. 5,000 km B. **7,000 km** C. 8,000 km D. 10,000 km
+
+A. 5,000 km
+
+B. **7,000 km**
+
+C. 8,000 km
+
+D. 10,000 km
 
 <details>
 <summary>Show answer</summary>
@@ -635,7 +705,14 @@ Options: A. 5,000 km B. **7,000 km** C. 8,000 km D. 10,000 km
 ---
 
 **Q11.** India’s permanent **operational** Antarctic stations:
-Options: A. Bharati and Arya B. Bharati and Dakshin Gangotri C. **Bharati and Maitri** D. Dakshin Gangotri and Maitri
+
+A. Bharati and Arya
+
+B. Bharati and Dakshin Gangotri
+
+C. **Bharati and Maitri**
+
+D. Dakshin Gangotri and Maitri
 
 <details>
 <summary>Show answer</summary>
@@ -646,7 +723,14 @@ Options: A. Bharati and Arya B. Bharati and Dakshin Gangotri C. **Bharati and Ma
 ---
 
 **Q12.** With reference to the Indian Ocean: 1. Greeks called it Erythraean Sea. 2. It spreads on either side of the Equator.
-Options: A. Only 2 B. Neither C. **Both** D. Only 1
+
+A. Only 2
+
+B. Neither
+
+C. **Both**
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -657,7 +741,14 @@ Options: A. Only 2 B. Neither C. **Both** D. Only 1
 ---
 
 **Q13.** Territorial sea under UNCLOS is:
-Options: A. 200 nm B. **12 nm** C. 24 nm D. 350 nm
+
+A. 200 nm
+
+B. **12 nm**
+
+C. 24 nm
+
+D. 350 nm
 
 <details>
 <summary>Show answer</summary>
@@ -668,7 +759,14 @@ Options: A. 200 nm B. **12 nm** C. 24 nm D. 350 nm
 ---
 
 **Q14.** EEZ extends to:
-Options: A. 12 nm B. 24 nm C. **200 nm** D. Always 350 nm
+
+A. 12 nm
+
+B. 24 nm
+
+C. **200 nm**
+
+D. Always 350 nm
 
 <details>
 <summary>Show answer</summary>
@@ -679,7 +777,14 @@ Options: A. 12 nm B. 24 nm C. **200 nm** D. Always 350 nm
 ---
 
 **Q15.** Contiguous zone is:
-Options: A. 12 nm B. **24 nm** C. 200 nm D. High seas only
+
+A. 12 nm
+
+B. **24 nm**
+
+C. 200 nm
+
+D. High seas only
 
 <details>
 <summary>Show answer</summary>
@@ -690,7 +795,14 @@ Options: A. 12 nm B. **24 nm** C. 200 nm D. High seas only
 ---
 
 **Q16.** A guyot is:
-Options: A. A spit B. **A flat-topped seamount** C. A spring tide D. A cold current
+
+A. A spit
+
+B. **A flat-topped seamount**
+
+C. A spring tide
+
+D. A cold current
 
 <details>
 <summary>Show answer</summary>
@@ -701,7 +813,14 @@ Options: A. A spit B. **A flat-topped seamount** C. A spring tide D. A cold curr
 ---
 
 **Q17.** Humboldt Current is:
-Options: A. Warm Atlantic B. **Cold Pacific (Peru)** C. Warm Indian D. Arctic Molloy
+
+A. Warm Atlantic
+
+B. **Cold Pacific (Peru)**
+
+C. Warm Indian
+
+D. Arctic Molloy
 
 <details>
 <summary>Show answer</summary>
@@ -712,7 +831,14 @@ Options: A. Warm Atlantic B. **Cold Pacific (Peru)** C. Warm Indian D. Arctic Mo
 ---
 
 **Q18.** Kuroshio is:
-Options: A. Cold Kurile twin name B. **Warm Pacific (Japan)** C. Atlantic Canary D. Agulhas cold
+
+A. Cold Kurile twin name
+
+B. **Warm Pacific (Japan)**
+
+C. Atlantic Canary
+
+D. Agulhas cold
 
 <details>
 <summary>Show answer</summary>
@@ -723,7 +849,14 @@ Options: A. Cold Kurile twin name B. **Warm Pacific (Japan)** C. Atlantic Canary
 ---
 
 **Q19.** Oyashio / Kurile is:
-Options: A. Warm B. **Cold** C. Suez lake D. EEZ line
+
+A. Warm
+
+B. **Cold**
+
+C. Suez lake
+
+D. EEZ line
 
 <details>
 <summary>Show answer</summary>
@@ -734,7 +867,14 @@ Options: A. Warm B. **Cold** C. Suez lake D. EEZ line
 ---
 
 **Q20.** Canary Current is:
-Options: A. Warm Gulf Stream B. **Cold Atlantic (NW Africa)** C. Indian Agulhas D. Pacific Kuroshio
+
+A. Warm Gulf Stream
+
+B. **Cold Atlantic (NW Africa)**
+
+C. Indian Agulhas
+
+D. Pacific Kuroshio
 
 <details>
 <summary>Show answer</summary>
@@ -745,7 +885,14 @@ Options: A. Warm Gulf Stream B. **Cold Atlantic (NW Africa)** C. Indian Agulhas 
 ---
 
 **Q21.** Gulf Stream is:
-Options: A. Cold Labrador B. **Warm Atlantic** C. Pacific Humboldt D. Only a tide
+
+A. Cold Labrador
+
+B. **Warm Atlantic**
+
+C. Pacific Humboldt
+
+D. Only a tide
 
 <details>
 <summary>Show answer</summary>
@@ -756,7 +903,14 @@ Options: A. Cold Labrador B. **Warm Atlantic** C. Pacific Humboldt D. Only a tid
 ---
 
 **Q22.** California Current is:
-Options: A. Warm B. **Cold** C. Indian Ocean only D. A canal
+
+A. Warm
+
+B. **Cold**
+
+C. Indian Ocean only
+
+D. A canal
 
 <details>
 <summary>Show answer</summary>
@@ -767,7 +921,14 @@ Options: A. Warm B. **Cold** C. Indian Ocean only D. A canal
 ---
 
 **Q23.** El Niño off Peru: 1. Warm current appears. 2. Plankton **increase**.
-Options: A. **Only 1** B. Only 2 C. Both D. Neither
+
+A. **Only 1**
+
+B. Only 2
+
+C. Both
+
+D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -778,7 +939,14 @@ Options: A. **Only 1** B. Only 2 C. Both D. Neither
 ---
 
 **Q24.** Largest tidal-energy coast in standard Indian options:
-Options: A. North Circars B. Mannar C. **Khambhat** D. Kerala
+
+A. North Circars
+
+B. Mannar
+
+C. **Khambhat**
+
+D. Kerala
 
 <details>
 <summary>Show answer</summary>
@@ -789,7 +957,14 @@ Options: A. North Circars B. Mannar C. **Khambhat** D. Kerala
 ---
 
 **Q25.** Panama Canal joins:
-Options: A. Med and Red B. **Atlantic and Pacific** C. North Sea and Baltic D. Black and Marmara
+
+A. Med and Red
+
+B. **Atlantic and Pacific**
+
+C. North Sea and Baltic
+
+D. Black and Marmara
 
 <details>
 <summary>Show answer</summary>
@@ -800,7 +975,14 @@ Options: A. Med and Red B. **Atlantic and Pacific** C. North Sea and Baltic D. B
 ---
 
 **Q26.** Kiel Canal joins:
-Options: A. Med–Red B. Atlantic–Pacific C. **North Sea–Baltic** D. Red–Aden
+
+A. Med–Red
+
+B. Atlantic–Pacific
+
+C. **North Sea–Baltic**
+
+D. Red–Aden
 
 <details>
 <summary>Show answer</summary>
@@ -811,7 +993,14 @@ Options: A. Med–Red B. Atlantic–Pacific C. **North Sea–Baltic** D. Red–A
 ---
 
 **Q27.** Strait of Hormuz joins:
-Options: A. Red–Aden B. **Persian Gulf–Gulf of Oman** C. Med–Atlantic D. Andaman–Nicobar
+
+A. Red–Aden
+
+B. **Persian Gulf–Gulf of Oman**
+
+C. Med–Atlantic
+
+D. Andaman–Nicobar
 
 <details>
 <summary>Show answer</summary>
@@ -822,7 +1011,14 @@ Options: A. Red–Aden B. **Persian Gulf–Gulf of Oman** C. Med–Atlantic D. A
 ---
 
 **Q28.** Malacca Strait is vital between:
-Options: A. Arctic–Pacific only B. **Indian Ocean and the Pacific/S. China side** C. Black–Marmara D. Fundy–Atlantic only
+
+A. Arctic–Pacific only
+
+B. **Indian Ocean and the Pacific/S. China side**
+
+C. Black–Marmara
+
+D. Fundy–Atlantic only
 
 <details>
 <summary>Show answer</summary>
@@ -833,7 +1029,14 @@ Options: A. Arctic–Pacific only B. **Indian Ocean and the Pacific/S. China sid
 ---
 
 **Q29.** Gibraltar joins:
-Options: A. Red–Aden B. **Mediterranean–Atlantic** C. Bering–Arctic only as a pair D. Palk–BoB only
+
+A. Red–Aden
+
+B. **Mediterranean–Atlantic**
+
+C. Bering–Arctic only as a pair
+
+D. Palk–BoB only
 
 <details>
 <summary>Show answer</summary>
@@ -844,7 +1047,14 @@ Options: A. Red–Aden B. **Mediterranean–Atlantic** C. Bering–Arctic only a
 ---
 
 **Q30.** Bering Strait joins:
-Options: A. Med–Red B. **Arctic–Pacific** (and Asia–America) C. India–Sri Lanka D. Sumatra–Java
+
+A. Med–Red
+
+B. **Arctic–Pacific** (and Asia–America)
+
+C. India–Sri Lanka
+
+D. Sumatra–Java
 
 <details>
 <summary>Show answer</summary>
@@ -855,7 +1065,14 @@ Options: A. Med–Red B. **Arctic–Pacific** (and Asia–America) C. India–Sr
 ---
 
 **Q31.** 10° Channel lies between:
-Options: A. India and Sri Lanka B. **Andaman and Nicobar** C. Minicoy and Maldives D. Little and South Andaman
+
+A. India and Sri Lanka
+
+B. **Andaman and Nicobar**
+
+C. Minicoy and Maldives
+
+D. Little and South Andaman
 
 <details>
 <summary>Show answer</summary>
@@ -866,7 +1083,14 @@ Options: A. India and Sri Lanka B. **Andaman and Nicobar** C. Minicoy and Maldiv
 ---
 
 **Q32.** Palk Strait lies between:
-Options: A. Andaman–Nicobar B. **India–Sri Lanka** C. Sumatra–Java D. Spain–Morocco
+
+A. Andaman–Nicobar
+
+B. **India–Sri Lanka**
+
+C. Sumatra–Java
+
+D. Spain–Morocco
 
 <details>
 <summary>Show answer</summary>
@@ -877,7 +1101,14 @@ Options: A. Andaman–Nicobar B. **India–Sri Lanka** C. Sumatra–Java D. Spai
 ---
 
 **Q33.** Sargasso Sea is in the:
-Options: A. Indian Ocean B. **North Atlantic** (no land boundary) C. Arctic D. Red Sea
+
+A. Indian Ocean
+
+B. **North Atlantic** (no land boundary)
+
+C. Arctic
+
+D. Red Sea
 
 <details>
 <summary>Show answer</summary>
@@ -888,7 +1119,14 @@ Options: A. Indian Ocean B. **North Atlantic** (no land boundary) C. Arctic D. R
 ---
 
 **Q34.** Grand Banks fishery is off:
-Options: A. Peru only B. **Newfoundland** C. Japan only D. Khambhat only
+
+A. Peru only
+
+B. **Newfoundland**
+
+C. Japan only
+
+D. Khambhat only
 
 <details>
 <summary>Show answer</summary>
@@ -899,7 +1137,14 @@ Options: A. Peru only B. **Newfoundland** C. Japan only D. Khambhat only
 ---
 
 **Q35.** Antarctic Treaty was signed in:
-Options: A. 1945 B. **1959** (in force 1961) C. 1983 as the first signing D. 2012
+
+A. 1945
+
+B. **1959** (in force 1961)
+
+C. 1983 as the first signing
+
+D. 2012
 
 <details>
 <summary>Show answer</summary>
@@ -910,7 +1155,14 @@ Options: A. 1945 B. **1959** (in force 1961) C. 1983 as the first signing D. 201
 ---
 
 **Q36.** Himadri is India’s station in the:
-Options: A. Antarctic Maitri campus B. **Arctic (Svalbard)** C. Andaman D. Suez
+
+A. Antarctic Maitri campus
+
+B. **Arctic (Svalbard)**
+
+C. Andaman
+
+D. Suez
 
 <details>
 <summary>Show answer</summary>
@@ -921,7 +1173,14 @@ Options: A. Antarctic Maitri campus B. **Arctic (Svalbard)** C. Andaman D. Suez
 ---
 
 **Q37.** Dakshin Gangotri today is:
-Options: A. Still the only operational base B. **Not the operational pair** (first base; buried/closed) C. In the Arctic D. A guyot
+
+A. Still the only operational base
+
+B. **Not the operational pair** (first base; buried/closed)
+
+C. In the Arctic
+
+D. A guyot
 
 <details>
 <summary>Show answer</summary>
@@ -932,7 +1191,14 @@ Options: A. Still the only operational base B. **Not the operational pair** (fir
 ---
 
 **Q38.** Average open-ocean salinity is about:
-Options: A. 7‰ B. **35‰** C. 41‰ everywhere D. 0‰
+
+A. 7‰
+
+B. **35‰**
+
+C. 41‰ everywhere
+
+D. 0‰
 
 <details>
 <summary>Show answer</summary>
@@ -943,7 +1209,14 @@ Options: A. 7‰ B. **35‰** C. 41‰ everywhere D. 0‰
 ---
 
 **Q39.** Continental shelf is typically shallower than about:
-Options: A. 6000 m B. **200 m** C. 12 nm of water column only D. The Moho
+
+A. 6000 m
+
+B. **200 m**
+
+C. 12 nm of water column only
+
+D. The Moho
 
 <details>
 <summary>Show answer</summary>
@@ -954,7 +1227,14 @@ Options: A. 6000 m B. **200 m** C. 12 nm of water column only D. The Moho
 ---
 
 **Q40.** Mid-ocean ridges are:
-Options: A. Convergent trenches B. **Divergent spreading centres** C. Spring tides D. EEZ lines
+
+A. Convergent trenches
+
+B. **Divergent spreading centres**
+
+C. Spring tides
+
+D. EEZ lines
 
 <details>
 <summary>Show answer</summary>
@@ -965,7 +1245,14 @@ Options: A. Convergent trenches B. **Divergent spreading centres** C. Spring tid
 ---
 
 **Q41.** Smallest ocean is the:
-Options: A. Indian B. Southern C. **Arctic** D. Pacific
+
+A. Indian
+
+B. Southern
+
+C. **Arctic**
+
+D. Pacific
 
 <details>
 <summary>Show answer</summary>
@@ -976,7 +1263,14 @@ Options: A. Indian B. Southern C. **Arctic** D. Pacific
 ---
 
 **Q42.** Largest ocean is the:
-Options: A. Atlantic B. **Pacific** C. Indian D. Southern
+
+A. Atlantic
+
+B. **Pacific**
+
+C. Indian
+
+D. Southern
 
 <details>
 <summary>Show answer</summary>
@@ -987,7 +1281,14 @@ Options: A. Atlantic B. **Pacific** C. Indian D. Southern
 ---
 
 **Q43.** West Australian Current is generally:
-Options: A. Warm Agulhas twin B. **Cold** C. A Suez lake D. A strait
+
+A. Warm Agulhas twin
+
+B. **Cold**
+
+C. A Suez lake
+
+D. A strait
 
 <details>
 <summary>Show answer</summary>
@@ -998,7 +1299,14 @@ Options: A. Warm Agulhas twin B. **Cold** C. A Suez lake D. A strait
 ---
 
 **Q44.** Labrador Current is:
-Options: A. Warm B. **Cold** C. Pacific only D. Indian Agulhas
+
+A. Warm
+
+B. **Cold**
+
+C. Pacific only
+
+D. Indian Agulhas
 
 <details>
 <summary>Show answer</summary>
@@ -1009,7 +1317,14 @@ Options: A. Warm B. **Cold** C. Pacific only D. Indian Agulhas
 ---
 
 **Q45.** Assertion (A): Benguela is a cold current of the Pacific. Reason (R): Salinity is max near the tropics.
-Options: A. Both true R explains A B. Both true R not explanation C. A true R false D. **A false, R true**
+
+A. Both true R explains A
+
+B. Both true R not explanation
+
+C. A true R false
+
+D. **A false, R true**
 
 <details>
 <summary>Show answer</summary>
@@ -1020,7 +1335,14 @@ Options: A. Both true R explains A B. Both true R not explanation C. A true R fa
 ---
 
 **Q46.** Bab-el-Mandeb joins:
-Options: A. Med–Atlantic B. **Red Sea–Gulf of Aden** C. Black–Marmara D. Palk–Mannar
+
+A. Med–Atlantic
+
+B. **Red Sea–Gulf of Aden**
+
+C. Black–Marmara
+
+D. Palk–Mannar
 
 <details>
 <summary>Show answer</summary>
@@ -1031,7 +1353,14 @@ Options: A. Med–Atlantic B. **Red Sea–Gulf of Aden** C. Black–Marmara D. P
 ---
 
 **Q47.** Bosphorus joins:
-Options: A. Med–Red B. **Black Sea–Marmara** C. Arctic–Pacific D. Andaman–Nicobar
+
+A. Med–Red
+
+B. **Black Sea–Marmara**
+
+C. Arctic–Pacific
+
+D. Andaman–Nicobar
 
 <details>
 <summary>Show answer</summary>
@@ -1042,7 +1371,14 @@ Options: A. Med–Red B. **Black Sea–Marmara** C. Arctic–Pacific D. Andaman�
 ---
 
 **Q48.** Which is **not** a true sea (inland lake)?
-Options: A. Red Sea B. **Caspian** C. Caribbean D. Bering
+
+A. Red Sea
+
+B. **Caspian**
+
+C. Caribbean
+
+D. Bering
 
 <details>
 <summary>Show answer</summary>
@@ -1053,7 +1389,14 @@ Options: A. Red Sea B. **Caspian** C. Caribbean D. Bering
 ---
 
 **Q49.** Tsunami is:
-Options: A. A spring tide B. **A seismic sea wave** C. An EEZ D. A guyot
+
+A. A spring tide
+
+B. **A seismic sea wave**
+
+C. An EEZ
+
+D. A guyot
 
 <details>
 <summary>Show answer</summary>
@@ -1064,7 +1407,14 @@ Options: A. A spring tide B. **A seismic sea wave** C. An EEZ D. A guyot
 ---
 
 **Q50.** UNCLOS was adopted in:
-Options: A. 1945 B. **1982** (in force 1994) C. 1959 D. 1869
+
+A. 1945
+
+B. **1982** (in force 1994)
+
+C. 1959
+
+D. 1869
 
 <details>
 <summary>Show answer</summary>
@@ -1075,7 +1425,14 @@ Options: A. 1945 B. **1982** (in force 1994) C. 1959 D. 1869
 ---
 
 **Q51.** Continental shelf rights may extend, if geology allows, up to:
-Options: A. 12 nm only B. 24 nm only C. **350 nm** D. The South Pole
+
+A. 12 nm only
+
+B. 24 nm only
+
+C. **350 nm**
+
+D. The South Pole
 
 <details>
 <summary>Show answer</summary>
@@ -1086,7 +1443,14 @@ Options: A. 12 nm only B. 24 nm only C. **350 nm** D. The South Pole
 ---
 
 **Q52.** Only circumpolar ocean current is the:
-Options: A. Gulf Stream B. Agulhas C. **Antarctic Circumpolar / West Wind Drift** D. Canary
+
+A. Gulf Stream
+
+B. Agulhas
+
+C. **Antarctic Circumpolar / West Wind Drift**
+
+D. Canary
 
 <details>
 <summary>Show answer</summary>
@@ -1097,7 +1461,14 @@ Options: A. Gulf Stream B. Agulhas C. **Antarctic Circumpolar / West Wind Drift*
 ---
 
 **Q53.** Dogger Bank is a fishery in the:
-Options: A. Arabian Sea B. **North Sea** C. Sargasso D. Ross Sea only
+
+A. Arabian Sea
+
+B. **North Sea**
+
+C. Sargasso
+
+D. Ross Sea only
 
 <details>
 <summary>Show answer</summary>
@@ -1108,7 +1479,14 @@ Options: A. Arabian Sea B. **North Sea** C. Sargasso D. Ross Sea only
 ---
 
 **Q54.** Suez Canal (unlike Panama) is famous for:
-Options: A. Many locks B. **No locks** (sea-level) C. Joining Atlantic–Pacific D. Being in Panama
+
+A. Many locks
+
+B. **No locks** (sea-level)
+
+C. Joining Atlantic–Pacific
+
+D. Being in Panama
 
 <details>
 <summary>Show answer</summary>
@@ -1119,7 +1497,14 @@ Options: A. Many locks B. **No locks** (sea-level) C. Joining Atlantic–Pacific
 ---
 
 **Q55.** Mariana Trench lies in the:
-Options: A. Atlantic B. Indian C. **Pacific** D. Arctic
+
+A. Atlantic
+
+B. Indian
+
+C. **Pacific**
+
+D. Arctic
 
 <details>
 <summary>Show answer</summary>
@@ -1130,7 +1515,14 @@ Options: A. Atlantic B. Indian C. **Pacific** D. Arctic
 ---
 
 **Q56.** Thermocline is a zone of rapid change of:
-Options: A. Only salinity at the equator B. **Temperature with depth** C. Tidal range D. EEZ width
+
+A. Only salinity at the equator
+
+B. **Temperature with depth**
+
+C. Tidal range
+
+D. EEZ width
 
 <details>
 <summary>Show answer</summary>
@@ -1141,7 +1533,14 @@ Options: A. Only salinity at the equator B. **Temperature with depth** C. Tidal 
 ---
 
 **Q57.** Red clay is typical of:
-Options: A. Coral reefs B. **The deepest abyssal floors** C. Only Hooghly bore D. Only Suez lakes
+
+A. Coral reefs
+
+B. **The deepest abyssal floors**
+
+C. Only Hooghly bore
+
+D. Only Suez lakes
 
 <details>
 <summary>Show answer</summary>
@@ -1152,7 +1551,14 @@ Options: A. Coral reefs B. **The deepest abyssal floors** C. Only Hooghly bore D
 ---
 
 **Q58.** Diatom ooze is:
-Options: A. Calcareous equatorial only B. **Siliceous, high-latitude** C. A warm current D. A guyot
+
+A. Calcareous equatorial only
+
+B. **Siliceous, high-latitude**
+
+C. A warm current
+
+D. A guyot
 
 <details>
 <summary>Show answer</summary>
@@ -1163,7 +1569,14 @@ Options: A. Calcareous equatorial only B. **Siliceous, high-latitude** C. A warm
 ---
 
 **Q59.** Globigerina ooze is:
-Options: A. Siliceous polar only B. **Calcareous** C. Pure manganese D. A strait
+
+A. Siliceous polar only
+
+B. **Calcareous**
+
+C. Pure manganese
+
+D. A strait
 
 <details>
 <summary>Show answer</summary>
@@ -1174,7 +1587,14 @@ Options: A. Siliceous polar only B. **Calcareous** C. Pure manganese D. A strait
 ---
 
 **Q60.** Ninetyeast Ridge is:
-Options: A. The Mid-Atlantic Ridge B. **A N–S volcanic trail in the eastern Indian Ocean (not classic MAR)** C. Arctic Molloy D. Suez
+
+A. The Mid-Atlantic Ridge
+
+B. **A N–S volcanic trail in the eastern Indian Ocean (not classic MAR)**
+
+C. Arctic Molloy
+
+D. Suez
 
 <details>
 <summary>Show answer</summary>
@@ -1185,7 +1605,14 @@ Options: A. The Mid-Atlantic Ridge B. **A N–S volcanic trail in the eastern In
 ---
 
 **Q61.** Carlsberg Ridge lies in the:
-Options: A. North Atlantic B. **NW Indian Ocean** C. Arctic D. Only Pacific
+
+A. North Atlantic
+
+B. **NW Indian Ocean**
+
+C. Arctic
+
+D. Only Pacific
 
 <details>
 <summary>Show answer</summary>
@@ -1196,7 +1623,14 @@ Options: A. North Atlantic B. **NW Indian Ocean** C. Arctic D. Only Pacific
 ---
 
 **Q62.** A tidal bore in India is classically associated with the:
-Options: A. Indus only B. **Hooghly** C. Narmada gorge only D. Maitri station
+
+A. Indus only
+
+B. **Hooghly**
+
+C. Narmada gorge only
+
+D. Maitri station
 
 <details>
 <summary>Show answer</summary>
@@ -1207,7 +1641,14 @@ Options: A. Indus only B. **Hooghly** C. Narmada gorge only D. Maitri station
 ---
 
 **Q63.** Highest tidal range in the world is in:
-Options: A. Khambhat B. **Bay of Fundy** C. Sargasso D. Caspian
+
+A. Khambhat
+
+B. **Bay of Fundy**
+
+C. Sargasso
+
+D. Caspian
 
 <details>
 <summary>Show answer</summary>
@@ -1218,7 +1659,14 @@ Options: A. Khambhat B. **Bay of Fundy** C. Sargasso D. Caspian
 ---
 
 **Q64.** International Seabed Authority sits in:
-Options: A. New Delhi B. **Kingston, Jamaica** C. Svalbard D. Schirmacher Oasis
+
+A. New Delhi
+
+B. **Kingston, Jamaica**
+
+C. Svalbard
+
+D. Schirmacher Oasis
 
 <details>
 <summary>Show answer</summary>
@@ -1229,7 +1677,14 @@ Options: A. New Delhi B. **Kingston, Jamaica** C. Svalbard D. Schirmacher Oasis
 ---
 
 **Q65.** India in the Arctic Council is:
-Options: A. A founding member B. **An observer (2013)** C. Host of Maitri D. Owner of Molloy Deep
+
+A. A founding member
+
+B. **An observer (2013)**
+
+C. Host of Maitri
+
+D. Owner of Molloy Deep
 
 <details>
 <summary>Show answer</summary>
@@ -1240,7 +1695,14 @@ Options: A. A founding member B. **An observer (2013)** C. Host of Maitri D. Own
 ---
 
 **Q66.** Drake Passage is:
-Options: A. The Suez lakes B. **Open water south of Cape Horn** C. Palk Strait D. 10° Channel
+
+A. The Suez lakes
+
+B. **Open water south of Cape Horn**
+
+C. Palk Strait
+
+D. 10° Channel
 
 <details>
 <summary>Show answer</summary>
@@ -1251,7 +1713,14 @@ Options: A. The Suez lakes B. **Open water south of Cape Horn** C. Palk Strait D
 ---
 
 **Q67.** Upwelling is **not** typical of:
-Options: A. Peru B. Benguela C. California D. **The western North Atlantic Gulf Stream core as a cold-coast upwelling clone**
+
+A. Peru
+
+B. Benguela
+
+C. California
+
+D. **The western North Atlantic Gulf Stream core as a cold-coast upwelling clone**
 
 <details>
 <summary>Show answer</summary>
@@ -1262,7 +1731,14 @@ Options: A. Peru B. Benguela C. California D. **The western North Atlantic Gulf 
 ---
 
 **Q68.** Hadal zone means:
-Options: A. The mixed layer B. **Ocean trenches** C. Only Sargasso weed D. Territorial 12 nm
+
+A. The mixed layer
+
+B. **Ocean trenches**
+
+C. Only Sargasso weed
+
+D. Territorial 12 nm
 
 <details>
 <summary>Show answer</summary>
@@ -1273,7 +1749,14 @@ Options: A. The mixed layer B. **Ocean trenches** C. Only Sargasso weed D. Terri
 ---
 
 **Q69.** Manganese nodules are mainly on:
-Options: A. Beach spits B. **Abyssal plains** (Pacific / CIOB) C. Glacier cirques D. Suez locks
+
+A. Beach spits
+
+B. **Abyssal plains** (Pacific / CIOB)
+
+C. Glacier cirques
+
+D. Suez locks
 
 <details>
 <summary>Show answer</summary>
@@ -1284,7 +1767,14 @@ Options: A. Beach spits B. **Abyssal plains** (Pacific / CIOB) C. Glacier cirque
 ---
 
 **Q70.** Madrid Protocol (1991) is about:
-Options: A. UNCLOS 12 nm B. **Antarctic environment / mining ban** C. Suez lakes D. Kuroshio
+
+A. UNCLOS 12 nm
+
+B. **Antarctic environment / mining ban**
+
+C. Suez lakes
+
+D. Kuroshio
 
 <details>
 <summary>Show answer</summary>
@@ -1302,11 +1792,19 @@ Options: A. UNCLOS 12 nm B. **Antarctic environment / mining ban** C. Suez lakes
 
 **Q1. UPPCS Prelims 2025, Q75**
 Which of the following are NOT cold ocean currents?
+
 1. Agulhas Current
 2. Brazil Current
 3. Humboldt Current
 4. California Current
-Options: A. 1 and 3 B. 3 and 4 C. 2 and 3 D. 1 and 2
+
+A. 1 and 3
+
+B. 3 and 4
+
+C. 2 and 3
+
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
@@ -1327,9 +1825,17 @@ Pick **1 and 2**. Option B (3 and 4) is the cold pair — that is the trap if yo
 
 **Q2. UPPCS Prelims 2025, Q78**
 With reference to the Indian Ocean, which of the following statements is/are correct?
+
 1. It was called by the Ancient Greeks as the Erythraean Sea.
 2. It is spread on either side of the Equator.
-Options: A. Only 2 B. Neither 1 nor 2 C. Both 1 and 2 D. Only 1
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1341,11 +1847,19 @@ Options: A. Only 2 B. Neither 1 nor 2 C. Both 1 and 2 D. Only 1
 
 **Q3. UPPCS Prelims 2025, Q138**
 The Suez Canal connects which of the following?
+
 1. Atlantic Ocean
 2. Red Sea
 3. Mediterranean Sea
 4. Indian Ocean
-Options: A. 1 and 3 B. 3 and 4 C. 2 and 3 D. 1 and 2
+
+A. 1 and 3
+
+B. 3 and 4
+
+C. 2 and 3
+
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
@@ -1357,10 +1871,15 @@ Options: A. 1 and 3 B. 3 and 4 C. 2 and 3 D. 1 and 2
 
 **Q4. UPPCS Prelims 2023, Q61**
 Which of the following statements is true?
+
 Options:
+
 A. Benguela Current is a cold current of the Pacific Ocean.
+
 B. If the Sun, the Earth and the Moon are in a straight line, then this situation results in a small tide.
+
 C. Ocean salinity is maximum near the Tropics of Cancer and Capricorn.
+
 D. Tide comes on the Earth every day after exactly 12 hours 30 minutes.
 
 <details>
@@ -1373,9 +1892,17 @@ D. Tide comes on the Earth every day after exactly 12 hours 30 minutes.
 
 **Q5. UPPCS Prelims 2023, Q67**
 With reference to El Niño, which of the following statements is/are correct?
+
 1. El Niño involves the appearance of a warm current off the coast of Peru in the eastern Pacific.
 2. This warm current increases the temperature of water on the Peruvian coast by about 10°C, thereby increasing the amount of plankton in the sea.
-Options: A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1387,7 +1914,14 @@ Options: A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 **Q6. UPPCS Prelims 2022, Q20**
 Which of the following coasts is the largest tidal energy producing area in India?
-Options: A. North Circars Coast B. Mannar Coast C. Khambhat Coast D. Kerala Coast
+
+A. North Circars Coast
+
+B. Mannar Coast
+
+C. Khambhat Coast
+
+D. Kerala Coast
 
 <details>
 <summary>Show answer</summary>
@@ -1400,16 +1934,28 @@ Options: A. North Circars Coast B. Mannar Coast C. Khambhat Coast D. Kerala Coas
 **Q7. UPPCS Prelims 2022, Q114**
 Match List-I with List-II and select the correct answer from the code given below.
 **List-I (Ocean)**
+
 A. Pacific
+
 B. Arctic
+
 C. Indian
+
 D. Atlantic
 **List-II (Maximum Deepest Point)**
+
 1. Sunda Trench
 2. Puerto Rico Trench
 3. Mariana Trench
 4. Molloy Deep
-Options: A. 4, 3, 2, 1 B. 3, 2, 1, 4 C. 1, 2, 3, 4 D. 3, 4, 1, 2
+
+A. 4, 3, 2, 1
+
+B. 3, 2, 1, 4
+
+C. 1, 2, 3, 4
+
+D. 3, 4, 1, 2
 
 <details>
 <summary>Show answer</summary>
@@ -1421,7 +1967,14 @@ Options: A. 4, 3, 2, 1 B. 3, 2, 1, 4 C. 1, 2, 3, 4 D. 3, 4, 1, 2
 
 **Q8. UPPCS Prelims 2021, Q53**
 Which among the following are India's permanent and operational research stations in Antarctica?
-Options: A. Bharati and Arya B. Bharati and Dakshin Gangotri C. Bharati and Maitri D. Dakshin Gangotri and Maitri
+
+A. Bharati and Arya
+
+B. Bharati and Dakshin Gangotri
+
+C. Bharati and Maitri
+
+D. Dakshin Gangotri and Maitri
 
 <details>
 <summary>Show answer</summary>
@@ -1433,7 +1986,14 @@ Options: A. Bharati and Arya B. Bharati and Dakshin Gangotri C. Bharati and Mait
 
 **Q9. UPPCS Prelims 2020, Q78**
 Which of the following ocean currents is associated with Indian Ocean?
-Options: A. Florida current B. Canary current C. Agulhas current D. Kurile current
+
+A. Florida current
+
+B. Canary current
+
+C. Agulhas current
+
+D. Kurile current
 
 <details>
 <summary>Show answer</summary>
@@ -1445,10 +2005,15 @@ Options: A. Florida current B. Canary current C. Agulhas current D. Kurile curre
 
 **Q10. UPPCS Prelims 2019, Q76**
 In the Suez canal region, the correct order of lakes lying from North to South direction is
+
 Options:
+
 A. Lake Timsah-Little Bitter Lake-Great Bitter Lake-Luke Manzola
+
 B. Great Bitter Lake - Little Bitter Lake-Lake Timsah-Lake Manzala
+
 C. Lake Manzala - Great Bitter Lake - Little Bitter Lake-Lake Timsah
+
 D. Lake Manzala-Lake Timsah- Cireat Bitter Lake-Little Bitter Lake
 
 <details>
@@ -1461,7 +2026,14 @@ D. Lake Manzala-Lake Timsah- Cireat Bitter Lake-Little Bitter Lake
 
 **Q11. UPPCS Prelims 2019, Q77**
 Telegraphic Plateau is a part of
-Options: A. North Atlantic Ridge B. South Atlantic Ridge C. Indian Ocean Ridge D. None of these
+
+A. North Atlantic Ridge
+
+B. South Atlantic Ridge
+
+C. Indian Ocean Ridge
+
+D. None of these
 
 <details>
 <summary>Show answer</summary>
@@ -1473,7 +2045,14 @@ Options: A. North Atlantic Ridge B. South Atlantic Ridge C. Indian Ocean Ridge D
 
 **Q12. UPPCS Prelims 2018, Q29**
 How much the maritime distance between India and Europe was reduced after the construction of the Suez Canal?
-Options: A. 5,000 km B. 7,000 km C. 8,000 km D. 10,000 km
+
+A. 5,000 km
+
+B. 7,000 km
+
+C. 8,000 km
+
+D. 10,000 km
 
 <details>
 <summary>Show answer</summary>
@@ -1486,7 +2065,14 @@ Options: A. 5,000 km B. 7,000 km C. 8,000 km D. 10,000 km
 **Q13. UPPCS Prelims 2019, Q5**
 Assertion (A): Indian Ocean has become the Military bases of many big powers.
 Reason (R): There is strong geo-political benefits in Indian Ocean and adjacent countries.
-Options: A. Both (A) and (R) are true and (R) is the correct explanation of (A). B. Both (A) and (R) are true, but (R) is not the correct explanation of (A) C. (A) is true, but (R) is false D. (A) is false. but (R) is true
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A).
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+C. (A) is true, but (R) is false
+
+D. (A) is false. but (R) is true
 
 <details>
 <summary>Show answer</summary>

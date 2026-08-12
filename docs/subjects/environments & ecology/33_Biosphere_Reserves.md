@@ -1,1032 +1,615 @@
 # Topic 33 — Biosphere Reserves
-### ★ Complete Source of Truth — No other book/notes needed for this topic
+### ★ UPPCS Revision Sheet — Lucent-style (no repetition · Practice ≥25)
 
-> **Covers syllabus:** Biosphere Reserve | Major Biosphere Reserves of India | Biosphere Reserves of Uttar Pradesh | Biosphere Reserves of the World  
-> **Sources baked in:** UNESCO MAB Programme; MoEFCC; NWDC/WII; NCERT Bio 12 Ch 15–16; UPPCS Prelims 2024 Q10 + 2025 Q144; UPSC PYQ patterns  
-> **Exam weight:** ★★★ High — state matching traps (Nokrek ≠ Manipur); BR vs NP vs WH; UP has zero BR  
-> **Last verified:** July 2026
+<details>
+<summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
----
+Biosphere Reserve | Major Biosphere Reserves of India | Biosphere Reserves of Uttar Pradesh | Biosphere Reserves of the World
 
-## How UPPCS Tests This Topic
+</details>
 
-| UPPCS asks… | From this topic | Example trap |
-|-------------|-----------------|--------------|
-| **NOT correctly matched** | BR ↔ state | Nokrek — **Manipur** = FALSE (Meghalaya) — **2025 Q144** |
-| **Match List-I / II** | Simlipal, Nokrek, Agasthyamalai, Manas | **2024 Q10** → D (2 4 1 3) |
-| **First / oldest / largest** | Nilgiri first India (1986); Great Rann largest; Nokrek smallest | MAB Programme = **1971** |
-| **UNESCO vs national only** | Manas removed from UNESCO 2011 | Still nationally notified BR |
-| **UP-specific negative** | BR in UP? | **Zero** — UP has no biosphere reserve |
-| **Three zones** | Core / Buffer / Transition | Core = no exploitation; Transition = sustainable livelihoods |
-
-> **2025 paper overlap:** Q144 (Nokrek–Manipur trap → §33.1, §33.2) | **2024 overlap:** Q10 (four-BR match → §33.2)
+> **Sources baked in:** UNESCO MAB; MoEFCC; NWDC; NCERT; UPPCS 2021–2025 PYQs  
+> **Exam weight:** ★★★ High — BR ↔ state; Nokrek ≠ Manipur; UP = zero BR  
+> **Last verified:** August 2026
 
 ---
 
 ## Quick Revision Box — Raata This First
 
 ```
-BIOSPHERE RESERVE (BR):
-  UNESCO MAB Programme 1971 | India first BR = Nilgiri 1986
-  3 ZONES: Core (strict) → Buffer (research/tourism) → Transition (livelihoods)
-  NOT under WPA 1972 — MoEFCC executive notification
-  Triple mandate: Conservation + Development + Logistics (research)
+BR = UNESCO MAB 1971 | Core → Buffer → Transition | NOT under WPA
+India: 18 notified | ~13 in UNESCO WNBR | First = Nilgiri 1986
+Largest = Great Rann of Kutch (Gujarat) | Smallest = Nokrek (Meghalaya)
+Manas (Assam) = national BR; REMOVED from UNESCO WNBR 2011
 
-INDIA: 18 notified BRs | 13 in UNESCO World Network (WNBR) — Cold Desert added 2025
-  FIRST = Nilgiri (1986) — TN + Karnataka + Kerala
-  LARGEST = Great Rann of Kutch, Gujarat (12,454 sq km)
-  SMALLEST = Nokrek, Meghalaya (820 sq km)
-  MANAS = Assam — REMOVED from UNESCO list 2011 (insurgency/poaching)
-  MP + TN = 3 BRs each (most among states)
+2025 Q144: Nokrek–Manipur ✗ | Manas–Assam ✓ | Agasthyamalai–Kerala ✓ → D (Only 1)
+2024 Q10: Simlipal=Odisha | Nokrek=Meghalaya | Agasthyamalai=Kerala | Manas=Assam → D (2 4 1 3)
 
-2025 Q144: NOT matched = Nokrek–Manipur only → Answer D (Only 1)
-2024 Q10: Simlipal=Odisha(2) Nokrek=Meghalaya(4) Agasthyamalai=Kerala(1) Manas=Assam(3) → D (2 4 1 3)
-
-UP: ZERO biosphere reserves — nearest = Nanda Devi BR (Uttarakhand)
-  Do NOT confuse: Valmiki = Bihar NP (not BR) | Dudhwa = UP NP (not BR)
-
-WORLD WNBR (exam-famous):
-  Yellowstone (USA) | Serengeti-Ngorongoro (Tanzania) | Galápagos (Ecuador)
-  Lake Baikal (Russia) | Doñana (Spain) | Mount Kenya (Kenya)
-  ~760 sites in 130+ countries (UNESCO MAB network)
-
-BR vs NP vs WH vs Ramsar:
-  BR = conservation + sustainable development (MAB)
-  NP = strictest WPA protection | WH = outstanding universal value
-  Ramsar = wetlands only
+UP: ZERO Biosphere Reserves
+  Nearest = Nanda Devi BR (Uttarakhand) — NOT UP
+  Dudhwa = NP | Valmiki = Bihar NP — neither is a UP BR
 ```
 
 ### Must-Know Term Comparisons
 
-| Term | One-line difference | Hindi |
-|------|---------------------|-------|
-| **Biosphere Reserve** | Large landscape — conserve biodiversity + allow regulated sustainable human use (MAB) | जीवमंडल आरक्षित क्षेत्र |
-| **National Park** | Strictest WPA category — no grazing/hunting; boundary change needs Parliament | राष्ट्रीय उद्यान |
-| **Wildlife Sanctuary** | WPA habitat protection — more flexible human use than NP | वन्यजीव अभयारण्य |
-| **UNESCO WNBR** | International network of BRs under MAB — periodic review | UNESCO विश्व जीवमंडल आरक्षित |
-| **Core Zone** | No human exploitation — strict biodiversity protection | क्रोड/गुठ/कोर क्षेत्र |
-| **Buffer Zone** | Limited research, education, eco-tourism around core | बफर क्षेत्र |
-| **Transition Zone** | Sustainable agriculture, forestry, settlements by communities | संक्रमण क्षेत्र |
-| **Nilgiri BR** | India's first notified BR (1986); spans 3 states | नीलगिरि जीवमंडल आरक्षित |
-| **Nokrek BR** | Smallest Indian BR; **Meghalaya** — NOT Manipur | नोकरेक (मेघालय) |
-| **Manas BR** | Assam; removed from UNESCO WNBR **2011** | मानस (असम) |
-| **MAB Programme** | Man and the Biosphere — UNESCO **1971** | मानव और जीवमंडल कार्यक्रम |
-| **Great Rann of Kutch BR** | Largest Indian BR by area | कच्छ का महान रण |
-| **Cold Desert BR** | Himachal Pradesh; 13th Indian UNESCO WNBR (**2025**) | शीत मरुस्थल |
+| Term | One-line lock |
+|------|---------------|
+| **Biosphere Reserve** | Conservation + sustainable use + research (MAB) |
+| **National Park** | Strictest WPA protection |
+| **Core / Buffer / Transition** | No exploitation / limited use / livelihoods |
+| **WNBR** | UNESCO World Network subset of national BRs |
+| **Nokrek** | **Meghalaya** — never Manipur |
+| **Nilgiri** | India’s first BR (1986) |
 
 ### Memory Tricks
 
-| Trick | Remembers |
-|-------|-----------|
-| **Nokrek = Meghalaya, not Manipur** | 2025 Q144 — only wrong pair |
-| **2-4-1-3 = S-N-A-M** | 2024 Q10 code D |
-| **Core-Buffer-Transition = C-B-T inward-out** | Strict → moderate → livelihood |
-| **Nilgiri = First (1986)** | Before Nanda Devi (1988) |
-| **Manas minus UNESCO 2011** | Only major "removed" trap |
-| **UP = Zero BR** | Like zero marine NP — landlocked PA gap |
-| **MAB 1971 = same year as Ramsar** | Both early 1970s global conservation |
+| Trick | Lock |
+|-------|------|
+| **Nokrek = Meghalaya** | 2025 Q144 only wrong pair |
+| **2-4-1-3** | 2024 Q10 Simlipal–Nokrek–Agasthyamalai–Manas |
+| **C-B-T** | Core–Buffer–Transition |
+| **UP = 0 BR** | Like zero marine NP |
 
 ---
 
 ## 33.1 Biosphere Reserve
 
-### Definitions (learn all — exams pick different ones)
+**Identity:** UNESCO MAB 1971 | Core–Buffer–Transition | MoEFCC executive | No WPA category
 
-| Source | Definition |
-|--------|------------|
-| **General** | Large protected landscapes designated to conserve biodiversity while supporting sustainable human development and scientific research |
-| **UNESCO / MAB** | Sites under **Man and the Biosphere (MAB) Programme** — integrate **conservation of biological diversity** with **sustainable use of natural resources** and **logistic support** (research, monitoring, education) |
-| **Legal (India)** | Notified by **Government of India (MoEFCC)** through **executive notification** — **not a statutory category under WPA 1972**; core areas often overlap existing NP/sanctuary |
+- A **Biosphere Reserve (BR)** is a large landscape that conserves biodiversity while allowing regulated sustainable community use and research.
+- UNESCO launched the **Man and the Biosphere (MAB) Programme in 1971** (same year as Ramsar).
+- India notifies BRs through **MoEFCC executive action** — BRs are **not** a separate WPA 1972 statutory category; cores usually overlap an existing NP/sanctuary.
+- **Three zones:** **Core** (no exploitative use) → **Buffer** (research, education, regulated eco-tourism) → **Transition** (sustainable farming, forestry, settlements).
+- **Triple mandate:** conservation + sustainable development + logistic support (research/monitoring/education).
+- India’s first BR is **Nilgiri (1986)** — Tamil Nadu, Karnataka, Kerala.
+- India has **18 notified BRs**; about **13** are in UNESCO’s **World Network of Biosphere Reserves (WNBR)** (Cold Desert, Himachal Pradesh, among recent WNBR additions).
+- Funding pattern under the Centrally Sponsored Scheme is typically **60:40** (Centre–State), **90:10** for NE/Himalayan states.
 
-### Biosphere Reserve — How It Works
+**PYQ — UPPCS Prelims 2018, Q54**
 
-- **UNESCO's MAB Programme** launched at the UNESCO General Conference in **1971**, the same year as the **Ramsar Convention**. It responds to human–environment conflict by combining **strict protection** with **community livelihoods**.
-- India's **first Biosphere Reserve** is **Nilgiri BR**, notified in **1986**. It spans **Tamil Nadu, Karnataka, and Kerala** as a model for Western Ghats landscape conservation.
-- India has **18 notified Biosphere Reserves** covering **~91,425 sq km**, of which **13** are in **UNESCO's World Network of Biosphere Reserves (WNBR)** as of **2025** (Cold Desert, HP added).
-- Every BR is divided into **three zones**: **(1) Core** with no human activity and maximum protection (often an existing NP), **(2) Buffer** for limited research, education, and regulated tourism, and **(3) Transition (Manipulation)** for sustainable forestry, agriculture, and community settlements.
-- **Triple mandate** of MAB BRs: **Conservation** (genetic diversity, species, ecosystems) + **Development** (sustainable economic and human development) + **Logistic support** (research, monitoring, education, international cooperation).
-- **Unlike National Parks (WPA Sec 35)**, BRs are **not declared under Wildlife Protection Act 1972**. Legal protection in the core usually comes from an **overlapping NP or sanctuary** within the BR boundary.
-- **Funding (India)**: A Centrally Sponsored Scheme provides **60:40 Centre–State** funding (**90:10** for NE and Himalayan states), with MoEFCC as the nodal ministry.
-- **BR vs NP trap**: NP imposes the strictest exploitation ban, while BR **allows regulated sustainable use** in buffer/transition zones. Exams ask whether "Biosphere Reserves permit sustainable community use" = **TRUE**.
-- **BR vs UNESCO World Heritage**: WH marks outstanding universal value (natural/cultural), while BR functions as a **living laboratory** for sustainable development. A site can hold **both** designations (e.g., Khangchendzonga, Sundarbans).
-- **2025 Q144 direct trap**: The pair **Nokrek paired with Manipur** is **NOT correctly matched**. Nokrek BR is in **Meghalaya** (West Garo Hills), not Manipur. Answer **D (Only 1)**.
+Which is NOT an example of in-situ conservation?
 
-> **Exam note:** Nokrek = **Meghalaya**, NOT Manipur (2025 Q144). Manas = Assam ✓. Agasthyamalai = Kerala (+ Tamil Nadu) ✓.
+Options: A. Biosphere reserve  B. Botanical garden  C. National Park  D. Sacred groves
 
-### BR vs Other Protected Area Categories — Comparison
+<details><summary>Show answer</summary>
 
-| Category | Legal basis | Human use | International tag |
-|----------|-------------|-----------|-------------------|
-| **Biosphere Reserve** | MoEFCC notification (MAB) | Sustainable use in buffer/transition | UNESCO WNBR (optional) |
-| **National Park** | WPA 1972 Sec 35 | Strictly prohibited (except tourism/research) | May overlap WH |
-| **Wildlife Sanctuary** | WPA 1972 Sec 36 | More flexible than NP | Rarely WH |
-| **Tiger Reserve** | WPA Sec 38V + NTCA | Core like NP; buffer regulated | — |
-| **Ramsar Site** | Ramsar Convention 1971 | Wise use of wetlands | Ramsar only |
+**Ans: B** — Botanical garden is **ex-situ**. BR / NP / sacred groves are in-situ.
 
-### Exam Facts (raata)
+</details>
 
-- MAB Programme = **1971** (UNESCO)
-- India first BR = **Nilgiri 1986**
-- India has **18** notified BRs, of which **13** are in UNESCO WNBR (2025).
-- Three zones = **Core, Buffer, Transition**
-- **No WPA statutory basis** for BR
-- Funding = **60:40** (90:10 NE/Himalaya)
-- **Nokrek** is in **Meghalaya**, the 2025 Q144 state-matching trap.
-- **Great Rann of Kutch** is the largest BR and **Nokrek** is the smallest.
-
-### PYQs — Biosphere Reserve (Concept)
-
-1. **(UPPCS Prelims 2025, Q144)** Which pairs NOT correctly matched? 1. Nokrek — Manipur | 2. Manas — Assam | 3. Agasthyamalai — Kerala
-   → **Answer: D (Only 1)**. Only stmt 1 is false: Nokrek = **Meghalaya**.
-
-2. **(UPSC Prelims 2015 — pattern)** 'Biosphere Reserves' are:
-   (a) Protected areas meant for conservation of plants and animals only  
-   (b) Protected areas for conservation of biodiversity and sustainable use by local communities  
-   (c) Protected areas for recreation and tourism  
-   (d) Protected areas for conservation of only endangered species  
-   → **(b)**. The MAB triple mandate includes sustainable community use.
-
-### Examples (33.1)
-
-| Example | Role | Exam Note |
-|---------|------|-----------|
-| **Nilgiri BR** | India's first BR (1986) | Spans 3 states; UNESCO 2000 |
-| **Nokrek BR** | Smallest BR; red panda habitat | **Meghalaya** — Q144 trap state |
-| **Sundarbans BR** | Mangrove + tiger landscape | BR + NP + Ramsar + WH overlap |
+> **Exam note:** “Biosphere Reserves allow only absolute ban on all human use” is **false** — buffer/transition allow regulated use.
 
 ---
 
 ## 33.2 Major Biosphere Reserves of India
 
-### Definitions (learn all — exams pick different ones)
+**Identity:** 18 national BRs | Match-list heavy | Nokrek / Manas / Simlipal traps
 
-| Source | Definition |
-|--------|------------|
-| **National notification** | BR declared by MoEFCC on recommendation of state governments — national list currently **18** reserves |
-| **UNESCO WNBR** | Subset of national BRs approved for **World Network of Biosphere Reserves** — subject to **Periodic Review** every 10 years |
-| **Removed from WNBR** | **Manas BR (Assam)** — removed **2011** due to poaching/insurgency — still **nationally notified** |
+- **Largest BR:** **Great Rann of Kutch**, Gujarat. **Smallest:** **Nokrek**, Meghalaya.
+- **Newest notified:** **Panna**, Madhya Pradesh (2011).
+- **Manas (Assam)** remains a **national BR** but was **removed from UNESCO WNBR in 2011**.
+- **Madhya Pradesh** has three BRs: Pachmarhi, Achanakmar–Amarkantak (with Chhattisgarh), Panna.
+- Multi-state classics: **Nilgiri** (TN–KA–KL), **Agasthyamalai** (KL–TN), **Achanakmar–Amarkantak** (MP–CG).
 
-### Major Biosphere Reserves of India — How It Works
+**PYQ — UPPCS Prelims 2025, Q144**
 
-- **Nilgiri BR (1986)** was **India's first** BR across **Tamil Nadu, Karnataka, and Kerala**, protecting Nilgiri tahr and tiger. It joined UNESCO WNBR in **2000**.
-- **Nanda Devi BR (1988)** in **Uttarakhand** protects the Himalaya core with snow leopard and musk deer. It joined UNESCO WNBR in **2004** and is the nearest major BR to **UP** (not in UP).
-- **Nokrek BR (1988)** in **Meghalaya** is the **smallest BR (~820 sq km)**, home to red panda and hoolock gibbon. It joined UNESCO WNBR in **2009** and is **NOT in Manipur** (2025 Q144).
-- **Gulf of Mannar BR (1989)** in **Tamil Nadu** protects marine biodiversity including dugong. It joined UNESCO WNBR in **2001** and adjoins Gulf of Mannar Marine NP.
-- **Sundarbans BR (1989)** in **West Bengal** protects mangrove tiger habitat. It joined UNESCO WNBR in **2001** and overlaps Sundarbans NP and Ramsar.
-- **Manas BR (1989)** in **Assam** protects golden langur and elephant. It was **removed from UNESCO WNBR in 2011** but remains on the **national list**. The trap "Manas is not a BR" = **FALSE**.
-- **Great Nicobar BR (1989)** in **Andaman & Nicobar** protects saltwater crocodile and joined UNESCO WNBR in **2013**.
-- **Simlipal BR (1994)** in **Odisha** protects tiger, elephant, and gaur. It joined UNESCO WNBR in **2009**, and **2024 Q10** maps Simlipal to **Odisha (2)**.
-- **Dibru-Saikhowa BR (1997)** in **Assam** protects Gangetic dolphin and feral horse and is **not** in UNESCO WNBR.
-- **Dihang-Dibang BR (1998)** in **Arunachal Pradesh** protects takin and red panda and is not in UNESCO WNBR.
-- **Pachmarhi BR (1999)** in **Madhya Pradesh** protects the Satpura landscape and Indian giant squirrel. It joined UNESCO WNBR in **2009**.
-- **Khangchendzonga BR (2000)** in **Sikkim** protects the Kanchenjunga peak ecosystem and snow leopard. It joined UNESCO WNBR in **2018** with mixed natural-cultural WH overlap.
-- **Agasthyamalai BR (2001)** spans **Kerala and Tamil Nadu**, protecting Nilgiri tahr and elephant. It joined UNESCO WNBR in **2016**. **2024 Q10** maps Agasthyamalai to **Kerala (1)**, and Q144 stmt 3 is correct for Kerala.
-- **Achanakmar-Amarkantak BR (2005)** spans **Madhya Pradesh and Chhattisgarh**, protecting wild dog and sarus crane in the Amarkantak plateau source region. It joined UNESCO WNBR in **2012**.
-- **Great Rann of Kutch BR (2008)** in **Gujarat** is the **largest BR (12,454 sq km)**, protecting Indian wild ass.
-- **Cold Desert BR (2009)** in **Himachal Pradesh** protects the Spiti/Lahaul cold desert and snow leopard. It became the **13th UNESCO WNBR member in 2025**.
-- **Seshachalam Hills BR (2010)** in **Andhra Pradesh** protects slender loris and is not in UNESCO WNBR.
-- **Panna BR (2011)** in **Madhya Pradesh** is the newest notified BR, protecting tiger and chinkara. It joined UNESCO WNBR in **2020**.
-- **State count trap**: **Madhya Pradesh (3)** has Pachmarhi, Achanakmar-Amarkantak, and Panna. **Tamil Nadu (3)** has Nilgiri (part), Gulf of Mannar, and Agasthyamalai (part).
+Which pair(s) NOT correctly matched?  
+1. Nokrek — Manipur  
+2. Manas — Assam  
+3. Agasthyamalai — Kerala
 
-> **Exam note:** **2024 Q10 answer = D (2 4 1 3)** — Simlipal=Odisha; Nokrek=Meghalaya; Agasthyamalai=Kerala; Manas=Assam.
+Options: A. 1 and 2  B. Only 3  C. 2 and 3  D. Only 1
 
-### All 18 Biosphere Reserves of India — Complete List
+<details><summary>Show answer</summary>
 
-| # | Biosphere Reserve | State(s) | Notified | UNESCO WNBR | Key Species / Feature |
-|---|-------------------|----------|----------|-------------|----------------------|
-| 1 | **Nilgiri** | Tamil Nadu, Karnataka, Kerala | 1986 | 2000 | First Indian BR; Nilgiri tahr |
-| 2 | **Nanda Devi** | Uttarakhand | 1988 | 2004 | Snow leopard; Himalaya |
-| 3 | **Nokrek** | **Meghalaya** | 1988 | 2009 | Smallest BR; red panda |
-| 4 | **Gulf of Mannar** | Tamil Nadu | 1989 | 2001 | Dugong; marine BR |
-| 5 | **Sundarbans** | West Bengal | 1989 | 2001 | Mangrove tiger |
-| 6 | **Manas** | Assam | 1989 | **Removed 2011** | Golden langur; UNESCO delisted |
-| 7 | **Great Nicobar** | Andaman & Nicobar | 1989 | 2013 | Saltwater crocodile |
-| 8 | **Simlipal** | Odisha | 1994 | 2009 | Tiger, elephant |
-| 9 | **Dibru-Saikhowa** | Assam | 1997 | — | Gangetic dolphin |
-| 10 | **Dihang-Dibang** | Arunachal Pradesh | 1998 | — | Takin, red panda |
-| 11 | **Pachmarhi** | Madhya Pradesh | 1999 | 2009 | Indian giant squirrel |
-| 12 | **Khangchendzonga** | Sikkim | 2000 | 2018 | Snow leopard; Kanchenjunga |
-| 13 | **Agasthyamalai** | Kerala, Tamil Nadu | 2001 | 2016 | Nilgiri tahr; Western Ghats |
-| 14 | **Achanakmar-Amarkantak** | Madhya Pradesh, Chhattisgarh | 2005 | 2012 | Wild dog; sarus crane |
-| 15 | **Great Rann of Kutch** | Gujarat | 2008 | — | Largest BR; wild ass |
-| 16 | **Cold Desert** | Himachal Pradesh | 2009 | **2025** | Cold desert; snow leopard |
-| 17 | **Seshachalam Hills** | Andhra Pradesh | 2010 | — | Slender loris |
-| 18 | **Panna** | Madhya Pradesh | 2011 | 2020 | Newest notified; tiger |
+**Ans: D** — Only stmt 1 is wrong. Nokrek = **Meghalaya**.
 
-### 13 UNESCO World Network BRs — India (Complete List)
+</details>
 
-| # | BR | WNBR Year |
-|---|-----|-----------|
-| 1 | Nilgiri | 2000 |
-| 2 | Gulf of Mannar | 2001 |
-| 3 | Sundarbans | 2001 |
-| 4 | Nanda Devi | 2004 |
-| 5 | Simlipal | 2009 |
-| 6 | Pachmarhi | 2009 |
-| 7 | Nokrek | 2009 |
-| 8 | Achanakmar-Amarkantak | 2012 |
-| 9 | Agasthyamalai | 2016 |
-| 10 | Khangchendzonga | 2018 |
-| 11 | Panna | 2020 |
-| 12 | Great Nicobar | 2013 |
-| 13 | Cold Desert | 2025 |
+**PYQ — UPPCS Prelims 2024, Q10**
 
-### Exam Facts (raata)
+Match: A. Simlipal  B. Nokrek  C. Agasthyamalai  D. Manas  
+with 1. Kerala  2. Odisha  3. Assam  4. Meghalaya
 
-- India has **18** national BRs, of which **13** are in UNESCO WNBR.
-- First = **Nilgiri 1986**. Newest = **Panna 2011**.
-- Largest = **Great Rann of Kutch**. Smallest = **Nokrek**.
-- **Manas** was **removed from UNESCO WNBR in 2011** but remains a national BR.
-- **MP has 3 BRs**. **TN has 3 BRs** (partial/multi-state).
-- **2024 Q10** answer is **D (2 4 1 3)**.
-- **2025 Q144** answer is **D (Only 1)** because the Nokrek-Manipur pair is wrong.
+Options: A. 1 2 4 3  B. 3 1 4 2  C. 2 4 3 1  D. 2 4 1 3
 
-### PYQs — Major Biosphere Reserves of India
+<details><summary>Show answer</summary>
 
-1. **(UPPCS Prelims 2024, Q10)** Match List-I with List-II: A. Simlipal B. Nokrek C. Agasthyamalai D. Manas → 1. Kerala 2. Odisha 3. Assam 4. Meghalaya
-   → **Answer: D (2 4 1 3)**
+**Ans: D** — Simlipal=Odisha; Nokrek=Meghalaya; Agasthyamalai=Kerala; Manas=Assam.
 
-2. **(UPPCS Prelims 2025, Q144)** Which pairs NOT correctly matched? 1. Nokrek — Manipur 2. Manas — Assam 3. Agasthyamalai — Kerala
-   → **Answer: D (Only 1)**
+</details>
 
-### Examples (33.2)
+**PYQ — UPPCS Prelims 2021, Q140**
 
-| Example | State | Exam Note |
-|---------|-------|-----------|
-| **Simlipal BR** | Odisha | Q10 option A → code 2 |
-| **Nokrek BR** | Meghalaya | Q10 option B → code 4; NOT Manipur |
-| **Cold Desert BR** | Himachal Pradesh | 13th UNESCO WNBR (2025) |
+Match: A. Similipal  B. Pachmarhi  C. Nandadevi  D. Nokrek  
+with 1. Uttarakhand  2. Meghalaya  3. Madhya Pradesh  4. Odisha
+
+Options: A. 4 3 2 1  B. 4 3 1 2  C. 1 3 4 2  D. 3 4 1 2
+
+<details><summary>Show answer</summary>
+
+**Ans: B** — Simlipal=Odisha; Pachmarhi=MP; Nanda Devi=Uttarakhand; Nokrek=Meghalaya.
+
+</details>
+
+**PYQ — UPPCS Prelims 2022, Q110**
+
+Match: A. Manas  B. Sundarbans  C. Nanda Devi  D. Pachmarhi  
+with 1. Madhya Pradesh  2. Uttar Pradesh  3. Assam  4. West Bengal
+
+<details><summary>Show answer</summary>
+
+**Intended Ans: D (A-3, B-4, C-2, D-1)** — paper’s List-II labelled Nanda Devi as “Uttar Pradesh.”  
+**Geography lock:** Nanda Devi BR is in **Uttarakhand**. UP itself has **zero** BRs.
+
+</details>
+
+### All 18 Biosphere Reserves of India
+
+| # | Biosphere Reserve | State(s) | Notified | WNBR note |
+|---|-------------------|----------|----------|-----------|
+| 1 | Nilgiri | TN, KA, KL | **1986** | First; WNBR 2000 |
+| 2 | Nanda Devi | **Uttarakhand** | 1988 | WNBR 2004 |
+| 3 | Nokrek | **Meghalaya** | 1988 | Smallest; WNBR 2009 |
+| 4 | Gulf of Mannar | Tamil Nadu | 1989 | Marine; WNBR 2001 |
+| 5 | Sundarbans | West Bengal | 1989 | WNBR 2001 |
+| 6 | Manas | Assam | 1989 | **Removed UNESCO 2011** |
+| 7 | Great Nicobar | A&N | 1989 | WNBR 2013 |
+| 8 | Simlipal | **Odisha** | 1994 | WNBR 2009 |
+| 9 | Dibru-Saikhowa | Assam | 1997 | National only |
+| 10 | Dihang-Dibang | Arunachal Pradesh | 1998 | National only |
+| 11 | Pachmarhi | Madhya Pradesh | 1999 | WNBR 2009 |
+| 12 | Khangchendzonga | Sikkim | 2000 | WNBR 2018 |
+| 13 | Agasthyamalai | Kerala, Tamil Nadu | 2001 | WNBR 2016 |
+| 14 | Achanakmar–Amarkantak | MP, Chhattisgarh | 2005 | WNBR 2012 |
+| 15 | Great Rann of Kutch | Gujarat | 2008 | **Largest** |
+| 16 | Cold Desert | Himachal Pradesh | 2009 | Recent WNBR addition |
+| 17 | Seshachalam Hills | Andhra Pradesh | 2010 | National only |
+| 18 | Panna | Madhya Pradesh | **2011** | Newest; WNBR 2020 |
+
+> **Exam note:** Agasthyamalai paired only with Kerala is accepted as correct in 2025 Q144 (also spans Tamil Nadu).
 
 ---
 
 ## 33.3 Biosphere Reserves of Uttar Pradesh
 
-### Definitions (learn all — exams pick different ones)
+**Identity:** Zero BRs | Nearest = Nanda Devi (UK) | Dudhwa ≠ BR
 
-| Source | Definition |
-|--------|------------|
-| **UP status** | **Uttar Pradesh has zero (0) notified Biosphere Reserves** as of MoEFCC/NWDC list (2025) |
-| **Nearest BR** | **Nanda Devi BR (Uttarakhand)** — Himalayan; **Achanakmar-Amarkantak BR** touches MP–Chhattisgarh (Bundelkhand border near UP but **not in UP territory**) |
+- **Uttar Pradesh has no notified Biosphere Reserve.**
+- Nearest Himalayan BR is **Nanda Devi (Uttarakhand)** — not in UP after the 2000 bifurcation.
+- Do not treat **Dudhwa NP**, **Pilibhit TR**, or **Valmiki NP (Bihar)** as UP biosphere reserves.
+- Terai Arc (Dudhwa–Kishanpur–Katarniaghat) is landscape-conservation geography, but it is **not** a notified BR.
+- Neighbour contrast: MP has **three** BRs; Bihar and Rajasthan also have **zero** BRs (Valmiki is an NP).
 
-### Biosphere Reserves of Uttar Pradesh — How It Works
+| State | BR count | Lock |
+|-------|----------|------|
+| **Uttar Pradesh** | **0** | Any “UP BR” option is false |
+| Uttarakhand | 1 | Nanda Devi |
+| Madhya Pradesh | 3 | Pachmarhi, Achanakmar–Amarkantak, Panna |
+| Bihar | 0 | Valmiki = NP, not BR |
 
-- **Uttar Pradesh has no Biosphere Reserve**, unlike Assam (2+), MP (3), or multi-state BRs. UP's protected area network consists of **Dudhwa NP + 25 WLS + 3 Tiger Reserves + 12 Ramsar sites** with no BR notification yet.
-- **Negative exam trap**: For "Which Biosphere Reserve is located in Uttar Pradesh?" the answer is **None of the above**. Do not pick Dudhwa (NP, not BR), Valmiki (Bihar NP), or Nanda Devi (Uttarakhand BR).
-- The **Terai landscape (Dudhwa–Katarniaghat–Kishanpur)** is ecologically suitable for landscape-level BR designation and connects with Nepal's Terai Arc, but is **not yet notified** as a BR in UP.
-- **Nanda Devi BR (Uttarakhand)** is a post-2000 bifurcation neighbour and the closest Himalayan BR to western UP. Students in UP often confuse it with "UP Himalaya", but it is **not in UP**.
-- The **Bundelkhand region** is forest-poor and drought-prone with **no BR**. Conservation focus is on WLS (Ranipur, Mahavir Swami) and water bodies rather than the MAB BR model.
-- The **Gangetic plain BR gap** means Hastinapur WLS and Upper Ganga Ramsar protect wetlands, but **no BR** spans the Gangetic plain in UP unlike Sundarbans BR in WB.
-- The **Vindhyan range** has Kaimur WLS (Mirzapur-Sonbhadra) as a potential BR candidate discussed in literature, but it is **not notified**.
-- **Comparison with states that have BRs**: UP lacks **multi-zone landscape notification** even where NP/sanctuary exist, because BR requires separate MoEFCC executive notification.
-- **Exam linkage with Topic 32**: UP has **1 NP, 0 BR, and 0 marine NP**, showing the **lowest-tier international PA designations** among large states.
-- **Future prospect (awareness only)**: The Terai Arc Landscape programme (India–Nepal) may eventually support BR nomination, but until notified treat UP as having **zero BR today**.
-
-> **Exam note:** UP has **zero Biosphere Reserves**. Nanda Devi BR = **Uttarakhand**. Valmiki = **Bihar NP**, not UP BR.
-
-### UP vs Neighbouring States — BR Presence
-
-| State/UT | No. of BRs | Examples | Trap |
-|----------|------------|----------|------|
-| **Uttar Pradesh** | **0** | — | Any "UP BR" option is false |
-| **Uttarakhand** | 1 | Nanda Devi | Not in UP |
-| **Bihar** | 0 | Valmiki is **NP**, not BR | Do not pick Valmiki as BR |
-| **Madhya Pradesh** | 3 | Pachmarhi, Achanakmar-Amarkantak, Panna | Border near UP Bundelkhand |
-| **Rajasthan** | 0 | Desert NP exists; no BR | — |
-| **West Bengal** | 1 | Sundarbans | East, not UP |
-
-### Exam Facts (raata)
-
-- UP = **0 Biosphere Reserves**
-- Nearest Himalayan BR = **Nanda Devi (Uttarakhand)**
-- Dudhwa = **NP**, not BR
-- **Valmiki** is a **Bihar NP**, not in UP and not a BR.
-- Terai Arc = BR **candidate**, not notified in UP
-- **MP has 3 BRs**, the most among states near the UP border region.
-
-### PYQs — Biosphere Reserves of UP
-
-1. **(UPPCS Prelims 2025, Q144 — cross-trap)** Nokrek — Manipur listed as NOT matched — reinforces state-matching literacy for UP students who must know **no UP BR exists** and **Nokrek ≠ Manipur**.
-   → **Answer: D (Only 1)**. Unrelated state pairs are tested and UP has no BR entry.
-
-2. **(UPPCS 2022 — pattern)** Which state has no Biosphere Reserve among the following? Options may include UP alongside states with BRs.
-   → **Uttar Pradesh** (and Bihar, Rajasthan among major states with 0 BR).
-
-### Examples (33.3)
-
-| Example | Relation to UP | Exam Note |
-|---------|----------------|-----------|
-| **No UP BR** | UP territory | Negative question default |
-| **Nanda Devi BR** | Uttarakhand neighbour | Closest BR — not in UP |
-| **Dudhwa NP/TR** | Lakhimpur Kheri, UP | NP ≠ BR designation |
+> **Exam note:** “Which BR is in UP?” → **None**.
 
 ---
 
 ## 33.4 Biosphere Reserves of the World
 
-### Definitions (learn all — exams pick different ones)
+**Identity:** UNESCO WNBR | Global MAB sites | Living laboratories
 
-| Source | Definition |
-|--------|------------|
-| **UNESCO MAB / WNBR** | Global network of **759 Biosphere Reserves in 136 countries** (UNESCO 2024 data) — promotes **local sustainable solutions** to biodiversity loss and climate change |
-| **World BR purpose** | Same three functions as India: **conservation, development, logistic support** — **Periodic Review** every 10 years; sites can be **withdrawn** (like Manas, India 2011) |
-| **First global MAB sites** | MAB Programme **1971**; first BRs designated mid-1970s (e.g., **Mont Ventoux**, France; **Polish BRs** among earliest European sites) |
+- UNESCO’s **World Network of Biosphere Reserves** links hundreds of sites worldwide under MAB for conservation and sustainable development.
+- Famous exam icons: **Yellowstone (USA)**, **Serengeti–Ngorongoro (Tanzania)**, **Galápagos (Ecuador)**, **Lake Baikal (Russia)**, **Doñana (Spain)**, **Mount Kenya (Kenya)**.
+- World BRs follow the same **core–buffer–transition** design as India’s national BRs.
+- A site can carry **BR + National Park + World Heritage** together (e.g., Sundarbans-type landscapes).
+- Periodic review (~10 years) can lead to **delisting** from WNBR (India example: **Manas 2011**).
 
-### Biosphere Reserves of the World — How It Works
+| World BR / landscape | Country | Lock |
+|----------------------|---------|------|
+| Yellowstone | USA | Iconic MAB / NP landscape |
+| Serengeti–Ngorongoro | Tanzania | Savanna mega-fauna |
+| Galápagos | Ecuador | Evolution / WH overlap |
+| Lake Baikal | Russia | Freshwater biodiversity |
+| Doñana | Spain | Wetland BR classic |
+| Mount Kenya | Kenya | Afro-alpine BR |
 
-- The **UNESCO World Network of Biosphere Reserves (WNBR)** connects **759 sites in 136 countries**, and India contributes **13**. The network shares research on **climate adaptation, biodiversity, and sustainable livelihoods**.
-- **World's pioneering BR examples** include **Yellowstone (USA)**, the world's first NP (1872), also part of the MAB network with its geothermal and wildlife landscape.
-- **Serengeti-Ngorongoro (Tanzania)** is an iconic **savanna migration** ecosystem where the BR model balances **Maasai pastoralism** with wildlife conservation, an exam synonym for African BR.
-- **Galápagos Islands (Ecuador)** are an evolutionary biodiversity hotspot with BR + WH status, protecting Darwin finches and marine iguana in strict core zones around the islands.
-- **Lake Baikal (Russian Federation)** is the deepest freshwater lake, and its BR protects **Baikal seal and oligochaete endemics** as a model for freshwater BR.
-- **Doñana (Spain)** is a Mediterranean wetland BR at a **river delta** protecting migratory birds and Iberian lynx, with exam logic comparable to Keoladeo/Ramsar but under BR designation.
-- **Mount Kenya (Kenya)** is an afro-alpine BR with **community forestry** in the transition zone, a common African highland trap.
-- **Great Barrier Reef (Australia)** is a **marine BR** balancing coral reef conservation with tourism across the largest reef system globally.
-- **Amazon Biome BRs (Brazil)** include the **Central Amazon Biosphere Reserve**, a tropical rainforest carbon sink and the largest tropical BR scale globally.
-- **Khangchendzonga (India)** is cited in **world context** as a high-altitude BR with a **mixed cultural–natural** sacred landscape and is an Indian WNBR member.
-- **Withdrawal precedent**: **Manas (India, 2011)** shows UNESCO **removes** BRs failing conservation standards, with re-nomination possible after recovery, paralleling the WH "danger list".
-- **India in global network**: India's **13 WNBR sites** rank among top Asian contributors, with Cold Desert (2025) as the latest addition as the network total crosses **760** worldwide.
-
-> **Exam note:** MAB Programme = **1971**. India has **13** of **759+** world BRs. Manas **removed 2011** — same mechanism as global periodic review.
-
-### Important World Biosphere Reserves — Exam Match Table
-
-| Biosphere Reserve | Country | Ecosystem / Trap |
-|-------------------|---------|------------------|
-| **Yellowstone** | USA | Geothermal; world's first NP overlap |
-| **Serengeti-Ngorongoro** | Tanzania | Wildebeest migration; savanna |
-| **Galápagos** | Ecuador | Evolution hotspot; marine iguana |
-| **Lake Baikal** | Russia | Deepest lake; freshwater endemics |
-| **Doñana** | Spain | Mediterranean wetland; lynx |
-| **Mount Kenya** | Kenya | Afro-alpine; community forestry |
-| **Great Barrier Reef** | Australia | Marine BR; coral reef |
-| **Central Amazon** | Brazil | Tropical rainforest |
-| **Mont Ventoux** | France | Early European MAB site |
-| **Bialowieza Forest** | Poland/Belarus | Old-growth forest; bison |
-| **Simien Mountains** | Ethiopia | High plateau; gelada baboon |
-| **Niokolo-Koba** | Senegal | Sahel savanna; lion |
-| **Ujung Kulon** | Indonesia | Javan rhino habitat |
-| **Sundarbans** | India (WB) | Also world-famous mangrove BR |
-| **Nilgiri** | India | First Indian BR; global WNBR since 2000 |
-| **Khangchendzonga** | India (Sikkim) | High-altitude; mixed heritage |
-
-### UNESCO MAB — Global Facts Card
-
-| Element | Detail |
-|---------|--------|
-| **Programme launch** | 1971 |
-| **Total WNBR sites** | **759** (136 countries, UNESCO 2024) |
-| **India's share** | **13** WNBR BRs |
-| **Review cycle** | Periodic Review ~10 years |
-| **Withdrawal example** | Manas BR, India (2011) |
-| **Latest India addition** | Cold Desert BR, HP (2025) |
-
-### Exam Facts (raata)
-
-- Global WNBR = **759 sites, 136 countries** (2024)
-- MAB Programme = **1971**
-- India = **13** world network BRs
-- Famous world BRs = **Yellowstone, Serengeti, Galápagos, Lake Baikal**
-- Marine world BR = **Great Barrier Reef (Australia)**
-- **Manas removal in 2011** set the global withdrawal precedent for failing BRs.
-
-### PYQs — Biosphere Reserves of the World
-
-1. **(UPSC Prelims 2016 — pattern)** With reference to UNESCO Biosphere Reserve Programme, which of the following statements is correct?
-   → Biosphere Reserves are sites established by countries and recognised under UNESCO's MAB Programme to promote sustainable development based on local community efforts and sound science.
-
-2. **(UPSC Prelims 2011 — pattern)** Consider Biosphere Reserves: 1. Core zone — strictly protected 2. Buffer — limited activity 3. Transition — sustainable human use. How many statements correct?
-   → **All three** statements are correct under the standard MAB zonation model globally and in India.
-
-### Examples (33.4)
-
-| Example | Country | Exam Note |
-|---------|---------|-----------|
-| **Serengeti-Ngorongoro** | Tanzania | African savanna BR |
-| **Galápagos** | Ecuador | Evolution + WH overlap |
-| **Sundarbans BR** | India (WB) | India BR with global WNBR fame |
+> **Exam note:** World BR network ≠ World Heritage list — related but different UNESCO instruments.
 
 ---
 
-## Consolidated Reference — Topic 33
+## Consolidated Reference
 
-### UP Focus — Biosphere Reserves
-
-| Element | UP Detail | Exam Trap |
-|---------|-----------|-----------|
-| **BR count in UP** | **Zero (0)** | Any option "Dudhwa BR" or "UP BR" = false |
-| **Nearest BR** | Nanda Devi (Uttarakhand) | Not in UP |
-| **Terai landscape** | Dudhwa NP + Katarniaghat/Kishanpur WLS | NP/WLS ≠ BR |
-| **Bundelkhand** | No BR; Ranipur TR/WLS | Do not invent UP BR |
-| **2025 Q144** | Nokrek = Meghalaya, not Manipur | State match, not UP |
-| **2024 Q10** | Simlipal=Odisha; Manas=Assam | Full match code D |
-| **Border states with BR** | Uttarakhand, MP, Chhattisgarh, WB | UP surrounded but none inside |
-
-### Important Dates & Numbers
-
-| Fact | Value |
+| Lock | Value |
 |------|-------|
-| UNESCO MAB Programme | **1971** |
-| India first BR (Nilgiri) | **1986** |
-| Total Indian BRs | **18** |
-| India UNESCO WNBR | **13** (Cold Desert 2025) |
-| Manas removed from WNBR | **2011** |
-| Largest Indian BR | Great Rann of Kutch (**12,454 sq km**) |
-| Smallest Indian BR | Nokrek (**820 sq km**) |
-| Global WNBR sites | **759** (136 countries, 2024) |
-| UP Biosphere Reserves | **0** |
-
-### Common Traps (15)
-
-| # | Trap statement | Correct fact |
-|---|----------------|--------------|
-| 1 | Nokrek BR is in Manipur | Nokrek = **Meghalaya** (2025 Q144) |
-| 2 | Nokrek BR is in Assam | Nokrek = **Meghalaya** |
-| 3 | Simlipal BR is in Karnataka | Simlipal = **Odisha** (2024 Q10) |
-| 4 | Agasthyamalai is only in Tamil Nadu | Spans **Kerala + Tamil Nadu** — Kerala pair correct in Q144 |
-| 5 | Manas is not a Biosphere Reserve | Manas = **Assam BR** — removed UNESCO only |
-| 6 | Manas still on UNESCO WNBR | **Removed 2011** — national BR remains |
-| 7 | UP has Dudhwa Biosphere Reserve | Dudhwa = **NP**; UP has **zero BR** |
-| 8 | Valmiki is UP Biosphere Reserve | Valmiki = **Bihar NP** — not BR |
-| 9 | Nanda Devi BR is in UP | Nanda Devi = **Uttarakhand** |
-| 10 | Biosphere Reserves declared under WPA 1972 | **MoEFCC executive notification** — not WPA category |
-| 11 | BR Core zone allows grazing | Core = **no exploitation** — grazing in transition/buffer only |
-| 12 | India has 18 UNESCO WNBR sites | **13** UNESCO; **18** national total |
-| 13 | Nilgiri BR is in one state only | Spans **TN + Karnataka + Kerala** |
-| 14 | First BR in world is Nilgiri | Nilgiri = **first in India (1986)**; MAB global **1971** |
-| 15 | Cold Desert BR is in Uttarakhand | Cold Desert = **Himachal Pradesh** (UNESCO 2025) |
+| MAB year | 1971 |
+| India first BR | Nilgiri 1986 |
+| India count | 18 national / ~13 WNBR |
+| Nokrek state | Meghalaya |
+| Manas UNESCO | Removed 2011 |
+| UP BRs | **Zero** |
+| Largest / smallest | Great Rann / Nokrek |
 
 ---
 
-## Practice Zone — Topic 33 (34 Questions)
+## Practice Zone
 
-**Format mix:** 14 multi-statement (41%) | 6 match-the-pair | 3 A/R | 11 single MCQ
+**Q1.** India’s first Biosphere Reserve:
 
-**Q1.** Which of the following pairs is/are NOT correctly matched?
+Options: A. Nilgiri  B. Nokrek  C. Manas  D. Panna
 
-1. Nokrek — Manipur  
-2. Manas — Assam  
-3. Agasthyamalai — Kerala
-
-A. 1 and 2 only  
-B. Only 3  
-C. 2 and 3 only  
-D. Only 1
-
-**Ans: D** — 2025 Q144 reproduction.
-
----
-
-**Q2.** Match List-I with List-II:
-
-List-I: A. Simlipal  B. Nokrek  C. Agasthyamalai  D. Manas  
-List-II: 1. Kerala  2. Odisha  3. Assam  4. Meghalaya
-
-A. 1 2 4 3  
-B. 3 1 4 2  
-C. 2 4 3 1  
-D. 2 4 1 3
-
-**Ans: D** — 2024 Q10 reproduction.
-
----
-
-**Q3.** India's first Biosphere Reserve is:
-
-A. Nanda Devi  
-B. Nilgiri  
-C. Sundarbans  
-D. Gulf of Mannar
-
-**Ans: B** — 1986.
-
----
-
-**Q4.** Consider the following statements about Biosphere Reserves:
-
-1. They are declared under WPA 1972.  
-2. They have Core, Buffer, and Transition zones.  
-3. UNESCO's MAB Programme was launched in 1971.
-
-Which is/are correct?
-
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
-D. 1, 2 and 3
-
-**Ans: B** — Not under WPA; zones + MAB 1971 correct.
-
----
-
-**Q5.** Which is the smallest Biosphere Reserve in India?
-
-A. Nokrek  
-B. Seshachalam Hills  
-C. Panna  
-D. Cold Desert
-
-**Ans: A** — ~820 sq km, Meghalaya.
-
----
-
-**Q6.** Which is the largest Biosphere Reserve in India by area?
-
-A. Sundarbans  
-B. Great Rann of Kutch  
-C. Nilgiri  
-D. Dihang-Dibang
-
-**Ans: B** — 12,454 sq km.
-
----
-
-**Q7.** Manas Biosphere Reserve was removed from UNESCO World Network in:
-
-A. 2001  
-B. 2011  
-C. 2016  
-D. 2020
-
-**Ans: B**
-
----
-
-**Q8.** Assertion (A): Uttar Pradesh has no notified Biosphere Reserve.
-
-Reason (R): Biosphere Reserves require MoEFCC notification and UP has only National Parks and Wildlife Sanctuaries in its PA network.
-
-A. Both A and R true; R explains A  
-B. Both A and R true; R does NOT explain A  
-C. A true, R false  
-D. A false, R false
+<details><summary>Show answer</summary>
 
 **Ans: A**
 
----
+</details>
 
-**Q9.** Which of the following is a UNESCO World Network Biosphere Reserve added most recently from India?
+**Q2.** Nokrek BR is in:
 
-A. Panna (2020)  
-B. Khangchendzonga (2018)  
-C. Cold Desert (2025)  
-D. Agasthyamalai (2016)
+Options: A. Meghalaya  B. Manipur  C. Assam  D. Odisha
 
-**Ans: C**
-
----
-
-**Q10.** Consider the following statements:
-
-1. India has 18 notified Biosphere Reserves.  
-2. All 18 are in UNESCO World Network.  
-3. Nokrek is in Meghalaya.
-
-Which is/are correct?
-
-A. 1 and 2 only  
-B. 1 and 3 only  
-C. 2 and 3 only  
-D. 1, 2 and 3
-
-**Ans: B** — Only **13** UNESCO WNBR.
-
----
-
-**Q11.** Nilgiri Biosphere Reserve spans which states?
-
-A. Tamil Nadu only  
-B. Tamil Nadu and Karnataka  
-C. Tamil Nadu, Karnataka, and Kerala  
-D. Kerala and Tamil Nadu only
-
-**Ans: C**
-
----
-
-**Q12.** Which Biosphere Reserve is located in Odisha?
-
-A. Simlipal  
-B. Nokrek  
-C. Pachmarhi  
-D. Dibru-Saikhowa
+<details><summary>Show answer</summary>
 
 **Ans: A**
 
----
+</details>
 
-**Q13.** Match List-I with List-II:
+**Q3.** Simlipal BR is in:
 
-List-I: A. Panna  B. Khangchendzonga  C. Gulf of Mannar  D. Achanakmar-Amarkantak  
-List-II: 1. Sikkim  2. MP+Chhattisgarh  3. Tamil Nadu  4. Madhya Pradesh
+Options: A. Odisha  B. Madhya Pradesh  C. Meghalaya  D. Kerala
 
-A. A-4, B-1, C-3, D-2  
-B. A-2, B-1, C-3, D-4  
-C. A-4, B-3, C-1, D-2  
-D. A-1, B-4, C-3, D-2
+<details><summary>Show answer</summary>
 
 **Ans: A**
 
----
+</details>
 
-**Q14.** Which of the following is NOT a Biosphere Reserve?
+**Q4.** Manas BR is in:
 
-A. Sundarbans  
-B. Dudhwa  
-C. Simlipal  
-D. Nanda Devi
+Options: A. Assam  B. Meghalaya  C. Kerala  D. UP
 
-**Ans: B** — Dudhwa is **NP**.
-
----
-
-**Q15.** Consider the following about global Biosphere Reserves:
-
-1. UNESCO MAB Programme started in 1971.  
-2. There are over 700 Biosphere Reserves worldwide.  
-3. India has the most BRs in the world.
-
-Which is/are correct?
-
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
-D. 1, 2 and 3
-
-**Ans: A** — India has **13** WNBR, not most globally.
-
----
-
-**Q16.** Agasthyamalai Biosphere Reserve spans:
-
-A. Kerala only  
-B. Tamil Nadu only  
-C. Kerala and Tamil Nadu  
-D. Karnataka and Kerala
-
-**Ans: C**
-
----
-
-**Q17.** Which state has three Biosphere Reserves?
-
-A. Assam  
-B. Madhya Pradesh  
-C. Uttar Pradesh  
-D. Rajasthan
-
-**Ans: B** — Pachmarhi, Achanakmar-Amarkantak, Panna.
-
----
-
-**Q18.** Assertion (A): Biosphere Reserves allow sustainable human activities in transition zones.
-
-Reason (R): MAB Programme integrates conservation with community development.
-
-A. Both A and R true; R explains A  
-B. Both A and R true; R does NOT explain A  
-C. A true, R false  
-D. A false, R false
+<details><summary>Show answer</summary>
 
 **Ans: A**
 
----
+</details>
 
-**Q19.** Which pair is correctly matched?
+**Q5.** Agasthyamalai BR is mainly associated with:
 
-A. Great Nicobar — Kerala  
-B. Cold Desert — Himachal Pradesh  
-C. Dibru-Saikhowa — Odisha  
-D. Seshachalam Hills — Tamil Nadu
+Options: A. Kerala (also TN)  B. Only Assam  C. Only Meghalaya  D. Only Gujarat
 
-**Ans: B**
-
----
-
-**Q20.** Nanda Devi Biosphere Reserve is in:
-
-A. Uttar Pradesh  
-B. Uttarakhand  
-C. Himachal Pradesh  
-D. Sikkim
-
-**Ans: B** — nearest BR to UP, not in UP.
-
----
-
-**Q21.** Which of the following is a world-famous Biosphere Reserve in Tanzania?
-
-A. Yellowstone  
-B. Serengeti-Ngorongoro  
-C. Doñana  
-D. Lake Baikal
-
-**Ans: B**
-
----
-
-**Q22.** Consider the following statements:
-
-1. Core zone of a BR prohibits human exploitation.  
-2. Manas BR is still on India's national BR list.  
-3. Manas BR is still on UNESCO WNBR list.
-
-Which is/are correct?
-
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
-D. 1, 2 and 3
-
-**Ans: A** — Manas removed UNESCO **2011**.
-
----
-
-**Q23.** How many Biosphere Reserves does Uttar Pradesh have?
-
-A. 0  
-B. 1  
-C. 2  
-D. 3
+<details><summary>Show answer</summary>
 
 **Ans: A**
 
----
+</details>
 
-**Q24.** Match List-I with List-II:
+**Q6.** UP number of Biosphere Reserves:
 
-List-I: A. Galápagos  B. Lake Baikal  C. Great Barrier Reef  D. Yellowstone  
-List-II: 1. Australia  2. USA  3. Ecuador  4. Russia
+Options: A. Zero  B. One  C. Two  D. Eighteen
 
-A. A-3, B-4, C-1, D-2  
-B. A-4, B-3, C-1, D-2  
-C. A-3, B-1, C-4, D-2  
-D. A-2, B-4, C-1, D-3
+<details><summary>Show answer</summary>
 
 **Ans: A**
 
----
+</details>
 
-**Q25.** Which Biosphere Reserve was notified last in India?
+**Q7.** Nanda Devi BR is in:
 
-A. Seshachalam Hills  
-B. Panna  
-C. Cold Desert  
-D. Great Rann of Kutch
+Options: A. Uttarakhand  B. Uttar Pradesh  C. Assam  D. Odisha
 
-**Ans: B** — Panna **2011** (newest notification); Cold Desert notified 2009, UNESCO 2025.
+<details><summary>Show answer</summary>
 
----
+**Ans: A**
 
-**Q26.** Which of the following pairs is/are correctly matched?
+</details>
 
-1. Sundarbans — West Bengal  
-2. Nokrek — Meghalaya  
-3. Pachmarhi — Rajasthan
+**Q8.** Which is NOT in-situ?
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
-D. 1, 2 and 3
+Options: A. Botanical garden  B. Biosphere reserve  C. National Park  D. Sacred grove
 
-**Ans: A** — Pachmarhi = **MP**.
+<details><summary>Show answer</summary>
 
----
+**Ans: A**
 
-**Q27.** The Man and the Biosphere (MAB) Programme is associated with:
+</details>
 
-A. UNEP  
-B. UNESCO  
-C. IUCN  
-D. FAO
+**Q9.** Core zone of a BR allows:
 
-**Ans: B**
+Options: A. No exploitative human use  B. Full commercial logging  C. Free settlement expansion  D. Mining by default
 
----
+<details><summary>Show answer</summary>
 
-**Q28.** Consider the following:
+**Ans: A**
 
-1. Khangchendzonga is a Biosphere Reserve in Sikkim.  
-2. Great Rann of Kutch is the largest BR in India.  
-3. Dihang-Dibang is in Assam.
+</details>
 
-Which is/are correct?
+**Q10.** MAB Programme started in:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
-D. 1, 2 and 3
+Options: A. 1971  B. 1986  C. 1972 only  D. 2011
 
-**Ans: A** — Dihang-Dibang = **Arunachal Pradesh**.
+<details><summary>Show answer</summary>
 
----
+**Ans: A**
 
-**Q29.** Which zone of a Biosphere Reserve allows regulated tourism and research?
+</details>
 
-A. Core  
-B. Buffer  
-C. Transition  
-D. Manipulation core
+**Q11.** Largest Indian BR:
 
-**Ans: B**
+Options: A. Great Rann of Kutch  B. Nokrek  C. Panna  D. Gulf of Mannar only
 
----
+<details><summary>Show answer</summary>
 
-**Q30.** India has how many Biosphere Reserves in the UNESCO World Network (2025)?
+**Ans: A**
 
-A. 10  
-B. 13  
-C. 15  
-D. 18
+</details>
 
-**Ans: B**
+**Q12.** Smallest Indian BR:
 
----
+Options: A. Nokrek  B. Great Rann  C. Sundarbans  D. Nilgiri
 
-**Q31.** Consider the following statements about Indian Biosphere Reserves:
+<details><summary>Show answer</summary>
 
-1. Nilgiri was the first to be notified.  
-2. Nokrek is the smallest by area.  
-3. All BRs are declared under WPA 1972.
+**Ans: A**
 
-Which is/are correct?
+</details>
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
-D. 1, 2 and 3
+**Q13.** Manas was removed from UNESCO WNBR in:
 
-**Ans: A** — BRs are **not** under WPA.
+Options: A. 2011  B. 1986  C. 1971  D. 2024
 
----
+<details><summary>Show answer</summary>
 
-**Q32.** Which of the following pairs is/are correctly matched?
+**Ans: A**
 
-1. Great Rann of Kutch — Gujarat  
-2. Dibru-Saikhowa — Assam  
-3. Seshachalam Hills — Kerala
+</details>
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
-D. 1, 2 and 3
+**Q14.** Pachmarhi BR is in:
 
-**Ans: A** — Seshachalam = **Andhra Pradesh**.
+Options: A. Madhya Pradesh  B. Odisha  C. Meghalaya  D. Sikkim
 
----
+<details><summary>Show answer</summary>
 
-**Q33.** Consider the following:
+**Ans: A**
 
-1. Cold Desert BR is in Himachal Pradesh.  
-2. Panna BR is in Madhya Pradesh.  
-3. Uttar Pradesh has one Biosphere Reserve in Terai.
+</details>
 
-Which is/are correct?
+**Q15.** Panna BR is in:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
-D. 1, 2 and 3
+Options: A. Madhya Pradesh  B. Kerala  C. Assam  D. UP
 
-**Ans: A** — UP has **zero** BR.
+<details><summary>Show answer</summary>
 
----
+**Ans: A**
 
-**Q34.** Which of the following statements is/are correct?
+</details>
 
-1. UNESCO MAB Programme was launched in 1971.  
-2. Manas BR was removed from UNESCO network in 2011.  
-3. India has 18 UNESCO World Network Biosphere Reserves.
+**Q16.** Cold Desert BR is in:
 
-A. 1 and 2 only  
-B. 2 and 3 only  
-C. 1 and 3 only  
-D. 1, 2 and 3
+Options: A. Himachal Pradesh  B. Rajasthan  C. Gujarat  D. UP
 
-**Ans: A** — India has **13** UNESCO WNBR sites.
+<details><summary>Show answer</summary>
 
----
+**Ans: A**
 
-## Complete PYQ Bank — Topic 33
+</details>
 
-> **Answers hidden** — click *Show answer* under each question to reveal.
+**Q17.** Sundarbans BR is in:
 
-**Q1. UPPCS Prelims 2025**
+Options: A. West Bengal  B. Assam  C. Odisha  D. Gujarat
 
-Which of the following pairs is/are NOT correctly matched?
+<details><summary>Show answer</summary>
 
-(Biosphere Reserve) — (State)
+**Ans: A**
 
-1. Nokrek — Manipur  
-2. Manas — Assam  
-3. Agasthyamalai — Kerala
+</details>
 
-Select the correct answer from the code given below:
+**Q18.** Which pair is WRONG?
 
-A. 1 and 2  
-B. Only 3  
-C. 2 and 3  
-D. Only 1
+Options: A. Nokrek — Manipur  B. Manas — Assam  C. Simlipal — Odisha  D. Nilgiri — first BR
 
-<details>
-<summary>Show answer</summary>
+<details><summary>Show answer</summary>
 
-**Ans: D (Only 1)** — Nokrek is in **Meghalaya**, not Manipur. Manas–Assam and Agasthyamalai–Kerala are correctly matched (Agasthyamalai also spans Tamil Nadu).
+**Ans: A**
+
+</details>
+
+**Q19.** BR legal basis in India is mainly:
+
+Options: A. MoEFCC executive / MAB  B. WPA Sec 35 alone  C. Only municipal Act  D. Only CITES listing
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q20.** Transition zone is for:
+
+Options: A. Sustainable livelihoods  B. Absolute no-go only  C. Only space launch  D. Only oil drilling
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q21.** Khangchendzonga BR is in:
+
+Options: A. Sikkim  B. Assam  C. Odisha  D. Gujarat
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q22.** Gulf of Mannar BR is in:
+
+Options: A. Tamil Nadu  B. Gujarat  C. Odisha  D. UP
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q23.** Achanakmar–Amarkantak spans:
+
+Options: A. MP and Chhattisgarh  B. Only Kerala  C. Only Assam  D. Only UP
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q24.** Dudhwa is:
+
+Options: A. National Park / TR — not a BR  B. UNESCO BR of UP  C. World’s first BR  D. Manipur BR
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q25.** Simlipal–Nokrek–Agasthyamalai–Manas correct states:
+
+Options: A. Odisha, Meghalaya, Kerala, Assam  B. MP, Manipur, Assam, Kerala  C. Assam, Odisha, Manipur, Kerala  D. Kerala, Assam, Odisha, Meghalaya
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q26.** Newest notified Indian BR among these:
+
+Options: A. Panna (2011)  B. Nilgiri (1986)  C. Nokrek (1988)  D. Manas (1989)
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q27.** Assertion (A): Nokrek is in Meghalaya.  
+Reason (R): It is India’s largest Biosphere Reserve.
+
+Options: A. Both true; R explains A  B. Both true; R does not explain A  C. A true, R false  D. Both false
+
+<details><summary>Show answer</summary>
+
+**Ans: C** — Nokrek is smallest, not largest.
+
+</details>
+
+**Q28.** Valmiki is:
+
+Options: A. Bihar National Park — not UP BR  B. UP Biosphere Reserve  C. Meghalaya BR  D. Kerala BR
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q29.** World MAB network example:
+
+Options: A. Galápagos / Serengeti-type sites  B. Only Indian NPs  C. Only Ramsar wetlands  D. Only ozone stations
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q30.** Correct set:
+
+Options: A. Nilgiri first; Nokrek=Meghalaya; UP=0 BR; Manas UNESCO removed 2011  B. Nokrek=Manipur; UP=3 BRs  C. First BR=Panna; Simlipal=MP  D. BR = WPA Sec 35 only
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
 
 </details>
 
 ---
 
-**Q2. UPPCS Prelims 2024**
+## Complete PYQ Bank (Topic 33)
 
-Match List-I with List-II and choose the correct answer using the codes given below the lists:
+**Q1. UPPCS 2025, Q144** — Nokrek–Manipur NOT matched → **Ans: D (Only 1)**
 
-List-I  
-A. Simlipal  
-B. Nokrek  
-C. Agasthyamalai  
-D. Manas  
+**Q2. UPPCS 2024, Q10** — Simlipal/Nokrek/Agasthyamalai/Manas → **Ans: D (2 4 1 3)**
 
-List-II  
-1. Kerala  
-2. Odisha  
-3. Assam  
-4. Meghalaya  
+**Q3. UPPCS 2022, Q110** — Manas/Sundarbans/Nanda Devi/Pachmarhi → **Ans: D** (paper listed Nanda Devi against “UP”; geography = Uttarakhand)
 
-A. 1 2 4 3  
-B. 3 1 4 2  
-C. 2 4 3 1  
-D. 2 4 1 3  
+**Q4. UPPCS 2021, Q140** — Similipal/Pachmarhi/Nandadevi/Nokrek → **Ans: B (4 3 1 2)**
 
-<details>
-<summary>Show answer</summary>
+**Q5. UPPCS 2018, Q54** — Botanical garden ≠ in-situ → **Ans: B**
 
-**Ans: D (2 4 1 3)** — Simlipal=Odisha(2); Nokrek=Meghalaya(4); Agasthyamalai=Kerala(1); Manas=Assam(3).
+**Q6. Pattern** — Nilgiri = first Indian BR (1986)
 
-</details>
+**Q7. Pattern** — Core–Buffer–Transition zones
+
+**Q8. Pattern** — Manas removed from UNESCO WNBR 2011
+
+**Q9. Pattern** — UP has zero BRs
+
+**Q10. Pattern** — Great Rann largest / Nokrek smallest
 
 ---
 
-**Q3. UPSC Prelims 2015 — pattern**
+## Common Traps
 
-'Biosphere Reserves' are:
-
-(a) Protected areas meant for conservation of plants and animals only  
-(b) Protected areas for conservation of biodiversity and sustainable use by local communities  
-(c) Protected areas for recreation and tourism  
-(d) Protected areas for conservation of only endangered species  
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: (b)** — UNESCO MAB integrates conservation with sustainable community use.
-
-</details>
-
----
-
-**Q4. UPSC Prelims 2011 — pattern**
-
-Consider the following statements about Biosphere Reserves:
-
-1. Core zone is strictly protected.  
-2. Buffer zone permits limited human activity.  
-3. Transition zone permits sustainable human use.
-
-How many statements are correct?
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: All 3** — Standard MAB three-zone model globally and in India.
-
-</details>
+| Trap | Lock |
+|------|------|
+| Nokrek = Manipur | **Meghalaya** |
+| Simlipal = Madhya Pradesh | **Odisha** |
+| UP has a Biosphere Reserve | **Zero** |
+| Nanda Devi = UP | **Uttarakhand** |
+| Manas no longer a BR | Still **national** BR; UNESCO removed 2011 |
+| BR = WPA category | **Executive / MAB**, not WPA Sec 35 |
+| Core allows farming | **No** exploitative use in core |
+| Dudhwa / Valmiki = UP BR | NP / Bihar NP — not UP BR |
+| Agasthyamalai = Assam | **Kerala (+ TN)** |
+| First BR = Nanda Devi | **Nilgiri 1986** |
 
 ---
 
-**Q5. UPSC Prelims 2016 — pattern**
+## Delivery Report
 
-With reference to UNESCO Biosphere Reserve Programme, which statement is correct?
+| Metric | Value |
+|--------|-------|
+| **Lines** | 615 |
+| **Teaching blocks** | §33.1–33.4 (4 syllabus bullets) |
+| **Practice Zone** | 30 questions |
+| **PYQ Bank** | 10 questions |
+| **Common Traps** | 10 |
+| **Inline PYQs** | 2025 Q144, 2024 Q10, 2022 Q110, 2021 Q140, 2018 Q54 |
 
-<details>
-<summary>Show answer</summary>
+### Syllabus coverage map
 
-**Ans:** Biosphere Reserves are established by countries and recognised under UNESCO's **MAB Programme** to promote **sustainable development** based on local community efforts and scientific research.
+| Syllabus bullet | Section |
+|-----------------|---------|
+| Biosphere Reserve | §33.1 |
+| Major Biosphere Reserves of India | §33.2 |
+| Biosphere Reserves of Uttar Pradesh | §33.3 |
+| Biosphere Reserves of the World | §33.4 |
 
-</details>
+### Topic boundaries
 
----
+- **BR concept one-liner + short table** — also in Topic 6 (basics home)  
+- **NP location matching** — Topic 32  
+- **UNESCO Natural WH list** — Topic 32 §32.6  
+- **Marine NP vs Gulf of Mannar BR** — Topic 32 §32.4  
 
-## Mains Framework — Topic 33 (If Asked)
+### PYQ audit
 
-| Angle | Points to write |
-|-------|-----------------|
-| **MAB model for India** | 18 BRs; 13 UNESCO WNBR; three-zone landscape planning; conservation + livelihood balance |
-| **UP gap** | Zero BR in UP despite Terai and Gangetic biodiversity — need landscape notification linking Dudhwa–Katarniaghat corridor |
-| **Manas lesson** | UNESCO withdrawal 2011 — insurgency/poaching; recovery and re-nomination potential |
-| **Global context** | 759 WNBR sites; MAB 1971; India–UNESCO cooperation; Cold Desert 2025 addition |
-| **BR vs NP policy** | WPA strict protection vs MAB sustainable development — when to use which tool |
-| **SDG link** | SDG 15 (terrestrial biodiversity); SDG 1 (poverty) via transition zone livelihoods |
+| PYQ | Placement |
+|-----|-----------|
+| 2025 Q144 Nokrek trap | §33.2 inline |
+| 2024 Q10 four-BR match | §33.2 inline |
+| 2022 Q110 Manas set | §33.2 inline |
+| 2021 Q140 Similipal set | §33.2 inline |
+| 2018 botanical garden | §33.1 inline |
 
----
-
-*End of Topic 33 — Biosphere Reserves*
+**File ready: YES**

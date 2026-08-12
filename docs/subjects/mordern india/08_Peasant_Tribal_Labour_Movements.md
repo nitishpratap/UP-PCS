@@ -146,7 +146,13 @@ Consider the following revolts and arrange them in correct chronological order.
 
 Select the correct answer from the code given below:
 
-Options: A. 4, 3, 2, 1  B. 3, 4, 1, 2  C. 3, 4, 2, 1  D. 4, 2, 3, 1
+A. 4, 3, 2, 1
+
+B. 3, 4, 1, 2
+
+C. 3, 4, 2, 1
+
+D. 4, 2, 3, 1
 
 <details>
 <summary>Show answer</summary>
@@ -255,7 +261,13 @@ Options: A. 4, 3, 2, 1  B. 3, 4, 1, 2  C. 3, 4, 2, 1  D. 4, 2, 3, 1
 
 In 1918, the **United Provinces Kisan Sabha** was formed by which of the following leaders?
 
-Options: A. Baba Ramchandra  B. Indra Narayan Dwivedi  C. Swami Sahajanand Saraswati  D. Pt. Jawaharlal Nehru
+A. Baba Ramchandra
+
+B. Indra Narayan Dwivedi
+
+C. Swami Sahajanand Saraswati
+
+D. Pt. Jawaharlal Nehru
 
 <details>
 <summary>Show answer</summary>
@@ -333,7 +345,13 @@ B. Eka  2. 1873-85
 C. Santhal  3. 1922  
 D. Tana Bhagat  4. 1914
 
-Options: A. 1 2 4 3  B. 2 3 1 4  C. 3 1 4 2  D. 4 3 2 1
+A. 1 2 4 3
+
+B. 2 3 1 4
+
+C. 3 1 4 2
+
+D. 4 3 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -508,7 +526,13 @@ B. Bareilly Revolt  2. Radharam
 C. Malabar Revolt  3. Mufti Muhammad Aiwaz  
 D. Sylhet Revolt  4. Jagabandhu Bidyadhar Mahapatra
 
-Options: A. 4 3 1 2  B. 3 4 1 2  C. 3 2 1 4  D. 2 1 3 4
+A. 4 3 1 2
+
+B. 3 4 1 2
+
+C. 3 2 1 4
+
+D. 2 1 3 4
 
 <details>
 <summary>Show answer</summary>
@@ -523,7 +547,13 @@ Which of the following pairs is NOT correctly matched?
 
 Rebellion  Year
 
-Options: A. Santhal 1855  B. Kol 1831  C. Khasi 1829  D. Ahom 1815
+A. Santhal 1855
+
+B. Kol 1831
+
+C. Khasi 1829
+
+D. Ahom 1815
 
 <details>
 <summary>Show answer</summary>
@@ -556,7 +586,13 @@ Options: A. Santhal 1855  B. Kol 1831  C. Khasi 1829  D. Ahom 1815
 
 Which of the following events was the **last** in chronological order?
 
-Options: A. Home Rule Movement  B. Khilafat Movement  C. Jallianwala Bagh Massacre  D. Moplah Revolt
+A. Home Rule Movement
+
+B. Khilafat Movement
+
+C. Jallianwala Bagh Massacre
+
+D. Moplah Revolt
 
 <details>
 <summary>Show answer</summary>
@@ -639,7 +675,13 @@ Options: A. Home Rule Movement  B. Khilafat Movement  C. Jallianwala Bagh Massac
 
 Who of the following was sent as representative of labourers by Indian Government in the Washington Summit of I.L.O. in the year 1919?
 
-Options: A. V.P. Wadia  B. N.M. Joshi  C. C.F. Andrews  D. Joseph Baptista
+A. V.P. Wadia
+
+B. N.M. Joshi
+
+C. C.F. Andrews
+
+D. Joseph Baptista
 
 <details>
 <summary>Show answer</summary>
@@ -657,7 +699,13 @@ Consider the following statements with reference to the Workers and Peasants Par
 
 Which of the above statements is/are correct?
 
-Options: A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
+A. Both 1 and 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
@@ -727,7 +775,13 @@ Local `pyq/2022` option strings do not list `4 1 3 2` (OCR/set mismatch). Learn 
 3. Kuka Revolt  
 4. Sanyasi Revolt
 
-Options: A. 4, 3, 2, 1  B. 3, 4, 1, 2  C. 3, 4, 2, 1  D. 4, 2, 3, 1
+A. 4, 3, 2, 1
+
+B. 3, 4, 1, 2
+
+C. 3, 4, 2, 1
+
+D. 4, 2, 3, 1
 
 <details>
 <summary>Show answer</summary>
@@ -740,7 +794,13 @@ Options: A. 4, 3, 2, 1  B. 3, 4, 1, 2  C. 3, 4, 2, 1  D. 4, 2, 3, 1
 
 **Q2.** Which of the following pairs is NOT correctly matched?
 
-Options: A. Santhal — 1855  B. Kol — 1831  C. Khasi — 1829  D. Ahom — 1815
+A. Santhal — 1855
+
+B. Kol — 1831
+
+C. Khasi — 1829
+
+D. Ahom — 1815
 
 <details>
 <summary>Show answer</summary>
@@ -756,7 +816,13 @@ Options: A. Santhal — 1855  B. Kol — 1831  C. Khasi — 1829  D. Ahom — 18
 **List-I** A. Pabna  B. Eka  C. Santhal  D. Tana Bhagat  
 **List-II** 1. 1855–56  2. 1873–85  3. 1922  4. 1914
 
-Options: A. 1 2 4 3  B. 2 3 1 4  C. 3 1 4 2  D. 4 3 2 1
+A. 1 2 4 3
+
+B. 2 3 1 4
+
+C. 3 1 4 2
+
+D. 4 3 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -772,7 +838,13 @@ Options: A. 1 2 4 3  B. 2 3 1 4  C. 3 1 4 2  D. 4 3 2 1
 **List-I (Revolt)** A. Paika  B. Bareilly  C. Malabar  D. Sylhet  
 **List-II (Leader)** 1. Edachena Kungan  2. Radharam  3. Mufti Muhammad Aiwaz  4. Jagabandhu Bidyadhar Mahapatra
 
-Options: A. 4 3 1 2  B. 3 4 1 2  C. 3 2 1 4  D. 2 1 3 4
+A. 4 3 1 2
+
+B. 3 4 1 2
+
+C. 3 2 1 4
+
+D. 2 1 3 4
 
 <details>
 <summary>Show answer</summary>
@@ -785,7 +857,13 @@ Options: A. 4 3 1 2  B. 3 4 1 2  C. 3 2 1 4  D. 2 1 3 4
 
 **Q5.** In 1918, the United Provinces Kisan Sabha was formed by
 
-Options: A. Baba Ramchandra  B. Indra Narayan Dwivedi  C. Swami Sahajanand Saraswati  D. Pt. Jawaharlal Nehru
+A. Baba Ramchandra
+
+B. Indra Narayan Dwivedi
+
+C. Swami Sahajanand Saraswati
+
+D. Pt. Jawaharlal Nehru
 
 <details>
 <summary>Show answer</summary>
@@ -798,7 +876,13 @@ Options: A. Baba Ramchandra  B. Indra Narayan Dwivedi  C. Swami Sahajanand Saras
 
 **Q6.** Which of the following events was the last in chronological order?
 
-Options: A. Home Rule Movement  B. Khilafat Movement  C. Jallianwala Bagh Massacre  D. Moplah Revolt
+A. Home Rule Movement
+
+B. Khilafat Movement
+
+C. Jallianwala Bagh Massacre
+
+D. Moplah Revolt
 
 <details>
 <summary>Show answer</summary>
@@ -811,7 +895,13 @@ Options: A. Home Rule Movement  B. Khilafat Movement  C. Jallianwala Bagh Massac
 
 **Q7.** Who was sent as representative of labourers by the Indian Government to the ILO Washington Summit in 1919?
 
-Options: A. V.P. Wadia  B. N.M. Joshi  C. C.F. Andrews  D. Joseph Baptista
+A. V.P. Wadia
+
+B. N.M. Joshi
+
+C. C.F. Andrews
+
+D. Joseph Baptista
 
 <details>
 <summary>Show answer</summary>
@@ -827,7 +917,13 @@ Options: A. V.P. Wadia  B. N.M. Joshi  C. C.F. Andrews  D. Joseph Baptista
 **List-I** A. BMS  B. INTUC  C. UTUC  D. AITUC  
 **List-II** 1. Indian National Congress  2. CPI  3. CPI(M)  4. BJP
 
-Options: A. 2 4 3 1  B. 3 2 1 4  C. 1 3 2 4  D. 4 1 3 2
+A. 2 4 3 1
+
+B. 3 2 1 4
+
+C. 1 3 2 4
+
+D. 4 1 3 2
 
 <details>
 <summary>Show answer</summary>
@@ -845,7 +941,13 @@ Options: A. 2 4 3 1  B. 3 2 1 4  C. 1 3 2 4  D. 4 1 3 2
 3. Indigo Revolt  
 4. Second Anglo-Afghan War
 
-Options: A. 1, 3, 4, 2  B. 3, 1, 2, 4  C. 3, 1, 4, 2  D. 1, 3, 2, 4
+A. 1, 3, 4, 2
+
+B. 3, 1, 2, 4
+
+C. 3, 1, 4, 2
+
+D. 1, 3, 2, 4
 
 <details>
 <summary>Show answer</summary>
@@ -861,7 +963,13 @@ Options: A. 1, 3, 4, 2  B. 3, 1, 2, 4  C. 3, 1, 4, 2  D. 1, 3, 2, 4
 1. It took place in Bengal in 1859–60 against European planters.  
 2. The Indigo Commission was appointed in 1860.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -877,7 +985,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. They broke out in 1875 mainly against moneylenders.  
 2. The Deccan Agriculturists’ Relief Act was passed in 1859.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -893,7 +1007,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. Sidhu and Kanhu led the Santhal Hul of 1855–56.  
 2. Birsa Munda led the Santhal Hul.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -909,7 +1029,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. The Kol Rebellion occurred in Chotanagpur around 1831–32.  
 2. The Munda Ulgulan occurred before the Kol Rebellion.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -925,7 +1051,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. It is associated with Birsa Munda around 1899–1900.  
 2. It defended the khuntkatti land system against *diku* intrusion.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -942,7 +1074,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Khasi revolt — Tirut Singh  
 3. Ahom rising — 1815
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -958,7 +1096,13 @@ Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
 1. It broke out in Malabar in 1921.  
 2. It was a no-tax satyagraha led by Vallabhbhai Patel.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -974,7 +1118,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. It was a 1928 no-tax campaign in Gujarat.  
 2. Vallabhbhai Patel organised it against a land-revenue enhancement.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -990,7 +1140,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. Sharecroppers in Bengal demanded two-thirds of the produce.  
 2. It took place in 1921–22 in Awadh.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1006,7 +1162,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. The Eka Movement was led by Madari Pasi in Awadh around 1921–22.  
 2. Tana Bhagat is correctly matched with 1914.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1041,7 +1203,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 1. It was given an all-India form around 1927.  
 2. Its objective included working within the Congress to radicalise it.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1057,7 +1225,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. AITUC was founded in 1920.  
 2. INTUC was founded in 1920 as the Congress labour wing.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1070,7 +1244,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q23.** Which of the following pairs is NOT correctly matched?
 
-Options: A. BMS — BJP  B. INTUC — Congress  C. AITUC — CPI  D. BMS — CPI(M)
+A. BMS — BJP
+
+B. INTUC — Congress
+
+C. AITUC — CPI
+
+D. BMS — CPI(M)
 
 <details>
 <summary>Show answer</summary>
@@ -1088,7 +1268,13 @@ Options: A. BMS — BJP  B. INTUC — Congress  C. AITUC — CPI  D. BMS — CPI
 3. Munda Ulgulan  
 4. Khasi revolt
 
-Options: A. 4, 1, 2, 3  B. 1, 4, 2, 3  C. 4, 2, 1, 3  D. 2, 4, 1, 3
+A. 4, 1, 2, 3
+
+B. 1, 4, 2, 3
+
+C. 4, 2, 1, 3
+
+D. 2, 4, 1, 3
 
 <details>
 <summary>Show answer</summary>
@@ -1104,7 +1290,13 @@ Options: A. 4, 1, 2, 3  B. 1, 4, 2, 3  C. 4, 2, 1, 3  D. 2, 4, 1, 3
 1. Pabna peasants organised agrarian leagues against zamindar rent-hikes.  
 2. Deccan rioters mainly attacked European indigo factories.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1120,7 +1312,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. Sidhu–Kanhu  B. Birsa Munda  C. Madari Pasi  D. Digambar Biswas  
 **List-II** 1. Eka  2. Santhal  3. Indigo  4. Ulgulan
 
-Options: A. 2 4 1 3  B. 4 2 3 1  C. 2 1 4 3  D. 3 4 1 2
+A. 2 4 1 3
+
+B. 4 2 3 1
+
+C. 2 1 4 3
+
+D. 3 4 1 2
 
 <details>
 <summary>Show answer</summary>
@@ -1136,7 +1334,13 @@ Options: A. 2 4 1 3  B. 4 2 3 1  C. 2 1 4 3  D. 3 4 1 2
 1. Indigo *dadon* advances trapped ryots into unfree crop contracts.  
 2. The Bonded Labour System (Abolition) Act was passed in 1920 with AITUC.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1172,7 +1376,13 @@ D. (A) is false, but (R) is true
 2. Bardoli — Birsa Munda  
 3. Tebhaga — Bengal sharecroppers
 
-Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
+A. Only 2
+
+B. Only 1 and 2
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1188,7 +1398,13 @@ Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
 1. Lala Lajpat Rai was associated with the early presidentship of AITUC.  
 2. V.P. Wadia is associated with the Madras Labour Union (1918).
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1206,7 +1422,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 3. Tebhaga Movement  
 4. UP Kisan Sabha
 
-Options: A. 4, 2, 1, 3  B. 2, 4, 1, 3  C. 4, 1, 2, 3  D. 4, 2, 3, 1
+A. 4, 2, 1, 3
+
+B. 2, 4, 1, 3
+
+C. 4, 1, 2, 3
+
+D. 4, 2, 3, 1
 
 <details>
 <summary>Show answer</summary>
@@ -1222,7 +1444,13 @@ Options: A. 4, 2, 1, 3  B. 2, 4, 1, 3  C. 4, 1, 2, 3  D. 4, 2, 3, 1
 1. He led the Rampa / Manyam rebellion in the early 1920s.  
 2. He led the Paika Rebellion of 1817.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1238,7 +1466,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. Tana Bhagat was an Oraon movement in Chotanagpur.  
 2. Pabna is correctly dated 1922.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1270,7 +1504,13 @@ D. (A) is false, but (R) is true
 
 **Q35.** Which of the following is NOT correctly matched?
 
-Options: A. Champaran — 1917  B. Kuka — ~1872  C. Deccan Riots — 1875  D. Tebhaga — 1928
+A. Champaran — 1917
+
+B. Kuka — ~1872
+
+C. Deccan Riots — 1875
+
+D. Tebhaga — 1928
 
 <details>
 <summary>Show answer</summary>
@@ -1286,7 +1526,13 @@ Options: A. Champaran — 1917  B. Kuka — ~1872  C. Deccan Riots — 1875  D. 
 1. The leader tag is Mufti Muhammad Aiwaz.  
 2. This is the same as Khan Bahadur Khan’s 1857 Bareilly centre.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1302,7 +1548,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. BMS was founded by Dattopant Thengadi in 1955.  
 2. CITU, not UTUC, is the classic CPI(M) trade-union centre.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1318,7 +1570,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. Paika  B. Khasi  C. Santhal  D. Moplah  
 **List-II** 1. 1921  2. 1817  3. 1829  4. 1855
 
-Options: A. 2 3 4 1  B. 3 2 1 4  C. 2 4 3 1  D. 4 3 2 1
+A. 2 3 4 1
+
+B. 3 2 1 4
+
+C. 2 4 3 1
+
+D. 4 3 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -1334,7 +1592,13 @@ Options: A. 2 3 4 1  B. 3 2 1 4  C. 2 4 3 1  D. 4 3 2 1
 1. Begar and bedakhli were major tenant grievances.  
 2. The Eka Movement demanded recorded rents and receipts.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1369,7 +1633,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 1. Swami Sahajanand Saraswati is associated with the later All India Kisan Sabha stream.  
 2. He formed the United Provinces Kisan Sabha in 1918.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1387,7 +1657,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 3. INTUC  
 4. BMS
 
-Options: A. 2, 1, 3, 4  B. 1, 2, 3, 4  C. 2, 1, 4, 3  D. 1, 2, 4, 3
+A. 2, 1, 3, 4
+
+B. 1, 2, 3, 4
+
+C. 2, 1, 4, 3
+
+D. 1, 2, 4, 3
 
 <details>
 <summary>Show answer</summary>
@@ -1404,7 +1680,13 @@ Options: A. 2, 1, 3, 4  B. 1, 2, 3, 4  C. 2, 1, 4, 3  D. 1, 2, 4, 3
 2. Malabar Revolt — Jagabandhu Bidyadhar  
 3. Paika Revolt — Edachena Kungan
 
-Options: A. Only 1  B. Only 2 and 3  C. Only 3  D. Only 1 and 2
+A. Only 1
+
+B. Only 2 and 3
+
+C. Only 3
+
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
@@ -1420,7 +1702,13 @@ Options: A. Only 1  B. Only 2 and 3  C. Only 3  D. Only 1 and 2
 1. It is observed on 15 November.  
 2. The date marks Birsa Munda’s birth anniversary.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1436,7 +1724,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. Kuka (Namdhari) action used in the 2025 chronology sits after Indigo and before Pabna.  
 2. Pabna Revolt began in the 1760s.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1462,7 +1756,13 @@ Consider the following revolts and arrange them in correct chronological order.
 
 Select the correct answer from the code given below:
 
-Options: A. 4, 3, 2, 1  B. 3, 4, 1, 2  C. 3, 4, 2, 1  D. 4, 2, 3, 1
+A. 4, 3, 2, 1
+
+B. 3, 4, 1, 2
+
+C. 3, 4, 2, 1
+
+D. 4, 2, 3, 1
 
 <details>
 <summary>Show answer</summary>
@@ -1482,7 +1782,13 @@ Consider the following events and arrange them in correct chronological order.
 
 Select the correct answer from the code given below:
 
-Options: A. 1, 3, 4, 2  B. 3, 1, 2, 4  C. 3, 1, 4, 2  D. 1, 3, 2, 4
+A. 1, 3, 4, 2
+
+B. 3, 1, 2, 4
+
+C. 3, 1, 4, 2
+
+D. 1, 3, 2, 4
 
 <details>
 <summary>Show answer</summary>
@@ -1502,7 +1808,13 @@ Consider the following statements with reference to the Workers and Peasants Par
 
 Which of the above statements is/are correct?
 
-Options: A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
+A. Both 1 and 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Only 2
 
 <details>
 <summary>Show answer</summary>
@@ -1527,7 +1839,13 @@ D. Sylhet Revolt
 3. Mufti Muhammad Aiwaz  
 4. Jagabandhu Bidyadhar Mahapatra
 
-Options: A. 4 3 1 2  B. 3 4 1 2  C. 3 2 1 4  D. 2 1 3 4
+A. 4 3 1 2
+
+B. 3 4 1 2
+
+C. 3 2 1 4
+
+D. 2 1 3 4
 
 <details>
 <summary>Show answer</summary>
@@ -1542,7 +1860,13 @@ Options: A. 4 3 1 2  B. 3 4 1 2  C. 3 2 1 4  D. 2 1 3 4
 
 In 1918, the **United Provinces Kisan Sabha** was formed by which of the following leaders?
 
-Options: A. Baba Ramchandra  B. Indra Narayan Dwivedi  C. Swami Sahajanand Saraswati  D. Pt. Jawaharlal Nehru
+A. Baba Ramchandra
+
+B. Indra Narayan Dwivedi
+
+C. Swami Sahajanand Saraswati
+
+D. Pt. Jawaharlal Nehru
 
 <details>
 <summary>Show answer</summary>
@@ -1555,7 +1879,13 @@ Options: A. Baba Ramchandra  B. Indra Narayan Dwivedi  C. Swami Sahajanand Saras
 
 Which of the following events was the **last** in chronological order?
 
-Options: A. Home Rule Movement  B. Khilafat Movement  C. Jallianwala Bagh Massacre  D. Moplah Revolt
+A. Home Rule Movement
+
+B. Khilafat Movement
+
+C. Jallianwala Bagh Massacre
+
+D. Moplah Revolt
 
 <details>
 <summary>Show answer</summary>
@@ -1598,7 +1928,13 @@ Local `pyq/2022` English options omit this code (same class of mismatch as 2022 
 
 Who of the following was sent as representative of labourers by Indian Government in the Washington Summit of I.L.O. in the year 1919?
 
-Options: A. V.P. Wadia  B. N.M. Joshi  C. C.F. Andrews  D. Joseph Baptista
+A. V.P. Wadia
+
+B. N.M. Joshi
+
+C. C.F. Andrews
+
+D. Joseph Baptista
 
 <details>
 <summary>Show answer</summary>
@@ -1619,7 +1955,13 @@ B. Eka  2. 1873-85
 C. Santhal  3. 1922  
 D. Tana Bhagat  4. 1914
 
-Options: A. 1 2 4 3  B. 2 3 1 4  C. 3 1 4 2  D. 4 3 2 1
+A. 1 2 4 3
+
+B. 2 3 1 4
+
+C. 3 1 4 2
+
+D. 4 3 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -1636,7 +1978,13 @@ Which of the following pairs is NOT correctly matched?
 
 Rebellion  Year
 
-Options: A. Santhal 1855  B. Kol 1831  C. Khasi 1829  D. Ahom 1815
+A. Santhal 1855
+
+B. Kol 1831
+
+C. Khasi 1829
+
+D. Ahom 1815
 
 <details>
 <summary>Show answer</summary>

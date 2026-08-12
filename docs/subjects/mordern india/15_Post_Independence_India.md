@@ -107,7 +107,13 @@ II. Constitution of India was enforced.
 III. Accession to India ratified by the Sovereign Constituent Assembly of Jammu and Kashmir.  
 IV. New Constitution of the State of Jammu and Kashmir came into force.
 
-Options: A. I, III, IV, II  B. III, IV, I, II  C. I, II, III, IV  D. IV, III, II, I
+A. I, III, IV, II
+
+B. III, IV, I, II
+
+C. I, II, III, IV
+
+D. IV, III, II, I
 
 <details>
 <summary>Show answer</summary>
@@ -154,7 +160,13 @@ Consider the following events and arrange them in the correct chronological orde
 (III) Date of commencement of Indian Constitution  
 (IV) Constituent Assembly first met
 
-Options: A. III, II, I, IV  B. IV, I, III, II  C. I, II, IV, III  D. IV, I, II, III
+A. III, II, I, IV
+
+B. IV, I, III, II
+
+C. I, II, IV, III
+
+D. IV, I, II, III
 
 <details>
 <summary>Show answer</summary>
@@ -170,7 +182,13 @@ Match List-I with List-II.
 **List-I (Committee)** A. Union Constitution Committee  B. Rules of Procedure Committee  C. Drafting Committee  D. Fundamental Rights Sub-Committee  
 **List-II (Chairman)** 1. Dr. Rajendra Prasad  2. J. B. Kripalani  3. Dr. B. R. Ambedkar  4. Jawaharlal Nehru
 
-Options: A. 2 1 3 4  B. 1 4 3 2  C. 4 1 3 2  D. 1 2 3 4
+A. 2 1 3 4
+
+B. 1 4 3 2
+
+C. 4 1 3 2
+
+D. 1 2 3 4
 
 <details>
 <summary>Show answer</summary>
@@ -183,7 +201,13 @@ Options: A. 2 1 3 4  B. 1 4 3 2  C. 4 1 3 2  D. 1 2 3 4
 
 On which of the following dates, Constituent Assembly of India adopted the National Flag?
 
-Options: A. 22 January, 1950  B. 24 January, 1950  C. 22 July, 1947  D. 22 July, 1948
+A. 22 January, 1950
+
+B. 24 January, 1950
+
+C. 22 July, 1947
+
+D. 22 July, 1948
 
 <details>
 <summary>Show answer</summary>
@@ -198,7 +222,13 @@ Options: A. 22 January, 1950  B. 24 January, 1950  C. 22 July, 1947  D. 22 July,
 
 Who among the following said the above mentioned statement in the Constituent Assembly debates?
 
-Options: A. Somnath Lahiri  B. Jawaharlal Nehru  C. Sardar Vallabh Bhai Patel  D. N. G. Ranga
+A. Somnath Lahiri
+
+B. Jawaharlal Nehru
+
+C. Sardar Vallabh Bhai Patel
+
+D. N. G. Ranga
 
 <details>
 <summary>Show answer</summary>
@@ -211,7 +241,13 @@ Options: A. Somnath Lahiri  B. Jawaharlal Nehru  C. Sardar Vallabh Bhai Patel  D
 
 Who among the following person said for the Fundamental Rights "a pledge to our people and a pact with the civilized world"?
 
-Options: A. Pt. Jawahar Lal Nehru  B. Dr. Bhim Rao Ambedkar  C. Dr. Rajendra Prasad  D. Dr. S. Radha Krishnan
+A. Pt. Jawahar Lal Nehru
+
+B. Dr. Bhim Rao Ambedkar
+
+C. Dr. Rajendra Prasad
+
+D. Dr. S. Radha Krishnan
 
 <details>
 <summary>Show answer</summary>
@@ -257,7 +293,13 @@ Consider the following programmes and arrange them in correct chronological orde
 3. Training of Rural Youth for Self Employment (TRYSEM)  
 4. Drought Prone Areas Programme
 
-Options: A. 4, 2, 3, 1  B. 2, 4, 1, 3  C. 2, 4, 3, 1  D. 4, 2, 1, 3
+A. 4, 2, 3, 1
+
+B. 2, 4, 1, 3
+
+C. 2, 4, 3, 1
+
+D. 4, 2, 1, 3
 
 <details>
 <summary>Show answer</summary>
@@ -307,7 +349,13 @@ Which of the following persons were members of the States Reorganisation Commiss
 3. P. Sitaramayya  
 4. H. N. Kunzru
 
-Options: A. 1 and 3  B. 2 and 4  C. 2 and 3  D. 1 and 2
+A. 1 and 3
+
+B. 2 and 4
+
+C. 2 and 3
+
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
@@ -320,7 +368,13 @@ Options: A. 1 and 3  B. 2 and 4  C. 2 and 3  D. 1 and 2
 
 Which of the following is the first State in India formed on the basis of languages?
 
-Options: A. Kerala  B. Madhya Pradesh  C. Andhra Pradesh  D. Uttar Pradesh
+A. Kerala
+
+B. Madhya Pradesh
+
+C. Andhra Pradesh
+
+D. Uttar Pradesh
 
 <details>
 <summary>Show answer</summary>
@@ -347,7 +401,13 @@ Options: A. Kerala  B. Madhya Pradesh  C. Andhra Pradesh  D. Uttar Pradesh
 
 Which of the following was called as Economic cabinet of India by Ashok Chandra?
 
-Options: A. Planning Commission  B. Finance Commission  C. Central Cabinet  D. Administrative Reform Commission
+A. Planning Commission
+
+B. Finance Commission
+
+C. Central Cabinet
+
+D. Administrative Reform Commission
 
 <details>
 <summary>Show answer</summary>
@@ -360,7 +420,13 @@ Options: A. Planning Commission  B. Finance Commission  C. Central Cabinet  D. A
 
 Which of the following fixes the poverty line in India?
 
-Options: A. Central Council of Ministers  B. Lok Sabha  C. Rajya Sabha  D. Planning Commission (Now Niti Ayog)
+A. Central Council of Ministers
+
+B. Lok Sabha
+
+C. Rajya Sabha
+
+D. Planning Commission (Now Niti Ayog)
 
 <details>
 <summary>Show answer</summary>
@@ -373,7 +439,13 @@ Options: A. Central Council of Ministers  B. Lok Sabha  C. Rajya Sabha  D. Plann
 
 Who was the first Vice-Chairman of the NITI Ayog?
 
-Options: A. Arvind Panagariya  B. Raghuram Rajan  C. Chandrashekhara Subramanyam  D. Rajiv Kumar
+A. Arvind Panagariya
+
+B. Raghuram Rajan
+
+C. Chandrashekhara Subramanyam
+
+D. Rajiv Kumar
 
 <details>
 <summary>Show answer</summary>
@@ -412,7 +484,13 @@ Options: A. Arvind Panagariya  B. Raghuram Rajan  C. Chandrashekhara Subramanyam
 
 In India which of the following Five Year Plans was launched with a focus on sustainable growth?
 
-Options: A. 9th  B. 10th  C. 11th  D. 12th
+A. 9th
+
+B. 10th
+
+C. 11th
+
+D. 12th
 
 <details>
 <summary>Show answer</summary>
@@ -443,7 +521,13 @@ Options: A. 9th  B. 10th  C. 11th  D. 12th
 
 1. K. T. Shah  2. K. M. Panikkar  3. P. Sitaramayya  4. H. N. Kunzru
 
-Options: A. 1 and 3  B. 2 and 4  C. 2 and 3  D. 1 and 2
+A. 1 and 3
+
+B. 2 and 4
+
+C. 2 and 3
+
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
@@ -456,7 +540,13 @@ Options: A. 1 and 3  B. 2 and 4  C. 2 and 3  D. 1 and 2
 
 **Q2.** Arrange: 1. Food for Work  2. CDP  3. TRYSEM  4. DPAP
 
-Options: A. 4, 2, 3, 1  B. 2, 4, 1, 3  C. 2, 4, 3, 1  D. 4, 2, 1, 3
+A. 4, 2, 3, 1
+
+B. 2, 4, 1, 3
+
+C. 2, 4, 3, 1
+
+D. 4, 2, 1, 3
 
 <details>
 <summary>Show answer</summary>
@@ -470,7 +560,13 @@ Options: A. 4, 2, 3, 1  B. 2, 4, 1, 3  C. 2, 4, 3, 1  D. 4, 2, 1, 3
 **Q3.** Match: A. Union Constitution Committee  B. Rules of Procedure  C. Drafting  D. FR Sub-Committee  
 With: 1. Rajendra Prasad  2. J.B. Kripalani  3. Ambedkar  4. Nehru
 
-Options: A. 2 1 3 4  B. 1 4 3 2  C. 4 1 3 2  D. 1 2 3 4
+A. 2 1 3 4
+
+B. 1 4 3 2
+
+C. 4 1 3 2
+
+D. 1 2 3 4
 
 <details>
 <summary>Show answer</summary>
@@ -483,7 +579,13 @@ Options: A. 2 1 3 4  B. 1 4 3 2  C. 4 1 3 2  D. 1 2 3 4
 
 **Q4.** Arrange: (I) Drafting Committee  (II) Constitution adopted  (III) Commencement  (IV) CA first met
 
-Options: A. III, II, I, IV  B. IV, I, III, II  C. I, II, IV, III  D. IV, I, II, III
+A. III, II, I, IV
+
+B. IV, I, III, II
+
+C. I, II, IV, III
+
+D. IV, I, II, III
 
 <details>
 <summary>Show answer</summary>
@@ -496,7 +598,13 @@ Options: A. III, II, I, IV  B. IV, I, III, II  C. I, II, IV, III  D. IV, I, II, 
 
 **Q5.** First linguistic state of India:
 
-Options: A. Kerala  B. Madhya Pradesh  C. Andhra Pradesh  D. Uttar Pradesh
+A. Kerala
+
+B. Madhya Pradesh
+
+C. Andhra Pradesh
+
+D. Uttar Pradesh
 
 <details>
 <summary>Show answer</summary>
@@ -509,7 +617,13 @@ Options: A. Kerala  B. Madhya Pradesh  C. Andhra Pradesh  D. Uttar Pradesh
 
 **Q6.** Which of the following was called the Economic Cabinet of India by Ashok Chanda?
 
-Options: A. Planning Commission  B. Finance Commission  C. Central Cabinet  D. Administrative Reform Commission
+A. Planning Commission
+
+B. Finance Commission
+
+C. Central Cabinet
+
+D. Administrative Reform Commission
 
 <details>
 <summary>Show answer</summary>
@@ -522,7 +636,13 @@ Options: A. Planning Commission  B. Finance Commission  C. Central Cabinet  D. A
 
 **Q7.** First Vice-Chairman of NITI Aayog:
 
-Options: A. Arvind Panagariya  B. Raghuram Rajan  C. Chandrashekhara Subramanyam  D. Rajiv Kumar
+A. Arvind Panagariya
+
+B. Raghuram Rajan
+
+C. Chandrashekhara Subramanyam
+
+D. Rajiv Kumar
 
 <details>
 <summary>Show answer</summary>
@@ -535,7 +655,13 @@ Options: A. Arvind Panagariya  B. Raghuram Rajan  C. Chandrashekhara Subramanyam
 
 **Q8.** Five-Year Plan launched with a focus on sustainable growth:
 
-Options: A. 9th  B. 10th  C. 11th  D. 12th
+A. 9th
+
+B. 10th
+
+C. 11th
+
+D. 12th
 
 <details>
 <summary>Show answer</summary>
@@ -548,7 +674,13 @@ Options: A. 9th  B. 10th  C. 11th  D. 12th
 
 **Q9.** CA adopted the National Flag on:
 
-Options: A. 22 January 1950  B. 24 January 1950  C. 22 July 1947  D. 22 July 1948
+A. 22 January 1950
+
+B. 24 January 1950
+
+C. 22 July 1947
+
+D. 22 July 1948
 
 <details>
 <summary>Show answer</summary>
@@ -561,7 +693,13 @@ Options: A. 22 January 1950  B. 24 January 1950  C. 22 July 1947  D. 22 July 194
 
 **Q10.** Arrange: I. Hari Singh IoA  II. Constitution of India enforced  III. J&K CA ratifies accession  IV. J&K Constitution in force
 
-Options: A. I, III, IV, II  B. III, IV, I, II  C. I, II, III, IV  D. IV, III, II, I
+A. I, III, IV, II
+
+B. III, IV, I, II
+
+C. I, II, III, IV
+
+D. IV, III, II, I
 
 <details>
 <summary>Show answer</summary>
@@ -577,7 +715,13 @@ Options: A. I, III, IV, II  B. III, IV, I, II  C. I, II, III, IV  D. IV, III, II
 1. It began in 1948 in Etawah district, Uttar Pradesh.  
 2. It is associated with Albert Mayer.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -593,7 +737,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. It was launched on 2 October 1952.  
 2. It belongs to the First Five-Year Plan.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -606,7 +756,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q13.** Which of the following pairs is NOT correctly matched?
 
-Options: A. Etawah — Albert Mayer  B. Nilokheri — S.K. Dey  C. CDP — 2 October 1952  D. Etawah — 2 October 1952
+A. Etawah — Albert Mayer
+
+B. Nilokheri — S.K. Dey
+
+C. CDP — 2 October 1952
+
+D. Etawah — 2 October 1952
 
 <details>
 <summary>Show answer</summary>
@@ -622,7 +778,13 @@ Options: A. Etawah — Albert Mayer  B. Nilokheri — S.K. Dey  C. CDP — 2 Oct
 **List-I** A. Junagadh  B. Hyderabad  C. J&K  D. States Department  
 **List-II** 1. Operation Polo  2. Plebiscite  3. IoA 26 Oct 1947  4. Patel and V.P. Menon
 
-Options: A. 2 1 3 4  B. 1 2 3 4  C. 2 1 4 3  D. 2 3 1 4
+A. 2 1 3 4
+
+B. 1 2 3 4
+
+C. 2 1 4 3
+
+D. 2 3 1 4
 
 <details>
 <summary>Show answer</summary>
@@ -637,7 +799,13 @@ Options: A. 2 1 3 4  B. 1 2 3 4  C. 2 1 4 3  D. 2 3 1 4
 
 1. Defence  2. External Affairs  3. Communications  4. Land revenue
 
-Options: A. 1, 2 and 3  B. 1 and 2 only  C. 1, 2, 3 and 4  D. 2 and 3 only
+A. 1, 2 and 3
+
+B. 1 and 2 only
+
+C. 1, 2, 3 and 4
+
+D. 2 and 3 only
 
 <details>
 <summary>Show answer</summary>
@@ -672,7 +840,13 @@ D. (A) is false, but (R) is true
 1. Fazl Ali was the Chairman.  
 2. Pattabhi Sitaramayya was a member of SRC.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -688,7 +862,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. Dhar Commission (1948) did not recommend language as the basis of provinces.  
 2. JVP Committee found linguistic states premature.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -705,7 +885,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Andhra State — 1 October 1953  
 3. Bombay split — 1956
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -721,7 +907,13 @@ Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
 1. It was set up in March 1950 by Cabinet resolution.  
 2. It was a constitutional body under Article 280.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -737,7 +929,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. 1st Plan  B. 2nd Plan  C. Plan Holiday  D. 12th Plan  
 **List-II** 1. 1966–69  2. Agriculture / CDP  3. Sustainable growth  4. Mahalanobis
 
-Options: A. 2 4 1 3  B. 2 4 3 1  C. 4 2 1 3  D. 2 1 4 3
+A. 2 4 1 3
+
+B. 2 4 3 1
+
+C. 4 2 1 3
+
+D. 2 1 4 3
 
 <details>
 <summary>Show answer</summary>
@@ -772,7 +970,13 @@ D. (A) is false, but (R) is true
 1. Second Plan steel plants include Bhilai, Rourkela and Durgapur.  
 2. These three were all built with only US aid.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -785,7 +989,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q24.** Which of the following is NOT correctly matched?
 
-Options: A. NDC — 1952  B. Planning Commission — 1950  C. NITI Aayog — 1 Jan 2015  D. CDP — 1948
+A. NDC — 1952
+
+B. Planning Commission — 1950
+
+C. NITI Aayog — 1 Jan 2015
+
+D. CDP — 1948
 
 <details>
 <summary>Show answer</summary>
@@ -801,7 +1011,13 @@ Options: A. NDC — 1952  B. Planning Commission — 1950  C. NITI Aayog — 1 J
 1. Operation Polo was in September 1948.  
 2. Razakars were associated with Kasim Razvi.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -817,7 +1033,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. Drafting Committee  B. Objective Resolution  C. Flag adopted  D. CA first met  
 **List-II** 1. 9 Dec 1946  2. 13 Dec 1946  3. 29 Aug 1947  4. 22 Jul 1947
 
-Options: A. 3 2 4 1  B. 3 2 1 4  C. 2 3 4 1  D. 3 4 2 1
+A. 3 2 4 1
+
+B. 3 2 1 4
+
+C. 2 3 4 1
+
+D. 3 4 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -833,7 +1055,13 @@ Options: A. 3 2 4 1  B. 3 2 1 4  C. 2 3 4 1  D. 3 4 2 1
 1. Privy purses were abolished by the 26th Amendment, 1971.  
 2. IoA in 1947 already abolished privy purses.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -850,7 +1078,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Part B states — princely unions  
 3. Part D — Hyderabad
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -866,7 +1100,13 @@ Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
 1. National Extension Service began in 1953.  
 2. It was more intensive than CDP project blocks.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -881,7 +1121,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 1. Gram Panchayat  2. Panchayat Samiti  3. Zila Parishad  4. Nyaya Panchayat
 
-Options: A. 1, 2 and 3  B. 1, 2 and 4  C. 1, 3 and 4  D. 2, 3 and 4
+A. 1, 2 and 3
+
+B. 1, 2 and 4
+
+C. 1, 3 and 4
+
+D. 2, 3 and 4
 
 <details>
 <summary>Show answer</summary>
@@ -894,7 +1140,13 @@ Options: A. 1, 2 and 3  B. 1, 2 and 4  C. 1, 3 and 4  D. 2, 3 and 4
 
 **Q31.** Arrange: 1. Etawah Pilot  2. Constitution commencement  3. CDP  4. Andhra State
 
-Options: A. 1, 2, 3, 4  B. 2, 1, 3, 4  C. 1, 2, 4, 3  D. 1, 3, 2, 4
+A. 1, 2, 3, 4
+
+B. 2, 1, 3, 4
+
+C. 1, 2, 4, 3
+
+D. 1, 3, 2, 4
 
 <details>
 <summary>Show answer</summary>
@@ -926,7 +1178,13 @@ D. (A) is false, but (R) is true
 
 **Q33.** Who said in the Constituent Assembly: “Can you show me one free country where there are separate electorates… left mischief behind”?
 
-Options: A. Somnath Lahiri  B. Jawaharlal Nehru  C. Sardar Vallabh Bhai Patel  D. N. G. Ranga
+A. Somnath Lahiri
+
+B. Jawaharlal Nehru
+
+C. Sardar Vallabh Bhai Patel
+
+D. N. G. Ranga
 
 <details>
 <summary>Show answer</summary>
@@ -939,7 +1197,13 @@ Options: A. Somnath Lahiri  B. Jawaharlal Nehru  C. Sardar Vallabh Bhai Patel  D
 
 **Q34.** “A pledge to our people and a pact with the civilized world” for Fundamental Rights was said by:
 
-Options: A. Pt. Jawahar Lal Nehru  B. Dr. Bhim Rao Ambedkar  C. Dr. Rajendra Prasad  D. Dr. S. Radha Krishnan
+A. Pt. Jawahar Lal Nehru
+
+B. Dr. Bhim Rao Ambedkar
+
+C. Dr. Rajendra Prasad
+
+D. Dr. S. Radha Krishnan
 
 <details>
 <summary>Show answer</summary>
@@ -952,7 +1216,13 @@ Options: A. Pt. Jawahar Lal Nehru  B. Dr. Bhim Rao Ambedkar  C. Dr. Rajendra Pra
 
 **Q35.** Which of the following is NOT correctly matched?
 
-Options: A. Chairman, Drafting Committee — Ambedkar  B. FR Sub-Committee — J.B. Kripalani  C. Union Constitution Committee — Rajendra Prasad  D. Rules of Procedure — Rajendra Prasad
+A. Chairman, Drafting Committee — Ambedkar
+
+B. FR Sub-Committee — J.B. Kripalani
+
+C. Union Constitution Committee — Rajendra Prasad
+
+D. Rules of Procedure — Rajendra Prasad
 
 <details>
 <summary>Show answer</summary>
@@ -968,7 +1238,13 @@ Options: A. Chairman, Drafting Committee — Ambedkar  B. FR Sub-Committee — J
 1. It was set up in 1952.  
 2. It was chaired by the Prime Minister and included Chief Ministers.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -984,7 +1260,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. The 12th Plan was the last Five-Year Plan.  
 2. Inclusive growth is the slogan most associated with the 11th Plan.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1000,7 +1282,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. Maharashtra and Gujarat  B. Haryana  C. Uttarakhand  D. Telangana  
 **List-II** 1. 2000  2. 1960  3. 2014  4. 1966
 
-Options: A. 2 4 1 3  B. 2 4 3 1  C. 4 2 1 3  D. 2 1 4 3
+A. 2 4 1 3
+
+B. 2 4 3 1
+
+C. 4 2 1 3
+
+D. 2 1 4 3
 
 <details>
 <summary>Show answer</summary>
@@ -1017,7 +1305,13 @@ Options: A. 2 4 1 3  B. 2 4 3 1  C. 4 2 1 3  D. 2 1 4 3
 2. IPR 1956 — commanding heights  
 3. First Plan — Mahalanobis heavy industry
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1030,7 +1324,13 @@ Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
 
 **Q40.** Poverty line in India (as asked in 2018) was fixed by:
 
-Options: A. Central Council of Ministers  B. Lok Sabha  C. Rajya Sabha  D. Planning Commission (Now NITI Ayog)
+A. Central Council of Ministers
+
+B. Lok Sabha
+
+C. Rajya Sabha
+
+D. Planning Commission (Now NITI Ayog)
 
 <details>
 <summary>Show answer</summary>
@@ -1046,7 +1346,13 @@ Options: A. Central Council of Ministers  B. Lok Sabha  C. Rajya Sabha  D. Plann
 1. It first met on 9 December 1946.  
 2. Temporary President was Sachchidananda Sinha.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1059,7 +1365,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q42.** Which of the following is NOT correctly matched?
 
-Options: A. Constitution adopted — 26 Nov 1949  B. Last CA sitting — 24 Jan 1950  C. Constitution commenced — 26 Jan 1950  D. Drafting Committee — 29 Aug 1946
+A. Constitution adopted — 26 Nov 1949
+
+B. Last CA sitting — 24 Jan 1950
+
+C. Constitution commenced — 26 Jan 1950
+
+D. Drafting Committee — 29 Aug 1946
 
 <details>
 <summary>Show answer</summary>
@@ -1094,7 +1406,13 @@ D. (A) is false, but (R) is true
 1. Village Level Worker / Gram Sevak was the field functionary of CDP.  
 2. CDP launched with 55 project areas.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1111,7 +1429,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. J&K IoA — 26 October 1947  
 3. Junagadh — Operation Polo
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1135,7 +1459,13 @@ Which of the following persons were members of the States Reorganisation Commiss
 3. P. Sitaramayya  
 4. H. N. Kunzru
 
-Options: A. 1 and 3  B. 2 and 4  C. 2 and 3  D. 1 and 2
+A. 1 and 3
+
+B. 2 and 4
+
+C. 2 and 3
+
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
@@ -1151,7 +1481,13 @@ Match List-I with List-II.
 **List-I (Committee)** A. Union Constitution Committee  B. Rules of Procedure Committee  C. Drafting Committee  D. Fundamental Rights Sub-Committee  
 **List-II (Chairman)** 1. Dr. Rajendra Prasad  2. J. B. Kripalani  3. Dr. B. R. Ambedkar  4. Jawaharlal Nehru
 
-Options: A. 2 1 3 4  B. 1 4 3 2  C. 4 1 3 2  D. 1 2 3 4
+A. 2 1 3 4
+
+B. 1 4 3 2
+
+C. 4 1 3 2
+
+D. 1 2 3 4
 
 <details>
 <summary>Show answer</summary>
@@ -1169,7 +1505,13 @@ Consider the following programmes and arrange them in correct chronological orde
 3. Training of Rural Youth for Self Employment (TRYSEM)  
 4. Drought Prone Areas Programme
 
-Options: A. 4, 2, 3, 1  B. 2, 4, 1, 3  C. 2, 4, 3, 1  D. 4, 2, 1, 3
+A. 4, 2, 3, 1
+
+B. 2, 4, 1, 3
+
+C. 2, 4, 3, 1
+
+D. 4, 2, 1, 3
 
 <details>
 <summary>Show answer</summary>
@@ -1189,7 +1531,13 @@ Consider the following events and arrange them in the correct chronological orde
 (III) Date of commencement of Indian Constitution  
 (IV) Constituent Assembly first met
 
-Options: A. III, II, I, IV  B. IV, I, III, II  C. I, II, IV, III  D. IV, I, II, III
+A. III, II, I, IV
+
+B. IV, I, III, II
+
+C. I, II, IV, III
+
+D. IV, I, II, III
 
 <details>
 <summary>Show answer</summary>
@@ -1206,7 +1554,13 @@ Options: A. III, II, I, IV  B. IV, I, III, II  C. I, II, IV, III  D. IV, I, II, 
 
 Who among the following said the above mentioned statement in the Constituent Assembly debates?
 
-Options: A. Somnath Lahiri  B. Jawaharlal Nehru  C. Sardar Vallabh Bhai Patel  D. N. G. Ranga
+A. Somnath Lahiri
+
+B. Jawaharlal Nehru
+
+C. Sardar Vallabh Bhai Patel
+
+D. N. G. Ranga
 
 <details>
 <summary>Show answer</summary>
@@ -1219,7 +1573,13 @@ Options: A. Somnath Lahiri  B. Jawaharlal Nehru  C. Sardar Vallabh Bhai Patel  D
 
 Who among the following person said for the Fundamental Rights "a pledge to our people and a pact with the civilized world"?
 
-Options: A. Pt. Jawahar Lal Nehru  B. Dr. Bhim Rao Ambedkar  C. Dr. Rajendra Prasad  D. Dr. S. Radha Krishnan
+A. Pt. Jawahar Lal Nehru
+
+B. Dr. Bhim Rao Ambedkar
+
+C. Dr. Rajendra Prasad
+
+D. Dr. S. Radha Krishnan
 
 <details>
 <summary>Show answer</summary>
@@ -1234,7 +1594,13 @@ Options: A. Pt. Jawahar Lal Nehru  B. Dr. Bhim Rao Ambedkar  C. Dr. Rajendra Pra
 
 On which of the following dates, Constituent Assembly of India adopted the National Flag?
 
-Options: A. 22 January, 1950  B. 24 January, 1950  C. 22 July, 1947  D. 22 July, 1948
+A. 22 January, 1950
+
+B. 24 January, 1950
+
+C. 22 July, 1947
+
+D. 22 July, 1948
 
 <details>
 <summary>Show answer</summary>
@@ -1254,7 +1620,13 @@ II. Constitution of India was enforced.
 III. Accession to India ratified by the Sovereign Constituent Assembly of Jammu and Kashmir.  
 IV. New Constitution of the State of Jammu and Kashmir came into force.
 
-Options: A. I, III, IV, II  B. III, IV, I, II  C. I, II, III, IV  D. IV, III, II, I
+A. I, III, IV, II
+
+B. III, IV, I, II
+
+C. I, II, III, IV
+
+D. IV, III, II, I
 
 <details>
 <summary>Show answer</summary>
@@ -1269,7 +1641,13 @@ Options: A. I, III, IV, II  B. III, IV, I, II  C. I, II, III, IV  D. IV, III, II
 
 In India which of the following Five Year Plans was launched with a focus on sustainable growth?
 
-Options: A. 9th  B. 10th  C. 11th  D. 12th
+A. 9th
+
+B. 10th
+
+C. 11th
+
+D. 12th
 
 <details>
 <summary>Show answer</summary>
@@ -1282,7 +1660,13 @@ Options: A. 9th  B. 10th  C. 11th  D. 12th
 
 Who was the first Vice-Chairman of the NITI Ayog?
 
-Options: A. Arvind Panagariya  B. Raghuram Rajan  C. Chandrashekhara Subramanyam  D. Rajiv Kumar
+A. Arvind Panagariya
+
+B. Raghuram Rajan
+
+C. Chandrashekhara Subramanyam
+
+D. Rajiv Kumar
 
 <details>
 <summary>Show answer</summary>
@@ -1295,7 +1679,13 @@ Options: A. Arvind Panagariya  B. Raghuram Rajan  C. Chandrashekhara Subramanyam
 
 Which of the following is the first State in India formed on the basis of languages?
 
-Options: A. Kerala  B. Madhya Pradesh  C. Andhra Pradesh  D. Uttar Pradesh
+A. Kerala
+
+B. Madhya Pradesh
+
+C. Andhra Pradesh
+
+D. Uttar Pradesh
 
 <details>
 <summary>Show answer</summary>
@@ -1308,7 +1698,13 @@ Options: A. Kerala  B. Madhya Pradesh  C. Andhra Pradesh  D. Uttar Pradesh
 
 Which of the following fixes the poverty line in India?
 
-Options: A. Central Council of Ministers  B. Lok Sabha  C. Rajya Sabha  D. Planning Commission (Now Niti Ayog)
+A. Central Council of Ministers
+
+B. Lok Sabha
+
+C. Rajya Sabha
+
+D. Planning Commission (Now Niti Ayog)
 
 <details>
 <summary>Show answer</summary>
@@ -1321,7 +1717,13 @@ Options: A. Central Council of Ministers  B. Lok Sabha  C. Rajya Sabha  D. Plann
 
 Which of the following was called as Economic cabinet of India by Ashok Chandra?
 
-Options: A. Planning Commission  B. Finance Commission  C. Central Cabinet  D. Administrative Reform Commission
+A. Planning Commission
+
+B. Finance Commission
+
+C. Central Cabinet
+
+D. Administrative Reform Commission
 
 <details>
 <summary>Show answer</summary>

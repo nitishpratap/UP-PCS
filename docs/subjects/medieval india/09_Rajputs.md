@@ -203,7 +203,13 @@ Little direct UP territory; questions are **match + chronology**. Overlaps: Khan
 
 **Q1.** NOT correctly matched (ruler–state):
 
-Options: A. Rana Hamir – Mewar | B. Rana Chunda – Marwar | C. Malik Raja Faruqi – Khandesh | D. Rana Sanga – Mewar
+A. Rana Hamir – Mewar |
+
+B. Rana Chunda – Marwar |
+
+C. Malik Raja Faruqi – Khandesh |
+
+D. Rana Sanga – Mewar
 
 <details><summary>Show answer</summary>**Ans: B** — 2021 Q118; Rao Chunda = Marwar.</details>
 
@@ -221,211 +227,421 @@ Options: A.1-2-3-4 | B.2-1-4-3 | C.2-1-3-4 | D.1-2-4-3
 
 **Q4.** Jayata and Kumpa:
 
-Options: A. Bundelkhand | B. Malwa | C. Marwar | D. Mewar
+A. Bundelkhand |
+
+B. Malwa |
+
+C. Marwar |
+
+D. Mewar
 
 <details><summary>Show answer</summary>**Ans: C** — 2022 Q95.</details>
 
 **Q5.** Tansen before Akbar was patronised by:
 
-Options: A. Raja Ramchandra of Bhata | B. Rajbahadur of Malwa | C. Udai Singh of Mewar | D. Muzaffar Shah of Gujarat
+A. Raja Ramchandra of Bhata |
+
+B. Rajbahadur of Malwa |
+
+C. Udai Singh of Mewar |
+
+D. Muzaffar Shah of Gujarat
 
 <details><summary>Show answer</summary>**Ans: A** — 2019 Q89; not Mewar.</details>
 
 **Q6.** Khanwa 1527:
 
-Options: A. Pratap vs Man Singh | B. Sanga vs Babur | C. Maldeo vs Sher Shah | D. Hammir vs Alauddin
+A. Pratap vs Man Singh |
+
+B. Sanga vs Babur |
+
+C. Maldeo vs Sher Shah |
+
+D. Hammir vs Alauddin
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q7.** Haldighati Mughal commander:
 
-Options: A. Akbar in person | B. Raja Man Singh | C. Todar Mal | D. Bairam Khan
+A. Akbar in person |
+
+B. Raja Man Singh |
+
+C. Todar Mal |
+
+D. Bairam Khan
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q8.** 1. Haldighati 1576 2. Khanwa 1576
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q9.** Sisodia capital after Chittor pressure:
 
-Options: A. Jodhpur | B. Udaipur | C. Amber | D. Bikaner
+A. Jodhpur |
+
+B. Udaipur |
+
+C. Amber |
+
+D. Bikaner
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q10.** Amar Singh peace with:
 
-Options: A. Babur 1527 | B. Akbar 1576 | C. Jahangir 1615 | D. Aurangzeb 1679
+A. Babur 1527 |
+
+B. Akbar 1576 |
+
+C. Jahangir 1615 |
+
+D. Aurangzeb 1679
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q11.** Jauhar is:
 
-Options: A. Horse branding | B. Women’s mass self-immolation at fort fall | C. Mughal mansab | D. GT Road inn
+A. Horse branding |
+
+B. Women’s mass self-immolation at fort fall |
+
+C. Mughal mansab |
+
+D. GT Road inn
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q12.** Kachhwaha state:
 
-Options: A. Mewar | B. Marwar | C. Amber | D. Jaisalmer
+A. Mewar |
+
+B. Marwar |
+
+C. Amber |
+
+D. Jaisalmer
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q13.** Vijay Stambha associated with:
 
-Options: A. Rana Kumbha | B. Maharana Pratap | C. Rao Maldeo | D. Man Singh
+A. Rana Kumbha |
+
+B. Maharana Pratap |
+
+C. Rao Maldeo |
+
+D. Man Singh
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q14.** Hakim Khan Sur at Haldighati:
 
-Options: A. Mughal bakhshi | B. Afghan ally of Pratap | C. Amber raja | D. Marwar rao
+A. Mughal bakhshi |
+
+B. Afghan ally of Pratap |
+
+C. Amber raja |
+
+D. Marwar rao
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q15.** Akbar’s Chittor siege:
 
-Options: A. 1303 | B. 1527 | C. 1567–68 | D. 1615
+A. 1303 |
+
+B. 1527 |
+
+C. 1567–68 |
+
+D. 1615
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q16.** Rana Hamir restored:
 
-Options: A. Marwar | B. Mewar | C. Amber | D. Khandesh
+A. Marwar |
+
+B. Mewar |
+
+C. Amber |
+
+D. Khandesh
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q17.** 1. Man Singh was Sisodia 2. Man Singh was Kachhwaha in Mughal service
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q18.** Mahmud Lodi at Khanwa:
 
-Options: A. Fought for Babur | B. Joined Sanga’s confederacy | C. Led Haldighati | D. Founded Jaipur
+A. Fought for Babur |
+
+B. Joined Sanga’s confederacy |
+
+C. Led Haldighati |
+
+D. Founded Jaipur
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q19.** NOT matched:
 
-Options: A. Rathore – Marwar | B. Bhati – Jaisalmer | C. Sisodia – Amber | D. Hada – Bundi
+A. Rathore – Marwar |
+
+B. Bhati – Jaisalmer |
+
+C. Sisodia – Amber |
+
+D. Hada – Bundi
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q20.** Pratap died:
 
-Options: A. 1528 | B. 1576 | C. 1597 | D. 1615
+A. 1528 |
+
+B. 1576 |
+
+C. 1597 |
+
+D. 1615
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q21.** Haldighati terrain:
 
-Options: A. Open Doab plain | B. Narrow Aravalli pass | C. Deccan plateau | D. Ganga at Kannauj
+A. Open Doab plain |
+
+B. Narrow Aravalli pass |
+
+C. Deccan plateau |
+
+D. Ganga at Kannauj
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q22.** Malik Sarwar founded:
 
-Options: A. Malwa | B. Jaunpur Sharqi | C. Mewar | D. Golkonda
+A. Malwa |
+
+B. Jaunpur Sharqi |
+
+C. Mewar |
+
+D. Golkonda
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q23.** 1. Jaimal–Patta linked to Akbar’s Chittor 2. Padmini lore linked to 1303
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q24.** Title Rao is typical of:
 
-Options: A. Mewar Sisodia | B. Marwar Rathore | C. Delhi Sultan | D. Chishti pir
+A. Mewar Sisodia |
+
+B. Marwar Rathore |
+
+C. Delhi Sultan |
+
+D. Chishti pir
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q25.** Khanwa tactics of Babur:
 
-Options: A. Only elephant rush | B. Tulughma and Araba | C. Naval blockade | D. Token currency
+A. Only elephant rush |
+
+B. Tulughma and Araba |
+
+C. Naval blockade |
+
+D. Token currency
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q26.** Bhils at Haldighati:
 
-Options: A. Fought for Pratap | B. Led Mughal left | C. Built Vijay Stambha | D. Ruled Amber
+A. Fought for Pratap |
+
+B. Led Mughal left |
+
+C. Built Vijay Stambha |
+
+D. Ruled Amber
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q27.** Udai Singh II is:
 
-Options: A. Pratap’s father; founded Udaipur | B. Babur’s general | C. Marwar’s Rao Chunda | D. Alauddin’s governor
+A. Pratap’s father; founded Udaipur |
+
+B. Babur’s general |
+
+C. Marwar’s Rao Chunda |
+
+D. Alauddin’s governor
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q28.** Correct pair:
 
-Options: A. Haldighati – 1527 | B. Khanwa – 1576 | C. Haldighati – 1576 | D. Chittor Akbar – 1303
+A. Haldighati – 1527 |
+
+B. Khanwa – 1576 |
+
+C. Haldighati – 1576 |
+
+D. Chittor Akbar – 1303
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q29.** 1. Most Rajputs took Akbar’s alliances 2. Pratap remained the main Mewar holdout
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q30.** Warangal in Alauddin lists is:
 
-Options: A. Before Gujarat | B. After Chittor (Kafur Deccan) | C. Same as Khanwa | D. Jahangir’s Kangra
+A. Before Gujarat |
+
+B. After Chittor (Kafur Deccan) |
+
+C. Same as Khanwa |
+
+D. Jahangir’s Kangra
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q31.** Chetak is:
 
-Options: A. Pratap’s horse in Haldighati lore | B. Amber fort | C. Marwar coin | D. Mughal canal
+A. Pratap’s horse in Haldighati lore |
+
+B. Amber fort |
+
+C. Marwar coin |
+
+D. Mughal canal
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q32.** Saka means:
 
-Options: A. Revenue survey | B. Warriors’ last charge after jauhar | C. Persian memoir | D. Copper dam
+A. Revenue survey |
+
+B. Warriors’ last charge after jauhar |
+
+C. Persian memoir |
+
+D. Copper dam
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q33.** Akbar was present in person at:
 
-Options: A. Haldighati pass command | B. Chittor 1567–68 siege (imperial) | C. Khanwa 1527 | D. Sammel 1544
+A. Haldighati pass command |
+
+B. Chittor 1567–68 siege (imperial) |
+
+C. Khanwa 1527 |
+
+D. Sammel 1544
 
 <details><summary>Show answer</summary>**Ans: B** — Haldighati field command = Man Singh.</details>
 
 **Q34.** Bikaner clan:
 
-Options: A. Sisodia | B. Rathore branch | C. Kachhwaha | D. Faruqi
+A. Sisodia |
+
+B. Rathore branch |
+
+C. Kachhwaha |
+
+D. Faruqi
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q35.** 1. Rana Chunda = Marwar 2. Rao Chunda = Marwar line
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q36.** Rana Hammir of Mewar is the same person as Hamir Deva of Ranthambore.
 
-Options: A. True | B. False | C. Only after 1303 | D. Only after 1576
+A. True |
+
+B. False |
+
+C. Only after 1303 |
+
+D. Only after 1576
 
 <details><summary>Show answer</summary>**Ans: B** — Mewar restorer vs Chauhan of Ranthambore (1301).</details>
 
 **Q37.** Kirti Stambha at Chittor is:
 
-Options: A. Kumbha’s victory tower | B. The older Jain tower | C. Akbar’s minar | D. Man Singh’s Amber gate
+A. Kumbha’s victory tower |
+
+B. The older Jain tower |
+
+C. Akbar’s minar |
+
+D. Man Singh’s Amber gate
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q38.** Rao Jodha is remembered for:
 
-Options: A. Founding Jodhpur | B. Commanding Haldighati | C. Building Vijay Stambha | D. Founding Udaipur
+A. Founding Jodhpur |
+
+B. Commanding Haldighati |
+
+C. Building Vijay Stambha |
+
+D. Founding Udaipur
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
@@ -460,7 +676,13 @@ Options: A.1-2-3-4 | B.2-1-4-3 | C.2-1-3-4 | D.1-2-4-3
 
 Jayata and Kumpa, who impressed Sher Shah, were associated with?
 
-Options: A. Bundelkhand | B. Malwa | C. Marwar | D. Mewar
+A. Bundelkhand |
+
+B. Malwa |
+
+C. Marwar |
+
+D. Mewar
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
@@ -468,7 +690,13 @@ Options: A. Bundelkhand | B. Malwa | C. Marwar | D. Mewar
 
 Who patronised Tansen before Akbar?
 
-Options: A. Raja Ramchandra Singh of Bhata | B. Rajbahadur of Malwa | C. Uday Singh of Mewar | D. Muzaffar Shah of Gujarat
+A. Raja Ramchandra Singh of Bhata |
+
+B. Rajbahadur of Malwa |
+
+C. Uday Singh of Mewar |
+
+D. Muzaffar Shah of Gujarat
 
 <details><summary>Show answer</summary>**Ans: A** — Mewar option is the distractor.</details>
 

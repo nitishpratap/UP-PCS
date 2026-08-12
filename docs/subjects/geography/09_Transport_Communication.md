@@ -263,7 +263,14 @@ No major seaport. Identity = rail HQ + expressways + airports + NW-1 + station c
 > Full stems. Short why under each answer.
 
 **Q1.** Headquarters of the North Eastern Railway is at?
-Options: A. Hajipur B. Gorakhpur C. Cuttack D. Guwahati
+
+A. Hajipur
+
+B. Gorakhpur
+
+C. Cuttack
+
+D. Guwahati
 
 <details>
 <summary>Show answer</summary>
@@ -272,7 +279,14 @@ Options: A. Hajipur B. Gorakhpur C. Cuttack D. Guwahati
 </details>
 
 **Q2.** Headquarters of the South Eastern Railway is at?
-Options: A. Cuttack B. Bhubaneswar C. Garden Reach, Kolkata D. Ranchi
+
+A. Cuttack
+
+B. Bhubaneswar
+
+C. Garden Reach, Kolkata
+
+D. Ranchi
 
 <details>
 <summary>Show answer</summary>
@@ -281,10 +295,18 @@ Options: A. Cuttack B. Bhubaneswar C. Garden Reach, Kolkata D. Ranchi
 </details>
 
 **Q3.** Which pairs are correctly matched?
+
 1. Northern Railway — New Delhi
 2. North Eastern Railway — Gorakhpur
 3. South Eastern Railway — Cuttack
-Options: A. Only 1 and 2 B. All three C. Only 3 D. Only 1
+
+A. Only 1 and 2
+
+B. All three
+
+C. Only 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -293,7 +315,14 @@ Options: A. Only 1 and 2 B. All three C. Only 3 D. Only 1
 </details>
 
 **Q4.** Amrit Bharat Station Scheme mainly aims to:
-Options: A. Build new freight corridors only B. Modernise and redevelop passenger railway stations C. Replace Sagarmala D. Lay optical fibre on every NH
+
+A. Build new freight corridors only
+
+B. Modernise and redevelop passenger railway stations
+
+C. Replace Sagarmala
+
+D. Lay optical fibre on every NH
 
 <details>
 <summary>Show answer</summary>
@@ -302,7 +331,14 @@ Options: A. Build new freight corridors only B. Modernise and redevelop passenge
 </details>
 
 **Q5.** How many railway stations in Uttar Pradesh were identified under Amrit Bharat Station Scheme as on February 2023?
-Options: A. 57 B. 82 C. 123 D. 149
+
+A. 57
+
+B. 82
+
+C. 123
+
+D. 149
 
 <details>
 <summary>Show answer</summary>
@@ -311,7 +347,14 @@ Options: A. 57 B. 82 C. 123 D. 149
 </details>
 
 **Q6.** New Pamban Bridge: (1) built by RVNL (2) India's first vertical-lift railway sea bridge.
-Options: A. Only 1 B. Only 2 C. Both D. Neither
+
+A. Only 1
+
+B. Only 2
+
+C. Both
+
+D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -320,7 +363,14 @@ Options: A. Only 1 B. Only 2 C. Both D. Neither
 </details>
 
 **Q7.** Purvanchal Expressway in UP will NOT pass through which city?
-Options: A. Faizabad B. Basti C. Azamgarh D. Mau
+
+A. Faizabad
+
+B. Basti
+
+C. Azamgarh
+
+D. Mau
 
 <details>
 <summary>Show answer</summary>
@@ -329,7 +379,14 @@ Options: A. Faizabad B. Basti C. Azamgarh D. Mau
 </details>
 
 **Q8.** Atal Tunnel: (1) world's longest highway tunnel (2) built in Pir Panjal.
-Options: A. Only 1 B. Only 2 C. Both D. Neither
+
+A. Only 1
+
+B. Only 2
+
+C. Both
+
+D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -338,7 +395,14 @@ Options: A. Only 1 B. Only 2 C. Both D. Neither
 </details>
 
 **Q9.** Golden Quadrilateral links which cities?
-Options: A. Only southern metros B. Delhi-Mumbai-Chennai-Kolkata C. Only major ports D. Only UP cities
+
+A. Only southern metros
+
+B. Delhi-Mumbai-Chennai-Kolkata
+
+C. Only major ports
+
+D. Only UP cities
 
 <details>
 <summary>Show answer</summary>
@@ -347,7 +411,14 @@ Options: A. Only southern metros B. Delhi-Mumbai-Chennai-Kolkata C. Only major p
 </details>
 
 **Q10.** Bharatmala is mainly concerned with:
-Options: A. Port-led clusters B. Highway corridors C. Optical fibre only D. UDAN only
+
+A. Port-led clusters
+
+B. Highway corridors
+
+C. Optical fibre only
+
+D. UDAN only
 
 <details>
 <summary>Show answer</summary>
@@ -356,7 +427,14 @@ Options: A. Port-led clusters B. Highway corridors C. Optical fibre only D. UDAN
 </details>
 
 **Q11.** Sagarmala is mainly concerned with:
-Options: A. National Highways B. Port-led development C. Gauge conversion only D. Metro rail only
+
+A. National Highways
+
+B. Port-led development
+
+C. Gauge conversion only
+
+D. Metro rail only
 
 <details>
 <summary>Show answer</summary>
@@ -365,7 +443,14 @@ Options: A. National Highways B. Port-led development C. Gauge conversion only D
 </details>
 
 **Q12.** National Waterway-1 corresponds to:
-Options: A. Brahmaputra B. Ganga system C. Kerala canals only D. Indus only
+
+A. Brahmaputra
+
+B. Ganga system
+
+C. Kerala canals only
+
+D. Indus only
 
 <details>
 <summary>Show answer</summary>
@@ -374,7 +459,14 @@ Options: A. Brahmaputra B. Ganga system C. Kerala canals only D. Indus only
 </details>
 
 **Q13.** National Waterway-3 is associated with:
-Options: A. Ganga B. Brahmaputra C. West Coast Canal (Kerala) D. Narmada only
+
+A. Ganga
+
+B. Brahmaputra
+
+C. West Coast Canal (Kerala)
+
+D. Narmada only
 
 <details>
 <summary>Show answer</summary>
@@ -383,7 +475,14 @@ Options: A. Ganga B. Brahmaputra C. West Coast Canal (Kerala) D. Narmada only
 </details>
 
 **Q14.** Igarka port is located in:
-Options: A. China B. Russia C. Uruguay D. Indonesia
+
+A. China
+
+B. Russia
+
+C. Uruguay
+
+D. Indonesia
 
 <details>
 <summary>Show answer</summary>
@@ -392,7 +491,14 @@ Options: A. China B. Russia C. Uruguay D. Indonesia
 </details>
 
 **Q15.** A natural harbour is best described as:
-Options: A. A dry dock alone B. A naturally sheltered deep inlet C. A crane yard alone D. A runway
+
+A. A dry dock alone
+
+B. A naturally sheltered deep inlet
+
+C. A crane yard alone
+
+D. A runway
 
 <details>
 <summary>Show answer</summary>
@@ -401,7 +507,14 @@ Options: A. A dry dock alone B. A naturally sheltered deep inlet C. A crane yard
 </details>
 
 **Q16.** JNPT is best known as:
-Options: A. A coal mine B. A major container port near Mumbai C. NER headquarters D. An expressway
+
+A. A coal mine
+
+B. A major container port near Mumbai
+
+C. NER headquarters
+
+D. An expressway
 
 <details>
 <summary>Show answer</summary>
@@ -410,7 +523,14 @@ Options: A. A coal mine B. A major container port near Mumbai C. NER headquarter
 </details>
 
 **Q17.** Which UP airport got international status on 24 June 2020?
-Options: A. Agra B. Prayagraj C. Gorakhpur D. Kushinagar
+
+A. Agra
+
+B. Prayagraj
+
+C. Gorakhpur
+
+D. Kushinagar
 
 <details>
 <summary>Show answer</summary>
@@ -419,7 +539,14 @@ Options: A. Agra B. Prayagraj C. Gorakhpur D. Kushinagar
 </details>
 
 **Q18.** India's first solar-powered airport is:
-Options: A. New Delhi B. Cochin C. Chennai D. Ahmedabad
+
+A. New Delhi
+
+B. Cochin
+
+C. Chennai
+
+D. Ahmedabad
 
 <details>
 <summary>Show answer</summary>
@@ -428,7 +555,14 @@ Options: A. New Delhi B. Cochin C. Chennai D. Ahmedabad
 </details>
 
 **Q19.** Motihari-Amlekhganj oil pipeline links:
-Options: A. India-Bhutan B. India-Nepal C. India-Bangladesh D. India-Myanmar
+
+A. India-Bhutan
+
+B. India-Nepal
+
+C. India-Bangladesh
+
+D. India-Myanmar
 
 <details>
 <summary>Show answer</summary>
@@ -437,7 +571,14 @@ Options: A. India-Bhutan B. India-Nepal C. India-Bangladesh D. India-Myanmar
 </details>
 
 **Q20.** PM Gati Shakti National Master Plan was launched in:
-Options: A. 2022 B. 2021 C. 2019 D. 2014
+
+A. 2022
+
+B. 2021
+
+C. 2019
+
+D. 2014
 
 <details>
 <summary>Show answer</summary>
@@ -446,7 +587,14 @@ Options: A. 2022 B. 2021 C. 2019 D. 2014
 </details>
 
 **Q21.** Gati Shakti: launched in 2022 + integrates seven engines.
-Options: A. Only the year statement B. Only the engines statement C. Both D. Neither
+
+A. Only the year statement
+
+B. Only the engines statement
+
+C. Both
+
+D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -455,7 +603,14 @@ Options: A. Only the year statement B. Only the engines statement C. Both D. Nei
 </details>
 
 **Q22.** Optical fibre transmits light energy mainly by:
-Options: A. Diffraction B. Scattering C. Total internal reflection D. Absorption only
+
+A. Diffraction
+
+B. Scattering
+
+C. Total internal reflection
+
+D. Absorption only
 
 <details>
 <summary>Show answer</summary>
@@ -464,7 +619,14 @@ Options: A. Diffraction B. Scattering C. Total internal reflection D. Absorption
 </details>
 
 **Q23.** Kolkata-Agartala containership (July 2020) used which Bangladesh port?
-Options: A. Benapole B. Payra C. Maloti D. Chattogram
+
+A. Benapole
+
+B. Payra
+
+C. Maloti
+
+D. Chattogram
 
 <details>
 <summary>Show answer</summary>
@@ -473,7 +635,14 @@ Options: A. Benapole B. Payra C. Maloti D. Chattogram
 </details>
 
 **Q24.** Railway museum dedicated in August 2020 is at:
-Options: A. Mysore B. Hubballi C. Silvasa D. Chittaranjan
+
+A. Mysore
+
+B. Hubballi
+
+C. Silvasa
+
+D. Chittaranjan
 
 <details>
 <summary>Show answer</summary>
@@ -482,7 +651,14 @@ Options: A. Mysore B. Hubballi C. Silvasa D. Chittaranjan
 </details>
 
 **Q25.** Western Dedicated Freight Corridor is framed as:
-Options: A. Only Assam link B. Dadri-JNPT C. Only Kerala link D. Atal Tunnel link
+
+A. Only Assam link
+
+B. Dadri-JNPT
+
+C. Only Kerala link
+
+D. Atal Tunnel link
 
 <details>
 <summary>Show answer</summary>
@@ -491,7 +667,14 @@ Options: A. Only Assam link B. Dadri-JNPT C. Only Kerala link D. Atal Tunnel lin
 </details>
 
 **Q26.** Blue Economy refers to:
-Options: A. Desert resources only B. Ocean resources with sustainability framing C. National Highways only D. Hospitals only
+
+A. Desert resources only
+
+B. Ocean resources with sustainability framing
+
+C. National Highways only
+
+D. Hospitals only
 
 <details>
 <summary>Show answer</summary>
@@ -500,7 +683,14 @@ Options: A. Desert resources only B. Ocean resources with sustainability framing
 </details>
 
 **Q27.** National Logistics Policy is designed to:
-Options: A. Replace MSP B. Complement PM Gati Shakti C. Replace Chipko D. Replace Project Tiger
+
+A. Replace MSP
+
+B. Complement PM Gati Shakti
+
+C. Replace Chipko
+
+D. Replace Project Tiger
 
 <details>
 <summary>Show answer</summary>
@@ -509,7 +699,14 @@ Options: A. Replace MSP B. Complement PM Gati Shakti C. Replace Chipko D. Replac
 </details>
 
 **Q28.** Rotterdam is correctly matched with:
-Options: A. China B. Netherlands C. Uruguay D. Russia
+
+A. China
+
+B. Netherlands
+
+C. Uruguay
+
+D. Russia
 
 <details>
 <summary>Show answer</summary>
@@ -518,7 +715,14 @@ Options: A. China B. Netherlands C. Uruguay D. Russia
 </details>
 
 **Q29.** An artificial harbour is:
-Options: A. Formed by wind alone B. An engineered sheltered basin C. A desert landform D. A glacier lake only
+
+A. Formed by wind alone
+
+B. An engineered sheltered basin
+
+C. A desert landform
+
+D. A glacier lake only
 
 <details>
 <summary>Show answer</summary>
@@ -527,7 +731,14 @@ Options: A. Formed by wind alone B. An engineered sheltered basin C. A desert la
 </details>
 
 **Q30.** FLY91 inaugural flight took off from:
-Options: A. Cochin International only as claim B. Manohar International Airport C. Kushinagar D. Hubballi
+
+A. Cochin International only as claim
+
+B. Manohar International Airport
+
+C. Kushinagar
+
+D. Hubballi
 
 <details>
 <summary>Show answer</summary>
@@ -536,7 +747,14 @@ Options: A. Cochin International only as claim B. Manohar International Airport 
 </details>
 
 **Q31.** Kandla primarily serves:
-Options: A. Only North-East India B. North-West India / Gujarat coast C. Only Nepal D. Only Ladakh
+
+A. Only North-East India
+
+B. North-West India / Gujarat coast
+
+C. Only Nepal
+
+D. Only Ladakh
 
 <details>
 <summary>Show answer</summary>
@@ -545,7 +763,14 @@ Options: A. Only North-East India B. North-West India / Gujarat coast C. Only Ne
 </details>
 
 **Q32.** Kolkata is distinctive among major ports because it is:
-Options: A. A mountain-pass port B. A riverine major port C. A salt-lake airport D. A metro-only terminal
+
+A. A mountain-pass port
+
+B. A riverine major port
+
+C. A salt-lake airport
+
+D. A metro-only terminal
 
 <details>
 <summary>Show answer</summary>
@@ -554,7 +779,14 @@ Options: A. A mountain-pass port B. A riverine major port C. A salt-lake airport
 </details>
 
 **Q33.** Communication differs from transport because it mainly moves:
-Options: A. The same things B. Information rather than people/goods C. Oil only D. Fibre poles only
+
+A. The same things
+
+B. Information rather than people/goods
+
+C. Oil only
+
+D. Fibre poles only
 
 <details>
 <summary>Show answer</summary>
@@ -563,7 +795,14 @@ Options: A. The same things B. Information rather than people/goods C. Oil only 
 </details>
 
 **Q34.** IWAI is concerned with:
-Options: A. Airports B. National waterways C. Bharatmala only D. Hospitals
+
+A. Airports
+
+B. National waterways
+
+C. Bharatmala only
+
+D. Hospitals
 
 <details>
 <summary>Show answer</summary>
@@ -572,7 +811,14 @@ Options: A. Airports B. National waterways C. Bharatmala only D. Hospitals
 </details>
 
 **Q35.** NS-EW corridor awareness pair is:
-Options: A. Purvanchal only B. Srinagar-Kanyakumari and Porbandar-Silchar C. Pipelines only D. Igarka only
+
+A. Purvanchal only
+
+B. Srinagar-Kanyakumari and Porbandar-Silchar
+
+C. Pipelines only
+
+D. Igarka only
 
 <details>
 <summary>Show answer</summary>
@@ -581,7 +827,14 @@ Options: A. Purvanchal only B. Srinagar-Kanyakumari and Porbandar-Silchar C. Pip
 </details>
 
 **Q36.** Does Uttar Pradesh have a major seaport of its own?
-Options: A. Yes - Kandla is in UP B. No - it uses inland links and other states' coastal gateways C. Yes - JNPT is in Lucknow D. Yes - Igarka is in UP
+
+A. Yes - Kandla is in UP
+
+B. No - it uses inland links and other states' coastal gateways
+
+C. Yes - JNPT is in Lucknow
+
+D. Yes - Igarka is in UP
 
 <details>
 <summary>Show answer</summary>
@@ -590,7 +843,14 @@ Options: A. Yes - Kandla is in UP B. No - it uses inland links and other states'
 </details>
 
 **Q37.** Rail Vikas Nigam Limited (RVNL) functions under:
-Options: A. Ministry of Culture only B. Ministry of Railways C. MoEFCC D. RBI
+
+A. Ministry of Culture only
+
+B. Ministry of Railways
+
+C. MoEFCC
+
+D. RBI
 
 <details>
 <summary>Show answer</summary>
@@ -599,7 +859,14 @@ Options: A. Ministry of Culture only B. Ministry of Railways C. MoEFCC D. RBI
 </details>
 
 **Q38.** "Mass transport" is listed as one engine of:
-Options: A. Chipko B. PM Gati Shakti C. MSP D. Ramsar
+
+A. Chipko
+
+B. PM Gati Shakti
+
+C. MSP
+
+D. Ramsar
 
 <details>
 <summary>Show answer</summary>
@@ -608,7 +875,14 @@ Options: A. Chipko B. PM Gati Shakti C. MSP D. Ramsar
 </details>
 
 **Q39.** Montevideo is correctly matched with:
-Options: A. China B. Uruguay C. Netherlands D. Russia
+
+A. China
+
+B. Uruguay
+
+C. Netherlands
+
+D. Russia
 
 <details>
 <summary>Show answer</summary>
@@ -617,7 +891,14 @@ Options: A. China B. Uruguay C. Netherlands D. Russia
 </details>
 
 **Q40.** Key feature of an expressway is:
-Options: A. No access control B. Access-controlled high-speed movement C. Being a cart track D. Being NW-3
+
+A. No access control
+
+B. Access-controlled high-speed movement
+
+C. Being a cart track
+
+D. Being NW-3
 
 <details>
 <summary>Show answer</summary>
@@ -626,7 +907,14 @@ Options: A. No access control B. Access-controlled high-speed movement C. Being 
 </details>
 
 **Q41.** Hubballi is headquarters of which railway zone?
-Options: A. Northern B. South Western Railway C. North Eastern D. South Eastern
+
+A. Northern
+
+B. South Western Railway
+
+C. North Eastern
+
+D. South Eastern
 
 <details>
 <summary>Show answer</summary>
@@ -639,12 +927,21 @@ Options: A. Northern B. South Western Railway C. North Eastern D. South Eastern
 ## Complete PYQ Bank
 
 **Instructions:** Answers are under `<details>`. Read the full stem before opening.
+
 **Q1. UPPCS Prelims 2025, Q150**
 Which of the following pairs is/are correctly matched? (Railway Zone) - (Headquarter)
+
 1. Northern Railway - New Delhi
 2. North Eastern Railway - Gorakhpur
 3. South Eastern Railway - Cuttack
-Options: A. Only 1 and 2 B. Only 3 C. Only 2 and 3 D. Only 1
+
+A. Only 1 and 2
+
+B. Only 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -656,9 +953,17 @@ Options: A. Only 1 and 2 B. Only 3 C. Only 2 and 3 D. Only 1
 
 **Q2. UPPCS Prelims 2025, Q136**
 With reference to the New Pamban Bridge, which of the following statements is/are correct?
+
 1. It has been constructed by Rail Vikas Nigam Limited, a Navratna PSU under the Ministry of Railways.
 2. It is India's first vertical lift railway sea bridge.
-Options: A. Only 2 B. Neither 1 nor 2 C. Both 1 and 2 D. Only 1
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -670,9 +975,17 @@ Options: A. Only 2 B. Neither 1 nor 2 C. Both 1 and 2 D. Only 1
 
 **Q3. UPPCS Prelims 2025, Q44**
 With reference to the Atal Tunnel, which of the following statements is/are correct?
+
 1. This tunnel is the world's longest highway tunnel.
 2. This tunnel is built in the Pir Panjal range of the Himalayas.
-Options: A. Only 2 B. Neither 1 nor 2 C. Both 1 and 2 D. Only 1
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -684,9 +997,17 @@ Options: A. Only 2 B. Neither 1 nor 2 C. Both 1 and 2 D. Only 1
 
 **Q4. UPPCS Prelims 2024, Q90**
 With reference to "FLY91", which of the following statements is/are correct?
+
 1. It is a newly launched airline in India.
 2. Its inaugural flight took off from Manohar International Airport on 18th March, 2024.
-Options: A. Only 2 B. Neither 1 nor 2 C. Only 1 D. Both 1 and 2
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Both 1 and 2
 
 <details>
 <summary>Show answer</summary>
@@ -698,9 +1019,17 @@ Options: A. Only 2 B. Neither 1 nor 2 C. Only 1 D. Both 1 and 2
 
 **Q5. UPPCS Prelims 2023, Q136**
 With reference to PM Gati Shakti Scheme, which of the following statements is/are correct?
+
 1. PM Gati Shakti National Master Plan was launched in 2022.
 2. It integrates seven engines including roads, railways, airports, ports, mass transport, waterways and logistics infrastructure.
-Options: A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -712,7 +1041,14 @@ Options: A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 **Q6. UPPCS Prelims 2023, Q71**
 How many railway stations have been identified for modernization under the Amrit Bharat Station Scheme in Uttar Pradesh as on February 2023?
-Options: A. 57 B. 82 C. 123 D. 149
+
+A. 57
+
+B. 82
+
+C. 123
+
+D. 149
 
 <details>
 <summary>Show answer</summary>
@@ -724,7 +1060,14 @@ Options: A. 57 B. 82 C. 123 D. 149
 
 **Q7. UPPCS Prelims 2023, Q60**
 Which of the following (Port - Country) is not correctly matched?
-Options: A. Rotterdam - Netherlands B. Igarka - China C. Montevideo - Uruguay D. Jakarta - Indonesia
+
+A. Rotterdam - Netherlands
+
+B. Igarka - China
+
+C. Montevideo - Uruguay
+
+D. Jakarta - Indonesia
 
 <details>
 <summary>Show answer</summary>
@@ -736,7 +1079,14 @@ Options: A. Rotterdam - Netherlands B. Igarka - China C. Montevideo - Uruguay D.
 
 **Q8. UPPCS Prelims 2022, Q27**
 The first airport powered by solar energy in India is-
-Options: A. Chennai B. Cochin C. Ahmedabad D. New Delhi
+
+A. Chennai
+
+B. Cochin
+
+C. Ahmedabad
+
+D. New Delhi
 
 <details>
 <summary>Show answer</summary>
@@ -748,7 +1098,14 @@ Options: A. Chennai B. Cochin C. Ahmedabad D. New Delhi
 
 **Q9. UPPCS Prelims 2020, Q71**
 First ever containership from Kolkata Port to Agartala was sent through which one of the following Ports of Bangladesh in July 2020?
-Options: A. Benapole B. Maloti C. Payra D. Chattogram (Chittagong)
+
+A. Benapole
+
+B. Maloti
+
+C. Payra
+
+D. Chattogram (Chittagong)
 
 <details>
 <summary>Show answer</summary>
@@ -760,7 +1117,14 @@ Options: A. Benapole B. Maloti C. Payra D. Chattogram (Chittagong)
 
 **Q10. UPPCS Prelims 2020, Q61**
 Which of the following Airports in Uttar Pradesh has been granted International Status on 24th June, 2020 by Union Cabinet of India?
-Options: A. Agra Airport B. Prayagraj Airport C. Gorakhpur Airport D. Kushinagar Airport
+
+A. Agra Airport
+
+B. Prayagraj Airport
+
+C. Gorakhpur Airport
+
+D. Kushinagar Airport
 
 <details>
 <summary>Show answer</summary>
@@ -772,7 +1136,14 @@ Options: A. Agra Airport B. Prayagraj Airport C. Gorakhpur Airport D. Kushinagar
 
 **Q11. UPPCS Prelims 2020, Q31**
 In August 2020, Railway Museum in India was dedicated to the nation at which of the following places?
-Options: A. Hubballi B. Mysore C. Silvasa D. Chittaranjan
+
+A. Hubballi
+
+B. Mysore
+
+C. Silvasa
+
+D. Chittaranjan
 
 <details>
 <summary>Show answer</summary>
@@ -784,7 +1155,14 @@ Options: A. Hubballi B. Mysore C. Silvasa D. Chittaranjan
 
 **Q12. UPPCS Prelims 2019, Q125**
 The phenomenon used in optical fibre for transmission of light energy is
-Options: A. Total internal reflection B. Diffraction C. Scattering D. Refraction
+
+A. Total internal reflection
+
+B. Diffraction
+
+C. Scattering
+
+D. Refraction
 
 <details>
 <summary>Show answer</summary>
@@ -796,7 +1174,14 @@ Options: A. Total internal reflection B. Diffraction C. Scattering D. Refraction
 
 **Q13. UPPCS Prelims 2019, Q34**
 Cross border oil pipeline inaugurated by P.M. Modi in September 2019 connects which of the following cities?
-Options: A. Motihari and Amlekhganj B. Darbhanga and Amlekhganj C. Motihari and Kathmandu D. None of these
+
+A. Motihari and Amlekhganj
+
+B. Darbhanga and Amlekhganj
+
+C. Motihari and Kathmandu
+
+D. None of these
 
 <details>
 <summary>Show answer</summary>
@@ -808,7 +1193,14 @@ Options: A. Motihari and Amlekhganj B. Darbhanga and Amlekhganj C. Motihari and 
 
 **Q14. UPPCS Prelims 2018, Q3**
 'Purvanchal Express Way' in Uttar Pradesh will not pass through which of the following cities?
-Options: A. Faizabad B. Basti C. Azamgarh D. Mau
+
+A. Faizabad
+
+B. Basti
+
+C. Azamgarh
+
+D. Mau
 
 <details>
 <summary>Show answer</summary>
@@ -821,16 +1213,28 @@ Options: A. Faizabad B. Basti C. Azamgarh D. Mau
 **PYQ15. UPPCS Prelims 2025, Q50**
 Match List-I with List-II and choose the correct answer using the code given below the lists.
 **List-I (Port)**
+
 A. Paradip
+
 B. Tuticorin
+
 C. Kakinada
+
 D. Alappuzha
 **List-II (State)**
+
 1. Tamil Nadu
 2. Kerala
 3. Odisha
 4. Andhra Pradesh
-Options: A. A-1, B-3, C-4, D-2 B. A-3, B-1, C-2, D-4 C. A-3, B-1, C-4, D-2 D. A-1, B-3, C-2, D-4
+
+A. A-1, B-3, C-4, D-2
+
+B. A-3, B-1, C-2, D-4
+
+C. A-3, B-1, C-4, D-2
+
+D. A-1, B-3, C-2, D-4
 
 <details>
 <summary>Show answer</summary>

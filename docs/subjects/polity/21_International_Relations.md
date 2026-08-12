@@ -952,7 +952,10 @@ A. IV, I, II, III  B. I, IV, II, III  C. IV, II, I, III  D. I, II, III, IV
 
 </details>
 
-**Q25.** **Assertion (A):** NAM was founded at Bandung in 1955.  
+**Q25.**
+
+**Assertion (A):** NAM was founded at Bandung in 1955.
+
 **Reason (R):** Bandung was an Afro-Asian conference.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -1077,7 +1080,10 @@ A. 1954  B. **1971**  C. 1961  D. 1991
 
 </details>
 
-**Q38.** **Assertion (A):** Panchsheel has five principles including peaceful co-existence.  
+**Q38.**
+
+**Assertion (A):** Panchsheel has five principles including peaceful co-existence.
+
 **Reason (R):** Therefore China never fought India.  
 A. Both true and R explains A  B. Both true, R not explanation  C. **A true R false**  D. A false R true
 
@@ -1208,7 +1214,10 @@ A. Indian Military Organisation  B. **International Maritime Organization**  C. 
 
 </details>
 
-**Q52.** **Assertion (A):** NATO invoked Article 5 after 9/11.  
+**Q52.**
+
+**Assertion (A):** NATO invoked Article 5 after 9/11.
+
 **Reason (R):** India is a NATO member and was therefore bound to send troops.  
 A. Both true and R explains A  B. Both true, R not explanation  C. **A true R false**  D. A false R true
 
@@ -1429,7 +1438,10 @@ A. 1954  B. 1961  C. **2012**  D. 2024
 
 </details>
 
-**Q76.** **Assertion (A):** India has a nuclear No-First-Use doctrine.  
+**Q76.**
+
+**Assertion (A):** India has a nuclear No-First-Use doctrine.
+
 **Reason (R):** Therefore India is an NPT nuclear-weapon State.  
 A. Both true and R explains A  B. Both true, R not explanation  C. **A true R false**  D. A false R true
 
@@ -1533,7 +1545,10 @@ A. General Assembly  B. **WHO**  C. ICJ  D. Secretariat
 
 </details>
 
-**Q87.** **Assertion (A):** IMF and World Bank are called Bretton Woods twins.  
+**Q87.**
+
+**Assertion (A):** IMF and World Bank are called Bretton Woods twins.
+
 **Reason (R):** World Bank headquarters is in New York.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. A false R true
 
@@ -1689,7 +1704,10 @@ A. **Only 1**  B. Only 2  C. Both  D. Neither
 
 </details>
 
-**Q102.** **Assertion (A):** ICJ can hear disputes between States.  
+**Q102.**
+
+**Assertion (A):** ICJ can hear disputes between States.
+
 **Reason (R):** ICJ is the same body as the International Criminal Court.  
 A. Both true and R explains A  B. Both true, R not explanation  C. **A true R false**  D. A false R true
 
@@ -1774,7 +1792,10 @@ A. 1954  B. **1967**  C. 1985  D. 1997
 
 </details>
 
-**Q111.** **Assertion (A):** India is a member of ASEAN.  
+**Q111.**
+
+**Assertion (A):** India is a member of ASEAN.
+
 **Reason (R):** India is a member of BIMSTEC.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -1906,7 +1927,10 @@ A. India, Japan, UK, USA  B. **India, Japan, USA, Australia**  C. India, China, 
 
 </details>
 
-**Q125.** **Assertion (A):** AUKUS includes India.  
+**Q125.**
+
+**Assertion (A):** AUKUS includes India.
+
 **Reason (R):** Quad includes India.  
 A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
 
@@ -2011,7 +2035,10 @@ A. Haridwar  B. Johannesburg  C. Jaffna  D. **Jamnagar**
 
 </details>
 
-**Q136.** **Assertion (A):** Kulbhushan Jadhav’s case went to the International Court of Justice.  
+**Q136.**
+
+**Assertion (A):** Kulbhushan Jadhav’s case went to the International Court of Justice.
+
 **Reason (R):** India is a State Party to the Rome Statute of the ICC.  
 A. Both true and R explains A  B. Both true, R not explanation  C. **A true R false**  D. A false R true
 
@@ -2137,7 +2164,10 @@ A. 1997 Bangkok meeting  B. **5th Summit, Colombo 2022**  C. SAARC 2014  D. G20 
 
 </details>
 
-**Q149.** **Assertion (A):** India is not a member of APEC.  
+**Q149.**
+
+**Assertion (A):** India is not a member of APEC.
+
 **Reason (R):** India is not a member of the G20.  
 A. Both true and R explains A  B. Both true, R not explanation  C. **A true R false**  D. A false R true
 

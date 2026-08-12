@@ -84,7 +84,13 @@ Ripon 1882 = Father of local self-government
 
 In India the First Municipal Corporation was set up in which one among the following places?
 
-Options: A. Calcutta  B. Madras  C. Bombay  D. Delhi
+A. Calcutta
+
+B. Madras
+
+C. Bombay
+
+D. Delhi
 
 <details>
 <summary>Show answer</summary>
@@ -166,7 +172,13 @@ Match List-I with List-II:
 **List-I** A. Lord Dalhousie  B. Lord Curzon  C. Lord William Bentinck  D. Lord Cornwallis  
 **List-II** 1. Permanent Settlement of Bengal  2. Prohibition of Practice of Sati  3. Partition of Bengal  4. Doctrine of Lapse
 
-Options: A. 4 3 1 2  B. 3 4 2 1  C. 3 4 1 2  D. 4 3 2 1
+A. 4 3 1 2
+
+B. 3 4 2 1
+
+C. 3 4 1 2
+
+D. 4 3 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -219,7 +231,13 @@ Options: A. 4 3 1 2  B. 3 4 2 1  C. 3 4 1 2  D. 4 3 2 1
 
 In which year the book 'Poverty and Un-British Rule in India' was published?
 
-Options: A. 1900 A.D.  B. 1901 A.D.  C. 1902 A.D.  D. 1903 A.D.
+A. 1900 A.D.
+
+B. 1901 A.D.
+
+C. 1902 A.D.
+
+D. 1903 A.D.
 
 <details>
 <summary>Show answer</summary>
@@ -232,7 +250,15 @@ Options: A. 1900 A.D.  B. 1901 A.D.  C. 1902 A.D.  D. 1903 A.D.
 
 "The Rise and Growth of Economic Nationalism in India" was written by
 
-Options: A. Partha Sarthi Gupta  B. S Gopal  C. B. R. Nanda  D. Bipin Chandra
+A. Partha Sarthi Gupta
+
+B. S Gopal
+
+C. 
+
+B. R. Nanda
+
+D. Bipin Chandra
 
 <details>
 <summary>Show answer</summary>
@@ -280,7 +306,13 @@ Consider the following events and arrange them in correct chronological order.
 3. Indigo Revolt  
 4. Second Anglo-Afghan War
 
-Options: A. 1, 3, 4, 2  B. 3, 1, 2, 4  C. 3, 1, 4, 2  D. 1, 3, 2, 4
+A. 1, 3, 4, 2
+
+B. 3, 1, 2, 4
+
+C. 3, 1, 4, 2
+
+D. 1, 3, 2, 4
 
 <details>
 <summary>Show answer</summary>
@@ -386,7 +418,13 @@ D. (A) is false but (R) is true
 **List-I** A. Permanent Settlement  B. Ryotwari  C. Mahalwari  
 **List-II** 1. Munro  2. Cornwallis  3. Holt Mackenzie
 
-Options: A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
+A. 2 1 3
+
+B. 1 2 3
+
+C. 2 3 1
+
+D. 3 1 2
 
 <details>
 <summary>Show answer</summary>
@@ -402,7 +440,13 @@ Options: A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
 1. It was introduced by Cornwallis in 1793 in Bengal, Bihar and Orissa.  
 2. The cultivating ryot was declared proprietor of the soil.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -419,7 +463,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Mahalwari — Bengal Presidency  
 3. Permanent Settlement — fixed demand
 
-Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
+A. Only 2
+
+B. Only 1 and 2
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -432,7 +482,13 @@ Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
 
 **Q5.** *Poverty and Un-British Rule in India* was published in
 
-Options: A. 1900  B. 1901  C. 1902  D. 1854
+A. 1900
+
+B. 1901
+
+C. 1902
+
+D. 1854
 
 <details>
 <summary>Show answer</summary>
@@ -448,7 +504,13 @@ Options: A. 1900  B. 1901  C. 1902  D. 1854
 1. Thomas Munro is its chief Madras architect.  
 2. The ryot was full freehold owner and revenue was fixed forever.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -461,7 +523,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q7.** Arrange: 1. Uniform penny postage  2. First railway  3. Experimental telegraph (Calcutta)  4. Hastings postal start
 
-Options: A. 4, 3, 2, 1  B. 4, 2, 3, 1  C. 4, 3, 1, 2  D. 3, 4, 2, 1
+A. 4, 3, 2, 1
+
+B. 4, 2, 3, 1
+
+C. 4, 3, 1, 2
+
+D. 3, 4, 2, 1
 
 <details>
 <summary>Show answer</summary>
@@ -498,7 +566,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 Which of the statements given above is/are correct?
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -514,7 +588,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I** A. First railway  B. Penny postage  C. Telegraph experiment  D. Post Office Savings Bank  
 **List-II** 1. 1854  2. 1853  3. 1882  4. 1851
 
-Options: A. 2 1 4 3  B. 2 1 3 4  C. 1 2 4 3  D. 2 4 1 3
+A. 2 1 4 3
+
+B. 2 1 3 4
+
+C. 1 2 4 3
+
+D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -530,7 +610,13 @@ Options: A. 2 1 4 3  B. 2 1 3 4  C. 1 2 4 3  D. 2 4 1 3
 1. Holt Mackenzie’s 1822 report shaped it in the North-Western Provinces.  
 2. Revenue demand was permanently fixed like the 1793 Settlement.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -547,7 +633,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Deindustrialization — decline of handicrafts  
 3. Drain of Wealth — same as deindustrialization
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -560,7 +652,13 @@ Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
 
 **Q13.** "The Rise and Growth of Economic Nationalism in India" was written by
 
-Options: A. Dadabhai Naoroji  B. R.C. Dutt  C. Bipin Chandra  D. M.G. Ranade
+A. Dadabhai Naoroji
+
+B. R.C. Dutt
+
+C. Bipin Chandra
+
+D. M.G. Ranade
 
 <details>
 <summary>Show answer</summary>
@@ -576,7 +674,13 @@ Options: A. Dadabhai Naoroji  B. R.C. Dutt  C. Bipin Chandra  D. M.G. Ranade
 1. Cash land revenue pushed peasants into market crops.  
 2. It generally ended famines by raising peasant incomes.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -589,7 +693,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q15.** Arrange: 1. Indigo Revolt  2. Awadh annexation  3. Ilbert Bill  4. Second Anglo-Afghan War
 
-Options: A. 2, 1, 4, 3  B. 1, 2, 4, 3  C. 2, 1, 3, 4  D. 2, 4, 1, 3
+A. 2, 1, 4, 3
+
+B. 1, 2, 4, 3
+
+C. 2, 1, 3, 4
+
+D. 2, 4, 1, 3
 
 <details>
 <summary>Show answer</summary>
@@ -607,7 +717,13 @@ Options: A. 2, 1, 4, 3  B. 1, 2, 4, 3  C. 2, 1, 3, 4  D. 2, 4, 1, 3
 
 Which of the statements given above is/are correct?
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -642,7 +758,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 1. O'Shaughnessy pioneered experiments in India.  
 2. Dalhousie invented the electric telegraph.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -658,7 +780,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. Dual Government was ended by Hastings in 1772.  
 2. Open competition for the civil service began with the Charter Act of 1853.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -674,7 +802,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **List-I (Crop/event)** A. Indigo Revolt  B. Raw cotton exports  C. Home Charges  
 **List-II** 1. Drain channel  2. 1859–60  3. Deindustrialization link
 
-Options: A. 2 3 1  B. 2 1 3  C. 3 2 1  D. 1 2 3
+A. 2 3 1
+
+B. 2 1 3
+
+C. 3 2 1
+
+D. 1 2 3
 
 <details>
 <summary>Show answer</summary>
@@ -690,7 +824,13 @@ Options: A. 2 3 1  B. 2 1 3  C. 3 2 1  D. 1 2 3
 1. Mayo (1870) is associated with financial decentralisation.  
 2. Ripon (1882) issued the local self-government Resolution.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -707,7 +847,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Penny postage — 1774  
 3. Post Office Savings Bank — 1882
 
-Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
+A. Only 2
+
+B. Only 1 and 2
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -723,7 +869,13 @@ Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
 1. Under Ryotwari the state retained ultimate ownership of land.  
 2. Under Permanent Settlement zamindars were recognised as proprietors.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -739,7 +891,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. Machine-made British textiles undercut Indian handlooms.  
 2. India mainly exported finished cloth and imported raw cotton in the nineteenth century.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -752,7 +910,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q25.** Mahalwari was mainly applied in which of the following?
 
-Options: A. Bengal and Orissa  B. Madras Presidency only  C. North-Western Provinces and Punjab  D. Hyderabad State
+A. Bengal and Orissa
+
+B. Madras Presidency only
+
+C. North-Western Provinces and Punjab
+
+D. Hyderabad State
 
 <details>
 <summary>Show answer</summary>
@@ -768,7 +932,13 @@ Options: A. Bengal and Orissa  B. Madras Presidency only  C. North-Western Provi
 **List-I** A. Dalhousie  B. Curzon  C. Bentinck  D. Cornwallis  
 **List-II** 1. Permanent Settlement  2. Sati  3. Partition of Bengal  4. Doctrine of Lapse
 
-Options: A. 4 3 1 2  B. 3 4 2 1  C. 3 4 1 2  D. 4 3 2 1
+A. 4 3 1 2
+
+B. 3 4 2 1
+
+C. 3 4 1 2
+
+D. 4 3 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -781,7 +951,13 @@ Options: A. 4 3 1 2  B. 3 4 2 1  C. 3 4 1 2  D. 4 3 2 1
 
 **Q27.** The Sunset Law is associated with
 
-Options: A. Ryotwari revision every 30 years  B. Sale of defaulting zamindari estates under Permanent Settlement  C. Mahalwari lambardar appointment  D. Ripon’s municipal tax
+A. Ryotwari revision every 30 years
+
+B. Sale of defaulting zamindari estates under Permanent Settlement
+
+C. Mahalwari lambardar appointment
+
+D. Ripon’s municipal tax
 
 <details>
 <summary>Show answer</summary>
@@ -813,7 +989,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q29.** Who wrote *The Economic History of India* as a critique of colonial exploitation?
 
-Options: A. Dadabhai Naoroji  B. R.C. Dutt  C. Bipan Chandra  D. Gopal Krishna Gokhale
+A. Dadabhai Naoroji
+
+B. R.C. Dutt
+
+C. Bipan Chandra
+
+D. Gopal Krishna Gokhale
 
 <details>
 <summary>Show answer</summary>
@@ -829,7 +1011,13 @@ Options: A. Dadabhai Naoroji  B. R.C. Dutt  C. Bipan Chandra  D. Gopal Krishna G
 1. They were Indian revenues spent in Britain (pensions, India Office, debt interest).  
 2. Nationalists treated them as a major Drain item.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -846,7 +1034,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Holt Mackenzie — Permanent Settlement 1793  
 3. Thomas Munro — Madras Ryotwari
 
-Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
+A. Only 2
+
+B. Only 1 and 2
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -864,7 +1058,13 @@ Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
 
 Which of the statements given above is/are correct?
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -877,7 +1077,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q33.** Arrange: 1. Ripon Resolution on local self-government  2. Permanent Settlement  3. Dual Government ended  4. First passenger railway
 
-Options: A. 3, 2, 4, 1  B. 2, 3, 4, 1  C. 3, 2, 1, 4  D. 3, 4, 2, 1
+A. 3, 2, 4, 1
+
+B. 2, 3, 4, 1
+
+C. 3, 2, 1, 4
+
+D. 3, 4, 2, 1
 
 <details>
 <summary>Show answer</summary>
@@ -893,7 +1099,13 @@ Options: A. 3, 2, 4, 1  B. 2, 3, 4, 1  C. 3, 2, 1, 4  D. 3, 4, 2, 1
 1. India was turned into a supplier of raw materials and a market for British goods.  
 2. Traditional handicrafts expanded throughout the nineteenth century under free trade.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -909,7 +1121,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. Warren Hastings began a Company postal system in 1774.  
 2. Uniform penny postage came in 1854 under Dalhousie.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -941,7 +1159,13 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 **Q37.** UP’s colonial land-revenue background is closest to which system?
 
-Options: A. Permanent Settlement of Bengal  B. Ryotwari of Madras  C. Mahalwari of the North-Western Provinces  D. Inam settlement of Hyderabad only
+A. Permanent Settlement of Bengal
+
+B. Ryotwari of Madras
+
+C. Mahalwari of the North-Western Provinces
+
+D. Inam settlement of Hyderabad only
 
 <details>
 <summary>Show answer</summary>
@@ -959,7 +1183,13 @@ Options: A. Permanent Settlement of Bengal  B. Ryotwari of Madras  C. Mahalwari 
 
 Which of the statements given above is/are correct?
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -976,7 +1206,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Bengal Famine (dual govt era) — 1770  
 3. Post Office Savings Bank — 1853
 
-Options: A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -992,7 +1228,13 @@ Options: A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
 1. 1833 created the Governor-General of India.  
 2. After 1858 a Secretary of State for India controlled Indian affairs from London.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1091,7 +1333,13 @@ D. (A) is true, but (R) is false
 
 In which year the book 'Poverty and Un-British Rule in India' was published?
 
-Options: A. 1900 A.D.  B. 1901 A.D.  C. 1902 A.D.  D. 1903 A.D.
+A. 1900 A.D.
+
+B. 1901 A.D.
+
+C. 1902 A.D.
+
+D. 1903 A.D.
 
 <details>
 <summary>Show answer</summary>
@@ -1104,7 +1352,13 @@ Options: A. 1900 A.D.  B. 1901 A.D.  C. 1902 A.D.  D. 1903 A.D.
 
 In India the First Municipal Corporation was set up in which one among the following places?
 
-Options: A. Calcutta  B. Madras  C. Bombay  D. Delhi
+A. Calcutta
+
+B. Madras
+
+C. Bombay
+
+D. Delhi
 
 <details>
 <summary>Show answer</summary>
@@ -1144,7 +1398,15 @@ D. (A) is false but (R) is true
 
 "The Rise and Growth of Economic Nationalism in India" was written by
 
-Options: A. Partha Sarthi Gupta  B. S Gopal  C. B. R. Nanda  D. Bipin Chandra
+A. Partha Sarthi Gupta
+
+B. S Gopal
+
+C. 
+
+B. R. Nanda
+
+D. Bipin Chandra
 
 <details>
 <summary>Show answer</summary>

@@ -615,7 +615,10 @@ A. 66th  B. 62nd  C. 61st  D. 63rd
 
 </details>
 
-**Q4.** **Assertion (A):** There is no separate electoral roll for any caste or religion for Lok Sabha elections.  
+**Q4.**
+
+**Assertion (A):** There is no separate electoral roll for any caste or religion for Lok Sabha elections.
+
 **Reason (R):** Article 325 provides one general electoral roll for every territorial constituency.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -688,7 +691,10 @@ A. 1 and 2  B. 2 and 3  C. Only 3  D. Only 1
 
 </details>
 
-**Q10.** **Assertion (A):** The Delimitation Commission is not the same body as the Election Commission.  
+**Q10.**
+
+**Assertion (A):** The Delimitation Commission is not the same body as the Election Commission.
+
 **Reason (R):** Delimitation is done under a separate Act; its orders cannot be questioned in court under Article 329.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -822,7 +828,10 @@ A. Election Commission of India  B. State Legislature  C. State Election Commiss
 
 </details>
 
-**Q21.** **Assertion (A):** India does not use a party-list proportional system for the Lok Sabha.  
+**Q21.**
+
+**Assertion (A):** India does not use a party-list proportional system for the Lok Sabha.
+
 **Reason (R):** Lok Sabha members are chosen by first-past-the-post from territorial constituencies.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -921,7 +930,10 @@ A. 2-4-3-1  B. 2-3-4-1  C. 4-2-3-1  D. 2-4-1-3
 
 </details>
 
-**Q30.** **Assertion (A):** A Delimitation Commission order cannot be challenged in the High Court as an ordinary statute.  
+**Q30.**
+
+**Assertion (A):** A Delimitation Commission order cannot be challenged in the High Court as an ordinary statute.
+
 **Reason (R):** Article 329 bars judicial interference in delimitation and allotment of seats, subject to the election-petition route for the election itself.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1037,7 +1049,10 @@ D. National Voters’ Day — 25 January
 
 </details>
 
-**Q40.** **Assertion (A):** Universal adult franchise in India is not limited by literacy or property.  
+**Q40.**
+
+**Assertion (A):** Universal adult franchise in India is not limited by literacy or property.
+
 **Reason (R):** Article 326 makes adult suffrage the basis of LS and Assembly elections, with age as the principal qualification.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1095,7 +1110,10 @@ A. Six months  B. One year  C. Two years  D. Three months
 
 </details>
 
-**Q45.** **Assertion (A):** The 48-hour campaign silence is not only a clause of the MCC.  
+**Q45.**
+
+**Assertion (A):** The 48-hour campaign silence is not only a clause of the MCC.
+
 **Reason (R):** Section 126 of the RPA 1951 statutorily restricts electioneering in that window.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1204,7 +1222,10 @@ A. A-3, B-1, C-2, D-4  B. A-3, B-1, C-4, D-2  C. A-1, B-3, C-4, D-2  D. A-3, B-4
 
 </details>
 
-**Q54.** **Assertion (A):** A one-third split of a legislature party no longer saves members from defection.  
+**Q54.**
+
+**Assertion (A):** A one-third split of a legislature party no longer saves members from defection.
+
 **Reason (R):** The 91st Amendment retained only the two-thirds merger exception.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1305,7 +1326,10 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 </details>
 
-**Q64.** **Assertion (A):** Electoral bonds are not a valid instrument of party funding today.  
+**Q64.**
+
+**Assertion (A):** Electoral bonds are not a valid instrument of party funding today.
+
 **Reason (R):** The Supreme Court struck them down in 2024.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1407,7 +1431,10 @@ D. Languages — Eighth Schedule
 
 </details>
 
-**Q73.** **Assertion (A):** A recognised State party is entitled to a reserved symbol in that State.  
+**Q73.**
+
+**Assertion (A):** A recognised State party is entitled to a reserved symbol in that State.
+
 **Reason (R):** Free symbols are meant for unrecognised parties and independents.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1533,7 +1560,10 @@ D. Eight star campaigners
 
 </details>
 
-**Q85.** **Assertion (A):** Article 329 does not apply to a dispute about the election of the President.  
+**Q85.**
+
+**Assertion (A):** Article 329 does not apply to a dispute about the election of the President.
+
 **Reason (R):** Article 71 sends that dispute to the Supreme Court.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  

@@ -378,7 +378,14 @@ Southern **hard-rock / Vindhyan** belt, not JH-scale iron or **coking** coal. Si
 ## Practice Zone — 56 Questions (2025 Pattern Mix)
 
 **Q1.** Which two states were the leading producers of iron ore in India as per the Ministry of Mines Annual Report 2021–22 framing used in UPPCS?
-Options: A. Jharkhand and Karnataka B. Odisha and Karnataka C. Odisha and Chhattisgarh D. Chhattisgarh and Jharkhand
+
+A. Jharkhand and Karnataka
+
+B. Odisha and Karnataka
+
+C. Odisha and Chhattisgarh
+
+D. Chhattisgarh and Jharkhand
 
 <details>
 <summary>Show answer</summary>
@@ -389,7 +396,14 @@ Options: A. Jharkhand and Karnataka B. Odisha and Karnataka C. Odisha and Chhatt
 ---
 
 **Q2.** Match the iron-ore mines with states: Gurumahisani, Bailadila, Noamundi, Kudremukh.
-Options: A. CG, OD, KA, JH B. OD, CG, JH, KA C. JH, CG, OD, KA D. OD, JH, CG, KA
+
+A. CG, OD, KA, JH
+
+B. OD, CG, JH, KA
+
+C. JH, CG, OD, KA
+
+D. OD, JH, CG, KA
 
 <details>
 <summary>Show answer</summary>
@@ -400,7 +414,14 @@ Options: A. CG, OD, KA, JH B. OD, CG, JH, KA C. JH, CG, OD, KA D. OD, JH, CG, KA
 ---
 
 **Q3.** Mount Newman is famous for which mineral?
-Options: A. Manganese B. Bauxite C. Copper D. Iron ore
+
+A. Manganese
+
+B. Bauxite
+
+C. Copper
+
+D. Iron ore
 
 <details>
 <summary>Show answer</summary>
@@ -411,7 +432,14 @@ Options: A. Manganese B. Bauxite C. Copper D. Iron ore
 ---
 
 **Q4.** Postmasburg in South Africa is a major producer of
-Options: A. Uranium B. Mica C. Manganese D. Bauxite
+
+A. Uranium
+
+B. Mica
+
+C. Manganese
+
+D. Bauxite
 
 <details>
 <summary>Show answer</summary>
@@ -422,7 +450,14 @@ Options: A. Uranium B. Mica C. Manganese D. Bauxite
 ---
 
 **Q5.** Which pair is NOT correctly matched?
-Options: A. BALCO — Korba B. HINDALCO — Renukoot C. MALCO — Chennai D. INDAL — Hirakud
+
+A. BALCO — Korba
+
+B. HINDALCO — Renukoot
+
+C. MALCO — Chennai
+
+D. INDAL — Hirakud
 
 <details>
 <summary>Show answer</summary>
@@ -433,7 +468,14 @@ Options: A. BALCO — Korba B. HINDALCO — Renukoot C. MALCO — Chennai D. IND
 ---
 
 **Q6.** Khetri is famous for
-Options: A. Gold B. Copper C. Mica D. Diamond
+
+A. Gold
+
+B. Copper
+
+C. Mica
+
+D. Diamond
 
 <details>
 <summary>Show answer</summary>
@@ -444,7 +486,14 @@ Options: A. Gold B. Copper C. Mica D. Diamond
 ---
 
 **Q7.** Consider the following: 1. Malanjkhand is in Madhya Pradesh. 2. Singhbhum copper belt is in Jharkhand.
-Options: A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -455,7 +504,14 @@ Options: A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither
 ---
 
 **Q8.** Panna is famous for
-Options: A. Gold B. Diamond C. Mica D. Chromite
+
+A. Gold
+
+B. Diamond
+
+C. Mica
+
+D. Chromite
 
 <details>
 <summary>Show answer</summary>
@@ -466,7 +522,14 @@ Options: A. Gold B. Diamond C. Mica D. Chromite
 ---
 
 **Q9.** Sukinda valley is known for
-Options: A. Bauxite B. Chromite C. Gypsum D. Rock phosphate
+
+A. Bauxite
+
+B. Chromite
+
+C. Gypsum
+
+D. Rock phosphate
 
 <details>
 <summary>Show answer</summary>
@@ -477,7 +540,14 @@ Options: A. Bauxite B. Chromite C. Gypsum D. Rock phosphate
 ---
 
 **Q10.** Zawar mines are associated with
-Options: A. Iron ore B. Copper C. Zinc and lead D. Manganese
+
+A. Iron ore
+
+B. Copper
+
+C. Zinc and lead
+
+D. Manganese
 
 <details>
 <summary>Show answer</summary>
@@ -488,7 +558,14 @@ Options: A. Iron ore B. Copper C. Zinc and lead D. Manganese
 ---
 
 **Q11.** Jaduguda is known for
-Options: A. Thorium sands B. Uranium C. Lithium D. Tin
+
+A. Thorium sands
+
+B. Uranium
+
+C. Lithium
+
+D. Tin
 
 <details>
 <summary>Show answer</summary>
@@ -499,7 +576,14 @@ Options: A. Thorium sands B. Uranium C. Lithium D. Tin
 ---
 
 **Q12.** With reference to mineral resources: 1. Lithium inferred resources in Reasi (J&K). 2. India import-dependent for lithium, nickel and cobalt.
-Options: A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -510,7 +594,14 @@ Options: A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither
 ---
 
 **Q13.** Monazite beach sands are especially important for
-Options: A. Iron B. Thorium C. Copper D. Coal
+
+A. Iron
+
+B. Thorium
+
+C. Copper
+
+D. Coal
 
 <details>
 <summary>Show answer</summary>
@@ -521,7 +612,14 @@ Options: A. Iron B. Thorium C. Copper D. Coal
 ---
 
 **Q14.** Which coal pair is NOT correctly matched?
-Options: A. Raniganj — West Bengal B. Talcher — Odisha C. Ramgarh — Jharkhand D. Maolong — Arunachal Pradesh
+
+A. Raniganj — West Bengal
+
+B. Talcher — Odisha
+
+C. Ramgarh — Jharkhand
+
+D. Maolong — Arunachal Pradesh
 
 <details>
 <summary>Show answer</summary>
@@ -532,7 +630,14 @@ Options: A. Raniganj — West Bengal B. Talcher — Odisha C. Ramgarh — Jharkh
 ---
 
 **Q15.** Match: Appalachian, Lancashire, Ruhr, Kuzbass.
-Options: A. USA, England, Germany, Russia B. England, USA, Russia, Germany C. USA, Germany, England, Russia D. Russia, England, Germany, USA
+
+A. USA, England, Germany, Russia
+
+B. England, USA, Russia, Germany
+
+C. USA, Germany, England, Russia
+
+D. Russia, England, Germany, USA
 
 <details>
 <summary>Show answer</summary>
@@ -543,7 +648,14 @@ Options: A. USA, England, Germany, Russia B. England, USA, Russia, Germany C. US
 ---
 
 **Q16.** The famous Ruhr coalfield is in
-Options: A. France B. Great Britain C. Germany D. Russia
+
+A. France
+
+B. Great Britain
+
+C. Germany
+
+D. Russia
 
 <details>
 <summary>Show answer</summary>
@@ -554,7 +666,14 @@ Options: A. France B. Great Britain C. Germany D. Russia
 ---
 
 **Q17.** Largest coal-producing centre of Ukraine among the usual options is
-Options: A. Kyiv B. Donetsk C. Kharkiv D. Zaporizhzhia
+
+A. Kyiv
+
+B. Donetsk
+
+C. Kharkiv
+
+D. Zaporizhzhia
 
 <details>
 <summary>Show answer</summary>
@@ -565,7 +684,14 @@ Options: A. Kyiv B. Donetsk C. Kharkiv D. Zaporizhzhia
 ---
 
 **Q18.** With reference to NTPC Singrauli: 1. Northern Chhattisgarh. 2. NTPC’s oldest unit.
-Options: A. Only 1 B. Only 2 C. Both D. Neither
+
+A. Only 1
+
+B. Only 2
+
+C. Both
+
+D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -576,7 +702,14 @@ Options: A. Only 1 B. Only 2 C. Both D. Neither
 ---
 
 **Q19.** Talcher coalfield is located in which valley framing?
-Options: A. Damodar B. Son C. Godavari D. Mahanadi
+
+A. Damodar
+
+B. Son
+
+C. Godavari
+
+D. Mahanadi
 
 <details>
 <summary>Show answer</summary>
@@ -587,7 +720,14 @@ Options: A. Damodar B. Son C. Godavari D. Mahanadi
 ---
 
 **Q20.** Main component of natural gas is
-Options: A. Butane B. Ethane C. Methane D. Propane
+
+A. Butane
+
+B. Ethane
+
+C. Methane
+
+D. Propane
 
 <details>
 <summary>Show answer</summary>
@@ -598,7 +738,14 @@ Options: A. Butane B. Ethane C. Methane D. Propane
 ---
 
 **Q21.** CNG is mainly composed of
-Options: A. Methane B. Butane C. Hexane D. Benzene
+
+A. Methane
+
+B. Butane
+
+C. Hexane
+
+D. Benzene
 
 <details>
 <summary>Show answer</summary>
@@ -609,7 +756,14 @@ Options: A. Methane B. Butane C. Hexane D. Benzene
 ---
 
 **Q22.** Which country–oil field pair is NOT correctly matched?
-Options: A. Iran — Haft Kel B. Kuwait — Kashagan C. Saudi Arabia — Dhahran D. Iraq — Zubair
+
+A. Iran — Haft Kel
+
+B. Kuwait — Kashagan
+
+C. Saudi Arabia — Dhahran
+
+D. Iraq — Zubair
 
 <details>
 <summary>Show answer</summary>
@@ -620,7 +774,14 @@ Options: A. Iran — Haft Kel B. Kuwait — Kashagan C. Saudi Arabia — Dhahran
 ---
 
 **Q23.** Black Revolution is related to
-Options: A. Fertilizers B. Horticulture C. Petroleum D. Oilseeds
+
+A. Fertilizers
+
+B. Horticulture
+
+C. Petroleum
+
+D. Oilseeds
 
 <details>
 <summary>Show answer</summary>
@@ -631,7 +792,14 @@ Options: A. Fertilizers B. Horticulture C. Petroleum D. Oilseeds
 ---
 
 **Q24.** Flyash pollution is caused by
-Options: A. Oil refining B. Fertilizer industry C. Thermal power plant D. Mining alone
+
+A. Oil refining
+
+B. Fertilizer industry
+
+C. Thermal power plant
+
+D. Mining alone
 
 <details>
 <summary>Show answer</summary>
@@ -642,7 +810,14 @@ Options: A. Oil refining B. Fertilizer industry C. Thermal power plant D. Mining
 ---
 
 **Q25.** A non-renewable source of energy is
-Options: A. Solar B. Wind C. Biogas D. Petroleum
+
+A. Solar
+
+B. Wind
+
+C. Biogas
+
+D. Petroleum
 
 <details>
 <summary>Show answer</summary>
@@ -653,7 +828,14 @@ Options: A. Solar B. Wind C. Biogas D. Petroleum
 ---
 
 **Q26.** Shivanasamudra and Kalpakkam are respectively important for
-Options: A. Nuclear and Hydel B. Hydel and Nuclear C. Thermal and Solar D. Solar and Nuclear
+
+A. Nuclear and Hydel
+
+B. Hydel and Nuclear
+
+C. Thermal and Solar
+
+D. Solar and Nuclear
 
 <details>
 <summary>Show answer</summary>
@@ -664,7 +846,14 @@ Options: A. Nuclear and Hydel B. Hydel and Nuclear C. Thermal and Solar D. Solar
 ---
 
 **Q27.** With reference to hydel in Northern India: 1. Himalaya has enormous potential. 2. Eastern UP and Bihar constrained because Himalaya to their north lies in Nepal.
-Options: A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -675,7 +864,14 @@ Options: A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither
 ---
 
 **Q28.** Match nuclear plants: Kudankulam, Kakrapar, Kaiga, Rawatbhata.
-Options: A. GJ, TN, RJ, KA B. TN, GJ, KA, RJ C. TN, RJ, GJ, KA D. KA, GJ, TN, RJ
+
+A. GJ, TN, RJ, KA
+
+B. TN, GJ, KA, RJ
+
+C. TN, RJ, GJ, KA
+
+D. KA, GJ, TN, RJ
 
 <details>
 <summary>Show answer</summary>
@@ -686,7 +882,14 @@ Options: A. GJ, TN, RJ, KA B. TN, GJ, KA, RJ C. TN, RJ, GJ, KA D. KA, GJ, TN, RJ
 ---
 
 **Q29.** Narora nuclear plant is in
-Options: A. Rajasthan B. Gujarat C. Uttar Pradesh D. Maharashtra
+
+A. Rajasthan
+
+B. Gujarat
+
+C. Uttar Pradesh
+
+D. Maharashtra
 
 <details>
 <summary>Show answer</summary>
@@ -697,7 +900,14 @@ Options: A. Rajasthan B. Gujarat C. Uttar Pradesh D. Maharashtra
 ---
 
 **Q30.** First Union Territory to run 100% on solar energy is
-Options: A. Chandigarh B. Puducherry C. Diu D. Andaman and Nicobar
+
+A. Chandigarh
+
+B. Puducherry
+
+C. Diu
+
+D. Andaman and Nicobar
 
 <details>
 <summary>Show answer</summary>
@@ -708,7 +918,14 @@ Options: A. Chandigarh B. Puducherry C. Diu D. Andaman and Nicobar
 ---
 
 **Q31.** First airport powered by solar energy in India is
-Options: A. Chennai B. New Delhi C. Ahmedabad D. Cochin
+
+A. Chennai
+
+B. New Delhi
+
+C. Ahmedabad
+
+D. Cochin
 
 <details>
 <summary>Show answer</summary>
@@ -719,7 +936,14 @@ Options: A. Chennai B. New Delhi C. Ahmedabad D. Cochin
 ---
 
 **Q32.** Solar energy is converted into electric energy through
-Options: A. Dry cells B. Photovoltaic cells C. Leclanché cells D. Fuel cells only
+
+A. Dry cells
+
+B. Photovoltaic cells
+
+C. Leclanché cells
+
+D. Fuel cells only
 
 <details>
 <summary>Show answer</summary>
@@ -730,7 +954,14 @@ Options: A. Dry cells B. Photovoltaic cells C. Leclanché cells D. Fuel cells on
 ---
 
 **Q33.** Largest tidal energy producing coast among standard options is
-Options: A. Kerala Coast B. Mannar Coast C. Khambhat Coast D. North Circars Coast
+
+A. Kerala Coast
+
+B. Mannar Coast
+
+C. Khambhat Coast
+
+D. North Circars Coast
 
 <details>
 <summary>Show answer</summary>
@@ -741,7 +972,14 @@ Options: A. Kerala Coast B. Mannar Coast C. Khambhat Coast D. North Circars Coas
 ---
 
 **Q34.** Which is NOT an example of biomass energy source?
-Options: A. Wood B. Gobar C. Nuclear energy D. Crop residue (typical biomass)
+
+A. Wood
+
+B. Gobar
+
+C. Nuclear energy
+
+D. Crop residue (typical biomass)
 
 <details>
 <summary>Show answer</summary>
@@ -752,7 +990,14 @@ Options: A. Wood B. Gobar C. Nuclear energy D. Crop residue (typical biomass)
 ---
 
 **Q35.** Which energy source is NOT ultimately derived from the Sun?
-Options: A. Wind B. Biomass C. Geothermal D. Hydro (rainfall-driven)
+
+A. Wind
+
+B. Biomass
+
+C. Geothermal
+
+D. Hydro (rainfall-driven)
 
 <details>
 <summary>Show answer</summary>
@@ -763,7 +1008,14 @@ Options: A. Wind B. Biomass C. Geothermal D. Hydro (rainfall-driven)
 ---
 
 **Q36.** Assertion (A): Ahmedabad is the largest cotton textile centre in India. Reason (R): Ahmedabad lies in a major cotton-growing region.
-Options: A. Both true, R explains A B. Both true, R not explanation C. A true R false D. A false R true
+
+A. Both true, R explains A
+
+B. Both true, R not explanation
+
+C. A true R false
+
+D. A false R true
 
 <details>
 <summary>Show answer</summary>
@@ -774,7 +1026,14 @@ Options: A. Both true, R explains A B. Both true, R not explanation C. A true R 
 ---
 
 **Q37.** Match: Osaka, Detroit, Cuba, St Petersburg.
-Options: A. Auto, cotton, ships, cigar B. Cotton, auto, cigar, ships C. Ships, cigar, auto, cotton D. Cigar, ships, cotton, auto
+
+A. Auto, cotton, ships, cigar
+
+B. Cotton, auto, cigar, ships
+
+C. Ships, cigar, auto, cotton
+
+D. Cigar, ships, cotton, auto
 
 <details>
 <summary>Show answer</summary>
@@ -785,7 +1044,14 @@ Options: A. Auto, cotton, ships, cigar B. Cotton, auto, cigar, ships C. Ships, c
 ---
 
 **Q38.** Match refineries: Nayara, Manali, Numaligarh, Tatipaka.
-Options: A. TN, GJ, AP, AS B. GJ, TN, AS, AP C. AS, TN, GJ, AP D. GJ, AS, TN, AP
+
+A. TN, GJ, AP, AS
+
+B. GJ, TN, AS, AP
+
+C. AS, TN, GJ, AP
+
+D. GJ, AS, TN, AP
 
 <details>
 <summary>Show answer</summary>
@@ -796,7 +1062,14 @@ Options: A. TN, GJ, AP, AS B. GJ, TN, AS, AP C. AS, TN, GJ, AP D. GJ, AS, TN, AP
 ---
 
 **Q39.** Match agencies to HQ: ONGC, MECL, NMDC, NALCO.
-Options: A. Hyderabad, Delhi, Bhubaneswar, Nagpur B. Delhi, Nagpur, Hyderabad, Bhubaneswar C. Nagpur, Delhi, Hyderabad, Bhubaneswar D. Delhi, Hyderabad, Nagpur, Bhubaneswar
+
+A. Hyderabad, Delhi, Bhubaneswar, Nagpur
+
+B. Delhi, Nagpur, Hyderabad, Bhubaneswar
+
+C. Nagpur, Delhi, Hyderabad, Bhubaneswar
+
+D. Delhi, Hyderabad, Nagpur, Bhubaneswar
 
 <details>
 <summary>Show answer</summary>
@@ -807,7 +1080,14 @@ Options: A. Hyderabad, Delhi, Bhubaneswar, Nagpur B. Delhi, Nagpur, Hyderabad, B
 ---
 
 **Q40.** Which industrial region is mineral-based heavy industry?
-Options: A. Mumbai–Pune B. Hugli C. Chotanagpur D. Kollam–Thiruvananthapuram
+
+A. Mumbai–Pune
+
+B. Hugli
+
+C. Chotanagpur
+
+D. Kollam–Thiruvananthapuram
 
 <details>
 <summary>Show answer</summary>
@@ -818,7 +1098,14 @@ Options: A. Mumbai–Pune B. Hugli C. Chotanagpur D. Kollam–Thiruvananthapuram
 ---
 
 **Q41.** Gurgaon–Delhi–Meerut industrial region links NCR with
-Options: A. Eastern Assam B. Western Uttar Pradesh C. Coastal Odisha D. Vidarbha only
+
+A. Eastern Assam
+
+B. Western Uttar Pradesh
+
+C. Coastal Odisha
+
+D. Vidarbha only
 
 <details>
 <summary>Show answer</summary>
@@ -829,7 +1116,14 @@ Options: A. Eastern Assam B. Western Uttar Pradesh C. Coastal Odisha D. Vidarbha
 ---
 
 **Q42.** DMIC stands for
-Options: A. Delhi–Meerut Industrial Corridor B. Delhi–Mumbai Industrial Corridor C. Dedicated Mumbai Industrial Corporation D. Daman–Mumbai Industrial Corridor
+
+A. Delhi–Meerut Industrial Corridor
+
+B. Delhi–Mumbai Industrial Corridor
+
+C. Dedicated Mumbai Industrial Corporation
+
+D. Daman–Mumbai Industrial Corridor
 
 <details>
 <summary>Show answer</summary>
@@ -840,7 +1134,14 @@ Options: A. Delhi–Meerut Industrial Corridor B. Delhi–Mumbai Industrial Corr
 ---
 
 **Q43.** Dedicated Freight Corridors are primarily meant for
-Options: A. Only passenger suburban trains B. Freight traffic C. Only metro rail D. Only air cargo
+
+A. Only passenger suburban trains
+
+B. Freight traffic
+
+C. Only metro rail
+
+D. Only air cargo
 
 <details>
 <summary>Show answer</summary>
@@ -851,7 +1152,14 @@ Options: A. Only passenger suburban trains B. Freight traffic C. Only metro rail
 ---
 
 **Q44.** Consider the following about Uttar Pradesh: 1. It has limestone and silica awareness. 2. It is India’s leading iron-ore state.
-Options: A. Only 1 B. Only 2 C. Both D. Neither
+
+A. Only 1
+
+B. Only 2
+
+C. Both
+
+D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -862,7 +1170,14 @@ Options: A. Only 1 B. Only 2 C. Both D. Neither
 ---
 
 **Q45.** HINDALCO plant at Renukoot is in
-Options: A. Jharkhand B. Chhattisgarh C. Uttar Pradesh D. Odisha
+
+A. Jharkhand
+
+B. Chhattisgarh
+
+C. Uttar Pradesh
+
+D. Odisha
 
 <details>
 <summary>Show answer</summary>
@@ -873,7 +1188,14 @@ Options: A. Jharkhand B. Chhattisgarh C. Uttar Pradesh D. Odisha
 ---
 
 **Q46.** Important mineral of Pegu Yoma (Myanmar) is
-Options: A. Mineral oil B. Tin C. Copper D. Silver
+
+A. Mineral oil
+
+B. Tin
+
+C. Copper
+
+D. Silver
 
 <details>
 <summary>Show answer</summary>
@@ -884,7 +1206,14 @@ Options: A. Mineral oil B. Tin C. Copper D. Silver
 ---
 
 **Q47.** Which energy source produces NO atmospheric pollution among the following?
-Options: A. Coal B. Petroleum C. Nuclear D. Solar
+
+A. Coal
+
+B. Petroleum
+
+C. Nuclear
+
+D. Solar
 
 <details>
 <summary>Show answer</summary>
@@ -895,7 +1224,14 @@ Options: A. Coal B. Petroleum C. Nuclear D. Solar
 ---
 
 **Q48.** Assertion (A): Fuse wire often uses lead–tin alloy. Reason (R): Lead–tin alloy has a higher melting point than copper and aluminium.
-Options: A. Both true, R explains A B. Both true, R not explanation C. A true, R false D. A false, R true
+
+A. Both true, R explains A
+
+B. Both true, R not explanation
+
+C. A true, R false
+
+D. A false, R true
 
 <details>
 <summary>Show answer</summary>
@@ -906,7 +1242,14 @@ Options: A. Both true, R explains A B. Both true, R not explanation C. A true, R
 ---
 
 **Q49.** Which is correctly matched?
-Options: A. Digboi — Gujarat B. Mumbai High — onshore Rajasthan C. Ankleshwar — Gujarat D. Numaligarh — Tamil Nadu
+
+A. Digboi — Gujarat
+
+B. Mumbai High — onshore Rajasthan
+
+C. Ankleshwar — Gujarat
+
+D. Numaligarh — Tamil Nadu
 
 <details>
 <summary>Show answer</summary>
@@ -917,7 +1260,14 @@ Options: A. Digboi — Gujarat B. Mumbai High — onshore Rajasthan C. Ankleshwa
 ---
 
 **Q50.** SEZs are best described as
-Options: A. Only agricultural mandis B. Special zones with incentives for export-oriented industry C. Only coal mining leases D. Only wildlife buffers
+
+A. Only agricultural mandis
+
+B. Special zones with incentives for export-oriented industry
+
+C. Only coal mining leases
+
+D. Only wildlife buffers
 
 <details>
 <summary>Show answer</summary>
@@ -1001,7 +1351,14 @@ Options: A. Only agricultural mandis B. Special zones with incentives for export
 
 **PYQ1. UPPCS Prelims 2018, Q130**
 Which of the following is the main component of the natural gas?
-Options: A. Ethane B. Butane C. Carbon mono-oxide D. Methane
+
+A. Ethane
+
+B. Butane
+
+C. Carbon mono-oxide
+
+D. Methane
 
 <details>
 <summary>Show answer</summary>
@@ -1013,7 +1370,14 @@ Options: A. Ethane B. Butane C. Carbon mono-oxide D. Methane
 
 **PYQ2. UPPCS Prelims 2018, Q142**
 Which of the following energy sources produces NO atmospheric pollution?
-Options: A. Nuclear energy B. Solar energy C. Petroleum energy D. Coal energy
+
+A. Nuclear energy
+
+B. Solar energy
+
+C. Petroleum energy
+
+D. Coal energy
 
 <details>
 <summary>Show answer</summary>
@@ -1025,7 +1389,14 @@ Options: A. Nuclear energy B. Solar energy C. Petroleum energy D. Coal energy
 
 **PYQ3. UPPCS Prelims 2019, Q64**
 The First Union Territory of India to run 100 percent on solar energy is
-Options: A. Andaman-Nicobar B. Chandigarh C. Diu D. Puducherry
+
+A. Andaman-Nicobar
+
+B. Chandigarh
+
+C. Diu
+
+D. Puducherry
 
 <details>
 <summary>Show answer</summary>
@@ -1038,16 +1409,28 @@ Options: A. Andaman-Nicobar B. Chandigarh C. Diu D. Puducherry
 **PYQ4. UPPCS Prelims 2019, Q81**
 Match List-I with List-II and select the correct answer using the codes given below the lists:
 **List-I (Coal Fields)**
+
 A. Talcher
+
 B. Karanpura
+
 C. Singrauli
+
 D. Singareni
 **List-II (Located)**
+
 1. Damodar Valley
 2. Son Valley
 3. Godavari Valley
 4. Mahanadi Valley
-Options: A. 4 1 2 3 B. 3 2 1 4 C. 2 4 3 1 D. 1 3 2 4
+
+A. 4 1 2 3
+
+B. 3 2 1 4
+
+C. 2 4 3 1
+
+D. 1 3 2 4
 
 <details>
 <summary>Show answer</summary>
@@ -1059,9 +1442,18 @@ Options: A. 4 1 2 3 B. 3 2 1 4 C. 2 4 3 1 D. 1 3 2 4
 
 **PYQ5. UPPCS Prelims 2020, Q58**
 Given below are two statements, one is labelled as Assertion (A) and other as Reason (R):
+
 **Assertion (A):** Ahmedabad is the largest centre of cotton textile industry in India.
+
 **Reason (R):** Ahmedabad is located in Major cotton growing region of India, so it has no problem of raw materials.
-Options: A. Both (A) and (R) are true and (R) is the correct explanation of (A) B. Both (A) and (R) are true but (R) is not the correct explanation of (A) C. (A) is true but (R) is false D. (A) is false but (R) is true
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true but (R) is not the correct explanation of (A)
+
+C. (A) is true but (R) is false
+
+D. (A) is false but (R) is true
 
 <details>
 <summary>Show answer</summary>
@@ -1074,11 +1466,19 @@ Options: A. Both (A) and (R) are true and (R) is the correct explanation of (A) 
 **PYQ6. UPPCS Prelims 2020, Q64**
 Which of the following are NOT correctly matched?
 **(Mineral) (Mining City)**
+
 1. Copper – Chitradurga
 2. Iron ore – Ballari
 3. Manganese – Bhilwara
 4. Bauxite – Katni
-Options: A. 1 and 2 B. 2 and 3 C. 1 and 3 D. 2 and 4
+
+A. 1 and 2
+
+B. 2 and 3
+
+C. 1 and 3
+
+D. 2 and 4
 
 <details>
 <summary>Show answer</summary>
@@ -1090,7 +1490,14 @@ Options: A. 1 and 2 B. 2 and 3 C. 1 and 3 D. 2 and 4
 
 **PYQ7. UPPCS Prelims 2020, Q84**
 Postmasburg and its adjacent areas of South Africa is major producer of which of the following minerals?
-Options: A. Uranium B. Bauxite C. Manganese D. Mica
+
+A. Uranium
+
+B. Bauxite
+
+C. Manganese
+
+D. Mica
 
 <details>
 <summary>Show answer</summary>
@@ -1102,9 +1509,17 @@ Options: A. Uranium B. Bauxite C. Manganese D. Mica
 
 **PYQ8. UPPCS Prelims 2021, Q89**
 With reference to NTPC unit at Singrauli, which of the following statement/s is/are correct?
+
 1. It is situated in Northern part of Chhattisgarh State.
 2. It is NTPC's oldest unit.
-Options: A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1116,7 +1531,14 @@ Options: A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 **PYQ9. UPPCS Prelims 2021, Q124**
 A non-renewable source of energy is
-Options: A. Solar energy B. Petroleum C. Wind energy D. Biogas
+
+A. Solar energy
+
+B. Petroleum
+
+C. Wind energy
+
+D. Biogas
 
 <details>
 <summary>Show answer</summary>
@@ -1128,7 +1550,14 @@ Options: A. Solar energy B. Petroleum C. Wind energy D. Biogas
 
 **PYQ10. UPPCS Prelims 2021, Q143**
 Flyash pollution is caused by
-Options: A. Oil refining B. Fertilizer industry C. Thermal power plant D. Mining
+
+A. Oil refining
+
+B. Fertilizer industry
+
+C. Thermal power plant
+
+D. Mining
 
 <details>
 <summary>Show answer</summary>
@@ -1141,16 +1570,28 @@ Options: A. Oil refining B. Fertilizer industry C. Thermal power plant D. Mining
 **PYQ11. UPPCS Prelims 2021, Q149**
 Match List-I with List-II and select the correct answer using the codes given below the lists.
 **List-I (Mineral Exploration Agencies)**
+
 A. Oil and Natural Gas Commission
+
 B. Mineral Exploration Corporation Ltd.
+
 C. National Mineral Development Corporation
+
 D. National Aluminium Company Limited
 **List-II (Headquarters)**
+
 1. Bhubaneswar
 2. Hyderabad
 3. Nagpur
 4. New Delhi
-Options: A. 4 2 3 1 B. 1 2 4 3 C. 4 3 2 1 D. 2 3 4 1
+
+A. 4 2 3 1
+
+B. 1 2 4 3
+
+C. 4 3 2 1
+
+D. 2 3 4 1
 
 <details>
 <summary>Show answer</summary>
@@ -1162,11 +1603,19 @@ Options: A. 4 2 3 1 B. 1 2 4 3 C. 4 3 2 1 D. 2 3 4 1
 
 **PYQ12. UPPCS Prelims 2022, Q2**
 Which two of the following States are the leading producers of iron ore in India as per the Annual Report of the Ministry of Mines 2021–22?
+
 1. Odisha
 2. Chhattisgarh
 3. Jharkhand
 4. Karnataka
-Options: A. 2 and 4 B. 1 and 4 C. 1 and 3 D. 1 and 2
+
+A. 2 and 4
+
+B. 1 and 4
+
+C. 1 and 3
+
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
@@ -1178,7 +1627,14 @@ Options: A. 2 and 4 B. 1 and 4 C. 1 and 3 D. 1 and 2
 
 **PYQ13. UPPCS Prelims 2022, Q19**
 Which among the following compounds is the main constituent of natural gas?
-Options: A. Butane B. Hexane C. Benzene D. Methane
+
+A. Butane
+
+B. Hexane
+
+C. Benzene
+
+D. Methane
 
 <details>
 <summary>Show answer</summary>
@@ -1190,7 +1646,14 @@ Options: A. Butane B. Hexane C. Benzene D. Methane
 
 **PYQ14. UPPCS Prelims 2022, Q20**
 Which of the following coasts is the largest tidal energy producing area in India?
-Options: A. North Circars Coast B. Mannar Coast C. Khambhat Coast D. Kerala Coast
+
+A. North Circars Coast
+
+B. Mannar Coast
+
+C. Khambhat Coast
+
+D. Kerala Coast
 
 <details>
 <summary>Show answer</summary>
@@ -1202,7 +1665,14 @@ Options: A. North Circars Coast B. Mannar Coast C. Khambhat Coast D. Kerala Coas
 
 **PYQ15. UPPCS Prelims 2022, Q27**
 The first airport powered by solar energy in India is—
-Options: A. Chennai B. Cochin C. Ahmedabad D. New Delhi
+
+A. Chennai
+
+B. Cochin
+
+C. Ahmedabad
+
+D. New Delhi
 
 <details>
 <summary>Show answer</summary>
@@ -1214,7 +1684,14 @@ Options: A. Chennai B. Cochin C. Ahmedabad D. New Delhi
 
 **PYQ16. UPPCS Prelims 2022, Q52**
 Which one of the following is NOT correctly matched?
-Options: A. Madras Aluminium Company Limited (MALCO) — Chennai B. Bharat Aluminium Company Limited (BALCO) — Korba C. Hindustan Aluminium Corporation Limited (HINDALCO) — Renukoot D. Indian Aluminium Company Limited (INDAL) — Hirakud
+
+A. Madras Aluminium Company Limited (MALCO) — Chennai
+
+B. Bharat Aluminium Company Limited (BALCO) — Korba
+
+C. Hindustan Aluminium Corporation Limited (HINDALCO) — Renukoot
+
+D. Indian Aluminium Company Limited (INDAL) — Hirakud
 
 <details>
 <summary>Show answer</summary>
@@ -1227,16 +1704,28 @@ Options: A. Madras Aluminium Company Limited (MALCO) — Chennai B. Bharat Alumi
 **PYQ17. UPPCS Prelims 2022, Q57**
 Match List-I with List-II and select the correct answer from the code given below.
 **List-I (Centre)**
+
 A. Osaka
+
 B. Detroit
+
 C. Cuba
+
 D. St. Petersburg
 **List-II (Industry)**
+
 1. Cigar
 2. Ship building
 3. Cotton textile
 4. Automobile
-Options: A. A-2, B-1, C-4, D-3 B. A-4, B-3, C-2, D-1 C. A-1, B-2, C-3, D-4 D. A-3, B-4, C-1, D-2
+
+A. A-2, B-1, C-4, D-3
+
+B. A-4, B-3, C-2, D-1
+
+C. A-1, B-2, C-3, D-4
+
+D. A-3, B-4, C-1, D-2
 
 <details>
 <summary>Show answer</summary>
@@ -1248,7 +1737,14 @@ Options: A. A-2, B-1, C-4, D-3 B. A-4, B-3, C-2, D-1 C. A-1, B-2, C-3, D-4 D. A-
 
 **PYQ18. UPPCS Prelims 2022, Q69**
 Which one of the following is NOT an example of biomass energy source?
-Options: A. Coal B. Nuclear energy C. Gobar (dung) D. Wood
+
+A. Coal
+
+B. Nuclear energy
+
+C. Gobar (dung)
+
+D. Wood
 
 <details>
 <summary>Show answer</summary>
@@ -1260,7 +1756,14 @@ Options: A. Coal B. Nuclear energy C. Gobar (dung) D. Wood
 
 **PYQ19. UPPCS Prelims 2022, Q70**
 Which among the following is an important mineral of the Pegu Yoma region of Myanmar?
-Options: A. Mineral oil B. Tin C. Copper D. Silver
+
+A. Mineral oil
+
+B. Tin
+
+C. Copper
+
+D. Silver
 
 <details>
 <summary>Show answer</summary>
@@ -1272,7 +1775,14 @@ Options: A. Mineral oil B. Tin C. Copper D. Silver
 
 **PYQ20. UPPCS Prelims 2022, Q112**
 The famous 'Ruhr coalfield' is situated in which of the following countries?
-Options: A. Great Britain B. Germany C. Russia D. France
+
+A. Great Britain
+
+B. Germany
+
+C. Russia
+
+D. France
 
 <details>
 <summary>Show answer</summary>
@@ -1284,7 +1794,14 @@ Options: A. Great Britain B. Germany C. Russia D. France
 
 **PYQ21. UPPCS Prelims 2022, Q113**
 Compressed Natural Gas (CNG) is mainly composed of—
-Options: A. Methane B. Propane C. Ethane D. Butane
+
+A. Methane
+
+B. Propane
+
+C. Ethane
+
+D. Butane
 
 <details>
 <summary>Show answer</summary>
@@ -1296,7 +1813,14 @@ Options: A. Methane B. Propane C. Ethane D. Butane
 
 **PYQ22. UPPCS Prelims 2022, Q132**
 Solar energy is converted into electric energy through—
-Options: A. Dry cells B. Leclanché cells C. Voltaic cells D. Photovoltaic cells
+
+A. Dry cells
+
+B. Leclanché cells
+
+C. Voltaic cells
+
+D. Photovoltaic cells
 
 <details>
 <summary>Show answer</summary>
@@ -1309,16 +1833,28 @@ Options: A. Dry cells B. Leclanché cells C. Voltaic cells D. Photovoltaic cells
 **PYQ23. UPPCS Prelims 2022, Q136**
 Match List-I with List-II and select the correct answer from the code given below.
 **List-I (Revolution)**
+
 A. Golden Revolution
+
 B. Grey Revolution
+
 C. Yellow Revolution
+
 D. Black Revolution
 **List-II (Related with)**
+
 1. Oilseed production
 2. Horticulture and honey
 3. Petroleum production
 4. Fertilizers
-Options: A. A-2, B-4, C-1, D-3 B. A-2, B-3, C-4, D-1 C. A-1, B-2, C-3, D-4 D. A-4, B-2, C-1, D-3
+
+A. A-2, B-4, C-1, D-3
+
+B. A-2, B-3, C-4, D-1
+
+C. A-1, B-2, C-3, D-4
+
+D. A-4, B-2, C-1, D-3
 
 <details>
 <summary>Show answer</summary>
@@ -1330,7 +1866,14 @@ Options: A. A-2, B-4, C-1, D-3 B. A-2, B-3, C-4, D-1 C. A-1, B-2, C-3, D-4 D. A-
 
 **PYQ24. UPPCS Prelims 2022, Q139**
 Most of the sources of energy we use represent stored solar energy. Which of the following is NOT ultimately derived from the Sun's energy?
-Options: A. Biomass energy B. Nuclear energy C. Wind energy D. Geothermal energy
+
+A. Biomass energy
+
+B. Nuclear energy
+
+C. Wind energy
+
+D. Geothermal energy
 
 <details>
 <summary>Show answer</summary>
@@ -1342,7 +1885,14 @@ Options: A. Biomass energy B. Nuclear energy C. Wind energy D. Geothermal energy
 
 **PYQ25. UPPCS Prelims 2023, Q58**
 Shivanasamudra and Kalpakkam are respectively important for—
-Options: A. Hydel Power and Nuclear Energy B. Thermal Power and Nuclear Energy C. Nuclear Energy and Hydel Power D. Solar Power and Nuclear Energy
+
+A. Hydel Power and Nuclear Energy
+
+B. Thermal Power and Nuclear Energy
+
+C. Nuclear Energy and Hydel Power
+
+D. Solar Power and Nuclear Energy
 
 <details>
 <summary>Show answer</summary>
@@ -1354,7 +1904,14 @@ Options: A. Hydel Power and Nuclear Energy B. Thermal Power and Nuclear Energy C
 
 **PYQ26. UPPCS Prelims 2023, Q69**
 Which one of the following is the largest coal-producing centre of Ukraine?
-Options: A. Zaporizhzhia B. Kharkiv C. Donetsk D. Kyiv
+
+A. Zaporizhzhia
+
+B. Kharkiv
+
+C. Donetsk
+
+D. Kyiv
 
 <details>
 <summary>Show answer</summary>
@@ -1366,7 +1923,14 @@ Options: A. Zaporizhzhia B. Kharkiv C. Donetsk D. Kyiv
 
 **PYQ27. UPPCS Prelims 2023, Q70**
 "Mount Newman" is famous for which of the following minerals?
-Options: A. Iron Ore B. Manganese C. Copper D. Bauxite
+
+A. Iron Ore
+
+B. Manganese
+
+C. Copper
+
+D. Bauxite
 
 <details>
 <summary>Show answer</summary>
@@ -1378,9 +1942,17 @@ Options: A. Iron Ore B. Manganese C. Copper D. Bauxite
 
 **PYQ28. UPPCS Prelims 2023, Q77**
 With reference to mineral resources, which of the following statements is/are correct?
+
 1. Lithium's inferred resources have been found in Reasi district of Jammu & Kashmir.
 2. India is import dependent for many minerals like Lithium, Nickel and Cobalt.
-Options: A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1392,7 +1964,14 @@ Options: A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 **PYQ29. UPPCS Prelims 2024, Q78**
 Which one of the following pairs (Country - Oil Field) is not correctly matched?
-Options: A. Iran - Haft Kel B. Kuwait - Kashagan C. Saudi Arabia - Dhahran D. Iraq - Zubair
+
+A. Iran - Haft Kel
+
+B. Kuwait - Kashagan
+
+C. Saudi Arabia - Dhahran
+
+D. Iraq - Zubair
 
 <details>
 <summary>Show answer</summary>
@@ -1405,16 +1984,28 @@ Options: A. Iran - Haft Kel B. Kuwait - Kashagan C. Saudi Arabia - Dhahran D. Ir
 **PYQ30. UPPCS Prelims 2025, Q4**
 Match List-I with List-II and choose the correct answer by using the code given below the lists.
 **List-I (Coal Field)**
+
 A. Appalachian
+
 B. Lancashire
+
 C. Ruhr
+
 D. Kuzbass
 **List-II (Country)**
+
 1. England
 2. Germany
 3. Russia
 4. USA
-Options: A. 4 1 2 3 B. 1 4 3 2 C. 1 4 2 3 D. 4 1 3 2
+
+A. 4 1 2 3
+
+B. 1 4 3 2
+
+C. 1 4 2 3
+
+D. 4 1 3 2
 
 <details>
 <summary>Show answer</summary>
@@ -1427,11 +2018,19 @@ Options: A. 4 1 2 3 B. 1 4 3 2 C. 1 4 2 3 D. 4 1 3 2
 **PYQ31. UPPCS Prelims 2025, Q9**
 Which of the following pairs is/are correctly matched?
 **(Coal Producing Area) — (State)**
+
 1. Maolong — Arunachal Pradesh
 2. Raniganj — West Bengal
 3. Ramgarh — Jharkhand
 4. Talcher — Odisha
-Options: A. Only 1 and 2 B. Only 2, 3 and 4 C. Only 1, 2 and 3 D. Only 1
+
+A. Only 1 and 2
+
+B. Only 2, 3 and 4
+
+C. Only 1, 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1444,16 +2043,28 @@ Options: A. Only 1 and 2 B. Only 2, 3 and 4 C. Only 1, 2 and 3 D. Only 1
 **PYQ32. UPPCS Prelims 2025, Q14**
 Match List-I with List-II and choose the correct answer using the code given below the lists.
 **List-I (Refinery)**
+
 A. Nayara
+
 B. Manali
+
 C. Numaligarh
+
 D. Tatipaka
 **List-II (State)**
+
 1. Assam
 2. Gujarat
 3. Andhra Pradesh
 4. Tamil Nadu
-Options: A. 4 2 3 1 B. 2 4 1 3 C. 2 4 3 1 D. 4 2 1 3
+
+A. 4 2 3 1
+
+B. 2 4 1 3
+
+C. 2 4 3 1
+
+D. 4 2 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -1465,9 +2076,17 @@ Options: A. 4 2 3 1 B. 2 4 1 3 C. 2 4 3 1 D. 4 2 1 3
 
 **PYQ33. UPPCS Prelims 2025, Q31**
 With reference to hydroelectric power in Northern India, which of the following statements is/are correct?
+
 1. The Himalayan region has enormous hydroelectric potential.
 2. Eastern Uttar Pradesh and Bihar cannot utilize this potential because the Himalayas situated to their north lie within the territory of Nepal.
-Options: A. Only 2 B. Neither 1 nor 2 C. Both 1 and 2 D. Only 1
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1480,8 +2099,16 @@ Options: A. Only 2 B. Neither 1 nor 2 C. Both 1 and 2 D. Only 1
 **PYQ34. UPPCS Prelims 2025, Q36**
 Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 **Assertion (A):** Generally, an alloy of lead and tin is used as the material of fuse wire.
+
 **Reason (R):** Alloy of lead and tin has a higher melting point than copper and aluminium.
-Options: A. Both (A) and (R) are true, but (R) is not the correct explanation of (A) B. (A) is false, but (R) is true C. (A) is true, but (R) is false D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
@@ -1494,16 +2121,28 @@ Options: A. Both (A) and (R) are true, but (R) is not the correct explanation of
 **PYQ35. UPPCS Prelims 2025, Q106**
 Match List-I with List-II and choose the correct answer using the code given below the lists.
 **List-I (Nuclear Power Plant)**
+
 A. Kudankulam
+
 B. Kakrapar
+
 C. Kaiga
+
 D. Rawatbhata
 **List-II (State)**
+
 1. Karnataka
 2. Tamil Nadu
 3. Rajasthan
 4. Gujarat
-Options: A. 4 2 1 3 B. 2 4 3 1 C. 2 4 1 3 D. 4 2 3 1
+
+A. 4 2 1 3
+
+B. 2 4 3 1
+
+C. 2 4 1 3
+
+D. 4 2 3 1
 
 <details>
 <summary>Show answer</summary>
@@ -1516,16 +2155,28 @@ Options: A. 4 2 1 3 B. 2 4 3 1 C. 2 4 1 3 D. 4 2 3 1
 **PYQ36. UPPCS Prelims 2025, Q108**
 Match List-I with List-II and choose the correct answer using the code given below.
 **List-I (Iron Ore Mine)**
+
 A. Gurumahisani
+
 B. Bailadila
+
 C. Noamundi
+
 D. Kudremukh
 **List-II (State)**
+
 1. Jharkhand
 2. Karnataka
 3. Odisha
 4. Chhattisgarh
-Options: A. 3 4 2 1 B. 4 3 1 2 C. 4 3 2 1 D. 3 4 1 2
+
+A. 3 4 2 1
+
+B. 4 3 1 2
+
+C. 4 3 2 1
+
+D. 3 4 1 2
 
 <details>
 <summary>Show answer</summary>
@@ -1537,7 +2188,14 @@ Options: A. 3 4 2 1 B. 4 3 1 2 C. 4 3 2 1 D. 3 4 1 2
 
 **PYQ37. UPPCS Prelims 2019, Q63**
 At which of the following places is the Secretariat of the International Solar Alliance (ISA) located as present?
-Options: A. Paris B. New Delhi C. Gurugram D. New York
+
+A. Paris
+
+B. New Delhi
+
+C. Gurugram
+
+D. New York
 
 <details>
 <summary>Show answer</summary>
@@ -1549,7 +2207,14 @@ Options: A. Paris B. New Delhi C. Gurugram D. New York
 
 **PYQ38. UPPCS Prelims 2020, Q46**
 In which of the following districts of U.P. a major solar power plant was established in collaboration with France in 2018?
-Options: A. Agra B. Ballia C. Deoria D. Mirzapur
+
+A. Agra
+
+B. Ballia
+
+C. Deoria
+
+D. Mirzapur
 
 <details>
 <summary>Show answer</summary>
@@ -1561,10 +2226,19 @@ Options: A. Agra B. Ballia C. Deoria D. Mirzapur
 
 **PYQ39. UPPCS Prelims 2025, Q109**
 With reference to the International Solar Alliance, which of the following statements is/are correct?
+
 1. It is the first treaty-based intergovernmental organization headquartered in India and has 38 member countries.
 2. The World Solar Bank and One Sun One World One Grid initiatives have been undertaken under it.
+
 Select the correct answer from the code given below:
-Options: A. Only 2 B. Neither 1 nor 2 C. Both 1 and 2 D. Only 1
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1577,8 +2251,16 @@ Options: A. Only 2 B. Neither 1 nor 2 C. Both 1 and 2 D. Only 1
 **PYQ40. UPPCS Prelims 2022, Q41**
 Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 **Assertion (A):** Chile is the leading producer of copper in the world.
+
 **Reason (R):** The Andes Region of North Chile is enriched with the largest deposits of porphyry copper.
-Options: A. (A) is false but (R) is true B. (A) is true but (R) is false C. Both (A) and (R) are true but (R) is not the correct explanation of (A) D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+A. (A) is false but (R) is true
+
+B. (A) is true but (R) is false
+
+C. Both (A) and (R) are true but (R) is not the correct explanation of (A)
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>

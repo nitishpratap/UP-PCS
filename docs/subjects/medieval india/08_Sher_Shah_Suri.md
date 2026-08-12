@@ -217,13 +217,25 @@ Options: A.2-4-3-1 | B.4-2-1-3 | C.4-2-3-1 | D.2-4-1-3
 
 **Q2.** NOT correctly matched:
 
-Options: A. Dam — copper | B. Desai — revenue collector | C. Diwan — finance office | D. Jarib — a type of tax
+A. Dam — copper |
+
+B. Desai — revenue collector |
+
+C. Diwan — finance office |
+
+D. Jarib — a type of tax
 
 <details><summary>Show answer</summary>**Ans: D** — 2019 Q87; jarib = rope.</details>
 
 **Q3.** Jayata and Kumpa associated with:
 
-Options: A. Bundelkhand | B. Malwa | C. Marwar | D. Mewar
+A. Bundelkhand |
+
+B. Malwa |
+
+C. Marwar |
+
+D. Mewar
 
 <details><summary>Show answer</summary>**Ans: C** — 2022 Q95.</details>
 
@@ -235,7 +247,13 @@ Options: A.I-II-IV-III | B.IV-II-III-I | C.II-I-III-IV | D.III-IV-II-I
 
 **Q5.** A(A): Akbar, like Sher Shah, tried to regulate currency. R(R): Chief copper coin was the Dam.
 
-Options: A. Both true, R explains A | B. Both true, R not explanation | C. A true, R false | D. A false, R true
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
 
 <details><summary>Show answer</summary>**Ans: A** — 2019 Q12.</details>
 
@@ -247,175 +265,349 @@ Options: A.II-I-III-IV | B.II-III-IV-I | C.III-II-I-IV | D.III-I-II-IV
 
 **Q7.** Sher Shah’s birth name and place:
 
-Options: A. Farid Khan, Sasaram | B. Jalal Khan, Delhi | C. Hasan Khan, Kalinjar | D. Islam Shah, Rohtas
+A. Farid Khan, Sasaram |
+
+B. Jalal Khan, Delhi |
+
+C. Hasan Khan, Kalinjar |
+
+D. Islam Shah, Rohtas
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q8.** Died at:
 
-Options: A. Chausa | B. Sasaram palace | C. Kalinjar siege | D. Panipat
+A. Chausa |
+
+B. Sasaram palace |
+
+C. Kalinjar siege |
+
+D. Panipat
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q9.** GT Road terminals:
 
-Options: A. Agra to Lahore only | B. Sonargaon to Peshawar | C. Surat to Delhi | D. Golkonda to Agra
+A. Agra to Lahore only |
+
+B. Sonargaon to Peshawar |
+
+C. Surat to Delhi |
+
+D. Golkonda to Agra
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q10.** 1. Chausa 1539 Humayun escaped 2. Kannauj 1540 was decisive exile
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q11.** Jarib is:
 
-Options: A. A land tax | B. Measuring rope | C. Gold coin | D. Spy officer
+A. A land tax |
+
+B. Measuring rope |
+
+C. Gold coin |
+
+D. Spy officer
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q12.** Patta vs qabuliat:
 
-Options: A. Both are gold coins | B. Patta to peasant; qabuliat is acceptance | C. Both mean shiqdar | D. Patta is a fort
+A. Both are gold coins |
+
+B. Patta to peasant; qabuliat is acceptance |
+
+C. Both mean shiqdar |
+
+D. Patta is a fort
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q13.** Rohtas Fort is in:
 
-Options: A. Marwar | B. Bihar | C. Mewar | D. Gujarat
+A. Marwar |
+
+B. Bihar |
+
+C. Mewar |
+
+D. Gujarat
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q14.** Islam Shah was:
 
-Options: A. Sher Shah’s father | B. Jalal Khan, successor 1545–53 | C. Humayun’s title | D. Rao Maldeo
+A. Sher Shah’s father |
+
+B. Jalal Khan, successor 1545–53 |
+
+C. Humayun’s title |
+
+D. Rao Maldeo
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q15.** Sammel 1544 opponent:
 
-Options: A. Rana Sanga | B. Rao Maldeo of Marwar | C. Hemu | D. Ibrahim Lodi
+A. Rana Sanga |
+
+B. Rao Maldeo of Marwar |
+
+C. Hemu |
+
+D. Ibrahim Lodi
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q16.** Shiqdar’s main job:
 
-Options: A. Mint gold | B. Pargana law and order | C. Write Upanishads | D. Build Taj
+A. Mint gold |
+
+B. Pargana law and order |
+
+C. Write Upanishads |
+
+D. Build Taj
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q17.** Munshif’s main job:
 
-Options: A. Accounts/audit | B. Artillery | C. Qazi’s deputy only | D. GT Road inns
+A. Accounts/audit |
+
+B. Artillery |
+
+C. Qazi’s deputy only |
+
+D. GT Road inns
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q18.** Rupiya metal:
 
-Options: A. Copper | B. Silver | C. Gold | D. Brass
+A. Copper |
+
+B. Silver |
+
+C. Gold |
+
+D. Brass
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q19.** Khayr-ul-Manazil opposite Purana Qila:
 
-Options: A. Sher Shah | B. Maham Anaga | C. Islam Shah | D. Todar Mal
+A. Sher Shah |
+
+B. Maham Anaga |
+
+C. Islam Shah |
+
+D. Todar Mal
 
 <details><summary>Show answer</summary>**Ans: B** — 2018 Q94.</details>
 
 **Q20.** 1. Daurah is 1539 Chausa 2. Daurah is 1532 Humayun vs Afghans
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q21.** Todar Mal link:
 
-Options: A. Learned measurement under Sur system | B. Built Sasaram tomb | C. Killed at Kalinjar | D. Founded Marwar
+A. Learned measurement under Sur system |
+
+B. Built Sasaram tomb |
+
+C. Killed at Kalinjar |
+
+D. Founded Marwar
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q22.** Sarais were:
 
-Options: A. Rest-houses on GT Road | B. Copper coins | C. Measuring ropes | D. Spy reports only
+A. Rest-houses on GT Road |
+
+B. Copper coins |
+
+C. Measuring ropes |
+
+D. Spy reports only
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q23.** NOT matched:
 
-Options: A. Jayata–Kumpa — Marwar | B. Tomb — Sasaram | C. Death — Kalinjar | D. Jayata–Kumpa — Mewar
+A. Jayata–Kumpa — Marwar |
+
+B. Tomb — Sasaram |
+
+C. Death — Kalinjar |
+
+D. Jayata–Kumpa — Mewar
 
 <details><summary>Show answer</summary>**Ans: D**</details>
 
 **Q24.** Diwan-i-Ariz handled:
 
-Options: A. Army administration | B. Canal of paradise | C. Din-i-Ilahi | D. Taj design
+A. Army administration |
+
+B. Canal of paradise |
+
+C. Din-i-Ilahi |
+
+D. Taj design
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q25.** Humayun restored in:
 
-Options: A. 1540 | B. 1545 | C. 1555 | D. 1556 only as death year
+A. 1540 |
+
+B. 1545 |
+
+C. 1555 |
+
+D. 1556 only as death year
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q26.** Rai means:
 
-Options: A. Spy | B. Crop-rate per bigha | C. Gold mohur | D. Fort
+A. Spy |
+
+B. Crop-rate per bigha |
+
+C. Gold mohur |
+
+D. Fort
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q27.** Purana Qila associated with:
 
-Options: A. Sher Shah’s Delhi citadel | B. Fatehpur Sikri | C. Golkonda | D. Sasaram tomb
+A. Sher Shah’s Delhi citadel |
+
+B. Fatehpur Sikri |
+
+C. Golkonda |
+
+D. Sasaram tomb
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q28.** 1. Jarib is a tax 2. Desai is a revenue collector
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q29.** Famous bajra/millets quote refers to:
 
-Options: A. Panipat I | B. Sammel vs Marwar | C. Golkonda 1687 | D. Jajau 1707
+A. Panipat I |
+
+B. Sammel vs Marwar |
+
+C. Golkonda 1687 |
+
+D. Jajau 1707
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q30.** Land classes under Sher Shah:
 
-Options: A. Polaj only | B. Good, middle, bad | C. Khalsa vs jagir mansab | D. Suba–sarkar–pargana
+A. Polaj only |
+
+B. Good, middle, bad |
+
+C. Khalsa vs jagir mansab |
+
+D. Suba–sarkar–pargana
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q31.** Kannauj 1540 is also called:
 
-Options: A. Khanwa | B. Bilgram | C. Dharmat | D. Sarnal
+A. Khanwa |
+
+B. Bilgram |
+
+C. Dharmat |
+
+D. Sarnal
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q32.** Kos-minar is:
 
-Options: A. Distance marker | B. Copper dam | C. Pargana qazi | D. Elephant rank
+A. Distance marker |
+
+B. Copper dam |
+
+C. Pargana qazi |
+
+D. Elephant rank
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q33.** Sher Shah ruled as Padshah about:
 
-Options: A. 30 years | B. 5 years | C. 50 years | D. 1 year
+A. 30 years |
+
+B. 5 years |
+
+C. 50 years |
+
+D. 1 year
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q34.** Correct pair:
 
-Options: A. Islam Shah — 1526 | B. Kalinjar — death 1545 | C. Chausa — 1556 | D. GT Road — Sonargaon to Golkonda
+A. Islam Shah — 1526 |
+
+B. Kalinjar — death 1545 |
+
+C. Chausa — 1556 |
+
+D. GT Road — Sonargaon to Golkonda
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q35.** 1. Shiqdar = pargana law/order 2. Munshif = pargana accounts
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
@@ -435,7 +627,13 @@ Options: A.2-4-3-1 | B.4-2-1-3 | C.4-2-3-1 | D.2-4-1-3
 
 From which place were Jayata and Kumpa associated, who impressed Sher Shah with their valour?
 
-Options: A. Bundelkhand | B. Malwa | C. Marwar | D. Mewar
+A. Bundelkhand |
+
+B. Malwa |
+
+C. Marwar |
+
+D. Mewar
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
@@ -443,7 +641,13 @@ Options: A. Bundelkhand | B. Malwa | C. Marwar | D. Mewar
 
 A(A): Akbar, like Sher Shah, tried to regulate the currency of the state. R(R): As in Sher Shah’s currency, the chief copper coin of Akbar’s time was the Dam.
 
-Options: A. Both true, R explains A | B. Both true, R not explanation | C. A true, R false | D. A false, R true
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
@@ -451,7 +655,13 @@ Options: A. Both true, R explains A | B. Both true, R not explanation | C. A tru
 
 I Sarnal II Bilgram III Dharmat IV Jajau
 
-Options: A. II-I-III-IV | B. II-III-IV-I | C. III-II-I-IV | D. III-I-II-IV
+A. II-I-III-IV |
+
+B. II-III-IV-I |
+
+C. III-II-I-IV |
+
+D. III-I-II-IV
 
 <details><summary>Show answer</summary>**Ans: A** — Bilgram/Kannauj 1540 first.</details>
 
@@ -465,7 +675,13 @@ NOT correctly matched: A. Dam–Copper | B. Desai–Revenue Collector | C. Diwan
 
 I Rabia Daurani’s Tomb Aurangabad II Sher Shah tomb Sasaram III Humayun’s Tomb Delhi IV Atala Mosque Jaunpur
 
-Options: A. I-II-IV-III | B. IV-II-III-I | C. II-I-III-IV | D. III-IV-II-I
+A. I-II-IV-III |
+
+B. IV-II-III-I |
+
+C. II-I-III-IV |
+
+D. III-IV-II-I
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
@@ -473,7 +689,13 @@ Options: A. I-II-IV-III | B. IV-II-III-I | C. II-I-III-IV | D. III-IV-II-I
 
 Khayr-ul-Manazil opposite Purana Qila constituted by?
 
-Options: A. Hamida Banu | B. Salima Sultan | C. Jiji Anga | D. Maham Anaga
+A. Hamida Banu |
+
+B. Salima Sultan |
+
+C. Jiji Anga |
+
+D. Maham Anaga
 
 <details><summary>Show answer</summary>**Ans: D** — mosque is Akbar-era; Purana Qila itself is Sher Shah’s Delhi fort.</details>
 

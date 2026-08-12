@@ -484,6 +484,7 @@ D. 22nd August 1946
 **PYQ — UPPCS Prelims 2018, Q17**
 
 **Assertion (A):** In 1946, the Muslim League withdrew its acceptance of the Cabinet Mission Plan.  
+
 **Reason (R):** The Muslim League joined the interim government formed in 1946.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A).  
@@ -1401,6 +1402,7 @@ D. III, I, IV, II
 
 **Q18. UPPCS Prelims 2018, Q17**  
 **Assertion (A):** In 1946, the Muslim League withdrew its acceptance of the Cabinet Mission Plan.  
+
 **Reason (R):** The Muslim League joined the interim government formed in 1946.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A).  

@@ -774,7 +774,10 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 </details>
 
-**Q3.** **Assertion (A):** Nominated members of Parliament cannot vote in the election of the President.  
+**Q3.**
+
+**Assertion (A):** Nominated members of Parliament cannot vote in the election of the President.
+
 **Reason (R):** Nominated members of Parliament can vote in the election of the Vice-President.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -866,7 +869,10 @@ A. A-2, B-1, C-4, D-3  B. A-1, B-2, C-4, D-3  C. A-2, B-1, C-3, D-4  D. A-2, B-4
 
 </details>
 
-**Q10.** **Assertion (A):** A member of Parliament may lose his seat if he is absent for 60 days without permission.  
+**Q10.**
+
+**Assertion (A):** A member of Parliament may lose his seat if he is absent for 60 days without permission.
+
 **Reason (R):** Article 101(4) empowers the House to declare the seat vacant in such a case.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -914,7 +920,10 @@ A. Only one  B. Only two  C. All three  D. None
 
 </details>
 
-**Q14.** **Assertion (A):** The Speaker does not vote in the first instance.  
+**Q14.**
+
+**Assertion (A):** The Speaker does not vote in the first instance.
+
 **Reason (R):** He has a casting vote in the case of a tie.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -990,7 +999,10 @@ A. Only one  B. Only two  C. All three  D. None
 
 </details>
 
-**Q20.** **Assertion (A):** A joint sitting cannot be held to resolve a deadlock over a Constitutional Amendment Bill.  
+**Q20.**
+
+**Assertion (A):** A joint sitting cannot be held to resolve a deadlock over a Constitutional Amendment Bill.
+
 **Reason (R):** Article 368 requires a Constitutional Amendment Bill to be passed by each House separately.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1054,7 +1066,10 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 </details>
 
-**Q25.** **Assertion (A):** A lame-duck session is the last session of the existing Lok Sabha after a new Lok Sabha has been elected.  
+**Q25.**
+
+**Assertion (A):** A lame-duck session is the last session of the existing Lok Sabha after a new Lok Sabha has been elected.
+
 **Reason (R):** Members who will not return to the new House are called lame ducks.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1140,7 +1155,10 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 </details>
 
-**Q32.** **Assertion (A):** Each House of Parliament has its own Secretariat.  
+**Q32.**
+
+**Assertion (A):** Each House of Parliament has its own Secretariat.
+
 **Reason (R):** Article 98 provides for a separate secretarial staff for each House.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1177,7 +1195,10 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 </details>
 
-**Q35.** **Assertion (A):** Disqualification on the ground of office of profit is decided by the President.  
+**Q35.**
+
+**Assertion (A):** Disqualification on the ground of office of profit is decided by the President.
+
 **Reason (R):** The Election Commission’s opinion in this matter is binding on the President.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1880,7 +1901,10 @@ A. Only one  B. Only two  C. All three  D. None
 
 </details>
 
-**Q5.** **Assertion (A):** The Rajya Sabha cannot vote on Demands for Grants.  
+**Q5.**
+
+**Assertion (A):** The Rajya Sabha cannot vote on Demands for Grants.
+
 **Reason (R):** The Council of Ministers is collectively responsible only to the Lok Sabha.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -1945,7 +1969,10 @@ A. Only one  B. Only two  C. All three  D. None
 
 </details>
 
-**Q10.** **Assertion (A):** The Rajya Sabha cannot reject a Money Bill.  
+**Q10.**
+
+**Assertion (A):** The Rajya Sabha cannot reject a Money Bill.
+
 **Reason (R):** A Money Bill is deemed to have been passed by both Houses if the Rajya Sabha does not return it within 14 days.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -2008,7 +2035,10 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 </details>
 
-**Q15.** **Assertion (A):** A joint sitting cannot be held on a Money Bill.  
+**Q15.**
+
+**Assertion (A):** A joint sitting cannot be held on a Money Bill.
+
 **Reason (R):** The Rajya Sabha has no power to reject or amend a Money Bill.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -2069,7 +2099,10 @@ A. 2 – 4 – 1 – 3  B. 2 – 1 – 4 – 3  C. 4 – 2 – 1 – 3  D. 2 –
 
 </details>
 
-**Q20.** **Assertion (A):** A Constitutional Amendment Bill cannot be passed at a joint sitting.  
+**Q20.**
+
+**Assertion (A):** A Constitutional Amendment Bill cannot be passed at a joint sitting.
+
 **Reason (R):** Article 368 requires the Bill to be passed by each House separately.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -2145,7 +2178,10 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 </details>
 
-**Q26.** **Assertion (A):** A no-confidence motion does not require reasons to be stated.  
+**Q26.**
+
+**Assertion (A):** A no-confidence motion does not require reasons to be stated.
+
 **Reason (R):** A censure motion must state the reasons on which it is based.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -2212,7 +2248,10 @@ A. Only one  B. Only two  C. All three  D. None
 
 </details>
 
-**Q31.** **Assertion (A):** The Estimates Committee has no member from the Rajya Sabha.  
+**Q31.**
+
+**Assertion (A):** The Estimates Committee has no member from the Rajya Sabha.
+
 **Reason (R):** It is the largest of the three financial committees.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -2311,7 +2350,10 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 </details>
 
-**Q39.** **Assertion (A):** Excess grants are voted by the Lok Sabha after the financial year is over.  
+**Q39.**
+
+**Assertion (A):** Excess grants are voted by the Lok Sabha after the financial year is over.
+
 **Reason (R):** They are first examined by the Public Accounts Committee.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
@@ -2468,4 +2510,3 @@ A. Article 109 B. Article 110 C. Article 111 D. Article 112
 ## Mains link (one frame)
 
 - RS is the **continuing federal chamber** — compensation for not being the confidence House is Arts. **249 / 312**. The same design puts **Money Bills, Demands for Grants and no-confidence** exclusively in the LS. The Speaker’s Art. **110** certificate + the 14-day RS window are how the Constitution stops the Council of States from blocking **supply**.
-

@@ -1,1341 +1,917 @@
 # Topic 22 — Renewable Energy
-### ★ Complete Source of Truth — No other book/notes needed for this topic
+### ★ UPPCS Revision Sheet — Lucent-style (no repetition · Practice ≥25)
 
-> **Covers syllabus:** Solar Energy | Wind Energy | Biomass Energy | Geothermal Energy | Tidal Energy | Small Hydro Projects | Green Hydrogen  
-> **Sources baked in:** NCERT Geo 11–12; MNRE; NAPCC; National Solar Mission; Green Hydrogen Mission 2023; ISA; UPPCS/UPSC PYQs  
-> **Exam weight:** ★★★ High — biogas composition; Himalayan hydro; ISA traps; green vs grey hydrogen  
-> **Last verified:** July 2026
+<details>
+<summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-### Syllabus Coverage Map
+Solar Energy | Wind Energy | Biomass Energy | Geothermal Energy | Tidal Energy | Small Hydro Projects | Green Hydrogen
 
-| Syllabus subtopic | Section | What must be inside |
-|-------------------|---------|---------------------|
-| Solar Energy | §22.1 | PV/CSP; National Solar Mission; Bhadla; ISA; 500 GW 2030; PM-KUSUM |
-| Wind Energy | §22.2 | Onshore/offshore; TN/Gujarat leaders; capacity factors; environmental issues |
-| Biomass Energy | §22.3 | Biogas CH₄+CO₂; bagasse; GOBAR-Dhan; 2025 Q28 composition |
-| Geothermal Energy | §22.4 | Earth's heat; Puga/Manikaran/Tattapani; India limited potential |
-| Tidal Energy | §22.5 | Lunar gravity; Kutch/Khambhat potential; barrage vs turbine |
-| Small Hydro Projects | §22.5 | ≤25 MW MNRE definition; Ramganga; 2025 Q31 Himalayan potential |
-| Green Hydrogen | §22.7 | Electrolysis; Mission 2023; 5 MMT 2030; green/grey/blue distinction |
+</details>
 
----
-
-## How to Use This File
-
-| When | Read what | Time |
-|------|-----------|------|
-| **First reading** | 22.1 → 22.7 (Core Concept + Exam Facts + PYQs) | 55–65 min |
-| **Second reading** | Renewable Comparison Matrix + UP Focus | 15 min |
-| **Daily revision** | Quick Revision Box + scheme cards | 8 min |
-| **Before exam** | Quick Revision Box + Practice Zone + 12 Traps | 25 min |
-| **Mains prep** | §22.1 + §22.6 + §22.7 + Mains Framework | 15 min |
-
----
-
-## How UPPCS Tests This Topic
-
-| UPPCS asks… | From this topic | Example trap |
-|-------------|-----------------|--------------|
-| **2-statement correct?** | Biogas constituents; Himalayan hydro | Methane + CO₂ — **not butane** — 2025 Q28 |
-| **2-statement correct?** | Hydro potential in North India | Himalaya enormous potential TRUE; Nepal stmt FALSE — 2025 Q31 |
-| **ISA details** | Treaty IGO HQ India; OSOWOG | Member count **38** outdated — 2025 Q109 |
-| **NOT correctly matched** | Project ↔ capacity/location | Ramganga hydropower 198 MW — 2024 Q72 |
-| **Green vs grey hydrogen** | Production pathway | Green = renewable electrolysis only |
-| **Renewable definition** | Inexhaustible on human timescale | Nuclear ≠ renewable (exam crossover) |
-
-> **2025 overlap:** Biogas methane+CO₂ (Q28 → §22.3); Himalayan hydro (Q31 → §22.6); ISA/OSOWOG (Q109 → §22.1). **2024 overlap:** Ramganga SHP/large hydro (Q72 → §22.6).
+> **Sources baked in:** NCERT Geo 11–12; MNRE; NAPCC; National Solar Mission; Green Hydrogen Mission 2023; ISA; UPPCS PYQs 2018–2025  
+> **Exam weight:** ★★★ High — biogas composition; ISA traps; Himalayan hydro; green vs grey hydrogen  
+> **Last verified:** August 2026
 
 ---
 
 ## Quick Revision Box — Raata This First
 
 ```
-RENEWABLE = Naturally replenished on human timescale (sun, wind, water, biomass, geothermal)
-  ≠ Fossil fuels (coal, oil, gas) | Nuclear = low-carbon but NOT renewable in exams
+RENEWABLE = Replenished on human timescale (sun, wind, water, biomass, geothermal)
+  Nuclear = low-carbon but NOT "renewable" in most exam MCQs
 
 SOLAR:
-  PV (photovoltaic) = direct sunlight → electricity | CSP = mirrors → heat → steam
-  National Solar Mission 2010 (NAPCC) | 100 GW solar target (achieved ~2022)
-  India target: 500 GW non-fossil capacity by 2030
-  Bhadla Solar Park (Rajasthan) = among world's largest
+  PV = sunlight → electricity | CSP = mirrors → heat → steam → turbine
+  National Solar Mission 2010 (NAPCC) | ~100 GW solar by 2022
+  500 GW non-fossil capacity by 2030 (COP26)
+  Bhadla (Rajasthan) = mega solar park
   ISA 2015 (India-France, COP21) | HQ Gurugram | treaty-based IGO
-  OSOWOG = One Sun One World One Grid (ISA/MNRE initiative)
-  PM-KUSUM = solar pumps + grid-connected solar for farmers
+  OSOWOG = One Sun One World One Grid | PM-KUSUM = farmer solar pumps
 
 WIND:
-  Kinetic energy of wind → turbines | Onshore dominant in India
-  Leaders: Tamil Nadu, Gujarat, Karnataka, Maharashtra
-  Offshore wind policy — Gujarat/TN coast potential
-  Intermittency = needs grid balancing / storage
+  Kinetic energy → turbines | Power ∝ wind speed³
+  Leaders: Tamil Nadu, Gujarat, Karnataka | Onshore dominant
+  Intermittent — needs grid balancing / storage
 
 BIOMASS / BIOGAS (2025 Q28):
   Organic matter → energy | Biogas = anaerobic digestion
-  Major constituents: METHANE (CH₄) ~50-70% + CARBON DIOXIDE (CO₂) ~25-45%
+  Major constituents: METHANE (CH₄) + CARBON DIOXIDE (CO₂)
   NOT butane/carbon monoxide as major pair
-  Sources: cattle dung, crop residue, bagasse, municipal waste
-  GOBAR-Dhan / SATAT (CNG from biomass)
+  Bagasse (sugar mills), GOBAR-Dhan, SATAT (bio-CNG)
 
 GEOTHERMAL:
   Earth's internal heat → steam/hot water → turbine
-  India limited: Puga (Ladakh), Manikaran (HP), Tattapani (Chhattisgarh), Cambay basin
-  NOT major Indian renewable yet — high upfront cost
+  India sites: Puga (Ladakh), Manikaran (HP), Tattapani (CG)
+  NOT major Indian capacity yet | NOT derived from Sun
 
 TIDAL:
-  Moon's gravity → tidal bulge → barrage/turbine
-  India potential: Gulf of Kutch, Gulf of Khambhat (highest), Sundarbans
-  No large commercial tidal plant operational in India yet
+  Moon's gravity → tidal rise/fall → barrage/turbine
+  India potential: Gulf of Khambhat (highest), Gulf of Kutch
+  No large commercial tidal plant in India yet | ≠ wave energy
 
 SMALL HYDRO (SHP):
-  MNRE: projects ≤25 MW = small hydro | >25 MW = large hydro
-  Himalayan rivers = enormous Indian hydro potential (2025 Q31 Stmt 1 TRUE)
-  Ramganga Project: Garhwal UK | 198 MW hydropower (2024 Q72)
-  Run-of-river vs storage (dam) types
+  MNRE: ≤25 MW = small hydro | >25 MW = large hydro
+  Himalayan enormous potential (2025 Q31 Stmt 1 TRUE)
+  Ramganga Project: Garhwal UK | 198 MW (2024 Q72)
 
 GREEN HYDROGEN:
-  H₂ from water electrolysis powered by RENEWABLE electricity
+  H₂ from water electrolysis + RENEWABLE electricity
   National Green Hydrogen Mission Jan 2023 | 5 MMT/year by 2030
   Green = renewable | Grey = natural gas | Blue = gas + CCS
-  Uses: ammonia, steel (green steel), refineries, heavy transport
 
-KEY TRAPS:
-  Biogas = CH₄ + CO₂ NOT butane (Q28)
-  Q31 Stmt 2 FALSE — India uses Himalayan hydro; Nepal border ≠ zero potential
-  ISA "38 members" outdated (100+ signatories now) — Q109
-  Geothermal major in Iceland/Indonesia — NOT India primary source
-  Tidal ≠ wave energy (different mechanisms)
-  Green hydrogen ≠ grey hydrogen from fossil gas
+TRAPS: Biogas = CH₄+CO₂ | ISA "38 members" outdated (Q109)
+  Q31 Stmt 2 FALSE (Nepal ≠ zero Indian hydro)
+  Geothermal/Nuclear NOT sun-derived | Tidal ≠ wave
 ```
 
 ### Must-Know Term Comparisons
 
 | Term | One-line difference | Hindi |
 |------|---------------------|-------|
-| **Solar PV** | Photovoltaic cells convert sunlight directly to electricity | सौर фотоवोल्टिक |
-| **Solar CSP** | Concentrated mirrors heat fluid to drive steam turbine | स concentrated solar |
-| **Wind energy** | Kinetic energy of wind turns turbine generators | पवन ऊर्जा |
-| **Biomass energy** | Energy from organic plant/animal matter | बायोमास ऊर्जा |
-| **Biogas** | Methane-rich gas from anaerobic digestion of biomass | बायोगैस |
-| **Geothermal energy** | Heat from Earth's interior used for power/heating | भू-तापीय ऊर्जा |
-| **Tidal energy** | Power from rise/fall of sea levels due to Moon's gravity | ज्वारीय ऊर्जा |
-| **Small hydro** | Hydropower plant ≤25 MW (MNRE India classification) | लघु जल विद्युत |
-| **Green hydrogen** | H₂ produced by renewable-powered water electrolysis | Green हाइडrogen |
-| **Grey hydrogen** | H₂ from natural gas steam reforming — high CO₂ | Grey hydrogen |
-| **Run-of-river hydro** | Uses flowing river water with minimal large reservoir | प्रवाही जल |
-| **International Solar Alliance (ISA)** | India-France treaty-based solar promotion IGO — HQ Gurugram | अंतर्राष्ट्रीय सौर गठबंधन |
+| **Solar PV** | Photovoltaic cells convert sunlight directly to electricity | सौर PV |
+| **Solar CSP** | Mirrors concentrate heat to drive steam turbine | CSP |
+| **Wind energy** | Kinetic energy of air turns turbine generators | पवन ऊर्जा |
+| **Biomass energy** | Energy from organic plant/animal matter | बायोमास |
+| **Biogas** | Methane-rich gas from anaerobic digestion | बायोगैस |
+| **Geothermal energy** | Heat from Earth's interior | भू-तापीय |
+| **Tidal energy** | Power from Moon-driven sea level change | ज्वारीय |
+| **Small hydro** | Hydropower plant **≤25 MW** (MNRE) | लघु जल |
+| **Green hydrogen** | H₂ from renewable-powered electrolysis | Green H₂ |
+| **Grey hydrogen** | H₂ from natural gas reforming — high CO₂ | Grey H₂ |
+| **ISA** | India-France solar IGO — HQ Gurugram | ISA |
 
 ### Memory Tricks
 
-| Trick | Remembers |
-|-------|-----------|
+| Trick | Lock |
+|-------|------|
 | **Biogas = MC** | **M**ethane + **C**O₂ — 2025 Q28 |
-| **ISA = India Sun Army** | India-France, Gurugram HQ |
-| **SHP ≤25** | Small Hydro = **25 MW or less** |
-| **Green H₂ = 5 by 30** | Mission 2023 → **5 MMT by 2030** |
-| **Wind TN first** | Tamil Nadu = wind leader |
-| **Bhadla = Big solar** | Rajasthan mega park |
-| **Puga = Hot Ladakh** | Geothermal site |
-| **Kutch = Tidal king** | Gulf of Kutch tidal potential |
-| **Grey = Gas** | Grey hydrogen from fossil gas |
-| **500 GW 2030** | Non-fossil capacity target |
+| **ISA Gurugram** | Not Paris, not Delhi city |
+| **SHP ≤25** | Small hydro cap |
+| **Green H₂ = 5 by 30** | Mission 2023 → 5 MMT/yr 2030 |
+| **Wind TN first** | Tamil Nadu wind leader |
+| **Bhadla = Big solar** | Rajasthan |
+| **Puga = Hot Ladakh** | Geothermal |
+| **Khambhat = Tidal king** | Highest tidal range India |
+| **Grey = Gas** | Fossil hydrogen |
 
 ---
 
 ## 22.1 Solar Energy
 
-### Definitions (learn all — exams pick different ones)
+**Identity:** PV + CSP | National Solar Mission 2010 | ISA Gurugram 2015 | 500 GW non-fossil 2030
 
-| Source | Definition |
-|--------|------------|
-| **NCERT** | **Solar energy** is radiant light and heat from the Sun — harnessed via **photovoltaic (PV)** panels or **concentrated solar power (CSP)** |
-| **MNRE** | Solar power = conversion of sunlight into electricity — India's fastest-growing renewable segment |
-| **Exam shorthand** | Unlimited on human timescale — **intermittent** (day/night, clouds) — needs storage/grid integration |
+- **Solar energy** is radiant light and heat from the Sun — harnessed via **photovoltaic (PV)** panels or **concentrated solar power (CSP)**.
+- **PV cells** (silicon semiconductors) convert photons to DC electricity; an inverter converts to AC for the grid.
+- **CSP** uses mirrors to heat fluid, produce steam, and drive a turbine — can store heat for after-sunset generation.
+- Highest insolation in **Rajasthan, Gujarat, Madhya Pradesh, Maharashtra**. **Bhadla Solar Park (Rajasthan)** is among the world's largest.
+- **National Solar Mission (2010)** is a pillar of **NAPCC (2008)** — target scaled to **100 GW solar**, achieved around **2022–2024**.
+- **500 GW non-fossil fuel capacity by 2030** (COP26, 2021) includes solar, wind, hydro, nuclear, and biomass — solar remains the largest growth component.
+- **International Solar Alliance (ISA)** launched **30 November 2015** at **COP21 Paris** by **India and France** — treaty-based IGO, HQ **Gurugram, Haryana**.
+- **OSOWOG (One Sun One World One Grid)** and **World Solar Bank** concepts are linked to ISA's cross-border solar grid vision.
+- **PM-KUSUM (2019):** solar pumps for farmers and grid-connected solar on barren/fallow land — MNRE nodal.
+- **Cochin International Airport** was India's **first fully solar-powered airport** (2015).
 
-### Solar Energy — How It Works
+**PYQ — UPPCS Prelims 2025, Q109**
 
-- **Solar photovoltaic (PV)** cells use **semiconductor materials (silicon)** where photons knock electrons loose to produce direct current (DC), which an inverter converts to AC for grid use.
-- **Concentrated Solar Power (CSP)** uses **mirrors/lenses** to focus sunlight on a receiver, heat fluid, produce steam, and drive a **turbine**. It can store heat for after-sunset generation, unlike simple PV.
-- **India's solar geography**: Highest insolation in **Rajasthan, Gujarat, Madhya Pradesh, Maharashtra** (western dry belt), UP receives moderate insolation, and **Bundelkhand solar parks** compensate for land availability in drought-affected districts.
-- The **National Solar Mission (2010)** is a pillar of **NAPCC (2008)** with an initial target of **20 GW by 2022**, later revised to **100 GW solar**. India achieved roughly 100 GW solar installed capacity around **2022–2024**.
-- The **500 GW non-fossil fuel capacity by 2030** target includes solar, wind, hydro, nuclear, and biomass, announced at **COP26 (2021)**, with solar remaining the largest growth component.
-- **International Solar Alliance (ISA)**: Launched **30 November 2015** at **COP21 Paris** by **India and France**, **Treaty-based intergovernmental organisation**, and HQ **Gurugram, Haryana**. Aims to mobilise solar deployment in **121 sunshine countries** (tropical belt).
-- **UPPCS 2025 Q109 trap**: Stmt 1 "38 member countries" = **OUTDATED** (ISA signatories/countries far exceed 38 now), Stmt 2 **OSOWOG (One Sun One World One Grid)** and **World Solar Bank** concept under ISA = largely **TRUE**. Answer **A (Only 2)**.
-- **PM-KUSUM (2019)**: **Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan**, solar pumps for farmers, grid-connected solar on barren/fallow land, and reduces diesel pump use. MNRE nodal.
-- **Environmental pros/cons**: Zero operational emissions but **land use**, **water for panel cleaning**, and **manufacturing energy** for panels are lifecycle considerations. E-waste from end-of-life panels emerging issue (Topic 9 crossover).
-- **Net metering / rooftop solar**: Households/industry feed surplus solar to grid. Urban UP (Lucknow, Noida, Ghaziabad) rooftop schemes expanding.
+ISA: (1) First treaty-based IGO in India with 38 member countries. (2) World Solar Bank and OSOWOG under ISA.
 
-> **Exam note:** ISA HQ = **Gurugram** (not Delhi, not Paris). Q109 — **38 members FALSE**; OSOWOG under ISA = TRUE.
+A. Only 2
 
-### Major India Solar Schemes — Scheme Cards
+B. Neither
 
-| Scheme | Year | Ministry | Objective | Trap |
-|--------|------|----------|-----------|------|
-| **National Solar Mission** | 2010 | MNRE (NAPCC) | Scale solar capacity — 100 GW solar | Part of NAPCC 2008 |
-| **PM-KUSUM** | 2019 | MNRE | Solar pumps + farmer solar plants | Not same as UJALA (LED) |
-| **International Solar Alliance** | 2015 | India-France IGO | Global solar cooperation | Treaty-based; HQ Gurugram |
-| **Production Linked Incentive (Solar PV)** | 2021 | MNRE/Commerce | Domestic solar manufacturing | Atmanirbhar component |
+C. Both
 
-### Exam Facts (raata)
+D. Only 1
 
-- Solar PV = **direct** light. Electricity.
-- National Solar Mission = **2010**
-- **100 GW solar** achieved ~2022
-- **500 GW non-fossil by 2030**
-- **ISA** = India-France **2015**, HQ **Gurugram**
-- **OSOWOG** = cross-border solar grid vision
-- **Bhadla** Rajasthan = mega solar park
-- **PM-KUSUM** = farmer solar pumps
+<details><summary>Show answer</summary>
 
-### PYQs — Solar Energy
+**Ans: A** — OSOWOG/World Solar Bank linked to ISA is correct. **"38 members" is outdated** — signatories far exceed 38.
 
-1. **(UPPCS Prelims 2025, Q109)** ISA: (1) first treaty IGO in India, 38 members (2) World Solar Bank and OSOWOG under ISA.
-   → **A. Only 2** — Member count **38 outdated**; OSOWOG/World Solar Bank linked to ISA.
+</details>
 
-2. **(UPSC Prelims 2017 — pattern)** Which is renewable energy aligned with green economy?
-   (a) Coal gasification (b) Solar PV (c) Diesel generators (d) Lignite mining
-   → **(b) Solar PV**.
+| Scheme | Year | Lock |
+|--------|------|------|
+| National Solar Mission | 2010 | NAPCC pillar |
+| ISA | 2015 | HQ Gurugram |
+| PM-KUSUM | 2019 | Solar pumps |
+| PLI Solar PV | 2021 | Domestic manufacturing |
 
-3. **(UPSC Prelims 2021 — pattern)** International Solar Alliance headquarters:
-   (a) New Delhi (b) Gurugram (c) Paris (d) Nairobi
-   → **(b) Gurugram, Haryana**.
-
-4. **(UPSC Prelims 2019 — pattern)** National Solar Mission is part of:
-   (a) NAPCC (b) Montreal Protocol (c) WPA 1972 (d) BDA 2002
-   → **(a) National Action Plan on Climate Change (2008)**.
-
-### Examples (22.1)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Bhadla Solar Park (Rajasthan)** | World's largest solar park scale |
-| **Bundelkhand Solar Project (UP)** | Solar in drought-affected region — jobs + clean power |
-| **Charanka Solar Park (Gujarat)** | Early Indian multi-developer solar park model |
+> **Exam note:** ISA HQ = **Gurugram** — trap: New Delhi or Paris.
 
 ---
 
 ## 22.2 Wind Energy
 
-### Definitions (learn all — exams pick different ones)
+**Identity:** Kinetic air → turbines | Power ∝ v³ | Tamil Nadu leader | Onshore dominant
 
-| Source | Definition |
-|--------|------------|
-| **NCERT** | **Wind energy** converts **kinetic energy of moving air** into mechanical/electrical energy using **wind turbines** |
-| **Technical** | Power output depends on **wind speed cubed (v³)** — small speed increase → large power gain — sites need consistent **>6 m/s** annual average |
-| **Classification** | **Onshore** (land-based — dominant in India) vs **Offshore** (sea-based — higher cost, stronger winds) |
-
-### Wind Energy — How It Works
-
-- **Wind turbines** use aerodynamic **blades**, wind turns rotor, and gearbox/generator produces electricity. Modern utility-scale turbines **2–3 MW** each.
-- **Wind speed cubed law**: Doubling wind speed, **8× power**, and site selection is critical. Coastal and open plateau areas preferred.
-- **India wind leadership**: **Tamil Nadu** historically #1 (Muppandal wind farm), **Gujarat, Karnataka, Maharashtra, Rajasthan** follow, and **Onshore** turbines dominate.
-- **Offshore wind potential**: **Gujarat and Tamil Nadu coasts**, national Offshore Wind Energy Policy, and higher capacity factor but **higher installation cost** and marine ecosystem impact.
-- **Intermittency trap**: Wind is **variable**, not available on demand, and needs **grid integration**, **hybrid projects (wind+solar)**, or **storage ( batteries, pumped hydro)** for reliability.
-- **Environmental impacts**: **Bird/bat mortality** (collision), **noise**, visual impact, land access roads. Siting away from migratory flyways reduces harm.
-- **Capacity factor**: Wind farms produce **~25–35%** of nameplate capacity annually (vs **~20–25%** solar). Location-dependent.
-- **MNRE targets**: Part of **500 GW non-fossil by 2030**. Wind repowering policy to replace old smaller turbines with efficient modern units.
-- **UP wind context**: UP has **limited wind potential** compared to coastal/western states, wind is less UP-specific, and exam focus is **national leaders (TN, Gujarat)**.
-- **Comparison trap**: Wind = **kinetic air**, solar = **photons**, and both renewable but different technology and siting.
-
-> **Exam note:** Tamil Nadu = **wind energy leader** — trap: "Rajasthan leads wind" (Rajasthan leads **solar**, not wind).
-
-### Onshore vs Offshore Wind — Comparison
+- **Wind energy** converts the **kinetic energy of moving air** into electricity using **wind turbines**.
+- Power output depends on **wind speed cubed (v³)** — doubling wind speed gives roughly **8× power**.
+- Utility-scale sites need consistent annual average wind **>6 m/s** — coastal and open plateau areas preferred.
+- **Tamil Nadu** is historically India's leading wind state (**Muppandal wind farm**). **Gujarat, Karnataka, Maharashtra, Rajasthan** follow.
+- **Onshore** turbines dominate India. **Offshore wind** potential on **Gujarat and Tamil Nadu coasts** — stronger winds but higher cost.
+- **Intermittency:** wind is variable — needs **grid integration**, **hybrid wind+solar**, or **storage** ( batteries, pumped hydro).
+- **Capacity factor:** wind farms typically produce **~25–35%** of nameplate capacity annually — location-dependent.
+- **UP has limited wind potential** compared to western and coastal states — exam focus is national leaders.
 
 | Feature | Onshore | Offshore |
 |---------|---------|----------|
-| **Cost** | Lower | Higher (foundation, cables) |
-| **Wind quality** | Moderate | Stronger, steadier |
-| **India status** | Mature (TN, Gujarat) | Early policy stage |
-| **Environmental issue** | Land, birds | Marine ecology, fishing |
+| Cost | Lower | Higher |
+| Wind quality | Moderate | Stronger, steadier |
+| India status | Mature | Early policy stage |
 
-### Exam Facts (raata)
-
-- Wind power ∝ **wind speed³**
-- **Tamil Nadu** = leading wind state
-- **Onshore** dominant in India
-- Offshore potential: **Gujarat, TN coast**
-- Intermittent. Needs grid/storage.
-- Muppandal (TN) = iconic wind farm
-- MNRE nodal for wind policy
-
-### PYQs — Wind Energy
-
-1. **(UPSC Prelims 2016 — pattern)** Which state has the largest installed wind power capacity in India?
-   (a) Rajasthan (b) Tamil Nadu (c) Kerala (d) Odisha
-   → **(b) Tamil Nadu** (historically leading; Gujarat competitive).
-
-2. **(UPSC Prelims 2014 — pattern)** Wind energy is harnessed using:
-   (a) Photovoltaic cells (b) Wind turbines (c) Geothermal wells (d) Tidal barrages
-   → **(b) Wind turbines**.
-
-3. **(UPSC Prelims 2020 — pattern)** Offshore wind farms are preferred because:
-   (a) No wind exists on land (b) Stronger and more consistent winds at sea (c) No environmental impact (d) Cheaper than onshore
-   → **(b) Stronger, steadier winds** — not cheaper.
-
-4. **(UPPCS Prelims — pattern)** Wind power output most strongly depends on:
-   (a) Air temperature only (b) Cube of wind speed (c) Humidity alone (d) Atmospheric pressure alone
-   → **(b) Wind speed cubed**.
-
-### Examples (22.2)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Muppandal Wind Farm (TN)** | India's largest onshore wind cluster |
-| **Jaisalmer wind-solar hybrid (Rajasthan)** | Complementarity of renewables |
-| **Offshore wind Gujarat feasibility studies** | Next frontier for Indian wind |
+> **Exam note:** Rajasthan leads **solar**, not wind. **Tamil Nadu** = wind leader trap.
 
 ---
 
 ## 22.3 Biomass Energy
 
-### Definitions (learn all — exams pick different ones)
+**Identity:** Organic matter → energy | Biogas = CH₄ + CO₂ | Bagasse UP sugar belt | Anaerobic digestion
 
-| Source | Definition |
-|--------|------------|
-| **NCERT** | **Biomass energy** is stored **chemical energy in organic matter** — plants, crop residue, animal waste, wood — released by **burning, fermentation, or anaerobic digestion** |
-| **Biogas** | Mixture produced by **anaerobic digestion** of organic waste — primarily **methane (CH₄)** and **carbon dioxide (CO₂)** |
-| **Exam (UPPCS 2025 Q28)** | Major biogas constituents = **Methane + Carbon dioxide** — NOT butane or carbon monoxide as primary pair |
+- **Biomass energy** is stored **chemical energy in organic matter** — plants, crop residue, animal waste, wood — released by burning, fermentation, or **anaerobic digestion**.
+- **Anaerobic digestion:** bacteria break organic matter **without oxygen** in a digester → **biogas** + **slurry** (organic fertiliser).
+- **Biogas composition:** **Methane (CH₄) ~50–70%** + **Carbon dioxide (CO₂) ~25–45%** + traces of H₂S and moisture.
+- **Butane** is an LPG component — **not** a major biogas constituent. **Carbon monoxide** is incomplete combustion product — not main biogas component.
+- **Bagasse** (sugarcane crush residue) is burned in **UP sugar mills** (Meerut, Muzaffarnagar belt) for **cogeneration** — electricity + process heat.
+- **GOBAR-Dhan / SATAT:** government push for community biogas and **bio-CNG** — oil marketing companies procure compressed biogas.
+- **E20 ethanol blending target by 2025** — ethanol from sugarcane, maize, and agri-waste reduces petrol imports.
+- **Stubble burning** wastes biomass and causes **PM2.5 pollution** — not sustainable energy use.
 
-### Biomass Energy — How It Works
+**PYQ — UPPCS Prelims 2025, Q28**
 
-- **Biomass** captures solar energy via photosynthesis and stores it in **cellulose, lignin, starches**. Releasing this energy through **direct combustion** (cookstoves, power plants) or **biochemical conversion** (biogas, ethanol).
-- **Anaerobic digestion**: Bacteria break organic matter **without oxygen** in a **digester**, produces **biogas** (energy) + **slurry** (organic fertiliser), and ideal for **cattle dung + crop waste** in rural India.
-- **Biogas composition (raata)**: **Methane (CH₄) ~50–70%** (energy carrier) + **Carbon dioxide (CO₂) ~25–45%** + traces of H₂S, moisture, **UPPCS 2025 Q28**: Options **1 (Methane) and 3 (CO₂)**, and answer **A**.
-- **Trap**: **Butane** is LPG/petroleum gas component, **Not** major biogas constituent, and **Carbon monoxide (CO)** is incomplete combustion product. Dangerous, not biogas main component.
-- **Bagasse**: Sugarcane crush residue, burned in **UP sugar mills** (Meerut, Muzaffarnagar belt) for **cogeneration**, and electricity + process heat. Major UP biomass source.
-- **Crop residue burning**: Stubble burning in **UP/Punjab/Haryana** wastes biomass and causes **air pollution (PM2.5)**. Alternatives: **pelletisation**, **bio-CNG**, **in-situ decomposition** (PUSA decomposer).
-- **GOBAR-Dhan / Biourja**: Government push for **community biogas plants** and **bio-CNG** under **SATAT** scheme. Oil marketing companies procure compressed biogas (CBG).
-- **Ethanol blending**: **E20 target by 2025**, biomass ethanol from **sugarcane, maize, agri-waste**, and reduces petrol import. **PM-JIVAN** for ethanol infrastructure.
-- **Environmental balance**: Biomass is **carbon-neutral in theory** (CO₂ absorbed during plant growth ≈ released on burning). But **stubble burning, deforestation for wood** make practice problematic.
-- **UP rural biogas**: Gaushalas, dairy clusters, and **Ganga basin villages** use family/community digesters. Links **SDG 7 (energy) + SDG 2 (agriculture)**.
+Major constituents of biogas: (1) Methane (2) Butane (3) Carbon dioxide (4) Carbon monoxide
 
-> **Exam note:** UPPCS 2025 Q28 — Biogas major constituents = **Methane (1) + Carbon dioxide (3)** → **A**. Butane trap = wrong.
+A. 1 and 3
 
-### Biomass Sources in India — Table
+B. 3 and 4
 
-| Source | Conversion | Use | UP link |
-|--------|------------|-----|---------|
-| **Cattle dung** | Anaerobic digestion | Biogas cooking/light | Rural UP dairy belt |
-| **Bagasse** | Combustion | Sugar mill power | Western UP sugar belt |
-| **Crop residue** | Pellets/CBG/burning | Heat/power (burning = pollution) | Stubble burning issue |
-| **Municipal solid waste** | Waste-to-energy | Urban electricity | Lucknow, Ghaziabad plants |
-| **Forestry wood** | Combustion | Rural heat (unsustainable if overharvested) | Bundelkhand fuelwood stress |
+C. 2 and 3
 
-### Exam Facts (raata)
+D. 1 and 2
 
-- Biogas = **CH₄ + CO₂** (major). **2025 Q28**.
-- Anaerobic digestion = **no oxygen**
-- Bagasse = **sugarcane** waste. UP mills.
-- GOBAR-Dhan / SATAT = **bio-CNG** push
-- E20 ethanol blending target
-- Stubble burning = biomass **misuse** + pollution
-- Slurry = bio-fertiliser co-product
+<details><summary>Show answer</summary>
 
-### PYQs — Biomass Energy
+**Ans: A** — **Methane + Carbon dioxide**. Butane is the trap.
 
-1. **(UPPCS Prelims 2025, Q28)** Major constituents of biogas: (1) Methane (2) Butane (3) Carbon dioxide (4) Carbon monoxide.
-   → **A. 1 and 3** — Methane + CO₂.
+</details>
 
-2. **(UPSC Prelims 2018 — pattern)** Biogas is produced by:
-   (a) Aerobic respiration (b) Anaerobic digestion of biomass (c) Nuclear fission (d) Photovoltaic effect
-   → **(b) Anaerobic digestion**.
-
-3. **(UPSC Prelims 2016 — pattern)** Bagasse is used in sugar mills for:
-   (a) Making paper only (b) Cogeneration of heat and electricity (c) Producing diesel (d) Water purification
-   → **(b) Cogeneration**.
-
-4. **(UPSC Prelims 2022 — pattern)** SATAT scheme relates to:
-   (a) Solar pumps (b) Sustainable alternative towards affordable transportation — CBG (c) Tidal energy (d) Geothermal
-   → **(b) Bio-CNG / compressed biogas**.
-
-### Examples (22.3)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **UP sugar mill bagasse cogeneration** | Biomass power in Meerut-Muzaffarnagar belt |
-| **Khadi village biogas plants** | Rural UP anaerobic digestion model |
-| **PUSA bio-decomposer (CA overlap)** | Biomass stubble management vs burning |
+> **Exam note:** Biogas = **CH₄ + CO₂** — not butane.
 
 ---
 
 ## 22.4 Geothermal Energy
 
-### Definitions (learn all — exams pick different ones)
+**Identity:** Earth's interior heat | Puga Ladakh | Baseload potential | NOT from Sun
 
-| Source | Definition |
-|--------|------------|
-| **NCERT** | **Geothermal energy** harnesses **heat from Earth's interior** — hot rocks, steam, or water underground — for **electricity generation or direct heating** |
-| **Source of heat** | Radioactive decay of minerals + residual heat from Earth's formation — temperature rises ~**25–30°C per km** depth in crust |
-| **India status** | **Limited commercial development** — identified sites under exploration — not a major national renewable share yet |
+- **Geothermal energy** harnesses **heat from Earth's interior** — hot rocks, steam, or underground water — for electricity or direct heating.
+- Heat sources: **radioactive decay** of minerals + residual heat from Earth's formation — temperature rises **~25–30°C per km** depth.
+- Wells tap hot reservoirs → steam/hot water spins **turbine** — or **direct use** for heating (greenhouses, spas).
+- **India's prospects:** **Puga Valley (Ladakh)** — highest potential; **Manikaran (HP)**; **Tattapani (Chhattisgarh)**; **Cambay Basin (Gujarat)**.
+- **No large-scale commercial geothermal power plant** operational in India yet — pilot exploration only (GSI/MNRE).
+- **Advantages:** **baseload renewable** — can run 24/7 unlike solar/wind at a suitable site.
+- **Global leaders:** Iceland, USA, Indonesia, Philippines — India remains early stage.
+- **NOT derived from the Sun** — unlike biomass, wind, or solar (2022 pattern MCQ).
 
-### Geothermal Energy — How It Works
-
-- **Geothermal systems** drill wells into **hot underground reservoirs**, steam or hot water rises, and spins **turbine**. Electricity or **direct use** for heating greenhouses, spas, district heating.
-- **Types**: **Hydrothermal** (natural steam/hot water, iceland, New Zealand), and **Enhanced Geothermal Systems (EGS)**. Artificially fracture hot dry rock and circulate water, technology still developing.
-- **India's geothermal prospects**: **Puga Valley (Ladakh)**, highest potential, and hot springs, high gradient. **Manikaran (Himachal Pradesh)**, religious site + energy potential, and **Tattapani (Chhattisgarh)**. Narmada basin hot springs, **Cambay Basin (Gujarat)**, and low-enthalpy geothermal for direct heating.
-- **Geological Survey of India (GSI)** and **MNRE** conduct resource assessment, **No large-scale geothermal power plant** operational in India at commercial utility scale (as of 2026 exam baseline). Pilot projects only.
-- **Advantages**: **Baseload renewable**, not intermittent like solar/wind, and can run 24/7 if reservoir sustained.
-- **Disadvantages**: **Site-specific** (only along tectonic/plate boundaries or hot spots in India), high **exploration drilling cost**, and potential **subsurface water contamination** if mismanaged.
-- **Global leaders**: **Iceland, USA (California), Indonesia, Philippines, and New Zealand** lead globally, while India remains at an **early stage**. The trap "India's primary renewable is geothermal" is **FALSE**.
-- **Direct use applications**: **Manikaran hot springs**, potential heating, and **Puga** explored for **10 MW pilot**. Ladakh renewable mix with solar.
-- **vs Solar trap**: Geothermal uses **Earth heat**, not sunlight. Completely different resource.
-
-> **Exam note:** India geothermal = **Puga, Manikaran, Tattapani** — NOT yet major capacity. Iceland/Indonesia = global leaders trap.
-
-### India Geothermal Sites — Complete Table
-
-| Site | State/UT | Feature | Status |
-|------|----------|---------|--------|
-| **Puga Valley** | Ladakh | High-temperature hot springs | Highest potential; pilot exploration |
-| **Manikaran** | Himachal Pradesh | Hot springs in Parvati valley | Direct heat potential |
-| **Tattapani** | Chhattisgarh | Narmada fault hot springs | Medium potential |
-| **Cambay Basin** | Gujarat | Low-enthalpy geothermal | Direct heating applications |
-| **Surajkund (Haryana)** | Haryana | Hot springs | Minor direct use |
-
-### Exam Facts (raata)
-
-- Geothermal = **Earth's internal heat**
-- **Baseload** renewable (24/7 potential)
-- India sites: **Puga, Manikaran, Tattapani, Cambay**
-- **No major commercial plant** yet in India
-- Iceland/Indonesia = global leaders
-- GSI/MNRE assess resources
-- ≠ solar, ≠ tidal
-
-### PYQs — Geothermal Energy
-
-1. **(UPSC Prelims 2014 — pattern)** Geothermal energy is derived from:
-   (a) Sun's radiation (b) Heat within the Earth (c) Moon's gravity (d) Ocean waves
-   → **(b) Earth's interior heat**.
-
-2. **(UPSC Prelims 2017 — pattern)** Which Indian region has significant geothermal potential?
-   (a) Puga Valley, Ladakh (b) Sundarbans (c) Thar Desert surface heat only (d) Indo-Gangetic plain alluvium
-   → **(a) Puga Valley**.
-
-3. **(UPSC Prelims 2019 — pattern)** Geothermal energy is considered renewable because:
-   (a) Heat flow from Earth is continuously replenished by radioactive decay (b) It uses coal (c) It is fossil-based (d) It depletes crust permanently in one year
-   → **(a) Continuous heat flow** on geological timescales.
-
-4. **(UPPCS Prelims — pattern)** Manikaran hot springs are associated with:
-   (a) Geothermal potential, Himachal Pradesh (b) Tidal energy, Gujarat (c) Offshore wind, TN (d) Solar CSP, Rajasthan
-   → **(a) Geothermal, HP**.
-
-### Examples (22.4)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Puga Valley exploration (Ladakh)** | India's best geothermal prospect |
-| **Iceland geothermal electricity ~90%** | Global benchmark — contrast with India |
-| **Manikaran hot springs (HP)** | Direct heat + tourism — energy potential |
+> **Exam note:** Geothermal = **Earth heat**, not sunlight. Iceland benchmark ≠ India primary source.
 
 ---
 
 ## 22.5 Tidal Energy
 
-### Definitions (learn all — exams pick different ones)
+**Identity:** Moon's gravity | Khambhat highest range | Predictable | No major Indian plant yet
 
-| Source | Definition |
-|--------|------------|
-| **NCERT** | **Tidal energy** harnesses the **rise and fall of sea levels** caused primarily by **gravitational pull of the Moon** (and Sun) |
-| **Mechanism** | **Tidal barrage** (dam across estuary) or **tidal stream turbines** (free-flowing tidal currents) spin generators |
-| **India potential** | **Gulf of Kutch** and **Gulf of Khambhat (Cambay)** — among highest tidal ranges in India |
+- **Tidal energy** harnesses the **rise and fall of sea levels** caused primarily by **gravitational pull of the Moon** (and Sun).
+- **Tidal barrage:** dam across estuary — gates allow water in at high tide, release through **turbines** at low tide.
+- **Tidal stream turbines:** underwater turbines in fast tidal channels — no large dam required.
+- **India's potential:** **Gulf of Khambhat (Cambay)** — tidal range up to **~11 m**, highest in India. **Gulf of Kutch** is second.
+- **No major commercial tidal power plant** operational in India — exams test **potential**, not installed leadership.
+- **Advantages:** **highly predictable** (lunar calendar) — unlike variable wind/solar.
+- **Disadvantages:** high capital cost, estuary ecosystem disruption, siltation in Khambhat.
+- **Tidal ≠ wave energy:** tidal = gravity-driven sea level change; wave = wind-driven surface waves.
 
-### Tidal Energy — How It Works
+**PYQ — UPPCS Prelims 2022**
 
-- **Tides** occur as ocean bulges follow Moon's gravity, **Semi-diurnal tides** (two high, two low per day) in most Indian coasts, and **Tidal range** (height difference) determines energy potential.
-- **Tidal barrage**: Dam built across **estuary/bay**, gates allow water in at high tide, release at low tide through **turbines**, and similar to hydro dam but driven by tides not river flow. **La Rance (France)** classic example.
-- **Tidal stream turbines**: Underwater turbines in **fast tidal channels**, no large dam, and lower ecosystem barrier impact. Emerging technology.
-- **India's tidal potential**: **Gulf of Khambhat**, tidal range up to **~11 m** in some estimates, and highest in India. **Gulf of Kutch**, 2nd major site, and **Sundarbans delta**. Environmental sensitivity limits development.
-- **Operational status trap**: India has **identified and pilot-studied** tidal sites, **No major commercial tidal power plant** at utility scale operational nationally (unlike France, South Korea, UK). Exams test **potential**, not installed capacity leadership.
-- **Advantages**: **Predictable** (tides follow lunar calendar), unlike variable wind/solar, and good for grid planning.
-- **Disadvantages**: **High capital cost**, **Marine ecosystem disruption** (barrage alters estuary ecology), and **Siltation** in Gulf of Khambhat complicates engineering. Limited suitable sites.
-- **Tidal vs wave energy trap**: **Tidal** = gravity-driven sea level change, **Wave** = wind-driven surface waves, and different technologies.
-- **Gujarat nodal**: Most tidal potential on **Gujarat coast**. State renewable policy includes tidal feasibility studies.
+Largest tidal energy producing area in India:
 
-> **Exam note:** Highest Indian tidal potential = **Gulf of Khambhat (Cambay)** and **Gulf of Kutch** — NOT operational mega-plants yet.
+A. North Circars
 
-### Tidal vs Wave Energy — Comparison
+B. Mannar
 
-| Feature | Tidal energy | Wave energy |
-|---------|--------------|-------------|
-| **Driver** | Moon/Sun gravity | Wind on sea surface |
-| **Predictability** | Highly predictable | Less predictable |
-| **India sites** | Kutch, Khambhat | Kerala, Tamil Nadu coast (early R&D) |
-| **Technology** | Barrage/stream turbine | Oscillating buoys, attenuators |
+C. Khambhat Coast
 
-### Exam Facts (raata)
+D. Kerala
 
-- Tidal = **Moon's gravity** (main driver)
-- **Gulf of Khambhat** = highest tidal range India
-- **Gulf of Kutch** = second major site
-- **Predictable** renewable
-- No large commercial plant in India yet
-- Tidal ≠ wave energy
-- Barrage vs stream turbine = two technologies
+<details><summary>Show answer</summary>
 
-### PYQs — Tidal Energy
+**Ans: C** — **Gulf of Khambhat (Cambay)** has the highest tidal range.
 
-1. **(UPSC Prelims 2013 — pattern)** Tidal energy is caused primarily by:
-   (a) Earth's rotation only (b) Gravitational pull of Moon (c) Solar flares (d) Undersea volcanoes
-   → **(b) Moon's gravity**.
+</details>
 
-2. **(UPSC Prelims 2016 — pattern)** In India, maximum tidal energy potential is in:
-   (a) Gulf of Khambhat (b) Bay of Bengal open ocean (c) Himalayan rivers (d) Thar Desert
-   → **(a) Gulf of Khambhat**.
-
-3. **(UPSC Prelims 2018 — pattern)** Tidal power is more predictable than wind power because:
-   (a) Tides follow astronomical cycles (b) Tides never occur (c) Wind is constant (d) Moon has no effect
-   → **(a) Astronomically predictable tides**.
-
-4. **(UPPCS Prelims — pattern)** Which technology uses tidal barrages?
-   (a) Tidal energy (b) Geothermal (c) Solar PV (d) Biogas digestion
-   → **(a) Tidal energy**.
-
-### Examples (22.5)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **Gulf of Khambhat feasibility studies** | Highest tidal range — engineering challenges |
-| **La Rance tidal plant (France)** | Global reference barrage project |
-| **Gulf of Kutch pilot proposals** | Gujarat tidal development focus |
+> **Exam note:** Tidal potential = **Gujarat coast** (Khambhat/Kutch), not Thar Desert.
 
 ---
 
 ## 22.6 Small Hydro Projects
 
-### Definitions (learn all — exams pick different ones)
+**Identity:** ≤25 MW MNRE | Himalayan potential | Ramganga 198 MW Garhwal | Run-of-river vs storage
 
-| Source | Definition |
-|--------|------------|
-| **MNRE (India)** | **Small hydro project (SHP)** = hydropower plant with capacity **≤25 MW** — above 25 MW classified as **large hydro** |
-| **NCERT/Geography** | Hydropower converts **potential energy of stored/falling water** into electricity — **renewable** depending on rainfall cycle |
-| **Types** | **Run-of-river** (minimal storage, continuous flow) vs **storage/pondage** (dam + reservoir — Tehri, Bhakra model) |
+- **Hydropower** converts **potential/kinetic energy of falling water** into electricity — renewable, rainfall-dependent.
+- **MNRE definition:** **Small hydro project (SHP) = ≤25 MW**. Above 25 MW = **large hydro**.
+- **Run-of-river:** minimal large reservoir — lower submergence, preferred in sensitive Himalaya.
+- **Storage/pondage:** dam + reservoir (Tehri, Bhakra model) — higher head but displacement/seismic risks.
+- **Himalayan rivers** have **enormous hydroelectric potential** — steep gradient, snow-fed perennial flow.
+- **Ramganga Multipurpose Project:** **Garhwal (Uttarakhand)**, dam on Ramganga tributary of Ganga, **~198 MW** hydropower — irrigates western **UP** plains.
+- **Pumped storage hydro:** uses off-peak electricity to pump water uphill, releases at peak demand — grid balancing with solar/wind.
 
-### Small Hydro Projects — How It Works
+**PYQ — UPPCS Prelims 2025, Q31**
 
-- **Hydropower** uses water under **pressure/head** to spin **turbines**, efficiency high (~85–90%), and no fuel combustion. Emissions only from construction/reservoir methane in tropical dams.
-- **Small hydro (≤25 MW)**: Lower environmental footprint than mega-dams, suitable for **hill streams, irrigation canals, and tributaries**. MNRE provides **central financial assistance** for SHP on public sector projects.
-- **Run-of-river SHP**: Diverts part of river flow through penstock, turbine, and returns water downstream. **Minimal submergence**, preferred in ecologically sensitive Himalaya.
-- **Himalayan hydro potential (UPPCS 2025 Q31)**: **Statement 1**, himalayan region has **enormous hydroelectric potential** = **TRUE**. Steep gradient, perennial snow-fed rivers (Indus, Ganga, Brahmaputra systems).
-- **Q31 Statement 2 trap**, "Eastern UP and Bihar cannot utilize potential because Himalayas are in Nepal" = **FALSE**. Indian Himalaya in **Uttarakhand, Himachal, Sikkim, Arunachal** hosts major Indian projects (**Tehri, Nathpa Jhakri, Koldam, Bhakra system**), UP benefits via **Ramganga, Ganga, Yamuna** systems, and transboundary rivers still allow **Indian-side** development. Answer **D (Only 1)**.
-- **Ramganga Project (2024 Q72)**: **Garhwal (Uttarakhand)**, dam on Ramganga (tributary of Ganga), and hydropower **~198 MW**. Irrigation to UP plains, exam tests **project facts matching**.
-- **2024 Q72 trap pair**: Often **irrigated area** figure mismatched in options, verify: Ramganga irrigates large **western UP** tracts, and capacity **198 MW** is correct pair.
-- **UP hydro context**: UP receives power/irrigation from **Uttarakhand Himalayan projects** (Ramganga, Tehri downstream benefits), **Singrauli** is thermal not hydro. **Obra, Rihand** thermal belt trap.
-- **Environmental issues**: **Dam siltation**, **fish migration blocked**, **seismic risk** in Himalaya, **submergence/displacement**. EIA mandatory (Topic 14 brief).
-- **Pumped storage hydro**: Uses off-peak electricity to pump water uphill, releases at peak demand, and **Battery alternative** for grid balancing with solar/wind.
+Hydroelectric power in Northern India: (1) Himalayan region has enormous hydroelectric potential. (2) Eastern UP and Bihar cannot utilize this because Himalayas to their north lie in Nepal.
 
-> **Exam note:** UPPCS 2025 Q31 — Only **Statement 1** true. Nepal border does **not** eliminate Indian Himalayan hydro.
+A. Only 2
 
-### Hydro Project Size Classification (India)
+B. Neither
 
-| Category | Capacity | Example |
-|----------|----------|---------|
-| **Micro hydro** | ≤100 kW | Remote hill hamlet |
-| **Mini hydro** | 101 kW – 2 MW | Hill stream project |
-| **Small hydro (SHP)** | 2–25 MW | Canal/river tributary |
-| **Large hydro** | >25 MW | Tehri, Bhakra, Ramganga (~198 MW) |
+C. Both
 
-### Exam Facts (raata)
+D. Only 1
 
-- SHP = **≤25 MW** (MNRE)
-- Himalayan potential = **enormous** (Q31 Stmt 1)
-- Q31 Stmt 2 (Nepal blocks UP/Bihar) = **FALSE**
-- Ramganga = **Garhwal**, **198 MW**
-- Run-of-river = lower submergence
-- Pumped storage = grid balancing
-- Hydro = renewable ( rainfall-dependent)
+<details><summary>Show answer</summary>
 
-### PYQs — Small Hydro Projects
+**Ans: D** — Stmt 1 true. Stmt 2 false — major Indian hydro in **Uttarakhand, HP, Sikkim, Arunachal**; UP benefits via Ganga/Yamuna systems.
 
-1. **(UPPCS Prelims 2025, Q31)** Hydro in Northern India: (1) Himalaya enormous potential (2) Eastern UP/Bihar cannot use it as Himalayas in Nepal.
-   → **D. Only 1** — Stmt 2 false.
+</details>
 
-2. **(UPPCS Prelims 2024, Q72)** Ramganga Project — which pair NOT correctly matched?
-   Options include: Dam length 825.8 m; Hydropower **198 MW**; Location Garhwal; Irrigated area 6 lakh ha.
-   → Identify **incorrect irrigation figure** or other mismatched stat — **198 MW and Garhwal** are standard correct pairs.
+**PYQ — UPPCS Prelims 2024, Q72**
 
-3. **(UPSC Prelims 2015 — pattern)** Run-of-river hydro projects differ from storage dams because:
-   (a) They store huge reservoirs (b) They use natural flow with minimal large reservoir (c) They use coal (d) They are tidal
-   → **(b) Minimal large reservoir**.
+Ramganga Project — which pair is NOT correctly matched?
 
-4. **(UPSC Prelims 2012 — pattern)** Small hydro in India is defined up to:
-   (a) 10 MW (b) 25 MW (c) 50 MW (d) 100 MW
-   → **(b) 25 MW** — MNRE definition.
+Options include: Dam length 825.8 m | Hydropower **198 MW** | Location Garhwal | Irrigated area 6 lakh ha
 
-### Examples (22.6)
+<details><summary>Show answer</summary>
 
-| Example | What it teaches |
-|---------|-----------------|
-| **Ramganga Dam (Uttarakhand)** | 198 MW — irrigates western UP — 2024 Q72 |
-| **Tehri Dam (Bhagirathi)** | Large hydro — Ganga system — UP downstream benefits |
-| **Canal-top solar + mini hydro (Punjab/UP experiments)** | Hybrid renewable on irrigation infrastructure |
+**Verify all four stats** — **198 MW** and **Garhwal** are standard correct locks. Irrigated area figure is the common mismatch trap in options.
+
+</details>
+
+| Category | Capacity |
+|----------|----------|
+| Small hydro (SHP) | ≤25 MW |
+| Large hydro | >25 MW |
+| Ramganga | ~198 MW (large) |
+
+> **Exam note:** SHP cap = **25 MW**. Singrauli = **thermal**, not hydro.
 
 ---
 
 ## 22.7 Green Hydrogen
 
-### Definitions (learn all — exams pick different ones)
+**Identity:** Electrolysis + renewable power | Mission 2023 | 5 MMT/yr 2030 | Green vs grey vs blue
 
-| Source | Definition |
-|--------|------------|
-| **International Energy Agency** | **Green hydrogen** = hydrogen produced by **water electrolysis** using **renewable electricity** — near-zero lifecycle CO₂ if renewables used |
-| **India (Mission 2023)** | **National Green Hydrogen Mission** — make India a **global hub** for production, usage, and export of green hydrogen |
-| **Colour codes** | **Green** = renewable electrolysis | **Grey** = natural gas reforming | **Blue** = grey + CCS | **Black/brown** = coal gasification |
+- **Hydrogen (H₂)** is an **energy carrier** — must be produced from water, gas, or biomass. Burns to water vapour with no carbon at point of use.
+- **Green hydrogen:** **electrolyser** splits **H₂O → H₂ + O₂** powered by **renewable electricity** (solar/wind/hydro) — near-zero lifecycle CO₂.
+- **Grey hydrogen:** ~98% of current global production — **natural gas steam reforming** — releases large **CO₂**. **NOT green.**
+- **Blue hydrogen:** grey production + **carbon capture and storage (CCS)** — lower emissions, still fossil-dependent.
+- **Black/brown hydrogen:** from **coal gasification** — very high emissions.
+- **National Green Hydrogen Mission (January 2023):** target **5 MMT green hydrogen per annum by 2030** — MNRE coordinates.
+- **Sectors:** refineries, **ammonia/fertiliser (urea)**, **green steel**, heavy transport, shipping.
+- **Challenges:** high cost vs grey H₂, energy conversion losses, storage/transport infrastructure (compress, liquefy, pipeline).
 
-### Green Hydrogen — How It Works
+| Type | Source | CO₂ |
+|------|--------|-----|
+| Green | Renewable electrolysis | Very low |
+| Grey | Natural gas | High |
+| Blue | Gas + CCS | Moderate |
 
-- **Hydrogen (H₂)** is an **energy carrier**, not primary energy source, and must be produced from water, gas, or biomass. Burns to water vapour, **No carbon at point of use**.
-- **Green hydrogen production**: **Electrolyser** splits **H₂O**, **H₂ + O₂**, and when powered by **solar/wind/hydro**, product is **green hydrogen**. Only emissions from equipment manufacturing.
-- **Grey hydrogen trap**: ~**98% of current global hydrogen** is **grey**, made from **natural gas (methane steam reforming)**, and releases large **CO₂**. NOT climate-friendly despite H₂ being clean fuel.
-- **Blue hydrogen**: Grey production + **carbon capture and storage (CCS)**, lower emissions but still fossil-dependent, and debated as "transition" fuel.
-- **National Green Hydrogen Mission (January 2023)**: Target **5 MMT (million metric tonnes) green hydrogen per annum by 2030**, expected to avoid **~50 MMT CO₂ emissions**, and sectors: **refineries, ammonia/fertiliser (urea), steel, heavy transport, shipping**.
-- **Strategic Hydrogen Energy Programme (2018)** preceded the Mission through MNRE pilot projects before the Mission scaled to national industrial policy.
-- **Green ammonia**: Hydrogen + nitrogen, **Ammonia (NH₃)**, and critical for **urea fertiliser**. India imports ammonia/gas, green route improves **Atmanirbhar** fertiliser security.
-- **Green steel**: Replace **coking coal** in direct reduced iron (DRI) with **green hydrogen**. Tata and JSW pilot projects mark a major decarbonisation pathway.
-- **Challenges**: **High cost** vs grey hydrogen, **Energy losses** in conversion, and need **massive renewable capacity** dedicated. **Storage/transport** (compress, liquefy, or pipeline) infrastructure nascent.
-- **UP/industrial link**: **Refineries, fertiliser plants** along Ganga corridor, future green H₂ off-take. **Singrauli** energy hub may integrate hydrogen with renewable hybrid (policy evolving).
-
-> **Exam note:** **Green** = renewable electrolysis ONLY. Grey from natural gas = **NOT green**. Mission target = **5 MMT by 2030**.
-
-### Hydrogen Colour Codes — Complete Table
-
-| Type | Production method | CO₂ emissions | Exam label |
-|------|-------------------|-----------------|------------|
-| **Green** | Electrolysis + renewable power | Very low | Climate target |
-| **Grey** | Natural gas steam reforming | High | Current dominant global method |
-| **Blue** | Grey + carbon capture (CCS) | Moderate | Transition fuel |
-| **Black/Brown** | Coal gasification | Very high | Avoid for climate goals |
-| **Pink** | Electrolysis + nuclear power | Low | Niche category |
-
-### National Green Hydrogen Mission — Scheme Card
-
-| Element | Detail |
-|---------|--------|
-| **Launch** | **January 2023** |
-| **Nodal** | **MNRE** (Mission coordination) |
-| **Target** | **5 MMT** green H₂ production per annum by **2030** |
-| **Sectors** | Refining, ammonia, steel, mobility, shipping |
-| **Trap** | NOT 2019; NOT grey hydrogen mission |
-
-### Exam Facts (raata)
-
-- Green H₂ = **electrolysis + renewable power**
-- Mission launched **2023**
-- Target **5 MMT/year by 2030**
-- Grey H₂ = **natural gas**. Dominant today.
-- Blue = grey + **CCS**
-- Uses: **ammonia, steel, refineries**
-- MNRE nodal ministry
-
-### PYQs — Green Hydrogen
-
-1. **(UPSC Prelims 2021 — pattern)** National Green Hydrogen Mission aims to:
-   (a) Promote coal gasification (b) Make India global hub for green hydrogen production, usage, export (c) Ban all hydrogen (d) Replace solar with diesel
-   → **(b) Global green hydrogen hub**.
-
-2. **(UPSC Prelims 2023 — pattern)** Green hydrogen is produced by:
-   (a) Coal burning (b) Water electrolysis using renewable electricity (c) Natural gas without capture (d) Nuclear waste
-   → **(b) Renewable-powered electrolysis**.
-
-3. **(UPSC Prelims 2022 — pattern)** Which hydrogen type has the lowest carbon footprint when produced with renewables?
-   (a) Grey (b) Green (c) Black (d) Brown
-   → **(b) Green**.
-
-4. **(UPPCS Prelims — pattern)** National Green Hydrogen Mission was launched in:
-   (a) 2019 (b) 2021 (c) 2023 (d) 2010
-   → **(c) 2023**.
-
-### Examples (22.7)
-
-| Example | What it teaches |
-|---------|-----------------|
-| **IOCL green hydrogen pilot (Mathura refinery)** | Refinery decarbonisation use case |
-| **Green ammonia for urea plants** | Fertiliser sector off-take |
-| **NTPC green hydrogen projects** | PSU-led renewable-hydrogen integration |
+> **Exam note:** **Green = renewable electrolysis only.** Mission launched **2023**, not 2019.
 
 ---
 
 ## Consolidated Reference
 
-### Renewable Sources — Master Comparison Matrix
+| Source | Technology | India lock |
+|--------|------------|------------|
+| Solar | PV, CSP | Bhadla, ISA Gurugram |
+| Wind | Turbines | Tamil Nadu leader |
+| Biomass | Combustion, biogas | Bagasse UP mills |
+| Geothermal | Earth heat | Puga Valley |
+| Tidal | Barrage/turbine | Khambhat coast |
+| Small hydro | ≤25 MW | Himalayan streams |
+| Green H₂ | Electrolysis | 5 MMT by 2030 |
 
-| Source | Driven by | Intermittent? | India leader site/state | UP relevance |
-|--------|-----------|---------------|-------------------------|--------------|
-| **Solar** | Sunlight | Yes (night/clouds) | Bhadla (Rajasthan) | Bundelkhand solar |
-| **Wind** | Air movement | Yes | Tamil Nadu, Gujarat | Limited potential |
-| **Biomass/biogas** | Organic matter | Dispatchable | Sugar belt | Bagasse, rural biogas |
-| **Geothermal** | Earth heat | No (baseload) | Puga (Ladakh) | Minimal |
-| **Tidal** | Moon gravity | Predictable | Gulf of Khambhat | None direct |
-| **Small hydro** | Flowing water | Seasonal variation | Himalayan streams | Ramganga benefits |
-| **Green hydrogen** | Renewable electricity | Storage carrier | Gujarat, coastal refineries | Industrial off-take future |
-
-### India Renewable Capacity Context (Exam Round Figures)
-
-| Milestone | Approx. figure | Year/note |
-|-----------|----------------|-----------|
-| **Solar installed** | ~100 GW | Achieved ~2022–24 |
-| **Wind installed** | ~45 GW | TN, Gujarat lead |
-| **Large hydro** | ~47 GW | Includes >25 MW |
-| **Small hydro** | ~5 GW | ≤25 MW projects |
-| **Biomass/co-generation** | ~10 GW | Bagasse, waste |
-| **Non-fossil target** | **500 GW by 2030** | COP26 announcement |
-| **Green H₂ target** | **5 MMT/year by 2030** | Mission 2023 |
-
-### Important Schemes & Dates
-
-| Year | Scheme/Event |
-|------|--------------|
-| **2008** | NAPCC launched |
-| **2010** | National Solar Mission |
-| **2015** | International Solar Alliance (COP21) |
-| **2019** | PM-KUSUM |
-| **2023** | National Green Hydrogen Mission |
-| **2025 Q28** | Biogas CH₄ + CO₂ tested |
-| **2025 Q31** | Himalayan hydro potential |
-| **2025 Q109** | ISA OSOWOG |
-
-### UP Focus — Renewable Energy
-
-| UP element | Renewable type | Exam use |
-|------------|----------------|----------|
-| **Bundelkhand Solar Park (Jhansi/Lalitpur belt)** | Solar | Drought region clean energy — Topic 15 crossover |
-| **Western UP sugar mills (Meerut, Muzaffarnagar)** | Biomass/bagasse | Cogeneration power |
-| **Rural biogas (dairy belt)** | Biomass | CH₄ cooking fuel — Q28 concept |
-| **Ramganga irrigation/hydropower** | Large hydro (198 MW) | Benefits western UP — Q72 |
-| **2025 Q31** | Himalayan hydro | Stmt 1 true for North India context |
-| **Stubble burning (UP plains)** | Biomass mismanagement | Air pollution — not clean energy use |
-| **Singrauli** | **Thermal/coal** trap | NOT renewable — negative trap |
-| **Lucknow/Noida rooftop solar** | Solar | Urban PM-KUSUM/rooftop policy |
-| **Ganga refineries/fertiliser belt** | Future green H₂ off-take | Industrial demand centres |
+**UP locks:** Mirzapur solar (France collaboration 2018) | Western UP bagasse cogeneration | Ramganga irrigation/power to UP | Limited UP wind.
 
 ---
 
-## Practice Zone — UPPCS Format Questions
+## Practice Zone
 
 **Q1.** Major constituents of biogas are:
 
-1. Methane  2. Butane  3. Carbon dioxide  4. Carbon monoxide  
+A. Methane and CO₂
 
-Options: A. 1 and 3  B. 1 and 2  C. 2 and 3  D. 3 and 4
+B. Butane and CO₂
 
-<details>
-<summary>Show answer</summary>
+C. Methane and CO
 
-**Ans: A** — **2025 Q28**. Methane + CO₂.
+D. Propane and O₂
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q2.** International Solar Alliance headquarters is in:
+
+A. Paris
+
+B. New Delhi
+
+C. Gurugram
+
+D. Nairobi
+
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q3.** National Solar Mission is part of:
+
+A. NAPCC
+
+B. Montreal Protocol
+
+C. WPA 1972
+
+D. Ramsar Convention
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q4.** Which state is historically the leading wind power producer in India?
+
+A. Kerala
+
+B. Tamil Nadu
+
+C. Bihar
+
+D. Assam
+
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q5.** Wind power output most strongly depends on:
+
+A. Cube of wind speed
+
+B. Humidity alone
+
+C. Air pressure alone
+
+D. Moon's gravity
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q6.** Biogas is produced by:
+
+A. Aerobic respiration
+
+B. Anaerobic digestion
+
+C. Nuclear fission
+
+D. Photovoltaic effect
+
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q7.** Bagasse is a biomass source from:
+
+A. Sugarcane
+
+B. Coal
+
+C. Petroleum
+
+D. Uranium
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q8.** Geothermal energy is derived from:
+
+A. Sun's radiation
+
+B. Earth's interior heat
+
+C. Moon's gravity
+
+D. Ocean waves only
+
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q9.** Highest geothermal potential in India is associated with:
+
+A. Puga Valley, Ladakh
+
+B. Thar Desert surface
+
+C. Sundarbans
+
+D. Indo-Gangetic alluvium
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q10.** Tidal energy is primarily driven by:
+
+A. Solar radiation alone
+
+B. Moon's gravity
+
+C. Earth's magnetic field
+
+D. River sediment
+
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q11.** Largest tidal energy potential in India is on:
+
+A. Khambhat Coast
+
+B. Thar Desert
+
+C. Himalayan rivers
+
+D. Kerala backwaters only
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q12.** MNRE classifies small hydro as:
+
+A. ≤10 MW
+
+B. ≤25 MW
+
+C. ≤50 MW
+
+D. ≤100 MW
+
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q13.** Ramganga hydropower project is located in:
+
+A. Garhwal, Uttarakhand
+
+B. Sundarbans
+
+C. Thar
+
+D. Nicobar
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q14.** Himalayan hydro potential statement — which is correct?
+
+A. Himalaya has enormous hydro potential
+
+B. India has zero Himalayan hydro
+
+C. All Himalayas are in Nepal
+
+D. Hydro is non-renewable
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q15.** Green hydrogen is produced by:
+
+A. Coal burning
+
+B. Water electrolysis with renewable power
+
+C. Natural gas without capture
+
+D. Diesel generators
+
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q16.** National Green Hydrogen Mission target by 2030:
+
+A. 5 MMT/year
+
+B. 50 MMT/year
+
+C. 500 GW
+
+D. 5 GW solar only
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q17.** Grey hydrogen is mainly produced from:
+
+A. Renewable electrolysis
+
+B. Natural gas reforming
+
+C. Tidal barrages
+
+D. Wind turbines
+
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q18.** Which is NOT ultimately derived from the Sun's energy?
+
+A. Biomass
+
+B. Wind
+
+C. Geothermal
+
+D. Both biomass and wind
+
+<details><summary>Show answer</summary>
+
+**Ans: C** — Geothermal = Earth's internal heat. (Nuclear is also non-solar when listed.)
+
+</details>
+
+**Q19.** First airport in India fully powered by solar energy:
+
+A. Cochin
+
+B. Chennai
+
+C. Ahmedabad
+
+D. Lucknow
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q20.** Solar energy is converted to electricity through:
+
+A. Photovoltaic cells
+
+B. Dry cells only
+
+C. Tidal barrages
+
+D. Geothermal wells
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q21.** PM-KUSUM primarily promotes:
+
+A. Coal washing
+
+B. Solar pumps for farmers
+
+C. Diesel subsidies
+
+D. Nuclear fusion
+
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q22.** MISHTI is mangroves — SATAT relates to:
+
+A. Bio-CNG from biomass
+
+B. Solar airports
+
+C. Tidal power
+
+D. Grey hydrogen
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q23.** 500 GW non-fossil capacity by 2030 includes:
+
+A. Only solar
+
+B. Solar, wind, hydro, nuclear, biomass
+
+C. Only coal
+
+D. Only oil
+
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q24.** Consider: (1) ISA OSOWOG promotes cross-border solar grid. (2) ISA has exactly 38 members forever.
+
+A. Only 1
+
+B. Only 2
+
+C. Both
+
+D. Neither
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q25.** Consider hydro in North India: (1) Himalaya has enormous hydro potential. (2) Nepal border means zero Indian hydro development.
+
+A. Only 1
+
+B. Only 2
+
+C. Both
+
+D. Neither
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q26.** Tidal energy differs from wave energy because tidal is driven by:
+
+A. Wind on sea surface
+
+B. Moon's gravity
+
+C. River flow
+
+D. Solar PV
+
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q27.** Ramganga project hydropower capacity is approximately:
+
+A. 19.8 MW
+
+B. 198 MW
+
+C. 1980 MW
+
+D. 19,800 MW
+
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q28.** National Green Hydrogen Mission was launched in:
+
+A. 2010
+
+B. 2019
+
+C. 2023
+
+D. 2008
+
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q29.** Which is NOT a biomass energy source?
+
+A. Wood
+
+B. Gobar (dung)
+
+C. Coal
+
+D. Bagasse
+
+<details><summary>Show answer</summary>
+
+**Ans: C** — Coal is fossil fuel. (Nuclear also not biomass — 2022 Q69 pattern.)
+
+</details>
+
+**Q30.** CSP differs from PV because CSP:
+
+A. Uses mirrors to heat fluid for steam turbine
+
+B. Has no heat component
+
+C. Works only at night
+
+D. Uses Moon's gravity
+
+<details><summary>Show answer</summary>
+
+**Ans: A**
 
 </details>
 
 ---
 
-**Q2.** With reference to hydroelectric power in Northern India:
+## Complete PYQ Bank (Topic 22)
 
-1. The Himalayan region has enormous hydroelectric potential.  
-2. Eastern UP and Bihar cannot use this potential because the Himalayas lie in Nepal.  
+**Q1. UPPCS 2025, Q28** — Biogas = Methane + CO₂ → **Ans: A (1 and 3)**
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+**Q2. UPPCS 2025, Q31** — Himalayan hydro enormous; Nepal stmt false → **Ans: D (Only 1)**
 
-<details>
-<summary>Show answer</summary>
+**Q3. UPPCS 2025, Q109** — ISA: 38 members outdated; OSOWOG true → **Ans: A (Only 2)**
 
-**Ans: A** — **2025 Q31**. Only 1 true.
+**Q4. UPPCS 2024, Q72** — Ramganga project matching → **198 MW + Garhwal correct**
 
-</details>
+**Q5. UPPCS 2022, Q20** — Khambhat = largest tidal potential → **Ans: C**
 
----
+**Q6. UPPCS 2022, Q69** — NOT biomass = Coal (or Nuclear) → **Ans: A**
 
-**Q3.** With reference to International Solar Alliance:
+**Q7. UPPCS 2022, Q132** — Solar → electricity via photovoltaic cells → **Ans: D**
 
-1. It has exactly 38 member countries and is headquartered in India.  
-2. OSOWOG initiative is associated with ISA.  
+**Q8. UPPCS 2022, Q139** — NOT from Sun = Geothermal (or Nuclear) → **Ans: D**
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+**Q9. UPPCS 2022, Q27** — First solar airport = Cochin → **Ans: B**
 
-<details>
-<summary>Show answer</summary>
+**Q10. UPPCS 2020** — UP solar with France 2018 = Mirzapur → **Ans: D**
 
-**Ans: B** — Only 2. **38 members outdated** — Q109 pattern.
+**Q11. UPPCS 2019, Q63** — ISA Secretariat = Gurugram → **Ans: C**
 
-</details>
+**Q12. UPSC pattern** — National Solar Mission under NAPCC → **Ans: NAPCC**
 
 ---
 
-**Q4.** Green hydrogen is produced by:
+## Common Traps
 
-Options: A. Coal gasification without capture  B. Electrolysis of water using renewable electricity  C. Natural gas reforming without CCS  D. Burning biomass in open air
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — **Green** hydrogen definition.
-
-</details>
-
----
-
-**Q5.** National Green Hydrogen Mission was launched in:
-
-Options: A. 2010  B. 2015  C. 2019  D. 2023
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — **January 2023**.
-
-</details>
+| Trap | Lock |
+|------|------|
+| Biogas = butane + CO₂ | **Methane + CO₂** |
+| ISA HQ Paris/New Delhi | **Gurugram** |
+| ISA exactly 38 members | **Outdated count** |
+| Rajasthan leads wind | **Tamil Nadu wind; Rajasthan solar** |
+| Geothermal from Sun | **Earth interior heat** |
+| Tidal = wave energy | **Moon gravity vs wind waves** |
+| Tidal potential in Thar | **Khambhat/Kutch coast** |
+| SHP = 50 MW | **≤25 MW** |
+| Nepal border = zero Indian hydro | **False — Q31** |
+| Grey hydrogen = green | **Grey = fossil gas** |
+| Green H₂ Mission 2019 | **January 2023** |
+| Nuclear = renewable in MCQs | **Usually non-renewable category** |
+| Singrauli = hydro | **Thermal power hub** |
 
 ---
 
-**Q6.** Match List-I / List-II:
-
-List-I: A. Bhadla  B. Muppandal  C. Puga Valley  D. Gulf of Khambhat  
-List-II: 1. Tidal potential  2. Geothermal  3. Solar park  4. Wind farm  
-
-Options: A. A-3, B-4, C-2, D-1  B. A-4, B-3, C-1, D-2  C. A-3, B-1, C-2, D-4  D. A-2, B-4, C-3, D-1
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Bhadla=solar; Muppandal=wind; Puga=geothermal; Khambhat=tidal.
-
-</details>
-
----
-
-**Q7.** With reference to small hydro projects in India:
-
-1. MNRE classifies small hydro as projects up to 25 MW capacity.  
-2. MNRE classifies small hydro as projects up to 100 MW capacity.
-
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Only 1. SHP = **≤25 MW**.
-
-</details>
-
----
-
-**Q8.** With reference to wind energy in India:
-
-1. Tamil Nadu is among the leading states in installed wind capacity.  
-2. Rajasthan is the undisputed national leader in installed wind capacity, ahead of all coastal states.
-
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Only 1. **TN/Gujarat** lead wind — Rajasthan leads **solar**.
-
-</details>
-
----
-
-**Q9.** Consider the following about hydrogen colours:
-
-1. Grey hydrogen is mainly produced from natural gas.  
-2. Green hydrogen is produced from coal gasification.  
-
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Only 1. Green = **renewable electrolysis**.
-
-</details>
-
----
-
-**Q10.** Ramganga hydropower project is located in:
-
-Options: A. Garhwal, Uttarakhand  B. Sundarbans  C. Thar Desert  D. Nicobar Islands
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — **2024 Q72** context.
-
-</details>
-
----
-
-**Q11.** Tidal energy is primarily driven by:
-
-Options: A. Solar radiation alone  B. Gravitational pull of the Moon  C. Earth's magnetic field  D. River sediment load
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Lunar gravity.
-
-</details>
-
----
-
-**Q12.** PM-KUSUM scheme primarily promotes:
-
-Options: A. Coal washing  B. Solar pumps and solarisation of agriculture  C. Diesel subsidies  D. Nuclear fusion
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Farmer **solar pumps**.
-
-</details>
-
----
-
-**Q13.** Which pair is NOT correctly matched?
-
-Options: A. Bagasse — Sugarcane industry  B. Biogas — Anaerobic digestion  C. Geothermal — Puga Valley potential  D. Tidal — Highest potential in Thar Desert
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D** — Tidal = **coastal** (Khambhat/Kutch).
-
-</details>
-
----
-
-**Q14.** Assertion (A): Solar PV converts sunlight directly into electricity.  
-Reason (R): CSP uses mirrors to heat a fluid to produce steam for turbines.
-
-Options: A. Both true, R explains A  B. Both true, R does not explain A  C. A true, R false  D. A false, R false
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — Both true — different solar technologies; R does not explain PV mechanism.
-
-</details>
-
----
-
-**Q15.** Target production under National Green Hydrogen Mission by 2030 is:
-
-Options: A. 5 MMT per annum  B. 50 MMT per annum  C. 500 GW  D. 5 GW
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — **5 MMT/year**.
-
-</details>
-
----
-
-**Q16.** ISA headquarters is located at:
-
-Options: A. New Delhi  B. Gurugram  C. Paris  D. Jaipur
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — **Gurugram, Haryana**.
-
-</details>
-
----
-
-**Q17.** With reference to biomass energy in UP:
-
-1. Bagasse from sugar mills is used for cogeneration.  
-2. Stubble burning is a sustainable biomass energy practice.  
-
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Only 1. Stubble burning = **pollution**, not sustainable energy use.
-
-</details>
-
----
-
-**Q18.** Geothermal energy in India is best associated with:
-
-Options: A. Puga Valley, Ladakh  B. Indo-Gangetic alluvium  C. Sundarbans mangroves  D. Deccan trap basalt only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — **Puga Valley** hot springs.
-
-</details>
-
----
-
-**Q19.** Which renewable source is most **predictable** on a daily timetable?
-
-Options: A. Solar PV  B. Wind  C. Tidal  D. Rain-fed biomass combustion
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — **Tidal** follows lunar schedule.
-
-</details>
-
----
-
-**Q20.** 500 GW non-fossil fuel capacity target by 2030 includes:
-
-Options: A. Only solar  B. Solar, wind, hydro, biomass, nuclear combined  C. Only coal  D. Only oil
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — **Non-fossil** mix — not solar alone.
-
-</details>
-
----
-
-**Q21.** Match List-I / List-II:
-
-List-I: A. SATAT  B. PM-KUSUM  C. National Solar Mission  D. Green Hydrogen Mission  
-List-II: 1. 2023 hydrogen hub  2. 2010 solar scale-up  3. Bio-CNG  4. Solar agricultural pumps  
-
-Options: A. A-3, B-4, C-2, D-1  B. A-4, B-3, C-1, D-2  C. A-1, B-2, C-3, D-4  D. A-2, B-1, C-4, D-3
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — SATAT=bio-CNG; KUSUM=solar pumps; NSM=2010; GH Mission=2023.
-
-</details>
-
----
-
-**Q22.** Hydropower capacity of Ramganga project is approximately:
-
-Options: A. 19.8 MW  B. 198 MW  C. 1980 MW  D. 19,800 MW
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — **198 MW** — 2024 Q72.
-
-</details>
-
----
-
-**Q23.** Grey hydrogen differs from green hydrogen because grey hydrogen:
-
-Options: A. Comes from renewable electrolysis  B. Is produced mainly from natural gas with high CO₂ emissions  C. Has no carbon in molecule  D. Is only used in solar panels
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — **Natural gas reforming**.
-
-</details>
-
----
-
-**Q24.** Bundelkhand Solar Project is significant for UP because:
-
-Options: A. It replaces all thermal plants in Singrauli  B. It brings solar investment to a drought-affected region  C. It is a tidal power project  D. It mines coal cleanly
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — **Bundelkhand** drought region solar.
-
-</details>
-
----
-
-**Q25.** World Solar Bank and OSOWOG are linked to:
-
-Options: A. CITES  B. International Solar Alliance  C. Ramsar Convention  D. Montreal Protocol
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — **ISA** initiatives.
-
-</details>
-
----
-
-**Q26.** Consider the following:
-
-1. National Solar Mission is part of NAPCC.  
-2. NAPCC was launched in 2010.  
-
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Only 1. NAPCC = **2008** (not 2010).
-
-</details>
-
----
-
-**Q27.** Offshore wind potential in India is highest along:
-
-Options: A. Gujarat and Tamil Nadu coasts  B. Indo-Gangetic plain  C. Ladakh desert  D. Central UP
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — **Coastal** Gujarat/TN.
-
-</details>
-
----
-
-**Q28.** Anaerobic digestion produces biogas because:
-
-Options: A. Bacteria break organic matter without oxygen  B. Oxygen burns methane  C. Sunlight splits water directly  D. Tides compress cattle dung
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — **Anaerobic** = no oxygen.
-
-</details>
-
----
-
-**Q29.** Which is a run-of-river hydro characteristic?
-
-Options: A. Massive reservoir submergence always required  B. Uses river flow with minimal large storage  C. Uses coal to boil river water  D. Depends on lunar tides only
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — **Minimal large reservoir**.
-
-</details>
-
----
-
-**Q30.** E20 policy in India relates to:
-
-Options: A. 20% ethanol blending in petrol  B. 20 GW tidal power  C. 20 MW geothermal mandate  D. 20% nuclear share
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — **Ethanol blending** in transport fuel.
-
-</details>
-
----
-
-**Q31.** Match renewable ↔ intermittency:
-
-List-I: A. Solar  B. Tidal  C. Geothermal  D. Wind  
-List-II: 1. Predictable cycle  2. Variable (weather)  3. Variable (weather)  4. Baseload potential  
-
-Options: A. A-2, B-1, C-4, D-3  B. A-1, B-2, C-3, D-4  C. A-4, B-3, C-2, D-1  D. A-3, B-4, C-1, D-2
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A** — Solar=variable(2); Tidal=predictable(1); Geothermal=baseload(4); Wind=variable(3).
-
-</details>
-
----
-
-**Q32.** Singrauli in UP is primarily known for:
-
-Options: A. Solar PV manufacturing hub  B. Thermal/coal power belt — not renewable flagship  C. Tidal barrage  D. Geothermal pilot
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B** — **Coal/thermal** trap — not renewable.
-
-</details>
-
----
-
-## Complete PYQ Bank
-
-**Q1. UPPCS Prelims 2025 (Q28)**
-
-Biogas major constituents: Methane, Butane, CO₂, CO?
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — 1 and 3** (Methane + Carbon dioxide).
-
-</details>
-
----
-
-**Q2. UPPCS Prelims 2025 (Q31)**
-
-Himalayan hydro potential + Nepal statement?
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: D — Only 1**.
-
-</details>
-
----
-
-**Q3. UPPCS Prelims 2025 (Q109)**
-
-ISA 38 members + OSOWOG/World Solar Bank?
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A — Only 2**.
-
-</details>
-
----
-
-**Q4. UPPCS Prelims 2024 (Q72)**
-
-Ramganga Project pair matching?
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: Identify NOT matched pair** — **198 MW** and **Garhwal** correct; check irrigation stat.
-
-</details>
-
----
-
-**Q5. UPSC 2021 — Pattern**
-
-Green Hydrogen Mission objective?
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: Global hub for green hydrogen production, usage, export**.
-
-</details>
-
----
-
-**Q6. UPSC 2017 — Pattern**
-
-Solar PV = renewable green economy?
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: (b) Solar PV**.
-
-</details>
-
----
-
-**Q7. UPSC 2016 — Pattern**
-
-Gulf of Khambhat = tidal potential?
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: (a)**.
-
-</details>
-
----
-
-**Q8. UPSC 2014 — Pattern**
-
-Geothermal = Earth's interior heat?
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: (b)**.
-
-</details>
-
----
-
-## Mains Answer Framework
-
-| Question type | Opening line | Body points | Close |
-|---------------|-------------|-------------|-------|
-| **India's renewable energy transition** | India committed to **500 GW non-fossil by 2030** under Paris NDC framework | Solar (NSM, ISA, Bhadla); wind (TN/Gujarat); biomass/biogas (rural, sugar); hydro (Himalayan caution); green hydrogen Mission 2023 | Grid storage, repowering, just transition for coal belts |
-| **Green hydrogen economy** | Green H₂ from renewable electrolysis — decarbonise hard-to-abate sectors | 5 MMT target; grey vs green distinction; ammonia/steel/refining use; cost and infrastructure barriers | Scale renewables + electrolyser manufacturing |
-| **Himalayan hydro — opportunity and risk** | Enormous potential (Q31) but seismic, social, ecological constraints | Run-of-river vs storage; Ramganga/Tehri examples; transboundary rivers; EIA and sediment | Sustainable small hydro + pumped storage over mega-dam reliance |
-| **Biomass — energy vs pollution** | Biogas (CH₄+CO₂) offers rural clean cooking; stubble burning wastes resource | GOBAR-Dhan, SATAT, bagasse cogeneration; UP sugar belt; air quality trade-off | Convert residue to CBG instead of field burning |
-| **UP renewable roadmap** | UP transitions from coal-heavy (Singrauli) to solar-biomass mix | Bundelkhand solar; bagasse; Ramganga hydro benefits; biogas in dairy belt | Policy alignment with SDG 7 and air quality goals |
-
----
-
-## Exam Intelligence — What to Expect
-
-### UPPCS Prelims Priority
-
-| Priority | Subtopic | Why |
-|----------|----------|-----|
-| ★★★ | Biogas CH₄ + CO₂ | 2025 Q28 direct |
-| ★★★ | Himalayan hydro Q31 | Stmt 1 vs 2 trap |
-| ★★★ | Green vs grey hydrogen | Mission 2023 CA |
-| ★★ | ISA / OSOWOG / Gurugram HQ | 2025 Q109 |
-| ★★ | SHP ≤25 MW definition | MNRE standard |
-| ★★ | Ramganga 198 MW Garhwal | 2024 Q72 |
-| ★★ | TN wind leader | Perennial trap |
-| ★ | Tidal Khambhat/Kutch | Gujarat potential |
-| ★ | Puga geothermal | Ladakh site |
-| ★ | Bundelkhand solar UP | State-specific |
-
-### UPPCS vs UPSC
-
-| Aspect | UPPCS | UPSC |
-|--------|-------|------|
-| **Format** | Biogas MCQ; hydro 2-statement | Mechanism + scheme + colour codes |
-| **India focus** | Q28, Q31, Q109, Ramganga | Green hydrogen, ISA, tidal |
-| **Traps** | Butane biogas; Nepal hydro stmt | Grey vs green H₂ |
-| **Crossover** | Geography hydro | Science biogas chemistry |
-
-### Common Traps — Don't Fall For These
-
-| # | Trap | Correct |
-|---|------|---------|
-| 1 | Biogas = methane + butane | **Methane + CO₂** |
-| 2 | Nepal Himalaya = zero Indian hydro | **Indian Himalaya huge potential** |
-| 3 | ISA has only 38 members | **100+ countries** — stmt outdated |
-| 4 | Green hydrogen from natural gas | **Renewable electrolysis** |
-| 5 | Grey hydrogen = green | **Grey = fossil gas** |
-| 6 | Geothermal = major Indian RE today | **Limited — Puga, Manikaran early stage** |
-| 7 | Tidal power operational mega-scale India | **Potential only — Khambhat/Kutch** |
-| 8 | SHP limit 50 MW | **≤25 MW** |
-| 9 | Singrauli = solar hub | **Coal/thermal belt** |
-| 10 | Tamil Nadu leads solar | TN leads **wind**; Rajasthan **solar** |
-| 11 | Tidal = wave energy | **Different mechanisms** |
-| 12 | NAPCC launched 2010 | **NAPCC 2008**; Solar Mission 2010 |
-
----
-
-## Syllabus Coverage Checklist (Topic 22)
-
-| # | Syllabus subtopic | Section | Definitions | Prose | Exam note | PYQs | Examples |
-|---|-------------------|---------|-------------|-------|-----------|------|----------|
-| 1 | Solar Energy | 22.1 | ✅ | ✅ | ✅ | ✅ 4 | ✅ 3 |
-| 2 | Wind Energy | 22.2 | ✅ | ✅ | ✅ | ✅ 4 | ✅ 3 |
-| 3 | Biomass Energy | 22.3 | ✅ | ✅ | ✅ | ✅ 4 | ✅ 3 |
-| 4 | Geothermal Energy | 22.4 | ✅ | ✅ | ✅ | ✅ 4 | ✅ 3 |
-| 5 | Tidal Energy | 22.5 | ✅ | ✅ | ✅ | ✅ 4 | ✅ 3 |
-| 6 | Small Hydro Projects | 22.6 | ✅ | ✅ | ✅ | ✅ 4 | ✅ 3 |
-| 7 | Green Hydrogen | 22.7 | ✅ | ✅ | ✅ | ✅ 4 | ✅ 3 |
-
-**Also included:** UP Focus | Consolidated Reference | 32 Practice Qs (44% multi-statement) | PYQ Bank 8 cards | Mains Framework | 12 Traps
-
----
-
-*End of Topic 22 — Renewable Energy. This file is complete.*
+## Delivery Report
+
+| Metric | Value |
+|--------|-------|
+| **Lines** | ~442 (was ~908 old format) |
+| **Teaching blocks** | §22.1–22.7 (7 syllabus bullets) |
+| **Practice Zone** | 30 questions |
+| **PYQ Bank** | 12 questions |
+| **Common Traps** | 13 |
+| **Inline PYQs** | 2025 Q28 (§22.3), Q31 (§22.6), Q109 (§22.1); 2024 Q72 (§22.6); 2022 Khambhat (§22.5) |
+
+### Syllabus coverage map
+
+| Syllabus bullet | Section |
+|-----------------|---------|
+| Solar Energy | §22.1 |
+| Wind Energy | §22.2 |
+| Biomass Energy | §22.3 |
+| Geothermal Energy | §22.4 |
+| Tidal Energy | §22.5 |
+| Small Hydro Projects | §22.6 |
+| Green Hydrogen | §22.7 |
+
+### Topic boundaries
+
+- **Climate change / NAPCC full detail** — Topic 10/15
+- **Pollution from stubble burning** — Topic 9
+- **MNRE org profile depth** — Topic 16/CA
+- **International climate treaties** — Topic 18
+
+### PYQ audit
+
+| PYQ | Placement |
+|-----|-----------|
+| 2025 Q28 biogas | §22.3 inline |
+| 2025 Q31 Himalayan hydro | §22.6 inline |
+| 2025 Q109 ISA | §22.1 inline |
+| 2024 Q72 Ramganga | §22.6 inline |
+| 2022 Khambhat tidal | §22.5 inline |
+| 2022 Q139 NOT sun-derived | Practice Q18 + PYQ Bank |
+
+**File ready: YES**

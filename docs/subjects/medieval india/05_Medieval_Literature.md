@@ -326,7 +326,13 @@ Khusrau = Sultanate (NOT Akbar/Tansen) | Tutinama = Nakhshabi (NOT Khusrau)
 
 **Q1.** Which is **NOT** correctly matched?
 
-Options: A. Tabaqat-i-Nasiri — Minhaj | B. Tarikh-i-Firoz Shahi — Barani | C. Tughlaqnama — Ibn Battuta | D. Humayunnama — Gulbadan Begum
+A. Tabaqat-i-Nasiri — Minhaj |
+
+B. Tarikh-i-Firoz Shahi — Barani |
+
+C. Tughlaqnama — Ibn Battuta |
+
+D. Humayunnama — Gulbadan Begum
 
 <details><summary>Show answer</summary>**Ans: C** — 2019 Q16.</details>
 
@@ -338,7 +344,13 @@ Options: A.1-3-2-4 | B.1-3-4-2 | C.2-4-1-3 | D.1-2-3-4
 
 **Q3.** A(A): Babur wrote Tuzk-e-Babri in Chagatai Turki. R(R): Turki was official Mughal court language.
 
-Options: A. Both true, R not explanation | B. A false, R true | C. A true, R false | D. Both true, R explains A
+A. Both true, R not explanation |
+
+B. A false, R true |
+
+C. A true, R false |
+
+D. Both true, R explains A
 
 <details><summary>Show answer</summary>**Ans: C** — 2025 Q3.</details>
 
@@ -350,37 +362,73 @@ Options: A.2-1-4-3 | B.3-2-1-4 | C.2-3-1-4 | D.2-4-3-1
 
 **Q5.** 1. Akbarnama is narrative history 2. Ain-i-Akbari is admin gazetteer by Abul Fazl
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q6.** Amir Khusrau: 1. Wrote Rag Vibodh 2. Wrote prose Tughlaqnama identical to Barani's
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: A** — Prose Tughlaqnama = Barani.</details>
 
 **Q7.** Tughlaqnama authored by:
 
-Options: A. Ibn Battuta | B. Minhaj | C. Ziauddin Barani | D. Hasan Nizami
+A. Ibn Battuta |
+
+B. Minhaj |
+
+C. Ziauddin Barani |
+
+D. Hasan Nizami
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q8.** Mughal memoirs: 1. Baburnama in Chagatai Turki 2. Tuzuk-i-Jahangiri by Abul Fazl
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: A** — Tuzuk = Jahangir's memoir.</details>
 
 **Q9.** Tabaqat-i-Nasiri associated with:
 
-Options: A. Abul Fazl | B. Minhaj-us-Siraj | C. Abdul Hamid Lahori | D. Gulbadan Begum
+A. Abul Fazl |
+
+B. Minhaj-us-Siraj |
+
+C. Abdul Hamid Lahori |
+
+D. Gulbadan Begum
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q10.** Padshahnama is official history of:
 
-Options: A. Akbar | B. Jahangir | C. Shah Jahan | D. Aurangzeb
+A. Akbar |
+
+B. Jahangir |
+
+C. Shah Jahan |
+
+D. Aurangzeb
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
@@ -392,37 +440,73 @@ Options: A.2-3-4-1 | B.4-2-1-3 | C.2-1-4-3 | D.3-2-4-1
 
 **Q12.** Ibn Battuta: 1. Wrote Rihla 2. Authored Tughlaqnama
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: A** — 2019 Q16 trap.</details>
 
 **Q13.** Humayunnama written by:
 
-Options: A. Babur | B. Gulbadan Begum | C. Jahangir | D. Badauni
+A. Babur |
+
+B. Gulbadan Begum |
+
+C. Jahangir |
+
+D. Badauni
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q14.** Correctly matched:
 
-Options: A. Ain-i-Akbari — Jahangir | B. Muntakhab-ut-Tawarikh — Badauni | C. Rag Vibodh — Barani | D. Khamsa — Ibn Battuta
+A. Ain-i-Akbari — Jahangir |
+
+B. Muntakhab-ut-Tawarikh — Badauni |
+
+C. Rag Vibodh — Barani |
+
+D. Khamsa — Ibn Battuta
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q15.** Tarikh-i-Firoz Shahi covers:
 
-Options: A. Akbar's reign | B. Balban to Firuz Shah | C. Shah Jahan | D. Ghaznavid only
+A. Akbar's reign |
+
+B. Balban to Firuz Shah |
+
+C. Shah Jahan |
+
+D. Ghaznavid only
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q16.** A(A): Persian was dominant Mughal court language. R(R): Babur wrote memoir in Persian.
 
-Options: A. Both true, R explains A | B. Both true, R not explanation | C. A true, R false | D. A false, R true
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
 
 <details><summary>Show answer</summary>**Ans: C** — Babur used Turki.</details>
 
 **Q17.** Abdul Hamid Lahori associated with:
 
-Options: A. Akbarnama | B. Padshahnama | C. Baburnama | D. Tabaqat-i-Nasiri
+A. Akbarnama |
+
+B. Padshahnama |
+
+C. Baburnama |
+
+D. Tabaqat-i-Nasiri
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
@@ -434,43 +518,85 @@ Options: A.1-2-3-4 | B.2-1-3-4 | C.1-3-2-4 | D.3-1-2-4
 
 **Q19.** 1. Khamsa — Amir Khusrau 2. Khamsa — Tansen
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q20.** NOT matched:
 
-Options: A. Minhaj — Tabaqat-i-Nasiri | B. Barani — Tughlaqnama | C. Khusrau — Rag Vibodh | D. Battuta — Akbarnama
+A. Minhaj — Tabaqat-i-Nasiri |
+
+B. Barani — Tughlaqnama |
+
+C. Khusrau — Rag Vibodh |
+
+D. Battuta — Akbarnama
 
 <details><summary>Show answer</summary>**Ans: D**</details>
 
 **Q21.** Muntakhab-ut-Tawarikh by:
 
-Options: A. Abul Fazl | B. Badauni | C. Faizi | D. Lahori
+A. Abul Fazl |
+
+B. Badauni |
+
+C. Faizi |
+
+D. Lahori
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q22.** Delhi Sultanate vs Mughal: 1. Both used Persian 2. Both relied exclusively on Sanskrit chronicles
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q23.** Taj-ul-Maasir linked to:
 
-Options: A. Hasan Nizami | B. Barani | C. Minhaj | D. Khusrau
+A. Hasan Nizami |
+
+B. Barani |
+
+C. Minhaj |
+
+D. Khusrau
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q24.** A/R: Abul Fazl wrote Akbarnama and Ain-i-Akbari. R: Ain-i-Akbari is narrative biography while Akbarnama lists revenue.
 
-Options: A. Both true, R explains A | B. Both true, R not explanation | C. A true, R false | D. A false, R true
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
 
 <details><summary>Show answer</summary>**Ans: C** — R reverses the two books.</details>
 
 **Q25.** Gulbadan Begum was:
 
-Options: A. Daughter of Babur; author of Humayunnama | B. Wife of Akbar; author of Akbarnama | C. Daughter of Jahangir; author of Tuzuk | D. Sister of Aurangzeb
+A. Daughter of Babur; author of Humayunnama |
+
+B. Wife of Akbar; author of Akbarnama |
+
+C. Daughter of Jahangir; author of Tuzuk |
+
+D. Sister of Aurangzeb
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
@@ -482,43 +608,85 @@ Options: A.3-2-1 | B.2-3-1 | C.1-2-3 | D.3-1-2
 
 **Q27.** Faizi died in:
 
-Options: A. 1595 | B. 1602 | C. 1627 | D. 1658
+A. 1595 |
+
+B. 1602 |
+
+C. 1627 |
+
+D. 1658
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q28.** 2019 Q16 traps: 1. Tarikh-i-Firozshahi — Shams-i-Siraj Alif wrong 2. Tughlaqnama — Ibn Battuta wrong
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: C** — official answer = C (Tughlaqnama–Battuta).</details>
 
 **Q29.** Jahangir: 1. Wrote Tuzuk-i-Jahangiri 2. Wrote Padshahnama on own reign
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q30.** Original Baburnama language:
 
-Options: A. Persian | B. Arabic | C. Chagatai Turki | D. Hindavi
+A. Persian |
+
+B. Arabic |
+
+C. Chagatai Turki |
+
+D. Hindavi
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q31.** Amir Khusrau served court of:
 
-Options: A. Akbar | B. Alauddin Khalji among others | C. Shah Jahan | D. Aurangzeb
+A. Akbar |
+
+B. Alauddin Khalji among others |
+
+C. Shah Jahan |
+
+D. Aurangzeb
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q32.** Padshahnama vs Tuzuk: 1. Padshahnama = Shah Jahan chronicle 2. Tuzuk = Jahangir memoir
 
-Options: A. Only 1 | B. Only 2 | C. Both | D. Neither
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q33.** Tutinama translator:
 
-Options: A. Nakhshabi | B. Amir Khusrau | C. Barani | D. Abul Fazl
+A. Nakhshabi |
+
+B. Amir Khusrau |
+
+C. Barani |
+
+D. Abul Fazl
 
 <details><summary>Show answer</summary>**Ans: A** — 2022 Q43.</details>
 
@@ -530,37 +698,73 @@ Options: A.4-2-1-3 | B.2-4-1-3 | C.1-2-4-3 | D.4-2-3-1
 
 **Q35.** Which statement is **false**?
 
-Options: A. Abul Fazl wrote Akbarnama | B. Barani wrote Tughlaqnama | C. Ibn Battuta wrote Tughlaqnama | D. Jahangir wrote Tuzuk-i-Jahangiri
+A. Abul Fazl wrote Akbarnama |
+
+B. Barani wrote Tughlaqnama |
+
+C. Ibn Battuta wrote Tughlaqnama |
+
+D. Jahangir wrote Tuzuk-i-Jahangiri
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
 **Q36.** Ain-i-Akbari contains:
 
-Options: A. Akbar's birth story | B. Revenue, army, province data | C. Jahangir's natural history | D. Shah Jahan's Deccan campaigns
+A. Akbar's birth story |
+
+B. Revenue, army, province data |
+
+C. Jahangir's natural history |
+
+D. Shah Jahan's Deccan campaigns
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q37.** Barani's Jahandari theory means:
 
-Options: A. Sultan as worldly ruler balancing Sharia and state needs | B. Complete rejection of Islam | C. Hindu-Muslim synthesis | D. Sufi mysticism
+A. Sultan as worldly ruler balancing Sharia and state needs |
+
+B. Complete rejection of Islam |
+
+C. Hindu-Muslim synthesis |
+
+D. Sufi mysticism
 
 <details><summary>Show answer</summary>**Ans: A**</details>
 
 **Q38.** Baburnama Persian translation by:
 
-Options: A. Abul Fazl | B. Abdur Rahim Khan-i-Khanan | C. Badauni | D. Faizi
+A. Abul Fazl |
+
+B. Abdur Rahim Khan-i-Khanan |
+
+C. Badauni |
+
+D. Faizi
 
 <details><summary>Show answer</summary>**Ans: B**</details>
 
 **Q39.** Riyaz-us-Salatin is history of:
 
-Options: A. Bengal | B. Gujarat | C. Deccan | D. Kashmir
+A. Bengal |
+
+B. Gujarat |
+
+C. Deccan |
+
+D. Kashmir
 
 <details><summary>Show answer</summary>**Ans: A** — 2023 Q33.</details>
 
 **Q40.** Amir Khusrau's disciple relationship:
 
-Options: A. Disciple of Nizamuddin Auliya | B. Disciple of Ramananda | C. Disciple of Vallabhacharya | D. Disciple of Abul Fazl
+A. Disciple of Nizamuddin Auliya |
+
+B. Disciple of Ramananda |
+
+C. Disciple of Vallabhacharya |
+
+D. Disciple of Abul Fazl
 
 <details><summary>Show answer</summary>**Ans: A** — 2025 Q12 overlap.</details>
 
@@ -594,7 +798,13 @@ Options: A.2-1-4-3 | B.3-2-1-4 | C.2-3-1-4 | D.2-4-3-1
 
 A(A): Babur wrote Tuzk-e-Babri in Chagatai Turki. R(R): Turki was official Mughal court language.
 
-Options: A. Both true, R not explanation | B. A false, R true | C. A true, R false | D. Both true, R explains A
+A. Both true, R not explanation |
+
+B. A false, R true |
+
+C. A true, R false |
+
+D. Both true, R explains A
 
 <details><summary>Show answer</summary>**Ans: C**</details>
 
@@ -608,7 +818,13 @@ Amir Khusrau → Nizamuddin Auliya (guru code 3) in disciple-guru match.
 
 Who translated *Suka Saptati* into Persian as *Tutinama*?
 
-Options: A. Khwaja Ziya-ud-din Nakhshabi | B. Abdur Razzak | C. Shihabuddin-al-Umari | D. Amir Khusro
+A. Khwaja Ziya-ud-din Nakhshabi |
+
+B. Abdur Razzak |
+
+C. Shihabuddin-al-Umari |
+
+D. Amir Khusro
 
 <details><summary>Show answer</summary>**Ans: A** — NOT Amir Khusrau.</details>
 

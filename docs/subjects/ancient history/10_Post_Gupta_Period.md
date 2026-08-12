@@ -358,6 +358,7 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 **Q5.** Given below are two statements:
 
 **Assertion (A):** Pulakeshin II stopped Harsha’s southward push.  
+
 **Reason (R):** The Aihole inscription records that boast.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -465,6 +466,7 @@ A. 1–3–4–2  B. 1–4–3–2  C. 3–1–4–2  D. 1–3–2–4
 **Q11.** Given below are two statements:
 
 **Assertion (A):** Hiuen Tsang studied at Nalanda.  
+
 **Reason (R):** His teacher there is named Shilabhadra.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -503,6 +505,7 @@ A. 2 3 1  B. 3 2 1  C. 2 1 3  D. 1 3 2
 **Q13.** Given below are two statements:
 
 **Assertion (A):** Harsha-samvat begins in 606 CE.  
+
 **Reason (R):** That year is taken as Harsha’s accession at Thanesar.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -610,6 +613,7 @@ A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 3 1 2
 **Q19.** Given below are two statements:
 
 **Assertion (A):** Rajyashri was married into the Maukhari house.  
+
 **Reason (R):** Her husband was Grihavarman of Kannauj.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -681,6 +685,7 @@ A. 1 2 3  B. 2 1 3  C. 3 2 1  D. 1 3 2
 **Q23.** Given below are two statements:
 
 **Assertion (A):** Harsha’s empire did not survive him.  
+
 **Reason (R):** Wang Xuance met a stable Pushyabhuti heir in 648 CE.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -771,6 +776,7 @@ A. 3 1 2  B. 1 3 2  C. 3 2 1  D. 2 1 3
 **Q28.** Given below are two statements:
 
 **Assertion (A):** Mihirakula belongs to the Huna line after Toramana.  
+
 **Reason (R):** The Eran boar inscription names Toramana.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -859,6 +865,7 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 **Q33.** Given below are two statements:
 
 **Assertion (A):** 2018 Q16 answer is Harshavardhan.  
+
 **Reason (R):** Hathigumpha is Kharavela’s inscription.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -950,6 +957,7 @@ A. 2 1 3  B. 1 2 3  C. 2 3 1  D. 1 3 2
 **Q38.** Given below are two statements:
 
 **Assertion (A):** Kannauj is also called Kanyakubja.  
+
 **Reason (R):** Thanesar is also called Sthaneshvara.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -1039,6 +1047,7 @@ A. 2 3 1  B. 3 2 1  C. 2 1 3  D. 1 3 2
 **Q43.** Given below are two statements:
 
 **Assertion (A):** Al-Biruni is last in the 2024 traveller order.  
+
 **Reason (R):** He belongs to Mahmud of Ghazni’s age, ~1017.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -1126,6 +1135,7 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 **Q48.** Given below are two statements:
 
 **Assertion (A):** 2022 Q87 answer is B.  
+
 **Reason (R):** Sarvavarman is not the issuer of the Gaya copper plate.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  

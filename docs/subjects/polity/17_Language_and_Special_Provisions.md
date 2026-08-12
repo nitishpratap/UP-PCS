@@ -590,7 +590,10 @@ A. Union Territories — Part VIII  B. Scheduled and Tribal Areas — Part X  C.
 
 </details>
 
-**Q5.** **Assertion (A):** English continues as an associate official language of the Union after 1965.  
+**Q5.**
+
+**Assertion (A):** English continues as an associate official language of the Union after 1965.
+
 **Reason (R):** The Constitution was amended to extend the 15-year period.  
 A. Both (A) and (R) true and (R) explains (A)  
 B. Both (A) and (R) true but (R) does not explain (A)  
@@ -761,7 +764,10 @@ A. 22 members, all from LS  B. 30 members — 20 LS + 10 RS  C. 15 members — 1
 
 </details>
 
-**Q22.** **Assertion (A):** The Committee of Parliament on Official Language (1976) is the Article 344 Commission under another name.  
+**Q22.**
+
+**Assertion (A):** The Committee of Parliament on Official Language (1976) is the Article 344 Commission under another name.
+
 **Reason (R):** The 1976 Committee is a statutory body chaired by the Union Home Minister.  
 A. Both (A) and (R) true and (R) explains (A)  
 B. Both (A) and (R) true but (R) does not explain (A)  
@@ -886,7 +892,10 @@ A. 1, 3, 4, 2  B. 1, 3, 2, 4  C. 3, 1, 4, 2  D. 1, 4, 3, 2
 
 </details>
 
-**Q34.** **Assertion (A):** There is no national language of India in the Constitution.  
+**Q34.**
+
+**Assertion (A):** There is no national language of India in the Constitution.
+
 **Reason (R):** Article 343 names Hindi in Devanagari as the official language of the Union.  
 A. Both (A) and (R) true and (R) explains (A)  
 B. Both (A) and (R) true but (R) does not explain (A)  
@@ -1017,7 +1026,10 @@ A. Santhali — Ol Chiki  B. Maithili — 92nd Amendment  C. Bhojpuri — 92nd A
 
 </details>
 
-**Q47.** **Assertion (A):** Hindi Diwas is observed on 14 September.  
+**Q47.**
+
+**Assertion (A):** Hindi Diwas is observed on 14 September.
+
 **Reason (R):** World Hindi Day is also observed on 14 September.  
 A. Both (A) and (R) true and (R) explains (A)  
 B. Both (A) and (R) true but (R) does not explain (A)  
@@ -1163,7 +1175,10 @@ A. 1998  B. 1996  C. 1995  D. 1993
 
 </details>
 
-**Q61.** **Assertion (A):** PESA extends Part IX to the Sixth Schedule areas.  
+**Q61.**
+
+**Assertion (A):** PESA extends Part IX to the Sixth Schedule areas.
+
 **Reason (R):** PESA applies to Fifth Schedule areas.  
 A. Both (A) and (R) true and (R) explains (A)  
 B. Both (A) and (R) true but (R) does not explain (A)  
@@ -1319,7 +1334,10 @@ A. BTC — Assam  B. TTAADC — Tripura  C. Chakma ADC — Mizoram  D. Khasi Hil
 
 </details>
 
-**Q77.** **Assertion (A):** Having Scheduled Tribes in a State automatically creates Fifth Schedule areas there.  
+**Q77.**
+
+**Assertion (A):** Having Scheduled Tribes in a State automatically creates Fifth Schedule areas there.
+
 **Reason (R):** The ST list is under Article 342; Scheduled Areas are notified separately by the President.  
 A. Both (A) and (R) true and (R) explains (A)  
 B. Both (A) and (R) true but (R) does not explain (A)  
@@ -1530,6 +1548,7 @@ A. Nagaland  B. Hyderabad and Karnataka  C. Maharashtra and Gujarat  D. Ladakh
 
 **Q10. UPPCS Prelims 2019, Q26**  
 **Assertion (A):** Article 30 of the Constitution of India does not define the term ‘minorities’.  
+
 **Reason (R):** The Constitution recognises only linguistic and religious minorities.  
 A. Both (A) and (R) true and (R) is the correct explanation of (A)  
 B. Both (A) and (R) true but (R) is not the correct explanation of (A)  

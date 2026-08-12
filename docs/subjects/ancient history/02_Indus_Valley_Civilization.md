@@ -73,7 +73,13 @@ Unicorn = most common seal | weights 16 | cotton earliest
 Match List-I with List-II: A. Indus Valley Civilization  B. Later Vedic Society  C. Rigvedic Society  D. Medieval Period  
 with 1. Pastoral  2. Land Lordism  3. Agrarian  4. Urban  
 
-Options: A. 4 2 3 1  B. 2 1 4 3  C. 3 4 1 2  D. 4 3 1 2
+A. 4 2 3 1
+
+B. 2 1 4 3
+
+C. 3 4 1 2
+
+D. 4 3 1 2
 
 <details>
 <summary>Show answer</summary>
@@ -166,7 +172,13 @@ Options: A. 4 2 3 1  B. 2 1 4 3  C. 3 4 1 2  D. 4 3 1 2
 Match: A. Balu  B. Manda  C. Padri  D. Hulas  
 with 1. UP  2. J&K  3. Haryana  4. Gujarat  
 
-Options: A. 3 2 1 4  B. 2 3 4 1  C. 2 4 3 1  D. 3 2 4 1
+A. 3 2 1 4
+
+B. 2 3 4 1
+
+C. 2 4 3 1
+
+D. 3 2 4 1
 
 <details>
 <summary>Show answer</summary>
@@ -213,7 +225,14 @@ Rakhigarhi = **Hisar, Haryana**. Kalibangan = Rajasthan. Lothal / Dholavira / Su
 **PYQ — UPPCS Prelims 2025, Q87**
 
 Which IVC sites are in present-day Uttar Pradesh? 1. Mandi  2. Rakhigarhi  3. Hulas  
-Options: A. 1 and 2  B. Only 3  C. 1 and 3  D. Only 1
+
+A. 1 and 2
+
+B. Only 3
+
+C. 1 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -250,7 +269,14 @@ A. Gujarat  B. Haryana  C. Rajasthan  D. Uttar Pradesh
 
 Which centres related to Indus Valley are in Uttar Pradesh?  
 I. Kalibanga  II. Lothal  III. Alamgirpur  IV. Hulas  
-Options: A. I, II, III, IV  B. I, II  C. II, III  D. III, IV
+
+A. I, II, III, IV
+
+B. I, II
+
+C. II, III
+
+D. III, IV
 
 <details>
 <summary>Show answer</summary>
@@ -572,7 +598,13 @@ Reconstructed from objects — **no readable scripture, no standing temple.**
 2. Rakhigarhi  
 3. Hulas
 
-Options: A. 1 and 2  B. Only 3  C. 1 and 3  D. Only 1
+A. 1 and 2
+
+B. Only 3
+
+C. 1 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -601,7 +633,13 @@ A. Harappa  B. Alamgirpur  C. Rakhigarhi  D. Manda
 1. Mandi is in Bijnor district of Uttar Pradesh.  
 2. Manda is the northernmost site, on the Chenab in Jammu.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -637,7 +675,13 @@ D. Kalibangan and Ropar
 | C. Padri | 3. Haryana |
 | D. Hulas | 4. Gujarat |
 
-Options: A. 3 2 1 4  B. 2 3 4 1  C. 2 4 3 1  D. 3 2 4 1
+A. 3 2 1 4
+
+B. 2 3 4 1
+
+C. 2 4 3 1
+
+D. 3 2 4 1
 
 <details>
 <summary>Show answer</summary>
@@ -652,7 +696,13 @@ Options: A. 3 2 1 4  B. 2 3 4 1  C. 2 4 3 1  D. 3 2 4 1
 
 I. Kalibangan  II. Lothal  III. Alamgirpur  IV. Hulas
 
-Options: A. I, II, III, IV  B. I, II  C. II, III  D. III, IV
+A. I, II, III, IV
+
+B. I, II
+
+C. II, III
+
+D. III, IV
 
 <details>
 <summary>Show answer</summary>
@@ -672,7 +722,13 @@ Options: A. I, II, III, IV  B. I, II  C. II, III  D. III, IV
 | C. Rigvedic Society | 3. Agrarian |
 | D. Medieval Period | 4. Urban |
 
-Options: A. 4 2 3 1  B. 2 1 4 3  C. 3 4 1 2  D. 4 3 1 2
+A. 4 2 3 1
+
+B. 2 1 4 3
+
+C. 3 4 1 2
+
+D. 4 3 1 2
 
 <details>
 <summary>Show answer</summary>
@@ -690,7 +746,13 @@ Options: A. 4 2 3 1  B. 2 1 4 3  C. 3 4 1 2  D. 4 3 1 2
 3. Kalibangan  
 4. Harappa
 
-Options: A. 2, 4, 3, 1  B. 4, 2, 3, 1  C. 2, 3, 4, 1  D. 2, 4, 1, 3
+A. 2, 4, 3, 1
+
+B. 4, 2, 3, 1
+
+C. 2, 3, 4, 1
+
+D. 2, 4, 1, 3
 
 <details>
 <summary>Show answer</summary>
@@ -707,7 +769,13 @@ Options: A. 2, 4, 3, 1  B. 4, 2, 3, 1  C. 2, 3, 4, 1  D. 2, 4, 1, 3
 2. R.D. Banerji excavated Mohenjo-daro in 1922.  
 3. Mortimer Wheeler discovered the civilization in 1921.
 
-Options: A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -721,6 +789,7 @@ Options: A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 **Q10.** Given below are two statements:
 
 **Assertion (A):** Rakhigarhi marks the eastern boundary of the Harappan culture.  
+
 **Reason (R):** Rakhigarhi is in Hisar district of Haryana and is the largest Harappan site in India.
 
 Options:  
@@ -743,7 +812,13 @@ D. (A) is false, but (R) is true
 1. Harappan burnt bricks commonly follow a 1:2:4 ratio.  
 2. Iron tools were a regular feature of Mature Harappan cities.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -760,7 +835,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Dockyard — Dholavira  
 3. Ploughed field — Kalibangan
 
-Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
+A. Only 2
+
+B. Only 1 and 2
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -777,7 +858,13 @@ Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
 2. It was inscribed as a UNESCO World Heritage Site in 2021.  
 3. It is famous as the principal Harappan dockyard.
 
-Options: A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -836,7 +923,13 @@ D. Horse bones and a stone signboard
 
 How many of the above are correct?
 
-Options: A. Only one  B. Only two  C. All three  D. None
+A. Only one
+
+B. Only two
+
+C. All three
+
+D. None
 
 <details>
 <summary>Show answer</summary>
@@ -850,6 +943,7 @@ Options: A. Only one  B. Only two  C. All three  D. None
 **Q17.** Given below are two statements:
 
 **Assertion (A):** Harappan script has been fully deciphered as an early form of Sanskrit.  
+
 **Reason (R):** Inscriptions are short and no bilingual text has been accepted.
 
 Options:  
@@ -873,7 +967,13 @@ D. (A) is false, but (R) is true
 2. Most seals are of steatite.  
 3. Seals were used as coined currency.
 
-Options: A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -889,7 +989,13 @@ Options: A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
 1. Harappan weights follow a binary series in which 16 is a key unit.  
 2. Gold punch-marked coins were issued by Harappan cities.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -922,7 +1028,13 @@ D. Banawali — Gujarat dockyard
 2. Cotton was grown.  
 3. Rice evidence is reported from Lothal and Rangpur.
 
-Options: A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -978,7 +1090,13 @@ D. A-1, B-2, C-4, D-3
 1. It is mainly a Ganga–Yamuna doab pottery culture.  
 2. It is identical with Mature Harappan urban planning at Mohenjo-daro.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -995,7 +1113,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Concentration in the Gangetic plain  
 3. Identity with Lothal’s dockyard warehouse
 
-Options: A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1009,6 +1133,7 @@ Options: A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
 **Q26.** Given below are two statements:
 
 **Assertion (A):** Sanauli in Baghpat has yielded chariot burials.  
+
 **Reason (R):** Sanauli is a Mature Harappan grid-city with a Great Bath.
 
 Options:  
@@ -1047,7 +1172,13 @@ D. Manda — Daimabad — Kalibangan
 1. A Pashupati-type seal was found at Mohenjo-daro.  
 2. Monumental stone temples like later Hindu garbhagrihas have been identified at every major site.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1076,7 +1207,13 @@ A. Gujarat  B. Haryana  C. Uttar Pradesh  D. Rajasthan
 1. Shortughai was a Harappan outpost in Afghanistan linked to lapis lazuli.  
 2. Chanhudaro was the westernmost coastal port on the Makran.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1093,7 +1230,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Balu — Uttar Pradesh  
 3. Hulas — Uttar Pradesh
 
-Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
+A. Only 2
+
+B. Only 1 and 2
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1110,7 +1253,13 @@ Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
 2. It had an artificial dockyard.  
 3. It lies in present-day Uttar Pradesh.
 
-Options: A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1140,7 +1289,13 @@ A. Mohenjo-daro  B. Banawali  C. Sutkagen-dor  D. Alamgirpur
 2. Dholavira uniquely shows a middle town as well.  
 3. Every site has a Great Bath.
 
-Options: A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1154,6 +1309,7 @@ Options: A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
 **Q35.** Given below are two statements:
 
 **Assertion (A):** Kalibangan is the best example of Harappan covered street drainage.  
+
 **Reason (R):** Mohenjo-daro has an elaborate system of covered drains and house bathrooms.
 
 Options:  
@@ -1177,7 +1333,13 @@ D. (A) is false, but (R) is true
 2. Meluhha — name often taken as Harappan land in Mesopotamian texts  
 3. Magan — Oman copper zone
 
-Options: A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1209,7 +1371,13 @@ A. Gujarat  B. Haryana  C. Rajasthan  D. Uttar Pradesh
 
 How many are correct?
 
-Options: A. Only one  B. Only two  C. All three  D. None
+A. Only one
+
+B. Only two
+
+C. All three
+
+D. None
 
 <details>
 <summary>Show answer</summary>
@@ -1242,7 +1410,13 @@ D. Ropar — easternmost IVC site
 2. Muziris was associated with Roman trade on the Kerala coast.  
 3. Lothal was a Chola-period pepper emporium described in the Periplus.
 
-Options: A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1282,7 +1456,13 @@ D. A-3, B-2, C-1, D-4
 1. The dancing girl is a bronze lost-wax figure from Mohenjo-daro.  
 2. The priest-king is a steatite bust from Mohenjo-daro.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1299,7 +1479,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. The Dholavira signboard is the longest known grouping of signs.  
 3. It is written only left to right, like modern English.
 
-Options: A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1313,6 +1499,7 @@ Options: A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
 **Q44.** Given below are two statements:
 
 **Assertion (A):** Cotton cultivation is among the distinctive Harappan agricultural locks.  
+
 **Reason (R):** Harappans regularly smelted iron for ploughshares.
 
 Options:  
@@ -1335,7 +1522,13 @@ D. (A) is false, but (R) is true
 1. Rakhigarhi has seven mounds and lies in Hisar, Haryana.  
 2. Union Budget 2026 listed Rakhigarhi and Lothal among sites to be developed as experiential cultural destinations.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1360,7 +1553,13 @@ Which of the following archaeological sites related to the Indus Valley Civiliza
 2. Rakhigarhi  
 3. Hulas
 
-Options: A. 1 and 2  B. Only 3  C. 1 and 3  D. Only 1
+A. 1 and 2
+
+B. Only 3
+
+C. 1 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1430,7 +1629,13 @@ Match List-I with List-II and answer using the codes given below the lists:
 | C. Padri | 3. Haryana |
 | D. Hulas | 4. Gujarat |
 
-Options: A. 3 2 1 4  B. 2 3 4 1  C. 2 4 3 1  D. 3 2 4 1
+A. 3 2 1 4
+
+B. 2 3 4 1
+
+C. 2 4 3 1
+
+D. 3 2 4 1
 
 <details>
 <summary>Show answer</summary>
@@ -1450,7 +1655,13 @@ Match List-I with List-II and select the correct answer using the codes given be
 | C. Rigvedic Society | 3. Agrarian |
 | D. Medieval Period | 4. Urban |
 
-Options: A. 4 2 3 1  B. 2 1 4 3  C. 3 4 1 2  D. 4 3 1 2
+A. 4 2 3 1
+
+B. 2 1 4 3
+
+C. 3 4 1 2
+
+D. 4 3 1 2
 
 <details>
 <summary>Show answer</summary>
@@ -1467,7 +1678,13 @@ Which of the following centres related to Indus Valley are situated in Uttar Pra
 
 I. Kalibanga  II. Lothal  III. Alamgirpur  IV. Hulas
 
-Options: A. I, II, III, IV  B. I, II  C. II, III  D. III, IV
+A. I, II, III, IV
+
+B. I, II
+
+C. II, III
+
+D. III, IV
 
 <details>
 <summary>Show answer</summary>

@@ -78,7 +78,13 @@ Match List-I with List-II:
 | C. Rigvedic Society | 3. Agrarian |
 | D. Medieval Period | 4. Urban |
 
-Options: A. 4 2 3 1  B. 2 1 4 3  C. 3 4 1 2  D. 4 3 1 2
+A. 4 2 3 1
+
+B. 2 1 4 3
+
+C. 3 4 1 2
+
+D. 4 3 1 2
 
 <details>
 <summary>Show answer</summary>
@@ -398,7 +404,13 @@ D. 4 3 1 2
 1. Rigvedic culture is centred on the Sapta Sindhu, not the Ganga–Yamuna doab.  
 2. Painted Grey Ware is the usual archaeological correlate of Later Vedic settlements in the doab.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -430,6 +442,7 @@ A. Only one  B. Only two  C. All three  D. None
 **Q4.** Given below are two statements:
 
 **Assertion (A):** Later Vedic society is classified as agrarian in UPPCS match-lists.  
+
 **Reason (R):** Iron plough agriculture in the Gangetic plain produced a settled surplus.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -506,7 +519,13 @@ D. 2 1 4 3
 1. Bali in Vedic polity means a tribute to the chief.  
 2. Nishka was a punch-marked silver coin of the Rigvedic age.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -578,7 +597,13 @@ D. 2 1 3
 1. In the Rigvedic period women could be associated with Sabha and Vidatha.  
 2. Later Vedic kingship became more hereditary and less dependent on Samiti.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -608,6 +633,7 @@ D. Paura
 **Q14.** Given below are two statements:
 
 **Assertion (A):** Samiti is described as a popular tribal assembly.  
+
 **Reason (R):** It is identical with the Rajya Sabha of the Constitution of India.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -747,7 +773,13 @@ D. 4 1 3 2
 2. Gopatha is the Brahmana of the Atharvaveda.  
 3. Aitareya Brahmana belongs to the Samaveda.
 
-Options: A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -797,6 +829,7 @@ D. Medieval commentaries of Sayana
 **Q24.** Given below are two statements:
 
 **Assertion (A):** Brihadaranyaka is counted among the principal Upanishads.  
+
 **Reason (R):** It grows out of the Shatapatha / Shukla Yajurveda forest-prose line.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -955,7 +988,13 @@ D. 2 3 1 4
 1. Ayas in the Rigveda is best read as copper/bronze, not iron.  
 2. Shyama / krishna ayas in Later Vedic texts is associated with iron.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1023,6 +1062,7 @@ A. Only one  B. Only two  C. All three  D. None
 **Q36.** Given below are two statements:
 
 **Assertion (A):** Purusha Sukta is used as the locus classicus of four varnas.  
+
 **Reason (R):** It is one of the oldest family-book hymns of Mandalas II–VII.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -1044,7 +1084,13 @@ D. (A) is false, but (R) is true
 1. Brahmanas and Upanishads are included in Shruti.  
 2. Sayana’s commentary is itself a Vedic-age Shruti text.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1080,7 +1126,13 @@ A. Only one  B. Only two  C. All three  D. None
 1. The Later Vedic political centre of gravity includes the Ganga–Yamuna doab.  
 2. Rigvedic Sapta Sindhu is essentially the same as the Kosala–Kashi belt.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1183,7 +1235,13 @@ Match List-I with List-II and select the correct answer using the codes given be
 | C. Rigvedic Society | 3. Agrarian |
 | D. Medieval Period | 4. Urban |
 
-Options: A. 4 2 3 1  B. 2 1 4 3  C. 3 4 1 2  D. 4 3 1 2
+A. 4 2 3 1
+
+B. 2 1 4 3
+
+C. 3 4 1 2
+
+D. 4 3 1 2
 
 <details>
 <summary>Show answer</summary>

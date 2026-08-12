@@ -432,7 +432,13 @@ EDUCATION 2018 Q21: Wood 1854 → Hunter 1882 → Sadler 1917 → Sargeant 1944 
 **Q1.** Match slogans: A. Swaraj is my birthright  B. Inquilab Zindabad  C. Do or Die  D. Give me blood  
 With: 1. Gandhi  2. Tilak  3. Bose  4. Hasrat / Bhagat stream
 
-Options: A. 2 4 1 3  B. 2 1 4 3  C. 4 2 1 3  D. 2 4 3 1
+A. 2 4 1 3
+
+B. 2 1 4 3
+
+C. 4 2 1 3
+
+D. 2 4 3 1
 
 <details>
 <summary>Show answer</summary>
@@ -445,7 +451,13 @@ Options: A. 2 4 1 3  B. 2 1 4 3  C. 4 2 1 3  D. 2 4 3 1
 
 **Q2.** Who founded Abhinav Bharat Society?
 
-Options: A. Bhagat Singh  B. Vinayak Damodar Savarkar  C. Barindra Kumar Ghosh  D. Pulin Bihari
+A. Bhagat Singh
+
+B. Vinayak Damodar Savarkar
+
+C. Barindra Kumar Ghosh
+
+D. Pulin Bihari
 
 <details>
 <summary>Show answer</summary>
@@ -458,7 +470,13 @@ Options: A. Bhagat Singh  B. Vinayak Damodar Savarkar  C. Barindra Kumar Ghosh  
 
 **Q3.** Arrange: A. Hunter Commission  B. Sadler Commission  C. Wood’s Despatch  D. Sargeant Plan
 
-Options: A. A B D C  B. C B A D  C. A B C D  D. C A B D
+A. A B D C
+
+B. C B A D
+
+C. A B C D
+
+D. C A B D
 
 <details>
 <summary>Show answer</summary>
@@ -472,7 +490,13 @@ Options: A. A B D C  B. C B A D  C. A B C D  D. C A B D
 **Q4.** Match treaties: A. Allahabad  B. Mangalore  C. Salbai  D. Madras  
 With: 1. 1782  2. 1784  3. 1769  4. 1765
 
-Options: A. 4 2 3 1  B. 2 4 3 1  C. 4 2 1 3  D. 2 4 1 3
+A. 4 2 3 1
+
+B. 2 4 3 1
+
+C. 4 2 1 3
+
+D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -485,7 +509,13 @@ Options: A. 4 2 3 1  B. 2 4 3 1  C. 4 2 1 3  D. 2 4 1 3
 
 **Q5.** 2022 newspaper places (standard paper: Swadesh, Bharat Bandhu, Satyawadi, Shakti):
 
-Options: A. Hathras, Almora, Agra, Gorakhpur  B. Gorakhpur, Hathras, Agra, Almora  C. Pune, Hathras, Agra, Almora  D. Gorakhpur, Almora, Agra, Hathras
+A. Hathras, Almora, Agra, Gorakhpur
+
+B. Gorakhpur, Hathras, Agra, Almora
+
+C. Pune, Hathras, Agra, Almora
+
+D. Gorakhpur, Almora, Agra, Hathras
 
 <details>
 <summary>Show answer</summary>
@@ -498,7 +528,13 @@ Options: A. Hathras, Almora, Agra, Gorakhpur  B. Gorakhpur, Hathras, Agra, Almor
 
 **Q6.** Who never presided over an INC session?
 
-Options: A. Lala Lajpat Rai  B. Bal Gangadhar Tilak  C. Gopal Krishna Gokhale  D. Subhash Chandra Bose
+A. Lala Lajpat Rai
+
+B. Bal Gangadhar Tilak
+
+C. Gopal Krishna Gokhale
+
+D. Subhash Chandra Bose
 
 <details>
 <summary>Show answer</summary>
@@ -511,7 +547,13 @@ Options: A. Lala Lajpat Rai  B. Bal Gangadhar Tilak  C. Gopal Krishna Gokhale  D
 
 **Q7.** Which pair is NOT correctly matched? (Place — 1857 leadership)
 
-Options: A. Sambalpur — Surendra Sai  B. Ganjam — Radhakrishna Dandsena  C. Kashmir — Gulab Singh  D. Lucknow — Liyaqat Ali
+A. Sambalpur — Surendra Sai
+
+B. Ganjam — Radhakrishna Dandsena
+
+C. Kashmir — Gulab Singh
+
+D. Lucknow — Liyaqat Ali
 
 <details>
 <summary>Show answer</summary>
@@ -525,7 +567,13 @@ Options: A. Sambalpur — Surendra Sai  B. Ganjam — Radhakrishna Dandsena  C. 
 **Q8.** Match books: A. Story of My Deportation  B. Gita Rahasya  C. A Nation in Making  D. India Wins Freedom  
 With: 1. Banerjee  2. Azad  3. Lajpat Rai  4. Tilak
 
-Options: A. 3 4 1 2  B. 4 2 1 3  C. 2 4 1 3  D. 4 3 2 1
+A. 3 4 1 2
+
+B. 4 2 1 3
+
+C. 2 4 1 3
+
+D. 4 3 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -538,7 +586,13 @@ Options: A. 3 4 1 2  B. 4 2 1 3  C. 2 4 1 3  D. 4 3 2 1
 
 **Q9.** Woman not associated with Quit India:
 
-Options: A. Matangini Hazra  B. Aruna Asaf Ali  C. Kanaklata Barua  D. Shanti Ghosh
+A. Matangini Hazra
+
+B. Aruna Asaf Ali
+
+C. Kanaklata Barua
+
+D. Shanti Ghosh
 
 <details>
 <summary>Show answer</summary>
@@ -551,7 +605,13 @@ Options: A. Matangini Hazra  B. Aruna Asaf Ali  C. Kanaklata Barua  D. Shanti Gh
 
 **Q10.** INA officers were tried at:
 
-Options: A. Red Fort, Delhi  B. Gwalior Fort  C. Amer Fort  D. Agra Fort
+A. Red Fort, Delhi
+
+B. Gwalior Fort
+
+C. Amer Fort
+
+D. Agra Fort
 
 <details>
 <summary>Show answer</summary>
@@ -567,7 +627,13 @@ Options: A. Red Fort, Delhi  B. Gwalior Fort  C. Amer Fort  D. Agra Fort
 1. Annie Besant was the first woman President (1917).  
 2. Sarojini Naidu was the first Indian woman President (1925).
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -580,7 +646,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q12.** Gandhi presided over which Congress session?
 
-Options: A. Lahore 1929  B. Belgaum 1924  C. Karachi 1931  D. Faizpur 1937
+A. Lahore 1929
+
+B. Belgaum 1924
+
+C. Karachi 1931
+
+D. Faizpur 1937
 
 <details>
 <summary>Show answer</summary>
@@ -593,7 +665,13 @@ Options: A. Lahore 1929  B. Belgaum 1924  C. Karachi 1931  D. Faizpur 1937
 
 **Q13.** Which of the following pairs is NOT correctly matched?
 
-Options: A. Kesari — Tilak, Pune  B. Swadesh — Gorakhpur  C. Pratap — Vidyarthi, Kanpur  D. Kesari — Gorakhpur
+A. Kesari — Tilak, Pune
+
+B. Swadesh — Gorakhpur
+
+C. Pratap — Vidyarthi, Kanpur
+
+D. Kesari — Gorakhpur
 
 <details>
 <summary>Show answer</summary>
@@ -607,7 +685,13 @@ Options: A. Kesari — Tilak, Pune  B. Swadesh — Gorakhpur  C. Pratap — Vidy
 **Q14.** Match: A. Lahore 1929  B. Karachi 1931  C. Faizpur 1937  D. Haripura 1938  
 With: 1. Bose  2. Purna Swaraj  3. First village session  4. FR resolution (Patel)
 
-Options: A. 2 4 3 1  B. 2 4 1 3  C. 4 2 3 1  D. 2 3 4 1
+A. 2 4 3 1
+
+B. 2 4 1 3
+
+C. 4 2 3 1
+
+D. 2 3 4 1
 
 <details>
 <summary>Show answer</summary>
@@ -620,7 +704,13 @@ Options: A. 2 4 3 1  B. 2 4 1 3  C. 4 2 3 1  D. 2 3 4 1
 
 **Q15.** Hardinge bomb (1912) is associated with:
 
-Options: A. All India Labour Association  B. United Patriotic Association  C. Anushilan Samiti  D. Yugantar
+A. All India Labour Association
+
+B. United Patriotic Association
+
+C. Anushilan Samiti
+
+D. Yugantar
 
 <details>
 <summary>Show answer</summary>
@@ -655,7 +745,13 @@ D. (A) is false, but (R) is true
 1. Vande Mataram is the national anthem.  
 2. Jana Gana Mana was sung at the 1911 Calcutta session.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -672,7 +768,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Give me blood — Bose  
 3. Do or Die — Bose, INA
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -686,7 +788,13 @@ Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
 **Q19.** Match: A. HRA  B. HSRA  C. Ghadar  D. Abhinav Bharat  
 With: 1. 1913 San Francisco  2. 1924 Kanpur  3. Savarkar  4. 1928
 
-Options: A. 2 4 1 3  B. 2 4 3 1  C. 4 2 1 3  D. 2 1 4 3
+A. 2 4 1 3
+
+B. 2 4 3 1
+
+C. 4 2 1 3
+
+D. 2 1 4 3
 
 <details>
 <summary>Show answer</summary>
@@ -702,7 +810,13 @@ Options: A. 2 4 1 3  B. 2 4 3 1  C. 4 2 1 3  D. 2 1 4 3
 1. Hunter Commission 1882 dealt with education.  
 2. Hunter Committee 1919 inquired into Jallianwala.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -715,7 +829,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q21.** First village session of Congress:
 
-Options: A. Ramgarh  B. Faizpur  C. Belgaum  D. Tripuri
+A. Ramgarh
+
+B. Faizpur
+
+C. Belgaum
+
+D. Tripuri
 
 <details>
 <summary>Show answer</summary>
@@ -728,7 +848,13 @@ Options: A. Ramgarh  B. Faizpur  C. Belgaum  D. Tripuri
 
 **Q22.** Which of the following is NOT correctly matched?
 
-Options: A. Cellular Jail — Andaman  B. INA Trials — Red Fort  C. QI flag — Gowalia Tank  D. INA Trials — Gwalior Fort
+A. Cellular Jail — Andaman
+
+B. INA Trials — Red Fort
+
+C. QI flag — Gowalia Tank
+
+D. INA Trials — Gwalior Fort
 
 <details>
 <summary>Show answer</summary>
@@ -742,7 +868,13 @@ Options: A. Cellular Jail — Andaman  B. INA Trials — Red Fort  C. QI flag �
 **Q23.** Match: A. Madam Cama  B. Lakshmi Sehgal  C. Usha Mehta  D. Pritilata Waddedar  
 With: 1. Congress Radio  2. Stuttgart 1907  3. Chittagong  4. Rani Jhansi Regiment
 
-Options: A. 2 4 1 3  B. 2 4 3 1  C. 4 2 1 3  D. 2 1 4 3
+A. 2 4 1 3
+
+B. 2 4 3 1
+
+C. 4 2 1 3
+
+D. 2 1 4 3
 
 <details>
 <summary>Show answer</summary>
@@ -758,7 +890,13 @@ Options: A. 2 4 1 3  B. 2 4 3 1  C. 4 2 1 3  D. 2 1 4 3
 1. Tyabji was the first Muslim President of Congress (1887).  
 2. George Yule was the first English President (1888).
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -774,7 +912,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 1. Ended the First Carnatic War.  
 2. Madras was returned to the English.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -791,7 +935,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 2. Montagu–Chelmsford — dyarchy in provinces  
 3. GOI 1935 — dyarchy in provinces as the new start
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -807,7 +957,13 @@ Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
 1. 9 August 1925  
 2. Ram Prasad Bismil and Ashfaqullah Khan
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -820,7 +976,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q28.** Chauri Chaura:
 
-Options: A. 4 Feb 1922, Gorakhpur  B. 9 Aug 1925, Lucknow  C. 13 Apr 1919, Amritsar  D. 8 Aug 1942, Bombay
+A. 4 Feb 1922, Gorakhpur
+
+B. 9 Aug 1925, Lucknow
+
+C. 13 Apr 1919, Amritsar
+
+D. 8 Aug 1942, Bombay
 
 <details>
 <summary>Show answer</summary>
@@ -834,7 +996,13 @@ Options: A. 4 Feb 1922, Gorakhpur  B. 9 Aug 1925, Lucknow  C. 13 Apr 1919, Amrit
 **Q29.** Match: A. Dayanand  B. Narayana Guru  C. Bankim  D. Tilak  
 With: 1. Vande Mataram  2. Back to the Vedas  3. Swaraj birthright  4. One caste one religion one God
 
-Options: A. 2 4 1 3  B. 2 4 3 1  C. 4 2 1 3  D. 2 1 4 3
+A. 2 4 1 3
+
+B. 2 4 3 1
+
+C. 4 2 1 3
+
+D. 2 1 4 3
 
 <details>
 <summary>Show answer</summary>
@@ -866,7 +1034,13 @@ D. (A) is false, but (R) is true
 
 **Q31.** SRC members among: 1. K.T. Shah  2. K.M. Panikkar  3. P. Sitaramayya  4. H.N. Kunzru
 
-Options: A. 1 and 3  B. 2 and 4  C. 2 and 3  D. 1 and 2
+A. 1 and 3
+
+B. 2 and 4
+
+C. 2 and 3
+
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
@@ -879,7 +1053,13 @@ Options: A. 1 and 3  B. 2 and 4  C. 2 and 3  D. 1 and 2
 
 **Q32.** Which of the following is NOT correctly matched?
 
-Options: A. Al-Hilal — Azad  B. Mooknayak — Ambedkar  C. Young India — Tilak  D. Indian Opinion — Gandhi
+A. Al-Hilal — Azad
+
+B. Mooknayak — Ambedkar
+
+C. Young India — Tilak
+
+D. Indian Opinion — Gandhi
 
 <details>
 <summary>Show answer</summary>
@@ -892,7 +1072,13 @@ Options: A. Al-Hilal — Azad  B. Mooknayak — Ambedkar  C. Young India — Til
 
 **Q33.** Poverty and Un-British Rule in India was published in:
 
-Options: A. 1876  B. 1892  C. 1901  D. 1906
+A. 1876
+
+B. 1892
+
+C. 1901
+
+D. 1906
 
 <details>
 <summary>Show answer</summary>
@@ -906,7 +1092,13 @@ Options: A. 1876  B. 1892  C. 1901  D. 1906
 **Q34.** Match: A. Vernacular Press Act  B. Arms Act  C. Ilbert Bill  D. Rowlatt  
 With: 1. 1919  2. 1878 Lytton  3. 1878 Lytton  4. 1883 Ripon
 
-Options: A. 2 3 4 1  B. 3 2 4 1  C. 2 3 1 4  D. 4 2 3 1
+A. 2 3 4 1
+
+B. 3 2 4 1
+
+C. 2 3 1 4
+
+D. 4 2 3 1
 
 <details>
 <summary>Show answer</summary>
@@ -919,7 +1111,13 @@ Options: A. 2 3 4 1  B. 3 2 4 1  C. 2 3 1 4  D. 4 2 3 1
 
 **Q35.** Chandrashekhar Azad died at:
 
-Options: A. Kakori  B. Alfred Park, Allahabad  C. Lahore Jail  D. Cellular Jail
+A. Kakori
+
+B. Alfred Park, Allahabad
+
+C. Lahore Jail
+
+D. Cellular Jail
 
 <details>
 <summary>Show answer</summary>
@@ -935,7 +1133,13 @@ Options: A. Kakori  B. Alfred Park, Allahabad  C. Lahore Jail  D. Cellular Jail
 1. Rani Jhansi Regiment was an INA women’s unit under Lakshmi Sehgal.  
 2. It was a regiment of 1857.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -948,7 +1152,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q37.** First session of INC:
 
-Options: A. Calcutta, Naoroji  B. Bombay, W.C. Bonnerjee  C. Madras, Tyabji  D. Allahabad, Yule
+A. Calcutta, Naoroji
+
+B. Bombay, W.C. Bonnerjee
+
+C. Madras, Tyabji
+
+D. Allahabad, Yule
 
 <details>
 <summary>Show answer</summary>
@@ -965,7 +1175,13 @@ Options: A. Calcutta, Naoroji  B. Bombay, W.C. Bonnerjee  C. Madras, Tyabji  D. 
 2. Treaty of Salbai — 1765  
 3. Treaty of Allahabad — 1765
 
-Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
+A. Only 2
+
+B. Only 1 and 2
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -981,7 +1197,13 @@ Options: A. Only 2  B. Only 1 and 2  C. Only 2 and 3  D. Only 1
 1. President was Vallabhbhai Patel.  
 2. It adopted a resolution on Fundamental Rights.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -994,7 +1216,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q40.** Ghadar Party headquarters:
 
-Options: A. London  B. San Francisco  C. Berlin  D. Tokyo
+A. London
+
+B. San Francisco
+
+C. Berlin
+
+D. Tokyo
 
 <details>
 <summary>Show answer</summary>
@@ -1007,7 +1235,13 @@ Options: A. London  B. San Francisco  C. Berlin  D. Tokyo
 
 **Q41.** Arrange: 1. Plassey  2. Buxar  3. Regulating Act  4. Permanent Settlement
 
-Options: A. 1, 2, 3, 4  B. 1, 2, 4, 3  C. 2, 1, 3, 4  D. 1, 3, 2, 4
+A. 1, 2, 3, 4
+
+B. 1, 2, 4, 3
+
+C. 2, 1, 3, 4
+
+D. 1, 3, 2, 4
 
 <details>
 <summary>Show answer</summary>
@@ -1020,7 +1254,13 @@ Options: A. 1, 2, 3, 4  B. 1, 2, 4, 3  C. 2, 1, 3, 4  D. 1, 3, 2, 4
 
 **Q42.** Which of the following is NOT correctly matched?
 
-Options: A. Sabarmati — Dandi start  B. Sevagram — Gandhi’s later ashram  C. Aga Khan Palace — QI internment  D. Cellular Jail — INA Trials
+A. Sabarmati — Dandi start
+
+B. Sevagram — Gandhi’s later ashram
+
+C. Aga Khan Palace — QI internment
+
+D. Cellular Jail — INA Trials
 
 <details>
 <summary>Show answer</summary>
@@ -1052,7 +1292,13 @@ D. (A) is false, but (R) is true
 
 **Q44.** *The Rise and Growth of Economic Nationalism in India* was written by:
 
-Options: A. Dadabhai Naoroji  B. R.C. Dutt  C. Bipan Chandra  D. M.G. Ranade
+A. Dadabhai Naoroji
+
+B. R.C. Dutt
+
+C. Bipan Chandra
+
+D. M.G. Ranade
 
 <details>
 <summary>Show answer</summary>
@@ -1066,7 +1312,13 @@ Options: A. Dadabhai Naoroji  B. R.C. Dutt  C. Bipan Chandra  D. M.G. Ranade
 **Q45.** Match: A. Bentinck  B. Dalhousie  C. Curzon  D. Ripon  
 With: 1. Partition of Bengal  2. Sati abolition  3. Local self-government  4. Doctrine of Lapse
 
-Options: A. 2 4 1 3  B. 2 4 3 1  C. 4 2 1 3  D. 2 1 4 3
+A. 2 4 1 3
+
+B. 2 4 3 1
+
+C. 4 2 1 3
+
+D. 2 1 4 3
 
 <details>
 <summary>Show answer</summary>
@@ -1082,7 +1334,13 @@ Options: A. 2 4 1 3  B. 2 4 3 1  C. 4 2 1 3  D. 2 1 4 3
 1. 1909 Act introduced separate electorates for Muslims.  
 2. 1919 Act introduced dyarchy in the provinces.
 
-Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1095,7 +1353,13 @@ Options: A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q47.** Meerut Congress session (1946) President:
 
-Options: A. Nehru  B. Azad  C. J.B. Kripalani  D. Patel
+A. Nehru
+
+B. Azad
+
+C. J.B. Kripalani
+
+D. Patel
 
 <details>
 <summary>Show answer</summary>
@@ -1112,7 +1376,13 @@ Options: A. Nehru  B. Azad  C. J.B. Kripalani  D. Patel
 2. Leader — Malaviya  
 3. Independent — Tilak
 
-Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1125,7 +1395,13 @@ Options: A. Only 3  B. Only 1 and 3  C. Only 2 and 3  D. Only 1
 
 **Q49.** Arrange: 1. Surat Split  2. Lucknow Pact  3. Lahore Purna Swaraj  4. Quit India
 
-Options: A. 1, 2, 3, 4  B. 1, 2, 4, 3  C. 2, 1, 3, 4  D. 1, 3, 2, 4
+A. 1, 2, 3, 4
+
+B. 1, 2, 4, 3
+
+C. 2, 1, 3, 4
+
+D. 1, 3, 2, 4
 
 <details>
 <summary>Show answer</summary>
@@ -1138,7 +1414,13 @@ Options: A. 1, 2, 3, 4  B. 1, 2, 4, 3  C. 2, 1, 3, 4  D. 1, 3, 2, 4
 
 **Q50.** Simon Go Back is associated with the agitation against:
 
-Options: A. Cripps Mission  B. Simon Commission  C. Cabinet Mission  D. Hunter Committee 1919
+A. Cripps Mission
+
+B. Simon Commission
+
+C. Cabinet Mission
+
+D. Hunter Committee 1919
 
 <details>
 <summary>Show answer</summary>
@@ -1174,7 +1456,13 @@ Match List-I with List-II.
 **List-I (Newspaper)** A. Swadesh (*local file prints Kesari*)  B. Bharat Bandhu  C. Satyawadi  D. Shakti  
 **List-II** 1. Agra  2. Almora  3. Hathras  4. Gorakhpur
 
-Options: A. 3, 2, 1, 4  B. 4, 3, 1, 2  C. 2, 3, 4, 1  D. 1, 2, 3, 4
+A. 3, 2, 1, 4
+
+B. 4, 3, 1, 2
+
+C. 2, 3, 4, 1
+
+D. 1, 2, 3, 4
 
 <details>
 <summary>Show answer</summary>
@@ -1202,7 +1490,13 @@ D. India Wins Freedom
 
 1. Surendranath Banerjee  2. Maulana Abul Kalam Azad  3. Lala Lajpat Rai  4. Bal Gangadhar Tilak
 
-Options: A. 3 4 1 2  B. 4 2 1 3  C. 2 4 1 3  D. 4 3 2 1
+A. 3 4 1 2
+
+B. 4 2 1 3
+
+C. 2 4 1 3
+
+D. 4 3 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -1220,7 +1514,13 @@ Options: A. 3 4 1 2  B. 4 2 1 3  C. 2 4 1 3  D. 4 3 2 1
 Match: A. Treaty of Allahabad  B. Treaty of Manglore  C. Treaty of Salbai  D. Treaty of Madras  
 With: 1. 1782  2. 1784  3. 1769  4. 1765
 
-Options: A. 4 2 3 1  B. 2 4 3 1  C. 4 2 1 3  D. 2 4 1 3
+A. 4 2 3 1
+
+B. 2 4 3 1
+
+C. 4 2 1 3
+
+D. 2 4 1 3
 
 <details>
 <summary>Show answer</summary>
@@ -1237,7 +1537,13 @@ Options: A. 4 2 3 1  B. 2 4 3 1  C. 4 2 1 3  D. 2 4 1 3
 
 Arrange: A. Hunter Commission  B. Sadlar Commission  C. Wood's Despatch  D. Sargeant Plan
 
-Options: A. A B D C  B. C B A D  C. A B C D  D. C A B D
+A. A B D C
+
+B. C B A D
+
+C. A B C D
+
+D. C A B D
 
 <details>
 <summary>Show answer</summary>

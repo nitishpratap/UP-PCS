@@ -92,10 +92,15 @@ India has **six** major relief units (geological age + structure + landforms).
 > **Exam note:** Thar sands = **Pleistocene and recent** (not Paleocene/Oligocene/Pliocene) — UPPCS 2018 Q101. Gujarat = longest **state** coastline — UPPCS 2018 Q98.
 
 **PYQ — UPPCS Prelims 2018, Q101**
+
 Rajasthan desert or Thar desert is the expanse of which of the following?
+
 A. Pliocene
+
 B. Paleocene
+
 C. Pleistocene and recent deposits
+
 D. Oligocene
 
 <details>
@@ -182,13 +187,19 @@ Young fold mountains from Indian–Eurasian collision (~50 Ma); ~2400 km arc fro
 > **Exam note:** UPPCS 2019 Q11 — **all three** true: Greater = fossil-less; Lesser = marine fossils; Shiwalik = human remains. 2020 Q60 youngest among options = **Himadri** (Aravalli is oldest). 2022 Q31: Cho Oyu + Lhotse Himalayan; **Annamalai and Sirumalai = TN peninsular**. 2025 Q94 A/R: snow → perennial rivers (**both true, R explains A**). 2025 Q21 A/R: altitude → vegetation (**both true, R explains A**).
 
 **PYQ — UPPCS Prelims 2019, Q11**
+
 With reference to the Himalayan range, which of the statements is/are correct?
+
 1. The sedimentary rocks of the greater Himalayas were fossil less.
 2. Marine livings fossils are found in the sedimentary rocks of lesser Himalayas.
 3. Remains of human civilization are found in outer or Shivalik Himalayas.
+
 A. 1 and 2 only
+
 B. 2 and 3 only
+
 C. 1 and 3 only
+
 D. 1, 2 and 3 are correct
 
 <details>
@@ -262,10 +273,15 @@ Ancient Precambrian block; faulted and eroded, not recently folded like the Hima
 > **Exam note:** Never reverse Vindhya/Satpura across Narmada. 2019 Q6 — do not put Maikal before Satpura or Chhotanagpur before Maikal.
 
 **PYQ — UPPCS Prelims 2019, Q6**
+
 Which one of the following is the correct sequence of the hills of Central India located from West to East?
+
 A. Maikal, Satpura, Mahadeo and Chhotanagpur
+
 B. Satpura, Mahadeo, Maikal and Chhotanagpur
+
 C. Maikal, Mahadeo, Satpura and Chhatanagpur
+
 D. Satpura, Mahadeo, Chhotanagpur and Maikal
 
 <details>
@@ -300,10 +316,15 @@ D. Satpura, Mahadeo, Chhotanagpur and Maikal
 | **Intertrappean beds** | Sediment **between** lava flows; **land/freshwater** fossils — **NOT sea plants and animals** |
 
 **PYQ — UPPCS Prelims 2024, Q59**
+
 Which one of the following pairs (Deccan Trap – Peculiarity) is not correctly matched?
+
 A. Depth of middle trap – approximately 1200 metres
+
 B. Intertrappean beds – Fossils of sea plants and animals
+
 C. Depth of lower trap – approximately 150 metres
+
 D. Depth of upper trap – approximately 450 metres
 
 <details>
@@ -362,14 +383,20 @@ UPPCS tests **pass ↔ State/UT**. Wrong state is the trap.
 > **Exam note:** 2025 Q55 — **only Lipulekh–Ladakh is NOT matched**. Nathu La–Sikkim and Shipki La–HP are correct. 2023 Q57 — Niti–UK correct; Mana–HP false.
 
 **PYQ — UPPCS Prelims 2025, Q55**
+
 Which of the following pairs are NOT correctly matched? (Pass) — (State/Union Territory)
+
 1. Lipulekh — Ladakh
 2. Nathu La — Sikkim
 3. Bomdila — Arunachal Pradesh
 4. Shipki La — Himachal Pradesh
+
 A. Only 1 and 2
+
 B. Only 2, 3 and 4
+
 C. Only 1, 2 and 3
+
 D. Only 1
 
 <details>
@@ -463,14 +490,20 @@ D. Only 1
 | **W** | **Guhar Moti**, Kutch, Gujarat |
 
 **PYQ — UPPCS Prelims 2022, Q35**
+
 With reference to India, which of the following statements is/are correct?
+
 1. India is the sixth largest country in the world.
 2. India occupies about 2.4% of the total area of the world.
 3. The Tropic of Cancer passes through the middle of the country dividing it into two latitudinal halves.
 4. India lies completely in the tropical zone.
+
 A. 2 and 3
+
 B. 2 and 4
+
 C. 3 and 4
+
 D. 1 and 2
 
 <details>
@@ -521,11 +554,20 @@ Mainland + islands ≈ **7516 km** (mainland ~6100 km). **Nine** coastal states 
 > **Format mix:** 50 questions — 21 multi-statement | 10 A/R | 8 match | 5 NOT-matched | 3 sequence | 3 direct recall
 
 **Q1.** With reference to the physiographic divisions of India, which of the following statements is/are correct?
+
 1. The Peninsular Plateau is composed mainly of ancient crystalline rocks.
 2. The Thar Desert rests primarily on Pleistocene and recent deposits.
 3. Lakshadweep Islands are of volcanic origin like the Andaman Islands.
+
 Select the correct answer from the code given below:
-Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -534,10 +576,20 @@ Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 </details>
 
 **Q2.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+
 **Assertion (A):** The Greater Himalayas (Himadri) contain fossil-less sedimentary rocks.
+
 **Reason (R):** Intense metamorphism during uplift destroyed marine fossils that existed in Tethys sediments.
+
 Select the correct answer from the code given below:
-Options: A. Both (A) and (R) are true and (R) is the correct explanation of (A) B. Both (A) and (R) are true, but (R) is not the correct explanation of (A) C. (A) is true, but (R) is false D. (A) is false, but (R) is true
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+C. (A) is true, but (R) is false
+
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
@@ -546,12 +598,21 @@ Options: A. Both (A) and (R) are true and (R) is the correct explanation of (A) 
 </details>
 
 **Q3.** Match **List-I** with **List-II** and select the correct answer using the code given below:
-**List-I (State)** | **List-II (Highest Peak)**
-A. Kerala | 1. Dodda Betta
-B. Nagaland | 2. Nanda Devi
-C. Uttarakhand | 3. Anaimudi
-D. Tamil Nadu | 4. Saramati
-Options: A. 1 3 4 2 B. 2 3 4 1 C. 3 4 2 1 D. 1 2 3 4
+
+| List-I (State) | List-II (Highest Peak) |
+|---|---|
+| A. Kerala | 1. Dodda Betta |
+| B. Nagaland | 2. Nanda Devi |
+| C. Uttarakhand | 3. Anaimudi |
+| D. Tamil Nadu | 4. Saramati |
+
+A. 1 3 4 2
+
+B. 2 3 4 1
+
+C. 3 4 2 1
+
+D. 1 2 3 4
 
 <details>
 <summary>Show answer</summary>
@@ -560,11 +621,20 @@ Options: A. 1 3 4 2 B. 2 3 4 1 C. 3 4 2 1 D. 1 2 3 4
 </details>
 
 **Q4.** With reference to the Northern Plains of India, which of the following statements is/are correct?
+
 1. Bhabar is a narrow belt south of the Shiwaliks where streams disappear underground.
 2. Khadar is older and less fertile than Bhangar.
 3. Terai lies south of Bhabar and supports dense forests.
+
 Select the correct answer from the code given below:
-Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -573,10 +643,20 @@ Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 </details>
 
 **Q5.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+
 **Assertion (A):** Western Coastal Plains of India are narrower than Eastern Coastal Plains.
+
 **Reason (R):** Western Ghats rise abruptly close to the Arabian Sea, leaving little room for a broad coastal lowland.
+
 Select the correct answer from the code given below:
-Options: A. Both (A) and (R) are true and (R) is the correct explanation of (A) B. Both (A) and (R) are true, but (R) is not the correct explanation of (A) C. (A) is true, but (R) is false D. (A) is false, but (R) is true
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+C. (A) is true, but (R) is false
+
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
@@ -585,12 +665,21 @@ Options: A. Both (A) and (R) are true and (R) is the correct explanation of (A) 
 </details>
 
 **Q6.** Match **List-I** with **List-II**:
-**List-I (Himalayan Range/Feature)** | **List-II (Characteristic)**
-A. Himadri | 1. Marine fossils in sedimentary rocks
-B. Himachal | 2. Human civilization remains
-C. Shiwalik | 3. Highest peaks; permanent snow; fossil-less
-D. Trans-Himalaya | 4. Cold desert north of Indus (Zaskar, Ladakh)
-Options: A. 3 1 2 4 B. 1 3 2 4 C. 3 2 1 4 D. 2 1 3 4
+
+| List-I (Himalayan Range/Feature) | List-II (Characteristic) |
+|---|---|
+| A. Himadri | 1. Marine fossils in sedimentary rocks |
+| B. Himachal | 2. Human civilization remains |
+| C. Shiwalik | 3. Highest peaks; permanent snow; fossil-less |
+| D. Trans-Himalaya | 4. Cold desert north of Indus (Zaskar, Ladakh) |
+
+A. 3 1 2 4
+
+B. 1 3 2 4
+
+C. 3 2 1 4
+
+D. 2 1 3 4
 
 <details>
 <summary>Show answer</summary>
@@ -599,11 +688,20 @@ Options: A. 3 1 2 4 B. 1 3 2 4 C. 3 2 1 4 D. 2 1 3 4
 </details>
 
 **Q7.** With reference to the Indian Desert (Thar), which of the following statements is/are correct?
+
 1. It lies on the leeward side of the Aravalli Range.
 2. Its sands rest on Pleistocene and recent deposits.
 3. Luni is a perennial river that drains into the Arabian Sea.
+
 Select the correct answer from the code given below:
-Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -613,12 +711,21 @@ Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 **Q8.** Which of the following pairs is/are **NOT** correctly matched?
 (Pass) — (State/UT)
+
 1. Lipulekh — Ladakh
 2. Nathu La — Sikkim
 3. Shipki La — Himachal Pradesh
 4. Niti — Uttarakhand
+
 Select the correct answer from the code given below:
-Options: A. Only 1 B. Only 1 and 3 C. Only 2 and 4 D. Only 1, 2 and 3
+
+A. Only 1
+
+B. Only 1 and 3
+
+C. Only 2 and 4
+
+D. Only 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -627,12 +734,21 @@ Options: A. Only 1 B. Only 1 and 3 C. Only 2 and 4 D. Only 1, 2 and 3
 </details>
 
 **Q9.** Match **List-I** with **List-II**:
-**List-I (Pass)** | **List-II (State/UT)**
-A. Nathu La | 1. Himachal Pradesh
-B. Shipki La | 2. Sikkim
-C. Mana | 3. Uttarakhand
-D. Rohtang | 4. Himachal Pradesh (Pir Panjal)
-Options: A. 2 1 3 4 B. 2 4 3 1 C. 1 2 3 4 D. 2 1 3 1
+
+| List-I (Pass) | List-II (State/UT) |
+|---|---|
+| A. Nathu La | 1. Himachal Pradesh |
+| B. Shipki La | 2. Sikkim |
+| C. Mana | 3. Uttarakhand |
+| D. Rohtang | 4. Himachal Pradesh (Pir Panjal) |
+
+A. 2 1 3 4
+
+B. 2 4 3 1
+
+C. 1 2 3 4
+
+D. 2 1 3 1
 
 <details>
 <summary>Show answer</summary>
@@ -641,11 +757,20 @@ Options: A. 2 1 3 4 B. 2 4 3 1 C. 1 2 3 4 D. 2 1 3 1
 </details>
 
 **Q10.** With reference to India's coastal plains and islands, which of the following statements is/are correct?
+
 1. Indira Point on Great Nicobar is India's southernmost point.
 2. Ten Degree Channel separates Andaman from Nicobar group.
 3. Barren Island (Andaman) is India's only active volcano.
+
 Select the correct answer from the code given below:
-Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -654,10 +779,20 @@ Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 </details>
 
 **Q11.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+
 **Assertion (A):** In the Himalayan mountains, different types of vegetation are found.
+
 **Reason (R):** In the Himalayas, there are variations in climate with change in altitude.
+
 Select the correct answer from the code given below:
-Options: A. Both (A) and (R) are true, but (R) is not the correct explanation of (A) B. (A) is false, but (R) is true C. (A) is true, but (R) is false D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
@@ -666,12 +801,21 @@ Options: A. Both (A) and (R) are true, but (R) is not the correct explanation of
 </details>
 
 **Q12.** Match **List-I** with **List-II** (UPPCS 2025 Q37 / 2021 Q127 pattern):
-**List-I (State)** | **List-II (Highest Peak)**
-A. Tamil Nadu | 1. Dhupgarh
-B. Rajasthan | 2. Doddabetta
-C. Nagaland | 3. Guru Shikhar
-D. Madhya Pradesh | 4. Saramati
-Options: A. 2 3 4 1 B. 3 2 1 4 C. 2 3 1 4 D. 4 3 2 1
+
+| List-I (State) | List-II (Highest Peak) |
+|---|---|
+| A. Tamil Nadu | 1. Dhupgarh |
+| B. Rajasthan | 2. Doddabetta |
+| C. Nagaland | 3. Guru Shikhar |
+| D. Madhya Pradesh | 4. Saramati |
+
+A. 2 3 4 1
+
+B. 3 2 1 4
+
+C. 2 3 1 4
+
+D. 4 3 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -680,11 +824,20 @@ Options: A. 2 3 4 1 B. 3 2 1 4 C. 2 3 1 4 D. 4 3 2 1
 </details>
 
 **Q13.** With reference to the Peninsular Plateau, which of the following statements is/are correct?
+
 1. It is bounded north by the Narmada-Son rift line.
 2. Deccan Trap covers parts of Maharashtra and Madhya Pradesh with basalt flows.
 3. Peninsular Plateau and Deccan Plateau are identical terms.
+
 Select the correct answer from the code given below:
-Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -693,10 +846,20 @@ Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 </details>
 
 **Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+
 **Assertion (A):** The Himalayas form the source of several large perennial rivers.
+
 **Reason (R):** The higher ranges of the Himalayas remain snow-covered throughout the year.
+
 Select the correct answer from the code given below:
-Options: A. Both (A) and (R) are true, but (R) is not the correct explanation of (A) B. (A) is false, but (R) is true C. (A) is true, but (R) is false D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
@@ -706,12 +869,21 @@ Options: A. Both (A) and (R) are true, but (R) is not the correct explanation of
 
 **Q15.** Which of the following pairs is/are **NOT** correctly matched?
 (Hill/Peak) — (State/Feature)
+
 1. Guru Shikhar — Rajasthan (Aravalli)
 2. Dhupgarh — Madhya Pradesh (Satpura)
 3. Anaimudi — Karnataka
 4. Doddabetta — Tamil Nadu (Nilgiri)
+
 Select the correct answer from the code given below:
-Options: A. Only 3 B. Only 1 and 3 C. Only 2 and 4 D. Only 3 and 4
+
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 4
+
+D. Only 3 and 4
 
 <details>
 <summary>Show answer</summary>
@@ -720,11 +892,20 @@ Options: A. Only 3 B. Only 1 and 3 C. Only 2 and 4 D. Only 3 and 4
 </details>
 
 **Q16.** With reference to Trans-Himalaya and associated features, which of the following statements is/are correct?
+
 1. Zaskar range lies north of the main Himalayan arc across the Indus.
 2. Ladakh range is part of the Trans-Himalayan zone.
 3. Karakoram lies southeast of the main Himalayan arc and contains K2.
+
 Select the correct answer from the code given below:
-Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -733,12 +914,21 @@ Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 </details>
 
 **Q17.** Match **List-I** with **List-II**:
-**List-I (Purvanchal / NE Hills)** | **List-II (State/Region)**
-A. Patkai Bum | 1. Nagaland-Arunachal border hills
-B. Naga Hills | 2. Nagaland
-C. Mizo Hills | 3. Mizoram
-D. Mishmi Hills | 4. Arunachal Pradesh (eastern)
-Options: A. 1 2 3 4 B. 2 1 3 4 C. 1 2 4 3 D. 4 3 2 1
+
+| List-I (Purvanchal / NE Hills) | List-II (State/Region) |
+|---|---|
+| A. Patkai Bum | 1. Nagaland-Arunachal border hills |
+| B. Naga Hills | 2. Nagaland |
+| C. Mizo Hills | 3. Mizoram |
+| D. Mishmi Hills | 4. Arunachal Pradesh (eastern) |
+
+A. 1 2 3 4
+
+B. 2 1 3 4
+
+C. 1 2 4 3
+
+D. 4 3 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -747,7 +937,14 @@ Options: A. 1 2 3 4 B. 2 1 3 4 C. 1 2 4 3 D. 4 3 2 1
 </details>
 
 **Q18.** Which one of the following is the correct sequence of the hills of Central India located from **West to East**?
-Options: A. Maikal, Satpura, Mahadeo and Chhotanagpur B. Satpura, Mahadeo, Maikal and Chhotanagpur C. Satpura, Mahadeo, Chhotanagpur and Maikal D. Maikal, Mahadeo, Satpura and Chhotanagpur
+
+A. Maikal, Satpura, Mahadeo and Chhotanagpur
+
+B. Satpura, Mahadeo, Maikal and Chhotanagpur
+
+C. Satpura, Mahadeo, Chhotanagpur and Maikal
+
+D. Maikal, Mahadeo, Satpura and Chhotanagpur
 
 <details>
 <summary>Show answer</summary>
@@ -756,11 +953,20 @@ Options: A. Maikal, Satpura, Mahadeo and Chhotanagpur B. Satpura, Mahadeo, Maika
 </details>
 
 **Q19.** With reference to Deccan Trap, which of the following statements is/are correct?
+
 1. It formed from fissure eruptions of basaltic lava during Cretaceous-Eocene.
 2. Intertrappean beds contain freshwater fossils, not marine sea fossils.
 3. Black regur soil of the region is unrelated to volcanic basalt.
+
 Select the correct answer from the code given below:
-Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -769,10 +975,20 @@ Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 </details>
 
 **Q20.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+
 **Assertion (A):** The Aravalli Range is the oldest fold mountain system in India.
+
 **Reason (R):** The Aravalli has been severely eroded and reduced in height due to prolonged denudation since Precambrian times.
+
 Select the correct answer from the code given below:
-Options: A. Both (A) and (R) are true and (R) is the correct explanation of (A) B. Both (A) and (R) are true, but (R) is not the correct explanation of (A) C. (A) is true, but (R) is false D. (A) is false, but (R) is true
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+C. (A) is true, but (R) is false
+
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
@@ -781,11 +997,20 @@ Options: A. Both (A) and (R) are true and (R) is the correct explanation of (A) 
 </details>
 
 **Q21.** With reference to sacred geography and hills, which of the following statements is/are correct?
+
 1. Tirupati (Venkateswara) temple is on Tirumala Hills in the Eastern Ghats.
 2. Vaishno Devi shrine is in the Trikuta Hills of Jammu.
 3. Amarnath cave shrine lies in the Pir Panjal range of Jammu & Kashmir.
+
 Select the correct answer from the code given below:
-Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -794,11 +1019,20 @@ Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 </details>
 
 **Q22.** With reference to India's locational framework, which of the following statements is/are correct?
+
 1. Standard Meridian of India is 82°30′ E; IST is 5 hours 30 minutes ahead of GMT.
 2. Tropic of Cancer (23°30′ N) passes through 8 states and Ladakh.
 3. Tropic of Cancer divides India into two equal latitudinal halves.
+
 Select the correct answer from the code given below:
-Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -807,10 +1041,20 @@ Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 </details>
 
 **Q23.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+
 **Assertion (A):** Most peninsular rivers of India flow eastward into the Bay of Bengal.
+
 **Reason (R):** The Peninsular Plateau slopes generally from west to east.
+
 Select the correct answer from the code given below:
-Options: A. Both (A) and (R) are true and (R) is the correct explanation of (A) B. Both (A) and (R) are true, but (R) is not the correct explanation of (A) C. (A) is true, but (R) is false D. (A) is false, but (R) is true
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+C. (A) is true, but (R) is false
+
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
@@ -819,12 +1063,21 @@ Options: A. Both (A) and (R) are true and (R) is the correct explanation of (A) 
 </details>
 
 **Q24.** Match **List-I** with **List-II**:
-**List-I (Sacred Site)** | **List-II (Hill/Range)**
-A. Kedarnath | 1. Trikuta Hills
-B. Vaishno Devi | 2. Greater Himalaya (Garhwal)
-C. Tirupati | 3. Tirumala Hills (Eastern Ghats)
-D. Badrinath | 4. Greater Himalaya (Garhwal)
-Options: A. 2 1 3 4 B. 4 1 3 2 C. 2 1 3 2 D. 1 2 3 4
+
+| List-I (Sacred Site) | List-II (Hill/Range) |
+|---|---|
+| A. Kedarnath | 1. Trikuta Hills |
+| B. Vaishno Devi | 2. Greater Himalaya (Garhwal) |
+| C. Tirupati | 3. Tirumala Hills (Eastern Ghats) |
+| D. Badrinath | 4. Greater Himalaya (Garhwal) |
+
+A. 2 1 3 4
+
+B. 4 1 3 2
+
+C. 2 1 3 2
+
+D. 1 2 3 4
 
 <details>
 <summary>Show answer</summary>
@@ -833,11 +1086,20 @@ Options: A. 2 1 3 4 B. 4 1 3 2 C. 2 1 3 2 D. 1 2 3 4
 </details>
 
 **Q25.** With reference to the Kashmir Valley, which of the following statements is/are correct?
+
 1. It lies between the Pir Panjal and Himadri (Greater Himalaya) ranges.
 2. Zanskar range lies to the north-west of the Kashmir Valley.
 3. The valley is an example of a lacustrine plain like Imphal Basin.
+
 Select the correct answer from the code given below:
-Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -846,12 +1108,21 @@ Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 </details>
 
 **Q26.** Match **List-I** with **List-II**:
-**List-I (Coastal Sub-division)** | **List-II (Location)**
-A. Konkan | 1. Kerala coast
-B. Malabar | 2. Maharashtra-Goa coast
-C. Northern Circars | 3. Odisha-northern AP coast
-D. Coromandel | 4. Tamil Nadu coast
-Options: A. 2 1 3 4 B. 1 2 4 3 C. 2 1 4 3 D. 3 4 1 2
+
+| List-I (Coastal Sub-division) | List-II (Location) |
+|---|---|
+| A. Konkan | 1. Kerala coast |
+| B. Malabar | 2. Maharashtra-Goa coast |
+| C. Northern Circars | 3. Odisha-northern AP coast |
+| D. Coromandel | 4. Tamil Nadu coast |
+
+A. 2 1 3 4
+
+B. 1 2 4 3
+
+C. 2 1 4 3
+
+D. 3 4 1 2
 
 <details>
 <summary>Show answer</summary>
@@ -861,12 +1132,21 @@ Options: A. 2 1 3 4 B. 1 2 4 3 C. 2 1 4 3 D. 3 4 1 2
 
 **Q27.** Which of the following pairs is/are **NOT** correctly matched?
 (Physiographic Feature) — (Description)
+
 1. Bhabar — Marshy belt with re-emerging rivers
 2. Bhangar — Older alluvium with kankar nodules
 3. Duars/Dooars — Himalayan foothill tract (WB/Assam)
 4. Malda Gap — Gap between Meghalaya Plateau and main Peninsular block
+
 Select the correct answer from the code given below:
-Options: A. Only 1 B. Only 1 and 4 C. Only 2 and 3 D. Only 3 and 4
+
+A. Only 1
+
+B. Only 1 and 4
+
+C. Only 2 and 3
+
+D. Only 3 and 4
 
 <details>
 <summary>Show answer</summary>
@@ -875,11 +1155,20 @@ Options: A. Only 1 B. Only 1 and 4 C. Only 2 and 3 D. Only 3 and 4
 </details>
 
 **Q28.** With reference to the Himalayan range, which of the following statements is/are correct?
+
 1. The sedimentary rocks of the Greater Himalayas were fossil-less.
 2. Marine living fossils are found in the sedimentary rocks of Lesser Himalayas.
 3. Remains of human civilization are found in the outer or Shiwalik Himalayas.
+
 Select the correct answer from the code given below:
-Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -888,10 +1177,20 @@ Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 </details>
 
 **Q29.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+
 **Assertion (A):** Shiwalik is the outermost and youngest Himalayan range.
+
 **Reason (R):** Fossils of horses, elephants, and human tools are found in Shiwalik sedimentary rocks.
+
 Select the correct answer from the code given below:
-Options: A. Both (A) and (R) are true and (R) is the correct explanation of (A) B. Both (A) and (R) are true, but (R) is not the correct explanation of (A) C. (A) is true, but (R) is false D. (A) is false, but (R) is true
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+C. (A) is true, but (R) is false
+
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
@@ -900,7 +1199,14 @@ Options: A. Both (A) and (R) are true and (R) is the correct explanation of (A) 
 </details>
 
 **Q30.** Which one of the following is the correct sequence of Himalayan ranges from **South to North** (main Himalaya belt)?
-Options: A. Himadri → Himachal → Shiwalik B. Shiwalik → Himachal → Himadri C. Himachal → Shiwalik → Himadri D. Shiwalik → Himadri → Himachal
+
+A. Himadri → Himachal → Shiwalik
+
+B. Shiwalik → Himachal → Himadri
+
+C. Himachal → Shiwalik → Himadri
+
+D. Shiwalik → Himadri → Himachal
 
 <details>
 <summary>Show answer</summary>
@@ -909,11 +1215,20 @@ Options: A. Himadri → Himachal → Shiwalik B. Shiwalik → Himachal → Himad
 </details>
 
 **Q31.** With reference to Western Ghats and Eastern Ghats, which of the following statements is/are correct?
+
 1. Western Ghats are continuous; Eastern Ghats are discontinuous.
 2. Anaimudi in Kerala is the highest peak in the Western Ghats / South India.
 3. Eastern Ghats are higher and more continuous than Western Ghats.
+
 Select the correct answer from the code given below:
-Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -922,10 +1237,20 @@ Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 </details>
 
 **Q32.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+
 **Assertion (A):** Indian Standard Time (IST) is based on the Standard Meridian 82°30′ E.
+
 **Reason (R):** IST applies only to the states east of the Standard Meridian, not the whole country.
+
 Select the correct answer from the code given below:
-Options: A. Both (A) and (R) are true and (R) is the correct explanation of (A) B. Both (A) and (R) are true, but (R) is not the correct explanation of (A) C. (A) is true, but (R) is false D. (A) is false, but (R) is true
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+C. (A) is true, but (R) is false
+
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
@@ -934,12 +1259,21 @@ Options: A. Both (A) and (R) are true and (R) is the correct explanation of (A) 
 </details>
 
 **Q33.** Match **List-I** with **List-II** (2018 Q108 pattern):
-**List-I (State)** | **List-II (Highest Peak)**
-A. Kerala | 1. Dodda Betta
-B. Nagaland | 2. Nanda Devi
-C. Uttarakhand | 3. Anaimudi
-D. Tamil Nadu | 4. Saramati
-Options: A. 3 4 2 1 B. 2 3 4 1 C. 1 3 4 2 D. 1 2 3 4
+
+| List-I (State) | List-II (Highest Peak) |
+|---|---|
+| A. Kerala | 1. Dodda Betta |
+| B. Nagaland | 2. Nanda Devi |
+| C. Uttarakhand | 3. Anaimudi |
+| D. Tamil Nadu | 4. Saramati |
+
+A. 3 4 2 1
+
+B. 2 3 4 1
+
+C. 1 3 4 2
+
+D. 1 2 3 4
 
 <details>
 <summary>Show answer</summary>
@@ -948,11 +1282,20 @@ Options: A. 3 4 2 1 B. 2 3 4 1 C. 1 3 4 2 D. 1 2 3 4
 </details>
 
 **Q34.** With reference to India's extreme points, which of the following statements is/are correct?
+
 1. Indira Col (Siachen) is the northernmost point of India.
 2. Kibithu in Arunachal Pradesh is the easternmost point.
 3. Kanyakumari is the southernmost point of Indian territory.
+
 Select the correct answer from the code given below:
-Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -962,12 +1305,21 @@ Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 **Q35.** Which of the following pairs is/are **NOT** correctly matched?
 (Peak) — (Location)
+
 1. Cho Oyu — Himalayan peak (in India/Nepal/Tibet context; 8000 m cluster)
 2. Annamalai — Himalayan peak
 3. Lhotse — Himalayan peak
 4. Sirumalai — Himalayan peak
+
 Select the correct answer from the code given below:
-Options: A. 2, 3 and 4 B. 2 and 4 only C. Only 2 D. 1 and 2 only
+
+A. 2, 3 and 4
+
+B. 2 and 4 only
+
+C. Only 2
+
+D. 1 and 2 only
 
 <details>
 <summary>Show answer</summary>
@@ -976,7 +1328,14 @@ Options: A. 2, 3 and 4 B. 2 and 4 only C. Only 2 D. 1 and 2 only
 </details>
 
 **Q36.** Which of the following States of India has the longest coastline?
-Options: A. Maharashtra B. Andhra Pradesh C. Kerala D. Gujarat
+
+A. Maharashtra
+
+B. Andhra Pradesh
+
+C. Kerala
+
+D. Gujarat
 
 <details>
 <summary>Show answer</summary>
@@ -985,11 +1344,20 @@ Options: A. Maharashtra B. Andhra Pradesh C. Kerala D. Gujarat
 </details>
 
 **Q37.** With reference to Meghalaya Plateau and associated hills, which of the following statements is/are correct?
+
 1. Garo, Khasi, and Jaintia hills form the Meghalaya Plateau.
 2. Cherrapunji-Mawsynram rainfall fame lies in Khasi Hills.
 3. Meghalaya Plateau is separated from the Peninsular block by the Malda Gap.
+
 Select the correct answer from the code given below:
-Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -998,10 +1366,20 @@ Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 </details>
 
 **Q38.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+
 **Assertion (A):** Intertrappean beds of the Deccan Trap contain fossils of freshwater plants and animals.
+
 **Reason (R):** Intertrappean beds are lacustrine (lake) deposits formed between successive basalt lava flows.
+
 Select the correct answer from the code given below:
-Options: A. Both (A) and (R) are true and (R) is the correct explanation of (A) B. Both (A) and (R) are true, but (R) is not the correct explanation of (A) C. (A) is true, but (R) is false D. (A) is false, but (R) is true
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+C. (A) is true, but (R) is false
+
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
@@ -1010,12 +1388,21 @@ Options: A. Both (A) and (R) are true and (R) is the correct explanation of (A) 
 </details>
 
 **Q39.** Match **List-I** with **List-II**:
-**List-I (Hill Range)** | **List-II (Region/State)**
-A. Rajmahal Hills | 1. Jharkhand (Eastern plateau)
-B. Maikal Hills | 2. MP-Chhattisgarh (Satpura extension)
-C. Shevaroy Hills | 3. Tamil Nadu (Eastern Ghats)
-D. Cardamom Hills | 4. Kerala (Southern Ghats)
-Options: A. 1 2 3 4 B. 2 1 4 3 C. 1 2 4 3 D. 4 3 2 1
+
+| List-I (Hill Range) | List-II (Region/State) |
+|---|---|
+| A. Rajmahal Hills | 1. Jharkhand (Eastern plateau) |
+| B. Maikal Hills | 2. MP-Chhattisgarh (Satpura extension) |
+| C. Shevaroy Hills | 3. Tamil Nadu (Eastern Ghats) |
+| D. Cardamom Hills | 4. Kerala (Southern Ghats) |
+
+A. 1 2 3 4
+
+B. 2 1 4 3
+
+C. 1 2 4 3
+
+D. 4 3 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -1024,11 +1411,20 @@ Options: A. 1 2 3 4 B. 2 1 4 3 C. 1 2 4 3 D. 4 3 2 1
 </details>
 
 **Q40.** With reference to mountain peaks and international boundaries, which of the following statements is/are correct?
+
 1. Namcha Barwa is not located within India's territory.
 2. Nanga Parbat lies in the Pakistan-administered/ disputed Himalayan zone (not wholly in Indian-controlled area).
 3. Gurla Mandhata is entirely outside India.
+
 Select the correct answer from the code given below:
-Options: A. 1 only B. 1 and 2 only C. 2 and 3 only D. 1, 2 and 3
+
+A. 1 only
+
+B. 1 and 2 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1038,12 +1434,21 @@ Options: A. 1 only B. 1 and 2 only C. 2 and 3 only D. 1, 2 and 3
 
 **Q41.** Which of the following pairs is/are **NOT** correctly matched?
 (Pass/Town) — (State)
+
 1. Bomdila — Arunachal Pradesh (town, not a pass)
 2. Mana — Himachal Pradesh
 3. Niti — Uttarakhand
 4. Atal Tunnel — Rohtang Pass area, Himachal Pradesh
+
 Select the correct answer from the code given below:
-Options: A. Only 2 B. Only 1 and 2 C. Only 2 and 3 D. Only 1, 2 and 4
+
+A. Only 2
+
+B. Only 1 and 2
+
+C. Only 2 and 3
+
+D. Only 1, 2 and 4
 
 <details>
 <summary>Show answer</summary>
@@ -1052,7 +1457,14 @@ Options: A. Only 2 B. Only 1 and 2 C. Only 2 and 3 D. Only 1, 2 and 4
 </details>
 
 **Q42.** Which one of the following is the correct **North-to-South** sequence of major physiographic divisions encountered along 80° E longitude in mainland India?
-Options: A. Northern Mountains → Northern Plains → Peninsular Plateau → Coastal Plains B. Northern Plains → Northern Mountains → Peninsular Plateau C. Peninsular Plateau → Northern Plains → Northern Mountains D. Northern Mountains → Peninsular Plateau → Northern Plains
+
+A. Northern Mountains → Northern Plains → Peninsular Plateau → Coastal Plains
+
+B. Northern Plains → Northern Mountains → Peninsular Plateau
+
+C. Peninsular Plateau → Northern Plains → Northern Mountains
+
+D. Northern Mountains → Peninsular Plateau → Northern Plains
 
 <details>
 <summary>Show answer</summary>
@@ -1061,10 +1473,19 @@ Options: A. Northern Mountains → Northern Plains → Peninsular Plateau → Co
 </details>
 
 **Q43.** With reference to the Atal Tunnel, which of the following statements is/are correct?
+
 1. It is the world's longest highway tunnel above 10,000 feet.
 2. It is built beneath the Rohtang Pass in the Pir Panjal range of Himachal Pradesh.
+
 Select the correct answer from the code given below:
-Options: A. Only 2 B. Neither 1 nor 2 C. Both 1 and 2 D. Only 1
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1073,7 +1494,14 @@ Options: A. Only 2 B. Neither 1 nor 2 C. Both 1 and 2 D. Only 1
 </details>
 
 **Q44.** India's southernmost point is located at:
-Options: A. Kanyakumari, Tamil Nadu B. Indira Point, Great Nicobar C. Port Blair, Andaman D. Minicoy, Lakshadweep
+
+A. Kanyakumari, Tamil Nadu
+
+B. Indira Point, Great Nicobar
+
+C. Port Blair, Andaman
+
+D. Minicoy, Lakshadweep
 
 <details>
 <summary>Show answer</summary>
@@ -1082,10 +1510,20 @@ Options: A. Kanyakumari, Tamil Nadu B. Indira Point, Great Nicobar C. Port Blair
 </details>
 
 **Q45.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+
 **Assertion (A):** The Tropic of Cancer passes through the middle of India.
+
 **Reason (R):** The Tropic of Cancer divides India into two equal latitudinal halves.
+
 Select the correct answer from the code given below:
-Options: A. Both (A) and (R) are true and (R) is the correct explanation of (A) B. Both (A) and (R) are true, but (R) is not the correct explanation of (A) C. (A) is true, but (R) is false D. (A) is false, but (R) is true
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+C. (A) is true, but (R) is false
+
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
@@ -1094,12 +1532,21 @@ Options: A. Both (A) and (R) are true and (R) is the correct explanation of (A) 
 </details>
 
 **Q46.** Match **List-I** with **List-II** and select the correct answer using the codes given below:
-**List-I (State)** | **List-II (Highest Peak)**
-A. Tamil Nadu | 1. Dhupgarh
-B. Rajasthan | 2. Saramati
-C. Nagaland | 3. Guru Shikhar
-D. Madhya Pradesh | 4. Doddabetta
-Options: A. 4 3 2 1 B. 1 4 3 2 C. 4 2 3 1 D. 3 2 1 4
+
+| List-I (State) | List-II (Highest Peak) |
+|---|---|
+| A. Tamil Nadu | 1. Dhupgarh |
+| B. Rajasthan | 2. Saramati |
+| C. Nagaland | 3. Guru Shikhar |
+| D. Madhya Pradesh | 4. Doddabetta |
+
+A. 4 3 2 1
+
+B. 1 4 3 2
+
+C. 4 2 3 1
+
+D. 3 2 1 4
 
 <details>
 <summary>Show answer</summary>
@@ -1108,11 +1555,20 @@ Options: A. 4 3 2 1 B. 1 4 3 2 C. 4 2 3 1 D. 3 2 1 4
 </details>
 
 **Q47.** With reference to Uttar Pradesh and the Northern Plains, which of the following statements is/are correct?
+
 1. Dudhwa National Park lies in the Terai belt of UP.
 2. Katarniaghat Wildlife Sanctuary is in the Terai/floodplain zone of UP.
 3. Bhabar belt of UP is the most densely populated tract of the plains.
+
 Select the correct answer from the code given below:
-Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1122,12 +1578,21 @@ Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 
 **Q48.** Which of the following pairs is/are **NOT** correctly matched?
 (Himalayan Region) — (Key Feature)
+
 1. Kashmir Himalaya — Pir Panjal, Zanskar, Kashmir Valley
 2. Kumaon Himalaya — Nanda Devi, Mana Pass
 3. Assam Himalaya — Kanchenjunga as easternmost 8000 m peak in this section
 4. Punjab Himalaya — Shipki La, Rohtang Pass
+
 Select the correct answer from the code given below:
-Options: A. Only 3 B. Only 4 C. 3 and 4 D. 2 and 4
+
+A. Only 3
+
+B. Only 4
+
+C. 3 and 4
+
+D. 2 and 4
 
 <details>
 <summary>Show answer</summary>
@@ -1136,11 +1601,20 @@ Options: A. Only 3 B. Only 4 C. 3 and 4 D. 2 and 4
 </details>
 
 **Q49.** With reference to India, which of the following statements is/are correct?
+
 1. India occupies about 2.4% of the total area of the world.
 2. India is the sixth largest country by area.
 3. India lies entirely north of the Equator and entirely east of the Prime Meridian.
+
 Select the correct answer from the code given below:
-Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
 
 <details>
 <summary>Show answer</summary>
@@ -1149,7 +1623,14 @@ Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3
 </details>
 
 **Q50.** Which one of the following is the youngest mountain range of India?
-Options: A. Himadri Range B. Aravalli Range C. Western Ghats D. Vindhya Range
+
+A. Himadri Range
+
+B. Aravalli Range
+
+C. Western Ghats
+
+D. Vindhya Range
 
 <details>
 <summary>Show answer</summary>
@@ -1167,16 +1648,28 @@ Options: A. Himadri Range B. Aravalli Range C. Western Ghats D. Vindhya Range
 **Q1. UPPCS Prelims 2025, Q37**
 Match List-I with List-II and select the correct answer using the code given below the lists.
 **List-I (State)**
+
 A. Tamil Nadu
+
 B. Rajasthan
+
 C. Nagaland
+
 D. Madhya Pradesh
 **List-II (Highest Peak)**
+
 1. Dhupgarh
 2. Doddabetta
 3. Guru Shikhar
 4. Saramati
-Options: A. 2 3 1 4 B. 3 2 4 1 C. 3 2 1 4 D. 2 3 4 1
+
+A. 2 3 1 4
+
+B. 3 2 4 1
+
+C. 3 2 1 4
+
+D. 2 3 4 1
 
 <details>
 <summary>Show answer</summary>
@@ -1188,10 +1681,19 @@ Options: A. 2 3 1 4 B. 3 2 4 1 C. 3 2 1 4 D. 2 3 4 1
 
 **Q2. UPPCS Prelims 2025, Q44**
 With reference to the Atal Tunnel, which of the following statements is/are correct?
+
 1. This tunnel is the world's longest highway tunnel.
 2. This tunnel is built in the Pir Panjal range of the Himalayas.
+
 Select the correct answer from the code given below:
-Options: A. Only 2 B. Neither 1 nor 2 C. Both 1 and 2 D. Only 1
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1204,12 +1706,21 @@ Options: A. Only 2 B. Neither 1 nor 2 C. Both 1 and 2 D. Only 1
 **Q3. UPPCS Prelims 2025, Q55**
 Which of the following pairs are NOT correctly matched?
 (Pass) — (State/Union Territory)
+
 1. Lipulekh — Ladakh
 2. Nathu La — Sikkim
 3. Bomdila — Arunachal Pradesh
 4. Shipki La — Himachal Pradesh
+
 Select the correct answer from the code given below:
-Options: A. Only 1 and 2 B. Only 2, 3 and 4 C. Only 1, 2 and 3 D. Only 1
+
+A. Only 1 and 2
+
+B. Only 2, 3 and 4
+
+C. Only 1, 2 and 3
+
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1221,10 +1732,20 @@ Options: A. Only 1 and 2 B. Only 2, 3 and 4 C. Only 1, 2 and 3 D. Only 1
 
 **Q4. UPPCS Prelims 2025, Q94**
 Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+
 **Assertion (A):** The Himalayas form the source of several large perennial rivers.
+
 **Reason (R):** The higher ranges of the Himalayas remain snow-covered throughout the year.
+
 Select the correct answer from the code given below:
-Options: A. Both (A) and (R) are true, but (R) is not the correct explanation of (A) B. (A) is false, but (R) is true C. (A) is true, but (R) is false D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
@@ -1236,10 +1757,20 @@ Options: A. Both (A) and (R) are true, but (R) is not the correct explanation of
 
 **Q5. UPPCS Prelims 2025, Q21**
 Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+
 **Assertion (A):** In the Himalayan mountains different types of vegetation are found.
+
 **Reason (R):** In Himalayas, there are variations in climate with change in altitude.
+
 Select the correct answer from the code given below:
-Options: A. Both (A) and (R) are true, but (R) is not the correct explanation of (A) B. (A) is false, but (R) is true C. (A) is true, but (R) is false D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+B. (A) is false, but (R) is true
+
+C. (A) is true, but (R) is false
+
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
@@ -1251,7 +1782,14 @@ Options: A. Both (A) and (R) are true, but (R) is not the correct explanation of
 
 **Q6. UPPCS Prelims 2024, Q59**
 Which one of the following pairs (Deccan Trap – Peculiarity) is not correctly matched?
-Options: A. Depth of middle trap – approximately 1200 metres B. Intertrappean beds – Fossils of sea plants and animals C. Depth of lower trap – approximately 150 metres D. Depth of upper trap – approximately 450 metres
+
+A. Depth of middle trap – approximately 1200 metres
+
+B. Intertrappean beds – Fossils of sea plants and animals
+
+C. Depth of lower trap – approximately 150 metres
+
+D. Depth of upper trap – approximately 450 metres
 
 <details>
 <summary>Show answer</summary>
@@ -1263,7 +1801,14 @@ Options: A. Depth of middle trap – approximately 1200 metres B. Intertrappean 
 
 **Q7. UPPCS Prelims 2023, Q57**
 Which one of the following (**Pass — State/UT**) is correctly matched?
-Options: A. Aghil — Arunachal Pradesh B. Diphu — Ladakh C. Niti — Uttarakhand D. Mana — Himachal Pradesh
+
+A. Aghil — Arunachal Pradesh
+
+B. Diphu — Ladakh
+
+C. Niti — Uttarakhand
+
+D. Mana — Himachal Pradesh
 
 <details>
 <summary>Show answer</summary>
@@ -1275,11 +1820,19 @@ Options: A. Aghil — Arunachal Pradesh B. Diphu — Ladakh C. Niti — Uttarakh
 
 **Q8. UPPCS Prelims 2022, Q31**
 Which of the following mountain peaks are in the Himalayan Mountains?
+
 1. Cho Oyu
 2. Lhotse
 3. Annamalai
 4. Sirumalai
-Options: A. Only 2, 3 and 4 B. Only 1, 2 and 3 C. Only 3 and 4 D. Only 1 and 2
+
+A. Only 2, 3 and 4
+
+B. Only 1, 2 and 3
+
+C. Only 3 and 4
+
+D. Only 1 and 2
 
 <details>
 <summary>Show answer</summary>
@@ -1291,11 +1844,19 @@ Options: A. Only 2, 3 and 4 B. Only 1, 2 and 3 C. Only 3 and 4 D. Only 1 and 2
 
 **Q9. UPPCS Prelims 2022, Q35**
 With reference to India, which of the following statements is/are correct?
+
 1. India is the sixth largest country in the world.
 2. India occupies about 2.4% of the total area of the world.
 3. The Tropic of Cancer passes through the middle of the country dividing it into two latitudinal halves.
 4. India lies completely in the tropical zone.
-Options: A. 2 and 3 B. 2 and 4 C. 3 and 4 D. 1 and 2
+
+A. 2 and 3
+
+B. 2 and 4
+
+C. 3 and 4
+
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
@@ -1308,16 +1869,28 @@ Options: A. 2 and 3 B. 2 and 4 C. 3 and 4 D. 1 and 2
 **Q10. UPPCS Prelims 2021, Q127**
 Match List-I with List-II and select the correct answer using the codes given below the lists.
 **List-I (State of India)**
+
 A. Tamil Nadu
+
 B. Rajasthan
+
 C. Nagaland
+
 D. Madhya Pradesh
 **List-II (Highest Peak)**
+
 1. Dhupgarh Peak
 2. Saramati Peak
 3. Gurushikhar Peak
 4. Dodda Betta
-Options: A. 3 2 1 4 B. 1 4 3 2 C. 4 2 3 1 D. 4 3 2 1
+
+A. 3 2 1 4
+
+B. 1 4 3 2
+
+C. 4 2 3 1
+
+D. 4 3 2 1
 
 <details>
 <summary>Show answer</summary>
@@ -1329,7 +1902,14 @@ Options: A. 3 2 1 4 B. 1 4 3 2 C. 4 2 3 1 D. 4 3 2 1
 
 **Q11. UPPCS Prelims 2020, Q60**
 Which one of the following is the youngest mountain range of India?
-Options: A. Himadri Range B. Aravalli Range C. Western Ghat D. Vindhya Range
+
+A. Himadri Range
+
+B. Aravalli Range
+
+C. Western Ghat
+
+D. Vindhya Range
 
 <details>
 <summary>Show answer</summary>
@@ -1341,7 +1921,14 @@ Options: A. Himadri Range B. Aravalli Range C. Western Ghat D. Vindhya Range
 
 **Q12. UPPCS Prelims 2020, Q66**
 Valley of Kashmir is situated between
-Options: A. Kangara and Dhauladhar ranges B. Pir-Panjal and Himadri ranges C. Mahabharat and Dhauladhar ranges D. Pir-Panjal and Mahabharat ranges
+
+A. Kangara and Dhauladhar ranges
+
+B. Pir-Panjal and Himadri ranges
+
+C. Mahabharat and Dhauladhar ranges
+
+D. Pir-Panjal and Mahabharat ranges
 
 <details>
 <summary>Show answer</summary>
@@ -1353,7 +1940,14 @@ Options: A. Kangara and Dhauladhar ranges B. Pir-Panjal and Himadri ranges C. Ma
 
 **Q13. UPPCS Prelims 2019, Q82**
 Which one of the following peaks is NOT located in India?
-Options: A. Gurla Mandhata B. Namcha Barwa C. Kamet D. Nanga Parbat
+
+A. Gurla Mandhata
+
+B. Namcha Barwa
+
+C. Kamet
+
+D. Nanga Parbat
 
 <details>
 <summary>Show answer</summary>
@@ -1365,11 +1959,20 @@ Options: A. Gurla Mandhata B. Namcha Barwa C. Kamet D. Nanga Parbat
 
 **Q14. UPPCS Prelims 2019, Q11**
 With reference to the Himalayan range, which of the statements is/are correct?
+
 1. The sedimentary rocks of the greater Himalayas were fossil less.
 2. Marine livings fossils are found in the sedimentary rocks of lesser Himalayas.
 3. Remains of human civilization are found in outer or Shivalik Himalayas.
+
 Select the correct answer using the codes given below:
-Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3 are correct
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3 are correct
 
 <details>
 <summary>Show answer</summary>
@@ -1381,7 +1984,14 @@ Options: A. 1 and 2 only B. 2 and 3 only C. 1 and 3 only D. 1, 2 and 3 are corre
 
 **Q15. UPPCS Prelims 2019, Q6**
 Which one of the following is the correct sequence of the hills of Central India located from West to East?
-Options: A. Maikal, Satpura, Mahadeo and Chhotanagpur B. Satpura, Mahadeo, Maikal and Chhotanagpur C. Maikal, Mahadeo, Satpura and Chhotanagpur D. Satpura, Mahadeo, Chhotanagpur and Maikal
+
+A. Maikal, Satpura, Mahadeo and Chhotanagpur
+
+B. Satpura, Mahadeo, Maikal and Chhotanagpur
+
+C. Maikal, Mahadeo, Satpura and Chhotanagpur
+
+D. Satpura, Mahadeo, Chhotanagpur and Maikal
 
 <details>
 <summary>Show answer</summary>
@@ -1393,12 +2003,21 @@ Options: A. Maikal, Satpura, Mahadeo and Chhotanagpur B. Satpura, Mahadeo, Maika
 
 **Q16. UPPCS Prelims 2018, Q108**
 Match List-I and List-II and select the correct answer using the codes given below the list:
-**List-I (States)** | **List-II (Highest Peak)**
-A. Kerala | 1. Dodda Betta
-B. Nagaland | 2. Nand Devi
-C. Uttarakhand | 3. Anai Mudi
-D. Tamil Nadu | 4. Saramati
-Options: A. 1 3 4 2 B. 2 3 4 1 C. 3 4 2 1 D. 1 2 3 4
+
+| List-I (States) | List-II (Highest Peak) |
+|---|---|
+| A. Kerala | 1. Dodda Betta |
+| B. Nagaland | 2. Nand Devi |
+| C. Uttarakhand | 3. Anai Mudi |
+| D. Tamil Nadu | 4. Saramati |
+
+A. 1 3 4 2
+
+B. 2 3 4 1
+
+C. 3 4 2 1
+
+D. 1 2 3 4
 
 <details>
 <summary>Show answer</summary>
@@ -1410,7 +2029,14 @@ Options: A. 1 3 4 2 B. 2 3 4 1 C. 3 4 2 1 D. 1 2 3 4
 
 **Q17. UPPCS Prelims 2018, Q100**
 In which of the following hills the world famous temple of Lord Venkateshwar (Tirupati) is located?
-Options: A. Shevaroy B. Biligiriranga C. Javadhee D. Mallmalla
+
+A. Shevaroy
+
+B. Biligiriranga
+
+C. Javadhee
+
+D. Mallmalla
 
 <details>
 <summary>Show answer</summary>
@@ -1422,7 +2048,14 @@ Options: A. Shevaroy B. Biligiriranga C. Javadhee D. Mallmalla
 
 **Q18. UPPCS Prelims 2018, Q101**
 Rajasthan desert or Thar desert is the expanse of which of the following?
-Options: A. Pliocene B. Paleocene C. Pleistocene and recent deposits D. Oligocene
+
+A. Pliocene
+
+B. Paleocene
+
+C. Pleistocene and recent deposits
+
+D. Oligocene
 
 <details>
 <summary>Show answer</summary>
@@ -1434,7 +2067,14 @@ Options: A. Pliocene B. Paleocene C. Pleistocene and recent deposits D. Oligocen
 
 **Q19. UPPCS Prelims 2018, Q98**
 Which of the following States of India has the longest coastline?
-Options: A. Maharashtra B. Andhra Pradesh C. Kerala D. Gujarat
+
+A. Maharashtra
+
+B. Andhra Pradesh
+
+C. Kerala
+
+D. Gujarat
 
 <details>
 <summary>Show answer</summary>

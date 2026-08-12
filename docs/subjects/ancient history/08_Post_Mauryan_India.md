@@ -504,6 +504,7 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 **Q7.** Given below are two statements:
 
 **Assertion (A):** Rudradaman’s Junagadh inscription mentions the Sudarshana lake.  
+
 **Reason (R):** The lake was first dug by Rudradaman himself, with no Mauryan memory on the rock.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -611,6 +612,7 @@ A. 2–3–1–4  B. 2–1–3–4  C. 3–2–1–4  D. 2–3–4–1
 **Q13.** Given below are two statements:
 
 **Assertion (A):** Satavahanas often used metronymic names.  
+
 **Reason (R):** Gautamiputra means son of a Gautami.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -731,6 +733,7 @@ A. Only one  B. Only two  C. All three  D. None
 **Q20.** Given below are two statements:
 
 **Assertion (A):** 2025 matches Mahendravarman I with the Pallavas.  
+
 **Reason (R):** Rajaraja I is a Pallava builder of Mamallapuram.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -855,6 +858,7 @@ A. 2–1–4–3  B. 1–2–4–3  C. 2–1–3–4  D. 2–4–1–3
 **Q27.** Given below are two statements:
 
 **Assertion (A):** Mathura was a Kushan centre.  
+
 **Reason (R):** Purushapura was the only Kushan city ever named in Indian sources.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -978,6 +982,7 @@ A. Only one  B. Only two  C. All three  D. None
 **Q34.** Given below are two statements:
 
 **Assertion (A):** Sangam polity used vari and sungam.  
+
 **Reason (R):** This is the same as Ashoka’s dhamma-mahamatra cadre.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -1100,6 +1105,7 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 **Q41.** Given below are two statements:
 
 **Assertion (A):** Yajna Sri Satakarni’s coins show a ship.  
+
 **Reason (R):** Satavahanas had no interest in the sea.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
@@ -1242,6 +1248,7 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 **Q49.** Given below are two statements:
 
 **Assertion (A):** 2018 Q91 is Ayodhya, not Besnagar.  
+
 **Reason (R):** Besnagar is the Heliodorus Garuda pillar.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
