@@ -22,16 +22,18 @@
 ```
 NSA = sown ≥1×/year | GCA = all sowings counted | Intensity = GCA/NSA × 100
 SEASONS: Kharif Jun–Oct (rice, maize, jowar, bajra, ragi, cotton, jute, GN, soy, tur)
- Rabi Oct–Mar (wheat, barley, gram, mustard, peas, linseed)
+ Rabi Oct–Mar (wheat, barley, gram, mustard, peas, linseed) + western disturbances help
  Zaid Mar–Jun (melon, cucumber, fodder, veg) | Cane = long | Tea/coffee/rubber = perennial
-RICE: >20–27°C; >100 cm; clayey alluvial; standing water; Aus/Aman/Boro | Azolla biofert | Golden rice = Vit A
-WHEAT: cool grow / bright ripen; 50–75 cm; loam; RABI | UP/PB/HR | Assam–Wheat WRONG
-JOWAR=MH | BAJRA=RJ | RAGI=KA | Maize = food+feed, mostly kharif
-PULSES: N-fixing (Rhizobium) | gram rabi; tur/moong/urad kharif
+RICE: >20–27°C / often >25°C; >100 cm; clayey alluvial; Aus/Aman/Boro (AS–WB–OD)
+ Azolla biofert | Golden rice = Vit A | India #2 world
+WHEAT: cool grow / bright ripen; 50–75 cm; loam; RABI | two belts: Ganga–Satluj + Deccan black
+ UP/PB/HR | Assam–Wheat WRONG | India #2
+JOWAR=MH | BAJRA=RJ | RAGI=KA | Maize = food+feed, mostly kharif | IYM 2023 = Shree Anna
+PULSES: N-fixing (Rhizobium) | gram rabi; tur/moong/urad kharif | India #1 producer
 OILSEEDS: GN=GJ | Mustard=RJ (rabi) | Soy=MP (kharif) | Yellow = oilseeds (NOT Golden)
-COTTON: >21°C; 50–100 cm; 210 frost-free; black soil; KHARIF | MH/GJ/TG
+COTTON (white gold): >21°C; 50–100 cm; 210 frost-free; black soil; KHARIF | MH/GJ/TG
  Ahmedabad in cotton belt TRUE; largest textile centre traditionally MUMBAI not Ahmedabad
-JUTE: 25–35°C; >150 cm; alluvial; retting | WB | UP–Jute WRONG
+JUTE (golden fibre): 25–35°C; >150 cm; alluvial; retting | WB | UP–Jute WRONG | India #1
 CANE: 21–27°C; 75–150 / irrig; long | UP quantity / MH productivity + coops (2019 both true, R doesn’t explain)
  Price = FRP (+SAP) ≠ cereal MSP
 TEA: 20–30°C; 150–300; slopes | Assam+WB+Nilgiri | plantation (2024 Q34)
@@ -43,13 +45,14 @@ GUAVA vars: Sultana, Gulabi, Kali Champa (NOT grapes)
 ACZ Planning = 15 | NARP ~127 | AER ~20 | Trans-Gangetic = GR wheat–rice
 IRRIG: canal plains | tube well NW+W UP | tank peninsula | drip horti
 MSP: CACP recommends → Cabinet decides (2024 Q43) | 22 crops
-GR: HYV+water+fert; PB–HR–W UP; Swaminathan; Borlaug Nobel PEACE not Agri
-WHITE: Kurien / Operation Flood / NDDB / Amul
+GR: HYV+water+fert; PB–HR–W UP; Lerma Rojo/Sonora 64 / IR-8; Swaminathan; Borlaug Nobel PEACE
+WHITE: Kurien / Operation Flood / NDDB / Amul | BLUE: Hiralal Chaudhuri (fish)
 GOLDEN=horti+honey | GREY=fertiliser | YELLOW=oilseed | BLACK=petroleum (2022 Q136)
-BLUE=fish | SILVER=egg | PINK=onion/meat/prawn | RAINBOW=integrated | EVERGREEN=sustainable (Swaminathan)
+SILVER=egg | PINK=onion/meat/prawn | RAINBOW=integrated | EVERGREEN=sustainable (Swaminathan)
 ICAR Delhi | IARI Pusa | Seed: Breeder→Foundation→Certified | KVK district
-JHUM=NE | Organic=no synthetic | Precision=GIS/GPS site-specific
-```
+JHUM=NE (+podu/bewar/dahiya/kumri) | Organic=no synthetic; Sikkim 1st organic state
+ Precision=GIS/GPS site-specific
+India ranks: milk/pulses/jute #1; rice/wheat/cane often #2```
 
 ---
 
@@ -74,26 +77,42 @@ JHUM=NE | Organic=no synthetic | Precision=GIS/GPS site-specific
 | Azolla vs pesticide | Azolla = **biofertiliser** in rice | Insecticide | एजोला = जैव उर्वरक |
 | 15 vs 127 vs 20 | ACZ **15** / NARP **~127** / AER **~20** | Mix counts | 15 कृषि-जलवायु |
 | Sen vs Swaminathan | Food **entitlements** = Amartya Sen | Swaminathan | सेन = एंटाइटलमेंट |
+| Two wheat belts | Ganga–Satluj plains + Deccan black soil | Assam as wheat belt | दो गेहूँ पेटियाँ |
+| White gold vs golden fibre | Cotton = white gold; jute = golden fibre | Swap nicknames | सफेद सोना / सुनहरा रेशा |
+| Sikkim organic | Sikkim = first fully organic state | Call any NE state first | सिक्किम जैविक |
 
 ---
 
 ## Memory Tricks
 
-- **Kharif = monsoon wet; Rabi = winter wheat.**
-- **GJ-groundnut · RJ-mustard · MP-soya · MH-jowar · RJ-bajra · KA-ragi · WB-jute · KL-rubber/pepper.**
-- **CACP asks; Cabinet answers.**
-- **Kurien white milk; Swaminathan green grain; Borlaug Peace.**
-- **Golden honey-horti; Yellow oil; Grey urea; Black petrol.**
-- **210 frost-free = cotton.**
-- **Retting water = jute; shade slopes = coffee.**
-- **Potato Agra, not Aligarh.**
+| Trick | Remembers |
+|-------|-----------|
+| **Kharif wet / Rabi wheat** | Monsoon sowings = kharif · Winter wheat–mustard–gram = **rabi** |
+| **RMBGCST (kharif pack)** | Rice · Maize · Bajra · Groundnut · Cotton · Soy · Tur |
+| **State–crop map** | GJ–groundnut · RJ–mustard · MP–soya · MH–jowar · RJ–bajra · KA–ragi · WB–jute · KL–rubber/pepper |
+| **Two wheat belts** | **Ganga–Satluj** plains + **Deccan black-soil** wheat |
+| **Aus–Aman–Boro** | Three paddy crops in Assam / WB / Odisha |
+| **White gold / golden fibre** | Cotton = white gold · Jute = golden fibre |
+| **210 frost-free** | Cotton climate lock |
+| **Retting / shade** | Retting water = **jute** · Shade slopes = **coffee** |
+| **CACP asks; Cabinet answers** | MSP recommendation vs decision |
+| **Kurien milk / Swaminathan grain** | White ≠ Green · Borlaug Nobel = **Peace** |
+| **Colour pack** | Golden = horti+honey · Yellow = oil · Grey = urea · Black = petrol · Silver = egg · Blue = fish |
+| **Potato Agra** | CIP-SARC = **Singna, Agra** — not Aligarh |
+| **15 / 127 / 20** | ACZ · NARP · AER — never swap |
+| **Vanish numbers** | FRP = cane · MSP = cereals/pulses/oilseeds/cotton/jute |
 
 ---
 
 ## N.1 Land Use, Farming Types, Seasons
 
-**Land-use (NCERT):** Forests | Barren | Permanent pastures | Misc. tree crops & groves | Culturable waste | Fallow (current + other) | **Net sown area**.
-**NSA** = land sown at least once. **GCA** = total cropped area counting repeats. **Cropping intensity** = (GCA ÷ NSA) × 100.
+**Land-use classes (NCERT):** Forests | Barren | Permanent pastures | Misc. tree crops & groves | Culturable waste | Fallow (current + other) | **Net sown area**.
+
+- **NSA** = land sown at least once in a year.
+- **GCA** = total cropped area counting every sowing.
+- **Cropping intensity** = (GCA ÷ NSA) × 100.
+
+### Farming types
 
 | Type | Lock |
 |------|------|
@@ -104,13 +123,20 @@ JHUM=NE | Organic=no synthetic | Precision=GIS/GPS site-specific
 | Mixed farming | Crops + livestock |
 | Dairy | Milk commercial |
 | Mediterranean (world) | Winter rain; citrus/olives/vines |
-| Truck farming | Veg near cities |
+| Truck farming | Vegetables near cities |
+| Dryland farming | Rainfed low-rain tracts (millets, pulses) |
+
+### Cropping patterns
+
 | Pattern | Meaning |
 |---------|---------|
-| Mixed cropping | Two+ crops **together** same time |
-| Intercropping | Mixed in **row ratios** |
-| Crop rotation | Sequential change on same land |
-| Multiple cropping | >1 crop in a year → raises intensity |
+| Mixed cropping | Two+ crops **together** at the same time |
+| Intercropping | Mixed in fixed **row ratios** |
+| Crop rotation | Sequential change on the same land |
+| Multiple cropping | More than one crop in a year → raises intensity |
+
+### Seasons
+
 | Season | Months | Typical crops |
 |--------|--------|---------------|
 | **Kharif** | Jun–Oct (SW monsoon) | Rice, maize, jowar, bajra, ragi, cotton, jute, groundnut, soybean, tur, sesame |
@@ -118,8 +144,18 @@ JHUM=NE | Organic=no synthetic | Precision=GIS/GPS site-specific
 | **Zaid** | Mar–Jun | Watermelon, cucumber, fodder, vegetables |
 | Long / perennial | — | Sugarcane (10–18 months); tea, coffee, rubber |
 
-India’s tropical monsoon supports diversified cropping almost year-round (2024 Q73 stmt 2 **true**). Stmt 1: India has a **higher share of geographical area under cultivation** than USA, China and Japan in standard textbook/PYQ framing (keys sometimes split; lock stmt 2 for sure). Dryland farming = rainfed low-rain tracts (millets).
-**School agricultural regions** (crop-system map, separate from the 15 ACZ names): wet-rice east · wheat–sugarcane plains · cotton Deccan · millet drylands · plantation Ghats · arid livestock west.
+- India’s tropical monsoon supports diversified cropping almost year-round (2024 Q73 stmt 2 **true**).
+- Textbook framing: India has a **higher share of geographical area under cultivation** than USA, China and Japan (stmt 1 — keys sometimes split; lock stmt 2 for sure).
+- Rabi belts of PB–HR–W UP also benefit from **western disturbances** (winter rain) plus irrigation.
+
+**School agricultural regions** (crop-system map — separate from the 15 ACZ names):
+
+- Wet-rice east
+- Wheat–sugarcane plains
+- Cotton Deccan
+- Millet drylands
+- Plantation Ghats
+- Arid livestock west
 
 ---
 
@@ -127,7 +163,18 @@ India’s tropical monsoon supports diversified cropping almost year-round (2024
 
 ### Rice
 
-Hot + wet (or irrigation). ~**20–27°C+**, rain **~100 cm+**, **clayey/alluvial** that puddles; standing water typical. Main **kharif**; east also **Aus / Aman / Boro** (boro = irrigated winter–spring Bihar–Bengal–Assam). Punjab–Haryana rice is GR/tube-well, not a 150 cm natural belt. **Azolla–Anabaena** N-fix in flooded fields (2023 Q104). **Golden rice ↔ Vitamin A** (2018 pair was correct; ozone–troposphere was the wrong pair). Rice–wheat = NW GR rotation.
+Hot + wet (or irrigation). India is the world’s **2nd** largest producer (after China).
+
+- Temperature typically **>~20–27°C** (NCERT often stresses **>25°C** with high humidity).
+- Rain **~100 cm+**, or irrigation where rain is less.
+- Soil: **clayey / alluvial** that puddles; standing water is typical.
+- Main season = **kharif**.
+- East also grows three paddies: **Aus / Aman / Boro** (Assam, West Bengal, Odisha).
+- **Boro** = irrigated winter–spring crop.
+- Punjab–Haryana rice is GR / tube-well driven — not a natural 150 cm rain belt.
+- **Azolla–Anabaena** fixes nitrogen in flooded fields (2023 Q104).
+- **Golden rice ↔ Vitamin A** (2018 pair correct; ozone–troposphere was the wrong pair).
+- Rice–wheat = NW Green Revolution rotation.
 
 | Belt | States |
 |------|--------|
@@ -139,22 +186,34 @@ Hot + wet (or irrigation). ~**20–27°C+**, rain **~100 cm+**, **clayey/alluvia
 
 ### Wheat
 
-**Rabi.** Cool while growing (~10–15°C); **brighter/warmer while ripening** (~20–25°C). Frost at flower / rain at harvest hurts. Rain **50–75 cm** or irrigation; well-drained **alluvial loam**. Core: **UP, Punjab, Haryana** (+ MP, RJ, Bihar). **Assam–Wheat is wrong** (2022 Q142). HYV semi-dwarf + water + fertiliser = GR surplus in PB–HR–W UP (2022 Q91 both).
+**Rabi** cereal. India ranks **2nd** globally.
+
+- Cool while growing (~10–15°C); **brighter / warmer while ripening** (~20–25°C).
+- Frost at flowering or rain at harvest hurts yield.
+- Rain **50–75 cm** evenly, or irrigation; well-drained **alluvial loam**.
+- Two textbook belts: (1) **Ganga–Satluj** plains of the north-west; (2) **black-soil** Deccan wheat.
+- Core states: **UP, Punjab, Haryana** (+ MP, RJ, Bihar).
+- **Assam–Wheat is wrong** (2022 Q142).
+- HYV semi-dwarf + water + fertiliser = GR surplus in PB–HR–W UP (2022 Q91 both).
 
 ### Maize & millets (nutri-cereals)
 
-Maize: mostly **kharif**; food + feed + starch; also rabi maize in Bihar pockets.
-Millets = rainfed, drought-tolerant, light soils; mixed with pulses.
+- Maize is mostly **kharif**; food + feed + starch; also rabi maize in Bihar pockets.
+- Millets are rainfed, drought-tolerant, light-soil crops; often mixed with pulses.
+- UN **International Year of Millets = 2023**; GoI brand **Shree Anna**.
 
 | Crop | State lock | Note |
 |------|------------|------|
-| **Jowar** | **Maharashtra** | Some rabi jowar in peninsula |
-| **Bajra** | **Rajasthan** | Lowest rainfall cereal |
-| **Ragi** | **Karnataka** | Ca-rich; red/lateritic ok |
+| **Jowar** | **Maharashtra** | Some rabi jowar in the peninsula |
+| **Bajra** | **Rajasthan** | Lowest-rainfall cereal |
+| **Ragi** | **Karnataka** | Ca-rich; red/lateritic soils OK |
 
 ### Pulses
 
-**Rhizobium** N-fixation in root nodules (2019 Q46 = pulses, not rice/wheat/cane). Protein crop + soil fertility; GR historically neglected pulses vs wheat–rice.
+- **Rhizobium** N-fixation in root nodules (2019 Q46 = pulses, not rice/wheat/cane).
+- Protein crop that also rebuilds soil fertility.
+- Green Revolution historically neglected pulses vs wheat–rice.
+- India is the world’s **largest** producer — and still a major importer.
 
 | Pulse | Season | Note |
 |-------|--------|------|
@@ -164,7 +223,7 @@ Millets = rainfed, drought-tolerant, light soils; mixed with pulses.
 | Moong, urad, moth | Kharif | Short-duration; drylands |
 | Peas | Rabi | With wheat belts |
 
-States: MP, RJ, MH, UP, KA. Mixed cropping with millets common.
+States: MP, RJ, MH, UP, KA. Mixed cropping with millets is common.
 
 ---
 
@@ -184,21 +243,41 @@ States: MP, RJ, MH, UP, KA. Mixed cropping with millets common.
 | Safflower | Cool dry rabi | Deccan |
 | Niger | Minor | Tribal/peninsula |
 
-Oilcake → dairy feed (White link). **Yellow ≠ Golden.**
+- Oilcake feeds dairy (White Revolution link).
+- **Yellow ≠ Golden.**
 
-### Cotton
+### Cotton (white gold)
 
-**Kharif** fibre. Warm **>21°C**, rain **~50–100 cm**, **~210 frost-free days**, bright sun at boll opening. Best on **black regur**. MH, GJ, TG/AP; also NW irrigated. **Bt cotton** vs bollworm.
-**Staple:** long (including Egyptian/Sea-island quality talk) vs medium vs short — Indian crop is mostly **medium**; mills mix staples.
-**Ahmedabad** is in a major cotton region (raw material true) but is **not** traditionally India’s largest cotton-textile centre — **Mumbai** is (2020 Q58: A false, R true → D).
+**Kharif** fibre. India is among the world’s top / often **largest** producers; **Bt cotton** dominates area.
+
+- Warm **>21°C**, rain **~50–100 cm**, **~210 frost-free days**, bright sun at boll opening.
+- Best on **black regur**; also NW irrigated tracts.
+- Main belts: MH, GJ, TG/AP.
+- Staple grades: long / medium / short — Indian crop is mostly **medium**; mills blend staples.
+- **Ahmedabad** lies in a major cotton **region** (raw material true).
+- Traditionally India’s largest cotton-textile **centre** is **Mumbai**, not Ahmedabad (2020 Q58: A false, R true → D).
 
 ### Jute (golden fibre) & mesta
 
-Hot humid **~25–35°C**, rain **~150 cm+**, deltaic **alluvium**, **retting** in water. **West Bengal** core (+ Assam, Bihar, Odisha). Mills on **Hugli**. **UP–Jute wrong.** Mesta = drier substitute fibre.
+- Hot humid **~25–35°C**, rain **~150 cm+**, deltaic **alluvium**.
+- Needs **retting** in still water.
+- Core: **West Bengal** (+ Assam, Bihar, Odisha).
+- Mills on the **Hugli**.
+- **UP–Jute is wrong.**
+- **Mesta** = drier-area substitute fibre.
+- India is the world’s top jute producer.
 
 ### Sugarcane
 
-Long-duration **~10–18 months**. **~21–27°C**, water **75–150 cm or irrigation**, deep fertile alluvial/black. **UP** often leads **area/production**; **Maharashtra** often higher **yield** + cooperative factories. 2019 A/R: both true; coops **do not explain** UP’s lower productivity → **B**. Price = **FRP** (+ possible SAP). By-products: bagasse, molasses/ethanol. Philippines cane+coconut credit: **Spanish and Americans** (2023 Q64).
+Long-duration crop (**~10–18 months**) — not a single short season.
+
+- **~21–27°C**; water **75–150 cm or irrigation**; deep fertile alluvial/black soils.
+- **UP** often leads **area / production**.
+- **Maharashtra** often leads **yield** + cooperative factories.
+- 2019 A/R: both true; coops **do not explain** UP’s lower productivity → **B**.
+- Price = **FRP** (+ possible state SAP) — not cereal MSP.
+- By-products: bagasse, molasses / ethanol.
+- Philippines cane + coconut credit: **Spanish and Americans** (2023 Q64).
 
 ### Tea · Coffee · Rubber · Spices
 
@@ -211,22 +290,30 @@ Long-duration **~10–18 months**. **~21–27°C**, water **75–150 cm or irrig
 | Chilli | Warm Deccan | — | AP/TG strong — **not Kerala-only** |
 | Turmeric / ginger | Warm | South + NE | Many GIs |
 
-**Tea process:** **CTC** (Crush–Tear–Curl) = bulk everyday tea; **orthodox** = premium leaf. Acidic, well-drained hill soils.
+- Tea process: **CTC** (Crush–Tear–Curl) = bulk everyday tea; **orthodox** = premium leaf.
+- Tea likes acidic, well-drained hill soils.
 
 | Coffee species | Lock |
 |----------------|------|
 | **Arabica** | Higher elevation, milder cup, more pest-sensitive |
 | **Robusta** | Lower elevation, stronger cup, hardier |
 
-World coffee (2018 PYQ, 2016 data): **Brazil > Vietnam > Colombia > Indonesia**. Cocoa majors: Ivory Coast, Ghana, Cameroon — **Latvia NOT** (2021). Coconut/plantation overlap: Philippines cane+coconut = Spanish & Americans (2023).
-
+- World coffee (2018 PYQ, 2016 data): **Brazil > Vietnam > Colombia > Indonesia**.
+- Cocoa majors: Ivory Coast, Ghana, Cameroon — **Latvia NOT** (2021).
+- Philippines cane + coconut = Spanish & Americans (2023).
 ---
 
 ## N.4 Fruits, Potato, GI
 
-Tropical: mango, banana, pineapple. Subtropical: citrus, grapes. Temperate hills: apple (J&K, HP, UK). World citrus = **Mediterranean** (2020 Q72). India orange fame = **Nagpur**.
-**Guava varieties:** Sultana, Gulabi, Kali Champa (2018) — **not grapes**.
-**Potato:** UP **leading producer**. CIP South Asia centre at **Singna, Agra**, **not Aligarh** (2025 Q34 Only 1). Golden Revolution = horticulture **and honey**.
+- Tropical fruits: mango, banana, pineapple.
+- Subtropical: citrus, grapes.
+- Temperate hills: apple (J&K, HP, Uttarakhand).
+- World citrus belt = **Mediterranean** (2020 Q72).
+- India’s orange fame = **Nagpur**.
+- **Guava varieties:** Sultana, Gulabi, Kali Champa (2018) — **not grapes**.
+- **Potato:** UP is the **leading producer**.
+- CIP South Asia Regional Centre is at **Singna, Agra** — **not Aligarh** (2025 Q34 Only 1).
+- Golden Revolution = horticulture **and honey**.
 
 | GI / variety | Place |
 |--------------|-------|
@@ -250,7 +337,7 @@ Three **number** locks — do not mix:
 | System | Count | Use |
 |--------|-------|-----|
 | Planning Commission **ACZ** | **15** (~72–73 sub-zones) | Broad planning |
-| ICAR **NARP** | **~127** | Research/extension |
+| ICAR **NARP** | **~127** | Research / extension |
 | NBSS&LUP **AER** | **~20** | Soils + LGP (Length of Growing Period) |
 
 ### 15 Agro-climatic Zones (Planning Commission)
@@ -273,7 +360,9 @@ Three **number** locks — do not mix:
 | 14 | Western Dry Region | W Rajasthan | Bajra, pulses, livestock |
 | 15 | Islands Region | A&N, Lakshadweep | Coconut, horticulture |
 
-One state can sit in **multiple** zones. Western Dry ≠ West Coast Ghats.
+- One state can sit in **multiple** zones.
+- Western Dry ≠ West Coast Ghats.
+
 **Inline PYQ**
 **(UPPCS 2022, Q142)** Which is correctly matched?
 
@@ -284,7 +373,7 @@ A. Gujarat—Tea B. Uttar Pradesh—Jute C. Kerala—Rubber D. Assam—Wheat
 
 ## N.6 Irrigation & Command Area Development
 
-CAD develops the **command** of an existing project (channels, drainage, warabandi) — it is **not** “build a new dam.”
+CAD develops the **command** of an existing project (channels, drainage, warabandi). It is **not** “build a new dam.”
 
 | Type | Best terrain | Risk / note |
 |------|--------------|-------------|
@@ -293,19 +382,27 @@ CAD develops the **command** of an existing project (channels, drainage, waraban
 | Tube well | Alluvial aquifers; GR NW + W-UP | Groundwater depletion |
 | Dug well | Local / hard-rock | Limited yield |
 | **Tank** | **Peninsular** hard rock | Siltation |
-| Drip | Horti, cane, cotton, veg | High efficiency; capital |
+| Drip | Horti, cane, cotton, veg | High efficiency; capital cost |
 | Sprinkler | Sandy / undulating | Wind drift |
 
-**CADWM pack:** field channels, land levelling, **warabandi** (roster turns), drainage, farmer organisations. Over-irrigation without drainage → saline/alkaline usar.
+**CADWM pack:** field channels, land levelling, **warabandi** (roster turns), drainage, farmer organisations.
+
+- Over-irrigation without drainage → saline / alkaline usar.
 
 ---
 
 ## N.7 Seeds, ICAR, Universities, Pests
 
-**ICAR** (HQ **New Delhi**) = apex research + agri education. **IARI Pusa** = flagship. **CACP** prices — never swap with ICAR.
-Seed purity downhill: **Breeder → Foundation → Certified**.
-**KVK** = district farm-science centre. GR-era SAUs: **Pantnagar, PAU Ludhiana, HAU Hisar**; UP: CSAUAT Kanpur / SVPUAT Meerut.
-**IPM** = cultural + biological + chemical, not calendar spray only. Bt cotton = bollworm. Azolla = biofertiliser, not insecticide. 2025 Delhi **bio-decomposer**: free to farmers; fungal mix to turn stubble to manure (2025 Q10 **both**).
+- **ICAR** (HQ **New Delhi**) = apex research + agri education.
+- **IARI Pusa** = flagship institute.
+- **CACP** sets price advice — never swap with ICAR.
+- Seed purity downhill: **Breeder → Foundation → Certified**.
+- **KVK** = district farm-science centre.
+- GR-era SAUs: **Pantnagar, PAU Ludhiana, HAU Hisar**; UP: CSAUAT Kanpur / SVPUAT Meerut.
+- **IPM** = cultural + biological + chemical — not calendar spray alone.
+- Bt cotton targets bollworm.
+- Azolla = biofertiliser, not insecticide.
+- 2025 Delhi **bio-decomposer**: free to farmers; fungal mix turns stubble to manure (2025 Q10 **both**).
 
 | Disease / problem | Cause (2022 Q21) |
 |-------------------|------------------|
@@ -318,10 +415,12 @@ Seed purity downhill: **Breeder → Foundation → Certified**.
 
 ## N.8 Animal Husbandry
 
-India = world’s largest **milk** producer by volume. Buffalo important in north (higher fat).
-**White Revolution:** **Verghese Kurien**, **Operation Flood**, **NDDB**, **Amul/Anand** cooperatives.
-Textbook phases (raata names, not every digit): **I 1970–81** (milk grids / cooperatives) → **II 1981–85** (expand dairies) → **III 1985–96** (consolidate).
-**Silver Revolution** = eggs/poultry.
+- India = world’s largest **milk** producer by volume.
+- Buffalo are important in the north (higher fat).
+- **White Revolution:** **Verghese Kurien**, **Operation Flood**, **NDDB**, **Amul / Anand** cooperatives.
+- Textbook phases: **I 1970–81** (milk grids / coops) → **II 1981–85** (expand dairies) → **III 1985–96** (consolidate).
+- **Silver Revolution** = eggs / poultry.
+- **Blue Revolution** = fisheries / aquaculture (**Hiralal Chaudhuri** often tagged).
 
 | Breed | Animal | Tag |
 |-------|--------|-----|
@@ -336,22 +435,29 @@ Textbook phases (raata names, not every digit): **I 1970–81** (milk grids / co
 
 | System | Core | Where / tool |
 |--------|------|--------------|
-| **Jhum** (shifting) | Slash-burn, 1–3 yr crop, then fallow | **North-East** (jhum); **podu** (AP/Odisha), **bewar** (MP), **dahiya** (CG) |
-| **Organic** | No synthetic agrochemicals (standards) | Compost, rotation, Azolla, Rhizobium |
-| **Precision** | Site-specific inputs | GIS/GPS/sensors/drones — not “stop irrigation” |
+| **Jhum** (shifting) | Slash-burn, 1–3 yr crop, then fallow | **NE** (jhum); **podu** (AP/Odisha); **bewar** (MP); **dahiya** (CG); **kumri** (W Ghats) |
+| **Organic** | No synthetic agrochemicals (standards) | Compost, rotation, Azolla, Rhizobium; **Sikkim** = first fully organic state |
+| **Precision** | Site-specific inputs | GIS / GPS / sensors / drones — not “stop irrigation” |
 
-Short fallows → erosion + forest damage. Organic ≠ “any traditional practice” automatically.
+- Short fallows → erosion + forest damage.
+- Organic ≠ “any traditional practice” automatically.
 
 ---
 
 ## N.10 MSP & Agricultural Marketing
 
-**CACP recommends → Union Cabinet decides** (2024 Q43 = CACP, not RBI/NITI/Finance). MSP for **22 mandated crops** (+ toria/de-husked coconut derived). Procurement makes MSP real — deepest for **wheat and paddy**. Pulses/oilseeds weaker in practice. **PM-AASHA** for PSS of pulses/oilseeds (NAFED etc.).
-Cane = **FRP** (Fair and Remunerative Price), not the cereal MSP label.
-**APMC** = regulated mandi. **e-NAM** = electronic national mandi network.
-**PM-KISAN** = direct income support. **PMFBY** = crop insurance.
-AIDC (Budget 2021–22 framing) on **29** products (2021 Q103).
-2018 paddy MSP figure **₹1,750/q** is year-specific — lock institution, not old rupees. Fertiliser/power/irrigation support = **indirect** subsidy (2022 Q74 stmt 1 solid).
+- **CACP recommends → Union Cabinet decides** (2024 Q43 = CACP, not RBI / NITI / Finance).
+- MSP covers **22 mandated crops** (+ toria / de-husked coconut derived).
+- Procurement makes MSP real — deepest for **wheat and paddy**.
+- Pulses / oilseeds have weaker effective procurement.
+- **PM-AASHA** supports PSS of pulses / oilseeds (NAFED etc.).
+- Cane = **FRP** (Fair and Remunerative Price), not the cereal MSP label.
+- **APMC** = regulated mandi; **e-NAM** = electronic national mandi network.
+- **PM-KISAN** = direct income support; **PMFBY** = crop insurance.
+- AIDC (Budget 2021–22 framing) on **29** products (2021 Q103).
+- 2018 paddy MSP figure **₹1,750/q** is year-specific — lock the institution, not old rupees.
+- Fertiliser / power / irrigation support = **indirect** subsidy (2022 Q74 stmt 1 solid).
+
 **Inline PYQ**
 **(UPPCS 2024, Q43)** Who recommends the Minimum Support Price (MSP) for agricultural crops?
 
@@ -369,8 +475,14 @@ D. Ministry of Finance
 
 ## N.11 Green Revolution & Colour Revolutions
 
-**Green:** mid-1960s **HYV + irrigation + fertiliser** (+ pesticide, credit, machines). Heartland **Punjab, Haryana, western UP**. Gains: yield, surplus. Costs: regional inequality, GW decline, nutrient mining, millet/pulse neglect.
-**Evergreen Revolution** (Swaminathan) = high productivity **without** ecological harm.
+**Green Revolution** (mid-1960s): **HYV + irrigation + fertiliser** (+ pesticide, credit, machines).
+
+- Heartland: **Punjab, Haryana, western UP**.
+- Started as a **wheat** revolution, then expanded to rice.
+- Classic HYVs: Mexican wheat **Lerma Rojo / Sonora 64**; rice **IR-8** (IRRI).
+- Gains: yield surge, surplus, exit from PL-480 dependence.
+- Costs: regional inequality, groundwater decline, nutrient mining, millet / pulse neglect.
+- **Evergreen Revolution** (Swaminathan) = high productivity **without** ecological harm.
 
 | Person | Lock |
 |--------|------|
@@ -380,9 +492,11 @@ D. Ministry of Finance
 | L.K. Jha | Economic Administration Reforms |
 | Morarji Desai | Bank social control |
 | Amartya Sen | Food **entitlements** (2025 Q147) — not Swaminathan |
+| Hiralal Chaudhuri | Blue Revolution (fisheries) tag |
+
 | Revolution | Sector |
 |------------|--------|
-| Green | Food grains |
+| Green | Food grains (wheat → rice) |
 | White | Milk (Kurien / Flood / NDDB) |
 | Blue | Fisheries / aquaculture |
 | Yellow | Oilseeds |
@@ -391,11 +505,11 @@ D. Ministry of Finance
 | Pink | Onion / meat / prawn (context) |
 | Grey | Fertilisers |
 | Black | Petroleum (2022 set) |
+| Brown | Sometimes leather / cocoa / biofuel talk — weaker lock |
 | Rainbow | Integrated multi-sector |
 | Evergreen | Sustainable productivity |
 
 **2022 Q136 lock:** Golden → horticulture & honey; Grey → fertilisers; Yellow → oilseed; Black → petroleum.
-
 ---
 
 ## UP Focus (compact)
@@ -415,12 +529,12 @@ D. Ministry of Finance
 ## Consolidated — 20 Must-Score Locks
 
 1. Intensity = **GCA/NSA × 100**. Wheat = rabi; cotton/rice = kharif.
-2. Rice: hot-wet, clayey, Azolla; Golden rice = Vit A; Aus/Aman/Boro in east.
-3. Wheat: cool grow / bright ripen; UP/PB/HR; Assam–Wheat wrong.
-4. Jowar=MH; Bajra=RJ; Ragi=KA. Pulses fix N (2019).
+2. Rice: hot-wet, clayey, Azolla; Aus/Aman/Boro in AS–WB–OD; Golden rice = Vit A.
+3. Wheat: cool grow / bright ripen; two belts (Ganga–Satluj + Deccan black); Assam–Wheat wrong.
+4. Jowar=MH; Bajra=RJ; Ragi=KA. IYM 2023 = Shree Anna. Pulses fix N (2019).
 5. GN=GJ; Mustard=RJ; Soy=MP. Yellow = oilseeds.
-6. Cotton: black soil, 210 frost-free, kharif. Mumbai ≠ Ahmedabad as mill capital.
-7. Jute: WB, retting, 150 cm+; UP–Jute wrong.
+6. Cotton = white gold; black soil; 210 frost-free; Mumbai ≠ Ahmedabad as mill capital.
+7. Jute = golden fibre; WB + retting; UP–Jute wrong.
 8. Cane: UP quantity / MH productivity; FRP; 2019 R does not explain A.
 9. Tea = plantation. Coffee KA. Rubber **Kerala**. Pepper+cardamom **Kerala**.
 10. Potato UP; CIP **Agra**. Guava: Sultana/Gulabi/Kali Champa.
@@ -429,47 +543,54 @@ D. Ministry of Finance
 13. ICAR Delhi; IARI Pusa; seed **Breeder→Foundation→Certified**.
 14. Red rot = fungus; citrus canker = bacteria (2022).
 15. CACP recommends MSP; Cabinet decides (2024). 22 crops.
-16. GR = HYV+water+fert; PB–HR–W UP; Borlaug Nobel = **Peace**.
-17. Kurien = White/Flood/NDDB. Swaminathan ≠ milk.
+16. GR = HYV+water+fert (Lerma Rojo / Sonora 64 / IR-8); PB–HR–W UP; Borlaug = **Peace**.
+17. Kurien = White/Flood/NDDB. Swaminathan ≠ milk. Sikkim = first organic state.
 18. Golden=horti+honey; Grey=fertiliser; Yellow=oilseed; Black=petroleum.
-19. Jhum = NE. Organic = no synthetic. Precision = site-specific.
+19. Jhum = NE (+podu/bewar/dahiya/kumri). Precision = site-specific.
 20. Sen = entitlements (2025). Bio-decomposer = free fungal stubble spray (2025).
 
 ---
 
-## Practice Zone — 60 Questions (2025 Pattern Mix)
+## Practice Zone — UPPCS Format Questions
 
-**Q1.** Cropping intensity is:
+> **Answers hidden** — click *Show answer* under each question to reveal.  
+> **Format mix:** 65 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (UPPCS Prelims style)
 
-A. NSA/GCA × 100
+**Q1.** Cropping intensity is correctly expressed as:
 
-B. GCA/NSA × 100
+A. NSA / GCA × 100
+
+B. GCA / NSA × 100
 
 C. GCA − NSA only
 
 D. Forest area / NSA
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B** — Intensity = (Gross Cropped Area ÷ Net Sown Area) × 100. **A** inverts the ratio.
 </details>
 
-**Q2.** Statements:
+**Q2.** With reference to cropping seasons in India, which of the following statements is/are correct?
 
-1. Wheat is mainly rabi in India.
-2. Cotton is mainly rabi in India.
+1. Wheat is mainly a rabi crop in India.
+2. Cotton is mainly a rabi crop in India.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 1 only
 
-C. Both
+B. 2 only
 
-D. Neither
+C. Both 1 and 2
 
-<details><summary>Show answer</summary>
+D. Neither 1 nor 2
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Cotton is **kharif**. **B/C** buy the season swap.
 </details>
 
 **Q3.** Which farming type best fits Assam tea estates?
@@ -478,76 +599,87 @@ A. Primitive jhum only
 
 B. Plantation agriculture
 
-C. Mediterranean grain only
+C. Mediterranean grain farming only
 
 D. Tundra herding
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B** — UPPCS 2024 Q34 tea lock: plantation perennial. **A** confuses with NE jhum.
 </details>
 
-**Q4.** A: Tea is grown under plantation agriculture. R: Tea is a short zaid melon crop of sandy deserts.
+**Q4.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
 
-A. Both R explains
+**Assertion (A):** Tea is grown under plantation agriculture in India.
 
-B. Both R not
+**Reason (R):** Tea is a short zaid melon crop of sandy deserts.
 
-C. A true R false
+Select the correct answer from the code given below:
 
-D. A false R true
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-<details><summary>Show answer</summary>
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 
-**Ans: C**
+C. (A) is true, but (R) is false
+
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — A true (plantation). R false (zaid melons ≠ tea).
 </details>
 
-**Q5.** Correct match:
+**Q5.** Which one of the following is correctly matched?
 
-A. Gujarat—Tea
+A. Gujarat — Tea
 
-B. UP—Jute
+B. Uttar Pradesh — Jute
 
-C. Kerala—Rubber
+C. Kerala — Rubber
 
-D. Assam—Wheat
+D. Assam — Wheat
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C** — UPPCS 2022 Q142. **A/B/D** are the classic wrong pairs.
 </details>
 
-**Q6.** Who recommends MSP?
+**Q6.** Who recommends the Minimum Support Price (MSP) for agricultural crops?
 
-A. RBI
+A. Reserve Bank of India
 
 B. NITI Aayog
 
-C. CACP
+C. Commission for Agricultural Costs and Prices (CACP)
 
-D. Finance Ministry
+D. Ministry of Finance
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C** — UPPCS 2024 Q43. Cabinet decides; CACP recommends.
 </details>
 
-**Q7.** Sugarcane price framework is best labelled as:
+**Q7.** The price framework for sugarcane is best labelled as:
 
 A. Only e-NAM fee
 
-B. FRP (with possible SAP)
+B. FRP (with possible state SAP)
 
 C. Only WTO bound tariff
 
 D. Only jute cess
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B** — Cane ≠ cereal MSP. FRP + optional SAP.
 </details>
 
-**Q8.** Norman Borlaug Nobel field:
+**Q8.** Norman Borlaug was awarded the Nobel Prize in which field?
 
 A. Agriculture
 
@@ -557,798 +689,983 @@ C. Medicine
 
 D. Peace
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: D**
+**Ans: D** — UPPCS 2018 Q56. Agriculture is the classic distractor.
 </details>
 
-**Q9.** Match revolutions: Golden; Grey; Yellow; Black → horticulture & honey; fertilisers; oilseed; petroleum
+**Q9.** Match List-I with List-II and select the correct answer from the code given below:
 
-A. Correct as listed order
+| List-I (Revolution) | List-II (Sector) |
+|---|---|
+| A. Golden | 1. Fertilisers |
+| B. Grey | 2. Horticulture and honey |
+| C. Yellow | 3. Petroleum |
+| D. Black | 4. Oilseeds |
 
-B. Golden=oilseed
+A. A-2, B-1, C-4, D-3
 
-C. Grey=honey
+B. A-4, B-1, C-2, D-3
 
-D. Black=milk
+C. A-2, B-3, C-4, D-1
 
-<details><summary>Show answer</summary>
+D. A-1, B-2, C-4, D-3
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — UPPCS 2022 Q136 order. **B** swaps Golden/Yellow.
 </details>
 
-**Q10.** N-fixing bacteria with root cells of:
+**Q10.** Nitrogen-fixing bacteria form a symbiotic association mainly with the roots of:
 
-A. Pulses
+A. Rice
 
-B. Rice
+B. Wheat
 
-C. Wheat
+C. Pulses
 
 D. Sugarcane
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: C** — UPPCS 2019 Q46. Rhizobium–legume nodules.
 </details>
 
-**Q11.** Biofertiliser in water-logged rice:
+**Q11.** Which aquatic plant is used as a biofertiliser in water-logged rice fields?
 
-A. Lemna
+A. Water hyacinth only as insecticide
 
 B. Azolla
 
-C. Wolffia
+C. Hydrilla as pesticide dust
 
-D. Trapa
+D. Salvinia as urea substitute only in deserts
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B** — UPPCS 2023 Q104. Azolla–Anabaena N-fix.
 </details>
 
-**Q12.** Cardamom and pepper largest producer:
+**Q12.** The largest producer of cardamom and pepper in India is:
 
-A. Tamil Nadu
+A. Karnataka
 
-B. Goa
+B. Tamil Nadu
 
 C. Kerala
 
-D. Maharashtra
+D. Andhra Pradesh
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C** — UPPCS 2018 Q107. Chilli is the AP/TG trap, not pepper/cardamom.
 </details>
 
-**Q13.** Statements on sugarcane:
+**Q13.** With reference to sugarcane, which of the following statements is/are correct?
 
-1. UP often leads production/area.
-2. MH often has higher productivity.
+1. Production of sugarcane in Uttar Pradesh is generally higher than in Maharashtra.
+2. Productivity of sugarcane in Maharashtra is generally higher than in Uttar Pradesh.
 
-A. Only 1
+Select the correct answer from the code given below:
 
-B. Only 2
+A. 1 only
 
-C. Both
+B. 2 only
 
-D. Neither
+C. Both 1 and 2
 
-<details><summary>Show answer</summary>
+D. Neither 1 nor 2
 
-**Ans: C**
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — UP quantity / MH productivity (2019 A/R base). Coops do **not** explain UP’s lower yield.
 </details>
 
-**Q14.** A: Ahmedabad is India’s largest cotton textile centre. R: It lies in a major cotton-growing region.
+**Q14.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
 
-A. Both R explains
+**Assertion (A):** Ahmedabad is the largest centre of cotton textile industry in India.
 
-B. Both R not
+**Reason (R):** Ahmedabad is located in a major cotton-growing region.
 
-C. A true R false
+Select the correct answer from the code given below:
 
-D. A false R true
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-<details><summary>Show answer</summary>
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 
-**Ans: D**
+C. (A) is true, but (R) is false
+
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — UPPCS 2020 Q58. Traditionally largest centre = **Mumbai**; R true.
 </details>
 
-**Q15.** Coffee producers descending (2016 framing): Brazil, Vietnam, Colombia, Indonesia
+**Q15.** Arrange the following coffee-producing countries in descending order of production (2016 framing):
 
-A. Wrong order
+1. Colombia
+2. Vietnam
+3. Brazil
+4. Indonesia
 
-B. Correct order
+A. 3, 2, 1, 4
 
-C. Indonesia first
+B. 2, 3, 1, 4
 
-D. Colombia first
+C. 3, 1, 2, 4
 
-<details><summary>Show answer</summary>
+D. 3, 2, 4, 1
 
-**Ans: B**
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Brazil > Vietnam > Colombia > Indonesia (2018 PYQ framing).
 </details>
 
-**Q16.** Sultana, Gulabi, Kali Champa are varieties of:
+**Q16.** Sultana, Gulabi and Kali Champa are varieties of:
 
-A. Custard apple
+A. Grapes
 
-B. Orange
+B. Guava
 
-C. Guava
+C. Mango
 
-D. Grapes
+D. Banana
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: C**
+**Ans: B** — UPPCS 2018. Sultana-as-grape is the name trap.
 </details>
 
-**Q17.** Citrus well developed in:
+**Q17.** Production of citrus fruits is well developed in which of the following regions of the world?
 
-A. Tundra
+A. Equatorial rainforest interiors only
 
-B. Equatorial ice caps
+B. Mediterranean regions
 
-C. Mediterranean regions
+C. Tundra belts
 
-D. Permanent frost belts
+D. Hot deserts without irrigation
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: C**
+**Ans: B** — UPPCS 2020 Q72. Nagpur is India’s orange fame lock.
 </details>
 
-**Q18.** UP potato / CIP centre:
+**Q18.** With reference to Uttar Pradesh, which of the following statements is/are correct?
 
-1. UP leading potato producer.
-2. CIP-SARC approved at Aligarh.
+1. UP is among India’s leading potato producers.
+2. CIP’s South Asia Regional Centre is located at Aligarh.
 
-A. Only 2
+Select the correct answer from the code given below:
 
-B. Neither
+A. 1 only
 
-C. Both
+B. 2 only
 
-D. Only 1
+C. Both 1 and 2
 
-<details><summary>Show answer</summary>
+D. Neither 1 nor 2
 
-**Ans: D** — Agra (Singna).
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — UPPCS 2025 Q34. CIP-SARC is at **Singna, Agra**, not Aligarh.
 </details>
 
-**Q19.** Planning Commission agro-climatic zones number:
+**Q19.** The Planning Commission divided India into how many agro-climatic zones?
 
-A. 5
+A. 10
 
 B. 15
 
-C. 127 only
+C. 20
 
-D. 200
+D. 127
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B** — ACZ = 15. NARP ~127; AER ~20.
 </details>
 
-**Q20.** Western Dry Region ACZ is mainly:
+**Q20.** The Western Dry Region agro-climatic zone is mainly associated with:
 
 A. Kerala coast
 
-B. West Rajasthan
+B. Western Rajasthan
 
-C. Sundarbans only
+C. Sundarbans delta
 
-D. Nicobar only
+D. Nilgiri hills
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B** — ACZ 14: bajra, pulses, livestock. Not West Coast Ghats.
 </details>
 
 **Q21.** Tank irrigation is characteristic of:
 
-A. Only Punjab doabs
+A. Indo-Gangetic alluvial plains only
 
 B. Peninsular hard-rock regions
 
-C. Only Ladakh glaciers
+C. High Himalayan glaciers only
 
-D. Only mangroves
+D. Thar sand dunes only
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B** — Peninsula tank country. Canals dominate northern plains.
 </details>
 
 **Q22.** Drip irrigation delivers water primarily to:
 
-A. Atmosphere only
+A. Flood the whole field uniformly always
 
-B. Root zone
+B. The root zone with high water-use efficiency
 
-C. Sea only
+C. Only canal headworks
 
-D. Clouds
+D. Only rainfed millets without pipes
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B** — Best for horti / cane / cotton / vegetables.
 </details>
 
-**Q23.** Seed chain correct order:
+**Q23.** The correct order in the formal seed chain is:
 
-A. Certified→Breeder→Foundation
+A. Certified → Foundation → Breeder
 
-B. Breeder→Foundation→Certified
+B. Breeder → Foundation → Certified
 
-C. Foundation→Certified→Breeder
+C. Foundation → Certified → Breeder
 
-D. Only certified exists
+D. Breeder → Certified → Foundation
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B** — Purity decreases downhill: Breeder → Foundation → Certified.
 </details>
 
-**Q24.** Red rot of sugarcane agent type:
+**Q24.** Red rot of sugarcane is caused by:
 
 A. Bacteria
 
 B. Fungus
 
-C. Insect only
+C. Virus only
 
-D. O₂ deficiency
+D. Insect only
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B** — UPPCS 2022 Q21 match lock.
 </details>
 
-**Q25.** Citrus canker agent type:
+**Q25.** Citrus canker is caused by:
 
 A. Fungus
 
 B. Bacteria
 
-C. Insect only
+C. Nematode only
 
-D. Nematode named rust
+D. Zinc deficiency only
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B** — Same 2022 disease match set.
 </details>
 
-**Q26.** Verghese Kurien associated with:
+**Q26.** Verghese Kurien is associated with:
 
-A. HYV wheat alone
+A. Green Revolution wheat HYVs
 
-B. Milk / Operation Flood
+B. White Revolution / Operation Flood
 
-C. Jute mills
+C. Blue Revolution marine fishing only in Latvia
 
-D. Tea auctions
+D. Grey Revolution petroleum refining
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B** — NDDB / Amul / Anand. Swaminathan is GR.
 </details>
 
-**Q27.** Jhum cultivation best associated with:
+**Q27.** Jhum cultivation is best associated with:
 
-A. Punjab canals
+A. Punjab canal colonies
 
-B. North-East India
+B. North-Eastern hills
 
-C. Kerala rubber only as definition
+C. Kerala rubber estates only
 
-D. Rajasthan IGNP only
+D. Rajasthan canal command only
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B** — Also podu / bewar / dahiya / kumri elsewhere — NE is the exam default.
 </details>
 
-**Q28.** Bajra–Ragi–Jowar locks:
+**Q28.** Which of the following pairs is correctly matched?
 
-A. KL; RJ; Assam
+A. Bajra — Karnataka
 
-B. RJ; KA; MH
+B. Ragi — Rajasthan
 
-C. PB; KL; GJ
+C. Jowar — Maharashtra
 
-D. All only in Kerala
+D. All of the above
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B**
+**Ans: C** — Bajra=RJ; Ragi=KA; Jowar=MH.
 </details>
 
-**Q29.** Groundnut–Mustard–Soybean locks:
+**Q29.** Which of the following pairs is correctly matched?
 
-A. MP; KA; KL
+A. Groundnut — Madhya Pradesh as the classic core
 
-B. GJ; RJ; MP
+B. Mustard — Rajasthan (rabi)
 
-C. Assam; PB; Goa
+C. Soybean — Gujarat as the only belt
 
-D. HP; SK; MN
+D. Mustard — kharif in Assam only
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B** — GN=GJ; Mustard=RJ rabi; Soy=MP kharif.
 </details>
 
-**Q30.** Cotton needs roughly how many frost-free days (textbook lock)?
+**Q30.** Cotton cultivation needs roughly how many frost-free days (textbook lock)?
 
-A. 50
+A. 90
 
-B. 90
+B. 120
 
 C. 210
 
-D. 365 always
+D. 365 without exception
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C** — ~210 frost-free days + black soil + bright sun at boll opening.
 </details>
 
 **Q31.** Jute retting requires:
 
-A. Desert dunes only
+A. Dry desert wind only
 
-B. Water steeping of stems
+B. Standing / still water
 
-C. Snow fields
+C. Freezing Himalayan streams only
 
-D. Only drip emitters
+D. No moisture at all
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B** — Golden fibre needs hot-humid delta + retting water.
 </details>
 
-**Q32.** Aus / Aman / Boro refer to:
+**Q32.** Aus, Aman and Boro refer to:
 
-A. Wheat grades
+A. Three wheat grades of Punjab
 
-B. Eastern rice seasons
+B. Three paddy crops of Assam / West Bengal / Odisha
 
-C. Cotton staples
+C. Three cotton staples only
 
-D. Coffee species
+D. Three coffee species of Karnataka
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B** — Boro = irrigated winter–spring paddy.
 </details>
 
-**Q33.** Arabica vs Robusta:
+**Q33.** With reference to coffee, which statement is correct?
 
-A. Both temperate apples
+A. Arabica prefers lower elevation than Robusta always
 
-B. Coffee species/elevation niches
+B. Arabica is generally higher-elevation and more pest-sensitive than Robusta
 
-C. Jute grades
+C. India grows only Robusta
 
-D. Canal types
+D. Coffee needs stagnant water like flooded rice
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B** — Shade + well-drained slopes; KA > KL > TN.
 </details>
 
 **Q34.** Mixed cropping means:
 
-A. Sequence only across years
+A. Growing two or more crops together on the same land at the same time
 
-B. Two+ crops together same time
+B. Growing only one crop forever on all fields
 
-C. Only fallow
+C. Leaving land fallow for twenty years
 
-D. Only plantation monoculture
+D. Planting trees after abandoning villages only
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B**
+**Ans: A** — Intercropping = row ratios; rotation = sequence.
 </details>
 
 **Q35.** Evergreen Revolution emphasises:
 
-A. Ending all farming
+A. High productivity without ecological harm
 
-B. Sustainable productivity without ecological harm
+B. Only petroleum extraction
 
-C. Only petroleum
+C. Ending all irrigation forever
 
-D. Only jhum expansion
+D. Replacing foodgrains with only jute
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B**
+**Ans: A** — Swaminathan’s sustainable productivity idea.
 </details>
 
 **Q36.** ICAR is:
 
-A. MSP recommending body
+A. The body that decides MSP in Cabinet meetings
 
-B. Apex agri research/education body
+B. India’s apex agricultural research and education organisation (HQ New Delhi)
 
-C. Tea board auction only
+C. Only a private seed company of Mumbai
 
-D. WTO farm committee of India
+D. The UN food agency headquartered in Rome
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B** — IARI Pusa is the flagship. CACP ≠ ICAR.
 </details>
 
-**Q37.** Warabandi is:
+**Q37.** Warabandi refers to:
 
-A. Crop insurance brand
+A. A type of HYV wheat
 
-B. Canal water roster turns
+B. Roster turns for canal irrigation water
 
-C. Coffee curing
+C. A jute retting chemical
 
-D. Rubber tapping knife
+D. A coffee curing machine
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B** — Part of CADWM pack with field channels and drainage.
 </details>
 
-**Q38.** CAD primarily aims to:
+**Q38.** Command Area Development (CAD) primarily aims to:
 
-A. Ban irrigation
+A. Build a brand-new dam in every district
 
-B. Improve utilisation of created irrigation potential
+B. Develop the command of an existing project through channels, drainage and warabandi
 
-C. Replace ICAR
+C. Replace all crops with only tea
 
-D. Set weekly MSP
+D. Stop all irrigation permanently
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B** — CAD ≠ new dam construction.
 </details>
 
-**Q39.** NOT major cocoa producer:
+**Q39.** Which of the following is NOT a major cocoa producer country?
 
-A. Latvia
+A. Ivory Coast
 
-B. Cameroon
+B. Ghana
 
-C. Ghana
+C. Cameroon
 
-D. Ivory Coast
+D. Latvia
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: D** — UPPCS 2021 distractor. West Africa dominates cocoa.
 </details>
 
-**Q40.** Golden rice associated with:
+**Q40.** Golden rice is associated with:
 
-A. Vitamin C only
+A. Vitamin A enrichment
 
-B. Vitamin A
+B. Nitrogen gas storage only
 
-C. Iodine only
+C. Ozone layer repair
 
-D. Cobalt only
+D. Petroleum blending
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B**
+**Ans: A** — 2018 pair lock; ozone–troposphere was the wrong pair in that set.
 </details>
 
-**Q41.** Entitlements approach in food security:
+**Q41.** Who introduced the concept of entitlements in food security?
 
-A. Only Borlaug
+A. M.S. Swaminathan
 
 B. Amartya Sen
 
-C. Only Kurien
+C. Verghese Kurien
 
-D. Only PAU registrar
+D. Norman Borlaug
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B** — UPPCS 2025 Q147. Swaminathan = GR / Evergreen.
 </details>
 
-**Q42.** Blue Revolution:
+**Q42.** Blue Revolution is associated with:
 
-A. Fertiliser
+A. Milk cooperatives
 
-B. Petroleum
+B. Fisheries / aquaculture
 
-C. Fisheries
+C. Oilseeds only
 
-D. Cotton lint
+D. Fertiliser factories only
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: C**
+**Ans: B** — Often tagged with Hiralal Chaudhuri. White = milk.
 </details>
 
-**Q43.** Silver Revolution:
+**Q43.** Silver Revolution is associated with:
 
-A. Eggs/poultry
+A. Eggs / poultry
 
-B. Wheat
+B. Cotton textiles only
 
-C. Rubber
+C. Petroleum refining
 
-D. Jute
+D. Rubber latex only
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A** — Silver = egg; Grey = fertiliser.
 </details>
 
-**Q44.** Yellow Revolution:
+**Q44.** Yellow Revolution is associated with:
 
-A. Milk
+A. Horticulture and honey
 
 B. Oilseeds
 
-C. Fish
+C. Milk
 
 D. Eggs
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B** — Golden = horti + honey. Do not swap.
 </details>
 
 **Q45.** NARP agro-climatic research zones are about:
 
-A. 15 only
-
-B. ~127
-
-C. 3
-
-D. 1000 exactly always
-
-<details><summary>Show answer</summary>
-
-**Ans: B**
-</details>
-
-**Q46.** NBSS&LUP agro-ecological regions about:
-
 A. 15
 
-B. ~20
+B. 20
 
 C. 127
 
 D. 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B**
+**Ans: C** — Planning ACZ=15; AER≈20; NARP≈127.
 </details>
 
-**Q47.** Murrah is a famous:
+**Q46.** NBSS&LUP agro-ecological regions are about:
 
-A. Tea clone
+A. 15
 
-B. Buffalo breed
+B. 20
 
-C. Cotton staple
+C. 127
 
-D. Canal type
+D. 210
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B** — Soils + Length of Growing Period framing.
 </details>
 
-**Q48.** Operation Flood linked to:
+**Q47.** Murrah is a famous breed of:
 
-A. NDDB dairy cooperatives
+A. Sheep
 
-B. Only jute retting
+B. Buffalo
 
-C. Only coffee blossom
+C. Camel
 
-D. Only tank silt
+D. Yak only
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: B** — Haryana high-yield buffalo. Jamunapari = goat (UP).
 </details>
 
-**Q49.** Philippines coconut & sugarcane credit:
+**Q48.** Operation Flood is linked to:
 
-A. French
+A. Flood-control embankments of Bihar only
 
-B. Britishers
+B. White Revolution dairy cooperatives / NDDB
 
-C. Hollanders
+C. Blue Revolution deep-sea trawling only
 
-D. Spanish and Americans
+D. Grey Revolution coal mining
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: D**
+**Ans: B** — Kurien / Amul / Anand.
 </details>
 
-**Q50.** Bio-decomposer programme statements (Delhi):
+**Q49.** Credit for coconut and sugarcane agriculture in the Philippines is given to:
 
-1. Free to convert stubble to manure.
-2. Prepared using mix of fungi.
+A. Dutch and Portuguese only
 
-A. Only 2
+B. Spanish and Americans
 
-B. Neither
+C. Chinese and Japanese only
 
-C. Both
+D. British and Germans only
 
-D. Only 1
+<details>
+<summary>Show answer</summary>
 
-<details><summary>Show answer</summary>
+**Ans: B** — UPPCS 2023 Q64.
+</details>
 
-**Ans: C**
+**Q50.** With reference to Delhi Government’s Bio-decomposer Spray Programme, which of the following statements is/are correct?
+
+1. The bio-decomposer is provided free of cost to farmers.
+2. It is a fungal formulation that turns stubble into manure.
+
+Select the correct answer from the code given below:
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — UPPCS 2025 Q10 both.
 </details>
 
 **Q51.** Intensive subsistence farming in India is typical of:
 
-A. Only empty deserts
+A. Large mechanised Canadian prairies only
 
-B. Small monsoon farms with high labour on food grains
+B. Densely populated rice–wheat small-farm regions
 
-C. Only Canadian prairies
+C. Only Amazon slash-and-burn
 
-D. Only Amazon jhum identical always
+D. Only Arctic reindeer herding
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B** — High labour, small holdings, rice/wheat cores.
 </details>
 
-**Q52.** Which crop condition set is correct for rubber?
+**Q52.** Which crop-condition set is correct for rubber?
 
-A. Cold dry 40 cm rain
+A. Cool dry desert; <50 cm rain
 
-B. Hot humid >200 cm rain class
+B. 25–35°C; >200 cm rain; humid equatorial
 
-C. Only rabi loam like wheat
+C. Frost-prone Himalayan peaks only
 
-D. Frosty Himalaya apple belt
+D. Mediterranean winter-rain citrus belt only
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B** — Kerala lock (2022 Q142 correct pair).
 </details>
 
-**Q53.** Trans-Gangetic Plains ACZ core crops:
+**Q53.** Trans-Gangetic Plains ACZ is best known for:
 
-A. Only rubber
+A. Only jhum spices
 
-B. Intensive wheat–rice
+B. Intensive wheat–rice (Green Revolution heartland)
 
-C. Only jhum millets
+C. Only island coconut
 
-D. Only saffron
+D. Only Rann salt farming
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B** — PB–HR–Delhi fringe; ACZ 6.
 </details>
 
 **Q54.** e-NAM relates to:
 
-A. Electronic agri market networking
+A. Electronic national agricultural market network
 
-B. Nobel prizes
+B. Only fertiliser subsidy DBT for petroleum
 
-C. Only jhum registration
+C. Only tea auction of London
 
-D. Cocoa in Latvia
+D. Only MSP Cabinet meetings
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A** — Online mandi network over APMC platforms.
 </details>
 
-**Q55.** AIDC 2021–22 PYQ product count:
+**Q55.** Agriculture Infrastructure and Development Cess (Budget 2021–22 framing) was levied on how many products?
 
-A. 12
+A. 10
 
-B. 20
+B. 15
 
-C. 25
+C. 22
 
 D. 29
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: D**
+**Ans: D** — UPPCS 2021 Q103.
 </details>
 
 **Q56.** Precision farming emphasises:
 
-A. Same dose everywhere always
+A. Stopping all irrigation forever
 
-B. Site-specific input management
+B. Site-specific input use with GIS / GPS / sensors
 
-C. Ending all irrigation
+C. Only calendar spraying of every field equally
 
-D. Only shifting cultivation
+D. Only jhum fallows of 50 years
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B** — Not the same as organic-by-default.
 </details>
 
-**Q57.** Organic farming:
+**Q57.** With reference to organic farming, which statement is correct?
 
-A. Requires synthetic urea always
+1. It avoids synthetic agrochemicals as per standards.
+2. Sikkim is recognised as India’s first fully organic state.
 
-B. Avoids synthetic agrochemicals per standards
+Select the correct answer from the code given below:
 
-C. Means only jhum
+A. 1 only
 
-D. Means only plantation CTC
+B. 2 only
 
-<details><summary>Show answer</summary>
+C. Both 1 and 2
 
-**Ans: B**
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Both are standard UPSC locks.
 </details>
 
-**Q58.** Western UP + Green Revolution:
+**Q58.** With reference to Western Uttar Pradesh, which of the following statements is/are correct?
 
-A. Neither true
+1. It is part of the Green Revolution wheat–rice belt.
+2. Tube-well and canal irrigation supported HYV adoption here.
 
-B. Both true
+Select the correct answer from the code given below:
 
-C. Only GR false
+A. 1 only
 
-D. Only development false
+B. 2 only
 
-<details><summary>Show answer</summary>
+C. Both 1 and 2
 
-**Ans: B**
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — UPPCS 2022 Q91 both. Upper Gangetic / Zone 5.
 </details>
 
 **Q59.** Mesta is:
 
-A. Wheat HYV
+A. A premium long-staple Egyptian cotton only
 
-B. Jute-related fibre substitute
+B. A drier-area substitute fibre related to the jute family use
 
-C. Coffee species
+C. A wheat HYV of Sonora type
 
-D. Canal lining chemical
+D. A coffee curing grade
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B** — Grown where full jute humidity is lacking.
 </details>
 
-**Q60.** Which is correctly paired?
+**Q60.** Which of the following is correctly paired?
 
-A. Mustard—kharif only always
+A. White gold — jute
 
-B. Gram—rabi pulse
+B. Golden fibre — cotton
 
-C. Tea—zaid melon
+C. White gold — cotton; golden fibre — jute
 
-D. Bajra—Kerala cardamom hills only
+D. Golden fibre — rubber latex
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**Ans: B**
+**Ans: C** — Nickname lock: cotton = white gold; jute = golden fibre.
+</details>
+
+**Q61.** With reference to wheat cultivation in India, which of the following statements is/are correct?
+
+1. One major wheat belt lies in the Ganga–Satluj plains of the north-west.
+2. Another wheat belt is associated with the black-soil region of the Deccan.
+
+Select the correct answer from the code given below:
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — NCERT two-belt lock. Assam is not a wheat belt.
+</details>
+
+**Q62.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+
+**Assertion (A):** Rabi crops in north-west India often benefit from winter rainfall.
+
+**Reason (R):** Western disturbances bring precipitation to the north-western plains in winter.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+C. (A) is true, but (R) is false
+
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — WD winter rain + irrigation supports wheat–mustard belts.
+</details>
+
+**Q63.** International Year of Millets was observed in:
+
+A. 2015
+
+B. 2019
+
+C. 2023
+
+D. 2025
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — GoI brand **Shree Anna**.
+</details>
+
+**Q64.** Match List-I with List-II and select the correct answer from the code given below:
+
+| List-I (Crop) | List-II (Nickname / lock) |
+|---|---|
+| A. Cotton | 1. Golden fibre |
+| B. Jute | 2. White gold |
+| C. Soybean | 3. Oilseed of Madhya Pradesh |
+| D. Mustard | 4. Rabi oilseed of Rajasthan |
+
+A. A-2, B-1, C-3, D-4
+
+B. A-1, B-2, C-3, D-4
+
+C. A-2, B-1, C-4, D-3
+
+D. A-2, B-3, C-1, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — White gold / golden fibre / MP soy / RJ mustard.
+</details>
+
+**Q65.** Which HYV set is correctly associated with the early Green Revolution?
+
+A. Lerma Rojo and Sonora 64 (wheat); IR-8 (rice)
+
+B. Only Robusta coffee clones
+
+C. Only Murrah buffalo semen
+
+D. Only Darjeeling orthodox tea clones
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Mexican dwarf wheat + IRRI rice classic names.
 </details>
 
 ---
@@ -1842,3 +2159,6 @@ D. Only 1
 13. **Azolla = insecticide** — FALSE. **Biofertiliser** in flooded rice (2023).
 14. **Food entitlements = Swaminathan** — FALSE. **Amartya Sen** (2025 Q147).
 15. **Tea = zaid cereal** — FALSE. **Plantation** perennial (2024 Q34).
+16. **Only one wheat belt** — FALSE. Ganga–Satluj plains **and** Deccan black-soil wheat.
+17. **Cotton = golden fibre** — FALSE. Cotton = **white gold**; jute = **golden fibre**.
+18. **Any NE state = first organic** — FALSE. **Sikkim** is the first fully organic state.
