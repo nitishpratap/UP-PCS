@@ -5,21 +5,21 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Coal | Iron Ore | Copper | Tin | Petroleum | Natural Gas | Energy Resources
+Coalfields | Iron ore | Copper | Tin | Petroleum / OPEC | Natural gas | Conventional vs renewable energy | Other minerals (Mn, bauxite, gold, diamond, U, phosphate) | Critical minerals (REE, lithium, cobalt)
 
 </details>
 
-> **Sources baked in:** Lucent world mineral–field match-lists, NCERT Class 12 (minerals & energy), UPPCS Prelims PYQs 2018–2025  
-> **Exam weight:** ★★★★ — coalfield–country, Mount Newman iron, Chile copper, Kinta tin, Kashagan ≠ Kuwait, Pegu Yoma oil  
-> **Last verified:** August 2026  
-> **Current Affairs:** none mandatory (producer ranks freeze to the PYQ year)
+> **Sources baked in:** Lucent world mineral–field match-lists; NCERT Class 12 (minerals & energy); coaching resource map (LotusArise / shields–basins); UPPCS Prelims 2018–2025  
+> **Exam weight:** ★★★★ — coalfield–country, Mount Newman iron, Chile copper, Kinta tin, Kashagan ≠ Kuwait, Pegu Yoma oil; teach full field map  
+> **Last verified:** August 2026 — coaching gap-pass (Lithium Triangle, REE–China, Carajás, producer≠exporter)  
+> **Current Affairs:** none mandatory for Prelims field matches (producer ranks freeze to the PYQ year)
 
 ---
 
 ## Quick Revision — Spine Only
 
 ```
-COAL: Appalachian USA | Lancashire England | Ruhr Germany | Kuzbass Russia (2025 4 1 2 3)
+COAL: Appalachian USA | Lancashire England | Ruhr Germany | Kuzbass Russia
  Donetsk = Ukraine’s largest among 2023 options | Karaganda KZ = coal city (also iron in 2020 list)
 IRON: Mount Newman / Pilbara / Hamersley = Australia iron (2023)
  Krivoy Rog = Ukraine | Lorraine = France | Kiruna = Sweden | Mesabi = USA
@@ -37,6 +37,8 @@ ENERGY: coal/oil/gas = conventional non-renewable
  Uranium volume = Kazakhstan | hydel giants = China (Three Gorges), Brazil–PY (Itaipu)
 IODINE: Chile (2018 “lodine”) | Mn: Postmasburg South Africa (2020)
 STEEL volume: China #1 (2022)
+CRITICAL: Lithium Triangle = Chile–Argentina–Bolivia | REE processing = China | Cobalt = DRC
+IRON export: Australia Pilbara + Brazil Carajás | China mines and still imports
 ```
 
 ---
@@ -74,18 +76,46 @@ STEEL volume: China #1 (2022)
 | Brass vs bronze | Brass = Cu+Zn; bronze = Cu+Sn | Swap | पीतल / कांसा |
 | Morocco | **Phosphate** reserves | Oil / copper | मोरक्को |
 | Broken Hill | Australia **Pb–Zn** | Iron / tin | ब्रोकन हिल |
+| Lithium Triangle | **Chile–Argentina–Bolivia** (brines) | Brazil in the triangle | लिथियम |
+| Rare earths | **China** dominates processing | “India has zero REE” | दुर्लभ मृदा |
+| Carajás vs Newman | Both **iron**; Carajás = Brazil, Newman = Australia | Swap countries | काराजास |
+| Producer vs exporter (coal/iron) | China often huge **volume**; Australia/Indonesia **ship** | China = export king | |
 
 ---
 
 ## Memory Tricks
 
-- **2025 coal four: USA, England, Germany, Russia — Appalachian, Lancashire, Ruhr, Kuzbass.**
-- **Newman is iron in the Pilbara. Donetsk is coal in Ukraine.**
-- **Kinta is tin. Pegu is oil. Kashagan sits on the Caspian, not in Kuwait.**
-- **Chile: copper in the Andes, iodine in the Atacama.**
-- **Methane is the gas. Propane is the cylinder.**
-- **Newman iron. Weipa bauxite. Postmasburg manganese. Witwatersrand gold.**
-- **OPEC and IAEA both sit in Vienna — different jobs.**
+| Trick | Remembers |
+|-------|-----------|
+| **Coal four: Appalachian–USA · Lancashire–England · Ruhr–Germany · Kuzbass–Russia** | 2025 match lock |
+| **Newman = iron (Pilbara) · Donetsk = coal (Ukraine)** | Field–country |
+| **Kinta = tin · Pegu = oil · Kashagan = Kazakhstan** | SE Asia + Caspian traps |
+| **Chile: copper Andes · iodine Atacama** | Two Chile locks |
+| **Methane = gas/CNG · propane = LPG cylinder** | Gas chemistry |
+| **Newman iron · Weipa bauxite · Postmasburg Mn · Witwatersrand gold** | Ore place names |
+| **OPEC + IAEA = Vienna · different jobs** | HQ trap |
+| **Lithium Triangle = Chile–Argentina–Bolivia** | Not Brazil |
+| **REE processing = China · cobalt = DRC** | Critical minerals |
+| **Shields = metals · basins = oil/coal** | Geology map logic |
+
+---
+
+## N.0 Framework — World Minerals & Energy
+
+This chapter is a **field–country / mineral–place** match map. Geology first, then the Lucent names.
+
+- **Precambrian shields** host many metallic ores; **sedimentary basins** host coal, oil and gas; **Andean porphyry** belts host copper (and lithium brines nearby).
+- Lock **one identity line** per famous field: mineral · country · one trap.
+- Separate **producer volume** from **exporter** (China often mines and still imports iron/coal).
+- India mineral belts live mainly in Topic 08 — here keep only world locks that sneak into Prelims (and a few India tags already in PYQs).
+
+**Order of this chapter**
+
+1. Coal → iron → copper → tin.
+2. Petroleum / OPEC → natural gas → energy types.
+3. Other minerals + critical minerals (REE, lithium, cobalt).
+
+Teach the **full field map** — next year can ask any Lucent coalfield or ore town, not only Ruhr or Kinta.
 
 ---
 
@@ -116,17 +146,17 @@ STEEL volume: China #1 (2022)
 
 | Coalfield | Country | Extra lock |
 |-----------|---------|------------|
-| **Appalachian** | **USA** | 2025 A = 4. Eastern USA (not Rockies as the 2025 name) |
+| **Appalachian** | **USA** | Eastern USA (not the Rockies as the exam name) |
 | Pennsylvania anthracite | USA | Highest-rank US coal |
 | Interior / Illinois | USA | Bituminous |
-| **Lancashire** | **England** | 2025 B = 1 |
+| **Lancashire** | **England** | Historic English coal–textile belt |
 | Yorkshire / Northumberland / Midlands | England | Same island; do not dump on USA |
 | South Wales | UK | Anthracite fame |
-| **Ruhr** | **Germany** | 2022 Q112; 2025 C = 2. **Not** Britain / France / Russia |
+| **Ruhr** | **Germany** | **Not** Britain / France / Russia |
 | Saar | Germany–France border | Awareness |
 | Lusatia / Rhineland | Germany | **Lignite** |
 | Silesia (Upper) | **Poland** | |
-| **Kuzbass / Kuznetsk** | **Russia** | 2025 D = 3. Siberia |
+| **Kuzbass / Kuznetsk** | **Russia** | Siberia |
 | Pechora | Russia | Arctic |
 | Kansk–Achinsk | Russia | Lignite / brown coal |
 | Donets (Russian side) | Russia | Do not swap with Ukraine Donetsk in a “country” MCQ |
@@ -138,11 +168,10 @@ STEEL volume: China #1 (2022)
 | Witbank / Highveld | South Africa | |
 | Damodar — Jharia, Raniganj | India | Jharia = coking fame; Raniganj = West Bengal |
 
-> **Exam note:** 2025 match = Appalachian–USA, Lancashire–England, Ruhr–Germany, Kuzbass–Russia → **4 1 2 3**. 2023 Ukraine coal centre among the four cities = **Donetsk**.
+The 2025 coal match locks Appalachian to the **USA**, Lancashire to **England**, Ruhr to **Germany**, and Kuzbass to **Russia**. Ukraine’s coal centre among the usual city options is **Donetsk**.
 
-> **Exam note:** 2025 match = Appalachian–USA, Lancashire–England, Ruhr–Germany, Kuzbass–Russia → **4 1 2 3**. 2023 Ukraine coal centre among the four cities = **Donetsk**.
 
-**PYQ — UPPCS Prelims 2025, Q4**
+**Inline PYQ — UPPCS Prelims 2025, Q4**
 
 Match List-I with List-II and choose the correct answer by using the code given below the lists.
 
@@ -170,7 +199,7 @@ D. 4 1 3 2
 
 </details>
 
-**PYQ — UPPCS Prelims 2023, Q69**
+**Inline PYQ — UPPCS Prelims 2023, Q69**
 
 Which one of the following is the largest coal-producing centre of Ukraine?
 
@@ -191,7 +220,7 @@ D. Kyiv
 
 </details>
 
-**PYQ — UPPCS Prelims 2022, Q112**
+**Inline PYQ — UPPCS Prelims 2022, Q112**
 
 The famous **'Ruhr coalfield'** is situated in which of the following countries?
 
@@ -284,9 +313,9 @@ D. France
 - Early **2022** paper: **China** #1.
 - India and Japan are large — **not** England as world top.
 
-> **Exam note:** 2023 Mount Newman = **iron ore**. 2020 NOT matched = **Germany–Normandy**.
+Mount Newman = **iron ore** (Pilbara). The Germany–Normandy iron pair is **wrong** — Normandy is in **France**.
 
-**PYQ — UPPCS Prelims 2023, Q70**
+**Inline PYQ — UPPCS Prelims 2023, Q70**
 
 "Mount Newman" is famous for which of the following minerals?
 
@@ -307,7 +336,7 @@ D. Bauxite
 
 </details>
 
-**PYQ — UPPCS Prelims 2020, Q70**
+**Inline PYQ — UPPCS Prelims 2020, Q70**
 
 Which one of the following is NOT correctly matched?
 
@@ -330,7 +359,7 @@ D. France – Pyrenees
 
 </details>
 
-**PYQ — UPPCS Prelims 2022, Q140**
+**Inline PYQ — UPPCS Prelims 2022, Q140**
 
 As of early 2022, which country was at the top in steel production in the world?
 
@@ -396,7 +425,7 @@ D. India
 - **Chile** = leading producer in the paper’s framing.
 - Do not write “Chile has no copper”.
 
-**PYQ — UPPCS Prelims 2022, Q41**
+**Inline PYQ — UPPCS Prelims 2022, Q41**
 
 Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 
@@ -458,7 +487,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A).
 - Yenangyaung–Chauk oilfields sit in this central belt.
 - Trap: Myanmar *does* mine tin — just **not under the Pegu Yoma label**.
 
-**PYQ — UPPCS Prelims 2020, Q88**
+**Inline PYQ — UPPCS Prelims 2020, Q88**
 
 In Malaysia, the 'Kinta Valley' is famous for
 
@@ -479,7 +508,7 @@ D. Coffee Production
 
 </details>
 
-**PYQ — UPPCS Prelims 2022, Q70**
+**Inline PYQ — UPPCS Prelims 2022, Q70**
 
 Which among the following is an important mineral of the Pegu Yoma region of Myanmar?
 
@@ -557,9 +586,9 @@ D. Silver
 | Yenangyaung / Chauk | **Myanmar** | With **Pegu Yoma** oil (2022) |
 | Mumbai High / Digboi / Ankleshwar | India | India-map lock |
 
-> **Exam note:** 2024 NOT matched = **Kuwait – Kashagan**. Kashagan = **Kazakhstan**.
+Kuwait–Kashagan is **wrong**. Kashagan sits in **Kazakhstan** (Caspian). Kuwait’s classic giant is **Burgan**.
 
-**PYQ — UPPCS Prelims 2024, Q78**
+**Inline PYQ — UPPCS Prelims 2024, Q78**
 
 Which one of the following pairs (Country - Oil Field) is not correctly matched?
 
@@ -621,7 +650,7 @@ D. Iraq - Zubair
 | North Sea | UK + Norway | Oil **and** gas |
 | KG / Mumbai High gas | India | India-map lock |
 
-**PYQ — UPPCS Prelims 2022, Q19**
+**Inline PYQ — UPPCS Prelims 2022, Q19**
 
 Which among the following compounds is the main constituent of natural gas?
 
@@ -642,7 +671,7 @@ D. Methane
 
 </details>
 
-**PYQ — UPPCS Prelims 2018, Q130**
+**Inline PYQ — UPPCS Prelims 2018, Q130**
 
 Which of the following is the main component of the natural gas?
 
@@ -700,7 +729,7 @@ D. Methane
 - **Geothermal** — Earth’s internal heat
 - **Tidal** — Moon’s gravity
 
-> **Exam note:** 2022 “NOT from the Sun” — nuclear **and** geothermal both qualify. Wind and biomass do **not**.
+Nuclear energy and geothermal energy are **not** stored solar. Wind and biomass **are** solar-linked in the usual Prelims logic.
 
 **Hydroelectricity**
 
@@ -842,12 +871,13 @@ D. Methane
 | Sulphur | USA, Mexico, Poland; volcanic Italy/Japan |
 | Platinum | Bushveld (South Africa); Norilsk |
 | Cobalt | **DRC** (with Katanga copper) |
-| Lithium | Australia spodumene; Chile–Argentina Atacama brines |
+| Lithium | Australia hard-rock (spodumene); **Lithium Triangle** brines = **Chile–Argentina–Bolivia** (Brazil is **not** in the triangle) |
+| **Rare earths (REE)** | **China** dominates mining **and** especially **processing**; India has monazite sands but not China’s refining lock |
 | Tungsten | **China**; Bolivia |
 | Mercury | Almadén (Spain) historical |
 | Asbestos | Russia, Kazakhstan; Canada historical |
 
-**PYQ — UPPCS Prelims 2020, Q84**
+**Inline PYQ — UPPCS Prelims 2020, Q84**
 
 Postmasburg and its adjacent areas of South Africa is major producer of which of the following minerals?
 
@@ -868,7 +898,7 @@ D. Mica
 
 </details>
 
-**PYQ — UPPCS Prelims 2018, Q109**
+**Inline PYQ — UPPCS Prelims 2018, Q109**
 
 Which of the following countries is the leading producer of lodine in the world?
 
@@ -889,7 +919,7 @@ D. China
 
 </details>
 
-**PYQ — UPPCS Prelims 2022, Q139**
+**Inline PYQ — UPPCS Prelims 2022, Q139**
 
 Most of the sources of energy we use represent stored solar energy. Which of the following is NOT ultimately derived from the Sun's energy?
 
@@ -912,7 +942,7 @@ D. Geothermal energy
 
 ---
 
-## Consolidated — Must-Score Locks
+## Consolidated — 20 Must-Score Locks
 
 1. Coal 2025: Appalachian **USA**, Lancashire **England**, Ruhr **Germany**, Kuzbass **Russia**.
 2. Ruhr = **Germany**. Donetsk = **Ukraine** coal.
@@ -930,10 +960,17 @@ D. Geothermal energy
 14. Weipa = bauxite; Newman = iron. Witwatersrand = gold. Morocco = phosphate.
 15. North Field (Qatar) and South Pars (Iran) = one Gulf gas giant.
 16. Itaipu = Brazil–Paraguay. Three Gorges = China / Yangtze. OPEC HQ = Vienna.
+17. Lithium Triangle = Chile–Argentina–Bolivia; cobalt volume = DRC; REE processing = China.
+18. Iron exporters = Australia (Pilbara) + Brazil (Carajás); China mines and still imports.
+19. Shields host metals; sedimentary basins host coal / oil / gas.
+20. Original OPEC five (1960) = Iran, Iraq, Kuwait, Saudi Arabia, Venezuela.
 
 ---
 
-## Practice Zone — 50 Questions (2025 Pattern Mix)
+## Practice Zone — UPPCS Format Questions
+
+> **Answers hidden** — click **Show answer** under each question to reveal.  
+> **Format mix:** 65 questions — Match List | multi-statement | Assertion–Reason | NOT correctly matched | direct recall (PYQ + coaching gaps)
 
 **Q1.** Match List-I with List-II:
 
@@ -2069,6 +2106,287 @@ D. None
 
 ---
 
+
+**Q51.** The Lithium Triangle refers to:
+
+A. Chile–Argentina–Bolivia
+
+B. Brazil–Peru–Colombia
+
+C. USA–Canada–Mexico
+
+D. Australia–Indonesia–Malaysia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Brine salares; Brazil is not in the triangle.
+</details>
+
+---
+
+**Q52.** Which country dominates rare-earth **processing** in the usual coaching lock?
+
+A. Chile
+
+B. China
+
+C. Kuwait
+
+D. Latvia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q53.** Carajás is famous for:
+
+A. Tin in Malaysia
+
+B. Iron ore in Brazil
+
+C. Oil in Kuwait
+
+D. Manganese in South Africa only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q54.** Which of the following is/are correctly matched?
+
+1. Witwatersrand — gold (South Africa)
+2. Weipa — bauxite (Australia)
+3. Postmasburg — manganese (South Africa)
+4. Mount Newman — copper (Chile)
+
+A. 1, 2 and 3 only
+
+B. 1, 2 and 4 only
+
+C. 2, 3 and 4 only
+
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Mount Newman = **iron**, Australia.
+</details>
+
+---
+
+**Q55.** Assertion (A): Sedimentary basins are the classic home of commercial oil and coal.  
+Reason (R): Precambrian shields therefore never host metallic ores.
+
+A. Both A and R are true and R explains A
+
+B. Both A and R are true but R does not explain A
+
+C. A is true but R is false
+
+D. A is false but R is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Shields are classic **metal** hosts; R is false.
+</details>
+
+---
+
+**Q56.** Cobalt production volume in coaching maps is classically linked to:
+
+A. Dhahran oil fields
+
+B. DRC (Katanga belt with copper)
+
+C. Lancashire coal only
+
+D. Kinta Valley tin only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q57.** Which pair is NOT correctly matched?
+
+A. Mesabi Range — USA iron
+
+B. Kiruna — Sweden iron
+
+C. Krivoy Rog — Ukraine iron
+
+D. Lorraine — Germany iron
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Lorraine = **France**.
+</details>
+
+---
+
+**Q58.** Original OPEC members (1960) do NOT include:
+
+A. Venezuela
+
+B. Saudi Arabia
+
+C. Iran
+
+D. Russia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Russia is OPEC+, not original OPEC.
+</details>
+
+---
+
+**Q59.** Which statement about iron trade is correct?
+
+A. China never mines iron ore
+
+B. Australia and Brazil are classic iron **exporters**
+
+C. Mount Newman is in Chile
+
+D. Carajás is Malaysia’s tin capital
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q60.** Bushveld Complex (South Africa) is classically linked to:
+
+A. Only petroleum
+
+B. Platinum / chromite story
+
+C. Only North Sea gas
+
+D. Only Appalachian coal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q61.** Broken Hill (Australia) is famous for:
+
+A. Lead–zinc
+
+B. Only tin
+
+C. Only Kuwait oil
+
+D. Only Ruhr coal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+</details>
+
+---
+
+**Q62.** Which of the following is/are correctly matched?
+
+1. Morocco — phosphate reserves fame
+2. Sudbury — nickel (+ copper), Canada
+3. Kimberley — diamond story, South Africa
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+</details>
+
+---
+
+**Q63.** Anthracite among coal ranks is:
+
+A. Lowest carbon peat
+
+B. Highest-rank hard coal
+
+C. Only LPG gas
+
+D. Only solar PV silicon
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q64.** Which HQ pair is correctly matched?
+
+A. OPEC — Riyadh
+
+B. IAEA — Geneva only as the Prelims lock
+
+C. OPEC — Vienna
+
+D. IRENA — Vienna
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — OPEC and IAEA both Vienna; IRENA = Abu Dhabi.
+</details>
+
+---
+
+**Q65.** Which pair is NOT correctly matched?
+
+A. Ghawar — Saudi Arabia
+
+B. Burgan — Kuwait
+
+C. Kashagan — Kazakhstan
+
+D. Haft Kel — Iraq
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Haft Kel = **Iran**.
+</details>
+
+---
+
 ## Complete PYQ Bank
 
 **Instructions:** Answers under `<details>`. Options sit on separate lines. Match-lists as tables.
@@ -2459,3 +2777,7 @@ None mandatory. Producer ranks and “leading country” freeze to the **paper�
 18. **Pegu Yoma = Kinta tin** — FALSE. Pegu = **oil**; Kinta = **tin**.
 19. **North Field = Russian Urengoy** — FALSE. **Qatar** (pair = Iran South Pars).
 20. **OPEC HQ = Riyadh / Geneva** — FALSE. **Vienna**.
+21. **Lithium Triangle includes Brazil** — FALSE. Chile–Argentina–Bolivia.
+22. **Rare earths = Chile only** — FALSE. Processing lock = **China**.
+23. **Carajás = Mount Newman** — FALSE. Carajás = Brazil iron; Newman = Australia iron.
+24. **Skip non-PYQ fields because papers asked Ruhr/Kinta** — FALSE. Next year can ask any Lucent field.

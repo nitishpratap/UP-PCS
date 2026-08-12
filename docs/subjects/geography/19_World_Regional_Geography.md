@@ -9,13 +9,13 @@
 
 **Focus belts:** West Asia | Central Asia | South-East Asia | Korean Peninsula | Palestine | Caribbean
 
-**Map diet:** South Asia neighbourhood | ASEAN | landlocked / equator / capital-not-the-famous-city
+**Map diet:** South Asia neighbourhood | ASEAN | landlocked / equator / capital-not-the-famous-city | boundary lines | continent size order
 
 </details>
 
-> **Sources baked in:** Lucent world regional match-lists, NCERT world map diet, UPPCS Prelims PYQs 2018–2025  
-> **Exam weight:** ★★★ — country–capital, “which is NOT in this sea/region”, Australia interior, Japan plains, W Europe rain, West Asia mountains W→E  
-> **Last verified:** August 2026  
+> **Sources baked in:** Lucent world regional match-lists; NCERT world map diet; coaching map (Lucent capitals / landlocked / boundaries); UPPCS Prelims 2018–2025  
+> **Exam weight:** ★★★ — country–capital, “which is NOT in this sea/region”, Australia interior, Japan plains, W Europe rain, West Asia mountains W→E; teach full regional map  
+> **Last verified:** August 2026 — coaching gap-pass (continent order, double-landlocked, boundary lines, capital≠city)  
 > **Current Affairs:** none mandatory (static political-map chapter)
 
 ---
@@ -23,12 +23,14 @@
 ## Quick Revision — Spine Only
 
 ```
-ASIA: largest continent | Japan plains = Nobi + Kanto (NOT Korea) (2021)
+CONTINENTS (area): Asia > Africa > N America > S America > Antarctica > Europe > Australia/Oceania
+ASIA: largest continent | Japan plains = Nobi + Kanto (NOT Korea)
  S Asia: Nepal/Bhutan landlocked | Maldives/Sri Lanka islands | Kabul = Afghanistan
 WEST ASIA: Sunni Triangle Iraq = Baghdad + Tikrit + Ramadi — NOT Basra (2022)
  Mts W→E: Pontic → Zagros → Hindu Kush → Karakoram (2024)
  Caucasus: Georgia–Armenia–Azerbaijan | Istanbul ≠ capital (Ankara)
 CENTRAL ASIA: UZB Tashkent | TJK Dushanbe | KGZ Bishkek | TKM Ashgabat | KAZ Astana
+ Double-landlocked awareness: Uzbekistan · Liechtenstein (Europe)
  Kara Kum = Turkmenistan (2022) | Aral shrinking | Caspian west shore
 SE ASIA: ASEAN 10 | Borneo = ID+MY+BN, NOT volcanic (2022)
  Indonesia W→E: Sumatra → Java → Bali → Lombok (2021)
@@ -79,28 +81,56 @@ CARIBBEAN: Grenada, Montserrat, Anguilla | Madeira = Atlantic Portugal, NOT Cari
 | Ethiopia vs Eritrea | Ethiopia **landlocked**; Eritrea has Red Sea | Ethiopia still coastal | इथियोपिया |
 | Bolivia vs Paraguay | **Both** landlocked S America | Only one of them | पराग्वे |
 | NZ vs Tasmania | NZ = separate country, capital **Wellington** | NZ is an Australian state | न्यूज़ीलैंड |
+| Continent size | Asia largest; Australia / Oceania smallest inhabited | Europe largest | महाद्वीप |
+| Double landlocked | **Uzbekistan** / Liechtenstein | Any coastal state | दोहरा स्थलरुद्ध |
+| 38th vs 49th parallel | Korea DMZ vs Canada–USA | Swapped | 38° / 49° |
+| Capital ≠ mega-city | Ankara / Canberra / Brasília / Abu Dhabi | Istanbul / Sydney / Rio / Dubai | राजधानी |
 
 ---
 
 ## Memory Tricks
 
-- **Nobi + Kanto = Japan. Korea is the trap.**
-- **Basra is the odd one out of the Sunni Triangle.**
-- **Pontic → Zagros → Hindu Kush → Karakoram** (west to east).
-- **Tashkent–Uzbek, Dushanbe–Tajik, Bishkek–Kyrgyz, Ashgabat–Turkmen.**
-- **Darling watches the Indian Ocean (Perth / SW). Dividing Range watches the Pacific side (east).**
-- **Madeira is Portugal’s Atlantic wine island, not a Caribbean cruise stop.**
-- **Cape Verde ≠ Mali. Bamako is inland West Africa.**
-- **Sumatra → Java → Bali → Lombok.**
-- **Bolivia + Paraguay = the only landlocked South Americans.**
-- **Igarka is Russian timber on the Yenisei, not a China port.**
-- **Wellington = NZ. Canberra = Australia. Brasília = Brazil. Ankara = Turkey.**
+| Trick | Remembers |
+|-------|-----------|
+| **Nobi + Kanto = Japan** | Korea is the trap |
+| **Basra is the odd one out** | Sunni Triangle = Baghdad · Tikrit · Ramadi |
+| **Pontic → Zagros → Hindu Kush → Karakoram** | West Asia mountains W→E |
+| **Tashkent–Uzbek · Dushanbe–Tajik · Bishkek–Kyrgyz · Ashgabat–Turkmen** | Stan capitals |
+| **Darling = SW / Indian Ocean · Dividing Range = east** | Australia coasts |
+| **Madeira = Portugal Atlantic** | Not Caribbean |
+| **Cape Verde = Praia · Bamako = Mali** | Island vs inland |
+| **Sumatra → Java → Bali → Lombok** | Indonesia W→E |
+| **Bolivia + Paraguay** | Only S American landlocked pair |
+| **Wellington · Canberra · Brasília · Ankara** | Capitals ≠ famous cities |
+| **Asia > Africa > NA > SA > Antarctica > Europe > Australia** | Continent area order |
+| **38° = Korea · 49° = Canada–USA** | Parallel traps |
+
+---
+
+## N.0 Framework — World Regional Geography
+
+This is a **political + regional map** chapter. Exams ask capital, “which is NOT in the region”, landlocked, equator, and a few physical locks inside a region.
+
+- Learn each **continent’s size order**, then the **focus belts** (West Asia, Central Asia, SE Asia, Korea, Palestine, Caribbean).
+- Lock **capital ≠ famous city** (Ankara / Canberra / Brasília / Abu Dhabi).
+- Lock **landlocked** and **equator** lists separately from Topic 17 rivers / Topic 18 landforms.
+- Boundary lines (38th, 49th, Durand, Radcliffe, McMahon) are short map diet — full political-map drill is also Topic 23.
+
+**Order of this chapter**
+
+1. Asia belts (East, South, West, Central, SE, Korea, Palestine).
+2. Europe → Africa → Americas → Australia / NZ → Antarctica → Caribbean.
+3. Landlocked · Equator · Capitals · boundary lines.
+
+Teach the **full regional map** — next year can ask any Lucent capital or landlocked trap, not only Nobi or Bolivia.
 
 ---
 
 ## N.1 Asia (overview + East + South)
 
-Largest continent. Exam splits: **East / SE / South / West / Central / North (Siberia)**.
+**Continent area order (coaching lock):** Asia > Africa > North America > South America > Antarctica > Europe > Australia / Oceania.
+
+Asia is the **largest** continent. Exam splits: **East / SE / South / West / Central / North (Siberia)**.
 
 **Equator in Asia:** Indonesia (Sumatra, Kalimantan, Sulawesi), Maldives fringe — **not** India, **not** China.
 
@@ -133,7 +163,7 @@ India’s **land** neighbours (map, not the boundary-line chapter): PK, CN, NP, 
 
 > **Exam note:** Nobi + Kanto → **Japan**. Mongolia and Nepal/Bhutan are the Asian **landlocked** diet with Laos and the ‘stans.
 
-**PYQ — UPPCS Prelims 2021, Q55**
+**Inline PYQ — UPPCS Prelims 2021, Q55**
 
 Nobi and Kanto plains are located in which of the following countries?
 
@@ -160,7 +190,7 @@ D. China
 
 **West Asia / Middle East** (exam map): Turkey, Iran, Levant, Arabian Peninsula, Iraq, Gulf states. **Maghreb** (NW Africa) is often paired in “Arab world” MCQs but sits on the **Africa** card.
 
-**Mountains, west → east (2024 Q76)**
+**Mountains, west → east**
 
 | Order | Range | Where |
 |-------|-------|-------|
@@ -168,8 +198,6 @@ D. China
 | 2 | **Zagros** | Western **Iran** (Iraq border) |
 | 3 | **Hindu Kush** | **Afghanistan** |
 | 4 | **Karakoram** | Pakistan–China |
-
-Code **2, 4, 3, 1**.
 
 **Iraq — Sunni Triangle (2022 Q48)**
 
@@ -203,7 +231,7 @@ Straits: **Hormuz** (Gulf), **Bab el-Mandeb** (Red Sea), **Bosporus / Dardanelle
 
 Fertile Crescent (exam phrase): Nile–Levant–Tigris–Euphrates arc — Iraq, Syria, Levant, Egypt.
 
-**PYQ — UPPCS Prelims 2022, Q48**
+**Inline PYQ — UPPCS Prelims 2022, Q48**
 
 Which of the following cities is NOT part of the Sunni Triangle in Iraq?
 
@@ -224,7 +252,7 @@ D. Baghdad
 
 </details>
 
-**PYQ — UPPCS Prelims 2024, Q76**
+**Inline PYQ — UPPCS Prelims 2024, Q76**
 
 Consider the following mountains and arrange them in correct order from West to East by their location:
 
@@ -276,7 +304,7 @@ All five stans except Turkmenistan’s western Caspian shore are **landlocked** 
 
 > **Exam note:** Kara Kum is **not** Kazakhstan. Kyzylkum straddles UZB–KAZ — different name.
 
-**PYQ — UPPCS Prelims 2019, Q2**
+**Inline PYQ — UPPCS Prelims 2019, Q2**
 
 Match List-I with List-II and select the correct answer using the codes given below the lists:
 
@@ -304,7 +332,7 @@ D. 1 4 2 3
 
 </details>
 
-**PYQ — UPPCS Prelims 2022, Q106**
+**Inline PYQ — UPPCS Prelims 2022, Q106**
 
 Kara Kum desert is situated in which of the following countries?
 
@@ -345,7 +373,7 @@ D. Kazakhstan
 | Vietnam | Hanoi (Ho Chi Minh City = south) | **Mekong delta = southern Vietnam** (2021) |
 | Timor-Leste | Dili | East of Indonesia’s Timor |
 
-**Indonesia west → east (2021 Q71):** **Sumatra → Java → Bali → Lombok**.
+**Indonesia west → east:** **Sumatra → Java → Bali → Lombok**.
 
 - Sumatra is the big western island (Malacca).
 - Java is next (Jakarta).
@@ -358,7 +386,7 @@ D. Kazakhstan
 
 **Chokes:** Malacca (Malay–Sumatra), Sunda (Sumatra–Java), Lombok (Bali–Lombok, oil-tanker alternative).
 
-**PYQ — UPPCS Prelims 2022, Q126**
+**Inline PYQ — UPPCS Prelims 2022, Q126**
 
 With reference to Borneo Island, located in South-East Asia, which of the following statements is/are true?
 
@@ -382,7 +410,7 @@ D. Only 1
 
 </details>
 
-**PYQ — UPPCS Prelims 2023, Q64**
+**Inline PYQ — UPPCS Prelims 2023, Q64**
 
 To whom does the credit go for the development of coconut and sugarcane agriculture in the Philippines?
 
@@ -403,7 +431,7 @@ D. Spanish and Americans
 
 </details>
 
-**PYQ — UPPCS Prelims 2021, Q71**
+**Inline PYQ — UPPCS Prelims 2021, Q71**
 
 Which of the following is the correct sequence of the Islands of Indonesia from West to East?
 
@@ -424,7 +452,7 @@ D. Bali, Sumatra, Java, Lombok
 
 </details>
 
-**PYQ — UPPCS Prelims 2021, Q121**
+**Inline PYQ — UPPCS Prelims 2021, Q121**
 
 With reference to Mekong river, which of the following statement/s is/are correct?
 
@@ -521,7 +549,7 @@ Map unit the paper still uses: **historic Palestine / Israel–Palestine**.
 | Jakarta – Indonesia | Yes |
 | **Igarka – China** | **NO** — Igarka is **Russia** (Yenisei, Siberia) |
 
-**PYQ — UPPCS Prelims 2024, Q75**
+**Inline PYQ — UPPCS Prelims 2024, Q75**
 
 Consider the following statements with respect to the climate of Western Europe:
 
@@ -547,7 +575,7 @@ D. Only 2
 
 </details>
 
-**PYQ — UPPCS Prelims 2018, Q29**
+**Inline PYQ — UPPCS Prelims 2018, Q29**
 
 How much the maritime distance between India and Europe was reduced after the construction of the Suez Canal?
 
@@ -568,7 +596,7 @@ D. 10,000 km
 
 </details>
 
-**PYQ — UPPCS Prelims 2023, Q60**
+**Inline PYQ — UPPCS Prelims 2023, Q60**
 
 Which of the following (Port — Country) is **not** correctly matched?
 
@@ -627,7 +655,7 @@ Sahara splits **Mediterranean Maghreb** (north) from **sub-Saharan** Africa.
 
 Cape of Good Hope / Cape Town = SW South Africa, not Cape Verde (that is Atlantic islands off West Africa).
 
-**PYQ — UPPCS Prelims 2020, Q82**
+**Inline PYQ — UPPCS Prelims 2020, Q82**
 
 Which one of the following is NOT correctly matched? (Country) (Capital)
 
@@ -687,11 +715,11 @@ Andes on the **west**. Amazon in the **north-centre**. Equator through **Ecuador
 | Suriname | Paramaribo | Atlantic | **Not** landlocked (2022 trap) |
 | French Guiana | Cayenne | Atlantic | France overseas — often in “Guianas” |
 
-**2022 Q137 landlocked:** Uruguay (coast), Suriname (coast), Peru (Pacific) — **Bolivia**.
+Landlocked trap set: Uruguay (coast), Suriname (coast), Peru (Pacific) — pick **Bolivia**.
 
 Falklands / Malvinas = UK–Argentina dispute, South Atlantic (not Caribbean).
 
-**PYQ — UPPCS Prelims 2025, Q63**
+**Inline PYQ — UPPCS Prelims 2025, Q63**
 
 With reference to Brazil, which of the following statements is/are correct?
 
@@ -717,7 +745,7 @@ D. Only 1
 
 </details>
 
-**PYQ — UPPCS Prelims 2022, Q137**
+**Inline PYQ — UPPCS Prelims 2022, Q137**
 
 Which one of the following is a landlocked country?
 
@@ -774,9 +802,9 @@ States/territories: **WA, NT, QLD, NSW, VIC, SA, TAS** + **ACT** (**Canberra** =
 
 Papua New Guinea = east New Guinea; capital Port Moresby. Independent of Australia since 1975.
 
-**2025 Q1:** (A) interior desert = **true**. (R) “Northern Australia is in the **temperate** zone” = **false** (it is tropical). → **A true, R false**.
+Australia trap: interior desert is **true**; northern Australia is **tropical**, not temperate.
 
-**PYQ — UPPCS Prelims 2025, Q1**
+**Inline PYQ — UPPCS Prelims 2025, Q1**
 
 Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 
@@ -801,7 +829,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 </details>
 
-**PYQ — UPPCS Prelims 2020, Q76**
+**Inline PYQ — UPPCS Prelims 2020, Q76**
 
 Darling range is situated along which of the following coasts of Australia?
 
@@ -836,7 +864,7 @@ Continent under ice. **Antarctic Treaty 1959** (in force 1961). India acceded **
 
 Exam pair of **permanent operational** stations = **Maitri + Bharati** (2021). **Arya** is a fake name. Himadri = **Arctic** (Svalbard), not Antarctic.
 
-**PYQ — UPPCS Prelims 2021, Q53**
+**Inline PYQ — UPPCS Prelims 2021, Q53**
 
 Which among the following are India's permanent and operational research stations in Antarctica?
 
@@ -878,7 +906,7 @@ D. Dakshin Gangotri and Maitri
 | Trinidad and Tobago | Port of Spain; near Venezuela |
 | Bahamas | Atlantic archipelago — often **not** the “Caribbean **Sea**” MCQ |
 
-**PYQ — UPPCS Prelims 2021, Q104**
+**Inline PYQ — UPPCS Prelims 2021, Q104**
 
 Which of the following Islands is NOT located in the Caribbean Sea?
 
@@ -901,15 +929,30 @@ D. Anguilla
 
 ---
 
-## N.14 Landlocked · Equator · Capitals (map diet)
+## N.14 Landlocked · Equator · Capitals · Boundaries (map diet)
 
 **South America landlocked:** **Bolivia + Paraguay** only. Uruguay / Peru / Suriname have coasts.
 
 **Asia landlocked (core):** Mongolia, Nepal, Bhutan, Laos, Afghanistan, the five stans (Caspian ≠ ocean), Armenia, (plus Central Asian neighbours).
 
+**Double-landlocked (coaching rarity):** a landlocked country surrounded only by other landlocked states — **Uzbekistan** (Asia) and **Liechtenstein** (Europe).
+
 **Africa landlocked (core):** Ethiopia (post-Eritrea), Mali, Niger, Chad, Uganda, Zambia, Zimbabwe, Botswana, Malawi, Rwanda, Burundi, South Sudan, CAR, Lesotho, Eswatini.
 
 **Equator countries (exam):** Ecuador, Colombia, Brazil, Gabon, Congo, DRC, Uganda, Kenya, Somalia, Indonesia, Maldives, Kiribati. **Not** India. **Not** Australia (Capricorn, not Equator).
+
+**Prime Meridian awareness:** runs through the UK (Greenwich), France, Spain, Algeria, Mali, Burkina Faso, Togo, Ghana — **not** through India.
+
+**Boundary lines (short map diet)**
+
+| Line | Lock |
+|------|------|
+| **38th parallel** | Approx. Korea DMZ / North–South Korea |
+| **49th parallel** | Much of **Canada–USA** border |
+| **Durand Line** | Afghanistan–Pakistan |
+| **Radcliffe Line** | India–Pakistan (1947) |
+| **McMahon Line** | India–China (eastern sector awareness) |
+| **Maginot / Siegfried** | Historic France–Germany fortification names (awareness) |
 
 **Capitals that are NOT the famous city**
 
@@ -933,7 +976,7 @@ D. Anguilla
 
 ---
 
-## Consolidated — Must-Score Locks
+## Consolidated — 28 Must-Score Locks
 
 1. Nobi + Kanto = **Japan**, not Korea.
 2. Sunni Triangle = Baghdad, Tikrit, Ramadi — **not Basra**.
@@ -960,10 +1003,16 @@ D. Anguilla
 23. Cape Verde = Praia; Bamako = Mali.
 24. NZ capital = Wellington; not an Australian state.
 25. Ethiopia is landlocked; Eritrea has the Red Sea.
+26. Continent area: Asia > Africa > NA > SA > Antarctica > Europe > Australia.
+27. Double-landlocked awareness: Uzbekistan · Liechtenstein.
+28. Capitals ≠ cities: Ankara / Canberra / Brasília / Abu Dhabi / Wellington; 38° Korea · 49° Canada–USA.
 
 ---
 
-## Practice Zone — 50 Questions (2025 Pattern Mix)
+## Practice Zone — UPPCS Format Questions
+
+> **Answers hidden** — click **Show answer** under each question to reveal.  
+> **Format mix:** 65 questions — Match List | multi-statement | Assertion–Reason | NOT correctly matched | direct recall (PYQ + coaching gaps)
 
 **Q1.** Nobi and Kanto plains are located in:
 
@@ -2066,6 +2115,286 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 ---
 
+
+**Q51.** Correct descending order of continents by area is:
+
+A. Africa > Asia > Europe > North America
+
+B. Asia > Africa > North America > South America > Antarctica > Europe > Australia
+
+C. Asia > Europe > Africa > Australia
+
+D. North America > Asia > Africa > Europe
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q52.** Which of the following is a double-landlocked country?
+
+A. Bolivia
+
+B. Uzbekistan
+
+C. Paraguay
+
+D. Mongolia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Surrounded by other landlocked states. Liechtenstein is the European twin.
+</details>
+
+---
+
+**Q53.** The 49th parallel is classically associated with:
+
+A. North–South Korea
+
+B. Much of the Canada–USA boundary
+
+C. India–Pakistan Radcliffe Line
+
+D. Chile–Argentina Andes only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Korea uses ~**38th** parallel.
+</details>
+
+---
+
+**Q54.** Which pair is correctly matched?
+
+A. Istanbul — capital of Turkey
+
+B. Sydney — capital of Australia
+
+C. Brasília — capital of Brazil
+
+D. Auckland — capital of New Zealand
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Ankara / Canberra / Wellington are the capital traps for A/B/D.
+</details>
+
+---
+
+**Q55.** Durand Line lies between:
+
+A. India and China
+
+B. Afghanistan and Pakistan
+
+C. India and Myanmar
+
+D. Russia and China
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q56.** Which statement about the Equator is/are correct?
+
+1. It crosses Ecuador, Colombia and Brazil.
+2. It crosses India.
+3. Australia is cut by the Tropic of Capricorn, not the Equator.
+
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q57.** ASEAN’s classic ten members do NOT include:
+
+A. Vietnam
+
+B. Laos
+
+C. Timor-Leste
+
+D. Brunei
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Timor-Leste is SE Asia but not the classic ASEAN-10 lock.
+</details>
+
+---
+
+**Q58.** Assertion (A): Kazakhstan is treated as landlocked in ocean terms.  
+Reason (R): The Caspian Sea is a lake, not an open ocean.
+
+A. Both A and R are true and R explains A
+
+B. Both A and R are true but R does not explain A
+
+C. A is true but R is false
+
+D. A is false but R is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+</details>
+
+---
+
+**Q59.** Maghreb capitals correctly matched are:
+
+A. Morocco–Casablanca; Algeria–Oran; Tunisia–Sfax
+
+B. Morocco–Rabat; Algeria–Algiers; Tunisia–Tunis
+
+C. Morocco–Rabat; Algeria–Tunis; Tunisia–Algiers
+
+D. Morocco–Bamako; Algeria–Praia; Tunisia–Cairo
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q60.** Which country is NOT landlocked?
+
+A. Laos
+
+B. Nepal
+
+C. Vietnam
+
+D. Afghanistan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Vietnam has a long South China Sea / Pacific-facing coast.
+</details>
+
+---
+
+**Q61.** The Horn of Africa core set is:
+
+A. Egypt–Libya–Tunisia–Algeria
+
+B. Ethiopia–Somalia–Eritrea–Djibouti
+
+C. Kenya–Tanzania–Uganda only
+
+D. South Africa–Namibia–Botswana only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q62.** McMahon Line is associated with:
+
+A. India–Pakistan western sector only
+
+B. India–China eastern sector awareness
+
+C. USA–Mexico Rio Grande only
+
+D. France–Germany Maginot only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q63.** Which capital is correctly matched?
+
+A. Kazakhstan — Ashgabat
+
+B. Kyrgyzstan — Bishkek
+
+C. Tajikistan — Tashkent
+
+D. Turkmenistan — Dushanbe
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q64.** Papua New Guinea’s capital is:
+
+A. Wellington
+
+B. Canberra
+
+C. Port Moresby
+
+D. Suva
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+</details>
+
+---
+
+**Q65.** Which of the following pairs is/are correctly matched?
+
+1. Radcliffe Line — India–Pakistan
+2. 38th parallel — Korean Peninsula
+3. Durand Line — India–China
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Durand = Afghanistan–Pakistan; McMahon ≈ India–China east.
+</details>
+
+---
+
 ## Complete PYQ Bank
 
 **Instructions:** Answers under `<details>`. Match questions use a table. Options sit on separate lines.
@@ -2575,3 +2904,7 @@ None mandatory — static political-map chapter.
 22. **Equator through India** — FALSE.
 23. **Paraguay has a seacoast** — FALSE. Landlocked with Bolivia.
 24. **Casablanca / Istanbul / Sydney / Rio / Auckland = capitals** — FALSE. Rabat / Ankara / Canberra / Brasília / Wellington.
+25. **Europe is the largest continent** — FALSE. **Asia** is largest; Australia/Oceania is smallest inhabited.
+26. **Double-landlocked = Bolivia** — FALSE. Bolivia is landlocked; **Uzbekistan / Liechtenstein** are the double-landlocked coaching pair.
+27. **49th parallel = Korea** — FALSE. Korea ≈ **38th**; 49th ≈ Canada–USA.
+28. **Skip capitals map because recent papers asked Australia A/R** — FALSE. Next year can ask any Lucent capital or landlocked trap.

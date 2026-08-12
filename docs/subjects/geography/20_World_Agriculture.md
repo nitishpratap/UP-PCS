@@ -5,13 +5,13 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Agriculture | Plantation Crops | Tea | Coffee | Cocoa | Rubber | Shifting Cultivation
+Agriculture systems | Whittlesey regions | Cereals | Fibres / sugar / oilseeds | Plantation (tea, coffee, cocoa, rubber) | Livestock | Shifting cultivation | Green Revolution / FAO | Von Thünen (awareness)
 
 </details>
 
-> **Sources baked in:** Lucent world-agriculture match-lists, NCERT Class 12 (primary activities), UPPCS Prelims PYQs 2018–2025  
-> **Exam weight:** ★★★ — plantation vs grain, coffee 2016 Brazil–Vietnam, cocoa West Africa, Kerala rubber, shifting names, citrus = Mediterranean  
-> **Last verified:** August 2026  
+> **Sources baked in:** Lucent world-agriculture match-lists; NCERT Class 12 (primary activities); coaching crop-belt map; UPPCS Prelims 2018–2025  
+> **Exam weight:** ★★★ — plantation vs grain, coffee 2016 Brazil–Vietnam, cocoa West Africa, Kerala rubber, shifting names, citrus = Mediterranean; teach full systems map  
+> **Last verified:** August 2026 — coaching gap-pass (Von Thünen, producer≠exporter, soybean, milk)  
 > **Current Affairs:** none mandatory (producer ranks freeze to the PYQ year when the paper quotes a year)
 
 ---
@@ -20,6 +20,8 @@ Agriculture | Plantation Crops | Tea | Coffee | Cocoa | Rubber | Shifting Cultiv
 
 ```
 SYSTEMS: intensive wet-rice (monsoon Asia) | extensive wheat (Prairie/Pampas/Downs/steppe)
+ Von Thünen (awareness): market rings — dairy/veg near city → wood → intensive → grain → ranching outer
+ SOY: USA–Brazil–Argentina export triangle | MILK volume = India (domestic)
  plantation (tropics, estate, export) | Med (citrus/vine/olive) | dairy (NW Europe/NZ)
  mixed (W Europe + US Midwest) | shifting (humid tropics) | ranching (Pampas/Prairie/Veld/Downs)
 PLANTATION: estate + capital + monoculture + hired labour + export
@@ -33,7 +35,7 @@ OIL PALM: Indonesia + Malaysia | OLIVE: Spain/Italy/Greece (Med)
 TEA: 20–30°C, 150–300 cm, slope, acid soil, 2 leaves + a bud
  China volume | India Assam+Darjeeling+Nilgiri | Kenya exporter | Ceylon = Sri Lanka
  Black = fermented (India/SL/Kenya); green = unfermented (China/Japan)
-COFFEE: 2016 Brazil > Vietnam > Colombia > Indonesia (2018 = C,B,A,D)
+COFFEE: freeze 2016 paper — Brazil > Vietnam > Colombia > Indonesia
  Brazil arabica + Terra Roxa | Vietnam robusta #2 | shade, 15–28°C, no frost
 COCOA: origin Amazon; crop = Côte d’Ivoire + Ghana + Cameroon | Latvia NOT (2021)
 RUBBER: Hevea Amazon → SE Asia (Wickham) | Thailand/Indonesia/Vietnam/Malaysia
@@ -67,17 +69,46 @@ CITRUS world belt = Mediterranean, not equatorial (2020)
 | Black tea vs green tea | Black = **fermented**; green = **not** | Swapped | काली / हरी चाय |
 | Philippines cane | **Spanish and Americans** | Dutch (Indonesia) / British | फिलीपींस |
 | Intensive vs extensive | Intensive = small + labour + monsoon rice; extensive = huge + machines + Prairie wheat | Swapped | सघन / विस्तृत |
+| Producer vs exporter (coffee/tea) | Brazil coffee #1 volume; Kenya often tea **exporter** story | Same word | |
+| Soybean triangle | **USA–Brazil–Argentina** | Only India | सोया |
+| Milk volume vs dairy export | India = milk **volume**; NZ/Netherlands = **export** dairy | India = cheese ship king | दूध |
+| Von Thünen vs Whittlesey | Thünen = **distance rings** from market; Whittlesey = **world type map** | Same theory | |
 
 ---
 
 ## Memory Tricks
 
-- **Tea on the slope. Wheat on the plain. That is why tea is the plantation MCQ.**
-- **Coffee cup 2016: Brazil, then Vietnam, then Colombia, then Indonesia.**
-- **Cocoa is West African. Latvia grows forests, not cocoa.**
-- **Kinta is tin. Kerala is rubber. Wickham carried Hevea out of the Amazon.**
-- **Ladang–Malaysia, milpa–Mexico, roca–Brazil, jhum–NE India, chena–Sri Lanka.**
-- **China fills the bowl. Thailand/Vietnam/Canada fill the ship.** (producer ≠ exporter)
+| Trick | Remembers |
+|-------|-----------|
+| **Tea on the slope · wheat on the plain** | Tea = plantation MCQ; grains ≠ plantation |
+| **Coffee 2016: Brazil → Vietnam → Colombia → Indonesia** | Freeze the paper year |
+| **Cocoa = West Africa · Latvia = trap** | Côte d’Ivoire + Ghana + Cameroon |
+| **Kinta = tin · Kerala = rubber · Wickham = Amazon → SE Asia** | Rubber story |
+| **Ladang–MY · milpa–MX · roca–BR · jhum–NE · chena–SL · caingin–PH** | Shifting names |
+| **China fills the bowl · Thailand/Vietnam/Canada fill the ship** | Producer ≠ exporter |
+| **Five Med west coasts** | Citrus / vine / olive |
+| **USA–Brazil–Argentina = soy** | Export triangle |
+| **India milk volume · NZ dairy export** | Do not swap |
+| **Thünen = rings · Whittlesey = world types** | Two different maps |
+
+---
+
+## N.0 Framework — World Agriculture
+
+This chapter links **farming systems** to **crop belts** and **producer ≠ exporter** traps.
+
+- First lock the **system** (intensive / extensive / plantation / Med / dairy / ranching / shifting).
+- Then lock the **crop climate** and the **country rank the paper froze** (e.g. coffee 2016).
+- **Whittlesey** is the world-type map; **Von Thünen** is the ideal market-distance ring model — do not merge them.
+- India crop detail lives in Topic 06 — here keep only world locks that sneak into Prelims (Kerala rubber, Assam tea, Philippines cane).
+
+**Order of this chapter**
+
+1. Systems + Whittlesey (+ Von Thünen awareness).
+2. Cereals → fibres / sugar / oilseeds.
+3. Plantation crops (tea, coffee, cocoa, rubber) + livestock + shifting + FAO/GR.
+
+Teach the **full systems map** — next year can ask any Lucent crop belt, not only tea or coffee.
 
 ---
 
@@ -130,9 +161,9 @@ Agriculture = primary activity that raises crops and/or animals. Exam first spli
 | **Apiculture** | Bees / honey |
 | **Floriculture** | Flowers (Netherlands auction fame) |
 
-> **Exam note:** 2024 “predominantly plantation” → **Tea**. Wheat, rice, maize are field grains. 2020 citrus world belt → **Mediterranean**, not equatorial and not Kangra/Pir Panjal as the *world* answer.
+Plantation MCQ lock = **Tea** (not wheat / rice / maize). World citrus belt = **Mediterranean**, not equatorial and not Kangra / Pir Panjal as the *world* answer.
 
-**PYQ — UPPCS Prelims 2024, Q34**
+**Inline PYQ — UPPCS Prelims 2024, Q34**
 
 Which of the following crops is predominantly grown under plantation agriculture?
 
@@ -153,7 +184,7 @@ D. Maize
 
 </details>
 
-**PYQ — UPPCS Prelims 2020, Q72**
+**Inline PYQ — UPPCS Prelims 2020, Q72**
 
 In which of the following regions of the world, the production of citrus fruits is well developed?
 
@@ -205,6 +236,13 @@ Derwent **Whittlesey (1936)** — standard 13-type world map. Learn **region + c
 | 3 | Central Chile |
 | 4 | Cape of South Africa |
 | 5 | SW Australia (Perth side) |
+
+**Von Thünen model (awareness — NCERT / coaching)**
+
+- Ideal isolated state: one market town, flat plain, uniform soil, farmers maximise rent.
+- **Rings from the city outward (classic teaching order):** intensive dairy / vegetables / flowers → **forestry** (bulky wood) → intensive field crops → extensive **grain** → **livestock ranching** on the outer margin.
+- Distance cost decides the crop — not Whittlesey’s climate-region names.
+- Real world breaks the rings (climate, relief, government, refrigerated transport), but the **logic** still appears in Prelims theory stems.
 
 ---
 
@@ -336,7 +374,7 @@ Ranks **move**. Freeze a year only when the paper quotes it. Learn **climate + b
 | West Africa | Cocoa | Shifted from Amazon after colonial planting |
 | Brazil | Coffee | Portuguese / highland Terra Roxa |
 
-**PYQ — UPPCS Prelims 2022, Q142**
+**Inline PYQ — UPPCS Prelims 2022, Q142**
 
 Which one of the following is correctly matched?
 
@@ -357,7 +395,7 @@ D. Assam — Wheat
 
 </details>
 
-**PYQ — UPPCS Prelims 2023, Q64**
+**Inline PYQ — UPPCS Prelims 2023, Q64**
 
 To whom does the credit go for the development of coconut and sugarcane agriculture in the Philippines?
 
@@ -417,11 +455,9 @@ D. Spanish and Americans
 | **Robusta** (*C. canephora*) | Stronger, more caffeine, hardier, lower altitude | **Vietnam**, Uganda, lowland tropics |
 | **Liberica** | Awareness only | W Africa pockets |
 
-**2016 quantity (UPPCS 2018 Q28) — freeze this order:**
+**2016 quantity (freeze this paper order):**
 
 **Brazil > Vietnam > Colombia > Indonesia**
-
-Codes: A Colombia, B Vietnam, C Brazil, D Indonesia → **C, B, A, D**.
 
 | Country | Extra lock |
 |---------|------------|
@@ -434,7 +470,7 @@ Codes: A Colombia, B Vietnam, C Brazil, D Indonesia → **C, B, A, D**.
 
 **Coffee rust** (*Hemileia vastatrix*) = famous plantation disease (Ceylon tea-shift story in older books).
 
-**PYQ — UPPCS Prelims 2018, Q28**
+**Inline PYQ — UPPCS Prelims 2018, Q28**
 
 Arrange the following coffee producing countries in descending order of their coffee production (2016, quantity) and select the correct answer from the codes given below:
 
@@ -477,7 +513,7 @@ Trap **D** puts Colombia second. Trap **C** starts with Vietnam.
 | Indonesia, Ecuador, Brazil | New World / SE Asia awareness |
 | **Latvia** | **NOT** a cocoa country (2021) — Baltic **temperate forest**, not equator |
 
-**PYQ — UPPCS Prelims 2021, Q45**
+**Inline PYQ — UPPCS Prelims 2021, Q45**
 
 Which one of the following is NOT a major coco producer country?
 
@@ -520,7 +556,7 @@ D. Ivory Coast
 
 **Kinta Valley (Malaysia)** = **tin** mining, **not** rubber/tea/coffee (2020 Q88). Rubber in Malaysia is the peninsula estate belt, not that valley name.
 
-**PYQ — UPPCS Prelims 2020, Q88**
+**Inline PYQ — UPPCS Prelims 2020, Q88**
 
 In Malaysia, the 'Kinta Valley' is famous for
 
@@ -566,7 +602,7 @@ Ranching is **commercial**. Nomadic herding is **subsistence**. Do not dump both
 |------|------|
 | **Cattle numbers** | **India** often #1 inventory; then Brazil, China, USA |
 | **Beef export** | Brazil, Australia, USA — **not** “India exports most beef because it has most cattle” as a blind lock |
-| **Dairy** | **India** = largest **milk** volume (domestic). **NZ**, Netherlands, Denmark = commercial **export** dairy |
+| **Dairy** | **India** = largest **milk** volume (domestic). **NZ**, Netherlands, Denmark = commercial **export** dairy. Do not treat India as the cheese-ship king |
 | **Sheep / wool** | **Australia** (Merino) + China + NZ. Wool ≠ cotton |
 | **Pigs** | **China** |
 | **Ranching map** | Pampas cattle, Australian Downs sheep, Veld, W USA |
@@ -630,9 +666,9 @@ India’s state-wise GR belt (Punjab–Haryana–W UP) is an India-agriculture l
 
 ---
 
-## Consolidated — Must-Score Locks
+## Consolidated — 20 Must-Score Locks
 
-1. Plantation crop in the 2024 MCQ = **Tea**, not wheat/rice/maize.
+1. Plantation crop in the plantation MCQ = **Tea**, not wheat/rice/maize.
 2. Coffee 2016: **Brazil > Vietnam > Colombia > Indonesia**.
 3. Cocoa majors = Ivory Coast, Ghana, Cameroon; **Latvia NO**. Origin Amazon.
 4. Rubber India = **Kerala**. Origin Amazon (Wickham → SE Asia). Kinta = **tin**.
@@ -647,10 +683,18 @@ India’s state-wise GR belt (Punjab–Haryana–W UP) is an India-agriculture l
 13. Black tea = fermented; green = not. Pluck = two leaves and a bud.
 14. IRRI = Philippines. Borlaug Nobel = **Peace**. FAO = Rome.
 15. Banana: India produces; Ecuador ships. Silk/wool: China volume; Australia Merino.
+16. Soy export triangle = USA–Brazil–Argentina; oil palm = Indonesia + Malaysia.
+17. India = milk volume; NZ/Netherlands = dairy export story.
+18. Von Thünen = market rings; Whittlesey = 13 world types — do not merge.
+19. Five Med west coasts = citrus / vine / olive world belt.
+20. Freeze coffee ranks only when the paper quotes a year (2016 lock above).
 
 ---
 
-## Practice Zone — 50 Questions (2025 Pattern Mix)
+## Practice Zone — UPPCS Format Questions
+
+> **Answers hidden** — click **Show answer** under each question to reveal.  
+> **Format mix:** 65 questions — Match List | multi-statement | Assertion–Reason | NOT correctly matched | direct recall (PYQ + coaching gaps)
 
 **Q1.** Crop predominantly grown under plantation agriculture:
 
@@ -1747,6 +1791,286 @@ D. Neither
 
 ---
 
+
+**Q51.** Von Thünen’s model mainly explains agricultural land use by:
+
+A. Only Whittlesey’s 13 climate types
+
+B. Distance / transport cost from a central market
+
+C. Only monsoon rainfall totals
+
+D. Only FAO headquarters location
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q52.** In the classic Von Thünen rings, which activity sits nearest the market?
+
+A. Extensive ranching
+
+B. Intensive dairy / vegetables / flowers
+
+C. Only desert nomadism
+
+D. Only coffee robusta estates
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q53.** Which of the following is/are correctly matched?
+
+1. Whittlesey — world agricultural type regions
+2. Von Thünen — isolated-state market rings
+3. Borlaug — Peace Nobel for HYV wheat work
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+</details>
+
+---
+
+**Q54.** The soybean export triangle in coaching maps is:
+
+A. India–China–Japan only
+
+B. USA–Brazil–Argentina
+
+C. Kenya–Ghana–Latvia
+
+D. Egypt–Sudan–Kerala
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q55.** Assertion (A): India is the world’s largest milk producer by volume.  
+Reason (R): New Zealand is therefore not a dairy exporter.
+
+A. Both A and R are true and R explains A
+
+B. Both A and R are true but R does not explain A
+
+C. A is true but R is false
+
+D. A is false but R is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — India = volume; NZ remains a classic **export** dairy lock.
+</details>
+
+---
+
+**Q56.** Which crop–climate pair is correctly matched?
+
+A. Olive — equatorial Congo basin
+
+B. Oil palm — Mediterranean Spain only
+
+C. Sugar beet — temperate Europe
+
+D. Cocoa — Latvia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+</details>
+
+---
+
+**Q57.** Commercial grain farming in Whittlesey’s map is classically linked to:
+
+A. Only Amazon shifting plots
+
+B. Prairies, Pampas, Downs and steppe wheat belts
+
+C. Only West African cocoa estates
+
+D. Only Japanese wet-rice terraces
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q58.** Which statement about rice is/are correct?
+
+1. China and India are usual high-volume producers.
+2. China is always the classic top rice exporter in Prelims lore.
+3. IRRI is at Los Baños, Philippines.
+
+A. 1 and 2 only
+
+B. 1 and 3 only
+
+C. 2 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Exporters are often Thailand / Vietnam / India; China largely consumes its crop.
+</details>
+
+---
+
+**Q59.** Viticulture means cultivation of:
+
+A. Silk worms
+
+B. Grapes
+
+C. Bees
+
+D. Fish
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q60.** Which shifting-cultivation name is correctly matched?
+
+A. Milpa — Malaysia
+
+B. Ladang — Mexico
+
+C. Roca — Brazil
+
+D. Chena — Philippines
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Milpa = Mexico; ladang = Malaysia; chena = Sri Lanka; caingin = Philippines.
+</details>
+
+---
+
+**Q61.** The five Mediterranean agriculture patches do NOT include:
+
+A. California
+
+B. Central Chile
+
+C. Cape of South Africa
+
+D. Amazon Basin
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+</details>
+
+---
+
+**Q62.** Long-staple cotton is classically associated with:
+
+A. Only Assam hills
+
+B. Egypt / Sudan (and Sea Island type)
+
+C. Only Latvia
+
+D. Only New Zealand
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q63.** Mixed farming means:
+
+A. Only plantation monoculture for export
+
+B. Crops and livestock on the same farm
+
+C. Only shifting slash-and-burn
+
+D. Only nomadic camel herding
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q64.** World Food Day is observed on:
+
+A. 5 June
+
+B. 16 October
+
+C. 22 April
+
+D. 1 December
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — FAO lock; HQ Rome.
+</details>
+
+---
+
+**Q65.** Which pair is NOT correctly matched?
+
+A. Sericulture — silk
+
+B. Apiculture — bees
+
+C. Pisciculture — fish
+
+D. Viticulture — tea estates
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Viticulture = **grapes**.
+</details>
+
+---
+
 ## Complete PYQ Bank
 
 **Instructions:** Answers under `<details>`. Options sit on separate lines.
@@ -1988,3 +2312,7 @@ None mandatory. If a paper quotes a **year** (e.g. 2016 coffee), freeze **that**
 18. **Green tea = fermented** — FALSE. **Black** is fermented.
 19. **India = banana export king because it produces most** — FALSE. **Ecuador** ships; India eats.
 20. **Ranching = nomadic herding** — FALSE. Ranching is **commercial**.
+21. **Von Thünen = Whittlesey** — FALSE. Rings vs world-type map.
+22. **India = dairy export king because milk volume #1** — FALSE. Volume ≠ NZ/Netherlands export story.
+23. **Soy = only Asian crop belt** — FALSE. USA–Brazil–Argentina triangle.
+24. **Skip systems because papers asked tea/coffee** — FALSE. Next year can ask any Lucent system or crop belt.

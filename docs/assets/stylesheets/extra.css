@@ -393,6 +393,18 @@ html { font-size: 100%; }
 .md-typeset .study-mcq__match th {
   background: color-mix(in srgb, var(--md-primary-fg-color) 88%, #000);
 }
+.md-typeset .study-mcq table {
+  width: 100%;
+  margin: .5rem 0 .75rem;
+  font-size: .84rem;
+}
+.md-typeset .study-mcq .md-typeset__scrollwrap {
+  margin: .5rem 0 .75rem;
+}
+.md-typeset .study-mcq blockquote {
+  margin: .35rem 0 .7rem;
+  font-size: .82rem;
+}
 
 .md-typeset .study-mcq__options {
   display: grid;

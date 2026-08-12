@@ -17,9 +17,9 @@
 
 </details>
 
-> **Sources baked in:** Lucent UP geography, Census **2011** (frozen), ISFR 2023 forest MCQ, UPPCS Prelims 2018–2025  
-> **Exam weight:** ★★★★ — Dudhwa district, Ramsar NOT-in-UP, Devipatan, Lalitpur, potato, soils Mar/Kabar  
-> **Last verified:** August 2026  
+> **Sources baked in:** Lucent UP geography; Census **2011** (frozen); ISFR 2023 forest MCQ; ForumIAS / LotusArise UP coaching map; UPPCS Prelims 2018–2025  
+> **Exam weight:** ★★★★ — Dudhwa district, Ramsar NOT-in-UP, Devipatan, Lalitpur, potato, soils Mar/Kabar; teach full UP physical–human map  
+> **Last verified:** August 2026 — coaching gap-pass (district extremes, rain Gorakhpur/Mathura, tubewell dark zones, Saryu Canal)  
 > **Current Affairs:** UP Ramsar **13** (Surha Tal / JP Narayan BS, Ballia = India’s 100th, 5 Jun 2026); CIP potato centre = **Agra (Singna)**, not Aligarh
 
 ---
@@ -29,6 +29,7 @@
 ```
 UP: 24 Jan 1950 name | most populous | 4th area | 75 districts | 18 divisions | Lko / HC Prayagraj
  Neighbours UK HR DL RJ MP CG JH BR + Nepal only | Tropic of Cancer does NOT cross UP
+ EXTREMES: N Saharanpur | S Sonbhadra | E Ballia | W Shamli | rain high Gorakhpur · low Mathura
  UK carved 9 Nov 2000 | Nepal-border 7: Pilibhit Kheri Bahraich Shravasti Balrampur Siddharthnagar Maharajganj
 REGIONS: Bhabar pebbles | Terai marshy fertile | Doab Ganga–Yamuna GR
  Awadh Gomti–Ghaghara | Rohilkhand Ramganga | Bundelkhand drought Mar/Kabar black Parua/Rakar red
@@ -36,7 +37,8 @@ REGIONS: Bhabar pebbles | Terai marshy fertile | Doab Ganga–Yamuna GR
 SOIL ~90% alluvial | Usar W–central | Bhonta Vindhyan | ravines Agra–Etawah–Jalaun
 RIVERS: Ramganga@Kannauj | Betwa@Hamirpur NOT Prayagraj | Yamuna right W→E Chambal–Sind–Betwa–Ken
  Gomti origin Pilibhit; Lucknow; 2018 pollution | Ghaghara=Saryu Ayodhya | Rapti Gorakhpur
-CANAL: Upper Ganga / Lower Ganga Narora / Sharda / E Yamuna / Agra / Sarda Sahayak
+CANAL: Upper Ganga / Lower Ganga Narora / Sharda / E Yamuna / Agra / Sarda Sahayak | Saryu Canal = E UP
+ IRRIGATION: tubewells dominant (~¾) | western UP dark-zone groundwater pressure
  DAM: Matatila Betwa Lalitpur | Rihand Sonbhadra | Badua NOT UP | Ken–Betwa NPP Bundelkhand
  POWER: Narora nuclear | Obra Anpara Rihand thermal | E-UP hydro blocked by Nepal Himalaya (2025 both)
 CROP: wheat+cane quantity #1 | potato #1 CIP Agra | rice east | NOT jute/tea/rubber | mentha Rohilkhand
@@ -83,20 +85,47 @@ NER Gorakhpur | NW-1 | Kushinagar intl 24 Jun 2020 | Amrit Bharat 149 | no seapo
 | HINDALCO | **Renukoot, Sonbhadra** | Kanpur leather | रेणुकूट |
 | UP–Jute | **Wrong** | WB is jute | जूट ≠ UP |
 | Chambal Sanctuary | **UP–MP–RJ** | Haryana | चंबल ≠ हरियाणा |
+| Rain high vs low | **Gorakhpur** wetter · **Mathura** drier | Swap | गोरखपुर / मथुरा |
+| Extremes N/S/E/W | Saharanpur / Sonbhadra / Ballia / Shamli | Swap Ballia–Sonbhadra | सीमा ज़िले |
+| Tubewell vs canal | Tubewells **dominant**; west dark-zone pressure | Only canals everywhere | नलकूप |
 
 ---
 
 ## Memory Tricks
 
-- **One National Park. Kheri. Dudhwa.**
-- **Chandraprabha is Chandauli, not the Sonbhadra plateau.**
-- **Six percent forest. Not twelve-point-eight.**
-- **Rudrasagar is Tripura. Sultanpur is Haryana. Don’t throw out Sarsai Nawar.**
-- **Devipatan sits on Bahraich–Balrampur–Gonda–Shravasti. Basti has its own division.**
-- **Potato is Agra, not Aligarh.**
-- **Ramganga at Kannauj. Betwa at Hamirpur. Not the sangam.**
-- **Chambal–Sind–Betwa–Ken going east.**
-- **NER = Gorakhpur. Kushinagar = 24 June 2020. Amrit = 149.**
+| Trick | Remembers |
+|-------|-----------|
+| **One NP · Kheri · Dudhwa** | Only National Park |
+| **Chandraprabha = Chandauli** | Not Sonbhadra |
+| **Forest ≈ 6% · not 12.8%** | ISFR trap |
+| **Rudrasagar Tripura · Sultanpur Haryana · keep Sarsai Nawar** | Ramsar NOT-UP |
+| **Devipatan = Bahraich–Balrampur–Gonda–Shravasti** | Not Basti |
+| **Potato = Agra CIP · not Aligarh** | Crop centre |
+| **Ramganga @ Kannauj · Betwa @ Hamirpur** | Not Prayagraj sangam |
+| **Chambal → Sind → Betwa → Ken** | Yamuna right bank W→E |
+| **NER = Gorakhpur · Kushinagar 24 Jun 2020 · Amrit 149** | Transport locks |
+| **N Saharanpur · S Sonbhadra · E Ballia · W Shamli** | District extremes |
+| **Rain: Gorakhpur wet · Mathura dry** | Climate gradient |
+
+---
+
+## N.0 Framework — Geography of Uttar Pradesh
+
+This is the **state special** map chapter. Prelims mixes physical belts, rivers, soils, forests/PA, and admin extremes.
+
+- Lock **location frame** first (neighbours, Tropic ≠ UP, 75 districts / 18 divisions, UK split).
+- Then lock **physiography** (Bhabar–Terai–Doab–Awadh–Rohilkhand–Bundelkhand–Purvanchal–Vindhyan) with one crop/soil tag each.
+- Rivers need **confluence town** and Yamuna right-bank order — not kilometre fights.
+- Forests/PA: **one NP**, named TRs, Ramsar list + NOT-in-UP traps.
+- Census ranks stay on **2011** until the next census freeze.
+
+**Order of this chapter**
+
+1. Location → physiography → climate → soils.
+2. Rivers → irrigation / power → agriculture → minerals / industry.
+3. Forests / PA → Ramsar → population / districts → urban / transport.
+
+Teach the **full UP map** — next year can ask any Lucent district extreme or canal, not only Dudhwa or potato.
 
 ---
 
@@ -109,6 +138,7 @@ NER Gorakhpur | NW-1 | Kushinagar intl 24 Jun 2020 | Amrit Bharat 149 | no seapo
 - Neighbours: Uttarakhand, Haryana, Delhi, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, Bihar, and **Nepal**. Only foreign land border = **Nepal**.
 - **Uttarakhand** carved out on **9 November 2000** — UP has **no Himalayan high peaks** after that. **Nanda Devi is Uttarakhand**, not UP.
 - Nepal-border districts (**7**): Pilibhit, Lakhimpur Kheri, Bahraich, Shravasti, Balrampur, Siddharthnagar, Maharajganj.
+- **District extremes (coaching lock):** northernmost **Saharanpur**; southernmost **Sonbhadra**; easternmost **Ballia**; westernmost **Shamli**.
 - **18 divisions:** Agra, Aligarh, Ayodhya, Azamgarh, Bareilly, Basti, Chitrakoot, **Devipatan (Gonda)**, Gorakhpur, Jhansi, Kanpur, Lucknow, Meerut, Mirzapur, Moradabad, Prayagraj, Saharanpur, Varanasi.
 - Census **2011** remains the Prelims freeze until Census 2027.
 - Indus sites **in present UP:** Alamgirpur (Meerut), **Hulas** (Saharanpur), **Mandi** (Muzaffarnagar). **Not** Rakhigarhi (Haryana), Kalibangan (Rajasthan), Lothal (Gujarat).
@@ -175,6 +205,8 @@ NER Gorakhpur | NW-1 | Kushinagar intl 24 Jun 2020 | Amrit Bharat 149 | no seapo
 **Type:** Tropical monsoon; more **continental** in the west, more humid in the east
 
 - Rainfall rises **west → east** (roughly 60–80 cm in the west doab to 100–140 cm in the east/Terai). Bay of Bengal arm is the main monsoon feed.
+- Classic name locks: **highest rainfall belt ≈ Gorakhpur**; **lowest ≈ Mathura** (do not swap).
+- Köppen teaching tag for the Gangetic plain = **Cwg** (monsoon, dry winter) — awareness, not an essay.
 - Hottest belt: south-west (Jhansi–Banda–Agra). Loo in May–June on the western plain.
 - Winter **western disturbances** = rabi wheat in the doab. Fog in the central–east plain.
 - After UK’s creation, UP has **no alpine/snow climate**. Terai is wetter and more malarial than the doab.
@@ -197,6 +229,31 @@ NER Gorakhpur | NW-1 | Kushinagar intl 24 Jun 2020 | Amrit Bharat 149 | no seapo
 
 ---
 
+
+**Inline PYQ — UPPCS Prelims (Bundelkhand soils)**
+
+Which of the following is/are correctly matched for Bundelkhand soils?
+
+1. Mar / Kabar — black
+2. Parua / Rakar — red
+3. Usar — fixed by lime alone
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Usar needs **gypsum + drainage**, not lime alone.
+</details>
+
+---
+
 ## N.5 Rivers and tributaries
 
 **Master streams:** Ganga and Yamuna. Ganga enters the Bijnor belt, leaves after Ghazipur/Ballia into Bihar. Yamuna is the western border, then Mathura–Agra–Etawah to Prayagraj **sangam**.
@@ -208,7 +265,7 @@ NER Gorakhpur | NW-1 | Kushinagar intl 24 Jun 2020 | Amrit Bharat 149 | no seapo
 - **Ghaghara / Saryu** — Ayodhya. **Rapti** — Gorakhpur; joins Ghaghara.
 - **Gandak** — eastern fringe (Kushinagar–Deoria side).
 
-**Yamuna right bank, west → east:** **Chambal → Sind → Betwa → Ken** (2020 code 4, 3, 1, 2 if numbered Betwa, Ken, Sindh, Chambal).
+**Yamuna right bank, west → east:** **Chambal → Sind → Betwa → Ken**.
 
 - **Betwa** joins Yamuna at **Hamirpur**, **not Prayagraj** (2023). **Ken** joins near **Banda**.
 - **Hindon** = Yamuna **left**-bank (west UP / NCR).
@@ -222,11 +279,33 @@ NER Gorakhpur | NW-1 | Kushinagar intl 24 Jun 2020 | Amrit Bharat 149 | no seapo
 
 ---
 
+
+**Inline PYQ — UPPCS Prelims (Yamuna right bank)**
+
+Correct west → east order of Yamuna right-bank tributaries in UP is:
+
+A. Chambal → Sind → Betwa → Ken
+
+B. Ken → Betwa → Sind → Chambal
+
+C. Betwa → Chambal → Ken → Sind
+
+D. Sind → Ken → Chambal → Betwa
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+</details>
+
+---
+
 ## N.6 Irrigation, canals, dams, power
 
 **Identity:** Canal + tube-well state. West = more tube-well; east = more canal/rain.
 
-- **Upper Ganga Canal** — from Haridwar into west UP. **Lower Ganga Canal** — from **Narora**. **Eastern Yamuna Canal**. **Agra Canal** (Okhla). **Sharda Canal** (Banbasa). **Sarda Sahayak**. Ramganga command. Gandak canals in the east. Ken / Betwa canals in Bundelkhand.
+- **Tubewells** dominate irrigation share (often quoted near **three-fourths**). Western UP faces **groundwater dark-zone / over-exploitation** pressure — do not write “only canals everywhere”.
+- **Upper Ganga Canal** — from Haridwar into west UP. **Lower Ganga Canal** — from **Narora**. **Eastern Yamuna Canal**. **Agra Canal** (Okhla). **Sharda Canal** (Banbasa). **Sarda Sahayak**. **Saryu Canal National Project** — eastern UP command (Ayodhya–Purvanchal belt). Ramganga command. Gandak canals in the east. Ken / Betwa canals and **Arjun Sahayak** awareness in Bundelkhand.
 - **Dams in UP:** **Matatila** and **Rajghat** on Betwa (Lalitpur / MP border). **Parichha** (Jhansi, Betwa). **Rihand / GB Pant Sagar** (Sonbhadra). Obra barrage. **Meja** (Prayagraj). Maudaha (Hamirpur). **Adwa, Baghelkhand, Ahraura** = UP (2022). **Badua is NOT in UP** (Bihar).
 - **Ken–Betwa link** — only National Perspective Plan link under implementation; **Bundelkhand MP–UP**; Daudhan dam; Panna TR submergence.
 - **Narora** — **nuclear**, Bulandshahr. **Obra, Anpara, Rihand** — thermal, Sonbhadra. Tanda (Ambedkar Nagar), Panki (Kanpur), Harduaganj (Aligarh) = thermal awareness.
@@ -288,6 +367,27 @@ NER Gorakhpur | NW-1 | Kushinagar intl 24 Jun 2020 | Amrit Bharat 149 | no seapo
 
 ---
 
+
+**Inline PYQ — UPPCS Prelims (Dudhwa lock)**
+
+Dudhwa National Park lies in which district?
+
+A. Bahraich
+
+B. Lakhimpur Kheri
+
+C. Pilibhit
+
+D. Sitapur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Only National Park in UP. Pilibhit is a **Tiger Reserve**, not an extra NP.
+</details>
+
+---
+
 ## N.10 Wetlands / Ramsar
 
 **UP total 13** (June 2026). India’s **100th** = **Surha Tal / JP Narayan Bird Sanctuary, Ballia** (5 Jun 2026; sanctuary since 1991).
@@ -315,6 +415,27 @@ NER Gorakhpur | NW-1 | Kushinagar intl 24 Jun 2020 | Amrit Bharat 149 | no seapo
 
 ---
 
+
+**Inline PYQ — UPPCS Prelims (Devipatan)**
+
+Devipatan Division headquarters is at:
+
+A. Basti
+
+B. Gonda
+
+C. Gorakhpur
+
+D. Bahraich
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Districts = Gonda, Bahraich, Shravasti, Balrampur. Basti has its **own** division.
+</details>
+
+---
+
 ## N.12 Urban centres, transport, smart cities
 
 **Cities:** Lucknow (capital; first UP Smart City, May 2016), Kanpur (industry; first million, 1971), Prayagraj (sangam / High Court), Varanasi, Agra, Meerut, Ghaziabad–Noida (NCR), Bareilly, Aligarh, Moradabad, Gorakhpur, Jhansi.
@@ -328,7 +449,7 @@ NER Gorakhpur | NW-1 | Kushinagar intl 24 Jun 2020 | Amrit Bharat 149 | no seapo
 
 ---
 
-## Consolidated — Must-Score Locks
+## Consolidated — 20 Must-Score Locks
 
 1. Only NP = **Dudhwa, Lakhimpur Kheri**. Chandraprabha = **Chandauli**. Katarniaghat = **1975**, Bahraich. Amangarh = Bijnor TR. Ranipur = Chitrakoot TR.
 2. Forest ≠ 12.8%. Jaunpur–Ghazipur–Ballia ≈ no forest land. ISFR 2023 >20% = **Chandauli + Shravasti**.
@@ -340,10 +461,23 @@ NER Gorakhpur | NW-1 | Kushinagar intl 24 Jun 2020 | Amrit Bharat 149 | no seapo
 8. Potato #1; CIP = **Agra**. UP ≠ jute/tea/rubber. Mentha = Rohilkhand.
 9. Shrawasti = lowest female literacy 2011. Hapur = smallest among 2021 four. Kanpur > Lucknow > Ghaziabad > Agra. UP Day = **24 January**.
 10. Central Smart Cities **10**; Ghaziabad out. NER = Gorakhpur. Kushinagar intl **24 Jun 2020**. Amrit Bharat **149**. HRIDAY = Varanasi + Mathura.
+11. Extremes: N **Saharanpur** · S **Sonbhadra** · E **Ballia** · W **Shamli**.
+12. Rain name locks: **Gorakhpur** high · **Mathura** low.
+13. Tubewells dominate; western UP groundwater **dark-zone** pressure.
+14. Saryu Canal National Project = eastern UP; Ken–Betwa = Bundelkhand NPP.
+15. Bangar = old alluvium (kankar); Khadar = new floodplain.
+16. Sonbhadra = energy capital; Shankargarh silica → Firozabad glass; Renukoot = HINDALCO Al.
+17. State animal = swamp deer; state bird = Sarus crane.
+18. Tropic of Cancer does **not** cross UP; Nanda Devi is **Uttarakhand**.
+19. Census ranks freeze on **2011** until the next census.
+20. Skip only PYQ stems — next year can ask any Lucent UP district, canal, or soil name.
 
 ---
 
-## Practice Zone — 50 Questions (2025 Pattern Mix)
+## Practice Zone — UPPCS Format Questions
+
+> **Answers hidden** — click **Show answer** under each question to reveal.  
+> **Format mix:** 65 questions — Match List | multi-statement | Assertion–Reason | NOT correctly matched | direct recall (PYQ + coaching gaps)
 
 **Q1.** Dudhwa National Park is in:
 
@@ -1434,6 +1568,291 @@ D. Bahraich was an ISFR 2023 >20% district with Chandauli
 
 ---
 
+
+**Q51.** Which district extreme is correctly matched?
+
+A. Northernmost — Ballia
+
+B. Southernmost — Sonbhadra
+
+C. Easternmost — Shamli
+
+D. Westernmost — Saharanpur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — N Saharanpur · S Sonbhadra · E Ballia · W Shamli.
+</details>
+
+---
+
+**Q52.** Highest vs lowest rainfall name locks in UP coaching maps are:
+
+A. Mathura highest · Gorakhpur lowest
+
+B. Gorakhpur higher · Mathura lower
+
+C. Both equal desert rainfall
+
+D. Only Sonbhadra receives monsoon
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q53.** Which statement about UP irrigation is/are correct?
+
+1. Tubewells dominate share in many coaching figures.
+2. Western UP faces groundwater over-exploitation / dark-zone pressure.
+3. Saryu Canal National Project serves eastern UP.
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+</details>
+
+---
+
+**Q54.** Bangar soil is:
+
+A. New floodplain khadar only
+
+B. Old alluvium, often with kankar
+
+C. Only Bundelkhand Mar black
+
+D. Only Vindhyan Bhonta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q55.** Assertion (A): Dudhwa is UP’s only National Park.  
+Reason (R): Pilibhit is therefore not a protected area of any kind.
+
+A. Both A and R are true and R explains A
+
+B. Both A and R are true but R does not explain A
+
+C. A is true but R is false
+
+D. A is false but R is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Pilibhit is a **Tiger Reserve**.
+</details>
+
+---
+
+**Q56.** Which pair is NOT correctly matched?
+
+A. CIP potato centre — Singna, Agra
+
+B. IRRI-SARC rice centre — Varanasi
+
+C. HINDALCO aluminium — Renukoot, Sonbhadra
+
+D. NER headquarters — Hajipur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — NER = **Gorakhpur**.
+</details>
+
+---
+
+**Q57.** State animal and state bird of UP are:
+
+A. Tiger and peacock
+
+B. Swamp deer (barasingha) and Sarus crane
+
+C. Elephant and sparrow
+
+D. Blackbuck and bulbul only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q58.** Which of the following is/are correctly matched?
+
+1. Moradabad — brass
+2. Aligarh — locks
+3. Firozabad — glass
+4. Bhadohi — carpets
+
+A. 1, 2 and 3 only
+
+B. 2, 3 and 4 only
+
+C. 1, 3 and 4 only
+
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+</details>
+
+---
+
+**Q59.** Köppen tag commonly taught for the UP Gangetic plain is:
+
+A. Af equatorial only
+
+B. Cwg (monsoon, dry winter) awareness
+
+C. ET tundra
+
+D. BW absolute desert for whole UP
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q60.** Which canal / project is correctly matched?
+
+A. Lower Ganga Canal head — Narora
+
+B. Saryu Canal — only western Mathura dark zones
+
+C. Badua dam — Sonbhadra UP
+
+D. Matatila — Ganga at Kannauj
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Badua ≠ UP; Matatila = Betwa / Lalitpur; Saryu = eastern UP.
+</details>
+
+---
+
+**Q61.** Westernmost district among the coaching extremes is:
+
+A. Ballia
+
+B. Shamli
+
+C. Sonbhadra
+
+D. Maharajganj
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q62.** Which statement is correct?
+
+A. Tropic of Cancer passes through Lucknow
+
+B. Tropic of Cancer does not pass through UP
+
+C. Nanda Devi is inside present UP
+
+D. UP has a seaport at Ballia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q63.** Which of the following is/are correctly matched?
+
+1. Hastinapur WS — Meerut–Bijnor–Amroha belt
+2. Chandraprabha WS — Chandauli
+3. Katarniaghat — Bahraich
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+</details>
+
+---
+
+**Q64.** Mentha (mint) belt in UP is classically:
+
+A. Only Sonbhadra plateau
+
+B. Rohilkhand
+
+C. Only Chambal ravines
+
+D. Only Ballia forest
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q65.** Which pair is NOT correctly matched?
+
+A. Lakhimpur Kheri — largest area (standard lock)
+
+B. Shrawasti — lowest female literacy 2011
+
+C. Hapur — smallest among the 2021 four options
+
+D. Devipatan — Basti headquarters
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Devipatan HQ = **Gonda**.
+</details>
+
+---
+
 ## Complete PYQ Bank
 
 **Instructions:** Answers under `<details>`. Options on separate lines.
@@ -2269,3 +2688,7 @@ D. Rajasthan
 27. **Gomti rises at Lucknow** — FALSE. **Pilibhit**.
 28. **Pilibhit / Amangarh / Ranipur = extra National Parks** — FALSE. **Tiger Reserves**.
 29. **Usar remedy = lime** — FALSE. **Gypsum + drainage**. Lime is for acid soils.
+30. **Rain: Mathura highest / Gorakhpur lowest** — FALSE. Swap those name locks.
+31. **Easternmost = Sonbhadra** — FALSE. E = **Ballia**; S = **Sonbhadra**.
+32. **Irrigation = canals only** — FALSE. Tubewells dominate; west dark-zone pressure.
+33. **Skip non-PYQ UP districts** — FALSE. Next year can ask any Lucent extreme, canal, or soil.

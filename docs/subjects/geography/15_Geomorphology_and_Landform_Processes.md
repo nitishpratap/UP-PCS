@@ -5,11 +5,11 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Rocks — Igneous, Sedimentary, Metamorphic | Rock Cycle | Weathering | Erosion | Deposition | Agents of Erosion (River, Wind, Glacier, Sea) | Fluvial Landforms (Meander, Ox-bow, Floodplain, Levee) | Types of Deltas | Structural Basins | Fault Valley Drainage | Glaciers & Glacial Landforms | Aeolian Landforms | Coastal Landforms
+Endogenic / Exogenic Processes | Rocks — Igneous, Sedimentary, Metamorphic | Rock Cycle | Weathering | Erosion | Deposition | Agents of Erosion | Fluvial Landforms | Drainage Patterns | Types of Deltas | Structural Basins | Fault Valley Drainage | Glacial | Aeolian | Coastal | Karst
 </details>
 
-> **Sources baked in:** NCERT Class 11 (Geomorphic Processes, Landforms), Lucent landform match-lists, UPPCS Prelims 2018–2025  
-> **Exam weight:** ★★★ — trellis, bird’s-foot vs arcuate, moribund Cauvery, Imphal lacustrine, Damodar fault-valley, rock-cycle pairs  
+> **Sources baked in:** NCERT Class 11 (Geomorphic Processes, Landforms), PWOnlyIAS / Drishti geomorphology notes, Lucent landform match-lists, UPPCS Prelims 2018–2025  
+> **Exam weight:** ★★★ — trellis, bird’s-foot vs arcuate, moribund Cauvery, Imphal lacustrine, Damodar fault-valley, rock-cycle pairs; teach full process map  
 > **Last verified:** August 2026  
 > **Current Affairs:** none mandatory (process chapter); Himalayan fossils / delta types stay static
 
@@ -18,6 +18,8 @@ Rocks — Igneous, Sedimentary, Metamorphic | Rock Cycle | Weathering | Erosion 
 ## Quick Revision — Spine Only
 
 ```
+PROCESS: Endogenic = internal (fold, fault, volcano, uplift) | Exogenic = external agents
+ Cycle of erosion (Davis) = structure–process–time | Gradation = degradation + aggradation
 ROCKS: Igneous = primary (granite intrusive / basalt extrusive)
  Bodies: batholith / laccolith / lopolith / phacolith / sill (// beds) / dyke (cuts beds)
  Sed: clastic (cong/breccia/sst/shale) | chemical (lst, gypsum, rock salt) | organic (coal) — fossils
@@ -77,24 +79,53 @@ COAST: Cliff–platform–stack | Spit, bar, tombolo, lagoon | Coral: fringing, 
 | Mesa vs butte | Broad flat cap vs **narrow remnant** | Swapped | मेसा / ब्यूट |
 | Ria vs fjord | Drowned **river** vs drowned **glacier** | Same estuary | रिया / फियोर्ड |
 | Gorge vs canyon | Steep mountain cut vs **arid stair-step** | Always identical | गॉर्ज / कैनियन |
+| Endogenic vs exogenic | Interior build vs surface wear | Same | अंतर्जात / बहिर्जात |
+| Weathering vs denudation | In situ breakdown vs weathering+erosion | Same | अपक्षय ≠ अनाच्छादन |
 
 ---
 
 ## Memory Tricks
 
-- **Folds → trellis. Mississippi → bird’s-foot. Cauvery → moribund.**
-- **Imphal = lake plain, not loess.**
-- **Limestone → marble. Sandstone → quartzite. Granite → gneiss. Shale → slate.**
-- **Barchan horns follow the wind.**
-- **Stalactite holds tight to the ceiling.**
-- **Youth V · Mature meander · Old ox-bow.**
-- **Fault-valley paper = Damodar, not Chambal.**
-- **Sill sleeps with the beds; dyke cuts them.**
-- **Concave cuts; convex builds the point bar.**
+| Trick | Remembers |
+|-------|-----------|
+| **Folds → trellis** | Homogeneous rock → dendritic |
+| **Mississippi → bird’s-foot** | Nile / Ganga → arcuate |
+| **Cauvery → moribund** | Dying / abandoned lobe |
+| **Imphal = lacustrine** | Not loess / glacial |
+| **Limestone → marble · Sandstone → quartzite · Granite → gneiss · Shale → slate** | Metamorphic pairs |
+| **Barchan horns follow the wind** | Point downwind |
+| **Stalactite holds tight to the ceiling** | Stalagmite grows from the floor |
+| **Youth V · Mature meander · Old ox-bow** | Davis fluvial stages |
+| **Fault-valley paper = Damodar** | Chambal = ravines |
+| **Sill sleeps with beds · dyke cuts them** | Concordant vs discordant |
+| **Concave cuts · convex builds** | Meander cliff vs point bar |
+| **Endogenic inside · Exogenic outside** | Build vs wear the land |
+
+---
+
+## N.0 Framework — Geomorphic Processes
+
+Geomorphology studies how landforms are made and destroyed.
+
+- **Endogenic processes** come from Earth’s interior — folding, faulting, volcanism, earthquakes and uplift. They build relief.
+- **Exogenic processes** work at the surface — weathering, mass wasting, erosion, transport and deposition by river, wind, glacier, sea and groundwater. They wear relief down and fill basins.
+- **Gradation** is the overall smoothing of the land: **degradation** (wearing down) plus **aggradation** (building up by deposition).
+- Davis framed a **cycle of erosion** as structure–process–time (youth–mature–old). Penck and King modify the timing, but the landform vocabulary stays exam-useful.
+
+**Order of this chapter**
+
+1. Rocks and the rock cycle supply the raw material.
+2. Weathering prepares material; erosion and deposition move and drop it.
+3. Each agent (fluvial, glacial, aeolian, coastal, karst) leaves a signature landform set.
+4. Structure (folds, faults, basins) steers drainage patterns and valley types.
+
+Teach the **full process map** — next year can ask any standard NCERT agent or pair, not only trellis or Damodar.
 
 ---
 
 ## N.1 Rocks — Igneous, Sedimentary, Metamorphic
+
+Rocks are the solid building material of the crust. Exams ask **class**, **parent–daughter pairs**, and **intrusive body shapes**.
 
 | Class | How formed | Exam rocks |
 |-------|------------|------------|
@@ -112,7 +143,28 @@ COAST: Cliff–platform–stack | Spit, bar, tombolo, lagoon | Coral: fringing, 
 | **Shale / clay** | **Slate** → schist |
 | Bituminous coal | Anthracite / graphite (high grade) |
 
-Himalaya rock–fossil lock (2019 Q11, ): Greater/Himadri **crystalline, fossil-poor**; Lesser = **marine fossils** in sedimentaries; Outer **Shiwalik** = fossils / human remains. All three statements treated **correct**.
+**Inline PYQ — UPPCS Prelims 2019, Q11**
+
+With reference to the Himalaya, which of the following statements is/are correct?
+
+1. The Greater Himalaya / Himadri is largely crystalline and fossil-poor.
+2. The Lesser Himalaya contains marine fossils in sedimentary rocks.
+3. The Outer Himalaya / Shiwalik contains fossils including human remains.
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+</details>
+
 **Igneous — acidic / basic & texture**
 
 | | Acidic (SiO₂ high) | Basic (SiO₂ low) |
@@ -134,7 +186,27 @@ Porphyritic = large crystals in fine groundmass (two-stage cooling). Pegmatite =
 | **Dyke** | Wall that **cuts** bedding (discordant) |
 | Volcanic neck / plug | Filled pipe left standing |
 
-Fissure flood-basalt plateau = **Deccan Trap**. Intertrappean beds = **freshwater**, not sea fossils (2024 Q59). Volcano types: shield, composite, caldera.
+- Fissure flood-basalt plateau = **Deccan Trap**.
+- Intertrappean beds between lava flows are **freshwater**, not marine fossils.
+
+**Inline PYQ — UPPCS Prelims 2024, Q59**
+
+Intertrappean beds of the Deccan Trap are associated with:
+
+A. Marine fossils only
+
+B. Freshwater conditions / fossils
+
+C. Only glacial till
+
+D. Only aeolian dunes
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
 **Sedimentary families**
 
 | Family | Rocks |
@@ -150,19 +222,33 @@ Fossils almost only here. Loess beds = wind silt later lithified.
 
 ## N.2 Rock Cycle
 
-Magma → **igneous** → weathering/erosion/deposition → **sedimentary** → heat/pressure → **metamorphic** → melting → magma. Any class can feed another (igneous can metamorphose; sediment can melt).
+The rock cycle links the three rock classes.
+
+- Magma cools to **igneous** rock.
+- Weathering, erosion and deposition build **sedimentary** rock.
+- Heat and pressure turn existing rock into **metamorphic** rock.
+- Melting returns material to magma.
+- Any class can feed another — igneous can metamorphose, and sediment can melt.
 
 ---
 
 ## N.3 Weathering, Erosion, Deposition
 
+These four words are exam killers if swapped.
+
+- **Weathering** breaks rock **in place** — no travel.
+- **Erosion** detaches and **transports** material by an agent.
+- **Deposition** drops the load when energy falls.
+- **Denudation** is weathering plus erosion lowering the land.
+- **Mass wasting** is gravity movement (creep, slide, fall) without a true transporting stream.
+
 | Term | Lock |
 |------|------|
-| **Weathering** | Breakdown **in place** — no travel |
-| **Erosion** | Detachment + **transport** by an agent |
-| **Deposition** | Agent drops load (slope/energy fall) |
-| **Denudation** | Weathering + erosion lowering the land |
-| **Mass wasting** | Gravity (creep, slide, fall) — landslide process |
+| Weathering | In situ breakdown |
+| Erosion | Pickup + transport |
+| Deposition | Drop of load |
+| Denudation | Weathering + erosion |
+| Mass wasting | Gravity movement |
 
 **Physical / mechanical**
 
@@ -194,6 +280,8 @@ Residual weathered mantle → soils. **Laterite** = intense leaching in tropics.
 
 ## N.4 Agents of Erosion
 
+Exogenic agents sculpt the land. Each has a work method and a signature landform set.
+
 | Agent | Work words | Signature |
 |-------|------------|-----------|
 | **River** | Hydraulic, abrasion/corrasion, attrition, solution; load = traction · saltation · suspension · solution | V-valley → meander → delta |
@@ -206,12 +294,15 @@ Residual weathered mantle → soils. **Laterite** = intense leaching in tropics.
 
 ## N.5 Fluvial Landforms (Davis cycle)
 
+Rivers cut, carry and deposit. Davis stages are a teaching ladder, not a strict clock for every valley.
+
 | Stage | Landforms |
 |-------|-----------|
 | **Youth** | Steep **V-valley**, gorge/canyon, waterfall, rapids, **potholes**, interlocking spurs |
 | **Mature** | **Meander**, slip-off slope + river cliff, **floodplain**, **natural levee**, bluff, widening valley |
 | **Old** | Broad floodplain, **ox-bow** / mortlake / meander scar, yazoo, **delta**, deferred tributary |
 | **Rejuvenation** | Uplift / base-level fall → **knickpoint**, river **terrace**, **incised meander** |
+
 | Form | Lock |
 |------|------|
 | Meander | Loop; **concave** bank = cut (cliff); **convex** = **point bar** / slip-off |
@@ -245,36 +336,95 @@ Residual weathered mantle → soils. **Laterite** = intense leaching in tropics.
 | Resequent | Same direction as consequent, later |
 | Insequent | No obvious control (dendritic on uniform rock) |
 
-**Antecedent** = river older than the uplift it cuts (Himalayan giants). **Superimposed** = inherited from a cover now stripped (**Chambal** type). Concordant drainage follows structure; discordant cuts across it.
-**River capture / piracy:** aggressive **pirate** beheads neighbour → **elbow of capture** + **wind gap** (dry old valley) + **misfit** stream left behind.
-**Rejuvenation** extras: paired **terraces**; **incised / entrenched** meanders; nick point migrates upstream.
+- **Antecedent** drainage is older than the uplift it cuts — Himalayan transverse giants are the classic Indian lock.
+- **Superimposed** drainage is inherited from a cover that is now stripped — the **Chambal** type is the coaching cue.
+- Concordant drainage follows structure; discordant drainage cuts across it.
+- **River capture / piracy:** an aggressive **pirate** stream beheads its neighbour, leaving an **elbow of capture**, a dry **wind gap**, and a **misfit** stream behind.
+- Rejuvenation extras: paired **terraces**, **incised / entrenched** meanders, and a nick point that migrates upstream.
 
 ---
 
 ## N.6 Types of Deltas
 
-Need: large load + quiet coast + shallow shelf. Strong tides/waves → **estuary** instead.
+A delta needs a large load, a quiet coast and a shallow shelf. Strong tides or waves favour an **estuary** instead.
 
 | Type | Shape / lock | Classic |
 |------|----------------|---------|
 | **Arcuate** | Bow / fan | **Nile, Ganga–Brahmaputra (Sundarbans), Rhine, Niger, Hwang Ho** — **not** bird’s-foot |
-| **Bird’s-foot** | Distributaries like toes | **Mississippi** (2018 Q33). Ganga is **not** this |
+| **Bird’s-foot** | Distributaries like toes | **Mississippi**. Ganga is **not** this |
 | **Cuspate** | Tooth / pointed | Tiber (Italy), Ebro |
 | **Estuarine** | Fills a drowned mouth | Some European / west-India type mouths |
-| **Moribund** | Abandoned / dying lobe | **Cauvery** subdivision (2019 Q85) — not Bengal / KG / Mahanadi |
+| **Moribund** | Abandoned / dying lobe | **Cauvery** — not Bengal / KG / Mahanadi |
 
-India: **east-coast deltas** (wide shelf); **west-coast estuaries** (Narmada, Tapi).
-**Mekong:** rises **Tibetan Plateau**; delta is **southern Vietnam**, **not** southern Cambodia (2021 Q121 → Only 1).
+- India: **east-coast deltas** (wide shelf); **west-coast estuaries** (Narmada, Tapi).
+- The **Mekong** rises on the **Tibetan Plateau**; its delta is in **southern Vietnam**, not southern Cambodia.
+
+**Inline PYQ — UPPCS Prelims 2018, Q33**
+
+Bird’s-foot delta is typically associated with:
+
+A. Nile
+
+B. Ganga–Brahmaputra
+
+C. Mississippi
+
+D. Cauvery
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Nile/Ganga = **arcuate**; Mississippi = **bird’s-foot**.
+</details>
+
+**Inline PYQ — UPPCS Prelims 2019, Q85**
+
+Moribund delta is associated with which Indian river subdivision?
+
+A. Bengal delta
+
+B. Cauvery
+
+C. Krishna–Godavari
+
+D. Mahanadi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — **Cauvery** moribund lobe.
+</details>
+
+**Inline PYQ — UPPCS Prelims 2021, Q121**
+
+With reference to the Mekong, which of the following statements is/are correct?
+
+1. It rises from the Tibetan Plateau.
+2. Its delta lies in southern Cambodia.
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Delta = **southern Vietnam**.
+</details>
 
 ---
 
 ## N.7 Structural Basins & Fault Valley Drainage
 
-**Structural basin** = low enclosed by structure (syncline, rift, down-warp). Drainage often **centripetal**.
+A **structural basin** is a low enclosed by structure (syncline, rift or down-warp). Drainage often becomes **centripetal**.
 
 | Example | Type |
 |---------|------|
-| **Imphal basin** | **Lacustrine** plain (old lake; 2019 Q8) — **not** loess / glacial / ordinary alluvial MCQ trap |
+| **Imphal basin** | **Lacustrine** plain (old lake) — **not** loess / glacial / ordinary alluvial trap |
 | Kashmir vale | Lacustrine / structural (Pir Panjal wall) |
 | Chhattisgarh / Michigan type | Structural/sedimentary basin awareness |
 
@@ -288,7 +438,45 @@ India: **east-coast deltas** (wide shelf); **west-coast estuaries** (Narmada, Ta
 | **Loess** | Wind silt — **China**; not Imphal |
 | Lava / volcanic | Flood basalt (Deccan surface) |
 
-**Fault-valley drainage:** subsequent streams along **faults**; **rectangular** on joints; **rift / graben** — **Narmada, Tapi, Damodar**. Paper wording “famous for fault valley drainage” = **Damodar** (2019 Q9) — **not Chambal** (ravine/gully country, ). World rifts: Rhine, Dead Sea/Jordan, East Africa. Headward capture along faults common.
+- **Fault-valley drainage** follows subsequent streams along **faults**; joints give **rectangular** patterns; rifts include **Narmada, Tapi and Damodar**.
+- The UPPCS lock “famous for fault valley drainage” is **Damodar**, not **Chambal** (Chambal is ravine/gully country).
+- World rift cues: Rhine, Dead Sea/Jordan, East Africa.
+
+**Inline PYQ — UPPCS Prelims 2019, Q8**
+
+Imphal basin is an example of:
+
+A. Loess plain
+
+B. Lacustrine plain
+
+C. Glacial plain
+
+D. Only aeolian erg
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Old lake / lacustrine floor.
+</details>
+
+**Inline PYQ — UPPCS Prelims 2019, Q9**
+
+Which of the following rivers is famous for fault valley drainage?
+
+A. Chambal
+
+B. Damodar
+
+C. Betwa
+
+D. Ken
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — **Damodar**. Chambal = ravines.
+</details>
 **Structural landforms**
 
 | Form | Lock |
@@ -305,7 +493,7 @@ India: **east-coast deltas** (wide shelf); **west-coast estuaries** (Narmada, Ta
 | Pattern | Control |
 |---------|---------|
 | Dendritic | Homogeneous rock (tree) |
-| **Trellis** | **Folded** hard–soft belts (2024 Q31) |
+| **Trellis** | **Folded** hard–soft belts |
 | Radial | Dome / volcano / Amarkantak |
 | Centripetal | Closed basin |
 | Rectangular | Joints / faults |
@@ -313,9 +501,29 @@ India: **east-coast deltas** (wide shelf); **west-coast estuaries** (Narmada, Ta
 | Annular | Concentric weak beds |
 | Deranged | New glacial dump |
 
+**Inline PYQ — UPPCS Prelims 2024, Q31**
+
+Trellis drainage pattern typically develops on:
+
+A. Homogeneous crystalline rock only
+
+B. Folded hard–soft rock belts
+
+C. Only closed desert basins
+
+D. Only ice sheets
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Folded structure → **trellis**; homogeneous rock → dendritic.
+</details>
+
 ---
 
 ## N.8 Glaciers & Glacial Landforms
+
+A glacier is a mass of ice that moves under its own weight. Exams lock **U-valley vs V-valley**, **fjord vs ria**, and depositional till forms.
 
 | Type | Lock |
 |------|------|
@@ -326,7 +534,11 @@ India: **east-coast deltas** (wide shelf); **west-coast estuaries** (Narmada, Ta
 | Ice cap | Smaller dome (Iceland type) |
 | Ice shelf | Floating fringe |
 
-Accumulation zone above **snowline**; ablation below. **Firn/névé** = compacted snow. **Bergschrund** = headwall crack. Crevasse / serac. **Nunatak** = peak sticking through ice.
+- Accumulation sits above the **snowline**; ablation sits below it.
+- **Firn / névé** is compacted snow on the way to glacier ice.
+- A **bergschrund** cracks open at the headwall; crevasses and seracs mark the tongue.
+- A **nunatak** is a peak sticking through ice.
+
 **Erosional**
 
 | Form | Lock |
@@ -352,15 +564,19 @@ Accumulation zone above **snowline**; ablation below. **Firn/névé** = compacte
 | Erratic | Far-travelled boulder |
 | Kettle | Melt of buried ice block → pit lake |
 
-Snowline / Himalayan glaciers = water towers.
+Himalayan glaciers act as regional water towers for the Indo-Gangetic rivers.
 
 ---
 
 ## N.9 Aeolian Landforms
 
-Need: dry, sparse vegetation, sand/silt supply (hot desert + cold loess). Transport: **surface creep** · **saltation** (main sand hop) · suspension (dust/loess).
-**Erosional:** **deflation** hollow / playa; **yardang** (streamlined, wind-parallel); **zeugen** (tabular on hard cap); **mushroom / pedestal** rock; ventifact / dreikanter; **inselberg** / bornhardt; **pediment**; desert pavement (**reg**); **hamada** (bare rock); **erg** = sand sea (depositional province).
-**Star / pyramidal dune** = multi-directional winds (awareness).
+Wind needs dry ground, sparse vegetation and a sand or silt supply — hot deserts and cold loess belts both qualify.
+
+- Transport modes are **surface creep**, **saltation** (the main sand hop) and suspension (dust / loess).
+- **Erosional** signatures include **deflation** hollows and playas, **yardangs** (streamlined, wind-parallel), **zeugen** (tabular on a hard cap), mushroom / pedestal rocks, ventifacts, **inselbergs**, pediments, desert pavement (**reg**) and bare-rock **hamada**.
+- An **erg** is a sand sea — a depositional province.
+- A **star / pyramidal dune** forms under multi-directional winds.
+
 **Depositional**
 
 | Form | Lock |
@@ -374,12 +590,13 @@ Need: dry, sparse vegetation, sand/silt supply (hot desert + cold loess). Transp
 
 ---
 
-## N.10 Coastal Landforms (+ karst as sea/groundwater cousin)
+## N.10 Coastal Landforms (+ karst)
 
-Waves: **swash** up / **backwash** down. **Longshore drift** builds spits along the coast.
-**Erosional:** cliff, wave-cut platform, notch, cave → **arch** → **stack** → stump.
-**Depositional:** beach; **spit** (one end attached); **bar** (closes a bay → **lagoon**); **tombolo** (island tied to mainland); hook; barrier island.
-**Coral:** **fringing** (against shore) → **barrier** (lagoon) → **atoll** (ring). Darwin subsidence. India reefs (need clear warm water — **not** muddy delta mouths).
+Waves run **swash** up the beach and **backwash** down. **Longshore drift** moves sediment along the shore and builds spits.
+
+- **Erosional** chain: cliff → wave-cut platform → notch → cave → **arch** → **stack** → stump.
+- **Depositional** forms: beach; **spit** (one end attached); **bar** (closes a bay into a **lagoon**); **tombolo** (island tied to mainland); hook; barrier island.
+- **Coral** succession: **fringing** (against shore) → **barrier** (with lagoon) → **atoll** (ring). Darwin’s subsidence idea is the coaching frame. Indian reefs need clear warm water — **not** muddy delta mouths.
 
 | Coast type | Lock |
 |------------|------|
@@ -389,43 +606,48 @@ Waves: **swash** up / **backwash** down. **Longshore drift** builds spits along 
 | Emergent | Raised beach / wave-cut platform now inland |
 | Submergent | Ria / fjord / drowned mouth |
 
-**Karst** (limestone + carbonation): swallow hole, **doline/sinkhole**, uvala, **polje**, cave, limestone pavement (clint/gryke), disappearing stream, resurgence, **stalactite (roof)**, **stalagmite (floor)**, pillar when they meet. Classic: Dinaric/Karst; India — **Meghalaya** caves, Borra (AP), Belum (AP).
+**Karst** needs limestone plus carbonation.
+
+- Forms include swallow hole, **doline / sinkhole**, uvala, **polje**, cave, limestone pavement (clint / gryke), disappearing stream and resurgence.
+- **Stalactite** hangs from the **roof**; **stalagmite** grows from the **floor**; a pillar forms when they meet.
+- Classic world belt: Dinaric Karst. India cues: **Meghalaya** caves, Borra (AP), Belum (AP).
 
 ---
 
-## Consolidated — 20 Must-Score Locks
+## Consolidated — 24 Must-Score Locks
 
-1. Granite intrusive; basalt extrusive; fossils = sedimentary.
-2. Limestone→marble; sandstone→quartzite; granite→gneiss; shale→slate.
-3. Weathering = in situ; erosion = transport.
-4. Carbonation → limestone karst.
-5. Youth V/waterfall; mature meander/levee; old ox-bow/delta.
-6. Rejuvenation → knickpoint, terrace, incised meander.
-7. Bird’s-foot = **Mississippi**; arcuate = Nile/Ganga; moribund = **Cauvery**.
-8. Folded structure → **trellis**.
-9. Imphal basin = **lacustrine**.
-10. Fault-valley / rift = Narmada–Tapi type subsequent drainage.
-11. Glacier: cirque, U-valley, hanging valley, fjord, moraine, drumlin, esker.
-12. Barchan horns **downwind**; loess = wind silt.
-13. Stalactite ceiling; stalagmite floor.
-14. Spit / bar / tombolo / lagoon = coastal deposition.
-15. East India **delta**; west **estuary**.
-16. Mekong source Tibet; delta **Vietnam**, not Cambodia.
-17. Himadri fossil-poor; Lesser marine fossils; Shiwalik remains.
-18. Alluvial fan = mountain-foot dump.
-19. Fjord ≠ ordinary estuary.
-20. Soil = weathered rock **in situ**; rivers carry the debris.
-21. Fault-valley exam tag = **Damodar**, not Chambal.
-22. Sill // beds; dyke **cuts** beds; batholith = huge granite.
-23. Concave cuts; convex = point bar; yazoo behind levee.
-24. Antecedent cuts rising land; superimposed inherited; subsequent follows structure.
-25. Davis peneplain; King pediplain; leftover hill = monadnock.
-26. Cuesta = gentle dip + scarp; mesa > butte.
-27. Ria ≠ fjord; longshore drift builds spits.
+1. Endogenic builds relief; exogenic wears and deposits; gradation = degradation + aggradation.
+2. Granite intrusive; basalt extrusive; fossils = sedimentary.
+3. Limestone→marble; sandstone→quartzite; granite→gneiss; shale→slate.
+4. Weathering = in situ; erosion = transport; carbonation → limestone karst.
+5. Youth V/waterfall; mature meander/levee; old ox-bow/delta; rejuvenation → knickpoint/terrace/incised meander.
+6. Bird’s-foot = **Mississippi**; arcuate = Nile/Ganga; moribund = **Cauvery**.
+7. Folded structure → **trellis**; homogeneous rock → dendritic.
+8. Imphal basin = **lacustrine**; loess = wind silt (**China**), not Imphal.
+9. Fault-valley exam tag = **Damodar**, not Chambal; also Narmada–Tapi rifts.
+10. Glacier: cirque, U-valley, hanging valley, fjord, moraine, drumlin, esker.
+11. Barchan horns **downwind**; parabolic horns **upwind**.
+12. Stalactite ceiling; stalagmite floor; karst needs limestone + carbonation.
+13. Spit / bar / tombolo / lagoon = coastal deposition; longshore drift builds spits.
+14. East India **delta**; west **estuary** (Narmada/Tapi).
+15. Mekong source Tibet; delta **Vietnam**, not Cambodia.
+16. Himadri fossil-poor; Lesser marine fossils; Shiwalik remains.
+17. Alluvial fan = mountain-foot dump; coalescing fans = bajada.
+18. Fjord = drowned glacial trough; ria = drowned river valley.
+19. Sill // beds; dyke **cuts** beds; batholith = huge granite body.
+20. Concave cuts; convex = point bar; yazoo deferred behind levee.
+21. Antecedent cuts rising land; superimposed inherited; subsequent follows structure.
+22. Davis peneplain + monadnock; King pediplain (arid/savanna).
+23. Cuesta = gentle dip + scarp; mesa broader than butte.
+24. Intertrappean Deccan beds = **freshwater**, not marine fossils.
 
 ---
 
-## Practice Zone — 65 Questions (2025 Pattern Mix)
+## Practice Zone — UPPCS Format Questions
+
+> **Answers hidden** — click **Show answer** under each question to reveal.  
+> **Format mix:** 70 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (asked + standard process angles)
+
 
 **Q1.** Drainage pattern associated with **folded** structures is:
 
@@ -505,7 +727,7 @@ A. Sandstone
 
 B. Granite
 
-C. **Limestone**
+C. Limestone
 
 D. Shale
 
@@ -521,7 +743,7 @@ D. Shale
 
 A. Limestone
 
-B. **Sandstone**
+B. Sandstone
 
 C. Basalt
 
@@ -539,7 +761,7 @@ D. Shale
 
 A. Marble
 
-B. **Gneiss**
+B. Gneiss
 
 C. Slate
 
@@ -559,7 +781,7 @@ A. Granite
 
 B. Gabbro
 
-C. **Basalt**
+C. Basalt
 
 D. Gneiss
 
@@ -593,7 +815,7 @@ D. Means deposition
 
 A. Granite domes only
 
-B. **Limestone**
+B. Limestone
 
 C. Basalt only
 
@@ -611,7 +833,7 @@ D. Ice
 
 A. Youth gorge
 
-B. **Old-age floodplain** (cut-off meander)
+B. Old-age floodplain (cut-off meander)
 
 C. Cirque
 
@@ -629,7 +851,7 @@ D. Barchan field
 
 A. Glacial moraines
 
-B. **Raised silt banks along a channel**
+B. Raised silt banks along a channel
 
 C. Coral atolls
 
@@ -647,7 +869,7 @@ D. Yardangs
 
 A. Bird’s-foot
 
-B. **Arcuate**
+B. Arcuate
 
 C. Moribund Cauvery type only
 
@@ -665,7 +887,7 @@ D. Cuspate Tiber type only
 
 A. Bird’s-foot
 
-B. **Arcuate**
+B. Arcuate
 
 C. Fjord
 
@@ -704,7 +926,7 @@ D. Neither
 
 A. Youthful river
 
-B. **Glacier**
+B. Glacier
 
 C. Wind
 
@@ -722,7 +944,7 @@ D. Karst only
 
 A. A barchan
 
-B. **A drowned glacial trough**
+B. A drowned glacial trough
 
 C. A stalagmite
 
@@ -740,7 +962,7 @@ D. A trellis stream
 
 A. Upwind
 
-B. **Downwind**
+B. Downwind
 
 C. Always north
 
@@ -758,7 +980,7 @@ D. Toward the cirque
 
 A. Glacial till only
 
-B. **Wind-laid silt**
+B. Wind-laid silt
 
 C. Coral sand
 
@@ -776,7 +998,7 @@ D. Extrusive lava
 
 A. Floor
 
-B. **Cave ceiling**
+B. Cave ceiling
 
 C. Moraine
 
@@ -794,7 +1016,7 @@ D. Spit
 
 A. Is a cirque lake
 
-B. **Joins an island to the mainland**
+B. Joins an island to the mainland
 
 C. Is a fold mountain
 
@@ -812,7 +1034,7 @@ D. Is a drumlin
 
 A. Tight folds only
 
-B. **Homogeneous rock**
+B. Homogeneous rock
 
 C. Only ice sheets
 
@@ -830,7 +1052,7 @@ D. Only limestone caves
 
 A. ITCZ
 
-B. **Joints / faults**
+B. Joints / faults
 
 C. Coral growth
 
@@ -848,7 +1070,7 @@ D. Barchans
 
 A. Fold belts
 
-B. **Domes / volcanic cones**
+B. Domes / volcanic cones
 
 C. Loess plateaux only
 
@@ -866,7 +1088,7 @@ D. Fjords
 
 A. Only barchans
 
-B. **Knickpoints, terraces, incised meanders**
+B. Knickpoints, terraces, incised meanders
 
 C. Only atolls
 
@@ -884,7 +1106,7 @@ D. Only drumlins
 
 A. At deep-sea trenches
 
-B. **At the foot of mountains**
+B. At the foot of mountains
 
 C. Only on ice caps
 
@@ -902,7 +1124,7 @@ D. In the stratosphere
 
 A. Wind
 
-B. **Glaciers**
+B. Glaciers
 
 C. Coral
 
@@ -920,7 +1142,7 @@ D. Trellis folds only
 
 A. Wind dunes
 
-B. **Streamlined glacial till mounds**
+B. Streamlined glacial till mounds
 
 C. Coral rings
 
@@ -938,7 +1160,7 @@ D. Ox-bows
 
 A. Trade winds
 
-B. **Subglacial meltwater streams**
+B. Subglacial meltwater streams
 
 C. Tsunamis only
 
@@ -956,7 +1178,7 @@ D. ITCZ
 
 A. Fluvial levees
 
-B. **Wind-eroded ridges**
+B. Wind-eroded ridges
 
 C. Stalagmites
 
@@ -974,7 +1196,7 @@ D. Moraines
 
 A. Limestone caves
 
-B. **Granite / massive igneous**
+B. Granite / massive igneous
 
 C. Icebergs
 
@@ -992,7 +1214,7 @@ D. Atolls
 
 A. Old-age delta
 
-B. **Youthful / turbulent channel**
+B. Youthful / turbulent channel
 
 C. Barchan
 
@@ -1010,7 +1232,7 @@ D. Fjord mouth only
 
 A. Himalayan folds
 
-B. **Rift / fault valleys**
+B. Rift / fault valleys
 
 C. Coral lagoons
 
@@ -1028,7 +1250,7 @@ D. Cirques
 
 A. Narrow shelf + huge waves only
 
-B. **Broader shelf + lower wave energy**
+B. Broader shelf + lower wave energy
 
 C. Only glaciers
 
@@ -1046,7 +1268,7 @@ D. Only loess
 
 A. Marble
 
-B. **Slate**
+B. Slate
 
 C. Quartzite
 
@@ -1066,7 +1288,7 @@ A. Granite
 
 B. Basalt
 
-C. **Sedimentary rocks**
+C. Sedimentary rocks
 
 D. Fresh obsidian
 
@@ -1082,7 +1304,7 @@ D. Fresh obsidian
 
 A. Ox-bow
 
-B. **Tarn**
+B. Tarn
 
 C. Lagoon
 
@@ -1100,7 +1322,7 @@ D. Playa only
 
 A. Both ends to two continents
 
-B. **One end to the coast**
+B. One end to the coast
 
 C. Only to a glacier
 
@@ -1118,7 +1340,7 @@ D. Only to a barchan
 
 A. Atoll → barrier → fringing
 
-B. **Fringing → barrier → atoll**
+B. Fringing → barrier → atoll
 
 C. Stack → spit → cirque
 
@@ -1154,7 +1376,7 @@ D. Ganga — bird’s-foot
 
 A. Crescent barchans
 
-B. **Longitudinal, parallel to wind**
+B. Longitudinal, parallel to wind
 
 C. Glacial eskers
 
@@ -1172,7 +1394,7 @@ D. Stalactites
 
 A. The ITCZ
 
-B. **Maximum former ice stand**
+B. Maximum former ice stand
 
 C. A spit
 
@@ -1190,7 +1412,7 @@ D. A trellis junction
 
 A. Hot dry desert nights only
 
-B. **Hot wet tropics**
+B. Hot wet tropics
 
 C. Polar ice caps
 
@@ -1227,7 +1449,7 @@ D. A false R true
 
 A. Only wind work
 
-B. **Rejuvenation / uplift**
+B. Rejuvenation / uplift
 
 C. Only coral growth
 
@@ -1245,7 +1467,7 @@ D. Only loess
 
 A. Barchans
 
-B. **Coastal arches collapsing**
+B. Coastal arches collapsing
 
 C. Drumlins
 
@@ -1263,7 +1485,7 @@ D. Gneiss melting
 
 A. Alpine horns
 
-B. **Desert interior basins / dry lake flats**
+B. Desert interior basins / dry lake flats
 
 C. Bird’s-foot toes
 
@@ -1281,7 +1503,7 @@ D. Ox-bows of Ganga only
 
 A. Rich in marine fossils like Lesser Himalaya
 
-B. **Fossil-poor / fossil-less**
+B. Fossil-poor / fossil-less
 
 C. The same as Shiwalik conglomerates
 
@@ -1299,7 +1521,7 @@ D. Loess
 
 A. Glacier plucking
 
-B. **Wind abrasion**
+B. Wind abrasion
 
 C. Coral
 
@@ -1317,7 +1539,7 @@ D. Meander cutoff
 
 A. Basalt + ice
 
-B. **Limestone + carbonation**
+B. Limestone + carbonation
 
 C. Granite + barchans
 
@@ -1335,7 +1557,7 @@ D. Gneiss + fjords
 
 A. Chambal
 
-B. **Damodar**
+B. Damodar
 
 C. Gandak
 
@@ -1371,7 +1593,7 @@ D. Is a barchan
 
 A. Concordant with beds
 
-B. **Discordant — cuts the beds**
+B. Discordant — cuts the beds
 
 C. A spit
 
@@ -1389,7 +1611,7 @@ D. A moraine
 
 A. Angular
 
-B. **Rounded**
+B. Rounded
 
 C. Always limestone
 
@@ -1407,7 +1629,7 @@ D. Always glassy
 
 A. Concave cut bank
 
-B. **Convex inner bank**
+B. Convex inner bank
 
 C. Cirque floor
 
@@ -1425,7 +1647,7 @@ D. Stack top
 
 A. Is a glacial esker
 
-B. **Runs parallel behind a levee and joins downstream**
+B. Runs parallel behind a levee and joins downstream
 
 C. Is a bird’s-foot toe
 
@@ -1443,7 +1665,7 @@ D. Is a sill
 
 A. Fjord
 
-B. **Peneplain** (leftovers = monadnocks)
+B. Peneplain (leftovers = monadnocks)
 
 C. Atoll
 
@@ -1461,7 +1683,7 @@ D. Barchan
 
 A. Only coral coasts
 
-B. **King’s pediment retreat (arid/savanna)**
+B. King’s pediment retreat (arid/savanna)
 
 C. Only ice sheets
 
@@ -1479,7 +1701,7 @@ D. Only trellis folds
 
 A. Follows a new fault only
 
-B. **Predates and cuts rising land**
+B. Predates and cuts rising land
 
 C. Is always a yazoo
 
@@ -1497,7 +1719,7 @@ D. Is wind-laid loess
 
 A. Equal steep sides like a hogback
 
-B. **Gentle dip slope + steep scarp**
+B. Gentle dip slope + steep scarp
 
 C. Only glacial striations
 
@@ -1515,7 +1737,7 @@ D. Only coral polyps
 
 A. A drowned glacial trough
 
-B. **A drowned river valley**
+B. A drowned river valley
 
 C. A barchan chain
 
@@ -1533,7 +1755,7 @@ D. A batholith
 
 A. Only the ITCZ
 
-B. **Weaker beds / faults**
+B. Weaker beds / faults
 
 C. Only ice shelves
 
@@ -1551,7 +1773,7 @@ D. Only atolls
 
 A. Thin lava skins
 
-B. **Huge intrusive granite masses**
+B. Huge intrusive granite masses
 
 C. Wind dunes
 
@@ -1569,7 +1791,7 @@ D. Ox-bows
 
 A. Coral atoll
 
-B. **Wind gap + elbow of capture**
+B. Wind gap + elbow of capture
 
 C. Only a seif
 
@@ -1589,7 +1811,7 @@ A. Marble
 
 B. Quartzite
 
-C. **Gneiss / schist / slate**
+C. Gneiss / schist / slate
 
 D. Rock salt
 
@@ -1597,6 +1819,102 @@ D. Rock salt
 <summary>Show answer</summary>
 
 **Ans: C** — Marble and quartzite are non-foliated.
+</details>
+
+---
+
+
+**Q66.** Endogenic processes are best described as:
+
+A. Only river deposition on floodplains
+
+B. Internal Earth processes such as folding, faulting and volcanism
+
+C. Only wind abrasion in deserts
+
+D. Only coastal spit growth
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q67.** Weathering differs from erosion because weathering:
+
+A. Always transports material to the sea
+
+B. Breaks rock in place without requiring transport
+
+C. Is only done by glaciers
+
+D. Means building a delta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q68.** Which intrusive body cuts across bedding planes?
+
+A. Sill
+
+B. Dyke
+
+C. Laccolith only always parallel
+
+D. Lopolith only always parallel
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Dyke is discordant; sill is parallel to beds.
+</details>
+
+---
+
+**Q69.** Assertion (A): A peneplain is associated with the old stage of the Davis cycle in humid regions.  
+Reason (R): L.C. King’s pediplain idea is framed mainly for arid / savanna pediment retreat.
+
+A. Both A and R are true and R explains A
+
+B. Both A and R are true but R does not explain A
+
+C. A is true but R is false
+
+D. A is false but R is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Both locks are true; they are parallel theories, not one explaining the other.
+</details>
+
+---
+
+**Q70.** Which of the following pairs is/are correctly matched?
+
+1. Concave bank of a meander — erosion / river cliff
+2. Convex bank — point bar deposition
+3. Stalactite — grows from cave floor
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Stalactite hangs from the **ceiling**; stalagmite grows from the floor.
 </details>
 
 ---
@@ -1771,9 +2089,12 @@ Process chapter — no living scheme lock. Static PYQ surface (trellis, deltas, 
 14. **Basalt = intrusive granite twin** — FALSE. Basalt = **extrusive**.
 15. **Loess = river silt of Imphal** — FALSE. **Wind silt**; Imphal = lake plain.
 16. **Fault-valley = Chambal** — FALSE. **Damodar** (2019 Q9).
-17. **Sill cuts the beds** — FALSE. **Dyke** cuts; sill is **parallel**.
-18. **Point bar on the concave bank** — FALSE. Concave **erodes**; convex **deposits**.
-19. **Ria = fjord** — FALSE. Ria = drowned **river**; fjord = drowned **glacier**.
-20. **Peneplain = King’s arid pediment** — FALSE. Peneplain = **Davis**; pediplain = **King**.
-21. **Marble is foliated** — FALSE. Marble/quartzite = **non-foliated**.
-22. **Intertrappean = sea fossils** — FALSE. **Freshwater / land** fossils.
+17. **Endogenic = only rivers** — FALSE. Endogenic = interior build (fold/fault/volcano).
+18. **Weathering always transports** — FALSE. Weathering is **in situ**.
+19. **Skip process framework because recent papers asked trellis/Damodar** — FALSE. Next year can ask any standard NCERT agent or pair.
+20. **Sill cuts the beds** — FALSE. **Dyke** cuts; sill is **parallel**.
+21. **Point bar on the concave bank** — FALSE. Concave **erodes**; convex **deposits**.
+22. **Ria = fjord** — FALSE. Ria = drowned **river**; fjord = drowned **glacier**.
+23. **Peneplain = King’s arid pediment** — FALSE. Peneplain = **Davis**; pediplain = **King**.
+24. **Marble is foliated** — FALSE. Marble/quartzite = **non-foliated**.
+25. **Intertrappean = sea fossils** — FALSE. **Freshwater / land** fossils.

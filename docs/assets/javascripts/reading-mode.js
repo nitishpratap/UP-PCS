@@ -363,6 +363,20 @@
     return /\|/.test(text) && /^[A-D]\.\s+.+\|\s*\d+\./.test(text);
   }
 
+  function isListTwoAhead(nodes, startIndex) {
+    // Match-List List-I uses A–D labels; List-II uses 1–4. Do not treat List-I as options.
+    for (let k = startIndex; k < Math.min(nodes.length, startIndex + 10); k += 1) {
+      const el = nodes[k];
+      if (!el || el.nodeType !== 1) continue;
+      const text = (el.textContent || "").replace(/\s+/g, " ").trim();
+      if (/List-II\b/i.test(text)) return true;
+      if (/^1\.\s+/.test(text)) return true;
+      // Stop scanning once real answer codes like "A. 4 1 2 3" or "A. Only 1" appear after a gap.
+      if (/^[A-D]\.\s+(\d+\s+\d+|Only\b|Both\b|Neither\b|A-)/i.test(text)) break;
+    }
+    return false;
+  }
+
   function formatSeparateOptionParagraphs(card) {
     const nodes = [...card.children];
     let i = 0;
@@ -387,6 +401,12 @@
         if (!/^[A-D]\.\s/.test(nextText) || isMatchListParagraph(nextText)) break;
         group.push(next);
         j += 1;
+      }
+
+      // Skip Match List-I rows (A–D followed by List-II / numbered 1–4).
+      if (isListTwoAhead(nodes, j)) {
+        i = j;
+        continue;
       }
 
       if (group.length >= 2) {

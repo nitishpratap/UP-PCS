@@ -5,13 +5,13 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Earthquakes | Earthquakes in India | Seismic Zones of India | Tsunami | Landslides | Floods | Drought | Cloudburst | Heat Waves | Cold Waves | Cyclone Basins of India | Disaster Management Framework
+Hazard–Vulnerability–Risk | Natural vs Man-made Disasters | DM Cycle | Earthquakes | Seismic Zones | Tsunami | Landslides | Floods | Drought | Cloudburst | Heat / Cold Waves | Cyclones | Industrial / Chemical (awareness) | Disaster Management Framework (NDMA / Sendai / NDMP)
 </details>
 
-> **Sources baked in:** NCERT (disasters / interior), BIS IS 1893:2016, IMD, NDMA / DM Act 2005, UPPCS Prelims 2018–2025  
-> **Exam weight:** ★★★★ — seismic zones, NDMA chair, cyclone-name match, Himalaya A/R, IMD heat/cloudburst cuts  
+> **Sources baked in:** NCERT (disasters / interior), PWOnlyIAS / Drishti DM notes, BIS IS 1893:2016, IMD, NDMA / DM Act 2005 / NPDM 2009, UPPCS Prelims 2018–2025  
+> **Exam weight:** ★★★★ — seismic zones, NDMA chair, cyclone-name match, Himalaya A/R, IMD heat/cloudburst cuts; also teach full hazard map  
 > **Last verified:** August 2026  
-> **Current Affairs:** BIS **Zone VI draft withdrawn Mar 2026** → exam map still **II–V (2016)**; Sendai 2015–30; CDRI 2019; Joshimath 2023; Sikkim GLOF 2023
+> **Current Affairs:** BIS **Zone VI draft withdrawn Mar 2026** — exam map still **II–V (2016)**; Sendai 2015–30; CDRI 2019; Joshimath 2023; Sikkim GLOF 2023
 
 ---
 
@@ -33,11 +33,14 @@ HEAT (IMD plains): Tmax ≥40°C then departure 4.5–6.4°C (HW) / >6.4 severe
  or actual ≥45 / ≥47 | 2 stations × 2 days | Cold: Tmin drop; plains ≤10°C gate
 CYCLONE BASINS: BoB >> Arabian Sea | peaks May–Jun & Oct–Dec
  Names : Baguio=PH | Hurricane=USA | Typhoon/Taifu=China–Japan | Willy-willy=AU
- 2019: Dorian=Bahamas | Hagibis=Japan | Lekima=China | Mitag=Korea → 1 4 2 3
-FRAMEWORK: DM Act 2005 | NDMA chair = PM (2021) | SDMA = CM | DDMA = DM
+ 2019 names: Dorian=Bahamas | Hagibis=Japan | Lekima=China | Mitag=Korea
+HVRC: Hazard × Vulnerability / Capacity ≈ Risk | DM cycle = mitigation → preparedness → response → recovery
+ India vuln lore: ~59% quake · ~12% flood · ~5700 km cyclone/tsunami coast · ~68% cultivable drought-prone
+FRAMEWORK: DM Act 2005 | NPDM 2009 | NDMA chair = PM | SDMA = CM | DDMA = DM
  NDRF 2006 (MHA) | NIDM training Delhi | NEC = Union Home Secretary
- Sendai 2015–2030 (after Hyogo 2005–15) | NDMP 2016 | CDRI 2019
- Mangroves cut cyclone impact | India is NOT disaster-free (2018) | Gomati = “biological disaster” label (2018)
+ Sendai 2015–2030 (after Hyogo 2005–15) | NDMP 2016 | CDRI 2019 | IDDR 13 Oct
+ Mangroves cut cyclone impact | India is NOT disaster-free | Gomati = “biological disaster” label (2018)
+ Man-made awareness: Bhopal 1984 industrial/chemical
 ```
 
 ---
@@ -63,43 +66,96 @@ FRAMEWORK: DM Act 2005 | NDMA chair = PM (2021) | SDMA = CM | DDMA = DM
 | SDMA chair | **Chief Minister** | Governor | मुख्यमंत्री |
 | Sendai vs Hyogo | **2015–30** vs 2005–15 | Yokohama 2015 | सेंडाई |
 | DPAP year | **1973–74** | 1952 (that is CDP) | DPAP |
+| Hazard vs disaster | Hazard = potential; disaster = when capacity fails | Same word | आपदा ≠ संकट बीज |
+| Mitigation vs response | Before impact vs during/after | Swap | न्यूनीकरण ≠ अनुक्रिया |
+| NPDM year | **2009** | 2005 (that is DM Act) | 2009 नीति |
+| Chemical / industrial | **Bhopal 1984** man-made | “Natural only India” | भोपाल |
 
 ---
 
 ## Memory Tricks
 
-- **PM chairs NDMA · CM chairs SDMA · DM chairs DDMA.**
-- **Zone V = NE + Himalaya + Kutch + Andaman.**
-- **Latur = Deccan; Koyna = dam; Bhuj = 26 Jan 2001.**
-- **Cloudburst = 100 mm / 1 hour.**
-- **BoB more; Oct–Nov east-coast peak.**
-- **Baguio–PH · Hurricane–USA · Typhoon–China/Japan · Willy–Australia.**
+| Trick | Remembers |
+|-------|-----------|
+| **PM · CM · DM** | NDMA · SDMA · DDMA chairs |
+| **Zone V belt** | NE + Himalaya pockets + Kutch + Andaman |
+| **Latur · Koyna · Bhuj** | Peninsula · dam RIS · 26 Jan 2001 |
+| **100 mm / 1 hour** | IMD cloudburst cut |
+| **BoB > Arabian** | More cyclones; May–Jun and Oct–Dec peaks |
+| **Baguio–PH · Hurricane–USA · Typhoon–E Asia · Willy–AU** | Local cyclone names |
+| **Sendai 15–30** | After Hyogo 05–15 |
+| **Hazard × Vulnerability** | Risk rises when capacity is low |
+| **Mitigation before · Response during** | DM cycle order |
+
+---
+
+## N.0 Framework — Hazard, Vulnerability, Risk & DM Cycle
+
+A **hazard** is a potentially damaging natural or man-made event. A **disaster** occurs when that hazard hits exposed people or assets and **capacity** is too weak to cope.
+
+- Coaching lock: **Risk ≈ Hazard × Vulnerability / Capacity**.
+- **Vulnerability** is how exposed and fragile a community, house or economy is.
+- **Capacity** is the ability to prepare, resist, cope and recover.
+- The same earthquake is a small event in a reinforced city and a disaster in a weak, crowded settlement.
+
+**Natural vs man-made**
+
+- Natural hazards include earthquakes, floods, cyclones, droughts, landslides, heat/cold waves, cloudbursts and tsunamis.
+- Man-made / anthropogenic disasters include industrial and chemical accidents (**Bhopal 1984**), major fires, transport crashes and some CBRN risks.
+- Climate change and unplanned urbanisation raise the chance that a hazard becomes a disaster.
+
+**India’s multi-hazard map (NDMA / NPDM lore)**
+
+- About **59%** of the landmass is earthquake-prone (moderate to very high).
+- About **12%** of land is flood-prone.
+- About **5,700 km** of the long coastline is cyclone / tsunami exposed.
+- About **68%** of cultivable area is drought-vulnerable.
+- Hills face landslides and avalanches; cities face urban floods.
+
+**Disaster management cycle**
+
+1. **Mitigation** — reduce risk before the event (codes, embankments, zoning, awareness).
+2. **Preparedness** — plans, drills, early warning, stockpiles.
+3. **Response** — rescue, relief, medical care during and just after impact.
+4. **Recovery / reconstruction** — restore livelihoods and build back better.
+
+India’s institutional shift is from **relief-only** to **prevention, mitigation and Sendai-aligned risk reduction**.
 
 ---
 
 ## N.1 Earthquakes — Mechanics
 
+An earthquake is the sudden release of energy when rocks slip along a fault.
+
+- The **focus (hypocentre)** is the rupture point **inside** the crust.
+- The **epicentre** is the surface point directly above the focus.
+- **Richter / moment magnitude** measures size or energy (logarithmic).
+- The **Mercalli (MMI)** scale measures **intensity** — felt shaking and damage (Roman I–XII).
+- **P-waves** are fastest, travel through solids and liquids, and arrive first.
+- **S-waves** are slower, travel through **solids only**, and arrive second.
+- **Surface waves** (Love and Rayleigh) do most damage at the ground surface.
+- Most damaging Indian quakes are **tectonic**. **Koyna 1967** is the classic **reservoir-induced** (RIS) trap.
+
+About **90%** of world quakes sit on plate edges. The **Pacific Ring of Fire** is the circum-Pacific volcano–quake belt (Fuji, Pinatubo, Mount St. Helens). **Kilimanjaro is not** on that ring.
+
 | Term | Lock |
 |------|------|
-| **Focus / hypocentre** | Point of rupture **inside** the crust |
-| **Epicentre** | Point on the **surface** above the focus |
-| **Richter / moment magnitude** | Energy / size — logarithmic |
-| **Mercalli (MMI)** | **Intensity** — felt damage, Roman I–XII |
-| **P-waves** | Fastest, travel solids+liquids, arrive first |
-| **S-waves** | Slower, **solids only**, arrive second |
-| **Surface waves** | Love + Rayleigh — most destructive at surface |
-| Tectonic | Plate slip — almost all damaging Indian quakes |
-| Volcanic / collapse / explosion | Local; RIS = reservoir-induced (Koyna) |
-
-**Belt:** ~90% of quakes along plate edges. **Pacific Ring of Fire** = circum-Pacific volcanoes + quakes (Fuji, Pinatubo, St. Helens). **Kilimanjaro is not** on that ring (2024 Q30).
-Ring of Fire volcano names. P- and S-wave shadow zones. India seismic zones and Indian events.
+| Focus / hypocentre | Inside the crust |
+| Epicentre | Surface above the focus |
+| Richter / Mw | Magnitude (energy) |
+| Mercalli | Intensity (damage) |
+| P then S then surface | Arrival order |
 
 ---
 
 ## N.2 Earthquakes in India
 
-Himalayan arc = **Indian plate thrusting under Eurasia** → many **longitudinal thrust zones** (MCT, MBT, HFT). 2019 A/R: highest seismic concentration in Himalaya **because** of those thrusts → **both true, R explains A**.
-~**59%** of India’s area is earthquake-prone.
+The Himalayan arc is where the **Indian plate thrusts under Eurasia**, creating many **longitudinal thrust zones** (MCT, MBT, HFT).
+
+- That is why the highest seismic concentration in India lies in the Himalaya.
+- About **59%** of India’s area is earthquake-prone.
+- Peninsular India is **not** quake-free — **Latur 1993** and **Koyna 1967** are the hall traps.
+
 
 | Year | Event | Trap |
 |------|-------|------|
@@ -157,26 +213,25 @@ Mangroves / coastal forests **reduce cyclone and tsunami impact** (2018 Q133).
 
 ## N.5 Landslides
 
-| Factor | Lock |
-|--------|------|
-| Where | **Himalaya, Western Ghats, NE hills** |
-| Why | Steep young slopes + rain + quakes + roads/deforestation |
-| Types | Fall, slide, flow, creep (debris flow after cloudburst) |
-| Hall events | Malpa 1998; **Kedarnath 2013**; Kerala 2018 hills; **Joshimath** subsidence 2023 (CA) |
+A landslide is the downslope movement of rock, debris or soil under gravity.
+
+- High-risk belts are the **Himalaya**, **Western Ghats** and **North-Eastern hills**.
+- Triggers include steep young slopes, heavy rain, earthquakes, road cutting and deforestation.
+- Movement types include fall, slide, flow and creep; cloudbursts often end as debris flows.
+- Hall events: Malpa **1998**, **Kedarnath 2013**, Kerala hill slides **2018**, and **Joshimath** subsidence **2023**.
 
 ---
 
 ## N.6 Floods
 
-| Type | Cue |
-|------|-----|
-| Riverine | Ganga–Brahmaputra–Meghna; **Kosi, Gandak, Ghaghara, Rapti** |
-| Flash | Hills + cloudburst (Uttarakhand, HP) |
-| Urban | Drainage failure (Mumbai 2005 type) |
-| Coastal | Storm surge with cyclone |
-| GLOF | Glacial lake burst — **Sikkim Teesta / South Lhonak 2023** |
+Floods happen when water inundates land that is usually dry.
 
-CWC + IMD flood watch. **Kosi 2008** (Bihar); **Kerala 2018**; east **UP** every monsoon (trans-Ghaghara).
+- **Riverine floods** dominate the Ganga–Brahmaputra–Meghna system — watch **Kosi, Gandak, Ghaghara and Rapti**.
+- **Flash floods** hit hills after cloudbursts (Uttarakhand, Himachal).
+- **Urban floods** follow drainage failure (Mumbai-type events).
+- **Coastal floods** come with cyclone storm surge.
+- **GLOF** is a glacial-lake outburst — **Sikkim Teesta / South Lhonak 2023** is the living CA lock.
+- CWC and IMD run flood watch. Hall years: **Kosi 2008**, **Kerala 2018**, and east **UP** every monsoon in the trans-Ghaghara belt.
 
 ---
 
@@ -200,7 +255,7 @@ Belts: **Bundelkhand**, Marathwada, Rayalaseema, Rajasthan, Kutch, Telangana int
 | TRYSEM | **1979** |
 | DDP (Desert Development) | **1977–78** |
 
-2025 Q134 order: CDP → DPAP → Food for Work → TRYSEM = **2, 4, 1, 3**.
+Chronology lock used in 2025: Community Development Programme (**1952**) → DPAP (**1973–74**) → Food for Work (**1977**) → TRYSEM (**1979**).
 
 ---
 
@@ -253,12 +308,22 @@ IMD wind ladder. Basins, landfall, local names:
 | **Typhoon / Taifu** | **China / Japan** (NW Pacific) |
 | **Willy-willies** | **Australia** |
 
-**2019 Q110:** Dorian–**Bahamas**; Hagibis–**Japan**; Lekima–**China**; Mitag–**Jeju, South Korea** → **1, 4, 2, 3**.
+**2019 cyclone-name match lock**
 
-> **Exam note:** 2020 Q74 code **3 4 2 1**. 2019 Q78 code **2 3 1 4**.
+- Dorian — **Bahamas**
+- Hagibis — **Japan**
+- Lekima — **China**
+- Mitag — **Jeju, South Korea**
 
-**Inline PYQ**
-**(UPPCS 2021, Q26)** Who is the Ex-officio Chairman of the National Disaster Management Authority?
+---
+
+## N.11 Disaster Management Framework
+
+India has shifted from a relief-centric habit to **prevention, mitigation and Sendai-aligned** risk reduction.
+
+**Inline PYQ — UPPCS Prelims 2021, Q26**
+
+Who is the Ex-officio Chairman of the National Disaster Management Authority?
 
 A. The Prime Minister
 
@@ -268,13 +333,11 @@ C. The Defence Minister
 
 D. The Health and Family Welfare Minister
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
 
----
-
-## N.11 Disaster Management Framework
-
-Shift: relief-centric → **prevention / Sendai**.
+**Ans: A** — NDMA is chaired by the **Prime Minister**.
+</details>
 
 | Body | Lock |
 |------|------|
@@ -288,13 +351,61 @@ Shift: relief-centric → **prevention / Sendai**.
 | Nodal ministry | **MHA** (Disaster Management Division) |
 | **NDMP** | **1 Jun 2016** (revised 2019) — aligned to Sendai |
 | **Sendai** | **2015–2030**, Sendai (Japan); after **Hyogo 2005–2015**; Yokohama 1994 |
+| **NPDM** | National Policy on Disaster Management — **2009** |
 | **CDRI** | Coalition for Disaster Resilient Infrastructure — India, **2019** |
 | IDDR | International Day for DRR — **13 October** |
 | NCS | National Centre for Seismology — **MoES** |
 | INCOIS | Tsunami — **Hyderabad** |
 | IMD | Cyclone, rainfall, heat/cold |
 
-**2018 Q133:** developing countries take max natural-disaster damage; Bhopal = man-made; mangroves cut cyclone impact; **India is not disaster-free** → statements **1, 2, 4**.
+**Sendai Framework — four priorities (awareness)**
+
+1. Understanding disaster risk.
+2. Strengthening disaster risk governance.
+3. Investing in disaster risk reduction for resilience.
+4. Enhancing disaster preparedness for effective response and to “Build Back Better” in recovery.
+
+**Inline PYQ — UPPCS Prelims 2018, Q133**
+
+Which of the following statements is/are correct?
+
+1. Developing countries suffer maximum damage from natural disasters.
+2. The Bhopal gas tragedy was a man-made disaster.
+3. India is a disaster-free country.
+4. Mangroves help reduce the impact of cyclones.
+
+A. 1 and 2 only
+
+B. 2, 3 and 4 only
+
+C. 1, 2 and 4 only
+
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Statement 3 is false. India is **not** disaster-free.
+</details>
+
+**Inline PYQ — UPPCS Prelims 2019, Q (Himalaya A/R)**
+
+Assertion (A): The highest concentration of seismic zones lies in the Himalayan region in India.  
+Reason (R): There are many longitudinal thrust zones in the Himalayas.
+
+A. Both A and R are true and R explains A
+
+B. Both A and R are true but R does not explain A
+
+C. A is true but R is false
+
+D. A is false but R is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+</details>
 
 ---
 
@@ -313,32 +424,40 @@ Shift: relief-centric → **prevention / Sendai**.
 
 ---
 
-## Consolidated — 20 Must-Score Locks
+## Consolidated — 24 Must-Score Locks
 
-1. Focus = inside; epicentre = surface. Richter ≠ Mercalli.
-2. Himalaya highest seismic belt **because of thrusts** (2019).
-3. Zones **II–V** only; **V highest**; Zone I gone; Zone VI draft **withdrawn 2026**.
-4. Zone V = NE + Himalaya pockets + **Kutch** + **A&N**.
-5. Latur 1993 = peninsula; Koyna 1967 = RIS; Bhuj 2001.
-6. Tsunami 26 Dec 2004; INCOIS Hyderabad.
-7. Kilimanjaro **≠** Ring of Fire.
-8. Landslides = Himalaya + Ghats + NE; Kedarnath 2013; Joshimath 2023.
-9. Cloudburst = **≥100 mm/hour**.
-10. Heat plains: gate **40°C** + **4.5–6.4°C** (or actual **45/47**).
-11. BoB cyclones **more** than Arabian Sea; peaks May–Jun & Oct–Dec.
-12. Baguio PH; Hurricane USA; Typhoon China/Japan; Willy-willy Australia.
-13. NDMA chair = **PM**; SDMA = **CM**.
-14. DM Act **2005**; NDRF **2006**; NDMP **2016**.
-15. Sendai **2015–2030**.
-16. Mangroves reduce cyclone impact; India is **not** disaster-free.
-17. DPAP **1973–74**; 2025 order **2, 4, 1, 3**.
-18. UP: Zone **III–IV** only; floods in the east; drought in Bundelkhand.
-19. Gomati = 2018 “biological disaster” river of UP.
-20. Cyclone basins + NDMA.
+1. Risk ≈ Hazard × Vulnerability / Capacity; disaster = hazard + exposure + weak capacity.
+2. DM cycle = mitigation → preparedness → response → recovery.
+3. Focus = inside; epicentre = surface. Richter ≠ Mercalli.
+4. Himalaya highest seismic belt **because of thrusts**.
+5. Zones **II–V** only; **V highest**; Zone I gone; Zone VI draft **withdrawn 2026**.
+6. Zone V = NE + Himalaya pockets + **Kutch** + **A&N**.
+7. Latur 1993 = peninsula; Koyna 1967 = RIS; Bhuj 2001.
+8. Tsunami 26 Dec 2004; INCOIS Hyderabad; Kilimanjaro **≠** Ring of Fire.
+9. Landslides = Himalaya + Ghats + NE; Kedarnath 2013; Joshimath 2023; GLOF Sikkim 2023.
+10. Cloudburst = **≥100 mm/hour**.
+11. Heat plains: gate **40°C** + **4.5–6.4°C** (or actual **45/47**).
+12. BoB cyclones **more** than Arabian Sea; peaks May–Jun & Oct–Dec.
+13. Baguio PH; Hurricane USA; Typhoon China/Japan; Willy-willy Australia.
+14. NDMA chair = **PM**; SDMA = **CM**; DDMA = DM.
+15. DM Act **2005**; NPDM **2009**; NDRF **2006**; NDMP **2016**; Sendai **2015–2030**.
+16. Mangroves reduce cyclone impact; India is **not** disaster-free; Bhopal = man-made.
+17. India vuln lore: ~59% quake, ~12% flood, ~5700 km cyclone coast, ~68% cultivable drought-prone.
+18. DPAP **1973–74**; CDP **1952** before it.
+19. UP: Zone **III–IV** only; floods in the east; drought in Bundelkhand.
+20. Gomati = 2018 “biological disaster” river of UP.
+21. CDRI **2019**; IDDR **13 October**.
+22. NEC chair cue = Union Home Secretary.
+23. Arabian Sea **can** hit Gujarat–Maharashtra (Tauktae / Kandla lore).
+24. Teach full hazard map — next year may ask HVRC or Sendai priorities even if recent papers emphasised zones/names.
 
 ---
 
-## Practice Zone — 50 Questions (2025 Pattern Mix)
+## Practice Zone — UPPCS Format Questions
+
+> **Answers hidden** — click **Show answer** under each question to reveal.  
+> **Format mix:** 60 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (asked + standard NDMA/NCERT angles)
+
 
 **Q1.** Assertion (A): The highest concentration of seismic zones lies in the Himalayan region in India.
 Reason (R): There are many longitudinal thrust zones in Himalayas.
@@ -378,8 +497,15 @@ D. The Health Minister
 ---
 
 **Q3.** Match List-I with List-II.
-**List-I** A. Baguios B. Hurricanes C. Typhoons D. Willy-Willies
-**List-II** 1. Australia 2. China 3. Philippines 4. USA
+
+| List-I (Local name) | List-II (Region) |
+|---|---|
+| A. Baguios | 1. Australia |
+| B. Hurricanes | 2. China |
+| C. Typhoons | 3. Philippines |
+| D. Willy-Willies | 4. USA |
+
+> Row order is **not** the answer — use the option codes.
 
 A. 3 4 1 2
 
@@ -392,12 +518,22 @@ D. 2 1 3 4
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — 3 4 2 1.
+**Ans: B** — Philippines, USA, China, Australia (3 4 2 1).
 </details>
 
 ---
 
-**Q4.** Match: Willy-Willies, Taifu, Baguio, Hurricanes → Philippines, Australia, Japan, USA
+**Q4.** Match List-I with List-II.
+
+| List-I (Local name) | List-II (Region) |
+|---|---|
+| A. Willy-willies | 1. Philippines |
+| B. Taifu / Typhoon | 2. Australia |
+| C. Baguio | 3. Japan / China (NW Pacific) |
+| D. Hurricanes | 4. USA / Atlantic |
+
+> Row order is **not** the answer — use the option codes.
+
 
 A. 3 4 1 2
 
@@ -787,8 +923,15 @@ D. 2020–2025 only
 ---
 
 **Q25.** Match List-I with List-II.
-**List-I** A. NDMA B. SDMA C. NIDM D. INCOIS
-**List-II** 1. Training, Delhi 2. PM 3. Tsunami warning 4. CM
+
+| List-I | List-II |
+|---|---|
+| A. NDMA | 1. Training, Delhi |
+| B. SDMA | 2. PM |
+| C. NIDM | 3. Tsunami warning |
+| D. INCOIS | 4. CM |
+
+> Row order is **not** the answer — use the option codes.
 
 A. 2 4 1 3
 
@@ -801,7 +944,7 @@ D. 2 1 4 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A** — NDMA–PM; SDMA–CM; NIDM–training Delhi; INCOIS–tsunami warning.
 </details>
 
 ---
@@ -1173,7 +1316,17 @@ D. Is the tsunami zone
 
 ---
 
-**Q46.** 2019 match: Dorian, Hagibis, Lekima, Mitag → Bahamas, China, Korea, Japan
+**Q46.** Match List-I with List-II (2019 cyclone–region set).
+
+| List-I (Cyclone) | List-II (Region) |
+|---|---|
+| A. Dorian | 1. Bahamas |
+| B. Hagibis | 2. China |
+| C. Lekima | 3. Korea |
+| D. Mitag | 4. Japan |
+
+> Row order is **not** the answer — use the option codes.
+
 
 A. 1 2 4 3
 
@@ -1263,9 +1416,195 @@ D. Applies only to UP Bundelkhand
 
 ---
 
+
+**Q51.** Risk in disaster studies is best understood as rising when:
+
+A. Hazard exists but vulnerability and exposure are zero
+
+B. Hazard meets high vulnerability and low capacity
+
+C. Only Mercalli intensity is high on an empty island
+
+D. Only Sendai is signed with no local action needed
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Risk ≈ Hazard × Vulnerability / Capacity.
+</details>
+
+---
+
+**Q52.** Which sequence correctly shows the disaster management cycle?
+
+A. Response → Mitigation → Preparedness → Recovery
+
+B. Mitigation → Preparedness → Response → Recovery
+
+C. Recovery → Hazard → Epicentre → Focus
+
+D. Only Response forever
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q53.** Which of the following is a man-made disaster lock?
+
+A. Kangra 1905 earthquake
+
+B. Bhopal gas tragedy 1984
+
+C. 26 Dec 2004 tsunami
+
+D. Odisha Super Cyclone 1999
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q54.** National Policy on Disaster Management (NPDM) was framed in:
+
+A. 2005
+
+B. 2009
+
+C. 2015
+
+D. 2019
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — DM Act is **2005**; NPDM is **2009**.
+</details>
+
+---
+
+**Q55.** Which Sendai priority is correctly stated?
+
+A. Ignoring risk so that response stays cheap
+
+B. Understanding disaster risk
+
+C. Abolishing early warning systems
+
+D. Replacing NDMA with a private company
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Priority 1 is understanding disaster risk.
+</details>
+
+---
+
+**Q56.** About what share of India’s landmass is earthquake-prone in NDMA lore?
+
+A. About 12%
+
+B. About 59%
+
+C. About 5%
+
+D. About 90% of only Rajasthan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — About **59%** (often cited as 58.6%).
+</details>
+
+---
+
+**Q57.** Assertion (A): Mangroves can reduce cyclone impact along coasts.  
+Reason (R): Coastal green belts dissipate wave and wind energy before it hits inland settlements.
+
+A. Both A and R are true and R explains A
+
+B. Both A and R are true but R does not explain A
+
+C. A is true but R is false
+
+D. A is false but R is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+</details>
+
+---
+
+**Q58.** Which UP hazard pair is correctly matched?
+
+A. Zone V seismic belt — Lucknow–Kanpur core
+
+B. Flood — eastern Ghaghara–Rapti–Gandak belt
+
+C. Drought — only Terai always wet belt
+
+D. Cloudburst — typical Agra plain speciality
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — UP has no Zone V; cloudburst is a hill hazard.
+</details>
+
+---
+
+**Q59.** Which body provides India’s tsunami early warning?
+
+A. NDRF Delhi campus only
+
+B. INCOIS, Hyderabad
+
+C. BIS seismic code office only
+
+D. SDMA of every inland district
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q60.** Which of the following statements is/are correct?
+
+1. Mitigation happens before a disaster to reduce risk.
+2. Preparedness includes drills and early-warning systems.
+3. NDMA is chaired by the Union Home Minister.
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — NDMA is chaired by the **Prime Minister**.
+</details>
+
+---
+
 ## Complete PYQ Bank — Disaster Geography (2018–2025)
 
-**Instructions:** Answers are under `<details>`. Read the full stem before opening.
+**Instructions:** Click **Show answer** under each question. Read the full stem before opening.
 
 ---
 
@@ -1508,6 +1847,12 @@ Cyclone **formation** numbers. Ring-of-Fire **volcano list**.
 10. **Arabian Sea never hits India** — FALSE. **Gujarat/MH** (Tauktae).
 11. **Baguio = Japan; Willy-willy = USA** — FALSE. **PH and Australia**.
 12. **Sendai = 2005–15** — FALSE. That is **Hyogo**. Sendai **2015–30**.
+13. **NPDM = 2005** — FALSE. DM Act **2005**; NPDM **2009**.
+14. **NDMA chair = Home Minister** — FALSE. **Prime Minister**.
+15. **Hazard = disaster always** — FALSE. Disaster needs exposure + weak capacity.
+16. **Skip HVRC / Sendai priorities because recent papers asked zones** — FALSE. Next year can ask the framework from the same topic.
+17. **Arabian Sea never hits India** — FALSE. Gujarat–Maharashtra landfalls exist.
+18. **India is disaster-free** — FALSE (2018 key).
 13. **India is disaster-free** — FALSE (2018).
 14. **DPAP = 1952** — FALSE. **1973–74**; 1952 = CDP.
 15. **Gomati vs Yamuna as 2018 biological-disaster river** — paper key **Gomati**.

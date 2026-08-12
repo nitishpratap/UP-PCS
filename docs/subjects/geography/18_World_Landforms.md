@@ -5,15 +5,15 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-**Landforms:** Mountains | Plateaus | Plains | Volcanoes | Islands | Deserts
+**Landforms:** Mountains (fold / block / volcanic / residual) | Plateaus | Plains | Volcanoes | Islands | Deserts
 
 **Biomes:** Grasslands | Vegetation | World Climatic Regions (Mediterranean, Savanna, Steppe, Tundra, Taiga)
 
 </details>
 
-> **Sources baked in:** Lucent world-geography match-lists, NCERT world climate/vegetation, UPPCS Prelims PYQs 2018–2025  
-> **Exam weight:** ★★★ — mountain–country, desert size/country, grassland names, Med winter rain, volcano location, island statements  
-> **Last verified:** August 2026  
+> **Sources baked in:** Lucent world-geography match-lists; NCERT world climate/vegetation; coaching map (Drishti world geography / EduRev–Lucent landforms); UPPCS Prelims 2018–2025  
+> **Exam weight:** ★★★ — mountain–country, desert size/country, grassland names, Med winter rain, volcano location, island statements; teach full Lucent map  
+> **Last verified:** August 2026 — coaching gap-pass (mountain families, desert causes, chernozem, residual/dome)  
 > **Current Affairs:** none mandatory (static map chapter)
 
 ---
@@ -21,7 +21,7 @@
 ## Quick Revision — Spine Only
 
 ```
-MOUNTAINS: Andes longest fold | Himalaya highest | Rockies N America | Alps Europe | Atlas Africa (Toubkal = Morocco)
+MOUNTAINS: Fold / block / volcanic / residual–dome families | Andes longest fold | Himalaya highest | Rockies N America | Alps Europe | Atlas Africa (Toubkal = Morocco)
  Pyrenees = Spain–France | Apennine = Italy | Balkan = Bulgaria | Urals = Europe–Asia
  Kilimanjaro = Tanzania, NOT Pacific Ring of Fire | Stanley / Rwenzori = Uganda | Hoggar = Algeria | Chimborazo = Ecuador
 PLATEAUS: Tibet highest | Pamir = “roof of the world” | Deccan | Brazilian | Colorado / Columbia | Altiplano | Meseta Spain
@@ -29,10 +29,11 @@ PLAINS: Indo-Gangetic | N European | Great Plains USA | Pampas Argentina | Manch
 VOLCANOES: Fuji JP · Pinatubo PH · St Helens USA · Etna Italy · Paricutin Mexico · Apo PH · Rainier USA
  Kilimanjaro = East African Rift, not Ring of Fire (2024)
 ISLANDS: Greenland largest | New Guinea 2nd | Borneo 3rd = 3 countries, NOT volcanic dump (2022 Only 1)
-DESERTS: Sahara biggest hot | size ↑ Great Sandy < Gobi < Arabian < Sahara (2023)
+DESERTS: Sahara biggest hot | Atacama driest | WHY hot deserts = Horse Latitudes + WEST coasts + cold currents
+ size ↑ Great Sandy < Gobi < Arabian < Sahara
  Gobi = Mongolia + China, not Russia/Kazakhstan (2025 Only 1,2)
  Gibson = Australia NOT Brazil | Sonoran USA | Taklamakan China | Karakum Turkmenistan
-GRASS: Pampas = Argentina | Prairie N America | Veld SA | Downs Australia | Puszta Hungary | Campos Brazil | Llanos Venezuela
+GRASS: Pampas = Argentina | Prairie N America | Steppe Eurasia (chernozem) | Veld SA | Downs Australia | Puszta Hungary | Campos Brazil | Llanos Venezuela
  Big Games = Tropical Savanna (2019)
 VEG: Maquis=Med | Fynbos=SA | Chaparral=California | Matorral=Chile
  Epiphytes=Equatorial | Acacia=Sahara | Baobab=Savanna | Cedars=Med
@@ -63,30 +64,59 @@ CLIMATE: Med = winter rain, 30–45° W coasts | summer = dry subtropical high /
 | Borneo vs Java | Borneo = **Sunda shelf**, not volcanic dump; Java = volcanic arc | “All Indonesia = volcano” | बोर्नियो |
 | Greenland vs New Guinea | Greenland = **largest island**; New Guinea = 2nd | Australia is a continent | ग्रीनलैंड |
 | Med vs monsoon | Med rain = **winter**; monsoon rain = **summer** | Med summer rain | भूमध्यसागरीय |
+| Pamir vs Tibet | Pamir = phrase **Roof of the world**; Tibet = **highest large** plateau | Swapped | पामीर / तिब्बत |
+| Hot desert coasts | **West** coasts + cold currents + subtropical high | East-coast deserts | पश्चिमी तट |
+| Chernozem | Temperate grassland / **steppe–prairie** black soil | Equatorial laterite | चेरनोज़ेम |
+| Residual mountains | Worn leftovers of old folds (Appalachians type) | Young Himalaya | अवशिष्ट |
 
 ---
 
 ## Memory Tricks
 
-- **Kilimanjaro is African. Fuji / Pinatubo / St Helens are Pacific.**
-- **Pyrenees = Spain–France. Italy = Apennine. Bulgaria = Balkan.**
-- **Gobi = Mongolia + China only.**
-- **Gibson lives in Australia. Pampas live in Argentina.**
-- **Maquis–Med, Fynbos–Cape, Chaparral–California, Matorral–Chile.**
-- **Selva is the forest; Terra Roxa is the soil — both Brazil.**
-- **Mediterranean = winter rain. Savanna = Land of Big Games.**
+| Trick | Remembers |
+|-------|-----------|
+| **Kilimanjaro is African** | Fuji / Pinatubo / St Helens = Pacific Ring of Fire |
+| **Pyrenees = Spain–France · Italy = Apennine · Bulgaria = Balkan** | 2024 country–range match |
+| **Gobi = Mongolia + China only** | Not Russia / Kazakhstan |
+| **Gibson = Australia · Pampas = Argentina** | Not Brazil |
+| **Maquis–Med · Fynbos–Cape · Chaparral–California · Matorral–Chile** | West-coast shrub names |
+| **Selva = forest · Terra Roxa = soil** | Both Brazil |
+| **Mediterranean = winter rain · Savanna = Land of Big Games** | Climate traps |
+| **Pamir = Roof phrase · Tibet = highest large plateau** | Do not swap |
+| **West coast + cold current = hot desert** | Atacama / Namib logic |
+| **Prairie–Steppe–Pampas–Veld–Downs** | Temperate grassland local names |
+
+---
+
+## N.0 Framework — World Landforms & Natural Regions
+
+This chapter is Lucent **map-matching**: landform → country, desert → size/country, grassland → local name, climate → rain timing.
+
+- **Landforms** (mountains, plateaus, plains, volcanoes, islands, deserts) set the physical skeleton.
+- **Biomes** (grasslands, vegetation belts, climatic regions) sit on that skeleton — do not mix a soil name with a forest name (Terra Roxa ≠ Selva).
+- Mountain questions need **family** (fold / block / volcanic / residual) plus **country**.
+- Desert questions need **hot vs cold**, **size ladder**, and the **west-coast + cold-current** why-card.
+
+**Order of this chapter**
+
+1. Mountains → plateaus → plains.
+2. Volcanoes → islands → deserts.
+3. Grasslands → vegetation → world climatic regions.
+
+Teach the **full Lucent map** — next year can ask any standard range, desert or grassland pair, not only Kilimanjaro or Gobi.
 
 ---
 
 ## N.1 Mountains
 
-**Three exam families**
+**Four exam families** (coaching / Lucent)
 
-| Family | Force | World examples |
-|--------|-------|----------------|
-| **Fold** | Compression | Himalaya, Alps, Andes, Rockies, Atlas, Pyrenees, Zagros, Appalachians (old, worn) |
-| **Block / fault / rift** | Tension | Vosges, Black Forest, Sierra Nevada; African rift shoulders (**Kilimanjaro, Kenya, Rwenzori**) |
+| Family | Force / story | World examples |
+|--------|---------------|----------------|
+| **Fold** | Compression (orogeny) | Himalaya, Alps, Andes, Rockies, Atlas, Pyrenees, Zagros; **Appalachians** = old worn fold |
+| **Block / fault / rift** | Tension / uplifted blocks | Vosges, Black Forest, Sierra Nevada; African rift shoulders (**Kilimanjaro, Kenya, Rwenzori**) |
 | **Volcanic cone** | Magma | Fuji, Etna, Cotopaxi, Mauna Loa — location table in **N.4** |
+| **Residual / dome** | Old highland left after long denudation; or magma push (dome) | Residual leftovers of old folds (Appalachian-type worn highlands); **Black Hills** / laccolith **dome** awareness |
 
 **Highest peak by continent** (match-list gold)
 
@@ -111,18 +141,18 @@ CLIMATE: Med = winter rain, 30–45° W coasts | summer = dry subtropical high /
 | **Himalaya** | India–Nepal–Bhutan–China | **Highest**. Young Tertiary. Everest / Kanchenjunga |
 | **Karakoram** | PK–India–China | **K2**. Not a Himalaya “range name” swap |
 | **Rockies** | W Canada–USA–Mexico fringe | Young cordillera. **Not** the Appalachians |
-| **Appalachians** | **Eastern** USA | **Old** fold; worn; coal (2025 coal-field tag = USA) |
-| **Alps** | France–Switzerland–Austria–Italy | **Mont Blanc**. Switzerland is the 2024 “Alps” country. Foehn = warm downslope on the **north** side |
-| **Pyrenees** | **Spain–France** (Andorra) | 2024 A = 3. **Not** Alps |
-| **Apennines** | **Italy** | Spine of the peninsula. 2024 D = 2 |
-| **Balkans** | **Bulgaria** / SE Europe | 2024 C = 4. Not Carpathians |
+| **Appalachians** | **Eastern** USA | **Old** fold; worn; coal fields |
+| **Alps** | France–Switzerland–Austria–Italy | **Mont Blanc**. Switzerland is the classic “Alps” country lock. Foehn = warm downslope on the **north** side |
+| **Pyrenees** | **Spain–France** (Andorra) | **Not** Alps |
+| **Apennines** | **Italy** | Spine of the peninsula |
+| **Balkans** | **Bulgaria** / SE Europe | Not Carpathians |
 | **Carpathians** | Romania / Slovakia / Ukraine | Transylvania arc — do not dump on Bulgaria MCQ |
 | **Caucasus** | Russia–Georgia–Azerbaijan | **Elbrus** = Europe’s exam high point |
 | **Urals** | Russia | Conventional **Europe–Asia** divide |
 | **Atlas** | Morocco–Algeria–Tunisia | Highest peak **Toubkal = Morocco** (not Algeria) |
 | **Drakensberg** | South Africa / Lesotho | SE African escarpment |
 | **Ethiopian Highlands** | Ethiopia | Blue Nile / Lake Tana source side |
-| **Rwenzori** | Uganda–DRC | **Mt Stanley** — 2023 keys **Uganda** |
+| **Rwenzori** | Uganda–DRC | **Mt Stanley** — exam country lock **Uganda** |
 | **Hoggar / Ahaggar** | **Algeria** | Sahara highland. **Not** Atlas |
 | **Tibesti** | Chad | Sahara highland, awareness |
 | **Zagros / Elburz** | Iran | Zagros = west fold; Elburz = north, **Damavand** |
@@ -144,7 +174,7 @@ CLIMATE: Med = winter rain, 30–45° W coasts | summer = dry subtropical high /
 
 > **Exam note:** Paper may print **Kalimanjaro** and **Chimbrozo**. Same peaks. Atlas is **Morocco**, not France/Spain (that is Pyrenees).
 
-**PYQ — UPPCS Prelims 2024, Q61**
+**Inline PYQ — UPPCS Prelims 2024, Q61**
 
 Match List-I with List-II and choose the correct answer using the codes given below the lists:
 
@@ -174,7 +204,7 @@ Trap **A** swaps Apennine and Balkan (Italy would get Balkan). Trap **D** gives 
 
 </details>
 
-**PYQ — UPPCS Prelims 2020, Q86**
+**Inline PYQ — UPPCS Prelims 2020, Q86**
 
 Match List-I with List-II and select the correct answer using the codes given below the lists:
 
@@ -204,7 +234,7 @@ Paper spellings **Kalimanjaro / Chimbrozo** are the same peaks. Trap **B** gives
 
 </details>
 
-**PYQ — UPPCS Prelims 2023, Q65**
+**Inline PYQ — UPPCS Prelims 2023, Q65**
 
 Match List-I with List-II and select the correct answer using the code given below:
 
@@ -340,7 +370,7 @@ Pampas vs Campos: same “open land” idea, **different country** — Argentina
 
 > **Exam note:** If the stem says **Pacific Ring of Fire**, drop **Kilimanjaro** (and Etna if it appears). Paper spelling **Pericutine** = Paricutin, Mexico.
 
-**PYQ — UPPCS Prelims 2024, Q30**
+**Inline PYQ — UPPCS Prelims 2024, Q30**
 
 Which of the following volcanoes is not located in the Pacific Ring of Fire?
 
@@ -361,7 +391,7 @@ D. Mount St. Helens
 
 </details>
 
-**PYQ — UPPCS Prelims 2021, Q78**
+**Inline PYQ — UPPCS Prelims 2021, Q78**
 
 Match List-I with List-II and select the correct answer using the codes given below the lists:
 
@@ -429,7 +459,7 @@ Trap **A** gives Etna to Mexico (that is Paricutin). Trap **D** gives Etna to th
 
 > **Exam note:** Stmt 1 true, stmt 2 false for Borneo. Java/Sumatra **are** volcanic-arc; do not copy that onto Borneo.
 
-**PYQ — UPPCS Prelims 2022, Q126**
+**Inline PYQ — UPPCS Prelims 2022, Q126**
 
 With reference to Borneo Island, located in South-East Asia, which of the following statements is/are true?
 
@@ -456,6 +486,14 @@ D. Only 1
 ---
 
 ## N.6 Deserts
+
+Deserts are arid lands (coaching cut often **< 25 cm** rain) with sparse xerophytic vegetation.
+
+**Why hot deserts favour west coasts (coaching card)**
+
+- Subtropical **Horse Latitudes** (descending dry air of the subtropical high).
+- **Cold ocean currents** on western margins suppress convection (fog possible, rain rare).
+- Classic set: **Atacama** (Humboldt / Peru), **Namib** (Benguela), Sahara–Arabian west-margin logic, plus Thar as a monsoon-margin / rain-shadow cousin.
 
 | Kind | Why dry | Examples |
 |------|---------|----------|
@@ -491,7 +529,7 @@ D. Only 1
 
 > **Exam note:** Kazakhstan has **other** dry belts (Kyzylkum fringe, steppe). That does **not** put Gobi into option 4.
 
-**PYQ — UPPCS Prelims 2025, Q27**
+**Inline PYQ — UPPCS Prelims 2025, Q27**
 
 The Gobi Desert extends into which of the following countries?
 
@@ -519,7 +557,7 @@ D. Only 1
 
 </details>
 
-**PYQ — UPPCS Prelims 2023, Q63**
+**Inline PYQ — UPPCS Prelims 2023, Q63**
 
 Consider the following deserts and arrange them in increasing order of their size (from smallest to largest).
 
@@ -550,7 +588,7 @@ Trap **A** puts Arabian before Gobi. Trap **B** starts with Arabian (too big).
 
 </details>
 
-**PYQ — UPPCS Prelims 2018, Q27**
+**Inline PYQ — UPPCS Prelims 2018, Q27**
 
 Which of the following pairs is NOT correctly matched?
 
@@ -579,15 +617,18 @@ D. Gibson – Brazil
 
 **Tropical** grassland = **savanna** (summer rain, scattered trees). **Temperate** grassland = prairie / pampas / steppe / veld / downs (hot summer, cold winter, few trees).
 
+- Temperate grasslands often sit on fertile **chernozem / black earth** (especially Eurasian **steppe** and North American **prairie**) — the world’s wheat belts.
+- They are treeless mainly because rainfall is **too low for forest**, not because it is always freezing.
+
 | Local name | Where | Climate | Economy tag |
 |------------|-------|---------|-------------|
-| **Prairie** | USA–Canada (Great Plains) | Temperate | Wheat / maize / cattle |
-| **Pampas** | **Argentina** (+ Uruguay) | Temperate | Cattle / wheat. **2018 country = Argentina** |
+| **Prairie** | USA–Canada (Great Plains) | Temperate | Wheat / maize / cattle; chernozem-type soils |
+| **Pampas** | **Argentina** (+ Uruguay) | Temperate | Cattle / wheat |
 | **Veld** (High / Middle / Low) | **South Africa** | Temperate–subtropical | Maize, gold belt overlay |
 | **Downs** | **Australia** | Temperate | Sheep / wheat |
 | **Canterbury Downs** | New Zealand | Temperate | Sheep |
-| **Steppe** | Ukraine–S Russia–Kazakhstan–Mongolia | Semi-arid **BS** | Wheat / nomadism |
-| **Puszta** | **Hungary** | Temperate | 2024 List-II = Hungary |
+| **Steppe** | Ukraine–S Russia–Kazakhstan–Mongolia | Semi-arid **BS** | Wheat / nomadism; classic **chernozem** |
+| **Puszta** | **Hungary** | Temperate | Hungarian Alföld lock |
 | **Campos** | **Brazil** (plateau) | Tropical / temperate mix | Cattle. **Not** Pampas |
 | **Llanos** | **Venezuela–Colombia** (Orinoco) | Tropical | Cattle |
 | **Savanna / Sudan type** | Africa (also N Australia, Brazilian edges) | Tropical **Aw** | **Land of Big Games** |
@@ -596,7 +637,7 @@ D. Gibson – Brazil
 
 **“Land of Big Games”** = **Tropical Savanna** (2019 Q10). Temperate grassland = farms and cattle, not the lion–zebra poster. Hot desert is **not** this label.
 
-**PYQ — UPPCS Prelims 2018, Q26**
+**Inline PYQ — UPPCS Prelims 2018, Q26**
 
 In which of the following countries is the Pampas grasslands situated?
 
@@ -617,7 +658,7 @@ D. Ecuador
 
 </details>
 
-**PYQ — UPPCS Prelims 2019, Q10**
+**Inline PYQ — UPPCS Prelims 2019, Q10**
 
 Which one of the following natural regions is known as "Land of Big Games"?
 
@@ -691,7 +732,7 @@ Code **2 3 4 1**.
 - **Puszta** = Hungary (grassland, not a forest).
 - 2024 Q29 code **3 4 2 1**.
 
-**PYQ — UPPCS Prelims 2019, Q1**
+**Inline PYQ — UPPCS Prelims 2019, Q1**
 
 Match List-I with List-II and select the correct answer using the codes given below the lists:
 
@@ -721,7 +762,7 @@ Trap **B** starts Maquis on Chile. Trap **D** gives Fynbos to the Mediterranean.
 
 </details>
 
-**PYQ — UPPCS Prelims 2019, Q3**
+**Inline PYQ — UPPCS Prelims 2019, Q3**
 
 Match List-I with List-II and select the correct answer using the codes given below the lists:
 
@@ -751,7 +792,7 @@ Trap **C** swaps baobab onto Sahara (baobab is savanna). **Buobab** on the paper
 
 </details>
 
-**PYQ — UPPCS Prelims 2025, Q63**
+**Inline PYQ — UPPCS Prelims 2025, Q63**
 
 With reference to Brazil, which of the following statements is/are correct?
 
@@ -777,7 +818,7 @@ D. Only 1
 
 </details>
 
-**PYQ — UPPCS Prelims 2024, Q29**
+**Inline PYQ — UPPCS Prelims 2024, Q29**
 
 Match List-I with List-II and choose the correct answer using the codes given below the lists:
 
@@ -842,7 +883,7 @@ Pressure belts **follow the Sun**. At the **winter solstice** (NH December) they
 - **Winter:** belts shift equatorward → **westerlies** + Mediterranean cyclones → rain.
 - Do not give Mediterranean **summer** rain (that is monsoon / China type).
 
-**PYQ — UPPCS Prelims 2024, Q79**
+**Inline PYQ — UPPCS Prelims 2024, Q79**
 
 Consider the following statements with reference to Mediterranean climate:
 
@@ -868,7 +909,7 @@ D. Both 1 and 2
 
 </details>
 
-**PYQ — UPPCS Prelims 2022, Q144**
+**Inline PYQ — UPPCS Prelims 2022, Q144**
 
 Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
 
@@ -893,7 +934,7 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A).
 
 </details>
 
-**PYQ — UPPCS Prelims 2020, Q72**
+**Inline PYQ — UPPCS Prelims 2020, Q72**
 
 In which of the following regions of the world, the production of citrus fruits is well developed?
 
@@ -916,7 +957,7 @@ D. Equatorial regions
 
 ---
 
-## Consolidated — Must-Score Locks
+## Consolidated — 24 Must-Score Locks
 
 1. Andes = **longest** fold; Himalaya = **highest**; Aconcagua = Andes / Argentina.
 2. Pyrenees = Spain–France; Alps = Switzerland; Apennine = Italy; Balkan = Bulgaria.
@@ -940,10 +981,15 @@ D. Equatorial regions
 20. Taiga = conifer forest; tundra = treeless.
 21. Rainier USA; Etna Italy; Paricutin Mexico; Apo Philippines.
 22. Elbrus = Europe (Caucasus); Mont Blanc = Alps; Denali = N America; Kosciuszko = Australia mainland.
+23. Hot deserts favour **west coasts** (Horse Latitudes + cold currents); Atacama = driest.
+24. Temperate grasslands = Prairie / Steppe / Pampas / Veld / Downs; steppe–prairie = **chernozem** wheat belt; residual / dome = worn or laccolith leftovers.
 
 ---
 
-## Practice Zone — 40 Questions (2025 Pattern Mix)
+## Practice Zone — UPPCS Format Questions
+
+> **Answers hidden** — click **Show answer** under each question to reveal.  
+> **Format mix:** 60 questions — Match List | multi-statement | Assertion–Reason | NOT correctly matched | direct recall (PYQ + coaching gaps)
 
 **Q1.** Match List-I with List-II and select the correct answer using the codes given below the lists:
 
@@ -1890,6 +1936,377 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 ---
 
+
+**Q41.** Hot deserts on the western margins of continents are best explained by:
+
+A. Only warm western boundary currents
+
+B. Subtropical high (Horse Latitudes) plus cold ocean currents that suppress rain
+
+C. Only equatorial low pressure all year
+
+D. Only monsoon summer rain
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q42.** Chernozem (black earth) is classically associated with:
+
+A. Equatorial selva soils only
+
+B. Temperate grassland / steppe–prairie belts
+
+C. Only Mediterranean maquis
+
+D. Only tundra permafrost
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q43.** Which mountain family best fits the Appalachians in the usual coaching lock?
+
+A. Young volcanic cone like Fuji
+
+B. Old worn **fold** / residual highland
+
+C. Mid-ocean ridge only
+
+D. Pure ice-sheet nunatak only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q44.** Assertion (A): The Pamir Knot is often called the “Roof of the world.”  
+Reason (R): The Tibetan Plateau is the highest *large* plateau on Earth.
+
+A. Both A and R are true and R explains A
+
+B. Both A and R are true but R does not explain A
+
+C. A is true but R is false
+
+D. A is false but R is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Both locks are true; they are parallel identity lines, not one explaining the other.
+</details>
+
+---
+
+**Q45.** Which pair is correctly matched?
+
+A. Downs — Argentina
+
+B. Puszta — Hungary
+
+C. Campos — USA
+
+D. Prairie — Brazil
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q46.** The driest desert in the usual Prelims lock is:
+
+A. Gobi
+
+B. Great Sandy
+
+C. Atacama
+
+D. Thar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Atacama (Chile), cold-current fog coast.
+</details>
+
+---
+
+**Q47.** Which of the following is/are correctly matched?
+
+1. Fold mountains — Himalaya, Andes, Alps
+2. Block / rift — Vosges, East African Rift peaks
+3. Residual — young Himalaya still rising only
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Residual = worn leftovers of old highlands, not the rising Himalaya.
+</details>
+
+---
+
+**Q48.** Temperate grasslands are treeless mainly because:
+
+A. Rainfall is usually too low to support forest
+
+B. They lie only under permanent ice
+
+C. They receive equatorial convection every day
+
+D. They are always above 8,000 m
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+</details>
+
+---
+
+**Q49.** Colorado Plateau and Columbia Plateau differ because:
+
+A. Both are only lava plateaus
+
+B. Colorado is famous for Grand Canyon dissection; Columbia is a classic lava plateau
+
+C. Both lie only in China
+
+D. Both are Mediterranean scrub names
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q50.** Which statement about world deserts is/are correct?
+
+1. Sahara is the largest hot desert.
+2. Gobi is a cold desert of Mongolia and China.
+3. Gibson Desert is in Brazil.
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Gibson = **Australia**.
+</details>
+
+---
+
+**Q51.** Canterbury Downs are associated with:
+
+A. Hungary
+
+B. New Zealand
+
+C. Venezuela
+
+D. Morocco
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q52.** Which peak is the highest outside Asia in the standard lock?
+
+A. Mont Blanc
+
+B. Kilimanjaro
+
+C. Aconcagua
+
+D. Elbrus
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Andes / Argentina.
+</details>
+
+---
+
+**Q53.** Sahel is best described as:
+
+A. The core of the Amazon selva
+
+B. The semi-arid fringe south of the Sahara
+
+C. The Hungarian puszta
+
+D. The Pamir knot
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q54.** Which volcano belt includes Etna and Vesuvius?
+
+A. Circum-Pacific Ring of Fire only
+
+B. Mid-Atlantic ridge only
+
+C. Alpine–Himalayan / Mediterranean belt
+
+D. Hawaiian hot-spot only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+</details>
+
+---
+
+**Q55.** Assertion (A): Atacama is among the driest deserts on Earth.  
+Reason (R): A cold ocean current and subtropical high suppress rainfall on Chile’s west coast.
+
+A. Both A and R are true and R explains A
+
+B. Both A and R are true but R does not explain A
+
+C. A is true but R is false
+
+D. A is false but R is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+</details>
+
+---
+
+**Q56.** Which plateau is correctly matched?
+
+A. Meseta — Spain
+
+B. Altiplano — Australia
+
+C. Deccan — Brazil
+
+D. Pamir — Argentina
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+</details>
+
+---
+
+**Q57.** “Land of Big Games” is:
+
+A. Temperate prairie of Canada only
+
+B. Tropical savanna
+
+C. Hot desert Sahara only
+
+D. Tundra of Siberia only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q58.** Which island ranking is correct?
+
+A. New Guinea > Greenland > Borneo
+
+B. Greenland > New Guinea > Borneo
+
+C. Borneo > Greenland > Madagascar
+
+D. Australia > Greenland as the largest island
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Australia is a **continent**, not ranked as the largest island.
+</details>
+
+---
+
+**Q59.** Foehn winds on the Alps are warm downslope winds typically discussed for the:
+
+A. Southern ocean only
+
+B. North side of the Alps in the coaching lock
+
+C. Only Amazon basin
+
+D. Only Gobi desert
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q60.** Which pair is NOT correctly matched?
+
+A. Prairie — North America
+
+B. Steppe — Eurasia
+
+C. Pampas — Argentina
+
+D. Campos — Chile
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Campos = **Brazil**.
+</details>
+
+---
+
 ## Complete PYQ Bank
 
 **Instructions:** Answers under `<details>`. Match questions use a table. Options sit on separate lines.
@@ -2417,6 +2834,10 @@ None mandatory — static world-map chapter. No living scheme lock.
 14. **Toubkal = Algeria** — FALSE. **Morocco**. Hoggar = Algeria.
 15. **Etna = Pacific** — FALSE. **Italy / Mediterranean**.
 16. **Australia = largest island** — FALSE. Australia is a **continent**; largest island = **Greenland**.
+17. **Hot deserts only on east coasts** — FALSE. Classic set = **west** coasts + cold currents + Horse Latitudes.
+18. **Pamir = highest large plateau** — FALSE. That is **Tibet**; Pamir = **Roof of the world** phrase.
+19. **Chernozem = equatorial laterite** — FALSE. Chernozem = temperate grassland / steppe–prairie.
+20. **Skip mountain families because papers asked country matches** — FALSE. Fold / block / residual can all appear.
 17. **Atlas = France/Spain** — FALSE. That is **Pyrenees**. Atlas peak Toubkal = **Morocco**.
 18. **Pamir = highest large plateau** — FALSE. Phrase is Pamir; **Tibet** is the highest large plateau.
 19. **Colorado Plateau = lava** — FALSE. **Columbia** is lava; Colorado holds the **Grand Canyon**.

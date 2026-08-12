@@ -5,11 +5,11 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Origin of Universe | Solar System | Motions of Earth | Latitude | Longitude | Time | Time Zones | International Date Line | Atmosphere | Structure of Atmosphere | Weather | Climate | Global Warming | El Niño | Coriolis Force | Jet Stream | Pressure Belts | Planetary Winds | ITCZ | Interior of the Earth | Continental Drift | Plate Tectonic Theory | Fold Mountains | Fault Mountains | Volcano Types | Major Earthquake Belts | Major Volcano Belts
+Origin of Universe | Solar System | Earth System (spheres / rock cycle) | Motions of Earth | Latitude | Longitude | Time | Time Zones | IDL | Atmosphere | Weather & Climate | Global Warming | El Niño | Coriolis | Jet Stream | Pressure Belts | Planetary Winds | ITCZ | Interior of the Earth | Continental Drift | Plate Tectonics | Fold & Fault Mountains | Volcano Types | Earthquake & Volcano Belts
 </details>
 
-> **Sources baked in:** NCERT Class 6–11 (Earth, atmosphere, interior, plates), IMD/NASA framing, UPPCS Prelims 2018–2025  
-> **Exam weight:** ★★★★ — ozone layer, El Niño plankton trap, Coriolis SH, jets westerly, Ring of Fire, GHG  
+> **Sources baked in:** NCERT Class 6–11 (Earth, atmosphere, interior, plates), PWOnlyIAS / Drishti physical geography notes, IMD/NASA framing, UPPCS Prelims 2018–2025  
+> **Exam weight:** ★★★★ — ozone layer, El Niño plankton trap, Coriolis SH, jets westerly, Ring of Fire, GHG; teach full earth-system map  
 > **Last verified:** August 2026  
 > **Current Affairs:** Aditya-L1 (solar); Mangalyaan = first Indian Mars orbiter; Montreal vs Kyoto; El Niño–monsoon
 
@@ -45,8 +45,10 @@ DRIFT: Wegener 1912 | Pangaea + Panthalassa | plates: diverge / converge / trans
 FOLD = Himalaya, Alps, Andes, Rockies | FAULT/BLOCK = Vosges, Black Forest, Sierra Nevada, Rhine
 VOLCANO: Shield Mauna Loa | Composite Fuji/Etna/Vesuvius | Cinder Paricutin | Fissure Deccan | Caldera Krakatoa
  Stromboli = “lighthouse of Mediterranean” | Barren Island = India’s only active (Andaman)
- Ring of Fire ≠ Kilimanjaro | 2021: Rainier USA, Etna Italy, Paricutin Mexico, Apo PH → 4 1 2 3
-EQ BELTS: Ring of Fire | Mid-Atlantic | Alpine–Himalayan | India zones
+ Ring of Fire ≠ Kilimanjaro | 2021 volcano match: Rainier USA, Etna Italy, Paricutin Mexico, Apo PH
+EQ BELTS: Ring of Fire | Mid-Atlantic | Alpine–Himalayan | East African Rift | India zones
+EARTH SYSTEM: lithosphere · atmosphere · hydrosphere · biosphere interact
+ Rocks: igneous / sedimentary / metamorphic cycle (awareness)
 ```
 
 ---
@@ -81,27 +83,53 @@ EQ BELTS: Ring of Fire | Mid-Atlantic | Alpine–Himalayan | India zones
 | Stromboli | **Mediterranean / Italy** | Ring of Fire Pacific | स्ट्राम्बोली |
 | Sial vs Sima | Continents vs **ocean crust** | Swapped | सियाल / सीमा |
 | Heat budget | Earth absorbs ~**51**/100; planet albedo ~**35** reflected | “All 100 heat the air directly” | ऊष्मा बजट |
+| Seasons cause | **23½° tilt** | Perihelion distance | ऋतु |
+| Divergent boundary | Plates **apart** / MOR | Convergent trench | अपसारी |
 
 ---
 
 ## Memory Tricks
 
-- **Ozone = stratosphere. Weather = troposphere.**
-- **El Niño = warm Peru = less fish.**
-- **SH winds turn left — Coriolis.**
-- **Jets are westerlies; TEJ is the easterly exception.**
-- **Kyoto climate · Montreal ozone.**
-- **Kilimanjaro = Africa rift, not Pacific ring.**
-- **15° = 1 hour · 82.5° E = IST.**
-- **Kant–Laplace nebular · Hoyle steady state · Gamow bang.**
-- **Hottest Venus · biggest Jupiter · Ganymede moon · asteroids Mars–Jupiter.**
-- **Roaring Forties = 40°S. Stromboli = Mediterranean lighthouse.**
+| Trick | Remembers |
+|-------|-----------|
+| **Ozone = stratosphere** | Weather = troposphere |
+| **El Niño = warm Peru = less fish** | Upwelling fails → plankton fall |
+| **SH Coriolis = left** | NH = right; zero at equator |
+| **Jets = westerlies** | TEJ = summer easterly exception |
+| **Kyoto climate · Montreal ozone** | Do not swap |
+| **Kilimanjaro = Africa rift** | Not Pacific Ring of Fire |
+| **15° = 1 hour · 82°30′ E = IST** | Mirzapur meridian |
+| **Kant–Laplace · Hoyle · Gamow** | Nebular · Steady State · Big Bang |
+| **Venus hot · Jupiter big · Ganymede moon** | Asteroids = Mars–Jupiter |
+| **Roaring Forties = 40°S** | Stromboli = Mediterranean lighthouse |
+| **Gutenberg = S-waves stop** | Outer core is liquid |
+
+---
+
+## N.0 Framework — Earth as a System
+
+Physical geography studies Earth as interacting spheres.
+
+- **Lithosphere** — solid crust and upper mantle (rocks, plates, landforms).
+- **Atmosphere** — gas envelope (weather, climate, winds).
+- **Hydrosphere** — oceans, rivers, ice and groundwater.
+- **Biosphere** — life layer where the other three meet.
+
+**Big picture order for this chapter**
+
+1. Universe and solar system set Earth’s place in space.
+2. Earth’s motions and lat–long set day, seasons and time.
+3. Atmosphere and oceans set weather–climate engines (pressure, winds, El Niño, jets).
+4. Interior and plate tectonics set earthquakes, volcanoes and mountain belts.
+5. Rock cycle awareness: **igneous** (cooled magma), **sedimentary** (layers), **metamorphic** (changed by heat/pressure).
+
+Teach the **full map** below — next year can ask any standard NCERT angle, not only the last paper’s ozone or El Niño stem.
 
 ---
 
 ## N.1 Origin of Universe
 
-**Match-list (origin theories — Lucent/exam)**
+Several theories try to explain how the universe and solar system began. Learn the propounder with one clear lock.
 
 | Theory | Propounder | One-line |
 |--------|------------|----------|
@@ -238,10 +266,47 @@ Composition (dry air): **N₂ ~78%**, **O₂ ~21%**, Ar ~0.9%, CO₂ ~0.04%. Wat
 | Thermosphere / Ionosphere | above ~80 km | Radio bounce; aurora |
 | Exosphere | outermost | Merges into space |
 
-**Heating of atmosphere (2022 Q138):** mainly **long-wave terrestrial radiation**, not incoming short-wave.
-**2025 Q45:** ozone protects from UV **and** depletion linked to **CFCs** → **Both**.
-**2018 Q57 NOT matched:** Ozone layer–**Troposphere**.
-Diffusion of light (blue sky / scattering cue in that paper) → **dust particles** (2021 Q134).
+- The atmosphere is heated mainly by **long-wave terrestrial radiation**, not by incoming short-wave alone.
+- Diffusion / scattering of light in the classic UPPCS framing is linked with **dust particles**.
+
+**Inline PYQ — UPPCS Prelims 2025, Q45**
+
+With reference to the ozone layer, which of the following statements is/are correct?
+
+1. It protects the Earth’s surface from solar ultraviolet radiation.
+2. Its depletion has been linked to chlorofluorocarbons (CFCs).
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Ozone UV shield is in the **stratosphere**; CFCs deplete it.
+</details>
+
+**Inline PYQ — UPPCS Prelims 2022, Q138**
+
+The atmosphere is heated mainly by:
+
+A. Incoming short-wave solar radiation alone
+
+B. Long-wave terrestrial radiation
+
+C. Only cosmic rays
+
+D. Only geothermal heat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
 **Heat budget (NCERT 100 units of insolation)**
 
 | Fate | Units |
@@ -261,7 +326,28 @@ Earth then returns energy as **long-wave** (the 2022 heating lock). Ozone **hole
 | Time | Hours–days | **~30-year** average |
 | Example | Today’s rain, today’s Loo | Monsoon climate, Mediterranean |
 
-Mediterranean: **winter rain** + winter-solstice belt shift south → **both** (2024 Q79).
+Mediterranean climate has **winter rain**. Around the NH winter solstice, pressure belts **shift south**, which helps that winter-rain pattern.
+
+**Inline PYQ — UPPCS Prelims 2024, Q79**
+
+With reference to the Mediterranean region, which of the following statements is/are correct?
+
+1. It receives rainfall mainly in winter.
+2. Around the winter solstice, pressure belts shift southward.
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+</details>
 
 ---
 
@@ -289,7 +375,8 @@ Nuclear **and** geothermal are **not** stored solar energy (2022 Q139). Biomass 
 
 ## N.9 El Niño
 
-ENSO = equatorial **Pacific** coupled ocean–atmosphere. Southern Oscillation = Darwin–Tahiti pressure.
+ENSO is the equatorial **Pacific** ocean–atmosphere couple. The Southern Oscillation is the Darwin–Tahiti pressure see-saw.
+
 
 | | El Niño | La Niña |
 |--|---------|---------|
@@ -298,22 +385,85 @@ ENSO = equatorial **Pacific** coupled ocean–atmosphere. Southern Oscillation =
 | Plankton / fish | **Fall** (2023 Q67 stmt 2 false) | Rise |
 | Walker cell | Breaks / reverses | Strong |
 
-**2023 Q67 → Only 1.** Warm water does **not** increase plankton.
+- Warm El Niño water off Peru does **not** increase plankton; it cuts upwelling, so fish catch falls.
+
+**Inline PYQ — UPPCS Prelims 2023, Q67**
+
+With reference to El Niño, which of the following statements is/are correct?
+
+1. It is associated with a warm current off the Peru coast in the eastern Pacific.
+2. That warm water increases plankton growth off Peru.
+
+A. 1 only
+
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Statement 2 is false. Less upwelling → **less** plankton/fish.
+</details>
 
 ---
 
 ## N.10 Coriolis Force
 
-From Earth’s **rotation**. Deflects moving air/water: **right in NH, left in SH** (Ferrel). **Zero at equator**; maximum at poles. Cyclones cannot form on the equator (need Coriolis).
-**2023 Q68:** SH leftward deflection = **Coriolis**, not temperature / magnetic / pressure.
+Coriolis force comes from Earth’s **rotation**.
+
+- It deflects moving air and water to the **right in the Northern Hemisphere** and to the **left in the Southern Hemisphere** (Ferrel’s law).
+- It is **zero at the equator** and strongest near the poles.
+- Tropical cyclones cannot form on the equator because Coriolis is absent there.
+
+**Inline PYQ — UPPCS Prelims 2023, Q68**
+
+Winds deflect to the left in the Southern Hemisphere because of:
+
+A. Temperature difference alone
+
+B. Coriolis force
+
+C. Magnetic field
+
+D. Pressure alone
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
 
 ---
 
 ## N.11 Jet Stream
 
-Narrow high-altitude (~200–300 hPa) cores. **Polar jet** and **subtropical westerly jet (STWJ)** = **westerly**. Speed often **300–500 km/h**.
-**2024 Q60:** (A) “jets = high-altitude **easterly**” = **FALSE**. (R) speed 300–500 = true. → **A false, R true**.
-**Exception:** **Tropical Easterly Jet (TEJ)** in Indian summer ~**14°N**.
+Jet streams are narrow high-altitude (~200–300 hPa) wind cores.
+
+- The **polar jet** and **subtropical westerly jet (STWJ)** are **westerly**.
+- Speeds are often **300–500 km/h**.
+- The Indian-summer exception is the **Tropical Easterly Jet (TEJ)** near about **14°N**.
+
+**Inline PYQ — UPPCS Prelims 2024, Q60**
+
+Assertion (A): Jet streams discovered in WWII are high-altitude **easterly** winds.  
+Reason (R): Jet streams flow at about 300–500 km/h.
+
+A. Both A and R are true and R explains A
+
+B. Both A and R are true but R does not explain A
+
+C. A is true but R is false
+
+D. A is false but R is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Main jets are **westerly**; TEJ is the easterly exception. Speed figure is true.
+</details>
 
 ---
 
@@ -387,7 +537,10 @@ Lithosphere plates float on asthenosphere. **Seven majors:** Pacific, North Amer
 | Convergent | Together | Trenches, fold mountains, volcanoes, quakes |
 | Transform | Slide | San Andreas; quakes, little crust created |
 
-**Pacific** = largest plate. **Nazca** under South America → **Andes** + Peru–Chile trench. **Benioff** zone = dipping quake plane at subduction. India–Eurasia collision → Himalaya (still rising).
+- The **Pacific** plate is the largest.
+- The **Nazca** plate sinks under South America and builds the **Andes** with the Peru–Chile trench.
+- A **Benioff** zone is the dipping earthquake plane at a subduction boundary.
+- India–Eurasia collision still raises the **Himalaya**.
 
 ---
 
@@ -416,7 +569,33 @@ Lithosphere plates float on asthenosphere. **Seven majors:** Pacific, North Amer
 | Dormant | Long quiet, may revive — **Vesuvius**, **Narcondam** (Andaman) |
 | Extinct | No expected eruption |
 
-**2021 Q78:** Rainier–**USA**, Etna–**Italy**, Paricutin–**Mexico**, Apo–**Philippines** → **4, 1, 2, 3**.
+**Inline PYQ — UPPCS Prelims 2021, Q78**
+
+Match List-I with List-II and select the correct answer.
+
+| List-I (Volcano) | List-II (Country) |
+|---|---|
+| A. Rainier | 1. Italy |
+| B. Etna | 2. Mexico |
+| C. Paricutin | 3. Philippines |
+| D. Apo | 4. USA |
+
+> Row order is **not** the answer — use the option codes.
+
+A. 4, 2, 1, 3
+
+B. 4, 1, 2, 3
+
+C. 2, 1, 4, 3
+
+D. 4, 3, 2, 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Rainier–USA; Etna–Italy; Paricutin–Mexico; Apo–Philippines.
+</details>
+
 
 ---
 
@@ -433,7 +612,7 @@ India seismic **zones II–V**. NDMA chair = **PM**.
 
 ---
 
-## Consolidated — 20 Must-Score Locks
+## Consolidated — 25 Must-Score Locks
 
 1. Ozone UV layer = **stratosphere**; CFCs deplete it.
 2. Atmosphere heated by **long-wave terrestrial** radiation.
@@ -463,7 +642,11 @@ India seismic **zones II–V**. NDMA chair = **PM**.
 
 ---
 
-## Practice Zone — 65 Questions (2025 Pattern Mix)
+## Practice Zone — UPPCS Format Questions
+
+> **Answers hidden** — click **Show answer** under each question to reveal.  
+> **Format mix:** 70 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (asked + standard NCERT angles)
+
 
 **Q1.** The ozone layer that absorbs UV exists in the:
 
@@ -706,7 +889,16 @@ D. St. Helens
 
 ---
 
-**Q14.** Match: Rainier, Etna, Paricutin, Apo → Italy, Mexico, Philippines, USA
+**Q14.** Match List-I with List-II.
+
+| List-I (Volcano) | List-II (Country) |
+|---|---|
+| A. Rainier | 1. Italy |
+| B. Etna | 2. Mexico |
+| C. Paricutin | 3. Philippines |
+| D. Apo | 4. USA |
+
+> Row order is **not** the answer — use the option codes.
 
 A. 4 2 1 3
 
@@ -715,8 +907,6 @@ B. 4 1 2 3
 C. 2 1 4 3
 
 D. 4 3 2 1
-
-(List-II: 1 Italy 2 Mexico 3 Philippines 4 USA)
 
 <details>
 <summary>Show answer</summary>
@@ -1658,6 +1848,102 @@ D. 2024
 
 ---
 
+
+**Q66.** Which set correctly names Earth’s four interacting spheres in physical geography?
+
+A. Only crust and core
+
+B. Lithosphere, atmosphere, hydrosphere, biosphere
+
+C. Only troposphere and stratosphere
+
+D. Only Pangaea and Panthalassa
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+---
+
+**Q67.** Igneous rocks form from:
+
+A. Cooling and solidification of magma / lava
+
+B. Only compaction of river mud with no heat history ever
+
+C. Only metamorphism of limestone always
+
+D. Only condensation of water vapour
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+</details>
+
+---
+
+**Q68.** Which boundary type creates mid-ocean ridges?
+
+A. Convergent only
+
+B. Divergent
+
+C. Transform only
+
+D. Only collision of two continents
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Plates move apart at divergent boundaries.
+</details>
+
+---
+
+**Q69.** Assertion (A): Seasons on Earth are caused mainly by perihelion and aphelion distance.  
+Reason (R): Earth’s axis is tilted about 23½° to the orbital plane.
+
+A. Both A and R are true and R explains A
+
+B. Both A and R are true but R does not explain A
+
+C. A is true but R is false
+
+D. A is false but R is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Seasons come from **tilt**, not from perihelion distance. NH winter is near perihelion.
+</details>
+
+---
+
+**Q70.** Which of the following pairs is/are correctly matched?
+
+1. Gutenberg discontinuity — mantle / outer core; S-waves stop
+2. Lehmann discontinuity — outer / inner core
+3. Moho — crust / mantle
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+</details>
+
+---
+
 ## Complete PYQ Bank — Earth & Universe (2018–2025)
 
 **Instructions:** Answers under `<details>`.
@@ -2197,3 +2483,8 @@ D. All of the above
 21. **Sial = ocean floor** — FALSE. **Continents**. Sima = ocean.
 22. **Kilimanjaro / Stromboli = same belt** — FALSE. Stromboli = **Mediterranean**; Kilimanjaro = **E. African Rift**.
 23. **All 100 insolation units heat the air directly** — FALSE. ~**35** reflected; surface ~**51**; air then heated by **long-wave**.
+
+24. **Seasons caused by perihelion** — FALSE. Seasons = **axial tilt**.
+25. **Main jet streams = easterly** — FALSE. Main jets are **westerly**; TEJ is the exception.
+26. **Skip spheres / rock cycle / plate types because recent papers asked ozone** — FALSE. Next year can ask any standard NCERT angle from this topic.
+27. **Kilimanjaro = Ring of Fire** — FALSE. **East African Rift**.

@@ -1,17 +1,24 @@
 # Topic 2 — Features of the Constitution
-### ★ UPPCS Revision Sheet — Lucent / PW style (one block per theme · no repetition)
+
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥40)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Features of Constitution | Lengthiest Written Constitution | Blend of Rigidity and Flexibility | Federal System | Quasi-Federal Nature | Unitary Features of Indian Constitution | Federal Features of Indian Constitution | Parliamentary System | Presidential vs Parliamentary System | Preamble | Keywords of Preamble | Ideal of Justice, Liberty, Equality, Fraternity | Sovereign, Socialist, Secular, Democratic, Republic | Amendability of Preamble | Basic Structure Doctrine | Single Citizenship | Universal Adult Franchise | Independent Judiciary | Integrated Judiciary | Comparison with USA Constitution | Comparison with UK / Canada / Ireland (basic) | Cooperative Federalism | Competitive Federalism | Rule of Law | Constitutional Supremacy | Separation of Powers | Checks and Balances | Constitutional Conventions
+**Salient features:** Lengthiest written | Rigidity + Flexibility | Quasi-federal | Parliamentary system | FR + DPSP + Duties | Secular | Single citizenship | UAF | Independent + Integrated judiciary | Emergency | Independent bodies | 3-tier (1992) | Basic Structure
+
+**Preamble:** Keywords | Justice–Liberty–Equality–Fraternity counts | 42nd additions | Part of Constitution | Not enforceable | Status on 26 Jan 1950
+
+**Federalism labels:** Wheare / Austin / Morris-Jones / Jennings | Cooperative vs Competitive | Federal vs Unitary features
+
+**Principles:** Rule of Law | Constitutional supremacy | Separation of powers | Checks and balances | Conventions | India vs USA/UK comparisons
 
 </details>
 
-> **Sources baked in:** Laxmikanth (Salient Features / Preamble / Basic Structure), NCERT Class 11 *Indian Constitution at Work*, UPPCS Prelims PYQs 2018–2025  
+> **Sources baked in:** Laxmikanth (Salient Features / Preamble / Basic Structure), NCERT Class 11 *Indian Constitution at Work*, Drishti To-the-Point, UPPCS Prelims PYQs 2018–2025  
 > **Exam weight:** ★★★ — Preamble counts/words, quasi-federal scholars, Basic Structure cases, Parliamentary A/R, federalism match lists  
-> **Last verified:** August 2026  
-> **Current Affairs:** Light — GST Council / NITI Aayog as cooperative-federalism examples (below)
+> **Last verified:** August 2026 — coaching gap-pass (26 Jan 1950 = Sovereign Democratic Republic; synthesis of parliamentary sovereignty + judicial supremacy; criticisms one-liners)  
+> **Current Affairs:** GST Council / NITI Aayog as cooperative–competitive federalism examples
 
 ---
 
@@ -25,7 +32,8 @@ FEATURES: Lengthiest | Rigidity+Flexibility (Art.368 types) | Quasi-federal | Pa
 AMENDMENT TYPES:
   Simple majority (Arts 2–4, 169…) | Special majority (368) | Special + half States (federal)
 
-PREAMBLE: Sovereign Socialist Secular Democratic Republic | date 26 Nov 1949
+PREAMBLE: Sovereign Socialist Secular Democratic Republic | date line 26 Nov 1949
+  On 26 Jan 1950 status = Sovereign Democratic Republic (Socialist/Secular later)
   Justice 3 | Liberty 5 | Equality 2 | Fraternity 1   →  3,5,2,1
   NOT in Preamble: Federal
   42nd (1976): Socialist + Secular (+ Integrity)
@@ -39,75 +47,113 @@ SCHOLARS: Austin=Cooperative | Morris-Jones=Bargaining
           Wheare=Quasi | Jennings=Centralising tendency
 ```
 
-### Confused pairs
+---
 
-| A | B | Lock | Hindi |
-|---|----|------|-------|
-| Rigid | Flexible | Special procedure vs ordinary law amendable | कठोर / लचीला |
-| Federal | Unitary | Dual polity vs one supreme govt | संघीय / एकात्मक |
-| Quasi-federal (Wheare) | Cooperative federalism (Austin) | Unitary bias label vs Centre–State collaboration | अर्ध-संघीय / सहयोगी |
-| Parliamentary | Presidential | Executive responsible to legislature vs fixed separate executive | संसदीय / अध्यक्षात्मक |
-| Independent judiciary | Integrated judiciary | Free of organ control vs one hierarchy under SC | स्वतंत्र / एकीकृत |
-| Preamble is part | Preamble enforceable | Part after Kesavananda; still not a FR source | उद्देशिका |
-| Rule of Law | Constitutional supremacy | No one above law vs Constitution highest law | विधि का शासन / संवैधानिक सर्वोच्चता |
-| Single citizenship | Dual citizenship (USA) | One Union citizenship in India | एकल / दोहरी |
+## Confused Pairs (exam killers)
+
+| Pair | Right lock | Trap | Hindi |
+|------|------------|------|-------|
+| Rigid vs Flexible | Blend under Art. 368 + simple-majority paths | “Only rigid like USA” | कठोर+लचीला |
+| Federal vs Unitary | Dual polity + strong Centre = **quasi-federal** | Pure classical federation | अर्ध-संघीय |
+| Quasi-federal (Wheare) | Unitary bias label | Call Austin “quasi” | व्हीयर = अर्ध |
+| Cooperative (Austin) | Centre–State collaboration | Mix with Wheare | ऑस्टिन = सहयोगी |
+| Bargaining (Morris-Jones) | Political bargaining federalism | Mix with Jennings | मॉरिस-जोन्स |
+| Parliamentary vs Presidential | Executive responsible to legislature | President = Presidential system | संसदीय |
+| Independent vs Integrated judiciary | Free of organ control vs one hierarchy under SC | Swap meanings | स्वतंत्र / एकीकृत |
+| Preamble is part vs enforceable | Part after Kesavananda; **still not enforceable** | Treat as FR | उद्देशिका |
+| Adopt date vs enforce date | Preamble date = **26 Nov 1949**; force = **26 Jan 1950** | Swap | अंगीकरण / प्रवर्तन |
+| 26 Jan 1950 status | **Sovereign Democratic Republic** | Include Socialist/Secular already | 1950 स्थिति |
+| 42nd Preamble words | **Socialist + Secular** (+ integrity) | Sovereignty / Republic | समाजवादी+धर्मनिरपेक्ष |
+| Single vs Dual citizenship | India = **single**; USA = dual | India has state citizenship | एकल नागरिकता |
+| Rule of Law vs Constitutional supremacy | No one above law vs Constitution highest law | Treat as identical | विधि / संविधान |
+| Residuary powers | **Centre** (Canada pattern) | States like USA | अवशिष्ट = केंद्र |
+| Art. 3 vs Art. 368 | Boundary change = simple majority path | Call every change “special majority” | अनुच्छेद 3 |
 
 ---
 
-## Salient Features — Overview
+## Memory Tricks
 
-- Drawn from many sources (GOI Act 1935 largest single structural source; plus UK/USA/Ireland/Canada/Australia/etc.).
+| Trick | Remembers |
+|-------|-----------|
+| **3-5-2-1** | Justice · Liberty · Equality · Fraternity counts |
+| **Wheare = Quasi** | Unitary-bias label |
+| **Austin = Cooperative** | Centre–State teamwork |
+| **Morris = Bargain · Jennings = Centralise** | Scholar match list |
+| **Kesavananda 1973** | Basic Structure born |
+| **Shankari → Sajjan → Golaknath → Kesavananda** | 1951 → 1965 → 1967 → 1973 |
+| **Golaknath → 24th → Kesavananda → 42nd** | 1967 → 1971 → 1973 → 1976 |
+| **Federal NOT in Preamble** | Union is in Art. 1 |
+| **61st = eighteen** | Voting age 21 → 18 |
+| **73rd/74th = 1992 third tier** | Local self-government constitutionalised |
+| **1950 = SDR** | Sovereign Democratic Republic only |
+| **President nominal · PM real** | Parliamentary dual executive |
+
+---
+
+## N.1 Salient features — overview
+
+**Identity:** Drawn from many sources, yet uniquely Indian in design
+
 - **Lengthiest written** Constitution of any sovereign country.
-- **Blend of rigidity and flexibility** (Art. 368 — different amendment procedures).
+- **Blend of rigidity and flexibility** (Article 368 plus simple-majority paths).
 - **Federal system with unitary bias** — often called **quasi-federal** (K.C. Wheare).
-- **Parliamentary** form of government (UK model adapted).
+- **Parliamentary** form of government (UK Westminster model adapted).
 - **Fundamental Rights + DPSP + Fundamental Duties**.
 - **Secular** State; **Universal Adult Franchise**; **Single citizenship**.
 - **Independent** and **integrated** judiciary with judicial review.
 - Independent constitutional bodies (Election Commission, CAG, UPSC, Finance Commission, etc.).
 - Emergency provisions (strong Centre in crises).
-- Three-tier government after **73rd & 74th Amendments, 1992**.
+- Three-tier government after **73rd and 74th Amendments, 1992**.
 - **Basic Structure** doctrine limits amending power.
+- Synthesis of **Parliamentary sovereignty** and **judicial supremacy**: Parliament makes laws; Supreme Court can review them — unlike pure UK parliamentary sovereignty or pure USA judicial supremacy.
+
+### Criticisms (coaching one-liners)
+
+- Called a **borrowed** / “bag of borrowings” Constitution — framers adapted features to Indian conditions.
+- Criticised as a **carbon copy of GOI Act 1935** — structure borrowed, but FR, adult franchise, republic and Basic Structure politics are not a mere copy.
+- Called **elephantine** / lawyer’s paradise — length and legal language exist for diversity and justiciability.
 
 ---
 
-## Lengthiest Written Constitution
+## N.2 Lengthiest written Constitution
 
 - Originally (1950): **395 Articles**, **22 Parts**, **8 Schedules**.
-- Today: **~470 Articles** (numbering with insertions), **25 Parts**, **12 Schedules** (exact count changes with amendments — lock “expanded far beyond 1950”).
+- Today: about **470 Articles** (with insertions), **25 Parts**, **12 Schedules** (exact count moves with amendments — lock “expanded far beyond 1950”).
 - Reasons for length:
-  - Vast country + diversity (social, linguistic, cultural).
+  - Vast country and diversity (social, linguistic, cultural).
   - **Single Constitution** for both Centre and States (unlike USA’s dual constitutional tradition).
-  - Detailed administrative, Emergency, FR, DPSP and centre–state provisions.
+  - Detailed administrative, Emergency, FR, DPSP and Centre–State provisions.
   - Heavy borrowing from **GOI Act 1935** (lengthy structural statute).
   - Legalistic drafting; elaborate safeguards for minorities, SC/ST, services, etc.
 - Contrast: **UK** — largely unwritten (conventions + statutes); **USA** — short written Constitution.
 
 ---
 
-## Blend of Rigidity and Flexibility
+## N.3 Blend of rigidity and flexibility
 
-Amendment of the Constitution is mainly under **Article 368**, but not all constitutional changes use Art. 368.
+Amendment of the Constitution is mainly under **Article 368**, but not all constitutional changes use Article 368.
 
 | Type | Procedure | Examples (exam locks) |
 |------|-----------|------------------------|
-| **Simple majority** of Parliament | Like ordinary law; **outside** Art. 368 | Formation/alteration of States (**Arts. 2–4**); abolition/creation of Legislative Councils (**Art. 169**); Quorum, salaries rules in some cases; Second Schedule matters as specified |
-| **Special majority** (Art. 368) | Majority of **total membership** of each House + **2/3 of members present and voting** | Fundamental Rights, DPSP (many), many institutional provisions |
-| **Special majority + State ratification** | Special majority in Parliament + ratification by **half of State legislatures** | Federal provisions: Election of President; extent of executive power Union/States; SC/HC; distribution of legislative powers; representation of States in Parliament; Art. 368 itself |
+| **Simple majority** of Parliament | Like ordinary law; **outside** Art. 368 | Formation/alteration of States (**Arts. 2–4**); abolition/creation of Legislative Councils (**Art. 169**); some Second Schedule / procedure matters as specified |
+| **Special majority** (Art. 368) | Majority of **total membership** of each House + **2/3 of members present and voting** | Many FR/DPSP/institutional provisions |
+| **Special majority + State ratification** | Special majority in Parliament + ratification by **half of State legislatures** | Federal provisions: election of President; extent of executive power Union/States; SC/HC; distribution of legislative powers; representation of States in Parliament; Art. 368 itself |
 
-- Hence India is **neither** as rigid as USA **nor** as flexible as UK.
-- **Trap:** Changing State boundaries (Art. 3) needs only Parliament’s simple majority + State’s view (not binding) — often cited as flexible/unitary tilt.
+- Hence India is **neither** as rigid as the USA **nor** as flexible as the UK.
+- **Trap:** Changing State boundaries (Art. 3) needs only Parliament’s simple majority path + State’s view (not binding) — often cited as flexible/unitary tilt.
 
 ---
 
-## Federal System, Quasi-Federal Nature, Federal vs Unitary Features
+## N.4 Federal system, quasi-federal nature, federal vs unitary
 
-### Nature of Indian Union
-- **Article 1:** India, that is Bharat, shall be a **Union of States** — word “federation” not used.
+### Nature of the Indian Union
+
+- **Article 1:** India, that is Bharat, shall be a **Union of States** — the word “federation” is not used.
 - “Indestructible Union of destructible States” — States have **no right to secede**; Parliament can alter areas/boundaries/names (**Art. 3**).
 - Dual polity + dual government + division of powers = federal form; strong Centre = unitary spirit → **quasi-federal**.
 
 ### Federal features
+
 - Dual polity — Union and States.
 - Written Constitution; **supremacy of the Constitution**.
 - Division of powers — Union / State / Concurrent Lists (**7th Schedule**).
@@ -116,26 +162,27 @@ Amendment of the Constitution is mainly under **Article 368**, but not all const
 - Rigid amendment procedure for federal provisions (State ratification).
 
 ### Unitary / strong-Centre features
+
 - Single Constitution for Union and States; **single citizenship**.
 - Residuary powers with **Centre** (Art. 248 / Union List entry 97).
 - Union List is longer/stronger; in Concurrent List conflict, **Union law prevails** (Art. 254).
 - Unequal representation of States in Rajya Sabha (population-based, not equal like USA Senate).
-- Centre can change State names/boundaries (**Art. 3**); States’ consent not mandatory.
+- Centre can change State names/boundaries (**Art. 3**); States’ consent is not mandatory.
 - **Emergency provisions (Part XVIII)** — federal fabric becomes unitary in practice.
 - **All-India Services** (IAS/IPS/IFS); Governor appointed by Centre; States’ financial dependence.
 - Parliament can legislate on State List in certain cases (Arts. 249, 250, 252, 253).
 - No right of States to **secede**.
 
 ### Quasi-federal — scholar labels (match list)
+
 | Label | Scholar |
 |-------|---------|
 | Quasi-federal / quasi-federation | **K.C. Wheare** |
 | Cooperative federalism | **Granville Austin** |
 | Bargaining federalism | **Morris-Jones** |
 | Federalism with centralising tendency | **Ivor Jennings** |
-| Also cited in texts | Paul Appleby — “extremely federal”; etc. (less tested than Wheare/Austin) |
 
-**PYQ — UPPCS Prelims 2019, Q102**
+**Inline PYQ — UPPCS Prelims 2019, Q102**
 
 Who said "India is a Quasi Federal State"?
 
@@ -148,10 +195,9 @@ D. K. C. Wheare
 <summary>Show answer</summary>
 
 **Ans: D** — K. C. Wheare.
-
 </details>
 
-**PYQ — UPPCS Prelims 2020, Q126**
+**Inline PYQ — UPPCS Prelims 2020, Q126**
 
 **Assertion (A):** Indian federalism is called 'Quasi-federal'.  
 
@@ -166,10 +212,9 @@ D. (A) is false, but (R) is true
 <summary>Show answer</summary>
 
 **Ans: B** — Quasi-federal refers to unitary bias / strong Centre; independent judiciary is true but does **not** explain A.
-
 </details>
 
-**PYQ — UPPCS Prelims 2019, Q27**
+**Inline PYQ — UPPCS Prelims 2019, Q27**
 
 With reference to the federal system in India, which of the statements is/are correct?
 
@@ -187,10 +232,9 @@ D. Neither I nor 2
 <summary>Show answer</summary>
 
 **Ans: A** — 1 only.
-
 </details>
 
-**PYQ — UPPCS Prelims 2020, Q94**
+**Inline PYQ — UPPCS Prelims 2020, Q94**
 
 When was the third tier added to Indian Federal System?
 
@@ -203,10 +247,9 @@ D. 1993
 <summary>Show answer</summary>
 
 **Ans: C** — **1992** (73rd and 74th Constitutional Amendment Acts).
-
 </details>
 
-**PYQ — UPPCS Prelims 2024, Q128**
+**Inline PYQ — UPPCS Prelims 2024, Q128**
 
 Match List-I with List-II:
 
@@ -222,6 +265,8 @@ D. Federalism with Centralising Tendency
 3. Morris-Jones  
 4. Granville Austin  
 
+> Note: Row order in the table is **not** the answer key.
+
 A. 2 4 3 1  
 B. 2 1 4 3  
 C. 4 3 1 2  
@@ -231,21 +276,22 @@ D. 3 2 4 1
 <summary>Show answer</summary>
 
 **Ans: C (4, 3, 1, 2)** — Austin; Morris-Jones; Wheare; Jennings.
-
 </details>
 
 ---
 
-## Parliamentary System
+## N.5 Parliamentary system
 
-- India adopted the **Parliamentary / Cabinet** system (UK model), not the USA Presidential system.
+**Identity:** Cabinet / Westminster model — not USA Presidential system
+
 - **Nominal executive:** President; **real executive:** Council of Ministers headed by the Prime Minister (**Arts. 53, 74, 75**).
-- Council of Ministers **collectively responsible** to the **Lok Sabha** (Art. 75(3)).
+- Council of Ministers is **collectively responsible** to the **Lok Sabha** (Art. 75(3)).
 - Ministers are normally members of Parliament (Art. 75(5) — must become member within 6 months).
 - Lower House can be dissolved; PM can advise dissolution.
-- President generally bound by aid and advice of CoM (Art. 74) — after 42nd/44th amendments clarified.
+- President is generally bound by aid and advice of CoM (Art. 74) — clarified after 42nd/44th amendments.
 
 ### Features (raata list)
+
 1. Majority party (or coalition) rule  
 2. Collective responsibility  
 3. Political homogeneity (normally same party/coalition)  
@@ -256,8 +302,9 @@ D. 3 2 4 1
 8. Official Opposition  
 
 ### Merits / demerits (exam one-liners)
-- **Merits:** responsible government; harmony executive–legislature; alternative government ready; prevents authoritarianism better than fixed executive in theory.
-- **Demerits:** unstable if hung assemblies; Cabinet dictatorship if huge majority; no strict separation of powers; against experts outside legislature as ministers (generally).
+
+- **Merits:** responsible government; harmony between executive and legislature; alternative government ready; better check on fixed executive authoritarianism in theory.
+- **Demerits:** unstable if hung assemblies; Cabinet dictatorship if huge majority; no strict separation of powers; harder for outside experts to become ministers.
 
 ### Parliamentary vs Presidential
 
@@ -271,7 +318,7 @@ D. 3 2 4 1
 | Separation of powers | Fusion of executive–legislature | Stricter separation |
 | Responsibility | Collective to Lower House | Not collectively responsible to Congress |
 
-**PYQ — UPPCS Prelims 2025, Q54**
+**Inline PYQ — UPPCS Prelims 2025, Q54**
 
 **Assertion (A):** India has a parliamentary system of government.  
 
@@ -286,10 +333,9 @@ D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 <summary>Show answer</summary>
 
 **Ans: D** — Responsibility of executive to legislature defines India’s parliamentary system.
-
 </details>
 
-**PYQ — UPPCS Prelims 2018, Q71**
+**Inline PYQ — UPPCS Prelims 2018, Q71**
 
 The Parliamentary form of Government was first introduced in which country?
 
@@ -302,26 +348,25 @@ D. Switzerland
 <summary>Show answer</summary>
 
 **Ans: A** — Great Britain (UK).
-
 </details>
 
 ---
 
-## Preamble
+## N.6 Preamble
 
 - Inspired by **Objectives Resolution** (Nehru, 13 Dec 1946; adopted 22 Jan 1947).
 - Opens with **“We, the People of India…”** — source of authority is the people (popular sovereignty).
-- Date in Preamble: **26th day of November 1949** (adoption date).
-- Declares India a **Sovereign Socialist Secular Democratic Republic**.
+- Date line in Preamble: **26th day of November 1949** (adoption date).
+- Declares India a **Sovereign Socialist Secular Democratic Republic** (present text).
 - Goals: **Justice, Liberty, Equality, Fraternity**.
 
-### Meaning of key words (exam)
+### Meaning of key words
 
 | Word | Meaning lock |
 |------|----------------|
 | **Sovereign** | No external power controls India; internal + external supremacy |
-| **Socialist** | Added by **42nd (1976)**; democratic socialism — mixed economy, reduce inequality (not classical Marxism) |
-| **Secular** | Added by **42nd (1976)**; State has no official religion; equal respect / equal freedom of religion (positive secularism) |
+| **Socialist** | Added by **42nd (1976)**; democratic socialism — mixed economy, reduce inequality |
+| **Secular** | Added by **42nd (1976)**; State has no official religion; equal freedom of religion (positive secularism) |
 | **Democratic** | Government by the people — based on universal adult franchise |
 | **Republic** | Head of State is **elected**, not hereditary monarch |
 
@@ -336,19 +381,22 @@ D. Switzerland
 
 Order asked: Justice, Liberty, Equality, Fraternity → **3, 5, 2, 1**.
 
-### Words / amendments
+### Words / amendments / 1950 status
+
 - **42nd Amendment, 1976** added **Socialist** and **Secular**; inserted **integrity** in the fraternity clause.
 - Word **Federal** is **NOT** in the Preamble (Union of States is in Art. 1).
 - **Sovereign / Democratic / Republic** were already present — not added by 42nd.
+- Exact constitutional status on **26 January 1950** = **Sovereign Democratic Republic** (UPSC Prelims 2021 lock). Socialist and Secular come later via 42nd.
 
-### Legal status & amendability
+### Legal status and amendability
+
 - **Berubari Union (1960):** SC held Preamble **not** part of the Constitution (earlier view).
 - **Kesavananda Bharati (1973):** Preamble **is part** of the Constitution; aids interpretation; basic features reflected in Preamble.
 - **LIC of India (1995):** reaffirmed Preamble is part of the Constitution.
-- Preamble is **not directly enforceable** like Fundamental Rights — cannot be a sole source of prohibition/mandate in court.
+- Preamble is **not directly enforceable** like Fundamental Rights.
 - Preamble **can be amended** under Art. 368 (42nd did) but cannot destroy **Basic Structure**.
 
-**PYQ — UPPCS Prelims 2018, Q65**
+**Inline PYQ — UPPCS Prelims 2018, Q65**
 
 How many types of justice, liberty, equality and fraternity in that order has been mentioned in the preamble of constitution of India?
 
@@ -361,10 +409,9 @@ D. 5, 2, 1, 3
 <summary>Show answer</summary>
 
 **Ans: A** — 3, 5, 2, 1.
-
 </details>
 
-**PYQ — UPPCS Prelims 2021, Q49**
+**Inline PYQ — UPPCS Prelims 2021, Q49**
 
 Which of the following words is NOT mentioned in the Preamble of the Constitution of India?
 
@@ -377,10 +424,9 @@ D. Federal
 <summary>Show answer</summary>
 
 **Ans: D** — Federal.
-
 </details>
 
-**PYQ — UPPCS Prelims 2025, Q56**
+**Inline PYQ — UPPCS Prelims 2025, Q56**
 
 Which of the following words were added to the Preamble of the Indian Constitution by the 42nd Constitutional Amendment?
 
@@ -398,10 +444,9 @@ D. 1 and 2
 <summary>Show answer</summary>
 
 **Ans: D** — Socialist and Secular.
-
 </details>
 
-**PYQ — UPPCS Prelims 2019, Q107**
+**Inline PYQ — UPPCS Prelims 2019, Q107**
 
 What is the legal nature of the Preamble of the Constitution?
 
@@ -414,19 +459,19 @@ D. None of the above
 <summary>Show answer</summary>
 
 **Ans: B** — Not enforceable.
-
 </details>
 
 ---
 
-## Basic Structure Doctrine
+## N.7 Basic Structure Doctrine
 
 - Limits Parliament’s amending power under **Article 368** — Parliament **cannot** abrogate / destroy the Constitution’s **basic structure**.
-- Propounded by SC in **Kesavananda Bharati vs State of Kerala (1973)** (13-judge bench; unique majority).
+- Propounded by SC in **Kesavananda Bharati vs State of Kerala (1973)** (13-judge bench).
 - Basic Structure is **not** a closed list in the Constitution text — evolved case by case.
 
 ### Illustrative elements (commonly listed)
-Supremacy of the Constitution · Sovereign, democratic, republican form · Secular character · Separation of powers · Federal character · Judicial review · Free & fair elections · Rule of Law · Independence of judiciary · Harmony between FR and DPSP · Limited amending power · Welfare state / egalitarian goals (as developed) · Unity and integrity of the nation · Freedom of speech (essential) etc.
+
+Supremacy of the Constitution · Sovereign, democratic, republican form · Secular character · Separation of powers · Federal character · Judicial review · Free and fair elections · Rule of Law · Independence of judiciary · Harmony between FR and DPSP · Limited amending power · Unity and integrity of the nation · etc.
 
 ### Case / amendment chronology (must lock)
 
@@ -435,15 +480,15 @@ Supremacy of the Constitution · Sovereign, democratic, republican form · Secul
 | Shankari Prasad vs Union of India | **1951** | Parliament can amend FR (Art. 368 includes FR) |
 | Sajjan Singh vs State of Rajasthan | **1965** | Same line affirmed |
 | Golaknath vs State of Punjab | **1967** | Parliament **cannot** amend FR (amendment = “law” under Art. 13) |
-| **24th Constitutional Amendment** | **1971** | Restored power to amend any part including FR; amended Arts. 13 & 368 |
+| **24th Constitutional Amendment** | **1971** | Restored power to amend any part including FR; amended Arts. 13 and 368 |
 | **Kesavananda Bharati** | **1973** | Can amend, but **cannot destroy Basic Structure** |
-| Indira Nehru Gandhi vs Raj Narain | **1975** | Applied Basic Structure (free & fair elections / Rule of Law elements) to election clause |
-| **42nd Amendment** | **1976** | Tried to make Art. 368 unlimited (ss. 4 & 55) |
-| **Minerva Mills vs Union of India** | **1980** | Struck down unlimited amending power; judicial review & limited amendability = Basic Structure; balance FR–DPSP |
+| Indira Nehru Gandhi vs Raj Narain | **1975** | Applied Basic Structure (free and fair elections / Rule of Law elements) |
+| **42nd Amendment** | **1976** | Tried to make Art. 368 unlimited (ss. 4 and 55) |
+| **Minerva Mills vs Union of India** | **1980** | Struck down unlimited amending power; judicial review and limited amendability = Basic Structure; balance FR–DPSP |
 | Waman Rao / later cases | **1981 onwards** | Basic Structure applied to 9th Schedule post-Kesavananda, etc. |
 | **S.R. Bommai (1994)** | — | Secularism as Basic Structure (also federalism / Art. 356 misuse) |
 
-**PYQ — UPPCS Prelims 2022, Q37**
+**Inline PYQ — UPPCS Prelims 2022, Q37**
 
 The concept 'Basic Structure of the Constitution' was propounded by the Supreme Court in the case of—
 
@@ -456,10 +501,9 @@ D. Yusuf vs State of Bombay — 1954
 <summary>Show answer</summary>
 
 **Ans: A**
-
 </details>
 
-**PYQ — UPPCS Prelims 2020, Q120**
+**Inline PYQ — UPPCS Prelims 2020, Q120**
 
 The Supreme Court of India enunciated the doctrine of "Basic Structure of the Constitution" in
 
@@ -472,10 +516,9 @@ D. The Sajjan Singh Case in 1965
 <summary>Show answer</summary>
 
 **Ans: B**
-
 </details>
 
-**PYQ — UPPCS Prelims 2024, Q126**
+**Inline PYQ — UPPCS Prelims 2024, Q126**
 
 Identify the correct chronological sequence:
 
@@ -493,10 +536,9 @@ D. 3, 4, 2, 1
 <summary>Show answer</summary>
 
 **Ans: C** — 1951 → 1965 → 1967 → 1973.
-
 </details>
 
-**PYQ — UPPCS Prelims 2021, Q42**
+**Inline PYQ — UPPCS Prelims 2021, Q42**
 
 Arrange chronologically:
 
@@ -514,48 +556,51 @@ D. III, I, IV, II
 <summary>Show answer</summary>
 
 **Ans: A** — 1967 → 1971 → 1973 → 1976.
-
 </details>
 
 ---
 
-## Single Citizenship & Universal Adult Franchise
+## N.8 Single citizenship and Universal Adult Franchise
 
 ### Single citizenship
+
 - Constitution provides **one citizenship** of India (Part II, **Arts. 5–11**).
 - Contrast **USA**: dual citizenship — of the USA and of a State.
-- All citizens have same civil/political rights throughout the territory (subject to reasonable classification / special provisions).
-- Details of acquisition/loss → Citizenship Act, 1955 (covered fully under Citizenship topic); here lock only **single citizenship as a salient feature**.
+- All citizens have the same civil/political rights throughout the territory (subject to reasonable classification / special provisions).
+- Details of acquisition/loss → Citizenship Act, 1955 (Citizenship topic); here lock only **single citizenship as a salient feature**.
 
 ### Universal Adult Franchise
+
 - **Article 326** — elections to Lok Sabha and State Legislative Assemblies on the basis of adult suffrage.
-- Every citizen aged **18+** (earlier **21**) entitled to vote if not disqualified.
+- Every citizen aged **18+** (earlier **21**) is entitled to vote if not disqualified.
 - Voting age reduced **21 → 18** by **61st Constitutional Amendment Act, 1988** (came into force **1989**).
 - No property, tax or educational qualification for voting (unlike British Indian franchise).
 - Supports the **Democratic** character in the Preamble.
 
 ---
 
-## Independent Judiciary & Integrated Judiciary
+## N.9 Independent judiciary and integrated judiciary
 
-### Independent judiciary (why needed + how secured)
+### Independent judiciary
+
 - Needed for constitutional supremacy, federal disputes, FR protection, Rule of Law.
 - **Security of tenure** — Judges removed only by Parliamentary impeachment process (proved misbehaviour/incapacity).
 - Salaries/allowances charged on **Consolidated Fund**; cannot be varied to their disadvantage after appointment (except financial emergency nuances).
-- Conduct of judges not discussed in Legislature except removal motion.
-- Separation of judiciary from executive — **Art. 50** (DPSP); criminal courts separation implemented in states over time.
+- Conduct of judges is not discussed in Legislature except on a removal motion.
+- Separation of judiciary from executive — **Art. 50** (DPSP).
 - Power of **judicial review**; contempt jurisdiction; appointments process insulated (Collegium evolved by SC — detail in Judiciary topic).
 
 ### Integrated judiciary
+
 - **Single integrated system:** Subordinate Courts → High Courts → **Supreme Court** at the apex.
 - SC = federal court + court of appeal + constitutional interpreter + writ court (Art. 32).
-- High Courts also writ courts (Art. 226) and supervisory courts.
+- High Courts are also writ courts (Art. 226) and supervisory courts.
 - Contrast **USA**: dual system — federal courts and separate state courts more parallel.
-- **Trap:** Integrated ≠ “only one court”; means hierarchy under one apex, not dual unrelated systems.
+- **Trap:** Integrated ≠ “only one court”; it means hierarchy under one apex, not dual unrelated systems.
 
 ---
 
-## Comparison with USA / UK / Canada / Ireland (basic)
+## N.10 Comparison with USA / UK / Canada / Ireland (basic)
 
 | Feature | India | USA | UK | Canada / Ireland notes |
 |---------|-------|-----|----|------------------------|
@@ -572,35 +617,38 @@ D. III, I, IV, II
 
 ---
 
-## Cooperative Federalism & Competitive Federalism
+## N.11 Cooperative federalism and competitive federalism
 
 ### Cooperative federalism
+
 - Centre and States work together for common national goals.
 - Scholar tag: **Granville Austin** (*The Indian Constitution: Cornerstone of a Nation*).
 - Tools/institutions:
-  - **Inter-State Council** (Art. 263) — set up on Sarkaria Commission recommendation (1990).
+  - **Inter-State Council** (Art. 263) — set up on Sarkaria Commission recommendation (**1990**).
   - **GST Council** (Art. 279A) — shared tax decisions.
   - **NITI Aayog** (2015) — replacing Planning Commission; team India approach.
   - Zonal Councils; National Development Council (historical); CSS / centrally sponsored schemes; disaster response.
 
 ### Competitive federalism
+
 - States compete for investment, infrastructure, ease of doing business, SDG/performance rankings, central incentive funds.
-- Stronger after liberalisation (1991) and in NITI Aayog era.
+- Stronger after liberalisation (1991) and in the NITI Aayog era.
 - **Trap:** Competitive federalism ≠ Wheare’s quasi-federal; ≠ Austin’s cooperative label.
 
 > **CA note:** GST Council = flagship cooperative-federalism body; NITI Aayog indexes fuel competitive federalism.
 
 ---
 
-## Constitutional Principles
+## N.12 Constitutional principles
 
 ### Rule of Law
+
 - A.V. Dicey’s ideas adapted: equality before law; supremacy of law; predominance of legal spirit.
 - In India: Arts. **14**, judicial review, constitutional remedies (**Art. 32/226**).
 - Government must act under and according to law — no arbitrary power.
 - PIL expands access to justice for weaker sections → linked to Rule of Law in exams.
 
-**PYQ — UPPCS Prelims 2025, Q47**
+**Inline PYQ — UPPCS Prelims 2025, Q47**
 
 **Assertion (A):** Public Interest Litigation is essential for the rule of law in India.  
 
@@ -615,16 +663,17 @@ D. Both true and R explains A
 <summary>Show answer</summary>
 
 **Ans: D**
-
 </details>
 
 ### Constitutional supremacy
+
 - Constitution is the **highest law** of the land.
 - Laws inconsistent with the Constitution are void (**Art. 13** for FR; federal distribution via Arts. 245–254).
 - Differs from **Parliamentary sovereignty** (UK) — Indian Parliament is **not** sovereign in that sense.
 - Basic Structure doctrine strengthens constitutional supremacy against destructive amendments.
 
 ### Separation of powers
+
 - Three organs: Legislature, Executive, Judiciary — distinct functions.
 - India follows **functional separation**, **not** the rigid American model.
 - Cabinet system → **fusion** of executive and legislature (ministers sit in Parliament).
@@ -632,311 +681,654 @@ D. Both true and R explains A
 - **Kesavananda / later cases:** separation of powers is part of Basic Structure.
 
 ### Checks and balances
+
 - Each organ can restrain others:
   - Judiciary → judicial review, writs, contempt.
   - Legislature → no-confidence, impeachment, committee oversight.
-  - Executive → ordinances (Art. 123), pocket influence via majority; but ordinances need Legislature approval.
+  - Executive → ordinances (Art. 123); but ordinances need Legislature approval.
 - Complements separation; prevents concentration of power.
 
 ### Constitutional conventions
+
 - Unwritten political practices that fill gaps in the text.
-- Examples: PM is leader of majority in Lok Sabha; Cabinet collective responsibility & secrecy; Leader of Opposition recognition norms; Governor’s “aid and advice” in normal times; President’s discretionary use only in limited hung-house situations (as evolved).
+- Examples: PM is leader of majority in Lok Sabha; Cabinet collective responsibility and secrecy; Leader of Opposition recognition norms; Governor’s aid and advice in normal times; President’s limited discretion in hung-house situations (as evolved).
 - Usually **not enforceable in courts** like Articles, but politically obligatory; courts sometimes notice them.
 
 ---
+
+## Must-score locks
+
+1. Lengthiest written Constitution; reasons include single Constitution for Centre and States + diversity + GOI Act 1935 base.
+2. Blend of rigidity and flexibility — Arts. 2–4 path ≠ Art. 368 for every change.
+3. Quasi-federal = **K.C. Wheare**; Cooperative = **Austin**; Bargaining = **Morris-Jones**; Centralising = **Jennings**.
+4. Parliamentary = executive responsible to legislature; first introduced in **UK**.
+5. Preamble counts **3, 5, 2, 1**; **Federal** not in Preamble; 42nd added **Socialist + Secular**.
+6. On **26 Jan 1950** = **Sovereign Democratic Republic** only.
+7. Preamble is **part** of Constitution but **not enforceable**.
+8. Basic Structure = **Kesavananda 1973**; Minerva Mills 1980 restored limits.
+9. Single citizenship; voting age 18 by **61st**; third tier **1992**.
+10. Residuary with **Centre**; integrated judiciary = one hierarchy under SC.
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden.** **30 questions.**
+> **Answers hidden.** **42 questions.** Full stems (not cryptic stubs). Mix asked PYQ patterns with standard coaching angles.
 
-**Q1.** Which is NOT a reason for the length of the Indian Constitution?  
-A. Single Constitution for Centre and States  
-B. Elaborate Emergency provisions  
-C. It is an unwritten constitution  
-D. Diversity of the country
+**Q1.** With reference to the length of the Indian Constitution, which one of the following is NOT a valid reason for its size?
 
-<details><summary>Show answer</summary>
+A. It is a single Constitution for both the Union and the States  
+B. It contains elaborate Emergency provisions  
+C. It is an unwritten constitution based only on conventions  
+D. It has to accommodate the country’s social and cultural diversity
 
-**C**
+<details>
+<summary>Show answer</summary>
 
+**Ans: C** — India has a written Constitution.
 </details>
 
-**Q2.** Indian Constitution is:  
-A. Only rigid  B. Only flexible  C. Blend of rigidity and flexibility  D. Unwritten
+**Q2.** The Indian Constitution is best described as:
 
-<details><summary>Show answer</summary>
+A. Only rigid like the USA Constitution  
+B. Only flexible like the UK system  
+C. A blend of rigidity and flexibility  
+D. Entirely unwritten
 
-**C**
+<details>
+<summary>Show answer</summary>
 
+**Ans: C**
 </details>
 
-**Q3.** Who described India as quasi-federal?  
-A. Granville Austin  B. Morris-Jones  C. K.C. Wheare  D. A.V. Dicey
+**Q3.** Who among the following described India as a quasi-federal State?
 
-<details><summary>Show answer</summary>
+A. Granville Austin  
+B. Morris-Jones  
+C. K.C. Wheare  
+D. A.V. Dicey
 
-**C**
+<details>
+<summary>Show answer</summary>
 
+**Ans: C**
 </details>
 
-**Q4.** Match: Cooperative / Bargaining / Quasi / Centralising tendency  
-With: Austin / Morris-Jones / Wheare / Jennings  
-Code:  
-A. Austin, Morris-Jones, Wheare, Jennings  
-B. Wheare, Austin, Jennings, Morris-Jones  
-C. Jennings, Austin, Wheare, Morris-Jones  
-D. Austin, Wheare, Morris-Jones, Jennings
+**Q4.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
-<details><summary>Show answer</summary>
+**List-I**  
+A. Cooperative Federalism  
+B. Bargaining Federalism  
+C. Quasi Federalism  
+D. Federalism with Centralising Tendency  
 
-**A** (UPPCS 2024 pattern)
+**List-II**  
+1. K.C. Wheare  
+2. Ivor Jennings  
+3. Morris-Jones  
+4. Granville Austin  
 
+> Note: Row order is **not** the answer.
+
+A. A-4, B-3, C-1, D-2  
+B. A-1, B-4, C-2, D-3  
+C. A-2, B-4, C-3, D-1  
+D. A-3, B-2, C-4, D-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** (UPPCS 2024 Q128 pattern)
 </details>
 
-**Q5.** Assertion (A): India has a parliamentary system. Reason (R): Executive is responsible to the legislature.  
-A. Both true, R explains A  
-B. Both true, R does not explain A  
-C. A true R false  
-D. A false R true
+**Q5.** Assertion (A): India has a parliamentary system of government.  
 
-<details><summary>Show answer</summary>
+Reason (R): In India, the executive is responsible to the legislature.
 
-**Ans: A** — Both true and R explains A (UPPCS 2025 Q54 pattern).
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Same lock as UPPCS 2025 Q54 (option lettering may vary by paper).
 </details>
 
-**Q6.** Parliamentary system was first introduced in:  
-A. France  B. USA  C. UK  D. Switzerland
+**Q6.** The Parliamentary form of Government was first introduced in which country?
 
-<details><summary>Show answer</summary>
+A. France  
+B. USA  
+C. Great Britain (UK)  
+D. Switzerland
 
-**C**
+<details>
+<summary>Show answer</summary>
 
+**Ans: C**
 </details>
 
-**Q7.** Justice–Liberty–Equality–Fraternity counts in Preamble:  
-A. 3,5,2,1  B. 1,3,5,2  C. 2,5,3,1  D. 5,2,1,3
+**Q7.** How many types of justice, liberty, equality and fraternity, in that order, are mentioned in the Preamble of the Constitution of India?
 
-<details><summary>Show answer</summary>
+A. 3, 5, 2, 1  
+B. 1, 3, 5, 2  
+C. 2, 5, 3, 1  
+D. 5, 2, 1, 3
 
-**A**
+<details>
+<summary>Show answer</summary>
 
+**Ans: A**
 </details>
 
-**Q8.** Word NOT in Preamble:  
-A. Sovereign  B. Secular  C. Democratic  D. Federal
+**Q8.** Which of the following words is NOT mentioned in the Preamble of the Constitution of India?
 
-<details><summary>Show answer</summary>
+A. Sovereign  
+B. Secular  
+C. Democratic  
+D. Federal
 
-**D**
+<details>
+<summary>Show answer</summary>
 
+**Ans: D**
 </details>
 
-**Q9.** 42nd Amendment added to Preamble:  
-A. Sovereign and Republic  B. Socialist and Secular  C. Democratic and Republic  D. Federal and Socialist
+**Q9.** Which of the following words were added to the Preamble by the 42nd Constitutional Amendment?
 
-<details><summary>Show answer</summary>
+1. Socialist  
+2. Secular  
+3. Sovereignty  
+4. Republic  
 
-**B**
+Select the correct answer using the code given below:
 
+A. 1 and 3 only  
+B. 3 and 4 only  
+C. 2 and 3 only  
+D. 1 and 2 only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
 </details>
 
-**Q10.** Legal nature of Preamble:  
-A. Enforceable as FR  B. Not enforceable  C. Always justiciable  D. Schedule I
+**Q10.** What is the legal nature of the Preamble of the Constitution?
 
-<details><summary>Show answer</summary>
+A. It is enforceable like a Fundamental Right  
+B. It is not enforceable  
+C. It is always justiciable in every dispute  
+D. It forms Schedule I of the Constitution
 
-**B**
+<details>
+<summary>Show answer</summary>
 
+**Ans: B**
 </details>
 
-**Q11.** Basic Structure doctrine propounded in:  
-A. Golaknath 1967  B. Kesavananda 1973  C. Shankari Prasad 1951  D. Minerva Mills only
+**Q11.** The concept of ‘Basic Structure of the Constitution’ was propounded by the Supreme Court in:
 
-<details><summary>Show answer</summary>
+A. Golaknath vs State of Punjab, 1967  
+B. Kesavananda Bharati vs State of Kerala, 1973  
+C. Shankari Prasad vs Union of India, 1951  
+D. Minerva Mills vs Union of India, 1980 only
 
-**B**
+<details>
+<summary>Show answer</summary>
 
+**Ans: B**
 </details>
 
-**Q12.** Chronology: Shankari Prasad, Sajjan Singh, Golaknath, Kesavananda  
-A. 1,4,3,2  B. 1,2,3,4  C. 3,2,1,4  D. 2,1,3,4
+**Q12.** Identify the correct chronological sequence:
 
-<details><summary>Show answer</summary>
+1. Shankari Prasad vs Union of India  
+2. Sajjan Singh vs State of Rajasthan  
+3. Golaknath vs State of Punjab  
+4. Kesavananda Bharati vs State of Kerala  
 
-**B**
+A. 1, 4, 3, 2  
+B. 1, 2, 3, 4  
+C. 3, 2, 1, 4  
+D. 2, 1, 3, 4
 
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
 </details>
 
-**Q13.** Arrange: Golaknath, 24th Amd, Kesavananda, 42nd Amd  
-A. Golaknath → 24th → Kesavananda → 42nd  
-B. 24th → Golaknath → Kesavananda → 42nd  
-C. Golaknath → Kesavananda → 24th → 42nd  
-D. Kesavananda → Golaknath → 24th → 42nd
+**Q13.** Arrange the following in chronological order:
 
-<details><summary>Show answer</summary>
+1. Golaknath Case  
+2. 24th Constitutional Amendment  
+3. Kesavananda Bharati Case  
+4. 42nd Constitutional Amendment  
 
-**A**
+Select the correct answer:
 
+A. 1, 2, 3, 4  
+B. 2, 1, 3, 4  
+C. 1, 3, 2, 4  
+D. 3, 1, 2, 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — 1967 → 1971 → 1973 → 1976.
 </details>
 
-**Q14.** India has:  
-A. Dual citizenship  B. Single citizenship  C. State citizenship only  D. No citizenship chapter
+**Q14.** With reference to citizenship in India, which one of the following is correct?
 
-<details><summary>Show answer</summary>
+A. India follows dual citizenship like the USA  
+B. India provides for single citizenship of the Union  
+C. Each State has its own separate citizenship  
+D. The Constitution has no citizenship provisions
 
-**B**
+<details>
+<summary>Show answer</summary>
 
+**Ans: B**
 </details>
 
-**Q15.** Voting age became 18 by:  
-A. 42nd Amendment  B. 44th Amendment  C. 61st Amendment  D. 73rd Amendment
+**Q15.** The voting age for Lok Sabha and State Assembly elections was reduced from 21 to 18 years by which Constitutional Amendment?
 
-<details><summary>Show answer</summary>
+A. 42nd Amendment  
+B. 44th Amendment  
+C. 61st Amendment  
+D. 73rd Amendment
 
-**C**
+<details>
+<summary>Show answer</summary>
 
+**Ans: C**
 </details>
 
-**Q16.** Third tier of Indian federalism added in:  
-A. 1990  B. 1991  C. 1992  D. 1993
+**Q16.** When was the third tier added to the Indian federal system?
 
-<details><summary>Show answer</summary>
+A. 1990  
+B. 1991  
+C. 1992  
+D. 1993
 
-**C**
+<details>
+<summary>Show answer</summary>
 
+**Ans: C**
 </details>
 
-**Q17.** States’ right to secede:  
-A. Exists under Art. 370 earlier  B. Exists under Art. 3  C. Does not exist  D. Exists with Parliament consent only as secession clause
+**Q17.** With reference to the federal system in India, consider the following statements:
 
-<details><summary>Show answer</summary>
+1. States have no right to secede from the Union under the Constitution.  
+2. Article 3 allows States to secede with Parliament’s consent.
 
-**C**
+Which of the statements given above is/are correct?
 
+A. 1 only  
+B. 2 only  
+C. Both 1 and 2  
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Art. 3 is about alteration of States, not secession.
 </details>
 
-**Q18.** Assertion (A): Indian federalism is quasi-federal. Reason (R): India has independent judiciary with judicial review.  
-A. Both true, R explains A  B. Both true, R does not explain A  C. A true R false  D. A false R true
+**Q18.** Assertion (A): Indian federalism is called quasi-federal.  
 
-<details><summary>Show answer</summary>
+Reason (R): India has an independent judiciary with the power of judicial review.
 
-**B**
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
 </details>
 
-**Q19.** Integrated judiciary means:  
-A. No High Courts  B. Single hierarchy ending in Supreme Court  C. Only federal courts like USA  D. Tribunals replace SC
+**Q19.** Integrated judiciary in India means:
 
-<details><summary>Show answer</summary>
+A. There are no High Courts  
+B. A single hierarchy of courts ending in the Supreme Court  
+C. Only federal courts exist, as in the USA  
+D. Tribunals completely replace the Supreme Court
 
-**B**
+<details>
+<summary>Show answer</summary>
 
+**Ans: B**
 </details>
 
-**Q20.** Residuary powers in India lie with:  
-A. States  B. Centre  C. Concurrent equally  D. Inter-State Council
+**Q20.** Residuary powers of legislation in India lie with the:
 
-<details><summary>Show answer</summary>
+A. States  
+B. Centre  
+C. Concurrent List equally  
+D. Inter-State Council
 
-**B** (Canada pattern)
+<details>
+<summary>Show answer</summary>
 
+**Ans: B** — Canada pattern.
 </details>
 
-**Q21.** DPSP borrowed mainly from:  
-A. USA  B. UK  C. Ireland  D. Australia
+**Q21.** Directive Principles of State Policy were mainly borrowed from the Constitution of:
 
-<details><summary>Show answer</summary>
+A. USA  
+B. UK  
+C. Ireland  
+D. Australia
 
-**C**
+<details>
+<summary>Show answer</summary>
 
+**Ans: C**
 </details>
 
-**Q22.** Cooperative federalism is associated with:  
-A. K.C. Wheare  B. Granville Austin  C. A.V. Dicey  D. Montesquieu
+**Q22.** Cooperative federalism as a description of the Indian Constitution is associated with:
 
-<details><summary>Show answer</summary>
+A. K.C. Wheare  
+B. Granville Austin  
+C. A.V. Dicey  
+D. Montesquieu
 
-**B**
+<details>
+<summary>Show answer</summary>
 
+**Ans: B**
 </details>
 
-**Q23.** Which is a unitary feature?  
-A. Division of powers  B. Written Constitution  C. Emergency making Centre all-powerful  D. Independent judiciary
+**Q23.** Which one of the following is a unitary feature of the Indian Constitution?
 
-<details><summary>Show answer</summary>
+A. Division of powers between Union and States  
+B. Written Constitution  
+C. Emergency provisions making the Centre all-powerful  
+D. Independent judiciary
 
-**C**
+<details>
+<summary>Show answer</summary>
 
+**Ans: C**
 </details>
 
-**Q24.** India does NOT follow:  
-A. Parliamentary responsibility  B. Absolute separation of powers like USA  C. Judicial review  D. Single citizenship
+**Q24.** Which one of the following does India NOT follow?
 
-<details><summary>Show answer</summary>
+A. Parliamentary responsibility of the executive  
+B. Absolute separation of powers on the USA model  
+C. Judicial review  
+D. Single citizenship
 
-**B**
+<details>
+<summary>Show answer</summary>
 
+**Ans: B**
 </details>
 
-**Q25.** Constitutional supremacy means:  
-A. Parliament can do anything  B. Constitution is highest law  C. President is above Constitution  D. Same as UK system
+**Q25.** Constitutional supremacy in India means:
 
-<details><summary>Show answer</summary>
+A. Parliament can enact any law without constitutional limits  
+B. The Constitution is the highest law of the land  
+C. The President stands above the Constitution  
+D. India follows pure UK parliamentary sovereignty
 
-**B**
+<details>
+<summary>Show answer</summary>
 
+**Ans: B**
 </details>
 
-**Q26.** PIL helps Rule of Law mainly by:  
-A. Reducing judicial review  B. Access to justice for weaker sections  C. Ending FR  D. Creating new Schedules
+**Q26.** Public Interest Litigation helps the Rule of Law mainly by:
 
-<details><summary>Show answer</summary>
+A. Reducing the scope of judicial review  
+B. Providing effective access to justice to socially and economically weaker sections  
+C. Ending Fundamental Rights  
+D. Creating new Schedules in the Constitution
 
-**B**
+<details>
+<summary>Show answer</summary>
 
+**Ans: B**
 </details>
 
-**Q27.** Which statement is correct?  
-A. Preamble cannot be amended  B. Preamble was amended by 42nd Amendment  C. Preamble is a Fundamental Right  D. Preamble mentions Federal Republic only
+**Q27.** Which one of the following statements is correct?
 
-<details><summary>Show answer</summary>
+A. The Preamble cannot be amended  
+B. The Preamble was amended by the 42nd Amendment  
+C. The Preamble is itself a Fundamental Right  
+D. The Preamble mentions only “Federal Republic”
 
-**B**
+<details>
+<summary>Show answer</summary>
 
+**Ans: B**
 </details>
 
-**Q28.** Liberty in Preamble includes how many components?  
-A. 2  B. 3  C. 5  D. 6
+**Q28.** Liberty in the Preamble of the Constitution includes how many components?
 
-<details><summary>Show answer</summary>
+A. 2  
+B. 3  
+C. 5  
+D. 6
 
-**C**
+<details>
+<summary>Show answer</summary>
 
+**Ans: C** — Thought, Expression, Belief, Faith, Worship.
 </details>
 
-**Q29.** Nominal vs real executive in India:  
-A. PM nominal, President real  B. President nominal, PM/COM real  C. Both real equally  D. Speaker is real executive
+**Q29.** In India’s parliamentary system, which one of the following is correct?
 
-<details><summary>Show answer</summary>
+A. The Prime Minister is the nominal executive and the President is the real executive  
+B. The President is the nominal executive and the Prime Minister / Council of Ministers is the real executive  
+C. Both President and Prime Minister are equally the real executive in all matters  
+D. The Speaker of the Lok Sabha is the real executive
 
-**B**
+<details>
+<summary>Show answer</summary>
 
+**Ans: B**
 </details>
 
-**Q30.** Competitive federalism emphasises:  
-A. Only central planning  B. States competing on performance/investment  C. Abolition of States  D. Wheare’s quasi-federal label
+**Q30.** Competitive federalism emphasises:
 
-<details><summary>Show answer</summary>
+A. Only central planning without State role  
+B. States competing on performance, investment and rankings  
+C. Abolition of States  
+D. Wheare’s quasi-federal label as a synonym
 
-**B**
+<details>
+<summary>Show answer</summary>
 
+**Ans: B**
+</details>
+
+**Q31.** What was the exact constitutional status of India on 26 January 1950?
+
+A. A Democratic Republic  
+B. A Sovereign Democratic Republic  
+C. A Sovereign Secular Democratic Republic  
+D. A Sovereign Socialist Secular Democratic Republic
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Socialist and Secular were added by the **42nd Amendment, 1976**.
+</details>
+
+**Q32.** With reference to amendment of the Constitution, consider the following statements:
+
+1. Formation or alteration of States under Articles 2–4 can be done by a simple majority of Parliament.  
+2. Every change in the Constitution must follow the special majority procedure of Article 368.
+
+Which of the statements given above is/are correct?
+
+A. 1 only  
+B. 2 only  
+C. Both 1 and 2  
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+</details>
+
+**Q33.** Which one of the following pairs is correctly matched?
+
+A. Berubari Union, 1960 — Preamble is part of the Constitution  
+B. Kesavananda Bharati, 1973 — Preamble is not part of the Constitution  
+C. LIC of India, 1995 — Preamble is part of the Constitution  
+D. Minerva Mills, 1980 — Preamble deleted from the Constitution
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Berubari said not part; Kesavananda held it is part; LIC reaffirmed.
+</details>
+
+**Q34.** Consider the following statements:
+
+1. India has a synthesis of parliamentary sovereignty and judicial supremacy.  
+2. In the UK, Parliament is supreme; in the USA, the judiciary has strong supremacy through judicial review.
+
+Which of the statements given above is/are correct?
+
+A. 1 only  
+B. 2 only  
+C. Both 1 and 2  
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+</details>
+
+**Q35.** Which of the following institutions is/are associated with cooperative federalism in contemporary India?
+
+1. GST Council  
+2. NITI Aayog  
+3. Inter-State Council  
+
+Select the correct answer using the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — NITI also fuels competitive federalism via rankings, but it is still part of the cooperative “Team India” frame.
+</details>
+
+**Q36.** Which one of the following is NOT generally listed as an element of the Basic Structure?
+
+A. Supremacy of the Constitution  
+B. Secular character of the Constitution  
+C. Unlimited amending power of Parliament under Article 368  
+D. Judicial review
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Minerva Mills struck down the attempt to make amending power unlimited.
+</details>
+
+**Q37.** With reference to the Preamble, consider the following statements:
+
+1. The date mentioned in the Preamble is 26 November 1949.  
+2. The Preamble declares India to be a federation of States.
+
+Which of the statements given above is/are correct?
+
+A. 1 only  
+B. 2 only  
+C. Both 1 and 2  
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — “Federal” is not in the Preamble; Art. 1 uses “Union of States”.
+</details>
+
+**Q38.** Which one of the following correctly distinguishes independent judiciary from integrated judiciary?
+
+A. Independent = one hierarchy under SC; Integrated = free from executive control  
+B. Independent = free from organ control; Integrated = single hierarchy under the Supreme Court  
+C. Both mean the same thing in Indian polity  
+D. Independent applies only to High Courts; Integrated applies only to tribunals
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+**Q39.** Which of the following is a federal feature of the Indian Constitution?
+
+A. Single citizenship  
+B. Appointment of Governors by the Centre  
+C. Division of powers through the Seventh Schedule  
+D. All-India Services controlled by the Centre
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+</details>
+
+**Q40.** In the parliamentary vs presidential comparison, which one of the following is correct for India?
+
+A. Ministers need not be members of the legislature  
+B. The Lower House can be dissolved before completing its full term  
+C. The executive has a fixed tenure independent of House confidence  
+D. There is rigid separation of powers as in the USA
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+</details>
+
+**Q41.** Which of the following statements about Fundamental Duties is correct as a salient feature?
+
+A. They were part of the original 1950 Constitution in full  
+B. They were added later and form part of the rights–duties–DPSP balance taught as a salient feature  
+C. They replace Directive Principles completely  
+D. They are enforceable exactly like Fundamental Rights
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Added by 42nd Amendment (Part IVA); detail belongs with FR/Duties topic, but the trio is a salient-feature lock.
+</details>
+
+**Q42.** Which one of the following criticisms of the Indian Constitution is correctly paired with the standard coaching rebuttal?
+
+A. “Borrowed Constitution” — framers adapted features to Indian conditions  
+B. “Elephantine size” — India should have adopted an unwritten UK model instead  
+C. “Carbon copy of 1935 Act” — no new institutions were added after Independence  
+D. “Lawyer’s paradise” — legal language is unnecessary for justiciability
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
 </details>
 
 ---
 
 ## Complete PYQ Bank (Topic 2)
 
-> Full UPPCS mapped hits (2018–2025). Answers in `<details>`.
+> Full UPPCS mapped hits (2018–2025). Answers under Show answer.
 
 ### 2025
 
@@ -950,10 +1342,10 @@ B. (A) is false, but (R) is true
 C. (A) is true, but (R) is false  
 D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **D**
-
 </details>
 
 **Q2. UPPCS Prelims 2025, Q56**  
@@ -969,10 +1361,10 @@ B. 3 and 4
 C. 2 and 3  
 D. 1 and 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **D — Socialist and Secular.**
-
 </details>
 
 **Q3. UPPCS Prelims 2025, Q47**  
@@ -985,10 +1377,10 @@ B. A false R true
 C. A true R false  
 D. Both true and R explains A
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **D**
-
 </details>
 
 ### 2024
@@ -1006,10 +1398,10 @@ B. 3, 2, 1, 4
 C. 1, 2, 3, 4  
 D. 3, 4, 2, 1
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **C — 1951 → 1965 → 1967 → 1973.**
-
 </details>
 
 **Q5. UPPCS Prelims 2024, Q128**  
@@ -1030,10 +1422,10 @@ B. 2 1 4 3
 C. 4 3 1 2  
 D. 3 2 4 1
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **C (4, 3, 1, 2)** — Austin, Morris-Jones, Wheare, Jennings.
-
 </details>
 
 ### 2022
@@ -1046,10 +1438,10 @@ B. Golaknath vs State of Punjab — 1967
 C. Chitralekha vs State of Mysore — 1964  
 D. Yusuf vs State of Bombay — 1954
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **A**
-
 </details>
 
 ### 2021
@@ -1067,10 +1459,10 @@ B. I, II, III, IV
 C. III, I, II, IV  
 D. III, I, IV, II
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **A — 1967 → 1971 → 1973 → 1976.**
-
 </details>
 
 **Q8. UPPCS Prelims 2021, Q49**  
@@ -1081,10 +1473,10 @@ B. Democratic
 C. Secular  
 D. Federal
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **D — Federal.**
-
 </details>
 
 ### 2020
@@ -1097,10 +1489,10 @@ B. 1991
 C. 1992  
 D. 1993
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **C — 1992**
-
 </details>
 
 **Q10. UPPCS Prelims 2020, Q120**  
@@ -1111,10 +1503,10 @@ B. The Keshavanand Bharati Case in 1973
 C. The Shankari Prasad Case in 1951  
 D. The Sajjan Singh Case in 1965
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **B**
-
 </details>
 
 **Q11. UPPCS Prelims 2020, Q126**  
@@ -1127,10 +1519,10 @@ B. Both true but R does not explain A
 C. A true R false  
 D. A false R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **B**
-
 </details>
 
 ### 2019
@@ -1146,10 +1538,10 @@ B. 2 only
 C. Both 1 and 2  
 D. Neither I nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **A — 1 only.**
-
 </details>
 
 **Q13. UPPCS Prelims 2019, Q102**  
@@ -1160,10 +1552,10 @@ B. Ivor Jannigs
 C. H. J. Laski  
 D. K. C. Wheare
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **D**
-
 </details>
 
 **Q14. UPPCS Prelims 2019, Q107**  
@@ -1174,10 +1566,10 @@ B. It is not enforceable
 C. It may be enforced in special circumstances  
 D. None of the above
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **B**
-
 </details>
 
 ### 2018
@@ -1190,10 +1582,10 @@ B. 1, 3, 5, 2
 C. 2, 5, 3, 1  
 D. 5, 2, 1, 3
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **A — 3, 5, 2, 1.**
-
 </details>
 
 **Q16. UPPCS Prelims 2018, Q71**  
@@ -1204,10 +1596,10 @@ B. Belgium
 C. France  
 D. Switzerland
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **A**
-
 </details>
 
 ---
@@ -1216,23 +1608,24 @@ D. Switzerland
 
 1. **Federal** is NOT in the Preamble (2021)
 2. 42nd added **Socialist + Secular**, not Sovereignty/Republic (2025)
-3. Preamble is **not enforceable** (2019)
-4. Justice–Liberty–Equality–Fraternity = **3, 5, 2, 1** (2018)
-5. Quasi-federal = **Wheare**, not Austin (2019/2024)
-6. Cooperative federalism = **Austin**; Bargaining = **Morris-Jones**; Centralising = **Jennings**
-7. Basic Structure = **Kesavananda 1973**, not Golaknath
-8. India ≠ Presidential merely because there is a President
-9. Single citizenship — not USA dual model
-10. No absolute separation of powers like USA
-11. Constitutional supremacy ≠ UK Parliamentary sovereignty
-12. Residuary powers with **Centre** (Canada), not States
-13. Berubari “Preamble not part” superseded by Kesavananda — Preamble **is part**
-14. Voting age 18 via **61st** Amendment — not since 1950
-15. Third tier = **1992** (73rd/74th), not 1990/91
-16. States **cannot** secede (2019)
-17. Quasi-federal A/R: judiciary true but **does not explain** quasi-federal (2020)
-18. Parliamentary system first in **UK** (2018)
-19. Art. 2–4 changes ≠ Art. 368 amendment (simple majority path)
-20. **Minerva Mills (1980)** restored limits after 42nd’s attempt to make Art. 368 unlimited
-21. Inter-State Council set up on **Sarkaria** recommendation (1990) — cooperative federalism tool
-22. Preamble date line = **26 November 1949** (adoption), not 26 January 1950
+3. On **26 Jan 1950** = **Sovereign Democratic Republic** only
+4. Preamble is **not enforceable** (2019)
+5. Justice–Liberty–Equality–Fraternity = **3, 5, 2, 1** (2018)
+6. Quasi-federal = **Wheare**, not Austin (2019/2024)
+7. Cooperative federalism = **Austin**; Bargaining = **Morris-Jones**; Centralising = **Jennings**
+8. Basic Structure = **Kesavananda 1973**, not Golaknath
+9. India ≠ Presidential merely because there is a President
+10. Single citizenship — not USA dual model
+11. No absolute separation of powers like USA
+12. Constitutional supremacy ≠ UK Parliamentary sovereignty
+13. Residuary powers with **Centre** (Canada), not States
+14. Berubari “Preamble not part” superseded by Kesavananda — Preamble **is part**
+15. Voting age 18 via **61st** Amendment — not since 1950
+16. Third tier = **1992** (73rd/74th), not 1990/91
+17. States **cannot** secede (2019)
+18. Quasi-federal A/R: judiciary true but **does not explain** quasi-federal (2020)
+19. Parliamentary system first in **UK** (2018)
+20. Art. 2–4 changes ≠ Art. 368 amendment (simple majority path)
+21. **Minerva Mills (1980)** restored limits after 42nd’s attempt to make Art. 368 unlimited
+22. Inter-State Council set up on **Sarkaria** recommendation (1990) — cooperative federalism tool
+23. Preamble date line = **26 November 1949** (adoption), not 26 January 1950
