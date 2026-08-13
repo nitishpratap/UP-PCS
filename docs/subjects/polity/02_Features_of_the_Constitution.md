@@ -5,9 +5,11 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-**Salient features:** Lengthiest written | Rigidity + Flexibility | Quasi-federal | Parliamentary system | FR + DPSP + Duties | Secular | Single citizenship | UAF | Independent + Integrated judiciary | Emergency | Independent bodies | 3-tier (1992) | Basic Structure
+**Salient features:** Lengthiest written | Rigidity + Flexibility | Quasi-federal | Parliamentary system | FR + DPSP + Duties | Secular | Single citizenship | UAF | Independent + Integrated judiciary | Emergency | Independent bodies | 3-tier (1992) | Basic Structure | Schedules glance | **Sources / borrowed features**
 
-**Preamble:** Keywords | Justice–Liberty–Equality–Fraternity counts | 42nd additions | Part of Constitution | Not enforceable | Status on 26 Jan 1950
+**Preamble:** Full text | Keywords | Justice–Liberty–Equality–Fraternity counts | Original vs 42nd | Part of Constitution | Not enforceable | Status on 26 Jan 1950 | Palkhivala identity card
+
+**Sources map:** UK (parliamentary) | USA (FR) | Ireland (DPSP) | Canada (residuary) | Australia (concurrent) | Germany (emergency) | Japan (Art. 21) | GOI Act 1935 (skeleton) | Indian originality
 
 **Federalism labels:** Wheare / Austin / Morris-Jones / Jennings | Cooperative vs Competitive | Federal vs Unitary features
 
@@ -17,7 +19,7 @@
 
 > **Sources baked in:** Laxmikanth (Salient Features / Preamble / Basic Structure), NCERT Class 11 *Indian Constitution at Work*, Drishti To-the-Point, UPPCS Prelims PYQs 2018–2025  
 > **Exam weight:** ★★★ — Preamble counts/words, quasi-federal scholars, Basic Structure cases, Parliamentary A/R, federalism match lists  
-> **Last verified:** August 2026 — coaching gap-pass (26 Jan 1950 = Sovereign Democratic Republic; synthesis of parliamentary sovereignty + judicial supremacy; criticisms one-liners)  
+> **Last verified:** August 2026 — coaching gap-pass (full Preamble text; original vs 42nd; Schedules glance; Secular/Emergency/triad feature cards; sources table)  
 > **Current Affairs:** GST Council / NITI Aayog as cooperative–competitive federalism examples
 
 ---
@@ -32,12 +34,11 @@ FEATURES: Lengthiest | Rigidity+Flexibility (Art.368 types) | Quasi-federal | Pa
 AMENDMENT TYPES:
   Simple majority (Arts 2–4, 169…) | Special majority (368) | Special + half States (federal)
 
-PREAMBLE: Sovereign Socialist Secular Democratic Republic | date line 26 Nov 1949
-  On 26 Jan 1950 status = Sovereign Democratic Republic (Socialist/Secular later)
-  Justice 3 | Liberty 5 | Equality 2 | Fraternity 1   →  3,5,2,1
-  NOT in Preamble: Federal
-  42nd (1976): Socialist + Secular (+ Integrity)
-  Part of Constitution (Kesavananda/LIC); NOT enforceable
+PREAMBLE TEXT: We the People → SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC
+  Justice (S/E/P) · Liberty (5) · Equality (2) · Fraternity (dignity + unity & integrity)
+  Date line 26 Nov 1949 | On 26 Jan 1950 status = Sovereign Democratic Republic only
+  42nd (1976): Socialist + Secular + integrity | NOT in Preamble: Federal
+  Part of Constitution (Kesavananda/LIC); NOT enforceable | Palkhivala = identity card
 
 BASIC STRUCTURE: Kesavananda 1973
   Shankari 1951 → Sajjan 1965 → Golaknath 1967 → 24th 1971
@@ -45,6 +46,9 @@ BASIC STRUCTURE: Kesavananda 1973
 
 SCHOLARS: Austin=Cooperative | Morris-Jones=Bargaining
           Wheare=Quasi | Jennings=Centralising tendency
+
+SOURCES: UK parl+writs · USA FR+JR · Ireland DPSP · Canada residuary · Australia concurrent
+         Germany emergency · Japan procedure-by-law · GOI 1935 skeleton · UAF+Basic Structure = Indian
 ```
 
 ---
@@ -68,6 +72,11 @@ SCHOLARS: Austin=Cooperative | Morris-Jones=Bargaining
 | Rule of Law vs Constitutional supremacy | No one above law vs Constitution highest law | Treat as identical | विधि / संविधान |
 | Residuary powers | **Centre** (Canada pattern) | States like USA | अवशिष्ट = केंद्र |
 | Art. 3 vs Art. 368 | Boundary change = simple majority path | Call every change “special majority” | अनुच्छेद 3 |
+| Residual vs Concurrent source | **Canada** vs **Australia** | Swap the pair | कनाडा / ऑस्ट्रेलिया |
+| FR vs DPSP source | **USA** vs **Ireland** | Swap or mix with UK | अमेरिका / आयरलैंड |
+| GOI 1935 vs full copy | **Structural skeleton** only | “Pure carbon copy” | 1935 = ढांचा |
+| Original vs 42nd Preamble | **1950 = SDR**; Socialist/Secular later | Call 1950 already Socialist Secular | 1950 ≠ समाजवादी |
+| Palkhivala tag | Preamble = **identity card** | Mix with Austin / Wheare | पहचान पत्र |
 
 ---
 
@@ -83,9 +92,12 @@ SCHOLARS: Austin=Cooperative | Morris-Jones=Bargaining
 | **Shankari → Sajjan → Golaknath → Kesavananda** | 1951 → 1965 → 1967 → 1973 |
 | **Golaknath → 24th → Kesavananda → 42nd** | 1967 → 1971 → 1973 → 1976 |
 | **Federal NOT in Preamble** | Union is in Art. 1 |
+| **Palkhivala = identity card** | Preamble = identity card of the Constitution |
 | **61st = eighteen** | Voting age 21 → 18 |
 | **73rd/74th = 1992 third tier** | Local self-government constitutionalised |
 | **1950 = SDR** | Sovereign Democratic Republic only |
+| **FR–USA · DPSP–Ireland · Residuary–Canada** | Highest-yield source trio |
+| **Concurrent = Australia** | Do not call it Canada |
 | **President nominal · PM real** | Parliamentary dual executive |
 
 ---
@@ -126,6 +138,23 @@ SCHOLARS: Austin=Cooperative | Morris-Jones=Bargaining
   - Heavy borrowing from **GOI Act 1935** (lengthy structural statute).
   - Legalistic drafting; elaborate safeguards for minorities, SC/ST, services, etc.
 - Contrast: **UK** — largely unwritten (conventions + statutes); **USA** — short written Constitution.
+
+### Schedules at a glance (high-yield)
+
+| Schedule | Content lock |
+|----------|--------------|
+| **I** | Names / territories of States and UTs |
+| **II** | Emoluments — President, Governors, Speakers, Judges, CAG, etc. |
+| **III** | Forms of Oaths / Affirmations |
+| **IV** | Rajya Sabha seat allocation to States/UTs |
+| **V** | Scheduled Areas and Scheduled Tribes |
+| **VI** | Tribal Areas in Assam, Meghalaya, Tripura, Mizoram |
+| **VII** | Union / State / Concurrent Lists (**Art. 246**) |
+| **VIII** | Official Languages |
+| **IX** | Acts protected from judicial challenge (land-reform era; limited by *I.R. Coelho*, 2007) |
+| **X** | Anti-defection (**10th Schedule**) |
+| **XI** | Panchayats — **29** subjects (**73rd**) |
+| **XII** | Municipalities — **18** subjects (**74th**) |
 
 ---
 
@@ -354,11 +383,47 @@ D. Switzerland
 
 ## N.6 Preamble
 
-- Inspired by **Objectives Resolution** (Nehru, 13 Dec 1946; adopted 22 Jan 1947).
-- Opens with **“We, the People of India…”** — source of authority is the people (popular sovereignty).
-- Date line in Preamble: **26th day of November 1949** (adoption date).
-- Declares India a **Sovereign Socialist Secular Democratic Republic** (present text).
-- Goals: **Justice, Liberty, Equality, Fraternity**.
+**Identity:** Philosophical key to the Constitution | Source of authority = **the people** | Inspired by **Objectives Resolution** (Nehru, 13 Dec 1946; adopted 22 Jan 1947)
+
+### Full text (present — after 42nd Amendment, 1976)
+
+```
+WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a
+SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens:
+
+JUSTICE, social, economic and political;
+
+LIBERTY of thought, expression, belief, faith and worship;
+
+EQUALITY of status and of opportunity;
+
+and to promote among them all
+
+FRATERNITY assuring the dignity of the individual and the unity and integrity of the Nation;
+
+IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November, 1949, do HEREBY
+ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION.
+```
+
+### Original text vs 42nd Amendment
+
+| Element | Original (26 Nov 1949 / 26 Jan 1950) | After **42nd Amendment, 1976** |
+|---------|--------------------------------------|--------------------------------|
+| Nature of State | **Sovereign Democratic Republic** | **Sovereign Socialist Secular Democratic Republic** |
+| Fraternity clause | Unity of the Nation | Unity **and integrity** of the Nation |
+| Words added | — | **Socialist**, **Secular**, **integrity** |
+
+- Date line was always **26th day of November, 1949** (adoption) — not Republic Day.
+- **Sovereign / Democratic / Republic** were already present — **not** added by 42nd.
+- Word **Federal** is **NOT** in the Preamble (Union of States is in **Art. 1**).
+
+### Purpose / functions (exam one-liners)
+
+- Declares the **source of the Constitution** — “We, the People of India” (popular sovereignty).
+- States the **nature of the Indian State** — Sovereign Socialist Secular Democratic Republic.
+- States the **objectives** — Justice, Liberty, Equality, Fraternity.
+- N.A. Palkhivala called the Preamble the **“identity card of the Constitution.”**
+- Helps courts interpret ambiguous provisions; reflects Basic Structure ideals (Kesavananda).
 
 ### Meaning of key words
 
@@ -381,12 +446,10 @@ D. Switzerland
 
 Order asked: Justice, Liberty, Equality, Fraternity → **3, 5, 2, 1**.
 
-### Words / amendments / 1950 status
+### 1950 status lock
 
-- **42nd Amendment, 1976** added **Socialist** and **Secular**; inserted **integrity** in the fraternity clause.
-- Word **Federal** is **NOT** in the Preamble (Union of States is in Art. 1).
-- **Sovereign / Democratic / Republic** were already present — not added by 42nd.
-- Exact constitutional status on **26 January 1950** = **Sovereign Democratic Republic** (UPSC Prelims 2021 lock). Socialist and Secular come later via 42nd.
+- Exact constitutional status on **26 January 1950** = **Sovereign Democratic Republic** only (UPSC Prelims 2021 lock).
+- **Socialist** and **Secular** enter only via **42nd Amendment, 1976**.
 
 ### Legal status and amendability
 
@@ -460,6 +523,38 @@ D. None of the above
 
 **Ans: B** — Not enforceable.
 </details>
+
+---
+
+## N.6A Secular State, FR–DPSP–Duties triad, Emergency & independent bodies
+
+### Secular State (as a salient feature)
+
+- Word **Secular** was added to the Preamble by the **42nd Amendment, 1976**, but secular content already existed in **Arts. 25–28** (freedom of religion) and equality clauses.
+- Indian secularism is **positive / reformist** — State may intervene to remove social evils and treat all religions equally; it is **not** a wall-of-separation US clone.
+- **S.R. Bommai (1994):** secularism is part of the **Basic Structure**.
+- Trap: “India became secular only in 1976” — word in Preamble yes; substance older.
+
+### Fundamental Rights + DPSP + Fundamental Duties
+
+- **FR (Part III):** justiciable; borrowed in form from the **USA**.
+- **DPSP (Part IV):** non-justiciable policy directives; borrowed from **Ireland**.
+- **Fundamental Duties (Part IVA):** added by **42nd Amendment, 1976** (Swaran Singh Committee); USSR-model inspiration.
+- Exam lock: FR–DPSP harmony is part of Basic Structure (*Minerva Mills*).
+- Detail lives in the FR / DPSP / Duties chapter — here only the **triad as a salient feature**.
+
+### Emergency provisions (as a salient feature)
+
+- **Part XVIII** — National Emergency (**Art. 352**), State Emergency / President’s Rule (**Art. 356**), Financial Emergency (**Art. 360**).
+- During Emergency the Centre’s power expands — federal fabric becomes more **unitary** in practice.
+- Source lineage often linked to **Weimar Germany** for FR-suspension idea; structural frame also from **GOI Act 1935**.
+- Detail → Emergency chapter; here lock only “Emergency = strong-Centre unitary tilt”.
+
+### Independent constitutional bodies
+
+- Constitution creates bodies insulated from day-to-day executive control: **Election Commission**, **CAG**, **UPSC**, **Finance Commission**, etc.
+- Independence tools: security of tenure, fixed service conditions, charge on Consolidated Fund where provided, removal safeguards.
+- Detail → Constitutional Bodies chapter; here lock only as a **salient feature**.
 
 ---
 
@@ -696,24 +791,74 @@ D. Both true and R explains A
 
 ---
 
+## N.13 Sources of the Indian Constitution (borrowed features)
+
+**Identity:** Adapted from many constitutions and the **GOI Act 1935** — framed as an Indian document, not a foreign transplant
+
+- Granville Austin called it a “**bag of borrowings**,” but the Constituent Assembly **selected and modified** each feature for India’s diversity, poverty, and plural society.
+- The **GOI Act 1935** supplied the largest **structural skeleton** — lists, Governor, emergency lineage, PSC, Federal Court path — but independent India added **FR, adult franchise, republicanism, DPSP** and later **Fundamental Duties** and **Basic Structure** politics.
+
+### Country-wise source table
+
+| Feature / provision | Borrowed from | Common trap |
+|---------------------|---------------|-------------|
+| Parliamentary government, Cabinet, Rule of Law, legislative procedure, **single citizenship**, bicameralism, writs (idea) | **UK** | Not USA for parliamentary system |
+| **Fundamental Rights**, judicial review, independent judiciary, impeachment of President, removal of judges, **Vice-President** | **USA** | Not UK for FR |
+| **Directive Principles of State Policy**, Presidential election method, RS nominations | **Ireland** | Not USA for DPSP |
+| Strong-Centre federation; **residuary powers with Centre**; Centre-appointed Governor | **Canada** | **Not Australia** for residuary |
+| **Concurrent List**; freedom of trade & commerce; joint sitting | **Australia** | **Not Canada** for concurrent |
+| Suspension of FR during Emergency | **Germany (Weimar)** | — |
+| **Procedure established by law** (original Art. 21) | **Japan** | Not US “due process” wording |
+| Liberty–equality–fraternity Preamble spirit | **France** | Ideals, not full structure |
+| Lists, emergency frame, PSC, much administrative detail | **GOI Act 1935** | “Only copy of 1935” oversimplifies |
+| Fundamental Duties (Part IVA) | **USSR** model via **42nd Amendment, 1976** | Not in original 1950 Constitution |
+
+### What is distinctly Indian
+
+- **Universal adult franchise** from the first general election (**Article 326**).
+- **Quasi-federal** union with **single citizenship** and an **integrated judiciary**.
+- Simultaneous **FR + DPSP** design (Duties added later).
+- **Basic Structure** doctrine limiting amendment power — judicial innovation after **Kesavananda (1973)**.
+- Fifth / Sixth Schedules and **Article 371** series for asymmetric federalism.
+
+**Inline PYQ — UPPCS Prelims 2021, Q54 (cross-topic lock)**
+
+Which one of the following is NOT correctly matched?
+
+(Provisions) — (Sources)
+
+A. Fundamental Rights – USA  
+B. Directive Principles of State Policy – Ireland  
+C. Residual Powers of Center – Australia  
+D. Emergency powers - Germany
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Residuary powers of the Centre are borrowed from **Canada**, not Australia.
+</details>
+
+---
+
 ## Must-score locks
 
 1. Lengthiest written Constitution; reasons include single Constitution for Centre and States + diversity + GOI Act 1935 base.
 2. Blend of rigidity and flexibility — Arts. 2–4 path ≠ Art. 368 for every change.
 3. Quasi-federal = **K.C. Wheare**; Cooperative = **Austin**; Bargaining = **Morris-Jones**; Centralising = **Jennings**.
 4. Parliamentary = executive responsible to legislature; first introduced in **UK**.
-5. Preamble counts **3, 5, 2, 1**; **Federal** not in Preamble; 42nd added **Socialist + Secular**.
-6. On **26 Jan 1950** = **Sovereign Democratic Republic** only.
+5. Preamble counts **3, 5, 2, 1**; **Federal** not in Preamble; 42nd added **Socialist + Secular** (+ integrity); Palkhivala = **identity card**.
+6. On **26 Jan 1950** = **Sovereign Democratic Republic** only; full present text = Sovereign Socialist Secular Democratic Republic.
 7. Preamble is **part** of Constitution but **not enforceable**.
 8. Basic Structure = **Kesavananda 1973**; Minerva Mills 1980 restored limits.
 9. Single citizenship; voting age 18 by **61st**; third tier **1992**.
-10. Residuary with **Centre**; integrated judiciary = one hierarchy under SC.
+10. Residuary with **Centre** (Canada); **Concurrent List** = Australia; FR = USA; DPSP = Ireland.
+11. GOI Act **1935** = structural borrow; UAF + Basic Structure = Indian originality.
 
 ---
 
 ## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden.** **42 questions.** Full stems (not cryptic stubs). Mix asked PYQ patterns with standard coaching angles.
+> **Answers hidden.** **46 questions.** Full stems (not cryptic stubs). Mix asked PYQ patterns with standard coaching angles.
 
 **Q1.** With reference to the length of the Indian Constitution, which one of the following is NOT a valid reason for its size?
 
@@ -1324,6 +1469,66 @@ D. “Lawyer’s paradise” — legal language is unnecessary for justiciabilit
 **Ans: A**
 </details>
 
+**Q43.** Which one of the following is NOT correctly matched?
+
+(Provisions) — (Sources)
+
+A. Fundamental Rights — United States of America  
+B. Directive Principles of State Policy — Ireland  
+C. Residual Powers of the Centre — Australia  
+D. Concurrent List — Australia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Residual powers of the Centre are borrowed from **Canada**, not Australia.
+</details>
+
+**Q44.** The “procedure established by law” phrase in Article 21 of the Constitution of India was borrowed from the Constitution of:
+
+A. United States of America  
+B. Japan  
+C. Germany  
+D. Canada
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — **Japan** (contrasted with US “due process” debates).
+</details>
+
+**Q45.** Who described the Preamble as the “identity card of the Constitution”?
+
+A. B. R. Ambedkar  
+B. N. A. Palkhivala  
+C. Granville Austin  
+D. K. C. Wheare
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — **N. A. Palkhivala**.
+</details>
+
+**Q46.** With reference to the Preamble of the Constitution of India, consider the following statements:
+
+1. The date mentioned in the Preamble is 26 November 1949.  
+2. The words Socialist and Secular were present in the original Preamble.  
+3. The Preamble mentions Justice — social, economic and political.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only  
+B. 1 and 3 only  
+C. 2 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Socialist and Secular were added by the **42nd Amendment, 1976**.
+</details>
+
 ---
 
 ## Complete PYQ Bank (Topic 2)
@@ -1629,3 +1834,10 @@ D. Switzerland
 21. **Minerva Mills (1980)** restored limits after 42nd’s attempt to make Art. 368 unlimited
 22. Inter-State Council set up on **Sarkaria** recommendation (1990) — cooperative federalism tool
 23. Preamble date line = **26 November 1949** (adoption), not 26 January 1950
+24. Residual powers source = **Canada**; Concurrent List = **Australia** — do not swap (2021 Q54)
+25. FR = **USA**; DPSP = **Ireland**; parliamentary system = **UK**
+26. Art. 21 “procedure established by law” = **Japan**, not USA due-process wording
+27. GOI Act **1935** = structural skeleton — not a complete carbon copy of independent Constitution
+28. Palkhivala = Preamble is the **identity card** of the Constitution
+29. Original Preamble = **Sovereign Democratic Republic**; Socialist/Secular/integrity = **42nd**
+30. Schedules: **VII** = Lists; **X** = anti-defection; **XI/XII** = Panchayats/Municipalities

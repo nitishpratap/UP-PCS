@@ -13,13 +13,13 @@
 
 **Transfer of power:** August Offer | Cripps Mission | Wavell Plan / Shimla | Cabinet Mission | Interim Government | Mountbatten Plan | Indian Independence Act 1947
 
-**Constitution-making:** Demand for CA | Composition | Committees | Objectives Resolution | B.N. Rau | Drafting Committee | Adoption / Enforcement | Borrowed features
+**Constitution-making:** Demand for CA | Composition (389 → 299 · indirect PR-STV · ~15 women) | Committees & sub-committees (Minorities · Tribal · Excluded Areas) | Objectives Resolution → Preamble | B.N. Rau | Drafting Committee | Adoption / Enforcement | Sources / Borrowed features
 
 </details>
 
 > **Sources baked in:** Laxmikanth Ch.1–2, NCERT Class 12 Politics, Spectrum, ClearIAS / Drishti coaching map, UPPCS Prelims PYQs 2018–2025  
 > **Exam weight:** ★★★ — chronology, Dyarchy vs Autonomy, missions, CA dates/committees, borrowed features  
-> **Last verified:** August 2026 — coaching gap-pass (6 bicameral provinces, RBI Act 1934 vs GOI 1935 provision, GG/Viceroy line, CA demand & draft timeline)  
+> **Last verified:** August 2026 — coaching gap-pass (Objectives Resolution → Preamble map; CA women & minorities sub-committees; 389 composition; sources table)  
 > **Current Affairs:** N/A (historical frame); Constitution Day = **26 Nov** (adoption anniversary)
 
 ---
@@ -37,8 +37,10 @@ Simon 1927 all-British → Nehru Report 1928 → RTC → Award/Poona 1932 → GO
  RBI provided in 1935 text; statute = RBI Act 1934 (ops 1 Apr 1935)
 Aug Offer 1940 → Cripps 1942 → Wavell/Shimla 1945 → Cabinet 1946
 Interim announced 24 Aug 1946 · office 2 Sep 1946 → Mountbatten 3 Jun 1947 → Independence Act 18 Jul 1947
-CA demand: M.N. Roy 1934 · Congress 1935 · first meet 9 Dec 1946 · Drafting 29 Aug 1947
-Adopt 26 Nov 1949 · Enforce 26 Jan 1950 · Flag 22 Jul 1947 · last CA meet 24 Jan 1950
+CA demand: M.N. Roy 1934 · Congress 1935 · 389 (292+93+4) → 299 · ~15 women · indirect PR-STV
+First meet 9 Dec 1946 · Objectives 13 Dec 1946 / adopt 22 Jan 1947 · Drafting 29 Aug 1947 · Minorities Sub = H.C. Mukherjee · Gandhi NOT a member
+Adopt 26 Nov 1949 (284 signed) · Enforce 26 Jan 1950 · Flag 22 Jul 1947 · last CA meet 24 Jan 1950
+Sources: UK parl · USA FR · Ireland DPSP · Canada residuary · Australia concurrent · Germany emergency · Japan Art 21 · GOI 1935 skeleton
 ```
 
 ---
@@ -67,6 +69,11 @@ Adopt 26 Nov 1949 · Enforce 26 Jan 1950 · Flag 22 Jul 1947 · last CA meet 24 
 | First Viceroy | **Lord Canning** (same man = last Company GG) | Mountbatten as first | कैनिंग पहला वायसराय |
 | First Indian GG | **C. Rajagopalachari** (1948–50) | Mountbatten | राजगोपालाचारी |
 | Chamber of Princes | **GOI Act 1919** (~120) | 1909 / 1935 | नरेंद्र मंडल = 1919 |
+| Gandhi in CA | **Not a member** | List him among CA framers | गांधी सदस्य नहीं |
+| CA election method | **Indirect** (provincial assemblies; PR-STV) | Universal adult franchise at CA stage | अप्रत्यक्ष चुनाव |
+| Minorities Sub-Committee | **H.C. Mukherjee** (Chair) | Sardar Patel as chair of this sub-committee | अल्पसंख्यक = मुखर्जी |
+| Advisory Committee | **Sardar Patel** (parent committee) | Confuse with Minorities Sub-Chair | सलाहकार = पटेल |
+| CA strength breakdown | **292 + 93 + 4 = 389** | Call total 296+93 only | 292+93+4 |
 
 ---
 
@@ -87,6 +94,9 @@ Adopt 26 Nov 1949 · Enforce 26 Jan 1950 · Flag 22 Jul 1947 · last CA meet 24 
 | **Rau advises · Ambedkar drafts** | Adviser vs Drafting Chair |
 | **Nov adopt · Jan enforce** | 26 Nov 1949 / 26 Jan 1950 |
 | **Six bicameral** | Bengal, Bombay, Madras, Bihar, Assam, United Provinces |
+| **Fifteen women framers** | ~**15** women in original CA (not zero) |
+| **Mukherjee minorities** | Minorities Sub-Committee = **H.C. Mukherjee** |
+| **FR–USA · DPSP–Ireland · Residuary–Canada** | Highest-yield source trio |
 
 ---
 
@@ -300,24 +310,7 @@ D. Government of India Act, 1919
 - **1919 (Montagu–Chelmsford):** extended to Sikhs, Indian Christians, Anglo-Indians, Europeans.
 - **Communal Award, 1932:** further extended separate electorates to **Depressed Classes** (among others).
 - **Poona Pact, 1932:** replaced Depressed Classes’ separate electorates with **reserved seats in a joint electorate**.
-- Separate electorates remained a major constitutional controversy up to Partition; criticised in Constituent Assembly debates.
-
-**Inline PYQ — UPPCS Prelims 2021, Q1**
-
-"Can you show me one free country where there are separate electorates? ... The British element is gone, but they have left mischief behind."
-
-Who among the following said the above mentioned statement in the Constituent Assembly debates?
-
-A. Somnath Lahiri  
-B. Jawaharlal Nehru  
-C. Sardar Vallabh Bhai Patel  
-D. N. G. Ranga
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: C** — Sardar Vallabhbhai Patel.
-</details>
+- Separate electorates remained a major constitutional controversy up to Partition; the Constituent Assembly rejected the separate-electorate model in favour of **joint electorates** (see N.9 — Patel’s “mischief” quote).
 
 ---
 
@@ -590,18 +583,124 @@ D. 2, 4, 1, 3
 
 - Idea of a Constituent Assembly: **M.N. Roy (1934)**; Congress officially demanded it in **1935**; British accepted the idea in principle through later wartime / Cabinet Mission politics.
 - Framed under **Cabinet Mission Plan** (not under a sovereign Independence Act initially).
-- Total seats **389** = **296** (British India) + **93** (Princely States); after Partition about **299**.
-- British Indian members were mostly **indirectly elected** by Provincial Legislative Assemblies (proportional representation / communal seats as per plan).
-- Princely representatives were nominated by rulers.
+- **Initial strength 389** = **292** (British Indian provinces) + **93** (Princely States) + **4** (Chief Commissioner’s Provinces).
+- After Partition the membership fell to about **299**; **284** members signed the Constitution on **26 November 1949**.
+- British Indian members were **indirectly elected** by Provincial Legislative Assemblies through **proportional representation with the single transferable vote** — **not** universal adult franchise at this stage (Congress had demanded UAF, but the actual CA election followed the **1935 Act** franchise).
+- Princely representatives were **nominated** by rulers.
+- **Congress** won about **208** provincial seats; **Muslim League** about **73**; others about **15** — League later **boycotted** early sittings after Direct Action politics.
+- **Mahatma Gandhi was not a member** of the Constituent Assembly.
 - First meeting: **9 December 1946** — temporary President **Dr. Sachchidananda Sinha**.
 - Permanent President: **Dr. Rajendra Prasad** — **11 December 1946**; Vice-President **H.C. Mukherjee**.
 - **Objectives Resolution** moved by **Jawaharlal Nehru** on **13 December 1946**; adopted **22 January 1947** — philosophical base of the Constitution (later reflected in Preamble).
+
+### Objectives Resolution → Preamble
+
+**Identity:** Philosophical parent of the Preamble | Moved **13 Dec 1946** · Adopted **22 Jan 1947** | Mover: **Jawaharlal Nehru**
+
+- Declared India an **Independent Sovereign Republic**.
+- Declared that territories would join as a **Union**.
+- Declared that **power and authority** of the Union derive from the **people**.
+- Guaranteed **Justice** (social, economic, political), **Equality** of status and opportunity, and **Freedom of thought, expression, belief, faith, worship, vocation, association and action**.
+- Promised adequate safeguards for **minorities**, **tribal areas**, **backward and depressed classes**.
+- Affirmed India’s commitment to **world peace** and the welfare of humanity.
+- Modified form of these ideals becomes the **Preamble** — “We, the People…” and the Justice–Liberty–Equality–Fraternity quartet.
+- Trap: Objectives Resolution was **moved** on **13 Dec 1946**, not adopted that day; adoption = **22 Jan 1947**.
+
+> **Exam note:** Objectives Resolution = Preamble seed; full Preamble text and keyword counts live in **Topic 2 — Features**.
+
 - National Flag adopted by CA on **22 July 1947**.
 - Constitutional Adviser **B.N. Rau** prepared a working draft; Drafting Committee refined it.
 - Draft Constitution published **February 1948**; first reading November 1948; second reading clause-by-clause through 1949; third reading November 1949.
-- Work spanned about **2 years 11 months 18 days**; Assembly sat for **11 sessions**.
-- **Last meeting: 24 January 1950** — also adopted National Anthem; members signed the Constitution.
+- Work spanned about **2 years 11 months 18 days**; Assembly sat for **11 sessions** (about **165** sitting days in standard coaching memory).
+- After **15 August 1947** the CA also functioned as the **Provisional Parliament** of the Dominion — dual role (constitution-making under Rajendra Prasad; legislative sittings under **G.V. Mavlankar** as Speaker).
+- **Last meeting: 24 January 1950** — also adopted **Jana Gana Mana** (National Anthem) and **Vande Mataram** (National Song); members signed the Constitution; Rajendra Prasad elected first President.
 - First President of India: **Rajendra Prasad** · First Prime Minister: **Jawaharlal Nehru**.
+- Official seal of the Constituent Assembly showed an **elephant**.
+
+### Women members
+
+- The original Constituent Assembly had about **15 women members** — a significant presence for the 1940s, though still a small fraction of the total.
+- **Hansa Mehta** moved amendments on women’s rights and spoke strongly for gender equality in citizenship and law.
+- **Durgabai Deshmukh** worked on social-welfare and planning-related provisions and later chaired the Central Social Welfare Board.
+- **Rajkumari Amrit Kaur** was the only woman in Nehru’s first Cabinet and became India’s first Health Minister.
+- **Sarojini Naidu** had earlier become the first woman President of the Indian National Congress (1925).
+- **Sucheta Kripalani** later became the first woman Chief Minister of an Indian State (**Uttar Pradesh**, 1963).
+- **Vijayalakshmi Pandit** later became India’s first woman ambassador to the United Nations.
+- **Dakshayani Velayudhan** was among the few Dalit women in the Assembly and spoke on untouchability and social justice.
+
+| Woman member | Province / seat (1946 election) |
+|--------------|----------------------------------|
+| Ammu Swaminathan | Madras |
+| Begum Aizaz Rasul | United Provinces |
+| Dakshayani Velayudhan | Madras |
+| Durgabai Deshmukh | Madras |
+| Hansa Mehta | Bombay |
+| Kamla Chaudhry | United Provinces |
+| Leela Roy | Bengal |
+| Malati Choudhury | Orissa |
+| Purnima Banerjee | United Provinces |
+| Rajkumari Amrit Kaur | Central Provinces & Berar |
+| Renuka Ray | Bengal |
+| Sarojini Naidu | Bengal |
+| Sucheta Kripalani | United Provinces |
+| Vijayalakshmi Pandit | United Provinces |
+| Annie Mascarene | Travancore–Cochin |
+
+> **Exam note:** Lock **~15 women**; Gandhi **not** a member; CA election was **indirect**, not UAF.
+
+### Minorities, tribal areas & excluded areas — Advisory Committee work
+
+- **Advisory Committee on Fundamental Rights, Minorities and Tribal Areas** was chaired by **Sardar Patel**.
+- It had **five sub-committees** that fed minority safeguards, tribal administration and fundamental-rights drafts into the final text.
+
+| Sub-committee | Chairman | Focus |
+|---------------|----------|-------|
+| Fundamental Rights Sub-Committee | **J.B. Kripalani** | Draft catalogue of justiciable rights |
+| **Minorities Sub-Committee** | **H.C. Mukherjee** | Religious and linguistic minorities |
+| North-East Frontier Tribal Areas & Assam Excluded Areas Sub-Committee | **Gopinath Bardoloi** | Tribal / excluded areas of Assam–NE |
+| Excluded & Partially Excluded Areas Sub-Committee | **A.V. Thakkar** | Scheduled / backward tribal tracts |
+| North-West Frontier Tribal Areas Sub-Committee | (as constituted) | NW frontier tribal belt |
+
+- The **Minorities Sub-Committee** examined safeguards for **Muslims, Sikhs, Christians, Parsis, Anglo-Indians** and other religious and linguistic groups.
+- It recommended **joint electorates** with safeguards — rejecting the colonial **separate electorates** model that Patel later called British “mischief.”
+- Its work shaped **cultural and educational rights** (later **Articles 29–30**) and broader minority protections in Part III debates.
+- **Tribal** and **excluded-areas** sub-committees fed the later **Fifth and Sixth Schedules** logic for administration of Scheduled Areas and tribal belts.
+- The Objectives Resolution itself promised safeguards for **minorities and backward classes** — the Advisory Committee translated that pledge into constitutional articles.
+
+**Inline PYQ — UPPCS Prelims 2021, Q1**
+
+"Can you show me one free country where there are separate electorates? ... The British element is gone, but they have left mischief behind."
+
+Who among the following said the above mentioned statement in the Constituent Assembly debates?
+
+A. Somnath Lahiri  
+B. Jawaharlal Nehru  
+C. Sardar Vallabh Bhai Patel  
+D. N. G. Ranga
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Sardar Vallabhbhai Patel.
+</details>
+
+### Important committees
+
+| Committee | Chairman |
+|-----------|----------|
+| Drafting Committee (**29 Aug 1947**; **7** members) | **B.R. Ambedkar** |
+| Union Constitution Committee | **Jawaharlal Nehru** |
+| Union Powers Committee | **Jawaharlal Nehru** |
+| States Committee | **Jawaharlal Nehru** |
+| Provincial Constitution Committee | **Sardar Patel** |
+| Advisory Committee on Fundamental Rights, Minorities etc. | **Sardar Patel** |
+| Rules of Procedure Committee | **Rajendra Prasad** |
+| Steering Committee | **Rajendra Prasad** |
+| Fundamental Rights Sub-Committee | **J.B. Kripalani** |
+| **Minorities Sub-Committee** | **H.C. Mukherjee** |
+| North-East Frontier Tribal Areas & Assam Excluded Areas Sub-Committee | **Gopinath Bardoloi** |
+| Excluded & Partially Excluded Areas Sub-Committee | **A.V. Thakkar** |
+| Constitutional Adviser | **B.N. Rau** |
 
 **Inline PYQ — UPPCS Prelims 2020, Q134**
 
@@ -632,21 +731,6 @@ D. 25 Jan. 1950
 
 **Ans: C** — 24 Jan. 1950.
 </details>
-
-### Important committees
-
-| Committee | Chairman |
-|-----------|----------|
-| Drafting Committee (**29 Aug 1947**; **7** members) | **B.R. Ambedkar** |
-| Union Constitution Committee | **Jawaharlal Nehru** |
-| Union Powers Committee | **Jawaharlal Nehru** |
-| States Committee | **Jawaharlal Nehru** |
-| Provincial Constitution Committee | **Sardar Patel** |
-| Advisory Committee on Fundamental Rights, Minorities etc. | **Sardar Patel** |
-| Rules of Procedure Committee | **Rajendra Prasad** |
-| Steering Committee | **Rajendra Prasad** |
-| Fundamental Rights Sub-Committee | **J.B. Kripalani** |
-| Constitutional Adviser | **B.N. Rau** |
 
 **Drafting Committee members (7):** B.R. Ambedkar (Chair), N. Gopalaswami Ayyangar, Alladi Krishnaswamy Ayyar, K.M. Munshi, Syed Mohammad Saadullah, N. Madhava Rau (replaced B.L. Mitter), T.T. Krishnamachari (replaced D.P. Khaitan).
 
@@ -701,25 +785,41 @@ D. IV, I, II, III
 
 ### Adoption & Enforcement
 
-- Constitution **adopted / enacted: 26 November 1949** (some provisions like citizenship, provisional Parliament etc. came into force immediately).
+- Constitution **adopted / enacted: 26 November 1949** — Preamble date line; some provisions (citizenship, Elections, provisional Parliament, temporary/transitional articles, etc.) came into force **immediately**.
 - Constitution **came into force fully: 26 January 1950** — Republic Day (chosen to honour Purna Swaraj pledge of **26 January 1930**).
+- On commencement India became a **Sovereign Democratic Republic** (Socialist / Secular added later by **42nd Amendment, 1976** — see Topic 2 Preamble).
 - India became a Republic; Dr. Rajendra Prasad took oath as first President.
 
 ---
 
 ## N.10 Sources / Borrowed Features
 
-| Feature | Source |
-|---------|--------|
-| Parliamentary government, Rule of Law, Cabinet system, single citizenship, bicameralism, prerogative writs (idea) | **UK** |
-| Fundamental Rights, Judicial Review, Impeachment of President, independence of judiciary, removal of SC/HC judges | **USA** |
-| Directive Principles of State Policy, nomination of Rajya Sabha members, method of Presidential election | **Ireland** |
-| Federation with a strong Centre; residuary powers with Centre; appointment of state governors (idea) | **Canada** |
-| Concurrent List; freedom of trade & commerce; joint sitting of Parliament | **Australia** |
-| Suspension of Fundamental Rights during Emergency | **Germany (Weimar)** |
-| Procedure established by law (original Article 21 wording) | **Japan** |
-| Federal scheme, lists, emergency provisions lineage, PSC, Federal Court → SC path | **GOI Act 1935** |
-| Republic / ideals influence often linked | **France** (liberty-equality-fraternity spirit in Preamble discussions) |
+**Identity:** “Bag of borrowings” adapted to Indian conditions — not a blind copy of any one foreign constitution
+
+### Master source table
+
+| Feature / provision | Source country | Exam lock |
+|---------------------|----------------|-----------|
+| Parliamentary government, Cabinet system, Rule of Law, legislative procedure, **single citizenship**, bicameralism, writs (idea) | **UK** | Parliamentary ≠ USA |
+| **Fundamental Rights**, judicial review, independence of judiciary, impeachment of President, removal of SC/HC judges, office of **Vice-President** | **USA** | FR ≠ UK |
+| **Directive Principles of State Policy**, method of Presidential election, nomination of Rajya Sabha members | **Ireland** | DPSP ≠ USA |
+| Federation with a **strong Centre**; **residuary powers with Centre**; Centre-appointed **Governor** (idea) | **Canada** | Residuary ≠ Australia |
+| **Concurrent List**; freedom of trade & commerce; **joint sitting** of Parliament | **Australia** | Concurrent ≠ Canada |
+| Suspension of Fundamental Rights during **Emergency** | **Germany (Weimar)** | — |
+| **Procedure established by law** (original Art. 21 wording) | **Japan** | Not US “due process” |
+| Republic; liberty–equality–fraternity spirit in Preamble discussions | **France** | Ideals, not structure |
+| Federal scheme, three lists, emergency lineage, PSC, Federal Court → SC path, much administrative skeleton | **GOI Act 1935** | Largest structural borrow |
+| **Fundamental Duties** (Part IVA) | **USSR** model (added later by **42nd**, 1976) | Not in original 1950 text |
+
+### Indian originality (not borrowed wholesale)
+
+- **Universal adult franchise** from the first general election (**Article 326**) — broader than the 1935 Act franchise used for CA elections.
+- **Quasi-federal** strong-Centre model with **single citizenship** and an **integrated judiciary**.
+- **Fundamental Rights + DPSP + Fundamental Duties** triad — unique blend over time.
+- **Basic Structure** doctrine — purely Indian judicial innovation (**Kesavananda**, 1973).
+- Asymmetric federalism through **Fifth / Sixth Schedules**, **Article 371** series, and later special provisions.
+
+> **Exam note:** Highest-yield trap = **Residual powers → Canada**; **Concurrent List → Australia**. Do not swap.
 
 **Inline PYQ — UPPCS Prelims 2021, Q54**
 
@@ -750,14 +850,16 @@ D. Emergency powers - Germany
 6. Bicameral provinces (6): Bengal, Bombay, Madras, Bihar, Assam, United Provinces.
 7. Communal Award **1932** (not 1933); Poona Pact = reserved seats + joint electorate.
 8. Interim announced **24 Aug 1946**; CA first meet **9 Dec 1946**; Drafting Committee **29 Aug 1947**.
-9. Adopt **26 Nov 1949**; enforce **26 Jan 1950**; Flag **22 Jul 1947**; last CA meet **24 Jan 1950**.
-10. Residuary source = **Canada**; Concurrent = **Australia**; Rau = Adviser; Ambedkar = Drafting Chair.
+9. CA **389 (292+93+4) → 299**; **~15 women**; **indirect** election; Gandhi **not** a member; **284** signed.
+10. Minorities Sub-Committee = **H.C. Mukherjee**; Advisory Committee = **Patel**; joint electorates recommended.
+11. Adopt **26 Nov 1949**; enforce **26 Jan 1950**; Flag **22 Jul 1947**; last CA meet **24 Jan 1950**.
+12. Residuary source = **Canada**; Concurrent = **Australia**; FR = **USA**; DPSP = **Ireland**; Rau = Adviser; Ambedkar = Drafting Chair.
 
 ---
 
 ## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden.** **45 questions.** Full stems (not cryptic stubs). Mix asked PYQ patterns with standard coaching angles.
+> **Answers hidden.** **48 questions.** Full stems (not cryptic stubs). Mix asked PYQ patterns with standard coaching angles.
 
 **Q1.** With reference to the Regulating Act of 1773, consider the following statements:
 
@@ -1433,6 +1535,51 @@ D. 1853 — Open competition for ICS
 **Ans: C** — Portfolio system’s legal recognition is **Indian Councils Act, 1861**.
 </details>
 
+**Q46.** With reference to the Constituent Assembly of India, consider the following statements:
+
+1. Its members were elected by universal adult franchise.  
+2. Mahatma Gandhi was not a member of the Assembly.  
+3. The original strength was 389, which included seats for princely states.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Election was **indirect** (not UAF); Gandhi was **not** a member; strength was **389**.
+</details>
+
+**Q47.** Who among the following chaired the Minorities Sub-Committee of the Constituent Assembly?
+
+A. Sardar Vallabhbhai Patel  
+B. H. C. Mukherjee  
+C. J. B. Kripalani  
+D. Gopinath Bardoloi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — **H. C. Mukherjee** (Advisory Committee itself = Patel).
+</details>
+
+**Q48.** Approximately how many women were members of the original Constituent Assembly of India?
+
+A. 5  
+B. 10  
+C. 15  
+D. 25
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — About **15** women members.
+</details>
+
 ---
 
 ## Complete PYQ Bank (Topic 1)
@@ -1809,3 +1956,7 @@ D. 25 Jan. 1950
 20. First Viceroy = **Canning**; first Indian GG = **Rajagopalachari**
 21. 15 Aug 1947 ≠ Republic Day
 22. CA idea first floated by **M.N. Roy (1934)**
+23. CA strength = **292 + 93 + 4 = 389**; after Partition **~299**; **~15 women**
+24. Gandhi was **not** a CA member; election was **indirect PR-STV**, not UAF
+25. Minorities Sub-Committee chair = **H.C. Mukherjee** (Advisory Committee = Patel)
+26. **284** signed on **26 Nov 1949**; FR = **USA**; DPSP = **Ireland**; GOI **1935** = structural skeleton
