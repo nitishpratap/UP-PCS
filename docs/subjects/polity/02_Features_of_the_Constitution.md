@@ -5,7 +5,11 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-**Salient features:** Lengthiest written | Rigidity + Flexibility | Quasi-federal | Parliamentary system | FR + DPSP + Duties | Secular | Single citizenship | UAF | Independent + Integrated judiciary | Emergency | Independent bodies | 3-tier (1992) | Basic Structure | Schedules glance | **Sources / borrowed features**
+**Salient features:** Type of government | Lengthiest written | Rigidity + Flexibility | Quasi-federal | Parliamentary system (features) | FR + DPSP + Duties | Secular | Single citizenship | UAF | Independent + Integrated judiciary | Emergency | Independent bodies | 3-tier (1992) | Basic Structure | Schedules glance | **Sources / borrowed features**
+
+**Type of government:** Parliamentary · Democratic Republic · Quasi-federal Union | Not Presidential | Ambedkar federal-form/unitary-spirit lock
+
+**Federalism scholars:** Wheare (quasi-federal) | Austin (cooperative) | Morris-Jones (bargaining) | Jennings (centralising tendency)
 
 **Preamble:** Full text | Keywords | Justice–Liberty–Equality–Fraternity counts | Original vs 42nd | Part of Constitution | Not enforceable | Status on 26 Jan 1950 | Palkhivala identity card
 
@@ -19,7 +23,7 @@
 
 > **Sources baked in:** Laxmikanth (Salient Features / Preamble / Basic Structure), NCERT Class 11 *Indian Constitution at Work*, Drishti To-the-Point, UPPCS Prelims PYQs 2018–2025  
 > **Exam weight:** ★★★ — Preamble counts/words, quasi-federal scholars, Basic Structure cases, Parliamentary A/R, federalism match lists  
-> **Last verified:** August 2026 — coaching gap-pass (full Preamble text; original vs 42nd; Schedules glance; Secular/Emergency/triad feature cards; sources table)  
+> **Last verified:** August 2026 — coaching gap-pass (type of government; parliamentary features; scholar descriptions of federation)  
 > **Current Affairs:** GST Council / NITI Aayog as cooperative–competitive federalism examples
 
 ---
@@ -30,6 +34,11 @@
 FEATURES: Lengthiest | Rigidity+Flexibility (Art.368 types) | Quasi-federal | Parliamentary
            FR+DPSP+Duties | Secular | Single citizenship | UAF (18 via 61st) | Integrated+Independent judiciary
            Emergency | Independent bodies | 3-tier (1992) | Basic Structure limit
+
+TYPE OF GOVT: Parliamentary + Democratic Republic + Quasi-federal Union
+  NOT Presidential | NOT pure federation | Ambedkar: federal form, unitary spirit
+
+PARLIAMENTARY: Pres nominal · PM real · CoM → Lok Sabha · collective resp · fusion · dissolution
 
 AMENDMENT TYPES:
   Simple majority (Arts 2–4, 169…) | Special majority (368) | Special + half States (federal)
@@ -75,6 +84,7 @@ SOURCES: UK parl+writs · USA FR+JR · Ireland DPSP · Canada residuary · Austr
 | Residual vs Concurrent source | **Canada** vs **Australia** | Swap the pair | कनाडा / ऑस्ट्रेलिया |
 | FR vs DPSP source | **USA** vs **Ireland** | Swap or mix with UK | अमेरिका / आयरलैंड |
 | GOI 1935 vs full copy | **Structural skeleton** only | “Pure carbon copy” | 1935 = ढांचा |
+| Type of govt vs polity | **Parliamentary** form vs **quasi-federal** structure | Call India “Presidential” because of President | संसदीय ≠ राष्ट्रपति |
 | Original vs 42nd Preamble | **1950 = SDR**; Socialist/Secular later | Call 1950 already Socialist Secular | 1950 ≠ समाजवादी |
 | Palkhivala tag | Preamble = **identity card** | Mix with Austin / Wheare | पहचान पत्र |
 
@@ -124,6 +134,30 @@ SOURCES: UK parl+writs · USA FR+JR · Ireland DPSP · Canada residuary · Austr
 - Called a **borrowed** / “bag of borrowings” Constitution — framers adapted features to Indian conditions.
 - Criticised as a **carbon copy of GOI Act 1935** — structure borrowed, but FR, adult franchise, republic and Basic Structure politics are not a mere copy.
 - Called **elephantine** / lawyer’s paradise — length and legal language exist for diversity and justiciability.
+
+---
+
+## N.1A Type of government in India
+
+**Identity:** Parliamentary · Democratic · Republic · Quasi-federal Union — **not** Presidential and **not** a pure classical federation
+
+### What India’s type of government means (exam frame)
+
+| Dimension | India’s lock | What it is **not** |
+|-----------|--------------|---------------------|
+| **Form of government** | **Parliamentary** (Cabinet / Westminster system) | **Presidential** (USA model) |
+| **Head of State** | **Republic** — elected President | Hereditary monarchy (UK crown) |
+| **Source of authority** | **Democratic** — universal adult franchise | Hereditary / limited franchise |
+| **Structure of polity** | **Quasi-federal** / **federal with unitary bias** | Pure federation (USA) or pure unitary State |
+| **Preamble nature of State** | **Sovereign Socialist Secular Democratic Republic** | “Federal Republic” (word **Federal** is **not** in Preamble) |
+
+- India borrows the **parliamentary** executive from the **UK**, but is a **Republic** with a written Constitution — so “Westminster model **adapted** to Indian conditions.”
+- India has **dual polity** (Union + States) and division of powers, but a **strong Centre** — hence coaching shorthand **quasi-federal**.
+- **B.R. Ambedkar** (Constituent Assembly): the Constitution is **“federal in form but unitary in spirit.”**
+- **Ambedkar’s flexibility lock:** in **normal times** it is designed to work **federally**; in **Emergency / war** it can work **like a unitary system** — unlike a rigid federation such as the USA, which cannot switch form.
+- **Ambedkar’s origin lock:** Indian federation is **not** the result of an **agreement among States** — States have **no right to secede**; Parliament can alter boundaries (**Art. 3**).
+
+> **Exam note:** “Type of government” usually means **Parliamentary**; “type of polity/State structure” means **quasi-federal Union**. Do not answer “Presidential” because India has a President.
 
 ---
 
@@ -202,14 +236,25 @@ Amendment of the Constitution is mainly under **Article 368**, but not all const
 - Parliament can legislate on State List in certain cases (Arts. 249, 250, 252, 253).
 - No right of States to **secede**.
 
-### Quasi-federal — scholar labels (match list)
+### Political scientists — labels and what they mean
+
+| Scholar | Label for Indian federalism | Description (coaching lock) |
+|---------|----------------------------|-----------------------------|
+| **K.C. Wheare** | **Quasi-federal** / quasi-federation | India is federal in **form** but the **strong Centre** makes it **not** a true federation like the USA. |
+| **Granville Austin** | **Cooperative federalism** | Centre and States must **cooperate as partners** in nation-building; Constitution creates **cooperative, not confrontational**, federalism (*The Indian Constitution: Cornerstone of a Nation*). |
+| **Morris-Jones** | **Bargaining federalism** | Centre–State relations are worked out through **political bargaining and negotiation**, not only by rigid legal division of powers. |
+| **Ivor Jennings** | **Federalism with centralising tendency** | India has a **federal structure**, but power and authority show a **centralising / unitary bias** at the Union level. |
+
+### Match-list quick lock (2024 PYQ pattern)
 
 | Label | Scholar |
 |-------|---------|
-| Quasi-federal / quasi-federation | **K.C. Wheare** |
-| Cooperative federalism | **Granville Austin** |
-| Bargaining federalism | **Morris-Jones** |
-| Federalism with centralising tendency | **Ivor Jennings** |
+| Cooperative Federalism | **Granville Austin** |
+| Bargaining Federalism | **Morris-Jones** |
+| Quasi Federalism | **K.C. Wheare** |
+| Federalism with Centralising Tendency | **Ivor Jennings** |
+
+**Trap:** **Wheare** = quasi-federal (unitary bias). **Austin** = cooperative. Do **not** swap them.
 
 **Inline PYQ — UPPCS Prelims 2019, Q102**
 
@@ -311,24 +356,27 @@ D. 3 2 4 1
 
 ## N.5 Parliamentary system
 
-**Identity:** Cabinet / Westminster model — not USA Presidential system
+**Identity:** Cabinet / Westminster model — **Parliamentary form of government** | **Not** USA Presidential system | First developed in **UK**
 
-- **Nominal executive:** President; **real executive:** Council of Ministers headed by the Prime Minister (**Arts. 53, 74, 75**).
-- Council of Ministers is **collectively responsible** to the **Lok Sabha** (Art. 75(3)).
-- Ministers are normally members of Parliament (Art. 75(5) — must become member within 6 months).
-- Lower House can be dissolved; PM can advise dissolution.
-- President is generally bound by aid and advice of CoM (Art. 74) — clarified after 42nd/44th amendments.
+### Core idea
 
-### Features (raata list)
+- **Nominal executive:** President (**Arts. 53, 74**).
+- **Real executive:** Council of Ministers headed by the **Prime Minister** (**Arts. 74, 75**).
+- The executive is **responsible to the legislature** — especially the **Lok Sabha** (**Art. 75(3)** collective responsibility).
+- This **responsibility of executive to legislature** is the defining test of a parliamentary system (UPPCS 2025 A/R lock).
 
-1. Majority party (or coalition) rule  
-2. Collective responsibility  
-3. Political homogeneity (normally same party/coalition)  
-4. Double membership (executive drawn from legislature)  
-5. Leadership of the Prime Minister  
-6. Dissolution of the Lower House  
-7. Secrecy of Cabinet proceedings (convention)  
-8. Official Opposition  
+### Features of parliamentary government in India (teaching locks)
+
+- **Majority / coalition rule:** The party or coalition with a **majority in the Lok Sabha** forms the government; no separate presidential election for executive power.
+- **Dual executive:** **President** = ceremonial / constitutional head; **Prime Minister** = real head of government — unlike the USA where one person is both head of state and head of government.
+- **Collective responsibility:** The **Council of Ministers** stands and falls **together**; a no-confidence motion against the government in the Lok Sabha can bring down the entire Cabinet.
+- **Individual responsibility:** Each minister holds office during the **pleasure of the President**, but convention follows the PM; a minister may resign for a portfolio failure.
+- **Political homogeneity:** Ministers normally belong to the **same party or coalition** as the PM — unity of policy and discipline.
+- **Double membership:** Ministers are **members of Parliament** (**Art. 75(5)**) — executive drawn from legislature; fusion, not strict separation.
+- **Leadership of the Prime Minister:** PM is the **keystone** of the Cabinet — appoints ministers, allocates portfolios, coordinates policy, and represents the government.
+- **Dissolution of the Lower House:** PM can advise the President to **dissolve the Lok Sabha** and call fresh elections — flexibility absent in a fixed-term presidential executive.
+- **Secrecy of Cabinet:** Cabinet proceedings are confidential by **convention** — collective deliberation before public policy is announced.
+- **Official Opposition:** The largest party/coalition **not** in government is recognised as Opposition — provides alternative government and scrutiny (convention + statutory recognition in some contexts).
 
 ### Merits / demerits (exam one-liners)
 
@@ -842,23 +890,26 @@ D. Emergency powers - Germany
 
 ## Must-score locks
 
-1. Lengthiest written Constitution; reasons include single Constitution for Centre and States + diversity + GOI Act 1935 base.
-2. Blend of rigidity and flexibility — Arts. 2–4 path ≠ Art. 368 for every change.
-3. Quasi-federal = **K.C. Wheare**; Cooperative = **Austin**; Bargaining = **Morris-Jones**; Centralising = **Jennings**.
-4. Parliamentary = executive responsible to legislature; first introduced in **UK**.
-5. Preamble counts **3, 5, 2, 1**; **Federal** not in Preamble; 42nd added **Socialist + Secular** (+ integrity); Palkhivala = **identity card**.
-6. On **26 Jan 1950** = **Sovereign Democratic Republic** only; full present text = Sovereign Socialist Secular Democratic Republic.
-7. Preamble is **part** of Constitution but **not enforceable**.
-8. Basic Structure = **Kesavananda 1973**; Minerva Mills 1980 restored limits.
-9. Single citizenship; voting age 18 by **61st**; third tier **1992**.
-10. Residuary with **Centre** (Canada); **Concurrent List** = Australia; FR = USA; DPSP = Ireland.
-11. GOI Act **1935** = structural borrow; UAF + Basic Structure = Indian originality.
+1. **Type of government** = **Parliamentary** + **Democratic Republic**; polity = **quasi-federal Union** — **not** Presidential.
+2. Ambedkar: **federal in form, unitary in spirit**; federation **not** born from State agreement; no secession.
+3. Parliamentary test = executive **responsible to legislature** (Lok Sabha); dual executive = President nominal, PM real.
+4. Lengthiest written Constitution; reasons include single Constitution for Centre and States + diversity + GOI Act 1935 base.
+5. Blend of rigidity and flexibility — Arts. 2–4 path ≠ Art. 368 for every change.
+6. Quasi-federal = **K.C. Wheare**; Cooperative = **Austin**; Bargaining = **Morris-Jones**; Centralising = **Jennings**.
+7. Parliamentary system first introduced in **UK**; eight parliamentary features = majority rule, collective responsibility, homogeneity, double membership, PM leadership, dissolution, Cabinet secrecy, Official Opposition.
+8. Preamble counts **3, 5, 2, 1**; **Federal** not in Preamble; 42nd added **Socialist + Secular** (+ integrity); Palkhivala = **identity card**.
+9. On **26 Jan 1950** = **Sovereign Democratic Republic** only; full present text = Sovereign Socialist Secular Democratic Republic.
+10. Preamble is **part** of Constitution but **not enforceable**.
+11. Basic Structure = **Kesavananda 1973**; Minerva Mills 1980 restored limits.
+12. Single citizenship; voting age 18 by **61st**; third tier **1992**.
+13. Residuary with **Centre** (Canada); **Concurrent List** = Australia; FR = USA; DPSP = Ireland.
+14. GOI Act **1935** = structural borrow; UAF + Basic Structure = Indian originality.
 
 ---
 
 ## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden.** **46 questions.** Full stems (not cryptic stubs). Mix asked PYQ patterns with standard coaching angles.
+> **Answers hidden.** **47 questions.** Full stems (not cryptic stubs). Mix asked PYQ patterns with standard coaching angles.
 
 **Q1.** With reference to the length of the Indian Constitution, which one of the following is NOT a valid reason for its size?
 
@@ -1527,6 +1578,19 @@ D. 1, 2 and 3
 <summary>Show answer</summary>
 
 **Ans: B** — Socialist and Secular were added by the **42nd Amendment, 1976**.
+</details>
+
+**Q47.** Which of the following pairs is **not** correctly matched?
+
+A. Cooperative federalism — Granville Austin  
+B. Bargaining federalism — Morris-Jones  
+C. Quasi-federal State — K. C. Wheare  
+D. Federalism with centralising tendency — H. J. Laski
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — **Ivor Jennings** described Indian federalism as having a **centralising tendency**; Laski is not the standard match.
 </details>
 
 ---
