@@ -226,15 +226,37 @@ A. 1 and 2  B. Only 4  C. 3 and 4  D. Only 1
 
 **PYQ — UPPCS Prelims 2025, Q113**
 
-Match: A Seventh  B Eighth  C Ninth  D Tenth  
-1. Language  2. Defection  3. Union/State/Concurrent Lists  4. Validation of Acts
+Match List-I with List-II and select the correct answer using the code given below the lists:
 
-A. 3 1 2 4  B. 3 1 4 2  C. 2 3 4 4  D. 4 2 1 3
+**List-I (Schedule)**
+
+| Code | Schedule |
+|------|----------|
+| A | Seventh Schedule |
+| B | Eighth Schedule |
+| C | Ninth Schedule |
+| D | Tenth Schedule |
+
+**List-II (Subject)**
+
+| Code | Subject |
+|------|---------|
+| 1 | Languages |
+| 2 | Anti-defection |
+| 3 | Union, State and Concurrent Lists |
+| 4 | Validation of certain Acts and Regulations |
+
+> Note: Row order in the tables is **not** the answer.
+
+A. 3, 1, 2, 4  
+B. 3, 1, 4, 2  
+C. 2, 3, 4, 1  
+D. 4, 2, 1, 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Lists · Languages · 9th Schedule validation · Defection.
+**Ans: B — 3, 1, 4, 2** (Lists; Languages; Validation of Acts; Defection).
 
 </details>
 
@@ -253,15 +275,37 @@ A. Third — Oaths  B. Eighth — Languages  C. Ninth — Allocation of seats in
 
 **PYQ — UPPCS Prelims 2022, Q89**
 
-Match: A Third  B Fourth  C Seventh  D Eighth  
-1. RS seats  2. Oaths  3. Languages  4. Lists
+Match List-I with List-II and select the correct answer using the code given below the lists:
 
-A. A-4 B-3 C-1 D-2  B. A-3 B-4 C-2 D-1  C. A-2 B-1 C-4 D-3  D. A-1 B-2 C-3 D-4
+**List-I (Schedule)**
+
+| Code | Schedule |
+|------|----------|
+| A | Third Schedule |
+| B | Fourth Schedule |
+| C | Seventh Schedule |
+| D | Eighth Schedule |
+
+**List-II (Subject)**
+
+| Code | Subject |
+|------|---------|
+| 1 | Allocation of seats in Rajya Sabha |
+| 2 | Forms of Oaths or Affirmations |
+| 3 | Languages |
+| 4 | Union / State / Concurrent Lists |
+
+> Note: Row order in the tables is **not** the answer.
+
+A. A-4, B-3, C-1, D-2  
+B. A-3, B-4, C-2, D-1  
+C. A-2, B-1, C-4, D-3  
+D. A-1, B-2, C-3, D-4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C.**
+**Ans: C — A-2, B-1, C-4, D-3** (Oaths; RS seats; Lists; Languages).
 
 </details>
 
@@ -1448,14 +1492,37 @@ A. 1 and 2  B. Only 4  C. 3 and 4  D. Only 1
 </details>
 
 **Q2. UPPCS Prelims 2025, Q113**  
-Match: A Seventh  B Eighth  C Ninth  D Tenth  
-1. Language  2. Defection  3. Union, State and Concurrent Lists  4. Validation of certain Acts and Regulations  
-A. 3 1 2 4  B. 3 1 4 2  C. 2 3 4 4  D. 4 2 1 3
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**List-I (Schedule)**
+
+| Code | Schedule |
+|------|----------|
+| A | Seventh Schedule |
+| B | Eighth Schedule |
+| C | Ninth Schedule |
+| D | Tenth Schedule |
+
+**List-II (Subject)**
+
+| Code | Subject |
+|------|---------|
+| 1 | Languages |
+| 2 | Anti-defection |
+| 3 | Union, State and Concurrent Lists |
+| 4 | Validation of certain Acts and Regulations |
+
+> Note: Row order in the tables is **not** the answer.
+
+A. 3, 1, 2, 4  
+B. 3, 1, 4, 2  
+C. 2, 3, 4, 1  
+D. 4, 2, 1, 3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B — 3, 1, 4, 2** (Lists; Languages; Validation of Acts; Defection).
 
 </details>
 
@@ -1510,13 +1577,37 @@ A. 5 years  B. 10 years  C. 15 years  D. 20 years
 ### 2022
 
 **Q7. UPPCS Prelims 2022, Q89**  
-Match: Third / Fourth / Seventh / Eighth — Oaths, RS seats, Lists, Languages  
-A. A-4 B-3 C-1 D-2  B. A-3 B-4 C-2 D-1  C. A-2 B-1 C-4 D-3  D. A-1 B-2 C-3 D-4
+Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**List-I (Schedule)**
+
+| Code | Schedule |
+|------|----------|
+| A | Third Schedule |
+| B | Fourth Schedule |
+| C | Seventh Schedule |
+| D | Eighth Schedule |
+
+**List-II (Subject)**
+
+| Code | Subject |
+|------|---------|
+| 1 | Allocation of seats in Rajya Sabha |
+| 2 | Forms of Oaths or Affirmations |
+| 3 | Languages |
+| 4 | Union / State / Concurrent Lists |
+
+> Note: Row order in the tables is **not** the answer.
+
+A. A-4, B-3, C-1, D-2  
+B. A-3, B-4, C-2, D-1  
+C. A-2, B-1, C-4, D-3  
+D. A-1, B-2, C-3, D-4
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C — A-2, B-1, C-4, D-3** (Oaths; RS seats; Lists; Languages).
 
 </details>
 
