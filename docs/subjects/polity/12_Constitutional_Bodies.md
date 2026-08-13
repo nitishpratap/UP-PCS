@@ -140,7 +140,10 @@ Which of the following are the functions of the Election Commission of India?
 2. Conduct of elections of the Municipal Corporations and Municipalities.  
 3. Deciding on all doubts and disputes arising out of the above elections.
 
-A. 2 and 3  B. 1 and 2  C. 1 and 3  D. None of the above
+A. 2 and 3
+B. 1 and 2
+C. 1 and 3
+D. None of the above
 
 <details>
 <summary>Show answer</summary>
@@ -199,9 +202,15 @@ A. 2 and 3  B. 1 and 2  C. 1 and 3  D. None of the above
 
 The UPSC derives its functions from which of the following sources?
 
-1. The Constitution  2. Parliamentary Laws  3. Executive Rules and Orders  4. Conventions
+1. The Constitution
+2. Parliamentary Laws
+3. Executive Rules and Orders
+4. Conventions
 
-A. 1 and 2  B. 1 and 3  C. Only 1  D. 1, 2, 3 and 4
+A. 1 and 2
+B. 1 and 3
+C. Only 1
+D. 1, 2, 3 and 4
 
 <details>
 <summary>Show answer</summary>
@@ -234,7 +243,10 @@ A. 1 and 2  B. 1 and 3  C. Only 1  D. 1, 2, 3 and 4
 
 The functions of the State Public Service Commission of Uttar Pradesh can be extended by
 
-A. Prime Minister  B. Union Ministry of Personnel  C. The President  D. Uttar Pradesh State Legislature
+A. Prime Minister
+B. Union Ministry of Personnel
+C. The President
+D. Uttar Pradesh State Legislature
 
 <details>
 <summary>Show answer</summary>
@@ -295,7 +307,10 @@ A. Prime Minister  B. Union Ministry of Personnel  C. The President  D. Uttar Pr
 
 The audit report of the Comptroller and Auditor General of India is examined by—
 
-A. Public Accounts Committee  B. Public Undertakings Committee  C. Estimates Committee  D. None of the above
+A. Public Accounts Committee
+B. Public Undertakings Committee
+C. Estimates Committee
+D. None of the above
 
 <details>
 <summary>Show answer</summary>
@@ -333,7 +348,10 @@ With reference to the Attorney General of India, which of the following statemen
 1. A person is appointed as Attorney General who is qualified to be appointed as a Judge of the Supreme Court.  
 2. The Attorney General can be removed through the same process as the Judges of the Supreme Court.
 
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -346,7 +364,10 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 Which one of the following is NOT correctly matched?
 
-A. Fundamental Duties — Part IVA  B. The States — Part VI  C. Attorney General of India — Part XIII  D. Services under the Union and States — Part XIV
+A. Fundamental Duties — Part IVA
+B. The States — Part VI
+C. Attorney General of India — Part XIII
+D. Services under the Union and States — Part XIV
 
 <details>
 <summary>Show answer</summary>
@@ -391,7 +412,10 @@ Consider the following statements with reference to Special Officer for Linguist
 1. In the Constitution, there is a provision for the post of Special Officer for Linguistic Minorities for every State.  
 2. A new Article 350B was added for this by the 9th Constitution Amendment Act.
 
-A. Only 2  B. Neither 1 nor 2  C. Only 1  D. Both 1 and 2
+A. Only 2
+B. Neither 1 nor 2
+C. Only 1
+D. Both 1 and 2
 
 <details>
 <summary>Show answer</summary>
@@ -509,7 +533,10 @@ A. Only 2  B. Neither 1 nor 2  C. Only 1  D. Both 1 and 2
 
 The Constitution of India initially permitted the use of English language for all official purposes for a period of—
 
-A. 5 years  B. 10 years  C. 15 years  D. 20 years
+A. 5 years
+B. 10 years
+C. 15 years
+D. 20 years
 
 <details>
 <summary>Show answer</summary>
@@ -522,7 +549,10 @@ A. 5 years  B. 10 years  C. 15 years  D. 20 years
 
 Which among the following (Provision — Part) is **not** correctly matched?
 
-A. Union Territories — Part VIII  B. Scheduled and Tribal Areas — Part X  C. Tribunals — Part XI  D. Official Language — Part XVII
+A. Union Territories — Part VIII
+B. Scheduled and Tribal Areas — Part X
+C. Tribunals — Part XI
+D. Official Language — Part XVII
 
 <details>
 <summary>Show answer</summary>
@@ -681,30 +711,38 @@ D. National Commission for Backward Classes — Article 340
 
 ## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden.** **82 questions in UPPCS / RO-ARO 2024–25 format.** ≥60% multi-statement. Q1–Q52 = core bodies; Q53–Q82 = commissions / classification.
+> **Answers hidden.** Full stems (not cryptic stubs). **82 questions in UPPCS / RO-ARO 2024–25 format.** ≥60% multi-statement. Q1–Q52 = core bodies; Q53–Q82 = commissions / classification.
 
-**Q1.** Which of the following is/are functions of the Election Commission of India?  
+**Q1.** Which of the following is/are functions of the Election Commission of India?
 1. Elections to the office of President and Vice-President.  
 2. Elections of the Speaker of the Lok Sabha.  
 3. Elections to Municipal Corporations.  
-Select the correct answer:  
-A. Only 1  B. 1 and 2 only  C. 1 and 3 only  D. 1, 2 and 3
+Select the correct answer using the code given below:
+A. Only 1
+B. 1 and 2 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
+**Ans: A**
 
 </details>
 
-**Q2.** With reference to the Election Commission, which of the following statements is/are correct?  
+**Q2.** With reference to the Election Commission, which of the following statements is/are correct?
 1. The Chief Election Commissioner is removed in the manner of a Supreme Court judge.  
 2. An Election Commissioner can be removed only on the recommendation of the CEC.  
-Select the correct answer:  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+Select the correct answer using the code given below:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
+**Ans: C**
 
 </details>
 
@@ -714,93 +752,138 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Reason (R):** Superintendence of Panchayat elections is vested in the State Election Commission.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
-C. (A) is true but (R) is false  
-D. (A) is false but (R) is true
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
-
-</details>
-
-**Q4.** Match List-I with List-II:  
-List-I — List-II  
-A. Art. 324 — 1. UPSC / SPSC  
-B. Art. 315 — 2. Finance Commission  
-C. Art. 280 — 3. Election Commission  
-D. Art. 148 — 4. CAG  
-Code:  
-A. A-3, B-1, C-2, D-4  B. A-3, B-2, C-1, D-4  C. A-1, B-3, C-2, D-4  D. A-3, B-1, C-4, D-2
-
-<details><summary>Show answer</summary>
-
-**A**
+**Ans: A**
 
 </details>
 
-**Q5.** The UPSC derives its functions from how many of the following?  
-1. The Constitution  2. Parliamentary laws  3. Executive rules and orders  4. Conventions  
-A. Only one  B. Only two  C. Only three  D. All four
+**Q4.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
-<details><summary>Show answer</summary>
+**List-I**
 
-**D**
+| Code | Item |
+|------|------|
+| A | Art. 324 |
+| B | Art. 315 |
+| C | Art. 280 |
+| D | Art. 148 |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | UPSC / SPSC |
+| 2 | Finance Commission |
+| 3 | Election Commission |
+| 4 | CAG |
+
+> Note: Row order in the tables is **not** the answer.
+
+Select the correct answer using the code given below:
+A. A-3, B-1, C-2, D-4
+B. A-3, B-2, C-1, D-4
+C. A-1, B-3, C-2, D-4
+D. A-3, B-1, C-4, D-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
 
 </details>
 
-**Q6.** With reference to the UPSC, which of the following statements is/are correct?  
+**Q5.** The UPSC derives its functions from how many of the following?
+1. The Constitution
+2. Parliamentary laws
+3. Executive rules and orders
+4. Conventions
+A. Only one
+B. Only two
+C. Only three
+D. All four
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q6.** With reference to the UPSC, which of the following statements is/are correct?
 1. Its members are appointed by the President.  
 2. Its advice is binding on the Union government.  
 3. Its expenses are charged on the Consolidated Fund of India.  
-Select the correct answer:  
-A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
+Select the correct answer using the code given below:
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q7.** The functions of the UP State Public Service Commission can be extended by—  
-A. The President  B. The Governor  C. The Uttar Pradesh Legislature  D. UPSC
-
-<details><summary>Show answer</summary>
-
-**C**
+**Ans: B**
 
 </details>
 
-**Q8.** Which of the following is **not** correctly matched?  
+**Q7.** The functions of the UP State Public Service Commission can be extended by which of the following?
+A. The President
+B. The Governor
+C. The Uttar Pradesh Legislature
+D. UPSC
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q8.** Which of the following is **not** correctly matched?
 A. SPSC appointment — Governor  
 B. SPSC removal — Governor  
 C. UPSC appointment — President  
 D. JPSC appointment — President
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — removal of SPSC = **President**.
+**Ans: B** — removal of SPSC = **President**.
 
 </details>
 
-**Q9.** With reference to the Finance Commission, which of the following statements is/are correct?  
+**Q9.** With reference to the Finance Commission, which of the following statements is/are correct?
 1. It consists of a Chairman and four other members.  
 2. It submits its report to NITI Aayog.  
-Select the correct answer:  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+Select the correct answer using the code given below:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
+**Ans: A**
 
 </details>
 
-**Q10.** The audit report of the CAG of India is examined by the—  
-A. Estimates Committee  B. Public Accounts Committee  C. Business Advisory Committee  D. GST Council
+**Q10.** The audit report of the CAG of India is examined by the?
+A. Estimates Committee
+B. Public Accounts Committee
+C. Business Advisory Committee
+D. GST Council
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
 
 </details>
 
@@ -810,121 +893,165 @@ A. Estimates Committee  B. Public Accounts Committee  C. Business Advisory Commi
 
 **Reason (R):** In India, the CAG audits expenditure after it has been incurred rather than blocking it in advance.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
-C. (A) is true but (R) is false  
-D. (A) is false but (R) is true
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
+**Ans: A**
 
 </details>
 
-**Q12.** With reference to the Attorney General, which of the following statements is/are correct?  
+**Q12.** With reference to the Attorney General, which of the following statements is/are correct?
 1. He must be qualified to be a Supreme Court judge.  
 2. He is removed by the same process as a Supreme Court judge.  
 3. He can participate in Parliament but cannot vote.  
-Select the correct answer:  
-A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
+Select the correct answer using the code given below:
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q13.** The Advocate General of a State is provided in—  
-A. Article 76  B. Article 148  C. Article 165  D. Article 324
-
-<details><summary>Show answer</summary>
-
-**C**
+**Ans: B**
 
 </details>
 
-**Q14.** Which one of the following is **not** correctly matched?  
+**Q13.** The Advocate General of a State is provided in which of the following?
+A. Article 76
+B. Article 148
+C. Article 165
+D. Article 324
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q14.** Which one of the following is **not** correctly matched?
 A. Attorney General — Part V  
 B. GST Council — Article 279A  
 C. Special Officer for Linguistic Minorities — Article 350B  
 D. Attorney General — Part XIII
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
+**Ans: D**
 
 </details>
 
-**Q15.** With reference to Article 350B, consider the following statements:  
+**Q15.** With reference to Article 350B, consider the following statements:
 1. There is a Special Officer for Linguistic Minorities for every State.  
 2. Article 350B was inserted by the 7th Amendment.  
 Which of the statements given above is/are correct?  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
 
 </details>
 
-**Q16.** Arrange the following in **correct chronological order**:  
+**Q16.** Arrange the following in **correct chronological order**:
 1. 7th Amendment (350B)  
 2. First general election (Sukumar Sen as CEC)  
 3. ECI durable three-member body  
 4. CEC and Other ECs Act  
-Code:  
-A. 2 – 1 – 3 – 4  B. 1 – 2 – 3 – 4  C. 2 – 3 – 1 – 4  D. 1 – 2 – 4 – 3
+Select the correct answer using the code given below:
+A. 2 – 1 – 3 – 4
+B. 1 – 2 – 3 – 4
+C. 2 – 3 – 1 – 4
+D. 1 – 2 – 4 – 3
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — 1951–52 election, **1956** Amd, **1993** multi-member, **2023** Act. (7th Amd Dec 1956 is after the first general election.)
+**Ans: A** — 1951–52 election, **1956** Amd, **1993** multi-member, **2023** Act. (7th Amd Dec 1956 is after the first general election.)
 
 </details>
 
-**Q17.** The Selection Committee under the 2023 CEC Act consists of—  
+**Q17.** The Selection Committee under the 2023 CEC Act consists of which of the following?
 A. PM, LoP in LS, and the Chief Justice of India  
 B. PM, LoP in LS, and a Union Cabinet Minister  
 C. President, PM, and CJI  
 D. PM, Home Minister, and CEC
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — CJI was the **SC interim** formula, **not** the 2023 Act.
-
-</details>
-
-**Q18.** Which of the following offices is/are **not** eligible for further Union or State office after demitting?  
-A. Attorney General  B. CAG  C. Advocate General  D. GST Council Chair
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B** — CJI was the **SC interim** formula, **not** the 2023 Act.
 
 </details>
 
-**Q19.** Match List-I with List-II:  
-List-I — List-II  
-A. First CEC — 1. V.S. Ramadevi  
-B. First woman CEC — 2. K.C. Neogy  
-C. First FC Chair — 3. Sukumar Sen  
-D. 16th FC Chair — 4. Arvind Panagariya  
-Code:  
-A. A-3, B-1, C-2, D-4  B. A-3, B-2, C-1, D-4  C. A-1, B-3, C-2, D-4  D. A-3, B-1, C-4, D-2
+**Q18.** Which of the following offices is/are **not** eligible for further Union or State office after demitting?
+A. Attorney General
+B. CAG
+C. Advocate General
+D. GST Council Chair
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
+**Ans: B**
 
 </details>
 
-**Q20.** A Joint State Public Service Commission is created—  
+**Q19.** Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | First CEC |
+| B | First woman CEC |
+| C | First FC Chair |
+| D | 16th FC Chair |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | V.S. Ramadevi |
+| 2 | K.C. Neogy |
+| 3 | Sukumar Sen |
+| 4 | Arvind Panagariya |
+
+> Note: Row order in the tables is **not** the answer.
+
+Select the correct answer using the code given below:
+A. A-3, B-1, C-2, D-4
+B. A-3, B-2, C-1, D-4
+C. A-1, B-3, C-2, D-4
+D. A-3, B-1, C-4, D-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q20.** A Joint State Public Service Commission is created?
 A. By the President on his own  
 B. By a resolution of two or more State legislatures plus a Parliamentary law  
 C. By the UPSC  
 D. By the Inter-State Council
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — Art. **315(2)**.
+**Ans: B** — Art. **315(2)**.
 
 </details>
 
@@ -934,81 +1061,103 @@ D. By the Inter-State Council
 
 **Reason (R):** Article 76 mentions the Attorney General, not the Solicitor General.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
-C. (A) is true but (R) is false  
-D. (A) is false but (R) is true
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D** — A is false; R is true and explains why A is false.
+**Ans: D** — A is false; R is true and explains why A is false.
 
 </details>
 
-**Q22.** Which of the following statements about the GST Council is/are correct?  
+**Q22.** Which of the following statements about the GST Council is/are correct?
 1. It is a constitutional body under Article 279A.  
 2. The Prime Minister is its Chairperson.  
-Select the correct answer:  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+Select the correct answer using the code given below:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
-
-</details>
-
-**Q23.** The superintendence of elections to the Panchayats is vested in—  
-A. ECI  B. Governor  C. State Election Commission  D. District Magistrate
-
-<details><summary>Show answer</summary>
-
-**C**
+**Ans: A**
 
 </details>
 
-**Q24.** Which one of the following is correctly matched?  
+**Q23.** The superintendence of elections to the Panchayats is vested in which of the following?
+A. ECI
+B. Governor
+C. State Election Commission
+D. District Magistrate
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q24.** Which one of the following is correctly matched?
 A. Election Commission — Article 165  
 B. CAG — Article 148  
 C. Finance Commission — Article 263  
 D. NCSC — Article 76
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — 165 = AdvG; 263 = ISC; NCSC = **338**.
+**Ans: B** — 165 = AdvG; 263 = ISC; NCSC = **338**.
 
 </details>
 
-**Q25.** With reference to the CAG, consider the following statements:  
+**Q25.** With reference to the CAG, consider the following statements:
 1. He is appointed by the President.  
 2. He can be removed only on the recommendation of the CEC.  
 3. His reports on Union accounts are submitted to the President.  
 Which of the statements given above are correct?  
-A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — removal like **SC judge**, not via CEC.
+**Ans: B** — removal like **SC judge**, not via CEC.
 
 </details>
 
-**Q26.** The expenses of the UPSC are—  
+**Q26.** The expenses of the UPSC are?
 A. Voted annually like a ministry  
 B. Charged on the Consolidated Fund of India  
 C. Met by UPSC fees only  
 D. Shared with State PSCs
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — Art. **322**.
+**Ans: B** — Art. **322**.
 
 </details>
 
-**Q27.** Which of the following is/are constitutional bodies?  
-1. GST Council  2. NITI Aayog  3. Election Commission  4. Solicitor General  
-A. 1 and 3 only  B. 1, 2 and 3 only  C. 1 and 4 only  D. 1, 3 and 4
+**Q27.** Which of the following is/are constitutional bodies?
+1. GST Council
+2. NITI Aayog
+3. Election Commission
+4. Solicitor General
+A. 1 and 3 only
+B. 1, 2 and 3 only
+C. 1 and 4 only
+D. 1, 3 and 4
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
+**Ans: A**
 
 </details>
 
@@ -1018,116 +1167,160 @@ A. 1 and 3 only  B. 1, 2 and 3 only  C. 1 and 4 only  D. 1, 3 and 4
 
 **Reason (R):** The Constitution allows removal of an EC only on the CEC’s recommendation.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
-C. (A) is true but (R) is false  
-D. (A) is false but (R) is true
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D** — A is false (CEC has the SC-judge shield; EC depends on CEC). R is true.
+**Ans: D** — A is false (CEC has the SC-judge shield; EC depends on CEC). R is true.
 
 </details>
 
-**Q29.** Article 329 bars the courts from—  
+**Q29.** Article 329 bars the courts from which of the following?
 A. Hearing an election petition presented under the law  
 B. Questioning delimitation / allotment of seats, except via election petition as provided  
 C. Judicial review of all ECI notifications forever  
 D. The jurisdiction of the Supreme Court under Article 32 in every case
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q30.** The Advocate General holds office during the pleasure of the—  
-A. President  B. Governor  C. Chief Justice of the High Court  D. State legislature
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q31.** Which of the following pairs is **not** correctly matched?  
+**Q30.** The Advocate General holds office during the pleasure of the?
+A. President
+B. Governor
+C. Chief Justice of the High Court
+D. State legislature
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q31.** Which of the following pairs is **not** correctly matched?
 A. 350A — mother-tongue primary education  
 B. 350B — Special Officer for Linguistic Minorities  
 C. 350B inserted — 9th Amendment  
 D. 350B appointing authority — President
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** — **7th** Amendment.
+**Ans: C** — **7th** Amendment.
 
 </details>
 
-**Q32.** With reference to a Joint PSC, which of the following statements is/are correct?  
+**Q32.** With reference to a Joint PSC, which of the following statements is/are correct?
 1. It can be created for two or more States.  
 2. Its Chairman is appointed by the Governors of those States jointly.  
-Select the correct answer:  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+Select the correct answer using the code given below:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — Chairman = **President**.
+**Ans: A** — Chairman = **President**.
 
 </details>
 
-**Q33.** The primary duty of the Finance Commission is—  
+**Q33.** The primary duty of the Finance Commission is?
 A. To prepare the Union Budget  
 B. To recommend distribution of tax proceeds between Union and States  
 C. To implement SDGs  
 D. To conduct UPSC examinations
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — SDGs = **NITI**.
-
-</details>
-
-**Q34.** Which of the following salaries is **not** charged on the Consolidated Fund of India?  
-A. CAG  B. UPSC Chairman  C. Attorney General  D. Election Commissioners (as protected)
-
-<details><summary>Show answer</summary>
-
-**C**
+**Ans: B** — SDGs = **NITI**.
 
 </details>
 
-**Q35.** Match List-I with List-II:  
-List-I — List-II  
-A. PAC — 1. No CAG link  
-B. Estimates Committee — 2. Examines CAG (civil)  
-C. COPU — 3. CAG on PSUs  
-D. CAG — 4. Art. 148  
-Code:  
-A. A-2, B-1, C-3, D-4  B. A-1, B-2, C-3, D-4  C. A-2, B-3, C-1, D-4  D. A-2, B-1, C-4, D-3
+**Q34.** Which of the following salaries is **not** charged on the Consolidated Fund of India?
+A. CAG
+B. UPSC Chairman
+C. Attorney General
+D. Election Commissioners (as protected)
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
+**Ans: C**
 
 </details>
 
-**Q36.** Sukumar Sen is associated with—  
+**Q35.** Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | PAC |
+| B | Estimates Committee |
+| C | COPU |
+| D | CAG |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | No CAG link |
+| 2 | Examines CAG (civil) |
+| 3 | CAG on PSUs |
+| 4 | Art. 148 |
+
+> Note: Row order in the tables is **not** the answer.
+
+Select the correct answer using the code given below:
+A. A-2, B-1, C-3, D-4
+B. A-1, B-2, C-3, D-4
+C. A-2, B-3, C-1, D-4
+D. A-2, B-1, C-4, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q36.** Sukumar Sen is associated with which of the following?
 A. First CAG of independent India  
 B. First CEC of India  
 C. First Chairman of UPSC  
 D. First Attorney General
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
 
 </details>
 
-**Q37.** How many of the following hold office during the **pleasure** of the appointing executive?  
-1. Attorney General  2. Advocate General  3. CAG  4. CEC  
-A. Only one  B. Only two  C. Only three  D. All four
+**Q37.** How many of the following hold office during the **pleasure** of the appointing executive?
+1. Attorney General
+2. Advocate General
+3. CAG
+4. CEC
+A. Only one
+B. Only two
+C. Only three
+D. All four
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — AG and AdvG. CAG and CEC have **impeachment-like** removal.
+**Ans: B** — AG and AdvG. CAG and CEC have **impeachment-like** removal.
 
 </details>
 
@@ -1137,87 +1330,106 @@ A. Only one  B. Only two  C. Only three  D. All four
 
 **Reason (R):** It was created by an executive resolution in 2015, replacing the Planning Commission.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
-C. (A) is true but (R) is false  
-D. (A) is false but (R) is true
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
+**Ans: A**
 
 </details>
 
-**Q39.** Regional Commissioners in the Election Commission, if appointed, can be removed—  
+**Q39.** Regional Commissioners in the Election Commission, if appointed, can be removed?
 A. By the President at pleasure without anyone’s recommendation  
 B. Only on the recommendation of the CEC  
 C. Only by impeachment in Parliament  
 D. By the Chief Justice of India
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — 324(5) proviso.
+**Ans: B** — 324(5) proviso.
 
 </details>
 
-**Q40.** Which of the following statements is/are correct?  
+**Q40.** Which of the following statements is/are correct?
 1. The GST Council is chaired by the Union Finance Minister.  
 2. The Inter-State Council is chaired by the Prime Minister.  
-Select the correct answer:  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+Select the correct answer using the code given below:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
+**Ans: C**
 
 </details>
 
-**Q41.** With reference to elections to the office of President, which of the following statements is/are correct?  
+**Q41.** With reference to elections to the office of President, which of the following statements is/are correct?
 1. The Election Commission conducts the election.  
 2. Doubts and disputes are decided by the Election Commission.  
-Select the correct answer:  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+Select the correct answer using the code given below:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — disputes = **Art. 71**, Supreme Court.
+**Ans: A** — disputes = **Art. 71**, Supreme Court.
 
 </details>
 
-**Q42.** Arrange the following in **correct chronological order**:  
+**Q42.** Arrange the following in **correct chronological order**:
 1. ECI becomes a durable three-member body  
 2. Central Public Service Commission created  
 3. UPSC comes into being with the Constitution  
 4. CEC and Other ECs Act  
-Code:  
-A. 2 – 3 – 1 – 4  B. 3 – 2 – 1 – 4  C. 2 – 1 – 3 – 4  D. 2 – 3 – 4 – 1
+Select the correct answer using the code given below:
+A. 2 – 3 – 1 – 4
+B. 3 – 2 – 1 – 4
+C. 2 – 1 – 3 – 4
+D. 2 – 3 – 4 – 1
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — **1926**, **1950**, **1993**, **2023**.
+**Ans: A** — **1926**, **1950**, **1993**, **2023**.
 
 </details>
 
-**Q43.** Which of the following is **not** correctly matched?  
+**Q43.** Which of the following is **not** correctly matched?
 A. Art. 319 — UPSC Chairman barred from further Union/State office  
 B. Art. 325 — separate electoral rolls by religion permitted  
 C. Art. 150 — form of accounts on CAG’s advice  
 D. Art. 281 — FC report laid with an action-taken memorandum
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — **325** = **one** general roll; **no** special roll on religion/race/caste/sex.
+**Ans: B** — **325** = **one** general roll; **no** special roll on religion/race/caste/sex.
 
 </details>
 
-**Q44.** With reference to Article 316, which of the following statements is/are correct?  
+**Q44.** With reference to Article 316, which of the following statements is/are correct?
 1. As nearly as one-half of the members of a Public Service Commission shall be persons who have held office for at least ten years under the Union or a State.  
 2. A UPSC member’s tenure is six years or until 65, whichever is earlier.  
-Select the correct answer:  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+Select the correct answer using the code given below:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
+**Ans: C**
 
 </details>
 
@@ -1227,87 +1439,122 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Reason (R):** Article 319 imposes a stricter bar on the UPSC Chairman than on an SPSC Chairman.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
-C. (A) is true but (R) is false  
-D. (A) is false but (R) is true
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — SPSC Chair **may** become UPSC Chair / another SPSC Chair.
+**Ans: A** — SPSC Chair **may** become UPSC Chair / another SPSC Chair.
 
 </details>
 
-**Q46.** The form of accounts of the Union and of the States is prescribed by the President—  
+**Q46.** The form of accounts of the Union and of the States is prescribed by the President?
 A. On the advice of the Finance Commission  
 B. On the advice of the CAG  
 C. On the advice of NITI Aayog  
 D. Independently, with no constitutional adviser named
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — Art. **150**.
+**Ans: B** — Art. **150**.
 
 </details>
 
-**Q47.** Which of the following statements about the Attorney General is/are correct?  
+**Q47.** Which of the following statements about the Attorney General is/are correct?
 1. He is the first law officer of the Union.  
 2. M.C. Setalvad was the first Attorney General of India.  
 3. The Solicitor General is mentioned in Article 76.  
-Select the correct answer:  
-A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
+Select the correct answer using the code given below:
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
-
-</details>
-
-**Q48.** Match List-I with List-II:  
-List-I — List-II  
-A. 350 — 1. Special Officer for Linguistic Minorities  
-B. 350A — 2. Representation for redress in any Union/State language  
-C. 350B — 3. Mother-tongue primary education  
-D. 8th Schedule — 4. Recognised languages  
-Code:  
-A. A-2, B-3, C-1, D-4  B. A-2, B-1, C-3, D-4  C. A-3, B-2, C-1, D-4  D. A-2, B-3, C-4, D-1
-
-<details><summary>Show answer</summary>
-
-**A**
+**Ans: A**
 
 </details>
 
-**Q49.** How many of the following are **constitutional** offices?  
-1. Attorney General  2. Solicitor General  3. CAG  4. Commissioner for Linguistic Minorities (350B)  
-A. Only one  B. Only two  C. Only three  D. All four
+**Q48.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
-<details><summary>Show answer</summary>
+**List-I**
 
-**C** — SG is **not**.
+| Code | Item |
+|------|------|
+| A | 350 |
+| B | 350A |
+| C | 350B |
+| D | 8th Schedule |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | Special Officer for Linguistic Minorities |
+| 2 | Representation for redress in any Union/State language |
+| 3 | Mother-tongue primary education |
+| 4 | Recognised languages |
+
+> Note: Row order in the tables is **not** the answer.
+
+Select the correct answer using the code given below:
+A. A-2, B-3, C-1, D-4
+B. A-2, B-1, C-3, D-4
+C. A-3, B-2, C-1, D-4
+D. A-2, B-3, C-4, D-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
 
 </details>
 
-**Q50.** With reference to the Representation of the People Acts, which of the following is **not** correctly matched?  
+**Q49.** How many of the following are **constitutional** offices?
+1. Attorney General
+2. Solicitor General
+3. CAG
+4. Commissioner for Linguistic Minorities (350B)
+A. Only one
+B. Only two
+C. Only three
+D. All four
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — SG is **not**.
+
+</details>
+
+**Q50.** With reference to the Representation of the People Acts, which of the following is **not** correctly matched?
 A. RPA 1950 — electoral rolls / allocation of seats  
 B. RPA 1951 — conduct of elections / election petitions  
 C. Art. 103/192 — ECI opinion binding on President/Governor  
 D. Art. 71 — ECI decides Presidential election disputes
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D** — **Supreme Court**.
+**Ans: D** — **Supreme Court**.
 
 </details>
 
-**Q51.** The Accountant General of a State is—  
+**Q51.** The Accountant General of a State is?
 A. The Advocate General under Article 165  
 B. A field officer of the CAG  
 C. The Chairman of the State PSC  
 D. The State Election Commissioner
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
 
 </details>
 
@@ -1317,49 +1564,78 @@ D. The State Election Commissioner
 
 **Reason (R):** The 9th Amendment created the Special Officer for Linguistic Minorities.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
-C. (A) is true but (R) is false  
-D. (A) is false but (R) is true
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q53.** Match List-I with List-II:  
-List-I — List-II  
-A. NCSC — 1. Article 338A  
-B. NCST — 2. Article 338B  
-C. NCBC — 3. Article 338  
-D. Official Language Commission — 4. Article 344  
-Code:  
-A. A-3, B-1, C-2, D-4  B. A-3, B-2, C-1, D-4  C. A-1, B-3, C-2, D-4  D. A-3, B-1, C-4, D-2
-
-<details><summary>Show answer</summary>
-
-**A**
+**Ans: C**
 
 </details>
 
-**Q54.** The National Commission for SCs and STs was bifurcated by the—  
-A. 65th Amendment  B. 89th Amendment  C. 102nd Amendment  D. 105th Amendment
+**Q53.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
-<details><summary>Show answer</summary>
+**List-I**
 
-**B** — in force **2004**. 65th created the combined commission. 102nd = NCBC. 105th = State OBC lists.
+| Code | Item |
+|------|------|
+| A | NCSC |
+| B | NCST |
+| C | NCBC |
+| D | Official Language Commission |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | Article 338A |
+| 2 | Article 338B |
+| 3 | Article 338 |
+| 4 | Article 344 |
+
+> Note: Row order in the tables is **not** the answer.
+
+Select the correct answer using the code given below:
+A. A-3, B-1, C-2, D-4
+B. A-3, B-2, C-1, D-4
+C. A-1, B-3, C-2, D-4
+D. A-3, B-1, C-4, D-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
 
 </details>
 
-**Q55.** With reference to NCSC, which of the following statements is/are correct?  
+**Q54.** The National Commission for SCs and STs was bifurcated by the?
+A. 65th Amendment
+B. 89th Amendment
+C. 102nd Amendment
+D. 105th Amendment
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — in force **2004**. 65th created the combined commission. 102nd = NCBC. 105th = State OBC lists.
+
+</details>
+
+**Q55.** With reference to NCSC, which of the following statements is/are correct?
 1. It has the powers of a civil court while investigating.  
 2. The Union and the States shall consult it on major policy matters affecting SCs.  
-Select the correct answer:  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+Select the correct answer using the code given below:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** — 338(8) and 338(9).
+**Ans: C** — 338(8) and 338(9).
 
 </details>
 
@@ -1369,137 +1645,173 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Reason (R):** 340 authorises an ad hoc investigating commission; 338B is the standing NCBC.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
-C. (A) is true but (R) is false  
-D. (A) is false but (R) is true
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
+**Ans: A**
 
 </details>
 
-**Q57.** Which of the following is **not** correctly matched?  
+**Q57.** Which of the following is **not** correctly matched?
 A. Kaka Kalelkar Commission — 1953, Art. 340-type  
 B. Mandal Commission — 1979  
 C. NCBC given constitutional status — 102nd Amendment  
 D. NCBC given constitutional status — 89th Amendment
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
+**Ans: D**
 
 </details>
 
-**Q58.** The 105th Amendment (2021) is associated with—  
+**Q58.** The 105th Amendment (2021) is associated with which of the following?
 A. Splitting NCSC and NCST  
 B. Restoring States’ power to identify OBCs for their own purposes  
 C. Creating the GST Council  
 D. Abolishing Article 340
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q59.** The Constitution initially permitted English for Union official purposes for—  
-A. 5 years  B. 10 years  C. 15 years  D. 20 years
-
-<details><summary>Show answer</summary>
-
-**C** — 343(2).
+**Ans: B**
 
 </details>
 
-**Q60.** With reference to Article 344, which of the following statements is/are correct?  
+**Q59.** The Constitution initially permitted English for Union official purposes for which of the following?
+A. 5 years
+B. 10 years
+C. 15 years
+D. 20 years
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — 343(2).
+
+</details>
+
+**Q60.** With reference to Article 344, which of the following statements is/are correct?
 1. The President shall constitute an Official Language Commission at the expiration of five years and of ten years from the commencement of the Constitution.  
 2. The first such Commission was chaired by B.G. Kher.  
 3. The Union Home Minister is the Chairperson of that 344 Commission.  
-Select the correct answer:  
-A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
+Select the correct answer using the code given below:
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — HM chairs the **1976 Parliamentary Committee**, not the 344 Commission.
-
-</details>
-
-**Q61.** Official Language is dealt with in which Part of the Constitution?  
-A. Part XI  B. Part XIVA  C. Part XVII  D. Part XXII
-
-<details><summary>Show answer</summary>
-
-**C**
+**Ans: A** — HM chairs the **1976 Parliamentary Committee**, not the 344 Commission.
 
 </details>
 
-**Q62.** Which of the following is/are **constitutional** bodies?  
-1. NCSC  2. NHRC  3. GST Council  4. NITI Aayog  
-A. 1 and 3 only  B. 1, 2 and 3 only  C. 1 and 4 only  D. 1, 2, 3 and 4
+**Q61.** Official Language is dealt with in which Part of the Constitution?
+A. Part XI
+B. Part XIVA
+C. Part XVII
+D. Part XXII
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — NHRC statutory; NITI executive.
+**Ans: C**
 
 </details>
 
-**Q63.** Arrange the following in **correct chronological order**:  
+**Q62.** Which of the following is/are **constitutional** bodies?
+1. NCSC
+2. NHRC
+3. GST Council
+4. NITI Aayog
+A. 1 and 3 only
+B. 1, 2 and 3 only
+C. 1 and 4 only
+D. 1, 2, 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — NHRC statutory; NITI executive.
+
+</details>
+
+**Q63.** Arrange the following in **correct chronological order**:
 1. NCBC Act (statutory commission)  
 2. 89th Amendment (NCST)  
 3. 102nd Amendment (338B)  
 4. 65th Amendment (combined SC/ST Commission)  
-Code:  
-A. 4 – 1 – 2 – 3  B. 1 – 4 – 2 – 3  C. 4 – 2 – 1 – 3  D. 4 – 1 – 3 – 2
+Select the correct answer using the code given below:
+A. 4 – 1 – 2 – 3
+B. 1 – 4 – 2 – 3
+C. 4 – 2 – 1 – 3
+D. 4 – 1 – 3 – 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — 1990, 1993, 2003, 2018.
+**Ans: A** — 1990, 1993, 2003, 2018.
 
 </details>
 
-**Q64.** Which one of the following is correctly matched?  
+**Q64.** Which one of the following is correctly matched?
 A. Election Commission — Article 165  
 B. NCSC — Article 148  
 C. Finance Commission — Article 263  
 D. NCBC (investigating-commission article) — Article 340
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D** — 2024 lock; still remember **338B** for the standing body.
+**Ans: D** — 2024 lock; still remember **338B** for the standing body.
 
 </details>
 
-**Q65.** NITI Aayog is—  
+**Q65.** NITI Aayog is?
 A. A constitutional body under Article 280  
 B. A statutory body  
 C. An executive / extra-constitutional body  
 D. A Part XIVA tribunal
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
+**Ans: C**
 
 </details>
 
-**Q66.** Which of the following statements about NCST is/are correct?  
+**Q66.** Which of the following statements about NCST is/are correct?
 1. It is provided in Article 338A.  
 2. The Union shall consult it on major policy matters affecting Scheduled Tribes.  
-Select the correct answer:  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+Select the correct answer using the code given below:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
+**Ans: C**
 
 </details>
 
-**Q67.** The CVC is presently a—  
-A. Constitutional body  B. Statutory body  C. Executive body with no Act  D. Tribunal under 323B
+**Q67.** The CVC is presently a?
+A. Constitutional body
+B. Statutory body
+C. Executive body with no Act
+D. Tribunal under 323B
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — CVC Act **2003** (was executive earlier).
+**Ans: B** — CVC Act **2003** (was executive earlier).
 
 </details>
 
@@ -1509,156 +1821,228 @@ A. Constitutional body  B. Statutory body  C. Executive body with no Act  D. Tri
 
 **Reason (R):** The Official Languages Act, 1963 (as amended in 1967) provided for the continuance of English.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
-C. (A) is true but (R) is false  
-D. (A) is false but (R) is true
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
-
-</details>
-
-**Q69.** Reports of NCSC are submitted to the—  
-A. Parliament directly  B. Prime Minister  C. President  D. Ministry of Social Justice only
-
-<details><summary>Show answer</summary>
-
-**C** — then laid in Parliament with an action memo.
+**Ans: A**
 
 </details>
 
-**Q70.** Which of the following pairs is **not** correctly matched?  
+**Q69.** Reports of NCSC are submitted to the?
+A. Parliament directly
+B. Prime Minister
+C. President
+D. Ministry of Social Justice only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — then laid in Parliament with an action memo.
+
+</details>
+
+**Q70.** Which of the following pairs is **not** correctly matched?
 A. Tribunals — Part XIVA  
 B. Official Language — Part XVII  
 C. Tribunals — Part XI  
 D. Scheduled and Tribal Areas — Part X
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** — 2023 lock.
-
-</details>
-
-**Q71.** How many of the following are **statutory**?  
-1. Lokpal  2. NCW  3. NCSC  4. CIC  
-A. Only one  B. Only two  C. Only three  D. All four
-
-<details><summary>Show answer</summary>
-
-**C** — NCSC is **constitutional**.
+**Ans: C** — 2023 lock.
 
 </details>
 
-**Q72.** Article 351 directs the Union to—  
+**Q71.** How many of the following are **statutory**?
+1. Lokpal
+2. NCW
+3. NCSC
+4. CIC
+A. Only one
+B. Only two
+C. Only three
+D. All four
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — NCSC is **constitutional**.
+
+</details>
+
+**Q72.** Article 351 directs the Union to which of the following?
 A. Appoint the Official Language Commission every year  
 B. Promote the spread of the Hindi language  
 C. Replace all Eighth Schedule languages with Hindi  
 D. Abolish English in the Supreme Court immediately
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
 
 </details>
 
-**Q73.** A Joint State Public Service Commission and the Official Language Commission are alike in that both—  
+**Q73.** A Joint State Public Service Commission and the Official Language Commission are alike in that both?
 A. Are permanent multi-state bodies  
 B. Are provided for in the Constitution and are not created by a mere executive order  
 C. Are chaired by the Union Home Minister  
 D. Submit reports to NITI Aayog
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q74.** Match List-I with List-II:  
-List-I — List-II  
-A. Constitutional — 1. NITI Aayog  
-B. Statutory — 2. NCST  
-C. Executive — 3. NHRC  
-D. Was statutory, now constitutional — 4. NCBC  
-Code:  
-A. A-2, B-3, C-1, D-4  B. A-2, B-1, C-3, D-4  C. A-3, B-2, C-1, D-4  D. A-2, B-3, C-4, D-1
-
-<details><summary>Show answer</summary>
-
-**A**
+**Ans: B**
 
 </details>
 
-**Q75.** The Parliamentary Committee that examines the Official Language Commission’s report consists of—  
-A. 22 members like PAC  B. 30 members (20 LS + 10 RS)  C. 15 Rajya Sabha members only  D. All CMs
+**Q74.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
-<details><summary>Show answer</summary>
+**List-I**
 
-**B**
+| Code | Item |
+|------|------|
+| A | Constitutional |
+| B | Statutory |
+| C | Executive |
+| D | Was statutory, now constitutional |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | NITI Aayog |
+| 2 | NCST |
+| 3 | NHRC |
+| 4 | NCBC |
+
+> Note: Row order in the tables is **not** the answer.
+
+Select the correct answer using the code given below:
+A. A-2, B-3, C-1, D-4
+B. A-2, B-1, C-3, D-4
+C. A-3, B-2, C-1, D-4
+D. A-2, B-3, C-4, D-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
 
 </details>
 
-**Q76.** Which of the following statements is/are correct?  
+**Q75.** The Parliamentary Committee that examines the Official Language Commission’s report consists of which of the following?
+A. 22 members like PAC
+B. 30 members (20 LS + 10 RS)
+C. 15 Rajya Sabha members only
+D. All CMs
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q76.** Which of the following statements is/are correct?
 1. Article 348 provides for English in the Supreme Court and High Courts until Parliament otherwise provides.  
 2. Article 344’s Official Language Commission is the same as the Commissioner for Linguistic Minorities.  
-Select the correct answer:  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+Select the correct answer using the code given below:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — 350B is the linguistic-minorities officer.
-
-</details>
-
-**Q77.** Match List-I with List-II:  
-List-I — List-II  
-A. SC list — 1. Article 342A  
-B. ST list — 2. Article 341  
-C. Central SEBC list — 3. Article 342  
-D. Ad hoc Scheduled Areas commission — 4. Article 339(1)  
-Code:  
-A. A-2, B-3, C-1, D-4  B. A-2, B-1, C-3, D-4  C. A-3, B-2, C-1, D-4  D. A-2, B-3, C-4, D-1
-
-<details><summary>Show answer</summary>
-
-**A**
+**Ans: A** — 350B is the linguistic-minorities officer.
 
 </details>
 
-**Q78.** With reference to *Indra Sawhney* (1992), which of the following statements is/are correct?  
+**Q77.** Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | SC list |
+| B | ST list |
+| C | Central SEBC list |
+| D | Ad hoc Scheduled Areas commission |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | Article 342A |
+| 2 | Article 341 |
+| 3 | Article 342 |
+| 4 | Article 339(1) |
+
+> Note: Row order in the tables is **not** the answer.
+
+Select the correct answer using the code given below:
+A. A-2, B-3, C-1, D-4
+B. A-2, B-1, C-3, D-4
+C. A-3, B-2, C-1, D-4
+D. A-2, B-3, C-4, D-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q78.** With reference to *Indra Sawhney* (1992), which of the following statements is/are correct?
 1. It led Parliament to create a statutory National Commission for Backward Classes in 1993.  
 2. That 1993 body became a constitutional body by the 102nd Amendment.  
-Select the correct answer:  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+Select the correct answer using the code given below:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
+**Ans: C**
 
 </details>
 
-**Q79.** Which of the following is **not** correctly matched?  
+**Q79.** Which of the following is **not** correctly matched?
 A. NCST — Article 338A  
 B. Commission to report on Scheduled Areas and ST welfare — Article 339(1)  
 C. NCST — Article 339  
 D. Union directions on ST welfare schemes — Article 339(2)
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
+**Ans: C**
 
 </details>
 
-**Q80.** How many of the following are **statutory**?  
+**Q80.** How many of the following are **statutory**?
 1. National Commission for Women  
 2. National Commission for Minorities  
 3. National Commission for Scheduled Castes  
 4. National Commission for Protection of Child Rights  
-A. Only one  B. Only two  C. Only three  D. All four
+A. Only one
+B. Only two
+C. Only three
+D. All four
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** — NCSC is **constitutional**.
+**Ans: C** — NCSC is **constitutional**.
 
 </details>
 
@@ -1668,25 +2052,27 @@ A. Only one  B. Only two  C. Only three  D. All four
 
 **Reason (R):** Part XIVA enables tribunals; CAT itself is created by a 1985 Act.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
-C. (A) is true but (R) is false  
-D. (A) is false but (R) is true
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
+**Ans: A**
 
 </details>
 
-**Q82.** The official language of the Union, as per Article 343, is—  
+**Q82.** The official language of the Union, as per Article 343, is?
 A. Hindi in Devanagari script, with the international form of Indian numerals  
 B. Hindi in Roman script  
 C. English only  
 D. All Eighth Schedule languages equally
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
+**Ans: A**
 
 </details>
 
@@ -1698,9 +2084,18 @@ D. All Eighth Schedule languages equally
 
 **Q0. UPPCS Prelims 2025, Q64**  
 Match List-I (Finance Commission) with List-II (Chairman):  
-A. Eleventh  B. Twelfth  C. Thirteenth  D. Fourteenth  
-1. C. Rangarajan  2. Y.V. Reddy  3. A.M. Khusro  4. Vijay L. Kelkar  
-A. 3 1 4 2  B. 2 3 4 1  C. 3 2 1 4  D. 1 3 2 4
+A. Eleventh
+B. Twelfth
+C. Thirteenth
+D. Fourteenth
+1. C. Rangarajan
+2. Y.V. Reddy
+3. A.M. Khusro
+4. Vijay L. Kelkar
+A. A-3, B-1, C-4, D-2
+B. A-2, B-3, C-4, D-1
+C. A-3, B-2, C-1, D-4
+D. A-1, B-3, C-2, D-4
 
 <details>
 <summary>Show answer</summary>
@@ -1716,7 +2111,10 @@ Which of the following are the functions of the Election Commission of India?
 1. Conduct of elections for the posts of the Speaker and the Deputy Speaker of the Lok Sabha and Deputy Chairman of the Rajya Sabha.  
 2. Conduct of elections of the Municipal Corporations and Municipalities.  
 3. Deciding on all doubts and disputes arising out of the above elections.  
-A. 2 and 3  B. 1 and 2  C. 1 and 3  D. None of the above
+A. 2 and 3
+B. 1 and 2
+C. 1 and 3
+D. None of the above
 
 <details>
 <summary>Show answer</summary>
@@ -1727,9 +2125,18 @@ A. 2 and 3  B. 1 and 2  C. 1 and 3  D. None of the above
 
 **Q2. UPPCS Prelims 2024, Q102**  
 Match List-I with List-II:  
-A. Consolidated Fund of India  B. Finance Commission  C. Financial Emergency  D. CAG  
-1. Art. 266  2. Art. 360  3. Art. 280  4. Art. 148  
-A. 3 1 2 4  B. 4 1 3 2  C. 1 3 2 4  D. 1 2 3 4
+A. Consolidated Fund of India
+B. Finance Commission
+C. Financial Emergency
+D. CAG
+1. Art. 266
+2. Art. 360
+3. Art. 280
+4. Art. 148
+A. A-3, B-1, C-2, D-4
+B. A-4, B-1, C-3, D-2
+C. A-1, B-3, C-2, D-4
+D. A-1, B-2, C-3, D-4
 
 <details>
 <summary>Show answer</summary>
@@ -1740,8 +2147,14 @@ A. 3 1 2 4  B. 4 1 3 2  C. 1 3 2 4  D. 1 2 3 4
 
 **Q3. UPPCS Prelims 2024, Q124**  
 The UPSC derives its functions from which of the following sources?  
-1. The Constitution  2. Parliamentary Laws  3. Executive Rules and Orders  4. Conventions  
-A. 1 and 2  B. 1 and 3  C. Only 1  D. 1, 2, 3 and 4
+1. The Constitution
+2. Parliamentary Laws
+3. Executive Rules and Orders
+4. Conventions
+A. 1 and 2
+B. 1 and 3
+C. Only 1
+D. 1, 2, 3 and 4
 
 <details>
 <summary>Show answer</summary>
@@ -1768,7 +2181,10 @@ D. National Commission for Backward Classes — Article 340
 Consider the following statements with reference to Special Officer for Linguistic Minorities:  
 1. In the Constitution, there is a provision for the post of Special Officer for Linguistic Minorities for every State.  
 2. A new Article 350B was added for this by the 9th Constitution Amendment Act.  
-A. Only 2  B. Neither 1 nor 2  C. Only 1  D. Both 1 and 2
+A. Only 2
+B. Neither 1 nor 2
+C. Only 1
+D. Both 1 and 2
 
 <details>
 <summary>Show answer</summary>
@@ -1781,9 +2197,18 @@ A. Only 2  B. Neither 1 nor 2  C. Only 1  D. Both 1 and 2
 
 **Q6. UPPCS Prelims 2023, Q2**  
 Match List-I with List-II:  
-A. Art. 324  B. Art. 315  C. Art. 280  D. Art. 338  
-1. NCSC  2. Finance Commission  3. Public Service Commission  4. Election Commission  
-A. A-3, B-2, C-4, D-1  B. A-4, B-3, C-2, D-1  C. A-3, B-2, C-1, D-4  D. A-1, B-3, C-4, D-2
+A. Art. 324
+B. Art. 315
+C. Art. 280
+D. Art. 338
+1. NCSC
+2. Finance Commission
+3. Public Service Commission
+4. Election Commission
+A. A-3, B-2, C-4, D-1
+B. A-4, B-3, C-2, D-1
+C. A-3, B-2, C-1, D-4
+D. A-1, B-3, C-4, D-2
 
 <details>
 <summary>Show answer</summary>
@@ -1796,7 +2221,10 @@ A. A-3, B-2, C-4, D-1  B. A-4, B-3, C-2, D-1  C. A-3, B-2, C-1, D-4  D. A-1, B-3
 With reference to the Union Finance Commission, which of the following statement(s) is/are correct?  
 1. Finance Commission has a Chairman and six members.  
 2. It submits its report to the NITI Aayog.  
-A. Only 2  B. Both 1 and 2  C. Only 1  D. Neither 1 nor 2
+A. Only 2
+B. Both 1 and 2
+C. Only 1
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1809,7 +2237,10 @@ A. Only 2  B. Both 1 and 2  C. Only 1  D. Neither 1 nor 2
 With reference to the Attorney General of India, which of the following statement(s) is/are correct?  
 1. A person is appointed as Attorney General who is qualified to be appointed as a Judge of the Supreme Court.  
 2. The Attorney General can be removed through the same process as the Judges of the Supreme Court.  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
@@ -1822,7 +2253,10 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Q9. UPPCS Prelims 2022, Q55**  
 The audit report of the Comptroller and Auditor General of India is examined by—  
-A. Public Accounts Committee  B. Public Undertakings Committee  C. Estimates Committee  D. None of the above
+A. Public Accounts Committee
+B. Public Undertakings Committee
+C. Estimates Committee
+D. None of the above
 
 <details>
 <summary>Show answer</summary>
@@ -1844,7 +2278,8 @@ Locks as above.
 </details>
 
 **Q11. UPPCS Prelims 2021, Q91**  
-1. Sukumar Sen was the first CEC.  2. Rama Devi was the first woman CEC.
+1. Sukumar Sen was the first CEC.
+2. Rama Devi was the first woman CEC.
 
 <details>
 <summary>Show answer</summary>
@@ -1855,7 +2290,10 @@ Locks as above.
 
 **Q12. UPPCS Prelims 2021, Q133**  
 The functions of the State Public Service Commission of Uttar Pradesh can be extended by  
-A. Prime Minister  B. Union Ministry of Personnel  C. The President  D. Uttar Pradesh State Legislature
+A. Prime Minister
+B. Union Ministry of Personnel
+C. The President
+D. Uttar Pradesh State Legislature
 
 <details>
 <summary>Show answer</summary>
@@ -1868,7 +2306,10 @@ A. Prime Minister  B. Union Ministry of Personnel  C. The President  D. Uttar Pr
 
 **Q13. UPPCS Prelims 2020, Q100**  
 The superintendence, direction and control of all elections to the Panchayats are vested in  
-A. The Governor  B. The Election Commission of India  C. The District Panchayat Raj Officer  D. The State Election Commission
+A. The Governor
+B. The Election Commission of India
+C. The District Panchayat Raj Officer
+D. The State Election Commission
 
 <details>
 <summary>Show answer</summary>
@@ -1879,7 +2320,10 @@ A. The Governor  B. The Election Commission of India  C. The District Panchayat 
 
 **Q14. UPPCS Prelims 2020, Q110**  
 Which one of the following is NOT correctly matched?  
-A. Fundamental Duties — Part IVA  B. The States — Part VI  C. Attorney General of India — Part XIII  D. Services under the Union and States — Part XIV
+A. Fundamental Duties — Part IVA
+B. The States — Part VI
+C. Attorney General of India — Part XIII
+D. Services under the Union and States — Part XIV
 
 <details>
 <summary>Show answer</summary>
@@ -1898,7 +2342,10 @@ Extra-constitutional agency — **NITI Aayog** (not UPSC / FC / ECI).
 
 **Q17. UPPCS Prelims 2023, Q1**  
 Which among the following (Provision — Part) is **not** correctly matched?  
-A. Union Territories — Part VIII  B. Scheduled and Tribal Areas — Part X  C. Tribunals — Part XI  D. Official Language — Part XVII
+A. Union Territories — Part VIII
+B. Scheduled and Tribal Areas — Part X
+C. Tribunals — Part XI
+D. Official Language — Part XVII
 
 <details>
 <summary>Show answer</summary>
@@ -1909,7 +2356,10 @@ A. Union Territories — Part VIII  B. Scheduled and Tribal Areas — Part X  C.
 
 **Q18. UPPCS Prelims 2023, Q8**  
 The Constitution of India initially permitted the use of English language for all official purposes for a period of—  
-A. 5 years  B. 10 years  C. 15 years  D. 20 years
+A. 5 years
+B. 10 years
+C. 15 years
+D. 20 years
 
 <details>
 <summary>Show answer</summary>

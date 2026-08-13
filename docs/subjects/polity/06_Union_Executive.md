@@ -196,10 +196,10 @@ D. Only 1
 
 **Reason (R):** A Bill passed by the two Houses of Parliament cannot become a law without the assent of the President.
 
-A. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
 B. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-C. (A) is true but (R) is false  
-D. (A) is false but (R) is true
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
@@ -215,9 +215,9 @@ D. (A) is false but (R) is true
 **Reason (R):** It is not mandatory for the President to accept the proposal of the concerned State Legislature.
 
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
-C. (A) is true but (R) is false  
-D. (A) is false but (R) is true
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
 <details>
 <summary>Show answer</summary>
@@ -594,30 +594,38 @@ D. 1, 4, 3, 2
 
 ## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden.** **44 questions in UPPCS / RO-ARO 2024–25 format** — *which statement is/are correct*, *how-many-are-correct*, **Assertion–Reason**, **Match List-I/II**, **chronological order**, and *which pairs are NOT correctly matched* (numbered codes). **>60% multi-statement / application.**
+> **Answers hidden.** Full stems (not cryptic stubs). **44 questions in UPPCS / RO-ARO 2024–25 format** — *which statement is/are correct*, *how-many-are-correct*, **Assertion–Reason**, **Match List-I/II**, **chronological order**, and *which pairs are NOT correctly matched* (numbered codes). **>60% multi-statement / application.**
 
-**Q1.** Consider the following statements regarding the election of the President of India:  
+**Q1.** Consider the following statements regarding the election of the President of India:
 1. Only elected members of both Houses of Parliament take part.  
 2. Elected members of State Legislative Assemblies take part.  
 3. Members of State Legislative Councils take part.  
 How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+A. Only one
+B. Only two
+C. All three
+D. None
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — 1 and 2; Legislative **Councils** do not participate.
+**Ans: B** — 1 and 2; Legislative **Councils** do not participate.
 
 </details>
 
-**Q2.** With reference to the Electoral College for the President, which of the following is/are correct?  
+**Q2.** With reference to the Electoral College for the President, which of the following is/are correct?
 1. Nominated members of Parliament are excluded.  
 2. Elected members of the Legislative Assemblies of Delhi and Puducherry are included.  
-Select the correct answer:  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+Select the correct answer using the code given below:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** — Delhi & Puducherry MLAs added by the 70th Amendment.
+**Ans: C** — Delhi & Puducherry MLAs added by the 70th Amendment.
 
 </details>
 
@@ -627,65 +635,98 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Reason (R):** The population figures for this purpose are frozen until the first census after 2026.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
-C. (A) is true but (R) is false  
-D. (A) is false but (R) is true
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
-
-</details>
-
-**Q4.** Match List-I with List-II and select the correct answer using the code below:  
-List-I (Article) — List-II (Provision)  
-A. Article 54 — 1. Term of the President  
-B. Article 56 — 2. Election of the President  
-C. Article 61 — 3. Oath by the President  
-D. Article 60 — 4. Impeachment of the President  
-Code:  
-A. A-2, B-1, C-4, D-3  B. A-1, B-2, C-4, D-3  C. A-2, B-1, C-3, D-4  D. A-2, B-4, C-1, D-3
-
-<details><summary>Show answer</summary>
-
-**A**
+**Ans: A**
 
 </details>
 
-**Q5.** How many of the following are correct about the President's qualifications and conditions?  
+**Q4.** Match List-I with List-II and select the correct answer using the code below:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | Article 54 |
+| B | Article 56 |
+| C | Article 61 |
+| D | Article 60 |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | Term of the President |
+| 2 | Election of the President |
+| 3 | Oath by the President |
+| 4 | Impeachment of the President |
+
+> Note: Row order in the tables is **not** the answer.
+
+Select the correct answer using the code given below:
+A. A-2, B-1, C-4, D-3
+B. A-1, B-2, C-4, D-3
+C. A-2, B-1, C-3, D-4
+D. A-2, B-4, C-1, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q5.** How many of the following are correct about the President's qualifications and conditions?
 1. Must have completed 35 years of age.  
 2. Must be qualified for election to the Rajya Sabha.  
 3. Must not hold any office of profit.  
-A. Only one  B. Only two  C. All three  D. None
+A. Only one
+B. Only two
+C. All three
+D. None
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — 1 and 3; the benchmark is eligibility for the **Lok Sabha**, not Rajya Sabha.
+**Ans: B** — 1 and 3; the benchmark is eligibility for the **Lok Sabha**, not Rajya Sabha.
 
 </details>
 
-**Q6.** With reference to the impeachment of the President, which of the following is/are correct?  
+**Q6.** With reference to the impeachment of the President, which of the following is/are correct?
 1. The only ground is violation of the Constitution.  
 2. Nominated members of Parliament can participate.  
 3. Elected members of State Legislative Assemblies can participate.  
 How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+A. Only one
+B. Only two
+C. All three
+D. None
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — 1 and 2; State MLAs do **not** take part in impeachment.
+**Ans: B** — 1 and 2; State MLAs do **not** take part in impeachment.
 
 </details>
 
-**Q7.** Consider the following statements about the President's oath:  
+**Q7.** Consider the following statements about the President's oath:
 1. It is administered by the Chief Justice of India.  
 2. In his absence, it is administered by the senior-most judge of the Supreme Court.  
 Which of the above is/are correct?  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
+**Ans: C**
 
 </details>
 
@@ -695,88 +736,132 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Reason (R):** A Money Bill is introduced only on the recommendation of the President.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
-C. (A) is true but (R) is false  
-D. (A) is false but (R) is true
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
+**Ans: A**
 
 </details>
 
-**Q9.** Which of the following types of veto are available to the President of India?  
-1. Absolute veto  2. Suspensive veto  3. Pocket veto  4. Qualified veto  
+**Q9.** Which of the following types of veto are available to the President of India?
+1. Absolute veto
+2. Suspensive veto
+3. Pocket veto
+4. Qualified veto
 How many of the above are correct?  
-A. Only two  B. Only three  C. All four  D. Only one
+A. Only two
+B. Only three
+C. All four
+D. Only one
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — absolute, suspensive, pocket; **qualified** veto is the US system.
+**Ans: B** — absolute, suspensive, pocket; **qualified** veto is the US system.
 
 </details>
 
-**Q10.** With reference to the pocket veto, which of the following is/are correct?  
+**Q10.** With reference to the pocket veto, which of the following is/are correct?
 1. The Constitution prescribes no time limit within which the President must act on a Bill.  
 2. President Giani Zail Singh used it on the Indian Post Office (Amendment) Bill.  
-Select the correct answer:  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+Select the correct answer using the code given below:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q11.** Match List-I (Power) with List-II (Article) and select the correct answer:  
-List-I — List-II  
-A. Pardoning power — 1. Article 123  
-B. Ordinance-making power — 2. Article 72  
-C. Special address — 3. Article 143  
-D. Advisory opinion of SC — 4. Article 87  
-Code:  
-A. A-2, B-1, C-4, D-3  B. A-1, B-2, C-4, D-3  C. A-2, B-1, C-3, D-4  D. A-2, B-4, C-1, D-3
-
-<details><summary>Show answer</summary>
-
-**A**
+**Ans: C**
 
 </details>
 
-**Q12.** Consider the following statements regarding Article 72 and Article 161:  
+**Q11.** Match List-I (Power) with List-II (Article) and select the correct answer:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | Pardoning power |
+| B | Ordinance-making power |
+| C | Special address |
+| D | Advisory opinion of SC |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | Article 123 |
+| 2 | Article 72 |
+| 3 | Article 143 |
+| 4 | Article 87 |
+
+> Note: Row order in the tables is **not** the answer.
+
+Select the correct answer using the code given below:
+A. A-2, B-1, C-4, D-3
+B. A-1, B-2, C-4, D-3
+C. A-2, B-1, C-3, D-4
+D. A-2, B-4, C-1, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q12.** Consider the following statements regarding Article 72 and Article 161:
 1. The President can pardon a death sentence; the Governor cannot.  
 2. The Governor can pardon punishments awarded by a court-martial.  
 Which of the above is/are correct?  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — only the President can deal with court-martial and death-sentence pardons.
+**Ans: A** — only the President can deal with court-martial and death-sentence pardons.
 
 </details>
 
-**Q13.** Which of the following pairs are **NOT** correctly matched?  
+**Q13.** Which of the following pairs are **NOT** correctly matched?
 1. Pardon — completely absolves the convict of the sentence  
 2. Commutation — reduces the period of a sentence without changing its character  
 3. Respite — awarding a lesser sentence due to special facts such as pregnancy  
-Select using the code below:  
-A. Only 2  B. 1 and 2  C. 2 and 3  D. Only 3
+Select the correct answer using the code given below:
+A. Only 2
+B. 1 and 2
+C. 2 and 3
+D. Only 3
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — that definition describes **remission**; commutation **substitutes a lighter kind** of punishment.
+**Ans: A** — that definition describes **remission**; commutation **substitutes a lighter kind** of punishment.
 
 </details>
 
-**Q14.** With reference to the ordinance-making power (Article 123), which of the following is/are correct?  
+**Q14.** With reference to the ordinance-making power (Article 123), which of the following is/are correct?
 1. An ordinance can be promulgated only when both Houses are in session.  
 2. An ordinance must be laid before Parliament and ceases to operate six weeks after it reassembles.  
-Select the correct answer:  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+Select the correct answer using the code given below:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — an ordinance is issued only when Parliament (or a House) is **not** in session.
+**Ans: B** — an ordinance is issued only when Parliament (or a House) is **not** in session.
 
 </details>
 
@@ -786,72 +871,98 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Reason (R):** The President's ordinance-making power is co-extensive with the legislative power of Parliament.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
-C. (A) is true but (R) is false  
-D. (A) is false but (R) is true
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — both true; the bar on amending the Constitution flows from Art. 368's special procedure, not merely from the co-extensive scope.
+**Ans: B** — both true; the bar on amending the Constitution flows from Art. 368's special procedure, not merely from the co-extensive scope.
 
 </details>
 
-**Q16.** With reference to the Vice-President of India, which of the following statements is/are correct?  
+**Q16.** With reference to the Vice-President of India, which of the following statements is/are correct?
 1. He is the ex-officio Chairman of the Rajya Sabha.  
 2. He is a member of the Rajya Sabha.  
 3. State legislatures participate in his election.  
 How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+A. Only one
+B. Only two
+C. All three
+D. None
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — only 1; he is not a member, and states are not part of his electoral college.
+**Ans: A** — only 1; he is not a member, and states are not part of his electoral college.
 
 </details>
 
-**Q17.** Consider the following statements about the Vice-President's election and the President's election:  
+**Q17.** Consider the following statements about the Vice-President's election and the President's election:
 1. Nominated members of Parliament vote in the Vice-President's election.  
 2. Nominated members of Parliament vote in the President's election.  
 Which of the above is/are correct?  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — nominated members vote for the VP but **not** the President.
+**Ans: A** — nominated members vote for the VP but **not** the President.
 
 </details>
 
-**Q18.** With reference to the removal of the Vice-President (Article 67), which of the following is/are correct?  
+**Q18.** With reference to the removal of the Vice-President (Article 67), which of the following is/are correct?
 1. A resolution must be passed by the Rajya Sabha by an effective majority and agreed to by the Lok Sabha.  
 2. The Constitution specifies the grounds for his removal.  
-Select the correct answer:  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+Select the correct answer using the code given below:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — no ground is specified; 14 days' notice is required.
-
-</details>
-
-**Q19.** Arrange the following Presidents of India in correct **chronological order**:  
-1. K. R. Narayanan  2. Giani Zail Singh  3. Pratibha Patil  4. R. Venkataraman  
-Code:  
-A. 2 – 4 – 1 – 3  B. 2 – 1 – 4 – 3  C. 4 – 2 – 1 – 3  D. 2 – 4 – 3 – 1
-
-<details><summary>Show answer</summary>
-
-**A** — Zail Singh (1982–87), Venkataraman (1987–92), Narayanan (1997–2002), Pratibha Patil (2007–12).
+**Ans: A** — no ground is specified; 14 days' notice is required.
 
 </details>
 
-**Q20.** Which one of the following did **NOT** hold the office of Vice-President before becoming President?  
-1. Dr. S. Radhakrishnan  2. Neelam Sanjiva Reddy  3. R. Venkataraman  
+**Q19.** Arrange the following Presidents of India in correct **chronological order**:
+1. K. R. Narayanan
+2. Giani Zail Singh
+3. Pratibha Patil
+4. R. Venkataraman
+Select the correct answer using the code given below:
+A. 2 – 4 – 1 – 3
+B. 2 – 1 – 4 – 3
+C. 4 – 2 – 1 – 3
+D. 2 – 4 – 3 – 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Zail Singh (1982–87), Venkataraman (1987–92), Narayanan (1997–2002), Pratibha Patil (2007–12).
+
+</details>
+
+**Q20.** Which one of the following did **NOT** hold the office of Vice-President before becoming President?
+1. Dr. S. Radhakrishnan
+2. Neelam Sanjiva Reddy
+3. R. Venkataraman
 Identify the correct answer using the code:  
-A. Only 2  B. 1 and 2  C. 2 and 3  D. Only 1
+A. Only 2
+B. 1 and 2
+C. 2 and 3
+D. Only 1
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — only Neelam Sanjiva Reddy was never Vice-President.
+**Ans: A** — only Neelam Sanjiva Reddy was never Vice-President.
 
 </details>
 
@@ -861,75 +972,115 @@ A. Only 2  B. 1 and 2  C. 2 and 3  D. Only 1
 
 **Reason (R):** Ministers can be drawn from both the Lok Sabha and the Rajya Sabha.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
-C. (A) is true but (R) is false  
-D. (A) is false but (R) is true
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — both true, but ministerial eligibility from either House is not the reason for collective responsibility to the Lok Sabha.
+**Ans: B** — both true, but ministerial eligibility from either House is not the reason for collective responsibility to the Lok Sabha.
 
 </details>
 
-**Q22.** With reference to Article 74, which of the following statements is/are correct?  
+**Q22.** With reference to Article 74, which of the following statements is/are correct?
 1. There shall be a Council of Ministers with the Prime Minister at the head to aid and advise the President.  
 2. The President may require the Council to reconsider its advice, but must act on the advice tendered after such reconsideration.  
-Select the correct answer:  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+Select the correct answer using the code given below:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** — the 44th Amendment allows one reconsideration, after which the advice is binding.
+**Ans: C** — the 44th Amendment allows one reconsideration, after which the advice is binding.
 
 </details>
 
-**Q23.** Consider the following statements about the size of the Council of Ministers:  
+**Q23.** Consider the following statements about the size of the Council of Ministers:
 1. The 91st Amendment caps the total number of ministers, including the Prime Minister, at 15% of the strength of the Lok Sabha.  
 2. The same amendment fixes a minimum of twelve ministers for the States.  
 Which of the above is/are correct?  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q24.** How many of the following are extra-constitutional (not mentioned in the original Constitution)?  
-1. Cabinet Committees  2. Kitchen Cabinet  3. Prime Minister's Office  4. Cabinet Secretariat  
-A. Only two  B. Only three  C. All four  D. Only one
-
-<details><summary>Show answer</summary>
-
-**C** — all four are extra-constitutional; the word "Cabinet" entered the text only via the 44th Amendment (Art. 352).
+**Ans: C**
 
 </details>
 
-**Q25.** Match List-I with List-II and select the correct answer:  
-List-I — List-II  
-A. Cabinet Secretariat — 1. Headed by the Principal Secretary  
-B. PMO — 2. Headed by the Cabinet Secretary  
-C. Attorney General — 3. First law officer  
-D. Solicitor General — 4. Statutory office assisting the AG  
-Code:  
-A. A-2, B-1, C-3, D-4  B. A-1, B-2, C-3, D-4  C. A-2, B-1, C-4, D-3  D. A-2, B-3, C-1, D-4
+**Q24.** How many of the following are extra-constitutional (not mentioned in the original Constitution)?
+1. Cabinet Committees
+2. Kitchen Cabinet
+3. Prime Minister's Office
+4. Cabinet Secretariat
+A. Only two
+B. Only three
+C. All four
+D. Only one
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
+**Ans: C** — all four are extra-constitutional; the word "Cabinet" entered the text only via the 44th Amendment (Art. 352).
 
 </details>
 
-**Q26.** With reference to the Attorney General of India, which of the following statements is/are correct?  
+**Q25.** Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | Cabinet Secretariat |
+| B | PMO |
+| C | Attorney General |
+| D | Solicitor General |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | Headed by the Principal Secretary |
+| 2 | Headed by the Cabinet Secretary |
+| 3 | First law officer |
+| 4 | Statutory office assisting the AG |
+
+> Note: Row order in the tables is **not** the answer.
+
+Select the correct answer using the code given below:
+A. A-2, B-1, C-3, D-4
+B. A-1, B-2, C-3, D-4
+C. A-2, B-1, C-4, D-3
+D. A-2, B-3, C-1, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q26.** With reference to the Attorney General of India, which of the following statements is/are correct?
 1. He must be qualified to be appointed as a Judge of the Supreme Court.  
 2. He holds office during the pleasure of the President.  
 3. He can vote in the House in which he speaks.  
 How many of the above statements are correct?  
-A. Only one  B. Only two  C. All three  D. None
+A. Only one
+B. Only two
+C. All three
+D. None
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — 1 and 2; under Art. 88 he may speak in both Houses but has **no right to vote**.
+**Ans: B** — 1 and 2; under Art. 88 he may speak in both Houses but has **no right to vote**.
 
 </details>
 
@@ -939,61 +1090,80 @@ A. Only one  B. Only two  C. All three  D. None
 
 **Reason (R):** He is not debarred from private legal practice.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
-C. (A) is true but (R) is false  
-D. (A) is false but (R) is true
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — he may take private briefs, but not against the Government of India.
+**Ans: A** — he may take private briefs, but not against the Government of India.
 
 </details>
 
-**Q28.** Consider the following statements about the Prime Minister:  
+**Q28.** Consider the following statements about the Prime Minister:
 1. Article 78 lays down the duty of the PM to communicate the decisions of the Council of Ministers to the President.  
 2. A person who is not a member of either House can be appointed PM but must become a member within six months.  
 Which of the above is/are correct?  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
+**Ans: C**
 
 </details>
 
-**Q29.** Which of the following pairs are **NOT** correctly matched?  
+**Q29.** Which of the following pairs are **NOT** correctly matched?
 1. Article 76 — Attorney General  
 2. Article 75 — Appointment of the Council of Ministers  
 3. Article 79 — Pardoning power of the President  
-Select using the code below:  
-A. Only 3  B. 1 and 3  C. 2 and 3  D. Only 2
+Select the correct answer using the code given below:
+A. Only 3
+B. 1 and 3
+C. 2 and 3
+D. Only 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — Art. 79 relates to the constitution of Parliament; the pardoning power is Art. 72.
-
-</details>
-
-**Q30.** With reference to the ranks in the Council of Ministers, arrange them in **descending order** of rank:  
-1. Deputy Minister  2. Cabinet Minister  3. Minister of State  
-Code:  
-A. 2 – 3 – 1  B. 2 – 1 – 3  C. 3 – 2 – 1  D. 1 – 2 – 3
-
-<details><summary>Show answer</summary>
-
-**A** — Cabinet Minister > Minister of State > Deputy Minister.
+**Ans: A** — Art. 79 relates to the constitution of Parliament; the pardoning power is Art. 72.
 
 </details>
 
-**Q31.** Consider the following statements about the President's veto over State Bills reserved by the Governor (Article 201):  
+**Q30.** With reference to the ranks in the Council of Ministers, arrange them in **descending order** of rank:
+1. Deputy Minister
+2. Cabinet Minister
+3. Minister of State
+Select the correct answer using the code given below:
+A. 2 – 3 – 1
+B. 2 – 1 – 3
+C. 3 – 2 – 1
+D. 1 – 2 – 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Cabinet Minister > Minister of State > Deputy Minister.
+
+</details>
+
+**Q31.** Consider the following statements about the President's veto over State Bills reserved by the Governor (Article 201):
 1. The President can withhold assent to such a Bill.  
 2. The President is bound to assent if the State legislature passes it again.  
 Which of the above is/are correct?  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — for a reserved State Bill the President is **not** bound to assent even on repassage.
+**Ans: A** — for a reserved State Bill the President is **not** bound to assent even on repassage.
 
 </details>
 
@@ -1003,77 +1173,114 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Reason (R):** The 24th Amendment made the President's assent to such a Bill obligatory.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
-C. (A) is true but (R) is false  
-D. (A) is false but (R) is true
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
+**Ans: A**
 
 </details>
 
-**Q33.** How many of the following powers of the President are exercised on the advice of the Council of Ministers?  
+**Q33.** How many of the following powers of the President are exercised on the advice of the Council of Ministers?
 1. Pardoning power under Article 72  
 2. Appointment of the Prime Minister after a general election giving a clear majority  
 3. Promulgation of an ordinance  
-A. Only one  B. Only two  C. All three  D. None
+A. Only one
+B. Only two
+C. All three
+D. None
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** — all are exercised on ministerial advice (the PM's appointment becomes discretionary only in a hung situation).
+**Ans: C** — all are exercised on ministerial advice (the PM's appointment becomes discretionary only in a hung situation).
 
 </details>
 
-**Q34.** With reference to the Vice-President acting as President, which of the following is/are correct?  
+**Q34.** With reference to the Vice-President acting as President, which of the following is/are correct?
 1. He can act as President during a casual vacancy for a maximum of six months.  
 2. During that period he performs the duties of the Chairman of the Rajya Sabha as well.  
-Select the correct answer:  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+Select the correct answer using the code given below:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — while acting as President he does **not** perform the RS Chairman's duties.
-
-</details>
-
-**Q35.** Match List-I (Office) with List-II (Constitutional Article) and select the correct answer:  
-List-I — List-II  
-A. President — 1. Article 63  
-B. Vice-President — 2. Article 52  
-C. Council of Ministers — 3. Article 76  
-D. Attorney General — 4. Article 74  
-Code:  
-A. A-2, B-1, C-4, D-3  B. A-1, B-2, C-4, D-3  C. A-2, B-1, C-3, D-4  D. A-2, B-4, C-1, D-3
-
-<details><summary>Show answer</summary>
-
-**A**
+**Ans: A** — while acting as President he does **not** perform the RS Chairman's duties.
 
 </details>
 
-**Q36.** Consider the following statements about the special address under Article 87:  
+**Q35.** Match List-I (Office) with List-II (Constitutional Article) and select the correct answer:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | President |
+| B | Vice-President |
+| C | Council of Ministers |
+| D | Attorney General |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | Article 63 |
+| 2 | Article 52 |
+| 3 | Article 76 |
+| 4 | Article 74 |
+
+> Note: Row order in the tables is **not** the answer.
+
+Select the correct answer using the code given below:
+A. A-2, B-1, C-4, D-3
+B. A-1, B-2, C-4, D-3
+C. A-2, B-1, C-3, D-4
+D. A-2, B-4, C-1, D-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q36.** Consider the following statements about the special address under Article 87:
 1. The President addresses both Houses assembled together at the first session after each general election.  
 2. He also addresses them at the commencement of the first session of each year.  
 Which of the above is/are correct?  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
+**Ans: C**
 
 </details>
 
-**Q37.** Which of the following are functions or rights of the Attorney General?  
+**Q37.** Which of the following are functions or rights of the Attorney General?
 1. Right of audience in all courts in India  
 2. Right to participate in the proceedings of both Houses  
 3. Right to vote in Parliament  
 How many of the above are correct?  
-A. Only one  B. Only two  C. All three  D. None
+A. Only one
+B. Only two
+C. All three
+D. None
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — 1 and 2; he has no right to vote.
+**Ans: B** — 1 and 2; he has no right to vote.
 
 </details>
 
@@ -1083,62 +1290,79 @@ A. Only one  B. Only two  C. All three  D. None
 
 **Reason (R):** The Cabinet Secretary heads the Cabinet Secretariat, while the PMO is headed by the Principal Secretary.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
-C. (A) is true but (R) is false  
-D. (A) is false but (R) is true
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
+**Ans: A**
 
 </details>
 
-**Q39.** Consider the following statements about the doctrine of pleasure:  
+**Q39.** Consider the following statements about the doctrine of pleasure:
 1. Under Article 310, civil servants hold office during the pleasure of the President or Governor.  
 2. This pleasure is unrestricted and not subject to any constitutional safeguard.  
 Which of the above is/are correct?  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — it is restricted by Article 311 safeguards.
+**Ans: A** — it is restricted by Article 311 safeguards.
 
 </details>
 
-**Q40.** With reference to the value of votes in the Presidential election, which of the following is/are correct?  
+**Q40.** With reference to the value of votes in the Presidential election, which of the following is/are correct?
 1. The value of an MLA's vote depends on the population of the State.  
 2. The total value of all MLAs' votes equals the total value of all MPs' votes.  
-Select the correct answer:  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+Select the correct answer using the code given below:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** — parity is maintained between the States (all MLAs) and the Union (all elected MPs).
+**Ans: C** — parity is maintained between the States (all MLAs) and the Union (all elected MPs).
 
 </details>
 
-**Q41.** Which of the following pairs are **NOT** correctly matched?  
+**Q41.** Which of the following pairs are **NOT** correctly matched?
 1. Cabinet Committee on Security — chaired by the Prime Minister  
 2. Attorney General — assisted by the Solicitor General  
 3. Cabinet Secretary — head of the Prime Minister's Office  
-Select using the code below:  
-A. Only 3  B. 1 and 3  C. 2 and 3  D. Only 2
+Select the correct answer using the code given below:
+A. Only 3
+B. 1 and 3
+C. 2 and 3
+D. Only 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — the PMO is headed by the Principal Secretary; the Cabinet Secretary heads the Cabinet Secretariat.
+**Ans: A** — the PMO is headed by the Principal Secretary; the Cabinet Secretary heads the Cabinet Secretariat.
 
 </details>
 
-**Q42.** How many of the following statements about the Vice-President are correct?  
+**Q42.** How many of the following statements about the Vice-President are correct?
 1. His term is five years and he is eligible for re-election.  
 2. His resignation is addressed to the President.  
 3. He is elected by an Electoral College that includes State Legislative Assemblies.  
-A. Only one  B. Only two  C. All three  D. None
+A. Only one
+B. Only two
+C. All three
+D. None
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — 1 and 2; state assemblies are **not** part of his Electoral College.
+**Ans: B** — 1 and 2; state assemblies are **not** part of his Electoral College.
 
 </details>
 
@@ -1155,9 +1379,10 @@ B. 2 only
 C. 2 and 3 only  
 D. 1, 2 and 3
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — Only **2** is correct. The table is **ceremonial**; AG = **rank 11**, below Cabinet Ministers (**7**).
+**Ans: B** — Only **2** is correct. The table is **ceremonial**; AG = **rank 11**, below Cabinet Ministers (**7**).
 
 </details>
 
@@ -1168,9 +1393,10 @@ B. Rank 9
 C. Rank 9A  
 D. Rank 11
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** — **Rank 9A** (after **Supreme Court judges — rank 9**).
+**Ans: C** — **Rank 9A** (after **Supreme Court judges — rank 9**).
 
 </details>
 
@@ -1182,10 +1408,17 @@ D. Rank 11
 
 **Q1. UPPCS Prelims 2025, Q104**  
 Consider the tenure of the following Presidents of India and arrange them in correct chronological order starting from the earliest to the last.  
-1. Neelam Sanjiva Reddy 2. K. R. Narayanan 3. A. P. J. Abdul Kalam 4. R. Venkataraman  
-A. 1, 4, 2, 3 B. 4, 1, 3, 2 C. 4, 1, 2, 3 D. 1, 4, 3, 2
+1. Neelam Sanjiva Reddy
+2. K. R. Narayanan
+3. A. P. J. Abdul Kalam
+4. R. Venkataraman
+A. 1, 4, 2, 3
+B. 4, 1, 3, 2
+C. 4, 1, 2, 3
+D. 1, 4, 3, 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **Ans: A** — Reddy → Venkataraman → Narayanan → Kalam.
 
@@ -1193,10 +1426,15 @@ A. 1, 4, 2, 3 B. 4, 1, 3, 2 C. 4, 1, 2, 3 D. 1, 4, 3, 2
 
 **Q2. UPPCS Prelims 2025, Q119**  
 With reference to the Vice-President of India, which of the following statements is/are correct?  
-1. The Vice-President is the ex-officio Chairman of the Rajya Sabha. 2. The Vice-President is a member of the Rajya Sabha.  
-A. Both 1 and 2 B. Neither 1 nor 2 C. Only 2 D. Only 1
+1. The Vice-President is the ex-officio Chairman of the Rajya Sabha.
+2. The Vice-President is a member of the Rajya Sabha.
+A. Both 1 and 2
+B. Neither 1 nor 2
+C. Only 2
+D. Only 1
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **Ans: D — Only 1.**
 
@@ -1206,10 +1444,15 @@ A. Both 1 and 2 B. Neither 1 nor 2 C. Only 2 D. Only 1
 
 **Q3. UPPCS Prelims 2024, Q22**  
 Which of the following is/are stated in the Constitution of India?  
-1. The President shall not be a member of either of the Houses of the Parliament. 2. The Parliament shall consist of the President and both Houses.  
-A. Both 1 and 2 B. Only 2 C. Neither 1 nor 2 D. Only 1
+1. The President shall not be a member of either of the Houses of the Parliament.
+2. The Parliament shall consist of the President and both Houses.
+A. Both 1 and 2
+B. Only 2
+C. Neither 1 nor 2
+D. Only 1
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **Ans: A — Both** (Arts. 79 & 59).
 
@@ -1217,9 +1460,13 @@ A. Both 1 and 2 B. Only 2 C. Neither 1 nor 2 D. Only 1
 
 **Q4. UPPCS Prelims 2024, Q39**  
 Who among the following participates in the election of the President of India?  
-A. Members of Lok Sabha only B. Members of Rajya Sabha only C. Elected members of Parliament and State Legislative Assemblies D. All members of Parliament and State Legislatures
+A. Members of Lok Sabha only
+B. Members of Rajya Sabha only
+C. Elected members of Parliament and State Legislative Assemblies
+D. All members of Parliament and State Legislatures
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **Ans: C.**
 
@@ -1231,9 +1478,13 @@ A. Members of Lok Sabha only B. Members of Rajya Sabha only C. Elected members o
 **Assertion (A):** The President can recommend to the Parliament to change the boundary of any State after seeking the views of the concerned Legislature of that State within the specified period.  
 
 **Reason (R):** It is not mandatory for the President to accept the proposal of the concerned State Legislature.  
-A. Both true and R explains A B. Both true but R not the explanation C. A true, R false D. A false, R true
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true but R not the explanation
+C. A true, R false
+D. A false, R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **Ans: B.**
 
@@ -1241,10 +1492,15 @@ A. Both true and R explains A B. Both true but R not the explanation C. A true, 
 
 **Q6. UPPCS Prelims 2023, Q5**  
 With reference to the election of the Vice-President of India, which is declared void by the Supreme Court, which statement(s) is/are correct?  
-1. The acts done by him before such declaration are valid. 2. The acts done on the day of such declaration are not valid.  
-A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
+1. The acts done by him before such declaration are valid.
+2. The acts done on the day of such declaration are not valid.
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **Ans: A — Only 1** (Art. 71).
 
@@ -1254,9 +1510,13 @@ A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 **Assertion (A):** The President is a part of the Parliament.  
 
 **Reason (R):** A Bill passed by the two Houses of Parliament cannot become a law without the assent of the President.  
-A. Both true but R not the explanation B. Both true and R explains A C. A true, R false D. A false, R true
+A. Both true but R not the explanation
+B. Both (A) and (R) are true and (R) is the correct explanation of (A)
+C. A true, R false
+D. A false, R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **Ans: A.**
 
@@ -1264,10 +1524,15 @@ A. Both true but R not the explanation B. Both true and R explains A C. A true, 
 
 **Q8. UPPCS Prelims 2023, Q12**  
 With reference to the Attorney General of India, which statement(s) is/are correct?  
-1. Appointed if qualified to be a Judge of the Supreme Court. 2. Removed through the same process as SC judges.  
-A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
+1. Appointed if qualified to be a Judge of the Supreme Court.
+2. Removed through the same process as SC judges.
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **Ans: A — Only 1** (holds office during pleasure).
 
@@ -1277,9 +1542,13 @@ A. Only 1 B. Only 2 C. Both 1 and 2 D. Neither 1 nor 2
 
 **Q9. UPPCS Prelims 2022, Q116**  
 Which one of the following did **NOT** serve as Vice-President before assuming the office of the President of India?  
-A. Dr. Shankar Dayal Sharma B. Neelam Sanjiva Reddy C. Dr. Zakir Hussain D. R. Venkataraman
+A. Dr. Shankar Dayal Sharma
+B. Neelam Sanjiva Reddy
+C. Dr. Zakir Hussain
+D. R. Venkataraman
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **Ans: B — Neelam Sanjiva Reddy.**
 
@@ -1289,10 +1558,15 @@ A. Dr. Shankar Dayal Sharma B. Neelam Sanjiva Reddy C. Dr. Zakir Hussain D. R. V
 
 **Q10. UPPCS Prelims 2021, Q84**  
 With reference to the special address of the President of India, which statement(s) is/are correct?  
-1. He addresses the joint meeting at the commencement of the first session after each general election and the first session of each year. 2. He informs Parliament of the causes of its summons.  
-A. 1 only B. 2 only C. Both 1 and 2 D. Neither 1 nor 2
+1. He addresses the joint meeting at the commencement of the first session after each general election and the first session of each year.
+2. He informs Parliament of the causes of its summons.
+A. 1 only
+B. 2 only
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **Ans: A — 1 only.**
 
@@ -1302,9 +1576,13 @@ A. 1 only B. 2 only C. Both 1 and 2 D. Neither 1 nor 2
 **Assertion (A):** The Council of Ministers in India is collectively responsible to both Lok Sabha and Rajya Sabha.  
 
 **Reason (R):** Members of both Lok Sabha and Rajya Sabha are eligible to become Ministers in the Union Government.  
-A. Both true and R explains A B. Both true but R not the explanation C. A true, R false D. A false, R true
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true but R not the explanation
+C. A true, R false
+D. A false, R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **Ans: D — A false, R true** (responsible to the Lok Sabha only).
 
@@ -1314,9 +1592,13 @@ A. Both true and R explains A B. Both true but R not the explanation C. A true, 
 
 **Q12. UPPCS Prelims 2020, Q124**  
 Consider the following statements in the context of the Attorney General of India. *(Statement text missing in source copy.)*  
-A. Only 1 is correct B. Only 2 is correct C. Both 1 and 2 are correct D. Neither 1 nor 2 is correct
+A. Only 1 is correct
+B. Only 2 is correct
+C. Both 1 and 2 are correct
+D. Neither 1 nor 2 is correct
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **Answer key not reproducible** — statements illegible in the source paper. Concept: AG = first law officer; SC-judge qualification; office **during pleasure**; speaks in both Houses without a vote.
 
@@ -1327,9 +1609,13 @@ A. Only 1 is correct B. Only 2 is correct C. Both 1 and 2 are correct D. Neither
 **Q13. UPPCS Prelims 2019, Q30**  
 With reference to Prime Minister's Office (PMO), which statement(s) is/are correct?  
 1. It came into existence in 1977. 2. It is headed by the Cabinet Secretary.  
-A. Only 2 B. Both 1 and 2 C. Only 1 D. Neither 1 nor 2
+A. Only 2
+B. Both 1 and 2
+C. Only 1
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **Ans: D — Neither.**
 
@@ -1339,9 +1625,13 @@ A. Only 2 B. Both 1 and 2 C. Only 1 D. Neither 1 nor 2
 
 **Q14. UPPCS Prelims 2018, Q66**  
 Who was the UPA candidate for the 2017 Presidential election?  
-A. Ms. Meira Kumar B. Mr. Gopal Krishna Gandhi C. Dr. Karan Singh D. None of the above
+A. Ms. Meira Kumar
+B. Mr. Gopal Krishna Gandhi
+C. Dr. Karan Singh
+D. None of the above
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **Ans: A — Meira Kumar** (lost to Ram Nath Kovind). Gopal Krishna Gandhi was the opposition VP candidate that year.
 
@@ -1349,9 +1639,13 @@ A. Ms. Meira Kumar B. Mr. Gopal Krishna Gandhi C. Dr. Karan Singh D. None of the
 
 **Q15. UPPCS Prelims 2018, Q72**  
 The Council of States (Rajya Sabha) has exclusive powers in relation to which of the following?  
-A. To initiate proceedings for the removal of the President B. To initiate proceedings for the removal of a judge of the Supreme Court C. To recommend the creation of a new All India Service D. None of the above
+A. To initiate proceedings for the removal of the President
+B. To initiate proceedings for the removal of a judge of the Supreme Court
+C. To recommend the creation of a new All India Service
+D. None of the above
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **Ans: C** — Art. 312 (new All India Service) is an exclusive power of the Rajya Sabha; impeachment/removal can start in **either** House.
 
@@ -1359,9 +1653,13 @@ A. To initiate proceedings for the removal of the President B. To initiate proce
 
 **Q16. UPPCS Prelims 2018, Q146**  
 Who is the author of the book "The Accidental Prime Minister"?  
-A. Rajdeep Sardesai B. Karan Thapar C. Kuldeep Nayar D. Sanjaya Baru
+A. Rajdeep Sardesai
+B. Karan Thapar
+C. Kuldeep Nayar
+D. Sanjaya Baru
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
 **Ans: D — Sanjaya Baru** (former media adviser to PM Manmohan Singh).
 

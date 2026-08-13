@@ -532,58 +532,78 @@ Newest first. One event, one lock.
 
 ## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden.** **140 questions.** ≥60% multi-statement / application. Mix: A/R, Match List, chronology, NOT-correctly-matched.
+> **Answers hidden.** Full stems (not cryptic stubs). **140 questions.** ≥60% multi-statement / application. Mix: A/R, Match List, chronology, NOT-correctly-matched.
 
-**Q1.** Constitutionalism, at root, means—  
-A. Possession of a written booklet  B. **Limitation of governmental power**  C. Dicey’s third limb  D. 42nd Amendment
+**Q1.** Constitutionalism, at root, means?
+A. Possession of a written booklet
+B. Limitation of governmental power
+C. Dicey’s third limb
+D. 42nd Amendment
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
 
 </details>
 
-**Q2.** Which of the following is/are correct?  
+**Q2.** Which of the following is/are correct?
 1. Every State with a constitution practises constitutionalism.  
 2. The UK has constitutionalism without one supreme coded document.  
-A. Only 1  B. **Only 2**  C. Both  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q3.** Ambedkar’s “constitutional morality” in the Constituent Assembly was drawn from—  
-A. Dicey  B. **George Grote**  C. Montesquieu  D. K.C. Wheare
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q4.** Ambedkar’s lock on constitutional morality is that it is—  
-A. A Fundamental Right  B. **Not a natural sentiment; it must be cultivated**  C. Art. 51A  D. The 42nd Amendment’s preamble insert
+**Q3.** Ambedkar’s “constitutional morality” in the Constituent Assembly was drawn from which of the following?
+A. Dicey
+B. George Grote
+C. Montesquieu
+D. K.C. Wheare
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
 
 </details>
 
-**Q5.** Which of the following is/are correct?  
+**Q4.** Ambedkar’s lock on constitutional morality is that it is?
+A. A Fundamental Right
+B. Not a natural sentiment; it must be cultivated
+C. Art. 51A
+D. The 42nd Amendment’s preamble insert
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q5.** Which of the following is/are correct?
 1. Constitutional morality is a phrase in Part III.  
 2. Constitutional morality is not the same as “public morality” in Arts. 19/25.  
-A. Only 1  B. **Only 2**  C. Both  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
 
 </details>
 
-**Q6.** Match List-I with List-II.  
+**Q6.** Match List-I with List-II.
 | List-I | List-II |
 |--------|---------|
 | a. *Navtej Johar* | 1. NCT LG vs elected government |
@@ -591,29 +611,41 @@ A. Only 1  B. **Only 2**  C. Both  D. Neither
 | c. *Maneka Gandhi* | 3. Art. 21 fairness |
 | d. *Kesavananda* | 4. Basic Structure |
 
-A. a-1 b-2 c-3 d-4  B. **a-2 b-1 c-3 d-4**  C. a-2 b-3 c-1 d-4  D. a-4 b-1 c-2 d-3
+A. a-1 b-2 c-3 d-4
+B. a-2 b-1 c-3 d-4
+C. a-2 b-3 c-1 d-4
+D. a-4 b-1 c-2 d-3
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q7.** Dicey’s Rule of Law does **not**, in the UK textbook, include—  
-A. Supremacy of law  B. Equality before law  C. **A written supreme Bill of Rights as the source of rights**  D. Absence of arbitrary power
-
-<details><summary>Show answer</summary>
-
-**C** — that is the opposite of limb 3.
+**Ans: B**
 
 </details>
 
-**Q8.** Which Dicey limb **fails** in India?  
-A. No arbitrary power  B. Equality before law  C. **Constitution as the result of ordinary law**  D. None — all three apply
+**Q7.** Dicey’s Rule of Law does **not**, in the UK textbook, include?
+A. Supremacy of law
+B. Equality before law
+C. A written supreme Bill of Rights as the source of rights
+D. Absence of arbitrary power
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
+**Ans: C** — that is the opposite of limb 3.
+
+</details>
+
+**Q8.** Which Dicey limb **fails** in India?
+A. No arbitrary power
+B. Equality before law
+C. Constitution as the result of ordinary law
+D. None — all three apply
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
 
 </details>
 
@@ -622,85 +654,121 @@ A. No arbitrary power  B. Equality before law  C. **Constitution as the result o
 **Assertion (A):** India follows Dicey’s Rule of Law in full.
 
 **Reason (R):** Article 14 guarantees equality before law.  
-A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true, R not explanation
+C. A true R false
+D. A false R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D** — R is right; A is over-stated because limb 3 does not travel.
-
-</details>
-
-**Q10.** “Equality before law” in Art. 14 is classically—  
-A. US 14th Amendment only  B. **Dicey’s British phrase**  C. Montesquieu  D. Japan Art. 31
-
-<details><summary>Show answer</summary>
-
-**B** — “equal protection” is the US cousin, also in Art. 14.
+**Ans: D** — R is right; A is over-stated because limb 3 does not travel.
 
 </details>
 
-**Q11.** Which is **not** a Rule-of-Law exception of the “officials are immune” type?  
-A. Art. 361  B. Arts. 105/194  C. **Art. 14 itself**  D. Diplomatic immunity
+**Q10.** “Equality before law” in Art. 14 is classically?
+A. US 14th Amendment only
+B. Dicey’s British phrase
+C. Montesquieu
+D. Japan Art. 31
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q12.** Article 21 uses the words—  
-A. Due process of law  B. **Procedure established by law**  C. Natural justice only  D. Basic Structure
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B** — “equal protection” is the US cousin, also in Art. 14.
 
 </details>
 
-**Q13.** “Procedure established by law” in Art. 21 was borrowed from—  
-A. USA  B. UK  C. **Japan**  D. Ireland
+**Q11.** Which is **not** a Rule-of-Law exception of the “officials are immune” type?
+A. Art. 361
+B. Arts. 105/194
+C. Art. 14 itself
+D. Diplomatic immunity
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** — Japan (Art. 31). USA is **due process**.
-
-</details>
-
-**Q14.** US due process sits in—  
-A. Art. I only  B. **5th and 14th Amendments**  C. The Preamble  D. Marbury as a statute
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C**
 
 </details>
 
-**Q15.** Which of the following is/are correct?  
+**Q12.** Article 21 uses the words?
+A. Due process of law
+B. Procedure established by law
+C. Natural justice only
+D. Basic Structure
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q13.** “Procedure established by law” in Art. 21 was borrowed from which of the following?
+A. USA
+B. UK
+C. Japan
+D. Ireland
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Japan (Art. 31). USA is **due process**.
+
+</details>
+
+**Q14.** US due process sits in which of the following?
+A. Art. I only
+B. 5th and 14th Amendments
+C. The Preamble
+D. Marbury as a statute
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q15.** Which of the following is/are correct?
 1. The Constituent Assembly wrote “due process” into Art. 21.  
 2. B.N. Rau cautioned against US due process.  
-A. Only 1  B. **Only 2**  C. Both  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q16.** *A.K. Gopalan* (1950) held that Art. 21 is satisfied by—  
-A. Fair, just and reasonable procedure  B. **Any procedure in a validly enacted law**  C. US 14th Amendment  D. Art. 50
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q17.** *Maneka Gandhi* (1978) is authority for—  
-A. Replacing Art. 21’s text with “due process”  B. **Fair, just, reasonable procedure; 14-19-21 read together**  C. Parliamentary sovereignty  D. Striking the Preamble
+**Q16.** *A.K. Gopalan* (1950) held that Art. 21 is satisfied by which of the following?
+A. Fair, just and reasonable procedure
+B. Any procedure in a validly enacted law
+C. US 14th Amendment
+D. Art. 50
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
+
+</details>
+
+**Q17.** *Maneka Gandhi* (1978) is authority for which of the following?
+A. Replacing Art. 21’s text with “due process”
+B. Fair, just, reasonable procedure; 14-19-21 read together
+C. Parliamentary sovereignty
+D. Striking the Preamble
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
 
 </details>
 
@@ -709,67 +777,95 @@ A. Replacing Art. 21’s text with “due process”  B. **Fair, just, reasonabl
 **Assertion (A):** After *Maneka*, Article 21’s wording is “due process of law”.
 
 **Reason (R):** The Court read fairness into “procedure established by law”.  
-A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true, R not explanation
+C. A true R false
+D. A false R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
-
-</details>
-
-**Q19.** Arrange: 1. *Gopalan*  2. *Maneka*  3. *ADM Jabalpur*  4. *Puttaswamy*  
-A. 1-2-3-4  B. **1-3-2-4**  C. 1-2-4-3  D. 3-1-2-4
-
-<details><summary>Show answer</summary>
-
-**B** — 1950 → **1976** → **1978** → **2017**.
+**Ans: D**
 
 </details>
 
-**Q20.** *Puttaswamy* (2017) on *ADM Jabalpur*—  
-A. Affirmed the majority  B. **Disapproved the majority; Khanna dissent vindicated**  C. Ignored it  D. Converted it into a DPSP
+**Q19.** Arrange the following in chronological order: 1. *Gopalan*  2. *Maneka*  3. *ADM Jabalpur*  4. *Puttaswamy*
+A. 1-2-3-4
+B. 1-3-2-4
+C. 1-2-4-3
+D. 3-1-2-4
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q21.** Separation of powers as a theory is associated with—  
-A. Dicey  B. **Montesquieu**  C. Grote  D. Jennings
-
-<details><summary>Show answer</summary>
-
-**B** — *Spirit of the Laws*, **1748**.
+**Ans: B** — 1950 → **1976** → **1978** → **2017**.
 
 </details>
 
-**Q22.** Which of the following is/are correct?  
+**Q20.** *Puttaswamy* (2017) on *ADM Jabalpur*?
+A. Affirmed the majority
+B. Disapproved the majority; Khanna dissent vindicated
+C. Ignored it
+D. Converted it into a DPSP
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q21.** Separation of powers as a theory is associated with which of the following?
+A. Dicey
+B. Montesquieu
+C. Grote
+D. Jennings
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — *Spirit of the Laws*, **1748**.
+
+</details>
+
+**Q22.** Which of the following is/are correct?
 1. India follows the rigid American separation of powers.  
 2. The Indian executive is fused with the legislature through the Council of Ministers.  
-A. Only 1  B. **Only 2**  C. Both  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q23.** *Ram Jawaya Kapur* (1955) is the lock that—  
-A. Created Basic Structure  B. **India does not recognise SOP in American rigidity**  C. Struck NJAC  D. Invented Dicey’s third limb
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q24.** Article 50 directs—  
-A. Judicial review  B. **Separation of the judiciary from the executive in the State’s public services**  C. Parliamentary sovereignty  D. Due process
+**Q23.** *Ram Jawaya Kapur* (1955) is the lock that?
+A. Created Basic Structure
+B. India does not recognise SOP in American rigidity
+C. Struck NJAC
+D. Invented Dicey’s third limb
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — it is a **DPSP**.
+**Ans: B**
+
+</details>
+
+**Q24.** Article 50 directs?
+A. Judicial review
+B. Separation of the judiciary from the executive in the State’s public services
+C. Parliamentary sovereignty
+D. Due process
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — it is a **DPSP**.
 
 </details>
 
@@ -778,86 +874,124 @@ A. Judicial review  B. **Separation of the judiciary from the executive in the S
 **Assertion (A):** Article 50 is a Fundamental Right.
 
 **Reason (R):** It concerns separation of the judiciary from the executive.  
-A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true, R not explanation
+C. A true R false
+D. A false R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
-
-</details>
-
-**Q26.** Which one is **not** correctly matched?  
-A. Montesquieu — SOP  B. Dicey — Rule of Law  C. Grote — constitutional morality  D. **K.C. Wheare — due process**
-
-<details><summary>Show answer</summary>
-
-**D** — Wheare = **quasi-federal**.
+**Ans: D**
 
 </details>
 
-**Q27.** Checks and balances are—  
-A. A fourth organ  B. **Restraints among the three organs**  C. Art. 370  D. Dicey’s third limb
+**Q26.** Which one is **not** correctly matched?
+A. Montesquieu — SOP
+B. Dicey — Rule of Law
+C. Grote — constitutional morality
+D. K.C. Wheare — due process
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q28.** Which of the following is/are a legislative check on the executive?  
-1. No-confidence motion  2. Judicial review  3. Question Hour  
-A. **1 and 3 only**  B. 1 and 2 only  C. 2 and 3 only  D. All three
-
-<details><summary>Show answer</summary>
-
-**A** — review is a **judicial** check.
+**Ans: D** — Wheare = **quasi-federal**.
 
 </details>
 
-**Q29.** Ordinances (Art. 123) as a check pattern—  
-A. Let the executive legislate forever  B. **Need subsequent legislative approval — a check, not a repeal of SOP**  C. Are FRs  D. Are Dicey’s limb 3
+**Q27.** Checks and balances are?
+A. A fourth organ
+B. Restraints among the three organs
+C. Art. 370
+D. Dicey’s third limb
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q30.** Arts. 122 and 212 typically—  
-A. Let the SC rewrite Hansard  B. **Bar courts from inquiring into legislative proceedings**  C. Create NJAC  D. Enact due process
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q31.** Classic parliamentary sovereignty is a **UK / Dicey** idea that—  
-A. Courts strike all Acts  B. **No one overrides an Act of Parliament**  C. The President is hereditary  D. FRs are unamendable in the UK
+**Q28.** Which of the following is/are a legislative check on the executive?
+1. No-confidence motion
+2. Judicial review
+3. Question Hour
+A. 1 and 3 only
+B. 1 and 2 only
+C. 2 and 3 only
+D. All three
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: A** — review is a **judicial** check.
 
 </details>
 
-**Q32.** Which of the following is/are correct?  
+**Q29.** Ordinances (Art. 123) as a check pattern?
+A. Let the executive legislate forever
+B. Need subsequent legislative approval — a check, not a repeal of SOP
+C. Are FRs
+D. Are Dicey’s limb 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q30.** Arts. 122 and 212 typically?
+A. Let the SC rewrite Hansard
+B. Bar courts from inquiring into legislative proceedings
+C. Create NJAC
+D. Enact due process
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q31.** Classic parliamentary sovereignty is a **UK / Dicey** idea that?
+A. Courts strike all Acts
+B. No one overrides an Act of Parliament
+C. The President is hereditary
+D. FRs are unamendable in the UK
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q32.** Which of the following is/are correct?
 1. India has a parliamentary *form*.  
 2. Therefore India has Dicey’s parliamentary *sovereignty*.  
-A. **Only 1**  B. Only 2  C. Both  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
+**Ans: A**
 
 </details>
 
-**Q33.** Indian Parliament’s law-making is expressly “subject to this Constitution” in—  
-A. Art. 12  B. **Art. 245**  C. Art. 50  D. Art. 393
+**Q33.** Indian Parliament’s law-making is expressly “subject to this Constitution” in which of the following?
+A. Art. 12
+B. Art. 245
+C. Art. 50
+D. Art. 393
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — Art. **13** is the FR-voidness cousin.
+**Ans: B** — Art. **13** is the FR-voidness cousin.
 
 </details>
 
@@ -866,113 +1000,163 @@ A. Art. 12  B. **Art. 245**  C. Art. 50  D. Art. 393
 **Assertion (A):** Indian Parliament is sovereign in the Dicey sense.
 
 **Reason (R):** India has a parliamentary system of government.  
-A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true, R not explanation
+C. A true R false
+D. A false R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
-
-</details>
-
-**Q35.** Constitutional supremacy in India is locked by—  
-1. Written Constitution  2. Judicial review  3. Basic Structure limit on Art. 368  
-A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. **1, 2 and 3**
-
-<details><summary>Show answer</summary>
-
-**D**
+**Ans: D**
 
 </details>
 
-**Q36.** *Kesavananda Bharati* (1973) is the lead case for—  
-A. Dicey’s limb 3  B. **Limited amending power / Basic Structure**  C. NJAC  D. Art. 50 as a FR
+**Q35.** Constitutional supremacy in India is locked by which of the following?
+1. Written Constitution
+2. Judicial review
+3. Basic Structure limit on Art. 368
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q37.** *Minerva Mills* (1980) struck at—  
-A. Universal adult franchise  B. **Unlimited amending power; FR–DPSP balance as Basic Structure**  C. Art. 21’s text  D. The Preamble’s date
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: D**
 
 </details>
 
-**Q38.** Judicial review and judicial supremacy—  
-A. Are synonyms in the syllabus  B. **Review = tool under the Constitution; supremacy would make the Court the sovereign**  C. Are both UK Dicey  D. Were inserted by the 42nd
+**Q36.** *Kesavananda Bharati* (1973) is the lead case for which of the following?
+A. Dicey’s limb 3
+B. Limited amending power / Basic Structure
+C. NJAC
+D. Art. 50 as a FR
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q39.** NJAC judgment (2015) is best tagged as—  
-A. Parliamentary sovereignty  B. **Constitutional supremacy / review of an amendment**  C. Dicey limb 3  D. Art. 21 *Gopalan* revival
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q40.** Which one is **not** correctly matched?  
-A. UK classic — parliamentary sovereignty  B. India — constitutional supremacy  C. *Maneka* — fairness in Art. 21  D. **Art. 21 text — due process of law**
+**Q37.** *Minerva Mills* (1980) struck at?
+A. Universal adult franchise
+B. Unlimited amending power; FR–DPSP balance as Basic Structure
+C. Art. 21’s text
+D. The Preamble’s date
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
-
-</details>
-
-**Q41.** *Indira Nehru Gandhi v Raj Narain* (1975) used Basic Structure against—  
-A. GST  B. **A clause that made the PM’s election dispute non-justiciable**  C. Art. 50  D. Japan’s constitution
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q42.** Which of the following is/are correct?  
+**Q38.** Judicial review and judicial supremacy?
+A. Are synonyms in the syllabus
+B. Review = tool under the Constitution; supremacy would make the Court the sovereign
+C. Are both UK Dicey
+D. Were inserted by the 42nd
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q39.** NJAC judgment (2015) is best tagged as which of the following?
+A. Parliamentary sovereignty
+B. Constitutional supremacy / review of an amendment
+C. Dicey limb 3
+D. Art. 21 *Gopalan* revival
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q40.** Which one is **not** correctly matched?
+A. UK classic — parliamentary sovereignty
+B. India — constitutional supremacy
+C. *Maneka* — fairness in Art. 21
+D. Art. 21 text — due process of law
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q41.** *Indira Nehru Gandhi v Raj Narain* (1975) used Basic Structure against?
+A. GST
+B. A clause that made the PM’s election dispute non-justiciable
+C. Art. 50
+D. Japan’s constitution
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q42.** Which of the following is/are correct?
 1. Separation of powers is treated as part of Basic Structure.  
 2. India therefore copied US Articles I–II–III.  
-A. **Only 1**  B. Only 2  C. Both  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
-
-</details>
-
-**Q43.** Rule **by** law, as a trap phrase, means—  
-A. Dicey’s full three limbs  B. **Using statutes as an instrument of arbitrary rule**  C. Art. 50  D. *Maneka*
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: A**
 
 </details>
 
-**Q44.** Which organ fusion is the parliamentary system’s trademark?  
-A. Judiciary sitting in the Cabinet  B. **Executive drawn from and responsible to the legislature**  C. Governors as SC judges  D. CAG as a minister
+**Q43.** Rule **by** law, as a trap phrase, means?
+A. Dicey’s full three limbs
+B. Using statutes as an instrument of arbitrary rule
+C. Art. 50
+D. *Maneka*
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
 
 </details>
 
-**Q45.** Chronology: 1. Montesquieu  2. Dicey (1885 book)  3. *Gopalan*  4. *Maneka*  
-A. 2-1-3-4  B. **1-2-3-4**  C. 1-2-4-3  D. 2-1-4-3
+**Q44.** Which organ fusion is the parliamentary system’s trademark?
+A. Judiciary sitting in the Cabinet
+B. Executive drawn from and responsible to the legislature
+C. Governors as SC judges
+D. CAG as a minister
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — 1748 → 1885 → 1950 → 1978.
+**Ans: B**
+
+</details>
+
+**Q45.** Chronology: 1. Montesquieu  2. Dicey (1885 book)  3. *Gopalan*  4. *Maneka*
+A. 2-1-3-4
+B. 1-2-3-4
+C. 1-2-4-3
+D. 2-1-4-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — 1748 → 1885 → 1950 → 1978.
 
 </details>
 
@@ -981,78 +1165,110 @@ A. 2-1-3-4  B. **1-2-3-4**  C. 1-2-4-3  D. 2-1-4-3
 **Assertion (A):** Constitutional morality can invalidate a practice supported by a majority.
 
 **Reason (R):** *Navtej Johar* treated constitutional morality as distinct from majoritarian morality.  
-A. **Both true and R explains A**  B. Both true, R not explanation  C. A true R false  D. A false R true
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true, R not explanation
+C. A true R false
+D. A false R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
-
-</details>
-
-**Q47.** The “golden triangle” after *Maneka* is—  
-A. 32-226-136  B. **14-19-21**  C. 12-13-14  D. 245-246-254
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: A**
 
 </details>
 
-**Q48.** Which of the following is/are correct?  
+**Q47.** The “golden triangle” after *Maneka* is?
+A. 32-226-136
+B. 14-19-21
+C. 12-13-14
+D. 245-246-254
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q48.** Which of the following is/are correct?
 1. Judicial review exists in India.  
 2. That fact is identical to Dicey’s parliamentary sovereignty.  
-A. **Only 1**  B. Only 2  C. Both  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
-
-</details>
-
-**Q49.** Art. 13’s voidness of FR-inconsistent laws is a working tool of—  
-A. UK sovereignty  B. **Constitutional supremacy**  C. Art. 50  D. Grote
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: A**
 
 </details>
 
-**Q50.** Which one is **not** correctly matched?  
-A. *Gopalan* — 1950  B. *Maneka* — 1978  C. *Kesavananda* — 1973  D. ***Puttaswamy* — 1976**
+**Q49.** Art. 13’s voidness of FR-inconsistent laws is a working tool of which of the following?
+A. UK sovereignty
+B. Constitutional supremacy
+C. Art. 50
+D. Grote
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D** — *Puttaswamy* **2017**; *ADM Jabalpur* **1976**.
-
-</details>
-
-**Q51.** A check by the judiciary on a constitutional amendment is possible because of—  
-A. Dicey limb 3  B. **Basic Structure / constitutional supremacy**  C. Art. 50 as a FR  D. The Japan clause alone
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q52.** Which of the following is/are correct?  
+**Q50.** Which one is **not** correctly matched?
+A. *Gopalan* — 1950
+B. *Maneka* — 1978
+C. *Kesavananda* — 1973
+D. *Puttaswamy* — 1976
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — *Puttaswamy* **2017**; *ADM Jabalpur* **1976**.
+
+</details>
+
+**Q51.** A check by the judiciary on a constitutional amendment is possible because of which of the following?
+A. Dicey limb 3
+B. Basic Structure / constitutional supremacy
+C. Art. 50 as a FR
+D. The Japan clause alone
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q52.** Which of the following is/are correct?
 1. Cabinet collective responsibility is a check inside the parliamentary executive.  
 2. It proves India has no separation of powers at all.  
-A. **Only 1**  B. Only 2  C. Both  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
+**Ans: A**
 
 </details>
 
-**Q53.** *Manoj Narula* (2014) is filed under—  
-A. WTO  B. **Constitutional morality and criminal antecedents of ministers**  C. Art. 21 *Gopalan*  D. APEC
+**Q53.** *Manoj Narula* (2014) is filed under which of the following?
+A. WTO
+B. Constitutional morality and criminal antecedents of ministers
+C. Art. 21 *Gopalan*
+D. APEC
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
 
 </details>
 
@@ -1061,96 +1277,136 @@ A. WTO  B. **Constitutional morality and criminal antecedents of ministers**  C.
 **Assertion (A):** The US model of SOP is fusion of Cabinet and Congress.
 
 **Reason (R):** The Indian PM must (normally) be a member of Parliament.  
-A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true, R not explanation
+C. A true R false
+D. A false R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D** — US is **not** fusion; R is the Indian lock.
-
-</details>
-
-**Q55.** Which Preamble lock is arithmetic, not philosophy?  
-A. Dicey’s limb 3  B. **Justice–Liberty–Equality–Fraternity count 3-5-2-1, and “Federal” is not in the Preamble**  C. *Maneka* fairness  D. Grote
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: D** — US is **not** fusion; R is the Indian lock.
 
 </details>
 
-**Q56.** Emergency *ADM Jabalpur* is the anti-example of—  
-A. BIMSTEC membership  B. **Constitutionalism / Rule of Law under stress**  C. Art. 50  D. OECD
+**Q55.** Which Preamble lock is arithmetic, not philosophy?
+A. Dicey’s limb 3
+B. Justice–Liberty–Equality–Fraternity count 3-5-2-1, and “Federal” is not in the Preamble
+C. *Maneka* fairness
+D. Grote
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q57.** Which pairing is **not** correctly matched?  
-A. Legislative check on executive — no-confidence  B. Judicial check — writs  C. Executive need for later approval — ordinance  D. **Judicial check — Question Hour**
-
-<details><summary>Show answer</summary>
-
-**D** — Question Hour is **legislative**.
+**Ans: B**
 
 </details>
 
-**Q58.** Which of the following is/are correct?  
+**Q56.** Emergency *ADM Jabalpur* is the anti-example of which of the following?
+A. BIMSTEC membership
+B. Constitutionalism / Rule of Law under stress
+C. Art. 50
+D. OECD
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q57.** Which pairing is **not** correctly matched?
+A. Legislative check on executive — no-confidence
+B. Judicial check — writs
+C. Executive need for later approval — ordinance
+D. Judicial check — Question Hour
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Question Hour is **legislative**.
+
+</details>
+
+**Q58.** Which of the following is/are correct?
 1. India rejected unlimited parliamentary amending power.  
 2. *Minerva Mills* is a pillar of that rejection.  
-A. Only 1  B. Only 2  C. **Both 1 and 2**  D. Neither
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q59.** “We, the People” as the source of authority is—  
-A. Dicey’s third limb  B. **Popular sovereignty feeding constitutional supremacy**  C. Art. 50  D. NJAC
-
-<details><summary>Show answer</summary>
-
-**B** — Preamble opening.
+**Ans: C**
 
 </details>
 
-**Q60.** Best one-line map of the limitation doctrines—  
-A. India = UK sovereignty + US due-process text  B. **India = constitutional supremacy + functional SOP + Art. 21 text Japan / Maneka content**  C. India = no Rule of Law  D. India = judicial supremacy as the official name
+**Q59.** “We, the People” as the source of authority is?
+A. Dicey’s third limb
+B. Popular sovereignty feeding constitutional supremacy
+C. Art. 50
+D. NJAC
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q61.** Ambedkar spoke of constitutional morality in the CAD on—  
-A. 26 Jan 1950  B. **4 Nov 1948**  C. 24 Apr 1973  D. 42nd Amendment day
-
-<details><summary>Show answer</summary>
-
-**B** — quoting **Grote**.
+**Ans: B** — Preamble opening.
 
 </details>
 
-**Q62.** Which of the following is/are correct?  
+**Q60.** Best one-line map of the limitation doctrines?
+A. India = UK sovereignty + US due-process text
+B. India = constitutional supremacy + functional SOP + Art. 21 text Japan / Maneka content
+C. India = no Rule of Law
+D. India = judicial supremacy as the official name
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q61.** Ambedkar spoke of constitutional morality in the CAD on?
+A. 26 Jan 1950
+B. 4 Nov 1948
+C. 24 Apr 1973
+D. 42nd Amendment day
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — quoting **Grote**.
+
+</details>
+
+**Q62.** Which of the following is/are correct?
 1. *Audi alteram partem* means hear the other side.  
 2. *Nemo judex in causa sua* means no one should be a judge in his own cause.  
-A. Only 1  B. Only 2  C. **Both 1 and 2**  D. Neither
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** — natural justice poured into Art. 21 after *Maneka*.
+**Ans: C** — natural justice poured into Art. 21 after *Maneka*.
 
 </details>
 
-**Q63.** *Maneka Gandhi* (1978) arose from—  
-A. A Ninth Schedule statute  B. **Passport impounded without a hearing**  C. NJAC  D. Art. 50
+**Q63.** *Maneka Gandhi* (1978) arose from which of the following?
+A. A Ninth Schedule statute
+B. Passport impounded without a hearing
+C. NJAC
+D. Art. 50
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
 
 </details>
 
@@ -1159,162 +1415,232 @@ A. A Ninth Schedule statute  B. **Passport impounded without a hearing**  C. NJA
 **Assertion (A):** After *Maneka*, a law is no longer required to deprive a person of liberty.
 
 **Reason (R):** *Maneka* added fairness (*jus*) to the need for a valid law (*lex*).  
-A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true, R not explanation
+C. A true R false
+D. A false R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
-
-</details>
-
-**Q65.** Executive power of the Union is vested by—  
-A. Art. 50  B. **Art. 53**  C. Art. 21  D. Art. 368
-
-<details><summary>Show answer</summary>
-
-**B** — Parliament Art. **79**; SC Art. **124**.
+**Ans: D**
 
 </details>
 
-**Q66.** Which of the following is/are correct?  
+**Q65.** Executive power of the Union is vested by which of the following?
+A. Art. 50
+B. Art. 53
+C. Art. 21
+D. Art. 368
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Parliament Art. **79**; SC Art. **124**.
+
+</details>
+
+**Q66.** Which of the following is/are correct?
 1. Art. 50 is the complete Indian SOP clause.  
 2. Art. 50 is a DPSP about the judiciary and the executive in public services.  
-A. Only 1  B. **Only 2**  C. Both  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q67.** An ordinance that is not approved expires, after reassembly of the House, in—  
-A. 6 months from promulgation always  B. **6 weeks from reassembly**  C. 5 years  D. Never
-
-<details><summary>Show answer</summary>
-
-**B** — 6 weeks after reassembly.
+**Ans: B**
 
 </details>
 
-**Q68.** *Marbury v Madison* (1803) is the textbook origin of—  
-A. Dicey’s limb 3  B. **US judicial review**  C. Art. 50  D. Grote
+**Q67.** An ordinance that is not approved expires, after reassembly of the House, in which of the following?
+A. 6 months from promulgation always
+B. 6 weeks from reassembly
+C. 5 years
+D. Never
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — India writes review into **13/32/226**.
-
-</details>
-
-**Q69.** Article **13(4)** (24th Amendment) says—  
-A. Due process is inserted  B. **A constitutional amendment is not “law” under Art. 13**  C. SOP is a FR  D. 368(4) is eternal
-
-<details><summary>Show answer</summary>
-
-**B** — Basic Structure still binds **368**.
+**Ans: B** — 6 weeks after reassembly.
 
 </details>
 
-**Q70.** Which of the following is/are correct?  
+**Q68.** *Marbury v Madison* (1803) is the textbook origin of which of the following?
+A. Dicey’s limb 3
+B. US judicial review
+C. Art. 50
+D. Grote
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — India writes review into **13/32/226**.
+
+</details>
+
+**Q69.** Article **13(4)** (24th Amendment) says?
+A. Due process is inserted
+B. A constitutional amendment is not “law” under Art. 13
+C. SOP is a FR
+D. 368(4) is eternal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Basic Structure still binds **368**.
+
+</details>
+
+**Q70.** Which of the following is/are correct?
 1. 42nd Amendment inserted 368(4) and (5) to bar review of amendments.  
 2. *Minerva Mills* struck 368(4) and (5).  
-A. Only 1  B. Only 2  C. **Both 1 and 2**  D. Neither
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q71.** Rule of Law as Basic Structure is locked to—  
-A. *Gopalan* 1950  B. ***Indira Nehru Gandhi* 1975**  C. *Marbury* 1803  D. Art. 50
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C**
 
 </details>
 
-**Q72.** Which one is **not** correctly matched?  
-A. Art. 361 — President/Governor court-immunity  B. Arts. 105/194 — legislative privilege  C. Art. 33 — FRs of armed forces  D. **Art. 50 — Fundamental Right to SOP**
+**Q71.** Rule of Law as Basic Structure is locked to which of the following?
+A. *Gopalan* 1950
+B. *Indira Nehru Gandhi* 1975
+C. *Marbury* 1803
+D. Art. 50
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
-
-</details>
-
-**Q73.** NCT Delhi 2018 holding, in one line—  
-A. Delhi is a full State  B. **LG is bound by the elected Council’s aid and advice except where he has real constitutional/statutory discretion**  C. LG is the CM  D. Services are a Union List entry forever unreviewable
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q74.** Judicial review in India can target—  
-1. Ordinary statutes  2. Executive action  3. A constitutional amendment that hits Basic Structure  
-A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. **1, 2 and 3**
+**Q72.** Which one is **not** correctly matched?
+A. Art. 361 — President/Governor court-immunity
+B. Arts. 105/194 — legislative privilege
+C. Art. 33 — FRs of armed forces
+D. Art. 50 — Fundamental Right to SOP
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
-
-</details>
-
-**Q75.** CAG, EC and UPSC, as checks, are—  
-A. Extra-constitutional  B. **Constitutional offices**  C. Private NGOs  D. US 14th Amendment clones
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: D**
 
 </details>
 
-**Q76.** A welfare State, as against a police State, is locked to—  
-A. Art. 50 only  B. **Art. 38 / Part IV**  C. Dicey’s limb 3  D. Art. 54
+**Q73.** NCT Delhi 2018 holding, in one line?
+A. Delhi is a full State
+B. LG is bound by the elected Council’s aid and advice except where he has real constitutional/statutory discretion
+C. LG is the CM
+D. Services are a Union List entry forever unreviewable
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q77.** Article **38(2)** (minimise inequalities) was added by the—  
-A. 42nd  B. **44th**  C. 1st  D. 73rd
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q78.** Which of the following is/are correct?  
+**Q74.** Judicial review in India can target?
+1. Ordinary statutes
+2. Executive action
+3. A constitutional amendment that hits Basic Structure
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q75.** CAG, EC and UPSC, as checks, are?
+A. Extra-constitutional
+B. Constitutional offices
+C. Private NGOs
+D. US 14th Amendment clones
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q76.** A welfare State, as against a police State, is locked to which of the following?
+A. Art. 50 only
+B. Art. 38 / Part IV
+C. Dicey’s limb 3
+D. Art. 54
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q77.** Article **38(2)** (minimise inequalities) was added by the?
+A. 42nd
+B. 44th
+C. 1st
+D. 73rd
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q78.** Which of the following is/are correct?
 1. DPSPs are enforceable as Fundamental Rights.  
 2. Art. 37 still calls them fundamental in governance.  
-A. Only 1  B. **Only 2**  C. Both  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q79.** “Socialist” entered the Preamble by the—  
-A. 44th  B. **42nd**  C. 1st  D. 24th
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q80.** Indian constitutional socialism is—  
-A. Marxist one-party rule  B. **Democratic / mixed-economy socialism**  C. A repeal of Part III  D. OECD membership
+**Q79.** “Socialist” entered the Preamble by the?
+A. 44th
+B. 42nd
+C. 1st
+D. 24th
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
+
+</details>
+
+**Q80.** Indian constitutional socialism is?
+A. Marxist one-party rule
+B. Democratic / mixed-economy socialism
+C. A repeal of Part III
+D. OECD membership
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
 
 </details>
 
@@ -1323,96 +1649,136 @@ A. Marxist one-party rule  B. **Democratic / mixed-economy socialism**  C. A rep
 **Assertion (A):** The 1991 reforms deleted “Socialist” from the Preamble.
 
 **Reason (R):** The word was inserted by the 42nd Amendment.  
-A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true, R not explanation
+C. A true R false
+D. A false R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
-
-</details>
-
-**Q82.** Right to Property ceased to be a Fundamental Right by the—  
-A. 42nd  B. **44th**  C. 1st  D. 24th
-
-<details><summary>Show answer</summary>
-
-**B** — now Art. **300A**.
+**Ans: D**
 
 </details>
 
-**Q83.** Indian secularism is best tagged—  
-A. US wall of separation  B. **Positive / equal respect; State may reform under 25(2)**  C. Official Hindu State  D. 42nd invented Arts. 25–28
+**Q82.** Right to Property ceased to be a Fundamental Right by the?
+A. 42nd
+B. 44th
+C. 1st
+D. 24th
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B** — now Art. **300A**.
 
 </details>
 
-**Q84.** Which of the following is/are correct?  
+**Q83.** Indian secularism is best tagged?
+A. US wall of separation
+B. Positive / equal respect; State may reform under 25(2)
+C. Official Hindu State
+D. 42nd invented Arts. 25–28
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q84.** Which of the following is/are correct?
 1. The word “Secular” was added by the 42nd.  
 2. Arts. 25–28 existed from 1950.  
-A. Only 1  B. Only 2  C. **Both 1 and 2**  D. Neither
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q85.** *S.R. Bommai* (1994) is the lock that—  
-A. Invented judicial review  B. **Secularism is Basic Structure**  C. Created Art. 21  D. Added Socialist to the Preamble
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C**
 
 </details>
 
-**Q86.** Art. **27** bars—  
-A. All religious speech  B. **Taxes for promotion of a particular religion**  C. Art. 25(2) reform  D. UAF
+**Q85.** *S.R. Bommai* (1994) is the lock that?
+A. Invented judicial review
+B. Secularism is Basic Structure
+C. Created Art. 21
+D. Added Socialist to the Preamble
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q87.** Democracy in the Indian Constitution is primarily—  
-A. Direct Athenian assembly  B. **Representative + parliamentary, based on UAF**  C. Monarchy with a ballot  D. Dicey’s limb 3
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q88.** Free and fair elections as Basic Structure is locked to—  
-A. *Gopalan*  B. ***Indira Nehru Gandhi* 1975**  C. *Marbury*  D. Art. 50
+**Q86.** Art. **27** bars?
+A. All religious speech
+B. Taxes for promotion of a particular religion
+C. Art. 25(2) reform
+D. UAF
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q89.** A **Republic** means the Head of State is—  
-A. Hereditary  B. **Elected**  C. The CJI  D. The UK monarch
-
-<details><summary>Show answer</summary>
-
-**B** — elected MPs + elected MLAs; nominated out.
+**Ans: B**
 
 </details>
 
-**Q90.** Which of the following is/are correct?  
+**Q87.** Democracy in the Indian Constitution is primarily?
+A. Direct Athenian assembly
+B. Representative + parliamentary, based on UAF
+C. Monarchy with a ballot
+D. Dicey’s limb 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q88.** Free and fair elections as Basic Structure is locked to which of the following?
+A. *Gopalan*
+B. *Indira Nehru Gandhi* 1975
+C. *Marbury*
+D. Art. 50
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q89.** A **Republic** means the Head of State is?
+A. Hereditary
+B. Elected
+C. The CJI
+D. The UK monarch
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — elected MPs + elected MLAs; nominated out.
+
+</details>
+
+**Q90.** Which of the following is/are correct?
 1. The UK is a democracy.  
 2. The UK is a republic.  
-A. **Only 1**  B. Only 2  C. Both  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — monarch ≠ republic.
+**Ans: A** — monarch ≠ republic.
 
 </details>
 
@@ -1421,138 +1787,194 @@ A. **Only 1**  B. Only 2  C. Both  D. Neither
 **Assertion (A):** “Republic” was added to the Preamble by the 42nd Amendment.
 
 **Reason (R):** “Socialist” and “Secular” were added by the 42nd.  
-A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true, R not explanation
+C. A true R false
+D. A false R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
-
-</details>
-
-**Q92.** The three kinds of Justice in the Preamble are—  
-A. Civil, criminal, military  B. **Social, economic, political**  C. Federal, unitary, quasi  D. Thought, expression, belief
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: D**
 
 </details>
 
-**Q93.** Match List-I with List-II.  
+**Q92.** The three kinds of Justice in the Preamble are?
+A. Civil, criminal, military
+B. Social, economic, political
+C. Federal, unitary, quasi
+D. Thought, expression, belief
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q93.** Match List-I with List-II.
 | List-I | List-II |
 |--------|---------|
 | a. Social justice | 1. Arts. 325–326 |
 | b. Economic justice | 2. Arts. 15, 17 |
 | c. Political justice | 3. Art. 39 |
 
-A. a-1 b-2 c-3  B. **a-2 b-3 c-1**  C. a-3 b-1 c-2  D. a-2 b-1 c-3
+A. a-1 b-2 c-3
+B. a-2 b-3 c-1
+C. a-3 b-1 c-2
+D. a-2 b-1 c-3
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q94.** Preamble liberty has how many named components?  
-A. 6  B. **5**  C. 3  D. 2
-
-<details><summary>Show answer</summary>
-
-**B** — thought, expression, belief, faith, worship.
+**Ans: B**
 
 </details>
 
-**Q95.** Which of the following is/are correct?  
+**Q94.** Preamble liberty has how many named components?
+A. 6
+B. 5
+C. 3
+D. 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — thought, expression, belief, faith, worship.
+
+</details>
+
+**Q95.** Which of the following is/are correct?
 1. Preamble liberty lists five components.  
 2. Art. 19(1) lists six freedoms.  
-A. Only 1  B. Only 2  C. **Both 1 and 2**  D. Neither
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** — different lists.
-
-</details>
-
-**Q96.** Belief, faith and worship in the Preamble work mainly through—  
-A. Art. 50  B. **Arts. 25–28**  C. Art. 54  D. Art. 368
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C** — different lists.
 
 </details>
 
-**Q97.** Equality in the Preamble is of—  
-A. Thought and expression  B. **Status and opportunity**  C. Worship and faith  D. Six Art. 19 freedoms
+**Q96.** Belief, faith and worship in the Preamble work mainly through?
+A. Art. 50
+B. Arts. 25–28
+C. Art. 54
+D. Art. 368
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q98.** Equality of **opportunity** in public employment is—  
-A. Art. 14 for all persons  B. **Art. 16, citizens**  C. Art. 17  D. Art. 21
-
-<details><summary>Show answer</summary>
-
-**B** — 14 = all persons; 16 = citizens only.
+**Ans: B**
 
 </details>
 
-**Q99.** Which of the following is/are correct?  
+**Q97.** Equality in the Preamble is of which of the following?
+A. Thought and expression
+B. Status and opportunity
+C. Worship and faith
+D. Six Art. 19 freedoms
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q98.** Equality of **opportunity** in public employment is?
+A. Art. 14 for all persons
+B. Art. 16, citizens
+C. Art. 17
+D. Art. 21
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — 14 = all persons; 16 = citizens only.
+
+</details>
+
+**Q99.** Which of the following is/are correct?
 1. Art. 14 covers citizens and non-citizens.  
 2. Art. 16 covers only citizens.  
-A. Only 1  B. Only 2  C. **Both 1 and 2**  D. Neither
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q100.** Ambedkar’s CAD lock: without fraternity, liberty and equality are—  
-A. Fundamental Duties  B. **A coat of paint**  C. Art. 50  D. 42nd inserts
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C**
 
 </details>
 
-**Q101.** Fraternity in the Preamble assures—  
-A. Only dignity  B. Only unity  C. **Dignity of the individual and unity and integrity of the Nation**  D. Federalism as a Preamble word
+**Q100.** Ambedkar’s CAD lock: without fraternity, liberty and equality are?
+A. Fundamental Duties
+B. A coat of paint
+C. Art. 50
+D. 42nd inserts
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q102.** “Integrity” entered the Preamble’s fraternity clause by the—  
-A. 44th  B. **42nd**  C. 16th  D. 1st
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q103.** Art. **51A(c)** is the duty to uphold—  
-A. Only cottage industry  B. **Sovereignty, unity and integrity of India**  C. Art. 50  D. OECD
+**Q101.** Fraternity in the Preamble assures?
+A. Only dignity
+B. Only unity
+C. Dignity of the individual and unity and integrity of the Nation
+D. Federalism as a Preamble word
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: C**
 
 </details>
 
-**Q104.** Which one is **not** correctly matched?  
-A. Welfare — Art. 38  B. Secular code — Arts. 25–28  C. Republic — elected Head  D. **Federal — a Preamble word**
+**Q102.** “Integrity” entered the Preamble’s fraternity clause by the?
+A. 44th
+B. 42nd
+C. 16th
+D. 1st
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
+**Ans: B**
+
+</details>
+
+**Q103.** Art. **51A(c)** is the duty to uphold?
+A. Only cottage industry
+B. Sovereignty, unity and integrity of India
+C. Art. 50
+D. OECD
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q104.** Which one is **not** correctly matched?
+A. Welfare — Art. 38
+B. Secular code — Arts. 25–28
+C. Republic — elected Head
+D. Federal — a Preamble word
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
 
 </details>
 
@@ -1561,105 +1983,149 @@ A. Welfare — Art. 38  B. Secular code — Arts. 25–28  C. Republic — elect
 **Assertion (A):** Indian secularism forbids the State from regulating any religious institution.
 
 **Reason (R):** Art. 25(2) allows regulation of secular activity associated with religion.  
-A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true, R not explanation
+C. A true R false
+D. A false R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
-
-</details>
-
-**Q106.** Political justice is closest to—  
-A. Art. 17  B. **Universal adult franchise / Arts. 325–326**  C. Art. 48A  D. Art. 31C
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: D**
 
 </details>
 
-**Q107.** Economic justice is closest to—  
-A. Art. 54  B. **Art. 39 (livelihood, resources, no concentration of wealth)**  C. Art. 124  D. Montesquieu
+**Q106.** Political justice is closest to which of the following?
+A. Art. 17
+B. Universal adult franchise / Arts. 325–326
+C. Art. 48A
+D. Art. 31C
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
 
 </details>
 
-**Q108.** Which of the following is/are correct?  
+**Q107.** Economic justice is closest to which of the following?
+A. Art. 54
+B. Art. 39 (livelihood, resources, no concentration of wealth)
+C. Art. 124
+D. Montesquieu
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q108.** Which of the following is/are correct?
 1. India is a democracy.  
 2. India is a republic.  
-A. Only 1  B. Only 2  C. **Both 1 and 2**  D. Neither
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q109.** Dignity of the individual, as a Preamble promise, is also read into—  
-A. Art. 50  B. **Art. 21**  C. Art. 393  D. Art. 54
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C**
 
 </details>
 
-**Q110.** 16th Amendment’s “integrity” lock on liberty is that it—  
-A. Added Secular to the Preamble  B. **Put sovereignty and integrity into Art. 19 restriction grounds**  C. Created Art. 21A  D. Struck *Bommai*
+**Q109.** Dignity of the individual, as a Preamble promise, is also read into?
+A. Art. 50
+B. Art. 21
+C. Art. 393
+D. Art. 54
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q111.** Arrange: 1. Part IV commences (1950)  2. 42nd names Socialist/Secular  3. 44th adds 38(2)  4. *Bommai*  
-A. 2-1-3-4  B. **1-2-3-4**  C. 1-2-4-3  D. 1-3-2-4
-
-<details><summary>Show answer</summary>
-
-**B** — 1950 → 1976 → 1978 → 1994.
+**Ans: B**
 
 </details>
 
-**Q112.** Which one is **not** correctly matched?  
-A. Police State — law and order only  B. Welfare State — socio-economic goals  C. Positive secularism — equal respect  D. **Preamble liberty — six Art. 19 freedoms**
+**Q110.** 16th Amendment’s “integrity” lock on liberty is that it?
+A. Added Secular to the Preamble
+B. Put sovereignty and integrity into Art. 19 restriction grounds
+C. Created Art. 21A
+D. Struck *Bommai*
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
-
-</details>
-
-**Q113.** Avadi (1955) “socialistic pattern” is—  
-A. A Preamble amendment  B. **Political colour; not an article**  C. Art. 50  D. 73rd Amd
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q114.** Which of the following is/are correct?  
+**Q111.** Arrange the following in chronological order: 1. Part IV commences (1950)  2. 42nd names Socialist/Secular  3. 44th adds 38(2)  4. *Bommai*
+A. 2-1-3-4
+B. 1-2-3-4
+C. 1-2-4-3
+D. 1-3-2-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — 1950 → 1976 → 1978 → 1994.
+
+</details>
+
+**Q112.** Which one is **not** correctly matched?
+A. Police State — law and order only
+B. Welfare State — socio-economic goals
+C. Positive secularism — equal respect
+D. Preamble liberty — six Art. 19 freedoms
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q113.** Avadi (1955) “socialistic pattern” is?
+A. A Preamble amendment
+B. Political colour; not an article
+C. Art. 50
+D. 73rd Amd
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q114.** Which of the following is/are correct?
 1. Part IV existed before the word “Socialist” was printed in the Preamble.  
 2. Arts. 25–28 existed before the word “Secular” was printed in the Preamble.  
-A. Only 1  B. Only 2  C. **Both 1 and 2**  D. Neither
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
+**Ans: C**
 
 </details>
 
-**Q115.** Uniform Civil Code, as a secular-civil cousin, sits in—  
-A. Art. 25 as a FR  B. **Art. 44 DPSP**  C. Art. 54  D. The Preamble as a sixth liberty
+**Q115.** Uniform Civil Code, as a secular-civil cousin, sits in which of the following?
+A. Art. 25 as a FR
+B. Art. 44 DPSP
+C. Art. 54
+D. The Preamble as a sixth liberty
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — UCC = Art. **44** (DPSP), not a FR.
+**Ans: B** — UCC = Art. **44** (DPSP), not a FR.
 
 </details>
 
@@ -1668,76 +2134,108 @@ A. Art. 25 as a FR  B. **Art. 44 DPSP**  C. Art. 54  D. The Preamble as a sixth 
 **Assertion (A):** The Preamble is directly enforceable like Article 14.
 
 **Reason (R):** *Kesavananda* held the Preamble is part of the Constitution.  
-A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true, R not explanation
+C. A true R false
+D. A false R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
-
-</details>
-
-**Q117.** Social justice is closest to—  
-A. Art. 54  B. **Arts. 15 and 17**  C. Art. 123  D. Art. 393
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: D**
 
 </details>
 
-**Q118.** “We, the People” is the lock for—  
-A. Dicey’s limb 3  B. **Popular sovereignty**  C. Art. 50  D. US 5th Amendment
+**Q117.** Social justice is closest to which of the following?
+A. Art. 54
+B. Arts. 15 and 17
+C. Art. 123
+D. Art. 393
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q119.** Which pairing is **not** correctly matched?  
-A. Status — Arts. 14/15/17  B. Opportunity — Art. 16  C. Worship — Arts. 25–28  D. **Republic — hereditary Head**
-
-<details><summary>Show answer</summary>
-
-**D**
+**Ans: B**
 
 </details>
 
-**Q120.** Local self-government as a democracy deepening is—  
-A. A Preamble sixth word  B. **73rd / 74th — local self-government**  C. Art. 21 *Gopalan*  D. OECD
+**Q118.** “We, the People” is the lock for which of the following?
+A. Dicey’s limb 3
+B. Popular sovereignty
+C. Art. 50
+D. US 5th Amendment
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
 
 </details>
 
-**Q121.** Which of the following is/are correct?  
+**Q119.** Which pairing is **not** correctly matched?
+A. Status — Arts. 14/15/17
+B. Opportunity — Art. 16
+C. Worship — Arts. 25–28
+D. Republic — hereditary Head
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q120.** Local self-government as a democracy deepening is?
+A. A Preamble sixth word
+B. 73rd / 74th — local self-government
+C. Art. 21 *Gopalan*
+D. OECD
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q121.** Which of the following is/are correct?
 1. *Bommai* makes secularism justiciable as Basic Structure.  
 2. That holding repealed Arts. 25–28.  
-A. **Only 1**  B. Only 2  C. Both  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
-
-</details>
-
-**Q122.** Art. **28(1)** bars religious instruction in—  
-A. Every private school  B. **Wholly State-funded educational institutions**  C. Art. 30 minority schools as a blanket ban  D. Parliament
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: A**
 
 </details>
 
-**Q123.** The first among the four Preamble *ideals* (Justice, Liberty, Equality, Fraternity) is—  
-A. Liberty  B. **Justice**  C. Equality  D. Fraternity
+**Q122.** Art. **28(1)** bars religious instruction in which of the following?
+A. Every private school
+B. Wholly State-funded educational institutions
+C. Art. 30 minority schools as a blanket ban
+D. Parliament
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
+
+</details>
+
+**Q123.** The first among the four Preamble *ideals* (Justice, Liberty, Equality, Fraternity) is?
+A. Liberty
+B. Justice
+C. Equality
+D. Fraternity
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
 
 </details>
 
@@ -1746,49 +2244,69 @@ A. Liberty  B. **Justice**  C. Equality  D. Fraternity
 **Assertion (A):** India is a democratic republic.
 
 **Reason (R):** The President of India is a hereditary monarch advised by the PM.  
-A. Both true and R explains A  B. Both true, R not explanation  C. **A true R false**  D. A false R true
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true, R not explanation
+C. A true R false
+D. A false R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q125.** Best one-line map of the Preamble ideals—  
-A. 42nd invented Part III and Part IV  B. **42nd named Socialist/Secular/integrity; welfare = Art. 38; secularism = positive + Bommai; JLEF meanings ≠ the 3-5-2-1 Preamble counts**  C. India is a UK-style monarchy  D. Preamble liberty = six Art. 19 freedoms
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C**
 
 </details>
 
-**Q126.** Political sovereignty in India rests with—  
-A. The British Crown  B. **The people**  C. The UK Parliament  D. Art. 50
+**Q125.** Best one-line map of the Preamble ideals?
+A. 42nd invented Part III and Part IV
+B. 42nd named Socialist/Secular/integrity; welfare = Art. 38; secularism = positive + Bommai; JLEF meanings ≠ the 3-5-2-1 Preamble counts
+C. India is a UK-style monarchy
+D. Preamble liberty = six Art. 19 freedoms
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — legal sovereignty = the **Constitution**.
+**Ans: B**
 
 </details>
 
-**Q127.** Which of the following is/are correct?  
+**Q126.** Political sovereignty in India rests with which of the following?
+A. The British Crown
+B. The people
+C. The UK Parliament
+D. Art. 50
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — legal sovereignty = the **Constitution**.
+
+</details>
+
+**Q127.** Which of the following is/are correct?
 1. Internal sovereignty = supreme inside the territory.  
 2. UN membership repeals India’s external sovereignty.  
-A. **Only 1**  B. Only 2  C. Both  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
+**Ans: A**
 
 </details>
 
-**Q128.** Constituent power is parked mainly in—  
-A. Art. 245  B. **Art. 368**  C. Art. 50  D. Art. 21
+**Q128.** Constituent power is parked mainly in which of the following?
+A. Art. 245
+B. Art. 368
+C. Art. 50
+D. Art. 21
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — still under Basic Structure.
+**Ans: B** — still under Basic Structure.
 
 </details>
 
@@ -1797,114 +2315,162 @@ A. Art. 245  B. **Art. 368**  C. Art. 50  D. Art. 21
 **Assertion (A):** Article 368 is unlimited because it is constituent power.
 
 **Reason (R):** *Kesavananda* held that constituent power cannot destroy Basic Structure.  
-A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true, R not explanation
+C. A true R false
+D. A false R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
-
-</details>
-
-**Q130.** Preamble liberty does **not** name—  
-A. Thought  B. Worship  C. **Person / body**  D. Expression
-
-<details><summary>Show answer</summary>
-
-**C** — that is Art. **21**.
+**Ans: D**
 
 </details>
 
-**Q131.** Which of the following is/are correct?  
+**Q130.** Preamble liberty does **not** name?
+A. Thought
+B. Worship
+C. Person / body
+D. Expression
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — that is Art. **21**.
+
+</details>
+
+**Q131.** Which of the following is/are correct?
 1. “Thought” is a numbered clause of Art. 19(1).  
 2. Art. 19(1)(a) is speech and expression.  
-A. Only 1  B. **Only 2**  C. Both  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q132.** The French revolutionary triad was Liberty, Equality, Fraternity. India—  
-A. Copied it exactly  B. **Prefixes Justice**  C. Dropped Fraternity  D. Added Federal as a fifth
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q133.** *Sarva Dharma Sambhava* is the tag for—  
-A. US wall  B. **Indian positive secularism**  C. Dicey’s limb 3  D. Art. 50
+**Q132.** The French revolutionary triad was Liberty, Equality, Fraternity. India?
+A. Copied it exactly
+B. Prefixes Justice
+C. Dropped Fraternity
+D. Added Federal as a fifth
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q134.** Secular character as Basic Structure was already listed in—  
-A. *Gopalan* only  B. ***Kesavananda* 1973** (applied to politics in *Bommai* 1994)  C. 1st Amd  D. Art. 393
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q135.** 16th Amendment (1963) put “integrity” into—  
-A. The Preamble only  B. **Art. 19 restriction grounds and 3rd Schedule oaths**  C. Art. 21 text  D. Art. 50
+**Q133.** *Sarva Dharma Sambhava* is the tag for which of the following?
+A. US wall
+B. Indian positive secularism
+C. Dicey’s limb 3
+D. Art. 50
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — Preamble print of integrity = **42nd**.
+**Ans: B**
 
 </details>
 
-**Q136.** Which of the following is/are correct?  
+**Q134.** Secular character as Basic Structure was already listed in which of the following?
+A. *Gopalan* only
+B. ***Kesavananda* 1973** (applied to politics in *Bommai* 1994)
+C. 1st Amd
+D. Art. 393
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q135.** 16th Amendment (1963) put “integrity” into?
+A. The Preamble only
+B. Art. 19 restriction grounds and 3rd Schedule oaths
+C. Art. 21 text
+D. Art. 50
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Preamble print of integrity = **42nd**.
+
+</details>
+
+**Q136.** Which of the following is/are correct?
 1. Equality in the Preamble is of status and opportunity.  
 2. It is equality of outcome as a sixth Preamble word.  
-A. **Only 1**  B. Only 2  C. Both  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
-
-</details>
-
-**Q137.** “One person, one vote, one value” is the slogan of—  
-A. Art. 50  B. **Political justice / political democracy**  C. OECD  D. *Gopalan*
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: A**
 
 </details>
 
-**Q138.** Which one is **not** correctly matched?  
-A. Political sovereignty — people  B. Legal sovereignty (India) — Constitution  C. Legal sovereignty (classic UK) — Parliament  D. **Preamble liberty — liberty of person**
+**Q137.** “One person, one vote, one value” is the slogan of which of the following?
+A. Art. 50
+B. Political justice / political democracy
+C. OECD
+D. *Gopalan*
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
-
-</details>
-
-**Q139.** Arts. 15 and 29–30, as secularism’s other face—  
-A. Repeal Art. 25  B. **No religious discrimination + minority cultural/educational rights**  C. US First Amendment clones  D. 42nd inventions
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q140.** Legislative power “subject to this Constitution” is the language of—  
-A. Art. 50  B. **Art. 245**  C. Art. 393  D. Art. 21’s Japan clause
+**Q138.** Which one is **not** correctly matched?
+A. Political sovereignty — people
+B. Legal sovereignty (India) — Constitution
+C. Legal sovereignty (classic UK) — Parliament
+D. Preamble liberty — liberty of person
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: D**
+
+</details>
+
+**Q139.** Arts. 15 and 29–30, as secularism’s other face?
+A. Repeal Art. 25
+B. No religious discrimination + minority cultural/educational rights
+C. US First Amendment clones
+D. 42nd inventions
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q140.** Legislative power “subject to this Constitution” is the language of which of the following?
+A. Art. 50
+B. Art. 245
+C. Art. 393
+D. Art. 21’s Japan clause
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
 
 </details>
 

@@ -199,7 +199,10 @@ Trap: UP LC = 1/3 of 403 = 134. **The cap is 134; the actual House is 100.** Tra
 1. Uttar Pradesh has 31 seats allotted for Rajya Sabha.  
 2. Eighty members of the Lok Sabha are elected from Uttar Pradesh.
 
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither
 
 <details>
 <summary>Show answer</summary>
@@ -465,309 +468,443 @@ Newest first. One event, one lock.
 
 ## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden.** **155 questions.** ≥60% multi-statement / application. Mix: A/R, Match List, chronology, NOT-correctly-matched.
+> **Answers hidden.** Full stems (not cryptic stubs). **155 questions.** ≥60% multi-statement / application. Mix: A/R, Match List, chronology, NOT-correctly-matched.
 
-**Q1.** The strength of the Uttar Pradesh Legislative Assembly is—  
-A. 500  B. 425  C. **403**  D. 70
+**Q1.** The strength of the Uttar Pradesh Legislative Assembly is?
+A. 500
+B. 425
+C. 403
+D. 70
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q2.** Which pair is **NOT** correctly matched?  
-A. Manipur — 62  B. Goa — 40  C. Uttar Pradesh — 403  D. Uttarakhand — 70
-
-<details><summary>Show answer</summary>
-
-**A** — Manipur **60**.
+**Ans: C**
 
 </details>
 
-**Q3.** UP Legislative Council has—  
-A. 134 members  B. **100**  C. 40  D. 403
+**Q2.** Which pair is **NOT** correctly matched?
+A. Manipur — 62
+B. Goa — 40
+C. Uttar Pradesh — 403
+D. Uttarakhand — 70
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: A** — Manipur **60**.
 
 </details>
 
-**Q4.** Which of the following is/are correct?  
+**Q3.** UP Legislative Council has?
+A. 134 members
+B. 100
+C. 40
+D. 403
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q4.** Which of the following is/are correct?
 1. UP has 31 Rajya Sabha seats.  
 2. 80 Lok Sabha members are elected from UP.  
-A. Only 1  B. Only 2  C. **Both**  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q5.** Before 9 November 2000, UP’s Lok Sabha seats were—  
-A. 80  B. **85**  C. 84  D. 70
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C**
 
 </details>
 
-**Q6.** Before 9 November 2000, UP’s Rajya Sabha seats were—  
-A. 31  B. **34**  C. 19  D. 12
+**Q5.** Before 9 November 2000, UP’s Lok Sabha seats were?
+A. 80
+B. 85
+C. 84
+D. 70
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q7.** First Governor of the United Provinces / UP—  
-A. G.B. Pant  B. **Sarojini Naidu**  C. Sucheta Kripalani  D. Walter Morgan
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q8.** First Chief Minister of UP—  
-A. Sarojini Naidu  B. **Govind Ballabh Pant**  C. Sucheta Kripalani  D. Sampurnanand
+**Q6.** Before 9 November 2000, UP’s Rajya Sabha seats were?
+A. 31
+B. 34
+C. 19
+D. 12
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q9.** Raj Bhavan of Uttar Pradesh is in—  
-A. Prayagraj  B. **Lucknow**  C. Agra  D. Nainital
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q10.** Principal seat of the Allahabad High Court—  
-A. Lucknow  B. **Prayagraj**  C. Agra (still)  D. Nainital
+**Q7.** First Governor of the United Provinces / UP?
+A. G.B. Pant
+B. Sarojini Naidu
+C. Sucheta Kripalani
+D. Walter Morgan
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q11.** Allahabad High Court Letters Patent date / year—  
-A. 1862  B. **17 March 1866**  C. 1869  D. 1948
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q12.** The High Court for the North-Western Provinces first sat at—  
-A. Allahabad  B. **Agra**  C. Lucknow  D. Kanpur
+**Q8.** First Chief Minister of UP?
+A. Sarojini Naidu
+B. Govind Ballabh Pant
+C. Sucheta Kripalani
+D. Sampurnanand
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q13.** The Court moved from Agra to Allahabad in—  
-A. 1866  B. **1869**  C. 1919  D. 1948
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q14.** Lucknow Bench was created in—  
-A. 1866  B. 1925 as a Bench  C. **1948 (Amalgamation Order — Oudh Chief Court merged)**  D. 2000
+**Q9.** Raj Bhavan of Uttar Pradesh is in which of the following?
+A. Prayagraj
+B. Lucknow
+C. Agra
+D. Nainital
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** — Chief Court of Oudh itself dates from **1925**.
+**Ans: B**
 
 </details>
 
-**Q15.** Which of the following is/are correct about the Allahabad High Court?  
+**Q10.** Principal seat of the Allahabad High Court?
+A. Lucknow
+B. Prayagraj
+C. Agra (still)
+D. Nainital
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q11.** Allahabad High Court Letters Patent date / year?
+A. 1862
+B. 17 March 1866
+C. 1869
+D. 1948
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q12.** The High Court for the North-Western Provinces first sat at?
+A. Allahabad
+B. Agra
+C. Lucknow
+D. Kanpur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q13.** The Court moved from Agra to Allahabad in which of the following?
+A. 1866
+B. 1869
+C. 1919
+D. 1948
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q14.** Lucknow Bench was created in which of the following?
+A. 1866
+B. 1925 as a Bench
+C. 1948 (Amalgamation Order — Oudh Chief Court merged)
+D. 2000
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Chief Court of Oudh itself dates from **1925**.
+
+</details>
+
+**Q15.** Which of the following is/are correct about the Allahabad High Court?
 1. Established 1866.  
 2. Permanent Bench at Lucknow.  
-A. Only 1  B. Only 2  C. **Both**  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q16.** Sanctioned strength of the Allahabad High Court is the largest in India, about—  
-A. 80  B. 100  C. **160**  D. 403
-
-<details><summary>Show answer</summary>
-
-**C**
+**Ans: C**
 
 </details>
 
-**Q17.** First Chief Justice of the Allahabad High Court—  
-A. Sarojini Naidu  B. **Walter Morgan**  C. Patanjali Sastri  D. Kania
+**Q16.** Sanctioned strength of the Allahabad High Court is the largest in India, about?
+A. 80
+B. 100
+C. 160
+D. 403
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q18.** Official language of Uttar Pradesh is—  
-A. Urdu  B. **Hindi in Devanagari**  C. English only  D. Hindustani as a named article
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C**
 
 </details>
 
-**Q19.** Urdu became the second official language of UP in—  
-A. 1950  B. 1951  C. **1989**  D. 2000
+**Q17.** First Chief Justice of the Allahabad High Court?
+A. Sarojini Naidu
+B. Walter Morgan
+C. Patanjali Sastri
+D. Kania
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q20.** Uttarakhand was created on—  
-A. 1 Nov 2000  B. **9 Nov 2000**  C. 15 Nov 2000  D. 1 Jan 2007
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q21.** 1 November 2000 is the birth of—  
-A. Uttarakhand  B. **Chhattisgarh**  C. Jharkhand  D. Telangana
+**Q18.** Official language of Uttar Pradesh is?
+A. Urdu
+B. Hindi in Devanagari
+C. English only
+D. Hindustani as a named article
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q22.** Uttaranchal was renamed Uttarakhand on—  
-A. 9 Nov 2000  B. **1 Jan 2007**  C. 15 Aug 2000  D. 26 Jan 2007
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q23.** After reorganisation, Uttarakhand’s Legislative Assembly strength is—  
-A. 403  B. **70**  C. 60  D. 80
+**Q19.** Urdu became the second official language of UP in which of the following?
+A. 1950
+B. 1951
+C. 1989
+D. 2000
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q24.** Uttar Pradesh has how many Commissioner divisions?  
-A. 17  B. **18**  C. 75  D. 4
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C**
 
 </details>
 
-**Q25.** Number of districts in Uttar Pradesh (the number the paper uses)—  
-A. 70  B. **75**  C. 83  D. 18
+**Q20.** Uttarakhand was created on?
+A. 1 Nov 2000
+B. 9 Nov 2000
+C. 15 Nov 2000
+D. 1 Jan 2007
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q26.** Devipatan division’s headquarters is—  
-A. Lucknow  B. **Gonda**  C. Ayodhya  D. Bahraich
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q27.** Which of the following is/are in Devipatan division?  
-1. Gonda  2. Shravasti  3. Ayodhya  
-A. **1 and 2**  B. 1 and 3  C. 2 and 3  D. All three
+**Q21.** 1 November 2000 is the birth of which of the following?
+A. Uttarakhand
+B. Chhattisgarh
+C. Jharkhand
+D. Telangana
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — Ayodhya is its **own** division.
-
-</details>
-
-**Q28.** Faizabad division is now named—  
-A. Devipatan  B. **Ayodhya**  C. Basti  D. Prayagraj
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q29.** UP Legislative Council composition: Governor nominates—  
-A. 36  B. 8  C. **12**  D. 16
+**Q22.** Uttaranchal was renamed Uttarakhand on?
+A. 9 Nov 2000
+B. 1 Jan 2007
+C. 15 Aug 2000
+D. 26 Jan 2007
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q30.** Graduates and teachers on the UP LC are—  
-A. 36 each  B. **8 each**  C. 12 each  D. 1/3 each
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q31.** Which of the following is/are correct?  
+**Q23.** After reorganisation, Uttarakhand’s Legislative Assembly strength is?
+A. 403
+B. 70
+C. 60
+D. 80
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q24.** Uttar Pradesh has how many Commissioner divisions?
+A. 17
+B. 18
+C. 75
+D. 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q25.** Number of districts in Uttar Pradesh (the number the paper uses)?
+A. 70
+B. 75
+C. 83
+D. 18
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q26.** Devipatan division’s headquarters is?
+A. Lucknow
+B. Gonda
+C. Ayodhya
+D. Bahraich
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q27.** Which of the following is/are in Devipatan division?
+1. Gonda
+2. Shravasti
+3. Ayodhya
+A. 1 and 2
+B. 1 and 3
+C. 2 and 3
+D. All three
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Ayodhya is its **own** division.
+
+</details>
+
+**Q28.** Faizabad division is now named?
+A. Devipatan
+B. Ayodhya
+C. Basti
+D. Prayagraj
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q29.** UP Legislative Council composition: Governor nominates?
+A. 36
+B. 8
+C. 12
+D. 16
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q30.** Graduates and teachers on the UP LC are?
+A. 36 each
+B. 8 each
+C. 12 each
+D. 1/3 each
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q31.** Which of the following is/are correct?
 1. 36 UP LC seats are filled by MLAs (from non-MLAs).  
 2. 36 UP LC seats are filled by local bodies.  
-A. Only 1  B. Only 2  C. **Both**  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q32.** A State Legislative Council—  
-A. Can be dissolved by the Governor  B. **Can be abolished under Art. 169, not dissolved**  C. Lasts 5 years  D. Has a maximum of 500 members
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C**
 
 </details>
 
-**Q33.** Six bicameral States include UP and—  
-A. Tamil Nadu, Punjab, West Bengal  B. **Andhra Pradesh, Bihar, Karnataka, Maharashtra, Telangana**  C. Kerala, Odisha, Gujarat  D. All States with a High Court Bench
+**Q32.** A State Legislative Council?
+A. Can be dissolved by the Governor
+B. Can be abolished under Art. 169, not dissolved
+C. Lasts 5 years
+D. Has a maximum of 500 members
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
+
+</details>
+
+**Q33.** Six bicameral States include UP and?
+A. Tamil Nadu, Punjab, West Bengal
+B. Andhra Pradesh, Bihar, Karnataka, Maharashtra, Telangana
+C. Kerala, Odisha, Gujarat
+D. All States with a High Court Bench
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
 
 </details>
 
@@ -776,11 +913,15 @@ A. Tamil Nadu, Punjab, West Bengal  B. **Andhra Pradesh, Bihar, Karnataka, Mahar
 **Assertion (A):** The Uttar Pradesh Legislative Assembly has 500 members because Article 170 fixes 500.
 
 **Reason (R):** Article 170 sets a maximum of 500 elected members.  
-A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true, R not explanation
+C. A true R false
+D. A false R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D** — UP is **403**.
+**Ans: D** — UP is **403**.
 
 </details>
 
@@ -789,142 +930,198 @@ A. Both true and R explains A  B. Both true, R not explanation  C. A true R fals
 **Assertion (A):** Lucknow has its own High Court, separate from Allahabad.
 
 **Reason (R):** The 1948 Amalgamation Order made Lucknow a permanent Bench of the Allahabad High Court.  
-A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true, R not explanation
+C. A true R false
+D. A false R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
+**Ans: D**
 
 </details>
 
-**Q36.** Match:  
+**Q36.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
 | a. UP LA | 1. 31 |
 | b. UP LC | 2. 403 |
 | c. UP LS | 3. 100 |
 | d. UP RS | 4. 80 |
 
-A. a-1 b-2 c-3 d-4  B. **a-2 b-3 c-4 d-1**  C. a-2 b-3 c-1 d-4  D. a-3 b-2 c-4 d-1
+A. a-1 b-2 c-3 d-4
+B. a-2 b-3 c-4 d-1
+C. a-2 b-3 c-1 d-4
+D. a-3 b-2 c-4 d-1
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
 
 </details>
 
-**Q37.** Match:  
+**Q37.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
 | a. Allahabad HC | 1. 1948 |
 | b. Shift Agra → Allahabad | 2. 1866 |
 | c. Lucknow Bench | 3. 1869 |
 | d. Uttarakhand | 4. 9 Nov 2000 |
 
-A. **a-2 b-3 c-1 d-4**  B. a-2 b-1 c-3 d-4  C. a-3 b-2 c-1 d-4  D. a-2 b-3 c-4 d-1
+A. a-2 b-3 c-1 d-4
+B. a-2 b-1 c-3 d-4
+C. a-3 b-2 c-1 d-4
+D. a-2 b-3 c-4 d-1
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
-
-</details>
-
-**Q38.** Which one is **not** correctly matched?  
-A. Sarojini Naidu — first Governor  B. G.B. Pant — first CM  C. Sucheta Kripalani — first woman CM  D. **Walter Morgan — first CM**
-
-<details><summary>Show answer</summary>
-
-**D** — first CJ of the HC.
+**Ans: A**
 
 </details>
 
-**Q39.** Which one is **not** correctly matched?  
-A. Hindi official — 1951  B. Urdu second official — 1989  C. Uttarakhand rename — 2007  D. **Allahabad HC — 1862**
+**Q38.** Which one is **not** correctly matched?
+A. Sarojini Naidu — first Governor
+B. G.B. Pant — first CM
+C. Sucheta Kripalani — first woman CM
+D. Walter Morgan — first CM
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
-
-</details>
-
-**Q40.** High Court of Uttarakhand sits at—  
-A. Dehradun  B. **Nainital**  C. Prayagraj  D. Gairsain
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: D** — first CJ of the HC.
 
 </details>
 
-**Q41.** How many districts were carved out of UP to form Uttarakhand at birth?  
-A. 18  B. **13**  C. 75  D. 5
+**Q39.** Which one is **not** correctly matched?
+A. Hindi official — 1951
+B. Urdu second official — 1989
+C. Uttarakhand rename — 2007
+D. Allahabad HC — 1862
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q42.** Arrange: 1. Letters Patent NWP HC  2. Lucknow Bench  3. Uttarakhand created  4. Court moves to Allahabad  
-A. 1, 2, 4, 3  B. **1, 4, 2, 3**  C. 4, 1, 2, 3  D. 1, 4, 3, 2
-
-<details><summary>Show answer</summary>
-
-**B** — 1866 → 1869 → 1948 → 2000.
+**Ans: D**
 
 </details>
 
-**Q43.** Arrange: 1. Uttarakhand renamed  2. Chhattisgarh created  3. Uttaranchal created  4. Jharkhand created  
-A. 3, 2, 4, 1  B. **2, 3, 4, 1**  C. 2, 4, 3, 1  D. 3, 2, 1, 4
+**Q40.** High Court of Uttarakhand sits at?
+A. Dehradun
+B. Nainital
+C. Prayagraj
+D. Gairsain
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — 1 Nov → 9 Nov → 15 Nov 2000 → 1 Jan 2007.
-
-</details>
-
-**Q44.** The Governor of UP takes oath before the—  
-A. CJI  B. **Chief Justice of the Allahabad High Court**  C. CM  D. Speaker
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q45.** Which of the following is/are correct?  
+**Q41.** How many districts were carved out of UP to form Uttarakhand at birth?
+A. 18
+B. 13
+C. 75
+D. 5
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q42.** Arrange the following in chronological order: 1. Letters Patent NWP HC  2. Lucknow Bench  3. Uttarakhand created  4. Court moves to Allahabad
+A. 1, 2, 4, 3
+B. 1, 4, 2, 3
+C. 4, 1, 2, 3
+D. 1, 4, 3, 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — 1866 → 1869 → 1948 → 2000.
+
+</details>
+
+**Q43.** Arrange the following in chronological order: 1. Uttarakhand renamed  2. Chhattisgarh created  3. Uttaranchal created  4. Jharkhand created
+A. 3, 2, 4, 1
+B. 2, 3, 4, 1
+C. 2, 4, 3, 1
+D. 3, 2, 1, 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — 1 Nov → 9 Nov → 15 Nov 2000 → 1 Jan 2007.
+
+</details>
+
+**Q44.** The Governor of UP takes oath before the?
+A. CJI
+B. Chief Justice of the Allahabad High Court
+C. CM
+D. Speaker
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q45.** Which of the following is/are correct?
 1. UP LC members nominated by the Governor include the co-operative movement as a field.  
 2. The 12 nominated Rajya Sabha members also have “co-operative movement” as a named field.  
-A. **Only 1**  B. Only 2  C. Both  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — RS 12 = literature, science, art, social service.
-
-</details>
-
-**Q46.** Money Bills in UP originate in—  
-A. Either House  B. **the Legislative Assembly only**  C. the Legislative Council only  D. Raj Bhavan
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: A** — RS 12 = literature, science, art, social service.
 
 </details>
 
-**Q47.** Age for UP LA / UP LC—  
-A. 30 / 25  B. **25 / 30**  C. 25 / 25  D. 21 / 30
+**Q46.** Money Bills in UP originate in which of the following?
+A. Either House
+B. the Legislative Assembly only
+C. the Legislative Council only
+D. Raj Bhavan
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
 
 </details>
 
-**Q48.** Which pairing is **not** correctly matched?  
-A. UP LA — Lucknow  B. Raj Bhavan — Lucknow  C. HC principal seat — Prayagraj  D. **HC principal seat — Lucknow**
+**Q47.** Age for UP LA / UP LC?
+A. 30 / 25
+B. 25 / 30
+C. 25 / 25
+D. 21 / 30
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
+**Ans: B**
+
+</details>
+
+**Q48.** Which pairing is **not** correctly matched?
+A. UP LA — Lucknow
+B. Raj Bhavan — Lucknow
+C. HC principal seat — Prayagraj
+D. HC principal seat — Lucknow
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
 
 </details>
 
@@ -933,11 +1130,15 @@ A. UP LA — Lucknow  B. Raj Bhavan — Lucknow  C. HC principal seat — Prayag
 **Assertion (A):** After 2000, the Allahabad High Court’s jurisdiction still covers Uttarakhand.
 
 **Reason (R):** Uttarakhand has its High Court at Nainital.  
-A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true, R not explanation
+C. A true R false
+D. A false R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
+**Ans: D**
 
 </details>
 
@@ -946,162 +1147,230 @@ A. Both true and R explains A  B. Both true, R not explanation  C. A true R fals
 **Assertion (A):** UP is a Region A State under the Official Language Rules, 1976.
 
 **Reason (R):** Hindi is the official language of UP.  
-A. **Both true and R explains A**  B. Both true, R not explanation  C. A true R false  D. A false R true
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true, R not explanation
+C. A true R false
+D. A false R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
-
-</details>
-
-**Q51.** Largest Lok Sabha contingent among States is—  
-A. Maharashtra 48  B. **Uttar Pradesh 80**  C. Bihar 40  D. West Bengal 42
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: A**
 
 </details>
 
-**Q52.** Largest Rajya Sabha contingent among States is—  
-A. Maharashtra 19  B. **Uttar Pradesh 31**  C. Tamil Nadu 18  D. Bihar 16
+**Q51.** Largest Lok Sabha contingent among States is?
+A. Maharashtra 48
+B. Uttar Pradesh 80
+C. Bihar 40
+D. West Bengal 42
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q53.** Which one is **not** correctly matched?  
-A. Agra — first seat of NWP HC  B. 1919 — name “at Allahabad”  C. 1925 — Chief Court of Oudh  D. **1948 — Allahabad HC created**
-
-<details><summary>Show answer</summary>
-
-**D** — created **1866**; 1948 = Lucknow Bench.
+**Ans: B**
 
 </details>
 
-**Q54.** Art. 171 minimum for any Legislative Council is—  
-A. 100  B. **40**  C. 60  D. 12
+**Q52.** Largest Rajya Sabha contingent among States is?
+A. Maharashtra 19
+B. Uttar Pradesh 31
+C. Tamil Nadu 18
+D. Bihar 16
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
 
 </details>
 
-**Q55.** Which of the following is/are correct?  
+**Q53.** Which one is **not** correctly matched?
+A. Agra — first seat of NWP HC
+B. 1919 — name “at Allahabad”
+C. 1925 — Chief Court of Oudh
+D. 1948 — Allahabad HC created
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — created **1866**; 1948 = Lucknow Bench.
+
+</details>
+
+**Q54.** Art. 171 minimum for any Legislative Council is?
+A. 100
+B. 40
+C. 60
+D. 12
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q55.** Which of the following is/are correct?
 1. A Legislative Council may not have more than one-third of the LA.  
 2. UP’s Council is smaller than that one-third cap.  
-A. Only 1  B. Only 2  C. **Both**  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q56.** First woman Chief Minister of Uttar Pradesh—  
-A. Sarojini Naidu  B. **Sucheta Kripalani**  C. Anandiben Patel  D. Mayawati (first ever)
-
-<details><summary>Show answer</summary>
-
-**B** — Mayawati is the first **Dalit** woman CM, not the first woman CM.
+**Ans: C**
 
 </details>
 
-**Q57.** Which division is **not** one of UP’s 18?  
-A. Chitrakoot  B. Devipatan  C. Ayodhya  D. **Nainital**
+**Q56.** First woman Chief Minister of Uttar Pradesh?
+A. Sarojini Naidu
+B. Sucheta Kripalani
+C. Anandiben Patel
+D. Mayawati (first ever)
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
-
-</details>
-
-**Q58.** Prayagraj division is one of the 18. The city’s High Court name in the Letters Patent is—  
-A. High Court at Lucknow  B. **High Court of Judicature at Allahabad**  C. North-Western Bench  D. Avadh High Court
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B** — Mayawati is the first **Dalit** woman CM, not the first woman CM.
 
 </details>
 
-**Q59.** Which of the following is/are correct?  
+**Q57.** Which division is **not** one of UP’s 18?
+A. Chitrakoot
+B. Devipatan
+C. Ayodhya
+D. Nainital
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q58.** Prayagraj division is one of the 18. The city’s High Court name in the Letters Patent is?
+A. High Court at Lucknow
+B. High Court of Judicature at Allahabad
+C. North-Western Bench
+D. Avadh High Court
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q59.** Which of the following is/are correct?
 1. Sarojini Naidu died in office as Governor.  
 2. The Governor of UP is sworn in before the CJ of the Allahabad High Court.  
-A. Only 1  B. Only 2  C. **Both**  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q60.** Uttarakhand took from UP how many Lok Sabha seats?  
-A. 3  B. **5**  C. 8  D. 13
-
-<details><summary>Show answer</summary>
-
-**B** — 85 − 80. RS took **3** (34 − 31).
+**Ans: C**
 
 </details>
 
-**Q61.** Which pairing is **not** correctly matched?  
-A. Chhattisgarh — 1 Nov 2000  B. Uttarakhand — 9 Nov 2000  C. Jharkhand — 15 Nov 2000  D. **Telangana — 9 Nov 2000**
+**Q60.** Uttarakhand took from UP how many Lok Sabha seats?
+A. 3
+B. 5
+C. 8
+D. 13
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D** — 2 June **2014**.
-
-</details>
-
-**Q62.** Language of the Allahabad High Court, as a default under Art. 348, is—  
-A. Only Hindi  B. Only Urdu  C. **English, unless Hindi is authorised with the President’s consent**  D. Only Avadhi
-
-<details><summary>Show answer</summary>
-
-**C**
+**Ans: B** — 85 − 80. RS took **3** (34 − 31).
 
 </details>
 
-**Q63.** Which one is **not** correctly matched?  
-A. UP LA — 5 years  B. UP LC — 6 years, 1/3 every 2 years  C. Governor — 5 years  D. **UP LC — dissolved with the LA**
+**Q61.** Which pairing is **not** correctly matched?
+A. Chhattisgarh — 1 Nov 2000
+B. Uttarakhand — 9 Nov 2000
+C. Jharkhand — 15 Nov 2000
+D. Telangana — 9 Nov 2000
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
-
-</details>
-
-**Q64.** The UP Official Language Act making Hindi official is of—  
-A. 1950  B. **1951**  C. 1963  D. 1989
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: D** — 2 June **2014**.
 
 </details>
 
-**Q65.** Which of the following is/are correct?  
+**Q62.** Language of the Allahabad High Court, as a default under Art. 348, is?
+A. Only Hindi
+B. Only Urdu
+C. English, unless Hindi is authorised with the President’s consent
+D. Only Avadhi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q63.** Which one is **not** correctly matched?
+A. UP LA — 5 years
+B. UP LC — 6 years, 1/3 every 2 years
+C. Governor — 5 years
+D. UP LC — dissolved with the LA
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q64.** The UP Official Language Act making Hindi official is of which of the following?
+A. 1950
+B. 1951
+C. 1963
+D. 1989
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q65.** Which of the following is/are correct?
 1. UP is among the six bicameral States.  
 2. J&K’s Legislative Council ended with the 2019 reorganisation.  
-A. Only 1  B. Only 2  C. **Both**  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
+**Ans: C**
 
 </details>
 
-**Q66.** Match the 18-division trap:  
-A. Devipatan — Gonda  B. Ayodhya — old Faizabad  C. Prayagraj — old Allahabad  D. **Devipatan — Lucknow**  
+**Q66.** Match the 18-division trap:
+A. Devipatan — Gonda
+B. Ayodhya — old Faizabad
+C. Prayagraj — old Allahabad
+D. Devipatan — Lucknow
 Which is **not** correctly matched?
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
+**Ans: D**
 
 </details>
 
@@ -1110,344 +1379,488 @@ Which is **not** correctly matched?
 **Assertion (A):** Uttar Pradesh sends the largest number of members to both Houses of Parliament.
 
 **Reason (R):** It has 80 LS and 31 RS seats.  
-A. **Both true and R explains A**  B. Both true, R not explanation  C. A true R false  D. A false R true
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true, R not explanation
+C. A true R false
+D. A false R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
-
-</details>
-
-**Q68.** Which chronology is correct?  
-A. Urdu second OL → Hindi OL Act → Uttarakhand  B. **Hindi OL Act 1951 → Urdu 1989 → Uttarakhand 2000**  C. Uttarakhand → Hindi Act → Urdu  D. 1989 Hindi · 1951 Urdu
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: A**
 
 </details>
 
-**Q69.** The Chief Court that became the Lucknow Bench was the Chief Court of—  
-A. Agra  B. **Oudh (Avadh)**  C. Banaras  D. Rohilkhand
+**Q68.** Which chronology is correct?
+A. Urdu second OL → Hindi OL Act → Uttarakhand
+B. Hindi OL Act 1951 → Urdu 1989 → Uttarakhand 2000
+C. Uttarakhand → Hindi Act → Urdu
+D. 1989 Hindi · 1951 Urdu
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q70.** Best one-line map of UP’s numbers—  
-A. Capital = Prayagraj; LA = 500; LS = 85  B. **Lucknow runs government; Prayagraj runs the HC; 403 / 100 / 80 / 31; UK 9 Nov 2000; Hindi 1951 + Urdu 1989; 18 divisions / 75 districts**  C. Lucknow is a second High Court  D. Manipur LA = 62 and UP LC = 134
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q71.** UPPSC headquarters is at—  
-A. Lucknow  B. **Prayagraj**  C. Delhi  D. Kanpur
+**Q69.** The Chief Court that became the Lucknow Bench was the Chief Court of which of the following?
+A. Agra
+B. Oudh (Avadh)
+C. Banaras
+D. Rohilkhand
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q72.** UPPSC functions can be extended by the—  
-A. President  B. PM  C. DoPT  D. **Uttar Pradesh State Legislature**
-
-<details><summary>Show answer</summary>
-
-**D**
+**Ans: B**
 
 </details>
 
-**Q73.** A member of UPPSC is removed by the—  
-A. Governor after HC enquiry  B. Governor on Vidhan Sabha address  C. **President after SC enquiry**  D. CM
+**Q70.** Best one-line map of UP’s numbers?
+A. Capital = Prayagraj; LA = 500; LS = 85
+B. Lucknow runs government; Prayagraj runs the HC; 403 / 100 / 80 / 31; UK 9 Nov 2000; Hindi 1951 + Urdu 1989; 18 divisions / 75 districts
+C. Lucknow is a second High Court
+D. Manipur LA = 62 and UP LC = 134
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q74.** UPPSC members retire at—  
-A. 65  B. **62** (or 6 years, whichever earlier)  C. 60  D. Pleasure of the Governor
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q75.** UPPSC was born (United Provinces PSC) in—  
-A. 1950  B. **1937**  C. 1977  D. 1993
+**Q71.** UPPSC headquarters is at?
+A. Lucknow
+B. Prayagraj
+C. Delhi
+D. Kanpur
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q76.** All elections to the Panchayats are conducted by—  
-A. ECI  B. **State Election Commission**  C. State Legislature  D. Panchayati Raj Commission of India
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q77.** The U.P. State Election Commission sits at—  
-A. Prayagraj  B. **Lucknow**  C. Delhi  D. Agra
+**Q72.** UPPSC functions can be extended by the?
+A. President
+B. PM
+C. DoPT
+D. Uttar Pradesh State Legislature
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q78.** The State Election Commissioner is removed like—  
-A. An SC judge / the CEC  B. **An HC judge**  C. Pleasure of the CM  D. A UPSC member
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: D**
 
 </details>
 
-**Q79.** Which of the following is/are correct?  
+**Q73.** A member of UPPSC is removed by the?
+A. Governor after HC enquiry
+B. Governor on Vidhan Sabha address
+C. President after SC enquiry
+D. CM
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q74.** UPPSC members retire at?
+A. 65
+B. **62** (or 6 years, whichever earlier)
+C. 60
+D. Pleasure of the Governor
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q75.** UPPSC was born (United Provinces PSC) in which of the following?
+A. 1950
+B. 1937
+C. 1977
+D. 1993
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q76.** All elections to the Panchayats are conducted by which of the following?
+A. ECI
+B. State Election Commission
+C. State Legislature
+D. Panchayati Raj Commission of India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q77.** The U.P. State Election Commission sits at?
+A. Prayagraj
+B. Lucknow
+C. Delhi
+D. Agra
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q78.** The State Election Commissioner is removed like?
+A. An SC judge / the CEC
+B. An HC judge
+C. Pleasure of the CM
+D. A UPSC member
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q79.** Which of the following is/are correct?
 1. UP SEC conducts Panchayat elections.  
 2. UP SEC conducts Nagar Nigam elections.  
 3. UP SEC conducts Vidhan Sabha elections.  
-A. **1 and 2**  B. 1 and 3  C. 2 and 3  D. All three
+A. 1 and 2
+B. 1 and 3
+C. 2 and 3
+D. All three
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — Vidhan Sabha = **ECI**.
-
-</details>
-
-**Q80.** The State Finance Commission is constituted by the—  
-A. President every 5 years  B. **Governor every 5 years**  C. CM every year  D. Union FC
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: A** — Vidhan Sabha = **ECI**.
 
 </details>
 
-**Q81.** Which of the following is/are correct?  
+**Q80.** The State Finance Commission is constituted by the?
+A. President every 5 years
+B. Governor every 5 years
+C. CM every year
+D. Union FC
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q81.** Which of the following is/are correct?
 1. The same UP SFC reviews Panchayat and municipal finances.  
 2. Its report is submitted to the President.  
-A. **Only 1**  B. Only 2  C. Both  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — report → **Governor**.
-
-</details>
-
-**Q82.** Union Finance Commission is Article—  
-A. 243I  B. **280**  C. 263  D. 324
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: A** — report → **Governor**.
 
 </details>
 
-**Q83.** The U.P. Lokayukta and Up-Lokayukta Act is of—  
-A. 1971  B. **1975**  C. 2013  D. 2003
+**Q82.** Union Finance Commission is Article?
+A. 243I
+B. 280
+C. 263
+D. 324
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q84.** The first State to enact a Lokayukta statute was—  
-A. Uttar Pradesh  B. **Maharashtra (1971)**  C. Kerala  D. Bihar
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q85.** The UP Lokayukta is appointed by the Governor after consulting—  
-A. The CM only  B. **The CJ of the Allahabad HC and the LoP**  C. The CJI  D. The SEC
+**Q83.** The U.P. Lokayukta and Up-Lokayukta Act is of which of the following?
+A. 1971
+B. 1975
+C. 2013
+D. 2003
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q86.** UP’s intermediate Panchayat is the—  
-A. Panchayat Samiti  B. **Kshetra Panchayat**  C. Mandal Panchayat  D. Nyaya Panchayat
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q87.** Match the UP heads:  
+**Q84.** The first State to enact a Lokayukta statute was?
+A. Uttar Pradesh
+B. Maharashtra (1971)
+C. Kerala
+D. Bihar
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q85.** The UP Lokayukta is appointed by the Governor after consulting?
+A. The CM only
+B. The CJ of the Allahabad HC and the LoP
+C. The CJI
+D. The SEC
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q86.** UP’s intermediate Panchayat is the?
+A. Panchayat Samiti
+B. Kshetra Panchayat
+C. Mandal Panchayat
+D. Nyaya Panchayat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q87.** Match the UP heads:
 
 | a. Gram Panchayat | 1. Adhyaksha |
 | b. Kshetra Panchayat | 2. Pradhan |
 | c. Zila Panchayat | 3. Pramukh |
 
-A. a-1 b-2 c-3  B. **a-2 b-3 c-1**  C. a-2 b-1 c-3  D. a-3 b-2 c-1
+A. a-1 b-2 c-3
+B. a-2 b-3 c-1
+C. a-2 b-1 c-3
+D. a-3 b-2 c-1
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q88.** The village statute for UP Panchayats is the—  
-A. 73rd Amendment itself  B. **U.P. Panchayat Raj Act, 1947**  C. 1961 Adhiniyam only  D. PESA 1996
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q89.** The 1961 UP Act is the—  
-A. Municipal Corporation Act  B. **Kshettra Panchayats and Zila Panchayats Adhiniyam**  C. Lokayukta Act  D. Official Language Act
+**Q88.** The village statute for UP Panchayats is the?
+A. 73rd Amendment itself
+B. U.P. Panchayat Raj Act, 1947
+C. 1961 Adhiniyam only
+D. PESA 1996
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q90.** Number of Zila Panchayats in UP equals—  
-A. 18  B. **75 (one per district)**  C. 403  D. 100
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q91.** Women in UP Panchayats (seats and chairs) are—  
-A. 1/3, because that is all the Constitution allows  B. **50% by State law**  C. 1/4  D. None — OBC only
+**Q89.** The 1961 UP Act is the?
+A. Municipal Corporation Act
+B. Kshettra Panchayats and Zila Panchayats Adhiniyam
+C. Lokayukta Act
+D. Official Language Act
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q92.** Minimum age for a Gram Panchayat member—  
-A. 25  B. **21**  C. 18  D. 30
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q93.** Which of the following is/are correct?  
+**Q90.** Number of Zila Panchayats in UP equals?
+A. 18
+B. 75 (one per district)
+C. 403
+D. 100
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q91.** Women in UP Panchayats (seats and chairs) are?
+A. 1/3, because that is all the Constitution allows
+B. 50% by State law
+C. 1/4
+D. None — OBC only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q92.** Minimum age for a Gram Panchayat member?
+A. 25
+B. 21
+C. 18
+D. 30
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q93.** Which of the following is/are correct?
 1. Nyaya Panchayat is a fourth tier under the 73rd Amendment.  
 2. Nyaya Panchayats in UP come from the 1947 Act, not Part IX.  
-A. Only 1  B. **Only 2**  C. Both  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q94.** PESA applies in Uttar Pradesh—  
-A. In all hill districts  B. **Nowhere — UP has no Fifth Schedule areas**  C. In Bundelkhand only  D. After 2000
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q95.** The U.P. Municipal Corporation Act is of—  
-A. 1916  B. **1959**  C. 1993  D. 1947
+**Q94.** PESA applies in Uttar Pradesh?
+A. In all hill districts
+B. Nowhere — UP has no Fifth Schedule areas
+C. In Bundelkhand only
+D. After 2000
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q96.** The U.P. Municipalities Act (Palika / Nagar Panchayat) is of—  
-A. **1916**  B. 1959  C. 1688  D. 1975
-
-<details><summary>Show answer</summary>
-
-**A**
+**Ans: B**
 
 </details>
 
-**Q97.** Political head of a Nagar Nigam is the Mayor. The executive is the—  
-A. Pradhan  B. **Nagar Ayukt / Municipal Commissioner**  C. SEC  D. CDO
+**Q95.** The U.P. Municipal Corporation Act is of which of the following?
+A. 1916
+B. 1959
+C. 1993
+D. 1947
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q98.** Cantonment Boards in Lucknow or Kanpur are under—  
-A. The 74th Amendment  B. **the Ministry of Defence / Cantonments Act**  C. UP SEC only  D. LDA
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q99.** Lucknow Development Authority is—  
-A. A Nagar Nigam  B. **A parallel development authority (master plan / land), not the municipality**  C. The SEC  D. A Zila Panchayat
+**Q96.** The U.P. Municipalities Act (Palika / Nagar Panchayat) is of which of the following?
+A. 1916
+B. 1959
+C. 1688
+D. 1975
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q100.** Which pairing is **not** correctly matched?  
-A. UPPSC — Prayagraj  B. UP SEC — Lucknow  C. Raj Bhavan — Lucknow  D. **UPPSC — Lucknow**
-
-<details><summary>Show answer</summary>
-
-**D**
+**Ans: A**
 
 </details>
 
-**Q101.** Match:  
+**Q97.** Political head of a Nagar Nigam is the Mayor. The executive is the?
+A. Pradhan
+B. Nagar Ayukt / Municipal Commissioner
+C. SEC
+D. CDO
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q98.** Cantonment Boards in Lucknow or Kanpur are under which of the following?
+A. The 74th Amendment
+B. the Ministry of Defence / Cantonments Act
+C. UP SEC only
+D. LDA
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q99.** Lucknow Development Authority is?
+A. A Nagar Nigam
+B. A parallel development authority (master plan / land), not the municipality
+C. The SEC
+D. A Zila Panchayat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q100.** Which pairing is **not** correctly matched?
+A. UPPSC — Prayagraj
+B. UP SEC — Lucknow
+C. Raj Bhavan — Lucknow
+D. UPPSC — Lucknow
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q101.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
 | a. 243K | 1. State Finance Commission (Panchayats) |
 | b. 243I | 2. SEC (Panchayats) |
 | c. 243ZA | 3. SEC (municipalities) |
 | d. 280 | 4. Union Finance Commission |
 
-A. a-1 b-2 c-3 d-4  B. **a-2 b-1 c-3 d-4**  C. a-2 b-3 c-1 d-4  D. a-3 b-1 c-2 d-4
+A. a-1 b-2 c-3 d-4
+B. a-2 b-1 c-3 d-4
+C. a-2 b-3 c-1 d-4
+D. a-3 b-1 c-2 d-4
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
 
 </details>
 
-**Q102.** Which one is **not** correctly matched?  
-A. Gram Panchayat — Pradhan  B. Kshetra — Pramukh  C. Zila — Adhyaksha  D. **Nagar Nigam — Pradhan**
+**Q102.** Which one is **not** correctly matched?
+A. Gram Panchayat — Pradhan
+B. Kshetra — Pramukh
+C. Zila — Adhyaksha
+D. Nagar Nigam — Pradhan
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D** — Mayor / Nagar Ayukt.
+**Ans: D** — Mayor / Nagar Ayukt.
 
 </details>
 
@@ -1456,11 +1869,15 @@ A. Gram Panchayat — Pradhan  B. Kshetra — Pramukh  C. Zila — Adhyaksha  D.
 **Assertion (A):** The Election Commission of India conducts all elections to UP Nagar Nigams.
 
 **Reason (R):** Article 243ZA vests municipal elections in the State Election Commission.  
-A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true, R not explanation
+C. A true R false
+D. A false R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
+**Ans: D**
 
 </details>
 
@@ -1469,11 +1886,15 @@ A. Both true and R explains A  B. Both true, R not explanation  C. A true R fals
 **Assertion (A):** The Governor of UP can extend UPPSC’s functions by an executive order.
 
 **Reason (R):** Article 321 leaves the extension of SPSC functions to the State Legislature.  
-A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true, R not explanation
+C. A true R false
+D. A false R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
+**Ans: D**
 
 </details>
 
@@ -1482,208 +1903,296 @@ A. Both true and R explains A  B. Both true, R not explanation  C. A true R fals
 **Assertion (A):** There is a Panchayati Raj Commission of India that conducts Gram Panchayat polls.
 
 **Reason (R):** Article 243K names the State Election Commission.  
-A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true, R not explanation
+C. A true R false
+D. A false R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
+**Ans: D**
 
 </details>
 
-**Q106.** Which of the following is/are correct?  
+**Q106.** Which of the following is/are correct?
 1. Up-Lokayukta is provided in the 1975 UP Act.  
 2. The Lokpal and Lokayuktas Act, 2013 created the first UP Lokayukta.  
-A. **Only 1**  B. Only 2  C. Both  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
-
-</details>
-
-**Q107.** Arrange: 1. UP Municipal Corporation Act  2. UP Panchayat Raj Act  3. UP Lokayukta Act  4. 73rd Amendment in force  
-A. 1, 2, 3, 4  B. **2, 1, 3, 4**  C. 2, 3, 1, 4  D. 1, 2, 4, 3
-
-<details><summary>Show answer</summary>
-
-**B** — 1947 → 1959 → 1975 → 24 Apr 1993.
+**Ans: A**
 
 </details>
 
-**Q108.** Arrange: 1. Maharashtra Lokayukta Act  2. UP Lokayukta Act  3. Union Lokpal Act  
-A. 2, 1, 3  B. **1, 2, 3**  C. 1, 3, 2  D. 3, 1, 2
+**Q107.** Arrange the following in chronological order: 1. UP Municipal Corporation Act  2. UP Panchayat Raj Act  3. UP Lokayukta Act  4. 73rd Amendment in force
+A. 1, 2, 3, 4
+B. 2, 1, 3, 4
+C. 2, 3, 1, 4
+D. 1, 2, 4, 3
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — 1971 → 1975 → 2013.
-
-</details>
-
-**Q109.** The BDO is classically attached to the—  
-A. Gram Panchayat  B. **Kshetra Panchayat**  C. Nagar Nigam  D. Lokayukta
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B** — 1947 → 1959 → 1975 → 24 Apr 1993.
 
 </details>
 
-**Q110.** The CDO / CEO of the rural district body is attached to the—  
-A. Kshetra  B. **Zila Panchayat**  C. Nagar Palika  D. SEC
+**Q108.** Arrange the following in chronological order: 1. Maharashtra Lokayukta Act  2. UP Lokayukta Act  3. Union Lokpal Act
+A. 2, 1, 3
+B. 1, 2, 3
+C. 1, 3, 2
+D. 3, 1, 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q111.** Which pairing is **not** correctly matched?  
-A. 243K — SEC (Panchayats)  B. 243ZA — SEC (municipalities)  C. 243Y — SFC for municipalities  D. **243I — Union Finance Commission**
-
-<details><summary>Show answer</summary>
-
-**D** — 243I = **State** FC. Union = **280**.
+**Ans: B** — 1971 → 1975 → 2013.
 
 </details>
 
-**Q112.** Which of the following is/are correct?  
+**Q109.** The BDO is classically attached to the?
+A. Gram Panchayat
+B. Kshetra Panchayat
+C. Nagar Nigam
+D. Lokayukta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q110.** The CDO / CEO of the rural district body is attached to the?
+A. Kshetra
+B. Zila Panchayat
+C. Nagar Palika
+D. SEC
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q111.** Which pairing is **not** correctly matched?
+A. 243K — SEC (Panchayats)
+B. 243ZA — SEC (municipalities)
+C. 243Y — SFC for municipalities
+D. 243I — Union Finance Commission
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — 243I = **State** FC. Union = **280**.
+
+</details>
+
+**Q112.** Which of the following is/are correct?
 1. Local government is State List Entry 5.  
 2. The 73rd/74th only mandate a skeleton; taxes and subjects still depend on State law.  
-A. Only 1  B. Only 2  C. **Both**  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q113.** 11th Schedule subjects number—  
-A. 18  B. **29**  C. 12  D. 75
-
-<details><summary>Show answer</summary>
-
-**B** — 12th Schedule (ULBs) = **18**.
+**Ans: C**
 
 </details>
 
-**Q114.** 74th Amendment came into force on—  
-A. 24 Apr 1993  B. **1 June 1993**  C. 2 Oct 1959  D. 1 Apr 1937
+**Q113.** 11th Schedule subjects number?
+A. 18
+B. 29
+C. 12
+D. 75
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — 24 Apr = **73rd**.
-
-</details>
-
-**Q115.** National Panchayati Raj Day is—  
-A. 2 October  B. **24 April**  C. 1 June  D. 14 April
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B** — 12th Schedule (ULBs) = **18**.
 
 </details>
 
-**Q116.** Which one is **not** correctly matched?  
-A. Nagar Nigam — Corporation  B. Nagar Palika Parishad — Council  C. Nagar Panchayat — transitional  D. **Kshetra Panchayat — Municipal Corporation**
+**Q114.** 74th Amendment came into force on?
+A. 24 Apr 1993
+B. 1 June 1993
+C. 2 Oct 1959
+D. 1 Apr 1937
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
+**Ans: B** — 24 Apr = **73rd**.
 
 </details>
 
-**Q117.** Which of the following is/are correct?  
+**Q115.** National Panchayati Raj Day is?
+A. 2 October
+B. 24 April
+C. 1 June
+D. 14 April
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q116.** Which one is **not** correctly matched?
+A. Nagar Nigam — Corporation
+B. Nagar Palika Parishad — Council
+C. Nagar Panchayat — transitional
+D. Kshetra Panchayat — Municipal Corporation
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q117.** Which of the following is/are correct?
 1. A Pradhan in UP is directly elected.  
 2. Panches are the ward members of the Gram Panchayat.  
-A. Only 1  B. Only 2  C. **Both**  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q118.** UPPSC is to UPSC as UP SEC is to—  
-A. CAG  B. **ECI**  C. NITI Aayog  D. Lokpal
-
-<details><summary>Show answer</summary>
-
-**B** — State analogue, **not** a branch office.
+**Ans: C**
 
 </details>
 
-**Q119.** Which pairing is **not** correctly matched?  
-A. UPPSC appoint — Governor  B. UPPSC remove — President  C. SEC appoint — Governor  D. **SEC remove — President after SC**
+**Q118.** UPPSC is to UPSC as UP SEC is to which of the following?
+A. CAG
+B. ECI
+C. NITI Aayog
+D. Lokpal
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D** — SEC like an **HC judge** (State legislature address).
-
-</details>
-
-**Q120.** Best one-line map of UP’s bodies and local government—  
-A. UPPSC = Lucknow; SEC = ECI; middle tier = Samiti  B. **UPPSC Prayagraj (321 = Legislature); SEC Lucknow (243K/ZA, HC-judge removal); SFC = Governor 5y; Lokayukta 1975; Kshetra not Samiti; Nigam Mayor ≠ Commissioner**  C. PESA runs all of UP  D. Lokayukta = 2013 Union Act
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B** — State analogue, **not** a branch office.
 
 </details>
 
-**Q121.** Which of the following is/are correct?  
+**Q119.** Which pairing is **not** correctly matched?
+A. UPPSC appoint — Governor
+B. UPPSC remove — President
+C. SEC appoint — Governor
+D. SEC remove — President after SC
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — SEC like an **HC judge** (State legislature address).
+
+</details>
+
+**Q120.** Best one-line map of UP’s bodies and local government?
+A. UPPSC = Lucknow; SEC = ECI; middle tier = Samiti
+B. UPPSC Prayagraj (321 = Legislature); SEC Lucknow (243K/ZA, HC-judge removal); SFC = Governor 5y; Lokayukta 1975; Kshetra not Samiti; Nigam Mayor ≠ Commissioner
+C. PESA runs all of UP
+D. Lokayukta = 2013 Union Act
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q121.** Which of the following is/are correct?
 1. The SFC’s report in UP is laid in both the Assembly and the Council.  
 2. An action-taken note accompanies it.  
-A. Only 1  B. Only 2  C. **Both**  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q122.** *Kishan Singh Tomar* (2006) is a lock that—  
-A. Invented Basic Structure  B. **PRI/ULB elections must be held before the term expires; the State cannot starve the SEC**  C. Struck NJAC  D. Created creamy layer
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C**
 
 </details>
 
-**Q123.** Which one is **not** a 74th municipality?  
-A. Nagar Nigam  B. Nagar Palika Parishad  C. Nagar Panchayat  D. **Cantonment Board**
+**Q122.** *Kishan Singh Tomar* (2006) is a lock that?
+A. Invented Basic Structure
+B. PRI/ULB elections must be held before the term expires; the State cannot starve the SEC
+C. Struck NJAC
+D. Created creamy layer
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
-
-</details>
-
-**Q124.** Which chronology is correct?  
-A. 73rd in force → UP Panchayat Raj Act  B. **UP Panchayat Raj Act 1947 → Kshetra–Zila 1961 → 73rd in force 1993**  C. 1961 → 1947 → 1993  D. 1993 → 1947 → 1961
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q125.** Accountant General of UP is—  
-A. The Advocate General  B. **The CAG’s field officer**  C. The UPPSC Chair  D. The Lokayukta
+**Q123.** Which one is **not** a 74th municipality?
+A. Nagar Nigam
+B. Nagar Palika Parishad
+C. Nagar Panchayat
+D. Cantonment Board
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: D**
 
 </details>
 
-**Q126.** Which pairing is **not** correctly matched?  
-A. 243D women floor — ≥1/3  B. UP women — 50% by statute  C. 243F age — 21  D. **243F age — 25**
+**Q124.** Which chronology is correct?
+A. 73rd in force → UP Panchayat Raj Act
+B. UP Panchayat Raj Act 1947 → Kshetra–Zila 1961 → 73rd in force 1993
+C. 1961 → 1947 → 1993
+D. 1993 → 1947 → 1961
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
+**Ans: B**
+
+</details>
+
+**Q125.** Accountant General of UP is?
+A. The Advocate General
+B. The CAG’s field officer
+C. The UPPSC Chair
+D. The Lokayukta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q126.** Which pairing is **not** correctly matched?
+A. 243D women floor — ≥1/3
+B. UP women — 50% by statute
+C. 243F age — 21
+D. 243F age — 25
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
 
 </details>
 
@@ -1692,226 +2201,322 @@ A. 243D women floor — ≥1/3  B. UP women — 50% by statute  C. 243F age — 
 **Assertion (A):** Uttar Pradesh must constitute a District Planning Committee in every district.
 
 **Reason (R):** Article 243ZD (in the 74th’s text) requires a DPC to consolidate PRI and ULB plans.  
-A. **Both true and R explains A**  B. Both true, R not explanation  C. A true R false  D. A false R true
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true, R not explanation
+C. A true R false
+D. A false R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
-
-</details>
-
-**Q128.** DPC elected component is at least—  
-A. 2/3  B. **4/5**  C. 1/2  D. All nominated
-
-<details><summary>Show answer</summary>
-
-**B** — MPC (metros) is **2/3**.
+**Ans: A**
 
 </details>
 
-**Q129.** Which of the following is/are correct?  
+**Q128.** DPC elected component is at least?
+A. 2/3
+B. 4/5
+C. 1/2
+D. All nominated
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — MPC (metros) is **2/3**.
+
+</details>
+
+**Q129.** Which of the following is/are correct?
 1. 12th Schedule has 18 subjects.  
 2. Endowing those 18 on a Nagar Nigam is still “the State may.”  
-A. Only 1  B. Only 2  C. **Both**  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q130.** A “Panchayati Raj Commission of India” as an option in 2023 was—  
-A. Art. 243K  B. **A distractor — no such body**  C. The ECI’s rural wing  D. The SFC
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C**
 
 </details>
 
-**Q131.** Which one is **not** correctly matched?  
-A. UPPSC ≠ UPSC  B. UP SEC ≠ ECI  C. UP SFC ≠ Union FC  D. **UP Lokayukta = Lokpal**
+**Q130.** A “Panchayati Raj Commission of India” as an option in 2023 was?
+A. Art. 243K
+B. A distractor — no such body
+C. The ECI’s rural wing
+D. The SFC
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
+**Ans: B**
 
 </details>
 
-**Q132.** Which of the following is/are correct?  
+**Q131.** Which one is **not** correctly matched?
+A. UPPSC ≠ UPSC
+B. UP SEC ≠ ECI
+C. UP SFC ≠ Union FC
+D. UP Lokayukta = Lokpal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q132.** Which of the following is/are correct?
 1. UPPSC Chair is barred by 319 from any further Union or State office except as the 319 table allows (Chair → no further office at all if it is the *UPSC* Chair; SPSC Chair may become UPSC Chair).  
 2. UPPSC is a constitutional body.  
-A. Only 1  B. Only 2  C. **Both**  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** — SPSC Chair may later be UPSC Chair / another SPSC Chair.
-
-</details>
-
-**Q133.** Smart Cities / AMRUT / PMAY-U in Lucknow or Kanpur—  
-A. Repeal the 74th  B. **Union schemes through the ULB / an SPV; they do not replace Part IXA**  C. Are run by the SEC  D. Are Cantonment laws
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C** — SPSC Chair may later be UPSC Chair / another SPSC Chair.
 
 </details>
 
-**Q134.** Which pairing is **not** correctly matched?  
-A. Pradhan — direct election  B. Mayor — political head  C. Nagar Ayukt — executive  D. **SEC — conducts LS elections from UP**
+**Q133.** Smart Cities / AMRUT / PMAY-U in Lucknow or Kanpur?
+A. Repeal the 74th
+B. Union schemes through the ULB / an SPV; they do not replace Part IXA
+C. Are run by the SEC
+D. Are Cantonment laws
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
-
-</details>
-
-**Q135.** UP has how many Zila Panchayats relative to Commissioner divisions?  
-A. Equal (18)  B. **More — 75 ZPs vs 18 divisions**  C. 403  D. 100
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q136.** Which of the following is/are correct?  
+**Q134.** Which pairing is **not** correctly matched?
+A. Pradhan — direct election
+B. Mayor — political head
+C. Nagar Ayukt — executive
+D. SEC — conducts LS elections from UP
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q135.** UP has how many Zila Panchayats relative to Commissioner divisions?
+A. Equal (18)
+B. More — 75 ZPs vs 18 divisions
+C. 403
+D. 100
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q136.** Which of the following is/are correct?
 1. The 1947 UP Act is older than the 73rd Amendment.  
 2. After 1993 the 1947/1961 Acts were read with 73rd-conformity amendments, not repealed as a concept.  
-A. Only 1  B. Only 2  C. **Both**  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q137.** Lokayukta is—  
-A. In Part IX  B. **A statutory State watchdog**  C. Art. 148  D. Art. 324
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C**
 
 </details>
 
-**Q138.** Which chronology is correct?  
-A. 74th in force → Municipalities Act 1916  B. **Municipalities Act 1916 → Corporation Act 1959 → 74th in force 1 June 1993**  C. 1959 → 1916 → 1993  D. 1993 → 1959 → 1916
+**Q137.** Lokayukta is?
+A. In Part IX
+B. A statutory State watchdog
+C. Art. 148
+D. Art. 324
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q139.** Which one is **not** correctly matched?  
-A. 243I — Governor’s SFC  B. 321 — Legislature extends SPSC  C. 317 — President removes SPSC member  D. **321 — President extends UPPSC**
-
-<details><summary>Show answer</summary>
-
-**D**
+**Ans: B**
 
 </details>
 
-**Q140.** Which HQ pairing is **not** correctly matched?  
-A. Raj Bhavan — Lucknow  B. UP SEC — Lucknow  C. Allahabad HC principal seat — Prayagraj  D. **UPPSC — Lucknow**
+**Q138.** Which chronology is correct?
+A. 74th in force → Municipalities Act 1916
+B. Municipalities Act 1916 → Corporation Act 1959 → 74th in force 1 June 1993
+C. 1959 → 1916 → 1993
+D. 1993 → 1959 → 1916
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D** — UPPSC = **Prayagraj**.
-
-</details>
-
-**Q141.** Maximum size of the UP Council of Ministers including the CM is—  
-A. 12  B. 403  C. **15% of 403 ≈ 60**  D. No cap
-
-<details><summary>Show answer</summary>
-
-**C** — 91st Amd.
+**Ans: B**
 
 </details>
 
-**Q142.** Which of the following is/are correct?  
+**Q139.** Which one is **not** correctly matched?
+A. 243I — Governor’s SFC
+B. 321 — Legislature extends SPSC
+C. 317 — President removes SPSC member
+D. 321 — President extends UPPSC
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q140.** Which HQ pairing is **not** correctly matched?
+A. Raj Bhavan — Lucknow
+B. UP SEC — Lucknow
+C. Allahabad HC principal seat — Prayagraj
+D. UPPSC — Lucknow
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — UPPSC = **Prayagraj**.
+
+</details>
+
+**Q141.** Maximum size of the UP Council of Ministers including the CM is?
+A. 12
+B. 403
+C. 15% of 403 ≈ 60
+D. No cap
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — 91st Amd.
+
+</details>
+
+**Q142.** Which of the following is/are correct?
 1. Uttar Pradesh has a special provision under Article 371.  
 2. The UP Secretariat is in Lucknow.  
-A. Only 1  B. **Only 2**  C. Both  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q143.** Scheduled Tribe reserved Lok Sabha seats from Uttar Pradesh—  
-A. 5  B. 17  C. **0**  D. 2
-
-<details><summary>Show answer</summary>
-
-**C** — **17** are SC-reserved.
+**Ans: B**
 
 </details>
 
-**Q144.** Who among the following does **not** vote in the Presidential election?  
-A. Elected UP MLAs  B. **Members of the UP Legislative Council**  C. Elected MPs from UP  D. Elected MLAs of other States
+**Q143.** Scheduled Tribe reserved Lok Sabha seats from Uttar Pradesh?
+A. 5
+B. 17
+C. 0
+D. 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q145.** Noida’s civic body is—  
-A. A Nagar Nigam elected by the UP SEC  B. **An industrial development authority (243Q exception), not a 74th municipality**  C. A Cantonment Board  D. A Zila Panchayat
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C** — **17** are SC-reserved.
 
 </details>
 
-**Q146.** Gram Sabha in a UP Gram Panchayat is—  
-A. Every resident including children  B. **All persons on that GP’s electoral roll**  C. Only the Panches  D. The Kshetra Panchayat
+**Q144.** Who among the following does **not** vote in the Presidential election?
+A. Elected UP MLAs
+B. Members of the UP Legislative Council
+C. Elected MPs from UP
+D. Elected MLAs of other States
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q147.** Which one is **not** a classical Lucknow-Bench (Avadh) district?  
-A. Sitapur  B. Barabanki  C. **Meerut**  D. Unnao
-
-<details><summary>Show answer</summary>
-
-**C** — Meerut is western UP → **Prayagraj** principal seat.
+**Ans: B**
 
 </details>
 
-**Q148.** First Chief Minister of Uttarakhand—  
-A. G.B. Pant  B. **Nityanand Swami**  C. N.D. Tiwari  D. Sucheta Kripalani
+**Q145.** Noida’s civic body is?
+A. A Nagar Nigam elected by the UP SEC
+B. An industrial development authority (243Q exception), not a 74th municipality
+C. A Cantonment Board
+D. A Zila Panchayat
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q149.** First Governor of Uttarakhand—  
-A. Sarojini Naidu  B. **Surjit Singh Barnala**  C. Walter Morgan  D. Buta Singh
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q150.** How many of Uttarakhand’s birth-districts were carved from UP?  
-A. 5  B. 18  C. **13**  D. 75
+**Q146.** Gram Sabha in a UP Gram Panchayat is?
+A. Every resident including children
+B. All persons on that GP’s electoral roll
+C. Only the Panches
+D. The Kshetra Panchayat
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
+**Ans: B**
+
+</details>
+
+**Q147.** Which one is **not** a classical Lucknow-Bench (Avadh) district?
+A. Sitapur
+B. Barabanki
+C. Meerut
+D. Unnao
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Meerut is western UP → **Prayagraj** principal seat.
+
+</details>
+
+**Q148.** First Chief Minister of Uttarakhand?
+A. G.B. Pant
+B. Nityanand Swami
+C. N.D. Tiwari
+D. Sucheta Kripalani
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q149.** First Governor of Uttarakhand?
+A. Sarojini Naidu
+B. Surjit Singh Barnala
+C. Walter Morgan
+D. Buta Singh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q150.** How many of Uttarakhand’s birth-districts were carved from UP?
+A. 5
+B. 18
+C. 13
+D. 75
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
 
 </details>
 
@@ -1920,47 +2525,67 @@ A. 5  B. 18  C. **13**  D. 75
 **Assertion (A):** Greater Noida is a Nagar Nigam under the 1959 Corporation Act.
 
 **Reason (R):** Article 243Q allows an industrial township that provides municipal services not to constitute a municipality.  
-A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true, R not explanation
+C. A true R false
+D. A false R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
-
-</details>
-
-**Q152.** The UP Lokayukta’s term under the 1975 Act is classically—  
-A. 5 years or 70 like the Lokpal  B. **8 years, no reappointment as Lokayukta**  C. Pleasure of the CM  D. 6 years or 62 like UPPSC
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: D**
 
 </details>
 
-**Q153.** A District Planning Committee’s elected share is at least—  
-A. 2/3  B. **4/5**  C. 1/2  D. All nominated by the Commissioner
+**Q152.** The UP Lokayukta’s term under the 1975 Act is classically?
+A. 5 years or 70 like the Lokpal
+B. 8 years, no reappointment as Lokayukta
+C. Pleasure of the CM
+D. 6 years or 62 like UPPSC
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — MPC (metros) is the **2/3** one.
-
-</details>
-
-**Q154.** Which pairing is **not** correctly matched?  
-A. UP LS SC reserved — 17  B. UP LS ST reserved — 0  C. UP RS — 31, elected by MLAs  D. **UP RS — 12 nominated by the Governor**
-
-<details><summary>Show answer</summary>
-
-**D** — the 12 nominated are **Union** RS seats (Art. 80), not a UP quota.
+**Ans: B**
 
 </details>
 
-**Q155.** The superintendence of Panchayat elections is vested in—  
-A. The Governor  B. The ECI  C. The District Panchayat Raj Officer  D. **The State Election Commission**
+**Q153.** A District Planning Committee’s elected share is at least?
+A. 2/3
+B. 4/5
+C. 1/2
+D. All nominated by the Commissioner
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D** — 2020 Q100 / 2023 Q17.
+**Ans: B** — MPC (metros) is the **2/3** one.
+
+</details>
+
+**Q154.** Which pairing is **not** correctly matched?
+A. UP LS SC reserved — 17
+B. UP LS ST reserved — 0
+C. UP RS — 31, elected by MLAs
+D. UP RS — 12 nominated by the Governor
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — the 12 nominated are **Union** RS seats (Art. 80), not a UP quota.
+
+</details>
+
+**Q155.** The superintendence of Panchayat elections is vested in which of the following?
+A. The Governor
+B. The ECI
+C. The District Panchayat Raj Officer
+D. The State Election Commission
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — 2020 Q100 / 2023 Q17.
 
 </details>
 

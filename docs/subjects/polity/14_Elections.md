@@ -132,7 +132,10 @@ Which of the following are the functions of the Election Commission of India?
 2. Conduct of elections of the Municipal Corporations and Municipalities.  
 3. Deciding on all doubts and disputes arising out of the above elections.
 
-A. 2 and 3  B. 1 and 2  C. 1 and 3  D. None of the above
+A. 2 and 3
+B. 1 and 2
+C. 1 and 3
+D. None of the above
 
 <details>
 <summary>Show answer</summary>
@@ -162,7 +165,10 @@ A. 2 and 3  B. 1 and 2  C. 1 and 3  D. None of the above
 
 Which Constitution Amendment Act reduced the voting age from 21 years to 18 years?
 
-A. 66th  B. 62nd  C. 61st  D. 63rd
+A. 66th
+B. 62nd
+C. 61st
+D. 63rd
 
 <details>
 <summary>Show answer</summary>
@@ -232,7 +238,10 @@ Which of the following pairs is/are NOT correctly matched?
 2. Constitution Day (India) — 27 January  
 3. Human Rights Day (World) — 29 January  
 
-A. 1 and 2  B. 2 and 3  C. Only 3  D. Only 1
+A. 1 and 2
+B. 2 and 3
+C. Only 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -402,9 +411,18 @@ ECI grants **National** or **State** party status. Criteria (learn the **logic**
 **PYQ — UPPCS Prelims 2025, Q113**
 
 Match List-I (Schedule) with List-II:  
-A. Seventh  B. Eighth  C. Ninth  D. Tenth  
-1. Language  2. Disqualification on defection  3. Union/State/Concurrent Lists  4. Validation of certain Acts  
-A. 3 1 2 4  B. 3 1 4 2  C. 2 3 4 4  D. 4 2 1 3
+A. Seventh
+B. Eighth
+C. Ninth
+D. Tenth
+1. Language
+2. Disqualification on defection
+3. Union/State/Concurrent Lists
+4. Validation of certain Acts
+A. A-3, B-1, C-2, D-4
+B. A-3, B-1, C-4, D-2
+C. A-2, B-3, C-4, D-4
+D. A-4, B-2, C-1, D-3
 
 <details>
 <summary>Show answer</summary>
@@ -502,7 +520,10 @@ Consider the following electoral reforms in India and arrange them in correct ch
 3. Voter Verifiable Paper Audit Trail (VVPAT)  
 4. NOTA  
 
-A. 2, 1, 3, 4  B. 1, 2, 4, 3  C. 1, 2, 3, 4  D. 2, 1, 4, 3
+A. 2, 1, 3, 4
+B. 1, 2, 4, 3
+C. 1, 2, 3, 4
+D. 2, 1, 4, 3
 
 <details>
 <summary>Show answer</summary>
@@ -580,38 +601,50 @@ A. 2, 1, 3, 4  B. 1, 2, 4, 3  C. 1, 2, 3, 4  D. 2, 1, 4, 3
 
 ## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden.** **90 questions.** ≥60% multi-statement.
+> **Answers hidden.** Full stems (not cryptic stubs). **90 questions.** ≥60% multi-statement.
 
-**Q1.** Which of the following are functions of the Election Commission of India?  
+**Q1.** Which of the following are functions of the Election Commission of India?
 1. Conduct of elections of the Speaker of the Lok Sabha  
 2. Conduct of elections of Municipal Corporations  
 3. Superintendence of elections to the office of President  
-A. 1 and 2 only  B. 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only
+B. 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — Speaker = House; municipal = SEC.
+**Ans: B** — Speaker = House; municipal = SEC.
 
 </details>
 
-**Q2.** With reference to adult suffrage, which of the following statements is/are correct?  
+**Q2.** With reference to adult suffrage, which of the following statements is/are correct?
 1. Article 326 originally fixed the voting age at 21 years.  
 2. The 61st Amendment reduced it to 18 years.  
-Select the correct answer:  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+Select the correct answer using the code given below:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
+**Ans: C**
 
 </details>
 
-**Q3.** Which Constitution Amendment Act reduced the voting age from 21 years to 18 years?  
-A. 66th  B. 62nd  C. 61st  D. 63rd
+**Q3.** Which Constitution Amendment Act reduced the voting age from 21 years to 18 years?
+A. 66th
+B. 62nd
+C. 61st
+D. 63rd
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
+**Ans: C**
 
 </details>
 
@@ -621,73 +654,107 @@ A. 66th  B. 62nd  C. 61st  D. 63rd
 
 **Reason (R):** Article 325 provides one general electoral roll for every territorial constituency.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
-C. (A) is true but (R) is false  
-D. (A) is false but (R) is true
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
-
-</details>
-
-**Q5.** Match List-I with List-II:  
-List-I — List-II  
-A. Article 324 — 1. Adult suffrage  
-B. Article 325 — 2. Superintendence of elections  
-C. Article 326 — 3. One general electoral roll  
-D. Article 329 — 4. Bar on court in electoral matters (petition route)  
-Code:  
-A. A-2, B-3, C-1, D-4  B. A-2, B-1, C-3, D-4  C. A-1, B-3, C-2, D-4  D. A-2, B-3, C-4, D-1
-
-<details><summary>Show answer</summary>
-
-**A**
+**Ans: A**
 
 </details>
 
-**Q6.** Which one of the following is **not** correctly matched?  
+**Q5.** Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | Article 324 |
+| B | Article 325 |
+| C | Article 326 |
+| D | Article 329 |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | Adult suffrage |
+| 2 | Superintendence of elections |
+| 3 | One general electoral roll |
+| 4 | Bar on court in electoral matters (petition route) |
+
+> Note: Row order in the tables is **not** the answer.
+
+Select the correct answer using the code given below:
+A. A-2, B-3, C-1, D-4
+B. A-2, B-1, C-3, D-4
+C. A-1, B-3, C-2, D-4
+D. A-2, B-3, C-4, D-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q6.** Which one of the following is **not** correctly matched?
 A. Lok Sabha — First Past the Post  
 B. Vidhan Sabha — First Past the Post  
 C. President of India — First Past the Post  
 D. Rajya Sabha (elected seats) — PR by STV
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** — President is **PR-STV**.
+**Ans: C** — President is **PR-STV**.
 
 </details>
 
-**Q7.** With reference to the Model Code of Conduct, which of the following statements is/are correct?  
+**Q7.** With reference to the Model Code of Conduct, which of the following statements is/are correct?
 1. It is a law enacted by Parliament as a chapter of the RPA 1951.  
 2. It comes into force from the date the ECI announces the election schedule.  
-Select the correct answer:  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+Select the correct answer using the code given below:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — MCC is a **convention**.
-
-</details>
-
-**Q8.** National Voters’ Day is observed in India on—  
-A. 26 January  B. 25 January  C. 26 November  D. 15 August
-
-<details><summary>Show answer</summary>
-
-**B** — ECI founded **25 Jan 1950**; first NVD **2011**.
+**Ans: B** — MCC is a **convention**.
 
 </details>
 
-**Q9.** Which of the following pairs is/are **not** correctly matched?  
+**Q8.** National Voters’ Day is observed in India on?
+A. 26 January
+B. 25 January
+C. 26 November
+D. 15 August
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — ECI founded **25 Jan 1950**; first NVD **2011**.
+
+</details>
+
+**Q9.** Which of the following pairs is/are **not** correctly matched?
 1. National Voters' Day (India) — 25 January  
 2. Constitution Day (India) — 27 January  
 3. Human Rights Day (World) — 29 January  
-A. 1 and 2  B. 2 and 3  C. Only 3  D. Only 1
+A. 1 and 2
+B. 2 and 3
+C. Only 3
+D. Only 1
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
 
 </details>
 
@@ -697,134 +764,176 @@ A. 1 and 2  B. 2 and 3  C. Only 3  D. Only 1
 
 **Reason (R):** Delimitation is done under a separate Act; its orders cannot be questioned in court under Article 329.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
-C. (A) is true but (R) is false  
-D. (A) is false but (R) is true
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
+**Ans: A**
 
 </details>
 
-**Q11.** Arrange the following in chronological order:  
+**Q11.** Arrange the following in chronological order:
 1. 84th Amendment (seat-number freeze extended)  
 2. 61st Amendment (voting age 18)  
 3. First National Voters’ Day  
 4. 104th Amendment  
-A. 2-1-3-4  B. 1-2-3-4  C. 2-3-1-4  D. 2-1-4-3
+A. 2-1-3-4
+B. 1-2-3-4
+C. 2-3-1-4
+D. 2-1-4-3
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — **1988 → 2001 → 2011 → 2019**.
+**Ans: A** — **1988 → 2001 → 2011 → 2019**.
 
 </details>
 
-**Q12.** The 84th Amendment is best described as having—  
+**Q12.** The 84th Amendment is best described as having?
 A. Abolished the Delimitation Commission  
 B. Frozen the allocation of LS seats among States till the first census after 2026  
 C. Introduced NOTA  
 D. Reduced the voting age
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
 
 </details>
 
-**Q13.** With reference to the 87th Amendment, which of the following is/are correct?  
+**Q13.** With reference to the 87th Amendment, which of the following is/are correct?
 1. It allowed delimitation on the 2001 census.  
 2. It changed the number of Lok Sabha seats assigned to each State.  
-Select the correct answer:  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+Select the correct answer using the code given below:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
+**Ans: A**
 
 </details>
 
-**Q14.** RPA 1950 is primarily concerned with—  
+**Q14.** RPA 1950 is primarily concerned with which of the following?
 A. Corrupt practices and election petitions  
 B. Electoral rolls and allocation of seats  
 C. Recognition of national parties  
 D. NOTA
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — 1951 = conduct / petitions.
+**Ans: B** — 1951 = conduct / petitions.
 
 </details>
 
-**Q15.** A person in police custody on poll day—  
+**Q15.** A person in police custody on poll day?
 A. May vote if his name is on the roll  
 B. Cannot vote by virtue of RPA s.62(5)  
 C. Votes by postal ballot as of right  
 D. Is struck off the roll automatically by Article 326
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — preventive detention is the usual exception.
-
-</details>
-
-**Q16.** Match List-I with List-II:  
-List-I — List-II  
-A. 330 — 1. Adult suffrage  
-B. 332 — 2. LS seats for SC/ST  
-C. 326 — 3. Assembly seats for SC/ST  
-D. 331 — 4. Anglo-Indian nomination to LS (now ended)  
-Code:  
-A. A-2, B-3, C-1, D-4  B. A-2, B-1, C-3, D-4  C. A-3, B-2, C-1, D-4  D. A-2, B-3, C-4, D-1
-
-<details><summary>Show answer</summary>
-
-**A**
+**Ans: B** — preventive detention is the usual exception.
 
 </details>
 
-**Q17.** Which of the following statements about the 104th Amendment is/are correct?  
+**Q16.** Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | 330 |
+| B | 332 |
+| C | 326 |
+| D | 331 |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | Adult suffrage |
+| 2 | LS seats for SC/ST |
+| 3 | Assembly seats for SC/ST |
+| 4 | Anglo-Indian nomination to LS (now ended) |
+
+> Note: Row order in the tables is **not** the answer.
+
+Select the correct answer using the code given below:
+A. A-2, B-3, C-1, D-4
+B. A-2, B-1, C-3, D-4
+C. A-3, B-2, C-1, D-4
+D. A-2, B-3, C-4, D-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q17.** Which of the following statements about the 104th Amendment is/are correct?
 1. It extended SC/ST reservation in the Lok Sabha and Assemblies to 25 January 2030.  
 2. It continued nomination of Anglo-Indians to the Lok Sabha.  
-Select the correct answer:  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+Select the correct answer using the code given below:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — 331/333 **ended**.
+**Ans: A** — 331/333 **ended**.
 
 </details>
 
-**Q18.** The 106th Constitutional Amendment provides for—  
+**Q18.** The 106th Constitutional Amendment provides for which of the following?
 A. Immediate 33% women MPs in the 2024 Lok Sabha  
 B. 33% reservation for women in LS and State Assemblies after a delimitation following the census  
 C. 50% women in Rajya Sabha from 2024  
 D. Abolition of SC/ST reserved seats
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
 
 </details>
 
-**Q19.** Which one of the following pairs is **not** correctly matched?  
+**Q19.** Which one of the following pairs is **not** correctly matched?
 A. 13th Lok Sabha — 1999  
 B. 11th Lok Sabha — 1996  
 C. 9th Lok Sabha — 1989  
 D. 7th Lok Sabha — 1982
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D** — **1980**.
+**Ans: D** — **1980**.
 
 </details>
 
-**Q20.** All elections to the Panchayats are conducted by the—  
-A. Election Commission of India  B. State Legislature  C. State Election Commission  D. District Magistrate as ECI delegate
+**Q20.** All elections to the Panchayats are conducted by the?
+A. Election Commission of India
+B. State Legislature
+C. State Election Commission
+D. District Magistrate as ECI delegate
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
+**Ans: C**
 
 </details>
 
@@ -834,99 +943,129 @@ A. Election Commission of India  B. State Legislature  C. State Election Commiss
 
 **Reason (R):** Lok Sabha members are chosen by first-past-the-post from territorial constituencies.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
-C. (A) is true but (R) is false  
-D. (A) is false but (R) is true
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
-
-</details>
-
-**Q22.** How many of the following elections use PR-STV?  
-1. President  2. Vice-President  3. Lok Sabha  4. Rajya Sabha (elected seats)  
-A. Only one  B. Only two  C. Only three  D. All four
-
-<details><summary>Show answer</summary>
-
-**C** — LS is **FPTP**.
+**Ans: A**
 
 </details>
 
-**Q23.** The silence period under the MCC is ordinarily—  
+**Q22.** How many of the following elections use PR-STV?
+1. President
+2. Vice-President
+3. Lok Sabha
+4. Rajya Sabha (elected seats)
+A. Only one
+B. Only two
+C. Only three
+D. All four
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — LS is **FPTP**.
+
+</details>
+
+**Q23.** The silence period under the MCC is ordinarily?
 A. 24 hours before the announcement of elections  
 B. 48 hours before the close of poll  
 C. One week after notification  
 D. Till the President’s Rule ends
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q24.** Uttar Pradesh is allotted how many Lok Sabha seats?  
-A. 75  B. 80  C. 85  D. 403
-
-<details><summary>Show answer</summary>
-
-**B** — 403 is the **Assembly**.
+**Ans: B**
 
 </details>
 
-**Q25.** With reference to a reserved SC constituency, which of the following is/are correct?  
+**Q24.** Uttar Pradesh is allotted how many Lok Sabha seats?
+A. 75
+B. 80
+C. 85
+D. 403
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — 403 is the **Assembly**.
+
+</details>
+
+**Q25.** With reference to a reserved SC constituency, which of the following is/are correct?
 1. Only an SC candidate may contest.  
 2. Only SC electors may vote.  
-Select the correct answer:  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+Select the correct answer using the code given below:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — **all** electors vote; **325** forbids a communal roll.
+**Ans: A** — **all** electors vote; **325** forbids a communal roll.
 
 </details>
 
-**Q26.** Article 82 is about—  
+**Q26.** Article 82 is about?
 A. Election of the President  
 B. Readjustment of LS constituencies after each census  
 C. Adult suffrage  
 D. Election petitions
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
 
 </details>
 
-**Q27.** Which one of the following is **not** correctly matched?  
+**Q27.** Which one of the following is **not** correctly matched?
 A. RPA 1950 — electoral rolls  
 B. RPA 1951 — conduct of elections  
 C. Article 71 — ECI decides Presidential election disputes  
 D. Article 324 — ECI superintendence
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** — **SC**, not ECI.
-
-</details>
-
-**Q28.** First National Voters’ Day was observed in—  
-A. 1950  B. 1993  C. 2011  D. 2019
-
-<details><summary>Show answer</summary>
-
-**C**
+**Ans: C** — **SC**, not ECI.
 
 </details>
 
-**Q29.** Arrange the Delimitation Acts in chronological order:  
-1. 2002  2. 1952  3. 1972  4. 1962  
-A. 2-4-3-1  B. 2-3-4-1  C. 4-2-3-1  D. 2-4-1-3
+**Q28.** First National Voters’ Day was observed in which of the following?
+A. 1950
+B. 1993
+C. 2011
+D. 2019
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
+**Ans: C**
+
+</details>
+
+**Q29.** Arrange the Delimitation Acts in chronological order:
+1. 2002
+2. 1952
+3. 1972
+4. 1962
+A. 2-4-3-1
+B. 2-3-4-1
+C. 4-2-3-1
+D. 2-4-1-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
 
 </details>
 
@@ -936,116 +1075,160 @@ A. 2-4-3-1  B. 2-3-4-1  C. 4-2-3-1  D. 2-4-1-3
 
 **Reason (R):** Article 329 bars judicial interference in delimitation and allotment of seats, subject to the election-petition route for the election itself.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
-C. (A) is true but (R) is false  
-D. (A) is false but (R) is true
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
-
-</details>
-
-**Q31.** EPIC was introduced in—  
-A. 1952  B. 1982  C. 1993  D. 2013
-
-<details><summary>Show answer</summary>
-
-**C**
+**Ans: A**
 
 </details>
 
-**Q32.** Which of the following is/are correct about T.N. Seshan’s tenure as CEC?  
+**Q31.** EPIC was introduced in which of the following?
+A. 1952
+B. 1982
+C. 1993
+D. 2013
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q32.** Which of the following is/are correct about T.N. Seshan’s tenure as CEC?
 1. He was the first CEC of independent India.  
 2. Model Code enforcement and electoral-roll / photo-ID muscle are associated with him.  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — first CEC = **Sukumar Sen**.
+**Ans: B** — first CEC = **Sukumar Sen**.
 
 </details>
 
-**Q33.** The qualifying age for being an elector is determined with reference to the—  
+**Q33.** The qualifying age for being an elector is determined with reference to the?
 A. Date of the notification of elections only  
 B. Qualifying date notified for the roll  
 C. Date of birth as 26 January  
 D. Date of filing nomination
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
 
 </details>
 
-**Q34.** How many of the following are **correctly** matched?  
+**Q34.** How many of the following are **correctly** matched?
 1. 42nd Amendment — freeze linked to 1971 census  
 2. 84th Amendment — freeze till census after 2026  
 3. 87th Amendment — redraw on 2001 census without changing State LS totals  
-A. Only one  B. Only two  C. All three  D. None
+A. Only one
+B. Only two
+C. All three
+D. None
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q35.** Disputes arising out of the election of the President are decided by the—  
-A. Election Commission  B. Supreme Court under Article 71  C. Lok Sabha  D. Delimitation Commission
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C**
 
 </details>
 
-**Q36.** Match List-I (UP) with List-II:  
-List-I — List-II  
-A. Lok Sabha seats — 1. 403  
-B. Vidhan Sabha seats — 2. 80  
-C. Local-body polls — 3. UP State Election Commission  
-D. LS/Assembly polls — 4. ECI  
-Code:  
-A. A-2, B-1, C-3, D-4  B. A-1, B-2, C-3, D-4  C. A-2, B-1, C-4, D-3  D. A-2, B-3, C-1, D-4
+**Q35.** Disputes arising out of the election of the President are decided by the?
+A. Election Commission
+B. Supreme Court under Article 71
+C. Lok Sabha
+D. Delimitation Commission
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
+**Ans: B**
 
 </details>
 
-**Q37.** Which of the following statements is/are correct?  
+**Q36.** Match List-I (UP) with List-II:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | Lok Sabha seats |
+| B | Vidhan Sabha seats |
+| C | Local-body polls |
+| D | LS/Assembly polls |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | 403 |
+| 2 | 80 |
+| 3 | UP State Election Commission |
+| 4 | ECI |
+
+> Note: Row order in the tables is **not** the answer.
+
+Select the correct answer using the code given below:
+A. A-2, B-1, C-3, D-4
+B. A-1, B-2, C-3, D-4
+C. A-2, B-1, C-4, D-3
+D. A-2, B-3, C-1, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q37.** Which of the following statements is/are correct?
 1. The 106th Amendment reserves one-third of Rajya Sabha seats for women with immediate effect.  
 2. Women’s reservation in Panchayats is a 73rd-Amendment provision, not the 106th.  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
 
 </details>
 
-**Q38.** The Booth Level Officer is associated with—  
+**Q38.** The Booth Level Officer is associated with which of the following?
 A. Counting of PR-STV ballots for the President  
 B. Preparation / revision of the electoral roll at the polling-station area  
 C. Appointment of the CEC  
 D. Delimitation public sittings as a member of the Commission
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
 
 </details>
 
-**Q39.** Which one of the following is **not** correctly matched?  
+**Q39.** Which one of the following is **not** correctly matched?
 A. MCC — ECI convention  
 B. Voting age 18 — 61st Amendment  
 C. Anglo-Indian LS nomination — still in force after 104th  
 D. National Voters’ Day — 25 January
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
+**Ans: C**
 
 </details>
 
@@ -1055,58 +1238,75 @@ D. National Voters’ Day — 25 January
 
 **Reason (R):** Article 326 makes adult suffrage the basis of LS and Assembly elections, with age as the principal qualification.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
-C. (A) is true but (R) is false  
-D. (A) is false but (R) is true
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
+**Ans: A**
 
 </details>
 
-**Q41.** Consider the following:  
+**Q41.** Consider the following:
 1. Interstate Council — Article 263  
 2. Finance Commission — Article 280  
 3. Election Commission — Article 324  
 Which of the pairs is/are correctly matched?  
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
+**Ans: D**
 
 </details>
 
-**Q42.** With reference to free and fair elections, which of the following statements is/are correct?  
+**Q42.** With reference to free and fair elections, which of the following statements is/are correct?
 1. An election to the Lok Sabha can be questioned only by an election petition as Article 329 provides.  
 2. The Model Code of Conduct is itself a Fundamental Right under Article 19.  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — MCC is not Art. 19.
+**Ans: A** — MCC is not Art. 19.
 
 </details>
 
-**Q43.** With reference to Articles 327 and 328, which of the following statements is/are correct?  
+**Q43.** With reference to Articles 327 and 328, which of the following statements is/are correct?
 1. Parliament may make laws relating to elections to Parliament and State legislatures.  
 2. A State legislature may also make such a law, subject to any law made by Parliament.  
-Select the correct answer:  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+Select the correct answer using the code given below:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
+**Ans: C**
 
 </details>
 
-**Q44.** A bye-election to the Lok Sabha is **not** obligatory if the remainder of the term is less than—  
-A. Six months  B. One year  C. Two years  D. Three months
+**Q44.** A bye-election to the Lok Sabha is **not** obligatory if the remainder of the term is less than?
+A. Six months
+B. One year
+C. Two years
+D. Three months
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
 
 </details>
 
@@ -1116,109 +1316,168 @@ A. Six months  B. One year  C. Two years  D. Three months
 
 **Reason (R):** Section 126 of the RPA 1951 statutorily restricts electioneering in that window.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
-C. (A) is true but (R) is false  
-D. (A) is false but (R) is true
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
+**Ans: A**
 
 </details>
 
-**Q46.** Which one of the following is **not** correctly matched?  
+**Q46.** Which one of the following is **not** correctly matched?
 A. President — secret PR-STV  
 B. Rajya Sabha party vote — open ballot (2003)  
 C. Lok Sabha — PR party list  
 D. Vidhan Sabha — FPTP
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
+**Ans: C**
 
 </details>
 
-**Q47.** After the 2022 roll reform, the qualifying dates in a year are—  
+**Q47.** After the 2022 roll reform, the qualifying dates in a year are?
 A. Only 1 January  
 B. 1 January, 1 April, 1 July and 1 October  
 C. 26 January and 15 August  
 D. The date of notification of elections only
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q48.** Match List-I with List-II:  
-List-I — List-II  
-A. 95th Amendment — 1. Voting age 18  
-B. 104th Amendment — 2. SC/ST reservation till 2020  
-C. 61st Amendment — 3. Anglo-Indian nomination ended; SC/ST till 2030  
-D. 106th Amendment — 4. Women’s reservation after delimitation  
-Code:  
-A. A-2, B-3, C-1, D-4  B. A-3, B-2, C-1, D-4  C. A-2, B-1, C-3, D-4  D. A-2, B-3, C-4, D-1
-
-<details><summary>Show answer</summary>
-
-**A**
+**Ans: B**
 
 </details>
 
-**Q49.** Two-member Lok Sabha constituencies were abolished in—  
-A. 1950  B. 1961  C. 1971  D. 2001
+**Q48.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
-<details><summary>Show answer</summary>
+**List-I**
 
-**B**
+| Code | Item |
+|------|------|
+| A | 95th Amendment |
+| B | 104th Amendment |
+| C | 61st Amendment |
+| D | 106th Amendment |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | Voting age 18 |
+| 2 | SC/ST reservation till 2020 |
+| 3 | Anglo-Indian nomination ended; SC/ST till 2030 |
+| 4 | Women’s reservation after delimitation |
+
+> Note: Row order in the tables is **not** the answer.
+
+Select the correct answer using the code given below:
+A. A-2, B-3, C-1, D-4
+B. A-3, B-2, C-1, D-4
+C. A-2, B-1, C-3, D-4
+D. A-2, B-3, C-4, D-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
 
 </details>
 
-**Q50.** How many of the following statements are correct?  
+**Q49.** Two-member Lok Sabha constituencies were abolished in which of the following?
+A. 1950
+B. 1961
+C. 1971
+D. 2001
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q50.** How many of the following statements are correct?
 1. Uttar Pradesh has a Legislative Council.  
 2. Returning Officers are appointed by the ECI.  
 3. A Delimitation Commission order is subject to ordinary writ on merits like an ordinary statute.  
-A. Only one  B. Only two  C. All three  D. None
+A. Only one
+B. Only two
+C. All three
+D. None
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — 1 and 2. Delimitation is **329**-barred.
+**Ans: B** — 1 and 2. Delimitation is **329**-barred.
 
 </details>
 
-**Q51.** With reference to political parties, which of the following statements is/are correct?  
+**Q51.** With reference to political parties, which of the following statements is/are correct?
 1. Registration is under s.29A of the RPA 1951.  
 2. Registration automatically makes a party a National Party.  
-Select the correct answer:  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+Select the correct answer using the code given below:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
-
-</details>
-
-**Q52.** A party is recognised as a National Party if, among other routes, it is a State party in at least—  
-A. Two States  B. Three States  C. Four States  D. Half of the States
-
-<details><summary>Show answer</summary>
-
-**C**
+**Ans: A**
 
 </details>
 
-**Q53.** Match List-I with List-II:  
-List-I — List-II  
-A. Seventh Schedule — 1. Languages  
-B. Eighth Schedule — 2. Defection  
-C. Ninth Schedule — 3. Union / State / Concurrent Lists  
-D. Tenth Schedule — 4. Validation of certain Acts  
-Code:  
-A. A-3, B-1, C-2, D-4  B. A-3, B-1, C-4, D-2  C. A-1, B-3, C-4, D-2  D. A-3, B-4, C-1, D-2
+**Q52.** A party is recognised as a National Party if, among other routes, it is a State party in at least?
+A. Two States
+B. Three States
+C. Four States
+D. Half of the States
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: C**
+
+</details>
+
+**Q53.** Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | Seventh Schedule |
+| B | Eighth Schedule |
+| C | Ninth Schedule |
+| D | Tenth Schedule |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | Languages |
+| 2 | Defection |
+| 3 | Union / State / Concurrent Lists |
+| 4 | Validation of certain Acts |
+
+> Note: Row order in the tables is **not** the answer.
+
+Select the correct answer using the code given below:
+A. A-3, B-1, C-2, D-4
+B. A-3, B-1, C-4, D-2
+C. A-1, B-3, C-4, D-2
+D. A-3, B-4, C-1, D-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
 
 </details>
 
@@ -1228,101 +1487,138 @@ A. A-3, B-1, C-2, D-4  B. A-3, B-1, C-4, D-2  C. A-1, B-3, C-4, D-2  D. A-3, B-4
 
 **Reason (R):** The 91st Amendment retained only the two-thirds merger exception.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
-C. (A) is true but (R) is false  
-D. (A) is false but (R) is true
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
-
-</details>
-
-**Q55.** An independent MLA who joins a political party after the election is—  
-A. Protected by the 10th Schedule  B. Disqualified for defection  C. Allowed a 6-month window like a nominated member  D. Decided by the ECI under s.29A
-
-<details><summary>Show answer</summary>
-
-**B** — 6-month window is for **nominated** members.
+**Ans: A**
 
 </details>
 
-**Q56.** The 10th Schedule disqualification is decided in the first instance by the—  
-A. Election Commission  B. Supreme Court  C. Speaker / Chairman  D. President
+**Q55.** An independent MLA who joins a political party after the election is?
+A. Protected by the 10th Schedule
+B. Disqualified for defection
+C. Allowed a 6-month window like a nominated member
+D. Decided by the ECI under s.29A
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** — *Kihoto*: judicially reviewable.
-
-</details>
-
-**Q57.** How many star campaigners may a recognised national party nominate?  
-A. 10  B. 20  C. 40  D. Unlimited
-
-<details><summary>Show answer</summary>
-
-**C** — unrecognised registered = **20**.
+**Ans: B** — 6-month window is for **nominated** members.
 
 </details>
 
-**Q58.** An election to the Lok Sabha can be questioned by—  
+**Q56.** The 10th Schedule disqualification is decided in the first instance by the?
+A. Election Commission
+B. Supreme Court
+C. Speaker / Chairman
+D. President
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — *Kihoto*: judicially reviewable.
+
+</details>
+
+**Q57.** How many star campaigners may a recognised national party nominate?
+A. 10
+B. 20
+C. 40
+D. Unlimited
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — unrecognised registered = **20**.
+
+</details>
+
+**Q58.** An election to the Lok Sabha can be questioned by which of the following?
 A. A writ in the Supreme Court under Article 32 as of right  
 B. An election petition in the High Court within 45 days  
 C. A complaint to the Delimitation Commission  
 D. An appeal to the ECI under Article 324 alone
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q59.** Which of the following is **not** a listed corrupt practice under the RPA in the usual exam set?  
-A. Bribery  B. Booth capturing  C. Filing an election petition  D. Appeal to religion as s.123 provides
-
-<details><summary>Show answer</summary>
-
-**C**
+**Ans: B**
 
 </details>
 
-**Q60.** Arrange the following in chronological order from earliest to latest:  
-1. EPIC  2. EVM  3. VVPAT  4. NOTA  
-A. 2, 1, 3, 4  B. 1, 2, 4, 3  C. 1, 2, 3, 4  D. 2, 1, 4, 3
+**Q59.** Which of the following is **not** a listed corrupt practice under the RPA in the usual exam set?
+A. Bribery
+B. Booth capturing
+C. Filing an election petition
+D. Appeal to religion as s.123 provides
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — **1982 → 1993 → VVPAT → NOTA**.
-
-</details>
-
-**Q61.** EVMs were first used in India in—  
-A. 1952  B. 1982  C. 1993  D. 2004
-
-<details><summary>Show answer</summary>
-
-**B** — all booths from **2004**.
+**Ans: C**
 
 </details>
 
-**Q62.** VVPAT was first used at—  
-A. Parur, Kerala, 1982  B. Noksen, Nagaland, 2013  C. All India, 1993  D. Delhi, 2004
+**Q60.** Arrange the following in chronological order from earliest to latest:
+1. EPIC
+2. EVM
+3. VVPAT
+4. NOTA
+A. 2, 1, 3, 4
+B. 1, 2, 4, 3
+C. 1, 2, 3, 4
+D. 2, 1, 4, 3
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: A** — **1982 → 1993 → VVPAT → NOTA**.
 
 </details>
 
-**Q63.** With reference to NOTA, which of the following statements is/are correct?  
+**Q61.** EVMs were first used in India in which of the following?
+A. 1952
+B. 1982
+C. 1993
+D. 2004
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — all booths from **2004**.
+
+</details>
+
+**Q62.** VVPAT was first used at?
+A. Parur, Kerala, 1982
+B. Noksen, Nagaland, 2013
+C. All India, 1993
+D. Delhi, 2004
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q63.** With reference to NOTA, which of the following statements is/are correct?
 1. It was read into the ballot by the Supreme Court in *PUCL* (2013).  
 2. If NOTA gets more votes than any candidate, the poll is automatically countermanded.  
-Select the correct answer:  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+Select the correct answer using the code given below:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
+**Ans: A**
 
 </details>
 
@@ -1332,102 +1628,145 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Reason (R):** The Supreme Court struck them down in 2024.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
-C. (A) is true but (R) is false  
-D. (A) is false but (R) is true
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
-
-</details>
-
-**Q65.** The Indrajit Gupta Committee is associated with—  
-A. State funding of elections  B. Delimitation freeze  C. NOTA  D. CEC appointment
-
-<details><summary>Show answer</summary>
-
-**A**
+**Ans: A**
 
 </details>
 
-**Q66.** Which one of the following is **not** correctly matched?  
+**Q65.** The Indrajit Gupta Committee is associated with which of the following?
+A. State funding of elections
+B. Delimitation freeze
+C. NOTA
+D. CEC appointment
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q66.** Which one of the following is **not** correctly matched?
 A. Tarkunde Committee — electoral reforms  
 B. Dinesh Goswami Committee — electoral reforms  
 C. Santhanam Committee — electoral bonds  
 D. Indrajit Gupta Committee — state funding
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** — Santhanam = **CVC** (1962 → executive 1964 → Act 2003).
-
-</details>
-
-**Q67.** Simultaneous LS and Assembly elections were the pattern roughly during—  
-A. 1951–67  B. 1977–84  C. 1996–99  D. 2014–19
-
-<details><summary>Show answer</summary>
-
-**A**
+**Ans: C** — Santhanam = **CVC** (1962 → executive 1964 → Act 2003).
 
 </details>
 
-**Q68.** With reference to simultaneous elections, which of the following is/are correct?  
+**Q67.** Simultaneous LS and Assembly elections were the pattern roughly during?
+A. 1951–67
+B. 1977–84
+C. 1996–99
+D. 2014–19
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q68.** With reference to simultaneous elections, which of the following is/are correct?
 1. They can be ordered by an ECI circular under Article 324 alone.  
 2. Aligning terms would need changes to Articles 83, 85, 172 and 174.  
-Select the correct answer:  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+Select the correct answer using the code given below:
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q69.** Match List-I with List-II:  
-List-I — List-II  
-A. EVM makers — 1. High Court  
-B. Election petition — 2. BEL and ECIL  
-C. President-election dispute — 3. Article 71, Supreme Court  
-D. Party symbol on a split — 4. ECI (Symbols Order)  
-Code:  
-A. A-2, B-1, C-3, D-4  B. A-1, B-2, C-3, D-4  C. A-2, B-1, C-4, D-3  D. A-2, B-3, C-1, D-4
-
-<details><summary>Show answer</summary>
-
-**A**
+**Ans: B**
 
 </details>
 
-**Q70.** The Supreme Court in 2019 directed counting of VVPAT slips from how many polling stations per Assembly constituency?  
-A. All  B. 50%  C. Five  D. One
+**Q69.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
-<details><summary>Show answer</summary>
+**List-I**
 
-**C**
+| Code | Item |
+|------|------|
+| A | EVM makers |
+| B | Election petition |
+| C | President-election dispute |
+| D | Party symbol on a split |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | High Court |
+| 2 | BEL and ECIL |
+| 3 | Article 71, Supreme Court |
+| 4 | ECI (Symbols Order) |
+
+> Note: Row order in the tables is **not** the answer.
+
+Select the correct answer using the code given below:
+A. A-2, B-1, C-3, D-4
+B. A-1, B-2, C-3, D-4
+C. A-2, B-1, C-4, D-3
+D. A-2, B-3, C-1, D-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
 
 </details>
 
-**Q71.** Which of the following statements about *Lily Thomas* (2013) is/are correct?  
+**Q70.** The Supreme Court in 2019 directed counting of VVPAT slips from how many polling stations per Assembly constituency?
+A. All
+B. 50%
+C. Five
+D. One
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q71.** Which of the following statements about *Lily Thomas* (2013) is/are correct?
 1. A conviction of two years or more disqualifies at once under s.8(3) RPA.  
 2. It converted every criminal case into an election petition in the High Court.  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
+**Ans: A**
 
 </details>
 
-**Q72.** Which one of the following pairs is **not** correctly matched?  
+**Q72.** Which one of the following pairs is **not** correctly matched?
 A. Anti-defection — Tenth Schedule  
 B. Allocation of RS seats — Fourth Schedule  
 C. Allocation of RS seats — Second Schedule  
 D. Languages — Eighth Schedule
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** — 2019 trap.
+**Ans: C** — 2019 trap.
 
 </details>
 
@@ -1437,126 +1776,170 @@ D. Languages — Eighth Schedule
 
 **Reason (R):** Free symbols are meant for unrecognised parties and independents.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
-C. (A) is true but (R) is false  
-D. (A) is false but (R) is true
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
-
-</details>
-
-**Q74.** How many of the following are **statutory** (Act / Constitution) rather than mere ECI convention?  
-1. Model Code of Conduct  2. Tenth Schedule  3. s.29A registration  4. NOTA button  
-A. Only one  B. Only two  C. Only three  D. All four
-
-<details><summary>Show answer</summary>
-
-**B** — 2 and 3. MCC = convention; NOTA = SC + ECI implementation.
+**Ans: A**
 
 </details>
 
-**Q75.** The Kovind committee (2023–24) dealt with—  
-A. Finance Commission  B. Simultaneous elections  C. Official language  D. CBI Director
+**Q74.** How many of the following are **statutory** (Act / Constitution) rather than mere ECI convention?
+1. Model Code of Conduct
+2. Tenth Schedule
+3. s.29A registration
+4. NOTA button
+A. Only one
+B. Only two
+C. Only three
+D. All four
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q76.** A nominated member of a House may join a political party without defection if he does so within—  
-A. 15 days  B. 1 month  C. 6 months  D. Never
-
-<details><summary>Show answer</summary>
-
-**C**
-
-</details>
-
-**Q77.** Which of the following committees recommended state funding of elections?  
-A. Santhanam  B. Indrajit Gupta  C. Sarkaria  D. Punchhi
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B** — 2 and 3. MCC = convention; NOTA = SC + ECI implementation.
 
 </details>
 
-**Q78.** EVMs used in Indian elections are manufactured by—  
-1. Bharat Electronics Limited  2. Electronics Corporation of India Limited  3. A private foreign vendor as the sole supplier  
-A. 1 and 2 only  B. 1 and 3 only  C. 2 and 3 only  D. 1, 2 and 3
+**Q75.** The Kovind committee (2023–24) dealt with which of the following?
+A. Finance Commission
+B. Simultaneous elections
+C. Official language
+D. CBI Director
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
+**Ans: B**
 
 </details>
 
-**Q79.** Which one of the following is **not** correctly matched?  
+**Q76.** A nominated member of a House may join a political party without defection if he does so within?
+A. 15 days
+B. 1 month
+C. 6 months
+D. Never
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q77.** Which of the following committees recommended state funding of elections?
+A. Santhanam
+B. Indrajit Gupta
+C. Sarkaria
+D. Punchhi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q78.** EVMs used in Indian elections are manufactured by which of the following?
+1. Bharat Electronics Limited
+2. Electronics Corporation of India Limited
+3. A private foreign vendor as the sole supplier
+A. 1 and 2 only
+B. 1 and 3 only
+C. 2 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q79.** Which one of the following is **not** correctly matched?
 A. *PUCL* 2013 — NOTA  
 B. *Kihoto Hollohan* — judicial review of 10th Schedule  
 C. *Lily Thomas* — delimitation freeze  
 D. *ADR* 2024 — electoral bonds unconstitutional
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q80.** Criminal antecedents, assets and education of candidates must be disclosed in an affidavit because of—  
-A. 52nd Amendment  B. Supreme Court *ADR/PUCL* (2002–03)  C. 84th Amendment  D. Article 326
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C**
 
 </details>
 
-**Q81.** Arrange:  
+**Q80.** Criminal antecedents, assets and education of candidates must be disclosed in an affidavit because of which of the following?
+A. 52nd Amendment
+B. Supreme Court *ADR/PUCL* (2002–03)
+C. 84th Amendment
+D. Article 326
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q81.** Arrange the following in chronological order:
 1. 52nd Amendment (defection)  
 2. 91st Amendment (merger 2/3)  
 3. *PUCL* NOTA  
 4. Electoral bonds struck down  
-A. 1-2-3-4  B. 1-3-2-4  C. 2-1-3-4  D. 1-2-4-3
+A. 1-2-3-4
+B. 1-3-2-4
+C. 2-1-3-4
+D. 1-2-4-3
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — **1985 → 2003 → 2013 → 2024**.
-
-</details>
-
-**Q82.** With reference to a party split, the reserved symbol is allotted by the—  
-A. Speaker alone  B. Election Commission under the Symbols Order  C. Supreme Court as a first forum  D. Delimitation Commission
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: A** — **1985 → 2003 → 2013 → 2024**.
 
 </details>
 
-**Q83.** Which of the following statements is/are correct?  
+**Q82.** With reference to a party split, the reserved symbol is allotted by the?
+A. Speaker alone
+B. Election Commission under the Symbols Order
+C. Supreme Court as a first forum
+D. Delimitation Commission
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q83.** Which of the following statements is/are correct?
 1. A National Party must have been a State party in four States **or** meet the vote/seat tests.  
 2. ECI cannot strip national status once granted.  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — ECI **reviews** after polls.
+**Ans: A** — ECI **reviews** after polls.
 
 </details>
 
-**Q84.** The 8% vote route to State-party status means—  
+**Q84.** The 8% vote route to State-party status means?
 A. Eight per cent of LS seats in India  
 B. Eight per cent of valid votes in that State, even without winning a seat  
 C. Eight States  
 D. Eight star campaigners
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
 
 </details>
 
@@ -1566,64 +1949,85 @@ D. Eight star campaigners
 
 **Reason (R):** Article 71 sends that dispute to the Supreme Court.  
 A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
-B. Both (A) and (R) are true but (R) is not the correct explanation of (A)  
-C. (A) is true but (R) is false  
-D. (A) is false but (R) is true
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
-
-</details>
-
-**Q86.** Booth capturing is treated in the RPA as—  
-A. A Model Code courtesy  B. A corrupt practice / offence as the Act provides  C. A 10th Schedule ground  D. A Delimitation defect
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: A**
 
 </details>
 
-**Q87.** Which of the following is **not** correctly matched?  
+**Q86.** Booth capturing is treated in the RPA as which of the following?
+A. A Model Code courtesy
+B. A corrupt practice / offence as the Act provides
+C. A 10th Schedule ground
+D. A Delimitation defect
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q87.** Which of the following is **not** correctly matched?
 A. Ninth Schedule — defection  
 B. Tenth Schedule — defection  
 C. Fourth Schedule — RS seat allocation  
 D. Eighth Schedule — languages
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — 9th = **validation of laws**.
-
-</details>
-
-**Q88.** Nationwide VVPAT at every booth was first done in the Lok Sabha election of—  
-A. 2004  B. 2009  C. 2014  D. 2019
-
-<details><summary>Show answer</summary>
-
-**D**
+**Ans: A** — 9th = **validation of laws**.
 
 </details>
 
-**Q89.** How many of the following use an election **petition in the High Court**?  
-1. Lok Sabha  2. Vidhan Sabha  3. President  4. Vice-President  
-A. Only one  B. Only two  C. Only three  D. All four
+**Q88.** Nationwide VVPAT at every booth was first done in the Lok Sabha election of which of the following?
+A. 2004
+B. 2009
+C. 2014
+D. 2019
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — President/VP = **Art. 71 SC**.
+**Ans: D**
 
 </details>
 
-**Q90.** Which of the following statements is/are correct?  
+**Q89.** How many of the following use an election **petition in the High Court**?
+1. Lok Sabha
+2. Vidhan Sabha
+3. President
+4. Vice-President
+A. Only one
+B. Only two
+C. Only three
+D. All four
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — President/VP = **Art. 71 SC**.
+
+</details>
+
+**Q90.** Which of the following statements is/are correct?
 1. Free and fair elections are enforced only through the MCC.  
 2. An election petition is the constitutional route to challenge a returned candidate for the Lok Sabha.  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
 
 </details>
 
@@ -1638,7 +2042,10 @@ Which of the following pairs is/are NOT correctly matched?
 1. National Voters' Day (India) — 25 January  
 2. Constitution Day (India) — 27 January  
 3. Human Rights Day (World) — 29 January  
-A. 1 and 2  B. 2 and 3  C. Only 3  D. Only 1
+A. 1 and 2
+B. 2 and 3
+C. Only 3
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -1653,7 +2060,10 @@ Consider the following electoral reforms in India and arrange them in correct ch
 2. Electronic Voting Machine (EVM)  
 3. Voter Verifiable Paper Audit Trail (VVPAT)  
 4. NOTA  
-A. 2, 1, 3, 4  B. 1, 2, 4, 3  C. 1, 2, 3, 4  D. 2, 1, 4, 3
+A. 2, 1, 3, 4
+B. 1, 2, 4, 3
+C. 1, 2, 3, 4
+D. 2, 1, 4, 3
 
 <details>
 <summary>Show answer</summary>
@@ -1664,9 +2074,18 @@ A. 2, 1, 3, 4  B. 1, 2, 4, 3  C. 1, 2, 3, 4  D. 2, 1, 4, 3
 
 **Q1b. UPPCS Prelims 2025, Q113**  
 Match List-I (Schedule) with List-II:  
-A. Seventh  B. Eighth  C. Ninth  D. Tenth  
-1. Language  2. Disqualification on the ground of defection  3. Union, State and Concurrent Lists  4. Validation of certain Acts and Regulations  
-A. 3 1 2 4  B. 3 1 4 2  C. 2 3 4 4  D. 4 2 1 3
+A. Seventh
+B. Eighth
+C. Ninth
+D. Tenth
+1. Language
+2. Disqualification on the ground of defection
+3. Union, State and Concurrent Lists
+4. Validation of certain Acts and Regulations
+A. A-3, B-1, C-2, D-4
+B. A-3, B-1, C-4, D-2
+C. A-2, B-3, C-4, D-4
+D. A-4, B-2, C-1, D-3
 
 <details>
 <summary>Show answer</summary>
@@ -1682,7 +2101,10 @@ Which of the following are the functions of the Election Commission of India?
 1. Conduct of elections for the posts of the Speaker and the Deputy Speaker of the Lok Sabha and Deputy Chairman of the Rajya Sabha.  
 2. Conduct of elections of the Municipal Corporations and Municipalities.  
 3. Deciding on all doubts and disputes arising out of the above elections.  
-A. 2 and 3  B. 1 and 2  C. 1 and 3  D. None of the above
+A. 2 and 3
+B. 1 and 2
+C. 1 and 3
+D. None of the above
 
 <details>
 <summary>Show answer</summary>
@@ -1696,8 +2118,14 @@ A. 2 and 3  B. 1 and 2  C. 1 and 3  D. None of the above
 **Q2a. UPPCS Prelims 2023, Q2**  
 Match List-I with List-II:  
 (A) Article 324  (B) Article 315  (C) Article 280  (D) Article 338  
-1. NCSC  2. Finance Commission  3. Public Service Commission  4. Election Commission  
-A. A-3, B-2, C-4, D-1  B. A-4, B-3, C-2, D-1  C. A-3, B-2, C-1, D-4  D. A-1, B-3, C-4, D-2
+1. NCSC
+2. Finance Commission
+3. Public Service Commission
+4. Election Commission
+A. A-3, B-2, C-4, D-1
+B. A-4, B-3, C-2, D-1
+C. A-3, B-2, C-1, D-4
+D. A-1, B-3, C-4, D-2
 
 <details>
 <summary>Show answer</summary>
@@ -1708,7 +2136,10 @@ A. A-3, B-2, C-4, D-1  B. A-4, B-3, C-2, D-1  C. A-3, B-2, C-1, D-4  D. A-1, B-3
 
 **Q3. UPPCS Prelims 2023, Q17**  
 All elections to the Panchayats are conducted by—  
-A. State Legislature  B. State Election Commission  C. Election Commission of India  D. Panchayati Raj Commission of India
+A. State Legislature
+B. State Election Commission
+C. Election Commission of India
+D. Panchayati Raj Commission of India
 
 <details>
 <summary>Show answer</summary>
@@ -1735,7 +2166,10 @@ D. Tenth Schedule — Provisions as to disqualification on the ground of defecti
 
 **Q4. UPPCS Prelims 2022, Q141**  
 Which one of the following pairs is NOT correctly matched?  
-A. 13th Lok Sabha — 1999  B. 11th Lok Sabha — 1996  C. 9th Lok Sabha — 1989  D. 7th Lok Sabha — 1982
+A. 13th Lok Sabha — 1999
+B. 11th Lok Sabha — 1996
+C. 9th Lok Sabha — 1989
+D. 7th Lok Sabha — 1982
 
 <details>
 <summary>Show answer</summary>
@@ -1748,7 +2182,10 @@ A. 13th Lok Sabha — 1999  B. 11th Lok Sabha — 1996  C. 9th Lok Sabha — 198
 
 **Q5. UPPCS Prelims 2021, Q113**  
 Which Constitution Amendment Act reduced the voting age from 21 years to 18 years?  
-A. 66th  B. 62nd  C. 61st  D. 63rd
+A. 66th
+B. 62nd
+C. 61st
+D. 63rd
 
 <details>
 <summary>Show answer</summary>
@@ -1761,7 +2198,10 @@ A. 66th  B. 62nd  C. 61st  D. 63rd
 
 **Q6. UPPCS Prelims 2020, Q100**  
 The superintendence, direction and control of all elections to the Panchayats are vested in—  
-A. The Governor  B. The Election Commission of India  C. The District Panchayat Raj Officer  D. The State Election Commission
+A. The Governor
+B. The Election Commission of India
+C. The District Panchayat Raj Officer
+D. The State Election Commission
 
 <details>
 <summary>Show answer</summary>

@@ -113,7 +113,10 @@ Conduct 1964 (R.3/5/9/13/18) ≠ CCA 1965. MeitY ministry 19 Jul 2016. MeghRaj =
 
 The National Disaster Management Division in India is the nodal division in the Ministry of Home Affairs for disaster management. Who is the Ex-officio Chairman of the National Disaster Management Authority?
 
-A. The Prime Minister  B. The Home Minister  C. The Defence Minister  D. The Health and Family Welfare Minister
+A. The Prime Minister
+B. The Home Minister
+C. The Defence Minister
+D. The Health and Family Welfare Minister
 
 <details>
 <summary>Show answer</summary>
@@ -148,7 +151,10 @@ A. The Prime Minister  B. The Home Minister  C. The Defence Minister  D. The Hea
 
 Mazdoor Kisan Shakti Sangathan (MKSS), a Social Movement has been associated with which of the following in India?
 
-A. RTE Act  B. RTI Act  C. MGNREGA  D. National Health Mission (NHM)
+A. RTE Act
+B. RTI Act
+C. MGNREGA
+D. National Health Mission (NHM)
 
 <details>
 <summary>Show answer</summary>
@@ -198,7 +204,10 @@ With reference to “National Food Security Act”, which of the following state
 2. It has special focus on nutritional support to women and children.  
 3. It was enforced on July 5, 2010.
 
-A. 2 and 3  B. 1 and 3  C. 1, 2 and 3  D. 1 and 2
+A. 2 and 3
+B. 1 and 3
+C. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
@@ -215,7 +224,10 @@ I. It will cover upto 75 percent rural and 50 percent urban population.
 II. Special focus on nutritional support to women and children.  
 III. Eldest woman of above 18 years age will be head of household.
 
-A. I and II  B. II and III  C. I, II and III  D. None
+A. I and II
+B. II and III
+C. I, II and III
+D. None
 
 <details>
 <summary>Show answer</summary>
@@ -274,7 +286,10 @@ A. I and II  B. II and III  C. I, II and III  D. None
 
 The symbol ‘ECOMARC’ is related to which of the following?
 
-A. Goods of best quality  B. Safe goods for environment  C. Exported goods  D. Imported goods
+A. Goods of best quality
+B. Safe goods for environment
+C. Exported goods
+D. Imported goods
 
 <details>
 <summary>Show answer</summary>
@@ -289,7 +304,10 @@ A. Goods of best quality  B. Safe goods for environment  C. Exported goods  D. I
 
 **Reason (R):** MRP is the price above which a seller cannot charge a buyer.
 
-A. Both true, R not explanation  B. A false R true  C. A true R false  D. Both true and R explains A
+A. Both true, R not explanation
+B. A false R true
+C. A true R false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
@@ -395,7 +413,10 @@ Which of the following labour related Acts have been amalgamated into the ‘Cod
 
 I. Minimum Wages Act  II. Payment of Bonus Act  III. The Contract Labour Act  IV. Equal Remuneration Act
 
-A. I and II only  B. II and III only  C. I, II and IV only  D. I, II, III and IV
+A. I and II only
+B. II and III only
+C. I, II and IV only
+D. I, II, III and IV
 
 <details>
 <summary>Show answer</summary>
@@ -520,7 +541,10 @@ Which of the following statements are correct regarding ICT based e-Governance?
 3. e-Governance increases citizens' input into Government.  
 4. e-Governance increases bureaucratic red-tapism.
 
-A. 2 and 4  B. 2 and 3  C. 1, 2 and 3  D. 2, 3 and 4
+A. 2 and 4
+B. 2 and 3
+C. 1, 2 and 3
+D. 2, 3 and 4
 
 <details>
 <summary>Show answer</summary>
@@ -714,9 +738,15 @@ Divide trap: Digital India ≠ Make in India ≠ Smart Cities (2015 cousins, dif
 
 In June 2025, the “Adi Karmayogi Beta Version – A Responsive Governance Initiative” was launched by which Ministry?
 
-1. AYUSH  2. WCD  3. Social Justice  4. Tribal Affairs  
+1. AYUSH
+2. WCD
+3. Social Justice
+4. Tribal Affairs
 
-A. 1 and 2 only  B. Only 4  C. 2 and 3 only  D. Only 1
+A. 1 and 2 only
+B. Only 4
+C. 2 and 3 only
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -899,94 +929,147 @@ A. 1 and 2 only  B. Only 4  C. 2 and 3 only  D. Only 1
 
 ## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden.** **120 questions.** ≥60% multi-statement / application. Mix: A/R, Match List, chronology, NOT-correctly-matched.
+> **Answers hidden.** Full stems (not cryptic stubs). **120 questions.** ≥60% multi-statement / application. Mix: A/R, Match List, chronology, NOT-correctly-matched.
 
-**Q1.** MKSS has been associated with—  
-A. RTE Act  B. RTI Act  C. MGNREGA  D. NHM
+**Q1.** MKSS has been associated with which of the following?
+A. RTE Act
+B. RTI Act
+C. MGNREGA
+D. NHM
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q2.** Ex-officio Chairperson of NDMA is the—  
-A. Home Minister  B. Prime Minister  C. Cabinet Secretary  D. Defence Minister
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q3.** With reference to NFSA, which of the following is/are correct?  
+**Q2.** Ex-officio Chairperson of NDMA is the?
+A. Home Minister
+B. Prime Minister
+C. Cabinet Secretary
+D. Defence Minister
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q3.** With reference to NFSA, which of the following is/are correct?
 1. Coverage up to 75% rural and 50% urban.  
 2. Eldest woman of 18 years or above is head of the household.  
 3. It was enforced on 5 July 2010.  
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
-
-</details>
-
-**Q4.** PESA was passed in—  
-A. 1993  B. 1995  C. 1996  D. 1998
-
-<details><summary>Show answer</summary>
-
-**C**
+**Ans: A**
 
 </details>
 
-**Q5.** Code on Wages, 2019 amalgamated which of the following?  
+**Q4.** PESA was passed in which of the following?
+A. 1993
+B. 1995
+C. 1996
+D. 1998
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q5.** Code on Wages, 2019 amalgamated which of the following?
 I. Minimum Wages Act  II. Payment of Bonus Act  III. Contract Labour Act  IV. Equal Remuneration Act  
-A. I and II only  B. II and III only  C. I, II and IV only  D. All four
+A. I and II only
+B. II and III only
+C. I, II and IV only
+D. All four
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q6.** RTE Act came into force on—  
-A. 12 Oct 2005  B. 1 Apr 2010  C. 10 Sep 2013  D. 26 Jan 2002
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C**
 
 </details>
 
-**Q7.** Match:  
-A. RTI — 1. 2006  
-B. RTE Act — 2. 2005  
-C. FRA — 3. 2009  
-D. NFSA — 4. 2013  
-A. A-2, B-3, C-1, D-4  B. A-2, B-1, C-3, D-4  C. A-3, B-2, C-1, D-4  D. A-2, B-3, C-4, D-1
+**Q6.** RTE Act came into force on?
+A. 12 Oct 2005
+B. 1 Apr 2010
+C. 10 Sep 2013
+D. 26 Jan 2002
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
-
-</details>
-
-**Q8.** Which one of the following is **not** correctly matched?  
-A. NDMA — PM  B. SDMA — CM  C. DDMA — DM  D. NEC — Home Minister
-
-<details><summary>Show answer</summary>
-
-**D** — NEC = **Cabinet Secretary**.
+**Ans: B**
 
 </details>
 
-**Q9.** ECO Mark relates to—  
-A. Best quality  B. Environment-safe goods  C. Exports  D. Imports
+**Q7.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
-<details><summary>Show answer</summary>
+**List-I**
 
-**B**
+| Code | Item |
+|------|------|
+| A | RTI |
+| B | RTE Act |
+| C | FRA |
+| D | NFSA |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | 2006 |
+| 2 | 2005 |
+| 3 | 2009 |
+| 4 | 2013 |
+
+> Note: Row order in the tables is **not** the answer.
+
+A. A-2, B-3, C-1, D-4
+B. A-2, B-1, C-3, D-4
+C. A-3, B-2, C-1, D-4
+D. A-2, B-3, C-4, D-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q8.** Which one of the following is **not** correctly matched?
+A. NDMA — PM
+B. SDMA — CM
+C. DDMA — DM
+D. NEC — Home Minister
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — NEC = **Cabinet Secretary**.
+
+</details>
+
+**Q9.** ECO Mark relates to which of the following?
+A. Best quality
+B. Environment-safe goods
+C. Exports
+D. Imports
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
 
 </details>
 
@@ -995,145 +1078,223 @@ A. Best quality  B. Environment-safe goods  C. Exports  D. Imports
 **Assertion (A):** Consumers may bargain below MRP.
 
 **Reason (R):** MRP is a ceiling — the seller cannot charge more.  
-A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. A false R true
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true, R not explanation
+C. A true R false
+D. A false R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
-
-</details>
-
-**Q11.** FRA, 2006 is administered by the—  
-A. Ministry of Environment  B. Ministry of Tribal Affairs  C. Ministry of Rural Development  D. NITI Aayog
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: A**
 
 </details>
 
-**Q12.** A PIO must reply to an RTI request in—  
-A. 30 days ordinarily; 48 hours if life/liberty  B. 45 days always  C. 15 days always  D. 90 days
+**Q11.** FRA, 2006 is administered by the?
+A. Ministry of Environment
+B. Ministry of Tribal Affairs
+C. Ministry of Rural Development
+D. NITI Aayog
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
+**Ans: B**
 
 </details>
 
-**Q13.** Which of the following is/are correct about PESA?  
+**Q12.** A PIO must reply to an RTI request in which of the following?
+A. 30 days ordinarily; 48 hours if life/liberty
+B. 45 days always
+C. 15 days always
+D. 90 days
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q13.** Which of the following is/are correct about PESA?
 1. It extends Part IX to Fifth Schedule areas.  
 2. It automatically applies to Sixth Schedule areas.  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
-
-</details>
-
-**Q14.** POCSO applies to a child below—  
-A. 14  B. 16  C. 18  D. 21
-
-<details><summary>Show answer</summary>
-
-**C**
+**Ans: A**
 
 </details>
 
-**Q15.** The 2018 amendment to the SC/ST PoA Act was a reply to—  
-A. Kesavananda  B. *Mahajan* dilution of arrest/bail  C. Golaknath  D. PESA
+**Q14.** POCSO applies to a child below?
+A. 14
+B. 16
+C. 18
+D. 21
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q16.** Consumer Protection Act, 2019 inserted which of the following?  
-1. CCPA  2. Product liability  3. Coverage of e-commerce  
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
-
-<details><summary>Show answer</summary>
-
-**D**
+**Ans: C**
 
 </details>
 
-**Q17.** Whistle Blowers Protection Act was passed in—  
-A. 2005  B. 2013  C. 2014  D. 2019
+**Q15.** The 2018 amendment to the SC/ST PoA Act was a reply to which of the following?
+A. Kesavananda
+B. *Mahajan* dilution of arrest/bail
+C. Golaknath
+D. PESA
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q18.** Which one of the following is **not** correctly matched?  
-A. PHRA — 1993  B. PoA — 1989  C. POCSO — 2012  D. CPA (new) — 1986
-
-<details><summary>Show answer</summary>
-
-**D** — new CPA = **2019**.
+**Ans: B**
 
 </details>
 
-**Q19.** CAA 2019 does **not** cover migrants who are—  
-A. Hindu  B. Sikh  C. Muslim  D. Christian
+**Q16.** Consumer Protection Act, 2019 inserted which of the following?
+1. CCPA
+2. Product liability
+3. Coverage of e-commerce
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q20.** Four labour codes: which pair is **not** correctly matched?  
-A. Wages — 2019  B. IR — 2020  C. OSH — 2020  D. Social Security — 2019
-
-<details><summary>Show answer</summary>
-
-**D** — SS Code **2020**.
+**Ans: D**
 
 </details>
 
-**Q21.** National Consumer Day in India is—  
-A. 15 March  B. 24 December  C. 12 October  D. 10 December
+**Q17.** Whistle Blowers Protection Act was passed in which of the following?
+A. 2005
+B. 2013
+C. 2014
+D. 2019
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — 15 Mar = **World** Consumer Rights Day.
+**Ans: C**
 
 </details>
 
-**Q22.** Consider:  
+**Q18.** Which one of the following is **not** correctly matched?
+A. PHRA — 1993
+B. PoA — 1989
+C. POCSO — 2012
+D. CPA (new) — 1986
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — new CPA = **2019**.
+
+</details>
+
+**Q19.** CAA 2019 does **not** cover migrants who are?
+A. Hindu
+B. Sikh
+C. Muslim
+D. Christian
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q20.** Four labour codes: which pair is **not** correctly matched?
+A. Wages — 2019
+B. IR — 2020
+C. OSH — 2020
+D. Social Security — 2019
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — SS Code **2020**.
+
+</details>
+
+**Q21.** National Consumer Day in India is?
+A. 15 March
+B. 24 December
+C. 12 October
+D. 10 December
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — 15 Mar = **World** Consumer Rights Day.
+
+</details>
+
+**Q22.** Consider the following statements:
 1. RTI Amendment 2019 fixed CIC tenure as 5 years equal to the CEC.  
 2. CIC is a constitutional body.  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
-
-</details>
-
-**Q23.** Under NFSA, AAY households are entitled to—  
-A. 5 kg per person  B. 35 kg per household  C. 25 kg per person  D. Nothing special
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: D**
 
 </details>
 
-**Q24.** Match:  
-A. 86th Amd — 1. Food security statute  
-B. RTE Act — 2. 21A  
-C. NFSA — 3. 2009 statute  
-A. A-2, B-3, C-1  B. A-3, B-2, C-1  C. A-2, B-1, C-3  D. A-1, B-2, C-3
+**Q23.** Under NFSA, AAY households are entitled to which of the following?
+A. 5 kg per person
+B. 35 kg per household
+C. 25 kg per person
+D. Nothing special
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
+**Ans: B**
+
+</details>
+
+**Q24.** Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | 86th Amd |
+| B | RTE Act |
+| C | NFSA |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | Food security statute |
+| 2 | 21A |
+| 3 | 2009 statute |
+
+> Note: Row order in the tables is **not** the answer.
+
+A. A-2, B-3, C-1
+B. A-3, B-2, C-1
+C. A-2, B-1, C-3
+D. A-1, B-2, C-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
 
 </details>
 
@@ -1142,170 +1303,242 @@ A. A-2, B-3, C-1  B. A-3, B-2, C-1  C. A-2, B-1, C-3  D. A-1, B-2, C-3
 **Assertion (A):** The Disaster Management Division is in MHA.
 
 **Reason (R):** Therefore the Home Minister chairs NDMA.  
-A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. A false R true
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true, R not explanation
+C. A true R false
+D. A false R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** — R is false (PM chairs).
-
-</details>
-
-**Q26.** Gram Sabha is the initiating authority under the—  
-A. RTI Act  B. Forest Rights Act  C. POCSO  D. PC Act
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C** — R is false (PM chairs).
 
 </details>
 
-**Q27.** Which of the following is/are correct?  
+**Q26.** Gram Sabha is the initiating authority under the?
+A. RTI Act
+B. Forest Rights Act
+C. POCSO
+D. PC Act
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q27.** Which of the following is/are correct?
 1. Giving a bribe is an offence after the 2018 PC Act amendment.  
 2. Lokpal Act and PC Act are the same statute.  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
-
-</details>
-
-**Q28.** Protection of Human Rights Act, 2019 amendment allows NHRC Chair to be—  
-A. Only a sitting CJI  B. A retired SC judge (not only retired CJI)  C. The Home Minister  D. The CIC
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: A**
 
 </details>
 
-**Q29.** RPA 1950 primarily deals with—  
-A. Conduct of elections and petitions  B. Rolls, seat allocation, delimitation machinery  C. Official language  D. NDMA
+**Q28.** Protection of Human Rights Act, 2019 amendment allows NHRC Chair to be?
+A. Only a sitting CJI
+B. A retired SC judge (not only retired CJI)
+C. The Home Minister
+D. The CIC
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — 1951 = conduct / petitions.
-
-</details>
-
-**Q30.** Which of the following is **not** a dimension of food security?  
-A. Availability  B. Accessibility  C. Affordability  D. Accountability
-
-<details><summary>Show answer</summary>
-
-**D**
+**Ans: B**
 
 </details>
 
-**Q31.** Arrange: I RTI Act  II RTE Act in force  III NFSA  IV CPA 2019  
-A. I, II, III, IV  B. I, III, II, IV  C. II, I, III, IV  D. I, II, IV, III
+**Q29.** RPA 1950 primarily deals with which of the following?
+A. Conduct of elections and petitions
+B. Rolls, seat allocation, delimitation machinery
+C. Official language
+D. NDMA
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — 2005 → 2010 → 2013 → 2019.
-
-</details>
-
-**Q32.** Contract Labour Act was amalgamated into the—  
-A. Code on Wages 2019  B. OSH Code 2020  C. RTI Act  D. PESA
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B** — 1951 = conduct / petitions.
 
 </details>
 
-**Q33.** Which one of the following is **not** correctly matched?  
-A. PESA — Fifth Schedule  B. FRA cutoff — 13 Dec 2005  C. RTE private quota — 25%  D. NFSA urban cover — 75%
+**Q30.** Which of the following is **not** a dimension of food security?
+A. Availability
+B. Accessibility
+C. Affordability
+D. Accountability
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D** — urban **50%**. Rural 75%.
-
-</details>
-
-**Q34.** Mandatory reporting of child sexual offences is a feature of—  
-A. RTI  B. POCSO  C. NFSA  D. FRA
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: D**
 
 </details>
 
-**Q35.** Consider:  
+**Q31.** Arrange the following in chronological order: I RTI Act  II RTE Act in force  III NFSA  IV CPA 2019
+A. I, II, III, IV
+B. I, III, II, IV
+C. II, I, III, IV
+D. I, II, IV, III
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — 2005 → 2010 → 2013 → 2019.
+
+</details>
+
+**Q32.** Contract Labour Act was amalgamated into the?
+A. Code on Wages 2019
+B. OSH Code 2020
+C. RTI Act
+D. PESA
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q33.** Which one of the following is **not** correctly matched?
+A. PESA — Fifth Schedule
+B. FRA cutoff — 13 Dec 2005
+C. RTE private quota — 25%
+D. NFSA urban cover — 75%
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — urban **50%**. Rural 75%.
+
+</details>
+
+**Q34.** Mandatory reporting of child sexual offences is a feature of which of the following?
+A. RTI
+B. POCSO
+C. NFSA
+D. FRA
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q35.** Consider the following statements:
 1. GOI Act 1935 is a pre-Independence constitutional statute, not a post-1950 “Important Act” of this chapter.  
 2. Citizenship Act 1955 is the working law under Article 11.  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q36.** CCPA under the 2019 Consumer Act is the—  
-A. Supreme Court bench  B. Central Consumer Protection Authority  C. FAO body  D. NDMA cell
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C**
 
 </details>
 
-**Q37.** Which of the following statements is/are correct?  
+**Q36.** CCPA under the 2019 Consumer Act is the?
+A. Supreme Court bench
+B. Central Consumer Protection Authority
+C. FAO body
+D. NDMA cell
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q37.** Which of the following statements is/are correct?
 1. PCR Act 1955 and PoA Act 1989 are the same.  
 2. PoA is the heavier atrocities statute.  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q38.** NDRF is raised under the—  
-A. RTI Act  B. Disaster Management Act 2005  C. PESA  D. CPA 2019
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q39.** Maternity benefit of ₹6,000 under NFSA is for—  
-A. All adult men  B. Pregnant / lactating women as the Act provides  C. Only AAY men  D. Teachers under RTE
+**Q38.** NDRF is raised under the?
+A. RTI Act
+B. Disaster Management Act 2005
+C. PESA
+D. CPA 2019
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q40.** Which one of the following is **not** correctly matched?  
-A. First CIC — Wajahat Habibullah  B. MKSS — RTI  C. Bhuria — PESA  D. MKSS — RTE
-
-<details><summary>Show answer</summary>
-
-**D**
+**Ans: B**
 
 </details>
 
-**Q41.** Illegal migrant (Citizenship Act, post-2003) is generally barred from—  
-A. Only voting  B. Birth / registration / naturalisation routes as provided  C. Holding a ration card only  D. Nothing
+**Q39.** Maternity benefit of ₹6,000 under NFSA is for which of the following?
+A. All adult men
+B. Pregnant / lactating women as the Act provides
+C. Only AAY men
+D. Teachers under RTE
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — CAA is a listed exception to the illegal-migrant bar.
+**Ans: B**
 
 </details>
 
-**Q42.** District Consumer Commission’s present pecuniary cap is—  
-A. ₹20 lakh as in 1986 forever  B. ₹50 lakh  C. ₹10 crore  D. Unlimited
+**Q40.** Which one of the following is **not** correctly matched?
+A. First CIC — Wajahat Habibullah
+B. MKSS — RTI
+C. Bhuria — PESA
+D. MKSS — RTE
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: D**
+
+</details>
+
+**Q41.** Illegal migrant (Citizenship Act, post-2003) is generally barred from which of the following?
+A. Only voting
+B. Birth / registration / naturalisation routes as provided
+C. Holding a ration card only
+D. Nothing
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — CAA is a listed exception to the illegal-migrant bar.
+
+</details>
+
+**Q42.** District Consumer Commission’s present pecuniary cap is?
+A. ₹20 lakh as in 1986 forever
+B. ₹50 lakh
+C. ₹10 crore
+D. Unlimited
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
 
 </details>
 
@@ -1314,91 +1547,143 @@ A. ₹20 lakh as in 1986 forever  B. ₹50 lakh  C. ₹10 crore  D. Unlimited
 **Assertion (A):** PESA does not apply to Nagaland.
 
 **Reason (R):** Nagaland is a Fifth Schedule State.  
-A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. A false R true
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true, R not explanation
+C. A true R false
+D. A false R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** — Nagaland is **243M / 371A**, not 5th Sch.
-
-</details>
-
-**Q44.** The Official Secrets Act vis-à-vis RTI—  
-A. Was repealed in 2005  B. Still exists; s.8 RTI is the exemption route  C. Is the same as CPA 2019  D. Creates NDMA
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C** — Nagaland is **243M / 371A**, not 5th Sch.
 
 </details>
 
-**Q45.** Which of the following is/are correct?  
+**Q44.** The Official Secrets Act vis-à-vis RTI?
+A. Was repealed in 2005
+B. Still exists; s.8 RTI is the exemption route
+C. Is the same as CPA 2019
+D. Creates NDMA
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q45.** Which of the following is/are correct?
 1. Four labour codes have replaced a large cluster of old labour Acts.  
 2. They are all fully enforced in every State on a single 2019 date.  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — enforcement still **staggered**.
-
-</details>
-
-**Q46.** RTI application fee is ordinarily—  
-A. ₹50; none for BPL  B. ₹10; **none for BPL**  C. ₹100 always  D. Free for everyone including companies
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: A** — enforcement still **staggered**.
 
 </details>
 
-**Q47.** Consider:  
+**Q46.** RTI application fee is ordinarily?
+A. ₹50; none for BPL
+B. ₹10; **none for BPL**
+C. ₹100 always
+D. Free for everyone including companies
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q47.** Consider the following statements:
 1. First RTI appeal lies within 30 days of the PIO’s reply.  
 2. Second appeal to CIC/SIC lies within 90 days.  
 3. RTI repealed the Official Secrets Act.  
-A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — s.22 **overrides** OSA; does **not** repeal it.
-
-</details>
-
-**Q48.** Which one of the following is **not** correctly matched?  
-A. RTE neighbourhood (primary) — 1 km  B. RTE private EWS — 25%  C. SMC parents — ¾  D. RTE age — 3–18
-
-<details><summary>Show answer</summary>
-
-**D** — **6–14**.
+**Ans: A** — s.22 **overrides** OSA; does **not** repeal it.
 
 </details>
 
-**Q49.** The 2019 amendment to the RTE Act allows a State to—  
-A. Drop 21A  B. Detain in Classes **5 and 8** after exam + re-test  C. Raise the age to 18  D. Scrap the 25% quota
+**Q48.** Which one of the following is **not** correctly matched?
+A. RTE neighbourhood (primary) — 1 km
+B. RTE private EWS — 25%
+C. SMC parents — ¾
+D. RTE age — 3–18
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q50.** Individual forest right under FRA is ordinarily capped at—  
-A. 1 acre  B. **4 hectares**  C. 10 hectares  D. No ceiling
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: D** — **6–14**.
 
 </details>
 
-**Q51.** Match:  
-A. NDRF (force) — 1. Cabinet Secretary  
-B. NDRF (fund) — 2. Battalions, MHA  
-C. NEC — 3. DM Act Response Fund  
-A. A-2, B-3, C-1  B. A-1, B-2, C-3  C. A-2, B-1, C-3  D. A-3, B-2, C-1
+**Q49.** The 2019 amendment to the RTE Act allows a State to which of the following?
+A. Drop 21A
+B. Detain in Classes **5 and 8** after exam + re-test
+C. Raise the age to 18
+D. Scrap the 25% quota
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
+**Ans: B**
+
+</details>
+
+**Q50.** Individual forest right under FRA is ordinarily capped at?
+A. 1 acre
+B. 4 hectares
+C. 10 hectares
+D. No ceiling
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q51.** Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | NDRF (force) |
+| B | NDRF (fund) |
+| C | NEC |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | Cabinet Secretary |
+| 2 | Battalions, MHA |
+| 3 | DM Act Response Fund |
+
+> Note: Row order in the tables is **not** the answer.
+
+A. A-2, B-3, C-1
+B. A-1, B-2, C-3
+C. A-2, B-1, C-3
+D. A-3, B-2, C-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
 
 </details>
 
@@ -1407,327 +1692,492 @@ A. A-2, B-3, C-1  B. A-1, B-2, C-3  C. A-2, B-1, C-3  D. A-3, B-2, C-1
 **Assertion (A):** COVID response used the Disaster Management Act.
 
 **Reason (R):** The Epidemic Diseases Act, 1897 was repealed in 2005.  
-A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. A false R true
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true, R not explanation
+C. A true R false
+D. A false R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** — 1897 Act **still** exists; both were used.
-
-</details>
-
-**Q53.** Arrange: I Water Act  II Air Act  III Environment (Protection) Act  IV NGT Act  
-A. I, II, III, IV  B. II, I, III, IV  C. I, III, II, IV  D. I, II, IV, III
-
-<details><summary>Show answer</summary>
-
-**A** — **1974 → 1981 → 1986 → 2010**.
+**Ans: C** — 1897 Act **still** exists; both were used.
 
 </details>
 
-**Q54.** POSH Act, 2013 requires an Internal Complaints Committee where the workplace has—  
-A. Any one worker  B. **10 or more** workers  C. 100 workers  D. Only government offices
+**Q53.** Arrange the following in chronological order: I Water Act  II Air Act  III Environment (Protection) Act  IV NGT Act
+A. I, II, III, IV
+B. II, I, III, IV
+C. I, III, II, IV
+D. I, II, IV, III
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — gap before 2013 was filled by **Vishaka (1997)**.
+**Ans: A** — **1974 → 1981 → 1986 → 2010**.
 
 </details>
 
-**Q55.** Which of the following is/are correct?  
+**Q54.** POSH Act, 2013 requires an Internal Complaints Committee where the workplace has?
+A. Any one worker
+B. **10 or more** workers
+C. 100 workers
+D. Only government offices
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — gap before 2013 was filled by **Vishaka (1997)**.
+
+</details>
+
+**Q55.** Which of the following is/are correct?
 1. RPwD Act 2016 replaced the PWD Act 1995.  
 2. Benchmark disability reservation is 4% (was 3%).  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q56.** s.17A of the Prevention of Corruption Act (2018) requires—  
-A. CIC approval for every RTI  B. **Prior approval** before enquiry into a public servant’s official decision (trap cases excepted)  C. President’s signature on every FIR  D. Repeal of the Lokpal Act
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C**
 
 </details>
 
-**Q57.** Which one of the following is **not** correctly matched?  
-A. Aadhaar — 2016  B. Mental Healthcare — 2017  C. Transgender Persons — 2019  D. NGT — 2002
+**Q56.** s.17A of the Prevention of Corruption Act (2018) requires?
+A. CIC approval for every RTI
+B. **Prior approval** before enquiry into a public servant’s official decision (trap cases excepted)
+C. President’s signature on every FIR
+D. Repeal of the Lokpal Act
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D** — NGT **2010**. Biological Diversity = **2002**.
-
-</details>
-
-**Q58.** Industrial Relations Code raises the standing-orders threshold to—  
-A. 50 workers  B. 100 workers (unchanged)  C. **300 workers**  D. 1000 workers
-
-<details><summary>Show answer</summary>
-
-**C**
+**Ans: B**
 
 </details>
 
-**Q59.** Consider:  
+**Q57.** Which one of the following is **not** correctly matched?
+A. Aadhaar — 2016
+B. Mental Healthcare — 2017
+C. Transgender Persons — 2019
+D. NGT — 2002
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — NGT **2010**. Biological Diversity = **2002**.
+
+</details>
+
+**Q58.** Industrial Relations Code raises the standing-orders threshold to which of the following?
+A. 50 workers
+B. 100 workers (unchanged)
+C. 300 workers
+D. 1000 workers
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q59.** Consider the following statements:
 1. FCRA 2010 (2020 Amd) caps administrative use of foreign contribution at 20%.  
 2. IT Act s.66A is still good law.  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — **s.66A struck 2015** (*Shreya Singhal*).
-
-</details>
-
-**Q60.** National / World consumer days — which is **not** correctly matched?  
-A. National Consumer Day — 24 December  B. World Consumer Rights Day — 15 March  C. Human Rights Day — 10 December  D. National Consumer Day — 15 March
-
-<details><summary>Show answer</summary>
-
-**D**
+**Ans: A** — **s.66A struck 2015** (*Shreya Singhal*).
 
 </details>
 
-**Q61.** Which of the following statements are correct regarding ICT-based e-Governance?  
+**Q60.** National / World consumer days — which is **not** correctly matched?
+A. National Consumer Day — 24 December
+B. World Consumer Rights Day — 15 March
+C. Human Rights Day — 10 December
+D. National Consumer Day — 15 March
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q61.** Which of the following statements are correct regarding ICT-based e-Governance?
 1. It reduces the transparency of government.  
 2. It reduces the cost of government.  
 3. It increases citizens’ input into government.  
 4. It increases bureaucratic red-tapism.  
-A. 2 and 4  B. 2 and 3  C. 1, 2 and 3  D. 2, 3 and 4
+A. 2 and 4
+B. 2 and 3
+C. 1, 2 and 3
+D. 2, 3 and 4
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
 
 </details>
 
-**Q62.** SMART governance expands as—  
+**Q62.** SMART governance expands as which of the following?
 A. Simple, Moral, Accountable, Responsive, Transparent  
 B. Swift, Mobile, Aadhaar, RTI, Telecom  
 C. State, Ministry, ARC, Rule, Tribunal  
 D. Social, MGNREGA, Audit, Ration, Tax
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
-
-</details>
-
-**Q63.** Match the e-gov interaction:  
-A. G2C — 1. GeM  
-B. G2B — 2. e-Office  
-C. G2G — 3. UMANG / DigiLocker  
-A. A-3, B-1, C-2  B. A-1, B-2, C-3  C. A-3, B-2, C-1  D. A-2, B-1, C-3
-
-<details><summary>Show answer</summary>
-
-**A**
+**Ans: A**
 
 </details>
 
-**Q64.** National e-Governance Plan was approved in—  
-A. 2002  B. 2006  C. 2015  D. 2020
+**Q63.** Match the e-gov interaction:
 
-<details><summary>Show answer</summary>
+**List-I**
 
-**B**
+| Code | Item |
+|------|------|
+| A | G2C |
+| B | G2B |
+| C | G2G |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | GeM |
+| 2 | e-Office |
+| 3 | UMANG / DigiLocker |
+
+> Note: Row order in the tables is **not** the answer.
+
+A. A-3, B-1, C-2
+B. A-1, B-2, C-3
+C. A-3, B-2, C-1
+D. A-2, B-1, C-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
 
 </details>
 
-**Q65.** e-Kranti is—  
-A. The 1st ARC’s 20th report  B. Pillar **5** of Digital India  C. A 1991 UK programme  D. The same as Mission Karmayogi
+**Q64.** National e-Governance Plan was approved in which of the following?
+A. 2002
+B. 2006
+C. 2015
+D. 2020
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q66.** Citizen’s Charter originated in—  
-A. India 1997, Atal  B. **UK 1991, John Major**  C. USA 1776  D. 2nd ARC 2005 as the first ever Charter
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q67.** Consider:  
+**Q65.** e-Kranti is?
+A. The 1st ARC’s 20th report
+B. Pillar **5** of Digital India
+C. A 1991 UK programme
+D. The same as Mission Karmayogi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q66.** Citizen’s Charter originated in which of the following?
+A. India 1997, Atal
+B. UK 1991, John Major
+C. USA 1776
+D. 2nd ARC 2005 as the first ever Charter
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q67.** Consider the following statements:
 1. A Citizen Charter in India is generally not a justiciable statute.  
 2. DARPG is the Union nodal department for Charters.  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q68.** How many characteristics of good governance does UNDP list?  
-A. Four  B. Six  C. **Eight**  D. Fifteen
-
-<details><summary>Show answer</summary>
-
-**C**
+**Ans: C**
 
 </details>
 
-**Q69.** Good Governance Day is observed on—  
-A. 26 January  B. **25 December**  C. 15 August  D. 2 October
+**Q68.** How many characteristics of good governance does UNDP list?
+A. Four
+B. Six
+C. Eight
+D. Fifteen
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — Atal Bihari Vajpayee’s birthday; from **2014**.
-
-</details>
-
-**Q70.** Which one of the following is **not** a UNDP good-governance characteristic?  
-A. Participatory  B. Rule of law  C. Consensus-oriented  D. **Food-grain accountability**
-
-<details><summary>Show answer</summary>
-
-**D** — 2025 NFSA trap; don’t mix lists.
+**Ans: C**
 
 </details>
 
-**Q71.** Social audit under MGNREGA is anchored in—  
-A. s.4 RTI  B. **s.17** of MGNREGA + Gram Sabha  C. Art. 148  D. Sevottam IS 15700
+**Q69.** Good Governance Day is observed on?
+A. 26 January
+B. 25 December
+C. 15 August
+D. 2 October
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q72.** The first Indian **State** to enact a Social Audit Act is—  
-A. Andhra Pradesh  B. Kerala  C. **Meghalaya (2017)**  D. Uttar Pradesh
-
-<details><summary>Show answer</summary>
-
-**C** — AP pioneered a *society*, not the first statute.
+**Ans: B** — Atal Bihari Vajpayee’s birthday; from **2014**.
 
 </details>
 
-**Q73.** Sevottam’s three modules are—  
-A. RTI, CAG, Lokpal  B. **Citizen Charter, Public Grievance, Capability**  C. G2C, G2B, G2G  D. NeGP, DI, Karmayogi
+**Q70.** Which one of the following is **not** a UNDP good-governance characteristic?
+A. Participatory
+B. Rule of law
+C. Consensus-oriented
+D. Food-grain accountability
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q74.** IS 15700:2005 is associated with—  
-A. ECO Mark  B. **Public-service quality (Sevottam stack)**  C. POCSO trial  D. Labour floor wage
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: D** — 2025 NFSA trap; don’t mix lists.
 
 </details>
 
-**Q75.** CPGRAMS is run by—  
-A. MeitY  B. **DARPG**  C. MoTA  D. RBI
+**Q71.** Social audit under MGNREGA is anchored in which of the following?
+A. s.4 RTI
+B. **s.17** of MGNREGA + Gram Sabha
+C. Art. 148
+D. Sevottam IS 15700
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q76.** Digital India was launched on—  
-A. 26 Jan 2015  B. **1 July 2015**  C. 15 Aug 2014  D. 2 Sep 2020
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q77.** How many pillars does Digital India have?  
-A. 3  B. 7  C. **9**  D. 15
+**Q72.** The first Indian **State** to enact a Social Audit Act is?
+A. Andhra Pradesh
+B. Kerala
+C. Meghalaya (2017)
+D. Uttar Pradesh
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** — three *vision areas*; **nine** pillars.
-
-</details>
-
-**Q78.** Which one of the following is **not** correctly matched?  
-A. Broadband Highways — pillar 1  B. e-Kranti — pillar 5  C. IT for Jobs — pillar 8  D. e-Kranti — pillar 9
-
-<details><summary>Show answer</summary>
-
-**D** — pillar 9 = **Early Harvest**.
+**Ans: C** — AP pioneered a *society*, not the first statute.
 
 </details>
 
-**Q79.** UMANG was launched in—  
-A. 2014  B. 2015  C. **2017**  D. 2020
+**Q73.** Sevottam’s three modules are?
+A. RTI, CAG, Lokpal
+B. Citizen Charter, Public Grievance, Capability
+C. G2C, G2B, G2G
+D. NeGP, DI, Karmayogi
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q80.** Match:  
-A. MyGov — 1. 9 Aug 2016  
-B. GeM — 2. 26 Jul 2014  
-C. Digital India launch — 3. 1 Jul 2015  
-A. A-2, B-1, C-3  B. A-3, B-2, C-1  C. A-2, B-3, C-1  D. A-1, B-2, C-3
-
-<details><summary>Show answer</summary>
-
-**A**
+**Ans: B**
 
 </details>
 
-**Q81.** BharatNet is the successor-brand of—  
-A. UMANG  B. **NOFN**  C. Sevottam  D. CPGRAMS
+**Q74.** IS 15700:2005 is associated with which of the following?
+A. ECO Mark
+B. Public-service quality (Sevottam stack)
+C. POCSO trial
+D. Labour floor wage
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q82.** Mission Karmayogi (NPCSCB) was approved by Cabinet in—  
-A. 2015  B. 2018  C. **2020**  D. 2025
-
-<details><summary>Show answer</summary>
-
-**C** — **2 Sep 2020**.
+**Ans: B**
 
 </details>
 
-**Q83.** iGOT Karmayogi is run operationally by—  
-A. NITI Aayog  B. **Karmayogi Bharat (s.8 SPV)**  C. RBI  D. NHRC
+**Q75.** CPGRAMS is run by which of the following?
+A. MeitY
+B. DARPG
+C. MoTA
+D. RBI
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q84.** Capacity Building Commission was set up in—  
-A. 2006  B. 2015  C. **2021**  D. 1997
-
-<details><summary>Show answer</summary>
-
-**C**
+**Ans: B**
 
 </details>
 
-**Q85.** Adi Karmayogi Beta (June 2025) was launched by the Ministry of—  
-A. Personnel / DoPT  B. Electronics & IT  C. **Tribal Affairs**  D. Home
+**Q76.** Digital India was launched on?
+A. 26 Jan 2015
+B. 1 July 2015
+C. 15 Aug 2014
+D. 2 Sep 2020
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
+**Ans: B**
+
+</details>
+
+**Q77.** How many pillars does Digital India have?
+A. 3
+B. 7
+C. 9
+D. 15
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — three *vision areas*; **nine** pillars.
+
+</details>
+
+**Q78.** Which one of the following is **not** correctly matched?
+A. Broadband Highways — pillar 1
+B. e-Kranti — pillar 5
+C. IT for Jobs — pillar 8
+D. e-Kranti — pillar 9
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — pillar 9 = **Early Harvest**.
+
+</details>
+
+**Q79.** UMANG was launched in which of the following?
+A. 2014
+B. 2015
+C. 2017
+D. 2020
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q80.** Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | MyGov |
+| B | GeM |
+| C | Digital India launch |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | 9 Aug 2016 |
+| 2 | 26 Jul 2014 |
+| 3 | 1 Jul 2015 |
+
+> Note: Row order in the tables is **not** the answer.
+
+A. A-2, B-1, C-3
+B. A-3, B-2, C-1
+C. A-2, B-3, C-1
+D. A-1, B-2, C-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+**Q81.** BharatNet is the successor-brand of which of the following?
+A. UMANG
+B. NOFN
+C. Sevottam
+D. CPGRAMS
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q82.** Mission Karmayogi (NPCSCB) was approved by Cabinet in which of the following?
+A. 2015
+B. 2018
+C. 2020
+D. 2025
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — **2 Sep 2020**.
+
+</details>
+
+**Q83.** iGOT Karmayogi is run operationally by which of the following?
+A. NITI Aayog
+B. Karmayogi Bharat (s.8 SPV)
+C. RBI
+D. NHRC
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q84.** Capacity Building Commission was set up in which of the following?
+A. 2006
+B. 2015
+C. 2021
+D. 1997
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q85.** Adi Karmayogi Beta (June 2025) was launched by the Ministry of which of the following?
+A. Personnel / DoPT
+B. Electronics & IT
+C. Tribal Affairs
+D. Home
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
 
 </details>
 
@@ -1736,135 +2186,207 @@ A. Personnel / DoPT  B. Electronics & IT  C. **Tribal Affairs**  D. Home
 **Assertion (A):** Civil servants must be politically neutral.
 
 **Reason (R):** The Constitution uses the phrase “committed bureaucracy” in Part XIV.  
-A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. A false R true
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true, R not explanation
+C. A true R false
+D. A false R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** — R is false.
-
-</details>
-
-**Q87.** CCS (Conduct) Rules belong to—  
-A. 1950  B. **1964**  C. 2005  D. 2020
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C** — R is false.
 
 </details>
 
-**Q88.** Code of Conduct vs Code of Ethics — which is correct?  
+**Q87.** CCS (Conduct) Rules belong to which of the following?
+A. 1950
+B. 1964
+C. 2005
+D. 2020
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q88.** Code of Conduct vs Code of Ethics — which is correct?
 1. Conduct Rules are enforceable disciplinary law.  
 2. 2nd ARC’s 4th report wanted a separate Code of Ethics.  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q89.** Nolan Committee (1994) is associated with—  
-A. Indian labour codes  B. **Seven principles of public life (UK)**  C. PESA  D. NFSA women-head
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C**
 
 </details>
 
-**Q90.** Which one is **not** a Nolan principle?  
-A. Selflessness  B. Openness  C. Leadership  D. **Floor wage**
+**Q89.** Nolan Committee (1994) is associated with which of the following?
+A. Indian labour codes
+B. Seven principles of public life (UK)
+C. PESA
+D. NFSA women-head
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
-
-</details>
-
-**Q91.** Lateral entry at Joint Secretary level was opened by DoPT in—  
-A. 2005  B. 2014  C. **2018**  D. 2025
-
-<details><summary>Show answer</summary>
-
-**C**
+**Ans: B**
 
 </details>
 
-**Q92.** Consider:  
+**Q90.** Which one is **not** a Nolan principle?
+A. Selflessness
+B. Openness
+C. Leadership
+D. Floor wage
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q91.** Lateral entry at Joint Secretary level was opened by DoPT in which of the following?
+A. 2005
+B. 2014
+C. 2018
+D. 2025
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q92.** Consider the following statements:
 1. Lateral-entry posts are filled through UPSC as contract specialists.  
 2. Lateral entry abolished the Civil Services Examination.  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
-
-</details>
-
-**Q93.** Second ARC was chaired by—  
-A. Morarji Desai  B. Santhanam  C. **Veerappa Moily**  D. P.C. Hota
-
-<details><summary>Show answer</summary>
-
-**C**
+**Ans: A**
 
 </details>
 
-**Q94.** Second ARC submitted how many reports?  
-A. 8  B. **15**  C. 20  D. 22
+**Q93.** Second ARC was chaired by which of the following?
+A. Morarji Desai
+B. Santhanam
+C. Veerappa Moily
+D. P.C. Hota
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — 1st ARC = **20**.
-
-</details>
-
-**Q95.** Match 2nd ARC report → theme:  
-A. 4th — 1. e-Governance  
-B. 11th — 2. Citizen-centric / Sevottam  
-C. 12th — 3. Ethics in Governance  
-A. A-3, B-1, C-2  B. A-1, B-2, C-3  C. A-3, B-2, C-1  D. A-2, B-1, C-3
-
-<details><summary>Show answer</summary>
-
-**A**
+**Ans: C**
 
 </details>
 
-**Q96.** First ARC (1966) was initially chaired by—  
-A. Veerappa Moily  B. **Morarji Desai**  C. John Major  D. Adil Zainulbhai
+**Q94.** Second ARC submitted how many reports?
+A. 8
+B. 15
+C. 20
+D. 22
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q97.** P.C. Hota Committee on Civil Services Reforms was constituted in—  
-A. 1997  B. **2004**  C. 2009  D. 2020
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B** — 1st ARC = **20**.
 
 </details>
 
-**Q98.** Arrange: I Citizen Charter UK  II NeGP  III Digital India  IV Mission Karmayogi  
-A. I, II, III, IV  B. II, I, III, IV  C. I, III, II, IV  D. I, II, IV, III
+**Q95.** Match 2nd ARC report → theme:
 
-<details><summary>Show answer</summary>
+**List-I**
 
-**A** — **1991 → 2006 → 2015 → 2020**.
+| Code | Item |
+|------|------|
+| A | 4th |
+| B | 11th |
+| C | 12th |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | e-Governance |
+| 2 | Citizen-centric / Sevottam |
+| 3 | Ethics in Governance |
+
+> Note: Row order in the tables is **not** the answer.
+
+A. A-3, B-1, C-2
+B. A-1, B-2, C-3
+C. A-3, B-2, C-1
+D. A-2, B-1, C-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
 
 </details>
 
-**Q99.** Which one of the following is **not** correctly matched?  
-A. DARPG — CPGRAMS  B. MeitY — Digital India  C. DoPT — Mission Karmayogi  D. MeitY — Adi Karmayogi 2025
+**Q96.** First ARC (1966) was initially chaired by which of the following?
+A. Veerappa Moily
+B. Morarji Desai
+C. John Major
+D. Adil Zainulbhai
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D** — **MoTA**.
+**Ans: B**
+
+</details>
+
+**Q97.** P.C. Hota Committee on Civil Services Reforms was constituted in which of the following?
+A. 1997
+B. 2004
+C. 2009
+D. 2020
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q98.** Arrange the following in chronological order: I Citizen Charter UK  II NeGP  III Digital India  IV Mission Karmayogi
+A. I, II, III, IV
+B. II, I, III, IV
+C. I, III, II, IV
+D. I, II, IV, III
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — **1991 → 2006 → 2015 → 2020**.
+
+</details>
+
+**Q99.** Which one of the following is **not** correctly matched?
+A. DARPG — CPGRAMS
+B. MeitY — Digital India
+C. DoPT — Mission Karmayogi
+D. MeitY — Adi Karmayogi 2025
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — **MoTA**.
 
 </details>
 
@@ -1873,166 +2395,250 @@ A. DARPG — CPGRAMS  B. MeitY — Digital India  C. DoPT — Mission Karmayogi 
 **Assertion (A):** Sevottam uses the Citizen Charter as one module.
 
 **Reason (R):** Therefore the Charter became a fundamental right in 2006.  
-A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. A false R true
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true, R not explanation
+C. A true R false
+D. A false R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q101.** GeM is primarily a—  
-A. G2C health app  B. **G2B procurement marketplace (2016)**  C. Social-audit society  D. 2nd ARC secretariat
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C**
 
 </details>
 
-**Q102.** Which of the following is/are correct?  
+**Q101.** GeM is primarily a?
+A. G2C health app
+B. G2B procurement marketplace (2016)
+C. Social-audit society
+D. 2nd ARC secretariat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q102.** Which of the following is/are correct?
 1. CSC kiosks are typically run by a VLE.  
 2. BharatNet aims fibre connectivity to Gram Panchayats.  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q103.** Santhanam Committee (1962) is the parent of—  
-A. Digital India  B. **CVC (1964)**  C. NFSA  D. PESA
-
-<details><summary>Show answer</summary>
-
-**B** — CVC Act 2003.
+**Ans: C**
 
 </details>
 
-**Q104.** Which one of the following is **not** correctly matched?  
-A. 2nd ARC 4th — Ethics  B. 2nd ARC 1st — RTI  C. 2nd ARC 15th — State and District Administration  D. 2nd ARC 4th — Labour Codes
+**Q103.** Santhanam Committee (1962) is the parent of which of the following?
+A. Digital India
+B. CVC (1964)
+C. NFSA
+D. PESA
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
+**Ans: B** — CVC Act 2003.
 
 </details>
 
-**Q105.** Consider:  
+**Q104.** Which one of the following is **not** correctly matched?
+A. 2nd ARC 4th — Ethics
+B. 2nd ARC 1st — RTI
+C. 2nd ARC 15th — State and District Administration
+D. 2nd ARC 4th — Labour Codes
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q105.** Consider the following statements:
 1. Transparency and accountability are the same UNDP box.  
 2. RTI s.4 suo motu disclosure is a transparency tool.  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — accountability is a **separate** UNDP characteristic; transparency is a means.
-
-</details>
-
-**Q106.** PRAGATI stands for—  
-A. Public RTI and Grievance IT  B. **Pro-Active Governance And Timely Implementation**  C. Prime Minister’s Aadhaar Grid  D. A Digital India pillar
-
-<details><summary>Show answer</summary>
-
-**B** — PMO, **25 Mar 2015**. Not a DI pillar.
+**Ans: B** — accountability is a **separate** UNDP characteristic; transparency is a means.
 
 </details>
 
-**Q107.** Directorate of Public Grievances (DPG) sits in the—  
-A. MeitY  B. DARPG only  C. **Cabinet Secretariat (1988)**  D. NITI Aayog
+**Q106.** PRAGATI stands for which of the following?
+A. Public RTI and Grievance IT
+B. Pro-Active Governance And Timely Implementation
+C. Prime Minister’s Aadhaar Grid
+D. A Digital India pillar
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q108.** Which one of the following is **not** correctly matched?  
-A. CPGRAMS — Centralised Public Grievance Redress and Monitoring System  B. UMANG — Unified Mobile Application for New-age Governance  C. SMART — Simple, Moral, Accountable, Responsive, Transparent  D. PRAGATI — Public Rural Aadhaar Grid And Telecom India
-
-<details><summary>Show answer</summary>
-
-**D**
+**Ans: B** — PMO, **25 Mar 2015**. Not a DI pillar.
 
 </details>
 
-**Q109.** The first comprehensive State Right-to-Public-Services Act is—  
-A. UP 2011  B. **Madhya Pradesh 2010**  C. Union Citizen Charter Act 1997  D. PESA 1996
+**Q107.** Directorate of Public Grievances (DPG) sits in the?
+A. MeitY
+B. DARPG only
+C. Cabinet Secretariat (1988)
+D. NITI Aayog
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — UP Janhit Guarantee = **2011**.
+**Ans: C**
 
 </details>
 
-**Q110.** Consider:  
+**Q108.** Which one of the following is **not** correctly matched?
+A. CPGRAMS — Centralised Public Grievance Redress and Monitoring System
+B. UMANG — Unified Mobile Application for New-age Governance
+C. SMART — Simple, Moral, Accountable, Responsive, Transparent
+D. PRAGATI — Public Rural Aadhaar Grid And Telecom India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q109.** The first comprehensive State Right-to-Public-Services Act is?
+A. UP 2011
+B. Madhya Pradesh 2010
+C. Union Citizen Charter Act 1997
+D. PESA 1996
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — UP Janhit Guarantee = **2011**.
+
+</details>
+
+**Q110.** Consider the following statements:
 1. A Citizen Charter is ordinarily not justiciable.  
 2. UP Janhit Guarantee Adhiniyam, 2011 can penalise the designated officer for delay.  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q111.** Match:  
-A. Jan sunwai — 1. PAC Bengaluru / Samuel Paul  
-B. Citizen Report Card — 2. MKSS, Rajasthan  
-C. Social Audit Act — 3. Meghalaya 2017  
-A. A-2, B-1, C-3  B. A-1, B-2, C-3  C. A-2, B-3, C-1  D. A-3, B-1, C-2
-
-<details><summary>Show answer</summary>
-
-**A**
+**Ans: C**
 
 </details>
 
-**Q112.** MeitY became a full Ministry in—  
-A. 2006 with NeGP  B. 2015 with Digital India  C. **19 July 2016**  D. 2020 with Karmayogi
+**Q111.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
-<details><summary>Show answer</summary>
+**List-I**
 
-**C**
+| Code | Item |
+|------|------|
+| A | Jan sunwai |
+| B | Citizen Report Card |
+| C | Social Audit Act |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | PAC Bengaluru / Samuel Paul |
+| 2 | MKSS, Rajasthan |
+| 3 | Meghalaya 2017 |
+
+> Note: Row order in the tables is **not** the answer.
+
+A. A-2, B-1, C-3
+B. A-1, B-2, C-3
+C. A-2, B-3, C-1
+D. A-3, B-1, C-2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
 
 </details>
 
-**Q113.** GI Cloud of the Government of India is branded—  
-A. UMANG  B. **MeghRaj**  C. Sevottam  D. iGOT
+**Q112.** MeitY became a full Ministry in which of the following?
+A. 2006 with NeGP
+B. 2015 with Digital India
+C. 19 July 2016
+D. 2020 with Karmayogi
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q114.** Mission Karmayogi’s three pillars are—  
-A. G2C, G2B, G2G  B. **Policy, Institutional, Competency**  C. Charter, RTI, CAG  D. NeGP, DI, Smart Cities
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C**
 
 </details>
 
-**Q115.** CCS (Conduct) Rules 1964 vs CCS (CCA) Rules 1965 — which is correct?  
+**Q113.** GI Cloud of the Government of India is branded?
+A. UMANG
+B. MeghRaj
+C. Sevottam
+D. iGOT
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q114.** Mission Karmayogi’s three pillars are?
+A. G2C, G2B, G2G
+B. Policy, Institutional, Competency
+C. Charter, RTI, CAG
+D. NeGP, DI, Smart Cities
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q115.** CCS (Conduct) Rules 1964 vs CCS (CCA) Rules 1965 — which is correct?
 1. 1964 = behavioural do’s/don’ts (integrity, politics, gifts).  
 2. 1965 = disciplinary procedure.  
-A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
+A. Only 1
+B. Only 2
+C. Both 1 and 2
+D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
+**Ans: C**
 
 </details>
 
-**Q116.** Which CCS Conduct Rule is about **gifts**?  
-A. Rule 3  B. Rule 5  C. **Rule 13**  D. Rule 18
+**Q116.** Which CCS Conduct Rule is about **gifts**?
+A. Rule 3
+B. Rule 5
+C. Rule 13
+D. Rule 18
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** — 3 = integrity; 5 = politics; 18 = property.
+**Ans: C** — 3 = integrity; 5 = politics; 18 = property.
 
 </details>
 
@@ -2041,38 +2647,54 @@ A. Rule 3  B. Rule 5  C. **Rule 13**  D. Rule 18
 **Assertion (A):** First ARC recommended a Lokpal.
 
 **Reason (R):** Therefore the Lokpal Act was passed in 1966.  
-A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. A false R true
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true, R not explanation
+C. A true R false
+D. A false R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** — Act is **2013**.
-
-</details>
-
-**Q118.** UP’s time-bound public services statute is the—  
-A. Citizen Charter Act 1997  B. **Janhit Guarantee Adhiniyam, 2011**  C. PESA 1996  D. CPGRAMS Act 2007
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C** — Act is **2013**.
 
 </details>
 
-**Q119.** NeSDA is—  
-A. A labour code  B. **DARPG’s e-governance service-delivery assessment**  C. The 2nd ARC’s 15th report  D. An NHRC bench
+**Q118.** UP’s time-bound public services statute is the?
+A. Citizen Charter Act 1997
+B. Janhit Guarantee Adhiniyam, 2011
+C. PESA 1996
+D. CPGRAMS Act 2007
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
 
 </details>
 
-**Q120.** Which one of the following is **not** correctly matched?  
-A. DPG — Cabinet Secretariat  B. CPGRAMS — DARPG  C. PRAGATI — PMO  D. Adi Karmayogi 2025 — DoPT
+**Q119.** NeSDA is?
+A. A labour code
+B. DARPG’s e-governance service-delivery assessment
+C. The 2nd ARC’s 15th report
+D. An NHRC bench
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D** — **MoTA**.
+**Ans: B**
+
+</details>
+
+**Q120.** Which one of the following is **not** correctly matched?
+A. DPG — Cabinet Secretariat
+B. CPGRAMS — DARPG
+C. PRAGATI — PMO
+D. Adi Karmayogi 2025 — DoPT
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — **MoTA**.
 
 </details>
 
@@ -2084,8 +2706,14 @@ A. DPG — Cabinet Secretariat  B. CPGRAMS — DARPG  C. PRAGATI — PMO  D. Adi
 
 **Q1. UPPCS Prelims 2025, Q15**  
 Which of the following is/are NOT a dimension of food security?  
-1. Availability  2. Accessibility  3. Affordability  4. Accountability  
-A. 1 and 2  B. Only 4  C. 2, 3 and 4  D. Only 1
+1. Availability
+2. Accessibility
+3. Affordability
+4. Accountability
+A. 1 and 2
+B. Only 4
+C. 2, 3 and 4
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -2098,7 +2726,10 @@ A. 1 and 2  B. Only 4  C. 2, 3 and 4  D. Only 1
 **Assertion (A):** Consumers can bargain below the Maximum Retail Price (MRP).  
 
 **Reason (R):** MRP is the price above which a seller cannot charge a buyer.  
-A. Both true, R not explanation  B. A false R true  C. A true R false  D. Both true and R explains A
+A. Both true, R not explanation
+B. A false R true
+C. A true R false
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
 
 <details>
 <summary>Show answer</summary>
@@ -2109,8 +2740,14 @@ A. Both true, R not explanation  B. A false R true  C. A true R false  D. Both t
 
 **Q2a. UPPCS Prelims 2025, Q29**  
 Adi Karmayogi Beta Version (June 2025) launched by which Ministry?  
-1. AYUSH  2. WCD  3. Social Justice  4. Tribal Affairs  
-A. 1 and 2 only  B. Only 4  C. 2 and 3 only  D. Only 1
+1. AYUSH
+2. WCD
+3. Social Justice
+4. Tribal Affairs
+A. 1 and 2 only
+B. Only 4
+C. 2 and 3 only
+D. Only 1
 
 <details>
 <summary>Show answer</summary>
@@ -2123,7 +2760,10 @@ A. 1 and 2 only  B. Only 4  C. 2 and 3 only  D. Only 1
 
 **Q3. UPPCS Prelims 2024, Q118**  
 NFSA: (1) 75% rural 50% urban (2) nutrition focus women/children (3) enforced 5 July 2010  
-A. 2 and 3  B. 1 and 3  C. 1, 2 and 3  D. 1 and 2
+A. 2 and 3
+B. 1 and 3
+C. 1, 2 and 3
+D. 1 and 2
 
 <details>
 <summary>Show answer</summary>
@@ -2134,7 +2774,10 @@ A. 2 and 3  B. 1 and 3  C. 1, 2 and 3  D. 1 and 2
 
 **Q3a. UPPCS Prelims 2024, Q123**  
 ICT-based e-Governance: (1) reduces transparency (2) reduces cost (3) increases citizens’ input (4) increases red-tapism  
-A. 2 and 4  B. 2 and 3  C. 1, 2 and 3  D. 2, 3 and 4
+A. 2 and 4
+B. 2 and 3
+C. 1, 2 and 3
+D. 2, 3 and 4
 
 <details>
 <summary>Show answer</summary>
@@ -2147,7 +2790,10 @@ A. 2 and 4  B. 2 and 3  C. 1, 2 and 3  D. 2, 3 and 4
 
 **Q4. UPPCS Prelims 2022, Q67**  
 When was the Panchayats (Extension to the Scheduled Areas) Act passed by the Indian Parliament?  
-A. 1998  B. 1996  C. 1995  D. 1993
+A. 1998
+B. 1996
+C. 1995
+D. 1993
 
 <details>
 <summary>Show answer</summary>
@@ -2160,7 +2806,10 @@ A. 1998  B. 1996  C. 1995  D. 1993
 
 **Q5. UPPCS Prelims 2021, Q7**  
 The symbol ‘ECOMARC’ is related to—  
-A. Goods of best quality  B. Safe goods for environment  C. Exported goods  D. Imported goods
+A. Goods of best quality
+B. Safe goods for environment
+C. Exported goods
+D. Imported goods
 
 <details>
 <summary>Show answer</summary>
@@ -2171,7 +2820,10 @@ A. Goods of best quality  B. Safe goods for environment  C. Exported goods  D. I
 
 **Q6. UPPCS Prelims 2021, Q26**  
 Ex-officio Chairman of NDMA?  
-A. Prime Minister  B. Home Minister  C. Defence Minister  D. Health Minister
+A. Prime Minister
+B. Home Minister
+C. Defence Minister
+D. Health Minister
 
 <details>
 <summary>Show answer</summary>
@@ -2182,7 +2834,10 @@ A. Prime Minister  B. Home Minister  C. Defence Minister  D. Health Minister
 
 **Q7. UPPCS Prelims 2021, Q72**  
 Code on Wages 2019 amalgamated: I Minimum Wages  II Payment of Bonus  III Contract Labour  IV Equal Remuneration  
-A. I and II  B. II and III  C. I, II and IV  D. All four
+A. I and II
+B. II and III
+C. I, II and IV
+D. All four
 
 <details>
 <summary>Show answer</summary>
@@ -2193,7 +2848,10 @@ A. I and II  B. II and III  C. I, II and IV  D. All four
 
 **Q7a. UPPCS Prelims 2021, Q23**  
 P.C. Hota Committee on Civil Services Reforms was constituted in—  
-A. 2003  B. 2004  C. 2005  D. 2006
+A. 2003
+B. 2004
+C. 2005
+D. 2006
 
 <details>
 <summary>Show answer</summary>
@@ -2206,7 +2864,10 @@ A. 2003  B. 2004  C. 2005  D. 2006
 
 **Q8. UPPCS Prelims 2019, Q73**  
 NFSA: I 75/50  II nutrition women/children  III eldest woman ≥18 head  
-A. I and II  B. II and III  C. I, II and III  D. None
+A. I and II
+B. II and III
+C. I, II and III
+D. None
 
 <details>
 <summary>Show answer</summary>
@@ -2217,7 +2878,10 @@ A. I and II  B. II and III  C. I, II and III  D. None
 
 **Q9. UPPCS Prelims 2019, Q100**  
 MKSS associated with—  
-A. RTE Act  B. RTI Act  C. MGNREGA  D. NHM
+A. RTE Act
+B. RTI Act
+C. MGNREGA
+D. NHM
 
 <details>
 <summary>Show answer</summary>

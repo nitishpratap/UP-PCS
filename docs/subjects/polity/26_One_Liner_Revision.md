@@ -580,288 +580,437 @@ Trap: Residuary = USA (States). **Canada / Centre.** Trap: DPSP = USA. **Ireland
 
 ## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden.** **155 questions** (Q1–70 number map · Q71–140 name map · Q141–155 gap-fill). ≥60% multi-statement / application. Mix: A/R, Match List, chronology, NOT-correctly-matched.
+> **Answers hidden.** Full stems (not cryptic stubs). **155 questions** (Q1–70 number map · Q71–140 name map · Q141–155 gap-fill). ≥60% multi-statement / application. Mix: A/R, Match List, chronology, NOT-correctly-matched.
 
-**Q1.** Which Part–subject pair is **NOT** correctly matched?  
-A. IVA — Fundamental Duties  B. VI — States  C. **XI — Municipalities**  D. XVII — Official Language
+**Q1.** Which Part–subject pair is **NOT** correctly matched?
+A. IVA — Fundamental Duties
+B. VI — States
+C. XI — Municipalities
+D. XVII — Official Language
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** — Municipalities = **IXA**. XI = Union–State relations. (2025 Q24)
-
-</details>
-
-**Q2.** Tribunals are in—  
-A. Part XI  B. Part XIV  C. **Part XIVA**  D. Part XVIII
-
-<details><summary>Show answer</summary>
-
-**C** (2023 Q1)
+**Ans: C** — Municipalities = **IXA**. XI = Union–State relations. (2025 Q24)
 
 </details>
 
-**Q3.** Attorney-General of India is provided in—  
-A. Part XIII  B. **Part V**  C. Part XIV  D. Part XIX
+**Q2.** Tribunals are in which of the following?
+A. Part XI
+B. Part XIV
+C. Part XIVA
+D. Part XVIII
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — Art. **76**. (2020 Q110)
-
-</details>
-
-**Q4.** Match: Third / Fourth / Seventh / Eighth → Oaths / RS seats / Lists / Languages. Correct order is—  
-A. Lists, Languages, Oaths, RS  B. **Oaths, RS seats, Lists, Languages**  C. RS, Oaths, Languages, Lists  D. Oaths, Lists, RS, Languages
-
-<details><summary>Show answer</summary>
-
-**B** (2022 Q89)
+**Ans: C** (2023 Q1)
 
 </details>
 
-**Q5.** Which Schedule–subject pair is **NOT** correctly matched?  
-A. Third — Oaths  B. Eighth — Languages  C. **Ninth — Rajya Sabha seats**  D. Tenth — Defection
+**Q3.** Attorney-General of India is provided in which of the following?
+A. Part XIII
+B. Part V
+C. Part XIV
+D. Part XIX
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** — RS seats = **Fourth**. Ninth = validation of Acts. (2023 Q7)
-
-</details>
-
-**Q6.** Language **not** in the Eighth Schedule—  
-A. Nepali  B. Dogri  C. Bodo  D. **Bhojpuri**
-
-<details><summary>Show answer</summary>
-
-**D** (2025 Q102)
+**Ans: B** — Art. **76**. (2020 Q110)
 
 </details>
 
-**Q7.** Eleventh Schedule has ___ subjects; Twelfth has ___.  
-A. 18, 29  B. **29, 18**  C. 29, 29  D. 12, 18
+**Q4.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
-<details><summary>Show answer</summary>
+**List-I (Schedule)**
 
-**B**
+| Code | Schedule |
+|------|----------|
+| A | Third Schedule |
+| B | Fourth Schedule |
+| C | Seventh Schedule |
+| D | Eighth Schedule |
 
-</details>
+**List-II (Subject)**
 
-**Q8.** Sixth Schedule presently applies to—  
-A. All Fifth-Schedule States  B. **Assam, Meghalaya, Tripura, Mizoram**  C. J&K and Ladakh  D. Uttar Pradesh hill districts
+| Code | Subject |
+|------|---------|
+| 1 | Forms of Oaths or Affirmations |
+| 2 | Allocation of seats in Rajya Sabha |
+| 3 | Union, State and Concurrent Lists |
+| 4 | Languages |
 
-<details><summary>Show answer</summary>
+> Note: Row order in the tables is **not** the answer.
 
-**B**
+A. Lists, Languages, Oaths, RS seats  
+B. Oaths, RS seats, Lists, Languages  
+C. RS seats, Oaths, Languages, Lists  
+D. Oaths, Lists, RS seats, Languages
 
-</details>
+<details>
+<summary>Show answer</summary>
 
-**Q9.** Ninth Schedule was added by the—  
-A. 7th Amd  B. **1st Amd, 1951**  C. 9th Amd, 1960  D. 42nd Amd
-
-<details><summary>Show answer</summary>
-
-**B**
-
-</details>
-
-**Q10.** Present Tenth Schedule (defection) was added by the—  
-A. 35th Amd  B. 36th Amd  C. **52nd Amd, 1985**  D. 91st Amd
-
-<details><summary>Show answer</summary>
-
-**C** — 35th’s old 10th Sch. was Sikkim terms, repealed by the 36th.
+**Ans: B** (2022 Q89)
 
 </details>
 
-**Q11.** Which of the following is/are correct?  
+**Q5.** Which Schedule–subject pair is **NOT** correctly matched?
+A. Third — Oaths
+B. Eighth — Languages
+C. Ninth — Rajya Sabha seats
+D. Tenth — Defection
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — RS seats = **Fourth**. Ninth = validation of Acts. (2023 Q7)
+
+</details>
+
+**Q6.** Language **not** in the Eighth Schedule?
+A. Nepali
+B. Dogri
+C. Bodo
+D. Bhojpuri
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** (2025 Q102)
+
+</details>
+
+**Q7.** Eleventh Schedule has ___ subjects; Twelfth has ___.
+A. 18, 29
+B. 29, 18
+C. 29, 29
+D. 12, 18
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q8.** Sixth Schedule presently applies to which of the following?
+A. All Fifth-Schedule States
+B. Assam, Meghalaya, Tripura, Mizoram
+C. J&K and Ladakh
+D. Uttar Pradesh hill districts
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q9.** Ninth Schedule was added by the?
+A. 7th Amd
+B. 1st Amd, 1951
+C. 9th Amd, 1960
+D. 42nd Amd
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q10.** Present Tenth Schedule (defection) was added by the?
+A. 35th Amd
+B. 36th Amd
+C. 52nd Amd, 1985
+D. 91st Amd
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — 35th’s old 10th Sch. was Sikkim terms, repealed by the 36th.
+
+</details>
+
+**Q11.** Which of the following is/are correct?
 1. Originally there were 8 Schedules.  
 2. Originally there were 22 Parts.  
-A. Only 1  B. Only 2  C. **Both**  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q12.** Part IXB (Cooperatives) was inserted by the—  
-A. 73rd  B. 74th  C. **97th**  D. 101st
-
-<details><summary>Show answer</summary>
-
-**C**
+**Ans: C**
 
 </details>
 
-**Q13.** Article 4 says a law under Articles 2–3 is—  
-A. A 368 amendment needing half the States  B. **Not deemed an amendment under 368**  C. Void unless the State consents  D. A Money Bill
+**Q12.** Part IXB (Cooperatives) was inserted by the?
+A. 73rd
+B. 74th
+C. 97th
+D. 101st
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q14.** Which is **not** a ground of discrimination in Article 15(1)?  
-A. Religion  B. Caste  C. Place of birth  D. **Residence** (that extra ground is in **16**, and Parliament may prescribe it)
-
-<details><summary>Show answer</summary>
-
-**D**
+**Ans: C**
 
 </details>
 
-**Q15.** Property as a Fundamental Right was deleted by the—  
-A. 42nd  B. **44th**  C. 1st  D. 25th
+**Q13.** Article 4 says a law under Articles 2–3 is?
+A. A 368 amendment needing half the States
+B. Not deemed an amendment under 368
+C. Void unless the State consents
+D. A Money Bill
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — now **300A**, a legal right.
-
-</details>
-
-**Q16.** Article 21A was inserted by the—  
-A. 42nd  B. 73rd  C. **86th, 2002**  D. 103rd
-
-<details><summary>Show answer</summary>
-
-**C**
+**Ans: B**
 
 </details>
 
-**Q17.** How many Fundamental Duties are there?  
-A. 10  B. **11**  C. 12  D. 9
+**Q14.** Which is **not** a ground of discrimination in Article 15(1)?
+A. Religion
+B. Caste
+C. Place of birth
+D. **Residence** (that extra ground is in **16**, and Parliament may prescribe it)
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — 10 by 42nd; **51A(k)** by 86th.
-
-</details>
-
-**Q18.** Who among the following does **not** vote in the Presidential election?  
-A. Elected MLAs  B. Elected MPs  C. **Nominated Rajya Sabha members**  D. Elected MLAs of NCT Delhi
-
-<details><summary>Show answer</summary>
-
-**C**
+**Ans: D**
 
 </details>
 
-**Q19.** Electoral college of the Vice-President includes—  
-A. Elected MLAs  B. **Elected and nominated members of both Houses of Parliament**  C. Only Lok Sabha  D. Only Rajya Sabha
+**Q15.** Property as a Fundamental Right was deleted by the?
+A. 42nd
+B. 44th
+C. 1st
+D. 25th
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q20.** Money Bill under Article 110 — whose certificate is final?  
-A. President  B. Finance Minister  C. **Speaker of the Lok Sabha**  D. Chairman of the Rajya Sabha
-
-<details><summary>Show answer</summary>
-
-**C**
+**Ans: B** — now **300A**, a legal right.
 
 </details>
 
-**Q21.** Joint sitting (Art. 108) **cannot** be used for—  
-1. Money Bills  2. Constitutional Amendment Bills  
-A. Only 1  B. Only 2  C. **Both**  D. Neither
+**Q16.** Article 21A was inserted by the?
+A. 42nd
+B. 73rd
+C. 86th, 2002
+D. 103rd
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q22.** High Court writ jurisdiction is **wider** than the Supreme Court’s because—  
-A. HC can issue more than five writs  B. **226 covers FR and any other purpose**  C. SC cannot issue habeas corpus  D. 32 is not a Fundamental Right
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C**
 
 </details>
 
-**Q23.** Residuary powers of legislation vest in—  
-A. States (USA pattern)  B. **Parliament (Canada pattern)**  C. Inter-State Council  D. The President
+**Q17.** How many Fundamental Duties are there?
+A. 10
+B. 11
+C. 12
+D. 9
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — Art. **248** / Union List **97**.
-
-</details>
-
-**Q24.** Rajya Sabha can authorise Parliament to legislate on a State-List matter under—  
-A. 252  B. **249**  C. 253  D. 356
-
-<details><summary>Show answer</summary>
-
-**B** — 2/3 present and voting; **1 year**.
+**Ans: B** — 10 by 42nd; **51A(k)** by 86th.
 
 </details>
 
-**Q25.** All-India Services are created under Article—  
-A. 310  B. 311  C. **312**  D. 315
+**Q18.** Who among the following does **not** vote in the Presidential election?
+A. Elected MLAs
+B. Elected MPs
+C. Nominated Rajya Sabha members
+D. Elected MLAs of NCT Delhi
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** — RS special resolution.
-
-</details>
-
-**Q26.** Finance Commission is in Article—  
-A. 263  B. 265  C. **280**  D. 321
-
-<details><summary>Show answer</summary>
-
-**C**
+**Ans: C**
 
 </details>
 
-**Q27.** Which pairing is **NOT** correctly matched?  
-A. 371A — Nagaland  B. 371I — Goa (LA not less than 30)  C. 371J — Kalyana-Karnataka  D. **371F — Mizoram**
+**Q19.** Electoral college of the Vice-President includes?
+A. Elected MLAs
+B. Elected and nominated members of both Houses of Parliament
+C. Only Lok Sabha
+D. Only Rajya Sabha
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D** — 371F = **Sikkim**. Mizoram = **371G**.
-
-</details>
-
-**Q28.** Uttar Pradesh has a special provision under—  
-A. 371  B. 371A  C. 370  D. **None of these**
-
-<details><summary>Show answer</summary>
-
-**D**
+**Ans: B**
 
 </details>
 
-**Q29.** National Emergency can be proclaimed on which grounds **today**?  
-1. War  2. External aggression  3. Armed rebellion  4. Internal disturbance  
-A. 1, 2 and 4  B. **1, 2 and 3**  C. All four  D. Only 1 and 2
+**Q20.** Money Bill under Article 110 — whose certificate is final?
+A. President
+B. Finance Minister
+C. Speaker of the Lok Sabha
+D. Chairman of the Rajya Sabha
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — 44th replaced “internal disturbance”.
-
-</details>
-
-**Q30.** Approval of a 352 proclamation needs—  
-A. Simple majority in LS only  B. **Special majority in both Houses within 1 month**  C. Half the State Legislatures  D. Only the Rajya Sabha
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C**
 
 </details>
 
-**Q31.** Financial Emergency (360)—  
-A. Has been imposed twice  B. **Has never been imposed**  C. Was imposed in 1991  D. Is proclaimed by the Finance Commission
+**Q21.** Joint sitting (Art. 108) **cannot** be used for which of the following?
+1. Money Bills
+2. Constitutional Amendment Bills
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: C**
+
+</details>
+
+**Q22.** High Court writ jurisdiction is **wider** than the Supreme Court’s because?
+A. HC can issue more than five writs
+B. 226 covers FR and any other purpose
+C. SC cannot issue habeas corpus
+D. 32 is not a Fundamental Right
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q23.** Residuary powers of legislation vest in which of the following?
+A. States (USA pattern)
+B. Parliament (Canada pattern)
+C. Inter-State Council
+D. The President
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Art. **248** / Union List **97**.
+
+</details>
+
+**Q24.** Rajya Sabha can authorise Parliament to legislate on a State-List matter under which of the following?
+A. 252
+B. 249
+C. 253
+D. 356
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — 2/3 present and voting; **1 year**.
+
+</details>
+
+**Q25.** All-India Services are created under Article?
+A. 310
+B. 311
+C. 312
+D. 315
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — RS special resolution.
+
+</details>
+
+**Q26.** Finance Commission is in Article?
+A. 263
+B. 265
+C. 280
+D. 321
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q27.** Which pairing is **NOT** correctly matched?
+A. 371A — Nagaland
+B. 371I — Goa (LA not less than 30)
+C. 371J — Kalyana-Karnataka
+D. 371F — Mizoram
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — 371F = **Sikkim**. Mizoram = **371G**.
+
+</details>
+
+**Q28.** Uttar Pradesh has a special provision under which of the following?
+A. 371
+B. 371A
+C. 370
+D. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+</details>
+
+**Q29.** National Emergency can be proclaimed on which grounds **today**?
+1. War
+2. External aggression
+3. Armed rebellion
+4. Internal disturbance
+A. 1, 2 and 4
+B. 1, 2 and 3
+C. All four
+D. Only 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — 44th replaced “internal disturbance”.
+
+</details>
+
+**Q30.** Approval of a 352 proclamation needs?
+A. Simple majority in LS only
+B. Special majority in both Houses within 1 month
+C. Half the State Legislatures
+D. Only the Rajya Sabha
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q31.** Financial Emergency (360)?
+A. Has been imposed twice
+B. Has never been imposed
+C. Was imposed in 1991
+D. Is proclaimed by the Finance Commission
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
 
 </details>
 
@@ -870,354 +1019,517 @@ A. Has been imposed twice  B. **Has never been imposed**  C. Was imposed in 1991
 **Assertion (A):** Article 19 is automatically suspended during every National Emergency.
 
 **Reason (R):** Article 358 operates only when the Emergency is on the ground of war or external aggression.  
-A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true, R not explanation
+C. A true R false
+D. A false R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D** — 358 does **not** fire on armed rebellion.
-
-</details>
-
-**Q33.** Enforcement of which FRs **cannot** be suspended under 359?  
-A. 14 and 19  B. **20 and 21**  C. 32 only  D. 25 and 26
-
-<details><summary>Show answer</summary>
-
-**B** (44th)
+**Ans: D** — 358 does **not** fire on armed rebellion.
 
 </details>
 
-**Q34.** First use of Article 356 was in—  
-A. Kerala 1959  B. **Punjab 1951**  C. UP 1952  D. Tamil Nadu 1976
+**Q33.** Enforcement of which FRs **cannot** be suspended under 359?
+A. 14 and 19
+B. 20 and 21
+C. 32 only
+D. 25 and 26
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q35.** Superintendence of Panchayat elections is in—  
-A. Article 324  B. **Article 243K**  C. Article 327  D. Article 329
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B** (44th)
 
 </details>
 
-**Q36.** Voting age became 18 by the—  
-A. 42nd, 1976  B. **61st (w.e.f. 28 Mar 1989)**  C. 73rd, 1992  D. 44th, 1978
+**Q34.** First use of Article 356 was in which of the following?
+A. Kerala 1959
+B. Punjab 1951
+C. UP 1952
+D. Tamil Nadu 1976
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q37.** Nominated members of Rajya Sabha **do** vote in the election of—  
-A. President  B. **Vice-President**  C. Both  D. Neither
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q38.** Habeas corpus can be issued against—  
-A. Only the State  B. **A public or a private person**  C. Only a court  D. Only the police
+**Q35.** Superintendence of Panchayat elections is in which of the following?
+A. Article 324
+B. Article 243K
+C. Article 327
+D. Article 329
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q39.** Mandamus will **not** lie against—  
-A. A municipal corporation  B. A government secretary  C. **The President / Governor personally**  D. A statutory board
-
-<details><summary>Show answer</summary>
-
-**C**
+**Ans: B**
 
 </details>
 
-**Q40.** Prohibition is issued ___ a decision; certiorari is issued ___ a decision.  
-A. after, before  B. **before, after**  C. only after, only after  D. only before, only before
+**Q36.** Voting age became 18 by the?
+A. 42nd, 1976
+B. 61st (w.e.f. 28 Mar 1989)
+C. 73rd, 1992
+D. 44th, 1978
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q41.** Quo warranto tests—  
-A. Detention  B. A contractual duty  C. **Title to a public office**  D. A Bill’s Money-Bill certificate
-
-<details><summary>Show answer</summary>
-
-**C**
+**Ans: B**
 
 </details>
 
-**Q42.** Correct chronology—  
-A. *Kesavananda* → 24th Amd → *Golaknath*  B. **Golaknath 1967 → 24th 1971 → Kesavananda 1973 → 42nd 1976**  C. 42nd → Kesavananda → Golaknath  D. Shankari → Minerva → Golaknath
+**Q37.** Nominated members of Rajya Sabha **do** vote in the election of which of the following?
+A. President
+B. Vice-President
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** (2021)
-
-</details>
-
-**Q43.** *Kesavananda Bharati* was decided on—  
-A. 26 Jan 1950  B. **24 Apr 1973**  C. 25 Jun 1975  D. 18 Jun 1951
-
-<details><summary>Show answer</summary>
-
-**B** — 13-judge, **7:6**.
+**Ans: B**
 
 </details>
 
-**Q44.** “Socialist” and “Secular” entered the Preamble by the—  
-A. 1st Amd  B. 24th Amd  C. **42nd Amd, 1976**  D. 44th Amd, 1978
+**Q38.** Habeas corpus can be issued against?
+A. Only the State
+B. A public or a private person
+C. Only a court
+D. Only the police
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** (2025)
-
-</details>
-
-**Q45.** Which pairing is **NOT** correctly matched?  
-A. 7th Amd — States Reorganisation 1956  B. 52nd — anti-defection  C. 101st — GST  D. **86th — EWS 10%**
-
-<details><summary>Show answer</summary>
-
-**D** — 86th = **21A**. EWS = **103rd**.
+**Ans: B**
 
 </details>
 
-**Q46.** GST Constitutional Amendment is the—  
-A. 99th  B. 100th  C. **101st**  D. 102nd
+**Q39.** Mandamus will **not** lie against?
+A. A municipal corporation
+B. A government secretary
+C. The President / Governor personally
+D. A statutory board
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** — levy from **1 Jul 2017**.
-
-</details>
-
-**Q47.** 106th Amendment (women 33%)—  
-A. Is already filling LS seats  B. **Is law, but operates only after delimitation**  C. Amends the 11th Schedule  D. Applies only to Rajya Sabha
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C**
 
 </details>
 
-**Q48.** NJAC was—  
-A. 97th, upheld  B. **99th, struck 16 Oct 2015**  C. 102nd, still in force  D. A statutory body under the 2013 Act
+**Q40.** Prohibition is issued ___ a decision; certiorari is issued ___ a decision.
+A. after, before
+B. before, after
+C. only after, only after
+D. only before, only before
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q49.** Anglo-Indian nomination to LS/LA ended by the—  
-A. 91st  B. 102nd  C. **104th (effect 25 Jan 2020)**  D. 105th
-
-<details><summary>Show answer</summary>
-
-**C**
+**Ans: B**
 
 </details>
 
-**Q50.** Match: 1st · 7th · 24th · 44th → 9th Schedule · SRC · 13(4) · 300A.  
-A. SRC, 9th Sch, 300A, 13(4)  B. **9th Sch, SRC, 13(4), 300A**  C. 13(4), SRC, 9th Sch, 300A  D. 9th Sch, 13(4), SRC, 300A
+**Q41.** Quo warranto tests?
+A. Detention
+B. A contractual duty
+C. Title to a public office
+D. A Bill’s Money-Bill certificate
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q51.** Constitution was **adopted** on ___ and **enforced** on ___.  
-A. 26 Jan 1950, 26 Nov 1949  B. **26 Nov 1949, 26 Jan 1950**  C. 15 Aug 1947, 26 Jan 1950  D. 9 Dec 1946, 26 Nov 1949
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C**
 
 </details>
 
-**Q52.** Drafting Committee was chaired by—  
-A. B.N. Rau  B. **B.R. Ambedkar**  C. Rajendra Prasad  D. Jawaharlal Nehru
+**Q42.** Correct chronology?
+A. *Kesavananda* → 24th Amd → *Golaknath*
+B. Golaknath 1967 → 24th 1971 → Kesavananda 1973 → 42nd 1976
+C. 42nd → Kesavananda → Golaknath
+D. Shankari → Minerva → Golaknath
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — Rau was **Constitutional Adviser**.
-
-</details>
-
-**Q53.** Federal Court of India started in—  
-A. 1935  B. **1937**  C. 1950  D. 1861
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B** (2021)
 
 </details>
 
-**Q54.** Uttarakhand was created on—  
-A. 1 Nov 2000  B. **9 Nov 2000**  C. 15 Nov 2000  D. 1 Jan 2007
+**Q43.** *Kesavananda Bharati* was decided on?
+A. 26 Jan 1950
+B. 24 Apr 1973
+C. 25 Jun 1975
+D. 18 Jun 1951
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — 1 Nov = Chhattisgarh; 15 Nov = Jharkhand; 1 Jan 2007 = rename.
-
-</details>
-
-**Q55.** Doctrine of eclipse applies to—  
-A. Post-Constitution laws only  B. **Pre-Constitution laws inconsistent with FR**  C. Constitutional amendments  D. Ordinances
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B** — 13-judge, **7:6**.
 
 </details>
 
-**Q56.** *Golaknath* is remembered for—  
-A. Basic structure  B. **Prospective overruling + FR cannot be amended** (later undone by 24th + *Kesavananda*)  C. Eclipse  D. Colourable legislation
+**Q44.** “Socialist” and “Secular” entered the Preamble by the?
+A. 1st Amd
+B. 24th Amd
+C. 42nd Amd, 1976
+D. 44th Amd, 1978
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q57.** “What you cannot do directly, you cannot do indirectly” is the doctrine of—  
-A. Pith and substance  B. **Colourable legislation**  C. Territorial nexus  D. Occupied field
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C** (2025)
 
 </details>
 
-**Q58.** A citizen **cannot waive** Fundamental Rights — case?  
-A. *Bhikaji Narain*  B. **Basheshar Nath**  C. *R.M.D. Chamarbaugwalla*  D. *Shirur Mutt*
+**Q45.** Which pairing is **NOT** correctly matched?
+A. 7th Amd — States Reorganisation 1956
+B. 52nd — anti-defection
+C. 101st — GST
+D. 86th — EWS 10%
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q59.** Art. 21’s phrase “procedure established by law” is borrowed from—  
-A. USA  B. UK  C. **Japan**  D. Ireland
-
-<details><summary>Show answer</summary>
-
-**C**
+**Ans: D** — 86th = **21A**. EWS = **103rd**.
 
 </details>
 
-**Q60.** DPSP were borrowed from—  
-A. USA  B. **Ireland**  C. Canada  D. Australia
+**Q46.** GST Constitutional Amendment is the?
+A. 99th
+B. 100th
+C. 101st
+D. 102nd
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q61.** Residuary powers with the Centre were borrowed from—  
-A. USA  B. **Canada**  C. Australia  D. Switzerland
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C** — levy from **1 Jul 2017**.
 
 </details>
 
-**Q62.** Concurrent List and joint sitting came from—  
-A. UK  B. USA  C. **Australia**  D. Ireland
+**Q47.** 106th Amendment (women 33%)?
+A. Is already filling LS seats
+B. Is law, but operates only after delimitation
+C. Amends the 11th Schedule
+D. Applies only to Rajya Sabha
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q63.** Fundamental Duties were inspired by—  
-A. Ireland  B. **USSR**  C. Japan  D. France
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q64.** Suspension of FR during Emergency was inspired by—  
-A. France  B. **Weimar Germany**  C. South Africa  D. Canada
+**Q48.** NJAC was?
+A. 97th, upheld
+B. 99th, struck 16 Oct 2015
+C. 102nd, still in force
+D. A statutory body under the 2013 Act
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q65.** President’s oath is administered by the ___ and lives in ___.  
-A. President, 3rd Schedule  B. **CJI, Article 60 (not 3rd Schedule)**  C. Speaker, Article 69  D. CJI, 3rd Schedule
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q66.** Governor of a State makes the oath before the—  
-A. Chief Justice of India  B. **Chief Justice of that State’s High Court**  C. President  D. Chief Minister
+**Q49.** Anglo-Indian nomination to LS/LA ended by the?
+A. 91st
+B. 102nd
+C. 104th (effect 25 Jan 2020)
+D. 105th
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — Art. **159**.
-
-</details>
-
-**Q67.** Which officers’ **forms** are in the Third Schedule?  
-1. Union and State Ministers  2. MPs and MLAs  3. SC and HC judges  4. CAG  5. President  
-A. 1–5  B. **1, 2, 3 and 4**  C. Only 3 and 4  D. 1, 3 and 5
-
-<details><summary>Show answer</summary>
-
-**B** — President = Art. **60**.
+**Ans: C**
 
 </details>
 
-**Q68.** Ministers take how many 3rd-Schedule oaths?  
-A. One  B. **Two — office and secrecy**  C. Three  D. None; only affirmation
+**Q50.** Match List-I with List-II and select the correct answer using the code given below the lists:
 
-<details><summary>Show answer</summary>
+**List-I:** 1st · 7th · 24th · 44th  
+**List-II:** 9th Schedule · SRC · 13(4) · 300A
+A. SRC, 9th Sch, 300A, 13(4)
+B. 9th Sch, SRC, 13(4), 300A
+C. 13(4), SRC, 9th Sch, 300A
+D. 9th Sch, 13(4), SRC, 300A
 
-**B**
+<details>
+<summary>Show answer</summary>
 
-</details>
-
-**Q69.** Which pairing is **NOT** correctly matched?  
-A. UK — parliamentary government, writs  B. USA — judicial review, FR  C. Ireland — DPSP, Presidential election method  D. **USA — residuary powers with the Centre**
-
-<details><summary>Show answer</summary>
-
-**D** — that is **Canada**. USA residuary = **States**.
+**Ans: B**
 
 </details>
 
-**Q70.** Best one-line map of Parts / Schedules / Articles / Amendments—  
-A. Part XI = Municipalities; 9th Sch. = RS seats; 360 used in 1991; DPSP = USA  B. **25 Parts · 12 Schedules · 32 vs 226 · 352/356/360 · 324 vs 243K · 42nd 1976 / 44th 1978 · 3rd Sch. ≠ President/VP/Governor · Ireland DPSP · Canada residuary**  C. 11th Schedule = 18 subjects  D. Governor’s oath is in the 3rd Schedule before the CJI
+**Q51.** Constitution was **adopted** on ___ and **enforced** on ___.
+A. 26 Jan 1950, 26 Nov 1949
+B. 26 Nov 1949, 26 Jan 1950
+C. 15 Aug 1947, 26 Jan 1950
+D. 9 Dec 1946, 26 Nov 1949
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
+
+</details>
+
+**Q52.** Drafting Committee was chaired by which of the following?
+A. B.N. Rau
+B. B.R. Ambedkar
+C. Rajendra Prasad
+D. Jawaharlal Nehru
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Rau was **Constitutional Adviser**.
+
+</details>
+
+**Q53.** Federal Court of India started in which of the following?
+A. 1935
+B. 1937
+C. 1950
+D. 1861
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q54.** Uttarakhand was created on?
+A. 1 Nov 2000
+B. 9 Nov 2000
+C. 15 Nov 2000
+D. 1 Jan 2007
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — 1 Nov = Chhattisgarh; 15 Nov = Jharkhand; 1 Jan 2007 = rename.
+
+</details>
+
+**Q55.** Doctrine of eclipse applies to which of the following?
+A. Post-Constitution laws only
+B. Pre-Constitution laws inconsistent with FR
+C. Constitutional amendments
+D. Ordinances
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q56.** *Golaknath* is remembered for which of the following?
+A. Basic structure
+B. **Prospective overruling + FR cannot be amended** (later undone by 24th + *Kesavananda*)
+C. Eclipse
+D. Colourable legislation
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q57.** “What you cannot do directly, you cannot do indirectly” is the doctrine of which of the following?
+A. Pith and substance
+B. Colourable legislation
+C. Territorial nexus
+D. Occupied field
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q58.** A citizen **cannot waive** Fundamental Rights — case?
+A. *Bhikaji Narain*
+B. Basheshar Nath
+C. *R.M.D. Chamarbaugwalla*
+D. *Shirur Mutt*
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q59.** Art. 21’s phrase “procedure established by law” is borrowed from which of the following?
+A. USA
+B. UK
+C. Japan
+D. Ireland
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q60.** DPSP were borrowed from which of the following?
+A. USA
+B. Ireland
+C. Canada
+D. Australia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q61.** Residuary powers with the Centre were borrowed from which of the following?
+A. USA
+B. Canada
+C. Australia
+D. Switzerland
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q62.** Concurrent List and joint sitting came from which of the following?
+A. UK
+B. USA
+C. Australia
+D. Ireland
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q63.** Fundamental Duties were inspired by which of the following?
+A. Ireland
+B. USSR
+C. Japan
+D. France
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q64.** Suspension of FR during Emergency was inspired by which of the following?
+A. France
+B. Weimar Germany
+C. South Africa
+D. Canada
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q65.** President’s oath is administered by the ___ and lives in ___.
+A. President, 3rd Schedule
+B. CJI, Article 60 (not 3rd Schedule)
+C. Speaker, Article 69
+D. CJI, 3rd Schedule
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q66.** Governor of a State makes the oath before the?
+A. Chief Justice of India
+B. Chief Justice of that State’s High Court
+C. President
+D. Chief Minister
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Art. **159**.
+
+</details>
+
+**Q67.** Which officers’ **forms** are in the Third Schedule?
+1. Union and State Ministers
+2. MPs and MLAs
+3. SC and HC judges
+4. CAG
+5. President
+A. 1–5
+B. 1, 2, 3 and 4
+C. Only 3 and 4
+D. 1, 3 and 5
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — President = Art. **60**.
+
+</details>
+
+**Q68.** Ministers take how many 3rd-Schedule oaths?
+A. One
+B. Two — office and secrecy
+C. Three
+D. None; only affirmation
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q69.** Which pairing is **NOT** correctly matched?
+A. UK — parliamentary government, writs
+B. USA — judicial review, FR
+C. Ireland — DPSP, Presidential election method
+D. USA — residuary powers with the Centre
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — that is **Canada**. USA residuary = **States**.
+
+</details>
+
+**Q70.** Best one-line map of Parts / Schedules / Articles / Amendments?
+A. Part XI = Municipalities; 9th Sch. = RS seats; 360 used in 1991; DPSP = USA
+B. 25 Parts · 12 Schedules · 32 vs 226 · 352/356/360 · 324 vs 243K · 42nd 1976 / 44th 1978 · 3rd Sch. ≠ President/VP/Governor · Ireland DPSP · Canada residuary
+C. 11th Schedule = 18 subjects
+D. Governor’s oath is in the 3rd Schedule before the CJI
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
 
 </details>
 
@@ -1627,192 +1939,279 @@ First Governor **Sarojini Naidu** (1947). First CM **G.B. Pant**. First woman CM
 
 ## Practice Zone — Bodies, Parliament, Cases, UP
 
-**Q71.** Which pairing is constitutional?  
-A. NHRC — Art. 338  B. **NCSC — Art. 338**  C. NITI — Art. 280  D. CVC — Art. 148
+**Q71.** Which pairing is constitutional?
+A. NHRC — Art. 338
+B. NCSC — Art. 338
+C. NITI — Art. 280
+D. CVC — Art. 148
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q72.** National Commission for Backward Classes as a **standing** body lives in—  
-A. Article 340  B. **Article 338B**  C. Article 338  D. NCBC Act 1993 only
-
-<details><summary>Show answer</summary>
-
-**B** — 340 = ad hoc inquiry. (2024 Q125 still used 340 as the least-wrong option — know **both**.)
+**Ans: B**
 
 </details>
 
-**Q73.** Election Commission is **not** in charge of elections to—  
-A. Lok Sabha  B. President  C. **Nagar Nigam**  D. Rajya Sabha
+**Q72.** National Commission for Backward Classes as a **standing** body lives in which of the following?
+A. Article 340
+B. Article 338B
+C. Article 338
+D. NCBC Act 1993 only
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** — **SEC**, Art. 243ZA.
-
-</details>
-
-**Q74.** Functions of UPPSC can be extended by—  
-A. President  B. DoPT  C. Governor  D. **Uttar Pradesh Legislature**
-
-<details><summary>Show answer</summary>
-
-**D** — Art. **321** (2021 Q133).
+**Ans: B** — 340 = ad hoc inquiry. (2024 Q125 still used 340 as the least-wrong option — know **both**.)
 
 </details>
 
-**Q75.** SPSC member is **removed** by the—  
-A. Governor  B. **President** (SC inquiry on misbehaviour)  C. State Legislature  D. UPSC
+**Q73.** Election Commission is **not** in charge of elections to which of the following?
+A. Lok Sabha
+B. President
+C. Nagar Nigam
+D. Rajya Sabha
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** (2021 Q81)
-
-</details>
-
-**Q76.** Inter-State Council was constituted in 1990 on the recommendation of—  
-A. Punchhi  B. Rajamannar  C. Kothari  D. **Sarkaria**
-
-<details><summary>Show answer</summary>
-
-**D** (2021)
+**Ans: C** — **SEC**, Art. 243ZA.
 
 </details>
 
-**Q77.** First Finance Commission was chaired by—  
-A. Rajamannar  B. Santhanam  C. **K.C. Neogy**  D. Panagariya
+**Q74.** Functions of UPPSC can be extended by which of the following?
+A. President
+B. DoPT
+C. Governor
+D. Uttar Pradesh Legislature
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C**
-
-</details>
-
-**Q78.** GST Council is in Article—  
-A. 280  B. 269A  C. **279A**  D. 263
-
-<details><summary>Show answer</summary>
-
-**C**
+**Ans: D** — Art. **321** (2021 Q133).
 
 </details>
 
-**Q79.** Which is **executive**, not statutory / constitutional?  
-A. Lokpal  B. NHRC  C. **NITI Aayog**  D. CAG
+**Q75.** SPSC member is **removed** by the?
+A. Governor
+B. **President** (SC inquiry on misbehaviour)
+C. State Legislature
+D. UPSC
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** — 1 Jan **2015** Cabinet Resolution.
-
-</details>
-
-**Q80.** CVC has—  
-A. A constitutional article in Part XV  B. **No constitutional article; CVC Act 2003**  C. Art. 148  D. Art. 338
-
-<details><summary>Show answer</summary>
-
-**B** (2020)
+**Ans: B** (2021 Q81)
 
 </details>
 
-**Q81.** Lokpal Selection Committee does **not** include—  
-A. PM  B. Speaker LS  C. LoP LS  D. **Chairman of Rajya Sabha**
+**Q76.** Inter-State Council was constituted in 1990 on the recommendation of which of the following?
+A. Punchhi
+B. Rajamannar
+C. Kothari
+D. Sarkaria
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D** (2024)
-
-</details>
-
-**Q82.** NHRC is—  
-A. Constitutional under 338  B. **Statutory, PHRA 1993**  C. Executive  D. A 350B office
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: D** (2021)
 
 </details>
 
-**Q83.** CBI draws investigative power from—  
-A. CVC Act 2003 alone  B. **DSPE Act 1946 + 1963 MHA resolution**  C. Art. 355  D. NIA Act
+**Q77.** First Finance Commission was chaired by which of the following?
+A. Rajamannar
+B. Santhanam
+C. K.C. Neogy
+D. Panagariya
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q84.** Which needs **no** State consent for its scheduled offences?  
-A. CBI  B. **NIA**  C. IB  D. ED in every case
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C**
 
 </details>
 
-**Q85.** Match: NCW / NCSC / NITI / CVC → statutory women / constitutional SC / executive / statutory vigilance.  
-A. All scrambled  B. **NCW statutory · NCSC 338 · NITI executive · CVC statutory 2003**  C. NCW = 338  D. NITI = 280
+**Q78.** GST Council is in Article?
+A. 280
+B. 269A
+C. 279A
+D. 263
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q86.** Balwant Rai Mehta (1957) recommended—  
-A. Two-tier PR  B. **Three-tier PR**  C. No Gram Sabha  D. Abolition of the block
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C**
 
 </details>
 
-**Q87.** Ashok Mehta (1977) recommended—  
-A. Three-tier with the block first  B. **Two-tier: Zila + Mandal; district first**  C. PESA for all States  D. Repeal of 356
+**Q79.** Which is **executive**, not statutory / constitutional?
+A. Lokpal
+B. NHRC
+C. NITI Aayog
+D. CAG
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q88.** Correct PR-committee chronology—  
-A. Singhvi → BR Mehta → Ashok Mehta → GVK Rao  B. **BR Mehta 1957 → Ashok Mehta 1977 → GVK Rao 1985 → Singhvi 1986**  C. GVK Rao → BR Mehta  D. Ashok Mehta 1957
-
-<details><summary>Show answer</summary>
-
-**B** (2021)
+**Ans: C** — 1 Jan **2015** Cabinet Resolution.
 
 </details>
 
-**Q89.** L.M. Singhvi is tagged with—  
-A. CVC  B. **Constitutional status for Panchayats / Gram Sabha**  C. Residuary to States  D. NJAC
+**Q80.** CVC has?
+A. A constitutional article in Part XV
+B. No constitutional article; CVC Act 2003
+C. Art. 148
+D. Art. 338
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q90.** Santhanam Committee **1962** is the parent of—  
-A. NITI  B. **CVC (executive 1964)**  C. GST Council  D. 73rd Amendment
-
-<details><summary>Show answer</summary>
-
-**B** — the **1963** Santhanam is PRI **finances**.
+**Ans: B** (2020)
 
 </details>
 
-**Q91.** Which is a **Rajamannar** recommendation, not Sarkaria’s?  
-A. Keep AIS  B. Keep 356  C. Residuary with Union  D. **Abolish AIS and repeal 356**
+**Q81.** Lokpal Selection Committee does **not** include?
+A. PM
+B. Speaker LS
+C. LoP LS
+D. Chairman of Rajya Sabha
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
+**Ans: D** (2024)
+
+</details>
+
+**Q82.** NHRC is?
+A. Constitutional under 338
+B. Statutory, PHRA 1993
+C. Executive
+D. A 350B office
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q83.** CBI draws investigative power from which of the following?
+A. CVC Act 2003 alone
+B. DSPE Act 1946 + 1963 MHA resolution
+C. Art. 355
+D. NIA Act
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q84.** Which needs **no** State consent for its scheduled offences?
+A. CBI
+B. NIA
+C. IB
+D. ED in every case
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q85.** Match List-I with List-II and select the correct answer using the code given below the lists:
+
+**List-I:** NCW / NCSC / NITI / CVC  
+**List-II:** statutory women / constitutional SC / executive / statutory vigilance
+A. All scrambled
+B. NCW statutory · NCSC 338 · NITI executive · CVC statutory 2003
+C. NCW = 338
+D. NITI = 280
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q86.** Balwant Rai Mehta (1957) recommended?
+A. Two-tier PR
+B. Three-tier PR
+C. No Gram Sabha
+D. Abolition of the block
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q87.** Ashok Mehta (1977) recommended?
+A. Three-tier with the block first
+B. Two-tier: Zila + Mandal; district first
+C. PESA for all States
+D. Repeal of 356
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q88.** Correct PR-committee chronology?
+A. Singhvi → BR Mehta → Ashok Mehta → GVK Rao
+B. BR Mehta 1957 → Ashok Mehta 1977 → GVK Rao 1985 → Singhvi 1986
+C. GVK Rao → BR Mehta
+D. Ashok Mehta 1957
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** (2021)
+
+</details>
+
+**Q89.** L.M. Singhvi is tagged with which of the following?
+A. CVC
+B. Constitutional status for Panchayats / Gram Sabha
+C. Residuary to States
+D. NJAC
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q90.** Santhanam Committee **1962** is the parent of which of the following?
+A. NITI
+B. CVC (executive 1964)
+C. GST Council
+D. 73rd Amendment
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — the **1963** Santhanam is PRI **finances**.
+
+</details>
+
+**Q91.** Which is a **Rajamannar** recommendation, not Sarkaria’s?
+A. Keep AIS
+B. Keep 356
+C. Residuary with Union
+D. Abolish AIS and repeal 356
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
 
 </details>
 
@@ -1821,539 +2220,775 @@ A. Keep AIS  B. Keep 356  C. Residuary with Union  D. **Abolish AIS and repeal 3
 **Assertion (A):** Punchhi could not have been the body on whose word the ISC was first set up.
 
 **Reason (R):** The Council was constituted in 1990; Punchhi was appointed in 2007.  
-A. **Both true and R explains A**  B. Both true, R not explanation  C. A true R false  D. A false R true
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true, R not explanation
+C. A true R false
+D. A false R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A**
-
-</details>
-
-**Q93.** Swaran Singh Committee is linked to—  
-A. GST  B. **Fundamental Duties (42nd)**  C. Collegium  D. RTI
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: A**
 
 </details>
 
-**Q94.** 1st ARC was chaired (at birth) by—  
-A. Moily  B. **Morarji Desai**  C. Sarkaria  D. Neogy
+**Q93.** Swaran Singh Committee is linked to which of the following?
+A. GST
+B. Fundamental Duties (42nd)
+C. Collegium
+D. RTI
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — 2nd ARC = **Moily**.
-
-</details>
-
-**Q95.** CEC is removed—  
-A. By the President at pleasure  B. **Like a Supreme Court judge**  C. Only on the other ECs’ recommendation  D. By the ECI itself
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q96.** Other Election Commissioners are removed—  
-A. Like SC judges, independently  B. **Only on the CEC’s recommendation**  C. By the LS Speaker  D. Like HC judges
+**Q94.** 1st ARC was chaired (at birth) by which of the following?
+A. Moily
+B. Morarji Desai
+C. Sarkaria
+D. Neogy
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B** — 2nd ARC = **Moily**.
 
 </details>
 
-**Q97.** Attorney-General—  
+**Q95.** CEC is removed?
+A. By the President at pleasure
+B. Like a Supreme Court judge
+C. Only on the other ECs’ recommendation
+D. By the ECI itself
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q96.** Other Election Commissioners are removed?
+A. Like SC judges, independently
+B. Only on the CEC’s recommendation
+C. By the LS Speaker
+D. Like HC judges
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q97.** Attorney-General?
 1. Holds office during the pleasure of the President.  
 2. His salary is charged on the CFI.  
-A. **Only 1**  B. Only 2  C. Both  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — pleasure office; salary is **not** charged.
-
-</details>
-
-**Q98.** Solicitor-General of India is—  
-A. Art. 76  B. Art. 165  C. **Not in the Constitution**  D. Art. 148
-
-<details><summary>Show answer</summary>
-
-**C**
+**Ans: A** — pleasure office; salary is **not** charged.
 
 </details>
 
-**Q99.** SC judge resigns to the—  
-A. CJI  B. **President**  C. Parliament  D. Collegium
+**Q98.** Solicitor-General of India is?
+A. Art. 76
+B. Art. 165
+C. Not in the Constitution
+D. Art. 148
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** (2023)
-
-</details>
-
-**Q100.** Speaker of the Lok Sabha resigns to the—  
-A. President  B. PM  C. **Deputy Speaker**  D. CJI
-
-<details><summary>Show answer</summary>
-
-**C** — Art. **94**.
+**Ans: C**
 
 </details>
 
-**Q101.** Basic Structure doctrine was laid down in—  
-A. *Golaknath* 1967  B. **Kesavananda Bharati, 24 Apr 1973**  C. *Minerva Mills* 1980  D. *Shankari Prasad* 1951
+**Q99.** SC judge resigns to the?
+A. CJI
+B. President
+C. Parliament
+D. Collegium
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q102.** *Golaknath* held that—  
-A. Basic structure cannot be amended  B. **Fundamental Rights cannot be amended** (prospective)  C. Preamble is not part of the Constitution  D. 356 is justiciable
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B** (2023)
 
 </details>
 
-**Q103.** *Maneka Gandhi* (1978) required that the “procedure” in Art. 21 be—  
-A. Any procedure in a valid law  B. **Fair, just and reasonable**  C. American due process as a clause  D. Suspended in every Emergency
+**Q100.** Speaker of the Lok Sabha resigns to the?
+A. President
+B. PM
+C. Deputy Speaker
+D. CJI
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q104.** *ADM Jabalpur* (1976) — the famous dissent is of—  
-A. Sikri  B. **H.R. Khanna**  C. Chandrachud (majority later)  D. Bhagwati only
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C** — Art. **94**.
 
 </details>
 
-**Q105.** *S.R. Bommai* (1994) is the lock for—  
-A. Collegium  B. **Art. 356 justiciable; floor test**  C. Privacy  D. s.66A
+**Q101.** Basic Structure doctrine was laid down in which of the following?
+A. *Golaknath* 1967
+B. Kesavananda Bharati, 24 Apr 1973
+C. *Minerva Mills* 1980
+D. *Shankari Prasad* 1951
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q106.** NJAC (99th) was struck on—  
-A. 24 Apr 1973  B. **16 Oct 2015**  C. 1 Jan 2015  D. 26 Jan 2020
-
-<details><summary>Show answer</summary>
-
-**B** — **4:1**.
+**Ans: B**
 
 </details>
 
-**Q107.** *Navtej Johar* (2018) read down / struck—  
-A. Article 377 of the Constitution  B. **Section 377 of the IPC** (consensual adults)  C. Article 21  D. Section 497 IPC
+**Q102.** *Golaknath* held that?
+A. Basic structure cannot be amended
+B. **Fundamental Rights cannot be amended** (prospective)
+C. Preamble is not part of the Constitution
+D. 356 is justiciable
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** (2018 PYQ). Art. 377 = transitory **CAG**. s.497 = *Joseph Shine*.
-
-</details>
-
-**Q108.** *Indra Sawhney* (1992) did **not** hold—  
-A. 27% OBC valid  B. 50% ceiling  C. Creamy layer  D. **Reservation in promotion is mandatory**
-
-<details><summary>Show answer</summary>
-
-**D** — it **barred** promotion-reservation; **77th** later put SC/ST promotion back via 16(4A).
+**Ans: B**
 
 </details>
 
-**Q109.** *Lily Thomas* (2013) struck—  
-A. 10th Schedule  B. **RPA s.8(4)** three-month cushion for sitting MPs/MLAs  C. NOTA  D. Anti-defection para 4
+**Q103.** *Maneka Gandhi* (1978) required that the “procedure” in Art. 21 be?
+A. Any procedure in a valid law
+B. Fair, just and reasonable
+C. American due process as a clause
+D. Suspended in every Emergency
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q110.** *Shreya Singhal* struck—  
-A. s.377 IPC  B. **IT Act s.66A**  C. s.124A IPC  D. 66A of the Constitution
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q111.** ‘Zero Hour’ means—  
-A. First hour of the sitting  B. Hour before Question Hour  C. **Time immediately following Question Hour**  D. When a privilege motion is taken
+**Q104.** *ADM Jabalpur* (1976) — the famous dissent is of which of the following?
+A. Sikri
+B. H.R. Khanna
+C. Chandrachud (majority later)
+D. Bhagwati only
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** (2021 Q141)
+**Ans: B**
 
 </details>
 
-**Q112.** No-confidence motion—  
+**Q105.** *S.R. Bommai* (1994) is the lock for which of the following?
+A. Collegium
+B. Art. 356 justiciable; floor test
+C. Privacy
+D. s.66A
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q106.** NJAC (99th) was struck on?
+A. 24 Apr 1973
+B. 16 Oct 2015
+C. 1 Jan 2015
+D. 26 Jan 2020
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — **4:1**.
+
+</details>
+
+**Q107.** *Navtej Johar* (2018) read down / struck?
+A. Article 377 of the Constitution
+B. **Section 377 of the IPC** (consensual adults)
+C. Article 21
+D. Section 497 IPC
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** (2018 PYQ). Art. 377 = transitory **CAG**. s.497 = *Joseph Shine*.
+
+</details>
+
+**Q108.** *Indra Sawhney* (1992) did **not** hold?
+A. 27% OBC valid
+B. 50% ceiling
+C. Creamy layer
+D. Reservation in promotion is mandatory
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — it **barred** promotion-reservation; **77th** later put SC/ST promotion back via 16(4A).
+
+</details>
+
+**Q109.** *Lily Thomas* (2013) struck?
+A. 10th Schedule
+B. **RPA s.8(4)** three-month cushion for sitting MPs/MLAs
+C. NOTA
+D. Anti-defection para 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q110.** *Shreya Singhal* struck?
+A. s.377 IPC
+B. IT Act s.66A
+C. s.124A IPC
+D. 66A of the Constitution
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q111.** ‘Zero Hour’ means?
+A. First hour of the sitting
+B. Hour before Question Hour
+C. Time immediately following Question Hour
+D. When a privilege motion is taken
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** (2021 Q141)
+
+</details>
+
+**Q112.** No-confidence motion?
 1. Can be moved only in the Lok Sabha.  
 2. Must state reasons.  
-A. **Only 1**  B. Only 2  C. Both  D. Neither
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**A** — reasons = **censure**, not no-confidence.
-
-</details>
-
-**Q113.** Public Accounts Committee—  
-A. 30 LS members, no RS  B. **22 = 15 LS + 7 RS; Opposition chair; examines CAG**  C. No CAG link  D. Chaired by the Finance Minister
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: A** — reasons = **censure**, not no-confidence.
 
 </details>
 
-**Q114.** Estimates Committee is—  
-A. 22, both Houses, CAG  B. **30, Lok Sabha only, no CAG**  C. 31, DRSC  D. A Cabinet committee
+**Q113.** Public Accounts Committee?
+A. 30 LS members, no RS
+B. 22 = 15 LS + 7 RS; Opposition chair; examines CAG
+C. No CAG link
+D. Chaired by the Finance Minister
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q115.** Departmentally Related Standing Committees were created in—  
-A. 1950  B. 1964  C. **1993**  D. 2005
-
-<details><summary>Show answer</summary>
-
-**C** — **31** members (21+10).
+**Ans: B**
 
 </details>
 
-**Q116.** Money Bill is **defined** in Article—  
-A. 109  B. **110**  C. 111  D. 112
+**Q114.** Estimates Committee is?
+A. 22, both Houses, CAG
+B. 30, Lok Sabha only, no CAG
+C. 31, DRSC
+D. A Cabinet committee
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** (2019 Q33). 109 = **procedure**.
-
-</details>
-
-**Q117.** Which Bill **cannot** be first introduced in the Rajya Sabha?  
-A. Ordinary Bill  B. Constitutional Amendment Bill  C. Art. 3 Bill  D. **Money Bill**
-
-<details><summary>Show answer</summary>
-
-**D** (2021 Q37)
+**Ans: B**
 
 </details>
 
-**Q118.** Constitutional Amendment Bill—  
-A. Needs a joint sitting if Houses disagree  B. **No joint sitting; each House separately; President shall assent**  C. Can be an Ordinance  D. Originates only in LS
+**Q115.** Departmentally Related Standing Committees were created in which of the following?
+A. 1950
+B. 1964
+C. 1993
+D. 2005
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q119.** A Bill passed by both Houses and pending the President’s assent, on dissolution of LS—  
-A. Lapses  B. **Does not lapse**  C. Goes to joint sitting  D. Becomes an Ordinance
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C** — **31** members (21+10).
 
 </details>
 
-**Q120.** Token cut motion proposes to reduce a demand by—  
-A. ₹1  B. **₹100**  C. A specified economy amount  D. Half
+**Q116.** Money Bill is **defined** in Article?
+A. 109
+B. 110
+C. 111
+D. 112
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — ₹1 = **policy** cut.
-
-</details>
-
-**Q121.** UP Legislative Assembly strength is—  
-A. 425  B. **403**  C. 500  D. 70
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B** (2019 Q33). 109 = **procedure**.
 
 </details>
 
-**Q122.** UP in Parliament: RS ___ · LS ___.  
-A. 34 and 85  B. **31 and 80**  C. 31 and 85  D. 12 and 80
+**Q117.** Which Bill **cannot** be first introduced in the Rajya Sabha?
+A. Ordinary Bill
+B. Constitutional Amendment Bill
+C. Art. 3 Bill
+D. Money Bill
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** (2023 Q14)
-
-</details>
-
-**Q123.** UP Legislative Council has—  
-A. 134 members and can be dissolved  B. **100 members and cannot be dissolved**  C. 40 members  D. 403 members
-
-<details><summary>Show answer</summary>
-
-**B** — 100 = 36+8+8+36+12. Abolish ≠ dissolve (2018).
+**Ans: D** (2021 Q37)
 
 </details>
 
-**Q124.** Principal seat of the Allahabad High Court is—  
-A. Lucknow  B. **Prayagraj**  C. Agra (still)  D. Meerut
+**Q118.** Constitutional Amendment Bill?
+A. Needs a joint sitting if Houses disagree
+B. No joint sitting; each House separately; President shall assent
+C. Can be an Ordinance
+D. Originates only in LS
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — Lucknow is a **Bench** (1948). First sat **Agra 1866**.
-
-</details>
-
-**Q125.** Uttarakhand was created on—  
-A. 1 Nov 2000  B. **9 Nov 2000**  C. 15 Nov 2000  D. 1 Jan 2000
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q126.** UPPSC headquarters—  
-A. Lucknow  B. **Prayagraj**  C. Delhi  D. Noida
+**Q119.** A Bill passed by both Houses and pending the President’s assent, on dissolution of LS?
+A. Lapses
+B. Does not lapse
+C. Goes to joint sitting
+D. Becomes an Ordinance
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q127.** All elections to the Panchayats are conducted by—  
-A. ECI  B. **State Election Commission**  C. State Legislature  D. Panchayati Raj Commission of India
-
-<details><summary>Show answer</summary>
-
-**B** (2023 Q17). There is **no** “PR Commission of India.”
+**Ans: B**
 
 </details>
 
-**Q128.** Intermediate PR tier in UP is the—  
-A. Panchayat Samiti  B. **Kshetra Panchayat**  C. Mandal Panchayat  D. Nyaya Panchayat as a 73rd tier
+**Q120.** Token cut motion proposes to reduce a demand by which of the following?
+A. ₹1
+B. ₹100
+C. A specified economy amount
+D. Half
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q129.** Which is **NOT** a Nagar Nigam?  
-A. Lucknow  B. Varanasi  C. **Noida**  D. Kanpur
-
-<details><summary>Show answer</summary>
-
-**C** — 243Q industrial township / development authority.
+**Ans: B** — ₹1 = **policy** cut.
 
 </details>
 
-**Q130.** First Governor of the United Provinces / UP—  
-A. G.B. Pant  B. **Sarojini Naidu**  C. Rajendra Prasad  D. Sucheta Kripalani
+**Q121.** UP Legislative Assembly strength is?
+A. 425
+B. 403
+C. 500
+D. 70
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — Pant was first **CM**. Sucheta = first woman **CM**.
-
-</details>
-
-**Q131.** Official language of UP is Hindi from ___; Urdu became second official in ___.  
-A. 1950, 1951  B. **1951, 1989**  C. 1965, 1989  D. 1951, 1951
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q132.** UP has how many Commissioner divisions?  
-A. 17  B. **18**  C. 75  D. 13
+**Q122.** UP in Parliament: RS ___ · LS ___.
+A. 34 and 85
+B. 31 and 80
+C. 31 and 85
+D. 12 and 80
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — districts **75**. Devipatan HQ **Gonda**.
-
-</details>
-
-**Q133.** Maximum size of the UP Council of Ministers including the CM is—  
-A. 12  B. 403  C. **≈ 60 (15% of 403)**  D. No cap
-
-<details><summary>Show answer</summary>
-
-**C**
+**Ans: B** (2023 Q14)
 
 </details>
 
-**Q134.** Scheduled Tribe reserved Lok Sabha seats from UP—  
-A. 5  B. 17  C. **0**  D. 2
+**Q123.** UP Legislative Council has?
+A. 134 members and can be dissolved
+B. 100 members and cannot be dissolved
+C. 40 members
+D. 403 members
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** — **17** are SC.
-
-</details>
-
-**Q135.** Which pairing is **NOT** correctly matched?  
-A. Manipur LA — 60  B. UP LA — 403  C. Uttarakhand LA — 70  D. **Manipur LA — 62**
-
-<details><summary>Show answer</summary>
-
-**D** is the NOT-matched option the 2022 paper wanted — Manipur is **60**.
+**Ans: B** — 100 = 36+8+8+36+12. Abolish ≠ dissolve (2018).
 
 </details>
 
-**Q136.** UP Lokayukta statute is of—  
-A. 2013  B. **1975**  C. 1971  D. 2003
+**Q124.** Principal seat of the Allahabad High Court is?
+A. Lucknow
+B. Prayagraj
+C. Agra (still)
+D. Meerut
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — Maharashtra **1971** was first in India.
+**Ans: B** — Lucknow is a **Bench** (1948). First sat **Agra 1866**.
 
 </details>
 
-**Q137.** Which of the following is/are correct?  
+**Q125.** Uttarakhand was created on?
+A. 1 Nov 2000
+B. 9 Nov 2000
+C. 15 Nov 2000
+D. 1 Jan 2000
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q126.** UPPSC headquarters?
+A. Lucknow
+B. Prayagraj
+C. Delhi
+D. Noida
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q127.** All elections to the Panchayats are conducted by which of the following?
+A. ECI
+B. State Election Commission
+C. State Legislature
+D. Panchayati Raj Commission of India
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** (2023 Q17). There is **no** “PR Commission of India.”
+
+</details>
+
+**Q128.** Intermediate PR tier in UP is the?
+A. Panchayat Samiti
+B. Kshetra Panchayat
+C. Mandal Panchayat
+D. Nyaya Panchayat as a 73rd tier
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q129.** Which is **NOT** a Nagar Nigam?
+A. Lucknow
+B. Varanasi
+C. Noida
+D. Kanpur
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — 243Q industrial township / development authority.
+
+</details>
+
+**Q130.** First Governor of the United Provinces / UP?
+A. G.B. Pant
+B. Sarojini Naidu
+C. Rajendra Prasad
+D. Sucheta Kripalani
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Pant was first **CM**. Sucheta = first woman **CM**.
+
+</details>
+
+**Q131.** Official language of UP is Hindi from ___; Urdu became second official in ___.
+A. 1950, 1951
+B. 1951, 1989
+C. 1965, 1989
+D. 1951, 1951
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q132.** UP has how many Commissioner divisions?
+A. 17
+B. 18
+C. 75
+D. 13
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — districts **75**. Devipatan HQ **Gonda**.
+
+</details>
+
+**Q133.** Maximum size of the UP Council of Ministers including the CM is?
+A. 12
+B. 403
+C. ≈ 60 (15% of 403)
+D. No cap
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+**Q134.** Scheduled Tribe reserved Lok Sabha seats from UP?
+A. 5
+B. 17
+C. 0
+D. 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — **17** are SC.
+
+</details>
+
+**Q135.** Which pairing is **NOT** correctly matched?
+A. Manipur LA — 60
+B. UP LA — 403
+C. Uttarakhand LA — 70
+D. Manipur LA — 62
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** is the NOT-matched option the 2022 paper wanted — Manipur is **60**.
+
+</details>
+
+**Q136.** UP Lokayukta statute is of which of the following?
+A. 2013
+B. 1975
+C. 1971
+D. 2003
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Maharashtra **1971** was first in India.
+
+</details>
+
+**Q137.** Which of the following is/are correct?
 1. UP has a special provision under Article 371.  
 2. PESA applies to UP.  
-A. Only 1  B. Only 2  C. Both  D. **Neither**
+A. Only 1
+B. Only 2
+C. Both
+D. Neither
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
-
-</details>
-
-**Q138.** Collegium for SC appointments today is—  
-A. CJI alone  B. CJI + 2  C. **CJI + 4** (Third Judges 1998)  D. NJAC
-
-<details><summary>Show answer</summary>
-
-**C** — NJAC is **dead**.
+**Ans: D**
 
 </details>
 
-**Q139.** *Puttaswamy* (2017) held that—  
-A. Property is again a FR  B. **Privacy is a FR under Art. 21**  C. s.66A is valid  D. 356 is non-justiciable
+**Q138.** Collegium for SC appointments today is?
+A. CJI alone
+B. CJI + 2
+C. **CJI + 4** (Third Judges 1998)
+D. NJAC
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — 9-judge.
-
-</details>
-
-**Q140.** Best one-line map of bodies / Parliament / cases / UP—  
-A. NITI = 280; NHRC = 338; Estimates = both Houses; *Golaknath* = Basic Structure; Navtej = Art. 377; UP LA = 425  B. **338B ≠ 340 · ECI ≠ SEC · PAC has CAG, Estimates does not · 110 ≠ 109 · Sarkaria 1990 ISC · Kesavananda 1973 · s.377 IPC · UP 403/100/80/31, Prayagraj HC+UPPSC, Lucknow SEC**  C. Zero Hour is the first hour  D. Money Bill starts in Rajya Sabha
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C** — NJAC is **dead**.
 
 </details>
 
-**Q141.** Vote on Account is—  
-A. A blank cheque for war  B. **An advance grant for a few months when the full Budget is not yet passed**  C. Spending more than voted  D. Charged expenditure
+**Q139.** *Puttaswamy* (2017) held that?
+A. Property is again a FR
+B. Privacy is a FR under Art. 21
+C. s.66A is valid
+D. 356 is non-justiciable
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — Vote of Credit = unexpected/war; Excess Grant = already overspent.
-
-</details>
-
-**Q142.** How many joint sittings of Parliament have actually been held?  
-A. None  B. One  C. **Three (1961, 1978, 2002)**  D. Every Money Bill
-
-<details><summary>Show answer</summary>
-
-**C** — Dowry Prohibition, Banking Companies, POTA. Speaker presides.
+**Ans: B** — 9-judge.
 
 </details>
 
-**Q143.** Charged expenditure is—  
-A. Not discussed and not voted  B. **Discussed but not voted**  C. Voted like a Demand  D. Passed only by Rajya Sabha
+**Q140.** Best one-line map of bodies / Parliament / cases / UP?
+A. NITI = 280; NHRC = 338; Estimates = both Houses; *Golaknath* = Basic Structure; Navtej = Art. 377; UP LA = 425
+B. 338B ≠ 340 · ECI ≠ SEC · PAC has CAG, Estimates does not · 110 ≠ 109 · Sarkaria 1990 ISC · Kesavananda 1973 · s.377 IPC · UP 403/100/80/31, Prayagraj HC+UPPSC, Lucknow SEC
+C. Zero Hour is the first hour
+D. Money Bill starts in Rajya Sabha
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
-
-</details>
-
-**Q144.** NOTA—  
-A. Wins the seat if it tops the poll  B. **Was read in by *PUCL* 2013; it does not elect anyone**  C. Is in Art. 326  D. Applies only to Rajya Sabha
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q145.** First woman Chief Election Commissioner—  
-A. Sukumar Sen  B. **V.S. Ramadevi (1990)**  C. G.V.K. Rao  D. Sucheta Kripalani
+**Q141.** Vote on Account is?
+A. A blank cheque for war
+B. An advance grant for a few months when the full Budget is not yet passed
+C. Spending more than voted
+D. Charged expenditure
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — Sen was the **first** CEC.
-
-</details>
-
-**Q146.** Office of profit disqualification sits in Articles—  
-A. 75 and 164  B. **102 and 191**  C. 110 and 199  D. 324 and 243K
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B** — Vote of Credit = unexpected/war; Excess Grant = already overspent.
 
 </details>
 
-**Q147.** Contingency Fund of India is in Article—  
-A. 266(1)  B. 266(2)  C. **267**  D. 112
+**Q142.** How many joint sittings of Parliament have actually been held?
+A. None
+B. One
+C. Three (1961, 1978, 2002)
+D. Every Money Bill
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**C** — CFI = 266(1); Public Account = 266(2).
-
-</details>
-
-**Q148.** P.K. Thungon Committee (1988) is tagged with—  
-A. CVC  B. **Constitutional status / fixed term for PR (feeds 73rd)**  C. Residuary to States  D. GST
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: C** — Dowry Prohibition, Banking Companies, POTA. Speaker presides.
 
 </details>
 
-**Q149.** Speaker’s casting vote is used—  
-A. On every Money Bill  B. **Only when the House is equally divided**  C. To break a Rajya Sabha tie  D. In a joint sitting only if the President asks
+**Q143.** Charged expenditure is?
+A. Not discussed and not voted
+B. Discussed but not voted
+C. Voted like a Demand
+D. Passed only by Rajya Sabha
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B** — Art. **100**.
+**Ans: B**
 
 </details>
 
-**Q150.** Excess Grant is voted—  
-A. Before the money is spent  B. **After PAC examines the overspend, then LS**  C. By the GST Council  D. By the Estimates Committee alone
+**Q144.** NOTA?
+A. Wins the seat if it tops the poll
+B. Was read in by *PUCL* 2013; it does not elect anyone
+C. Is in Art. 326
+D. Applies only to Rajya Sabha
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**B**
+**Ans: B**
+
+</details>
+
+**Q145.** First woman Chief Election Commissioner?
+A. Sukumar Sen
+B. V.S. Ramadevi (1990)
+C. G.V.K. Rao
+D. Sucheta Kripalani
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Sen was the **first** CEC.
+
+</details>
+
+**Q146.** Office of profit disqualification sits in Articles?
+A. 75 and 164
+B. 102 and 191
+C. 110 and 199
+D. 324 and 243K
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q147.** Contingency Fund of India is in Article?
+A. 266(1)
+B. 266(2)
+C. 267
+D. 112
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — CFI = 266(1); Public Account = 266(2).
+
+</details>
+
+**Q148.** P.K. Thungon Committee (1988) is tagged with which of the following?
+A. CVC
+B. Constitutional status / fixed term for PR (feeds 73rd)
+C. Residuary to States
+D. GST
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q149.** Speaker’s casting vote is used?
+A. On every Money Bill
+B. Only when the House is equally divided
+C. To break a Rajya Sabha tie
+D. In a joint sitting only if the President asks
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Art. **100**.
+
+</details>
+
+**Q150.** Excess Grant is voted?
+A. Before the money is spent
+B. After PAC examines the overspend, then LS
+C. By the GST Council
+D. By the Estimates Committee alone
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
 
 </details>
 
@@ -2362,47 +2997,67 @@ A. Before the money is spent  B. **After PAC examines the overspend, then LS**  
 **Assertion (A):** A joint sitting can pass a Constitutional Amendment Bill.
 
 **Reason (R):** Article 108 is barred for Money Bills and for 368 Bills.  
-A. Both true and R explains A  B. Both true, R not explanation  C. A true R false  D. **A false R true**
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+B. Both true, R not explanation
+C. A true R false
+D. A false R true
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
-
-</details>
-
-**Q152.** Token cut : Policy cut ::  
-A. ₹1 : ₹100  B. **₹100 : ₹1**  C. specified amount : ₹1  D. ₹100 : specified amount
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: D**
 
 </details>
 
-**Q153.** Which fund is **not** in Arts. 266–267?  
-A. Consolidated Fund of India  B. Public Account of India  C. Contingency Fund of India  D. **Consolidated Fund of a Panchayat (that is State law / 243H)**
+**Q152.** Token cut : Policy cut ::
+A. ₹1 : ₹100
+B. ₹100 : ₹1
+C. specified amount : ₹1
+D. ₹100 : specified amount
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
-
-</details>
-
-**Q154.** First CEC of independent India—  
-A. V.S. Ramadevi  B. **Sukumar Sen**  C. T.N. Seshan  D. K.C. Neogy
-
-<details><summary>Show answer</summary>
-
-**B**
+**Ans: B**
 
 </details>
 
-**Q155.** Which pairing is **NOT** correctly matched?  
-A. Vote on Account — advance grant  B. Vote of Credit — unexpected demand  C. Joint sitting presiding officer — Speaker  D. **NOTA — candidate with most NOTA votes is declared elected**
+**Q153.** Which fund is **not** in Arts. 266–267?
+A. Consolidated Fund of India
+B. Public Account of India
+C. Contingency Fund of India
+D. Consolidated Fund of a Panchayat (that is State law / 243H)
 
-<details><summary>Show answer</summary>
+<details>
+<summary>Show answer</summary>
 
-**D**
+**Ans: D**
+
+</details>
+
+**Q154.** First CEC of independent India?
+A. V.S. Ramadevi
+B. Sukumar Sen
+C. T.N. Seshan
+D. K.C. Neogy
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+**Q155.** Which pairing is **NOT** correctly matched?
+A. Vote on Account — advance grant
+B. Vote of Credit — unexpected demand
+C. Joint sitting presiding officer — Speaker
+D. NOTA — candidate with most NOTA votes is declared elected
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
 
 </details>
 
