@@ -149,6 +149,46 @@
       .filter(Boolean);
   }
 
+  /** Parse A–D choices from one or many lines. Never invent empty keys. */
+  function collectOptionsFromLines(lines) {
+    const joined = (Array.isArray(lines) ? lines : [lines])
+      .map((line) => String(line || "").trim())
+      .filter(Boolean);
+    if (!joined.length) return [];
+
+    if (joined.length >= 2) {
+      const fromLines = joined.map(parseOptionLine).filter(Boolean);
+      if (fromLines.length >= 2) return fromLines;
+    }
+
+    // Soft-break markdown often collapses "A. … B. … C. … D. …" onto one line.
+    const inline = splitOptionsLine(joined.join(" "));
+    if (inline.length >= 2) return inline;
+
+    return joined.map(parseOptionLine).filter(Boolean);
+  }
+
+  function appendPlainLines(fragment, lines) {
+    (Array.isArray(lines) ? lines : [lines]).forEach((line) => {
+      const text = String(line || "").trim();
+      if (!text) return;
+      const p = document.createElement("p");
+      setRichText(p, text);
+      fragment.appendChild(p);
+    });
+  }
+
+  /** Prefer a styled options list; if parsing fails, keep the raw text visible. */
+  function appendOptionsKeepVisible(fragment, lines) {
+    const options = collectOptionsFromLines(lines);
+    if (options.length >= 2) {
+      fragment.appendChild(buildOptionsList(options));
+      return true;
+    }
+    appendPlainLines(fragment, lines);
+    return false;
+  }
+
   function averageOptionLength(options) {
     if (!options.length) return 0;
     return options.reduce((sum, opt) => sum + opt.body.length, 0) / options.length;
@@ -344,11 +384,21 @@
 
     const lines = trimmed.split("\n").map((line) => line.trim()).filter(Boolean);
     const hasMultilineOptions = lines.length > 1 && lines.some((line) => /^[A-D]\.\s/.test(line));
+    // Leading "A." counts too (collapsed soft-break paragraphs often start with A.).
     const hasInlineOptions =
-      /\sA\.\s/.test(trimmed) && /\sB\.\s/.test(trimmed) && !hasMultilineOptions;
+      /(?:^|\s)A\.\s/.test(trimmed) && /\sB\.\s/.test(trimmed) && !hasMultilineOptions;
     const hasNumberedStatements = lines.some((line) => /^\d+\.\s+/.test(line));
+    const hasCollapsedOptionsLine = lines.some(
+      (line) => /^[A-D]\.\s/.test(line) && /\s[B-D]\.\s/.test(line),
+    );
 
-    if (!hasMultilineOptions && !hasInlineOptions && !hasNumberedStatements && !/^Options:/i.test(trimmed)) {
+    if (
+      !hasMultilineOptions &&
+      !hasInlineOptions &&
+      !hasNumberedStatements &&
+      !hasCollapsedOptionsLine &&
+      !/^Options:/i.test(trimmed)
+    ) {
       return;
     }
 
@@ -467,12 +517,11 @@
       optionLines.push(lines[i]);
       i += 1;
     }
-    if (optionLines.length >= 2) {
-      const options = optionLines.map(parseOptionLine).filter(Boolean);
-      if (options.length >= 2) fragment.appendChild(buildOptionsList(options));
+    if (optionLines.length) {
+      // One collapsed line ("A. … B. …") or several lines — always keep visible.
+      appendOptionsKeepVisible(fragment, optionLines);
     } else if (i < lines.length && /^Options:/i.test(lines[i])) {
-      const options = splitOptionsLine(lines[i]);
-      if (options.length >= 2) fragment.appendChild(buildOptionsList(options));
+      appendOptionsKeepVisible(fragment, lines[i]);
       i += 1;
     }
 
@@ -536,7 +585,8 @@
         j += 1;
       }
 
-      const options = group.map((p) => parseOptionLine((p.textContent || "").trim())).filter(Boolean);
+      const rawLines = group.map((p) => (p.textContent || "").trim());
+      const options = collectOptionsFromLines(rawLines);
       const looksLikeAnswers = options.length >= 2 && options.every((opt) => isAnswerCodeBody(opt.body));
 
       // Skip Match List-I rows (A–D followed by List-II / numbered 1–4), but never skip real codes.
@@ -545,13 +595,12 @@
         continue;
       }
 
-      if (group.length >= 2) {
-        if (options.length >= 2) {
-          const list = buildOptionsList(options);
-          group[0].replaceWith(list);
-          group.slice(1).forEach((p) => p.remove());
-          nodes.splice(i, group.length, list);
-        }
+      // group.length === 1 still OK when one <p> holds "A. … B. … C. … D. …"
+      if (options.length >= 2) {
+        const list = buildOptionsList(options);
+        group[0].replaceWith(list);
+        group.slice(1).forEach((p) => p.remove());
+        nodes.splice(i, group.length, list);
       }
       i += 1;
     }

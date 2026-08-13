@@ -2455,13 +2455,19 @@ D. A-1, B-3, C-4, D-2
 
 </details>
 
-**Q6. UPPCS Prelims 2023, Q10**  
-With reference to the Union Finance Commission, which of the following statement(s) is/are correct?  
-1. Finance Commission has a Chairman and six members.  
-2. It submits its report to the NITI Aayog.  
+**Q6. UPPCS Prelims 2023, Q10**
+
+With reference to the Union Finance Commission, which of the following statement(s) is/are correct?
+
+1. Finance Commission has a Chairman and six members.
+2. It submits its report to the NITI Aayog.
+
 A. Only 2
+
 B. Both 1 and 2
+
 C. Only 1
+
 D. Neither 1 nor 2
 
 <details>
