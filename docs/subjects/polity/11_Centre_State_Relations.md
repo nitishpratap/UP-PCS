@@ -475,15 +475,27 @@ D. (A) is false, but (R) is true
 
 Match List-I with List-II:
 
-A. Eleventh
-B. Twelfth
-C. Thirteenth
-D. Fourteenth
-1. Dr. C. Rangarajan
-2. Dr. Y.V. Reddy
-3. Prof. A.M. Khusro
-4. Dr. Vijay L. Kelkar
+**List-I**
 
+| Code | Item |
+|------|------|
+| A | Eleventh |
+| B | Twelfth |
+| C | Thirteenth |
+| D | Fourteenth |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | Dr. C. Rangarajan |
+| 2 | Dr. Y.V. Reddy |
+| 3 | Prof. A.M. Khusro |
+| 4 | Dr. Vijay L. Kelkar |
+
+> Note: Row order in the tables is **not** the answer.
+
+Select the correct answer using the code given below:
 A. A-3, B-1, C-4, D-2
 B. A-2, B-3, C-4, D-1
 C. A-3, B-2, C-1, D-4
@@ -2246,16 +2258,31 @@ D. Only 1
 
 </details>
 
-**Q0b. UPPCS Prelims 2025, Q64**  
-Match List-I (Finance Commission) with List-II (Chairman):  
-A. Eleventh
-B. Twelfth
-C. Thirteenth
-D. Fourteenth
-1. C. Rangarajan
-2. Y.V. Reddy
-3. A.M. Khusro
-4. Vijay L. Kelkar
+**Q0b. UPPCS Prelims 2025, Q64**
+
+Match List-I (Finance Commission) with List-II (Chairman):
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | Eleventh |
+| B | Twelfth |
+| C | Thirteenth |
+| D | Fourteenth |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | C. Rangarajan |
+| 2 | Y.V. Reddy |
+| 3 | A.M. Khusro |
+| 4 | Vijay L. Kelkar |
+
+> Note: Row order in the tables is **not** the answer.
+
+Select the correct answer using the code given below:
 A. A-3, B-1, C-4, D-2
 B. A-2, B-3, C-4, D-1
 C. A-3, B-2, C-1, D-4
@@ -2268,16 +2295,31 @@ D. A-1, B-3, C-2, D-4
 
 </details>
 
-**Q0c. UPPCS Prelims 2025, Q113**  
-Match List-I (Schedule) with List-II:  
-A. Seventh
-B. Eighth
-C. Ninth
-D. Tenth
-1. Language
-2. Defection
-3. Union, State and Concurrent Lists
-4. Validation of certain Acts
+**Q0c. UPPCS Prelims 2025, Q113**
+
+Match List-I (Schedule) with List-II:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | Seventh |
+| B | Eighth |
+| C | Ninth |
+| D | Tenth |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | Language |
+| 2 | Defection |
+| 3 | Union, State and Concurrent Lists |
+| 4 | Validation of certain Acts |
+
+> Note: Row order in the tables is **not** the answer.
+
+Select the correct answer using the code given below:
 A. A-3, B-1, C-2, D-4
 B. A-3, B-1, C-4, D-2
 C. A-2, B-3, C-4, D-4
@@ -2306,16 +2348,31 @@ D. 73rd
 
 </details>
 
-**Q2. UPPCS Prelims 2024, Q102**  
-Match List-I with List-II:  
-A. Consolidated Fund of India
-B. Finance Commission
-C. Financial Emergency
-D. CAG
-1. Art. 266
-2. Art. 360
-3. Art. 280
-4. Art. 148
+**Q2. UPPCS Prelims 2024, Q102**
+
+Match List-I with List-II:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | Consolidated Fund of India |
+| B | Finance Commission |
+| C | Financial Emergency |
+| D | CAG |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | Art. 266 |
+| 2 | Art. 360 |
+| 3 | Art. 280 |
+| 4 | Art. 148 |
+
+> Note: Row order in the tables is **not** the answer.
+
+Select the correct answer using the code given below:
 A. A-3, B-1, C-2, D-4
 B. A-4, B-1, C-3, D-2
 C. A-1, B-3, C-2, D-4
@@ -2361,16 +2418,31 @@ D. 2 and 3
 
 ### 2023
 
-**Q5. UPPCS Prelims 2023, Q2**  
-Match List-I with List-II:  
-A. Art. 324
-B. Art. 315
-C. Art. 280
-D. Art. 338
-1. NCSC
-2. Finance Commission
-3. Public Service Commission
-4. Election Commission
+**Q5. UPPCS Prelims 2023, Q2**
+
+Match List-I with List-II:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | Art. 324 |
+| B | Art. 315 |
+| C | Art. 280 |
+| D | Art. 338 |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | NCSC |
+| 2 | Finance Commission |
+| 3 | Public Service Commission |
+| 4 | Election Commission |
+
+> Note: Row order in the tables is **not** the answer.
+
+Select the correct answer using the code given below:
 A. A-3, B-2, C-4, D-1
 B. A-4, B-3, C-2, D-1
 C. A-3, B-2, C-1, D-4
@@ -2401,16 +2473,31 @@ D. Neither 1 nor 2
 
 ### 2022
 
-**Q7. UPPCS Prelims 2022, Q89**  
-Match List-I (Schedule) with List-II:  
-A. Third
-B. Fourth
-C. Seventh
-D. Eighth
-1. Allocation of seats in the Council of States
-2. Forms of oath
-3. Languages
-4. List of subject-matter of laws of Parliament and State Legislatures
+**Q7. UPPCS Prelims 2022, Q89**
+
+Match List-I (Schedule) with List-II:
+
+**List-I**
+
+| Code | Item |
+|------|------|
+| A | Third |
+| B | Fourth |
+| C | Seventh |
+| D | Eighth |
+
+**List-II**
+
+| Code | Item |
+|------|------|
+| 1 | Allocation of seats in the Council of States |
+| 2 | Forms of oath |
+| 3 | Languages |
+| 4 | List of subject-matter of laws of Parliament and State Legislatures |
+
+> Note: Row order in the tables is **not** the answer.
+
+Select the correct answer using the code given below:
 A. A-4, B-3, C-1, D-2
 B. A-3, B-4, C-2, D-1
 C. A-2, B-1, C-4, D-3

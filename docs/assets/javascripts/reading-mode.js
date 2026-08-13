@@ -111,16 +111,22 @@
   // --------------------------------------------------------------------------
   // Practice / embedded PYQ cards — wrap Q blocks, format Options + match lists
   // --------------------------------------------------------------------------
+  // Q12. / Q0b. / Q1a. — letter suffixes are used when one year has multiple bank items.
+  const QUESTION_ID_RE = /^Q\d+[a-z]?\./i;
+  const QUESTION_ID_ONLY_RE = /^Q\d+[a-z]?\.?$/i;
+
   function isQuestionStart(el) {
     if (!el || el.nodeType !== 1) return false;
     if (/^H[1-6]$/.test(el.tagName)) return false;
     const text = (el.textContent || "").replace(/\s+/g, " ").trim();
-    if (/^Q\d+\./i.test(text)) return true;
+    if (QUESTION_ID_RE.test(text)) return true;
     if (/^PYQ\b/i.test(text)) return true;
     const strong = el.querySelector(":scope > strong");
     if (strong) {
       const label = (strong.textContent || "").trim();
-      if (/^Q\d+\.?$/i.test(label) || /^PYQ\b/i.test(label)) return true;
+      if (QUESTION_ID_ONLY_RE.test(label) || QUESTION_ID_RE.test(label) || /^PYQ\b/i.test(label)) {
+        return true;
+      }
     }
     return false;
   }
@@ -209,7 +215,7 @@
   function buildStemParagraph(text, className) {
     const stemP = document.createElement("p");
     stemP.className = className || "study-mcq__stem";
-    const qMatch = text.match(/^(Q\d+\.)\s*(.*)$/i);
+    const qMatch = text.match(/^(Q\d+[a-z]?\.)\s*(.*)$/i);
     if (qMatch) {
       const badge = document.createElement("strong");
       badge.textContent = qMatch[1];
@@ -219,6 +225,101 @@
       setRichText(stemP, text);
     }
     return stemP;
+  }
+
+  function isAnswerCodeBody(body) {
+    return /^(A-\d|Only\b|Both\b|Neither\b|All\b|None\b|\d+\s+\d+|\d+\s+and\b)/i.test(
+      String(body || "").trim(),
+    );
+  }
+
+  function findAnswerOptionsStart(text) {
+    const match = String(text).match(
+      /\s(?=[A-D]\.\s+(?:A-\d|Only\b|Both\b|Neither\b|All\b|None\b|\d+\s+\d+|\d+\s+and\b))/i,
+    );
+    return match ? match.index + 1 : -1;
+  }
+
+  function extractPrefixedItems(text, kind) {
+    const items = [];
+    const re = kind === "num" ? /\b(\d+)\.\s+/gi : /\b([A-D])\.\s+/gi;
+    const matches = [];
+    let m;
+    while ((m = re.exec(text)) !== null) {
+      matches.push({ key: m[1], index: m.index, end: m.index + m[0].length });
+    }
+    for (let i = 0; i < matches.length; i += 1) {
+      const start = matches[i].end;
+      const stop = i + 1 < matches.length ? matches[i + 1].index : text.length;
+      const body = text.slice(start, stop).trim().replace(/\s+/g, " ");
+      if (!body) continue;
+      items.push({ key: String(matches[i].key).toUpperCase(), body });
+    }
+    return items;
+  }
+
+  function buildMatchTable(listI, listII) {
+    const table = document.createElement("table");
+    table.className = "study-mcq__match";
+    const thead = document.createElement("thead");
+    const headRow = document.createElement("tr");
+    ["List-I", "List-II"].forEach((label) => {
+      const th = document.createElement("th");
+      th.textContent = label;
+      headRow.appendChild(th);
+    });
+    thead.appendChild(headRow);
+    table.appendChild(thead);
+    const tbody = document.createElement("tbody");
+    const rows = Math.max(listI.length, listII.length);
+    for (let r = 0; r < rows; r += 1) {
+      const tr = document.createElement("tr");
+      const left = listI[r];
+      const right = listII[r];
+      const td1 = document.createElement("td");
+      const td2 = document.createElement("td");
+      td1.textContent = left ? `${left.key}. ${left.body}` : "";
+      td2.textContent = right ? `${right.key}. ${right.body}` : "";
+      tr.appendChild(td1);
+      tr.appendChild(td2);
+      tbody.appendChild(tr);
+    }
+    table.appendChild(tbody);
+    return table;
+  }
+
+  // Single-paragraph Match Lists (markdown joins soft line-breaks) — keep List-I/II + codes visible.
+  function tryRestructureMatchListText(text) {
+    const cleaned = String(text || "").replace(/\s+/g, " ").trim();
+    if (!cleaned) return null;
+    const looksMatch =
+      /Match List/i.test(cleaned) ||
+      (/\bA\.\s+\S+/.test(cleaned) && /\b1\.\s+\S+/.test(cleaned) && /\bA\.\s+A-\d/i.test(cleaned));
+    if (!looksMatch) return null;
+
+    const answerAt = findAnswerOptionsStart(cleaned);
+    if (answerAt < 0) return null;
+
+    const before = cleaned.slice(0, answerAt).trim();
+    const after = cleaned.slice(answerAt).trim();
+    const options = splitOptionsLine(after).filter((opt) => isAnswerCodeBody(opt.body));
+    if (options.length < 2) return null;
+
+    const numAt = before.search(/\s1\.\s+/);
+    const head = (numAt >= 0 ? before.slice(0, numAt) : before).trim();
+    const mid = (numAt >= 0 ? before.slice(numAt) : "").trim();
+
+    const alphaAt = head.search(/\bA\.\s+/);
+    const stemText = (alphaAt >= 0 ? head.slice(0, alphaAt) : head).trim();
+    const listI = extractPrefixedItems(alphaAt >= 0 ? head.slice(alphaAt) : "", "alpha");
+    const listII = extractPrefixedItems(mid, "num");
+    if (listI.length < 2 && listII.length < 2) return null;
+
+    const fragment = document.createDocumentFragment();
+    if (stemText) fragment.appendChild(buildStemParagraph(stemText));
+    if (listI.length || listII.length) fragment.appendChild(buildMatchTable(listI, listII));
+    fragment.appendChild(buildOptionsList(options));
+    return fragment;
   }
 
   function buildPyqLabel(text) {
@@ -234,6 +335,12 @@
     const raw = (p.innerText || p.textContent || "").replace(/\r\n/g, "\n");
     const trimmed = raw.trim();
     if (!trimmed) return;
+
+    const matchFragment = tryRestructureMatchListText(trimmed);
+    if (matchFragment) {
+      p.replaceWith(matchFragment);
+      return;
+    }
 
     const lines = trimmed.split("\n").map((line) => line.trim()).filter(Boolean);
     const hasMultilineOptions = lines.length > 1 && lines.some((line) => /^[A-D]\.\s/.test(line));
@@ -322,6 +429,32 @@
       fragment.appendChild(table);
     }
 
+    // Match List-I rows (A–D labels) before List-II (1–4) — keep as plain lines / table, not options.
+    const listILines = [];
+    if (
+      i < lines.length &&
+      /^[A-D]\.\s/.test(lines[i]) &&
+      lines.slice(i + 1).some((line) => /^\d+\.\s+/.test(line))
+    ) {
+      while (i < lines.length && /^[A-D]\.\s/.test(lines[i])) {
+        listILines.push(lines[i]);
+        i += 1;
+      }
+      const listIILines = [];
+      while (i < lines.length && /^\d+\.\s+/.test(lines[i])) {
+        listIILines.push(lines[i]);
+        i += 1;
+      }
+      const listI = listILines.map(parseOptionLine).filter(Boolean);
+      const listII = listIILines
+        .map((line) => {
+          const m = line.match(/^(\d+)\.\s*(.*)$/);
+          return m ? { key: m[1], body: m[2].trim() } : null;
+        })
+        .filter(Boolean);
+      if (listI.length || listII.length) fragment.appendChild(buildMatchTable(listI, listII));
+    }
+
     while (i < lines.length && !/^[A-D]\.\s/.test(lines[i]) && !/^Options:/i.test(lines[i])) {
       const extra = document.createElement("p");
       setRichText(extra, lines[i]);
@@ -403,14 +536,16 @@
         j += 1;
       }
 
-      // Skip Match List-I rows (A–D followed by List-II / numbered 1–4).
-      if (isListTwoAhead(nodes, j)) {
+      const options = group.map((p) => parseOptionLine((p.textContent || "").trim())).filter(Boolean);
+      const looksLikeAnswers = options.length >= 2 && options.every((opt) => isAnswerCodeBody(opt.body));
+
+      // Skip Match List-I rows (A–D followed by List-II / numbered 1–4), but never skip real codes.
+      if (!looksLikeAnswers && isListTwoAhead(nodes, j)) {
         i = j;
         continue;
       }
 
       if (group.length >= 2) {
-        const options = group.map((p) => parseOptionLine((p.textContent || "").trim())).filter(Boolean);
         if (options.length >= 2) {
           const list = buildOptionsList(options);
           group[0].replaceWith(list);
