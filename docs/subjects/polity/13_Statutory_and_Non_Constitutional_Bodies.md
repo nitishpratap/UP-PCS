@@ -109,13 +109,19 @@ Bodies **created by Act** or by **executive resolution**. None of them (except C
 
 **Statutory anti-corruption ombudsman for the Union** — Act **2013**, in force **16 Jan 2014**. First Chair **Justice Pinaki Chandra Ghose**, **March 2019**.
 
-- **Composition:** Chairperson + **max 8** members. **≥50% judicial**. **≥50%** from SC/ST/OBC/minorities/**women**.
-- **Chair qualify:** Sitting/retired **CJI or SC judge**, or a person of impeccable integrity with **≥25 years** special knowledge (anti-corruption, public admin, vigilance, law, etc.).
-- **Tenure:** **5 years or 70**, whichever earlier. Not eligible for further central/state office (with listed exceptions).
-- **Inquiry / prosecution:** Own Inquiry Wing and Prosecution Wing; can use **CBI / agency** under its direction.
-- **Who is covered:** PM (with **filters**), Union ministers, MPs, Group A–D, boards/trusts/NGOs getting specified foreign funds.
-- **PM filter:** Full bench; **≥2/3** of members; **not** if the allegation is about international relations, external/internal security, public order, atomic energy, space. PM **does not sit** on his own case.
-- **Not covered:** Judiciary as such (in-house / impeachment) · MPs’ speech/vote in the House.
+- The **Lokpal** consists of a **Chairperson** and a **maximum of 8 members**.
+- **At least 50%** of the members must be **judicial members**.
+- **At least 50%** of the members must be from **SC, ST, OBC, minorities, or women**.
+- The **Chairperson** must be a sitting or retired **Chief Justice of India or a Supreme Court judge**, or a person of impeccable integrity with **at least 25 years** of special knowledge in fields such as anti-corruption policy, public administration, vigilance, or law.
+- The **tenure** of the Chairperson and members is **5 years, or until age 70**, whichever is earlier.
+- A Lokpal Chairperson or member is **not eligible** for further central or State office afterwards, subject to listed exceptions.
+- The Lokpal has its **own Inquiry Wing and Prosecution Wing**, and it may also use the **CBI or another agency** under its direction.
+- The Lokpal's jurisdiction covers the **Prime Minister** (subject to filters), **Union ministers**, **MPs**, **Group A to D officials**, and boards, trusts, or NGOs receiving specified foreign funds.
+- An inquiry against the **Prime Minister** can be taken up only by the **full bench**, and only if **at least two-thirds** of members approve.
+- An inquiry against the PM is **not permitted** if the allegation concerns **international relations, external or internal security, public order, atomic energy, or space**.
+- The **Prime Minister does not sit** on the bench considering his own case.
+- The Lokpal does **not** cover the **judiciary as such** — judges are dealt with through the in-house mechanism or impeachment.
+- The Lokpal also does **not** cover an **MP's speech or vote** inside the House.
 
 ### Selection Committee (2024 lock)
 
@@ -150,22 +156,22 @@ D. 1, 3 and 4
 
 </details>
 
-**Search Committee (Act, not the 2024 PYQ panel):** a panel of eminent persons **shortlists** names; the **Selection Committee** then recommends; the **President** appoints. Do not merge Search Committee with Selection Committee.
+A **Search Committee** — a separate panel of eminent persons set up under the Act, not the 2024 PYQ panel above — **shortlists names** for the Selection Committee to consider. The **Selection Committee** then makes its recommendation, and the **President** appoints. Do **not** merge the **Search Committee** with the **Selection Committee** — they are two different bodies.
 
-**Removal of Chair/member:** like an **SC judge** (misbehaviour — SC inquiry).
+The **Chairperson or a member of the Lokpal is removed** in the same way as a **Supreme Court judge** — on a charge of misbehaviour, after an inquiry by the Supreme Court.
 
-**Anna Hazare / IAC (2011)** is the street-politics origin; the **2013 Act** is the exam statute. Jan Lokpal Bill ≠ the Act as passed (weaker on PM/judiciary).
+The **Anna Hazare / India Against Corruption movement (2011)** is the street-politics origin of the Lokpal idea, but the **2013 Act** is the exam statute. The **Jan Lokpal Bill** that activists demanded is **not the same** as the Act finally passed — the Act is weaker on the Prime Minister and the judiciary.
 
 ### Lokpal Rules (own syllabus bullet)
 
-**How you complain and the clocks** — not a second statute. Selection Committee remains the **2013 Act** (2024).
+**"Lokpal Rules"** in the syllabus means **how you complain and the clocks that follow** — it is **not** a second statute. The Selection Committee remains governed by the **2013 Act** (2024).
 
-- **Form:** Complaint **in the prescribed form** + particulars / affidavit as the Rules say — not a tweet.
-- **Limitation:** Generally **within 7 years** of the offence (Act).
-- **Clock:** Preliminary inquiry aimed at **60 days**; investigation aimed at **6 months** (extendable as the Act allows).
-- **False complaint:** Punishable — the Rules/Act catch mala fide filings.
-- **Identity:** Complainant’s particulars; anonymous complaints are **not** the default route.
-- **Competent authority:** For a member, the Chair; for the Chair, the President — as the Act allots.
+- A complaint to the Lokpal must be made **in the prescribed form**, with the particulars and affidavit that the Rules require — not an informal message.
+- A complaint is generally barred if it relates to an offence committed **more than 7 years earlier**.
+- The Lokpal aims to complete a **preliminary inquiry within 60 days**, and an **investigation within 6 months** — extendable as the Act allows.
+- A **false or mala fide complaint** is punishable under the Rules and the Act.
+- A complainant must give his **identity and particulars** — **anonymous complaints are not** the default route.
+- The **competent authority** to act against a member is the **Chairperson**; against the Chairperson, it is the **President** — as the Act allots.
 
 > **Exam note:** “Lokpal Rules” in the syllabus = **how you complain and the clocks**, not a second statute. Selection Committee remains the **2013 Act** (2024).
 
@@ -173,16 +179,19 @@ D. 1, 3 and 4
 
 ## Lokayukta
 
-**State-level statutory ombudsman** — each State’s own Act; **no** all-India Lokayukta.
+**State-level statutory ombudsman** — each State has its own Act; there is **no** single all-India Lokayukta.
 
-- **Source:** **State Act**. 2013 Union Act asked States to put a Lokayukta in place; many already had one.
-- **First State:** **Maharashtra, 1971**.
-- **UP:** **U.P. Lokayukta and Up-Lokayukta Act, 1975** — among the earliest. **Up-Lokayukta** is the number-two.
-- **Appoint (typical / UP):** **Governor**, after consultation with the **Chief Justice of the HC** and the **Leader of Opposition** (wording follows the State Act).
-- **Who:** Usually a retired **HC/SC judge**.
-- **Covers:** State ministers, MLAs, officials, local bodies — **as that State’s Act lists**. Whether the **CM** is in = **State-specific** (do not copy Lokpal’s PM filter onto UP).
-- **Powers:** Inquiry / recommend prosecution or removal — **not** a criminal court.
-- **≠ Lokpal:** Design **differs by State**.
+- Each State's **Lokayukta** is set up under that **State's own Act** — there is no central Lokayukta statute for the States.
+- The **2013 Union Lokpal Act** asked States to put a Lokayukta in place; many States already had one before that.
+- **Maharashtra**, in **1971**, was the **first State** to set up a Lokayukta.
+- **Uttar Pradesh** enacted the **U.P. Lokayukta and Up-Lokayukta Act, 1975** — one of the earliest State laws.
+- The **Up-Lokayukta** is the number-two official under the UP Act.
+- Typically — and in UP — the Lokayukta is appointed by the **Governor**, after consulting the **Chief Justice of the High Court** and the **Leader of Opposition**; the exact wording follows each State's own Act.
+- The Lokayukta is usually a **retired High Court or Supreme Court judge**.
+- A Lokayukta covers **State ministers, MLAs, officials, and local bodies**, exactly as that **State's Act** lists them.
+- Whether the **Chief Minister** is covered is **State-specific** — do **not** copy the Lokpal's PM-filter logic onto every State's Lokayukta.
+- A Lokayukta may **inquire and recommend prosecution or removal**, but it is **not** a criminal court.
+- The **design of a Lokayukta differs from State to State**, and also differs from the Union Lokpal.
 
 ---
 
@@ -190,20 +199,21 @@ D. 1, 3 and 4
 
 **Statutory Union vigilance watchdog** — **no constitutional article**; supervises CBI on PCA work; **not** a police force.
 
-- **Origin:** **Santhanam Committee (1962)** on prevention of corruption → executive CVC **1964** (Lal Bahadur Shastri government).
-- **Statutory:** **CVC Act, 2003** after *Vineet Narain* (Jain hawala) — SC ordered a statutory watchdog.
-- **Article?** **None.** 2020: “Which Article describes CVC?” → **None of the above**.
-- **Composition:** **Central Vigilance Commissioner + 2 Vigilance Commissioners**.
-- **Appoint:** **President** on **PM + Union Home Minister + LoP in LS**.
-- **Tenure:** **4 years or 65**. No further employment under the Centre.
-- **Job:** Superintendence over **CBI** for **PCA 1988** cases · advise ministries · **CVO** network in departments · **Integrity Pact** / vigilance clearance advice.
-- **Jurisdiction:** Union employees (esp. Group A) and bodies the Centre notifies — **not** State servants, **not** the PM as a police case.
-- **Not:** A police force; **does not** register FIRs; **does not** try offences.
-- **Whistle-blowers:** CVC is the designated agency for **public-interest disclosures** (PIDPI / related resolution) — not the same as RTI.
-- **First CVC:** **Nittoor Srinivasa Rau** (1964).
-- **Report:** President → Parliament.
+- The **Santhanam Committee (1962)** on prevention of corruption led to an **executive CVC in 1964**, under the Lal Bahadur Shastri government.
+- The CVC became **statutory** only with the **CVC Act, 2003**, passed after the *Vineet Narain* (Jain hawala) case, in which the **Supreme Court ordered** a statutory watchdog.
+- **No Article** of the Constitution describes the CVC — a 2020 question asking "which Article" correctly answers **"none of the above."**
+- The CVC's **composition** is a **Central Vigilance Commissioner** plus **2 Vigilance Commissioners**.
+- The CVC is appointed by the **President**, on the recommendation of the **Prime Minister, the Union Home Minister, and the Leader of Opposition in the Lok Sabha**.
+- The **tenure** of a CVC member is **4 years, or until age 65**, whichever is earlier, and there is **no further employment** under the Centre afterwards.
+- The CVC exercises **superintendence over the CBI** for cases under the **Prevention of Corruption Act, 1988**.
+- The CVC also **advises ministries**, runs the **CVO (Chief Vigilance Officer) network** in departments, and advises on **Integrity Pacts** and vigilance clearances.
+- The CVC's jurisdiction covers **Union employees**, especially **Group A** officers, and bodies the Centre notifies — it does **not** cover **State servants**, and it does **not** turn the PM into a police case.
+- The CVC is **not a police force** — it **does not register FIRs** and **does not try offences**.
+- The CVC is also the designated agency for **whistle-blower complaints** under the **public-interest disclosure resolution (PIDPI)** — this is a **separate route from RTI**.
+- **Nittoor Srinivasa Rau** was the **first CVC**, in 1964.
+- The CVC **reports to the President**, who lays the report before **Parliament**.
 
-**CBI Director** is **not** appointed by the CVC. That panel (DPSE Act, after Vineet Narain / Lokpal era) = **PM + LoP LS + CJI**. CVC only **supervises** CBI on PCA work.
+The **CBI Director** is **not** appointed by the CVC. That appointment panel — under the DSPE Act, after the Vineet Narain and Lokpal-era reforms — is the **Prime Minister, the Leader of Opposition in the Lok Sabha, and the CJI**. The CVC only **supervises** the CBI on PCA work; it does **not** appoint the Director.
 
 > **Exam note:** CVC ≠ CBI ≠ Lokpal. Lokpal can *direct* CBI; CVC *supervises* CBI on PCA; CBI *investigates*.
 
@@ -237,13 +247,18 @@ Act **15 June 2005**; in force **12 Oct 2005**. Movement lock: **MKSS** (Rajasth
 | **RTI Amd 2019** | Term, salary, conditions **as the Centre / State government prescribes** — independence cut vs the old “aligned to CEC” formula | Same logic at State |
 | After office | Not eligible for further term as IC (original); 2019 leaves more to rules |
 
-**UP Information Commission:** Governor appoints (CM + LoP + a Cabinet Minister). Same **RTI Act** — not a separate UP right-to-information statute.
+The **UP Information Commission** is appointed by the **Governor**, on the recommendation of the **CM, the LoP, and a Cabinet Minister**. It sits under the **same RTI Act** — UP has **no separate** right-to-information statute of its own.
 
-**Public authority (s.2(h)):** government + bodies owned / controlled / substantially financed + NGOs substantially financed. Political parties: CIC (2013) said they are; **not enforced** — don’t freeze that fight as settled law. First CIC **Wajahat Habibullah**.
-
-**Procedure:** PIO → **first appeal** (departmental) → **second appeal** to **CIC/SIC**. Reply in **30 days** (**48 hours** if life/liberty). Penalty on PIO up to **₹25,000**. **s.4** suo motu disclosure.
-
-**s.8 exemptions (name the favourites):** security/sovereignty · contempt · FIR/investigation · cabinet papers · commercial confidence / IP · fiduciary · personal privacy. Public-interest override can still open a file. **Official Secrets Act** does **not** automatically kill RTI if disclosure is otherwise due.
+- Under **s.2(h)**, a **"public authority"** includes government bodies, bodies **owned, controlled, or substantially financed** by government, and **NGOs substantially financed** by government.
+- The CIC held, in **2013**, that **political parties** are public authorities under the RTI Act, but this ruling has **not been enforced** — do **not** treat that fight as settled law.
+- **Wajahat Habibullah** was the **first Chief Information Commissioner**.
+- A request first goes to the **Public Information Officer (PIO)**, then, if refused, to a **first appeal** (departmental), and then to a **second appeal** before the **CIC or SIC**.
+- The PIO must reply within **30 days**, or within **48 hours** if the request concerns **life or liberty**.
+- The **penalty** on a PIO for delay or refusal can go up to **₹25,000**.
+- Under **s.4**, public authorities have a duty of **suo motu disclosure** of information.
+- The commonly tested **s.8 exemptions** include **security and sovereignty**, **contempt of court**, **information that would impede an ongoing investigation**, **Cabinet papers**, **commercial confidence and intellectual property**, **fiduciary information**, and **personal privacy**.
+- A **public-interest override** can still require disclosure even within an exempted category.
+- The **Official Secrets Act** does **not automatically defeat** an RTI request if disclosure is otherwise due.
 
 > **Exam note:** CIC is **not** a constitutional body and **not** NHRC. 2019 amendment is the current-affairs knife.
 
@@ -267,18 +282,21 @@ D. National Health Mission
 
 ## NHRC & SHRC (Protection of Human Rights Act, 1993)
 
-**Statutory human-rights commissions** — **not** Art. 338; recommendatory; Paris Principles. First Chair **Justice Ranganath Misra**. Founded **12 Oct 1993**. **UN Human Rights Day = 10 December** — **not 29 January** (2025 trap). National Human Rights Commission ≠ World Human Rights Day.
+**Statutory human-rights commissions** — **not** Art. 338; recommendatory; built on the Paris Principles. First Chair **Justice Ranganath Misra**. Founded **12 October 1993**. The **UN Human Rights Day is 10 December — not 29 January** (a 2025 trap); do not confuse the National Human Rights Commission with World Human Rights Day.
 
-- **2019 amendment:** Chair: retired **CJI or** a retired **SC judge** (earlier only CJI). Members: serving/retired SC judge, HC CJ, three (HR knowledge; **at least one woman**). Term **3 years or 70** (was 5/70); **reappointment** allowed.
-- **Secretary-General:** Police / civil servant — the “police investigating its own” criticism.
-- **Job:** Inquire into HR violations by **public servants**; visit jails; review laws; treaty reporting; intervene in court with leave.
-- **Powers:** Civil-court powers while inquiring. **Cannot** punish; recommends prosecution / compensation.
-- **Report:** Central government → laid in Parliament.
-- **Ex-officio members:** Chairs of **NCSC, NCST, NCBC, NCW, NCPCR, NCM**, Chief Commissioner for Persons with Disabilities — they sit in the **full Commission**; the **core** is Chair + members above.
-- **Does not:** Inquire into a complaint **older than 1 year** (unless condoned) · punish · bind the government · replace the criminal court.
-- **Armed forces:** Inquiry is **restricted** (reports through the Centre; not a full public sitting) — 2019 did **not** turn NHRC into a court martial.
+- Before the **2019 amendment**, only a **retired CJI** could chair the NHRC; after 2019, a retired **CJI or a retired Supreme Court judge** can chair it.
+- The NHRC's members include a **serving or retired Supreme Court judge**, a **serving or retired High Court Chief Justice**, and **three other members** with knowledge of human rights — **at least one** of whom must be a **woman**.
+- The **term** was originally **5 years or age 70**; the **2019 amendment** shortened it to **3 years or age 70**, whichever is earlier, and it allows **reappointment**.
+- The NHRC's **Secretary-General** is typically a **police or civil servant** — this has drawn the criticism that "the police end up investigating themselves."
+- The NHRC **inquires into human-rights violations** by **public servants**, **visits jails**, **reviews laws**, handles **treaty reporting**, and may **intervene in court proceedings** with the court's leave.
+- The NHRC has the **powers of a civil court** while conducting an inquiry, but it **cannot punish** anyone — it can only **recommend prosecution or compensation**.
+- The NHRC's report goes to the **Central government**, which lays it before **Parliament**.
+- The **Chairs of NCSC, NCST, NCBC, NCW, and NCPCR**, along with the **Chief Commissioner for Persons with Disabilities**, sit as **ex-officio members** of the **full Commission** — but the **core Commission** is only the Chairperson and the members listed above.
+- The NHRC does **not** ordinarily inquire into a complaint **more than one year old**, unless the delay is condoned.
+- The NHRC **cannot punish**, **cannot bind the government**, and **does not replace** a criminal court.
+- The NHRC's inquiry into complaints against the **armed forces** is **restricted** — it works through reports routed via the Centre rather than a full public sitting; the 2019 amendment did **not** turn the NHRC into a court martial.
 
-**SHRC:** Chair = retired **HC CJ** (2019: retired **HC judge** also). State government appoints. **Cannot** take a matter already before NHRC, or typically a **Central-force** complaint the way NHRC can. Same 1-year / recommendatory logic. **U.P. State Human Rights Commission** sits on this Act — not Article 338.
+**SHRC (State Human Rights Commission):** The Chair was originally only a **retired High Court Chief Justice**; after the **2019 amendment**, a **retired High Court judge** can also chair it. The **State government appoints** the SHRC. An SHRC **cannot take up a matter already before the NHRC**, and it typically cannot take up a complaint against a **Central armed force**, the way the NHRC can. The same **one-year limitation** and **recommendatory** logic apply as for the NHRC. The **U.P. State Human Rights Commission** sits on this **same 1993 Act** — it is **not** an Article 338 body.
 
 ---
 
@@ -286,53 +304,53 @@ D. National Health Mission
 
 **Statutory environmental tribunal** — Act **2010**, Principal Bench **New Delhi**; **not** Art. 323A (that is CAT).
 
-- **Born:** Act **2010**; Tribunal **18 Oct 2010**.
-- **Chair:** Sitting/retired **SC judge** or **HC Chief Justice**.
-- **Benches:** Principal **New Delhi** · others **Pune, Bhopal, Chennai, Kolkata**.
-- **Schedule:** Water 1974 · Air 1981 · EPA 1986 · Forest (Conservation) 1980 · Biological Diversity 2002 · Public Liability 1991, etc.
-- **Not in Schedule:** **Wildlife (Protection) Act, 1972** · **Indian Forest Act, 1927** — classic traps.
-- **Time:** Endeavour to dispose in **6 months**.
-- **Appeal:** **Supreme Court**.
-- **Strength:** Chair + judicial members + **expert** members (scientists/engineers). Not a pure lawyers’ court.
-- **Principles:** **Sustainable development · polluter pays · precautionary principle**.
-- **Procedure:** Natural justice; **not** bound by CPC/Evidence Act strictly.
-- **Bar:** Civil court **shall not** hear a scheduled environmental dispute once NGT has it.
-- **≠:** CAT (service, **323A**) · NGT is **not** 323A.
+- The NGT was created by an **Act of 2010**, and the Tribunal itself was constituted on **18 October 2010**.
+- The NGT's Chair is a sitting or retired **Supreme Court judge** or a **High Court Chief Justice**.
+- The **Principal Bench** sits at **New Delhi**, with other benches at **Pune, Bhopal, Chennai, and Kolkata**.
+- The NGT's Schedule of Acts includes the **Water Act (1974)**, the **Air Act (1981)**, the **Environment (Protection) Act (1986)**, the **Forest (Conservation) Act (1980)**, the **Biological Diversity Act (2002)**, and the **Public Liability Insurance Act (1991)**, among others.
+- The **Wildlife (Protection) Act, 1972** and the **Indian Forest Act, 1927** are **not** in the NGT's Schedule — classic exam traps.
+- The NGT endeavours to **dispose of a case within 6 months**.
+- An appeal from the NGT lies to the **Supreme Court**.
+- The NGT's strength includes the Chair, **judicial members**, and **expert members** such as scientists and engineers — it is **not** a purely lawyers' court.
+- The NGT follows three guiding principles: **sustainable development**, the **polluter pays** principle, and the **precautionary principle**.
+- The NGT follows the **principles of natural justice** and is **not strictly bound** by the Civil Procedure Code or the Evidence Act.
+- Once the NGT has taken up a **scheduled environmental dispute**, a **civil court shall not** hear that dispute.
+- The NGT is **not** the same as the **CAT** — the CAT handles service matters under **Art. 323A**, while the NGT rests on the **2010 Act**.
 
-*L. Chandra Kumar* (1997): NGT/CAT are **supplements**, not High Court substitutes — Arts. **226/227 survive**. NGT lock here = body + Schedule Acts + three principles (sustainable development, polluter pays, precautionary).
+In *L. Chandra Kumar* (1997), the Supreme Court held that tribunals like the **NGT and CAT supplement**, rather than substitute, the High Courts — Arts. **226 and 227 survive**. The NGT's core lock is: the body itself, the Schedule of Acts it covers, and its three guiding principles (sustainable development, polluter pays, precautionary).
 
 ---
 
 ## NCW (1990 Act)
 
-Statutory. Recommendatory. **Not** 338. Chair + members appointed by the **Central government**. First Chair **Jayanti Patnaik**. Looks at safeguards, complaints of deprivation, laws on women, research. **Cannot** punish; can summon like a civil court for inquiry. State Commissions for Women exist under **State Acts**.
+The **National Commission for Women** is a **statutory, recommendatory** body — **not** an Art. 338 body. Its Chairperson and members are appointed by the **Central government**. **Jayanti Patnaik** was its **first Chairperson**. The NCW examines **safeguards for women**, looks into **complaints of deprivation of rights**, reviews **laws affecting women**, and conducts **research**. It **cannot punish**, but it can **summon parties like a civil court** during an inquiry. **State Commissions for Women** exist separately, under their own **State Acts**.
 
 ## NCM (1992 Act)
 
-Statutory. Notified **religious** minorities: **Muslims, Christians, Sikhs, Buddhists, Parsis** + **Jains (2014)**. ≠ **350B** (linguistic officer, constitutional). Recommendatory; Central government. Do not write “six communities since 1992” — Jains are the **2014** add-on.
+The **National Commission for Minorities** is a **statutory** body that covers the notified **religious minorities**: **Muslims, Christians, Sikhs, Buddhists, and Parsis**, with **Jains added in 2014**. The NCM is **not** the same as the **Art. 350B** Special Officer for Linguistic Minorities, who is a **constitutional** functionary. The NCM is **recommendatory**, and its members are appointed by the **Central government**. Do **not** write "six communities since 1992" — the **Jains were added only in 2014**, as the sixth community.
 
 ## NCPCR (2005 Act)
 
-Child = person **below 18**. Chair + **6** members. Monitors **UNCRC**, **RTE**, **JJ Act**, **POCSO**, child labour. **SCPCR** = State Commission (same 2005 Act). Recommendatory + inquiry; not a children’s criminal court (that is JJB / POCSO court).
+The **National Commission for Protection of Child Rights** treats a **"child"** as a person **below 18 years**. It has a **Chairperson and 6 members**. The NCPCR monitors implementation of the **UNCRC**, the **RTE Act**, the **Juvenile Justice Act**, the **POCSO Act**, and laws against **child labour**. The **SCPCR** is its State-level counterpart, created under the **same 2005 Act**. The NCPCR is **recommendatory** and conducts inquiries, but it is **not** a children's criminal court — that role belongs to the **Juvenile Justice Board** or a **POCSO court**.
 
 ## NCSK (1993 Act / 1994 body)
 
-Safai karamcharis and **manual scavenging** — working statute today is also the **PEMSR Act, 2013** (prohibition of employment as manual scavengers). Original NCSK tenure lapsed; the body was **kept alive by government resolution** — still **not** a 338 constitutional commission. Recommendatory.
+The **National Commission for Safai Karamcharis** deals with sanitation workers and **manual scavenging**; the operative statute today is also the **Prohibition of Employment as Manual Scavengers and their Rehabilitation Act, 2013 (PEMSR)**. The original NCSK's statutory tenure has **lapsed**, and the body is now **kept alive only by government resolution** — it remains **not** an Art. 338 constitutional commission, and it is **recommendatory** in character.
 
 ---
 
 ## NDMA (Disaster Management Act, 2005)
 
-**Statutory disaster authority** — post-**2004 tsunami**; three-tier **NDMA – SDMA – DDMA**. **Not** constitutional. MHA is nodal; Chair of NDMA is still the **PM**.
+**Statutory disaster authority** — set up after the **2004 tsunami**; organised in a three-tier structure of **NDMA – SDMA – DDMA**. It is **not** a constitutional body. The **MHA** is the nodal ministry, but the **ex-officio Chair of the NDMA is still the Prime Minister**.
 
-- **NDMA:** Chair (ex officio) = **Prime Minister**.
-- **SDMA:** Chair = **Chief Minister**.
-- **DDMA:** Chair = **District Magistrate** (Collector).
-- **NEC:** Chair = **Cabinet Secretary** (National Executive Committee).
+- The **NDMA (National Disaster Management Authority)** is chaired, *ex officio*, by the **Prime Minister**.
+- The **SDMA (State Disaster Management Authority)** is chaired by the **Chief Minister** of the State.
+- The **DDMA (District Disaster Management Authority)** is chaired by the **District Magistrate** (Collector).
+- The **NEC (National Executive Committee)** is chaired by the **Cabinet Secretary**.
 
-**Also under the 2005 Act:** **NDRF** (force) · **NIDM** (institute). Vice-Chair of NDMA is **nominated by the PM**; members (up to 9) likewise. Nodal Union ministry / NDMA Division = **MHA**, but the **ex-officio Chair of NDMA is the Prime Minister**, not the Home Minister (2021).
+The 2005 Act also created the **NDRF** (a disaster-response force) and the **NIDM** (a training and research institute). The **Vice-Chairperson of the NDMA** is nominated by the Prime Minister, and its **members (up to 9)** are likewise nominated. The **nodal Union ministry** for the NDMA Division is the **MHA**, but that does **not** change the fact that the **ex-officio Chair of the NDMA is the Prime Minister**, not the Home Minister — a 2021 trap.
 
-Plans at National / State / District. Cycle: **mitigation – preparedness – response – recovery**. NDMA is the **authority**; the Act is the statute. **Not** constitutional.
+Disaster management plans are prepared at the **National, State, and District** levels, following the cycle of **mitigation, preparedness, response, and recovery**. The **NDMA** is the authority; the **2005 Act** is the statute; and the whole structure is **not constitutional**.
 
 **PYQ — UPPCS Prelims 2021, Q26**
 
@@ -356,11 +374,12 @@ D. The Health and Family Welfare Minister
 
 **Statutory competition regulator** — operational **2009**; replaced **MRTP Commission** (MRTP Act 1969).
 
-- **Job:** **s.3** anti-competitive agreements · **s.4** abuse of dominance · **s.5–6** combinations (M&A above thresholds). DG inquires; CCI orders / penalties (turnover %).
-- **Composition:** Chairperson + **up to 6** members; Central government.
-- **Appeal:** Old **COMPAT** → from **2017**, **NCLAT** → SC.
-- **Ministry:** Corporate Affairs.
-- **≠:** SEBI (securities) · TRAI (telecom).
+- The CCI acts against **anti-competitive agreements** under **s.3**, **abuse of dominance** under **s.4**, and reviews **combinations** — mergers and acquisitions above notified thresholds — under **s.5–6**.
+- The **Director General (DG)** conducts the inquiry, and the **CCI** passes orders and imposes penalties, often calculated as a **percentage of turnover**.
+- The CCI's **composition** is a **Chairperson plus up to 6 members**, appointed by the **Central government**.
+- Appeals from the CCI went earlier to the **COMPAT**; since **2017**, they go to the **NCLAT**, and finally to the **Supreme Court**.
+- The CCI functions under the **Ministry of Corporate Affairs**.
+- The CCI is **not** the same as **SEBI** (which regulates securities) or **TRAI** (which regulates telecom).
 
 ---
 
@@ -368,24 +387,27 @@ D. The Health and Family Welfare Minister
 
 **Statutory capital-market regulator** — executive **1988** → **statutory 1992** (post-Harshad Mehta); HQ **Mumbai**.
 
-- **Job:** Protect investors; regulate securities market; register intermediaries. Quasi-legislative + quasi-judicial.
-- **Appeal:** **Securities Appellate Tribunal (SAT)** → SC.
-- **Chair:** Appointed by Central government.
-- **≠:** **IRDAI** (insurance) · **PFRDA** (pensions) · **RBI** (banks). SAT hears SEBI appeals, **not** CCI.
+- SEBI's job is to **protect investors**, **regulate the securities market**, and **register market intermediaries**.
+- SEBI has both **quasi-legislative and quasi-judicial** powers.
+- An appeal from a SEBI order goes to the **Securities Appellate Tribunal (SAT)**, and then to the **Supreme Court**.
+- SEBI's **Chairperson** is appointed by the **Central government**.
+- SEBI is **not** the same as **IRDAI** (insurance), **PFRDA** (pensions), or the **RBI** (banks) — and the **SAT** hears **SEBI** appeals, **not CCI** appeals.
 
 ---
 
 ## RBI (RBI Act, 1934) — constitutional relevance
 
-**Statutory central bank**, not a constitutional body. Union List **Entry 38** = “Reserve Bank of India”. **Art. 110/292** money/borrow; currency is Union.
+**Statutory central bank**, not a constitutional body. Union List **Entry 38** reads **"Reserve Bank of India"**. Arts. **110 / 292** deal with money and borrowing, and currency is a **Union** subject.
 
-- **Origin:** **Hilton Young Commission (1926)** recommended a central bank → RBI Act **1934** → **1 April 1935** (started Calcutta, then **Mumbai**). Nationalised **1 Jan 1949**.
-- **First Governor:** **Osborne Smith**. First Indian: **C.D. Deshmukh**.
-- **Board:** Central Board of Directors; Governor + **4** Deputy Governors (typical).
-- **Functions:** **Issue of banknotes** · banker to government · banker to banks · manager of forex · supervisor of banks (**BR Act 1949**) · monetary policy.
-- **₹1 / coins:** **₹1 note** and **all coins** = **Government of India** (Finance Secretary signs the ₹1 note — **not** the RBI Governor).
-- **Not RBI:** Income-tax collection · **census** · foreign **policy** · **MSP** (**CACP**) · **WPI** (Ministry of Commerce & Industry, 2021 trap).
-- **MPC (2016):** 6 members (3 RBI including Governor + 3 external). Decision by majority; Governor **casting vote**. CPI-inflation targeting.
+- The **Hilton Young Commission (1926)** recommended setting up a central bank, leading to the **RBI Act, 1934**.
+- The RBI began operating on **1 April 1935**, starting in **Calcutta** before moving to **Mumbai**; it was **nationalised on 1 January 1949**.
+- **Osborne Smith** was the **first Governor** of the RBI; **C.D. Deshmukh** was the **first Indian Governor**.
+- The RBI is run by a **Central Board of Directors**, headed by the **Governor**, with typically **4 Deputy Governors**.
+- The RBI's functions include **issuing banknotes**, acting as **banker to the government**, acting as **banker to other banks**, **managing foreign exchange**, **supervising banks** under the **Banking Regulation Act, 1949**, and conducting **monetary policy**.
+- The **₹1 note** and **all coins** are issued by the **Government of India** — the **Finance Secretary**, not the RBI Governor, signs the ₹1 note.
+- The RBI does **not** collect **income tax**, does **not** conduct the **census**, does **not** frame **foreign policy**, does **not** recommend **MSP** (that is the **CACP's** job), and does **not** publish the **WPI** (that is the **Ministry of Commerce and Industry**'s job — a 2021 trap).
+- The **Monetary Policy Committee (2016)** has **6 members** — **3 from the RBI**, including the Governor, and **3 external members**.
+- MPC decisions are taken by **majority**, with the **Governor holding a casting vote**, and the MPC targets **CPI inflation**.
 
 **PYQ — UPPCS Prelims 2024, Q41**
 
@@ -425,8 +447,8 @@ D. Ministry of Finance
 
 **Statutory housing-finance body** — born **1987**, promoted by **RBI**.
 
-- **Job:** Housing-finance institution / refinancing; was also regulator of HFCs.
-- **2019:** RBI took over **regulation of HFCs**; GoI took RBI’s shareholding in NHB — NHB remains a **statutory** housing-finance body.
+- The **NHB** was set up as a **housing-finance institution** and refinancing body, and it earlier also **regulated Housing Finance Companies (HFCs)**.
+- In **2019**, the **RBI took over regulation of HFCs**, and the **Government of India took over RBI's shareholding** in the NHB — the NHB remains a **statutory** housing-finance body.
 
 ---
 
@@ -434,16 +456,16 @@ D. Ministry of Finance
 
 **Statutory service tribunal enabled by Art. 323A** — **1985 Act**, Principal Bench **New Delhi**; **226/227 survive**.
 
-- **Enable:** **Art. 323A** (42nd). Body = **1985 Act**, **1 Nov 1985**.
-- **Principal Bench:** **New Delhi**. Other benches / circuits.
-- **Chair:** HC **Chief Justice** rank.
-- **Covers:** Union civil servants, AIS as provided, civilian defence employees as the Act says.
-- **Excludes:** **Armed forces** → **AFT 2007**.
-- **Sisters:** **SAT** (State Administrative Tribunal, on State request) · **JAT** (Joint).
-- **Cases:** *Sampath Kumar* (1987) treated CAT as HC **substitute** → *L. Chandra Kumar* (1997) = **supplement**; **226/227 survive**.
-- **2020 pair:** **Administrative Tribunal – Article 323A** is a **correct** match (with ISC 263, FC 280, UPSC 315). Dump of “which is NOT matched” is messy — do **not** overfit a letter. 323B = other tribunals (tax, land, etc.), Parliament **or** State.
+- The CAT is **enabled** by **Art. 323A** (inserted by the **42nd Amendment**), and the body itself was created by the **Administrative Tribunals Act, 1985**, effective **1 November 1985**.
+- The CAT's **Principal Bench** sits at **New Delhi**, with **other benches and circuit sittings** elsewhere.
+- The CAT's Chair holds the rank of a **High Court Chief Justice**.
+- The CAT covers **Union civil servants**, members of the **All-India Services** as provided, and **civilian defence employees**, as the Act specifies.
+- The CAT **excludes the armed forces** — their service matters go to the **Armed Forces Tribunal, 2007**.
+- The CAT's "sister" tribunals are the **SAT** (State Administrative Tribunal, set up on a State's request) and the **JAT** (Joint Administrative Tribunal, for two or more States).
+- In *Sampath Kumar* (1987), the Supreme Court treated the CAT as a **substitute** for the High Court; in *L. Chandra Kumar* (1997), it held that the CAT only **supplements** the High Court, and **Arts. 226/227 survive**.
+- **"Administrative Tribunal — Article 323A"** is a **correctly matched pair** (alongside Inter-State Council–263, Finance Commission–280, and UPSC–315) — a recurring 2020-style Match-List item. Do **not** treat 323A as wrongly matched. **Art. 323B**, by contrast, covers **other tribunals** (tax, land, etc.), which either Parliament **or** a State legislature may set up.
 
-CAT = **1985 Act**, enabled by **323A**. Armed forces go to **AFT 2007**, not CAT. *Sampath Kumar* treated CAT as an HC substitute; *L. Chandra Kumar* (1997) = **supplement**; **226/227 survive**.
+To sum up: the **CAT is a 1985 statutory body**, **enabled by Art. 323A**. **Armed forces go to the AFT, 2007**, not the CAT. *Sampath Kumar* treated the CAT as an HC substitute, while *L. Chandra Kumar* (1997) held it merely **supplements** the High Court — **Arts. 226/227 survive**.
 
 ---
 
@@ -463,32 +485,33 @@ CAT = **1985 Act**, enabled by **323A**. Armed forces go to **AFT 2007**, not CA
 
 **Extra-constitutional planning body (1950) replaced by an extra-constitutional think-tank (2015)** — neither is the Finance Commission.
 
-- **PC born:** **15 March 1950**, extra-constitutional, **Nehru** Chair. Last (12th) Plan ended **2017**.
-- **Working head:** **Deputy Chairman** (not a constitutional office).
-- **Ashok Chanda:** Called PC the **“Economic Cabinet of India”** (2018).
-- **Poverty line:** Official estimates were a **PC** job; after 2015 the trap option is **NITI** — still **not** CACP/RBI.
-- **Death:** Wound up **2014–15** → **NITI Aayog**.
+- The **Planning Commission** was born on **15 March 1950**, as an **extra-constitutional** body, with **Nehru** as its Chair.
+- The **12th and last Five-Year Plan** ended in **2017**.
+- The Commission's **working head** was the **Deputy Chairman** — again, **not** a constitutional office.
+- **Ashok Chanda** called the Planning Commission the **"Economic Cabinet of India"** — a fact tested in **2018**.
+- The **official poverty line** used to be estimated by the **Planning Commission**; after 2015, the trap answer offered is **NITI Aayog**, but neither is the **CACP** or the **RBI**.
+- The Planning Commission was **wound up in 2014–15** and replaced by the **NITI Aayog**.
 
 ### NITI Aayog (1 January 2015)
 
-Cabinet **Resolution** — **not** an Act, **not** in the Constitution. Full form: **National Institution for Transforming India**.
+The **NITI Aayog** was set up by a **Cabinet Resolution** — **not** by an Act, and **not** in the Constitution. Its full form is **National Institution for Transforming India**.
 
-- **Chair:** **Prime Minister**.
-- **Vice-Chair:** Nominated by PM. **First: Arvind Panagariya** (2018). Then Rajiv Kumar; **Suman Bery** later.
-- **CEO:** PM appoints; **Secretary** rank. First CEO **Sindhushree Khullar**.
-- **Full-time / part-time members:** Specialists; part-time from universities/research (capped).
-- **Ex-officio:** Union ministers nominated by PM (capped).
-- **Governing Council:** **CMs of all States + Lt Governors of UTs** (+ PM). This is the federal table.
-- **Regional Councils:** Ad hoc, for groupings of States, specified tenure; PM / nominee chairs.
-- **Special invitees:** Domain experts.
+- The NITI Aayog's **Chairperson** is the **Prime Minister**.
+- Its **Vice-Chairperson** is nominated by the PM; **Arvind Panagariya** was the **first Vice-Chairperson (2018)**, followed by **Rajiv Kumar** and later **Suman Bery**.
+- Its **CEO** is appointed by the PM, at **Secretary** rank; **Sindhushree Khullar** was the **first CEO**.
+- It has **full-time and part-time members** — specialists, with part-time members drawn from universities and research bodies, within a capped number.
+- It also has **ex-officio members** — Union ministers nominated by the PM, again within a cap.
+- Its **Governing Council** — the federal table — comprises the **Chief Ministers of all States** and the **Lieutenant Governors of UTs**, along with the PM.
+- Its **Regional Councils** are ad hoc bodies for groupings of States, with a specified tenure, chaired by the PM or his nominee.
+- It also invites **special invitees**, who are domain experts.
 
-**What it is:** think-tank — cooperative + competitive federalism, bottom-up plans, national agenda, indices, hand-holding of States. Early documents: **15-year Vision · 7-year Strategy · 3-year Action Agenda**. **DMEO** (Development Monitoring and Evaluation Office) is an attached office **under NITI** (2020). **Atal Innovation Mission (AIM)** / Atal Tinkering Labs = **NITI** (2020).
+The NITI Aayog functions as a **think-tank** — promoting cooperative and competitive federalism, bottom-up planning, a national agenda, performance indices, and hand-holding of States. Its early documents were the **15-year Vision, 7-year Strategy, and 3-year Action Agenda**. The **DMEO (Development Monitoring and Evaluation Office)** became an attached office **under NITI** in **2020**, as did the **Atal Innovation Mission (AIM)** and its **Atal Tinkering Labs**.
 
-**What it is not:** Finance Commission (**280** — report goes to **President**, 2023). Does **not** allocate Plan funds (that was PC; today expenditure is Budget / Finance Ministry). Does **not** recommend **MSP** (**CACP**). Does **not** become constitutional by being chaired by the PM.
+The NITI Aayog is **not** the **Finance Commission** — the FC rests on **Art. 280** and its report goes to the **President** (2023 lock). The NITI Aayog does **not allocate Plan funds** — that was the Planning Commission's job; today, expenditure runs through the **Budget and the Finance Ministry**. It does **not recommend MSP** — that is the **CACP's** job. And being chaired by the PM does **not** make it a **constitutional** body.
 
-**SDG nodal institution in India = NITI** (2019). MoSPI keeps the indicator framework; NITI publishes **SDG India Index**.
+The **NITI Aayog is India's SDG nodal institution**, a lock tested in **2019**. **MoSPI** maintains the indicator framework, while **NITI** publishes the **SDG India Index**.
 
-**Aspirational Districts Programme (2018):** NITI anchors. UP count **up to June 2021 = 8** (2021). Original eight: Bahraich, Balrampur, Chandauli, Chitrakoot, Fatehpur, Shrawasti, Siddharthnagar, Sonbhadra.
+Under the **Aspirational Districts Programme (2018)**, **NITI Aayog** is the anchoring institution. **Uttar Pradesh's count stood at 8 districts up to June 2021**. The original eight were **Bahraich, Balrampur, Chandauli, Chitrakoot, Fatehpur, Shrawasti, Siddharthnagar, and Sonbhadra**.
 
 **Index PYQs (identity = NITI; ranks are year-locked):**
 
@@ -550,9 +573,9 @@ D. Finance Commission
 
 **Executive federal planning forum** — **6 August 1952** (Nehru); **not** constitutional; PM chairs.
 
-- **Who sat:** PM + Union ministers + **CMs** + PC members.
-- **Job:** Approve **Five-Year Plans**, national resources, plan implementation.
-- **After 2015:** Forum effectively **replaced** by NITI **Governing Council**. Do not write “NDC is a constitutional federal body”.
+- The NDC's membership included the **Prime Minister**, **Union ministers**, all **Chief Ministers**, and members of the **Planning Commission**.
+- The NDC's job was to **approve the Five-Year Plans**, and to consider **national resources** and **plan implementation**.
+- After **2015**, the NDC was effectively **replaced** by the NITI Aayog's **Governing Council** — do **not** write that "the NDC is a constitutional federal body."
 
 ---
 
@@ -560,16 +583,16 @@ D. Finance Commission
 
 **Union investigating agency** — created by **MHA resolution, 1 April 1963**; power from **DSPE Act 1946**; **not** a 2003-style statutory commission like CVC.
 
-- **Lineage:** SPE **1941** (war-time corruption) → **DSPE Act 1946** → CBI **1963** (Santhanam). **Shastri** era.
-- **Legal character:** **Non-constitutional and non-statutory** as a body. Investigation power rides on **DSPE Act 1946**. ≠ CVC Act 2003.
-- **Admin:** **DoPT** / Ministry of Personnel — **not** MHA (IB is MHA).
-- **HQ / Academy:** **New Delhi** / **CBI Academy, Ghaziabad** (UP lock).
-- **Superintendence:** **PCA** cases → **CVC**. Other work → **Central government**.
-- **Director:** Panel **PM + LoP LS + CJI**. Minimum tenure logic from *Vineet Narain* / later statutes.
-- **s.6 DSPE:** Needs **State consent** to investigate in that State, unless **SC/HC** orders or the Centre uses the notified route with consent already given.
-- **Interpol:** CBI = India’s **National Central Bureau**. **BHARATPOL** portal (2025) = **CBI**, not IB/RAW/ED.
-- **Motto:** Industry, Impartiality, Integrity.
-- **≠:** NIA (terror statute) · ED (money) · IB (intel, no police casebook).
+- The CBI's lineage runs from the **Special Police Establishment (1941)**, set up to fight war-time corruption, through the **DSPE Act, 1946**, to the **CBI itself in 1963** — on the **Santhanam Committee's** recommendation, in the **Shastri** era.
+- As a body, the CBI is **non-constitutional and non-statutory** — its power to investigate rests on the **DSPE Act, 1946**, and it is **not** created by an Act like the **CVC Act, 2003**.
+- The CBI is administered by the **DoPT (Ministry of Personnel)** — **not** the MHA, which administers the **IB**.
+- The CBI's headquarters is in **New Delhi**, and its training academy, the **CBI Academy**, is at **Ghaziabad** — a UP lock.
+- The CBI's superintendence for **PCA cases** lies with the **CVC**; for other work, it lies with the **Central government**.
+- The CBI **Director** is appointed on the recommendation of a panel of the **PM, the LoP in the Lok Sabha, and the CJI**, with minimum-tenure protections that trace to *Vineet Narain* and later statutes.
+- Under **s.6 of the DSPE Act**, the CBI needs the **State's consent** to investigate within that State, unless the **Supreme Court or a High Court** orders otherwise, or the Centre uses a notified route for which consent was already given.
+- The CBI is India's **National Central Bureau** for **Interpol**, and the **BHARATPOL portal (2025)** was developed by the **CBI**, not the IB, RAW, or ED.
+- The CBI's motto is **"Industry, Impartiality, Integrity."**
+- The CBI is **not** the same as the **NIA** (a statutory terror agency), the **ED** (a money agency), or the **IB** (an intelligence body with no police casebook).
 
 **PYQ — UPPCS Prelims 2025, Q126**
 
@@ -598,11 +621,11 @@ D. Only 1
 
 **Statutory terror-investigation agency** — **NIA Act 2008**, post **26/11**; **no** State consent for scheduled offences.
 
-- **Job:** Investigate & prosecute **scheduled offences** (UAPA, explosives, atomic energy, hijacking, WMD, SAARC convention, etc.).
-- **Consent:** **No State consent** needed to take up a scheduled offence anywhere in India — the CBI contrast.
-- **Courts:** **Special NIA Courts**; appeal as the Act provides.
-- **2019 amendment:** Wider schedule (incl. human trafficking, cyber-terrorism as listed); extra-territorial investigation / property with foreign cooperation.
-- **Head:** Director General; Central government. HQ **New Delhi**.
+- The NIA **investigates and prosecutes scheduled offences** — such as those under the **UAPA**, laws on explosives, atomic energy, hijacking, weapons of mass destruction, and the SAARC convention on terrorism.
+- The NIA needs **no State consent** to take up a scheduled offence anywhere in India — the key contrast with the **CBI**.
+- The NIA's cases are tried in **Special NIA Courts**, with appeal as the Act provides.
+- The **2019 amendment** widened the NIA's schedule of offences — adding, for instance, **human trafficking** and **cyber-terrorism** — and allowed **extra-territorial investigation** and action against property, with foreign cooperation.
+- The NIA is headed by a **Director General**, under the **Central government**, with headquarters at **New Delhi**.
 
 ---
 
@@ -610,11 +633,11 @@ D. Only 1
 
 **Oldest Indian intel organisation** — **1887** (Central Special Branch); **internal**; **MHA**; executive, not statutory.
 
-- **Beat:** **Internal** intelligence, counter-intelligence, VIP-security inputs.
-- **Ministry:** **MHA**. Director, IB (DIB) — typically senior IPS.
-- **Character:** Executive; **not** statutory; **not** a police investigating agency like CBI.
-- **Coordination:** **Multi-Agency Centre (MAC)** for terror intel sits with IB.
-- **≠ RAW:** RAW is **external**.
+- The IB's beat is **internal intelligence**, counter-intelligence, and **VIP-security inputs**.
+- The IB works under the **MHA**, and its head, the **Director, IB (DIB)**, is typically a senior IPS officer.
+- The IB is an **executive** body — **not statutory**, and **not** a police investigating agency like the CBI.
+- The **Multi-Agency Centre (MAC)**, which coordinates counter-terror intelligence, sits with the **IB**.
+- The IB is **not** the same as **RAW**, which handles **external** intelligence.
 
 ---
 
@@ -622,10 +645,10 @@ D. Only 1
 
 **External intelligence agency** — **21 September 1968**; founder **R.N. Kao**; reports to **Cabinet Secretariat**, not MHA.
 
-- **Beat:** **External** intelligence.
-- **Reports:** **Cabinet Secretariat** / NSA / PM — **not** MHA.
-- **Character:** Executive; **not** statutory; **not** Interpol NCB.
-- **Why split:** IB had been doing both internal and external; wars showed the gap.
+- RAW's beat is **external intelligence**.
+- RAW reports to the **Cabinet Secretariat**, the **NSA**, and the **PM** — **not** to the MHA.
+- RAW is an **executive** body, **not statutory**, and it is **not** India's Interpol NCB — that role belongs to the CBI.
+- RAW was carved out because the **IB** had been handling both internal and external intelligence, and **wars exposed the gap** in dedicated external intelligence.
 
 ---
 
@@ -633,11 +656,11 @@ D. Only 1
 
 **Money-laundering / forex enforcement agency** — **1 May 1956**; **FEMA 1999** + **PMLA 2002**; **Department of Revenue, Ministry of Finance**.
 
-- **Born:** Enforcement Unit for foreign-exchange law; later **FERA → FEMA 1999**.
-- **Today:** Enforces **FEMA 1999** and **PMLA 2002** (attach / investigate proceeds of crime).
-- **Ministry:** **Department of Revenue, Ministry of Finance** — not MHA, not DoPT.
-- **Character:** Directorate / executive agency, not a 338-style commission.
-- **≠:** CBI (IPC/PCA) · NIA (scheduled terror) · IB/RAW (intel).
+- The ED began as an **Enforcement Unit** for foreign-exchange law, under the old **FERA**, which was later replaced by **FEMA, 1999**.
+- Today, the ED enforces **FEMA, 1999** and the **PMLA, 2002** — attaching and investigating the **proceeds of crime**.
+- The ED works under the **Department of Revenue, Ministry of Finance** — **not** the MHA, and **not** the DoPT.
+- The ED is a **directorate**, an executive agency, **not** a 338-style commission.
+- The ED is **not** the same as the **CBI** (IPC/PCA crime), the **NIA** (scheduled terror), or the **IB/RAW** (intelligence).
 
 ---
 
@@ -645,24 +668,28 @@ D. Only 1
 
 **Extra-constitutional security-policy forum** — **1998** (Vajpayee); **PM** chairs; first NSA **Brajesh Mishra**.
 
-- **Typical members:** HM, Defence, External Affairs, Finance + **NSA**.
-- **Three-tier:** **NSC** (political) · **SPG** (Strategic Policy Group — secretaries / chiefs; after 2018 **NSA** chairs SPG) · **NSAB** (National Security Advisory Board — experts).
-- **Secretariat:** **NSCS**; **Joint Intelligence Committee** feeds it.
-- **≠:** CCS (Cabinet Committee on Security is a **Cabinet** committee) · NDMA (disaster statute).
+- The NSC's typical members are the **Home, Defence, External Affairs, and Finance Ministers**, along with the **National Security Adviser (NSA)**.
+- The NSC structure has **three tiers**: the **NSC** itself (the political tier); the **Strategic Policy Group (SPG)** — of secretaries and service chiefs, chaired by the **NSA** since 2018; and the **National Security Advisory Board (NSAB)** — of outside experts.
+- The NSC's secretariat is the **NSCS**, fed in turn by the **Joint Intelligence Committee**.
+- The NSC is **not** the same as the **Cabinet Committee on Security (CCS)** — a **Cabinet** committee — nor the **NDMA**, which rests on a disaster-management statute.
 
 ---
 
 ## Agency match card
 
-- **IB:** **1887**, internal intel, **MHA**.
-- **ED:** **1956**, FEMA / PMLA, **Finance (Revenue)**.
-- **CBI:** **1963** (+ DSPE **1946**), crime / PCA / Interpol, **DoPT**.
-- **RAW:** **1968**, external intel, **Cabinet Secretariat**.
-- **NSC:** **1998**, security policy, **PM / NSA**.
-- **NIA:** NIA Act **2008**, Centre, terror investigation — **no** State consent.
-- **NITI:** Resolution **2015**, think-tank / SDG, **PM** chairs.
+Quick chronology and identity lock for the police/intelligence/think-tank agencies:
 
-Chronology raata: **IB 1887 → ED 1956 → CBI 1963 → RAW 1968 → NSC 1998 → NIA 2008 → NITI 2015**.
+| Agency | Founded | Beat / role | Ministry / reporting line |
+|---|---|---|---|
+| IB | **1887** | Internal intelligence | **MHA** |
+| ED | **1956** | FEMA / PMLA enforcement | **Finance (Revenue)** |
+| CBI | **1963** (+ DSPE 1946) | Crime / PCA / Interpol NCB | **DoPT** |
+| RAW | **1968** | External intelligence | **Cabinet Secretariat** |
+| NSC | **1998** | Security policy | **PM / NSA** |
+| NIA | **2008** (NIA Act) | Terror investigation, no State consent | **Centre** |
+| NITI Aayog | **2015** (Resolution) | Think-tank / SDG nodal body | **PM chairs** |
+
+The chronology to remember is: **IB (1887) → ED (1956) → CBI (1963) → RAW (1968) → NSC (1998) → NIA (2008) → NITI Aayog (2015)**.
 
 ---
 

@@ -155,16 +155,16 @@ Same special majority **plus** legislatures of **not less than half** the States
 
 **Kesavananda 1973** is the lock; the ladder is the 2024/2021 PYQ.
 
-- *Shankari Prasad* **1951** — 368 includes FR. 1st Amd **valid**.
-- *Sajjan Singh* **1965** — same; 17th Amd valid.
-- *Golaknath* **1967** — FR **cannot** be amended; 368 is not a “law” under 13; ruling **prospective**.
-- **24th Amd, 1971** — Parliament’s reply — see card below.
-- *Kesavananda Bharati*, **24 Apr 1973** — Parliament **can** amend any part **including FR**, but **not** the **basic structure**. 13-judge Bench. 24th **valid**. 25th: 31C first limb (39b/c) **valid**; “no judicial review” limb **struck**.
-- **42nd Amd, 1976** — inserted 368(4)(5): no court shall question; unlimited amending power.
-- *Minerva Mills* **1980** — **368(4)(5) struck**. Limited amending power **is** basic structure. 42nd’s extension of **31C to all DPSP** struck.
-- *Waman Rao* **1981** — 9th Schedule laws **after 24 Apr 1973** open to basic-structure review.
-- *IR Coelho* **2007** — same: 9th Schedule is **not** a penthouse above basic structure.
-- *NJAC / Second Judges* **2015** — **99th Amd** (NJAC) **struck** — judicial independence is basic structure. An Amd **can die**.
+- In *Shankari Prasad* (**1951**), the Court held that Article 368 lets Parliament amend Fundamental Rights too, and upheld the **1st Amendment** as valid.
+- In *Sajjan Singh* (**1965**), the Court reaffirmed the same view and upheld the **17th Amendment**.
+- In *Golaknath* (**1967**), the Court reversed course: it held that Fundamental Rights **cannot** be amended, that an amendment under Article 368 is not "law" for the purposes of Article 13, and it made this ruling **prospective** only.
+- The **24th Amendment (1971)** was Parliament's reply to *Golaknath* — see the separate card below.
+- In *Kesavananda Bharati* (**24 April 1973**), a 13-judge Bench held that Parliament **can** amend any part of the Constitution, **including** the Fundamental Rights, but **cannot** touch the **basic structure**. The Bench upheld the 24th Amendment, and upheld the first limb of the 25th Amendment's Article 31C (protecting laws under 39(b)/(c)), while striking down its "no judicial review" limb.
+- The **42nd Amendment (1976)** inserted **Articles 368(4) and (5)**, barring courts from questioning an amendment and declaring the amending power unlimited.
+- In *Minerva Mills* (**1980**), the Court **struck down 368(4) and (5)**, holding that a limited amending power **is itself** part of the basic structure; it also struck the 42nd Amendment's extension of **Article 31C to all Directive Principles**.
+- In *Waman Rao* (**1981**), the Court held that Ninth Schedule laws inserted **after 24 April 1973** remain open to basic-structure review.
+- In *IR Coelho* (**2007**), the Court reaffirmed the same principle: the Ninth Schedule is **not** a penthouse standing above the basic structure.
+- In the *NJAC* case (**2015**), the Court struck down the **99th Amendment**, holding that judicial independence is part of the basic structure — proof that even a ratified amendment **can die**.
 
 **PYQ — UPPCS Prelims 2024, Q126**
 
@@ -246,12 +246,14 @@ D. Sajjan Singh 1965
 
 **States Reorganisation** (Fazl Ali · Kunzru · Panikkar). In force **1 Nov 1956**. Abolished Part A/B/C/D classification. Picture then: **14 States + 6 UTs**. 1st Schedule redrawn; **4th Schedule** (RS seats) recast.
 
-- High Courts: **222** transfer of HC judges · **231** common HC for two+ States · **241** HC for UTs.
-- **350A** — mother-tongue instruction at the **primary** stage.
-- **350B** — **one** Special Officer for Linguistic Minorities for **all India** — **7th Amd, not 9th**. Constitutional office, not a commission.
-- 239 / 239A — UT administration as a class.
-- **258A** — a **State** may **entrust** functions to the Union (reverse of 258).
-- Zonal Councils are **not** 7th Amd — **SRC Act 1956** (statutory). Don’t park them here.
+- **Article 222** provides for the transfer of High Court judges.
+- **Article 231** allows a common High Court for two or more States.
+- **Article 241** provides for a High Court for Union Territories.
+- **Article 350A** directs mother-tongue instruction at the **primary** stage.
+- **Article 350B** created **one** Special Officer for Linguistic Minorities for **all of India** — a **7th Amendment**, not 9th, insertion, and a constitutional office, not a commission.
+- **Articles 239 and 239A** deal with the administration of Union Territories as a class.
+- **Article 258A** lets a **State** **entrust** functions to the Union, the reverse of Article 258.
+- Zonal Councils are **not** a 7th Amendment creation — they come from the **States Reorganisation Act, 1956**, a statute, not this amendment.
 
 ---
 
@@ -284,10 +286,10 @@ D. Sajjan Singh 1965
 
 **Privy purses abolished.** Assent **28 Dec 1971**.
 
-- Why 368: *Madhav Rao Scindia* (**1970**) struck an **executive** derecognition — so Parliament used an **amendment**.
-- Omitted Arts. **291** (purses) and **362** (personal rights of rulers).
-- Inserted **363A** — rulers **cease to be recognised**; purses **stop**; no court for this.
-- Trap: this is **not** the 26th *January* Republic story. It is the **26th Amendment**.
+- Parliament had to use a constitutional amendment because, in *Madhav Rao Scindia* (**1970**), the Court had struck down an earlier **executive** attempt to derecognise the rulers.
+- The 26th Amendment omitted **Article 291** (privy purses) and **Article 362** (personal rights of rulers).
+- It inserted **Article 363A**, under which rulers **ceased to be recognised** and their purses **stopped**, with no court open to hear a challenge on this.
+- Trap: this is **not** the 26 *January* Republic Day story — it is simply the **26th Amendment**, numbered in sequence.
 
 ---
 
@@ -305,22 +307,26 @@ D. Sajjan Singh 1965
 
 **Mini-Constitution** (during Emergency). **Swaran Singh Committee** for duties. Date lock **1976** (2024 year-match). Act date **18 Dec 1976** (not 1975 Emergency day / not 1978).
 
-- **Socialist, Secular, Integrity** in Preamble (2025: Socialist + Secular — **not** Sovereign/Republic, those were original).
-- **DPSP:** **39A** equal justice / legal aid · **43A** workers in management (**2019**) · **48A** environment · **39(f)** children recast.
-- **51A** Fundamental Duties (10 then; 11th by **86th**). Swaran Singh proposed **8**; Constitution got **10**.
-- **31C** extended to **all** DPSP → *Minerva Mills* **struck** this extension.
-- **368(4)(5)** — no judicial review of amendments → *Minerva* **struck**.
-- **74** — advice of CoM **binding** (44th later = one reconsideration).
-- **Five** State List subjects to Concurrent: education · forests · weights & measures · protection of wild animals/birds · administration of justice (except SC/HC) / courts.
-- Judiciary: **32A, 131A, 144A, 226A, 228A** — curbed HC/SC; **Part XIVA** tribunals (**323A/B**).
-- **43rd (1977)** repealed the judicial **bars** (32A/131A…). Tribunals **stayed**.
-- Federal: 257A (Union armed units in States) — **44th repealed**.
-- LS / Assembly life **6 years** (83, 172) → **44th restored 5**.
-- Seat freeze: population for LS/Assembly/**President’s** value tied to **1971** census (84th later froze till the first census after **2026**).
-- **31D** anti-national activities / associations — **43rd repealed**.
-- **139A** transfer of certain cases to SC (this one **survived**).
-- Privileges: 105/194 frozen to pre-42nd meaning; **44th** set the freeze date as **20 June 1979**.
-- **312A** — Parliament may vary conditions of service of AIS officers appointed before 1966.
+- The 42nd Amendment added the words **Socialist**, **Secular**, and **Integrity** to the Preamble (2025 trap: only Socialist and Secular were 42nd inserts — **Sovereign** and **Republic** were already there in 1950).
+- It inserted **Article 39A**, the DPSP on equal justice and free legal aid.
+- It inserted **Article 43A**, the DPSP on workers' participation in management (asked directly in **2019**).
+- It inserted **Article 48A**, the DPSP on protecting the environment.
+- It recast **Article 39(f)**, the DPSP on the welfare of children.
+- It inserted **Article 51A**, giving the Constitution ten Fundamental Duties (an eleventh was added later by the **86th**). The Swaran Singh Committee had proposed only **8** duties; the Constitution ended up with **10**.
+- It extended **Article 31C**'s protection from Articles 14/19 to **all** Directive Principles, not just 39(b) and 39(c) — *Minerva Mills* later **struck** this extension.
+- It inserted **Articles 368(4) and (5)**, barring judicial review of constitutional amendments — *Minerva Mills* later **struck** these clauses too.
+- It made the advice of the Council of Ministers **binding** on the President under Article 74 (the 44th Amendment later added one right of reconsideration).
+- It moved **five** subjects from the State List to the Concurrent List: education, forests, weights and measures, protection of wild animals and birds, and administration of justice (except the Supreme Court and High Courts).
+- It inserted **Articles 32A, 131A, 144A, 226A, and 228A**, curbing the power of High Courts and the Supreme Court to rule on the validity of central laws.
+- It inserted **Part XIVA** (Articles **323A** and **323B**), enabling administrative and other tribunals.
+- The **43rd Amendment (1977)** later repealed these judicial bars (32A, 131A, and the rest), though the tribunals under Part XIVA **stayed**.
+- It inserted **Article 257A**, letting the Union deploy its armed forces in a State; the **44th Amendment** later repealed this article.
+- It extended the life of the Lok Sabha and State Assemblies from five years to **six years** (Articles 83 and 172); the **44th Amendment** restored the term to **five years**.
+- It tied the population base for delimiting Lok Sabha and Assembly seats, and for the President's electoral-college value, to the **1971 census** (the **84th Amendment** later froze this further, till the first census after **2026**).
+- It inserted **Article 31D**, letting Parliament restrict Fundamental Rights to combat anti-national activities and associations; the **43rd Amendment** repealed this article too.
+- It inserted **Article 139A**, allowing transfer of certain cases to the Supreme Court — this provision **survived** the 44th Amendment.
+- It froze the meaning of legislative privileges under **Articles 105 and 194** to their pre-42nd sense; the **44th Amendment** fixed the freeze date as **20 June 1979**.
+- It inserted **Article 312A**, letting Parliament vary the conditions of service of All-India Service officers appointed before 1966.
 
 > **Exam note:** Mini-Constitution = largest single rewrite. 42nd packed; 44th unpacked Emergency and property — FDs, 39A/43A/48A, Concurrent shift **stayed**.
 
@@ -391,21 +397,25 @@ D. A-3, B-1, C-4, D-2
 
 **Janata unwind of 42nd.** Assent **30 Apr 1979** (Act year still **1978**). Unwinds the worst of 42nd: **armed rebellion** replaces internal disturbance; **written Cabinet** advice for 352; Arts. **20 and 21** unsuspendable; property → **300A**; LS can force-revoke 352.
 
-- Property: deleted **19(1)(f)** and **31** from Part III → **300A** in Part **XII** (legal right, **not** FR).
-- 352 ground: “internal disturbance” → **armed rebellion**.
-- 352 process: **written** Union Cabinet · approval **1 month** · **special** majority (was **simple**) · LS **disapproval** can kill it.
-- FR overlay: **358** only in **war / external aggression** · **359** never **20 & 21**.
-- **74** — President may send CoM advice back **once**, then **must** act.
-- **226** restored the wide HC writ (42nd had narrowed it).
-- House term: LS **and** Assemblies back to **5 years** (42nd had made **6**).
-- 38th “satisfaction final” gone — 352/356/360 justiciable again.
-- **38(2)** — minimise inequalities of income / status / facilities — **44th, not 42nd**.
-- **361A** — protection for **substantially true** reports of parliamentary proceedings.
-- **22** — advisory-board safeguard for preventive detention restored.
-- **71** — doubts on President / VP election back with the **SC** (39th had parked them).
-- **257A** repealed (Union deploying armed units in a State).
-- Privileges freeze: 105/194 freeze date set as **20 Jun 1979**.
-- What 44th did **not** undo: Preamble words · 51A duties · 39A/43A/48A · 5 Concurrent subjects · tribunals 323A/B.
+- It deleted **Article 19(1)(f)** and **Article 31** from Part III, so the Right to Property is no longer a Fundamental Right — it became **Article 300A** in Part XII, a mere legal right.
+- It changed the ground for a National Emergency from "internal disturbance" to **armed rebellion**.
+- It required a **written** recommendation of the Union Cabinet before a 352 proclamation, in place of the Prime Minister's advice alone.
+- It cut the approval window for a 352 proclamation from two months to **one month**.
+- It raised the approval requirement for 352 from a simple majority to a **special** majority.
+- It gave the Lok Sabha the power to force revocation of a 352 proclamation by a resolution of **disapproval**.
+- It confined **Article 358**'s automatic suspension of Article 19 to **war or external aggression** only, excluding armed rebellion.
+- It barred **Article 359** orders from ever suspending the enforcement of **Articles 20 and 21**.
+- It amended **Article 74** so the President may send the Council of Ministers' advice back for reconsideration **once**, but must act on it thereafter.
+- It restored the wide writ jurisdiction of High Courts under **Article 226**, which the 42nd Amendment had narrowed.
+- It restored the term of the Lok Sabha and State Assemblies to **five years**, reversing the 42nd Amendment's extension to six years.
+- It removed the 38th Amendment's rule that the President's "satisfaction" under 352/356/360 was final, making these proclamations **justiciable** again.
+- It inserted **Article 38(2)**, the DPSP on minimising inequalities of income, status, facilities, and opportunities — this is a **44th**, not a 42nd, insertion.
+- It inserted **Article 361A**, protecting publication of **substantially true** reports of parliamentary proceedings.
+- It restored the advisory-board safeguard for persons held under preventive detention (Article 22).
+- It restored the Supreme Court's jurisdiction over doubts and disputes on the President's or Vice-President's election under **Article 71**, which the 39th Amendment had tried to park elsewhere.
+- It repealed **Article 257A**, which had let the Union deploy armed units in a State.
+- It fixed **20 June 1979** as the freeze date for the pre-42nd meaning of privileges under Articles 105 and 194.
+- What the 44th did **not** undo: the Preamble words added by the 42nd, the ten Fundamental Duties (51A), the DPSPs 39A/43A/48A, the five subjects shifted to the Concurrent List, and the tribunals under Articles 323A/323B.
 
 ---
 
@@ -511,13 +521,13 @@ D. A-3, B-1, C-4, D-2
 
 **GST** (levy from **1 Jul 2017**). Assent **8 Sep 2016**. Needed **State ratification** (279A is on the federal list).
 
-- **246A** — Union **and** States may levy GST (special concurrent). **IGST** exclusive to Union — **246A(2)**.
-- **269A** — IGST collected by Union, **apportioned**.
-- **279A** — **GST Council**: Union FM chairs; Centre weight **1/3**, States **2/3**; decision **3/4** of weighted votes; quorum **½**.
-- **366(12A)** — definition of GST.
-- Omitted **268A** (service tax of the 88th).
-- Out of GST: alcohol for **human consumption**. Five petroleum goods — Council may recommend bringing them in later.
-- Compensation: 101st said Parliament **shall** provide. Statute: **5 years** from 2017 (later cess-extended — CA, not the Amd text).
+- **246A** lets both the Union **and** the States levy GST, as a special concurrent power; under **246A(2)**, **IGST** is levied exclusively by the Union.
+- **269A** provides that IGST is collected by the Union and then **apportioned** between the Union and the States.
+- **279A** sets up the **GST Council**, chaired by the Union FM, in which the Centre has **one-third** of the voting weight and all States together have **two-thirds**; a decision needs **three-fourths** of the weighted votes, with a quorum of **half** the members.
+- **Article 366(12A)** defines GST for the Constitution.
+- The Amendment omitted **Article 268A**, the service-tax article inserted earlier by the 88th Amendment.
+- Alcohol for **human consumption** is kept outside GST; five petroleum goods are outside for now, though the Council may recommend bringing them in later.
+- The 101st Amendment itself said Parliament **shall** provide for compensating States; the compensation statute fixed a **5-year** window from 2017, later extended through the compensation cess — that extension is current affairs, not the Amendment's text.
 
 2024 / 2021: GST Amd = **101st**, not 91 / 86 / 73 / 102 / 103 / 104.
 
@@ -527,10 +537,10 @@ D. A-3, B-1, C-4, D-2
 
 **NCBC constitutionalised.** Assent **11 Aug 2018**. Constitutionalises the old **NCBC Act 1993** body. Standing NCBC = 338B from 102nd.
 
-- **338B** — NCBC: Chair + Vice-Chair + **3** members; **President** appoints; **Parliament** may add duties.
-- **342A** — **President** notifies SEBCs for a State / UT (consult Governor). **Parliament** may amend that **Central** list.
-- **366(26C)** — definition of SEBC.
-- Match raata: SC **338+341** · ST **338A+342** · OBC **338B+342A**.
+- **Article 338B** sets up the NCBC with a Chair, a Vice-Chair, and **three** members; the **President** appoints them, and **Parliament** may add to their duties.
+- **Article 342A** lets the **President** notify SEBCs for a State or UT, after consulting the Governor; **Parliament** may amend that **Central** list.
+- **Article 366(26C)** defines "socially and educationally backward classes."
+- The match to remember: SC pairs with **338 + 341**, ST pairs with **338A + 342**, and OBC pairs with **338B + 342A**.
 
 *Jaishri Laxmanrao Patil* (Maratha, **2021**) read 342A as **only the President** may identify SEBCs even for a State — that reading is why **105th** had to follow.
 
@@ -553,9 +563,9 @@ D. A-3, B-1, C-4, D-2
 
 **Anglo-Indian nomination ends.** Effect **25 Jan 2020**. Art. **334** originally **10 years** from 26 Jan 1950; kept alive every decade.
 
-- 8th · 23rd · 45th · 62nd · 79th · **95th** — successive **10-year** extensions (95th took SC/ST + Anglo-Indian to **25 Jan 2020**).
-- **104th** — **SC/ST** seats in LS (**330**) and Assemblies (**332**) → **25 Jan 2030**. **Anglo-Indian nomination (331 / 333) ended** — **not** extended.
-- SC/ST reserved *seats* in LS/LA continue till **25 Jan 2030**. Delimitation of those constituencies stays frozen till the census after **2026**.
+- Six earlier amendments — the **8th, 23rd, 45th, 62nd, 79th, and 95th** — had each granted a successive **10-year** extension; the 95th took SC/ST and Anglo-Indian reservation up to **25 January 2020**.
+- The **104th Amendment** extended **SC/ST** reserved seats in the Lok Sabha (**Article 330**) and State Assemblies (**Article 332**) up to **25 January 2030**, but it **ended**, rather than extended, **Anglo-Indian nomination** under **Articles 331 and 333**.
+- SC/ST reserved *seats* in the Lok Sabha and State Assemblies thus continue till **25 January 2030**, while delimitation of those constituencies stays frozen till the census after **2026**.
 
 ---
 
@@ -563,10 +573,10 @@ D. A-3, B-1, C-4, D-2
 
 **State OBC lists restored.** Assent **18 Aug 2021**. Repair after the Maratha / 342A reading.
 
-- Restores: States **may identify and notify SEBCs** for **their own** services and education.
-- Does **not** touch: **Central** list remains **342A** with the President. **338B** (NCBC) stays.
-- Two lists: **Central SEBC list** (Union jobs / central education) + **State SEBC list**.
-- Pair: **102nd** = Centre’s NCBC + Central list. **105th** = States get list-power **back**.
+- The 105th Amendment restores to States the power to **identify and notify SEBCs** for **their own** services and education.
+- It does **not** touch the **Central** list, which remains under **Article 342A** with the President, and it leaves **Article 338B** (the NCBC) unchanged.
+- India now has two lists side by side: a **Central SEBC list** (for Union jobs and central education) and a **State SEBC list**.
+- Remember the pair this way: the **102nd** gave the Centre the NCBC and the Central list; the **105th** gave States their list-power **back**.
 
 ---
 
@@ -574,8 +584,8 @@ D. A-3, B-1, C-4, D-2
 
 **Nari Shakti Vandan — women 33%.** Assent **28 Sep 2023**. Bill was the **128th** Amendment Bill — **106th** is the Act number.
 
-- Where: **330A** LS · **332A** State Assemblies · also **Delhi** (239AA).
-- How much: **one-third** of **total** seats, **including** within SC/ST reserved seats.
+- The reservation applies through **Article 330A** in the Lok Sabha, **Article 332A** in State Assemblies, and also in Delhi under **Article 239AA**.
+- It reserves **one-third** of **total** seats for women, **including** within the seats already reserved for SC/ST.
 - **Not commenced.** Starts only after a **delimitation based on the first census after the Act** (**334A**). 84th freeze on LS seats lasts till the census **after 2026** — so 2024 LS had **no** 106th quota.
 - How long: **15 years** from commencement (Parliament may extend).
 - Rotation: seats reserved for women **rotate** after each delimitation.

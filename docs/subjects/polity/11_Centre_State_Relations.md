@@ -209,10 +209,10 @@ D. Anti-Defection — Tenth Schedule
 
 **Leftover subjects and taxes belong to the Union** — opposite of the **USA** (residuary with States).
 
-- **Who:** **Union / Parliament** — Art. **248** paired with Union List **Entry 97**.
-- **Covers:** Unlisted **subjects and taxes**.
-- **GST is not residuary.** **246A** is a **special** power inserted by the **101st**.
-- **Conflict:** If a matter is already in a list, 248 does not apply. Pith-and-substance decides the true list first.
+- Residuary power belongs to the **Union / Parliament** under Art. **248**, paired with Union List **Entry 97**.
+- It covers unlisted **subjects and taxes**.
+- **GST is not residuary.** Art. **246A** is a **special** power inserted by the **101st Amendment**.
+- If a matter is already in a list, 248 does not apply. Pith-and-substance decides the true list first.
 
 ---
 
@@ -390,14 +390,17 @@ D. None of the above
 
 **Constitutional tax-share body** — President constitutes; Chair + 4; report to the **President**, not NITI.
 
-- **Who:** **Constitutional**. Constituted by the **President**.
-- **When:** On the expiration of every **fifth year**, or **earlier** if the President thinks necessary.
-- **Strength:** **Chairman + four** other members (**not six** — 2023 trap).
-- **Qualifications:** Determined by **Parliament** — Finance Commission (Miscellaneous Provisions) Act, **1951**. **Not** by the President (2021 A/R). Chair: experienced in **public affairs**. The **four** members — one each (as the Act sets) from: (i) **HC judge** or qualified to be, (ii) **government finance / accounts**, (iii) **financial administration / financial matters**, (iv) **economics**. Trap: President does **not** invent these tests.
-- **Appointment:** **President** appoints Chair and members. Qualifications ≠ appointment.
-- **Report to:** **President**, who lays it in **Parliament** with an explanatory memorandum. **Not NITI Aayog** (2023).
-- **Nature:** **Recommendatory** — government usually implements the **vertical** share; horizontal formula is political to tweak.
-- **FC ≠ NITI:** FC = **constitutional**, tax-share + 275. NITI = **executive**, think-tank / competitive federalism. NITI does **not** replace 280.
+- The Finance Commission is a **constitutional** body, constituted by the **President**.
+- It is constituted on the expiration of every **fifth year**, or **earlier** if the President thinks necessary.
+- Strength is **Chairman + four** other members (**not six** — 2023 trap).
+- Qualifications are fixed by **Parliament** under the Finance Commission (Miscellaneous Provisions) Act, **1951** — **not** by the President (2021 A/R).
+- The Chair must be a person experienced in **public affairs**.
+- The **four** members are drawn, as the Act sets, from: (i) an **HC judge** or a person qualified to be one, (ii) **government finance / accounts**, (iii) **financial administration / financial matters**, and (iv) **economics**.
+- The President does **not** invent these qualification tests.
+- The **President** appoints the Chair and members. Qualifications and appointment are different locks.
+- The Commission reports to the **President**, who lays the report in **Parliament** with an explanatory memorandum — **not** before NITI Aayog (2023).
+- Its recommendations are **recommendatory**; government usually implements the **vertical** share, while the horizontal formula is political to tweak.
+- The Finance Commission is **constitutional** (tax-share + Art. **275**). NITI is **executive** (think-tank / competitive federalism). NITI does **not** replace Art. **280**.
 
 **280(3) duties — recommend:**
 1. **Distribution** of net proceeds of taxes between Union and States, and **allocation among States**  
@@ -784,17 +787,18 @@ D. Union Home Minister and Chief Ministers of Assam and Meghalaya
 
 ## Sarkaria Commission (1983–88)
 
-Union Commission on Centre–State Relations. Chair: Justice **R.S. Sarkaria**. Members: **B. Sivaraman**, **Dr S.R. Sen**. Report **1988**. ~**247** recommendations. **Cooperative federalism with a strong Centre** — the opposite pole to Rajamannar.
+Union Commission on Centre–State Relations. Chair: Justice **R.S. Sarkaria**. Members: **B. Sivaraman**, **Dr S.R. Sen**. Report **1988**. About **247** recommendations. **Cooperative federalism with a strong Centre** — the opposite pole to Rajamannar.
 
 - A **strong Centre** is **necessary**; India is not the USA.
-- **Residuary stays with the Union**.
-- **AIS should continue** (dual control).
-- Set up the **Inter-State Council under 263** — **implemented 28 May 1990** (2021 PYQ).
-- **Keep 356**, but **last resort**: warning; **floor test** of majority; proclamation to carry **material facts**; not for partisan use (*Bommai* later judicialised this).
-- **Governor:** eminent person from **outside** the State; **consult the CM**; not a party worker on a mission; security of tenure in spirit.
-- Centre should **consult States** before legislating on the **Concurrent List**.
-- Activate **Zonal Councils**.
-- President should not sit endlessly on reserved State Bills.
+- **Residuary** power should stay with the **Union**.
+- **All-India Services** should continue under dual control.
+- The **Inter-State Council** should be set up under Art. **263** — implemented on **28 May 1990** (2021 PYQ).
+- Keep Art. **356**, but only as a **last resort**.
+- Before 356: give a warning, hold a **floor test**, and put **material facts** in the proclamation — not for partisan use (*Bommai* later judicialised this).
+- The Governor should be an eminent person from **outside** the State; the Centre should **consult the CM**; the Governor should not be a party worker on a mission.
+- The Centre should **consult States** before legislating on the **Concurrent List**.
+- **Zonal Councils** should be activated.
+- The President should not sit endlessly on reserved State Bills.
 
 > **Exam note:** Sarkaria = **keep** AIS, **keep** 356, **keep** residuary with Union, **create ISC**. If the option says “weaken the Centre / abolish IAS”, it is **Rajamannar**, not Sarkaria.
 
@@ -804,13 +808,13 @@ Union Commission on Centre–State Relations. Chair: Justice **R.S. Sarkaria**. 
 
 Union Commission on Centre–State Relations. Chair: Justice **M.M. Punchhi** (former **CJI**). Report **2010**, **seven volumes**. After the ISC already existed — so **Punchhi did not “set up” the ISC** (2021 trap).
 
-- **Strengthen the ISC**: meet about **thrice a year**; use it **before** Concurrent legislation and before **356**.
-- **Localised emergency** under **355** — don’t dissolve the **whole** State for a **district** disturbance.
-- **Keep 356**, but tighter; **keep AIS**.
-- **Governor:** fixed **five-year** idea; not an active politician of the ruling party at the Centre; clear rules for inviting a CM (majority → coalition → largest party).
-- **Art. 201:** decide reserved State Bills in **six months**.
+- Strengthen the **Inter-State Council**: meet about **thrice a year**; use it **before** Concurrent legislation and before Art. **356**.
+- Prefer a **localised emergency** under Art. **355** — do not dissolve the **whole** State for a **district** disturbance.
+- Keep Art. **356**, but make it tighter; keep **All-India Services**.
+- On the Governor: prefer a fixed **five-year** idea; do not send an active politician of the ruling party at the Centre; use clear rules for inviting a CM (majority → coalition → largest party).
+- Under Art. **201**, decide reserved State Bills within **six months**.
 - Consult States when a **treaty** hits the **State List**.
-- National Integration Council / internal-security coordination with States (NCTC debate).
+- Strengthen National Integration Council / internal-security coordination with States (NCTC debate).
 
 > **Exam note:** Punchhi = **procedure**, not Rajamannar’s repeal list. “Local emergency” and “201 time-cap” are Punchhi tags.
 
