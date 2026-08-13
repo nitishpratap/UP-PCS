@@ -6,12 +6,14 @@
 
 **President:** President (Art. 52–62) | Election of President | Electoral College | Proportional Representation by Single Transferable Vote | Value of vote | Qualifications & Conditions | Oath | Term & Vacancy | Impeachment (Art. 61) | Powers of President (Executive, Legislative, Financial, Judicial, Diplomatic, Military, Emergency) | Veto Powers (Absolute, Suspensive, Pocket) | Pardoning Power (Art. 72) | Ordinance-Making Power (Art. 123)
 
-**Vice-President & Council of Ministers:** Vice-President (Art. 63–71) | Election & Removal of VP | Prime Minister (Art. 74, 75, 78) | Council of Ministers | Collective Responsibility | Individual Responsibility | Cabinet | Kitchen/Inner Cabinet | Cabinet Committees | Cabinet Secretariat | PMO | Deputy Prime Minister | Doctrine of Pleasure | Attorney General (Art. 76)
+**Vice-President & Council of Ministers:** Vice-President (Art. 63–71) | Election & Removal of VP | Prime Minister (Art. 74, 75, 78) | Council of Ministers | Collective Responsibility | Cabinet | Kitchen/Inner Cabinet | Cabinet Committees | Cabinet Secretariat | PMO | Deputy Prime Minister | Doctrine of Pleasure | Attorney General (Art. 76)
+
+**Protocol:** Warrant / Table of Precedence (1979) | Ranks 1–11 high-yield | Ceremonial only — not succession
 
 </details>
 
 > **Sources baked in:** Laxmikanth (Union Executive), Constitution Part V, UPPCS Prelims PYQs 2018–2025  
-> **Exam weight:** ★★★ — electoral college composition; PR-STV; impeachment vs removal; veto types; Art. 72 vs 161; ordinance; VP = ex-officio Chairman but **not** a member of RS; CoM responsible to **Lok Sabha only**; AG holds office during pleasure  
+> **Exam weight:** ★★★ — electoral college composition; PR-STV; impeachment vs removal; veto types; Art. 72 vs 161; ordinance; VP = ex-officio Chairman but **not** a member of RS; CoM responsible to **Lok Sabha only**; AG holds office during pleasure; **Warrant of Precedence** ranks (CJI = Speaker = **6**; AG = **11**)  
 > **Last verified:** August 2026  
 > **Current Affairs:** Droupadi Murmu — **15th President** (25 July 2022), first tribal & second woman President
 
@@ -41,6 +43,10 @@ PM 74/75/78: 74 aid & advise (binding-42/44) | 75 appt, ≤15% LS (91st) | 78 co
 COM: 75(3) collective resp → LOK SABHA only | 75(2) individual → President's pleasure
   Rank: Cabinet > MoS > Deputy | Cabinet Cttees = extra-constitutional
 AG 76: first law officer; SC-judge qualif; DURING PLEASURE; Art 88 speak both Houses NO vote
+
+PRECEDENCE (Warrant 1979): 1 Pres · 2 VP · 3 PM · 4 Gov (in state) · 5 ex-Pres · 5A DyPM
+  6 CJI = Speaker · 7 Cab Min / CM (in state) / ex-PM / LoP · 7A Bharat Ratna · 9 SC judges · 9A CEC/CAG/UPSC · 10 Dy RS/LS · 11 AG
+  Ceremonial ONLY — NOT constitutional succession
 ```
 
 ---
@@ -507,6 +513,52 @@ D. 1, 4, 3, 2
 
 ---
 
+## Order of Precedence (Warrant / Table of Precedence)
+
+**Identity:** Ceremonial rank list for state functions | **Not** constitutional authority | **Not** the presidential line of succession
+
+- The **Warrant of Precedence** (also called **Table of Precedence**) is issued by the **President’s Secretariat** and maintained by the **Ministry of Home Affairs** — central notification **No. 33-Pres/79 (26 July 1979)**, with later amendments.
+- It fixes **seating, reception, and procession order** at official and ceremonial occasions only.
+- **Note 1 (official lock):** it has **no application** to the day-to-day business of government and **does not** confer legal or executive power.
+- Within the **same article/rank**, persons usually take precedence **inter se** by **date of entry** into that rank (or alphabetically where dates are unclear).
+- Trap: do **not** confuse this table with **constitutional succession** (President → Vice-President → … under Arts. 56–62 / 65).
+
+### High-yield ranks (Articles 1–11)
+
+| Rank | Dignitaries (exam locks) |
+|------|---------------------------|
+| **1** | **President** |
+| **2** | **Vice-President** |
+| **3** | **Prime Minister** |
+| **4** | **Governors** — **within their respective States** only |
+| **5** | **Former Presidents** (by date of leaving office) |
+| **5A** | **Deputy Prime Minister** (when office exists) |
+| **6** | **Chief Justice of India** and **Speaker of Lok Sabha** — **equal rank** |
+| **7** | **Union Cabinet Ministers**; **Chief Ministers** (within their States); **Former Prime Ministers**; **Leaders of Opposition** in RS and LS |
+| **7A** | Holders of **Bharat Ratna** decoration |
+| **8** | Ambassadors / High Commissioners; **Governors outside their States**; **Chief Ministers outside their States** |
+| **9** | **Judges of the Supreme Court** |
+| **9A** | **Chairman, UPSC**; **Chief Election Commissioner**; **Comptroller and Auditor General** |
+| **10** | **Deputy Chairman, Rajya Sabha**; **Deputy Speaker, Lok Sabha**; **Ministers of State** (Union); **Deputy Chief Ministers** (within State); NITI Aayog members (as listed) |
+| **11** | **Lieutenant Governors** (within UT); **Cabinet Secretary**; **Attorney General of India**; Principal Scientific Adviser |
+
+### Confused pairs (precedence traps)
+
+| Pair | Right lock | Trap |
+|------|------------|------|
+| Precedence vs succession | **Ceremonial table only** | Treat rank 2 VP as automatic President-in-waiting for all purposes |
+| CJI vs Speaker | **Same rank — 6** | Call Speaker rank 7 or below Cabinet Ministers |
+| Former President vs CJI | **Former President = 5** (above 6) | Place ex-President below Speaker |
+| Governor vs PM | **PM = 3** always at Centre | Governor always outranks PM |
+| Governor “rank 4” | Only **within own State** | Same rank at an all-India Delhi function |
+| AG vs Cabinet Minister | **Cabinet Minister = 7**; **AG = 11** | AG outranks every Minister |
+| CEC / CAG vs SC judge | **SC judge = 9**; **CEC/CAG/UPSC = 9A** | Swap 9 and 9A |
+| Bharat Ratna | **7A** — after rank 7 block | Place with rank 1–3 |
+
+> **Exam note:** Lock **6 = CJI + Speaker**; **11 = AG**; table is **ceremonial**, not constitutional hierarchy. Speaker detail also in **Topic 7 — Parliament**.
+
+---
+
 ## Current Affairs (Union Executive)
 
 | Year | Fact | Why it matters |
@@ -533,12 +585,16 @@ D. 1, 4, 3, 2
 | PMO headed by Cabinet Secretary | **Principal Secretary**; Cabinet **Secretariat** is headed by the Cabinet Secretary |
 | AG removed like an SC judge | **No** — holds office **during pleasure** |
 | Ordinance can amend the Constitution | **No** (Art. 123) |
+| Precedence = constitutional power | **No** — ceremonial **Warrant of Precedence** only |
+| Speaker below Cabinet Minister | **No** — Speaker = **rank 6** with **CJI**; Cabinet Minister = **7** |
+| AG outranks Cabinet Minister | **No** — AG = **rank 11** |
+| CEC/CAG same as SC judge | **No** — SC judges **9**; CEC/CAG/UPSC **9A** |
 
 ---
 
 ## Practice Zone — UPPCS Format Drill
 
-> **Answers hidden.** **42 questions in UPPCS / RO-ARO 2024–25 format** — *which statement is/are correct*, *how-many-are-correct*, **Assertion–Reason**, **Match List-I/II**, **chronological order**, and *which pairs are NOT correctly matched* (numbered codes). **>60% multi-statement / application.**
+> **Answers hidden.** **44 questions in UPPCS / RO-ARO 2024–25 format** — *which statement is/are correct*, *how-many-are-correct*, **Assertion–Reason**, **Match List-I/II**, **chronological order**, and *which pairs are NOT correctly matched* (numbered codes). **>60% multi-statement / application.**
 
 **Q1.** Consider the following statements regarding the election of the President of India:  
 1. Only elected members of both Houses of Parliament take part.  
@@ -1083,6 +1139,38 @@ A. Only one  B. Only two  C. All three  D. None
 <details><summary>Show answer</summary>
 
 **B** — 1 and 2; state assemblies are **not** part of his Electoral College.
+
+</details>
+
+**Q43.** With reference to the Warrant of Precedence in India, consider the following statements:
+
+1. It determines the constitutional line of succession to the office of the President.  
+2. The Chief Justice of India and the Speaker of the Lok Sabha have equal rank.  
+3. The Attorney General of India ranks above Union Cabinet Ministers.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only  
+B. 2 only  
+C. 2 and 3 only  
+D. 1, 2 and 3
+
+<details><summary>Show answer</summary>
+
+**B** — Only **2** is correct. The table is **ceremonial**; AG = **rank 11**, below Cabinet Ministers (**7**).
+
+</details>
+
+**Q44.** In the Table of Precedence of India, the Comptroller and Auditor General of India, the Chief Election Commissioner and the Chairman of the Union Public Service Commission are placed in which rank group?
+
+A. Rank 6  
+B. Rank 9  
+C. Rank 9A  
+D. Rank 11
+
+<details><summary>Show answer</summary>
+
+**C** — **Rank 9A** (after **Supreme Court judges — rank 9**).
 
 </details>
 

@@ -52,6 +52,9 @@ AMENDMENTS: 1st 1951 (15(4)+9th Sch) · 7th 1956 SRC · 24th 1971 13(4) · 42nd 
 BORROWED: UK Parliament/writs · USA FR/judicial review · Ireland DPSP · Canada residuary/strong Centre
   Australia Concurrent + joint sitting · Japan “procedure established by law” · France LEF + Republic
   Weimar FR-suspend · USSR Duties + justice triad · South Africa 368 procedure + RS election
+
+PRECEDENCE (Warrant 1979, ceremonial): 1 Pres · 2 VP · 3 PM · 4 Gov(in state) · 5 ex-Pres · 6 CJI=Speaker
+  7 CabMin/CM(in state)/ex-PM/LoP · 9 SC judges · 9A CEC/CAG/UPSC · 10 Dy RS/LS · 11 AG — NOT succession
 ```
 
 ### Confused pairs
@@ -64,6 +67,10 @@ BORROWED: UK Parliament/writs · USA FR/judicial review · Ireland DPSP · Canad
 | 11th / 12th | counts | **29** Panchayat vs **18** Municipality |
 | Art. 32 | Art. 226 | SC, FR only vs HC, **wider** |
 | Art. 54 | Art. 66 | President: MPs+MLAs · VP: **Parliament only** |
+| Precedence | Succession | **Warrant 1979** ceremonial · **not** Art. 56–62 line |
+| CJI | Speaker | **Same rank — 6** |
+| Cabinet Minister | AG | Minister **7** · AG **11** |
+| SC judge | CEC/CAG | **9** vs **9A** |
 | Art. 352 | 356 / 360 | National vs State vs Financial |
 | Prohibition | Certiorari | **Before** the order vs **after** |
 | 3rd Schedule | Arts. 60 / 69 / 159 | Ministers/MPs/judges/CAG vs **President / VP / Governor** |

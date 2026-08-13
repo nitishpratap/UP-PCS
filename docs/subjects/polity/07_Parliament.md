@@ -404,7 +404,7 @@ D. 120 days
 - **Resignation (Art. 94):** addressed to the **Deputy Speaker** (Deputy Speaker resigns to the **Speaker**).
 - **Removal (Art. 94):** resolution with **14 days’ notice**, passed by a **majority of all the then members** of LS (**effective majority**). Speaker **cannot preside** while the resolution is under consideration.
 - **Casting vote:** votes only to **break a tie** (not in the first instance). In a **joint sitting** he still has only a casting vote.
-- **Rank:** **Warrant of Precedence: 6** (with the CJI).
+- **Rank:** **Warrant of Precedence: 6** (with the CJI). Cabinet Ministers = **7**; AG = **11** — full table in **Topic 6 — Union Executive**.
 
 ### Speaker — powers (exam list)
 - Final interpreter of the **Constitution + Rules of Procedure** *inside* the House.

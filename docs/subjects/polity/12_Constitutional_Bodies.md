@@ -100,6 +100,8 @@ Independence toolkit (not every body gets all of them): charged salary · remova
 
 **Constitutional body (Arts. 324–329)** for elections to **Parliament**, **State legislatures**, **President** and **Vice-President** — not Speaker, not PRI/ULB.
 
+- **Warrant of Precedence:** **Chief Election Commissioner** = **rank 9A** (with CAG and UPSC Chair; after SC judges — rank 9). Full table → **Topic 6**.
+
 - **324(1):** Superintendence, direction, control of those four elections.
 - **324(2):** CEC + **such other ECs** as the President may fix. Regional Commissioners also possible.
 - **324(5):** CEC removed **like an SC judge**. Other ECs / Regional Commissioners **not** removed except on **CEC’s recommendation**. CEC’s conditions **not varied to disadvantage** after appointment.
@@ -271,6 +273,8 @@ A. Prime Minister  B. Union Ministry of Personnel  C. The President  D. Uttar Pr
 ## CAG (Arts. 148–151)
 
 **Constitutional auditor of Union and States** (Arts. **148–151**) — appointed by the President; removed like an **SC judge**; **no further office**.
+
+- **Warrant of Precedence:** **CAG** = **rank 9A** (with CEC and UPSC Chair). Full table → **Topic 6**.
 
 - **148:** Appointed by **President**. Tenure by law — **6 years or 65**. Removal like **SC judge**. Salary **charged**; not varied to disadvantage. **No further Union or State office** after.
 - **149:** Duties and powers as **Parliament by law** provides — **CAG’s (DPC) Act, 1971**.
