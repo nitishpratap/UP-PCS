@@ -12,7 +12,7 @@ Paste a ChatGPT dump in Cursor and name the subject. New decks go under that sub
 <div class="study-grid" markdown>
 
 [**Ancient History**
-<span>No decks yet — paste a dump to start.</span>](ancient history/index.md){ .study-card }
+<span>Early History (Stone Age)</span>](ancient history/index.md){ .study-card }
 
 [**Medieval India**
 <span>No decks yet — paste a dump to start.</span>](medieval india/index.md){ .study-card }

@@ -5,4 +5,9 @@ hide:
 
 # Ancient History — Active Recall
 
-No decks yet. Paste a ChatGPT dump in Cursor and say it belongs to **Ancient History**.
+<div class="study-grid" markdown>
+
+[**Early History (Stone Age)**
+<span>Palaeolithic → Megalithic · sites, tools, pottery.</span>](01_Early_History_Stone_Age.md){ .study-card }
+
+</div>
