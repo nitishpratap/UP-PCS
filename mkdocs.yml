@@ -57,6 +57,8 @@ exclude_docs: |
   mains-pyqs/prompt.md
   mains-pyqs/TOPIC_INPUT.md
   mains-pyqs/README.md
+  active-recall/prompt.md
+  active-recall/_*.md
 
 extra:
   social:

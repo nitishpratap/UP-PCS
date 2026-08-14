@@ -15,6 +15,7 @@ Open a subject from the tabs above, or jump straight in below.
 
 [Start with Subject Notes](subjects/index.md){ .md-button .md-button--primary }
 [Practice Mains PYQs](mains-pyqs/index.md){ .md-button }
+[Active Recall](active-recall/index.md){ .md-button }
 
 </div>
 
@@ -26,6 +27,9 @@ Open a subject from the tabs above, or jump straight in below.
 [**:material-file-document-edit: Mains PYQs**
 <span>Syllabus themes with past questions, quick-revision blocks, and common traps.</span>](mains-pyqs/index.md){ .study-card }
 
+[**:material-cards: Active Recall**
+<span>Question visible, answer hidden. Paste a GPT dump in Cursor to add a deck.</span>](active-recall/index.md){ .study-card }
+
 </div>
 
 ## How to use this library
@@ -35,8 +39,9 @@ Open a subject from the tabs above, or jump straight in below.
 1. **Read the spine first.** Each note opens with a *Quick Revision — Spine Only* block. Skim it before the detail.
 2. **Drill the confused pairs.** The comparison tables are the highest-yield part for Prelims.
 3. **Write from memory.** For Mains, read *PYQs → Quick Revision → Traps*, then write the answer without looking.
-4. **Use Focus mode.** On any note, hit **Focus mode** to hide both sidebars and read distraction-free.
-5. **Search everything.** Press <kbd>/</kbd> (or the search box) to jump to any article, schedule, or theme instantly.
+4. **Drill Active Recall.** Open a card, answer from memory, then tap **Show answer**.
+5. **Use Focus mode.** On any note, hit **Focus mode** to hide both sidebars and read distraction-free.
+6. **Search everything.** Press <kbd>/</kbd> (or the search box) to jump to any article, schedule, or theme instantly.
 
 </div>
 
