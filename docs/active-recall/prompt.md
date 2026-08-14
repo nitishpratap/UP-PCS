@@ -30,8 +30,9 @@ Rules:
 
 ## What Cursor does with the dump
 
-The agent stores cards in `docs/active-recall/` as Markdown:
+The agent stores cards in `docs/active-recall/<subject>/` as Markdown:
 
 - Question + options stay **visible**.
 - Answer sits in `<details><summary>Show answer</summary>…</details>` (same as subject Practice Zones).
-- One topic = one file, named like `01_Residuary_Powers.md`.
+- One topic = one file, named like `polity/01_Parliament_of_India.md`.
+- Subjects match Subject Notes: Ancient History, Medieval India, Modern India, Art and Culture, Geography, Environment and Ecology, Polity.

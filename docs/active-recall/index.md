@@ -5,38 +5,31 @@ hide:
 
 # Active Recall
 
-Question first. Answer hidden. Open a card, try from memory, then tap **Show answer**.
+Question first. Answer hidden. Expand a **subject** in the left sidebar, open a deck, then tap **Show answer**.
 
-Open a deck from the **left sidebar** or the cards below. Paste the next ChatGPT dump in Cursor to add another topic.
+Paste a ChatGPT dump in Cursor and name the subject. New decks go under that subject folder.
 
 <div class="study-grid" markdown>
 
-[**Parliament of India**
-<span>Arts. 79–123 — Houses, Money Bill, devices, anti-defection.</span>](01_Parliament_of_India.md){ .study-card }
+[**Ancient History**
+<span>No decks yet — paste a dump to start.</span>](ancient history/index.md){ .study-card }
 
-[**State Legislature**
-<span>Arts. 168–213 — Assembly, Council, Governor’s assent, no joint sitting.</span>](02_State_Legislature.md){ .study-card }
+[**Medieval India**
+<span>No decks yet — paste a dump to start.</span>](medieval india/index.md){ .study-card }
 
-[**:material-book-open-page-variant: Subject Notes**
-<span>Full Lucent chapters — spine, confused pairs, practice banks.</span>](../subjects/index.md){ .study-card }
+[**Modern India**
+<span>No decks yet — paste a dump to start.</span>](mordern india/index.md){ .study-card }
 
-[**:material-file-document-edit: Mains PYQs**
-<span>Write from memory after PYQs → Quick Revision → Traps.</span>](../mains-pyqs/index.md){ .study-card }
+[**Art and Culture**
+<span>No decks yet — paste a dump to start.</span>](art and culture/index.md){ .study-card }
+
+[**Geography**
+<span>No decks yet — paste a dump to start.</span>](geography/index.md){ .study-card }
+
+[**Environment and Ecology**
+<span>No decks yet — paste a dump to start.</span>](environments & ecology/index.md){ .study-card }
+
+[**Polity**
+<span>Parliament · State Legislature</span>](polity/index.md){ .study-card }
 
 </div>
-
-## How a card looks
-
-**Q1.** The residuary powers of legislation in India belong to which of the following?
-
-A. State Legislatures  
-B. Parliament  
-C. President  
-D. Supreme Court
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: B.** Residuary power is with the **Union / Parliament** under Art. **248**, paired with Union List **Entry 97**. In the USA, residuary power lies with the **states**.
-
-</details>
