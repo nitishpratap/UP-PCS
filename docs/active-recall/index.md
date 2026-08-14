@@ -14,6 +14,9 @@ Open a deck from the **left sidebar** or the cards below. Paste the next ChatGPT
 [**Parliament of India**
 <span>Arts. 79–123 — Houses, Money Bill, devices, anti-defection.</span>](01_Parliament_of_India.md){ .study-card }
 
+[**State Legislature**
+<span>Arts. 168–213 — Assembly, Council, Governor’s assent, no joint sitting.</span>](02_State_Legislature.md){ .study-card }
+
 [**:material-book-open-page-variant: Subject Notes**
 <span>Full Lucent chapters — spine, confused pairs, practice banks.</span>](../subjects/index.md){ .study-card }
 
