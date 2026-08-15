@@ -2,6 +2,8 @@
 
 # Environment & Ecology
 
+**Prelims analysis (2018–2025):** [volume, heat map, and study order](../../prelims-analysis/06_Environment_and_Ecology.md) · [full Topic 45 trend file](45_Environment_PYQ_Trend_Analysis.md)
+
 ## 1. Environment Basics
 
 * Environment – Meaning

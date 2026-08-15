@@ -1,5 +1,7 @@
 # Modern India (UPPCS Prelims Knowledge Base)
 
+**Prelims analysis (2018–2025):** [volume, heat map, and study order](../../prelims-analysis/03_Modern_India.md)
+
 ---
 
 # 1. Advent of Europeans

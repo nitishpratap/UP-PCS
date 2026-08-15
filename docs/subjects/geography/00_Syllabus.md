@@ -1,5 +1,7 @@
 # Geography (UPPCS Prelims Knowledge Base)
 
+**Prelims analysis (2018–2025):** [volume, heat map, and study order](../../prelims-analysis/05_Geography.md)
+
 ---
 
 ## 1. Indian Physical Geography — Mountains & Hills

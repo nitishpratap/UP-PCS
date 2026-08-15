@@ -1,5 +1,7 @@
 # Ancient India (UPPCS Prelims Knowledge Base)
 
+**Prelims analysis (2018–2025):** [volume, heat map, and study order](../../prelims-analysis/01_Ancient_History.md)
+
 ---
 
 # 1. Stone Age (Prehistoric India)

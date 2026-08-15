@@ -5,7 +5,7 @@ hide:
 
 # Subject Notes
 
-Use the **left sidebar** to expand a subject and open its chapters. Start each subject from its **Syllabus** page, then work through the numbered topics.
+Use the **left sidebar** to expand a subject and open its chapters. Start each subject from its **Syllabus** page, then work through the numbered topics. For 2018–2025 question weight and study order, open **[Prelims Analysis](../prelims-analysis/index.md)**.
 
 <div class="study-grid" markdown>
 

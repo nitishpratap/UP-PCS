@@ -1,5 +1,6 @@
 nav:
   - Home: index.md
   - Subject Notes: subjects
+  - Prelims Analysis: prelims-analysis
   - Mains PYQs: mains-pyqs
   - Active Recall: active-recall

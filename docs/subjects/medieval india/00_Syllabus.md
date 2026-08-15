@@ -1,5 +1,7 @@
 # Medieval India (UPPCS Prelims Knowledge Base)
 
+**Prelims analysis (2018–2025):** [volume, heat map, and study order](../../prelims-analysis/02_Medieval_India.md)
+
 ---
 
 # 1. Early Medieval India (Regional Kingdoms)

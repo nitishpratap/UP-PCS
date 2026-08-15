@@ -1,6 +1,8 @@
 
 # Indian Art & Culture (UPPCS Prelims)
 
+**Prelims analysis (2018–2025):** [volume, heat map, and study order](../../prelims-analysis/04_Art_and_Culture.md)
+
 ## 1. Institutions Related to Indian Culture
 
 * Indological Studies

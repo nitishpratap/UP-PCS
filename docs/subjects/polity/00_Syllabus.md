@@ -1,5 +1,7 @@
 # Indian Polity & Governance (UPPCS Prelims Knowledge Base)
 
+**Prelims analysis (2018–2025):** [volume, heat map, and study order](../../prelims-analysis/07_Polity.md)
+
 ---
 
 ## 1. Constitutional Development
