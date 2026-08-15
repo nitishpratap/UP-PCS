@@ -1,12 +1,21 @@
 # Medieval India — UPPCS Prelims Analysis (2018–2025)
 
 > **Scope:** Tagged Medieval History questions, including 2025 History stems on Sultanate / Mughals / Marathas.  
-> **Use when:** After Sultanate + Mughal spines; before mocks.  
 > **Open notes:** [Medieval India syllabus](../subjects/medieval%20india/00_Syllabus.md)
 
 ---
 
-## Volume
+## Exam Decision
+
+Medieval India is no longer a two-question afterthought. Since 2022, it has become a **regular medium-weight block**. The safest marks come from **Sultanate administration**, **Mughal administration**, **books/chronicles**, and **officer-duty pairs**.
+
+| What to expect | Revision decision |
+|----------------|-------------------|
+| **6–9 questions** in recent-pattern papers | Give it one focused revision day after Modern. |
+| Rising weight after 2022 | Do not skip Sultanate/Mughal files. |
+| Match-heavy options | Prepare tables, not paragraphs. |
+
+## Year Weight
 
 | Year | Tagged Qs | Notes |
 |------|-----------|-------|
@@ -23,7 +32,7 @@
 
 ---
 
-## Heat map — what UPPCS keeps asking
+## Do First
 
 | Priority | Cluster | What the paper actually tests |
 |----------|---------|-------------------------------|
@@ -39,13 +48,22 @@
 
 ---
 
-## Format
+## Must-Know Locks
+
+- **Alauddin Khalji** means market control, price regulation, revenue pressure, military reforms.
+- **Firoz Shah Tughlaq** means canals, welfare, slaves, public works, and conservative religious policy.
+- **Sher Shah** means road, sarai, rupee, sarkar-pargana, and administration.
+- **Mughal chronicles** must be revised as author-work-emperor.
+- **Mughal officers** and revenue terms must be revised as pairs.
+- **Bhakti-Sufi saints** overlap with Culture; revise them with Art and Culture.
+
+## How UPPCS Frames It
 
 Match List (ruler–work, officer–duty) and Assertion–Reason on administrative claims are the live formats. Chronology of dynasties still appears.
 
 ---
 
-## Recurring traps
+## Trap List
 
 - Mixing **Alauddin’s market control** with **Firoz’s welfare/irrigation** measures.
 - Wrong **Mughal chronicler** paired with the wrong emperor.
@@ -55,10 +73,19 @@ Match List (ruler–work, officer–duty) and Assertion–Reason on administrati
 
 ---
 
-## 2026 study order
+## Study Order
 
 1. Turkish Invasions and Delhi Sultanate (Topic 2).
 2. Mughal Empire (Topic 7).
 3. Medieval Literature (Topic 5) and Sher Shah (Topic 8).
 4. Regional Kingdoms, Rajputs, Marathas (Topics 3, 9, 11).
 5. Bhakti–Sufi (Topic 4) together with Art and Culture notes.
+
+## Mock Audit
+
+After every mock, check:
+
+- Did you miss a **ruler-work** or **officer-duty** pair?
+- Did you confuse **Sultanate reforms** with **Mughal reforms**?
+- Did you know the chronicle but forget the **author**?
+- Did a Bhakti-Sufi question punish weak saint-order knowledge?

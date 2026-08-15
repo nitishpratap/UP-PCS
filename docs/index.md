@@ -8,60 +8,86 @@ hide:
 
 <div class="landing-hero" markdown>
 
-## Prelims clarity. Mains answer practice.
+## Know what to revise first.
 
-Subject notes built for **fast recall**. Prelims analysis built for **where marks actually come from**. PYQ themes built for **answer writing**.
-Open a subject from the tabs above, or jump straight in below.
+Use this site like an exam desk: first see **where Prelims marks come from**, then open the matching notes, then drill questions with answers hidden.
 
-[Start with Subject Notes](subjects/index.md){ .md-button .md-button--primary }
-[Prelims Analysis](prelims-analysis/index.md){ .md-button }
+[Start Prelims Analysis](prelims-analysis/index.md){ .md-button .md-button--primary }
+[Open Subject Notes](subjects/index.md){ .md-button }
 [Practice Mains PYQs](mains-pyqs/index.md){ .md-button }
 [Active Recall](active-recall/index.md){ .md-button }
 
 </div>
 
+## Start Here
+
 <div class="study-grid" markdown>
 
-[**:material-book-open-page-variant: Subject Notes**
-<span>Prelims chapters — spine, confused pairs, and traps. Expand a subject in the left sidebar.</span>](subjects/index.md){ .study-card }
-
 [**:material-chart-box-outline: Prelims Analysis**
-<span>2018–2025 heat maps per subject — volume, format shift, and what to revise first.</span>](prelims-analysis/index.md){ .study-card }
+<span>Best first stop. Shows mark weight, high-yield topics, traps, and what to study this week.</span>](prelims-analysis/index.md){ .study-card }
+
+[**:material-book-open-page-variant: Subject Notes**
+<span>Full topic notes for the heat-map chapters: spine, confused pairs, PYQs, and practice.</span>](subjects/index.md){ .study-card }
 
 [**:material-file-document-edit: Mains PYQs**
-<span>Syllabus themes with past questions, quick-revision blocks, and common traps.</span>](mains-pyqs/index.md){ .study-card }
+<span>Use after Prelims work or for answer-writing days: PYQs, model structure, traps.</span>](mains-pyqs/index.md){ .study-card }
 
 [**:material-cards: Active Recall**
-<span>Question visible, answer hidden. Paste a GPT dump in Cursor to add a deck.</span>](active-recall/index.md){ .study-card }
+<span>Question visible, answer hidden. Best for final revision and memory checks.</span>](active-recall/index.md){ .study-card }
 
 </div>
 
-## Prelims analysis — by subject
+## Prelims Dashboard
 
-Eight-year GS Paper-I tags (2018–2025). Open a subject for volume, heat map, traps, and study order.
+If you are short on time, do **Geography + Polity + Environment** first. Together they form the strongest static-GS scoring base in the 2018–2025 papers.
+
+| Priority | Subject | Why it matters | First action |
+|----------|---------|----------------|--------------|
+| **1** | [Geography](prelims-analysis/05_Geography.md) | ~177 tagged questions; map and location matching repeat every year. | Finish physical geography, climate, drainage, world map, and UP geography. |
+| **2** | [Polity](prelims-analysis/07_Polity.md) | ~175 tagged questions; articles, bodies, Parliament, PRIs, schedules. | Drill Article→Body, Part→Subject, Parliament, local government. |
+| **3** | [Environment](prelims-analysis/06_Environment_and_Ecology.md) | ~121 tagged questions; recent papers reward SDGs, protected areas, schemes. | Do SDGs, ecology, pollution, climate, wildlife, Ramsar/UP traps. |
+| **4** | [Modern India](prelims-analysis/03_Modern_India.md) | Heavy History block; chronology and movement facts are high ROI. | Build a 1757–1947 timeline and revise 1857, Congress, Gandhian phase. |
+| **5** | [Medieval India](prelims-analysis/02_Medieval_India.md) | Rising since 2022; officers, books, Sultanate/Mughal admin. | Do Sultanate, Mughals, Sher Shah, medieval literature. |
+| **6** | [Ancient History](prelims-analysis/01_Ancient_History.md) | Smaller but precise; site and text traps are common. | Do IVC, Maurya, Buddhism/Jainism, archaeology. |
+| **7** | [Art and Culture](prelims-analysis/04_Art_and_Culture.md) | Under-tagged because culture often appears inside History. | Revise architecture, music, literature, philosophy, awards/GI. |
+
+## One-Week Prelims Route
+
+<div class="study-path" markdown>
+
+1. **Day 1–2: Geography.** Read the Geography analysis, then revise map-heavy notes: mountains, climate, rivers, world geography, UP geography.
+2. **Day 3: Polity.** Drill Parliament, constitutional bodies, local government, articles, schedules, and amendments.
+3. **Day 4: Environment.** Read the Environment analysis and Topic 45 trend file. Focus on SDGs, pollution, ecology, climate, wildlife, Ramsar, forests.
+4. **Day 5: Modern History.** Build chronology first, then movements, 1857, reforms, Viceroys, press/books.
+5. **Day 6: Ancient + Medieval.** Do high-return lists: sites, edicts, councils, Sultanate officers, Mughal books, Sher Shah.
+6. **Day 7: Active recall + mistakes.** Open Active Recall decks and redo traps from every analysis page.
+
+</div>
+
+## Subject Jump
 
 <div class="study-grid" markdown>
 
 [**Ancient History**
-<span>~33 questions · sites, Mauryan officers, Buddhism</span>](prelims-analysis/01_Ancient_History.md){ .study-card }
+<span>Small but exact: IVC sites, Mauryan officers, Buddhism, archaeology.</span>](prelims-analysis/01_Ancient_History.md){ .study-card }
 
 [**Medieval India**
-<span>~36 questions · Sultanate, Mughals, chronicles — rising since 2022</span>](prelims-analysis/02_Medieval_India.md){ .study-card }
+<span>Rising area: Sultanate, Mughals, chronicles, officers, Sher Shah.</span>](prelims-analysis/02_Medieval_India.md){ .study-card }
 
 [**Modern India**
-<span>~83 questions · largest History block · chronology + 1857 + national movement</span>](prelims-analysis/03_Modern_India.md){ .study-card }
+<span>Highest History ROI: chronology, 1857, national movement, reforms.</span>](prelims-analysis/03_Modern_India.md){ .study-card }
 
 [**Art and Culture**
-<span>~11 tagged · many more sit inside History · match-the-pair paper</span>](prelims-analysis/04_Art_and_Culture.md){ .study-card }
+<span>Under-tagged but asked: architecture, music, literature, philosophy.</span>](prelims-analysis/04_Art_and_Culture.md){ .study-card }
 
 [**Geography**
-<span>~177 questions · largest static block · world + climate + rivers + UP</span>](prelims-analysis/05_Geography.md){ .study-card }
+<span>Largest static block: world map, climate, rivers, minerals, UP.</span>](prelims-analysis/05_Geography.md){ .study-card }
 
 [**Environment and Ecology**
-<span>~121 questions · budget 15–20 marks · SDGs and UP traps</span>](prelims-analysis/06_Environment_and_Ecology.md){ .study-card }
+<span>15–20 mark target: SDGs, ecology, pollution, wildlife, Ramsar.</span>](prelims-analysis/06_Environment_and_Ecology.md){ .study-card }
 
 [**Polity**
-<span>~175 questions · Parliament, PRIs, articles · multi-statement since 2024</span>](prelims-analysis/07_Polity.md){ .study-card }
+<span>Static scoring base: Parliament, PRIs, bodies, articles, schedules.</span>](prelims-analysis/07_Polity.md){ .study-card }
 
 </div>
 
@@ -69,13 +95,12 @@ Eight-year GS Paper-I tags (2018–2025). Open a subject for volume, heat map, t
 
 <div class="study-path" markdown>
 
-1. **Read the spine first.** Each note opens with a *Quick Revision — Spine Only* block. Skim it before the detail.
-2. **Check Prelims analysis.** See how many questions that subject actually carries, then follow the heat map — do not revise every chapter equally.
-3. **Drill the confused pairs.** The comparison tables are the highest-yield part for Prelims.
-4. **Write from memory.** For Mains, read *PYQs → Quick Revision → Traps*, then write the answer without looking.
-5. **Drill Active Recall.** Open a card, answer from memory, then tap **Show answer**.
-6. **Use Focus mode.** On any note, hit **Focus mode** to hide both sidebars and read distraction-free.
-7. **Search everything.** Press <kbd>/</kbd> (or the search box) to jump to any article, schedule, or theme instantly.
+1. **Open Prelims Analysis first.** It tells you what to study now and what can wait.
+2. **Open the linked subject notes.** Read the *Quick Revision — Spine Only* block before detail.
+3. **Drill confused pairs and traps.** These are where UPPCS options usually punish you.
+4. **Attempt PYQs and practice stems.** Use `<details>` answers only after attempting.
+5. **Close with Active Recall.** If you cannot answer hidden-answer cards, reread the spine.
+6. **Use Search.** Press <kbd>/</kbd> for any article, schedule, map term, or personality.
 
 </div>
 

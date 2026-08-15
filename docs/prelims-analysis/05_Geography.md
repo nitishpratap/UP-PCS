@@ -5,7 +5,17 @@
 
 ---
 
-## Volume
+## Exam Decision
+
+Geography is the **largest static scoring block**. It becomes high-scoring only when you revise with maps open. Reading theory without locating the feature is weak preparation for UPPCS.
+
+| What to expect | Revision decision |
+|----------------|-------------------|
+| **18–28 questions** in many papers | Give Geography two revision days if possible. |
+| Location-heavy options | Map work is compulsory, not optional. |
+| World + India + UP mix | Do not prepare only Indian geography. |
+
+## Year Weight
 
 | Year | Tagged Qs | ~% of 150 | Notes |
 |------|-----------|-----------|-------|
@@ -22,7 +32,7 @@
 
 ---
 
-## Heat map — what UPPCS keeps asking
+## Do First
 
 | Priority | Cluster | Topic files | What the paper actually tests |
 |----------|---------|-------------|-------------------------------|
@@ -41,13 +51,22 @@
 
 ---
 
-## Format
+## Must-Know Locks
+
+- **Mountains and passes:** state, range, and neighbouring country route.
+- **Rivers:** origin, tributary, confluence, and state crossed.
+- **Climate:** monsoon branches, local winds, ENSO/IOD, western disturbances.
+- **World map:** deserts, seas, straits, landlocked countries, polar regions.
+- **Minerals/energy:** resource-location matching and major producing states.
+- **UP geography:** expressways, rivers, districts, protected areas, agriculture belts.
+
+## How UPPCS Frames It
 
 Match List and **NOT correctly matched** dominate. 2024–2025 add Assertion–Reason (Australia desert vs temperate zone is the 2025 opener pattern) and multi-statement climate claims. Chronology appears for expeditions, dams, and expressways.
 
 ---
 
-## Recurring traps
+## Trap List
 
 - Peak–state matching (Doddabetta, Guru Shikhar, Saramati, Dhupgarh, Anaimudi).
 - Pass–state matching (Lipulekh / Niti / Mana = Uttarakhand, not Ladakh).
@@ -58,7 +77,7 @@ Match List and **NOT correctly matched** dominate. 2024–2025 add Assertion–R
 
 ---
 
-## 2026 study order
+## Study Order
 
 1. Indian physical + drainage + lakes (Topics 1, 3, 4).
 2. Climate of India (Topic 2).
@@ -66,3 +85,12 @@ Match List and **NOT correctly matched** dominate. 2024–2025 add Assertion–R
 4. Minerals/energy + UP geography (Topics 8, 24).
 5. Soils, agriculture, vegetation (Topics 5–7).
 6. Oceans, population, geomorphology as backup (Topics 11, 14–16).
+
+## Mock Audit
+
+After every mock, check:
+
+- Was the error caused by not seeing the feature on a map?
+- Did you confuse **state/range/river** even though you knew the fact?
+- Did a world geography question punish India-only revision?
+- Did a UP-specific option eliminate the correct answer?

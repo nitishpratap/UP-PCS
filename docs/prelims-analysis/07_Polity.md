@@ -5,7 +5,17 @@
 
 ---
 
-## Volume
+## Exam Decision
+
+Polity is one of the safest scoring areas because the option traps repeat around **Articles, Parts, Schedules, bodies, Parliament, local government, and offices**. It deserves a full revision block even if you already “know polity”.
+
+| What to expect | Revision decision |
+|----------------|-------------------|
+| **17–28 questions** in many papers | Give Polity one full revision day. |
+| Article/body matching | Memorise core Article→Institution pairs. |
+| Multi-statement rise | Practise statement checking, not only one-line facts. |
+
+## Year Weight
 
 | Year | Tagged Qs | ~% of 150 | Notes |
 |------|-----------|-----------|-------|
@@ -22,7 +32,7 @@
 
 ---
 
-## Heat map — what UPPCS keeps asking
+## Do First
 
 | Priority | Cluster | Topic files | What the paper actually tests |
 |----------|---------|-------------|-------------------------------|
@@ -42,7 +52,16 @@
 
 ---
 
-## Format shift (2024–2025)
+## Must-Know Locks
+
+- **Article 324 = Election Commission**, **315 = Public Service Commission**, **280 = Finance Commission**, **338 = NCSC**.
+- **Parts:** VIII Union Territories, X Scheduled and Tribal Areas, XIVA Tribunals, XVII Official Language.
+- **Schedules:** 5th vs 6th, 7th, 10th, 11th, 12th.
+- **Parliament:** Money Bill, Rajya Sabha special powers, committees, joint sitting.
+- **Local government:** 73rd/74th, 11th/12th Schedule, PESA, State Election Commission.
+- **UP Special:** Assembly, Council, High Court, UPPSC, Panchayati Raj, UP Finance Commission.
+
+## Format Shift (2024–2025)
 
 Whole-paper GS-I moved from mostly direct MCQs (2018–2023) to **multi-statement + A/R + Match** in 2024–2025. Polity followed that shift. Practise:
 
@@ -53,7 +72,7 @@ Whole-paper GS-I moved from mostly direct MCQs (2018–2023) to **multi-statemen
 
 ---
 
-## Recurring traps
+## Trap List
 
 - **Tribunals are Part XIVA, not Part XI** (2023-style NOT-matched).
 - Money Bill **article** vs definition vs Rajya Sabha power.
@@ -64,7 +83,7 @@ Whole-paper GS-I moved from mostly direct MCQs (2018–2023) to **multi-statemen
 
 ---
 
-## 2026 study order
+## Study Order
 
 1. Parliament + Local Government + Constitutional Bodies (Topics 7, 10, 12).
 2. Features + Parts/Articles/Schedules + FRs/Duties (Topics 2, 3, 5).
@@ -73,3 +92,12 @@ Whole-paper GS-I moved from mostly direct MCQs (2018–2023) to **multi-statemen
 5. UP Special (Topic 25) in the last week with Topic 26 one-liners.
 
 Mains-side polity themes (GS-2) are a different file: [UPPCS 2026 Polity Analysis](../mains-pyqs/GS-2/Polity_Constitution/00_UPPCS_2026_Polity_Analysis.md).
+
+## Mock Audit
+
+After every mock, check:
+
+- Did you miss an **Article→Body** pair?
+- Did you confuse a **Part** or **Schedule**?
+- Did Parliament terminology cause the mistake?
+- Did a UP-specific institution question expose weak last-week revision?

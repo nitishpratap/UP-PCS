@@ -5,7 +5,17 @@
 
 ---
 
-## Volume
+## Exam Decision
+
+Environment is now a **15–20 mark planning block**, not a quick ecology chapter. It also leaks into Geography, Economy, and Current Affairs through reports, schemes, protected areas, climate, and sustainable development.
+
+| What to expect | Revision decision |
+|----------------|-------------------|
+| **15–20 tagged questions** in strong years | Give Environment one full revision block. |
+| Cross-subject leakage | Revise reports and protected areas even if tagged elsewhere. |
+| 2025 format shift | Practise multi-statement and A/R, not only one-liners. |
+
+## Year Weight
 
 | Year | Tagged Qs | ~% of 150 | Notes |
 |------|-----------|-----------|-------|
@@ -22,7 +32,7 @@
 
 ---
 
-## Heat map — top five (from Topic 45)
+## Do First
 
 | Rank | PYQ hits | Notes file | What UPPCS keeps asking |
 |------|----------|------------|-------------------------|
@@ -36,7 +46,16 @@
 
 ---
 
-## Format shift (2025)
+## Must-Know Locks
+
+- **SDGs:** goal numbers and theme words, especially 6, 13, 14, 15.
+- **Ecology:** energy flow, ecological pyramids, lichens, niche, succession.
+- **Pollution:** AQI, pollutants, smog, waste rules, sources.
+- **Climate:** Kyoto/Paris/COP, GHGs, net zero 2070, mitigation vs adaptation.
+- **Protected areas:** Ramsar, biosphere reserves, national parks, UP negatives.
+- **Schemes/reports:** LiFE, MISHTI, GEF, UNEP reports, ISFR.
+
+## Format Shift (2025)
 
 Historically about **two-thirds** of environment questions were direct MCQs. In **2025** about **two-thirds** were multi-statement, A/R, Match, or NOT-matched.
 
@@ -44,7 +63,7 @@ Practise two-statement and A/R in the Environment Practice Zones. One-liners alo
 
 ---
 
-## Recurring traps
+## Trap List
 
 - **LiFE:** COP26 idea (2021), launch June 2022 — not COP25 Madrid.
 - **MISHTI:** 2023–24 Budget, not 2019.
@@ -54,7 +73,7 @@ Practise two-statement and A/R in the Environment Practice Zones. One-liners alo
 
 ---
 
-## 2026 study order
+## Study Order
 
 1. Topics 15, 2, 9/38, 10/34, 7 (the heat-map five).
 2. Protected areas, biosphere, forests, Ramsar (Topics 6, 8, 32, 33).
@@ -62,3 +81,12 @@ Practise two-statement and A/R in the Environment Practice Zones. One-liners alo
 4. Light pass on acid rain, EIA, and duplicate ozone/desertification files.
 
 Use [Topic 45](../subjects/environments%20&%20ecology/45_Environment_PYQ_Trend_Analysis.md) for year-wise snapshots and the mock-test checklist.
+
+## Mock Audit
+
+After every mock, check:
+
+- Did you miss a **scheme year** or **report organisation**?
+- Did you confuse climate treaties with ozone treaties?
+- Did a protected-area question require **UP negative geography**?
+- Did you over-trust one-line memory in a multi-statement question?

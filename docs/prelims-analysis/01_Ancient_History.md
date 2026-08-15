@@ -1,12 +1,21 @@
 # Ancient History — UPPCS Prelims Analysis (2018–2025)
 
 > **Scope:** Tagged Ancient History questions in GS Paper-I, plus History stems that clearly sit in the ancient syllabus.  
-> **Use when:** After the spine of Topics 1–14; before mocks; last-week sorting.  
 > **Open notes:** [Ancient History syllabus](../subjects/ancient%20history/00_Syllabus.md)
 
 ---
 
-## Volume
+## Exam Decision
+
+Ancient History is a **small, high-precision** subject. Do not spend the same time here as Geography or Polity, but do not skip it. Most marks come from memorised pairs: **site-feature**, **text-sect**, **ruler-inscription**, **officer-duty**.
+
+| What to expect | Revision decision |
+|----------------|-------------------|
+| **4–8 questions** in most papers | Finish the S-priority clusters, then stop expanding. |
+| Low narrative demand | Timelines and lists matter more than long explanations. |
+| High trap density | One wrong excavation/site/officer pair can decide the option. |
+
+## Year Weight
 
 | Year | Tagged Qs | Notes |
 |------|-----------|-------|
@@ -19,11 +28,11 @@
 | 2024 | 4 | Stable |
 | 2025 | 5 | Mix of sites, literature, chronology |
 
-**Planning rule:** Budget **4–8 Ancient questions** every year. The subject is small but high-precision. One wrong site or officer title costs a full mark.
+**Planning rule:** Budget **4–8 Ancient questions**. Revise for accuracy, not breadth.
 
 ---
 
-## Heat map — what UPPCS keeps asking
+## Do First
 
 | Priority | Cluster | What the paper actually tests |
 |----------|---------|-------------------------------|
@@ -40,13 +49,22 @@
 
 ---
 
-## Format
+## Must-Know Locks
+
+- **Lothal** is the dockyard/port lock; **Kalibangan** is the ploughed-field lock.
+- **Ashokan edicts** must be revised by location and type, not only as “Ashoka asked”.
+- **Buddhist councils** need place, patron, and outcome.
+- **Jain Tirthankaras** can appear under Culture, but revise them here too.
+- **Gupta inscriptions** and rulers are a recurring match-pair zone.
+- **Foreign invader chronology** is safer than isolated biography reading.
+
+## How UPPCS Frames It
 
 Recent papers prefer **Match List**, **NOT correctly matched**, and **two-statement** stems over one-line “who founded X”. Practise officer titles, edict locations, and site-feature pairs.
 
 ---
 
-## Recurring traps
+## Trap List
 
 - Confusing **Harappan site features** (dockyard at Lothal, ploughed field at Kalibangan, horse evidence claims at Surkotada).
 - Mixing **Ashokan edict types** (major rock, pillar, separate Kalinga).
@@ -56,7 +74,7 @@ Recent papers prefer **Match List**, **NOT correctly matched**, and **two-statem
 
 ---
 
-## 2026 study order
+## Study Order
 
 1. Indus Valley + Archaeology (Topics 2 and 13).
 2. Mauryan Empire + Religious Movements (Topics 7 and 4).
@@ -65,3 +83,12 @@ Recent papers prefer **Match List**, **NOT correctly matched**, and **two-statem
 5. Light pass on Stone Age, post-Gupta, administration, economy.
 
 Drill **confused pairs** in those files. Then attempt the Complete PYQ Bank in each chapter.
+
+## Mock Audit
+
+After every mock, check:
+
+- Did you miss a **site-feature** match?
+- Did you confuse **Buddhist / Jain / Vedic** texts?
+- Did you know the **ruler-inscription** pair?
+- Did you lose a mark because you remembered the fact but not the exact location?
