@@ -7,6 +7,8 @@ hide:
 
 Question first. Answer hidden. Expand a **subject** in the left sidebar, open a deck, then tap **Show answer**.
 
+On a deck page the screen splits: **Notes** on the left, **Cards** on the right. Drag the divider to resize. Use **Hide notes** if you want a pure recall pass.
+
 Paste a ChatGPT dump in Cursor and name the subject. New decks go under that subject folder.
 
 <div class="study-grid" markdown>

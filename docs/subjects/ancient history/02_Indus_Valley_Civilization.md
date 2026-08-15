@@ -48,6 +48,7 @@ Unicorn = most common seal | weights 16 | cotton earliest
 | Seal | Script | Steatite object vs unread signs on it | मुद्रा / लिपि |
 
 ---
+![img_1.png](img_1.png)
 
 ## 2.1 Indus Valley Civilization
 

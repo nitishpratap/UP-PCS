@@ -53,7 +53,7 @@ UP Later Vedic: Kuru–Panchala, Kosala, Kashi | Hastinapur, Atranjikhera, Ahich
 | Vedanga | Upanishad | Six **limbs** (tools) vs **Vedanta** (end of Veda) | वेदांग / उपनिषद् |
 
 ---
-
+![img_2.png](img_2.png)
 ## 3.1 Vedic Period
 
 **Indo-Aryan culture of Vedic Sanskrit texts | Early ~1500–1000 BCE | Later ~1000–600 BCE**
