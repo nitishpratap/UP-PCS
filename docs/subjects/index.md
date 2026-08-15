@@ -10,24 +10,24 @@ Use the **left sidebar** to expand a subject and open its chapters. Start each s
 <div class="study-grid" markdown>
 
 [**Ancient History**
-<span>Syllabus and numbered topics</span>](ancient history/00_Syllabus.md){ .study-card }
+<span>Prelims analysis · syllabus · topics</span>](ancient history/00_Prelims_Analysis.md){ .study-card }
 
 [**Medieval India**
-<span>Syllabus and numbered topics</span>](medieval india/00_Syllabus.md){ .study-card }
+<span>Prelims analysis · syllabus · topics</span>](medieval india/00_Prelims_Analysis.md){ .study-card }
 
 [**Modern India**
-<span>Syllabus and numbered topics</span>](mordern india/00_Syllabus.md){ .study-card }
+<span>Prelims analysis · syllabus · topics</span>](mordern india/00_Prelims_Analysis.md){ .study-card }
 
 [**Art and Culture**
-<span>Syllabus and numbered topics</span>](art and culture/00_Syllabus.md){ .study-card }
+<span>Prelims analysis · syllabus · topics</span>](art and culture/00_Prelims_Analysis.md){ .study-card }
 
 [**Geography**
-<span>Syllabus and numbered topics</span>](geography/00_Syllabus.md){ .study-card }
+<span>Prelims analysis · syllabus · topics</span>](geography/00_Prelims_Analysis.md){ .study-card }
 
 [**Environment and Ecology**
-<span>Syllabus and numbered topics</span>](environments & ecology/00_Syllabus.md){ .study-card }
+<span>Prelims analysis · syllabus · topics</span>](environments & ecology/00_Prelims_Analysis.md){ .study-card }
 
 [**Polity**
-<span>Syllabus and numbered topics</span>](polity/00_Syllabus.md){ .study-card }
+<span>Prelims analysis · syllabus · topics</span>](polity/00_Prelims_Analysis.md){ .study-card }
 
 </div>
