@@ -70,9 +70,11 @@ Peshwas: Balaji Vishwanath → Baji Rao I → Balaji Baji Rao → Madhav Rao I �
 - Conflict grew over Nawabi control of **customs and forts** versus the Company’s **dastaks** (duty-free passes) and fort-building.
 - **Murshid Quli Khan** (from **1717**) was the first strong Nawab. His capital was **Murshidabad**.
 - **Alivardi Khan (1740–56)** fought the Maratha Bargis. He was the last strong Nawab before Plassey.
-- **Siraj-ud-Daulah (1756–57)** took Calcutta in **June 1756** (Black Hole episode) and fell at Plassey.
+- **Siraj-ud-Daulah (1756–57)** took Calcutta in **June 1756**. The Black Hole episode belongs to this capture.
+- He fell at Plassey.
 - **Mir Jafar (1757)** was the first **puppet** Nawab after the Plassey conspiracy.
-- **Mir Qasim (1760–63)** shifted the capital to **Munger**, reformed the army, and abolished internal duties. That clash led to **Buxar**.
+- **Mir Qasim (1760–63)** shifted the capital to **Munger**.
+- He reformed the army and abolished internal duties. That clash led to **Buxar**.
 - **Jagat Seth** bankers helped finance the plot against Siraj.
 - The English had fortified **Fort William** without leave and given asylum to Krishnadas. The **Seven Years’ War** also made them fear the French.
 - The **Treaty of Alinagar (February 1757)** followed Clive and Admiral Watson’s recapture of Calcutta. Peace lasted only until Plassey.
@@ -83,25 +85,35 @@ Peshwas: Balaji Vishwanath → Baji Rao I → Balaji Baji Rao → Madhav Rao I �
 
 ## 2.2 Battle of Plassey, 23 June 1757
 
-**Place:** Palashi (Nadia, Bengal) on the Bhagirathi. **English:** Robert Clive (~3,000). **Nawab:** Siraj (~50,000 on paper).
+**Palashi (Nadia, Bengal)** on the Bhagirathi | **Robert Clive** | Nawab **Siraj-ud-Daulah**
 
-- Won by **conspiracy**, not a long pitched battle (hours, one afternoon).
-- **Mir Jafar** and **Rai Durlabh** held back troops; **Jagat Seth** financed; **Omichand** deceived by Clive’s forged/dual treaty.
-- Monsoon soaked Siraj’s powder — supporting factor, not the main cause.
-- Siraj captured and executed; **Mir Jafar** installed; Company got **24 parganas** + huge payments.
-- Begins **political empire** through a puppet Nawab — **not** Diwani.
+- Clive’s force was small, about **3,000**. Siraj’s army looked large on paper, about **50,000**.
+- The English won by **conspiracy**, not by a long pitched battle. The fighting lasted only hours on one afternoon.
+- **Mir Jafar** and **Rai Durlabh** held back their troops.
+- The banker **Jagat Seth** helped finance the plot.
+- **Omichand** was deceived by Clive’s forged or dual treaty.
+- Rain soaked Siraj’s gunpowder. That helped the English, but it was not the main cause of the defeat.
+- Siraj was captured and executed.
+- **Mir Jafar** was installed as Nawab.
+- The Company received the **24 parganas** and large payments.
+- Plassey began a **political empire** through a puppet Nawab. It did **not** give the **Diwani**.
 
-> **Exam note:** Plassey **1757 + Clive + Mir Jafar**. Diwani = **1765** after Buxar.
+> **Exam note:** Plassey is **1757**, **Clive** and **Mir Jafar**. Diwani is **1765**, after Buxar.
 
 ---
 
 ## 2.3 Battle of Buxar, 22 October 1764
 
-**Place:** Buxar (Bihar). **English commander: Major Hector Munro** (Clive was in England).
+**Buxar (Bihar)** | English commander **Major Hector Munro** | Clive was in England
 
-- **Triple alliance:** **Mir Qasim** (Bengal) + **Shuja-ud-Daula** (Awadh) + **Shah Alam II** (Mughal Emperor).
-- Trigger: Mir Qasim’s equal-duty reform + **Patna massacre (1763)**; English had reinstalled Mir Jafar.
-- Coalition routed. Clive returned **1765** for the political settlement.
+- The English faced a **triple alliance**.
+- **Mir Qasim** represented Bengal.
+- **Shuja-ud-Daula** represented Awadh.
+- **Shah Alam II** was the Mughal Emperor.
+- The clash began after Mir Qasim tried to levy **equal duties** on Indian and English traders.
+- The **Patna massacre of 1763** followed. The English then reinstalled **Mir Jafar**.
+- The coalition was routed at Buxar.
+- Clive returned in **1765** to settle the political terms.
 
 ### Treaty of Allahabad, 1765
 
@@ -125,7 +137,7 @@ Peshwas: Balaji Vishwanath → Baji Rao I → Balaji Baji Rao → Madhav Rao I �
 - **Clive** (1758–60 and 1765–67) handled the Plassey aftermath, Diwani and Dual Government.
 - **Verelst and Cartier** governed while Dual Government continued, including the famine years.
 - **Hastings (1772–85)** ended Dual Government, used Ring Fence, faced Banaras 1781, and fought the First Maratha War.
-- **Cornwallis (1786–93)** later brought the Permanent Settlement (land system in Topic 4).
+- **Cornwallis (1786–93)** later brought the Permanent Settlement of Bengal.
 
 > **Exam note:** Clive **created** dual government; Hastings **ended** it (**1772**), not 1857.
 
@@ -133,29 +145,32 @@ Peshwas: Balaji Vishwanath → Baji Rao I → Balaji Baji Rao → Madhav Rao I �
 
 ## 2.5 Robert Clive
 
-**Writer** at Madras (1743) → Arcot **1751** (Topic 1) → Plassey **1757** → Diwani/dual **1765**.
+**Company writer at Madras from 1743** | Arcot **1751** | Plassey **1757** | Diwani settlement **1765**
 
-- Architect of the **Mir Jafar** conspiracy; second Bengal term negotiated **Allahabad 1765**.
-- Did **not** command at Buxar.
-- Parliamentary inquiry over presents/jagir; died **1774** (suicide).
+- He designed the **Mir Jafar** conspiracy that won Plassey.
+- In his second Bengal term he negotiated the **Treaty of Allahabad, 1765**.
+- He did **not** command at Buxar.
+- Parliament inquired into his presents and jagir.
+- He died in **1774**.
 
-> **Exam note:** Clive = Plassey + Diwani frame; Hastings = dual-system ender + later wars.
+> **Exam note:** Clive belongs to Plassey and the Diwani frame. Hastings ended Dual Government and fought the later Bengal-period wars.
 
 ---
 
 ## 2.6 Warren Hastings (expansion only)
 
-**Governor of Bengal 1772; GG of Bengal from 1773** (Regulating Act — Topic 3).
+**Governor of Bengal from 1772** | first **Governor-General of Bengal from 1773**
 
-- **1772:** ends Dual Government; Company takes direct revenue/civil charge.
-- **Ring Fence:** Awadh as buffer around Bengal (not yet Subsidiary Alliance).
-- **Rohilla War 1774** (with Shuja-ud-Daula).
-- **First Anglo-Maratha War** → **Salbai 1782**.
-- **Banaras Rebellion 1781** (Chait Singh) → §2.16.
-- **Asiatic Society of Bengal (1784):** founded by **Sir William Jones**; Hastings declined the presidentship in Jones’s favour (2019 Q22).
-- Impeached in Britain **1788–95** (Chait Singh, Rohillas, presents) — acquitted.
+- In **1772** he ended Dual Government. The Company took direct revenue and civil charge.
+- His **Ring Fence** policy used Awadh as a buffer around Bengal. This was **not** yet the Subsidiary Alliance.
+- He fought the **Rohilla War in 1774** with Shuja-ud-Daula.
+- The **First Anglo-Maratha War** ended with the **Treaty of Salbai, 1782**.
+- The **Banaras Rebellion of 1781** was his clash with Raja **Chait Singh**.
+- The **Asiatic Society of Bengal** was founded in **1784** by **Sir William Jones**.
+- Hastings **declined** the presidentship in Jones’s favour (2019 Q22).
+- He was impeached in Britain from **1788 to 1795** over Chait Singh, the Rohillas and presents. He was **acquitted**.
 
-> **Exam note:** Full GG reform list → Topic 3. Here: dual 1772, Ring Fence, Salbai, Banaras.
+> **Exam note:** This card keeps expansion: Dual Government **1772**, Ring Fence, Salbai, Banaras. Office and reform titles sit with the Governor-General list.
 
 ---
 
@@ -167,9 +182,14 @@ There was **not** one policy from start to finish. The method changed with each 
 - **Clive** used a **puppet Nawab** and then took the **Diwani (1757–65)**.
 - **Warren Hastings** used **Ring Fence**: keep buffer states such as Awadh around Bengal, without yet annexing them.
 - **Wellesley from 1798** used the **Subsidiary Alliance**: British troops, a subsidy, and a Resident; the ruler kept internal administration. **Hyderabad 1798** was the first.
-- **Dalhousie from 1848** used the **Doctrine of Lapse**: if there was no natural heir, the state was annexed (**Satara, Jhansi, Nagpur**).
+- **Dalhousie from 1848** used the **Doctrine of Lapse**. If there was no natural heir, the state was annexed. **Satara, Jhansi and Nagpur** are the usual examples.
 - **Awadh in 1856** was annexed for **misgovernance**, not under Lapse.
-- Associated wars: Hastings — First Maratha; Wellesley — Fourth Mysore and Second Maratha (recalled **1805**); Lord Hastings — Nepal, Pindari, Third Maratha; Ellenborough — Sindh **1843**; Hardinge — First Sikh War; Dalhousie — Punjab **1849** and Awadh **1856**.
+- Warren Hastings fought the First Maratha War.
+- Wellesley fought the Fourth Mysore War and the Second Maratha War. He was recalled in **1805**.
+- **Lord Hastings** fought Nepal, the Pindaris and the Third Maratha War.
+- **Ellenborough** annexed **Sindh in 1843**.
+- **Hardinge** fought the First Sikh War.
+- **Dalhousie** annexed **Punjab in 1849** and **Awadh in 1856**.
 
 > **Exam note:** Wellesley did **not** invent Lapse. **2025 Q40** matches Dalhousie with the Doctrine of Lapse.
 
@@ -190,8 +210,9 @@ There was **not** one policy from start to finish. The method changed with each 
 | **Peshwa** | **1802 Treaty of Bassein** |
 | Sindhia / Bhonsle | after Second Maratha War |
 
-- Cheaper than annexation; subsidy later ruined treasuries (Awadh path to 1856).
-- **Wellesley recalled 1805** — wars too costly (**2024 Q137**).
+- The alliance was cheaper than annexation at first.
+- The subsidy later ruined treasuries. Awadh’s path to **1856** is the exam example.
+- **Wellesley was recalled in 1805** because the wars cost too much (**2024 Q137**).
 
 > **Exam note:** First subsidiary = **Hyderabad 1798**, not Jhansi. Hyderabad was **never** a Lapse annexation.
 
@@ -199,9 +220,12 @@ There was **not** one policy from start to finish. The method changed with each 
 
 ## 2.9 Anglo-Mysore Wars and Mysore State
 
-- **Hyder Ali** seized power in Mysore in **1761**. He had already set up a modern armoury at **Dindigal in 1755** (**2020 Q28**).
-- **Tipu Sultan** succeeded in **1782**. He used rockets, kept French contacts, and was called the Tiger of Mysore. The capital was **Seringapatam**.
-- There were **four** Anglo-Mysore Wars. Treaties and the final death of Tipu are the usual match facts.
+- **Hyder Ali** seized power in Mysore in **1761**.
+- He had already set up a modern armoury at **Dindigal in 1755** (**2020 Q28**).
+- **Tipu Sultan** succeeded in **1782**.
+- He used rockets and kept French contacts. He was called the Tiger of Mysore.
+- The capital was **Seringapatam**.
+- There were **four** Anglo-Mysore Wars. Treaties and Tipu’s death are the usual match facts.
 
 | War | Years | GG / commander | End |
 |-----|-------|----------------|-----|
@@ -235,9 +259,14 @@ D. Chikka Krishnaraj
 
 ## 2.10 Anglo-Maratha Wars
 
-Confederacy = **Peshwa (Poona)** + **Sindhia (Gwalior)** + **Holkar (Indore)** + **Bhonsle (Nagpur)** + **Gaekwad (Baroda)**.
-
-**Chauth** = Maratha claim of **¼** land revenue for “protection” — **not** Subsidiary Alliance (**2018 Q93**). **Sardeshmukhi** = extra ~10%.
+- The Maratha confederacy had five main houses.
+- The **Peshwa** sat at **Poona**.
+- **Sindhia** sat at **Gwalior**.
+- **Holkar** sat at **Indore**.
+- **Bhonsle** sat at **Nagpur**.
+- The **Gaekwad** sat at **Baroda**.
+- **Chauth** was the Maratha claim of **one-fourth** of land revenue for “protection”. It is **not** the Subsidiary Alliance (**2018 Q93**).
+- **Sardeshmukhi** was an extra levy of about **10 percent**.
 
 ### Peshwa order (raata this table — three PYQs)
 
@@ -355,16 +384,29 @@ D. Jamadani
 
 ## 2.11 Sikh Empire, Anglo-Sikh Wars, Treaty of Lahore, Punjab Annexation
 
-**Ranjit Singh (d. 1839)** unified misls; capital **Lahore**; European officers (Ventura, Allard). **Adalat-i-Ala (supreme court) at Lahore** — not Amritsar (**2021 Q67**). Empire: Khyber to Sutlej.
+- **Ranjit Singh** unified the Sikh misls. He died in **1839**.
+- His capital was **Lahore**.
+- European officers such as **Ventura** and **Allard** trained his army.
+- He set up the **Adalat-i-Ala**, the supreme court, at **Lahore**, not Amritsar (**2021 Q67**).
+- The empire stretched from the **Khyber** to the **Sutlej**.
 
 | War | Years | GG | Battles | Result |
 |-----|-------|-----|---------|--------|
 | **I** | 1845–46 | **Hardinge** | **Mudki** (18 Dec 1845), Ferozeshah, Aliwal, **Sobraon** | **Treaty of Lahore 1846** + **Bhairowal 1846** |
 | **II** | 1848–49 | **Dalhousie** | Multan revolt (Mulraj); Ramnagar; **Chillianwala** (British setback); **Gujrat** (21 Feb 1849) | **Punjab annexed 29 Mar 1849** |
 
-**Treaty of Lahore 1846:** Kashmir ceded (sold to **Gulab Singh** for ₹75 lakh); indemnity; resident. Did **not** annex Punjab. **Bhairowal:** tighter British control over the minor Maharaja.
+**Treaty of Lahore, 1846**
 
-**Annexation 1849:** **Duleep Singh** deposed → England. Punjab as **Chief Commissionership** — **Henry & John Lawrence** (“Punjab School”).
+- Kashmir was ceded and then sold to **Gulab Singh** for **₹75 lakh**.
+- The Sikhs paid an indemnity and accepted a British resident.
+- The treaty did **not** annex Punjab.
+- The later **Treaty of Bhairowal (1846)** tightened British control over the minor Maharaja.
+
+**Annexation, 1849**
+
+- **Duleep Singh** was deposed and sent to England.
+- Punjab became a **Chief Commissionership**.
+- **Henry Lawrence** and **John Lawrence** ran the “Punjab School” of administration.
 
 > **Exam note:** **1846 treaty ≠ 1849 annexation**. Mudki = First Sikh, not Mysore (**2022 Q64**).
 
@@ -391,13 +433,21 @@ D. Multan
 
 ## 2.12 Anglo-Nepal War and Treaty of Sugauli, 1816
 
-**1814–16.** GG: **Lord Hastings**. Gurkha expansion into Garhwal/Kumaon/Sikkim. **Ochterlony** vs **Amar Singh Thapa**; **Nalapani** (Balbhadra Kunwar).
+- The war lasted **1814–16**.
+- The Governor-General was **Lord Hastings**, not Warren Hastings.
+- The Gurkhas had expanded into **Garhwal, Kumaon and Sikkim**.
+- **David Ochterlony** faced **Amar Singh Thapa**.
+- **Nalapani** is remembered for **Balbhadra Kunwar**.
 
 **Treaty of Sugauli (1816)**
-- Nepal cedes **Kumaon, Garhwal, Sikkim (west of Kali), Tarai strips**.
-- Nepal remains **independent** — **not annexed**; Resident at Kathmandu.
-- British gain hill tracts later associated with **Shimla, Ranikhet, Nainital**.
-- **Kathmandu not obtained.** Gurkha recruitment begins.
+
+- Nepal ceded **Kumaon** and **Garhwal**.
+- It also ceded **Sikkim west of the Kali** and strips of the **Tarai**.
+- Nepal remained **independent**. It was **not annexed**.
+- A British Resident sat at Kathmandu.
+- The British gained hill tracts later associated with **Shimla, Ranikhet and Nainital**.
+- **Kathmandu was not obtained.**
+- Gurkha recruitment into the British army began after the war.
 
 > **Exam note:** **2025 Q114** — Kathmandu trap. Sugauli ≠ Lahore.
 
@@ -453,7 +503,9 @@ D. 3, 1, 2, 4
 
 ## 2.13 Doctrine of Lapse
 
-**Dalhousie, from 1848.** Dependent state with **no natural heir** → adopted son **not recognised** → state **lapses** to Company.
+- **Dalhousie** used this from **1848**.
+- If a dependent state had **no natural heir**, the adopted son was **not recognised**.
+- The state then **lapsed** to the Company.
 
 | State | Year |
 |-------|------|
@@ -540,15 +592,20 @@ D. Both 1 and 2
 
 ### Banaras / Chait Singh, 1781
 
-- Raja **Chait Singh** vs **Warren Hastings** — extra tribute (~₹23 lakh) + troop levy.
-- Hastings arrested him at Shivala; guards rescued him; revolt crushed (**Major Popham**).
-- Chait Singh fled to **Gwalior**; Benares under closer Company control.
-- Charge in Hastings’s **impeachment**. **Not 1857.**
+- Raja **Chait Singh** of Banaras clashed with **Warren Hastings**.
+- Hastings demanded extra tribute of about **₹23 lakh** and a troop levy.
+- Hastings arrested him at **Shivala**. Guards rescued him.
+- **Major Popham** crushed the revolt.
+- Chait Singh fled to **Gwalior**. Benares came under closer Company control.
+- The episode became a charge in Hastings’s **impeachment**. It is **not** part of 1857.
 
 ### Akbar Fort, Prayagraj
 
-- Mughal fort at **Ganga–Yamuna sangam** (Allahabad/Prayagraj) — **not** Delhi/Agra.
-- **Treaty of Allahabad 1765** node; Shah Alam under Company protection here for a time; Doab control.
+- This is the Mughal fort at the **Ganga–Yamuna sangam** at Allahabad / Prayagraj.
+- It is **not** the Delhi or Agra fort.
+- The **Treaty of Allahabad, 1765** was settled in this belt.
+- **Shah Alam II** lived for a time under Company protection here.
+- The Company also tightened control of the Doab.
 
 ### UP Focus
 

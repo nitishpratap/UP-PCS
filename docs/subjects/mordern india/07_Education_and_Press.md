@@ -63,8 +63,10 @@ Shakti — Almora
 ## 7.1 Development of Education
 
 - Company interest in Indian education grew after the **Charter Act of 1813**, which set aside **one lakh rupees** a year.
-- Two camps fought over the medium: **Orientalists** wanted Sanskrit, Arabic and Persian; **Anglicists** wanted **English** and Western science.
-- **Macaulay’s Minute, 1835** settled the fight in favour of English (full card below).
+- Two camps fought over the medium.
+- **Orientalists** wanted Sanskrit, Arabic and Persian.
+- **Anglicists** wanted **English** and Western science.
+- **Macaulay’s Minute, 1835** settled the fight in favour of English.
 - **Wood’s Despatch, 1854** laid down a whole ladder from primary school to university.
 - **Universities of Calcutta, Bombay and Madras** were set up in **1857**.
 - **Hunter Commission, 1882** looked mainly at **primary education**.
@@ -105,7 +107,8 @@ Shakti — Almora
 
 ## 7.4 Hunter Commission
 
-- The **Indian Education Commission of 1882** is called the **Hunter Commission**. Viceroy: **Ripon**.
+- The **Hunter Commission** is the **Indian Education Commission of 1882**.
+- The Viceroy was **Ripon**.
 - It stressed **primary education** and the role of local bodies.
 - It also reviewed secondary and collegiate education and missionary / private effort.
 - It is **not** the Sadler Commission and **not** the Sargent Plan.
@@ -152,8 +155,11 @@ D. C A B D
 
 ## 7.6 Wardha Scheme
 
-- Adopted in **1937** after the Wardha conference. **Gandhi** is the moving spirit. **Zakir Husain** headed the committee that worked out the scheme.
-- It is **Basic Education** or **Nai Talim**: learning through a productive craft, mother tongue, and self-supporting school work.
+- It was adopted in **1937** after the Wardha conference.
+- **Gandhi** is the moving spirit.
+- **Zakir Husain** headed the committee that worked out the scheme.
+- It is **Basic Education** or **Nai Talim**.
+- Pupils learned through a productive craft, the mother tongue, and self-supporting school work.
 - It is a **nationalist** scheme, not a British official plan.
 - Do not mix it with the **Sargent Plan of 1944**.
 
@@ -165,8 +171,9 @@ D. C A B D
 
 - Grew during **Swadeshi (1905–06)** as a protest against Curzon’s controls and as a boycott of official colleges.
 - Indians tried to build their own schools and colleges with Indian control and a more national curriculum.
-- **Bengal National College** (Aurobindo associated for a time) is the usual example.
-- Later national experiments include **Santiniketan / Visva-Bharati** (Tagore) and the **Jamia / national college** stream. Detail of BHU/AMU as centres is in §7.8.
+- **Bengal National College** is the usual example. **Aurobindo** was associated with it for a time.
+- Later national experiments include **Santiniketan / Visva-Bharati** (Tagore) and the national college stream around Jamia.
+- Banaras Hindu University and Aligarh Muslim University as centres are taught with the educational centres list.
 - This movement is **not** the same as Wardha Basic Education (1937).
 
 > **Exam note:** National education ↔ **Swadeshi after 1905**. Wardha ↔ **1937**.
@@ -175,17 +182,19 @@ D. C A B D
 
 ## 7.8 Educational Centres
 
-- **Calcutta Madrasa, 1781** — **Warren Hastings**.
-- **Sanskrit College, Banaras, 1791** — **Jonathan Duncan**.
-- **Fort William College, 1800** — **Wellesley** (to train Company civilians).
-- **Hindu College, Calcutta, 1817** — later Presidency College; **David Hare** and Indian patrons.
-- **Sanskrit College, Calcutta** — Vidyasagar was Principal (Topic 6).
-- **Universities, 1857** — Calcutta, Bombay, Madras.
-- **Punjab University, 1882**; **Allahabad University, 1887**.
-- **MAO College, Aligarh, 1875** (Sir Syed) → **AMU, 1920**.
-- **Central Hindu College, Banaras** (Annie Besant) → **BHU, 1916** (Madan Mohan Malaviya).
-- **Muir Central College, Allahabad** — later linked to Allahabad University; Archbold served here.
-- **Government College, Dacca** — also in Archbold’s career.
+- **Warren Hastings** founded the **Calcutta Madrasa in 1781**.
+- **Jonathan Duncan** founded the **Sanskrit College, Banaras, in 1791**.
+- **Wellesley** founded **Fort William College in 1800** to train Company civilians.
+- **Hindu College, Calcutta**, opened in **1817**. It later became Presidency College. **David Hare** and Indian patrons backed it.
+- **Vidyasagar** was Principal of the **Sanskrit College, Calcutta**.
+- The universities of **Calcutta, Bombay and Madras** were founded in **1857**.
+- **Punjab University** dates to **1882**.
+- **Allahabad University** dates to **1887**.
+- **Sir Syed** founded **MAO College, Aligarh, in 1875**. It became **AMU in 1920**.
+- **Annie Besant** founded **Central Hindu College, Banaras**.
+- **Madan Mohan Malaviya** developed it into **BHU in 1916**.
+- **Muir Central College, Allahabad**, later linked to Allahabad University. Archbold served here.
+- **Government College, Dacca**, is also in Archbold’s career.
 
 > **Exam note:** Duncan = Banaras Sanskrit College, **not** Asiatic Society. Jones founded the Society.
 
@@ -195,7 +204,7 @@ D. C A B D
 
 - **Jonathan Duncan** founded Sanskrit College, Banaras (**1791**). He did **not** found the Asiatic Society.
 - **David Hare** helped Hindu College / secular education in Calcutta.
-- **J.E.D. Bethune** opened a girls’ school in Calcutta (Topic 6 match).
+- **J.E.D. Bethune** opened a girls’ school in Calcutta.
 - **William A.J. Archbold** was Principal of **MAO College, Aligarh**, of **Government College, Dacca**, and of **Muir Central College, Allahabad**.
 - He was **not** Principal of **Lahore College**. That is the **incorrect** statement in **2024 Q136**.
 
@@ -273,11 +282,13 @@ D. (A) is false, but (R) is true
 ## 7.11 Beginning of Newspapers
 
 - The first newspaper in India is **Hicky’s Bengal Gazette (1780)**, Calcutta, by **James Augustus Hicky**.
-- Early official / Company papers followed; the Company often restricted the press.
+- Early official and Company papers followed.
+- The Company often restricted the press.
 - Indian-owned papers grew in the nineteenth century in Bengali, Persian, Marathi, Hindi and English.
-- **Vernacular Press Act, 1878** (**Lytton**) gagged Indian-language papers. **Ripon repealed** it.
+- **Vernacular Press Act, 1878** was passed by **Lytton**. It gagged Indian-language papers.
+- **Ripon repealed** it.
 - **Amrita Bazar Patrika** turned from Bengali to English so that the Act would not cover it.
-- The **Press Act of 1910** and later wartime rules are later nationalist-era controls (detail in later topics if asked with Gandhi/Tilak cases).
+- The **Press Act of 1910** and later wartime rules are nationalist-era controls.
 
 > **Exam note:** First paper = **Hicky, 1780**. Vernacular Press Act = **Lytton 1878**, not Ripon.
 
@@ -358,7 +369,8 @@ D. A-1, B-2, C-3, D-4
 | Amrita Bazar Patrika | Ghosh brothers (Sisir / Motilal Ghosh line) |
 | The Hindu | G. Subramania Iyer (founding line) |
 
-- Editor questions are usually **person ↔ paper**. Place questions for UP papers sit in §7.12.
+- Editor questions are usually **person ↔ paper**.
+- Place questions for UP papers sit in the newspaper table above.
 - Do not give Tilak’s Kesari the Gorakhpur slot.
 
 > **Exam note:** Tilak = Kesari (Pune). Gandhi = Young India / Harijan. Besant = New India.

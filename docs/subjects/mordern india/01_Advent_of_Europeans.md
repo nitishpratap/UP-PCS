@@ -55,10 +55,12 @@ Third Carnatic War  1758–63   Wandiwash 1760; Treaty of Paris 1763
 
 ## 1.1 Arrival of European Companies
 
-- Europeans first came for **spices** (pepper, cloves, cinnamon, nutmeg), then for **cotton, silk, indigo and saltpetre**.
+- Europeans first came for **spices**, especially pepper, cloves, cinnamon and nutmeg.
+- They later sought **cotton, silk, indigo and saltpetre** as well.
 - Early presence was **coastal and commercial**. It was not pan-India political rule.
 - After the Ottoman rise, overland and Red Sea routes became costlier because of **middlemen**.
-- **Bartolomeu Dias** rounded the Cape of Good Hope in **1488**. **Vasco da Gama** reached India in **1498**.
+- **Bartolomeu Dias** rounded the Cape of Good Hope in **1488**.
+- **Vasco da Gama** reached India in **1498**.
 - Mercantilist states wanted bullion and a direct sea route. They gave **royal monopoly** to chartered companies.
 - Better ships, the compass and new maps made the long voyage possible.
 - With the Portuguese, **trade and Catholic mission** often travelled together.
@@ -89,23 +91,25 @@ Third Carnatic War  1758–63   Wandiwash 1760; Treaty of Paris 1763
 
 ## 1.2 Portuguese in India
 
-**First sea power** to build a lasting Indian Ocean network of forts (not a Gangetic land empire).
+**First European sea power in India** | crown **Estado da Índia** | forts, not a Gangetic land empire
 
-- **Vasco da Gama** reached **Calicut** in **1498** (full card → §1.4). Early bases: **Cochin, Cannanore, Goa, Daman, Diu**.
-- **Afonso de Albuquerque** captured **Goa in 1510** — capital of **Estado da Índia** (governors → §1.3).
-- **Cartaze** = Portuguese pass/tax on Indian Ocean ships; refusal meant seizure.
-- Choke-point nodes: **Hormuz** and **Malacca** — sea-lane control over inland conquest.
-- **Hooghly** (Bengal) traded textiles, saltpetre, slaves. **Shah Jahan expelled the Portuguese in 1632**.
-- Later holdings: **Goa, Daman, Diu**. Never ruled Delhi or Agra.
-- **St Francis Xavier** / Goan churches = cultural lock; exams still test **Goa = Portuguese**.
+- **Vasco da Gama** reached **Calicut** in **1498**.
+- Early Portuguese bases included **Cochin** and **Cannanore** on the Malabar coast.
+- **Afonso de Albuquerque** captured **Goa in 1510**. Goa became the capital of **Estado da Índia**.
+- Later western holdings included **Daman** and **Diu**.
+- A **cartaze** was a Portuguese sea-pass. Indian Ocean ships had to buy it. Refusal meant seizure of the ship.
+- **Hormuz** and **Malacca** were choke-points. The aim was control of sea lanes, not conquest of the Deccan interior.
+- At **Hooghly** in Bengal the Portuguese traded textiles, saltpetre and slaves.
+- **Shah Jahan expelled them from Hooghly in 1632**. That ended the Bengal foothold.
+- They never ruled Delhi or Agra. By the later period the main Indian holdings were **Goa, Daman and Diu**.
+- **St Francis Xavier** and Goan churches are a cultural lock. Exams still test **Goa = Portuguese**.
 
-- Why they declined: Dutch and English navies broke the **cartaze** monopoly in the 17th century.
+- Dutch and English navies broke the **cartaze** monopoly in the 17th century.
 - Manpower was small, so they could not garrison a vast Asian network.
 - Forts from East Africa to Malacca stretched them thin.
-- **Shah Jahan’s expulsion from Hooghly in 1632** ended the Bengal foothold.
 - Union with Spain (**1580–1640**) dragged Portugal into Spain’s wars, including against the Dutch.
 
-> **Exam note:** Rise = **Goa 1510**; Bengal fall = **Hooghly 1632**. Gama did **not** take Goa.
+> **Exam note:** Rise = **Goa 1510**. Bengal fall = **Hooghly 1632**. Gama did **not** take Goa.
 
 ---
 
@@ -116,9 +120,12 @@ These were **crown** officers at Goa, not directors of a joint-stock company.
 - **Francisco de Almeida** was the first **Portuguese Viceroy (1505)**.
 - His **Blue Water Policy** meant control of **sea lanes**, not conquest of the Deccan interior.
 - He won the naval battle of **Diu in 1509** against an Egyptian–Gujarat fleet.
-- **Afonso de Albuquerque** (Governor **1509–15**) captured **Goa in 1510** and made it the capital of Estado da Índia.
-- He also strengthened **Malacca** and **Hormuz** and encouraged mixed marriages to hold the forts.
-- **Nuno da Cunha** belongs to a later expansion phase (Diu / Bassein).
+- **Afonso de Albuquerque** was Governor **1509–15**.
+- He captured **Goa in 1510** and made it the capital of Estado da Índia.
+- He also strengthened **Malacca** and **Hormuz**.
+- He encouraged mixed marriages to hold the forts with a settled population.
+- **Nuno da Cunha** governed later (**1529–38**).
+- He secured **Bassein (1534)** and **Diu (1535)** from the Gujarat coast.
 
 > **Exam note:** First Viceroy = **Almeida (1505)**, not Albuquerque. Albuquerque is the consolidator who took **Goa**.
 
@@ -128,10 +135,14 @@ These were **crown** officers at Goa, not directors of a joint-stock company.
 
 **Portuguese navigator** under **King Manuel I**.
 
-- Rounded the **Cape of Good Hope**; reached **Calicut (Kozhikode) in May 1498**; met the **Zamorin (Samoothiri)**.
-- Opened a viable **all-sea Atlantic route** — did **not** “discover India” (Afro-Asian trade already existed).
-- Later voyage (**1502**) used force more openly. Died at **Cochin, 1524** (later Viceroy assignment).
-- Did **not** capture Goa.
+- He rounded the **Cape of Good Hope**.
+- He reached **Calicut (Kozhikode) in May 1498**.
+- He met the **Zamorin (Samoothiri)** of Calicut.
+- He opened a viable **all-sea Atlantic route** for Portugal.
+- He did **not** “discover India”. Afro-Asian trade already existed.
+- A later voyage in **1502** used force more openly.
+- He died at **Cochin in 1524**, after a later viceroy assignment.
+- He did **not** capture Goa.
 
 > **Exam note:** One-line lock — **Gama + Calicut + 1498**.
 
@@ -139,7 +150,11 @@ These were **crown** officers at Goa, not directors of a joint-stock company.
 
 ## 1.5 Dutch in India
 
-**VOC** chartered **1602** (United Provinces). Could wage war, coin money, make treaties. Priority: **spices + Coromandel/Bengal textiles**, then Indonesia over an Indian land empire.
+**VOC** | chartered **1602** | United Provinces (Dutch)
+
+- The VOC could wage war, coin money and make treaties.
+- Its first Indian interest was **spices**, then **Coromandel and Bengal textiles**.
+- It later put more weight on **Indonesia** than on an Indian land empire.
 
 | Factory | Region |
 |---------|--------|
@@ -148,9 +163,10 @@ These were **crown** officers at Goa, not directors of a joint-stock company.
 | **Masulipatnam** | Golconda / Deccan textiles |
 | **Chinsurah** | Bengal (saltpetre, silk) |
 
-- Broke Portuguese monopoly in Ceylon, Malacca, Spice Islands.
-- **Battle of Colachel (1741):** Travancore under **Marthanda Varma** defeated the Dutch.
-- **Battle of Bedara / Biderra / Chinsurah (1759):** **English defeated Dutch** in Bengal → Dutch political challenge there collapsed.
+- The Dutch broke the Portuguese monopoly in Ceylon, Malacca and the Spice Islands.
+- At the **Battle of Colachel (1741)**, Travancore under **Marthanda Varma** defeated the Dutch.
+- At the **Battle of Bedara** (also called Biderra or Chinsurah) in **1759**, the **English defeated the Dutch** in Bengal.
+- After Bedara the Dutch political challenge in Bengal collapsed.
 
 > **Exam note:** **Chinsurah = Dutch**, **Chandernagore = French**. VOC ≠ 1600.
 
@@ -172,7 +188,7 @@ D. I, II, III, IV
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Shakarkheda (1724) → **Bedara 1759 (Anglo-Dutch)** → Porto Novo (1781) → Mudki (1845). Bedara is the Topic 1 lock; other battles belong to later wars.
+**Ans: B** — Shakarkheda (1724) → **Bedara 1759 (Anglo-Dutch)** → Porto Novo (1781) → Mudki (1845). Bedara is the Advent lock; the other battles belong to later wars.
 
 </details>
 
@@ -180,21 +196,21 @@ D. I, II, III, IV
 
 ## 1.6 English East India Company
 
-**Queen Elizabeth I** charter: **31 December 1600**. London merchants’ East Indies monopoly.
+**Queen Elizabeth I** charter | **31 December 1600** | London merchants’ East Indies monopoly
 
-| Year | Event |
-|------|-------|
-| **1600** | EIC charter |
-| **1608** | **William Hawkins** on *Hector* at **Jahangir’s** court; knew **Turkish** |
-| **1612** | **Battle of Swally** (vs Portuguese near Surat); first permanent **Surat factory** |
-| **1614** | **Nicholas Downton** (fits 2021 traveller list) |
-| **1615–19** | **Sir Thomas Roe** — ambassador of **James I** to Jahangir; farmans, not conquest |
-| **1640** | **Madras / Fort St George** (land 1639, Francis Day) |
-| **1661 / 1668** | Bombay: Portuguese dowry of **Catherine of Braganza** to Charles II (**1661**); **leased to EIC 1668** |
-| **~1690s** | Calcutta / **Fort William** (Job Charnock 1690; zamindari 1698) |
-
-- **Ralph Fitch (1585–91)** visited **before** the EIC factory phase — earliest in the 2021 list.
-- Power stayed commercial until Carnatic Wars and Bengal conquests (Topic 2).
+- **Ralph Fitch (1585–91)** visited **before** the EIC factory phase. He is the earliest name in the 2021 traveller list.
+- **William Hawkins** reached Jahangir’s court in **1608** on the *Hector*. He knew **Turkish**.
+- In **1612** the English defeated the Portuguese at the **Battle of Swally** near Surat.
+- The first permanent English **Surat factory** followed in **1612**.
+- **Nicholas Downton** belongs to **1614**. He appears in the 2021 traveller list.
+- **Sir Thomas Roe** was ambassador of **James I** to Jahangir in **1615–19**. He sought farmans, not conquest.
+- **Francis Day** obtained the Madras grant in **1639**. **Fort St George** followed in **1640**.
+- **Bombay** came to Charles II in **1661** as the Portuguese dowry of **Catherine of Braganza**.
+- The Crown **leased Bombay to the EIC in 1668**.
+- **Job Charnock** settled at Calcutta in **1690**. The zamindari of the three villages followed in **1698**.
+- **Fort William** became the Bengal nucleus.
+- Company power stayed commercial through most of the 17th century.
+- Political empire in India came later, after the Carnatic Wars and the Bengal conquests.
 
 > **Exam note:** Hawkins arrived **1608**, not 1611 (2023 Q31 stmt 1 is false). Roe is James I’s ambassador; Hawkins is an EIC captain.
 
@@ -246,13 +262,18 @@ D. III, II, IV and I
 
 ## 1.7 French East India Company
 
-Founded **1664** under **Louis XIV** and **Colbert** — last of the five syllabus companies.
+Founded **1664** | **Louis XIV** and **Colbert** | last of the five syllabus companies
 
-- **François Martin** developed **Pondicherry in 1674** — French HQ in India.
-- Other settlements: **Chandernagore** (Bengal), **Karaikal, Mahe, Yanam**.
-- **Joseph François Dupleix**, Governor **1742–1754**: used Indian succession disputes as force-multipliers.
-- Anglo-French fighting in India mirrored **War of Austrian Succession** and **Seven Years’ War** (cards → §1.13–1.15).
-- Dupleix **recalled 1754**. Political hopes ended after **Wandiwash 1760** and **Paris 1763**.
+- **François Martin** developed **Pondicherry in 1674**. It became the French headquarters in India.
+- **Chandernagore** was the French settlement in Bengal.
+- **Karaikal** was French on the Tamil coast.
+- **Mahe** was French on the Malabar coast.
+- **Yanam** was French on the Andhra coast.
+- **Joseph François Dupleix** was Governor **1742–1754**.
+- He used Indian succession disputes to make up for weaker French trade.
+- Anglo-French fighting in India followed the **War of Austrian Succession** and the **Seven Years’ War**.
+- Dupleix was **recalled in 1754**.
+- French political hopes ended after **Wandiwash 1760** and the **Treaty of Paris 1763**.
 
 > **Exam note:** Pondicherry = **French**, not Dutch. French company ≠ 1600.
 
@@ -260,12 +281,14 @@ Founded **1664** under **Louis XIV** and **Colbert** — last of the five syllab
 
 ## 1.8 Danish Settlements
 
-Minor player; exams ask **settlement ID**, not Danish politics.
+Minor player | exams ask **settlement identity**, not Danish politics
 
-- Danish company **1616**.
-- **Tranquebar (Tharangambadi), 1620** — **Fort Dansborg** on the Tamil Nadu Coromandel coast.
-- **Serampore (Frederiksnagore)** in Bengal — missions, press, education under Danish protection.
-- Sold Tranquebar to the British in **1845**.
+- The Danish company was founded in **1616**.
+- **Tranquebar (Tharangambadi)** was founded in **1620**.
+- **Fort Dansborg** stood there on the Tamil Nadu Coromandel coast.
+- **Serampore (Frederiksnagore)** was the Danish settlement in Bengal.
+- Missions, a press and education grew there under Danish protection.
+- Denmark sold Tranquebar to the British in **1845**.
 
 > **Exam note:** **Tranquebar = Danish**. Serampore is not French.
 
@@ -298,7 +321,8 @@ Minor player; exams ask **settlement ID**, not Danish politics.
 | **Tranquebar** | Danish | Fort Dansborg |
 | **Serampore** | Danish | Bengal missions |
 
-Early centres sat under **Mughal or local authority** — a trading centre ≠ sovereignty. Madras, Bombay, Calcutta later became Presidency capitals.
+- Early centres sat under **Mughal or local authority**. A trading centre was not the same as sovereignty.
+- **Madras, Bombay and Calcutta** later became Presidency capitals.
 
 > **Exam note:** Coromandel four-power strip: **Madras (E) · Pulicat (D) · Pondicherry (F) · Tranquebar (Da)**. Bengal pair: **Chinsurah (D) vs Chandernagore (F)**.
 
@@ -306,9 +330,10 @@ Early centres sat under **Mughal or local authority** — a trading centre ≠ s
 
 ## 1.10 Factories and Presidencies
 
-- **Factory** = trading post (warehouse + **factors**/agents + guards). **Not** a modern industrial mill.
-- Early factories needed **local permission or Mughal farman**.
-- Path: factory → fortified town → **Presidency HQ** → territorial administration.
+- A **factory** was a trading post. It had a warehouse, **factors** (agents) and guards.
+- It was **not** a modern industrial mill.
+- Early factories needed **local permission or a Mughal farman**.
+- The usual path was factory, then fortified town, then **Presidency headquarters**, then territorial administration.
 
 | Presidency | Nucleus |
 |------------|---------|
@@ -316,8 +341,8 @@ Early centres sat under **Mughal or local authority** — a trading centre ≠ s
 | **Bombay** | Western island base (from 1668) |
 | **Bengal** | Calcutta / Fort William |
 
-- India’s **first Municipal Corporation: Madras, 1687–88**.
-- Presidency system did **not** exist in 1600; it matured as settlements expanded.
+- India’s **first Municipal Corporation** was at **Madras in 1687–88**.
+- The Presidency system did **not** exist in 1600. It matured as settlements expanded.
 
 > **Exam note:** First Municipal Corporation = **Madras**, not Calcutta / Bombay / Delhi.
 
@@ -344,25 +369,34 @@ D. Delhi
 
 ## 1.11 British–French Rivalry / Anglo-French Conflict
 
-- The main theatre was the **Coromandel Coast** — **Madras** versus **Pondicherry** — between **1746 and 1763**.
-- UPPCS may call a Carnatic War an **Anglo-French War**. The **Second Anglo-French War** in **2025 Q26** is the **Second Carnatic War (c.1749–54)**.
-- The French entered Indian politics late. **Dupleix** used succession disputes to make up for weaker trade.
-- European wars spilled over: the **War of Austrian Succession** and the **Seven Years’ War** created Indian theatres.
+- The main theatre was the **Coromandel Coast** between **1746 and 1763**.
+- **Madras** was the English base. **Pondicherry** was the French base. They sat close together and wanted the same textile trade.
+- UPPCS may call a Carnatic War an **Anglo-French War**.
+- The **Second Anglo-French War** in **2025 Q26** is the **Second Carnatic War (c.1749–54)**.
+- The French entered Indian politics late. Their trade was weaker than English trade.
+- **Dupleix** tried to close that gap by backing Indian claimants in succession disputes.
+- His method was to put a client on the throne and take territory or revenue in return.
+- The English answered by backing the rival claimant. **Muhammad Ali** in the Carnatic is the exam example.
+- They also used sea power and struck political centres such as **Arcot in 1751**.
+- European wars spilled into India. The **War of Austrian Succession** opened the First Carnatic War. The **Seven Years’ War** opened the Third.
 - A weakening Mughal centre left Nawab and Nizam successions open to intervention.
-- The English had a stronger navy and more money. Long wars favoured the side that could reinforce by sea.
-- **Dupleix’s method** was to back a claimant, put him on the throne, and take territory or revenue.
-- The English backed the rival (for example **Muhammad Ali**), used sea power, and struck political centres such as **Arcot in 1751**.
-- **Dupleix was recalled in 1754**. **Lally** later alienated Indian allies.
+- The English had a stronger navy and more company money. Long wars favoured the side that could send ships and troops from home.
+- **Dupleix was recalled in 1754**.
+- **Count de Lally** later alienated Indian allies.
 - After **Plassey 1757** the English also had Bengal’s resources. France had no equal Indian revenue base.
-- After **1763** France kept **factories and enclaves**, not an Indian empire.
+- After **1763** France kept **factories and enclaves**. It did not keep an Indian empire.
 
-> **Exam note:** Peak rivalry is **18th century**, not 1498. Full war cards → §1.12–1.15.
+> **Exam note:** Peak rivalry is the **18th century**, not 1498. The three war cards follow this section.
 
 ---
 
 ## 1.12 Carnatic Wars
 
-Three Anglo-French wars in South India (**1746–1763**) with Indian allies. Theatre = **Carnatic (Arcot)** on the Coromandel plain, plus **Hyderabad/Deccan** succession. These wars decided **which company** would dominate Coromandel politics — not “Carnatic independence.”
+**Three Anglo-French wars** | South India **1746–1763** | Indian allies on both sides
+
+- The theatre was the **Carnatic**, the coastal plain around **Arcot** on the Coromandel.
+- Hyderabad succession pulled both companies into the Deccan as well.
+- The wars decided **which company** would dominate Coromandel politics. They were not a fight for “Carnatic independence.”
 
 | War | Years | European link | End marker |
 |-----|-------|---------------|------------|
@@ -389,15 +423,21 @@ Three Anglo-French wars in South India (**1746–1763**) with Indian allies. The
 
 ## 1.13 First Carnatic War, 1746–1748
 
-**European link:** War of Austrian Succession. **Nawab:** Anwaruddin Khan.
+**War of Austrian Succession** | Nawab **Anwaruddin Khan** | ends with **Aix-la-Chapelle 1748**
 
-- Commercial jealousy: **Madras (English)** vs **Pondicherry (French)**.
-- French (La Bourdonnais + Dupleix) captured **Madras in 1746**. Dupleix and La Bourdonnais then quarrelled over its fate.
-- **Battle of Adyar / St Thome (1746):** a smaller French-trained force beat a much larger Nawabi army — lesson that European infantry could decide Indian battles.
-- **Treaty of Aix-la-Chapelle (1748):** status quo; **Madras returned to the English**; French kept Pondicherry.
-- Territorially inconclusive; politically it taught both sides to use **Indian alliances + drilled troops**.
+- **Madras** (English) and **Pondicherry** (French) sat on the same Coromandel coast and competed for the same piece-goods trade.
+- When Britain and France went to war in Europe, that quarrel reached India even though the two companies had no equal local dispute of their own.
+- In **1746** a French fleet under **La Bourdonnais** joined **Dupleix** and captured **Madras**.
+- Dupleix wanted to keep Madras as a French prize. La Bourdonnais wanted to ransom it back to the English.
+- The two men quarrelled. La Bourdonnais left the coast.
+- Nawab **Anwaruddin Khan** ordered the French to restore Madras. They refused.
+- At the **Battle of Adyar**, also called **St Thome (1746)**, a smaller French-trained infantry force defeated a much larger Nawabi army near Madras.
+- The battle showed that drilled European-style troops could beat a traditional Indian army in the open.
+- The **Treaty of Aix-la-Chapelle (1748)** ended the War of Austrian Succession and therefore ended this war.
+- **Madras was returned to the English**. The French kept Pondicherry.
+- No lasting territory changed hands. Both companies learned to use Indian allies and trained infantry in the next round.
 
-> **Exam note:** Aix-la-Chapelle did **not** give Madras to France. 1763 is the **other** treaty.
+> **Exam note:** Aix-la-Chapelle did **not** give Madras to France. **1763** is the other treaty.
 
 **PYQ — UPPCS Prelims 2025, Q67**
 
@@ -427,17 +467,26 @@ D. Only 1
 
 ## 1.14 Second Carnatic War, c.1749–1754
 
-**Also called:** Second Anglo-French War (UPPCS 2025 Q26). Driven by **Indian succession**, not one European peace crisis.
+**Also called Second Anglo-French War** (UPPCS 2025 Q26) | Indian succession, not a European peace treaty
 
-- **Hyderabad:** after Nizam Asaf Jah I, **Muzaffar Jung** vs **Nasir Jung**.
-- **Carnatic:** **Chanda Sahib** (French) vs **Muhammad Ali** (English).
-- **Siege / defence of Arcot (1751):** **Clive** holds Arcot with a small force — prestige turning point.
-- Prolonged fighting around **Trichinopoly**; Bussy keeps French Deccan influence for a time.
-- **Dupleix recalled to France in 1754** — collapse of peak French political project.
-- **Muhammad Ali** emerges as English-supported Nawab of Carnatic.
-- Comes **before** First Anglo-Mysore War (**1767–69**).
+- This war did not wait for a new European peace crisis. It grew from succession fights in Hyderabad and the Carnatic.
+- After Nizam **Asaf Jah I** died, **Muzaffar Jung** and **Nasir Jung** claimed Hyderabad.
+- In the Carnatic, **Chanda Sahib** claimed the Nawabship with French backing.
+- **Muhammad Ali**, son of Anwaruddin, had English backing.
+- At **Ambur in 1749**, Chanda Sahib and the French defeated and killed Anwaruddin. Chanda Sahib then occupied Arcot.
+- Muhammad Ali took shelter at **Trichinopoly**. The English had to keep him alive if they wanted a Carnatic client.
+- In **1751 Robert Clive** seized and held **Arcot**, Chanda Sahib’s capital, with a small force.
+- The defence pulled French and Chanda Sahib troops away from Trichinopoly.
+- Clive’s stand at Arcot raised English prestige among Indian rulers.
+- Fighting around Trichinopoly dragged on.
+- In the Deccan, **Bussy** kept French influence at Hyderabad for a time, especially under **Salabat Jung**.
+- French directors in Paris disliked the cost of Dupleix’s wars.
+- They recalled **Dupleix in 1754**. **Godeheu** replaced him and sought peace.
+- **Muhammad Ali** remained the English-supported Nawab of the Carnatic.
+- The French political project in the south had peaked and then fallen.
+- This war comes **before** the First Anglo-Mysore War of **1767–69**.
 
-> **Exam note:** Arcot 1751 = **Second** War, not Third. Paris 1763 does **not** end this war.
+> **Exam note:** Arcot **1751** belongs to the **Second** War, not the Third. Paris **1763** does **not** end this war.
 
 **PYQ — UPPCS Prelims 2025, Q26**
 
@@ -469,29 +518,36 @@ D. 2, 1, 3, 4
 
 ## 1.15 Third Carnatic War, 1758–1763
 
-**European link:** Seven Years’ War. **French commander:** Count de Lally.
+**Seven Years’ War** | French commander **Count de Lally** | ends with **Paris 1763**
 
-- French besiege **Madras (1758–59)** and **fail** — strategic setback.
-- Lally’s style alienated Indian allies and French officers.
-- Decisive land battle: **Wandiwash, 22 January 1760** (card → §1.16).
-- **Pondicherry falls 1761** after siege.
-- **Treaty of Paris 1763** (card → §1.17) confirms French **political** defeat; factories/enclaves remain.
-- By then England also had growing **Bengal** resources after **Plassey 1757** (Topic 2).
+- The Seven Years’ War (**1756–63**) reopened Anglo-French fighting in India.
+- **Count de Lally** arrived as French commander. He was a soldier of the Crown, not a company diplomat like Dupleix.
+- The French besieged **Madras in 1758–59** and **failed** to take it. That failure cost time, money and allies.
+- Lally quarrelled with his officers and with Indian allies.
+- **Bussy** was pulled away from Hyderabad, which weakened the French Deccan position.
+- On **22 January 1760**, **Eyre Coote** defeated Lally at **Wandiwash (Vandavasi)**.
+- After Wandiwash the English took remaining French posts.
+- **Pondicherry fell in 1761** after a siege.
+- The **Treaty of Paris (1763)** ended the Seven Years’ War and closed this Indian war.
+- France kept trading factories such as Pondicherry. It could not rebuild an Indian political empire.
+- By then the English also had **Bengal’s resources** after **Plassey 1757**. France had no matching Indian revenue base.
 
-> **Exam note:** Third War trio = **failed Madras siege + Wandiwash 1760 + Paris 1763**. Not 1748.
+> **Exam note:** Third War trio = **failed Madras siege**, **Wandiwash 1760**, **Paris 1763**. Not 1748.
 
 ---
 
 ## 1.16 Battle of Wandiwash, 1760
 
-**22 January 1760** near **Wandiwash (Vandavasi)**, Tamil Nadu — Third Carnatic War.
+**22 January 1760** | **Wandiwash (Vandavasi)**, Tamil Nadu | Third Carnatic War
 
-- **Eyre Coote** (English) defeated **Lally** (French).
-- Conventional pitched battle (infantry, cavalry, artillery).
-- Broke French field power → opened the fall of remaining posts → **Pondicherry 1761**.
-- Anglo-**French**, not Anglo-Mysore / Anglo-Maratha. South India, **not** Bengal.
+- **Eyre Coote** of the English defeated **Count de Lally** of the French.
+- It was a conventional pitched battle of infantry, cavalry and artillery.
+- It broke French field power in the south.
+- Remaining French posts then fell. **Pondicherry** was taken in **1761**.
+- This was an Anglo-**French** battle. It was not Anglo-Mysore and not Anglo-Maratha.
+- It was fought in South India, **not** in Bengal.
 
-> **Exam note:** Commander pair = **Coote vs Lally**. Clive is Arcot/Plassey, not Wandiwash.
+> **Exam note:** Commander pair = **Coote vs Lally**. Clive belongs to Arcot and Plassey, not Wandiwash.
 
 ---
 
@@ -499,9 +555,10 @@ D. 2, 1, 3, 4
 
 Ended the **Seven Years’ War** globally and closed the **Third Carnatic War** in India.
 
-- Confirmed **English political supremacy** vs France in India.
-- France **retained trading factories** (Pondicherry as a commercial foothold) — not a rebuilt Indian empire.
-- After 1763 English attention shifts to Bengal consolidation and later Mysore/Maratha wars (Topic 2).
+- It confirmed **English political supremacy** over France in India.
+- France **retained trading factories**. Pondicherry remained a commercial foothold.
+- France did **not** regain an Indian empire.
+- After 1763 English attention shifted to Bengal consolidation, then later to Mysore and Maratha wars.
 
 | Treaty | Year | Ends | India lock |
 |--------|------|------|------------|
@@ -1376,7 +1433,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Stmt 2 is **Plassey 1757** (Topic 2). Wandiwash = **Coote vs Lally**.
+**Ans: A** — Stmt 2 is **Plassey 1757**. Wandiwash = **Coote vs Lally**.
 
 </details>
 
@@ -1637,10 +1694,10 @@ D. Neither 1 nor 2
 6. **Pondicherry = Dutch / Chinsurah = French** → Pondicherry **French**; Chinsurah **Dutch**; Chandernagore **French**.
 7. **Serampore = French** → **Danish**.
 8. **Aix-la-Chapelle = 1763 / Paris returned Madras** → Aix **1748** (Madras back); Paris **1763**.
-9. **Wandiwash = Plassey / Clive** → Wandiwash **1760**, **Coote vs Lally**; Plassey is Topic 2.
+9. **Wandiwash = Plassey / Clive** → Wandiwash **1760**, **Coote vs Lally**. Plassey is Bengal, 1757.
 10. **Carnatic Wars = Anglo-Mysore** → different enemy and decades (2025 Q26 puts Anglo-French **before** Mysore).
 11. **Factory = industrial mill / first Municipal Corp = Calcutta** → factory = **trading post**; Corp = **Madras 1687–88**.
 12. **Almeida after Albuquerque as first Viceroy** → **Almeida 1505** first.
 13. **Arcot = Third Carnatic War** → Arcot **1751** = **Second** War.
 14. **Muhammad Ali = French client** → Muhammad Ali = **English**; Chanda Sahib = French.
-15. **Advent = British Raj from 1498** → advent = arrival/factories; empire comes later.
+16. **Anwaruddin died in the First Carnatic War** → he was killed at **Ambur 1749**, which opens the **Second** War.

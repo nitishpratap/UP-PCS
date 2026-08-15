@@ -87,9 +87,11 @@ Poverty and Un-British Rule in India = 1901  ← 2021 Q139
 
 - Modern Indian nationalism is the demand for **political rights and self-rule**, not only local caste or regional loyalty.
 - It grew among the English-educated professional class after 1858, then widened in the Swadeshi and Home Rule years.
-- **Political causes:** racial discrimination, Lytton’s reactionary years, the **Ilbert Bill** controversy (1883), and the closed door of the ICS.
-- **Economic causes:** drain of wealth, high land revenue, ruin of handicrafts, and famines under a rich empire.
-- **Social–intellectual causes:** press, railways, a common English-educated public, and socio-religious reform that created a new public sphere.
+- Political causes included racial discrimination and Lytton’s reactionary years.
+- The **Ilbert Bill** controversy of **1883** showed the racial bar in the courts.
+- The closed door of the **ICS** also fed political anger.
+- Economic causes included the drain of wealth, high land revenue, the ruin of handicrafts, and famines under a rich empire.
+- Social and intellectual causes included the press, railways, a common English-educated public, and socio-religious reform.
 - Pre-Congress associations trained leaders in petitions, meetings and the press. Congress in **1885** gave them one all-India annual forum.
 - Early nationalism was **constitutional**. After Partition of Bengal (**1905**) it split into **Moderates** and **Extremists**.
 
@@ -179,7 +181,7 @@ Poverty and Un-British Rule in India = 1901  ← 2021 Q139
 
 **Year:** **1884**  
 **Place:** Madras  
-**Founders (exam circle):** M. Viraraghavachariar, G. Subramania Iyer, P. Ananda Charlu
+- The exam founders are **M. Viraraghavachariar**, **G. Subramania Iyer** and **P. Ananda Charlu**.
 
 - Presidency-level political association for the educated public of Madras.
 - It discussed local government, jobs, and Indian representation.
@@ -195,7 +197,8 @@ Poverty and Un-British Rule in India = 1901  ← 2021 Q139
 
 - Bombay’s elite political association, founded in the **same year** as Congress.
 - It spoke for civic rights, councils and Indian officers in the presidency.
-- Mehta became the Moderate “Lion of Bombay.” Tyabji later became the **first Muslim President** of Congress (**Madras 1887**).
+- Mehta became the Moderate “Lion of Bombay.”
+- Tyabji later became the **first Muslim President** of Congress, at **Madras 1887**.
 - Do not date it in the 1860s. It is **1885**.
 
 > **Exam note:** Bombay Presidency Association **1885** ≠ East India Association **1866**.
@@ -239,8 +242,12 @@ D. 1, 2, 3, 4
 - Hume wanted a yearly gathering of educated Indians so discontent would have a **constitutional outlet**.
 - The session was first thought of for Poona; it was held at **Bombay**.
 - Delegates were lawyers, editors, landlords and professional men from several provinces — an elite start, not a peasant party.
-- Early demands: Indianisation of the **civil service**, simultaneous ICS exams in India and England, expansion of **legislative councils**, cut in military spending, and enquiry into poverty.
-- **Safety Valve Theory:** Lala Lajpat Rai and later R.P. Dutt argued Hume founded Congress to **vent** unrest so that it would not explode. Nationalist historians say Indians used Hume; they were not Hume’s puppets.
+- Early demands included Indianisation of the **civil service**.
+- They asked for simultaneous ICS exams in India and England.
+- They wanted expansion of **legislative councils**, a cut in military spending, and an enquiry into poverty.
+- **Lala Lajpat Rai** and later **R.P. Dutt** argued that Hume founded Congress as a **safety valve**.
+- On this view, Hume wanted to **vent** unrest so that it would not explode.
+- Nationalist historians say Indians used Hume. They were not Hume’s puppets.
 - Congress was meant to meet **once a year**, pass resolutions, and go home. It was not yet a mass party with cadres in every district.
 
 > **Exam note:** First session = **Bombay 1885 + W.C. Bonnerjee + Hume**. First President is **not** Hume, **not** Naoroji, **not** Tilak.
@@ -276,12 +283,15 @@ D. 1, 2, 3, 4
 | **1940** | Ramgarh | **Abul Kalam Azad** |
 | **1946** | Meerut | J.B. Kripalani |
 
-- **2021 Q50:** who **never** presided? **Bal Gangadhar Tilak**. Lajpat Rai, Gokhale and Subhas Bose **did** preside.
+- **2021 Q50** asks who **never** presided.
+- The answer is **Bal Gangadhar Tilak**.
+- Lajpat Rai, Gokhale and Subhas Bose **did** preside.
 - Naoroji is the early leader who presided **three times** (1886, 1893, 1906).
-- **Lucknow Pact is 1916**, not 1911. **2025 Q6:** of partition revoked, capital to Delhi, and Lucknow Pact, only the first two belong to **1911**.
+- **Lucknow Pact is 1916**, not 1911.
+- **2025 Q6** lists partition revoked, capital to Delhi, and Lucknow Pact. Only the first two belong to **1911**.
 - **2024 Q133** later chronology uses **Ramgarh 1940** after Congress ministries resigned in **1939**.
 
-> **Exam note:** Burn **Tilak = never President**. Besant **1917** = first woman; Sarojini **1925** = first **Indian** woman. Gandhi President = **Belgaum only**. Full match drill → Topic 16.
+> **Exam note:** Burn **Tilak = never President**. Besant **1917** is the first woman President. Sarojini **1925** is the first **Indian** woman President. Gandhi’s only presidency is **Belgaum**.
 
 **PYQ — UPPCS Prelims 2021, Q50**
 
@@ -306,11 +316,13 @@ D. Subhash Chandra Bose
 
 ## 9.5 Congress Policies (early years)
 
-- Method: **constitutional agitation** — petitions, the press, speeches, and memorials to Parliament. Schoolbook tag: **prayer, petition, protest**.
-- **Services:** Indianise the ICS; hold exams in India; raise the age limit so Indians could compete.
-- **Councils:** more Indians, more discussion of the budget, a step towards representative government — not yet full Swaraj.
-- **Economy:** attack the **drain**, high military spending, and revenue that ignored famines.
-- **Civil rights:** oppose racial bars in justice and jobs (the Ilbert controversy had already shown the wound).
+- The method was **constitutional agitation**.
+- Leaders used petitions, the press, speeches, and memorials to Parliament.
+- The schoolbook tag is **prayer, petition, protest**.
+- On **services**, they wanted to Indianise the ICS, hold exams in India, and raise the age limit so Indians could compete.
+- On **councils**, they wanted more Indians and more discussion of the budget. This was a step towards representative government, not yet full Swaraj.
+- On the **economy**, they attacked the **drain**, high military spending, and revenue that ignored famines.
+- On **civil rights**, they opposed racial bars in justice and jobs. The Ilbert controversy had already shown the wound.
 - Moderates valued the British connection if it were run on British liberal principles. That is the **“Un-British rule”** complaint: the Raj was not living up to its own ideals.
 - Extremists later said these policies had **no sanction** (no boycott, no mass refusal). Surat **1907** is that fight.
 
@@ -321,12 +333,20 @@ D. Subhash Chandra Bose
 ## 9.6 Moderates (Naram Dal)
 
 - Moderates dominated Congress from **1885** to the early **1900s**.
-- Leaders: **Dadabhai Naoroji, G.K. Gokhale, Pherozeshah Mehta, Surendranath Banerjee** (in this phase), **Dinshaw Wacha**.
-- They believed British rule could **modernise** India — law, railways, English education — if it were just. That is the **providence / modernisation** idea in **2024 Q135 Assertion**.
-- They attacked exploitation as **“Un-British rule”**: a betrayal of British liberty, not a call to end the British connection overnight. That is the **2024 Q135 Reason**.
+- The leading Moderates were **Dadabhai Naoroji**, **G.K. Gokhale**, **Pherozeshah Mehta** and **Dinshaw Wacha**.
+- **Surendranath Banerjee** also belongs to this phase.
+- They believed British rule could **modernise** India through law, railways and English education, if it were just.
+- That is the **providence / modernisation** idea in **2024 Q135 Assertion**.
+- They attacked exploitation as **“Un-British rule.”**
+- That meant a betrayal of British liberty, not a call to end the British connection overnight.
+- That is the **2024 Q135 Reason**.
 - **A is true and R is true, but R does not explain A.** Belief in providential modernisation is not *caused* by the Un-British-rule slogan; they are two related Moderate ideas. Answer: **Both true; R is not the correct explanation**.
-- Methods: facts, books, budget speeches, British friends in Parliament. Mass boycott was not their first weapon.
-- **Gokhale** is the stock Moderate: **Servants of India Society (1905)**, Banaras President **1905**, Gandhi later called him teacher.
+- Their methods were facts, books, budget speeches, and British friends in Parliament.
+- Mass boycott was not their first weapon.
+- **Gokhale** is the stock Moderate.
+- He founded the **Servants of India Society in 1905**.
+- He was Congress President at **Banaras in 1905**.
+- Gandhi later called him his political teacher.
 - After **1905** Partition, Extremists said Moderate methods had failed. **Surat 1907** split the two camps. **Lucknow 1916** brought them back together.
 
 > **Exam note:** 2024 Q135 = **Both true; R does not explain A**. Moderates criticised the drain; they were not blind loyalists.
@@ -359,12 +379,21 @@ D. (A) is true, but (R) is false.
 ## 9.7 Extremists (Garam Dal)
 
 - Extremists rose as Partition of Bengal (**1905**) and the limits of petition politics became clear.
-- The triad is **Lal–Bal–Pal**: **Lala Lajpat Rai** (Punjab), **Bal Gangadhar Tilak** (Maharashtra), **Bipin Chandra Pal** (Bengal). **Aurobindo Ghosh** is the Bengal intellectual of the same camp.
-- Methods: **Swadeshi, boycott** of foreign goods, **national education**, and **passive resistance**. Swaraj was stated as a right, not a reward for loyalty.
-- They used festivals, the vernacular press and volunteers. They still were not, as a group, the bomb-throwing revolutionary stream (that is Topic 11).
+- The triad is **Lal–Bal–Pal**.
+- **Lala Lajpat Rai** stood for Punjab.
+- **Bal Gangadhar Tilak** stood for Maharashtra.
+- **Bipin Chandra Pal** stood for Bengal.
+- **Aurobindo Ghosh** is the Bengal intellectual of the same camp.
+- Their methods were **Swadeshi**, **boycott** of foreign goods, **national education**, and **passive resistance**.
+- Swaraj was stated as a right, not a reward for loyalty.
+- They used festivals, the vernacular press and volunteers.
+- As a group they were still not the bomb-throwing revolutionary stream.
 - At **Surat 1907** Extremists wanted a session in the Extremist line (Lajpat Rai’s name was in the fight). Moderates stuck to **Rash Behari Ghosh**. The session broke. Two Congresses existed in practice until **1916**.
-- **Lucknow 1916:** **Ambika Charan Majumdar** presided. Moderates and Extremists **reunited**. The same session produced the **Lucknow Pact** with the Muslim League (separate electorates accepted as a bargain).
-- Home Rule (**1916**) under Tilak and Besant carried Extremist energy into a new form. Full Home Rule card is Topic 12.
+- At **Lucknow in 1916**, **Ambika Charan Majumdar** presided.
+- Moderates and Extremists **reunited**.
+- The same session produced the **Lucknow Pact** with the Muslim League.
+- Separate electorates were accepted as a bargain.
+- **Home Rule in 1916** under Tilak and Besant carried Extremist energy into a new form.
 
 > **Exam note:** Surat **1907** = split. Lucknow **1916** = reunion + League pact. Lucknow Pact is **not 1911**.
 
@@ -379,8 +408,12 @@ D. (A) is true, but (R) is false.
 
 - Tilak taught at Fergusson College and worked with the **Deccan Education Society (1884)** before full-time politics.
 - He turned **Ganapati Utsav (1893)** and **Shivaji festival (1895)** into public political schools.
-- He **opposed** the **Age of Consent Act, 1891**. **Behramji Malabari** advocated the Act; Tilak’s Extremist wing did **not** support it (**2024 Q17**: statement 2 false).
-- He was jailed for sedition (**1897**, after the Chapekar context) and again in **1908**; he spent **1908–14 in Mandalay**. There he wrote ***Gita Rahasya*** (full book questions live in Topic 10).
+- He **opposed** the **Age of Consent Act, 1891**.
+- **Behramji Malabari** advocated the Act.
+- Tilak’s Extremist wing did **not** support it. In **2024 Q17**, statement 2 is therefore false.
+- He was jailed for sedition in **1897**, after the Chapekar context, and again in **1908**.
+- He spent **1908–14 in Mandalay**.
+- There he wrote ***Gita Rahasya***.
 - Famous line: **“Swaraj is my birthright and I shall have it.”**
 - **2021 Q50:** he **never presided** over an INC session. He was a giant of the Surat Extremists, not the Congress President.
 - In **1916** he started a **Home Rule League** beside Annie Besant’s league. He died in **1920**, just as Non-Cooperation was being shaped.
@@ -396,12 +429,17 @@ D. (A) is true, but (R) is false.
 **Theory:** **Drain of Wealth**  
 **Book:** ***Poverty and Un-British Rule in India* — 1901**
 
-- Parsi teacher and businessman; first Indian professor at Elphinstone; later a merchant and public man in London.
+- He was a Parsi teacher and businessman.
+- He was the first Indian professor at Elphinstone.
+- Later he was a merchant and public man in London.
 - Founded the **East India Association (1866)** in London.
 - He sat in the British House of Commons as Liberal MP for **Central Finsbury (1892)** — first Indian MP in that House.
-- Drain theory: India’s wealth left as salaries, pensions, home charges, profits and unequal trade. Poverty was **produced**, not natural.
+- Drain theory said India’s wealth left as salaries, pensions, home charges, profits and unequal trade.
+- Poverty was **produced**, not natural.
 - ***Poverty and Un-British Rule in India*** was published in **1901** (**2021 Q139**). “Un-British” here means rule that violates Britain’s own standards — the same Moderate vocabulary as 2024 Q135.
-- Congress President **three times:** **1886 Calcutta, 1893 Lahore, 1906 Calcutta**. At Calcutta 1906 Congress adopted **Swaraj** as a goal in Naoroji’s presidentship.
+- He was Congress President **three times**.
+- The years were **1886 Calcutta**, **1893 Lahore** and **1906 Calcutta**.
+- At Calcutta **1906**, Congress adopted **Swaraj** as a goal in Naoroji’s presidentship.
 - He remained a Moderate in method and a radical in economic diagnosis. Gokhale and the early Congress treated him as the senior economist-statesman.
 
 > **Exam note:** Book year = **1901**, not 1900/1902/1903. East India Association **1866** is his. Three presidentships.
@@ -430,34 +468,66 @@ D. 1903 A.D.
 ## 9.10 Freedom Leaders of the Early Nationalist Phase
 
 ### A.O. Hume
-- Retired ICS; organiser of the **1885** Congress. Not the first President.
+
+- He was a retired ICS officer.
+- He organised the **1885** Congress.
+- He was **not** the first President.
 
 ### W.C. Bonnerjee
-- First President, **Bombay 1885**. Bengali barrister. Not the founder of the Indian Association (that is Surendranath).
+
+- He was the first President, at **Bombay 1885**.
+- He was a Bengali barrister.
+- He did **not** found the Indian Association. That was Surendranath.
 
 ### Gopal Krishna Gokhale
-- Moderate; **Servants of India Society, 1905**; President **Banaras 1905**. Gandhi’s acknowledged political teacher. **Did** preside — so he is a 2021 Q50 distractor.
+
+- He was a Moderate.
+- He founded the **Servants of India Society in 1905**.
+- He was Congress President at **Banaras in 1905**.
+- Gandhi called him his political teacher.
+- He **did** preside. He is therefore a 2021 Q50 distractor.
 
 ### Surendranath Banerjee
-- Indian Association **1876**; National Conference **1883/85**; book ***A Nation in Making***. Called “Surrender Not” in the ICS-age agitation memory. **2020 Q26** maps this book to him.
+
+- He founded the Indian Association in **1876**.
+- He organised the Indian National Conference in **1883** and **1885**.
+- His book is ***A Nation in Making***.
+- He was called “Surrender Not” in the ICS-age agitation memory.
+- **2020 Q26** maps this book to him.
 
 ### Pherozeshah Mehta
-- “Lion of Bombay”; Bombay Presidency Association **1885**; leading Moderate.
+
+- He was called the **Lion of Bombay**.
+- He helped found the Bombay Presidency Association in **1885**.
+- He was a leading Moderate.
 
 ### Badruddin Tyabji
-- Bombay Presidency Association; **first Muslim Congress President, Madras 1887**.
+
+- He belonged to the Bombay Presidency Association.
+- He was the **first Muslim Congress President**, at **Madras 1887**.
 
 ### Lala Lajpat Rai
-- Punjab Extremist (**Lal** of Lal–Bal–Pal). President of the **1920 Calcutta Special** session. Book ***The Story of My Deportation*** (**2020 Q26**). He **did** preside — unlike Tilak.
+
+- He was the Punjab Extremist (**Lal** of Lal–Bal–Pal).
+- He presided over the **1920 Calcutta Special** session.
+- His book is ***The Story of My Deportation*** (**2020 Q26**).
+- He **did** preside, unlike Tilak.
 
 ### Bipin Chandra Pal
-- Bengal Extremist (**Pal** of Lal–Bal–Pal). Swadeshi orator. Not a stock “never president” trap in the 2021 set.
+
+- He was the Bengal Extremist (**Pal** of Lal–Bal–Pal).
+- He was a Swadeshi orator.
+- He is not the stock “never president” trap in the 2021 set.
 
 ### Annie Besant
-- Theosophical leader; Home Rule League **1916**; **first woman Congress President, Calcutta 1917**. Full Home Rule card is Topic 12.
+
+- She was a Theosophical leader.
+- She ran a Home Rule League in **1916**.
+- She was the **first woman Congress President**, at **Calcutta 1917**.
 
 ### Rash Behari Ghosh
-- Moderate President-tag at the broken **Surat 1907** session.
+
+- He was the Moderate President-tag at the broken **Surat 1907** session.
 
 **PYQ — UPPCS Prelims 2020, Q26**
 

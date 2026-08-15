@@ -71,8 +71,9 @@ REGIONAL: Justice Party 1916 Madras — both 2024 Q13 statements true
 ## 12.1 Home Rule Movement
 
 **Demand:** self-government for India **within the British Empire** (Irish Home Rule model)  
-**Years:** **1916–18** (peak); wartime politics after Tilak’s return and Besant’s press campaign  
-**Same season:** **Lucknow Pact 1916** (Congress–League) — different card (Topic 9)
+**Years:** **1916–18** (peak); wartime politics after Tilak’s return and Besant’s press campaign
+
+- The **Lucknow Pact of 1916** belongs to the same season. It is a Congress–League deal, not a Home Rule league.
 
 | Feature | Tilak’s Indian Home Rule League | Besant’s All India Home Rule League |
 |---------|--------------------------------|-------------------------------------|
@@ -84,10 +85,14 @@ REGIONAL: Justice Party 1916 Madras — both 2024 Q13 statements true
 
 - World War I made Britain need Indian men and money. Home Rule said: pay, then give **self-government**.
 - Two leagues, **not one**. Bombay **city** is Besant’s zone, not Tilak’s.
-- **16 June 1917:** Besant, Arundale and Wadia interned. Protest made Home Rule a mass slogan. They were released in September.
-- **20 August 1917 — Montagu Declaration:** gradual development of self-governing institutions; responsible government as the goal. Partly a reply to Home Rule pressure.
-- **December 1917:** Besant becomes **first woman President** of Congress (Calcutta).
-- Decline: Montagu–Chelmsford hope, Tilak abroad, then Gandhi’s mass methods. In **1920** Gandhi was elected president of the All-India Home Rule League and renamed it **Swarajya Sabha**.
+- On **16 June 1917**, Besant, Arundale and Wadia were interned.
+- Protest made Home Rule a mass slogan. They were released in September.
+- The **Montagu Declaration** came on **20 August 1917**.
+- It promised gradual development of self-governing institutions, with responsible government as the goal.
+- It was partly a reply to Home Rule pressure.
+- In **December 1917**, Besant became the **first woman President** of Congress, at Calcutta.
+- The movement declined after Montagu–Chelmsford hope, Tilak’s time abroad, and Gandhi’s mass methods.
+- In **1920** Gandhi was elected president of the All-India Home Rule League and renamed it **Swarajya Sabha**.
 - **2023 Q47:** among Home Rule, Khilafat, Jallianwala and Moplah, Home Rule is the **earliest** (1916). Moplah is last (1921).
 
 > **Exam note:** Tilak = **April 1916 Poona Baptista**. Besant = **September 1916 Madras**. Two leagues.
@@ -115,11 +120,15 @@ D. Moplah Revolt
 
 ## 12.2 Annie Besant
 
-- Irish Theosophist and Indian nationalist. She led Theosophy in India; she did **not** found the Theosophical Society. **H.P. Blavatsky** and **H.S. Olcott** founded it in **New York, 1875**. HQ later **Adyar**.
-- Press: ***New India*** and ***Commonweal*** — Home Rule propaganda (Topic 7 overlap: editor tag).
-- **Central Hindu College, Varanasi, 1898** — later the educational nucleus of **BHU**.
+- She was an Irish Theosophist and an Indian nationalist.
+- She led Theosophy in India. She did **not** found the Theosophical Society.
+- **H.P. Blavatsky** and **H.S. Olcott** founded it in **New York in 1875**.
+- The Indian HQ later sat at **Adyar**.
+- Her papers were ***New India*** and ***Commonweal***. They carried Home Rule propaganda.
+- She founded **Central Hindu College, Varanasi, in 1898**. It later became the educational nucleus of **BHU**.
 - Founded the **All India Home Rule League, September 1916**, Madras/Adyar.
-- Interned **June 1917**; **INC President, December 1917** (first woman).
+- She was interned in **June 1917**.
+- She was **INC President in December 1917**, the first woman to hold the post.
 - She later **opposed Gandhi’s Non-Cooperation** methods. Do not make her a NCM lieutenant.
 
 > **Exam note:** Besant ≠ Blavatsky. Besant = Home Rule 1916 + Congress President 1917 + Central Hindu College.
@@ -128,11 +137,14 @@ D. Moplah Revolt
 
 ## 12.3 B.G. Tilak (Home Rule phase)
 
-- Full Extremist / Kesari / Gita Rahasya / never-President locks live in Topics 9–10. This card is **Home Rule only**.
-- After Mandalay he returned and launched the **Indian Home Rule League, April 1916, Poona**.
-- **Joseph Baptista** = League **President**. **N.C. Kelkar** = **Secretary**. Baptista is **not** the ILO 1919 labour representative (that is **N.M. Joshi**).
-- Famous line: **“Swaraj is my birthright and I shall have it.”**
-- **2021 Q50:** Tilak **never presided** over an INC session (Topic 9 home). He died **1 August 1920**, before Non-Cooperation’s peak.
+- This card is **Home Rule only**.
+- After Mandalay he returned and launched the **Indian Home Rule League** in **April 1916** at **Poona**.
+- **Joseph Baptista** was League **President**.
+- **N.C. Kelkar** was **Secretary**.
+- Baptista is **not** the ILO 1919 labour representative. That is **N.M. Joshi**.
+- His famous line is **“Swaraj is my birthright and I shall have it.”**
+- **2021 Q50:** Tilak **never presided** over an INC session.
+- He died on **1 August 1920**, before Non-Cooperation’s peak.
 
 > **Exam note:** Tilak Home Rule = **April 1916 Poona**. Never Congress President.
 
@@ -140,10 +152,12 @@ D. Moplah Revolt
 
 ## 12.4 National Education
 
-- Swadeshi **National Council of Education (August 1906)** and Bengal National College (Aurobindo) belong to **Topic 11**. Do not redraft them here.
-- Home Rule years used **lectures, pamphlets and the press** as political education — Besant’s leagues were an educative machine.
-- **Central Hindu College (1898)** → **BHU (1916)** is the national-education lock of **this** topic.
-- **Wardha / Basic Education 1937** and **Sargent 1944** are Topic 7. Not Home Rule.
+- The Swadeshi **National Council of Education (August 1906)** and Bengal National College belong with the Swadeshi card.
+- **Aurobindo** was principal of Bengal National College.
+- Home Rule years used **lectures, pamphlets and the press** as political education.
+- Besant’s leagues were an educative machine.
+- **Central Hindu College (1898)** grew into **BHU (1916)**. That is the national-education lock of this topic.
+- **Wardha / Basic Education 1937** and **Sargent 1944** are education-policy locks. They are not Home Rule.
 
 > **Exam note:** NCE **1906** ≠ BHU **1916** ≠ Wardha **1937**.
 
@@ -182,7 +196,8 @@ D. Moplah Revolt
 | **UTUC** | **1949** | UPPCS maps **CPI(M)** (historically RSP; **CITU 1970** is the real CPI(M) centre) |
 | **BMS** | **1955** | **Dattopant Thengadi**; **BJP/RSS** |
 
-- Factory, mill, railway and plantation labour is a **wage** class, not village bonded labour (Topic 8).
+- Factory, mill, railway and plantation labour is a **wage** class.
+- It is not village bonded labour.
 - **2020 Q16:** ILO 1919 labour representative = **N.M. Joshi**, not Wadia, Andrews or Baptista.
 - **2022 Q123:** **BMS–BJP; INTUC–Congress; UTUC–CPI(M); AITUC–CPI**.
 - AITUC is the syllabus **Trade Union Congress**. INTUC is **1947**, not 1920.
@@ -242,9 +257,12 @@ Standard paper code: **4 1 3 2**
 | Forward Bloc | **1939**, Subhas Bose (Topic 14 depth) |
 
 - **WPP** tried to work **inside Congress** and make it more revolutionary and mass-based.
-- **2024 Q14 statement 1** packs “formed in **1927** and given **All-India** form” into one claim. All-India WPP conference is **December 1928**. Statement 1 is the trap. Statement 2 (work within Congress) is true. Answer: **Only 2**.
-- **CPI** is a **separate** communist party. **CSP** is socialists **inside Congress**. Do not merge them.
-- Kanpur Conspiracy is a **communist** case, not HRA Kakori (Topic 11).
+- **2024 Q14** statement 1 packs “formed in **1927** and given **All-India** form” into one claim.
+- The All-India WPP conference is **December 1928**. Statement 1 is the trap.
+- Statement 2 (work within Congress) is true. Answer: **Only 2**.
+- **CPI** is a **separate** communist party.
+- **CSP** is socialists **inside Congress**. Do not merge them.
+- Kanpur Conspiracy is a **communist** case, not HRA Kakori.
 
 > **Exam note:** **2024 Q14 = Only 2**. **2021 Q86 = Ansari out**. WPP All-India ≠ 1927.
 
@@ -300,7 +318,8 @@ D. M.A. Ansari
 
 - CDM prisoners talked socialism in **Nasik Jail (1932–33)**.
 - **Patna conference, May 1934**, then **Bombay, October 1934**, as an all-India party. It was **not** formed in **January 1934**.
-- Leaders: **Acharya Narendra Dev** (UP ideologue), **Jayaprakash Narayan**, **Minoo Masani**, **Ashok Mehta**, **Ram Manohar Lohia** (later socialist stream).
+- Leaders included **Acharya Narendra Dev**, the UP ideologue.
+- **Jayaprakash Narayan**, **Minoo Masani**, **Ashok Mehta** and **Ram Manohar Lohia** belong to this socialist stream.
 - **Jawaharlal Nehru** sympathised with socialism. He did **not formally join** the CSP.
 - **2024 Q131:** statement 1 (January 1934) false; statement 2 (Nehru formally joined) false. Answer: **Neither**.
 - CSP wanted socialist programmes **through Congress**, not a parallel communist party.
@@ -337,11 +356,13 @@ D. Only 2
 
 ### Justice Party (1916, Madras)
 
-- Non-Brahmin movement in the Madras Presidency. Founders’ circle: **C. Natesa Mudaliar**, **Dr T.M. Nair**, **P. Theagaraya Chetty**.
+- It was a Non-Brahmin movement in the Madras Presidency.
+- The founders’ circle included **C. Natesa Mudaliar**, **Dr T.M. Nair** and **P. Theagaraya Chetty**.
 - It called Congress a **Brahmin-dominated** body and opposed it on that ground.
 - It claimed for non-Brahmins the same kind of **communal representation** that **Morley–Minto (1909)** had given to Muslims.
 - **2024 Q13:** **both statements are correct**.
-- Later this stream feeds **Periyar**, Self-Respect, and Dravidian parties. Full Periyar card is Topic 6; **2023 Q44** (left Congress 1925 + Self-Respect) lives there.
+- Later this stream feeds **Periyar**, Self-Respect, and Dravidian parties.
+- Periyar left Congress in **1925** and developed the Self-Respect Movement.
 
 > **Exam note:** Justice Party **1916 Madras**. 2024 Q13 = **Both**.
 
@@ -371,10 +392,10 @@ D. Only 2
 
 ### Other regional tags (one line each)
 
-- **Akali / SGPC** stream in Punjab (Gurdwara reform; later Akali Dal).
-- **Unionist Party** (Punjab) — landed cross-communal provincial party.
-- **Forward Bloc (1939)** — Bose; full card Topic 14.
-- **Self-Respect Movement** — Periyar after **1925**; Topic 6 home.
+- The **Akali / SGPC** stream in Punjab began as Gurdwara reform and later fed Akali Dal.
+- The **Unionist Party** in Punjab was a landed cross-communal provincial party.
+- **Forward Bloc** was founded in **1939** by Subhas Bose.
+- The **Self-Respect Movement** is Periyar’s work after **1925**.
 
 ---
 

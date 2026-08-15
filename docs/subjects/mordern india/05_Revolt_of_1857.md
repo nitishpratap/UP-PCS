@@ -237,7 +237,9 @@ Centre, leader and start-date are in the table above. These are the other places
 
 - There was no all-India plan and no modern central leadership.
 - Weapons and organisation were weaker than the Company’s.
-- Many princes helped the British — **Patiala, Jind, Hyderabad, Nepal**, and Sikh chiefs in Punjab.
+- Many princes helped the British.
+- **Patiala** and **Jind** stood with the Company.
+- **Hyderabad** and **Nepal** also aided them, as did Sikh chiefs in Punjab.
 - The British used the **telegraph** and **railways** to move troops.
 - Large parts of the South and Punjab did not join.
 
@@ -379,12 +381,12 @@ D. 1, 3, 2, 4
 
 Present-day Uttar Pradesh (then the North-Western Provinces plus Awadh) was the **main theatre** of 1857.
 
-- **Meerut** — mass outbreak on **10 May 1857**.
-- **Lucknow** — capital of Awadh; leader **Begum Hazrat Mahal**; rising on **4 June 1857**.
-- **Kanpur** — **Nana Sahib** and **Tantia Tope**.
-- **Bareilly** — **Khan Bahadur Khan**.
-- **Allahabad** — **Maulvi Liaquat Ali**; later the Queen’s Proclamation of **1 November 1858**.
-- **Faizabad** — **Maulvi Ahmadullah Shah**.
+- **Meerut** saw the mass outbreak on **10 May 1857**.
+- **Lucknow** was the capital of Awadh. **Begum Hazrat Mahal** led it. The rising began on **4 June 1857**.
+- **Kanpur** was led by **Nana Sahib**, with **Tantia Tope** in military command.
+- **Bareilly** was led by **Khan Bahadur Khan**.
+- **Allahabad** was led by **Maulvi Liaquat Ali**. The Queen’s Proclamation was later read here on **1 November 1858**.
+- **Faizabad** was led by **Maulvi Ahmadullah Shah**.
 - **Banaras** and Allahabad also saw British counter-terror under officers such as **Neill**. Rebel hold there was shorter.
 
 In this region sepoys, peasants and taluqdars rose together more than in the South or Punjab.

@@ -71,7 +71,8 @@ Mountbatten — 3 June Plan 1947
 - The **Charter Act of 1833** created the **Governor-General of India**. The first holder was **William Bentinck**. The Company ceased to trade.
 - The **Government of India Act, 1858** ended Company rule. The GG also became **Viceroy**. A **Secretary of State** and a Council of India were created in London. The first Viceroy was **Canning**.
 - The **Indian Councils Act, 1861** introduced the **portfolio / departmental** system (**2021 Q13**).
-- The **Independence Act, 1947**: last Viceroy **Mountbatten**; last Governor-General of India **C. Rajagopalachari (1948–50)**.
+- The **Independence Act, 1947** named the last Viceroy as **Mountbatten**.
+- The last Governor-General of India was **C. Rajagopalachari (1948–50)**.
 - Full Act cards for dyarchy, 1935 and the missions belong to **Polity**. This topic only tags **who held the office** and **which reform or war** goes with him.
 
 > **Exam note:** Hastings is the first **Governor-General**, not the first Viceroy. **Canning** is the first Viceroy (**1858**).
@@ -82,12 +83,15 @@ Mountbatten — 3 June Plan 1947
 
 **First Governor-General of Bengal** (Regulating Act 1773). Governor of Bengal from **1772**.
 
-- Ended **Dual Government (1772)** — Company took direct revenue/civil charge.
-- **Rohilla War 1774**; **First Anglo-Maratha War** → **Salbai 1782** (Topic 2).
-- **Banaras / Chait Singh 1781** (Topic 2, UP).
-- **Asiatic Society of Bengal (1784):** **Sir William Jones** founder-president; Hastings **declined** the chair (**2021 Q40**, **2019 Q22**).
-- Impeached in Britain by **Edmund Burke (1788–95)** — **acquitted**.
-- Rival in Council: **Philip Francis**. Did **not** invent Subsidiary Alliance.
+- He ended **Dual Government in 1772**. The Company took direct revenue and civil charge.
+- He fought the **Rohilla War in 1774**.
+- The **First Anglo-Maratha War** ended with the **Treaty of Salbai, 1782**.
+- The **Banaras / Chait Singh** clash belongs to **1781**.
+- The **Asiatic Society of Bengal** was founded in **1784**.
+- **Sir William Jones** was founder-president. Hastings **declined** the chair (**2021 Q40**, **2019 Q22**).
+- He was impeached in Britain by **Edmund Burke** from **1788 to 1795**. He was **acquitted**.
+- His rival in Council was **Philip Francis**.
+- He did **not** invent the Subsidiary Alliance.
 
 > **Exam note:** **Warren ≠ Lord Hastings (1813–23).** Jones founded the Society, not Hastings.
 
@@ -147,10 +151,12 @@ D. (A) is false, but (R) is true
 
 - He introduced the **Subsidiary Alliance from 1798**. The **first** state to accept it was the **Nizam of Hyderabad**.
 - The ruler kept internal administration but lost control of war, peace and other Europeans. He paid a **subsidy** and accepted a **British Resident**.
-- **Fourth Anglo-Mysore War, 1799**: Tipu was killed. **Treaty of Bassein, 1802** pulled the Peshwa into subsidiary alliance. The **Second Anglo-Maratha War (1803–05)** followed (Assaye — Arthur Wellesley).
+- In the **Fourth Anglo-Mysore War, 1799**, **Tipu** was killed.
+- The **Treaty of Bassein, 1802** pulled the Peshwa into subsidiary alliance.
+- The **Second Anglo-Maratha War (1803–05)** followed. **Arthur Wellesley** won at **Assaye**.
 - Wellesley was **recalled in 1805** because the wars cost too much (**2024 Q137**).
 
-> **Exam note:** Wellesley is Subsidiary Alliance, **not** Doctrine of Lapse. Full war stories are in Topic 2.
+> **Exam note:** Wellesley is Subsidiary Alliance, **not** Doctrine of Lapse. The full war stories sit with Company expansion.
 
 **PYQ — UPPCS Prelims 2024, Q137**
 
@@ -227,11 +233,14 @@ D. C A B D
 
 ## 3.7 Lord Dalhousie (1848–1856)
 
-- **Doctrine of Lapse** (Satara 1848, Jhansi 1853, Nagpur 1854) — **adopted heirs not recognised**. Full state list → **Topic 2**.
-- **Awadh 1856** = **misgovernance**, not Lapse (**Wajid Ali Shah**).
-- **Punjab annexed 1849** after Second Anglo-Sikh War.
-- **Wood’s Despatch 1854**; **first railway** (Bombay–Thane **1853**); telegraph; Public Works Department; postage.
-- Widow Remarriage Act **1856** (Dalhousie/Canning overlap — drafted under Dalhousie).
+- He used the **Doctrine of Lapse**. Adopted heirs were **not recognised**.
+- **Satara** lapsed in **1848**. **Jhansi** lapsed in **1853**. **Nagpur** lapsed in **1854**.
+- **Awadh in 1856** was taken for **misgovernance**, not Lapse. The Nawab was **Wajid Ali Shah**.
+- **Punjab was annexed in 1849** after the Second Anglo-Sikh War.
+- **Wood’s Despatch** belongs to **1854**.
+- The **first passenger railway** ran from **Bombay to Thane in 1853**.
+- He also pushed the telegraph, the Public Works Department and postage reform.
+- The Widow Remarriage Act of **1856** was drafted in his time and passed as Canning took over.
 
 > **Exam note:** **2025 Q40** Dalhousie = Lapse. **2024 Q148** — he did **not** accept Lakshmibai’s adopted son.
 
@@ -285,11 +294,13 @@ D. Both 1 and 2
 
 **Last GG of Company + first Viceroy (from 1858).**
 
-- **1857 Revolt** suppressed; called **“Clemency Canning.”**
-- **GOI Act 1858**; **Queen’s Proclamation, 1 Nov 1858** (read at **Allahabad**).
-- **Indian Councils Act 1861** — **portfolio/departmental** system (**2021 Q13**).
-- Universities of Calcutta, Bombay, Madras **1857**; **White Mutiny** of Europeans **1859**.
-- **Indian Penal Code 1860**.
+- He suppressed the **1857 Revolt**. He was called **“Clemency Canning.”**
+- The **Government of India Act 1858** ended Company rule.
+- The **Queen’s Proclamation** was read at **Allahabad** on **1 November 1858**.
+- The **Indian Councils Act 1861** introduced the **portfolio / departmental** system (**2021 Q13**).
+- The universities of **Calcutta, Bombay and Madras** were founded in **1857**.
+- European troops staged the **White Mutiny in 1859**.
+- The **Indian Penal Code** was enacted in **1860**.
 
 > **Exam note:** First **Viceroy** = Canning, not Hastings.
 
@@ -327,9 +338,9 @@ D. Indian Council Act, 1909
 
 ## 3.10 Lord Dufferin (1884–1888)
 
-- **Indian National Congress founded 1885** (Hume) during his tenure.
-- Ridiculed Congress as a **“microscopic minority”** — **2018 Q76** (not Curzon/Minto/Lansdowne).
-- **Third Anglo-Burmese War 1885** — Upper Burma annexed.
+- The **Indian National Congress** was founded in **1885** (Hume) during his tenure.
+- He ridiculed Congress as a **“microscopic minority”** (**2018 Q76**). The trap names are Curzon, Minto and Lansdowne.
+- The **Third Anglo-Burmese War** of **1885** annexed Upper Burma.
 
 **PYQ — UPPCS Prelims 2018, Q76**
 
@@ -363,10 +374,15 @@ D. Lord Lansdown
 
 ## 3.12 Lord Curzon (1899–1905)
 
-- **Partition of Bengal, 16 October 1905** → new province **East Bengal and Assam** (**2019 Q95**).
-- **Ancient Monuments Preservation Act 1904**; **Indian Universities Act 1904**; Police Commission **1902**.
-- **NWFP created 1901**; irrigation; Calcutta Corporation slimmed.
-- Younghusband **Tibet mission 1904**. Resigned **1905** after clash with Kitchener.
+- The **Partition of Bengal** was announced for **16 October 1905**.
+- A new province of **East Bengal and Assam** was created (**2019 Q95**).
+- The **Ancient Monuments Preservation Act** belongs to **1904**.
+- The **Indian Universities Act** also belongs to **1904**.
+- The Police Commission sat in **1902**.
+- The **NWFP** was created in **1901**.
+- He pushed irrigation and slimmed the Calcutta Corporation.
+- The **Younghusband mission** went to **Tibet in 1904**.
+- He resigned in **1905** after a clash with **Kitchener**.
 
 > **Exam note:** Partition = Curzon, not Dalhousie. “Microscopic minority” ≠ Curzon.
 
@@ -407,9 +423,11 @@ D. Neither 1 nor 2
 
 ## 3.14 Lord Hardinge (1910–1916)
 
-- **Delhi Durbar 1911** — capital shifted **Calcutta → Delhi**; **Partition of Bengal annulled**.
-- Bomb on the Viceroy’s procession, **Chandni Chowk, 23 Dec 1912** — **Anushilan Samiti** / Rash Behari Bose network (**2023 Q42**).
-- World War I begins during tenure.
+- The **Delhi Durbar of 1911** shifted the capital from **Calcutta to Delhi**.
+- The **Partition of Bengal was annulled** at the same Durbar.
+- A bomb was thrown at the Viceroy’s procession in **Chandni Chowk on 23 December 1912**.
+- The network is linked to **Anushilan Samiti** and **Rash Behari Bose** (**2023 Q42**).
+- The **First World War** began during his tenure.
 
 **PYQ — UPPCS Prelims 2023, Q42**
 
@@ -436,9 +454,12 @@ D. Yugantar
 
 Longest-serving Viceroy.
 
-- Congress ministries **1937**; resignations **Oct–Nov 1939**.
-- **August Offer, 8 Aug 1940**.
-- **Cripps Mission 1942**; **Quit India 1942**; Bengal Famine **1943**.
+- Congress ministries took office in **1937**.
+- They resigned in **October–November 1939**.
+- The **August Offer** is dated **8 August 1940**.
+- The **Cripps Mission** came in **1942**.
+- **Quit India** followed in **1942**.
+- The **Bengal Famine** belongs to **1943**.
 
 **PYQ — UPPCS Prelims 2024, Q133**
 
@@ -468,10 +489,11 @@ D. 4, 2, 3, 1
 
 ## 3.16 Lord Wavell (1943–1947)
 
-- Took over amid **Bengal Famine**.
-- **Wavell Plan** and **Simla Conference 1945**.
-- INA trials; **Cabinet Mission 1946** still in his tenure; Interim Government.
-- Replaced by Mountbatten **March 1947**.
+- He took over amid the **Bengal Famine**.
+- The **Wavell Plan** and the **Simla Conference** belong to **1945**.
+- The **INA trials** ran in his tenure.
+- The **Cabinet Mission of 1946** still fell in his time, as did the Interim Government.
+- **Mountbatten** replaced him in **March 1947**.
 
 **PYQ — UPPCS Prelims 2025, Q41**
 
@@ -513,7 +535,9 @@ D. 1, 4, 2, 3
 ## 3.18 Lord Hastings (1813–1823) — not Warren
 
 - He was the **Earl of Moira**. He is **not** Warren Hastings.
-- Associated wars (detail in Topic 2): **Anglo-Nepal War 1814–16** and the **Treaty of Sugauli**; the **Pindari** campaign; the **Third Anglo-Maratha War 1817–18**.
+- He fought the **Anglo-Nepal War of 1814–16**. It ended with the **Treaty of Sugauli**.
+- He also ran the **Pindari** campaign.
+- The **Third Anglo-Maratha War of 1817–18** belongs to him.
 
 > **Exam note:** If a question pairs Hastings with Nepal or Sugauli, it is **Lord Hastings**, not Warren.
 
@@ -523,10 +547,12 @@ D. 1, 4, 2, 3
 
 Not a named syllabus person, but **PYQ-critical** with Ripon/Ilbert/Afghan chronology.
 
-- **Delhi Durbar 1877** — Victoria as Empress.
-- **Vernacular Press Act 1878**; **Arms Act 1878**.
-- **Second Anglo-Afghan War 1878–80**; Great Famine **1876–78**.
-- Lowered ICS max age (statutory civil service).
+- The **Delhi Durbar of 1877** proclaimed Victoria as Empress.
+- He passed the **Vernacular Press Act in 1878**.
+- He also passed the **Arms Act in 1878**.
+- The **Second Anglo-Afghan War** ran **1878–80**.
+- The **Great Famine** belongs to **1876–78**.
+- He lowered the maximum age for the ICS.
 
 > **Exam note:** Press Act = Lytton; Ripon **repealed** it. **2025 Q127** — 2nd Afghan before Ilbert.
 
@@ -558,10 +584,13 @@ D. 1, 3, 2, 4
 
 ## 3.20 Lord Chelmsford (1916–1921)
 
-- **Montagu Declaration 1917**; **GOI Act 1919** (dyarchy).
-- **Chamber of Princes (~120 members)** — **2023 Q43**.
-- **Rowlatt Act**; **Jallianwala Bagh, 13 Apr 1919**.
-- **Tagore** returned knighthood (**2022 Q83**); **C. Sankaran Nair** resigned from Viceroy’s Executive Council (**2025 Q135**).
+- The **Montagu Declaration** belongs to **1917**.
+- The **Government of India Act 1919** introduced **dyarchy**.
+- The **Chamber of Princes** had about **120 members** (**2023 Q43**).
+- The **Rowlatt Act** belongs to this tenure.
+- **Jallianwala Bagh** took place on **13 April 1919**.
+- **Tagore** returned his knighthood (**2022 Q83**).
+- **C. Sankaran Nair** resigned from the Viceroy’s Executive Council (**2025 Q135**).
 
 **PYQ — UPPCS Prelims 2023, Q43**
 
@@ -691,7 +720,7 @@ D. Both 1 and 2
 | Wavell | Wavell Plan 1945 |
 | Mountbatten | 3 June Plan 1947 |
 
-### GG ↔ war (pointer to Topic 2)
+### GG ↔ war
 
 | Person | War |
 |--------|-----|
@@ -709,7 +738,7 @@ D. Both 1 and 2
 | Item | Lock |
 |------|------|
 | Queen’s Proclamation | **Allahabad, 1 Nov 1858** (Canning) |
-| Banaras rebellion | Chait Singh **1781** (Warren Hastings) — Topic 2 |
+| Banaras rebellion | Chait Singh **1781** (Warren Hastings) |
 | Awadh annexation | **1856** Dalhousie (misrule) |
 
 ---

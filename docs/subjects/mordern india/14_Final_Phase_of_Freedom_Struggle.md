@@ -121,8 +121,10 @@ D. 1, 4, 2, 3
 
 ## 14.2 Congress Socialist Party
 
-- Full card is **Topic 12**. Here: CSP is a **1934 socialist group inside Congress**, not Bose’s Forward Bloc.
-- **2024 Q131:** not January 1934; **Nehru never formally joined**. Answer **Neither**.
+- CSP is a **1934 socialist group inside Congress**.
+- It is **not** Bose’s Forward Bloc.
+- **2024 Q131:** it was **not** formed in January 1934.
+- **Nehru never formally joined**. The answer is **Neither**.
 
 > **Exam note:** CSP ≠ Forward Bloc. CSP ≠ CPI.
 
@@ -130,13 +132,17 @@ D. 1, 4, 2, 3
 
 ## 14.3 Subhas Chandra Bose
 
-- Congress President **Haripura 1938** and **Tripuri 1939**. After the Gandhi–Bose clash he resigned; **Rajendra Prasad** took the presidency.
-- Founded **Forward Bloc, 1939** (left-nationalist, not CSP).
-- Escaped Calcutta **January 1941** (as “Ziauddin”); Germany, then submarine to SE Asia **1943**.
-- Took over INA from the **Rash Behari Bose / Mohan Singh** stream. Proclaimed **Azad Hind Government, 21 October 1943, Singapore**.
-- Slogans: **“Give me blood and I will give you freedom”**; **Delhi Chalo**; **Jai Hind**.
-- Books: *The Indian Struggle*; *An Indian Pilgrim* (Topic 10).
-- **2021 Q50:** Bose **did** preside over Congress (unlike Tilak).
+- He was Congress President at **Haripura 1938** and **Tripuri 1939**.
+- After the Gandhi–Bose clash he resigned.
+- **Rajendra Prasad** took the presidency.
+- He founded **Forward Bloc in 1939**. It is left-nationalist, not CSP.
+- He escaped Calcutta in **January 1941** as “Ziauddin”.
+- He went to Germany, then by submarine to South-East Asia in **1943**.
+- He took over INA from the **Rash Behari Bose / Mohan Singh** stream.
+- He proclaimed **Azad Hind Government** on **21 October 1943** at **Singapore**.
+- His slogans include **“Give me blood and I will give you freedom”**, **Delhi Chalo**, and **Jai Hind**.
+- His books are *The Indian Struggle* and *An Indian Pilgrim*.
+- **2021 Q50:** Bose **did** preside over Congress, unlike Tilak.
 
 > **Exam note:** Bose = Haripura/Tripuri + Forward Bloc 1939 + INA + Azad Hind Govt 1943.
 
@@ -147,8 +153,10 @@ D. 1, 4, 2, 3
 **Year:** **1939**  
 **Founder:** **Subhas Chandra Bose**
 
-- Left Congress high command after Tripuri but stayed in the nationalist stream. It is **not** the Congress Socialist Party (1934) and **not** the CPI.
-- Aim: uncompromising struggle for independence; later wartime Bose politics run through INA, not through a mass Indian party machine.
+- After Tripuri, Bose left the Congress high command but stayed in the nationalist stream.
+- Forward Bloc is **not** the Congress Socialist Party of 1934 and **not** the CPI.
+- Its aim was uncompromising struggle for independence.
+- Wartime Bose politics then ran through the INA, not through a mass Indian party machine.
 
 > **Exam note:** Forward Bloc **1939 Bose**. CSP **1934** inside Congress.
 
@@ -156,12 +164,19 @@ D. 1, 4, 2, 3
 
 ## 14.5 Second World War and India
 
-- Britain declared India at war in **September 1939** without consulting Congress. **Congress ministries resigned** (late 1939).
-- League observed **Deliverance Day**. **Lahore session 1940** — Pakistan resolution.
-- **Ramgarh Congress, March 1940** — Azad President (Topic 9 session lock).
-- **August Offer, 8 August 1940 (Linlithgow):** expand the Executive Council; war advisory; dominion after the war; **minorities’ veto** on a future constitution. Congress rejected. League rejected (no clear Pakistan).
-- **Individual Satyagraha (October 1940):** **Vinoba Bhave** first; **Nehru** among those jailed. Symbolic, not mass CDM.
-- **2024 Q133:** ministries resign → Ramgarh → August Offer → Cripps.
+- Britain declared India at war in **September 1939** without consulting Congress.
+- **Congress ministries resigned** in late 1939.
+- League observed **Deliverance Day**.
+- The League’s **Lahore session of 1940** passed the Pakistan resolution.
+- **Ramgarh Congress** met in **March 1940**. **Azad** was President.
+- The **August Offer** came on **8 August 1940** under **Linlithgow**.
+- It offered to expand the Executive Council, a war advisory body, and dominion after the war.
+- It also gave **minorities a veto** on a future constitution.
+- Congress rejected it. The League rejected it because Pakistan was not clear.
+- **Individual Satyagraha** began in **October 1940**.
+- **Vinoba Bhave** was first. **Nehru** was among those jailed.
+- It was symbolic, not mass Civil Disobedience.
+- **2024 Q133** order is ministries resign, then Ramgarh, then August Offer, then Cripps.
 
 > **Exam note:** August Offer **1940** ≠ Cripps **1942**. Ministries resign **1939**.
 
@@ -196,10 +211,13 @@ D. 4, 2, 3, 1
 **Who:** Sir **Stafford Cripps** (Labour, War Cabinet)  
 **When:** **March 1942** (after Japan’s advance)
 
-- Offer: **Dominion Status after the war**; a **Constituent Assembly**; any province could **opt out** of the Union.
+- The offer was **Dominion Status after the war**.
+- There would be a **Constituent Assembly**.
+- Any province could **opt out** of the Union.
 - Immediate control of defence stayed with the British.
-- Gandhi’s tag: **“a post-dated cheque on a crashing bank.”**
-- **Congress rejected** (no immediate national government; opt-out threatened unity). **League rejected** (no express Pakistan).
+- Gandhi’s tag is **“a post-dated cheque on a crashing bank.”**
+- **Congress rejected** it. There was no immediate national government, and opt-out threatened unity.
+- **League rejected** it. There was no express Pakistan.
 - Failure of Cripps is the climate of **Quit India**.
 
 > **Exam note:** Cripps = **1942**, not 1946. 1946 = Cabinet Mission.
@@ -210,13 +228,17 @@ D. 4, 2, 3, 1
 
 **Place:** Bombay (Gowalia Tank / August Kranti Maidan)  
 **Slogan:** **Do or Die**  
-**Resolution:** Wardha (July) → Bombay AICC **8 August 1942**
+**Resolution:** Wardha in July, then Bombay AICC on **8 August 1942**
 
 - All top leaders were arrested on **8–9 August**. The movement went **leaderless and underground**.
-- **Aruna Asaf Ali** hoisted the flag at Gowalia Tank. **Usha Mehta** ran **Congress Radio** (Bombay).
-- **Matangini Hazra** (Tamluk, 73, shot with the flag). **Kanaklata Barua** (Assam, Gohpur).
-- **2023 Q48:** **Shanti Ghosh** was **not** a QI woman. She belongs to the **1931** Bengal revolutionary shooting (with Suniti Chaudhuri), not 1942.
-- Parallel governments: **Ballia** (Chittu Pandey, UP), **Tamluk** (Midnapore), **Satara Prati Sarkar** (Nana Patil), Talcher.
+- **Aruna Asaf Ali** hoisted the flag at Gowalia Tank.
+- **Usha Mehta** ran **Congress Radio** from Bombay.
+- **Matangini Hazra** of Tamluk was 73. She was shot with the flag.
+- **Kanaklata Barua** fell at Gohpur in Assam.
+- **2023 Q48:** **Shanti Ghosh** was **not** a Quit India woman.
+- She belongs to the **1931** Bengal revolutionary shooting with Suniti Chaudhuri, not 1942.
+- Parallel governments rose at **Ballia** under **Chittu Pandey** in UP.
+- **Tamluk** in Midnapore, **Satara Prati Sarkar** under **Nana Patil**, and Talcher are the other stock names.
 - Brutal repression. The movement did not immediately throw the British out; it made a negotiated exit after the war unavoidable.
 
 > **Exam note:** QI women = Aruna, Matangini, Kanaklata. **Shanti Ghosh ≠ QI**.
@@ -244,13 +266,19 @@ D. Shanti Ghosh
 
 ## 14.8 Azad Hind Fauj and Azad Hind Government
 
-**First INA:** **Mohan Singh**, 1942, with Japanese help; later crisis. **Rash Behari Bose** held the Indian Independence League.
-**Second / Bose INA:** **1943**, Singapore / SE Asia.
+- The **first INA** was raised by **Mohan Singh** in **1942** with Japanese help. A later crisis followed.
+- **Rash Behari Bose** held the Indian Independence League.
+- The **second INA** under Subhas Bose dates from **1943** at Singapore.
 
-- **Provisional Government of Azad Hind:** **21 October 1943**, Singapore. Head of State, PM and War Minister: **Subhas Bose**. Recognised by Axis states.
-- Andaman and Nicobar were symbolically handed over (**Shaheed / Swaraj** islands in Bose’s naming).
-- **Rani Jhansi Regiment:** women’s regiment; captain **Lakshmi Swaminathan (Sehgal)**. **2023 Q45** answer.
-- Fought in the Imphal–Kohima campaigns (**1944**). Collapse after Japan’s defeat. Bose died **18 August 1945** (Taihoku air crash in official account).
+- The **Provisional Government of Azad Hind** was proclaimed on **21 October 1943** at Singapore.
+- **Subhas Bose** was Head of State, Prime Minister and War Minister.
+- Axis states recognised it.
+- Andaman and Nicobar were symbolically handed over. Bose named them **Shaheed** and **Swaraj** islands.
+- The **Rani Jhansi Regiment** was the women’s regiment.
+- Its captain was **Lakshmi Swaminathan (Sehgal)**. That is the **2023 Q45** answer.
+- The INA fought in the Imphal–Kohima campaigns of **1944**.
+- It collapsed after Japan’s defeat.
+- Bose died on **18 August 1945** in the Taihoku air-crash account.
 
 > **Exam note:** Azad Hind Government = **21 Oct 1943 Singapore**. Rani Jhansi = INA women, **not** 1857.
 
@@ -281,8 +309,10 @@ D. Veerangana Regiment
 **When:** **November 1945** onwards  
 **First trio:** **Prem Kumar Sahgal, Shah Nawaz Khan, Gurbaksh Singh Dhillon** (Hindu–Muslim–Sikh)
 
-- Tried for waging war against the King. Defence: **Bhulabhai Desai, Tej Bahadur Sapru, Nehru** (among others).
-- Mass protests; INA week; ratings’ unrest. Sentences were remitted. The Raj won the court and lost the country.
+- They were tried for waging war against the King.
+- The defence included **Bhulabhai Desai**, **Tej Bahadur Sapru** and **Nehru**.
+- Mass protests and INA week followed. Ratings also unrested.
+- Sentences were remitted. The Raj won the court and lost the country.
 - Do not place the trials at Gwalior, Amer or Agra.
 
 > **Exam note:** INA trials = **Red Fort**. Trio = Sahgal, Shah Nawaz, Dhillon.
@@ -310,10 +340,17 @@ D. Agra Fort
 
 ## 14.10 Political Deadlock (formulas)
 
-**C.R. Formula (1944):** **C. Rajagopalachari** — not **C.R. Das**. Congress to accept a post-war commission on Pakistan if League backed independence and a central defence/foreign period. Gandhi–Jinnah talks failed.
-**2019 Q96:** C.R. Formula = **Rajgopalachar**.
+**C.R. Formula (1944)**
 
-**Desai–Liaquat Pact (1945):** Bhulabhai Desai and Liaquat Ali Khan — parity in an interim coalition. Did not stick.
+- The author is **C. Rajagopalachari**, not **C.R. Das**.
+- Congress would accept a post-war commission on Pakistan if the League backed independence and a period of central defence and foreign affairs.
+- Gandhi–Jinnah talks on this formula failed.
+- **2019 Q96** maps C.R. Formula to **Rajgopalachar**.
+
+**Desai–Liaquat Pact (1945)**
+
+- **Bhulabhai Desai** and **Liaquat Ali Khan** talked of parity in an interim coalition.
+- The pact did not stick.
 
 > **Exam note:** **C.R. = Rajaji**. Das died **1925** and cannot author a 1944 formula.
 
@@ -344,7 +381,10 @@ D. V. P. Menon
 **Plan announced:** **June 1945**  
 **Simla Conference:** **June–July 1945**
 
-- Reconstruct the **Viceroy’s Executive Council**: all-Indian except Viceroy and C-in-C; **equal caste-Hindu and Muslim** seats; League and Congress to nominate.
+- Reconstruct the **Viceroy’s Executive Council**.
+- It would be all-Indian except the Viceroy and the Commander-in-Chief.
+- **Caste-Hindu and Muslim** seats would be equal.
+- League and Congress would nominate.
 - **Simla** failed because Jinnah demanded that the League alone nominate **all Muslims** (no Congress Muslim). Congress refused.
 - Place **after Cripps 1942** and **before Cabinet Mission 1946** (**2025 Q41**).
 
@@ -358,14 +398,18 @@ D. V. P. Menon
 **In India:** March 1946  
 **Plan:** **16 May 1946**
 
-- **No sovereign Pakistan** as a first principle. A **weak Centre** (defence, foreign affairs, communications). Provinces in **three groups**:
-  - **Group A:** Madras, Bombay, UP, Bihar, CP, Orissa  
-  - **Group B:** Punjab, NWFP, Sindh  
-  - **Group C:** Bengal, Assam  
-- Constituent Assembly + interim government. Provinces could later reconsider grouping.
-- League **accepted**, then **withdrew (29 July 1946)** after Nehru’s remarks on the CA’s sovereignty. **Direct Action, 16 August 1946**.
-- League still **joined the Interim Government (26 October 1946)**.
-- **2018 Q17:** (A) League withdrew acceptance — **true**. (R) League joined the interim government — **true**. **R does not explain A.** Answer **B**.
+- It did **not** concede a sovereign Pakistan as a first principle.
+- It proposed a **weak Centre** for defence, foreign affairs and communications.
+- Provinces were placed in **three groups**.
+- **Group A** covered Madras, Bombay, UP, Bihar, CP and Orissa.
+- **Group B** covered Punjab, NWFP and Sindh.
+- **Group C** covered Bengal and Assam.
+- There would be a Constituent Assembly and an interim government.
+- Provinces could later reconsider grouping.
+- The League first **accepted**, then **withdrew on 29 July 1946** after Nehru’s remarks on the Assembly’s sovereignty.
+- **Direct Action Day** followed on **16 August 1946**.
+- The League still **joined the Interim Government on 26 October 1946**.
+- **2018 Q17:** both statements are true, but joining Interim does **not** explain the withdrawal. The answer is **B**.
 
 > **Exam note:** Cabinet Mission **1946**. Withdrawal ≠ never joining Interim. Both facts true; not cause-and-effect as R claims.
 
@@ -392,15 +436,18 @@ D. (A) is false, but (R) is true
 
 ## 14.13 Final Phase (1945–47)
 
-**UK Parliamentary Delegation:** **January 1946**, Delhi.
-**RIN Revolt:** **18–23 February 1946**, Bombay (and Karachi/elsewhere); *HMIS Talwar*; leaders **M.S. Khan**, Madan Singh. Ratings’ revolt, not a Congress satyagraha.
-**Cabinet Mission announced:** **19 February 1946** (Attlee); arrived **24 March**.
-**Interim Government:** announced **24 August 1946**; took office **2 September 1946** (Nehru Vice-President of the Executive Council). League joined **26 October**.
-**Direct Action Day:** **16 August 1946** — Calcutta killing, then Noakhali, Bihar.
-**Attlee statement:** **20 February 1947** — power by **June 1948**.
-**2024 Q16 order:** Delegation → RIN → Cabinet Mission **announcement** → Interim Government = **4, 1, 2, 3**.
+- The **UK Parliamentary Delegation** came in **January 1946** and sat at Delhi.
+- The **RIN Revolt** ran from **18–23 February 1946** at Bombay, with Karachi and other stations.
+- It began on *HMIS Talwar*. Leaders were **M.S. Khan** and Madan Singh.
+- It was a ratings’ revolt, not a Congress satyagraha.
+- Attlee **announced the Cabinet Mission on 19 February 1946**. The Mission arrived on **24 March**.
+- The **Interim Government** was announced on **24 August 1946** and took office on **2 September 1946**.
+- Nehru was Vice-President of the Executive Council. The League joined on **26 October**.
+- **Direct Action Day** was **16 August 1946**. Killing began in Calcutta, then Noakhali and Bihar.
+- **Attlee’s statement of 20 February 1947** promised transfer of power by **June 1948**.
+- **2024 Q16** order is Delegation, then RIN, then Cabinet Mission announcement, then Interim Government.
 
-> **Exam note:** Announcement of Cabinet Mission (**Feb 1946**) ≠ formation of Interim (**Sep 1946**).
+> **Exam note:** Announcement of Cabinet Mission in **February 1946** is not the same as formation of the Interim in **September 1946**.
 
 **PYQ — UPPCS Prelims 2024, Q16**
 
@@ -433,10 +480,13 @@ D. 2, 4, 1, 3
 **Viceroy:** Lord **Mountbatten** (arrived March 1947)  
 **Plan:** **3 June 1947** (also called June 3 Plan)
 
-- Partition of British India into **two dominions**; princely states to accede to one or the other (or, in theory, stand aside — integration is Topic 15).
-- Punjab and Bengal to be **partitioned** if assemblies so voted. Referendum in NWFP. Boundary Commission (**Radcliffe**).
-- Transfer advanced from June 1948 to **15 August 1947**.
-- **V.P. Menon** drafted much of the plan; he is **not** the author of the C.R. Formula.
+- British India would be partitioned into **two dominions**.
+- Princely states were to accede to one or the other, or in theory stand aside.
+- Punjab and Bengal would be **partitioned** if their assemblies so voted.
+- There would be a referendum in NWFP.
+- A Boundary Commission under **Radcliffe** would draw the line.
+- Transfer was advanced from June 1948 to **15 August 1947**.
+- **V.P. Menon** drafted much of the plan. He is **not** the author of the C.R. Formula.
 
 > **Exam note:** Mountbatten Plan = **3 June 1947**. The **Act** is **18 July**. Independence Day = **15 August**.
 
@@ -447,10 +497,12 @@ D. 2, 4, 1, 3
 **Passed:** **18 July 1947** (Royal Assent)  
 **Effect:** **15 August 1947**
 
-- Created two independent **dominions**: India and Pakistan. Ended British paramountcy over the princely states.
-- Each dominion: Governor-General, Constituent Assembly as legislature. The **GOI Act 1935** continued as a temporary frame until a new constitution.
-- **15 August** is independence; **18 July** is the statute. Do not swap.
-- Partition violence and refugee movement are the human cost; princely integration is Topic 15.
+- It created two independent **dominions**, India and Pakistan.
+- It ended British paramountcy over the princely states.
+- Each dominion had a Governor-General, with the Constituent Assembly as legislature.
+- The **GOI Act 1935** continued as a temporary frame until a new constitution.
+- **15 August** is independence. **18 July** is the statute. Do not swap.
+- Partition violence and refugee movement are the human cost. Princely integration belongs to the next chapter.
 
 > **Exam note:** Act **18 July 1947** ≠ 3 June Plan ≠ 15 August.
 

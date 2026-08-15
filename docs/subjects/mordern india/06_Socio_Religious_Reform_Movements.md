@@ -84,7 +84,8 @@ Native Marriage Act    1872
 - He worked in Maharashtra against **caste inequality** and for the education of girls and lower castes.
 - **UPPCS 2022 Q1** associates him with the **Anti-caste Movement**, not Civil Disobedience, trade unions or a peasant party.
 - With **Savitribai Phule** he opened schools for girls and for the lower castes.
-- He wrote **Gulamgiri (1873)** against caste slavery. **Shetkaryacha Asud** is another work.
+- He wrote **Gulamgiri (1873)** against caste slavery.
+- **Shetkaryacha Asud** is another of his works.
 - He founded **Satyashodhak Samaj** in **1873** (next section).
 
 > **Exam note:** Phule ≠ peasant movement in the 2022 option set. The right label is **anti-caste**.
@@ -116,7 +117,8 @@ D. Peasant Movement
 - The name means a society for **seeking truth**.
 - It attacked Brahmanical monopoly of religion and stood for the dignity of lower castes and women.
 - It is **not** the same as Prarthana Samaj (Ranade) or Brahmo Samaj (Roy).
-- **Tarabai Shinde** wrote *Stri Purush Tulana*; she is linked to this stream but is **not** the founder.
+- **Tarabai Shinde** wrote *Stri Purush Tulana*.
+- She is linked to this stream but is **not** the founder.
 
 > **Exam note:** Founder = **Phule**. UPPCS 2022 Q84 puts Roy and Ranade as traps.
 
@@ -190,14 +192,15 @@ D. Both 1 and 2
 
 ## 6.7 Muslim Reform Movements
 
-Two big north-Indian answers after 1857 are **Aligarh** and **Deoband** (full cards below). Other exam names:
-
-- **Wahabi / Tariqah-i-Muhammadiya** — Sayyid Ahmad of Rae Bareli; religious reform and later anti-Sikh/British strands.
-- **Faraizi** — **Haji Shariatullah** in Bengal; later **Dudu Miyan**.
-- **Ahl-i-Hadith** — scripturalist reform.
-- **Ahmadiyya** — **Mirza Ghulam Ahmad** of Qadian (not the Aligarh college line).
-
-Aligarh chose **modern college education**. Deoband chose a **traditional dar-ul-ulum**. They are not the same movement.
+- After 1857 the two big north-Indian answers are **Aligarh** and **Deoband**.
+- The **Wahabi / Tariqah-i-Muhammadiya** stream is linked to **Sayyid Ahmad of Rae Bareli**.
+- It mixed religious reform with later anti-Sikh and anti-British strands.
+- The **Faraizi** movement began with **Haji Shariatullah** in Bengal.
+- **Dudu Miyan** later led the Faraizis.
+- **Ahl-i-Hadith** was a scripturalist reform stream.
+- The **Ahmadiyya** movement was founded by **Mirza Ghulam Ahmad** of Qadian.
+- Ahmadiyya is **not** the Aligarh college line.
+- Aligarh chose **modern college education**. Deoband chose a **traditional dar-ul-ulum**. They are not the same movement.
 
 > **Exam note:** Sir Syed ≠ Deoband. Nanautawi ≠ MAO College.
 
@@ -256,7 +259,9 @@ D. Deva Samaj — Banaras
 - Bengal was the first big centre of the nineteenth-century reform debate (Calcutta elites, print, and English education).
 - **Young Bengal** followed **Henry Louis Vivian Derozio** at Hindu College. They were radical and short-lived.
 - **Tattvabodhini Sabha (1839)** under **Debendranath Tagore** carried Brahmo ideas forward after Roy.
-- Legal landmarks from this region: **Sati ban 1829**, **Widow Remarriage Act 1856**, **Native Marriage Act 1872** (civil / Brahmo marriage, no idolatrous rites).
+- The **Sati ban of 1829** belongs to this Bengal debate.
+- The **Widow Remarriage Act of 1856** followed Vidyasagar’s campaign.
+- The **Native Marriage Act of 1872** allowed civil / Brahmo marriage without idolatrous rites.
 - **Bethune** opened a girls’ school in Calcutta (2022 Q90).
 - Orthodoxy also organised in Calcutta — **Sanatan Dharma Rakshini Sabha**.
 
@@ -370,9 +375,12 @@ D. Neither 1 nor 2
 ## 6.11 Brahmo Samaj
 
 - Started as **Brahmo Sabha in 1828** by **Raja Ram Mohan Roy**.
-- It taught **one God**, opposed **idol worship**, and attacked Sati, caste rigidity and meaningless ritual.
+- It taught **one God**.
+- It opposed **idol worship**.
+- It attacked Sati, caste rigidity and meaningless ritual.
 - After Roy, **Debendranath Tagore** led the **Adi Brahmo Samaj**.
-- **Keshab Chandra Sen** formed the **Brahmo Samaj of India**. A further split produced the **Sadharan Brahmo Samaj**.
+- **Keshab Chandra Sen** formed the **Brahmo Samaj of India**.
+- A further split produced the **Sadharan Brahmo Samaj**.
 - The **Native Marriage Act 1872** is linked to Brahmo / civil marriage needs.
 - Brahmo Samaj is **not** “Back to the Vedas.” That slogan is **Arya Samaj**.
 
@@ -382,10 +390,12 @@ D. Neither 1 nor 2
 
 ## 6.12 Arya Samaj
 
-- Founded by **Swami Dayanand Saraswati** at **Bombay in 1875**. It became very strong in **Punjab**, with a major centre at **Lahore**.
-- Slogan: **“Back to the Vedas.”** It rejected later Puranic accretions, idolatry and child marriage.
+- Founded by **Swami Dayanand Saraswati** at **Bombay in 1875**.
+- It became very strong in **Punjab**, with a major centre at **Lahore**.
+- The slogan was **“Back to the Vedas.”**
+- It rejected later Puranic accretions, idolatry and child marriage.
 - It used **shuddhi** (reconversion) and built **D.A.V.** schools.
-- Dayanand’s book **Satyarth Prakash** is the doctrinal text (his own section below).
+- Dayanand’s book **Satyarth Prakash** is the doctrinal text.
 - Arya Samaj is **not** Brahmo Samaj and **not** Theosophical Society.
 
 > **Exam note:** Year **1875** is shared with MAO College. Do not mix the two founders.
@@ -394,8 +404,10 @@ D. Neither 1 nor 2
 
 ## 6.13 Prarthana Samaj
 
-- Founded in **Bombay in 1867**. **Atmaram Pandurang** is the usual founder name. **M.G. Ranade**, **R.G. Bhandarkar** and **N.G. Chandavarkar** were leading members.
-- It was a western-Indian cousin of Brahmo ideas: prayer, social reform, caste and women’s questions.
+- Founded in **Bombay in 1867**.
+- **Atmaram Pandurang** is the usual founder name.
+- **M.G. Ranade**, **R.G. Bhandarkar** and **N.G. Chandavarkar** were leading members.
+- It was a western-Indian cousin of Brahmo ideas. It stressed prayer, social reform, and caste and women’s questions.
 - It is **not** Satyashodhak Samaj. Ranade is a trap option for Phule’s sabha.
 
 > **Exam note:** Prarthana = **Bombay 1867**. Satyashodhak = **Phule 1873**.
@@ -419,7 +431,8 @@ D. Neither 1 nor 2
 - Led by **Sir Syed Ahmad Khan** after 1857.
 - Aim: Muslims should take **modern Western education** and remain loyal enough to recover ground under British rule.
 - He founded the **Muhammadan Anglo-Oriental College at Aligarh in 1875**. It later became **Aligarh Muslim University**.
-- Journals and texts: **Tahzib-ul-Akhlaq**; a commentary on the Quran in a modernist frame.
+- He brought out the journal **Tahzib-ul-Akhlaq**.
+- He also wrote a commentary on the Quran in a modernist frame.
 - This is **not** Deoband. Deoband is a seminary, not MAO College.
 
 > **Exam note:** Aligarh / MAO = **Sir Syed, 1875**. Archbold as a later Principal is an Education-topic fact.
@@ -451,7 +464,8 @@ D. Neither 1 nor 2
 
 ## 6.18 Vivekananda
 
-- Born **Narendranath Datta**. Disciple of **Ramakrishna**.
+- He was born **Narendranath Datta**.
+- He was a disciple of **Ramakrishna**.
 - He spoke at the **Parliament of Religions, Chicago, 1893**.
 - He founded the **Ramakrishna Mission in 1897**.
 - He stressed Vedanta, service of man as service of God, and national self-respect.
@@ -463,10 +477,13 @@ D. Neither 1 nor 2
 
 ## 6.19 Dayanand Saraswati
 
-- Born **Mool Shankar** in Gujarat. Became a sannyasi and Vedic revivalist.
+- He was born **Mool Shankar** in Gujarat.
+- He became a sannyasi and a Vedic revivalist.
 - He founded **Arya Samaj in 1875** at Bombay.
 - His main book is **Satyarth Prakash**.
-- He preached **“Back to the Vedas,”** opposed idolatry, child marriage and untouchability in the Arya frame, and favoured **Hindi**.
+- He preached **“Back to the Vedas.”**
+- He opposed idolatry, child marriage and untouchability in the Arya frame.
+- He favoured **Hindi**.
 - He is **not** the founder of Brahmo Samaj or Prarthana Samaj.
 
 > **Exam note:** Dayanand = Arya Samaj **1875** + *Satyarth Prakash*.
@@ -479,7 +496,8 @@ D. Neither 1 nor 2
 - He argued that Muslims needed **modern education** to survive under British rule.
 - He founded **MAO College, Aligarh, in 1875** (Aligarh Movement section above).
 - He wrote on the **causes of the Indian Revolt** and brought out **Tahzib-ul-Akhlaq**.
-- Early politics: cooperation with the British, suspicion of Congress as a Hindu-majority body.
+- In early politics he favoured cooperation with the British.
+- He was suspicious of Congress as a Hindu-majority body.
 - He is **not** a founder of Deoband.
 
 > **Exam note:** Sir Syed = Aligarh / MAO. Deoband = Nanautawi and Gangohi.
@@ -491,8 +509,9 @@ D. Neither 1 nor 2
 - Irish-born Theosophist who worked in India.
 - She became a leading figure of the **Theosophical Society** at **Adyar**.
 - She founded **Central Hindu College, Banaras** (later linked to BHU’s early story).
-- Papers: **New India** and **Commonweal**.
-- **Home Rule League (1916)** is a later political topic; here remember Theosophy + Hindu College.
+- Her papers were **New India** and **Commonweal**.
+- The **Home Rule League of 1916** belongs to later politics.
+- Here remember Theosophy and Central Hindu College.
 
 > **Exam note:** Besant ≠ founder of Theosophical Society (that is Blavatsky and Olcott, 1875).
 

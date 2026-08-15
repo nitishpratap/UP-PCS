@@ -72,7 +72,7 @@ Peasant Movements | Peasant Revolts | Leaders | Tribal Revolts | Tribal Leaders 
 | AITUC 1920 | INTUC 1947 | CPI stream vs Congress labour wing | एटक / इंटक |
 | UTUC | CITU | UPPCS maps UTUC → CPI(M); CITU is the real CPI(M) centre (1970) | यूटीयूसी / सीटू |
 | Dwivedi | Baba Ramchandra | UP Kisan Sabha **1918** founder tag vs Awadh peasant mobiliser | द्विवेदी / रामचंद्र |
-| Bareilly 1816 | Bareilly 1857 | Mufti Muhammad Aiwaz vs Khan Bahadur Khan (Topic 5) | बरेली |
+| Bareilly 1816 | Bareilly 1857 | Mufti Muhammad Aiwaz vs Khan Bahadur Khan | बरेली |
 | Bonded labour | Wage labour | Debt-tied unfree work vs paid factory / mill labour | बंधुआ मजदूरी / मजदूरी |
 
 ---
@@ -100,8 +100,8 @@ Use this table only to **order** revolts. Causes, course and results sit in the 
 | Bardoli | **1928** | Gujarat | Vallabhbhai Patel |
 | Tebhaga | **1946–47** | Bengal | Sharecroppers + Kisan Sabha / CPI |
 
-- **2025 Q25:** Sanyasi → Indigo → Kuka → Pabna.
-- **2018 Q23:** Ahom **1815** is the wrong pair; Khasi **1829**, Kol **1831**, Santhal **1855** are correct.
+- **2025 Q25** orders Sanyasi, then Indigo, then Kuka, then Pabna.
+- **2018 Q23** treats **Ahom 1815** as the wrong pair. Khasi **1829**, Kol **1831** and Santhal **1855** are correct.
 
 > **Exam note:** First lock **2025 Q25** and **2018 Q23**. Do not stop at the table — each revolt below has its own points.
 
@@ -116,7 +116,8 @@ Use this table only to **order** revolts. Causes, course and results sit in the 
 - The **1770 famine** left peasants desperate; many joined the bands.
 - Rebels attacked Company *kuthis*, treasuries and loyal zamindars in Bengal–Bihar.
 - The rising belongs to **Warren Hastings’** years. It was crushed only towards the end of the eighteenth century.
-- **Bankim Chandra Chatterjee’s** novel *Anandamath* (1882) is set against this background; **Vande Mataram** comes from that novel.
+- **Bankim Chandra Chatterjee’s** novel *Anandamath* (1882) is set against this background.
+- **Vande Mataram** comes from that novel.
 - In the **2025 Q25** set this is the **earliest** of the four revolts.
 
 > **Exam note:** Sanyasi is **late eighteenth century**, not 1859. It comes **before** Indigo, Kuka and Pabna.
@@ -127,7 +128,8 @@ Use this table only to **order** revolts. Causes, course and results sit in the 
 **Region:** Punjab (Bhaini Sahib, Ludhiana; Malerkotla)  
 **Leaders:** **Baba Ram Singh**; the sect was earlier shaped by **Balak Singh**
 
-- The **Namdhari / Kuka** movement was a Sikh socio-religious reform: simplicity, cow protection, boycott of British goods, and opposition to caste display.
+- The **Namdhari / Kuka** movement was a Sikh socio-religious reform.
+- It preached simplicity, cow protection, boycott of British goods, and opposition to caste display.
 - Baba Ram Singh set up his centre at **Bhaini Sahib**. Followers were called Kukas because of their cry in kirtan.
 - In **1872** a Kuka band attacked butchers at **Malerkotla** after cow-slaughter incidents.
 - British officer **Cowan** had dozens of Kukas **blown from guns** without a proper trial. Baba Ram Singh was deported to **Rangoon**.
@@ -165,8 +167,10 @@ D. 4, 2, 3, 1
 
 ## 8.2 Peasant Movements and Revolts
 
-- Peasant movements grew from **rent hikes, eviction (*bedakhli*), indigo contracts, unpaid labour (*begar*)** and later from Kisan Sabha / Congress / left politics.
-- Early cases often used **leagues and courts** (Pabna). Later cases used **satyagraha** (Champaran, Kheda, Bardoli) or **sharecropper strikes** (Tebhaga).
+- Peasant movements grew from **rent hikes**, eviction (*bedakhli*), **indigo contracts**, and unpaid labour (*begar*).
+- Later they also grew from Kisan Sabha, Congress and left politics.
+- Early cases often used **leagues and courts**, as at Pabna.
+- Later cases used **satyagraha**, as at Champaran, Kheda and Bardoli, or **sharecropper strikes**, as at Tebhaga.
 
 ### Pabna Agrarian League (1873–85)
 
@@ -228,7 +232,7 @@ D. 4, 2, 3, 1
 - Formed at the **Lucknow Congress session, 1936**, as a national peasant platform.
 - **Swami Sahajanand Saraswati** became the central AIKS leader (Bihar / Bhumihar peasant base).
 - N.G. Ranga, Indulal Yagnik and left Congressmen were associated.
-- Demands: zamindari abolition, occupancy rights, end of illegal cesses.
+- Demands included zamindari abolition, occupancy rights, and an end to illegal cesses.
 - Sahajanand is a **1936** figure. He did **not** found the **UP Kisan Sabha in 1918**.
 
 > **Exam note:** AIKS **1936** = Sahajanand. UP Kisan Sabha **1918** = **Indra Narayan Dwivedi**.
@@ -289,8 +293,9 @@ D. Pt. Jawaharlal Nehru
 - Planters gave cash advances (*dadon*). The debt never ended. Refusal brought beatings, cattle seizure, and eviction.
 - In **1859** the Biswas brothers of Nadia refused to sow indigo. Village after village followed.
 - Ryots stopped planting, socially boycotted planter agents, and in places attacked indigo factories.
-- The **Hindu Patriot** (Harish Chandra Mukherjee) and missionaries publicised planter crimes.
-- **Dinabandhu Mitra** wrote the play ***Nil Darpan*** (1860). **Rev. James Long** was fined and jailed for publishing the English translation.
+- The **Hindu Patriot** under **Harish Chandra Mukherjee** publicised planter crimes. Missionaries also wrote against the system.
+- **Dinabandhu Mitra** wrote the play ***Nil Darpan*** (1860).
+- **Rev. James Long** was fined and jailed for publishing the English translation.
 - The government appointed the **Indigo Commission, 1860** (Seton-Karr). It held that indigo was grown **only under force**.
 - Forced indigo collapsed in large parts of Bengal. This is treated as a **successful peasant revolt**.
 - It is a **ryot versus European planter** fight, not a tribal forest war and not Champaran 1917.
@@ -306,13 +311,16 @@ D. Pt. Jawaharlal Nehru
 **Target:** Moneylenders (*sahukars* / Marwari and Gujarati creditors) — **not** indigo factories
 
 - Ryotwari revenue was high and had to be paid in cash even after a bad harvest.
-- The American Civil War created a **cotton boom**; when it ended, prices crashed and peasants could not repay loans.
+- The American Civil War created a **cotton boom**.
+- When it ended, prices crashed and peasants could not repay loans.
 - Moneylenders took land, ornaments and **debt bonds**. Courts usually sided with creditors.
 - Riots began in **May 1875** at **Supa** and spread through the Poona–Ahmednagar belt (Koregaon and nearby villages).
 - Crowds attacked *sahukar* houses and **burnt bond papers**. The aim was to wipe out the written debt, not random massacre.
 - The **Deccan Riots Commission** inquired into causes.
 - The **Deccan Agriculturists’ Relief Act, 1879** tried to check usury and ease court procedure for ryots.
-- Compare: Deccan = short **debt riots**; Pabna = long **rent leagues**; Bardoli = **1928** no-tax satyagraha.
+- Deccan 1875 was a short **debt riot**.
+- Pabna was a long **rent-league** struggle.
+- Bardoli **1928** was a **no-tax satyagraha**.
 
 > **Exam note:** Deccan **1875** = moneylenders + Relief Act **1879**. Not 1857, not Birsa, not Bardoli.
 
@@ -325,7 +333,8 @@ D. Pt. Jawaharlal Nehru
 **Leaders:** brothers **Sidhu, Kanhu, Chand and Bhairav** Murmu (exam tag: **Sidhu and Kanhu**)
 
 - The Company had settled Santhals in **Damin-i-Koh (1832)** to clear forest and pay rent.
-- Outsiders called ***dikus*** — zamindars, *mahajans*, traders, police and railway contractors — seized land and trapped Santhals in debt.
+- Outsiders called ***dikus*** seized Santhal land and trapped them in debt.
+- Those outsiders were zamindars, *mahajans*, traders, police and railway contractors.
 - Courts and police backed the exploiters. Traditional village headmen lost authority.
 - On **30 June 1855** at **Bhognadih**, Sidhu and Kanhu declared the **Hul** (rebellion). They claimed a divine command to end *diku* rule.
 - Rebel bands attacked moneylenders, zamindars and symbols of Company power. The rising spread fast across the Santhal belt.
@@ -388,11 +397,13 @@ D. 4 3 2 1
 - *Ulgulan* means **Great Tumult**.
 - Mundas held land under ***khuntkatti*** (clan/joint original-settler right). Landlords, contractors, *jagirdars* and colonial law ate into that right.
 - Forced labour, forest rules and moneylender debt added to the anger. Missionary activity created religious ferment.
-- Birsa first came under Christian influence, then left it and preached a new **Birsait** faith: one God, a golden age without *dikus*.
+- Birsa first came under Christian influence, then left it.
+- He preached a new **Birsait** faith: one God, and a golden age without *dikus*.
 - Followers are called **Birsaites**. The slogan memory is *Abua raj etejana* — our kingdom has come.
 - On **Christmas 1899** Birsaites attacked churches, police stations and outsider property. Fighting followed at **Sail Rakab** and nearby hills.
 - British troops suppressed the rising. Birsa was captured in **March 1900** and died in jail in **June 1900**.
-- The revolt pushed tribal land protection; the **Chotanagpur Tenancy Act, 1908** later recognised *khuntkatti* in law.
+- The revolt pushed tribal land protection.
+- The **Chotanagpur Tenancy Act, 1908** later recognised *khuntkatti* in law.
 - **Janjatiya Gaurav Diwas** is observed on **15 November** (Birsa’s birth anniversary).
 
 > **Exam note:** Birsa = **Munda, 1899–1900**. Sidhu–Kanhu = **Santhal, 1855**. Do not swap leaders or years.
@@ -423,7 +434,8 @@ D. 4 3 2 1
 
 - After the Company tightened police and tax in Rohilkhand, a **house / police tax** sparked protest in **1816**.
 - Mufti Muhammad Aiwaz led the opposition. Crowds clashed with the British at Bareilly.
-- This is the leader tag in **2024 Q138**. It is **not** the 1857 Bareilly of **Khan Bahadur Khan** (Topic 5).
+- This is the leader tag in **2024 Q138**.
+- It is **not** the 1857 Bareilly of **Khan Bahadur Khan**.
 
 > **Exam note:** 2024 Bareilly = **Aiwaz, 1816**. 1857 Bareilly = **Khan Bahadur Khan**.
 
@@ -504,15 +516,23 @@ D. 4 3 2 1
 
 ### Other tribal / frontier risings (match extras)
 
-**Pagal Panthi (1820s)** — Sherpur / Mymensingh. Religious-agrarian sect under **Karam Shah**, then **Tipu Shah**. Garo–Hajong peasants against zamindars.
+- The **Pagal Panthi** rising belongs to the **1820s** in Sherpur / Mymensingh.
+- It was a religious-agrarian sect under **Karam Shah**, then **Tipu Shah**.
+- Garo–Hajong peasants fought zamindars.
 
-**Chuar (late 18th c., peak ~1798–99)** — Jungle Mahals (Midnapore–Bankura). Dispossessed jungle zamindars and tribal paiks; **Durjan Singh** is a named leader.
+- The **Chuar** rising belongs to the late eighteenth century. It peaked around **1798–99**.
+- It ran in the Jungle Mahals of Midnapore–Bankura.
+- Dispossessed jungle zamindars and tribal paiks took part. **Durjan Singh** is a named leader.
 
-**Bhil (~1818–31)** — Khandesh after Maratha collapse. Bhil chiefs (Sewaram and others) resisted Company pacification. (Later **Govind Guru** / **Mangarh 1913** is a separate Bhil satyagraha in the Banswara–Sunth belt.)
+- The **Bhil** rising in **Khandesh** belongs to about **1818–31**, after the Maratha collapse.
+- Bhil chiefs, including **Sewaram**, resisted Company pacification.
+- **Govind Guru** and **Mangarh 1913** is a later, separate Bhil satyagraha in the Banswara–Sunth belt.
 
-**Khond (mid-19th c.)** — Odisha hills / Ghumsar. **Chakra Bisoi** resisted interference with Khond land and the suppression of *mariah* rites.
+- The **Khond** rising belongs to the mid-nineteenth century in the Odisha hills / Ghumsar.
+- **Chakra Bisoi** resisted interference with Khond land and the suppression of *mariah* rites.
 
-**Ramosi (1820s)** — Western Ghats, Maharashtra. **Umaji Naik** led Ramosi unrest after the fall of the Peshwa.
+- The **Ramosi** rising belongs to the **1820s** in the Western Ghats of Maharashtra.
+- **Umaji Naik** led Ramosi unrest after the fall of the Peshwa.
 
 > **Exam note:** 2024 four-leader map = **Paika–Jagabandhu, Bareilly–Aiwaz, Malabar–Edachena, Sylhet–Radharam (4 3 1 2)**. 2018 unmatched = **Ahom 1815**.
 
@@ -568,8 +588,9 @@ D. Ahom 1815
 
 **Year:** **1921** (outbreak **20 August 1921**)  
 **Region:** Malabar — especially **Ernad** and **Valluvanad** taluks (present Kerala)  
-**Leaders:** **Ali Musliyar**; **Variyamkunnath Kunjahammed Haji**  
-**2024 Malabar match-tag (different stream):** Edachena Kungan — see §8.9
+**Leaders:** **Ali Musliyar**; **Variyamkunnath Kunjahammed Haji**
+
+- The **2024** Malabar match-tag is a different stream. That list wants **Edachena Kungan**, not the 1921 Moplah leaders.
 
 - Moplah (Mapilla) tenants held land under the ***jenmi*** (landlord) system. Tenure was insecure; rents, renewal fees and eviction were common.
 - Agrarian tension in Malabar is older than 1921. **Khilafat** and **Non-Cooperation** gave it a political spark.
@@ -658,14 +679,27 @@ D. Moplah Revolt
 | CITU | **1970** | Actual **CPI(M)** centre — trap vs UTUC |
 
 - Modern mills, mines, railways and plantations created a **wage-working class** different from rural bonded labour.
-- Early strikes: Bombay textile / railway unrest; Tilak’s 1908 Bombay strike is a nationalist–labour link, not yet an all-India union.
-- **Madras Labour Union (1918)**, associated with **V.P. Wadia** and B.P. Wadia’s mill organising, is the stock “first modern trade union” tag.
+- Early strikes appeared in Bombay textiles and on the railways.
+- Tilak’s **1908** Bombay strike is a nationalist–labour link. It is not yet an all-India union.
+- **Madras Labour Union** was founded in **1918**.
+- It is associated with **V.P. Wadia** and mill organising. It is the stock “first modern trade union” tag.
 - In **1919** the Government of India sent **N.M. Joshi** as labour representative to the first **ILO** conference at **Washington**. Joshi belonged to the Servants of India Society and later helped build AITUC as a moderate organiser.
-- **AITUC** was founded on **31 October 1920** at Bombay. **Lala Lajpat Rai** was the first president; **Joseph Baptista** and **N.M. Joshi** were in the early leadership. This is the syllabus **Trade Union Congress**.
+- **AITUC** was founded on **31 October 1920** at Bombay.
+- **Lala Lajpat Rai** was the first president.
+- **Joseph Baptista** and **N.M. Joshi** were in the early leadership.
+- This is the syllabus **Trade Union Congress**.
 - The **Trade Unions Act, 1926** gave unions legal recognition (register, sue, be sued).
-- **Workers and Peasants Party** (provincial mid-1920s; All-India form clearer **December 1928**) tried to work **inside Congress** and radicalise it. **2024 Q14 = Only 2** — statement 1 packs “formed in 1927 and given All-India form” into one false claim. Full card → Topic 12.
+- The **Workers and Peasants Party** grew in the provinces in the mid-1920s.
+- Its All-India form is clearer in **December 1928**.
+- It tried to work **inside Congress** and radicalise it.
+- **2024 Q14** is **Only 2**. The claim that it was “formed in 1927 and given All-India form” in one breath is the false packed statement.
 - **Girni Kamgar Union (1928)**, Bombay, led mill strikes under left / communist leadership (S.A. Dange and others).
-- After independence unions split by party: **INTUC 1947** (Congress), **HMS 1948** (socialist), **UTUC 1949** (RSP historically; **UPPCS maps CPI(M)**), **BMS 1955** (Thengadi; **BJP/RSS**), **CITU 1970** (real **CPI(M)** centre).
+- After independence unions split by party.
+- **INTUC** was founded in **1947** and is mapped to **Congress**.
+- **HMS** was founded in **1948** in the socialist stream.
+- **UTUC** was founded in **1949**. Historically it is RSP. **UPPCS 2022 maps it to CPI(M)**.
+- **BMS** was founded in **1955** by **Dattopant Thengadi** and is mapped to **BJP / RSS**.
+- **CITU** was founded in **1970**. It is the actual **CPI(M)** centre. That is the trap against UTUC.
 - **2020 Q16** answer is **N.M. Joshi**, not Wadia, Andrews or Baptista.
 - **2022 Q123** pairs: **BMS–BJP; INTUC–Congress; UTUC–CPI(M); AITUC–CPI**. Local `pyq/2022` English options omit the code `4 1 3 2` (OCR/set mismatch). Learn the **pairs**.
 

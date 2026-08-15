@@ -132,9 +132,12 @@ One home for extra titles. Details of the syllabus eight sit in the cards below.
 **Song inside it:** **Vande Mataram** (later India’s national song)
 
 - Bankim is the father-figure of the modern **Bengali novel** and of literary nationalism.
-- Earlier novels: ***Durgeshnandini*** (1865, first major Bengali novel), ***Kapalkundala*** (1866), later ***Devi Chaudhurani*** (1884).
-- *Anandamath* is set against the **Sanyasi–Fakir** rising and the Bengal famine background (see Topic 8).
-- Sannyasi rebels fight a tyrannical order; the Mother-as-nation image is sung as **Vande Mataram**.
+- His earlier novels include ***Durgeshnandini*** (1865), the first major Bengali novel.
+- ***Kapalkundala*** followed in **1866**.
+- ***Devi Chaudhurani*** came later, in **1884**.
+- *Anandamath* is set against the **Sanyasi–Fakir** rising and the Bengal famine background.
+- Sannyasi rebels fight a tyrannical order.
+- The Mother-as-nation image is sung as **Vande Mataram**.
 - The song was sung in the **Swadeshi** years and adopted as national song. It is **not** the national anthem (*Jana Gana Mana* is Tagore).
 - Bankim edited the journal ***Bangadarshan***.
 - **Neel Darpan** is **not** his. That indigo play is **Dinabandhu Mitra (1860)**.
@@ -150,8 +153,10 @@ One home for extra titles. Details of the syllabus eight sit in the cards below.
 **Idea:** **Drain of Wealth**
 
 - Naoroji gathered speeches and papers into this book. The exam year is **1901** (**2021 Q139**).
-- “Un-British” means the Raj violated Britain’s own liberal standards — the same Moderate vocabulary as 2024 Q135 (Topic 9).
-- Drain: salaries, pensions, home charges, profits and unequal trade took Indian wealth to Britain. Poverty was **produced**.
+- “Un-British” means the Raj violated Britain’s own liberal standards.
+- That is the same Moderate vocabulary as 2024 Q135.
+- Drain meant salaries, pensions, home charges, profits and unequal trade took Indian wealth to Britain.
+- Poverty was **produced**.
 - This is a **primary nationalist tract**, not later academic historiography.
 - ***The Rise and Growth of Economic Nationalism in India*** is **Bipan Chandra** (**2019 Q97**), not Naoroji.
 - R.C. Dutt’s ***Economic History of India*** is the other classic economic-nationalist book of that age.
@@ -186,9 +191,12 @@ D. 1903 A.D.
 **Language (original):** Gujarati; written on the ship from London to South Africa
 
 - Form: a **dialogue** between Editor and Reader on what true Swaraj is.
-- Gandhi attacks modern industrial civilisation, railways-as-greed, and lawyers/doctors as props of colonial society. He wants **self-rule of the self**, not a brown copy of English rule.
+- Gandhi attacks modern industrial civilisation.
+- He attacks railways-as-greed, and lawyers and doctors as props of colonial society.
+- He wants **self-rule of the self**, not a brown copy of English rule.
 - *Hind Swaraj* is a **political tract**, not his autobiography.
-- Autobiography: ***The Story of My Experiments with Truth*** (Gujarati serial from 1925; book form in the late 1920s).
+- His autobiography is ***The Story of My Experiments with Truth***.
+- It ran as a Gujarati serial from **1925**. Book form came in the late 1920s.
 - Do not give *Hind Swaraj* to Tilak or Nehru. Tilak’s Swaraj line is the speech-slogan; the 1909 book is Gandhi’s.
 
 > **Exam note:** *Hind Swaraj* = **Gandhi 1909**. *My Experiments with Truth* = Gandhi autobiography. Two different books.
@@ -201,9 +209,12 @@ D. 1903 A.D.
 **Written:** Ahmednagar Fort prison, **1944**  
 **Published:** **1946**
 
-- A civilisational and political narrative of India — culture, history, and the making of a modern nation — written in jail during the Quit India years.
+- It is a civilisational and political narrative of India.
+- It covers culture, history, and the making of a modern nation.
+- It was written in jail during the Quit India years.
 - It is **not** Nehru’s autobiography. Autobiography = ***An Autobiography*** / ***Toward Freedom*** (1936).
-- ***Glimpses of World History*** is a third Nehru title: letters to Indira from jail (1930s).
+- ***Glimpses of World History*** is a third Nehru title.
+- It is letters to Indira from jail in the 1930s.
 - Do not give *Discovery of India* to Azad. Azad wrote ***India Wins Freedom***.
 
 > **Exam note:** *Discovery* = **Nehru 1946**. *Toward Freedom* = Nehru autobiography. *India Wins Freedom* = **Azad**.
@@ -215,10 +226,14 @@ D. 1903 A.D.
 **Author:** **Maulana Abul Kalam Azad**  
 **Type:** memoir of the last years of the freedom struggle and Partition politics
 
-- Azad writes as Congress President and as a critic of the endgame (Cabinet Mission, Partition, colleagues).
-- First published **1959**; some pages were held back and released later (**1988** complete text in common memory).
+- Azad writes as Congress President and as a critic of the endgame.
+- He discusses the Cabinet Mission, Partition, and his colleagues.
+- It was first published in **1959**.
+- Some pages were held back and released later. The **1988** complete text is the common memory.
 - **2020 Q26** maps this title to Azad (option set with Deportation / Gita / Nation in Making).
-- Not *Freedom at Midnight* (Collins and Lapierre). Not *Train to Pakistan* (Khushwant Singh). Not *India Divided* (Rajendra Prasad).
+- It is not *Freedom at Midnight* by Collins and Lapierre.
+- It is not *Train to Pakistan* by Khushwant Singh.
+- It is not *India Divided* by Rajendra Prasad.
 
 > **Exam note:** *India Wins Freedom* = **Azad**. *Freedom at Midnight* = **Collins & Lapierre**.
 
@@ -227,12 +242,15 @@ D. 1903 A.D.
 ## 10.7 Gita Rahasya
 
 **Author:** **Bal Gangadhar Tilak**  
-**Context:** written in **Mandalay jail** (1908–14); Gita read as a book of **karma-yoga** and nationalist duty
+**Context:** written in **Mandalay jail** (1908–14)
 
-- Tilak uses the Gita to argue for action in the world, not withdrawal.
+- Tilak read the Gita as a book of **karma-yoga** and nationalist duty.
+- He uses the Gita to argue for action in the world, not withdrawal.
 - **2020 Q26** maps *Gita Rahasya* to Tilak.
-- His other famous book is ***The Arctic Home in the Vedas*** (Vedic people once lived in the Arctic). Do **not** swap the two.
-- *Gita Rahasya* is **not** Gandhi, **not** Aurobindo (Aurobindo has *Essays on the Gita*).
+- His other famous book is ***The Arctic Home in the Vedas***.
+- That book argues that Vedic people once lived in the Arctic. Do **not** swap the two.
+- *Gita Rahasya* is **not** Gandhi’s.
+- It is **not** Aurobindo’s. Aurobindo wrote *Essays on the Gita*.
 
 > **Exam note:** *Gita Rahasya* = **Tilak**. *Arctic Home* = also Tilak, different book.
 
@@ -247,8 +265,9 @@ D. 1903 A.D.
 
 - Phule dedicated the book to the American abolitionists. He compared caste oppression of Shudras and Ati-Shudras to **slavery**.
 - It is a **social tract**, not a Congress memoir and not Ambedkar’s 1936 text.
-- Phule also wrote ***Shetkaryacha Asud*** (The Cultivator’s Whipcord) and, with Savitribai, built the anti-caste school stream (Topic 6).
-- **2022 Q1** (Phule = anti-caste movement) lives in Topic 6; this card is the **book** lock.
+- Phule also wrote ***Shetkaryacha Asud*** (The Cultivator’s Whipcord).
+- With Savitribai he built the anti-caste school stream.
+- **2022 Q1** maps Phule to the anti-caste movement. This card is the **book** lock.
 
 > **Exam note:** *Gulamgiri* = **Phule 1873**. *Annihilation of Caste* = **Ambedkar 1936**.
 
@@ -268,7 +287,9 @@ D. 1903 A.D.
 | **The Buddha and His Dhamma** | published **1957** (posthumous) |
 | Thoughts on Linguistic States | States reorganisation |
 
-- ***Annihilation of Caste*** is the syllabus title. Ambedkar argues caste will not die by piety; it must be **destroyed** as a system. Gandhi replied in *Harijan*; Ambedkar answered in a later edition.
+- ***Annihilation of Caste*** is the syllabus title.
+- Ambedkar argues caste will not die by piety. It must be **destroyed** as a system.
+- Gandhi replied in *Harijan*. Ambedkar answered in a later edition.
 - Do not give *Annihilation of Caste* to Phule. Do not give *Pakistan or the Partition of India* to Jinnah. Do not give *India Divided* to Ambedkar (that is **Rajendra Prasad**).
 
 > **Exam note:** Ambedkar’s syllabus book = **Annihilation of Caste (1936)**. Partition title of his = **Pakistan or the Partition of India**.
@@ -381,7 +402,8 @@ D. Bipin Chandra
 | **Freedom at Midnight** | **Larry Collins and Dominique Lapierre** |
 | **Train to Pakistan** | **Khushwant Singh** |
 
-- Curzon also wrote on Asia and imperial administration; the exam tag is ***Problems of the Far East***.
+- Curzon also wrote on Asia and imperial administration.
+- The exam tag is ***Problems of the Far East***.
 - Hardinge’s Indian memoir tag is ***My Indian Years***. Do not swap Curzon and Hardinge.
 - *Freedom at Midnight* is popular narrative of the Mountbatten–Partition months, not Azad’s memoir.
 - *Train to Pakistan* is **fiction** of Partition violence, not a political tract.
@@ -392,10 +414,15 @@ D. Bipin Chandra
 
 ## 10.13 Realistic Novels
 
-- **Realistic novel** = social reality (peasant debt, gender, hypocrisy), not Bankim’s political romance.
+- A **realistic novel** shows social reality: peasant debt, gender, hypocrisy.
+- It is not Bankim’s political romance.
 - **Premchand (Dhanpat Rai Srivastava)** is the UP-safe name.
-- Major works: ***Godaan***, ***Gaban***, ***Sevasadan***, ***Nirmala***, story ***Kafan***. He wrote in **Hindi and Urdu** (Nawab Rai).
-- *Godaan* is peasant/landlord rural tragedy. *Gaban* is middle-class greed. *Sevasadan* is women’s social reform.
+- Major works include ***Godaan***, ***Gaban***, ***Sevasadan*** and ***Nirmala***.
+- The story ***Kafan*** is also his.
+- He wrote in **Hindi and Urdu**. His Urdu name was Nawab Rai.
+- *Godaan* is a peasant and landlord rural tragedy.
+- *Gaban* is about middle-class greed.
+- *Sevasadan* is about women’s social reform.
 - **Anandamath** is **not** a Premchand-style realist novel. **Bidesiya** is folk-drama, not a Hindi realist novel.
 
 > **Exam note:** *Godaan / Gaban* = **Premchand**. *Anandamath* = **Bankim**.
@@ -415,7 +442,8 @@ D. Bipin Chandra
 
 - **Firangiya** is the RO-ARO / UP culture favourite. Author is **Manoranjan Prasad Sinha** (keys also print Singh). Not Thakur, not Raghuveer Narayan.
 - **Batohiya** the **poem** is Raghuveer Narayan. A character called Batohiya also appears inside Thakur’s *Bidesiya*. Do **not** merge poem and character.
-- **Bidesiya** is about *bidesh* (migration) and the household left behind — eastern UP / Bihar social fact.
+- **Bidesiya** is about *bidesh* (migration) and the household left behind.
+- That is an eastern UP / Bihar social fact.
 - Heera Dom is **not** Bhikhari Thakur.
 
 > **Exam note:** Firangiya → **Sinha 1921**. Batohiya → **Raghuveer Narayan**. Bidesiya → **Bhikhari Thakur**. Achhut Kee Shikayat → **Heera Dom**.

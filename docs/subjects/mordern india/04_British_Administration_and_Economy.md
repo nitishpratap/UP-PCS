@@ -374,19 +374,19 @@ D. 1, 3, 2, 4
 
 This section only joins the results. The mechanisms are already taught above.
 
-- Agriculture: different peasant classes under different revenue systems; cash crops; higher famine risk. Major famine markers are **1770 Bengal**, **1876–78**, and **1943 Bengal**.
-- Industry: handicrafts declined; modern mills came late and stayed thin.
-- Finance: Drain and Home Charges sent Indian surplus to Britain.
-- Transport: rail, telegraph and post served control and trade first; nationalists used them later.
-- Society: zamindar, moneylender and landless labourer became typical colonial classes.
-- A dual economy grew: a few export pockets beside a distressed mass.
+- Agriculture produced different peasant classes under different revenue systems. Cash crops rose. Famine risk rose. Major famine markers are **1770 Bengal**, **1876–78**, and **1943 Bengal**.
+- Industry saw handicrafts decline. Modern mills came late and stayed thin.
+- Finance sent Indian surplus to Britain through the Drain and Home Charges.
+- Rail, telegraph and post served control and trade first. Nationalists used them later.
+- Society produced typical colonial classes: zamindar, moneylender and landless labourer.
+- A dual economy grew. A few export pockets sat beside a distressed mass.
 - India was **not** “fully modernised by 1947.” Infrastructure is not proof of benevolent rule.
 
 **UP Focus**
 
 - Land revenue in the North-Western Provinces (later UP) was mainly **Mahalwari**.
-- Rail junctions: **Kanpur, Lucknow, Allahabad**.
-- Cash crop: indigo on the Bihar–Bengal belt, with an eastern UP fringe.
+- The main rail junctions were **Kanpur, Lucknow and Allahabad**.
+- Indigo was the cash crop of the Bihar–Bengal belt, with an eastern UP fringe.
 
 ---
 

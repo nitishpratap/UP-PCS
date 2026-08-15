@@ -11,7 +11,7 @@ Slogans | Newspapers & Journals | Books & Authors | Committees & Commissions | B
 > **Sources baked in:** Spectrum match lists, UPPCS Prelims 2018–2025  
 > **Exam weight:** ★★★ — this file is a **drill vault**, not a second textbook  
 > **Last verified:** August 2026  
-> **Boundary:** Full event cards live in Topics 1–15. Tables here are for matching. Do not re-learn narrative from this file.
+> **Boundary:** This file is a **match vault**. Event stories sit in the earlier Modern India chapters. Drill from the tables; do not re-learn narrative here.
 
 ---
 
@@ -56,7 +56,7 @@ EDUCATION 2018 Q21: Wood 1854 → Hunter 1882 → Sadler 1917 → Sargeant 1944 
 
 ## 16.1 Slogans and who gave them
 
-**This topic is the slogan home.** Event cards stay in T11–T14.
+**This topic is the slogan home.** Event stories stay with Swadeshi, Home Rule and the final phase.
 
 | Slogan | Person | Lock |
 |--------|--------|------|
@@ -83,7 +83,7 @@ EDUCATION 2018 Q21: Wood 1854 → Hunter 1882 → Sadler 1917 → Sargeant 1944 
 
 ## 16.2 Newspapers and journals
 
-**Full press cards → Topic 7.** Drill table only.
+This is the **press match table**. Editor stories sit with Education and Press.
 
 | Paper | Person | Place / tag |
 |-------|--------|-------------|
@@ -107,13 +107,13 @@ EDUCATION 2018 Q21: Wood 1854 → Hunter 1882 → Sadler 1917 → Sargeant 1944 
 | **Satyawadi** | — | **Agra** |
 | **Shakti** | — | **Almora** |
 
-**2022 Q117:** local `pyq/2022` prints **Kesari**; standard paper is **Swadesh**. Code with Swadesh–Gorakhpur = **B** (4, 3, 1, 2). Home explanation → Topic 7.
+**2022 Q117:** local `pyq/2022` prints **Kesari**. The standard paper is **Swadesh**. Code with Swadesh–Gorakhpur is **B** (4, 3, 1, 2).
 
 ---
 
 ## 16.3 Books and authors
 
-**Full cards → Topic 10.** Eight syllabus titles + 2020/2019/2021 PYQs live there.
+This is the **books match table**. Eight syllabus titles and the 2020/2019/2021 stems sit with Books and Authors.
 
 | Book | Author |
 |------|--------|
@@ -137,21 +137,21 @@ EDUCATION 2018 Q21: Wood 1854 → Hunter 1882 → Sadler 1917 → Sargeant 1944 
 
 | Body | Year | Lock |
 |------|------|------|
-| **Wood’s Despatch** | **1854** | Magma Carta of English education → T7 |
-| **Hunter Commission** (education) | **1882** | W.W. Hunter; primary education → T7 |
-| **Raleigh / Indian Universities** | 1902 / **1904** | Curzon → T7 |
-| **Sadler Commission** | **1917–19** | Calcutta University → T7 |
-| **Hunter Committee** (Punjab) | **1919–20** | Jallianwala inquiry — **≠ 1882** → T13 |
-| **Sargeant Plan** | **1944** | Education → T7 |
+| **Wood’s Despatch** | **1854** | Magna Carta of English education |
+| **Hunter Commission** (education) | **1882** | W.W. Hunter; primary education |
+| **Raleigh / Indian Universities** | 1902 / **1904** | Curzon |
+| **Sadler Commission** | **1917–19** | Calcutta University |
+| **Hunter Committee** (Punjab) | **1919–20** | Jallianwala inquiry — **≠ 1882** |
+| **Sargeant Plan** | **1944** | Education |
 | **Hartog** | 1929 | Education |
 | **Linlithgow** | 1936–37 | Agriculture |
 | **Whitley** | 1929–31 | Labour |
-| **Simon Commission** | 1927–30 | All-white; “Go Back” → T13 |
+| **Simon Commission** | 1927–30 | All-white; “Go Back” |
 | **Butler** | 1927 | Princely states |
-| **Dhar Commission** | 1948 | Against linguistic basis → T15 |
-| **JVP** | 1948–49 | Nehru–Patel–Sitaramayya → T15 |
-| **SRC** | 1953–55 | **Fazl Ali, Panikkar, Kunzru** → T15 |
-| **Balwant Rai Mehta** | 1957 | Three-tier PR → Polity T10 |
+| **Dhar Commission** | 1948 | Against linguistic basis |
+| **JVP** | 1948–49 | Nehru–Patel–Sitaramayya |
+| **SRC** | 1953–55 | **Fazl Ali, Panikkar, Kunzru** |
+| **Balwant Rai Mehta** | 1957 | Three-tier Panchayati Raj |
 | **MacDonnell** | 1901 | Famine |
 | **Fraser** | 1902–03 | Police |
 
@@ -163,7 +163,7 @@ EDUCATION 2018 Q21: Wood 1854 → Hunter 1882 → Sadler 1917 → Sargeant 1944 
 
 ## 16.5 British Acts (timeline)
 
-**Full Act cards → Polity Topic 1 / Modern T3–T4 / T7 (press).** Timeline only.
+This is the **Acts timeline**. Full Act stories sit with Governors-General, administration and the press.
 
 | Year | Act | One lock |
 |------|-----|----------|
@@ -181,16 +181,16 @@ EDUCATION 2018 Q21: Wood 1854 → Hunter 1882 → Sadler 1917 → Sargeant 1944 
 | **1892** | Indian Councils | Indirect election; budget discuss |
 | **1909** | Morley–Minto | **Separate electorates** (Muslims) |
 | **1919** | Montagu–Chelmsford | **Dyarchy** provinces; Chamber of Princes |
-| **1919** | Rowlatt | Arrest without trial → T13 |
+| **1919** | Rowlatt | Arrest without trial |
 | **1935** | GOI Act | Provincial **autonomy**; dyarchy at Centre; federation (not started) |
 
-**2019 Q19:** Communal Award year in options as **1933** is the **unmatched** trap (Award **16 Aug 1932**) → T13.
+**2019 Q19:** a Communal Award year printed as **1933** is the unmatched trap. The Award is **16 August 1932**.
 
 ---
 
 ## 16.6 Treaties and agreements
 
-**War cards → Topic 2.** Years for matching:
+This is the **treaty match table**. War stories sit with Company expansion.
 
 | Treaty | Year | War / lock |
 |--------|------|------------|
@@ -203,9 +203,9 @@ EDUCATION 2018 Q21: Wood 1854 → Hunter 1882 → Sadler 1917 → Sargeant 1944 
 | **Bassein** | **1802** | 2nd Anglo–Maratha (subsidiary) |
 | **Sugauli** | **1816** | Anglo–Nepal; **not** Kathmandu as the treaty name |
 | **Lahore** | 1846 | 1st Anglo–Sikh |
-| **Lucknow Pact** | **1916** | Congress–League → T9 |
-| **Gandhi–Irwin** | **1931** | → T13 |
-| **Poona Pact** | **1932** | → T13 |
+| **Lucknow Pact** | **1916** | Congress–League |
+| **Gandhi–Irwin** | **1931** | Pact after CDM |
+| **Poona Pact** | **1932** | Gandhi–Ambedkar |
 
 **2019 Q93:** Allahabad 1765, Mangalore 1784, Salbai 1782, Madras 1769 = **4, 2, 1, 3** = **C**.
 
@@ -213,7 +213,7 @@ EDUCATION 2018 Q21: Wood 1854 → Hunter 1882 → Sadler 1917 → Sargeant 1944 
 
 ## 16.7 INC sessions (Place–President–Resolution)
 
-**Early-nationalist narrative → Topic 9.** Complete match table lives here.
+This is the **INC session match table**. Early-nationalist story sits with Rise of Nationalism.
 
 | Year | Place | President | Resolution / lock |
 |------|-------|-----------|-------------------|
@@ -252,7 +252,7 @@ EDUCATION 2018 Q21: Wood 1854 → Hunter 1882 → Sadler 1917 → Sargeant 1944 
 
 ## 16.8 Revolutionary organisations and headquarters
 
-**Full cards → Topic 11.**
+This is the **revolutionary HQ match table**. Action stories sit with Swadeshi and Revolutionary Movement.
 
 | Organisation | Year / HQ | Person |
 |--------------|-----------|--------|
@@ -266,7 +266,7 @@ EDUCATION 2018 Q21: Wood 1854 → Hunter 1882 → Sadler 1917 → Sargeant 1944 
 | **Kakori** | **9 Aug 1925**, UP | Bismil, Ashfaqullah, Rajendra Lahiri, Roshan Singh |
 | **HSRA** | **1928** | Chandrashekhar Azad, Bhagat Singh |
 | **Chittagong** | **1930** | Surya Sen |
-| **Forward Bloc** | **1939** | Bose — T14 |
+| **Forward Bloc** | **1939** | Bose |
 
 **2018 Q22:** Abhinav Bharat = **Savarkar** (not Bhagat Singh).  
 **2023 Q42:** Hardinge bomb = **Anushilan Samiti**.
@@ -285,9 +285,9 @@ EDUCATION 2018 Q21: Wood 1854 → Hunter 1882 → Sadler 1917 → Sargeant 1944 
 | **Maulvi Ahmadullah Shah** | Faizabad / Awadh |
 | **Liyaqat Ali** | **Allahabad** 1857 — **not Lucknow** |
 | **2018 Q95:** Lucknow–Liyaqat Ali is **NOT** matched | Lucknow = Hazrat Mahal |
-| **Awadh Kisan Sabha / Eka** | Baba Ramchandra; Madari Pasi — T8 |
-| **Chauri Chaura** | **4 Feb 1922**, Gorakhpur — T13 |
-| **Kakori** | **9 Aug 1925** — Bismil, Ashfaq — T11 |
+| **Awadh Kisan Sabha / Eka** | Baba Ramchandra; Madari Pasi |
+| **Chauri Chaura** | **4 Feb 1922**, Gorakhpur |
+| **Kakori** | **9 Aug 1925** — Bismil, Ashfaq |
 | **Chandrashekhar Azad** | Alfred Park / **Azad Park, Allahabad**, **27 Feb 1931** |
 | **Ganesh Shankar Vidyarthi** | *Pratap*, Kanpur; killed 1931 communal riot |
 | **Motilal Nehru** / **Jawaharlal** | Allahabad |
@@ -295,7 +295,7 @@ EDUCATION 2018 Q21: Wood 1854 → Hunter 1882 → Sadler 1917 → Sargeant 1944 
 | **Purushottam Das Tandon** | Allahabad |
 | **Govind Ballabh Pant** | UP politics (Kumaon) |
 | **Rafi Ahmad Kidwai** | Barabanki |
-| **Acharya Narendra Dev** | CSP — T12 |
+| **Acharya Narendra Dev** | Congress Socialist Party |
 
 ---
 
@@ -326,7 +326,7 @@ EDUCATION 2018 Q21: Wood 1854 → Hunter 1882 → Sadler 1917 → Sargeant 1944 
 
 ## 16.11 British officials and policies
 
-**Full cards → Topic 3.**
+This is the **Governor-General policy match table**. Full tenure cards sit with Governors-General and Viceroys.
 
 | Official | Policy lock |
 |----------|-------------|
@@ -347,7 +347,7 @@ EDUCATION 2018 Q21: Wood 1854 → Hunter 1882 → Sadler 1917 → Sargeant 1944 
 | Wavell | Wavell Plan / Simla 1945 |
 | Mountbatten | 3 June Plan; last Viceroy |
 
-**2025 Q40** GG–reform match → Topic 3.
+**2025 Q40** is a GG–reform match. Drill it against this table.
 
 ---
 
@@ -356,7 +356,7 @@ EDUCATION 2018 Q21: Wood 1854 → Hunter 1882 → Sadler 1917 → Sargeant 1944 
 | Place | Lock |
 |-------|------|
 | **Red Fort, Delhi** | **INA Trials 1945–46** — 2019 Q21; **not** Gwalior / Agra / Amer |
-| **Jallianwala Bagh, Amritsar** | 13 April 1919 — T13 |
+| **Jallianwala Bagh, Amritsar** | 13 April 1919 |
 | **Cellular Jail, Andaman** | Savarkar and others |
 | **Jhansi Fort** | Rani Lakshmibai |
 | **Lucknow Residency** | 1857 siege |
