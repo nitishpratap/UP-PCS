@@ -84,49 +84,75 @@ Introduction to Study = Kosambi | Early History = Smith
 
 **Tigris–Euphrates | Sumer → Akkad → Babylon**
 
-- Homeland: southern Iraq floodplain. Greeks named it “land between the rivers.”
-- First cities: **Uruk, Ur, Lagash**. Polity = competing **city-states**, not one Nile-style kingdom.
-- Script: **cuneiform** on clay. Earliest full writing system in the Old World.
-- Temple-tower: **ziggurat**. It is a stepped shrine, not a tomb.
-- Law lock: **Hammurabi** of Babylon (18th c. BCE) — “code of Hammurabi.”
-- Tech locks: wheel, plough, bronze. Epic lock: *Gilgamesh*.
-- Sumerian texts call the Indus land **Meluhha**. That is the trade name, not a Harappan self-name.
+- Homeland is the southern Iraq floodplain.
+- Greeks named it “land between the rivers.”
+- First cities include **Uruk**, **Ur**, and **Lagash**.
+- Polity is competing **city-states**, not one Nile-style kingdom.
+- Script is **cuneiform** on clay.
+- It is the earliest full writing system in the Old World.
+- The temple-tower is the **ziggurat**.
+- It is a stepped shrine, not a tomb.
+- The law lock is **Hammurabi** of Babylon in the eighteenth century BCE.
+- That is the “code of Hammurabi.”
+- Tech locks include the wheel, the plough, and bronze.
+- The epic lock is *Gilgamesh*.
+- Sumerian texts call the Indus land **Meluhha**.
+- That is the trade name, not a Harappan self-name.
 
 ### Egypt
 
 **Nile | one river, one king**
 
-- Regular Nile flood. Grain surplus. Unified monarchy, not Sumerian city-states.
-- King = **pharaoh**, treated as divine.
-- Script: **hieroglyphs**. Writing surface: **papyrus**.
-- Tombs: **pyramids** (Old Kingdom). Afterlife package: mummification, *Book of the Dead*.
+- Regular Nile flood yields grain surplus.
+- Polity is a unified monarchy, not Sumerian city-states.
+- The king is the **pharaoh**, treated as divine.
+- Script is **hieroglyphs**.
+- The writing surface is **papyrus**.
+- Tombs of the Old Kingdom are **pyramids**.
+- The afterlife package includes mummification and the *Book of the Dead*.
 - Calendar and survey grew from measuring the inundation.
 
 ### Indus / Harappan
 
 **Indus–Ghaggar | planned cities, unread script**
 
-- Mature phase ~**2600–1900 BCE**. Contemporary with Mesopotamia and Old Kingdom / Middle Kingdom Egypt, not with the Gupta age.
-- Signature: grid streets, baked brick, covered drains, standard weights. Great Bath at Mohenjo-daro.
-- Script is still **undeciphered**. Do not treat it as “hieroglyphs we can read.”
-- No ziggurat, no pyramid tomb-field, no named pharaoh.
-- Mesopotamia knows this land as **Meluhha**. A Harappan seal has turned up in Mesopotamia. Lapis comes the other way from Afghanistan.
+- The Mature phase is about **2600–1900 BCE**.
+- It is contemporary with Mesopotamia and Old Kingdom / Middle Kingdom Egypt.
+- It is not contemporary with the Gupta age.
+- Signatures include grid streets, baked brick, covered drains, and standard weights.
+- The Great Bath sits at Mohenjo-daro.
+- The script is still **undeciphered**.
+- Do not treat it as “hieroglyphs we can read.”
+- There is no ziggurat.
+- There is no pyramid tomb-field.
+- There is no named pharaoh.
+- Mesopotamia knows this land as **Meluhha**.
+- A Harappan seal has turned up in Mesopotamia.
+- Lapis comes the other way from Afghanistan.
 
 ### Shang China
 
 **Yellow River (Huang He) | oracle bones**
 
-- First historically readable Chinese dynasty, ~**1600–1046 BCE**.
-- Writing: **oracle-bone** inscriptions (scapula / plastron). This script **is** read.
-- Elite ritual: bronze **ding** vessels. Ancestor cult + high god **Di**.
-- Capital zone: Anyang. Chariot appears in elite warfare.
+- This is the first historically readable Chinese dynasty, about **1600–1046 BCE**.
+- Writing is **oracle-bone** inscriptions on scapula or plastron.
+- This script **is** read.
+- Elite ritual uses bronze **ding** vessels.
+- Ancestor cult sits with the high god **Di**.
+- The capital zone is Anyang.
+- The chariot appears in elite warfare.
 
 ### Later buckets (so the paper cannot swap them in)
 
-- **Minoan** Crete: Linear A (unread). Palace of Knossos.
-- **Mycenaean** Greece: Linear B (early Greek). Fort citadels.
-- **Achaemenid Persia**: satraps, Royal Road. Iron Age, not the Bronze four.
-- Maya / Aztec / Inca: New World, maize, no Bronze-Age contact with the Indus.
+- **Minoan** Crete uses Linear A, which is unread.
+- Its palace lock is Knossos.
+- **Mycenaean** Greece uses Linear B, which is early Greek.
+- Its forts are citadels.
+- **Achaemenid Persia** uses satraps and the Royal Road.
+- It is Iron Age, not one of the Bronze four.
+- Maya, Aztec, and Inca are New World.
+- They use maize.
+- They have no Bronze-Age contact with the Indus.
 
 > **Exam note:** Garden of Eden in the Bible is conventionally the **Tigris–Euphrates** belt, not the Nile and not the Indus.
 
@@ -160,9 +186,11 @@ Introduction to Study = Kosambi | Early History = Smith
 
 **Smriti encyclopaedias | genealogy is the history use | Gupta-age compilation**
 
-- Puranas are **post-Vedic**. Main written shape is **Gupta and after** (roughly 4th–10th c. CE), using older oral king-lists.
-- Count lock: **18 Mahapuranas** and **18 Upapuranas**.
-- A Mahapurana is supposed to carry **panchalakshana** — five marks:
+- Puranas are **post-Vedic**.
+- The main written shape is **Gupta and after**, roughly the fourth to tenth centuries CE.
+- They use older oral king-lists.
+- The count lock is **18 Mahapuranas** and **18 Upapuranas**.
+- A Mahapurana is supposed to carry **panchalakshana**, five marks.
 
 | Mark | Meaning |
 |------|---------|
@@ -172,8 +200,12 @@ Introduction to Study = Kosambi | Early History = Smith
 | **Manvantara** | Manu-ages / cosmic cycles |
 | **Vamshanucharita** | Royal dynasties (the history bit) |
 
-- They are **smriti**, not shruti. Veda outranks them. Use them as a **supplement** to inscriptions, not as a year-perfect chronicle.
-- King-lists run long and duplicate names. Reign lengths are often inflated. Cross-check.
+- They are **smriti**, not shruti.
+- Veda outranks them.
+- Use them as a **supplement** to inscriptions, not as a year-perfect chronicle.
+- King-lists run long and duplicate names.
+- Reign lengths are often inflated.
+- Cross-check.
 
 ### 18 Mahapuranas (match list)
 
@@ -221,13 +253,23 @@ Introduction to Study = Kosambi | Early History = Smith
 
 **Charvaka / Lokayata | perception only | not the physician Charaka**
 
-- Indian materialism in the exam is the **Charvaka** school. Also called **Lokayata** and **Brihaspatya**.
-- Putative sutra-author in the tradition: **Brihaspati**. Surviving lines are mostly quotations in opponents’ books (*Sarvadarshanasamgraha* of Madhava).
-- Only **pramana** accepted: **pratyaksha** (direct perception). Inference and verbal testimony are rejected as proofs of unseen things.
-- No lasting **atman**. No **karma** fruit after death. No **rebirth**. No authority of the **Veda**. No *yajna* as unseen merit.
-- Consciousness is treated as a product of the body — the stock image is intoxication arising when ingredients mix.
-- Ethics in the hostile summaries: enjoy this world. The “debt for ghee” taunt is the quote exams recycle.
-- The school as a living *matha* **dies out**. We meet it as a **refuted** position in Nyaya, Vedanta and Buddhist texts.
+- Indian materialism in the exam is the **Charvaka** school.
+- It is also called **Lokayata** and **Brihaspatya**.
+- The putative sutra-author in the tradition is **Brihaspati**.
+- Surviving lines are mostly quotations in opponents’ books, such as Madhava’s *Sarvadarshanasamgraha*.
+- The only **pramana** accepted is **pratyaksha**, direct perception.
+- Inference and verbal testimony are rejected as proofs of unseen things.
+- There is no lasting **atman**.
+- There is no **karma** fruit after death.
+- There is no **rebirth**.
+- There is no authority of the **Veda**.
+- There is no *yajna* as unseen merit.
+- Consciousness is treated as a product of the body.
+- The stock image is intoxication arising when ingredients mix.
+- Ethics in the hostile summaries say enjoy this world.
+- The “debt for ghee” taunt is the quote exams recycle.
+- The school as a living *matha* **dies out**.
+- We meet it as a **refuted** position in Nyaya, Vedanta, and Buddhist texts.
 
 ### Neighbours, not the same school
 
@@ -244,13 +286,25 @@ Introduction to Study = Kosambi | Early History = Smith
 
 **Telangana | 12th–14th c. | capital Warangal (Orugallu)**
 
-- Start as **feudatories of the Western Chalukyas**. Independence is a 12th-c. story, not an Ashokan one.
-- Core land: **Telangana** (Warangal, Hanamkonda, Karimnagar belt). Not Uttar Pradesh.
-- Early seat: **Hanamkonda**. Capital that the match-paper wants: **Warangal**, Sanskrit/Telugu **Orugallu** (“one-stone” fort).
-- Polity: **nayankara** chiefs hold land, raise troops, remit revenue. Later Vijayanagara *amaranayaka* looks related.
-- Language of court: **Telugu + Sanskrit**. Religion of the temples: mainly **Shaiva**.
-- Delhi arrives twice. **Malik Kafur** (Alauddin Khalji) takes tribute at Warangal in **1310**. Final sack: **1323**, Ulugh Khan under **Ghiyasuddin Tughluq**. Last king: Prataparudra II.
-- After 1323 the country passes through Delhi, then Bahmani, then Qutb Shahi Golconda. Kakatiya rule itself has ended.
+- They start as **feudatories of the Western Chalukyas**.
+- Independence is a twelfth-century story, not an Ashokan one.
+- Core land is **Telangana**.
+- The belt is Warangal, Hanamkonda, and Karimnagar.
+- It is not Uttar Pradesh.
+- The early seat is **Hanamkonda**.
+- The capital the match-paper wants is **Warangal**.
+- Sanskrit and Telugu call it **Orugallu**, the “one-stone” fort.
+- Polity uses **nayankara** chiefs.
+- They hold land, raise troops, and remit revenue.
+- Later Vijayanagara *amaranayaka* looks related.
+- Court language is **Telugu** and **Sanskrit**.
+- Temple religion is mainly **Shaiva**.
+- Delhi arrives twice.
+- **Malik Kafur** under Alauddin Khalji takes tribute at Warangal in **1310**.
+- The final sack is **1323**, by Ulugh Khan under **Ghiyasuddin Tughluq**.
+- The last king is Prataparudra II.
+- After 1323 the country passes through Delhi, then Bahmani, then Qutb Shahi Golconda.
+- Kakatiya rule itself has ended.
 
 ### Capital match (2019 Q90)
 
@@ -326,11 +380,19 @@ Teach in this order. Prataparudra II is the **last** king, not the founder.
 
 ### Architecture
 
-- Style: star / cruciform plan, bracket figures, light porous brick, **sandbox** foundation (earth cushion under the platform).
-- **Thousand Pillar Temple**, Hanamkonda: triple shrine (Shiva, Surya, Vishnu). Rudradeva, 12th c. **Not inside** Warangal fort.
-- **Ramappa (Rudreshwara) Temple**, **Palampet**: built **1213** under **Recharla Rudra**, a general of **Ganapati Deva**.
-- Ramappa “floating bricks”: low-density burnt clay, they float on water.
-- **UNESCO World Heritage**, **2021**. State = **Telangana**, not Karnataka, not Andhra after the 2014 split in the option list.
+- Style uses a star or cruciform plan, bracket figures, light porous brick, and a **sandbox** foundation.
+- That earth cushion sits under the platform.
+- The **Thousand Pillar Temple** at Hanamkonda is a triple shrine of Shiva, Surya, and Vishnu.
+- It belongs to Rudradeva in the twelfth century.
+- It is **not inside** Warangal fort.
+- The **Ramappa (Rudreshwara) Temple** at **Palampet** was built in **1213**.
+- The builder-patron is **Recharla Rudra**, a general of **Ganapati Deva**.
+- Ramappa “floating bricks” are low-density burnt clay.
+- They float on water.
+- It became **UNESCO World Heritage** in **2021**.
+- The state is **Telangana**.
+- It is not Karnataka.
+- It is not Andhra after the 2014 split in an option list.
 
 ### Fort and emblem
 
@@ -339,9 +401,11 @@ Teach in this order. Prataparudra II is the **last** king, not the founder.
 
 ### Irrigation and economy
 
-- Chain-tank country: **Ramappa Lake**, **Pakhal Lake**, and a hill-to-field reservoir web.
-- Motupalli charter = overseas trade under royal protection.
-- Diamond hinterland of later Golconda is already in this geography. Do not make Kakatiyas “the Mughal diamond court.”
+- Chain-tank country includes **Ramappa Lake** and **Pakhal Lake**.
+- A hill-to-field reservoir web sits with them.
+- The Motupalli charter is overseas trade under royal protection.
+- The diamond hinterland of later Golconda is already in this geography.
+- Do not make Kakatiyas “the Mughal diamond court.”
 
 ### Culture
 
@@ -357,16 +421,18 @@ Teach in this order. Prataparudra II is the **last** king, not the founder.
 
 **Ancient-paper match | four pairs, one code**
 
-| Book | Author | One-line |
-|------|--------|----------|
-| *Hindu Polity* | **K.P. Jayaswal** | Ancient *gana*/polity, nationalist reading |
-| *The Wonder That Was India* | **A.L. Basham** | Cultural survey |
-| *An Introduction to the Study of Indian History* | **D.D. Kosambi** | Marxist / analytical |
-| *The Early History of India* | **Vincent Arthur Smith** | Colonial dynastic narrative |
-
-- 2024 List-II order: 1 Kosambi, 2 Basham, 3 Jayaswal, 4 Smith.
-- A-3, B-2, C-1, D-4 → **C**.
-- Option A on that paper (3-2-4-1) swaps Kosambi and Smith. That is the bait.
+- *Hindu Polity* is by **K.P. Jayaswal**.
+- It is a nationalist reading of ancient *gana* and polity.
+- *The Wonder That Was India* is by **A.L. Basham**.
+- It is a cultural survey.
+- *An Introduction to the Study of Indian History* is by **D.D. Kosambi**.
+- It is Marxist and analytical.
+- *The Early History of India* is by **Vincent Arthur Smith**.
+- It is a colonial dynastic narrative.
+- In 2024 List-II the order is 1 Kosambi, 2 Basham, 3 Jayaswal, 4 Smith.
+- A-3, B-2, C-1, D-4 keys **C**.
+- Option A on that paper (3-2-4-1) swaps Kosambi and Smith.
+- That is the bait.
 
 > **Exam note:** Basham did **not** write the Marxist introduction. Kosambi did **not** write *Early History*.
 
@@ -376,12 +442,18 @@ Teach in this order. Prataparudra II is the **last** king, not the founder.
 
 **Ayurveda, internal medicine | 120 chapters, 8 sections**
 
-- *Charaka Samhita* is the root text of **kayachikitsa** (internal medicine). Compilation / redaction of the older Agnivesha tradition. Rough window: late centuries BCE to early centuries CE.
-- Structure lock: **120** *adhyayas* (chapters) in **8** *sthanas* (sections).
-- 2023 Q25 options 100/5, 80/7, 60/8 are all wrong. Answer **A**.
-- The eight sections (Sutra, Nidana, Vimana, Sharira, Indriya, Chikitsa, Kalpa, Siddhi) need not be recited unless a match-list appears. The **count** is what UPPCS asked.
-- **Sushruta Samhita** = **surgery** (including rhinoplasty in the tradition). Different book, different specialist.
-- Charaka is not Vedic shruti. It is classical Sanskrit science.
+- *Charaka Samhita* is the root text of **kayachikitsa**, internal medicine.
+- It is a compilation or redaction of the older Agnivesha tradition.
+- The rough window is late centuries BCE to early centuries CE.
+- The structure lock is **120** *adhyayas* (chapters) in **8** *sthanas* (sections).
+- In 2023 Q25, options 100/5, 80/7, and 60/8 are all wrong.
+- The answer is **A**.
+- The eight *sthanas* need not be recited unless a match-list appears.
+- The **count** is what UPPCS asked.
+- **Sushruta Samhita** is **surgery**, including rhinoplasty in the tradition.
+- It is a different book and a different specialist.
+- Charaka is not Vedic shruti.
+- It is classical Sanskrit science.
 - Charaka the physician is not Charvaka the materialist.
 
 > **Exam note:** 2023 Q25 = **A**. Father-of-Indian-medicine tag in Lucent-type books = **Charaka**.

@@ -60,27 +60,42 @@ Curtius army: 2 lakh foot, 20k horse, 2k chariots, 3k elephants | Alexander neve
 
 **Iron Age Gangetic states | second urbanisation | age of the Buddha and Mahavira**
 
-- Later Vedic **jana** → territorial **janapada** → **16 mahajanapadas**. Politics = war + marriage. No pan-Indian empire until Nanda–Maurya.
-- **Iron** plough and weapons. Forest clearance in the middle Ganga.
-- **Chaturanga** army: infantry, cavalry, chariots, elephants.
-- Pottery: **NBPW** (~700–200 BCE) = deluxe table-ware of this urban phase. **PGW** is the Later Vedic doab ware, not this. Do not date NBPW as “only Mauryan” — it starts in mahajanapada towns and continues into Mauryas.
-- Second urbanisation (after Harappa): mud/burnt-brick ramparts, craft quarters, **setthi** merchants, **punch-marked** silver (*karshapana*, bent bars). No gold dinara yet.
-- Two constitutions: **monarchy** vs **gana-sangha** (assembly of kshatriya clans, not adult-male democracy). Shakya of Kapilavastu sits under Kosala — **not** one of the 16 names.
-- Taxes you will see: **bhaga** (produce share, often 1/6 in later memory), **bali**, **shulka** (toll), **visti** (labour). Officers: *mahamatta*, *senanayaka*, *bhandagarika*.
-- Standard exam list of 16: Buddhist **Anguttara Nikaya**.
-- Jain list: **Bhagavati / Vyakhya Prajnapti**.
-- Puranas for Magadha dynasties.
-- Greek writers only at the **Nanda** end.
-- Northwest: Gandhara / Kamboja already on the **Achaemenid** fringe. **Alexander 326 BCE** closes this age. It is not a 600 BCE event.
-- Buddha and Mahavira teach in this century. This file = **states, capitals, Magadha houses**, not the Four Noble Truths.
+- The Later Vedic **jana** becomes a territorial **janapada**.
+- Sixteen of those states are called **mahajanapadas**.
+- Politics is war and marriage. There is no pan-Indian empire until Nanda–Maurya.
+- **Iron** ploughs and weapons open forest in the middle Ganga.
+- The **chaturanga** army has infantry, cavalry, chariots, and elephants.
+- **NBPW** (about 700–200 BCE) is the deluxe table-ware of this urban phase.
+- **PGW** is the Later Vedic doab ware. It is not this urban ware.
+- Do not date NBPW as “only Mauryan.” It starts in mahajanapada towns and continues into the Mauryas.
+- This is the **second urbanisation** after Harappa.
+- Towns show mud or burnt-brick ramparts and craft quarters.
+- **Setthi** merchants appear.
+- **Punch-marked** silver (*karshapana*, bent bars) appears. There is no gold dinara yet.
+- Two constitutions exist: **monarchy** and **gana-sangha**.
+- A gana-sangha is an assembly of kshatriya clans. It is not adult-male democracy.
+- The Shakyas of Kapilavastu sit under Kosala. They are **not** one of the 16 names.
+- **Bhaga** is a produce share, often remembered as one-sixth.
+- **Bali** is tribute.
+- **Shulka** is a toll.
+- **Visti** is labour.
+- Officers include *mahamatta*, *senanayaka*, and *bhandagarika*.
+- The standard exam list of 16 is the Buddhist **Anguttara Nikaya**.
+- The Jain list is the **Bhagavati / Vyakhya Prajnapti**.
+- Puranas give the Magadha dynasties.
+- Greek writers appear only at the **Nanda** end.
+- In the northwest, Gandhara and Kamboja already sit on the **Achaemenid** fringe.
+- **Alexander in 326 BCE** closes this age. It is not a 600 BCE event.
+- Buddha and Mahavira teach in this century.
+- This file is **states, capitals, and Magadha houses**, not the Four Noble Truths.
 
-> **Exam note:** 6th c. BCE ≠ Mauryan India. NBPW ≠ PGW.
+> **Exam note:** The 6th century BCE is not Mauryan India. NBPW is not PGW.
 
 ---
 
 ## 5.2 Sixteen Mahajanapadas
 
-**Solasa mahajanapada | Anguttara Nikaya (Jain *Bhagavati* also knows 16) | capital table + one lock each**
+**Solasa mahajanapada | Anguttara Nikaya | Jain *Bhagavati* also knows 16**
 
 | # | Mahajanapada | Capital | River / belt |
 |---|--------------|---------|--------------|
@@ -101,76 +116,91 @@ Curtius army: 2 lakh foot, 20k horse, 2k chariots, 3k elephants | Alexander neve
 | 15 | **Gandhara** | Taxila (also Pushkalavati) | Indus |
 | 16 | **Kamboja** | Rajapura | Hindu Kush |
 
-**One-line cards (this is what match-lists pick besides capitals)**
-
 **Kashi**
-- Strongest *early*.
-- Later a Kosala pawn.
-- Bimbisara gets it as **dowry**.
+- Kashi is the strongest state *early*.
+- It later becomes a Kosala pawn.
+- Bimbisara receives it as **dowry**.
 
 **Kosala**
-- King **Prasenajit** (Pasenadi).
-- Son **Vidudabha** wrecks the Shakyas.
-- Jetavana = **Anathapindika**. Not a Magadha gift.
+- The king is **Prasenajit** (Pasenadi).
+- His son **Vidudabha** wrecks the Shakyas.
+- Jetavana is the gift of **Anathapindika**. It is not a Magadha gift.
 
 **Anga**
-- Champa = Ganga **emporium** (Bhagalpur).
-- **First** Magadha annexation (Bimbisara).
+- **Champa** is a Ganga **emporium** in the Bhagalpur belt.
+- Anga is the **first** Magadha annexation, under Bimbisara.
 
 **Magadha**
-- **Girivraja / Rajagriha** = five hills.
-- Iron + elephants.
-- Epic memory **Jarasandha / Brihadratha** is Puranic pre-Haryanka. Not the exam dynasty list.
+- **Girivraja / Rajagriha** sits in a ring of five hills.
+- Iron and elephants are the resource locks.
+- Epic memory of **Jarasandha / Brihadratha** is Puranic pre-Haryanka. It is not the exam dynasty list.
 
 **Vajji**
-- **Gana** of **eight** clans. **Licchavi** leading.
-- Videha/Mithila and **Jnatrika** (Mahavira’s clan) sit inside the league.
-- Buddha praises their frequent assemblies.
+- Vajji is a **gana** of **eight** clans.
+- The **Licchavis** lead the league.
+- Videha / Mithila sits inside the league.
+- The **Jnatrika** clan of Mahavira also sits inside the league.
+- The Buddha praises their frequent assemblies.
 
 **Malla**
-- Two towns: **Kushinagar** (Buddha’s death) and **Pava**.
-- **Pava ≠ Jain Pavapuri** (Mahavira, Nalanda/Magadha).
+- One Malla town is **Kushinagar**, the site of the Buddha’s death.
+- The other is **Pava**.
+- Malla **Pava** is **not** Jain **Pavapuri**, where Mahavira died in Magadha.
 
 **Chedi**
-- Capital Shuktimati. Bundelkhand. Epic Sisupala.
+- The capital is Shuktimati in Bundelkhand.
+- Epic memory names Sisupala.
 
 **Vatsa**
-- King **Udayana**. Yamuna fort-city.
-- Kaushambi excavated by G.R. Sharma.
+- The king is **Udayana**.
+- Kaushambi is a Yamuna fort-city.
+- G.R. Sharma excavated Kaushambi.
 
 **Kuru**
-- Vedic glory already faded.
-- Hastinapur + Indraprastha. PGW overlay, then NBPW.
+- Vedic glory has already faded.
+- Sites are Hastinapur and Indraprastha.
+- PGW overlay comes first, then NBPW.
 
 **Panchala**
-- North **Ahichchhatra** (Bareilly). South **Kampilya** (Farrukhabad).
-- Draupadi’s epic home.
+- North Panchala has **Ahichchhatra** in Bareilly.
+- South Panchala has **Kampilya** in Farrukhabad.
+- Epic memory makes it Draupadi’s home.
 
 **Matsya**
-- Viratnagar / Bairat (Jaipur–Alwar). **2020: not Mathura.**
+- The capital is Viratnagar / Bairat in the Jaipur–Alwar belt.
+- In **2020** Matsya is **not** Mathura.
 
 **Surasena**
-- Mathura. Vrishni–Andhaka / Krishna belt. **2020 capital.**
+- The capital is **Mathura**.
+- It is the Vrishni–Andhaka / Krishna belt.
+- Mathura is the **2020** capital lock.
 
 **Asmaka**
-- **Only** mahajanapada **south of the Vindhyas**. Godavari.
-- 2020 capital = **Potana** (not Satavahana Paithan).
+- Asmaka is the **only** mahajanapada **south of the Vindhyas**.
+- It lies on the Godavari.
+- The 2020 capital is **Potana**, not Satavahana Paithan.
 
 **Avanti**
-- Ujjain (N) + Mahishmati (S, Narmada).
-- **Chanda Pradyota**. Jivaka sent from Magadha to treat him.
-- Falls to **Shishunaga**.
+- North Avanti is **Ujjain**.
+- South Avanti is **Mahishmati** on the Narmada.
+- The king is **Chanda Pradyota**.
+- Jivaka was sent from Magadha to treat him.
+- Avanti falls to **Shishunaga**.
 
 **Gandhara**
-- Taxila university-town. Achaemenid satrapy.
-- Pushkalavati = second pole.
+- **Taxila** is the university-town.
+- It is an Achaemenid satrapy.
+- **Pushkalavati** is the second pole.
 
 **Kamboja**
-- **Horses**. Ashvaka tribes. Farthest NW.
+- Kamboja is known for **horses**.
+- Ashvaka tribes live here.
+- It is the farthest northwest of the 16.
 
-Four-power fight: **Magadha, Kosala, Vatsa, Avanti**. **Shakya is not one of the 16.**
+- The four-power fight is among **Magadha, Kosala, Vatsa, and Avanti**.
+- **Shakya is not one of the 16.**
 
-> **Exam note:** 16, not 18. 2020 swaps Matsya ↔ Surasena. Jain list exists but papers use the Buddhist 16.
+> **Exam note:** There are 16, not 18. The 2020 paper swaps Matsya with Surasena. A Jain list exists, but papers use the Buddhist 16.
 
 ---
 
@@ -178,9 +208,24 @@ Four-power fight: **Magadha, Kosala, Vatsa, Avanti**. **Shakya is not one of the
 
 **Eight touch present UP | Magadha is the classic trap**
 
-**In UP:** Kashi, Kosala, Vatsa, Kuru (Hastinapur), Panchala, Malla, Surasena, Chedi (Bundelkhand edge).
+- Eight of the sixteen touch present-day Uttar Pradesh.
+- **Kashi** is in Uttar Pradesh.
+- **Kosala** is in Uttar Pradesh.
+- **Vatsa** is in Uttar Pradesh.
+- **Kuru** (Hastinapur) is in Uttar Pradesh.
+- **Panchala** is in Uttar Pradesh.
+- **Malla** is in Uttar Pradesh.
+- **Surasena** is in Uttar Pradesh.
+- **Chedi** sits on the Bundelkhand edge of Uttar Pradesh.
 
-**Not UP:** Magadha, Anga, Vajji (**Bihar**). Avanti (**MP**). Matsya (**Rajasthan**). Asmaka (Deccan). Gandhara / Kamboja (NW).
+- **Magadha** is in **Bihar**, not Uttar Pradesh.
+- **Anga** is in Bihar.
+- **Vajji** is in Bihar.
+- **Avanti** is in **Madhya Pradesh**.
+- **Matsya** is in **Rajasthan**.
+- **Asmaka** is in the Deccan.
+- **Gandhara** is in the northwest.
+- **Kamboja** is in the northwest.
 
 | State | UP lock |
 |-------|---------|
@@ -193,16 +238,20 @@ Four-power fight: **Magadha, Kosala, Vatsa, Avanti**. **Shakya is not one of the
 | Surasena | **Mathura** |
 | Chedi | Banda–Chitrakoot / Bundelkhand — capital Shuktimati (not firmly pinned to one modern town) |
 
-> **Exam note:** “Magadha / Vaishali / Champa in UP” is false.
+> **Exam note:** “Magadha, Vaishali, or Champa in Uttar Pradesh” is false.
 
 ---
 
 ## 5.4 Capitals of Mahajanapadas
 
-**Dual capitals + the 2020 four | full 16 pairs are in 5.2**
+**Dual capitals plus the 2020 four | full 16 pairs are in 5.2**
 
-- Dual: Kosala (Shravasti + Ayodhya), Kuru (Hastinapur + Indraprastha), Avanti (Ujjain north, Mahishmati south), Panchala (Ahichchhatra north, Kampilya south), Magadha (**Rajgir then Pataliputra**).
-- 2020 paper spellings: **Sursena, Asmak, Potan, Virat Nagar**.
+- **Kosala** has two capitals: Shravasti and Ayodhya.
+- **Kuru** has two: Hastinapur and Indraprastha.
+- **Avanti** has Ujjain in the north and Mahishmati in the south.
+- **Panchala** has Ahichchhatra in the north and Kampilya in the south.
+- **Magadha** has **Rajgir**, then **Pataliputra**.
+- The 2020 paper spellings are **Sursena, Asmak, Potan, Virat Nagar**.
 
 **PYQ — UPPCS Prelims 2020, Q6**
 
@@ -232,25 +281,28 @@ A. 4 2 1 3  B. 3 1 4 2  C. 3 4 1 2  D. 2 3 4 1
 
 **Who ate whom — Magadha wins the century**
 
-- Early ranking: **Kashi** first among equals.
-- Then Kosala eclipses Kashi.
-- Then Magadha eclipses everyone.
-- **Bimbisara** first swallows **Anga** (Champa port).
-- His marriages buy peace with Kosala (Kashi dowry), Licchavi, and Madra.
+- Early ranking puts **Kashi** first among equals.
+- Then **Kosala** eclipses Kashi.
+- Then **Magadha** eclipses everyone.
+- **Bimbisara** first swallows **Anga** and its Champa port.
+- His marriages buy peace with Kosala, with the Kashi dowry.
+- He also marries into the Licchavis.
+- He also marries into Madra.
 - **Ajatashatru** fights Kosala over Kashi after killing Bimbisara.
-- Settlement: marries **Vajira** (Prasenajit’s daughter).
-- Then **~16-year** war on **Vajji**.
-- War-engines: **rathamusala** (scythed chariot) and **mahashilakantaka** (stone-thrower).
-- Minister **Vassakara** (with **Sunidha**) sows discord in the Licchavi assembly.
-- They fortify **Pataligrama** (seed of Pataliputra).
-- **Vidudabha** (Kosala) destroys Kapilavastu / Shakyas. That is Kosala internal, not Magadha.
-- **Avanti** (Pradyota) stays independent until **Shishunaga**.
-- Vatsa is usually tied by marriage, not a first conquest.
+- Settlement comes when he marries **Vajira**, Prasenajit’s daughter.
+- He then fights a **~16-year** war on **Vajji**.
+- One war-engine is the **rathamusala**, a scythed chariot.
+- The other is the **mahashilakantaka**, a stone-thrower.
+- Minister **Vassakara**, with **Sunidha**, sows discord in the Licchavi assembly.
+- They fortify **Pataligrama**, the seed of Pataliputra.
+- **Vidudabha** of Kosala destroys Kapilavastu and the Shakyas. That is Kosala internal, not Magadha.
+- **Avanti** under Pradyota stays independent until **Shishunaga**.
+- Vatsa is usually tied by marriage, not by a first conquest.
 - Gana-sanghas fall last.
-- Gandhara/Kamboja meet **Persia then Greeks**, not Magadha first.
-- **Nandas** roll leftover Kuru–Panchala–Kalinga into one Gangetic empire. Then Mauryas.
+- Gandhara and Kamboja meet **Persia then the Greeks**, not Magadha first.
+- The **Nandas** roll leftover Kuru, Panchala, and Kalinga into one Gangetic empire. Then the Mauryas.
 
-> **Exam note:** First Magadha bite = **Anga**. Longest fight = **Vajji**. Avanti ≠ Bimbisara’s prize.
+> **Exam note:** The first Magadha bite is **Anga**. The longest fight is **Vajji**. Avanti is not Bimbisara’s prize.
 
 ---
 
@@ -258,45 +310,58 @@ A. 4 2 1 3  B. 3 1 4 2  C. 3 4 1 2  D. 2 3 4 1
 
 **Why this Bihar state, not Kosala or Avanti**
 
-- Alluvium + rain.
-- **Iron** from the Rajgir–Chhotanagpur fringe.
-- **Elephants** from the eastern forests. Timber.
-- **Rajagriha / Girivraja** = five-hill fort (Vaibhara, Vipula and the rest).
-- **Pataliputra** = Ganga + **Son**. River navy, tolls, hinge between the upper Ganga and the delta.
-- Roads: east to Anga/Bengal, west up-river to Kashi–Kosala–Vatsa. **Not** Arabian-Sea trade.
-- Unbroken hungry houses: Haryanka → Shishunaga → Nanda. Rivals had one strong king each (Prasenajit, Pradyota, Udayana) then gaps.
-- Bimbisara’s marriages: Kosala princess (**Kashi dowry**), Licchavi **Chellana**, Madra **Khema**.
-- Standing army + *mahamattas* = proto-Mauryan machine. The finished *Arthashastra* org-chart is Mauryan, not Haryanka.
+- Magadha has alluvium and rain.
+- **Iron** comes from the Rajgir–Chhotanagpur fringe.
+- **Elephants** come from the eastern forests, with timber.
+- **Rajagriha / Girivraja** is a five-hill fort. Named hills include Vaibhara and Vipula.
+- **Pataliputra** sits at the Ganga and the **Son**.
+- The site gives a river navy, tolls, and a hinge between the upper Ganga and the delta.
+- Roads run east to Anga and Bengal.
+- Roads run west up-river to Kashi, Kosala, and Vatsa.
+- Magadha did **not** rise on Arabian-Sea trade.
+- Unbroken hungry houses follow: Haryanka, then Shishunaga, then Nanda.
+- Rivals had one strong king each — Prasenajit, Pradyota, Udayana — then gaps.
+- Bimbisara’s Kosala princess brought the **Kashi dowry**.
+- His Licchavi wife is **Chellana**.
+- His Madra wife is **Khema**.
+- A standing army and *mahamattas* make a proto-Mauryan machine.
+- The finished *Arthashastra* org-chart is Mauryan, not Haryanka.
 
-> **Exam note:** Magadha ≠ “rose because of sea trade.” Five hills = Rajgir, not Pataliputra.
+> **Exam note:** Magadha did not “rise because of sea trade.” Five hills are Rajgir, not Pataliputra.
 
 ---
 
 ## 5.7 Haryanka Dynasty
 
-**First historical Magadha house | ~544–413 BCE | Buddhist/Jain, not the epic Brihadratha line**
+**First historical Magadha house | ~544–413 BCE | Buddhist and Jain, not the epic Brihadratha line**
 
-| Ruler | Dates (trad.) | Lock |
-|-------|---------------|------|
-| **Bimbisara** (Shrenika) | ~544–492 | Annexes **Anga**. Capital **Girivraja** |
-| **Ajatashatru** (Kunika) | ~492–460 | 16-year **Vajji** war. Patron of the **1st Buddhist council** at Rajagriha |
-| **Udayin** (Udayibhadda) | ~460–444 | **Founds / shifts capital to Pataliputra** (not Chandragupta) |
-| Anuruddha → Munda → Nagadasaka | tail | Weak; minister **Shishunaga** seizes the throne |
+- **Bimbisara** (Shrenika) rules about **544–492 BCE**.
+- He annexes **Anga**.
+- His capital is **Girivraja**.
+- He reigns about 52 years.
+- He makes three marriages.
+- **Jivaka** also treats Pradyota of Avanti.
+- He is a contemporary of the Buddha and of Mahavira.
 
-**Bimbisara extras**
-- Reign ~52 years.
-- Three marriages. **Jivaka** also treats Pradyota.
-- Contemporary of Buddha and Mahavira.
+- **Ajatashatru** (Kunika) rules about **492–460 BCE**.
+- He is a parricide.
+- He fights Kosala over Kashi, then marries Vajira.
+- He fights a 16-year **Vajji** war.
+- He uses the **rathamusala** and the **mahashilakantaka**.
+- Vassakara and Sunidha fortify Pataligrama.
+- He is patron of the **First Buddhist Council** at Rajagriha.
+- He claims a share of the Buddha’s relics and raises a Rajagriha stupa.
 
-**Ajatashatru extras**
-- Parricide. Kashi–Kosala war, then Vajira marriage.
-- Engines: **rathamusala / mahashilakantaka**.
-- Vassakara + Sunidha fortify Pataligrama.
+- **Udayin** (Udayibhadda) rules about **460–444 BCE**.
+- He **founds or shifts the capital to Pataliputra**.
+- Chandragupta Maurya did **not** found that city.
 
-- Jetavana at Shravasti = **Anathapindika**, Kosala. Not a Bimbisara building.
-- Ajatashatru claims a share of Buddha’s relics and raises a Rajagriha stupa.
+- Anuruddha, Munda, and Nagadasaka form a weak tail.
+- Minister **Shishunaga** seizes the throne.
 
-> **Exam note:** Pataliputra ≠ Mauryan foundation. **Udayin**. Bimbisara ≠ Nanda.
+- Jetavana at Shravasti is the gift of **Anathapindika** in Kosala. It is not a Bimbisara building.
+
+> **Exam note:** Pataliputra is not a Mauryan foundation. The founder-shift is **Udayin**. Bimbisara is not a Nanda.
 
 ---
 
@@ -304,15 +369,18 @@ A. 4 2 1 3  B. 3 1 4 2  C. 3 4 1 2  D. 2 3 4 1
 
 **Minister’s house | Avanti ends here | ~413–345 BCE**
 
-- **Shishunaga**: ex-viceroy of Kashi (people’s choice in some tellings).
-- Often said to have sat first at **Vaishali**, then returned the court to **Pataliputra**.
-- Crushes **Avanti** (Pradyota line). Ujjain into Magadha. That is the dynasty’s territorial lock.
-- **Kalashoka / Kakavarna**: **2nd Buddhist council, Vaishali** (~383 BCE).
-- The split at that council is **Sthavira / Mahasanghika**. The **king’s name** on the paper is Kalashoka.
-- Ten Shishunagas in Puranic count. Last often **Nandivardhana / Mahanandin** → overthrown by **Mahapadma Nanda**.
+- **Shishunaga** is an ex-viceroy of Kashi. Some tellings call him a people’s choice.
+- He is often said to have sat first at **Vaishali**, then returned the court to **Pataliputra**.
+- He crushes **Avanti** of the Pradyota line.
+- Ujjain enters Magadha. That is the dynasty’s territorial lock.
+- **Kalashoka / Kakavarna** holds the **Second Buddhist Council at Vaishali**, about **383 BCE**.
+- The split at that council is **Sthavira / Mahasanghika**.
+- The **king’s name** on the paper is Kalashoka.
+- Puranic count gives ten Shishunagas.
+- The last is often **Nandivardhana / Mahanandin**, overthrown by **Mahapadma Nanda**.
 - Rajgir stays a second city, not the capital of record.
 
-> **Exam note:** Shishunaga did **not** found Pataliputra. He **did** take Avanti. Kalashoka ≠ First Council.
+> **Exam note:** Shishunaga did **not** found Pataliputra. He **did** take Avanti. Kalashoka is not the First Council.
 
 ---
 
@@ -320,21 +388,24 @@ A. 4 2 1 3  B. 3 1 4 2  C. 3 4 1 2  D. 2 3 4 1
 
 **First Gangetic “empire” | ~345–322 BCE | *Navananda***
 
-- **Mahapadma Nanda** (also **Ugrasena**).
-- Puranic titles: **ekarat** and **sarvakshatrantaka** (“destroyer of kshatriyas”).
-- Hostile texts: **Shudra / barber** origin.
-- Rolls up leftover Kuru–Panchala–Kosala–Vatsa boards.
-- Hathigumpha later remembers a Nanda carrying off a Jina image from **Kalinga**. That inscription is **Kharavela’s**, not a Nanda edict.
-- Nine Nandas = Mahapadma + eight sons.
-- Last = **Dhana Nanda** (Greek **Agrammes / Xandrames**).
-- Curtius army (order of size, not a muster roll): **2,00,000** infantry, **20,000** cavalry, **2,000** chariots, **3,000** elephants.
-- Enough that Alexander’s army **stopped at the Beas**.
-- **Dhana ≠ defeated by Alexander.**
-- Unpopular tax-farmer. Chanakya’s insult-story.
-- **Chandragupta + Chanakya ~322 BCE** end the Nandas. That is the Mauryan start, not a Nanda reform.
-- Centralised revenue + standing four-fold army = the machine Mauryas inherit. Still **not** Ashokan dhamma, not *Arthashastra* as a finished book.
+- **Mahapadma Nanda** is also called **Ugrasena**.
+- Puranic titles are **ekarat** and **sarvakshatrantaka**, “destroyer of kshatriyas.”
+- Hostile texts give a **shudra / barber** origin.
+- He rolls up leftover Kuru, Panchala, Kosala, and Vatsa boards.
+- The Hathigumpha later remembers a Nanda carrying off a Jina image from **Kalinga**.
+- That inscription is **Kharavela’s**, not a Nanda edict.
+- Nine Nandas means Mahapadma plus eight sons.
+- The last is **Dhana Nanda**, the Greek **Agrammes / Xandrames**.
+- Curtius gives an army of **2,00,000** infantry, **20,000** cavalry, **2,000** chariots, and **3,000** elephants. Treat it as order of size, not a muster roll.
+- The numbers are enough that Alexander’s army **stopped at the Beas**.
+- **Dhana was not defeated by Alexander.**
+- He is remembered as an unpopular tax-farmer.
+- Chanakya’s insult-story belongs here.
+- **Chandragupta and Chanakya about 322 BCE** end the Nandas. That is the Mauryan start, not a Nanda reform.
+- Centralised revenue and a standing four-fold army are the machine the Mauryas inherit.
+- It is still **not** Ashokan dhamma, and not the *Arthashastra* as a finished book.
 
-> **Exam note:** Alexander never marched on Pataliputra. Mahapadma ≠ Chandragupta.
+> **Exam note:** Alexander never marched on Pataliputra. Mahapadma is not Chandragupta.
 
 ---
 

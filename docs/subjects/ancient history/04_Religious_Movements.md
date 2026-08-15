@@ -68,17 +68,18 @@ Bhagavatism = Vasudeva-Krishna, Mathura (UP) | Heliodorus pillar Besnagar
 
 **Shramana religion of the Buddha | nastika | Middle Path | no creator God**
 
-- Sixth-century BCE Gangetic reply to Vedic ritual and birth-varna. Founder **Siddhartha Gautama**.
-- **Triratna:** Buddha, Dhamma, Sangha.
-- **Madhyama Pratipad** — not palace luxury, not corpse-like tapas.
-- Accepts karma and rebirth.
-- Rejects a permanent **atman**.
-- Rejects Vedic yajna as the way out.
-- Sangha of bhikkhus / bhikkhunis. Viharas later.
-- Spread: Sri Lanka, Central Asia, China, SE Asia.
-- Faded in India after ~12th c. CE.
+- Buddhism is a sixth-century BCE Gangetic reply to Vedic ritual and birth-varna.
+- The founder is **Siddhartha Gautama**.
+- The **Triratna** are Buddha, Dhamma, and Sangha.
+- **Madhyama Pratipad** rejects palace luxury and also rejects corpse-like tapas.
+- Buddhism accepts karma and rebirth.
+- It rejects a permanent **atman**.
+- It rejects Vedic yajna as the way out.
+- The Sangha of bhikkhus and bhikkhunis lives later in viharas.
+- The religion spread to Sri Lanka, Central Asia, China, and Southeast Asia.
+- It faded in India after about the 12th century CE.
 
-> **Exam note:** Buddhism is **nastika**. It is not a theistic church of a creator.
+> **Exam note:** Buddhism is **nastika**. It does not take the Veda as authority. Nastika here does not mean “atheist in the modern sense.”
 
 ---
 
@@ -86,26 +87,32 @@ Bhagavatism = Vasudeva-Krishna, Mathura (UP) | Heliodorus pillar Besnagar
 
 **Sakya | Kapilavastu | four great events — place is the question**
 
-- Birth **Lumbini** (Nepal). Ashokan pillar there.
-- Mother **Mahamaya**. Father **Suddhodana**.
-- Wife **Yashodhara**. Son **Rahul(a)**.
-- Horse **Kanthaka**. Charioteer **Channa**.
-- Traditional dates 563–483 BCE (short chronology also used).
-- Four sights → **Mahabhinishkramana** at **29**.
-- Teachers: Alara Kalama, Udraka Ramaputra. Extreme fast failed.
-- Enlightenment at **35** under the Bodhi tree, **Bodh Gaya** (Uruvela).
-- First sermon **Sarnath / Isipatana, Deer Park** (UP) — *Dhammacakkappavattana*.
-- Five companions (**Panchavargiya**): **Kaundinya** (first to understand), Bhadrika, Vashpa, Mahanaman, Ashvajit.
-- **Ananda** = attendant.
-- **Upali** = Vinaya.
-- **Sariputta / Moggallana** = chief pair.
+- Birth is at **Lumbini** in Nepal. An Ashokan pillar stands there.
+- Mother is **Mahamaya**.
+- Father is **Suddhodana**.
+- Wife is **Yashodhara**.
+- Son is **Rahul(a)**.
+- Horse is **Kanthaka**.
+- Charioteer is **Channa**.
+- Traditional dates are 563–483 BCE. A short chronology is also used.
+- Four sights lead to **Mahabhinishkramana** at age **29**.
+- Teachers were Alara Kalama and Udraka Ramaputra.
+- Extreme fasting failed.
+- Enlightenment came at **35** under the Bodhi tree at **Bodh Gaya** (Uruvela).
+- The first sermon is at **Sarnath / Isipatana, Deer Park**, in Uttar Pradesh. It is the *Dhammacakkappavattana*.
+- The five companions are the **Panchavargiya**.
+- **Kaundinya** was the first to understand.
+- The other four companions are Bhadrika, Vashpa, Mahanaman, and Ashvajit.
+- **Ananda** is the attendant.
+- **Upali** holds the Vinaya.
+- **Sariputta** and **Moggallana** are the chief pair.
 - Cousin **Devadatta** split the order.
-- **Mahapajapati Gotami** = first nun (foster mother).
-- **Mahaparinirvana** at **80**, **Kushinagar** (UP), between sala trees.
-- Relics divided. Tradition of **eight** original relic-stupas.
-- Early art is **aniconic**: footprint, wheel, stupa, Bodhi tree, deer — not a human statue.
+- **Mahapajapati Gotami** is the first nun. She is the foster mother.
+- **Mahaparinirvana** came at age **80** at **Kushinagar** in Uttar Pradesh, between sala trees.
+- Relics were divided. Tradition counts **eight** original relic-stupas.
+- Early art is **aniconic**. Signs are the footprint, wheel, stupa, Bodhi tree, and deer. There is no human statue of the Buddha in that phase.
 
-> **Exam note:** Birth ≠ Bodh Gaya. Sermon = **Sarnath**. Death = **Kushinagar**. Rahula ≠ Nagasena.
+> **Exam note:** Birth is not Bodh Gaya. The sermon is at **Sarnath**. Death is at **Kushinagar**. Rahula is not Nagasena.
 
 ---
 
@@ -113,54 +120,78 @@ Bhagavatism = Vasudeva-Krishna, Mathura (UP) | Heliodorus pillar Besnagar
 
 **Sarnath sermon core | medical four-step**
 
-1. **Dukkha** — suffering / unsatisfactoriness (not “life is only pain”).
-2. **Samudaya** — cause: **tanha / trishna** (craving) + avidya.
-3. **Nirodha** — cessation is possible (**nirvana**).
-4. **Magga** — the way = **Eightfold Path** (next section).
+- The first truth is **Dukkha**: suffering or unsatisfactoriness. It does not mean “life is only pain.”
+- The second truth is **Samudaya**: the cause is **tanha / trishna** (craving) plus avidya.
+- The third truth is **Nirodha**: cessation is possible. That cessation is **nirvana**.
+- The fourth truth is **Magga**: the way is the **Eightfold Path**.
 
-> **Exam note:** Third truth is **not** “suffering is eternal.”
+> **Exam note:** The third truth is **not** “suffering is eternal.”
 
 ---
 
 ## 4.4 Eightfold Path
 
-**Ashtangika Marga | 2 + 3 + 3**
+**Ashtangika Marga | wisdom two | conduct three | concentration three**
 
-- **Prajna:** Right View (*samyag-drishti*), Right Resolve (*samyak-sankalpa*).
-- **Sila:** Right Speech, Right Action, Right Livelihood.
-- **Samadhi:** Right Effort, Right Mindfulness (*smriti*), Right Concentration.
-- Lay floor = **panchasila**: no killing, stealing, sexual misconduct, lying, intoxicants. Monks take the full Vinaya.
-- This **is** the Middle Path in practice.
+- Under **prajna**, Right View is *samyag-drishti*.
+- Under **prajna**, Right Resolve is *samyak-sankalpa*.
+- Under **sila**, the three limbs are Right Speech, Right Action, and Right Livelihood.
+- Under **samadhi**, the three limbs are Right Effort, Right Mindfulness (*smriti*), and Right Concentration.
+- The lay floor is **panchasila**: no killing, no stealing, no sexual misconduct, no lying, and no intoxicants.
+- Monks take the full Vinaya, not only the five precepts.
+- This path **is** the Middle Path in practice.
 
-> **Exam note:** Eight factors, not ten. Fourth Noble Truth *names* this path; do not invent extra truths.
+> **Exam note:** There are eight factors, not ten. The Fourth Noble Truth *names* this path. Do not invent extra truths.
 
 ---
 
 ## 4.5 Buddhist Philosophy
 
-**Three marks | no soul | 12-link chain**
+**Three marks | no soul | twelve-link chain**
 
-- **Anicca, Dukkha, Anatta** (impermanent, unsatisfactory, **no permanent self**). Person = five **skandhas**: rupa, vedana, samjna, samskara, vijnana.
-- **Pratityasamutpada** — 12 nidanas: avidya → samskara → vijnana → namarupa → sadayatana → sparsha → vedana → trishna → upadana → bhava → jati → jara-marana.
-- Karma = **intention**, not a god’s court. Nirvana = unconditioned stop of craving.
-- Later Mahayana: **sunyata** (**Nagarjuna**, *Madhyamaka Karika*); Yogacara / Vijnanavada (**Asanga, Vasubandhu**). Logic: Dignaga, Dharmakirti (Nalanda). Those labels live with Mahayana, not with Early Nikaya.
+- The three marks are **anicca**, **dukkha**, and **anatta**.
+- **Anatta** means there is **no permanent self**.
+- A person is five **skandhas**: rupa, vedana, samjna, samskara, and vijnana.
+- **Pratityasamutpada** is dependent arising through twelve nidanas.
+- The chain runs avidya → samskara → vijnana → namarupa → sadayatana → sparsha → vedana → trishna → upadana → bhava → jati → jara-marana.
+- Karma is **intention**, not a god’s court.
+- Nirvana is the unconditioned stop of craving.
+- Later Mahayana **sunyata** is taught by **Nagarjuna** in the *Madhyamaka Karika*.
+- Yogacara / Vijnanavada is linked to **Asanga**.
+- **Vasubandhu** is the other Yogacara name.
+- Buddhist logic at Nalanda is linked to Dignaga and Dharmakirti.
+- Those later labels belong with Mahayana, not with the Early Nikaya.
 
-> **Exam note:** “Buddhism believes in atman like Upanishads” is false.
+> **Exam note:** “Buddhism believes in atman like the Upanishads” is false.
 
 ---
 
 ## 4.6 Buddhist Councils
 
-**Place order is the 2025 lock**
+**Place order is the 2025 lock | Rajagriha first, not Vaishali**
 
-| # | Place | Patron / chair | Lock |
-|---|--------|----------------|------|
-| 1 | **Rajagriha** (Sattapanni) | Ajatashatru; Mahakassapa | **Upali** = Vinaya; **Ananda** = Suttas |
-| 2 | **Vaishali** | Kalashoka | 10-point vinaya fight → **Sthaviravada vs Mahasanghika** |
-| 3 | **Pataliputra** | **Ashoka**; Moggaliputta Tissa | Abhidhamma / *Kathavatthu*; **Vibhajjavada**; missions |
-| 4 | **Kundalvana** (Kashmir) | **Kanishka**; Vasumitra / Ashvaghosha | Sarvastivada; **Sanskrit**; *Mahavibhasha*; Mahayana push |
+- The **First Council** met at **Rajagriha**, in the Sattapanni cave.
+- The patron is **Ajatashatru**. The chair is **Mahakassapa**.
+- **Upali** recites the Vinaya.
+- **Ananda** recites the Suttas.
 
-Theravada also remembers a “fourth” in Sri Lanka under Vattagamani (writing the Pali canon). **UPPCS 2025 used Kundalvana**, not Anuradhapura.
+- The **Second Council** met at **Vaishali**.
+- The patron is **Kalashoka**.
+- A ten-point Vinaya dispute splits **Sthaviravada** from **Mahasanghika**.
+
+- The **Third Council** met at **Pataliputra**.
+- The patron is **Ashoka**. The chair is **Moggaliputta Tissa**.
+- Theravada memory ties Abhidhamma and the *Kathavatthu* to this council.
+- The winning line is called **Vibhajjavada**. Missions go out after it.
+
+- The **Fourth Council** in the north-Indian exam list met at **Kundalvana** in Kashmir.
+- The patron is **Kanishka**.
+- **Vasumitra** and **Ashvaghosha** are the named scholars.
+- The school is Sarvastivada. The language turn is **Sanskrit**.
+- The *Mahavibhasha* is compiled. Mahayana gains a royal hook.
+
+- Theravada also remembers a “fourth” council in Sri Lanka under **Vattagamani**, when the Pali canon was written.
+- **UPPCS 2025 used Kundalvana**, not Anuradhapura.
 
 **PYQ — UPPCS Prelims 2025, Q105**
 
@@ -186,15 +217,25 @@ A. 1, 2, 4, 3  B. 2, 1, 3, 4  C. 2, 1, 4, 3  D. 1, 2, 3, 4
 
 **Outside the three baskets — still asked**
 
-- **Milinda Panha (Milind Panho):** dialogue of Indo-Greek **Menander (Milinda)** and monk **Nagasena**. **UPPCS 2023 Q24 = Nagasena.** Not Nagarjuna, not Kumarila.
-- **Jataka** — previous births (inside Khuddaka; often cited as 547).
-- **Dhammapada** — verse ethics.
-- **Buddhacharita** and **Saundarananda** — **Ashvaghosha** (Kanishka age).
-- **Mahavastu, Lalitavistara, Divyavadana** — Sanskrit narrative / Mahayana-leaning.
-- Mahayana sutras exams name: **Prajnaparamita**, Lotus (*Saddharmapundarika*), *Lankavatara*.
-- **Dipavamsa, Mahavamsa** — Sri Lanka chronicles. **Visuddhimagga** — Buddhaghosa.
+- The **Milinda Panha** (*Milind Panho*) is a dialogue of Indo-Greek **Menander (Milinda)** and the monk **Nagasena**.
+- **UPPCS 2023 Q24** keys **Nagasena**.
+- The speaker is not Nagarjuna and not Kumarila.
+- The **Jataka** stories are previous births of the Buddha.
+- They sit inside the Khuddaka Nikaya. The count is often cited as 547.
+- The **Dhammapada** is verse ethics.
+- The **Buddhacharita** is by **Ashvaghosha** of the Kanishka age.
+- The **Saundarananda** is also by Ashvaghosha.
+- The **Mahavastu** is a Sanskrit narrative.
+- The **Lalitavistara** is a Sanskrit Buddha-life text.
+- The **Divyavadana** is a Sanskrit avadana collection.
+- Mahayana sutras that exams name include the **Prajnaparamita**.
+- The Lotus Sutra is the *Saddharmapundarika*.
+- The *Lankavatara* is another named Mahayana sutra.
+- The **Dipavamsa** is a Sri Lanka chronicle.
+- The **Mahavamsa** is the other Sri Lanka chronicle.
+- The **Visuddhimagga** is by Buddhaghosa.
 
-> **Exam note:** Nagarjuna ≠ Nagasena. Nagarjuna = sunyata; Nagasena = Milinda.
+> **Exam note:** Nagarjuna is not Nagasena. Nagarjuna is sunyata. Nagasena is Milinda.
 
 **PYQ — UPPCS Prelims 2023, Q24**
 
@@ -215,24 +256,32 @@ A. Nagarjun  B. Nagbhatt  C. Nagasena  D. Kumaril Bhatt
 
 **Three baskets | Pali Theravada canon**
 
-- **Vinaya Pitaka** — sangha law (Suttavibhanga, Khandhaka, Parivara).
-- **Sutta Pitaka** — five nikayas: Digha, Majjhima, Samyutta, Anguttara, **Khuddaka** (Dhammapada, Jataka live here).
-- **Abhidhamma Pitaka** — scholastic lists; tied to the **Third Council** in Theravada memory.
-- Sanskrit / Chinese / Tibetan canons are **not** this Pali trio. Mahayana adds new sutras (Prajnaparamita, Lotus, etc.).
+- The **Vinaya Pitaka** is sangha law.
+- Its parts are Suttavibhanga, Khandhaka, and Parivara.
+- The **Sutta Pitaka** has five nikayas: Digha, Majjhima, Samyutta, Anguttara, and **Khuddaka**.
+- The Dhammapada and the Jataka live in the Khuddaka.
+- The **Abhidhamma Pitaka** is scholastic lists.
+- Theravada memory ties Abhidhamma to the **Third Council**.
+- Sanskrit, Chinese, and Tibetan canons are **not** this Pali trio.
+- Mahayana adds new sutras such as the Prajnaparamita and the Lotus.
 
-> **Exam note:** Tripitaka ≠ one book. Abhidhamma ≠ Vinaya.
+> **Exam note:** Tripitaka is not one book. Abhidhamma is not Vinaya.
 
 ---
 
 ## 4.9 Hinayana
 
-**“Lesser vehicle” — Mahayana nickname; exams still use it**
+**“Lesser vehicle” — a Mahayana nickname; exams still use it**
 
-- Goal = **arhat**. Buddha is a teacher, not a cosmic saviour.
-- Canon = **Pali**. Early phase **aniconic**.
-- Surviving school = **Theravada** (Sri Lanka, Myanmar, Thailand). Sthaviravada is the council-2 ancestor; papers often equate them. Other early names: **Vaibhashika, Sautrantika** (Sarvastivada family).
-- “18 schools” is a commentarial count after the Vaishali split — do not memorise all 18.
-- Does **not** mean “inferior Buddhism” as a value judgement in the exam — it means this path-type.
+- The goal is the **arhat**.
+- The Buddha is a teacher, not a cosmic saviour.
+- The canon is **Pali**.
+- The early phase is **aniconic**.
+- The surviving school is **Theravada** in Sri Lanka, Myanmar, and Thailand.
+- Sthaviravada is the Second Council ancestor. Papers often equate it with Theravada.
+- Other early names are **Vaibhashika** and **Sautrantika**, in the Sarvastivada family.
+- “Eighteen schools” is a commentarial count after the Vaishali split. Do not memorise all eighteen.
+- In the exam the word does **not** mean “inferior Buddhism.” It names this path-type.
 
 ---
 
@@ -240,20 +289,33 @@ A. Nagarjun  B. Nagbhatt  C. Nagasena  D. Kumaril Bhatt
 
 **Bodhisattva | Sanskrit sutras | Buddha as compassionate saviour**
 
-- Postpone own nirvana to save all. Bodhisattvas: **Avalokiteshvara / Padmapani, Manjushri, Maitreya, Tara, Vajrapani**.
-- **Nagarjuna** — Madhyamaka / sunyata. Yogacara — Asanga, Vasubandhu.
-- Images of Buddha common. Spread: China, Korea, Japan, Vietnam, Nepal. Later eastern India: Palas patronise **Nalanda** and **Vikramashila**. Nalanda’s founder-patron is still **Kumaragupta I**.
+- A bodhisattva postpones own nirvana to save all beings.
+- **Avalokiteshvara / Padmapani** is a named bodhisattva.
+- **Manjushri** is a named bodhisattva.
+- **Maitreya** is the future Buddha.
+- **Tara** is a named saviouress.
+- **Vajrapani** is a named bodhisattva.
+- **Nagarjuna** teaches Madhyamaka / sunyata.
+- Yogacara is linked to Asanga and Vasubandhu.
+- Images of the Buddha become common.
+- The path spread to China, Korea, Japan, Vietnam, and Nepal.
+- Later eastern India sees Pala patronage of **Nalanda** and **Vikramashila**.
+- Nalanda’s founder-patron is still **Kumaragupta I**.
 - Kanishka’s Kashmir council is the usual royal hook for this turn.
 
 ---
 
 ## 4.11 Vajrayana
 
-**Tantric vehicle | mantra, mandala, guru | Tibet / eastern India**
+**Tantric vehicle | mantra, mandala, guru | Tibet and eastern India**
 
-- Grows from Mahayana (~7th–8th c. CE). **Padmasambhava** to Tibet; Nalanda / Vikramashila monks.
-- Deity-yoga, mudra, mandala. **Mantrayana / Sahajayana** labels in eastern India.
-- **Not** the same as Hinayana vinaya-purism. Do not date it to the Buddha’s lifetime.
+- Vajrayana grows from Mahayana around the **7th–8th century CE**.
+- **Padmasambhava** takes it to Tibet.
+- Nalanda and Vikramashila monks carry the same stream.
+- Practice uses deity-yoga, mudra, and mandala.
+- Eastern India also uses the labels **Mantrayana** and **Sahajayana**.
+- It is **not** the same as Hinayana vinaya-purism.
+- Do not date it to the Buddha’s lifetime.
 
 ---
 
@@ -261,17 +323,32 @@ A. Nagarjun  B. Nagbhatt  C. Nagasena  D. Kumaril Bhatt
 
 **Chaitya = hall | Vihara = monastery | Barabar is the trap**
 
-- **Barabar–Nagarjuni** (Bihar) — **earliest** Indian rock-cut. Mauryan polish. **Lomas Rishi** facade.
-- Gift of Ashoka / Dasharatha to **Ajivikas**, **not** the Buddhist sangha.
-- **Bhaja, Karle, Bedsa, Kondane** — early western **chaityas** (Hinayana).
-- **Karle** = largest chaitya hall.
-- **Ajanta** (MH) — 30 caves. Famous for **paintings**.
-- Ajanta Phase I: **Hinayana / aniconic**.
-- Ajanta Phase II: **Mahayana** Buddha and bodhisattva images (Padmapani).
-- Ajanta chaityas: **9, 10, 19, 26**.
-- **Ellora** (MH) — **1–12 Buddhist, 13–29 Hindu, 30–34 Jain**. Cave 16 Kailasa is **Shaiva**, not Buddhist.
-- **Kanheri** — Mumbai / Sanjay Gandhi park; late western Buddhist.
-- **Andhra stupas** (Amaravati school): drum + **ayaka / aryaka** platforms. **UPPCS 2022 Q80 expected Ghantasala**, not Bodh Gaya (Bodh Gaya is a temple, not this stupa type).
+- **Barabar–Nagarjuni** in Bihar is the **earliest** Indian rock-cut group.
+- The caves have Mauryan polish.
+- The **Lomas Rishi** facade is the named doorway.
+- Ashoka and Dasharatha gifted them to **Ajivikas**, **not** to the Buddhist sangha.
+
+- **Bhaja** is an early western **chaitya** of the Hinayana phase.
+- **Karle** is an early western chaitya.
+- **Bedsa** is an early western chaitya.
+- **Kondane** is an early western chaitya.
+- **Karle** is the largest chaitya hall.
+
+- **Ajanta** in Maharashtra has 30 caves. It is famous for **paintings**.
+- Ajanta Phase I is **Hinayana / aniconic**.
+- Ajanta Phase II is **Mahayana**, with Buddha and bodhisattva images such as Padmapani.
+- Ajanta chaityas are caves **9, 10, 19, and 26**.
+
+- **Ellora** in Maharashtra has Buddhist caves **1–12**.
+- Ellora Hindu caves are **13–29**.
+- Ellora Jain caves are **30–34**.
+- Cave **16**, the Kailasa, is **Shaiva**, not Buddhist.
+
+- **Kanheri** is in Mumbai / Sanjay Gandhi park. It is late western Buddhist.
+
+- Andhra stupas of the Amaravati school have a drum and **ayaka / aryaka** platforms.
+- **UPPCS 2022 Q80** expected **Ghantasala**, not Bodh Gaya.
+- Bodh Gaya is a temple, not this stupa type.
 
 **PYQ — UPPCS Prelims 2022, Q80**
 
@@ -290,22 +367,26 @@ A. Nagarjunakonda  B. Ghantasala  C. Amaravati  D. Bodhgaya
 
 ## 4.13 Ashokan Patronage
 
-**Dhamma policy + Buddhist missions | not “Buddhism as sole state church”**
+**Dhamma policy plus Buddhist missions | not “Buddhism as sole state church”**
 
-- After **Kalinga**, Ashoka pushes **Dhamma**: ahimsa, tolerance, welfare.
-- Buddhist-coloured. **Not** a quote-for-quote conversion of the empire.
-- **Third Council** at Pataliputra.
-- **Mahinda** and **Sanghamitta** to Sri Lanka.
-- **Dhamma-mahamatras** created **13 years after coronation** (RE V).
+- After **Kalinga**, Ashoka pushes **Dhamma**: ahimsa, tolerance, and welfare.
+- The policy is Buddhist-coloured. It is **not** a quote-for-quote conversion of the empire.
+- The **Third Council** meets at Pataliputra under him.
+- **Mahinda** goes to Sri Lanka.
+- **Sanghamitta** goes to Sri Lanka.
+- **Dhamma-mahamatras** were created **13 years after coronation** (Rock Edict V).
 - Exam wording **“14th year”** is treated as **correct** in 2024.
-- **“Dhamma is taken from Rahulovada-sutta”** — **incorrect** for 2024.
+- The claim **“Dhamma is taken from the Rahulovada-sutta”** is **incorrect** for 2024.
 - His Dhamma is his own edict-ethic, not that sutta’s definition.
-- **Sarnath** lion capital = national emblem.
-- Tradition of **84,000** stupas.
-- Exam stupas of this age: **Sanchi** (Vidisha) and **Bharhut** (Satna). Sculpture-school detail = Art.
-- **Bhabru / Bairat** edict lists Buddhist texts he valued — still **not** “Dhamma = Rahulovada definition.”
-- **Barabar given to Ajivikas** — patronage of more than one sect.
-- Edict **XII** = religious tolerance / synthesis. Edict **XIII** = Kalinga. Those numbers are Ashoka’s rock set. The *policy* lock here is: he patronises more than one sect.
+- The **Sarnath** lion capital is the national emblem.
+- Tradition credits him with **84,000** stupas.
+- Exam stupas of this age include **Sanchi** near Vidisha.
+- **Bharhut** near Satna is the other named stupa of this age. Sculpture-school detail belongs to Art.
+- The **Bhabru / Bairat** edict lists Buddhist texts he valued. It still does **not** mean “Dhamma equals the Rahulovada definition.”
+- **Barabar** was given to **Ajivikas**. That shows patronage of more than one sect.
+- Edict **XII** is religious tolerance / synthesis.
+- Edict **XIII** is Kalinga.
+- Those numbers are Ashoka’s rock set. The policy lock here is that he patronises more than one sect.
 
 **PYQ — UPPCS Prelims 2024, Q20**
 
@@ -329,13 +410,21 @@ A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
 
 **Shramana | 24 ford-makers | ahimsa first | no creator God**
 
-- Soul (**jiva**) is real and can become a **siddha**. **Ajiva** set: pudgala, dharma, adharma, akasha, kala. Karma is **fine matter** that sticks — not just a moral score.
-- Five jnanas: mati, shruta, avadhi, manahparyaya, **kevala**. Five **kalyanakas**: chyavana, janma, diksha, kevala, nirvana.
-- **Anekantavada** (many-sided real); **syadvada** (seven *bhangas*); **nayavada** (standpoints). Middle Path is **Buddhist**, not Jain.
-- Jain **triratna:** samyak darshan, jnana, charitra (not Buddha-Dhamma-Sangha).
-- Palm + *ahimsa* wheel; Jain swastika = four gatis (not the Nazi mark).
+- The soul (**jiva**) is real and can become a **siddha**.
+- The **ajiva** set is pudgala, dharma, adharma, akasha, and kala.
+- Karma is **fine matter** that sticks. It is not just a moral score.
+- The five jnanas are mati, shruta, avadhi, manahparyaya, and **kevala**.
+- The five **kalyanakas** are chyavana, janma, diksha, kevala, and nirvana.
+- **Anekantavada** means reality is many-sided.
+- **Syadvada** is seven-fold predication (*bhangas*).
+- **Nayavada** is the doctrine of standpoints.
+- The Middle Path is **Buddhist**, not Jain.
+- The Jain **triratna** are samyak darshan, samyak jnana, and samyak charitra.
+- That trio is not Buddha–Dhamma–Sangha.
+- The emblem uses a palm and an *ahimsa* wheel.
+- The Jain swastika marks four gatis. It is not the Nazi mark.
 
-> **Exam note:** Jainism is nastika but **not** Charvaka — it keeps soul, karma, moksha.
+> **Exam note:** Jainism is nastika but **not** Charvaka. It keeps soul, karma, and moksha.
 
 ---
 
@@ -343,13 +432,17 @@ A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
 
 **24 in this avasarpini | “ford-makers”**
 
-- First = **Rishabhanatha / Adinatha**.
-- Birth-tradition: **Ayodhya (UP)**.
-- Son **Bahubali** = Gomateshwara, Shravanabelagola.
-- Image: Chamundaraya, 981 CE, Western Ganga.
-- 22nd **Neminatha** = Krishna’s cousin in Jain lore. 23rd = **Parshvanatha**. 24th = **Mahavira**.
-- Only the last two are treated as firmly historical. Each has a **lanchhana**, colour, and yaksha–yakshi.
-- Same 24 names for both sects (Mallinatha’s **gender** is the split — Svetambara: woman).
+- The first is **Rishabhanatha / Adinatha**.
+- Birth-tradition places him at **Ayodhya** in Uttar Pradesh.
+- His son **Bahubali** is Gomateshwara at Shravanabelagola.
+- The colossal image is linked to Chamundaraya, **981 CE**, under the Western Gangas.
+- The 22nd is **Neminatha**, Krishna’s cousin in Jain lore.
+- The 23rd is **Parshvanatha**.
+- The 24th is **Mahavira**.
+- Only the last two are treated as firmly historical.
+- Each has a **lanchhana**, a colour, and a yaksha–yakshi pair.
+- Both sects use the same 24 names.
+- **Mallinatha’s gender** is the split: Svetambara treats Mallinatha as a woman.
 
 ---
 
@@ -384,9 +477,10 @@ A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
 | 23 | Parshvanatha | **Serpent** |
 | 24 | Mahavira | **Lion** |
 
-Hottest: **1 bull, 12 buffalo, 19 kalasha, 22 conch, 23 serpent, 24 lion**. Do not swap lion ↔ serpent.
+Hottest exam locks: **1 bull**, **12 buffalo**, **19 kalasha**, **22 conch**, **23 serpent**, **24 lion**.
+Do not swap lion with serpent.
 
-> **Exam note:** Full 24 is fair game in match-lists. Serpent = Parshva, not Mahavira.
+> **Exam note:** The full 24 is fair game in match-lists. Serpent is Parshva, not Mahavira.
 
 ---
 
@@ -425,11 +519,14 @@ D. Mahavira — Pavapuri
 
 **23rd | historical | earlier than Mahavira | Varanasi / UP link**
 
-- Traditional date ~250 years before Mahavira. Birth tradition: **Varanasi**.
-- **Four** vows (chaturyama): ahimsa, satya, asteya, aparigraha — **no separate brahmacharya**.
-- Symbol **serpent**; often shown with a snake-hood. Nirvana at **Sammed Shikhar** (he is one of the 20).
+- Traditional date is about 250 years before Mahavira.
+- Birth tradition places him at **Varanasi**.
+- He taught **four** vows (chaturyama): ahimsa, satya, asteya, and aparigraha.
+- There is **no separate brahmacharya** in his list.
+- The symbol is the **serpent**. He is often shown with a snake-hood.
+- Nirvana is at **Sammed Shikhar**. He is one of the twenty who attained there.
 
-> **Exam note:** Parshva is **before** Mahavira. Serpent ≠ lion.
+> **Exam note:** Parshva is **before** Mahavira. Serpent is not lion.
 
 ---
 
@@ -437,31 +534,41 @@ D. Mahavira — Pavapuri
 
 **Vardhamana | 24th | contemporary of the Buddha**
 
-- Birth **Kundagrama** (Vaishali / Jnatrika).
-- Parents Siddhartha and Trishala (Licchavi link).
-- **Svetambara:** householder till 30. Wife Yashoda. Daughter Priyadarshana.
-- **Digambara:** never married.
-- 12 years tapas.
-- **Kevala jnana** at **42** (Jrimbhikagrama, Rijupalika).
-- First sermon **Vipulachala** (Rajgir).
-- Preaches 30 years.
-- **11 ganadharas**. Chief **Indrabhuti Gautama**.
-- Nirvana **Pavapuri**, age **72**. Symbol **lion**.
-- Added **brahmacharya** as a fifth vow on Parshva’s four.
-- Early companion **Makkhali Gosala** — later the Ajivika break. Pali texts call Mahavira **Nigantha Nataputta**.
+- Birth is at **Kundagrama**, in the Vaishali / Jnatrika belt.
+- Father is Siddhartha.
+- Mother is Trishala, with a Licchavi link.
+- **Svetambara** tradition: he was a householder till 30.
+- Wife is Yashoda.
+- Daughter is Priyadarshana.
+- **Digambara** tradition: he never married.
+- He practised tapas for 12 years.
+- **Kevala jnana** came at age **42** at Jrimbhikagrama on the Rijupalika.
+- The first sermon is at **Vipulachala** (Rajgir).
+- He preached for 30 years.
+- There were **11 ganadharas**.
+- The chief ganadhara is **Indrabhuti Gautama**.
+- Nirvana is at **Pavapuri**, at age **72**.
+- The symbol is the **lion**.
+- He added **brahmacharya** as a fifth vow on Parshva’s four.
+- Early companion **Makkhali Gosala** later broke away as the Ajivika teacher.
+- Pali texts call Mahavira **Nigantha Nataputta**.
 
-> **Exam note:** Not a Mauryan contemporary. Pavapuri pair is **correct**, not the 2021 trap.
+> **Exam note:** He is not a Mauryan contemporary. The Pavapuri pair is **correct**, not the 2021 trap.
 
 ---
 
 ## 4.20 Five Great Vows
 
-**Mahavratas for monks; anuvratas for laity**
+**Mahavratas for monks | anuvratas for laity**
 
-1. **Ahimsa**  2. **Satya**  3. **Asteya**  4. **Brahmacharya**  5. **Aparigraha**
-
-- Mahavira’s list = 5. Parshva’s = 4 (brahmacharya folded into the others).
-- **Sallekhana / santhara** (fast unto death) is a separate, regulated practice — not a sixth mahavrata.
+- The first mahavrata is **ahimsa**.
+- The second is **satya**.
+- The third is **asteya**.
+- The fourth is **brahmacharya**.
+- The fifth is **aparigraha**.
+- Mahavira’s list has five vows.
+- Parshva’s list has four. Brahmacharya is folded into the others.
+- **Sallekhana / santhara** is a regulated fast unto death. It is not a sixth mahavrata.
 
 ---
 
@@ -469,12 +576,17 @@ D. Mahavira — Pavapuri
 
 **“Sky-clad”**
 
-- Monks **nude**. No possessions, not even a bowl (hands).
-- Classic position: women must be reborn as men for moksha.
-- Images unadorned.
-- Reject Svetambara claim that the 12 Angas survive. Canon: **Shatkhandagama**, Kasayapahuda.
-- **Bhadrabahu–Chandragupta** southward famine story → Karnataka; **Shravanabelagola / Gomateshwara**.
-- Mallinatha = **male** in this sect. Sub-names sometimes asked: Bisapanthi, Digambara Terapanthi, Taranpanthi.
+- Monks are **nude**.
+- They keep no possessions, not even a bowl. They use the hands.
+- The classic position is that women must be reborn as men for moksha.
+- Images are unadorned.
+- They reject the Svetambara claim that the 12 Angas survive.
+- Their canon includes the **Shatkhandagama**.
+- The **Kasayapahuda** is another Digambara text.
+- The **Bhadrabahu–Chandragupta** famine story takes the order south to Karnataka.
+- **Shravanabelagola** and Gomateshwara belong to that southern story.
+- Mallinatha is **male** in this sect.
+- Sub-names sometimes asked are Bisapanthi, Digambara Terapanthi, and Taranpanthi.
 
 ---
 
@@ -482,16 +594,23 @@ D. Mahavira — Pavapuri
 
 **“White-clad”**
 
-- Monks and nuns in white. Begging bowl allowed.
-- **Women can attain moksha**. Images may be adorned.
-- **Pataliputra** compilation under **Sthulabhadra** (north stayed. Bhadrabahu went south).
-- Final redaction **Vallabhi** under **Devardhigani Kshamashramana** (~5th–6th c. CE).
-- **12 Angas:** Acharanga, Sutrakritanga, Sthananga, Samavayanga, Bhagavati (*Vyakhyaprajnapti*), Jnatadharmakatha, Upasakadasha, Antakriddasha, Anuttaraupapatikadasha, Prashnavyakarana, Vipaka, **Drishtivada** (lost).
-- **Kalpasutra** (Bhadrabahu) — tirthankara lives; recited at **Paryushana**. ***Tattvartha Sutra* (Umasvati) — accepted by both sects.** Hemachandra *Parishishtaparvan*.
-- Mallinatha = **female**. Later sub-sects: Murtipujaka, Sthanakvasi, Svetambara Terapanthi.
-- Yapaniya = extinct in-between order.
+- Monks and nuns wear white.
+- A begging bowl is allowed.
+- **Women can attain moksha**.
+- Images may be adorned.
+- A compilation at **Pataliputra** is linked to **Sthulabhadra**. The north stayed. Bhadrabahu went south.
+- Final redaction is at **Vallabhi** under **Devardhigani Kshamashramana**, about the 5th–6th century CE.
+- The **12 Angas** include Acharanga, Sutrakritanga, Sthananga, Samavayanga, and Bhagavati (*Vyakhyaprajnapti*).
+- Other Angas are Jnatadharmakatha, Upasakadasha, Antakriddasha, Anuttaraupapatikadasha, Prashnavyakarana, and Vipaka.
+- The twelfth Anga, **Drishtivada**, is lost.
+- The **Kalpasutra** of Bhadrabahu narrates tirthankara lives. It is recited at **Paryushana**.
+- The ***Tattvartha Sutra*** of Umasvati is accepted by **both** sects.
+- Hemachandra wrote the *Parishishtaparvan*.
+- Mallinatha is **female** in this sect.
+- Later sub-sects are Murtipujaka, Sthanakvasi, and Svetambara Terapanthi.
+- Yapaniya is an extinct in-between order.
 
-> **Exam note:** The split is about **clothes, canon, and women’s moksha** — not about having different 24 names. Vallabhi ≠ Buddhist Vaishali council.
+> **Exam note:** The split is about **clothes, canon, and women’s moksha**. It is not about different 24 names. Vallabhi is not the Buddhist Vaishali council.
 
 ---
 
@@ -499,11 +618,20 @@ D. Mahavira — Pavapuri
 
 **Renouncer stream vs Vedic yajna**
 
-- Shramana = striver: wander, alms, tapas, debate. Flowering in the 6th c. BCE.
-- Schools that matter for papers: **Buddhism, Jainism, Ajivika, Charvaka**.
-- Shared: critique of animal sacrifice and Brahmin monopoly. **Not** all four keep soul + karma (Charvaka dumps both).
-- Six teachers in the *Samaññaphala* list (Buddha’s rivals): **Purana Kassapa** (akriya — no moral fruit), **Makkhali Gosala** (niyati), **Ajita Kesakambalin** (materialist / uccheda), **Pakudha Kaccayana** (seven eternal elements), **Nigantha Nataputta** (Mahavira), **Sanjaya Belatthiputta** (sceptic / “eel-wriggler”).
-- Bimbisara / Magadhan courts hosted more than one teacher at once. Magadha’s wars and capitals are the sixth-century *state* story, not this doctrine file.
+- A shramana is a striver who wanders, lives on alms, practises tapas, and debates.
+- The stream flowers in the 6th century BCE.
+- Schools that matter for papers are **Buddhism**, **Jainism**, **Ajivika**, and **Charvaka**.
+- They share a critique of animal sacrifice and Brahmin monopoly.
+- They do **not** all keep soul and karma. Charvaka dumps both.
+- The *Samaññaphala Sutta* lists six rival teachers.
+- **Purana Kassapa** teaches akriya: action has no moral fruit.
+- **Makkhali Gosala** teaches niyati.
+- **Ajita Kesakambalin** is a materialist / uccheda teacher.
+- **Pakudha Kaccayana** teaches seven eternal elements.
+- **Nigantha Nataputta** is Mahavira.
+- **Sanjaya Belatthiputta** is the sceptic, the “eel-wriggler.”
+- Bimbisara’s Magadhan court hosted more than one teacher at once.
+- Magadha’s wars and capitals belong to the sixth-century *state* story, not this doctrine file.
 
 ---
 
@@ -511,11 +639,15 @@ D. Mahavira — Pavapuri
 
 **Makkhali Gosala | niyati | Barabar**
 
-- Fate (**niyati**) runs the universe; effort cannot rewrite destiny. Still practised hard asceticism.
+- Fate (**niyati**) runs the universe.
+- Effort cannot rewrite destiny. The sect still practised hard asceticism.
 - Gosala left Mahavira after a joint wandering spell.
-- **Bindusara** favoured them; **Ashoka** cut **Barabar** for them. Sect dies out after the Mauryas; we know them from Buddhist/Jain attacks.
+- **Bindusara** favoured the Ajivikas.
+- **Ashoka** cut **Barabar** for them.
+- The sect dies out after the Mauryas.
+- We know them mainly from Buddhist and Jain attacks.
 
-> **Exam note:** Ajivika ≠ Buddhist. Barabar ≠ Ajanta.
+> **Exam note:** Ajivika is not Buddhist. Barabar is not Ajanta.
 
 ---
 
@@ -523,9 +655,12 @@ D. Mahavira — Pavapuri
 
 **Materialist | perception only**
 
-- **Pratyaksha** is the sole pramana. No inference to god, soul, afterlife, or Vedic apurva.
-- No karma, no rebirth, no yajna fruit. Ethics = this-world pleasure (not “go loot”; that is polemic).
-- Traditional founder-name **Brihaspati**. Canon lost; recovered from opponents (Madhava’s *Sarvadarshanasangraha*, etc.).
+- **Pratyaksha** is the sole pramana.
+- There is no inference to god, soul, afterlife, or Vedic apurva.
+- There is no karma, no rebirth, and no yajna fruit.
+- Ethics is this-world pleasure. “Go loot” is polemic, not the doctrine.
+- The traditional founder-name is **Brihaspati**.
+- The canon is lost. It is recovered from opponents such as Madhava’s *Sarvadarshanasangraha*.
 
 ---
 
@@ -533,11 +668,11 @@ D. Mahavira — Pavapuri
 
 **Names papers hang on Charvaka’s peg**
 
-- **Brihaspati** — sutra tradition of Lokayata.
-- **Ajita Kesakambalin** — Buddha’s contemporary; man is elements, death is the end.
-- Payasi, and other “annihilationist” figures in Pali/Jain lists — same family, not a second philosophy.
-
-Do not mix with **Caraka** the physician (*Charaka Samhita* is Ayurveda, 120 chapters / 8 sections — not a Lokayata book).
+- **Brihaspati** is the sutra tradition of Lokayata.
+- **Ajita Kesakambalin** is the Buddha’s contemporary. Man is elements. Death is the end.
+- Payasi and other “annihilationist” figures in Pali and Jain lists belong to the same family. They are not a second philosophy.
+- Do not mix this with **Caraka** the physician.
+- The *Charaka Samhita* is Ayurveda, with 120 chapters in 8 sections. It is not a Lokayata book.
 
 ---
 
@@ -560,9 +695,12 @@ Orthodox **astika** six (Nyaya, Vaisheshika, Samkhya, Yoga, Mimamsa, Vedanta) ac
 
 **Astika stream | Vedic roots → puranic bhakti**
 
-- Not founded by one prophet. Vedic yajna → Upanishadic jnana → epic/puranic **bhakti** and sects.
-- **Trimurti** frame: Brahma (rare cult), Vishnu, Shiva. Plus Devi.
-- Smriti / itihasa / purana sit **outside** Shruti. Sect locks stay here.
+- Hinduism is not founded by one prophet.
+- Vedic yajna grows into Upanishadic jnana, then into epic and puranic **bhakti** and sects.
+- The **Trimurti** frame is Brahma, Vishnu, and Shiva. Brahma has a rare cult.
+- **Devi** stands beside that frame.
+- Smriti, itihasa, and purana sit **outside** Shruti.
+- Sect locks stay in the cards below.
 
 ---
 
@@ -570,11 +708,35 @@ Orthodox **astika** six (Nyaya, Vaisheshika, Samkhya, Yoga, Mimamsa, Vedanta) ac
 
 **Shiva / Rudra | linga | Pashupata first historical sect**
 
-- Vedic **Rudra** → classical Shiva. Linga, Nataraja, Ardhanarishvara.
-- **Pashupata** — **Lakulisha** (~2nd c. CE). Also Kalamukha, Kapalika; later Kashmir Shaiva, Tamil **Shaiva Siddhanta**.
-- **Nayanars** (**63**) — Appar, Sambandar, Sundarar, Manikkavachakar.
-- **12 Jyotirlingas:** Somnath (GJ), Mallikarjuna/Srisailam (AP), Mahakaleshwar (Ujjain), Omkareshwar (MP), Kedarnath (UK), Bhimashankar (MH), **Kashi Vishwanath (UP)**, Trimbakeshwar (MH), Vaidyanath/Baidyanath (Jharkhand — Deoghar claim), Nageshwar (GJ), Rameshwaram (TN), Grishneshwar (MH).
-- Ellora 16 Kailasa = Shaiva rock temple (Rashtrakuta), not a chaitya.
+- Vedic **Rudra** becomes classical Shiva.
+- Forms include the linga, Nataraja, and Ardhanarishvara.
+- **Pashupata** is the first historical Shaiva sect.
+- **Lakulisha** (~2nd century CE) is its named teacher.
+- Other names are Kalamukha and Kapalika.
+- Later streams include Kashmir Shaiva and Tamil **Shaiva Siddhanta**.
+- The **Nayanars** number **63**.
+- **Appar** is a named Nayanar.
+- **Sambandar** is a named Nayanar.
+- **Sundarar** is a named Nayanar.
+- **Manikkavachakar** is a named Nayanar.
+
+| Jyotirlinga | Place |
+|-------------|--------|
+| Somnath | Gujarat |
+| Mallikarjuna / Srisailam | Andhra Pradesh |
+| Mahakaleshwar | Ujjain, Madhya Pradesh |
+| Omkareshwar | Madhya Pradesh |
+| Kedarnath | Uttarakhand |
+| Bhimashankar | Maharashtra |
+| **Kashi Vishwanath** | **Uttar Pradesh** |
+| Trimbakeshwar | Maharashtra |
+| Vaidyanath / Baidyanath | Jharkhand (Deoghar claim) |
+| Nageshwar | Gujarat |
+| Rameshwaram | Tamil Nadu |
+| Grishneshwar | Maharashtra |
+
+- There are **12** Jyotirlingas in the standard list.
+- Ellora Cave 16, the Kailasa, is a **Shaiva** rock temple of the Rashtrakutas. It is not a chaitya.
 
 ---
 
@@ -582,11 +744,28 @@ Orthodox **astika** six (Nyaya, Vaisheshika, Samkhya, Yoga, Mimamsa, Vedanta) ac
 
 **Vishnu the preserver | avatars | Alvars**
 
-- **Dashavatara** (usual 10): Matsya, Kurma, Varaha, Narasimha, Vamana, Parashurama, Rama, Krishna, **Buddha or Balarama**, Kalki.
-- Ritual schools: **Pancharatra**, Vaikhanasa.
-- South: **12 Alvars**, *Divya Prabandham* (Nammalvar / *Tiruvaymoli* is the one they pick). Later four sampradayas (flag only): Sri–Ramanuja, Brahma–Madhva, Rudra–Vallabha, Sanaka–Nimbarka.
-- UP: **Ayodhya–Rama**, **Mathura–Krishna** (cult origin is Bhagavatism below).
-- **Tulsi / Ramcharitmanas** is later bhakti in Awadhi — flag, don’t write a literature chapter.
+| Avatar | Note |
+|--------|------|
+| Matsya | Fish |
+| Kurma | Tortoise |
+| Varaha | Boar |
+| Narasimha | Man-lion |
+| Vamana | Dwarf |
+| Parashurama | Axe-Rama |
+| Rama | Ayodhya |
+| Krishna | Mathura |
+| Buddha or Balarama | Lists vary |
+| Kalki | Future |
+
+- Ritual schools include **Pancharatra**.
+- **Vaikhanasa** is the other named ritual school.
+- The south has **12 Alvars**.
+- Their hymns are the *Divya Prabandham*.
+- **Nammalvar** and the *Tiruvaymoli* are the names papers pick.
+- Later four sampradayas (flag only): Sri–Ramanuja, Brahma–Madhva, Rudra–Vallabha, and Sanaka–Nimbarka.
+- In Uttar Pradesh, **Ayodhya** is the Rama home.
+- **Mathura** is the Krishna home. Cult origin is Bhagavatism below.
+- **Tulsi / Ramcharitmanas** is later bhakti in Awadhi. Flag it. Do not write a literature chapter here.
 
 ---
 
@@ -595,23 +774,37 @@ Orthodox **astika** six (Nyaya, Vaisheshika, Samkhya, Yoga, Mimamsa, Vedanta) ac
 **Vasudeva–Krishna cult | Mathura (UP) | seed of Vaishnavism**
 
 - Folk hero Krishna / Vasudeva fused with Vedic Vishnu–Narayana.
-- **Heliodorus pillar**, Besnagar (Vidisha), ~113 BCE: Greek ambassador calls himself a **Bhagavata** of Vasudeva.
-- **Bhagavad Gita** (Mahabharata) and later **Bhagavata Purana** are the charter texts. **Pancharatra** vyuha theology.
-- Gopala-Krishna of **Vrindavan / Mathura** is the UP geographic home.
+- The **Heliodorus pillar** at Besnagar (Vidisha), about **113 BCE**, records a Greek ambassador who calls himself a **Bhagavata** of Vasudeva.
+- The **Bhagavad Gita** in the Mahabharata is a charter text.
+- The later **Bhagavata Purana** is the other charter text.
+- **Pancharatra** vyuha theology belongs to this stream.
+- Gopala-Krishna of **Vrindavan / Mathura** is the Uttar Pradesh geographic home.
 
-> **Exam note:** Bhagavatism is the **early** Krishna-Vasudeva path; Vaishnavism is the wider later tent.
+> **Exam note:** Bhagavatism is the **early** Krishna-Vasudeva path. Vaishnavism is the wider later tent.
 
 ---
 
 ## 4.32 Various Religious Sects
 
-**Other Hindu umbrellas — one line each**
+**Other Hindu umbrellas | one name, one sentence**
 
-- **Shaktism** — Devi (Durga, Kali); tradition of **51** Shakti pithas (Kamakhya, Vaishno Devi, Vindhyachal UP…).
-- **Smartism** — **Panchayatana**: Shiva, Vishnu, Shakti, Surya, Ganesha (Shankara stream).
-- **Saura** — Surya (Konark). **Ganapatya** — Ganesha. **Kaumara** — Skanda / Murugan.
-- Tantric strands cut across Shaiva and Shakta. Jagannath at Puri is syncretic Vaishnava.
-- Jain caves at **Udayagiri–Khandagiri** (Odisha) — **Hathigumpha** inscription of **Kharavela** (king-question = post-Mauryan file; cave = Jain). Mathura **Kankali Tila** = Jain stupa / images (**UP**). Palitana, Dilwara, Ranakpur = later temple tirthas.
+- **Shaktism** worships Devi as Durga and Kali.
+- Tradition counts **51** Shakti pithas.
+- **Kamakhya** is a named pitha.
+- **Vaishno Devi** is a named pitha.
+- **Vindhyachal** in Uttar Pradesh is a named pitha.
+- **Smartism** uses **Panchayatana**: Shiva, Vishnu, Shakti, Surya, and Ganesha, in the Shankara stream.
+- **Saura** worships Surya. Konark is the named temple.
+- **Ganapatya** worships Ganesha.
+- **Kaumara** worships Skanda / Murugan.
+- Tantric strands cut across Shaiva and Shakta.
+- Jagannath at Puri is syncretic Vaishnava.
+- Jain caves at **Udayagiri–Khandagiri** in Odisha hold the **Hathigumpha** inscription of **Kharavela**.
+- The king-question belongs to the post-Mauryan file. The cave is Jain.
+- Mathura **Kankali Tila** is a Jain stupa and image site in **Uttar Pradesh**.
+- Palitana is a later Jain temple tirtha.
+- Dilwara is a later Jain temple tirtha.
+- Ranakpur is a later Jain temple tirtha.
 
 ---
 

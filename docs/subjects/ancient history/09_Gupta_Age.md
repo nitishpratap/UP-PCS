@@ -62,17 +62,17 @@ Sarnath Buddha | Aryabhata
 
 **~320–550 CE | Magadha / Pataliputra | after the Kushans | not a Mauryan house**
 
-- Founder-memory: **Sri Gupta**. Title **Maharaja**, not Maharajadhiraja.
+- Founder-memory is **Sri Gupta**. His title is **Maharaja**, not Maharajadhiraja.
 - I-tsing later remembers a Sri Gupta shrine for Chinese pilgrims.
-- Next: **Ghatotkacha**. Still **Maharaja**. Father of Chandragupta I.
-- Imperial clock starts with **Chandragupta I**.
-- Default exam home: **Magadha**. Capital **Pataliputra**.
-- They are **not** Mauryas. Chandragupta I ≠ Chandragupta Maurya.
-- Sources: inscriptions, coins, Puranas, Fa-Hien. Campaign meat = Prayag Prashasti.
-- Gupta **samvat** often pegged at **319–320 CE** (Chandragupta I’s accession in most keys).
-- Line to learn: Sri Gupta → Ghatotkacha → Chandragupta I → Samudragupta → Chandragupta II → Kumaragupta I → Skandagupta.
+- Next is **Ghatotkacha**. He is still **Maharaja**. He is father of Chandragupta I.
+- The imperial clock starts with **Chandragupta I**.
+- The default exam home is **Magadha**. The capital is **Pataliputra**.
+- They are **not** Mauryas. Chandragupta I is not Chandragupta Maurya.
+- Sources are inscriptions, coins, Puranas, and Fa-Hien. Campaign meat is the Prayag Prashasti.
+- Gupta **samvat** is often pegged at **319–320 CE**, Chandragupta I’s accession in most keys.
+- The line to learn is Sri Gupta, then Ghatotkacha, then Chandragupta I, then Samudragupta, then Chandragupta II, then Kumaragupta I, then Skandagupta.
 
-> **Exam note:** Sri Gupta / Ghatotkacha = **Maharaja**. Imperial title starts with **Chandragupta I**.
+> **Exam note:** Sri Gupta and Ghatotkacha are **Maharaja**. The imperial title starts with **Chandragupta I**.
 
 ---
 
@@ -80,17 +80,17 @@ Sarnath Buddha | Aryabhata
 
 **First Maharajadhiraja | ~319–335 CE | Lichchhavi marriage**
 
-- Son of Ghatotkacha.
-- First Gupta to take **Maharajadhiraja**.
-- Marries Lichchhavi princess **Kumaradevi**.
-- That match is the political lift. Vaishali / Lichchhavi prestige.
-- **King-and-queen** gold type = this pair. Not Chandragupta II.
-- Prayag later calls Samudragupta the **Lichchhavi-dauhitra** (daughter’s son of the Lichchhavis).
+- He is the son of Ghatotkacha.
+- He is the first Gupta to take **Maharajadhiraja**.
+- He marries Lichchhavi princess **Kumaradevi**.
+- That match is the political lift. It brings Vaishali / Lichchhavi prestige.
+- The **king-and-queen** gold type is this pair. It is not Chandragupta II.
+- Prayag later calls Samudragupta the **Lichchhavi-dauhitra**, daughter’s son of the Lichchhavis.
 - Gupta era **319/320 CE** is usually tied to his accession.
-- Capital **Pataliputra**.
-- Son and successor: **Samudragupta**.
+- The capital is **Pataliputra**.
+- His son and successor is **Samudragupta**.
 
-> **Exam note:** King-queen gold ≠ Chandragupta II’s Shaka silver.
+> **Exam note:** King-queen gold is not Chandragupta II’s Shaka silver.
 
 ---
 
@@ -98,18 +98,15 @@ Sarnath Buddha | Aryabhata
 
 **Son of Chandragupta I | ~335–375 CE | digvijaya | source = Prayag Prashasti**
 
-- Accession after Chandragupta I. Court poet **Harishena**.
-- Called *Lichchhavi-dauhitra* on the Allahabad shaft.
-- Poet-king pose: *kaviraja*. **Lyrist / veena** gold type backs that.
-- Ashvamedha after the wars. Horse type on gold.
+- Accession follows Chandragupta I. Court poet is **Harishena**.
+- He is called *Lichchhavi-dauhitra* on the Allahabad shaft.
+- The poet-king pose is *kaviraja*. The **lyrist / veena** gold type backs that.
+- He performs ashvamedha after the wars. A horse type appears on gold.
 
-**Four treatments**
-- **Aryavarta (north):** nine kings **uprooted**. Land annexed.
-- **Dakshinapatha (south):** twelve kings **defeated, then restored** as tributes. Not annexed.
-- Forest **atavika** chiefs: brought to heel.
-- Frontier states and **ganarajyas**: tribute. Not all wiped out.
-
-**2018 south four (learn cold)**
+- In **Aryavarta (north)** nine kings are **uprooted**. Land is annexed.
+- In **Dakshinapatha (south)** twelve kings are **defeated, then restored** as tributes. They are not annexed.
+- Forest **atavika** chiefs are brought to heel.
+- Frontier states and **ganarajyas** pay tribute. Not all are wiped out.
 
 | King | Kingdom |
 |------|---------|
@@ -118,25 +115,32 @@ Sarnath Buddha | Aryabhata
 | **Ugrasena** | **Palaka / Palakka** |
 | **Vishnugopa** | **Kanchi** |
 
-**Other south names papers may add**
-- Mahendra of Kosala
-- Vyaghraraja of Mahakantara
-- Hastivarman of Vengi
-- Svamidatta of Kottura
-- Damana of Erandapalla
-- Kubera of Devarashtra
+- Other south names papers may add include Mahendra of Kosala.
+- **Vyaghraraja** of Mahakantara is another.
+- **Hastivarman** of Vengi is another.
+- **Svamidatta** of Kottura is another.
+- **Damana** of Erandapalla is another.
+- **Kubera** of Devarashtra is another.
 
-**North names (uprooted set, do not mix with the south four)**
-- Ganapatinaga. Nagasena. Achyuta. Chandravarman. Balavarman.
+- North names in the uprooted set include Ganapatinaga.
+- **Nagasena** is another.
+- **Achyuta** is another.
+- **Chandravarman** is another.
+- **Balavarman** is another.
 
-**Frontier tribute**
-- Samatata. Davaka. Kamarupa. Nepala. Karttripura.
+- Frontier tribute includes Samatata.
+- **Davaka** is another.
+- **Kamarupa** is another.
+- **Nepala** is another.
+- **Karttripura** is another.
 
-**Ganarajya tribute**
-- Malava. Yaudheya. Arjunayana. Madraka.
+- Ganarajya tribute includes Malava.
+- **Yaudheya** is another.
+- **Arjunayana** is another.
+- **Madraka** is another.
 
-- Prashasti boasts he never lost. Treat that as court praise.
-- Son and successor: **Chandragupta II**.
+- The prashasti boasts he never lost. Treat that as court praise.
+- His son and successor is **Chandragupta II**.
 
 **PYQ — UPPCS Prelims 2018, Q87**
 
@@ -166,23 +170,20 @@ A. 1 2 3 4  B. 2 1 4 3  C. 3 1 4 2  D. 4 3 2 1
 
 **Son of Samudragupta | ~380–415 CE | Vikramaditya**
 
-- Ends the **Western Kshatrapas** in Malwa–Gujarat.
+- He ends the **Western Kshatrapas** in Malwa–Gujarat.
 - Ujjain becomes a second pole. Pataliputra stays the old capital.
-- Marriage: Naga princess **Kuberanaga**.
+- He marries Naga princess **Kuberanaga**.
 - Daughter **Prabhavatigupta** marries Vakataka **Rudrasena II**. She later rules as regent.
-- **Udayagiri** (MP): Varaha / Vishnu caves.
-- **Mehrauli iron pillar** names **Chandra**. Most books = this king. Date is debated.
+- **Udayagiri** in Madhya Pradesh has Varaha / Vishnu caves.
+- The **Mehrauli iron pillar** names **Chandra**. Most books take this as this king. The date is debated.
 - Navaratna court is a later legend. **Kalidasa** is the name papers keep.
-- *Devichandraguptam* story of **Ramagupta** is a later play-trap. Not a hard inscription king.
-
-**2022 locks**
-- Strongest Shaka-victory proof in that paper = his **silver coins**.
+- The *Devichandraguptam* story of **Ramagupta** is a later play-trap. He is not a hard inscription king.
+- The strongest Shaka-victory proof in the 2022 paper is his **silver coins**.
 - Those coins weigh about **33 grains**.
 
-**Fa-Hien (Faxian)**
-- In India **399–414 CE**. This reign.
-- Sees Pataliputra and the Gangetic belt.
-- **2024 Q149** puts him first among Fa-Hien, Hiuen Tsang, I-Tsing, Al-Biruni.
+- **Fa-Hien (Faxian)** is in India **399–414 CE**, in this reign.
+- He sees Pataliputra and the Gangetic belt.
+- **2024 Q149** puts him first among Fa-Hien, Hiuen Tsang, I-Tsing, and Al-Biruni.
 
 **PYQ — UPPCS Prelims 2022, Q23**
 
@@ -254,18 +255,20 @@ A. 1, 2, 3, 4  B. 4, 3, 1, 2  C. 2, 1, 4, 3  D. 3, 4, 2, 1
 
 ## 9.7 Gupta Administration
 
-**Decentralised empire | samanta + land grants | not a Mauryan spy-machine**
+**Decentralised empire | samanta plus land grants | not a Mauryan spy-machine**
 
-- King = **Maharajadhiraja**. Also **Paramabhattaraka**.
+- The king is **Maharajadhiraja**. He is also **Paramabhattaraka**.
 - Divine kingship is louder than in the Mauryan file.
-- **Mantriparishad** advises. Final word is the king’s.
-- **Sandhivigrahika** = peace-and-war / foreign minister.
-- Less central than Mauryas. **Brahmadeya / agrahara** grants punch holes in the crown’s direct take.
-- **Samanta** = feudatory. Tribute + troops. Not a Mauryan salaried amatya.
-- Land tax **bhaga** remembered as 1/6 to 1/4.
+- A **mantriparishad** advises. The final word is the king’s.
+- The **sandhivigrahika** is the peace-and-war / foreign minister.
+- The state is less central than the Mauryas.
+- **Brahmadeya / agrahara** grants punch holes in the crown’s direct take.
+- A **samanta** is a feudatory. He sends tribute and troops. He is not a Mauryan salaried amatya.
+- Land tax **bhaga** is remembered as 1/6 to 1/4.
 - Guilds (**shreni**) keep their own rules.
-- Smriti age: **Yajnavalkya**, **Narada**.
-- **Vayu Purana does not** give a Gupta admin manual. **2023 Q29** statement 2 is false. Vishnu Purana *does* carry Maurya names.
+- Smriti age names include **Yajnavalkya**.
+- **Narada** is the other named smriti.
+- The **Vayu Purana does not** give a Gupta admin manual. **2023 Q29** statement 2 is false. The Vishnu Purana *does* carry Maurya names.
 
 > **Exam note:** “Guptas more central than Mauryas” is the trap.
 
@@ -419,17 +422,17 @@ A. 1, 2, 3, 4  B. 4, 3, 1, 2  C. 2, 1, 4, 3  D. 3, 4, 2, 1
 
 **Sarnath school | Hindu stone temples begin**
 
-- **Sarnath Buddha**: plain robe, downcast eyes, halo. India’s “classical” Buddha.
-- Not the Kushan **Gandhara** Greco-Buddhist drape. Sarnath is the Gupta plain robe.
-- **Udayagiri Varaha** (CG II).
-- **Deogarh** Dashavatara temple (UP/MP belt). Early stone *shikhara*.
-- **Bhitargaon** (Kanpur belt, UP): brick temple.
-- **Eran** Varaha and pillars.
-- **Tigawa** (MP) flat-roof shrine.
+- The **Sarnath Buddha** has a plain robe, downcast eyes, and a halo. It is India’s “classical” Buddha.
+- It is not the Kushan **Gandhara** Greco-Buddhist drape. Sarnath is the Gupta plain robe.
+- The **Udayagiri Varaha** belongs to Chandragupta II.
+- The **Deogarh** Dashavatara temple (UP/MP belt) is an early stone *shikhara*.
+- **Bhitargaon** in the Kanpur belt of Uttar Pradesh is a brick temple.
+- **Eran** has a Varaha and pillars.
+- **Tigawa** in Madhya Pradesh is a flat-roof shrine.
 - Ajanta’s famous painted caves are largely **Vakataka**. Do not dump them as “pure Gupta court art.”
-- Mehrauli iron pillar = rust-resistant iron. “Chandra” usually **Chandragupta II**.
+- The Mehrauli iron pillar is rust-resistant iron. “Chandra” on it is usually **Chandragupta II**.
 
-> **Exam note:** Sarnath = Gupta. Gandhara = Kushan. Ajanta ≠ default Gupta.
+> **Exam note:** Sarnath is Gupta. Gandhara is Kushan. Ajanta is not the default Gupta lock.
 
 ---
 
@@ -437,20 +440,21 @@ A. 1, 2, 3, 4  B. 4, 3, 1, 2  C. 2, 1, 4, 3  D. 3, 4, 2, 1
 
 **Kalidasa is the Gupta lock | 2025 also dumps later author–book pairs**
 
-**Kalidasa** (CG II tradition)
-- Plays: *Abhijnanashakuntalam*, *Malavikagnimitra*, *Vikramorvashiyam*.
-- Mahakavya: *Raghuvamsa*, *Kumarasambhava*.
-- Lyrics: *Meghaduta*, *Ritusamhara*.
-- **Not** *Shringara Shataka*. That is **Bhartrihari**. **2025 Q48 = Only 3**.
+- **Kalidasa** belongs to the Chandragupta II tradition.
+- The play *Abhijnanashakuntalam* is his.
+- The play *Malavikagnimitra* is his.
+- The play *Vikramorvashiyam* is his.
+- The mahakavya *Raghuvamsa* is his.
+- The mahakavya *Kumarasambhava* is his.
+- The lyric *Meghaduta* is his.
+- The lyric *Ritusamhara* is his.
+- He did **not** write *Shringara Shataka*. That is **Bhartrihari**. **2025 Q48** keys **Only 3**.
 
-**Other Gupta-age names**
-- Sudraka — *Mrichchhakatika*
-- Vishakhadatta — *Mudrarakshasa* (Chanakya play, Gupta date)
-- Amarasimha — *Amarakosha*
-- Vishnu Sharma — *Panchatantra* (tradition)
-- Bharavi — *Kiratarjuniya* (late Gupta / after)
-
-**2025 Q86 — writer ↔ book (not all Gupta-dated)**
+- **Sudraka** wrote *Mrichchhakatika*.
+- **Vishakhadatta** wrote *Mudrarakshasa*, a Chanakya play of Gupta date.
+- **Amarasimha** wrote the *Amarakosha*.
+- **Vishnu Sharma** is the traditional author of the *Panchatantra*.
+- **Bharavi** wrote *Kiratarjuniya*, late Gupta or after.
 
 | Writer | Book |
 |--------|------|
@@ -504,15 +508,17 @@ A. 3 4 1 2  B. 4 3 2 1  C. 4 3 1 2  D. 3 4 2 1
 
 **Astronomy + maths + iron**
 
-- **Aryabhata** — *Aryabhatiya* (499 CE). Kusumapura / Pataliputra tradition.
-- Earth rotates. Eclipses without demon stories.
-- **Varahamihira** — *Panchasiddhantika*, *Brihatsamhita*. Ujjain.
-- **Brahmagupta** — *Brahmasphutasiddhanta*. Early 7th c. Edge of this age.
-- Medicine: *Sushruta* / *Charaka* redactions circulate.
-- Mehrauli pillar = rust-resistant iron. “Chandra” on it is usually **Chandragupta II**.
-- Decimal place-value is in use. “Aryabhata invented zero” is too crude for a T/F if the paper is sharp. He uses place value.
+- **Aryabhata** wrote the *Aryabhatiya* in **499 CE**. Tradition places him at Kusumapura / Pataliputra.
+- He teaches that the earth rotates.
+- He explains eclipses without demon stories.
+- **Varahamihira** wrote the *Panchasiddhantika*.
+- He also wrote the *Brihatsamhita*. He sits at Ujjain.
+- **Brahmagupta** wrote the *Brahmasphutasiddhanta* in the early 7th century, at the edge of this age.
+- Medicine circulates in *Sushruta* and *Charaka* redactions.
+- The Mehrauli pillar is rust-resistant iron. “Chandra” on it is usually **Chandragupta II**.
+- Decimal place-value is in use. “Aryabhata invented zero” is too crude for a sharp T/F. He uses place value.
 
-> **Exam note:** Aryabhata ≠ Varahamihira. Fa-Hien did not write the *Aryabhatiya*.
+> **Exam note:** Aryabhata is not Varahamihira. Fa-Hien did not write the *Aryabhatiya*.
 
 ---
 

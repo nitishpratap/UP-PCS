@@ -66,49 +66,43 @@ Saptanga | 4 vidyas | 4 upayas | 18 tirthas | 15 adhikaranas | spies sanstha + s
 
 **First pan-North Indian state | 322–185 BCE | capital Pataliputra (Ganga–Son)**
 
-**Origin (papers mix all three)**
+- Buddhist tradition makes them the **Moriya** clan of **Pipphalivana**, with a peacock totem, and treats them as kshatriya.
+- Brahmanical Puranas give a **low / shudra** origin. That is a smear after the Nanda overthrow.
+- Greek writers describe a humble youth *Sandrokottos / Androcottus* who later topples the Nandas. Plutarch and Justin carry this.
+- **William Jones** is the Chandragupta synchronism.
 
-- Buddhist: **Moriya** clan of **Pipphalivana** (peacock totem) — kshatriya.
-- Brahmanical Puranas: **low / shudra** origin (smear after Nanda overthrow).
-- Greek: humble youth *Sandrokottos / Androcottus* who later topples the Nandas (Plutarch/Justin). **William Jones** = the Chandragupta synchronism.
+- **Chanakya** is also **Kautilya** and **Vishnugupta**.
+- He is a Taxila Brahman.
+- He is insulted at the Nanda court.
+- He trains Chandragupta.
+- The *Mudrarakshasa* of Vishakhadatta is a **play** about Malayaketu and Amatya Rakshasa. It is **not** the *Arthashastra*.
 
-**Chanakya = Kautilya = Vishnugupta**
-- Taxila Brahman.
-- Insulted at the Nanda court.
-- Trains Chandragupta.
-- *Mudrarakshasa* (Vishakhadatta) is a **play** (Malayaketu, Amatya Rakshasa). It is **not** the *Arthashastra*.
+- **Chandragupta** rules about **322–297 BCE**. He overthrows **Dhana Nanda**. He is Sandrokottos.
+- **Bindusara** rules about **297–273 BCE**. His Greek lock is **Amitraghata / Amitrochates**.
+- **Ashoka** accedes about **272** and is crowned **268–232 BCE**. His locks are Kalinga, dhamma, and edicts.
+- **Kunala** is a legendary blinded heir. He is not a hard epigraphic king.
+- **Dasharatha** gives the **Nagarjuni** caves to Ajivikas.
+- **Samprati** is the Jain “second Chandragupta.”
+- **Salisuka, Devavarman, and Satadhanvan** are Puranic names only.
+- **Brihadratha** lasts to **185 BCE**. He is killed by **Pushyamitra Shunga**.
+- Dasharatha is often given the **eastern** share.
+- Samprati is often given the **western and southern** share.
 
-| King | Dates (trad.) | One lock |
-|------|---------------|----------|
-| **Chandragupta** | ~322–297 | Overthrows **Dhana Nanda**. Sandrokottos |
-| **Bindusara** | ~297–273 | **Amitraghata / Amitrochates** |
-| **Ashoka** | acc. ~272 / coron. **268**–232 | Kalinga + dhamma + edicts |
-| **Kunala** | legend | Blinded heir — not a hard epigraphic king |
-| **Dasharatha** | | **Nagarjuni** caves to Ajivikas |
-| **Samprati** | | Jain “second Chandragupta” |
-| **Salisuka, Devavarman, Satadhanvan** | | Puranic names only |
-| **Brihadratha** | to **185** | Killed by **Pushyamitra Shunga** |
+- Hardest sources are the edicts.
+- Next is the *Arthashastra*.
+- Next are *Indica* fragments.
+- The **Vishnu Purana** genealogy is the **2023** lock.
+- The *Dipavamsa* and *Mahavamsa* are Buddhist chronicles.
+- The *Mudrarakshasa* comes last. It is a play.
+- **Prinsep in 1837** reads Brahmi.
+- Maski later proves that Piyadassi is Ashoka.
 
-**Dasharatha / Samprati**
-- Dasharatha often the **eastern** share.
-- Samprati often the **western/southern** share.
-
-**Sources (ranked)**
-- Edicts (hardest).
-- *Arthashastra*.
-- *Indica* fragments.
-- **Vishnu Purana** genealogy (**2023**).
-- *Dipavamsa / Mahavamsa*.
-- *Mudrarakshasa* last (play).
-- **Prinsep 1837** reads Brahmi.
-- Maski later proves Piyadassi = Ashoka.
-
-- Puranic span often **137 years**.
-- RE II neighbours (**not** provinces): Chola, Pandya, Satiyaputra, Keralaputra, Tamraparni, Yonas, Kambojas.
-- **NBPW** continues (it started in mahajanapada towns, not only under Ashoka).
-- **Ring-wells**.
-- Coin: punch-marked **pana / karshapana**. No portraits.
-- Pliny’s army size: **600,000** foot, **30,000** horse, **9,000** elephants (order of size, not a muster roll).
+- The Puranic span is often **137 years**.
+- Rock Edict II names neighbours, **not** provinces: Chola, Pandya, Satiyaputra, Keralaputra, Tamraparni, Yonas, and Kambojas.
+- **NBPW** continues. It started in mahajanapada towns, not only under Ashoka.
+- **Ring-wells** are a settlement lock.
+- The coin is the punch-marked **pana / karshapana**. There are no portraits.
+- Pliny’s army size is **600,000** foot, **30,000** horse, and **9,000** elephants. Treat it as order of size, not a muster roll.
 
 **PYQ — UPPCS Prelims 2023, Q29**
 
@@ -134,12 +128,14 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Founder | ~322–297 BCE | Sandrokottos | first king-card, not Ashoka**
 
-- Overthrows **Dhana Nanda** with **Chanakya**.
-- Greek name **Sandrokottos / Androcottus**. **William Jones** peg.
-- Seleucus treaty ~303 BCE: **500 elephants**. Megasthenes sent to his court.
-- Capital **Pataliputra**.
-- Jain end: *sallekhana* with **Bhadrabahu** at **Shravanabelagola**.
-- Son and successor: **Bindusara**.
+- He overthrows **Dhana Nanda** with **Chanakya**.
+- The Greek name is **Sandrokottos / Androcottus**.
+- **William Jones** is the peg.
+- The Seleucus treaty about **303 BCE** gives **500 elephants**.
+- Megasthenes is sent to his court.
+- The capital is **Pataliputra**.
+- Jain tradition ends him in *sallekhana* with **Bhadrabahu** at **Shravanabelagola**.
+- His son and successor is **Bindusara**.
 
 > **Exam note:** This Chandragupta is **322 BCE**. Gupta Chandragupta I is **~320 CE**.
 
@@ -149,14 +145,14 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Son of Chandragupta | ~297–273 BCE | Amitraghata / Amitrochates**
 
-- Greek lock: **Amitrochates**.
-- Envoy **Deimachus** from Antiochus I.
-- Letter to **Antiochus I**: wine, figs, a sophist. The **sophist was refused**.
-- Ajivika lean in tradition.
-- Taxila revolt. **Ashoka** posted there as *kumara*.
-- Son and successor: **Ashoka**.
+- The Greek lock is **Amitrochates**.
+- Envoy **Deimachus** comes from Antiochus I.
+- A letter to **Antiochus I** asks for wine, figs, and a sophist. The **sophist was refused**.
+- Tradition gives him an Ajivika lean.
+- Taxila revolts. **Ashoka** is posted there as *kumara*.
+- His son and successor is **Ashoka**.
 
-> **Exam note:** Bindusara ≠ the Kalinga king. Kalinga war is Ashoka.
+> **Exam note:** Bindusara is not the Kalinga king. The Kalinga war is Ashoka.
 
 ---
 
@@ -164,21 +160,25 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Centralised bureaucracy | *mantriparishad* | salaried amatyas | not Gupta samantas**
 
-- King = *swami* (saptanga). Final word after consulting ministers.
-- Ashoka (RE VI) takes reports **at any hour** via *pativedakas*.
-- **Four vidyas:** *anvikshiki* (philosophy), *trayi* (Veda), *varta* (economy), *dandaniti* (polity).
-- Cadre: **amatyas / mahamatras** paid in cash or produce. Career service, not a closed kshatriya club.
-- *Tirthas* = 18 top posts.
-- **Kautilya** picture = Indian machine (adhyakshas, spies, taxes).
-- **Megasthenes** picture = six boards + seven tribes. Do not mash the two into one org-chart.
-- Army: *chaturanga* + navy (*navadhyaksha*).
-- *Indica* war office = **six** army boards (navy, transport, infantry, cavalry, chariots, elephants).
-- Road: **Uttarapatha** (Taxila–Pataliputra).
+- The king is *swami* in the saptanga. He has the final word after consulting ministers.
+- Ashoka in Rock Edict VI takes reports **at any hour** via *pativedakas*.
+- The **four vidyas** are *anvikshiki* (philosophy), *trayi* (Veda), *varta* (economy), and *dandaniti* (polity).
+- The cadre is **amatyas / mahamatras**, paid in cash or produce.
+- It is a career service, not a closed kshatriya club.
+- *Tirthas* are 18 top posts.
+- The **Kautilya** picture is the Indian machine of adhyakshas, spies, and taxes.
+- The **Megasthenes** picture is six boards plus seven tribes.
+- Do not mash the two into one org-chart.
+- The army is *chaturanga* plus a navy under the *navadhyaksha*.
+- *Indica* gives a war office of **six** army boards: navy, transport, infantry, cavalry, chariots, and elephants.
+- The great road is the **Uttarapatha** from Taxila to Pataliputra.
 - Strabo’s agronomoi also set mile-pillars. That is the **2020 road trap**, not the key.
-- Village: *gramika* + elders.
-- *Gopa* watches 5–10 villages. Next up: *sthanika*. District = *ahara / vishaya*.
-- Pataliputra palisade in *Indica*: **570 towers, 64 gates**.
-- Welfare add-ons (wells, herbs, trees) sit in **Rock Edict II**.
+- The village has a *gramika* plus elders.
+- The *gopa* watches 5–10 villages.
+- Next up is the *sthanika*.
+- The district is *ahara / vishaya*.
+- Pataliputra’s palisade in *Indica* has **570 towers** and **64 gates**.
+- Welfare add-ons — wells, herbs, trees — sit in **Rock Edict II**.
 
 > **Exam note:** This is a **centralised** empire, not Gupta samanta-feudatory.
 
@@ -188,37 +188,36 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Match-list home | 2020 Agronomai lives here**
 
-| Official | Job |
-|----------|-----|
-| **Samaharta** | Collector-general of all revenue |
-| **Sannidhata** | Treasurer / store (*kosha*) |
-| **Rajuka** | Land assessment + justice; Ashoka trusts them on tour |
-| **Yukta** | Subordinate executive |
-| **Pradeshika / Pradeshtri** | District inspect / police / spy link |
-| **Mahamatra** | High officer (province or department) |
-| **Dhamma-mahamatra** | RE V; welfare of sects, prisoners, borders — **14th year** in 2024 wording |
-| **Kumara** | Prince-viceroy: **Taxila, Ujjain, Suvarnagiri** (Tosali in Kalinga) |
-| **Antapala** | Frontier |
-| **Durgapala** | Fort |
-| **Nagaraka / Nagaradhyaksha** | City |
-| **Pautavadhyaksha** | Weights and measures |
-| **Sitadhyaksha** | Crown agriculture |
-| **Panyadhyaksha** | Trade |
-| **Akshapataladhyaksha** | Accounts |
-| **Agronomai** | Megasthenes’ rural officers — **revenue / land** in UPPCS 2020 |
-| **Pativedaka** | Reporter; RE VI — king reachable always |
-| **Gopa / Sthanika** | Rural circle officers (Kautilya) |
-| **Akaradhyaksha** | Mines |
-| **Lakshanadhyaksha** | Mint |
-| **Suradhyaksha** | Liquor |
-| **Navadhyaksha** | Ships / navy |
-| **Hastyadhyaksha / Ashvadhyaksha** | Elephants / horses |
-| **Ayudhagaradhyaksha** | Armoury |
-| **Kupyadhyaksha** | Forest produce |
-| **Sulkadhyaksha** | Customs |
-| **Mudradhyaksha** | Passports / seals |
-| **Sutradhyaksha** | Spinning / yarn |
-| **Ganikadhyaksha** | Courtesans |
+- The **samaharta** is collector-general of all revenue.
+- The **sannidhata** is treasurer and store of the *kosha*.
+- The **rajuka** does land assessment and justice. Ashoka trusts them on tour.
+- The **yukta** is a subordinate executive.
+- The **pradeshika / pradeshtri** inspects the district and links police and spies.
+- The **mahamatra** is a high officer of a province or department.
+- The **dhamma-mahamatra** appears in Rock Edict V. He works for welfare of sects, prisoners, and borders. The 2024 wording is the **14th year**.
+- The **kumara** is a prince-viceroy at **Taxila**, **Ujjain**, or **Suvarnagiri**. Tosali is the Kalinga post.
+- The **antapala** holds the frontier.
+- The **durgapala** holds the fort.
+- The **nagaraka / nagaradhyaksha** holds the city.
+- The **pautavadhyaksha** holds weights and measures.
+- The **sitadhyaksha** holds crown agriculture.
+- The **panyadhyaksha** holds trade.
+- The **akshapataladhyaksha** holds accounts.
+- The **agronomai** are Megasthenes’ rural officers. In UPPCS 2020 they are **revenue / land**.
+- The **pativedaka** is the reporter. Rock Edict VI says the king is reachable always.
+- The **gopa** and **sthanika** are Kautilya’s rural circle officers.
+- The **akaradhyaksha** holds mines.
+- The **lakshanadhyaksha** holds the mint.
+- The **suradhyaksha** holds liquor.
+- The **navadhyaksha** holds ships and the navy.
+- The **hastyadhyaksha** holds elephants.
+- The **ashvadhyaksha** holds horses.
+- The **ayudhagaradhyaksha** holds the armoury.
+- The **kupyadhyaksha** holds forest produce.
+- The **sulkadhyaksha** holds customs.
+- The **mudradhyaksha** holds passports and seals.
+- The **sutradhyaksha** holds spinning and yarn.
+- The **ganikadhyaksha** holds courtesans.
 
 **PYQ — UPPCS Prelims 2020, Q4**
 
@@ -244,41 +243,40 @@ D. Revenue management
 
 **Bindusara’s son | *Devanampiya Piyadassi* | accession ~272 · coronation 268–232 BCE**
 
-- Mother in legends: **Subhadrangi / Dharma**.
-- Viceroyship: Taxila, then Ujjain.
-- *Ashokavadana* succession fight — use lightly.
-- Wife **Devi** of Vidisha. Mother of **Mahinda** and **Sanghamitta**.
-- Wife **Karuvaki**. Queen’s edict. Son **Tivala**.
-- Wife **Tishyarakshita**. Bodhi-tree / Kunala legend.
-- **Kalinga 261 BCE** = **8th** regnal year.
-- RE XIII numbers: **1 lakh** killed. **1.5 lakh** deported.
-- Remorse → **dhamma-vijaya**. He does **not** give Kalinga back.
+- Mother in legends is **Subhadrangi / Dharma**.
+- Viceroyship is at Taxila, then Ujjain.
+- The *Ashokavadana* succession fight should be used lightly.
+- Wife **Devi** of Vidisha is mother of **Mahinda** and **Sanghamitta**.
+- Wife **Karuvaki** has the Queen’s edict. Her son is **Tivala**.
+- Wife **Tishyarakshita** belongs to the Bodhi-tree / Kunala legend.
+- **Kalinga in 261 BCE** is the **8th** regnal year.
+- Rock Edict XIII numbers **1 lakh** killed and **1.5 lakh** deported.
+- Remorse leads to **dhamma-vijaya**. He does **not** give Kalinga back.
 - Major edicts say **Piyadassi / Devanampiya**, not the personal name.
-- Personal name **Ashoka** on MRE: Maski, Gujarra, Nittur, Udegolam.
-- 10th year: *dhammayatra* to Bodh Gaya (RE VIII), not *viharayatra*.
+- The personal name **Ashoka** is on Minor Rock Edicts at Maski, Gujarra, Nittur, and Udegolam.
+- In the 10th year he makes a *dhammayatra* to Bodh Gaya (Rock Edict VIII), not a *viharayatra*.
 
-**RE XIII Greek kings (dating peg)**
-- Antiochus II Theos
-- Ptolemy II Philadelphus
-- Antigonus Gonatas
-- Magas of Cyrene
-- Alexander of Epirus
+- Rock Edict XIII names **Antiochus II Theos**.
+- It names **Ptolemy II Philadelphus**.
+- It names **Antigonus Gonatas**.
+- It names **Magas of Cyrene**.
+- It names **Alexander of Epirus**.
 
-**Mahavamsa missions** (after the 3rd council at Pataliputra, Moggaliputta Tissa)
-- Kashmir–Gandhara
-- Mahishamandala
-- Vanavasi
-- Aparantaka
-- Maharatha
-- Yona
-- Himalaya
-- **Suvannabhumi**
-- **Lanka** — Mahinda + Sanghamitta, king **Devanampiya Tissa**, Bodhi-sapling
+- The *Mahavamsa* missions follow the Third Council at Pataliputra under Moggaliputta Tissa.
+- One mission goes to Kashmir–Gandhara.
+- One goes to Mahishamandala.
+- One goes to Vanavasi.
+- One goes to Aparantaka.
+- One goes to Maharatha.
+- One goes to the Yona.
+- One goes to the Himalaya.
+- One goes to **Suvannabhumi**.
+- **Lanka** receives **Mahinda** and **Sanghamitta**, under king **Devanampiya Tissa**, with a Bodhi-sapling.
 
-- Legend: **84,000** stupas / viharas.
-- **Jalauka** in Kashmir = *Rajatarangini*, not edicts.
-- Barabar gift to Ajivikas: polished granite cells, not Buddhist viharas.
-- Death ~232. Empire runs to **185**.
+- Legend credits **84,000** stupas and viharas.
+- **Jalauka** in Kashmir is from the *Rajatarangini*, not from edicts.
+- The Barabar gift to Ajivikas is polished granite cells, not Buddhist viharas.
+- Death is about 232. The empire runs to **185**.
 
 > **Exam note:** Major edicts do **not** usually say the word “Ashoka.” Maski does.
 
@@ -379,21 +377,29 @@ A. Rock Edict XI  B. Rock Edict XII  C. Rock Edict XIII  D. Rock Edict II
 
 ## 7.9 Minor Rock Edicts
 
-**Personal voice | the name “Ashoka” | southern limit + UP’s Ahraura**
+**Personal voice | the name “Ashoka” | southern limit plus UP’s Ahraura**
 
-**Name “Ashoka” spelled:** Maski (Raichur, first found), **Gujarra** (Datia, MP), **Nittur**, **Udegolam**.
+- The name **Ashoka** is spelled at **Maski** (Raichur), first found.
+- It is spelled at **Gujarra** in Datia, Madhya Pradesh.
+- It is spelled at **Nittur**.
+- It is spelled at **Udegolam**.
 
-**Karnataka cluster (southern limit):** Brahmagiri, Siddapura, Jatinga-Rameshwara, Gavimath, Palkigundu, Rajula-Mandagiri, Maski, Nittur, Udegolam.
+- The Karnataka cluster marks the southern limit.
+- Named Karnataka sites are Brahmagiri, Siddapura, Jatinga-Rameshwara, Gavimath, Palkigundu, Rajula-Mandagiri, Maski, Nittur, and Udegolam.
 
-**Other MRE:** Rupnath (MP), Sahasram/Sasaram (Bihar), Bairat (Rajasthan), Panguraria (MP), **Ahraura (Mirzapur, UP)**.
+- **Rupnath** in Madhya Pradesh has a Minor Rock Edict.
+- **Sahasram / Sasaram** in Bihar has a Minor Rock Edict.
+- **Bairat** in Rajasthan has a Minor Rock Edict.
+- **Panguraria** in Madhya Pradesh has a Minor Rock Edict.
+- **Ahraura** in **Mirzapur, Uttar Pradesh**, has a Minor Rock Edict.
 
-- **Bhabru / Calcutta-Bairat:** Ashoka as *upasaka*.
-- Bhabru texts: Vinaya-samukase, Aliya-vasani, Anagata-bhayani, Muni-gatha, Moneyasute, Upatisa-pasine, **Laghulovada**.
-- Laghulovada on this list ≠ 2024 “definition taken from.”
-- Kandahar Greek MRE — bilingual frontier.
-- **Kanaganahalli (Sannati)** — sculpted panel labelled **Raya Asoka** (rare named portrait).
+- The **Bhabru / Calcutta-Bairat** edict presents Ashoka as *upasaka*.
+- Bhabru lists Vinaya-samukase, Aliya-vasani, Anagata-bhayani, Muni-gatha, Moneyasute, Upatisa-pasine, and **Laghulovada**.
+- Laghulovada on this list does **not** make the 2024 claim “definition taken from” true.
+- Kandahar has a Greek Minor Rock Edict, a bilingual frontier text.
+- **Kanaganahalli (Sannati)** has a sculpted panel labelled **Raya Asoka**, a rare named portrait.
 
-> **Exam note:** If the question is “where is the name Ashoka?” → **Maski**, not Girnar.
+> **Exam note:** If the question is “where is the name Ashoka?” the answer is **Maski**, not Girnar.
 
 ---
 
@@ -457,21 +463,23 @@ Minor pillar / schism: Sarnath, Sanchi, Kaushambi. **Kaushambi schism** = don’
 
 ## 7.12 Kautilya's Arthashastra
 
-**Kautilya = Chanakya = Vishnugupta | 15 *adhikaranas*, ~150 chapters | R. Shamasastry 1909 (Mysore MS)**
+**Kautilya = Chanakya = Vishnugupta | 15 *adhikaranas*, about 150 chapters | R. Shamasastry 1909 (Mysore MS)**
 
-- **Four vidyas:** anvikshiki, trayi, varta, dandaniti.
-- **Saptanga:** swami, amatya, janapada, durga, kosha, danda (army), mitra.
-- **Four upayas:** sama, dana, bheda, danda.
-- **Shadgunya:** sandhi, vigraha, asana, yana, samshraya, dvaidhibhava.
-- **Raja-mandala:** *vijigishu* (would-be conqueror) at centre; ari, mitra, arimitra… (12-king ring).
-- Forts: *audaka, parvata, dhanvana, vanadurga*.
-- **18 tirthas:** mantrin, purohita, senapati, yuvaraja, dauvarika, antarvamsika, prasasta, samaharta, sannidhata, pradeshta, nayaka, pauravyavaharika, karmantika, mantri-parishad-adhyaksha, dandapala, durgapala, antapala, atavika.
-- Adhyaksha-state: mines, salt, liquor, forests, spinning, ships, passports, mint — **command economy**. Guilds (*shreni*) regulated, not abolished.
-- **Slavery exists** here — direct clash with Megasthenes’ “no slaves.”
-- 15 books (names only if asked): Vinaya, Adhyakshaprachara, Dharmasthiya, Kantakashodhana, Yogavritta, Mandala-yoni, Shadgunya, Vyasanadhikarana, Abhiyasyatkarma, Sangramika, Sangha-vritta, Aabaliyasa, Durgalambhopaya, Aupanishadika, Tantrayukti.
-- Date debate (Mauryan core vs later redaction) — Prelims still tags it **Mauryan state-book**. *Mudrarakshasa* ≠ this text.
+- The **four vidyas** are anvikshiki, trayi, varta, and dandaniti.
+- The **saptanga** are swami, amatya, janapada, durga, kosha, danda (army), and mitra.
+- The **four upayas** are sama, dana, bheda, and danda.
+- The **shadgunya** are sandhi, vigraha, asana, yana, samshraya, and dvaidhibhava.
+- The **raja-mandala** puts the *vijigishu* (would-be conqueror) at the centre, with ari, mitra, arimitra, and the rest of the twelve-king ring.
+- Fort types are *audaka, parvata, dhanvana,* and *vanadurga*.
+- The **18 tirthas** include mantrin, purohita, senapati, yuvaraja, dauvarika, antarvamsika, prasasta, samaharta, and sannidhata.
+- Other tirthas are pradeshta, nayaka, pauravyavaharika, karmantika, mantri-parishad-adhyaksha, dandapala, durgapala, antapala, and atavika.
+- The adhyaksha-state covers mines, salt, liquor, forests, spinning, ships, passports, and mint. It is a **command economy**.
+- Guilds (*shreni*) are regulated, not abolished.
+- **Slavery exists** here. That is a direct clash with Megasthenes’ “no slaves.”
+- Date debate (Mauryan core versus later redaction) does not change the Prelims tag: it is the **Mauryan state-book**.
+- The *Mudrarakshasa* is not this text.
 
-> **Exam note:** Kautilya ≠ Megasthenes. Arthashastra ≠ Indica.
+> **Exam note:** Kautilya is not Megasthenes. The Arthashastra is not the Indica.
 
 ---
 
@@ -497,22 +505,36 @@ Minor pillar / schism: Sarnath, Sanchi, Kaushambi. **Kaushambi schism** = don’
 
 **Greek snapshot | mix of gold and howlers | two separate ‘six boards’**
 
-**Seven classes (not varna):** philosophers (Brahman + Shramana), farmers, herdsmen/hunters, artisans, soldiers, overseers (*ephoroi*), councillors (smallest).
+- The seven classes are **not** varna.
+- The first class is philosophers, Brahman and Shramana.
+- Then come farmers.
+- Then herdsmen and hunters.
+- Then artisans.
+- Then soldiers.
+- Then overseers (*ephoroi*).
+- Then councillors, the smallest class.
 
-**City — six boards of five:** (1) crafts (2) foreigners (3) births/deaths (4) trade (5) manufactures (6) sales-tax / tithe.
+- The city has six boards of five.
+- Board one is crafts.
+- Board two is foreigners.
+- Board three is births and deaths.
+- Board four is trade.
+- Board five is manufactures.
+- Board six is sales-tax / tithe.
 
-**Army — six boards of five:** navy, transport/bullock, infantry, cavalry, chariots, elephants.
+- The army has six boards of five: navy, transport/bullock, infantry, cavalry, chariots, and elephants.
 
-- Pataliputra: wooden palisade, moat, **570 towers, 64 gates**.
-- Claim: **no slavery**. Arthashastra disagrees.
-- Claim: **no usury**.
-- Claim: farmers spared in war.
-- Claim: king never sleeps twice in the same room.
-- Claim: women among palace guards.
-- **Agronomoi** in the countryside (→ 2020 revenue). Strabo also gives them **roads + mile-pillars** = option C trap.
-- Does **not** name Chanakya or the *Arthashastra*.
+- Pataliputra has a wooden palisade, a moat, **570 towers**, and **64 gates**.
+- The claim of **no slavery** clashes with the Arthashastra.
+- The text also claims **no usury**.
+- It claims farmers are spared in war.
+- It claims the king never sleeps twice in the same room.
+- It claims women among palace guards.
+- **Agronomoi** work in the countryside. That is the 2020 revenue key.
+- Strabo also gives them **roads and mile-pillars**. That is option C, the trap.
+- The *Indica* does **not** name Chanakya or the *Arthashastra*.
 
-> **Exam note:** Seven-caste list is **Indica**, not Manu.
+> **Exam note:** The seven-caste list is **Indica**, not Manu.
 
 ---
 
@@ -563,16 +585,28 @@ Minor pillar / schism: Sarnath, Sanchi, Kaushambi. **Kaushambi schism** = don’
 
 **Kautilya’s eyes | *gudhapurusha* | nine textbook covers**
 
-**Sanstha (stationary, 5):** *kapatika* (student), *udasthita* (renouncer), *grihapatika* (householder), *vaidehaka* (trader), *tapasa*.
+- **Sanstha** spies are stationary. There are five covers.
+- The *kapatika* is the student cover.
+- The *udasthita* is the renouncer cover.
+- The *grihapatika* is the householder cover.
+- The *vaidehaka* is the trader cover.
+- The *tapasa* is the ascetic cover.
 
-**Sanchara (mobile, 4):** *satri*, *tikshna*, *rasada* (poisoner), *bhikshuki* (wandering nun — female agents).
+- **Sanchara** spies are mobile. There are four covers.
+- The *satri* is one mobile cover.
+- The *tikshna* is another.
+- The *rasada* is the poisoner.
+- The *bhikshuki* is the wandering nun. Female agents exist.
 
-- **Ubhayavetana** = double agent (paid by both sides). *Vishkanya* in later legend, not an edict.
-- **Upadha** tests of ministers: dharma, artha, kama, bhaya.
-- *Pradeshtri* inspects and feeds intelligence. Ashokan face: *pativedaka* (RE VI). Megasthenes’ *ephoroi* = outsider’s overseers.
-- King gets secret reports **outside** the normal chain so officers cannot collude.
+- **Ubhayavetana** is a double agent, paid by both sides.
+- The *vishkanya* is later legend, not an edict.
+- **Upadha** tests of ministers use dharma, artha, kama, and bhaya.
+- The *pradeshtri* inspects and feeds intelligence.
+- The Ashokan face is the *pativedaka* of Rock Edict VI.
+- Megasthenes’ *ephoroi* are an outsider’s overseers.
+- The king gets secret reports **outside** the normal chain so officers cannot collude.
 
-> **Exam note:** Spy chapters are **Arthashastra**, not RE XII. Ashoka did not “abolish spies.”
+> **Exam note:** Spy chapters are **Arthashastra**, not Rock Edict XII. Ashoka did not “abolish spies.”
 
 ---
 

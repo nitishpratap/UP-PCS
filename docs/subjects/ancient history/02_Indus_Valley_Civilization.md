@@ -109,63 +109,97 @@ D. 4 3 1 2
 
 ## 2.3 Major Harappan Sites
 
+**Site ↔ river/state ↔ one signature find | Pakistan first, then India**
+
 **Pakistan**
 
-**Harappa** (Ravi, Pakistani Punjab) — Sahni **1921**
-- 6 granaries / 12 working-floors
-- Cemetery **R-37**. Coffin burial
-- Red-sandstone **male torso**. Bronze mirror
+- **Harappa** stands on the **Ravi** in Pakistani Punjab.
+- **Daya Ram Sahni** excavated it in **1921**.
+- It has **six granaries** and **twelve working-floors**.
+- Cemetery **R-37** includes coffin burial.
+- Finds include a red-sandstone **male torso** and a bronze mirror.
 
-**Mohenjo-daro** (“mound of the dead”, Sindh) — Banerji **1922**
-- **Great Bath**. Assembly/college building
-- **Dancing girl** (bronze, ~10.5 cm, lost-wax)
-- **Priest-king** (steatite, trefoil shawl)
-- Boat models. Population often cited ~35,000–40,000
+- **Mohenjo-daro** means “mound of the dead” and lies in **Sindh**.
+- **R.D. Banerji** excavated it in **1922**.
+- The **Great Bath** is here. No other Harappan city has this exact public tank.
+- An assembly or college building stands near the bath.
+- The bronze **Dancing Girl** is about **10.5 cm** and was cast by the lost-wax method.
+- The **Priest-king** is a steatite bust with a trefoil shawl.
+- Boat models occur here. Population is often cited at about **35,000–40,000**.
 
-**Chanhudaro** (Sindh)
-- **Bead factory**. **No citadel**
-- Excavated N.G. Majumdar **1931**
+- **Chanhudaro** in Sindh is a **bead factory** town with **no citadel**.
+- **N.G. Majumdar** excavated it in **1931**.
 
-- **Sutkagen-dor / Sotka Koh** (Makran) — **western** sea-gate
-- **Kot Diji, Amri, Nausharo, Rehman Dheri, Gumla** — Early Harappan / pre-urban
-- **Balakot, Allahdino** — coastal. Shell and fish
+- **Sutkagen-dor** on the Makran is the **western** sea-gate of the culture.
+- **Sotka Koh** is the neighbouring Makran coastal site.
+- **Kot Diji** in Sindh is an Early Harappan / pre-urban site.
+- **Amri** is another Early Harappan site in Sindh.
+- **Nausharo** is an Early-to-Mature sequence site.
+- **Rehman Dheri** is a pre-urban planned settlement in the Gomal belt.
+- **Gumla** is an Early Harappan site in the same northwest cluster.
+- **Balakot** is a coastal site known for shell and fish.
+- **Alladino** is another coastal craft site.
 
 **India**
 
-**Dholavira** (Khadir, Kutch)
-- Water reservoirs. **10-sign board**
-- 3 divisions. Stone architecture. UNESCO **2021**
+- **Dholavira** stands on Khadir island in **Kutch**.
+- It is known for water **reservoirs** and a **10-sign board**.
+- The city has **three** divisions and more **stone** architecture than the Indus brick cities.
+- UNESCO inscribed it in **2021**.
 
-**Lothal** (Ahmedabad belt, Bhogavo) — S.R. Rao
-- **Dockyard** (~218 × 37 m)
-- Warehouse. Bead factory. Rice husk. Fire altar. Boat models
+- **Lothal** lies in the Ahmedabad belt on the **Bhogavo**.
+- **S.R. Rao** excavated it.
+- The **dockyard** is about **218 × 37 m**.
+- A warehouse stood beside the dock.
+- Lothal had a bead factory.
+- Rice husk is reported here.
+- A fire altar occurs at Lothal.
+- Boat models also occur at Lothal.
 
-- **Surkotada** (Kutch) — fort. **Horse bones** (J.P. Joshi, **disputed**)
-- **Nageshwar** — Gujarat **shell**. Other Gujarat craft/coast: Rangpur, Rojdi, Desalpur, Kuntasi, Padri, Bhagatrav
+- **Surkotada** in Kutch is a fortified settlement.
+- **J.P. Joshi** reported **horse bones** here. The identification is **disputed**.
 
-**Kalibangan** (Hanumangarh, Ghaggar) — B.B. Lal
-- **Ploughed field**. **Fire altars**
-- Terracotta cakes. Camel bones. Poorer drains
+- **Nageshwar** in Gujarat is a **shell** workshop.
+- **Rangpur** in Gujarat is a Late Harappan site with lustrous red ware.
+- **Rojdi** in Gujarat is a Sorath Harappan settlement.
+- **Desalpur** in Kutch is a fortified Harappan site.
+- **Kuntasi** in Gujarat is a coastal craft and port-linked site.
+- **Padri** in Gujarat was the 2020 match for **Gujarat**.
+- **Bhagatrav** in Gujarat is a coastal Harappan site.
 
-**Banawali** (Fatehabad, Haryana) — R.S. Bisht
-- Radial/oval plan. Terracotta **plough**. Barley
+- **Kalibangan** in Hanumangarh, Rajasthan, stands on the **Ghaggar**.
+- **B.B. Lal** excavated it.
+- It is known for a **ploughed field** and **fire altars**.
+- Terracotta cakes and camel bones occur. Drains are poorer than at Mohenjo-daro.
 
-**Rakhigarhi** (Hisar, Haryana)
-- **Largest in India**. **7 mounds**. **Not UP**
+- **Banawali** in Fatehabad, Haryana, was excavated by **R.S. Bisht**.
+- It has a **radial or oval** plan, a terracotta **plough**, and barley.
 
-- **Bhirrana** — often called among the **oldest**
-- **Balu** — 2020 match **Haryana**
-- Also Haryana Early/Mature: Kunal, Farmana, Girawad, Mitathal
-- **Ropar / Rupnagar** (Sutlej, Punjab) — Y.D. Sharma
-- **Sanghol** (Punjab) — Harappan + later
-- **Manda** (Jammu, Chenab) — **northernmost**
-- **Alamgirpur** (Meerut, Hindon) — **easternmost**
-- **Hulas** (Baghpat) — eastern Harappan
-- **Mandi** (Bijnor, Ramganga) — **UP** (2021, 2025). Do not confuse with Manda
-- **Daimabad** (Pravara, Maharashtra) — **southernmost**. Bronze chariot, buffalo, elephant, rhino
-- **Shortughai** (Afghanistan) — **lapis lazuli** colony
+- **Rakhigarhi** in **Hisar, Haryana**, is the **largest** Harappan site in India.
+- It has **seven mounds**. It is **not** in Uttar Pradesh.
 
-> **Exam note:** **Mandi ≠ Manda**. Rakhigarhi ≠ UP. Padri = Gujarat, Balu = Haryana, Hulas = UP (2020 Q12).
+- **Bhirrana** in Haryana is often called among the **oldest** Harappan settlements.
+- **Balu** in Haryana was the 2020 match for **Haryana**.
+- **Kunal** in Haryana is an Early Harappan site.
+- **Farmana** in Haryana is a Mature Harappan cemetery and settlement.
+- **Girawad** in Haryana is Early Harappan.
+- **Mitathal** in Haryana is Harappan.
+
+- **Ropar (Rupnagar)** on the Sutlej in Punjab was excavated by **Y.D. Sharma**.
+- **Sanghol** in Punjab has Harappan and later levels.
+
+- **Manda** on the Chenab in Jammu is the **northernmost** Harappan site.
+- **Alamgirpur** on the Hindon in Meerut is the **easternmost** Harappan site.
+- **Hulas** in Baghpat is an eastern Harappan habitation.
+- **Mandi** in Bijnor, on the Ramganga, is in **Uttar Pradesh** (2021, 2025). Do not confuse Mandi with **Manda**.
+
+- **Daimabad** on the Pravara in Maharashtra is the **southernmost** site.
+- It yielded a bronze **chariot**.
+- It also yielded bronze buffalo, elephant, and rhinoceros figures.
+
+- **Shortughai** in Afghanistan is a **lapis lazuli** colony of the Harappans.
+
+> **Exam note:** **Mandi is not Manda**. Rakhigarhi is not in Uttar Pradesh. Padri is Gujarat. Balu is Haryana. Hulas is Uttar Pradesh (2020 Q12).
 
 **PYQ — UPPCS Prelims 2020, Q12**
 
@@ -191,34 +225,54 @@ D. 3 2 4 1
 
 ## 2.4 Archaeological Sites and Excavations
 
-- **Charles Masson (1826)** described Harappa ruins. **Alexander Cunningham (1875)** published a Harappa seal — before “discovery.”
-- **Daya Ram Sahni — Harappa, 1921.** **R.D. Banerji — Mohenjo-daro, 1922.**
-- **John Marshall** (ASI DG) announced a new Bronze Age civilization in **1924** (*Illustrated London News*).
-- **M.S. Vats** — Harappa granary (he is the **2020 Bhimbetka distractor**).
-- **N.G. Majumdar** — Chanhudaro 1931 (killed in Sindh, 1938).
-- **Mortimer Wheeler** — Harappa **1946**; grid-stratigraphy; **did not discover** IVC; pushed the Aryan-massacre reading (now dropped).
-- **S.R. Rao** — Lothal dockyard, 1955–62.
-- **B.B. Lal** — Kalibangan; later Hastinapur / OCP / Mahabharata archaeology.
-- **R.S. Bisht** — Dholavira (and Banawali).
-- **Y.D. Sharma** — Ropar. **J.P. Joshi** — Surkotada. **Amarendra Nath / Vasant Shinde** — Rakhigarhi.
-- Dating: stratigraphy + **C-14**. Mature bracket ~2600–1900 BCE is the exam range.
-- **Sanauli** (Baghpat, UP, ASI 2018): wooden coffins, copper antennae swords, **chariot burials** — Late Harappan / OCP, **not** a Mature grid-city with a Great Bath.
+**Who dug what | 1826 notice to 2018 Sanauli**
 
-> **Exam note:** Sahni = Harappa; Banerji = Mohenjo-daro; Wheeler = later method, not the discoverer.
+- **Charles Masson** in **1826** described the ruins at Harappa.
+- **Alexander Cunningham** in **1875** published a Harappa seal, before the civilization was named.
+- **Daya Ram Sahni** excavated **Harappa** in **1921**.
+- **R.D. Banerji** excavated **Mohenjo-daro** in **1922**.
+- **John Marshall**, as ASI Director General, announced a new Bronze Age civilization in **1924** in the *Illustrated London News*.
+- **M.S. Vats** worked on the Harappa granary. He is the **2020 Bhimbetka distractor**.
+- **N.G. Majumdar** excavated Chanhudaro in **1931**. He was killed in Sindh in 1938.
+- **Mortimer Wheeler** dug at Harappa in **1946** and introduced grid-stratigraphy.
+- Wheeler **did not discover** the Indus civilization.
+- He pushed an Aryan-massacre reading of Mohenjo-daro that is now **dropped**.
+- **S.R. Rao** excavated the Lothal dockyard in **1955–62**.
+- **B.B. Lal** excavated Kalibangan, and later Hastinapur, OCP, and Mahabharata-related archaeology.
+- **R.S. Bisht** excavated Dholavira and Banawali.
+- **Y.D. Sharma** excavated Ropar.
+- **J.P. Joshi** excavated Surkotada.
+- **Amarendra Nath** and **Vasant Shinde** worked at Rakhigarhi.
+- Dates rest on stratigraphy plus **C-14**. The exam Mature bracket is about **2600–1900 BCE**.
+- **Sanauli** in Baghpat, Uttar Pradesh, was announced by ASI in **2018**.
+- It yielded wooden coffins, copper antennae swords, and **chariot burials**.
+- Sanauli is Late Harappan / OCP. It is **not** a Mature grid-city with a Great Bath.
+
+> **Exam note:** Sahni is Harappa. Banerji is Mohenjo-daro. Wheeler is later method, not the discoverer.
 
 ---
 
 ## 2.5 Archaeological Sites of Uttar Pradesh
 
-UP is the **eastern fringe**, not the Indus core. Smaller, pottery-heavy sites — but this is where UPPCS actually scores.
+**Eastern fringe | smaller pottery-heavy sites | where UPPCS actually scores**
 
-- **Alamgirpur** (Meerut, Hindon) — **eastern boundary** of Harappan culture (2023 Q28).
-- **Hulas** (Baghpat) — eastern Harappan habitation (2018 Q88, 2025 Q87).
-- **Mandi** (Bijnor, Ramganga) — state = **Uttar Pradesh** (2021 Q100, 2025 Q87).
-- **Sanauli** (Baghpat, 2018) — coffins, copper weapons, **chariots**; Late Harappan/OCP. High-yield UP CA, not Mature urban IVC.
+- Uttar Pradesh is the **eastern fringe** of Harappan culture, not the Indus core.
 
-**Not in UP (the options they throw at you)**  
-Rakhigarhi = **Hisar, Haryana**. Kalibangan = Rajasthan. Lothal / Dholavira / Surkotada = Gujarat. Banawali / Balu / Bhirrana = Haryana. **Manda** = J&K.
+- **Alamgirpur** on the Hindon in Meerut marks the **eastern boundary** (2023 Q28).
+- **Hulas** in Baghpat is an eastern Harappan habitation (2018 Q88, 2025 Q87).
+- **Mandi** on the Ramganga in Bijnor is in **Uttar Pradesh** (2021 Q100, 2025 Q87).
+- **Sanauli** in Baghpat (2018) has coffins, copper weapons, and **chariots**.
+- Sanauli is Late Harappan / OCP. It is not a Mature urban Indus city.
+
+- **Rakhigarhi** is in **Hisar, Haryana**, not Uttar Pradesh.
+- **Kalibangan** is in Rajasthan.
+- **Lothal** is in Gujarat.
+- **Dholavira** is in Gujarat.
+- **Surkotada** is in Gujarat.
+- **Banawali** is in Haryana.
+- **Balu** is in Haryana.
+- **Bhirrana** is in Haryana.
+- **Manda** is in Jammu and Kashmir.
 
 > **Exam note:** 2025 Q87 = Mandi + Hulas; Rakhigarhi out. 2018 Q88 = Alamgirpur + Hulas; Kalibangan + Lothal out.
 
@@ -289,22 +343,33 @@ D. III, IV
 
 ## 2.6 Major Ports of Ancient India
 
-**Harappan**
-- **Lothal** — only widely accepted **artificial dockyard** (basin with spillway); warehouse on a platform; Gulf of Khambhat via Bhogavo/Sabarmati.
-- **Sutkagen-dor, Sotka Koh** — Makran coast, Arabian Sea.
-- **Balakot, Allahdino** — Pakistan coast; shell bangles, fish.
-- **Kuntasi, Bhagatrav, Nageshwar** — Gujarat coast/workshop. Nageshwar = shell industry.
-- **Boat models / figures** at **Mohenjo-daro and Lothal** (UPPCS 2022 Q68). Dholavira is **not** this pair — it is inland Kutch water-harvesting.
+**Harappan coast first | later historic ports are a separate syllabus lock**
+
+- **Lothal** is the only widely accepted **artificial dockyard**, a basin with a spillway.
+- A warehouse stood on a platform beside the basin.
+- The site reached the Gulf of Khambhat via the Bhogavo and Sabarmati.
+
+- **Sutkagen-dor** is a Makran coastal gate on the Arabian Sea.
+- **Sotka Koh** is the neighbouring Makran coastal site.
+- **Balakot** on the Pakistan coast has shell bangles and fish remains.
+- **Alladino** is another Pakistan-coast craft site.
+- **Kuntasi** is a Gujarat coastal workshop.
+- **Bhagatrav** is a Gujarat coastal site.
+- **Nageshwar** is the Gujarat **shell** industry site.
+
+- Boat models or figures come from **Mohenjo-daro and Lothal** (UPPCS 2022 Q68).
+- **Dholavira** is **not** that pair. It is inland Kutch water-harvesting.
 
 **Later ports (same syllabus bullet; not Mature Harappan cities)**
-- **Bharuch (Barygaza)** — Gujarat; Periplus / Roman trade.
-- **Sopara** — Konkan.
-- **Muziris** — Kerala; Roman pepper.
-- **Kaveripattinam (Puhar)** — Sangam Chola coast.
-- **Arikamedu** — near Puducherry; Roman amphorae.
-- **Tamralipti** — Bengal; east-coast / SE Asia.
 
-> **Exam note:** Dockyard = **Lothal**. Boats = **Mohenjo-daro + Lothal**. Dholavira ≠ port in that question.
+- **Bharuch (Barygaza)** in Gujarat appears in the Periplus as a Roman-trade port.
+- **Sopara** is a Konkan port.
+- **Muziris** in Kerala was the Roman pepper port.
+- **Kaveripattinam (Puhar)** is the Sangam Chola coast.
+- **Arikamedu** near Puducherry yielded Roman amphorae.
+- **Tamralipti** in Bengal served the east coast and Southeast Asia.
+
+> **Exam note:** The dockyard is **Lothal**. Boat models are **Mohenjo-daro and Lothal**. Dholavira is not the port in that question.
 
 **PYQ — UPPCS Prelims 2022, Q68**
 
@@ -347,76 +412,127 @@ A. Dholavira and Bhagatrav  B. Harappa and Kot Diji  C. Mohenjo-daro and Lothal 
 
 ## 2.9 Town Planning
 
-- Streets in a **grid**, crossing at right angles; main roads N–S and E–W; width from about **3 m to 10 m**.
-- **Citadel** on a mud-brick platform, usually **west** and higher; **lower town east**, larger, residential + craft.
-- Houses: burnt brick, rooms around a **courtyard**, private **well** and **bathroom**; often **two-storeyed** (wooden stair); ground-floor **windows rarely open on the street**.
+**Grid streets | citadel west | lower town east | burnt brick**
+
+- Streets run in a **grid**, crossing at right angles.
+- Main roads run north–south and east–west.
+- Street width is about **3 m to 10 m**.
+- The **citadel** sits on a mud-brick platform.
+- It is usually **west** and higher.
+- The **lower town** is **east**, larger, and used for houses and craft.
+- Houses use burnt brick and rooms around a **courtyard**.
+- Many houses have a private **well** and **bathroom**.
+- Houses are often **two-storeyed**, with a wooden stair.
+- Ground-floor **windows rarely open on the street**.
 - Street corners at Mohenjo-daro show **lamp-posts**.
-- **Dholavira** exception: more **stone**; **three** units (citadel, middle, lower); not a photocopy of Mohenjo-daro.
-- **Banawali** exception: **radial / oval** streets.
-- Fort walls at Dholavira, Surkotada, Kalibangan citadel — “unwalled peaceful villages” is too simple.
+- **Dholavira** uses more **stone** and has **three** units: citadel, middle town, and lower town.
+- Dholavira is not a photocopy of Mohenjo-daro.
+- **Banawali** has **radial or oval** streets.
+- Fort walls exist at Dholavira, Surkotada, and the Kalibangan citadel.
+- “Unwalled peaceful villages” is too simple.
 - **No** palace of a named king has been identified.
 
-> **Exam note:** Citadel = **west**. Great Bath is **not** at every city.
+> **Exam note:** The citadel is **west**. The Great Bath is **not** at every city.
 
 ---
 
 ## 2.10 Drainage System
 
-- Each house bathroom connected to a **covered brick street drain**; soak-pits / cesspits at intervals; manholes for cleaning.
-- Floors of baths often watertight (gypsum / bitumen at the Great Bath).
-- **Great Bath (Mohenjo-daro):** about **12 × 7 × 2.4 m**; burnt brick + bitumen; steps on north and south; side rooms for changing — **ritual tank**, not a sports pool.
-- Kalibangan’s drainage is **not** in the same class — favourite “which is NOT true of all sites” trap.
+**Covered brick street drains | house bathrooms | Great Bath only at Mohenjo-daro**
 
-> **Exam note:** Great Bath = **Mohenjo-daro only**.
+- Each house bathroom connected to a **covered brick street drain**.
+- Soak-pits or cesspits stood at intervals.
+- Manholes allowed cleaning.
+- Bath floors were often made watertight with gypsum or bitumen, as at the Great Bath.
+- The **Great Bath** at Mohenjo-daro is about **12 × 7 × 2.4 m**.
+- It uses burnt brick plus bitumen, with steps on the north and south.
+- Side rooms were used for changing.
+- It is a **ritual tank**, not a sports pool.
+- Kalibangan’s drainage is **not** in the same class. That is a favourite “which is NOT true of all sites” trap.
+
+> **Exam note:** The Great Bath is at **Mohenjo-daro only**.
 
 ---
 
 ## 2.11 Agriculture
 
-- Staples: **wheat and barley**. Also peas, sesame, mustard, dates, ragi, melon.
-- **Cotton** — among the world’s **earliest** (cloth impression / threads).
-- **Rice** at **Lothal and Rangpur** (Gujarat) — do not mix with Koldihwa (Neolithic UP).
-- **Kalibangan:** fossil **ploughed field** (furrow grid); often cited for **double cropping**.
-- **Banawali:** terracotta **plough**. No iron ploughshare. Wooden plough in real use.
-- Irrigation: wells + flood; Dholavira **reservoirs**. No inscribed canal-empire like Mesopotamia.
-- Animals: humped bull, buffalo, sheep, goat, pig, dog, fowl. Bullock for the plough.
-- **Horse:** not on seals as a standard motif; bones only a **Surkotada** claim and **disputed** (onager vs horse).
-- Camel bones reported at Kalibangan. Elephant, rhino, tiger appear on **seals** (wild/sacred), not as farm stock.
+**Wheat and barley first | cotton early | no iron plough**
 
-> **Exam note:** Ploughed field = **Kalibangan**. Cotton = yes. Horse = **not** a safe “yes.”
+- Staples are **wheat and barley**.
+- Peas, sesame, mustard, dates, ragi, and melon also occur.
+- **Cotton** is among the world’s **earliest**, known from cloth impressions and threads.
+- **Rice** is reported at **Lothal** in Gujarat.
+- Rice is also reported at **Rangpur** in Gujarat.
+- Do not mix that rice with Koldihwa in Neolithic Uttar Pradesh.
+- **Kalibangan** has a fossil **ploughed field** with a furrow grid.
+- It is often cited for **double cropping**.
+- **Banawali** yielded a terracotta **plough**.
+- There is no iron ploughshare. The real plough was wooden.
+- Irrigation used wells and flood.
+- **Dholavira** used **reservoirs**.
+- There is no inscribed canal-empire like Mesopotamia.
+- Domestic animals include the humped bull, buffalo, sheep, goat, pig, dog, and fowl.
+- The bullock pulled the plough.
+- The **horse** is not a standard seal motif.
+- Horse bones are only a **Surkotada** claim and remain **disputed** (onager versus horse).
+- Camel bones are reported at Kalibangan.
+- Elephant, rhinoceros, and tiger appear on **seals** as wild or sacred animals, not as farm stock.
+
+> **Exam note:** The ploughed field is **Kalibangan**. Cotton is yes. Horse is **not** a safe “yes.”
 
 ---
 
 ## 2.12 Craft Industries
 
-- **Beads:** carnelian (heated for red), agate, steatite, lapis, faience — factory debris at **Chanhudaro** and Lothal; long-barrel carnelian is a Harappan export.
-- **Bronze / lost-wax (cire perdue):** dancing girl; Daimabad bronzes (chariot, animals).
-- **Pottery:** wheel-thrown red ware, black-on-red painting, perforated jars (grain/ritual).
-- **Seals:** steatite, intaglio, then fired hard.
-- **Shell:** bangles, ladles — Nageshwar, Balakot, Lothal.
-- **Faience:** blue-green glazed paste jewellery.
-- **Terracotta:** mother goddess, toy carts, animals, **dice / gamesmen** (Lothal), cakes (Kalibangan).
-- **Textiles:** spindle whorls everywhere; cotton.
-- Brick-making as a civic industry (standard size).
+**Beads, bronze, seals, shell, terracotta | civic brick-making**
 
-> **Exam note:** Dancing girl = **bronze**, Mohenjo-daro, ~**10.5 cm**. Chanhudaro = beads, **no citadel**.
+- Bead materials include carnelian (heated for red), agate, steatite, lapis, and faience.
+- Factory debris is densest at **Chanhudaro** and Lothal.
+- Long-barrel carnelian is a Harappan export.
+- **Bronze** used the **lost-wax (cire perdue)** method.
+- The dancing girl is bronze.
+- Daimabad bronzes include a chariot and animals.
+- Pottery is wheel-thrown red ware with black-on-red painting.
+- Perforated jars were used for grain or ritual.
+- Seals are **steatite**, carved intaglio, then fired hard.
+- Shell was used for bangles and ladles at Nageshwar, Balakot, and Lothal.
+- **Faience** is a blue-green glazed paste used for jewellery.
+- Terracotta includes mother goddesses, toy carts, and animals.
+- **Dice and gamesmen** occur at Lothal.
+- Terracotta cakes occur at Kalibangan.
+- Spindle whorls show textile work. Cotton was the cloth.
+- Brick-making was a civic industry with a standard size.
+
+> **Exam note:** The dancing girl is **bronze**, from Mohenjo-daro, about **10.5 cm**. Chanhudaro is beads with **no citadel**.
 
 ---
 
 ## 2.13 Religion
 
-Reconstructed from objects — **no readable scripture, no standing temple.**
+**Reconstructed from objects | no readable scripture | no standing temple**
 
-- **Pashupati / proto-Shiva seal** (Mohenjo-daro): horned yogic figure, animals around (elephant, tiger, rhino, buffalo). Identification is a **debate**, not a proof of later Puranic Shaivism.
-- **Mother-goddess** terracotta (fan-shaped headdress, jewellery) — fertility.
-- **Peepal** on seals; **linga–yoni** stones reported; **swastika** on some seals.
-- **Unicorn** (most common seal animal) is mythical; **humped bull** is the main real sacred animal.
-- **Fire altars** at Kalibangan, Lothal, Banawali — do not automatically equal Vedic yajna.
-- Great Bath → ritual purity / water cult.
-- Burials: extended inhumation, often N–S; pottery and ornaments as grave goods. **Fractional** burial and **urn** burial in late levels. **Double burial** at Lothal. Harappa **coffin** burials (R-37). **No** royal pyramids.
-- **Cemetery H** (Harappa, Late): painted urns, fractional burial — sometimes linked (loosely) to later Vedic practices; keep it as **Late Harappan**, not “Aryans proved.”
+- The **Pashupati / proto-Shiva seal** from Mohenjo-daro shows a horned yogic figure with animals around: elephant, tiger, rhinoceros, and buffalo.
+- That identification is a **debate**. It is not proof of later Puranic Shaivism.
+- **Mother-goddess** terracottas wear a fan-shaped headdress and jewellery and point to fertility.
+- The **peepal** appears on seals.
+- **Linga–yoni** stones are reported.
+- The **swastika** appears on some seals.
+- The **unicorn** is the most common seal animal and is mythical.
+- The **humped bull** is the main real sacred animal.
+- **Fire altars** occur at Kalibangan.
+- Fire altars also occur at Lothal.
+- Fire altars also occur at Banawali.
+- Do not automatically equate those altars with Vedic yajna.
+- The Great Bath points to ritual purity and a water cult.
+- Burials are usually extended inhumation, often north–south, with pottery and ornaments.
+- **Fractional** burial and **urn** burial occur in late levels.
+- **Double burial** occurs at Lothal.
+- Harappa has **coffin** burials in cemetery **R-37**.
+- There are **no** royal pyramids.
+- **Cemetery H** at Harappa is Late Harappan, with painted urns and fractional burial.
+- Keep Cemetery H as **Late Harappan**. Do not treat it as “Aryans proved.”
 
-> **Exam note:** “A Hindu temple was excavated at Mohenjo-daro” is false. Pashupati = **interpretation**.
+> **Exam note:** “A Hindu temple was excavated at Mohenjo-daro” is false. Pashupati is an **interpretation**.
 
 ---
 

@@ -63,18 +63,26 @@ Mandi (Bijnor UP) ≠ Manda (J&K)
 
 **Archaeological Survey of India | 1861 | Union body under Culture**
 
-- Founded **1861**. Viceroy **Canning**.
-- First Director-General: **Alexander Cunningham**.
-- Cunningham used Chinese pilgrim routes to hunt Buddhist sites (Sarnath, Sanchi, Bharhut).
-- **John Marshall** DG **1902–1928**. Makes ASI a standing scientific department.
+- Founded in **1861** under Viceroy **Canning**.
+- The first Director-General is **Alexander Cunningham**.
+- Cunningham used Chinese pilgrim routes to hunt Buddhist sites.
+- He worked at Sarnath, Sanchi, and Bharhut.
+- **John Marshall** is DG from **1902 to 1928**.
+- He makes ASI a standing scientific department.
 - Marshall **announces** the Indus civilization to the world in **1924**.
-- **Mortimer Wheeler** DG **1944–1948**. Brings the **balk-and-grid** method.
-- Wheeler digs Harappa **1946**. That is a re-dig, not the discovery.
-- HQ: **24 Tilak Marg, New Delhi**. Not Lucknow.
-- Lucknow has UP **State** Archaeology and the State Museum. Different office.
-- Law: **AMASR Act 1958**. Antiquities export: **1972** Act.
-- Journal: *Indian Archaeology — A Review*.
-- Field units are **Circles** (Agra, Lucknow, Patna…). Circles do not replace HQ.
+- **Mortimer Wheeler** is DG from **1944 to 1948**.
+- He brings the **balk-and-grid** method.
+- Wheeler digs Harappa in **1946**.
+- That is a re-dig, not the discovery.
+- Headquarters is **24 Tilak Marg, New Delhi**.
+- It is not Lucknow.
+- Lucknow has UP **State** Archaeology and the State Museum.
+- That is a different office.
+- The monument law is the **AMASR Act 1958**.
+- Antiquities export sits under the **1972** Act.
+- The journal is *Indian Archaeology — A Review*.
+- Field units are **Circles**, such as Agra, Lucknow, and Patna.
+- Circles do not replace HQ.
 
 > **Exam note:** Cunningham founded the Survey. Marshall announced IVC. Wheeler did not discover it.
 
@@ -100,13 +108,19 @@ Mandi (Bijnor UP) ≠ Manda (J&K)
 
 **Absolute date | organic carbon only | Libby**
 
-- **Willard Libby**, 1949 Nobel path. Method in use from the late 1940s.
-- **Half-life** of C-14 ≈ **5730 years**.
-- Works on **charcoal, wood, bone, seed, shell**. Living things that took in carbon.
-- Does **not** date a stone tool or a copper sword by itself. Date the charcoal **with** it.
-- Useful range roughly to ~50,000 years. After that the leftover C-14 is too thin.
-- Fired pottery can use **thermoluminescence (TL)** instead. Different clock, different sample.
-- This is how Mature Harappan sits near **~2600–1900 BCE**, not “guesswork from bricks.”
+- **Willard Libby** opens the 1949 Nobel path.
+- The method is in use from the late 1940s.
+- The **half-life** of C-14 is about **5730 years**.
+- It works on **charcoal, wood, bone, seed, and shell**.
+- Those are living things that took in carbon.
+- It does **not** date a stone tool or a copper sword by itself.
+- Date the charcoal **with** the object.
+- The useful range is roughly to about 50,000 years.
+- After that the leftover C-14 is too thin.
+- Fired pottery can use **thermoluminescence (TL)** instead.
+- That is a different clock and a different sample.
+- This is how Mature Harappan sits near **about 2600–1900 BCE**.
+- It is not “guesswork from bricks.”
 
 > **Exam note:** C-14 = organic. Stone handaxe ≠ a C-14 sample.
 
@@ -116,22 +130,21 @@ Mandi (Bijnor UP) ≠ Manda (J&K)
 
 **Who opened which trench | discovery ≠ later re-dig**
 
-| Year | Site | Who | Lock |
-|------|------|-----|------|
-| 1863 | Pallavaram | **Robert Bruce Foote** | First recognised Indian Paleolithic tools |
-| 1921 | Harappa | **Daya Ram Sahni** | First big IVC dig |
-| 1922 | Mohenjo-daro | **R.D. Banerjee** | Urban IVC in the trench |
-| 1924 | — | **Marshall** (DG) | World announcement |
-| 1946 | Harappa | **Wheeler** | Grid stratigraphy |
-| 1955–62 | Lothal | **S.R. Rao** | Dockyard |
-| 1957–58 | Bhimbetka | **V.S. Wakankar** | Rock-art prehistory |
-| 1960s | Kalibangan | **B.B. Lal** | Ploughed field, fire altars |
-| 1990s | Dholavira | **R.S. Bisht** | Reservoirs, signboard |
-| 2018 | **Sanauli** (Baghpat) | ASI / **S.K. Manjul** | Copper chariots, coffins |
-
-- A find is useful only **in situ** (still in its layer). Looting kills the date.
-- After 1947 the two giant IVC cities are in Pakistan. Indian trenches shift to Gujarat, Haryana, Rajasthan, Punjab, **UP**.
-- Boat **models** come from **Mohenjo-daro and Lothal** (2022 Q68).
+- In **1863**, **Robert Bruce Foote** at **Pallavaram** first recognised Indian Paleolithic tools.
+- In **1921**, **Daya Ram Sahni** opened the first big IVC dig at **Harappa**.
+- In **1922**, **R.D. Banerjee** opened urban IVC at **Mohenjo-daro**.
+- In **1924**, **Marshall** as DG made the world announcement.
+- In **1946**, **Wheeler** applied grid stratigraphy at Harappa.
+- From **1955 to 1962**, **S.R. Rao** excavated **Lothal** and its dockyard.
+- In **1957–58**, **V.S. Wakankar** established **Bhimbetka** as rock-art prehistory.
+- In the **1960s**, **B.B. Lal** excavated **Kalibangan**, with the ploughed field and fire altars.
+- In the **1990s**, **R.S. Bisht** excavated **Dholavira**, with reservoirs and the signboard.
+- In **2018**, ASI under **S.K. Manjul** excavated **Sanauli** in Baghpat, with copper chariots and coffins.
+- A find is useful only **in situ**, still in its layer.
+- Looting kills the date.
+- After 1947 the two giant IVC cities are in Pakistan.
+- Indian trenches then shift to Gujarat, Haryana, Rajasthan, Punjab, and **Uttar Pradesh**.
+- Boat **models** come from **Mohenjo-daro and Lothal** (**2022 Q68**).
 
 **PYQ — UPPCS Prelims 2020, Q10**
 
@@ -237,33 +250,41 @@ A. 3 2 1 4  B. 2 3 4 1  C. 2 4 3 1  D. 3 2 4 1
 
 **UP Harappan trio (learn cold)**
 
-| Site | District | Lock |
-|------|----------|------|
-| **Alamgirpur** | Meerut (Hindon) | **Easternmost** IVC in India. **2023 Q28 = B** |
-| **Hulas** | Baghpat | 2018, 2020, 2025 |
-| **Mandi** | Bijnor (Ramganga) | **2021 Q100 = D.** **2025 Q87** |
+- **Alamgirpur** in Meerut, on the Hindon, is the **easternmost** IVC site in India.
+- **2023 Q28** keys **B**.
+- **Hulas** is in Baghpat.
+- It appears in **2018**, **2020**, and **2025**.
+- **Mandi** is in Bijnor, on the Ramganga.
+- **2021 Q100** keys **D**.
+- **2025 Q87** also uses Mandi.
 
 **Not UP — bait in those papers**
 
-| Site | Actual state |
-|------|----------------|
-| Rakhigarhi | Haryana |
-| Kalibangan | Rajasthan |
-| Lothal | Gujarat |
-| Balu | Haryana |
-| Manda | J&K |
+- **Rakhigarhi** is in Haryana.
+- **Kalibangan** is in Rajasthan.
+- **Lothal** is in Gujarat.
+- **Balu** is in Haryana.
+- **Manda** is in Jammu and Kashmir.
 
 **Other UP trenches**
 
-- **Sanauli** (Baghpat, 2018): copper **chariots**, coffins, antenna swords. Late Harappan / OCP overlap. Same district as Hulas. Different period-label.
-- **Koldihwa** and **Mahagara** (Belan, Prayagraj): Neolithic. Early **rice** claim.
-- **Hastinapur** (Meerut): PGW + Kuru mound. Lal’s flood-layer story.
-- **Kaushambi** (Prayagraj): Vatsa capital. Mauryan–Gupta stack. The Allahabad pillar stone was moved from here.
-- **Ahichchhatra** (Bareilly): Panchala.
-- **Sarnath** (Varanasi): first sermon. Ashokan lion capital. Cunningham’s hunting ground.
-- **Rajghat**: old Kashi rampart.
-- **Shravasti** (Sahet-Mahet): Kosala / Jetavana.
-- **Atranjikhera** (Etah): PGW type-site.
+- **Sanauli** in Baghpat, excavated in **2018**, yielded copper **chariots**, coffins, and antenna swords.
+- It is Late Harappan / OCP overlap.
+- It sits in the same district as Hulas, with a different period-label.
+- **Koldihwa** and **Mahagara** on the Belan near Prayagraj are Neolithic.
+- They carry an early **rice** claim.
+- **Hastinapur** in Meerut is a PGW and Kuru mound.
+- Lal’s flood-layer story belongs here.
+- **Kaushambi** near Prayagraj is the Vatsa capital.
+- It has a Mauryan–Gupta stack.
+- The Allahabad pillar stone was moved from here.
+- **Ahichchhatra** in Bareilly is Panchala.
+- **Sarnath** at Varanasi is the first-sermon site.
+- It has the Ashokan lion capital.
+- It was Cunningham’s hunting ground.
+- **Rajghat** is the old Kashi rampart.
+- **Shravasti** at Sahet-Mahet is Kosala and Jetavana.
+- **Atranjikhera** in Etah is a PGW type-site.
 
 **PYQ — UPPCS Prelims 2025, Q87**
 

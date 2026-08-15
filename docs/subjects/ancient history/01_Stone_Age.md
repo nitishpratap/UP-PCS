@@ -77,27 +77,47 @@ Chirand (Saran, Bihar) = bone tools
 
 ## 1.1 Origin of Human Beings
 
-Modern *Homo sapiens* evolved in **Africa** (~300,000–200,000 years ago) and entered South Asia roughly **65,000–45,000 BP**. Indian evidence is **fossils + stone tools**, not writing.
+**Modern *Homo sapiens* | Africa first | South Asia ~65,000–45,000 BP**
 
-| Lock | Detail |
-|------|--------|
-| **Hathnora / Narmada Man** | Narmada valley, **MP** — *Homo erectus* cranium (not *H. sapiens*). Found **1982** by **Arun Sonakia** (GSI) |
-| **Attirampakkam** | **Kortallayar** valley, **Tamil Nadu** (near Chennai) — Lower Paleolithic / Acheulian tools ~**1.5 mya** (tools, not a fossil). Dated by Shanti Pappu’s team |
-| **Pallavaram** | Chennai belt — **Robert Bruce Foote, 1863** — first recognised Paleolithic tools in India (“Father of Indian Prehistory”) |
-| Evidence | Tool typology, stratigraphy, C-14, TL/OSL, pollen — **no** Stone Age texts |
+- Modern *Homo sapiens* evolved in **Africa** about **300,000–200,000 years ago**.
+- They entered South Asia roughly **65,000–45,000 BP**.
+- Indian evidence for early humans is **fossils and stone tools**, not writing.
 
-- *Homo erectus* left Africa ~**1.8 mya**; Hathnora is still India’s only widely cited early hominin skull.
-- Climate (Pleistocene Ice Age / interglacial) shaped routes; camps cluster in river valleys and rock shelters.
+- **Hathnora** (Narmada Man) lies in the **Narmada valley of Madhya Pradesh**.
+- The find is a ***Homo erectus* cranium**, not a *Homo sapiens* skull.
+- **Arun Sonakia** of the GSI discovered it in **1982**.
+
+- **Attirampakkam** lies in the **Kortallayar valley of Tamil Nadu**, near Chennai.
+- It is a Lower Paleolithic **Acheulian tool** site dated to about **1.5 million years**.
+- **Shanti Pappu’s** team dated the tools.
+- Attirampakkam is **not** a hominin fossil site.
+
+- **Pallavaram** is in the Chennai belt of Tamil Nadu.
+- **Robert Bruce Foote** recognised Paleolithic tools there in **1863**.
+- He is called the **Father of Indian Prehistory**.
+
+- Dates rest on **tool typology, stratigraphy, C-14, TL/OSL, and pollen**.
+- There are **no** Stone Age written texts.
+
+- *Homo erectus* left Africa about **1.8 million years ago**.
+- Hathnora is still India’s only widely cited early hominin skull.
+- Pleistocene ice ages and warmer interglacials shaped migration routes.
+- Camps cluster in **river valleys and rock shelters**.
 - There is **no** universally agreed “first human site” in India.
-- Siwalik ape fossils (e.g. *Sivapithecus*) are **not** proof of *Homo* in India — do not treat them as Hathnora-class evidence.
+- Siwalik ape fossils such as ***Sivapithecus*** are **not** proof of *Homo* in India.
+- Do not treat Siwalik apes as Hathnora-class evidence.
 
-> **Exam note:** Hathnora = **erectus fossil (Sonakia 1982)**. Attirampakkam = **old tools in Kortallayar, TN**. Trap: calling the Narmada find a modern human.
+> **Exam note:** Hathnora is an ***erectus* fossil** found by **Sonakia in 1982**. Attirampakkam is **old tools** in the **Kortallayar valley, Tamil Nadu**. The trap is calling the Narmada find a modern human.
 
 ---
 
 ## 1.2 Stone Age
 
-**Three-Age System:** C.J. **Thomsen**, **1836** (Denmark) — Stone → Bronze → Iron. Stone Age further split **Paleolithic → Mesolithic → Neolithic**. Dates in India are **regional**, not one national switch.
+**Three-Age System | C.J. Thomsen, 1836 (Denmark) | Stone → Bronze → Iron**
+
+- Thomsen split prehistory into **Stone, Bronze, and Iron**.
+- The Stone Age is further split into **Paleolithic, Mesolithic, and Neolithic**.
+- Dates in India are **regional**. There is no single national switch year.
 
 | Period | Approx. | Economy | Defining lock |
 |--------|---------|---------|---------------|
@@ -115,18 +135,25 @@ Modern *Homo sapiens* evolved in **Africa** (~300,000–200,000 years ago) and e
 | **Microlith** | 1–8 cm composite blade | **Mesolithic** |
 | **Celt / ground axe, quern** | Polished/ground stone | **Neolithic** |
 
-- Cultures are dated by **tools + strata + C-14 / OSL**, not kings.
-- Common raw stone: **quartzite, chert, agate, jasper, flint**.
-- Stone Age **ends locally** when copper/bronze and (later) urban Harappan cultures appear — **not** everywhere at once.
-- UPPCS format = match **period + feature + site** together.
+- Cultures are dated by **tools, strata, C-14, and OSL**, not by kings.
+- Common raw stone includes **quartzite, chert, agate, jasper, and flint**.
+- The Stone Age **ends locally** when copper or bronze, and later urban Harappan cultures, appear.
+- It does **not** end everywhere at once.
+- UPPCS typically asks you to match **period, feature, and site** together.
 
-> **Exam note:** Chalcolithic is **copper-stone**, not “Stone Age IV.” Kashmir Neolithic ≠ Tamil Nadu Neolithic in date or crop.
+> **Exam note:** Chalcolithic is **copper-stone**, not “Stone Age IV.” Kashmir Neolithic is not the same date or crop as Tamil Nadu Neolithic.
 
 ---
 
 ## 1.3 Paleolithic Age
 
-Nomadic **bands**; **no** agriculture, pottery, or metal. Caves/rock shelters as seasonal camps. Fire use becomes systematic later in the period. Falls in the **Pleistocene**.
+**Old Stone Age | hunting-gathering bands | Pleistocene | no pottery or metal**
+
+- People lived in nomadic **bands**.
+- There was **no** agriculture, pottery, or metal.
+- Caves and rock shelters served as **seasonal camps**.
+- Fire use becomes systematic later in the period.
+- The Paleolithic falls in the **Pleistocene**.
 
 | Sub-period | Approx. | Tools |
 |------------|---------|-------|
@@ -139,29 +166,47 @@ Nomadic **bands**; **no** agriculture, pottery, or metal. Caves/rock shelters as
 | **Soanian** | Soan–Siwalik (Punjab/Pakistan) | Pebble **chopper-chopping**; De Terra & Paterson |
 | **Acheulian** (also called **Madrasian** in older books) | Peninsula + Narmada + Kortallayar | **Handaxe-cleaver**; Foote’s south-India industry |
 
-- Major tool valleys: **Soan, Narmada, Godavari, Krishna, Kortallayar, Belan, Son**.
-- Holocene warming ~**10,000 BCE** opens the Mesolithic.
-- Bhimbetka occupation begins in the **Lower Paleolithic**.
+- The **Soanian** industry uses pebble **chopper-chopping** tools in the Soan–Siwalik belt.
+- **De Terra and Paterson** described the Soanian sequence.
+- The **Acheulian** (older books say **Madrasian**) industry uses **handaxes and cleavers**.
+- Acheulian sites cluster in the peninsula, the Narmada, and the Kortallayar.
+- Major tool valleys include the **Soan, Narmada, Godavari, Krishna, Kortallayar, Belan, and Son**.
+- Holocene warming around **10,000 BCE** opens the Mesolithic.
+- Occupation at **Bhimbetka** begins in the **Lower Paleolithic**.
 
-> **Exam note:** Handaxe = **Lower Paleolithic / Acheulian**. Polished stone axe = **Neolithic**. Soanian ≠ Acheulian.
+> **Exam note:** A **handaxe** is **Lower Paleolithic / Acheulian**. A **polished stone axe** is **Neolithic**. Soanian is not Acheulian.
 
 ---
 
 ## 1.4 Mesolithic Age
 
-Begins with **Holocene** warming (~10,000 BCE). Economy still hunting–gathering–fishing, but camps are more sedentary near rivers/lakes. **Bow and arrow** likely widespread (microlith arrowheads).
+**Middle Stone Age | Holocene warming ~10,000 BCE | microliths | hunting–fishing**
 
-- Defining tool = **microlith** — tiny blade hafted in bone/wood (composite tool).
-- **Non-geometric** microliths (backed blades) are generally **earlier**; **geometric** (lunates, triangles, trapezes) **later**.
-- **Bagor** (Bhilwara belt, Rajasthan, **Kothari** river) = standard exam answer for Mesolithic **animal domestication**.
-- Often called India’s **largest** Mesolithic site.
-- Excavated by **V.N. Misra**.
-- **Adamgarh** (MP) also has early domestication / cereal-use claims — **not** the 2018 MCQ key.
-- **Sarai Nahar Rai, Mahadaha, Damdama** (Pratapgarh, UP) = Ganga-plain Mesolithic **cemeteries**.
-- Fishing, antler tools, and shell/ornament use rise in riverine camps.
-- Transition to Neolithic is **gradual**.
+- The Mesolithic begins with **Holocene** warming around **10,000 BCE**.
+- The economy is still hunting, gathering, and fishing.
+- Camps become more sedentary near rivers and lakes.
+- The **bow and arrow** was likely widespread, using microlith arrowheads.
 
-> **Exam note:** UPPCS 2018 Q18 → **Bagor**. **Odai / Bori / Lakhnia** are distractors. **Bori** (Maharashtra) is a claimed **Lower Paleolithic** site, not Mesolithic domestication. Burials = **Sarai Nahar Rai** (UP), not Bagor.
+- The defining tool is the **microlith**.
+- A microlith is a tiny blade **hafted** in bone or wood as a **composite tool**.
+- **Non-geometric** microliths (backed blades) are generally **earlier**.
+- **Geometric** microliths (lunates, triangles, trapezes) are generally **later**.
+
+- **Bagor** lies in the Bhilwara belt of **Rajasthan**, on the **Kothari** river.
+- Bagor is the standard exam answer for Mesolithic **animal domestication**.
+- It is often called India’s **largest** Mesolithic site.
+- **V.N. Misra** excavated Bagor.
+
+- **Adamgarh** in Madhya Pradesh also has early domestication and cereal-use claims.
+- Adamgarh is **not** the 2018 MCQ key.
+
+- **Sarai Nahar Rai**, **Mahadaha**, and **Damdama** lie in **Pratapgarh, Uttar Pradesh**.
+- They are Ganga-plain Mesolithic **cemeteries**.
+- Teach each as its own lock: Sarai Nahar Rai is the named burial site most often asked.
+- Fishing, antler tools, and shell ornaments rise in riverine camps.
+- The transition to the Neolithic is **gradual**.
+
+> **Exam note:** UPPCS 2018 Q18 keys **Bagor**. **Odai, Bori, and Lakhnia** are distractors. **Bori** in Maharashtra is a claimed **Lower Paleolithic** site, not Mesolithic domestication. Burials belong to **Sarai Nahar Rai** in UP, not to Bagor.
 
 **PYQ — UPPCS Prelims 2018, Q18**
 
@@ -183,7 +228,10 @@ D. Lakhnia
 
 ## 1.5 Neolithic Age
 
-**New Stone Age** = food **production** + **pottery** + **sedentism** (or semi-sedentism) + **ground/polished** stone tools (axes, querns, pounders).
+**New Stone Age | food production | pottery | ground stone | villages**
+
+- The Neolithic is defined by food **production**, **pottery**, **sedentism** (or semi-sedentism), and **ground or polished** stone tools.
+- Typical tools are axes, querns, and pounders.
 
 | Region | Crop / trait |
 |--------|----------------|
@@ -193,148 +241,185 @@ D. Lakhnia
 | South India | **Millets**; **ash-mound** pastoral sites |
 | Kashmir | Pit dwellings; fishing/hunting heavy (Burzahom, Gufkral) |
 
-- **Celts** (polished axes) for forest clearance; **querns/mullers** for grain.
-- Pottery: **handmade** first; **wheel** in later Neolithic/Chalcolithic. No script, no coins.
-- Animals commonly domesticated (by full Neolithic): cattle, sheep, goat, buffalo, pig, **dog**.
-- Villages, not cities. Gordon Childe coined **“Neolithic Revolution”** for this food-production shift.
+- **Celts** (polished axes) were used for forest clearance.
+- **Querns and mullers** were used to grind grain.
+- Pottery is **handmade** first.
+- The **wheel** appears in later Neolithic and Chalcolithic levels.
+- There is no script and no coined money.
+- Animals commonly domesticated by the full Neolithic include cattle, sheep, goat, buffalo, pig, and the **dog**.
+- Settlements are **villages**, not cities.
+- **Gordon Childe** coined **“Neolithic Revolution”** for this food-production shift.
 
-> **Exam note:** Polished axe = **Neolithic**. Trap: “all Neolithic sites grew rice” — rice is **regional** (UP Belan / Lahuradewa), not Mehrgarh’s first crop.
+> **Exam note:** A polished axe is **Neolithic**. The trap “all Neolithic sites grew rice” is false. Rice is **regional** (UP Belan and Lahuradewa). It is not Mehrgarh’s first crop.
 
 ---
 
 ## 1.6 Chalcolithic Culture
 
-First **metal** (copper) **plus** stone. **Rural** farming villages — **no** Harappan-style grid, drains, or citadel. Mostly **copper**, not tin-bronze.
+**First metal | copper plus stone | rural villages | not Harappan cities**
 
-| Culture | Region | Lock |
-|---------|--------|------|
-| **Ahar–Banas** | Rajasthan (Udaipur belt) | Copper smelting; **white-painted black-and-red ware**; terracotta bulls |
-| **Kayatha** | MP (Chambal) | Sturdy **red-slipped** ware |
-| **Malwa** | MP (Narmada) | **Navdatoli** (opp. Maheshwar); channel-spouted cups; excavated **Sankalia** |
-| **Savalda** | Maharashtra (Tapi) | Pre-Jorwe Deccan Chalcolithic |
-| **Jorwe** | Maharashtra | Largest Deccan Chalcolithic; painted black-on-red; **Inamgaon**; fades ~**1000 BCE** (then iron) |
-| **OCP** | Ganga–Yamuna **doab** (W UP, Haryana, Rajasthan) | Ochre Coloured Pottery; often linked to **Copper Hoard** (harpoons, celts, anthropomorphs). **B.B. Lal** at Hastinapur |
-| **Ganeshwar–Jodhpura** | Rajasthan | Copper-working; supply links toward Harappan zone |
+- Chalcolithic people used **copper** together with **stone** tools.
+- Settlements are **rural** farming villages.
+- They have **no** Harappan-style street grid, covered drains, or citadel.
+- Metal is mostly **copper**, not tin-bronze.
 
-- Houses: mud/wattle-daub; some sites show **fortification-like** walls (**Balathal**).
-- OCP = **doab Chalcolithic**, not a Harappan city culture. Copper Hoard overlap is asked with IVC too — lock here is **doab + copper artefacts**.
+- The **Ahar–Banas** culture lies in the **Udaipur belt of Rajasthan**.
+- It is known for copper smelting, **white-painted black-and-red ware**, and terracotta bulls.
 
-> **Exam note:** Inamgaon = **Jorwe / Maharashtra**. Navdatoli = **Narmada / Malwa**, not Rajasthan. OCP ≠ Harappan urban ware.
+- The **Kayatha** culture lies on the **Chambal in Madhya Pradesh**.
+- It is known for sturdy **red-slipped** ware.
+
+- The **Malwa** culture lies on the **Narmada in Madhya Pradesh**.
+- **Navdatoli** (opposite Maheshwar) is the type site.
+- It yielded channel-spouted cups.
+- **H.D. Sankalia** excavated Navdatoli.
+
+- The **Savalda** culture lies on the **Tapi in Maharashtra**.
+- It is the **pre-Jorwe** Deccan Chalcolithic.
+
+- The **Jorwe** culture is the largest Deccan Chalcolithic.
+- It uses painted **black-on-red** ware.
+- **Inamgaon** is the type site.
+- Jorwe fades around **1000 BCE**, after which iron spreads.
+
+- **OCP** (Ochre Coloured Pottery) belongs to the Ganga–Yamuna **doab** of western UP, Haryana, and Rajasthan.
+- It is often linked to the **Copper Hoard** (harpoons, celts, anthropomorphs).
+- **B.B. Lal** excavated OCP levels at **Hastinapur**.
+
+- **Ganeshwar–Jodhpura** in Rajasthan is a copper-working culture.
+- It supplied metal toward the Harappan zone.
+
+- Houses are mud or wattle-and-daub.
+- **Balathal** shows an early **fortification-like** wall.
+- OCP is **doab Chalcolithic**, not a Harappan city culture.
+- Copper Hoard objects are also asked with IVC. The lock here is **doab plus copper artefacts**.
+
+> **Exam note:** **Inamgaon** is **Jorwe in Maharashtra**. **Navdatoli** is **Narmada / Malwa**, not Rajasthan. OCP is not Harappan urban ware.
 
 ---
 
 ## 1.7 Important Paleolithic Sites
 
-| Site | Location | Characteristic |
-|------|----------|----------------|
-| **Soan (Sohan) Valley** | Punjab / Pakistan | Lower Pal pebble **chopper** (Soanian); De Terra & Paterson |
-| **Pallavaram** | Tamil Nadu | First Indian Pal tools; **R.B. Foote, 1863** |
-| **Attirampakkam** | Kortallayar, Tamil Nadu | Acheulian tools ~**1.5 mya** (not a fossil site) |
-| **Hathnora** | Narmada, MP | *Homo erectus* skull; **Sonakia, 1982** |
-| **Bhimbetka** | Raisen, MP | Lower Pal tools in **rock shelters**; later paintings |
-| **Adamgarh** | Hoshangabad, MP | Pal → Mesolithic sequence (Narmada) |
-| **Chopani Mando** | Belan valley, UP | Pal → Meso → Neo **continuity** |
-| **Nevasa** | Pravara, Maharashtra | Paleolithic tools |
-| **Didwana** | Thar fringe, Rajasthan | Paleolithic tools |
-| **Hunsgi** | Karnataka | Acheulian factory |
-| **Isampur** | Karnataka | Acheulian quarry |
-| **Patne** | Maharashtra | Upper Pal; **ostrich eggshell** beads |
-| **Kurnool caves** | Andhra Pradesh | Upper Pal **bone** tools (Muchchatla Chintamanu Gavi) |
-| **Baghor** | Son valley, MP | Upper Pal stone **shrine** — **not** Bagor (RJ) |
-| **Jwalapuram** | Andhra Pradesh | Middle Pal tools around **Toba** ash |
-| **Paisra** | Munger, Bihar | Acheulian workshop |
-| **Kuliana** | Mayurbhanj, Odisha | Paleolithic tools |
-| **Anangpur** | Delhi–Haryana | Acheulian |
-| **Renigunta** | Andhra Pradesh | Upper Pal blades |
-| **Bori** | Maharashtra | Claimed early Paleolithic; **2018 wrong option** (domestication = Bagor) |
+**Site ↔ state ↔ tool tradition | one exam name = one lock**
 
-> **Exam note:** Attirampakkam = **Tamil Nadu**, not Karnataka. **Baghor ≠ Bagor**. Belan Valley = **UP**.
+- The **Soan (Sohan) Valley** in Punjab / Pakistan is the type area of Lower Paleolithic pebble **choppers** (Soanian), described by De Terra and Paterson.
+- **Pallavaram** in Tamil Nadu yielded the first recognised Indian Paleolithic tools, identified by **R.B. Foote in 1863**.
+- **Attirampakkam** in the Kortallayar valley of Tamil Nadu has Acheulian tools about **1.5 million years** old. It is not a fossil site.
+- **Hathnora** on the Narmada in Madhya Pradesh yielded a ***Homo erectus* skull**, found by **Sonakia in 1982**.
+- **Bhimbetka** in Raisen, Madhya Pradesh, has Lower Paleolithic tools in **rock shelters**, with paintings in later periods.
+- **Adamgarh** near Hoshangabad, Madhya Pradesh, shows a Paleolithic-to-Mesolithic sequence on the Narmada.
+- **Chopani Mando** in the Belan valley of Uttar Pradesh shows Paleolithic–Mesolithic–Neolithic **continuity**.
+- **Nevasa** on the Pravara in Maharashtra has Paleolithic tools.
+- **Didwana** on the Thar fringe in Rajasthan has Paleolithic tools.
+- **Hunsgi** in Karnataka is an Acheulian factory site.
+- **Isampur** in Karnataka is an Acheulian quarry.
+- **Patne** in Maharashtra is Upper Paleolithic and is known for **ostrich eggshell** beads.
+- The **Kurnool caves** in Andhra Pradesh yielded Upper Paleolithic **bone** tools, including Muchchatla Chintamanu Gavi.
+- **Baghor** in the Son valley of Madhya Pradesh is an Upper Paleolithic stone **shrine**. It is **not** Bagor in Rajasthan.
+- **Jwalapuram** in Andhra Pradesh has Middle Paleolithic tools around **Toba** volcanic ash.
+- **Paisra** in Munger, Bihar, is an Acheulian workshop.
+- **Kuliana** in Mayurbhanj, Odisha, has Paleolithic tools.
+- **Anangpur** in the Delhi–Haryana belt is Acheulian.
+- **Renigunta** in Andhra Pradesh has Upper Paleolithic blades.
+- **Bori** in Maharashtra is a claimed early Paleolithic site. It was the **wrong option** in 2018 (domestication = Bagor).
+
+> **Exam note:** Attirampakkam is in **Tamil Nadu**, not Karnataka. **Baghor is not Bagor**. The Belan Valley is in **Uttar Pradesh**.
 
 ---
 
 ## 1.8 Important Mesolithic Sites
 
-| Site | Location | Characteristic |
-|------|----------|----------------|
-| **Bagor** | Bhilwara, Rajasthan (Kothari) | **Animal domestication**; largest Meso site; **V.N. Misra** |
-| **Tilwara** | Luni, Rajasthan | Mesolithic camp |
-| **Langhnaj** | Gujarat | Microliths; human skeletons; **Sankalia** |
-| **Loteshwar** | Gujarat | Meso–Neo transition |
-| **Adamgarh** | MP | Early domestication / cereal-use (not the 2018 key) |
-| **Bhimbetka** | Raisen, MP | Microliths in shelter floors |
-| **Sarai Nahar Rai** | Pratapgarh, UP | Mesolithic **cemetery**; antler tools; **wild-rice gathering**; **G.R. Sharma** |
-| **Mahadaha** | Pratapgarh, UP | Large Meso burial cluster |
-| **Damdama** | Pratapgarh, UP | Meso burials (same Ganga belt) |
-| **Chopani Mando** | Belan, UP | Advanced Meso; wild rice; **before** Koldihwa farming |
-| **Morhana Pahar** | **Sonbhadra**, UP | Rock paintings |
-| **Lekhahia** | Mirzapur, UP | Rock art |
-| **Birbhanpur** | West Bengal | Microliths |
-| **Teri sites** | Tamil Nadu coast | Coastal Mesolithic (red sand dunes) |
+**Microlith camps | domestication vs burial is the usual trap**
 
-> **Exam note:** Bagor = **domestication**. Sarai Nahar Rai = **burials**. Morhana Pahar = **Sonbhadra**, not Mirzapur.
+- **Bagor** on the Kothari near Bhilwara, Rajasthan, is the Mesolithic **animal-domestication** key. It is often called the largest Mesolithic site. **V.N. Misra** excavated it.
+- **Tilwara** on the Luni in Rajasthan is a Mesolithic camp.
+- **Langhnaj** in Gujarat has microliths and human skeletons. **H.D. Sankalia** excavated it.
+- **Loteshwar** in Gujarat sits on the Mesolithic–Neolithic transition.
+- **Adamgarh** in Madhya Pradesh has early domestication and cereal-use claims. It is not the 2018 key.
+- **Bhimbetka** in Raisen, Madhya Pradesh, has microliths in shelter floors.
+- **Sarai Nahar Rai** in Pratapgarh, Uttar Pradesh, is a Mesolithic **cemetery** with antler tools and **wild-rice gathering**. **G.R. Sharma** excavated it.
+- **Mahadaha** in Pratapgarh, Uttar Pradesh, is a large Mesolithic burial cluster.
+- **Damdama** in Pratapgarh, Uttar Pradesh, is another Mesolithic burial site in the same Ganga belt.
+- **Chopani Mando** in the Belan valley of Uttar Pradesh is advanced Mesolithic with wild rice, **before** Koldihwa farming.
+- **Morhana Pahar** in **Sonbhadra**, Uttar Pradesh, has rock paintings.
+- **Lekhahia** in Mirzapur, Uttar Pradesh, has rock art.
+- **Birbhanpur** in West Bengal has microliths.
+- **Teri sites** on the Tamil Nadu coast are coastal Mesolithic camps on red sand dunes.
+
+> **Exam note:** Bagor is **domestication**. Sarai Nahar Rai is **burials**. Morhana Pahar is in **Sonbhadra**, not Mirzapur.
 
 ---
 
 ## 1.9 Important Neolithic Sites
 
-| Site | Location | Characteristic |
-|------|----------|----------------|
-| **Mehrgarh** | Kachi plain, **Balochistan (Pakistan)** | Earliest farming ~**7000 BCE**; wheat, barley; mud-brick; aceramic first |
-| **Burzahom** | Srinagar, Kashmir | **Pit dwellings** (2–4 m); bone tools; **dog burial** |
-| **Gufkral** | Pulwama, Kashmir | Pit dwellings; name = **“cave of the potter”** |
-| **Koldihwa** | Belan, **Mirzapur, UP** | **Rice-husk impressions** in pottery; **G.R. Sharma** |
-| **Mahagara** | Belan, UP | Charred rice; **cattle pen + hoof marks** |
-| **Lahuradewa** | **Sant Kabir Nagar, UP** | Early Ganga-plain **rice** (lake-edge; **not** Belan) |
-| **Chirand** | **Saran, Bihar** | **Bone/antler tools**; stone tools absent in upper levels |
-| **Senuwar** | Rohtas, Bihar | Gangetic Neolithic |
-| **Taradih** | Gaya, Bihar | Gangetic Neolithic |
-| **Hallur** | Karnataka | Southern Neolithic; **millets** |
-| **Piklihal** | Karnataka / AP belt | **Ash-mound** pastoral Neolithic; **F.R. Allchin** |
-| **Utnur** | Andhra Pradesh | Ash-mound cattle-pen Neolithic; Allchin |
-| **Kodekal** | Karnataka | Ash-mound Neolithic |
-| **Paiyampalli** | Tamil Nadu | Southern Neolithic |
-| **Sanganakallu** | Karnataka | Neolithic factory / settlement |
-| **Maski** | Karnataka | Neolithic settlement |
-| **Brahmagiri** | Karnataka | Neolithic–Megalithic sequence |
-| **Tekkalakota** | Karnataka | Southern Neolithic |
-| **Kupgal** | Karnataka | Ash-mound cluster |
-| **Daojali Hading** | Assam | Cord-marked pottery; **shouldered celts** |
-| **Sarutaru** | Assam | NE Neolithic |
-| **Napchik** | Manipur | NE Neolithic |
-| **Kuchai** | Odisha | Neolithic |
-| **Golbai Sasan** | Odisha | Neo–Chalcolithic |
+**Crop and house type are regional | do not dump one lock onto every site**
 
-> **Exam note:** Ash mounds = **South India**, not Chirand. Lahuradewa = **Sant Kabir Nagar**, not Belan. Daojali Hading = **Assam**, not UP.
+- **Mehrgarh** on the Kachi plain of **Balochistan (Pakistan)** is the earliest farming village in the subcontinent, around **7000 BCE**. First crops are wheat and barley. Houses are mud-brick. Period I is **aceramic**.
+- **Burzahom** near Srinagar in Kashmir has **pit dwellings** about 2–4 m deep, bone tools, and **dog burial**.
+- **Gufkral** in Pulwama, Kashmir, also has pit dwellings. The name means **“cave of the potter.”**
+- **Koldihwa** in the Belan valley of **Mirzapur, Uttar Pradesh**, has **rice-husk impressions** in pottery. **G.R. Sharma** excavated it.
+- **Mahagara** in the same Belan valley has charred rice and a **cattle pen with hoof marks**.
+- **Lahuradewa** in **Sant Kabir Nagar, Uttar Pradesh**, has early Ganga-plain **rice** at a lake edge. It is **not** a Belan site.
+- **Chirand** in **Saran, Bihar**, is known for **bone and antler tools**. Stone tools are absent in the upper levels.
+- **Senuwar** in Rohtas, Bihar, is Gangetic Neolithic.
+- **Taradih** in Gaya, Bihar, is Gangetic Neolithic.
+- **Hallur** in Karnataka is southern Neolithic and grew **millets**.
+- **Piklihal** on the Karnataka–Andhra belt is **ash-mound** pastoral Neolithic, excavated by **F.R. Allchin**.
+- **Utnur** in Andhra Pradesh is ash-mound cattle-pen Neolithic, also linked to Allchin.
+- **Kodekal** in Karnataka is ash-mound Neolithic.
+- **Paiyampalli** in Tamil Nadu is southern Neolithic.
+- **Sanganakallu** in Karnataka is a Neolithic factory and settlement.
+- **Maski** in Karnataka is a Neolithic settlement.
+- **Brahmagiri** in Karnataka has a Neolithic–Megalithic sequence.
+- **Tekkalakota** in Karnataka is southern Neolithic.
+- **Kupgal** in Karnataka is an ash-mound cluster.
+- **Daojali Hading** in Assam has cord-marked pottery and **shouldered celts**.
+- **Sarutaru** in Assam is North-East Neolithic.
+- **Napchik** in Manipur is North-East Neolithic.
+- **Kuchai** in Odisha is Neolithic.
+- **Golbai Sasan** in Odisha is Neolithic–Chalcolithic.
+
+> **Exam note:** Ash mounds are **South Indian**, not a Chirand feature. Lahuradewa is **Sant Kabir Nagar**, not Belan. Daojali Hading is in **Assam**, not Uttar Pradesh.
 
 ---
 
 ## 1.10 Important Chalcolithic Sites
 
-| Site | Location | Characteristic |
-|------|----------|----------------|
-| **Ahar** | Udaipur, Rajasthan | Ahar–Banas; copper smelting; white-painted **black-and-red ware** |
-| **Balathal** | Rajasthan | Ahar culture; early **fortification-like** wall |
-| **Gilund** | Rajasthan | Ahar culture; large platform |
-| **Kayatha** | Chambal, MP | Kayatha culture; red-slipped ware |
-| **Navdatoli** | Narmada (opp. Maheshwar), MP | **Malwa** culture; **Sankalia** |
-| **Eran** | MP | Chalcolithic to early historic |
-| **Gungeria** | Balaghat, MP | **Largest Copper Hoard** |
-| **Inamgaon** | Bhima, Maharashtra | **Jorwe** type site; mud houses, crops |
-| **Daimabad** | Pravara, Maharashtra | Jorwe / late Harappan; **bronze chariot** |
-| **Jorwe / Nasik / Prakash / Bahal** | Maharashtra | Jorwe painted black-on-red ware |
-| **Savalda** | Tapi, Maharashtra | Pre-Jorwe Deccan Chalcolithic |
-| **Prabhas** | Gujarat | Prabhas ware |
-| **Rangpur** | Gujarat | **Lustrous red ware** |
-| **Hastinapur / Bahadarabad / Lal Qila / Bargaon** | W UP / Haryana doab | **OCP**; **B.B. Lal** at Hastinapur |
-| **Ganeshwar / Jodhpura** | Rajasthan | Copper-working |
+**Culture name + state is the match | rural copper-stone, not IVC cities**
 
-> **Exam note:** Inamgaon = **Maharashtra**, not Rajasthan. Daimabad is **not** pure Harappan only. Gungeria = Copper Hoard **MP**.
+- **Ahar** near Udaipur, Rajasthan, is Ahar–Banas. It has copper smelting and white-painted **black-and-red ware**.
+- **Balathal** in Rajasthan is Ahar culture with an early **fortification-like** wall.
+- **Gilund** in Rajasthan is Ahar culture with a large platform.
+- **Kayatha** on the Chambal in Madhya Pradesh is Kayatha culture with red-slipped ware.
+- **Navdatoli** on the Narmada (opposite Maheshwar) in Madhya Pradesh is **Malwa** culture, excavated by **Sankalia**.
+- **Eran** in Madhya Pradesh runs from Chalcolithic into early historic.
+- **Gungeria** in Balaghat, Madhya Pradesh, yielded the **largest Copper Hoard**.
+- **Inamgaon** on the Bhima in Maharashtra is the **Jorwe** type site, with mud houses and crops.
+- **Daimabad** on the Pravara in Maharashtra is Jorwe / late Harappan and is known for a **bronze chariot**.
+- **Jorwe** in Maharashtra is the name-giving site of painted black-on-red ware.
+- **Nasik** in Maharashtra belongs to the same Jorwe painted-ware horizon.
+- **Prakash** in Maharashtra belongs to the same Jorwe painted-ware horizon.
+- **Bahal** in Maharashtra belongs to the same Jorwe painted-ware horizon.
+- **Savalda** on the Tapi in Maharashtra is pre-Jorwe Deccan Chalcolithic.
+- **Prabhas** in Gujarat has Prabhas ware.
+- **Rangpur** in Gujarat has **lustrous red ware**.
+- **Hastinapur** in the western UP doab is an **OCP** site. **B.B. Lal** excavated it.
+- **Bahadarabad** in the doab is an OCP site.
+- **Lal Qila** in the doab is an OCP site.
+- **Bargaon** in the doab is an OCP site.
+- **Ganeshwar** in Rajasthan is a copper-working site.
+- **Jodhpura** in Rajasthan is a copper-working site paired with Ganeshwar.
+
+> **Exam note:** Inamgaon is in **Maharashtra**, not Rajasthan. Daimabad is **not** a pure mature Harappan city. Gungeria is a Copper Hoard site in **Madhya Pradesh**.
 
 ---
 
 ## 1.11 Cave Paintings
 
-Indian prehistoric art is mostly on **rock-shelter walls** (Vindhyan–Satpura), not deep Himalayan limestone caves.
+**Rock-shelter walls | Vindhyan–Satpura belt | not Himalayan limestone caves**
+
+- Indian prehistoric art is mostly on **rock-shelter walls** in the Vindhyan–Satpura belt.
+- It is **not** typically painted in deep Himalayan limestone caves.
 
 | Colour | Pigment | Typical use (Bhimbetka rule of thumb) |
 |--------|---------|----------------------------------------|
@@ -343,46 +428,58 @@ Indian prehistoric art is mostly on **rock-shelter walls** (Vindhyan–Satpura),
 | **Green** | Chromium minerals | Less common |
 | **Black** | Manganese / charcoal | Occasional |
 
-- Themes: animals, hunting, **communal dancing**, riding, geometric patterns.
-- **Superimposition** = later paintings over older ones → **multiple periods** (not one-age art).
-- Mesolithic layers: hunting + dancing stick-figures. Historic layers: **horse riders**, processions, battles.
-- **Blue** is generally **absent**. Pigments mixed with water/animal fat; applied by finger, twig, or hair brush.
-- Other painted belts: **Pachmarhi** (MP), **Adamgarh**, **Lakhudiyar** (Almora, **Uttarakhand** — humans, animals, geometrics in white/black/red).
-- UP rock art: **Morhana Pahar** (Sonbhadra), **Lekhahia** (Mirzapur).
-- Premier painted cluster in India: **Bhimbetka** (Raisen, MP).
+- Common themes are animals, hunting, **communal dancing**, riding, and geometric patterns.
+- **Superimposition** means later paintings over older ones, so the art belongs to **multiple periods**.
+- Mesolithic layers show hunting and dancing stick-figures.
+- Historic layers show **horse riders**, processions, and battles.
+- **Blue** is generally **absent**.
+- Pigments were mixed with water or animal fat and applied by finger, twig, or hair brush.
+- **Pachmarhi** in Madhya Pradesh is another painted belt.
+- **Adamgarh** in Madhya Pradesh also has rock paintings.
+- **Lakhudiyar** in Almora, **Uttarakhand**, shows humans, animals, and geometrics in white, black, and red.
+- **Morhana Pahar** in Sonbhadra, Uttar Pradesh, has rock paintings.
+- **Lekhahia** in Mirzapur, Uttar Pradesh, has rock art.
+- The premier painted cluster in India is **Bhimbetka** in Raisen, Madhya Pradesh.
 
-> **Exam note:** “All cave paintings are Paleolithic” is false. Lakhudiyar = **Uttarakhand**, not Bhimbetka. Red animals / white humans is a **Bhimbetka heuristic**, not a law for every site.
+> **Exam note:** “All cave paintings are Paleolithic” is false. Lakhudiyar is in **Uttarakhand**, not at Bhimbetka. Red animals and white humans is a **Bhimbetka heuristic**, not a law for every site.
 
 ---
 
 ## 1.12 Rock Shelters
 
-**Natural** overhangs from weathering (often **Vindhyan sandstone**). Humans did **not** quarry them like Ajanta/Ellora.
+**Natural overhangs | often Vindhyan sandstone | not quarried like Ajanta**
 
-- Used as seasonal camps; floors hold **habitation deposits** — stratified tools, bones, ash, charcoal (deeper = older).
-- Main concentration: Vindhyan hills (Bhimbetka, **five clusters**) and Belan/Sonbhadra shelters in UP.
-- **Auditorium Cave** (Bhimbetka) is a large natural chamber, not a built hall.
-- Some shelters later became Hindu/Buddhist shrines — multi-period use.
+- Rock shelters are **natural** overhangs formed by weathering, often in **Vindhyan sandstone**.
+- Humans did **not** quarry them the way Ajanta or Ellora caves were cut.
+- They were used as seasonal camps.
+- Floors hold **habitation deposits**: stratified tools, bones, ash, and charcoal. Deeper layers are older.
+- The main concentration is in the Vindhyan hills at Bhimbetka, which has **five clusters**.
+- Belan and Sonbhadra shelters in Uttar Pradesh form a second concentration.
+- **Auditorium Cave** at Bhimbetka is a large natural chamber, not a built hall.
+- Some shelters later became Hindu or Buddhist shrines, so use is **multi-period**.
 
-> **Exam note:** Bhimbetka = **rock shelters in Vindhyan hills**, not Satpura-as-location key and not carved Buddhist caves.
+> **Exam note:** Bhimbetka means **rock shelters in the Vindhyan hills**. Do not key the location as Satpura. Do not treat them as carved Buddhist caves.
 
 ---
 
 ## 1.13 Bhimbetka Rock Shelters
 
-**Location:** Raisen district, **Madhya Pradesh**; Vindhyan foothills, near **Bhopal**. ASI-protected.
+**Raisen district, Madhya Pradesh | Vindhyan foothills near Bhopal | ASI-protected**
 
-| Lock | Fact |
-|------|------|
-| Discoverer | **V.S. Wakankar**, **1957–58** (Bhopal–Itarsi train; compared to Spanish prehistoric shelters) |
-| Name | Folk link to **Bhima** (Mahabharata) “sitting” (*baithka*) — not an excavated palace |
-| UNESCO WHS | **2003** |
-| Scale | **750+** shelters; **500+** painted; **five** clusters |
-| Time-depth | Lower Paleolithic tools through Mesolithic art into **medieval** paintings (often cited ~100,000 years of use) |
-| Famous shelters | **Zoo Rock** (animals); **Auditorium** Cave; **Boar Rock** |
-| Not the discoverer | **H.D. Sankalia** (Langhnaj/Deccan); **V.N. Mishra** (later research); **Madho Swaroop Vats** (Harappan) |
+- **V.S. Wakankar** first recognised the prehistoric paintings in **1957–58**.
+- He spotted the shelters from the Bhopal–Itarsi train and compared them with Spanish prehistoric shelters.
+- Folk etymology links the name to **Bhima** of the Mahabharata “sitting” (*baithka*). It is not an excavated palace.
+- UNESCO inscribed Bhimbetka as a World Heritage Site in **2003**.
+- There are **750+** shelters, of which **500+** are painted, in **five** clusters.
+- Tools begin in the **Lower Paleolithic**. Art runs from Mesolithic into **medieval** paintings. Use is often cited across about 100,000 years.
+- **Zoo Rock** is famous for animal figures.
+- **Auditorium Cave** is a large natural chamber.
+- **Boar Rock** is another named painted shelter.
+- **H.D. Sankalia** is not the discoverer. He is linked to Langhnaj and the Deccan.
+- **V.N. Mishra** did later research at Bhimbetka. He was not the first visitor.
+- **Madho Swaroop Vats** is a **Harappan** archaeologist and the 2020 distractor.
 
-> **Exam note:** 2020 Q10 = **Wakankar**. Vatsa is the Harappan trap.
+> **Exam note:** UPPCS 2020 Q10 keys **Wakankar**. Vatsa is the Harappan trap.
 
 **PYQ — UPPCS Prelims 2020, Q10**
 
@@ -404,98 +501,140 @@ D. V.N. Mishra
 
 ## 1.14 Microliths
 
-Tiny flaked blades, typically **1–8 cm**, in **chert / agate / jasper**. **Hallmark of Mesolithic** (they can linger into early Neolithic).
+**Tiny flaked blades | typically 1–8 cm | hallmark of Mesolithic**
 
-- Too small to use alone → **composite tools** (hafted in bone/wood with resin): arrowheads, sickle edges, saws.
-- Struck from **fluted cores**; many are **backed** (one blunt edge for hafting).
-- **Non-geometric** (earlier Meso) → **geometric** lunates, triangles, trapezes (later Meso).
-- Dense at Bagor, Langhnaj, Bhimbetka, Sarai Nahar Rai.
+- Microliths are tiny flaked blades, typically **1–8 cm**, made in **chert, agate, or jasper**.
+- They are the **hallmark of the Mesolithic**, though they can linger into early Neolithic.
+- They are too small to use alone, so they were **hafted** in bone or wood with resin as **composite tools**.
+- Typical uses are arrowheads, sickle edges, and saws.
+- They were struck from **fluted cores**.
+- Many are **backed**, with one blunt edge for hafting.
+- **Non-geometric** forms belong to earlier Mesolithic.
+- **Geometric** forms (lunates, triangles, trapezes) belong to later Mesolithic.
+- Dense clusters occur at Bagor, Langhnaj, Bhimbetka, and Sarai Nahar Rai.
 
-> **Exam note:** Microlith ≠ Paleolithic handaxe. Microlith ≠ copper+stone (that is Chalcolithic).
+> **Exam note:** A microlith is not a Paleolithic handaxe. A microlith is not copper-plus-stone. Copper-plus-stone is Chalcolithic.
 
 ---
 
 ## 1.15 Neolithic Revolution
 
-Term popularised by **V. Gordon Childe** — shift from food **collection** to food **production** (plants + animals), enabling surplus, villages, and pottery.
+**V. Gordon Childe | food collection to food production | staggered in South Asia**
 
-- World: several **independent** centres (West Asia, China, Mesoamerica, South Asia) — not only diffusion from one place.
-- In the subcontinent it is **staggered**: Mehrgarh ~**7000 BCE** starts **aceramic**, then pottery; Gangetic rice (Belan / Lahuradewa) and South Indian millet/ash-mound cultures are **later** and partly independent.
-- Surplus later supports craft, trade in stone/shell, and social ranking — still **pre-urban**.
-- Not the Industrial Revolution; not a single pan-India year.
+- The term was popularised by **V. Gordon Childe**.
+- It names the shift from food **collection** to food **production** of plants and animals.
+- Surplus, villages, and pottery follow that shift.
+- The world had several **independent** centres, including West Asia, China, Mesoamerica, and South Asia.
+- It is not only diffusion from one place.
+- In the subcontinent the change is **staggered**.
+- **Mehrgarh** around **7000 BCE** starts **aceramic**, then pottery appears.
+- Gangetic rice at Belan and Lahuradewa is later and partly independent.
+- South Indian millet and ash-mound cultures are later and partly independent.
+- Surplus later supports craft, trade in stone and shell, and social ranking. Society is still **pre-urban**.
+- This is not the Industrial Revolution.
+- It is not a single pan-India year.
 
-> **Exam note:** Childe ≠ Wheeler/Marshall (Harappan excavators). “Revolution everywhere in India at once” is false.
+> **Exam note:** Childe is not Wheeler or Marshall. Those two are Harappan excavators. “Revolution everywhere in India at once” is false.
 
 ---
 
 ## 1.16 Burzahom
 
-**Neolithic, Kashmir Valley** (Srinagar district). Excavated by **T.N. Khazanchi** (ASI). Nearby **Gufkral** (Pulwama) = “**cave of the potter**” — same pit-dwelling culture.
+**Neolithic Kashmir Valley | Srinagar district | T.N. Khazanchi (ASI)**
 
-- **Pit dwellings** ~**2–4 m** deep; wooden posts, birch/thatch roofs; storage pits beside living pits.
-- Later phase: **rectangular** houses **above** ground (pits abandoned).
-- **Bone** harpoons, needles, awls — lake fishing/craft.
-- **Dog burial** with human skeleton; some crouched inhumations.
-- Stone slab with **engraved hunting** scene (unique Kashmir lock).
-- Red ware with **mat impressions**; lentils/wheat appear later — **not** a rice-impression site.
-- Period roughly **3000–1000 BCE** (later than Mehrgarh). Period III has **megalithic menhirs**.
+- **Burzahom** is a Neolithic site in the Kashmir Valley, in Srinagar district.
+- **T.N. Khazanchi** of the ASI excavated it.
+- Nearby **Gufkral** in Pulwama means **“cave of the potter.”**
+- Gufkral belongs to the same pit-dwelling culture.
 
-> **Exam note:** Burzahom = **Kashmir pits**, not UP and not Chirand-style Ganga settlement. Gufkral ≠ a Paleolithic cave site in the Bhimbetka sense.
+- **Pit dwellings** were about **2–4 m** deep.
+- Wooden posts and birch or thatch roofs covered the pits.
+- Storage pits stood beside living pits.
+- A later phase used **rectangular** houses **above** ground after the pits were abandoned.
+- **Bone** harpoons, needles, and awls show lake fishing and craft.
+- A **dog** was buried with a human skeleton.
+- Some burials are crouched inhumations.
+- A stone slab with an **engraved hunting** scene is a unique Kashmir lock.
+- Red ware often shows **mat impressions**.
+- Lentils and wheat appear later. Burzahom is **not** a rice-impression site.
+- The period is roughly **3000–1000 BCE**, later than Mehrgarh.
+- Period III has **megalithic menhirs**.
+
+> **Exam note:** Burzahom means **Kashmir pits**. It is not in Uttar Pradesh and not a Chirand-style Ganga settlement. Gufkral is not a Paleolithic painted cave in the Bhimbetka sense.
 
 ---
 
 ## 1.17 Mehrgarh
 
-**Kachi plain, Balochistan (Pakistan).** Earliest known **agricultural village** in the **Indian subcontinent** (~**7000–2500 BCE**). Excavated by **Jean-François Jarrige** (French mission).
+**Kachi plain, Balochistan (Pakistan) | earliest farming village | ~7000–2500 BCE**
 
-- **Period I = aceramic** Neolithic (mud-brick houses, farming, **no pottery**); pottery in later periods.
-- First crops: **wheat and barley** (not rice). **Cotton** seeds/fibres also reported here (early Old World cotton lock).
-- Cattle, sheep, goat; mud-brick multi-room houses; storage bins; terracotta **female figurines**.
-- Long-distance materials: **lapis, turquoise** beads.
-- **Pre-Harappan** precursor — **not** a mature Harappan city.
-- Drilled teeth in early levels (early dentistry claim — extra, not the core lock).
+- Mehrgarh is the earliest known **agricultural village** in the **Indian subcontinent**.
+- **Jean-François Jarrige** excavated it for the French mission.
+- **Period I** is **aceramic** Neolithic: mud-brick houses and farming, but **no pottery**.
+- Pottery appears in later periods.
+- First crops are **wheat and barley**, not rice.
+- **Cotton** seeds and fibres are also reported here. This is an early Old World cotton lock.
+- Cattle, sheep, and goat were kept.
+- Houses are mud-brick and multi-room, with storage bins.
+- Terracotta **female figurines** occur.
+- Long-distance materials include **lapis** and **turquoise** beads.
+- Mehrgarh is a **pre-Harappan** precursor. It is **not** a mature Harappan city.
+- Drilled teeth in early levels are an early dentistry claim. That is extra, not the core lock.
 
-> **Exam note:** Location = **Pakistan / Balochistan**, still “subcontinent” in exam language. Trap: “Mehrgarh is in India” or “Mehrgarh = Harappa.” Aceramic ≠ “no farming.”
+> **Exam note:** The location is **Pakistan / Balochistan**, still “subcontinent” in exam language. Traps: “Mehrgarh is in India,” “Mehrgarh is Harappa,” and “aceramic means no farming.” Aceramic means no **pottery**.
 
 ---
 
 ## 1.18 Chirand
 
-**Saran district, Bihar**, on the **Ganga** (Chapra belt). Gangetic Neolithic with later **Chalcolithic** layers (~**2500–1500 BCE** and after). Excavated by **B.P. Singh**.
+**Saran district, Bihar | Ganga near Chapra | bone-tool Neolithic**
 
-- **Bone and antler tools** dominate upper levels: fish-hooks, harpoons, bangles, arrowheads.
-- Stone tools **present below**, **absent in upper** Neolithic layers.
-- Handmade grey/red ware, often with **mica**; fishing plus later **rice, wheat, barley, lentil, moong**.
-- **No** pit dwellings (unlike Burzahom); **no** ash mounds (unlike South India).
+- Chirand is a Gangetic Neolithic site with later **Chalcolithic** layers, about **2500–1500 BCE** and after.
+- **B.P. Singh** excavated it.
+- **Bone and antler tools** dominate the upper levels.
+- Typical objects are fish-hooks, harpoons, bangles, and arrowheads.
+- Stone tools are **present below** and **absent in the upper** Neolithic layers.
+- Pottery is handmade grey or red ware, often with **mica**.
+- Fishing comes first. Later crops include rice, wheat, barley, lentil, and moong.
+- There are **no** pit dwellings of the Burzahom type.
+- There are **no** ash mounds of the South Indian type.
 
-> **Exam note:** Chirand = **Bihar**, not UP. Bone industry ≠ iron smelting (later historic Bihar trap). Wheat at Chirand does **not** make it Mehrgarh.
+> **Exam note:** Chirand is in **Bihar**, not Uttar Pradesh. A bone industry is not iron smelting. Wheat at Chirand does **not** make it Mehrgarh.
 
 ---
 
 ## 1.19 Koldihwa
 
-**Belan valley, Mirzapur district, Uttar Pradesh.** Excavated by **G.R. Sharma** (Allahabad University Belan project).
+**Belan valley | Mirzapur district, Uttar Pradesh | G.R. Sharma**
 
-- **Rice-husk impressions** in crude handmade pottery — among the **earliest rice** claims in India (often cited ~**6500 BCE**; dates are **debated**, but the **site↔rice↔UP** lock is what UPPCS wants).
-- Ground axes + bone tools; handmade pottery.
-- Pair with Mahagara in the same valley; Mesolithic forerunner at **Chopani Mando** (wild rice, not full farming).
-- **Lahuradewa** (Sant Kabir Nagar, lake-edge) is a **separate** eastern-UP rice site — do not merge it into Belan.
+- **Koldihwa** is a Neolithic site in the Belan valley of Mirzapur.
+- **G.R. Sharma** excavated it in the Allahabad University Belan project.
+- **Rice-husk impressions** in crude handmade pottery are among the **earliest rice** claims in India.
+- Dates are often cited around **6500 BCE**. Those dates are **debated**.
+- The exam lock is **site, rice, and Uttar Pradesh** together.
+- Ground axes and bone tools occur with handmade pottery.
+- Pair it with **Mahagara** in the same valley.
+- The Mesolithic forerunner is **Chopani Mando**, which has wild rice, not full farming.
+- **Lahuradewa** in Sant Kabir Nagar is a **separate** eastern-UP rice site at a lake edge.
+- Do not merge Lahuradewa into the Belan pair.
 
-> **Exam note:** Koldihwa = **Belan UP + rice**. Mehrgarh did **not** start as a rice centre. Lahuradewa ≠ Koldihwa.
+> **Exam note:** Koldihwa is **Belan UP plus rice**. Mehrgarh did **not** start as a rice centre. Lahuradewa is not Koldihwa.
 
 ---
 
 ## 1.20 Mahagara
 
-Sister Neolithic site to Koldihwa in the **same Belan valley (UP)**; same **G.R. Sharma** horizon.
+**Sister site of Koldihwa | same Belan valley, Uttar Pradesh | G.R. Sharma horizon**
 
-- **Charred rice grains** (direct crop evidence, alongside Koldihwa’s pottery impressions).
-- **Circular hut** post-holes.
-- **Cattle pen / enclosure** with **hoof impressions** — the distinctive Mahagara lock (herding, not just hunting).
-- Mixed hunting (cattle/deer bones) + farming.
-- Do **not** relocate to Bihar or Kashmir.
+- **Mahagara** is the sister Neolithic site of Koldihwa in the Belan valley.
+- **Charred rice grains** give direct crop evidence, beside Koldihwa’s pottery impressions.
+- **Circular hut** post-holes mark the houses.
+- A **cattle pen / enclosure** with **hoof impressions** is the distinctive Mahagara lock.
+- That find shows herding, not just hunting.
+- Bones of cattle and deer show mixed hunting plus farming.
+- Do **not** relocate Mahagara to Bihar or Kashmir.
 
-> **Exam note:** Mahagara + Koldihwa = **one UP rice pair**. Cattle pen = **Mahagara**, not Burzahom pits. Chopani Mando is the **Mesolithic** neighbour, not a Harappan port.
+> **Exam note:** Mahagara and Koldihwa are **one UP rice pair**. The cattle pen is **Mahagara**, not Burzahom pits. Chopani Mando is the **Mesolithic** neighbour, not a Harappan port.
 
 ---
 

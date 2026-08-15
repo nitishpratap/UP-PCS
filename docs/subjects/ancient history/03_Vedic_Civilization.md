@@ -99,19 +99,40 @@ D. 4 3 1 2
 
 **Tribal · pastoral · jana / vis · women relatively free · varna not yet a cage**
 
-- Unit = **jana** (tribe) and **vis** (clan). Loyalty to kin, not territory. No janapada-state.
-- **Rajan** = war-chief + ritual head. Chosen with assembly consent. **Not** an absolute hereditary king.
-- **Cattle = wealth.** Wars often **gavishti** (cattle-raid).
-- Dasas / Dasyus = rival groups.
-- **Pani** = cattle-keepers / traders, often hostile in hymns.
-- **Women** hymn-composers: Apala, Lopamudra, Visvavara, Ghosha.
-- Women could attend **Sabha / Vidatha**.
-- No sati, purdah, or child-marriage as a system.
-- **Varna:** named in **Purusha Sukta** (RV **X.90**, a **late** hymn). Occupation still flexible in Early Vedic. Do not call this the full caste system.
-- Religion: nature gods, **no temples, no idols**. **Indra** (most hymns — war/rain), **Agni**, **Soma**, **Varuna** (rita), Ushas, Savitr. Vishnu and Rudra are **minor**. ~**33** gods in three layers (earth, air, sky).
-- Houses of wood/thatch. **Ratha** (horse-chariot). No stone cities, no iron, no coins.
+- The social unit is the **jana** (tribe) and the **vis** (clan).
+- Loyalty is to kin, not to a fixed territory.
+- There is no janapada-state.
+- The **rajan** is a war-chief and ritual head.
+- He is chosen with assembly consent.
+- He is **not** an absolute hereditary king.
+- **Cattle are wealth.**
+- Wars are often **gavishti**, a cattle-raid.
+- **Dasas** and **Dasyus** are rival groups in the hymns.
+- **Panis** are cattle-keepers or traders, often hostile in the hymns.
+- **Apala** is a woman hymn-composer.
+- **Lopamudra** is a woman hymn-composer.
+- **Visvavara** is a woman hymn-composer.
+- **Ghosha** is a woman hymn-composer.
+- Women could attend the **Sabha**.
+- Women could attend the **Vidatha**.
+- There is no sati, purdah, or child-marriage as a system.
+- **Varna** is named in the **Purusha Sukta** (Rigveda **X.90**), a **late** hymn.
+- Occupation is still flexible in Early Vedic.
+- Do not call this the full caste system.
+- Religion is of nature gods, with **no temples and no idols**.
+- **Indra** has the most hymns. He is a war and rain god.
+- **Agni** is the fire god.
+- **Soma** is the ritual drink-god.
+- **Varuna** guards **rita**.
+- **Ushas** is the dawn goddess.
+- **Savitr** is a solar god.
+- **Vishnu** and **Rudra** are still **minor**.
+- About **33** gods are grouped in three layers: earth, air, and sky.
+- Houses are of wood and thatch.
+- The **ratha** is a horse-chariot.
+- There are no stone cities, no iron, and no coins.
 
-> **Exam note:** 2020 Q21 — Rigvedic = **Pastoral**, not agrarian.
+> **Exam note:** UPPCS 2020 Q21 keys Rigvedic society as **Pastoral**, not agrarian.
 
 ---
 
@@ -119,18 +140,31 @@ D. 4 3 1 2
 
 **Settled agrarian · iron plough · janapadas · rigid varna · women lose ground**
 
-- Iron + plough open Gangetic forests. Surplus → specialists. Economy type in match-lists = **Agrarian** (2020 Q21).
-- **Jana → janapada** (territorial kingdom). Famous Later Vedic polities: **Kuru, Panchala, Kosala, Kashi, Videha**.
-- Four varnas **harden**: Brahmana > Kshatriya > Vaishya > Shudra. Shudras denied **upanayana**. **Gotra** exogamy. Anuloma / pratiloma marriage rules appear.
-- **Women** drop from assemblies and Vedic study.
+- Iron and the plough open Gangetic forests.
+- Surplus supports specialists.
+- The economy type in match-lists is **Agrarian** (2020 Q21).
+- The **jana** becomes a **janapada**, a territorial kingdom.
+- Famous Later Vedic polities are **Kuru** and **Panchala**.
+- **Kosala** is a Later Vedic polity in eastern UP.
+- **Kashi** is a Later Vedic polity.
+- **Videha** is a Later Vedic polity further east.
+- Four varnas **harden**: Brahmana, Kshatriya, Vaishya, Shudra.
+- Shudras are denied **upanayana**.
+- **Gotra** exogamy appears.
+- Anuloma and pratiloma marriage rules appear.
+- **Women** drop from assemblies and from Vedic study.
 - Child marriage begins to show.
-- No more hymn-composers of the Early type.
-- **Gargi** and **Maitreyi** are Later Vedic **exceptions** (Upanishadic debates), not the social average.
-- Four **ashramas** (Brahmacharya, Grihastha, Vanaprastha, Sannyasa) systematized. ~16 samskaras in later lists.
-- Land grants to priests (**brahmadeya**) start the landlord pattern. Assemblies weaken; king claims more.
-- Thought-shift: ritual Brahmanas → forest Aranyakas → **Upanishads** (jnana over yajna).
+- There are no more hymn-composers of the Early type.
+- **Gargi** is a Later Vedic **exception** in Upanishadic debate.
+- **Maitreyi** is another Later Vedic **exception**.
+- They are not the social average.
+- Four **ashramas** are systematized: Brahmacharya, Grihastha, Vanaprastha, and Sannyasa.
+- About sixteen samskaras appear in later lists.
+- Land grants to priests (**brahmadeya**) start the landlord pattern.
+- Assemblies weaken. The king claims more.
+- Thought shifts from ritual Brahmanas to forest Aranyakas to **Upanishads**, which put jnana over yajna.
 
-> **Exam note:** “Women equal throughout Vedic age” is false — decline is **Later Vedic**.
+> **Exam note:** “Women equal throughout the Vedic age” is false. The decline is **Later Vedic**.
 
 ---
 
@@ -138,18 +172,30 @@ D. 4 3 1 2
 
 **Rajan + purohita + senani core | Later Vedic adds revenue staff | no Mauryan bureaucracy**
 
-- **Rajan** — chief / king. Later Vedic: **hereditary**, divine aura, bigger household of **ratnins** (jewel-officers at consecration).
-- **Purohita** — chief priest and political adviser (Vasishtha with Sudas; Visvamitra as rival).
-- **Senani** — army commander.
-- **Gramani** — village head; also listed among ratnins.
-- **Bhagadugha** — **revenue collector**; takes the king’s **bhaga** (share) of produce / booty. **UPPCS 2023 Q26 = D.**
-- **Sangrahitri** — treasurer / chamberlain.
-- **Akshavapa** — officer of **dice / gambling** (and sometimes accounts). This is option **C** in 2023 — **wrong** for Bhagadugha, but a **real** office. Learn both.
-- Other ratnins you may see: **Suta** (charioteer / bard), **Kshattri**, **Takshan** (carpenter), **Govikartana**, **Palagala**.
-- Taxes: **bali** (tribute), **bhaga** (share), later **shulka** (toll). Spies appear in later texts.
-- Still clan-based. **Not** Ashokan district officers.
+- The **rajan** is the chief or king.
+- In Later Vedic he is **hereditary**, with a divine aura and a bigger household of **ratnins** (jewel-officers at consecration).
+- The **purohita** is chief priest and political adviser.
+- **Vasishtha** served Sudas as purohita.
+- **Visvamitra** is the rival priest in that tradition.
+- The **senani** is the army commander.
+- The **gramani** is the village head and is also listed among the ratnins.
+- The **bhagadugha** is the **revenue collector**.
+- He takes the king’s **bhaga** (share) of produce or booty.
+- **UPPCS 2023 Q26** keys Bhagadugha as **D**.
+- The **sangrahitri** is the treasurer or chamberlain.
+- The **akshavapa** is the officer of **dice and gambling**, and sometimes of accounts.
+- Akshavapa is option **C** in 2023. It is the **wrong** answer for Bhagadugha, but it is a **real** office. Learn both.
+- The **suta** is the charioteer or bard.
+- The **kshattri** is another ratnin.
+- The **takshan** is the carpenter.
+- **Govikartana** and **Palagala** also appear in ratnin lists.
+- **Bali** is tribute.
+- **Bhaga** is the king’s share.
+- Later **shulka** is a toll.
+- Spies appear in later texts.
+- The system is still clan-based. It is **not** Ashokan district officers.
 
-> **Exam note:** 2023 — Bhagadugha ≠ messenger, ≠ forest officer, ≠ gambling chief.
+> **Exam note:** In 2023, Bhagadugha is not a messenger, not a forest officer, and not the gambling chief.
 
 **PYQ — UPPCS Prelims 2023, Q26**
 

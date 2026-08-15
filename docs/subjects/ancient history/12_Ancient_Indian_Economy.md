@@ -59,13 +59,21 @@ Tamralipti = Ganga mouth east | Periplus = 1st c. CE | Pliny gold-drain
 
 **Agri + craft + trade | type changes by age | 2020 match lives here too**
 
-- IVC = **urban** craft-and-trade. **No coins.** Cubical **weights** and **seals** do the job of mark and measure.
-- Rigvedic = **pastoral**. Wealth in cows. **Nishka** is a gold piece / ornament, not a mint.
-- Later Vedic = **agrarian**. Bali and bhaga. Still no punch-marks.
-- From ~6th c. BCE: towns, NBPW, **punch-marked silver**, long-distance trade.
-- Mauryan state taxes trade. Weights officer = ***pautavadhyaksha***.
-- Gupta: land grants + guilds + gold show. Market still uses silver and copper.
-- **2020 Q21:** IVC Urban, Later Vedic Agrarian, Rigvedic Pastoral, Medieval landlordism.
+- The Indus economy is **urban** craft and trade.
+- It uses cubical **weights** and **seals**.
+- It has **no coins**.
+- The Rigvedic economy is **pastoral**.
+- Wealth sits in cattle.
+- The **nishka** is a gold piece or ornament. It is not a minted coin.
+- The Later Vedic economy is **agrarian**.
+- **Bali** and **bhaga** appear as dues.
+- Punch-marked coins still do not exist in that Vedic phase.
+- From about the **sixth century BCE**, towns, **NBPW**, and **punch-marked silver** appear with long-distance trade.
+- The Mauryan state taxes trade.
+- The weights officer is the ***pautavadhyaksha***.
+- The Gupta age shows land grants, guilds, and gold prestige.
+- Daily markets still use silver and copper.
+- In **2020 Q21**, IVC is Urban, Later Vedic is Agrarian, Rigvedic is Pastoral, and the medieval slot is landlordism.
 
 **PYQ — UPPCS Prelims 2020, Q21**
 
@@ -91,14 +99,21 @@ A. 4 2 3 1  B. 2 1 4 3  C. 3 4 1 2  D. 4 3 1 2
 
 **Punch-marked first | portrait later | copper/lead for small change**
 
-- Earliest Indian coins = **punch-marked silver**, ~6th–5th c. BCE.
-- Mahajanapada issues. Magadha types spread with the empire.
-- Unit: **karshapana / pana**. Weight, not a portrait.
-- Mauryas keep punch-marks. Also **cast copper**.
-- **Indo-Greeks** bring **die-struck portraits**. Greek + Kharoshthi.
-- Satavahanas: **lead / potin** common. **Yajna Sri Satakarni** puts a **ship** on some coins — Deccan sea-trade stamp.
-- Western Kshatrapas: silver. Chandragupta II later copies that habit.
-- Coins name kings and gods. They do not replace inscriptions.
+- The earliest Indian coins are **punch-marked silver**, from about the sixth to fifth century BCE.
+- Mahajanapadas issue them.
+- Magadha types then spread with the empire.
+- The unit is the **karshapana** or **pana**.
+- The mark is a weight-stamp, not a portrait.
+- The Mauryas keep punch-marks.
+- They also issue **cast copper**.
+- The **Indo-Greeks** bring **die-struck portraits**.
+- Their legends use Greek and Kharoshthi.
+- Satavahanas often strike **lead** or **potin**.
+- **Yajna Sri Satakarni** puts a **ship** on some coins as a Deccan sea-trade stamp.
+- The Western Kshatrapas strike silver.
+- **Chandragupta II** later copies that silver habit.
+- Coins name kings and gods.
+- They do not replace inscriptions.
 
 > **Exam note:** First coins ≠ gold. First coins ≠ IVC.
 
@@ -109,21 +124,25 @@ A. 4 2 3 1  B. 2 1 4 3  C. 3 4 1 2  D. 4 3 1 2
 **Kushan gold is the flood | Gupta gold is the art | 2022 Shaka proof is silver**
 
 - IVC and Vedic India have **no** gold mint.
-- Indo-Greeks issue some gold in the NW.
-- **Vima Kadphises / Kushans** make gold **common**. Title *Shaonanoshao*.
-- Gupta **dinara** = prestige gold. Name from Roman *denarius* via Kushan use.
-- King-queen type = **Chandragupta I** + Kumaradevi.
-- Horse / lyrist / battle-axe = **Samudragupta**.
-- Archer / chhatra / lion-slayer = **Chandragupta II**.
-- Peacock / lion = **Kumaragupta I**.
-- Gold is often ~120–144 grains. **Do not mix with 33-grain silver.**
-- Roman **aurei** in south Indian hoards = pepper-trade bullion. Pliny calls that a gold drain.
+- Indo-Greeks issue some gold in the northwest.
+- **Vima Kadphises** and the **Kushans** make gold **common**.
+- The Kushan imperial title is *Shaonanoshao*.
+- The Gupta **dinara** is prestige gold.
+- The name comes from the Roman *denarius* through Kushan use.
+- The king-queen type shows **Chandragupta I** with **Kumaradevi**.
+- Horse, lyrist, and battle-axe types belong to **Samudragupta**.
+- Archer, chhatra, and lion-slayer types belong to **Chandragupta II**.
+- Peacock and lion types belong to **Kumaragupta I**.
+- Gupta gold often weighs about **120–144 grains**.
+- Do not mix that with the **33-grain** silver.
+- Roman **aurei** in south Indian hoards are pepper-trade bullion.
+- **Pliny** calls that a gold drain.
 - After the Guptas, imperial gold thins.
 
 **2022 lock**
-- Strongest Shaka-victory proof in that paper = CG II **silver** coins.
-- Weight about **33 grains**.
-- Gold dinara is the trap.
+- The strongest Shaka-victory proof in that paper is Chandragupta II’s **silver** coins.
+- The weight is about **33 grains**.
+- The gold dinara is the trap.
 
 **PYQ — UPPCS Prelims 2022, Q23**
 
@@ -177,16 +196,16 @@ A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
 
 **Shreni = default guild | Manigrama = the 2018 foreign-trade lock**
 
-| Body | Lock |
-|------|------|
-| **Shreni** | Craft + trade guild. Own rules. Head = **shreshthin** |
-| **Nagaram** | South Indian **town** merchant body |
-| **Nanadesi** | Merchants of **many regions** / long-distance |
-| **Manigrama** | **Foreign / overseas** trade. **2018 Q89 = D** |
-| **Ainnurruvar** | Later “500” south merchant network. Not Mauryan |
-
-- Arthashastra treats guild custom as usable law.
-- Sanchi / Bharhut gifts name shrenis.
+- A **shreni** is a craft or trade guild with its own rules.
+- Its head is the **shreshthin**.
+- A **nagaram** is a south Indian **town** merchant body.
+- The **nanadesi** are merchants of **many regions** on long-distance routes.
+- **Manigrama** is the **foreign and overseas** trade body.
+- **2018 Q89** keys **D** for Manigrama.
+- The **Ainnurruvar** are a later “500” south merchant network.
+- They are not Mauryan.
+- The *Arthashastra* treats guild custom as usable law.
+- Sanchi and Bharhut gifts name shrenis.
 - Shreni is **not** “only foreign trade.”
 
 **PYQ — UPPCS Prelims 2018, Q89**
@@ -210,20 +229,18 @@ A. Śreni  B. Nagaram  C. Nānādesis  D. Manigrama
 
 **Match port ↔ sea ↔ age**
 
-| Port | Sea / river | Age lock |
-|------|-------------|----------|
-| **Lothal** | Gulf of Khambhat | Harappan **dockyard** |
-| **Sutkagen-dor** | Makran | Harappan west end |
-| **Bharukaccha / Broach** | Narmada mouth | Periplus **Barygaza** |
-| **Sopara / Kalyan** | Konkan | Mauryan onward |
-| **Tamralipti** | Ganga mouth | East / Bay of Bengal |
-| **Muziris (Muchiri)** | Malabar | Roman **pepper** |
-| **Nelcynda** | Kerala | Periplus pepper |
-| **Puhar / Kaveripattinam** | Kaveri mouth | Sangam Chola |
-| **Arikamedu** | near Puducherry | Roman amphorae |
-| **Barbarikon** | Indus mouth | Periplus. **Not** Broach |
-
-- Boat **models** = **Mohenjo-daro and Lothal**. **2022 Q68 = C.**
+- **Lothal** on the Gulf of Khambhat is the Harappan **dockyard**.
+- **Sutkagen-dor** on the Makran is the Harappan west end.
+- **Bharukaccha / Broach** at the Narmada mouth is Periplus **Barygaza**.
+- **Sopara** and **Kalyan** on the Konkan run from Mauryan times onward.
+- **Tamralipti** at the Ganga mouth faces the Bay of Bengal.
+- **Muziris (Muchiri)** on the Malabar is the Roman **pepper** port.
+- **Nelcynda** in Kerala is another Periplus pepper landing.
+- **Puhar / Kaveripattinam** at the Kaveri mouth is the Sangam Chola port.
+- **Arikamedu** near Puducherry yields Roman amphorae.
+- **Barbarikon** is the Indus-mouth Periplus port. It is **not** Broach.
+- Boat **models** come from **Mohenjo-daro and Lothal**.
+- **2022 Q68** keys **C**.
 - Dholavira is not that pair.
 
 **PYQ — UPPCS Prelims 2022, Q68**
@@ -250,12 +267,14 @@ D. Kalibangan and Ropar
 
 **Rivers first | two highways**
 
-- **Uttarapatha:** Taxila → Mathura / Kaushambi → **Pataliputra** → Bengal.
-- **Dakshinapatha:** Ganga belt → **Ujjain** → Deccan.
-- River-ports on Ganga, Yamuna, Narmada, Godavari.
-- Entrepots: Pataliputra, Ujjain, Varanasi, Taxila, later Kannauj.
-- Tolls at ferries and gates. Caravans run through shrenis.
-- 2024 Q2 is the paper lock. Detail of goods is colour.
+- The **Uttarapatha** runs from Taxila through Mathura or Kaushambi to **Pataliputra** and Bengal.
+- The **Dakshinapatha** runs from the Ganga belt through **Ujjain** into the Deccan.
+- River-ports sit on the Ganga, Yamuna, Narmada, and Godavari.
+- Entrepots include Pataliputra, Ujjain, Varanasi, and Taxila.
+- Kannauj is a later entrepot.
+- Tolls sit at ferries and gates.
+- Caravans run through shrenis.
+- **2024 Q2** is the paper lock. Detail of goods is colour.
 
 > **Exam note:** Dakshinapatha is a **road**, not “only sea.”
 
@@ -265,13 +284,16 @@ D. Kalibangan and Ropar
 
 **Monsoon sailing | west and east circuits**
 
-- Harappan sea: Lothal and Makran toward the Gulf.
-- Later west: Broach, Sopara, Muziris.
-- Later east: Tamralipti toward SE Asia.
-- Sailors use **monsoon** reversal. Periplus knows that.
-- Exports: pepper, cotton, ivory, pearls, gems.
-- Imports: horses, wine, gold, glass.
-- Yajna Sri’s **ship** coin = Deccan sea-trade stamp.
+- Harappan sea traffic runs from Lothal and the Makran toward the Gulf.
+- Later west landings include Broach, Sopara, and Muziris.
+- Later east traffic runs from Tamralipti toward Southeast Asia.
+- Sailors use **monsoon** reversal.
+- The Periplus knows that wind.
+- **Pepper** is the famous west-coast export.
+- Cotton, ivory, pearls, and gems also leave Indian ports.
+- **Horses** are a famous import.
+- Wine, gold, and glass also arrive from the west.
+- Yajna Sri’s **ship** coin is a Deccan sea-trade stamp.
 
 > **Exam note:** East-coast Tamralipti is **not** the main Roman door.
 
@@ -281,13 +303,14 @@ D. Kalibangan and Ropar
 
 **~1st–3rd c. CE | Periplus | pepper for gold**
 
-- Source: ***Periplus of the Erythraean Sea*** (~1st c. CE).
-- Route: Red Sea → monsoon → **Muziris** and **Barygaza**.
+- The source is the ***Periplus of the Erythraean Sea***, about the first century CE.
+- The route is the Red Sea, then the monsoon, then **Muziris** and **Barygaza**.
 - **Pliny** complains of a **gold drain** to India.
-- Hoards of Roman gold/silver in Kerala–Tamil–Karnataka.
-- **Arikamedu** = amphorae / Arretine ware.
+- Hoards of Roman gold and silver sit in Kerala, Tamil country, and Karnataka.
+- **Arikamedu** yields amphorae and Arretine ware.
 - Sangam poems call the foreigners **Yavana**.
-- Peak with the early empire. Thins after the 3rd c. crisis.
+- The peak sits with the early Roman empire.
+- Trade thins after the third-century crisis.
 
 > **Exam note:** Yavana in Sangam ≠ only “Ionian Greek.” It is the foreign / western trader.
 

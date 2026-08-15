@@ -63,19 +63,20 @@ Portrait die-struck coins (Greek + Kharoshthi) | Shaka era 78 CE ≠ Vikrama 57 
 
 ## 6.1 Greek Invasion
 
-**Two layers: Persian satrapy first, then Macedon | papers’ “Greeks” = Alexander + Indo-Greek**
+**Two layers: Persian satrapy first, then Macedon | papers’ “Greeks” = Alexander plus Indo-Greek**
 
-- **Cyrus** (d. 530) reaches the Indus fringe in **legend** only.
-- The **exam satrapy** is **Darius I** (~518/516 BCE).
-- Darius holds **Gandhara** + **Hindush**.
+- **Cyrus** (died 530 BCE) reaches the Indus fringe in **legend** only.
+- The **exam satrapy** is **Darius I**, about **518/516 BCE**.
+- Darius holds **Gandhara**.
+- He also holds **Hindush**.
 - Herodotus calls this the **20th** satrapy.
-- Tribute remembered as **gold dust**.
-- **Skylax of Caryanda** sails Indus → sea.
+- Tribute is remembered as **gold dust**.
+- **Skylax of Caryanda** sails the Indus to the sea.
 - Persepolis and Naqsh-i-Rustam reliefs show Indian delegates.
-- **Xerxes** took Indian infantry/archers into the Persian host against the Greeks (Herodotus).
-- NW office kit that stays: **Aramaic** → **Kharoshthi** (right-to-left).
-- Title that stays: **satrap / kshatrapa**.
-- Macedonian sequel uses the **same NW door**, new army.
+- **Xerxes** took Indian infantry and archers into the Persian host against the Greeks. Herodotus records this.
+- The NW office kit that stays is **Aramaic**, which feeds **Kharoshthi** (right-to-left).
+- The title that stays is **satrap / kshatrapa**.
+- The Macedonian sequel uses the **same NW door**, with a new army.
 
 | Year | Macedonian step |
 |------|-----------------|
@@ -86,57 +87,60 @@ Portrait die-struck coins (Greek + Kharoshthi) | Shaka era 78 CE ≠ Vikrama 57 
 | 329–327 | Bactria–Sogdiana |
 | **326** | **India** |
 
-- No Greek *raj* on the Ganga.
-- 323 vacuum → **Chandragupta**.
-- Later Bactrian Greeks in India = **Indo-Greeks**.
+- There is no Greek *raj* on the Ganga.
+- The 323 vacuum is filled by **Chandragupta**.
+- Later Bactrian Greeks in India are the **Indo-Greeks**.
 
-> **Exam note:** First imperial foreigners in the NW = **Persians**. 2023’s “Greeks” still means the Hellenistic wave, not Darius.
+> **Exam note:** The first imperial foreigners in the NW are the **Persians**. The 2023 “Greeks” still means the Hellenistic wave, not Darius.
 
 ---
 
 ## 6.2 Alexander's Invasion
 
-**Born 356 Pella | king 336 | India 327–325 (~19 months) | exam year 326**
+**Born 356 at Pella | king 336 | India 327–325 (~19 months) | exam year 326**
 
-| Step | Lock |
-|------|------|
-| Year | Lock |
-|------|------|
-| 327 | Hindu Kush → Cophen (Kabul) |
-| 327 | **Massaga** (Assakenoi) |
-| 327 | Rock of **Aornos** (Pir-Sar) |
-| 326 | Crosses the **Indus** |
-| 326 | **Ambhi / Omphis** of Taxila **submits** (ally) |
-| 326 | **Abisares** (Kashmir) sends gifts — does not fight |
-| 326 | **Hydaspes (Jhelum)** vs **Porus** |
-| 326 | Night crossing in rain. Craterus holds the camp bank |
-| After | Porus: “Treat me as a **king**.” Restored and **enlarged** |
-| After | Cities: **Nicaea** + **Bucephala** |
-| Next | Acesines = Chenab. Hydraotes = Ravi |
-| Next | **Sangala** of the **Kathaioi** stormed (≠ Menander’s Sagala) |
-| Next | **Phegeus** warns of Nanda numbers |
-| Beas | **Hyphasis** mutiny. **Coenus** speaks |
-| Beas | **Twelve altars**. Turns west |
-| Return | **Malloi / Malavas** — Alexander pierced by an arrow |
-| Return | **Oxydrakai** (Kshudrakas) submit |
-| Return | **Nearchus** sails Indus mouth → Gulf |
-| Return | **Gedrosia** desert slaughter |
-| Satraps | **Ambhi** at Taxila. **Porus** on the Hydaspes country |
-| Satraps | **Philip** (later murdered). **Peithon** on the lower Indus. **Eudemus** leftover |
-| **323** | Dies at **Babylon**. Indian posts evaporate |
+- In **327** he crosses the Hindu Kush into the Cophen (Kabul) valley.
+- In **327** he takes **Massaga** of the Assakenoi.
+- In **327** he takes the Rock of **Aornos** (Pir-Sar).
+- In **326** he crosses the **Indus**.
+- **Ambhi / Omphis** of Taxila **submits** and becomes an ally.
+- **Abisares** of Kashmir sends gifts. He does not fight.
+- The Battle of the **Hydaspes** is fought on the **Jhelum** against **Porus**.
+- Alexander makes a night crossing in rain.
+- **Craterus** holds the camp bank.
+- Porus asks to be treated as a **king**. He is restored and **enlarged**.
+- Alexander founds **Nicaea**.
+- He founds **Bucephala**.
+- The Acesines is the Chenab.
+- The Hydraotes is the Ravi.
+- He storms **Sangala** of the **Kathaioi**. This is not Menander’s Sagala.
+- **Phegeus** warns him of Nanda numbers.
+- At the **Hyphasis (Beas)** the army mutinies.
+- **Coenus** speaks for the troops.
+- Alexander raises **twelve altars** and turns west.
+- Among the **Malloi / Malavas** Alexander is pierced by an arrow.
+- The **Oxydrakai** (Kshudrakas) submit.
+- **Nearchus** sails from the Indus mouth to the Gulf.
+- The **Gedrosia** desert march is a slaughter.
+- **Ambhi** is left as satrap at Taxila.
+- **Porus** is left over the Hydaspes country.
+- **Philip** is a satrap and is later murdered.
+- **Peithon** holds the lower Indus.
+- **Eudemus** is a leftover officer.
+- In **323** Alexander dies at **Babylon**. The Indian posts evaporate.
 
-**Effects**
-
-- First tight Greek *description* of India.
+- The march gives the first tight Greek *description* of India.
 - NW satrapies last only a blink.
-- Sea/land route knowledge via **Nearchus**.
-- **Sandrokottos = Chandragupta** peg (**William Jones**). Magadha/Buddha dates hang on this.
-- Power vacuum that **Mauryas** fill.
-- Seed of later portrait coins + Gandhara style.
+- Sea and land route knowledge comes via **Nearchus**.
+- **Sandrokottos = Chandragupta** is the peg of **William Jones**. Magadha and Buddha dates hang on this.
+- The power vacuum is what the **Mauryas** fill.
+- The seed of later portrait coins and Gandhara style is planted here.
 
-**Sources:** Arrian (*Anabasis*, *Indica*) from Ptolemy + Aristobulus. Also Plutarch, Diodorus, Curtius, Justin. No Indian royal inscription of the march.
+- Sources are Arrian’s *Anabasis* and *Indica*, from Ptolemy and Aristobulus.
+- Also used are Plutarch, Diodorus, Curtius, and Justin.
+- There is no Indian royal inscription of the march.
 
-> **Exam note:** Hydaspes = **fight**. Hyphasis = **stop**. Sangala ≠ Sagala. Ganga is a trap.
+> **Exam note:** Hydaspes is the **fight**. Hyphasis is the **stop**. Sangala is not Sagala. The Ganga is a trap.
 
 ---
 
@@ -144,39 +148,33 @@ Portrait die-struck coins (Greek + Kharoshthi) | Shaka era 78 CE ≠ Vikrama 57 
 
 **Who was on the road | who was not**
 
-| Name | Job | India lock |
-|------|-----|------------|
-| **Aristobulus** | Engineer / writer | Eyewitness → Arrian |
-| **Ptolemy I** | General | Memoir → Arrian. Later Pharaoh — **not** an Indian king |
-| **Nearchus** | Admiral | Indus mouth → Persian Gulf |
-| **Onesicritus** | Helmsman | Gymnosophists / “naked philosophers” |
-| **Craterus** | General | Sent **overland** with veterans |
-| **Coenus** | General | Voice of the **Beas** mutiny |
-| **Seleucus** | Officer | Later Seleucid; Indian war is **after** Alexander |
-| **Hephaestion** | Intimate / chiliarch | On the Indian march; dies 324 (not the Beas story) |
-| **Callisthenes** | Court historian, Aristotle’s kin | Killed **before** India (proskynesis row) |
-| **Eudemus** | Left in the Punjab | Post-323 leftover |
+- **Aristobulus** is an engineer and writer. He is an eyewitness behind Arrian.
+- **Ptolemy I** is a general. His memoir also feeds Arrian. He later becomes a Pharaoh. He is **not** an Indian king.
+- **Nearchus** is the admiral. He sails from the Indus mouth to the Persian Gulf.
+- **Onesicritus** is the helmsman. He writes of gymnosophists, the “naked philosophers.”
+- **Craterus** is a general. He is sent **overland** with veterans.
+- **Coenus** is a general. He is the voice of the **Beas** mutiny.
+- **Seleucus** is an officer. His Indian war is **after** Alexander.
+- **Hephaestion** is Alexander’s intimate and chiliarch. He is on the Indian march. He dies in 324. He is not the Beas story.
+- **Callisthenes** is the court historian and Aristotle’s kin. He is killed **before** India, in the proskynesis row.
+- **Eudemus** is left in the Punjab as a post-323 leftover.
 
-**Did not march to India**
+- **Aristotle** did **not** march to India. He was tutor in Macedon only.
+- **Megasthenes** did **not** march to India. He is a Seleucid envoy about **303**, at Chandragupta’s court.
+- **Kautilya / Chanakya** did **not** march to India. He is on the Mauryan side, not in the Macedonian tent.
 
-- **Aristotle** — tutor in Macedon only.
-- **Megasthenes** — Seleucid envoy **~303**, Chandragupta’s court.
-- **Kautilya / Chanakya** — Mauryan side, not in the Macedonian tent.
+- **Ambhi** is the Taxila ally.
+- **Porus** is the Hydaspes foe who becomes a satrap.
+- **Kalanos** (Kalyana) is a gymnosophist who *joined* the column. He later burnt himself at Pasargadae or Susa.
+- **Dandamis** (Mandanis) is a gymnosophist who **refused** Alexander.
+- **Abisares** is the Kashmir chief who sends tribute and does not battle.
+- **Phegeus** is the king who talks of the Nanda host.
 
-**Indian side-cast (papers mix them into “persons with Alexander”)**
+- The **Diadochi** come after 323. They are not “companions in Punjab.”
+- Named Diadochi are Perdiccas, Ptolemy, Seleucus, Antigonus, Lysimachus, and Cassander.
+- Partitions are dated at Babylon 323 and Triparadisus 321.
 
-| Name | Lock |
-|------|------|
-| **Ambhi** | Taxila ally |
-| **Porus** | Hydaspes foe → satrap |
-| **Kalanos** (Kalyana) | Gymnosophist who *joined* the column. Later burnt himself at Pasargadae/Susa |
-| **Dandamis** (Mandanis) | Gymnosophist who **refused** Alexander |
-| **Abisares** | Kashmir chief — tribute, no battle |
-| **Phegeus** | King who talks of the Nanda host |
-
-**Diadochi** (after 323 — not “companions in Punjab”): Perdiccas, Ptolemy, Seleucus, Antigonus, Lysimachus, Cassander. Babylon 323 / Triparadisus 321 partitions.
-
-> **Exam note:** Aristotle / Megasthenes / Chanakya = **not** on the Indian march. Kalanos ≠ Dandamis.
+> **Exam note:** Aristotle, Megasthenes, and Chanakya are **not** on the Indian march. Kalanos is not Dandamis.
 
 ---
 
@@ -184,22 +182,17 @@ Portrait die-struck coins (Greek + Kharoshthi) | Shaka era 78 CE ≠ Vikrama 57 
 
 **Northwest sequence — this is 2023 Q23**
 
-| Order | Who | When | One lock |
-|-------|-----|------|----------|
-| 1 | **Achaemenid Persians** | 6th–4th c. BCE | Darius: Gandhara, Hindush |
-| 2 | **Macedonian Greeks** | 326 BCE | Alexander |
-| 3 | **Seleucid probe** | ~305 BCE | Seleucus vs Chandragupta |
-| 4 | **Indo-Greeks** | 2nd–1st c. BCE | Demetrius, Menander |
-| 5 | **Shakas** | from 1st c. BCE | **Maues/Moga** at Taxila. Rudradaman at Junagadh |
-| 6 | **Parthians** | 1st c. CE | **Gondophares**. Takht-i-Bahi |
-| 7 | **Kushans** | 1st–3rd c. CE | **Kanishka**. Purushapura. Era **78 CE** |
+- The **Achaemenid Persians** come first, in the 6th–4th centuries BCE. **Darius** holds Gandhara and Hindush.
+- The **Macedonian Greeks** come next, in **326 BCE**, with Alexander.
+- The **Seleucid probe** is about **305 BCE**, Seleucus versus Chandragupta.
+- The **Indo-Greeks** follow in the 2nd–1st centuries BCE. Named kings are Demetrius and Menander.
+- The **Shakas** enter from the 1st century BCE. **Maues / Moga** sits at Taxila. Rudradaman is at Junagadh.
+- The **Parthians** belong to the 1st century CE. **Gondophares** is the name. **Takht-i-Bahi** is the site.
+- The **Kushans** belong to the 1st–3rd centuries CE. **Kanishka** is the name. Purushapura is the capital. The era is **78 CE**.
 
-**Two eras papers weld to this sequence**
-
-- **Vikrama Samvat 57 BCE** — traditional Vikramaditya vs Shakas (Ujjain story).
-- **Shaka era 78 CE** — usually tied to **Kanishka** in exam keys.
-
-Mauryas / Guptas / Satavahanas are **Indian** houses in the gaps — not invaders.
+- **Vikrama Samvat 57 BCE** is the traditional Vikramaditya versus Shakas story at Ujjain.
+- **Shaka era 78 CE** is usually tied to **Kanishka** in exam keys.
+- Mauryas, Guptas, and Satavahanas are **Indian** houses in the gaps. They are not invaders.
 
 **PYQ — UPPCS Prelims 2023, Q23**
 
@@ -225,24 +218,23 @@ D. Sakas — Kushans — Greeks
 
 **Diadochus | Seleucid founder | Indian file = the Chandragupta treaty**
 
-- Infantry officer under Alexander.
+- Seleucus is an infantry officer under Alexander.
 - After 323 he builds the Seleucid realm from Anatolia toward Bactria.
-- ~305 BCE he comes east for Alexander’s old satrapies.
+- About **305 BCE** he comes east for Alexander’s old satrapies.
 - He meets **Chandragupta Maurya**. The war does **not** give him Magadha.
-- **Treaty ~303 BCE** (Appian / Strabo memory):
-
-| Seleucus cedes | Chandragupta gives |
-|----------------|-------------------|
-| **Arachosia, Gedrosia, Paropamisadae** (east Afghan–Baluch–Kabul belt, “west of Indus” in exam Hindi) | **500 elephants** |
-| Recognises Mauryan hold | Marriage alliance (tradition: **Helena**) |
-| Sends **Megasthenes** to Pataliputra | Peace on the NW |
-
-- Those elephants show up at **Ipsus, 301 BCE** (Seleucus vs Antigonus).
-- *Indica* describes Chandragupta’s Pataliputra. This file’s lock: **Seleucus sent** Megasthenes after ~303.
-- Later envoy **Deimachus** → Bindusara.
+- The **treaty about 303 BCE** is remembered by Appian and Strabo.
+- Seleucus cedes **Arachosia**.
+- He cedes **Gedrosia**.
+- He cedes **Paropamisadae**. That is the east Afghan–Baluch–Kabul belt, “west of the Indus” in exam Hindi.
+- Chandragupta gives **500 elephants**.
+- Tradition adds a marriage alliance with **Helena**.
+- Seleucus sends **Megasthenes** to Pataliputra.
+- Those elephants show up at **Ipsus in 301 BCE**, when Seleucus fights Antigonus.
+- *Indica* describes Chandragupta’s Pataliputra. This file’s lock is that **Seleucus sent** Megasthenes after about 303.
+- Later envoy **Deimachus** goes to Bindusara.
 - Ptolemaic envoy **Dionysius** is also named in later lists.
-- Greek *Sandrokottos / Androcottus* = Chandragupta.
-- Seleucus murdered **281 BCE**. Indian provinces stay Mauryan.
+- Greek *Sandrokottos / Androcottus* is Chandragupta.
+- Seleucus is murdered in **281 BCE**. The Indian provinces stay Mauryan.
 
 > **Exam note:** Seleucus **lost** the Indian borderlands. He did not sit at Pataliputra.
 
@@ -252,32 +244,32 @@ D. Sakas — Kushans — Greeks
 
 **Bactrian Greeks in the Punjab–Gandhara | 2nd–1st c. BCE**
 
-- Greco-Bactria breaks from the Seleucids under **Diodotus** (~250 BCE).
+- Greco-Bactria breaks from the Seleucids under **Diodotus**, about **250 BCE**.
 - **Euthydemus** faces Antiochus III’s siege.
-- **Demetrius I** (~180 BCE) = first big Indian push (elephant-scalp helmet).
+- **Demetrius I**, about **180 BCE**, makes the first big Indian push. He uses an elephant-scalp helmet.
 - **Eucratides** splits Bactria. Indian Greek lines outlive Bactria.
-- **Hermaeus** = among the last in the Kabul belt.
-- **Strato II** = among the last in eastern Punjab.
+- **Hermaeus** is among the last in the Kabul belt.
+- **Strato II** is among the last in eastern Punjab.
 
-| King | Lock |
-|------|------|
-| **Demetrius I** | Indian invasion |
-| **Agathocles / Pantaleon** | Early **Brahmi** legends. **Balarama–Vasudeva** coin types |
-| **Apollodotus** | Early Indian-side silver |
-| **Menander I (Milinda)** | Greatest Indo-Greek. Capital **Sagala (Sialkot)** |
-| **Agathocleia** | Queen. Regent with **Strato I** |
-| **Antialcidas** | Sends **Heliodorus** to Sunga Vidisha |
-| **Strato II** | Last eastern remnant (~turn of CE) |
+- **Demetrius I** is the Indian-invasion king.
+- **Agathocles** and **Pantaleon** put early **Brahmi** legends on coins.
+- Their coin types include **Balarama** and **Vasudeva**.
+- **Apollodotus** issues early Indian-side silver.
+- **Menander I (Milinda)** is the greatest Indo-Greek. His capital is **Sagala (Sialkot)**.
+- **Agathocleia** is queen and regent with **Strato I**.
+- **Antialcidas** sends **Heliodorus** to Sunga Vidisha.
+- **Strato II** is the last eastern remnant around the turn of the Common Era.
 
-- *Yuga Purana* / Gargi: **Yavanas** toward **Pataliputra** — hung on Demetrius or Menander.
-- *Milinda Panha*: Menander × **Nagasena**.
-- Menander coin type: Athena Alkidemos.
-- Heliodorus: Besnagar Garuda pillar **~113 BCE**. Calls himself a Bhagavata of **Vasudeva**.
-- Coins: first **portrait, die-struck** money in India.
-- Legends: **Greek + Kharoshthi** (sometimes Brahmi).
-- Metal on the Indian side: silver/copper. **Gold** is the **Kushan** headline (Vima/Kanishka), not Menander.
-- Gandhara art = Greco-Buddhist sculpture. It peaks under **Kushan** (with Mathura), after these Greeks.
-- End: **Shakas** eat the west. Pushyamitra’s **Ayodhya** inscription is the ashwamedha record, not Heliodorus.
+- The *Yuga Purana* / Gargi tradition has **Yavanas** toward **Pataliputra**. That raid is hung on Demetrius or Menander.
+- The *Milinda Panha* is Menander with **Nagasena**.
+- Menander’s coin type is Athena Alkidemos.
+- Heliodorus raises the Besnagar Garuda pillar about **113 BCE**. He calls himself a Bhagavata of **Vasudeva**.
+- Coins are the first **portrait, die-struck** money in India.
+- Legends are **Greek plus Kharoshthi**. Sometimes Brahmi appears.
+- Metal on the Indian side is silver and copper. **Gold** is the **Kushan** headline under Vima and Kanishka, not under Menander.
+- Gandhara art is Greco-Buddhist sculpture. It peaks under the **Kushans**, with Mathura, after these Greeks.
+- The end comes when **Shakas** eat the west.
+- Pushyamitra’s **Ayodhya** inscription is the ashwamedha record. It is not Heliodorus.
 
 **PYQ — UPPCS Prelims 2023, Q24**
 
