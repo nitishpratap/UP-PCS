@@ -1,8 +1,7 @@
 (() => {
   const primaryClass = "study-hide-subjects";
   const secondaryClass = "study-hide-toc";
-  const deskHideClass = "study-desk-hide-notes";
-  let notesAbort = null;
+  const oneColClass = "study-recall-one-col";
 
   function isRecallDeck() {
     const path = decodeURIComponent(location.pathname).replace(/\/+$/, "");
@@ -10,15 +9,6 @@
     if (!match) return false;
     const rest = match[1].split("/").filter(Boolean);
     return rest.length >= 2 && rest[rest.length - 1] !== "index";
-  }
-
-  function matchingNotesUrl() {
-    const url = new URL(location.href);
-    if (!url.pathname.includes("/active-recall/")) return "";
-    url.pathname = url.pathname.replace("/active-recall/", "/subjects/");
-    url.hash = "";
-    url.search = "";
-    return url.href;
   }
 
   function setButtonState(button, isHidden, hiddenLabel, shownLabel) {
@@ -52,13 +42,13 @@
       setButtonState(focusButton, isFocusMode(), "Focus mode", "Exit focus");
     }
 
-    const deskButton = document.querySelector("[data-study-desk]");
-    if (deskButton) {
+    const colsButton = document.querySelector("[data-study-cols]");
+    if (colsButton) {
       setButtonState(
-        deskButton,
-        document.body.classList.contains(deskHideClass),
-        "Hide notes",
-        "Show notes",
+        colsButton,
+        document.body.classList.contains(oneColClass),
+        "One column",
+        "Two columns",
       );
     }
   }
@@ -84,7 +74,7 @@
         <button type="button" class="md-button md-button--compact" data-study-reset>Focus mode</button>
         ${
           isRecallDeck()
-            ? `<button type="button" class="md-button md-button--compact" data-study-desk></button>`
+            ? `<button type="button" class="md-button md-button--compact" data-study-cols></button>`
             : ""
         }
       `;
@@ -102,12 +92,13 @@
             document.body.classList.add(primaryClass, secondaryClass);
           }
         }
-        if (button.hasAttribute("data-study-desk")) {
-          document.body.classList.toggle(deskHideClass);
+        if (button.hasAttribute("data-study-cols")) {
+          document.body.classList.toggle(oneColClass);
           localStorage.setItem(
-            deskHideClass,
-            String(document.body.classList.contains(deskHideClass)),
+            oneColClass,
+            String(document.body.classList.contains(oneColClass)),
           );
+          initialiseRecallColumns();
         }
         savePreference();
         updateButtons();
@@ -119,7 +110,7 @@
   const restorePreference = () => {
     document.body.classList.toggle(primaryClass, localStorage.getItem(primaryClass) === "true");
     document.body.classList.toggle(secondaryClass, localStorage.getItem(secondaryClass) === "true");
-    document.body.classList.toggle(deskHideClass, localStorage.getItem(deskHideClass) === "true");
+    document.body.classList.toggle(oneColClass, localStorage.getItem(oneColClass) === "true");
   };
 
   // Reading progress bar — shows how far down the current note you are.
@@ -133,15 +124,7 @@
       document.body.appendChild(bar);
     }
 
-    const cards = document.querySelector(".study-desk__cards");
-
     const update = () => {
-      if (cards) {
-        const max = cards.scrollHeight - cards.clientHeight;
-        const pct = max > 0 ? Math.min(100, (cards.scrollTop / max) * 100) : 0;
-        bar.style.width = pct + "%";
-        return;
-      }
       const doc = document.documentElement;
       const scrollTop = window.scrollY || doc.scrollTop;
       const max = doc.scrollHeight - window.innerHeight;
@@ -151,7 +134,6 @@
 
     window.addEventListener("scroll", update, { passive: true });
     window.addEventListener("resize", update, { passive: true });
-    if (cards) cards.addEventListener("scroll", update, { passive: true });
     update();
   }
 
@@ -165,7 +147,9 @@
   function isQuestionStart(el) {
     if (!el || el.nodeType !== 1) return false;
     if (/^H[1-6]$/.test(el.tagName)) return false;
-    if (el.classList.contains("study-desk") || el.classList.contains("study-mcq")) return false;
+    if (el.classList.contains("study-recall-split") || el.classList.contains("study-mcq")) {
+      return false;
+    }
     const text = (el.textContent || "").replace(/\s+/g, " ").trim();
     if (QUESTION_ID_RE.test(text)) return true;
     if (/^PYQ\b/i.test(text)) return true;
@@ -814,177 +798,106 @@
     }
   }
 
-  function paneHead(label) {
-    const head = document.createElement("div");
-    head.className = "study-desk__pane-head";
-    head.textContent = label;
-    return head;
+  function insertSplitBefore(leftNodes, rightNodes) {
+    const first = leftNodes[0];
+    const parent = first.parentNode;
+    const wrap = document.createElement("div");
+    wrap.className = "study-recall-split";
+    parent.insertBefore(wrap, first);
+
+    const left = document.createElement("div");
+    left.className = "study-recall-split__col";
+    const divider = document.createElement("div");
+    divider.className = "study-recall-split__divider";
+    divider.setAttribute("aria-hidden", "true");
+    const right = document.createElement("div");
+    right.className = "study-recall-split__col";
+    wrap.append(left, divider, right);
+    leftNodes.forEach((node) => left.appendChild(node));
+    (rightNodes || []).forEach((node) => right.appendChild(node));
   }
 
-  function teardownRecallDesk() {
-    if (notesAbort) {
-      notesAbort.abort();
-      notesAbort = null;
-    }
-    const desk = document.querySelector(".study-desk");
-    if (!desk) {
-      document.body.classList.remove("study-recall-desk");
-      return;
-    }
-    const cards = desk.querySelector(".study-desk__cards");
-    const parent = desk.parentNode;
-    if (cards && parent) {
-      [...cards.children].forEach((node) => {
-        if (node.classList.contains("study-desk__pane-head")) return;
-        parent.insertBefore(node, desk);
+  function teardownRecallColumns() {
+    document.querySelectorAll(".study-recall-split").forEach((split) => {
+      const parent = split.parentNode;
+      if (!parent) return;
+      split.querySelectorAll(":scope > .study-recall-split__col").forEach((col) => {
+        [...col.childNodes].forEach((node) => parent.insertBefore(node, split));
       });
-    }
-    desk.remove();
-    document.body.classList.remove("study-recall-desk");
-  }
-
-  function bindDeskDivider(desk, divider) {
-    divider.addEventListener("pointerdown", (event) => {
-      if (event.button !== 0) return;
-      event.preventDefault();
-      divider.setPointerCapture(event.pointerId);
-      const startX = event.clientX;
-      const notes = desk.querySelector(".study-desk__notes");
-      const startWidth = notes.getBoundingClientRect().width;
-      const total = desk.getBoundingClientRect().width;
-      const onMove = (moveEvent) => {
-        const pct = ((startWidth + (moveEvent.clientX - startX)) / total) * 100;
-        desk.style.setProperty("--study-desk-notes", Math.min(70, Math.max(28, pct)) + "%");
-      };
-      const onUp = () => {
-        divider.removeEventListener("pointermove", onMove);
-        divider.removeEventListener("pointerup", onUp);
-        localStorage.setItem("study-desk-notes", desk.style.getPropertyValue("--study-desk-notes").trim());
-      };
-      divider.addEventListener("pointermove", onMove);
-      divider.addEventListener("pointerup", onUp);
+      split.remove();
     });
+    document.body.classList.remove("study-recall-cols");
   }
 
-  function rewriteClonedUrls(scope, baseHref) {
-    const base = new URL(baseHref, location.href);
-    scope.querySelectorAll("a[href]").forEach((anchor) => {
-      const href = anchor.getAttribute("href");
-      if (!href || href.startsWith("#") || href.startsWith("mailto:") || href.startsWith("javascript:")) {
+  function isTopicHeading(el) {
+    return el && /^H[2-6]$/.test(el.tagName);
+  }
+
+  function collectTopicSections(nodes) {
+    const sections = [];
+    let bucket = [];
+    nodes.forEach((el, index) => {
+      const next = nodes[index + 1];
+      if (el.tagName === "HR" && bucket.length && isTopicHeading(next)) return;
+      if (isTopicHeading(el) && bucket.length) {
+        sections.push(bucket);
+        bucket = [el];
         return;
       }
-      try {
-        anchor.setAttribute("href", new URL(href, base).href);
-      } catch {
-        /* keep original */
-      }
+      bucket.push(el);
     });
-    scope.querySelectorAll("img[src]").forEach((img) => {
-      const src = img.getAttribute("src");
-      if (!src) return;
-      try {
-        img.setAttribute("src", new URL(src, base).href);
-      } catch {
-        /* keep original */
-      }
-    });
+    if (bucket.length) sections.push(bucket);
+    return sections;
   }
 
-  async function fillNotesPane(notesPane, noteUrl) {
-    notesPane.appendChild(paneHead("Notes"));
-    const body = document.createElement("div");
-    body.className = "study-desk__note-body md-typeset";
-    body.innerHTML = "<p>Loading matching subject notes…</p>";
-    notesPane.appendChild(body);
-
-    notesAbort = new AbortController();
-    try {
-      const response = await fetch(noteUrl, { signal: notesAbort.signal });
-      if (!response.ok) throw new Error("missing");
-      const html = await response.text();
-      const doc = new DOMParser().parseFromString(html, "text/html");
-      const source =
-        doc.querySelector(".md-content__inner") || doc.querySelector(".md-typeset");
-      if (!source) throw new Error("empty");
-
-      body.replaceChildren();
-      [...source.children].forEach((child) => {
-        if (child.classList && child.classList.contains("reading-tools")) return;
-        body.appendChild(document.importNode(child, true));
-      });
-      body.querySelectorAll(".headerlink").forEach((link) => link.remove());
-      rewriteClonedUrls(body, noteUrl);
-      enhanceMcqCards(body);
-    } catch (error) {
-      if (error && error.name === "AbortError") return;
-      body.replaceChildren();
-      const fallback = document.createElement("p");
-      fallback.textContent =
-        "No matching Lucent note for this deck. Use the left sidebar Subject Notes if you want the teaching chapter beside the cards.";
-      body.appendChild(fallback);
-      const link = document.createElement("p");
-      const anchor = document.createElement("a");
-      anchor.href = noteUrl;
-      anchor.textContent = "Try opening the matching notes page";
-      link.appendChild(anchor);
-      body.appendChild(link);
-    }
-  }
-
-  function initialiseRecallDesk() {
+  function initialiseRecallColumns() {
+    teardownRecallColumns();
     if (!isRecallDeck()) return;
+    if (document.body.classList.contains(oneColClass)) return;
 
     const article = document.querySelector(".md-content__inner");
     const tools = article?.querySelector(".reading-tools");
     if (!article || !tools) return;
 
-    const moveNodes = [];
-    let cursor = tools.nextSibling;
+    const nodes = [];
+    let cursor = tools.nextElementSibling;
     while (cursor) {
-      const next = cursor.nextSibling;
-      if (cursor.nodeType === 1 || (cursor.nodeType === 3 && cursor.textContent.trim())) {
-        moveNodes.push(cursor);
-      }
-      cursor = next;
+      nodes.push(cursor);
+      cursor = cursor.nextElementSibling;
     }
-    if (!moveNodes.length) return;
+    if (!nodes.length) return;
 
-    document.body.classList.add("study-recall-desk");
-    const desk = document.createElement("div");
-    desk.className = "study-desk";
-    const savedWidth = localStorage.getItem("study-desk-notes");
-    if (savedWidth) desk.style.setProperty("--study-desk-notes", savedWidth);
+    const firstHeadingAt = nodes.findIndex(isTopicHeading);
+    const rest = firstHeadingAt === -1 ? nodes : nodes.slice(firstHeadingAt);
+    const sections = collectTopicSections(rest);
 
-    const notes = document.createElement("section");
-    notes.className = "study-desk__notes";
-    notes.setAttribute("aria-label", "Subject notes");
+    document.body.classList.add("study-recall-cols");
 
-    const divider = document.createElement("div");
-    divider.className = "study-desk__divider";
-    divider.setAttribute("role", "separator");
-    divider.setAttribute("aria-orientation", "vertical");
-    divider.setAttribute("aria-label", "Resize notes and cards");
-    divider.tabIndex = 0;
+    if (sections.length >= 2) {
+      for (let i = 0; i < sections.length; i += 2) {
+        const left = sections[i];
+        const right = sections[i + 1];
+        if (!right) break;
+        insertSplitBefore(left, right);
+      }
+      return;
+    }
 
-    const cards = document.createElement("section");
-    cards.className = "study-desk__cards";
-    cards.setAttribute("aria-label", "Active recall cards");
-    cards.appendChild(paneHead("Cards"));
-    moveNodes.forEach((node) => cards.appendChild(node));
-
-    desk.append(notes, divider, cards);
-    tools.insertAdjacentElement("afterend", desk);
-    bindDeskDivider(desk, divider);
-    fillNotesPane(notes, matchingNotesUrl());
+    const cards = rest.filter((el) => el.classList && el.classList.contains("study-mcq"));
+    if (cards.length < 4) {
+      document.body.classList.remove("study-recall-cols");
+      return;
+    }
+    const mid = Math.ceil(cards.length / 2);
+    insertSplitBefore(cards.slice(0, mid), cards.slice(mid));
   }
 
   const boot = () => {
-    teardownRecallDesk();
+    teardownRecallColumns();
     initialiseReadingMode();
     initialiseProgressBar();
     enhanceMcqCards();
-    initialiseRecallDesk();
-    initialiseProgressBar();
+    initialiseRecallColumns();
   };
 
   restorePreference();

@@ -7,7 +7,7 @@ hide:
 
 Question first. Answer hidden. Expand a **subject** in the left sidebar, open a deck, then tap **Show answer**.
 
-On a deck page the screen splits: **Notes** on the left, **Cards** on the right. Drag the divider to resize. Use **Hide notes** if you want a pure recall pass.
+On a deck page, headings sit in **two columns** with a divider: one topic on the left, the next on the right. Use **One column** if you prefer a single list.
 
 Paste a ChatGPT dump in Cursor and name the subject. New decks go under that subject folder.
 
