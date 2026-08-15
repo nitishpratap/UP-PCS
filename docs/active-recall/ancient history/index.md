@@ -19,4 +19,28 @@ hide:
 [**Buddhism and Jainism**
 <span>Councils, Tirthankaras, Sarnath–Kushinagar, Triratna.</span>](04_Buddhism_and_Jainism.md){ .study-card }
 
+[**Magadha and Mahajanapadas**
+<span>16 states · Haryanka–Nanda · why Magadha · UP eight.</span>](05_Magadha_and_Mahajanapadas.md){ .study-card }
+
+[**Mauryan Empire**
+<span>Chandragupta–Ashoka · Dhamma · edicts · Sarnath · 185 BCE.</span>](06_Mauryan_Empire.md){ .study-card }
+
+[**Central Asian Invasions**
+<span>Indo-Greeks · Shakas · Kushanas · Mathura–Gandhara.</span>](07_Central_Asian_Invasions.md){ .study-card }
+
+[**Satavahanas**
+<span>Gautamiputra · Nasik–Naneghat · Amaravati · ship coins.</span>](08_Satavahanas.md){ .study-card }
+
+[**Gupta Empire**
+<span>Prayag Prashasti · Vikramaditya · Deogarh–Bhitargaon · Sarnath.</span>](09_Gupta_Empire.md){ .study-card }
+
+[**Harshavardhana**
+<span>Kannauj · Xuanzang · Banabhatta · Narmada · Prayaga.</span>](10_Harshavardhana.md){ .study-card }
+
+[**Kingdoms of South India**
+<span>Sangam Muvendar · Pallava · Chalukya · Rashtrakuta.</span>](11_Kingdoms_of_South_India.md){ .study-card }
+
+[**Sangam Age**
+<span>Tamilakam · tinai · Muvendar · Muziris–Puhar–Korkai.</span>](12_Sangam_Age.md){ .study-card }
+
 </div>
