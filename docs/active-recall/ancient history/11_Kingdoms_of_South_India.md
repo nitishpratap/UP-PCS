@@ -1,0 +1,185 @@
+# Kingdoms of South India
+
+> Ancient History · Active recall · Sangam Muvendar · Pallava · Chalukya · Rashtrakuta
+
+Attempt every stem from memory. Write only keywords. Then open **Show answer**.
+
+---
+
+## Sangam Age
+
+**Q1.** What is the Sangam Age, where, when, and who are the three houses?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Early historic **Tamilakam**, south of the Krishna–Tungabhadra. Roughly **c. 300 BCE–300 CE**. **Sangam** means a poet-assembly; the traditional seat is **Madurai**. The three crowned kings are **Muvendar: Chera, Chola, Pandya**. Pallavas are **not** Muvendar. The age is contemporary with the **Satavahanas**, not the same dynasty.
+
+</details>
+
+**Q2.** Name the main literary buckets and *Tolkappiyam*.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: Ettuttokai** (Eight Anthologies) and **Pattuppattu** (Ten Idylls). *Pattinappalai* is the **Puhar** poem. ***Tolkappiyam*** is the earliest Tamil grammar, attributed to **Tolkappiyar**. **Akam** is love. **Puram** is war and kingship. Five tinai: **Kurinji, Mullai, Marudam, Neydal, Palai**.
+
+</details>
+
+---
+
+## Chera, Chola, Pandya
+
+**Q3.** Capitals, ports, emblems, signature kings?
+
+<details>
+<summary>Show answer</summary>
+
+**Chera:** **Vanji / Karur**, port **Muziris (Muchiri, Kerala)**, emblem **bow**, king **Senguttuvan**. **Chola:** capital **Uraiyur**, port **Puhar / Kaveripattinam**, emblem **tiger**, king **Karikala**. **Pandya:** **Madurai**, port **Korkai**, emblem **fish**, king **Nedunjeliyan**. Imperial Chola **Thanjavur** is later. Do not mix **Karikala** with **Rajaraja I**.
+
+</details>
+
+**Q4.** Karikala, Senguttuvan, Korkai — one lock each?
+
+<details>
+<summary>Show answer</summary>
+
+**Karikala** wins at **Venni** and is credited with the **Kallanai (Grand Anicut)** on the **Kaveri**. Rice in the delta funds Chola power. **Senguttuvan** sits on west-coast **pepper** trade and later memory of the **Pattini / Kannagi** cult. ***Silappadikaram*** is the Kannagi epic. **Korkai** is the Pandya **pearl** port.
+
+</details>
+
+---
+
+## Trade
+
+**Q5.** Muziris, Arikamedu, Periplus, Yavana?
+
+<details>
+<summary>Show answer</summary>
+
+**Muziris** is the Chera **pepper** gate to Rome. **Arikamedu** near **Puducherry** yields Roman **amphorae**. ***Periplus of the Erythraean Sea*** is an **anonymous** Greco-Roman merchant text. **Pliny** also moans about Indian gold drain. Sangam **Yavana** means a western / foreign trader, not only an Ionian king. Monsoon winds make the round trip predictable.
+
+</details>
+
+---
+
+## Pallavas
+
+**Q6.** Capital, Mahendra vs Mamalla vs Rajasimha?
+
+<details>
+<summary>Show answer</summary>
+
+**Capital: Kanchipuram (Kanchi).** **Mahendravarman I** starts **rock-cut mandapas** and wrote *Mattavilasa Prahasana*. **Narasimhavarman I (Mamalla)** cuts the **Pancha Rathas** at **Mamallapuram**, takes the title **Vatapikonda**, and sacks **Vatapi** after defeating **Pulakeshin II (642)**. **Narasimhavarman II (Rajasimha)** builds **structural** temples: **Shore Temple** and **Kailasanatha, Kanchi**.
+
+</details>
+
+**Q7.** Why do Pallava temples matter, and what is the rock-cut vs structural trap?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** They set the **Dravida** sequence. Cave / mandapa is cut **into** the hill. A **ratha** is a **monolith** from one granite mass. A **structural** temple is assembled stone. **Rathas = Mamalla. Shore Temple = Rajasimha.** The great relief is **Descent of the Ganges / Arjuna’s Penance**. 2018 chronology: **Sapt Pagoda (rathas) → Shore → Brihadeeswara (1010) → Gangaikonda**.
+
+</details>
+
+---
+
+## Chalukyas of Badami
+
+**Q8.** Pulakeshin II, Harsha, Aihole, how does he fall?
+
+<details>
+<summary>Show answer</summary>
+
+**Capital: Vatapi / Badami.** **Pulakeshin II** stops **Harsha** on the **Narmada (~630)**. Boast = **Aihole inscription** of **Ravikirti** on the Meguti temple. **Xuanzang** also notes the barrier. Later **Narasimhavarman I** kills / overthrows him at Vatapi. Do not confuse Early Chalukya **Badami** with later Western Chalukya **Kalyani**.
+
+</details>
+
+**Q9.** Aihole, Badami caves, Pattadakal?
+
+<details>
+<summary>Show answer</summary>
+
+**Aihole** is the **laboratory / cradle** of temple forms. **Badami** caves show **Hindu, Jain, and Buddhist** work. **Pattadakal** mixes **Nagara and Dravida** on one UNESCO site. Deccan hybrid later labelled **Vesara**.
+
+</details>
+
+---
+
+## Rashtrakutas and Kannauj
+
+**Q10.** Founder, capital, Krishna I, Amoghavarsha?
+
+<details>
+<summary>Show answer</summary>
+
+**Dantidurga** founds the house. Capital **Manyakheta**. **Krishna I** cuts **Kailasa (Ellora Cave 16)** **top-down** from living rock. It is **Shaiva**, not a Buddhist chaitya, and not Elephanta. **Amoghavarsha I** is the long-reign scholar-king of Kannada ***Kavirajamarga***. 2025 trap: Amoghavarsha is **Rashtrakuta**, not Chola.
+
+</details>
+
+**Q11.** What was the Tripartite Struggle?
+
+<details>
+<summary>Show answer</summary>
+
+**Ans:** Fight for **Kannauj** among **Palas, Gurjara-Pratiharas, and Rashtrakutas**. Kannauj sits on the **Ganga–Yamuna doab** (UP) and is the north’s prestige prize. Rashtrakuta names: **Dhruva, Govinda III, Indra III**. Pratihara names: **Vatsaraja, Nagabhata II, Mihir Bhoja**. Pala name: **Dharmapala**. No house keeps it for good. The south cycle **Pallava → Chalukya → Rashtrakuta → Chola** is a **different** story.
+
+</details>
+
+---
+
+## Literature, society, later south
+
+**Q12.** Five great Tamil epics, and later south ruler–dynasty matches?
+
+<details>
+<summary>Show answer</summary>
+
+Epics (often post-Sangam): ***Silappadikaram, Manimekalai, Civaka Chintamani, Valayapathi, Kundalakesi.*** *Manimekalai* is the **Buddhist** sequel to Kannagi. **Kadungon** revives the **Pandyas** after the **Kalabhra** gap. **Rajaraja I** is **imperial Chola**, **Brihadeeswara**, **Thanjavur** — not Sangam. 2025 Q121: **Mahendravarman–Pallava, Kadungon–Pandya, Amoghavarsha–Rashtrakuta, Rajaraja–Chola**.
+
+</details>
+
+**Q13.** Sangam polity and hero stones?
+
+<details>
+<summary>Show answer</summary>
+
+King is *vendan*. Land tax **vari**. Customs **sungam**. Units **nadu** and **ur**. Sub-chiefs **velir**. **Nadukal** are hero stones for fallen warriors. Agriculture, especially **rice**, is the base. Women appear as poets and in economic life.
+
+</details>
+
+---
+
+## Rapid fire
+
+**Q14.** Capitals: Chera, Sangam Chola, later Chola, Pandya, Pallava, Badami Chalukya, Rashtrakuta.
+
+<details>
+<summary>Show answer</summary>
+
+**Vanji · Uraiyur · Thanjavur · Madurai · Kanchi · Vatapi/Badami · Manyakheta.**
+
+</details>
+
+**Q15.** Emblems Chera / Chola / Pandya. Then: Karikala, Senguttuvan, Mamalla, Pulakeshin II, Krishna I, Rajasimha, Amoghavarsha, Arikamedu.
+
+<details>
+<summary>Show answer</summary>
+
+**Bow · tiger · fish.** **Kallanai + Venni.** **Pepper + Pattini.** **Vatapi / Pulakeshin II.** **Harsha / Narmada.** **Kailasa Ellora.** **Shore Temple.** **Kavirajamarga.** **Roman amphorae.**
+
+</details>
+
+---
+
+## Extra locks
+
+**Q16.** Recite the UPPCS south chain.
+
+<details>
+<summary>Show answer</summary>
+
+**Harsha ↔ Pulakeshin II → Narmada.** **Mamalla → Vatapi.** **Krishna I → Kailasa.** **Rajasimha → Shore Temple.** **Amoghavarsha → Kavirajamarga.** **Karikala → Kallanai.** **Kannauj = Pala + Pratihara + Rashtrakuta.** 2019 capitals: **Pallava–Kanchi, Pandya–Madura.**
+
+</details>
