@@ -13,7 +13,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Rishabhanatha / Adinatha.** Symbol is the **bull**. Birth tradition places him at **Ayodhya (UP)**. Nirvana is linked with **Ashtapada**.
+**Ans: Rishabhanatha / Adinatha**, the first tirthankara. Symbol is the **bull**. Birth tradition places him at **Ayodhya (UP)**. Nirvana is linked with **Ashtapada**.
 
 </details>
 
@@ -22,7 +22,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Parshvanatha.** Symbol is the **serpent**. Tradition places him at **Varanasi**. He taught **four** vows. Mahavira added **Brahmacharya** as the fifth.
+**Ans: Parshvanatha**, the 23rd. Symbol is the **serpent**. Tradition places him at **Varanasi**. He taught **four** vows. Mahavira added **Brahmacharya** as the fifth.
 
 </details>
 
@@ -130,7 +130,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Anekantavada** = reality has **many sides**. **Syadvada** = **conditional predication** (“syat” / maybe, in a stated respect). Do not treat them as identical.
+**Ans: Anekantavada** means reality has **many sides**. **Syadvada** is how one *states* that, as **conditional predication** (“syat” / maybe, in a stated respect). Do not treat them as identical.
 
 </details>
 
@@ -166,7 +166,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Digambara** — sky-clad monks; women cannot attain moksha **as women**. **Svetambara** — white clothes; women **can**. Scriptures and nudity are the other splits.
+**Ans: Digambara** monks are sky-clad and hold that women cannot attain moksha **as women**. **Svetambara** monks wear white and hold that women **can**. Scriptures and nudity are the other splits.
 
 </details>
 
@@ -215,7 +215,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Lumbini** (Nepal; Ashokan pillar). Father **Suddhodana**, mother **Mahamaya**. Foster mother / first nun = **Mahapajapati Gotami**.
+**Ans: Lumbini** in Nepal, marked by an Ashokan pillar. Father is **Suddhodana**. Mother is **Mahamaya**. Foster mother and first nun is **Mahapajapati Gotami**.
 
 </details>
 
@@ -251,7 +251,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Sarnath / Isipatana / Mrigadava (Deer Park), Varanasi, UP.** **Dharmachakra Pravartana.** The five companions are the **Panchavargiya**. **Kaundinya** understood first.
+**Ans: Sarnath / Isipatana / Mrigadava (Deer Park), Varanasi, UP.** The sermon is **Dharmachakra Pravartana**. He taught the five former companions, the **Panchavargiya**. **Kaundinya** understood first.
 
 </details>
 
@@ -331,7 +331,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Vinaya** = monastic rules. **Tripitaka:** **Vinaya** (Upali), **Sutta** (Ananda), **Abhidhamma**. Language of the Theravada canon is **Pali**.
+**Ans: Vinaya** is monastic rules. The **Tripitaka** is **Vinaya** (Upali), **Sutta** (Ananda), and **Abhidhamma**. Language of the Theravada canon is **Pali**.
 
 </details>
 
@@ -380,7 +380,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Rajagriha → Vaishali → Pataliputra → Kundalavana.**
+**Ans: Rajagriha → Vaishali → Pataliputra → Kundalavana.** First is Rajagriha, not Vaishali.
 
 </details>
 
@@ -393,7 +393,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Theravada** — early Pali canon, **arhat** ideal. **Mahayana** — **bodhisattva** ideal, **Sanskrit**, Buddha-images and devotion. **Hinayana** (“lesser vehicle”) is a **polemical** Mahayana label; prefer **Theravada**. **Vajrayana** is later **tantra**.
+**Theravada** keeps the early Pali canon and the **arhat** ideal. **Mahayana** keeps the **bodhisattva** ideal, **Sanskrit** sutras, and Buddha-images. **Hinayana** (“lesser vehicle”) is a **polemical** Mahayana label; prefer **Theravada**. **Vajrayana** is later **tantra**.
 
 </details>
 
@@ -608,7 +608,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ananda** — attendant, Sutta reciter. **Upali** — Vinaya. **Devadatta** — schism. **Sariputta and Moggallana** — chief disciples.
+**Ananda** was the attendant and Sutta reciter. **Upali** held the Vinaya. **Devadatta** caused a schism. **Sariputta and Moggallana** were the chief disciples.
 
 </details>
 

@@ -60,25 +60,13 @@ Samaharta ≠ Sannidhata | Uparika = Gupta province | Sandhivigrahika = war-peac
 
 **Time-order spine | titles and inscriptions in the next two headings**
 
-- The Vedic start is the **rajan**. He is not an emperor.
-- Magadha houses run Haryanka, then Shishunaga, then Nanda.
-- Haryanka names to keep are **Bimbisara** and **Ajatashatru**.
-- Nanda names to keep are **Mahapadma** and **Dhana**.
-- The first pan-north machine is **Chandragupta Maurya**, about **322 BCE**.
-- Then comes **Bindusara**.
-- Then comes **Ashoka**.
-- The empire ends in **185 BCE** when **Pushyamitra Shunga** kills Brihadratha.
-- Post-Mauryan names papers keep include **Pushyamitra**.
-- **Kharavela** is the Kalinga name.
-- **Kanishka** is the Kushan name.
-- **Gautamiputra Satakarni** is the Deccan name.
-- The Gupta line, in order, is Sri Gupta, then Ghatotkacha, then **Chandragupta I**, then **Samudragupta**, then **Chandragupta II**, then Kumaragupta I, then **Skandagupta**.
-- Do not open that list at Chandragupta II.
-- The last ancient north reunion is **Harsha** of the Pushyabhuti house, **606–647**.
-- The capital shifts from Thanesar to Kannauj.
-- The best ID for a king is his **inscription**.
-- Coins come next.
-- Puranas come last.
+- The Vedic start is the **rajan**. He is a tribal chief, not an emperor. Magadha houses then run Haryanka, Shishunaga, and Nanda.
+- Haryanka names to keep are **Bimbisara** and **Ajatashatru**. Nanda names to keep are **Mahapadma** and **Dhana**.
+- The first pan-north machine is **Chandragupta Maurya**, about **322 BCE**. Then come **Bindusara** and **Ashoka**. The empire ends in **185 BCE** when **Pushyamitra Shunga** kills Brihadratha.
+- Post-Mauryan names papers keep include **Pushyamitra**, **Kharavela** of Kalinga, **Kanishka** the Kushan, and **Gautamiputra Satakarni** in the Deccan.
+- The Gupta line, in order, is Sri Gupta, then Ghatotkacha, then **Chandragupta I**, then **Samudragupta**, then **Chandragupta II**, then Kumaragupta I, then **Skandagupta**. Do not open that list at Chandragupta II.
+- The last ancient north reunion is **Harsha** of the Pushyabhuti house, **606–647**. The capital shifts from Thanesar to Kannauj.
+- The best ID for a king is his **inscription**. Coins come next. Puranas come last.
 
 | Kind | Examples | Exam use |
 |------|----------|----------|
@@ -99,28 +87,14 @@ Samaharta ≠ Sannidhata | Uparika = Gupta province | Sandhivigrahika = war-peac
 
 **Match-list home | title is not the personal name**
 
-- The Vedic chief is **Rajan**.
-- A Later Vedic wider claim is **Samrat** or **Ekarat**.
-- **Mahapadma Nanda** is **Ekarat** and **Sarvakshatrantaka**.
-- **Chandragupta Maurya** is Greek **Sandrokottos**.
-- **Bindusara** is **Amitraghata / Amitrochates**.
-- **Ashoka** is **Devanampiya Piyadassi** on most edicts.
-- Ashoka’s personal name appears at **Maski**.
-- It also appears at Gujarra, Nittur, and Udegolam.
-- **Kanishka** is **Devaputra**.
-- **Gautamiputra Satakarni** is **Dakshinapathapati**.
-- **Kharavela** is **Mahameghavahana** of the Chedi line.
-- **Rudradaman I** is **Mahakshatrapa**.
-- **Sri Gupta** and **Ghatotkacha** are **Maharaja** only.
-- **Chandragupta I** is the first Gupta **Maharajadhiraja**.
-- **Samudragupta** is Maharajadhiraja and *kaviraja*. Digvijaya is the **policy**, not a coin-title.
-- **Chandragupta II** is **Vikramaditya**.
-- **Kumaragupta I** is **Mahendraditya**.
-- **Skandagupta** is **Kramaditya** or Vikramaditya on some types.
-- **Harsha** is Chinese **Siladitya**. He is also Paramabhattaraka.
-- A Gupta or Harsha feudatory is **Samanta** or **Mahasamanta**.
-- **Chakravartin** is the ideal wheel-turning monarch. It is not one king’s exclusive stamp.
-- Title inflation grows from Gupta grants onward.
+- The Vedic chief is **Rajan**. A Later Vedic wider claim is **Samrat** or **Ekarat**. **Mahapadma Nanda** is **Ekarat** and **Sarvakshatrantaka**.
+- **Chandragupta Maurya** is Greek **Sandrokottos**. **Bindusara** is **Amitraghata / Amitrochates**.
+- **Ashoka** is **Devanampiya Piyadassi** on most edicts. His personal name appears at **Maski**, then at Gujarra, Nittur, and Udegolam.
+- **Kanishka** is **Devaputra**. **Gautamiputra Satakarni** is **Dakshinapathapati**. **Kharavela** is **Mahameghavahana** of the Chedi line. **Rudradaman I** is **Mahakshatrapa**.
+- **Sri Gupta** and **Ghatotkacha** are **Maharaja** only. **Chandragupta I** is the first Gupta **Maharajadhiraja**.
+- **Samudragupta** is Maharajadhiraja and *kaviraja*. Digvijaya is the **policy**, not a coin-title. **Chandragupta II** is **Vikramaditya**. **Kumaragupta I** is **Mahendraditya**. **Skandagupta** is **Kramaditya** or Vikramaditya on some types.
+- **Harsha** is Chinese **Siladitya**. He is also Paramabhattaraka. A Gupta or Harsha feudatory is **Samanta** or **Mahasamanta**.
+- **Chakravartin** is the ideal wheel-turning monarch. It is not one king’s exclusive stamp. Title inflation grows from Gupta grants onward.
 
 > **Exam note:** Vikramaditya is not Samudragupta. Devanampiya is not Harsha.
 
@@ -146,28 +120,18 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Master match | this is the 2018 / 2022 home**
 
-- **Ashoka** issues Major and Minor Rock Edicts and Pillar edicts. The personal name is rare. It appears at **Maski**.
-- Ashoka’s **Rummindei** pillar records the Lumbini visit.
+- **Ashoka** issues Major and Minor Rock Edicts and Pillar edicts. The personal name is rare. It appears at **Maski**. His **Rummindei** pillar records the Lumbini visit.
 - **Girnar / Junagadh** carries Ashoka, then Rudradaman, then Skandagupta. Three ages sit on **one** rock.
-- **Pushyamitra Shunga** is recorded at **Ayodhya** for two **ashwamedhas**. **2018 Q91** keys **C**.
-- **Heliodorus** raises the **Besnagar** Bhagavata pillar. It is **not** Pushyamitra.
+- **Pushyamitra Shunga** is recorded at **Ayodhya** for two **ashwamedhas**. **2018 Q91** keys **C**. **Heliodorus** raises the **Besnagar** Bhagavata pillar. It is **not** Pushyamitra.
 - **Kharavela** is recorded at **Hathigumpha**, Udayagiri. **2018 Q16** keys **A**. Harsha is trap C.
-- **Gautamiputra Satakarni** is recorded in the **Nasik** prasasti of Gautami Balashri. He beats Nahapana.
-- **Naganika** is recorded at **Naneghat**, with Satakarni I.
-- **Rudradaman I** writes Junagadh Sanskrit prose on the Sudarsana lake repair.
-- **Kanishka** has the **Rabatak** genealogy.
-- **Samudragupta** has the **Prayag Prashasti** of Harishena, on the **Allahabad** Ashokan shaft.
-- Samudragupta also has the **Gaya** copper plate. That is the **2022 trap**. It is not Sarvavarman.
-- **Chandragupta II** is the usual key for the **Mehrauli** iron pillar’s “Chandra.”
-- **Skandagupta** has the **Bhitari** pillar for the Huna war.
-- Skandagupta also appears at Girnar for the Sudarsana repair after Rudradaman.
-- **Ishanavarman** has **Haraha** at Barabanki, **554 CE**.
-- **Ishvaravarman** has the **Jaunpur** stone. The 2022 pair is correct.
-- **Jivitagupta II** has **Deo-Baranark**. The 2022 pair is correct.
+- **Gautamiputra Satakarni** is recorded in the **Nasik** prasasti of Gautami Balashri. He beats Nahapana. **Naganika** is recorded at **Naneghat**, with Satakarni I.
+- **Rudradaman I** writes Junagadh Sanskrit prose on the Sudarsana lake repair. **Kanishka** has the **Rabatak** genealogy.
+- **Samudragupta** has the **Prayag Prashasti** of Harishena, on the **Allahabad** Ashokan shaft. He also has the **Gaya** copper plate. That is the **2022 trap**. It is not Sarvavarman.
+- **Chandragupta II** is the usual key for the **Mehrauli** iron pillar’s “Chandra.” **Skandagupta** has the **Bhitari** pillar for the Huna war and also appears at Girnar for the Sudarsana repair after Rudradaman.
+- **Ishanavarman** has **Haraha** at Barabanki, **554 CE**. **Ishvaravarman** has the **Jaunpur** stone. **Jivitagupta II** has **Deo-Baranark**. Those three 2022 pairs are correct.
 - **Sarvavarman** has the **Asirgarh** seal. He does **not** have the Gaya plate.
 - **Pulakeshin II** has **Aihole**, composed by Ravikirti. It records the stop of Harsha.
-- **Harsha** has **Banskhera**, with a signature.
-- Harsha also has **Madhuban**, a grant.
+- **Harsha** has **Banskhera**, with a signature, and **Madhuban**, a grant.
 
 **PYQ — UPPCS Prelims 2018, Q16**
 
@@ -239,14 +203,9 @@ D. Ishwaravarman — Jaunpur stone inscription
 **Vedic tribal → Mauryan machine → Gupta/Harsha samanta | officials are the paper**
 
 - Vedic core officers are the **rajan**, the **purohita**, the **senani**, and the **gramani**.
-- The **bhagadugha** collects revenue, the king’s **bhaga**. **2023 Q26** keys **D**.
-- The **sangrahitri** is the treasurer.
-- The **akshavapa** is dice and gambling. That is 2023 option **C**.
-- The **Sabha** is the smaller assembly of elders.
-- The **Samiti** is the larger tribal body.
-- The **Vidatha** is the kin-ritual gathering.
-- There is no Samaharta in the Vedic list.
-- There is no Uparika in the Vedic list. Those names start with Maurya and Gupta.
+- The **bhagadugha** collects revenue, the king’s **bhaga**. **2023 Q26** keys **D**. The **sangrahitri** is the treasurer. The **akshavapa** is dice and gambling. That is 2023 option **C**.
+- The **Sabha** is the smaller assembly of elders. The **Samiti** is the larger tribal body. The **Vidatha** is the kin-ritual gathering.
+- There is no Samaharta and no Uparika in the Vedic list. Those names start with Maurya and Gupta.
 
 **PYQ — UPPCS Prelims 2023, Q26**
 
@@ -266,16 +225,11 @@ D. Revenue Collector
 
 **Mauryan**
 
-- Mauryan administration is centralised.
-- Officers are salaried **amatyas**.
-- The **samaharta** is collector-general.
-- The **sannidhata** is treasurer.
-- The **rajuka** does land assessment and justice.
+- Mauryan administration is centralised. Officers are salaried **amatyas**.
+- The **samaharta** is collector-general. The **sannidhata** is treasurer. The **rajuka** does land assessment and justice.
 - The **agronomai** are Megasthenes’ rural officers. **2020 Q4** keys **D**, revenue. Roads are the trap.
-- The **dhamma-mahamatra** appears in Rock Edict V, in the **14th** year.
-- **2024 Q20** keys **Only 2 (D)**. Statement 1, that Rahulovada is Ashoka’s dhamma definition, is **false**.
-- Kautilya’s **saptanga** has seven limbs: swami, amatya, janapada, durga, kosha, bala, and mitra.
-- Adhyakshas are department heads under that machine.
+- The **dhamma-mahamatra** appears in Rock Edict V, in the **14th** year. **2024 Q20** keys **Only 2 (D)**. Statement 1, that Rahulovada is Ashoka’s dhamma definition, is **false**.
+- Kautilya’s **saptanga** has seven limbs: swami, amatya, janapada, durga, kosha, bala, and mitra. Adhyakshas are department heads under that machine.
 
 **PYQ — UPPCS Prelims 2020, Q4**
 
@@ -311,20 +265,13 @@ A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
 
 **Gupta**
 
-- Gupta administration is looser.
-- A **samanta** sends tribute and troops.
-- The province is **bhukti**, under an **uparika**.
-- The district is **vishaya**, under a **kumaramatya** or ayuktaka.
-- The **sandhivigrahika** handles peace and war.
+- Gupta administration is looser. A **samanta** sends tribute and troops.
+- The province is **bhukti**, under an **uparika**. The district is **vishaya**, under a **kumaramatya** or ayuktaka. The **sandhivigrahika** handles peace and war.
 - They did **not** invent a tighter spy-state than the Mauryas.
 
 **Harsha**
 
-- Harsha reuses Gupta titles.
-- The **mahasandhivigrahika** is the foreign minister.
-- The **mahapratihara** is the chamberlain.
-- The **bhandagaradhikarana** is the treasury.
-- He still uses the **uparika**.
+- Harsha reuses Gupta titles. The **mahasandhivigrahika** is the foreign minister. The **mahapratihara** is the chamberlain. The **bhandagaradhikarana** is the treasury. He still uses the **uparika**.
 - The state is personal. It dies in 647.
 
 | Period | Revenue lock | Province / district | War-peace |

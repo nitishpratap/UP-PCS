@@ -58,12 +58,17 @@ UP Later Vedic: Kuru–Panchala, Kosala, Kashi | Hastinapur, Atranjikhera, Ahich
 
 **Indo-Aryan culture of Vedic Sanskrit texts | Early ~1500–1000 BCE | Later ~1000–600 BCE**
 
-- **Rigvedic / Early Vedic** heartland = **Sapta Sindhu** (Punjab–NW): Sindhu, Vitasta (Jhelum), Asikni (Chenab), Parushni (Ravi), Vipas (Beas), Sutudri (Sutlej), Saraswati.
-- **Later Vedic** shift **east** into the **Ganga–Yamuna doab** (western–central UP), then Kosala, Kashi, Videha.
-- Archaeological marker of Later Vedic = **Painted Grey Ware (PGW)** ~1100–600 BCE + **iron**. No Harappan-style cities in Early Vedic.
-- **Ayas** in Rigveda = copper/bronze. Iron = **shyama / krishna ayas** in Later Vedic texts.
-- Language: **Vedic Sanskrit** (older than Panini’s Classical Sanskrit).
-- Ends ~600 BCE → Mahajanapadas, Buddhism, Jainism (next topics). Not a “Vedic empire.”
+- The **Early / Rigvedic** heartland is **Sapta Sindhu**, the north-west Punjab belt.
+- The seven rivers are **Sindhu** (Indus), **Vitasta** (Jhelum), **Asikni** (Chenab), **Parushni** (Ravi), **Vipas** (Beas), **Sutudri** (Sutlej), and **Saraswati**.
+- **Later Vedic** culture shifts **east** into the **Ganga–Yamuna doab** of western–central UP.
+- It then reaches **Kosala**, **Kashi**, and **Videha**.
+- The archaeological marker of Later Vedic is **Painted Grey Ware (PGW)**, about **1100–600 BCE**, with **iron**.
+- Early Vedic has **no** Harappan-style cities.
+- **Ayas** in the Rigveda means copper or bronze, not iron.
+- Iron appears as **shyama ayas** or **krishna ayas** in Later Vedic texts.
+- The language is **Vedic Sanskrit**, older than Panini’s Classical Sanskrit.
+- The Vedic age ends around **600 BCE**. Mahajanapadas, Buddhism, and Jainism follow.
+- There was **no** Vedic empire.
 
 > **Exam note:** Rigvedic = **northwest pastoral**. Later Vedic = **Gangetic agrarian**. Trap: “Vedic period = only UP.”
 
@@ -162,7 +167,8 @@ D. 4 3 1 2
 - About sixteen samskaras appear in later lists.
 - Land grants to priests (**brahmadeya**) start the landlord pattern.
 - Assemblies weaken. The king claims more.
-- Thought shifts from ritual Brahmanas to forest Aranyakas to **Upanishads**, which put jnana over yajna.
+- Thought shifts from ritual Brahmanas to forest Aranyakas.
+- It then reaches the **Upanishads**, which put jnana over yajna.
 
 > **Exam note:** “Women equal throughout the Vedic age” is false. The decline is **Later Vedic**.
 
@@ -173,7 +179,9 @@ D. 4 3 1 2
 **Rajan + purohita + senani core | Later Vedic adds revenue staff | no Mauryan bureaucracy**
 
 - The **rajan** is the chief or king.
-- In Later Vedic he is **hereditary**, with a divine aura and a bigger household of **ratnins** (jewel-officers at consecration).
+- In Later Vedic he becomes **hereditary**.
+- He takes a divine aura.
+- A household of **ratnins**, the jewel-officers of consecration, grows around him.
 - The **purohita** is chief priest and political adviser.
 - **Vasishtha** served Sudas as purohita.
 - **Visvamitra** is the rival priest in that tradition.
@@ -188,7 +196,8 @@ D. 4 3 1 2
 - The **suta** is the charioteer or bard.
 - The **kshattri** is another ratnin.
 - The **takshan** is the carpenter.
-- **Govikartana** and **Palagala** also appear in ratnin lists.
+- **Govikartana** appears in ratnin lists.
+- **Palagala** also appears in ratnin lists.
 - **Bali** is tribute.
 - **Bhaga** is the king’s share.
 - Later **shulka** is a toll.
@@ -219,12 +228,20 @@ D. Revenue Collector
 
 **Cattle-wealth · barter · barley · no coins · no iron plough**
 
-- Wealth counted in **cows**. **Gavishti** is economic war, not a tax.
-- Agriculture **secondary**: **yava** (barley) known. Wheat (**godhuma**) and rice become important **later**, with iron plough.
-- **Barter.** **Nishka** = gold necklace used as a **value standard** — **not** a coin. **Hiranya** = gold. No punch-marked coins yet.
-- Crafts: copper/bronze, leather, pottery, **chariot**-making. Soma plant brought from mountains for ritual.
-- No private landed estate as in Later Vedic grants. Pasture is tribal.
-- **Dakshina** = gift to the priest after yajna — not a land-revenue department.
+- Wealth is counted in **cows**.
+- **Gavishti** is a cattle-raid, not a tax.
+- Agriculture exists but is **secondary**.
+- **Yava** (barley) is known in Early Vedic.
+- Wheat (**godhuma**) and rice become important **later**, with the iron plough.
+- Exchange is by **barter**.
+- **Nishka** is a gold necklace used as a **value standard**. It is **not** a coin.
+- **Hiranya** means gold.
+- There are **no** punch-marked coins yet.
+- Crafts include copper and bronze work, leather, pottery, and **chariot**-making.
+- The soma plant is brought from the mountains for ritual.
+- There is no private landed estate of the Later Vedic grant type.
+- Pasture is tribal.
+- **Dakshina** is a gift to the priest after yajna. It is not a land-revenue department.
 
 > **Exam note:** Trap — “nishka was a gold coin of the Rigvedic age.”
 
@@ -234,13 +251,22 @@ D. Revenue Collector
 
 **Early: tribe + three assemblies check the rajan | Later: hereditary king + royal yajnas**
 
-- Political unit: vis / jana → later **janapada**. No written constitution; custom + **dharma**.
-- Standing army absent; tribal **sena** under senani.
-- **Battle of Ten Kings (Dasarajna):** Bharata king **Sudas** (Tritsu), priest **Vasishtha**, defeats a ten-king coalition on the **Parushni (Ravi)**. Visvamitra is on the opposite side in the tradition. Core **Rigvedic** political event.
-- Later Vedic kingship is sold through big sacrifices: **Rajasuya** (consecration), **Ashvamedha** (horse — territorial claim), **Vajapeya**.
-- Some tribes keep **gana / sangha** (oligarchy) habits — later Vajji / Licchavi echo this (Mahajanapada topic).
+- The political unit is the vis and the jana.
+- Later it becomes a **janapada**.
+- There is no written constitution. Custom and **dharma** rule.
+- There is no standing army. A tribal **sena** fights under the senani.
+- The **Battle of Ten Kings (Dasarajna)** is the core **Rigvedic** political event.
+- Bharata king **Sudas** of the Tritsu line wins on the **Parushni (Ravi)**.
+- His priest is **Vasishtha**.
+- He defeats a ten-king coalition.
+- **Visvamitra** stands on the opposite side in that tradition.
+- Later Vedic kingship is advertised through big sacrifices.
+- **Rajasuya** is consecration.
+- **Ashvamedha** is the horse sacrifice that claims territory.
+- **Vajapeya** is another royal rite.
+- Some tribes keep **gana / sangha** oligarchy habits. Later Vajji and Licchavi echo this.
 
-> **Exam note:** Assemblies strong in Rigvedic; **king strong** in Later Vedic. Sabha / Samiti / Vidatha each have their own home below — do not merge them.
+> **Exam note:** Assemblies are strong in Rigvedic times. The **king is strong** in Later Vedic. Do not merge Sabha, Samiti, and Vidatha.
 
 ---
 
@@ -248,13 +274,16 @@ D. Revenue Collector
 
 **Smaller assembly of elders / nobles | advice + disputes**
 
-- Select gathering, not the whole tribe. Advises the rajan; handles **disputes** (more judicial than Samiti).
-- **Rigvedic:** women could be present (**sabhavati / sabha vadhu** in hymns).
-- **Later Vedic:** elite-male club; women out; king less bound by it.
-- Later literature also uses *sabha* for a **gambling hall** — social, not the early political body.
-- **Not** Lok Sabha, Rajya Sabha, or 73rd-Amendment **Gram Sabha**.
+- It is a select gathering, not the whole tribe.
+- It advises the rajan.
+- It handles **disputes** and is more judicial than the Samiti.
+- In **Rigvedic** hymns women could be present as **sabhavati** or **sabha vadhu**.
+- In **Later Vedic** it becomes an elite-male club.
+- Women drop out. The king is less bound by it.
+- Later literature also uses *sabha* for a **gambling hall**. That is a social hall, not the early political body.
+- It is **not** Lok Sabha, Rajya Sabha, or the 73rd-Amendment **Gram Sabha**.
 
-> **Exam note:** Sabha = **elders**; Samiti = **people**.
+> **Exam note:** Sabha means **elders**. Samiti means the **people**.
 
 ---
 
@@ -262,10 +291,12 @@ D. Revenue Collector
 
 **General tribal assembly | broader than Sabha | elects / confirms the rajan**
 
-- Freemen of the jana. War, migration, and **king-making** sit here in Early Vedic.
-- Paired with Sabha as a check on the chief. Popular, not oligarchic.
-- Women: little or no Samiti role (contrast early Sabha / Vidatha).
-- Later Vedic hereditary succession **kills** its electoral job; the body fades.
+- It is the assembly of the freemen of the jana.
+- War, migration, and **king-making** sit here in Early Vedic.
+- Together with the Sabha it checks the chief.
+- It is popular, not oligarchic.
+- Women have little or no Samiti role. Early Sabha and Vidatha are more open.
+- Later Vedic hereditary succession **kills** its electoral job. The body fades.
 
 > **Exam note:** Trap — “Samiti = Rajya Sabha.” Zero link.
 
@@ -275,12 +306,16 @@ D. Revenue Collector
 
 **Oldest of the three | ritual + distribution + women | disappears first**
 
-- Syllabus spelling **Vidhata**; standard in books **Vidatha**. Same institution.
-- Hymns show it as a **wide gathering**: feast, **share-out of booty**, soma, and martial talk — not a law-court (that leans Sabha).
-- **Women** sing and attend. More inclusive than Later Vedic Sabha.
-- **First assembly to vanish** from Later Vedic texts. If a question asks which faded earliest → this one.
+- The syllabus spelling is **Vidhata**. Standard books say **Vidatha**. It is the same institution.
+- Hymns show it as a **wide gathering**.
+- It holds a feast, a **share-out of booty**, soma, and martial talk.
+- It is not a law-court. Disputes lean toward the Sabha.
+- **Women** sing and attend.
+- It is more inclusive than the Later Vedic Sabha.
+- It is the **first assembly to vanish** from Later Vedic texts.
+- If a question asks which faded earliest, the answer is Vidatha.
 
-> **Exam note:** Vidatha ≠ Sabha. Economic / ritual gathering, not the nobles’ council.
+> **Exam note:** If a question asks which assembly faded earliest, the answer is Vidatha.
 
 ---
 
@@ -288,11 +323,16 @@ D. Revenue Collector
 
 **Oral Shruti | four layers per Veda | written down much later**
 
-- **Shruti** (“heard”): Samhita + Brahmana + Aranyaka + Upanishad. **Smriti** is later remembered law — not this topic’s core.
-- Order of growth: **Samhita** (mantra) → **Brahmana** (ritual prose) → **Aranyaka** (forest / symbol) → **Upanishad** (philosophy).
-- Kept by **guru–shishya** recitation. **Shakhas** = recension schools.
-- Rigveda oldest. Atharva and the prose layers younger. Later Vedic books take shape in **Kuru–Panchala / Videha** (east).
-- **Sayana** (14th c. Vijayanagara) commented on the Vedas — **medieval**, not Vedic-age.
+- **Shruti** means “that which is heard.”
+- It covers Samhita, Brahmana, Aranyaka, and Upanishad.
+- **Smriti** is later remembered law. It is not the core of this chapter.
+- Growth order is **Samhita** (mantra), then **Brahmana** (ritual prose), then **Aranyaka** (forest and symbol), then **Upanishad** (philosophy).
+- The corpus is kept by **guru–shishya** recitation.
+- **Shakhas** are recension schools.
+- The Rigveda is the oldest Veda.
+- The Atharvaveda and the prose layers are younger.
+- Later Vedic books take shape in **Kuru–Panchala** and **Videha** in the east.
+- **Sayana** of fourteenth-century Vijayanagara commented on the Vedas. He is **medieval**, not Vedic-age.
 
 > **Exam note:** Vedas were **not** “published on paper” in 1500 BCE. Oral first.
 
@@ -302,21 +342,32 @@ D. Revenue Collector
 
 **Rig · Sama · Yajur · Atharva | each has a Samhita core**
 
-- **Rigveda** — oldest.
-- **1028** hymns (**1017 + 11 Valakhilya**). **10 mandalas**.
-- **II–VII** = family books (oldest).
-- **IX** = Soma.
-- **I and X** = latest. Purusha Sukta lives in X.
-- **Gayatri** = RV **III.62.10** (Savitr; Vishvamitra).
-- Nasadiya Sukta (creation) is in X.
-- **Samaveda** — **melodies (saman)** for Soma ritual.
-- Most Samaveda verses are lifted from Rigveda. Priest = **Udgatri**.
-- **Yajurveda** — **yajus**, the adhvaryu’s sacrificial handbook.
-  - **Shukla (White):** mantra and Brahmana **kept apart**. Samhita = **Vajasaneyi** (Madhyandina, Kanva). UPPCS 2018 prints **Vajasanami** — same name, OCR/spelling. **Answer A.**
-  - **Krishna (Black):** mantra and prose **mixed**. Samhitas = **Taittiriya, Kathaka, Maitrayani** (and Kapishthala in some lists). 2018 B, C, D are all **Krishna**.
-- **Atharvaveda** — newest of the four. **20** books: spells, healing, household life, early **iron** hints. Priest = **Brahman** (supervisor). Everyday religion, not only royal yajna.
-- Four ritual priests: **Hotri** (Rig), **Udgatri** (Sama), **Adhvaryu** (Yajur), **Brahman** (Atharva / overall).
-- Traditional compiler: **Vyasa**.
+- The **Rigveda** is the oldest Veda.
+- It has about **1028** hymns, counted as **1017 plus 11 Valakhilya**.
+- It is arranged in **10 mandalas**.
+- Mandalas **II–VII** are the family books and the oldest core.
+- Mandala **IX** is the Soma book.
+- Mandalas **I and X** are the latest.
+- The **Purusha Sukta** lives in Mandala X.
+- The **Gayatri Mantra** is RV **III.62.10**.
+- It is addressed to **Savitr**. The seer is **Vishvamitra**.
+- The Nasadiya Sukta, the creation hymn, is also in Mandala X.
+- The **Samaveda** is a book of **melodies (saman)** for the Soma ritual.
+- Most Samaveda verses are lifted from the Rigveda.
+- The Samaveda priest is the **Udgatri**.
+- The **Yajurveda** is a book of **yajus**. It is the adhvaryu’s sacrificial handbook.
+- **Shukla (White) Yajurveda** keeps mantra and Brahmana **apart**.
+- Its Samhita is **Vajasaneyi**, with Madhyandina and Kanva schools.
+- UPPCS 2018 prints **Vajasanami**. That is the same name. The answer is **A**.
+- **Krishna (Black) Yajurveda** mixes mantra and prose.
+- Its Samhitas are **Taittiriya**, **Kathaka**, and **Maitrayani**. Some lists add Kapishthala.
+- In 2018, options B, C, and D are all **Krishna**.
+- The **Atharvaveda** is the newest of the four.
+- It has **20** books of spells, healing, and household life, with early **iron** hints.
+- Its priest is the **Brahman**, the supervisor of the rite.
+- It is everyday religion, not only royal yajna.
+- The four ritual priests are the **Hotri** of the Rigveda, the **Udgatri** of the Samaveda, the **Adhvaryu** of the Yajurveda, and the **Brahman** of the Atharvaveda overall.
+- Traditional compiler of the Vedas is **Vyasa**.
 
 > **Exam note:** 2018 Q13 — Shukla = **Vajasaneyi**. Taittiriya / Maitrayani / Kathak = **Krishna**.
 
@@ -350,11 +401,15 @@ D. Kathak
 | Taittiriya | Krishna Yajurveda |
 | **Gopatha** (only one) | Atharvaveda |
 
-- Fix **how** to perform the sacrifice and **why** the myth says so. Priest roles, varna duties, royal rites (**Rajasuya** in Aitareya; **Ashvamedha** in Shatapatha).
-- **Shatapatha** also carries the Videha / eastward-expansion story (Mathava + Videgha).
-- Later Vedic Sanskrit **prose**. Bridge toward Aranyakas.
+- Brahmanas fix **how** to perform the sacrifice and **why** the myth says so.
+- They set priest roles and varna duties.
+- **Rajasuya** is treated in the Aitareya Brahmana.
+- **Ashvamedha** is treated in the Shatapatha Brahmana.
+- The **Shatapatha** also carries the Videha eastward-expansion story of Mathava and Videgha.
+- The language is Later Vedic Sanskrit **prose**.
+- They are the bridge toward Aranyakas.
 
-> **Exam note:** “Brahmanas are collections of hymns” → false. Hymns = Samhita.
+> **Exam note:** Brahmanas are **not** collections of hymns. Hymns sit in the Samhita.
 
 ---
 
@@ -362,12 +417,18 @@ D. Kathak
 
 **“Forest books” | symbol over public fire-altar | hinge to Upanishads**
 
-- Meant for **vanaprastha** hermits — quieter, inward reading of ritual.
-- Main names: **Aitareya Aranyaka** (Rig), **Taittiriya Aranyaka** (Krishna Yajur). **Brihadaranyaka** sits on the Shatapatha / Shukla line and **is also an Upanishad**.
-- Not every Veda has a fat separate Aranyaka. Atharva is thin here.
-- Secretive, not village public cult.
+- They are meant for **vanaprastha** hermits.
+- They give a quieter, inward reading of ritual.
+- The **Aitareya Aranyaka** belongs to the Rigveda.
+- The **Taittiriya Aranyaka** belongs to the Krishna Yajurveda.
+- The **Brihadaranyaka** sits on the Shatapatha / Shukla line.
+- The Brihadaranyaka **is also an Upanishad**.
+- Not every Veda has a fat separate Aranyaka.
+- The Atharvaveda is thin here.
+- The teaching is secretive. It is not the village public cult.
 
-> **Exam note:** Aranyaka ≠ Brahmana (forest / symbol vs public yajna prose). Aranyaka ≠ Upanishad (though Brihadaranyaka overlaps).
+> **Exam note:** An Aranyaka is not a Brahmana. Forest symbol is not public yajna prose.
+> An Aranyaka is not an Upanishad, though the Brihadaranyaka overlaps.
 
 ---
 
@@ -375,14 +436,21 @@ D. Kathak
 
 **Vedanta — Brahman and Atman | jnana over outer yajna**
 
-- Traditional **108**; **principal / early** ones exams use: Brihadaranyaka, Chandogya, Isha, Kena, Katha, Mundaka, Mandukya, Prashna, Taittiriya, Aitareya (Svetasvatara often added).
-- **Tat Tvam Asi** — **Chandogya** (Uddalaka Aruni → Shvetaketu).
-- **Yajnavalkya–Maitreyi** (and Gargi) — **Brihadaranyaka** (Shukla Yajurveda).
-- **Nachiketa–Yama** — **Katha**.
-- **Mandukya** — shortest; **Om / AUM**; four states of consciousness.
-- **Janaka of Videha** patronises debates. Date-band ~800–600 BCE, eastern courts.
+- Tradition counts **108** Upanishads.
+- Exams use the principal early set: Brihadaranyaka, Chandogya, Isha, Kena, Katha, Mundaka, Mandukya, Prashna, Taittiriya, and Aitareya.
+- **Svetasvatara** is often added to that list.
+- **Tat Tvam Asi** is taught in the **Chandogya**.
+- Uddalaka Aruni speaks it to Shvetaketu.
+- The **Yajnavalkya–Maitreyi** dialogue is in the **Brihadaranyaka**.
+- **Gargi** also debates there.
+- The Brihadaranyaka belongs to the Shukla Yajurveda.
+- The **Nachiketa–Yama** story is in the **Katha Upanishad**.
+- The **Mandukya** is the shortest.
+- It teaches **Om / AUM** and the four states of consciousness.
+- **Janaka of Videha** patronises these debates.
+- The date-band is about **800–600 BCE**, in eastern courts.
 
-> **Exam note:** Upanishads **question** big public yajna. They are **Shruti**, **not** a Vedanga.
+> **Exam note:** Upanishads **question** big public yajna. They are **Shruti**. They are **not** a Vedanga.
 
 ---
 

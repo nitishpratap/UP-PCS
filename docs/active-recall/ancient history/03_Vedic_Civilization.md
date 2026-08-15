@@ -13,7 +13,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: About 1500–1000 BCE** (Rigvedic). Economy type in match-lists = **Pastoral** (2020 Q21).
+**Ans: About 1500–1000 BCE.** This is the Rigvedic age. Match-lists call the economy **Pastoral**.
 
 </details>
 
@@ -22,7 +22,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: About 1000–600 BCE.** Economy type = **Agrarian**. Marker pottery is **PGW**, not NBPW.
+**Ans: About 1000–600 BCE.** Match-lists call the economy **Agrarian**. Marker pottery is **PGW**, not NBPW.
 
 </details>
 
@@ -40,7 +40,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Rigveda** — about **1028** hymns in **10 mandalas**.
+**Ans: The Rigveda.** It has about **1028** hymns in **10 mandalas**.
 
 </details>
 
@@ -49,7 +49,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Samaveda.** Most verses are taken from the Rigveda and set to chant.
+**Ans: The Samaveda.** Most of its verses are taken from the Rigveda and set to chant.
 
 </details>
 
@@ -67,7 +67,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Yajurveda.** **Shukla** Yajurveda = **Vajasaneyi** (mantra and prose separate). **Krishna** Yajurveda = Taittiriya, Kathaka, Maitrayani (mixed). UPPCS 2018 keys Vajasaneyi / Vajasanami.
+**Ans: The Yajurveda.** **Shukla** Yajurveda is **Vajasaneyi**, with mantra and prose kept separate. **Krishna** Yajurveda mixes them in Taittiriya, Kathaka, and Maitrayani. UPPCS 2018 keys Vajasaneyi / Vajasanami.
 
 </details>
 
@@ -76,7 +76,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Brahmanas, Aranyakas, and Upanishads.** Order: Samhita → Brahmana → Aranyaka → Upanishad.
+**Ans: Brahmanas, Aranyakas, and Upanishads.** Growth order is Samhita, then Brahmana, then Aranyaka, then Upanishad.
 
 </details>
 
@@ -94,7 +94,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Forest texts** — symbolic ritual, a bridge from Brahmana ritualism toward Upanishadic thought.
+**Ans: Forest texts.** They give a symbolic reading of ritual and bridge Brahmana ritualism toward Upanishadic thought.
 
 </details>
 
@@ -103,7 +103,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Philosophical texts** on **Atman** and **Brahman**. They are the **Vedanta**, the end of the Veda.
+**Ans: Philosophical texts on Atman and Brahman.** They are the **Vedanta**, the end of the Veda.
 
 </details>
 
@@ -125,7 +125,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Rigveda** (Mandala **3**, Vishvamitra).
+**Ans: The Rigveda**, Mandala **3**. The seer is Vishvamitra.
 
 </details>
 
@@ -134,7 +134,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Savitr / Savitri**, a solar deity.
+**Ans: Savitr**, also called Savitri. He is a solar deity.
 
 </details>
 
@@ -143,7 +143,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Mandalas 2–7** — the oldest core. Mandala **9** is **Soma**. Mandalas **1 and 10** are the latest.
+**Ans: Mandalas 2–7**, the oldest core. Mandala **9** is the **Soma** book. Mandalas **1 and 10** are the latest.
 
 </details>
 
@@ -152,7 +152,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Mandala 10** (X.90) — a **late** hymn. Do not treat Early Vedic society as already a closed caste cage.
+**Ans: Mandala 10** (X.90). It is a **late** hymn. Do not treat Early Vedic society as already a closed caste cage.
 
 </details>
 
@@ -170,7 +170,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Ramayana and Mahabharata.** They are **Smriti**, not Shruti.
+**Ans: The Ramayana and the Mahabharata.** They are **Smriti**, not Shruti.
 
 </details>
 
@@ -188,7 +188,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: “That which is heard”** — revealed Veda (Samhita to Upanishad). **Smriti** is remembered later dharma and epic literature.
+**Ans: “That which is heard.”** It is the revealed Veda from Samhita to Upanishad. **Smriti** is later remembered dharma and epic literature.
 
 </details>
 
@@ -201,7 +201,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: North-west / Sapta Sindhu** (Punjab–NW). Trap: “Vedic period = only UP.” UP is mainly **Later Vedic**.
+**Ans: The north-west / Sapta Sindhu**, the Punjab–NW belt. The trap is “Vedic period means only UP.” UP is mainly **Later Vedic**.
 
 </details>
 
@@ -219,7 +219,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Sindhu (Indus), Vitasta (Jhelum), Asikni (Chenab), Parushni (Ravi), Vipas / Vipasha (Beas), Sutudri / Shutudri (Sutlej), Saraswati.** Yamuna and Ganga appear, but they are not the Early heartland.
+**Ans: Sindhu (Indus), Vitasta (Jhelum), Asikni (Chenab), Parushni (Ravi), Vipas / Vipasha (Beas), Sutudri / Shutudri (Sutlej), and Saraswati.** Yamuna and Ganga appear, but they are not the Early heartland.
 
 </details>
 
@@ -264,7 +264,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Ravi.** The **Dasarajna** (Battle of Ten Kings) is fought on the Parushni. **Sudas** of the Bharatas wins, with **Vasishtha** as purohita.
+**Ans: The Ravi.** The **Dasarajna**, the Battle of Ten Kings, is fought on the Parushni. **Sudas** of the Bharatas wins. **Vasishtha** is his purohita.
 
 </details>
 
@@ -295,7 +295,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Jana (tribe)** and **vis (clan)**. Loyalty is to kin, not a fixed **janapada**.
+**Ans: The jana (tribe) and the vis (clan).** Loyalty is to kin, not to a fixed **janapada**.
 
 </details>
 
@@ -304,7 +304,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Rajan** — a war-chief and ritual head, not an absolute king.
+**Ans: The rajan.** He is a war-chief and ritual head, not an absolute king.
 
 </details>
 
@@ -322,7 +322,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Tribal assemblies.** **Sabha** = elders / more select. **Samiti** = wider tribal assembly that could **choose the rajan**.
+**Ans: Tribal assemblies.** The **Sabha** is elders and more select. The **Samiti** is the wider tribal assembly that could **choose the rajan**.
 
 </details>
 
@@ -349,7 +349,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: The oldest gathering** — economic, social, and ritual. **Women could attend.** It **fades first**.
+**Ans: The oldest gathering.** It is economic, social, and ritual. **Women could attend.** It **fades first**.
 
 </details>
 
@@ -385,7 +385,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Tribute / offering** to the chief. **Bhaga** is the king’s share of produce. **Gavishti** is a cattle-raid, not tribute.
+**Ans: Tribute or offering** to the chief. **Bhaga** is the king’s share of produce. **Gavishti** is a cattle-raid, not tribute.
 
 </details>
 
@@ -394,7 +394,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Jana becomes janapada.** Kingship grows hereditary and territorial. Assemblies weaken. **Ratnins** appear at consecration.
+**Ans: The jana becomes a janapada.** Kingship grows hereditary and territorial. Assemblies weaken. **Ratnins** appear at consecration.
 
 </details>
 
@@ -416,7 +416,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Comparatively better.** They could attend **Sabha** and **Vidatha**. No sati, purdah, or child-marriage as a system.
+**Ans: Comparatively better.** Women could attend **Sabha** and **Vidatha**. There is no sati, purdah, or child-marriage as a system.
 
 </details>
 
@@ -425,7 +425,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Lopamudra, Ghosha, Apala, and Visvavara.** Later Upanishadic exceptions are **Gargi** and **Maitreyi** — not the Later Vedic average.
+**Ans: Lopamudra, Ghosha, Apala, and Visvavara.** Later Upanishadic exceptions are **Gargi** and **Maitreyi**. They are not the Later Vedic average.
 
 </details>
 
@@ -443,7 +443,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: No.** Occupation is still flexible. Purusha Sukta is **late**. Full **jati** is post-Vedic.
+**Ans: No.** Occupation is still flexible. The Purusha Sukta is **late**. Full **jati** is post-Vedic.
 
 </details>
 
@@ -519,7 +519,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Cattle.** **Nishka** is a gold ornament / value-unit, **not a coin**. There are **no coins**.
+**Ans: Cattle.** **Nishka** is a gold ornament or value-unit, **not a coin**. There are **no coins**.
 
 </details>
 
@@ -586,7 +586,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Indra** — most hymns. War and rain god. **Vishnu** and **Rudra** are still **minor**.
+**Ans: Indra.** He has the most hymns. He is a war and rain god. **Vishnu** and **Rudra** are still **minor**.
 
 </details>
 
@@ -658,7 +658,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: No.** Nature gods, hymns, and **yajna**. About **33** gods in earth, air, and sky layers. **Ushas** is the dawn goddess.
+**Ans: No.** Early Vedic religion is nature gods, hymns, and **yajna**. About **33** gods sit in earth, air, and sky layers. **Ushas** is the dawn goddess.
 
 </details>
 
@@ -676,7 +676,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Elaborate sacrifices** (rajasuya, asvamedha, vajapeya). Then a turn from ritual Brahmanas toward **Upanishadic jnana**.
+**Ans: Elaborate sacrifices** such as rajasuya, asvamedha, and vajapeya. Thought then turns from ritual Brahmanas toward **Upanishadic jnana**.
 
 </details>
 
@@ -737,7 +737,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Ganga–Yamuna doab / western Ganga valley.** Archaeological marker = **PGW + iron**.
+**Ans: The Ganga–Yamuna doab / western Ganga valley.** The archaeological marker is **PGW plus iron**.
 
 </details>
 
@@ -764,7 +764,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: A Later Vedic kingdom in north Bihar.** **King Janaka** is the Upanishadic patron (Yajnavalkya, Gargi). Easternmost expansion of Later Vedic culture.
+**Ans: A Later Vedic kingdom in north Bihar.** **King Janaka** is the Upanishadic patron of Yajnavalkya and Gargi. It is the easternmost expansion of Later Vedic culture.
 
 </details>
 
@@ -889,7 +889,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: Jana (tribe) → janapada (territory) → stronger monarchy.** Kin loyalty gives way to land, tax, and ritual kingship. Mahajanapadas come **after** ~600 BCE.
+**Ans: The jana (tribe) becomes a janapada (territory), then a stronger monarchy.** Kin loyalty gives way to land, tax, and ritual kingship. Mahajanapadas come **after** about 600 BCE.
 
 </details>
 
@@ -939,7 +939,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Bhagadugha — revenue collector** (king’s **bhaga**; UPPCS **2023 Q26 = D**). **Sangrahitri — treasurer.** **Akshavapa — dice / gambling** (2023 trap C).
+**Bhagadugha is the revenue collector** of the king’s **bhaga** (UPPCS **2023 Q26 = D**). **Sangrahitri is the treasurer.** **Akshavapa is dice / gambling** (2023 trap C).
 
 </details>
 
@@ -948,7 +948,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 <details>
 <summary>Show answer</summary>
 
-**Ans: PGW** = Later Vedic doab grey ware (~1100–600 BCE). **NBPW** = mahajanapada / early historic deluxe black ware. Do not date NBPW as “only Mauryan.”
+**Ans: PGW** is Later Vedic doab grey ware, about **1100–600 BCE**. **NBPW** is mahajanapada / early historic deluxe black ware. Do not date NBPW as “only Mauryan.”
 
 </details>
 
