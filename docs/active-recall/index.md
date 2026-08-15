@@ -32,6 +32,6 @@ Paste a ChatGPT dump in Cursor and name the subject. New decks go under that sub
 <span>No decks yet — paste a dump to start.</span>](environments & ecology/index.md){ .study-card }
 
 [**Polity**
-<span>Parliament · State Legislature</span>](polity/index.md){ .study-card }
+<span>Judiciary · Union Executive · FR & Duties · Parliament</span>](polity/index.md){ .study-card }
 
 </div>
