@@ -1,6 +1,6 @@
 # Topic 6 — Agriculture
 
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥25)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥70)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -10,7 +10,7 @@
 **Revolutions:** Green | White | Blue | Yellow | Golden | Silver | Pink | Rainbow | Evergreen
 </details>
 
-> **Sources baked in:** NCERT Class 10 (Agriculture), Class 12 (Resources), ICAR/Planning Commission zones, UPPCS Prelims 2018–2025  
+> **Sources baked in:** NCERT Class 10 (Agriculture), Class 12 (Resources), **PMF IAS** cropping patterns + crop conditions + GR/BGREI + irrigation, ICAR/Planning Commission zones, UPPCS Prelims 2018–2025  
 > **Exam weight:** ★★★★ — crop triples, ACZ 15, revolutions match, CACP/MSP/FRP, GR personalities, UP cane/potato  
 > **Last verified:** August 2026  
 > **Current Affairs:** CCEA MSP — **22 mandated crops**; CACP recommends → Cabinet; Kharif 2026–27 common paddy **₹2,441/q**; MSP ≥ **1.5×** cost (Budget 2018–19)
@@ -20,7 +20,14 @@
 ## Quick Revision — Spine Only
 
 ```
-NSA = sown ≥1×/year | GCA = all sowings counted | Intensity = GCA/NSA × 100
+NSA = sown ≥1×/year | GCA = all sowings counted | Intensity = GCA/NSA × 100 (~111% in 1950-51 → ~156% now)
+ ~86% holdings small/marginal | ~half NSA still rainfed | GW ~64% of irrigated area
+RICE: methods transplant / broadcast / drill / DSR / AWD | WB volume > UP > PB; PB yield king
+ Textbook producer often #2 after China; 2024–25 GoI claim #1 — don’t mix the two stems
+ Cotton 6–8 months; ~2/3 rainfed; 3 zones (N alluvial, C black, S mixed); hates waterlogging
+ Cane: frost + loo hurt north; south frost-free; ratoon; heavy rain = low sugar; dry = fibrous
+ Jute rainfed, little fert vs cotton; standing water for retting
+ GR costs: monoculture, GW crash, millet/pulse neglect, stubble window PB–HR | BGREI = east rice systems
 SEASONS: Kharif Jun–Oct (rice, maize, jowar, bajra, ragi, cotton, jute, GN, soy, tur)
  Rabi Oct–Mar (wheat, barley, gram, mustard, peas, linseed) + western disturbances help
  Zaid Mar–Jun (melon, cucumber, fodder, veg) | Cane = long | Tea/coffee/rubber = perennial
@@ -80,6 +87,10 @@ India ranks: milk/pulses/jute #1; rice/wheat/cane often #2```
 | Two wheat belts | Ganga–Satluj plains + Deccan black soil | Assam as wheat belt | दो गेहूँ पेटियाँ |
 | White gold vs golden fibre | Cotton = white gold; jute = golden fibre | Swap nicknames | सफेद सोना / सुनहरा रेशा |
 | Sikkim organic | Sikkim = first fully organic state | Call any NE state first | सिक्किम जैविक |
+| Rice rank | Textbook **#2 after China**; 2024–25 GoI **#1 claim** | Mix a 2018 stem with the 2025 headline | रैंक स्टेम पढ़ो |
+| WB rice vs PB yield | WB often **volume** leader; Punjab **yield** leader | Punjab = largest producer always | बंगाल मात्रा; पंजाब उपज |
+| DSR vs transplant | DSR = seed in field, less water; transplant = nursery + puddle | DSR needs more standing water | डीएसआर = कम पानी |
+| Ratoon vs rotation | Ratoon = cane from **stubble**; rotation = change the crop | Call wheat a ratoon crop | रैटून = गन्ना |
 
 ---
 
@@ -125,6 +136,7 @@ India ranks: milk/pulses/jute #1; rice/wheat/cane often #2```
 | Mediterranean (world) | Winter rain; citrus/olives/vines |
 | Truck farming | Vegetables near cities |
 | Dryland farming | Rainfed low-rain tracts (millets, pulses) |
+| Wetland / irrigated farming | Standing water or assured canal/tube-well (rice, cane) |
 
 ### Cropping patterns
 
@@ -133,7 +145,20 @@ India ranks: milk/pulses/jute #1; rice/wheat/cane often #2```
 | Mixed cropping | Two+ crops **together** at the same time |
 | Intercropping | Mixed in fixed **row ratios** |
 | Crop rotation | Sequential change on the same land |
+| Sequential cropping | One crop after another in the same year on the same field |
+| Relay cropping | Second crop sown **before** the first is harvested |
+| Ratoon cropping | New crop from the **stubble** (classic: sugarcane) |
 | Multiple cropping | More than one crop in a year → raises intensity |
+
+- Cropping **pattern** is the share and sequence of crops in a region. Climate, soil, irrigation, markets, technology and MSP all shape it.
+- Pre-1965: rainfed subsistence, coarse cereals and pulses, low yield.
+- GR 1965–90: rice–wheat HYV belts, then **monoculture** and water stress.
+- After 1991: more horticulture, commercial crops and contract farming.
+- Cropping intensity rose from about **111% (1950–51)** to about **156%** now (PMF). Irrigation and HYV made the extra sowings possible.
+- About **86%** of holdings are small or marginal. That caps machines and diversification.
+- About **half of NSA** is still rainfed. Groundwater waters about **two-thirds** of the irrigated area.
+- Horticulture output has overtaken foodgrain tonnage in recent years. That is volume, not calorie king.
+- MSP and free power still pull **paddy in Punjab** and **cane in drought Maharashtra**. That is policy, not climate.
 
 ### Seasons
 
@@ -163,18 +188,22 @@ India ranks: milk/pulses/jute #1; rice/wheat/cane often #2```
 
 ### Rice
 
-Hot + wet (or irrigation). India is the world’s **2nd** largest producer (after China).
+Hot + wet (or irrigation). Textbook rank is world’s **2nd** producer after **China**. The Union Agriculture Minister in **2024–25** claimed India had become **#1**. Keep the two stems apart. Do not “update” an old PYQ key.
 
 - Temperature typically **>~20–27°C** (NCERT often stresses **>25°C** with high humidity).
-- Rain **~100 cm+**, or irrigation where rain is less.
+- Rain **~100 cm+** in NCERT. Many PMF notes use **>150 cm** for the humid core. Punjab rice is **irrigation**, not 150 cm rain.
 - Soil: **clayey / alluvial** that puddles; standing water is typical.
-- Main season = **kharif**.
+- Main season = **kharif** in the north. With irrigation, the south can grow rice **almost year-round**.
 - East also grows three paddies: **Aus / Aman / Boro** (Assam, West Bengal, Odisha).
-- **Boro** = irrigated winter–spring crop.
-- Punjab–Haryana rice is GR / tube-well driven — not a natural 150 cm rain belt.
+- **Aus** = summer / pre-monsoon. **Aman** = monsoon to winter. **Boro** = irrigated winter–spring.
+- Methods: **transplantation** (nursery then puddled field), **broadcasting**, **drilling**. **DSR** sows seed in the field and saves water. **AWD** (alternate wetting and drying) also cuts irrigation.
+- DSR needs a dry sowing window. Sudden rain after sowing hurts it.
+- Usual volume order: **West Bengal > Uttar Pradesh > Punjab**. **Punjab** (then TN/TG) leads **yield** because of full irrigation.
+- Rice covers the **largest cropped area** among foodgrains.
+- India is also the world’s largest **rice exporter** in recent years (Basmati to West Asia; non-Basmati to Africa / SE Asia).
 - **Azolla–Anabaena** fixes nitrogen in flooded fields (2023 Q104).
 - **Golden rice ↔ Vitamin A** (2018 pair correct; ozone–troposphere was the wrong pair).
-- Rice–wheat = NW Green Revolution rotation.
+- Rice–wheat = NW Green Revolution rotation. The short harvest-to-sow window drives **stubble burning** in PB–HR.
 
 | Belt | States |
 |------|--------|
@@ -189,8 +218,9 @@ Hot + wet (or irrigation). India is the world’s **2nd** largest producer (afte
 **Rabi** cereal. India ranks **2nd** globally.
 
 - Cool while growing (~10–15°C); **brighter / warmer while ripening** (~20–25°C).
+- UPSC lock: **moderate temperature and moderate rainfall** (not high heat + heavy rain).
 - Frost at flowering or rain at harvest hurts yield.
-- Rain **50–75 cm** evenly, or irrigation; well-drained **alluvial loam**.
+- Rain **50–75 cm** evenly (PMF often ~**75 cm**), or irrigation; well-drained **alluvial loam**.
 - Two textbook belts: (1) **Ganga–Satluj** plains of the north-west; (2) **black-soil** Deccan wheat.
 - Core states: **UP, Punjab, Haryana** (+ MP, RJ, Bihar).
 - **Assam–Wheat is wrong** (2022 Q142).
@@ -248,19 +278,23 @@ States: MP, RJ, MH, UP, KA. Mixed cropping with millets is common.
 
 ### Cotton (white gold)
 
-**Kharif** fibre. India is among the world’s top / often **largest** producers; **Bt cotton** dominates area.
+**Kharif** fibre. India is among the world’s top / often **largest** producers; **Bt cotton** dominates area. It takes about **6–8 months**.
 
-- Warm **>21°C**, rain **~50–100 cm**, **~210 frost-free days**, bright sun at boll opening.
-- Best on **black regur**; also NW irrigated tracts.
-- Main belts: MH, GJ, TG/AP.
+- Warm **>21°C**, rain **~50–100 cm**, **~210 frost-free days**, bright sun at boll opening. Hard frost kills it.
+- Best on **black regur**. North zone uses **deep alluvium**. South zone uses mixed black–red soils.
+- Three belts: **North** (PB–HR–RJ–W UP, irrigated), **Central** (GJ–MH–MP, the volume core), **South** (TG–AP–KA–TN).
+- About **two-thirds** of Indian cotton is **rainfed**. Yield is below the world average.
+- It can take some **salinity**. It **hates waterlogging**.
 - Staple grades: long / medium / short — Indian crop is mostly **medium**; mills blend staples.
 - **Ahmedabad** lies in a major cotton **region** (raw material true).
 - Traditionally India’s largest cotton-textile **centre** is **Mumbai**, not Ahmedabad (2020 Q58: A false, R true → D).
 
 ### Jute (golden fibre) & mesta
 
-- Hot humid **~25–35°C**, rain **~150 cm+**, deltaic **alluvium**.
-- Needs **retting** in still water.
+- Hot humid **~24–35°C**, rain often cited **~120–150 cm+**, high humidity, deltaic **alluvium**.
+- Needs **retting** in still / standing water.
+- Second fibre after cotton. It is largely **rainfed** and uses little fertiliser or pesticide — the opposite of cotton.
+- Sown to catch the monsoon; many notes give a long **Feb–Oct** window (about 8–10 months). Still treat it as a **humid-east kharif** crop, not a rabi cereal.
 - Core: **West Bengal** (+ Assam, Bihar, Odisha).
 - Mills on the **Hugli**.
 - **UP–Jute is wrong.**
@@ -271,9 +305,13 @@ States: MP, RJ, MH, UP, KA. Mixed cropping with millets is common.
 
 Long-duration crop (**~10–18 months**) — not a single short season.
 
-- **~21–27°C**; water **75–150 cm or irrigation**; deep fertile alluvial/black soils.
+- **~21–27°C**; water **75–150 cm or irrigation**; any soil that **holds moisture**. The crop **exhausts** fertility, so manure matters.
+- Too much rain **lowers sugar**. Too little rain makes a **fibrous** cane.
+- A bright, open second half thickens juice. A short **cool dry** spell at harvest is ideal.
+- **Frost** and the **loo** hurt north Indian cane. South India lacks both, so yield is often higher.
+- **Ratoon** (stubble sprout) is common. It saves planting cost but yields fall after a cycle or two.
 - **UP** often leads **area / production**.
-- **Maharashtra** often leads **yield** + cooperative factories.
+- **Maharashtra** often leads **yield** + cooperative factories. Cane on a small share of MH land still drinks a huge share of irrigation water.
 - 2019 A/R: both true; coops **do not explain** UP’s lower productivity → **B**.
 - Price = **FRP** (+ possible state SAP) — not cereal MSP.
 - By-products: bagasse, molasses / ethanol.
@@ -363,11 +401,24 @@ Three **number** locks — do not mix:
 - One state can sit in **multiple** zones.
 - Western Dry ≠ West Coast Ghats.
 
-**Inline PYQ**
-**(UPPCS 2022, Q142)** Which is correctly matched?
+**PYQ — UPPCS Prelims 2022, Q142**
 
-A. Gujarat—Tea B. Uttar Pradesh—Jute C. Kerala—Rubber D. Assam—Wheat
-**Ans: C**
+Which is correctly matched?
+
+A. Gujarat—Tea
+
+B. Uttar Pradesh—Jute
+
+C. Kerala—Rubber
+
+D. Assam—Wheat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Rubber–Kerala is the only correct pair in that set.
+
+</details>
 
 ---
 
@@ -375,19 +426,25 @@ A. Gujarat—Tea B. Uttar Pradesh—Jute C. Kerala—Rubber D. Assam—Wheat
 
 CAD develops the **command** of an existing project (channels, drainage, warabandi). It is **not** “build a new dam.”
 
+- Agriculture uses most of India’s freshwater (often cited **~80%**).
+- About **two-thirds** of irrigated land drinks **groundwater**. Punjab paddy + free power is the over-exploited poster.
+- Rice and sugarcane together take a huge share of irrigation water, often in **water-stressed** states.
+- Micro-irrigation (drip/sprinkler) is still a **small** slice of irrigated area. PMKSY “more crop per drop” is the scheme lock.
+
 | Type | Best terrain | Risk / note |
 |------|--------------|-------------|
-| Perennial canal | Alluvial plains (PB–HR–UP; IGC RJ) | Waterlogging / usar |
+| Perennial canal | Alluvial plains (PB–HR–UP; IGC RJ). Clayey beds **leak less** | Waterlogging / usar |
 | Inundation canal | Flood plains | Unreliable timing |
+| **River lift** | Where canal flow is irregular; common in **peninsular** belts | Pumping cost |
 | Tube well | Alluvial aquifers; GR NW + W-UP | Groundwater depletion |
 | Dug well | Local / hard-rock | Limited yield |
 | **Tank** | **Peninsular** hard rock | Siltation |
-| Drip | Horti, cane, cotton, veg | High efficiency; capital cost |
+| Drip | Horti, cane, cotton, veg; 40–60% water save | High efficiency; capital cost |
 | Sprinkler | Sandy / undulating | Wind drift |
 
 **CADWM pack:** field channels, land levelling, **warabandi** (roster turns), drainage, farmer organisations.
 
-- Over-irrigation without drainage → saline / alkaline usar.
+- Over-irrigation without drainage → saline / alkaline usar. IGC is the desert example.
 
 ---
 
@@ -453,13 +510,14 @@ CAD develops the **command** of an existing project (channels, drainage, waraban
 - **PM-AASHA** supports PSS of pulses / oilseeds (NAFED etc.).
 - Cane = **FRP** (Fair and Remunerative Price), not the cereal MSP label.
 - **APMC** = regulated mandi; **e-NAM** = electronic national mandi network.
-- **PM-KISAN** = direct income support; **PMFBY** = crop insurance.
+- **PM-KISAN** = direct income support; **PMFBY** = crop insurance; **NFSM** = rice–wheat–pulses–millets–oilseeds push; **NMSA** = climate-smart / soil-water.
 - AIDC (Budget 2021–22 framing) on **29** products (2021 Q103).
 - 2018 paddy MSP figure **₹1,750/q** is year-specific — lock the institution, not old rupees.
 - Fertiliser / power / irrigation support = **indirect** subsidy (2022 Q74 stmt 1 solid).
 
-**Inline PYQ**
-**(UPPCS 2024, Q43)** Who recommends the Minimum Support Price (MSP) for agricultural crops?
+**PYQ — UPPCS Prelims 2024, Q43**
+
+Who recommends the Minimum Support Price (MSP) for agricultural crops?
 
 A. RBI
 
@@ -469,7 +527,12 @@ C. CACP
 
 D. Ministry of Finance
 
-**Ans: C**
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — CACP recommends. The Union Cabinet decides.
+
+</details>
 
 ---
 
@@ -478,10 +541,11 @@ D. Ministry of Finance
 **Green Revolution** (mid-1960s): **HYV + irrigation + fertiliser** (+ pesticide, credit, machines).
 
 - Heartland: **Punjab, Haryana, western UP**.
-- Started as a **wheat** revolution, then expanded to rice.
+- Started as a **wheat** revolution, then expanded to rice. Some notes also tag maize, soybean and cane yield jumps.
 - Classic HYVs: Mexican wheat **Lerma Rojo / Sonora 64**; rice **IR-8** (IRRI).
 - Gains: yield surge, surplus, exit from PL-480 dependence.
-- Costs: regional inequality, groundwater decline, nutrient mining, millet / pulse neglect.
+- Costs: regional inequality, **groundwater** crash, nutrient mining, millet / pulse neglect, rice–wheat **monoculture**, stubble burning.
+- **BGREI** (Bringing Green Revolution to Eastern India) sits under RKVY. It targets **rice-based** systems in the east and unused water, not a second Punjab in the desert.
 - **Evergreen Revolution** (Swaminathan) = high productivity **without** ecological harm.
 
 | Person | Lock |
@@ -528,22 +592,22 @@ D. Ministry of Finance
 
 ## Consolidated — 20 Must-Score Locks
 
-1. Intensity = **GCA/NSA × 100**. Wheat = rabi; cotton/rice = kharif.
-2. Rice: hot-wet, clayey, Azolla; Aus/Aman/Boro in AS–WB–OD; Golden rice = Vit A.
+1. Intensity = **GCA/NSA × 100** (~111% → ~156%). ~86% holdings small/marginal. Wheat = rabi; cotton/rice = kharif.
+2. Rice: hot-wet, clayey, Azolla; Aus/Aman/Boro; DSR/AWD save water; WB volume / Punjab yield; Golden rice = Vit A. Textbook rank **#2 China** unless the stem is the 2024–25 #1 claim.
 3. Wheat: cool grow / bright ripen; two belts (Ganga–Satluj + Deccan black); Assam–Wheat wrong.
 4. Jowar=MH; Bajra=RJ; Ragi=KA. IYM 2023 = Shree Anna. Pulses fix N (2019).
 5. GN=GJ; Mustard=RJ; Soy=MP. Yellow = oilseeds.
-6. Cotton = white gold; black soil; 210 frost-free; Mumbai ≠ Ahmedabad as mill capital.
+6. Cotton = white gold; 210 frost-free; 6–8 months; ~2/3 rainfed; 3 zones; hates waterlogging; Mumbai ≠ Ahmedabad mill capital.
 7. Jute = golden fibre; WB + retting; UP–Jute wrong.
-8. Cane: UP quantity / MH productivity; FRP; 2019 R does not explain A.
+8. Cane: UP quantity / MH productivity; frost+loo hurt north; ratoon; FRP; 2019 R does not explain A.
 9. Tea = plantation. Coffee KA. Rubber **Kerala**. Pepper+cardamom **Kerala**.
 10. Potato UP; CIP **Agra**. Guava: Sultana/Gulabi/Kali Champa.
 11. ACZ **15** / NARP **~127** / AER **~20**.
-12. Canal = plains; tank = peninsula; drip = efficiency; CAD = command, not new dam.
+12. Canal = clayey plains; tank = peninsula; **lift** = irregular south canals; drip = efficiency; CAD = command, not new dam.
 13. ICAR Delhi; IARI Pusa; seed **Breeder→Foundation→Certified**.
 14. Red rot = fungus; citrus canker = bacteria (2022).
 15. CACP recommends MSP; Cabinet decides (2024). 22 crops.
-16. GR = HYV+water+fert (Lerma Rojo / Sonora 64 / IR-8); PB–HR–W UP; Borlaug = **Peace**.
+16. GR = HYV+water+fert (Lerma Rojo / Sonora 64 / IR-8); PB–HR–W UP; costs = GW + monoculture; **BGREI** = east rice; Borlaug = **Peace**.
 17. Kurien = White/Flood/NDDB. Swaminathan ≠ milk. Sikkim = first organic state.
 18. Golden=horti+honey; Grey=fertiliser; Yellow=oilseed; Black=petroleum.
 19. Jhum = NE (+podu/bewar/dahiya/kumri). Precision = site-specific.
@@ -1668,6 +1732,103 @@ D. Only Darjeeling orthodox tea clones
 **Ans: A** — Mexican dwarf wheat + IRRI rice classic names.
 </details>
 
+**Q66.** With reference to rice cultivation in India, which of the following statements is/are correct?
+
+1. Direct seeding of rice (DSR) usually uses less irrigation water than puddled transplantation.
+2. West Bengal is often the leading producer by volume, while Punjab leads in yield.
+3. NCERT-style notes always treat India as a larger rice producer than China.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — (3) fails. Standard textbooks put India **second after China**. A 2024–25 government claim of #1 is a different stem.
+
+</details>
+
+**Q67.** Cotton in India is best described as
+
+A. a rabi cereal of the Terai
+
+B. a 6–8 month kharif fibre, mostly rainfed, that dislikes waterlogging
+
+C. a plantation crop of Kerala slopes
+
+D. a frost-loving Himalayan crop
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — PMF / NCERT cotton lock. About two-thirds rainfed. Frost is injurious.
+
+</details>
+
+**Q68.** Which of the following is a ratoon crop in Indian farming?
+
+A. Wheat after rice in Punjab
+
+B. Sugarcane sprouting from harvested stubble
+
+C. Gram mixed with mustard
+
+D. Tea plucked as a zaid cereal
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Ratoon = new tillers from cane stubble. Wheat after rice is sequential / rotation.
+
+</details>
+
+**Q69.** BGREI is primarily meant to
+
+A. replace all Punjab paddy with coffee
+
+B. raise rice-based productivity in **eastern** India by using under-used water and better agronomy
+
+C. ban HYV wheat
+
+D. shift jute mills from the Hugli to Gujarat
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Bringing Green Revolution to Eastern India, under the RKVY family.
+
+</details>
+
+**Q70.** Given below are two statements:
+
+**Assertion (A):** Canals work well on clayey alluvial plains.
+
+**Reason (R):** Clayey soils leak less, so canal water is not lost as fast as on coarse sand.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+C. (A) is true, but (R) is false
+
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — PMF canal-soil lock. Tanks still dominate much of the hard-rock peninsula.
+
+</details>
+
 ---
 
 ## Complete PYQ Bank — Agriculture (2018–2025)
@@ -2162,3 +2323,7 @@ D. Only 1
 16. **Only one wheat belt** — FALSE. Ganga–Satluj plains **and** Deccan black-soil wheat.
 17. **Cotton = golden fibre** — FALSE. Cotton = **white gold**; jute = **golden fibre**.
 18. **Any NE state = first organic** — FALSE. **Sikkim** is the first fully organic state.
+19. **India is always rice #1 in every old PYQ** — FALSE. Textbook lock is **#2 after China** unless the stem is the 2024–25 claim.
+20. **Punjab is always India’s largest rice producer** — FALSE. It is the **yield** king; **West Bengal** often leads **volume**.
+21. **DSR needs more standing water than transplanting** — FALSE. DSR is the **water-saving** method.
+22. **BGREI is a Punjab second Green Revolution** — FALSE. It is an **eastern** rice-system programme.
