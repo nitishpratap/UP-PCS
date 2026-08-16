@@ -77,30 +77,35 @@ HEAT: troposphere heated by LONG-WAVE terrestrial (not short-wave) | lapse ~6.5 
 ![img_6.png](img_6.png)
 ## 2.1 Climate Basics
 
-India = **monsoon climate** (seasonal wind reversal). Not a single cause: latitude + Himalayan barrier + distance from sea + monsoon circulation.
+India has a **monsoon climate**. Winds reverse seasonally. No single factor makes that climate.
 
-| Factor | Lock |
-|--------|------|
-| Latitude | 8°4′ N–37°6′ N → tropical + subtropical (Himalaya cold temperate) |
-| Himalaya | Blocks cold Central Asian winds; orographic rain on southern slopes |
-| Distance from sea | Coasts moderate; interior Deccan/NW continental extremes |
-| W Ghats | Windward Konkan wet; leeward rain shadow |
-| Jets / ENSO / IOD | Modulate monsoon year to year → §2.4 |
+Latitude places most of India in the tropical and subtropical belts. The Himalaya adds a cold-temperate belt in the north.
 
-### Temperature & altitude
+The Himalaya blocks cold Central Asian winds in winter. It also forces orographic rain on the southern slopes in the monsoon.
 
-| Station | Jan (approx.) | Control |
-|---------|---------------|---------|
-| Drass / Ladakh | −20 to −40 °C | Altitude + continentality |
-| **Agra** | **~16 °C** | Plain — UPPCS 2022 Q22 |
-| **Darjeeling (~2000 m)** | **~4 °C** | Same latitude as Agra; **lapse rate** |
+Coasts stay moderate because of the sea. The interior Deccan and north-west India have continental extremes.
+
+The Western Ghats make the Konkan–Malabar windward slope wet. The Deccan to their east is in rain shadow.
+
+Jet streams, ENSO, and IOD change monsoon strength from year to year. Those mechanisms are taught in the classification section below.
+
+### Temperature and altitude
+
+The normal lapse rate is about **6.5 °C per 1000 m**.
+
+| Station | January (approx.) | Control |
+|---------|-------------------|---------|
+| Drass / Ladakh | −20 to −40 °C | Altitude plus continentality |
+| **Agra** | about **16 °C** | Ganga plain — UPPCS 2022 Q22 |
+| **Darjeeling (about 2000 m)** | about **4 °C** | Same latitude as Agra; **lapse rate** |
 | Mumbai / Chennai | 24–26 °C | Maritime |
-| Jaisalmer | 12–15 °C (Jan); 40–45 °C (Jun) | Highest **diurnal** range |
+| Jaisalmer | 12–15 °C in January; 40–45 °C in June | Highest **diurnal** range among usual stations |
 
-- Normal lapse rate ≈ **6.5 °C / 1000 m**.
-- Jan: coldest NW/Himalaya, warmest south. Jun: hottest NW (Rajasthan/Gujarat).
+January is coldest in the north-west and the Himalaya. January is warmest in the far south.
 
-> **Exam note:** 2022 Q22 — Agra vs Darjeeling January contrast is true; altitude/lapse rate **explains** it (both true, R explains A).
+June is hottest in north-west Rajasthan and Gujarat.
+
+> **Exam note:** 2022 Q22 — Agra versus Darjeeling in January is true. Altitude / lapse rate **explains** it (both true, R explains A).
 
 **PYQ — UPPCS Prelims 2022, Q22**
 
@@ -124,9 +129,11 @@ D. Both true and R is the correct explanation of A
 
 ### Heat budget, albedo, humidity
 
-- Sun = **short-wave**; Earth re-emits **long-wave (IR)**.
-- Troposphere is heated **from below** by long-wave terrestrial radiation + sensible/latent flux — **not** mainly by short-wave (2022 Q138).
-- Without natural greenhouse effect, mean surface ≈ **−18 °C** (actual ~15 °C).
+The Sun sends **short-wave** radiation. The Earth re-emits **long-wave infrared**.
+
+The troposphere is heated **from below** by long-wave terrestrial radiation plus sensible and latent heat. It is **not** heated mainly by incoming short-wave (2022 Q138).
+
+Without the natural greenhouse effect, mean surface temperature would be about **−18 °C**. The actual mean is about **15 °C**.
 
 | Surface | Albedo | Lock |
 |---------|--------|------|
@@ -134,84 +141,119 @@ D. Both true and R is the correct explanation of A
 | Desert sand | 30–40% | Moderate |
 | Prairie | 20–25% | — |
 | Paddy / cropland | 10–20% | Lower |
-| Term | Lock |
-|------|------|
-| Absolute humidity | Mass of vapour per volume |
-| Relative humidity | Actual / saturation × 100 — **falls when temperature rises** (capacity up, moisture often unchanged) |
-| 2024 Q27 | A true (RH ↓ as T ↑); R true (absolute humidity ↑ with evaporation) but **R does not explain A** |
 
-> **Exam note:** 2022 Q138 answer = **long-wave terrestrial radiation**. 2021 Q66 = **fresh snow**. 2024 Q27 = both true, R **not** explanation.
+**Absolute humidity** is the mass of water vapour in a given volume of air.
+
+**Relative humidity** is actual vapour as a percentage of saturation. Relative humidity **falls when temperature rises**, because capacity rises even if moisture is unchanged.
+
+In 2024 Q27, Assertion is true (RH falls as temperature rises). Reason is also true (absolute humidity can rise with evaporation). Reason does **not** explain Assertion.
+
+> **Exam note:** 2022 Q138 answer = **long-wave terrestrial radiation**. 2021 Q66 = **fresh snow**. 2024 Q27 = both true, R **not** the explanation.
 
 ### Temperature inversion
 
-- Normal: T **decreases** with height. Inversion: T **increases** with height near ground.
-- Clear, calm **winter nights** on Indo-Gangetic plain → radiation inversion → **fog/smog trap** (Delhi–UP–Bihar).
-- Valley drainage (Kashmir, Doon): floor colder than slopes.
-- Inversion **suppresses mixing** — pollution stays near ground.
+Normally temperature **decreases** with height. In an inversion, temperature **increases** with height near the ground.
+
+Clear, calm **winter nights** on the Indo-Gangetic plain create a radiation inversion. Fog and smog then trap over Delhi, Uttar Pradesh, and Bihar.
+
+In Kashmir and Doon, cold air drains to the valley floor. The floor is then colder than the slopes.
+
+Inversion **suppresses mixing**. Pollution stays near the ground.
 
 ### Pressure, wind, Coriolis
 
-- Wind: high → low; **Coriolis**: **right in NH, left in SH** (2023 Q68).
-- Summer: thermal **low** over NW India → SW monsoon. Winter: **high** over NW → dry NE/NW winds.
-- **Monsoon trough** = **low-pressure** axis along Himalayan foot / Ganga plain (active rain). Break = trough on Himalaya, dry central India.
+Wind blows from **high pressure toward low pressure**.
 
-> **Exam note:** 2023 Q68 — leftward deflection in SH = **Coriolis**, not temperature/pressure/magnetic field.
+**Coriolis** deflects moving air to the **right in the Northern Hemisphere** and to the **left in the Southern Hemisphere** (2023 Q68).
+
+In **summer**, a thermal **low** sits over north-west India. That low helps pull the south-west monsoon.
+
+In **winter**, a thermal **high** sits over north-west India. Winds are then dry from the north-east and north-west.
+
+The **monsoon trough** is a **low-pressure** axis along the Himalayan foot and the Ganga plain. Rain is **active** when the trough sits there.
+
+A **break** monsoon occurs when the trough shifts onto the Himalaya. Central India then goes dry. The foothills stay wet.
+
+> **Exam note:** 2023 Q68 — leftward deflection in the Southern Hemisphere is **Coriolis**, not temperature, pressure, or the magnetic field.
 
 ### Atmosphere, pressure belts, ITCZ
 
 | Layer | Height | Lock |
 |-------|--------|------|
-| **Troposphere** | 0–8 km poles / 0–18 km equator | **All weather**; T decreases with height |
-| Tropopause | Top of troposphere | Jets near here |
-| **Stratosphere** | to ~50 km | **Ozone UV shield** (2018 Q52, 2023 Q52, 2025 Q45) |
-| Mesosphere | ~50–80 km | Meteors burn |
-| Thermosphere | ~80–400 km | Ionosphere, aurora |
+| **Troposphere** | 0–8 km at poles / 0–18 km at the equator | **All weather**; temperature falls with height |
+| Tropopause | Top of the troposphere | Jets fly near here |
+| **Stratosphere** | to about 50 km | **Ozone UV shield** (2018 Q52, 2023 Q52, 2025 Q45) |
+| Mesosphere | about 50–80 km | Meteors burn |
+| Thermosphere | about 80–400 km | Ionosphere and aurora |
 | Exosphere | outermost | Space |
-| Belt | ~Latitude | Lock |
-|------|-----------|------|
-| Equatorial low / **ITCZ** | 0° | Convergence, rain; **shifts N over India in summer** |
-| Subtropical high | 30° | Descending dry air; Thar/Sahara on west margins |
-| Subpolar low | 60° | Westerlies, cyclones |
+
+| Belt | About | Lock |
+|------|-------|------|
+| Equatorial low / **ITCZ** | 0° | Convergence and rain; **shifts north over India in summer** |
+| Subtropical high | 30° | Descending dry air; Thar and Sahara on west-coast margins |
+| Subpolar low | 60° | Westerlies and extra-tropical cyclones |
 | Polar high | 90° | Polar easterlies |
 
-- Planetary winds: Trades (E→W) · **Westerlies** (W→E, 30–60°) · Polar easterlies.
-- ITCZ = equatorial **low**; monsoon trough is its summer continental arm. El Niño years often keep convection in central Pacific → weaker Indian ITCZ.
+**Trade winds** blow from east to west in the tropics.
 
-> **Exam note:** Protective ozone = **stratosphere**, not troposphere. ITCZ is **low**, not high. 2025 Q45: ozone blocks UV **and** depletion linked to CFCs — both true.
+**Westerlies** blow from west to east between about 30° and 60°.
+
+**Polar easterlies** blow out of the polar highs.
+
+The ITCZ is an equatorial **low**. The monsoon trough is its summer continental arm over India.
+
+El Niño years often keep convection over the central Pacific. The Indian ITCZ is then weaker.
+
+> **Exam note:** Protective ozone sits in the **stratosphere**, not the troposphere. The ITCZ is a **low**, not a high. 2025 Q45: ozone blocks UV **and** depletion is linked to CFCs — both true.
 
 ---
 
 ## 2.2 Monsoon System
 
-Seasonal reversal from land–sea heating + **ITCZ shift** + cross-equatorial flow. Himalaya helps but is **not** the sole mechanism.
-Four systems exams mix up: **SW (Jun–Sep)** · **Retreating (Sep–Nov)** · **NE (Oct–Dec, SE coast)** · **WD (winter NW)** — WD is **not** monsoon.
+The monsoon is a seasonal reversal of wind. Land–sea heating, the **northward shift of the ITCZ**, and cross-equatorial flow all matter. The Himalaya helps. It is **not** the only cause.
+
+Exams mix four systems. Do not treat them as one rain.
+
+The **south-west monsoon** runs from June to September.
+
+The **retreating monsoon** runs from September to November.
+
+The **north-east monsoon** runs from October to December on the **south-east coast only**.
+
+**Western Disturbances** bring winter rain to the north-west. They are **not** a monsoon.
 
 ### Southwest monsoon
 
-- **Jun–Sep**; **~75–90%** of India’s annual rain.
-- Onset **Kerala ~1 June** (IMD); ~10 days per degree latitude northward.
+The south-west monsoon lasts from **June to September**. It gives about **75–90%** of India’s annual rain.
+
+IMD’s normal onset at **Kerala** is about **1 June**. The front then moves north at roughly ten days per degree of latitude.
 
 | Place | Normal onset | Withdrawal (start) |
 |-------|----------------|--------------------|
-| Kerala | ~1 Jun | Extreme south last (Dec for NE rains) |
-| Mumbai / Kolkata | ~10 Jun | Early Oct |
-| Lucknow / E UP | ~15–20 Jun | Late Sep |
-| Delhi | ~**29 Jun** | Late Sep |
-| Rajasthan | ~**15 Jul** (last) | Sep |
-| Chennai | SW **weak/dry** | NE monsoon Oct–Dec |
+| Kerala | about 1 June | Extreme south last (December for NE rains) |
+| Mumbai / Kolkata | about 10 June | Early October |
+| Lucknow / eastern UP | about 15–20 June | Late September |
+| Delhi | about **29 June** | Late September |
+| Rajasthan | about **15 July** (last) | September |
+| Chennai | South-west is **weak and dry** | North-east monsoon October–December |
 
-**Two branches**
+The monsoon has **two branches**.
 
-| Branch | Path | Wet | Dry trap |
-|--------|------|-----|----------|
-| Arabian Sea | Hits W Ghats | Konkan, Malabar | **Leeward Deccan**; TN in this branch’s rain shadow |
-| Bay of Bengal | NE India, then curves along Himalaya | Meghalaya, Ganga plain, UP/Bihar | **TN coast parallel** to this branch → little orographic lift |
+The **Arabian Sea branch** hits the Western Ghats. Konkan and Malabar are wet. The **leeward Deccan** is dry. Tamil Nadu also lies in this branch’s rain shadow.
 
-- Burst = sudden heavy rain after May heat; temperature drops.
-- Active = trough over Ganga plain. **Break** = trough on Himalaya → dry central India, wet foothills.
-- BoB monsoon depressions track WNW into MP/UP/Rajasthan.
+The **Bay of Bengal branch** first soaks north-east India. It then curves along the Himalaya into the Ganga plain, Uttar Pradesh, and Bihar.
 
-> **Exam note:** 2023 Q54 — TN coast **dry in SW monsoon**; Reason (parallel to BoB branch + Arabian Sea rain shadow) **explains** A.
+The Tamil Nadu coast lies **parallel** to the Bay branch. There is little orographic lift. That is why the Tamil Nadu coast stays **dry in the south-west monsoon** (2023 Q54).
+
+The **burst** is the sudden heavy rain after May heat. Temperature then falls.
+
+Rain is **active** when the trough sits over the Ganga plain.
+
+A **break** occurs when the trough sits on the Himalaya. Central India then dries. The foothills stay wet.
+
+Bay of Bengal monsoon depressions usually track west-north-west into Madhya Pradesh, Uttar Pradesh, and Rajasthan.
+
+> **Exam note:** 2023 Q54 — Tamil Nadu coast is **dry in the south-west monsoon**. The reason (parallel to the Bay branch plus Arabian Sea rain shadow) **explains** the assertion.
 
 **PYQ — UPPCS Prelims 2023, Q54**
 
@@ -235,95 +277,139 @@ D. Both true and R is the correct explanation
 
 | Zone | Rain (approx.) | Why |
 |------|----------------|-----|
-| Mawsynram / Cherrapunji | >1100 cm | BoB + orography |
-| Konkan / Goa | 300–400 cm | Arabian Sea + W Ghats |
-| Ganga plain (UP/Bihar) | 100–150 cm | BoB branch + depressions |
+| Mawsynram / Cherrapunji | more than 1100 cm | Bay branch plus orography |
+| Konkan / Goa | 300–400 cm | Arabian Sea plus Western Ghats |
+| Ganga plain (UP / Bihar) | 100–150 cm | Bay branch plus depressions |
 | Interior Deccan | 50–75 cm | Rain shadow |
-| Chennai | ~120 cm **mostly NE monsoon** | SW dry |
-| Jaisalmer | <25 cm | Far from both branches |
-| Leh / Ladakh | <10 cm | Himalayan rain shadow |
+| Chennai | about 120 cm, **mostly north-east monsoon** | South-west is dry |
+| Jaisalmer | less than 25 cm | Far from both branches |
+| Leh / Ladakh | less than 10 cm | Himalayan rain shadow |
 
-All-India mean ≈ **118 cm**. India in tropical monsoon belt → kharif + rabi + zaid possible (2024 Q73 stmt 2 true; “highest cultivated area vs USA/China/Japan” false).
+All-India mean rainfall is about **118 cm**.
 
-### Northeast monsoon & retreating monsoon
+India’s tropical monsoon belt allows **kharif, rabi, and zaid**. That statement in 2024 Q73 is true. The claim that India has the highest cultivated area versus the USA, China, and Japan is false.
 
-- **Retreating SW (Sep–Nov):** winds withdraw; **October heat**; **BoB cyclone peak**.
-- **NE monsoon (Oct–Dec):** winds NE→SW over Bay pick up moisture → rain on **Tamil Nadu, south AP, Puducherry, Karaikal** only.
-- Rest of India dry in this season. Coromandel gets ~half its annual rain from NE monsoon.
-- Mumbai/Gujarat: SW gone, NE does not reach → dry Oct–Nov.
+### Northeast monsoon and retreating monsoon
+
+The **retreating south-west monsoon** runs from September to November. Winds withdraw. **October heat** returns. **Bay of Bengal cyclones** peak.
+
+The **north-east monsoon** runs from October to December. Winds blow north-east to south-west. They pick up Bay moisture. Rain falls on **Tamil Nadu, south Andhra Pradesh, Puducherry, and Karaikal only**.
+
+The rest of India is dry in this season.
+
+The Coromandel coast gets about **half** its annual rain from the north-east monsoon.
+
+Mumbai and Gujarat lose the south-west rains. The north-east monsoon does not reach them. October–November is therefore dry there.
 
 ### Indian seasons (IMD)
 
 | Season | Months | Match |
 |--------|--------|-------|
-| Cold weather | Dec–Feb | WD rain/snow NW; fog/frost plains |
-| Hot weather | Mar–May | **Loo**; Nor'westers; mango/blossom showers |
-| SW monsoon | Jun–Sep | Main rain; **TN SE dry** |
-| Retreating | Oct–Nov | Withdrawal; Oct heat; BoB cyclones; NE monsoon starts on SE coast |
+| Cold weather | December–February | Western Disturbance rain and snow in the north-west; fog and frost on the plains |
+| Hot weather | March–May | **Loo**; Nor’westers; mango and blossom showers |
+| South-west monsoon | June–September | Main rain; **Tamil Nadu south-east coast stays dry** |
+| Retreating | October–November | Withdrawal; October heat; Bay cyclones; north-east monsoon starts on the south-east coast |
 
 ### Western Disturbances
 
-- Extra-tropical cyclones in **STWJ** from Mediterranean–Caspian–Atlantic.
-- **Winter (Nov–Feb peak)** rain/snow: Punjab, Haryana, HP, J&K, UK, west UP, N Rajasthan.
-- Good for **Rabi wheat**; hail/fog/avalanche hazards.
-- Intensity **decreases west → east** (Punjab wetter than east UP) — 2019 Q83.
-- **Not** retreating monsoon / SW monsoon / BoB depression — 2021 Q36.
+Western Disturbances are **extra-tropical** cyclones. They travel in the **subtropical westerly jet** from the Mediterranean–Caspian–Atlantic region.
 
-> **Exam note:** Winter NW rain = **Western Disturbances**. Gradient = **west to east**.
+They peak in **winter (November–February)**. They bring rain and snow to Punjab, Haryana, Himachal, Jammu and Kashmir, Uttarakhand, western Uttar Pradesh, and northern Rajasthan.
+
+They help **rabi wheat**. They also bring hail, fog, and avalanche risk.
+
+Intensity **decreases from west to east**. Punjab is wetter than eastern Uttar Pradesh (2019 Q83).
+
+They are **not** the retreating monsoon. They are **not** the south-west monsoon. They are **not** Bay of Bengal depressions (2021 Q36).
+
+> **Exam note:** Winter north-west rain = **Western Disturbances**. The rainfall gradient is **west to east**.
 
 ---
 
-## 2.3 Winds, Storms & Cyclones
+## 2.3 Winds, Storms and Cyclones
 
-### India — local winds & storms (one table)
+### Local winds and storms of India
+
+The **Loo** is a hot, dry, dusty wind on the plains of Rajasthan, Punjab, Haryana, Uttar Pradesh, and Bihar in **May–June**. It is a heat-wave wind. It is **not** a thunderstorm.
+
+The **Nor’wester / Kal Baisakhi** is a violent **pre-monsoon thunderstorm** over West Bengal, Assam, Odisha, Bihar, and Jharkhand in **April–May**. It brings hail and lightning.
+
+**Mango showers** are pre-monsoon rains of **April–May** in **Kerala and Karnataka**. They help mangoes ripen.
+
+**Blossom / cherry showers** are pre-monsoon rains of **April–May** in the coffee belt of **Tamil Nadu and Kerala**. They help coffee flower.
+
+**Andhi** is a pre-monsoon dust-storm wall of Rajasthan.
+
+The **sea breeze** blows onshore by day. The **land breeze** blows offshore by night.
+
+An **anabatic** wind is a **daytime upslope** wind on mountain slopes.
+
+A **katabatic** wind is a **night-time downslope** drainage of cold air into valleys. Frost then sits on the valley floor.
+
+**Foehn** and **Chinook** are **warm, dry** downslope winds after air has crossed a mountain. They are world cousins of a special warming downslope, not the cold katabatic of a Himalayan valley night.
 
 | Name | Region | Season | Character |
 |------|--------|--------|-----------|
-| **Loo** | RJ, PB, HR, UP, Bihar plains | May–Jun | Hot, dry, dust; heat-wave; **not** a thunderstorm |
-| **Nor'wester / Kal Baisakhi** | WB, Assam, Odisha, Bihar, Jharkhand | Apr–May | Violent **thunderstorm**; hail, lightning |
-| **Mango showers** | **Kerala, Karnataka** | Apr–May | Pre-monsoon; mango ripening |
-| **Blossom / Cherry showers** | TN, Kerala (coffee belt) | Apr–May | Coffee flowering |
+| **Loo** | RJ, PB, HR, UP, Bihar plains | May–June | Hot, dry, dust; heat-wave; **not** a thunderstorm |
+| **Nor’wester / Kal Baisakhi** | WB, Assam, Odisha, Bihar, Jharkhand | April–May | Violent **thunderstorm**; hail, lightning |
+| **Mango showers** | **Kerala, Karnataka** | April–May | Pre-monsoon; mango ripening |
+| **Blossom / cherry showers** | TN, Kerala (coffee belt) | April–May | Coffee flowering |
 | **Andhi** | Rajasthan | Pre-monsoon | Dust-storm wall |
-| Sea / land breeze | Coasts | Daily | Onshore day; offshore night |
+| Sea / land breeze | Coasts | Daily | Onshore by day; offshore by night |
 | **Anabatic** | Mountain slopes | **Day** | **Upslope** |
-| **Katabatic** | Valleys | **Night** | **Downslope** cold drainage; frost on valley floor |
+| **Katabatic** | Valleys | **Night** | **Downslope** cold drainage |
 
-Foehn/Chinook = **warm dry** downslope after crossing mountains (world cousins of a special katabatic-type warming).
+### World local winds (match home)
 
-### World local winds (match / NOT-matched home)
+The **Mistral** blows down the Rhône in southern **France**. It is **not** an Australian wind (2019 Q80).
 
-| Wind | Correct region | Trap |
-|------|----------------|------|
-| **Mistral** | Southern **France** (Rhône) | **NOT Australia** — 2019 Q80 |
-| **Shamal** | **Arabia / Persian Gulf** | **NOT Austria** — 2021 Q30 |
-| Santa Ana | California | — |
-| Haboob | Sudan / N Africa | — |
-| **Chinook** | Rockies | Warm + dry — 2024 Q33 stmt 1 |
-| **Foehn** | **Alps** | 2024 Q33 stmt 2 |
-| Brickfielder | Australia | — |
-| Leveche | Spain | — |
-| Black roller | North America | — |
+The **Shamal** blows over **Arabia and the Persian Gulf**. It is **not** an Austrian wind (2021 Q30).
 
-> **Exam note:** 2024 Q33 — both Chinook warm-dry **and** Foehn in Alps are correct.
+The **Chinook** is a warm, dry wind of the **Rockies** (2024 Q33).
+
+The **Foehn** is the Alpine cousin of that warm, dry downslope (2024 Q33).
+
+The **Santa Ana** is Californian. The **Haboob** is Sudanese / North African. The **Brickfielder** is Australian. The **Leveche** is Spanish. The **Black roller** is North American.
+
+> **Exam note:** 2024 Q33 — both Chinook (warm and dry) **and** Foehn in the Alps are correct.
 
 ### Tropical cyclones
 
-- Need SST **≥ 26–27 °C**, moisture, **Coriolis** (rare on equator; typical **5°–30°**), low shear.
-- Peaks: **pre-monsoon (May–Jun)** and **post-monsoon (Oct–Dec)**. SW monsoon shear suppresses BoB cyclones in Jul–Sep.
+A tropical cyclone needs sea-surface temperature of about **26–27 °C or more**. It also needs moisture, **Coriolis**, and low vertical shear.
 
-| Feature | Bay of Bengal | Arabian Sea |
-|---------|---------------|-------------|
-| Frequency / intensity | **More / stronger** | Fewer / generally weaker |
-| Surge risk | Very high (Odisha, AP, WB, Sundarbans) | Moderate (Gujarat, MH, Kerala) |
-| Why | Warm shallow shelf + river freshwater | Higher salinity, narrower fetch |
+Coriolis is too weak on the equator. Typical genesis is between about **5° and 30°**.
 
-IMD ladder (km/h): Depression 31–49 · Deep depression 50–61 · Cyclonic storm 62–88 · Severe 89–117 · Very severe 118–166 · Extremely severe 167–221 · **Super ≥222**.
-Thunderstorm = local convection (hours). Cyclone = synoptic ocean storm (days). Nor'wester ≠ cyclone.
+Peaks are **pre-monsoon (May–June)** and **post-monsoon (October–December)**. Strong south-west-monsoon shear suppresses Bay cyclones in July–September.
+
+The **Bay of Bengal** has **more and stronger** cyclones than the Arabian Sea. The Bay has a warm, shallow shelf and river freshwater. Storm surge risk is very high on Odisha, Andhra Pradesh, West Bengal, and the Sundarbans.
+
+The **Arabian Sea** has fewer, generally weaker storms. Salinity is higher and the fetch is narrower. Gujarat, Maharashtra, and Kerala still take hits.
+
+| IMD class | Wind (km/h) |
+|-----------|-------------|
+| Depression | 31–49 |
+| Deep depression | 50–61 |
+| Cyclonic storm | 62–88 |
+| Severe cyclonic storm | 89–117 |
+| Very severe | 118–166 |
+| Extremely severe | 167–221 |
+| **Super cyclone** | **222 or more** |
+
+A **thunderstorm** is local convection lasting hours. A **cyclone** is a synoptic ocean storm lasting days. A Nor’wester is **not** a cyclone.
 
 ### Cyclone naming
 
-- **WMO/ESCAP** panel; **RSMC New Delhi (IMD)** names N Indian Ocean storms from agreed lists.
-- Devastating names **retired**. India has contributed names such as Amphan, Yaas, Fani, Vayu, Nisarga.
+The **WMO/ESCAP** panel agrees the name lists. **RSMC New Delhi (IMD)** assigns names in the north Indian Ocean.
+
+Devastating names are **retired**. India has contributed names such as **Amphan**.
+
+**Yaas** is another retired Indian-Ocean name.
+
+**Fani** is another.
+
+**Vayu** is another.
+
+**Nisarga** is another.
 
 | Local name | Country / basin |
 |------------|-----------------|
@@ -336,38 +422,39 @@ Thunderstorm = local convection (hours). Cyclone = synoptic ocean storm (days). 
 
 ---
 
-## 2.4 Classification & Ocean–Atmosphere Phenomena
+## 2.4 Classification and ocean–atmosphere phenomena
 
-### Köppen (India) vs Thornthwaite
+### Köppen (India) versus Thornthwaite
+
+Köppen classifies climate by **temperature and precipitation letter codes**.
+
+Thornthwaite classifies by **moisture balance** (precipitation minus potential evapotranspiration).
+
+The exam quote **“Vegetation is the true index of climate”** belongs to **Thornthwaite** (2018 Q25). Do not credit it to Köppen, Trewartha, or Stamp.
+
+Trewartha is a **modified Köppen**, not Thornthwaite.
+
+India is **not** all **Am**. The interior Deccan is **Aw**. The Thar is **BWh**.
 
 | Code | Type | India |
 |------|------|-------|
-| **Am** | Tropical monsoon | Kerala/Konkan, NE (Cherrapunji) |
+| **Am** | Tropical monsoon | Kerala / Konkan, north-east (Cherrapunji) |
 | **Aw** | Tropical savanna | Interior Deccan |
 | **BWh** | Hot desert | **Thar**, Kutch |
 | **BSh** | Semi-arid | Punjab, Haryana, Gujarat, rain-shadow Deccan |
-| **Cwg** | Monsoon, dry winter | **Indo-Gangetic plain** (Lucknow, Delhi, Patna) |
+| **Cwg** | Monsoon with dry winter | **Indo-Gangetic plain** (Lucknow, Delhi, Patna) |
 | **H** | Highland | Himalayan slopes |
-| **E** | Polar/tundra | Highest snow zones only |
-| | Köppen | Thornthwaite |
-|--|--------|--------------|
-| Basis | Temperature + precipitation letters | Moisture balance (P − PE) |
-| Quote | — | **“Vegetation is the true index of climate”** — 2018 Q25 |
-| Trap | Do not credit the quote to Köppen / Trewartha / Stamp | Trewartha = modified Köppen |
-
-India is **not** all Am: interior = Aw; Thar = BWh.
+| **E** | Polar / tundra | Highest snow zones only |
 
 ### Jet streams
 
-Mid-latitude jets = **westerlies** (W→E), upper troposphere, often **300–500 km/h**, discovered in **WWII**. Calling jets generally “easterly” is **false** (2024 Q60).
+Mid-latitude jet streams are **westerlies**. They blow west to east in the upper troposphere. Speeds of **300–500 km/h** are typical. They were noticed widely in **World War II**.
 
-| | **STWJ** (Western Jet) | **TEJ** |
-|--|------------------------|---------|
-| Season | **Winter** | **Summer** |
-| Position | South of Himalaya (~25–30° N) | ~**14° N** over peninsula |
-| Direction | **Westerly** | **Easterly** (the exception) |
-| Role | Steers **Western Disturbances** | Strengthens **SW monsoon** |
-| Summer shift | Moves **north of Tibet** | Establishes after that shift |
+Calling jet streams generally **easterly** is **false** (2024 Q60). The **Tropical Easterly Jet** is the summer exception, not the rule.
+
+The **subtropical westerly jet (STWJ)** is a **winter** jet south of the Himalaya (about 25–30° N). It is **westerly**. It steers **Western Disturbances**. In summer it shifts **north of Tibet**.
+
+The **Tropical Easterly Jet (TEJ)** is a **summer** jet near **14° N** over the peninsula. It is **easterly**. A strong TEJ supports the **south-west monsoon**. It sets up after the STWJ has moved north of Tibet.
 
 **PYQ — UPPCS Prelims 2024, Q60**
 
@@ -389,16 +476,22 @@ D. (A) true, (R) false
 **Ans: B** — General jets are **westerly**. Speed is plausible; it does not save A. TEJ is a summer exception, not the rule.
 </details>
 
-### ENSO & IOD
+### ENSO and IOD
 
-| | Ocean | India | Trap |
-|--|-------|-------|------|
-| **El Niño** | Warm current **off Peru** | Weak-monsoon **tendency** | Warm water **cuts upwelling → plankton/fish fall** — 2023 Q67 stmt 2 false |
-| **La Niña** | Cool E Pacific | Strong-monsoon tendency | Opposite of El Niño |
-| **+IOD** | W Indian Ocean warmer than east | **Helps** monsoon; can offset El Niño | Not “bad for India” |
-| **−IOD** | E Indian Ocean warmer | **Suppresses** monsoon | Worsens El Niño drought |
+**El Niño** is a warm current **off Peru** in the eastern Pacific. It **tends** to weaken the Indian monsoon.
 
-No 1-to-1: not every El Niño year is all-India drought (2019 El Niño + **+IOD** ≈ near-normal). Southern Oscillation = Darwin–Tahiti pressure seesaw.
+Warm El Niño water **cuts upwelling**. **Plankton and fish fall**. They do **not** increase (2023 Q67 statement 2 is false).
+
+**La Niña** is a cool eastern Pacific. It **tends** to strengthen the Indian monsoon.
+
+A **positive IOD** means the western Indian Ocean is warmer than the east. It **helps** the Indian monsoon. It can offset an El Niño.
+
+A **negative IOD** means the eastern Indian Ocean is warmer. It **suppresses** the Indian monsoon. It can worsen an El Niño drought.
+
+There is **no one-to-one** drought rule. 2019 had El Niño plus a **positive IOD** and finished near normal.
+
+The **Southern Oscillation** is the Darwin–Tahiti pressure seesaw.
+
 **PYQ — UPPCS Prelims 2023, Q67**
 
 With reference to El Niño, which of the following statements is/are correct?
@@ -426,17 +519,23 @@ D. Neither 1 nor 2
 
 ### UP Focus
 
-| Element | Lock |
-|---------|------|
-| Summer | **Loo** heat waves on UP plains (May–Jun) |
-| Winter | WD rain/fog; **west UP wetter than east UP** (W→E fade) |
-| Monsoon | BoB depressions; trough over Ganga plain = active rain |
-| Climate type | **Cwg** (Köppen) over most UP plain |
-| Hazards | Lightning (pre-monsoon); winter inversion smog in west UP/NCR fringe |
+The **Loo** brings May–June heat waves on the Uttar Pradesh plains.
+
+Winter rain and fog on the UP plains come from **Western Disturbances**. **Western UP is wetter than eastern UP**.
+
+Monsoon rain on the Ganga plain is often from **Bay of Bengal depressions**. An active spell needs the trough over the plain.
+
+Most of the UP plain is Köppen **Cwg**.
+
+Pre-monsoon **lightning** and winter **inversion smog** (west UP / NCR fringe) are the usual climate hazards.
 
 ### Rainfall extremes (once)
 
-Mawsynram/Cherrapunji wettest · Jaisalmer / Leh driest · Chennai depends on **NE monsoon**.
+**Mawsynram** and **Cherrapunji** are the wettest class stations.
+
+**Jaisalmer** and **Leh** are the driest class stations.
+
+**Chennai** depends on the **north-east monsoon**.
 
 ---
 
