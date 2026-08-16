@@ -83,7 +83,7 @@ KEN–BETWA: only ILR under implementation | MP–UP Bundelkhand
 | **Periyar west; Pennar/Palar east** | 2025 Q116 |
 
 ---
-
+![img_9.png](img_9.png)
 ## 3.0 Drainage framework
 
 A **drainage basin** is the whole catchment of a large river. A **watershed** is a smaller unit inside that basin.
