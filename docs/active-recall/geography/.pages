@@ -1,6 +1,7 @@
 title: Geography
 nav:
   - Overview: index.md
+  - Location, Structure and Physiography: 00_India_Location_Structure_Physiography.md
   - Mountains and Hills: 01_Indian_Physical_Geography_Mountains_Hills.md
   - Climate of India: 02_Climate_of_India.md
   - Drainage System: 03_Drainage_System.md
@@ -8,3 +9,5 @@ nav:
   - Soils of India: 05_Soils.md
   - Agriculture in India: 06_Agriculture.md
   - Minerals and Energy: 08_Minerals_Energy.md
+  - Trade, Transport and Communication: 09_Trade_Transport_Communication.md
+  - Population and Settlements: 11_Population_Settlements.md

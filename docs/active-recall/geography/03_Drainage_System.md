@@ -480,7 +480,18 @@ West: Narmada and Tapi to the Arabian Sea. East: Mahanadi → Godavari → Krish
 
 ## Ten-minute chain
 
-**Q49.** Answer the ten rapid locks.
+**Q49.** Complete these ten rapid locks without notes.
+
+1. Three Himalayan river systems → ______
+2. Five Punjab rivers of the Indus, west to east → ______
+3. Major Ganga tributaries → ______
+4. Ganga name begins at ______ (rivers ______ + ______); Bhagirathi source → ______
+5. Yamuna source → ______
+6. Brahmaputra source region → ______
+7. Four major east-flowing Peninsular rivers, north to south → ______
+8. Two major west-flowing Peninsular rivers → ______
+9. Why Narmada and Tapi flow west → ______
+10. Why east coast has deltas and west coast has estuaries → ______
 
 <details>
 <summary>Show answer</summary>

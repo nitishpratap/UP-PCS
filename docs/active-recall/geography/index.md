@@ -7,6 +7,9 @@ hide:
 
 <div class="study-grid" markdown>
 
+[**Location, Structure and Physiography**
+<span>82°30′E · Tropic 8 States · six divisions · Bhabar–Terai.</span>](00_India_Location_Structure_Physiography.md){ .study-card }
+
 [**Mountains and Hills**
 <span>Himadri → Shiwalik · Purvanchal · Ghats · Aravalli.</span>](01_Indian_Physical_Geography_Mountains_Hills.md){ .study-card }
 
@@ -27,5 +30,11 @@ hide:
 
 [**Minerals and Energy**
 <span>Chota Nagpur · Jharia/Bailadila · KG/Digboi · nuclear vs hydel.</span>](08_Minerals_Energy.md){ .study-card }
+
+[**Trade, Transport and Communication**
+<span>GQ · NS/EW · DFC · NW-1 · Sagarmala ≠ Bharatmala.</span>](09_Trade_Transport_Communication.md){ .study-card }
+
+[**Population and Settlements**
+<span>1921 · density types · DTT · census town · clustered.</span>](11_Population_Settlements.md){ .study-card }
 
 </div>
