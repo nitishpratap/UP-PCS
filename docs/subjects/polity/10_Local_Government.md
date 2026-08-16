@@ -300,38 +300,173 @@ The 73rd Amendment created a **third tier of federalism** — Union, State, and 
 
 ## Arts. 243–243O (elaboration)
 
-**Part IX** is the PRI skeleton, running from the Gram Sabha at one end to the bar on courts at the other.
+**Part IX** is the PRI skeleton. Read it as six jobs, not as sixteen isolated articles.
 
-- **Art. 243** defines the key terms used in this Part — "District", "Gram Sabha", "intermediate level", "Panchayat", "Panchayat area", "population" (as per the last census), and "village".
-- **Art. 243A** defines the Gram Sabha as the body of persons **registered in the electoral rolls** of the village Panchayat, and leaves its actual powers and functions to be decided **by State law** — **not** by the Centre.
-- **Art. 243B** requires Panchayats at the **village, intermediate, and district** levels in every State, but a State with a population **≤ 20 lakh** need **not** have the intermediate tier.
-- **Art. 243C** requires that **all seats be filled by direct election** from territorial constituencies.
-- Under 243C, the chairperson of the village Panchayat is chosen in whatever manner the **State** provides.
-- At the intermediate and district levels, the chairpersons of the tier below **may** sit as members, and MPs/MLAs/MLCs **may** also be given representation.
-- The ratio of population to seats should, as far as practicable, be the same across the State.
-- **Art. 243D** covers reservation, which is elaborated separately below.
-- **Art. 243E** fixes the Panchayat's duration at **5 years** from its first meeting.
-- If a Panchayat is dissolved early, a fresh election must be held **before 6 months** elapse.
-- A reconstituted Panchayat sits only for the **remainder** of the original term, and if that remainder is **less than 6 months**, a fresh election for it **need not** be held at all.
-- A law that changes the Panchayat's structure **shall not** dissolve a sitting Panchayat before its term ends.
-- **Art. 243F** applies the same disqualification grounds as for the State legislature, unless the State adds more grounds of its own.
-- The minimum age to contest is **21** — not 25.
-- The authority that decides a disqualification question is whatever State law names, often the SEC.
-- **Art. 243G** lets the State **endow** Panchayats with powers over the 11th Schedule subjects so that they can function as institutions of self-government — this devolution of all 29 subjects is **not automatic**.
-- **Art. 243H** lets the State authorise Panchayats to levy, collect, or receive an assignment of taxes, duties, tolls, and fees, and to receive grants-in-aid.
-- **Art. 243I** requires the **Governor** to constitute a State Finance Commission every **5 years**.
-- The SFC recommends tax-sharing arrangements, grants, and measures to improve PRI finances.
-- The Governor must lay the SFC's report before the State legislature along with an **action-taken** memorandum.
-- **Art. 243J** leaves the maintenance and audit of Panchayat accounts to State law.
-- **Art. 243K** gives the State Election Commission the job of superintendence, direction, and control of **electoral rolls and elections** to the Panchayats.
-- The SEC is appointed by the **Governor**, and can be **removed only like a High Court judge**, with service conditions that cannot be varied to their disadvantage.
-- The Governor may make election rules after consulting the SEC.
-- **Art. 243L** allows the President to apply Part IX to Union Territories, with exceptions.
-- **Art. 243M** excludes Part IX from applying to **Nagaland, Meghalaya, and Mizoram**, to hill areas of **Manipur** that have a district council, and to the **Darjeeling Gorkha Hill Council** area of West Bengal, except as Parliament provides.
-- Under 243M, Parliament **may extend** Part IX to Fifth Schedule areas — this is exactly what **PESA** does — but Sixth Schedule areas are **not** covered by PESA at all.
-- **Art. 243N** lets existing State PRI laws continue until they are amended, or for **1 year**, whichever is earlier.
-- **Art. 243O** bars courts from questioning the validity of any law on delimitation or seat allotment.
-- Under 243O, an election can be challenged **only** through an **election petition** filed with the authority named by State law — the same logic as **Art. 329** for general elections.
+| Job | Articles | One lock |
+|-----|----------|----------|
+| Who they are | 243, 243A, 243B | Definitions, Gram Sabha, three tiers |
+| How they sit | 243C, 243D | Direct seats; reservation |
+| How long they sit | 243E, 243F | 5 years; age **21** |
+| What they can do | 243G, 243H, 243J | 11th Schedule is a menu, not a gift |
+| Money and polls | 243I, 243K | SFC and SEC — both by the **Governor** |
+| Where and courts | 243L–243O | UTs, exclusions, 1-year window, bar like **329** |
+
+> **Do not mix:** **seats** are always direct. The **chairperson** is not. **PESA** is Parliament’s Fifth Schedule law. Nagaland / Meghalaya / Mizoram are a **different** 243M box.
+
+### Art. 243 — dictionary of Part IX
+
+**Art. 243** | definitions used only in this Part.
+
+- It defines **District**, **Gram Sabha**, **intermediate level**, **Panchayat**, **Panchayat area**, **village**, and **population**.
+- **Population** here means the last published census figures that the Centre has notified for this Part.
+
+### Art. 243A — Gram Sabha
+
+**Art. 243A** | village voters, not a fourth tier.
+
+- The Gram Sabha is every person **registered in the electoral rolls** of that village Panchayat.
+- It is **not** “all residents of the village”.
+- Its powers come from **State law**, never from a Central notification.
+
+### Art. 243B — the three tiers
+
+**Art. 243B** | village + intermediate + district.
+
+- Every State **shall** have a Panchayat at the **village** level and at the **district** level.
+- Every State shall also have an **intermediate** Panchayat, unless the State’s population is **not more than 20 lakh**.
+- Goa and Sikkim are the usual examples of the skip. Uttar Pradesh **cannot** skip, because its population is far above 20 lakh.
+
+### Art. 243C — composition (this is the usual muddle)
+
+**Art. 243C** | two different questions: who fills a **seat**, and who becomes the **chair**.
+
+**Seats (compulsory)**
+- Every **seat** in every Panchayat is filled by **direct** election from a territorial constituency.
+- As far as practicable, the ratio of population to seats must be the **same** throughout the State.
+
+**Chairperson (State decides)**
+- The chairperson of the **village** Panchayat is chosen in the manner the **State** provides. In Uttar Pradesh the **Pradhan is directly elected**. Other States may let the elected members choose the chair.
+- The chairpersons of the **intermediate** and **district** Panchayats are also chosen as **State law** provides. That is usually an **indirect** election from among the members.
+
+**Extra members (optional — these are not the “seats”)**
+- A State **may** let village chairpersons sit in the intermediate Panchayat.
+- A State **may** let intermediate chairpersons sit in the district Panchayat.
+- A State **may** give a place to MPs, MLAs, and MLCs, and it also decides whether they get a **vote**.
+
+> **Exam note:** “All members of a Panchayat are directly elected” is **true of seats**. It is **false** if the option also means the chairperson and every ex-officio MLA.
+
+### Art. 243D — reservation
+
+**Art. 243D** | SC/ST in proportion; women **≥ 1/3**; OBC only if the State wants it.
+
+- This article covers both **seats** and **chairperson offices**, at all three tiers.
+- The constitutional floor for women is **one-third**, not one-half and not one-fourth.
+- Uttar Pradesh’s **50%** women quota is **State law**. The Constitution has not been amended to 50%.
+
+### Art. 243E — duration (two clocks)
+
+**Art. 243E** | 5 years from the **first meeting**, not from the date of poll.
+
+**Clock 1 — the normal term**
+- A Panchayat, unless dissolved sooner, continues for **five years** from the date of its first meeting.
+- An election to reconstitute it must be completed **before** those five years run out.
+- A later State law that changes the Panchayat’s structure **cannot** cut short a sitting Panchayat’s term.
+
+**Clock 2 — if it is dissolved early**
+- A fresh election must then be held **before six months** from the date of dissolution.
+- The body that comes in after that poll sits only for the **remainder** of the original five years. It does **not** get a new five-year clock.
+- If that remainder is **less than six months**, an election for the leftover stump **need not** be held. The next full election waits for the original five-year cycle to end.
+
+Worked picture: a Panchayat first met in January 2021, so its five years run to January 2026.
+- Dissolved in January 2024 → leftover is two years → elect within six months → the new house sits only till January 2026.
+- Dissolved in October 2025 → leftover is under six months → skip a mid-term poll → elect the next full house for January 2026.
+
+### Art. 243F — who may contest
+
+**Art. 243F** | same disqualifications as an MLA, plus whatever the State adds.
+
+- The minimum age to contest a Panchayat seat is **21**, not 25. The 25-year floor is for the **State Assembly**.
+- A person who is disqualified for the State legislature is disqualified for a Panchayat, unless State law says otherwise on a particular ground.
+- The State **may** add extra disqualifications of its own, such as having more than two living children.
+- The authority that decides a disputed disqualification is whoever **State law** names. That is often the **SEC**, but the Constitution does not freeze that choice.
+
+### Arts. 243G–243J — functions, taxes, accounts
+
+**Art. 243G** | the State **may** endow powers, including the **29** subjects of the 11th Schedule.
+
+- Devolution of all 29 subjects is **not automatic**. The Schedule is a menu. The State picks what to hand over so that Panchayats can work as institutions of **self-government**.
+
+**Art. 243H** | taxes only if the State authorises them.
+
+- A State may let Panchayats **levy**, **collect**, or receive an **assignment** of taxes, duties, tolls, and fees.
+- A State may also give them **grants-in-aid** from its Consolidated Fund.
+- A Gram Panchayat still cannot invent GST, land revenue, or customs. Those are not 243H gifts.
+
+**Art. 243J** | audit is a State-law subject.
+
+- How Panchayat accounts are kept and audited is left entirely to the **State**.
+
+### Art. 243I — State Finance Commission
+
+**Art. 243I** | Governor, every **5 years**, report plus action-taken note.
+
+- The **Governor** constitutes the SFC at the expiry of every fifth year, and may do so earlier.
+- The SFC recommends how State taxes should be **shared**, which taxes Panchayats may levy, what **grants** they should get, and how PRI finances can be improved.
+- The Governor must cause the report to be laid before the State legislature together with an **explanatory memorandum of the action taken**.
+- The Union Finance Commission is a different body under **Art. 280**. From the 10th FC onwards it has also recommended grants **to** PRIs, routed through the State.
+
+### Art. 243K — State Election Commission
+
+**Art. 243K** | PRI rolls and polls. **Not** the ECI.
+
+- The SEC has superintendence, direction, and control of the **electoral rolls** and of **all elections** to the Panchayats.
+- The State Election Commissioner is **appointed by the Governor**.
+- Removal is only in the manner and on the grounds of a **High Court judge**, not by a simple State-cabinet order.
+- Conditions of service **cannot be varied to the Commissioner’s disadvantage** after appointment.
+- The Governor may make Panchayat election rules **after consulting** the SEC.
+- The ECI still runs only Parliament and State-legislature elections. Municipal polls sit with the **same** SEC under **Art. 243ZA**.
+
+### Art. 243L — Union Territories
+
+**Art. 243L** | President may apply Part IX to a UT, with exceptions and modifications.
+
+### Art. 243M — where Part IX does **not** automatically run
+
+**Art. 243M** | four different boxes. Mixing them is the trap.
+
+**Box 1 — whole States left out, unless that State itself opts in**
+- Part IX does **not** apply to **Nagaland**, **Meghalaya**, or **Mizoram**.
+- The **Legislature of that State** may, by law, extend Part IX to itself. This is **not** a PESA job, and it is **not** a Presidential order.
+
+**Box 2 — hill councils that already exist**
+- Part IX does not apply to the **hill areas of Manipur** that already have a district council.
+- **District-level** Panchayats do not apply in the **Darjeeling Gorkha Hill Council** area of West Bengal. The Council’s own functions stay intact.
+
+**Box 3 — Fifth and Sixth Schedule areas (Art. 244)**
+- Part IX does **not** automatically apply to **Fifth Schedule** areas or to **Sixth Schedule** tribal areas.
+- **Parliament may** extend Part IX to those areas, with exceptions and modifications.
+- **PESA, 1996** is that extending law for **Fifth Schedule** areas only. It does **not** touch the Sixth Schedule.
+- Autonomous District Councils under the Sixth Schedule (Assam, Meghalaya, Tripura, Mizoram) therefore sit **outside** PESA.
+
+**Box 4 — Arunachal Pradesh**
+- **Art. 243D**’s reservation of seats for **Scheduled Castes** does not apply in Arunachal Pradesh, because the State is almost entirely Scheduled Tribe.
+- The rest of Part IX **does** apply there.
+
+> **Exam note:** Nagaland / Meghalaya / Mizoram = **243M exclusion**. PESA States = the **ten Fifth Schedule** States. Meghalaya is in both the 243M list and the Sixth Schedule — still **not** a PESA State.
+
+### Art. 243N — one-year window for old State laws
+
+**Art. 243N** | old PRI Acts could continue only until amended, or for **one year** from 24 April 1993, whichever came first.
+
+- That is why States had to rewrite their Panchayat laws to match the 73rd Amendment within a year.
+
+### Art. 243O — courts stay out of the poll machinery
+
+**Art. 243O** | same logic as **Art. 329** for Lok Sabha and Assembly elections.
+
+- No court can question a law on **delimitation** of Panchayat constituencies or on **allotment of seats**.
+- A Panchayat election can be challenged **only** by an **election petition**, filed before the authority and in the manner that **State law** names.
+- Ordinary writs are not a substitute for that petition.
 
 **PYQ — UPPCS Prelims 2023, Q16**
 
@@ -1009,6 +1144,7 @@ UP's three ULB types are called **Nagar Nigam, Nagar Palika Parishad,** and **Na
 - **DPC = Zila Panchayat:** DPC is a **planning** body (PRIs **+** ULBs); ZP is a PRI.
 - **11th Schedule has urban planning:** that is **12th** (18 subjects).
 - **PESA States include Nagaland / 6th Sch.:** **10 Fifth-Schedule States** only.
+- **Parliament extends Part IX to Nagaland / Meghalaya / Mizoram:** those three opt in only by **their own legislature**. Parliament’s PESA route is **Fifth Schedule** only.
 - **Coop board can be superseded for years:** **243ZL: max 6 months** (banks: 1 year).
 - **Ripon = 73rd:** Ripon **1882**; 73rd **1992–93**.
 - **Municipal age 25:** **21** (243V) — same as Panchayat.
