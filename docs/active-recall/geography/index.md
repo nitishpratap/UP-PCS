@@ -5,4 +5,9 @@ hide:
 
 # Geography — Active Recall
 
-No decks yet. Paste a ChatGPT dump in Cursor and say it belongs to **Geography**.
+<div class="study-grid" markdown>
+
+[**Mountains and Hills**
+<span>Himadri → Shiwalik · Purvanchal · Ghats · Aravalli.</span>](01_Indian_Physical_Geography_Mountains_Hills.md){ .study-card }
+
+</div>

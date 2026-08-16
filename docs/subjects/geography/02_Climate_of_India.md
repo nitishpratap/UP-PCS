@@ -74,7 +74,7 @@ HEAT: troposphere heated by LONG-WAVE terrestrial (not short-wave) | lapse ~6.5 
 | **Snow shines most** | albedo 2021 Q66 |
 
 ---
-
+![img_6.png](img_6.png)
 ## 2.1 Climate Basics
 
 India = **monsoon climate** (seasonal wind reversal). Not a single cause: latitude + Himalayan barrier + distance from sea + monsoon circulation.
