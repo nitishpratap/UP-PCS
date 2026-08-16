@@ -83,10 +83,12 @@ SACRED: Tirupati = Tirumala/Mallamalla (E Ghats) NOT Shevaroy
 | **10 Andaman, 9 Minicoy, 8 Maldives** | Island channels |
 
 ---
-![img_5.png](img_5.png)
+
+![img_5.png](../img_5.png)
+
 ## 1.0 Physiographic framework
 
-NCERT splits India’s geology into **three** structural units. Coaching maps then teach **six** relief divisions on that skeleton.
+- NCERT splits India’s geology into **three** structural units. Coaching maps then teach **six** relief divisions on that skeleton.
 
 | Structural unit | What it is | Exam lock |
 |-----------------|------------|-----------|
@@ -94,21 +96,14 @@ NCERT splits India’s geology into **three** structural units. Coaching maps th
 | **Himalayas and extra-peninsular mountains** | Young fold belt from India–Eurasia collision | Still rising in zones; includes Karakoram and Purvanchal |
 | **Indo–Ganga–Brahmaputra Plain** | Foredeep filled with Himalayan alluvium | One of the world’s largest alluvial tracts |
 
-The **six** relief units used in map questions are Northern Mountains, Northern Plains, Peninsular Plateau, Indian Desert, Coastal Plains, and Islands.
-
-PMF IAS (Kullar) often lists **five** units and folds the Thar into the **Rajasthan Plain**. UPPCS still asks Thar as a **separate** Pleistocene–recent sand sheet, so keep six.
-
-About **43%** of India is plains, **28%** plateau, **19%** hills, and **11%** high mountains (PMF IAS class figures).
-
-The Himalaya is a **climatic wall**. It blocks cold Central Asian winds in winter and forces orographic rain on the southern slopes in the monsoon.
-
-The Peninsular Plateau is **not** the same as the Deccan Plateau. The Deccan is the **southern** tableland. The Central Highlands (Malwa, Bundelkhand, Baghelkhand) are the **northern** part of the same old block.
-
-The plateau is tilted **high in the west and low in the east**. That is why most peninsular rivers drain to the Bay of Bengal.
-
-The plateau is separated from the Northern Plains roughly along the **Narmada–Son** line.
-
-The **Malda Gap** (Rajmahal–Garo gap) separates the Meghalaya Plateau from the main peninsular block.
+- The **six** relief units used in map questions are Northern Mountains, Northern Plains, Peninsular Plateau, Indian Desert, Coastal Plains, and Islands.
+- PMF IAS (Kullar) often lists **five** units and folds the Thar into the **Rajasthan Plain**. UPPCS still asks Thar as a **separate** Pleistocene–recent sand sheet, so keep six.
+- About **43%** of India is plains, **28%** plateau, **19%** hills, and **11%** high mountains (PMF IAS class figures).
+- The Himalaya is a **climatic wall**. It blocks cold Central Asian winds in winter and forces orographic rain on the southern slopes in the monsoon.
+- The Peninsular Plateau is **not** the same as the Deccan Plateau. The Deccan is the **southern** tableland. The Central Highlands (Malwa, Bundelkhand, Baghelkhand) are the **northern** part of the same old block.
+- The plateau is tilted **high in the west and low in the east**. That is why most peninsular rivers drain to the Bay of Bengal.
+- The plateau is separated from the Northern Plains roughly along the **Narmada–Son** line.
+- The **Malda Gap** (Rajmahal–Garo gap) separates the Meghalaya Plateau from the main peninsular block.
 
 > **Exam note:** Thar sands = **Pleistocene and recent** (not Paleocene/Oligocene/Pliocene) — UPPCS 2018 Q101. Gujarat = longest **state** coastline — UPPCS 2018 Q98.
 
@@ -145,33 +140,20 @@ D. Oligocene
 
 ### Northern Plains
 
-The Northern Plain is a **foredeep** filled by Himalayan rivers. South of the Shiwaliks the belts run **Bhabar → Terai → Bhangar / Khadar**. Never reverse that order.
-
-The Indian sector of this alluvial tract is about **2400 km** long. Width is greatest in the west (about **500 km**) and narrows eastward.
-
-Average elevation is about **200 m**. The **Ambala** watershed (about **291 m**) divides the **Indus** and **Ganga** systems.
-
-The **Bhabar** is a narrow pebble belt, about **8–16 km** wide, immediately south of the Shiwaliks. Streams **sink** into the porous gravel here.
-
-Bhabar fans run with remarkable continuity from the **Indus to the Tista**. The belt is wider in the west than in the east.
-
-Bhabar is **poor for plough agriculture**. Only deep-rooted trees do well.
-
-The **Terai** lies south of the Bhabar. Streams **re-emerge**, so the belt is marshy and forested. It is about **15–30 km** wide.
-
-Terai is **more marked in the east** because rainfall is higher there.
-
-**Jim Corbett** (Uttarakhand) and **Kaziranga** (Assam) sit in terai / floodplain forest.
-
-**Dudhwa** National Park and **Katarniaghat** Wildlife Sanctuary sit in the Terai of Uttar Pradesh.
-
-**Bhangar** is older alluvium above the present flood level. It carries **kankar** (calcareous nodules) and is less fertile.
-
-**Barind** in the Bengal delta and **bhur** (wind-blown sand mounds in the Ganga–Yamuna Doab) are regional names of older alluvium.
-
-**Khadar** is newer floodplain alluvium, renewed almost every flood, and is **more fertile** than Bhangar.
-
-Alkaline patches on older alluvium are called **reh** or **kallar** (also **kollar** in drier Haryana). Extra irrigation can spread reh by capillary salts.
+- The Northern Plain is a **foredeep** filled by Himalayan rivers. South of the Shiwaliks the belts run **Bhabar → Terai → Bhangar / Khadar**. Never reverse that order.
+- The Indian sector of this alluvial tract is about **2400 km** long. Width is greatest in the west (about **500 km**) and narrows eastward.
+- Average elevation is about **200 m**. The **Ambala** watershed (about **291 m**) divides the **Indus** and **Ganga** systems.
+- The **Bhabar** is a narrow pebble belt, about **8–16 km** wide, immediately south of the Shiwaliks. Streams **sink** into the porous gravel here.
+- Bhabar fans run with remarkable continuity from the **Indus to the Tista**. The belt is wider in the west than in the east.
+- Bhabar is **poor for plough agriculture**. Only deep-rooted trees do well.
+- The **Terai** lies south of the Bhabar. Streams **re-emerge**, so the belt is marshy and forested. It is about **15–30 km** wide.
+- Terai is **more marked in the east** because rainfall is higher there.
+- **Jim Corbett** (Uttarakhand) and **Kaziranga** (Assam) sit in terai / floodplain forest.
+- **Dudhwa** National Park and **Katarniaghat** Wildlife Sanctuary sit in the Terai of Uttar Pradesh.
+- **Bhangar** is older alluvium above the present flood level. It carries **kankar** (calcareous nodules) and is less fertile.
+- **Barind** in the Bengal delta and **bhur** (wind-blown sand mounds in the Ganga–Yamuna Doab) are regional names of older alluvium.
+- **Khadar** is newer floodplain alluvium, renewed almost every flood, and is **more fertile** than Bhangar.
+- Alkaline patches on older alluvium are called **reh** or **kallar** (also **kollar** in drier Haryana). Extra irrigation can spread reh by capillary salts.
 
 | Sub-region | Location | Lock |
 |------------|----------|------|
@@ -180,7 +162,7 @@ Alkaline patches on older alluvium are called **reh** or **kallar** (also **koll
 | **Ganga Plain** | Delhi to Kolkata | Rohilkhand, Awadh, Mithila, Magadh |
 | **Brahmaputra Plain** | Assam | Braided channel; **bils** (ox-bows); floods |
 
-A **doab** is the land between two rivers.
+- A **doab** is the land between two rivers.
 
 | Doab | Between |
 |------|---------|
@@ -190,53 +172,36 @@ A **doab** is the land between two rivers.
 | **Chaj** | Chenab and Jhelum |
 | **Sind Sagar** | Jhelum–Chenab and the Indus |
 
-The **Ganga–Yamuna Doab** is the core agricultural heart of western Uttar Pradesh.
-
-**Majuli** in Assam is the world’s largest inhabited **river island** (shrinking by erosion). **Kaziranga** sits on the Brahmaputra floodplain.
-
-The Ganga delta is **arcuate**. The **Sundarbans** mangrove tract straddles India and Bangladesh.
+- The **Ganga–Yamuna Doab** is the core agricultural heart of western Uttar Pradesh.
+- **Majuli** in Assam is the world’s largest inhabited **river island** (shrinking by erosion). **Kaziranga** sits on the Brahmaputra floodplain.
+- The Ganga delta is **arcuate**. The **Sundarbans** mangrove tract straddles India and Bangladesh.
 
 > **Exam note:** Khadar is newer and more fertile. Never swap it with Bhangar. Duars of West Bengal–Assam are a **different** foothill tract from the UP Terai.
 
 ### Indian Desert (Thar / Marusthali)
 
-The Thar lies on the **leeward** side of the Aravalli. Core rainfall is generally **below 250 mm**.
-
-At depth the desert sits on **peninsular** gneiss and granite. Only the surface looks like a young sand sheet.
-
-**Marusthali** is the sandy desert core with shifting **barchans**. The **west** is sandier; the **east** is rockier.
-
-**Bagar** is the semi-arid eastern fringe up to the Aravalli, with short seasonal streams and **rohi** patches.
-
-The tract **north of the Luni** is the **thali** (sandy plain) with inland saline lakes.
-
-**Sambhar Lake** near Jaipur is the largest inland salt lake. **Didwana, Degana, and Kuchaman** are other saline lakes.
-
-The **Luni** is the only major river of the region. It is **seasonal** and **inland-draining**. It is not a perennial Arabian Sea river.
-
-The southern margin is the **Rann of Kachchh**. The eastern margin is the Aravalli.
+- The Thar lies on the **leeward** side of the Aravalli. Core rainfall is generally **below 250 mm**.
+- At depth the desert sits on **peninsular** gneiss and granite. Only the surface looks like a young sand sheet.
+- **Marusthali** is the sandy desert core with shifting **barchans**. The **west** is sandier; the **east** is rockier.
+- **Bagar** is the semi-arid eastern fringe up to the Aravalli, with short seasonal streams and **rohi** patches.
+- The tract **north of the Luni** is the **thali** (sandy plain) with inland saline lakes.
+- **Sambhar Lake** near Jaipur is the largest inland salt lake. **Didwana, Degana, and Kuchaman** are other saline lakes.
+- The **Luni** is the only major river of the region. It is **seasonal** and **inland-draining**. It is not a perennial Arabian Sea river.
+- The southern margin is the **Rann of Kachchh**. The eastern margin is the Aravalli.
 
 > **Exam note:** Thar sands = Pleistocene and recent — UPPCS 2018 Q101.
 
 ### Coastal Plains
 
-The **Western Coastal Plain** is **narrow** (about 50–80 km) because the Western Ghats rise close to the Arabian Sea.
-
-The **Eastern Coastal Plain** is **broad** (about 100–200 km) and **deltaic**. Average width is about **120 km**.
-
-India’s mainland coast is fairly **straight** (Cretaceous Gondwana faulting). It offers **fewer** deep natural harbours than an indented European coast.
-
-**Konkan** (Maharashtra–Goa) is a coast of **submergence** (faulted, drowned inlets, Mumbai harbour).
-
-**Malabar / Kerala** is a coast of **emergence** (lagoons, spits, kayals).
-
-**Coromandel** (Tamil Nadu) is a coast of **emergence**. Deltas silt harbours.
-
-**Kachchh and Kathiawar** are geologically a **peninsular** extension (Kathiawar has Deccan lava). They are still mapped with the western coastal plains because they are now levelled.
-
-**Kachchh** was once an island. The **Great Rann** is the salt waste to its north. The **Little Rann** lies to the south-east.
-
-**Girnar (1117 m)** is a volcanic high on Kathiawar. The **Gir** forest is the last home of the Asiatic lion.
+- The **Western Coastal Plain** is **narrow** (about 50–80 km) because the Western Ghats rise close to the Arabian Sea.
+- The **Eastern Coastal Plain** is **broad** (about 100–200 km) and **deltaic**. Average width is about **120 km**.
+- India’s mainland coast is fairly **straight** (Cretaceous Gondwana faulting). It offers **fewer** deep natural harbours than an indented European coast.
+- **Konkan** (Maharashtra–Goa) is a coast of **submergence** (faulted, drowned inlets, Mumbai harbour).
+- **Malabar / Kerala** is a coast of **emergence** (lagoons, spits, kayals).
+- **Coromandel** (Tamil Nadu) is a coast of **emergence**. Deltas silt harbours.
+- **Kachchh and Kathiawar** are geologically a **peninsular** extension (Kathiawar has Deccan lava). They are still mapped with the western coastal plains because they are now levelled.
+- **Kachchh** was once an island. The **Great Rann** is the salt waste to its north. The **Little Rann** lies to the south-east.
+- **Girnar (1117 m)** is a volcanic high on Kathiawar. The **Gir** forest is the last home of the Asiatic lion.
 
 | Western strip | Stretch |
 |---------------|---------|
@@ -253,53 +218,33 @@ India’s mainland coast is fairly **straight** (Cretaceous Gondwana faulting). 
 | **Carnatic** | Krishna to Kaveri |
 | **Coromandel / Payan Ghat** | False Divi Point to Kanyakumari |
 
-The **Sharavati** drops as **Jog (Gersoppa) Falls** (about 271 m) on the Karnataka Ghats scarp.
-
-**Sriharikota** is the sand spit that bars **Pulicat** Lake (ISRO).
-
-**Kolleru** was once a coastal lagoon. Emergence has left it **inland** on the combined Godavari–Krishna delta.
-
-The **Kaveri delta** (about 130 km wide) is the “granary of South India.”
-
-The **Kerala kayals** (backwaters) are lagoon–estuary waterways. **Vembanad** is the largest.
-
-**Chilika** (Odisha) is India’s largest coastal lagoon.
-
-Kerala beach sands carry **monazite** (thorium). The KG offshore basin is a hydrocarbon play.
-
-West-flowing Narmada and Tapi form **estuaries**, not large deltas.
+- The **Sharavati** drops as **Jog (Gersoppa) Falls** (about 271 m) on the Karnataka Ghats scarp.
+- **Sriharikota** is the sand spit that bars **Pulicat** Lake (ISRO).
+- **Kolleru** was once a coastal lagoon. Emergence has left it **inland** on the combined Godavari–Krishna delta.
+- The **Kaveri delta** (about 130 km wide) is the “granary of South India.”
+- The **Kerala kayals** (backwaters) are lagoon–estuary waterways. **Vembanad** is the largest.
+- **Chilika** (Odisha) is India’s largest coastal lagoon.
+- Kerala beach sands carry **monazite** (thorium). The KG offshore basin is a hydrocarbon play.
+- West-flowing Narmada and Tapi form **estuaries**, not large deltas.
 
 > **Exam note:** Do not reverse widths. West is narrow; east is broad. Do not call the **whole** west coast submerged — only **Konkan** is the classic drowned coast.
 
 ### Islands of India
 
-The **Andaman and Nicobar** chain is a southward continuation of the **Arakan Yoma** (Purvanchal–Myanmar arc). The rocks are **volcanic / tectonic**. The capital is **Port Blair** on **South Andaman**.
-
-**Saddle Peak (737 m)** on **North Andaman** is the highest point of the archipelago.
-
-**Barren Island** is India’s **only active volcano**. **Narcondam** is volcanic but **dormant / extinct**. (Do not copy the older “both active” line.)
-
-The **Ten Degree Channel** separates the Andaman group from the Nicobar group.
-
-**Duncan Passage** separates **South Andaman** from **Little Andaman**.
-
-The **Coco Channel** lies between North Andaman and Myanmar’s Coco Islands.
-
-**Car Nicobar** is the northernmost Nicobar island. **Great Nicobar** is the largest and southernmost, close to **Sumatra**.
-
-**Indira Point** on **Great Nicobar** (about 6°45′ N) is India’s southernmost **territory**. It is not Kanyakumari.
-
-**Lakshadweep** islands are **coral atolls** (Reunion hotspot trail) about 200–500 km off Kerala. The capital is **Kavaratti**.
-
-The old three-fold names are **Amindivi** (north), **Laccadive** (middle), and **Minicoy** (south).
-
-**Minicoy** is the largest and southernmost inhabited island of Lakshadweep. Elevation is generally **under 5 m**, so the group is highly exposed to sea-level rise.
-
-The **Nine Degree Channel** separates **Minicoy** from the rest of Lakshadweep.
-
-The **Eight Degree Channel** separates **Minicoy** from the **Maldives**.
-
-Adam’s Bridge / **Rama Setu** remnants lie between India and Sri Lanka. They are a submerged limestone shoal, not a Himalayan fold.
+- The **Andaman and Nicobar** chain is a southward continuation of the **Arakan Yoma** (Purvanchal–Myanmar arc). The rocks are **volcanic / tectonic**. The capital is **Port Blair** on **South Andaman**.
+- **Saddle Peak (737 m)** on **North Andaman** is the highest point of the archipelago.
+- **Barren Island** is India’s **only active volcano**. **Narcondam** is volcanic but **dormant / extinct**. (Do not copy the older “both active” line.)
+- The **Ten Degree Channel** separates the Andaman group from the Nicobar group.
+- **Duncan Passage** separates **South Andaman** from **Little Andaman**.
+- The **Coco Channel** lies between North Andaman and Myanmar’s Coco Islands.
+- **Car Nicobar** is the northernmost Nicobar island. **Great Nicobar** is the largest and southernmost, close to **Sumatra**.
+- **Indira Point** on **Great Nicobar** (about 6°45′ N) is India’s southernmost **territory**. It is not Kanyakumari.
+- **Lakshadweep** islands are **coral atolls** (Reunion hotspot trail) about 200–500 km off Kerala. The capital is **Kavaratti**.
+- The old three-fold names are **Amindivi** (north), **Laccadive** (middle), and **Minicoy** (south).
+- **Minicoy** is the largest and southernmost inhabited island of Lakshadweep. Elevation is generally **under 5 m**, so the group is highly exposed to sea-level rise.
+- The **Nine Degree Channel** separates **Minicoy** from the rest of Lakshadweep.
+- The **Eight Degree Channel** separates **Minicoy** from the **Maldives**.
+- Adam’s Bridge / **Rama Setu** remnants lie between India and Sri Lanka. They are a submerged limestone shoal, not a Himalayan fold.
 
 > **Exam note:** Never reverse origins. A&N = volcanic. Lakshadweep = coral.
 
@@ -307,9 +252,8 @@ Adam’s Bridge / **Rama Setu** remnants lie between India and Sri Lanka. They a
 
 ## 1.2 Himalayan Mountain System
 
-The Himalaya is a **young fold** belt from the **Indian–Eurasian** collision (about 50 million years ago). The arc is about **2400 km** from the **Indus gorge** (west) to the **Dihang gorge** (east).
-
-The arc has two **syntaxial bends**. The western bend is around **Nanga Parbat**. The eastern bend is around **Namcha Barwa** in **Tibet**, not in India.
+- The Himalaya is a **young fold** belt from the **Indian–Eurasian** collision (about 50 million years ago). The arc is about **2400 km** from the **Indus gorge** (west) to the **Dihang gorge** (east).
+- The arc has two **syntaxial bends**. The western bend is around **Nanga Parbat**. The eastern bend is around **Namcha Barwa** in **Tibet**, not in India.
 
 ### North to south (parallel ranges)
 
@@ -320,15 +264,11 @@ The arc has two **syntaxial bends**. The western bend is around **Nanga Parbat**
 | **Himachal** (Lesser) | 3700–4500 m | Sedimentary; **marine fossils** |
 | **Shiwalik** (Outer) | 900–1100 m | Youngest; unconsolidated; **human remains** |
 
-The **Himadri** is the highest and most continuous range. It is crystalline (granite–gneiss) with a steep **south** face and gentler **north** face (**hogback**).
-
-The **Himachal** belt holds most famous hill stations. **Pir Panjal**, **Dhauladhar**, **Mussoorie**, and **Nag Tibba** belong here.
-
-**Mahabharat Lekh** is the Lesser Himalaya name in **Nepal**.
-
-The **Shiwalik** is the outermost and youngest range (about 600–1500 m; often quoted 900–1100 m). It is folded conglomerate fans, not crystalline rock.
-
-Seasonal torrents that dissect the Punjab–Himachal Shiwalik are **chos**. Forest cover on Shiwalik **decreases westwards** with rainfall.
+- The **Himadri** is the highest and most continuous range. It is crystalline (granite–gneiss) with a steep **south** face and gentler **north** face (**hogback**).
+- The **Himachal** belt holds most famous hill stations. **Pir Panjal**, **Dhauladhar**, **Mussoorie**, and **Nag Tibba** belong here.
+- **Mahabharat Lekh** is the Lesser Himalaya name in **Nepal**.
+- The **Shiwalik** is the outermost and youngest range (about 600–1500 m; often quoted 900–1100 m). It is folded conglomerate fans, not crystalline rock.
+- Seasonal torrents that dissect the Punjab–Himachal Shiwalik are **chos**. Forest cover on Shiwalik **decreases westwards** with rainfall.
 
 | Region | Local name of Shiwalik |
 |--------|------------------------|
@@ -337,13 +277,10 @@ Seasonal torrents that dissect the Punjab–Himachal Shiwalik are **chos**. Fore
 | Nepal | Churia Ghat Hills |
 | Arunachal | Dafla, Miri, Abor, Mishmi (outer hills) |
 
-Longitudinal valleys between Himachal and Shiwalik are **duns** in the west and **duars** in the east.
-
-**Dehra Dun** is the best-known dun (about 75 km by 15–20 km). **Kotli, Patli, Kyarda, Chaukhamba, and Udhampur** are other named duns.
-
-High snow-covered ranges feed **perennial** Himalayan rivers (Indus, Ganga, Brahmaputra headwaters).
-
-Altitude creates climate belts, so vegetation changes from tropical through temperate and alpine to nival.
+- Longitudinal valleys between Himachal and Shiwalik are **duns** in the west and **duars** in the east.
+- **Dehra Dun** is the best-known dun (about 75 km by 15–20 km). **Kotli, Patli, Kyarda, Chaukhamba, and Udhampur** are other named duns.
+- High snow-covered ranges feed **perennial** Himalayan rivers (Indus, Ganga, Brahmaputra headwaters).
+- Altitude creates climate belts, so vegetation changes from tropical through temperate and alpine to nival.
 
 > **Exam note:** UPPCS 2019 Q11 — **all three** true: Greater = fossil-less; Lesser = marine fossils; Shiwalik = human remains. 2020 Q60 youngest among options = **Himadri** (Aravalli is oldest). 2025 Q94 A/R: snow → perennial rivers (**both true, R explains A**). 2025 Q21 A/R: altitude → vegetation (**both true, R explains A**).
 
@@ -371,107 +308,64 @@ D. 1, 2 and 3 are correct
 
 ### West to east (regional sections)
 
-NCERT cuts the Himalaya by rivers, west to east.
-
-The **Punjab Himalaya** (about **560 km**) lies between the **Indus and the Satluj**. Karakoram, Ladakh, Pir Panjal, Zaskar, and Dhauladhar sit in this western block.
-
-The **Kumaon Himalaya** lies between the **Satluj and the Kali**. It is Uttarakhand Himalaya, with **Nanda Devi**, **Mana**, and **Niti**. Mussoorie and Nag Tibba represent the Lesser Himalaya here.
-
-**Western Himalaya** as a coaching super-region runs **Indus to Kali** (Kashmir + Himachal + Kumaon).
-
-The **Nepal / Central Himalaya** (about **800 km**) lies between the **Kali and the Tista**. Everest, Dhaulagiri, Annapurna, and Makalu sit here. **Kathmandu** and **Pokhara** are lacustrine valleys.
-
-The **Assam / Eastern Himalaya** (about **720 km**) lies between the **Tista and the Dihang / Brahmaputra**. Fluvial erosion is strong because rainfall is heavy.
-
-**Kanchenjunga** belongs to the **Sikkim** Himalaya, not to the Assam Himalaya section.
-
-Western Himalaya rises **gradually** through many ranges. Eastern Himalaya rises **abruptly** from the Bengal–Assam plains.
-
-**Sandakphu** on the **Singalila** ridge is West Bengal’s highest point.
-
-**Kangto** is the usual exam peak for Arunachal Pradesh.
-
-Beyond the Dihang gorge the ranges swing south as the **Purvanchal**.
+- NCERT cuts the Himalaya by rivers, west to east.
+- The **Punjab Himalaya** (about **560 km**) lies between the **Indus and the Satluj**. Karakoram, Ladakh, Pir Panjal, Zaskar, and Dhauladhar sit in this western block.
+- The **Kumaon Himalaya** lies between the **Satluj and the Kali**. It is Uttarakhand Himalaya, with **Nanda Devi**, **Mana**, and **Niti**. Mussoorie and Nag Tibba represent the Lesser Himalaya here.
+- **Western Himalaya** as a coaching super-region runs **Indus to Kali** (Kashmir + Himachal + Kumaon).
+- The **Nepal / Central Himalaya** (about **800 km**) lies between the **Kali and the Tista**. Everest, Dhaulagiri, Annapurna, and Makalu sit here. **Kathmandu** and **Pokhara** are lacustrine valleys.
+- The **Assam / Eastern Himalaya** (about **720 km**) lies between the **Tista and the Dihang / Brahmaputra**. Fluvial erosion is strong because rainfall is heavy.
+- **Kanchenjunga** belongs to the **Sikkim** Himalaya, not to the Assam Himalaya section.
+- Western Himalaya rises **gradually** through many ranges. Eastern Himalaya rises **abruptly** from the Bengal–Assam plains.
+- **Sandakphu** on the **Singalila** ridge is West Bengal’s highest point.
+- **Kangto** is the usual exam peak for Arunachal Pradesh.
+- Beyond the Dihang gorge the ranges swing south as the **Purvanchal**.
 
 ### Trans-Himalaya, Karakoram, glaciers
 
-The Trans-Himalaya is the **Tibetan Himalaya** zone. The monsoon does **not** reach it because Himadri casts a rain shadow.
-
-The **Zaskar (Zanskar)**, **Ladakh**, and **Kailash** ranges are the Trans-Himalayan set taught for India.
-
-The **Kailash (Gangdise)** range is treated as an offshoot of the Ladakh Range. The **Indus** rises on its northern slope.
-
-The **Karakoram** (also called **Krishnagiri**) occupies the extreme north-west and joins the **Pamir Knot**.
-
-**K2 (Godwin Austin, 8611 m)** is in the Karakoram in **PoK**. It is **not** on the Himadri.
-
-North-east of Karakoram the **Ladakh Plateau** is cut into **Aksai Chin, Depsang, Lingzi Tang, Chang Chenmo, and Soda Plains**.
-
-**Siachen** (about **75 km**, Nubra valley) is the longest glacier in the **Indian-administered** Karakoram. **Fedchenko** in the Pamir is longer. **Hispar** is another giant Karakoram glacier.
-
-**Sonapani** (about 15 km, Lahaul Chandra valley) is the longest named glacier of the **Pir Panjal** set.
-
-The **Gangotri** glacier (about 30 km) feeds the **Bhagirathi**. The **Yamunotri** glacier feeds the **Yamuna**.
-
-**Zemu** glacier (Sikkim) is the largest glacier of the eastern Himalaya and feeds the **Teesta**.
-
-Snowline is **lower in the west** (about 2500 m) than in the **east / Kumaon** (about 3500 m), mainly because western precipitation falls more as snow at higher latitude.
-
-On Himadri the snowline is **lower on the steep, wetter southern slope** than on the drier north.
-
-The **Karakoram Pass** was a historic Silk Route col. Do not confuse it with **Khardung La** (Ladakh road pass).
+- The Trans-Himalaya is the **Tibetan Himalaya** zone. The monsoon does **not** reach it because Himadri casts a rain shadow.
+- The **Zaskar (Zanskar)**, **Ladakh**, and **Kailash** ranges are the Trans-Himalayan set taught for India.
+- The **Kailash (Gangdise)** range is treated as an offshoot of the Ladakh Range. The **Indus** rises on its northern slope.
+- The **Karakoram** (also called **Krishnagiri**) occupies the extreme north-west and joins the **Pamir Knot**.
+- **K2 (Godwin Austin, 8611 m)** is in the Karakoram in **PoK**. It is **not** on the Himadri.
+- North-east of Karakoram the **Ladakh Plateau** is cut into **Aksai Chin, Depsang, Lingzi Tang, Chang Chenmo, and Soda Plains**.
+- **Siachen** (about **75 km**, Nubra valley) is the longest glacier in the **Indian-administered** Karakoram. **Fedchenko** in the Pamir is longer. **Hispar** is another giant Karakoram glacier.
+- **Sonapani** (about 15 km, Lahaul Chandra valley) is the longest named glacier of the **Pir Panjal** set.
+- The **Gangotri** glacier (about 30 km) feeds the **Bhagirathi**. The **Yamunotri** glacier feeds the **Yamuna**.
+- **Zemu** glacier (Sikkim) is the largest glacier of the eastern Himalaya and feeds the **Teesta**.
+- Snowline is **lower in the west** (about 2500 m) than in the **east / Kumaon** (about 3500 m), mainly because western precipitation falls more as snow at higher latitude.
+- On Himadri the snowline is **lower on the steep, wetter southern slope** than on the drier north.
+- The **Karakoram Pass** was a historic Silk Route col. Do not confuse it with **Khardung La** (Ladakh road pass).
 
 ### Pir Panjal, Zanskar, Dhauladhar, Kashmir Valley
 
-The **Pir Panjal** is the longest range of the Lesser Himalaya. It is the **southern wall** of the Kashmir Valley. It runs from the Jhelum to the upper Beas (over 300 km) and contains much **volcanic** rock.
-
-**Banihal Pass** carries the Jammu–Srinagar highway and the rail alignment through this wall.
-
-The **Atal Tunnel** (about 9.02 km) runs under **Rohtang** in the Pir Panjal of **Himachal**. It links Manali with Lahaul–Spiti.
-
-Unqualified “world’s longest highway tunnel” is **false**. The correct qualifier is longest highway tunnel **above 10,000 ft** (UPPCS 2025 Q44).
-
-The **Zanskar** range lies **north** of the Kashmir Valley and separates it from Ladakh. **Pensi La** crosses it. **Kargil** sits toward its western end.
-
-The **Dhauladhar** is an outer Lesser Himalayan range in **Himachal**. **Kangra Valley** is a **strike** (longitudinal) valley at its foot. **Kulu Valley** (upper Ravi) is a **transverse** valley.
-
-The Kashmir Valley is about **135 km by 32–40 km**. The **Jhelum** drains it through the **Baramulla gorge**. **Srinagar**, **Dal Lake**, and **Wular Lake** belong to this vale.
-
-The valley lies between **Pir Panjal (south)** and **Himadri (north)** — UPPCS 2020 Q66.
-
-**Karewas** are Pleistocene **lacustrine** terraces left when the Kashmir lake drained through Baramulla. Thickness can reach about **1400 m**.
-
-Karewas grow **saffron**, almond, walnut, and apple. They are **not** the same landform as a dun.
+- The **Pir Panjal** is the longest range of the Lesser Himalaya. It is the **southern wall** of the Kashmir Valley. It runs from the Jhelum to the upper Beas (over 300 km) and contains much **volcanic** rock.
+- **Banihal Pass** carries the Jammu–Srinagar highway and the rail alignment through this wall.
+- The **Atal Tunnel** (about 9.02 km) runs under **Rohtang** in the Pir Panjal of **Himachal**. It links Manali with Lahaul–Spiti.
+- Unqualified “world’s longest highway tunnel” is **false**. The correct qualifier is longest highway tunnel **above 10,000 ft** (UPPCS 2025 Q44).
+- The **Zanskar** range lies **north** of the Kashmir Valley and separates it from Ladakh. **Pensi La** crosses it. **Kargil** sits toward its western end.
+- The **Dhauladhar** is an outer Lesser Himalayan range in **Himachal**. **Kangra Valley** is a **strike** (longitudinal) valley at its foot. **Kulu Valley** (upper Ravi) is a **transverse** valley.
+- The Kashmir Valley is about **135 km by 32–40 km**. The **Jhelum** drains it through the **Baramulla gorge**. **Srinagar**, **Dal Lake**, and **Wular Lake** belong to this vale.
+- The valley lies between **Pir Panjal (south)** and **Himadri (north)** — UPPCS 2020 Q66.
+- **Karewas** are Pleistocene **lacustrine** terraces left when the Kashmir lake drained through Baramulla. Thickness can reach about **1400 m**.
+- Karewas grow **saffron**, almond, walnut, and apple. They are **not** the same landform as a dun.
 
 > **Exam note:** Kangra–Dhauladhar is a **Himachal** pairing. Do not use it for Kashmir. Atal Tunnel is in **Pir Panjal**, not Karakoram or Zanskar.
 
 ### Purvanchal, Garo–Khasi–Jaintia, Duars
 
-**Purvanchal Hills** are the north-eastern **fold** hills beyond the Dihang. They are **convex to the west**. They are **not** eastern Uttar Pradesh.
-
-The **Patkai Bum** runs along the Arunachal–Myanmar border. It is mostly sandstone.
-
-The **Naga Hills** are in Nagaland. **Saramati (3841 m)** is Nagaland’s highest peak.
-
-The **Barail Range** separates the Naga Hills from the **Manipur Hills**.
-
-The **Mizo / Lushai Hills** are in Mizoram. **Phawngpui (Blue Mountain, 2165 m)** is Mizoram’s highest.
-
-The **Mishmi Hills** are in eastern Arunachal.
-
-The **Manipur Hills** hold **Tenipu / Mount Iso**, Manipur’s usual highest peak.
-
-**Garo, Khasi, and Jaintia** hills form the **Meghalaya Plateau**. They are **geologically peninsular**, not Himalayan folds.
-
-The **Garo Hills** occupy western Meghalaya.
-
-The **Khasi Hills** occupy central Meghalaya. **Shillong Peak (1965 m)** is Meghalaya’s highest.
-
-**Mawsynram** and **Cherrapunji** sit on the **Khasi Hills**, not on Garo or Jaintia.
-
-The **Jaintia Hills** occupy eastern Meghalaya and are known for limestone caves.
-
-**Duars / Dooars** are the Himalayan foothills of **West Bengal and Assam**. They are the “door” to Bhutan and carry tea and wildlife corridors (Jaldapara, Gorumara, Buxa).
+- **Purvanchal Hills** are the north-eastern **fold** hills beyond the Dihang. They are **convex to the west**. They are **not** eastern Uttar Pradesh.
+- The **Patkai Bum** runs along the Arunachal–Myanmar border. It is mostly sandstone.
+- The **Naga Hills** are in Nagaland. **Saramati (3841 m)** is Nagaland’s highest peak.
+- The **Barail Range** separates the Naga Hills from the **Manipur Hills**.
+- The **Mizo / Lushai Hills** are in Mizoram. **Phawngpui (Blue Mountain, 2165 m)** is Mizoram’s highest.
+- The **Mishmi Hills** are in eastern Arunachal.
+- The **Manipur Hills** hold **Tenipu / Mount Iso**, Manipur’s usual highest peak.
+- **Garo, Khasi, and Jaintia** hills form the **Meghalaya Plateau**. They are **geologically peninsular**, not Himalayan folds.
+- The **Garo Hills** occupy western Meghalaya.
+- The **Khasi Hills** occupy central Meghalaya. **Shillong Peak (1965 m)** is Meghalaya’s highest.
+- **Mawsynram** and **Cherrapunji** sit on the **Khasi Hills**, not on Garo or Jaintia.
+- The **Jaintia Hills** occupy eastern Meghalaya and are known for limestone caves.
+- **Duars / Dooars** are the Himalayan foothills of **West Bengal and Assam**. They are the “door” to Bhutan and carry tea and wildlife corridors (Jaldapara, Gorumara, Buxa).
 
 > **Exam note:** Wettest places sit on **Khasi Hills**. Duars ≠ Terai of UP.
 
@@ -489,7 +383,7 @@ The **Jaintia Hills** occupy eastern Meghalaya and are known for limestone caves
 | **Namcha Barwa** | 7782 | **Tibet / China** — **not** in India (UPPCS 2019 Q82) |
 | **Gurla Mandhata** | 7694 | **Tibet**, north of Mansarovar — **not** an Indian peak |
 
-**Annamalai** and **Sirumalai** are **Tamil Nadu peninsular** hills. They are **not** Himalayan (UPPCS 2022 Q31).
+- **Annamalai** and **Sirumalai** are **Tamil Nadu peninsular** hills. They are **not** Himalayan (UPPCS 2022 Q31).
 
 > **Exam note:** 2019 Q82 official key = **Namcha Barwa** is not in India. Teach Gurla Mandhata as Tibetan. Do not list it as an Indian Trans-Himalayan peak.
 
@@ -497,9 +391,8 @@ The **Jaintia Hills** occupy eastern Meghalaya and are known for limestone caves
 
 ## 1.3 Peninsular Mountains, Hills & Plateaus
 
-The peninsula is an ancient **Precambrian** block. Most peninsular hills are **relict** (residual) **horsts**, not young folds.
-
-The plateau is roughly **triangular** (base along the northern plain, apex at Kanyakumari) and covers about **16 lakh km²**. Average height is about **600–900 m**.
+- The peninsula is an ancient **Precambrian** block. Most peninsular hills are **relict** (residual) **horsts**, not young folds.
+- The plateau is roughly **triangular** (base along the northern plain, apex at Kanyakumari) and covers about **16 lakh km²**. Average height is about **600–900 m**.
 
 | Range | Trend | Location | Highest | Lock |
 |-------|-------|----------|---------|------|
@@ -512,49 +405,34 @@ The plateau is roughly **triangular** (base along the northern plain, apex at Ka
 | **Rajmahal** | — | Jharkhand | — | Rajmahal Trap (volcanic) |
 | **Shevaroy** | — | Salem, Tamil Nadu | — | Eastern Ghats; **not** Tirupati |
 
-Central India hills, **west to east:** **Satpura → Mahadeo → Maikal → Chhotanagpur** (UPPCS 2019 Q6).
+- Central India hills, **west to east:** **Satpura → Mahadeo → Maikal → Chhotanagpur** (UPPCS 2019 Q6).
 
 ### Aravalli Range
 
-The Aravalli is about **800 km** from **Palanpur (Gujarat)** to Delhi. It is the **oldest** fold mountain system of India (Archaean), now a **relict** range.
-
-**Guru Shikhar (1722 m)** on Mount Abu is Rajasthan’s highest peak. Mount Abu is cut from the main range by the **Banas** valley.
-
-South of Ajmer the range is continuous. North of Ajmer it breaks into detached ridges (Haryana–Delhi).
-
-The buried north-east stump continues toward **Haridwar** under Ganga alluvium. The **Delhi Ridge** is the visible remnant.
-
-**Pipli Ghat, Dewair, and Desuri** are the road–rail gaps through the Rajasthan Aravalli.
-
-The range casts a rain shadow that helps create the **Thar**.
-
-**Zawar** (Rajasthan) is the classic zinc–lead locality of the Aravalli belt.
+- The Aravalli is about **800 km** from **Palanpur (Gujarat)** to Delhi. It is the **oldest** fold mountain system of India (Archaean), now a **relict** range.
+- **Guru Shikhar (1722 m)** on Mount Abu is Rajasthan’s highest peak. Mount Abu is cut from the main range by the **Banas** valley.
+- South of Ajmer the range is continuous. North of Ajmer it breaks into detached ridges (Haryana–Delhi).
+- The buried north-east stump continues toward **Haridwar** under Ganga alluvium. The **Delhi Ridge** is the visible remnant.
+- **Pipli Ghat, Dewair, and Desuri** are the road–rail gaps through the Rajasthan Aravalli.
+- The range casts a rain shadow that helps create the **Thar**.
+- **Zawar** (Rajasthan) is the classic zinc–lead locality of the Aravalli belt.
 
 ### Vindhya Range
 
-The Vindhya runs **east–west north of the Narmada** as an escarpment on the **Narmada–Son trough**, from **Jobat (Gujarat)** to **Sasaram (Bihar)** (over 1200 km).
-
-It is the watershed between the **Ganga system** and peninsular rivers. Chambal, Betwa, and Ken rise within about 30 km of the Narmada.
-
-The Vindhya continues east as the **Bhanrer** and **Kaimur** hills.
-
-**Kaimur Hills** are the Vindhyan extension into **Uttar Pradesh and Bihar**.
-
-**Amsot (about 941 m)** in Sonbhadra is Uttar Pradesh’s highest point. It is **not** Himalayan.
+- The Vindhya runs **east–west north of the Narmada** as an escarpment on the **Narmada–Son trough**, from **Jobat (Gujarat)** to **Sasaram (Bihar)** (over 1200 km).
+- It is the watershed between the **Ganga system** and peninsular rivers. Chambal, Betwa, and Ken rise within about 30 km of the Narmada.
+- The Vindhya continues east as the **Bhanrer** and **Kaimur** hills.
+- **Kaimur Hills** are the Vindhyan extension into **Uttar Pradesh and Bihar**.
+- **Amsot (about 941 m)** in Sonbhadra is Uttar Pradesh’s highest point. It is **not** Himalayan.
 
 ### Satpura Range
 
-The Satpura is a series of **seven** residual blocks (**sat-pura**) and is treated as a **horst**. It runs **east–west south of the Narmada**, between the Narmada and the Tapi, for about **900 km**.
-
-**Dhupgarh (1350 m)** at **Pachmarhi** on the **Mahadeo Hills** is Madhya Pradesh’s highest peak.
-
-**Mahadeo Hills** continue the Satpura eastward.
-
-**Maikal Hills** continue still farther east into Madhya Pradesh–Chhattisgarh. **Amarkantak** sits at this eastern junction.
-
-**Amarkantak** is the source of the **Narmada** and the **Son**.
-
-The **Tapi** flows in a rift/gorge south of the Satpura. **Gavilgarh Hills** are the western Satpura in Maharashtra.
+- The Satpura is a series of **seven** residual blocks (**sat-pura**) and is treated as a **horst**. It runs **east–west south of the Narmada**, between the Narmada and the Tapi, for about **900 km**.
+- **Dhupgarh (1350 m)** at **Pachmarhi** on the **Mahadeo Hills** is Madhya Pradesh’s highest peak.
+- **Mahadeo Hills** continue the Satpura eastward.
+- **Maikal Hills** continue still farther east into Madhya Pradesh–Chhattisgarh. **Amarkantak** sits at this eastern junction.
+- **Amarkantak** is the source of the **Narmada** and the **Son**.
+- The **Tapi** flows in a rift/gorge south of the Satpura. **Gavilgarh Hills** are the western Satpura in Maharashtra.
 
 > **Exam note:** Never reverse Vindhya and Satpura across the Narmada. 2019 Q6 — do not put Maikal before Satpura or Chhotanagpur before Maikal.
 
@@ -578,81 +456,51 @@ D. Satpura, Mahadeo, Chhotanagpur and Maikal
 
 ### Western Ghats (Sahyadri)
 
-The Western Ghats are a **continuous** escarpment from the **Tapi valley** to near **Kanyakumari** (about **1600 km**).
-
-They rise as a steep wall on the west and slope **gently east** into the Deccan, so they hardly look like a mountain from the plateau.
-
-Northern Sahyadri is **Deccan Trap** lava with a **landing-stair** (stepped) west face.
-
-**Kalsubai (1646 m)** is Maharashtra’s highest peak. **Salher** and **Mahabaleshwar** are other northern Sahyadri highs.
-
-Middle Sahyadri (south of about 16° N) is **granite–gneiss**. **Kudremukh** and **Baba Budan / Mullayanagiri** sit here.
-
-**Mullayanagiri (1930 m)** is Karnataka’s highest peak.
-
-**Thal Ghat (Kasara)** carries the Mumbai–Nashik route.
-
-**Bhor Ghat (Khandala)** carries the Mumbai–Pune route.
-
-**Palghat (Palakkad) Gap** is a **rift** and the **widest** gap. It links Kerala with Tamil Nadu and lets south-west monsoon moisture into the Mysore–Coimbatore interior.
+- The Western Ghats are a **continuous** escarpment from the **Tapi valley** to near **Kanyakumari** (about **1600 km**).
+- They rise as a steep wall on the west and slope **gently east** into the Deccan, so they hardly look like a mountain from the plateau.
+- Northern Sahyadri is **Deccan Trap** lava with a **landing-stair** (stepped) west face.
+- **Kalsubai (1646 m)** is Maharashtra’s highest peak. **Salher** and **Mahabaleshwar** are other northern Sahyadri highs.
+- Middle Sahyadri (south of about 16° N) is **granite–gneiss**. **Kudremukh** and **Baba Budan / Mullayanagiri** sit here.
+- **Mullayanagiri (1930 m)** is Karnataka’s highest peak.
+- **Thal Ghat (Kasara)** carries the Mumbai–Nashik route.
+- **Bhor Ghat (Khandala)** carries the Mumbai–Pune route.
+- **Palghat (Palakkad) Gap** is a **rift** and the **widest** gap. It links Kerala with Tamil Nadu and lets south-west monsoon moisture into the Mysore–Coimbatore interior.
 
 ### Eastern Ghats
 
-The Eastern Ghats are **discontinuous** and lower. They have neither structural unity nor a continuous crest.
-
-True mountain character is clearest between the **Mahanadi and the Godavari** (**Maliya** and **Madugula Konda** ranges).
-
-**Jindhagada (about 1690 m)** in Araku Valley is the usual highest peak of the Eastern Ghats.
-
-**Arma Konda** (Andhra Pradesh) is another high Eastern Ghats peak used in match lists.
-
-**Mahendragiri (1501 m)** is the well-known Odisha peak of the Maliya range.
-
-Between the **Godavari and the Krishna** the Ghats almost vanish. That low is the **KG (Gondwana) basin**.
-
-The **Nallamala** Hills (Cuddapah–Kurnool) restore a hill chain. The southern part is the **Palkonda** Range.
-
-The **Javadi** Hills and the **Shevaroy–Kalrayan** Hills are the Tamil Nadu remnants.
-
-**Biligiri Rangan** Hills sit on the Karnataka–Tamil Nadu border.
-
-The **Shevaroy** Hills (Yercaud, Salem) are **not** the site of Tirupati.
-
-**Tirumala / Mallamalla** Hills (Tirupati) are Eastern Ghats of **Andhra Pradesh**.
+- The Eastern Ghats are **discontinuous** and lower. They have neither structural unity nor a continuous crest.
+- True mountain character is clearest between the **Mahanadi and the Godavari** (**Maliya** and **Madugula Konda** ranges).
+- **Jindhagada (about 1690 m)** in Araku Valley is the usual highest peak of the Eastern Ghats.
+- **Arma Konda** (Andhra Pradesh) is another high Eastern Ghats peak used in match lists.
+- **Mahendragiri (1501 m)** is the well-known Odisha peak of the Maliya range.
+- Between the **Godavari and the Krishna** the Ghats almost vanish. That low is the **KG (Gondwana) basin**.
+- The **Nallamala** Hills (Cuddapah–Kurnool) restore a hill chain. The southern part is the **Palkonda** Range.
+- The **Javadi** Hills and the **Shevaroy–Kalrayan** Hills are the Tamil Nadu remnants.
+- **Biligiri Rangan** Hills sit on the Karnataka–Tamil Nadu border.
+- The **Shevaroy** Hills (Yercaud, Salem) are **not** the site of Tirupati.
+- **Tirumala / Mallamalla** Hills (Tirupati) are Eastern Ghats of **Andhra Pradesh**.
 
 ### Southern hills (Nilgiri–Anamalai–Cardamom)
 
-The **Nilgiri Hills** are the junction of the Western Ghats, Eastern Ghats, and southern hills. They rise abruptly above 2000 m.
-
-**Doddabetta (2637 m)** is Tamil Nadu’s highest peak. **Makurti** is the other named Nilgiri high.
-
-**Udhagamandalam (Ooty)** sits in the Nilgiris.
-
-South of Palghat, **Anaimudi (2695 m)** is the highest peak of the Western Ghats **and of South India**.
-
-Three ranges radiate from Anaimudi. The **Anamalai** runs north. The **Palani** runs north-east (**Kodaikanal**). The **Cardamom / Ealaimalai** runs south.
-
-**Sirumalai** is a Tamil Nadu outlier. Pair it with Annamalai as **peninsular**, not Himalayan (2022 Q31).
-
-**Eravikulam** (Nilgiri Tahr) and **Periyar** belong to this southern Western Ghats complex.
+- The **Nilgiri Hills** are the junction of the Western Ghats, Eastern Ghats, and southern hills. They rise abruptly above 2000 m.
+- **Doddabetta (2637 m)** is Tamil Nadu’s highest peak. **Makurti** is the other named Nilgiri high.
+- **Udhagamandalam (Ooty)** sits in the Nilgiris.
+- South of Palghat, **Anaimudi (2695 m)** is the highest peak of the Western Ghats **and of South India**.
+- Three ranges radiate from Anaimudi. The **Anamalai** runs north. The **Palani** runs north-east (**Kodaikanal**). The **Cardamom / Ealaimalai** runs south.
+- **Sirumalai** is a Tamil Nadu outlier. Pair it with Annamalai as **peninsular**, not Himalayan (2022 Q31).
+- **Eravikulam** (Nilgiri Tahr) and **Periyar** belong to this southern Western Ghats complex.
 
 > **Exam note:** Doddabetta = **Tamil Nadu**. Anaimudi = **Kerala**. Annamalai / Sirumalai are **not** Himalayan.
 
 ### Deccan Plateau and Deccan Trap
 
-The **Deccan Plateau** is the **southern** triangular tableland (about **5 lakh km²**). Satpura–Vindhya bound it on the north-west, Mahadeo–Maikal on the north, Western Ghats on the west, Eastern Ghats on the east. It **slopes eastward**. Height is about **1000 m** in the south and about **500 m** in the north.
-
-The **Maharashtra Plateau** is trap country with **step topography** and **regur**.
-
-The **Karnataka (Mysore) Plateau** splits into **Malnad** (forested hill country) and **Maidan** (rolling granite plain). It tapers into the Nilgiris.
-
-The **Telangana Plateau** is Archaean gneiss drained by Godavari, Krishna, and Penner.
-
-The **Chhattisgarh Plain** is the only true plain inside the peninsula: a **saucer** of limestone–shale drained by the upper **Mahanadi**, between Maikal and the Odisha hills.
-
-The **Deccan Trap** is a **basalt** cover from fissure eruptions (Cretaceous–Eocene, about 66 Ma), about **5 lakh km²** over Maharashtra, Madhya Pradesh, Gujarat, and Karnataka.
-
-Black **regur** cotton soil is weathered trap basalt.
+- The **Deccan Plateau** is the **southern** triangular tableland (about **5 lakh km²**). Satpura–Vindhya bound it on the north-west, Mahadeo–Maikal on the north, Western Ghats on the west, Eastern Ghats on the east. It **slopes eastward**. Height is about **1000 m** in the south and about **500 m** in the north.
+- The **Maharashtra Plateau** is trap country with **step topography** and **regur**.
+- The **Karnataka (Mysore) Plateau** splits into **Malnad** (forested hill country) and **Maidan** (rolling granite plain). It tapers into the Nilgiris.
+- The **Telangana Plateau** is Archaean gneiss drained by Godavari, Krishna, and Penner.
+- The **Chhattisgarh Plain** is the only true plain inside the peninsula: a **saucer** of limestone–shale drained by the upper **Mahanadi**, between Maikal and the Odisha hills.
+- The **Deccan Trap** is a **basalt** cover from fissure eruptions (Cretaceous–Eocene, about 66 Ma), about **5 lakh km²** over Maharashtra, Madhya Pradesh, Gujarat, and Karnataka.
+- Black **regur** cotton soil is weathered trap basalt.
 
 | Trap layer | Depth lock (UPPCS 2024 Q59) |
 |------------|------------------------------|
@@ -681,41 +529,26 @@ D. Depth of upper trap – approximately 450 metres
 
 ### Central Highlands and north-eastern plateaus
 
-The Central Highlands are the **northern** Peninsular Plateau, **north of the Narmada–Son**.
-
-**Marwar / Mewar Plateau** is **east** of the Aravalli (sandstone–shale–limestone, Banas toward Chambal). **Marwar Plain** is the Thar **west** of the Aravalli. Do not swap them.
-
-**Madhya Bharat Pathar** (Central Highland) is the Chambal basin with ravines / badlands.
-
-The **Malwa Plateau** is lava-covered and **north-sloping**. It has **dual drainage**: Narmada–Tapi–Mahi to the Arabian Sea, and Chambal–Betwa–Ken to the Yamuna / Bay of Bengal.
-
-The **Bundelkhand Plateau** lies in south-west Uttar Pradesh and Madhya Pradesh. It is **granite–gneiss**, drought-prone, and includes Jhansi, Banda, and Chitrakoot. Betwa, Dhasan, and Ken cross it.
-
-The **Baghelkhand Plateau** lies **east** of Bundelkhand, **north of Maikal**. The Son bounds it on the north. It divides Son drainage from Mahanadi drainage.
-
-The **Chotanagpur Plateau** lies mainly in Jharkhand (with Odisha–West Bengal edges). Average height is about **700 m**. **Damodar** flows in a **rift** through Gondwana coalfields.
-
-**Hazaribagh Plateau** lies north of Damodar. **Ranchi Plateau** lies south of Damodar.
-
-The **Rajmahal Hills** are the north-eastern basalt edge of Chotanagpur.
-
-The **Meghalaya Plateau** is Garo–Khasi–Jaintia. The **Malda / Garo–Rajmahal Gap** is a down-fault filled by Ganga–Brahmaputra alluvium.
-
-**Mikir (Karbi) Hills** are listed with this north-eastern block in the PMF IAS map.
-
-**Jharia** and **Bokaro** are the Damodar-rift coalfields. Iron and mica are the other Chotanagpur match locks.
-
-Chotanagpur is the easternmost unit of the west-to-east central-India hill sequence.
+- The Central Highlands are the **northern** Peninsular Plateau, **north of the Narmada–Son**.
+- **Marwar / Mewar Plateau** is **east** of the Aravalli (sandstone–shale–limestone, Banas toward Chambal). **Marwar Plain** is the Thar **west** of the Aravalli. Do not swap them.
+- **Madhya Bharat Pathar** (Central Highland) is the Chambal basin with ravines / badlands.
+- The **Malwa Plateau** is lava-covered and **north-sloping**. It has **dual drainage**: Narmada–Tapi–Mahi to the Arabian Sea, and Chambal–Betwa–Ken to the Yamuna / Bay of Bengal.
+- The **Bundelkhand Plateau** lies in south-west Uttar Pradesh and Madhya Pradesh. It is **granite–gneiss**, drought-prone, and includes Jhansi, Banda, and Chitrakoot. Betwa, Dhasan, and Ken cross it.
+- The **Baghelkhand Plateau** lies **east** of Bundelkhand, **north of Maikal**. The Son bounds it on the north. It divides Son drainage from Mahanadi drainage.
+- The **Chotanagpur Plateau** lies mainly in Jharkhand (with Odisha–West Bengal edges). Average height is about **700 m**. **Damodar** flows in a **rift** through Gondwana coalfields.
+- **Hazaribagh Plateau** lies north of Damodar. **Ranchi Plateau** lies south of Damodar.
+- The **Rajmahal Hills** are the north-eastern basalt edge of Chotanagpur.
+- The **Meghalaya Plateau** is Garo–Khasi–Jaintia. The **Malda / Garo–Rajmahal Gap** is a down-fault filled by Ganga–Brahmaputra alluvium.
+- **Mikir (Karbi) Hills** are listed with this north-eastern block in the PMF IAS map.
+- **Jharia** and **Bokaro** are the Damodar-rift coalfields. Iron and mica are the other Chotanagpur match locks.
+- Chotanagpur is the easternmost unit of the west-to-east central-India hill sequence.
 
 ### Other exam hills
 
-The **Rajmahal Hills** of Jharkhand are volcanic (**Rajmahal Trap**), older than the Deccan Trap.
-
-**Parasnath (1366 m)** is Jharkhand’s highest peak and a Jain sacred hill on Chotanagpur.
-
-**Girnar (1117 m)** is Gujarat’s usual highest point (Kathiawar).
-
-**Gudla Maina** (about 1270 m) is the usual Chhattisgarh high point on a Maikal extension.
+- The **Rajmahal Hills** of Jharkhand are volcanic (**Rajmahal Trap**), older than the Deccan Trap.
+- **Parasnath (1366 m)** is Jharkhand’s highest peak and a Jain sacred hill on Chotanagpur.
+- **Girnar (1117 m)** is Gujarat’s usual highest point (Kathiawar).
+- **Gudla Maina** (about 1270 m) is the usual Chhattisgarh high point on a Maikal extension.
 
 ---
 
@@ -723,7 +556,7 @@ The **Rajmahal Hills** of Jharkhand are volcanic (**Rajmahal Trap**), older than
 
 ### Mountain passes
 
-UPPCS tests **pass ↔ State / UT**. The wrong state is the trap.
+- UPPCS tests **pass ↔ State / UT**. The wrong state is the trap.
 
 | Pass | State / UT | Route / note | Trap |
 |------|------------|--------------|------|
@@ -799,7 +632,7 @@ D. Only 1
 | **Uttar Pradesh** | Amsot (Sonbhadra) | ~941 | Kaimur |
 | **Chhattisgarh** | Gudla Maina | ~1270 | Maikal extension |
 
-Range highest (do not restudy the state table): Himalaya-in-India **Kanchenjunga 8586** · Karakoram **K2 8611** · Western Ghats **Anaimudi 2695** · Eastern Ghats **Jindhagada ~1690** · Aravalli **Guru Shikhar 1722** · Satpura **Dhupgarh 1350** · Nilgiri **Doddabetta 2637** · Naga **Saramati 3841**.
+- Range highest (do not restudy the state table): Himalaya-in-India **Kanchenjunga 8586** · Karakoram **K2 8611** · Western Ghats **Anaimudi 2695** · Eastern Ghats **Jindhagada ~1690** · Aravalli **Guru Shikhar 1722** · Satpura **Dhupgarh 1350** · Nilgiri **Doddabetta 2637** · Naga **Saramati 3841**.
 
 > **Exam note:** Same four-pair lock in **2018 Q108, 2021 Q127, 2025 Q37**: TN–Doddabetta, RJ–Guru Shikhar, NL–Saramati, MP–Dhupgarh (2018 used Kerala–Anaimudi + UK–Nanda Devi).
 
@@ -830,7 +663,7 @@ Range highest (do not restudy the state table): Himalaya-in-India **Kanchenjunga
 
 ### Latitude, longitude, area
 
-India lies entirely in the **northern** and **eastern** hemispheres.
+- India lies entirely in the **northern** and **eastern** hemispheres.
 
 | Item | Lock |
 |------|------|
@@ -839,27 +672,21 @@ India lies entirely in the **northern** and **eastern** hemispheres.
 | Area | about **3.28 million km²** = **2.4%** of world land |
 | Rank | Conventionally **7th** largest (after Russia, Canada, USA, China, Brazil, Australia) |
 
-India is **not** wholly tropical. The Tropic of Cancer cuts the country, so the Himalayan north is subtropical to alpine.
+- India is **not** wholly tropical. The Tropic of Cancer cuts the country, so the Himalayan north is subtropical to alpine.
 
 ### Standard Meridian
 
-The Standard Meridian of India is **82°30′ E**, near **Mirzapur, Uttar Pradesh**. It is not Prayagraj, Lucknow, or Delhi.
-
-**IST = GMT + 5 hours 30 minutes**. India uses **one** time zone.
-
-One degree of longitude is about **4 minutes**. India’s roughly **29°** of longitude means about **two hours** of solar difference. The Andaman sunrise is earlier than Gujarat’s.
+- The Standard Meridian of India is **82°30′ E**, near **Mirzapur, Uttar Pradesh**. It is not Prayagraj, Lucknow, or Delhi.
+- **IST = GMT + 5 hours 30 minutes**. India uses **one** time zone.
+- One degree of longitude is about **4 minutes**. India’s roughly **29°** of longitude means about **two hours** of solar difference. The Andaman sunrise is earlier than Gujarat’s.
 
 ### Tropic of Cancer (23°30′ N)
 
-The Tropic of Cancer passes through **eight states only:** **Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram**.
-
-It does **not** pass through **Uttar Pradesh**.
-
-It does **not** pass through **Ladakh** (Ladakh lies near 32°–36° N).
-
-It does **not** pass through Bihar, Odisha, Maharashtra, Karnataka, Kerala, Tamil Nadu, Punjab, Haryana, Delhi, Assam, Nagaland, Manipur, Arunachal, Sikkim, Himachal, Uttarakhand, Goa, Andhra Pradesh, or Telangana.
-
-NCERT says the Tropic passes through the **middle** of the country. A stem that claims **equal land area** north and south of 23°30′ N is an overclaim: **more land lies north** of the Tropic.
+- The Tropic of Cancer passes through **eight states only:** **Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram**.
+- It does **not** pass through **Uttar Pradesh**.
+- It does **not** pass through **Ladakh** (Ladakh lies near 32°–36° N).
+- It does **not** pass through Bihar, Odisha, Maharashtra, Karnataka, Kerala, Tamil Nadu, Punjab, Haryana, Delhi, Assam, Nagaland, Manipur, Arunachal, Sikkim, Himachal, Uttarakhand, Goa, Andhra Pradesh, or Telangana.
+- NCERT says the Tropic passes through the **middle** of the country. A stem that claims **equal land area** north and south of 23°30′ N is an overclaim: **more land lies north** of the Tropic.
 
 > **Exam note:** Rank = **7th**, not 6th. Area **2.4%**. Tropic through the **middle** = NCERT / 2022 Q35 statement 3. India is **not** wholly tropical. UP is **not** on the Tropic.
 
@@ -898,15 +725,11 @@ D. 1 and 2
 
 ### Coastline
 
-Mainland plus islands is about **7516 km** (mainland about 6100 km). There are **nine** coastal states and two island Union Territories.
-
-**States, longest to shortest (exam order):** **Gujarat** > Andhra Pradesh > Tamil Nadu > Maharashtra > Kerala > Odisha > Karnataka > West Bengal > **Goa**.
-
-Gujarat is longest because of the **Kachchh** and **Saurashtra** indentation (about 1600 km class figure).
-
-The Andaman and Nicobar coastline is long (about 1962 km) but it is **not** in the **state** ranking.
-
-**Telangana** is not a coastal state.
+- Mainland plus islands is about **7516 km** (mainland about 6100 km). There are **nine** coastal states and two island Union Territories.
+- **States, longest to shortest (exam order):** **Gujarat** > Andhra Pradesh > Tamil Nadu > Maharashtra > Kerala > Odisha > Karnataka > West Bengal > **Goa**.
+- Gujarat is longest because of the **Kachchh** and **Saurashtra** indentation (about 1600 km class figure).
+- The Andaman and Nicobar coastline is long (about 1962 km) but it is **not** in the **state** ranking.
+- **Telangana** is not a coastal state.
 
 > **Exam note:** UPPCS 2018 Q98 — **Gujarat**, not Maharashtra / Andhra Pradesh / Kerala.
 
