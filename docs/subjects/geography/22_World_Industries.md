@@ -561,71 +561,83 @@ D. Lake Manzala-Lake Timsah- Cireat Bitter Lake-Little Bitter Lake
 
 ## N.6 World local winds
 
+This is the **full Lucent / PMF IAS match map**, not only the names UPPCS has already used. Group by family. The same set is taught in Climate of India.
+
 **Foehn family — warm and dry after crossing a mountain**
 
-| Wind | Where | Extra |
-|------|-------|-------|
-| **Foehn** | **Alps** | 2024 stmt 2 |
-| **Chinook** | **Rockies** | Warm **and dry**; “snow eater”; 2024 stmt 1 |
-| Zonda | Andes, Argentina | |
-| Berg | South Africa | |
-| **Santa Ana** | **California** | 2019 correct pair |
-| Nor’wester | Canterbury, New Zealand | Warm foehn-type (not the Indian storm) |
+Air drops its moisture on the windward slope. It then warms by compression on the leeward side.
+
+The **Foehn (Föhn)** is the Alpine member.
+
+The **Chinook** is the Rockies member. It is warm **and dry** (the “snow eater”).
+
+The **Zonda** is the eastern Andes member in **Argentina**.
+
+The **Berg** wind is the South African member.
+
+The **Santa Ana** is the California member.
+
+New Zealand’s Canterbury **Nor’wester** is foehn-type. It is not India’s Kal Baisakhi.
 
 **Cold winds**
 
-| Wind | Where | Extra |
-|------|-------|-------|
-| **Mistral** | Southern **France**, Rhône | **Not Australia** (2019) |
-| Tramontane | France / W Med | Cold north |
-| **Bora** | Adriatic (Italy–Croatia) | Cold downslope |
-| Pampero | Argentina | Cold |
-| Buran / Purga | Siberia | Cold blizzard-type |
-| Norte | Mexico / Gulf | Cold outbreak |
-| Blizzard | North America / Siberia | Heavy snow wind |
-| Helm | Northern England | Awareness |
+The **Mistral** is a cold Rhône blast in southern **France**. It is **not** Australian.
+
+The **Bora** is cold on the **Adriatic**.
+
+The **Tramontane** and **Gregale** are other cold Mediterranean names.
+
+The **Pampero** is a cold Argentine outbreak.
+
+The **Buran / Purga** is Siberian.
+
+The **Norte** is a Mexican / Gulf cold outbreak.
 
 **Hot / dusty desert winds**
 
-| Wind | Where | Extra |
-|------|-------|-------|
-| **Shamal** | **Arabia / Persian Gulf** | **Not Austria** (2021) |
-| **Sirocco** | Sahara → Mediterranean | Hot, often dusty |
-| **Leveche** | **Spain** | 2021 correct pair |
-| Khamsin | Egypt | Hot sirocco cousin |
-| Ghibli | Libya | |
-| Chili | Tunisia | |
-| **Harmattan** | West Africa | Dry dusty winter; “doctor” in some books |
-| Simoom | Arabia | Hot scorching |
-| **Brickfielder** | **Australia** | 2021 correct pair |
-| **Black roller** | **North America** | 2021 correct pair |
-| **Haboob** | **Sudan** / N Africa | Dust wall; 2019 correct pair |
-| Karaburan | Central Asia | “Black storm” |
-| Loo | North Indian plains | India lock |
+The **Sirocco** runs Sahara to the Mediterranean.
 
-**Mediterranean named winds**
+The **Khamsin** is Egypt’s cousin.
 
-| Wind | Where |
-|------|-------|
-| Levanter | Strait of Gibraltar (easterly) |
-| Etesian / Meltemi | Aegean / Greece (summer north) |
-| Gregale | Malta / central Med |
+The **Ghibli** is Libya. The **Chili** is Tunisia. The **Leveche** is Spain.
+
+The **Shamal** is **Arabia / Persian Gulf**, **not Austria**.
+
+The **Harmattan** is **West Africa**, not the East African coast.
+
+The **Samun** is **Kurdistan / Iran**.
+
+The **Simoom** is scorching Arabia.
+
+The **Brickfielder** is **Australia**.
+
+The **Haboob** is a **Sudan** / Sahara dust wall.
+
+The **Black roller** is North American.
+
+The **Karaburan** is Central Asia.
+
+The **Loo** is the north-Indian plains member.
 
 **Other match names**
 
-| Wind | Where |
-|------|-------|
-| **Yamo** | **Japan** (2019 correct pair) |
-| Cape Doctor | Cape Town |
-| Elephanta | Malabar coast |
-| Williwaw | Alaska / Magellan (squall) |
+The **Levanter** is an easterly at Gibraltar.
+
+The **Etesian / Meltemi** is a summer Aegean northerly.
+
+The **Yamo** is Japanese.
+
+The **Cape Doctor** is Cape Town.
+
+The **Elephanta** is the Malabar September wind.
+
+The **Williwaw** is an Alaskan / Magellan squall.
 
 **Do not dump cyclone names here**
 
-- **Willy-willy** = Australian **tropical cyclone**, not a local wind.
-- Hurricane / typhoon / cyclone = synoptic storms, not Foehn/Mistral pairs.
+**Willy-willy** is an Australian **tropical cyclone**, not a local wind like Brickfielder.
 
-Chinook is a warm dry Rockies wind; Foehn is the Alps twin. Mistral is southern **France**, not Australia. Shamal is **Arabia / Persian Gulf**, not Austria.
+Hurricane, typhoon, and baguio are synoptic storms, not Foehn / Mistral pairs.
 
 **Inline PYQ — UPPCS Prelims 2024, Q32**
 

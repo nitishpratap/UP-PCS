@@ -33,6 +33,8 @@ WD = Mediterranean extra-tropical; winter NW rain; decreases WEST→EAST — NOT
 LOCAL: Loo = hot dry plains May–Jun | Kal Baisakhi = E/NE thunderstorms Apr–May
  Mango = KL/KA | Blossom = coffee TN/KL | Anabatic day-up | Katabatic night-down
  Shamal ≠ Austria (Arabia) | Mistral ≠ Australia (S France)
+ Sirocco = Sahara→Med | Bora = Adriatic cold | Harmattan = W Africa NOT E Africa
+ Khamsin = Egypt | Zonda = Andes AR | Samun = Kurdistan | Willy-willy = cyclone NOT Brickfielder
 CYCLONES: BoB > Arabian Sea | SST ≥26–27 °C | not on equator
  Hurricane USA | Typhoon/Taifu China–Japan | Baguio Philippines | Willy-willies Australia
 JETS: mid-latitude jets = WESTERLY (2024 Q60 A false) | STWJ winter S of Himalaya (WD)
@@ -57,7 +59,9 @@ HEAT: troposphere heated by LONG-WAVE terrestrial (not short-wave) | lapse ~6.5 
 | +IOD | −IOD | Helps Indian monsoon vs suppresses it | धनात्मक / ऋणात्मक IOD |
 | Köppen | Thornthwaite | T+P letter codes vs moisture/vegetation index | कोपेन / थॉर्नथ्वेट |
 | Absolute humidity | Relative humidity | Mass of vapour vs % of saturation (RH falls as T rises) | निरपेक्ष / सापेक्ष आर्द्रता |
-| Troposphere | Stratosphere | All weather vs **ozone UV layer** | क्षोभमंडल / समतापमंडल |
+| Willy-willy | Brickfielder | Australian **cyclone** vs Australian **hot local wind** | विली-विली / ब्रिकफील्डर |
+| Bora | Chinook | Adriatic **cold** vs Rockies **warm dry** | बोरा / चिनूक |
+| Harmattan | Khamsin | West Africa dust vs Egypt heat | हरमट्टन / खामसिन |
 
 ### Memory Tricks
 
@@ -348,6 +352,8 @@ A **katabatic** wind is a **night-time downslope** drainage of cold air into val
 
 **Foehn** and **Chinook** are **warm, dry** downslope winds after air has crossed a mountain. They are world cousins of a special warming downslope, not the cold katabatic of a Himalayan valley night.
 
+**Elephanta** is a Malabar (Kerala) wind of about **September**. It marks the fading of the south-west monsoon and can bring rough seas.
+
 | Name | Region | Season | Character |
 |------|--------|--------|-----------|
 | **Loo** | RJ, PB, HR, UP, Bihar plains | May–June | Hot, dry, dust; heat-wave; **not** a thunderstorm |
@@ -355,23 +361,117 @@ A **katabatic** wind is a **night-time downslope** drainage of cold air into val
 | **Mango showers** | **Kerala, Karnataka** | April–May | Pre-monsoon; mango ripening |
 | **Blossom / cherry showers** | TN, Kerala (coffee belt) | April–May | Coffee flowering |
 | **Andhi** | Rajasthan | Pre-monsoon | Dust-storm wall |
+| **Elephanta** | Malabar / Kerala | About September | End of SW monsoon; rough sea |
 | Sea / land breeze | Coasts | Daily | Onshore by day; offshore by night |
 | **Anabatic** | Mountain slopes | **Day** | **Upslope** |
 | **Katabatic** | Valleys | **Night** | **Downslope** cold drainage |
 
-### World local winds (match home)
+### World local winds (full match map)
 
-The **Mistral** blows down the Rhône in southern **France**. It is **not** an Australian wind (2019 Q80).
+UPPCS has already asked Mistral, Shamal, Chinook, Foehn, Santa Ana, Haboob, Brickfielder, Leveche, Black roller, and Yamo. Next year’s paper can still pick **Sirocco, Bora, Harmattan, Khamsin, Zonda, Samun**, or a Willy-willy trap. Teach the **whole coaching set**, not only the asked names.
 
-The **Shamal** blows over **Arabia and the Persian Gulf**. It is **not** an Austrian wind (2021 Q30).
+Local winds are short-lived and near the ground. Group them by **family**, then lock the region.
 
-The **Chinook** is a warm, dry wind of the **Rockies** (2024 Q33).
+**Warm and dry after crossing a mountain (Foehn family)**
 
-The **Foehn** is the Alpine cousin of that warm, dry downslope (2024 Q33).
+The **Foehn (Föhn)** is the Alpine warm, dry downslope. It can melt snow and help grapes ripen.
 
-The **Santa Ana** is Californian. The **Haboob** is Sudanese / North African. The **Brickfielder** is Australian. The **Leveche** is Spanish. The **Black roller** is North American.
+The **Chinook** is the Rockies twin. It is warm **and dry**. Ranchers call it the **snow eater**.
 
-> **Exam note:** 2024 Q33 — both Chinook (warm and dry) **and** Foehn in the Alps are correct.
+The **Zonda** is the same family on the eastern Andes in **Argentina**.
+
+The **Berg** wind is the South African cousin.
+
+The **Santa Ana** is the hot, dry California downslope.
+
+New Zealand’s **Nor’wester** (Canterbury) is a foehn-type wind. It is **not** the Indian Kal Baisakhi thunderstorm.
+
+**Cold downslope / outbreak winds**
+
+The **Mistral** is a cold, dry blast down the **Rhône** in southern **France**, funnelled between the Alps and the Massif Central. It is **not** Australian (2019 Q80).
+
+The **Bora** is the cold north-easterly cousin on the **Adriatic** (Italy–Croatia).
+
+The **Tramontane** is a cold north wind of southern France and the western Mediterranean.
+
+The **Gregale** is a cold north-east wind around **Malta**.
+
+The **Pampero** is a cold outbreak on the Argentine pampas.
+
+The **Buran / Purga** is a Siberian blizzard-type wind.
+
+The **Norte** is a cold outbreak into Mexico and the Gulf.
+
+**Hot, dusty desert winds**
+
+The **Sirocco** is a hot, dusty Saharan wind that crosses into the **Mediterranean** and southern Europe. It can raise “blood rain” from red dust.
+
+The **Khamsin** is Egypt’s sirocco cousin (about fifty days of spring heat).
+
+The **Ghibli** is the Libyan name. The **Chili** is the Tunisian name. The **Leveche** is the Spanish name (2021 correct pair).
+
+The **Shamal** is a dusty north-westerly of **Arabia and the Persian Gulf**. It is **not** Austrian (2021 Q30).
+
+The **Simoom** is a scorching Arabian desert wind.
+
+The **Harmattan** is a dry, dusty winter wind from the Sahara over **West Africa** and the Gulf of Guinea. It is **not** an East African coast wind.
+
+The **Samun** is a hot wind of **Kurdistan / Iran** (UPSC 2001-type match).
+
+The **Brickfielder** is a hot wind of **Australia**.
+
+The **Black roller** is a dusty North American plains wind.
+
+The **Haboob** is a dust-wall storm of **Sudan** and the wider Sahara.
+
+The **Karaburan** (“black storm”) is a dusty Central Asian wind.
+
+The **Loo** is the north-Indian plains member of this hot family. It lives in the India table above.
+
+**Other named winds used in match lists**
+
+The **Levanter** is an easterly through the Strait of **Gibraltar**.
+
+The **Etesian / Meltemi** is a summer northerly of the **Aegean**.
+
+The **Yamo** is a Japanese local wind (2019 correct pair).
+
+The **Cape Doctor** is a south-easter at Cape Town.
+
+The **Williwaw** is a violent squall of Alaska / Magellan.
+
+**Do not mix cyclone names into this list**
+
+**Willy-willy** is an Australian **tropical cyclone**. It is **not** a local wind like the Brickfielder.
+
+Hurricane, typhoon, taifu, and baguio are **synoptic storms**. They belong in the cyclone-naming table below.
+
+| Family | Wind | Region | Exam trap |
+|--------|------|--------|-----------|
+| Warm dry downslope | **Foehn** | Alps | Not Australia |
+| Warm dry downslope | **Chinook** | Rockies | Not a cold wind |
+| Warm dry downslope | **Zonda** | Andes, Argentina | Not Alps |
+| Warm dry downslope | **Santa Ana** | California | Not Spain |
+| Warm dry downslope | **Berg** | South Africa | — |
+| Cold | **Mistral** | S France, Rhône | **Not Australia** |
+| Cold | **Bora** | Adriatic | Not Chinook |
+| Cold | **Pampero** | Argentina | — |
+| Cold | **Buran / Purga** | Siberia | — |
+| Hot dusty | **Sirocco** | Sahara → Mediterranean | — |
+| Hot dusty | **Khamsin** | Egypt | Not Australia |
+| Hot dusty | **Shamal** | Arabia / Gulf | **Not Austria** |
+| Hot dusty | **Harmattan** | **West** Africa | Not East Africa |
+| Hot dusty | **Samun** | Kurdistan | — |
+| Hot dusty | **Leveche** | Spain | — |
+| Hot dusty | **Ghibli** | Libya | — |
+| Hot dusty | **Brickfielder** | Australia | Not Mistral |
+| Hot dusty | **Haboob** | Sudan | — |
+| Hot dusty | **Black roller** | North America | — |
+| Other | **Yamo** | Japan | — |
+| Other | **Levanter** | Gibraltar | — |
+| Not a local wind | **Willy-willy** | Australia | Cyclone, not Brickfielder |
+
+> **Exam note:** 2024 Q33 — Chinook is warm and dry **and** Foehn is in the Alps. 2019 Q80 — Mistral is France. 2021 Q30 — Shamal is Arabia. Harmattan is **West** Africa. Willy-willy is a **cyclone**.
 
 ### Tropical cyclones
 
@@ -434,12 +534,13 @@ The exam quote **“Vegetation is the true index of climate”** belongs to **Th
 
 Trewartha is a **modified Köppen**, not Thornthwaite.
 
-India is **not** all **Am**. The interior Deccan is **Aw**. The Thar is **BWh**.
+India is **not** all **Am**. The interior Deccan is **Aw**. The Thar is **BWh**. The Tamil Nadu coast is often mapped as **As** because its dry season is the south-west-monsoon **summer**.
 
 | Code | Type | India |
 |------|------|-------|
 | **Am** | Tropical monsoon | Kerala / Konkan, north-east (Cherrapunji) |
 | **Aw** | Tropical savanna | Interior Deccan |
+| **As** | Monsoon with dry **summer** | **Tamil Nadu / Coromandel** (rain in NE monsoon) |
 | **BWh** | Hot desert | **Thar**, Kutch |
 | **BSh** | Semi-arid | Punjab, Haryana, Gujarat, rain-shadow Deccan |
 | **Cwg** | Monsoon with dry winter | **Indo-Gangetic plain** (Lucknow, Delhi, Patna) |
@@ -451,6 +552,8 @@ India is **not** all **Am**. The interior Deccan is **Aw**. The Thar is **BWh**.
 Mid-latitude jet streams are **westerlies**. They blow west to east in the upper troposphere. Speeds of **300–500 km/h** are typical. They were noticed widely in **World War II**.
 
 Calling jet streams generally **easterly** is **false** (2024 Q60). The **Tropical Easterly Jet** is the summer exception, not the rule.
+
+The **polar front jet** is the high-latitude westerly jet along the polar front. The **subtropical westerly jet** is the lower-latitude branch that winters south of the Himalaya. Both are **westerly**. Do not call either “the easterly jet.”
 
 The **subtropical westerly jet (STWJ)** is a **winter** jet south of the Himalaya (about 25–30° N). It is **westerly**. It steers **Western Disturbances**. In summer it shifts **north of Tibet**.
 
@@ -542,7 +645,7 @@ Pre-monsoon **lightning** and winter **inversion smog** (west UP / NCR fringe) a
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click *Show answer* under each question to reveal.  
-> **Format mix:** 50 questions — 21 multi-statement | 10 A/R | 8 match | 5 NOT-matched | 3 sequence | 3 direct recall
+> **Format mix:** 55 questions — mix of multi-statement, A/R, match, NOT-matched, and direct recall
 
 **Q1.** With reference to the climate of India, which of the following statements is/are correct?
 
@@ -1608,6 +1711,112 @@ D. 1 September
 **Ans: B** — IMD standard onset ~1 June at Kerala; advances north ~10 days per degree latitude. **A** too early. **C** is closer to Rajasthan onset, not Kerala.
 </details>
 
+**Q51.** Match **List-I** with **List-II** and select the correct answer using the code given below:
+
+| List-I (Local wind) | List-II (Region) |
+|---|---|
+| A. Sirocco | 1. Alps |
+| B. Bora | 2. Sahara to Mediterranean |
+| C. Foehn | 3. Adriatic coast |
+| D. Harmattan | 4. West Africa |
+
+A. 2 3 1 4
+
+B. 3 2 1 4
+
+C. 2 3 4 1
+
+D. 1 3 2 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Sirocco-2, Bora-3, Foehn-1, Harmattan-4. **B** swaps Sirocco and Bora. **C** puts Harmattan on the Alps.
+</details>
+
+**Q52.** Which of the following pairs is/are **NOT** correctly matched?
+
+1. Khamsin — Egypt
+2. Zonda — Argentina (Andes)
+3. Harmattan — East African coast
+4. Samun — Kurdistan
+
+Select the correct answer from the code given below:
+
+A. Only 3
+
+B. Only 1 and 3
+
+C. Only 2 and 4
+
+D. Only 3 and 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Only (3) is wrong. Harmattan is a **West** African Saharan dust wind, not East African. (1), (2), (4) are standard coaching matches.
+</details>
+
+**Q53.** With reference to named winds, which of the following statements is/are correct?
+
+1. Willy-willy is a hot local wind of the Australian interior, like the Brickfielder.
+2. Chinook is a warm and dry wind of the Rockies.
+3. Mistral is a cold wind of southern France.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — (2) and (3) correct. **(1) fails:** Willy-willy is an Australian **tropical cyclone**, not a local wind. Brickfielder is the hot Australian local wind.
+</details>
+
+**Q54.** Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+
+**Assertion (A):** Foehn-type winds are warm and dry on the leeward side of mountains.
+
+**Reason (R):** The air loses moisture as rain on the windward slope and warms by compression as it descends.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+C. (A) is true, but (R) is false
+
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Same physics for Foehn, Chinook, Zonda, Santa Ana, and Berg.
+</details>
+
+**Q55.** Köppen’s **As** type in India is best matched with which region?
+
+A. Thar Desert
+
+B. Tamil Nadu / Coromandel coast
+
+C. Kerala coast
+
+D. Interior Deccan plateau
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — **As** = monsoon with a dry **summer**; Tamil Nadu’s main rain is the north-east monsoon. Thar = **BWh**. Kerala = **Am**. Interior Deccan = **Aw**.
+</details>
+
 ---
 
 ## Complete PYQ Bank
@@ -2064,3 +2273,6 @@ El Niño **tendency** ≠ guaranteed all-India drought — still the 2026 exam-r
 13. **Highest albedo = desert sand** — FALSE. **Fresh snow** — 2021 Q66.
 14. **ITCZ / monsoon trough = high pressure** — FALSE. Both are **lows**.
 15. **Nor'westers = Western Disturbances** — FALSE. Nor'westers = **pre-monsoon thunderstorms**; WD = **winter**.
+16. **Harmattan = East African coast** — FALSE. **West Africa** / Gulf of Guinea.
+17. **Willy-willy = Brickfielder** — FALSE. Willy-willy = Australian **cyclone**. Brickfielder = Australian **hot local wind**.
+18. **Bora is a warm Rockies wind** — FALSE. Bora = **cold Adriatic**. Chinook = warm Rockies.
