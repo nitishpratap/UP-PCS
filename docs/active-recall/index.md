@@ -26,7 +26,7 @@ Paste a ChatGPT dump in Cursor and name the subject. New decks go under that sub
 <span>No decks yet — paste a dump to start.</span>](art and culture/index.md){ .study-card }
 
 [**Geography**
-<span>Agriculture · Soils · Lakes · Drainage</span>](geography/index.md){ .study-card }
+<span>Minerals · Agriculture · Soils · Lakes</span>](geography/index.md){ .study-card }
 
 [**Environment and Ecology**
 <span>No decks yet — paste a dump to start.</span>](environments & ecology/index.md){ .study-card }

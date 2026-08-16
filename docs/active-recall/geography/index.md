@@ -25,4 +25,7 @@ hide:
 [**Agriculture in India**
 <span>Kharif–Rabi · rice/wheat · cotton–jute · CACP/MSP.</span>](06_Agriculture.md){ .study-card }
 
+[**Minerals and Energy**
+<span>Chota Nagpur · Jharia/Bailadila · KG/Digboi · nuclear vs hydel.</span>](08_Minerals_Energy.md){ .study-card }
+
 </div>

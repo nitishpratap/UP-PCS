@@ -9,10 +9,9 @@
 **Schemes:** Bharatmala | Sagarmala | Dedicated Freight Corridor | National Waterways | PM Gati Shakti | National Logistics Policy | Blue Economy | Communication (Basic)
 </details>
 
-> **Sources baked in:** NCERT Class 10–12 (Lifelines / Transport), PWOnlyIAS NCERT notes, Drishti India Year Book transport framing, MoRTH / MoPSW / Railways, UPPCS Prelims 2018–2025  
 > **Exam weight:** ★★★★ — zone–HQ, port–state, scheme year, UP expressway/airport  
 > **Last verified:** August 2026  
-> **Current Affairs:** Gati Shakti 2021; NLP 2022; New Pamban; FLY91; Jewar (Noida Intl); Amrit Bharat UP 149
+> **Current Affairs:** Gati Shakti 2021; NLP 2022; New Pamban; FLY91; Jewar (Noida Intl); Amrit Bharat UP 149 stations
 
 ---
 
@@ -20,7 +19,7 @@
 
 ```
 MODES: road / rail / water / air / pipeline + communication (info, not goods)
-RAIL: first train Mumbai–Thane 1853 | IR = largest PSU lore | ~16 zones | broad-gauge conversion
+RAIL: first train Mumbai–Thane 1853 | IR = largest PSU | ~18 zones (older books 16) | broad-gauge conversion
  Northern→New Delhi | NER→Gorakhpur | SER→Garden Reach Kolkata (NOT Cuttack)
  ECR Hajipur | NCR Prayagraj | SWR Hubballi | ECoR Bhubaneswar
  DFC: Western Dadri–JNPT | Eastern Ludhiana–Dankuni
@@ -29,10 +28,11 @@ RAIL: first train Mumbai–Thane 1853 | IR = largest PSU lore | ~16 zones | broa
 ROAD classes: NH (~2% length, ~40% traffic) | SH | District | Rural (~80%, PMGSY) | Border (BRO) | International
  GQ = Delhi–Mumbai–Chennai–Kolkata (~5846 km) | NS Srinagar–Kanyakumari | EW Porbandar–Silchar
  NHAI 1995 | NH-44 longest NS lore | Bharatmala = highways (NOT ports) | Expressway = access-controlled
- Atal Tunnel = Pir Panjal / BRO; bare “world’s longest highway tunnel” = FALSE in 2025 key
+ Atal Tunnel = Pir Panjal / BRO; “world’s longest highway tunnel” as a bare claim = FALSE
  Purvanchal built: Lko–Azamgarh–Mau–Ghazipur–Ballia (passes Mau; not Basti)
 WATER: ~95% trade by volume by sea | 12 major ports + many non-major | IWAI 1986 | 111 NWs (2016 Act)
- NW-1 Ganga Haldia–Prayagraj | NW-2 Brahmaputra | NW-3 Kerala West Coast Canal
+ NW-1 Ganga Haldia–Prayagraj | NW-2 Brahmaputra Dhubri–Sadiya | NW-3 Kerala West Coast Canal
+ NW-4 Godavari–Krishna / Kakinada–Puducherry | NW-5 Brahmani–Mahanadi–East Coast Canal | 111 NWs (2016 Act)
  Kolkata→Agartala containership (Jul 2020) via Chattogram
 PORTS: Paradip OD | Tuticorin TN | Kakinada AP | Alappuzha KL
  West: Kandla (Deendayal) GJ, Mumbai, JNPT, Mormugao GA, New Mangalore KA, Cochin KL
@@ -55,7 +55,7 @@ UP: no major seaport | NER Gorakhpur | NW-1 | Purvanchal passes Mau | Kushinagar
 | NER HQ | **Gorakhpur** | Hajipur | गोरखपुर |
 | SER HQ | **Garden Reach, Kolkata** | Cuttack | कटक नहीं |
 | ECR HQ | **Hajipur** | Gorakhpur | हाजीपुर |
-| Amrit Bharat | Station **modernisation**; UP **149** | New lines; 57/82/123 | 149 स्टेशन |
+| Amrit Bharat | Station **modernisation**; UP **149 stations** (Feb 2023) | 149 new railway lines | 149 स्टेशन |
 | Bharatmala | **Highways** | Ports | सड़क |
 | Sagarmala | **Port-led** | Highways | पत्तन |
 | Gati Shakti year | **2021** | 2022 | 2021 |
@@ -83,16 +83,16 @@ UP: no major seaport | NER Gorakhpur | NW-1 | Purvanchal passes Mau | Kushinagar
 | **GQ four metros** | Delhi · Mumbai · Chennai · Kolkata |
 | **Bharat / Sagar** | Bharatmala = **roads** · Sagarmala = **ports** |
 | **Gati 2021** | PM Gati Shakti National Master Plan = **13 Oct 2021** |
-| **NW ladder** | NW-1 Ganga · NW-2 Brahmaputra · NW-3 Kerala canal |
+| **NW ladder** | NW-1 Ganga Haldia–Prayagraj · NW-2 Brahmaputra Dhubri–Sadiya · NW-3 Kerala canal · NW-4 Kakinada–Puducherry · NW-5 Talcher–Dhamra |
 | **P-T-K-A ports** | Paradip **OD** · Tuticorin **TN** · Kakinada **AP** · Alappuzha **KL** |
 | **Kushinagar + Cochin** | UP intl **2020** · first solar airport **Cochin** |
-| **Amrit 149** | UP station **modernisation** count (Feb 2023), not new lines |
+| **Amrit 149** | **149 UP stations** identified for modernisation (Feb 2023), not 149 new lines |
 | **Fibre = TIR** | Optical fibre = **total internal reflection** |
 | **No UP seaport** | UP identity = rail HQ + NW-1 + expressways + airports |
 
 ---
 
-## N.0 Framework (UPSC / NCERT map first)
+## N.0 Framework (map first)
 
 Transport and communication are the **arteries of circulation** of the economy.
 
@@ -112,7 +112,7 @@ Indian Railways is the country’s principal long-distance land carrier for pass
 
 - The first passenger train ran from **Mumbai to Thane in 1853** (about 34 km).
 - Indian Railways is often described as the **largest public-sector undertaking** in the country.
-- The network is organised into **railway zones**, each with a fixed headquarters.
+- The network is organised into **railway zones**, each with a fixed headquarters. Count in current notes is **18 zones** (including South Coast Railway at **Visakhapatnam**). Older books still say 16 — read the stem.
 - Gauge types are broad, metre and narrow; India has pushed **broad-gauge conversion** so most traffic now runs on broad gauge.
 - **Konkan Railway** is a famous west-coast engineering stretch through the Western Ghats — do not confuse it with a zone-HQ trick.
 
@@ -133,6 +133,7 @@ Indian Railways is the country’s principal long-distance land carrier for pass
 | North Western | Jaipur |
 | South Western | **Hubballi** |
 | South East Central | Bilaspur |
+| South Coast | Visakhapatnam |
 
 **Dedicated Freight Corridors**
 
@@ -142,14 +143,76 @@ Indian Railways is the country’s principal long-distance land carrier for pass
 
 **Amrit Bharat Station Scheme**
 
-- It modernises and redevelops **passenger stations** (amenities, circulation, accessibility).
-- It is **not** a scheme to build 149 new railway lines.
-- An early-2023 all-India list was about **1,275** stations; **Uttar Pradesh as on February 2023 = 149**.
+Amrit Bharat redevelops **existing passenger stations**. It upgrades buildings, platforms, circulating area, accessibility and passenger amenities.
+
+It does **not** build new railway lines or new tracks. The number **149** is not a count of new lines.
+
+As of **February 2023**, the Ministry of Railways had identified about **1,275** stations across India under the scheme. **Uttar Pradesh’s share of that list was 149 stations.** UPPCS asked that UP count.
+
+**Inline PYQ — UPPCS Prelims 2023, Q71**
+
+How many railway stations have been identified for modernization under the Amrit Bharat Station Scheme in Uttar Pradesh as on February 2023?
+
+A. 57
+
+B. 82
+
+C. 123
+
+D. 149
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — 149 is the number of **UP stations** identified for modernisation, not 149 new railway lines.
+</details>
 
 **New Pamban and Hubballi museum**
 
-- The New Pamban bridge toward Rameswaram was built by **RVNL** and is framed as India’s **first vertical-lift railway sea bridge**.
-- A railway museum was dedicated in **August 2020** at **Hubballi**, which is also the South Western Railway HQ.
+- The New Pamban bridge toward Rameswaram was built by **Rail Vikas Nigam Limited (RVNL)**.
+- It is India’s **first vertical-lift railway sea bridge**.
+- A railway museum was dedicated in **August 2020** at **Hubballi**, which is also the South Western Railway headquarters.
+
+**Inline PYQ — UPPCS Prelims 2025, Q136**
+
+With reference to the New Pamban Bridge, which of the following statements is/are correct?
+
+1. It has been constructed by Rail Vikas Nigam Limited, a Navratna PSU under the Ministry of Railways.
+2. It is India's first vertical lift railway sea bridge.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Both statements are correct.
+</details>
+
+**Inline PYQ — UPPCS Prelims 2020, Q31**
+
+In August 2020, Railway Museum in India was dedicated to the nation at which of the following places?
+
+A. Hubballi
+
+B. Mysore
+
+C. Silvasa
+
+D. Chittaranjan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Hubballi.
+</details>
 
 **Inline PYQ — UPPCS Prelims 2025, Q150**
 
@@ -181,41 +244,90 @@ D. 1, 2 and 3
 
 Roads are preferred for short and medium hauls because they are cheaper to build than railways and act as feeders to rail, air and sea terminals.
 
-**Road classes (NCERT / PW)**
+**Road classes**
 
 | Class | Who builds / maintains | Exam cue |
 |-------|------------------------|----------|
-| **National Highways** | Central government / **NHAI** | ~**2%** of road length but ~**40%** of road traffic; inter-state and strategic |
-| **State Highways** | State governments | Link state capital to district HQs |
-| **District roads** | Zila Parishad / district | Link district HQ to important nodes |
-| **Rural roads** | Local / PMGSY push | About **80%** of total road length; all-season village links |
-| **Border roads** | **BRO** (from 1960) | Strategic northern and north-eastern borders; high-altitude snow clearance |
+| **National Highways** | Central government / **NHAI** | About **2%** of road length but about **40%** of road traffic |
+| **State Highways** | State governments | Link the state capital to district headquarters |
+| **District roads** | Zila Parishad / district | Link the district headquarters to important nodes |
+| **Rural roads** | Local bodies; **PMGSY** push | About **80%** of total road length; all-season village links |
+| **Border roads** | **BRO** (from 1960) | Northern and north-eastern borders; high-altitude work |
 | **International highways** | Cross-border links | Neighbour connectivity |
 
-- **NHAI** was operationalised in **1995** under MoRTH.
-- **NH-44** (Srinagar–Kanyakumari lore) is often cited as India’s **longest** national highway corridor.
-- **Golden Quadrilateral** links **Delhi–Mumbai–Chennai–Kolkata** (about **5,846 km** of 4/6-lane high-density corridor) to cut time and cost among the four metros.
-- The **North–South Corridor** links **Srinagar** to **Kanyakumari** (with a Kochi–Salem spur in the plan lore).
+- **NHAI** was operationalised in **1995** under the Ministry of Road Transport and Highways.
+- **NH-44** from Srinagar to Kanyakumari is often cited as India’s **longest** national highway corridor.
+- **Golden Quadrilateral** links **Delhi–Mumbai–Chennai–Kolkata** (about **5,846 km**).
+- The **North–South Corridor** links **Srinagar** to **Kanyakumari**.
 - The **East–West Corridor** links **Porbandar** to **Silchar**.
-- **Bharatmala** is the umbrella **highway** programme (economic corridors, feeders, border/coastal roads, expressways). It is **not** a port scheme.
+- **Bharatmala** is the umbrella **highway** programme. It is **not** a port scheme.
 - An **expressway** is an **access-controlled** high-speed road, stricter than an ordinary national highway.
-- The **Atal Tunnel** lies in the **Pir Panjal** range and was built with **BRO** association. In the 2025 UPPCS framing, calling it simply “the world’s longest highway tunnel” is treated as **false** — lock **Pir Panjal**, not the world-superlative claim.
 
-**Purvanchal Expressway (built alignment)**
+**Atal Tunnel**
 
-- The built road runs Lucknow–Barabanki–Ambedkar Nagar–Azamgarh–**Mau**–Ghazipur–Ballia.
-- It **does** pass **Mau**.
+- The **Atal Tunnel** lies in the **Pir Panjal** range.
+- It was built with **Border Roads Organisation** association.
+- It connects Manali toward the Lahaul–Spiti side (Rohtang axis).
+- Do not mark a bare claim that it is “the world’s longest highway tunnel” as true. The safe lock is **Pir Panjal**.
+
+**Inline PYQ — UPPCS Prelims 2025, Q44**
+
+With reference to the Atal Tunnel, which of the following statements is/are correct?
+
+1. This tunnel is the world's longest highway tunnel.
+2. This tunnel is built in the Pir Panjal range of the Himalayas.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Both 1 and 2
+
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Only statement 2 is correct. The world’s-longest claim is not accepted.
+</details>
+
+**Purvanchal Expressway**
+
+The **built** Purvanchal Expressway runs Lucknow–Barabanki–Ambedkar Nagar–Azamgarh–**Mau**–Ghazipur–Ballia.
+
+- It **does pass Mau**.
 - It does **not** run through **Basti** on the main alignment.
-- The **2018** paper keyed Mau as “will not pass” at proposal stage — freeze that old MCQ; do **not** use it as today’s atlas.
+
+The 2018 Prelims asked a proposal-stage stem “will not pass”. That paper’s official key was **Mau**. Use that only when the stem is the 2018 wording. For today’s map, Mau is on the road.
+
+**Inline PYQ — UPPCS Prelims 2018, Q3**
+
+'Purvanchal Express Way' in Uttar Pradesh will not pass through which of the following cities?
+
+A. Faizabad
+
+B. Basti
+
+C. Azamgarh
+
+D. Mau
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — This is the **2018** key for that wording. The **built** expressway **does** pass Mau. Basti is not on the main alignment.
+</details>
 
 | Expressway | Cue |
 |------------|-----|
 | Yamuna | Greater Noida–Agra |
-| Agra–Lucknow | West–central UP |
+| Agra–Lucknow | West–central Uttar Pradesh |
 | Purvanchal | Lucknow–Ballia via Azamgarh and **Mau** |
-| Bundelkhand | Southern UP |
-| Ganga Expressway | Living CA / under-construction framing |
-| Gorakhpur Link | NER-city connector awareness |
+| Bundelkhand | Southern Uttar Pradesh |
+| Ganga Expressway | Meerut–Prayagraj corridor (under construction / phased) |
+| Gorakhpur Link | Connector toward Gorakhpur / NER city |
 
 ---
 
@@ -224,18 +336,42 @@ Roads are preferred for short and medium hauls because they are cheaper to build
 Inland and coastal water transport is cheap for bulk cargo when channel depth and terminals exist.
 
 - The **Inland Waterways Authority of India (IWAI)** was set up in **1986**.
-- The **National Waterways Act, 2016** declared **111** National Waterways.
-- Cargo share of inland waterways is still **very small** (under about 1% in older notes), which is why NW development is pushed.
+- The **National Waterways Act, 2016** declared **111** National Waterways (the older five plus many new stretches).
+- Inland waterways still move only a **tiny** share of Indian cargo (under about 1% in older notes). Sea transport still carries about **95%** of trade by volume.
 
-| NW | Cue |
-|----|-----|
-| **NW-1** | Ganga–Bhagirathi–Hooghly (**Haldia–Prayagraj**); Uttar Pradesh sits on this spine |
-| **NW-2** | Brahmaputra |
-| **NW-3** | West Coast Canal system, **Kerala** |
+Learn the first five National Waterways by river, stretch and state. They are the standard map, not an optional extra.
 
-Later NW numbers exist — learn them only when a stem names them.
+| NW | River / canal | Stretch | States / cue |
+|----|---------------|---------|--------------|
+| **NW-1** | Ganga–Bhagirathi–Hooghly | **Haldia–Prayagraj** (about 1,620 km) | UP, Bihar, Jharkhand, West Bengal |
+| **NW-2** | Brahmaputra | **Dhubri–Sadiya** | Assam |
+| **NW-3** | West Coast Canal, Champakara and Udyogmandal canals | **Kottapuram–Kollam** | **Kerala** |
+| **NW-4** | Godavari, Krishna and connected canals (including Buckingham Canal) | **Kakinada–Puducherry** | Andhra Pradesh–Tamil Nadu–Puducherry |
+| **NW-5** | Brahmani–Mahanadi delta and East Coast Canal | **Talcher–Dhamra** / Geonkhali–Charbatia awareness | Odisha–West Bengal |
+
+- Uttar Pradesh sits on **NW-1**.
+- **Jal Marg Vikas** is the capacity-upgrade project on **NW-1**, with multimodal terminals such as **Varanasi**, Sahibganj and Haldia.
+- The **Barak** stretch in Assam (Lakhipur–Bhanga) is another named National Waterway in the 2016 list; do not dump it as NW-1 or NW-2.
 
 In **July 2020**, the first containership movement from **Kolkata Port to Agartala** used the **Chattogram (Chittagong)** route, not Benapole, Maloti or Payra.
+
+**Inline PYQ — UPPCS Prelims 2020, Q71**
+
+First ever containership from Kolkata Port to Agartala was sent through which one of the following Ports of Bangladesh in July 2020?
+
+A. Benapole
+
+B. Maloti
+
+C. Payra
+
+D. Chattogram (Chittagong)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Chattogram, not Benapole, Maloti or Payra.
+</details>
 
 ---
 
@@ -252,9 +388,13 @@ India’s mainland plus island coasts stretch about **7,517 km**.
 - India has **12 major ports** and about **200** non-major ports.
 - Roughly **95% of trade by volume** moves by maritime transport.
 - **Uttar Pradesh has no major seaport.**
+- **Kandla (Deendayal)** serves a large north-western hinterland, including petroleum products.
+- **Mormugao** is classically an **iron-ore** export port.
+- **Paradip** handles iron ore and coal on the Odisha coast.
+- **Ennore (Kamarajar)** is a major port on the Tamil Nadu coast, north of Chennai.
 
-| Coast | Major ports (awareness) |
-|-------|-------------------------|
+| Coast | Major ports |
+|-------|-------------|
 | West / NW | Kandla (**Deendayal**, Gujarat), Mumbai, JNPT, Mormugao (Goa), New Mangalore (Karnataka), Cochin (Kerala) |
 | East / SE | Kolkata–Haldia, Paradip (Odisha), Visakhapatnam (Andhra Pradesh), Chennai, Ennore (**Kamarajar**), Tuticorin (**VOC**, Tamil Nadu) |
 
@@ -285,7 +425,23 @@ D. 4 1 3 2
 **Ans: C** — Paradip–Odisha; Tuticorin–Tamil Nadu; Kakinada–Andhra Pradesh; Alappuzha–Kerala.
 </details>
 
-World lock: Rotterdam–Netherlands, Montevideo–Uruguay and Jakarta–Indonesia are correctly matched in the 2023 set; **Igarka–China is wrong** because Igarka is in **Russia**.
+**Inline PYQ — UPPCS Prelims 2023, Q60**
+
+Which of the following (Port - Country) is not correctly matched?
+
+A. Rotterdam - Netherlands
+
+B. Igarka - China
+
+C. Montevideo - Uruguay
+
+D. Jakarta - Indonesia
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Igarka is in **Russia**, not China.
+</details>
 
 ---
 
@@ -294,11 +450,70 @@ World lock: Rotterdam–Netherlands, Montevideo–Uruguay and Jakarta–Indonesi
 Air transport is fast but costly, so it dominates high-value and time-sensitive flows plus long passenger hauls.
 
 - **UDAN** is the regional connectivity scheme that tries to make flying viable to smaller cities.
-- Metro international hubs to know include Delhi (IGI), Mumbai, Chennai, Kolkata, Bengaluru, Hyderabad and Cochin.
-- **Cochin** is framed as India’s first **solar-powered** airport.
+- Metro international hubs include Delhi (IGI), Mumbai, Chennai, Kolkata, Bengaluru, Hyderabad and Cochin.
+- **Cochin** is India’s first **solar-powered** airport.
 - **Kushinagar** airport in Uttar Pradesh got international status on **24 June 2020**.
-- **Jewar / Noida International** is the living UP hub in Current Affairs framing.
-- FLY91’s inaugural flight on **18 March 2024** was from **Manohar International Airport** (Mopa, Goa).
+- **Jewar** is **Noida International Airport**, Uttar Pradesh’s new greenfield international hub.
+- FLY91 is a newly launched Indian airline. Its inaugural flight on **18 March 2024** took off from **Manohar International Airport** (Mopa, Goa).
+
+**Inline PYQ — UPPCS Prelims 2022, Q27**
+
+The first airport powered by solar energy in India is-
+
+A. Chennai
+
+B. Cochin
+
+C. Ahmedabad
+
+D. New Delhi
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Cochin, not Delhi, Chennai or Ahmedabad.
+</details>
+
+**Inline PYQ — UPPCS Prelims 2020, Q61**
+
+Which of the following Airports in Uttar Pradesh has been granted International Status on 24th June, 2020 by Union Cabinet of India?
+
+A. Agra Airport
+
+B. Prayagraj Airport
+
+C. Gorakhpur Airport
+
+D. Kushinagar Airport
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Kushinagar.
+</details>
+
+**Inline PYQ — UPPCS Prelims 2024, Q90**
+
+With reference to "FLY91", which of the following statements is/are correct?
+
+1. It is a newly launched airline in India.
+2. Its inaugural flight took off from Manohar International Airport on 18th March, 2024.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+
+B. Neither 1 nor 2
+
+C. Only 1
+
+D. Both 1 and 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Both statements are correct.
+</details>
 
 ---
 
@@ -307,8 +522,27 @@ Air transport is fast but costly, so it dominates high-value and time-sensitive 
 Pipelines move oil, gas and products continuously after a high upfront capital cost.
 
 - **GAIL** (set up 1984) transports, processes and markets natural gas.
+- The **Hazira–Bijaipur–Jagdishpur (HBJ)** line is the classic gas-grid lock toward north-central markets.
 - Domestic refinery product lines include feeds around **Mathura**.
-- In **September 2019**, the product pipeline from **Motihari (India)** to **Amlekhganj (Nepal)** was inaugurated — not Motihari–Kathmandu and not Darbhanga–Amlekhganj.
+- In **September 2019**, the product pipeline from **Motihari (India)** to **Amlekhganj (Nepal)** was inaugurated. It is not Motihari–Kathmandu and not Darbhanga–Amlekhganj.
+
+**Inline PYQ — UPPCS Prelims 2019, Q34**
+
+Cross border oil pipeline inaugurated by P.M. Modi in September 2019 connects which of the following cities?
+
+A. Motihari and Amlekhganj
+
+B. Darbhanga and Amlekhganj
+
+C. Motihari and Kathmandu
+
+D. None of these
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Motihari (Bihar) to **Amlekhganj** (Nepal).
+</details>
 
 ---
 
@@ -324,7 +558,7 @@ Pipelines move oil, gas and products continuously after a high upfront capital c
 | **DFC** | Dedicated rail freight hardware | Neighbour of Sagarmala, not the same scheme |
 
 - **PM Gati Shakti** National Master Plan was launched on **13 October 2021**, not in 2022.
-- Its “seven engines” framing includes roads, railways, airports, ports, mass transport, waterways and logistics.
+- Its **seven engines** are roads, railways, airports, ports, mass transport, waterways and logistics.
 - **National Logistics Policy** (September **2022**) works **with** Gati Shakti to cut logistics friction.
 
 **Inline PYQ — UPPCS Prelims 2023, Q136**
@@ -355,25 +589,47 @@ D. Neither 1 nor 2
 ## N.8 Communication (Basic)
 
 - Transport carries **people and goods**.
-- Communication carries **information**.
+- Communication carries **information**, ideas and messages.
+- **Personal** communication includes post, telephone and internet messaging.
+- **Mass** communication includes newspapers, radio, television and cinema.
+- **AIR** and **Doordarshan** are the classic public broadcast arms.
+- **BharatNet** is the rural broadband push.
+- Indian communication satellites (INSAT / GSAT family) serve remote links, TV and weather.
 - Optical fibre guides light through the core by **total internal reflection** at the core–cladding boundary.
 - Do not mark diffraction, scattering, or ordinary refraction as the fibre lock.
-- AIR and Doordarshan are classic broadcast arms; **BharatNet** is the rural broadband push; satellites serve remote links.
 - An optical-fibre cable is **not** an oil pipeline.
+
+**Inline PYQ — UPPCS Prelims 2019, Q125**
+
+The phenomenon used in optical fibre for transmission of light energy is
+
+A. Total internal reflection
+
+B. Diffraction
+
+C. Scattering
+
+D. Refraction
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Total internal reflection, not ordinary refraction.
+</details>
 
 ---
 
 ## N.9 Uttar Pradesh Focus
 
-Uttar Pradesh has **no major seaport**. Its exam identity is rail headquarters, expressways, airports, NW-1 and station modernisation counts.
+Uttar Pradesh has **no major seaport**. Its exam identity is rail headquarters, expressways, airports, NW-1 and station redevelopment.
 
 | Theme | Lock |
 |-------|------|
 | Railway HQ | **North Eastern Railway — Gorakhpur** |
 | Expressway | Built Purvanchal **passes Mau**; Basti is off the main alignment |
-| Airport | Kushinagar international from **24 Jun 2020**; Jewar = Noida International CA |
-| Stations | Amrit Bharat **149** stations for **modernisation** (Feb 2023) |
-| Waterway | **NW-1** on the Ganga |
+| Airport | Kushinagar international from **24 Jun 2020**; Jewar = Noida International |
+| Stations | Amrit Bharat: **149 UP stations** identified for **modernisation** (Feb 2023), out of about 1,275 all-India |
+| Waterway | **NW-1** on the Ganga (Haldia–Prayagraj) |
 | DFC pull | Western UP / NCR toward the Dadri–JNPT freight spine |
 
 ---
@@ -382,13 +638,13 @@ Uttar Pradesh has **no major seaport**. Its exam identity is rail headquarters, 
 
 1. NER HQ = **Gorakhpur**; SER = **Garden Reach, Kolkata** (not Cuttack); ECR = Hajipur.
 2. Western DFC Dadri–JNPT; Eastern Ludhiana–Dankuni.
-3. Amrit Bharat = station modernisation; UP Feb 2023 = **149**.
+3. Amrit Bharat = station modernisation; all-India ~1,275; **UP Feb 2023 = 149 stations**, not 149 new lines.
 4. New Pamban = RVNL + first vertical-lift railway sea bridge.
 5. Hubballi = Aug 2020 railway museum **and** SWR HQ.
 6. GQ = Delhi–Mumbai–Chennai–Kolkata. NH ~2% length / ~40% traffic. Bharatmala = roads.
-7. Atal Tunnel = Pir Panjal; not “world’s longest” in the 2025 key.
-8. Built Purvanchal **passes Mau**; 2018 “not Mau” is a frozen paper, not today’s atlas.
-9. NW-1 Ganga; NW-2 Brahmaputra; NW-3 Kerala canal; IWAI 1986; 111 NWs.
+7. Atal Tunnel = Pir Panjal; “world’s longest highway tunnel” is not accepted.
+8. Built Purvanchal **passes Mau**; Basti is off the main alignment.
+9. NW-1 Ganga Haldia–Prayagraj; NW-2 Brahmaputra Dhubri–Sadiya; NW-3 Kerala canal; NW-4 Kakinada–Puducherry; NW-5 Talcher–Dhamra; IWAI 1986; 111 NWs.
 10. Kolkata–Agartala 2020 via **Chattogram**.
 11. Paradip OD, Tuticorin TN, Kakinada AP, Alappuzha KL.
 12. Harbour ≠ port. ~95% trade volume by sea. Igarka = **Russia**.
@@ -489,55 +745,65 @@ D. 149
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Exact UPPCS lock.
+**Ans: D** — 149 **stations in Uttar Pradesh** identified for modernisation as on February 2023, not 149 new railway lines.
 </details>
 
-**Q6.** New Pamban Bridge: (1) built by RVNL (2) India's first vertical-lift railway sea bridge.
+**Q6.** With reference to the New Pamban Bridge, which of the following statements is/are correct?
 
-A. Only 1
+1. It has been constructed by Rail Vikas Nigam Limited.
+2. It is India's first vertical-lift railway sea bridge.
 
-B. Only 2
+Select the correct answer from the code given below:
 
-C. Both
+A. 1 only
 
-D. Neither
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: C** — Both statements are correct.
 </details>
 
-**Q7.** Purvanchal Expressway in UP will NOT pass through which city?
+**Q7.** The built Purvanchal Expressway in Uttar Pradesh passes through which of the following?
 
-A. Faizabad
+A. Basti on the main alignment, but not Mau
 
-B. Basti
+B. Mau, but not Basti on the main alignment
 
-C. Azamgarh
+C. Neither Mau nor Azamgarh
 
-D. Mau
+D. Only Bundelkhand districts
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — 2018 proposal-stage key. The **built** corridor **does** pass Mau; it does not run through Basti.
+**Ans: B** — Lucknow–Ballia via Azamgarh and **Mau**. Basti is off the main alignment.
 </details>
 
-**Q8.** Atal Tunnel: (1) world's longest highway tunnel (2) built in Pir Panjal.
+**Q8.** With reference to the Atal Tunnel, which of the following statements is/are correct?
 
-A. Only 1
+1. This tunnel is the world's longest highway tunnel.
+2. This tunnel is built in the Pir Panjal range of the Himalayas.
 
-B. Only 2
+Select the correct answer from the code given below:
 
-C. Both
+A. 1 only
 
-D. Neither
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Only Pir Panjal stands in the 2025 key.
+**Ans: B** — Only the Pir Panjal statement is accepted.
 </details>
 
 **Q9.** Golden Quadrilateral links which cities?
@@ -588,36 +854,45 @@ D. Metro rail only
 **Ans: B**
 </details>
 
-**Q12.** National Waterway-1 corresponds to:
+**Q12.** National Waterway-1 is the Ganga–Bhagirathi–Hooghly stretch between:
 
-A. Brahmaputra
+A. Dhubri and Sadiya
 
-B. Ganga system
+B. Haldia and Prayagraj
 
-C. Kerala canals only
+C. Kottapuram and Kollam
 
-D. Indus only
+D. Kakinada and Puducherry
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B** — NW-1 runs Haldia–Prayagraj. Dhubri–Sadiya is NW-2; Kottapuram–Kollam is NW-3; Kakinada–Puducherry is NW-4.
 </details>
 
-**Q13.** National Waterway-3 is associated with:
+**Q13.** Match List-I with List-II and select the correct answer from the code given below:
 
-A. Ganga
+| List-I (National Waterway) | List-II (Stretch / system) |
+|---|---|
+| A. NW-1 | 1. West Coast Canal, Kerala |
+| B. NW-2 | 2. Haldia–Prayagraj (Ganga) |
+| C. NW-3 | 3. Kakinada–Puducherry (Godavari–Krishna) |
+| D. NW-4 | 4. Dhubri–Sadiya (Brahmaputra) |
 
-B. Brahmaputra
+> Row order is **not** the answer — use the option codes.
 
-C. West Coast Canal (Kerala)
+A. A-2, B-4, C-1, D-3
 
-D. Narmada only
+B. A-4, B-2, C-3, D-1
+
+C. A-2, B-1, C-4, D-3
+
+D. A-1, B-4, C-2, D-3
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: C**
+**Ans: A** — NW-1 Ganga Haldia–Prayagraj; NW-2 Brahmaputra Dhubri–Sadiya; NW-3 Kerala West Coast Canal; NW-4 Kakinada–Puducherry.
 </details>
 
 **Q14.** Igarka port is located in:
@@ -732,20 +1007,25 @@ D. 2014
 **Ans: B**
 </details>
 
-**Q21.** Gati Shakti: launched in 2022 + integrates seven engines.
+**Q21.** With reference to PM Gati Shakti, which of the following statements is/are correct?
 
-A. Only the year statement
+1. PM Gati Shakti National Master Plan was launched in 2022.
+2. It integrates seven engines including roads, railways, airports, ports, mass transport, waterways and logistics.
 
-B. Only the engines statement
+Select the correct answer from the code given below:
 
-C. Both
+A. 1 only
 
-D. Neither
+B. 2 only
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Year is wrong (2021); engines statement is true.
+**Ans: B** — Launch year is **2021**; the seven-engines statement is true.
 </details>
 
 **Q22.** Optical fibre transmits light energy mainly by:
@@ -796,15 +1076,15 @@ D. Chittaranjan
 **Ans: B**
 </details>
 
-**Q25.** Western Dedicated Freight Corridor is framed as:
+**Q25.** The Western Dedicated Freight Corridor links:
 
-A. Only Assam link
+A. Only Assam
 
-B. Dadri-JNPT
+B. Dadri to JNPT
 
-C. Only Kerala link
+C. Only Kerala
 
-D. Atal Tunnel link
+D. Atal Tunnel to Rohtang village only
 
 <details>
 <summary>Show answer</summary>
@@ -816,7 +1096,7 @@ D. Atal Tunnel link
 
 A. Desert resources only
 
-B. Ocean resources with sustainability framing
+B. Sustainable use of ocean resources — shipping, fisheries, coastal tourism, offshore energy
 
 C. National Highways only
 
@@ -956,20 +1236,20 @@ D. Hospitals
 **Ans: B**
 </details>
 
-**Q35.** NS-EW corridor awareness pair is:
+**Q35.** The North–South and East–West highway corridors classically link:
 
-A. Purvanchal only
+A. Only Purvanchal towns
 
-B. Srinagar-Kanyakumari and Porbandar-Silchar
+B. Srinagar–Kanyakumari and Porbandar–Silchar
 
-C. Pipelines only
+C. Only oil pipelines
 
-D. Igarka only
+D. Only Igarka and Rotterdam
 
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: B** — NS = Srinagar–Kanyakumari; EW = Porbandar–Silchar.
 </details>
 
 **Q36.** Does Uttar Pradesh have a major seaport of its own?
@@ -1086,7 +1366,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Both are NCERT / PW road-classification locks.
+**Ans: C** — National Highways are a small share of length but carry heavy traffic; rural roads are most of the kilometres.
 </details>
 
 **Q43.** Which organisation was set up in 1986 to develop and regulate inland waterways for shipping and navigation?
@@ -1105,7 +1385,7 @@ D. GAIL
 **Ans: B** — Inland Waterways Authority of India.
 </details>
 
-**Q44.** Approximately what share of India’s trade by volume moves through maritime transport in the standard textbook framing?
+**Q44.** Approximately what share of India’s trade by volume moves through maritime transport?
 
 A. About 10 percent
 
@@ -1188,7 +1468,7 @@ D. (A) is false, but (R) is true
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — NCERT reason for the rising importance of roads.
+**Ans: A** — Roads feed other modes because they are cheaper to lay and can reach the door.
 </details>
 
 **Q49.** How many inland waterways were declared as National Waterways under the National Waterways Act, 2016?
@@ -1595,7 +1875,7 @@ D. Mau
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — 2018 proposal-stage key. The **built** corridor **does** pass Mau district; do not use this option as today’s atlas.
+**Ans: D** — 2018 official key for that wording. The **built** expressway **does** pass Mau. Basti is not on the main alignment.
 </details>
 
 ---
@@ -1636,15 +1916,15 @@ D. A-1, B-3, C-2, D-4
 
 ## Current Affairs (this topic)
 
-| Year | Fact | Why asked | Source |
-|------|------|-----------|--------|
-| **13 Oct 2021** | **PM Gati Shakti** National Master Plan launched (not 2022) | Frozen 2023 Q136 | PIB |
-| **17 Sep 2022** | **National Logistics Policy** — complements Gati Shakti | Scheme pair | DPIIT / PIB |
-| **Feb 2023** | Amrit Bharat: UP **149** stations identified for modernisation | Frozen 2023 Q71 | MoR |
-| **2024–26** | **New Pamban** vertical-lift railway sea bridge (RVNL) | 2025 Q136 | MoR / RVNL |
-| **18 Mar 2024** | **FLY91** inaugural from **Manohar Intl** (Mopa, Goa) | 2024 Q90 | MoCA |
-| **2024–26** | **Noida International (Jewar)** — UP’s new greenfield intl hub | UP airport CA | UPEIDA / MoCA |
-| **DFC** | Western Dadri–JNPT / Eastern Ludhiana–Dankuni — phased opening | Syllabus + T8 neighbour | DFCCIL |
+| Year | Fact | Why it matters |
+|------|------|----------------|
+| **13 Oct 2021** | **PM Gati Shakti** National Master Plan launched (not 2022) | Year trap with seven engines |
+| **17 Sep 2022** | **National Logistics Policy** — complements Gati Shakti | Scheme pair |
+| **Feb 2023** | Amrit Bharat: about **1,275** stations all-India; **149** of them in UP for modernisation | 149 = UP stations, not new lines |
+| **2024–26** | **New Pamban** vertical-lift railway sea bridge (RVNL) | RVNL + first vertical-lift lock |
+| **18 Mar 2024** | **FLY91** inaugural from **Manohar Intl** (Mopa, Goa) | New airline + airport pair |
+| **2024–26** | **Noida International (Jewar)** — UP’s new greenfield intl hub | UP airport CA |
+| **DFC** | Western Dadri–JNPT / Eastern Ludhiana–Dankuni — phased opening | Freight spine |
 
 Sagarmala / Bharatmala remain living umbrella programmes; exam still tests **name swap**, not project lists.
 
@@ -1652,21 +1932,23 @@ Sagarmala / Bharatmala remain living umbrella programmes; exam still tests **nam
 
 ## Common Traps — Don't Fall For These
 
-1. **SER HQ = Cuttack** — FALSE. **Garden Reach, Kolkata** (2025 Q150).
+1. **SER HQ = Cuttack** — FALSE. **Garden Reach, Kolkata**.
 2. **NER HQ = Hajipur** — FALSE. **Gorakhpur**. Hajipur = **East Central**.
-3. **Amrit Bharat = 149 new railway lines** — FALSE. Station **modernisation**; UP count **149** (Feb 2023).
+3. **Amrit Bharat = 149 new railway lines** — FALSE. It modernises **stations**. As of Feb 2023 about **1,275** stations all-India, of which **149** were in **Uttar Pradesh**.
 4. **Gati Shakti launched 2022** — FALSE. **13 Oct 2021**; seven engines **true**.
 5. **Bharatmala = ports / Sagarmala = highways** — SWAP. Bharatmala = **roads**; Sagarmala = **port-led**.
-6. **Mau is off today’s Purvanchal Expressway** — FALSE for the **built** road (Lucknow–Ballia via Azamgarh–Mau). 2018 Q3 keyed **D Mau** as a frozen paper, not the atlas. **Basti** is not on the main alignment.
-7. **Atal = world’s longest highway tunnel** — FALSE in 2025. **Pir Panjal** is the safe lock.
-8. **Igarka = China** — FALSE. **Russia** (2023 Q60).
-9. **NW-1 = Brahmaputra** — FALSE. **Ganga**. NW-3 = **Kerala** canal.
+6. **Mau is off today’s Purvanchal Expressway** — FALSE for the **built** road (Lucknow–Ballia via Azamgarh–Mau). **Basti** is not on the main alignment. The 2018 stem “will not pass” had a different official key — see that full question in the PYQ bank.
+7. **Atal = world’s longest highway tunnel** — FALSE as a bare claim. **Pir Panjal** is the safe lock.
+8. **Igarka = China** — FALSE. **Russia**.
+9. **NW-1 = Brahmaputra** — FALSE. **Ganga, Haldia–Prayagraj**. NW-2 = Brahmaputra. NW-3 = **Kerala** canal. NW-4 = Kakinada–Puducherry. NW-5 = Talcher–Dhamra.
 10. **Kushinagar not international** — FALSE. Intl on **24 Jun 2020**.
 11. **First solar airport = Delhi / Ahmedabad** — FALSE. **Cochin**.
 12. **Optical fibre = refraction** — FALSE. **Total internal reflection**.
 13. **Motihari–Kathmandu pipeline** — FALSE. **Amlekhganj, Nepal**.
-14. **Paradip = Andhra / Alappuzha = Tamil Nadu** — FALSE. Paradip **Odisha**; Alappuzha **Kerala** (2025 Q50).
-15. **UP has a major seaport** — FALSE. Identity = Gorakhpur, NW-1, expressways, Kushinagar/Jewar, Amrit 149.
+14. **Paradip = Andhra / Alappuzha = Tamil Nadu** — FALSE. Paradip **Odisha**; Alappuzha **Kerala**.
+15. **UP has a major seaport** — FALSE. Identity = Gorakhpur, NW-1, expressways, Kushinagar/Jewar, 149 Amrit stations.
 16. **National Highways = most of India’s road kilometres** — FALSE. NH are ~**2%** of length but carry ~**40%** of traffic; rural roads are ~**80%** of length.
 17. **Inland waterways already move most Indian cargo** — FALSE. Share is tiny; sea still moves ~**95%** of trade by volume.
 18. **IWAI = NHAI** — FALSE. IWAI (1986) = inland waterways; NHAI (1995) = national highways.
+19. **Only three National Waterways exist** — FALSE. The 2016 Act declared **111**. The first five are the map you must know even if a paper has not yet asked NW-4 or NW-5.
+20. **Kakinada is a major-port-state lock for Odisha** — FALSE. Kakinada = **Andhra Pradesh**; Paradip = **Odisha**.
