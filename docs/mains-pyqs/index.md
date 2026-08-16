@@ -12,7 +12,7 @@ Start with **Directive words** if you are still mixing Explain / Examine / Discu
 <div class="study-grid" markdown>
 
 [**Directive words**
-<span>How to shape Explain, Examine, Discuss, Critically… answers</span>](01_Directive_Words_Answer_Writing.md){ .study-card }
+<span>Directive map + model answers (Explain to Critically evaluate)</span>](01_Directive_Words_Answer_Writing.md){ .study-card }
 
 [**Syllabus index**
 <span>Official topic map for new folders</span>](00_SYLLABUS.md){ .study-card }
