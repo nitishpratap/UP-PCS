@@ -1,6 +1,6 @@
 # Topic 7 — Natural Vegetation & Biodiversity Geography
 
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥25)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥60)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -9,7 +9,7 @@
 **Protected areas:** National Parks | Wildlife Sanctuaries | Biosphere Reserves (18; Nilgiri first) | Ramsar Sites | Mangroves | Coral Reefs | Project Tiger / Elephant
 </details>
 
-> **Sources baked in:** NCERT Class 9–11, ISFR/FSI, MoEFCC PA lists, UPPCS Prelims 2018–2025  
+> **Sources baked in:** NCERT Class 9–11, **PMF IAS** Champion–Seth vegetation + mangroves + biodiversity (Kullar), ISFR/FSI, MoEFCC PA lists, UPPCS Prelims 2018–2025  
 > **Exam weight:** ★★★★ — type×rain×region, PA–state, UP Dudhwa/Ramsar, biosphere traps, Project chronology  
 > **Last verified:** August 2026  
 > **Current Affairs:** **Surha Tal (Ballia)** = India’s **100th Ramsar** (5 Jun 2026); UP **13**; MISHTI = Budget **2023–24** (not 2019)
@@ -21,8 +21,16 @@
 ```
 VEGETATION = climate index → Thornthwaite (2018 Q25) | Climate + soil + relief + biotic + time
  Mega-biodiversity | Hotspots: Himalaya · W Ghats · Indo-Burma · Sundaland
-RAIN LADDER: Evergreen >200 cm | Semi-evergreen transition | Moist deciduous 100–200 (LARGEST)
- Dry deciduous 70–100 | Thorn <70
+RAIN LADDER (NCERT): Evergreen >200 | Semi-evergreen mix | Moist deciduous 100–200 (LARGEST ~37%)
+ Dry deciduous 70–100 (~28%) | Thorn <70–75 | PMF wet evergreen often >250; semi 200–250
+ Champion–Seth: 5 heads, **16** sub-types (moist trop / dry trop / sub-trop montane / temp montane / alpine)
+ Dry evergreen = TN Coromandel, ~100 cm **NE monsoon**, jamun–neem–tamarind
+ Chir pine = W Himalaya 1000–2000 m; inner Himalaya dry temperate (snow precip)
+ Alpine: moist rhododendron–birch; dry juniper >3500 m | Shola = S Indian hills
+ 2010 trap: four hotspots are NOT “E Himalaya + W Himalaya + WG + A&N”
+ Correct four: Himalaya · WG–Sri Lanka · Indo-Burma · Sundaland (**Nicobar**, not Andaman)
+ BIO: richness ≠ evenness | α in one ecosystem / β between / γ region | 50k rice strains, 1k mango
+ 2 realms (Palearctic Himalaya + Indomalayan rest) | 5 biomes | **10** biogeographic zones | ~25 provinces
  Evergreen: W Ghats, NE, Andamans; multilayer; rosewood/mahogany/ebony; no complete dry leaf-shed
  Moist deciduous: teak, sal, shisham, sandalwood; leaf-shed dry season
  Thorn: RJ, GJ, rain-shadow; acacia, babool, ber, khair; xerophytes
@@ -74,6 +82,11 @@ MANGROVE/CORAL: Sundarbans sundari | MISHTI restore mangroves, NOT started 2019 
 | Agasthyamalai | Kerala **and TN** | Only one state as if exclusive | अगस्त्यमलाई = केरल–TN |
 | Nilgiri BR | **First** Indian BR (1986) | Call Nanda Devi first | नीलगिरि पहला |
 | Hotspot count | **Four** Indian hotspots | Mix with 18 BRs | चार हॉटस्पॉट |
+| 2010 hotspot names | Himalaya + WG–SL + Indo-Burma + Sundaland (Nicobar) | Split Himalaya E/W + Andaman as the four | निकोबार = सुंडालैंड |
+| Wet evergreen rain | NCERT **>200 cm**; PMF often **>250** for wet evergreen | Mix the two numbers in one stem | 200 NCERT / 250 PMF |
+| Dry evergreen vs wet evergreen | Dry evergreen = **TN coast**, NE monsoon ~100 cm | Call it Western Ghat rain forest | कोरोमंडल शुष्क सदाबहार |
+| Chir vs deodar belt | Chir = **subtropical pine** 1000–2000 m west; deodar = temperate | Swap belts | चीड़ निचला; देवदार ऊँचा |
+| Keystone vs flagship | Keystone = ecosystem collapse if lost; flagship = public mascot | Call panda a keystone lock for India | कीस्टोन ≠ फ्लैगशिप |
 
 ---
 
@@ -124,6 +137,62 @@ NCERT five-type frame: Tropical Evergreen (& Semi-Evergreen) | Tropical Deciduou
 - Evergreen ≠ “any green tree in monsoon India.”
 - Tea / rubber **estates** are plantations, not climax evergreen.
 
+**Champion and Seth (PMF 5 × 16 map)**
+
+Coaching (Kullar / PMF) splits Indian vegetation into **five** heads and **sixteen** sub-types. NCERT’s five climate types still win the first stem. The 16 names win a “which is a dry tropical / montane temperate” stem.
+
+| Head | Sub-types |
+|------|-----------|
+| **Moist tropical** | Wet evergreen · Semi-evergreen · Moist deciduous · Littoral and swamp |
+| **Dry tropical** | Dry evergreen · Dry deciduous · Thorn |
+| **Montane sub-tropical** | Broad-leaved hill · Moist hill (pine) · Dry evergreen |
+| **Montane temperate** | Wet temperate · Himalayan moist temperate · Himalayan dry temperate |
+| **Alpine** | Sub-alpine · Moist alpine scrub · Dry alpine scrub |
+
+| Share of forest area (PMF class figures) | Type |
+|------------------------------------------|------|
+| About **37%** | Tropical **moist deciduous** (largest) |
+| About **28%** | Tropical **dry deciduous** |
+| About **8%** | Tropical wet evergreen |
+| About **6%** | Sub-tropical moist hill (pine) |
+| About **4%** | Tropical semi-evergreen |
+
+- Rain on the **plains** sets the type. Above about **900 m**, **temperature** (altitude) takes over.
+- **Soil** is the main control for mangroves and swamps. **Topography** makes alpine and tidal belts local.
+
+**PMF rain table vs NCERT ladder**
+
+- **>200 cm** (PMF wet evergreen often **>250**): rain forest.
+- **100–200 cm**: monsoon deciduous (moist).
+- **50–100 cm**: drier deciduous / savanna-like.
+- **25–50 cm**: dry thorn (semi-arid).
+- **<25 cm**: desert.
+- NCERT thorn is **<50–70 cm**. Keep **moist deciduous = largest**. Do not fight a UPPCS rain number with a second table in the same stem.
+
+### Biodiversity (PMF terms)
+
+- **Biodiversity** = variety of life. Exam splits it as **genetic**, **species** and **ecosystem** (ecological) diversity.
+- **Species richness** = how many species. **Evenness** = how evenly they are abundant. Same richness can hide a few dominant species.
+- **Alpha** = diversity **inside** one ecosystem. **Beta** = change **between** ecosystems. **Gamma** = diversity of a whole **region**.
+- Species diversity **falls equator → poles**. Amazon is the peak. Insects are the richest animal group. Fungi outnumber fish+amphibians+reptiles+mammals combined.
+- India: about **2.4%** of land, about **7–8%** of recorded species, about **18%** of people. Mega-diverse.
+- Genetic lock: more than **50,000** rice strains and about **1,000** mango varieties.
+- **Endemic** = found only in that place. Indigenous is not the same if it also lives elsewhere.
+- **Keystone** = lose it and the ecosystem shifts (top predators; some exclusive pollinators).
+- **Flagship** = public mascot (tiger, panda). **Foundation** = dominant structure-builder (coral, kelp).
+- India sits in **two realms**: Himalaya ≈ **Palearctic**; the rest ≈ **Indomalayan / Malayan**.
+- Five biomes: tropical humid forest · tropical dry/deciduous · desert/semi-desert · coniferous forest · alpine meadow.
+- Wildlife planning uses **10 biogeographic zones** (Trans-Himalaya, Himalaya, Desert, Semi-arid, Western Ghats, Deccan, Gangetic plain, North-east, Islands, Coasts) and about **25 provinces**.
+
+**Four hotspots (Conservation International)**
+
+- **Himalaya** (whole Indian Himalaya, not a separate “east hotspot” plus “west hotspot”).
+- **Western Ghats and Sri Lanka**.
+- **Indo-Burma** (NE India and neighbours; **Nicobar is not** this box).
+- **Sundaland** = **Nicobar** (with Indonesia–Malaysia), **not** the Andaman group as the Sundaland lock.
+- UPSC 2010 trap listed “Eastern Himalayas, Western Himalayas, Western Ghats and Andaman–Nicobar.” That naming is **wrong**. Hotspots are also **not** tropics-only (Mediterranean, SW Australia, Chilean temperate forest).
+- Myers idea: high **endemism** plus heavy **habitat loss**. Do not equate four hotspots with **18** biosphere reserves.
+
 ### World vegetation matches (2019)
 
 | Type | Region |
@@ -146,29 +215,48 @@ NCERT five-type frame: Tropical Evergreen (& Semi-Evergreen) | Tropical Deciduou
 
 ### Evergreen & semi-evergreen
 
-- Needs equable heat + heavy rain.
-- Dense multilayer canopy; soils often leached / poor.
-- Hard to exploit commercially (dense hardwood, difficult terrain).
-- Not a UP plains type.
-- Semi-evergreen = transition mix where rain is a notch lower.
+- Needs equable heat + heavy rain. PMF wet evergreen: often **>250 cm**, about **25–27°C**, humidity **>77%**, short dry season.
+- Trees are **mesophytes** (not cactus, not water lily). Height **45–60 m**. A closed canopy; epiphytes fight for light; undergrowth is bamboo, fern, orchid.
+- Hardwood (mahogany, rosewood, ebony, mesua, white cedar, jamun) is valuable but **hard to log** (no pure stands, dense climbers, poor roads).
+- Belt: **windward Western Ghats** (about 500–1370 m), **Purvanchal / NE**, **Andaman–Nicobar**. Not a UP plains type.
+- Semi-evergreen is the **transition**: PMF rain **200–250 cm**, a longer dry season, **buttressed** trunks, more **gregarious** (purer stands), so timber is easier than in true rain forest.
+- Semi-evergreen: western coast, Assam, lower eastern Himalaya, Odisha, Andamans. Laurel, rosewood, champa, mango, Indian chestnut.
 
 ### Deciduous (monsoon forest)
 
-- India’s workhorse timber / wildlife forest — **largest area**.
-- Leaf-shed = dry-season water saving (~6–8 weeks in peak dry).
-- Dominant commercial trees: **teak, sal**; also shisham, sandalwood, bamboo, arjun, mulberry.
+- India’s workhorse timber / wildlife forest — **largest area (~37% moist deciduous)**.
+- Rain **100–200 cm**, about **27°C**, humidity **60–75%**. Leaves drop in **spring–early summer** (April–May look bare).
+- Irregular top storey **25–60 m**, buttresses, undergrowth. **Teak and sal** form useful **pure stands**, so these forests are easier to exploit than evergreen.
+- Belt: around evergreen on the Western Ghats, **Shiwalik–Terai–Bhabar** (about 77°E–88°E), Chota Nagpur, eastern MP–Chhattisgarh, Odisha, parts of WB, Manipur–Mizoram, Andamans.
+- **Dry deciduous** is the drier twin (NCERT **70–100 cm**; PMF also writes 100–150 as a wide strip). Wetter side → moist deciduous. Drier side → thorn. Closed but uneven canopy, grass on the floor. Strip from Himalayan foot to Kanyakumari except Rajasthan, Western Ghats and West Bengal. Teak, axlewood, red sanders, bamboo.
+- Large tracts of both deciduous types have been **cleared for crops**. Fire and grazing thin what remains.
 - UP north belt = Terai teak–sal; UP south = Vindhyan Sonbhadra–Mirzapur–Chandauli.
+
+### Tropical dry evergreen (PMF extra)
+
+- A **strange evergreen** on the **Tamil Nadu / Coromandel** coast with only about **100 cm** rain, mostly from the **north-east monsoon** (Oct–Dec).
+- Short trees (to about **12 m**), closed canopy; jamun, tamarind, neem. Bamboo and grass are not conspicuous.
+- Most of it has been cleared for farms or **casuarina** (N-fixing coastal windbreak and fuelwood).
+- Do **not** confuse with Western Ghat wet evergreen.
 
 ### Thorn / scrub
 
-- Long dry season; spines, small leaves, deep roots, thick bark.
-- Not “desert with zero plants.”
-- Grades into Thar desert vegetation westward.
+- PMF: rain **<75 cm**, humidity **<50%**, trees only **6–10 m** and scattered. **Acacia and Euphorbia** dominate. Indian wild date is common.
+- Long dry season; spines, small leaves, deep roots, thick bark (**xerophytes**).
+- Rajasthan, SW Punjab, western Haryana, Kachchh–Saurashtra, then **rain-shadow** of the Western Ghats (MH, KA, TG, AP, TN).
+- Grades into Thar desert vegetation westward. Not “desert with zero plants.”
 
 ### Montane (altitude elevator)
 
-- Temperature falls with height → stacked belts.
+- Temperature falls with height → stacked belts. PMF: altitude rules above about **900 m**.
 - Rough Himalayan stack: foothill tropical / subtropical → **oak–chestnut** → **chir / deodar / pine / spruce / fir** → alpine juniper / rhododendron → **bugyals** → snow.
+- **Sub-tropical broad-leaved hill** forests: eastern Himalaya east of **88°E**, **1000–2000 m** — evergreen oak, chestnut, ash; also stunted on Nilgiri–Palani, Mahabaleshwar, Satpura–Maikal, Bastar, **Mt Abu**.
+- **Sub-tropical moist pine**: western Himalaya **73°E–88°E**, **1000–2000 m**. **Chir / chil** in pure stands; timber, **resin and turpentine**. Also Khasi–Naga–Manipur hills.
+- **Sub-tropical dry evergreen**: Bhabar, Shiwaliks, western Himalaya to about **1000 m**. Low scrub: **olive, Acacia modesta, pistacia**.
+- **Montane wet temperate**: **1800–3000 m**, 150–300 cm rain — higher hills of **Kerala–Tamil Nadu** and eastern Himalaya. Mossy evergreen, short trees.
+- **Himalayan moist temperate**: **1500–3300 m**, 150–250 cm — Kashmir to Sikkim. Conifers **30–50 m** in fairly pure stands (pine, cedar, silver fir, spruce) with oak and rhododendron below. Sleepers and construction timber.
+- **Himalayan dry temperate**: inner ranges (Ladakh, Lahaul, Kinnaur, Chamba, inner Garhwal, north Sikkim) where the SW monsoon is weak. Precip often **snow**, **<100 cm**. Deodar, oak, olive.
+- **Alpine** (about **2900–3500 m+**): sub-alpine mix of conifer and broad-leaf; **moist alpine scrub** = rhododendron and birch to the snowline; **dry alpine scrub** above about **3500 m** = juniper, honeysuckle, artemisia.
 - Eastern Himalaya is wetter than the west.
 - South Indian hills: **shola**–grassland (Nilgiri, Anaimalai, Palani).
 - Aspect (N vs S slope) shifts the tree line.
@@ -176,14 +264,18 @@ NCERT five-type frame: Tropical Evergreen (& Semi-Evergreen) | Tropical Deciduou
 
 ### Mangrove / tidal (littoral & swamp)
 
-- Salt-tolerant; **pneumatophores** (breathing roots); storm buffer.
-- **Sundarbans** (*sundari*) = largest Indian mangrove; Royal Bengal Tiger habitat.
-- Also Mahanadi, Godavari–Krishna, Cauvery, Andamans, Gujarat pockets.
+- Salt-tolerant **halophytes**; grow in fresh **or brackish** water. **Pneumatophores** and **prop roots** slow water, trap silt and buffer storms.
+- **Sundarbans** (*sundari* / *Heritiera*) = largest single tidal mangrove block; Royal Bengal Tiger and crocodile country.
+- **Bhitarkanika (Odisha)** is the usual **second** Indian mangrove lock.
+- Also Godavari–Krishna creeks, Cauvery, Mahanadi, Andaman–Nicobar (dense, less disturbed).
+- **West coast** mangroves (MH–Goa–KA) are often **scrubby and degraded**. **Gulf of Kachchh / Kori** stands are often **dwarf**.
+- Swamp forests hug the Ganga, Mahanadi, Godavari, Krishna and Cauvery deltas. Fuelwood and boat timber are the old uses.
 - NCERT order-of-magnitude: India holds a notable share of world mangroves (~7% in older NCERT figure).
 - **MISHTI** (Mangrove Initiative for Shoreline Habitats and Tangible Income) = Budget **2023–24** restoration — **not initiated 2019** (2025 Q93 **Only 2**).
 
-**Inline PYQ**
-**(UPPCS 2018, Q25)** ‘Vegetation is the true index of climate’. This statement is associated with
+**PYQ — UPPCS Prelims 2018, Q25**
+
+‘Vegetation is the true index of climate’. This statement is associated with
 
 A. Thornthwaite
 
@@ -193,7 +285,12 @@ C. Trewartha
 
 D. Stamp
 
-**Ans: A**
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Thornthwaite, not Köppen’s letter codes.
+
+</details>
 
 ---
 
@@ -302,8 +399,9 @@ D. Stamp
 - 2021 Q140: Similipal–OD, Pachmarhi–MP, Nandadevi–UK, Nokrek–ML → **4 3 1 2**.
 - 2025 Q144 **NOT** matched: **Only Nokrek–Manipur**.
 
-**Inline PYQ**
-**(UPPCS 2018, Q54)** Which is NOT an example of in-situ conservation?
+**PYQ — UPPCS Prelims 2018, Q54**
+
+Which is NOT an example of in-situ conservation?
 
 A. Biosphere reserve
 
@@ -313,7 +411,12 @@ C. National Park
 
 D. Sacred groves
 
-**Ans: B**
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Botanical garden is **ex-situ**.
+
+</details>
 
 ---
 
@@ -374,8 +477,8 @@ India reefs: **Andaman–Nicobar, Lakshadweep, Gulf of Mannar, Gulf of Kachchh**
 ## Consolidated — 20 Must-Score Locks
 
 1. Vegetation index of climate = **Thornthwaite** (2018).
-2. Moist deciduous **100–200 cm** = **largest** Indian type; evergreen **>200**; semi-evergreen = mix zone.
-3. Diversity **decreases** equator → poles (2019). Four hotspots: Himalaya / W Ghats / Indo-Burma / Sundaland.
+2. Moist deciduous **100–200 cm** = **largest (~37%)**; dry deciduous next (~28%); evergreen **>200** (PMF wet often **>250**); semi-evergreen = mix zone.
+3. Diversity **decreases** equator → poles (2019). Four hotspots: Himalaya / WG–Sri Lanka / Indo-Burma / Sundaland (**Nicobar**). Not “E Himalaya + W Himalaya + A&N.”
 4. Maquis–Med; Fynbos–SA; Chaparral–California; Matorral–Chile.
 5. ISFR 2017 = **21.54%**; 2021 max rise among options = **AP**. Cover ≠ RFA.
 6. UP forest ~**6%**; ISFR 2023 >20% = **Chandauli + Shravasti**.
@@ -387,7 +490,7 @@ India reefs: **Andaman–Nicobar, Lakshadweep, Gulf of Mannar, Gulf of Kachchh**
 12. Dudhwa NP = **Lakhimpur Kheri**; only UP NP.
 13. Dudhwa TR = NP + Kishanpur + Katarniaghat; Katarniaghat **1975**.
 14. Chandraprabha = **Chandauli**.
-15. Agasthyamalai = KL–TN. Shola = South Indian montane.
+15. Agasthyamalai = KL–TN. Shola = South Indian montane. Dry evergreen = **TN Coromandel**. Chir pine = W Himalaya 1000–2000 m.
 16. Rudrasagar/Sultanpur/Surinsar–Mansar **not UP**.
 17. Surha Tal Ballia = **100th Ramsar** / UP 13th (2026).
 18. MISHTI = mangrove restore, **not 2019**. Pneumatophores = mangrove breathing roots.
@@ -398,7 +501,7 @@ India reefs: **Andaman–Nicobar, Lakshadweep, Gulf of Mannar, Gulf of Kachchh**
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click *Show answer* under each question to reveal.  
-> **Format mix:** 55 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (UPPCS Prelims style)
+> **Format mix:** 62 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (UPPCS Prelims style)
 
 **Q1.** Which forest type covers the largest area in India?
 
@@ -1344,6 +1447,137 @@ D. (A) is false, but (R) is true
 **Ans: A** — Structure and saline adaptation explain the storm-buffer role.
 </details>
 
+**Q56.** Champion and Seth classify India’s natural vegetation into
+
+A. two types only, desert and tundra
+
+B. five main types and sixteen sub-types
+
+C. eighteen biosphere reserves
+
+D. four biodiversity hotspots only
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Moist tropical, dry tropical, montane sub-tropical, montane temperate, alpine — sixteen sub-types. Hotspots and BRs are other lists.
+
+</details>
+
+**Q57.** Tropical dry evergreen forests in India are typically found
+
+A. on the windward Western Ghats above 250 cm rain
+
+B. along the Tamil Nadu / Coromandel coast with about 100 cm, mostly north-east monsoon rain
+
+C. in the Thar core below 25 cm
+
+D. in alpine Ladakh as juniper scrub
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — PMF “strange evergreen” of a relatively dry east coast. Jamun, tamarind, neem.
+
+</details>
+
+**Q58.** Which one of the following is correctly matched?
+
+A. Chir / chil pine — western Himalaya, about 1000–2000 m, resin and turpentine
+
+B. Sundari — alpine juniper of Ladakh
+
+C. Dry alpine scrub — Coromandel casuarina
+
+D. Moist deciduous — rainfall below 25 cm
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Chir is the sub-tropical moist hill pine lock.
+
+</details>
+
+**Q59.** With reference to biodiversity, which of the following statements is/are correct?
+
+1. Species richness is the number of species; evenness is how evenly they are abundant.
+2. Alpha diversity is diversity within one ecosystem; beta diversity compares ecosystems.
+3. India’s four hotspots are Eastern Himalaya, Western Himalaya, Western Ghats and the Andaman Islands.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — (3) is the **2010 trap naming**. The four are Himalaya, Western Ghats–Sri Lanka, Indo-Burma and Sundaland (Nicobar).
+
+</details>
+
+**Q60.** Bhitarkanika mangrove forest is in
+
+A. Gujarat’s Rann
+
+B. Odisha
+
+C. Uttar Pradesh Terai
+
+D. Ladakh
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Usual second Indian mangrove lock after the Sundarbans.
+
+</details>
+
+**Q61.** India is described as sitting in two biogeographic realms. These are
+
+A. Nearctic and Antarctic
+
+B. Palearctic (Himalaya) and Indomalayan (the rest of the subcontinent)
+
+C. Australian and Oceanian only
+
+D. Neotropical and Afrotropical
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — PMF / wildlife-planning lock. Ten biogeographic **zones** are a different list.
+
+</details>
+
+**Q62.** Given below are two statements:
+
+**Assertion (A):** Tropical wet evergreen forests are hard to exploit for timber.
+
+**Reason (R):** They lack extensive pure stands and have dense climbers and poor access.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+
+C. (A) is true, but (R) is false
+
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Moist deciduous teak–sal stands are the easier timber forests.
+
+</details>
+
 ---
 
 ## Complete PYQ Bank — Natural Vegetation & Biodiversity Geography (2018–2025)
@@ -2161,3 +2395,7 @@ Lakes-as-wetlands. This file keeps the **geography** locks.
 16. **Hotspots = 18** — FALSE. **Four** hotspots; **18** biosphere reserves.
 17. **Nanda Devi = first BR** — FALSE. **Nilgiri (1986)** is first.
 18. **Forest cover % = Recorded Forest Area %** — FALSE. ISFR cover ≠ legal RFA.
+19. **Four hotspots = Eastern Himalaya + Western Himalaya + Western Ghats + Andaman** — FALSE. That is the **2010 trap**. Use Himalaya, WG–Sri Lanka, Indo-Burma, Sundaland (**Nicobar**).
+20. **Dry evergreen = Western Ghat rain forest** — FALSE. It is the **Tamil Nadu / Coromandel** NE-monsoon belt.
+21. **Chir pine is an alpine juniper scrub** — FALSE. Chir is **sub-tropical pine** at about 1000–2000 m in the western Himalaya.
+22. **Hotspots exist only in the tropics** — FALSE. Mediterranean, SW Australia and Chilean temperate forest are hotspots too.
