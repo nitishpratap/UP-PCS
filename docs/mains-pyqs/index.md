@@ -5,9 +5,14 @@ hide:
 
 # Mains PYQ Library
 
-Use the **left sidebar** to open GS-1 and GS-2 topics. In each file: **PYQs → Quick Revision → Traps**, then write the answer from memory.
+Use the **left sidebar** to open GS-1 and GS-2 topics. In each file: **PYQs → Quick Revision → Content → Answers → Traps**, then write the answer from memory.
+
+Start with **Directive words** if you are still mixing Explain / Examine / Discuss / Critically examine.
 
 <div class="study-grid" markdown>
+
+[**Directive words**
+<span>How to shape Explain, Examine, Discuss, Critically… answers</span>](01_Directive_Words_Answer_Writing.md){ .study-card }
 
 [**Syllabus index**
 <span>Official topic map for new folders</span>](00_SYLLABUS.md){ .study-card }
