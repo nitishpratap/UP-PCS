@@ -34,4 +34,19 @@ hide:
 [**Judiciary**
 <span>SC/HC · 32 vs 226 · collegium · writs · cases.</span>](09_Judiciary.md){ .study-card }
 
+[**Local Government**
+<span>73rd/74th/97th · 29 vs 18 · SEC · SFC.</span>](10_Local_Government.md){ .study-card }
+
+[**Special Provisions**
+<span>371–371J · 5th vs 6th · Art. 244 · AMTM.</span>](11_Special_Provisions.md){ .study-card }
+
+[**Constitutional Bodies**
+<span>76–350B chain · ECI ≠ SEC · FC ≠ SFC · NITI.</span>](12_Constitutional_Bodies.md){ .study-card }
+
+[**Statutory / Non-Constitutional Bodies**
+<span>NHRC · CVC · Lokpal · NGT · NITI · CBI ≠ NIA.</span>](13_Statutory_and_Non_Constitutional_Bodies.md){ .study-card }
+
+[**Elections**
+<span>324–329 · ECI ≠ SEC · FPTP vs STV · RPA · NOTA.</span>](14_Elections.md){ .study-card }
+
 </div>

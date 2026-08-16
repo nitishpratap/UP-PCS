@@ -5,7 +5,8 @@
 **Template:** `_TEMPLATE.md`
 
 > **Student files = 6 sections only:** PYQs → Quick Revision → Content → Answers → Traps.  
-> **Diagrams** go **inside Content** (mermaid) — not a 7th section.  
+> **Diagrams** go **inside Content** (mermaid only) — not a 7th section.  
+> **No image generation / PNG assets** for Mains PYQ files.  
 > **No** Keyword Map, How to Use, Coverage Map, Ammunition Bank, Checklists, Cross-Links in student files.  
 > AI verifies solvability internally → **Delivery Report** only.
 
@@ -33,7 +34,7 @@ AI verifies solvability + enrichment internally. Update @mains-pyqs/_INDEX.md. O
 | Answers (Topper format per Q# — see Answer writing rule) | Ammunition Bank (merge into Content) |
 | Traps (4–8 rows) | Value-Add, Cross-Links, Exam Intelligence |
 | Minimal header (title + 1 line) | Prelims Overlap, Checklists, verbose metadata |
-| **0–2 mermaid diagrams inside Content** | Separate "Diagrams" section; decorative images |
+| **0–2 mermaid diagrams inside Content** | Separate "Diagrams" section; PNG/image assets or decorative images |
 
 **Content must answer every PYQ + likely future variants without external books.**
 
@@ -191,7 +192,7 @@ Add **`### Contemporary relevance`** near end of Content. Connect to **present**
 - **Default:** ` ```mermaid ` block inside **Content**, right after the subsection it illustrates
 - **Max:** 2 per file · labels short · no decorative styling
 - **Rule:** Every label in a diagram must also appear in text nearby — diagram is memory aid, not new source
-- **PNG/image:** Use when **side-by-side visual comparison** helps (e.g. Nagara vs Dravida elevation) or mermaid cannot show spatial shape. Save to `assets/` in same topic folder; link from Content: `![caption](assets/file.png)`
+- **Never create image assets:** Do **not** generate PNG/JPG/WebP/SVG diagrams, screenshots, decorative images, or `assets/` folders for student files. If mermaid cannot show the idea clearly, use a markdown table or prose instead.
 
 ---
 
@@ -212,7 +213,7 @@ Path: ...
 PYQs: __ | Answer blocks: __ | Solvable: YES/NO
 Content word count: __ (target met: YES/NO)
 Contemporary relevance: YES — [list links used]
-Diagrams: 0 / 1 / 2 (mermaid) | PNG: none
+Diagrams: 0 / 1 / 2 (mermaid only) | Image assets: none
 Named entities: __ | Traps: __ rows
 Book-free: YES — future angles covered: [list 2–3]
 Next subtopic: ...

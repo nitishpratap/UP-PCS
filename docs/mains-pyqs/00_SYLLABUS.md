@@ -25,6 +25,30 @@
 
 ---
 
+## Hindi — General Hindi Paper
+
+| Unit | Title | Folder |
+|------|-------|--------|
+| 1 | गद्य खण्ड का अवबोध एवं प्रश्नोत्तर | `Hindi/` |
+| 2 | संक्षेपण | `Hindi/` |
+| 3 | सरकारी एवं अर्ध-सरकारी पत्र लेखन, तार लेखन, कार्यालय आदेश, अधिसूचना, परिपत्र | `Hindi/` |
+| 4 | शब्द ज्ञान एवं प्रयोग | `Hindi/` |
+| 5 | लोकोक्ति एवं मुहावरे | `Hindi/` |
+
+**Folder:** `mains-pyqs/Hindi/`
+
+---
+
+## Essay — निबंध
+
+| Topic | Title | Folder |
+|-------|-------|--------|
+| 1 | Literature and Culture | `Essay/Literature_and_Culture/` |
+
+**Folder:** `mains-pyqs/Essay/`
+
+---
+
 ## GS-I — General Studies I
 
 ### Topic 01 — Art Forms, Literature & Architecture (ancient → modern)
@@ -245,11 +269,11 @@
 
 ---
 
-## GS-II — General Studies II (21 Topics)
+## GS-II — General Studies II (22 Topics)
 
 ### Polity & Constitution → `GS-2/Polity_Constitution/`
 
-> **Booklet mapping:** UPPCS GS-II section **2.1 (Polity & Constitution)** — one **`.md` file per syllabus topic** directly in this folder (no subfolders). **IR, governance, social sector** (Topics 11–21) use topic folders under `GS-2/`.  
+> **Booklet mapping:** UPPCS GS-II section **2.1 (Polity & Constitution)** — one **`.md` file per syllabus topic** directly in this folder (no subfolders). **IR, governance, social sector** (Topics 11–22) use topic folders under `GS-2/`.  
 > **2026 study guide:** [`00_UPPCS_2026_Polity_Analysis.md`](GS-2/Polity_Constitution/00_UPPCS_2026_Polity_Analysis.md) — PYQ trends, priorities, revision plan.
 
 | Topic | Title | File |
@@ -269,17 +293,18 @@
 
 | Topic | Title | Folder |
 |-------|-------|--------|
-| 11 | Govt policies, ICT | `GS-2/11_Governance_Policies/` |
-| 12 | NGOs, SHGs, stakeholders | `GS-2/12_NGO_SHG/` |
-| 13 | Welfare schemes — vulnerable sections | `GS-2/13_Welfare_Schemes/` |
-| 14 | Health, Education, HR | `GS-2/14_Social_Sector/` |
-| 15 | Poverty & Hunger | `GS-2/15_Poverty_Hunger/` |
-| 16 | Transparency, accountability, e-governance | `GS-2/16_E_Governance/` |
-| 17 | Civil Services | `GS-2/17_Civil_Services/` |
-| 18 | India & Neighbours | `GS-2/18_IR_Neighbours/` |
-| 19 | Bilateral, Regional, Global groupings | `GS-2/19_IR_Groupings/` |
-| 20 | Diaspora, developed/developing country policies | `GS-2/20_Diaspora/` |
-| 21 | International Institutions | `GS-2/21_International_Orgs/` |
+| 11 | Govt policies, ICT | `GS-2/Governance_Policies/` |
+| 12 | NGOs, SHGs, stakeholders | `GS-2/Governance_Policies/` |
+| 13 | Welfare schemes — vulnerable sections | `GS-2/Social_Justice/` |
+| 14 | Health, Education, HR | `GS-2/Social_Justice/` |
+| 15 | Poverty & Hunger | `GS-2/Social_Justice/` |
+| 16 | Transparency, accountability, e-governance | `GS-2/Governance_Policies/` |
+| 17 | Civil Services | `GS-2/Governance_Policies/` |
+| 18 | India & Neighbours | `GS-2/International_Relations/` |
+| 19 | Bilateral, Regional, Global groupings | `GS-2/International_Relations/` |
+| 20 | Diaspora, developed/developing country policies | `GS-2/International_Relations/` |
+| 21 | International Institutions | `GS-2/International_Relations/` |
+| 22 | Regional, National & International Current Affairs | `GS-2/International_Relations/` |
 
 > **Polity & Constitution:** flat files in `Polity_Constitution/`. **Other GS-II topics:** topic folder + subtopic files (same rule as GS-I).
 

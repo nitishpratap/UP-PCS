@@ -10,12 +10,46 @@
 
 | Paper | Topics | Subtopics planned | 🟢 | ⚠️ Legacy |
 |-------|--------|-------------------|-----|-----------|
+| Hindi | 5 units | 8 papers | 8 | 0 |
+| Essay | TBD | TBD | 4 | 0 |
 | GS-1 | 15 | 68 | 68 | 0 |
-| GS-2 | 21 | TBD | 10 | 0 |
+| GS-2 | 22 | TBD | 22 | 0 |
 | GS-3 | 18 | TBD | 0 | 0 |
 | GS-4 | 8 | TBD | 0 | 0 |
 | GS-5 | 21 | TBD | 0 | 0 |
 | GS-6 | 23 | TBD | 0 | 0 |
+
+---
+
+## Hindi — General Hindi
+
+| Paper | Keyword | File | PYQs | Status |
+|-------|---------|------|------|--------|
+| 2025 | Comprehension, précis, official writing, grammar and idioms | `Hindi/01_UPPCS_2025_General_Hindi.md` | 8 | 🟢 |
+| 2024 | Education/social control, cooperation vs competition, official writing, grammar and idioms | `Hindi/02_UPPCS_2024_General_Hindi.md` | 8 | 🟢 |
+| 2023 | Body as torch, morality and religion, official writing, grammar and idioms | `Hindi/03_UPPCS_2023_General_Hindi.md` | 8 | 🟢 |
+| 2022 | Literature vs political language, Indian sociology, notification/circular, grammar and idioms | `Hindi/04_UPPCS_2022_General_Hindi.md` | 8 | 🟢 |
+| 2021 | Dharma levels, greedy satire, official letters, grammar and idioms | `Hindi/05_UPPCS_2021_General_Hindi.md` | 8 | 🟢 |
+| 2020 | Nature and literature, language corruption, office order, grammar and idioms | `Hindi/06_UPPCS_2020_General_Hindi.md` | 8 | 🟢 |
+| 2019 | Art and life, literature vs politics language, circular/office order, grammar and idioms | `Hindi/07_UPPCS_2019_General_Hindi.md` | 8 | 🟢 |
+| 2018 | Literature and humanity, change vs balance, notification/demi-official letter, grammar and idioms | `Hindi/08_UPPCS_2018_General_Hindi.md` | 8 | 🟢 |
+
+**Hindi Papers:** **8/8 files complete** 🟢
+
+---
+
+## Essay — निबंध
+
+### Topic 1 — Literature and Culture → `Essay/Literature_and_Culture/`
+
+| Sub | Keyword | File | PYQs | Status |
+|-----|---------|------|------|--------|
+| 1.1 | The social responsibilities of Literature | `01_Social_Responsibilities_of_Literature.md` | 1 | 🟢 |
+| 1.2 | Literature and Moral Values | `02_Literature_and_Moral_Values.md` | 1 | 🟢 |
+| 1.3 | Sociality of Literature | `03_Sociality_of_Literature.md` | 1 | 🟢 |
+| 1.4 | Art and social liberty | `04_Art_and_Social_Liberty.md` | 1 | 🟢 |
+
+**Topic 1 Literature and Culture:** **4 files complete** 🟢
 
 ---
 
@@ -217,6 +251,102 @@
 
 **Polity & Constitution:** **10/10 files complete** 🟢
 
+### Topic 11 — Government Policies, Interventions & ICT → `GS-2/Governance_Policies/`
+
+| Sub | Keyword | File | PYQs | Status |
+|-----|---------|------|------|--------|
+| 11.1 | Government policies, implementation issues, ICT, Digital India, DBT | `01_Government_Policies_ICT.md` | 8 | 🟢 |
+
+**Topic 11 Governance Policies:** **1/1 file complete** 🟢
+
+### Topic 12 — NGOs, SHGs & Development Stakeholders → `GS-2/Governance_Policies/`
+
+| Sub | Keyword | File | PYQs | Status |
+|-----|---------|------|------|--------|
+| 12.1 | NGOs, SHGs, donors, charities, associations, diaspora and institutional stakeholders | `02_NGO_SHG_Stakeholders.md` | 9 | 🟢 |
+
+**Topic 12 NGOs/SHGs:** **1/1 file complete** 🟢
+
+### Topic 16 — Transparency, Accountability & E-Governance → `GS-2/Governance_Policies/`
+
+| Sub | Keyword | File | PYQs | Status |
+|-----|---------|------|------|--------|
+| 16.1 | Governance, transparency, accountability, e-governance, citizen charter, institutional measures | `03_Transparency_Accountability_E_Governance.md` | 13 | 🟢 |
+
+**Topic 16 E-Governance/Accountability:** **1/1 file complete** 🟢
+
+### Topic 17 — Civil Services in Democracy → `GS-2/Governance_Policies/`
+
+| Sub | Keyword | File | PYQs | Status |
+|-----|---------|------|------|--------|
+| 17.1 | Role of civil services, civil society, RTI, UP administration, neutrality and CBI | `04_Civil_Services_Democracy.md` | 7 | 🟢 |
+
+**Topic 17 Civil Services:** **1/1 file complete** 🟢
+
+### Topic 13 — Welfare Schemes for Vulnerable Sections → `GS-2/Social_Justice/`
+
+| Sub | Keyword | File | PYQs | Status |
+|-----|---------|------|------|--------|
+| 13.1 | Welfare schemes, vulnerable sections, MGNREGA, SC/ST welfare, disability access, farmers and SHGs | `01_Welfare_Schemes_Vulnerable_Sections.md` | 6 | 🟢 |
+
+**Topic 13 Welfare Schemes:** **1/1 file complete** 🟢
+
+### Topic 14 — Health, Education & Human Resources → `GS-2/Social_Justice/`
+
+| Sub | Keyword | File | PYQs | Status |
+|-----|---------|------|------|--------|
+| 14.1 | Social sector management, health services, education, HRD, Mission Shakti, MGNREGA and farmers | `02_Social_Sector_Health_Education_HR.md` | 6 | 🟢 |
+
+**Topic 14 Social Sector:** **1/1 file complete** 🟢
+
+### Topic 15 — Poverty, Hunger & Body Politic → `GS-2/Social_Justice/`
+
+| Sub | Keyword | File | PYQs | Status |
+|-----|---------|------|------|--------|
+| 15.1 | Poverty, hunger, PDS, post-2014 progress, schemes and electoral politics | `03_Poverty_Hunger_Body_Politic.md` | 5 | 🟢 |
+
+**Topic 15 Poverty & Hunger:** **1/1 file complete** 🟢
+
+### Topic 18 — India & Neighbouring Countries → `GS-2/International_Relations/`
+
+| Sub | Keyword | File | PYQs | Status |
+|-----|---------|------|------|--------|
+| 18.1 | India relations with Sri Lanka, Maldives, Bangladesh, Pakistan, Nepal, Afghanistan and China | `01_India_Neighbourhood_Relations.md` | 11 | 🟢 |
+
+**Topic 18 India & Neighbours:** **1/1 file complete** 🟢
+
+### Topic 19 — Bilateral, Regional & Global Groupings → `GS-2/International_Relations/`
+
+| Sub | Keyword | File | PYQs | Status |
+|-----|---------|------|------|--------|
+| 19.1 | India-EU, FTAs, ASEAN, BIMSTEC, QUAD, G20, West Asia, India-USA, China/OBOR and global issues | `02_Bilateral_Regional_Global_Groupings.md` | 21 | 🟢 |
+
+**Topic 19 IR Groupings:** **1/1 file complete** 🟢
+
+### Topic 20 — Policies of Developed/Developing Countries & Indian Diaspora → `GS-2/International_Relations/`
+
+| Sub | Keyword | File | PYQs | Status |
+|-----|---------|------|------|--------|
+| 20.1 | External policies affecting India's interests, diaspora, West Asia, climate, SCO, UN/WHO and Afghanistan | `04_Diaspora_Foreign_Policies_Impact.md` | 12 | 🟢 |
+
+**Topic 20 Diaspora & External Policies:** **1/1 file complete** 🟢
+
+### Topic 21 — International Institutions, Agencies & Forums → `GS-2/International_Relations/`
+
+| Sub | Keyword | File | PYQs | Status |
+|-----|---------|------|------|--------|
+| 21.1 | World Bank, Arctic Council, WHO, NHRC, UNSC and ICJ | `03_International_Institutions_Agencies.md` | 6 | 🟢 |
+
+**Topic 21 International Organisations:** **1/1 file complete** 🟢
+
+### Topic 22 — Regional, National & International Current Affairs → `GS-2/International_Relations/`
+
+| Sub | Keyword | File | PYQs | Status |
+|-----|---------|------|------|--------|
+| 22.1 | G20, India world leadership, Russia-Ukraine, WHO-COVID, USA-Iran, Afghanistan withdrawal and OBOR | `05_Regional_National_International_Current_Affairs.md` | 8 | 🟢 |
+
+**Topic 22 IR Current Affairs:** **1/1 file complete** 🟢
+
 ---
 
 ## GS-III to GS-VI
@@ -228,7 +358,19 @@ See `00_SYLLABUS.md` for full topic list. Subtopic files added as built.
 ## Build Order (recommended)
 
 1. **GS-1 complete** — **68/68 subtopic files** 🟢
-2. **GS-II Polity & Constitution** — **10/10 complete** 🟢 · Next: GS-2 Topic 11 Governance (`GS-2/11_Governance_Policies/`)
+2. **GS-II Polity & Constitution** — **10/10 complete** 🟢
+3. **GS-II Topic 11 Governance** — **1/1 complete** 🟢
+4. **GS-II Topic 12 NGOs/SHGs** — **1/1 complete** 🟢
+5. **GS-II Topic 16 E-Governance/Accountability** — **1/1 complete** 🟢
+6. **GS-II Topic 17 Civil Services** — **1/1 complete** 🟢
+7. **GS-II Topic 13 Welfare Schemes** — **1/1 complete** 🟢
+8. **GS-II Topic 14 Social Sector** — **1/1 complete** 🟢
+9. **GS-II Topic 15 Poverty & Hunger** — **1/1 complete** 🟢
+10. **GS-II Topic 18 IR Neighbours** — **1/1 complete** 🟢
+11. **GS-II Topic 19 IR Groupings** — **1/1 complete** 🟢
+12. **GS-II Topic 20 Diaspora & External Policies** — **1/1 complete** 🟢
+13. **GS-II Topic 21 International Organisations** — **1/1 complete** 🟢
+14. **GS-II Topic 22 IR Current Affairs** — **1/1 complete** 🟢
 
 ---
 
