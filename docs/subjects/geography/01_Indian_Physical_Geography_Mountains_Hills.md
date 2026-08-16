@@ -69,7 +69,7 @@ SACRED: Tirupati = Tirumala/Mallamalla (E Ghats) NOT Shevaroy
 | **Gujarat = coast king** | Longest state coastline |
 
 ---
-![img_3.png](img_3.png)
+![img_5.png](img_5.png)
 ## 1.1 Physiographic Divisions of India
 
 India has **six** major relief units (geological age + structure + landforms).
