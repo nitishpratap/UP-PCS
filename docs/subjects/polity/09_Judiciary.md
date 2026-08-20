@@ -67,7 +67,7 @@ District = civil DJ + Sessions (same person)
 TRIBUNALS XIVA (42nd) — NOT Part XI
   323A Admin (Parliament only) → CAT 1 Nov 1985 Delhi | SAT on State request | JAT
   323B other (Parliament OR State): tax, labour, land, elections to legislature…
-  L. Chandra Kumar 1997: 226/227 over tribunals = basic structure (cannot oust HC)
+  Sampath 1987: CAT substitute (Tribunal→SC, skip HC) | L.Chandra Kumar 1997: supplement only (Tribunal→HC→SC); 226/227 = basic structure
 
 ADR / 39A: NALSA 1987 (in force 9 Nov 1995) | Lok Adalat Gujarat 1982, award=decree NO appeal
   PLA 2002: public utility, PRE-litigation, ₹1 cr, CAN decide merits | Gram Nyayalaya 2008 (2 Oct 2009; not bound by Evidence Act)
@@ -784,9 +784,10 @@ Power of courts to test **constitutionality** of legislative and executive actio
 - ***Kesavananda Bharati* (1973)** held that even **constitutional amendments** are subject to judicial review under the basic structure doctrine.
 - ***Minerva Mills* (1980)** held that judicial review is **itself part of the basic structure**, and struck down the 42nd Amendment's over-reaching **Art. 31C**.
 - ***I.R. Coelho* (2007)** held that laws placed in the **9th Schedule** after **24 April 1973** remain open to judicial review if they damage the basic structure.
-- ***S.P. Sampath Kumar* (1987)** had treated the CAT as an **effective substitute** for the High Court.
-- ***L. Chandra Kumar* (1997)** overruled that substitute theory, holding that **HC power under Arts. 226/227 over tribunals is part of the basic structure**.
-- After *L. Chandra Kumar*, a tribunal is treated only as a **court of first instance**, not a substitute for the High Court.
+- ***S.P. Sampath Kumar* (1987)** upheld the CAT and treated it as an **effective substitute** for the High Court — tribunal order could go **directly to the SC**, skipping the HC.
+- ***L. Chandra Kumar* (1997)** overruled that substitute theory.
+- The Court held that **HC power under Arts. 226/227 over tribunals is part of the basic structure** and cannot be excluded.
+- After *L. Chandra Kumar*, a tribunal is only a **court of first instance** that **supplements** (does not replace) the HC’s place in the hierarchy.
 
 > **Exam note:** 42nd clipped JR (**32A / 131A / 226A**); **43rd** restored. A tribunal clause that “excludes all courts except the SC” **cannot** oust the HC.
 
@@ -1036,7 +1037,34 @@ Why tribunals: specialised, faster, take load off HCs. They are **not** a parall
 | Text on courts | May exclude **all courts except the SC** | Same in the text |
 | After *L. Chandra Kumar* | Exclusion of **HC (226/227) is void**. Tribunal = **court of first instance** → HC **Division Bench** → SC | Same logic |
 
-**Case pair:** *Sampath Kumar* (1987) = CAT as **substitute** of the HC. *L. Chandra Kumar* (1997) = **supplement**, not substitute; JR of tribunals is **basic structure**. *Madras Bar Association* cases later insisted on judicial majority / independence of NCLT & other tribunals. **Tribunals Reforms Act, 2021** (4-year term etc.) — several clauses struck / read down; don’t treat the 2021 Act as the last word.
+**Three separate tribunal stories — do not merge them in revision.**
+
+| Track | Question | Cases / law |
+|-------|----------|-------------|
+| **A. Can the HC be skipped?** | Does the tribunal **replace** the HC in the hierarchy, or only sit **below** it? | *Sampath Kumar* → *L. Chandra Kumar* |
+| **B. Who sits on the tribunal?** | Must members be judges, and must **judicial members** form the majority? | *Madras Bar Association* I / II / III |
+| **C. How are members appointed?** | Can Parliament fix a **4-year term**, control search committees, etc.? | **Tribunals Reforms Act, 2021** — partly struck in MBA-III |
+
+**Track A — substitute vs supplement (appeal path, not vocabulary)**
+
+- **“Substitute”** (*S.P. Sampath Kumar*, **1987**): Parliament may set up the **CAT** as an **effective substitute** for the High Court in **service matters**.
+- Under that design, the statutory “exclude all courts except the SC” clause was read to mean: **Tribunal → Supreme Court (SLP)** — the **HC was bypassed**.
+- **“Supplement”** (*L. Chandra Kumar*, **1997**): the Court **overruled** the substitute theory.
+- A tribunal is only a **court of first instance**; it **supplements** the ordinary judiciary by taking specialised cases **at the bottom** of the ladder — it does **not** replace HC supervision.
+- **HC writ/supervisory jurisdiction (Arts. 226/227) over tribunals is part of the basic structure** and cannot be ousted by Part XIVA text or tribunal law.
+- **Current appeal ladder:** Tribunal order → challenge before **HC (Division Bench, 226/227)** → **SC** (SLP/appeal). The old **Tribunal-only-then-SC** shortcut is **dead after 1997**.
+
+**Track B — composition (*Madras Bar Association*)**
+
+- ***Madras Bar Association v. Union of India* (2014):** NCLT/NCLAT must have **adequate judicial representation**; technical/administrative members cannot dominate.
+- ***Madras Bar Association v. Union of India* (2020):** struck parts of the **Tribunal Reforms (Rationalisation and Conditions of Service) Ordinance / Act, 2020** on similar independence grounds.
+- ***Madras Bar Association v. Union of India* (2021):** reviewed the **Tribunals Reforms Act, 2021** — see Track C.
+
+**Track C — Tribunals Reforms Act, 2021 (statutory reforms, not the Sampath/Chandra Kumar pair)**
+
+- The Act tried to unify tribunal appointments, impose a **4-year term** (renewable), and reshape search-cum-selection committees.
+- In **MBA-III (2021)**, the SC **struck down / read down** several clauses (including the rigid **4-year tenure** and executive-heavy appointment design) as damaging **tribunal independence**.
+- **Exam lock:** constitutional position = *L. Chandra Kumar*; composition = *Madras Bar* line; **2021 Act is not the last word** — always pair the Act with **MBA-III**.
 
 ### CAT / SAT / JAT (Administrative Tribunals Act, **1985**)
 
