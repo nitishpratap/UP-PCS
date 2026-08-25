@@ -110,6 +110,18 @@ Company ends 1858 — first Viceroy = Canning
 
 > **Exam note:** The revolt did **not** begin at Delhi. The mass outbreak was at **Meerut on 10 May 1857**.
 
+### Causes
+
+The revolt grew out of political annexations, especially the **Doctrine of Lapse** and the **1856 annexation of Awadh**, alongside economic strain on peasants and artisans, social and religious fears around missionary activity and the greased cartridge, and military grievances among Bengal Army sepoys over pay, promotion and forced overseas service.
+
+### Course
+
+The spark came from **Mangal Pandey's** attack at **Barrackpore on 29 March 1857**, and the mass outbreak followed at **Meerut on 10 May 1857**; rebels seized **Delhi** within two days and proclaimed **Bahadur Shah Zafar** emperor, giving the rising a Mughal symbol. Through May–July 1857 the revolt spread to **Kanpur, Lucknow, Jhansi, Bareilly, Jagdishpur, Faizabad and Allahabad**, each rising under its own local leader, while the British organised suppression using loyal princes, the telegraph and the railways. Delhi fell back to British forces in **September 1857**, and the last major centres were cleared through **1858**.
+
+### Results
+
+The **Government of India Act, 1858** ended East India Company rule and transferred India to the Crown, with the **Queen's Proclamation** read at **Allahabad on 1 November 1858** and **Lord Canning** becoming the first Viceroy. The army was reorganised on a mixed-recruitment pattern, the Doctrine of Lapse was dropped as a routine annexation tool, and later nationalists came to treat 1857 as the beginning of India's freedom struggle.
+
 ---
 
 ## 5.2 Causes
@@ -142,14 +154,25 @@ Company ends 1858 — first Viceroy = Canning
 
 ---
 
-## 5.3 Beginning of Revolt
+## 5.3 Beginning of Revolt — Mangal Pandey and Meerut
 
-- On **29 March 1857**, sepoy **Mangal Pandey** of the **34th Native Infantry** attacked British officers at **Barrackpore**.
-- Pandey was hanged on **8 April 1857**. The 34th Native Infantry was later disbanded.
+**Causes — why it turned violent that week**
+
+- The long-building causes — annexations, high revenue demands, missionary fear, and sepoy grievances over pay and promotion — had already built up pressure across the Bengal Army belt.
+- The greased-cartridge rumour turned that pressure into action within weeks. Sepoys read it as a deliberate attack on their faith, not a technical detail.
+
+**Course — spark, outbreak, and first spread**
+
+- On **29 March 1857**, sepoy **Mangal Pandey** of the **34th Native Infantry** attacked British officers at **Barrackpore**. He was hanged on **8 April 1857** and the regiment was later disbanded. This was the **spark**, not the start of the revolt.
 - At **Meerut**, sepoys who refused the new cartridges were court-martialled and sentenced on **9 May 1857**.
-- On **10 May 1857** the Meerut sepoys mutinied, freed their comrades, killed officers, and marched towards Delhi. This is treated as the **start of the revolt**.
-- On **11–12 May 1857** the rebels seized **Delhi** and proclaimed **Bahadur Shah II (Zafar)** as emperor.
-- From May–June 1857 the revolt spread to **Kanpur, Lucknow, Jhansi, Bareilly, Allahabad, Faizabad** and parts of **Bihar**.
+- On **10 May 1857** the Meerut sepoys mutinied, freed their comrades, killed officers, and marched towards Delhi. This is treated as the **actual start of the revolt**.
+- On **11–12 May 1857** the rebels seized **Delhi** and proclaimed **Bahadur Shah II (Zafar)** as emperor, giving the rising a Mughal symbol.
+- From May–June 1857 the rising spread outward to **Kanpur, Lucknow, Jhansi, Bareilly, Allahabad, Faizabad** and parts of **Bihar**, each place rising under its own local leader.
+
+**Results — what this first month produced**
+
+- Delhi became the rebels' symbolic capital, though real fighting power stayed with regional leaders such as Bakht Khan, Nana Sahib and the Rani of Jhansi.
+- Within ten weeks of Meerut, a single sepoy spark had grown into a belt of linked risings across North and Central India, not one national command.
 
 | Date | Place | What happened |
 |------|--------|----------------|
@@ -202,6 +225,74 @@ D. Jhansi — 11 May 1857
 **Ans: D** — Jhansi rose in **June 1857**, not 11 May (Delhi week).
 
 </details>
+
+### Centre by centre — Causes, Course and Results
+
+Each centre had its own local grievance before 1857, its own course of fighting, and its own fall date. Learn each as one small story with Causes, Course and Results, not a bare name.
+
+**Delhi**
+
+**Causes:** Delhi still carried the last Mughal name, so rebels used the city to give the rising a national face and rally point.
+
+**Course:** Sepoys marching from Meerut seized the city on 11–12 May 1857; Zafar was proclaimed emperor while **Bakht Khan** organised the real defence and fighting through the summer of 1857.
+
+**Results:** British forces under **John Nicholson** stormed and recaptured Delhi in **September 1857**. Zafar was tried and exiled to **Rangoon**, ending even the symbolic Mughal presence.
+
+**Kanpur**
+
+**Causes:** The British had stopped **Nana Sahib's** pension after Baji Rao II's death, giving him a personal grievance on top of the general political anger felt across Awadh and the Bengal Army belt.
+
+**Course:** He took political control of Kanpur with **Tantia Tope** commanding the fighting; the **Bibighar** killings happened during his hold on the city.
+
+**Results:** British relief columns under **Havelock** and **Colin Campbell** recaptured Kanpur. Nana Sahib fled towards **Nepal**; Tantia Tope carried the fight on to Jhansi and Gwalior.
+
+**Lucknow**
+
+**Causes:** Awadh's annexation in **1856** had just deposed Nawab **Wajid Ali Shah**, leaving **Begum Hazrat Mahal** and the region's taluqdars with a fresh grievance.
+
+**Course:** She led the rising from **4 June 1857** and placed her son **Birjis Qadr** on the masnad. The British Residency was besieged for months, and **Henry Lawrence** died defending it.
+
+**Results:** **Colin Campbell** and **Outram** relieved and later recaptured Lucknow. Hazrat Mahal took shelter in **Nepal**.
+
+**Jhansi**
+
+**Causes:** Dalhousie's **Doctrine of Lapse** had refused to recognise **Rani Lakshmibai's** adopted son, **Damodar Rao**, and annexed the state.
+
+**Course:** She rose in **June 1857** and defended Jhansi against **Sir Hugh Rose** in 1858, then moved on with Tantia Tope to **Kalpi** and **Gwalior**.
+
+**Results:** She died fighting near Gwalior on **17/18 June 1858**.
+
+**Bareilly**
+
+**Causes:** Bareilly's Rohilla sepoys and townspeople carried the same military and religious grievances that were driving the revolt across the North-Western Provinces.
+
+**Course:** **Khan Bahadur Khan** led the rising here through May–June 1857 and ran local administration for months.
+
+**Results:** The British recaptured Bareilly in **1858**. Khan Bahadur Khan was later tried and hanged.
+
+**Jagdishpur / Arrah (Bihar)**
+
+**Causes:** **Kunwar Singh**, an aged zamindar of Jagdishpur, faced British pressure on his estate through revenue and legal disputes.
+
+**Course:** He led the Jagdishpur–Arrah rising from **July 1857**, fighting a mobile campaign across Bihar into 1858.
+
+**Results:** Wounded in later fighting, he died on **26 April 1858**, soon after a final victory near his home.
+
+**Faizabad**
+
+**Causes:** Faizabad sat inside the Awadh–NWP belt, where annexation and taluqdar grievances ran deepest, and it also held a strong body of religious and military opinion against the British.
+
+**Course:** **Maulvi Ahmadullah Shah** led the rising at Faizabad from 1857 and then fought on in the Lucknow region alongside Begum Hazrat Mahal's forces.
+
+**Results:** The Faizabad rising was suppressed along with the wider Awadh revolt by 1858; Maulvi Ahmadullah Shah was later killed through betrayal while still resisting near Lucknow.
+
+**Allahabad**
+
+**Causes:** Allahabad, like Faizabad, sat in the Awadh–NWP belt and shared its annexation and taluqdar grievances, and its garrison carried the same sepoy discontent as the rest of the Bengal Army.
+
+**Course:** **Maulvi Liaquat Ali** led the rising at Allahabad from June 1857, taking local control of the city and region for a period before the British counter-attack.
+
+**Results:** Colonel **Neill's** repression at Allahabad was especially harsh, and the rising was suppressed by 1858; the **Queen's Proclamation** was later read at Allahabad on **1 November 1858**, marking the city as the site where Crown rule was formally announced.
 
 ---
 
@@ -264,7 +355,7 @@ Centre, leader and start-date are in the table above. These are the other places
 
 ---
 
-## 5.7 Consequences
+## 5.7 Results (Consequences of the Revolt)
 
 - The **Government of India Act, 1858** ended East India Company rule. India was placed under the **British Crown**.
 - A **Secretary of State for India** was created in London. The Governor-General was also given the title **Viceroy**.
@@ -276,7 +367,7 @@ Centre, leader and start-date are in the table above. These are the other places
 - The Mughal court at Delhi was finished. Later colonial writing often blamed Muslims specially for the revolt.
 - Later nationalists treated 1857 as the beginning of the freedom struggle.
 
-**Why the revolt failed**
+### Why the Revolt Failed
 
 - There was no all-India plan and no modern central leadership.
 - Weapons and organisation were weaker than the Company’s.
@@ -320,10 +411,12 @@ Centre, leader and start-date are in the table above. These are the other places
 ## 5.8 Rani Lakshmibai
 
 - She was the Rani of **Jhansi**. Her husband was **Gangadhar Rao**.
-- They adopted **Damodar Rao**. **Dalhousie** refused to recognise him and annexed Jhansi under the **Doctrine of Lapse**.
-- Statement 2 of **2024 Q148** is therefore **false**: Dalhousie did **not** accept her adopted son as heir.
-- In 1858 she fought the British force under **Sir Hugh Rose**.
-- After Jhansi fell she joined Tantia Tope, fought at Kalpi and Gwalior, and died on **17/18 June 1858** near **Gwalior**.
+
+**Causes:** They adopted **Damodar Rao**, but **Dalhousie** refused to recognise him as heir and annexed Jhansi under the **Doctrine of Lapse**. Statement 2 of **2024 Q148** is therefore **false**: Dalhousie did **not** accept her adopted son.
+
+**Course:** She refused to surrender Jhansi and defended the fort against **Sir Hugh Rose's** siege in 1858. When the city fell, she escaped with Tantia Tope and carried the fight on to **Kalpi** and then **Gwalior**, where the two briefly seized the fort from the Scindia.
+
+**Results:** She died fighting near Gwalior on **17/18 June 1858**, becoming the most celebrated martyr-figure of the revolt.
 
 > **Exam note:** The **Rani Jhansi Regiment** of the INA was raised by **Subhas Chandra Bose**. It is not an 1857 fact.
 
@@ -332,10 +425,12 @@ Centre, leader and start-date are in the table above. These are the other places
 ## 5.9 Nana Sahib
 
 - He was the adopted son of the last Peshwa, **Baji Rao II**, and lived at **Bithoor**.
-- The British stopped his pension. This is a standard political grievance of 1857.
-- He became the political leader of the revolt at **Kanpur**.
-- **Tantia Tope** was his military commander. **Azimullah Khan** was his adviser.
-- After the British recaptured Kanpur he fled towards **Nepal**. His later end is not clearly known.
+
+**Causes:** The British stopped his pension after Baji Rao II's death, refusing to treat him as heir to the Peshwa's title or allowance — a standard political grievance of 1857 that gave him a personal stake in the rising.
+
+**Course:** He became the political leader of the revolt at **Kanpur**, with **Tantia Tope** as his military commander and **Azimullah Khan** as his adviser; the **Bibighar** killings took place during his hold on the city.
+
+**Results:** After British forces under Havelock and Colin Campbell recaptured Kanpur, he fled towards **Nepal**; his later end is not clearly known.
 
 > **Exam note:** Nana Sahib is **Kanpur**, not Bareilly.
 
@@ -344,9 +439,12 @@ Centre, leader and start-date are in the table above. These are the other places
 ## 5.10 Tantia Tope
 
 - He was the main general of **Nana Sahib** at Kanpur.
-- After Kanpur he fought with **Rani Lakshmibai** at **Kalpi** and **Gwalior**.
-- He then carried on a guerrilla war.
-- He was captured after betrayal and hanged at **Shivpuri** on **18 April 1859**.
+
+**Causes:** He shared Nana Sahib's grievance against the British and became his most capable field commander once the Kanpur rising began.
+
+**Course:** He directed the fighting at Kanpur, then after its fall joined **Rani Lakshmibai** at **Kalpi** and **Gwalior**, and afterward carried on a mobile guerrilla war across Central India through 1858–59.
+
+**Results:** He was captured after betrayal and hanged at **Shivpuri** on **18 April 1859**, one of the last major rebel leaders to fall.
 
 > **Exam note:** Tantia Tope is a general, not the Nawab of Awadh and not the leader of Bareilly.
 
@@ -355,9 +453,12 @@ Centre, leader and start-date are in the table above. These are the other places
 ## 5.11 Kunwar Singh
 
 - He was an aged zamindar of **Jagdishpur** in **Bihar** (Shahabad / Arrah region).
-- He led the 1857 rising there against the British.
-- He was wounded in later fighting and died on **26 April 1858**.
-- **2024 Q148** statement 1 is **true**: he did lead the rebellion from Jagdishpur.
+
+**Causes:** He faced mounting British pressure on his estate through revenue demands and legal disputes, which turned his personal grievance into rebellion once the wider revolt broke out.
+
+**Course:** He led the 1857 rising from Jagdishpur, fighting a mobile campaign around Arrah and across Bihar into 1858 despite his advanced age. **2024 Q148** statement 1 is **true**: he did lead the rebellion from Jagdishpur.
+
+**Results:** He was wounded in later fighting and died on **26 April 1858**, shortly after a final victory near his own home.
 
 > **Exam note:** Kunwar Singh belongs to **Bihar**, not to Lucknow, Bareilly or Jhansi.
 
@@ -390,9 +491,12 @@ D. Both 1 and 2
 ## 5.12 Begum Hazrat Mahal
 
 - She was the wife of Nawab **Wajid Ali Shah** of Awadh, who had been deposed in 1856.
-- During 1857 she led the revolt at **Lucknow** and in Awadh.
-- Her son **Birjis Qadr** was placed on the masnad at Lucknow.
-- After Lucknow fell she took shelter in **Nepal**.
+
+**Causes:** Her husband's deposition and Awadh's 1856 annexation had already angered the region's taluqdars and sepoys, giving her a direct grievance once the 1857 rising began.
+
+**Course:** She led the revolt at **Lucknow** and across Awadh from June 1857, placed her son **Birjis Qadr** on the masnad, and held the British Residency under siege for months before Colin Campbell and Outram relieved and recaptured the city.
+
+**Results:** After Lucknow fell she took shelter in **Nepal**, ending her direct role in the revolt.
 
 > **Exam note:** Begum Hazrat Mahal is **Lucknow / Awadh**, not Bareilly.
 
@@ -401,10 +505,12 @@ D. Both 1 and 2
 ## 5.13 Mangal Pandey
 
 - He was a sepoy of the **34th Native Infantry** stationed at **Barrackpore**.
-- On **29 March 1857** he attacked British officers. This is the first famous spark of 1857.
-- He was hanged on **8 April 1857**.
-- The 34th Native Infantry was later disbanded.
-- His act is **not** the same as the Meerut rising of **10 May 1857**.
+
+**Causes:** He, like other high-caste sepoys of the Bengal Army, believed the new Enfield cartridge was greased with cow and pig fat, reading it as a deliberate attack on his religion on top of the long-building political and military grievances of 1857.
+
+**Course:** On **29 March 1857** he attacked British officers at Barrackpore in protest, calling on fellow sepoys to join him. He was overpowered, court-martialled, and hanged on **8 April 1857**; the 34th Native Infantry was disbanded soon after.
+
+**Results:** His act became the first famous spark of 1857, though it did not itself trigger a mass rising — that came five weeks later at **Meerut on 10 May 1857**, a separate and larger event.
 
 > **Exam note:** Mangal Pandey = **Barrackpore, 29 March**. Meerut = **10 May**.
 

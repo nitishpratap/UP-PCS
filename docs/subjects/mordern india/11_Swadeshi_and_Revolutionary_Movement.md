@@ -119,16 +119,26 @@ KANPUR CONSPIRACY 1924: M.A. Ansari NOT associated     ← 2021 Q86
 **Effective:** **16 October 1905**  
 **Annulled:** **1911** (Delhi Durbar)
 
-- Curzon said Bengal was too large to govern.
-- Nationalists read **divide and rule**.
-- A Muslim-majority east and a Hindu-majority west would weaken Calcutta politics.
-- A new province **East Bengal and Assam** was created with capital at **Dacca (Dhaka)**. Western Bengal stayed linked with Bihar and Orissa under Calcutta.
+**Causes**
+
+- Curzon's official reason was that Bengal, with roughly 78 million people, was too large for one administration to govern well.
+- Nationalists read it as **divide and rule**: a Muslim-majority east split from a Hindu-majority west would weaken the united Bengali politics that Calcutta had built.
+- Calcutta was also the base of India's most organised anti-Raj press and public opinion, which the split aimed to fragment.
+
+**Course**
+
+- Partition became effective on **16 October 1905**. A new province, **East Bengal and Assam**, was created with capital at **Dacca (Dhaka)**; western Bengal stayed linked with Bihar and Orissa under Calcutta.
+- **16 October 1905** was observed as a day of mourning. People tied **Rakhi** across communities as a sign of unity, and Tagore's ***Amar Sonar Bangla*** became the protest anthem.
+- Anti-Partition protest fused at once with **Swadeshi and boycott** — bonfires of foreign cloth, volunteer samitis and the Boycott Resolution all grew out of this anger (full card in 11.3).
 - **2019 Q95:** both statements are true — Curzon rearranged provincial boundaries, **and** East Bengal & Assam was constituted.
-- **16 October 1905** was a day of mourning. People tied **Rakhi** across communities. Tagore’s ***Amar Sonar Bangla*** became a protest song.
-- Anti-Partition protest fused at once with **Swadeshi and boycott**. That is why 1905 opens both cards.
-- Partition is Curzon’s stock matching act (**2025 Q40**).
-- Annulment in **1911** did not erase communal politics. The capital moved to **Delhi** in the same Durbar package.
-- **Lucknow Pact is 1916**, not 1911 (**2025 Q6**).
+- Partition is Curzon's stock matching act (**2025 Q40**).
+
+**Results**
+
+- Partition failed to kill Bengali political unity. It instead produced the largest mass protest India had yet seen, feeding both open Swadeshi politics and the underground revolutionary stream (11.5 onward).
+- Facing sustained agitation, the British **annulled the Partition in 1911** at the Delhi Durbar. The same package **moved the imperial capital from Calcutta to Delhi**.
+- Annulment did not erase the communal politics that Partition had stirred; the Muslim League's separate political identity had already begun to harden by 1906.
+- **Lucknow Pact is 1916**, not 1911 (**2025 Q6**) — do not merge it with the annulment package.
 
 > **Exam note:** Partition **1905** / annulment **1911**. New province = **East Bengal and Assam**.
 
@@ -162,22 +172,29 @@ D. Neither 1 nor 2
 **Peak:** 1905–08  
 **Congress stamp:** Calcutta session **1906** (Dadabhai) — goal declared as **Swaraj**
 
+**Causes**
+
+- The Partition of Bengal (11.2) was the immediate trigger, but Swadeshi also drew on decades of economic nationalism — Dadabhai Naoroji's drain-of-wealth argument and long resentment at the collapse of Indian handicrafts under cheap British imports.
+- Extremist leaders argued that petitions and prayers to a colonial government had achieved little, and that self-reliant, assertive action was the only real answer.
+
+**Course**
+
 - Swadeshi means **use Indian goods and institutions**. Boycott means **reject British goods** and, in the Extremist programme, schools, courts, titles and jobs.
 - Methods included bonfires of Manchester cloth.
-- Indians started mills, soap and matches. **P.C. Ray’s Bengal Chemical** is the enterprise tag.
+- Indians started mills, soap and matches. **P.C. Ray's Bengal Chemical** is the enterprise tag.
 - Volunteer **samitis** organised the districts.
 - The press included *Bande Mataram*, *Yugantar* and *Kesari*.
-- The **National Council of Education** was set up in **August 1906**.
-- **Bengal National College** had **Aurobindo** as principal.
-- BHU is a later, separate university stream.
-- **Ashwini Kumar Dutt’s Swadesh Bandhab Samiti (Barisal)** is the classic district volunteer body.
+- The **National Council of Education** was set up in **August 1906**. **Bengal National College** had **Aurobindo** as principal. BHU is a later, separate university stream.
+- **Ashwini Kumar Dutt's Swadesh Bandhab Samiti (Barisal)** is the classic district volunteer body.
 - **V.O. Chidambaram Pillai** founded the **Swadeshi Steam Navigation Company** at Tuticorin against British shipping.
-- Bengal was the epicentre.
-- Maharashtra followed under Tilak.
-- Punjab followed under Lajpat Rai.
-- Madras and Tuticorin followed under VOC Pillai.
-- Moderates wanted boycott of **goods** and British public opinion. Extremists wanted **passive resistance** and Swaraj language. That fight ends at **Surat 1907**.
-- After 1908 the open movement is crushed; many youth go into **Anushilan / Jugantar**.
+- Bengal was the epicentre. Maharashtra followed under Tilak, Punjab under Lajpat Rai, and Madras/Tuticorin under VOC Pillai.
+- Moderates wanted boycott of **goods** and pressure on British public opinion. Extremists wanted **passive resistance** and Swaraj language. That fight split Congress at **Surat 1907**.
+
+**Results**
+
+- Government repression crushed the **open** movement after **1908**; much of its youth moved into the underground **Anushilan / Jugantar** stream instead of staying with Congress platforms.
+- The sustained pressure of Swadeshi and boycott is part of why the **Partition of Bengal was annulled in 1911** — the same political result taught fully under 11.2.
+- The Moderate–Extremist split hardened into the **Surat Split of 1907**, weakening Congress unity for the next several years.
 
 ### Bengal Swadeshi leaders map
 
@@ -300,15 +317,23 @@ D. Yugantar
 
 ## 11.7 Jugantar / Yugantar
 
-- **Jugantar (Yugantar)** is the Bengal action circle around **Barindra Kumar Ghosh**.
-- It is also the weekly ***Yugantar*** and the **Manicktolla garden** bomb factory in Calcutta.
-- On **30 April 1908** at **Muzaffarpur**, **Khudiram Bose** and **Prafulla Chaki** threw a bomb at **Kingsford’s** carriage.
-- Two British women were killed.
-- Chaki shot himself. Khudiram was hanged.
-- The **Alipore Conspiracy Case (1908–09)** tried Aurobindo, Barindra and others.
-- Aurobindo was acquitted. **C.R. Das** defended him.
-- Aurobindo then left politics for Pondicherry yoga.
-- Jugantar men later fed into wartime plots and the 1930 Chittagong generation. For Prelims, keep Jugantar with **Muzaffarpur + Alipore + Yugantar paper**.
+- **Jugantar (Yugantar)** is the Bengal action circle around **Barindra Kumar Ghosh**. It is also the weekly ***Yugantar*** newspaper and the **Manicktolla garden** bomb factory in Calcutta.
+
+**Muzaffarpur bomb and Alipore Case — Cause**
+
+- Jugantar wanted to answer the repression of the Swadeshi movement with direct armed action, and **Kingsford**, an unpopular judge who had given harsh sentences to Swadeshi protesters, became their chosen target.
+
+**Course**
+
+- On **30 April 1908** at **Muzaffarpur**, **Khudiram Bose** and **Prafulla Chaki** threw a bomb at what they believed was Kingsford's carriage; two British women were killed instead.
+- Chaki shot himself rather than be captured; Khudiram was tried and hanged.
+- The attack led police to the Manicktolla garden, and the **Alipore Conspiracy Case (1908–09)** put Aurobindo, Barindra and others on trial for the wider bomb conspiracy.
+
+**Results**
+
+- Aurobindo was acquitted, defended by **C.R. Das**; he then left politics altogether for Pondicherry yoga.
+- Barindra Ghosh and other convicted members were transported to the Andamans, breaking up the Jugantar network for some years.
+- Surviving Jugantar men later fed into wartime plots and, through personal links, into the 1930 Chittagong generation. For Prelims, keep Jugantar tied to **Muzaffarpur + Alipore + Yugantar paper**.
 
 > **Exam note:** Khudiram–Chaki = **Muzaffarpur 1908**. Hardinge 1912 = **Anushilan**, not Jugantar, in the 2023 key.
 
@@ -373,12 +398,21 @@ D. Pulin Bihari
 **Leaders:** **Sohan Singh Bhakna** (president), **Lala Hardayal**  
 **Paper:** ***Ghadar***
 
-- Diaspora Sikhs, Hindus and Muslims on the Pacific coast formed a party to **overthrow British rule by armed revolt**, especially if war came.
-- **Komagata Maru (1914)** was a Japanese ship of Indian migrants.
-- Canada turned it back. Shooting followed at Budge Budge near Calcutta.
-- Ghadar used it as proof of a racial empire.
-- In **1914–15** Ghadarites returned to Punjab to spark mutiny. The rising failed (February 1915). Many were hanged or jailed in the **Lahore Conspiracy** trials.
-- The Berlin Committee of the same wartime years is a related but separate story with its own card below. **2022 Q38** places Ghadar **before** Berlin.
+**Causes**
+
+- Indian migrant labourers on the Pacific coast faced racial discrimination and exclusion laws in Canada and the US, convincing them that Indians would never get fair treatment while British rule continued at home.
+- Revolutionary exiles such as **Lala Hardayal** carried the India House message of armed struggle into the North American diaspora.
+
+**Course**
+
+- Diaspora Sikhs, Hindus and Muslims on the Pacific coast formed a party in **1913** to **overthrow British rule by armed revolt**, especially once a war gave them the opportunity.
+- The **Komagata Maru (1914)**, a ship carrying Indian migrants, was turned back by Canada; shooting followed at Budge Budge near Calcutta when it returned. Ghadar used the episode as proof of a racial empire.
+- When the First World War broke out, Ghadarites returned to Punjab in **1914–15** hoping to spark a mutiny among Indian troops.
+
+**Results**
+
+- The planned rising failed and collapsed in **February 1915**. Many Ghadarites were hanged or jailed in the **Lahore Conspiracy** trials that followed.
+- Surviving members and sympathisers later fed into the wartime **Berlin Committee** network — a related but separate story (11.11). **2022 Q38** places Ghadar **before** Berlin.
 
 > **Exam note:** Ghadar = **1913 San Francisco**. Berlin Committee = **1915**. Order in 2022: Ghadar → Berlin → Assembly 1929 → Chittagong 1930.
 
@@ -447,17 +481,24 @@ D. III, I, II and IV
 **Turn:** HRA renamed; **socialist** goal added  
 **Leaders:** **Chandrashekhar Azad**, **Bhagat Singh**, **Sukhdev**, **Rajguru**, **Bhagwati Charan Vohra**
 
-- **Naujawan Bharat Sabha** was founded in **1926** at **Lahore**.
-- It was the open youth front.
-- **Bhagat Singh**, **Yashpal** and **Chhabil Das** were early members.
-- **Ambika Chakravarti** of Chittagong was **not** (**2021 Q108**).
-- **Lala Lajpat Rai** died on **17 November 1928** after the Simon Commission lathi-charge.
-- HSRA killed ASP **John Saunders** at Lahore on **17 December 1928** in revenge. They had aimed at Scott.
-- On **8 April 1929**, **Bhagat Singh** and **Batukeshwar Dutt** threw bombs in the **Central Assembly** in Delhi.
-- They shouted slogans and **courted arrest**.
-- The bombs were to **make the deaf hear**, not to massacre.
-- In the **Lahore Conspiracy Case**, Bhagat Singh, Rajguru and Sukhdev were hanged on **23 March 1931** at Lahore.
-- Azad died in a gunfight at **Alfred Park, Allahabad, on 27 February 1931**.
+- **Naujawan Bharat Sabha** was founded in **1926** at **Lahore** as the open youth front. **Bhagat Singh**, **Yashpal** and **Chhabil Das** were early members; **Ambika Chakravarti** of Chittagong was **not** (**2021 Q108**).
+
+**Saunders killing and the Central Assembly Bomb — Cause**
+
+- **Lala Lajpat Rai** died on **17 November 1928** after police lathi-charged the Simon Commission protest at Lahore, giving HSRA a martyr to avenge.
+- By 1929 HSRA wanted a dramatic act inside the seat of government itself, to make the demand for independence impossible to ignore.
+
+**Course**
+
+- HSRA killed ASP **John Saunders** at Lahore on **17 December 1928** in revenge for Lajpat Rai's death; they had actually aimed at the officer Scott.
+- On **8 April 1929**, **Bhagat Singh** and **Batukeshwar Dutt** threw bombs and pamphlets in the **Central Assembly** in Delhi, then shouted slogans and deliberately **courted arrest** instead of fleeing.
+- The bombs were meant to **make the deaf hear**, not to kill members — a calculated act of propaganda, not a massacre.
+
+**Results**
+
+- Bhagat Singh, Dutt and other members stood trial; in the separate **Lahore Conspiracy Case**, Bhagat Singh, Rajguru and Sukhdev were hanged on **23 March 1931** at Lahore.
+- The trial and executions made Bhagat Singh a mass hero and hardened youth sympathy for the revolutionary line, even as HSRA itself was broken as an organisation.
+- **Azad** kept the underground alive until he died in a gunfight at **Alfred Park, Allahabad, on 27 February 1931**.
 
 > **Exam note:** Assembly bomb **1929** = HSRA. Saunders **1928** = HSRA. Kakori **1925** = HRA.
 
@@ -489,18 +530,22 @@ D. Ambika Chakravarti
 **Organisation:** **HRA** (not HSRA)  
 **Target:** government **treasury bags** on the No. 8 Down train
 
-- HRA needed money for arms.
-- They pulled the chain, overpowered the guard, and seized cash.
-- A passenger (**Ahmad Ali**) was killed. The case was tried as conspiracy, not petty theft.
+**Cause**
+
+- HRA needed money to buy arms for an eventual armed rising, and government treasury bags moving by train were an easy, symbolic target that struck at the state's own money.
+
+**Course**
+
+- The group pulled the train's chain, overpowered the guard, and seized the cash bags. A passenger, **Ahmad Ali**, was killed in the confusion.
+- The British treated it as a full conspiracy case, not petty theft, and arrested HRA members across UP.
 - Participants included **Ram Prasad Bismil**, **Ashfaqulla Khan**, **Rajendra Lahiri**, **Chandrashekhar Azad** and **Manmath Nath Gupta**.
-- **Bismil** was born on **11 June 1897** at **Shahjahanpur**.
-- He was hanged on **19 December 1927** at **Gorakhpur Jail**.
-- He is remembered with *Sarfaroshi ki Tamanna*.
-- **Ashfaqulla Khan** was hanged on **19 December 1927** at **Faizabad Jail**.
-- He and Bismil are the Hindu–Muslim revolutionary pair.
-- **Rajendra Lahiri** was hanged on **17 December 1927** at **Gonda**.
-- **Thakur Roshan Singh** was hanged on **19 December 1927** at **Naini (Allahabad)**.
-- **Azad escaped** the hangings, rebuilt HSRA, and died at **Alfred Park, Allahabad, on 27 February 1931**.
+
+**Result**
+
+- **Bismil**, born on **11 June 1897** at **Shahjahanpur**, was hanged on **19 December 1927** at **Gorakhpur Jail**; he is remembered for *Sarfaroshi ki Tamanna*.
+- **Ashfaqulla Khan** was hanged the same day at **Faizabad Jail** — he and Bismil are remembered as the Hindu–Muslim revolutionary pair.
+- **Rajendra Lahiri** was hanged on **17 December 1927** at **Gonda**; **Thakur Roshan Singh** was hanged on **19 December 1927** at **Naini (Allahabad)**.
+- **Azad escaped** the hangings, rebuilt the underground into HSRA, and died at **Alfred Park, Allahabad, on 27 February 1931**.
 
 > **Exam note:** Kakori = **1925 HRA**. Birth **Shahjahanpur** ≠ hanging **Gorakhpur**. Not Surya Sen. Not HSRA by name.
 
@@ -513,17 +558,24 @@ D. Ambika Chakravarti
 **Leader:** **Surya Sen (Master-da)**  
 **Group name used:** Indian Republican Army, Chittagong
 
-- Revolutionaries seized the **police and Auxiliary Force armouries**.
-- They cut communications and tried to hold the town. They could not get the ammunition dump.
-- After fighting on **Jalalabad hill**, survivors went underground.
-- **Surya Sen** was captured in **1933** and hanged in **1934**.
-- **Pritilata Waddedar** led a raid on the Pahartali European Club in **1932** and died.
-- **Kalpana Datta (Joshi)** was captured.
-- **Ganesh Ghosh**, **Ananta Singh** and **Lokenath Bal** are the male lieutenant tags.
-- **Ambika Chakravarti** belongs to this Chittagong circle. That is why he is the odd man out in the 1926 Naujawan Sabha question.
-- **2022 Q38:** Chittagong is **last** among Ghadar, Berlin, Assembly bomb, and Chittagong.
+**Cause**
 
-> **Exam note:** Chittagong = **18 April 1930 + Surya Sen**. Not Kakori. Not Bhagat Singh’s Assembly action.
+- Surya Sen's group wanted a dramatic armed strike, timed with the launch of Gandhi's Civil Disobedience Movement, to show that revolutionary and mass politics could act together against the Raj.
+- Seizing government arms would let them equip a wider rising if the town could be held even briefly.
+
+**Course**
+
+- Revolutionaries seized the **police and Auxiliary Force armouries** on **18 April 1930**, cut communications, and tried to hold the town, though they could not reach the ammunition dump.
+- After fighting British forces on **Jalalabad hill**, the surviving raiders scattered underground.
+- **Pritilata Waddedar** later led a raid on the Pahartali European Club in **1932** and died in the action; **Kalpana Datta (Joshi)** was captured. **Ganesh Ghosh**, **Ananta Singh** and **Lokenath Bal** are the male lieutenant tags.
+
+**Result**
+
+- **Surya Sen** was captured in **1933** and hanged in **1934**, ending the Chittagong network as an organised force.
+- **Ambika Chakravarti** belongs to this Chittagong circle — the reason he is the odd man out in the 1926 Naujawan Sabha question.
+- **2022 Q38:** Chittagong is **last** among Ghadar, Berlin, Assembly bomb, and Chittagong in chronological order.
+
+> **Exam note:** Chittagong = **18 April 1930 + Surya Sen**. Not Kakori. Not Bhagat Singh's Assembly action.
 
 ---
 

@@ -250,14 +250,20 @@ D. 4, 2, 3, 1
 **Who:** Sir **Stafford Cripps** (Labour, War Cabinet)  
 **When:** **March 1942** (after Japan’s advance)
 
-- The offer was **Dominion Status after the war**.
-- There would be a **Constituent Assembly**.
-- Any province could **opt out** of the Union.
-- Immediate control of defence stayed with the British.
-- Gandhi’s tag is **“a post-dated cheque on a crashing bank.”**
-- **Congress rejected** it. There was no immediate national government, and opt-out threatened unity.
-- **League rejected** it. There was no express Pakistan.
-- Failure of Cripps is the climate of **Quit India**.
+**Cause**
+
+- Japan's rapid advance through South-East Asia in early 1942 threatened India directly, and Britain's wartime allies, especially the US, pressed London to win genuine Indian support for the war effort.
+
+**Course**
+
+- Sir **Stafford Cripps** brought an offer in **March 1942**: **Dominion Status after the war**, a **Constituent Assembly**, and the right of any province to **opt out** of the Union. Immediate control of defence stayed with the British for the duration of the war.
+- Gandhi dismissed the offer as **"a post-dated cheque on a crashing bank."**
+
+**Result**
+
+- **Congress rejected** it: there was no immediate national government, and the opt-out clause threatened Indian unity.
+- The **League rejected** it too, since there was no express commitment to Pakistan.
+- The failure of Cripps became the direct climate for **Quit India** later that year.
 
 > **Exam note:** Cripps = **1942**, not 1946. 1946 = Cabinet Mission.
 
@@ -269,16 +275,22 @@ D. 4, 2, 3, 1
 **Slogan:** **Do or Die**  
 **Resolution:** Wardha in July, then Bombay AICC on **8 August 1942**
 
-- All top leaders were arrested on **8–9 August**. The movement went **leaderless and underground**.
-- **Aruna Asaf Ali** hoisted the flag at Gowalia Tank.
-- **Usha Mehta** ran **Congress Radio** from Bombay.
-- **Matangini Hazra** of Tamluk was 73. She was shot with the flag.
-- **Kanaklata Barua** fell at Gohpur in Assam.
-- **2023 Q48:** **Shanti Ghosh** was **not** a Quit India woman.
-- She belongs to the **1931** Bengal revolutionary shooting with Suniti Chaudhuri, not 1942.
-- Parallel governments rose at **Ballia** under **Chittu Pandey** in UP.
-- **Tamluk** in Midnapore, **Satara Prati Sarkar** under **Nana Patil**, and Talcher are the other stock names.
-- Brutal repression. The movement did not immediately throw the British out; it made a negotiated exit after the war unavoidable.
+**Cause**
+
+- The failure of the Cripps Mission convinced Gandhi and Congress that Britain would offer no genuine transfer of power short of a final push, and Congress resolved to demand immediate British withdrawal.
+
+**Course**
+
+- The Congress Working Committee passed the "Quit India" resolution at Wardha in July, adopted by the AICC at Bombay on **8 August 1942**, with Gandhi's call of **"Do or Die."**
+- All top leaders were arrested on **8–9 August**, so the movement ran **leaderless and underground**.
+- **Aruna Asaf Ali** hoisted the flag at Gowalia Tank; **Usha Mehta** ran **Congress Radio** from Bombay; **Matangini Hazra**, 73, was shot at Tamluk while carrying the flag; **Kanaklata Barua** fell at Gohpur in Assam.
+- Parallel governments rose at **Ballia** under **Chittu Pandey** in UP, at **Tamluk** in Midnapore, and as the **Satara Prati Sarkar** under **Nana Patil**; Talcher is another stock name.
+- **2023 Q48:** **Shanti Ghosh** was **not** a Quit India woman — she belongs to the **1931** Bengal revolutionary shooting with Suniti Chaudhuri, not 1942.
+
+**Result**
+
+- Brutal repression crushed the movement's open, organised phase within months, and it did not immediately throw the British out.
+- It did convince British opinion that ruling India by force indefinitely was unsustainable, making a negotiated post-war exit unavoidable.
 
 > **Exam note:** QI women = Aruna, Matangini, Kanaklata. **Shanti Ghosh ≠ QI**.
 
@@ -305,19 +317,22 @@ D. Shanti Ghosh
 
 ## 14.9 Azad Hind Fauj and Azad Hind Government
 
-- The **first INA** was raised by **Mohan Singh** in **1942** with Japanese help. A later crisis followed.
-- **Rash Behari Bose** held the Indian Independence League.
-- The **second INA** under Subhas Bose dates from **1943** at Singapore.
+**Cause**
 
-- The **Provisional Government of Azad Hind** was proclaimed on **21 October 1943** at Singapore.
-- **Subhas Bose** was Head of State, Prime Minister and War Minister.
-- Axis states recognised it.
-- Andaman and Nicobar were symbolically handed over. Bose named them **Shaheed** and **Swaraj** islands.
-- The **Rani Jhansi Regiment** was the women’s regiment.
-- Its captain was **Lakshmi Swaminathan (Sehgal)**. That is the **2023 Q45** answer.
-- The INA fought in the Imphal–Kohima campaigns of **1944**.
-- It collapsed after Japan’s defeat.
-- Bose died on **18 August 1945** in the Taihoku air-crash account.
+- Indian prisoners of war captured by Japan in South-East Asia, together with émigré nationalists such as **Rash Behari Bose**, wanted an armed Indian force to fight alongside Japan and free India by force rather than by negotiation with Britain.
+
+**Course**
+
+- The **first INA** was raised by **Mohan Singh** in **1942** with Japanese help, but it soon ran into a leadership crisis and was disbanded.
+- **Subhas Chandra Bose** arrived by submarine from Germany in **1943**, took over the Indian Independence League from Rash Behari Bose, and rebuilt the **second INA** at Singapore.
+- The **Provisional Government of Azad Hind** was proclaimed on **21 October 1943** at Singapore, with Bose as Head of State, Prime Minister and War Minister; Axis states recognised it, and captured Andaman and Nicobar islands were symbolically handed over and renamed **Shaheed** and **Swaraj**.
+- The **Rani Jhansi Regiment**, the women's wing, was led by **Lakshmi Swaminathan (Sehgal)** — the **2023 Q45** answer.
+- The INA fought alongside Japan in the **Imphal–Kohima campaigns of 1944**.
+
+**Result**
+
+- The INA collapsed once Japan was defeated, and its officers were later tried at the Red Fort (14.10).
+- Bose died on **18 August 1945** in the Taihoku air-crash account, but the INA's stand and the trials that followed did lasting damage to British confidence in the loyalty of Indian troops.
 
 > **Exam note:** Azad Hind Government = **21 Oct 1943 Singapore**. Rani Jhansi = INA women, **not** 1857.
 
@@ -420,12 +435,20 @@ D. V. P. Menon
 **Plan announced:** **June 1945**  
 **Simla Conference:** **June–July 1945**
 
-- Reconstruct the **Viceroy’s Executive Council**.
-- It would be all-Indian except the Viceroy and the Commander-in-Chief.
-- **Caste-Hindu and Muslim** seats would be equal.
-- League and Congress would nominate.
-- **Simla** failed because Jinnah demanded that the League alone nominate **all Muslims** (no Congress Muslim). Congress refused.
-- Place **after Cripps 1942** and **before Cabinet Mission 1946** (**2025 Q41**).
+**Cause**
+
+- With the war in Europe over and Japan's defeat approaching, Wavell wanted to restart political talks and give India a genuinely Indian executive before deciding its post-war constitutional future.
+
+**Course**
+
+- The **Wavell Plan (June 1945)** proposed reconstructing the **Viceroy's Executive Council** as all-Indian except the Viceroy and Commander-in-Chief, with **caste-Hindu and Muslim** seats equal, League and Congress each nominating their members.
+- The **Simla Conference (June–July 1945)** was called to work out the nominations.
+- It failed when **Jinnah** demanded that the League alone nominate **all Muslim members**, with no Congress Muslim included; Congress refused to accept a veto on its own Muslim members.
+
+**Result**
+
+- The talks broke down without forming the new Council, leaving the deadlock over Muslim representation unresolved going into 1946.
+- Place Wavell/Simla **after Cripps 1942** and **before Cabinet Mission 1946** (**2025 Q41**).
 
 > **Exam note:** Wavell Plan and Simla are **1945**, not 1946. 1946 = Cabinet Mission.
 
@@ -437,18 +460,20 @@ D. V. P. Menon
 **In India:** March 1946  
 **Plan:** **16 May 1946**
 
-- It did **not** concede a sovereign Pakistan as a first principle.
-- It proposed a **weak Centre** for defence, foreign affairs and communications.
-- Provinces were placed in **three groups**.
-- **Group A** covered Madras, Bombay, UP, Bihar, CP and Orissa.
-- **Group B** covered Punjab, NWFP and Sindh.
-- **Group C** covered Bengal and Assam.
-- There would be a Constituent Assembly and an interim government.
-- Provinces could later reconsider grouping.
-- The League first **accepted**, then **withdrew on 29 July 1946** after Nehru’s remarks on the Assembly’s sovereignty.
-- The League then called **Direct Action Day** for **16 August 1946** — its own full teaching card follows below.
-- The League still **joined the Interim Government on 26 October 1946**.
-- **2018 Q17:** both statements are true, but joining Interim does **not** explain the withdrawal. The answer is **B**.
+**Cause**
+
+- The Simla failure of 1945 had left the Congress–League deadlock unresolved. Attlee's new Labour government wanted a fresh, detailed constitutional plan before committing to any transfer of power.
+
+**Course**
+
+- Three British Cabinet ministers — **Pethick-Lawrence, Stafford Cripps, A.V. Alexander** — arrived in India in **March 1946** and issued their plan on **16 May 1946**.
+- It did **not** concede a sovereign Pakistan as a first principle. It proposed instead a **weak Centre** for defence, foreign affairs and communications, with provinces placed in **three groups**: **Group A** (Madras, Bombay, UP, Bihar, CP, Orissa), **Group B** (Punjab, NWFP, Sindh) and **Group C** (Bengal, Assam). There would be a Constituent Assembly and an interim government, and provinces could later reconsider their grouping.
+- The League first **accepted** the plan, then **withdrew on 29 July 1946** after Nehru's remarks appeared to deny the binding nature of the grouping scheme.
+
+**Result**
+
+- The League's withdrawal led it to call **Direct Action Day** for **16 August 1946** (full card in 14.15), but it still **joined the Interim Government on 26 October 1946**.
+- **2018 Q17:** both statements are true, but joining the Interim does **not** explain the earlier withdrawal — the answer is **B**.
 
 > **Exam note:** Cabinet Mission **1946**. Withdrawal ≠ never joining Interim. Both facts true; not cause-and-effect as R claims.
 
@@ -479,12 +504,20 @@ D. (A) is false, but (R) is true
 **Ship where it began:** ***HMIS Talwar***  
 **Rating leaders:** **M.S. Khan**, Madan Singh
 
+**Cause**
+
 - Royal Indian Navy ratings mutinied over **racial discrimination, poor food and pay, and slow demobilisation** after the war, and in solidarity with the INA prisoners then on trial.
-- Ratings on *HMIS Talwar* refused duty on **18 February 1946**; the mutiny spread within days to some **seventy-odd ships and shore establishments**.
+
+**Course**
+
+- Ratings on *HMIS Talwar* refused duty on **18 February 1946**; the mutiny spread within days to some **seventy-odd ships and shore establishments** across Bombay, Karachi, Calcutta and Vizag.
 - Bombay's working class and students joined sympathy strikes and street protests; there was firing and loss of life before the Navy restored order by **23 February**.
 - This was a **ratings' mutiny**, not a Congress-organised satyagraha, though Congress and the League both mediated to end it.
+
+**Result**
+
 - The mutiny showed the British that the **loyalty of the armed forces could no longer be assumed** — the same anxiety the INA trials had already exposed a few months earlier.
-- Place RIN strictly in **February 1946**, arriving after the UK Parliamentary Delegation and just before the Cabinet Mission's announcement.
+- It added to the pressure that led directly into the **Cabinet Mission's announcement** later that same February. Place RIN strictly in **February 1946**, after the UK Parliamentary Delegation and just before that announcement.
 
 > **Exam note:** RIN Mutiny = **February 1946**, Bombay, *HMIS Talwar*. Not the same event as Quit India **1942**.
 
@@ -567,13 +600,19 @@ D. 2, 4, 1, 3
 **Viceroy:** Lord **Mountbatten** (arrived March 1947)  
 **Plan:** **3 June 1947** (also called June 3 Plan)
 
-- British India would be partitioned into **two dominions**.
-- Princely states were to accede to one or the other, or in theory stand aside.
-- Punjab and Bengal would be **partitioned** if their assemblies so voted.
-- There would be a referendum in NWFP.
-- A Boundary Commission under **Radcliffe** would draw the line.
-- Transfer was advanced from June 1948 to **15 August 1947**.
-- **V.P. Menon** drafted much of the plan. He is **not** the author of the C.R. Formula.
+**Cause**
+
+- Attlee's February 1947 deadline of June 1948 had not stopped worsening communal violence after Direct Action Day. Mountbatten, arriving in March 1947, judged that a firmer, faster date was the only way to prevent a fuller breakdown.
+
+**Course**
+
+- Mountbatten's Plan of **3 June 1947** provided that British India would be partitioned into **two dominions**; Punjab and Bengal would be **partitioned** if their assemblies so voted, NWFP would hold a referendum, and princely states were to accede to one dominion or the other, or in theory stand aside.
+- A Boundary Commission under **Radcliffe** was set up to draw the actual line. **V.P. Menon** drafted much of the plan; he is **not** the author of the C.R. Formula.
+
+**Result**
+
+- Transfer of power was advanced from the promised June 1948 to **15 August 1947**, compressing the practical work of partition into just over two months.
+- The plan became law through the **Indian Independence Act (18 July 1947)**, taught next.
 
 > **Exam note:** Mountbatten Plan = **3 June 1947**. The **Act** is **18 July**. Independence Day = **15 August**.
 

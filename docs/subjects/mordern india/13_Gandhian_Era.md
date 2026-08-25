@@ -220,9 +220,19 @@ D. 3, 4, 1, 2
 **Issue:** ***Tinkathia*** — peasants forced to plant indigo on **3/20** of the holding  
 **Invite:** **Raj Kumar Shukla** brought Gandhi
 
-- Gandhi's **first satyagraha in India**. He was ordered to leave; he refused; the order was withdrawn.
-- His aides included **Rajendra Prasad**, **J.B. Kripalani**, **Mazharul Haq** and **Brajkishore Prasad**.
-- Inquiry broke tinkathia. The **Champaran Agrarian Act** followed in **1918**.
+**Cause**
+
+- Under the *tinkathia* system, European planters forced tenant farmers to grow indigo on a fixed share of their land at rates the planters themselves fixed, regardless of market price or the farmer's own needs.
+- **Raj Kumar Shukla**, a local peasant, persuaded Gandhi to see the distress for himself.
+
+**Course**
+
+- Gandhi began his **first satyagraha in India** by investigating conditions on the ground. He was ordered to leave the district, refused to obey, and courted arrest; the order was withdrawn under pressure.
+- His aides included **Rajendra Prasad**, **J.B. Kripalani**, **Mazharul Haq** and **Brajkishore Prasad**, who helped gather evidence and organise relief.
+
+**Result**
+
+- The government inquiry broke the *tinkathia* system, and the **Champaran Agrarian Act** followed in **1918**, giving peasants relief from forced indigo cultivation.
 - Do **not** merge this with the **Indigo Revolt of 1859–60**. That was Bengal, under the Biswas brothers.
 
 > **Exam note:** Champaran **1917** = Gandhi + tinkathia + Bihar.
@@ -233,17 +243,33 @@ D. 3, 4, 1, 2
 **Issue:** crop failure; demand for **revenue remission**  
 **Leaders:** Gandhi, **Vallabhbhai Patel**, Indulal Yagnik
 
-- It was a no-revenue satyagraha. Partial remission followed.
-- Patel's rural organisation begins here.
-- **Bardoli 1928** is the later, bigger Patel card.
+**Cause**
+
+- Successive crop failures had left Kheda's peasants unable to pay full land revenue, but the government still insisted on collecting the full assessed amount.
+
+**Course**
+
+- Gandhi and Patel organised a **no-revenue satyagraha**: peasants refused to pay until the government agreed to relief, while the organisers built village-level discipline to sustain the refusal.
+
+**Result**
+
+- The government granted **partial remission** of the revenue demand.
+- This satyagraha marked the start of Patel's rural organisational base in Gujarat; **Bardoli 1928** is the later, bigger Patel card.
 
 ### Ahmedabad Mill Strike (1918)
 
-- The dispute was over **plague bonus** and wage after the plague.
-- **Anasuya Sarabhai** invited Gandhi.
-- This was Gandhi's **first hunger strike in India**.
-- Settlement was around a **35%** rise in the usual exam memory.
-- Mill-owner **Ambalal Sarabhai** is Anasuya's brother.
+**Cause**
+
+- Mill workers had received a **plague bonus** during a plague outbreak; once the plague passed, owners wanted to withdraw it even as prices kept rising, leaving workers demanding a permanent wage increase instead.
+
+**Course**
+
+- **Anasuya Sarabhai** invited Gandhi to mediate between the workers and the mill-owners, one of whom was her own brother, **Ambalal Sarabhai**.
+- When talks stalled, Gandhi undertook his **first hunger strike in India** to press for a settlement while keeping the workers disciplined and non-violent.
+
+**Result**
+
+- The strike ended in a settlement generally remembered as around a **35%** wage rise.
 
 > **Exam note:** 1917 Champaran → 1918 Kheda and Ahmedabad. Three early satyagrahas before Rowlatt.
 
@@ -255,10 +281,21 @@ D. 3, 4, 1, 2
 **Nickname:** **Black Act**  
 **Viceroy:** Chelmsford
 
-- Allowed detention **without trial**. No appeal in the usual sense. Aimed at wartime sedition powers in peacetime.
-- Gandhi called an all-India **hartal / satyagraha (6 April 1919)**.
-- Punjab especially exploded. Rowlatt protest is the climate of **Jallianwala**.
-- Satyagraha was later suspended after violence. The Act is **not** the 1919 GOI Act (Montagu–Chelmsford).
+**Cause**
+
+- Wartime emergency powers had let the government detain suspects without trial. The British wanted to keep similar powers in peacetime to deal with revolutionary terrorism, especially in Punjab and Bengal.
+
+**Course**
+
+- The **Anarchical and Revolutionary Crimes Act, 1919** allowed detention **without trial**, with no real right of appeal.
+- Gandhi called an all-India **hartal / satyagraha on 6 April 1919** to protest the "Black Act".
+- Punjab responded most strongly; the Rowlatt protest became the direct climate leading into **Jallianwala Bagh**.
+
+**Result**
+
+- The Act was still pushed through despite the protest, but the agitation showed Gandhi's power to call an all-India hartal for the first time.
+- Gandhi suspended the wider satyagraha after violence broke out in several cities, an early sign of the same discipline he later enforced after Chauri Chaura.
+- The Act is **not** the 1919 GOI Act (Montagu–Chelmsford dyarchy) — two separate 1919 laws.
 
 > **Exam note:** Rowlatt **1919** = no-trial detention. GOI Act 1919 = dyarchy. Two different 1919s.
 
@@ -271,13 +308,21 @@ D. 3, 4, 1, 2
 **Officer:** Brigadier **Reginald Dyer**  
 **Lt Governor:** **Michael O'Dwyer**
 
-- A crowd gathered in a walled garden. Dyer ordered fire without adequate warning. Hundreds were killed.
-- Martial law followed. The **crawling order** on a street where an Englishwoman had been attacked is the stock humiliation fact.
-- The **Hunter Committee (1919)**, chaired by Lord **William Hunter**, inquired into the firing and the wider Punjab disturbances. It censured Dyer for using excessive force but did **not** recommend his prosecution; Dyer instead became a hero to many in Britain (the Morning Post fund).
-- Do **not** confuse this with the **Hunter Commission (Indian Education Commission), 1882**, chaired by **W.W. Hunter**, which reviewed primary, secondary and vocational education under Ripon. Same surname, sixty years apart, unrelated subjects.
-- **Rabindranath Tagore returned his knighthood** (**2022 Q83**).
-- **Chettur Sankaran Nair** resigned from the **Viceroy's Executive Council** (**2025 Q135 — Only 1**). He is **not** the knighthood answer.
-- Gandhi returned his **Kaiser-i-Hind** medal. This, with Khilafat, pushed him toward Non-Cooperation.
+**Cause**
+
+- The Rowlatt protest of April 1919 had already inflamed Punjab. Local leaders were arrested and public meetings banned, but a crowd still gathered at Jallianwala Bagh, partly to protest and partly for a normal Baisakhi fair.
+
+**Course**
+
+- Brigadier **Reginald Dyer** marched troops into the walled garden and ordered them to fire on the unarmed crowd without adequate warning and with no escape route open. Official and unofficial counts put the dead in the hundreds.
+- **Martial law** followed across Punjab under Lt Governor **Michael O'Dwyer**, including the humiliating **crawling order** imposed on a street where an Englishwoman had been attacked.
+
+**Result**
+
+- The **Hunter Committee (1919)**, chaired by Lord **William Hunter**, inquired into the firing and the wider Punjab disturbances. It censured Dyer for excessive force but did **not** recommend his prosecution; Dyer instead became a hero to many in Britain through the Morning Post fund.
+- **Rabindranath Tagore returned his knighthood** in protest (**2022 Q83**); **Chettur Sankaran Nair** resigned from the **Viceroy's Executive Council** (**2025 Q135 — Only 1**). He is **not** the knighthood answer.
+- Gandhi returned his **Kaiser-i-Hind** medal. Jallianwala, together with the Khilafat grievance, pushed him toward launching Non-Cooperation.
+- Do **not** confuse the 1919 inquiry with the **Hunter Commission (Indian Education Commission), 1882**, chaired by **W.W. Hunter**, which reviewed education under Ripon — same surname, sixty years apart, unrelated subjects.
 
 > **Exam note:** Tagore = **knighthood**. Sankaran Nair = **Executive Council resignation**. Hunter Committee = **1919 firing inquiry**, not the 1882 education body.
 
@@ -332,16 +377,23 @@ D. Only 1
 **Calcutta Special Session:** **September 1920** (Lajpat Rai president) — NCM adopted  
 **Nagpur Session:** **December 1920** — programme completed; Congress constitution recast
 
-- Methods included surrender of titles.
-- They boycotted schools, courts, councils and foreign cloth.
-- **Khadi** and national schools were the constructive side.
-- **Tilak Swaraj Fund** financed work. Tilak died **1 August 1920**, as the movement opened.
-- Students, lawyers and peasants joined in large numbers.
-- **Periyar** took part in NCM in the south, then left Congress in **1925**.
-- **Chauri Chaura** took place on **5 February 1922** in **Gorakhpur district, UP**.
-- A police station was burnt and policemen died. Gandhi withdrew NCM at Bardoli.
-- He was jailed. He wrote *My Experiments with Truth* in this phase.
-- **Belgaum 1924** is his **only** Congress presidentship.
+**Cause**
+
+- Jallianwala Bagh, the wider Punjab repression, and the Khilafat grievance together convinced Gandhi that cooperating with a government capable of such acts was itself immoral.
+- He argued that British rule survived only because Indians cooperated with its institutions, so mass, disciplined non-cooperation could paralyse it without violence.
+
+**Course**
+
+- The **Calcutta Special Session (September 1920)**, with **Lajpat Rai** presiding, adopted Non-Cooperation; the **Nagpur Session (December 1920)** completed the programme and recast the Congress constitution for mass membership.
+- Methods included surrender of titles, and boycott of schools, courts, councils and foreign cloth. **Khadi** and national schools were the constructive side. The **Tilak Swaraj Fund** financed the work; **Tilak** himself died on **1 August 1920**, just as the movement opened.
+- Students, lawyers and peasants joined in large numbers across the country; **Periyar** took part in NCM in the south before leaving Congress in **1925**.
+- On **5 February 1922** at **Chauri Chaura** in **Gorakhpur district, UP**, a crowd burnt a police station and policemen died.
+
+**Result**
+
+- Gandhi withdrew NCM at Bardoli, judging that the movement had turned violent against his own discipline of non-violence.
+- He was jailed, and used the time to write *My Experiments with Truth*.
+- **Belgaum 1924** later became his **only** Congress presidentship, and NCM's abrupt end fed directly into the Gaya split over what Congress should do next (13.9).
 
 > **Exam note:** NCM withdrawn after **Chauri Chaura 1922**, not after Jallianwala. UP geography = **Gorakhpur**.
 
@@ -353,12 +405,18 @@ D. Only 1
 **Leaders:** **Mohammad Ali, Shaukat Ali**, Maulana Azad, Hasrat Mohani, Dr Ansari  
 **Allied with Congress:** **1920–22**
 
-- The Treaty of Sèvres threatened the Caliphate.
-- Indian Muslims ran a mass movement. Gandhi joined it to the NCM.
-- **Hijrat** to Afghanistan (some), boycott, and the same non-cooperation programme.
-- When Turkey itself abolished the Caliphate (**1924**), the issue died. The Hindu–Muslim joint front of 1920–22 did not last.
-- **Moplah 1921** exploded in this climate.
-- Khilafat is **not** the same as Moplah.
+**Cause**
+
+- The **Treaty of Sèvres** after World War I threatened to dismantle the Ottoman Caliphate, which many Indian Muslims saw as the symbolic head of their faith — a religious grievance running alongside Congress's political grievances of the same years.
+
+**Course**
+
+- Leaders such as **Mohammad Ali, Shaukat Ali**, Maulana Azad, Hasrat Mohani and Dr Ansari built a mass Khilafat campaign from **1919**. Gandhi joined it to the **Non-Cooperation Movement in 1920**, so Hindus and Muslims campaigned together under one programme of boycott and non-cooperation.
+- Some Muslims attempted **Hijrat** (migration) to Afghanistan in protest. **Moplah 1921** exploded in this same charged climate in Malabar, though it is **not** the same event as Khilafat.
+
+**Result**
+
+- The joint Hindu–Muslim front held together through 1922, but it lost its cause when **Turkey itself abolished the Caliphate in 1924**, and the movement dissolved without leaving a lasting communal alliance behind.
 
 > **Exam note:** Khilafat + NCM = **1920–22 joint**. Khilafat starts **after** Home Rule (1916) and Jallianwala (1919) in the 2023 four-event set.
 
@@ -497,13 +555,22 @@ D. I, IV, II and III
 **To:** Dandi (Navsari / coastal Gujarat)  
 **Walkers:** 78 at the start; 24 days; 241 miles (exam memory)
 
-- Gandhi broke the **salt law** on **6 April 1930**.
-- Salt was a mass symbol. It was a tax on a necessity.
-- CDM included salt, forest laws, no-tax, boycott of foreign cloth and liquor, and women's picketing.
-- The **Vedaranyam March** in Tamil Nadu was led by **C. Rajagopalachari**.
-- At the **Dharasana salt works** police beat satyagrahis brutally.
-- American journalist **Webb Miller** reported it (**2021 Q82**).
-- Congress boycotted the **1st RTC (1930)**. CDM paused after **Gandhi–Irwin, March 1931**, resumed after the 2nd RTC, and was **withdrawn about April 1934**.
+**Cause**
+
+- Lahore 1929 had committed Congress to **Purna Swaraj**, and Gandhi's **Eleven Points** ultimatum to Irwin (13.13) had gone unanswered, leaving civil disobedience as the only option left.
+- Gandhi chose the **salt tax** as the opening symbol because it touched every household, rich or poor, and made the injustice of colonial taxation immediately visible.
+
+**Course**
+
+- Gandhi and 78 followers walked from **Sabarmati Ashram to Dandi**, **12 March – 6 April 1930**, over 24 days and about 241 miles, and broke the **salt law** on **6 April 1930** by making salt from sea water.
+- CDM then widened into defiance of forest laws, a no-tax campaign, boycott of foreign cloth and liquor, and women's picketing of shops selling foreign goods.
+- The **Vedaranyam March** in Tamil Nadu, led by **C. Rajagopalachari**, repeated the salt symbol in the south.
+- At the **Dharasana salt works**, police beat unarmed satyagrahis brutally; American journalist **Webb Miller** reported the beating to the world (**2021 Q82**).
+
+**Result**
+
+- Congress boycotted the **1st RTC (1930)** since CDM was still on.
+- CDM paused after the **Gandhi–Irwin Pact, March 1931**, resumed after the 2nd RTC failed to satisfy Congress, and was finally **withdrawn about April 1934** once repression and the Communal Award/Poona Pact years had drained its momentum.
 
 > **Exam note:** Dandi **1930** launches CDM. End of CDM is **1934**, after Poona Pact **1932**.
 
@@ -685,11 +752,20 @@ D. Neither 1 nor 2
 **First satyagrahi:** **Vinoba Bhave**  
 **Later:** Jawaharlal Nehru and other senior leaders courted arrest one by one
 
-- After the August Offer failed, Gandhi chose a **restrained, symbolic** protest instead of a mass Civil-Disobedience-style movement, keeping the door open for cooperation if Britain's stand changed.
-- Selected individuals, one at a time, publicly announced an anti-war statement — in essence, that it was wrong to help the British war effort with men or money — and then courted arrest.
-- **Vinoba Bhave** was chosen as the **first satyagrahi**; the choice signalled Gandhi's trust in his discipline and restraint.
-- It was deliberately **not** a mass movement: no crowds, no all-India boycott campaign, no salt-style symbol — just disciplined individuals inviting arrest to keep the demand for freedom alive without embarrassing the Allied war effort.
-- It continued into 1941, losing intensity as the international war situation changed.
+**Cause**
+
+- The **August Offer** (13.19) had just failed to satisfy either Congress or the League, but Gandhi did not want to embarrass Britain's war effort with a full mass movement while the outcome of World War II was still open.
+
+**Course**
+
+- Gandhi chose a **restrained, symbolic** protest: selected individuals, one at a time, publicly announced that it was wrong to help the British war effort with men or money, and then courted arrest.
+- **Vinoba Bhave** was chosen as the **first satyagrahi**, signalling Gandhi's trust in his discipline; **Jawaharlal Nehru** and other senior leaders followed one by one.
+- It was deliberately **not** a mass movement: no crowds, no all-India boycott campaign, no salt-style symbol — just disciplined individuals inviting arrest.
+
+**Result**
+
+- The protest kept the demand for freedom alive without embarrassing the Allied war effort, and continued into 1941, losing intensity as the international war situation changed.
+- It served as a holding pattern until the deepening war forced Britain's hand, leading into the **Cripps Mission (1942)** and then **Quit India (1942)**, taught fully in **Topic 14**.
 
 > **Exam note:** Individual Satyagraha = **October 1940**, first satyagrahi **Vinoba Bhave** — not a mass CDM-style campaign. Continuity: WWII deepens after this into the **Cripps Mission (1942)** and **Quit India (1942)**, taught fully in **Topic 14**.
 

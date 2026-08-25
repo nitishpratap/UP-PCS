@@ -464,17 +464,24 @@ D. Delhi
 
 **War of Austrian Succession** | Nawab **Anwaruddin Khan** | ends with **Aix-la-Chapelle 1748**
 
-- **Madras** (English) and **Pondicherry** (French) sat on the same Coromandel coast and competed for the same piece-goods trade.
-- When Britain and France went to war in Europe, that quarrel reached India even though the two companies had no equal local dispute of their own.
+### Causes
+
+- **Madras** (English) and **Pondicherry** (French) sat on the same Coromandel coast. They competed for the same piece-goods trade, so the two companies were already rivals on the ground.
+- Britain and France went to war in Europe over the **Austrian succession**. That European quarrel spilled into India even though the two companies had no equal local dispute of their own.
+
+### Course
+
 - In **1746** a French fleet under **La Bourdonnais** joined **Dupleix** and captured **Madras**.
-- Dupleix wanted to keep Madras as a French prize. La Bourdonnais wanted to ransom it back to the English.
-- The two men quarrelled. La Bourdonnais left the coast.
+- Dupleix wanted to keep Madras as a French prize. La Bourdonnais wanted to ransom it back to the English. The two men quarrelled, and La Bourdonnais left the coast.
 - Nawab **Anwaruddin Khan** ordered the French to restore Madras. They refused.
 - At the **Battle of Adyar**, also called **St Thome (1746)**, a smaller French-trained infantry force defeated a much larger Nawabi army near Madras.
-- The battle showed that drilled European-style troops could beat a traditional Indian army in the open.
-- The **Treaty of Aix-la-Chapelle (1748)** ended the War of Austrian Succession and therefore ended this war.
+- The battle showed that drilled European-style troops could beat a traditional Indian army in the open. Both sides took note.
+
+### Results
+
+- The **Treaty of Aix-la-Chapelle (1748)** ended the War of Austrian Succession in Europe. That ended this war in India as well.
 - **Madras was returned to the English**. The French kept Pondicherry.
-- No lasting territory changed hands. Both companies learned to use Indian allies and trained infantry in the next round.
+- No lasting territory changed hands. Both companies had, however, learned to use Indian allies and trained infantry, and they used that lesson in the next round.
 
 > **Exam note:** Aix-la-Chapelle did **not** give Madras to France. **1763** is the other treaty.
 
@@ -508,19 +515,24 @@ D. Only 1
 
 **Also called Second Anglo-French War** (UPPCS 2025 Q26) | Indian succession, not a European peace treaty
 
+### Causes
+
 - This war did not wait for a new European peace crisis. It grew from succession fights in Hyderabad and the Carnatic.
-- After Nizam **Asaf Jah I** died, **Muzaffar Jung** and **Nasir Jung** claimed Hyderabad.
-- In the Carnatic, **Chanda Sahib** claimed the Nawabship with French backing.
-- **Muhammad Ali**, son of Anwaruddin, had English backing.
+- After Nizam **Asaf Jah I** died, **Muzaffar Jung** and **Nasir Jung** claimed Hyderabad. That dispute pulled both companies into the Deccan.
+- In the Carnatic, **Chanda Sahib** claimed the Nawabship with French backing, while **Muhammad Ali**, son of Anwaruddin, held English backing. Each company now had its own local client to defend.
+
+### Course
+
 - At **Ambur in 1749**, Chanda Sahib and the French defeated and killed Anwaruddin. Chanda Sahib then occupied Arcot.
 - Muhammad Ali took shelter at **Trichinopoly**. The English had to keep him alive if they wanted a Carnatic client.
-- In **1751 Robert Clive** seized and held **Arcot**, Chanda Sahib’s capital, with a small force.
-- The defence pulled French and Chanda Sahib troops away from Trichinopoly.
-- Clive’s stand at Arcot raised English prestige among Indian rulers.
-- Fighting around Trichinopoly dragged on.
+- In **1751 Robert Clive** seized and held **Arcot**, Chanda Sahib's capital, with a small force. The defence pulled French and Chanda Sahib troops away from Trichinopoly, and Clive's stand raised English prestige among Indian rulers.
+- Fighting around Trichinopoly dragged on for months.
 - In the Deccan, **Bussy** kept French influence at Hyderabad for a time, especially under **Salabat Jung**.
-- French directors in Paris disliked the cost of Dupleix’s wars.
-- They recalled **Dupleix in 1754**. **Godeheu** replaced him and sought peace.
+- French directors in Paris disliked the mounting cost of Dupleix's wars.
+
+### Results
+
+- They recalled **Dupleix in 1754**. **Godeheu** replaced him and sought peace with the English.
 - **Muhammad Ali** remained the English-supported Nawab of the Carnatic.
 - The French political project in the south had peaked and then fallen.
 - This war comes **before** the First Anglo-Mysore War of **1767–69**.
@@ -559,17 +571,25 @@ D. 2, 1, 3, 4
 
 **Seven Years’ War** | French commander **Count de Lally** | ends with **Paris 1763**
 
-- The Seven Years’ War (**1756–63**) reopened Anglo-French fighting in India.
-- **Count de Lally** arrived as French commander. He was a soldier of the Crown, not a company diplomat like Dupleix.
+### Causes
+
+- The Seven Years' War (**1756–63**) between Britain and France in Europe reopened Anglo-French fighting in India.
+- **Count de Lally** arrived as French commander. He was a soldier of the Crown, not a company diplomat like Dupleix, and he pushed for an aggressive campaign.
+- By this point the English already had **Bengal's resources** after **Plassey (1757)**, which gave them a financial edge the French could not match.
+
+### Course
+
 - The French besieged **Madras in 1758–59** and **failed** to take it. That failure cost time, money and allies.
 - Lally quarrelled with his officers and with Indian allies.
 - **Bussy** was pulled away from Hyderabad, which weakened the French Deccan position.
 - On **22 January 1760**, **Eyre Coote** defeated Lally at **Wandiwash (Vandavasi)**.
-- After Wandiwash the English took remaining French posts.
-- **Pondicherry fell in 1761** after a siege.
-- The **Treaty of Paris (1763)** ended the Seven Years’ War and closed this Indian war.
+- After Wandiwash the English took the remaining French posts one by one. **Pondicherry fell in 1761** after a siege.
+
+### Results
+
+- The **Treaty of Paris (1763)** ended the Seven Years' War globally and closed this Indian war.
 - France kept trading factories such as Pondicherry. It could not rebuild an Indian political empire.
-- By then the English also had **Bengal’s resources** after **Plassey 1757**. France had no matching Indian revenue base.
+- English political supremacy over the French in India was confirmed. Attention could now shift to Bengal consolidation and later Mysore and Maratha wars.
 
 > **Exam note:** Third War trio = **failed Madras siege**, **Wandiwash 1760**, **Paris 1763**. Not 1748.
 
@@ -579,12 +599,23 @@ D. 2, 1, 3, 4
 
 **22 January 1760** | **Wandiwash (Vandavasi)**, Tamil Nadu | Third Carnatic War
 
-- **Eyre Coote** of the English defeated **Count de Lally** of the French.
-- It was a conventional pitched battle of infantry, cavalry and artillery.
-- It broke French field power in the south.
-- Remaining French posts then fell. **Pondicherry** was taken in **1761**.
-- This was an Anglo-**French** battle. It was not Anglo-Mysore and not Anglo-Maratha.
-- It was fought in South India, **not** in Bengal.
+### Causes
+
+- The Third Carnatic War had reached a decisive stage. The French under **Count de Lally** had already failed to take Madras in **1758–59**.
+- French strength was further weakened when **Bussy** was pulled away from Hyderabad, and by Lally's quarrels with his own officers and Indian allies.
+- Both companies needed one clear pitched-battle result to settle who controlled the Carnatic.
+
+### Course
+
+- On **22 January 1760**, English forces under **Eyre Coote** met French forces under **Count de Lally** at **Wandiwash (Vandavasi)**.
+- It was a conventional pitched battle of infantry, cavalry and artillery, fought in the open rather than as a siege.
+- **Coote defeated Lally** and broke French field power in the south.
+
+### Results
+
+- Remaining French posts fell one by one after the battle. **Pondicherry** was taken in **1761** after a siege.
+- The defeat opened the path to the **Treaty of Paris (1763)**, which closed French political hopes in India.
+- This was an Anglo-**French** battle fought in South India. It was not Anglo-Mysore, not Anglo-Maratha, and not fought in Bengal.
 
 > **Exam note:** Commander pair = **Coote vs Lally**. Clive belongs to Arcot and Plassey, not Wandiwash.
 
