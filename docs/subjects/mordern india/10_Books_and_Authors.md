@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Books and Authors | History Books | Books on Freedom Movement | Political Books | Books by Ambedkar | Books Related to Governors-General | Books on Partition | Bankim Chandra Chattopadhyay | Bhojpuri Literature | Realistic Novels | Anandamath | Poverty and Un-British Rule | Hind Swaraj | Discovery of India | India Wins Freedom | Gita Rahasya | Gulamgiri | Annihilation of Caste
+Books and Authors | History Books | Books on Freedom Movement | Political Books | Books by Ambedkar | Books Related to Governors-General | Books on Partition | Bankim Chandra Chattopadhyay | Bhojpuri Literature | Realistic Novels | Anandamath | Poverty and Un-British Rule | Hind Swaraj | Discovery of India | India Wins Freedom | Gita Rahasya | Gulamgiri | Annihilation of Caste | The Indian War of Independence | Mother India and Unhappy India
 
 </details>
 
@@ -69,6 +69,42 @@ BHOJPURI:
 | Batohiya (poem) | Batohiya (character) | Raghuveer Narayan 1911 poem vs traveller in *Bidesiya* | बटोहिया |
 | India Divided | Pakistan or Partition | Rajendra Prasad vs Ambedkar | इंडिया डिवाइडेड |
 | Godaan | Anandamath | Premchand social realism vs Bankim political romance | गोदान / आनंदमठ |
+| The Indian War of Independence | Anandamath | Savarkar's 1857-as-war history, 1909 vs Bankim's Sanyasi-rising novel, 1882 | इंडियन वॉर ऑफ इंडिपेंडेंस / आनंदमठ |
+| Mother India | Unhappy India | Katherine Mayo's 1927 hostile tract vs Lala Lajpat Rai's reply | मदर इंडिया / अनहैप्पी इंडिया |
+
+---
+
+## Memory Tricks
+
+| Trick | Remembers |
+|-------|-----------|
+| **"Bankim's novel, Savarkar's history"** | *Anandamath* (1882, fiction) vs *The Indian War of Independence* (1909, history) — both use 1857-adjacent material differently |
+| **"Mayo attacks, Lajpat replies"** | *Mother India* (1927, hostile) is answered by *Unhappy India* (Lajpat Rai) |
+| **"1901 drain, 1909 dialogue, 1936 destroy"** | Naoroji's *Poverty…* (1901) → Gandhi's *Hind Swaraj* (1909) → Ambedkar's *Annihilation of Caste* (1936) |
+| **"Discovery ≠ Toward Freedom"** | Both Nehru; *Discovery of India* (1946) is history, *Toward Freedom* is autobiography |
+| **"Tilak has two books, not one"** | *Gita Rahasya* (nationalist ethics) and *Arctic Home in the Vedas* (Vedic geography) — never merge them |
+| **"Phule enslaves the metaphor, Ambedkar destroys the system"** | *Gulamgiri* (1873, slavery comparison) vs *Annihilation of Caste* (1936, abolition argument) |
+| **"Prasad divides, Ambedkar partitions, Collins narrates"** | *India Divided* (Rajendra Prasad) vs *Pakistan or the Partition of India* (Ambedkar) vs *Freedom at Midnight* (Collins & Lapierre) |
+| **"Curzon looks East, Hardinge looks back on his years"** | *Problems of the Far East* (Curzon) vs *My Indian Years* (Hardinge) |
+| **"Firangiya is Sinha's, Bidesiya is Thakur's"** | Do not swap the 1921 Bhojpuri poem with Thakur's migrant folk-drama |
+| **"Savarkar's Mandalay-year book fixes 1909"** | *The Indian War of Independence* published **1909**, same publication decade as *Hind Swaraj* |
+
+---
+
+## 10.0 One clear picture — sorting the books by type
+
+Do not memorise books as one long list. Sort every title into **one** of these five buckets first; the year and twin-trap follow naturally.
+
+| Bucket | What it covers | Anchor titles |
+|--------|-----------------|-----------------|
+| **Primary political tracts** | Written *during* the freedom struggle to argue a position | *Poverty and Un-British Rule*, *Hind Swaraj*, *Gulamgiri*, *Annihilation of Caste*, *The Indian War of Independence* |
+| **Memoirs / autobiographies** | First-person freedom-struggle accounts | *India Wins Freedom*, *The Story of My Deportation*, *A Nation in Making*, *My Experiments with Truth*, *An Indian Pilgrim* |
+| **Later historiography** | Written *about* the nationalist age, not during it | *The Rise and Growth of Economic Nationalism in India* (Bipan Chandra), *Economic History of India* (R.C. Dutt) |
+| **GG / Viceroy-linked** | Written by or closely tied to a Governor-General/Viceroy | *Problems of the Far East*, *My Indian Years*, and the GG teaching card below |
+| **Partition and post-Independence narrative** | Focused on 1946–48 endgame | *India Wins Freedom*, *India Divided*, *Pakistan or the Partition of India*, *Freedom at Midnight*, *Train to Pakistan* |
+| **Social / regional / caste literature** | Anti-caste tracts, Bhojpuri works, realist novels | *Gulamgiri*, *Annihilation of Caste*, Bhojpuri four, Premchand's novels |
+
+> **Exam note:** A book "written **in** 1901 about the drain" is a **primary tract**; a book "written **about** 1901-era economics decades later" is **historiography**. That single test settles most Naoroji-vs-Bipan-Chandra traps.
 
 ---
 
@@ -113,15 +149,18 @@ One home for extra titles. Details of the syllabus eight sit in the cards below.
 | **History of the Indian National Congress** | Pattabhi Sitaramayya | Official Congress history |
 | **Young India** (book) | Lala Lajpat Rai | Nationalist interpretation (not Gandhi’s paper) |
 | **Mother India** | Katherine Mayo | 1927 anti-India tract |
-| **Problems of the Far East** | Lord Curzon | GG-linked |
+| **Problems of the Far East / British Government in India** | Lord Curzon | GG-linked; two Curzon titles |
 | **My Indian Years** | Lord Hardinge | Viceroy memoir |
+| ***Lucile*** (as Owen Meredith) | Lord Lytton | Pre-viceroyalty poetry, GG-linked trap |
+| **The Viceroy's Journal** | Lord Wavell | Posthumous Partition-years diary |
+| **Hindutva: Who is a Hindu?** | V.D. Savarkar | 1923; separate from his 1909 history |
 | **Firangiya** | Manoranjan Prasad Sinha | 1921; Bhojpuri |
 | **Batohiya** | Raghuveer Narayan | 1911; Bhojpuri |
 | **Bidesiya** | Bhikhari Thakur | Migrant folk-drama |
 | **Achhut Kee Shikayat** | Heera Dom | 1914 |
 | **Godaan / Gaban / Sevasadan / Kafan** | Premchand | Hindi social realism |
 
-> **Exam note:** Drill the **2020 four** and **Poverty 1901** first. Then twins. Then Bhojpuri four.
+> **Exam note:** Drill the **2020 four** and **Poverty 1901** first. Then twins. Then Bhojpuri four. Then the Savarkar/Mayo/GG additions.
 
 ---
 
@@ -344,7 +383,41 @@ D. 4 3 2 1
 
 ---
 
-## 10.11 History Books and Historiography
+## 10.11 The Indian War of Independence (V.D. Savarkar)
+
+**Author:** **Vinayak Damodar Savarkar**  
+**Year:** **1909**  
+**Original title / language:** written in **Marathi**, published in **English translation** from **London**; the book was **banned** by the colonial government immediately
+
+- Savarkar wrote the book while a law student in London, associated with **India House** and the revolutionary circle around **Shyamji Krishna Varma**.
+- The book's core argument is that **1857 was not a mere "Mutiny"** but India's **first war of independence** — a planned, national rising against foreign rule.
+- It celebrated leaders of 1857 (Nana Sahib, Tantia Tope, Rani Lakshmibai, Bahadur Shah Zafar) as freedom fighters, not rebels or sepoys acting from narrow grievance.
+- The British banned the book in India even before publication; copies were smuggled in and secretly reprinted, including under false covers.
+- It became a foundational text for the **revolutionary** stream of nationalism (Topic 11), read by groups like the **Abhinav Bharat** society that Savarkar himself helped found.
+- Do **not** confuse this history with Bankim's ***Anandamath*** (1882 novel, Sanyasi-rising background) or with Sir Syed Ahmad Khan's ***Causes of the Indian Mutiny*** (a loyalist, causes-only analysis from the opposite political direction).
+- Savarkar's **other** major book is ***Hindutva: Who is a Hindu?*** (1923) — a separate ideological work, not an 1857 history. Keep the two Savarkar titles apart.
+
+> **Exam note:** *The Indian War of Independence* = **Savarkar, 1909, 1857 as a national war**. *Hindutva* (1923) is Savarkar's **different** ideological book — do not merge the two.
+
+---
+
+## 10.12 Mother India and Unhappy India
+
+| Book | Author | Year | Tag |
+|------|--------|------|-----|
+| **Mother India** | **Katherine Mayo** (American writer) | **1927** | Hostile tract painting Indian society as backward; used to argue India was unfit for self-rule |
+| **Unhappy India** | **Lala Lajpat Rai** | **1928** | Point-by-point reply to Mayo, defending Indian society and exposing the book's colonial motive |
+
+- **Katherine Mayo** researched *Mother India* with covert encouragement from British officials keen to counter the growing self-rule demand; the book focused heavily on sanitation, child marriage and sexuality to paint a picture of Indian incapacity for self-government.
+- Indian nationalists across the spectrum condemned the book as **imperialist propaganda** dressed as social reportage. Gandhi famously called it a **"gutter inspector's report."**
+- **Lala Lajpat Rai**, already known for *The Story of My Deportation*, wrote ***Unhappy India* (1928)** as the most cited nationalist rebuttal, defending Indian civilisation while conceding genuine social evils needed indigenous reform, not colonial lecturing.
+- Do **not** give *Mother India* to an Indian author, and do **not** give *Unhappy India* to Mayo — the pairing only works as **attack / reply**.
+
+> **Exam note:** *Mother India* = **Mayo, 1927, hostile**. *Unhappy India* = **Lajpat Rai, 1928, reply**. Never swap author or direction of argument.
+
+---
+
+## 10.13 History Books and Historiography
 
 | Book | Author | Use |
 |------|--------|-----|
@@ -383,14 +456,18 @@ D. Bipin Chandra
 
 ---
 
-## 10.12 Books Related to Governors-General and Books on Partition
+## 10.14 Books Related to Governors-General and Books on Partition
 
 **Viceroys / GG-linked**
 
-| Book | Author |
-|------|--------|
-| **Problems of the Far East** | **Lord Curzon** |
-| **My Indian Years** | **Lord Hardinge** |
+| Book | Author | Tag |
+|------|--------|-----|
+| **Problems of the Far East** (1894) | **Lord Curzon** | Written before his viceroyalty, on Asian geopolitics |
+| **British Government in India** (1925) | **Lord Curzon** | Later reflective work on Indian administration |
+| **My Indian Years, 1910–1916** | **Lord Hardinge** | Viceroy memoir; covers the Delhi Durbar and the bomb attack on him (1912) |
+| ***Lucile*** (poem, pen name **Owen Meredith**) | **Lord Lytton** | Written **before** his viceroyalty; Lytton is remembered in politics for **Proud Reserve** |
+| ***The Viceroy's Journal*** (published 1973, posthumous) | **Lord Wavell** | Diary covering the final Partition years, edited by **Penderel Moon** |
+| Patronage (not authorship) of the **first English Gita translation** by **Charles Wilkins** (1785) | **Warren Hastings** | Wrote the preface encouraging Orientalist scholarship; not himself the Gita's translator |
 
 **Partition set**
 
@@ -402,17 +479,19 @@ D. Bipin Chandra
 | **Freedom at Midnight** | **Larry Collins and Dominique Lapierre** |
 | **Train to Pakistan** | **Khushwant Singh** |
 
-- Curzon also wrote on Asia and imperial administration.
-- The exam tag is ***Problems of the Far East***.
-- Hardinge’s Indian memoir tag is ***My Indian Years***. Do not swap Curzon and Hardinge.
-- *Freedom at Midnight* is popular narrative of the Mountbatten–Partition months, not Azad’s memoir.
+- Curzon wrote **two** exam-relevant books: the earlier ***Problems of the Far East*** and the later ***British Government in India***. Either can be the "Curzon" answer; the safer single tag remains *Problems of the Far East*.
+- Hardinge's Indian memoir tag is ***My Indian Years***. Do not swap Curzon and Hardinge.
+- **Lord Lytton**, remembered for the forward "Proud Reserve" Afghan policy, wrote poetry as **Owen Meredith** before becoming Viceroy — a literary-GG trap distinct from the political-policy Lytton.
+- **Lord Wavell's** diary was compiled and published only after his death; it is not a book he wrote for release in his lifetime.
+- Warren Hastings did **not** translate the *Gita* himself; he **patronised and prefaced** Charles Wilkins's 1785 translation — a common "who translated" trap.
+- *Freedom at Midnight* is popular narrative of the Mountbatten–Partition months, not Azad's memoir.
 - *Train to Pakistan* is **fiction** of Partition violence, not a political tract.
 
-> **Exam note:** *India Divided* = **Rajendra Prasad**. *Pakistan or the Partition of India* = **Ambedkar**. *Freedom at Midnight* ≠ Azad.
+> **Exam note:** *India Divided* = **Rajendra Prasad**. *Pakistan or the Partition of India* = **Ambedkar**. *Freedom at Midnight* ≠ Azad. Warren Hastings **patronised**, did not **translate**, the Gita.
 
 ---
 
-## 10.13 Realistic Novels
+## 10.15 Realistic Novels
 
 - A **realistic novel** shows social reality: peasant debt, gender, hypocrisy.
 - It is not Bankim’s political romance.
@@ -429,7 +508,7 @@ D. Bipin Chandra
 
 ---
 
-## 10.14 Bhojpuri Literature (UP Focus)
+## 10.16 Bhojpuri Literature (UP Focus)
 
 | Work | Author | Year / tag |
 |------|--------|------------|
@@ -450,9 +529,37 @@ D. Bipin Chandra
 
 ---
 
+## Must-score locks — author ↔ definitive book
+
+| Author | Definitive book(s) | Never confuse with |
+|--------|----------------------|----------------------|
+| Bankim Chandra Chattopadhyay | *Anandamath* (1882) | *Neel Darpan* (Dinabandhu Mitra) |
+| Dadabhai Naoroji | *Poverty and Un-British Rule in India* (1901) | *Rise and Growth of Economic Nationalism* (Bipan Chandra) |
+| M.K. Gandhi | *Hind Swaraj* (1909) | *My Experiments with Truth* (his own autobiography — a different book) |
+| Jawaharlal Nehru | *The Discovery of India* (1946) | *Toward Freedom* (his autobiography) |
+| Abul Kalam Azad | *India Wins Freedom* | *Freedom at Midnight* (Collins & Lapierre) |
+| B.G. Tilak | *Gita Rahasya* | *Arctic Home in the Vedas* (his **other** book) |
+| Jyotiba Phule | *Gulamgiri* (1873) | *Annihilation of Caste* (Ambedkar) |
+| B.R. Ambedkar | *Annihilation of Caste* (1936) | *Pakistan or the Partition of India* (his **other** book, not Jinnah's) |
+| Lala Lajpat Rai | *The Story of My Deportation*; *Unhappy India* (1928) | *Mother India* (Katherine Mayo — the book he was replying to) |
+| V.D. Savarkar | *The Indian War of Independence* (1909) | *Hindutva* (1923, his **other** book); *Anandamath* (Bankim, not Savarkar) |
+| Rajendra Prasad | *India Divided* | *Pakistan or the Partition of India* (Ambedkar) |
+| Surendranath Banerjee | *A Nation in Making* | never Lajpat Rai or Gokhale |
+| Subhas Chandra Bose | *The Indian Struggle*; *An Indian Pilgrim* | never Bhagat Singh |
+| Katherine Mayo | *Mother India* (1927) | never an Indian author |
+
+### One-home rule
+
+- **Book ↔ author lock** lives here (Topic 10). The **political context** behind a book (why Naoroji wrote the drain critique, why Savarkar wrote from London) has its fuller home in **Topics 9 and 11**; this topic keeps only the title-and-author fact plus one line of context.
+- Bhojpuri literature stays a **UP-focus block** here — do not scatter it into the socio-religious reform topic.
+
+> **Exam note:** Any twin pair above (same author, two books) is a **standing UPPCS trap**. Learn the pair, not just one title.
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
-> **45 questions.** Mix: Match-List, multi-statement, A/R, NOT-matched, chronology of publication.
+> **51 questions.** Mix: Match-List, multi-statement, A/R, NOT-matched, chronology of publication.
 
 ---
 
@@ -1418,6 +1525,129 @@ D. Neither 1 nor 2
 
 ---
 
+**Q46.** With reference to *The Indian War of Independence*, which of the following statements is/are correct?
+
+1. It was written by V.D. Savarkar and published in 1909.  
+2. It treats the Revolt of 1857 as India's first war of independence rather than a mutiny.
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
+**Q47.** Which of the following pairs is NOT correctly matched?
+
+A. The Indian War of Independence — V.D. Savarkar
+
+B. Hindutva: Who is a Hindu? — V.D. Savarkar
+
+C. Mother India — Lala Lajpat Rai
+
+D. Unhappy India — Lala Lajpat Rai
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — *Mother India* = **Katherine Mayo**; Lajpat Rai wrote the reply, *Unhappy India*.
+
+</details>
+
+---
+
+**Q48.** Assertion (A): *Mother India* by Katherine Mayo was criticised as colonial propaganda by Indian nationalists.
+
+Reason (R): Lala Lajpat Rai wrote *Unhappy India* as a direct reply to it.
+
+Options:  
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — both true; the reply is evidence of the criticism, not its cause.
+
+</details>
+
+---
+
+**Q49.** Match List-I with List-II.
+
+**List-I (GG/Viceroy)** A. Lord Curzon  B. Lord Hardinge  C. Lord Lytton  D. Lord Wavell  
+**List-II (Book)** 1. My Indian Years  2. The Viceroy's Journal  3. Problems of the Far East  4. Lucile (as Owen Meredith)
+
+A. 3 1 4 2
+
+B. 1 3 4 2
+
+C. 3 1 2 4
+
+D. 4 1 3 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
+**Q50.** With reference to Warren Hastings and the *Bhagavad Gita*, which of the following statements is/are correct?
+
+1. Charles Wilkins produced the first English translation of the Gita in 1785.  
+2. Warren Hastings himself translated the Gita and wrote its preface.
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Hastings **patronised** the translation and wrote the preface; he did not translate it himself.
+
+</details>
+
+---
+
+**Q51.** Which of the following is NOT correctly matched?
+
+A. Problems of the Far East — Curzon
+
+B. My Indian Years — Hardinge
+
+C. The Viceroy's Journal — Wavell
+
+D. The Viceroy's Journal — Mountbatten
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — *The Viceroy's Journal* is **Wavell's** posthumous diary, not Mountbatten's.
+
+</details>
+
+---
+
 ## Complete PYQ Bank
 
 ### UPPCS Prelims 2021
@@ -1515,3 +1745,9 @@ D. Bipin Chandra
 18. **Nation in Making = Lajpat Rai / Gokhale** → **Surendranath Banerjee**.
 19. **Young India book = always Gandhi** → Gandhi’s *Young India* is a **paper**; Lajpat Rai also has a **book** of that name.
 20. **Vande Mataram = national anthem** → national **song** from *Anandamath*; anthem is *Jana Gana Mana*.
+21. **The Indian War of Independence = Bankim / Bipan Chandra** → **V.D. Savarkar, 1909**.
+22. **Savarkar wrote only one book** → he also wrote *Hindutva* (1923); do not merge the two Savarkar titles.
+23. **Mother India = an Indian nationalist author** → **Katherine Mayo**, an American writer; the nationalist reply is Lajpat Rai's *Unhappy India*.
+24. **My Indian Years = Curzon** → **Lord Hardinge**; Curzon's tag is *Problems of the Far East*.
+25. **The Viceroy's Journal = Mountbatten** → **Lord Wavell**'s posthumous diary.
+26. **Warren Hastings translated the Gita** → he **patronised** Charles Wilkins's 1785 translation and wrote its preface.

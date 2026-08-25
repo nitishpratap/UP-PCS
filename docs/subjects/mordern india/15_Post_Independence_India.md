@@ -1,15 +1,15 @@
 # Topic 15 — Post-Independence India
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥45)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥50)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Community Development Programme | Etawah Pilot Project | Post-Independence India | Integration of Princely States | Constitution Making | States Reorganisation | Planning Commission | Five-Year Plans
+Community Development Programme | Etawah Pilot Project | Post-Independence India | Integration of Princely States | Integration of French and Portuguese Enclaves (Goa, Pondicherry) | Constitution Making | States Reorganisation | Planning Commission | Five-Year Plans | Early Foreign Policy (Panchsheel, NAM)
 
 </details>
 
 > **Sources baked in:** NCERT Politics in India since Independence, Spectrum post-1947, Bipan Chandra, UPPCS Prelims 2018–2025  
-> **Exam weight:** ★★★ — SRC members, CA chronology/committees, Etawah–CDP, PC→NITI, FYP slogans, princely cases  
+> **Exam weight:** ★★★ — SRC members, CA chronology/committees, Etawah–CDP, PC→NITI, FYP slogans, princely cases, enclave merger routes (Goa/Pondicherry)  
 > **Last verified:** August 2026  
 > **Current Affairs:** NITI Aayog (1 Jan 2015) as successor of Planning Commission only — not NITI index reports
 
@@ -29,6 +29,14 @@ CA: first met 9 Dec 1946 | Objective Res. 13 Dec 1946 | Flag 22 Jul 1947
     Drafting 29 Aug 1947 (Ambedkar) | Adopted 26 Nov 1949 | Commenced 26 Jan 1950
     2023 Q3: IV, I, II, III
     2025 Q82: Union Const. Nehru / Rules Prasad / Drafting Ambedkar / FR sub-cttee Kripalani = 4,1,3,2
+
+ENCLAVES: Chandernagore referendum 19 Jun 1949 → de facto 1950 → into West Bengal 2 Oct 1954
+    Pondicherry+Karaikal+Mahe+Yanam: Kizhoor referendum 18 Oct 1954 → de facto 1 Nov 1954 → de jure 1962 (UT)
+    Goa+Daman+Diu: Portugal refused talks → Operation Vijay 18–19 Dec 1961 → UT 1962 → Goa State 1987
+    Dadra & Nagar Haveli: local action 1954 → UT by 10th Amendment 1961
+
+FOREIGN POLICY (brief): Panchsheel 29 Apr 1954 India–China (five principles)
+    NAM first summit Belgrade 1961 | Bandung 1955 = echo/mood, not the first NAM summit
 
 ETAWAH 1948 Albert Mayer (UP) → CDP 2 Oct 1952 → NES 1953
     2025 Q134: CDP → DPAP → Food for Work → TRYSEM = 2, 4, 1, 3
@@ -52,6 +60,9 @@ PC Mar 1950 extra-constitutional | “Economic Cabinet” Ashok Chanda  ← 2018
 | CDP | NES | Intensive projects 1952 vs wider extension 1953 | सीडीपी / एनईएस |
 | IoA | Standstill | Three subjects ceded vs interim status-quo | अधिमिलन / स्टैन्डस्टिल |
 | Junagadh | Hyderabad | Plebiscite vs Police Action 1948 | जूनागढ़ / हैदराबाद |
+| Chandernagore | Pondicherry group | Merged into **West Bengal 1954** vs stayed a separate **UT, de jure 1962** | चंद्रनगर / पुदुचेरी |
+| Pondicherry 1954 | Goa 1961 | French referendum route vs Portuguese military route (**Operation Vijay**) | पुदुचेरी / गोवा |
+| Goa UT 1962 | Goa State 1987 | 12th Amendment made it a UT vs full statehood 25 years later | गोवा संघ शासित / गोवा राज्य |
 | Adopted | Commenced | **26 Nov 1949** vs **26 Jan 1950** | अंगीकृत / लागू |
 | Dhar 1948 | SRC 1953 | Against language basis vs language accepted with limits | धर / एसआरसी |
 | SRC | Act 1956 | Commission (Fazl Ali) vs statute **1 Nov 1956** | आयोग / अधिनियम |
@@ -59,6 +70,21 @@ PC Mar 1950 extra-constitutional | “Economic Cabinet” Ashok Chanda  ← 2018
 | PC | NITI | Plan body 1950–2014 vs think-tank from 2015 | योजना / नीति |
 | 1st Plan | 2nd Plan | Agriculture/CDP vs heavy industry (Mahalanobis) | प्रथम / द्वितीय |
 | Part A | Part B (1950) | Governor’s provinces vs princely unions | ए / बी राज्य |
+
+---
+
+## Memory Tricks
+
+| Trick | Remembers |
+|-------|-----------|
+| **Patel picked, Menon merged** | Integration duo — **Sardar Patel** (political will) + **V.P. Menon** (legal drafting) |
+| **Vote, fight, sign under fire** | Three princely routes — Junagadh **plebiscite**, Hyderabad **Police Action**, J&K **IoA amid invasion** |
+| **French say yes, Portuguese say no** | Chandernagore/Pondicherry joined by **referendum** (1949/1954); Goa needed **Operation Vijay** (1961) |
+| **Two dates for one enclave group** | Pondicherry group: **de facto 1954**, **de jure only 1962** — the ratification lagged 8 years |
+| **Fazl Ali chairs, Panikkar and Kunzru sit** | SRC trio — **not** K.T. Shah, **not** Sitaramayya (he sits on **JVP**) |
+| **Mahalanobis builds steel, Mayer builds a village** | 2nd Plan = heavy industry; 1st Plan = CDP/agriculture (Etawah blueprint) |
+| **PC is a resolution, not an Article** | Planning Commission is extra-constitutional (Cabinet resolution, 1950); **Article 280 is the Finance Commission** |
+| **NITI nudges, PC funded** | NITI Aayog (2015) is a think-tank; the old PC allocated Plan money |
 
 ---
 
@@ -137,6 +163,62 @@ D. IV, III, II, I
 **Ans: C**
 
 </details>
+
+### French Settlements — Chandernagore and the Pondicherry group
+
+**Places:** Chandernagore (Bengal); Pondicherry, Karaikal, Mahe and Yanam (the four-enclave "Pondicherry group")
+
+- Chandernagore voted to join India in a referendum on **19 June 1949**.
+- France handed over de facto control on **2 May 1950**.
+- The de jure transfer of sovereignty came on **9 June 1952**, under a Treaty of Cession signed in Paris.
+- Chandernagore merged into **West Bengal** on **2 October 1954**, under the Chandernagore (Merger) Act, 1954.
+- The remaining four French enclaves voted for merger at the **Kizhoor referendum** on **18 October 1954**.
+- France transferred them de facto on **1 November 1954**.
+- The Treaty of Cession for Pondicherry, Karaikal, Mahe and Yanam was signed on **28 May 1956**.
+- Ratification instruments were exchanged only on **16 August 1962**, completing the de jure merger.
+- The **14th Constitutional Amendment, 1962**, made Pondicherry a Union Territory.
+
+> **Exam note:** Chandernagore is **not** part of the Pondicherry Union Territory. It joined **West Bengal** as a district; the other four enclaves became their **own UT**.
+
+### Portuguese Goa, Daman and Diu — Operation Vijay (1961)
+
+- Portugal, unlike France, refused to negotiate a transfer.
+- India used the armed forces in **Operation Vijay**, on **18–19 December 1961**.
+- Goa, Daman and Diu came under Indian control within about 36 hours, with light resistance.
+- The **12th Constitutional Amendment, 1962**, made Goa, Daman and Diu a Union Territory.
+- **Goa became a full State on 30 May 1987.** Daman and Diu stayed a Union Territory.
+- **Dadra and Nagar Haveli** was a separate Portuguese pocket. Local action brought it in during 1954, and it became a Union Territory under the **10th Amendment, 1961**.
+
+> **Exam note:** French enclaves joined by **referendum** (1949 and 1954). Goa joined by **military action** (**1961**). Dadra and Nagar Haveli is a **third, separate** case, also 1954.
+
+**PYQ-style drill — enclave route match**
+
+Match List-I with List-II.
+
+**List-I (Territory)** A. Chandernagore  B. Pondicherry group  C. Goa, Daman and Diu  D. Dadra and Nagar Haveli  
+**List-II (Route)** 1. Operation Vijay, 1961  2. Kizhoor referendum, 1954  3. Local action; 10th Amendment 1961  4. Referendum, 1949; merged into West Bengal 1954
+
+A. 4 2 1 3
+
+B. 2 4 1 3
+
+C. 4 2 3 1
+
+D. 1 2 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+### Early foreign policy — brief (Panchsheel and NAM)
+
+- Nehru's early foreign policy avoided joining either Cold War bloc.
+- **Panchsheel** was signed with China on **29 April 1954**. Its five principles include mutual non-interference and peaceful coexistence.
+- The **Non-Aligned Movement** held its first summit at **Belgrade in 1961**.
+- The **Bandung Conference of 1955** echoed the Panchsheel principles for Asia and Africa. It was **not** the first NAM summit.
 
 ---
 
@@ -554,6 +636,36 @@ D. 12th
 
 ---
 
+## Must-score locks — integration, enclaves and plans
+
+### Territory ↔ route ↔ year merged
+
+| Territory | Route | Year merged |
+|-----------|-------|-------------|
+| Jammu and Kashmir | IoA amid tribal invasion | 1947 |
+| Junagadh | Plebiscite | 1948 |
+| Hyderabad | Police Action (Operation Polo) | 1948 |
+| Chandernagore | Referendum + treaty | De facto 1950; into West Bengal 1954 |
+| Dadra and Nagar Haveli | Local action; UT | 1954; UT by 10th Amendment 1961 |
+| Pondicherry, Karaikal, Mahe, Yanam | Kizhoor referendum + treaty | De facto 1954; de jure 1962 |
+| Goa, Daman and Diu | Operation Vijay (military) | 1961; UT by 12th Amendment 1962; Goa State 1987 |
+
+### Five-Year Plan ↔ signature lock
+
+| Plan | Signature |
+|------|-----------|
+| 1st (1951–56) | Agriculture, irrigation, CDP |
+| 2nd (1956–61) | Mahalanobis; Bhilai / Rourkela / Durgapur |
+| 3rd (1961–66) | Self-reliance derailed by wars and drought |
+| 4th (1969–74) | Growth with stability |
+| 5th (1974–79) | Garibi Hatao |
+| 8th (1992–97) | Liberalisation |
+| 12th (2012–17) | Sustainable growth — the **last** Five-Year Plan |
+
+> **Exam note:** Do not swap the enclave dates — de facto merger and de jure/legal completion can be years apart, especially for Pondicherry (1954 vs 1962).
+
+---
+
 ## UP Focus
 
 | Lock | Detail |
@@ -566,7 +678,7 @@ D. 12th
 
 ## Practice Zone — UPPCS Format Drill
 
-> **45 questions.** Mix: chronology, multi-statement, Match-List, A/R, NOT-matched.
+> **50 questions.** Mix: chronology, multi-statement, Match-List, A/R, NOT-matched.
 
 ---
 
@@ -1499,6 +1611,107 @@ D. Only 1
 
 ---
 
+**Q46.** With reference to the merger of French settlements in India, which of the following statements is/are correct?
+
+1. Chandernagore merged into West Bengal in 1954.  
+2. Pondicherry, Karaikal, Mahe and Yanam became a Union Territory the same year Chandernagore merged.
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Pondicherry group's de jure merger was only in **1962**.
+
+</details>
+
+---
+
+**Q47.** Operation Vijay, by which Goa, Daman and Diu were freed from Portuguese rule, was conducted in:
+
+A. October 1947
+
+B. December 1961
+
+C. August 1962
+
+D. May 1987
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — 18–19 December 1961.
+
+</details>
+
+---
+
+**Q48.** Which of the following pairs is NOT correctly matched?
+
+A. Chandernagore — merged into West Bengal, 1954
+
+B. Pondicherry group — de jure merger, 1962
+
+C. Goa — Operation Vijay, 1961
+
+D. Goa — became a Union Territory in 1987
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Goa was a **UT from 1962** and a **full State from 1987**.
+
+</details>
+
+---
+
+**Q49.** Panchsheel, the five principles agreed between India and China, was signed in:
+
+A. 1950
+
+B. 1954
+
+C. 1955
+
+D. 1961
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — 29 April 1954. Bandung (1955) echoed it; NAM's first summit was Belgrade (1961).
+
+</details>
+
+---
+
+**Q50.** Consider the following statements:
+
+1. French enclaves in India were transferred to India mainly through referendums.  
+2. Goa was transferred to India in the same manner, through a referendum.
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Goa required **Operation Vijay**; Portugal refused a referendum route.
+
+</details>
+
+---
+
 ## Complete PYQ Bank
 
 ### UPPCS Prelims 2025
@@ -1807,3 +2020,6 @@ D. Administrative Reform Commission
 16. **Bombay split = 1956** → **1 May 1960**.
 17. **Drafting Committee = Dec 1946** → **29 August 1947**.
 18. **NITI replaced Finance Commission** → replaced **Planning Commission**.
+19. **Chandernagore = same as the Pondicherry group** → Chandernagore merged into **West Bengal, 1954**; Pondicherry group is a **separate UT**, de jure only in **1962**.
+20. **Goa joined by referendum, like Pondicherry** → Goa needed **Operation Vijay, 1961**; Portugal refused talks.
+21. **Panchsheel = NAM's founding year** → Panchsheel **1954**; NAM's first summit is **Belgrade, 1961**. Bandung (1955) is a related mood, not the first NAM summit.

@@ -400,3 +400,5 @@
 - Eka Movement
 - Awadh Kisan Sabha
 - Bardoli Satyagraha
+
+> **Homes (Aug 2026 pass):** British Acts teaching cards live in Topic 3 (GG & Viceroys). Expansion wars / Subsidiary / Lapse / frontiers live in Topic 2. Vault match-tables live in Topic 16. Do not treat PYQs as the syllabus ceiling.

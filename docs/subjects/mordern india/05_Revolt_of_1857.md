@@ -52,6 +52,49 @@ Company ends 1858 — first Viceroy = Canning
 | Annexation of Awadh | Doctrine of Lapse | Awadh taken for “misrule” in 1856 vs states taken when there was no natural heir | अवध अधिग्रहण / विलुप्ति सिद्धांत |
 | Bahadur Shah Zafar | Bakht Khan | Nominal emperor at Delhi vs real military organiser | बहादुर शाह ज़फ़र / बख़्त खान |
 | Company rule | Crown rule | Revolt took place under the Company; Crown took over in 1858 | कंपनी शासन / क्राउन शासन |
+| Sepoy Mutiny / First War / peasant war | Historiography labels | British official name vs Savarkar 1909 vs later social readings — centres/leaders still matter more | इतिहास-लेखन |
+
+---
+
+## Memory Tricks
+
+| Trick | Remembers |
+|-------|-----------|
+| **Pandey spark, Meerut start** | **29 March** Barrackpore; **10 May** Meerut mass outbreak |
+| **Delhi symbol, Bakht army** | Zafar nominal; **Bakht Khan** real organiser |
+| **Kanpur Nana, Tantia gun** | Political vs military |
+| **Lucknow Begum, Bareilly Khan** | Hazrat Mahal ≠ Khan Bahadur Khan |
+| **Jhansi Lapse, Awadh misrule** | Different annexation tools |
+| **Faizabad Ahmadullah, Allahabad Liaquat** | Two UP maulvis, two cities |
+| **Queen at Allahabad** | Proclamation **1 Nov 1858** |
+| **Canning first Viceroy** | Not Dalhousie |
+
+---
+
+## 5.0 One clear picture — why 1857 rose and fell
+
+| Stage | Lock |
+|-------|------|
+| Long causes | Lapse, Awadh 1856, revenue, mission fear, sepoy grievances |
+| Spark | Greased cartridge + Barrackpore / Meerut |
+| Spread | Delhi symbol → UP–Bihar–Central India belt |
+| Suppression | Loyal princes, Punjab/South quiet, telegraph/rail, no central command |
+| Aftermath | **GOI Act 1858**, Queen’s Proclamation, army reorganised, Crown rule |
+
+**Why Punjab and the South stayed mostly loyal / quiet**
+
+- Recent Sikh wars left Punjab under tight Company control with Sikh chiefs allied to the British.
+- Madras and Bombay armies had different recruitment patterns and fewer high-caste Bengal Army grievances.
+- Many southern princes and Hyderabad backed the Company.
+- The revolt’s core was the **Bengal Army** belt of North India, not a pan-India plan.
+
+**Nature of the revolt (historiography — keep short)**
+
+- British writers stressed a **sepoy mutiny**.
+- **Savarkar (1909)** called it the **First War of Independence**.
+- Later historians stress peasant, taluqdar and regional strands as well. UPPCS still tests **centres, leaders, dates and consequences** hardest.
+
+> **Exam note:** Labels matter less than **Meerut 10 May**, centre↔leader matches, and **1858 Crown**.
 
 ---
 
@@ -244,6 +287,33 @@ Centre, leader and start-date are in the table above. These are the other places
 - Large parts of the South and Punjab did not join.
 
 > **Exam note:** Crown rule begins in **1858**, not on 10 May 1857. Canning, not Dalhousie, was the first Viceroy.
+
+---
+
+## Must-score locks — centres, leaders, aftermath
+
+### Centre ↔ leader
+
+| Centre | Leader |
+|--------|--------|
+| Delhi | Bahadur Shah Zafar (symbol) / Bakht Khan (army) |
+| Kanpur | Nana Sahib + Tantia Tope |
+| Lucknow | Begum Hazrat Mahal |
+| Jhansi / Gwalior | Rani Lakshmibai |
+| Bareilly | Khan Bahadur Khan |
+| Jagdishpur | Kunwar Singh |
+| Faizabad | Maulvi Ahmadullah Shah |
+| Allahabad | Maulvi Liaquat Ali |
+
+### Date locks
+
+| Event | Date |
+|-------|------|
+| Mangal Pandey, Barrackpore | **29 March 1857** |
+| Meerut outbreak | **10 May 1857** |
+| Jhansi rising | **June 1857** (not 11 May) |
+| Queen’s Proclamation, Allahabad | **1 November 1858** |
+| First Viceroy | **Canning** |
 
 ---
 

@@ -70,6 +70,26 @@ KANPUR CONSPIRACY 1924: M.A. Ansari NOT associated     ← 2021 Q86
 | Delhi Durbar 1911 | Lucknow Pact 1916 | Annulment + capital vs Congress–League deal | दिल्ली दरबार / लखनऊ |
 | Muzaffarpur 1908 | Alipore 1908 | Kingsford attempt (Khudiram–Chaki) vs Manicktolla conspiracy trial | मुजफ्फरपुर / अलीपुर |
 | India House | Ghadar | London hub (Shyamji) vs 1913 N. America party | इंडिया हाउस / ग़दर |
+| Delhi Durbar 1877 | Delhi Durbar 1911 | Lytton proclaims Victoria Empress of India vs Hardinge annuls partition and shifts the capital | दिल्ली दरबार 1877 / 1911 |
+| Stuttgart flag 1907 | Berlin Committee 1915 | Madam Cama unfurls a tricolour at a Socialist Congress vs a wartime Europe plot with German help | स्टुटगार्ट ध्वज / बर्लिन समिति |
+| Bengal Swadeshi orgs | Bengal revolutionary orgs | Banerjee/Pal/Tagore/Aurobindo open politics vs Anushilan/Jugantar secret action | स्वदेशी संगठन / क्रांतिकारी संगठन |
+
+---
+
+## Memory Tricks
+
+| Trick | Remembers |
+|-------|-----------|
+| **Curzon cuts, Hardinge heals** | Partition **1905** by Curzon; annulment + capital shift **1911** under Hardinge |
+| **Seven at Town Hall** | Boycott Resolution = **7 August 1905**, Calcutta Town Hall |
+| **Barisal Dutt, Tuticorin Pillai** | Ashwini Kumar Dutt = Swadesh Bandhab Samiti (Barisal); V.O.C. Pillai = Swadeshi Steam Navigation (Tuticorin) |
+| **Anushilan hits Hardinge, Jugantar hits Kingsford** | 1912 Delhi bomb = Anushilan; 1908 Muzaffarpur bomb = Jugantar circle |
+| **Savarkar's Bharat, Shyamji's House** | Abhinav Bharat = Savarkar, Nasik; India House = Shyamji Krishna Varma, London |
+| **Cama waves it at Stuttgart** | 1907, Germany, Socialist Congress — an early Indian tricolour, green–yellow–red |
+| **Ghadar sails first, Berlin plots later** | 1913 San Francisco before 1915 wartime Europe committee |
+| **HRA robs a train, HSRA storms an Assembly** | Kakori 1925 = HRA; Central Assembly bomb 1929 = HSRA |
+| **Bismil's cradle, Bismil's grave** | Born Shahjahanpur; hanged Gorakhpur — two different UP towns |
+| **Master-da's hill, Master-da's fall** | Surya Sen holds Jalalabad hill in 1930; captured 1933; hanged 1934 |
 
 ---
 
@@ -159,17 +179,32 @@ D. Neither 1 nor 2
 - Moderates wanted boycott of **goods** and British public opinion. Extremists wanted **passive resistance** and Swaraj language. That fight ends at **Surat 1907**.
 - After 1908 the open movement is crushed; many youth go into **Anushilan / Jugantar**.
 
-> **Exam note:** Boycott Resolution = **7 Aug 1905**. NCE = **1906**. Swaraj as Congress goal = **Calcutta 1906**.
+### Bengal Swadeshi leaders map
+
+| Leader | Role in Swadeshi | Exam tag |
+|--------|-------------------|----------|
+| **Surendranath Banerjee** | Moderate Bengal voice who still backed Swadeshi and boycott in 1905–06 | *A Nation in Making*; later joined Indian Association politics |
+| **Bipin Chandra Pal** | Extremist orator of the **Lal–Bal–Pal** trio; preached passive resistance and full boycott | Edited *New India*; pushed Swaraj as a right |
+| **Rabindranath Tagore** | Wrote ***Amar Sonar Bangla*** as the anti-Partition anthem; organised **Rakhi Bandhan** on 16 October 1905 | Later grew uneasy with Extremist violence |
+| **Aurobindo Ghosh** | Principal of **Bengal National College**; edited ***Bande Mataram***; moved from open politics into the Jugantar underground before Pondicherry | Acquitted in the Alipore Case (1908–09) |
+
+- Banerjee kept faith in constitutional protest even as the movement radicalised around him.
+- Pal and Tilak supplied the all-India Extremist voice; Lajpat Rai supplied Punjab.
+- Tagore's song and the Rakhi ceremony fused **cultural** protest with the **political** boycott.
+- Aurobindo is the bridge figure: he ran the open National College **and** moved through the secret Jugantar circle before he left politics for good.
+
+> **Exam note:** Boycott Resolution = **7 Aug 1905**. NCE = **1906**. Swaraj as Congress goal = **Calcutta 1906**. Match leader ↔ role, not leader ↔ organisation names alone.
 
 ---
 
-## 11.4 Delhi Durbar (1911)
+## 11.4 Delhi Durbar — 1877 and 1911
 
-**King:** George V (only reigning British sovereign to visit India as king-emperor)  
-**Year:** **1911**  
-**Viceroy:** Hardinge
+**1877 Durbar:** Viceroy **Lytton**; proclaimed **Queen Victoria as Empress of India** at Delhi. It was an assertion of imperial pageantry, not a partition-related event.
 
-- The Durbar had two exam locks.
+**1911 Durbar:** Viceroy **Hardinge**; king-emperor **George V** attended in person, the only reigning British sovereign to visit India as king-emperor. This is the exam-heavy Durbar.
+
+- Do not merge the two Durbars. **1877** = title (Empress of India). **1911** = annulment of Partition **and** the capital shift.
+- The Durbar of **1911** had two exam locks.
 - **Partition of Bengal was annulled**.
 - The **capital shifted from Calcutta to Delhi**.
 - **2025 Q6:** of (1) partition revoked (2) capital to Delhi (3) Lucknow Pact — only **1 and 2** belong to 1911. Lucknow Pact = **1916**.
@@ -315,7 +350,23 @@ D. Pulin Bihari
 
 ---
 
-## 11.9 Ghadar Party
+## 11.9 Madam Bhikaji Cama and the Stuttgart Flag (1907)
+
+**Who:** **Bhikaji Rustom Cama**, Parsi revolutionary from Bombay, based in Paris/London after 1902  
+**Event:** **22 August 1907**, International Socialist Congress, **Stuttgart**, Germany
+
+- Madam Cama worked with the London **India House** circle around Shyamji Krishna Varma and with **S.R. Rana** and **Munchershah Godrej** in Paris.
+- At Stuttgart she unfurled what is remembered as an **early version of the Indian national flag**: horizontal green–yellow–red bands, with **eight lotuses** for the eight then-provinces, ***Vande Mataram*** in the centre band, and a sun and crescent at the ends.
+- She appealed to the international socialist delegates for support of India's freedom, calling the flag "the flag of Indian independence."
+- She published the paper ***Bande Mataram*** from Paris and later ***Madan's Talwar*** in memory of Madan Lal Dhingra.
+- The French government, under British pressure, kept her under watch; she could not return to India until near her death in **1936**.
+- Do not confuse her Stuttgart flag (1907) with the **Berlin Committee** (1915), a separate, later wartime plot in Europe.
+
+> **Exam note:** Cama = **1907 Stuttgart flag**, Paris base. Berlin Committee = **1915** wartime plot, different generation of émigré politics.
+
+---
+
+## 11.10 Ghadar Party
 
 **Year:** **1913**  
 **Place:** **San Francisco** (Pacific Coast; earlier Hindi Association, Portland/Astoria)  
@@ -327,7 +378,7 @@ D. Pulin Bihari
 - Canada turned it back. Shooting followed at Budge Budge near Calcutta.
 - Ghadar used it as proof of a racial empire.
 - In **1914–15** Ghadarites returned to Punjab to spark mutiny. The rising failed (February 1915). Many were hanged or jailed in the **Lahore Conspiracy** trials.
-- **Indian Independence Committee, Berlin, 1915** (Virendranath Chattopadhyay, Bhupendranath Dutta, with German wartime help) is a **separate** Europe plot. **2022 Q38** places Ghadar **before** Berlin.
+- The Berlin Committee of the same wartime years is a related but separate story with its own card below. **2022 Q38** places Ghadar **before** Berlin.
 
 > **Exam note:** Ghadar = **1913 San Francisco**. Berlin Committee = **1915**. Order in 2022: Ghadar → Berlin → Assembly 1929 → Chittagong 1930.
 
@@ -357,7 +408,24 @@ D. III, I, II and IV
 
 ---
 
-## 11.10 Hindustan Republican Association (HRA)
+## 11.11 Berlin Committee (Indian Independence Committee, 1915)
+
+**Founded:** **1915**, Berlin  
+**Key figures:** **Virendranath Chattopadhyay**, **Bhupendranath Dutta**, with German Foreign Office wartime support  
+**Aim:** use Germany's war against Britain to arm and fund an Indian rising
+
+- The First World War gave émigré revolutionaries in Europe a state sponsor. Germany wanted to destabilise British India.
+- The committee tried to smuggle arms to India, link with Ghadar returnees in Punjab, and stir mutiny among Indian troops and prisoners of war.
+- **Har Dayal**, already active with Ghadar in America, also moved through this German-backed network for a time.
+- An attempted German arms shipment to India (the **Annie Larsen/Maverick affair**, on the American coast) was intercepted by the Americans in 1915–17.
+- The plan failed to trigger a mass rising, but it kept revolutionary diplomacy alive through the war years.
+- Keep Berlin **1915** distinct from Ghadar **1913** (America) and from Cama's Stuttgart flag **1907** (pre-war).
+
+> **Exam note:** Berlin Committee **1915** = wartime Europe plot. **2022 Q38** order: Ghadar (1913) → Berlin (1915) → Assembly bomb (1929) → Chittagong (1930).
+
+---
+
+## 11.12 Hindustan Republican Association (HRA)
 
 **Year:** **1924**  
 **Place of organisation:** **Kanpur**  
@@ -372,7 +440,7 @@ D. III, I, II and IV
 
 ---
 
-## 11.11 Hindustan Socialist Republican Association (HSRA)
+## 11.13 Hindustan Socialist Republican Association (HSRA)
 
 **Year:** **September 1928**  
 **Place:** **Feroz Shah Kotla**, Delhi  
@@ -414,7 +482,7 @@ D. Ambika Chakravarti
 
 ---
 
-## 11.12 Kakori Conspiracy (1925) — UP Focus
+## 11.14 Kakori Conspiracy (1925) — UP Focus
 
 **Date:** **9 August 1925**  
 **Place:** near **Kakori**, on the Saharanpur–Lucknow line (before Lucknow)  
@@ -438,7 +506,7 @@ D. Ambika Chakravarti
 
 ---
 
-## 11.13 Chittagong Armoury Raid (1930)
+## 11.15 Chittagong Armoury Raid (1930)
 
 **Date:** **18 April 1930**  
 **Place:** Chittagong (Bengal; now Bangladesh)  
@@ -459,7 +527,7 @@ D. Ambika Chakravarti
 
 ---
 
-## 11.14 Other Revolutionary Events
+## 11.16 Other Revolutionary Events
 
 ### Chapekar brothers (1897)
 
@@ -508,6 +576,20 @@ D. M.A. Ansari
 | Lahiri | Hanged **Gonda** |
 | Roshan Singh | Hanged **Naini** |
 | Azad | Died **Alfred Park, Allahabad, 27 Feb 1931** |
+
+---
+
+## Must-Score Locks
+
+- Partition of Bengal is **1905** (Curzon); annulment plus capital shift to Delhi is **1911** (Hardinge). The **1877** Durbar (Lytton) only proclaimed Victoria as Empress — do not merge the three Durbars.
+- The Boycott Resolution is **7 August 1905**; the National Council of Education follows in **August 1906**.
+- Bengal's Swadeshi voice runs through **Banerjee (Moderate), Pal (Extremist orator), Tagore (song and Rakhi) and Aurobindo (National College, then Jugantar)**.
+- Madam Cama's flag at **Stuttgart is 1907**; the **Berlin Committee is 1915** — two different generations of émigré politics, not the same event.
+- The Hardinge bomb of **1912** is **Anushilan**, not Jugantar; the Muzaffarpur bomb of **1908** is Jugantar's Khudiram–Chaki pair.
+- Abhinav Bharat is **Savarkar**; India House is **Shyamji Krishna Varma** — never swap the two founders.
+- HRA is **1924**; Kakori (**1925**) is HRA's action; HSRA only exists from **1928**. Kakori is never HSRA.
+- Chittagong (**1930**, Surya Sen) and the Central Assembly bomb (**1929**, Bhagat Singh and B.K. Dutt) are the two capstone HSRA-era events — keep their years apart.
+- Bismil was born at **Shahjahanpur** and hanged at **Gorakhpur**; Ashfaqulla was hanged at **Faizabad**; Azad escaped Kakori and died at **Allahabad in 1931**.
 
 ---
 

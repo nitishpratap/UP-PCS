@@ -65,6 +65,24 @@ DEADLOCK: C.R. Formula 1944 = Rajaji (NOT C.R. Das)  ← 2019 Q96
 | 3 June Plan | Independence Act | Mountbatten framework vs statute 18 July 1947 | 3 जून योजना / अधिनियम |
 | Interim announce | Interim form | **24 Aug 1946** vs **2 Sep 1946** | घोषणा / गठन |
 | Shanti Ghosh | Aruna Asaf Ali | 1931 Bengal revolutionary vs Quit India 1942 | शांति घोष / अरुणा |
+| Congress ministries 1937 | Congress ministries resign 1939 | Formed after provincial elections vs quit over WWII without consultation | कांग्रेस मंत्रिमंडल गठन / त्यागपत्र |
+| RIN Revolt Feb 1946 | Quit India Aug 1942 | Ratings' mutiny, Bombay/Karachi vs Congress mass movement | नौसेना विद्रोह / भारत छोड़ो |
+| Direct Action Day 1946 | Partition Aug 1947 | League's call for mass action vs the final territorial split | डायरेक्ट एक्शन / विभाजन |
+
+---
+
+## Memory Tricks — mission ladder 1940–47
+
+| Trick | Remembers |
+|-------|-----------|
+| **Offer, then Cripps, then Quit** | August Offer **1940** → Cripps **March 1942** → Quit India **8 Aug 1942**, each a step up in British concession and Congress refusal |
+| **Wavell talks at Simla, Cabinet talks with three ministers** | **Wavell Plan/Simla — June–July 1945**; **Cabinet Mission — three ministers, 1946** |
+| **Delegation, then Deck, then Delhi mission** | **UK Parliamentary Delegation — Jan 1946** → **RIN Revolt — Feb 1946** → **Cabinet Mission — announced Feb, arrived Mar 1946** |
+| **Announce in August, form in September** | Interim Government **announced 24 Aug 1946**; **took office 2 Sep 1946**; League joined **26 Oct 1946** |
+| **Direct Action before the last Viceroy** | Direct Action Day **16 Aug 1946** comes before **Mountbatten's** arrival in **March 1947** |
+| **Attlee names the month, Mountbatten moves the date** | Attlee's **20 Feb 1947** statement promised transfer by **June 1948**; Mountbatten's **3 June 1947** Plan advanced it to **15 August 1947** |
+| **Plan in June, Act in July, freedom in August** | **3 June** Plan → **18 July** Act → **15 August** Independence — three different July-adjacent dates, never swap them |
+| **1937 forms, 1939 resigns** | Congress ministries **formed** after the 1937 provincial elections; they **resigned** in 1939 over the war without consultation |
 
 ---
 
@@ -72,7 +90,8 @@ DEADLOCK: C.R. Formula 1944 = Rajaji (NOT C.R. Das)  ← 2019 Q96
 
 | Year | Event |
 |------|--------|
-| 1939 | Congress ministries resign (WWII, no consultation) |
+| 1937 | Provincial elections; Congress ministries **formed** in most provinces |
+| 1939 | Congress ministries **resign** (WWII, no consultation) |
 | Mar 1940 | Ramgarh Congress; League Lahore / Pakistan resolution |
 | Aug 1940 | August Offer (Linlithgow) |
 | Oct 1940 | Individual Satyagraha (Vinoba first; Nehru later) |
@@ -119,7 +138,27 @@ D. 1, 4, 2, 3
 
 ---
 
-## 14.2 Congress Socialist Party
+## 14.2 Congress Ministries (1937–39)
+
+**Election:** provincial elections under the **Government of India Act, 1935**, held in **early 1937**  
+**Result:** Congress won a majority of seats in **six provinces outright** (Madras, Bombay, UP, Bihar, Orissa, CP) and was the largest party in others
+
+- Congress first hesitated over office-acceptance, since ministries would work **inside** the 1935 Act's provincial autonomy scheme that it had itself rejected as inadequate.
+- After the Viceroy assured that provincial governors would not routinely override ministries, Congress agreed to **accept office**.
+- **Congress ministries were formed in eight provinces**: Madras, Bombay, UP, Bihar, Orissa, CP, Assam and NWFP, either alone or in coalition, through **1937**.
+- Ministries pushed **civil-liberties measures** — released political prisoners, relaxed press curbs — and some **social legislation**, such as debt-relief and tenancy protection in a few provinces.
+- The **Muslim League**, which had done poorly in Muslim-majority seats, felt shut out where Congress refused coalition offers; this experience hardened League grievances that later fed the Pakistan demand.
+- On **3 September 1939**, Britain declared India at war without consulting elected Indian opinion.
+- The **Congress Working Committee** demanded a clear statement of British war aims for India and a real move toward self-government in return for cooperation. The offer was refused.
+- Congress ministries in all eight provinces **resigned in October–November 1939** in protest.
+- The League's **Muhammad Ali Jinnah** called the resignations "**Deliverance Day**", framing Congress rule as a period of Muslim hardship now ended.
+- The two-year experience of actually running provincial government (1937–39) gave Congress valuable administrative experience and also exposed real Congress–League friction well before the 1940s.
+
+> **Exam note:** Ministries **formed 1937** after the provincial elections; they **resigned 1939** over the war. Eight provinces, not all eleven British Indian provinces.
+
+---
+
+## 14.3 Congress Socialist Party
 
 - CSP is a **1934 socialist group inside Congress**.
 - It is **not** Bose’s Forward Bloc.
@@ -130,7 +169,7 @@ D. 1, 4, 2, 3
 
 ---
 
-## 14.3 Subhas Chandra Bose
+## 14.4 Subhas Chandra Bose
 
 - He was Congress President at **Haripura 1938** and **Tripuri 1939**.
 - After the Gandhi–Bose clash he resigned.
@@ -148,7 +187,7 @@ D. 1, 4, 2, 3
 
 ---
 
-## 14.4 Forward Bloc
+## 14.5 Forward Bloc
 
 **Year:** **1939**  
 **Founder:** **Subhas Chandra Bose**
@@ -162,7 +201,7 @@ D. 1, 4, 2, 3
 
 ---
 
-## 14.5 Second World War and India
+## 14.6 Second World War and India
 
 - Britain declared India at war in **September 1939** without consulting Congress.
 - **Congress ministries resigned** in late 1939.
@@ -206,7 +245,7 @@ D. 4, 2, 3, 1
 
 ---
 
-## 14.6 Cripps Mission (March 1942)
+## 14.7 Cripps Mission (March 1942)
 
 **Who:** Sir **Stafford Cripps** (Labour, War Cabinet)  
 **When:** **March 1942** (after Japan’s advance)
@@ -224,7 +263,7 @@ D. 4, 2, 3, 1
 
 ---
 
-## 14.7 Quit India Movement (8 August 1942)
+## 14.8 Quit India Movement (8 August 1942)
 
 **Place:** Bombay (Gowalia Tank / August Kranti Maidan)  
 **Slogan:** **Do or Die**  
@@ -264,7 +303,7 @@ D. Shanti Ghosh
 
 ---
 
-## 14.8 Azad Hind Fauj and Azad Hind Government
+## 14.9 Azad Hind Fauj and Azad Hind Government
 
 - The **first INA** was raised by **Mohan Singh** in **1942** with Japanese help. A later crisis followed.
 - **Rash Behari Bose** held the Indian Independence League.
@@ -303,7 +342,7 @@ D. Veerangana Regiment
 
 ---
 
-## 14.9 INA Trials
+## 14.10 INA Trials
 
 **Where:** **Red Fort, Delhi** (**2019 Q21**)  
 **When:** **November 1945** onwards  
@@ -338,7 +377,7 @@ D. Agra Fort
 
 ---
 
-## 14.10 Political Deadlock (formulas)
+## 14.11 Political Deadlock (formulas)
 
 **C.R. Formula (1944)**
 
@@ -375,7 +414,7 @@ D. V. P. Menon
 
 ---
 
-## 14.11 Wavell Plan and Simla Conference
+## 14.12 Wavell Plan and Simla Conference
 
 **Viceroy:** Lord **Wavell**  
 **Plan announced:** **June 1945**  
@@ -392,7 +431,7 @@ D. V. P. Menon
 
 ---
 
-## 14.12 Cabinet Mission (1946)
+## 14.13 Cabinet Mission (1946)
 
 **Members:** **Pethick-Lawrence, Stafford Cripps, A.V. Alexander**  
 **In India:** March 1946  
@@ -407,7 +446,7 @@ D. V. P. Menon
 - There would be a Constituent Assembly and an interim government.
 - Provinces could later reconsider grouping.
 - The League first **accepted**, then **withdrew on 29 July 1946** after Nehru’s remarks on the Assembly’s sovereignty.
-- **Direct Action Day** followed on **16 August 1946**.
+- The League then called **Direct Action Day** for **16 August 1946** — its own full teaching card follows below.
 - The League still **joined the Interim Government on 26 October 1946**.
 - **2018 Q17:** both statements are true, but joining Interim does **not** explain the withdrawal. The answer is **B**.
 
@@ -434,17 +473,50 @@ D. (A) is false, but (R) is true
 
 ---
 
-## 14.13 Final Phase (1945–47)
+## 14.14 RIN Mutiny (18–23 February 1946)
+
+**Where:** Bombay, spreading to Karachi, Calcutta, Vizag and other naval stations  
+**Ship where it began:** ***HMIS Talwar***  
+**Rating leaders:** **M.S. Khan**, Madan Singh
+
+- Royal Indian Navy ratings mutinied over **racial discrimination, poor food and pay, and slow demobilisation** after the war, and in solidarity with the INA prisoners then on trial.
+- Ratings on *HMIS Talwar* refused duty on **18 February 1946**; the mutiny spread within days to some **seventy-odd ships and shore establishments**.
+- Bombay's working class and students joined sympathy strikes and street protests; there was firing and loss of life before the Navy restored order by **23 February**.
+- This was a **ratings' mutiny**, not a Congress-organised satyagraha, though Congress and the League both mediated to end it.
+- The mutiny showed the British that the **loyalty of the armed forces could no longer be assumed** — the same anxiety the INA trials had already exposed a few months earlier.
+- Place RIN strictly in **February 1946**, arriving after the UK Parliamentary Delegation and just before the Cabinet Mission's announcement.
+
+> **Exam note:** RIN Mutiny = **February 1946**, Bombay, *HMIS Talwar*. Not the same event as Quit India **1942**.
+
+---
+
+## 14.15 Direct Action Day and the Road to Partition
+
+**Called by:** **Muhammad Ali Jinnah** and the **Muslim League Council**  
+**Date:** **16 August 1946**
+
+- The League called Direct Action Day after the Cabinet Mission talks collapsed and after Congress alone entered the Interim Government negotiations on terms the League rejected.
+- The call was for a **province-wide general strike and mass demonstration** in support of Pakistan; it was not framed as a formal satyagraha.
+- In **Calcutta**, the day set off severe **communal killing** that ran for several days; violence then spread to **Noakhali** (East Bengal) and, in reprisal, to **Bihar**.
+- The **Great Calcutta Killings of August 1946** are treated as the opening act of the communal violence that continued into 1947.
+- Renewed rioting followed in **Punjab and the NWFP** through late 1946 and 1947 as the transfer-of-power talks dragged on.
+- **Partition** emerged from this spiral as the price both the League and, eventually, Congress accepted to stop the killing and reach a fixed transfer date — it was not a British-imposed idea from the start, but a solution both major parties came to accept by 1947.
+- The final territorial line came only with the **Mountbatten Plan (3 June 1947)** and the **Radcliffe Boundary Commission**; the human cost was **large-scale refugee movement and communal killing** on both sides of the new Punjab and Bengal borders.
+- Keep the sequence clear: **Direct Action Day (16 Aug 1946)** is the spark; **communal violence 1946–47** is the climate; the **Mountbatten Plan and Boundary Commission (1947)** is the actual partition mechanism.
+
+> **Exam note:** Direct Action Day **16 August 1946** precedes and drives the pressure toward the **June 1947** partition decision. It is a League call, not a Congress movement.
+
+---
+
+## 14.16 Final Phase (1945–47)
 
 - The **UK Parliamentary Delegation** came in **January 1946** and sat at Delhi.
-- The **RIN Revolt** ran from **18–23 February 1946** at Bombay, with Karachi and other stations.
-- It began on *HMIS Talwar*. Leaders were **M.S. Khan** and Madan Singh.
-- It was a ratings’ revolt, not a Congress satyagraha.
+- The **RIN Revolt** of **February 1946** (full card above) hit just before the Cabinet Mission's announcement.
 - Attlee **announced the Cabinet Mission on 19 February 1946**. The Mission arrived on **24 March**.
 - The **Interim Government** was announced on **24 August 1946** and took office on **2 September 1946**.
 - Nehru was Vice-President of the Executive Council. The League joined on **26 October**.
-- **Direct Action Day** was **16 August 1946**. Killing began in Calcutta, then Noakhali and Bihar.
-- **Attlee’s statement of 20 February 1947** promised transfer of power by **June 1948**.
+- **Direct Action Day (16 August 1946)** and the communal violence that followed (full card above) hardened the drive toward Partition.
+- **Attlee's statement of 20 February 1947** promised transfer of power by **June 1948**.
 - **2024 Q16** order is Delegation, then RIN, then Cabinet Mission announcement, then Interim Government.
 
 > **Exam note:** Announcement of Cabinet Mission in **February 1946** is not the same as formation of the Interim in **September 1946**.
@@ -475,7 +547,22 @@ D. 2, 4, 1, 3
 
 ---
 
-## 14.14 Mountbatten Plan (3 June 1947)
+## 14.17 Attlee's Statement (20 February 1947)
+
+**Who:** British Prime Minister **Clement Attlee**, in the House of Commons
+
+- Attlee announced that His Majesty's Government intended to transfer power to Indian hands by **a date not later than June 1948**.
+- He stated that if Indian parties could not agree on a constitution through the existing Constituent Assembly machinery, the British government would have to decide **to whom** power should be transferred — a clear signal that a united transfer was no longer guaranteed if Congress and the League stayed deadlocked.
+- The statement announced that **Lord Mountbatten would replace Wavell as Viceroy** to carry the transfer through.
+- This is the announcement that fixed a **deadline** for the first time. Everything before it (Cripps, Wavell Plan, Cabinet Mission) had offered a scheme without a hard date.
+- Mountbatten arrived in **March 1947** and, finding the June 1948 timetable unworkable given the communal violence, advanced the date to **15 August 1947** in his own Plan of 3 June.
+- Do not confuse Attlee's **February 1947** announcement (a deadline statement) with **Mountbatten's June 1947** Plan (the actual partition mechanism) or the **Indian Independence Act's July 1947** royal assent (the legal instrument).
+
+> **Exam note:** Attlee **20 Feb 1947** = June 1948 deadline + names Mountbatten. Mountbatten himself **advanced** that date to 15 August 1947.
+
+---
+
+## 14.18 Mountbatten Plan (3 June 1947)
 
 **Viceroy:** Lord **Mountbatten** (arrived March 1947)  
 **Plan:** **3 June 1947** (also called June 3 Plan)
@@ -492,7 +579,7 @@ D. 2, 4, 1, 3
 
 ---
 
-## 14.15 Indian Independence Act, 1947
+## 14.19 Indian Independence Act, 1947
 
 **Passed:** **18 July 1947** (Royal Assent)  
 **Effect:** **15 August 1947**
@@ -514,6 +601,23 @@ D. 2, 4, 1, 3
 |------|--------|
 | Ballia parallel government | **Chittu Pandey**, Quit India, UP |
 | Ramgarh 1940 | Congress session (Azad) — 2024 Q133 |
+| UP Congress ministry, 1937 | Formed after the provincial elections; **G.B. Pant** as Premier |
+| Bihar violence after Direct Action | Reprisal killings spread from Noakhali/Calcutta into **Bihar**, 1946 |
+
+---
+
+## Must-Score Locks
+
+- Congress ministries were **formed in 1937** after the provincial elections and **resigned in 1939** over the war declaration without consultation — eight provinces, not all of British India.
+- CSP (**1934**) and Forward Bloc (**1939**) are both left-of-Congress but never the same body; **Nehru sympathised with CSP but never formally joined**.
+- Bose presided at **Haripura (1938)** and **Tripuri (1939)**, then founded **Forward Bloc**; the **Azad Hind Government** dates from **21 October 1943, Singapore**.
+- Cripps (**March 1942**) offered dominion status with a province opt-out; Quit India (**8 August 1942**) followed its rejection with "Do or Die".
+- The **RIN Mutiny (February 1946)** is a ratings' revolt over pay, race and demobilisation, not a Congress satyagraha and not the same event as Quit India.
+- **Direct Action Day (16 August 1946)** was the League's call; it triggered the Calcutta–Noakhali–Bihar violence that hardened both parties toward Partition.
+- **Attlee's statement (20 February 1947)** fixed the first hard deadline, June 1948, and named Mountbatten as Viceroy; **Mountbatten's own Plan (3 June 1947)** then advanced that date to 15 August.
+- Keep the three 1947 dates apart: **Plan — 3 June**, **Act — 18 July**, **Independence — 15 August**.
+- The **C.R. Formula (1944)** is Rajagopalachari's, never C.R. Das, who died in 1925.
+- INA trials ran at the **Red Fort**, tried **Sahgal, Shah Nawaz Khan and Dhillon**; sentences were remitted after mass protest, not carried out.
 
 ---
 

@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Peasant Movements | Peasant Revolts | Leaders | Tribal Revolts | Tribal Leaders | Labour Movement | Trade Union Congress | Labour Organisations | Bonded Labour Practices | Early Uprisings Chronology | Indigo Revolt | Deccan Riots | Santhal Rebellion | Munda Ulgulan | Kol Rebellion | Moplah Rebellion | Tebhaga Movement | Bardoli Satyagraha
+Peasant Movements | Peasant Revolts | Leaders | Tribal Revolts | Tribal Leaders | Labour Movement | Trade Union Congress | Labour Organisations | Bonded Labour Practices | Early Uprisings Chronology | Indigo Revolt | Deccan Riots | Santhal Rebellion | Munda Ulgulan | Kol Rebellion | Moplah Rebellion | Tebhaga Movement | Bardoli Satyagraha | Telangana Peasant Movement | Awadh / Oudh Kisan Sabha
 
 </details>
 
@@ -74,6 +74,45 @@ Peasant Movements | Peasant Revolts | Leaders | Tribal Revolts | Tribal Leaders 
 | Dwivedi | Baba Ramchandra | UP Kisan Sabha **1918** founder tag vs Awadh peasant mobiliser | द्विवेदी / रामचंद्र |
 | Bareilly 1816 | Bareilly 1857 | Mufti Muhammad Aiwaz vs Khan Bahadur Khan | बरेली |
 | Bonded labour | Wage labour | Debt-tied unfree work vs paid factory / mill labour | बंधुआ मजदूरी / मजदूरी |
+| Tebhaga 1946–47 | Telangana 1946–51 | Bengal sharecrop share-demand vs Hyderabad armed anti-*jagirdar* struggle | तेभागा / तेलंगाना |
+| Eka 1921–22 | Awadh Kisan Sabha ~1920 | Madari Pasi's rent-receipt oath vs Baba Ramchandra's broader mobilisation | एका / अवध किसान सभा |
+
+---
+
+## Memory Tricks
+
+| Trick | Remembers |
+|-------|-----------|
+| **"Sanyasi robes, then Sepoy uniforms"** | Sanyasi–Fakir is **18th century**, well before 1857 and before Indigo |
+| **"Kol, Santhal, Munda — 31, 55, 99"** | Chotanagpur-belt tribal order: **1831 → 1855 → 1899** |
+| **"Hul is Sidhu-Kanhu; Ulgulan is Birsa"** | Different war-cries fix different leaders and decades |
+| **"Deccan burns the bond, Pabna sues the zamindar"** | Deccan 1875 = moneylender debt-bond riot; Pabna 1873–85 = legal agrarian league |
+| **"Ahom is '28, not '18-15"** | The **2018 Q23** trap year for Ahom is **1815**; correct tag is **~1828** |
+| **"Eka ties Awadh, Tebhaga ties Bengal"** | **1921–22** Awadh rent-receipt oath vs **1946–47** Bengal 2/3-share demand |
+| **"Dwivedi founds, Ramchandra roams, Sahajanand is All-India"** | 1918 UP Sabha founder vs Awadh mass mobiliser (~1920) vs 1936 AIKS |
+| **"Moplah is Malabar tenants, Bardoli is Gujarat revenue"** | 1921 violent tenancy rising vs 1928 Patel no-tax satyagraha |
+| **"Joshi to Washington, Lajpat to AITUC, Thengadi to BMS"** | 1919 ILO rep → 1920 AITUC first president → 1955 BMS founder |
+| **"UTUC wears a red (M) badge"** | UPPCS maps **UTUC → CPI(M)**; CITU is the real CPI(M) centre (trap) |
+| **"Telangana ends with the Party's call, not the Nizam's"** | Armed struggle ran **1946–51**; it closed on **CPI's October 1951** withdrawal, three years *after* the Nizam's own defeat in Police Action 1948 |
+| **"Begar is the thread"** | *Begar* (unpaid forced labour) links Awadh, Tana Bhagat, Kol and Telangana *vetti* under one grievance |
+
+---
+
+## 8.0 One clear picture — three streams of popular protest
+
+This chapter is **not** one long list. Hold three separate streams; every card below plugs into one of them.
+
+| Stream | Core grievance | Typical method | Arc across the chapter |
+|--------|----------------|-----------------|-------------------------|
+| **Peasant** | Rent, revenue, eviction, indigo/tinkathia, sharecrop share | Legal league → satyagraha → sharecropper strike → armed struggle | Pabna (1873) → Champaran/Kheda/Eka (1917–22) → Bardoli (1928) → Tebhaga / **Telangana** (1946–51) |
+| **Tribal** | Land, forest rights, *diku* moneylenders, *begar* | Millenarian faith + armed rising | Kol (1831) → Santhal (1855) → Munda (1899) → Tana Bhagat / Rampa (1914–24) |
+| **Labour** | Wages, hours, union recognition | Strike → union → legislation → party-linked federation | Madras Labour Union (1918) → AITUC (1920) → post-1947 party-wise split (INTUC/UTUC/BMS/CITU) |
+
+- Peasant and tribal streams **overlap in method** (both used armed resistance early, satyagraha later) but differ in the **target**: rent-collecting landlords/zamindars for peasants, *diku* outsiders and forest law for tribals.
+- The peasant stream has a **long tail into Independence**: Tebhaga (1946–47) and **Telangana (1946–51)** are the most radical closing chapters, both fought by Communist-led Kisan Sabhas rather than Congress.
+- The labour stream is **organisational, not agrarian** — unions, not land. Keep AITUC here as a **founding-fact lock only** (year, place, first president); the deeper left-party politics around labour (Workers and Peasants Party, Congress Socialist Party, later CITU-era realignments) has its **one home in Topic 12**.
+
+> **Exam note:** If a question names a **Nizam's State / Andhra Mahasabha / Razakars**, it is **Telangana**, not Tebhaga. If it names a **trade union federation's party tag**, check Topic 12 first for the fuller politics; this topic keeps only the union's birth facts.
 
 ---
 
@@ -226,6 +265,21 @@ D. 4, 2, 3, 1
 - The government granted partial relief. Patel’s rural organisational skill was first seen here.
 
 > **Exam note:** Kheda **1918** ≠ Bardoli **1928**. Both are Gujarat revenue satyagrahas; Bardoli is the bigger Patel card.
+
+### Oudh (Awadh) Kisan Sabha (October 1920)
+
+**Year:** **October 1920**, Pratapgarh  
+**Leader:** **Baba Ramchandra** (mass mobiliser); Congress and Home Rule volunteers helped organise  
+**Demands:** end to *nazrana* (illegal premium), reduced *begar*, security of tenure against *bedakhli*
+
+- This is a **separate body** from the **1918 United Provinces Kisan Sabha** of Dwivedi and Gauri Shankar Mishra. Do not merge the two founding dates.
+- Baba Ramchandra, a former indentured labourer returned from Fiji, held huge Awadh village meetings using Ramayana-style oral recitation to draw crowds.
+- The **UP Provincial Congress Committee** took formal notice and linked the Sabha to the wider Non-Cooperation mobilisation of 1920–21.
+- A young **Jawaharlal Nehru** toured Pratapgarh, Rae Bareli and Faizabad villages in these months and later called the experience his political education, but he did **not found** the Sabha.
+- Militancy grew faster than Congress control; taluqdar houses were looted in places, and Congress leaders tried to keep the movement non-violent and constitutional.
+- The more radical **Eka Movement (1921–22)** under **Madari Pasi** grew partly out of this same Awadh discontent when Congress pulled back from the sharper edge of tenant anger.
+
+> **Exam note:** **1918 UP Kisan Sabha** (Dwivedi) → **October 1920 Oudh Kisan Sabha** (Ramchandra) → **1921–22 Eka** (Madari Pasi). Three different Awadh-belt bodies, three different years.
 
 ### All India Kisan Sabha (1936)
 
@@ -643,7 +697,28 @@ D. Moplah Revolt
 
 ---
 
-## 8.12 Bardoli Satyagraha (1928)
+## 8.12 Telangana Peasant Movement (1946–51)
+
+**Region:** Nalgonda, Warangal, Khammam belt of the **Hyderabad State** (Telangana country, not British India directly)  
+**Against:** ***deshmukhs*** and ***jagirdars*** (big landlords), the Nizam's illegal grain levy, and ***vetti*** (unpaid forced labour)  
+**Organisers:** **Andhra Mahasabha**, then the **Communist Party of India (CPI)**-led Andhra Mahasabha; armed squads called ***dalams***  
+**Key names:** **Puchalapalli Sundarayya**, **Ravi Narayan Reddy**, **Chandra Rajeswara Rao**, **Devulapalli Venkateswara Rao**, **Makhdoom Mohiuddin** (poet-organiser)
+
+- Peasants in the Nizam's Telangana country faced *vetti* begar, illegal cesses, and eviction by *deshmukhs* who doubled as revenue farmers and moneylenders.
+- The **Andhra Mahasabha**, originally a moderate cultural-political body, radicalised through the 1940s as Communists took its leadership.
+- The spark in **1946** was resistance to grain requisitioning and to a *deshmukh*'s attempt to grab peasant land at **Kadavendi** (Warangal). Armed *dalams* began seizing landlord land and redistributing it to the tiller.
+- The Nizam's private militia, the ***Razakars*** under **Kasim Rizvi**, was used to crush the peasants and terrorise Hindus in the state; this connects Telangana to the wider Hyderabad-accession crisis.
+- India's **Police Action ("Operation Polo," September 1948)** ended the Nizam's independent rule and merged Hyderabad into the Indian Union. The **peasant struggle continued** after Police Action, now against the same landlords under the Indian administration — this is the exam trap: **1948 ends the Nizam, not the movement**.
+- At its peak the movement's *dalams* controlled villages across roughly **3,000 villages**, redistributed close to **a million acres**, and ran village communes with their own courts (*gram raj*).
+- The **CPI withdrew the armed struggle in October 1951**, ahead of the first general elections, on a changed party line. That withdrawal — not the Nizam's defeat — is the exam-correct **end date, 1951**.
+- Telangana is the **largest and only sustained armed peasant insurrection** in the freedom-and-early-Republic period, distinct from Tebhaga's disciplined harvest-time civil action.
+- It fed directly into the post-Independence push for **land-ceiling and tenancy-reform legislation** in Andhra/Hyderabad and beyond.
+
+> **Exam note:** Telangana = **1946–51, Nizam's Hyderabad, CPI-led *dalams***. Do **not** stop the movement at Police Action **1948**; the exam-correct closing year is **1951**. Do not merge with **Tebhaga (Bengal, 1946–47, sharecrop share)**.
+
+---
+
+## 8.13 Bardoli Satyagraha (1928)
 
 **Year:** **1928**  
 **Region:** **Bardoli** taluka, Surat district, Gujarat (Bombay Presidency)  
@@ -662,7 +737,9 @@ D. Moplah Revolt
 
 ---
 
-## 8.13 Labour Movement, Trade Union Congress and Labour Organisations
+## 8.14 Labour Movement, Trade Union Congress and Labour Organisations
+
+> **One-home rule:** this card keeps only the **founding facts** of each union/federation (year, place, first name). The **Workers and Peasants Party, Congress Socialist Party**, and the fuller left-politics story behind these unions live in **Topic 12 (Home Rule & Labour Politics)**. Do not duplicate that depth here.
 
 | Body | Year | Exam tag |
 |------|------|----------|
@@ -770,7 +847,7 @@ Local `pyq/2022` option strings do not list `4 1 3 2` (OCR/set mismatch). Learn 
 
 ---
 
-## 8.14 Bonded Labour Practices
+## 8.15 Bonded Labour Practices
 
 - **Bonded labour** is work tied by **debt or custom** so the worker cannot leave freely. The loan never clears; the family often inherits the debt.
 - ***Begar*** is unpaid labour taken by landlords, taluqdars or officials. It was a core Awadh and tribal grievance (Eka, Tana Bhagat, Kol, Munda).
@@ -790,15 +867,66 @@ Local `pyq/2022` option strings do not list `4 1 3 2` (OCR/set mismatch). Learn 
 | UP angle | Detail |
 |----------|--------|
 | UP Kisan Sabha 1918 | **Indra Narayan Dwivedi** (+ Gauri Shankar Mishra) |
-| Awadh / Oudh Kisan stream | Baba Ramchandra; ~1920 |
+| Oudh Kisan Sabha | **Baba Ramchandra; October 1920, Pratapgarh** |
 | Eka 1921–22 | Madari Pasi; Hardoi–Bahraich–Sitapur |
 | Awadh begar / bedakhli | Core tenant grievances |
 
 ---
 
+## Must-score locks — revolt ↔ leader ↔ year
+
+### Peasant / tribal revolt lock table
+
+| Revolt | Year | Leader | Region |
+|--------|------|--------|--------|
+| Sanyasi–Fakir | ~1763–1800 | Majnu Shah, Bhawani Pathak | Bengal–Bihar |
+| Paika | 1817 | Jagabandhu Bidyadhar | Odisha |
+| Ahom | ~1828 (**not 1815**) | Gomdhar Konwar | Assam |
+| Khasi | 1829 | Tirut Singh | Meghalaya |
+| Kol | 1831–32 | Buddhu Bhagat | Chotanagpur |
+| Santhal | 1855–56 | Sidhu & Kanhu | Rajmahal / Santhal Parganas |
+| Indigo | 1859–60 | Digambar & Bishnu Biswas | Bengal (Nadia) |
+| Kuka | ~1872 | Baba Ram Singh | Punjab |
+| Pabna | 1873–85 | Ishan Chandra Roy | Bengal |
+| Deccan Riots | 1875 | crowds vs *sahukars* | Poona–Ahmednagar |
+| Munda Ulgulan | 1899–1900 | Birsa Munda | Chotanagpur |
+| Tana Bhagat | 1914 | Jatra Oraon | Chotanagpur |
+| Champaran | 1917 | M.K. Gandhi | Bihar |
+| Kheda | 1918 | Gandhi, Patel | Gujarat |
+| UP Kisan Sabha | 1918 | Indra Narayan Dwivedi | Lucknow |
+| Oudh Kisan Sabha | Oct 1920 | Baba Ramchandra | Pratapgarh |
+| Moplah | 1921 | Ali Musliyar, Variyamkunnath | Malabar |
+| Eka | 1921–22 | Madari Pasi | Awadh |
+| Rampa / Manyam | 1922–24 | Alluri Sitarama Raju | East Godavari |
+| AIKS | 1936 | Swami Sahajanand Saraswati | Lucknow session |
+| Bardoli | 1928 | Vallabhbhai Patel | Gujarat |
+| Tebhaga | 1946–47 | Bengal Kisan Sabha / CPI | North Bengal |
+| **Telangana** | **1946–51** | Sundarayya, Ravi Narayan Reddy (CPI-led) | Hyderabad State |
+
+### Labour body ↔ tag (founding facts only — full politics in Topic 12)
+
+| Body | Year | Tag |
+|------|------|-----|
+| Madras Labour Union | 1918 | V.P. Wadia |
+| ILO Washington rep | 1919 | N.M. Joshi |
+| AITUC | 1920 | Lala Lajpat Rai first president; UPPCS maps → CPI |
+| INTUC | 1947 | Congress |
+| UTUC | 1949 | UPPCS maps → CPI(M) |
+| BMS | 1955 | Dattopant Thengadi; BJP/RSS |
+
+### One-home rule (do not duplicate)
+
+- **AITUC / union founding facts** = home here (Topic 8). **Workers and Peasants Party, Congress Socialist Party, and deeper left-labour party politics** = home in **Topic 12**.
+- **Telangana** = home here as a **peasant-stream** movement. Its constitutional/integration angle (Police Action, Hyderabad's accession) is a **Topic 15 (Post-Independence)** cross-reference, not repeated here.
+- **Champaran / Kheda / Bardoli satyagraha mechanics** = home here. Gandhi's **broader constructive programme** = home in Topic 13.
+
+> **Exam note:** If the stem says **Nizam / Razakars / dalams**, lock **Telangana 1946–51**, closing on the **CPI's 1951 withdrawal**, not the 1948 Police Action.
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
-> **45 questions.** Mix: multi-statement, chronology, Match-List, A/R, NOT-matched.
+> **50 questions.** Mix: multi-statement, chronology, Match-List, A/R, NOT-matched.
 
 ---
 
@@ -1775,6 +1903,114 @@ D. Neither 1 nor 2
 
 ---
 
+**Q46.** With reference to the Telangana Peasant Movement, which of the following statements is/are correct?
+
+1. It was organised by the Andhra Mahasabha and, later, the CPI against *deshmukhs* and *vetti* in the Nizam's Hyderabad State.  
+2. It ended immediately after the Police Action ("Operation Polo") of September 1948.
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — the armed struggle continued after 1948 and closed only on the **CPI's withdrawal in October 1951**.
+
+</details>
+
+---
+
+**Q47.** Consider the following statements:
+
+1. The Razakars were a private militia of the Nizam of Hyderabad under Kasim Rizvi.  
+2. The Telangana Peasant Movement redistributed close to a million acres of landlord land in its "liberated" villages.
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
+**Q48.** With reference to the Oudh (Awadh) Kisan Sabha, which of the following statements is/are correct?
+
+1. It was founded in October 1920 at Pratapgarh under Baba Ramchandra.  
+2. It is the same body as the 1918 United Provinces Kisan Sabha of Indra Narayan Dwivedi.
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — the 1918 and 1920 Sabhas are two separate Awadh-belt bodies.
+
+</details>
+
+---
+
+**Q49.** Arrange the following Awadh-belt peasant bodies in chronological order.
+
+1. Eka Movement  
+2. United Provinces Kisan Sabha  
+3. Oudh Kisan Sabha
+
+A. 2, 3, 1
+
+B. 3, 2, 1
+
+C. 2, 1, 3
+
+D. 1, 2, 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — 1918 → October 1920 → 1921–22.
+
+</details>
+
+---
+
+**Q50.** Which of the following pairs is NOT correctly matched?
+
+A. Telangana Peasant Movement — closed 1951
+
+B. Tebhaga Movement — Bengal sharecroppers
+
+C. Oudh Kisan Sabha — Madari Pasi
+
+D. AITUC — 1920
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Oudh Kisan Sabha = **Baba Ramchandra**; Madari Pasi = Eka.
+
+</details>
+
+---
+
 ## Complete PYQ Bank
 
 ### UPPCS Prelims 2025
@@ -2047,3 +2283,6 @@ D. Ahom 1815
 14. **Paika = Edachena / Birsa** → **Jagabandhu Bidyadhar**.
 15. **Pabna = 1922** → **1873–85**; 1922 = **Eka**.
 16. **WPP All-India in 1927 / 2024 Q14 Both** → objective true; All-India form **Dec 1928** → **Only 2** (Topic 12).
+17. **Telangana ends in 1948** → the Nizam fell in 1948; the peasant struggle closed only on **CPI's October 1951** withdrawal.
+18. **Telangana = Tebhaga** → Telangana is **Hyderabad State, CPI *dalams*, 1946–51**; Tebhaga is **Bengal sharecroppers, 1946–47**.
+19. **Oudh Kisan Sabha = 1918 UP Kisan Sabha** → 1918 is Dwivedi's Lucknow body; Oudh Kisan Sabha is **Baba Ramchandra's October 1920** Pratapgarh body.

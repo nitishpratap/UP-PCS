@@ -53,6 +53,43 @@ Third Carnatic War  1758–63   Wandiwash 1760; Treaty of Paris 1763
 
 ---
 
+## Memory Tricks
+
+| Trick | Remembers |
+|-------|-----------|
+| **Gama Calicut, Albuquerque Goa** | **1498** arrival ≠ **1510** conquest |
+| **EIC then VOC** | English **1600**, Dutch **1602** |
+| **French last** | French company **1664** after Portuguese/Dutch/English/Danish |
+| **Hawkins then Roe** | **1608** captain; **1615–19** James I’s ambassador; both at **Jahangir** |
+| **Chinsurah Dutch, Chandernagore French** | Two Bengal names, two powers |
+| **Serampore Danish** | Not French; Carey mission later |
+| **Aix returns Madras** | **1748** First Carnatic; **Paris 1763** ends Third |
+| **Arcot Second, Wandiwash Third** | Clive **1751**; Coote **1760** |
+| **Factory ≠ mill** | Trading post under leave |
+| **Madras Corp first** | Municipal Corporation **1687–88**, not Calcutta |
+
+---
+
+## 1.0 One clear picture — Europeans to English ascendancy
+
+| Phase | Rough years | Nature | Exam lock |
+|-------|-------------|--------|-----------|
+| Portuguese monopoly | 1498–c.1600 | Crown forts + **cartaze** | Gama 1498; Goa 1510 |
+| Multi-company trade | 1600–1740 | Factories under Mughal / local leave | EIC 1600; VOC 1602; French 1664 |
+| Anglo-French duel | 1740–1763 | Carnatic Wars | Aix 1748; Wandiwash 1760; Paris 1763 |
+| English ascendancy | after 1763 | Rivals reduced to enclaves | Bengal path opens next |
+
+**Why the English beat the French in India (short):**
+
+- Stronger navy and regular Company support from home.
+- Better local alliances in the Carnatic after Arcot.
+- Dupleix was recalled; French politics undercut continuity.
+- After Paris **1763** France kept factories, not an empire.
+
+> **Exam note:** Advent of Europeans ≠ British Raj. Factories came first; territorial empire came after Plassey.
+
+---
+
 ## 1.1 Arrival of European Companies
 
 - Europeans first came for **spices**, especially pepper, cloves, cinnamon and nutmeg.
@@ -126,6 +163,7 @@ These were **crown** officers at Goa, not directors of a joint-stock company.
 - He encouraged mixed marriages to hold the forts with a settled population.
 - **Nuno da Cunha** governed later (**1529–38**).
 - He secured **Bassein (1534)** and **Diu (1535)** from the Gujarat coast.
+- He also pressed Portuguese power along the western seaboard after Albuquerque’s generation.
 
 > **Exam note:** First Viceroy = **Almeida (1505)**, not Albuquerque. Albuquerque is the consolidator who took **Goa**.
 
@@ -159,6 +197,7 @@ These were **crown** officers at Goa, not directors of a joint-stock company.
 | Factory | Region |
 |---------|--------|
 | **Pulicat** | Coromandel HQ phase |
+| **Negapatam (Nagapattinam)** | Later Coromandel HQ after Pulicat declined |
 | **Surat** | Western Mughal port |
 | **Masulipatnam** | Golconda / Deccan textiles |
 | **Chinsurah** | Bengal (saltpetre, silk) |
@@ -287,7 +326,7 @@ Minor player | exams ask **settlement identity**, not Danish politics
 - **Tranquebar (Tharangambadi)** was founded in **1620**.
 - **Fort Dansborg** stood there on the Tamil Nadu Coromandel coast.
 - **Serampore (Frederiksnagore)** was the Danish settlement in Bengal.
-- Missions, a press and education grew there under Danish protection.
+- Missions, a press and education grew there under Danish protection. **William Carey** and the Serampore mission circle are the usual exam bridge to education/press.
 - Denmark sold Tranquebar to the British in **1845**.
 
 > **Exam note:** **Tranquebar = Danish**. Serampore is not French.
@@ -569,9 +608,41 @@ Ended the **Seven Years’ War** globally and closed the **Third Carnatic War** 
 
 ---
 
+## Must-score locks — settlements, wars, treaties
+
+### Power ↔ settlement
+
+| Settlement | Power |
+|------------|-------|
+| **Goa / Daman / Diu** | Portuguese |
+| **Pulicat / Chinsurah** | Dutch |
+| **Surat / Madras / Calcutta / Bombay** | English |
+| **Pondicherry / Chandernagore** | French |
+| **Tranquebar / Serampore** | Danish |
+
+### Carnatic treaty ladder
+
+| War | Years | End treaty | Lock |
+|-----|-------|------------|------|
+| First | 1746–48 | **Aix-la-Chapelle 1748** | Madras returned to English |
+| Second | 1749–54 | Dupleix recalled | **Arcot 1751** (Clive) |
+| Third | 1758–63 | **Paris 1763** | **Wandiwash 1760** (Coote vs Lally) |
+
+### English arrival order
+
+| Person / event | Year |
+|----------------|------|
+| Hawkins at Jahangir’s court | **1608** |
+| Surat factory | **1612** |
+| Sir Thomas Roe | **1615–19** |
+| Bombay from Portugal (Catherine dowry path) | **1661 / 1668** to Company |
+| First Municipal Corporation — Madras | **1687–88** |
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
-> **40 questions** (13+ subtopics). Answers in `<details>`. ≥60% multi-statement / application.
+> **40 questions** (13+ subtopics). Answers in Show-answer blocks. ≥60% multi-statement / application.
 
 **Q1.** With reference to the arrival of Europeans in India, which of the following statements is/are correct?
 

@@ -80,6 +80,43 @@ Poverty and Un-British Rule in India = 1901  ← 2021 Q139
 | Lucknow Pact 1916 | 1911 Delhi Durbar year | Pact is **1916**; 1911 = Bengal partition revoked + capital to Delhi | लखनऊ पैक्ट |
 | Besant 1917 | Sarojini 1925 | First woman INC President vs first **Indian** woman President | एनी बेसेंट / सरोजिनी |
 | Belgaum 1924 | Lahore 1929 | Only Gandhi President vs Purna Swaraj (Nehru) | बेलगाव / लाहौर |
+| Safety Valve theory | National awakening view | Hume as a British-designed vent for discontent vs Congress as the natural culmination of decades of Indian political work | सेफ्टी वाल्व / राष्ट्रीय जागरण |
+| Lajpat Rai's Mandalay | Tilak's Mandalay | Six-month deportation, 1907 vs six-year sedition sentence, 1908–14 | लाजपत राय / तिलक मंडाले |
+
+---
+
+## Memory Tricks
+
+| Trick | Remembers |
+|-------|-----------|
+| **"Hume organised, Bonnerjee presided"** | Hume set up the 1885 Congress; **W.C. Bonnerjee** was the first President, not Hume |
+| **"East is Naoroji-London, Indian is Banerjee-Calcutta"** | East India Association **1866** vs Indian Association **1876** — never swap founder or city |
+| **"Tilak never sat in the chair"** | Tilak = **never** INC President (2021 Q50); Gokhale, Lajpat Rai and Bose all **did** preside |
+| **"1901 book, 1906 Swaraj, three chairs"** | Naoroji: *Poverty…* published **1901**; Swaraj goal declared at his **1906** Calcutta session; he presided **three times** (1886, 1893, 1906) |
+| **"Surat breaks, Lucknow stitches"** | **1907** split vs **1916** reunion + Congress–League Pact |
+| **"1911 is hills and Delhi, not the Pact"** | 1911 = Partition revoked + capital shifted to Delhi; the **Lucknow Pact is 1916** |
+| **"Besant first woman, Sarojini first Indian woman"** | 1917 Calcutta vs 1925 Kanpur — two different "firsts" |
+| **"Gandhi's only chair is Belgaum"** | 1924 is Gandhi's **sole** INC presidentship; Lahore 1929 is **Nehru's** Purna Swaraj session |
+| **"Lal is Punjab, Bal is Maharashtra, Pal is Bengal"** | Fixes each Extremist's home province and paper in one line |
+| **"Un-British, not anti-British"** | Moderates wanted the Raj to live up to its **own** liberal ideals, not to end the British connection |
+| **"1907 deports Lajpat, 1908 jails Tilak, 1910 exiles Aurobindo"** | Extremist crackdown ladder after Surat — three different penalties, three different years |
+
+---
+
+## 9.0 One clear picture — the arc of nationalism
+
+Nationalism did **not** appear fully formed in 1885. Hold this arc; every card below plugs into one stage.
+
+| Stage | Rough years | Method | Exam lock |
+|-------|-------------|--------|-----------|
+| Pre-Congress associations | **1866–1885** | Petitions, provincial lobbies | East India Assoc → Indian Assoc → INC (2024 Q15) |
+| Congress founding, early Moderate phase | **1885–1905** | Prayer, petition, protest; safety-valve debate | Hume organises; Bonnerjee first President |
+| Partition and Extremist rise | **1905–1907** | Swadeshi, boycott, passive resistance | Bengal Partition 1905 |
+| Surat split and crackdown | **1907–1911** | Two rival wings; government exile/imprisonment of Extremists | Surat 1907; Mandalay deportations |
+| Reunion and Home Rule | **1916–1918** | Lucknow Pact; Home Rule Leagues (full detail **Topic 12**) | A.C. Majumdar; Besant/Tilak leagues |
+| Gandhian mass phase | **1919 onward** | Mass satyagraha (full detail **Topics 13–14**) | Amritsar 1919 onward |
+
+> **Exam note:** Start every Topic 9 answer from the **stage**. Moderates are not "loyalists with no demands." Extremists are not "terrorists." Surat is a **split**, Lucknow is a **reunion** — never confuse the two 1900s-teen sessions.
 
 ---
 
@@ -254,6 +291,24 @@ D. 1, 2, 3, 4
 
 ---
 
+### Safety Valve Theory vs National Awakening view
+
+Two rival explanations of **why** Congress began. Exams test both sides, not just one.
+
+| | Safety Valve Theory | National Awakening view |
+|---|---|---|
+| **Core claim** | Hume, with hints from Viceroy **Dufferin**, wanted an organised, loyal outlet for educated Indian discontent so it would not turn revolutionary | Congress was the natural culmination of decades of political work by pre-1885 associations, the press and English education |
+| **Who argues it** | **Lala Lajpat Rai** first floated it; **R. Palme Dutt** later gave it a sharper Marxist edge | Most nationalist historians (Bipan Chandra and others); **William Wedderburn's** biography of Hume defends his sincerity |
+| **Evidence used** | Hume's own private hints about secret reports of unrest reaching the government; Congress's early loyalty to the British connection | Growth of the Indian Association, Poona Sarvajanik Sabha, Bombay and Madras bodies **before** 1885; Indians used Hume's organisational skill for their own ends |
+| **Exam treatment** | A **theory about intent**, not a proven fact — treat it as one interpretation | The dominant classroom view: Congress channelled a **genuine, already-rising** national consciousness |
+
+- Hume genuinely wanted reform; Indians were not his passive tools. Both things can be true at once — that is the usual "both statements correct, but not causally linked" trap in A/R questions.
+- Do not write that Safety Valve is a "proven British conspiracy." It is a **theory**, most associated with **Lajpat Rai** in the exam's eyes.
+
+> **Exam note:** If a stem asks **who first suggested the Safety Valve idea**, the standard exam name is **Lala Lajpat Rai**. If it asks **who defended Hume**, the name is **William Wedderburn**.
+
+---
+
 ## 9.4 Congress Presidents and Sessions
 
 | Year | Place | President / lock |
@@ -328,6 +383,21 @@ D. Subhash Chandra Bose
 
 > **Exam note:** Early Congress **did** have an economic programme (drain, poverty, military cuts). It was **not** a revolutionary terrorist body.
 
+### Moderate economic demands — checklist
+
+Early Congress built a full economic programme around Naoroji's drain critique. Learn it as a checklist, not a vague "they wanted reform" line.
+
+1. Cut the **drain of wealth** — reduce home charges, pensions and guaranteed interest paid to Britain.
+2. Reduce the **land revenue** burden; some Moderates wanted the Bengal Permanent Settlement model extended to other provinces.
+3. Cut **military expenditure** and demand a fair India–Britain share of defence costs.
+4. Protect and develop **Indian industry** — tariff protection against Lancashire cloth and other British imports.
+5. Provide proper **famine relief** and public works instead of revenue rigidity during crop failure.
+6. Hold **simultaneous ICS examinations** in India and raise the age limit so Indians could compete fairly.
+7. Expand **legislative councils** with more elected Indians and real budget-discussion rights.
+8. Separate the **judiciary from the executive** at the district level to curb racial bias in justice (the Ilbert wound).
+
+> **Exam note:** This checklist is the "Congress **did** have an economic programme" answer to any statement claiming Moderates were pure loyalists with no demands.
+
 ---
 
 ## 9.6 Moderates (Naram Dal)
@@ -380,22 +450,42 @@ D. (A) is true, but (R) is false.
 
 - Extremists rose as Partition of Bengal (**1905**) and the limits of petition politics became clear.
 - The triad is **Lal–Bal–Pal**.
-- **Lala Lajpat Rai** stood for Punjab.
-- **Bal Gangadhar Tilak** stood for Maharashtra.
-- **Bipin Chandra Pal** stood for Bengal.
-- **Aurobindo Ghosh** is the Bengal intellectual of the same camp.
 - Their methods were **Swadeshi**, **boycott** of foreign goods, **national education**, and **passive resistance**.
 - Swaraj was stated as a right, not a reward for loyalty.
 - They used festivals, the vernacular press and volunteers.
-- As a group they were still not the bomb-throwing revolutionary stream.
-- At **Surat 1907** Extremists wanted a session in the Extremist line (Lajpat Rai’s name was in the fight). Moderates stuck to **Rash Behari Ghosh**. The session broke. Two Congresses existed in practice until **1916**.
-- At **Lucknow in 1916**, **Ambika Charan Majumdar** presided.
-- Moderates and Extremists **reunited**.
-- The same session produced the **Lucknow Pact** with the Muslim League.
-- Separate electorates were accepted as a bargain.
-- **Home Rule in 1916** under Tilak and Besant carried Extremist energy into a new form.
+- As a group they were still not the bomb-throwing revolutionary stream (that stream is **Topic 11**).
 
-> **Exam note:** Surat **1907** = split. Lucknow **1916** = reunion + League pact. Lucknow Pact is **not 1911**.
+### Lal–Bal–Pal — regional bases
+
+| Leader | Province / base | Paper | Signature method |
+|--------|------------------|-------|-------------------|
+| **Lala Lajpat Rai** ("Lal") | **Punjab** — Lahore | *The Punjabee* | Swadeshi + Arya Samaj-linked mass appeal |
+| **Bal Gangadhar Tilak** ("Bal") | **Maharashtra** — Poona | *Kesari*, *Maratha* | Festivals-as-politics; "Swaraj is my birthright" |
+| **Bipin Chandra Pal** ("Pal") | **Bengal** — Calcutta | *Bande Mataram*, *New India* | Swadeshi orator; theorist of passive resistance |
+| **Aurobindo Ghosh** (allied Bengal intellectual, not in the triad name) | Bengal — Calcutta | Editor, *Bande Mataram* | Ideological voice of "new nationalism" |
+
+### Surat Split, 1907 — the mechanics
+
+- Congress had planned a **regular rotation**: Naoroji presided at Calcutta **1906**; Bombay was to host **1907**.
+- Extremists wanted the **1907 Surat session** to reaffirm the **Swadeshi, boycott and national-education** resolutions of 1906 without dilution, and pushed for an Extremist-line President.
+- Moderates insisted on **Rash Behari Ghosh** as President and wanted to **soften** the 1906 resolutions.
+- At the Surat pandal in **December 1907**, the argument over the President's chair turned physical — shoes and chairs were thrown, and the session broke up in disorder before business could be conducted.
+- Moderates then held their **own** session with Ghosh in the chair; Extremists held a rump meeting separately. **Two Congresses existed in practice** until the **1916 Lucknow reunion**.
+- At **Lucknow in 1916**, **Ambika Charan Majumdar** presided. Moderates and Extremists **reunited**, and the same session produced the **Lucknow Pact** with the Muslim League, accepting separate electorates as a bargain.
+- **Home Rule in 1916** under Tilak and Besant carried Extremist energy into a new constitutional form (full detail in **Topic 12**).
+
+### Extremist crackdown — exile and imprisonment years
+
+The government moved against Extremist leaders in the years right after Surat. Keep each leader's **penalty and year** separate — they are not identical.
+
+| Leader | Penalty | Years |
+|--------|---------|-------|
+| **Lala Lajpat Rai** | Deported to **Mandalay** without trial under Regulation III of 1818 | **May–November 1907** (six months) |
+| **Bal Gangadhar Tilak** | Convicted of **sedition**; transported to **Mandalay** | **1908–14** (six years) |
+| **Bipin Chandra Pal** | **Self-exile** in England to avoid testifying against Aurobindo in the *Bande Mataram* sedition case | **1908–1911** |
+| **Aurobindo Ghosh** | Tried in the **Alipore Bomb Case**; acquitted, then withdrew from politics to **Pondicherry** | Case **1908–09**; Pondicherry from **1910** |
+
+> **Exam note:** Surat **1907** = split. Lucknow **1916** = reunion + League pact. Lucknow Pact is **not 1911**. Lajpat Rai's Mandalay (**1907, six months**) is a **different** event from Tilak's Mandalay (**1908–14, sedition sentence**).
 
 ---
 
@@ -556,9 +646,32 @@ D. 4 3 2 1
 
 ---
 
+## Must-score locks — 12 must-know INC sessions
+
+Every list-matching or chronology question draws from this spine. Learn **year, place, President, and the one lock** — nothing more is needed for prelims.
+
+| # | Year | Place | President | The one lock |
+|---|------|-------|-----------|---------------|
+| 1 | 1885 | Bombay | **W.C. Bonnerjee** | First session; Hume organised, did not preside |
+| 2 | 1887 | Madras | **Badruddin Tyabji** | First Muslim President |
+| 3 | 1888 | Allahabad | **George Yule** | First English President |
+| 4 | 1905 | Banaras | **G.K. Gokhale** | Moderate stalwart; proof Gokhale **did** preside |
+| 5 | 1906 | Calcutta | **Dadabhai Naoroji** (3rd time) | **Swaraj** adopted as a Congress goal |
+| 6 | 1907 | Surat | Session **broke up**; Ghosh vs Extremists | The **split**, not a normal presidency |
+| 7 | 1916 | Lucknow | **A.C. Majumdar** | Moderate–Extremist **reunion** + **Lucknow Pact** |
+| 8 | 1917 | Calcutta | **Annie Besant** | First **woman** President |
+| 9 | 1924 | Belgaum | **M.K. Gandhi** | Gandhi's **only** INC presidentship |
+| 10 | 1925 | Kanpur | **Sarojini Naidu** | First **Indian** woman President |
+| 11 | 1929 | Lahore | **Jawaharlal Nehru** | **Purna Swaraj** resolution |
+| 12 | 1931 | Karachi | **Vallabhbhai Patel** | **Fundamental Rights** resolution |
+
+> **Exam note:** If a question gives four sessions and asks for the **odd one out** or a chronology, these twelve cover almost every UPPCS angle seen 2018–2025. Sessions after 1931 (Faizpur, Haripura, Tripuri, Ramgarh) belong with the Gandhian-era and final-phase topics but are listed here too (see 9.4) for completeness.
+
+---
+
 ## Practice Zone — UPPCS Format Drill
 
-> **45 questions.** Mix: multi-statement, chronology, Match-List, A/R, NOT-matched.
+> **51 questions.** Mix: multi-statement, chronology, Match-List, A/R, NOT-matched.
 
 ---
 
@@ -1538,6 +1651,137 @@ D. Neither 1 nor 2
 
 ---
 
+**Q46.** Consider the following statements about the origins of the Indian National Congress:
+
+1. The Safety Valve Theory is most associated with Lala Lajpat Rai.  
+2. William Wedderburn's biography defended Hume's sincerity in founding Congress.
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
+**Q47.** With reference to the Surat Split of 1907, which of the following statements is/are correct?
+
+1. The dispute was over the choice of President and the fate of the 1906 Swadeshi and boycott resolutions.  
+2. Rash Behari Ghosh was the Moderates' preferred presidential candidate.
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
+**Q48.** Match List-I with List-II.
+
+**List-I (Extremist leader)** A. Lala Lajpat Rai  B. Bal Gangadhar Tilak  C. Bipin Chandra Pal  D. Aurobindo Ghosh  
+**List-II (Post-Surat penalty)** 1. Mandalay deportation, 1907 (six months)  2. Mandalay sedition sentence, 1908–14  3. Self-exile in England, 1908–11  4. Withdrew to Pondicherry, from 1910
+
+A. 1 2 3 4
+
+B. 2 1 4 3
+
+C. 1 2 4 3
+
+D. 3 2 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
+**Q49.** With reference to Lal–Bal–Pal, which of the following statements is/are correct?
+
+1. Lala Lajpat Rai's base was Punjab and his paper was *The Punjabee*.  
+2. Bipin Chandra Pal's base was Bengal and he edited *Bande Mataram*.
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
+**Q50.** Which of the following is NOT part of the Moderates' economic demands?
+
+A. Reduction of home charges and the drain of wealth
+
+B. Simultaneous ICS examinations in India
+
+C. Tariff protection for Indian industry
+
+D. Immediate and complete severance of the British political connection
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — that is a later, more radical demand; Moderates worked for reform within the British connection.
+
+</details>
+
+---
+
+**Q51.** Arrange the following in chronological order:
+
+1. Surat Split  
+2. Lajpat Rai's deportation to Mandalay  
+3. Tilak's sedition conviction  
+4. Lucknow reunion
+
+A. 2, 1, 3, 4
+
+B. 1, 2, 3, 4
+
+C. 2, 3, 1, 4
+
+D. 1, 3, 2, 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Lajpat Rai deported **May 1907**, before the **December 1907** Surat Split; Tilak convicted **1908**; Lucknow reunion **1916**.
+
+</details>
+
+---
+
 ## Complete PYQ Bank
 
 ### UPPCS Prelims 2025
@@ -1756,3 +2000,7 @@ D. 4 3 2 1
 15. **Early Congress had no economic policy** → drain, poverty and military cuts were central.
 16. **First woman President = Sarojini** → **Besant 1917**; Sarojini = first **Indian** woman **1925**.
 17. **Gandhi President = Lahore** → **Belgaum 1924 only**. Lahore 1929 = **Nehru + Purna Swaraj**.
+18. **Safety Valve = a proven fact** → it is a **theory**, most linked to **Lala Lajpat Rai**; nationalist historians see Congress as a genuine national awakening.
+19. **Lajpat Rai's 1907 Mandalay = Tilak's 1908 Mandalay** → different penalties (six-month deportation vs six-year sedition sentence) and different years.
+20. **Lal–Bal–Pal all from one province** → **Lal = Punjab, Bal = Maharashtra, Pal = Bengal** — three separate bases.
+21. **Moderates had no economic programme** → drain, land revenue, military cuts, tariff protection and ICS reform were all on their checklist.

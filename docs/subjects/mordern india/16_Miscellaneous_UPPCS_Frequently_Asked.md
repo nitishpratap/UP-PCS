@@ -1,5 +1,5 @@
 # Topic 16 — Miscellaneous (Frequently Asked by UPPCS)
-### ★ UPPCS Revision Sheet — Lucent / PW style (match vault · one home per fact · Practice ≥50)
+### ★ UPPCS Revision Sheet — Lucent / PW style (match vault · one home per fact · Practice ≥56)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -51,6 +51,25 @@ EDUCATION 2018 Q21: Wood 1854 → Hunter 1882 → Sadler 1917 → Sargeant 1944 
 | Shanti Ghosh | Aruna Asaf Ali | 1931 Bengal revolutionary vs QI 1942 | शांति / अरुणा |
 | Liyaqat Ali | Hazrat Mahal | Allahabad 1857 vs Lucknow 1857 | लियाकत / हजरत महल |
 | Red Fort | Gwalior Fort | INA trials vs **not** the INA court | लाल किला |
+| Rani Lakshmibai | Jhalkari Bai | The Rani herself vs the Dalit soldier who resembled her in battle | लक्ष्मीबाई / झलकारी बाई |
+| Cripps Mission 1942 | Cabinet Mission 1946 | Solo envoy, failed vs three-member mission with a grouping plan | क्रिप्स / कैबिनेट मिशन |
+| Nehru Report 1928 | Simon Commission 1927 | Indian response vs all-white British body | नेहरू रिपोर्ट / साइमन |
+
+---
+
+## Memory Tricks — for vault matching
+
+| Trick | Remembers |
+|-------|-----------|
+| **Tilak never chaired, only wrote** | Tilak = **never** INC President; his home is *Kesari*/*Mahratta* and the birthright slogan |
+| **Besant first, Sarojini first-Indian** | 1917 Besant = first woman President; 1925 Sarojini = first **Indian** woman President |
+| **Two Hunters, two jobs** | Hunter **1882** = education; Hunter **1919** = Jallianwala inquiry |
+| **Chandernagore alone, Pondicherry with three friends** | Chandernagore → West Bengal (1954); Pondicherry + Karaikal + Mahe + Yanam → own UT (1962) |
+| **Red Fort tried, Gwalior did not** | INA trials = **Red Fort**, Delhi; Gwalior is a 1857/Lakshmibai site, not an INA court |
+| **Shahjahanpur gave two to Kakori** | **Bismil** and **Ashfaqullah** both born in Shahjahanpur, UP |
+| **One Rani, one look-alike** | **Lakshmibai** fought at Jhansi; **Jhalkari Bai**, a Dalit soldier, resembled her in the same battle |
+| **Cripps came alone, Cabinet came in three** | Cripps Mission (1942) = solo; Cabinet Mission (1946) = Pethick-Lawrence + Cripps + Alexander |
+| **Savarkar's society, not Bhagat Singh's** | **Abhinav Bharat** = Savarkar; **HSRA** = Bhagat Singh/Azad |
 
 ---
 
@@ -73,9 +92,10 @@ EDUCATION 2018 Q21: Wood 1854 → Hunter 1882 → Sadler 1917 → Sargeant 1944 
 | **One caste, one religion, one God for mankind** | **Sri Narayana Guru** | |
 | **Sarfaroshi ki tamanna** | **Bismil / Ram Prasad Bismil** stream | Kakori |
 | **Purna Swaraj** | Lahore **1929** goal | Nehru President |
-| **Dilli Chalo** | Bose | Do not give to Gandhi |
 | **Quit India** | Congress mass call, Aug 1942 | |
 | **Garibi Hatao** | Later (Indira); **not** 1920s | |
+| **Educate, Agitate, Organise** | **B.R. Ambedkar** | Bahishkrit Hitkarini Sabha motto |
+| **Self-Respect (Suyamariyadai)** | **E.V. Ramasamy “Periyar”** | Self-Respect Movement, 1925, Tamil Nadu |
 
 > **Exam note:** Tilak ≠ Do or Die. Bose ≠ Inquilab. Vande Mataram ≠ Jana Gana Mana.
 
@@ -106,6 +126,10 @@ This is the **press match table**. Editor stories sit with Education and Press.
 | **Bharat Bandhu** | — | **Hathras** |
 | **Satyawadi** | — | **Agra** |
 | **Shakti** | — | **Almora** |
+| **The Hindu** | G. Subramania Iyer | Madras, 1878 |
+| **Tribune** | Dyal Singh Majithia | Lahore, 1881 |
+| **Rast Goftar** | Dadabhai Naoroji | Gujarati/English, Bombay |
+| **Hindoo Patriot** | Harish Chandra Mukherjee | Bengal; Indigo revolt coverage |
 
 **2022 Q117:** local `pyq/2022` prints **Kesari**. The standard paper is **Swadesh**. Code with Swadesh–Gorakhpur is **B** (4, 3, 1, 2).
 
@@ -128,6 +152,14 @@ This is the **books match table**. Eight syllabus titles and the 2020/2019/2021 
 | *The Story of My Deportation* | Lala Lajpat Rai |
 | *A Nation in Making* | Surendranath Banerjee |
 | *The Rise and Growth of Economic Nationalism in India* | Bipan Chandra |
+| *An Autobiography / The Story of My Experiments with Truth* | M.K. Gandhi |
+| *Satyarth Prakash* | Dayanand Saraswati |
+| *The Indian War of Independence, 1857* | V.D. Savarkar |
+| *Unhappy India* | Lala Lajpat Rai |
+| *The Indian Struggle* | Subhas Chandra Bose |
+| *India Divided* | Rajendra Prasad |
+| *Glimpses of World History* | Jawaharlal Nehru |
+| *Thoughts on Pakistan* | B.R. Ambedkar |
 
 **2020 Q26** code **3, 4, 1, 2** = A. **2021 Q139** Poverty… = **1901**. **2019 Q97** Economic Nationalism = **Bipan Chandra**.
 
@@ -154,6 +186,14 @@ This is the **books match table**. Eight syllabus titles and the 2020/2019/2021 
 | **Balwant Rai Mehta** | 1957 | Three-tier Panchayati Raj |
 | **MacDonnell** | 1901 | Famine |
 | **Fraser** | 1902–03 | Police |
+| **Rowlatt (Sedition) Committee** | 1918 | Sidney Rowlatt; led to the **Rowlatt Act, 1919** |
+| **Nehru Report** | 1928 | Motilal Nehru; Indian response to all-white Simon |
+| **Muddiman Committee** | 1924 | Reforms Enquiry; reviewed dyarchy's working |
+| **Lee Commission** | 1924 | Indianisation of the civil services |
+| **Skeen Committee** | 1925 | Indianisation of the army |
+| **Cripps Mission** | 1942 | Post-dated cheque (Gandhi); talks failed |
+| **Cabinet Mission** | 1946 | Pethick-Lawrence, Cripps, A.V. Alexander; grouping plan |
+| **Wavell Plan / Simla Conference** | 1945 | Breakdown over Muslim League parity |
 
 **2018 Q21:** Wood → Hunter → Sadler → Sargeant = **C, A, B, D**.
 
@@ -183,6 +223,7 @@ This is the **Acts timeline**. Full Act stories sit with Governors-General, admi
 | **1919** | Montagu–Chelmsford | **Dyarchy** provinces; Chamber of Princes |
 | **1919** | Rowlatt | Arrest without trial |
 | **1935** | GOI Act | Provincial **autonomy**; dyarchy at Centre; federation (not started) |
+| **1947** | Indian Independence Act | Partition; Dominion status; Mountbatten as first Governor-General of free India |
 
 **2019 Q19:** a Communal Award year printed as **1933** is the unmatched trap. The Award is **16 August 1932**.
 
@@ -201,7 +242,9 @@ This is the **treaty match table**. War stories sit with Company expansion.
 | **Mangalore** | **1784** | 2nd Anglo–Mysore |
 | **Seringapatam** | **1792** | 3rd Anglo–Mysore |
 | **Bassein** | **1802** | 2nd Anglo–Maratha (subsidiary) |
+| **Amritsar** | **1809** | Ranjit Singh–British Sutlej peace, not a war end |
 | **Sugauli** | **1816** | Anglo–Nepal; **not** Kathmandu as the treaty name |
+| **Yandabo** | **1826** | 1st Anglo–Burma |
 | **Lahore** | 1846 | 1st Anglo–Sikh |
 | **Lucknow Pact** | **1916** | Congress–League |
 | **Gandhi–Irwin** | **1931** | Pact after CDM |
@@ -265,8 +308,12 @@ This is the **revolutionary HQ match table**. Action stories sit with Swadeshi a
 | **HRA** | **1924, Kanpur** | Ram Prasad Bismil, Sachindra Sanyal |
 | **Kakori** | **9 Aug 1925**, UP | Bismil, Ashfaqullah, Rajendra Lahiri, Roshan Singh |
 | **HSRA** | **1928** | Chandrashekhar Azad, Bhagat Singh |
+| **Naujawan Bharat Sabha** | **1926, Lahore** | Bhagat Singh, Sukhdev |
 | **Chittagong** | **1930** | Surya Sen |
+| **Swadesh Bandhab Samiti** | **1905, Barisal** | Ashwini Kumar Dutta |
 | **Forward Bloc** | **1939** | Bose |
+| **Indian Independence League** | **1942, Tokyo/Singapore** | Rash Behari Bose; precursor body for the INA |
+| **Azad Hind Fauj / INA** | **1942** (Mohan Singh), reorganised **1943** | Subhas Chandra Bose |
 
 **2018 Q22:** Abhinav Bharat = **Savarkar** (not Bhagat Singh).  
 **2023 Q42:** Hardinge bomb = **Anushilan Samiti**.
@@ -284,11 +331,13 @@ This is the **revolutionary HQ match table**. Action stories sit with Swadeshi a
 | **Begum Hazrat Mahal** | **Lucknow** 1857 |
 | **Maulvi Ahmadullah Shah** | Faizabad / Awadh |
 | **Liyaqat Ali** | **Allahabad** 1857 — **not Lucknow** |
-| **2018 Q95:** Lucknow–Liyaqat Ali is **NOT** matched | Lucknow = Hazrat Mahal |
 | **Awadh Kisan Sabha / Eka** | Baba Ramchandra; Madari Pasi |
 | **Chauri Chaura** | **4 Feb 1922**, Gorakhpur |
 | **Kakori** | **9 Aug 1925** — Bismil, Ashfaq |
+| **Ram Prasad Bismil** | Born **Shahjahanpur**, UP; founded the **HRA**; Kakori; hanged 1927 |
+| **Ashfaqullah Khan** | Born **Shahjahanpur**, UP; Kakori; hanged 1927 |
 | **Chandrashekhar Azad** | Alfred Park / **Azad Park, Allahabad**, **27 Feb 1931** |
+| **Raja Mahendra Pratap** | **Hathras/Mursan**, UP; founded the Provisional Government of India at **Kabul, 1915** |
 | **Ganesh Shankar Vidyarthi** | *Pratap*, Kanpur; killed 1931 communal riot |
 | **Motilal Nehru** / **Jawaharlal** | Allahabad |
 | **Madan Mohan Malaviya** | Allahabad; BHU; *Leader* |
@@ -297,6 +346,8 @@ This is the **revolutionary HQ match table**. Action stories sit with Swadeshi a
 | **Rafi Ahmad Kidwai** | Barabanki |
 | **Acharya Narendra Dev** | Congress Socialist Party |
 
+**2018 Q95:** Lucknow–Liyaqat Ali is **NOT** matched. Lucknow = **Hazrat Mahal**; Liyaqat Ali = **Allahabad**.
+
 ---
 
 ## 16.10 Women freedom fighters
@@ -304,9 +355,11 @@ This is the **revolutionary HQ match table**. Action stories sit with Swadeshi a
 | Woman | Lock | NOT |
 |-------|------|-----|
 | **Rani Lakshmibai** | Jhansi 1857 | |
+| **Jhalkari Bai** | 1857, **Jhansi**; a Dalit soldier who resembled Rani Lakshmibai in the battle | Not the Rani herself |
+| **Uda Devi** | 1857, **Lucknow**; a Dalit woman fighter at Sikandar Bagh | |
 | **Begum Hazrat Mahal** | Lucknow 1857 | |
 | **Madam Bhikaji Cama** | Stuttgart flag **1907** | |
-| **Annie Besant** | Home Rule; INC President **1917** | |
+| **Annie Besant** | Home Rule; INC President **1917** | Not the first **Indian** woman President |
 | **Sarojini Naidu** | INC President **1925**; 2nd RTC **yes** | |
 | **Kamala Nehru** / **Kasturba Gandhi** | CDM / constructive | |
 | **Kalpana Datta** / **Pritilata Waddedar** | Chittagong | |
@@ -316,9 +369,9 @@ This is the **revolutionary HQ match table**. Action stories sit with Swadeshi a
 | **Matangini Hazra** | Tamluk, QI | |
 | **Kanaklata Barua** | Assam, QI | |
 | **Lakshmi Sehgal** | **Rani Jhansi Regiment**, INA | ≠ 1857 regiment |
-| **Sucheta Kripalani** | QI; later CM | |
-| **Vijayalakshmi Pandit** | | |
-| **Rajkumari Amrit Kaur** | | |
+| **Sucheta Kripalani** | QI; later first woman CM of a State (**UP**) | |
+| **Vijayalakshmi Pandit** | **Allahabad**; Nehru's sister; first woman Governor (UP, 1947) | |
+| **Rajkumari Amrit Kaur** | Free India's first **Health Minister** | |
 
 **2023 Q48:** woman **not** in QI = **Shanti Ghosh**. **2020 Q24:** Rajendra Prasad **not** at 2nd RTC; **Sarojini was**.
 
@@ -342,7 +395,9 @@ This is the **Governor-General policy match table**. Full tenure cards sit with 
 | Minto | 1909 separate electorates |
 | Hardinge (Charles) | Capital Delhi; bomb 1912 |
 | Chelmsford | 1919 Act; Jallianwala under O’Dwyer/Dyer |
+| Reading | 1921–26; Simon Commission announced (1927, just after); Chauri Chaura, NCM withdrawal |
 | Irwin | Gandhi–Irwin Pact |
+| Willingdon | 1931–36; Second RTC; Communal Award (1932); Poona Pact |
 | Linlithgow | August Offer; longest viceroyalty; WWII |
 | Wavell | Wavell Plan / Simla 1945 |
 | Mountbatten | 3 June Plan; last Viceroy |
@@ -363,9 +418,11 @@ This is the **Governor-General policy match table**. Full tenure cards sit with 
 | **Aga Khan Palace, Pune** | Gandhi interned in QI |
 | **Sabarmati Ashram** | Dandi start 1930 |
 | **Sevagram** | Gandhi’s later ashram |
+| **Mani Bhavan, Mumbai** | Gandhi's residence 1917–1934, now a museum |
 | **Gowalia Tank / August Kranti Maidan, Bombay** | QI 8 Aug 1942 |
 | **Alfred Park / Chandrashekhar Azad Park, Prayagraj** | Azad’s death 1931 |
 | **Kakori** | Near Lucknow; 1925 train action |
+| **Martyrs' Memorial, Patna** | Quit India, 1942; seven students shot near the Secretariat |
 | **Victoria Memorial, Calcutta** | Curzon-era imperial monument |
 | **India Gate** | WW I memorial; later Amar Jawan |
 
@@ -395,12 +452,14 @@ This is the **Governor-General policy match table**. Full tenure cards sit with 
 | 1919 | Rowlatt; Jallianwala; GOI Act |
 | 1920–22 | NCM |
 | 1922 | Chauri Chaura |
+| 1924 | Belgaum; HRA founded, Kanpur |
 | 1925 | Kakori |
-| 1927 | Simon |
+| 1927 | Simon Commission arrives |
+| 1928 | Nehru Report; Simon boycott |
 | 1929 | Lahore Purna Swaraj |
-| 1930 | Dandi |
-| 1931 | Gandhi–Irwin; Karachi; Bhagat Singh hanged 23 Mar |
-| 1932 | Communal Award; Poona Pact |
+| 1930 | Dandi; First RTC (Congress boycotts) |
+| 1931 | Gandhi–Irwin; Second RTC; Karachi; Bhagat Singh hanged 23 Mar |
+| 1932 | Communal Award; Poona Pact; Third RTC |
 | 1935 | GOI Act |
 | 1939 | Ministries resign; Forward Bloc |
 | 1940 | August Offer; Ramgarh; Individual Satyagraha |
@@ -409,6 +468,56 @@ This is the **Governor-General policy match table**. Full tenure cards sit with 
 | 1945 | Wavell / Simla; INA Trials |
 | 1946 | Cabinet Mission; RIN; Direct Action; Interim Govt |
 | 1947 | Mountbatten Plan 3 Jun; Independence Act 18 Jul; 15 Aug |
+
+---
+
+## Must-score locks — highest-yield vault rows
+
+### Slogan ↔ person (top 6)
+
+| Slogan | Person |
+|--------|--------|
+| Swaraj is my birthright | Tilak |
+| Inquilab Zindabad | Hasrat Mohani (coined); Bhagat Singh (popularised) |
+| Do or Die | Gandhi, 1942 |
+| Give me blood and I will give you freedom | Bose |
+| One caste, one religion, one God | Sri Narayana Guru |
+| Educate, Agitate, Organise | Ambedkar |
+
+### INC President ↔ "first" tag (top 6)
+
+| President | "First" tag |
+|-----------|--------------|
+| W.C. Bonnerjee, 1885 | First session, Bombay |
+| Badruddin Tyabji, 1887 | First Muslim President |
+| George Yule, 1888 | First English President |
+| Annie Besant, 1917 | First woman President |
+| Sarojini Naidu, 1925 | First **Indian** woman President |
+| M.K. Gandhi, 1924 | **Only** session Gandhi presided — Belgaum |
+
+### Committee/Mission ↔ year (top 6)
+
+| Body | Year |
+|------|------|
+| Hunter Commission (education) | 1882 |
+| Hunter Committee (Punjab) | 1919–20 |
+| Simon Commission | 1927–30 |
+| Nehru Report | 1928 |
+| Cripps Mission | 1942 |
+| Cabinet Mission | 1946 |
+
+### British official ↔ signature policy (top 6)
+
+| Official | Signature |
+|----------|-----------|
+| Curzon | Partition of Bengal, 1905 |
+| Minto | Separate electorates, 1909 |
+| Chelmsford | Montford Act, 1919 |
+| Irwin | Gandhi–Irwin Pact, 1931 |
+| Willingdon | Communal Award, 1932 |
+| Mountbatten | 3 June Plan; last Viceroy |
+
+> **Exam note:** These four tables carry the heaviest repeat weight across 2018–2025 papers. Drill them first if short on time.
 
 ---
 
@@ -425,7 +534,7 @@ This is the **Governor-General policy match table**. Full tenure cards sit with 
 
 ## Practice Zone — UPPCS Format Drill
 
-> **50 questions.** Matching, NOT-matched, chronology, multi-statement.
+> **56 questions.** Matching, NOT-matched, chronology, multi-statement.
 
 ---
 
@@ -1431,6 +1540,127 @@ D. Hunter Committee 1919
 
 ---
 
+**Q51.** With reference to the 1857 Revolt in Uttar Pradesh, which of the following statements is/are correct?
+
+1. Jhalkari Bai was a Dalit soldier who fought at Jhansi and resembled Rani Lakshmibai.  
+2. Uda Devi fought at Sikandar Bagh, Lucknow.
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
+**Q52.** Which of the following pairs is NOT correctly matched?
+
+A. Cripps Mission — 1942, solo envoy
+
+B. Cabinet Mission — 1946, three members
+
+C. Nehru Report — 1928, Indian response to Simon
+
+D. Wavell Plan — 1946, Simla Conference
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Wavell Plan / Simla Conference is **1945**.
+
+</details>
+
+---
+
+**Q53.** Ram Prasad Bismil and Ashfaqullah Khan, both hanged for the Kakori conspiracy, were born in:
+
+A. Kanpur
+
+B. Shahjahanpur
+
+C. Faizabad
+
+D. Meerut
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+</details>
+
+---
+
+**Q54.** Match: A. Naujawan Bharat Sabha  B. Indian Independence League  C. Swadesh Bandhab Samiti  D. Azad Hind Fauj  
+With: 1. Ashwini Kumar Dutta  2. Bhagat Singh  3. Subhas Chandra Bose  4. Rash Behari Bose
+
+A. 2 4 1 3
+
+B. 2 4 3 1
+
+C. 4 2 1 3
+
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
+**Q55.** Which of the following newspapers is correctly matched with its founder?
+
+A. The Hindu — G. Subramania Iyer
+
+B. Tribune — Motilal Nehru
+
+C. Rast Goftar — Bal Gangadhar Tilak
+
+D. Hindoo Patriot — Surendranath Banerjee
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
+**Q56.** Consider the following statements on the Indian Independence Act, 1947:
+
+1. It provided for Partition and Dominion status for India and Pakistan.  
+2. Lord Mountbatten became the first Governor-General of independent India under it.
+
+A. Only 1
+
+B. Only 2
+
+C. Both 1 and 2
+
+D. Neither 1 nor 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
 ## Complete PYQ Bank
 
 > Matching / NOT-matched / slogan-adjacent stems. Narrative homes stay in T1–T15; full stems repeated here because this topic **is** the match vault.
@@ -1578,3 +1808,7 @@ D. C A B D
 16. **Karachi 1931 = Nehru President** → **Patel**; Nehru = Lahore 1929.
 17. **Faizpur = first English President** → first **village** session; first English = **Yule 1888**.
 18. **GOI 1935 started dyarchy in provinces** → dyarchy provinces = **1919**; 1935 = **autonomy**.
+19. **Jhalkari Bai = Rani Lakshmibai** → she was a **separate** Dalit soldier who resembled the Rani; not the same person.
+20. **Cabinet Mission = solo envoy** → that is **Cripps Mission, 1942**. Cabinet Mission (1946) had **three** members.
+21. **Chandernagore = part of Pondicherry UT** → Chandernagore merged into **West Bengal (1954)**; Pondicherry group is a separate UT.
+22. **Bismil and Ashfaqullah born in different towns** → both born in **Shahjahanpur**, UP.
