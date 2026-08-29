@@ -43,16 +43,4 @@ hide:
 [**Sangam Age**
 <span>Tamilakam · tinai · Muvendar · Muziris–Puhar–Korkai.</span>](12_Sangam_Age.md){ .study-card }
 
-[**Ancient Indian Administration**
-<span>Titles · inscriptions · officials · UPPCS match lists.</span>](13_Ancient_Indian_Administration.md){ .study-card }
-
-[**Ancient Indian Economy**
-<span>Agriculture · trade · coins · guilds.</span>](14_Ancient_Indian_Economy.md){ .study-card }
-
-[**Archaeology**
-<span>Excavators · sites · methods · ASI locks.</span>](15_Archaeology.md){ .study-card }
-
-[**Ancient India Miscellaneous**
-<span>Mixed high-yield traps across the syllabus.</span>](16_Ancient_India_Miscellaneous.md){ .study-card }
-
 </div>
