@@ -2,22 +2,40 @@
 
 > Ancient History · Active recall · Pushyabhuti 606–647 · Kannauj · Xuanzang · Prayaga
 
-Attempt every stem from memory. Write only keywords. Then open **Show answer**.
+One fact per card. Write keywords, then open **Show answer**.
 
 ---
 
 ## Dynasty and rise
 
-**Q1.** Name Harsha's dynasty, first capital, and core family members.
+**Q1.** Which dynasty did Harsha belong to?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: Pushyabhuti / Vardhana.** First centre **Thanesar (Sthaneshvara)**, Haryana. Father **Prabhakaravardhana**, mother **Yashomati**. Elder brother **Rajyavardhana**. Sister **Rajyashri**, married **Grahavarman** of the **Maukhari** house of **Kannauj**.
+**Ans: Pushyabhuti / Vardhana.**
 
 </details>
 
-**Q2.** How did Harsha get Kannauj, and in which year did he take the throne?
+**Q2.** What was Harsha's first capital?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Thanesar (Sthaneshvara), Haryana.**
+
+</details>
+
+**Q3.** Name Harsha's father, mother, elder brother, and sister.
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Father Prabhakaravardhana, mother Yashomati, brother Rajyavardhana, sister Rajyashri** (married **Grahavarman** of Kannauj Maukhari house).
+
+</details>
+
+**Q4.** How did Harsha get Kannauj, and in which year did he take the throne?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -30,7 +48,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Empire and Pulakeshin
 
-**Q3.** What was the extent of Harsha's empire, where did it stop in the south, and who records his defeat there?
+**Q5.** What was the extent of Harsha's empire, where did it stop in the south, and who records his defeat there?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -43,30 +61,84 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Xuanzang and Nalanda
 
-**Q4.** Who was Xuanzang, when did he come to India, why did he come, how long did he stay, and which book did he write?
+**Q6.** Who was Xuanzang?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: Chinese monk (Hiuen Tsang)** under **Tang Taizong**. In India about **15–16 years** in **Harsha’s** reign to study Buddhism. Record = ***Si-Yu-Ki***. **Not Fa-Hien** (that is Chandragupta II). **I-tsing** comes **after** Harsha.
+**Ans: Chinese monk (Hiuen Tsang)** who visited India under **Tang Taizong.**
 
 </details>
 
-**Q5.** Who taught at Nalanda when Xuanzang visited, who founded it, and what was Harsha's role?
+**Q7.** Why did Xuanzang come to India, and how long did he stay?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: Shilabhadra** is the abbot. **Kumaragupta I** founds Nalanda in tradition. **Harsha patronises**; he does **not** found it. Subjects: Buddhist philosophy, logic, grammar, medicine.
+**Ans: To study Buddhism** for about **15–16 years** during **Harsha's reign.**
 
 </details>
 
-**Q6.** What does Xuanzang say of Harsha, Kannauj, religion, punishments?
+**Q8.** Which book did Xuanzang write about India?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans:** Energetic, generous king. **Kannauj** is a great city. Harsha leans **Mahayana** but **tolerates** Shaiva and others. Society is graded; punishments look milder than some earlier pictures.
+**Ans: *Si-Yu-Ki*.** Not Fa-Hien (Chandragupta II). **I-tsing** comes after Harsha.
+
+</details>
+
+**Q9.** Who was the Nalanda abbot when Xuanzang visited?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Shilabhadra.**
+
+</details>
+
+**Q10.** Who founded Nalanda in tradition?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Kumaragupta I.**
+
+</details>
+
+**Q11.** What was Harsha's role at Nalanda?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Patron — he did not found it.** Subjects included Buddhist philosophy, logic, grammar, medicine.
+
+</details>
+
+**Q12.** What does Xuanzang say about Harsha as a ruler?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Energetic, generous king.**
+
+</details>
+
+**Q13.** What does Xuanzang say about Kannauj?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: A great city** at the heart of Harsha's realm.
+
+</details>
+
+**Q14.** What does Xuanzang say about Harsha's religion and punishments?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Mahayana lean** but **tolerates** Shaiva and others. Society is graded; punishments look milder than some earlier pictures.
 
 </details>
 
@@ -74,12 +146,30 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Administration and economy
 
-**Q7.** How centralised was Harsha's administration, and what were its main units?
+**Q15.** How centralised was Harsha's administration?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: Not Mauryan-central.** King + **bhukti (uparika)** + **vishaya** + village. Control of subordinates by **tribute and alliance**. **Land grants** grow local lords. Economy is **agrarian**. Towns thinner than Gupta peak; Kannauj still thrives. Xuanzang is the economic eyewitness.
+**Ans: Not Mauryan-central** — control through **tribute and alliance**, not dense districts.
+
+</details>
+
+**Q16.** What were Harsha's main administrative units?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: King → bhukti (uparika) → vishaya → village.** **Land grants** grow local lords.
+
+</details>
+
+**Q17.** What does Xuanzang tell us about Harsha's economy?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Agrarian base;** towns thinner than Gupta peak; **Kannauj** still thrives.
 
 </details>
 
@@ -87,12 +177,21 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Religion and assemblies
 
-**Q8.** What was Harsha’s religious policy, and which two famous assemblies did he hold?
+**Q18.** What was Harsha's religious policy?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans:** Early **Shaiva** tilt, later strong **Mahayana** patronage — **not exclusive**. **Kannauj assembly (~643)** honours Xuanzang / Buddhist teaching. **Prayaga assembly** every **five years**: he **gives away** stored wealth. Prayaga is the UP charity lock.
+**Ans: Early Shaiva tilt, later strong Mahayana patronage — not exclusive.**
+
+</details>
+
+**Q19.** Which two famous assemblies did Harsha hold?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Kannauj (~643)** for Buddhist teaching / Xuanzang; **Prayaga every five years** for charity dana.
 
 </details>
 
@@ -100,12 +199,21 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Literature
 
-**Q9.** Name Harsha's three plays and Banabhatta's two major books.
+**Q20.** Name Harsha's three plays.
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Plays:** ***Ratnavali, Priyadarshika, Nagananda.*** **Banabhatta** writes ***Harshacharita*** — a **biography**, **not** Harsha’s autobiography — and ***Kadambari*** (romance). Court language **Sanskrit**. Also **Mayura**. Bana’s home tradition: **Pritikuta / Shravasti (UP)**.
+**Ans: *Ratnavali, Priyadarshika, Nagananda*.**
+
+</details>
+
+**Q21.** Name Banabhatta's two major books.
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: *Harshacharita*** (biography, not Harsha's autobiography) and ***Kadambari*.** Court language **Sanskrit**; also poet **Mayura**.
 
 </details>
 
@@ -113,12 +221,30 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## China, death, aftermath
 
-**Q10.** What was Harsha's China link, in which year did he die, and why did his empire collapse?
+**Q22.** What was Harsha's link with the Tang court?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: Tang** court; envoys to **Taizong**. Harsha dies **c. 647** with **no strong heir**. The state was **personal + tributary**, so it **fragments**. North India returns to **regional kingdoms**; Kannauj stays the later prize.
+**Ans: Envoys to Tang Taizong** — diplomatic contact beside Xuanzang's Buddhist mission.
+
+</details>
+
+**Q23.** In which year did Harsha die?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: c. 647 CE.**
+
+</details>
+
+**Q24.** Why did Harsha's empire collapse after his death?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: No strong heir; rule rested on personal charisma and alliances** — north India fragmented again.
 
 </details>
 
@@ -126,7 +252,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## UPPCS packet
 
-**Q11.** Why are Kannauj and Prayaga the Harsha–UP pair?
+**Q25.** Why are Kannauj and Prayaga the Harsha–UP pair?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -135,7 +261,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q12.** Compare Harsha with the Guptas in one card.
+**Q26.** Compare Harsha with the Guptas in one card.
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -148,7 +274,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Rapid fire
 
-**Q13.** From memory, link each prompt to its Harsha lock:
+**Q27.** From memory, link each prompt to its Harsha lock:
 
 | Recall item |
 |-------------|
@@ -193,7 +319,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Extra locks
 
-**Q14.** From memory, state the exam lock for each Harsha anchor:
+**Q28.** From memory, state the exam lock for each Harsha anchor:
 
 | Recall item |
 |-------------|
@@ -224,7 +350,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q15.** Who killed Grahavarman, and how did Rajyavardhana die?
+**Q29.** Who killed Grahavarman, and how did Rajyavardhana die?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -233,7 +359,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q16.** Which inscription is wrongly paired with Harsha in UPPCS traps, and which king does it actually belong to?
+**Q30.** Which inscription is wrongly paired with Harsha in UPPCS traps, and which king does it actually belong to?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -242,7 +368,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q17.** How is **I-tsing (Yijing)** different from **Xuanzang** in period and purpose?
+**Q31.** How is **I-tsing (Yijing)** different from **Xuanzang** in period and purpose?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -251,7 +377,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q18.** Who was **Mayura** at Harsha’s court?
+**Q32.** Who was **Mayura** at Harsha’s court?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -260,7 +386,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q19.** What was Harsha’s link with the **Tang** court of China?
+**Q33.** What was Harsha’s link with the **Tang** court of China?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -269,7 +395,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q20.** Why did Harsha’s empire collapse soon after his death?
+**Q34.** Why did Harsha’s empire collapse soon after his death?
 
 <details markdown="1">
 <summary>Show answer</summary>

@@ -8,16 +8,57 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Origin
 
-**Q1.** Who founded the Gupta line, who was Ghatotkacha, who was the first **Maharajadhiraja**, what were the dates, and where was the core?
+**Q1.** Who founded the Gupta line?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: Sri Gupta** (title **Maharaja**). Son **Ghatotkacha** (still Maharaja). Imperial clock: **Chandragupta I** as **Maharajadhiraja**, ~**320 CE**. Empire about **320–550 CE**. Core **Magadha / eastern UP–Bihar**; capital **Pataliputra**. **Not** Chandragupta Maurya.
+**Ans: Sri Gupta** (title **Maharaja**).
 
 </details>
 
-**Q2.** Why did Chandragupta I’s marriage to Kumaradevi matter, and what do their joint coins show?
+
+**Q2.** Who was Ghatotkacha?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Sri Gupta's son**, still titled **Maharaja**.
+
+</details>
+
+
+**Q3.** Who was the first Gupta **Maharajadhiraja**?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Chandragupta I**, ~**320 CE**.
+
+</details>
+
+
+**Q4.** What were the approximate dates of the Gupta Empire?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: About 320–550 CE.**
+
+</details>
+
+
+**Q5.** Where was the Gupta core region?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Magadha / eastern UP–Bihar**; capital **Pataliputra.** Not Chandragupta Maurya.
+
+</details>
+
+
+**Q6.** Why did Chandragupta I’s marriage to Kumaradevi matter, and what do their joint coins show?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -30,7 +71,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Samudragupta
 
-**Q3.** Where is the Prayaga Prashasti, who wrote it, and on whose pillar shaft does it stand?
+**Q7.** Where is the Prayaga Prashasti, who wrote it, and on whose pillar shaft does it stand?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -39,7 +80,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q4.** What were Samudragupta’s three regional policies — north, south, and forest/frontier?
+**Q8.** What were Samudragupta’s three regional policies — north, south, and forest/frontier?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -48,7 +89,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q5.** Which Samudragupta coin types are famous, and how do they link him to the Ashvamedha?
+**Q9.** Which Samudragupta coin types are famous, and how do they link him to the Ashvamedha?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -61,20 +102,51 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Chandragupta II
 
-**Q6.** What title did Chandragupta II take, whom did he defeat in the west, why was Gujarat important, and which Chinese pilgrim visited his reign?
+**Q10.** What title did Chandragupta II take?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: Vikramaditya.** He ends **Western Kshatrapas**. Proof includes **silver coins** of ~**33 grains** (2022). Gujarat = **Arabian Sea** trade. Second court **Ujjain**. **Fa-Hien** visits in this reign for Buddhist texts. He describes mild punishments, prosperity, and **Chandalas** living outside towns. **Fa-Hien ≠ Xuanzang** (Harsha).
+**Ans: Vikramaditya.**
 
 </details>
+
+
+**Q11.** Whom did Chandragupta II defeat in the west?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Western Kshatrapas.** Silver coins ~**33 grains** (2022).
+
+</details>
+
+
+**Q12.** Why was Gujarat important under Chandragupta II?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Arabian Sea trade.** Second court **Ujjain**.
+
+</details>
+
+
+**Q13.** Which Chinese pilgrim visited during Chandragupta II's reign?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Fa-Hien.** Not Xuanzang (Harsha).
+
+</details>
+
 
 ---
 
 ## Kumaragupta and Skandagupta
 
-**Q7.** What was Kumaragupta I’s title, what is his Nalanda lock, and what troubled his later reign?
+**Q14.** What was Kumaragupta I’s title, what is his Nalanda lock, and what troubled his later reign?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -83,20 +155,41 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q8.** How did Skandagupta deal with the Hunas, and what are his Junagadh and Bhitari locks?
+**Q15.** How did Skandagupta deal with the Hunas?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans:** He **checks the Hunas** for a time. **Junagadh**: **Parnadatta** repairs **Sudarshana Lake**. **Bhitari (Ghazipur, UP)** is his prasasti. Later coin quality falls. **Mihirakula** is a later Huna; **Yashodharman** of Malwa also claims a Huna defeat.
+**Ans: He checked them for a time; later coin quality falls.**
 
 </details>
+
+
+**Q16.** What is Skandagupta's Junagadh lock?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Parnadatta repairs Sudarshana Lake.**
+
+</details>
+
+
+**Q17.** What is Skandagupta's Bhitari lock?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Bhitari (Ghazipur, UP) prasasti.**
+
+</details>
+
 
 ---
 
 ## Administration and economy
 
-**Q9.** How did Gupta administration differ from the Mauryan state in units and officers?
+**Q18.** How did Gupta administration differ from the Mauryan state in units and officers?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -105,33 +198,105 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q10.** What were **bhaga**, **bhoga**, and **kara**, how did land grants change power, and how did Gupta gold coinage later decline?
+**Q19.** What was **bhaga**?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Bhaga** = produce share. **Bhoga** = dues in kind. **Kara** = tax. Grants to Brahmanas shift **revenue and local power** — feudal tendency. Gold **dinara** under Samudra and CG II; later issues thin out. Long-distance trade **softens** after the western ports peak.
+**Ans: Produce share.**
 
 </details>
+
+
+**Q20.** What was **bhoga**?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Dues in kind.**
+
+</details>
+
+
+**Q21.** What was **kara**?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Tax.**
+
+</details>
+
+
+**Q22.** How did land grants change Gupta power?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Brahmana grants shifted revenue and local power — feudal tendency.**
+
+</details>
+
+
+**Q23.** How did Gupta gold coinage change later?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Dinara strong under Samudragupta and CG II; later issues thin out as long-distance trade softens.**
+
+</details>
+
 
 ---
 
 ## Society and religion
 
-**Q11.** What happened to varna, women, sati, and Chandalas in Gupta society?
+**Q24.** What happened to varna in Gupta society?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans:** Caste **hardens**. Women’s public room shrinks. **Eran (510 CE)** is the famous **sati** inscription. Fa-Hien: **Chandalas** outside the settlement. Royal cult is **Vaishnava / Vishnu**; **Ashvamedha** for Samudra and Kumaragupta. Buddhism is **not** persecuted (Nalanda, Sarnath images).
+**Ans: Caste hardened.**
 
 </details>
+
+
+**Q25.** What happened to women's public role?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: It shrank.** Eran (510 CE) = famous **sati** inscription.
+
+</details>
+
+
+**Q26.** Where did Fa-Hien say Chandalas lived?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Outside the settlement.**
+
+</details>
+
+
+**Q27.** What was the royal Gupta cult?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Vaishnava / Vishnu; Ashvamedha for Samudragupta and Kumaragupta.**
+
+</details>
+
 
 ---
 
 ## Art, UP sites, literature, science
 
-**Q12.** Name the main Gupta sculpture schools and the key UP temple sites.
+**Q28.** Name the main Gupta sculpture schools and the key UP temple sites.
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -140,7 +305,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q13.** Which works are linked to Kalidasa, and which famous text is **not** his (2025 trap)?
+**Q29.** Which works are linked to Kalidasa, and which famous text is **not** his (2025 trap)?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -149,7 +314,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q14.** Distinguish the scientific contributions of Aryabhata and Varahamihira.
+**Q30.** Distinguish the scientific contributions of Aryabhata and Varahamihira.
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -158,7 +323,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q15.** Which Gupta ruler is traditionally linked with Nalanda, and what subjects were taught there?
+**Q31.** Which Gupta ruler is traditionally linked with Nalanda, and what subjects were taught there?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -171,7 +336,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Decline and “Golden Age”
 
-**Q16.** Why decline, and is “Golden Age” fully true?
+**Q32.** Why decline, and is “Golden Age” fully true?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -180,20 +345,41 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q17.** Why did the Guptas follow a different policy in the south, why was Gujarat prized, and why did they rely more on feudatories than the Mauryas?
+**Q33.** Why did the Guptas follow a different policy in the south?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**South** = influence without garrisons. **Gujarat** = ports and silver. **Feudatories** = cheaper than Mauryan *mahamatras* across a huge map.
+**Ans: Influence without garrisons — tribute, not full annexation.**
 
 </details>
+
+
+**Q34.** Why was Gujarat prized?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Ports and silver.**
+
+</details>
+
+
+**Q35.** Why did Guptas rely more on feudatories than Mauryas?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Cheaper to run a huge map through samantas than Mauryan kumara machine.**
+
+</details>
+
 
 ---
 
 ## Rapid fire
 
-**Q18.** From memory, link each name to its Gupta lock:
+**Q36.** From memory, link each name to its Gupta lock:
 
 | Recall item |
 |-------------|
@@ -238,7 +424,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Extra locks
 
-**Q19.** In the 2018 southern match list, which king is paired with Kanchi — **Vishnugopa**?
+**Q37.** In the 2018 southern match list, which king is paired with Kanchi — **Vishnugopa**?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -247,7 +433,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q20.** Arrange these travellers/scholars in chronological order: Fa-Hien, Xuanzang, Yijing, and Al-Biruni (2024 lock).
+**Q38.** Arrange these travellers/scholars in chronological order: Fa-Hien, Xuanzang, Yijing, and Al-Biruni (2024 lock).
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -256,7 +442,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q21.** Which Gupta inscription at **Eran (510 CE)** is famous for **sati**, and what does it show about Gupta society?
+**Q39.** Which Gupta inscription at **Eran (510 CE)** is famous for **sati**, and what does it show about Gupta society?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -265,7 +451,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q22.** What is the exam lock for the **Mehrauli iron pillar**, and which ruler is it often linked to?
+**Q40.** What is the exam lock for the **Mehrauli iron pillar**, and which ruler is it often linked to?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -274,7 +460,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q23.** Who wrote ***Mudrarakshasa***, and what is its subject?
+**Q41.** Who wrote ***Mudrarakshasa***, and what is its subject?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -283,7 +469,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q24.** Which famous love poem is **Bhartrihari’s**, not Kalidasa’s (2025 trap)?
+**Q42.** Which famous love poem is **Bhartrihari’s**, not Kalidasa’s (2025 trap)?
 
 <details markdown="1">
 <summary>Show answer</summary>

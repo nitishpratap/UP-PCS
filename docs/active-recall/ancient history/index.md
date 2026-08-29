@@ -43,4 +43,18 @@ hide:
 [**Sangam Age**
 <span>Tamilakam · tinai · Muvendar · Muziris–Puhar–Korkai.</span>](12_Sangam_Age.md){ .study-card }
 
+
+[**Ancient Indian Administration**
+<span>Bhagadugha · Samaharta · Agronomai · Hathigumpha trap.</span>](13_Ancient_Indian_Administration.md){ .study-card }
+
+[**Ancient Indian Economy**
+<span>Punch-marked · dinara · shreni · Muziris · Periplus.</span>](14_Ancient_Indian_Economy.md){ .study-card }
+
+[**Archaeology**
+<span>ASI 1861 · Wakankar · Alamgirpur · Sanauli.</span>](15_Archaeology.md){ .study-card }
+
+[**Miscellaneous**
+<span>Puranas · Charvaka · Kakatiya · world civ.</span>](16_Miscellaneous.md){ .study-card }
+
+
 </div>

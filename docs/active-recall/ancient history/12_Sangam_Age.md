@@ -8,38 +8,111 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**. 
 
 ## Basics
 
-**Q1.** What is the Sangam Age, where, when, and who sits in it?
+**Q1.** What is the Sangam Age?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans:** Early historic **Tamilakam**, south of the Krishna–Tungabhadra, about **c. 300 BCE–300 CE**. **Sangam** means a poet-assembly. Traditional seat is **Madurai** under the Pandyas. **Muvendar** = three crowned kings = **Chera, Chola, Pandya**. Pallavas are **not** in this trio. Contemporary with the **Satavahanas**, not the same house. Legend of three Sangams: the first two are mythical. Surviving poems are the **Third**.
+**Ans: Early historic Tamilakam**, ~**c. 300 BCE–300 CE**. Contemporary with **Satavahanas**, not the same dynasty.
 
 </details>
 
-**Q2.** What are the main sources for the Sangam Age, which language do they use, and why do historians value them?
+
+**Q2.** Where did the Sangam tradition place the poet-assemblies?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: Tamil** poems, Tamil-Brahmi, archaeology (**Arikamedu, Keeladi**), and Greco-Roman texts. The corpus is a window on kings, war, trade, women, and everyday life. It is **not** the *Arthashastra*.
+**Ans: Madurai** under the Pandyas.
 
 </details>
+
+
+**Q3.** Who are the three crowned kings (Muvendar)?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Chera, Chola, Pandya.** Pallavas are **not** in this trio.
+
+</details>
+
+
+**Q4.** What are the main literary sources for the Sangam Age?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Tamil poems, Tamil-Brahmi, archaeology (Arikamedu, Keeladi), Greco-Roman texts.**
+
+</details>
+
+
+**Q5.** Which language do Sangam sources use?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Tamil.**
+
+</details>
+
+
+**Q6.** Why do historians value the Sangam corpus?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Window on kings, war, trade, women, and everyday life — not the *Arthashastra*.**
+
+</details>
+
 
 ---
 
 ## Literature
 
-**Q3.** Name the *Ettuttokai*, *Pattuppattu*, and *Tolkappiyam*, and distinguish **Akam** from **Puram** poetry.
+**Q7.** What is the *Ettuttokai*?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-***Ettuttokai*** = Eight Anthologies (*Natrinai, Kuruntokai, Ainkurunuru, Pathitrupathu, Paripadal, Kalithogai, Akananuru, Purananuru*). ***Pattuppattu*** = Ten Idylls. *Pattinappalai* is the **Puhar** poem. ***Tolkappiyam*** is the earliest Tamil grammar and poetics, attributed to **Tolkappiyar**. **Akam** is inner / love. **Puram** is outer / war, kingship, gift.
+**Ans: Eight Anthologies** of Tamil poems.
 
 </details>
 
-**Q4.** From memory, link each **tinai** landscape to its main occupation and deity:
+
+**Q8.** What is the *Pattuppattu*?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Ten Idylls**; *Pattinappalai* is the **Puhar** poem.
+
+</details>
+
+
+**Q9.** What is *Tolkappiyam*?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Earliest Tamil grammar and poetics**, by **Tolkappiyar**.
+
+</details>
+
+
+**Q10.** Distinguish **Akam** from **Puram** poetry.
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Akam = inner/love. Puram = outer/war, kingship, gift.**
+
+</details>
+
+
+**Q11.** From memory, link each **tinai** landscape to its main occupation and deity:
 
 | Tinai | Occupation | Deity |
 |-------|------------|-------|
@@ -64,7 +137,7 @@ Tinai ties ecology to work and cult. **Janapada** is **not** a tinai.
 
 </details>
 
-**Q5.** How do the Kannagi epics relate to the Sangam anthologies?
+**Q12.** How do the Kannagi epics relate to the Sangam anthologies?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -77,16 +150,37 @@ Tinai ties ecology to work and cult. **Janapada** is **not** a tinai.
 
 ## Muvendar
 
-**Q6.** Give the capitals, ports, emblems, and signature kings of the Chera, Chola, and Pandya.
+**Q13.** Give the Chera capital, port, emblem, and signature king.
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Chera:** **Vanji / Karur**, **Muziris (Muchiri, Kerala)**, **bow**, **Senguttuvan**. **Chola:** **Uraiyur**, **Puhar / Kaveripattinam**, **tiger**, **Karikala**. **Pandya:** **Madurai**, **Korkai**, **fish**, **Nedunjeliyan**. Later **Thanjavur** is imperial Chola. **Karikala ≠ Rajaraja I**.
+**Ans: Vanji · Muziris · bow · Senguttuvan.**
 
 </details>
 
-**Q7.** Write one sentence each on Karikala, Senguttuvan, and Korkai.
+
+**Q14.** Give the Chola capital, port, emblem, and signature king.
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Uraiyur · Puhar · tiger · Karikala.**
+
+</details>
+
+
+**Q15.** Give the Pandya capital, port, emblem, and signature king.
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Madurai · Korkai · fish · Nedunjeliyan.**
+
+</details>
+
+
+**Q16.** Write one sentence each on Karikala, Senguttuvan, and Korkai.
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -99,42 +193,145 @@ Tinai ties ecology to work and cult. **Janapada** is **not** a tinai.
 
 ## Trade
 
-**Q8.** What is the exam lock for Muziris, Puhar, Arikamedu, the *Periplus*, and **Yavana**?
+**Q17.** What is the exam lock for **Muziris**?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Muziris** = Chera **pepper** gate. **Puhar** = Chola Bay of Bengal port (*Pattinappalai*). **Arikamedu** near **Puducherry** = Roman **amphorae**. ***Periplus*** is an **anonymous** Greco-Roman merchant book. **Pliny** complains of gold drain. **Yavana** in the poems is a western trader, not only a Greek king. Monsoon winds make the round trip work. Roman gold coins mark the surplus.
+**Ans: Chera pepper gate to Rome.**
 
 </details>
+
+
+**Q18.** What is the exam lock for **Puhar**?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Chola Bay of Bengal port; *Pattinappalai*.**
+
+</details>
+
+
+**Q19.** What is the exam lock for **Arikamedu**?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Roman amphorae near Puducherry.**
+
+</details>
+
+
+**Q20.** What is the *Periplus*?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Anonymous Greco-Roman merchant guide.**
+
+</details>
+
+
+**Q21.** What does **Yavana** mean in Sangam poems?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Western/foreign trader**, not only a Greek king.
+
+</details>
+
 
 ---
 
 ## Polity and society
 
-**Q9.** Describe Sangam polity: king, taxes, chiefs, hero stones, and cattle wealth.
+**Q22.** What was the Sangam king called?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-King is *vendan*. Land tax **vari**. Customs **sungam**. Units **nadu** and **ur**. **Velir** are local warrior chiefs. **Kadaiyezhu Vallalgal** are the seven legendary generous patrons. **Nadukal** are hero stones for fallen fighters and cattle raids. Cattle are wealth. This is **not** a Mauryan kumara machine.
+**Ans: *Vendan*.**
 
 </details>
 
-**Q10.** What do Sangam poems tell us about women, occupations, and major towns?
+
+**Q23.** What were **vari** and **sungam**?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-Women appear as poets (**Avvaiyar** and others) and in economic life. Occupations follow tinai: hunt, herd, paddy, fish, raid. Craft and merchants link inland surplus to ports. Towns: **Madurai, Uraiyur, Puhar, Korkai**. **Keeladi** on the Vaigai is early historic urban archaeology.
+**Ans: Land tax · customs.**
 
 </details>
+
+
+**Q24.** What were **nadu** and **ur**?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Administrative units — village cluster and village.**
+
+</details>
+
+
+**Q25.** Who were the **Velir**?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Local warrior chiefs.**
+
+</details>
+
+
+**Q26.** What are **nadukal**?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Hero stones** for fallen fighters.
+
+</details>
+
+
+**Q27.** What do Sangam poems tell us about women?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Poets like Avvaiyar and women in economic life.**
+
+</details>
+
+
+**Q28.** How do occupations follow tinai?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Hunt, herd, paddy, fish, raid by landscape.**
+
+</details>
+
+
+**Q29.** Name four major Sangam towns.
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Madurai, Uraiyur, Puhar, Korkai.** Keeladi = early historic urban archaeology on the Vaigai.
+
+</details>
+
 
 ---
 
 ## Religion
 
-**Q11.** Summarise Sangam religion in one recall card.
+**Q30.** Summarise Sangam religion in one recall card.
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -147,7 +344,7 @@ Nature and landscape gods sit beside **hero worship**. **Murugan** is the hill f
 
 ## Rapid fire
 
-**Q12.** From memory, link each Sangam prompt to its lock:
+**Q31.** From memory, link each Sangam prompt to its lock:
 
 | Recall item |
 |-------------|
@@ -180,7 +377,7 @@ Nature and landscape gods sit beside **hero worship**. **Murugan** is the hill f
 
 </details>
 
-**Q13.** For each **tinai**, state landscape → occupation → deity:
+**Q32.** For each **tinai**, state landscape → occupation → deity:
 
 | Tinai |
 |-------|
@@ -207,7 +404,7 @@ Nature and landscape gods sit beside **hero worship**. **Murugan** is the hill f
 
 ## Extra locks
 
-**Q14.** Which fifteen facts form the core Sangam UPPCS packet?
+**Q33.** Which fifteen facts form the core Sangam UPPCS packet?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -216,7 +413,7 @@ Nature and landscape gods sit beside **hero worship**. **Murugan** is the hill f
 
 </details>
 
-**Q15.** What is **Keeladi**, and why do archaeologists cite it for the Sangam Age?
+**Q34.** What is **Keeladi**, and why do archaeologists cite it for the Sangam Age?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -225,7 +422,7 @@ Nature and landscape gods sit beside **hero worship**. **Murugan** is the hill f
 
 </details>
 
-**Q16.** Who were the **Velir** chiefs and the **Kadaiyezhu Vallalgal**?
+**Q35.** Who were the **Velir** chiefs and the **Kadaiyezhu Vallalgal**?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -234,7 +431,7 @@ Nature and landscape gods sit beside **hero worship**. **Murugan** is the hill f
 
 </details>
 
-**Q17.** What does **Pliny** complain about regarding Rome and India?
+**Q36.** What does **Pliny** complain about regarding Rome and India?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -243,7 +440,7 @@ Nature and landscape gods sit beside **hero worship**. **Murugan** is the hill f
 
 </details>
 
-**Q18.** Who wrote the *Periplus of the Erythraean Sea*, and what is it?
+**Q37.** Who wrote the *Periplus of the Erythraean Sea*, and what is it?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -252,7 +449,7 @@ Nature and landscape gods sit beside **hero worship**. **Murugan** is the hill f
 
 </details>
 
-**Q19.** How do the legendary **three Sangams** differ from the poems we study?
+**Q38.** How do the legendary **three Sangams** differ from the poems we study?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -261,7 +458,7 @@ Nature and landscape gods sit beside **hero worship**. **Murugan** is the hill f
 
 </details>
 
-**Q20.** Distinguish ***Silappadikaram*** from ***Manimekalai***.
+**Q39.** Distinguish ***Silappadikaram*** from ***Manimekalai***.
 
 <details markdown="1">
 <summary>Show answer</summary>

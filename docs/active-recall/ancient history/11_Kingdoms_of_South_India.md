@@ -8,16 +8,37 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Sangam Age
 
-**Q1.** What is the Sangam Age, where, when, and who are the three houses?
+**Q1.** What is the Sangam Age?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans:** Early historic **Tamilakam**, south of the Krishna–Tungabhadra. Roughly **c. 300 BCE–300 CE**. **Sangam** means a poet-assembly; the traditional seat is **Madurai**. The three crowned kings are **Muvendar: Chera, Chola, Pandya**. Pallavas are **not** Muvendar. The age is contemporary with the **Satavahanas**, not the same dynasty.
+**Ans: Early historic Tamilakam**, south of Krishna–Tungabhadra, ~**c. 300 BCE–300 CE**. **Sangam** = poet-assembly.
 
 </details>
 
-**Q2.** Name the main literary buckets and *Tolkappiyam*.
+
+**Q2.** Where was the traditional seat of the Sangam?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Madurai** under the Pandyas.
+
+</details>
+
+
+**Q3.** Who are the three crowned Sangam houses?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Muvendar — Chera, Chola, Pandya.** Pallavas are **not** Muvendar.
+
+</details>
+
+
+**Q4.** Name the main literary buckets and *Tolkappiyam*.
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -30,16 +51,37 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Chera, Chola, Pandya
 
-**Q3.** Give the capitals, ports, emblems, and signature kings of the Chera, Chola, and Pandya.
+**Q5.** What were the Chera capital, port, emblem, and signature king?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Chera:** **Vanji / Karur**, port **Muziris (Muchiri, Kerala)**, emblem **bow**, king **Senguttuvan**. **Chola:** capital **Uraiyur**, port **Puhar / Kaveripattinam**, emblem **tiger**, king **Karikala**. **Pandya:** **Madurai**, port **Korkai**, emblem **fish**, king **Nedunjeliyan**. Imperial Chola **Thanjavur** is later. Do not mix **Karikala** with **Rajaraja I**.
+**Ans: Vanji/Karur · Muziris · bow · Senguttuvan.**
 
 </details>
 
-**Q4.** What is the exam lock for Karikala, Senguttuvan, and Korkai?
+
+**Q6.** What were the Chola capital, port, emblem, and signature king?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Uraiyur · Puhar/Kaveripattinam · tiger · Karikala.**
+
+</details>
+
+
+**Q7.** What were the Pandya capital, port, emblem, and signature king?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Madurai · Korkai · fish · Nedunjeliyan.**
+
+</details>
+
+
+**Q8.** What is the exam lock for Karikala, Senguttuvan, and Korkai?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -52,7 +94,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Trade
 
-**Q5.** What is the exam lock for Muziris, Arikamedu, the *Periplus*, and **Yavana**?
+**Q9.** What is the exam lock for Muziris, Arikamedu, the *Periplus*, and **Yavana**?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -65,16 +107,47 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Pallavas
 
-**Q6.** What was the Pallava capital, and how do Mahendravarman I, Mamalla, and Rajasimha differ?
+**Q10.** What was the Pallava capital?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Capital: Kanchipuram (Kanchi).** **Mahendravarman I** starts **rock-cut mandapas** and wrote *Mattavilasa Prahasana*. **Narasimhavarman I (Mamalla)** cuts the **Pancha Rathas** at **Mamallapuram**, takes the title **Vatapikonda**, and sacks **Vatapi** after defeating **Pulakeshin II (642)**. **Narasimhavarman II (Rajasimha)** builds **structural** temples: **Shore Temple** and **Kailasanatha, Kanchi**.
+**Ans: Kanchipuram (Kanchi).**
 
 </details>
 
-**Q7.** Why do Pallava temples matter, and what is the rock-cut vs structural trap?
+
+**Q11.** What is Mahendravarman I's lock?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Rock-cut mandapas; *Mattavilasa Prahasana*.**
+
+</details>
+
+
+**Q12.** What is Mamalla's lock?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Pancha Rathas; Vatapikonda; sacks Vatapi (642).**
+
+</details>
+
+
+**Q13.** What is Rajasimha's lock?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Structural Shore Temple and Kailasanatha, Kanchi.**
+
+</details>
+
+
+**Q14.** Why do Pallava temples matter, and what is the rock-cut vs structural trap?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -87,16 +160,37 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Chalukyas of Badami
 
-**Q8.** How did Pulakeshin II stop Harsha, what does the Aihole inscription record, and how did he fall?
+**Q15.** How did Pulakeshin II stop Harsha?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Capital: Vatapi / Badami.** **Pulakeshin II** stops **Harsha** on the **Narmada (~630)**. Boast = **Aihole inscription** of **Ravikirti** on the Meguti temple. **Xuanzang** also notes the barrier. Later **Narasimhavarman I** kills / overthrows him at Vatapi. Do not confuse Early Chalukya **Badami** with later Western Chalukya **Kalyani**.
+**Ans: On the Narmada (~630).**
 
 </details>
 
-**Q9.** Why are Aihole, the Badami caves, and Pattadakal important in early Deccan temple history?
+
+**Q16.** What does the Aihole inscription record?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Ravikirti's praise of Pulakeshin II on the Meguti temple.**
+
+</details>
+
+
+**Q17.** How did Pulakeshin II fall?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Narasimhavarman I kills/overthrows him at Vatapi.**
+
+</details>
+
+
+**Q18.** Why are Aihole, the Badami caves, and Pattadakal important in early Deccan temple history?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -109,16 +203,47 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Rashtrakutas and Kannauj
 
-**Q10.** Who founded the Rashtrakutas, what was their capital, and what are the locks for Krishna I and Amoghavarsha I?
+**Q19.** Who founded the Rashtrakutas?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Dantidurga** founds the house. Capital **Manyakheta**. **Krishna I** cuts **Kailasa (Ellora Cave 16)** **top-down** from living rock. It is **Shaiva**, not a Buddhist chaitya, and not Elephanta. **Amoghavarsha I** is the long-reign scholar-king of Kannada ***Kavirajamarga***. 2025 trap: Amoghavarsha is **Rashtrakuta**, not Chola.
+**Ans: Dantidurga.**
 
 </details>
 
-**Q11.** What was the Tripartite Struggle?
+
+**Q20.** What was the Rashtrakuta capital?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Manyakheta.**
+
+</details>
+
+
+**Q21.** What is Krishna I's lock?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Kailasa, Ellora Cave 16 — top-down from living rock.**
+
+</details>
+
+
+**Q22.** What is Amoghavarsha I's lock?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Scholar-king; *Kavirajamarga*.** 2025 trap: Rashtrakuta, not Chola.
+
+</details>
+
+
+**Q23.** What was the Tripartite Struggle?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -131,7 +256,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Literature, society, later south
 
-**Q12.** Name the five great Tamil epics and the later south ruler–dynasty pairs exams ask.
+**Q24.** Name the five great Tamil epics and the later south ruler–dynasty pairs exams ask.
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -140,7 +265,7 @@ Epics (often post-Sangam): ***Silappadikaram, Manimekalai, Civaka Chintamani, Va
 
 </details>
 
-**Q13.** Describe Sangam polity and the role of hero stones.
+**Q25.** Describe Sangam polity and the role of hero stones.
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -153,7 +278,7 @@ King is *vendan*. Land tax **vari**. Customs **sungam**. Units **nadu** and **ur
 
 ## Rapid fire
 
-**Q14.** From memory, name the capitals of the Chera, Sangam Chola, later Chola, Pandya, Pallava, Badami Chalukya, and Rashtrakuta.
+**Q26.** From memory, name the capitals of the Chera, Sangam Chola, later Chola, Pandya, Pallava, Badami Chalukya, and Rashtrakuta.
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -162,7 +287,7 @@ King is *vendan*. Land tax **vari**. Customs **sungam**. Units **nadu** and **ur
 
 </details>
 
-**Q15.** From memory, link each south-India lock:
+**Q27.** From memory, link each south-India lock:
 
 | Recall item |
 |-------------|
@@ -197,7 +322,7 @@ King is *vendan*. Land tax **vari**. Customs **sungam**. Units **nadu** and **ur
 
 ## Extra locks
 
-**Q16.** From memory, link each south-India pair to its UPPCS lock:
+**Q28.** From memory, link each south-India pair to its UPPCS lock:
 
 | Recall item |
 |-------------|
@@ -226,7 +351,7 @@ King is *vendan*. Land tax **vari**. Customs **sungam**. Units **nadu** and **ur
 
 </details>
 
-**Q17.** What is Mahendravarman I’s literary lock, and how does he differ from Mamalla and Rajasimha?
+**Q29.** What is Mahendravarman I’s literary lock, and how does he differ from Mamalla and Rajasimha?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -235,7 +360,7 @@ King is *vendan*. Land tax **vari**. Customs **sungam**. Units **nadu** and **ur
 
 </details>
 
-**Q18.** How do **Early Chalukya Badami** and **Western Chalukya Kalyani** differ?
+**Q30.** How do **Early Chalukya Badami** and **Western Chalukya Kalyani** differ?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -244,7 +369,7 @@ King is *vendan*. Land tax **vari**. Customs **sungam**. Units **nadu** and **ur
 
 </details>
 
-**Q19.** Match the 2025-style ruler to dynasty: Mahendravarman, Kadungon, Amoghavarsha, Rajaraja I.
+**Q31.** Match the 2025-style ruler to dynasty: Mahendravarman, Kadungon, Amoghavarsha, Rajaraja I.
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -253,7 +378,7 @@ King is *vendan*. Land tax **vari**. Customs **sungam**. Units **nadu** and **ur
 
 </details>
 
-**Q20.** Why is **Elephanta** not the Rashtrakuta Kailasa lock?
+**Q32.** Why is **Elephanta** not the Rashtrakuta Kailasa lock?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -262,7 +387,7 @@ King is *vendan*. Land tax **vari**. Customs **sungam**. Units **nadu** and **ur
 
 </details>
 
-**Q21.** Name the famous Mamallapuram relief and the 2018 temple chronology chain.
+**Q33.** Name the famous Mamallapuram relief and the 2018 temple chronology chain.
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -271,7 +396,7 @@ King is *vendan*. Land tax **vari**. Customs **sungam**. Units **nadu** and **ur
 
 </details>
 
-**Q22.** Who were the main contestants in the **Tripartite Struggle** besides Rashtrakutas?
+**Q34.** Who were the main contestants in the **Tripartite Struggle** besides Rashtrakutas?
 
 <details markdown="1">
 <summary>Show answer</summary>

@@ -39,29 +39,61 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Indo-Greeks
 
-**Q4.** Who was the most famous Indo-Greek king, what was his Indian name, his capital, and the dialogue text linked to him?
+**Q4.** Who was the most famous Indo-Greek king?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: Menander = Milinda.** Capital **Sagala (Sialkot)**. ***Milindapanho*** = dialogue with monk **Nagasena**. Tradition says he leaned to **Buddhism**. Do not mix Nagasena with **Nagarjuna**.
+**Ans: Menander = Milinda.**
 
 </details>
 
-**Q5.** What is the coinage lock for Indo-Greeks, and roughly when did they rule?
+
+**Q5.** What was Menander's capital?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: Portrait, die-struck, bilingual** (Greek + **Kharoshthi**). About **2nd–1st centuries BCE**. **Demetrius** first pushed into India from Bactria. **Agathocles / Pantaleon** show early **Brahmi** and **Balarama / Vasudeva** types. **Heliodorus** (~113 BCE) raised the **Besnagar** Garuda pillar.
+**Ans: Sagala (Sialkot).**
 
 </details>
+
+
+**Q6.** Which dialogue text is linked to Menander?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: *Milindapanho*** with monk **Nagasena**.
+
+</details>
+
+
+**Q7.** What is the Indo-Greek coinage lock?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Portrait, die-struck, bilingual** (Greek + **Kharoshthi**).
+
+</details>
+
+
+**Q8.** Roughly when did Indo-Greeks rule in India?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: About 2nd–1st centuries BCE.**
+
+</details>
+
 
 ---
 
 ## Shakas and Western Kshatrapas
 
-**Q6.** Who were the Shakas, and which Indian king is famous for beating a Western Kshatrapa?
+**Q9.** Who were the Shakas, and which Indian king is famous for beating a Western Kshatrapa?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -70,16 +102,47 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q7.** Who was Rudradaman I, which inscription made him famous, in which language was it written, and which lake did he repair?
+**Q10.** Who was Rudradaman I?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: Greatest Kardamaka Western Kshatrapa.** **Junagadh (Girnar)** inscription in **Sanskrit prose** — an early long royal Sanskrit text. He repaired **Sudarshana Lake** (Mauryan-period dam).
+**Ans: Greatest Kardamaka Western Kshatrapa.**
 
 </details>
 
-**Q8.** What were Western Kshatrapas, Kshatrapa vs Mahakshatrapa, and why Gujarat?
+
+**Q11.** Which inscription made Rudradaman famous?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Junagadh (Girnar)** inscription.
+
+</details>
+
+
+**Q12.** In which language is the Junagadh inscription of Rudradaman?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Sanskrit prose** — an early long royal Sanskrit text.
+
+</details>
+
+
+**Q13.** Which lake did Rudradaman repair?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Sudarshana Lake** (Mauryan-period dam).
+
+</details>
+
+
+**Q14.** What were Western Kshatrapas, Kshatrapa vs Mahakshatrapa, and why Gujarat?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -92,29 +155,91 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Indo-Parthians
 
-**Q9.** Who was the most famous Indo-Parthian ruler, what was his capital, and what Christian tradition is linked to his court?
+**Q15.** Who was the most famous Indo-Parthian ruler?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: Gondophernes.** Centre **Taxila**. Later Christian memory links **St. Thomas** with his court. Treat the Thomas story as **tradition**, not a dated inscription.
+**Ans: Gondophernes.**
 
 </details>
+
+
+**Q16.** What was the Indo-Parthian capital?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Taxila.**
+
+</details>
+
+
+**Q17.** Which Christian tradition is linked to Gondophernes' court?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: St. Thomas** — treat as **tradition**, not a dated inscription.
+
+</details>
+
 
 ---
 
 ## Kushanas
 
-**Q10.** What was the Kushana origin, who founded the dynasty, who was its greatest king, what were its dates, and what were its capitals?
+**Q18.** What was the Kushana ethnic origin?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: Yuezhi.** Early king **Kujula Kadphises**. Greatest **Kanishka I**. Era often **78 CE (Shaka era)** — exact year is debated. Capitals **Purushapura (Peshawar)** and **Mathura**. **Wima Kadphises** is the gold-coin expander before Kanishka. **Vikrama era 57 BCE** is a **different** count.
+**Ans: Yuezhi.**
 
 </details>
 
-**Q11.** How far did the Kushana Empire extend, and why is it called a bridge empire?
+
+**Q19.** Who founded the Kushana dynasty in India?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Kujula Kadphises** (early); **Wima Kadphises** expanded with gold coins.
+
+</details>
+
+
+**Q20.** Who was the greatest Kushana king?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Kanishka I.**
+
+</details>
+
+
+**Q21.** What era is often linked to Kanishka?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Shaka era 78 CE** — exact year debated.
+
+</details>
+
+
+**Q22.** What were the two main Kushana capitals?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Purushapura (Peshawar)** and **Mathura.**
+
+</details>
+
+
+**Q23.** How far did the Kushana Empire extend, and why is it called a bridge empire?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -123,20 +248,51 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q12.** How did Kanishka patronise Buddhism — which council, who presided, and which scholars are linked to his court?
+**Q24.** How did Kanishka patronise Buddhism?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: Mahayana** patronage. **Fourth Council** at **Kundalavana, Kashmir**. **Vasumitra** presided. **Ashvaghosha** at court. **Nagarjuna** is of the broader age; do not date him as Kanishka’s minister. Missions ride the Silk Route.
+**Ans: Strong Mahayana patronage.**
 
 </details>
+
+
+**Q25.** Where was the Fourth Buddhist Council under Kanishka?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Kundalavana, Kashmir.**
+
+</details>
+
+
+**Q26.** Who presided over Kanishka's council?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Vasumitra.**
+
+</details>
+
+
+**Q27.** Which scholar is linked to Kanishka's court?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Ashvaghosha.** Do not date **Nagarjuna** as his minister.
+
+</details>
+
 
 ---
 
 ## Gandhara and Mathura
 
-**Q13.** Compare the two Kushana art schools.
+**Q28.** Compare the two Kushana art schools.
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -156,16 +312,27 @@ Both make the **human Buddha image** after aniconic Mauryan signs. Kanishka’s 
 
 ## Trade and coins
 
-**Q14.** Why was Kushana trade rich, and why so much gold?
+**Q29.** Why was Kushana trade rich?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: Silk Route + Arabian Sea.** Roman gold and goods. Kushana **gold dinars** copy Roman weight/look. Roman coins in India = Indo-Roman trade, not a Roman province.
+**Ans: Silk Route + Arabian Sea links.**
 
 </details>
 
-**Q15.** What is special about Kanishka’s coins?
+
+**Q30.** Why do we find so much Kushana gold?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Roman gold and goods flowed in; Kushana gold dinars copy Roman weight/look.**
+
+</details>
+
+
+**Q31.** What is special about Kanishka’s coins?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -178,16 +345,27 @@ Both make the **human Buddha image** after aniconic Mauryan signs. Kanishka’s 
 
 ## Conceptual
 
-**Q16.** Why was the north-west open, and why are these not only “destructive invasions”?
+**Q32.** Why was the north-west open to invaders after the Mauryas?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans:** Passes + post-Mauryan fragments. New houses brought **coins, Silk Route, Gandhara–Mathura images, Mahayana, and Sanskrit public prose** (Rudradaman). Shakas **assimilate** (satrap titles, Indian queens, inscriptions).
+**Ans: Mountain passes + post-Mauryan political fragments.**
 
 </details>
 
-**Q17.** In one line each, what was the main contribution of the Indo-Greeks, Shakas, and Kushanas?
+
+**Q33.** Why should these movements not be read as only destructive?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: They brought coins, Silk Route, Gandhara–Mathura art, Mahayana, and Sanskrit public prose (Rudradaman). Shakas assimilated.**
+
+</details>
+
+
+**Q34.** In one line each, what was the main contribution of the Indo-Greeks, Shakas, and Kushanas?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -200,7 +378,7 @@ Both make the **human Buddha image** after aniconic Mauryan signs. Kanishka’s 
 
 ## UPPCS — Mathura
 
-**Q18.** Why is Mathura a Kushana–UP lock?
+**Q35.** Why is Mathura a Kushana–UP lock?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -213,7 +391,7 @@ Both make the **human Buddha image** after aniconic Mauryan signs. Kanishka’s 
 
 ## Rapid fire
 
-**Q19.** From memory, link each name to its lock:
+**Q36.** From memory, link each name to its lock:
 
 | Recall item |
 |-------------|
@@ -254,16 +432,47 @@ Both make the **human Buddha image** after aniconic Mauryan signs. Kanishka’s 
 
 ## Extra locks the drill skipped
 
-**Q20.** Distinguish Alexander’s invasion from the later Indo-Greeks — Hydaspes, Beas, Ambhi, and Porus.
+**Q37.** At which battle did Alexander defeat Porus?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Alexander 326 BCE** is Macedon, not Indo-Greek. **Hydaspes (Jhelum)** vs **Porus**. **Beas (Hyphasis)** = army turns back. **Ambhi** of Taxila is an **ally**. **Seleucus ~303** vs Chandragupta is the next Greek layer. Indo-Greeks are **Bactrian** Greeks inside India later.
+**Ans: Hydaspes (Jhelum), 326 BCE.**
 
 </details>
 
-**Q21.** Distinguish Shaka era and Vikrama era.
+
+**Q38.** At which river did Alexander's army turn back?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Beas (Hyphasis).**
+
+</details>
+
+
+**Q39.** Who was Alexander's ally at Taxila?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Ambhi.**
+
+</details>
+
+
+**Q40.** How is Alexander's invasion different from later Indo-Greeks?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Alexander = Macedon 326 BCE; Indo-Greeks = Bactrian Greeks inside India later. Seleucus ~303 vs Chandragupta is the next Greek layer.**
+
+</details>
+
+
+**Q41.** Distinguish Shaka era and Vikrama era.
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -272,7 +481,7 @@ Both make the **human Buddha image** after aniconic Mauryan signs. Kanishka’s 
 
 </details>
 
-**Q22.** How do the **Gandhara** and **Mathura** schools differ in material and influence?
+**Q42.** How do the **Gandhara** and **Mathura** schools differ in material and influence?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -281,7 +490,7 @@ Both make the **human Buddha image** after aniconic Mauryan signs. Kanishka’s 
 
 </details>
 
-**Q23.** What were Kanishka’s two main capitals, and which route made Kushana wealth?
+**Q43.** What were Kanishka’s two main capitals, and which route made Kushana wealth?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -290,7 +499,7 @@ Both make the **human Buddha image** after aniconic Mauryan signs. Kanishka’s 
 
 </details>
 
-**Q24.** Who was **Diodotus**, and how is he different from **Menander**?
+**Q44.** Who was **Diodotus**, and how is he different from **Menander**?
 
 <details markdown="1">
 <summary>Show answer</summary>

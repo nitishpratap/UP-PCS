@@ -8,16 +8,43 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Foundation and chronology
 
-**Q1.** Around which year was the Mauryan Empire founded, by whom, and whom did he overthrow?
+**Q1.** In about which year was the Mauryan Empire founded?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: About 322/321 BCE. Chandragupta Maurya** overthrew **Dhana Nanda** with **Chanakya / Kautilya / Vishnugupta**. Greeks call him **Sandrokottos**. **William Jones** fixed the synchronism. Range of the house: **c. 322–185 BCE**.
+**Ans: About 322/321 BCE.**
 
 </details>
 
-**Q2.** Name the three great Mauryas in order, with rough dates.
+**Q2.** Who founded the Mauryan Empire?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Chandragupta Maurya**, with **Chanakya / Kautilya / Vishnugupta**. Greeks call him **Sandrokottos**.
+
+</details>
+
+**Q3.** Whom did Chandragupta Maurya overthrow?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Dhana Nanda.** **William Jones** fixed the synchronism with Greek sources.
+
+</details>
+
+**Q4.** What was the date-range of the Mauryan house?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: c. 322–185 BCE.**
+
+</details>
+
+**Q5.** Name the three great Mauryas in order, with rough dates.
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -30,25 +57,61 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Chandragupta
 
-**Q3.** Which Greek ruler fought Chandragupta Maurya, what did the treaty exchange, and what did each side gain?
+**Q6.** Which Greek ruler fought Chandragupta Maurya?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: Seleucus I Nicator, about 305–303 BCE.** Chandragupta got north-west tracts (Arachosia / Gedrosia / Paropamisadae). Seleucus got **500 war elephants**. A marriage alliance is also remembered.
+**Ans: Seleucus I Nicator**, about **305–303 BCE**.
 
 </details>
 
-**Q4.** Who was Megasthenes, which book did he write, and at which court did he serve?
+**Q7.** What did Chandragupta gain in the Seleucid treaty?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: Seleucid envoy at Chandragupta’s court.** ***Indica*** is lost; we read him through **Strabo and Arrian**. He describes Pataliputra, a huge army, and **seven** occupational classes. **Pliny** later cites 6 lakh foot, 30,000 horse, 9,000 elephants.
+**Ans: North-west tracts** (Arachosia / Gedrosia / Paropamisadae).
 
 </details>
 
-**Q5.** How did Chandragupta Maurya end his life in the Jain tradition?
+**Q8.** What did Seleucus gain from Chandragupta?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: 500 war elephants.** A marriage alliance is also remembered.
+
+</details>
+
+**Q9.** Who was Megasthenes?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Seleucid envoy** at **Chandragupta's court.**
+
+</details>
+
+**Q10.** Which book did Megasthenes write?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: *Indica*** — lost; known through **Strabo and Arrian.**
+
+</details>
+
+**Q11.** What did Megasthenes report about Pataliputra and society?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Huge army** and **seven occupational classes.** **Pliny** later cites 6 lakh foot, 30,000 horse, 9,000 elephants.
+
+</details>
+
+**Q12.** How did Chandragupta Maurya end his life in the Jain tradition?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -61,12 +124,30 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Bindusara
 
-**Q6.** What was Bindusara’s Greek name, what did it mean, who was his Greek ambassador, and where did he expand?
+**Q13.** What was Bindusara's Greek name?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: Amitrochates / Amitraghata — “destroyer of enemies.”** Envoy **Deimachus**. Tradition gives **Deccan** expansion. Hellenistic courts kept letters with Pataliputra.
+**Ans: Amitrochates / Amitraghata** — “destroyer of enemies.”
+
+</details>
+
+**Q14.** Who was Bindusara's Greek ambassador?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Deimachus.**
+
+</details>
+
+**Q15.** Where did Bindusara expand according to tradition?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Deccan** expansion. Hellenistic courts kept letters with Pataliputra.
 
 </details>
 
@@ -74,25 +155,77 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Ashoka — war and Dhamma
 
-**Q7.** Who were Ashoka’s father and grandfather, which posts did he hold before becoming emperor, and when did he accede?
+**Q16.** Who was Ashoka's father?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: Bindusara; Chandragupta.** Governor of **Ujjain** and, in tradition, **Taxila**. Emperor from **c. 268 BCE**.
+**Ans: Bindusara.**
 
 </details>
 
-**Q8.** When was the Kalinga War fought, which edict records it, what numbers does it give, and was Ashoka a total pacifist afterwards?
+
+**Q17.** Who was Ashoka's grandfather?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: About 261 BCE. Major Rock Edict XIII** — about **1 lakh killed, 1.5 lakh deported**, many more hurt. He drops **bherighosha** for **dhammaghosha**. He is **not** a total pacifist: the army and provinces remain. Policy is **restrained conquest + Dhamma-vijaya**.
+**Ans: Chandragupta Maurya.**
 
 </details>
 
-**Q9.** What is Ashoka’s Dhamma, and is it identical with Buddhism?
+
+**Q18.** Which governor posts did Ashoka hold before becoming emperor?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Ujjain** and, in tradition, **Taxila**.
+
+</details>
+
+
+**Q19.** In which year did Ashoka accede?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: About 268 BCE.**
+
+</details>
+
+
+**Q20.** In which year was the Kalinga War fought?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: About 261 BCE.**
+
+</details>
+
+
+**Q21.** Which Ashokan edict records the Kalinga War?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Major Rock Edict XIII.**
+
+</details>
+
+
+**Q22.** Was Ashoka a total pacifist after Kalinga?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: No.** He drops **bherighosha** for **dhammaghosha**, but the army and provinces remain. Policy = **restrained conquest + Dhamma-vijaya**.
+
+</details>
+
+
+**Q23.** What is Ashoka’s Dhamma, and is it identical with Buddhism?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -101,7 +234,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q10.** Who were Dhamma-mahamatras, and from which year?
+**Q24.** Who were Dhamma-mahamatras, and from which year?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -114,16 +247,57 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Inscriptions and edicts
 
-**Q11.** On what materials were Ashokan edicts carved, and which scripts and languages were used?
+**Q25.** On what materials were Ashokan edicts carved?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: Rocks and pillars.** **Brahmi** in most of India. **Kharoshthi** at **Shahbazgarhi and Mansehra**. **Greek and Aramaic** at **Kandahar**. Language mostly **Prakrit**. Title **Devanampiya Piyadassi**.
+**Ans: Rocks and pillars.**
 
 </details>
 
-**Q12.** Match key edicts. Row order is **not** the answer.
+
+**Q26.** Which script was used on most Ashokan edicts in India?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Brahmi.**
+
+</details>
+
+
+**Q27.** Which script appears at Shahbazgarhi and Mansehra?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Kharoshthi.**
+
+</details>
+
+
+**Q28.** Which languages appear on the Kandahar edicts?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Greek and Aramaic.**
+
+</details>
+
+
+**Q29.** What title appears on the edicts besides Ashoka?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Devanampiya Piyadassi.**
+
+</details>
+
+
+**Q30.** Match key edicts. Row order is **not** the answer.
 
 | Edict | Lock |
 | ----- | ---- |
@@ -142,7 +316,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q13.** Which inscription names contemporary Hellenistic rulers?
+**Q31.** Which inscription names contemporary Hellenistic rulers?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -155,20 +329,51 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Ashoka and Buddhism
 
-**Q14.** Where was the Third Buddhist Council held, who presided, which text was compiled, and which famous mission followed?
+**Q32.** Where was the Third Buddhist Council held?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: Pataliputra.** **Moggaliputta Tissa.** ***Kathavatthu.*** **Mahendra and Sanghamitra** take the **Bodhi sapling** to **Sri Lanka**. Association with Buddhism deepens **after Kalinga**, though contact began earlier.
+**Ans: Pataliputra.**
 
 </details>
+
+
+**Q33.** Who presided over the Third Buddhist Council?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Moggaliputta Tissa.**
+
+</details>
+
+
+**Q34.** Which text was compiled at the Third Buddhist Council?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: *Kathavatthu*.**
+
+</details>
+
+
+**Q35.** Which famous Buddhist mission followed the Third Council?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Mahendra and Sanghamitra** took the **Bodhi sapling** to **Sri Lanka**.
+
+</details>
+
 
 ---
 
 ## Administration, army, economy
 
-**Q15.** Was the empire centralised, and who sat at the top?
+**Q36.** Was the empire centralised, and who sat at the top?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -177,7 +382,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q16.** Match officials. Row order is **not** the answer.
+**Q37.** Match officials. Row order is **not** the answer.
 
 | Officer | Function |
 | ------- | -------- |
@@ -197,7 +402,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q17.** Name the four provincial capitals under kumaras.
+**Q38.** Name the four provincial capitals under kumaras.
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -206,42 +411,155 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q18.** What were the four components of the Mauryan army, and how many administrative boards did Megasthenes describe for the army and the city?
+**Q39.** What four components made up the Mauryan army?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: Chaturanga** — infantry, cavalry, chariots, elephants. Head **senapati**. Megasthenes: **six army boards** and **six city boards** (crafts, foreigners, census, and so on).
+**Ans: Chaturanga** — infantry, cavalry, chariots, elephants. Head = **senapati**.
 
 </details>
 
-**Q19.** Name the main Mauryan revenue terms, state control of mines, the role of guilds, and the Sudarshana Lake lock.
+
+**Q40.** How many army boards did Megasthenes describe?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Bhaga** — produce share, often **one-sixth**. **Bali** — extra / tribute (Rummindei drops it). **Kara** — a tax. Mines under the **state**. **Shrenis** organise crafts and trade. Roads move army and grain. **Sudarshana Lake** (Junagadh, Gujarat) is begun in Chandragupta’s time (Pushyagupta) and later repaired by **Rudradaman**.
+**Ans: Six army boards.**
 
 </details>
+
+
+**Q41.** How many city boards did Megasthenes describe?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Six city boards** (crafts, foreigners, census, and so on).
+
+</details>
+
+
+**Q42.** What was **bhaga** in Mauryan revenue?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Produce share**, often **one-sixth**.
+
+</details>
+
+
+**Q43.** What was **bali**?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Extra tribute**; Rummindei edict reduces it.
+
+</details>
+
+
+**Q44.** What was **kara**?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: A tax.**
+
+</details>
+
+
+**Q45.** Who controlled mines in the Mauryan economy?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: The state.**
+
+</details>
+
+
+**Q46.** What role did **shrenis** play?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Guilds** organising crafts and trade.
+
+</details>
+
+
+**Q47.** What is the Sudarshana Lake lock?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Junagadh, Gujarat** — begun under Chandragupta (Pushyagupta), later repaired by **Rudradaman**.
+
+</details>
+
 
 ---
 
 ## Arthashastra
 
-**Q20.** Who wrote the *Arthashastra*, and what do **Saptanga**, **Mandala**, and **Matsyanyaya** mean — with what dating caution?
+**Q48.** Who wrote the *Arthashastra*?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Author: Kautilya.** It is **statecraft**, not only economics. Spies: **sanstha** (stationary) and **sanchara** (mobile). **Saptanga:** Swami, Amatya, Janapada, Durga, Kosha, Danda, Mitra. **Mandala** = circle of states. **Matsyanyaya** = fish-law without a king. **Do not** treat the finished book as a photocopy of Mauryan files. Date and layers are debated.
+**Ans: Kautilya / Chanakya / Vishnugupta.**
 
 </details>
+
+
+**Q49.** What are the seven limbs (**Saptanga**) of the state?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Swami, Amatya, Janapada, Durga, Kosha, Danda, Mitra.**
+
+</details>
+
+
+**Q50.** What is **Mandala** in Kautilya's theory?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: The circle of neighbouring states.**
+
+</details>
+
+
+**Q51.** What is **Matsyanyaya**?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Fish-law — the strong devour the weak when there is no king.**
+
+</details>
+
+
+**Q52.** What dating caution applies to the *Arthashastra*?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Do not treat the finished book as a photocopy of Mauryan files; layers and date are debated.**
+
+</details>
+
 
 ---
 
 ## Society
 
-**Q21.** What did Megasthenes report about Indian society, women, and **dasas**?
+**Q53.** What did Megasthenes report about Indian society, women, and **dasas**?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -254,7 +572,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Art, architecture, extent
 
-**Q22.** What is Mauryan polish, and name key pillars?
+**Q54.** What is Mauryan polish, and name key pillars?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -263,16 +581,37 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q23.** What is the Mauryan link to Sanchi and Barabar, and to whom were the Barabar caves gifted?
+**Q55.** What is the Mauryan link to Sanchi?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Sanchi** brick core = **Ashoka**. **Barabar** (Bihar) = gift to **Ajivikas**, not Buddhists. **Dasharatha** continues that gift. **Lomas Rishi** has the chaitya-arch facade.
+**Ans: Brick stupa core associated with Ashoka.**
 
 </details>
 
-**Q24.** How far did Ashoka’s empire extend, and which regions stayed outside direct rule?
+
+**Q56.** What is the Mauryan link to Barabar caves?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Rock-cut caves in Bihar; gift to Ajivikas.**
+
+</details>
+
+
+**Q57.** To whom were the Barabar caves gifted?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: The Ajivikas**, not Buddhists. **Lomas Rishi** has the chaitya-arch facade.
+
+</details>
+
+
+**Q58.** How far did Ashoka’s empire extend, and which regions stayed outside direct rule?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -285,20 +624,51 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Decline
 
-**Q25.** Who followed Ashoka as emperor, who was the last Mauryan king, who killed him, and which dynasty came next?
+**Q59.** Who followed Ashoka as emperor in some lists?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: Dasharatha** (lists vary). Last = **Brihadratha**. Killer = **Pushyamitra Shunga** (185 BCE). Causes: weak heirs, size, provincial **kumaras**, fiscal strain. **Ashoka alone did not** destroy the empire.
+**Ans: Dasharatha** (lists vary).
 
 </details>
+
+
+**Q60.** Who was the last Mauryan king?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Brihadratha.**
+
+</details>
+
+
+**Q61.** Who killed the last Mauryan king?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Pushyamitra Shunga (185 BCE).**
+
+</details>
+
+
+**Q62.** Which dynasty replaced the Mauryas?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Shunga.**
+
+</details>
+
 
 ---
 
 ## UP special
 
-**Q26.** What are the main Mauryan locks at Sarnath?
+**Q63.** What are the main Mauryan locks at Sarnath?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -307,7 +677,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q27.** What is unusual about the Prayagraj / Allahabad pillar?
+**Q64.** What is unusual about the Prayagraj / Allahabad pillar?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -316,7 +686,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q28.** Which UP Minor Rock Edict site should you not mix with Sarnath?
+**Q65.** Which UP Minor Rock Edict site should you not mix with Sarnath?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -329,7 +699,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## High-level
 
-**Q29.** Why is this the first subcontinental empire, and how did Ashoka change policy?
+**Q66.** Why is this the first subcontinental empire, and how did Ashoka change policy?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -338,7 +708,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q30.** Name the major sources for Mauryan history.
+**Q67.** Name the major sources for Mauryan history.
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -351,7 +721,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Rapid fire
 
-**Q31.** From memory, link each name to its Mauryan lock:
+**Q68.** From memory, link each name to its Mauryan lock:
 
 | Recall item |
 |-------------|
@@ -396,7 +766,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Extra locks the drill skipped
 
-**Q32.** From memory, state the Mauryan exam lock for each date or anchor below:
+**Q69.** From memory, state the Mauryan exam lock for each date or anchor below:
 
 | Recall item |
 |-------------|
@@ -425,7 +795,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q33.** On the Queen’s Edict, which queen is named and which son?
+**Q70.** On the Queen’s Edict, which queen is named and which son?
 
 <details markdown="1">
 <summary>Show answer</summary>

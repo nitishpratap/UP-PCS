@@ -83,16 +83,34 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Administration
 
-**Q8.** How centralised was the state, and what are ahara, amatya, maharathi, mahabhoja?
+**Q8.** How centralised was the Satavahana state?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: Not Mauryan-central.** King on top; **ahara** = district. **Amatyas** = officers. **Maharathis** and **Mahabhojas** = feudatory chiefs who actually hold the plateau.
+**Ans: Not Mauryan-central** — king on top with feudatories holding much of the plateau.
 
 </details>
 
-**Q9.** What do matronymics (Gautamiputra, Vashishthiputra) mean — matriarchy?
+**Q9.** What was an **ahara** in Satavahana administration?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: A district.**
+
+</details>
+
+**Q10.** Who were **maharathis** and **mahabhojas**?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Feudatory chiefs** under the king. **Amatyas** were officers.
+
+</details>
+
+**Q11.** What do matronymics (Gautamiputra, Vashishthiputra) mean — matriarchy?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -105,16 +123,34 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Economy, coins, Roman trade
 
-**Q10.** What was the Satavahana economic base, and what role did guilds, ports, and Roman trade evidence play?
+**Q12.** What was the Satavahana economic base?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: Agriculture + crafts + long-distance trade.** **Shrenis** produce, lend, and gift to caves. Ports: **Bharuch, Sopara, Kalyan**. Roman **gold coins, amphorae, pepper/luxury** traffic. Deccan roads join north India, Konkan, and the Krishna delta.
+**Ans: Agriculture + crafts + long-distance trade.**
 
 </details>
 
-**Q11.** Which metals and symbols appear on typical Satavahana coins?
+**Q13.** What role did guilds play in the Satavahana economy?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Shrenis** produced, lent, and gifted to **caves** along trade routes.
+
+</details>
+
+**Q14.** Which ports and Roman trade evidence mark the Satavahana age?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Bharuch, Sopara, Kalyan** — Roman **gold coins, amphorae**, pepper/luxury traffic on Deccan roads.
+
+</details>
+
+**Q15.** Which metals and symbols appear on typical Satavahana coins?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -127,7 +163,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Society and religion
 
-**Q12.** How did the Satavahanas patronise both Brahmanism and Buddhism?
+**Q16.** How did the Satavahanas patronise both Brahmanism and Buddhism?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -136,7 +172,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q13.** What was the position of women in Satavahana society?
+**Q17.** What was the position of women in Satavahana society?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -145,7 +181,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q14.** Distinguish Amaravati from Nagarjunakonda in period and patronage.
+**Q18.** Distinguish Amaravati from Nagarjunakonda in period and patronage.
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -158,21 +194,39 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Art and language
 
-**Q15.** What are the main features of the Amaravati school, and which Deccan cave sites are linked to this age?
+**Q19.** What material defines the Amaravati school?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: White limestone**, busy narrative reliefs, Buddhist jatakas. Caves: **Nasik, Karle, Bhaja, Kanheri** (early **Ajanta** too). **Chaitya** = prayer hall with stupa. **Vihara** = monastery. **Karle** = huge chaitya paid by **merchants / guilds** on the trade road.
+**Ans: White limestone** with busy narrative Buddhist reliefs in the Krishna valley.
 
 </details>
 
-**Q16.** What language and script do Satavahana inscriptions use, and how does that contrast with Rudradaman’s Junagadh inscription?
+**Q20.** Which Deccan cave sites are linked to the Satavahana age?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: Prakrit in Brahmi.** Sanskrit prestige rises later. Contrast: **Satavahana → Gautamiputra → Prakrit → Nasik** vs **Shaka → Rudradaman → Sanskrit → Junagadh**.
+**Ans: Nasik, Karle, Bhaja, Kanheri** — and early **Ajanta.** **Karle** chaitya was paid by **merchants/guilds** on the trade road.
+
+</details>
+
+**Q21.** What language do Satavahana inscriptions use?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Prakrit in Brahmi.** Sanskrit prestige rises later.
+
+</details>
+
+**Q22.** How does Rudradaman's Junagadh inscription contrast with Satavahana practice?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Shaka Rudradaman uses Sanskrit at Junagadh** vs **Satavahana Gautamiputra → Prakrit → Nasik.**
 
 </details>
 
@@ -180,12 +234,21 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Inscriptions
 
-**Q17.** What do the Naneghat and Nasik inscriptions tell us, and who speaks in each?
+**Q23.** What does the Naneghat inscription tell us, and who speaks?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Naneghat** — **Naganika**: early kings, **Ashvamedha**, donations. **Nasik** — **Gautami Balashri**: Gautamiputra’s victories and **land grants**. Both are **queen-voiced** prasastis.
+**Ans: Queen Naganika** records early kings, **Ashvamedha**, and donations.
+
+</details>
+
+**Q24.** What does the Nasik inscription tell us, and who speaks?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Queen Gautami Balashri** records Gautamiputra's victories and **land grants.**
 
 </details>
 
@@ -193,7 +256,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Conceptual
 
-**Q18.** Why do Satavahanas matter in Deccan history?
+**Q25.** Why do Satavahanas matter in Deccan history?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -202,7 +265,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q19.** Explain the trade-to-caves chain in the Satavahana age.
+**Q26.** Explain the trade-to-caves chain in the Satavahana age.
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -215,7 +278,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Rapid fire
 
-**Q20.** From memory, link each item to its Satavahana lock:
+**Q27.** From memory, link each item to its Satavahana lock:
 
 | Recall item |
 |-------------|
@@ -256,7 +319,7 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Extra lock
 
-**Q21.** Which six exam locks define the Satavahana period in one UPPCS card?
+**Q28.** Which six exam locks define the Satavahana period in one UPPCS card?
 
 <details markdown="1">
 <summary>Show answer</summary>

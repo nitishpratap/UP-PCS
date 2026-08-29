@@ -8,16 +8,27 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Mahajanapadas and Magadha
 
-**Q1.** What were the 16 mahajanapadas in the Buddhist list, and which text names them?
+**Q1.** Which Buddhist text lists the 16 mahajanapadas?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: Anguttara Nikaya.** Jain list is the **Bhagavati**. The 16: **Kashi, Kosala, Anga, Magadha, Vajji, Malla, Chedi, Vatsa, Kuru, Panchala, Matsya, Surasena, Asmaka, Avanti, Gandhara, Kamboja.** There are **16, not 18**. **Shakya is not** one of them.
+**Ans: Anguttara Nikaya.** Jain list = **Bhagavati**.
 
 </details>
 
-**Q2.** Match mahajanapada to capital. Row order is **not** the answer. Then name the four-power fight.
+
+**Q2.** How many mahajanapadas are in the standard list?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: 16, not 18.** Shakya is **not** one of them.
+
+</details>
+
+
+**Q3.** Match these mahajanapadas to capitals (group 1). Row order is **not** the answer.
 
 | Mahajanapada | Capital |
 | ------------ | ------- |
@@ -25,18 +36,6 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 | Kosala | ? |
 | Anga | ? |
 | Magadha | ? |
-| Vajji | ? |
-| Malla | ? |
-| Chedi | ? |
-| Vatsa | ? |
-| Kuru | ? |
-| Panchala | ? |
-| Matsya | ? |
-| Surasena | ? |
-| Asmaka | ? |
-| Avanti | ? |
-| Gandhara | ? |
-| Kamboja | ? |
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -47,14 +46,65 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 | Kosala | Shravasti / Ayodhya |
 | Anga | **Champa** |
 | Magadha | Rajagriha → Pataliputra |
+
+</details>
+
+**Q4.** Match these mahajanapadas to capitals (group 2). Row order is **not** the answer.
+
+| Mahajanapada | Capital |
+| ------------ | ------- |
+| Vajji | ? |
+| Malla | ? |
+| Chedi | ? |
+| Vatsa | ? |
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+| Mahajanapada | Capital |
+| ------------ | ------- |
 | Vajji | Vaishali |
 | Malla | Kushinagar / Pava |
 | Chedi | Shuktimati |
 | Vatsa | Kaushambi |
+
+</details>
+
+**Q5.** Match these mahajanapadas to capitals (group 3). Row order is **not** the answer.
+
+| Mahajanapada | Capital |
+| ------------ | ------- |
+| Kuru | ? |
+| Panchala | ? |
+| Matsya | ? |
+| Surasena | ? |
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+| Mahajanapada | Capital |
+| ------------ | ------- |
 | Kuru | Indraprastha / Hastinapur |
 | Panchala | Ahichchhatra / Kampilya |
 | Matsya | **Viratnagar** |
 | Surasena | **Mathura** |
+
+</details>
+
+**Q6.** Match these mahajanapadas to capitals (group 4). Row order is **not** the answer.
+
+| Mahajanapada | Capital |
+| ------------ | ------- |
+| Asmaka | ? |
+| Avanti | ? |
+| Gandhara | ? |
+| Kamboja | ? |
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+| Mahajanapada | Capital |
+| ------------ | ------- |
 | Asmaka | **Potana** (Godavari; **only south of the Vindhyas**) |
 | Avanti | Ujjain / Mahishmati |
 | Gandhara | Taxila |
@@ -64,7 +114,7 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 
 </details>
 
-**Q3.** Which mahajanapada became the most powerful, where did it lie, and what were its two capitals?
+**Q7.** Which mahajanapada became the most powerful, where did it lie, and what were its two capitals?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -73,7 +123,7 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 
 </details>
 
-**Q4.** Which eight mahajanapadas touch present Uttar Pradesh? Name four that do **not**.
+**Q8.** Which eight mahajanapadas touch present Uttar Pradesh? Name four that do **not**.
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -82,7 +132,7 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 
 </details>
 
-**Q5.** Match these mahajanapadas to their capitals for the UPPCS 2020 lock: Matsya, Kuru, Surasena, and Asmaka with Mathura, Potana, Viratnagar, and Indraprastha.
+**Q9.** Match these mahajanapadas to their capitals for the UPPCS 2020 lock: Matsya, Kuru, Surasena, and Asmaka with Mathura, Potana, Viratnagar, and Indraprastha.
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -95,7 +145,7 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 
 ## Haryanka
 
-**Q6.** Who is generally regarded as the founder of the Haryanka dynasty, and what is his date-band?
+**Q10.** Who is generally regarded as the founder of the Haryanka dynasty, and what is his date-band?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -104,7 +154,7 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 
 </details>
 
-**Q7.** Which kingdom did Bimbisara conquer first, and which city came as Kosala dowry?
+**Q11.** Which kingdom did Bimbisara conquer first, and which city came as Kosala dowry?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -113,7 +163,7 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 
 </details>
 
-**Q8.** Name Bimbisara’s three marriage alliances.
+**Q12.** Name Bimbisara’s three marriage alliances.
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -122,7 +172,7 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 
 </details>
 
-**Q9.** Who was Amrapali, and which religions did Bimbisara patronise?
+**Q13.** Who was Amrapali, and which religions did Bimbisara patronise?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -131,7 +181,7 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 
 </details>
 
-**Q10.** How did Bimbisara die?
+**Q14.** How did Bimbisara die?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -144,7 +194,7 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 
 ## Ajatashatru
 
-**Q11.** Who succeeded Bimbisara, and which two wars define him?
+**Q15.** Who succeeded Bimbisara, and which two wars define him?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -153,7 +203,7 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 
 </details>
 
-**Q12.** Who were the Vajji, which base did Ajatashatru fortify, and which two war-engines are named?
+**Q16.** Who were the Vajji, which base did Ajatashatru fortify, and which two war-engines are named?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -162,7 +212,7 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 
 </details>
 
-**Q13.** Which Buddhist council belongs to Ajatashatru?
+**Q17.** Which Buddhist council belongs to Ajatashatru?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -171,7 +221,7 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 
 </details>
 
-**Q14.** Who shifted the capital to Pataliputra?
+**Q18.** Who shifted the capital to Pataliputra?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -184,7 +234,7 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 
 ## Why Magadha rose
 
-**Q15.** Why did Magadha become the most powerful mahajanapada? Use the FIRST chain.
+**Q19.** Why did Magadha become the most powerful mahajanapada? Use the FIRST chain.
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -193,7 +243,7 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 
 </details>
 
-**Q16.** Why was Pataliputra a better imperial capital than Rajgir, and why did Magadha beat the north-west?
+**Q20.** Why was Pataliputra a better imperial capital than Rajgir, and why did Magadha beat the north-west?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -206,7 +256,7 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 
 ## Shishunaga
 
-**Q17.** Who founded the Shishunaga dynasty, which kingdom did he conquer, and which city was a temporary capital?
+**Q21.** Who founded the Shishunaga dynasty, which kingdom did he conquer, and which city was a temporary capital?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -215,7 +265,7 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 
 </details>
 
-**Q18.** Who was Kalashoka, and which council is his?
+**Q22.** Who was Kalashoka, and which council is his?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -228,7 +278,7 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 
 ## Nanda
 
-**Q19.** Who founded the Nanda dynasty, and which titles are attached to him?
+**Q23.** Who founded the Nanda dynasty, and which titles are attached to him?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -237,7 +287,7 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 
 </details>
 
-**Q20.** Who was the last Nanda, what army numbers do Greeks give, and did Alexander fight him?
+**Q24.** Who was the last Nanda, what army numbers do Greeks give, and did Alexander fight him?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -246,7 +296,7 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 
 </details>
 
-**Q21.** Who overthrew the Nandas, with whose help, and about when?
+**Q25.** Who overthrew the Nandas, with whose help, and about when?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -259,7 +309,7 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 
 ## Foreign accounts and Pataliputra
 
-**Q22.** Who was Megasthenes, which court, which book, and what does he say of Pataliputra?
+**Q26.** Who was Megasthenes, which court, which book, and what does he say of Pataliputra?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -268,7 +318,7 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 
 </details>
 
-**Q23.** Name the rivers of Pataliputra and which dynasty made it the imperial capital.
+**Q27.** Name the rivers of Pataliputra and which dynasty made it the imperial capital.
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -281,7 +331,7 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 
 ## Magadha and religion
 
-**Q24.** Which Magadhan rulers link to which Buddhist councils, and which Jain / Buddhist sites sit in Magadha–Bihar?
+**Q28.** Which Magadhan rulers link to which Buddhist councils, and which Jain / Buddhist sites sit in Magadha–Bihar?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -294,7 +344,7 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 
 ## Dynasty order
 
-**Q25.** Arrange: Nanda, Haryanka, Maurya, Shishunaga. Who sits immediately before and after the Nandas?
+**Q29.** Arrange: Nanda, Haryanka, Maurya, Shishunaga. Who sits immediately before and after the Nandas?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -307,7 +357,7 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 
 ## Conceptual
 
-**Q26.** Why is Magadha called the start of India’s first major imperial tradition, and how does it link to the Second Urbanisation?
+**Q30.** Why is Magadha called the start of India’s first major imperial tradition, and how does it link to the Second Urbanisation?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -316,7 +366,7 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 
 </details>
 
-**Q27.** How did Bimbisara and Ajatashatru together build Magadha’s lead?
+**Q31.** How did Bimbisara and Ajatashatru together build Magadha’s lead?
 
 <details markdown="1">
 <summary>Show answer</summary>
@@ -329,7 +379,7 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 
 ## Rapid fire
 
-**Q28.** From memory, link each name to its Magadha lock:
+**Q32.** From memory, link each name to its Magadha lock:
 
 | Recall item |
 |-------------|
@@ -366,7 +416,7 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 
 ## Extra locks the drill skipped
 
-**Q29.** From memory, link each Magadha ruler to his main exam lock:
+**Q33.** From memory, link each Magadha ruler to his main exam lock:
 
 | Recall item |
 |-------------|
@@ -393,12 +443,33 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 
 </details>
 
-**Q30.** What pottery and coins mark this age, and when does Alexander close it?
+**Q34.** Which pottery marks this age?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: NBPW (~700–200 BCE)** and **punch-marked silver**. **Alexander 326 BCE** is the north-west end-date, **not** a 600 BCE event. No Mauryan empire yet in the early mahajanapada phase.
+**Ans: NBPW (~700–200 BCE).**
 
 </details>
+
+
+**Q35.** Which coins mark this age?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: Punch-marked silver.**
+
+</details>
+
+
+**Q36.** When does Alexander close the north-west chapter?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans: 326 BCE** — not a 600 BCE event.
+
+</details>
+
 
