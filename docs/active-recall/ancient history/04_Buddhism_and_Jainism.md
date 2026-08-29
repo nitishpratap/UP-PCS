@@ -375,12 +375,12 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
-**Q40.** Recite the four-council place chain (2025-style).
+**Q40.** In order from First to Fourth, where was each Buddhist Council held?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Ans: Rajagriha → Vaishali → Pataliputra → Kundalavana.** First is Rajagriha, not Vaishali.
+**Ans:** **Rajagriha** (First) → **Vaishali** (Second) → **Pataliputra** (Third, Ashoka) → **Kundalavana, Kashmir** (Fourth, Kanishka). UPPCS trap: the **First** is **Rajagriha**, not Vaishali.
 
 </details>
 

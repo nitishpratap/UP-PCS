@@ -897,21 +897,58 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Rapid fire
 
-**Q92.** Fill: oldest Veda, Veda of melodies, Veda of spells, Veda of sacrificial formulas.
+**Q92.** Match each Veda to its UPPCS lock:
+
+| Veda | Lock to recall |
+|------|----------------|
+| Oldest Veda | ? |
+| Veda of melodies | ? |
+| Veda of spells | ? |
+| Veda of sacrificial formulas | ? |
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Rigveda · Samaveda · Atharvaveda · Yajurveda.**
+| Veda | Lock |
+|------|------|
+| Oldest Veda | **Rigveda** |
+| Veda of melodies | **Samaveda** |
+| Veda of spells | **Atharvaveda** |
+| Veda of sacrificial formulas | **Yajurveda** |
 
 </details>
 
-**Q93.** Fill: thunder/storm god, fire god, cosmic-order god, Early Vedic wealth, Early economy, Later economy, Later metal, Later region, two kingdoms, easternmost expansion.
+
+**Q93.** From memory, complete each Later/Early Vedic lock:
+
+| Prompt | Lock |
+|--------|------|
+| Thunder/storm god | ? |
+| Fire god | ? |
+| Cosmic-order god | ? |
+| Early Vedic wealth | ? |
+| Early economy | ? |
+| Later economy | ? |
+| Later metal | ? |
+| Later core region | ? |
+| Two famous kingdoms | ? |
+| Easternmost expansion | ? |
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Indra · Agni · Varuna · cattle · pastoralism · agriculture · iron · Ganga–Yamuna doab · Kuru and Panchala · Videha / north Bihar.**
+| Prompt | Lock |
+|--------|------|
+| Thunder/storm god | **Indra** |
+| Fire god | **Agni** |
+| Cosmic-order god | **Varuna** |
+| Early Vedic wealth | **Cattle** |
+| Early economy | **Pastoralism** |
+| Later economy | **Agriculture** |
+| Later metal | **Iron** |
+| Later core region | **Ganga–Yamuna doab** |
+| Two famous kingdoms | **Kuru and Panchala** |
+| Easternmost expansion | **Videha / north Bihar** |
 
 </details>
 

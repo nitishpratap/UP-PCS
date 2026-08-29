@@ -676,12 +676,12 @@ OCP is **not** Harappan urban pottery. **Daimabad** (Maharashtra) is Jorwe / lat
 
 </details>
 
-**Q67.** Recite the 30-second chain: hunter → microlith → farmer → copper farmer → iron farmer → burial stones.
+**Q67.** What is the correct order of these Indian prehistory stages: Palaeolithic hunter, microlith user, Neolithic farmer, Chalcolithic copper farmer, Iron Age farmer, and megalith builder?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Palaeolithic → Mesolithic → Neolithic → Chalcolithic → Iron Age → Megalithic.** Old Stone → Middle Stone → New Stone → Copper-Stone → Iron → large-stone burials.
+**Ans:** **Palaeolithic → Mesolithic → Neolithic → Chalcolithic → Iron Age → Megalithic.** Old Stone → Middle Stone → New Stone → Copper-Stone → Iron → large-stone burials.
 
 </details>
 
@@ -689,12 +689,36 @@ OCP is **not** Harappan urban pottery. **Daimabad** (Maharashtra) is Jorwe / lat
 
 ## 2-minute final test
 
-**Q68.** Write from memory: (1) Attirampakkam belongs to which age? (2) Bhimbetka is famous for what? (3) Burzahom belongs to which age? (4) Inamgaon belongs to which culture? (5) PGW expands in which age? (6) NBPW is associated with which process? (7) What is a dolmen? (8) Which age first shows agriculture clearly? (9) Main tool of Mesolithic? (10) Meaning of Chalcolithic?
+**Q68.** Answer from memory:
+
+| # | Question |
+|---|----------|
+| 1 | Attirampakkam belongs to which age? |
+| 2 | Bhimbetka is famous for what? |
+| 3 | Burzahom belongs to which age? |
+| 4 | Inamgaon belongs to which culture? |
+| 5 | PGW expands in which age? |
+| 6 | NBPW is associated with which process? |
+| 7 | What is a dolmen? |
+| 8 | Which age first shows agriculture clearly? |
+| 9 | Main tool of the Mesolithic? |
+| 10 | Meaning of Chalcolithic? |
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**1.** Lower Palaeolithic / Acheulian. **2.** Rock shelters and paintings (Wakankar; UNESCO 2003). **3.** Neolithic (Kashmir pit dwellings). **4.** Jorwe (Maharashtra Chalcolithic). **5.** Early Iron Age. **6.** Second urbanisation (~600 BCE). **7.** Megalithic stone-table grave. **8.** Neolithic. **9.** Microlith. **10.** Copper-Stone Age.
+| # | Answer |
+|---|--------|
+| 1 | Lower Palaeolithic / Acheulian |
+| 2 | Rock shelters and paintings (Wakankar; UNESCO 2003) |
+| 3 | Neolithic (Kashmir pit dwellings) |
+| 4 | Jorwe (Maharashtra Chalcolithic) |
+| 5 | Early Iron Age |
+| 6 | Second urbanisation (~600 BCE) |
+| 7 | Megalithic stone-table grave |
+| 8 | Neolithic |
+| 9 | Microlith |
+| 10 | Copper-Stone Age |
 
 </details>
 

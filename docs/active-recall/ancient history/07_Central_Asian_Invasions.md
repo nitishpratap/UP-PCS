@@ -272,3 +272,30 @@ Both make the **human Buddha image** after aniconic Mauryan signs. Kanishka’s 
 
 </details>
 
+**Q22.** How do the **Gandhara** and **Mathura** schools differ in material and influence?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans:** **Gandhara** = **Greco-Roman** influence, schist, Buddha in **Greek-like** drapery. **Mathura** = indigenous **red sandstone**, fuller Indian types for Buddha and Jina. Kushanas patronised **both**.
+
+</details>
+
+**Q23.** What were Kanishka’s two main capitals, and which route made Kushana wealth?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans:** **Purushapura (Peshawar)** and **Mathura**. Wealth came from control of the **Silk Route** and Central Asian trade — not only Indian agriculture.
+
+</details>
+
+**Q24.** Who was **Diodotus**, and how is he different from **Menander**?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans:** **Diodotus** founded the **Greco-Bactrian** kingdom in Bactria. **Menander (Milinda)** is the famous **Indo-Greek** king of the ***Milindapanho*** dialogue inside India. Bactria is the base; Menander is the Indian-phase lock.
+
+</details>
+

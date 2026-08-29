@@ -256,3 +256,39 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 </details>
 
+**Q21.** Which Gupta inscription at **Eran (510 CE)** is famous for **sati**, and what does it show about Gupta society?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans:** The **Eran sati inscription** is the famous Gupta-era example of widow immolation in elite society. It supports the picture of **hardening varna** and shrinking public space for women — not an “equal golden age” for all.
+
+</details>
+
+**Q22.** What is the exam lock for the **Mehrauli iron pillar**, and which ruler is it often linked to?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans:** Rust-resistant **iron pillar** at **Mehrauli (Delhi)**; often linked to **Chandragupta II / Vishnu** cult. Famous metallurgy + Gupta pride symbol.
+
+</details>
+
+**Q23.** Who wrote ***Mudrarakshasa***, and what is its subject?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans:** **Vishakhadatta** wrote ***Mudrarakshasa*** — a Sanskrit political drama about **Chanakya** and the fall of the Nanda–Maurya transition. Not Kalidasa.
+
+</details>
+
+**Q24.** Which famous love poem is **Bhartrihari’s**, not Kalidasa’s (2025 trap)?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans:** ***Shringara Shataka*** is **Bhartrihari’s**, not Kalidasa’s. Kalidasa locks remain **Shakuntala, Meghaduta, Raghuvamsha**.
+
+</details>
+

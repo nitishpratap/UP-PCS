@@ -148,12 +148,44 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Rapid fire
 
-**Q13.** From memory, complete this Harsha chain: dynasty; first capital; later capital; father; brother; sister; sister’s husband; Deccan foe; river; Chinese traveller; Indian biographer; three plays; university; two assemblies.
+**Q13.** From memory, link each prompt to its Harsha lock:
+
+| Recall item |
+|-------------|
+| Dynasty |
+| First capital |
+| Later capital |
+| Father |
+| Elder brother |
+| Sister |
+| Sister’s husband |
+| Deccan foe |
+| Southern river barrier |
+| Chinese traveller |
+| Indian biographer |
+| Three Sanskrit plays |
+| Patronised university |
+| Two famous assemblies |
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Pushyabhuti · Thanesar · Kannauj · Prabhakaravardhana · Rajyavardhana · Rajyashri · Grahavarman · Pulakeshin II · Narmada · Xuanzang · Banabhatta · Ratnavali / Priyadarshika / Nagananda · Nalanda · Kannauj + Prayaga.**
+| Prompt | Lock |
+|--------|------|
+| Dynasty | **Pushyabhuti / Vardhana** |
+| First capital | **Thanesar (Sthaneshvara)** |
+| Later capital | **Kannauj** |
+| Father | **Prabhakaravardhana** |
+| Elder brother | **Rajyavardhana** |
+| Sister | **Rajyashri** |
+| Sister’s husband | **Grahavarman** (Maukhari, Kannauj) |
+| Deccan foe | **Pulakeshin II** |
+| Southern river barrier | **Narmada** |
+| Chinese traveller | **Xuanzang / Si-Yu-Ki** |
+| Indian biographer | **Banabhatta / Harshacharita** |
+| Three Sanskrit plays | **Ratnavali, Priyadarshika, Nagananda** |
+| Patronised university | **Nalanda** |
+| Two famous assemblies | **Kannauj (~643)** and **Prayaga** (quinquennial dana) |
 
 </details>
 
@@ -161,12 +193,88 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Extra locks
 
-**Q14.** Recite the eight instant facts.
+**Q14.** From memory, state the exam lock for each Harsha anchor:
+
+| Recall item |
+|-------------|
+| 606 CE |
+| Thanesar |
+| Kannauj |
+| Rajyashri |
+| Pulakeshin II / Narmada |
+| Xuanzang |
+| Banabhatta |
+| Prayaga assembly |
+| c. 647 CE |
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**606** accession. **Thanesar** then **Kannauj**. **Rajyashri**. **Pulakeshin II / Narmada**. **Xuanzang / Si-Yu-Ki**. **Bana / Harshacharita**. **Prayaga every 5 years**. **647** death.
+| Anchor | Lock |
+|--------|------|
+| 606 CE | Harsha’s **accession** |
+| Thanesar | **First** capital |
+| Kannauj | **Later** imperial capital |
+| Rajyashri | Sister whose rescue leads to **Kannauj** |
+| Pulakeshin II / Narmada | Southern **defeat / barrier** (~630) |
+| Xuanzang | Chinese monk; ***Si-Yu-Ki*** |
+| Banabhatta | ***Harshacharita*** biographer |
+| Prayaga assembly | **Charity every five years** |
+| c. 647 CE | Harsha’s **death**; empire fragments |
+
+</details>
+
+**Q15.** Who killed Grahavarman, and how did Rajyavardhana die?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans:** **Shashanka of Gauda** (with **Devagupta of Malwa** in some accounts) kills **Grahavarman**. **Rajyavardhana** is then killed while trying to avenge him. **Harsha** recovers **Rajyashri** and takes **Kannauj**.
+
+</details>
+
+**Q16.** Which inscription is wrongly paired with Harsha in UPPCS traps, and which king does it actually belong to?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans:** **Hathigumpha** inscription is **Kharavela of Kalinga**, not Harsha (2018 trap).
+
+</details>
+
+**Q17.** How is **I-tsing (Yijing)** different from **Xuanzang** in period and purpose?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans:** **Xuanzang** visits in **Harsha’s** reign and writes ***Si-Yu-Ki*.** **I-tsing** comes **after Harsha** to collect Buddhist texts and monastic rules. Do not swap their books or kings.
+
+</details>
+
+**Q18.** Who was **Mayura** at Harsha’s court?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans:** **Mayura** was a Sanskrit poet in Harsha’s circle. Court language remained **Sanskrit** alongside Bana’s prose.
+
+</details>
+
+**Q19.** What was Harsha’s link with the **Tang** court of China?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans:** Harsha sent **envoys** to **Tang Taizong**. This diplomatic contact sits beside Xuanzang’s Buddhist mission — two different China links.
+
+</details>
+
+**Q20.** Why did Harsha’s empire collapse soon after his death?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans:** He died **c. 647** with **no strong heir**. Rule rested on **personal charisma, tribute, and alliances** — not Mauryan-style districts. North India returned to **regional kingdoms**; **Kannauj** stayed the later prize.
 
 </details>
 

@@ -197,12 +197,86 @@ King is *vendan*. Land tax **vari**. Customs **sungam**. Units **nadu** and **ur
 
 ## Extra locks
 
-**Q16.** Recite the UPPCS south chain.
+**Q16.** From memory, link each south-India pair to its UPPCS lock:
+
+| Recall item |
+|-------------|
+| Harsha ↔ Pulakeshin II |
+| Mamalla ↔ Vatapi |
+| Krishna I ↔ temple |
+| Rajasimha ↔ temple |
+| Amoghavarsha ↔ text |
+| Karikala ↔ work |
+| Kannauj struggle |
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Harsha ↔ Pulakeshin II → Narmada.** **Mamalla → Vatapi.** **Krishna I → Kailasa.** **Rajasimha → Shore Temple.** **Amoghavarsha → Kavirajamarga.** **Karikala → Kallanai.** **Kannauj = Pala + Pratihara + Rashtrakuta.** 2019 capitals: **Pallava–Kanchi, Pandya–Madura.**
+| Pair | Lock |
+|------|------|
+| Harsha ↔ Pulakeshin II | **Narmada** barrier (~630) |
+| Mamalla ↔ Vatapi | **Narasimhavarman I** sacks **Vatapi** (642) |
+| Krishna I ↔ temple | **Kailasa, Ellora Cave 16** |
+| Rajasimha ↔ temple | **Shore Temple**, Mamallapuram |
+| Amoghavarsha ↔ text | ***Kavirajamarga*** (Rashtrakuta) |
+| Karikala ↔ work | **Kallanai** on the **Kaveri** |
+| Kannauj struggle | **Pala + Pratihara + Rashtrakuta** tripartite fight |
+
+2019 capitals lock: **Pallava–Kanchi, Pandya–Madura, Yadava–Devagiri, Kakatiya–Warangal.**
+
+</details>
+
+**Q17.** What is Mahendravarman I’s literary lock, and how does he differ from Mamalla and Rajasimha?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans:** **Mahendravarman I** begins **rock-cut mandapas** and wrote ***Mattavilasa Prahasana*.** **Mamalla (Narasimhavarman I)** cuts **Pancha Rathas** and takes **Vatapikonda**. **Rajasimha (Narasimhavarman II)** builds **structural** Shore and Kailasanatha temples.
+
+</details>
+
+**Q18.** How do **Early Chalukya Badami** and **Western Chalukya Kalyani** differ?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans:** **Early Chalukyas** rule from **Badami / Vatapi** (6th–8th c.). **Western Chalukyas** later hold **Kalyani** (10th–12th c.). Do not swap capitals in match lists.
+
+</details>
+
+**Q19.** Match the 2025-style ruler to dynasty: Mahendravarman, Kadungon, Amoghavarsha, Rajaraja I.
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans:** **Mahendravarman → Pallava. Kadungon → Pandya revival. Amoghavarsha → Rashtrakuta. Rajaraja I → Imperial Chola** (Brihadeeswara, Thanjavur — **not** Sangam Karikala).
+
+</details>
+
+**Q20.** Why is **Elephanta** not the Rashtrakuta Kailasa lock?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans:** **Kailasa (Ellora 16)** is **Krishna I’s** top-down **Shaiva** rock-cut temple. **Elephanta** is the **Trimurti** cave near Mumbai — a different site and dynasty context.
+
+</details>
+
+**Q21.** Name the famous Mamallapuram relief and the 2018 temple chronology chain.
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans:** Relief = **Descent of the Ganges / Arjuna’s Penance**. Chronology trap: **Pancha Rathas (Mamalla) → Shore Temple (Rajasimha) → Brihadeeswara 1010 (Rajaraja) → Gangaikondacholapuram**.
+
+</details>
+
+**Q22.** Who were the main contestants in the **Tripartite Struggle** besides Rashtrakutas?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans:** **Palas** (e.g. **Dharmapala**) and **Gurjara-Pratiharas** (e.g. **Mihir Bhoja**, **Nagabhata II**) fought **Rashtrakutas** (e.g. **Dhruva, Govinda III, Indra III**) for **Kannauj** in the doab.
 
 </details>
 

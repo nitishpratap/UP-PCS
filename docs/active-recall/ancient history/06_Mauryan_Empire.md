@@ -396,12 +396,32 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Extra locks the drill skipped
 
-**Q32.** Recite the eight instant dates / names.
+**Q32.** From memory, state the Mauryan exam lock for each date or anchor below:
+
+| Recall item |
+|-------------|
+| 322 BCE |
+| 305–303 BCE |
+| 268 BCE |
+| 261 BCE |
+| Rock Edict XIII |
+| Maski edict |
+| Third Buddhist Council |
+| 185 BCE |
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**322** Chandragupta. **305–303** Seleucus. **268** Ashoka consecration. **261** Kalinga. **RE XIII** remorse. **Maski** = Ashoka. **Third Council** Pataliputra. **185** Shunga.
+| Anchor | Lock |
+|--------|------|
+| 322 BCE | **Chandragupta** overthrows the Nandas |
+| 305–303 BCE | Treaty with **Seleucus** |
+| 268 BCE | **Ashoka** consecration |
+| 261 BCE | **Kalinga** war |
+| Rock Edict XIII | Ashoka’s **remorse** after Kalinga |
+| Maski edict | Personal name **Ashoka** |
+| Third Buddhist Council | **Pataliputra** |
+| 185 BCE | Last Maurya **Brihadratha**; **Shunga** coup |
 
 </details>
 

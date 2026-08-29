@@ -256,12 +256,12 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Extra lock
 
-**Q21.** Recite the one-line UPPCS packet.
+**Q21.** Which six exam locks define the Satavahana period in one UPPCS card?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Satavahana = Deccan + Gautamiputra + Nahapana + Prakrit + Amaravati + Roman trade + lead coins.** Not Kanishka. Not Rudradaman’s Sanskrit. Not the final Gupta kill of the Kshatrapas.
+**Ans:** **Deccan** power under **Gautamiputra Satakarni**, defeat of **Nahapana**, **Prakrit** inscriptions, **Amaravati** art, **Roman** trade, and **lead** coins. Not Kanishka. Not Rudradaman’s Sanskrit Junagadh style. Not the final Gupta blow to the Western Kshatrapas.
 
 </details>
 

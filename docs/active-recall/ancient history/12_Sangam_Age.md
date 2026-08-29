@@ -39,12 +39,28 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**. 
 
 </details>
 
-**Q4.** Recite the five tinai with occupation and deity.
+**Q4.** From memory, link each **tinai** landscape to its main occupation and deity:
+
+| Tinai | Occupation | Deity |
+|-------|------------|-------|
+| Kurinji | ? | ? |
+| Mullai | ? | ? |
+| Marudam | ? | ? |
+| Neydal (Neital) | ? | ? |
+| Palai | ? | ? |
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Kurinji** = hills, hunting, **Murugan**. **Mullai** = forest / cattle, **Mayon (Vishnu)**. **Marudam** = paddy plains, **Indra**. **Neydal (Neital)** = coast, fishing and salt, **Varuna**. **Palai** = dry land, raids and separation, **Korravai**. Tinai ties ecology to work and cult. **Janapada** is **not** a tinai.
+| Tinai | Occupation | Deity |
+|-------|------------|-------|
+| Kurinji | **Hunting** (hills) | **Murugan** |
+| Mullai | **Cattle / forest** | **Mayon (Vishnu)** |
+| Marudam | **Paddy plains** | **Indra** |
+| Neydal (Neital) | **Fishing and salt** (coast) | **Varuna** |
+| Palai | **Raids and separation** (dry land) | **Korravai** |
+
+Tinai ties ecology to work and cult. **Janapada** is **not** a tinai.
 
 </details>
 
@@ -131,21 +147,59 @@ Nature and landscape gods sit beside **hero worship**. **Murugan** is the hill f
 
 ## Rapid fire
 
-**Q12.** From memory, recall: Muvendar; capitals and emblems; Karikala; Senguttuvan; Kannagi; Muziris; Arikamedu; Akam; Puram.
+**Q12.** From memory, link each Sangam prompt to its lock:
+
+| Recall item |
+|-------------|
+| Muvendar |
+| Capitals (Chera / Chola / Pandya) |
+| Emblems |
+| Karikala |
+| Senguttuvan |
+| Kannagi epic |
+| Muziris |
+| Arikamedu |
+| Akam poetry |
+| Puram poetry |
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Chera, Chola, Pandya.** **Vanji · Uraiyur · Madurai.** **Bow · tiger · fish.** **Kallanai + Venni.** **Pepper + Pattini.** ***Silappadikaram.*** **Roman pepper.** **Roman amphorae.** **Love.** **War.**
+| Prompt | Lock |
+|--------|------|
+| Muvendar | **Chera, Chola, Pandya** |
+| Capitals | **Vanji · Uraiyur · Madurai** |
+| Emblems | **Bow · tiger · fish** |
+| Karikala | **Kallanai + Venni** |
+| Senguttuvan | **Pepper + Pattini** |
+| Kannagi epic | ***Silappadikaram*** |
+| Muziris | **Roman pepper gate** |
+| Arikamedu | **Roman amphorae** |
+| Akam poetry | **Love / inner life** |
+| Puram poetry | **War / kingship** |
 
 </details>
 
-**Q13.** Tinai chain: landscape → work → deity.
+**Q13.** For each **tinai**, state landscape → occupation → deity:
+
+| Tinai |
+|-------|
+| Kurinji |
+| Mullai |
+| Marutam |
+| Neydal |
+| Palai |
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Kurinji → hills → hunt → Murugan.** **Mullai → forest → cattle → Mayon.** **Marutam → plains → rice → Indra.** **Neydal → coast → fish/trade → Varuna.** **Palai → dry → raid → Korravai.**
+| Tinai | Chain |
+|-------|-------|
+| Kurinji | Hills → **hunt** → **Murugan** |
+| Mullai | Forest → **cattle** → **Mayon** |
+| Marutam | Plains → **rice** → **Indra** |
+| Neydal | Coast → **fish / trade** → **Varuna** |
+| Palai | Dry land → **raid** → **Korravai** |
 
 </details>
 
@@ -153,12 +207,66 @@ Nature and landscape gods sit beside **hero worship**. **Murugan** is the hill f
 
 ## Extra locks
 
-**Q14.** Recite the fifteen instant facts.
+**Q14.** Which fifteen facts form the core Sangam UPPCS packet?
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Chera–Chola–Pandya. Muvendar. Madurai. Korkai. Fish. Tiger. Bow. Karikala = Kallanai + Venni. Senguttuvan. Puhar. Muziris. Roman sea trade. Tolkappiyam. Akam. Puram.** Geography → occupation → ports → wealth → kings.
+**Ans:** **Chera–Chola–Pandya (Muvendar). Madurai assembly. Korkai pearls. Fish / tiger / bow emblems. Karikala = Kallanai + Venni. Senguttuvan pepper trade. Puhar port. Muziris–Rome link. Roman sea trade. *Tolkappiyam*. Akam vs Puram. Geography → occupation → ports → wealth → kings.**
+
+</details>
+
+**Q15.** What is **Keeladi**, and why do archaeologists cite it for the Sangam Age?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans:** **Keeladi** on the **Vaigai** is an early historic **urban** site in Tamil Nadu. Excavations support a literate, trading society alongside the Tamil-Brahmi and poem corpus.
+
+</details>
+
+**Q16.** Who were the **Velir** chiefs and the **Kadaiyezhu Vallalgal**?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans:** **Velir** were local **warrior chiefs** under the great kings. **Kadaiyezhu Vallalgal** are the **seven legendary generous patrons** praised in Puram poetry.
+
+</details>
+
+**Q17.** What does **Pliny** complain about regarding Rome and India?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans:** Rome suffers a **gold drain** to India for pepper, pearls, and luxuries — evidence of the surplus Tamilakam earned in Indo-Roman trade.
+
+</details>
+
+**Q18.** Who wrote the *Periplus of the Erythraean Sea*, and what is it?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans:** An **anonymous** Greco-Roman **merchant guide** to Red Sea and Indian Ocean ports. It names **Muziris** and other trading centres.
+
+</details>
+
+**Q19.** How do the legendary **three Sangams** differ from the poems we study?
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans:** Tradition places **three poet-assemblies** at Madurai; the first two are **mythical / lost**. Surviving anthologies belong to the **Third Sangam** layer — the exam corpus is those poems, not the legend alone.
+
+</details>
+
+**Q20.** Distinguish ***Silappadikaram*** from ***Manimekalai***.
+
+<details markdown="1">
+<summary>Show answer</summary>
+
+**Ans:** ***Silappadikaram*** tells **Kannagi–Kovalan** and the burning of Madurai. ***Manimekalai*** is the **Buddhist sequel** about their daughter. Both sit on the **post-Sangam** edge, not inside *Ettuttokai*.
 
 </details>
 

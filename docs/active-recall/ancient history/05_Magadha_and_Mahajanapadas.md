@@ -366,12 +366,30 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 
 ## Extra locks the drill skipped
 
-**Q29.** Recite the ruler–event chain from Bimbisara to Dhana.
+**Q29.** From memory, link each Magadha ruler to his main exam lock:
+
+| Recall item |
+|-------------|
+| Bimbisara |
+| Ajatashatru |
+| Udayin |
+| Shishunaga |
+| Kalashoka |
+| Mahapadma Nanda |
+| Dhana Nanda |
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Bimbisara** — Anga, three marriages, Buddha. **Ajatashatru** — Kosala + Vajji, Pataligrama, First Council. **Udayin** — capital **Pataliputra**. **Shishunaga** — **Avanti**. **Kalashoka** — Second Council. **Mahapadma** — ekarat. **Dhana** — Agrammes, Beas scare, fall to Chandragupta.
+| Ruler | Lock |
+|-------|------|
+| Bimbisara | **Anga**, three marriages, patron of **Buddha** |
+| Ajatashatru | **Kosala + Vajji**, **Pataligrama**, **First Council** |
+| Udayin | Capital shifted to **Pataliputra** |
+| Shishunaga | Conquest of **Avanti** |
+| Kalashoka | **Second Council** (Vaishali) |
+| Mahapadma Nanda | **Ekarat** — first pan-north hegemon |
+| Dhana Nanda | **Agrammes**, Beas scare; empire falls to **Chandragupta** |
 
 </details>
 
