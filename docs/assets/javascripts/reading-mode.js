@@ -638,6 +638,99 @@
     }
   }
 
+  function parseRecallLinkStem(text) {
+    const normalized = (text || "").replace(/\s+/g, " ").trim();
+    const patterns = [
+      /^(Q\d+[a-z]?\.)\s*(From memory, link each[^:]*:)\s*(.+)$/i,
+      /^(Q\d+[a-z]?\.)\s*(From memory, recall[^:]*:)\s*(.+)$/i,
+      /^(Q\d+[a-z]?\.)\s*(From memory, complete[^:]*:)\s*(.+)$/i,
+    ];
+    for (const re of patterns) {
+      const match = normalized.match(re);
+      if (!match) continue;
+      const items = match[3]
+        .split(/;\s*/)
+        .map((item) => item.trim())
+        .filter(Boolean);
+      if (items.length >= 2) {
+        return { badge: match[1], intro: match[2], items };
+      }
+    }
+    return null;
+  }
+
+  function buildRecallLinkBlock(parsed) {
+    const wrap = document.createElement("div");
+    wrap.className = "study-mcq__recall-block";
+
+    const head = document.createElement("p");
+    head.className = "study-mcq__stem";
+    const badge = document.createElement("strong");
+    badge.textContent = parsed.badge;
+    head.appendChild(badge);
+    head.appendChild(document.createTextNode(" " + parsed.intro));
+    wrap.appendChild(head);
+
+    const list = document.createElement("ul");
+    list.className = "study-mcq__recall-items";
+    list.setAttribute("role", "list");
+    parsed.items.forEach((item, index) => {
+      const li = document.createElement("li");
+      li.className = "study-mcq__recall-chip";
+      li.setAttribute("role", "listitem");
+      const num = document.createElement("span");
+      num.className = "study-mcq__recall-num";
+      num.textContent = String(index + 1);
+      const label = document.createElement("span");
+      label.className = "study-mcq__recall-label";
+      label.textContent = item;
+      li.append(num, label);
+      list.appendChild(li);
+    });
+    wrap.appendChild(list);
+    return wrap;
+  }
+
+  function formatRecallLinkStems(card) {
+    card.querySelectorAll(":scope > p.study-mcq__stem, :scope > p").forEach((p) => {
+      if (p.closest(".study-mcq__recall-block")) return;
+      const parsed = parseRecallLinkStem(p.textContent || "");
+      if (!parsed) return;
+      p.replaceWith(buildRecallLinkBlock(parsed));
+    });
+  }
+
+  function formatRecallPromptTables(card) {
+    const tables = [...card.querySelectorAll(":scope > table")];
+    tables.forEach((table, index) => {
+      if (table.classList.contains("study-mcq__recall-prompt")) return;
+      const headers = [...table.querySelectorAll("thead th")].map((th) =>
+        (th.textContent || "").trim().toLowerCase()
+      );
+      const bodyRows = [...table.querySelectorAll("tbody tr")];
+      const isPrompt =
+        headers.length === 1 &&
+        /recall|prompt|item|name|link/.test(headers[0]) &&
+        bodyRows.length >= 2 &&
+        index === 0;
+      if (!isPrompt) return;
+      table.classList.add("study-mcq__recall-prompt");
+      bodyRows.forEach((row, rowIndex) => {
+        const cell = row.querySelector("td");
+        if (!cell) return;
+        cell.classList.add("study-mcq__recall-chip");
+        const num = document.createElement("span");
+        num.className = "study-mcq__recall-num";
+        num.textContent = String(rowIndex + 1);
+        const label = document.createElement("span");
+        label.className = "study-mcq__recall-label";
+        label.textContent = (cell.textContent || "").trim();
+        cell.textContent = "";
+        cell.append(num, label);
+      });
+    });
+  }
+
   function applyCardLabels(card) {
     let labeledStem = false;
     card.querySelectorAll(":scope > p").forEach((p) => {
@@ -791,6 +884,8 @@
       formatMatchListsInCard(card);
       formatOptionsInCard(card);
       applyCardLabels(card);
+      formatRecallLinkStems(card);
+      formatRecallPromptTables(card);
       formatAnswerDetails(card);
 
       children.splice(index, block.length, card);

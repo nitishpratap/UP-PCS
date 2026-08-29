@@ -162,12 +162,34 @@ King is *vendan*. Land tax **vari**. Customs **sungam**. Units **nadu** and **ur
 
 </details>
 
-**Q15.** From memory, link each south-India lock: emblems of Chera / Chola / Pandya; Karikala; Senguttuvan; Mamalla; Pulakeshin II; Krishna I; Rajasimha; Amoghavarsha; Arikamedu.
+**Q15.** From memory, link each south-India lock:
+
+| Recall item |
+|-------------|
+| Emblems of Chera / Chola / Pandya |
+| Karikala |
+| Senguttuvan |
+| Mamalla |
+| Pulakeshin II |
+| Krishna I |
+| Rajasimha |
+| Amoghavarsha |
+| Arikamedu |
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Bow · tiger · fish.** **Kallanai + Venni.** **Pepper + Pattini.** **Vatapi / Pulakeshin II.** **Harsha / Narmada.** **Kailasa Ellora.** **Shore Temple.** **Kavirajamarga.** **Roman amphorae.**
+| Name | Lock |
+|------|------|
+| Emblems of Chera / Chola / Pandya | **Bow · tiger · fish** |
+| Karikala | **Kallanai + Venni** |
+| Senguttuvan | **Pepper + Pattini** |
+| Mamalla | **Vatapi / Pulakeshin II** |
+| Pulakeshin II | **Harsha / Narmada** |
+| Krishna I | **Kailasa Ellora** |
+| Rajasimha | **Shore Temple** |
+| Amoghavarsha | **Kavirajamarga** |
+| Arikamedu | **Roman amphorae** |
 
 </details>
 

@@ -351,12 +351,44 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Rapid fire
 
-**Q31.** From memory, link each name to its Mauryan lock: Chandragupta; Bindusara; Ashoka; Chanakya; Megasthenes; Seleucus; Kalinga; Maski; Sarnath; Barabar; Sudarshana; Moggaliputta Tissa; Mahendra–Sanghamitra; Brihadratha.
+**Q31.** From memory, link each name to its Mauryan lock:
+
+| Recall item |
+|-------------|
+| Chandragupta |
+| Bindusara |
+| Ashoka |
+| Chanakya |
+| Megasthenes |
+| Seleucus |
+| Kalinga |
+| Maski |
+| Sarnath |
+| Barabar |
+| Sudarshana |
+| Moggaliputta Tissa |
+| Mahendra–Sanghamitra |
+| Brihadratha |
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Nanda overthrow / 322 · Amitraghata · Dhamma + RE XIII · Arthashastra · Indica · 500 elephants · 261 / remorse · personal name Ashoka · Lion Capital · Ajivikas · Junagadh lake · Third Council · Sri Lanka · last Maurya / Pushyamitra.**
+| Name | Lock |
+|------|------|
+| Chandragupta | Nanda overthrow / **322** |
+| Bindusara | **Amitraghata** |
+| Ashoka | **Dhamma** + RE XIII |
+| Chanakya | **Arthashastra** |
+| Megasthenes | **Indica** |
+| Seleucus | **500 elephants** |
+| Kalinga | **261** / remorse |
+| Maski | personal name **Ashoka** |
+| Sarnath | **Lion Capital** |
+| Barabar | **Ajivikas** |
+| Sudarshana | **Junagadh** lake |
+| Moggaliputta Tissa | **Third Council** |
+| Mahendra–Sanghamitra | **Sri Lanka** |
+| Brihadratha | last Maurya / **Pushyamitra** |
 
 </details>
 

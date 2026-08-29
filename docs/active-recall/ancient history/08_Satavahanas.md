@@ -215,12 +215,40 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Rapid fire
 
-**Q20.** From memory, link each item to its Satavahana lock: founder; greatest king; beat Nahapana; Nahapana is ___; Balashri inscription; Naganika inscription; Pratishthana modern name; Amaravati school; Gatha Saptasati; Yajna Sri coins; inscription language; script.
+**Q20.** From memory, link each item to its Satavahana lock:
+
+| Recall item |
+|-------------|
+| Founder |
+| Greatest king |
+| Beat Nahapana |
+| Nahapana is ___ |
+| Balashri inscription |
+| Naganika inscription |
+| Pratishthana modern name |
+| Amaravati school |
+| Gatha Saptasati |
+| Yajna Sri coins |
+| Inscription language |
+| Script |
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Simuka · Gautamiputra Satakarni · Shakas / Nahapana · Western Kshatrapa · Nasik · Naneghat · Paithan · Amaravati · Hala · ship · Prakrit · Brahmi.**
+| Item | Lock |
+|------|------|
+| Founder | **Simuka** |
+| Greatest king | **Gautamiputra Satakarni** |
+| Beat Nahapana | **Shakas / Nahapana** |
+| Nahapana is ___ | **Western Kshatrapa** |
+| Balashri inscription | **Nasik** |
+| Naganika inscription | **Naneghat** |
+| Pratishthana modern name | **Paithan** |
+| Amaravati school | **Amaravati** |
+| Gatha Saptasati | **Hala** |
+| Yajna Sri coins | **ship** |
+| Inscription language | **Prakrit** |
+| Script | **Brahmi** |
 
 </details>
 

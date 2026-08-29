@@ -547,12 +547,36 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Rapid fire — site → event
 
-**Q56.** From memory, link each site to its Buddhist/Jain lock: Lumbini; Bodh Gaya; Sarnath; Kushinagar; Rajgir; Vaishali; Pataliputra; Sanchi; Nalanda; Pavapuri.
+**Q56.** From memory, link each site to its Buddhist/Jain lock:
+
+| Recall item |
+|-------------|
+| Lumbini |
+| Bodh Gaya |
+| Sarnath |
+| Kushinagar |
+| Rajgir |
+| Vaishali |
+| Pataliputra |
+| Sanchi |
+| Nalanda |
+| Pavapuri |
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Lumbini** — birth. **Bodh Gaya** — enlightenment. **Sarnath** — first sermon. **Kushinagar** — Mahaparinirvana. **Rajgir** — First Council (Ajatashatru). **Vaishali** — Second Council (Kalashoka); also Mahavira’s region. **Pataliputra** — Third Buddhist Council (Ashoka); Jain council of **Sthulabhadra**. **Sanchi** — stupa / toranas. **Nalanda** — mahavihara. **Pavapuri** — Mahavira’s Nirvana.
+| Site | Lock |
+|------|------|
+| Lumbini | **Birth** |
+| Bodh Gaya | **Enlightenment** |
+| Sarnath | **First sermon** |
+| Kushinagar | **Mahaparinirvana** |
+| Rajgir | **First Council** (Ajatashatru) |
+| Vaishali | **Second Council** (Kalashoka); Mahavira’s region |
+| Pataliputra | **Third Buddhist Council** (Ashoka); Jain council of **Sthulabhadra** |
+| Sanchi | **Stupa / toranas** |
+| Nalanda | **Mahavihara** |
+| Pavapuri | Mahavira’s **Nirvana** |
 
 </details>
 

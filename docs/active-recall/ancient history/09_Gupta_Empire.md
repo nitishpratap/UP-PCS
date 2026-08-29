@@ -193,12 +193,44 @@ Attempt every stem from memory. Write only keywords. Then open **Show answer**.
 
 ## Rapid fire
 
-**Q18.** From memory, link each name to its Gupta lock: CG I; Samudragupta; Harishena; CG II; Fa-Hien; Kumaragupta; Skandagupta; Aryabhata; Kalidasa; Varahamihira; Deogarh; Bhitargaon; Prayaga Prashasti; Hunas.
+**Q18.** From memory, link each name to its Gupta lock:
+
+| Recall item |
+|-------------|
+| CG I |
+| Samudragupta |
+| Harishena |
+| CG II |
+| Fa-Hien |
+| Kumaragupta |
+| Skandagupta |
+| Aryabhata |
+| Kalidasa |
+| Varahamihira |
+| Deogarh |
+| Bhitargaon |
+| Prayaga Prashasti |
+| Hunas |
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Maharajadhiraja / Lichchhavi · Napoleon / veena · Prayag text · Vikramaditya / Shakas · CG II pilgrim · Nalanda · Hunas / Bhitari · rotation / π · Shakuntala · Brihat Samhita · Dashavatara · brick temple · Samudragupta · Mihirakula age.**
+| Name | Lock |
+|------|------|
+| CG I | **Maharajadhiraja / Lichchhavi** |
+| Samudragupta | **Napoleon / veena** |
+| Harishena | **Prayag** text |
+| CG II | **Vikramaditya / Shakas** |
+| Fa-Hien | **CG II** pilgrim |
+| Kumaragupta | **Nalanda** |
+| Skandagupta | **Hunas / Bhitari** |
+| Aryabhata | **rotation / π** |
+| Kalidasa | **Shakuntala** |
+| Varahamihira | **Brihat Samhita** |
+| Deogarh | **Dashavatara** |
+| Bhitargaon | **brick temple** |
+| Prayaga Prashasti | **Samudragupta** |
+| Hunas | **Mihirakula** age |
 
 </details>
 

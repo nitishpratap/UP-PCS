@@ -213,12 +213,40 @@ Both make the **human Buddha image** after aniconic Mauryan signs. Kanishka’s 
 
 ## Rapid fire
 
-**Q19.** From memory, link each name to its lock: Menander; Milindapanho; Nahapana; Gautamiputra beat ___; Rudradaman inscription; Gondophernes; Kanishka dynasty; Kanishka council; Gandhara influence; Mathura stone; Kushanas route; Kanishka centre.
+**Q19.** From memory, link each name to its lock:
+
+| Recall item |
+|-------------|
+| Menander |
+| Milindapanho |
+| Nahapana |
+| Gautamiputra beat ___ |
+| Rudradaman inscription |
+| Gondophernes |
+| Kanishka dynasty |
+| Kanishka council |
+| Gandhara influence |
+| Mathura stone |
+| Kushanas route |
+| Kanishka centre |
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Indo-Greek · Nagasena · Kshaharata · Nahapana · Junagadh Sanskrit · Indo-Parthian · Kushana / Yuezhi · Fourth / Kashmir · Greco-Roman · red sandstone · Silk · Purushapura + Mathura.**
+| Name | Lock |
+|------|------|
+| Menander | **Indo-Greek** |
+| Milindapanho | **Nagasena** |
+| Nahapana | **Kshaharata** |
+| Gautamiputra beat ___ | **Nahapana** |
+| Rudradaman inscription | **Junagadh** Sanskrit |
+| Gondophernes | **Indo-Parthian** |
+| Kanishka dynasty | **Kushana / Yuezhi** |
+| Kanishka council | **Fourth** / Kashmir |
+| Gandhara influence | **Greco-Roman** |
+| Mathura stone | **red sandstone** |
+| Kushanas route | **Silk** |
+| Kanishka centre | **Purushapura + Mathura** |
 
 </details>
 

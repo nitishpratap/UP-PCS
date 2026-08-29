@@ -329,12 +329,36 @@ Four monarchies: **Magadha, Kosala, Vatsa, Avanti**. Ganas: **Vajji** (8 clans, 
 
 ## Rapid fire
 
-**Q28.** From memory, link each name to its Magadha lock: Bimbisara dynasty; Ajatashatru dynasty; Shishunaga lock; Mahapadma lock; Kalashoka council; Ajatashatru council; Bimbisara contemporary; Ajatashatru war; Pataliputra modern name; Megasthenes book.
+**Q28.** From memory, link each name to its Magadha lock:
+
+| Recall item |
+|-------------|
+| Bimbisara dynasty |
+| Ajatashatru dynasty |
+| Shishunaga lock |
+| Mahapadma lock |
+| Kalashoka council |
+| Ajatashatru council |
+| Bimbisara contemporary |
+| Ajatashatru war |
+| Pataliputra modern name |
+| Megasthenes book |
 
 <details markdown="1">
 <summary>Show answer</summary>
 
-**Haryanka · Haryanka · Avanti · Nanda expansion · Second (Vaishali) · First (Rajgir) · Buddha / Mahavira · Vajji · Patna · Indica.**
+| Name | Lock |
+|------|------|
+| Bimbisara dynasty | **Haryanka** |
+| Ajatashatru dynasty | **Haryanka** |
+| Shishunaga lock | **Avanti** |
+| Mahapadma lock | **Nanda expansion** |
+| Kalashoka council | **Second** (Vaishali) |
+| Ajatashatru council | **First** (Rajgir) |
+| Bimbisara contemporary | **Buddha / Mahavira** |
+| Ajatashatru war | **Vajji** |
+| Pataliputra modern name | **Patna** |
+| Megasthenes book | **Indica** |
 
 </details>
 

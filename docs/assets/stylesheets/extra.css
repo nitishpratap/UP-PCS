@@ -363,6 +363,69 @@ html { font-size: 100%; }
   color: var(--md-accent-fg-color);
 }
 .md-typeset .study-mcq__label strong { color: inherit; }
+
+.md-typeset .study-mcq__recall-block { margin: 0 0 .35rem; }
+.md-typeset .study-mcq__recall-items {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(11.5rem, 1fr));
+  gap: .45rem;
+  list-style: none;
+  margin: .55rem 0 .15rem;
+  padding: 0;
+}
+.md-typeset .study-mcq__recall-chip,
+.md-typeset .study-mcq__recall-prompt td.study-mcq__recall-chip {
+  display: flex;
+  align-items: flex-start;
+  gap: .45rem;
+  margin: 0;
+  padding: .45rem .6rem;
+  border: 1px solid var(--study-hairline);
+  border-radius: .55rem;
+  background: color-mix(in srgb, var(--study-surface) 88%, var(--md-accent-fg-color, #4051b5) 12%);
+  font-size: .84rem;
+  line-height: 1.35;
+  font-weight: 600;
+}
+.md-typeset .study-mcq__recall-num {
+  flex: 0 0 auto;
+  min-width: 1.35rem;
+  height: 1.35rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  font-size: .72rem;
+  font-weight: 800;
+  color: var(--md-accent-fg-color, #4051b5);
+  background: color-mix(in srgb, var(--md-accent-fg-color, #4051b5) 14%, transparent);
+}
+.md-typeset .study-mcq__recall-label { flex: 1 1 auto; }
+.md-typeset .study-mcq table.study-mcq__recall-prompt {
+  margin: .55rem 0 .15rem;
+  border: 0;
+  background: transparent;
+}
+.md-typeset .study-mcq table.study-mcq__recall-prompt th {
+  font-family: var(--study-ui);
+  font-size: .74rem;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  color: var(--md-default-fg-color--lighter, #888);
+  border: 0;
+  padding: 0 0 .35rem;
+}
+.md-typeset .study-mcq table.study-mcq__recall-prompt td {
+  border: 0;
+  padding: 0;
+  vertical-align: top;
+}
+.md-typeset .study-mcq table.study-mcq__recall-prompt tbody tr + tr td { padding-top: .45rem; }
+[data-md-color-scheme="slate"] .md-typeset .study-mcq__recall-chip,
+[data-md-color-scheme="slate"] .md-typeset .study-mcq__recall-prompt td.study-mcq__recall-chip {
+  background: color-mix(in srgb, var(--study-surface) 92%, #fff 8%);
+}
+
 .md-typeset .study-mcq__stem strong:first-child {
   display: inline-block;
   margin-right: .35rem;
