@@ -1,10 +1,10 @@
 # Topic 3 — Vedic Civilization
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥40)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥46)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Vedic Period | Rigvedic Society | Later Vedic Society | Vedic Administration | Rigvedic Economy | Political Institutions | Sabha | Samiti | Vidhata | Vedic Literature | Four Vedas | Brahmanas | Aranyakas | Upanishads | Vedangas
+Vedic Period | Rigvedic Society | Later Vedic Society | Vedic Administration | Rigvedic Economy | Political Institutions | Sabha | Samiti | Vidhata | Vedic Literature | Four Vedas | Brahmanas | Aranyakas | Upanishads | Vedangas | Painted Grey Ware (PGW) | Iron Age in India
 
 </details>
 
@@ -32,6 +32,9 @@ Samhita → Brahmana → Aranyaka → Upanishad
 6 Vedangas: Shiksha Kalpa Vyakarana Nirukta Chhanda Jyotisha
 
 UP Later Vedic: Kuru–Panchala, Kosala, Kashi | Hastinapur, Atranjikhera, Ahichchhatra
+PGW ~1100–600 BCE | grey + black geometric paint | Later Vedic doab marker
+Iron: shyama ayas / krishna ayas in texts | PGW + megalithic south = Iron Age markers
+PGW → NBPW ~700–200 BCE (mahajanapada / second urbanisation — Topic 5)
 ```
 
 ### Confused pairs
@@ -51,6 +54,9 @@ UP Later Vedic: Kuru–Panchala, Kosala, Kashi | Hastinapur, Atranjikhera, Ahich
 | Nishka | Coin | Gold **ornament / value-unit** vs coined money (**absent**) | निष्क / मुद्रा |
 | Shruti | Smriti | Heard (Veda corpus) vs remembered (later dharma texts) | श्रुति / स्मृति |
 | Vedanga | Upanishad | Six **limbs** (tools) vs **Vedanta** (end of Veda) | वेदांग / उपनिषद् |
+| PGW | NBPW | Later Vedic **grey painted** doab ware vs mahajanapada **black polished** elite ware | चित्रित धूसर / उत्तरी काली |
+| PGW | OCP | Iron-age **painted grey** vs pre-PGW **ochre-wash** doab rural | PGW / OCP |
+| shyama ayas | ayas (Rigveda) | Later Vedic **iron** vs Early Vedic **copper/bronze** | श्याम आयस / आयस |
 
 ---
 ![img_2.png](img_2.png)
@@ -470,6 +476,43 @@ D. Kathak
 Memory: **S-K-V-N-C-J**.
 
 > **Exam note:** Upanishad / Puranas / Itihasa are **not** Vedangas. Yaska ≠ Panini.
+
+---
+
+## 3.16 Painted Grey Ware (PGW)
+
+**Archaeological marker of Later Vedic culture | ~1100–600 BCE | upper Gangetic–Ghaggar belt**
+
+- **Painted Grey Ware** is fine grey pottery with geometric designs painted in black. It is the standard archaeological signature of the **Later Vedic** phase in the doab.
+- The date-band is about **1100–600 BCE**, overlapping the end of the Vedic textual period. Sites often sit on top of or beside **OCP** layers.
+- Distribution runs through **western UP, Haryana, Punjab, and Rajasthan**: Hastinapur, Ahichchhatra, Kurukshetra, Mathura, Jakhera, and Panipat are textbook names.
+- PGW settlements are mostly villages, but some grow into **fortified towns** with moats and palisades before the full mahajanapada cities.
+- The culture is linked in tradition to **Kuru–Panchala** and the Mahabharata geography. Archaeology does **not** by itself prove every epic event.
+- PGW layers show **iron** tools and weapons along with horse bones and ivory work. That is why PGW marks the **early Iron Age** in the north.
+- Stratigraphy usually runs **OCP → PGW → NBPW** in the doab. PGW is **not** the same as Harappan red ware or megalithic black-and-red ware of the south.
+
+> **Exam note:** PGW = **Later Vedic / doab**, not Sangam south. PGW comes **before** NBPW, not after.
+
+---
+
+## 3.17 Iron Age in India
+
+**Metal transition that reshapes agriculture, war, and settlement | north and south follow different pottery tracks**
+
+- The Rigveda knows metal as **ayas**, usually read as **copper or bronze**. True iron appears in Later Vedic texts as **shyama ayas** or **krishna ayas** (“dark metal”).
+- In **north India**, iron technology spreads with **PGW** from about the 12th century BCE and then with **NBPW** cities after about 700 BCE.
+- Iron ploughshares, axes, and weapons made dense farming and forest clearance possible in the Ganga plain. That underpins the **second urbanisation** and the sixteen mahajanapadas.
+- In **south and central India**, the Iron Age is often studied through **megalithic** burials with **black-and-red ware**, not through PGW.
+- Key southern megalithic names include **Brahmagiri**, **Adichanallur**, **Maski**, and **Hallur**. Burial types include dolmens, cists, stone circles, and **hero stones (virakkal)**.
+- Iron did **not** arrive everywhere at one instant. Gandhara, the doab, and the Deccan show different start-dates in excavation.
+
+| Region | Iron Age marker | Period lock |
+|--------|-----------------|-------------|
+| **Northwest / doab** | PGW then NBPW | Later Vedic → mahajanapada |
+| **South / Deccan** | Megaliths + black-and-red ware | Pre-Sangam bed |
+| **Chalcolithic overlap** | Limited copper before iron | Mehrgarh, Jorwe, OCP zones |
+
+> **Exam note:** “Iron in Rigveda” is a **trap** unless the question means Later Vedic shyama ayas. PGW iron is **north**; megalithic iron is mainly **peninsular**.
 
 ---
 
@@ -1314,6 +1357,81 @@ A. Only one  B. Only two  C. All three  D. None
 
 ---
 
+**Q43.** Which of the following statements regarding **Painted Grey Ware (PGW)** is/are correct?
+
+1. PGW is the usual archaeological marker of the Later Vedic phase in the doab.  
+2. Hastinapur and Ahichchhatra are among the textbook PGW sites.  
+3. PGW is the same ware as Northern Black Polished Ware (NBPW).
+
+A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — PGW comes **before** NBPW. NBPW belongs to the mahajanapada / early historic cities (Topic 5).
+
+</details>
+
+---
+
+**Q44.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|---------|
+| A. PGW | 1. South / Deccan Iron Age burials with black-and-red ware |
+| B. NBPW | 2. Later Vedic grey painted doab ware |
+| C. OCP | 3. Mahajanapada black polished elite ware |
+| D. Megalithic BRW | 4. Ochre-wash rural doab before PGW |
+
+A. 2 3 4 1  B. 2 1 4 3  C. 3 2 4 1  D. 4 2 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — PGW = 2; NBPW = 3; OCP = 4; Megalithic BRW = 1.
+
+</details>
+
+---
+
+**Q45.** Given below are two statements:
+
+**Assertion (A):** Later Vedic texts use **shyama ayas** or **krishna ayas** for iron.  
+
+**Reason (R):** In the Rigveda, **ayas** usually means copper or bronze, not iron.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
+**Q46.** With reference to the **Iron Age in India**, consider the following statements:
+
+1. North India links iron spread with PGW and then NBPW city layers.  
+2. Megalithic burials with black-and-red ware are mainly a south / Deccan pattern.  
+3. **Brahmagiri** is a textbook megalithic site name.
+
+How many of the above statements are correct?  
+A. Only one  B. Only two  C. All three  D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
 ## Complete PYQ Bank (Topic 3)
 
 > Full UPPCS Prelims hits 2018–2025 mapped to this topic. Answers hidden. Newest first. No RO-ARO folder in `pyq/`.
@@ -1405,3 +1523,6 @@ UPPCS Prelims **2025, 2024, 2022, 2021, 2019** — keyword search (Vedic / Rigve
 13. **Vidatha still powerful in Later Vedic** → **first to fade**.
 14. **Alamgirpur = Vedic Videha** → **Harappan** east end (Meerut belt).
 15. **Sayana = Vedic rishi** → **14th century** commentator.
+16. **PGW = Sangam south / NBPW** → PGW = **Later Vedic doab**; NBPW = mahajanapada cities (Topic 5).
+17. **Megalithic = PGW** → megaliths = **south/Deccan** Iron Age; PGW = **northwest doab**.
+18. **Iron in Rigveda = shyama ayas** → RV **ayas** = copper/bronze; iron = **Later Vedic**.

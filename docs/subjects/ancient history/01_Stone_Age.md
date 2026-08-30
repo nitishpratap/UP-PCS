@@ -671,6 +671,11 @@ D. V.N. Mishra
 | **Lekhahia** | Mirzapur | Rock art |
 | **OCP belt** | Western UP doab | Hastinapur, Bahadarabad, Lal Qila, Bargaon |
 
+### Megalithic pointer (full card → Topic 8)
+
+- **Megalithic** burials with black-and-red ware are mainly **south and Deccan** Iron Age, not Stone Age chalcolithic.
+- Key names: **Brahmagiri**, **Adichanallur**, **Maski**. Full teaching sits in **Post-Mauryan / Sangam** context.
+
 ### Number locks (not restated above as a second chronology)
 
 | Item | Number |

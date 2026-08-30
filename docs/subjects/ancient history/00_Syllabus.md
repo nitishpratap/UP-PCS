@@ -172,6 +172,10 @@
 
 - Seleucus Nicator
 - Indo-Greek Kingdom
+- Shakas
+- Parthians
+- Kushanas
+- Kanishka
 
 ---
 

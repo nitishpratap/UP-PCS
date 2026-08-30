@@ -665,10 +665,14 @@ A. Dholavira and Bhagatrav  B. Harappa and Kot Diji  C. Mohenjo-daro and Lothal 
 
 ## 2.24 Copper Hoard Culture
 
-- Stray **copper** finds in the **Ganga–Yamuna doab** and neighbours: **anthropomorphs, harpoons, antennae swords, celts**.
-- Largest hoard: **Gungeria** (Balaghat, MP).
-- Usually discussed with **OCP**; **not** the same as Mature Harappan bronze workshops of Mohenjo-daro / Chanhudaro.
-- Sanauli copper weapons sit in this Late Harappan / OCP conversation.
+**Stray copper tools and figures in the Gangetic doab | usually paired with OCP | not Harappan workshop bronze**
+
+- The **Copper Hoard Culture** is a scatter of **copper** objects across the **Ganga–Yamuna doab** and neighbouring belts: **anthropomorphs**, **harpoons**, **antennae swords**, **celts**, and axes.
+- The largest hoard is **Gungeria** in **Balaghat**, Madhya Pradesh.
+- These objects are usually discussed with **Ochre Coloured Pottery (OCP)** sites. They are **not** the same as the urban bronze crafts of Mature Harappan **Mohenjo-daro** or **Chanhudaro**.
+- **Sanauli** (Baghpat, UP) copper weapons and chariot burials belong to the Late Harappan / OCP conversation in the upper doab. They are **not** Gujarat dockyard bronzes.
+- The culture is rural and pre-urban. It sits **before** PGW and long before NBPW cities.
+- Trap: “anthropomorph” on a paper usually means this **Gangetic copper hoard** type, not a Harappan seal figure.
 
 > **Exam note:** Anthropomorph = Gangetic Copper Hoard shape. Not a Gujarat dockyard craft.
 
@@ -676,12 +680,17 @@ A. Dholavira and Bhagatrav  B. Harappa and Kot Diji  C. Mohenjo-daro and Lothal 
 
 ## 2.25 Ochre Coloured Pottery (OCP)
 
-- Pottery with an **ochre wash** that rubs off the fingers.
-- Western UP–Haryana–Rajasthan **doab**: Hastinapur, Bahadarabad, Lal Qila, Bargaon, Atranjikhera. **B.B. Lal** at Hastinapur.
-- Late 3rd / 2nd millennium — **after / overlapping** Late Harappan in the east, **before PGW**.
-- Rural; Copper Hoards nearby; **not** a planned Harappan metropolis. Hastinapur OCP is **not** automatic “Mahabharata proved.”
+**Late rural doab culture | ochre wash on pottery | bridge between Late Harappan east and PGW**
 
-> **Exam note:** OCP = **doab**, not Lothal red ware.
+- **Ochre Coloured Pottery** gets its name from a red ochre wash that rubs off on the fingers.
+- The main belt is **western UP, Haryana, and Rajasthan**: **Hastinapur**, **Bahadarabad**, **Lal Qila**, **Bargaon**, and **Atranjikhera**.
+- **B.B. Lal** excavated OCP at **Hastinapur**. That dig is famous in the Mahabharata archaeology debate, but OCP alone does **not** prove the epic war.
+- The date-band is roughly the **late 3rd to 2nd millennium BCE**. It overlaps the **eastern fringe** of Late Harappan decline and comes **before PGW** in stratigraphy.
+- Settlements are **rural**, not planned Harappan cities. **Copper Hoards** often appear nearby.
+- OCP is **not** Lothal red ware. It is **not** megalithic black-and-red ware of the south.
+- Sequence memory for the doab: **Late Harappan / OCP → PGW → NBPW**.
+
+> **Exam note:** OCP = **doab**, not Lothal red ware. Hastinapur OCP ≠ automatic “Mahabharata proved.”
 
 ---
 

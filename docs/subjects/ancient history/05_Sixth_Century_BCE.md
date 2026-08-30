@@ -1,10 +1,10 @@
 # Topic 5 — Sixth Century BCE
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥48)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥52)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Political Condition of Sixth Century BCE | Sixteen Mahajanapadas | Mahajanapadas of Uttar Pradesh | Capitals of Mahajanapadas | Expansion of Mahajanapadas | Rise of Magadha | Haryanka Dynasty | Shishunaga Dynasty | Nanda Dynasty
+Political Condition of Sixth Century BCE | Sixteen Mahajanapadas | Mahajanapadas of Uttar Pradesh | Capitals of Mahajanapadas | Expansion of Mahajanapadas | Rise of Magadha | Haryanka Dynasty | Shishunaga Dynasty | Nanda Dynasty | Northern Black Polished Ware (NBPW)
 
 </details>
 
@@ -300,6 +300,29 @@ A. 4 2 1 3  B. 3 1 4 2  C. 3 4 1 2  D. 2 3 4 1
 - Centralised revenue and a standing four-fold army are the machine the Mauryas inherit. It is still **not** Ashokan dhamma, and not the *Arthashastra* as a finished book.
 
 > **Exam note:** Alexander never marched on Pataliputra. Mahapadma is not Chandragupta.
+
+---
+
+## 5.10 Northern Black Polished Ware (NBPW)
+
+**Archaeological marker of mahajanapada cities and second urbanisation | ~700–200 BCE | not PGW, not Harappan**
+
+- **Northern Black Polished Ware** is a fine, glossy, often metallic-looking black pottery. It marks elite table culture in early historic north India.
+- The usual date-band is about **700–200 BCE**, from late mahajanapada growth through early Mauryan cities. It is **later** than PGW in stratigraphy.
+- NBPW appears at urban and administrative sites: **Kaushambi**, **Rajghat** (Kashi), **Hastinapur**, **Shringaverapura**, **Taxila**, **Pataliputra**, and **Vaishali**.
+- Wheeler and Krishna Deva named the ware at **Ahichchhatra**. Marshall had already noticed similar “fine black lustrous ware” at Sarnath and Bhita.
+- NBPW is linked to **fortified towns**, punch-marked **silver** coins, writing, and specialised crafts. It is the pottery face of the **second urbanisation**.
+- Early NBPW layers can sit with PGW, black-and-red ware, and plain grey ware. Later levels move toward coarse red and grey wares.
+- NBPW is **not** limited to the Mauryan Empire alone. It begins in the **mahajanapada** age and continues into Mauryan strata.
+- In the south, early historic sites may show NBPW imports, but the main production belt is the **Gangetic plain and the northwest**.
+
+| Ware | Date (approx.) | Exam lock |
+|------|----------------|-----------|
+| **OCP** | Late 3rd–2nd millennium BCE | Doab rural, before PGW |
+| **PGW** | ~1100–600 BCE | Later Vedic doab |
+| **NBPW** | ~700–200 BCE | Mahajanapada + early historic cities |
+
+> **Exam note:** NBPW ≠ PGW. NBPW ≠ “only Mauryan.” Kaushambi and Ahichchhatra are classic NBPW mahajanapada locks.
 
 ---
 
@@ -1162,6 +1185,81 @@ D. NBPW — Later Vedic grey ware of Hastinapur only
 <summary>Show answer</summary>
 
 **Ans: D**
+
+</details>
+
+---
+
+**Q49.** With reference to **Northern Black Polished Ware (NBPW)**, consider the following statements:
+
+1. Wheeler and Krishna Deva named the ware at **Ahichchhatra**.  
+2. NBPW appears at early historic sites such as **Kaushambi**, **Rajghat**, and **Taxila**.  
+3. NBPW begins only after the Mauryan empire ends.
+
+How many of the above statements are correct?  
+A. Only one  B. Only two  C. All three  D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — 1 and 2. NBPW starts in the **mahajanapada** age, before and through Mauryan strata.
+
+</details>
+
+---
+
+**Q50.** Arrange the following doab pottery layers from **earliest to latest**:
+
+1. Northern Black Polished Ware (NBPW)  
+2. Ochre Coloured Pottery (OCP)  
+3. Painted Grey Ware (PGW)
+
+A. 2–3–1  B. 3–2–1  C. 1–3–2  D. 2–1–3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — OCP → PGW → NBPW.
+
+</details>
+
+---
+
+**Q51.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|---------|
+| A. Kaushambi | 1. NBPW mahajanapada city in the Vatsa belt |
+| B. Ahichchhatra | 2. Site where NBPW was formally named |
+| C. Hastinapur | 3. PGW / OCP doab site in Kuru tradition |
+| D. Shringaverapura | 4. Early NBPW layer on the Ganga in UP |
+
+A. 1 2 3 4  B. 2 1 4 3  C. 1 2 4 3  D. 3 2 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
+**Q52.** Given below are two statements:
+
+**Assertion (A):** NBPW marks the pottery face of the **second urbanisation** in the Gangetic plain.  
+
+**Reason (R):** NBPW is the same as Later Vedic **Painted Grey Ware**.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — PGW is **earlier** grey ware; NBPW is later black polished elite ware.
 
 </details>
 

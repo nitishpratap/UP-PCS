@@ -1,5 +1,5 @@
 # Topic 8 — Post-Mauryan India
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥50)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥54)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
@@ -27,6 +27,7 @@ Satavahana: Simuka | Pratishthana + Amaravati | Gautamiputra vs Nahapana
 2021 Q52: Prakrit + public arts = both true
 Hala = Gatha Saptasati | Yajna Sri = ship coins | metronymic names
 
+Megalithic: Brahmagiri, Adichanallur, Maski | dolmen/cist/hero stone | BRW + iron | bed under Sangam
 Shaka: Maues first | Kshaharata Nahapana | Kardamaka Rudradaman
 Junagadh: Sudarshana lake — Pushyagupta (Chandragupta) → Tushaspha (Ashoka) → Rudradaman repair
 Parthian: Gondophares | Takht-i-Bahi
@@ -142,8 +143,12 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 - Boasts of campaigns and of recovering a Jina image.
 
 **Megalithic south**
-- Iron Age burials: dolmens, cists, **hero stones (virakkal)**.
-- Black-and-red ware. This is the bed under Sangam states.
+- **Megalithic** cultures are Iron Age burial traditions of the peninsula and parts of central India. They predate and underlie the Sangam polities.
+- Burial types include **dolmens**, **cists**, stone circles, capstones, and **hero stones (virakkal / nadukal)** for warriors.
+- Pottery is often **black-and-red ware (BRW)**. Iron tools and weapons appear in the graves.
+- Major sites include **Brahmagiri**, **Adichanallur**, **Maski**, **Hallur**, **Nevasa**, and **Piklihal**. Brahmagiri links megalithic layers to early historic transitions.
+- Megaliths are **not** the same as PGW of the north. PGW = Later Vedic doab. Megaliths = mainly **south and Deccan** Iron Age.
+- Grave goods can include pottery, iron weapons, gold, and beads. Some sites show communal or family burials under large stone slabs.
 
 **Ashoka’s RE II** names Chola, Pandya, Keralaputra, Satiyaputra as **neighbours**. Not provinces. Deep Tamilakam is not Mauryan.
 
@@ -166,59 +171,72 @@ A. Kharvela  B. Ashok  C. Harshavardhan  D. Kanishka
 
 ## 8.4 Indo-Greeks
 
-**Bactrian Greeks in India | after Alexander’s satraps | before Shakas**
+**Bactrian Greeks in India | after Alexander’s satraps | before Shakas | full Alexander line → Topic 6**
 
 - In **2023 Q23** “Greeks” means Alexander’s wave **plus** these Indo-Greeks.
 - They sit **before** Shakas and **before** Kushans.
-- The greatest name is **Menander (Milinda)**. The capital is **Sagala** in the Sialkot belt.
-- Buddhist questions to him are in the *Milinda Panha*. The monk is **Nagasena** (2023 Q24).
-- They issue the first **portrait**, die-struck coins. Legends are Greek plus Kharoshthi.
-- **Heliodorus**, ambassador of Antialcidas, raises the **Besnagar** (Vidisha) Garuda pillar about 113 BCE. He is a Bhagavata of Vasudeva.
-- Besnagar is **not** Pushyamitra’s two-ashwamedha record. That is **Ayodhya**.
+- **Greco-Bactria** breaks from the Seleucids under **Diodotus**, about **250 BCE**. **Demetrius I**, about **180 BCE**, makes the first major push into India with an elephant-scalp helmet type.
+- The greatest name is **Menander (Milinda)**. His capital is **Sagala (Sialkot)**. The *Milinda Panha* records his debate with **Nagasena** (2023 Q24).
+- **Agathocles** and **Pantaleon** issue early coins with **Brahmi** legends and **Balarama / Vasudeva** types. **Apollodotus** is an early Indian-side silver king.
+- They issue the first **portrait**, die-struck coins in India. Legends are **Greek plus Kharoshthi**. Sometimes Brahmi appears.
+- **Heliodorus**, ambassador of **Antialcidas**, raises the **Besnagar** (Vidisha) Garuda pillar about **113 BCE**. He calls himself a Bhagavata of **Vasudeva**.
+- The *Yuga Purana* memory places **Yavanas** toward **Pataliputra**. That raid belongs to the Indo-Greek age, not to Alexander in 326 BCE.
+- Besnagar is **not** Pushyamitra’s two-ashwamedha record. That is **Ayodhya** (2018 Q91).
+- Indo-Greek power in the northwest ends when **Shakas** take Gandhara and Punjab.
 
-> **Exam note:** Menander is not Kanishka. Sagala is not Sangala of Alexander.
+> **Exam note:** Menander is not Kanishka. Sagala is not Sangala of Alexander. Heliodorus is Besnagar, not Ayodhya.
 
 ---
 
 ## 8.5 Shakas
 
-**Indo-Scythians | after Greeks, before Kushans | title kshatrapa**
+**Indo-Scythians | after Greeks, before Kushans | title kshatrapa / mahakshatrapa**
 
-- The first in India is **Maues / Moga** at Taxila.
-- The **Kshaharata** house names **Bhumaka** and **Nahapana**. The **Kardamaka** house names **Chashtana** and **Rudradaman I**.
-- Nahapana is beaten by **Gautamiputra Satakarni**. Proof is the Nasik prasasti of Gautami Balashri.
+- The Indian name **Shaka** means **Scythian** nomads pushed from Central Asia into India from about the **1st century BCE**.
+- The first king named in India is **Maues / Moga** at **Taxila** and **Gandhara**. His capital tradition points to **Sirkap**. **Azes I** often follows in coin lists.
+- The **Kshaharata** line rules in the western Deccan belt. **Bhumaka** is an early name. **Nahapana** is the greatest of this house.
+- Nahapana’s coins run from **Ajmer** to **Nasik**. His capital is **Minnagara**, between Ujjain and Broach.
+- **Gautamiputra Satakarni** defeats Nahapana. The **Nasik prasasti** of **Gautami Balashri** records the victory. Nahapana’s silver was restruck.
+- The **Kardamaka** line rules western India from about the 1st century CE. **Chashtana** is the founder named in the **Andau inscription** of 130 CE.
+- **Rudradaman I** is Chashtana’s grandson and the greatest western Shaka. He rules about **130–150 CE** as **mahakshatrapa**.
+- His **Junagadh / Girnar** inscription is the first long record in literary **Sanskrit** prose in India.
+- The **Sudarshana lake** story sits on that rock. It was built by **Pushyagupta**, a Vaishya, under **Chandragupta Maurya**. It was adorned by **Tushaspha**, a Yavana, under **Ashoka**. A storm burst the embankment. **Rudradaman repaired it**. He did **not** claim he founded the lake.
+- Western Shaka rule fades when **Rudrasimha III** is defeated by **Chandragupta II** in the 4th century CE.
+- **Vikrama Samvat 57 BCE** is the Vikramaditya legend at Ujjain. It is **not** the **Shaka era 78 CE** tied to Kanishka.
 
-- **Rudradaman I** is the greatest Western Kshatrapa, about the 2nd century CE. His **Junagadh / Girnar** inscription is literary **Sanskrit** prose.
-- The **Sudarshana lake** story sits on that rock. It was built by **Pushyagupta**, a Vaishya, under **Chandragupta Maurya**. It was adorned by **Tushaspha**, a Yavana, under **Ashoka**. It burst in a storm. **Rudradaman** repairs it. He does **not** claim he founded the lake.
-- Shaka silver later colours Gupta silver types. **Vikrama 57 BCE** is a different era. Do not mix it with **Shaka 78 CE**, usually Kanishka.
-
-> **Exam note:** Junagadh is not Hathigumpha. Rudradaman is not Kharavela.
+> **Exam note:** Junagadh is not Hathigumpha. Rudradaman is not Kharavela. Nahapana is Kshaharata, not Kardamaka.
 
 ---
 
 ## 8.6 Parthians
 
-**Pahlavas | brief NW | between Shaka west and Kushan peak**
+**Pahlavas | brief northwest bridge | between Shaka west and Kushan rise**
 
-- The best-known king is **Gondophares**, about **19–45 CE**.
-- The zone is Gandhara, Punjab, and Sind.
-- The site lock is **Takht-i-Bahi**.
-- Christian legend puts **St Thomas** at his court. That is legend, not an edict.
-- Then **Kujula Kadphises** eats the NW.
+- The **Parthians** are called **Pahlavas** in Indian sources. They hold a **short** belt in the northwest after Shakas and before Kushan dominance.
+- Their zone is **Gandhara**, **Punjab**, and **Sind**.
+- The best-known king is **Gondophares**, who rules about **19–45 CE**. His coins and inscriptions appear in the Kabul–Taxila belt.
+- The site lock for Parthian-period Buddhism in the NW is **Takht-i-Bahi** near Mardan in Pakistan.
+- Christian legend places **St Thomas** at Gondophares’ court. That is tradition, not a royal inscription.
+- **Kujula Kadphises** of the Kushans displaces Parthian and remaining Greek power in the northwest.
 
-> **Exam note:** Gondophares is **not** a Shaka and **not** a Kushan.
+> **Exam note:** Gondophares is **Parthian / Pahlava**. He is not Maues (Shaka) and not Kanishka (Kushan).
 
 ---
 
 ## 8.7 Kushanas
 
-**Yuezhi clan | 1st–3rd c. CE | Silk Road house**
+**Yuezhi clan | 1st–3rd c. CE | Silk Road empire | last of the 2023 trio**
 
-- The founder is **Kujula Kadphises**. He unifies clans and takes Gandhara–Punjab. **Vima Kadphises** makes the first big **gold** issue. The title is *Shaonanoshao* (king of kings).
-- **Kanishka** is the greatest. **Huvishka** follows. **Vasudeva I** is among the last great names.
-- The main capital is **Purushapura (Peshawar)**. **Mathura** is the second capital, in Uttar Pradesh. Extent talk runs from the Oxus belt to the Ganga plain.
-- Coins are gold dinara. Legends are Greek, Bactrian, and Kharoshthi. Art pairs **Gandhara** (Greco-Buddhist) with **Mathura** (red sandstone).
-- They sit **last** in the 2023 trio.
+- The **Kushanas** were one clan of the **Yuezhi** nomads of north Central Asia. They moved through Bactria into Gandhara and the Punjab.
+- The founder is **Kujula Kadphises**. He unifies Yuezhi clans and takes Gandhara–Punjab.
+- **Vima Kadphises** issues the first large-scale **gold** coinage in India. His title on coins is **Shaonanoshao** (king of kings).
+- **Kanishka** is the greatest ruler. Full card in **8.8**.
+- **Huvishka** and **Vasudeva I** are later great names before decline.
+- The main capital is **Purushapura (Peshawar)**. **Mathura** in Uttar Pradesh is the second great Kushan centre inside India.
+- At its height the empire runs from the **Oxus** belt to the middle **Ganga** plain.
+- Coins are gold **dinaras** with legends in **Greek**, **Bactrian**, and **Kharoshthi**. Royal portraits are standard.
+- Kushan patronage pairs **Gandhara** Greco-Buddhist sculpture with **Mathura** red-sandstone Indian types.
+- The Kushans are **last** in the 2023 invader trio: Greeks → Sakas → Kushans.
 
 **PYQ — UPPCS Prelims 2023, Q23**
 
@@ -242,13 +260,18 @@ D. Sakas — Kushans — Greeks
 
 ## 8.8 Kanishka
 
-**Greatest Kushan | Purushapura | Shaka era 78 CE in exam keys**
+**Greatest Kushan | Purushapura | Shaka era 78 CE | Fourth Buddhist Council**
 
-- The traditional accession peg is **78 CE**, the **Shaka Samvat**. Some books use about 127 CE. Prelims still want **78** when they say Shaka era.
-- The **Fourth Buddhist Council** meets in **Kashmir (Kundalvana)**. The president in memory is **Vasumitra**. **Ashvaghosha** writes the *Buddhacharita*. The school is **Sarvastivada**. Mahayana grows in this climate.
-- Kanishka **convenes** that fourth council. The 1st–3rd council kings are Ajatashatru, Kalashoka, and Ashoka.
-- The Kanishka stupa is at Peshawar. Chinese pilgrims describe it. Coins mix Buddha, Shiva, Iranian gods, and Greek gods.
-- The **Rabatak** inscription in Afghanistan is a Kanishka genealogy lock if a paper names it. 2018 Q16 option D **Kanishka** is the Hathigumpha trap.
+- **Kanishka** is the most famous Kushan ruler. His empire included Afghanistan, Gandhara, Punjab, and much of the Ganga plain.
+- Exam keys usually peg his accession to **78 CE**, the start of the **Shaka Samvat** (Shaka era). Some books use about **127 CE** for his reign peak. Prelims still want **78 CE** when they say Shaka era.
+- Kanishka uses the title **Devaputra** (son of god). The **Rabatak inscription** from Afghanistan gives his genealogy if a paper names it.
+- Kanishka convenes the **Fourth Buddhist Council** in **Kashmir** at **Kundalvana / Kundalavana**.
+- **Vasumitra** is remembered as president of the council. **Ashvaghosha** writes the *Buddhacharita* in this age.
+- The school linked to the council is **Sarvastivada**. Mahayana Buddhism grows strongly under Kushan patronage.
+- Council-king memory: **Ajatashatru** (1st), **Kalashoka** (2nd), **Ashoka** (3rd), **Kanishka** (4th).
+- Kanishka builds a great stupa at **Peshawar**. Chinese pilgrims later describe it.
+- His coins show **Buddha**, **Shiva**, **Mithra**, and Greek deities on the same series.
+- **2018 Q16** lists Kanishka as an option for **Hathigumpha**. That is a trap. Hathigumpha belongs to **Kharavela** of Kalinga.
 
 > **Exam note:** Shaka era is not Vikrama 57 BCE. Kanishka is not Kharavela.
 
@@ -1203,6 +1226,82 @@ A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3
 <summary>Show answer</summary>
 
 **Ans: A**
+
+</details>
+
+---
+
+**Q51.** With reference to **megalithic** cultures in south India, consider the following statements:
+
+1. Burial types include dolmens, cists, and hero stones (virakkal).  
+2. Black-and-red ware often appears in megalithic graves.  
+3. Megalithic culture is the same archaeological marker as PGW of the north Indian doab.
+
+How many of the above statements are correct?  
+A. Only one  B. Only two  C. All three  D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — 1 and 2. PGW = **north** Later Vedic doab; megaliths = mainly **south / Deccan**.
+
+</details>
+
+---
+
+**Q52.** Match List-I with List-II:
+
+| List-I | List-II |
+|--------|---------|
+| A. Maues / Moga | 1. First Indo-Scythian king in India at Taxila–Gandhara |
+| B. Nahapana | 2. Kshaharata Shaka beaten by Gautamiputra Satakarni |
+| C. Rudradaman I | 3. Junagadh Sanskrit inscription; Sudarshana lake repair |
+| D. Gondophares | 4. Parthian / Pahlava ruler linked to Takht-i-Bahi |
+
+A. 1 2 3 4  B. 2 1 4 3  C. 1 2 4 3  D. 3 2 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+</details>
+
+---
+
+**Q53.** With reference to the **Kushanas**, consider the following statements:
+
+1. **Vima Kadphises** is associated with widespread gold coinage.  
+2. **Purushapura (Peshawar)** was a main Kushan capital.  
+3. **Kanishka** convened the Fourth Buddhist Council in Kashmir tradition.
+
+How many of the above statements are correct?  
+A. Only one  B. Only two  C. All three  D. None
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C**
+
+</details>
+
+---
+
+**Q54.** Given below are two statements:
+
+**Assertion (A):** The **Shaka era** beginning **78 CE** is usually tied to Kanishka in exam keys.  
+
+**Reason (R):** **Vikrama Samvat 57 BCE** is the same era as the Shaka era of 78 CE.
+
+A. Both (A) and (R) are true and (R) is the correct explanation of (A)  
+B. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+C. (A) is true, but (R) is false  
+D. (A) is false, but (R) is true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Vikrama **57 BCE** ≠ Shaka **78 CE**.
 
 </details>
 

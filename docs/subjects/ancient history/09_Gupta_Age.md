@@ -357,21 +357,28 @@ A. 1, 2, 3, 4  B. 4, 3, 1, 2  C. 2, 1, 4, 3  D. 3, 4, 2, 1
 
 ## 9.15 Nalanda University
 
-**Mahavihara | Bihar | Gupta start, later boom**
+**Mahavihara | Bihar | Gupta start, later boom | ancient universities home**
 
-- Tradition: founded under **Kumaragupta I** (~5th c.). Chinese *Shakraditya*.
-- Seal: *Sri Nalanda mahavihariyarya-bhikshu-sanghasya*.
-- Peak visitors **Hiuen Tsang** (Harsha’s reign) and **I-Tsing** (after Harsha) study here later. Founder-patron is still Kumaragupta.
-- Subjects: Buddhist philosophy, grammar, medicine, logic.
-- Later Pala patrons. Destruction by Bakhtiyar Khalji is **medieval**.
-| University | Belt | Lock |
-|------------|------|------|
-| **Takshashila** | Gandhara | Older teaching town. Chanakya / Panini tradition. **Not** a Gupta foundation |
-| **Nalanda** | Bihar | **Kumaragupta I** founder-patron. Xuanzang and I-tsing are **visitors** |
-| **Vikramashila** | Bhagalpur belt | **Pala**, **Dharmapala**. Later than Nalanda’s start |
-| **Vallabhi** | Gujarat | **Maitraka**. Also the Svetambara Jain canon council |
+- Tradition places the founding of **Nalanda** under **Kumaragupta I** in the 5th century CE. Chinese sources call him **Shakraditya**.
+- The site seal reads *Sri Nalanda mahavihariyarya-bhikshu-sanghasya*.
+- Subjects included Buddhist philosophy, grammar, logic, and medicine. It became the greatest Buddhist university of ancient India.
+- **Hiuen Tsang** studies here during **Harsha’s** reign. **I-tsing** visits later. Both are **visitors**, not founders.
+- Later **Pala** rulers patronise Nalanda. Destruction by **Bakhtiyar Khalji** is medieval, not Gupta.
 
-> **Exam note:** Founder-patron lock = **Kumaragupta I**. Xuanzang ≠ Fa-Hien. Vallabhi ≠ Vaishali.
+**Other ancient universities — exam locks**
+
+- **Takshashila (Taxila)** is the older northwest teaching town in Gandhara. **Chanakya**, **Panini**, and **Jivaka** belong to its tradition. It is **not** a Gupta foundation.
+- **Vikramashila** in the Bhagalpur belt is a **Pala** foundation under **Dharmapala**. It peaks after Nalanda’s Gupta start.
+- **Vallabhi** in Gujarat is a **Maitraka** centre of learning. The **Svetambara Jain canon** council is linked to Vallabhi. Vallabhi is **not** Vaishali.
+
+| University | Region | Founder / patron lock |
+|------------|--------|------------------------|
+| **Takshashila** | Gandhara | Pre-Mauryan teaching town; Panini grammar |
+| **Nalanda** | Bihar | **Kumaragupta I** founder-patron |
+| **Vikramashila** | Bengal–Bihar belt | **Pala Dharmapala** |
+| **Vallabhi** | Gujarat | **Maitraka**; Jain Svetambara council |
+
+> **Exam note:** Founder-patron lock = **Kumaragupta I** for Nalanda. Xuanzang ≠ Fa-Hien. Vallabhi ≠ Vaishali.
 
 ---
 
