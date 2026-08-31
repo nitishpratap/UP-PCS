@@ -14,6 +14,7 @@ Use this site like an exam desk: first see **where Prelims marks come from**, th
 
 [Start Prelims Analysis](prelims-analysis/index.md){ .md-button .md-button--primary }
 [Open Subject Notes](subjects/index.md){ .md-button }
+[Fact Locks](fact-locks/index.md){ .md-button }
 [Practice Mains PYQs](mains-pyqs/index.md){ .md-button }
 [Active Recall](active-recall/index.md){ .md-button }
 
@@ -28,6 +29,9 @@ Use this site like an exam desk: first see **where Prelims marks come from**, th
 
 [**:material-book-open-page-variant: Subject Notes**
 <span>Full topic notes for the heat-map chapters: spine, confused pairs, PYQs, and practice.</span>](subjects/index.md){ .study-card }
+
+[**:material-lock: Fact Locks**
+<span>Must-memorise tables, X→Y associations, mnemonics, and traps — the ratta layer.</span>](fact-locks/index.md){ .study-card }
 
 [**:material-file-document-edit: Mains PYQs**
 <span>Use after Prelims work or for answer-writing days: PYQs, model structure, traps.</span>](mains-pyqs/index.md){ .study-card }
@@ -99,8 +103,9 @@ If you are short on time, do **Geography + Polity + Environment** first. Togethe
 2. **Open the linked subject notes.** Read the *Quick Revision — Spine Only* block before detail.
 3. **Drill confused pairs and traps.** These are where UPPCS options usually punish you.
 4. **Attempt PYQs and practice stems.** Use `<details>` answers only after attempting.
-5. **Close with Active Recall.** If you cannot answer hidden-answer cards, reread the spine.
-6. **Use Search.** Press <kbd>/</kbd> for any article, schedule, map term, or personality.
+5. **Drill Fact Locks** for must-memorise associations before exam day.
+6. **Close with Active Recall.** If you cannot answer hidden-answer cards, reread the spine or Fact Locks.
+7. **Use Search.** Press <kbd>/</kbd> for any article, schedule, map term, or personality.
 
 </div>
 

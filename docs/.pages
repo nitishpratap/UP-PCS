@@ -1,6 +1,7 @@
 nav:
   - Home: index.md
   - Subject Notes: subjects
+  - Fact Locks: fact-locks
   - Prelims Analysis: prelims-analysis
   - Mains PYQs: mains-pyqs
   - Active Recall: active-recall
