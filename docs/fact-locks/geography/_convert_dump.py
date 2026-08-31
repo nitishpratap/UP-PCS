@@ -24,7 +24,6 @@ def clean_heading(title: str) -> str:
     title = re.sub(r"\s{2,}", " ", title)
     return title.strip(" -–—")
 
-
 def parse_sections(raw: str) -> list[tuple[int, str, str]]:
     """Split on # N. headings (level-1 only)."""
     raw = raw.strip()
@@ -50,10 +49,12 @@ def parse_sections(raw: str) -> list[tuple[int, str, str]]:
 
 
 def body_cleanup(body: str) -> str:
-    """Keep blockquotes, tables, bullets; strip emoji from subheadings only."""
+    """Keep ALL text (tables, blockquotes, bullets). Strip emoji from headings only."""
     lines: list[str] = []
     for line in body.splitlines():
-        if line.startswith("###"):
+        if line.startswith("####"):
+            line = "####" + strip_emoji(line[4:])
+        elif line.startswith("###"):
             line = "###" + strip_emoji(line[3:])
         lines.append(line)
     return "\n".join(lines).strip()
@@ -63,7 +64,47 @@ HERO = {
     2: ("Geography · Part 2", "Geomorphology", "~9/10"),
     3: ("Geography · Part 3", "Climatology", "~9.5/10"),
     4: ("Geography · Part 4", "Oceanography", "~9/10"),
+    5: ("Geography · Part 5", "World Geography", "~9/10"),
 }
+
+TAIL_MARKERS = (
+    "# MUST RATTA",
+    "# 🔥 MUST RATTA",
+    "## MUST RATTA",
+    "# Final 50",
+    "# TOP 50",
+    "## Final 50",
+    "## Top 50",
+    "# THE 1-MINUTE",
+    "## The 1-Minute",
+    "# FINAL WORLD MAP",
+    "## FINAL WORLD MAP",
+    "# 🧠 FINAL WORLD MAP",
+    "## 🧠 FINAL WORLD MAP",
+)
+
+
+def cut_tail(raw: str) -> tuple[str, str]:
+    """Split numbered sections from unnumbered MUST RATTA / Final blocks."""
+    cut_at = None
+    for marker in TAIL_MARKERS:
+        idx = raw.find(marker)
+        if idx != -1 and (cut_at is None or idx < cut_at):
+            cut_at = idx
+    if cut_at is None:
+        return raw, ""
+    extras = raw[cut_at:]
+    # Promote # Title → ## Title; strip heading emojis; keep all body text
+    lines_out: list[str] = []
+    for line in extras.splitlines():
+        if re.match(r"^#\s+", line) and not re.match(r"^##\s+", line):
+            line = "## " + strip_emoji(line.lstrip("# ").strip())
+        elif line.startswith("###"):
+            line = "###" + strip_emoji(line[3:])
+        elif line.startswith("##"):
+            line = "## " + strip_emoji(line.lstrip("# ").strip())
+        lines_out.append(line)
+    return raw[:cut_at], "\n".join(lines_out).strip()
 
 
 def render(part: int, sections: list[tuple[int, str, str]], extras: str = "") -> str:
@@ -108,27 +149,8 @@ def main() -> None:
     raw_path = Path(sys.argv[2])
     out_path = Path(sys.argv[3])
     raw = raw_path.read_text(encoding="utf-8")
-    sections = parse_sections(raw)
-    # Append unnumbered tail blocks (MUST RATTA, Final 50) after last numbered section
-    extras = ""
-    tail_markers = (
-        "# MUST RATTA",
-        "# 🔥 MUST RATTA",
-        "## MUST RATTA",
-        "# Final 50",
-        "# TOP 50",
-        "## Final 50",
-        "## Top 50",
-        "# THE 1-MINUTE",
-        "## The 1-Minute",
-    )
-    for marker in tail_markers:
-        idx = raw.find(marker)
-        if idx != -1:
-            extras = raw[idx:]
-            extras = re.sub(r"^#+\s*", lambda m: "## " if m.group(0).startswith("# ") else m.group(0), extras, count=1)
-            extras = strip_emoji(extras)
-            break
+    raw_main, extras = cut_tail(raw)
+    sections = parse_sections(raw_main)
     md = render(part, sections, extras)
     out_path.write_text(md, encoding="utf-8")
     print(f"Wrote {out_path} — {len(sections)} sections, {out_path.stat().st_size} bytes")

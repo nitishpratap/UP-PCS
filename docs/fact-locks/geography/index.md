@@ -21,4 +21,7 @@ hide:
 [**Part 4 — Oceanography**
 <span>Oceans, floor, reefs, salinity, currents, tides, ENSO, IOD, straits/canals, Indian locks · Top 50 · 84 sections.</span>](04_Oceanography.md){ .study-card }
 
+[**Part 5 — World Geography**
+<span>Continents, peaks, rivers, lakes, deserts, grasslands, islands, seas, straits, canals, resources, climate · MUST RATTA · 101 sections.</span>](05_World_Geography.md){ .study-card }
+
 </div>
