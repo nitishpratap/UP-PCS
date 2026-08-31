@@ -105,6 +105,10 @@ Islam Shah (Jalal Khan) 1545–1553 | Humayun returns 1555
 - His successor **Islam Shah (Jalal Khan)** ruled from **1545 to 1553**. The Sur empire then collapsed, and **Humayun returned in 1555**.
 - **Todar Mal** served Sher Shah’s revenue system before joining Akbar.
 
+### PYQ — Battle chronology (2025 Q79)
+
+**Exam logic:** Four-battle chronology — **Daurah (1532)** → **Chausa (1539)** → **Kannauj (1540)** → **Samugarh (1658)**. **Trap:** confusing **Daurah** with **Dharmat** or swapping Chausa/Kannauj.
+
 > **Exam note:** **UPPCS Prelims 2025 Q79** includes **Daurah (1532)**, when Humayun fought Afghan chiefs, **before Chausa**. Do **not** confuse Daurah with Dharmat (1658). The correct arrangement answer is **D**.
 
 ---
@@ -117,6 +121,11 @@ Islam Shah (Jalal Khan) 1545–1553 | Humayun returns 1555
 - The **Khwan-i-Pargana** was the pargana record writer. The **Qazi** judged by sharia and stayed outside the revenue chain.
 - At the sarkar level, **Shiqdar-i-Shiqdaran** and **Munshif-i-Munsifan** supervised the pargana officers.
 - At the centre, **Diwan-i-Wazarat** managed finance, **Diwan-i-Ariz** handled army rolls and pay, and **Diwan-i-Risalat** dealt with grants and foreign affairs.
+
+### PYQ — Jarib NOT-matched (2019 Q87)
+
+**Exam logic:** Officer/term NOT-matched — **Jarib** is a **measuring rope**, not a tax. **Trap:** **Desai** and **Dam** are correct pairs; **Jarib = tax** is the NOT-matched lock.
+
 - **UPPCS Prelims 2019 Q87** tests revenue-officer pairs. **Dam** is copper (correct). **Desai** is a revenue collector (correct). **Jarib is not a tax**; it is a measuring rope, so option D is the NOT-matched answer. Option C (Diwan as provincial revenue chief) reflects Mughal usage; the clearest trap in this topic is treating **Jarib** as a tax.
 
 ---
@@ -150,6 +159,14 @@ Islam Shah (Jalal Khan) 1545–1553 | Humayun returns 1555
 - The **mohur** was the gold coin.
 - He fixed weights and purity across mints at major towns.
 - **UPPCS Prelims 2019 Q12** states that Akbar regulated currency like Sher Shah (Assertion A, true) and that the chief copper coin remained the **Dam** (Reason R, true). R explains A; the answer is **A**.
+
+### PYQ — Akbar–Sher Shah currency A/R
+
+**A/R logic (read before the stem):**
+
+- **What A tests:** **Akbar** continued **Sher Shah's** regulated currency (rupiya, dam, mohur).
+- **What R tests:** Chief **copper coin** was the **Dam** under both.
+- **UPPCS trap (2019 Q12):** Shared **Dam** standard **explains** currency continuity → both true, R **explains** A → **A**.
 
 ---
 
@@ -214,7 +231,15 @@ Islam Shah (Jalal Khan) 1545–1553 | Humayun returns 1555
 
 Options: A.2-4-3-1 | B.4-2-1-3 | C.4-2-3-1 | D.2-4-1-3
 
-<details><summary>Show answer</summary>**Ans: D** — 2025 Q79.</details>
+<details><summary>Show answer</summary>
+
+**Ans: D (2-4-1-3)** — **UPPCS 2025 Q79**
+
+**Order:** Daurah **1532** → Chausa **1539** → Kannauj **1540** → Samugarh **1658**.
+
+**Trap:** **Daurah** is not Dharmat (1658) or Chausa (1539).
+
+</details>
 
 **Q2.** NOT correctly matched:
 
@@ -226,7 +251,15 @@ C. Diwan — finance office |
 
 D. Jarib — a type of tax
 
-<details><summary>Show answer</summary>**Ans: D** — 2019 Q87; jarib = rope.</details>
+<details><summary>Show answer</summary>
+
+**Ans: D**
+
+**Why wrong:** **Jarib** is a **measuring rope**, not a tax. **Dam** = copper ✓. **Desai** = revenue collector ✓.
+
+**Trap:** **UPPCS 2019 Q87** — never call Jarib a tax.
+
+</details>
 
 **Q3.** Jayata and Kumpa associated with:
 
@@ -238,13 +271,29 @@ C. Marwar |
 
 D. Mewar
 
-<details><summary>Show answer</summary>**Ans: C** — 2022 Q95.</details>
+<details><summary>Show answer</summary>
+
+**Ans: C (Marwar)** — **UPPCS 2022 Q95**
+
+**Why:** Rathore captains **Jayata** and **Kumpa** fought for **Rao Maldeo** at Sammel (1544).
+
+**Trap:** **Mewar** (Sisodia) is the distractor — lock is **Marwar**.
+
+</details>
 
 **Q4.** Monuments: I Rabia Daurani II Sher Shah tomb III Humayun IV Atala Jaunpur
 
 Options: A.I-II-IV-III | B.IV-II-III-I | C.II-I-III-IV | D.III-IV-II-I
 
-<details><summary>Show answer</summary>**Ans: B** — 2019 Q91.</details>
+<details><summary>Show answer</summary>
+
+**Ans: B (IV-II-III-I)** — **UPPCS 2019 Q91**
+
+**Order:** Atala Jaunpur → Sher Shah Sasaram (**1545**) → Humayun Delhi (**1565**) → Rabia Daurani (**1678**).
+
+**Trap:** Do not place Humayun's Tomb before Sher Shah's tomb.
+
+</details>
 
 **Q5.** A(A): Akbar, like Sher Shah, tried to regulate currency. R(R): Chief copper coin was the Dam.
 
@@ -256,13 +305,31 @@ C. A true, R false |
 
 D. A false, R true
 
-<details><summary>Show answer</summary>**Ans: A** — 2019 Q12.</details>
+<details><summary>Show answer</summary>
+
+**Ans: A (Both true, R explains A)** — **UPPCS 2019 Q12**
+
+**A is true:** **Akbar** continued **Sher Shah's** regulated currency.
+
+**R is true:** Chief **copper coin** was the **Dam** under both.
+
+**Why R explains A:** Shared **Dam** standard shows continuity of regulation.
+
+</details>
 
 **Q6.** Battles: I Sarnal II Bilgram III Dharmat IV Jajau
 
 Options: A.II-I-III-IV | B.II-III-IV-I | C.III-II-I-IV | D.III-I-II-IV
 
-<details><summary>Show answer</summary>**Ans: A** — 2019 Q13.</details>
+<details><summary>Show answer</summary>
+
+**Ans: A (II-I-III-IV)** — **UPPCS 2019 Q13**
+
+**Order:** Bilgram/Kannauj **1540** → Sarnal **1739** → Dharmat **1658** → Jajau **1707**.
+
+**Trap:** Bilgram = Kannauj 1540 — same decisive battle.
+
+</details>
 
 **Q7.** Sher Shah’s birth name and place:
 
@@ -274,7 +341,17 @@ C. Hasan Khan, Kalinjar |
 
 D. Islam Shah, Rohtas
 
-<details><summary>Show answer</summary>**Ans: A**</details>
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+**Why:** The correct lock is **Farid Khan, Sasaram**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q8.** Died at:
 
@@ -286,7 +363,17 @@ C. Kalinjar siege |
 
 D. Panipat
 
-<details><summary>Show answer</summary>**Ans: C**</details>
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+**Why:** The correct lock is **Kalinjar siege**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q9.** GT Road terminals:
 
@@ -298,7 +385,17 @@ C. Surat to Delhi |
 
 D. Golkonda to Agra
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Sonargaon to Peshawar**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q10.** 1. Chausa 1539 Humayun escaped 2. Kannauj 1540 was decisive exile
 
@@ -310,7 +407,15 @@ C. Both |
 
 D. Neither
 
-<details><summary>Show answer</summary>**Ans: C**</details>
+<details><summary>Show answer</summary>
+
+**Ans: C (Both)**
+
+**Key:** Both statements are correct — Chausa **1539** (Humayun escaped) and Kannauj **1540** (decisive exile).
+
+**Trap:** Do not swap **Chausa** and **Kannauj** dates.
+
+</details>
 
 **Q11.** Jarib is:
 
@@ -322,7 +427,17 @@ C. Gold coin |
 
 D. Spy officer
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Measuring rope**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q12.** Patta vs qabuliat:
 
@@ -334,7 +449,17 @@ C. Both mean shiqdar |
 
 D. Patta is a fort
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Patta to peasant; qabuliat is acceptance**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q13.** Rohtas Fort is in:
 
@@ -346,7 +471,17 @@ C. Mewar |
 
 D. Gujarat
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Bihar**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q14.** Islam Shah was:
 
@@ -358,7 +493,17 @@ C. Humayun’s title |
 
 D. Rao Maldeo
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Jalal Khan, successor 1545–53**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q15.** Sammel 1544 opponent:
 
@@ -370,7 +515,17 @@ C. Hemu |
 
 D. Ibrahim Lodi
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Rao Maldeo of Marwar**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q16.** Shiqdar’s main job:
 
@@ -382,7 +537,17 @@ C. Write Upanishads |
 
 D. Build Taj
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Pargana law and order**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q17.** Munshif’s main job:
 
@@ -394,7 +559,17 @@ C. Qazi’s deputy only |
 
 D. GT Road inns
 
-<details><summary>Show answer</summary>**Ans: A**</details>
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+**Why:** The correct lock is **Accounts/audit**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q18.** Rupiya metal:
 
@@ -406,7 +581,17 @@ C. Gold |
 
 D. Brass
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Silver**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q19.** Khayr-ul-Manazil opposite Purana Qila:
 
@@ -418,7 +603,15 @@ C. Islam Shah |
 
 D. Todar Mal
 
-<details><summary>Show answer</summary>**Ans: B** — 2018 Q94.</details>
+<details><summary>Show answer</summary>
+
+**Ans: B (Maham Anaga)** — **UPPCS 2018 Q94**
+
+**Why:** **Khayr-ul-Manazil** opposite **Purana Qila** was built by **Maham Anaga** in Akbar's era, not by Sher Shah.
+
+**Trap:** Sher Shah rebuilt **Purana Qila**, but the mosque opposite is Akbar-era.
+
+</details>
 
 **Q20.** 1. Daurah is 1539 Chausa 2. Daurah is 1532 Humayun vs Afghans
 
@@ -430,7 +623,15 @@ C. Both |
 
 D. Neither
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B (Only 2)**
+
+**Key:** Statement **1** is false — Daurah is **1532**, not 1539 Chausa. Statement **2** is true.
+
+**Trap:** **Daurah (1532)** ≠ **Chausa (1539)**.
+
+</details>
 
 **Q21.** Todar Mal link:
 
@@ -442,7 +643,17 @@ C. Killed at Kalinjar |
 
 D. Founded Marwar
 
-<details><summary>Show answer</summary>**Ans: A**</details>
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+**Why:** The correct lock is **Learned measurement under Sur system**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q22.** Sarais were:
 
@@ -454,7 +665,17 @@ C. Measuring ropes |
 
 D. Spy reports only
 
-<details><summary>Show answer</summary>**Ans: A**</details>
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+**Why:** The correct lock is **Rest-houses on GT Road**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q23.** NOT matched:
 
@@ -466,7 +687,15 @@ C. Death — Kalinjar |
 
 D. Jayata–Kumpa — Mewar
 
-<details><summary>Show answer</summary>**Ans: D**</details>
+<details><summary>Show answer</summary>
+
+**Ans: D**
+
+**Why wrong:** One pair breaks the standard lock in this topic.
+
+**Trap:** Eliminate pairs you know are correct first.
+
+</details>
 
 **Q24.** Diwan-i-Ariz handled:
 
@@ -478,7 +707,17 @@ C. Din-i-Ilahi |
 
 D. Taj design
 
-<details><summary>Show answer</summary>**Ans: A**</details>
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+**Why:** The correct lock is **Army administration**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q25.** Humayun restored in:
 
@@ -490,7 +729,17 @@ C. 1555 |
 
 D. 1556 only as death year
 
-<details><summary>Show answer</summary>**Ans: C**</details>
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+**Why:** The correct lock is **1555**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q26.** Rai means:
 
@@ -502,7 +751,17 @@ C. Gold mohur |
 
 D. Fort
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Crop-rate per bigha**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q27.** Purana Qila associated with:
 
@@ -514,7 +773,17 @@ C. Golkonda |
 
 D. Sasaram tomb
 
-<details><summary>Show answer</summary>**Ans: A**</details>
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+**Why:** The correct lock is **Sher Shah’s Delhi citadel**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q28.** 1. Jarib is a tax 2. Desai is a revenue collector
 
@@ -526,7 +795,15 @@ C. Both |
 
 D. Neither
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B (Only 2)**
+
+**Key:** Statement **1** is false — **Jarib** is a measuring rope, not a tax. Statement **2** is true — **Desai** collects revenue.
+
+**Trap:** **2019 Q87** — Jarib is never a tax.
+
+</details>
 
 **Q29.** Famous bajra/millets quote refers to:
 
@@ -538,7 +815,17 @@ C. Golkonda 1687 |
 
 D. Jajau 1707
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Sammel vs Marwar**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q30.** Land classes under Sher Shah:
 
@@ -550,7 +837,17 @@ C. Khalsa vs jagir mansab |
 
 D. Suba–sarkar–pargana
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Good, middle, bad**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q31.** Kannauj 1540 is also called:
 
@@ -562,7 +859,17 @@ C. Dharmat |
 
 D. Sarnal
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Bilgram**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q32.** Kos-minar is:
 
@@ -574,7 +881,17 @@ C. Pargana qazi |
 
 D. Elephant rank
 
-<details><summary>Show answer</summary>**Ans: A**</details>
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+**Why:** The correct lock is **Distance marker**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q33.** Sher Shah ruled as Padshah about:
 
@@ -586,7 +903,17 @@ C. 50 years |
 
 D. 1 year
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **5 years**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q34.** Correct pair:
 
@@ -598,7 +925,15 @@ C. Chausa — 1556 |
 
 D. GT Road — Sonargaon to Golkonda
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Kalinjar — death 1545**.
+
+**Trap:** Cross-check Confused Pairs table before finalising.
+
+</details>
 
 **Q35.** 1. Shiqdar = pargana law/order 2. Munshif = pargana accounts
 
@@ -610,11 +945,21 @@ C. Both |
 
 D. Neither
 
-<details><summary>Show answer</summary>**Ans: C**</details>
+<details><summary>Show answer</summary>
+
+**Ans: C (Both)**
+
+**Key:** Both statements are correct — **Shiqdar** = pargana law/order; **Munshif** = pargana accounts.
+
+**Trap:** Do not swap **Shiqdar** and **Munshif** portfolios.
+
+</details>
 
 ---
 
 ## Complete PYQ Bank (Topic 8)
+
+**Exam logic:** Four-battle chronology mixing **Sher Shah** and **Mughal** dates — tests whether you place **Daurah (1532)** before **Chausa (1539)** and **Kannauj (1540)**, and keep **Samugarh (1658)** last. **Trap:** confusing **Daurah** with **Dharmat** or putting **Kannauj before Chausa**.
 
 **Q1. UPPCS Prelims 2025, Q79**
 
@@ -622,7 +967,17 @@ Arrange: 1.Kannauj 2.Daurah 3.Samugarh 4.Chausa
 
 Options: A.2-4-3-1 | B.4-2-1-3 | C.4-2-3-1 | D.2-4-1-3
 
-<details><summary>Show answer</summary>**Ans: D** — Daurah 1532 → Chausa 1539 → Kannauj 1540 → Samugarh 1658.</details>
+<details><summary>Show answer</summary>
+
+**Ans: D (2-4-1-3)**
+
+**Order:** Daurah **1532** → Chausa **26 June 1539** → Kannauj/Bilgram **17 May 1540** → Samugarh **1658**.
+
+**Trap:** **Daurah** is Humayun vs Afghan chiefs, **not** Dharmat (1658) or Chausa (1539).
+
+</details>
+
+**Exam logic:** **Jayata–Kumpa** geography after **Sammel (1544)** — tests Marwar vs Mewar confusion under **Rao Maldeo**. **Trap:** pairing them with **Mewar** instead of **Marwar**.
 
 **Q2. UPPCS Prelims 2022, Q95**
 
@@ -636,7 +991,21 @@ C. Marwar |
 
 D. Mewar
 
-<details><summary>Show answer</summary>**Ans: C**</details>
+<details><summary>Show answer</summary>
+
+**Ans: C (Marwar)**
+
+**Why:** At **Sammel/Giri-Sumel (1544)** against **Rao Maldeo**, Rathore captains **Jayata** and **Kumpa** stayed loyal and died fighting.
+
+**Trap:** **Mewar** is Sisodia territory — the lock is **Marwar** under Maldeo.
+
+</details>
+
+**A/R logic (read before the stem):**
+
+- **What A tests:** **Akbar** continued **Sher Shah's** regulated currency (rupiya, dam, mohur).
+- **What R tests:** Chief **copper coin** was the **Dam** under both.
+- **UPPCS trap (2019 Q12):** Shared **Dam** standard **explains** currency continuity → both true, R **explains** A → **A**.
 
 **Q3. UPPCS Prelims 2019, Q12**
 
@@ -650,7 +1019,19 @@ C. A true, R false |
 
 D. A false, R true
 
-<details><summary>Show answer</summary>**Ans: A**</details>
+<details><summary>Show answer</summary>
+
+**Ans: A (Both true, R explains A)** — **UPPCS 2019 Q12**
+
+**A is true:** **Akbar** continued **Sher Shah's** regulated currency.
+
+**R is true:** Chief **copper coin** was the **Dam** under both.
+
+**Why R explains A:** Shared **Dam** standard shows continuity of regulation.
+
+</details>
+
+**Exam logic:** Four-battle chronology across **Sher Shah** and **Mughal** eras — **Bilgram/Kannauj (1540)** is earliest. **Trap:** placing **Sarnal (1739)** or **Jajau (1707)** before Sher Shah's Kannauj.
 
 **Q4. UPPCS Prelims 2019, Q13**
 
@@ -664,13 +1045,33 @@ C. III-II-I-IV |
 
 D. III-I-II-IV
 
-<details><summary>Show answer</summary>**Ans: A** — Bilgram/Kannauj 1540 first.</details>
+<details><summary>Show answer</summary>
+
+**Ans: A (II-I-III-IV)**
+
+**Order:** Bilgram/Kannauj **1540** → Sarnal **1739** → Dharmat **1658** → Jajau **1707**.
+
+**Trap:** **Bilgram** is the same battle as **Kannauj 1540** — not a separate later war.
+
+</details>
+
+**Exam logic:** Officer/term NOT-matched — tests **Jarib** (measuring rope) vs revenue officers. **Trap:** treating **Jarib** as a tax when it is a **bigha-measuring rope**.
 
 **Q5. UPPCS Prelims 2019, Q87**
 
 NOT correctly matched: A. Dam–Copper | B. Desai–Revenue Collector | C. Diwan–Revenue Chief of a province | D. Jarib–A type of tax
 
-<details><summary>Show answer</summary>**Ans: D** — Jarib = measuring rope, not a tax.</details>
+<details><summary>Show answer</summary>
+
+**Ans: D**
+
+**Why wrong:** **Jarib** is Sher Shah's **measuring rope**, not a tax. **Dam** = copper coin ✓. **Desai** = revenue collector ✓.
+
+**Trap:** Option C reflects Mughal usage; the clearest NOT-matched lock is **D**.
+
+</details>
+
+**Exam logic:** Monument chronology from **Jaunpur Atala** through **Mughal** tombs. **Trap:** placing **Humayun's Tomb (1565)** before **Sher Shah's Sasaram (1545)**.
 
 **Q6. UPPCS Prelims 2019, Q91**
 
@@ -684,7 +1085,17 @@ C. II-I-III-IV |
 
 D. III-IV-II-I
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B (IV-II-III-I)**
+
+**Order:** Atala Jaunpur (~15th c.) → Sher Shah tomb Sasaram (**1545**) → Humayun's Tomb Delhi (**1565**) → Rabia Daurani Aurangabad (**1678**).
+
+**Trap:** **Sasaram** is birth place **and** tomb — not **Kalinjar** (death site).
+
+</details>
+
+**Exam logic:** **Purana Qila** overlap — who built the mosque **opposite** Sher Shah's Delhi citadel. **Trap:** attributing **Khayr-ul-Manazil** to Sher Shah.
 
 **Q7. UPPCS Prelims 2018, Q94 (Purana Qila overlap)**
 
@@ -698,7 +1109,15 @@ C. Jiji Anga |
 
 D. Maham Anaga
 
-<details><summary>Show answer</summary>**Ans: D** — mosque is Akbar-era; Purana Qila itself is Sher Shah’s Delhi fort.</details>
+<details><summary>Show answer</summary>
+
+**Ans: D (Maham Anaga)**
+
+**Why:** **Khayr-ul-Manazil** opposite **Purana Qila** was built by **Maham Anaga** in **Akbar's** reign. **Purana Qila** itself is **Sher Shah's** Delhi fort.
+
+**Trap:** Sher Shah rebuilt Purana Qila, but the mosque opposite is **not** his work.
+
+</details>
 
 ---
 

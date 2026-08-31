@@ -92,6 +92,11 @@ Zafarnama to Aurangzeb | died 1708 Nanded (Hazur Sahib)
 - A **Sikh** means a learner of the Guru.
 - **Khalsa** later means the initiated order of **1699**.
 - **Mardana** was Nanak’s Muslim **rabab** companion and **disciple**.
+
+### PYQ — Mardana match (2025 Q12)
+
+**Exam logic:** Disciple→Guru match — **Mardana** is **Guru Nanak's** disciple (rababi), not his guru. **Trap:** reversing the direction in List-I/List-II.
+
 - **2025 Q12** keys to **C (2-3-4-1)** because Mardana maps to Guru Nanak, not the reverse.
 - **2025 Q74** keys to **C (3-4-1-2)**.
 - That order places Nanak after Namdev and Kabir, before Chaitanya.
@@ -260,7 +265,13 @@ C. Vallabhacharya |
 
 D. Guru Nanak Dev
 
-<details><summary>Show answer</summary>**Ans: D** — 2025 Q12 full code C (2-3-4-1).</details>
+<details><summary>Show answer</summary>
+
+**Ans: D**
+
+**Why:** 2025 Q12 full code C (2-3-4-1).
+
+</details>
 
 **Q2.** Saints: 1.Guru Nanak 2.Chaitanya 3.Namdev 4.Kabir
 
@@ -272,7 +283,15 @@ C. 3-4-1-2 |
 
 D. 4-3-2-1
 
-<details><summary>Show answer</summary>**Ans: C** — 2025 Q74.</details>
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+**Order:** 2025 Q74.
+
+**Trap:** Check dates before matching option codes.
+
+</details>
 
 **Q3.** Adi Granth compiler:
 
@@ -284,7 +303,17 @@ C. Guru Gobind Singh |
 
 D. Guru Tegh Bahadur
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Guru Arjan Dev**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q4.** Khalsa created in:
 
@@ -296,7 +325,17 @@ C. 1699 Anandpur |
 
 D. 1708 Nanded
 
-<details><summary>Show answer</summary>**Ans: C**</details>
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+**Why:** The correct lock is **1699 Anandpur**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q5.** Guru Arjan was executed under:
 
@@ -308,7 +347,17 @@ C. Jahangir |
 
 D. Aurangzeb
 
-<details><summary>Show answer</summary>**Ans: C**</details>
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+**Why:** The correct lock is **Jahangir**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q6.** Guru Tegh Bahadur was executed under:
 
@@ -320,7 +369,17 @@ C. Aurangzeb |
 
 D. Bahadur Shah I
 
-<details><summary>Show answer</summary>**Ans: C**</details>
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+**Why:** The correct lock is **Aurangzeb**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q7.** Gurmukhi is linked with:
 
@@ -332,7 +391,17 @@ C. Guru Ram Das |
 
 D. Guru Har Rai
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Guru Angad**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q8.** Amritsar tank is linked with:
 
@@ -344,7 +413,17 @@ C. Guru Ram Das |
 
 D. Guru Har Krishan
 
-<details><summary>Show answer</summary>**Ans: C**</details>
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+**Why:** The correct lock is **Guru Ram Das**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q9.** Miri-Piri and Akal Takht:
 
@@ -356,7 +435,17 @@ C. Guru Gobind Singh |
 
 D. Guru Amar Das
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Guru Hargobind**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q10.** Child Guru who died in Delhi:
 
@@ -368,7 +457,15 @@ C. Har Rai |
 
 D. Angad
 
-<details><summary>Show answer</summary>**Ans: A**</details>
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+**Why:** The correct lock is **Har Krishan**.
+
+**Trap:** Cross-check Confused Pairs table before finalising.
+
+</details>
 
 **Q11.** 1. Kabir founded Sikhism 2. Kabir’s hymns are in the Granth
 
@@ -380,7 +477,15 @@ C. Both |
 
 D. Neither
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B (Only 2)**
+
+**Key:** Statement **1** is false — **Kabir** did not found Sikhism. Statement **2** is true — his hymns are in the Granth.
+
+**Trap:** Bhagat bani ≠ Sikh founder.
+
+</details>
 
 **Q12.** Eternal Guru after 1708:
 
@@ -392,7 +497,17 @@ C. Guru Granth Sahib |
 
 D. An 11th human Guru
 
-<details><summary>Show answer</summary>**Ans: C**</details>
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+**Why:** The correct lock is **Guru Granth Sahib**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q13.** Sikh Khalsa of 1699 is the same as Mughal Khalsa land.
 
@@ -404,7 +519,17 @@ C. Only under Akbar |
 
 D. Only under Aurangzeb
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **False**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q14.** Last human Guru:
 
@@ -416,7 +541,17 @@ C. Gobind Singh |
 
 D. Har Krishan
 
-<details><summary>Show answer</summary>**Ans: C**</details>
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+**Why:** The correct lock is **Gobind Singh**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q15.** Zafarnama was addressed to:
 
@@ -428,7 +563,17 @@ C. Aurangzeb |
 
 D. Nadir Shah
 
-<details><summary>Show answer</summary>**Ans: C**</details>
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+**Why:** The correct lock is **Aurangzeb**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q16.** Gobind Singh died at:
 
@@ -440,7 +585,17 @@ C. Nanded |
 
 D. Lahore
 
-<details><summary>Show answer</summary>**Ans: C**</details>
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+**Why:** The correct lock is **Nanded**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q17.** Harmandir Sahib is primarily:
 
@@ -452,7 +607,17 @@ C. Khalsa birthplace |
 
 D. Ranjit Singh’s Adalat
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **The Golden Temple shrine**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q18.** 1. Adi Granth 1604 2. Arjan martyred 1604
 
@@ -464,7 +629,15 @@ C. Both |
 
 D. Neither
 
-<details><summary>Show answer</summary>**Ans: A**</details>
+<details><summary>Show answer</summary>
+
+**Ans: A (Only 1)**
+
+**Key:** Only statement **1** is true — **Adi Granth 1604**. Statement **2** is false — Arjan martyred **1606**, not 1604.
+
+**Trap:** **1604** = compilation; **1606** = martyrdom.
+
+</details>
 
 **Q19.** Ranjit Singh’s Adalat-i-Ala:
 
@@ -476,7 +649,15 @@ C. Firozpur |
 
 D. Multan
 
-<details><summary>Show answer</summary>**Ans: A** — 2021 Q67.</details>
+<details><summary>Show answer</summary>
+
+**Ans: A (Amritsar)** — **UPPCS 2021 Q67**
+
+**Why:** **Ranjit Singh's Adalat-i-Ala** (highest court) was at **Amritsar**.
+
+**Trap:** Sikh **Empire** institution, not Guru-period office.
+
+</details>
 
 **Q20.** Which is NOT a Five K?
 
@@ -488,7 +669,15 @@ C. Khanda as a worn kakar |
 
 D. Kara
 
-<details><summary>Show answer</summary>**Ans: C** — khanda stirs amrit; the worn five are Kesh, Kangha, Kara, Kachha, Kirpan.</details>
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+**Why:** khanda stirs amrit; the worn five are Kesh, Kangha, Kara, Kachha, Kirpan.
+
+**Trap:** Cross-check Confused Pairs table before finalising.
+
+</details>
 
 **Q21.** Langar means:
 
@@ -500,7 +689,17 @@ C. Steel bracelet |
 
 D. Child guruship
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Free community meal**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q22.** 1. Mardana was Nanak’s guru 2. Mardana played the rabab
 
@@ -512,7 +711,15 @@ C. Both |
 
 D. Neither
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B (Only 2)**
+
+**Key:** Statement **1** is false — **Mardana** was Nanak's **disciple**, not guru. Statement **2** is true — he played the **rabab**.
+
+**Trap:** **2025 Q12** — Mardana → Nanak, not reverse.
+
+</details>
 
 **Q23.** Battle of Bhangani (1688):
 
@@ -524,7 +731,17 @@ C. Arjan vs Jahangir |
 
 D. Ranjit Singh vs Afghans
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Gobind Singh vs hill rajas**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q24.** Correct pair:
 
@@ -536,7 +753,15 @@ C. Adi Granth – 1699 |
 
 D. Tegh Bahadur – 1606
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Khalsa – Anandpur 1699**.
+
+**Trap:** Cross-check Confused Pairs table before finalising.
+
+</details>
 
 **Q25.** Guru Amar Das is remembered for:
 
@@ -548,7 +773,17 @@ C. Akal Takht |
 
 D. Zafarnama
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Goindwal langar centre**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q26.** 1. Ten human Gurus 2. Guru Granth Sahib as Guru after 1708
 
@@ -560,7 +795,15 @@ C. Both |
 
 D. Neither
 
-<details><summary>Show answer</summary>**Ans: C**</details>
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+**Key:** Both statements are correct.
+
+**Trap:** Test each statement separately before choosing the code.
+
+</details>
 
 **Q27.** Dasam Granth is:
 
@@ -572,7 +815,17 @@ C. Compiled by Arjan in 1604 |
 
 D. A Mughal farmans book
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **A separate Gobind Singh corpus**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q28.** Singh and Kaur names begin with:
 
@@ -584,7 +837,17 @@ C. Arjan’s martyrdom |
 
 D. Ranjit Singh’s court
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Khalsa initiation 1699**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q29.** NOT matched:
 
@@ -596,7 +859,15 @@ C. Hargobind – Khalsa 1699 |
 
 D. Arjan – Adi Granth
 
-<details><summary>Show answer</summary>**Ans: C**</details>
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+**Why wrong:** One pair breaks the standard lock in this topic.
+
+**Trap:** Eliminate pairs you know are correct first.
+
+</details>
 
 **Q30.** Japji Sahib is composed by:
 
@@ -608,7 +879,17 @@ C. Kabir |
 
 D. Guru Angad
 
-<details><summary>Show answer</summary>**Ans: A**</details>
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+**Why:** The correct lock is **Guru Nanak**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q31.** 1. Harmandir is spiritual centre 2. Akal Takht is temporal seat
 
@@ -620,7 +901,15 @@ C. Both |
 
 D. Neither
 
-<details><summary>Show answer</summary>**Ans: C**</details>
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+**Key:** Both statements are correct.
+
+**Trap:** Test each statement separately before choosing the code.
+
+</details>
 
 **Q32.** Panj Pyare were:
 
@@ -632,7 +921,17 @@ C. Nanak’s five udasis |
 
 D. Five Mughal subahs
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **The first five Khalsa initiates**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q33.** Guru succession was always strict primogeniture.
 
@@ -644,7 +943,13 @@ C. Only after Hargobind |
 
 D. Only for Har Krishan
 
-<details><summary>Show answer</summary>**Ans: B** — nomination; Angad was not Nanak’s son.</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** nomination; Angad was not Nanak’s son.
+
+</details>
 
 **Q34.** 1606 and 1675 martyrdoms belong to:
 
@@ -656,7 +961,17 @@ C. Hargobind and Gobind Singh |
 
 D. Nanak and Ram Das
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Arjan and Tegh Bahadur**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q35.** Householder ideal in Sikhism means:
 
@@ -668,7 +983,17 @@ C. Ban on langar |
 
 D. Idol priesthood
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Spiritual life within family and work**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q36.** Khalsa was created by Guru Hargobind at Akal Takht.
 
@@ -680,7 +1005,17 @@ C. Only the Five Ks |
 
 D. Only Singh names
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **False**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q37.** 1. Nanak taught Ik Onkar 2. Nanak created the Khalsa in 1699
 
@@ -692,7 +1027,15 @@ C. Both |
 
 D. Neither
 
-<details><summary>Show answer</summary>**Ans: A**</details>
+<details><summary>Show answer</summary>
+
+**Ans: A (Only 1)**
+
+**Key:** Only statement **1** is true — Nanak taught **Ik Onkar**. Statement **2** is false — **Khalsa 1699** was **Gobind Singh**, not Nanak.
+
+**Trap:** Founder ≠ Khalsa creator.
+
+</details>
 
 **Q38.** Correct chronology:
 
@@ -704,11 +1047,23 @@ C. 1708 → 1604 → 1699 |
 
 D. Tegh Bahadur 1606 → Arjan 1675
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Adi Granth → Arjan martyrdom → Khalsa**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 ---
 
 ## Complete PYQ Bank (Topic 10)
+
+**Exam logic:** Disciple→Guru match — **Mardana** maps to **Guru Nanak**, not the reverse. **Trap:** treating Mardana as guru (2025 Q12).
 
 **Q1. UPPCS Prelims 2025, Q12**
 
@@ -734,9 +1089,15 @@ D. 2 3 1 4
 <details>
 <summary>Show answer</summary>
 
-**Ans: C (2-3-4-1)** — Mardana → Guru Nanak Dev.
+**Ans: C (2-3-4-1)**
+
+**Locks:** A–2 Kabir–Ramananda | B–3 Amir Khusrau–Nizamuddin | C–4 Surdas–Vallabhacharya | D–1 Mardana–Guru Nanak Dev
+
+**Trap:** **Mardana** was Nanak's **disciple** (rababi), not his guru.
 
 </details>
+
+**Exam logic:** Bhakti-saint chronology — **Namdev → Kabir → Nanak → Chaitanya**. **Trap:** placing Chaitanya before Nanak.
 
 **Q2. UPPCS Prelims 2025, Q74**
 
@@ -750,7 +1111,17 @@ C. 3, 4, 1, 2 |
 
 D. 4, 3, 2, 1
 
-<details><summary>Show answer</summary>**Ans: C (3-4-1-2)** — Namdev → Kabir → Nanak → Chaitanya.</details>
+<details><summary>Show answer</summary>
+
+**Ans: C (3-4-1-2)**
+
+**Order:** Namdev → Kabir → Guru Nanak → Chaitanya Mahaprabhu.
+
+**Trap:** Nanak belongs **after** Namdev and Kabir in the Bhakti timeline.
+
+</details>
+
+**Exam logic:** **Ranjit Singh** court institution — **Adalat-i-Ala** at **Amritsar**, not a Guru-period office. **Trap:** confusing Sikh Empire with ten-Guru era.
 
 **Q3. UPPCS Prelims 2021, Q67**
 
@@ -764,7 +1135,15 @@ C. Firozpur |
 
 D. Multan
 
-<details><summary>Show answer</summary>**Ans: A** — Sikh Empire court at Amritsar, not a Guru-period office.</details>
+<details><summary>Show answer</summary>
+
+**Ans: A (Amritsar)**
+
+**Why:** **Adalat-i-Ala** was the highest court of **Ranjit Singh's** Sikh Empire at **Amritsar**.
+
+**Trap:** This is **19th-c. Sikh Empire** history, not Guru-period Punjab.
+
+</details>
 
 ---
 

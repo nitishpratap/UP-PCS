@@ -127,6 +127,14 @@ NOT Panipat I (1526) or II (1556) | NOT Shivaji (dead 1680)
 - He died at **Raigad in 1680**.
 - He did **not** fight Panipat III.
 
+### PYQ — Deshmukh opposition A/R
+
+**A/R logic (read before the stem):**
+
+- **What A tests:** Shivaji faced opposition from big **Deshmukhs** (hereditary feudal chiefs under Bijapur).
+- **What R tests:** They wanted to remain **Bijapur feudal lords**, not join an **independent Maratha state**.
+- **UPPCS trap (2024 Q18):** Their **feudal interest** explains **why** they opposed Shivaji → both true, R **explains** A → **A**.
+
 ---
 
 ## 11.3 Ashtapradhan
@@ -257,7 +265,17 @@ C. Abwab |
 
 D. Jamadani
 
-<details><summary>Show answer</summary>**Ans: B** — 2018 Q93.</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Chauth**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q2.** Peshwas (2025): 1.Bajirao I 2.Balaji Bajirao 3.Balaji Vishwanath 4.Madhav Rao I
 
@@ -269,7 +287,15 @@ C. 3-1-2-4 |
 
 D. 1-3-4-2
 
-<details><summary>Show answer</summary>**Ans: C**</details>
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+**Order:** See teaching chronology spine.
+
+**Trap:** Check dates before matching option codes.
+
+</details>
 
 **Q3.** Peshwas (2023): I Vishwanath II Bajirao I III Narayan Rao IV Madhav Rao I
 
@@ -281,7 +307,25 @@ C. II-I-IV-III |
 
 D. I-II-IV-III
 
-<details><summary>Show answer</summary>**Ans: D**</details>
+<details><summary>Show answer</summary>
+
+**Ans: D**
+
+**Why:** The correct lock is **I-II-IV-III
+
+<details><summary>Show answer</summary>
+
+**Ans: D**
+
+**Why:** Matches the core teaching lock for this topic.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>**.
+
+</details>
 
 **Q4.** Peshwas (2024): 1.Raghoba 2.Balaji Baji Rao 3.Narayan Rao 4.Balaji Vishwanath
 
@@ -293,7 +337,15 @@ C. 1-2-3-4 |
 
 D. 1-3-2-4
 
-<details><summary>Show answer</summary>**Ans: A**</details>
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+**Order:** See teaching chronology spine.
+
+**Trap:** Check dates before matching option codes.
+
+</details>
 
 **Q5.** A: Shivaji faced big Deshmukhs. R: They wanted to remain Bijapur feudal lords.
 
@@ -305,7 +357,17 @@ C. Both true, R does not explain |
 
 D. A true R false
 
-<details><summary>Show answer</summary>**Ans: A** — 2024 Q18.</details>
+<details><summary>Show answer</summary>
+
+**Ans: A (Both true, R explains A)** — **UPPCS 2024 Q18**
+
+**A is true:** Big **Deshmukhs** opposed Shivaji's **swaraj** project.
+
+**R is true:** They preferred remaining **Bijapur feudal lords** to an independent Maratha state.
+
+**Why R explains A:** Feudal self-interest **caused** their opposition.
+
+</details>
 
 **Q6.** Chauth is:
 
@@ -317,7 +379,17 @@ C. Mughal jizya |
 
 D. Sikh initiation
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **25% protection levy**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q7.** Sardeshmukhi is:
 
@@ -329,7 +401,17 @@ C. Ashtapradhan foreign minister |
 
 D. Panipat commander
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Extra 10% deshmukh claim**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q8.** Shivaji’s coronation:
 
@@ -341,7 +423,17 @@ C. Panipat 1761 |
 
 D. Agra 1666
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Raigad 1674**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q9.** Ashtapradhan foreign minister:
 
@@ -353,7 +445,17 @@ C. Nyayadish |
 
 D. Pandit Rao
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Sumant**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q10.** Amatya handled:
 
@@ -365,7 +467,17 @@ C. Religion |
 
 D. Navy only
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Finance**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q11.** First hereditary Peshwa:
 
@@ -377,7 +489,15 @@ C. Madhav Rao I |
 
 D. Nana Fadnavis
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B (Balaji Vishwanath)**
+
+**Why:** **Balaji Vishwanath (1713–1720)** was the first **hereditary Peshwa** under Shahu.
+
+**Trap:** **Bajirao I** succeeded him in **1720**, not 1713.
+
+</details>
 
 **Q12.** Panipat III year and winner:
 
@@ -389,7 +509,17 @@ C. 1761 Abdali |
 
 D. 1761 Marathas
 
-<details><summary>Show answer</summary>**Ans: C**</details>
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+**Why:** The correct lock is **1761 Abdali**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q13.** Maratha commander at Panipat III:
 
@@ -401,7 +531,17 @@ C. Shivaji |
 
 D. Sambhaji
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Sadashiv Rao Bhau**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q14.** 1. Peshwa was supreme in Shivaji’s lifetime 2. Peshwa was one of eight ministers then
 
@@ -413,7 +553,15 @@ C. Both |
 
 D. Neither
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B (Only 2)**
+
+**Key:** Statement **1** is false — Peshwa was **not** supreme in Shivaji's time. Statement **2** is true — one of **eight** ministers.
+
+**Trap:** Hereditary Peshwa power came **after 1713**.
+
+</details>
 
 **Q15.** Treaty of Purandar (1665) was with:
 
@@ -425,7 +573,17 @@ C. Ahmad Shah Abdali |
 
 D. Nizam of Hyderabad
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Raja Jai Singh I**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q16.** Afzal Khan episode:
 
@@ -437,7 +595,17 @@ C. Lanavada 1718 |
 
 D. Palkhed 1728
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Pratapgad 1659**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q17.** Scindia seat:
 
@@ -449,7 +617,17 @@ C. Indore |
 
 D. Baroda
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Gwalior**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q18.** Holkar seat:
 
@@ -461,7 +639,17 @@ C. Gwalior |
 
 D. Raigad
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Indore**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q19.** 1. Madhav Rao I ruled after Panipat III 2. Narayan Rao ruled before Madhav Rao I
 
@@ -473,7 +661,15 @@ C. Both |
 
 D. Neither
 
-<details><summary>Show answer</summary>**Ans: A**</details>
+<details><summary>Show answer</summary>
+
+**Ans: A (Only 1)**
+
+**Key:** Only statement **1** is true — **Madhav Rao I** ruled after Panipat III. Statement **2** is false — **Madhav before Narayan**.
+
+**Trap:** **2023 Q35** — Madhav **1761–72**, Narayan **1772–73**.
+
+</details>
 
 **Q20.** Bajirao I’s years:
 
@@ -485,7 +681,17 @@ C. 1740–61 |
 
 D. 1761–72
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **1720–40**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q21.** Palkhed 1728 was:
 
@@ -497,7 +703,17 @@ C. Bhau vs Abdali |
 
 D. Raghoba vs British
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Bajirao I vs Nizam**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q22.** Shivaji was born at:
 
@@ -509,7 +725,17 @@ C. Pune |
 
 D. Panipat
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Shivneri**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q23.** NOT matched:
 
@@ -521,7 +747,15 @@ C. Sachiv – finance |
 
 D. Pandit Rao – religion
 
-<details><summary>Show answer</summary>**Ans: C**</details>
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+**Why wrong:** One pair breaks the standard lock in this topic.
+
+**Trap:** Eliminate pairs you know are correct first.
+
+</details>
 
 **Q24.** Lanavada 1718 is linked with:
 
@@ -533,7 +767,17 @@ C. Panipat III |
 
 D. Afzal Khan
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Balaji Vishwanath / Shahu–Mughals**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q25.** 1. Chauth is protection quarter 2. Sardeshmukhi is the same 25%
 
@@ -545,7 +789,15 @@ C. Both |
 
 D. Neither
 
-<details><summary>Show answer</summary>**Ans: A**</details>
+<details><summary>Show answer</summary>
+
+**Ans: A (Only 1)**
+
+**Key:** Only statement **1** is true — **Chauth** = 25% protection. Statement **2** is false — **Sardeshmukhi** is extra 10%, not 25%.
+
+**Trap:** **2018 Q93** — Chauth is the protection-quarter.
+
+</details>
 
 **Q26.** Last Peshwa:
 
@@ -557,7 +809,15 @@ C. Baji Rao II |
 
 D. Narayan Rao
 
-<details><summary>Show answer</summary>**Ans: C**</details>
+<details><summary>Show answer</summary>
+
+**Ans: C (Baji Rao II)**
+
+**Why:** **Baji Rao II (1795–1818)** was the **last Peshwa** before British annexation.
+
+**Trap:** **Narayan Rao** was murdered **1773**, not the last Peshwa.
+
+</details>
 
 **Q27.** Nadir Shah 1739 is the same event as Panipat III.
 
@@ -569,7 +829,17 @@ C. Only in Punjab |
 
 D. Only in the Doab
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **False**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q28.** Gaekwad seat:
 
@@ -581,7 +851,17 @@ C. Gwalior |
 
 D. Indore
 
-<details><summary>Show answer</summary>**Ans: A**</details>
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+**Why:** The correct lock is **Baroda**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q29.** Shahu’s release is tied to:
 
@@ -593,7 +873,17 @@ C. 1761 Panipat |
 
 D. 1674 coronation
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **1707 after Aurangzeb**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q30.** 23 forts surrendered at:
 
@@ -605,7 +895,17 @@ C. Raigad coronation |
 
 D. Palkhed
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Purandar**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q31.** Balaji Bajirao is also called:
 
@@ -617,7 +917,17 @@ C. Bhau |
 
 D. Raghoba
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Nana Saheb (Peshwa)**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q32.** 1. Ashtapradhan has eight ministers 2. Deshmukhs were those eight ministers
 
@@ -629,7 +939,15 @@ C. Both |
 
 D. Neither
 
-<details><summary>Show answer</summary>**Ans: A**</details>
+<details><summary>Show answer</summary>
+
+**Ans: A (Only 1)**
+
+**Key:** Only statement **1** is true — **Ashtapradhan** has eight ministers. Statement **2** is false — **Deshmukhs** were Bijapur feudal chiefs, not the eight.
+
+**Trap:** **Deshmukh** ≠ **Ashtapradhan** minister.
+
+</details>
 
 **Q33.** Vishwas Rao died at:
 
@@ -641,7 +959,17 @@ C. Agra 1666 |
 
 D. Palkhed 1728
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Panipat 1761**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q34.** Correct pair:
 
@@ -653,7 +981,15 @@ C. Sardeshmukhi – 25% |
 
 D. Chauth – textile
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Chauth – 25% protection**.
+
+**Trap:** Cross-check Confused Pairs table before finalising.
+
+</details>
 
 **Q35.** Shivaji’s navy forts include:
 
@@ -665,7 +1001,17 @@ C. Purana Qila |
 
 D. Gwalior
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Sindhudurg**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q36.** 1. Bajirao I died before Panipat III 2. Bhau commanded in 1761
 
@@ -677,7 +1023,15 @@ C. Both |
 
 D. Neither
 
-<details><summary>Show answer</summary>**Ans: C**</details>
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+**Key:** Both statements are correct.
+
+**Trap:** Test each statement separately before choosing the code.
+
+</details>
 
 **Q37.** Bhonsle confederacy seat:
 
@@ -689,7 +1043,17 @@ C. Indore |
 
 D. Baroda
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Nagpur**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q38.** 2018 trap: Sardeshmukhi is the Maratha protection-quarter name.
 
@@ -701,11 +1065,23 @@ C. Only in the Konkan |
 
 D. Only after 1761
 
-<details><summary>Show answer</summary>**Ans: B** — that name is Chauth.</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **False**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 ---
 
 ## Complete PYQ Bank (Topic 11)
+
+**Exam logic:** Maratha **protection levy** name — **Chauth** = **¼ (25%)**, not Sardeshmukhi. **Trap:** Sardeshmukhi is the extra **10%** chief claim (2018 Q93).
 
 **Q1. UPPCS Prelims 2018, Q93**
 
@@ -719,7 +1095,17 @@ C. Abwab |
 
 D. Jamadani
 
-<details><summary>Show answer</summary>**Ans: B** — Chauth = ¼ protection levy. Sardeshmukhi is the extra 10%.</details>
+<details><summary>Show answer</summary>
+
+**Ans: B (Chauth)**
+
+**Why:** **Chauth** = **one-fourth (25%)** protection levy on assessed land revenue.
+
+**Trap:** **Sardeshmukhi** is extra **10%** deshmukh claim — not the protection-quarter name.
+
+</details>
+
+**Exam logic:** Peshwa chronology with **Madhav before Narayan** — read all four names. **Trap:** assuming Narayan comes before Madhav.
 
 **Q2. UPPCS Prelims 2023, Q35**
 
@@ -733,7 +1119,17 @@ C. II, I, IV, III |
 
 D. I, II, IV, III
 
-<details><summary>Show answer</summary>**Ans: D** — Vishwanath → Bajirao I → Madhav Rao I → Narayan Rao.</details>
+<details><summary>Show answer</summary>
+
+**Ans: D (I-II-IV-III)**
+
+**Order:** Balaji Vishwanath → Bajirao I → **Madhav Rao I** → **Narayan Rao**.
+
+**Trap:** **Madhav Rao I (1761–72)** precedes **Narayan Rao (1772–73)** — not the reverse.
+
+</details>
+
+**Exam logic:** Four-name Peshwa list with **Raghoba** — Vishwanath → Balaji Baji Rao → Narayan → Raghoba. **Trap:** this list **skips Madhav** (unlike 2023 Q35).
 
 **Q3. UPPCS Prelims 2024, Q1**
 
@@ -747,7 +1143,21 @@ C. 1, 2, 3, 4 |
 
 D. 1, 3, 2, 4
 
-<details><summary>Show answer</summary>**Ans: A** — Vishwanath → Balaji Baji Rao → Narayan Rao → Raghoba.</details>
+<details><summary>Show answer</summary>
+
+**Ans: A (4-2-3-1)**
+
+**Order:** Balaji Vishwanath → Balaji Baji Rao (Nana Saheb) → Narayan Rao → Raghunath Rao (Raghoba).
+
+**Trap:** **Raghoba** comes **after Narayan**, not before Balaji Baji Rao.
+
+</details>
+
+**A/R logic (read before the stem):**
+
+- **What A tests:** Shivaji faced opposition from big **Deshmukhs** (hereditary feudal chiefs under Bijapur).
+- **What R tests:** They wanted to remain **Bijapur feudal lords**, not join an **independent Maratha state**.
+- **UPPCS trap (2024 Q18):** Feudal self-interest **explains** opposition → both true, R **explains** A → **A**.
 
 **Q4. UPPCS Prelims 2024, Q18**
 
@@ -762,7 +1172,19 @@ C. Both true, R does not explain |
 
 D. A true, R false
 
-<details><summary>Show answer</summary>**Ans: A**</details>
+<details><summary>Show answer</summary>
+
+**Ans: A (Both true, R explains A)** — **UPPCS 2024 Q18**
+
+**A is true:** Big **Deshmukhs** opposed Shivaji's **swaraj** project.
+
+**R is true:** They preferred remaining **Bijapur feudal lords** to an independent Maratha state.
+
+**Why R explains A:** Feudal self-interest **caused** their opposition.
+
+</details>
+
+**Exam logic:** Standard Peshwa succession **V-B-B-M** — Vishwanath → Bajirao I → Balaji Bajirao → Madhav Rao I. **Trap:** swapping Bajirao I and Balaji Bajirao.
 
 **Q5. UPPCS Prelims 2025, Q149**
 
@@ -776,7 +1198,15 @@ C. 3, 1, 2, 4 |
 
 D. 1, 3, 4, 2
 
-<details><summary>Show answer</summary>**Ans: C** — Vishwanath → Bajirao I → Balaji Bajirao → Madhav Rao I.</details>
+<details><summary>Show answer</summary>
+
+**Ans: C (3-1-2-4)**
+
+**Order:** Balaji Vishwanath → Bajirao I → Balaji Bajirao → Madhav Rao I.
+
+**Trap:** **Bajirao I (1720–40)** is the **father**; **Balaji Bajirao (1740–61)** is the son — do not reverse them.
+
+</details>
 
 ---
 

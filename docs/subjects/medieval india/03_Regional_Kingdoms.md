@@ -104,6 +104,8 @@ PYQ LOCKS
 
 ### PYQ — Sharqi monuments
 
+**Exam logic:** Monument–place **NOT matched** stem. UPPCS loves **Tin Darwaza** vs **Teen Darwaza** (Bidar Fort vs Ahmedabad). **Lal Darwaza–Jaunpur** is a **correct** Sharqi pair — do not mark it wrong. Eliminate A–C first; D swaps Bidar gate with Gujarat.
+
 **1. (UPPCS Prelims 2018, Q19)** Which of the following pairs is **NOT** correctly matched (Monument–Place)?
 
 A. Adina Masjid–Mandu |
@@ -117,9 +119,15 @@ D. Tin Darwaza–Ahmedabad
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — Tin Darwaza = Bidar (Deccan).
+**Ans: D**
+
+**Why wrong:** **Tin Darwaza** stands at **Bidar Fort** (Deccan), not Ahmedabad. Ahmedabad's famous gate is **Teen Darwaza**.
+
+**Trap:** **Lal Darwaza–Jaunpur** (B) is **correct** Sharqi architecture — candidates often mark B wrong because they confuse Lal Darwaza with Tin Darwaza.
 
 </details>
+
+**Exam logic:** **Chronology** stem mixing Sharqi (medieval regional) with Mughal tombs. **Atala Mosque Jaunpur** is **15th-century Sharqi** — earliest in the list. Lock **Sher Shah (1545)** before **Humayun (1565)**; **Rabia Daurani (1678)** is latest.
 
 **2. (UPPCS Prelims 2019, Q91)** Arrange the following in chronological order:
 
@@ -143,6 +151,10 @@ D. IV, III, I, II
 <summary>Show answer</summary>
 
 **Ans: B (IV, II, III, I)**
+
+**Order:** IV **Atala Mosque, Jaunpur** (~**15th c.**, Sharqi) → II **Sher Shah's Tomb, Sasaram** (**1545**) → III **Humayun's Tomb, Delhi** (**1565**) → I **Rabia Daurani's Tomb, Aurangabad** (**1678**).
+
+**Trap:** Do not place **Humayun** before **Sher Shah** — Sher Shah died and was buried **20 years earlier**. Atala is **not** Mughal; it belongs to the **Sharqi** phase.
 
 </details>
 
@@ -186,7 +198,13 @@ D. IV, III, I, II
 
 > **Exam note:** **UPPCS 2023 Q36** asks who abolished **jaziya and cow slaughter**. The answer is **Zain-ul-Abidin only**.
 
+### PYQ — Zain-ul-Abidin A/R
+
+**A/R logic:** **A** tests **Bud Shah** = honorific for **Zain-ul-Abidin** (Great Sultan). **R** tests he **reversed Sikandar Shah's intolerance** — abolished **jaziya**, banned **cow slaughter**, **restored temples**. UPPCS trap: tolerant policies are **why** contemporaries called him Bud Shah → both true, R **explains** A → **A**.
+
 ### PYQ — Kashmir
+
+**Exam logic:** Direct **ruler–policy** lock. **Sikandar Shah** = temple destruction + jaziya phase; **Zain-ul-Abidin (Bud Shah)** = reversal. UPPCS 2023 Q36 pairs **both** jaziya **and** cow slaughter — only Zain-ul-Abidin fits.
 
 **1. (UPPCS Prelims 2023, Q36)** Which ruler of Kashmir abolished **Jaziya** and **cow slaughter**?
 
@@ -201,7 +219,11 @@ D. Haider Shah
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Bud Shah; reversed Sikandar Shah's policies.
+**Ans: C**
+
+**Why:** **Zain-ul-Abidin (Bud Shah, 1420–1470)** abolished **jaziya**, banned **cow slaughter**, and **restored temples** after **Sikandar Shah's** intolerant phase.
+
+**Trap:** **Sikandar Shah (B)** did the **opposite** — forced conversions and temple destruction. Do not pick him when the stem asks who **abolished** both taxes.
 
 </details>
 
@@ -292,9 +314,51 @@ D. Haider Shah
 
 ### PYQs — Deccan Sultanates
 
-1. **(UPPCS Prelims 2020, Q44)** Author of Kitab-i-Nauras? **Ans: A. Ibrahim Adil Shah II**
+**Exam logic:** **Book–author** match. **Kitab-i-Nauras** = **Ibrahim Adil Shah II** of **Bijapur** (music/song collection). Trap: confuse with **Amuktamalyada** (Krishnadevaraya) or **Krishnadevaraya** himself as author.
 
-2. **(UPPCS Prelims 2020, Q34)** Ruler of Golkonda when Aurangzeb seized it 1687? **Ans: A. Abul Hasan Qutb Shah**
+**1. (UPPCS Prelims 2020, Q44)** Who among the following was the author of the book **Kitab-i-Nauras**?
+
+A. Ibrahim Adil Shah II |
+
+B. Ali Adil Shah |
+
+C. Quli Qutab Shah |
+
+D. Akbar II
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+**Why:** **Ibrahim Adil Shah II** of **Bijapur (Adil Shahi)** wrote **Kitab-i-Nauras**, a collection of songs on music and devotion.
+
+**Trap:** **Krishnadevaraya** wrote **Amuktamalyada** (Telugu) — papers swap the two Deccan literary locks.
+
+</details>
+
+**Exam logic:** **Last ruler** at a fixed Mughal annexation date. **1687** = Aurangzeb captures **Golkonda**; last **Qutb Shahi** = **Abul Hasan Qutb Shah** ("Tana Shah"). Trap: pick earlier Qutb Shahs (Muhammad Quli, Ibrahim) or Adil Shahi names.
+
+**2. (UPPCS Prelims 2020, Q34)** Who was the ruler of Golkonda when Aurangzeb seized the fort of Golkonda in **1687**?
+
+A. Abul Hasan Qutb Shah |
+
+B. Sikandar Adil Shah |
+
+C. Ali Adil Shah II |
+
+D. Shayasta Khan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+**Why:** **Abul Hasan Qutb Shah** was the **last Qutb Shahi** ruler when Aurangzeb captured Golkonda in **1687**.
+
+**Trap:** **Muhammad Quli Qutb Shah** founded **Hyderabad** and built **Charminar (1591)** — he ruled **a century earlier**, not in 1687.
+
+</details>
 
 ---
 
@@ -331,6 +395,10 @@ D. Haider Shah
 
 > **Exam note:** **Talikota (1565)** is not the same as **Raichur (1520)**, which was Krishnadevaraya's victory. **Rama Raya** was killed at Talikota; Krishnadevaraya had died in **1529**.
 
+### PYQ — Talikota A/R
+
+**A/R logic:** **A** tests Talikota **1565** ended Vijayanagara as a **great power** (empire survived in name until **1646** under Aravidu). **R** tests **Rama Raya** was **beheaded** and **Hampi** was **sacked and abandoned** for months. UPPCS trap: R states the **mechanism** of collapse → both true, R **explains** A → **A**.
+
 ---
 
 ## 3.10 Bahmani Administration
@@ -354,7 +422,13 @@ D. Haider Shah
 
 > **Exam note:** In **2023 Q33**, the correct match is Mirat-e-Sikandari with Gujarat victory, Burhan-e-Masir with Ahmadnagar, Riyaz-us-Salatin with Bengal, and Riyaz-ul-Insha with Gawan's letters. The answer is **A (4-2-1-3)**.
 
+### PYQ — Mahmud Gawan A/R
+
+**A/R logic:** **A** tests **Mahmud Gawan** as **wazir** strengthened Bahmani administration (not the founder — **Hasan Gangu** was). **R** tests his reforms included **land measurement**, **strict revenue accounting**, **cash salaries**, and **merit appointments**. UPPCS trap: administrative reforms are **how** he strengthened the state → both true, R **explains** A → **A**.
+
 ### PYQ — Books match
+
+**Exam logic:** **Book–context** match across Bahmani successor states. Classic trap: **Riyaz-us-Salatin** = **Bengal** history vs **Riyaz-ul-Insha** = **Gawan's letters**. **Burhan-e-Masir** = **Ahmadnagar**; **Mirat-e-Sikandari** = **Gujarat victory** narrative.
 
 **1. (UPPCS Prelims 2023, Q33)** Match List-I (Book) with List-II (Context):
 
@@ -379,6 +453,10 @@ D. 4-2-3-1
 <summary>Show answer</summary>
 
 **Ans: A (4-2-1-3)**
+
+**Locks:** A **Mirat-e-Sikandari** → **4** Gujarat victory | B **Burhan-e-Masir** → **2** Ahmadnagar | C **Riyaz-us-Salatin** → **1** Bengal | D **Riyaz-ul-Insha** → **3** Gawan's letters
+
+**Trap:** Swapping **Riyaz-us-Salatin** (Bengal) with **Riyaz-ul-Insha** (Gawan) is the most common wrong code — the titles sound alike but contexts differ completely.
 
 </details>
 
@@ -445,7 +523,11 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: A** — Capital was **Jaunpur**.
+**Ans: A**
+
+**Why:** Statement 1 is true — **Malik Sarwar** took the title **Malik-us-Sharq**. Statement 2 is false — capital was **Jaunpur**, not Patna.
+
+**Trap:** Sharqi state lay in **eastern UP** (Jaunpur–Ghazipur belt); Patna belongs to a different regional map.
 
 </details>
 
@@ -461,7 +543,11 @@ D. Tin Darwaza — Ahmedabad
 
 <details><summary>Show answer</summary>
 
-**Ans: D** — 2018 Q19.
+**Ans: D**
+
+**Why wrong:** **Tin Darwaza** is at **Bidar Fort**, not Ahmedabad. **Lal Darwaza–Jaunpur** and **Atala–Jaunpur** are correct Sharqi pairs.
+
+**Trap:** UPPCS 2018 Q19 — candidates mark **Lal Darwaza** wrong because they confuse it with **Tin/Teen Darwaza** gates.
 
 </details>
 
@@ -471,7 +557,11 @@ Options: A.1-3-2 | B.3-1-2 | C.1-2-3 | D.2-1-3
 
 <details><summary>Show answer</summary>
 
-**Ans: A** — 2019 Q91 logic.
+**Ans: A (1-3-2)**
+
+**Order:** **Atala Mosque Jaunpur** (~15th c.) → **Sher Shah's Tomb** (1545) → **Humayun's Tomb** (1565).
+
+**Trap:** Sher Shah's tomb predates Humayun's by **20 years** — do not place Humayun first (2019 Q91 logic).
 
 </details>
 
@@ -489,6 +579,10 @@ D. Babur
 
 **Ans: B**
 
+**Why:** **Bahlul Lodi** annexed independent **Jaunpur in 1484**, ending the Sharqi Sultanate after a prolonged Lodi–Sharqi struggle.
+
+**Trap:** **Sikandar Lodi** and **Ibrahim Lodi** ruled later — the 1484 lock is **Bahlul** only.
+
 </details>
 
 **Q5.** Which ruler abolished jaziya and cow slaughter in Kashmir?
@@ -503,7 +597,11 @@ D. Haider Shah
 
 <details><summary>Show answer</summary>
 
-**Ans: B** — 2023 Q36.
+**Ans: B**
+
+**Why:** **Zain-ul-Abidin (Bud Shah)** abolished **jaziya** and **cow slaughter** and restored temples after **Sikandar Shah's** intolerant phase.
+
+**Trap:** **Sikandar Shah** did the opposite — UPPCS 2023 Q36 tests the **reversal** under Bud Shah.
 
 </details>
 
@@ -521,6 +619,10 @@ D. Loktak Lake
 
 **Ans: A**
 
+**Why:** **Zaina Lanka** is an island **Zain-ul-Abidin** built in **Wular Lake**, Kashmir.
+
+**Trap:** **Dal Lake** (Srinagar) is the famous tourist lake — Zaina Lanka is specifically **Wular**.
+
 </details>
 
 **Q7.** Vijayanagara was founded in:
@@ -536,6 +638,10 @@ D. 1518
 <details><summary>Show answer</summary>
 
 **Ans: A**
+
+**Why:** **Harihara I and Bukka I** founded Vijayanagara in **1336** at **Hampi** in response to Delhi Sultanate expansion.
+
+**Trap:** **1347** = Bahmani founding; **1394** = Sharqi independence — do not swap founding dates.
 
 </details>
 
@@ -553,6 +659,10 @@ D. Rama Raya and Tirumala
 
 **Ans: B**
 
+**Why:** **Harihara I and Bukka I** (Sangama dynasty) founded the empire; **Krishnadevaraya** was a later **Tuluva** peak ruler (1509–1529).
+
+**Trap:** Krishnadevaraya is the most famous name — papers test whether you know he was **not** the founder.
+
 </details>
 
 **Q9.** Krishnadevaraya belonged to which dynasty?
@@ -568,6 +678,10 @@ D. Aravidu
 <details><summary>Show answer</summary>
 
 **Ans: C**
+
+**Why:** **Krishnadevaraya (1509–1529)** belonged to the **Tuluva** dynasty, the third Vijayanagara line after Sangama and Saluva.
+
+**Trap:** **Sangama** = Harihara/Bukka founders; **Aravidu** = post-Talikota diminished phase.
 
 </details>
 
@@ -585,6 +699,10 @@ D. Bahmani Kingdom
 
 **Ans: C**
 
+**Why:** The **nayankara/amara system** granted **amaram lands** to **nayakas** for military service — a Vijayanagara provincial institution.
+
+**Trap:** Delhi **iqta** and Mughal **jagir** look similar but belong to **different polities** — nayankara is Vijayanagara-specific.
+
 </details>
 
 **Q11.** Bahmani Kingdom was founded in:
@@ -600,6 +718,10 @@ D. 1518
 <details><summary>Show answer</summary>
 
 **Ans: B**
+
+**Why:** **Hasan Gangu (Alauddin Bahman Shah)** declared independence at **Gulbarga in 1347** after rebelling against Muhammad bin Tughlaq.
+
+**Trap:** **1336** = Vijayanagara; **1518** = Bahmani split into five Deccan Sultanates.
 
 </details>
 
@@ -617,11 +739,13 @@ D. Quli Qutb Shah
 
 **Ans: B**
 
+**Why:** **Hasan Gangu** founded the Bahmani Kingdom; **Mahmud Gawan** was a later **wazir**, not the founder.
+
+**Trap:** Gawan's administrative fame makes candidates pick him as founder — lock **Hasan Gangu** for 1347.
+
 </details>
 
 **Q13.** Which was NOT a Bahmani capital?
-
-A. Gulbarga |
 
 B. Bidar |
 
@@ -631,11 +755,13 @@ D. Both A and B were capitals
 
 <details><summary>Show answer</summary>
 
-**Ans: C** — Bijapur = Adil Shahi.
+**Ans: C**
+
+**Why wrong:** **Bijapur** was the **Adil Shahi** capital after Bahmani breakup — never a Bahmani capital. **Gulbarga** (early) and **Bidar** (later) were Bahmani capitals.
+
+**Trap:** **Bidar** and **Bijapur** sound alike — Bidar = Bahmani/Barid Shahi; Bijapur = Adil Shahi + Gol Gumbaz.
 
 </details>
-
-**Q14.** Riyaz-ul-Insha is:
 
 A. History of Bengal |
 
@@ -649,9 +775,11 @@ D. Telugu epic
 
 **Ans: B**
 
-</details>
+**Why:** **Riyaz-ul-Insha** is a collection of **Mahmud Gawan's letters and state papers**, not a regional history.
 
-**Q15.** Author of Kitab-i-Nauras:
+**Trap:** **Riyaz-us-Salatin** = **Bengal** history — the similar title is the 2023 Q33 headline trap.
+
+</details>
 
 A. Ibrahim Adil Shah II |
 
@@ -663,11 +791,13 @@ D. Zain-ul-Abidin
 
 <details><summary>Show answer</summary>
 
-**Ans: A** — 2020 Q44.
+**Ans: A**
+
+**Why:** **Ibrahim Adil Shah II** of **Bijapur** authored **Kitab-i-Nauras**, a musical-devotional song collection.
+
+**Trap:** **Krishnadevaraya** wrote **Amuktamalyada** — UPPCS 2020 Q44 swaps these Deccan book locks.
 
 </details>
-
-**Q16.** Ruler of Golkonda when Aurangzeb captured it in 1687:
 
 A. Abul Hasan Qutb Shah |
 
@@ -679,11 +809,13 @@ D. Ali Adil Shah II
 
 <details><summary>Show answer</summary>
 
-**Ans: A** — 2020 Q34.
+**Ans: A**
+
+**Why:** **Abul Hasan Qutb Shah** was the **last Qutb Shahi** ruler when Aurangzeb captured Golkonda in **1687**.
+
+**Trap:** **Muhammad Quli Qutb Shah** (Charminar, 1591) ruled a century earlier — UPPCS 2020 Q34 tests the **1687** lock.
 
 </details>
-
-**Q17.** How many Deccan Sultanates emerged from Bahmani breakup?
 
 A. Three |
 
@@ -697,9 +829,11 @@ D. Six
 
 **Ans: C**
 
-</details>
+**Why:** Bahmani split in **1518** into **five** successor states: **Bijapur, Golkonda, Ahmadnagar, Bidar, Berar**.
 
-**Q18.** Gol Gumbaz is located at:
+**Trap:** **Jaunpur (Sharqi)** was annexed in **1484** — it was never a Deccan Sultanate successor.
+
+</details>
 
 A. Bidar |
 
@@ -711,11 +845,13 @@ D. Hyderabad
 
 <details><summary>Show answer</summary>
 
-**Ans: B** — Tomb of Muhammad Adil Shah.
+**Ans: B**
+
+**Why:** **Gol Gumbaz** at **Bijapur** is the tomb of **Muhammad Adil Shah** — the world's second-largest dome.
+
+**Trap:** Do not place it at **Bidar** (Tin Darwaza) or **Hampi** (Vijayanagara ruins).
 
 </details>
-
-**Q19.** Battle of Talikota was fought in:
 
 A. 1520 |
 
@@ -729,9 +865,11 @@ D. 1687
 
 **Ans: C**
 
-</details>
+**Why:** The **Battle of Talikota (Rakkasa-Tangadi)** was fought on **23 January 1565** between Vijayanagara and a Deccan confederacy.
 
-**Q20.** Who was killed at Talikota?
+**Trap:** **1520** = Raichur (Krishnadevaraya's **victory**); **1529** = Krishnadevaraya's death — not Talikota.
+
+</details>
 
 A. Krishnadevaraya |
 
@@ -745,9 +883,11 @@ D. Hasan Gangu
 
 **Ans: B**
 
-</details>
+**Why:** **Aliya Rama Raya**, the Vijayanagara regent, was **captured and beheaded** at Talikota in **1565**.
 
-**Q21.** Battle of Raichur (1520) resulted in:
+**Trap:** **Krishnadevaraya** died in **1529** — nearly four decades **before** Talikota.
+
+</details>
 
 A. Vijayanagara defeat |
 
@@ -761,9 +901,11 @@ D. Mughal victory
 
 **Ans: B**
 
-</details>
+**Why:** **Krishnadevaraya** defeated **Ismail Adil Shah** of Bijapur and captured **Raichur fort** in **1520** — his military peak.
 
-**Q22.** Assertion (A): Talikota ended Vijayanagara as a great power. Reason (R): Rama Raya was killed and Hampi was sacked.
+**Trap:** **Talikota (1565)** was a **defeat** for Vijayanagara — do not confuse the two Krishna–Tungabhadra battles.
+
+</details>
 
 A. Both true, R explains A |
 
@@ -775,11 +917,17 @@ D. A false, R true
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A (Both true, R explains A)**
+
+**A is true:** Talikota **1565** ended Vijayanagara as a **great power**.
+
+**R is true:** **Rama Raya** was **beheaded** and **Hampi** was **sacked**.
+
+**Why R explains A:** Regent's death and capital looting **caused** the collapse of imperial power.
+
+**Trap:** Empire survived in name under **Aravidu** until **1646** — A says "great power" ended, not every trace of the state.
 
 </details>
-
-**Q23.** Amuktamalyada was written by:
 
 A. Ibrahim Adil Shah II |
 
@@ -793,9 +941,11 @@ D. Mahmud Gawan
 
 **Ans: B**
 
-</details>
+**Why:** **Krishnadevaraya** wrote **Amuktamalyada**, a Telugu epic on **Andal** and Vishnu devotion.
 
-**Q24.** Match: A.Riyaz-us-Salatin B.Burhan-e-Masir C.Kitab-i-Nauras D.Amuktamalyada with 1.Krishnadevaraya 2.Bengal 3.Ahmadnagar 4.Ibrahim Adil Shah II
+**Trap:** **Kitab-i-Nauras** = **Ibrahim Adil Shah II** — papers cross-test Vijayanagara vs Bijapur literary works.
+
+</details>
 
 Options: A.2-3-4-1 | B.3-2-1-4 | C.2-1-3-4 | D.4-3-2-1
 
@@ -803,9 +953,11 @@ Options: A.2-3-4-1 | B.3-2-1-4 | C.2-1-3-4 | D.4-3-2-1
 
 **Ans: A (2-3-4-1)**
 
-</details>
+**Locks:** A **Riyaz-us-Salatin** → **2** Bengal | B **Burhan-e-Masir** → **3** Ahmadnagar | C **Kitab-i-Nauras** → **4** Ibrahim Adil Shah II | D **Amuktamalyada** → **1** Krishnadevaraya
 
-**Q25.** Match capitals: A.Jaunpur B.Hampi C.Bidar D.Bijapur with 1.Adil Shahi 2.Sharqi 3.Vijayanagara 4.Bahmani (later)
+**Trap:** **Riyaz-us-Salatin** (Bengal) vs **Riyaz-ul-Insha** (Gawan's letters) — similar titles, different contexts.
+
+</details>
 
 Options: A.2-3-4-1 | B.3-2-1-4 | C.2-4-3-1 | D.1-3-2-4
 
@@ -813,9 +965,11 @@ Options: A.2-3-4-1 | B.3-2-1-4 | C.2-4-3-1 | D.1-3-2-4
 
 **Ans: A (2-3-4-1)**
 
-</details>
+**Locks:** A **Jaunpur** → **2** Sharqi | B **Hampi** → **3** Vijayanagara | C **Bidar** → **4** Bahmani (later capital) | D **Bijapur** → **1** Adil Shahi
 
-**Q26.** Which is NOT correctly matched?
+**Trap:** **Bidar** (Bahmani/Barid) vs **Bijapur** (Adil Shahi) — one letter difference, different dynasties.
+
+</details>
 
 A. Hasan Gangu — Bahmani founder |
 
@@ -829,9 +983,11 @@ D. Quli Qutb Shah — Golkonda line
 
 **Ans: C**
 
-</details>
+**Why wrong:** **Mahmud Gawan** was Bahmani **wazir** — **Harihara I and Bukka I** founded **Vijayanagara**, not Gawan.
 
-**Q27.** Taraf is a:
+**Trap:** Gawan's fame makes candidates attach him to any Deccan power — lock him as **minister**, not empire-founder.
+
+</details>
 
 A. Vijayanagara nayaka grant |
 
@@ -845,9 +1001,11 @@ D. Sharqi tax
 
 **Ans: B**
 
-</details>
+**Why:** A **taraf** was a **Bahmani provincial division** ruled by a **tarafdar** — the kingdom had **eight tarafs**.
 
-**Q28.** Mahmud Gawan was executed in:
+**Trap:** **Nayankara** = Vijayanagara grant system; **iqta** = Delhi Sultanate — do not cross-assign.
+
+</details>
 
 A. 1394 |
 
@@ -861,9 +1019,11 @@ D. 1565
 
 **Ans: B**
 
-</details>
+**Why:** **Mahmud Gawan** was executed in **1481** after a forged treason letter — ending Bahmani's administrative peak.
 
-**Q29.** Charminar was built at:
+**Trap:** **1518** = Bahmani split; **1565** = Talikota — Gawan's death is the **1481** lock.
+
+</details>
 
 A. Bijapur |
 
@@ -875,11 +1035,13 @@ D. Jaunpur
 
 <details><summary>Show answer</summary>
 
-**Ans: B** — Muhammad Quli Qutb Shah, 1591.
+**Ans: B**
+
+**Why:** **Muhammad Quli Qutb Shah** founded **Hyderabad in 1591** and built the **Charminar** there.
+
+**Trap:** **Golkonda fort** preceded Hyderabad — Charminar marks the **new city**, not Bijapur or Bidar.
 
 </details>
-
-**Q30.** Which monument is in Uttar Pradesh?
 
 A. Gol Gumbaz |
 
@@ -891,11 +1053,13 @@ D. Charminar
 
 <details><summary>Show answer</summary>
 
-**Ans: B** — Jaunpur.
+**Ans: B**
+
+**Why:** **Atala Masjid** at **Jaunpur** is in **eastern UP** — the only Topic-3 capital inside modern Uttar Pradesh.
+
+**Trap:** **Gol Gumbaz** (Bijapur), **Vitthala** (Hampi), and **Charminar** (Hyderabad) are all outside UP.
 
 </details>
-
-**Q31.** Assertion (A): Zain-ul-Abidin was called Bud Shah. Reason (R): He reversed Sikandar Shah's intolerant policies.
 
 A. Both true, R explains A |
 
@@ -907,11 +1071,17 @@ D. A false, R true
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A (Both true, R explains A)**
+
+**A is true:** **Zain-ul-Abidin** was called **Bud Shah** (Great Sultan).
+
+**R is true:** He **reversed Sikandar Shah's** intolerant policies — abolished **jaziya**, restored temples.
+
+**Why R explains A:** Tolerant rule earned the **Bud Shah** title.
+
+**Trap:** **Sikandar Shah** was the **intolerant** predecessor — R describes the **reversal** that justified the honorific.
 
 </details>
-
-**Q32.** Sriya Bhatt served under:
 
 A. Sikandar Shah |
 
@@ -925,9 +1095,11 @@ D. Hasan Gangu
 
 **Ans: B**
 
-</details>
+**Why:** **Sriya Bhatt** served as Minister of Justice and court physician under **Zain-ul-Abidin (Bud Shah)**.
 
-**Q33.** Vijayanagara dynasties in order:
+**Trap:** **Suha Bhatt** advised **Sikandar Shah** during the temple-destruction phase — similar name, opposite ruler.
+
+</details>
 
 A. Sangama → Saluva → Tuluva → Aravidu |
 
@@ -941,9 +1113,11 @@ D. Aravidu → Tuluva → Saluva → Sangama
 
 **Ans: A**
 
-</details>
+**Why:** Vijayanagara dynasties ran **Sangama → Saluva → Tuluva → Aravidu** (founders → peak Krishnadevaraya → post-Talikota).
 
-**Q34.** Deccan Sultanates that fought Vijayanagara at Talikota included:
+**Trap:** **Tuluva before Sangama** is a common wrong order — Harihara/Bukka founded the **Sangama** line in 1336.
+
+</details>
 
 1. Bijapur
 2. Golkonda
@@ -959,11 +1133,13 @@ D. All three
 
 <details><summary>Show answer</summary>
 
-**Ans: A** — Jaunpur was annexed 1484; not in 1565 coalition.
+**Ans: A**
+
+**Why:** **Bijapur** and **Golkonda** joined the **1565** anti-Vijayanagara coalition. Statement 3 is false — **Jaunpur** was annexed by Bahlul Lodi in **1484**, decades earlier.
+
+**Trap:** Do not count **Sharqi Jaunpur** as a Deccan Sultanate — it was a **north Indian** UP state.
 
 </details>
-
-**Q35.** Match (2023 Q33 pattern): A.Mirat-e-Sikandari B.Riyaz-ul-Insha with 1.Gawan's letters 2.Gujarat victory
 
 Options: A.2-1 | B.1-2 | C.2-2 | D.1-1
 
@@ -971,9 +1147,11 @@ Options: A.2-1 | B.1-2 | C.2-2 | D.1-1
 
 **Ans: A (2-1)**
 
-</details>
+**Locks:** A **Mirat-e-Sikandari** → **2** Gujarat victory | B **Riyaz-ul-Insha** → **1** Gawan's letters
 
-**Q36.** Ashtadiggajas were:
+**Trap:** Full 2023 Q33 adds **Riyaz-us-Salatin (Bengal)** and **Burhan-e-Masir (Ahmadnagar)** — know the mini-match too.
+
+</details>
 
 A. Eight poets at Krishnadevaraya's court |
 
@@ -987,9 +1165,11 @@ D. Eight Sufi saints of Kashmir
 
 **Ans: A**
 
-</details>
+**Why:** **Ashtadiggajas** ("eight elephants of the quarters") were the **eight great Telugu poets** at **Krishnadevaraya's** court, including **Allasani Peddana**.
 
-**Q37.** Which statement(s) is/are correct?
+**Trap:** **Eight Bahmani tarafs** = provinces, not poets — do not confuse administrative divisions with literary patronage.
+
+</details>
 
 1. Bahmani and Vijayanagara fought over Raichur doab.
 2. Krishnadevaraya died at Talikota.
@@ -1004,11 +1184,13 @@ D. Neither
 
 <details><summary>Show answer</summary>
 
-**Ans: A** — Krishnadevaraya died **1529**; Rama Raya at Talikota.
+**Ans: A**
+
+**Why:** Statement 1 is true — Bahmani and Vijayanagara fought over the **Raichur doab**. Statement 2 is false — **Krishnadevaraya died in 1529**; **Rama Raya** was killed at **Talikota (1565)**.
+
+**Trap:** Krishnadevaraya's fame makes candidates assume he died at Talikota — lock **Rama Raya** for 1565.
 
 </details>
-
-**Q38.** Jaunpur was known as:
 
 A. City of Victory |
 
@@ -1022,9 +1204,11 @@ D. Pearl of Kashmir
 
 **Ans: B**
 
-</details>
+**Why:** Jaunpur was called **"Shiraz of the East"** because its Sharqi court patronised **Persian literature** and architecture.
 
-**Q39.** Which is NOT a successor of Bahmani Kingdom?
+**Trap:** **"City of Victory"** often refers to **Vijayanagara/Hampi** — not Jaunpur.
+
+</details>
 
 A. Ahmadnagar |
 
@@ -1038,9 +1222,11 @@ D. Berar
 
 **Ans: C**
 
-</details>
+**Why wrong:** **Jaunpur (Sharqi)** was annexed in **1484** — it was never a Bahmani successor. Ahmadnagar, Golkonda, and Berar were among the **five Deccan Sultanates**.
 
-**Q40.** Mahanavami festival is linked to:
+**Trap:** Jaunpur is a medieval UP kingdom but **not** part of the post-1518 Bahmani breakup map.
+
+</details>
 
 A. Bahmani tarafdar investiture |
 
@@ -1054,9 +1240,11 @@ D. Kashmir Bud Shah coronation
 
 **Ans: B**
 
-</details>
+**Why:** **Mahanavami/Dasara** at Vijayanagara was a royal festival of **power display, tribute collection, and military might** at Hampi.
 
-**Q41.** Assertion (A): Mahmud Gawan strengthened Bahmani administration. Reason (R): He introduced land surveys and strict revenue accounting.
+**Trap:** Bahmani **tarafdar investiture** and Kashmir **Bud Shah** coronation are unrelated — Mahanavami is Vijayanagara-specific.
+
+</details>
 
 A. Both true, R explains A |
 
@@ -1068,11 +1256,17 @@ D. A false, R true
 
 <details><summary>Show answer</summary>
 
-**Ans: A**
+**Ans: A (Both true, R explains A)**
+
+**A is true:** **Mahmud Gawan** strengthened Bahmani administration as **wazir**.
+
+**R is true:** He introduced **land surveys** and **strict revenue accounting**.
+
+**Why R explains A:** Fiscal and land reforms **were the means** of administrative strengthening.
+
+**Trap:** **Hasan Gangu** founded Bahmani — Gawan was **wazir**, not founder, but A correctly credits his administrative role.
 
 </details>
-
-**Q42.** Padmavat is associated with:
 
 A. Amir Khusrau |
 
@@ -1084,11 +1278,13 @@ D. Ibrahim Adil Shah II
 
 <details><summary>Show answer</summary>
 
-**Ans: B** — Jaunpur cultural milieu.
+**Ans: B**
+
+**Why:** **Malik Muhammad Jaisi** composed **Padmavat** in the **Jaunpur** cultural milieu — a UP-linked literary lock.
+
+**Trap:** **Amir Khusrau** and **Krishnadevaraya** wrote different works — Padmavat belongs to the Sharqi-Jaunpur circle.
 
 </details>
-
-**Q43.** How many statements are correct?
 
 1. Bidar was a Bahmani capital.
 2. Bijapur was a Bahmani capital.
@@ -1104,11 +1300,13 @@ D. None
 
 <details><summary>Show answer</summary>
 
-**Ans: B** — 1 and 3 correct; Bijapur was never Bahmani capital.
+**Ans: B**
+
+**Why:** Statements **1** (Bidar = Bahmani capital) and **3** (Tin Darwaza at Bidar Fort) are correct. Statement **2** is false — **Bijapur** was **Adil Shahi**, never a Bahmani capital.
+
+**Trap:** **Bidar** and **Bijapur** sound similar — only Gulbarga and Bidar were Bahmani capitals.
 
 </details>
-
-**Q44.** After Talikota, Vijayanagara capital shifted toward:
 
 A. Delhi |
 
@@ -1120,11 +1318,13 @@ D. Srinagar
 
 <details><summary>Show answer</summary>
 
-**Ans: B** — Aravidu phase.
+**Ans: B**
+
+**Why:** After **Talikota (1565)**, the **Aravidu** dynasty ruled a diminished kingdom from **Penukonda and Chandragiri** while Hampi was abandoned.
+
+**Trap:** Vijayanagara **survived in name until 1646** — the capital moved, but the empire did not vanish overnight.
 
 </details>
-
-**Q45.** Match battle to outcome: A.Talikota 1565 B.Raichur 1520 C.Jaunpur annexation 1484 with 1.Krishnadevaraya victory 2.Rama Raya killed 3.Bahlul Lodi
 
 Options: A.2-1-3 | B.1-2-3 | C.2-3-1 | D.3-2-1
 
@@ -1132,11 +1332,13 @@ Options: A.2-1-3 | B.1-2-3 | C.2-3-1 | D.3-2-1
 
 **Ans: A (2-1-3)**
 
+**Locks:** A **Talikota 1565** → **2** Rama Raya killed | B **Raichur 1520** → **1** Krishnadevaraya victory | C **Jaunpur 1484** → **3** Bahlul Lodi
+
+**Trap:** **Talikota** and **Raichur** both lie in the Krishna–Tungabhadra zone — 1520 = **victory**, 1565 = **defeat**.
+
 </details>
 
----
-
-## Complete PYQ Bank (Topic 3)
+**Exam logic:** Monument–place **NOT matched**. UP angle: **Lal Darwaza–Jaunpur** is **correct** — only **Tin Darwaza–Ahmedabad** is wrong (gate is at **Bidar Fort**).
 
 **Q1. UPPCS Prelims 2018, Q19**
 
@@ -1152,9 +1354,15 @@ D. Tin Darwaza – Ahmedabad
 
 <details><summary>Show answer</summary>
 
-**Ans: D** — Tin Darwaza = **Bidar Fort**; Lal Darwaza–Jaunpur is correct.
+**Ans: D**
+
+**Why wrong:** **Tin Darwaza** is at **Bidar Fort** (Deccan), not Ahmedabad. Ahmedabad has **Teen Darwaza**.
+
+**Trap:** Do not mark **Lal Darwaza–Jaunpur** (B) wrong — it is a famous **Sharqi** monument pair in UP.
 
 </details>
+
+**Exam logic:** **Chronology** across Sharqi + Mughal tombs. Lock **Atala (15th c.)** earliest; **Rabia Daurani (1678)** latest.
 
 **Q2. UPPCS Prelims 2019, Q91**
 
@@ -1170,9 +1378,15 @@ D. III, IV, II, I
 
 <details><summary>Show answer</summary>
 
-**Ans: B (IV, II, III, I)** — Atala (~15th c.) → Sher Shah (1545) → Humayun (1565) → Rabia Daurani (1678).
+**Ans: B (IV, II, III, I)**
+
+**Order:** IV **Atala Mosque, Jaunpur** (~**15th c.**) → II **Sher Shah's Tomb** (**1545**) → III **Humayun's Tomb** (**1565**) → I **Rabia Daurani's Tomb** (**1678**).
+
+**Trap:** **Sher Shah (1545)** precedes **Humayun (1565)** by 20 years — never reverse II and III.
 
 </details>
+
+**Exam logic:** **Last Qutb Shahi** at Mughal annexation **1687**. Trap: earlier Qutb Shahs who built Hyderabad/Charminar.
 
 **Q3. UPPCS Prelims 2020, Q34**
 
@@ -1188,9 +1402,15 @@ D. Shayasta Khan
 
 <details><summary>Show answer</summary>
 
-**Ans: A** — Last Qutb Shahi ruler.
+**Ans: A**
+
+**Why:** **Abul Hasan Qutb Shah** was the **last Qutb Shahi** ruler when Aurangzeb captured Golkonda in **1687**.
+
+**Trap:** **Muhammad Quli Qutb Shah** (Charminar, 1591) and **Ibrahim Qutb Shah** ruled much earlier — the 1687 lock is **Abul Hasan** only.
 
 </details>
+
+**Exam logic:** **Kitab-i-Nauras** author = **Ibrahim Adil Shah II (Bijapur)**. Trap: swap with **Krishnadevaraya** / **Amuktamalyada**.
 
 **Q4. UPPCS Prelims 2020, Q44**
 
@@ -1206,9 +1426,15 @@ D. Akbar II
 
 <details><summary>Show answer</summary>
 
-**Ans: A** — Bijapur Adil Shahi; music/song collection.
+**Ans: A**
+
+**Why:** **Ibrahim Adil Shah II** of **Bijapur (Adil Shahi)** authored **Kitab-i-Nauras**, a musical-devotional song collection.
+
+**Trap:** **Amuktamalyada** belongs to **Krishnadevaraya (Vijayanagara)** — do not cross-assign Deccan book locks.
 
 </details>
+
+**Exam logic:** Four-book match; **Riyaz-us-Salatin (Bengal)** vs **Riyaz-ul-Insha (Gawan's letters)** is the headline trap.
 
 **Q5. UPPCS Prelims 2023, Q33**
 
@@ -1235,7 +1461,13 @@ D. 4-2-3-1
 
 **Ans: A (4-2-1-3)**
 
+**Locks:** A→**4** Gujarat victory | B→**2** Ahmadnagar | C→**1** Bengal | D→**3** Gawan's letters
+
+**Trap:** **Riyaz-us-Salatin** sounds like **Riyaz-ul-Insha** but means **Bengal history**, not Bahmani ministerial correspondence.
+
 </details>
+
+**Exam logic:** Kashmir tolerant ruler — **both** jaziya **and** cow slaughter abolished only under **Zain-ul-Abidin (Bud Shah)**.
 
 **Q6. UPPCS Prelims 2023, Q36**
 
@@ -1251,7 +1483,11 @@ D. Haider Shah
 
 <details><summary>Show answer</summary>
 
-**Ans: C** — Bud Shah.
+**Ans: C**
+
+**Why:** **Zain-ul-Abidin (Bud Shah, 1420–1470)** abolished **jaziya**, banned **cow slaughter**, and **restored temples** after **Sikandar Shah's** intolerant reign.
+
+**Trap:** **Sikandar Shah** enforced the **opposite** policies — he is the pre-Bud Shah destruction phase, not the answer here.
 
 </details>
 

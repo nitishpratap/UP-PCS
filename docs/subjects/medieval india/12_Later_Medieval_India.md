@@ -158,6 +158,14 @@ Saadat Khan 1722 founder → Safdar Jung → Shuja-ud-Daula (Panipat III / Buxar
 - **First Carnatic War (1746–48)** was the Indian face of the War of Austrian Succession.
 - The French took **Madras in 1746**.
 - **Treaty of Aix-la-Chapelle (1748)** ended that war and **returned Madras to the English**.
+
+### PYQ — Aix-la-Chapelle 1748 (2020 Q18 / 2025 Q67)
+
+**A/R logic (read before the stem):**
+
+- **What the stem tests:** **Treaty of Aix-la-Chapelle (1748)** ended the **First Carnatic War** and **returned Madras** to the English.
+- **UPPCS trap:** Both statements are **true** — not Paris 1763.
+
 - **2025 Q67** and **2020 Q18** both key to **C**.
 - Both statements are true.
 - **Second Carnatic War (1749–54)** is the usual meaning of “Second Anglo-French War” in Indian lists.
@@ -186,6 +194,11 @@ Saadat Khan 1722 founder → Safdar Jung → Shuja-ud-Daula (Panipat III / Buxar
 - **William Hawkins** arrived **1608**.
 - **Nicholas Downton** belongs to **1614** (Surat command).
 - **Sir Thomas Roe** arrived **1615**.
+
+### PYQ — Traveller chronology (2021 Q75)
+
+**Exam logic:** English traveller **arrival order** — **Fitch (1585)** → **Hawkins (1608)** → **Downton (1614)** → **Roe (1615)**. **Trap:** Roe was ambassador, not the earliest arrival.
+
 - **2021 Q75** keys to **A (II, I, IV, III)**.
 - The arrival order is Fitch, then Hawkins, then Downton, then Roe.
 - **François Bernier** was a **French** physician at **Aurangzeb’s** court. He is not a British traveller.
@@ -251,7 +264,17 @@ C. I-III-II-IV |
 
 D. III-II-IV-I
 
-<details><summary>Show answer</summary>**Ans: A** — 2021 Q75.</details>
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+**Why:** The correct lock is **II-I-IV-III**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q2.** Hawkins: 1. Came 1611 as James I envoy 2. Well versed in Turkish
 
@@ -263,7 +286,15 @@ C. Both |
 
 D. Neither
 
-<details><summary>Show answer</summary>**Ans: B** — 2023 Q31; arrival is 1608.</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** 2023 Q31; arrival is 1608.
+
+**Trap:** Test each statement separately before choosing the code.
+
+</details>
 
 **Q3.** Aix-la-Chapelle 1748: 1. First Carnatic War ended 2. Madras returned to the English
 
@@ -275,7 +306,17 @@ C. Both |
 
 D. Only 1
 
-<details><summary>Show answer</summary>**Ans: C** — 2025 Q67 / 2020 Q18.</details>
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+**Key:** Both statements are correct.
+
+**Why:** 2025 Q67 / 2020 Q18.
+
+**Trap:** Test each statement separately before choosing the code.
+
+</details>
 
 **Q4.** Awadh 1, Ilbert 2, Indigo 3, 2nd Afghan 4
 
@@ -287,7 +328,17 @@ C. 3-1-4-2 |
 
 D. 1-3-2-4
 
-<details><summary>Show answer</summary>**Ans: A** — 2025 Q127.</details>
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+**Why:** The correct lock is **1-3-4-2**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q5.** Wars: 1.First Anglo-Mysore 2.Second Anglo-French 3.First Anglo-Sikh 4.First Anglo-Afghan
 
@@ -299,7 +350,15 @@ C. 1-2-4-3 |
 
 D. 2-1-3-4
 
-<details><summary>Show answer</summary>**Ans: A** — 2025 Q26.</details>
+<details><summary>Show answer</summary>
+
+**Ans: A**
+
+**Order:** 2025 Q26.
+
+**Trap:** Check dates before matching option codes.
+
+</details>
 
 **Q6.** Goa 1510 was taken by:
 
@@ -311,7 +370,17 @@ C. Dupleix |
 
 D. Hawkins
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Albuquerque**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q7.** First lasting English factory:
 
@@ -323,7 +392,17 @@ C. Calcutta 1600 |
 
 D. Pondicherry 1674
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Surat 1612**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q8.** Tranquebar is:
 
@@ -335,7 +414,25 @@ C. French |
 
 D. Danish
 
-<details><summary>Show answer</summary>**Ans: D**</details>
+<details><summary>Show answer</summary>
+
+**Ans: D**
+
+**Why:** The correct lock is **Danish
+
+<details><summary>Show answer</summary>
+
+**Ans: D**
+
+**Why:** Matches the core teaching lock for this topic.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>**.
+
+</details>
 
 **Q9.** Pondicherry is:
 
@@ -347,7 +444,17 @@ C. Danish |
 
 D. Portuguese
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **French**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q10.** Awadh Nawabi founder:
 
@@ -359,7 +466,17 @@ C. Wajid Ali Shah |
 
 D. Dupleix
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Saadat Khan**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q11.** Cartaze is:
 
@@ -371,7 +488,17 @@ C. Dutch spice tax |
 
 D. Awadh land grant
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Portuguese sea-pass**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q12.** EIC charter year:
 
@@ -383,7 +510,17 @@ C. 1602 |
 
 D. 1664
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **1600**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q13.** VOC charter year:
 
@@ -395,7 +532,17 @@ C. 1616 |
 
 D. 1664
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **1602**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q14.** Bernier was:
 
@@ -407,7 +554,17 @@ C. Danish governor of Tranquebar |
 
 D. Founder of Awadh
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **French physician at Aurangzeb’s court**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q15.** Hooghly expulsion 1632:
 
@@ -419,7 +576,17 @@ C. Jahangir vs French |
 
 D. Aurangzeb vs Danes
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Shah Jahan vs Portuguese**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q16.** Fort St George is at:
 
@@ -431,7 +598,17 @@ C. Bombay |
 
 D. Calcutta
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Madras**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q17.** Bombay leased to EIC in:
 
@@ -443,7 +620,17 @@ C. 1668 |
 
 D. 1748
 
-<details><summary>Show answer</summary>**Ans: C**</details>
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+**Why:** The correct lock is **1668**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q18.** 1. Hawkins came 1608 2. Roe came 1615–19
 
@@ -455,7 +642,15 @@ C. Both |
 
 D. Neither
 
-<details><summary>Show answer</summary>**Ans: C**</details>
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+**Key:** Both statements are correct.
+
+**Trap:** Test each statement separately before choosing the code.
+
+</details>
 
 **Q19.** Bara Imambara is linked with:
 
@@ -467,7 +662,17 @@ C. Albuquerque |
 
 D. Clive
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Asaf-ud-Daula**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q20.** Last Nawab of Awadh:
 
@@ -479,7 +684,17 @@ C. Wajid Ali Shah |
 
 D. Saadat Khan
 
-<details><summary>Show answer</summary>**Ans: C**</details>
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+**Why:** The correct lock is **Wajid Ali Shah**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q21.** Aix-la-Chapelle is the same treaty as Paris 1763.
 
@@ -491,7 +706,17 @@ C. Only for Bengal |
 
 D. Only for Goa
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **False**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q22.** Pulicat was the HQ of:
 
@@ -503,7 +728,17 @@ C. French |
 
 D. Danish
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Dutch**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q23.** Chandernagore was:
 
@@ -515,7 +750,17 @@ C. English Surat |
 
 D. Awadh capital
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **French Bengal**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q24.** 1. EIC ruled India from 1600 2. 1600 is a trade charter
 
@@ -527,7 +772,15 @@ C. Both |
 
 D. Neither
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B (Only 2)**
+
+**Key:** Statement **1** is false — EIC did **not** rule India from **1600** (trade charter only). Statement **2** is true.
+
+**Trap:** Territorial rule begins **1757+**, not 1600.
+
+</details>
 
 **Q25.** Shuja-ud-Daula at Panipat III:
 
@@ -539,7 +792,17 @@ C. Commanded French guns |
 
 D. Founded Goa
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Allied with Abdali**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q26.** French company founded:
 
@@ -551,7 +814,25 @@ C. 1602 |
 
 D. 1664
 
-<details><summary>Show answer</summary>**Ans: D**</details>
+<details><summary>Show answer</summary>
+
+**Ans: D**
+
+**Why:** The correct lock is **1664
+
+<details><summary>Show answer</summary>
+
+**Ans: D**
+
+**Why:** Matches the core teaching lock for this topic.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>**.
+
+</details>
 
 **Q27.** NOT matched:
 
@@ -563,7 +844,15 @@ C. Roe – 1608 |
 
 D. Downton – 1614
 
-<details><summary>Show answer</summary>**Ans: C**</details>
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+**Why wrong:** One pair breaks the standard lock in this topic.
+
+**Trap:** Eliminate pairs you know are correct first.
+
+</details>
 
 **Q28.** Awadh annexed in:
 
@@ -575,7 +864,17 @@ C. 1856 |
 
 D. 1748
 
-<details><summary>Show answer</summary>**Ans: C**</details>
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+**Why:** The correct lock is **1856**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q29.** Calicut 1498 visitor:
 
@@ -587,7 +886,17 @@ C. Thomas Roe |
 
 D. Dupleix
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Vasco da Gama**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q30.** Serampore was originally:
 
@@ -599,7 +908,17 @@ C. Awadh |
 
 D. Mughal capital
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Danish**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q31.** 1. Pondicherry is French 2. Tranquebar is French
 
@@ -611,7 +930,15 @@ C. Both |
 
 D. Neither
 
-<details><summary>Show answer</summary>**Ans: A**</details>
+<details><summary>Show answer</summary>
+
+**Ans: A (Only 1)**
+
+**Key:** Only statement **1** is true — **Pondicherry** is French. Statement **2** is false — **Tranquebar** is **Danish**.
+
+**Trap:** Do not confuse French Pondicherry with Danish Tranquebar.
+
+</details>
 
 **Q32.** Hawkins’s court was:
 
@@ -623,7 +950,17 @@ C. Aurangzeb |
 
 D. Saadat Khan
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Jahangir**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q33.** Treaty of Allahabad 1765 mainly squeezed:
 
@@ -635,7 +972,17 @@ C. Danish Tranquebar |
 
 D. VOC Pulicat
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Awadh after Buxar**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q34.** Dupleix was:
 
@@ -647,7 +994,17 @@ C. First Awadh Nawab |
 
 D. Dutch Pulicat admiral
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **French Carnatic governor**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q35.** 1. Indigo Revolt is before Awadh annexation 2. Awadh annexation is 1856
 
@@ -659,7 +1016,15 @@ C. Both |
 
 D. Neither
 
-<details><summary>Show answer</summary>**Ans: B** — Indigo is 1859, after 1856.</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** Indigo is 1859, after 1856.
+
+**Trap:** Test each statement separately before choosing the code.
+
+</details>
 
 **Q36.** Factory in this topic means:
 
@@ -671,7 +1036,17 @@ C. Mughal mint |
 
 D. Awadh imambara
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **Trading post**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 **Q37.** Correct pair:
 
@@ -683,7 +1058,15 @@ C. French – 1664 |
 
 D. Danish – 1498
 
-<details><summary>Show answer</summary>**Ans: C**</details>
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+**Why:** The correct lock is **French – 1664**.
+
+**Trap:** Cross-check Confused Pairs table before finalising.
+
+</details>
 
 **Q38.** 2023 trap: Hawkins came to India in 1611.
 
@@ -695,11 +1078,23 @@ C. True only as ambassador Roe |
 
 D. True only for Fitch
 
-<details><summary>Show answer</summary>**Ans: B**</details>
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** The correct lock is **False**.
+
+
+
+**Trap:** Cross-check the Confused Pairs table for this topic.
+
+</details>
 
 ---
 
 ## Complete PYQ Bank (Topic 12)
+
+**Exam logic:** English traveller **arrival order** — Fitch earliest, then Hawkins, Downton, Roe. **Trap:** putting Roe (1615) before Hawkins (1608).
 
 **Q1. UPPCS Prelims 2021, Q75**
 
@@ -713,7 +1108,17 @@ C. I, III, II and IV |
 
 D. III, II, IV and I
 
-<details><summary>Show answer</summary>**Ans: A** — Fitch 1585 → Hawkins 1608 → Downton 1614 → Roe 1615.</details>
+<details><summary>Show answer</summary>
+
+**Ans: A (II-I-IV-III)**
+
+**Order:** Ralph Fitch **1585** → William Hawkins **1608** → Nicholas Downton **1614** → Sir Thomas Roe **1615**.
+
+**Trap:** **Roe** is ambassador **1615–19**, not the first English arrival.
+
+</details>
+
+**Exam logic:** **Hawkins** multi-statement — arrival year **1608**, not **1611**; Turkish fluency is true. **Trap:** 1611 is when his stay was ending (2023 Q31).
 
 **Q2. UPPCS Prelims 2023, Q31**
 
@@ -727,7 +1132,17 @@ C. Both 1 and 2 |
 
 D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>**Ans: B** — Turkish is true. Arrival is **1608**, not 1611.</details>
+<details><summary>Show answer</summary>
+
+**Ans: B (Only 2)**
+
+**Key:** Statement **1** is false (arrival **1608** on **Hector**); statement **2** is true (Turkish at Jahangir's court).
+
+**Trap:** **1611** is the trap year — Hawkins came **1608**, Roe came **1615**.
+
+</details>
+
+**Exam logic:** **Aix-la-Chapelle (1748)** — both statements true: First Carnatic War ended **and** Madras returned to English. **Trap:** confusing with **Paris 1763**.
 
 **Q3. UPPCS Prelims 2020, Q18**
 
@@ -741,7 +1156,17 @@ C. Both 1 and 2 |
 
 D. Neither 1 nor 2
 
-<details><summary>Show answer</summary>**Ans: C** — same pair as 2025 Q67. (2020 paper text is truncated in `pyq/`; statements match the repeated 1748 lock.)</details>
+<details><summary>Show answer</summary>
+
+**Ans: C (Both 1 and 2)**
+
+**Key:** Both statements are true — war ended **1748** and **Madras** (taken 1746) went back to the English.
+
+**Trap:** Same pair as **2025 Q67** — not **Paris 1763** (Seven Years' War).
+
+</details>
+
+**Exam logic:** Same **1748** Aix-la-Chapelle pair as 2020 Q18. **Trap:** option letter order differs across papers — both key **Both true**.
 
 **Q4. UPPCS Prelims 2025, Q67**
 
@@ -755,7 +1180,17 @@ C. Both 1 and 2 |
 
 D. Only 1
 
-<details><summary>Show answer</summary>**Ans: C**</details>
+<details><summary>Show answer</summary>
+
+**Ans: C (Both 1 and 2)**
+
+**Key:** First Carnatic War ended; **Madras** restored to the English under the **1748** treaty.
+
+**Trap:** **Paris 1763** ended French hopes after Wandiwash — different treaty.
+
+</details>
+
+**Exam logic:** Anglo-war chronology — Second Anglo-French (Carnatic) before Mysore, Afghan, Sikh wars. **Trap:** placing Anglo-Sikh before Anglo-Afghan.
 
 **Q5. UPPCS Prelims 2025, Q26**
 
@@ -769,7 +1204,17 @@ C. 1, 2, 4, 3 |
 
 D. 2, 1, 3, 4
 
-<details><summary>Show answer</summary>**Ans: A** — Second Carnatic/Anglo-French (1749–54) → Mysore 1767 → Afghan 1839 → Sikh 1845.</details>
+<details><summary>Show answer</summary>
+
+**Ans: A (2-1-4-3)**
+
+**Order:** Second Anglo-French/Carnatic **1749–54** → First Anglo-Mysore **1767** → First Anglo-Afghan **1839** → First Anglo-Sikh **1845**.
+
+**Trap:** **Second Anglo-French** is the Carnatic phase, not Panipat III.
+
+</details>
+
+**Exam logic:** Modern chronology with **Awadh annexation 1856** first — before Indigo **1859**, 2nd Afghan **1878–80**, Ilbert **1883**. **Trap:** placing Indigo before Awadh annexation.
 
 **Q6. UPPCS Prelims 2025, Q127**
 
@@ -783,7 +1228,15 @@ C. 3, 1, 4, 2 |
 
 D. 1, 3, 2, 4
 
-<details><summary>Show answer</summary>**Ans: A** — 1856 → 1859 → 1878–80 → 1883.</details>
+<details><summary>Show answer</summary>
+
+**Ans: A (1-3-4-2)**
+
+**Order:** Awadh annexation **1856** → Indigo Revolt **1859** → Second Anglo-Afghan War **1878–80** → Ilbert Bill **1883**.
+
+**Trap:** **Awadh 1856** precedes **Indigo 1859** — annexation fed the **1857** Lucknow rising.
+
+</details>
 
 ---
 
