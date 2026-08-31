@@ -706,9 +706,24 @@ D. Neither
 
 </details>
 
-**Q2.** Match (2025 Q12 pattern): A.Kabir B.Amir Khusrau C.Surdas D.Mardana with 1.Guru Nanak 2.Ramananda 3.Nizamuddin 4.Vallabhacharya
+**Q2.** Match List-I (Disciple) with List-II (Guru) *(2025 Q12 pattern)*:
 
-Options: A.3-2-4-1 | B.3-2-1-4 | C.2-3-4-1 | D.2-3-1-4
+| List-I | List-II |
+|--------|---------|
+| A. Kabir | 1. Guru Nanak Dev |
+| B. Amir Khusrau | 2. Swami Ramananda |
+| C. Surdas | 3. Nizamuddin Auliya |
+| D. Mardana | 4. Vallabhacharya |
+
+*Row order in the table is not the answer code.*
+
+A. 3 2 4 1 |
+
+B. 3 2 1 4 |
+
+C. 2 3 4 1 |
+
+D. 2 3 1 4
 
 <details><summary>Show answer</summary>
 
@@ -720,9 +735,20 @@ Options: A.3-2-4-1 | B.3-2-1-4 | C.2-3-4-1 | D.2-3-1-4
 
 </details>
 
-**Q3.** Arrange chronologically: Guru Nanak, Chaitanya, Namdev, Kabir
+**Q3.** Arrange the following saints in correct chronological order:
 
-Options: A.3-4-1-2 | B.4-3-1-2 | C.3-4-2-1 | D.4-3-2-1
+1. Guru Nanak  
+2. Chaitanya Mahaprabhu  
+3. Namdev  
+4. Kabir  
+
+A. 3 4 1 2 |
+
+B. 4 3 1 2 |
+
+C. 3 4 2 1 |
+
+D. 4 3 2 1
 
 <details><summary>Show answer</summary>
 
@@ -918,9 +944,24 @@ D. Mirabai — Padas
 
 </details>
 
-**Q13.** Match philosopher–philosophy (2022 Q33): A.Ramanuja B.Madhvacharya C.Nimbarka D.Vallabhacharya with 1.Shuddhadvaita 2.Dvaitadvaita 3.Dvaita 4.Vishishtadvaita
+**Q13.** Match List-I (Philosopher) with List-II (Philosophy) *(2022 Q33 pattern)*:
 
-Options: A.2-4-1-3 | B.3-1-4-2 | C.1-2-3-4 | D.4-3-2-1
+| List-I | List-II |
+|--------|---------|
+| A. Ramanuja | 1. Shuddhadvaita |
+| B. Madhvacharya | 2. Dvaitadvaita |
+| C. Nimbarka | 3. Dvaita |
+| D. Vallabhacharya | 4. Vishishtadvaita |
+
+*Row order in the table is not the answer code.*
+
+A. 2 4 1 3 |
+
+B. 3 1 4 2 |
+
+C. 1 2 3 4 |
+
+D. 4 3 2 1
 
 <details><summary>Show answer</summary>
 
@@ -1178,9 +1219,24 @@ D. Neither
 
 </details>
 
-**Q26.** Match saint–region: A.Chaitanya B.Guru Nanak C.Kabir D.Mirabai with 1.Mewar 2.Bengal 3.Punjab 4.Kashi
+**Q26.** Match List-I (Saint) with List-II (Region):
 
-Options: A.2-3-4-1 | B.3-2-1-4 | C.2-1-3-4 | D.4-3-2-1
+| List-I | List-II |
+|--------|---------|
+| A. Chaitanya | 1. Mewar |
+| B. Guru Nanak | 2. Bengal |
+| C. Kabir | 3. Punjab |
+| D. Mirabai | 4. Kashi |
+
+*Row order in the table is not the answer code.*
+
+A. 2 3 4 1 |
+
+B. 3 2 1 4 |
+
+C. 2 1 3 4 |
+
+D. 4 3 2 1
 
 <details><summary>Show answer</summary>
 
@@ -1536,9 +1592,23 @@ D. Charvaka
 
 </details>
 
-**Q44.** Match Sufi order–trait: A.Chishti B.Naqshbandi C.Suhrawardi with 1.Orthodox Sirhindi 2.Poverty/sama 3.State patronage
+**Q44.** Match List-I (Sufi order) with List-II (Trait):
 
-Options: A.2-1-3 | B.1-3-2 | C.3-2-1 | D.2-3-1
+| List-I | List-II |
+|--------|---------|
+| A. Chishti | 1. Orthodox Sirhindi |
+| B. Naqshbandi | 2. Poverty / sama |
+| C. Suhrawardi | 3. State patronage |
+
+*Row order in the table is not the answer code.*
+
+A. 2 1 3 |
+
+B. 1 3 2 |
+
+C. 3 2 1 |
+
+D. 2 3 1
 
 <details><summary>Show answer</summary>
 
@@ -1690,7 +1760,15 @@ D. Neither
 
 **Q3. UPPCS Prelims 2020, Q40**
 
-NOT correctly matched: A. Moinuddin–Ajmer Chishti | B. Burhanuddin–Daulatabad Gharib | C. Mohammad–Gulbarga Hussaini | D. **Nizamuddin–Multan Auliya**
+Which of the following is **not** correctly matched?
+
+A. Moinuddin — Ajmer (Chishti) |
+
+B. Burhanuddin — Daulatabad (Gharib) |
+
+C. Mohammad Hussaini — Gulbarga |
+
+D. Nizamuddin Auliya — Multan
 
 <details><summary>Show answer</summary>
 
@@ -1720,9 +1798,24 @@ Fawaid ul Fawad compiled by: A. Amir Hassan Sizzi | B. Amir Khusro | C. Ziauddin
 
 **Q5. UPPCS Prelims 2022, Q33**
 
-Match philosopher–philosophy: A.Ramanuja B.Madhvacharya C.Nimbarka D.Vallabhacharya with 1.Shuddhadvaita 2.Dvaitadvaita 3.Dvaita 4.Vishishtadvaita
+Match List-I (Philosopher) with List-II (Philosophy):
 
-Options: A.2-4-1-3 | B.3-1-4-2 | C.1-2-3-4 | D.4-3-2-1
+| List-I | List-II |
+|--------|---------|
+| A. Ramanuja | 1. Shuddhadvaita |
+| B. Madhvacharya | 2. Dvaitadvaita |
+| C. Nimbarka | 3. Dvaita |
+| D. Vallabhacharya | 4. Vishishtadvaita |
+
+*Row order in the table is not the answer code.*
+
+A. 2 4 1 3 |
+
+B. 3 1 4 2 |
+
+C. 1 2 3 4 |
+
+D. 4 3 2 1
 
 <details><summary>Show answer</summary>
 
@@ -1737,7 +1830,15 @@ Options: A.2-4-1-3 | B.3-1-4-2 | C.1-2-3-4 | D.4-3-2-1
 
 **Q6. UPPCS Prelims 2023, Q39**
 
-NOT matched poetess–composition: A. Daya Bai — Vinay Malika | B. Sahajobai — Sahaj Prakash | C. Gangabai — Ganesh Dev Leela | D. Mirabai — Padas
+Which poetess–composition pair is **not** matched?
+
+A. Daya Bai — Vinay Malika |
+
+B. Sahajobai — Sahaj Prakash |
+
+C. Gangabai — Ganesh Dev Leela |
+
+D. Mirabai — Padas
 
 <details><summary>Show answer</summary>
 
@@ -1752,9 +1853,24 @@ NOT matched poetess–composition: A. Daya Bai — Vinay Malika | B. Sahajobai �
 
 **Q7. UPPCS Prelims 2025, Q12**
 
-Match disciple–guru: A.Kabir B.Amir Khusrau C.Surdas D.Mardana with 1.Guru Nanak Dev 2.Swami Ramananda 3.Nizamuddin Auliya 4.Vallabhacharya
+Match List-I (Disciple) with List-II (Guru):
 
-Options: A.3-2-4-1 | B.3-2-1-4 | C.2-3-4-1 | D.2-3-1-4
+| List-I | List-II |
+|--------|---------|
+| A. Kabir | 1. Guru Nanak Dev |
+| B. Amir Khusrau | 2. Swami Ramananda |
+| C. Surdas | 3. Nizamuddin Auliya |
+| D. Mardana | 4. Vallabhacharya |
+
+*Row order in the table is not the answer code.*
+
+A. 3 2 4 1 |
+
+B. 3 2 1 4 |
+
+C. 2 3 4 1 |
+
+D. 2 3 1 4
 
 <details><summary>Show answer</summary>
 
@@ -1769,9 +1885,20 @@ Options: A.3-2-4-1 | B.3-2-1-4 | C.2-3-4-1 | D.2-3-1-4
 
 **Q8. UPPCS Prelims 2025, Q74**
 
-Arrange chronologically: 1.Guru Nanak 2.Chaitanya 3.Namdev 4.Kabir
+Arrange the following saints in correct chronological order and select the correct answer from the code given below:
 
-Options: A.4-3-1-2 | B.3-4-2-1 | C.3-4-1-2 | D.4-3-2-1
+1. Guru Nanak  
+2. Chaitanya Mahaprabhu  
+3. Namdev  
+4. Kabir  
+
+A. 4 3 1 2 |
+
+B. 3 4 2 1 |
+
+C. 3 4 1 2 |
+
+D. 4 3 2 1
 
 <details><summary>Show answer</summary>
 

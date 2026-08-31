@@ -1,10 +1,10 @@
 # Topic 5 — Medieval Literature
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥40)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥43)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Medieval Literature | Medieval Books and Their Authors | Delhi Sultanate Literature | Sultanate and Mughal Literature | Amir Khusrau | Ziauddin Barani | Tarikh-i-Firoz Shahi | Tabaqat-i-Nasiri | Baburnama | Akbarnama | Ain-i-Akbari | Tuzuk-i-Jahangiri | Padshahnama
+Medieval Literature | Medieval Books and Their Authors | Delhi Sultanate Literature | Sultanate and Mughal Literature | Amir Khusrau | Ziauddin Barani | Tarikh-i-Firoz Shahi | Tabaqat-i-Nasiri | Baburnama | Akbarnama | Ain-i-Akbari | Tuzuk-i-Jahangiri | Padshahnama | Fatawa-i-Jahandari | Khazain-ul-Futuh | Malik Muhammad Jaisi | Padmavat | Alberuni | Badauni | Regional Persian Chronicles
 
 </details>
 
@@ -29,6 +29,9 @@ Tughlaqnama — Ziauddin Barani (NOT Ibn Battuta — 2019 Q16)
 Taj-ul-Maasir — Hasan Nizami
 Rag Vibodh — Amir Khusrau (2019 Q88)
 Khamsa, Nuh Sipihr — Amir Khusrau
+Miftah-ul-Futuh — Khusrau (Jalaluddin Khalji) | Khazain-ul-Futuh — Khusrau (Alauddin)
+Fatawa-i-Jahandari — Barani (political theory, NOT history)
+Afif vs Barani — both wrote Tarikh-i-Firoz Shahi (different periods; 2019 Q16 trap)
 Rihla — Ibn Battuta (traveller, NOT historian)
 
 MUGHAL BOOK ↔ AUTHOR
@@ -43,6 +46,11 @@ Muntakhab-ut-Tawarikh — Badauni (critical of Akbar)
 VERNACULAR MATCH (2019 Q88 = A 1-3-2-4)
 Mulla Daud — Chandayan | Damodar Kavi — Padmavati Katha
 Somnath — Ashiqa | Amir Khusrau — Rag Vibodh
+Malik Muhammad Jaisi — Padmavat (Awadhi; NOT Damodar's Padmavati Katha)
+
+REGIONAL PERSIAN (2023 Q33 = A 4-2-1-3)
+Mirat-e-Sikandari — Gujarat | Burhan-e-Masir — Ahmadnagar/Bahmani
+Riyaz-us-Salatin — Bengal | Riyaz-ul-Insha — Mahmud Gawan's letters
 
 CHRONOLOGY (2024 Q132 = B 3-2-1-4)
 Faizi (1595) → Sheikh Mubarak (1597) → Abul Fazl murdered (1602) → Daniyal (1604)
@@ -61,6 +69,9 @@ Khusrau = Sultanate (NOT Akbar/Tansen) | Tutinama = Nakhshabi (NOT Khusrau)
 | Tarikh vs Tabaqat | Annal/continuous history vs generational biographies ("classes") | तारीख / तबक़ात |
 | Barani vs Ibn Battuta | Delhi Sultanate historian vs Moroccan traveller (Rihla) | बरनी / इब्न बतूता |
 | Tughlaqnama vs Rihla | Barani's Tughlaq history vs Ibn Battuta's travelogue | तुग़लक़नामा / रिहला |
+| Barani vs Afif (Tarikh) | Barani's Tarikh (Balban→early Firuz) vs Afif's later Tarikh (Firuz→end) | बरनी / आफ़िफ़ |
+| Padmavat vs Padmavati Katha | Jaisi's Awadhi epic vs Damodar Kavi's work in 2019 Q88 list | पद्मावत / पद्मावती कथा |
+| Riyaz-us-Salatin vs Riyaz-ul-Insha | Bengal history vs Gawan's official letters (2023 Q33) | रियाज़-उस-सलातीन / रियाज़-उल-इंशा |
 | Amir Khusrau vs Tansen | 13th–14th c. Sultanate poet vs Akbar's dhrupad master | अमीर खुसरो / तानसेन |
 | Tuzuk-i-Jahangiri vs Padshahnama | Emperor's own memoir vs court historian's Shah Jahan chronicle | तुज़ुक / पादशाहनामा |
 | Persian vs Turki (Mughal) | Mughal court language vs Babur's mother-tongue memoir only | फ़ारसी / चग़ताई तुर्की |
@@ -122,9 +133,14 @@ D. Both true, R explains A
 | **Tabaqat-i-Nasiri** | Minhaj-us-Siraj Juzjani | Sultanate | Persian | Tabaqat chronicle |
 | **Tarikh-i-Firoz Shahi** | Ziauddin Barani | Sultanate | Persian | Tarikh (Balban→Firuz) |
 | **Tughlaqnama** | Ziauddin Barani | Sultanate | Persian | Tughlaq history |
+| **Fatawa-i-Jahandari** | Ziauddin Barani | Sultanate | Persian | Political theory of kingship |
+| **Tarikh-i-Firoz Shahi** (later) | Shams-i-Siraj **Afif** | Sultanate | Persian | Firuz Shah → end of Sultanate |
 | **Taj-ul-Maasir** | Hasan Nizami | Sultanate | Persian | Early Delhi conquests |
+| **Khazain-ul-Futuh** | Amir Khusrau | Sultanate | Persian | Alauddin Khalji conquests |
+| **Miftah-ul-Futuh** | Amir Khusrau | Sultanate | Persian | Jalaluddin Khalji victories |
 | **Rag Vibodh** | Amir Khusrau | Sultanate | Persian/Hindi | Music treatise |
 | **Khamsa** | Amir Khusrau | Sultanate | Persian | Five masnavis |
+| **Kitab-ul-Hind** | **Alberuni** | Ghaznavid | Arabic | India under Mahmud/Ghazni |
 | **Rihla** | Ibn Battuta | Sultanate | Arabic | Travelogue |
 | **Baburnama (Tuzk-e-Babri)** | Babur | Mughal | **Chagatai Turki** | Memoir |
 | **Humayunnama** | Gulbadan Begum | Mughal | Persian | Biography |
@@ -133,6 +149,7 @@ D. Both true, R explains A
 | **Tuzuk-i-Jahangiri** | Jahangir | Mughal | Persian | Emperor's memoir |
 | **Padshahnama** | Abdul Hamid Lahori | Mughal | Persian | Shah Jahan chronicle |
 | **Muntakhab-ut-Tawarikh** | Abdul Qadir Badauni | Mughal | Persian | Critical history |
+| **Alamgirnama** | Mirza Muhammad Kazim | Mughal | Persian | Aurangzeb reign chronicle |
 
 **Vernacular works (2019 Q88):**
 
@@ -141,7 +158,17 @@ D. Both true, R explains A
 | **Chandayan** | Mulla Daud | Awadhi/Hindavi |
 | **Padmavati Katha** | Damodar Kavi | — |
 | **Ashiqa** | Somnath | — |
+| **Padmavat** | **Malik Muhammad Jaisi** | Awadhi/Hindavi |
 | **Rag Vibodh** | Amir Khusrau | Persian/Hindi |
+
+**Regional Persian chronicles (2023 Q33):**
+
+| Book | Author (lock) | Region / subject |
+|------|---------------|------------------|
+| **Mirat-e-Sikandari** | Sikandar ibn Muhammad (**Manjhu**) | **Gujarat** Sultanate history |
+| **Burhan-e-Masir** | Sayyid Ali **Tabatabai** | **Bahmani** and **Ahmadnagar** (Nizam Shahi) |
+| **Riyaz-us-Salatin** | Ghulam Husain **Salim** | **Bengal** Muslim rule |
+| **Riyaz-ul-Insha** | Letters of **Mahmud Gawan** | Bahmani wazir's state correspondence |
 
 **Translation works:**
 
@@ -149,7 +176,10 @@ D. Both true, R explains A
 |------|-------------------|-------|
 | **Tutinama** | Khwaja Ziya-ud-din **Nakhshabi** | Persian translation of *Suka Saptati* (2022 Q43 — NOT Khusrau) |
 | **Razmnama** | Faizi/Naqib Khan team | Persian Mahabharata under Akbar |
+| **Ramayana (Persian)** | Abdul Qadir Badauni team | Akbar's kitabkhana translation |
+| **Atharva Veda (Persian)** | Akbar's translators | Part of imperial translation project |
 | **Baburnama (Persian)** | Abdur Rahim Khan-i-Khanan | Translated Babur's Turki memoir |
+| **Rajatarangini (Persian)** | Ziauddin **Nakhshabi** | Early Sultanate Sanskrit→Persian translation |
 
 ---
 
@@ -216,7 +246,10 @@ D. Humayunnama — Gulbadan Begum
 - **Nuh Sipihr (Nine Skies)** praises **India's climate, languages, and culture**, showing pride in Hindustan.
 - **Khaliq-e-Bari** contains early **Hindavi** devotional verses and marks the Hindi-Urdu literary synthesis.
 - **Rag Vibodh** is a music and raga treatise paired with Khusrau in **UPPCS 2019 Q88** (code 4).
-- **Miftah-ul-Futuh** is a historical masnavi on **Alauddin's** conquests.
+- **Miftah-ul-Futuh** records **Jalaluddin Khalji's** victories.
+- **Khazain-ul-Futuh** is Khusrau's Persian prose account of **Alauddin Khalji's** conquests and administration.
+- Khusrau created **Sabak-i-Hind** (Indian style) in Persian poetry and called himself **Tuti-e-Hind** (Parrot of India).
+- He was born at **Patiyali (Etah, UP)** — a direct UPPCS regional lock.
 - Khusrau's **Tughluq Nama** is a **poem** on Ghiyasuddin Tughlaq, distinct from Barani's prose **Tughlaqnama**.
 - Folklore attributes **sitar, tabla, qawwali, and tarana** to Khusrau, and exams accept his pioneer status.
 - Khusrau was **not Mughal**: he is not Tansen (Akbar's court), and he did not translate **Tutinama** (that was **Nakhshabi**, 2022 Q43).
@@ -277,6 +310,7 @@ D. Amir Khusrau
 
 - **Tarikh-i-Firoz Shahi** covers **Balban to early Firuz Shah** and is the primary source on **Alauddin Khalji's** market reforms, military system, and policies.
 - **Tughlaqnama** is a dedicated study of the **Tughlaq dynasty**, analysing **Muhammad bin Tughlaq's** token currency and Daulatabad transfer.
+- **Fatawa-i-Jahandari** is Barani's **political treatise** on kingship (**jahandari** = worldly rule), not a narrative chronicle — do not confuse with **Tarikh-i-Firoz Shahi**.
 - Barani's **Jahandari theory** treats the Sultanate as a **worldly state** balancing Sharia and political realism; **zawabit** (state laws) can override narrow Sharia.
 - Barani was **biased**, hostile to the **low-born Khalji rise**, and used a communal tone about Hindus, so his work must be read critically.
 - In **2019 Q16**, Tughlaqnama–Ibn Battuta is **wrong**, and Tarikh-i-Firozshahi–Shams-i-Siraj Alif is also **wrong** (the correct author is Barani).
@@ -297,6 +331,16 @@ D. Amir Khusrau
 - **Minhaj** came from the **Ghazni tradition** and wrote the earliest major Delhi Sultanate chronicle.
 - **Barani** is an eyewitness source for the mature Sultanate and is key for **Alauddin** administration questions (Topic 2 overlap).
 - Do not confuse **Tabaqat-i-Nasiri** (Minhaj) with **Tabaqat-i-Akbari**, which is a Mughal-period work.
+
+### Barani vs Afif — two Tarikh-i-Firoz Shahi (2019 Q16 trap)
+
+| Author | Work | Coverage |
+|--------|------|----------|
+| **Ziauddin Barani** | **Tarikh-i-Firoz Shahi** | **Balban** → early **Firuz Shah Tughlaq** |
+| **Shams-i-Siraj Afif** | **Tarikh-i-Firoz Shahi** | **Firuz Shah** → **end of Delhi Sultanate** |
+
+- UPPCS **2019 Q16** pairs Tarikh-i-Firozshahi with **Shams-i-Siraj Afif** — that is **wrong** for Barani's standard chronicle answer key, though Afif did write a later work with the same title.
+- Exam lock: when the option says **Barani**, choose Barani; when it says **Afif**, that is a deliberate distractor for Barani's book.
 
 ---
 
@@ -377,6 +421,89 @@ A. 2-1-4-3 | B. 3-2-1-4 | C. 2-3-1-4 | D. 2-4-3-1
 
 ---
 
+## 5.12 Regional Persian Chronicles (2023 Q33)
+
+**Exam weight:** ★★★ — UPPCS recycled this four-book match in **2023 Q33** and similar stems.
+
+| List-I (Book) | List-II (Context) | Author lock |
+|---------------|-------------------|-------------|
+| **Mirat-e-Sikandari** | **Gujarat** Sultanate / Muzaffar Shah victory (4) | Sikandar ibn Muhammad (**Manjhu**) |
+| **Burhan-e-Masir** | **Bahmani** and **Ahmadnagar** (Nizam Shahi) history (2) | Sayyid Ali **Tabatabai** |
+| **Riyaz-us-Salatin** | **Bengal** Muslim rule (1) | Ghulam Husain **Salim** |
+| **Riyaz-ul-Insha** | **Mahmud Gawan's** official letters (3) | Compiled from Bahmani wazir's correspondence |
+
+- **Mirat-e-Sikandari** describes the **Gujarat Sultanate** and the establishment of Muzaffar Shah's kingdom — not Delhi Sultanate history.
+- **Burhan-e-Masir** ("Proof of Destiny") covers the **Deccan**: **Bahmani** sultans and **Ahmadnagar** under the Nizam Shahi line.
+- **Riyaz-us-Salatin** is a **Bengal** chronicle from early Muslim rule through later periods — do not confuse with Gawan's letters.
+- **Riyaz-ul-Insha** preserves **Mahmud Gawan's** diplomatic and administrative letters — the best primary source on his reforms (Topic 3 overlap).
+- The two **Riyaz** titles are the classic swap trap: **-us-Salatin** = Bengal history; **-ul-Insha** = Gawan's letters.
+
+> **Exam note:** Correct code = **A (4-2-1-3)** in **2023 Q33**: Mirat–Gujarat | Burhan–Ahmadnagar | Salatin–Bengal | Insha–Gawan.
+
+### PYQ — Regional chronicle match (2023 Q33)
+
+
+**1. (UPPCS Prelims 2023, Q33)** Match List-I (Book) with List-II (Context):
+
+| List-I | List-II |
+|--------|---------|
+| A. Mirat-e-Sikandari | 1. History of Bengal |
+| B. Burhan-e-Masir | 2. History of Bahmani's Ahmad Nagar |
+| C. Riyaz-us-Salatin | 3. Collection of Mahmud Gawan's letters |
+| D. Riyaz-ul-Insha | 4. Victory of Gujarat |
+
+*Row order in the table is not the answer code.*
+
+A. 4 2 1 3 |
+
+B. 2 4 1 3 |
+
+C. 1 2 4 3 |
+
+D. 4 2 3 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (4-2-1-3)** — **UPPCS 2023 Q33**
+
+**Locks:** A–4 Mirat-e-Sikandari–Gujarat | B–2 Burhan-e-Masir–Ahmadnagar | C–1 Riyaz-us-Salatin–Bengal | D–3 Riyaz-ul-Insha–Gawan's letters
+
+**Trap:** Do not swap **Riyaz-us-Salatin** (Bengal) with **Riyaz-ul-Insha** (Gawan).
+
+</details>
+
+---
+
+## 5.13 Supplementary Works — Alberuni, Jaisi, Badauni, Isami
+
+### Arabic & early Indic contact
+
+- **Alberuni (Al-Biruni)** wrote **Kitab-ul-Hind** in **Arabic** after studying India under **Mahmud of Ghazni** — a scientific, comparative account of Indian religion, astronomy, and society.
+- It is a **Ghaznavid-era** source for early medieval India, not a Delhi Sultanate court chronicle.
+
+### Vernacular Awadhi line (UP angle)
+
+- **Malik Muhammad Jaisi** composed **Padmavat** in **Awadhi** (~16th century) — a Sufi-influenced romance of **Padmini/Ratan Sen**; highly UP-relevant.
+- **Padmavat** (Jaisi) is **not** the same as **Padmavati Katha** (Damodar Kavi) in the **2019 Q88** match list — a common title trap.
+- **Mulla Daud's Chandayan** is an early **Awadhi/Hindavi** love romance and belongs to the same vernacular stream as Jaisi.
+
+### Badauni — critical counter-history
+
+- **Abdul Qadir Badauni** secretly wrote **Muntakhab-ut-Tawarikh**, attacking Akbar's liberal policies, **sulh-i-kul**, and translation projects while serving at court.
+- He also led the Persian **Ramayana** translation team in Akbar's **kitabkhana** — official service alongside private criticism.
+- Pair Badauni with **hostile historiography**; pair **Abul Fazl** with official **Akbarnama** and **Ain-i-Akbari**.
+
+### Other coaching-map locks
+
+| Book | Author | Lock |
+|------|--------|------|
+| **Futuh-us-Salatin** | **Abdul Malik Isami** | Bahmani / Deccan history |
+| **Alamgirnama** | Mirza Muhammad Kazim | **Aurangzeb** reign chronicle |
+| **Fatwa-i-Firuz Shahi** | **Firuz Shah Tughlaq** | Sultan's own regulations — not Barani's Fatawa-i-Jahandari |
+
+---
+
 ## Consolidated Reference
 
 ### Master Book ↔ Author (raata all)
@@ -386,9 +513,14 @@ A. 2-1-4-3 | B. 3-2-1-4 | C. 2-3-1-4 | D. 2-4-3-1
 | Tabaqat-i-Nasiri | Minhaj-us-Siraj Juzjani |
 | Tarikh-i-Firoz Shahi | Ziauddin Barani |
 | Tughlaqnama | Ziauddin Barani |
+| Fatawa-i-Jahandari | Ziauddin Barani |
+| Tarikh-i-Firoz Shahi (later) | Shams-i-Siraj Afif |
 | Taj-ul-Maasir | Hasan Nizami |
+| Khazain-ul-Futuh / Miftah-ul-Futuh | Amir Khusrau |
 | Rag Vibodh / Khamsa | Amir Khusrau |
+| Kitab-ul-Hind | Alberuni |
 | Rihla | Ibn Battuta |
+| Padmavat | Malik Muhammad Jaisi |
 | Baburnama | Babur (Turki) |
 | Humayunnama | Gulbadan Begum |
 | Akbarnama | Abul Fazl |
@@ -396,7 +528,12 @@ A. 2-1-4-3 | B. 3-2-1-4 | C. 2-3-1-4 | D. 2-4-3-1
 | Tuzuk-i-Jahangiri | Jahangir |
 | Padshahnama | Abdul Hamid Lahori |
 | Muntakhab-ut-Tawarikh | Badauni |
+| Alamgirnama | Mirza Muhammad Kazim |
 | Tutinama | Nakhshabi |
+| Mirat-e-Sikandari | Manjhu (Gujarat) |
+| Burhan-e-Masir | Tabatabai (Ahmadnagar) |
+| Riyaz-us-Salatin | Salim (Bengal) |
+| Riyaz-ul-Insha | Mahmud Gawan's letters |
 
 ### Mughal Literary Deaths (2024 Q132 = B)
 
@@ -439,7 +576,7 @@ A. 2-1-4-3 | B. 3-2-1-4 | C. 2-3-1-4 | D. 2-4-3-1
 
 ## Practice Zone — UPPCS Format Drill
 
-> **40 questions** · answers in `<details>`
+> **43 questions** · answers in `<details>`
 
 **Q1.** Which is **NOT** correctly matched?
 
@@ -1211,6 +1348,66 @@ D. Disciple of Abul Fazl
 
 </details>
 
+**Q41.** Khazain-ul-Futuh was written by:
+
+A. Ziauddin Barani |
+
+B. Amir Khusrau |
+
+C. Ibn Battuta |
+
+D. Hasan Nizami
+
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** **Khazain-ul-Futuh** is Amir Khusrau's Persian account of **Alauddin Khalji's** conquests. **Miftah-ul-Futuh** covers **Jalaluddin Khalji**.
+
+**Trap:** **Barani** wrote **Tarikh-i-Firoz Shahi** and **Fatawa-i-Jahandari**, not Khusrau's victory chronicles.
+
+</details>
+
+**Q42.** Padmavat (Awadhi epic) was composed by:
+
+A. Damodar Kavi |
+
+B. Malik Muhammad Jaisi |
+
+C. Mulla Daud |
+
+D. Tulsidas
+
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** **Malik Muhammad Jaisi** wrote **Padmavat** in **Awadhi** (~16th c.) — a major UP literary lock.
+
+**Trap:** **Damodar Kavi** wrote **Padmavati Katha** in the **2019 Q88** list — not Jaisi's **Padmavat**.
+
+</details>
+
+**Q43.** Kitab-ul-Hind was written by:
+
+A. Amir Khusrau |
+
+B. Alberuni |
+
+C. Abul Fazl |
+
+D. Barani
+
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** **Alberuni (Al-Biruni)** wrote **Kitab-ul-Hind** in **Arabic** after studying India under **Mahmud of Ghazni**.
+
+**Trap:** Khusrau and Barani are **Delhi Sultanate Persian** authors — Alberuni belongs to the earlier **Ghaznavid** scientific tradition.
+
+</details>
+
 ---
 
 ## Complete PYQ Bank (Topic 5)
@@ -1363,3 +1560,8 @@ Options: A.4-2-1-3 | B.2-4-1-3 | C.1-2-4-3 | D.4-2-3-1
 13. **Tutinama** was **not** translated by Amir Khusrau; the translator was **Nakhshabi** (2022 Q43).
 14. In **2024 Q132**, the correct order is **3-2-1-4 (B)**, not 2-1-4-3.
 15. **Riyaz-us-Salatin** is Bengal history, while **Riyaz-ul-Insha** contains Gawan's letters (2023 Q33); do not swap them.
+16. **Khazain-ul-Futuh** (Alauddin) and **Miftah-ul-Futuh** (Jalaluddin) are both **Amir Khusrau** works — not Barani.
+17. **Fatawa-i-Jahandari** is Barani's **political theory** — not the same as **Tarikh-i-Firoz Shahi** narrative history.
+18. **Padmavat** (Jaisi) ≠ **Padmavati Katha** (Damodar Kavi) — different authors in vernacular match traps.
+19. **Kitab-ul-Hind** = **Alberuni** (Arabic, Ghaznavid era) — not a Delhi Sultanate court chronicle.
+20. **Shams-i-Siraj Afif** also wrote a **Tarikh-i-Firoz Shahi**, but UPPCS **2019 Q16** treats Afif pairing as wrong for Barani's standard chronicle lock.
