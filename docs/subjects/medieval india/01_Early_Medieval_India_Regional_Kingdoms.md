@@ -123,19 +123,57 @@ UP CITIES     Kannauj=Kanyakubja | Ayodhya=Saketa | Varanasi=Kashi/Avimukta | Ma
 
 ### PYQs — South dynasties (match)
 
-1. **(UPPCS Prelims 2019, Q90)** Match List-I (Ruling Dynasties) with List-II (Capitals): A. Pallava 1. Warangal; B. Pandya 2. Kanchi; C. Yadava 3. Madura; D. Kaktiya 4. Devagiri. Options: A. 2 1 4 3 | B. 2 3 4 1 | C. 1 2 3 4 | D. 2 4 3 1  
-   <details><summary>Show answer</summary>
+**1. (UPPCS Prelims 2019, Q90)** Match List-I (Ruling Dynasties) with List-II (Capitals):
 
-   **Ans: B (2 3 4 1)** — Pallava-Kanchi, Pandya-Madura, Yadava-Devagiri, Kakatiya-Warangal.
+| List-I | List-II |
+|--------|---------|
+| A. Pallava | 1. Warangal |
+| B. Pandya | 2. Kanchi |
+| C. Yadava | 3. Madura |
+| D. Kakatiya | 4. Devagiri |
 
-   </details>
+*Row order in the table is not the answer code.*
 
-2. **(UPPCS Prelims 2025, Q121)** Match List-I (Ruler) with List-II (Dynasty): A. Mahendravarman I; B. Kadungon; C. Amoghavarsha I; D. Rajaraja I || 1. Rashtrakuta; 2. Pallava; 3. Chola; 4. Pandya. Options: A. 4 2 3 1 | B. 2 4 1 3 | C. 2 4 3 1 | D. 4 2 1 3  
-   <details><summary>Show answer</summary>
+A. 2 1 4 3 |
 
-   **Ans: B (2 4 1 3)** — Mahendravarman-Pallava, Kadungon-Pandya, Amoghavarsha-Rashtrakuta, Rajaraja-Chola.
+B. 2 3 4 1 |
 
-   </details>
+C. 1 2 3 4 |
+
+D. 2 4 3 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (2 3 4 1)** — Pallava-Kanchi, Pandya-Madura, Yadava-Devagiri, Kakatiya-Warangal.
+
+</details>
+
+**2. (UPPCS Prelims 2025, Q121)** Match List-I (Ruler) with List-II (Dynasty):
+
+| List-I | List-II |
+|--------|---------|
+| A. Mahendravarman I | 1. Rashtrakuta |
+| B. Kadungon | 2. Pallava |
+| C. Amoghavarsha I | 3. Chola |
+| D. Rajaraja I | 4. Pandya |
+
+*Row order in the table is not the answer code.*
+
+A. 4 2 3 1 |
+
+B. 2 4 1 3 |
+
+C. 2 4 3 1 |
+
+D. 4 2 1 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (2 4 1 3)** — Mahendravarman-Pallava, Kadungon-Pandya, Amoghavarsha-Rashtrakuta, Rajaraja-Chola.
+
+</details>
 
 ### Pandya & Chera (exam locks)
 
@@ -164,12 +202,30 @@ UP CITIES     Kannauj=Kanyakubja | Ayodhya=Saketa | Varanasi=Kashi/Avimukta | Ma
 
 ### PYQ — Temple chronology (Pallava + Chola)
 
-1. **(UPPCS Prelims 2018, Q15)** Arrange temples chronologically: I. Brihdishwar temple; II. Gangaikonda cholapuram temple; III. Shore temple of Mahabalipuram; IV. Sapt pagoda. Options: A. I, II, IV, III | B. II, I, III, IV | C. III, II, I, IV | D. IV, III, I, II  
-   <details><summary>Show answer</summary>
+**1. (UPPCS Prelims 2018, Q15)** Arrange the following temples chronologically:
 
-   **Ans: D (IV, III, I, II)** — Sapt Pagoda & Shore (Pallava, Mahabalipuram) → Brihadishwara (**1010**, Rajaraja I) → Gangaikondacholapuram (~**1025**, Rajendra I). Never put Brihadishwara after Gangaikondacholapuram.
+I. Brihdishwar temple
 
-   </details>
+II. Gangaikonda cholapuram temple
+
+III. Shore temple of Mahabalipuram
+
+IV. Sapt pagoda
+
+A. I, II, IV, III |
+
+B. II, I, III, IV |
+
+C. III, II, I, IV |
+
+D. IV, III, I, II
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D (IV, III, I, II)** — Sapt Pagoda & Shore (Pallava, Mahabalipuram) → Brihadishwara (**1010**, Rajaraja I) → Gangaikondacholapuram (~**1025**, Rajendra I). Never put Brihadishwara after Gangaikondacholapuram.
+
+</details>
 
 ---
 
@@ -238,12 +294,26 @@ UP CITIES     Kannauj=Kanyakubja | Ayodhya=Saketa | Varanasi=Kashi/Avimukta | Ma
 
 ### PYQ — Chola sources
 
-1. **(UPPCS Prelims 2020, Q8)** Assertion (A): We have much more information about Cholas than their predecessors. Reason (R): The Chola rulers adopted the practice of having inscriptions written on the walls of temples giving a historical narrative of their victories. Options: A. Both true and R explains A | B. Both true, R not explanation | C. A true, R false | D. A false, R true  
-   <details><summary>Show answer</summary>
+**1. (UPPCS Prelims 2020, Q8)**
 
-   **Ans: A** — Temple-wall inscriptions (plus copper plates) explain the richer Chola record.
+**Assertion (A):** We have much more information about Cholas than their predecessors.
 
-   </details>
+**Reason (R):** The Chola rulers adopted the practice of having inscriptions written on the walls of temples giving a historical narrative of their victories.
+
+A. Both true and R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Temple-wall inscriptions (plus copper plates) explain the richer Chola record.
+
+</details>
 
 ---
 
@@ -386,12 +456,30 @@ UP CITIES     Kannauj=Kanyakubja | Ayodhya=Saketa | Varanasi=Kashi/Avimukta | Ma
 
 ### PYQ — Sena chronology
 
-1. **(UPPCS Prelims 2024, Q3)** Arrange Sen rulers ascending: 1. Ballal Sen 2. Lakshman Sen 3. Hemant Sen 4. Vijaya Sen. Options: A. 4, 3, 2, 1 | B. 2, 1, 4, 3 | C. 1, 2, 3, 4 | D. 3, 4, 1, 2  
-   <details><summary>Show answer</summary>
+**1. (UPPCS Prelims 2024, Q3)** Arrange the Sen rulers of Bengal in ascending order:
 
-   **Ans: D (3 4 1 2)** — Hemant → Vijaya → Ballal → Lakshman.
+1. Ballal Sen
 
-   </details>
+2. Lakshman Sen
+
+3. Hemant Sen
+
+4. Vijaya Sen
+
+A. 4, 3, 2, 1 |
+
+B. 2, 1, 4, 3 |
+
+C. 1, 2, 3, 4 |
+
+D. 3, 4, 1, 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D (3 4 1 2)** — Hemant → Vijaya → Ballal → Lakshman.
+
+</details>
 
 ---
 
@@ -500,12 +588,22 @@ UP CITIES     Kannauj=Kanyakubja | Ayodhya=Saketa | Varanasi=Kashi/Avimukta | Ma
 
 ### PYQ — NOT correctly matched
 
-1. **(UPPCS Prelims 2018, Q96)** Which pair is NOT correctly matched? State–Ruler: A. Devgiri–Shankar Dev | B. Warangal–Ramchandra Dev | C. Hoysal–Veer Ballal | D. Madura–Veer Pandya  
-   <details><summary>Show answer</summary>
+**1. (UPPCS Prelims 2018, Q96)** Which of the following pairs is **NOT** correctly matched (State–Ruler)?
 
-   **Ans: B** — Ramachandra was a **Yadava of Devagiri**, not a Warangal (Kakatiya) ruler.
+A. Devgiri–Shankar Dev |
 
-   </details>
+B. Warangal–Ramchandra Dev |
+
+C. Hoysal–Veer Ballal |
+
+D. Madura–Veer Pandya
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Ramachandra was a **Yadava of Devagiri**, not a Warangal (Kakatiya) ruler.
+
+</details>
 
 ---
 
@@ -1456,24 +1554,23 @@ D. 1-3-2
 
 **Q1. UPPCS Prelims 2025, Q121**
 
-Match List-I with List-II and choose the correct answer using the code given below.
+Match List-I (Ruler) with List-II (Dynasty):
 
-List-I (Ruler)  
-A. Mahendravarman I  
-B. Kadungon  
-C. Amoghavarsha I  
-D. Rajaraja I  
+| List-I | List-II |
+|--------|---------|
+| A. Mahendravarman I | 1. Rashtrakuta |
+| B. Kadungon | 2. Pallava |
+| C. Amoghavarsha I | 3. Chola |
+| D. Rajaraja I | 4. Pandya |
 
-List-II (Dynasty)  
-1. Rashtrakuta  
-2. Pallava  
-3. Chola  
-4. Pandya  
+*Row order in the table is not the answer code.*
 
-Options:  
-A. 4 2 3 1  
-B. 2 4 1 3  
-C. 2 4 3 1  
+A. 4 2 3 1 |
+
+B. 2 4 1 3 |
+
+C. 2 4 3 1 |
+
 D. 4 2 1 3  
 
 <details><summary>Show answer</summary>
@@ -1525,24 +1622,23 @@ D. (A) is false but (R) is true
 
 **Q4. UPPCS Prelims 2019, Q90**
 
-Match List-I with List-II and select the correct answer from the codes given below the lists:
+Match List-I (Ruling Dynasties) with List-II (Capitals):
 
-List-I (Ruling Dynasties)  
-A. Pallava  
-B. Pandya  
-C. Yadava  
-D. Kaktiya  
+| List-I | List-II |
+|--------|---------|
+| A. Pallava | 1. Warangal |
+| B. Pandya | 2. Kanchi |
+| C. Yadava | 3. Madura |
+| D. Kakatiya | 4. Devagiri |
 
-List-II (Capitals)  
-1. Warangal  
-2. Kanchi  
-3. Madura  
-4. Devagiri  
+*Row order in the table is not the answer code.*
 
-Options:  
-A. 2 1 4 3  
-B. 2 3 4 1  
-C. 1 2 3 4  
+A. 2 1 4 3 |
+
+B. 2 3 4 1 |
+
+C. 1 2 3 4 |
+
 D. 2 4 3 1  
 
 <details><summary>Show answer</summary>

@@ -100,14 +100,47 @@ PYQ LOCKS
 
 ### PYQ — Sharqi monuments
 
-1. **(UPPCS Prelims 2018, Q19)** NOT matched: A. Adina Masjid–Mandu | B. Lal Darwaza Masjid–Jaunpur | C. Dakhil Darwaza–Gaour | D. **Tin Darwaza–Ahmedabad**  
-   <details><summary>Show answer</summary>
+**1. (UPPCS Prelims 2018, Q19)** Which of the following pairs is **NOT** correctly matched (Monument–Place)?
 
-   **Ans: D** — Tin Darwaza = Bidar (Deccan).
+A. Adina Masjid–Mandu |
 
-   </details>
+B. Lal Darwaza Masjid–Jaunpur |
 
-2. **(UPPCS Prelims 2019, Q91)** Arrange: I.Rabia Daurani Tomb II.Sher Shah Tomb III.Humayun Tomb IV.Atala Mosque Jaunpur → **B (IV, II, III, I)**
+C. Dakhil Darwaza–Gaour |
+
+D. Tin Darwaza–Ahmedabad
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D** — Tin Darwaza = Bidar (Deccan).
+
+</details>
+
+**2. (UPPCS Prelims 2019, Q91)** Arrange the following in chronological order:
+
+I. Rabia Daurani Tomb
+
+II. Sher Shah Tomb
+
+III. Humayun Tomb
+
+IV. Atala Mosque Jaunpur
+
+A. I, II, IV, III |
+
+B. IV, II, III, I |
+
+C. III, II, I, IV |
+
+D. IV, III, I, II
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (IV, II, III, I)**
+
+</details>
 
 ---
 
@@ -147,12 +180,22 @@ PYQ LOCKS
 
 ### PYQ — Kashmir
 
-1. **(UPPCS Prelims 2023, Q36)** Which ruler of Kashmir abolished Jaziya and cow slaughter? Options: A. Shamsuddin Shah | B. Sikandar Shah | C. **Zain-ul-Abidin** | D. Haider Shah  
-   <details><summary>Show answer</summary>
+**1. (UPPCS Prelims 2023, Q36)** Which ruler of Kashmir abolished **Jaziya** and **cow slaughter**?
 
-   **Ans: C** — Bud Shah; reversed Sikandar Shah's policies.
+A. Shamsuddin Shah |
 
-   </details>
+B. Sikandar Shah |
+
+C. Zain-ul-Abidin |
+
+D. Haider Shah
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Bud Shah; reversed Sikandar Shah's policies.
+
+</details>
 
 ---
 
@@ -287,12 +330,31 @@ PYQ LOCKS
 
 ### PYQ — Books match
 
-1. **(UPPCS Prelims 2023, Q33)** Match books A.Mirat-e-Sikandari B.Burhan-e-Masir C.Riyaz-us-Salatin D.Riyaz-ul-Insha with 1.Bengal 2.Ahmadnagar 3.Gawan's letters 4.Gujarat victory. Options: A.4-2-1-3 | B.2-4-1-3 | C.1-2-4-3 | D.4-2-3-1  
-   <details><summary>Show answer</summary>
+**1. (UPPCS Prelims 2023, Q33)** Match List-I (Book) with List-II (Context):
 
-   **Ans: A (4-2-1-3)**
+| List-I | List-II |
+|--------|---------|
+| A. Mirat-e-Sikandari | 1. Bengal |
+| B. Burhan-e-Masir | 2. Ahmadnagar |
+| C. Riyaz-us-Salatin | 3. Gawan's letters |
+| D. Riyaz-ul-Insha | 4. Gujarat victory |
 
-   </details>
+*Row order in the table is not the answer code.*
+
+A. 4-2-1-3 |
+
+B. 2-4-1-3 |
+
+C. 1-2-4-3 |
+
+D. 4-2-3-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (4-2-1-3)**
+
+</details>
 
 ---
 
@@ -1124,7 +1186,16 @@ D. Akbar II
 
 **Q5. UPPCS Prelims 2023, Q33**
 
-Match List-I (Book) / List-II (Context): A. Mirat-e-Sikandari | B. Burhan-e-Masir | C. Riyaz-us-Salatin | D. Riyaz-ul-Insha — 1. Bengal | 2. Ahmadnagar | 3. Gawan's letters | 4. Gujarat victory
+Match List-I (Book) with List-II (Context):
+
+| List-I | List-II |
+|--------|---------|
+| A. Mirat-e-Sikandari | 1. Bengal |
+| B. Burhan-e-Masir | 2. Ahmadnagar |
+| C. Riyaz-us-Salatin | 3. Gawan's letters |
+| D. Riyaz-ul-Insha | 4. Gujarat victory |
+
+*Row order in the table is not the answer code.*
 
 A. 4-2-1-3 |
 

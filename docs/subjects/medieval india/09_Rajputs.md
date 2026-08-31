@@ -651,10 +651,22 @@ D. Founding Udaipur
 
 **Q1. UPPCS Prelims 2021, Q118**
 
-Which is NOT correctly matched? (Ruler)–(State)  
-A. Rana Hamir – Mewar | B. Rana Chunda – Marwar | C. Malik Raja Farooqi – Khandesh | D. Malik Sarwar – Malwa Khwaja Jahan
+Which is **NOT** correctly matched (Ruler–State)?
 
-<details><summary>Show answer</summary>**Ans: B** — Rana Chunda is Mewar; Marwar uses **Rao** Chunda. (Malik Sarwar is also Jaunpur, not Malwa — extra trap.)</details>
+A. Rana Hamir – Mewar |
+
+B. Rana Chunda – Marwar |
+
+C. Malik Raja Farooqi – Khandesh |
+
+D. Malik Sarwar – Malwa Khwaja Jahan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B** — Rana Chunda is Mewar; Marwar uses **Rao** Chunda. (Malik Sarwar is also Jaunpur, not Malwa — extra trap.)
+
+</details>
 
 **Q2. UPPCS Prelims 2022, Q59**
 

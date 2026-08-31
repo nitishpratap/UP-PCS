@@ -98,12 +98,26 @@ Qutub Minar Aibak start/Iltutmish finish | Alai Darwaza Alauddin 1311
 
 ### PYQ — Turkish invasions A/R
 
-1. **(UPPCS Prelims 2018, Q14)** Assertion (A): Turkish invasions of India were successful. Reason (R): There was no political unity in North India. Options: A. Both true, R explains A | B. Both true, R not explanation | C. A true, R false | D. A false, R true  
-   <details><summary>Show answer</summary>
+**1. (UPPCS Prelims 2018, Q14)**
 
-   **Ans: A** — Post-Pratihara fragmentation prevented coordinated Rajput defence.
+**Assertion (A):** Turkish invasions of India were successful.
 
-   </details>
+**Reason (R):** There was no political unity in North India.
+
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A** — Post-Pratihara fragmentation prevented coordinated Rajput defence.
+
+</details>
 
 ---
 
@@ -150,12 +164,26 @@ Qutub Minar Aibak start/Iltutmish finish | Alai Darwaza Alauddin 1311
 
 ### PYQ — Khalsa vs Jagir
 
-1. **(UPPCS Prelims 2025, Q95)** Assertion (A): Sultanate territories divided into Khalsa and Jagirs. Reason (R): Jagirs comprised land under direct control of the State. Options: A. Both true, R not explanation | B. A false, R true | C. A true, R false | D. Both true, R explains A  
-   <details><summary>Show answer</summary>
+**1. (UPPCS Prelims 2025, Q95)**
 
-   **Ans: C** — Khalsa = crown/direct; Jagirs/Iqtas = assigned to nobles.
+**Assertion (A):** Sultanate territories divided into Khalsa and Jagirs.
 
-   </details>
+**Reason (R):** Jagirs comprised land under direct control of the State.
+
+A. Both true, R not explanation |
+
+B. A false, R true |
+
+C. A true, R false |
+
+D. Both true, R explains A
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Khalsa = crown/direct; Jagirs/Iqtas = assigned to nobles.
+
+</details>
 
 ---
 
@@ -198,12 +226,26 @@ Qutub Minar Aibak start/Iltutmish finish | Alai Darwaza Alauddin 1311
 
 ### PYQ — Balban A/R
 
-1. **(UPPCS Prelims 2024, Q150)** Assertion (A): Balban made his government firm and centralised all authority. Reason (R): He wanted to protect the north-west frontier against Mongol invasions. Options: A. Both true, R explains A | B. A false, R true | C. Both true, R not explanation | D. A true, R false  
-   <details><summary>Show answer</summary>
+**1. (UPPCS Prelims 2024, Q150)**
 
-   **Ans: C** — Centralisation crushed Chahalgani; Mongol defence was parallel policy.
+**Assertion (A):** Balban made his government firm and centralised all authority.
 
-   </details>
+**Reason (R):** He wanted to protect the north-west frontier against Mongol invasions.
+
+A. Both true, R explains A |
+
+B. A false, R true |
+
+C. Both true, R not explanation |
+
+D. A true, R false
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Centralisation crushed Chahalgani; Mongol defence was parallel policy.
+
+</details>
 
 ---
 
@@ -246,19 +288,55 @@ Qutub Minar Aibak start/Iltutmish finish | Alai Darwaza Alauddin 1311
 
 ### PYQs — Alauddin chronology
 
-1. **(UPPCS Prelims 2022, Q59)** Arrange: 1.Ranthambor 2.Gujarat 3.Warangal 4.Chittor. Options: A.2-1-3-4 | B.2-1-4-3 | C.2-4-3-1 | D.1-2-3-4  
-   <details><summary>Show answer</summary>
+**1. (UPPCS Prelims 2022, Q59)** Arrange Alauddin Khalji's conquests in chronological order:
 
-   **Ans: B (2-1-4-3)** — Gujarat → Ranthambor → Chittor → Warangal.
+1. Ranthambor
 
-   </details>
+2. Gujarat
 
-2. **(UPPCS Prelims 2025, Q30)** Arrange: 1.Ranthambore 2.Jaisalmer 3.Warangal 4.Chittor. Options: A.1-2-3-4 | B.2-1-4-3 | C.2-1-3-4 | D.1-2-4-3  
-   <details><summary>Show answer</summary>
+3. Warangal
 
-   **Ans: B (2-1-4-3)** — Jaisalmer → Ranthambore → Chittor → Warangal.
+4. Chittor
 
-   </details>
+A. 2-1-3-4 |
+
+B. 2-1-4-3 |
+
+C. 2-4-3-1 |
+
+D. 1-2-3-4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (2-1-4-3)** — Gujarat → Ranthambor → Chittor → Warangal.
+
+</details>
+
+**2. (UPPCS Prelims 2025, Q30)** Arrange Alauddin Khalji's victories in chronological order:
+
+1. Ranthambore
+
+2. Jaisalmer
+
+3. Warangal
+
+4. Chittor
+
+A. 1-2-3-4 |
+
+B. 2-1-4-3 |
+
+C. 2-1-3-4 |
+
+D. 1-2-4-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (2-1-4-3)** — Jaisalmer → Ranthambore → Chittor → Warangal.
+
+</details>
 
 ---
 
@@ -292,12 +370,22 @@ Qutub Minar Aibak start/Iltutmish finish | Alai Darwaza Alauddin 1311
 
 ### PYQs — Tughlaq literature & Firoz
 
-1. **(UPPCS Prelims 2019, Q16)** NOT matched: A. Tabaqat-i-Nasiri–Minhaj | B. Tarikh-i-Firozshahi–Shams-i-Siruj-Alif | C. **Tughlaqnama–Ibn Battuta** | D. Humayunnama–Gulbadan.  
-   <details><summary>Show answer</summary>
+**1. (UPPCS Prelims 2019, Q16)** Which of the following pairs is **NOT** correctly matched (Book–Author)?
 
-   **Ans: C** — Tughlaqnama by **Ziauddin Barani**; Ibn Battuta wrote **Rihla**.
+A. Tabaqat-i-Nasiri–Minhaj |
 
-   </details>
+B. Tarikh-i-Firozshahi–Shams-i-Siruj-Alif |
+
+C. Tughlaqnama–Ibn Battuta |
+
+D. Humayunnama–Gulbadan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Tughlaqnama by **Ziauddin Barani**; Ibn Battuta wrote **Rihla**.
+
+</details>
 
 2. **(UPPCS Prelims 2023, Q37)** Who translated 300 Sanskrit volumes collected by Firoz Shah at Nagarkot? → **Mulla Abdul Baqi**
 
@@ -369,12 +457,25 @@ Qutub Minar Aibak start/Iltutmish finish | Alai Darwaza Alauddin 1311
 
 ### PYQ — Administration match
 
-1. **(UPPCS Prelims 2020, Q38)** Match Diwan-i-Tan, Mustarfi, Mushrif, Vakianvis with duties. Options include B. **3-4-1-2**  
-   <details><summary>Show answer</summary>
+**1. (UPPCS Prelims 2020, Q38)** Match List-I (Officer) with List-II (Duty):
 
-   **Ans: B (3-4-1-2)** — Tan=salaries; Mustarfi=audit; Mushrif=records; Vakianvis=firmans.
+| List-I | List-II |
+|--------|---------|
+| A. Diwan-i-Tan | 1. Records |
+| B. Mustarfi | 2. Firmans list |
+| C. Mushrif | 3. Salaries |
+| D. Vakianvis | 4. Audit |
 
-   </details>
+*Row order in the table is not the answer code.*
+
+Options include **B. 3-4-1-2**
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (3-4-1-2)** — Tan=salaries; Mustarfi=audit; Mushrif=records; Vakianvis=firmans.
+
+</details>
 
 ---
 
@@ -399,12 +500,22 @@ Qutub Minar Aibak start/Iltutmish finish | Alai Darwaza Alauddin 1311
 
 ### PYQ — Iqta
 
-1. **(UPPCS Prelims 2019, Q15)** Which is NOT characteristic of Iqta? A. Revenue collection system B. Siyasatnama source C. **Revenue directly deposited in Sultan's account** D. Muqti maintains troops  
-   <details><summary>Show answer</summary>
+**1. (UPPCS Prelims 2019, Q15)** Which of the following is **NOT** a characteristic of the Iqta System?
 
-   **Ans: C** — Iqta revenue to Muqti first; not direct to Sultan.
+A. Iqta was a revenue collection system |
 
-   </details>
+B. Siyasatnama was the source of information for the Iqta System |
+
+C. Revenue from Iqta was directly deposited in the Sultan's account |
+
+D. Muqti was supported to maintain troops out of the revenue collected from Iqta
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C** — Iqta revenue to Muqti first; not direct to Sultan.
+
+</details>
 
 ---
 
@@ -450,12 +561,31 @@ Qutub Minar Aibak start/Iltutmish finish | Alai Darwaza Alauddin 1311
 
 ### PYQ — Architecture match
 
-1. **(UPPCS Prelims 2022, Q4)** Match buildings A.Sultan Garhi B.Red Palace C.Jamat Khana D.Dhai Din Ka Jhopra with builders 1.Alauddin 2.Aibak 3.Iltutmish 4.Balban. Options: A.3-4-1-2 | B.3-4-2-1 | C.4-3-1-2 | D.4-3-2-1  
-   <details><summary>Show answer</summary>
+**1. (UPPCS Prelims 2022, Q4)** Match List-I (Building) with List-II (Builder):
 
-   **Ans: A (3-4-1-2)**
+| List-I | List-II |
+|--------|---------|
+| A. Sultan Garhi | 1. Alauddin |
+| B. Red Palace | 2. Aibak |
+| C. Jamat Khana | 3. Iltutmish |
+| D. Dhai Din Ka Jhopra | 4. Balban |
 
-   </details>
+*Row order in the table is not the answer code.*
+
+A. 3-4-1-2 |
+
+B. 3-4-2-1 |
+
+C. 4-3-1-2 |
+
+D. 4-3-2-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (3-4-1-2)**
+
+</details>
 
 ---
 
@@ -1357,15 +1487,23 @@ D. 1, 2, 3, 4
 
 **Q7. UPPCS Prelims 2022, Q4**
 
-Match List-I with List-II and select the correct answer from the code given below.
+Match List-I (Building) with List-II (Builder):
 
-List-I (Building): A. Sultan Garhi | B. Red Palace | C. Jamat Khana Masjid | D. Dhai Din Ka Jhopra  
-List-II (Builder): 1. Alauddin Khilji | 2. Qutbuddin Aibak | 3. Iltutmish | 4. Balban  
+| List-I | List-II |
+|--------|---------|
+| A. Sultan Garhi | 1. Alauddin Khilji |
+| B. Red Palace | 2. Qutbuddin Aibak |
+| C. Jamat Khana Masjid | 3. Iltutmish |
+| D. Dhai Din Ka Jhopra | 4. Balban |
 
-Options:  
-A. 3, 4, 1, 2  
-B. 3, 4, 2, 1  
-C. 4, 3, 1, 2  
+*Row order in the table is not the answer code.*
+
+A. 3, 4, 1, 2 |
+
+B. 3, 4, 2, 1 |
+
+C. 4, 3, 1, 2 |
+
 D. 4, 3, 2, 1  
 
 <details><summary>Show answer</summary>

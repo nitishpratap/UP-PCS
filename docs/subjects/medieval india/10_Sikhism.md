@@ -692,9 +692,16 @@ D. Tegh Bahadur 1606 → Arjan 1675
 
 **Q1. UPPCS Prelims 2025, Q12**
 
-Match List-I (Disciple) with List-II (Guru):  
-A. Kabir | B. Amir Khusrau | C. Surdas | D. Mardana  
-1. Guru Nanak Dev | 2. Swami Ramananda | 3. Nizamuddin Auliya | 4. Vallabhacharya
+Match List-I (Disciple) with List-II (Guru):
+
+| List-I | List-II |
+|--------|---------|
+| A. Kabir | 1. Guru Nanak Dev |
+| B. Amir Khusrau | 2. Swami Ramananda |
+| C. Surdas | 3. Nizamuddin Auliya |
+| D. Mardana | 4. Vallabhacharya |
+
+*Row order in the table is not the answer code.*
 
 A. 3 2 4 1 |
 
@@ -704,7 +711,12 @@ C. 2 3 4 1 |
 
 D. 2 3 1 4
 
-<details><summary>Show answer</summary>**Ans: C (2-3-4-1)** — Mardana → Guru Nanak Dev.</details>
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (2-3-4-1)** — Mardana → Guru Nanak Dev.
+
+</details>
 
 **Q2. UPPCS Prelims 2025, Q74**
 
