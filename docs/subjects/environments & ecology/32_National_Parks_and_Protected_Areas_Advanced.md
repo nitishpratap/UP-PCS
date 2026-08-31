@@ -50,16 +50,6 @@ NATURAL WH (NP overlap): Kaziranga, Keoladeo, Manas, Sundarbans,
 | **Yellowstone / Corbett** | World first 1872 / India first 1936 |
 | **Gulf of Kutch** | India’s first Marine NP |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **UP = 1 + 25** | One NP, many WLS |
-| **Sultanpur = Haryana** | Gurugram trap |
-| **D-4 K-2 K-1 P-3** | 2025 Q90 codes |
-| **Marine FIRST = Kutch** | Not Sundarbans / Mannar |
-| **1872 → 1936** | Yellowstone then Corbett |
-
 ---
 
 ## 32.1 National Parks of Uttar Pradesh

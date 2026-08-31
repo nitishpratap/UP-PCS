@@ -62,17 +62,6 @@ TRAP: 2019 Q88 matched Amir Khusrau–Rag Vibodh in a literary list;
 | Akbar vs Muhammad Shah music | Dhrupad peak (Tansen) vs Khayal/Tappa later bloom | अकबर / मुहम्मद शाह |
 | Tabla vs Pakhawaj | Khayal/thumri accompaniment vs dhrupad drum | तबला / पखावज |
 
-### Memory tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **Bhata before Akbar** | 2019 Q89: Tansen patron = Raja Ramchandra of **Bhata** |
-| **Tappa = Rangeela** | Muhammad Shah Rangeela refined Tappa (2023 Q38) |
-| **P-S-S-V texts** | **P**undrik–Ragamala; **S**ri Kantha–Rasa Kaumudi; **S**omanath–Raga Vibodh; **V**enkatraman–Chaturdandi |
-| **3-4-1-2** | 2021 Q22 code for the four music texts |
-| **Dhrupad = Pakhawaj** | Never pair dhrupad with tabla as primary drum |
-| **Khusrau ≠ Akbar** | Khusrau died 1325; Tansen lived under Akbar (~16th c.) |
-
 ---
 
 ## 6.1 Medieval Music — Overview

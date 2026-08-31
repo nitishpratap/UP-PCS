@@ -76,21 +76,6 @@ CITRUS world belt = Mediterranean, not equatorial (2020)
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **Tea on the slope · wheat on the plain** | Tea = plantation MCQ; grains ≠ plantation |
-| **Coffee 2016: Brazil → Vietnam → Colombia → Indonesia** | Freeze the paper year |
-| **Cocoa = West Africa · Latvia = trap** | Côte d’Ivoire + Ghana + Cameroon |
-| **Kinta = tin · Kerala = rubber · Wickham = Amazon → SE Asia** | Rubber story |
-| **Ladang–MY · milpa–MX · roca–BR · jhum–NE · chena–SL · caingin–PH** | Shifting names |
-| **China fills the bowl · Thailand/Vietnam/Canada fill the ship** | Producer ≠ exporter |
-| **Five Med west coasts** | Citrus / vine / olive |
-| **USA–Brazil–Argentina = soy** | Export triangle |
-| **India milk volume · NZ dairy export** | Do not swap |
-| **Thünen = rings · Whittlesey = world types** | Two different maps |
-
 ---
 
 ## N.0 Framework — World Agriculture

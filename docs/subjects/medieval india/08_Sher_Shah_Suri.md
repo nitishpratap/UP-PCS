@@ -76,17 +76,6 @@ Islam Shah (Jalal Khan) 1545–1553 | Humayun returns 1555
 | Sasaram vs Kalinjar | Birth + tomb vs death siege 1545 | सासाराम / कालिंजर |
 | Marwar vs Mewar (Jayata–Kumpa) | Rathore Maldeo vs Sisodia Pratap/Sanga | मारवाड़ / मेवाड़ |
 
-### Memory tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **CK 39-40** | Chausa then Kannauj |
-| **Jarib = rope** | 2019 Q87 D is the NOT-matched |
-| **JK-MM** | Jayata–Kumpa = Maldeo’s **Marwar** |
-| **A-S-H-R tombs** | Atala → Sher Shah → Humayun → Rabia = IV-II-III-I |
-| **SP path** | Sonargaon → Peshawar |
-| **5-year wonder** | 1540–45, lasting reforms |
-
 ---
 
 ## 8.1 Life, Rise, Reign

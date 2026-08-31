@@ -109,25 +109,6 @@ UP: Sonbhadra energy capital | Shankargarh silica → Firozabad glass | Chunar�
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **East of Mangalore–Kanpur** | Most major minerals lie **east** of this line |
-| **Chota Nagpur = India’s Ruhr** | Richest mineral belt (iron, coal, Mn, bauxite, mica, Cu, Cr) |
-| **G-B-N-K** | Gurumahisani **OD** · Bailadila **CG** · Noamundi **JH** · Kudremukh **KA** |
-| **Four coal valleys** | Damodar · Son · Mahanadi · Godavari (~**97%** reserves) |
-| **Mine name locks** | Khetri **Cu** · Panna **diamond** · Zawar **Zn–Pb** · Sukinda **Cr** · Jaduguda **U** |
-| **World traps** | Mount Newman = **iron** · Postmasburg = **Mn** · Ruhr = **Germany** · Kashagan = **Kazakhstan** · Pegu Yoma = **oil** |
-| **Gas vs LPG** | Methane = NG/CNG · LPG = propane/butane |
-| **Steel quartet** | Bhilai **CG** · Rourkela **OD** · Bokaro **JH** · Durgapur **WB** |
-| **Power mix** | Shivanasamudra = **hydel** · Kalpakkam = **nuclear** · Diu = solar UT · Khambhat = tidal |
-| **Sonbhadra** | UP **energy capital** (thermal + Renukoot Al + limestone) |
-| **Belt shorthand** | NE Peninsular = richest · Central (CG–MP–TG–AP–MH) · SW = ferrous/bauxite · NW Aravalli = Cu–Zn–mica–oil–salt · Himalaya/Assam = Tertiary coal + oil |
-| **Four iron belts** | OD–JH · Durg–Bastar–Chandrapur · Ballari–Chitradurga belt · MH–Goa |
-| **Plains empty** | Northern alluvium ≈ no economic ores |
-| **Cotton first cluster** | Deccan cotton + humidity + Mumbai port → MH–GJ; later decentralise |
-
 ---
 
 ## N.0 Framework (map first)

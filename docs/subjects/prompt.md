@@ -109,7 +109,7 @@ That stack is why notes become unreadable. **One teaching home = the Act bullet 
 | PYQ Bank = full (protocol unchanged) | Skipping PYQs to “save length” — **forbidden** |
 | CA block only when topic needs recent facts | Random CA dump unrelated to syllabus |
 
-**Canonical length anti-pattern:** `subjects/polity/01_Constitutional_Development.md` (pre-rewrite) — huge Quick Revision + Must-Know + Memory Tricks + per-Act Definitions/How It Works/Exam Facts/Examples/PYQs stacks repeating the same chronology. **Never generate that shape again.**
+**Canonical length anti-pattern:** `subjects/polity/01_Constitutional_Development.md` (pre-rewrite) — huge Quick Revision + Must-Know + per-Act Definitions/How It Works/Exam Facts/Examples/PYQs stacks repeating the same chronology. **Never generate that shape again.**
 
 ---
 
@@ -397,9 +397,6 @@ Constitutional Development | Regulating Act 1773 | … (every bullet)
 
 ### Must-Know Term Comparisons
 [Term A | Term B | Core difference | Hindi] — only exam-confused pairs
-
-### Memory Tricks
-[Only tricks that lock PYQ traps — skip filler mnemonics]
 
 ---
 
@@ -872,7 +869,6 @@ Phase C — POST-AUDIT
 | Header (Revision Sheet framing + covers syllabus + weight + verified) | **Yes** |
 | Quick Revision Box | **Yes** |
 | Must-Know Term Comparisons + Hindi | **Yes** if ≥3 confused pairs; else skip |
-| Memory Tricks | **Optional** — only PYQ-useful |
 | N.X compact teach + Exam note + PYQs | **Yes** |
 | Consolidated Reference (deduped) | **Yes** if shared lists remain |
 | Current Affairs (if needed) | When R9 triggers; else omit |

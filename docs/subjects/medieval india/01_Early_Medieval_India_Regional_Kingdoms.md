@@ -57,17 +57,6 @@ UP CITIES     Kannauj=Kanyakubja | Ayodhya=Saketa | Varanasi=Kashi/Avimukta | Ma
 | Shore Temple | Brihadishwara | Pallava Mahabalipuram ~7th vs Chola Rajaraja **1010** Tanjore | शोर मंदिर / बृहदीश्वर |
 | Adivaraha | Gangaikondachola | Mihir Bhoja (Pratihara) vs Rajendra I (Chola) | आदिवराह / गंगैकोंडचोल |
 
-### Memory tricks (PYQ locks only)
-
-| Trick | Remembers |
-|-------|-----------|
-| **Ma-Ka-Am-Ra** | 2025 Q121: Mahendravarman-Pallava, Kadungon-Pandya, Amoghavarsha-Rashtrakuta, Rajaraja-Chola |
-| **H-V-B-L** | Sena order 2024: Hemant → Vijaya → Ballal → Lakshman |
-| **Shore → Big → Bigger** | Shore → Brihadishwara (1010) → Gangaikondacholapuram (~1025) |
-| **K-W-D-M** | 2019 capitals: Kanchi-Pallava, Warangal-Kakatiya, Devagiri-Yadava, Madura-Pandya |
-| **Two Bhojas** | Mihir Bhoja = Pratihara; Bhoja I = Paramara |
-| **Vatapikonda** | Narasimhavarman I took Vatapi **642** |
-
 ---
 
 ## 1.1 Early Medieval India

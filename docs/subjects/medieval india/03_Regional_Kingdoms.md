@@ -71,17 +71,6 @@ PYQ LOCKS
 | Kitab-i-Nauras vs Amuktamalyada | Ibrahim Adil Shah II (Bijapur) vs Krishnadevaraya (Telugu) | किताब-ए-नौरस / अमुक्तमाल्यद |
 | Nayankara vs Iqta | Vijayanagara nayaka grants vs Delhi Sultanate muqti | नायककारा / इक्ता |
 
-### Memory tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **M-S-M-H Sharqi** | Malik Sarwar → Shamsuddin Ibrahim → Mahmud → Hussain |
-| **H-B-K-A Vijayanagara** | Harihara (Sangama) → Bukka line → Krishnadeva (Tuluva) → Aravidu |
-| **B-G-A-B-Q Deccan five** | Bijapur, Golkonda, Ahmadnagar, Bidar, Berar |
-| **Zain = Zero jaziya** | Zain-ul-Abidin abolished jaziya (2023 Q36) |
-| **1565 = 4 vs 1** | Four Deccan sultanates unite → Rama Raya dies |
-| **1687 Qutb last** | Abul Hasan Qutb Shah when Aurangzeb took Golkonda |
-
 ---
 
 ## 3.1 Sharqi Sultanate (Jaunpur)

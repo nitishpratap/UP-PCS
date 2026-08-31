@@ -46,15 +46,6 @@ TRAPS: Montreal = ozone | SO₂ heavier than air | CO₂ alone ≠ severe acid r
 | **Gothenburg / Montreal** | Acidifying pollutants / ozone ODS |
 | **Taj Trapezium** | Pollution-control belt around Taj |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **5.6 line** | Below = acid rain; at ≈5.6 = normal |
-| **S → sulphuric; N → nitric** | SO₂ / NOx |
-| **Taj = gypsum crust** | Marble + acid |
-| **Montreal ≠ acid** | Gothenburg/CLRTAP |
-
 ---
 
 ## 39.1 Acid Rain

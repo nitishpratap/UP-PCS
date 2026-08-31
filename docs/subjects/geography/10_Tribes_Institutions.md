@@ -79,20 +79,6 @@ INSTITUTIONS:
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **Art. 342** | ST lists are **state/UT-wise**; same name may not be ST everywhere |
-| **75 PVTG** | Dhebar PTG (1973) → PVTG (2006); Odisha has the most communities |
-| **Tharu = Terai** | UP northern belt; Buksa + Raji = UP **PVTG** |
-| **Rengma ≠ islands** | Rengma = **Nagaland**; Andaman natives are the six island tribes |
-| **Khasi = Meghalaya** | Matriliny with Garo/Jaintia; not Arunachal |
-| **Toda = TN · Birhor = JH** | Classic NOT-matched traps |
-| **Masai = East Africa** | Not West Africa |
-| **IMD & ICAR = Delhi** | IVRI = Bareilly · NDRI = Karnal · FRI = Dehradun |
-| **NDRI ≠ NDDB** | Karnal dairy **lab** vs Anand cooperative **board** / Operation Flood |
-
 ---
 
 ## N.0 Framework (map first)

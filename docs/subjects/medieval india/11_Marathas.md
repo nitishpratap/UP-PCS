@@ -68,17 +68,6 @@ NOT Panipat I (1526) or II (1556) | NOT Shivaji (dead 1680)
 | Sambhaji vs Shahu | Executed 1689 vs released 1707, Peshwa rise | सम्भाजी / शाहू |
 | Sikh Khalsa vs Chauth | 1699 Panth vs Maratha 25% levy | खालसा / चौथ |
 
-### Memory tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **Chauth = quarter** | 2018 Q93 = B, not Sardeshmukhi |
-| **V-B-B-M** | Vishwanath → Bajirao I → Balaji Bajirao → Madhav (2025 C) |
-| **Madhav before Narayan** | 2023 Q35 = D |
-| **Raghoba last of the four** | 2024 Q1 = A (after Narayan) |
-| **74–80** | Coronation 1674, death 1680 |
-| **1761 not 1680** | Panipat III is Peshwa-era |
-
 ---
 
 ## 11.1 Maratha Empire — Phases

@@ -88,22 +88,6 @@ EARTH SYSTEM: lithosphere · atmosphere · hydrosphere · biosphere interact
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **Ozone = stratosphere** | Weather = troposphere |
-| **El Niño = warm Peru = less fish** | Upwelling fails → plankton fall |
-| **SH Coriolis = left** | NH = right; zero at equator |
-| **Jets = westerlies** | TEJ = summer easterly exception |
-| **Kyoto climate · Montreal ozone** | Do not swap |
-| **Kilimanjaro = Africa rift** | Not Pacific Ring of Fire |
-| **15° = 1 hour · 82°30′ E = IST** | Mirzapur meridian |
-| **Kant–Laplace · Hoyle · Gamow** | Nebular · Steady State · Big Bang |
-| **Venus hot · Jupiter big · Ganymede moon** | Asteroids = Mars–Jupiter |
-| **Roaring Forties = 40°S** | Stromboli = Mediterranean lighthouse |
-| **Gutenberg = S-waves stop** | Outer core is liquid |
-
 ---
 
 ## N.0 Framework — Earth as a System
@@ -595,7 +579,6 @@ D. 4, 3, 2, 1
 
 **Ans: B** — Rainier–USA; Etna–Italy; Paricutin–Mexico; Apo–Philippines.
 </details>
-
 
 ---
 

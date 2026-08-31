@@ -43,16 +43,6 @@ TRAPS:
 | **IUCN / WWF** | Assessment union / conservation NGO |
 | **UNESCO / UNEP** | Heritage–education–MAB / environment coordination |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **Nairobi = UNEP** | Not Geneva |
-| **Gland twins** | IUCN + WWF |
-| **Rome = FAO** | Food + forests |
-| **Paris = UNESCO** | WH + MAB |
-| **Gap = UNEP** | Emissions Gap Report |
-
 ---
 
 ## 42.1 UNEP

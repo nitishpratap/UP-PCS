@@ -78,18 +78,6 @@ TRAPS: Agenda 21 = 1992 NOT 1995 | Brundtland ≠ Limits to Growth
 | **Circular economy** | Waste eliminated through reuse/recycle design loops | परिपत्र अर्थव्यवस्था |
 | **LiFE Mission** | India 2022 programme for pro-planet lifestyles | LiFE मिशन |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **Brunt-87, Rio-92, SDG-15-30** | Timeline chain |
-| **Limits ≠ Brundtland** | 1972 Club of Rome vs 1987 WCED |
-| **Agenda 21 = 21st century at Rio 92** | Not 1995 |
-| **LiFE at 26, launch 22** | COP26 idea → June 2022 launch |
-| **SDG 6 = H₂O** | Clean Water and Sanitation |
-| **UP Planning = SDG report** | 2025 Q111 |
-| **3 Pillars = E-S-E** | Economic, Social, Environmental |
-
 ---
 
 ## 15.1 Sustainable Development

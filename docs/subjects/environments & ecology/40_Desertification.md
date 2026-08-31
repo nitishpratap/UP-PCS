@@ -47,16 +47,6 @@ UNCCD 1994 | 17 June Desertification & Drought Day | LDN 2030 (SDG 15.3)
 | **UNCCD / UNFCCC** | Desertification 1994 / climate treaty |
 | **LDN** | No net loss of healthy land by 2030 |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **ASDM** | Arid–Semi-arid–Dry sub-humid |
-| **Sheet → Ravine** | Severity ladder |
-| **17 June** | Desertification & Drought Day |
-| **Bundelkhand 7** | Jhansi, Lalitpur, Jalaun, Hamirpur, Mahoba, Banda, Chitrakoot |
-| **Chambal = 3 states** | MP–UP–Rajasthan |
-
 ---
 
 ## 40.1 Desertification

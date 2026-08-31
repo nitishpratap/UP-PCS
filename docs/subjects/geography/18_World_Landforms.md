@@ -71,21 +71,6 @@ CLIMATE: Med = winter rain, 30–45° W coasts | summer = dry subtropical high /
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **Kilimanjaro is African** | Fuji / Pinatubo / St Helens = Pacific Ring of Fire |
-| **Pyrenees = Spain–France · Italy = Apennine · Bulgaria = Balkan** | 2024 country–range match |
-| **Gobi = Mongolia + China only** | Not Russia / Kazakhstan |
-| **Gibson = Australia · Pampas = Argentina** | Not Brazil |
-| **Maquis–Med · Fynbos–Cape · Chaparral–California · Matorral–Chile** | West-coast shrub names |
-| **Selva = forest · Terra Roxa = soil** | Both Brazil |
-| **Mediterranean = winter rain · Savanna = Land of Big Games** | Climate traps |
-| **Pamir = Roof phrase · Tibet = highest large plateau** | Do not swap |
-| **West coast + cold current = hot desert** | Atacama / Namib logic |
-| **Prairie–Steppe–Pampas–Veld–Downs** | Temperate grassland local names |
-
 ---
 
 ## N.0 Framework — World Landforms & Natural Regions

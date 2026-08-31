@@ -71,17 +71,6 @@ Saadat Khan 1722 founder → Safdar Jung → Shuja-ud-Daula (Panipat III / Buxar
 | 1608 vs 1611 | Hawkins arrives vs trap year on 2023 Q31 | 1608 / 1611 |
 | Awadh 1722 vs annex 1856 | Nawabi start vs Dalhousie end | 1722 / 1856 |
 
-### Memory tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **F-H-D-R** | Fitch → Hawkins → Downton → Roe = 2021 A |
-| **08 not 11** | Hawkins came **1608** (2023 Q31 = B) |
-| **1748 both true** | War ended + Madras returned (2025 C) |
-| **Goa 15-10** | Albuquerque 1510 |
-| **Saadat 22** | Awadh Nawabi 1722 |
-| **1856 first in Q127** | Awadh before Indigo |
-
 ---
 
 ## 12.1 European companies — frame

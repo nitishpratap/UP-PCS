@@ -72,18 +72,6 @@ TRAPS: DPAP ≠ 1952 | Eye ≠ strongest winds | Landslides not purely natural
 | **Agricultural drought** | Soil moisture insufficient for crops | कृषि सूखा |
 | **NDMA** | Apex disaster policy body — PM is Chair | NDMA |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **CDP-52, DPAP-73, FWP-77, TRYSEM-79** | Q134 chronology |
-| **Bay = cyclone nursery** | Bay of Bengal > Arabian Sea |
-| **Eye calm, wall wild** | Eye vs eyewall |
-| **Bundelkhand 7** | Jhansi, Lalitpur, Jalaun, Banda, Hamirpur, Mahoba, Chitrakoot |
-| **Sendai 2015** | UN disaster risk reduction framework |
-| **Piral Lao = Pine out** | Uttarakhand pine-needle fire campaign |
-| **Kedarnath 2013** | Cloudburst–landslide–flood |
-
 ---
 
 ## 23.1 Floods

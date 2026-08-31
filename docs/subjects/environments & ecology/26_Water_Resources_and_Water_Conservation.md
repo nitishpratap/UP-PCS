@@ -71,16 +71,6 @@ TRAPS: Rivers ≠ second after oceans | CGWB ≠ CPCB | JJM = 2019 not 2014
 | **CPCB** | Surface water/air pollution standards | CPCB |
 | **Jal Jeevan Mission** | Rural household tap water (2019) | जल जीवन मिशन |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **O-I-G-R** | Oceans → Ice → Groundwater → Rivers |
-| **CGWB = Ground** | Groundwater report = CGWB |
-| **GAP-85, Namami-14, JJM-19** | Scheme chronology |
-| **Gomti-Lucknow, Ganga-Kanpur** | UP river-city pairs |
-| **2 Feb Wetlands** | World Wetlands Day |
-
 ---
 
 ## 26.1 Water Resources

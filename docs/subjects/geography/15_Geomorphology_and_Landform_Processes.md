@@ -84,23 +84,6 @@ COAST: Cliff–platform–stack | Spit, bar, tombolo, lagoon | Coral: fringing, 
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **Folds → trellis** | Homogeneous rock → dendritic |
-| **Mississippi → bird’s-foot** | Nile / Ganga → arcuate |
-| **Cauvery → moribund** | Dying / abandoned lobe |
-| **Imphal = lacustrine** | Not loess / glacial |
-| **Limestone → marble · Sandstone → quartzite · Granite → gneiss · Shale → slate** | Metamorphic pairs |
-| **Barchan horns follow the wind** | Point downwind |
-| **Stalactite holds tight to the ceiling** | Stalagmite grows from the floor |
-| **Youth V · Mature meander · Old ox-bow** | Davis fluvial stages |
-| **Fault-valley paper = Damodar** | Chambal = ravines |
-| **Sill sleeps with beds · dyke cuts them** | Concordant vs discordant |
-| **Concave cuts · convex builds** | Meander cliff vs point bar |
-| **Endogenic inside · Exogenic outside** | Build vs wear the land |
-
 ---
 
 ## N.0 Framework — Geomorphic Processes

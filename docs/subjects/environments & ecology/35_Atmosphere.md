@@ -45,16 +45,6 @@ OZONE MAX = STRATOSPHERE (NOT troposphere) — 2018 Q52, Q57; 2023 Q52
 | **Homosphere / Heterosphere** | Well-mixed to ~80 km / gases separate by mass |
 | **Insolation / Terrestrial radiation** | Incoming shortwave / outgoing longwave |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **T-S-M-T-E** | Layer order bottom to top |
-| **Ozone = Stratosphere** | Never troposphere |
-| **Meteors = Mesosphere** | M–M |
-| **78–21–1** | N₂–O₂–rest |
-| **Heat from ground up** | Longwave from surface |
-
 ---
 
 ## 35.1 Structure of the Atmosphere

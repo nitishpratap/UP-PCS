@@ -68,17 +68,6 @@ TRAPS:
 | **BDA 2002** | Biodiversity — NBA, BMC, ABS | BDA 2002 |
 | **Consent vs EC** | SPCB consent (Water/Air) ≠ MoEFCC EC (EPA) | अनुमति vs मंजूरी |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **72-74-80-81-86** | Main act chronology |
-| **Bhopal 84 → EPA 86** | Disaster gap |
-| **FCA = Forest Cut Approval** | Diversion control |
-| **FRA = Forest Rights Assignment** | 2006 tribal rights |
-| **Schedule I = Important** | Top protection |
-| **Schedule V = Vermin** | Hunting allowed |
-
 ---
 
 ## 17.1 Environmental Law (Constitutional Framework)

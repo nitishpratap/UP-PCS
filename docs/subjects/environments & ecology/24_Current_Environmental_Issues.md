@@ -78,19 +78,6 @@ TRAPS: LiFE = COP26 not COP-25 | MISHTI = 2023 not 2019
 | **LiFE Mission** | Pro-planet lifestyle behaviour change programme | LiFE |
 | **Green Credit** | India 2023 eco-action incentive — not same as carbon credit | ग्रीन क्रेडिट |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **LiFE at 26, launch 22** | COP**26** idea → **June 2022** launch |
-| **1 credit = 1 tonne** | One carbon credit = **1 tCO₂e** |
-| **2070 India Zero** | Net zero at COP26 |
-| **5 mm micro** | Microplastics size threshold |
-| **Gap = UNEP** | Emissions Gap Report |
-| **Kyoto = Trade** | Carbon market origin |
-| **Blue = SDG 14** | Life Below Water |
-| **MISHTI = 23** | Budget 2023–24 mangroves |
-
 ---
 
 ## 24.1 Microplastics

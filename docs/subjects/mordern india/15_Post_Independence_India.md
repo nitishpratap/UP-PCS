@@ -73,19 +73,6 @@ PC Mar 1950 extra-constitutional | “Economic Cabinet” Ashok Chanda  ← 2018
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **Patel picked, Menon merged** | Integration duo — **Sardar Patel** (political will) + **V.P. Menon** (legal drafting) |
-| **Vote, fight, sign under fire** | Three princely routes — Junagadh **plebiscite**, Hyderabad **Police Action**, J&K **IoA amid invasion** |
-| **French say yes, Portuguese say no** | Chandernagore/Pondicherry joined by **referendum** (1949/1954); Goa needed **Operation Vijay** (1961) |
-| **Two dates for one enclave group** | Pondicherry group: **de facto 1954**, **de jure only 1962** — the ratification lagged 8 years |
-| **Fazl Ali chairs, Panikkar and Kunzru sit** | SRC trio — **not** K.T. Shah, **not** Sitaramayya (he sits on **JVP**) |
-| **Mahalanobis builds steel, Mayer builds a village** | 2nd Plan = heavy industry; 1st Plan = CDP/agriculture (Etawah blueprint) |
-| **PC is a resolution, not an Article** | Planning Commission is extra-constitutional (Cabinet resolution, 1950); **Article 280 is the Finance Commission** |
-| **NITI nudges, PC funded** | NITI Aayog (2015) is a think-tank; the old PC allocated Plan money |
-
 ---
 
 ## 15.1 Post-Independence overview

@@ -59,18 +59,6 @@ TRAPS: BSI≠animals | ZSI≠plants | FRI≠ISFR | NBA≠Delhi | PBR≠NBA
 | **ISFR** | India State of Forest Report — FSI, biennial | भारत वन स्थिति रिपोर्ट |
 | **PBR** | People's Biodiversity Register — local knowledge | जन जैव विविधता रजिस्टर |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **K-K-D-D-C-N** | Kolkata BSI/ZSI; Dehradun FSI/FRI/WII; Chennai NBA; New Delhi NBPGR |
-| **BSI = Botany** | Plants |
-| **ZSI = Zoo** | Animals |
-| **FSI = Forest Survey = ISFR** | Mapping report |
-| **FRI = Research** | Not ISFR |
-| **BMC = PBR** | Local register |
-| **Bahraich trap** | Terai name ≠ >20% cover |
-
 ---
 
 ## 28.1 Botanical Survey of India (BSI)

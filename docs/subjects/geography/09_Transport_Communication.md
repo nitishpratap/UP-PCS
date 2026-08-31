@@ -75,21 +75,6 @@ UP: no major seaport | NER Gorakhpur | NW-1 | Purvanchal passes Mau | Kushinagar
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **NER–SER–ECR** | NER = **Gorakhpur** · SER = **Garden Reach** · ECR = **Hajipur** |
-| **GQ four metros** | Delhi · Mumbai · Chennai · Kolkata |
-| **Bharat / Sagar** | Bharatmala = **roads** · Sagarmala = **ports** |
-| **Gati 2021** | PM Gati Shakti National Master Plan = **13 Oct 2021** |
-| **NW ladder** | NW-1 Ganga Haldia–Prayagraj · NW-2 Brahmaputra Dhubri–Sadiya · NW-3 Kerala canal · NW-4 Kakinada–Puducherry · NW-5 Talcher–Dhamra |
-| **P-T-K-A ports** | Paradip **OD** · Tuticorin **TN** · Kakinada **AP** · Alappuzha **KL** |
-| **Kushinagar + Cochin** | UP intl **2020** · first solar airport **Cochin** |
-| **Amrit 149** | **149 UP stations** identified for modernisation (Feb 2023), not 149 new lines |
-| **Fibre = TIR** | Optical fibre = **total internal reflection** |
-| **No UP seaport** | UP identity = rail HQ + NW-1 + expressways + airports |
-
 ---
 
 ## N.0 Framework (map first)

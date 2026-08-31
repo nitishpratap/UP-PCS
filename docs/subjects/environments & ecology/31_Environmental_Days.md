@@ -50,16 +50,6 @@ INDIA HOST WED: 2011 Forests | 2018 Beat Plastic Pollution
 | **World Environment Day** | **5 June** | Stockholm opening 1972 |
 | **World Ozone Day** | **16 September** | Montreal Protocol 1987 |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **2–3–21–22 March ladder** | Wetlands Feb → Wildlife → Forests → Water |
-| **22 Apr / 22 May pair** | Earth then Biodiversity |
-| **5 June = Stockholm** | WED ≠ any "22" day |
-| **16 Sep = Montreal** | Ozone Day |
-| **Wildlife ≠ Water** | 3 Mar vs 22 Mar |
-
 ---
 
 ## 31.1 World Environment Day

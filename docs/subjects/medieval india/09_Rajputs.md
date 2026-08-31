@@ -64,16 +64,6 @@ Malik Sarwar = Jaunpur, not Malwa | Rao Jodha founded Jodhpur 1459
 | Vijay Stambha vs Kirti Stambha | Kumbha’s victory tower vs older Jain tower, both at Chittor | विजय स्तम्भ / कीर्ति स्तम्भ |
 | Alauddin’s Chittor vs Akbar’s | 1303 vs 1567–68 | अलाउद्दीन / अकबर |
 
-### Memory tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **S27 P76** | Sanga 1527 / Pratap 1576 |
-| **RC ≠ M** | Rana Chunda is not Marwar |
-| **Man = Mughal** | Man Singh commanded Haldighati |
-| **GRCW** | Gujarat → Ranthambore → Chittor → Warangal |
-| **JK-MM** | Jayata–Kumpa = Maldeo’s Marwar |
-
 ---
 
 ## 9.1 Rajput Warriors

@@ -80,23 +80,6 @@ Ripon 1882 = Father of local self-government; real transfer waits for 1919 dyarc
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **Mercantile → Free → Finance** | 1813 ends the trade monopoly; 1858 opens the finance-capital/Drain phase |
-| **Munsiff small, Sadar final** | Civil ladder climbs Munsiff → Registrar → District Judge → Provincial Appeal → Sadar Diwani Adalat |
-| **Same judge, two hats** | The District (Diwani) Judge also sat as criminal Magistrate under Cornwallis |
-| **Thana under the Magistrate** | Zamindar's police power was taken away; the daroga answers to the District Magistrate, 1793 |
-| **Haileybury trains, 1853 opens** | Nomination + Company college until the Charter Act ends patronage |
-| **Tagore breaks the door, 1863** | Satyendranath Tagore = first Indian ICS; the Delhi/Allahabad exam runs only from 1922 |
-| **5% whatever happens** | The railway guarantee paid British investors from Indian revenue even at a loss |
-| **Agency manages, capital is Indian** | Managing agents (Bird, Yule) ran companies raised largely on Indian money |
-| **Nij is the planter's, ryoti is the peasant's** | Indigo cultivation splits this way; ryoti peasants were trapped by dadan advances |
-| **Lytton holds back, Strachey writes the Code** | 1876–78 relief was cut to the bone; the Famine Code follows in the 1880s |
-| **1770 / 1876 / 1943** | A Dual-Government famine, a laissez-faire famine, and a wartime famine — three different causes |
-| **Ripon plants, 1919 transfers** | The 1882 Resolution only asks; the Montford dyarchy actually hands local bodies to Indian ministers |
-
 ---
 
 ## 4.0 One clear picture — three phases of colonial economic policy

@@ -74,21 +74,6 @@ BHOJPURI:
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **"Bankim's novel, Savarkar's history"** | *Anandamath* (1882, fiction) vs *The Indian War of Independence* (1909, history) — both use 1857-adjacent material differently |
-| **"Mayo attacks, Lajpat replies"** | *Mother India* (1927, hostile) is answered by *Unhappy India* (Lajpat Rai) |
-| **"1901 drain, 1909 dialogue, 1936 destroy"** | Naoroji's *Poverty…* (1901) → Gandhi's *Hind Swaraj* (1909) → Ambedkar's *Annihilation of Caste* (1936) |
-| **"Discovery ≠ Toward Freedom"** | Both Nehru; *Discovery of India* (1946) is history, *Toward Freedom* is autobiography |
-| **"Tilak has two books, not one"** | *Gita Rahasya* (nationalist ethics) and *Arctic Home in the Vedas* (Vedic geography) — never merge them |
-| **"Phule enslaves the metaphor, Ambedkar destroys the system"** | *Gulamgiri* (1873, slavery comparison) vs *Annihilation of Caste* (1936, abolition argument) |
-| **"Prasad divides, Ambedkar partitions, Collins narrates"** | *India Divided* (Rajendra Prasad) vs *Pakistan or the Partition of India* (Ambedkar) vs *Freedom at Midnight* (Collins & Lapierre) |
-| **"Curzon looks East, Hardinge looks back on his years"** | *Problems of the Far East* (Curzon) vs *My Indian Years* (Hardinge) |
-| **"Firangiya is Sinha's, Bidesiya is Thakur's"** | Do not swap the 1921 Bhojpuri poem with Thakur's migrant folk-drama |
-| **"Savarkar's Mandalay-year book fixes 1909"** | *The Indian War of Independence* published **1909**, same publication decade as *Hind Swaraj* |
-
 ---
 
 ## 10.0 One clear picture — sorting the books by type

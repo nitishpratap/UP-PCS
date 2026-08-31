@@ -57,20 +57,6 @@ EDUCATION 2018 Q21: Wood 1854 → Hunter 1882 → Sadler 1917 → Sargeant 1944 
 
 ---
 
-## Memory Tricks — for vault matching
-
-| Trick | Remembers |
-|-------|-----------|
-| **Tilak never chaired, only wrote** | Tilak = **never** INC President; his home is *Kesari*/*Mahratta* and the birthright slogan |
-| **Besant first, Sarojini first-Indian** | 1917 Besant = first woman President; 1925 Sarojini = first **Indian** woman President |
-| **Two Hunters, two jobs** | Hunter **1882** = education; Hunter **1919** = Jallianwala inquiry |
-| **Chandernagore alone, Pondicherry with three friends** | Chandernagore → West Bengal (1954); Pondicherry + Karaikal + Mahe + Yanam → own UT (1962) |
-| **Red Fort tried, Gwalior did not** | INA trials = **Red Fort**, Delhi; Gwalior is a 1857/Lakshmibai site, not an INA court |
-| **Shahjahanpur gave two to Kakori** | **Bismil** and **Ashfaqullah** both born in Shahjahanpur, UP |
-| **One Rani, one look-alike** | **Lakshmibai** fought at Jhansi; **Jhalkari Bai**, a Dalit soldier, resembled her in the same battle |
-| **Cripps came alone, Cabinet came in three** | Cripps Mission (1942) = solo; Cabinet Mission (1946) = Pethick-Lawrence + Cripps + Alexander |
-| **Savarkar's society, not Bhagat Singh's** | **Abhinav Bharat** = Savarkar; **HSRA** = Bhagat Singh/Azad |
-
 ---
 
 ## 16.1 Slogans and who gave them

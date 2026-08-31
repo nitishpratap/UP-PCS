@@ -59,17 +59,6 @@ Wetlands Day 2 Feb | Ozone Day 16 Sept | Brundtland 1987 | Rio/Agenda 21 = 1992
 | **Internal environment** | Conditions inside organism (physiology) | आंतरिक पर्यावरण |
 | **External environment** | Conditions outside organism (ecology default) | बाह्य पर्यावरण |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **L-H-A-B** | Four spheres |
-| **Art 48A = "A" for Administration (State)** | DPSP environment duty |
-| **Art 51A(g) = "G" for Ground citizen duty** | Fundamental Duty |
-| **Lentic = Lazy (standing)** / **Lotic = Lively (flowing)** | Aquatic classification |
-| **WED 5 June** | Stockholm opened 5 June 1972 |
-| **MoEFCC 1985** | Ministry formed in '85, not 1972 |
-
 ---
 
 ## 1.1 Environment – Meaning

@@ -46,16 +46,6 @@ UP: Terai = richest habitat | State animal = Barasingha | State bird = Sarus cra
 | **In-situ** | Conservation in **natural habitat** | स्थानिक संरक्षण |
 | **Ex-situ** | Conservation **outside** natural habitat | पारजी संरक्षण |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **H-N-E** | **H**abitat = Place \| **N**iche = Role \| **E**cosystem = System |
-| **BSI = Botany** | **B**otanical Survey = **P**lants |
-| **ZSI = Zoology** | **Z**oological Survey = **A**nimals |
-| **MISHTI 2023** | Budget **2023–24**, not 2019 |
-| **Masai = East** | Kenya/Tanzania, not West Africa |
-
 ---
 
 ## 5.1 Habitat

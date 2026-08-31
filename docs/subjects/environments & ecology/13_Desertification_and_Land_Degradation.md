@@ -65,19 +65,6 @@ TRAPS: Desertification ≠ desert expansion only | Afforestation PREVENTS degrad
 | **UNCCD** | 1994 treaty to combat desertification | UNCCD |
 | **LDN** | SDG 15.3 — no net loss of healthy land by 2030 | भू-क्षरण तटस्थता |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **ASDM** | Arid, Semi-Arid, Dry Sub-Humid |
-| **Sheet → Ravine** | Erosion severity ladder |
-| **17 June** | Desertification and Drought Day |
-| **UNCCD 1994** | Rio 1992 → convention 2 years later |
-| **Chambal = 3 states** | MP + UP + Rajasthan |
-| **Bundelkhand 7 UP** | Jhansi, Lalitpur, Jalaun, Hamirpur, Mahoba, Banda, Chitrakoot |
-| **~30% India** | ISRO Atlas 2016 |
-| **Afforestation = friend** | NOT a degradation cause |
-
 ---
 
 ## 13.1 Desertification

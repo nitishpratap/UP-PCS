@@ -73,20 +73,6 @@ FRAMEWORK: DM Act 2005 | NPDM 2009 | NDMA chair = PM | SDMA = CM | DDMA = DM
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **PM · CM · DM** | NDMA · SDMA · DDMA chairs |
-| **Zone V belt** | NE + Himalaya pockets + Kutch + Andaman |
-| **Latur · Koyna · Bhuj** | Peninsula · dam RIS · 26 Jan 2001 |
-| **100 mm / 1 hour** | IMD cloudburst cut |
-| **BoB > Arabian** | More cyclones; May–Jun and Oct–Dec peaks |
-| **Baguio–PH · Hurricane–USA · Typhoon–E Asia · Willy–AU** | Local cyclone names |
-| **Sendai 15–30** | After Hyogo 05–15 |
-| **Hazard × Vulnerability** | Risk rises when capacity is low |
-| **Mitigation before · Response during** | DM cycle order |
-
 ---
 
 ## N.0 Framework — Hazard, Vulnerability, Risk & DM Cycle

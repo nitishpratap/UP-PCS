@@ -83,21 +83,6 @@ IRON export: Australia Pilbara + Brazil Carajás | China mines and still imports
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **Coal four: Appalachian–USA · Lancashire–England · Ruhr–Germany · Kuzbass–Russia** | 2025 match lock |
-| **Newman = iron (Pilbara) · Donetsk = coal (Ukraine)** | Field–country |
-| **Kinta = tin · Pegu = oil · Kashagan = Kazakhstan** | SE Asia + Caspian traps |
-| **Chile: copper Andes · iodine Atacama** | Two Chile locks |
-| **Methane = gas/CNG · propane = LPG cylinder** | Gas chemistry |
-| **Newman iron · Weipa bauxite · Postmasburg Mn · Witwatersrand gold** | Ore place names |
-| **OPEC + IAEA = Vienna · different jobs** | HQ trap |
-| **Lithium Triangle = Chile–Argentina–Bolivia** | Not Brazil |
-| **REE processing = China · cobalt = DRC** | Critical minerals |
-| **Shields = metals · basins = oil/coal** | Geology map logic |
-
 ---
 
 ## N.0 Framework — World Minerals & Energy

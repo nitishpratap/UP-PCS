@@ -49,16 +49,6 @@ TRAPS: Chipko ≠ Appiko state | Silent Valley ≠ Tamil Nadu
 | **Narmada Bachao** | MP, GJ, MH | **1985+** | Anti-large dam displacement |
 | **Save Western Ghats** | Multi-state | **2011+** | Gadgil/Kasturirangan politics |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **B→C→S→J→A→N→W** | Chronology 1730→1973→1970s→1982→1983→1985→2011 |
-| **Appiko = Kannada embrace** | Karnataka only |
-| **1730 before 1973** | Bishnoi older than Chipko |
-| **Medha = Narmada** | Not Bahuguna |
-| **Silent = Kerala** | Not TN |
-
 ---
 
 ## 29.1 Chipko Movement

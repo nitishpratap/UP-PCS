@@ -63,20 +63,6 @@ HEAT: troposphere heated by LONG-WAVE terrestrial (not short-wave) | lapse ~6.5 
 | Bora | Chinook | Adriatic **cold** vs Rockies **warm dry** | बोरा / चिनूक |
 | Harmattan | Khamsin | West Africa dust vs Egypt heat | हरमट्टन / खामसिन |
 
-### Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **TN dry in SW, wet in NE** | 2023 Q54 |
-| **WD from the West, rain fades East** | 2019 Q83 |
-| **Winter NW = WD, not monsoon** | 2021 Q36 |
-| **Thornthwaite talks vegetation** | 2018 Q25 |
-| **El Niño = less fish, not more** | 2023 Q67 |
-| **Jets are westerly; TEJ is the easterly exception** | 2024 Q60 |
-| **Shamal Arabia, Mistral France** | 2021 Q30 / 2019 Q80 |
-| **Heat from below = long-wave** | 2022 Q138 |
-| **Snow shines most** | albedo 2021 Q66 |
-
 ---
 
 ![img_6.png](../img_6.png)

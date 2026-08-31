@@ -72,21 +72,6 @@ Read as: **this** is correct · **that** is the usual wrong option.
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **New Orleans = Mississippi** | Missouri joins at **St Louis** |
-| **Mekong = SE · delta Vietnam** | Not SW; not Cambodia |
-| **Rio Grande = US–Mexico** | Colorado ≠ that border MCQ |
-| **Onega = Russia · Michigan = USA only** | Great Lakes shared except Michigan |
-| **Budapest–Danube · Cologne–Rhine · Cairo–Nile · Paris–Seine · London–Thames** | City–river pairs |
-| **Three Gorges–Yangtze · Aswan–Nile · Itaipu–Paraná · Hoover–Colorado** | Dam locks |
-| **Super Man Helps Every One** | Superior · Michigan · Huron · Erie · Ontario (W→E) |
-| **Nile longest · Amazon discharge · Congo deepest + 2× Equator** | Superlative trio |
-| **Caspian biggest · Superior fresh area · Baikal deep/volume** | Lake superlatives |
-| **Angel highest · Victoria = Zambezi** | Falls traps |
-
 ---
 
 ## N.0 Framework — World Rivers & Lakes

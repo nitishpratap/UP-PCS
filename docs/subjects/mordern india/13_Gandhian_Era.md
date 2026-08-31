@@ -91,24 +91,6 @@ CHRONOLOGY:
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **Tinkathia Bihar, revenue Gujarat** | Champaran 1917 indigo vs Kheda 1918 revenue |
-| **Rowlatt writes, Dyer fires** | 1919 no-trial Act vs 13 April firing at Jallianwala |
-| **Tagore's title, Nair's chair** | Tagore returned his knighthood; Sankaran Nair quit the Executive Council |
-| **Two Hunters, sixty years apart** | Hunter Committee 1919 = Jallianwala inquiry; Hunter Commission 1882 = education review |
-| **Gaya splits the house** | Dec 1922 Congress session → No-changers stay out, Pro-changers go in |
-| **Das and Motilal open the door; Vithalbhai runs the house** | Swaraj Party 1923 = council entry; Vithalbhai Patel became CLA President |
-| **Simon in '27, on the ground in '28** | Appointed November 1927; toured India in 1928 |
-| **Motilal's dominion, Jawahar's Purna** | Nehru Report 1928 = Dominion (father); Lahore 1929 = Purna Swaraj (son) |
-| **Eleven before the walk to the sea** | Gandhi's Eleven Points, January 1930, came just before Dandi, March 1930 |
-| **Irwin talks in March, RTC follows** | Gandhi–Irwin Pact, 5 Mar 1931, before the 2nd RTC (Sep–Dec 1931) |
-| **Award separates, Pact reserves** | Communal Award = separate electorates; Poona Pact = joint electorates + reserved seats |
-| **Khadi, huts and hygiene** | Constructive Programme = village industries + sanitation + Nai Talim — a building programme, not a protest |
-| **August offers, October withdraws in ones** | August Offer 1940 rejected → Individual Satyagraha Oct 1940, one person at a time |
-
 ---
 
 ## 13.0 One Clear Picture — Phases of the Gandhian Era

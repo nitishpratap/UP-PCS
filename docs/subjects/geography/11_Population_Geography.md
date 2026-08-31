@@ -79,24 +79,6 @@ UP districts (2011): Prayagraj most populous | Ghaziabad densest | Jaunpur high 
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **1872 / 1881 / 1921 / 2011** | First non-sync · first sync · Great Divide · 15th / 7th after Independence |
-| **382 · 943 · 919 · 74.04 · 31.16** | Density · SR · CSR · literacy · urban % (Census 2011) |
-| **Bihar dense · Arunachal empty** | Highest / lowest **state** density |
-| **Bihar–WB–Kerala–UP** | High-density state ladder awareness after Bihar |
-| **UP biggest · Sikkim smallest** | Most populous / least populous state |
-| **Haryana CSR** | Lowest child sex ratio in **both** rural and urban |
-| **TFR ≠ CBR** | TFR is children **per woman**; CBR is births **per thousand** |
-| **Natural ≠ induced** | Natural = births−deaths; induced = migration |
-| **Dividend 15–59** | Not 60+ and not 0–6 |
-| **Jains urban** | Most urbanised religion |
-| **Kanpur 1971 · Lucknow 1981** | UP’s first and second million-city years |
-| **Shrawasti floor** | Lowest female literacy district in UP |
-| **16.6 / 8.6** | SC % / ST % (Census 2011 composition) |
-
 ---
 
 ## N.0 Framework (UPSC / NCERT map first)

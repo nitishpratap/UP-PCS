@@ -70,19 +70,6 @@ REGIONAL: Justice Party 1916 Madras — both 2024 Q13 statements true
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **April in Poona, September in Madras** | Tilak's League = **April 1916, Poona**; Besant's League = **September 1916, Madras/Adyar** |
-| **Bombay city sides with Besant** | The one area both leagues could have shared instead went to **Besant**, not Tilak |
-| **Pact before Declaration** | **Lucknow Pact (Dec 1916)** is a Congress–League seat deal; **Montagu Declaration (20 Aug 1917)** is the British government's own promise |
-| **Besant built the college, Malaviya built the university** | Central Hindu College **1898** (Besant) fed into **BHU 1916** (Malaviya organised; Hardinge laid the stone) |
-| **Joshi sails to Washington, Baptista stays in Poona** | ILO 1919 labour rep = **N.M. Joshi**; Tilak League President = **Baptista** |
-| **WPP talks big in 1927, walks All-India in 1928** | The objective (work inside Congress) is true from the mid-1920s; the **All-India** form is **December 1928** |
-| **CSP meets twice, not once** | Patna **May 1934** then Bombay **October 1934** — never a clean "January 1934" |
-| **Justice Party borrows Morley-Minto's trick** | Madras non-Brahmins claim the same communal-representation logic the 1909 reforms gave Muslims |
-
 ---
 
 ## 12.1 Home Rule Movement

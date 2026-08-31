@@ -54,17 +54,6 @@ IPCC: science assessment (WMO+UNEP parents) | AR6 SYR 2023
 | **IPCC / UNFCCC** | Science / treaty |
 | **Emissions Gap Report** | **UNEP** annual NDC shortfall report |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **Kyoto = climate; Montreal = ozone** | 2024 Q35 |
-| **Emissions Gap = UNEP** | 2024 Q6 |
-| **1 credit = 1 tonne** | Carbon credit |
-| **IPCC science, UNFCCC treaty** | Roles |
-| **2070 net zero** | COP-26 |
-| **LiFE = COP-26** | Not COP-25 |
-
 ---
 
 ## 34.1 Climate Change

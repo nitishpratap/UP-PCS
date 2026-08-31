@@ -45,16 +45,6 @@ AUDIT: verifies compliance (not just raw data)
 | **NAMP / CAAQMS** | Manual air trend / real-time continuous |
 | **Ringelmann** | Smoke opacity scale 0–5 |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **PSR** | Pressure–State–Response |
-| **Ringelmann = smoke** | Not water/fog/noise |
-| **CGWB = ground** | Not CPCB |
-| **Form V = yearly statement** | Statutory audit-type disclosure |
-| **High BOD = dirty water** | Not purity |
-
 ---
 
 ## 41.1 Environmental Indicators

@@ -74,20 +74,6 @@ MARINE ECOSYSTEM:
 | **Pneumatophore** | Mangrove aerial root for gas exchange | वात-मूल |
 | **Zooxanthellae** | Symbiotic algae inside coral polyps | zooxanthellae |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **Threatened = VEC** | **V**U + **E**N + **C**R |
-| **BSI = Botany Book** | Plant Red Data Book |
-| **ZSI = Zoology Book** | Animal Red Data Book |
-| **Ramsar = 2 Feb** | World Wetlands Day |
-| **MISHTI = 23 not 19** | 2023 Budget mangrove scheme |
-| **Sultanpur = Haryana** | NOT UP — Ramsar trap |
-| **Bleach = Heat +2°C** | 2024 Andaman coral Q |
-| **Sundarbans = King mangrove** | Largest mangrove forest |
-| **Himalaya = Height → Habitat** | Altitude drives vegetation |
-
 ---
 
 ## 21.1 Red Data Book

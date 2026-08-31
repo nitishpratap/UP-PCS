@@ -90,24 +90,6 @@ MANGROVE/CORAL: Sundarbans sundari | MISHTI restore mangroves, NOT started 2019 
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **Rain ladder** | Evergreen **>200** · Moist deciduous **100–200** (largest) · Dry **70–100** · Thorn **<70** |
-| **Teak–sal kings** | Moist deciduous workhorse timber |
-| **Altitude elevator** | Foothill tropical → oak/chir/deodar → alpine → bugyal → snow |
-| **Shola = South** | Nilgiri / Anaimalai / Palani montane patches |
-| **Breathe salt** | Mangrove **pneumatophores**; sundari = Sundarbans |
-| **State traps** | Simlipal **Odisha** · Nokrek **Meghalaya** · Nanda Devi **UK** · Hangul **Dachigam** |
-| **1972–73–92–02** | WLPA → Project Tiger → Project Elephant → BDA |
-| **Hotspot FOUR** | Himalaya · Western Ghats · Indo-Burma · Sundaland |
-| **Nilgiri first** | India’s first Biosphere Reserve (**1986**) |
-| **In vs ex** | NP/WLS/BR/sacred grove = in-situ · Botanical garden/zoo = **ex-situ** |
-| **Sarsai & Surha** | UP Ramsar family; **Surha Tal Ballia** = 100th |
-| **MISHTI 2023** | Mangrove budget scheme — **not 2019** |
-| **Olivia ≠ August** | Olive Ridley nesting **Nov–May** (Odisha Coast Guard) |
-
 ---
 
 ## N.1 Natural Vegetation & Forest Types

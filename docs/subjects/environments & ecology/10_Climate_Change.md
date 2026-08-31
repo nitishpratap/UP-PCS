@@ -61,18 +61,6 @@ TREATIES: UNFCCC 1992 | Kyoto 1997 (climate mitigation) | Paris 2015
 | **Adaptation** | Coping with climate impacts | जलवायु अनुकूलन |
 | **Mitigation** | Reducing emissions / enhancing sinks | जलवायु शमन |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **−18°C without GH effect** | Natural effect essential for life |
-| **K-P-U** | Kyoto 1997 → Paris 2015 under UNFCCC 1992 |
-| **Montreal = Ozone** | Not climate (2024 Q35 trap) |
-| **Adapt = Adjust** | Mitigate = Reduce |
-| **2070 Net Zero** | COP-26 Glasgow 2021 |
-| **LiFE = COP-26** | Not COP-25 Madrid (2025 Q139) |
-| **3rd emitter, CCPI 10th** | 2023 Q109 trap |
-
 ---
 
 ## 10.1 Global Warming

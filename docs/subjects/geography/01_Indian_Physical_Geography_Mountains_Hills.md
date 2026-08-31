@@ -67,21 +67,6 @@ SACRED: Tirupati = Tirumala/Mallamalla (E Ghats) NOT Shevaroy
 | Malnad | Maidan | Karnataka forested hill tract vs rolling granite plain | मलनाड / मैदान |
 | Kangra Valley | Kulu Valley | Strike / longitudinal vs transverse valley (HP) | कांगड़ा / कुल्लू |
 
-### Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **OLD Aravalli, YOUNG Himadri** | UPPCS 2020 Q60 youngest = Himadri |
-| **Kashmir sandwich** | Pir Panjal (S) + Himadri (N) |
-| **Lipu in UK** | Lipulekh = Uttarakhand, not Ladakh |
-| **Guru on Aravalli** | Guru Shikhar = Rajasthan |
-| **Dodda in Nilgiri / Anai in Kerala / Sara in Nagaland / Dhup in Satpura** | State-peak match |
-| **82°30′ = 5½ hours** | Standard Meridian → IST |
-| **8 Tropic, never UP** | Gujarat–RJ–MP–CG–JH–WB–Tripura–Mizoram |
-| **Gujarat = coast king** | Longest state coastline |
-| **Nanga west, Namcha east** | Syntaxial bends of the Himalayan arc |
-| **10 Andaman, 9 Minicoy, 8 Maldives** | Island channels |
-
 ---
 
 ![img_5.png](../img_5.png)
@@ -1446,7 +1431,7 @@ D. Shiwalik → Himadri → Himachal
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Memory trick H-S-T-G southward: Shiwalik (outer) → Himachal (middle) → Himadri (inner/highest). **A/C/D** reverse inner-outer order — common map-match trap.
+**Ans: B** — Order lock **H-S-T-G** southward: Shiwalik (outer) → Himachal (middle) → Himadri (inner/highest). **A/C/D** reverse inner-outer order — common map-match trap.
 </details>
 
 **Q31.** With reference to Western Ghats and Eastern Ghats, which of the following statements is/are correct?

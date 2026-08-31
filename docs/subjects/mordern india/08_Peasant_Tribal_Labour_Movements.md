@@ -79,23 +79,6 @@ Peasant Movements | Peasant Revolts | Leaders | Tribal Revolts | Tribal Leaders 
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **"Sanyasi robes, then Sepoy uniforms"** | Sanyasiâ€“Fakir is **18th century**, well before 1857 and before Indigo |
-| **"Kol, Santhal, Munda â€” 31, 55, 99"** | Chotanagpur-belt tribal order: **1831 â†’ 1855 â†’ 1899** |
-| **"Hul is Sidhu-Kanhu; Ulgulan is Birsa"** | Different war-cries fix different leaders and decades |
-| **"Deccan burns the bond, Pabna sues the zamindar"** | Deccan 1875 = moneylender debt-bond riot; Pabna 1873â€“85 = legal agrarian league |
-| **"Ahom is '28, not '18-15"** | The **2018 Q23** trap year for Ahom is **1815**; correct tag is **~1828** |
-| **"Eka ties Awadh, Tebhaga ties Bengal"** | **1921â€“22** Awadh rent-receipt oath vs **1946â€“47** Bengal 2/3-share demand |
-| **"Dwivedi founds, Ramchandra roams, Sahajanand is All-India"** | 1918 UP Sabha founder vs Awadh mass mobiliser (~1920) vs 1936 AIKS |
-| **"Moplah is Malabar tenants, Bardoli is Gujarat revenue"** | 1921 violent tenancy rising vs 1928 Patel no-tax satyagraha |
-| **"Joshi to Washington, Lajpat to AITUC, Thengadi to BMS"** | 1919 ILO rep â†’ 1920 AITUC first president â†’ 1955 BMS founder |
-| **"UTUC wears a red (M) badge"** | UPPCS maps **UTUC â†’ CPI(M)**; CITU is the real CPI(M) centre (trap) |
-| **"Telangana ends with the Party's call, not the Nizam's"** | Armed struggle ran **1946â€“51**; it closed on **CPI's October 1951** withdrawal, three years *after* the Nizam's own defeat in Police Action 1948 |
-| **"Begar is the thread"** | *Begar* (unpaid forced labour) links Awadh, Tana Bhagat, Kol and Telangana *vetti* under one grievance |
-
 ---
 
 ## 8.0 One clear picture â€” three streams of popular protest

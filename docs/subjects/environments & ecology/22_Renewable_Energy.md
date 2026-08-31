@@ -80,20 +80,6 @@ TRAPS: Biogas = CH₄+CO₂ | ISA "38 members" outdated (Q109)
 | **Grey hydrogen** | H₂ from natural gas reforming — high CO₂ | Grey H₂ |
 | **ISA** | India-France solar IGO — HQ Gurugram | ISA |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **Biogas = MC** | **M**ethane + **C**O₂ — 2025 Q28 |
-| **ISA Gurugram** | Not Paris, not Delhi city |
-| **SHP ≤25** | Small hydro cap |
-| **Green H₂ = 5 by 30** | Mission 2023 → 5 MMT/yr 2030 |
-| **Wind TN first** | Tamil Nadu wind leader |
-| **Bhadla = Big solar** | Rajasthan |
-| **Puga = Hot Ladakh** | Geothermal |
-| **Khambhat = Tidal king** | Highest tidal range India |
-| **Grey = Gas** | Fossil hydrogen |
-
 ---
 
 ## 22.1 Solar Energy

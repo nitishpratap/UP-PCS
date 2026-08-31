@@ -62,18 +62,6 @@ TRAPS: IPCC ≠ UNFCCC | UNEP ≠ UNDP | IUCN ≠ CITES | WWF ≠ IUCN
 | **WWF** | Conservation **NGO** — Living Planet Report | WWF |
 | **FAO** | Food/agriculture agency — Rome | FAO |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **N-N-G-G-R** | Nairobi, New York, Gland, Gland, Geneva, Rome |
-| **IPCC = Science; UNFCCC = Policy** | Assessment vs treaty |
-| **UNEP = Environment Gap** | Emissions Gap Report |
-| **UNDP = Development Index** | HDR + HDI |
-| **Sen + Haq = HDI** | Not Priesner |
-| **IUCN = Inventory/risk** | Red List |
-| **WWF = Wildlife Fund report** | Living Planet |
-
 ---
 
 ## 19.1 IPCC

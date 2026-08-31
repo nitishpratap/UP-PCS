@@ -64,16 +64,6 @@ Zafarnama to Aurangzeb | died 1708 Nanded (Hazur Sahib)
 | Panj Pyare vs Ten Gurus | First five Khalsa 1699 vs 1469–1708 line | पंज प्यारे / दस गुरु |
 | Langar vs Sangat | Community kitchen vs congregation | लंगर / संगत |
 
-### Memory tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **N-A-A-R-A-H-H-T-G** | Nanak Angad Amar Ram Arjan Hargobind Har Rai Har Krishan Tegh Gobind |
-| **04-06-75-99-08** | Granth 1604 → Arjan 1606 → Tegh 1675 → Khalsa 1699 → eternal 1708 |
-| **Five Ks all K** | Kesh Kangha Kara Kachha Kirpan |
-| **Mardana = musician** | 2025 Q12 direction: disciple → Nanak |
-| **J vs A emperors** | Jahangir killed Arjan; Aurangzeb killed Tegh Bahadur |
-
 ---
 
 ## 10.1 Sikhism — Identity

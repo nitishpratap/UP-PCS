@@ -85,22 +85,6 @@ Poverty and Un-British Rule in India = 1901  ← 2021 Q139
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **"Hume organised, Bonnerjee presided"** | Hume set up the 1885 Congress; **W.C. Bonnerjee** was the first President, not Hume |
-| **"East is Naoroji-London, Indian is Banerjee-Calcutta"** | East India Association **1866** vs Indian Association **1876** — never swap founder or city |
-| **"Tilak never sat in the chair"** | Tilak = **never** INC President (2021 Q50); Gokhale, Lajpat Rai and Bose all **did** preside |
-| **"1901 book, 1906 Swaraj, three chairs"** | Naoroji: *Poverty…* published **1901**; Swaraj goal declared at his **1906** Calcutta session; he presided **three times** (1886, 1893, 1906) |
-| **"Surat breaks, Lucknow stitches"** | **1907** split vs **1916** reunion + Congress–League Pact |
-| **"1911 is hills and Delhi, not the Pact"** | 1911 = Partition revoked + capital shifted to Delhi; the **Lucknow Pact is 1916** |
-| **"Besant first woman, Sarojini first Indian woman"** | 1917 Calcutta vs 1925 Kanpur — two different "firsts" |
-| **"Gandhi's only chair is Belgaum"** | 1924 is Gandhi's **sole** INC presidentship; Lahore 1929 is **Nehru's** Purna Swaraj session |
-| **"Lal is Punjab, Bal is Maharashtra, Pal is Bengal"** | Fixes each Extremist's home province and paper in one line |
-| **"Un-British, not anti-British"** | Moderates wanted the Raj to live up to its **own** liberal ideals, not to end the British connection |
-| **"1907 deports Lajpat, 1908 jails Tilak, 1910 exiles Aurobindo"** | Extremist crackdown ladder after Surat — three different penalties, three different years |
-
 ---
 
 ## 9.0 One clear picture — the arc of nationalism

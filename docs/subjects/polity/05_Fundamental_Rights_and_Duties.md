@@ -76,27 +76,6 @@ DUTIES IVA 51A (42nd; 10→11 by 86th; citizens): a–k | 51A(g) environ = also 
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **Citizens 15-16-19-29-30** | Only these FRs are citizens-only |
-| **14 any person · 16 citizens** | Equality split |
-| **Six freedoms · f gone** | Property deleted by 44th |
-| **20 three only** | Ex post facto · Double jeopardy · Self-incrimination — **not torture** |
-| **Maneka fair-just-reasonable** | Art. 21 after 1978 |
-| **Puttaswamy = Privacy 21** | Not Art. 19 |
-| **86th = 21A + 45 + 51A(k)** | RTE package |
-| **23–24 exploit · 17 untouchability** | Do not mix |
-| **32 FR only · 226 wider** | Heart and soul vs HC |
-| **Prohibition before · Certiorari after** | Writ timing |
-| **358 = Art. 19 auto · 359 never 20/21** | Emergency suspension |
-| **43A workers · 43B co-ops** | 42nd vs 97th |
-| **48 cattle · 50 judiciary** | DPSP match traps |
-| **48A + 51A(g) = environment** | Both DPSP and Duty |
-| **Vote ≠ Duty** | 2021 Q107 lock |
-
-
 ---
 
 ## N.1 Fundamental Rights — overview

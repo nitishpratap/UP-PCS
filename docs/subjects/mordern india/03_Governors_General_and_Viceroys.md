@@ -92,26 +92,6 @@ Mountbatten — 3 June Plan 1947
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **"Bengal → India → Crown"** | GG of Bengal **1773** → GG of India **1833** → Viceroy **1858** |
-| **"Regulate, then Pitt it"** | 1773 creates the office; 1784 splits control between Board and Directors |
-| **"Trade dies twice"** | 1813 kills the India trade monopoly (kept tea/China); 1833 kills ALL Company trade |
-| **"1858 ends the firm, 1861 fixes the desk"** | Crown replaces Company in 1858; portfolios/departments arrive only in 1861 |
-| **"Shore did nothing, on purpose"** | Non-intervention 1793–98, the calm before Wellesley |
-| **"Metcalfe unlocked the press"** | Acting GG 1835–36, removed press licensing curbs |
-| **"Lawrence sat still, Lytton marched forward"** | Masterly Inactivity vs Proud Reserve on Afghanistan |
-| **"Mayo counted, Mayo died counting"** | First regular census effort 1871–72; assassinated at Port Blair, 1872 |
-| **"1909 gives a seat by religion, 1919 gives a subject by list"** | Separate electorates (1909) vs dyarchy's reserved/transferred split (1919) |
-| **"1935 promises a federation that never shows up"** | All-India Federation on paper only; provinces got real autonomy |
-| **"Ripon undid what Lytton did"** | Vernacular Press Act 1878 (Lytton) repealed by Ripon |
-| **"Curzon partitions, Hardinge reunites"** | Bengal split 1905 (Curzon); annulled 1911 (Hardinge II) |
-| **"Chelmsford's year, not Minto's"** | Chamber of Princes and dyarchy are **1919**, not 1909 |
-| **"August before Cripps, Cripps before Wavell"** | 1940 Offer → 1942 Cripps → 1945 Wavell Plan/Simla → 1946 Cabinet Mission |
-| **"Jones founded, Hastings declined"** | Asiatic Society 1784 — Hastings encouraged but did not preside |
-
 ---
 
 ## 3.0 Phase framework — the one picture to hold first

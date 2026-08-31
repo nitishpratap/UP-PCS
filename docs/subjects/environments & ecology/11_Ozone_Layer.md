@@ -57,17 +57,6 @@ TRAPS:
 | **Vienna Convention** | 1985 ozone protection framework | वियना सम्मेलन |
 | **Montreal Protocol** | 1987 binding ODS phase-out treaty | मॉन्ट्रियल प्रोटोकॉल |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **Good up, bad down** | Stratosphere vs troposphere ozone |
-| **V-M-K** | Vienna 1985 → Montreal 1987 → Kigali 2016 |
-| **Montreal = Ozone** | Not Kyoto/climate |
-| **16 Sept** | International Ozone Day |
-| **220 DU** | Hole threshold |
-| **Antarctic spring** | Sep–Oct, not Arctic winter year-round |
-
 ---
 
 ## 11.1 Ozone Layer

@@ -43,15 +43,6 @@ TRAPS: Kyoto ≠ “save water” | Stockholm POPs ≠ Stockholm 1972 conference
 | **Basel / Rotterdam / Stockholm** | Waste / PIC chemicals / POPs |
 | **Stockholm POPs / Stockholm 1972** | 2001 chemicals treaty / 1972 conference (UNEP) |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **71–73–79–89–92–97–98–01–13–15** | Ramsar→CITES→CMS→Basel→Rio→Kyoto→Rotterdam→POPs→Minamata→Paris |
-| **BRS** | Basel–Rotterdam–Stockholm chemicals/waste cluster |
-| **Wise Use** | Ramsar wetlands |
-| **PIC** | Rotterdam Prior Informed Consent |
-
 ---
 
 ## 43.1 UNFCCC

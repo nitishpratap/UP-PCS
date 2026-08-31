@@ -68,20 +68,6 @@ KEN–BETWA: only ILR under implementation | MP–UP Bundelkhand
 | Concordant | Discordant | Follows structure vs cuts across (antecedent Himalaya) | संगत / असंगत |
 | Pranhita | Jonk | Godavari trib vs Mahanadi trib | प्रणहिता / जोंक |
 
-### Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **JCRBS** | Panj Ab east→west: Jhelum Chenab Ravi Beas Sutlej |
-| **V→N→K→R→D** | Panch Prayag upstream→down |
-| **CSBK** | Yamuna right-bank W→E: Chambal Sind Betwa Ken |
-| **Jonk is Mahanadi’s joke on Ganga** | 2021 Q5 |
-| **Pranhita is Godavari’s, not Mahanadi’s** | 2023 Q49 |
-| **Tapi from Multai, not Ghats** | 2018 Q102 |
-| **Mississippi bird, Cauvery moribund** | 2018 Q33 / 2019 Q85 |
-| **Pandoh Beas, Srisailam Krishna** | 2025 Q92 |
-| **Periyar west; Pennar/Palar east** | 2025 Q116 |
-
 ---
 
 ![img_9.png](../img_9.png)

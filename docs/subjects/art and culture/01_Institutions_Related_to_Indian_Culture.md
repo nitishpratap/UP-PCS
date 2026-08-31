@@ -50,19 +50,6 @@ SCHEMES: NCF 1996 | NMM 2003 → Gyan Bharatam 2024–31 | EBSB 2015 | HRIDAY 20
 | ICCR | Mo Culture bodies | **MEA** cultural diplomacy vs Culture ministry akademis | ICCR = विदेश मंत्रालय |
 | Protected monument | Site museum | AMASR-notified structure vs ASI museum at the excavation | संरक्षित स्मारक / स्थल संग्रहालय |
 
-### Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **Jones 1784, Hastings said no** | Founder = William Jones; Hastings declined Presidentship (UPPCS 2019 A/R) |
-| **1814-49-52-54** | Indian Museum → National Museum → SNA → Sahitya/Lalit |
-| **ASI 61, Cunningham 1** | 1861; first DG Alexander Cunningham |
-| **Khilji kills N then V** | Nalanda ~1193; Vikramashila ~1203 |
-| **Rabindra Bhavan trio** | SNA + Sahitya + Lalit Kala, Mandi House |
-| **IGNCA = Indira’s 1985** | Assassinated 1984 → centre 1985 |
-| **24 languages, Yuva ≤35** | Sahitya awards; Yuva Puraskar age cap |
-| **ICCR flies abroad** | External Affairs, not Culture |
-
 ---
 
 ## 1.1 Indological Studies

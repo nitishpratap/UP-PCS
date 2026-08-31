@@ -76,20 +76,6 @@ WINDS: Chinook = warm dry Rockies | Foehn = Alps (2024 both)
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **Osaka weaves · Detroit drives · Cuba smokes · Petersburg builds ships** | 2022 city–industry four |
-| **Igarka = Yenisei Russia · not China** | Port trap |
-| **Suez Med–Red · Panama Atlantic–Pacific · Kiel North Sea–Baltic** | Canal trio |
-| **Manzala at Med door · Little Bitter near Suez town** | Lakes N→S |
-| **Chinook = Rockies · Foehn = Alps · Mistral = France** | Warm dry + French mistral |
-| **Shamal = Gulf · not Austria** | Dust wind |
-| **Osaka = Manchester of Japan · Nagoya = Detroit · Kawasaki = Pittsburgh** | Japan nicknames |
-| **Weight-losing near mine · Al near hydel · electronics footloose** | Location logic |
-| **Lancashire cotton · Yorkshire wool · Ruhr coal–steel** | Europe belts |
-
 ---
 
 ## N.0 Framework — World Industries

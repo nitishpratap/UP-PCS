@@ -70,17 +70,6 @@ Qutub Minar Aibak start/Iltutmish finish | Alai Darwaza Alauddin 1311
 | Sikandar Lodi vs Ibrahim | **Agra** builder vs **Panipat 1526** last Sultan | सिकंदर / इब्राहिम |
 | chakla vs Sarkar | Between Subah and Pargana vs **Mughal** term trap | चकला / सरकार |
 
-### Memory tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **712→1192→1206→1526** | Qasim → Tarain II → Aibak → Panipat end |
-| **G-R-C-W** | Alauddin: **G**ujarat → **R**anthambor → **C**hittor → **W**arangal |
-| **B-S-I Lodis** | **B**ahlul → **S**ikandar (Agra) → **I**brahim |
-| **2025 Q95 = C** | A true (Khalsa+Jagir); R false (Jagir ≠ direct state land) |
-| **2018 Q14 = A** | Turkish success because North India lacked unity |
-| **Barani not Battuta** | Tughlaqnama author = Barani |
-
 ---
 
 ## 2.1 Turkish Invasions of India

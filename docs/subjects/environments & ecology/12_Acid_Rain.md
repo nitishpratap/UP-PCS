@@ -62,19 +62,6 @@ TRAPS:
 | **Gothenburg Protocol** | 1999 CLRTAP treaty to cut transboundary acidifying emissions | गोथेनबर्ग प्रोटोकॉल |
 | **Taj Trapezium Zone** | ~10,400 km² pollution-control belt around Taj Mahal | ताज ट्रapezium क्षेत्र |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **5.6 line** | Below = acid rain; above = normal CO₂ baseline |
-| **SO₂ = Smoke & Smelting** | Coal, refineries, smelters |
-| **NOx = Cars & Combustion** | Vehicles, TPPs |
-| **CO₂ = Carbonic weak only** | 2024 Q108 trap |
-| **pH: A below, B above** | Acid < 7; Base > 7 |
-| **Taj = Mathura SO₂** | Marble → gypsum crust |
-| **Montreal ≠ Acid Rain** | Gothenburg/CLRTAP = acid rain |
-| **SO₂ sinks** | Heavier than air — 2025 Q43 |
-
 ---
 
 ## 12.1 Acid Rain

@@ -49,16 +49,6 @@ PLASTIC: PWM 2016 | SUP ban 2022 | EPR | India 3rd largest generator
 | **CPCB / CGWB** | Air–water standards / groundwater |
 | **NCAP / SAFAR** | City clean-air programme / AQ forecast system |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **Lichens die in dirty air** | Indicators, not thrivers |
-| **Smog = secondary** | CO/fly ash = primary |
-| **CGWB = ground** | Not CPCB |
-| **Moradabad = noise** | UNEP Frontier 2022 |
-| **Pesticide ≠ biodegradable** | 2023 Q120 |
-
 ---
 
 ## 38.1 Sources of Air Pollution

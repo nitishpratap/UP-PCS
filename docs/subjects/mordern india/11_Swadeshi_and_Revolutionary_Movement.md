@@ -76,21 +76,6 @@ KANPUR CONSPIRACY 1924: M.A. Ansari NOT associated     ← 2021 Q86
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **Curzon cuts, Hardinge heals** | Partition **1905** by Curzon; annulment + capital shift **1911** under Hardinge |
-| **Seven at Town Hall** | Boycott Resolution = **7 August 1905**, Calcutta Town Hall |
-| **Barisal Dutt, Tuticorin Pillai** | Ashwini Kumar Dutt = Swadesh Bandhab Samiti (Barisal); V.O.C. Pillai = Swadeshi Steam Navigation (Tuticorin) |
-| **Anushilan hits Hardinge, Jugantar hits Kingsford** | 1912 Delhi bomb = Anushilan; 1908 Muzaffarpur bomb = Jugantar circle |
-| **Savarkar's Bharat, Shyamji's House** | Abhinav Bharat = Savarkar, Nasik; India House = Shyamji Krishna Varma, London |
-| **Cama waves it at Stuttgart** | 1907, Germany, Socialist Congress — an early Indian tricolour, green–yellow–red |
-| **Ghadar sails first, Berlin plots later** | 1913 San Francisco before 1915 wartime Europe committee |
-| **HRA robs a train, HSRA storms an Assembly** | Kakori 1925 = HRA; Central Assembly bomb 1929 = HSRA |
-| **Bismil's cradle, Bismil's grave** | Born Shahjahanpur; hanged Gorakhpur — two different UP towns |
-| **Master-da's hill, Master-da's fall** | Surya Sen holds Jalalabad hill in 1930; captured 1933; hanged 1934 |
-
 ---
 
 ## 11.1 Overview

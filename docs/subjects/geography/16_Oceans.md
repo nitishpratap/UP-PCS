@@ -86,24 +86,6 @@ POLAR: Operational Antarctica = MAITRI + BHARATI (not Dakshin Gangotri) | Treaty
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **Warm: Agulhas + Brazil** | Cold: Humboldt + California + Benguela (Atlantic) |
-| **Pacific Mariana · Atlantic Puerto Rico · Indian Sunda · Arctic Molloy** | Trench–ocean match |
-| **Salinity peaks at the tropics** | Not at the equator |
-| **Straight line Moon–Earth–Sun = spring = BIG** | Quadrature = neap = small |
-| **Manzala → Timsah → Great Bitter → Little Bitter** | Suez lakes N→S |
-| **12 – 24 – 200** | Territorial · contiguous · EEZ (nm) |
-| **Maitri + Bharati work** | Dakshin Gangotri does not; Himadri = Arctic |
-| **Red clay = deepest · Globigerina = lime · Diatom = cold silica** | Deposit locks |
-| **Upwelling = Peru, California, Canary, Benguela, Somalia** | West coasts of continents |
-| **Hooghly bore · Fundy range · Khambhat India energy** | Tide traps |
-| **West shelf wider (India)** | Bombay High on west; east = narrower + fans |
-| **Cold + salt = dense = sink** | Density drives deep conveyor |
-| **Warm + cold meet = fish** | Grand Banks / Kuroshio–Oyashio |
-
 ---
 
 ## N.0 Framework — The World Ocean

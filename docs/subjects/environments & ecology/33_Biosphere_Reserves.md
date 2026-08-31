@@ -41,15 +41,6 @@ UP: ZERO Biosphere Reserves
 | **Nokrek** | **Meghalaya** — never Manipur |
 | **Nilgiri** | India’s first BR (1986) |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **Nokrek = Meghalaya** | 2025 Q144 only wrong pair |
-| **2-4-1-3** | 2024 Q10 Simlipal–Nokrek–Agasthyamalai–Manas |
-| **C-B-T** | Core–Buffer–Transition |
-| **UP = 0 BR** | Like zero marine NP |
-
 ---
 
 ## 33.1 Biosphere Reserve

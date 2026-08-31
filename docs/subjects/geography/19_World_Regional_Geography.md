@@ -88,23 +88,6 @@ CARIBBEAN: Grenada, Montserrat, Anguilla | Madeira = Atlantic Portugal, NOT Cari
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **Nobi + Kanto = Japan** | Korea is the trap |
-| **Basra is the odd one out** | Sunni Triangle = Baghdad · Tikrit · Ramadi |
-| **Pontic → Zagros → Hindu Kush → Karakoram** | West Asia mountains W→E |
-| **Tashkent–Uzbek · Dushanbe–Tajik · Bishkek–Kyrgyz · Ashgabat–Turkmen** | Stan capitals |
-| **Darling = SW / Indian Ocean · Dividing Range = east** | Australia coasts |
-| **Madeira = Portugal Atlantic** | Not Caribbean |
-| **Cape Verde = Praia · Bamako = Mali** | Island vs inland |
-| **Sumatra → Java → Bali → Lombok** | Indonesia W→E |
-| **Bolivia + Paraguay** | Only S American landlocked pair |
-| **Wellington · Canberra · Brasília · Ankara** | Capitals ≠ famous cities |
-| **Asia > Africa > NA > SA > Antarctica > Europe > Australia** | Continent area order |
-| **38° = Korea · 49° = Canada–USA** | Parallel traps |
-
 ---
 
 ## N.0 Framework — World Regional Geography

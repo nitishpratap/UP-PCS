@@ -91,22 +91,6 @@ NER Gorakhpur | NW-1 | Kushinagar intl 24 Jun 2020 | Amrit Bharat 149 | no seapo
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **One NP · Kheri · Dudhwa** | Only National Park |
-| **Chandraprabha = Chandauli** | Not Sonbhadra |
-| **Forest ≈ 6% · not 12.8%** | ISFR trap |
-| **Rudrasagar Tripura · Sultanpur Haryana · keep Sarsai Nawar** | Ramsar NOT-UP |
-| **Devipatan = Bahraich–Balrampur–Gonda–Shravasti** | Not Basti |
-| **Potato = Agra CIP · not Aligarh** | Crop centre |
-| **Ramganga @ Kannauj · Betwa @ Hamirpur** | Not Prayagraj sangam |
-| **Chambal → Sind → Betwa → Ken** | Yamuna right bank W→E |
-| **NER = Gorakhpur · Kushinagar 24 Jun 2020 · Amrit 149** | Transport locks |
-| **N Saharanpur · S Sonbhadra · E Ballia · W Shamli** | District extremes |
-| **Rain: Gorakhpur wet · Mathura dry** | Climate gradient |
-
 ---
 
 ## N.0 Framework — Geography of Uttar Pradesh

@@ -65,17 +65,6 @@ BALANCE: Dynamic equilibrium | Resilience | Eutrophication = nutrient overload �
 | **r-strategist** | Many offspring, fast growth, short life | r-रणनीतिकारी |
 | **K-strategist** | Few offspring, slow growth, long life | K-रणनीतिकारी |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **Haeckel 1866 / Tansley 1935** | Ecology coined / Ecosystem coined |
-| **GPP − R = NPP** | Respiration reduces gross to net |
-| **M-E-R-S** | Succession: Migration → Ecesis → Reaction → Stabilisation |
-| **1% sun, 10% food** | NCERT capture + Lindeman transfer (2025 Q5) |
-| **Niche = Job, Habitat = Address** | Role vs place |
-| **4 Services = PRSC** | Provisioning, Regulating, Supporting, Cultural |
-
 ---
 
 ## 2.1 Ecology – Meaning

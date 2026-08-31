@@ -65,16 +65,6 @@ TRAPS: Montreal ≠ climate | Agenda 21 ≠ 1995 | Brundtland ≠ Limits to Grow
 | **CITES** | 1973 regulation of endangered species trade | CITES |
 | **Basel Convention** | 1989 transboundary hazardous waste control | बेसल |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **S-B-R-J-P** | Stockholm 72 → Brundtland 87 → Rio 92 → Johannesburg 02 → Paris/SDGs 15 |
-| **Montreal = Ozone** | Not Kyoto/climate |
-| **V before M** | Vienna 1985 before Montreal 1987 |
-| **Agenda 21 = Rio 92** | Not 1995 |
-| **Ramsar = Wetlands** | 2 February |
-
 ---
 
 ## 18.1 Conferences — Stockholm, Brundtland, Rio, Agenda 21 & SD Summits

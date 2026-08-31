@@ -40,17 +40,6 @@ TRAPS: Energy cyclic? NO | Energy pyramid inverted? NO | Grazing starts dead mat
 | **Ecological pyramid** | Graphic trophic structure (energy/biomass/numbers) | पारिस्थितिक पिरामिड |
 | **10% rule** | ~10% energy transfers between trophic levels | 10% ऊर्जा नियम |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **G-D chain** | **G**razing = **G**reen living plants; **D**etritus = **D**ead matter |
-| **Energy = one-way street** | Sun in, heat out. Nutrients take the roundabout. |
-| **10-90 split** | Lindeman: **10%** up, **90%** out as heat |
-| **Energy pyramid never lies** | Only energy pyramid is **always upright** |
-| **Sea biomass flip** | Phytoplankton turnover fast — standing biomass can look inverted |
-| **Tree-bug flip** | One tree, many insects = inverted **number** pyramid |
-
 ---
 
 ## 3.1 Food Chain

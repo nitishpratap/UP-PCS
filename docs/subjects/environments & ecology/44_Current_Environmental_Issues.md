@@ -57,20 +57,6 @@ TRAPS: LiFE≠COP-25 | MISHTI≠2019 | Net zero≠2050 | Micro≠5 cm | gha≠tC
 | **NbS / Geoengineering** | Ecosystem actions / engineered climate intervention |
 | **LiFE idea / launch** | COP26 2021 / June 2022 |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **LiFE at 26, launch 22** | COP**26** idea → **2022** launch |
-| **MISHTI = 23 not 19** | Budget **2023–24** |
-| **2070 India Zero** | Net zero at COP26 |
-| **5 mm micro** | Microplastics threshold |
-| **gha vs tCO₂e** | Ecological / carbon |
-| **Gap = UNEP** | Emissions Gap Report |
-| **Green H₂ = 2023** | National Mission |
-| **Blue = SDG 14** | Life Below Water |
-| **Circular ⊂ Green** | Narrower material focus |
-
 ---
 
 ## 44.1 Carbon Footprint

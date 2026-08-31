@@ -68,20 +68,6 @@ ORG TRAPS:
 | **Cryopreservation** | Storage at **-196°C** in liquid nitrogen | क्रायो-संरक्षण |
 | **CZA** | Statutory zoo regulator under **MoEFCC** | केंद्रीय चिड़ियाघर प्राधिकरण |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **IN = Inside nature** | In-situ = habitat stays wild |
-| **EX = Exit habitat** | Ex-situ = removed from wild |
-| **NP-Zoo split** | **N**ational **P**ark = in-situ; **Z**oo = ex-situ |
-| **NBPGR = Plants + Pusa/Delhi** | Plant gene bank |
-| **NBAGR = Animals + Karnal** | Animal gene bank |
-| **Howrah 1787** | Indian Botanic Garden — oldest/largest |
-| **Orthodox = OK to dry** | Wheat/rice seed-bank friendly |
-| **Recalcitrant = resists drying** | Mango/coconut need other methods |
-| **Svalbard = Snow vault Norway** | Global seed backup — not India |
-
 ---
 
 ## 20.1 In-situ Conservation

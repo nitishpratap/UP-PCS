@@ -77,27 +77,6 @@ Sources: UK parl · USA FR · Ireland DPSP · Canada residuary · Australia conc
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **Bengal first · India later** | 1773 GG Bengal → 1833 GG India |
-| **Board politics · Directors trade** | Pitt’s Dual Control |
-| **Open ICS = fifty-three** | Charter **1853** |
-| **Portfolio = sixty-one** | Councils Act **1861** |
-| **Nine-oh-nine Muslims** | Separate electorates start **1909** |
-| **Nineteen Dyarchy · Thirty-five Autonomy** | 1919 vs 1935 |
-| **Autonomy ran · Federation slept** | Only provincial autonomy operated |
-| **Chambal of lists: 59–54–36** | Federal / Provincial / Concurrent under 1935 |
-| **Award August · Poona September** | Both **1932** |
-| **Canada residuary · Australia concurrent** | Borrowed-feature trap pair |
-| **Rau advises · Ambedkar drafts** | Adviser vs Drafting Chair |
-| **Nov adopt · Jan enforce** | 26 Nov 1949 / 26 Jan 1950 |
-| **Six bicameral** | Bengal, Bombay, Madras, Bihar, Assam, United Provinces |
-| **Fifteen women framers** | ~**15** women in original CA (not zero) |
-| **Mukherjee minorities** | Minorities Sub-Committee = **H.C. Mukherjee** |
-| **FR–USA · DPSP–Ireland · Residuary–Canada** | Highest-yield source trio |
-
 ---
 
 ## N.1 Company rule — Regulating Act to Charter 1853

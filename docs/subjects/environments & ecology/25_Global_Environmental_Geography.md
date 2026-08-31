@@ -64,19 +64,6 @@ PERMAFROST: Taiga + Tundra | NOT Savannah
 | **Permafrost** | Permanently frozen subsoil — tundra/taiga | स्थायी हिम मृदा |
 | **Hotspot** | High endemism + ≥70% habitat loss (Myers) | जैव विविधता hotspot |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **Gobi = MC** | Mongolia + China |
-| **Masai = East not West** | Kenya/Tanzania |
-| **Engler = Floral** | World Floral Regions |
-| **Sauer = Hearth** | Planting Hearth |
-| **Puszta = Hungary** | Temperate grassland |
-| **Pampas = Argentina** | South America grassland |
-| **Permafrost = T+T** | Taiga + Tundra |
-| **Selva + Terra Roxa** | Both TRUE for Brazil |
-
 ---
 
 ## 25.1 Scope & Climate Controls

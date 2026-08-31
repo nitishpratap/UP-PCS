@@ -56,17 +56,6 @@ TRAPS: Nuclear ≠ renewable | Coal ≠ biomass | Tidal ≠ wave/OTEC
 | **PAT** | BEE energy-efficiency trading via ESCerts | PAT |
 | **BEE** | Bureau of Energy Efficiency under EC Act 2001 | BEE |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **Biogas = MC** | Methane + CO₂ |
-| **E20 = 20% ethanol** | Biofuel Policy 2018 target |
-| **EC Act 2001 → BEE** | Efficiency body |
-| **PAT = ESCerts** | Energy, not carbon |
-| **SPR = V-M-P** | Vizag, Mangalore, Padur |
-| **≤25 = SHP** | Small hydro |
-
 ---
 
 ## 27.1 Renewable Energy

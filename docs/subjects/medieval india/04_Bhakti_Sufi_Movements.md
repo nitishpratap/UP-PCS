@@ -63,17 +63,6 @@ Tulsidas — Awadhi UP | Surdas — Braj (Mathura-Vrindavan) | Gorakhnath — Go
 | Mirabai vs Andal | Rajasthan Krishna devotee vs Tamil Alvar woman saint | मीराबाई / आंडाल |
 | Pir vs Guru | Sufi spiritual master (silsilah) vs Bhakti preceptor | पीर / गुरु |
 
-### Memory tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **K-R-S-M (2025 Q12)** | Kabir–Ramananda; Khusrau–Nizamuddin; Surdas–Vallabhacharya; Mardana–Nanak |
-| **3-4-1-2 (2025 Q74)** | Namdev(3) → Kabir(4) → Nanak(1) → Chaitanya(2) |
-| **Chishti chain A-D** | Ajmer (Moinuddin) → Delhi (Nizamuddin) via Farid |
-| **Nizamuddin ≠ Multan** | 2020 Q40 trap — Nizamuddin = **Delhi** |
-| **Fawaid = Sijzi** | Compiler **Amir Hasan Sijzi** (not Khusrau) |
-| **Vedanta D** | 2022 Q33 = D (4-3-2-1): Ramanuja-Vishishtadvaita, Madhva-Dvaita, Nimbarka-Dvaitadvaita, Vallabha-Shuddhadvaita |
-
 ---
 
 ## 4.1 Bhakti Movement — Origins

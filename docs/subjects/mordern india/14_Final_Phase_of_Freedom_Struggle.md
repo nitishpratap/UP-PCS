@@ -71,19 +71,6 @@ DEADLOCK: C.R. Formula 1944 = Rajaji (NOT C.R. Das)  ← 2019 Q96
 
 ---
 
-## Memory Tricks — mission ladder 1940–47
-
-| Trick | Remembers |
-|-------|-----------|
-| **Offer, then Cripps, then Quit** | August Offer **1940** → Cripps **March 1942** → Quit India **8 Aug 1942**, each a step up in British concession and Congress refusal |
-| **Wavell talks at Simla, Cabinet talks with three ministers** | **Wavell Plan/Simla — June–July 1945**; **Cabinet Mission — three ministers, 1946** |
-| **Delegation, then Deck, then Delhi mission** | **UK Parliamentary Delegation — Jan 1946** → **RIN Revolt — Feb 1946** → **Cabinet Mission — announced Feb, arrived Mar 1946** |
-| **Announce in August, form in September** | Interim Government **announced 24 Aug 1946**; **took office 2 Sep 1946**; League joined **26 Oct 1946** |
-| **Direct Action before the last Viceroy** | Direct Action Day **16 Aug 1946** comes before **Mountbatten's** arrival in **March 1947** |
-| **Attlee names the month, Mountbatten moves the date** | Attlee's **20 Feb 1947** statement promised transfer by **June 1948**; Mountbatten's **3 June 1947** Plan advanced it to **15 August 1947** |
-| **Plan in June, Act in July, freedom in August** | **3 June** Plan → **18 July** Act → **15 August** Independence — three different July-adjacent dates, never swap them |
-| **1937 forms, 1939 resigns** | Congress ministries **formed** after the 1937 provincial elections; they **resigned** in 1939 over the war without consultation |
-
 ---
 
 ## 14.1 Independence Chronology

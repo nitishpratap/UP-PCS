@@ -59,20 +59,6 @@ Chirand (Saran, Bihar) = bone tools
 | Non-geometric microlith | Geometric microlith | Earlier Meso (backed blades) vs later Meso (lunate/triangle/trapeze) | अज्यामितीय / ज्यामितीय |
 | Aceramic Neolithic | Ceramic Neolithic | Mehrgarh Period I (no pottery) vs later pottery levels | बिना मृद्भांड / मृद्भांड युक्त |
 
-### Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **Bagor = Beasts** | 2018 Q18 — Mesolithic animal domestication |
-| **Wakankar Walked Bhimbetka** | 1957–58; 2020 Q10 |
-| **750-500-2003** | Shelters / painted / UNESCO year |
-| **Burzahom = Below** | Pit dwellings |
-| **Mehrgarh = Mother of farming** | Earliest subcontinent village |
-| **K-M = UP rice** | Koldihwa + Mahagara (Belan) |
-| **Bori ≠ Bagor** | Bori = Paleolithic distractor, not domestication |
-| **Baghor ≠ Bagor** | Baghor = MP Upper Pal; Bagor = RJ Mesolithic |
-| **Soan = chopper, Madras = handaxe** | Two Lower Pal traditions |
-
 ---
 
 ## 1.1 Origin of Human Beings

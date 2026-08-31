@@ -90,26 +90,6 @@ SOURCES: UK parl+writs · USA FR+JR · Ireland DPSP · Canada residuary · Austr
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **3-5-2-1** | Justice · Liberty · Equality · Fraternity counts |
-| **Wheare = Quasi** | Unitary-bias label |
-| **Austin = Cooperative** | Centre–State teamwork |
-| **Morris = Bargain · Jennings = Centralise** | Scholar match list |
-| **Kesavananda 1973** | Basic Structure born |
-| **Shankari → Sajjan → Golaknath → Kesavananda** | 1951 → 1965 → 1967 → 1973 |
-| **Golaknath → 24th → Kesavananda → 42nd** | 1967 → 1971 → 1973 → 1976 |
-| **Federal NOT in Preamble** | Union is in Art. 1 |
-| **Palkhivala = identity card** | Preamble = identity card of the Constitution |
-| **61st = eighteen** | Voting age 21 → 18 |
-| **73rd/74th = 1992 third tier** | Local self-government constitutionalised |
-| **1950 = SDR** | Sovereign Democratic Republic only |
-| **FR–USA · DPSP–Ireland · Residuary–Canada** | Highest-yield source trio |
-| **Concurrent = Australia** | Do not call it Canada |
-| **President nominal · PM real** | Parliamentary dual executive |
-
 ---
 
 ## N.1 Salient features — overview

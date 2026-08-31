@@ -53,16 +53,6 @@ TRAPS: Carson ≠ Hardin | Brundtland ≠ Limits | LiFE ≠ COP-25
 | **NGC / ECO Club** | MoEFCC school eco-action programme |
 | **LiFE** | 2022 lifestyle awareness mission |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **Carson = spray/pesticides** | Silent Spring |
-| **Hardin = Hard commons** | Tragedy of Commons |
-| **Limits 72 / Brundtland 87** | Never swap |
-| **Tbilisi = Teaching 77** | EE framework |
-| **51A(g) = green duty** | Citizen duty |
-
 ---
 
 ## 30.1 Environmental Literature

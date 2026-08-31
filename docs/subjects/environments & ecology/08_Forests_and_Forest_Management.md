@@ -61,17 +61,6 @@ UP ISFR 2023: Forest cover 6.24% | Sonbhadra highest (34.87%)
 | **Agroforestry** | Trees integrated with **crops/livestock** | कृषि वानिकी |
 | **JFM** | State + village co-manage **degraded forest** | संयुक्त वन प्रबंधन |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **FCA-80, NFP-88, JFM-90, FRA-06** | Forest governance timeline |
-| **VMD = 70-40-10** | VDF, MDF, Open Forest thresholds |
-| **33/66 NFP** | National / hills cover targets |
-| **4 ha FRA** | Individual Forest Right cap |
-| **13 Dec 2005** | FRA occupation cutoff |
-| **Bahraich trap** | Terai type but **<20%** cover (2025 Q8) |
-
 ---
 
 ## 8.1 Forests and their Types

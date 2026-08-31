@@ -46,16 +46,6 @@ TRAPS: Montreal = ozone | Kyoto = climate (2024 Q35)
 | **ODP / GWP** | Ozone damage potential / heat-trapping potential |
 | **Dobson Unit** | Column ozone measure |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **V → M → K** | Vienna 1985 → Montreal 1987 → Kigali 2016 |
-| **16 Sept** | Ozone Day = Montreal signing |
-| **Good up, bad down** | Stratosphere vs troposphere |
-| **220 DU** | Hole threshold |
-| **Montreal ≠ Kyoto** | Ozone ≠ climate |
-
 ---
 
 ## 36.1 Ozone Layer

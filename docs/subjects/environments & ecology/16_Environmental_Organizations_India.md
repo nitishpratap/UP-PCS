@@ -65,17 +65,6 @@ TRAPS: CPCB ≠ EC ≠ ISFR ≠ CGWB report
 | **FSI** | Forest cover assessment — ISFR publisher | FSI |
 | **ISFR** | India State of Forest Report — biennial | ISFR |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **CPCB = Control Pollution, NOT Clearance** | EC = MoEFCC/SEIAA |
-| **BSI = Botany/Plants** | B for Botanical |
-| **ZSI = Zoology/Animals** | Z for Zoo |
-| **MoEF-85, MoEFCC-14** | Ministry timeline |
-| **Water-74 → CPCB+SPCB** | Legal parent Act |
-| **Report trio** | ISFR→FSI; Groundwater→CGWB; EC→MoEFCC |
-
 ---
 
 ## 16.1 Ministry of Environment, Forest and Climate Change (MoEFCC)

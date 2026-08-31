@@ -83,20 +83,6 @@ BHUTAN: Chukha, Tala, Kurichhu, Mangdechhu/Mungdechhu (2019 Q115 Modi inaugurati
 
 ---
 
-## Memory Tricks
-
-- **C-S-W type triangle:** Chilika = Coast lagoon · Sambhar = Salt inland · Wular = Water (fresh).
-- **Origin chain:** Tectonic Wular · Glacial Ladakh tarns · Oxbow Ganga/Kabartal · Lagoon Chilika · Crater Lonar.
-- **Kunchikal Kills Jog:** K = Karnataka + highest; Jog is the tourist decoy on Sharavati (west-flowing, **not** Cauvery).
-- **Dudh = Goa milk:** Dudhsagar (milk-white) on Mandovi.
-- **Bhakra–Gobind:** Bhakra’s lake is Gobind Sagar (Sutlej), not Pant Sagar (Rihand).
-- **Tehri rock on Bhagi:** rock-fill + Bhagirathi; Alaknanda is the wrong twin.
-- **Ramganga 825 / 198 / not-6:** length · MW · irrigation trap.
-- **Bhutan CTKM:** Chukha · Tala · Kurichhu · Mangdechhu (2019 = M).
-- **Nepal wall:** Himalaya north of E-UP/Bihar is mostly Nepal → hydro not fully tapable (2025 Q31).
-- **17–4–2.45:** people · water · land. GB+Barak = one-third area, **60%** surface water.
-- **Drink then price:** NWP 2012. PMKSY = har khet + more crop per drop.
-
 ---
 
 ## N.0 Framework

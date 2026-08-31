@@ -55,17 +55,6 @@ UP LOCKS:
 | **Project Elephant** | CSS 1992 with executive ER notification only | प्रोजेक्ट हाथी |
 | **Diclofenac** | Veterinary NSAID that caused vulture renal failure | डाइक्लोफेनाक |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **T73 E92 C75** | Tiger 1973, Elephant 1992, Crocodile 1975 |
-| **WWD = 3 March** | Not 22 March (2025 Q62) |
-| **Olivia = Nov–Feb** | Not August (2025 Q143) |
-| **Gir = Gujarat lions** | Never UP |
-| **ER ≠ WPA** | Elephant Reserve has no WPA basis |
-| **Chambal = gharial** | Katarniaghat = UP gharial site |
-
 ---
 
 ## 7.1 Wildlife Conservation

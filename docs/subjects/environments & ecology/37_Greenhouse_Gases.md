@@ -42,16 +42,6 @@ Kyoto basket: CO₂, CH₄, N₂O, HFCs, PFCs, SF₆
 | **Tropospheric / Stratospheric O₃** | Pollutant+GHG / UV shield |
 | **Feedback gas** | Rises because Earth warms (water vapour) |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **Paddy = methane** | Not CO₂ as the classic paddy lock |
-| **Laugh = N₂O** | Not ammonia / CO / CFC |
-| **Argon = inert trap** | Not a GHG |
-| **Biogas = CH₄ + CO₂** | Not butane/CO |
-| **HFC = hot, no hole** | High GWP; not ODS |
-
 ---
 
 ## 37.1 Carbon Dioxide (CO₂)

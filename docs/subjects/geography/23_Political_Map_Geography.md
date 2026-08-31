@@ -79,21 +79,6 @@ INDIA MAP: 7th largest | 2.4% | Tropic middle | NOT wholly tropical | Tropic ≠
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **12 – 24 – 200** | Territorial · contiguous · EEZ (sovereignty / police / resources) |
-| **McMahon → China · Durand → Kabul · Radcliffe → 1947** | Three India lines |
-| **Gujarat longest shore · Bangladesh longest fence** | Coast vs land border |
-| **Suez Med–Red · Panama locks Pacific · Kiel Baltic door** | Canal trio |
-| **Koppen = plants · Thornthwaite = rain formula** | Climate index |
-| **India 7th · 2.4% · Tropic middle · not wholly tropical** | Area map |
-| **Equator has Ecuador · not Egypt** | Equator trap |
-| **Double landlocked = UZB + Liechtenstein** | Two only |
-| **Kazakhstan biggest landlocked · Ethiopia most people** | Superlatives |
-| **49th = USA–Canada · 38th = Koreas** | World parallels |
-
 ---
 
 ## N.0 Framework — Political & Map Geography

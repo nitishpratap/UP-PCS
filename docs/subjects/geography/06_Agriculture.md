@@ -94,25 +94,6 @@ India ranks: milk/pulses/jute #1; rice/wheat/cane often #2```
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **Kharif wet / Rabi wheat** | Monsoon sowings = kharif · Winter wheat–mustard–gram = **rabi** |
-| **RMBGCST (kharif pack)** | Rice · Maize · Bajra · Groundnut · Cotton · Soy · Tur |
-| **State–crop map** | GJ–groundnut · RJ–mustard · MP–soya · MH–jowar · RJ–bajra · KA–ragi · WB–jute · KL–rubber/pepper |
-| **Two wheat belts** | **Ganga–Satluj** plains + **Deccan black-soil** wheat |
-| **Aus–Aman–Boro** | Three paddy crops in Assam / WB / Odisha |
-| **White gold / golden fibre** | Cotton = white gold · Jute = golden fibre |
-| **210 frost-free** | Cotton climate lock |
-| **Retting / shade** | Retting water = **jute** · Shade slopes = **coffee** |
-| **CACP asks; Cabinet answers** | MSP recommendation vs decision |
-| **Kurien milk / Swaminathan grain** | White ≠ Green · Borlaug Nobel = **Peace** |
-| **Colour pack** | Golden = horti+honey · Yellow = oil · Grey = urea · Black = petrol · Silver = egg · Blue = fish |
-| **Potato Agra** | CIP-SARC = **Singna, Agra** — not Aligarh |
-| **15 / 127 / 20** | ACZ · NARP · AER — never swap |
-| **Vanish numbers** | FRP = cane · MSP = cereals/pulses/oilseeds/cotton/jute |
-
 ---
 
 ## N.1 Land Use, Farming Types, Seasons

@@ -105,27 +105,6 @@ Earthworms = friends of farmers; NOT two pairs of hearts (2025 Q73 Only 1)
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **CLORPT** | Climate · Living organisms · Relief · Parent rock · Time (Jenny) |
-| **Urvara / Usara** | Ancient fertile / sterile names — Usara later = saline sterile too |
-| **Rock paints soil** | Basalt → **black** · Granite–gneiss → **red** · Rain + heat → **laterite** |
-| **New kid / old bang** | **Khadar** = new, fine, fertile · **Bangar** = old + **more kankar** |
-| **Vanish → revive** | **Bhabar** streams disappear · **Tarai** streams re-emerge |
-| **Himalaya veto** | No Deccan **black/regur** in the Himalaya (2018 Q31) |
-| **Later = brick** | Laterite soft when wet, hardens to **brick**; stays **rich in Fe/Al** |
-| **L-G-S remedy** | **Lime** = acid · **Gypsum** = alkali/sodic · **Salt** = leach + drain |
-| **Sheet ladder** | Sheet → Rill → Gully → Ravine / badland (Chambal) |
-| **Year-end Soil Day** | **5 December** — not 5 June (Environment Day) |
-| **Mar moisture / Kabar block** | Bundelkhand **black** pair · **Parua–Rakar** = **red** pair |
-| **Stones then crops** | **Bhabar** = pebbles (poor) · **Tarai** = moist crops |
-| **Shelter ≠ check** | Shelter belt = **wind**/dunes · Check dam = **gully** |
-| **Rann = monsoon salt** | SW monsoon dumps salt crust on **Rann of Kutch** |
-| **Karewa = Kashmir** | Lacustrine deposits → **saffron** / almond / apple |
-| **Brazil twin** | **Selva** = rainforest · **Terra Roxa** = basaltic coffee soil — **not** Indian regur |
-
 ---
 
 ## N.1 Formation, Profile, Classification

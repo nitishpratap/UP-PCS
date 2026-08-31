@@ -47,17 +47,6 @@ UP: Dudhwa NP | TRs Dudhwa/Pilibhit/Ranipur | Katarniaghat/Kishanpur WLS | 12 Ra
 | **Ramsar Site** | Wetland of international importance | रामसर स्थल |
 | **ESZ** | EPA buffer restricting polluting activity around PA | पारिस्थितिक संवेदनशील क्षेत्र |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **NP = No exploitation** | Grazing banned in NP, not in sanctuary |
-| **36A = Area buffer** | Conservation Reserve between PAs |
-| **36B = Belongs to community** | Community Reserve on community land |
-| **Nokrek = NE Meghalaya** | Not Manipur (2025 Q144) |
-| **Sultanpur = Haryana** | Not UP (2025 Q58) |
-| **ESZ = EPA** | Not WPA 1972 |
-
 ---
 
 ## 6.1 Wildlife Sanctuary

@@ -68,25 +68,6 @@ PESHWAS
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **Plassey plot, Buxar punch** | 1757 = conspiracy; 1764 = real fight; Diwani only in **1765** |
-| **Munro fought, Clive framed** | Buxar commander = **Hector Munro**; Clive settled **Allahabad** |
-| **Diwani money, Nizamat name** | Company takes revenue; Nawab keeps police/justice **in name** |
-| **Ring → Sub → Lapse** | Hastings buffer → Wellesley alliance → Dalhousie heirlessness |
-| **Hyderabad first** | First Subsidiary Alliance = **Nizam, 1798**, never a Lapse state |
-| **Madras → Mangalore → Seringapatam → Tipu dead** | Mysore treaties/ends in war order I–IV |
-| **Salbai then Bassein** | **1782** First Maratha peace; **1802** Peshwa subsidiary |
-| **Lahore treaty, Gujrat annex** | **1846** settle; **1849** annex after Gujrat |
-| **Sugauli hills, not Kathmandu** | Shimla/Ranikhet/Nainital belt yes; capital stays Nepalese |
-| **Sindh before Punjab** | **1843** then **1849** |
-| **Vishwanath opens every list** | First hereditary Peshwa in every chronology PYQ |
-| **Awadh is the exception** | **1856 misrule**, not Doctrine of Lapse |
-| **Amritsar keeps Sutlej** | **1809** peace with Ranjit; war only after his death |
-| **Surat → Purandhar → Salbai** | First Maratha War treaty ladder |
-
 ---
 
 ## 2.0 One clear picture — how the Company became an empire

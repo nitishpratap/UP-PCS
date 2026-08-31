@@ -56,19 +56,6 @@ Company ends 1858 — first Viceroy = Canning
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **Pandey spark, Meerut start** | **29 March** Barrackpore; **10 May** Meerut mass outbreak |
-| **Delhi symbol, Bakht army** | Zafar nominal; **Bakht Khan** real organiser |
-| **Kanpur Nana, Tantia gun** | Political vs military |
-| **Lucknow Begum, Bareilly Khan** | Hazrat Mahal ≠ Khan Bahadur Khan |
-| **Jhansi Lapse, Awadh misrule** | Different annexation tools |
-| **Faizabad Ahmadullah, Allahabad Liaquat** | Two UP maulvis, two cities |
-| **Queen at Allahabad** | Proclamation **1 Nov 1858** |
-| **Canning first Viceroy** | Not Dalhousie |
-
 ---
 
 ## 5.0 One clear picture — why 1857 rose and fell

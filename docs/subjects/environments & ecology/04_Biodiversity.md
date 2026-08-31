@@ -46,17 +46,6 @@ SPECIES ROLES: Endemic = only here | Invasive = non-native + harmful | Keystone 
 | **Ex-situ** | Conservation **outside** natural habitat | पारजी संरक्षण |
 | **PBR** | People's Biodiversity Register at local level | जन जैव विविधता रजिस्टर |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **G-S-E** | **G**enetic → **S**pecies → **E**cosystem |
-| **HIPPO** | **H**abitat, **I**nvasive, **P**ollution, **P**opulation, **O**ver-exploitation |
-| **Threatened = VEC** | **V**U + **E**N + **C**R |
-| **Hotspot 1500 + 70%** | Endemic plants + habitat lost |
-| **India 4: HIWS** | **H**imalaya, **I**ndo-Burma, **W**estern Ghats, **S**undaland |
-| **NBA Chennai** | Biological Diversity Act authority HQ |
-
 ---
 
 ## 4.1 Biodiversity – Meaning

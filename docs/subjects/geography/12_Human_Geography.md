@@ -83,21 +83,6 @@ SCHEMES chrono: JNNURM 2005 → Urban Housing Policy 2007 → AMRUT Jun 2015 →
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **5k · 400 · 75%** | Census town triple (male main non-agri) |
-| **UP Smart 10 — no Ghaziabad** | Central Mission list only |
-| **HRIDAY = Kashi + Mathura** | Not Prayagraj / Ayodhya |
-| **05 · 07 · 15 · 19** | JNNURM · Housing Policy · AMRUT · JJM |
-| **Rurban 2016 · Ghurye** | SPMRM launch; sociologist lock |
-| **1 lakh · 10–50 lakh · >50 lakh · 1 crore** | Class I · NCERT metro · NCERT mega · UN megacity |
-| **Rajasthan clustered · NE dispersed** | Water cluster vs hill/forest scatter |
-| **Hamlets = panna / para / nagla / dhani** | One village, many units |
-| **2011 UA top** | Mumbai > Delhi > Kolkata > Chennai |
-| **Ratzel → Vidal → Griffith Taylor** | Determinism → Possibilism → Neo-determinism |
-
 ---
 
 ## N.0 Framework — Nature & Scope of Human Geography

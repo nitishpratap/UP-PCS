@@ -65,18 +65,6 @@ Khusrau = Sultanate (NOT Akbar/Tansen) | Tutinama = Nakhshabi (NOT Khusrau)
 | Tuzuk-i-Jahangiri vs Padshahnama | Emperor's own memoir vs court historian's Shah Jahan chronicle | तुज़ुक / पादशाहनामा |
 | Persian vs Turki (Mughal) | Mughal court language vs Babur's mother-tongue memoir only | फ़ारसी / चग़ताई तुर्की |
 
-### Memory tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **M-B-T (Sultanate hist)** | Minhaj-Tabaqat, Barani-Tarikh/Tughlaqnama, Taj-ul-Maasir Hasan Nizami |
-| **Barani not Battuta** | 2019 Q16: Tughlaqnama = **Barani** |
-| **Khusrau = 4** | 2019 Q88: Amir Khusrau → Rag Vibodh (4) |
-| **A-F-M-D (2024 Q132)** | Faizi → Sheikh Mubarak → Abul Fazl → Daniyal = 3-2-1-4 |
-| **Turki Babur only** | 2025 Q3: Babur memoir Turki; court = Persian |
-| **Ain = Admin** | Ain-i-Akbari = **A**dministration gazetteer |
-| **Pad = Shah** | Padshahnama = **Pad**shah Jahan's reign |
-
 ---
 
 ## 5.1 Medieval Literature — Overview

@@ -67,19 +67,6 @@ UP: Kanpur Ganga tanneries | Ghaziabad/Noida air | Moradabad noise hotspot | Taj
 | **CGWB** | Groundwater assessment and quality reports | केंद्रीय भूजल बोर्ड |
 | **EPR** | Producer responsibility for end-of-life product/waste | विस्तारित उत्पादक जिम्मेदारी |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **74-81-86** | Water → Air → EPA |
-| **CGWB = Groundwater** | Not CPCB (2025 Q70) |
-| **Lichens die in pollution** | Good indicators, bad growth area |
-| **Yellow BMW = burn** | Incineration/autoclave |
-| **White BMW = sharps** | Needles, blades |
-| **DO drops with heat** | Thermal pollution mechanism |
-| **80% marine from land** | Not mainly ships |
-| **SUP 2022, PWM 2016** | Do not swap years |
-
 ---
 
 ## 9.1 Environmental Pollution

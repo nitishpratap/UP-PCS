@@ -53,21 +53,6 @@ Third Carnatic War  1758–63   Wandiwash 1760; Treaty of Paris 1763
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **Gama Calicut, Albuquerque Goa** | **1498** arrival ≠ **1510** conquest |
-| **EIC then VOC** | English **1600**, Dutch **1602** |
-| **French last** | French company **1664** after Portuguese/Dutch/English/Danish |
-| **Hawkins then Roe** | **1608** captain; **1615–19** James I’s ambassador; both at **Jahangir** |
-| **Chinsurah Dutch, Chandernagore French** | Two Bengal names, two powers |
-| **Serampore Danish** | Not French; Carey mission later |
-| **Aix returns Madras** | **1748** First Carnatic; **Paris 1763** ends Third |
-| **Arcot Second, Wandiwash Third** | Clive **1751**; Coote **1760** |
-| **Factory ≠ mill** | Trading post under leave |
-| **Madras Corp first** | Municipal Corporation **1687–88**, not Calcutta |
-
 ---
 
 ## 1.0 One clear picture — Europeans to English ascendancy

@@ -81,22 +81,6 @@ Shakti — Almora
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **Macaulay marks, Wood writes** | 1835 Minute settles English medium; 1854 Despatch builds the whole ladder |
-| **Hunter digs primary, Sadler builds varsity** | 1882 = primary focus; 1917–19 = Calcutta University review |
-| **Hartog counts wastage, Sargent counts years** | 1929 Hartog flags primary drop-out and says consolidate; 1944 Sargent sets a 40-year plan |
-| **Raleigh reports, Curzon legislates** | 1902 Commission report feeds the 1904 Universities Act |
-| **Adam locks, Metcalfe unlocks** | 1823 licensing regulation vs 1835 press freedom |
-| **Lytton gags, Ripon un-gags** | 1878 Vernacular Press Act vs 1882 repeal |
-| **Jones founds, Hastings declines** | Asiatic Society 1784 — founder-president is Jones, not the Governor-General who backed it |
-| **Carey prints where the Company can't reach** | Serampore was Danish territory, so the mission press and college escaped Company press curbs |
-| **NCE is national, Wardha is basic** | 1906 National Council of Education = Swadeshi-era literary/technical schooling; 1937 Wardha = craft-centred primary reform |
-| **Wood is the Despatch, Wood is not the Minute** | 1854 ≠ 1835; keep Macaulay and Wood in separate boxes |
-| **Duncan built a college, Jones built a Society** | 1791 Banaras Sanskrit College (Duncan) vs 1784 Asiatic Society (Jones) — do not swap founders |
-
 ---
 
 ## 7.0 One clear picture — how British India built (and controlled) schools and papers

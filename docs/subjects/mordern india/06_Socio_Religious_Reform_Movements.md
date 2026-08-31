@@ -66,21 +66,6 @@ Annie Besant (full)     Central Hindu College 1898; TS President 1907; INC Presi
 
 ---
 
-## Memory Tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **Roy bans, Vidyasagar weds** | Sati ban **1829** = Roy’s campaign; Widow Remarriage Act **1856** = Vidyasagar’s campaign |
-| **Phule seeks truth, Ranade prays** | **Satyashodhak** = Phule, 1873; **Prarthana** = Ranade’s Bombay circle, 1867 |
-| **Dayanand looks back, Roy looks forward** | Arya Samaj’s slogan is “Back to the Vedas”; Brahmo Samaj used reason against idolatry, not Vedic infallibility |
-| **Mandali hides, Samaj shows** | **Paramahansa Mandali, 1849** was secret; **Prarthana Samaj, 1867** was public — same Bombay reform family |
-| **Guru unites caste, Periyar smashes it** | **SNDP** preached one caste, one god; **Self-Respect** attacked caste and priestcraft outright |
-| **Singh Sabha guards the Khalsa** | 1873 Amritsar response to Christian missionaries, Arya Samaj’s shuddhi pressure, and Sikh identity anxiety |
-| **Ramabai writes, Karve weds** | Ramabai wrote *The High Caste Hindu Woman* and ran Sharada Sadan; Karve personally remarried a widow and built the Widow Remarriage Association |
-| **Aligarh builds, Deoband guards** | MAO College = modern English college, 1875; Dar-ul-Ulum = traditional seminary, 1866 |
-| **Wahabi fights, Ahmadiyya waits** | Rae Bareli stream turned militant/anti-British; Qadian stream stayed peaceful and missionary |
-| **1829 → 1856 → 1872 → 1891** | Sati ban → Widow Remarriage → Native Marriage → Age of Consent — the four-law ladder |
-
 ---
 
 ## 6.0 One clear picture — five reform streams by region

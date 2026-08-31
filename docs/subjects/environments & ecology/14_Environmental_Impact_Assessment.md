@@ -69,18 +69,6 @@ TRAPS:
 | **ToR** | Scope of issues the EIA must study — fixed at scoping | संदर्भ की शर्तें |
 | **NGT** | Green tribunal for EC and pollution appeals | राष्ट्रीय हरित अधिकरण |
 
-### Memory Tricks
-
-| Trick | Lock |
-|-------|------|
-| **A = All-India central** | Category A → MoEFCC |
-| **B = Bharat/state** | Category B → SEIAA |
-| **4 stages** | Screening → Scoping → Consultation → Appraisal |
-| **EPA 86 → EIA 94 → 2006** | Legal timeline |
-| **EIA = Project; SEA = Plan** | Decision level |
-| **CPCB ≠ Clearance** | Standards only |
-| **NGT 2010** | EC appeals |
-
 ---
 
 ## 14.1 Environmental Impact Assessment (EIA)

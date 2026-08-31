@@ -81,18 +81,6 @@ Jizya reimposed 1679 | Later: Muhammad Shah Rangeela (Tappa — Topic 6)
 | Bairam Khan vs Rahim | Regent; Khan-i-Khana from Humayun vs son, Hindi poet | बैरम खान / रहीम |
 | Dara vs Aurangzeb | Scholar, syncretic; orthodox, won 1658 | दारा / औरंगज़ेब |
 
-### Memory tricks
-
-| Trick | Remembers |
-|-------|-----------|
-| **PKCG Babur** | Panipat 26 → Khanwa 27 → Chanderi 28 → Ghagra 29 |
-| **2-4-1-3 (2025 Q79)** | Daurah → Chausa → Kannauj → Samugarh |
-| **Tombs B-H-J-S** | Kabul–Delhi–Lahore–Agra |
-| **Bhata not Bairam title** | Khan-i-Khana = **Humayun** gave Bairam |
-| **Buland = Gujarat** | Not Jahangir’s birth |
-| **Mansab dies with holder** | 2019 Q92 = 1 only |
-| **3-2-1-4 deaths** | Faizi → Mubarak → Abul Fazl → Daniyal |
-
 ---
 
 ## 7.1 Babur — Foundation & Literature
