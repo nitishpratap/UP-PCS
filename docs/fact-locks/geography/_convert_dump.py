@@ -7,6 +7,8 @@ from pathlib import Path
 
 EMOJI_RE = re.compile(
     "["
+    "\U0000FE0F"
+    "\U0001F1E6-\U0001F1FF"
     "\U0001F300-\U0001FAFF"
     "\U00002700-\U000027BF"
     "\U00002600-\U000026FF"
@@ -53,9 +55,15 @@ def body_cleanup(body: str) -> str:
     lines: list[str] = []
     for line in body.splitlines():
         if line.startswith("####"):
-            line = "####" + strip_emoji(line[4:])
+            rest = strip_emoji(line.lstrip("#").strip())
+            if not rest:
+                continue
+            line = f"#### {rest}"
         elif line.startswith("###"):
-            line = "###" + strip_emoji(line[3:])
+            rest = strip_emoji(line.lstrip("#").strip())
+            if not rest:
+                continue
+            line = f"### {rest}"
         lines.append(line)
     return "\n".join(lines).strip()
 
@@ -65,6 +73,7 @@ HERO = {
     3: ("Geography · Part 3", "Climatology", "~9.5/10"),
     4: ("Geography · Part 4", "Oceanography", "~9/10"),
     5: ("Geography · Part 5", "World Geography", "~9/10"),
+    6: ("Geography · Part 6", "Indian Physical Geography", "~9/10"),
 }
 
 TAIL_MARKERS = (
@@ -81,6 +90,15 @@ TAIL_MARKERS = (
     "## FINAL WORLD MAP",
     "# 🧠 FINAL WORLD MAP",
     "## 🧠 FINAL WORLD MAP",
+    "# 60 FACTS TO REVISE",
+    "## 60 FACTS TO REVISE",
+    "## 🔥 60 FACTS",
+    "# 🔥 60 FACTS",
+    "## FINAL MASTER RATTA",
+    "# FINAL MASTER RATTA",
+    "# 🔥 INDIAN PHYSICAL GEOGRAPHY — FINAL MASTER RATTA",
+    "## 🔥 INDIAN PHYSICAL GEOGRAPHY — FINAL MASTER RATTA",
+    "# INDIAN PHYSICAL GEOGRAPHY — FINAL MASTER RATTA",
 )
 
 
@@ -100,7 +118,8 @@ def cut_tail(raw: str) -> tuple[str, str]:
         if re.match(r"^#\s+", line) and not re.match(r"^##\s+", line):
             line = "## " + strip_emoji(line.lstrip("# ").strip())
         elif line.startswith("###"):
-            line = "###" + strip_emoji(line[3:])
+            rest = strip_emoji(line.lstrip("#").strip())
+            line = f"### {rest}" if rest else "###"
         elif line.startswith("##"):
             line = "## " + strip_emoji(line.lstrip("# ").strip())
         lines_out.append(line)

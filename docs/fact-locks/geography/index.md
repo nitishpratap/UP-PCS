@@ -24,4 +24,7 @@ hide:
 [**Part 5 — World Geography**
 <span>Continents, peaks, rivers, lakes, deserts, grasslands, islands, seas, straits, canals, resources, climate · MUST RATTA · 101 sections.</span>](05_World_Geography.md){ .study-card }
 
+[**Part 6 — Indian Physical Geography**
+<span>Himalayas, plains, plateau, desert, ghats, coasts, islands, drainage, soils, vegetation, UP locks · Final Master Ratta · 60 daily facts · 150 sections.</span>](06_Indian_Physical_Geography.md){ .study-card }
+
 </div>
