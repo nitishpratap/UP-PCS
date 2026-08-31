@@ -477,30 +477,90 @@ D. 4 2 3 1
 
 ## 5.13 Supplementary Works — Alberuni, Jaisi, Badauni, Isami
 
-### Arabic & early Indic contact
+**Extra book–author locks** beyond the main Sultanate and Mughal tables — often tested as traps.
 
-- **Alberuni (Al-Biruni)** wrote **Kitab-ul-Hind** in **Arabic** after studying India under **Mahmud of Ghazni** — a scientific, comparative account of Indian religion, astronomy, and society.
-- It is a **Ghaznavid-era** source for early medieval India, not a Delhi Sultanate court chronicle.
+### Quick learn table (read this first)
 
-### Vernacular Awadhi line (UP angle)
+| Who | Book | Language | One-line lock |
+|-----|------|----------|---------------|
+| **Alberuni** | **Kitab-ul-Hind** | Arabic | India under **Mahmud of Ghazni** — science, religion, society |
+| **Malik Muhammad Jaisi** | **Padmavat** | Awadhi | Sufi romance of **Padmini / Ratan Sen** (~16th c.) |
+| **Mulla Daud** | **Chandayan** | Awadhi/Hindavi | Early vernacular love romance (same stream as Jaisi) |
+| **Abdul Qadir Badauni** | **Muntakhab-ut-Tawarikh** | Persian | Secret **anti-Akbar** history written at court |
+| **Abdul Malik Isami** | **Futuh-us-Salatin** | Persian | **Bahmani / Deccan** history |
+| **Mirza Muhammad Kazim** | **Alamgirnama** | Persian | **Aurangzeb** reign chronicle |
+| **Firuz Shah Tughlaq** | **Fatwa-i-Firuz Shahi** | Persian | Sultan's own rules — **not** Barani's Fatawa-i-Jahandari |
 
-- **Malik Muhammad Jaisi** composed **Padmavat** in **Awadhi** (~16th century) — a Sufi-influenced romance of **Padmini/Ratan Sen**; highly UP-relevant.
-- **Padmavat** (Jaisi) is **not** the same as **Padmavati Katha** (Damodar Kavi) in the **2019 Q88** match list — a common title trap.
-- **Mulla Daud's Chandayan** is an early **Awadhi/Hindavi** love romance and belongs to the same vernacular stream as Jaisi.
+---
 
-### Badauni — critical counter-history
+### 5.13.1 Alberuni — Arabic & early Indic contact
 
-- **Abdul Qadir Badauni** secretly wrote **Muntakhab-ut-Tawarikh**, attacking Akbar's liberal policies, **sulh-i-kul**, and translation projects while serving at court.
-- He also led the Persian **Ramayana** translation team in Akbar's **kitabkhana** — official service alongside private criticism.
-- Pair Badauni with **hostile historiography**; pair **Abul Fazl** with official **Akbarnama** and **Ain-i-Akbari**.
+**Al-Biruni (Alberuni)** | **Kitab-ul-Hind** | **Arabic** | **Ghaznavid era**
 
-### Other coaching-map locks
+- **Alberuni** wrote **Kitab-ul-Hind** in **Arabic**.
+- He studied India while serving under **Mahmud of Ghazni**.
+- The book is a **scientific, comparative** account of Indian **religion, astronomy, and society**.
+- It belongs to the **Ghaznavid era** — an early medieval source.
+- It is **not** a Delhi Sultanate court chronicle like Barani or Minhaj.
+
+> **Exam lock:** **Kitab-ul-Hind = Alberuni + Arabic + Ghazni** — not Khusrau, not Barani.
+
+---
+
+### 5.13.2 Vernacular Awadhi line (UP angle)
+
+**Awadhi/Hindavi** | **North Indian vernacular** | parallel to Persian court literature
+
+**Malik Muhammad Jaisi — Padmavat**
+
+- **Malik Muhammad Jaisi** composed **Padmavat** in **Awadhi** (~16th century).
+- It is a **Sufi-influenced romance** of **Padmini and Ratan Sen**.
+- This is highly **UP-relevant** Awadhi literature.
+
+**Mulla Daud — Chandayan**
+
+- **Mulla Daud's Chandayan** is an early **Awadhi/Hindavi** love romance.
+- It belongs to the **same vernacular stream** as Jaisi's **Padmavat**.
+
+**Trap — two different "Padma" books**
+
+| Book | Author | Remember |
+|------|--------|----------|
+| **Padmavat** | **Malik Muhammad Jaisi** | Awadhi epic; UP lock |
+| **Padmavati Katha** | **Damodar Kavi** | Appears in **2019 Q88** match list |
+
+- **Padmavat** (Jaisi) is **not** the same as **Padmavati Katha** (Damodar Kavi) — a common title trap in **2019 Q88**.
+
+---
+
+### 5.13.3 Badauni — critical counter-history
+
+**Abdul Qadir Badauni** | **Muntakhab-ut-Tawarikh** | **Secret critic at Akbar's court**
+
+- **Badauni** secretly wrote **Muntakhab-ut-Tawarikh** while still serving at Akbar's court.
+- In it he attacked Akbar's **liberal policies**, **sulh-i-kul**, and **translation projects**.
+- At the same time he **led the Persian Ramayana translation** team in Akbar's **kitabkhana**.
+- So Badauni did **official translation work** but wrote **private hostile history**.
+
+**Badauni vs Abul Fazl — pair correctly**
+
+| Historian | Attitude | Main works |
+|-----------|----------|------------|
+| **Abdul Qadir Badauni** | **Hostile** / critical | **Muntakhab-ut-Tawarikh** |
+| **Abul Fazl** | **Official** / panegyric | **Akbarnama**, **Ain-i-Akbari** |
+
+- Pair **Badauni** with **hostile historiography**.
+- Pair **Abul Fazl** with official **Akbarnama** and **Ain-i-Akbari**.
+
+---
+
+### 5.13.4 Other coaching-map locks
 
 | Book | Author | Lock |
 |------|--------|------|
 | **Futuh-us-Salatin** | **Abdul Malik Isami** | Bahmani / Deccan history |
 | **Alamgirnama** | Mirza Muhammad Kazim | **Aurangzeb** reign chronicle |
-| **Fatwa-i-Firuz Shahi** | **Firuz Shah Tughlaq** | Sultan's own regulations — not Barani's Fatawa-i-Jahandari |
+| **Fatwa-i-Firuz Shahi** | **Firuz Shah Tughlaq** | Sultan's own regulations — not Barani's **Fatawa-i-Jahandari** |
 
 ---
 
