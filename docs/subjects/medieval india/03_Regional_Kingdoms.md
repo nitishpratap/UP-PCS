@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Sharki Kingdom | Rulers and Their States | Kashmir under Zain-ul-Abidin | Vijayanagara Empire | Vijayanagara Administration | Bahmani Kingdom | Deccan Sultanates | Krishnadevaraya | Battle of Talikota | Bahmani Administration
+Sharqi Sultanate (Jaunpur) | Kashmir under Zain-ul-Abidin | Vijayanagara Empire (rulers + administration + Krishnadevaraya) | Bahmani Kingdom (sultans + administration) | Deccan Sultanates | Battle of Talikota
 
 </details>
 
@@ -84,25 +84,24 @@ PYQ LOCKS
 
 ---
 
-## 3.1 Sharqi (Sharki) Kingdom — Jaunpur
+## 3.1 Sharqi Sultanate (Jaunpur)
 
 **Period:** **1394–1484** | **Capital:** **Jaunpur** (eastern UP) | **Founder:** **Malik Sarwar** (Malik-us-Sharq)
 
-- After Timur weakened Delhi in **1398**, **Malik Sarwar** declared independence at Jaunpur around **1394**.
+- After Timur weakened Delhi in **1398**, **Malik Sarwar** declared independence at Jaunpur around **1394** and took the title **Malik-us-Sharq**.
 - The Sharqi core lay in **eastern UP**, covering the Jaunpur, Ghazipur, and Banaras belt.
 - Sharqi rulers also claimed a wider reach from Aligarh to Darbhanga.
 - Jaunpur was called **"Shiraz of the East"** because its court patronised Persian literature.
-- **Malik Sarwar** founded the line around **1394** and took the title **Malik-us-Sharq**.
-- **Mubarak Shah** succeeded Malik Sarwar and continued Sharqi independence from Delhi.
-- **Shamsuddin Ibrahim Shah** was the greatest Sharqi builder and patron of architecture.
+- **Malik Sarwar (1394–1399)** founded the Sharqi line after Delhi weakened post-Timur.
+- **Mubarak Shah** succeeded Malik Sarwar and consolidated the Jaunpur–Banaras belt.
+- **Shamsuddin Ibrahim Shah** was the greatest Sharqi builder and built **Atala Masjid**, **Lal Darwaza Masjid**, and **Jami Masjid (Jaunpur)**.
 - **Mahmud Shah** ruled after Ibrahim and faced growing Lodi pressure from Delhi.
 - **Hussain Shah** was the last Sharqi sultan before **Bahlul Lodi** annexed Jaunpur in **1484**.
 - **Sharqi architecture** is known for massive gateways, huge arches, and bold stonework.
-- The best-known Sharqi monuments are **Atala Masjid**, **Lal Darwaza Masjid**, and **Jami Masjid (Jaunpur)**.
 - **Malik Muhammad Jaisi** composed **Padmavat** in the Jaunpur cultural milieu.
 - **Bahlul Lodi** annexed Jaunpur in **1484** after a prolonged Lodi–Sharqi struggle.
 
-> **Exam note:** **Lal Darwaza–Jaunpur** is **correct** (2018 Q19). Do not confuse it with **Tin Darwaza–Ahmedabad**: Tin Darwaza stands at **Bidar Fort**, while Ahmedabad has **Teen Darwaza**.
+> **Exam note:** **Lal Darwaza–Jaunpur** is **correct** (2018 Q19). Do not confuse it with **Tin Darwaza–Ahmedabad**: Tin Darwaza stands at **Bidar Fort**, while Ahmedabad has **Teen Darwaza**. Among Topic-3 states, only **Sharqi Jaunpur** lies in modern **Uttar Pradesh**.
 
 ### PYQ — Sharqi monuments
 
@@ -160,84 +159,13 @@ D. IV, III, I, II
 
 ---
 
-## 3.2 Rulers and Their States — Master Table
+## 3.2 Kashmir under Zain-ul-Abidin
 
-| State / Empire | Founder / Key ruler | Capital(s) | Period |
-|----------------|---------------------|------------|--------|
-| **Sharqi Sultanate** | Malik Sarwar | **Jaunpur** | 1394–1484 |
-| **Kashmir Sultanate** | Zain-ul-Abidin (peak) | **Srinagar** | 1420–1470 |
-| **Vijayanagara** | Harihara I & Bukka I; Krishnadevaraya (peak) | **Hampi** | 1336–1565 peak |
-| **Bahmani** | Hasan Gangu | **Gulbarga**, then **Bidar** | 1347–1518 |
-| **Bijapur (Adil Shahi)** | Yusuf Adil Shah | **Bijapur** | 1490–1686 |
-| **Golkonda (Qutb Shahi)** | Quli Qutb Shah | **Golkonda**, later **Hyderabad** | 1518–1687 |
-| **Ahmadnagar (Nizam Shahi)** | Malik Ahmad | **Ahmadnagar** | 1490–1636 |
-| **Bidar (Barid Shahi)** | Amir Barid | **Bidar** | 1492–1619 |
-| **Berar (Imad Shahi)** | Fathullah Imad-ul-Mulk | **Ellichpur** | 1490–1574 |
-
-### Sharqi rulers (Jaunpur)
-
-- **Malik Sarwar (1394–1399)** founded the Sharqi line after Delhi weakened post-Timur.
-- **Mubarak Shah** consolidated the Jaunpur–Banaras belt.
-- **Shamsuddin Ibrahim Shah** built **Atala Masjid**, **Lal Darwaza**, and **Jami Masjid** — peak of Sharqi architecture.
-- **Mahmud Shah** and **Hussain Shah** were the last rulers before Lodi annexation (**1484**).
-
-### Kashmir Sultanate — key rulers
-
-- **Sikandar Shah (1389–1413)** forced conversions, destroyed temples, and allowed cow slaughter under **Suha Bhatt**.
-- **Zain-ul-Abidin (1420–1470)** reversed Sikandar’s policies — the **Bud Shah** phase tested in UPPCS.
-
-### Vijayanagara — dynasty line
-
-- **Harihara I & Bukka I (Sangama, from 1336)** founded the empire at **Hampi**.
-- **Deva Raya II (1424–1446)** was a strong Sangama ruler who fought the Bahmanis.
-- **Saluva Narasimha (1485–1490)** seized power and began the **Saluva** line.
-- **Krishnadevaraya (1509–1529, Tuluva)** was the military and literary peak.
-- **Achyuta Raya** and **Sadasiva Raya** ruled before the **Rama Raya** regency.
-- **Tirumala and Venkata II (Aravidu)** ruled the diminished post-Talikota kingdom from **Penukonda/Chandragiri**.
-
-### Bahmani — key sultans
-
-- **Hasan Gangu / Alauddin Bahman Shah (1347–1358)** founded the kingdom at **Gulbarga**.
-- **Muhammad Shah I** and **Firoz Shah Bahmani** consolidated early Bahmani power.
-- **Ahmad Shah I Wali (1422–1436)** shifted the capital to **Bidar** (~**1429**).
-- **Muhammad Shah III** ruled when **Mahmud Gawan** served as **wazir**.
-- **Kalimullah** was the last Bahmani sultan before the **1518** split.
-
-### Deccan Sultanates — founders
-
-- **Yusuf Adil Shah** founded **Bijapur (Adil Shahi)**.
-- **Quli Qutb Shah** founded the **Golkonda (Qutb Shahi)** line.
-- **Malik Ahmad** founded **Ahmadnagar (Nizam Shahi)**.
-- **Amir Barid** founded **Bidar (Barid Shahi)**.
-- **Fathullah Imad-ul-Mulk** founded **Berar (Imad Shahi)** at **Ellichpur**.
-
-### Literary works — exam locks
-
-| Work | Author / context | Polity |
-|------|------------------|--------|
-| **Padmavat** | **Malik Muhammad Jaisi** | Sharqi Jaunpur milieu |
-| **Amuktamalyada** | **Krishnadevaraya** | Vijayanagara (Telugu) |
-| **Manucharitramu** | **Allasani Peddana** | Krishnadevaraya’s court |
-| **Kitab-i-Nauras** | **Ibrahim Adil Shah II** | Bijapur (Adil Shahi) |
-| **Riyaz-ul-Insha** | **Mahmud Gawan’s letters** | Bahmani administration |
-| **Riyaz-us-Salatin** | Bengal history | Not Bahmani |
-| **Burhan-e-Masir** | Ahmadnagar chronicle | Nizam Shahi successor |
-| **Mirat-e-Sikandari** | Gujarat victory narrative | Regional history |
-
-- The main conflict axis ran between **Vijayanagara and the Bahmani Kingdom** over the **Raichur doab**.
-- Later, **Vijayanagara** faced a **Deccan confederacy** of successor sultanates at **Talikota**.
-- **UP angle:** Among these regional states, only **Sharqi Jaunpur** lies in modern **Uttar Pradesh**.
-
-> **Exam note:** Do not confuse **Bidar**, the Bahmani and later Barid Shahi centre, with **Bijapur**, the Adil Shahi capital.
-
----
-
-## 3.3 Kashmir under Zain-ul-Abidin
-
-**Reign:** **1420–1470** | **Title:** **Bud Shah** (Great Sultan)
+**Reign:** **1420–1470** | **Capital:** **Srinagar** | **Title:** **Bud Shah** (Great Sultan)
 
 - His predecessor **Sikandar Shah (1389–1413)** had forced conversions, destroyed temples, and allowed cow slaughter under **Suha Bhatt**.
-- Zain-ul-Abidin **abolished jaziya** and banned cow slaughter.
+- **Zain-ul-Abidin (1420–1470)** reversed Sikandar’s intolerant policies and earned the title **Bud Shah**.
+- He **abolished jaziya** and banned cow slaughter.
 - He **restored temples** and permitted reconversion to Hinduism.
 - He appointed **Sriya Bhatt** as Minister of Justice and court physician.
 - He patronised learning in **Persian, Kashmiri, Sanskrit, and Tibetan**.
@@ -303,7 +231,7 @@ D. Haider Shah
 
 ---
 
-## 3.4 Vijayanagara Empire
+## 3.3 Vijayanagara Empire
 
 **Founded:** **1336** | **Founders:** **Harihara I & Bukka I** (Sangama) | **Capital:** **Hampi** (Tungabhadra)
 
@@ -322,11 +250,16 @@ D. Haider Shah
 - Foreign travellers **Nuniz**, **Paes**, and **Duarte Barbosa** describe Hampi's wealth.
 - Major Hampi monuments include the **Vitthala Temple**, **Virupaksha**, and **Hazara Rama** temples.
 
-> **Exam note:** The founders of Vijayanagara were **Harihara I and Bukka I**, not Krishnadevaraya.
+### Rulers and dynasties
 
----
+- **Harihara I & Bukka I (Sangama, from 1336)** founded the empire at **Hampi**.
+- **Deva Raya II (1424–1446)** was a strong Sangama ruler who fought the Bahmanis.
+- **Saluva Narasimha (1485–1490)** seized power and began the **Saluva** line.
+- **Krishnadevaraya (1509–1529, Tuluva)** was the military and literary peak.
+- **Achyuta Raya** and **Sadasiva Raya** ruled before the **Rama Raya** regency.
+- **Tirumala and Venkata II (Aravidu)** ruled the diminished post-Talikota kingdom from **Penukonda/Chandragiri**.
 
-## 3.5 Vijayanagara Administration
+### Administration
 
 **Nayankara/amara system** | **Rajya** provinces | **Mahanavami** royal festival
 
@@ -338,129 +271,13 @@ D. Haider Shah
 - This system later became the precursor to post-1565 **Nayak kingdoms** such as Madurai and Tanjore.
 - The empire was divided into provinces called **rajyas**, each under a governor.
 - Below the province level lay **nadu** clusters and villages with local assemblies.
-- The **sabha** was the Brahmana agrahara assembly with stronger autonomy than a ordinary village **ur**.
+- The **sabha** was the Brahmana agrahara assembly with stronger autonomy than an ordinary village **ur**.
 - **Land revenue** was the main income, drawn from temple lands (**devadana**), **agrahara** grants, and peasant holdings.
 - The army included **elephants, cavalry, infantry, and artillery** by the sixteenth century, and the Portuguese supplied horses and firearms.
 - The **Mahanavami/Dasara** festival was a royal display of power, tribute collection, and military might.
 - Temple grants were recorded on **mandapa pillars** at Virupaksha and Vitthala.
 
-> **Exam note:** The **nayankara** system belongs to **Vijayanagara**, not to the Delhi **iqta** or the Mughal **jagir**. The logic is similar, but the polity is different.
-
----
-
-## 3.6 Bahmani Kingdom
-
-**Founded:** **1347** | **Founder:** **Hasan Gangu** (throne name **Alauddin Bahman Shah**)
-
-- **Hasan Gangu** rebelled against **Muhammad bin Tughlaq** and declared independence at **Gulbarga** in **1347**.
-- The early Bahmani capital was **Gulbarga**.
-- **Ahmad Shah I Wali** shifted the capital to **Bidar** around **1429**.
-- The kingdom was divided into **eight tarafs**, or provinces, each ruled by a **tarafdar**.
-- Bahmani was a long rival of **Vijayanagara** over the **Raichur doab**, and war and marriage alliances alternated between the two powers.
-- **Mahmud Gawan**, the Persian wazir under Muhammad Shah III, expanded Bahmani power to the Orissa coast.
-- Gawan also introduced land surveys and strict revenue accounting.
-- He was executed in **1481** after a forged treason letter, and Bahmani's administrative peak ended with his death.
-- Rival **Deccani and Afaqi** noble factions later paralysed the court.
-- The last sultan was **Kalimullah**, and the kingdom split in **1518** into five Deccan Sultanates.
-
-### Bahmani ruler chronology
-
-| Sultan | Period | Lock |
-|--------|--------|------|
-| **Alauddin Bahman Shah (Hasan Gangu)** | 1347–1358 | Founder at Gulbarga |
-| **Muhammad Shah I** | 1358–1375 | Early consolidation |
-| **Firoz Shah Bahmani** | 1397–1422 | Pre-Bidar phase |
-| **Ahmad Shah I Wali** | 1422–1436 | Capital shift to **Bidar** |
-| **Muhammad Shah III** | 1463–1482 | **Mahmud Gawan** as wazir |
-| **Kalimullah** | Last sultan | Kingdom split **1518** |
-
-> **Exam note:** **Hasan Gangu** founded the Bahmani Kingdom. **Mahmud Gawan** was a minister, not the founder.
-
----
-
-## 3.7 Deccan Sultanates
-
-**Five successor states (from ~1518):**
-
-| Sultanate | Dynasty | Capital |
-|-----------|---------|---------|
-| **Bijapur** | Adil Shahi | Bijapur |
-| **Golkonda** | Qutb Shahi | Golkonda, later Hyderabad |
-| **Ahmadnagar** | Nizam Shahi | Ahmadnagar |
-| **Bidar** | Barid Shahi | Bidar |
-| **Berar** | Imad Shahi | Ellichpur |
-
-- **Bijapur** is remembered for **Gol Gumbaz** and for **Ibrahim Adil Shah II**, who wrote **Kitab-i-Nauras**.
-- **Yusuf Adil Shah** founded the Adil Shahi line at Bijapur after the Bahmani split.
-- **Ismail Adil Shah** was defeated by **Krishnadevaraya** at **Raichur (1520)**.
-- **Golkonda** later centred on **Hyderabad**, built the **Charminar (1591)**, and was famous for diamond trade.
-- **Quli Qutb Shah** founded the Qutb Shahi dynasty at Golkonda.
-- **Muhammad Quli Qutb Shah** built **Hyderabad** and the **Charminar** in **1591**.
-- **Ahmadnagar** produced the chronicle **Burhan-e-Masir**.
-- **Malik Ahmad** founded the Nizam Shahi line at Ahmadnagar.
-- **Bidar** is linked to **Tin Darwaza** in Bidar Fort.
-- **Amir Barid** founded the Barid Shahi state at Bidar.
-- **Berar** was the smallest successor state and was absorbed early.
-- **Fathullah Imad-ul-Mulk** founded the Imad Shahi line at **Ellichpur**.
-
-- **Muhammad Quli Qutb Shah** founded **Hyderabad in 1591** and built the **Charminar**.
-- Four sultanates, **Bijapur, Ahmadnagar, Golkonda, and Bidar**, united against Vijayanagara at **Talikota in 1565**.
-- The Mughals annexed Ahmadnagar in **1636**, Bijapur in **1686**, and Golkonda in **1687**.
-- **Abul Hasan Qutb Shah** was the last ruler of Golkonda when Aurangzeb captured it.
-
-> **Exam note:** **Kitab-i-Nauras** was written by **Ibrahim Adil Shah II of Bijapur**, not by Krishnadevaraya (2020 Q44).
-
-### PYQs — Deccan Sultanates
-
-
-**1. (UPPCS Prelims 2020, Q44)** Who among the following was the author of the book **Kitab-i-Nauras**?
-
-A. Ibrahim Adil Shah II |
-
-B. Ali Adil Shah |
-
-C. Quli Qutab Shah |
-
-D. Akbar II
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-**Why:** **Ibrahim Adil Shah II** of **Bijapur (Adil Shahi)** wrote **Kitab-i-Nauras**, a collection of songs on music and devotion.
-
-**Trap:** **Krishnadevaraya** wrote **Amuktamalyada** (Telugu) — papers swap the two Deccan literary locks.
-
-</details>
-
-
-**2. (UPPCS Prelims 2020, Q34)** Who was the ruler of Golkonda when Aurangzeb seized the fort of Golkonda in **1687**?
-
-A. Abul Hasan Qutb Shah |
-
-B. Sikandar Adil Shah |
-
-C. Ali Adil Shah II |
-
-D. Shayasta Khan
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A**
-
-**Why:** **Abul Hasan Qutb Shah** was the **last Qutb Shahi** ruler when Aurangzeb captured Golkonda in **1687**.
-
-**Trap:** **Muhammad Quli Qutb Shah** founded **Hyderabad** and built **Charminar (1591)** — he ruled **a century earlier**, not in 1687.
-
-</details>
-
----
-
-## 3.8 Krishnadevaraya
-
-**Reign:** **1509–1529** | **Dynasty:** **Tuluva** | **Capital:** **Hampi**
+### Krishnadevaraya (1509–1529)
 
 - In the **Battle of Raichur (1520)**, he defeated **Ismail Adil Shah** of Bijapur and captured Raichur fort, marking his military peak.
 - He also defeated **Prataparudra** of Orissa/Gajapati and secured the Krishna boundary.
@@ -473,58 +290,37 @@ D. Shayasta Khan
 - He died in **1529**, and his brother **Achyuta Raya** succeeded him.
 - Later, the **Rama Raya** regency led the empire toward Talikota.
 
-> **Exam note:** **Amuktamalyada** was written by Krishnadevaraya in Telugu. **Kitab-i-Nauras** was written by **Ibrahim Adil Shah II** of Bijapur.
+> **Exam note:** The founders of Vijayanagara were **Harihara I and Bukka I**, not Krishnadevaraya. The **nayankara** system belongs to **Vijayanagara**, not to the Delhi **iqta** or the Mughal **jagir**. **Amuktamalyada** was written by Krishnadevaraya in Telugu; **Kitab-i-Nauras** was written by **Ibrahim Adil Shah II** of Bijapur.
 
 ---
 
-## 3.9 Battle of Talikota (1565)
+## 3.4 Bahmani Kingdom
 
-**Date:** **23 January 1565** | **Site:** **Rakkasa-Tangadi** (near Talikota)
+**Founded:** **1347** | **Founder:** **Hasan Gangu** (throne name **Alauddin Bahman Shah**) | **Capitals:** **Gulbarga**, then **Bidar**
 
-- **Cause:** **Aliya Rama Raya**, the Vijayanagara regent, repeatedly meddled in Deccan Sultanate successions and alienated all four major successor states.
-- **Course:** On **23 January 1565**, the four sultanates formed a coalition against Vijayanagara at **Rakkasa-Tangadi** near Talikota.
-- The coalition included **Bijapur under Ali Adil Shah I**, **Ahmadnagar under Hussain Nizam Shah I**, **Golkonda under Ibrahim Qutb Shah**, and **Bidar under Ali Barid**.
-- **Rama Raya** was captured and **beheaded** on the battlefield, and the Vijayanagara army collapsed.
-- **Result:** **Hampi** was looted for about six months and the old capital was abandoned.
-- The **Aravidu** dynasty retreated to **Penukonda and Chandragiri**, while **nayakas** became independent in Madurai, Tanjore, and Gingee.
-- Talikota ended Vijayanagara as a **great power**, even though the empire survived in name until **1646**.
+- **Hasan Gangu** rebelled against **Muhammad bin Tughlaq** and declared independence at **Gulbarga** in **1347**.
+- The early Bahmani capital was **Gulbarga**.
+- **Ahmad Shah I Wali** shifted the capital to **Bidar** around **1429**.
+- The kingdom was divided into **eight tarafs**, or provinces, each ruled by a **tarafdar**.
+- Bahmani was a long rival of **Vijayanagara** over the **Raichur doab**, and war and marriage alliances alternated between the two powers.
+- **Mahmud Gawan**, the Persian wazir under Muhammad Shah III, expanded Bahmani power to the Orissa coast.
+- Gawan also introduced land surveys and strict revenue accounting.
+- He was executed in **1481** after a forged treason letter, and Bahmani's administrative peak ended with his death.
+- Rival **Deccani and Afaqi** noble factions later paralysed the court.
+- The last sultan was **Kalimullah**, and the kingdom split in **1518** into five Deccan Sultanates.
 
-> **Exam note:** **Talikota (1565)** is not the same as **Raichur (1520)**, which was Krishnadevaraya's victory. **Rama Raya** was killed at Talikota; Krishnadevaraya had died in **1529**.
+### Sultan chronology
 
-### PYQ — Talikota A/R
+| Sultan | Period | Lock |
+|--------|--------|------|
+| **Alauddin Bahman Shah (Hasan Gangu)** | 1347–1358 | Founder at Gulbarga |
+| **Muhammad Shah I** | 1358–1375 | Early consolidation |
+| **Firoz Shah Bahmani** | 1397–1422 | Pre-Bidar phase |
+| **Ahmad Shah I Wali** | 1422–1436 | Capital shift to **Bidar** |
+| **Muhammad Shah III** | 1463–1482 | **Mahmud Gawan** as wazir |
+| **Kalimullah** | Last sultan | Kingdom split **1518** |
 
-**1.** Assertion (A): The **Battle of Talikota (1565)** ended Vijayanagara as a **great power**.
-
-Reason (R): **Rama Raya** was **beheaded** on the battlefield and **Hampi** was sacked and abandoned.
-
-A. Both true, R explains A |
-
-B. Both true, R not explanation |
-
-C. A true, R false |
-
-D. A false, R true
-
-<details>
-<summary>Show answer</summary>
-
-**Ans: A (Both true, R explains A)**
-
-**A is true:** Talikota **1565** ended Vijayanagara as a **great power**.
-
-**R is true:** **Rama Raya** was **beheaded** and **Hampi** was **sacked**.
-
-**Why R explains A:** The regent's death and capital looting **caused** the collapse of imperial power.
-
-**Trap:** The empire survived in name under **Aravidu** until **1646** — A says "great power" ended, not every trace of the state.
-
-</details>
-
----
-
-## 3.10 Bahmani Administration
-
-**Eight tarafs** | **Persianate bureaucracy** | **Mahmud Gawan reforms**
+### Administration and literary sources
 
 | Office | Function |
 |--------|----------|
@@ -535,7 +331,6 @@ D. A false, R true
 | **Kotwal** | City administration and law order |
 | **Barid** | Intelligence and news reporting |
 
-- The **eight tarafs** were provincial divisions, and weak tarafdars later broke away as independent sultanates.
 - Bahmani administration used a **Persianate centralised** bureaucracy adapted from the Delhi Sultanate.
 - **Mahmud Gawan's reforms** included land measurement, strict accounting, cash salaries, and merit-based appointments.
 - Gawan built a **madrasa at Bidar** and patronised learning alongside fiscal reform.
@@ -544,7 +339,7 @@ D. A false, R true
 - **Burhan-e-Masir** is a history of **Ahmadnagar**, a Bahmani successor state.
 - **Mirat-e-Sikandari** is a **Gujarat** victory narrative.
 
-> **Exam note:** In **2023 Q33**, the correct match is Mirat-e-Sikandari with Gujarat victory, Burhan-e-Masir with Ahmadnagar, Riyaz-us-Salatin with Bengal, and Riyaz-ul-Insha with Gawan's letters. The answer is **A (4-2-1-3)**.
+> **Exam note:** **Hasan Gangu** founded the Bahmani Kingdom. **Mahmud Gawan** was a minister, not the founder. In **2023 Q33**, the correct match is Mirat-e-Sikandari with Gujarat victory, Burhan-e-Masir with Ahmadnagar, Riyaz-us-Salatin with Bengal, and Riyaz-ul-Insha with Gawan's letters. The answer is **A (4-2-1-3)**.
 
 ### PYQ — Mahmud Gawan A/R
 
@@ -610,7 +405,152 @@ D. 4-2-3-1
 
 ---
 
+## 3.5 Deccan Sultanates
+
+**Five successor states (from ~1518):**
+
+| Sultanate | Dynasty | Founder | Capital |
+|-----------|---------|---------|---------|
+| **Bijapur** | Adil Shahi | **Yusuf Adil Shah** | Bijapur |
+| **Golkonda** | Qutb Shahi | **Quli Qutb Shah** | Golkonda, later Hyderabad |
+| **Ahmadnagar** | Nizam Shahi | **Malik Ahmad** | Ahmadnagar |
+| **Bidar** | Barid Shahi | **Amir Barid** | Bidar |
+| **Berar** | Imad Shahi | **Fathullah Imad-ul-Mulk** | Ellichpur |
+
+- **Bijapur** is remembered for **Gol Gumbaz** and for **Ibrahim Adil Shah II**, who wrote **Kitab-i-Nauras**.
+- **Ismail Adil Shah** was defeated by **Krishnadevaraya** at **Raichur (1520)**.
+- **Golkonda** was famous for diamond trade and later centred on **Hyderabad**.
+- **Muhammad Quli Qutb Shah** founded **Hyderabad in 1591** and built the **Charminar**.
+- **Ahmadnagar** produced the chronicle **Burhan-e-Masir**.
+- **Bidar** is linked to **Tin Darwaza** in Bidar Fort.
+- **Berar** was the smallest successor state and was absorbed early.
+- Four sultanates — **Bijapur, Ahmadnagar, Golkonda, and Bidar** — united against Vijayanagara at **Talikota in 1565**.
+- The Mughals annexed Ahmadnagar in **1636**, Bijapur in **1686**, and Golkonda in **1687**.
+- **Abul Hasan Qutb Shah** was the last ruler of Golkonda when Aurangzeb captured it.
+
+> **Exam note:** Do not confuse **Bidar**, the Bahmani and later Barid Shahi centre, with **Bijapur**, the Adil Shahi capital. **Kitab-i-Nauras** was written by **Ibrahim Adil Shah II of Bijapur**, not by Krishnadevaraya (2020 Q44).
+
+### PYQs — Deccan Sultanates
+
+
+**1. (UPPCS Prelims 2020, Q44)** Who among the following was the author of the book **Kitab-i-Nauras**?
+
+A. Ibrahim Adil Shah II |
+
+B. Ali Adil Shah |
+
+C. Quli Qutab Shah |
+
+D. Akbar II
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+**Why:** **Ibrahim Adil Shah II** of **Bijapur (Adil Shahi)** wrote **Kitab-i-Nauras**, a collection of songs on music and devotion.
+
+**Trap:** **Krishnadevaraya** wrote **Amuktamalyada** (Telugu) — papers swap the two Deccan literary locks.
+
+</details>
+
+
+**2. (UPPCS Prelims 2020, Q34)** Who was the ruler of Golkonda when Aurangzeb seized the fort of Golkonda in **1687**?
+
+A. Abul Hasan Qutb Shah |
+
+B. Sikandar Adil Shah |
+
+C. Ali Adil Shah II |
+
+D. Shayasta Khan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A**
+
+**Why:** **Abul Hasan Qutb Shah** was the **last Qutb Shahi** ruler when Aurangzeb captured Golkonda in **1687**.
+
+**Trap:** **Muhammad Quli Qutb Shah** founded **Hyderabad** and built **Charminar (1591)** — he ruled **a century earlier**, not in 1687.
+
+</details>
+
+---
+
+## 3.6 Battle of Talikota (1565)
+
+**Date:** **23 January 1565** | **Site:** **Rakkasa-Tangadi** (near Talikota)
+
+- **Cause:** **Aliya Rama Raya**, the Vijayanagara regent, repeatedly meddled in Deccan Sultanate successions and alienated all four major successor states.
+- **Course:** On **23 January 1565**, the four sultanates formed a coalition against Vijayanagara at **Rakkasa-Tangadi** near Talikota.
+- The coalition included **Bijapur under Ali Adil Shah I**, **Ahmadnagar under Hussain Nizam Shah I**, **Golkonda under Ibrahim Qutb Shah**, and **Bidar under Ali Barid**.
+- **Rama Raya** was captured and **beheaded** on the battlefield, and the Vijayanagara army collapsed.
+- **Result:** **Hampi** was looted for about six months and the old capital was abandoned.
+- The **Aravidu** dynasty retreated to **Penukonda and Chandragiri**, while **nayakas** became independent in Madurai, Tanjore, and Gingee.
+- Talikota ended Vijayanagara as a **great power**, even though the empire survived in name until **1646**.
+
+> **Exam note:** **Talikota (1565)** is not the same as **Raichur (1520)**, which was Krishnadevaraya's victory. **Rama Raya** was killed at Talikota; Krishnadevaraya had died in **1529**.
+
+### PYQ — Talikota A/R
+
+**1.** Assertion (A): The **Battle of Talikota (1565)** ended Vijayanagara as a **great power**.
+
+Reason (R): **Rama Raya** was **beheaded** on the battlefield and **Hampi** was sacked and abandoned.
+
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (Both true, R explains A)**
+
+**A is true:** Talikota **1565** ended Vijayanagara as a **great power**.
+
+**R is true:** **Rama Raya** was **beheaded** and **Hampi** was **sacked**.
+
+**Why R explains A:** The regent's death and capital looting **caused** the collapse of imperial power.
+
+**Trap:** The empire survived in name under **Aravidu** until **1646** — A says "great power" ended, not every trace of the state.
+
+</details>
+
+---
+
 ## Consolidated Reference
+
+### Regional overview
+
+| State / Empire | Founder / Key ruler | Capital(s) | Period |
+|----------------|---------------------|------------|--------|
+| **Sharqi Sultanate** | Malik Sarwar | **Jaunpur** | 1394–1484 |
+| **Kashmir Sultanate** | Zain-ul-Abidin (peak) | **Srinagar** | 1420–1470 |
+| **Vijayanagara** | Harihara I & Bukka I; Krishnadevaraya (peak) | **Hampi** | 1336–1565 peak |
+| **Bahmani** | Hasan Gangu | **Gulbarga**, then **Bidar** | 1347–1518 |
+| **Bijapur (Adil Shahi)** | Yusuf Adil Shah | **Bijapur** | 1490–1686 |
+| **Golkonda (Qutb Shahi)** | Quli Qutb Shah | **Golkonda**, later **Hyderabad** | 1518–1687 |
+| **Ahmadnagar (Nizam Shahi)** | Malik Ahmad | **Ahmadnagar** | 1490–1636 |
+| **Bidar (Barid Shahi)** | Amir Barid | **Bidar** | 1492–1619 |
+| **Berar (Imad Shahi)** | Fathullah Imad-ul-Mulk | **Ellichpur** | 1490–1574 |
+
+### Literary works — exam locks
+
+| Work | Author / context | Polity |
+|------|------------------|--------|
+| **Padmavat** | **Malik Muhammad Jaisi** | Sharqi Jaunpur milieu |
+| **Amuktamalyada** | **Krishnadevaraya** | Vijayanagara (Telugu) |
+| **Manucharitramu** | **Allasani Peddana** | Krishnadevaraya's court |
+| **Kitab-i-Nauras** | **Ibrahim Adil Shah II** | Bijapur (Adil Shahi) |
+| **Riyaz-ul-Insha** | **Mahmud Gawan's letters** | Bahmani administration |
+| **Riyaz-us-Salatin** | Bengal history | Not Bahmani |
+| **Burhan-e-Masir** | Ahmadnagar chronicle | Nizam Shahi successor |
+| **Mirat-e-Sikandari** | Gujarat victory narrative | Regional history |
 
 ### Chronology spine
 
