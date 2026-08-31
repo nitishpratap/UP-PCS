@@ -5,7 +5,7 @@ hide:
 
 # Geography — Fact Locks
 
-**One Part = one chapter.** Paste Part 1, Part 2, … each becomes its own sidebar file (full ratta + traps + review + MCQs stay together in that Part).
+**One Part = one chapter.** Each sidebar file holds the full Part — facts, traps, review, MCQs together.
 
 <div class="study-grid" markdown>
 
@@ -14,5 +14,8 @@ hide:
 
 [**Geomorphology**
 <span>Part 2 — paste your dump to fill.</span>](02_Geomorphology.md){ .study-card }
+
+[**Climatology**
+<span>Part 3 — atmosphere, belts, winds, jets, clouds, cyclones, ENSO, IOD, monsoon · Final 50.</span>](03_Climatology.md){ .study-card }
 
 </div>

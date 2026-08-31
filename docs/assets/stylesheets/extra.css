@@ -756,131 +756,76 @@ body.study-hide-subjects.study-hide-toc .reading-tools {
    Fact Locks — ratta sheets (tables, locks, traps, MCQ drill)
    -------------------------------------------------------------------------- */
 body.fact-lock-page .md-content__inner {
-  max-width: 56rem;
+  max-width: none;
+}
+
+body.fact-lock-page.fact-lock-dense .md-typeset {
+  font-size: .84rem;
+  line-height: 1.45;
 }
 
 .fact-lock-hero {
-  position: relative;
-  overflow: hidden;
-  padding: 1.75rem 1.5rem 1.5rem;
-  margin: 0 0 1rem;
-  border-radius: .9rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .35rem 1rem;
+  padding: .55rem 1rem;
+  margin: 0 0 .65rem;
+  border-radius: .45rem;
   color: #fff;
-  background:
-    radial-gradient(110% 120% at 100% 0%, rgba(251, 191, 36, .35), transparent 50%),
-    linear-gradient(135deg, #1e3a8a 0%, #312e81 52%, #4c1d95 100%);
-  box-shadow: var(--study-shadow-hover);
+  background: linear-gradient(135deg, #1e3a8a 0%, #312e81 100%);
+  box-shadow: var(--study-shadow);
 }
-.fact-lock-hero::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background: radial-gradient(70% 55% at 0% 100%, rgba(255, 255, 255, .1), transparent 60%);
-  pointer-events: none;
-}
+.fact-lock-hero::after { display: none; }
 .fact-lock-hero > * { position: relative; z-index: 1; }
 .fact-lock-hero__eyebrow {
-  margin: 0 0 .35rem;
-  font-family: var(--study-ui);
-  font-size: .72rem;
-  font-weight: 700;
-  letter-spacing: .08em;
-  text-transform: uppercase;
-  color: rgba(255, 255, 255, .78);
-}
-.fact-lock-hero__title {
-  margin: 0 0 .75rem;
-  padding: 0;
-  border: 0;
-  font-size: 1.45rem;
-  line-height: 1.25;
-  color: #fff;
-}
-.fact-lock-hero__title::before { display: none; }
-.fact-lock-hero__lead {
-  margin: 0 0 .65rem;
-  color: rgba(255, 255, 255, .92);
-  font-size: .9rem;
-  line-height: 1.55;
-}
-.fact-lock-hero__rule {
   margin: 0;
-  padding: .55rem .75rem;
-  border-radius: .5rem;
-  font-size: .84rem;
-  background: rgba(0, 0, 0, .22);
-  border: 1px solid rgba(255, 255, 255, .15);
-}
-
-.fact-lock-meta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: .45rem;
-  margin-bottom: .85rem;
-}
-.fact-lock-pill {
-  display: inline-flex;
-  align-items: center;
-  gap: .25rem;
-  padding: .22rem .62rem;
-  border-radius: 999px;
-  font-family: var(--study-ui);
-  font-size: .72rem;
-  font-weight: 700;
-  letter-spacing: .02em;
-  background: rgba(255, 255, 255, .16);
-  border: 1px solid rgba(255, 255, 255, .22);
-  color: #fff;
-}
-.fact-lock-pill--high {
-  background: rgba(220, 38, 38, .28);
-  border-color: rgba(254, 202, 202, .45);
-}
-
-.fact-lock-jump {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: .35rem;
-  margin: 0 0 1.25rem;
-  padding: .65rem .75rem;
-  border: 1px solid var(--study-hairline);
-  border-radius: .65rem;
-  background: var(--study-surface);
-  box-shadow: var(--study-shadow);
-  position: sticky;
-  top: 3.2rem;
-  z-index: 4;
-}
-.fact-lock-jump__label {
-  margin-right: .15rem;
   font-family: var(--study-ui);
   font-size: .68rem;
   font-weight: 700;
   letter-spacing: .06em;
   text-transform: uppercase;
-  color: var(--md-default-fg-color--light);
+  color: rgba(255, 255, 255, .75);
 }
-.fact-lock-jump a {
-  display: inline-block;
-  padding: .28rem .52rem;
-  border-radius: .4rem;
+.fact-lock-hero__title {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 1.05rem;
+  line-height: 1.2;
+  color: #fff;
+}
+.fact-lock-hero__title::before { display: none; }
+.fact-lock-hero__lead,
+.fact-lock-hero__rule {
+  display: none;
+}
+
+.fact-lock-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .35rem;
+  margin: 0 0 0 auto;
+}
+.fact-lock-pill {
+  display: inline-flex;
+  align-items: center;
+  padding: .15rem .5rem;
+  border-radius: .3rem;
   font-family: var(--study-ui);
-  font-size: .72rem;
-  font-weight: 650;
-  text-decoration: none;
-  color: var(--md-primary-fg-color);
-  background: color-mix(in srgb, var(--md-primary-fg-color) 8%, var(--study-surface));
-  border: 1px solid var(--study-hairline);
-  transition: background .15s ease, border-color .15s ease, transform .12s ease;
+  font-size: .68rem;
+  font-weight: 700;
+  background: rgba(255, 255, 255, .14);
+  border: 1px solid rgba(255, 255, 255, .2);
+  color: #fff;
 }
-.fact-lock-jump a:hover {
-  color: var(--md-accent-fg-color);
-  border-color: color-mix(in srgb, var(--md-accent-fg-color) 45%, var(--study-hairline));
-  transform: translateY(-1px);
+.fact-lock-pill--high {
+  background: rgba(220, 38, 38, .35);
+  border-color: rgba(254, 202, 202, .35);
 }
-[data-md-color-scheme="slate"] .fact-lock-jump a {
-  color: var(--md-typeset-color);
+
+.fact-lock-jump {
+  display: none !important;
 }
 
 .fact-lock-sheet > hr {
@@ -889,155 +834,157 @@ body.fact-lock-page .md-content__inner {
   height: 0;
 }
 
+.fact-lock-sheet--dense {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: .45rem;
+}
+
+@media (min-width: 56em) {
+  .fact-lock-sheet--dense {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: .45rem .75rem;
+  }
+}
+
+@media (min-width: 90em) {
+  .fact-lock-sheet--dense {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: .45rem .65rem;
+  }
+}
+
 .fact-lock-section {
-  margin: 0 0 1.15rem;
-  padding: 0 1rem 1rem;
+  margin: 0;
+  padding: 0 .6rem .5rem;
   border: 1px solid var(--study-hairline);
-  border-radius: .8rem;
+  border-radius: .45rem;
   background: var(--study-surface);
-  box-shadow: var(--study-shadow);
+  box-shadow: none;
+  break-inside: avoid;
+}
+.fact-lock-section--full {
+  grid-column: 1 / -1;
 }
 .fact-lock-section > h2 {
-  margin: 0 -1rem .75rem;
-  padding: .75rem 1rem .55rem;
+  margin: 0 -.6rem .35rem;
+  padding: .4rem .6rem .3rem;
   border: 0;
   border-bottom: 1px solid var(--study-hairline);
-  border-radius: .8rem .8rem 0 0;
-  font-size: 1.02rem;
-  background: color-mix(in srgb, var(--md-primary-fg-color) 6%, var(--study-surface));
+  border-radius: .45rem .45rem 0 0;
+  font-size: .82rem;
+  font-weight: 700;
+  background: color-mix(in srgb, var(--md-primary-fg-color) 5%, var(--study-surface));
 }
 .fact-lock-section > h2::before {
-  height: .95rem;
-  margin-right: .45rem;
+  width: .2rem;
+  height: .75rem;
+  margin-right: .35rem;
 }
-.fact-lock-section > h2 + h3 { margin-top: .85rem; }
+.fact-lock-section > h2 + h3 { margin-top: .45rem; }
 .fact-lock-section > :last-child { margin-bottom: 0; }
 
 .fact-lock-section:has(> table) > h2 {
-  margin-bottom: .5rem;
-  padding-bottom: .45rem;
+  margin-bottom: .25rem;
+  padding-bottom: .3rem;
 }
 .fact-lock-section:has(> table) > table {
   margin-top: 0;
 }
 .fact-lock-section:has(> table) {
-  padding-bottom: .85rem;
+  padding-bottom: .45rem;
 }
 
 .fact-lock-section ol {
-  margin: .35rem 0 .5rem;
-  padding-left: 1.25rem;
+  margin: .2rem 0 .35rem;
+  padding-left: 1.1rem;
+  font-size: .8rem;
 }
 @media (min-width: 48em) {
-  .fact-lock-section ol {
-    columns: 2;
-    column-gap: 2rem;
+  .fact-lock-section--full ol {
+    columns: 3;
+    column-gap: 1.25rem;
   }
-  .fact-lock-section ol li {
+  .fact-lock-section--full ol li {
     break-inside: avoid;
   }
 }
 
 .fact-lock-sheet .fact-lock-section blockquote {
-  margin: .45rem 0;
-  padding: .55rem .75rem;
-  border-left-width: 3px;
-  border-left-color: var(--md-accent-fg-color);
-  background: color-mix(in srgb, var(--md-accent-fg-color) 7%, var(--study-surface));
-  font-size: .86rem;
-  font-weight: 650;
-  line-height: 1.45;
+  margin: .25rem 0;
+  padding: .35rem .5rem;
+  border-left-width: 2px;
+  font-size: .78rem;
+  font-weight: 600;
+  line-height: 1.35;
 }
-.fact-lock-sheet .fact-lock-section blockquote p { margin: 0; }
 
 .fact-lock-sheet .fact-lock-section h3 {
-  margin-top: 1rem;
-  font-size: .92rem;
-  color: var(--md-default-fg-color--light);
+  margin-top: .45rem;
+  font-size: .72rem;
 }
 
 .fact-lock-sheet .fact-lock-section table:not([class]) {
-  margin: .55rem 0 .85rem;
-  font-size: .82rem;
+  margin: .25rem 0 .4rem;
+  font-size: .74rem;
+}
+.fact-lock-sheet .fact-lock-section table:not([class]) th,
+.fact-lock-sheet .fact-lock-section table:not([class]) td {
+  padding: .35rem .45rem;
 }
 
 .fact-lock-chips {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(13.5rem, 1fr));
-  gap: .45rem;
-  margin: .75rem 0 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(10rem, 1fr));
+  gap: .3rem;
+  margin: .35rem 0 .5rem;
 }
 .fact-lock-chips blockquote {
   margin: 0;
-  padding: .5rem .65rem;
-  border-left: 3px solid var(--md-accent-fg-color);
-  border-radius: .45rem;
-  background: color-mix(in srgb, var(--md-accent-fg-color) 9%, var(--study-surface));
-  font-size: .8rem;
-  font-weight: 650;
-  line-height: 1.35;
-  box-shadow: var(--study-shadow);
+  padding: .35rem .45rem;
+  font-size: .72rem;
+  line-height: 1.3;
+  box-shadow: none;
 }
-.fact-lock-chips blockquote p { margin: 0; }
 
-.fact-lock-pairs {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
-  gap: .55rem;
-  margin: .75rem 0 1rem;
+.fact-lock-lock-table {
+  width: 100%;
+  margin: .35rem 0;
+  font-size: .74rem;
 }
-.fact-lock-pairs blockquote {
-  margin: 0;
-  padding: .65rem .75rem;
-  border-left: 3px solid var(--md-primary-fg-color);
-  border-radius: .5rem;
-  font-size: .82rem;
-  line-height: 1.45;
-}
-.fact-lock-pairs blockquote p { margin: 0; }
-.fact-lock-pairs blockquote strong {
-  display: block;
-  margin-bottom: .25rem;
-  color: var(--md-accent-fg-color);
-  font-size: .78rem;
-  letter-spacing: .02em;
-  text-transform: uppercase;
+.fact-lock-lock-table td:first-child {
+  font-weight: 650;
+  white-space: nowrap;
+  width: 38%;
 }
 
 .fact-lock-review {
-  margin: 1.5rem 0;
-  padding: 1rem 1.1rem;
-  border-radius: .85rem;
-  border: 1px solid color-mix(in srgb, var(--md-accent-fg-color) 35%, var(--study-hairline));
-  background: color-mix(in srgb, var(--md-accent-fg-color) 6%, var(--study-surface));
-  box-shadow: var(--study-shadow);
+  margin: 0;
+  padding: .65rem .75rem;
+  border-radius: .45rem;
+  border: 1px solid var(--study-hairline);
+  background: color-mix(in srgb, var(--md-accent-fg-color) 5%, var(--study-surface));
+  font-size: .78rem;
 }
-.fact-lock-review > h2 {
-  margin-top: 0;
-  padding-bottom: .35rem;
-  border-bottom: 1px dashed var(--study-hairline);
-}
-.fact-lock-review > h2::before { background: #dc2626; }
+.fact-lock-review p { margin: .25rem 0; }
 
 .fact-lock-traps-table table:not([class]) th {
   background: color-mix(in srgb, #dc2626 82%, #1e293b);
 }
 
 .fact-lock-sheet .fact-lock-section > h3 {
-  font-family: var(--study-ui);
-  font-size: .8rem;
-  font-weight: 700;
-  letter-spacing: .04em;
+  font-size: .68rem;
+  letter-spacing: .03em;
   text-transform: uppercase;
   color: var(--md-default-fg-color--light);
 }
 
 .fact-lock-answer-key {
-  margin: 1rem 0 0;
-  padding: 1rem;
-  border-radius: .75rem;
-  border: 1px solid color-mix(in srgb, #0d9488 35%, var(--study-hairline));
-  background: color-mix(in srgb, #0d9488 6%, var(--study-surface));
+  margin: 0;
+  padding: .65rem;
+  border-radius: .45rem;
+  border: 1px solid var(--study-hairline);
+  background: color-mix(in srgb, #0d9488 5%, var(--study-surface));
 }
 .fact-lock-answer-key table:not([class]) th {
   background: color-mix(in srgb, #0d9488 78%, #134e4a);
@@ -1045,34 +992,19 @@ body.fact-lock-page .md-content__inner {
 
 .fact-lock-sheet .admonition,
 .fact-lock-sheet details {
-  margin: .65rem 0 .85rem;
+  margin: .35rem 0 .5rem;
+  font-size: .78rem;
 }
 
 body.fact-lock-page .fact-lock-sheet .study-mcq {
-  scroll-margin-top: 5rem;
-}
-
-body.fact-lock-focus .fact-lock-jump {
-  top: .65rem;
-}
-
-@media (max-width: 48em) {
-  .fact-lock-jump {
-    top: 2.8rem;
-    flex-wrap: nowrap;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    padding-bottom: .55rem;
-  }
-  .fact-lock-chips {
-    grid-template-columns: 1fr 1fr;
-  }
+  scroll-margin-top: 3rem;
 }
 
 @media print {
   .fact-lock-hero { color: #000; background: #eee !important; box-shadow: none; }
-  .fact-lock-hero__lead, .fact-lock-hero__eyebrow { color: #333 !important; }
-  .fact-lock-jump { display: none !important; }
+  .fact-lock-sheet--dense {
+    display: block;
+  }
   .fact-lock-section { break-inside: avoid; box-shadow: none; }
 }
 

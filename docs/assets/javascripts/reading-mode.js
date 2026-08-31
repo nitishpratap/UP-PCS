@@ -21,6 +21,9 @@
 
   function wrapFactLockSections() {
     const sheet = document.querySelector(".fact-lock-sheet");
+    if (sheet && !sheet.classList.contains("fact-lock-sheet--dense")) {
+      sheet.classList.add("fact-lock-sheet--dense");
+    }
     if (!sheet) return;
 
     const headings = [...sheet.querySelectorAll(":scope > h2")];
@@ -39,6 +42,18 @@
         section.appendChild(node);
         node = next;
       }
+
+      const title = (h2.textContent || "").toLowerCase();
+      if (
+        section.querySelector("table") ||
+        section.querySelector(".fact-lock-chips") ||
+        section.querySelector(".fact-lock-review") ||
+        /master|must ratta|table|1-minute|process|landform final|high-yield|agent →|indian geomorphology/i.test(
+          title,
+        )
+      ) {
+        section.classList.add("fact-lock-section--full");
+      }
     });
 
     sheet.querySelectorAll(".fact-lock-traps-table, .fact-lock-answer-key").forEach((block) => {
@@ -56,7 +71,7 @@
 
   function initialiseFactLockPage() {
     if (!isFactLockSheet()) return;
-    document.body.classList.add("fact-lock-page");
+    document.body.classList.add("fact-lock-page", "fact-lock-dense");
     wrapFactLockSections();
   }
 
