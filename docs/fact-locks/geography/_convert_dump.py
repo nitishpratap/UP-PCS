@@ -75,6 +75,8 @@ HERO = {
     5: ("Geography · Part 5", "World Geography", "~9/10"),
     6: ("Geography · Part 6", "Indian Physical Geography", "~9/10"),
     7: ("Geography · Part 7", "Indian Climate", "~9/10"),
+    8: ("Geography · Part 8", "Indian Soils", "~9/10"),
+    9: ("Geography · Part 9", "Indian Agriculture", "~9/10"),
 }
 
 TAIL_MARKERS = (
@@ -103,6 +105,12 @@ TAIL_MARKERS = (
     "# 🔥 ULTIMATE ONE-PAGE RATTA",
     "## 🔥 ULTIMATE ONE-PAGE RATTA",
     "# ULTIMATE ONE-PAGE RATTA",
+    "# 🔥 LAST-MINUTE SOIL MAP",
+    "## 🔥 LAST-MINUTE SOIL MAP",
+    "# LAST-MINUTE SOIL MAP",
+    "# 🔥 ULTIMATE AGRICULTURE ONE-PAGE RATTA",
+    "## 🔥 ULTIMATE AGRICULTURE ONE-PAGE RATTA",
+    "# ULTIMATE AGRICULTURE ONE-PAGE RATTA",
 )
 
 

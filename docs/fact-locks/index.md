@@ -24,7 +24,7 @@ Use **after** Subject Notes once, or **minutes before** the exam. Toggle **Focus
 <span>No sheets yet.</span>](art and culture/index.md){ .study-card }
 
 [**Geography**
-<span>Part 1 fundamentals · Geomorphology · Climatology · Oceanography · World Geography · Indian Physical Geography · Indian Climate · more Parts as you add.</span>](geography/index.md){ .study-card }
+<span>Part 1 fundamentals · Geomorphology · Climatology · Oceanography · World Geography · Indian Physical Geography · Indian Climate · Indian Soils · Indian Agriculture · more Parts as you add.</span>](geography/index.md){ .study-card }
 
 [**Environment and Ecology**
 <span>No sheets yet.</span>](environments & ecology/index.md){ .study-card }

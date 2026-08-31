@@ -30,4 +30,10 @@ hide:
 [**Part 7 — Indian Climate**
 <span>Seasons, monsoon mechanism, rainfall distribution, local winds, WD, cyclones, ENSO/IOD, UP climate · Final 75 · One-page ratta · 105 sections.</span>](07_Indian_Climate.md){ .study-card }
 
+[**Part 8 — Indian Soils**
+<span>Alluvial, black, red, laterite, arid, peaty, saline/sodic, erosion, conservation, UP soils · 100-fact ratta · Last-minute soil map · 110 sections.</span>](08_Indian_Soils.md){ .study-card }
+
+[**Part 9 — Indian Agriculture**
+<span>Kharif/Rabi/Zaid, crops, revolutions, irrigation, MSP/FCI/NABARD, horticulture, UP agriculture · Master 50 · One-page ratta · 180 sections.</span>](09_Indian_Agriculture.md){ .study-card }
+
 </div>
