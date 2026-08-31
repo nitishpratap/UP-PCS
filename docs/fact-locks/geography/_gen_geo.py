@@ -1,6 +1,8 @@
 """One-off generator for 02_Geomorphology.md — run from repo root."""
 from pathlib import Path
 
+from _expand_bodies import expand_body
+
 TITLES = [
     "Geomorphology — Basic Framework",
     "Weathering",
@@ -125,9 +127,9 @@ def _bodies() -> dict[int, str]:
 | Exogenic | Surface/atmosphere | Weathering, erosion, transport, deposition |
 
 Endogenic → uplift/build · Exogenic → weathering → erosion → transport → deposition""",
-        2: """Breakdown/decomposition at or near surface **without transportation**.
+        2: """Weathering = breakdown/decomposition of rocks at or near Earth's surface **without transportation of the material**.
 
-Physical · Chemical · Biological""",
+**Three major types:** Physical → Chemical → Biological""",
         3: """| Process | Association |
 | --- | --- |
 | Exfoliation | Temperature change / pressure release |
@@ -135,8 +137,24 @@ Physical · Chemical · Biological""",
 | Thermal expansion | Heating/cooling |
 | Block disintegration | Jointed rocks |
 | Salt weathering | Salt crystal growth |""",
-        4: """Thin shells / concentric layers peel off · **Granite + temperature variation** · pressure unloading · **Exfoliation = onion-skin weathering**""",
-        5: """Frost wedging / frost action · water in cracks → freezes → expands → widens cracks · **Cold mountainous regions** · **Mechanical weathering**""",
+        4: """Rock surfaces peel off in:
+
+> **Thin shells / concentric layers**
+
+Commonly associated with:
+
+> **Granite + temperature variation**
+
+Also associated with:
+
+> **Pressure unloading**
+
+> **Exfoliation → Onion-skin weathering**""",
+        5: """**Freeze–thaw weathering** (frost wedging) occurs when water enters rock cracks, freezes, expands, and widens the cracks on each cycle.
+
+It is characteristic of **cold mountainous regions**.
+
+> **Freeze–thaw = mechanical weathering**""",
         6: """| Process | Ratta |
 | --- | --- |
 | Solution | Minerals dissolve |
@@ -225,7 +243,9 @@ Favourable: large sediment load · shallow coast · weak currents · low tidal r
         44: """Deep narrow glacial valley flooded by sea · **Norway** · also Chile, NZ, Greenland, Alaska · **Drowned glacial valley**""",
         45: """Asymmetrical bedrock knob · gentle smooth stoss side + steep plucked lee side · **Glacial erosion**""",
         46: """Streamlined till hill · egg-shaped/elongated · long axis parallel to ice movement · **Glacial deposition**""",
-        47: """Long winding ridge of sand/gravel from meltwater streams within/beneath ice · **Meltwater deposition**""",
+        47: """An **esker** is a long, winding ridge of sand and gravel deposited by meltwater streams flowing within or beneath glacial ice.
+
+> **Esker → meltwater deposition**""",
         48: """| Moraine | Location |
 | --- | --- |
 | Lateral | Glacier sides |
@@ -423,7 +443,7 @@ def main() -> None:
     parts = [HEADER]
     for i, title in enumerate(TITLES, start=1):
         parts.append(f"## {i}. {title}\n\n")
-        parts.append(BODIES[i])
+        parts.append(expand_body(BODIES[i]))
         parts.append("\n\n")
     parts.append(MUST_RATTA)
     parts.append(FOOTER)

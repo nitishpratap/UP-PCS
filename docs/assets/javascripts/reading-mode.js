@@ -48,7 +48,7 @@
         section.querySelector("table") ||
         section.querySelector(".fact-lock-chips") ||
         section.querySelector(".fact-lock-review") ||
-        /master|must ratta|table|1-minute|process|landform final|high-yield|agent →|indian geomorphology/i.test(
+        /master|must ratta|rapid ratta|final 50|table|1-minute|process|landform final|high-yield|agent →|indian geomorphology|top 50/i.test(
           title,
         )
       ) {

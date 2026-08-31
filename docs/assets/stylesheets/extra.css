@@ -933,6 +933,18 @@ body.fact-lock-page.fact-lock-dense .md-typeset {
   padding: .35rem .45rem;
 }
 
+/* Dual-block tables (e.g. Final 50: # | Fact | # | Fact) */
+.fact-lock-section:has(> table) > table:not([class]) th:nth-child(3),
+.fact-lock-section:has(> table) > table:not([class]) td:nth-child(3) {
+  border-left: 2px solid var(--study-hairline);
+}
+
+@media (min-width: 48em) {
+  .fact-lock-section--full:has(> table) > table:not([class]) {
+    max-width: 52rem;
+  }
+}
+
 .fact-lock-chips {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(10rem, 1fr));
