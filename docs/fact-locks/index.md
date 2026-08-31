@@ -5,7 +5,7 @@ hide:
 
 # Fact Locks
 
-**Must-memorise associations, tables, mnemonics, and traps** — the ratta layer for Prelims. Each sheet opens with a **priority hero**, **jump chips**, and **card-wrapped sections** for fast scanning.
+**Must-memorise associations, tables, mnemonics, and traps** — the ratta layer for Prelims. Each sheet opens with a **compact priority strip** and **dense multi-column cards** for fast revision.
 
 Use **after** Subject Notes once, or **minutes before** the exam. Toggle **Focus mode** in the reading toolbar to hide sidebars for booklet-style revision.
 
