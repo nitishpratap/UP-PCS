@@ -99,16 +99,17 @@ Jizya reimposed 1679 | Later: Muhammad Shah Rangeela (Tappa — Topic 6)
 
 **Zahiruddin Muhammad Babur** | 1526–1530 | Timurid (Timur + Chinggis claim) | Base **Kabul 1504**
 
-- Born **1483**, Ferghana; lost Samarkand; **Kabul 1504** became the Indian-campaign base.
-- Invited against **Ibrahim Lodi** by **Daulat Khan Lodi** and separately by **Rana Sanga**; pursued his own empire.
-- **First Panipat, 20 April 1526:** ~12,000 vs Lodi’s larger host; **Tulughma** flanking + **Araba** carts + gunpowder; **Ibrahim killed** — Delhi Sultanate ends.
-- Occupied **Delhi and Agra**; title **Padshah**.
-- **Khanwa, 16 March 1527:** defeated **Rana Sanga** + Mahmud Lodi confederacy; Babur declared **jihad** framing after the wine-cup oath tradition.
-- **Chanderi 1528** (Medini Rai); **Ghagra 1529** (Afghan remnants + Bengal’s Nusrat Shah).
-- Died **26 Dec 1530** Agra; first buried Agra, then **Bagh-e-Babur, Kabul** (2025 Q57).
-- **Baburnama / Tuzk-e-Babri:** autobiography in **Chagatai Turki** — flora, fauna, battles, wine. **2025 Q3:** A true; R false (Mughal **court** language = **Persian**) → **C**.
-- Persian translation later by **Abdur Rahim Khan-i-Khanan**.
-- Early assignments were **iqta-like**; full **mansabdari** is Akbar, not Babur.
+- Babur was born in **1483** at Ferghana. He lost Samarkand, and **Kabul in 1504** became his base for the Indian campaign.
+- **Daulat Khan Lodi** and **Rana Sanga** separately invited him against **Ibrahim Lodi**, but Babur pursued his own empire.
+- At the **First Battle of Panipat on 20 April 1526**, Babur’s roughly **12,000** men faced Ibrahim Lodi’s larger army. He used **Tulughma** flanking tactics, **Araba** cart-fortifications, and gunpowder. **Ibrahim Lodi was killed**, ending the Delhi Sultanate.
+- Babur occupied **Delhi and Agra** and took the title **Padshah**.
+- At **Khanwa on 16 March 1527**, he defeated **Rana Sanga** and the Mahmud Lodi confederacy. Babur framed the fight as **jihad** after the traditional wine-cup oath.
+- At **Chanderi in 1528**, Babur defeated **Medini Rai**.
+- At **Ghagra in 1529**, he crushed Afghan remnants allied with Bengal’s **Nusrat Shah**.
+- Babur died on **26 December 1530** at Agra. He was first buried there, then moved to **Bagh-e-Babur, Kabul** — the tomb city in **UPPCS Prelims 2025 Q57**.
+- **Baburnama** (also called **Tuzk-e-Babri**) is his autobiography in **Chagatai Turki**, covering flora, fauna, battles, and wine. In **UPPCS Prelims 2025 Q3**, Assertion A (Babur wrote it in Turki) is true, but Reason R (Turki was the Mughal court language) is false because the court language was **Persian**; the answer is **C**.
+- **Abdur Rahim Khan-i-Khanan** later translated the Baburnama into Persian.
+- Babur’s early land assignments were **iqta-like**. The full **mansabdari** system belongs to **Akbar**, not Babur.
 
 > **Exam note:** Establishment year = **1526 Panipat**, not Khanwa 1527.
 
@@ -132,10 +133,10 @@ Jizya reimposed 1679 | Later: Muhammad Shah Rangeela (Tappa — Topic 6)
 | **1659** | **Deorai** | Aurangzeb vs Dara | Ajmer |
 | **1707** | **Jajau** | Bahadur Shah I vs Azam Shah | After Aurangzeb |
 
-- **2025 Q79:** 1 Kannauj, 2 Daurah, 3 Samugarh, 4 Chausa → **D (2-4-1-3)**.
-- **Daurah ≠ Dharmat.** Daurah is **1532 Humayun**; Dharmat is **1658 Aurangzeb**.
-- **2019 Q13:** I Sarnal, II Bilgram, III Dharmat, IV Jajau → **A (II-I-III-IV)**.
-- **2022 Q103:** 1 Deorai, 2 Shuja beaten near Banaras, 3 Samugarh, 4 Dharmat → **A (2-4-3-1)**.
+- **UPPCS Prelims 2025 Q79** asks to arrange Kannauj, Daurah, Samugarh, and Chausa. The correct chronological order is Daurah (1532), Chausa (1539), Kannauj (1540), Samugarh (1658); the answer is **D**.
+- **Daurah** and **Dharmat** are different battles. **Daurah (1532)** was fought by **Humayun** against Afghan chiefs. **Dharmat (April 1658)** was Aurangzeb’s battle against Jaswant Singh.
+- **UPPCS Prelims 2019 Q13** arranges Sarnal, Bilgram, Dharmat, and Jajau. Bilgram (1540) comes before Sarnal (1572), then Dharmat (1658), then Jajau (1707); the answer is **A**.
+- **UPPCS Prelims 2022 Q103** arranges Aurangzeb’s succession events. The order is Shuja beaten near Banaras, Dharmat, Samugarh, Deorai; the answer is **A**.
 
 ---
 
@@ -143,55 +144,56 @@ Jizya reimposed 1679 | Later: Muhammad Shah Rangeela (Tappa — Topic 6)
 
 **1530–1540, restored 1555–1556** | Wife **Hamida Banu** | Sister **Gulbadan** (*Humayunnama*)
 
-- Early win: **Daurah 1532** against Afghan chiefs in Bihar — **before** Chausa; do not rename it Dharmat.
-- Lost **Chausa 26 June 1539** (escaped across Ganga) and **Kannauj/Bilgram 17 May 1540** to **Sher Shah**.
-- Exile **1540–1555**; **Safavid** Shah Tahmasp helped the return; recaptured Delhi–Agra **1555**.
-- Died **Jan 1556** (Dinpanah library stairs tradition).
-- Tomb at **Delhi** (Akbar’s reign; **Mirak Mirza Ghiyas**) — garden-tomb prototype for the Taj.
-- **Hamida Banu** = wife; **Gulbadan** = sister, *Humayunnama* (2019 Q16 pair is **correct**).
-- **Bairam Khan** served Humayun; **Khan-i-Khana from Humayun**, not Akbar (**2024 Q4 = D**).
-- **2023 Q34:** Hamida Banu is **not** Alauddin Khalji’s wife.
+- Humayun won an early victory at **Daurah in 1532** against Afghan chiefs in Bihar. This battle came **before Chausa** and must not be confused with **Dharmat (1658)**.
+- He lost **Chausa on 26 June 1539** and escaped across the Ganga.
+- He lost **Kannauj/Bilgram on 17 May 1540** to **Sher Shah**, beginning his exile.
+- Humayun remained in exile from **1540 to 1555**. **Safavid** Shah Tahmasp helped his return, and he recaptured **Delhi and Agra in 1555**.
+- Humayun died in **January 1556** (tradition: fell on the stairs of the Dinpanah library).
+- His tomb at **Delhi** was built in Akbar’s reign by **Mirak Mirza Ghiyas**. It became the garden-tomb prototype for the Taj Mahal.
+- **Hamida Banu** was Humayun’s wife. **Gulbadan** was his sister and author of *Humayunnama*. The **UPPCS Prelims 2019 Q16** pair matching them is **correct**.
+- **Bairam Khan** served Humayun. Humayun, not Akbar, gave him the title **Khan-i-Khana** — the lock in **UPPCS Prelims 2024 Q4**, answer **D**.
+- **UPPCS Prelims 2023 Q34** tests family pairs: **Hamida Banu** was Humayun’s wife, **not** Alauddin Khalji’s.
 
 ---
 
 ## 7.4 Administration & Mansabdari
 
-**Nature:** Centralised agrarian-military empire; Persianate court; **mansab** nobility + **jagir** assignment.
+**Nature:** The Mughal Empire was a centralised agrarian-military state with a Persianate court. **Mansab** nobility drew salary from **jagir** assignment.
 
-- **2021 Q126:** A — Mughal Empire was originally a **military state**; R — central government vitality depended on **military power**; both true and R explains A → **A**.
-- Centre: **Wakil/Vazir**, **Diwan-i-Wizarat** (finance), **Mir Bakhshi / Diwan-i-Arz** (army/mansabs), **Sadr / Risalat** (grants/religion), **Mir Saman** (household), **Insha** (drafting).
-- Provinces: **Suba** → **Sarkar** → **Pargana** → village. Dual head: **Subahdar** (executive) + **Diwan** (revenue). **Faujdar** = sarkar military-police.
-- Akbar organised **12 subahs**; Aurangzeb’s peak ~**21**.
-- **Composite nobility:** Turani, Irani, Indian Muslim, **Rajput**.
-- **Mansabdari (Akbar):** official nobility. Dual rank **zat** (personal status/pay) + **sawar** (cavalry to maintain).
-- Salary by **jagir** or cash; **khalsa** = crown land. Jagirs **rotated**.
-- **2019 Q92:** (1) started by Akbar = **true**; (2) hereditary = **false** → **A (1 only)**.
-- **Dagh** = horse branding; **chehra** = descriptive roll of troopers.
-- Jahangir: **du-aspah sih-aspah** (extra horse obligation on sawar).
-- Highest common noble ceiling ~**7000** zat (Man Singh class); princes higher.
+- **UPPCS Prelims 2021 Q126** states that the Mughal Empire was originally a **military state** (Assertion A, true) and that the central government’s vitality depended on **military power** (Reason R, true). R correctly explains A; the answer is **A**.
+- At the centre, key offices were **Wakil/Vazir**, **Diwan-i-Wizarat** (finance), **Mir Bakhshi / Diwan-i-Arz** (army and mansabs), **Sadr / Risalat** (grants and religion), **Mir Saman** (household), and **Insha** (drafting).
+- Provinces ran **Suba**, then **Sarkar**, then **Pargana**, then the village. Each suba had dual heads: **Subahdar** (executive) and **Diwan** (revenue). The **Faujdar** handled military-police duties at the sarkar level.
+- Akbar organised **12 subahs**. Under Aurangzeb the empire reached about **21 subahs**.
+- The nobility was **composite**: Turani, Irani, Indian Muslim, and **Rajput** elites served together.
+- **Mansabdari** (Akbar) was the official nobility system. Each mansabdar held dual rank: **zat** (personal status and pay) and **sawar** (cavalry obligation).
+- Salary came from a **jagir** or cash. **Khalsa** was crown land directly under the emperor. Jagirs were **rotated**, not permanently fixed.
+- **UPPCS Prelims 2019 Q92**: Statement 1 (mansabdari started under Akbar) is **true**. Statement 2 (mansabdari was hereditary) is **false**. The answer is **A (1 only)**.
+- **Dagh** meant horse branding. **Chehra** was the descriptive roll of troopers.
+- Jahangir introduced **du-aspah sih-aspah**, an extra horse obligation tied to the sawar rank.
+- The highest common noble ceiling was about **7000 zat** (the Man Singh class). Princes held higher ranks.
 
 ---
 
 ## 7.5 Revenue — Zabt & Dahsala
 
-**Todar Mal** (Akbar’s revenue minister; Sur-era training)
+**Todar Mal** (Akbar’s revenue minister, trained under the Sur system)
 
-- **Zabt:** land **measured** (**jarib** rope); cash demand from crop rates (**rai**) per **bigha**.
-- **Dahsala (1580–81):** **10-year average** of yield/price — heartland **Doab** strongest.
-- Land classes: **polaj** (continuous), **parauti/parati** (fallow), **chachar**, **banjar**.
-- **Patta** + **qabuliat** continue Sur practice.
-- **Mal** = land revenue; **zamindar** = hereditary local intermediary (unlike non-hereditary mansab).
-- **Nasaq / kankut / batai** existed where zabt was weak (esp. outer subahs).
+- **Zabt** measured land with the **jarib** rope and fixed a cash demand from crop rates (**rai**) per **bigha**.
+- **Dahsala (1580–81)** used a **10-year average** of yield and price. It worked best in the **Doab** heartland.
+- Land was classified as **polaj** (continuously cultivated), **parauti/parati** (fallow), **chachar**, or **banjar**.
+- **Patta** and **qabuliat** continued the Sur practice of written peasant records and acceptance.
+- **Mal** meant land revenue. The **zamindar** was a hereditary local intermediary, unlike the non-hereditary mansab.
+- **Nasaq**, **kankut**, and **batai** survived where zabt was weak, especially in outer subahs.
 
 ---
 
 ## 7.6 Currency
 
-- **Sher Shah** standardised **rupiya** (silver ~178 grains), **dam** (copper), **mohur** (gold) — Akbar continued.
-- **2019 Q12:** A true; R (chief copper coin = **Dam**) true and explains A → **A**.
-- **Dam** ≈ **1/40** rupiya.
-- Akbar **Ilahi** coins (1580s); Jahangir **zodiac** portrait coins.
-- Mints: **Agra, Delhi, Lahore** (and others as subahs grew).
+- **Sher Shah** standardised the **rupiya** (silver, about **178 grains**), the **dam** (copper), and the **mohur** (gold). Akbar continued this system.
+- **UPPCS Prelims 2019 Q12**: Assertion A (Akbar regulated currency like Sher Shah) is true. Reason R (the chief copper coin was the **Dam**) is also true and explains A; the answer is **A**.
+- One **dam** was worth about **1/40** of a rupiya.
+- Akbar issued **Ilahi** coins in the 1580s. Jahangir minted **zodiac** portrait coins.
+- Major mints included **Agra, Delhi, and Lahore**, with more added as subahs grew.
 
 ---
 
@@ -199,31 +201,31 @@ Jizya reimposed 1679 | Later: Muhammad Shah Rangeela (Tappa — Topic 6)
 
 **Akbar architecture (Fatehpur Sikri 1571–85, Agra district):**
 
-- Capital after **Shaikh Salim Chishti**; abandoned ~1585 (water).
-- **Buland Darwaza:** **Gujarat 1572** victory. **2025 Q49:** A true; R (Jahangir’s birth) **false** → **C**.
-- **Panch Mahal** (five-storey), Jodha Bai palace, Jama Masjid, **Ibadat Khana** (debates from 1575).
-- **Agra Fort** red sandstone rebuild; **Allahabad/Ilahabad fort 1583** — UP lock.
+- Akbar made Fatehpur Sikri his capital after **Shaikh Salim Chishti**. He abandoned it around **1585** because of water shortage.
+- **Buland Darwaza** commemorated the **Gujarat victory of 1572**. In **UPPCS Prelims 2025 Q49**, Assertion A (Akbar built it at Sikri) is true, but Reason R (built for Jahangir’s birth) is false; the answer is **C**.
+- Key Sikri buildings include **Panch Mahal** (five storeys), Jodha Bai palace, Jama Masjid, and **Ibadat Khana** (religious debates from 1575).
+- Akbar rebuilt **Agra Fort** in red sandstone. He built **Allahabad/Ilahabad fort in 1583** — a major UP exam lock.
 
 **Later monuments:**
 
-- **Humayun’s Tomb** Delhi (Taj prototype); **Akbar’s tomb Sikandra**; **Itimad-ud-Daula** (Nur Jahan’s father, marble inlay).
-- **Taj Mahal 1632–53** (Mumtaz died **1631**); Delhi **Red Fort 1639–48** + Jama Masjid.
-- **Nahr-i-Bihisht** in Shahjahanabad from restored **Firuz Rajabwah**. **2020 Q42 = C**.
-- **2019 Q91:** Atala Jaunpur → Sher Shah Sasaram → Humayun Delhi → **Rabia Daurani / Bibi ka Maqbara** Aurangabad = **B (IV-II-III-I)**.
-- Aurangzeb: simple grave **Khuldabad**; **Bibi ka Maqbara** for Rabia Daurani.
+- **Humayun’s Tomb** at Delhi became the Taj prototype. **Akbar’s tomb** stands at Sikandra. **Itimad-ud-Daula** (Nur Jahan’s father) shows early marble inlay.
+- The **Taj Mahal (1632–53)** followed Mumtaz’s death in **1631**. Shah Jahan built Delhi **Red Fort (1639–48)** and the Jama Masjid.
+- **Nahr-i-Bihisht** in Shahjahanabad drew water from the restored **Firuz Rajabwah**. **UPPCS Prelims 2020 Q42** asks this canal name; the answer is **C**.
+- **UPPCS Prelims 2019 Q91** arranges monuments chronologically: Atala Jaunpur, Sher Shah’s tomb at Sasaram, Humayun’s Tomb at Delhi, then **Rabia Daurani / Bibi ka Maqbara** at Aurangabad. The answer is **B**.
+- Aurangzeb lies in a simple grave at **Khuldabad**. **Bibi ka Maqbara** at Aurangabad was built for Rabia Daurani.
 
 **Painting:**
 
-- Akbar **kitabkhana**: *Hamzanama*, *Akbarnama* illustrated folios.
-- Jahangir: natural-history (**Ustad Mansur**); Jesuit print influence.
-- Shah Jahan: formal court albums; after Aurangzeb, painters migrate to **Rajput** courts.
+- Akbar’s **kitabkhana** produced illustrated folios of the *Hamzanama* and *Akbarnama*.
+- Jahangir patronised natural-history painting, especially **Ustad Mansur**, under Jesuit print influence.
+- Shah Jahan favoured formal court albums. After Aurangzeb, many painters moved to **Rajput** courts.
 
 **Education / culture:**
 
-- **Maktab** + **madrasa**; Ibadat Khana debates.
-- **Razmnama** = Persian Mahabharata; **Ilahi calendar 1584**; imperial **Nauroz**.
-- **Kavindra Acharya Saraswati** of Banaras — **Shah Jahan** (**2022 Q146 = A**).
-- Dara: *Majma-ul-Bahrain*; Persian Upanishads (*Sirr-i-Akbar*).
+- The empire supported **maktab** and **madrasa** education alongside Ibadat Khana debates.
+- The **Razmnama** is the Persian Mahabharata. Akbar introduced the **Ilahi calendar in 1584** and celebrated imperial **Nauroz**.
+- **Kavindra Acharya Saraswati** of Banaras was patronised by **Shah Jahan** — the lock in **UPPCS Prelims 2022 Q146**, answer **A**.
+- Dara Shikoh wrote *Majma-ul-Bahrain* and translated the Upanishads into Persian as *Sirr-i-Akbar*.
 
 ---
 
@@ -231,15 +233,15 @@ Jizya reimposed 1679 | Later: Muhammad Shah Rangeela (Tappa — Topic 6)
 
 **Reign 1556–1605** | Accession as minor; **Bairam Khan** regent till ~1560 (Second Battle of Panipat under Bairam)
 
-- **Panipat II, 5 Nov 1556:** **Hemu** defeated/killed.
-- Conquest spine: **Malwa 1561–62** | **Chittor 1567–68** | **Gujarat 1572–73** (Buland Darwaza) | **Tukaroi 1575** + **Bengal 1576** | **Kashmir 1586** | Kabul, Sind, Deccan start (Ahmadnagar).
-- **12 subahs** at Akbar’s organisation.
-- **Rajput policy:** 1562 marriage to **Harkha/Jodha Bai** of **Amber**; mansabs to loyal rajas; **Man Singh** (Amber, ~7000) — **Haldighati 1576** vs Maharana Pratap (Topic 9 full card).
-- **Sulh-i-Kul:** peace with all; Hindus in high office.
-- **Jizya abolished 1564**; pilgrimage tax lifted earlier.
-- **Ibadat Khana 1575+**; **Din-i-Ilahi 1582** — tiny court circle (**Birbal** joined); **not** a mass religion.
-- Social: discouraged sati; *Ain* marriage-age rules; widow remarriage encouraged in theory.
-- **Aurangzeb reverse:** jizya **1679**; Banaras temple episode **1669** (UP lock).
+- At **Panipat II on 5 November 1556**, Akbar’s forces defeated and killed **Hemu**.
+- Akbar’s major conquests ran in this order: **Malwa (1561–62)**, **Chittor (1567–68)**, **Gujarat (1572–73)** — which produced the Buland Darwaza — **Tukaroi (1575)** followed by **Bengal (1576)**, **Kashmir (1586)**, and campaigns into Kabul, Sind, and the start of Deccan operations at Ahmadnagar.
+- Akbar organised the empire into **12 subahs**.
+- His **Rajput policy** began with the **1562** marriage to **Harkha/Jodha Bai** of **Amber**. Loyal rajas received mansabs. **Man Singh** of Amber (about **7000** zat) fought at **Haldighati in 1576** against Maharana Pratap (see Topic 9 for the full card).
+- **Sulh-i-Kul** meant peace with all faiths. Akbar placed Hindus in high office.
+- Akbar **abolished jizya in 1564** and lifted the pilgrimage tax earlier.
+- From **Ibadat Khana debates (1575 onward)**, he moved to **Din-i-Ilahi in 1582**. It remained a tiny court circle; **Birbal** joined, but it was **not** a mass religion.
+- Social reforms included discouraging sati, marriage-age rules in the *Ain*, and encouraging widow remarriage in theory.
+- **Aurangzeb reversed** this policy: he **reimposed jizya in 1679** and ordered the Banaras temple destruction episode in **1669** — another UP lock.
 
 ---
 
@@ -247,7 +249,7 @@ Jizya reimposed 1679 | Later: Muhammad Shah Rangeela (Tappa — Topic 6)
 
 | Person | Lock |
 |--------|------|
-| **Bairam Khan** | Regent; **Khan-i-Khana from Humayun**; Akbar later broke with him. **2024 Q4:** stmt 1 false, stmt 2 true → **D** |
+| **Bairam Khan** | Regent; **Khan-i-Khana from Humayun**; Akbar later broke with him. **UPPCS Prelims 2024 Q4**: statement 1 is false, statement 2 is true; answer **D** |
 | **Abul Fazl** | *Akbarnama* + *Ain-i-Akbari*; murdered **1602** (Bir Singh Bundela / Salim) |
 | **Faizi** | Brother; poet laureate; died **1595** |
 | **Sheikh Mubarak** | Father of Faizi/Abul Fazl; died **1597** |
@@ -258,7 +260,7 @@ Jizya reimposed 1679 | Later: Muhammad Shah Rangeela (Tappa — Topic 6)
 | **Tansen** | Dhrupad Navratna; earlier **Bhata/Rewa** (Topic 6) |
 | **Daniyal** | Akbar’s son; died **1604** |
 
-- **2024 Q132:** Faizi(3) → Mubarak(2) → Abul Fazl(1) → Daniyal(4) = **B (3-2-1-4)**.
+- **UPPCS Prelims 2024 Q132** asks the death order of Faizi (**1595**), Sheikh Mubarak (**1597**), Abul Fazl murdered (**1602**), and Daniyal (**1604**). The correct sequence is Faizi, Mubarak, Abul Fazl, Daniyal; the answer is **B**.
 
 ---
 
@@ -266,14 +268,14 @@ Jizya reimposed 1679 | Later: Muhammad Shah Rangeela (Tappa — Topic 6)
 
 **1605–1627** | Birth name **Salim** | Memoir **Tuzuk-i-Jahangiri** in **Persian**
 
-- **Nur Jahan** (Mehr-un-Nisa) married **1611**; coins/farmans; junta with **Itimad-ud-Daula** and **Asaf Khan**.
-- **Chain of Justice** at Agra Fort.
-- Mewar settlement **1615** (Amar Singh); **Kangra 1620–22**.
-- **Captain William Hawkins:** India **1608** (James I letter / EIC); **Turkish**-speaking. **2023 Q31:** “came **1611**” is the trap year → **B (only 2)** on the standard reading.
-- **Sir Thomas Roe 1615–19**.
-- **2021 Q75:** Fitch → Hawkins → Downton → Roe ≈ **A (II-I-IV-III)**.
-- Tomb **Shahdara, Lahore**.
-- Guru Arjan executed **1606** (Sikh topic).
+- **Nur Jahan** (Mehr-un-Nisa) married Jahangir in **1611**. She appeared on coins and farmans and formed a powerful junta with **Itimad-ud-Daula** and **Asaf Khan**.
+- Jahangir installed the **Chain of Justice** at Agra Fort.
+- He settled Mewar in **1615** (Amar Singh) and captured **Kangra in 1620–22**.
+- **Captain William Hawkins** reached India in **1608** with a James I letter for the EIC. He spoke **Turkish** well. **UPPCS Prelims 2023 Q31** traps on “came **1611**”; only statement 2 is true, so the answer is **B**.
+- **Sir Thomas Roe** stayed at Jahangir’s court from **1615 to 1619**.
+- **UPPCS Prelims 2021 Q75** arranges travellers: Ralph Fitch, Hawkins, Nicholas Downton, Roe. The correct arrival order is Fitch, Hawkins, Downton, Roe; the answer is **A**.
+- Jahangir’s tomb stands at **Shahdara, Lahore**.
+- Jahangir ordered the execution of Guru Arjan in **1606** (Sikh topic).
 
 ---
 
@@ -281,12 +283,12 @@ Jizya reimposed 1679 | Later: Muhammad Shah Rangeela (Tappa — Topic 6)
 
 **1628–1658** | Peak marble architecture
 
-- **Taj Mahal 1632–53** (Mumtaz **1631**); Delhi **Red Fort 1639–48** + Jama Masjid; **Peacock Throne**.
-- **Nahr-i-Bihisht** from restored **Rajabwah** (2020 Q42).
-- Patron of **Kavindra Acharya Saraswati** of Banaras (2022 Q146).
-- Deccan: **Ahmadnagar annexed 1636**; **Balkh 1646–47** failed.
-- **Dara Shikoh:** eldest; *Majma-ul-Bahrain*; Upanishads (*Sirr-i-Akbar*); killed **1659**.
-- Shah Jahan ill **1657**; imprisoned **Agra Fort 1658–1666**; buried in the Taj.
+- Shah Jahan built the **Taj Mahal (1632–53)** after Mumtaz died in **1631**. He also built Delhi **Red Fort (1639–48)**, the Jama Masjid, and the **Peacock Throne**.
+- **Nahr-i-Bihisht** in Shahjahanabad used water from the restored **Rajabwah** — tested in **UPPCS Prelims 2020 Q42**.
+- He patronised **Kavindra Acharya Saraswati** of Banaras — the lock in **UPPCS Prelims 2022 Q146**.
+- In the Deccan, he annexed **Ahmadnagar in 1636**. His **Balkh campaign (1646–47)** failed.
+- **Dara Shikoh**, the eldest son, wrote *Majma-ul-Bahrain* and translated the Upanishads as *Sirr-i-Akbar*. Aurangzeb killed him in **1659**.
+- Shah Jahan fell ill in **1657**. Aurangzeb imprisoned him at **Agra Fort (1658–1666)**. He was buried in the Taj.
 
 ---
 
@@ -296,38 +298,38 @@ Jizya reimposed 1679 | Later: Muhammad Shah Rangeela (Tappa — Topic 6)
 
 **Succession 1658–59:**
 
-1. **Shuja** beaten near **Banaras** (early 1658).
-2. **Dharmat, April 1658** — Aurangzeb vs **Jaswant Singh**.
-3. **Samugarh, May 1658** — Dara defeated.
-4. **Deorai, 1659** — Dara finally crushed (Ajmer).
-5. **Jajau 1707** is **after** Aurangzeb’s death (Bahadur Shah vs Azam) — 2019 Q13 last item.
+1. **Shuja** was beaten near **Banaras** in early **1658**.
+2. At **Dharmat in April 1658**, Aurangzeb defeated **Jaswant Singh**.
+3. At **Samugarh in May 1658**, Aurangzeb defeated **Dara**.
+4. At **Deorai in 1659**, Aurangzeb finally crushed Dara near Ajmer.
+5. **Jajau in 1707** came **after** Aurangzeb’s death, when Bahadur Shah fought Azam Shah. It is the last item in **UPPCS Prelims 2019 Q13**.
 
-- **2022 Q103 = A (2-4-3-1).**
+- **UPPCS Prelims 2022 Q103** tests this succession sequence. The correct order is Shuja beaten near Banaras, Dharmat, Samugarh, Deorai; the answer is **A**.
 
-**Deccan:** Bijapur **1686**; **Golkonda 1687** — last ruler **Abul Hasan Qutb Shah** (**2020 Q34 = A**).
-- Reimposed **jizya 1679**; Banaras temple destruction **1669**.
-- Long Deccan wars vs Marathas drained treasury (Topic 11).
-- Died **1707** Ahmadnagar camp; buried **Khuldabad**.
+**Deccan:** Aurangzeb annexed Bijapur in **1686** and **Golkonda in 1687**. The last Qutb Shah ruler was **Abul Hasan Qutb Shah** — the lock in **UPPCS Prelims 2020 Q34**, answer **A**.
+- Aurangzeb **reimposed jizya in 1679** and ordered Banaras temple destruction in **1669**.
+- Long Deccan wars against the Marathas drained the treasury (see Topic 11).
+- Aurangzeb died in **1707** at his Ahmadnagar camp and was buried at **Khuldabad**.
 
 ---
 
 ## 7.13 Tombs, Families, Later Mughals
 
-**Tombs (2025 Q57 = A 4-3-2-1):**
+**Tombs — UPPCS Prelims 2025 Q57** matches Babur to **Kabul**, Humayun to **Delhi**, Jahangir to **Lahore**, and Shah Jahan to **Agra**. The answer is **A**.
 
 | Emperor | Tomb city |
 |---------|-----------|
 | Babur | **Kabul** |
 | Humayun | **Delhi** |
-| Akbar | Sikandra (Agra belt) — not in that four-list |
+| Akbar | **Sikandra** (Agra belt; outside the four-option tomb list in UPPCS Prelims 2025 Q57) |
 | Jahangir | **Lahore** |
 | Shah Jahan | **Agra** (Taj) |
 | Aurangzeb | Khuldabad (simple) |
-| Rabia Daurani | Bibi ka Maqbara, Aurangabad (2019 Q91) |
+| Rabia Daurani | Bibi ka Maqbara, Aurangabad (**UPPCS Prelims 2019 Q91**) |
 
-**Families:** Hamida Banu (Humayun); Gulbadan (Babur’s daughter); Nur Jahan (Jahangir); Mumtaz (Shah Jahan); Jahanara/Roshanara; Dara, Shuja, Aurangzeb, Murad.
+**Families:** Hamida Banu was Humayun’s wife. Gulbadan was Babur’s daughter. Nur Jahan married Jahangir. Mumtaz married Shah Jahan. Jahanara and Roshanara were Shah Jahan’s daughters. Dara, Shuja, Aurangzeb, and Murad were Shah Jahan’s sons.
 
-**Later Mughals:** Bahadur Shah I (**Jajau 1707**) → Farrukhsiyar → **Sayyid Brothers** kingmakers **1713–20** → **Muhammad Shah Rangeela** (Tappa — Topic 6) → **Nadir Shah 1739** sack of Delhi → **Bahadur Shah II Zafar 1857**.
+**Later Mughals:** **Bahadur Shah I** won **Jajau in 1707**. He was followed by Farrukhsiyar and the **Sayyid Brothers** as kingmakers (**1713–20**). **Muhammad Shah Rangeela** patronised Tappa music (Topic 6). **Nadir Shah sacked Delhi in 1739**. **Bahadur Shah II Zafar** was the last Mughal during **1857**.
 
 ---
 
@@ -1153,20 +1155,20 @@ D. A false, R true
 
 ## Common Traps — Don't Fall For These
 
-1. **Turki ≠ Mughal court language** — Baburnama Turki; court = **Persian** (2025 Q3).
-2. **Buland Darwaza ≠ Jahangir’s birth** — **Gujarat 1572** (2025 Q49).
-3. **Daurah ≠ Dharmat** — Daurah **1532**; Dharmat **1658**.
-4. **2025 Q79 = D (2-4-1-3)**, not Chausa-first if Daurah is in the list.
-5. **Khan-i-Khana to Bairam ≠ Akbar** — **Humayun** conferred it (2024 Q4).
-6. **Mansab is NOT hereditary** (2019 Q92).
-7. **Ain-i-Akbari ≠ biography** — gazetteer; Akbarnama = narrative.
-8. **Hawkins year ≠ 1611** — **1608** (2023 Q31).
-9. **Hamida Banu ≠ Khalji** — Humayun’s wife.
-10. **Golkonda 1687 ≠ Adil Shahi** — **Abul Hasan Qutb Shah**.
-11. **Nahr-i-Bihisht** restores **Firuz Rajabwah**, not a new Akbar canal.
-12. **Kavindra Acharya = Shah Jahan**, not Akbar.
-13. **Jajau is 1707**, after Aurangzeb — not a 1658 succession battle.
-14. **Din-i-Ilahi ≠ mass religion** — tiny court circle, 1582.
-16. **2021 Q126:** Mughal state = **military state**; R (centre depends on army) **explains** A.
-17. **Ilahi calendar 1584** ≠ Din-i-Ilahi 1582.
-18. **Hamzanama = Akbar atelier**, not Jahangir’s Mansur birds.
+1. **Baburnama** was written in **Chagatai Turki**, but the Mughal **court language** was **Persian** (**UPPCS Prelims 2025 Q3**).
+2. **Buland Darwaza** commemorates Akbar's **Gujarat victory of 1572**, not Jahangir's birth (**UPPCS Prelims 2025 Q49**).
+3. **Daurah (1532)** is Humayun's early victory; **Dharmat (1658)** is Aurangzeb's succession battle. Do not swap them.
+4. In **UPPCS Prelims 2025 Q79**, when Kannauj, Daurah, Samugarh, and Chausa appear together, the order is Daurah, Chausa, Kannauj, Samugarh; answer **D (2-4-1-3)**.
+5. **Bairam Khan** received the title **Khan-i-Khana** from **Humayun**, not from Akbar (**UPPCS Prelims 2024 Q4**).
+6. **Mansab** was **not hereditary** under Akbar (**UPPCS Prelims 2019 Q92**).
+7. **Ain-i-Akbari** is an administrative gazetteer; **Akbarnama** is narrative biography.
+8. **William Hawkins** reached India in **1608**, not 1611 (**UPPCS Prelims 2023 Q31**).
+9. **Hamida Banu Begum** was **Humayun's** wife, not Alauddin Khalji's.
+10. When Aurangzeb captured **Golkonda in 1687**, the last ruler was **Abul Hasan Qutb Shah**, not an Adil Shahi sultan.
+11. **Nahr-i-Bihisht** in Shahjahanabad used water from the restored **Firuz Rajabwah**; it was not a wholly new Akbar-era canal.
+12. **Kavindra Acharya Saraswati** of Banaras was patronised by **Shah Jahan**, not Akbar.
+13. **Jajau (1707)** came after Aurangzeb's death; it is not one of the 1658 succession battles.
+14. **Din-i-Ilahi (1582)** was a small court circle, not a mass religion.
+15. In **UPPCS Prelims 2021 Q126**, the Mughal state began as a military state and Reason R (central vitality depended on army power) correctly explains Assertion A; answer **A**.
+16. The **Ilahi calendar (1584)** is separate from **Din-i-Ilahi (1582)**.
+17. The **Hamzanama** folio cycle belongs to **Akbar's** atelier, not Jahangir's natural-history albums with Mansur.

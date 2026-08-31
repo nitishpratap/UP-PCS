@@ -78,27 +78,27 @@ TRAP: 2019 Q88 matched Amir Khusrau–Rag Vibodh in a literary list;
 ## 6.1 Medieval Music — Overview
 
 - Medieval Indian music fused **Sanskritic raga–tala theory** with **Persianate court culture** and **Sufi devotion**.
-- Theory roots stay older: **Natyashastra** (Bharata), **Brihaddeshi** (Matanga — first clear “raga” word), **Sangeet Ratnakar** (Sharngadeva, 13th c., Devagiri).
-- **Sultanate phase:** Amir Khusrau’s Hindavi experiments + Chishti **sama** (musical assemblies) made music a religious–court bridge.
-- **Akbar phase:** Peak of imperial **dhrupad** patronage; **Tansen** as Navratna; Ain-i-Akbari records court musicians.
-- **Later Mughal phase:** Under **Muhammad Shah Rangeela**, **khayal** and **tappa** flowered; imperial music became more intimate and lighter than Akbar’s austere dhrupad.
-- **Two classical branches** after ~12th–13th c.: **Hindustani** (north — improvisation, gharana) and **Carnatic** (south — kriti, melakarta). This topic focuses on the **north/Mughal–Sultanate** stream.
-- **UP link:** Later light classical centres — **Lucknow–Banaras thumri**, **Kajri** (Mirzapur–Banaras belt) — grow from medieval Awadh culture.
+- Theory roots remain older: **Natyashastra** (Bharata), **Brihaddeshi** (Matanga, who first used the word "raga" clearly), and **Sangeet Ratnakar** (Sharngadeva, 13th century, Devagiri).
+- In the **Sultanate phase**, Amir Khusrau's Hindavi experiments and Chishti **sama** (musical assemblies) made music a bridge between religion and court.
+- In the **Akbar phase**, imperial **dhrupad** patronage peaked with **Tansen** as a Navratna, and the Ain-i-Akbari records court musicians.
+- In the **Later Mughal phase**, under **Muhammad Shah Rangeela**, **khayal** and **tappa** flowered, and imperial music became more intimate and lighter than Akbar's austere dhrupad.
+- After the 12th–13th century, two classical branches emerged: **Hindustani** (north, with improvisation and gharana) and **Carnatic** (south, with kriti and melakarta); this topic focuses on the **north/Mughal–Sultanate** stream.
+- Later light classical centres in UP include **Lucknow–Banaras thumri** and **Kajri** (Mirzapur–Banaras belt), growing from medieval Awadh culture.
 
-> **Exam note:** Tappa ≠ Akbar court. Tansen ≠ Khusrau contemporary. Dhrupad ≠ tabla as primary drum.
+> **Exam note:** Tappa was **not** refined at Akbar's court. Tansen and Amir Khusrau were **not** contemporaries. The primary drum of dhrupad is **pakhawaj**, not tabla.
 
 ---
 
 ## 6.2 Mughal Court Patronage
 
 - Mughal emperors used music as **imperial display** and cultural soft power, especially from **Akbar** onward.
-- **Akbar:** Strongest music patronage; **Navratnas** included **Tansen**; court had Hindu and Muslim musicians; Ain-i-Akbari lists performers and instruments.
-- **Jahangir:** Continued court music; personal taste recorded in **Tuzuk-i-Jahangiri** (art/music notes).
-- **Shah Jahan:** Formal court culture; music remained important, but architecture dominated cultural memory.
-- **Aurangzeb:** Tradition says he reduced music patronage; music survived in **regional courts** and private mehfils.
-- **Muhammad Shah Rangeela (1719–1748):** Key later-Mughal music emperor — **khayal** bloom (**Sadarang / Adarang**) and **Tappa** refinement.
-- Patronage pattern: early Mughals favoured **dhrupad**; later Mughals favoured **khayal / light forms**.
-- Regional patrons mattered too: **Man Singh Tomar** (Gwalior) for early dhrupad; **Raja Ramchandra of Bhata** for pre-Akbar Tansen.
+- **Akbar** gave the strongest music patronage; **Tansen** was among the **Navratnas**, the court had Hindu and Muslim musicians, and the Ain-i-Akbari lists performers and instruments.
+- **Jahangir** continued court music, and his personal taste appears in **Tuzuk-i-Jahangiri** (art and music notes).
+- **Shah Jahan** maintained formal court culture where music remained important, though architecture dominates cultural memory.
+- Tradition holds that **Aurangzeb** reduced music patronage, but music survived in **regional courts** and private mehfils.
+- **Muhammad Shah Rangeela (1719–1748)** was the key later-Mughal music emperor, when **khayal** bloomed through **Sadarang and Adarang** and **tappa** was refined.
+- Early Mughals favoured **dhrupad**, while later Mughals favoured **khayal and light forms**.
+- Regional patrons also mattered: **Man Singh Tomar** (Gwalior) for early dhrupad, and **Raja Ramchandra of Bhata** for pre-Akbar Tansen.
 
 ---
 
@@ -107,10 +107,10 @@ TRAP: 2019 Q88 matched Amir Khusrau–Rag Vibodh in a literary list;
 - After Aurangzeb, Delhi court culture shifted from heavy imperial ceremony to **mehfil-style** music.
 - **Muhammad Shah Rangeela** is the central later-Mughal music figure for UPPCS.
 - **Niyamat Khan Sadarang** and **Adarang** developed **khayal** into the dominant classical form.
-- **Tappa** was refined at **Muhammad Shah’s** court (UPPCS **2023 Q38 → D**).
+- **Tappa** was refined at **Muhammad Shah's** court (UPPCS **2023 Q38**, answer **D**).
 - **Shori Miyan (Ghulam Nabi)** is the main tappa composer lock.
-- Later decline of Delhi pushed musicians to **regional centres** (Lucknow, Banaras, Patiala, Gwalior) — birth of modern **gharana** geography.
-- Light forms linked to this aftermath: **thumri**, **dadra**, **ghazal** — important for UP cultural geography, but syllabus core remains khayal/tappa/court.
+- Later decline of Delhi pushed musicians to **regional centres** such as Lucknow, Banaras, Patiala, and Gwalior, giving birth to modern **gharana** geography.
+- Light forms linked to this aftermath include **thumri**, **dadra**, and **ghazal**; they matter for UP cultural geography, but the syllabus core remains khayal, tappa, and court music.
 
 ---
 
@@ -118,15 +118,15 @@ TRAP: 2019 Q88 matched Amir Khusrau–Rag Vibodh in a literary list;
 
 **Dates:** 1253–1325 | **Guru:** Nizamuddin Auliya | **Courts:** Balban, Alauddin Khalji, Ghiyasuddin Tughlaq
 
-- Music identity: pioneer of **qawwali** and **tarana**; Hindavi–Persian cultural synthesis.
-- **Qawwali:** Sufi congregational singing at khanqah/dargah — linked to Chishti devotion.
-- **Tarana:** Fast vocal form using syllables (*tom, ta, der*) — tradition credits Khusrau.
-- Folklore also credits him with **sitar** and **tabla** invention — exams accept “pioneer,” strict history is more complex.
-- Literary–music works associated in PYQs: **Rag Vibodh** paired with Khusrau in **2019 Q88** (literary match list).
-- **2025 Q12:** Amir Khusrau → **Nizamuddin Auliya** (guru code 3).
-- **NOT** Akbar’s court; died ~200 years before Tansen’s Mughal career.
+- Amir Khusrau's music identity rests on pioneering **qawwali** and **tarana** and on Hindavi–Persian cultural synthesis.
+- **Qawwali** is Sufi congregational singing at khanqah or dargah and is linked to Chishti devotion.
+- **Tarana** is a fast vocal form using syllables such as *tom, ta, der*, and tradition credits Khusrau with it.
+- Folklore also credits Khusrau with inventing **sitar** and **tabla**; exams accept his "pioneer" status, though strict history is more complex.
+- In PYQs, **Rag Vibodh** is paired with Khusrau in the **2019 Q88** literary match list.
+- In **2025 Q12**, Amir Khusrau's guru is **Nizamuddin Auliya** (guru code 3).
+- Khusrau did **not** serve Akbar's court; he died about **200 years** before Tansen's Mughal career.
 
-> **Exam note:** Khusrau = Sultanate Sufi-music pioneer; Tansen = Akbar dhrupad master. Never merge eras.
+> **Exam note:** Khusrau was a Sultanate Sufi-music pioneer, while Tansen was Akbar's dhrupad master. Do not merge their eras.
 
 ---
 
@@ -134,51 +134,51 @@ TRAP: 2019 Q88 matched Amir Khusrau–Rag Vibodh in a literary list;
 
 **Identity:** Greatest Hindustani dhrupad master of Akbar’s court | **Navratna**
 
-- Born **Ramtanu Pandey** near **Gwalior/Behat**; trained in dhrupad tradition linked to Gwalior.
-- **Before Akbar:** Patronised by **Raja Ramchandra Singh of Bhata (Rewa)** — UPPCS **2019 Q89 → A**.
-- Akbar invited him to court; titled **Miyan Tansen**.
-- Form: **Dhrupad**; accompaniment tradition with **pakhawaj**.
-- Famous ragas traditionally attributed: **Miyan Ki Todi**, **Miyan Ki Malhar**, **Darbari Kanada**.
-- Legend of **Deepak / Megh Malhar** (lighting lamps / bringing rain) is folklore, not hard history — still appears in popular questions.
-- Died during Akbar’s reign; tomb tradition at **Gwalior**.
-- Disciples/lineage: Senia tradition later linked to several north Indian schools.
+- Tansen was born **Ramtanu Pandey** near **Gwalior/Behat** and trained in the dhrupad tradition linked to Gwalior.
+- **Before Akbar**, he was patronised by **Raja Ramchandra Singh of Bhata (Rewa)**, the UPPCS **2019 Q89** answer **A**.
+- Akbar invited him to court and gave him the title **Miyan Tansen**.
+- Tansen's form was **dhrupad**, with **pakhawaj** as the accompaniment tradition.
+- Ragas traditionally attributed to him include **Miyan Ki Todi**, **Miyan Ki Malhar**, and **Darbari Kanada**.
+- The legend of **Deepak / Megh Malhar** (lighting lamps and bringing rain) is folklore, not hard history, but still appears in popular questions.
+- Tansen died during Akbar's reign, and his tomb tradition is at **Gwalior**.
+- The Senia tradition later linked his disciples to several north Indian schools.
 
-> **Exam note:** Pre-Akbar patron = **Bhata/Rewa**, not Mewar, Malwa, or Gujarat (2019 Q89 distractors).
+> **Exam note:** Pre-Akbar patron of Tansen was **Bhata/Rewa**, not Mewar, Malwa, or Gujarat (2019 Q89 distractors).
 
 ---
 
 ## 6.6 Dhrupad
 
-- **Oldest surviving Hindustani art form** — austere, temple/court gravity, slow alap → composition.
-- Primary drum: **pakhawaj** (not tabla).
-- Early court home: **Raja Man Singh Tomar** of **Gwalior** (late 15th–early 16th c.).
-- Peak imperial patronage under **Akbar** with **Tansen**.
-- Structure feel: long **alap**, then composed bandish; less ornamental than later khayal.
-- Banis (styles): Dagar, Nauhar, Khandar, Gauhar — Dagar bani is the best-known revival line.
-- Exam contrast lock: **Dhrupad = pakhawaj + Akbar/Tansen**; **Khayal = tabla + Muhammad Shah era bloom**.
+- **Dhrupad** is the **oldest surviving Hindustani art form**, with austere temple and court gravity and a slow alap leading into composition.
+- Its primary drum is the **pakhawaj**, not the tabla.
+- Its early court home was **Raja Man Singh Tomar** of **Gwalior** (late 15th–early 16th century).
+- Imperial patronage peaked under **Akbar** with **Tansen**.
+- Its structure begins with a long **alap**, then a composed bandish, and is less ornamental than later khayal.
+- Major banis (styles) include Dagar, Nauhar, Khandar, and Gauhar; the Dagar bani is the best-known revival line.
+- For exams, remember: **dhrupad goes with pakhawaj and Akbar/Tansen**, while **khayal goes with tabla and the Muhammad Shah era bloom**.
 
 ---
 
 ## 6.7 Khayal
 
-- **Khayal** (“imagination”) became the **dominant Hindustani concert form**.
-- Drum: **tabla**.
-- Has **bada khayal** (slow, expansive) and **chhota khayal** (faster).
-- Bloom linked to **Sadarang (Niyamat Khan)** and **Adarang** at **Muhammad Shah Rangeela’s** court.
-- More flexible and ornamental than dhrupad — improvisation and bol-taans are central.
-- Later institutionalised through **gharanas** (Gwalior oldest khayal gharana; Agra has UP link).
-- Do **not** credit khayal’s main flowering to Akbar — Akbar’s signature is dhrupad.
+- **Khayal** ("imagination") became the **dominant Hindustani concert form**.
+- It uses the **tabla** as its drum.
+- It has **bada khayal** (slow and expansive) and **chhota khayal** (faster).
+- Its bloom is linked to **Sadarang (Niyamat Khan)** and **Adarang** at **Muhammad Shah Rangeela's** court.
+- Khayal is more flexible and ornamental than dhrupad, with improvisation and bol-taans at the centre.
+- It was later institutionalised through **gharanas**; Gwalior is the oldest khayal gharana, and Agra has a UP link.
+- Do **not** credit khayal's main flowering to Akbar; Akbar's signature form is dhrupad.
 
 ---
 
 ## 6.8 Qawwali
 
-- **Qawwali** is Sufi devotional chorus music — call-and-response, handclaps, harmonium/tabla in later form.
-- Tradition links origin/popularisation to **Amir Khusrau** at **Nizamuddin** circle.
-- Connected to Chishti **sama**: musical assembly as path to divine ecstasy.
-- **2018 Q90:** Early Chishti fondness for **sama** is true; it does **not** fully explain why Sanskrit music works were translated into Persian (answer **B** — both true, R not correct explanation).
-- Qawwali centres: Delhi dargahs (Nizamuddin), Ajmer Sharif lineage of Chishti devotion.
-- Distinct from classical **dhrupad/khayal** — religious mehfil form, not Navratna court concert form.
+- **Qawwali** is Sufi devotional chorus music with call-and-response, handclaps, and harmonium and tabla in its later form.
+- Tradition links its origin and popularisation to **Amir Khusrau** in the **Nizamuddin** circle.
+- It is connected to Chishti **sama**, the musical assembly seen as a path to divine ecstasy.
+- In **2018 Q90**, early Chishti fondness for **sama** is true, but it does **not** fully explain why Sanskrit music works were translated into Persian (answer **B**: both true, R not the correct explanation).
+- Qawwali centres include Delhi dargahs (Nizamuddin) and the Ajmer Sharif lineage of Chishti devotion.
+- Qawwali is distinct from classical **dhrupad and khayal**; it is a religious mehfil form, not a Navratna court concert form.
 
 ---
 
@@ -191,11 +191,11 @@ TRAP: 2019 Q88 matched Amir Khusrau–Rag Vibodh in a literary list;
 | **Raga Vibodh / Ragavibodha** | **Somanath** (~1610) | Janya–janaka; veena description |
 | **Chaturdandi Prakashika** | **Venkatraman / Venkatamakhin** | Melakarta theory (Carnatic) |
 
-- **2021 Q22 answer A (3-4-1-2):** Ragamala→Pundrik(3); Rasa Kaumudi→Sri Kantha(4); Raga Vibodh→Somanath(1); Chaturdandi→Venkatraman(2).
-- **2022 Q108 answer D:** Same pairs (A-3, B-4, C-1, D-2).
-- Related older texts (context only): **Sangeet Ratnakar** — Sharngadeva; **Natyashastra** — Bharata.
+- In **2021 Q22**, answer **A (3-4-1-2)** gives Ragamala to Pundrik (3), Rasa Kaumudi to Sri Kantha (4), Raga Vibodh to Somanath (1), and Chaturdandi to Venkatraman (2).
+- In **2022 Q108**, answer **D** gives the same pairs (A-3, B-4, C-1, D-2).
+- Related older texts for context include **Sangeet Ratnakar** by Sharngadeva and **Natyashastra** by Bharata.
 
-> **Exam note:** Keep **2019 Q88 Khusrau–Rag Vibodh** as a separate literary PYQ lock; for **music-treatise** questions, **Raga Vibodh = Somanath**.
+> **Exam note:** Keep **2019 Q88 Khusrau–Rag Vibodh** as a separate literary PYQ lock. For **music-treatise** questions, **Raga Vibodh** is by **Somanath**.
 
 ---
 
@@ -718,18 +718,18 @@ Amir Khusrau → Nizamuddin Auliya in disciple–guru match.
 
 ## Common Traps — Don't Fall For These
 
-1. **Tansen before Akbar ≠ Mewar/Malwa/Gujarat** — correct = **Raja Ramchandra of Bhata** (2019 Q89).
-2. **Tappa ≠ Akbar** — refined under **Muhammad Shah** (2023 Q38).
-3. **Khayal ≠ Akbar’s signature form** — Akbar = **dhrupad**; khayal bloom = **Muhammad Shah**.
-4. **Dhrupad drum ≠ tabla** — primary drum = **pakhawaj**.
-5. **Amir Khusrau ≠ Tansen contemporary** — Khusrau died **1325**.
-6. **Raga Vibodh treatise author in 2021/2022 = Somanath**, not Khusrau (separate from 2019 Q88 literary pair).
-7. **Sama explains all Persian music translations** — FALSE as sole reason (2018 Q90 = B).
-8. **Qawwali ≠ court dhrupad** — Sufi congregational form.
-9. **Chaturdandi ≠ Pundrik Vitthal** — author = **Venkatraman/Venkatamakhin**.
-10. **Rasa Kaumudi ≠ Somanath** — author = **Sri Kantha**.
-11. **Naqshbandi ≠ sama patrons** — they opposed music/syncretism.
-12. **Tansen ≠ Carnatic Trinity**.
-13. **Tarana ≠ Tappa** — tarana = syllable form (Khusrau tradition); tappa = later Mughal light form.
-14. **Aurangzeb = peak music court** is FALSE — patronage declined; centres shifted regionally.
-15. **Sadarang ≠ Akbar court** — Sadarang is **Muhammad Shah** khayal figure.
+1. Tansen's pre-Akbar patron was **not** from Mewar, Malwa, or Gujarat; the correct answer is **Raja Ramchandra of Bhata** (2019 Q89).
+2. **Tappa** was **not** refined under Akbar; it developed under **Muhammad Shah** (2023 Q38).
+3. **Khayal** was **not** Akbar's signature form; Akbar patronised **dhrupad**, while khayal bloomed under **Muhammad Shah**.
+4. The primary drum of **dhrupad** is **pakhawaj**, not tabla.
+5. **Amir Khusrau** and **Tansen** were **not** contemporaries; Khusrau died in **1325**.
+6. In **2021/2022** music-treatise questions, **Raga Vibodh** is by **Somanath**, not Khusrau (separate from the 2019 Q88 literary pair).
+7. **Sama** does **not** fully explain all Persian music translations as the sole reason (2018 Q90 answer is **B**).
+8. **Qawwali** is a Sufi congregational form, not court dhrupad.
+9. **Chaturdandi Prakashika** was **not** written by Pundrik Vitthal; the author is **Venkatraman/Venkatamakhin**.
+10. **Rasa Kaumudi** was **not** written by Somanath; the author is **Sri Kantha**.
+11. **Naqshbandi** Sufis were **not** sama patrons; they opposed music and syncretism.
+12. **Tansen** was **not** a member of the Carnatic Trinity.
+13. **Tarana** and **Tappa** are different: tarana is a syllable-based form linked to Khusrau, while tappa is a later Mughal light form.
+14. **Aurangzeb's** court was **not** the peak of imperial music patronage; patronage declined and shifted to regional centres.
+15. **Sadarang** belongs to the **Muhammad Shah** khayal circle, not Akbar's court.

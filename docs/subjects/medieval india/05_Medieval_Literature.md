@@ -81,17 +81,17 @@ Khusrau = Sultanate (NOT Akbar/Tansen) | Tutinama = Nakhshabi (NOT Khusrau)
 
 ## 5.1 Medieval Literature — Overview
 
-- **Period frame:** Literary production **1206–1707** — Delhi Sultanate through Mughal zenith.
-- **Persian hegemony:** Court language from **Iltutmish to Aurangzeb**; Arabic for religious texts; Sanskrit continued in temples.
-- **Sultanate phase (1206–1526):** **Minhaj, Barani, Amir Khusrau** recorded Delhi kingdoms — political history + moral commentary.
-- **Mughal phase (1526–1707):** Shift to **imperial memoirs** (Babur, Jahangir), **official histories** (Akbarnama, Padshahnama), **gazetteers** (Ain-i-Akbari).
-- **Vernacular parallel:** Bhakti poetry (Kabir, Tulsidas, Surdas) and Sufi Hindavi (Khusrau) ran alongside Persian court literature.
-- **Translation movement:** Mughals translated **Mahabharata (Razmnama), Ramayana, Atharva Veda, Baburnama** into Persian — peak under **Akbar/Faizi**.
-- **Genre types:** **Tarikh** (annals), **Tabaqat** (generational biographies), **Masnavi** (long poem), **Tazkira** (poet biographies), **Malfuzat** (saint conversations).
-- **Women authors:** **Gulbadan Begum** wrote *Humayunnama* — rare female voice in Mughal prose.
-- **Source criticality:** Barani and Badauni wrote with **communal/political bias** — read critically, not as neutral truth.
+- Medieval Indian literature spans **1206–1707**, from the Delhi Sultanate through the Mughal zenith.
+- **Persian** dominated as the court language from **Iltutmish to Aurangzeb**, Arabic served religious texts, and Sanskrit continued in temples.
+- In the **Sultanate phase (1206–1526)**, **Minhaj, Barani, and Amir Khusrau** recorded Delhi kingdoms through political history and moral commentary.
+- In the **Mughal phase (1526–1707)**, literature shifted to **imperial memoirs** (Babur, Jahangir), **official histories** (Akbarnama, Padshahnama), and **gazetteers** (Ain-i-Akbari).
+- A **vernacular parallel** ran alongside Persian: Bhakti poetry (Kabir, Tulsidas, Surdas) and Sufi Hindavi (Khusrau).
+- The Mughals also launched a **translation movement**, rendering the **Mahabharata (Razmnama), Ramayana, Atharva Veda, and Baburnama** into Persian, peaking under **Akbar and Faizi**.
+- Major **genres** include **tarikh** (annals), **tabaqat** (generational biographies), **masnavi** (long poem), **tazkira** (poet biographies), and **malfuzat** (saint conversations).
+- **Gulbadan Begum** wrote *Humayunnama*, a rare female voice in Mughal prose.
+- Sources such as Barani and Badauni were written with **communal and political bias**, so they must be read critically, not as neutral truth.
 
-> **Exam note:** UPPCS book↔author questions focus on **Persian chronicles and Mughal texts** — vernacular bhakti is Topic 4.
+> **Exam note:** UPPCS book–author questions focus on **Persian chronicles and Mughal texts**; vernacular bhakti belongs in Topic 4.
 
 ---
 
@@ -135,29 +135,29 @@ Khusrau = Sultanate (NOT Akbar/Tansen) | Tutinama = Nakhshabi (NOT Khusrau)
 
 ## 5.3 Delhi Sultanate Literature
 
-- **Persian as state language:** Turkish/Afghan sultans patronised Persian; chronicles legitimised **new Muslim rulers** in Indian context.
-- **Minhaj-us-Siraj (Tabaqat-i-Nasiri):** Covers **Ghaznavids to Nasiruddin Mahmud** (~1260); **tabaqat** = generational/class format; named after patron Sultan **Nasiruddin Mahmud**.
-- **Hasan Nizami (Taj-ul-Maasir):** Covers **Qutb-ud-din Aibak to Iltutmish** — earliest Delhi conquest narrative.
-- **Ziauddin Barani:** Privileged Delhi court insider; wrote for **Firuz Shah Tughlaq**; primary source on **Alauddin Khalji's** reforms.
-- **Amir Khusrau:** Poet-musician at courts of **Balban, Alauddin, Ghiyasuddin Tughlaq**; Hindavi pioneer; disciple of **Nizamuddin Auliya**.
-- **Ibn Battuta's Rihla:** Moroccan traveller at **Muhammad bin Tughlaq's** court (~1334–1341); eyewitness account — **NOT Tughlaqnama author**.
-- **Sufi prose:** *Fawaid-ul-Fuad* (Nizamuddin conversations) compiled by **Amir Hasan Sijzi** — links literature to Sufi religion.
-- **Firuz Shah:** Collected Sanskrit books from **Nagarkot**; encouraged translations — parallel track to Persian chronicles.
+- Turkish and Afghan sultans patronised **Persian** as the state language, and chronicles legitimised **new Muslim rulers** in an Indian context.
+- **Minhaj-us-Siraj** wrote **Tabaqat-i-Nasiri**, covering the **Ghaznavids to Nasiruddin Mahmud** (~1260); **tabaqat** means a generational or class format, and the work is named after patron Sultan **Nasiruddin Mahmud**.
+- **Hasan Nizami** wrote **Taj-ul-Maasir**, covering **Qutb-ud-din Aibak to Iltutmish**, the earliest Delhi conquest narrative.
+- **Ziauddin Barani** was a privileged Delhi court insider who wrote for **Firuz Shah Tughlaq** and is a primary source on **Alauddin Khalji's** reforms.
+- **Amir Khusrau** was a poet-musician at the courts of **Balban, Alauddin, and Ghiyasuddin Tughlaq**, a Hindavi pioneer, and a disciple of **Nizamuddin Auliya**.
+- **Ibn Battuta's Rihla** records his stay at **Muhammad bin Tughlaq's** court (~1334–1341) as an eyewitness travel account; he did **not** write Tughlaqnama.
+- Sufi prose includes *Fawaid-ul-Fuad* (Nizamuddin conversations), compiled by **Amir Hasan Sijzi**, linking literature to Sufi religion.
+- **Firuz Shah** collected Sanskrit books from **Nagarkot** and encouraged translations, creating a parallel track to Persian chronicles.
 
-> **Exam note:** **2019 Q16** — Tughlaqnama–Ibn Battuta is **WRONG** (answer C). Tarikh-i-Firozshahi–Shams-i-Siraj Alif is also wrong (correct = Barani).
+> **Exam note:** In **2019 Q16**, Tughlaqnama–Ibn Battuta is **wrong** (answer C). Tarikh-i-Firozshahi–Shams-i-Siraj Alif is also wrong; the correct author is **Barani**.
 
 ---
 
 ## 5.4 Sultanate and Mughal Literature — Transition
 
-- **Continuity:** Both periods use **Persian** as primary literary language — except Babur's Turki memoir.
-- **Break — personal memoir:** **Baburnama** introduced frank autobiographical style (gardens, wine, battles, feelings).
-- **Break — imperial gazetteer:** **Ain-i-Akbari** catalogued empire as data (revenue, castes, animals, customs) — not narrative history.
-- **Translation peak:** Akbar's **kitabkhana** produced **Razmnama, Persian Ramayana, Atharva Veda** — larger than Firuz Shah's efforts.
-- **Women's voices:** **Gulbadan Begum** (Babur's daughter) wrote *Humayunnama* — absent in Sultanate chronicles.
-- **Critical historiography:** **Badauni** wrote secret critique of Akbar's liberal policies while serving at court.
-- **Shah Jahan era:** Formal court chronicle returns via **Padshahnama** after Jahangir's intimate memoir style.
-- **Decline:** **Aurangzeb** reduced literary patronage; regional vernaculars rose; **Alamgirnama** continued chronicle tradition.
+- Both periods used **Persian** as the primary literary language, except for Babur's Turki memoir.
+- **Baburnama** introduced a frank autobiographical style covering gardens, wine, battles, and feelings.
+- **Ain-i-Akbari** broke new ground as an imperial gazetteer that catalogued the empire as data on revenue, castes, animals, and customs, rather than as narrative history.
+- Akbar's **kitabkhana** produced **Razmnama, a Persian Ramayana, and a Persian Atharva Veda**, exceeding Firuz Shah's translation efforts.
+- **Gulbadan Begum** (Babur's daughter) wrote *Humayunnama*, a voice absent from Sultanate chronicles.
+- **Badauni** wrote a secret critique of Akbar's liberal policies while serving at court, marking critical historiography.
+- Under **Shah Jahan**, formal court chronicle returned through **Padshahnama** after Jahangir's intimate memoir style.
+- Under **Aurangzeb**, literary patronage declined, regional vernaculars rose, and **Alamgirnama** continued the chronicle tradition.
 
 ---
 
@@ -165,15 +165,15 @@ Khusrau = Sultanate (NOT Akbar/Tansen) | Tutinama = Nakhshabi (NOT Khusrau)
 
 **Period:** Delhi Sultanate | **Guru:** Nizamuddin Auliya | **Buried:** Near Nizamuddin Dargah, Delhi
 
-- Served courts of **Balban, Alauddin Khalji, Ghiyasuddin Tughlaq**; died **1325** — about **200 years before Akbar**.
-- **Khamsa:** Five Persian masnavis modeled on Nizami — includes **Matla-ul-Anwar, Khusrau-o-Shirin**.
-- **Nuh Sipihr (Nine Skies):** Praises **India's climate, languages, culture** — pride in Hindustan.
-- **Khaliq-e-Bari:** Early **Hindavi** devotional verses — Hindi-Urdu literary synthesis pioneer.
-- **Rag Vibodh:** Music/raga treatise — paired with Khusrau in **UPPCS 2019 Q88** (code 4).
-- **Miftah-ul-Futuh:** Historical masnavi on **Alauddin's** conquests.
-- **Tughluq Nama:** Khusrau's **poem** on Ghiyasuddin Tughlaq — distinct from Barani's prose **Tughlaqnama**.
-- Folklore attributes **sitar, tabla, qawwali, tarana** to Khusrau — pioneer status accepted in exams.
-- **NOT Mughal:** Khusrau ≠ Tansen (Akbar's court); Khusrau ≠ Tutinama translator (that's **Nakhshabi** — 2022 Q43).
+- Amir Khusrau served the courts of **Balban, Alauddin Khalji, and Ghiyasuddin Tughlaq** and died in **1325**, about **200 years before Akbar**.
+- **Khamsa** is a set of five Persian masnavis modeled on Nizami, including **Matla-ul-Anwar** and **Khusrau-o-Shirin**.
+- **Nuh Sipihr (Nine Skies)** praises **India's climate, languages, and culture**, showing pride in Hindustan.
+- **Khaliq-e-Bari** contains early **Hindavi** devotional verses and marks the Hindi-Urdu literary synthesis.
+- **Rag Vibodh** is a music and raga treatise paired with Khusrau in **UPPCS 2019 Q88** (code 4).
+- **Miftah-ul-Futuh** is a historical masnavi on **Alauddin's** conquests.
+- Khusrau's **Tughluq Nama** is a **poem** on Ghiyasuddin Tughlaq, distinct from Barani's prose **Tughlaqnama**.
+- Folklore attributes **sitar, tabla, qawwali, and tarana** to Khusrau, and exams accept his pioneer status.
+- Khusrau was **not Mughal**: he is not Tansen (Akbar's court), and he did not translate **Tutinama** (that was **Nakhshabi**, 2022 Q43).
 
 ---
 
@@ -181,13 +181,13 @@ Khusrau = Sultanate (NOT Akbar/Tansen) | Tutinama = Nakhshabi (NOT Khusrau)
 
 **Period:** Delhi Sultanate | **Role:** Noble insider historian | **Patron:** Firuz Shah Tughlaq
 
-- **Tarikh-i-Firoz Shahi:** Covers **Balban to early Firuz Shah**; primary source on **Alauddin Khalji's** market reforms, military system, and policies.
-- **Tughlaqnama:** Dedicated study of **Tughlaq dynasty** — analyses **Muhammad bin Tughlaq's** token currency, Daulatabad transfer.
-- **Jahandari theory:** Sultanate as **worldly state** balancing Sharia and political realism; **zawabit** (state laws) can override narrow Sharia.
-- **Bias:** Hostile to **low-born Khalji rise**; communal tone about Hindus — read critically.
-- **2019 Q16 traps:** Tughlaqnama–Ibn Battuta = **WRONG**; Tarikh-i-Firozshahi–Shams-i-Siraj Alif = **WRONG** (correct author = Barani).
+- **Tarikh-i-Firoz Shahi** covers **Balban to early Firuz Shah** and is the primary source on **Alauddin Khalji's** market reforms, military system, and policies.
+- **Tughlaqnama** is a dedicated study of the **Tughlaq dynasty**, analysing **Muhammad bin Tughlaq's** token currency and Daulatabad transfer.
+- Barani's **Jahandari theory** treats the Sultanate as a **worldly state** balancing Sharia and political realism; **zawabit** (state laws) can override narrow Sharia.
+- Barani was **biased**, hostile to the **low-born Khalji rise**, and used a communal tone about Hindus, so his work must be read critically.
+- In **2019 Q16**, Tughlaqnama–Ibn Battuta is **wrong**, and Tarikh-i-Firozshahi–Shams-i-Siraj Alif is also **wrong** (the correct author is Barani).
 
-> **Exam note:** **Barani = Tughlaqnama + Tarikh-i-Firoz Shahi** — memorise as single-author two-book pair.
+> **Exam note:** **Barani** wrote both **Tughlaqnama** and **Tarikh-i-Firoz Shahi**; memorise them as a single-author two-book pair.
 
 ---
 
@@ -200,9 +200,9 @@ Khusrau = Sultanate (NOT Akbar/Tansen) | Tutinama = Nakhshabi (NOT Khusrau)
 | **Format** | Tabaqat (generational classes) | Tarikh (annals) |
 | **Patron** | Nasiruddin Mahmud | Firuz Shah Tughlaq |
 
-- **Minhaj** came from **Ghazni tradition**; earliest major Delhi Sultanate chronicle.
-- **Barani** is eyewitness source for mature Sultanate; key for **Alauddin** admin questions (Topic 2 overlap).
-- **Trap:** Do not confuse **Tabaqat-i-Nasiri** (Minhaj) with **Tabaqat-i-Akbari** (Mughal-period work).
+- **Minhaj** came from the **Ghazni tradition** and wrote the earliest major Delhi Sultanate chronicle.
+- **Barani** is an eyewitness source for the mature Sultanate and is key for **Alauddin** administration questions (Topic 2 overlap).
+- Do not confuse **Tabaqat-i-Nasiri** (Minhaj) with **Tabaqat-i-Akbari**, which is a Mughal-period work.
 
 ---
 
@@ -210,12 +210,12 @@ Khusrau = Sultanate (NOT Akbar/Tansen) | Tutinama = Nakhshabi (NOT Khusrau)
 
 **Author:** Zahiruddin Muhammad Babur | **Original language:** **Chagatai Turki** | **Also called:** Tuzk-e-Babri, Tuzuk-i-Baburi
 
-- Among world's great **royal memoirs** — candid about battles, gardens, wine, poetry, Indian flora/fauna.
-- **2025 Q3:** A (Babur wrote in Turki) = **TRUE**; R (Turki was Mughal court language) = **FALSE** → Answer **C**.
-- **Persian** became Mughal court language — Babur's Turki remained personal literary idiom only.
-- Covers **Central Asian struggles**, **First Panipat (1526)**, observations on Indian climate and nature.
+- **Baburnama** ranks among the world's great **royal memoirs** and is candid about battles, gardens, wine, poetry, and Indian flora and fauna.
+- In **2025 Q3**, assertion A (Babur wrote in Turki) is **true**, but reason R (Turki was the Mughal court language) is **false**, giving answer **C**.
+- **Persian** became the Mughal court language, while Babur's Turki remained his personal literary idiom only.
+- The memoir covers **Central Asian struggles**, the **First Panipat (1526)**, and observations on Indian climate and nature.
 - **Abdur Rahim Khan-i-Khanan** later translated Baburnama into **Persian** for wider court access.
-- First major **intimate royal autobiography** in Indian Muslim tradition — precedes Jahangir's Tuzuk.
+- Baburnama was the first major **intimate royal autobiography** in the Indian Muslim tradition and precedes Jahangir's Tuzuk.
 
 ---
 
@@ -229,10 +229,10 @@ Khusrau = Sultanate (NOT Akbar/Tansen) | Tutinama = Nakhshabi (NOT Khusrau)
 | **Focus** | Akbar's life, campaigns, policies | Revenue, army, provinces, society data |
 | **Trap** | Called "gazetteer" = wrong | Called "biography" = wrong |
 
-- **Abul Fazl's family:** Brother **Faizi** (poet); father **Sheikh Mubarak** (scholar).
-- **Akbarnama** paintings are major Mughal art examples; **Badauni's Muntakhab-ut-Tawarikh** is hostile counter-narrative written secretly.
-- **2024 Q132 chronology:** Faizi (1595) → Sheikh Mubarak (1597) → Abul Fazl murdered (1602) → Daniyal (1604) = **B (3-2-1-4)**.
-- Abul Fazl murdered by **Bir Singh Bundela** (ally of Jahangir) in 1602.
+- **Abul Fazl's family** included his brother **Faizi** (poet) and his father **Sheikh Mubarak** (scholar).
+- **Akbarnama** paintings are major Mughal art examples, and **Badauni's Muntakhab-ut-Tawarikh** is the hostile counter-narrative written secretly.
+- In **2024 Q132**, the correct death order is Faizi (1595), then Sheikh Mubarak (1597), then Abul Fazl murdered (1602), then Daniyal (1604), giving answer **B (3-2-1-4)**.
+- Abul Fazl was murdered by **Bir Singh Bundela**, an ally of Jahangir, in 1602.
 
 ---
 
@@ -240,11 +240,11 @@ Khusrau = Sultanate (NOT Akbar/Tansen) | Tutinama = Nakhshabi (NOT Khusrau)
 
 **Author:** Jahangir himself | **Language:** **Persian** | **Also called:** Jahangirnama
 
-- Continues memoir tradition of **Baburnama** but in Persian (not Turki).
-- Records **court life, wine, executions, art patronage, natural history** — zebras, birds, flowers.
-- Political notes: **Guru Arjan's execution**, **Khurram's rebellion**, **Nur Jahan's** influence.
-- **Comparison:** Babur = Turki founder memoir; Jahangir = Persian consolidator memoir; Abul Fazl's Akbarnama = third-person official history.
-- Some parts edited/completed after Jahangir's death — still attributed to him.
+- **Tuzuk-i-Jahangiri** continues the memoir tradition of **Baburnama** but was written in Persian, not Turki.
+- It records **court life, wine, executions, art patronage, and natural history**, including zebras, birds, and flowers.
+- Politically it notes **Guru Arjan's execution**, **Khurram's rebellion**, and **Nur Jahan's** influence.
+- **Babur** wrote a Turki founder memoir, **Jahangir** wrote a Persian consolidator memoir, and **Abul Fazl's Akbarnama** is third-person official history.
+- Some parts were edited or completed after Jahangir's death but are still attributed to him.
 
 ---
 
@@ -252,11 +252,11 @@ Khusrau = Sultanate (NOT Akbar/Tansen) | Tutinama = Nakhshabi (NOT Khusrau)
 
 **Emperor:** Shah Jahan | **Primary author:** Abdul Hamid Lahori | **Language:** Persian
 
-- Official **court chronicle** of Shah Jahan's reign — restores formal panegyric style after Jahangir's intimate memoir.
-- Lahori completed **first two volumes** (~1627–1648); **Inayat Khan** added later portion.
-- Covers **accession, Deccan campaigns, Taj Mahal context**, court ceremonies, Dara Shukoh–Aurangzeb tensions.
-- **Padshahnama illustrations** = major Mughal painting commission.
-- **Trap:** Padshahnama = **Shah Jahan** (Lahori) — NOT Akbar (Abul Fazl) or Jahangir (Tuzuk).
+- **Padshahnama** is the official **court chronicle** of Shah Jahan's reign and restores formal panegyric style after Jahangir's intimate memoir.
+- Lahori completed the **first two volumes** (~1627–1648), and **Inayat Khan** added the later portion.
+- It covers **accession, Deccan campaigns, the Taj Mahal context**, court ceremonies, and Dara Shukoh–Aurangzeb tensions.
+- **Padshahnama illustrations** form a major Mughal painting commission.
+- Do not confuse Padshahnama with Akbar (Abul Fazl) or Jahangir (Tuzuk).
 
 ---
 
@@ -840,18 +840,18 @@ Options: A.4-2-1-3 | B.2-4-1-3 | C.1-2-4-3 | D.4-2-3-1
 
 ## Common Traps — Don't Fall For These
 
-1. **Tughlaqnama — Ibn Battuta** is FALSE (2019 Q16). Correct author = **Barani**.
-2. **Tarikh-i-Firoz Shahi — Shams-i-Siraj Alif** is FALSE. Correct author = **Barani**.
-3. **Baburnama originally in Persian** is FALSE — it was **Chagatai Turki** (2025 Q3).
-4. **Turki = Mughal court language** is FALSE — **Persian** was court language.
-5. **Ain-i-Akbari = biography** is FALSE — **Akbarnama** is narrative history; Ain-i-Akbari is **admin gazetteer**.
-6. **Akbarnama — Jahangir** is FALSE — **Abul Fazl** wrote it under Akbar.
-7. **Tuzuk-i-Jahangiri — Abul Fazl** is FALSE — **Jahangir** wrote his own memoir.
-8. **Padshahnama — Akbar/Jahangir** is FALSE — **Shah Jahan** (Abdul Hamid Lahori).
-9. **Rag Vibodh — Barani/Somnath** in author-match with Khusrau listed = **Khusrau** (2019 Q88).
-10. **Amir Khusrau = Akbar/Tansen court** is FALSE — 13th–14th century Sultanate poet.
-11. **Ibn Battuta = Tughlaq historian** is FALSE — eyewitness **traveller** (Rihla).
-12. **Tabaqat-i-Nasiri — Barani** is FALSE — correct author = **Minhaj-us-Siraj**.
-13. **Tutinama — Amir Khusrau** is FALSE — translator = **Nakhshabi** (2022 Q43).
-14. **2024 Q132 order** = **3-2-1-4 (B)**, not 2-1-4-3.
-15. **Riyaz-us-Salatin ≠ Riyaz-ul-Insha** — Bengal history vs Gawan's letters (2023 Q33).
+1. **Tughlaqnama** was **not** written by Ibn Battuta (2019 Q16); the correct author is **Barani**.
+2. **Tarikh-i-Firoz Shahi** was **not** written by Shams-i-Siraj Alif; the correct author is **Barani**.
+3. **Baburnama** was originally written in **Chagatai Turki**, not Persian (2025 Q3).
+4. **Turki** was **not** the Mughal court language; **Persian** was the court language.
+5. **Ain-i-Akbari** is **not** a biography; **Akbarnama** is narrative history, while Ain-i-Akbari is an **administrative gazetteer**.
+6. **Akbarnama** was **not** written by Jahangir; **Abul Fazl** wrote it under Akbar.
+7. **Tuzuk-i-Jahangiri** was **not** written by Abul Fazl; **Jahangir** wrote his own memoir.
+8. **Padshahnama** is **not** about Akbar or Jahangir; it chronicles **Shah Jahan** (Abdul Hamid Lahori).
+9. In author-match lists with Khusrau, **Rag Vibodh** belongs to **Khusrau**, not Barani or Somnath (2019 Q88).
+10. **Amir Khusrau** did **not** serve Akbar or Tansen's court; he was a 13th–14th century Sultanate poet.
+11. **Ibn Battuta** was an eyewitness **traveller** who wrote **Rihla**, not a Tughlaq historian.
+12. **Tabaqat-i-Nasiri** was **not** written by Barani; the correct author is **Minhaj-us-Siraj**.
+13. **Tutinama** was **not** translated by Amir Khusrau; the translator was **Nakhshabi** (2022 Q43).
+14. In **2024 Q132**, the correct order is **3-2-1-4 (B)**, not 2-1-4-3.
+15. **Riyaz-us-Salatin** is Bengal history, while **Riyaz-ul-Insha** contains Gawan's letters (2023 Q33); do not swap them.

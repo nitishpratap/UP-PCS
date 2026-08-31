@@ -85,18 +85,22 @@ NOT Panipat I (1526) or II (1556) | NOT Shivaji (dead 1680)
 
 - The Maratha base was the **Western Ghats**, Konkan, and Deccan hill-forts.
 - **Shivaji** built **swaraj** and took the title **Chhatrapati** in **1674**.
-- After **1680**, **Sambhaji** and then **Rajaram / Tarabai** fought Aurangzeb’s Deccan war.
+- After **1680**, **Sambhaji** fought Aurangzeb’s Deccan war.
+- **Rajaram** and **Tarabai** continued that resistance.
 - **Sambhaji** was executed in **1689**.
 - **Shahu** was released after Aurangzeb’s death (**1707**) and won the succession against Tarabai’s line.
-- From **1713** the **Peshwa** became hereditary and then the real ruler. The Chhatrapati turned ceremonial.
+- From **1713** the **Peshwa** became hereditary and then the real ruler.
+- The Chhatrapati turned ceremonial.
 - Later power was a **confederacy**, not one tight kingdom.
 - The **Peshwa** sat at **Pune**.
 - **Scindia** sat at **Gwalior**.
 - **Holkar** sat at **Indore**.
 - **Gaekwad** sat at **Baroda**.
 - **Bhonsle** sat at **Nagpur**.
-- **Panipat III (1761)** broke the northern surge. Peshwa power ended with the British in **1818**.
-- Maratha **chauth** reached the **Doab**, Bundelkhand, and Rohilkhand — the UP geography hook.
+- **Panipat III (1761)** broke the northern surge.
+- Peshwa power ended with the British in **1818**.
+- Maratha **chauth** reached the **Doab**, Bundelkhand, and Rohilkhand.
+- That is the UP geography hook for this topic.
 
 ---
 
@@ -110,13 +114,18 @@ NOT Panipat I (1526) or II (1556) | NOT Shivaji (dead 1680)
 - **Afzal Khan** of Bijapur was killed at **Pratapgad in 1659**.
 - **Shaista Khan** was raided in **Pune in 1663**.
 - **Treaty of Purandar (1665)** was made with **Raja Jai Singh I**.
-- Shivaji surrendered **23 forts** at Purandar. **Sambhaji** went as a hostage for a time.
+- Shivaji surrendered **23 forts** at Purandar.
+- **Sambhaji** went as a hostage for a time.
 - The **Agra** detention and escape belong to **1666** (Aurangzeb’s court).
 - **Rajyabhishek** at **Raigad in 1674** made him **Chhatrapati**, not a Bijapur jagirdar.
-- He built a **navy**. **Sindhudurg** is one Konkan fort.
+- He built a **navy**.
+- **Sindhudurg** is one Konkan fort.
 - **Vijaydurg** is another Konkan naval fort.
-- **2024 Q18 = A:** big **Deshmukhs** opposed him because they wanted to stay **Bijapur feudal lords**, not join an independent Maratha state.
-- He died at **Raigad in 1680**. He did **not** fight Panipat III.
+- On **2024 Q18**, the correct answer is **A**.
+- Big **Deshmukhs** opposed him because they wanted to stay **Bijapur feudal lords**.
+- They did not want to join an independent Maratha state.
+- He died at **Raigad in 1680**.
+- He did **not** fight Panipat III.
 
 ---
 
@@ -151,7 +160,8 @@ NOT Panipat I (1526) or II (1556) | NOT Shivaji (dead 1680)
 ## 11.4 Revenue — Chauth & Sardeshmukhi
 
 - **Chauth** is **one-fourth (25%)** of assessed land revenue, taken as a **protection** levy.
-- **2018 Q93 = B Chauth.** Sardeshmukhi is the trap option on that paper.
+- On **2018 Q93**, the answer is **B (Chauth)**.
+- **Sardeshmukhi** is the trap option on that paper.
 - **Sardeshmukhi** is an extra **10%**, claimed as the hereditary **deshmukh** overlord’s share.
 - Together the two can reach **35%** of land revenue.
 - **Abwab** means miscellaneous extra cesses. It is not the Maratha protection name.
@@ -164,7 +174,7 @@ NOT Panipat I (1526) or II (1556) | NOT Shivaji (dead 1680)
 
 ## 11.5 Peshwas
 
-**Peshwa** = prime minister → hereditary de facto ruler from **Balaji Vishwanath (1713)** under **Shahu**
+**Peshwa** | Prime minister under Shahu | Hereditary de facto ruler from **Balaji Vishwanath (1713)**
 
 | Peshwa | Years | Lock |
 |--------|-------|------|
@@ -180,11 +190,16 @@ NOT Panipat I (1526) or II (1556) | NOT Shivaji (dead 1680)
 - **Treaty of Lanavada (1718)** won Mughal recognition of Maratha chauth rights.
 - **Bajirao I** drove into **Malwa**, **Gujarat**, and **Bundelkhand**.
 - **Palkhed (1728)** is his famous campaign against the **Nizam**.
-- **Mastani** is biography colour. The exam lock is **1720–40 north expansion**.
+- **Mastani** is biography colour.
+- The exam lock is **1720–40 north expansion** under Bajirao I.
 - **Balaji Bajirao** is **not** the same person as Bajirao I.
-- **Madhav Rao I** comes **before Narayan Rao** — that is the **2023 Q35** trap.
-- **2024 Q1** lists Raghoba, not Madhav. Among those four: Vishwanath → Balaji Baji Rao → Narayan → Raghoba = **A (4-2-3-1)**.
-- **2025 Q149 = C (3-1-2-4)** = Vishwanath → Bajirao I → Balaji Bajirao → Madhav Rao I.
+- **Madhav Rao I** comes **before Narayan Rao**.
+- That order is the **2023 Q35** trap.
+- **2024 Q1** lists Raghoba, not Madhav.
+- Among those four names, the order is Vishwanath, then Balaji Baji Rao, then Narayan, then Raghoba.
+- That sequence keys to **A (4-2-3-1)**.
+- **2025 Q149** keys to **C (3-1-2-4)**.
+- That order is Vishwanath, then Bajirao I, then Balaji Bajirao, then Madhav Rao I.
 
 > **Exam note:** Read **which four names** are in the list. 2023 includes Madhav; 2024 includes Raghoba; 2025 includes both Bajiraos and Madhav.
 
@@ -193,12 +208,17 @@ NOT Panipat I (1526) or II (1556) | NOT Shivaji (dead 1680)
 ## 11.6 Third Battle of Panipat (14 January 1761)
 
 - Fought at **Panipat** between **Ahmad Shah Abdali (Durrani)** and the Marathas.
-- Maratha field commander was **Sadashiv Rao Bhau**, not Bajirao I (dead **1740**).
-- Peshwa heir **Vishwas Rao** was killed. Balaji Bajirao died the same year.
+- Maratha field commander was **Sadashiv Rao Bhau**.
+- **Bajirao I** had died in **1740** and did not command here.
+- Peshwa heir **Vishwas Rao** was killed.
+- **Balaji Bajirao** died the same year.
 - **Najib-ud-Daula** (Rohilla) stood with Abdali.
-- The defeat ended the Maratha **all-India northern surge**. It did not erase the confederacy overnight.
+- The defeat ended the Maratha **all-India northern surge**.
+- It did not erase the confederacy overnight.
 - **Madhav Rao I** later recovered some ground in the Deccan and north.
-- **Panipat I = 1526** (Babur). **Panipat II = 1556** (Akbar–Hemu). Only **III** is this topic.
+- **Panipat I** was fought in **1526** (Babur).
+- **Panipat II** was fought in **1556** (Akbar and Hemu).
+- Only **Panipat III** belongs to this topic.
 - **Nadir Shah’s 1739** sack of Delhi is a different Afghan shock.
 
 ---
@@ -762,18 +782,18 @@ D. 1, 3, 4, 2
 
 ## Common Traps — Don't Fall For These
 
-1. **Chauth ≠ Sardeshmukhi** — 25% protection vs extra 10% (2018 Q93 = B).
-2. **Madhav Rao I before Narayan Rao** — 2023 Q35.
-3. **2024 Q1 skips Madhav** — Raghoba comes **after** Narayan.
-4. **Bajirao I ≠ Balaji Bajirao**.
-5. **Peshwa ≠ king in Shivaji’s lifetime**.
-6. **Shivaji ≠ Panipat III** — he died **1680**.
-7. **Bhau ≠ Bajirao I**.
-8. **Abdali 1761 ≠ Nadir Shah 1739**.
-9. **Panipat III ≠ I or II**.
-10. **Deshmukhs wanted Bijapur feudalism**, not Shivaji’s swaraj (2024 Q18).
-11. **Raigad ≠ Pune**.
-12. **Purandar 1665 ≠ Lanavada 1718**.
-13. **Abwab and Jamadani** are not Maratha protection terms.
-14. **Sumant = foreign**, Amatya = finance — do not swap.
-15. **Read the four names** on each Peshwa PYQ; the option letter changes with the list.
+1. **Chauth** and **Sardeshmukhi** are different levies. Chauth is **25%** protection. Sardeshmukhi is an extra **10%** (2018 Q93 = B).
+2. **Madhav Rao I** ruled **before Narayan Rao** (2023 Q35).
+3. **2024 Q1** skips Madhav. **Raghoba** comes **after Narayan** in that list.
+4. **Bajirao I** and **Balaji Bajirao** are different Peshwas.
+5. The **Peshwa** was not king in Shivaji’s lifetime. He was one of eight ministers.
+6. **Shivaji** did not fight at Panipat III. He died in **1680**.
+7. **Sadashiv Rao Bhau** commanded at Panipat III. He is not **Bajirao I**.
+8. **Ahmad Shah Abdali** won at Panipat in **1761**. That is not **Nadir Shah** in **1739**.
+9. **Panipat III** is not Panipat I or II.
+10. **Deshmukhs** wanted to remain **Bijapur feudal lords**, not join Shivaji’s swaraj (2024 Q18).
+11. **Raigad** is not **Pune**. Raigad is Shivaji’s coronation fort. Pune is the Peshwa seat.
+12. **Purandar (1665)** is not **Lanavada (1718)**.
+13. **Abwab** and **Jamadani** are not Maratha protection terms.
+14. **Sumant** handled foreign affairs. **Amatya** handled finance. Do not swap them.
+15. On each Peshwa chronology PYQ, read **which four names** are in the list. The option letter changes with the list.

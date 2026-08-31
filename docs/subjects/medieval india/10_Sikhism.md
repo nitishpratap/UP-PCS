@@ -80,18 +80,23 @@ Zafarnama to Aurangzeb | died 1708 Nanded (Hazur Sahib)
 
 **Founder:** **Guru Nanak** | **1469–1539** | **Punjab** (Talwandi / Nankana Sahib)
 
-- Sikhism is a **monotheistic** panth: **Ik Onkar** (one formless God).
-- It grew in a Bhakti milieu but became a **separate institution**: ten Gurus, a scripture, then the Khalsa.
+- Sikhism is a **monotheistic** panth built on **Ik Onkar** (one formless God).
+- It grew in a Bhakti milieu but became a **separate institution** with ten Gurus, a scripture, and later the Khalsa.
 - **Kabir did not found Sikhism.** His hymns later entered the Granth.
 - The ethical triad is **Naam Japna**, **Kirat Karni**, and **Vand Chakna**.
-- Nanak taught the **householder** path. Extreme ascetic escape is not the Sikh ideal.
-- **Langar** is the free community kitchen. It is an equality practice, not a tax.
+- Nanak taught the **householder** path.
+- Extreme ascetic escape is not the Sikh ideal.
+- **Langar** is the free community kitchen.
+- It is an equality practice, not a tax.
 - **Sangat** is the congregation for hymn and counsel.
-- A **Sikh** means a learner of the Guru. **Khalsa** later means the initiated order of **1699**.
+- A **Sikh** means a learner of the Guru.
+- **Khalsa** later means the initiated order of **1699**.
 - **Mardana** was Nanak’s Muslim **rabab** companion and **disciple**.
-- **2025 Q12 = C (2-3-4-1)** because Mardana maps to Guru Nanak, not the reverse.
-- **2025 Q74 = C (3-4-1-2)** places Nanak after Namdev and Kabir, before Chaitanya.
-- Nanak settled a sangat at **Kartarpur**. That community model later became the gurdwara pattern.
+- **2025 Q12** keys to **C (2-3-4-1)** because Mardana maps to Guru Nanak, not the reverse.
+- **2025 Q74** keys to **C (3-4-1-2)**.
+- That order places Nanak after Namdev and Kabir, before Chaitanya.
+- Nanak settled a sangat at **Kartarpur**.
+- That community model later became the gurdwara pattern.
 
 ---
 
@@ -102,7 +107,8 @@ Zafarnama to Aurangzeb | died 1708 Nanded (Hazur Sahib)
 - **Guru Angad** succeeded Nanak though he was not Nanak’s son.
 - From **Amar Das** through **Arjan**, leadership tightened inside one family line.
 - The Guru was both spiritual guide and community head.
-- In **1708** Gobind Singh ended human guruship. **Guru Granth Sahib** is the eternal Guru.
+- In **1708** Gobind Singh ended human guruship.
+- **Guru Granth Sahib** is the eternal Guru.
 - There is **no 11th human Guru**.
 - **Mata Khivi** is remembered for langar service under the early Gurus.
 
@@ -128,11 +134,17 @@ Zafarnama to Aurangzeb | died 1708 Nanded (Hazur Sahib)
 - **Guru Ram Das** founded the **Amritsar** settlement and its sacred tank.
 - **Guru Arjan** compiled the **Adi Granth in 1604** and developed **Harmandir Sahib**.
 - Arjan was the **first Guru martyr**, executed under **Jahangir in 1606**.
-- **1604 is compilation. 1606 is martyrdom.** Do not swap them.
-- **Guru Hargobind** wore two swords: **Piri** (spiritual) and **Miri** (temporal).
+- **1604** is the year of compilation.
+- **1606** is the year of martyrdom.
+- Do not swap those dates.
+- **Guru Hargobind** wore two swords.
+- **Piri** stood for spiritual authority.
+- **Miri** stood for temporal authority.
 - He built the **Akal Takht** beside Harmandir as the seat of worldly authority.
-- Hargobind began armed discipline. He did **not** create the Khalsa.
-- **Guru Har Krishan** is the **8th** Guru, a child, remembered for service in a **Delhi** epidemic.
+- Hargobind began armed discipline.
+- He did **not** create the Khalsa.
+- **Guru Har Krishan** is the **8th** Guru.
+- He was a child remembered for service in a **Delhi** epidemic.
 - **Guru Tegh Bahadur** was executed in **Delhi in 1675** under **Aurangzeb**.
 - Exam narrative links Tegh Bahadur with defending **Kashmiri Pandits’** right to their faith.
 - **Guru Gobind Singh** is the **10th** and last human Guru.
@@ -152,9 +164,13 @@ Zafarnama to Aurangzeb | died 1708 Nanded (Hazur Sahib)
 - Bhagat bani does not make those saints Sikh founders.
 - Hymns of **Guru Tegh Bahadur** were added before the final canon.
 - In **1708** Gobind Singh declared **Guru Granth Sahib** the eternal Guru.
-- **Adi Granth** names the 1604 book. **Guru Granth Sahib** names the same canon as living Guru after 1708.
-- **Dasam Granth** is a separate corpus attributed to Gobind Singh. It is **not** the eternal Guru.
-- A **granthi** reads the scripture. The Granth is the Guru; the granthi is not.
+- **Adi Granth** names the 1604 book.
+- **Guru Granth Sahib** names the same canon as living Guru after 1708.
+- **Dasam Granth** is a separate corpus attributed to Gobind Singh.
+- It is **not** the eternal Guru.
+- A **granthi** reads the scripture.
+- The Granth is the Guru.
+- The granthi is not.
 
 ---
 
@@ -170,14 +186,16 @@ Zafarnama to Aurangzeb | died 1708 Nanded (Hazur Sahib)
 - **Bhai Himmat Singh** is one of the Panj Pyare.
 - **Bhai Mohkam Singh** is one of the Panj Pyare.
 - **Bhai Sahib Singh** is one of the Panj Pyare.
-- The Guru took amrit from them after initiating them — a symbol of equality.
+- The Guru took amrit from them after initiating them.
+- That act symbolised equality.
 - **Amrit Sanchar** uses sweetened water stirred with a **khanda**.
 - **Kesh** means uncut hair.
 - **Kangha** is the comb.
 - **Kara** is the steel bracelet.
 - **Kachha** is the short breeches.
 - **Kirpan** is the sword of defence.
-- Initiated men take the name **Singh**. Initiated women take **Kaur**.
+- Initiated men take the name **Singh**.
+- Initiated women take **Kaur**.
 - The ideal is **sant-sipahi** (saint-soldier).
 - Khalsa was **not** created at Amritsar and **not** by Nanak, Arjan, or Hargobind.
 
@@ -193,7 +211,8 @@ Zafarnama to Aurangzeb | died 1708 Nanded (Hazur Sahib)
 - After 1699 came sieges and battles such as **Chamkaur** and **Muktsar**.
 - Tradition remembers the martyrdom of his **four sons**.
 - **Zafarnama** is his **Persian** letter to **Aurangzeb**.
-- He died in **1708** at **Nanded**. **Hazur Sahib** marks the site.
+- He died in **1708** at **Nanded**.
+- **Hazur Sahib** marks the site.
 - The same year he closed the human line and left **Guru Granth Sahib** as Guru.
 - Later Sikh polity (Misls, **Ranjit Singh**) is modern-history continuity, not an 11th Guru.
 
@@ -218,7 +237,8 @@ Zafarnama to Aurangzeb | died 1708 Nanded (Hazur Sahib)
 
 - Nanak’s travels include the **Banaras–Prayag–Delhi** belt.
 - **Har Krishan** and **Tegh Bahadur** are Delhi-site Gurus (**1664**, **1675**).
-- **Kabir** of Kashi appears in the Granth; that does not move Sikhism’s heartland out of Punjab.
+- **Kabir** of Kashi appears in the Granth.
+- That does not move Sikhism’s heartland out of Punjab.
 
 ### 2021 bridge
 
@@ -750,18 +770,18 @@ D. Multan
 
 ## Common Traps — Don't Fall For These
 
-1. **Kabir ≠ Sikh founder** — Nanak founded the line.
-2. **Mardana ≠ Nanak’s guru** — 2025 Q12.
-3. **Nanak ≠ Khalsa creator** — Gobind Singh, **1699**.
-4. **Sikh Khalsa ≠ Mughal Khalsa land** — 2025 Q95 is revenue, not initiation.
-5. **Arjan ≠ Aurangzeb** — **Jahangir, 1606**.
-6. **Tegh Bahadur ≠ 1606** — **Aurangzeb, 1675**.
-7. **Gobind Singh ≠ Adi Granth compiler** — **Arjan, 1604**.
-8. **Dasam Granth ≠ eternal Guru**.
-9. **Hargobind ≠ Khalsa** — he began **Miri-Piri**.
-10. **No 11th human Guru**.
-11. **Har Krishan is 8th**, not 10th.
-12. **Khalsa site is Anandpur**, not Amritsar.
-13. **1604 ≠ 1606**.
-14. **Adalat-i-Ala is Ranjit Singh / Amritsar**, not Nanak.
-15. **Householder path**, not forest sanyasa as the Sikh ideal.
+1. **Kabir** did not found Sikhism. **Guru Nanak** founded the line.
+2. **Mardana** was not Nanak’s guru. He was Nanak’s disciple (2025 Q12).
+3. **Guru Nanak** did not create the Khalsa. **Guru Gobind Singh** created it in **1699**.
+4. **Sikh Khalsa** of 1699 is not **Mughal Khalsa** land. The 2025 Q95 stem uses the revenue term, not initiation.
+5. **Guru Arjan** was not executed under Aurangzeb. **Jahangir** ordered his execution in **1606**.
+6. **Guru Tegh Bahadur** was not martyred in **1606**. **Aurangzeb** had him executed in **1675**.
+7. **Guru Gobind Singh** did not compile the Adi Granth. **Guru Arjan** compiled it in **1604**.
+8. The **Dasam Granth** is not the eternal Guru.
+9. **Guru Hargobind** did not create the Khalsa. He began **Miri-Piri**.
+10. There is **no 11th human Guru**.
+11. **Har Krishan** is the **8th** Guru, not the 10th.
+12. The Khalsa was created at **Anandpur**, not Amritsar.
+13. **1604** and **1606** are different locks. Do not swap compilation and martyrdom.
+14. **Adalat-i-Ala** belongs to **Ranjit Singh** at **Amritsar**, not to Nanak.
+15. Sikhism upholds the **householder** path, not forest **sanyasa**, as the ideal.

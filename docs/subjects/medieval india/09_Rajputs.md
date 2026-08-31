@@ -80,15 +80,17 @@ Malik Sarwar = Jaunpur, not Malwa | Rao Jodha founded Jodhpur 1459
 
 - Rajputs were **clan-lineages** claiming Kshatriya status, not a single empire.
 - Core power sat in **Rajasthan**, with branches in Bundelkhand, Malwa, and Gujarat.
-- A chief’s strength was **genealogy, hill-fort, cavalry, and marriage**.
+- A Rajput chief drew strength from **genealogy**, a **hill-fort**, **cavalry**, and **marriage** alliances.
 - **Chittor** was the Sisodia prestige fort until Udaipur replaced it as capital.
 - **Ranthambore** was a Chauhan fort. Alauddin took it in **1301** from **Hamir Deva**.
-- Honour code: **izzat**, hospitality, **jauhar** (women) and **saka** (men) when a fort fell.
+- The honour code prized **izzat** and hospitality.
+- When a fort fell, women performed **jauhar** and men rode out in **saka**.
 - Clans fought each other as often as they fought Turks or Mughals.
 - **Prithviraj Chauhan** is the Tarain-era Chauhan lock, not a Mewar Sisodia.
 - **Rana Hammir (c. 1326–1364)** restored **Mewar** after the Khalji sack of Chittor.
 - That Hammir is **not** Hamir Deva of Ranthambore.
-- After Akbar, most Rajput houses took mansabs; **Aurangzeb** later strained Marwar and Mewar.
+- After Akbar, most Rajput houses took mansabs.
+- **Aurangzeb** later strained Marwar and Mewar.
 
 ---
 
@@ -104,10 +106,13 @@ Malik Sarwar = Jaunpur, not Malwa | Rao Jodha founded Jodhpur 1459
 | **Bundi–Kota** | Hada | Bundi / Kota |
 
 - **Rana/Maharana** is the Mewar title. **Rao** is the Marwar and Bikaner title.
-- **Rana Hammir** restored Mewar — **2021 Q118** pair A is correct.
-- **Rana Chunda** is a **Mewar** Sisodia. **Rao Chunda** is the **Marwar** Rathore line.
-- **2021 Q118 NOT matched = B** (Rana Chunda – Marwar).
-- Option D on that paper (Malik Sarwar – Malwa) is also historically false: Sarwar founded **Jaunpur** Sharqi as Khwaja Jahan. The intended Rajput trap is still **B**.
+- **Rana Hammir** restored Mewar. On **2021 Q118**, pair A is correct.
+- **Rana Chunda** is a **Mewar** Sisodia.
+- **Rao Chunda** is the **Marwar** Rathore line.
+- On **2021 Q118**, the pair **not** matched is **B** (Rana Chunda with Marwar).
+- Option D on that paper (Malik Sarwar with Malwa) is also historically false.
+- **Malik Sarwar** founded **Jaunpur** Sharqi as Khwaja Jahan.
+- The intended Rajput trap on that question is still **B**.
 - **Rana Kumbha** (15th c.) built **Vijay Stambha** at Chittor after beating Malwa.
 - **Kirti Stambha** at Chittor is the older **Jain** tower. Do not swap it with Vijay Stambha.
 - **Kumbhalgarh** is Kumbha’s fort.
@@ -118,7 +123,8 @@ Malik Sarwar = Jaunpur, not Malwa | Rao Jodha founded Jodhpur 1459
 - **Rao Bika** founded **Bikaner**.
 - **Bhagwan Das** of Amber was Akbar’s marriage-alliance partner.
 - **Man Singh** of Amber held a high mansab (~**7000**) and commanded at Haldighati.
-- **Malik Raja Faruqi** = **Khandesh** (2021 Q118 C is correct).
+- **Malik Raja Faruqi** ruled **Khandesh**.
+- On **2021 Q118**, option C is correct.
 
 ---
 
@@ -132,8 +138,10 @@ Malik Sarwar = Jaunpur, not Malwa | Rao Jodha founded Jodhpur 1459
 - **Mahmud Lodi** joined that front.
 - **Khanwa, 16 March 1527**, was fought near the Fatehpur Sikri–Bharatpur belt.
 - Babur’s **Araba** wagons and **Tulughma** flanking broke the Rajput charge.
-- Sanga died **~1528**. No second all-Rajput confederacy faced Babur.
-- Some accounts say Rajputs had earlier anti-Lodi contact with Babur — **not** a lasting alliance.
+- Sanga died **~1528**.
+- No second all-Rajput confederacy faced Babur.
+- Some accounts say Rajputs had earlier anti-Lodi contact with Babur.
+- That contact was **not** a lasting alliance.
 
 > **Exam note:** Khanwa = **Sanga 1527**. Never pair Pratap with Khanwa.
 
@@ -150,8 +158,10 @@ Malik Sarwar = Jaunpur, not Malwa | Rao Jodha founded Jodhpur 1459
 - After Haldighati he fought a **guerrilla** war and recovered parts of the Mewar countryside.
 - He died in **1597**.
 - His son **Amar Singh** made peace with **Jahangir in 1615**.
-- Classic terms: Mewar kept honour; the Rana did not have to attend court in person.
-- Horse **Chetak** is lore. The exam lock is **1576** and **Man Singh**.
+- Under the peace terms, Mewar kept honour.
+- The Rana did not have to attend court in person.
+- The horse **Chetak** is lore.
+- The exam lock is **1576** and **Man Singh**.
 
 ---
 
@@ -162,21 +172,31 @@ Malik Sarwar = Jaunpur, not Malwa | Rao Jodha founded Jodhpur 1459
 - The pass is a narrow **Aravalli** gap with turmeric-coloured soil.
 - **Pratap** faced the imperial army under **Raja Man Singh** of Amber.
 - **Akbar was not** in the pass. **Asaf Khan** was in the Mughal camp.
-- **Punja Bhil** brought Bhil support. **Hakim Khan Sur** was Pratap’s Afghan ally.
-- The clash was fierce cavalry fighting. Pratap was not captured and withdrew to the hills.
-- Exam line: **tactically indecisive**, with a **Mughal strategic edge** on the plains.
-- The battle is **Rajput vs Rajput**: a Kachhwaha general for the empire against a Sisodia holdout.
+- **Punja Bhil** brought Bhil support.
+- **Hakim Khan Sur** was Pratap’s Afghan ally.
+- The clash was fierce cavalry fighting.
+- Pratap was not captured and withdrew to the hills.
+- The battle was **tactically indecisive**.
+- The Mughals held a **strategic edge** on the plains.
+- The fight was **Rajput vs Rajput**.
+- A Kachhwaha general served the empire against a Sisodia holdout.
 
 ---
 
 ## 9.6 Chittor — Two Sieges
 
-- **1303:** Alauddin took Chittor from **Ratan Singh**. The **Padmini jauhar** is the lore attached to this sack.
-- **1567–68:** Akbar’s siege. **Jaimal and Patta** led the defence. **Udai Singh II** was not in the fort.
+- In **1303**, Alauddin took Chittor from **Ratan Singh**.
+- The **Padmini jauhar** is the lore attached to that sack.
+- In **1567–68**, Akbar besieged Chittor.
+- **Jaimal and Patta** led the defence.
+- **Udai Singh II** was not in the fort.
 - That siege ended in **jauhar** and **saka**.
-- **2022 Q59** (Gujarat in the list) = **C (2-1-4-3)** = Gujarat → Ranthambore → Chittor → Warangal.
-- **2025 Q30** (Jaisalmer in the list) = **B (2-1-4-3)** = Jaisalmer → Ranthambore → Chittor → Warangal.
-- Do not copy 2022’s option letter onto 2025. Both sequences end **Chittor then Warangal**.
+- On **2022 Q59** (Gujarat in the list), the answer is **C (2-1-4-3)**.
+- The conquest order is Gujarat, then Ranthambore, then Chittor, then Warangal.
+- On **2025 Q30** (Jaisalmer in the list), the answer is **B (2-1-4-3)**.
+- The conquest order is Jaisalmer, then Ranthambore, then Chittor, then Warangal.
+- Do not copy 2022’s option letter onto 2025.
+- Both sequences end with **Chittor** and then **Warangal**.
 
 ---
 
@@ -716,21 +736,21 @@ D. Muzaffar Shah of Gujarat
 
 ## Common Traps — Don't Fall For These
 
-1. **Rana Chunda ≠ Marwar** — **Rao** Chunda is Marwar (2021 Q118).
-2. **Khanwa ≠ Haldighati** — 1527 Sanga vs 1576 Pratap.
-3. **Man Singh ≠ Sisodia** — **Kachhwaha**, Mughal commander.
-4. **Akbar ≠ in the Haldighati pass** — Man Singh commanded.
-5. **Jayata–Kumpa ≠ Mewar**.
-6. **Udai Singh of Mewar ≠ Tansen’s patron**.
-7. **Chittor 1303 ≠ 1568**.
-8. **Malik Sarwar ≠ Malwa** — **Jaunpur**.
-9. **Amar Singh 1615 ≠ Pratap’s surrender** — Pratap died 1597.
-10. **Mewar title is Rana/Maharana**, Marwar is **Rao**.
-11. **Warangal is last** in Alauddin Deccan list, not first.
-12. **Sanga invited Babur** does not mean he stayed allied.
-13. **Haldighati “Mughal victory”** — say **strategic edge**, Pratap survived.
-14. **Kumbha ≠ Pratap** — Vijay Stambha is Kumbha.
-15. **Jaisalmer in 2025 Q30 comes before Ranthambore** in the keyed order.
-16. **Rana Hammir ≠ Hamir Deva of Ranthambore**.
-17. **Kirti Stambha ≠ Vijay Stambha**.
-18. **2022 Q59 option letter is C**, not B — both papers share the **2-1-4-3** sequence, not the same letter.
+1. Do not match **Rana Chunda** with Marwar. The Marwar line uses **Rao** Chunda (2021 Q118).
+2. **Khanwa** and **Haldighati** are different battles. Khanwa is **1527** (Sanga). Haldighati is **1576** (Pratap).
+3. **Man Singh** was not a Sisodia. He was a **Kachhwaha** and the Mughal commander at Haldighati.
+4. **Akbar** was not in the Haldighati pass. **Man Singh** commanded the imperial army there.
+5. **Jayata** and **Kumpa** belong to **Marwar**, not Mewar.
+6. **Udai Singh of Mewar** was not Tansen’s patron before Akbar.
+7. Do not confuse **Chittor 1303** (Alauddin) with **Chittor 1567–68** (Akbar).
+8. **Malik Sarwar** did not found Malwa. He founded **Jaunpur**.
+9. **Amar Singh’s peace in 1615** was not Pratap’s surrender. Pratap had died in **1597**.
+10. **Mewar** uses the title **Rana** or **Maharana**. **Marwar** uses **Rao**.
+11. In Alauddin’s Deccan conquest lists, **Warangal** comes **last**, not first.
+12. The fact that **Sanga** had contact with Babur does not mean he stayed allied to him.
+13. Do not call Haldighati a clear **Mughal victory**. Say the Mughals held a **strategic edge** on the plains. Pratap survived.
+14. **Kumbha** is not Pratap. **Vijay Stambha** was built by Kumbha.
+15. On **2025 Q30**, **Jaisalmer** comes **before Ranthambore** in the keyed order.
+16. **Rana Hammir** of Mewar is not **Hamir Deva** of Ranthambore.
+17. **Kirti Stambha** is not **Vijay Stambha**. Kirti is the older Jain tower at Chittor.
+18. **2022 Q59** keys to option **C**, not B. Both papers use the **2-1-4-3** sequence but not the same letter.

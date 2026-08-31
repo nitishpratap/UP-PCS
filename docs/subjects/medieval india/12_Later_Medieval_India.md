@@ -104,12 +104,15 @@ Saadat Khan 1722 founder → Safdar Jung → Shuja-ud-Daula (Panipat III / Buxar
 
 ## 12.2 Portuguese
 
-- **Vasco da Gama** reached **Calicut** in **1498** and met the **Zamorin**.
+- **Vasco da Gama** reached **Calicut** in **1498**.
+- He met the **Zamorin** there.
 - He did **not** take Goa.
-- **Afonso de Albuquerque** captured **Goa in 1510**. Goa became the Portuguese capital in India.
+- **Afonso de Albuquerque** captured **Goa in 1510**.
+- Goa became the Portuguese capital in India.
 - **Cartaze** was a Portuguese pass-tax on Indian Ocean shipping.
 - **Shah Jahan** expelled the Portuguese from **Hooghly in 1632**.
-- They kept coastal forts. They never ruled Delhi.
+- They kept coastal forts.
+- They never ruled Delhi.
 
 ---
 
@@ -127,13 +130,19 @@ Saadat Khan 1722 founder → Safdar Jung → Shuja-ud-Daula (Panipat III / Buxar
 **Charter 31 Dec 1600** | **Queen Elizabeth I** | First lasting factory **Surat 1612**
 
 - **William Hawkins** reached India in **1608** on the **Hector**.
-- He went to **Jahangir’s** court with a **James I** letter. He spoke **Turkish**.
-- **2023 Q31 statement 1 is false:** he did **not** “come in **1611**.” **1611** is when his Indian stay was ending. Answer **B (only 2)**.
+- He went to **Jahangir’s** court with a **James I** letter.
+- He spoke **Turkish**.
+- **2023 Q31** statement 1 is false.
+- Hawkins did **not** “come in **1611**.”
+- **1611** is when his Indian stay was ending.
+- The answer is **B (only 2)**.
 - **Sir Thomas Roe** was ambassador in **1615–19**, also at Jahangir’s court.
-- **Francis Day** secured **Madras** in **1640**. **Fort St George** is the lock.
+- **Francis Day** secured **Madras** in **1640**.
+- **Fort St George** is the lock.
 - **Bombay** came from Portugal as royal dowry and was **leased to the EIC in 1668**.
 - **Fort William / Calcutta** grew around **1698**.
-- Hawkins did not conquer Delhi. Roe sought **farmans**, not a crown.
+- Hawkins did not conquer Delhi.
+- Roe sought **farmans**, not a crown.
 
 ---
 
@@ -149,10 +158,13 @@ Saadat Khan 1722 founder → Safdar Jung → Shuja-ud-Daula (Panipat III / Buxar
 - **First Carnatic War (1746–48)** was the Indian face of the War of Austrian Succession.
 - The French took **Madras in 1746**.
 - **Treaty of Aix-la-Chapelle (1748)** ended that war and **returned Madras to the English**.
-- **2025 Q67 = C** and **2020 Q18 = C**: both statements true.
+- **2025 Q67** and **2020 Q18** both key to **C**.
+- Both statements are true.
 - **Second Carnatic War (1749–54)** is the usual meaning of “Second Anglo-French War” in Indian lists.
-- **2025 Q26 = A (2-1-4-3):** Second Anglo-French → First Anglo-Mysore → First Anglo-Afghan → First Anglo-Sikh.
-- **Wandiwash 1760** and **Paris 1763** ended French political hopes. **Paris 1763 ≠ Aix-la-Chapelle 1748**.
+- **2025 Q26** keys to **A (2-1-4-3)**.
+- That order is Second Anglo-French, then First Anglo-Mysore, then First Anglo-Afghan, then First Anglo-Sikh.
+- **Wandiwash 1760** and **Paris 1763** ended French political hopes.
+- **Paris 1763** is not the same treaty as **Aix-la-Chapelle 1748**.
 
 ---
 
@@ -162,17 +174,20 @@ Saadat Khan 1722 founder → Safdar Jung → Shuja-ud-Daula (Panipat III / Buxar
 - **Tranquebar (Tharangambadi, 1620)** is the Coromandel lock. **Fort Dansborg** stands there.
 - **Serampore** in Bengal was Danish, then a mission press centre, later British.
 - Settlements were sold to the British in **1845**.
-- **Serampore is not French. Tranquebar is not Dutch.**
+- **Serampore** is not French.
+- **Tranquebar** is not Dutch.
 
 ---
 
 ## 12.7 British travellers
 
-- **Ralph Fitch (1585–91)** is the earliest English name in the 2021 list. He saw **Agra** and **Banaras** in Akbar’s time, before an EIC factory.
+- **Ralph Fitch (1585–91)** is the earliest English name in the 2021 list.
+- He saw **Agra** and **Banaras** in Akbar’s time, before an EIC factory.
 - **William Hawkins** arrived **1608**.
 - **Nicholas Downton** belongs to **1614** (Surat command).
 - **Sir Thomas Roe** arrived **1615**.
-- **2021 Q75 = A (II, I, IV, III)** = Fitch → Hawkins → Downton → Roe.
+- **2021 Q75** keys to **A (II, I, IV, III)**.
+- The arrival order is Fitch, then Hawkins, then Downton, then Roe.
 - **François Bernier** was a **French** physician at **Aurangzeb’s** court. He is not a British traveller.
 - **Jean-Baptiste Tavernier** was a French jeweller-traveller.
 - **Niccolao Manucci** was Venetian (**Storia do Mogor**).
@@ -181,7 +196,7 @@ Saadat Khan 1722 founder → Safdar Jung → Shuja-ud-Daula (Panipat III / Buxar
 
 ## 12.8 Independent State of Awadh
 
-**Mughal subah → hereditary Nawabi from 1722** | Core **Lucknow / Faizabad** | UP heartland
+**Mughal subah** | Hereditary Nawabi from **1722** | Core **Lucknow / Faizabad** | UP heartland
 
 - **Saadat Khan Burhan-ul-Mulk** founded the line in **1722**.
 - He is **not** the Bengal Nawab. Bengal’s autonomous line starts with **Murshid Quli Khan**.
@@ -190,9 +205,12 @@ Saadat Khan 1722 founder → Safdar Jung → Shuja-ud-Daula (Panipat III / Buxar
 - After **Buxar**, the **Treaty of Allahabad (1765)** put Awadh under English pressure.
 - **Asaf-ud-Daula** (1775–1797) made **Lucknow** the capital.
 - The **Bara Imambara** is his Lucknow monument.
-- **Wajid Ali Shah** was the last Nawab. The British annexed Awadh in **1856**.
-- **2025 Q127 = A (1-3-4-2):** Awadh **1856** → Indigo Revolt **1859** → Second Anglo-Afghan War **1878–80** → Ilbert Bill **1883**.
-- Annexation fed the **1857** Lucknow rising. **Begum Hazrat Mahal** led resistance after the Nawab was removed.
+- **Wajid Ali Shah** was the last Nawab.
+- The British annexed Awadh in **1856**.
+- **2025 Q127** keys to **A (1-3-4-2)**.
+- The chronology is Awadh annexation **1856**, then Indigo Revolt **1859**, then Second Anglo-Afghan War **1878–80**, then Ilbert Bill **1883**.
+- Annexation fed the **1857** Lucknow rising.
+- **Begum Hazrat Mahal** led resistance after the Nawab was removed.
 
 ---
 
@@ -771,18 +789,18 @@ D. 1, 3, 2, 4
 
 ## Common Traps — Don't Fall For These
 
-1. **Hawkins year ≠ 1611** — **1608** (2023 Q31 = B).
-2. **Roe ≠ 1608** — **1615**.
-3. **Fitch is first** in the 2021 four-name list.
-4. **Gama ≠ Goa** — Albuquerque **1510**.
-5. **EIC 1600 ≠ VOC 1600** — Dutch **1602**.
-6. **Pondicherry ≠ Dutch/Danish**.
-7. **Tranquebar ≠ French**.
-8. **Serampore ≠ French** — Danish.
-9. **Bernier ≠ British**.
-10. **Aix-la-Chapelle 1748 ≠ Paris 1763**.
-11. **Saadat Khan ≠ Bengal**.
-12. **Awadh annexation 1856 is before Indigo 1859**.
-13. **1600 charter ≠ company raj**.
-14. **Hawkins/Roe = Jahangir**, not Akbar.
-15. **Shuja-ud-Daula of Awadh ≠ Shuja** in Aurangzeb’s 1658 Banaras fight.
+1. **William Hawkins** did not arrive in **1611**. He reached India in **1608** (2023 Q31 = B).
+2. **Sir Thomas Roe** did not come in **1608**. He served as ambassador in **1615–19**.
+3. In the **2021 Q75** four-name list, **Ralph Fitch** comes first.
+4. **Vasco da Gama** did not take Goa. **Albuquerque** captured it in **1510**.
+5. The English EIC charter is **1600**. The Dutch VOC charter is **1602**, not 1600.
+6. **Pondicherry** is French. It is not Dutch or Danish.
+7. **Tranquebar** is Danish. It is not French.
+8. **Serampore** is Danish, not French.
+9. **François Bernier** was French, not British.
+10. **Aix-la-Chapelle (1748)** is not **Paris (1763)**.
+11. **Saadat Khan** founded Awadh. He is not the Bengal Nawab **Murshid Quli Khan**.
+12. **Awadh annexation in 1856** came before the **Indigo Revolt of 1859**.
+13. The **1600** charter was a trade monopoly. It did not make the EIC ruler of India from day one.
+14. **Hawkins** and **Roe** served at **Jahangir’s** court, not Akbar’s.
+15. **Shuja-ud-Daula** of Awadh is not **Shuja** in Aurangzeb’s **1658** Banaras fight.
