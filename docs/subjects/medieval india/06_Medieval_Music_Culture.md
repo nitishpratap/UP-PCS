@@ -111,7 +111,6 @@ TRAP: 2019 Q88 matched Amir Khusrau–Rag Vibodh in a literary list;
 
 ### PYQ — Tappa under Muhammad Shah (2023 Q38)
 
-**Exam logic:** Later-Mughal music stems ask **which emperor** refined **Tappa** — answer is **Muhammad Shah Rangeela**, not Akbar. **Trap:** Akbar = **dhrupad/Tansen**; Tappa blooms under **Rangeela** court with Shori Miyan.
 
 **1. (UPPCS Prelims 2023, Q38)** The Tappa style of music was refined and developed in the court of which Mughal Emperor?
 
@@ -156,7 +155,6 @@ D. Muhammad Shah
 
 ### PYQ — Khusrau guru match (2025 Q12)
 
-**Exam logic:** Disciple–guru match stems test whether you place Khusrau under **Nizamuddin Auliya** (Chishti), not Bhakti gurus. **Trap:** Khusrau ≠ Ramananda/Vallabhacharya; he died **1325**, ~200 years before Tansen.
 
 **1. (UPPCS Prelims 2025, Q12 overlap)** Amir Khusrau's guru in the disciple–guru match is:
 
@@ -198,7 +196,6 @@ D. Guru Nanak (code 1)
 
 ### PYQ — Tansen pre-Akbar patron (2019 Q89)
 
-**Exam logic:** Tansen patronage stems trap **regional kings** — lock **Bhata/Rewa** (Raja Ramchandra Singh) as pre-Akbar patron before Navratna fame. **Trap:** Mewar, Malwa, Gujarat are distractors; Akbar patronage came **after** Bhata.
 
 **1. (UPPCS Prelims 2019, Q89)** Who among the following kings had given patronage to Tansen **before** Akbar?
 
@@ -258,11 +255,6 @@ D. Muzaffar Shah of Gujarat
 
 ### PYQ — Sanskrit music translation A/R
 
-**A/R logic (read before the stem):**
-
-- **What A tests:** Medieval courts translated **Sanskrit music treatises** into **Persian** (Firuz's Nagarkot collection, Akbar-era synthesis).
-- **What R tests:** Early **Chishti** sufis held **sama** (musical assemblies).
-- **UPPCS trap (2018 Q90):** **Sama is real**, but Persian translations had **broader court patronage** — sama alone did not cause all translations → both true, R **does not explain** A → **B**.
 
 **1. (UPPCS Prelims 2018, Q90)**
 
@@ -310,7 +302,6 @@ D. A false; R true
 
 ### PYQ — Music treatise match (2021 Q22 / 2022 Q108)
 
-**Exam logic:** Four-text match is high-ROI — mnemonic **P-S-S-V**: **P**undrik–Ragamala, **S**ri Kantha–Rasa Kaumudi, **S**omanath–Raga Vibodh, **V**enkatraman–Chaturdandi. Code **3-4-1-2**. **Trap:** In **2019 Q88 literary list**, Khusrau–Rag Vibodh; in **music treatise** questions, Raga Vibodh = **Somanath**.
 
 **1. (UPPCS Prelims 2021, Q22)** Match: A.Ragamala B.Rasa Kaumudi C.Raga Vibodh D.Chaturdandi Prakashika with 1.Somanath 2.Venkatraman 3.Pundrik Vitthal 4.Sri Kantha
 
@@ -1055,7 +1046,6 @@ D. Qawwali — Venkatamakhin
 
 ## Complete PYQ Bank (Topic 6)
 
-**A/R logic (read before the stem):** Sanskrit→Persian music translation is real; Chishti sama is real but does not fully explain all translations → **B**.
 
 **Q1. UPPCS Prelims 2018, Q90**
 
@@ -1104,7 +1094,6 @@ D. Muzaffar Shah of Gujarat
 
 </details>
 
-**Exam logic:** Literary-list match — Khusrau = Rag Vibodh (code 4); separate from music-treatise Somanath lock.
 
 **Q3. UPPCS Prelims 2019, Q88 (music-literature overlap)**
 
@@ -1122,7 +1111,6 @@ Options: A.1-3-2-4 | B.1-3-4-2 | C.2-4-1-3 | D.1-2-3-4
 
 </details>
 
-**Exam logic:** Music treatise match code **3-4-1-2** — P-S-S-V mnemonic.
 
 **Q4. UPPCS Prelims 2021, Q22**
 
@@ -1140,7 +1128,6 @@ Options: A.3-4-1-2 | B.4-2-1-3 | C.2-3-4-1 | D.1-2-3-4
 
 </details>
 
-**Exam logic:** Same four pairs as 2021 Q22 — answer **D (3-4-1-2)**.
 
 **Q5. UPPCS Prelims 2022, Q108**
 
@@ -1158,7 +1145,6 @@ Options: A.A-1 B-2 C-3 D-4 | B.A-2 B-4 C-3 D-1 | C.A-4 B-2 C-1 D-3 | D.A-3 B-4 C
 
 </details>
 
-**Exam logic:** Tappa = **Muhammad Shah Rangeela**, not Akbar.
 
 **Q6. UPPCS Prelims 2023, Q38**
 
@@ -1182,7 +1168,6 @@ D. Muhammad Shah
 
 </details>
 
-**Exam logic:** Khusrau guru = **Nizamuddin Auliya** (code 3 in full match).
 
 **Q7. UPPCS Prelims 2025, Q12 (overlap)**
 

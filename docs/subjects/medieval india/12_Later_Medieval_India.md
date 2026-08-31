@@ -104,24 +104,28 @@ Saadat Khan 1722 founder → Safdar Jung → Shuja-ud-Daula (Panipat III / Buxar
 
 ## 12.2 Portuguese
 
-- **Vasco da Gama** reached **Calicut** in **1498**.
-- He met the **Zamorin** there.
-- He did **not** take Goa.
-- **Afonso de Albuquerque** captured **Goa in 1510**.
-- Goa became the Portuguese capital in India.
-- **Cartaze** was a Portuguese pass-tax on Indian Ocean shipping.
-- **Shah Jahan** expelled the Portuguese from **Hooghly in 1632**.
-- They kept coastal forts.
-- They never ruled Delhi.
+**Phase:** First European sea power in India | **Focus:** Spice trade, coastal forts, cartaze tax
+
+- **Cause:** Portugal sought a **sea route to India** after Ottoman control blocked easy land access to Asian spices.
+- **Course:** **Vasco da Gama** reached **Calicut in 1498** and met the **Zamorin**. He did **not** capture Goa on that first voyage.
+- **Afonso de Albuquerque** captured **Goa in 1510** and made it the **capital of Portuguese India**.
+- Portugal built a chain of **coastal forts** at Goa, Daman, Diu, Cochin, and other points to control the Arabian Sea trade.
+- **Cartaze** was a **pass-fee** Portuguese ships imposed on Indian Ocean merchants — an exam lock for their commercial control.
+- **Result:** Portugal dominated the early 16th-century spice trade but remained a **coastal maritime power**, never ruling Delhi or the Gangetic plains.
+- **Shah Jahan expelled the Portuguese from Hooghly in 1632**, but they kept other strongholds until later decline.
 
 ---
 
 ## 12.3 Dutch (VOC)
 
-- The **VOC** was founded in **1602**, two years **after** the English charter.
-- **Pulicat** was the main Coromandel headquarters.
-- **Chinsurah** was the Bengal factory.
-- The Dutch broke Portuguese spice control, then lost ground to the English in India.
+**VOC chartered 1602** | Rival to Portuguese, later rival to English
+
+- The **Dutch East India Company (VOC)** was founded in **1602**, two years **after** the English East India Company charter.
+- The Dutch first broke **Portuguese spice monopolies** in the Indonesian archipelago, then expanded factory networks on the Indian coast.
+- **Pulicat** on the Coromandel coast was their main South Indian headquarters.
+- **Chinsurah (Hooghly)** served as their Bengal factory and later became a major Anglo-Dutch flashpoint.
+- Dutch power in India peaked in the **17th century** but they were outcompeted by the English after **Carnatic wars** and naval decline.
+- They never became a land empire in north India; their Indian role was **trade and coastal factories**.
 
 ---
 
@@ -161,29 +165,42 @@ Saadat Khan 1722 founder → Safdar Jung → Shuja-ud-Daula (Panipat III / Buxar
 
 ### PYQ — Aix-la-Chapelle 1748 (2020 Q18 / 2025 Q67)
 
-**A/R logic (read before the stem):**
+**1.** Consider the **Treaty of Aix-la-Chapelle (1748)**:
 
-- **What the stem tests:** **Treaty of Aix-la-Chapelle (1748)** ended the **First Carnatic War** and **returned Madras** to the English.
-- **UPPCS trap:** Both statements are **true** — not Paris 1763.
+1. The **First Carnatic War** ended.
+2. **Madras** was returned to the English.
 
-- **2025 Q67** and **2020 Q18** both key to **C**.
-- Both statements are true.
-- **Second Carnatic War (1749–54)** is the usual meaning of “Second Anglo-French War” in Indian lists.
-- **2025 Q26** keys to **A (2-1-4-3)**.
-- That order is Second Anglo-French, then First Anglo-Mysore, then First Anglo-Afghan, then First Anglo-Sikh.
-- **Wandiwash 1760** and **Paris 1763** ended French political hopes.
-- **Paris 1763** is not the same treaty as **Aix-la-Chapelle 1748**.
+A. Only 1 |
+
+B. Neither |
+
+C. Both |
+
+D. Only 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (Both)**
+
+**Statement 1 is true:** The **First Carnatic War** ended in **1748**.
+
+**Statement 2 is true:** **Madras** was restored to the English under the treaty.
+
+**Trap:** Do not confuse **Aix-la-Chapelle (1748)** with **Paris (1763)**.
+
+</details>
 
 ---
 
-## 12.6 Danish
+**Chartered 1616** | Small Scandinavian presence | Sold to British **1845**
 
-- The Danish company was chartered in **1616**.
-- **Tranquebar (Tharangambadi, 1620)** is the Coromandel lock. **Fort Dansborg** stands there.
-- **Serampore** in Bengal was Danish, then a mission press centre, later British.
-- Settlements were sold to the British in **1845**.
-- **Serampore** is not French.
-- **Tranquebar** is not Dutch.
+- The Danish East India Company received its charter in **1616**, entering India later than the Portuguese, English, and Dutch.
+- **Tranquebar (Tharangambadi, 1620)** on the Coromandel coast is the standard exam lock — **Fort Dansborg** still stands there.
+- **Serampore** in Bengal became a Danish factory and later a famous **mission press** centre before British takeover.
+- Danish settlements were commercially minor compared with the English and French but matter for **factory-location** match questions.
+- In **1845** Denmark sold its Indian possessions to the British.
+- **Trap:** **Serampore** is Danish, not French. **Tranquebar** is Danish, not Dutch.
 
 ---
 
@@ -197,7 +214,6 @@ Saadat Khan 1722 founder → Safdar Jung → Shuja-ud-Daula (Panipat III / Buxar
 
 ### PYQ — Traveller chronology (2021 Q75)
 
-**Exam logic:** English traveller **arrival order** — **Fitch (1585)** → **Hawkins (1608)** → **Downton (1614)** → **Roe (1615)**. **Trap:** Roe was ambassador, not the earliest arrival.
 
 - **2021 Q75** keys to **A (II, I, IV, III)**.
 - The arrival order is Fitch, then Hawkins, then Downton, then Roe.
@@ -220,7 +236,6 @@ Saadat Khan 1722 founder → Safdar Jung → Shuja-ud-Daula (Panipat III / Buxar
 - The **Bara Imambara** is his Lucknow monument.
 - **Wajid Ali Shah** was the last Nawab.
 - The British annexed Awadh in **1856**.
-- **2025 Q127** keys to **A (1-3-4-2)**.
 - The chronology is Awadh annexation **1856**, then Indigo Revolt **1859**, then Second Anglo-Afghan War **1878–80**, then Ilbert Bill **1883**.
 - Annexation fed the **1857** Lucknow rising.
 - **Begum Hazrat Mahal** led resistance after the Nawab was removed.
@@ -269,7 +284,6 @@ D. III-II-IV-I
 **Ans: A**
 
 **Why:** The correct lock is **II-I-IV-III**.
-
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -335,7 +349,6 @@ D. 1-3-2-4
 **Why:** The correct lock is **1-3-4-2**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -377,7 +390,6 @@ D. Hawkins
 **Why:** The correct lock is **Albuquerque**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -397,7 +409,6 @@ D. Pondicherry 1674
 **Ans: B**
 
 **Why:** The correct lock is **Surat 1612**.
-
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -427,7 +438,6 @@ D. Danish
 **Why:** Matches the core teaching lock for this topic.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>**.
@@ -451,7 +461,6 @@ D. Portuguese
 **Why:** The correct lock is **French**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -471,7 +480,6 @@ D. Dupleix
 **Ans: B**
 
 **Why:** The correct lock is **Saadat Khan**.
-
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -495,7 +503,6 @@ D. Awadh land grant
 **Why:** The correct lock is **Portuguese sea-pass**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -515,7 +522,6 @@ D. 1664
 **Ans: B**
 
 **Why:** The correct lock is **1600**.
-
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -539,7 +545,6 @@ D. 1664
 **Why:** The correct lock is **1602**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -559,7 +564,6 @@ D. Founder of Awadh
 **Ans: B**
 
 **Why:** The correct lock is **French physician at Aurangzeb’s court**.
-
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -583,7 +587,6 @@ D. Aurangzeb vs Danes
 **Why:** The correct lock is **Shah Jahan vs Portuguese**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -605,7 +608,6 @@ D. Calcutta
 **Why:** The correct lock is **Madras**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -625,7 +627,6 @@ D. 1748
 **Ans: C**
 
 **Why:** The correct lock is **1668**.
-
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -669,7 +670,6 @@ D. Clive
 **Why:** The correct lock is **Asaf-ud-Daula**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -689,7 +689,6 @@ D. Saadat Khan
 **Ans: C**
 
 **Why:** The correct lock is **Wajid Ali Shah**.
-
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -713,7 +712,6 @@ D. Only for Goa
 **Why:** The correct lock is **False**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -735,7 +733,6 @@ D. Danish
 **Why:** The correct lock is **Dutch**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -755,7 +752,6 @@ D. Awadh capital
 **Ans: B**
 
 **Why:** The correct lock is **French Bengal**.
-
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -799,7 +795,6 @@ D. Founded Goa
 **Why:** The correct lock is **Allied with Abdali**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -825,7 +820,6 @@ D. 1664
 **Ans: D**
 
 **Why:** Matches the core teaching lock for this topic.
-
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -871,7 +865,6 @@ D. 1748
 **Why:** The correct lock is **1856**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -893,7 +886,6 @@ D. Dupleix
 **Why:** The correct lock is **Vasco da Gama**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -913,7 +905,6 @@ D. Mughal capital
 **Ans: B**
 
 **Why:** The correct lock is **Danish**.
-
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -957,7 +948,6 @@ D. Saadat Khan
 **Why:** The correct lock is **Jahangir**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -979,7 +969,6 @@ D. VOC Pulicat
 **Why:** The correct lock is **Awadh after Buxar**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -999,7 +988,6 @@ D. Dutch Pulicat admiral
 **Ans: B**
 
 **Why:** The correct lock is **French Carnatic governor**.
-
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -1043,7 +1031,6 @@ D. Awadh imambara
 **Why:** The correct lock is **Trading post**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1085,7 +1072,6 @@ D. True only for Fitch
 **Why:** The correct lock is **False**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1094,7 +1080,6 @@ D. True only for Fitch
 
 ## Complete PYQ Bank (Topic 12)
 
-**Exam logic:** English traveller **arrival order** — Fitch earliest, then Hawkins, Downton, Roe. **Trap:** putting Roe (1615) before Hawkins (1608).
 
 **Q1. UPPCS Prelims 2021, Q75**
 
@@ -1118,7 +1103,6 @@ D. III, II, IV and I
 
 </details>
 
-**Exam logic:** **Hawkins** multi-statement — arrival year **1608**, not **1611**; Turkish fluency is true. **Trap:** 1611 is when his stay was ending (2023 Q31).
 
 **Q2. UPPCS Prelims 2023, Q31**
 
@@ -1142,7 +1126,6 @@ D. Neither 1 nor 2
 
 </details>
 
-**Exam logic:** **Aix-la-Chapelle (1748)** — both statements true: First Carnatic War ended **and** Madras returned to English. **Trap:** confusing with **Paris 1763**.
 
 **Q3. UPPCS Prelims 2020, Q18**
 
@@ -1166,7 +1149,6 @@ D. Neither 1 nor 2
 
 </details>
 
-**Exam logic:** Same **1748** Aix-la-Chapelle pair as 2020 Q18. **Trap:** option letter order differs across papers — both key **Both true**.
 
 **Q4. UPPCS Prelims 2025, Q67**
 
@@ -1190,7 +1172,6 @@ D. Only 1
 
 </details>
 
-**Exam logic:** Anglo-war chronology — Second Anglo-French (Carnatic) before Mysore, Afghan, Sikh wars. **Trap:** placing Anglo-Sikh before Anglo-Afghan.
 
 **Q5. UPPCS Prelims 2025, Q26**
 
@@ -1214,7 +1195,6 @@ D. 2, 1, 3, 4
 
 </details>
 
-**Exam logic:** Modern chronology with **Awadh annexation 1856** first — before Indigo **1859**, 2nd Afghan **1878–80**, Ilbert **1883**. **Trap:** placing Indigo before Awadh annexation.
 
 **Q6. UPPCS Prelims 2025, Q127**
 

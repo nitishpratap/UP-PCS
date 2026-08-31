@@ -104,7 +104,6 @@ PYQ LOCKS
 
 ### PYQ — Sharqi monuments
 
-**Exam logic:** Monument–place **NOT matched** stem. UPPCS loves **Tin Darwaza** vs **Teen Darwaza** (Bidar Fort vs Ahmedabad). **Lal Darwaza–Jaunpur** is a **correct** Sharqi pair — do not mark it wrong. Eliminate A–C first; D swaps Bidar gate with Gujarat.
 
 **1. (UPPCS Prelims 2018, Q19)** Which of the following pairs is **NOT** correctly matched (Monument–Place)?
 
@@ -127,7 +126,6 @@ D. Tin Darwaza–Ahmedabad
 
 </details>
 
-**Exam logic:** **Chronology** stem mixing Sharqi (medieval regional) with Mughal tombs. **Atala Mosque Jaunpur** is **15th-century Sharqi** — earliest in the list. Lock **Sher Shah (1545)** before **Humayun (1565)**; **Rabia Daurani (1678)** is latest.
 
 **2. (UPPCS Prelims 2019, Q91)** Arrange the following in chronological order:
 
@@ -200,11 +198,35 @@ D. IV, III, I, II
 
 ### PYQ — Zain-ul-Abidin A/R
 
-**A/R logic:** **A** tests **Bud Shah** = honorific for **Zain-ul-Abidin** (Great Sultan). **R** tests he **reversed Sikandar Shah's intolerance** — abolished **jaziya**, banned **cow slaughter**, **restored temples**. UPPCS trap: tolerant policies are **why** contemporaries called him Bud Shah → both true, R **explains** A → **A**.
+**1.** Assertion (A): **Zain-ul-Abidin** was called **Bud Shah** (Great Sultan).
+
+Reason (R): He reversed **Sikandar Shah's** intolerant policies, abolished **jaziya**, and restored temples.
+
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (Both true, R explains A)**
+
+**A is true:** **Zain-ul-Abidin** was called **Bud Shah** (Great Sultan).
+
+**R is true:** He **reversed Sikandar Shah's** intolerant policies — abolished **jaziya**, banned **cow slaughter**, and **restored temples**.
+
+**Why R explains A:** Tolerant rule earned the **Bud Shah** title.
+
+**Trap:** **Sikandar Shah** was the **intolerant** predecessor — R describes the **reversal** that justified the honorific.
+
+</details>
 
 ### PYQ — Kashmir
 
-**Exam logic:** Direct **ruler–policy** lock. **Sikandar Shah** = temple destruction + jaziya phase; **Zain-ul-Abidin (Bud Shah)** = reversal. UPPCS 2023 Q36 pairs **both** jaziya **and** cow slaughter — only Zain-ul-Abidin fits.
 
 **1. (UPPCS Prelims 2023, Q36)** Which ruler of Kashmir abolished **Jaziya** and **cow slaughter**?
 
@@ -314,7 +336,6 @@ D. Haider Shah
 
 ### PYQs — Deccan Sultanates
 
-**Exam logic:** **Book–author** match. **Kitab-i-Nauras** = **Ibrahim Adil Shah II** of **Bijapur** (music/song collection). Trap: confuse with **Amuktamalyada** (Krishnadevaraya) or **Krishnadevaraya** himself as author.
 
 **1. (UPPCS Prelims 2020, Q44)** Who among the following was the author of the book **Kitab-i-Nauras**?
 
@@ -337,7 +358,6 @@ D. Akbar II
 
 </details>
 
-**Exam logic:** **Last ruler** at a fixed Mughal annexation date. **1687** = Aurangzeb captures **Golkonda**; last **Qutb Shahi** = **Abul Hasan Qutb Shah** ("Tana Shah"). Trap: pick earlier Qutb Shahs (Muhammad Quli, Ibrahim) or Adil Shahi names.
 
 **2. (UPPCS Prelims 2020, Q34)** Who was the ruler of Golkonda when Aurangzeb seized the fort of Golkonda in **1687**?
 
@@ -397,7 +417,32 @@ D. Shayasta Khan
 
 ### PYQ — Talikota A/R
 
-**A/R logic:** **A** tests Talikota **1565** ended Vijayanagara as a **great power** (empire survived in name until **1646** under Aravidu). **R** tests **Rama Raya** was **beheaded** and **Hampi** was **sacked and abandoned** for months. UPPCS trap: R states the **mechanism** of collapse → both true, R **explains** A → **A**.
+**1.** Assertion (A): The **Battle of Talikota (1565)** ended Vijayanagara as a **great power**.
+
+Reason (R): **Rama Raya** was **beheaded** on the battlefield and **Hampi** was sacked and abandoned.
+
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (Both true, R explains A)**
+
+**A is true:** Talikota **1565** ended Vijayanagara as a **great power**.
+
+**R is true:** **Rama Raya** was **beheaded** and **Hampi** was **sacked**.
+
+**Why R explains A:** The regent's death and capital looting **caused** the collapse of imperial power.
+
+**Trap:** The empire survived in name under **Aravidu** until **1646** — A says "great power" ended, not every trace of the state.
+
+</details>
 
 ---
 
@@ -424,11 +469,35 @@ D. Shayasta Khan
 
 ### PYQ — Mahmud Gawan A/R
 
-**A/R logic:** **A** tests **Mahmud Gawan** as **wazir** strengthened Bahmani administration (not the founder — **Hasan Gangu** was). **R** tests his reforms included **land measurement**, **strict revenue accounting**, **cash salaries**, and **merit appointments**. UPPCS trap: administrative reforms are **how** he strengthened the state → both true, R **explains** A → **A**.
+**1.** Assertion (A): **Mahmud Gawan** strengthened Bahmani administration as **wazir**.
+
+Reason (R): His reforms included **land measurement**, **strict revenue accounting**, **cash salaries**, and **merit appointments**.
+
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (Both true, R explains A)**
+
+**A is true:** **Mahmud Gawan** strengthened Bahmani administration as **wazir**.
+
+**R is true:** He introduced **land surveys** and **strict revenue accounting**.
+
+**Why R explains A:** Fiscal and land reforms **were the means** of administrative strengthening.
+
+**Trap:** **Hasan Gangu** founded Bahmani — Gawan was **wazir**, not founder, but A correctly credits his administrative role.
+
+</details>
 
 ### PYQ — Books match
 
-**Exam logic:** **Book–context** match across Bahmani successor states. Classic trap: **Riyaz-us-Salatin** = **Bengal** history vs **Riyaz-ul-Insha** = **Gawan's letters**. **Burhan-e-Masir** = **Ahmadnagar**; **Mirat-e-Sikandari** = **Gujarat victory** narrative.
 
 **1. (UPPCS Prelims 2023, Q33)** Match List-I (Book) with List-II (Context):
 
@@ -907,28 +976,6 @@ D. Mughal victory
 
 </details>
 
-A. Both true, R explains A |
-
-B. Both true, R not explanation |
-
-C. A true, R false |
-
-D. A false, R true
-
-<details><summary>Show answer</summary>
-
-**Ans: A (Both true, R explains A)**
-
-**A is true:** Talikota **1565** ended Vijayanagara as a **great power**.
-
-**R is true:** **Rama Raya** was **beheaded** and **Hampi** was **sacked**.
-
-**Why R explains A:** Regent's death and capital looting **caused** the collapse of imperial power.
-
-**Trap:** Empire survived in name under **Aravidu** until **1646** — A says "great power" ended, not every trace of the state.
-
-</details>
-
 A. Ibrahim Adil Shah II |
 
 B. Krishnadevaraya |
@@ -1058,28 +1105,6 @@ D. Charminar
 **Why:** **Atala Masjid** at **Jaunpur** is in **eastern UP** — the only Topic-3 capital inside modern Uttar Pradesh.
 
 **Trap:** **Gol Gumbaz** (Bijapur), **Vitthala** (Hampi), and **Charminar** (Hyderabad) are all outside UP.
-
-</details>
-
-A. Both true, R explains A |
-
-B. Both true, R not explanation |
-
-C. A true, R false |
-
-D. A false, R true
-
-<details><summary>Show answer</summary>
-
-**Ans: A (Both true, R explains A)**
-
-**A is true:** **Zain-ul-Abidin** was called **Bud Shah** (Great Sultan).
-
-**R is true:** He **reversed Sikandar Shah's** intolerant policies — abolished **jaziya**, restored temples.
-
-**Why R explains A:** Tolerant rule earned the **Bud Shah** title.
-
-**Trap:** **Sikandar Shah** was the **intolerant** predecessor — R describes the **reversal** that justified the honorific.
 
 </details>
 
@@ -1246,28 +1271,6 @@ D. Kashmir Bud Shah coronation
 
 </details>
 
-A. Both true, R explains A |
-
-B. Both true, R not explanation |
-
-C. A true, R false |
-
-D. A false, R true
-
-<details><summary>Show answer</summary>
-
-**Ans: A (Both true, R explains A)**
-
-**A is true:** **Mahmud Gawan** strengthened Bahmani administration as **wazir**.
-
-**R is true:** He introduced **land surveys** and **strict revenue accounting**.
-
-**Why R explains A:** Fiscal and land reforms **were the means** of administrative strengthening.
-
-**Trap:** **Hasan Gangu** founded Bahmani — Gawan was **wazir**, not founder, but A correctly credits his administrative role.
-
-</details>
-
 A. Amir Khusrau |
 
 B. Malik Muhammad Jaisi |
@@ -1338,7 +1341,6 @@ Options: A.2-1-3 | B.1-2-3 | C.2-3-1 | D.3-2-1
 
 </details>
 
-**Exam logic:** Monument–place **NOT matched**. UP angle: **Lal Darwaza–Jaunpur** is **correct** — only **Tin Darwaza–Ahmedabad** is wrong (gate is at **Bidar Fort**).
 
 **Q1. UPPCS Prelims 2018, Q19**
 
@@ -1362,7 +1364,6 @@ D. Tin Darwaza – Ahmedabad
 
 </details>
 
-**Exam logic:** **Chronology** across Sharqi + Mughal tombs. Lock **Atala (15th c.)** earliest; **Rabia Daurani (1678)** latest.
 
 **Q2. UPPCS Prelims 2019, Q91**
 
@@ -1386,7 +1387,6 @@ D. III, IV, II, I
 
 </details>
 
-**Exam logic:** **Last Qutb Shahi** at Mughal annexation **1687**. Trap: earlier Qutb Shahs who built Hyderabad/Charminar.
 
 **Q3. UPPCS Prelims 2020, Q34**
 
@@ -1410,7 +1410,6 @@ D. Shayasta Khan
 
 </details>
 
-**Exam logic:** **Kitab-i-Nauras** author = **Ibrahim Adil Shah II (Bijapur)**. Trap: swap with **Krishnadevaraya** / **Amuktamalyada**.
 
 **Q4. UPPCS Prelims 2020, Q44**
 
@@ -1434,7 +1433,6 @@ D. Akbar II
 
 </details>
 
-**Exam logic:** Four-book match; **Riyaz-us-Salatin (Bengal)** vs **Riyaz-ul-Insha (Gawan's letters)** is the headline trap.
 
 **Q5. UPPCS Prelims 2023, Q33**
 
@@ -1467,7 +1465,6 @@ D. 4-2-3-1
 
 </details>
 
-**Exam logic:** Kashmir tolerant ruler — **both** jaziya **and** cow slaughter abolished only under **Zain-ul-Abidin (Bud Shah)**.
 
 **Q6. UPPCS Prelims 2023, Q36**
 

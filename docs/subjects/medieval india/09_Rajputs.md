@@ -109,7 +109,6 @@ Malik Sarwar = Jaunpur, not Malwa | Rao Jodha founded Jodhpur 1459
 
 ### PYQ — Ruler–state NOT matched (2021 Q118)
 
-**Exam logic:** Ruler–state match — tests **Rana Chunda (Mewar)** vs **Rao Chunda (Marwar)**. **Trap:** **Rana** title with Marwar is the keyed NOT-matched pair.
 
 - **Rana Hammir** restored Mewar. On **2021 Q118**, pair A is correct.
 - **Rana Chunda** is a **Mewar** Sisodia.
@@ -137,18 +136,11 @@ Malik Sarwar = Jaunpur, not Malwa | Rao Jodha founded Jodhpur 1459
 
 **Rana Sangram Singh** | Mewar | Premier Rajput before Babur
 
-- Sanga fought Malwa, Gujarat, and Marwar before facing Babur.
-- Tradition credits him with **80 wounds**, a lost eye, and a lost arm.
-- After **Panipat 1526** he built a Rajput confederacy.
-- **Mahmud Lodi** joined that front.
-- **Khanwa, 16 March 1527**, was fought near the Fatehpur Sikri–Bharatpur belt.
-- Babur’s **Araba** wagons and **Tulughma** flanking broke the Rajput charge.
-- Sanga died **~1528**.
-- No second all-Rajput confederacy faced Babur.
-- Some accounts say Rajputs had earlier anti-Lodi contact with Babur.
-- That contact was **not** a lasting alliance.
+- **Cause:** After **Panipat I (1526)**, **Rana Sanga** of Mewar built a **Rajput confederacy** to stop Babur before the Mughal foothold hardened. **Mahmud Lodi** joined the anti-Babur front as a Lodi claimant.
+- **Course:** On **16 March 1527** near **Khanwa** (Fatehpur Sikri–Bharatpur belt), Sanga's Rajput coalition charged Babur's smaller army. Babur used chained **Araba** wagons and **Tulughma** flanking cavalry to break the charge. Tradition credits Sanga with **80 wounds**, a lost eye, and a lost arm from earlier wars.
+- **Result:** Babur won decisively. Sanga died **~1528**. No second all-Rajput confederacy faced Babur. Babur still fought at **Ghagra (1529)** before his death.
 
-> **Exam note:** Khanwa = **Sanga 1527**. Never pair Pratap with Khanwa.
+> **Exam note:** Khanwa = **Sanga 1527**. Never pair **Pratap** with Khanwa.
 
 ---
 
@@ -174,17 +166,9 @@ Malik Sarwar = Jaunpur, not Malwa | Rao Jodha founded Jodhpur 1459
 
 **18 June 1576** | Pass near **Gogunda** | Pratap vs **Man Singh**
 
-- The pass is a narrow **Aravalli** gap with turmeric-coloured soil.
-- **Pratap** faced the imperial army under **Raja Man Singh** of Amber.
-- **Akbar was not** in the pass. **Asaf Khan** was in the Mughal camp.
-- **Punja Bhil** brought Bhil support.
-- **Hakim Khan Sur** was Pratap’s Afghan ally.
-- The clash was fierce cavalry fighting.
-- Pratap was not captured and withdrew to the hills.
-- The battle was **tactically indecisive**.
-- The Mughals held a **strategic edge** on the plains.
-- The fight was **Rajput vs Rajput**.
-- A Kachhwaha general served the empire against a Sisodia holdout.
+- **Cause:** After **Chittor 1567–68**, **Maharana Pratap** refused Akbar's mansab and held out from **Kumbhalgarh** and **Gogunda**. Akbar sent **Raja Man Singh** of Amber to force Mewar submission.
+- **Course:** The battle was fought in a narrow **Aravalli** pass with turmeric-coloured soil. **Pratap** charged **Man Singh's** imperial wing with **Chetak**. **Punja Bhil** brought Bhil support. **Hakim Khan Sur** was Pratap's Afghan ally. **Akbar was not** in the pass; **Asaf Khan** was in the Mughal camp. The clash was fierce cavalry fighting — **Rajput vs Rajput**, with a Kachhwaha general serving the empire against a Sisodia holdout.
+- **Result:** Pratap was **not captured** and withdrew to the hills. The battle was **tactically indecisive**, but the Mughals held the **strategic edge** on the plains. Pratap later fought a **guerrilla** war and recovered parts of Mewar before dying in **1597**. His son **Amar Singh** made peace with **Jahangir in 1615**.
 
 ---
 
@@ -192,7 +176,6 @@ Malik Sarwar = Jaunpur, not Malwa | Rao Jodha founded Jodhpur 1459
 
 ### PYQs — Alauddin conquest chronology
 
-**Exam logic:** **Alauddin** conquest order — Gujarat/Jaisalmer first wave, then Ranthambore, Chittor, Warangal last. **Trap:** **Warangal** always comes **after Chittor** in UPPCS lists (2022 Q59, 2025 Q30).
 
 - In **1303**, Alauddin took Chittor from **Ratan Singh**.
 - The **Padmini jauhar** is the lore attached to that sack.
@@ -333,7 +316,6 @@ D. Hammir vs Alauddin
 **Why:** The correct lock is **Sanga vs Babur**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -353,7 +335,6 @@ D. Bairam Khan
 **Ans: B**
 
 **Why:** The correct lock is **Raja Man Singh**.
-
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -397,7 +378,6 @@ D. Bikaner
 **Why:** The correct lock is **Udaipur**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -417,7 +397,6 @@ D. Aurangzeb 1679
 **Ans: C**
 
 **Why:** The correct lock is **Jahangir 1615**.
-
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -441,7 +420,6 @@ D. GT Road inn
 **Why:** The correct lock is **Women’s mass self-immolation at fort fall**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -461,7 +439,6 @@ D. Jaisalmer
 **Ans: C**
 
 **Why:** The correct lock is **Amber**.
-
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -485,7 +462,6 @@ D. Man Singh
 **Why:** The correct lock is **Rana Kumbha**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -505,7 +481,6 @@ D. Marwar rao
 **Ans: B**
 
 **Why:** The correct lock is **Afghan ally of Pratap**.
-
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -529,7 +504,6 @@ D. 1615
 **Why:** The correct lock is **1567–68**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -549,7 +523,6 @@ D. Khandesh
 **Ans: B**
 
 **Why:** The correct lock is **Mewar**.
-
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -633,7 +606,6 @@ D. 1615
 **Why:** The correct lock is **1597**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -655,7 +627,6 @@ D. Ganga at Kannauj
 **Why:** The correct lock is **Narrow Aravalli pass**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -675,7 +646,6 @@ D. Golkonda
 **Ans: B**
 
 **Why:** The correct lock is **Jaunpur Sharqi**.
-
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -719,7 +689,6 @@ D. Chishti pir
 **Why:** The correct lock is **Marwar Rathore**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -739,7 +708,6 @@ D. Token currency
 **Ans: B**
 
 **Why:** The correct lock is **Tulughma and Araba**.
-
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -763,7 +731,6 @@ D. Ruled Amber
 **Why:** The correct lock is **Fought for Pratap**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -783,7 +750,6 @@ D. Alauddin’s governor
 **Ans: A**
 
 **Why:** The correct lock is **Pratap’s father; founded Udaipur**.
-
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -847,7 +813,6 @@ D. Jahangir’s Kangra
 **Why:** The correct lock is **After Chittor (Kafur Deccan)**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -869,7 +834,6 @@ D. Mughal canal
 **Why:** The correct lock is **Pratap’s horse in Haldighati lore**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -889,7 +853,6 @@ D. Copper dam
 **Ans: B**
 
 **Why:** The correct lock is **Warriors’ last charge after jauhar**.
-
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -929,7 +892,6 @@ D. Faruqi
 **Ans: B**
 
 **Why:** The correct lock is **Rathore branch**.
-
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -991,7 +953,6 @@ D. Man Singh’s Amber gate
 **Why:** The correct lock is **The older Jain tower**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1013,7 +974,6 @@ D. Founding Udaipur
 **Why:** The correct lock is **Founding Jodhpur**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1022,7 +982,6 @@ D. Founding Udaipur
 
 ## Complete PYQ Bank (Topic 9)
 
-**Exam logic:** Ruler–state NOT-matched — tests **Rana Chunda (Mewar)** vs **Rao Chunda (Marwar)** title trap. **Trap:** pairing **Rana** with Marwar when Marwar uses **Rao**.
 
 **Q1. UPPCS Prelims 2021, Q118**
 
@@ -1047,7 +1006,6 @@ D. Malik Sarwar – Malwa Khwaja Jahan
 
 </details>
 
-**Exam logic:** **Alauddin** conquest chronology with **Gujarat** in the list — order is Gujarat → Ranthambore → Chittor → Warangal. **Trap:** placing **Warangal** before Chittor.
 
 **Q2. UPPCS Prelims 2022, Q59**
 
@@ -1065,7 +1023,6 @@ Options: A.1-3-2-4 | B.3-4-1-2 | C.2-1-4-3 | D.4-2-3-1
 
 </details>
 
-**Exam logic:** Same **2-1-4-3** sequence but list starts with **Jaisalmer** — **2025 Q30** changes first item, not the middle order. **Trap:** copying **2022's option letter** onto **2025** (both use 2-1-4-3 but different letters).
 
 **Q3. UPPCS Prelims 2025, Q30**
 
@@ -1083,7 +1040,6 @@ Options: A.1-2-3-4 | B.2-1-4-3 | C.2-1-3-4 | D.1-2-4-3
 
 </details>
 
-**Exam logic:** **Jayata–Kumpa** = **Marwar** under **Rao Maldeo** at Sammel (1544). **Trap:** **Mewar** distractor.
 
 **Q4. UPPCS Prelims 2022, Q95**
 
@@ -1107,7 +1063,6 @@ D. Mewar
 
 </details>
 
-**Exam logic:** **Tansen** patron before Akbar — tests **Raja Ramchandra of Bhata**, not **Udai Singh of Mewar**. **Trap:** Mewar option is deliberate distractor.
 
 **Q5. UPPCS Prelims 2019, Q89**
 

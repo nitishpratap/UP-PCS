@@ -115,11 +115,6 @@ Jizya reimposed 1679 | Later: Muhammad Shah Rangeela (Tappa — Topic 6)
 
 ### PYQ — Baburnama language A/R
 
-**A/R logic (read before the stem):**
-
-- **What A tests:** **Baburnama / Tuzk-e-Babri** was written in **Chagatai Turki** (Babur's memoir language).
-- **What R tests:** **Turki** was the **Mughal court language**.
-- **UPPCS trap (2025 Q3):** Court language was **Persian**, not Turki → A **true**, R **false** → **C**.
 
 **1. (UPPCS Prelims 2025, Q3)**
 
@@ -175,7 +170,6 @@ D. Both true, R explains A
 
 ### PYQ — Battle chronology (2025 Q79 / 2019 Q13 / 2022 Q103)
 
-**Exam logic:** Mixed battle lists trap **Daurah (1532)** vs **Dharmat (1658)**. Lock **years first**, then codes. **Trap:** Daurah = Humayun 1532; Dharmat = Aurangzeb 1658 — never swap.
 
 **1. (UPPCS Prelims 2025, Q79)** Arrange: 1.Kannauj 2.Daurah 3.Samugarh 4.Chausa
 
@@ -222,11 +216,6 @@ Options: A.2-4-3-1 | B.4-2-1-3 | C.4-2-3-1 | D.2-4-1-3
 
 ### PYQ — Military state A/R
 
-**A/R logic (read before the stem):**
-
-- **What A tests:** Early Mughal power grew from **conquest armies** (Panipat, Khanwa) — a **military state** at origin.
-- **What R tests:** Central administration's **vitality depended on military power** (mansabdars, jagirs tied to troops).
-- **UPPCS trap (2021 Q126):** Army strength **sustained** the centre → both true, R **explains** A → **A**.
 
 **1. (UPPCS Prelims 2021, Q126)**
 
@@ -291,11 +280,6 @@ D. A false, R true
 
 ### PYQ — Akbar currency A/R
 
-**A/R logic (read before the stem):**
-
-- **What A tests:** **Akbar**, like **Sher Shah**, **regulated currency** (rupiya, dam, mohur system).
-- **What R tests:** Chief **copper coin** was the **Dam** (as under Sher Shah).
-- **UPPCS trap (2019 Q12):** Dam continuity **explains how** Akbar followed Sher Shah's regulation → both true, R **explains** A → **A**.
 
 **1. (UPPCS Prelims 2019, Q12)**
 
@@ -358,11 +342,6 @@ D. A false, R true
 
 ### PYQ — Buland Darwaza A/R
 
-**A/R logic (read before the stem):**
-
-- **What A tests:** **Buland Darwaza** at **Fatehpur Sikri** was built by **Akbar**.
-- **What R tests:** It was built **in memory of Jahangir's birth**.
-- **UPPCS trap (2025 Q49):** It commemorated **Gujarat victory (1572)**, not Jahangir's birth → A **true**, R **false** → **C**.
 
 **1. (UPPCS Prelims 2025, Q49)**
 
@@ -483,7 +462,6 @@ D. Both true, R explains A
 
 ### PYQ — Emperor tomb match (2025 Q57)
 
-**Exam logic:** Four-emperor tomb match — mnemonic **B-H-J-S**: **B**abur–**K**abul, **H**umayun–**D**elhi, **J**ahangir–**L**ahore, **S**hah Jahan–**A**gra. Code **4-3-2-1**. **Trap:** Akbar's tomb is **Sikandra** (outside this four-option list).
 
 **1. (UPPCS Prelims 2025, Q57)** Match emperor–tomb city: A.Babur B.Humayun C.Jahangir D.Shah Jahan with 1.Agra 2.Lahore 3.Delhi 4.Kabul
 
@@ -1522,7 +1500,6 @@ D. 1679
 
 ## Complete PYQ Bank (Topic 7)
 
-**A/R logic (read before the stem):** Baburnama = Turki; court = Persian → C.
 
 **Q1. UPPCS Prelims 2025, Q3**
 
@@ -1568,7 +1545,6 @@ D. Both true, R explains A
 
 </details>
 
-**Exam logic:** Tomb match code **4-3-2-1** — Babur–Kabul, Humayun–Delhi, Jahangir–Lahore, Shah Jahan–Agra.
 
 **Q3. UPPCS Prelims 2025, Q57**
 
@@ -1586,7 +1562,6 @@ Options: A.4-3-2-1 | B.3-4-1-2 | C.3-4-2-1 | D.4-3-1-2
 
 </details>
 
-**Exam logic:** Daurah (1532) before Chausa/Kannauj; Samugarh (1658) last — not Dharmat.
 
 **Q4. UPPCS Prelims 2025, Q79**
 
@@ -1604,7 +1579,6 @@ Options: A.2-4-3-1 | B.4-2-1-3 | C.4-2-3-1 | D.2-4-1-3
 
 </details>
 
-**Exam logic:** Khan-i-Khana title from **Humayun**, not Akbar — statement 1 false, 2 true.
 
 **Q5. UPPCS Prelims 2024, Q4**
 
@@ -1628,7 +1602,6 @@ D. Only 2
 
 </details>
 
-**Exam logic:** Death years: Faizi 1595 → Mubarak 1597 → Abul Fazl 1602 → Daniyal 1604.
 
 **Q6. UPPCS Prelims 2024, Q132**
 
@@ -1646,7 +1619,6 @@ Options: A.2-1-4-3 | B.3-2-1-4 | C.2-3-1-4 | D.2-4-3-1
 
 </details>
 
-**Exam logic:** Hawkins arrived **1608**, not 1611; Turkish fluency is true.
 
 **Q7. UPPCS Prelims 2023, Q31**
 
@@ -1684,7 +1656,6 @@ NOT matched: C. Hamida Banu Begum — Wife of Alauddin Khilji (she was Humayun�
 
 </details>
 
-**Exam logic:** Aurangzeb succession order — Shuja beaten → Dharmat → Samugarh → Deorai.
 
 **Q9. UPPCS Prelims 2022, Q103**
 
@@ -1702,7 +1673,6 @@ Options: A.2-4-3-1 | B.1-3-4-2 | C.3-4-2-1 | D.4-2-1-3
 
 </details>
 
-**Exam logic:** Kavindra Acharya Saraswati of Banaras = **Shah Jahan** patronage.
 
 **Q10. UPPCS Prelims 2022, Q146**
 
@@ -1726,7 +1696,6 @@ D. Humayun
 
 </details>
 
-**Exam logic:** Traveller arrival order — Fitch → Hawkins → Downton → Roe.
 
 **Q11. UPPCS Prelims 2021, Q75**
 
@@ -1750,7 +1719,6 @@ D. III-II-IV-I
 
 </details>
 
-**Exam logic:** Golkonda 1687 last ruler = **Abul Hasan Qutb Shah**.
 
 **Q12. UPPCS Prelims 2020, Q34**
 
@@ -1774,7 +1742,6 @@ D. Shayasta Khan
 
 </details>
 
-**Exam logic:** Nahr-i-Bihisht drew water from restored **Firuz Rajabwah**.
 
 **Q13. UPPCS Prelims 2020, Q42**
 
@@ -1822,7 +1789,6 @@ D. A false, R true
 
 </details>
 
-**Exam logic:** Bilgram 1540 → Sarnal 1572 → Dharmat 1658 → Jajau 1707.
 
 **Q15. UPPCS Prelims 2019, Q13**
 
@@ -1846,7 +1812,6 @@ D. III-I-II-IV
 
 </details>
 
-**Exam logic:** Atala Jaunpur → Sher Shah tomb → Humayun tomb → Rabia Daurani.
 
 **Q16. UPPCS Prelims 2019, Q91**
 
@@ -1870,7 +1835,6 @@ D. III-IV-II-I
 
 </details>
 
-**Exam logic:** Mansabdari under Akbar; **not hereditary** — answer 1 only.
 
 **Q17. UPPCS Prelims 2019, Q92**
 

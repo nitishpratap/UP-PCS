@@ -176,7 +176,32 @@ Tulsidas — Awadhi UP | Surdas — Braj (Mathura-Vrindavan) | Gorakhnath — Go
 
 ### PYQ — Ramananda A/R
 
-**A/R logic:** **A** tests Ramananda opened **Rama bhakti to all castes** — famous line: *"Jat-pat puchhe nahi koi…"*. **R** tests he worked in an **egalitarian Bhakti–Sufi** milieu (Banaras–Delhi belt). UPPCS trap: Sufi-influenced egalitarian ideas **motivated** caste-free preaching → both true, R **explains** A → **A**.
+**1.** Assertion (A): **Ramananda** opened **Rama bhakti** to all castes.
+
+Reason (R): He worked in an **egalitarian Bhakti–Sufi** milieu in the **Banaras–Delhi** belt.
+
+A. Both true, R explains A |
+
+B. Both true, R not explanation |
+
+C. A true, R false |
+
+D. A false, R true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (Both true, R explains A)**
+
+**A is true:** Ramananda preached **Rama bhakti** without caste barriers — *"Jat-pat puchhe nahi koi…"* is the famous line.
+
+**R is true:** The **Banaras–Delhi** belt had a shared **Bhakti–Sufi** egalitarian culture in his time.
+
+**Why R explains A:** Sufi-influenced egalitarian ideas **motivated** caste-free Rama preaching.
+
+**Trap:** Choosing **B** when R clearly explains the social openness of his mission.
+
+</details>
 
 ---
 
@@ -1332,7 +1357,6 @@ D. Nimbarka–Shuddhadvaita
 
 ## Complete PYQ Bank (Topic 4)
 
-**A/R logic:** **A** tests Sanskrit music treatises were translated into **Persian** in medieval courts. **R** tests early **Chishti** sufis held **sama** (musical assemblies). UPPCS trap: sama existed, but **court patronage** (Akbar/Firuz circles, Khusrau synthesis) drove translations — R does **not** explain A → **B**.
 
 **Q1. UPPCS Prelims 2018, Q90**
 
@@ -1360,7 +1384,6 @@ D. A false, R true
 
 </details>
 
-**Exam logic:** **Multi-statement** on shared practices. Statement 1 = **Nathpanthis** and **Hath Yoga**; Statement 2 = some **Sufis** (Nizamuddin circle) adopted yogic breathing. Both true → **C**.
 
 **Q2. UPPCS Prelims 2019, Q14**
 
@@ -1384,7 +1407,6 @@ D. Neither
 
 </details>
 
-**Exam logic:** **Saint–place NOT matched**. **Nizamuddin = Delhi** (Chishti). **Multan = Bahauddin Zakariya** (Suhrawardi). UPPCS 2020 Q40 headline trap.
 
 **Q3. UPPCS Prelims 2020, Q40**
 
@@ -1400,7 +1422,6 @@ NOT correctly matched: A. Moinuddin–Ajmer Chishti | B. Burhanuddin–Daulataba
 
 </details>
 
-**Exam logic:** **Compiler vs disciple** trap. **Fawaid-ul-Fuad** = Nizamuddin's **malfuzat** compiled by **Amir Hasan Sijzi**, **not** Amir Khusrau (who was murid, not compiler).
 
 **Q4. UPPCS Prelims 2021, Q101**
 
@@ -1416,7 +1437,6 @@ Fawaid ul Fawad compiled by: A. Amir Hassan Sizzi | B. Amir Khusro | C. Ziauddin
 
 </details>
 
-**Exam logic:** **Philosopher–school** match. Lock **Ramanuja–Vishishtadvaita (4)**, **Madhva–Dvaita (3)**, **Nimbarka–Dvaitadvaita (2)**, **Vallabha–Shuddhadvaita (1)** → **D (4-3-2-1)**.
 
 **Q5. UPPCS Prelims 2022, Q33**
 
@@ -1434,7 +1454,6 @@ Options: A.2-4-1-3 | B.3-1-4-2 | C.1-2-3-4 | D.4-3-2-1
 
 </details>
 
-**Exam logic:** **Poetess–composition NOT matched**. Daya Bai–**Vinay Malika**, Sahajobai–**Sahaj Prakash**, Son Kumari–**Poem of Swam Beli** are correct. **Gangabai–Ganesh Dev Leela** is the wrong pair.
 
 **Q6. UPPCS Prelims 2023, Q39**
 
@@ -1450,7 +1469,6 @@ NOT matched poetess–composition: A. Daya Bai — Vinay Malika | B. Sahajobai �
 
 </details>
 
-**Exam logic:** **Disciple–guru** match (2025 Q12). Lock **Kabir–Ramananda (2)**, **Khusrau–Nizamuddin (3)**, **Surdas–Vallabhacharya (4)**, **Mardana–Nanak (1)** → **C (2-3-4-1)**.
 
 **Q7. UPPCS Prelims 2025, Q12**
 
@@ -1468,7 +1486,6 @@ Options: A.3-2-4-1 | B.3-2-1-4 | C.2-3-4-1 | D.2-3-1-4
 
 </details>
 
-**Exam logic:** **Chronology** of four north Bhakti saints. Order: **Namdev (~1270–1350)** → **Kabir (~15th c.)** → **Nanak (1469–1539)** → **Chaitanya (1486–1533)** → code **3-4-1-2** = **C**.
 
 **Q8. UPPCS Prelims 2025, Q74**
 

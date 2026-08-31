@@ -95,11 +95,6 @@ Khusrau = Sultanate (NOT Akbar/Tansen) | Tutinama = Nakhshabi (NOT Khusrau)
 
 ### PYQ — Baburnama vs court Persian A/R
 
-**A/R logic (read before the stem):**
-
-- **What A tests:** **Baburnama / Tuzk-e-Babri** was written in **Chagatai Turki** (Babur's mother-tongue memoir).
-- **What R tests:** **Turki** was the **Mughal court language**.
-- **UPPCS trap (2025 Q3):** Court language was **Persian**, not Turki → A **true**, R **false** → **C**.
 
 **1. (UPPCS Prelims 2025, Q3)**
 
@@ -185,7 +180,6 @@ D. Both true, R explains A
 
 ### PYQ — Book↔author NOT matched (2019 Q16)
 
-**Exam logic:** Sultanate chronicle stems swap **Barani** (Delhi historian) with **Ibn Battuta** (Moroccan traveller). **Trap:** Tughlaqnama = **Barani**; Ibn Battuta wrote **Rihla**, not Tughlaqnama. Tarikh-i-Firoz Shahi is also **Barani**, not Shams-i-Siraj Alif.
 
 **1. (UPPCS Prelims 2019, Q16)** Which of the following is **NOT** correctly matched?
 
@@ -241,7 +235,6 @@ D. Humayunnama — Gulbadan Begum
 
 ### PYQ — Vernacular match (2019 Q88) + Tutinama (2022 Q43)
 
-**Exam logic:** **2019 Q88** tests vernacular author–work pairs in one list; **Khusrau → Rag Vibodh (4)** is the UPPCS lock. **2022 Q43** traps **Amir Khusrau** as Tutinama translator — correct author is **Nakhshabi**. **Trap:** In music-treatise questions (Topic 6), Rag Vibodh may be **Somanath**; keep the **2019 literary-list code** separate.
 
 **1. (UPPCS Prelims 2019, Q88)** Match List-I (Author) with List-II (Work):
 
@@ -349,7 +342,6 @@ D. Amir Khusrau
 
 ### PYQ — Abul Fazl family deaths (2024 Q132)
 
-**Exam logic:** Chronology stems list four deaths out of order — lock **years first**, then map to codes. **Trap:** Abul Fazl was **murdered (1602)**, not a natural death like Faizi (1595) or Daniyal (1604).
 
 **1. (UPPCS Prelims 2024, Q132)** Arrange in chronological order:
 
@@ -1235,7 +1227,6 @@ D. Disciple of Abul Fazl
 
 ## Complete PYQ Bank (Topic 5)
 
-**Exam logic:** Book↔author NOT-matched — Barani vs Ibn Battuta swap is the classic 2019 trap.
 
 **Q1. UPPCS Prelims 2019, Q16**
 
@@ -1251,7 +1242,6 @@ Which is NOT correctly matched? A. Tabaqat-i-Nasiri — Minhaj-us-Siraj Juzjani 
 
 </details>
 
-**Exam logic:** Vernacular author–work match — Khusrau = Rag Vibodh (code 4); keep separate from music-treatise Somanath lock.
 
 **Q2. UPPCS Prelims 2019, Q88**
 
@@ -1269,7 +1259,6 @@ Options: A.1-3-2-4 | B.1-3-4-2 | C.2-4-1-3 | D.1-2-3-4
 
 </details>
 
-**Exam logic:** Death chronology — lock years: Faizi 1595 → Mubarak 1597 → Abul Fazl 1602 → Daniyal 1604.
 
 **Q3. UPPCS Prelims 2024, Q132**
 
@@ -1287,7 +1276,6 @@ Options: A.2-1-4-3 | B.3-2-1-4 | C.2-3-1-4 | D.2-4-3-1
 
 </details>
 
-**A/R logic (read before the stem):** Baburnama = Turki; Mughal court = Persian → A true, R false → C.
 
 **Q4. UPPCS Prelims 2025, Q3**
 
@@ -1313,7 +1301,6 @@ D. Both true, R explains A
 
 </details>
 
-**Exam logic:** Disciple–guru match overlap — Amir Khusrau's guru is **Nizamuddin Auliya** (code 3 in full match).
 
 **Q5. UPPCS Prelims 2025, Q12 (literature overlap)**
 
@@ -1329,7 +1316,6 @@ Amir Khusrau → Nizamuddin Auliya (guru code 3) in disciple-guru match.
 
 </details>
 
-**Exam logic:** Tutinama translator — Nakhshabi, NOT Khusrau.
 
 **Q6. UPPCS Prelims 2022, Q43**
 
@@ -1353,7 +1339,6 @@ D. Amir Khusro
 
 </details>
 
-**Exam logic:** Regional chronicle match — Bengal, Ahmadnagar, Gawan's letters, Gujarat victory.
 
 **Q7. UPPCS Prelims 2023, Q33**
 

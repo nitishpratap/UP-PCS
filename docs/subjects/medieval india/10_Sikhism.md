@@ -95,10 +95,7 @@ Zafarnama to Aurangzeb | died 1708 Nanded (Hazur Sahib)
 
 ### PYQ — Mardana match (2025 Q12)
 
-**Exam logic:** Disciple→Guru match — **Mardana** is **Guru Nanak's** disciple (rababi), not his guru. **Trap:** reversing the direction in List-I/List-II.
 
-- **2025 Q12** keys to **C (2-3-4-1)** because Mardana maps to Guru Nanak, not the reverse.
-- **2025 Q74** keys to **C (3-4-1-2)**.
 - That order places Nanak after Namdev and Kabir, before Chaitanya.
 - Nanak settled a sangat at **Kartarpur**.
 - That community model later became the gurdwara pattern.
@@ -310,7 +307,6 @@ D. Guru Tegh Bahadur
 **Why:** The correct lock is **Guru Arjan Dev**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -330,7 +326,6 @@ D. 1708 Nanded
 **Ans: C**
 
 **Why:** The correct lock is **1699 Anandpur**.
-
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -354,7 +349,6 @@ D. Aurangzeb
 **Why:** The correct lock is **Jahangir**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -374,7 +368,6 @@ D. Bahadur Shah I
 **Ans: C**
 
 **Why:** The correct lock is **Aurangzeb**.
-
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -398,7 +391,6 @@ D. Guru Har Rai
 **Why:** The correct lock is **Guru Angad**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -420,7 +412,6 @@ D. Guru Har Krishan
 **Why:** The correct lock is **Guru Ram Das**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -440,7 +431,6 @@ D. Guru Amar Das
 **Ans: B**
 
 **Why:** The correct lock is **Guru Hargobind**.
-
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -504,7 +494,6 @@ D. An 11th human Guru
 **Why:** The correct lock is **Guru Granth Sahib**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -524,7 +513,6 @@ D. Only under Aurangzeb
 **Ans: B**
 
 **Why:** The correct lock is **False**.
-
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -548,7 +536,6 @@ D. Har Krishan
 **Why:** The correct lock is **Gobind Singh**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -568,7 +555,6 @@ D. Nadir Shah
 **Ans: C**
 
 **Why:** The correct lock is **Aurangzeb**.
-
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -592,7 +578,6 @@ D. Lahore
 **Why:** The correct lock is **Nanded**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -612,7 +597,6 @@ D. Ranjit Singh’s Adalat
 **Ans: B**
 
 **Why:** The correct lock is **The Golden Temple shrine**.
-
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -696,7 +680,6 @@ D. Child guruship
 **Why:** The correct lock is **Free community meal**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -736,7 +719,6 @@ D. Ranjit Singh vs Afghans
 **Ans: B**
 
 **Why:** The correct lock is **Gobind Singh vs hill rajas**.
-
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -780,7 +762,6 @@ D. Zafarnama
 **Why:** The correct lock is **Goindwal langar centre**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -822,7 +803,6 @@ D. A Mughal farmans book
 **Why:** The correct lock is **A separate Gobind Singh corpus**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -842,7 +822,6 @@ D. Ranjit Singh’s court
 **Ans: B**
 
 **Why:** The correct lock is **Khalsa initiation 1699**.
-
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -886,7 +865,6 @@ D. Guru Angad
 **Why:** The correct lock is **Guru Nanak**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -928,7 +906,6 @@ D. Five Mughal subahs
 **Why:** The correct lock is **The first five Khalsa initiates**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -968,7 +945,6 @@ D. Nanak and Ram Das
 **Why:** The correct lock is **Arjan and Tegh Bahadur**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -990,7 +966,6 @@ D. Idol priesthood
 **Why:** The correct lock is **Spiritual life within family and work**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1010,7 +985,6 @@ D. Only Singh names
 **Ans: B**
 
 **Why:** The correct lock is **False**.
-
 
 
 **Trap:** Cross-check the Confused Pairs table for this topic.
@@ -1054,7 +1028,6 @@ D. Tegh Bahadur 1606 → Arjan 1675
 **Why:** The correct lock is **Adi Granth → Arjan martyrdom → Khalsa**.
 
 
-
 **Trap:** Cross-check the Confused Pairs table for this topic.
 
 </details>
@@ -1063,7 +1036,6 @@ D. Tegh Bahadur 1606 → Arjan 1675
 
 ## Complete PYQ Bank (Topic 10)
 
-**Exam logic:** Disciple→Guru match — **Mardana** maps to **Guru Nanak**, not the reverse. **Trap:** treating Mardana as guru (2025 Q12).
 
 **Q1. UPPCS Prelims 2025, Q12**
 
@@ -1097,7 +1069,6 @@ D. 2 3 1 4
 
 </details>
 
-**Exam logic:** Bhakti-saint chronology — **Namdev → Kabir → Nanak → Chaitanya**. **Trap:** placing Chaitanya before Nanak.
 
 **Q2. UPPCS Prelims 2025, Q74**
 
@@ -1121,7 +1092,6 @@ D. 4, 3, 2, 1
 
 </details>
 
-**Exam logic:** **Ranjit Singh** court institution — **Adalat-i-Ala** at **Amritsar**, not a Guru-period office. **Trap:** confusing Sikh Empire with ten-Guru era.
 
 **Q3. UPPCS Prelims 2021, Q67**
 
