@@ -252,30 +252,90 @@ D. Haider Shah
 
 ### Rulers and dynasties
 
-- **Harihara I & Bukka I (Sangama, from 1336)** founded the empire at **Hampi**.
-- **Deva Raya II (1424–1446)** was a strong Sangama ruler who fought the Bahmanis.
-- **Saluva Narasimha (1485–1490)** seized power and began the **Saluva** line.
-- **Krishnadevaraya (1509–1529, Tuluva)** was the military and literary peak.
-- **Achyuta Raya** and **Sadasiva Raya** ruled before the **Rama Raya** regency.
-- **Tirumala and Venkata II (Aravidu)** ruled the diminished post-Talikota kingdom from **Penukonda/Chandragiri**.
+**Harihara I (1336–1356, Sangama)**
+
+- **Harihara I** and his brother **Bukka I** founded Vijayanagara at **Hampi** in **1336** after Delhi Sultanate pressure under **Muhammad bin Tughlaq**.
+- Harihara had earlier served the **Kampili** kingdom and the **Hoysala** network before building an independent Hindu power in the Tungabhadra–Krishna zone.
+
+**Bukka I (1356–1377, Sangama)**
+
+- **Bukka I** consolidated the infant kingdom and strengthened Sangama authority over the core Kannada–Telugu belt.
+- He continued temple patronage and frontier wars that fixed Vijayanagara as a permanent Deccan power.
+
+**Harihara II (1377–1404, Sangama)**
+
+- **Harihara II** extended Vijayanagara influence deeper into the **Tamil** country and the eastern coast.
+- His reign saw the empire grow from a regional kingdom into a wider southern state.
+
+**Deva Raya I (1406–1422, Sangama)**
+
+- **Deva Raya I** rebuilt royal power after a brief internal crisis in the Sangama line.
+- He fought the **Bahmanis** and restored Vijayanagara prestige in the **Raichur doab**.
+
+**Deva Raya II (1424–1446, Sangama)**
+
+- **Deva Raya II** was the greatest **pre-Tuluva** Vijayanagara ruler and is remembered as **Praudha Deva Raya**.
+- He earned the title **Gajabetekara** (elephant hunter) and repeatedly defeated Bahmani armies in the Krishna–Tungabhadra belt.
+- He patronised **Sanskrit** and **Telugu** learning and sent embassies to **Sri Lanka** and the **Far East**.
+- His death in **1446** opened a phase of noble factionalism that weakened the Sangama line.
+
+**Saluva Narasimha (1485–1490, Saluva)**
+
+- **Saluva Narasimha** ended Sangama rule by seizing the throne in **1485** after prolonged ministerial and noble struggles.
+- He began the short **Saluva** dynasty and tried to recentre authority in the hands of the king.
+
+**Narasimha Raya II (1491–1505, Saluva)**
+
+- **Narasimha Raya II** was a weak Saluva ruler under powerful nobles.
+- His reign prepared the ground for the **Tuluva** seizure of power under **Vira Narasimha** and then **Krishnadevaraya**.
+
+**Achyuta Raya (1529–1542, Tuluva)**
+
+- **Achyuta Raya** was **Krishnadevaraya's** younger brother and succeeded him in **1529**.
+- His reign saw court rivalry and the rise of the **Aravidu** and **Tirumala** factions.
+
+**Sadasiva Raya (1542–1570, Tuluva)**
+
+- **Sadasiva Raya** ruled in name while **Aliya Rama Raya** acted as the real regent.
+- This regency period ended with the fatal overreach that produced the **Talikota** disaster.
+
+**Aliya Rama Raya (regent, killed 1565)**
+
+- **Rama Raya** was the dominant minister-regent who repeatedly interfered in Deccan Sultanate successions.
+- His policy united **Bijapur, Ahmadnagar, Golkonda, and Bidar** against Vijayanagara at **Talikota (1565)**.
+- He was **captured and beheaded** on the battlefield, and Hampi was sacked.
+
+**Tirumala Raya & Venkata II (Aravidu, post-1565)**
+
+- After **Talikota**, the **Aravidu** line ruled a reduced kingdom from **Penukonda** and later **Chandragiri**.
+- **Venkata II** tried to recover prestige, but Vijayanagara never regained its pre-1565 imperial reach.
+- The dynasty survived in name until **1646**, long after Hampi was abandoned.
 
 ### Administration
 
 **Nayankara/amara system** | **Rajya** provinces | **Mahanavami** royal festival
 
+| Office / unit | Function |
+|---------------|----------|
+| **Mahapradhana** | Prime minister; headed the central council |
+| **Dandanayaka** | Law, order, and military coordination |
+| **Rajya** | Province under a governor |
+| **Nadu** | District cluster below the province |
+| **Ur** | Ordinary village assembly |
+| **Sabha** | Brahmana **agrahara** assembly with stronger autonomy |
+| **Nayaka** | Feudatory holder of an **amaram** grant |
+| **Amaram** | Land grant tied to military service |
+
 - The king acted as **dharma protector** and commander-in-chief, assisted by a cabinet of great officers whose titles varied by period.
-- The **mahapradhana** (prime minister) headed civil administration in the central council.
-- The **dandanayaka** handled law, order, and military coordination at court level.
 - Under the **nayankara/amara system**, the king granted **amaram lands** to **nayakas** in return for **military service**, tribute, and local administration.
 - A **nayaka** maintained troops, collected revenue from his grant, and owed feudatory duty to the Vijayanagara throne.
-- This system later became the precursor to post-1565 **Nayak kingdoms** such as Madurai and Tanjore.
-- The empire was divided into provinces called **rajyas**, each under a governor.
-- Below the province level lay **nadu** clusters and villages with local assemblies.
-- The **sabha** was the Brahmana agrahara assembly with stronger autonomy than an ordinary village **ur**.
+- This system later became the precursor to post-1565 **Nayak kingdoms** such as **Madurai**, **Tanjore**, and **Gingee**.
 - **Land revenue** was the main income, drawn from temple lands (**devadana**), **agrahara** grants, and peasant holdings.
-- The army included **elephants, cavalry, infantry, and artillery** by the sixteenth century, and the Portuguese supplied horses and firearms.
-- The **Mahanavami/Dasara** festival was a royal display of power, tribute collection, and military might.
-- Temple grants were recorded on **mandapa pillars** at Virupaksha and Vitthala.
+- The state also drew income from **customs**, **monopolies**, and tribute presented at royal festivals.
+- The army included **elephants, cavalry, infantry, and artillery** by the sixteenth century.
+- The **Portuguese** at **Goa** supplied horses and firearms to Vijayanagara in Krishnadevaraya's age.
+- The **Mahanavami/Dasara** festival at Hampi was a royal display of power, tribute collection, and military might.
+- Temple grants were recorded on **mandapa pillars** at **Virupaksha** and **Vitthala**.
 
 ### Krishnadevaraya (1509–1529)
 
@@ -320,24 +380,76 @@ D. Haider Shah
 | **Muhammad Shah III** | 1463–1482 | **Mahmud Gawan** as wazir |
 | **Kalimullah** | Last sultan | Kingdom split **1518** |
 
-### Administration and literary sources
+**Alauddin Bahman Shah / Hasan Gangu (1347–1358)**
+
+- **Hasan Gangu** was a Turkish officer in the service of **Muhammad bin Tughlaq** who rebelled and declared independence at **Gulbarga in 1347**.
+- He took the throne name **Alauddin Bahman Shah** and founded the first major Muslim kingdom of the Deccan.
+
+**Muhammad Shah I (1358–1375)**
+
+- **Muhammad Shah I** consolidated the infant Bahmani state after Hasan Gangu.
+- He pushed back Vijayanagara pressure and fixed Gulbarga as a durable Deccan capital.
+
+**Firoz Shah Bahmani (1397–1422)**
+
+- **Firoz Shah Bahmani** ruled through a long phase of wars with **Vijayanagara** over the **Raichur doab**.
+- His reign kept Bahmani power intact before the later shift to **Bidar**.
+
+**Ahmad Shah I Wali (1422–1436)**
+
+- **Ahmad Shah I Wali** moved the Bahmani capital from **Gulbarga** to **Bidar** around **1429**.
+- He built fortifications and mosques that made **Bidar** the architectural centre of the kingdom.
+
+**Muhammad Shah III (1463–1482)**
+
+- **Muhammad Shah III** was a minor when he came to the throne, and real power passed to his minister **Mahmud Gawan**.
+- Under this reign Bahmani armies reached the **Konkan**, **Goa**, and the **Orissa coast**.
+
+**Kalimullah (last sultan)**
+
+- **Kalimullah** was a weak last sultan after Gawan's execution and noble faction fights.
+- The kingdom formally broke into **five Deccan Sultanates in 1518**.
+
+### Mahmud Gawan (wazir, executed 1481)
+
+**Persian-born minister** | **Wazir under Muhammad Shah III** | **Author of state letters preserved as *Riyaz-ul-Insha***
+
+- **Mahmud Gawan** was born at **Gawan** in **Persia** and came to the Deccan as a trader before entering Bahmani service.
+- He rose through military and diplomatic talent to become **wazir** (prime minister) under **Muhammad Shah III**.
+- He was **not** the founder of the Bahmani kingdom — **Hasan Gangu** holds that lock.
+- As wazir he conquered **Konkan** and **Goa** and extended Bahmani influence toward the **Orissa coast**.
+- He introduced **land measurement**, **strict revenue accounting**, **cash salaries**, and **merit-based appointments** in place of hereditary noble privilege.
+- He built a famous **madrasa at Bidar** and patronised Persian learning alongside fiscal reform.
+- **Riyaz-ul-Insha** preserves his official **letters and state papers** and is a major source on Bahmani administration.
+- Rival nobles forged a **treason letter** in his name; the sultan ordered his execution in **1481**.
+- After Gawan's death, **Deccani** and **Afaqi** noble factions paralysed the court and the kingdom declined toward the **1518** split.
+
+### Administration
 
 | Office | Function |
 |--------|----------|
-| **Wazir** | Prime minister — **Mahmud Gawan** held this post |
-| **Mustaufi** | Finance and accounts |
-| **Mir Jumla** | Foreign trade and customs |
-| **Tarafdar** | Provincial governor of a **taraf** |
-| **Kotwal** | City administration and law order |
-| **Barid** | Intelligence and news reporting |
+| **Wazir** | Prime minister and head of civil administration |
+| **Mustaufi** | Finance minister; accounts and audit |
+| **Mir Jumla** | Foreign trade, customs, and commercial revenue |
+| **Tarafdar** | Governor of a **taraf** (province) |
+| **Kotwal** | City administration and law and order |
+| **Barid** | Intelligence service and news reporting |
+| **Ariz** | Military department; army rolls and pay |
 
-- Bahmani administration used a **Persianate centralised** bureaucracy adapted from the Delhi Sultanate.
-- **Mahmud Gawan's reforms** included land measurement, strict accounting, cash salaries, and merit-based appointments.
-- Gawan built a **madrasa at Bidar** and patronised learning alongside fiscal reform.
-- **Riyaz-ul-Insha** is a collection of **Mahmud Gawan's letters and state papers**.
-- **Riyaz-us-Salatin** is a history of **Bengal** and is not connected with Gawan (2023 Q33 trap).
-- **Burhan-e-Masir** is a history of **Ahmadnagar**, a Bahmani successor state.
-- **Mirat-e-Sikandari** is a **Gujarat** victory narrative.
+- The kingdom was divided into **eight tarafs** (provinces), each under a **tarafdar**.
+- Important taraf centres included **Daulatabad**, **Gulbarga**, **Bidar**, **Berar**, and the **Telangana** belt.
+- Bahmani administration used a **Persianate centralised bureaucracy** adapted from the Delhi Sultanate model.
+- Revenue came from **land tax**, **trade dues**, and **tribute** from subordinated chiefs.
+- Weak tarafdars later broke away as the independent **Deccan Sultanates** after **1518**.
+
+### Literary and historical sources
+
+| Work | What it is | Exam lock |
+|------|------------|-----------|
+| **Riyaz-ul-Insha** | Collection of **Mahmud Gawan's letters and state papers** | Bahmani administration; **not** Bengal history |
+| **Riyaz-us-Salatin** | History of **Bengal** | Trap: sounds like Riyaz-ul-Insha but is a **different book** |
+| **Burhan-e-Masir** | Chronicle of **Ahmadnagar** | Nizam Shahi successor state, not Bahmani court letters |
+| **Mirat-e-Sikandari** | **Gujarat** victory narrative | Regional history; match with Gujarat in 2023 Q33 |
 
 > **Exam note:** **Hasan Gangu** founded the Bahmani Kingdom. **Mahmud Gawan** was a minister, not the founder. In **2023 Q33**, the correct match is Mirat-e-Sikandari with Gujarat victory, Burhan-e-Masir with Ahmadnagar, Riyaz-us-Salatin with Bengal, and Riyaz-ul-Insha with Gawan's letters. The answer is **A (4-2-1-3)**.
 
@@ -407,26 +519,72 @@ D. 4-2-3-1
 
 ## 3.5 Deccan Sultanates
 
-**Five successor states (from ~1518):**
+**Five successor states (from ~1518)** | All used **Persianate** central administration modelled on the Bahmani system
 
-| Sultanate | Dynasty | Founder | Capital |
-|-----------|---------|---------|---------|
-| **Bijapur** | Adil Shahi | **Yusuf Adil Shah** | Bijapur |
-| **Golkonda** | Qutb Shahi | **Quli Qutb Shah** | Golkonda, later Hyderabad |
-| **Ahmadnagar** | Nizam Shahi | **Malik Ahmad** | Ahmadnagar |
-| **Bidar** | Barid Shahi | **Amir Barid** | Bidar |
-| **Berar** | Imad Shahi | **Fathullah Imad-ul-Mulk** | Ellichpur |
+| Sultanate | Dynasty | Founder | Capital | Period |
+|-----------|---------|---------|---------|--------|
+| **Bijapur** | Adil Shahi | **Yusuf Adil Shah** | Bijapur | 1490–1686 |
+| **Golkonda** | Qutb Shahi | **Quli Qutb Shah** | Golkonda → Hyderabad | 1518–1687 |
+| **Ahmadnagar** | Nizam Shahi | **Malik Ahmad** | Ahmadnagar | 1490–1636 |
+| **Bidar** | Barid Shahi | **Amir Barid** | Bidar | 1492–1619 |
+| **Berar** | Imad Shahi | **Fathullah Imad-ul-Mulk** | Ellichpur | 1490–1574 |
 
-- **Bijapur** is remembered for **Gol Gumbaz** and for **Ibrahim Adil Shah II**, who wrote **Kitab-i-Nauras**.
+### Common administrative pattern
+
+| Element | Function |
+|---------|----------|
+| **Wazir / Peshwa** | Chief minister |
+| **Pargana** | Basic revenue-admin unit |
+| **Amil / Desai** | Revenue collector |
+| **Qazi** | Judge under Islamic law |
+| **Kotwal** | City police and order |
+
+- All five states inherited the Bahmani **taraf** idea but ruled as separate sultanates after **1518**.
+- Land revenue, trade customs, and feudatory tribute remained the main income sources.
+- Four of them — **Bijapur, Ahmadnagar, Golkonda, and Bidar** — united against **Vijayanagara** at **Talikota (1565)**.
+- The Mughals later absorbed them: **Ahmadnagar (1636)**, **Bijapur (1686)**, **Golkonda (1687)**.
+
+### Bijapur (Adil Shahi)
+
+- **Yusuf Adil Shah** founded the **Adil Shahi** line at **Bijapur** after the Bahmani collapse.
 - **Ismail Adil Shah** was defeated by **Krishnadevaraya** at **Raichur (1520)**.
-- **Golkonda** was famous for diamond trade and later centred on **Hyderabad**.
+- **Ibrahim Adil Shah II** wrote **Kitab-i-Nauras**, a musical-devotional song collection.
+- **Muhammad Adil Shah** built **Gol Gumbaz**, famous for having one of the world's largest domes.
+- Bijapur remained a major Deccan power until Aurangzeb annexed it in **1686**.
+
+### Golkonda (Qutb Shahi)
+
+- **Quli Qutb Shah** founded the **Qutb Shahi** dynasty and ruled from **Golkonda fort**.
+- **Golkonda** was famous for **diamond mines** and overseas trade links.
 - **Muhammad Quli Qutb Shah** founded **Hyderabad in 1591** and built the **Charminar**.
-- **Ahmadnagar** produced the chronicle **Burhan-e-Masir**.
-- **Bidar** is linked to **Tin Darwaza** in Bidar Fort.
-- **Berar** was the smallest successor state and was absorbed early.
-- Four sultanates — **Bijapur, Ahmadnagar, Golkonda, and Bidar** — united against Vijayanagara at **Talikota in 1565**.
-- The Mughals annexed Ahmadnagar in **1636**, Bijapur in **1686**, and Golkonda in **1687**.
-- **Abul Hasan Qutb Shah** was the last ruler of Golkonda when Aurangzeb captured it.
+- **Abul Hasan Qutb Shah** was the **last** ruler when Aurangzeb captured Golkonda in **1687**.
+
+### Ahmadnagar (Nizam Shahi)
+
+- **Malik Ahmad** founded the **Nizam Shahi** kingdom with capital at **Ahmadnagar**.
+- **Hussain Nizam Shah I** joined the anti-Vijayanagara coalition at **Talikota (1565)**.
+- The court chronicle **Burhan-e-Masir** records Ahmadnagar history.
+- The Mughals annexed Ahmadnagar in **1636**.
+
+### Bidar (Barid Shahi)
+
+- **Amir Barid** was a former Bahmani minister who founded the **Barid Shahi** state at **Bidar**.
+- **Tin Darwaza** in **Bidar Fort** is the standard exam monument lock for this centre.
+- Bidar remained smaller than Bijapur and Golkonda and was absorbed by Bijapur in **1619**.
+
+### Berar (Imad Shahi)
+
+- **Fathullah Imad-ul-Mulk** founded the **Imad Shahi** line at **Ellichpur** in **Berar**.
+- Berar was the **smallest** of the five successor states and was absorbed early by other Deccan powers.
+- It rarely appears alone in UPPCS stems but completes the **five-sultanate** count after **1518**.
+
+### Literary works of the Deccan Sultanates
+
+| Work | Author / state | Exam lock |
+|------|----------------|-----------|
+| **Kitab-i-Nauras** | **Ibrahim Adil Shah II** of **Bijapur** | Musical-devotional songs; **not** Krishnadevaraya |
+| **Burhan-e-Masir** | Court chronicle of **Ahmadnagar** | Nizam Shahi history |
+| **Amuktamalyada** | **Krishnadevaraya** of Vijayanagara | Telugu epic — cross-trap with Kitab-i-Nauras |
 
 > **Exam note:** Do not confuse **Bidar**, the Bahmani and later Barid Shahi centre, with **Bijapur**, the Adil Shahi capital. **Kitab-i-Nauras** was written by **Ibrahim Adil Shah II of Bijapur**, not by Krishnadevaraya (2020 Q44).
 
@@ -541,16 +699,16 @@ D. A false, R true
 
 ### Literary works — exam locks
 
-| Work | Author / context | Polity |
-|------|------------------|--------|
-| **Padmavat** | **Malik Muhammad Jaisi** | Sharqi Jaunpur milieu |
-| **Amuktamalyada** | **Krishnadevaraya** | Vijayanagara (Telugu) |
-| **Manucharitramu** | **Allasani Peddana** | Krishnadevaraya's court |
-| **Kitab-i-Nauras** | **Ibrahim Adil Shah II** | Bijapur (Adil Shahi) |
-| **Riyaz-ul-Insha** | **Mahmud Gawan's letters** | Bahmani administration |
-| **Riyaz-us-Salatin** | Bengal history | Not Bahmani |
-| **Burhan-e-Masir** | Ahmadnagar chronicle | Nizam Shahi successor |
-| **Mirat-e-Sikandari** | Gujarat victory narrative | Regional history |
+| Work | What it is | Polity / exam lock |
+|------|------------|-------------------|
+| **Padmavat** | Epic by **Malik Muhammad Jaisi** | Sharqi Jaunpur milieu |
+| **Amuktamalyada** | Telugu epic by **Krishnadevaraya** | Vijayanagara |
+| **Manucharitramu** | Court epic by **Allasani Peddana** | Krishnadevaraya's Ashtadiggajas |
+| **Kitab-i-Nauras** | Musical-devotional songs | **Ibrahim Adil Shah II**, Bijapur |
+| **Riyaz-ul-Insha** | **Mahmud Gawan's letters and state papers** | Bahmani administration |
+| **Riyaz-us-Salatin** | History of **Bengal** | Not Gawan; 2023 Q33 trap |
+| **Burhan-e-Masir** | Chronicle of **Ahmadnagar** | Nizam Shahi successor |
+| **Mirat-e-Sikandari** | **Gujarat** victory narrative | Regional history |
 
 ### Chronology spine
 
