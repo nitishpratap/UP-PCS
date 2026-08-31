@@ -27,4 +27,7 @@ hide:
 [**Part 6 — Indian Physical Geography**
 <span>Himalayas, plains, plateau, desert, ghats, coasts, islands, drainage, soils, vegetation, UP locks · Final Master Ratta · 60 daily facts · 150 sections.</span>](06_Indian_Physical_Geography.md){ .study-card }
 
+[**Part 7 — Indian Climate**
+<span>Seasons, monsoon mechanism, rainfall distribution, local winds, WD, cyclones, ENSO/IOD, UP climate · Final 75 · One-page ratta · 105 sections.</span>](07_Indian_Climate.md){ .study-card }
+
 </div>

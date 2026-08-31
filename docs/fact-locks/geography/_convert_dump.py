@@ -74,6 +74,7 @@ HERO = {
     4: ("Geography · Part 4", "Oceanography", "~9/10"),
     5: ("Geography · Part 5", "World Geography", "~9/10"),
     6: ("Geography · Part 6", "Indian Physical Geography", "~9/10"),
+    7: ("Geography · Part 7", "Indian Climate", "~9/10"),
 }
 
 TAIL_MARKERS = (
@@ -99,6 +100,9 @@ TAIL_MARKERS = (
     "# 🔥 INDIAN PHYSICAL GEOGRAPHY — FINAL MASTER RATTA",
     "## 🔥 INDIAN PHYSICAL GEOGRAPHY — FINAL MASTER RATTA",
     "# INDIAN PHYSICAL GEOGRAPHY — FINAL MASTER RATTA",
+    "# 🔥 ULTIMATE ONE-PAGE RATTA",
+    "## 🔥 ULTIMATE ONE-PAGE RATTA",
+    "# ULTIMATE ONE-PAGE RATTA",
 )
 
 
