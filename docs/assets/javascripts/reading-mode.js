@@ -11,6 +11,55 @@
     return rest.length >= 2 && rest[rest.length - 1] !== "index";
   }
 
+  function isFactLockSheet() {
+    const path = decodeURIComponent(location.pathname).replace(/\/+$/, "");
+    const match = path.match(/\/fact-locks\/(.+)$/);
+    if (!match) return false;
+    const rest = match[1].split("/").filter(Boolean);
+    return rest.length >= 2 && rest[rest.length - 1] !== "index";
+  }
+
+  function wrapFactLockSections() {
+    const sheet = document.querySelector(".fact-lock-sheet");
+    if (!sheet) return;
+
+    const headings = [...sheet.querySelectorAll(":scope > h2")];
+    headings.forEach((h2) => {
+      if (h2.closest(".fact-lock-section")) return;
+
+      const section = document.createElement("div");
+      section.className = "fact-lock-section";
+      h2.parentNode.insertBefore(section, h2);
+      section.appendChild(h2);
+
+      let node = section.nextSibling;
+      while (node) {
+        if (node.nodeType === 1 && node.tagName === "H2" && node.parentNode === sheet) break;
+        const next = node.nextSibling;
+        section.appendChild(node);
+        node = next;
+      }
+    });
+
+    sheet.querySelectorAll(".fact-lock-traps-table, .fact-lock-answer-key").forEach((block) => {
+      if (block.closest(".fact-lock-section")) return;
+      const wrap = document.createElement("div");
+      wrap.className = "fact-lock-section fact-lock-section--wide";
+      block.parentNode.insertBefore(wrap, block);
+      wrap.appendChild(block);
+    });
+
+    sheet.querySelectorAll(".fact-lock-section:has(> table)").forEach((section) => {
+      section.classList.add("fact-lock-section--table");
+    });
+  }
+
+  function initialiseFactLockPage() {
+    if (!isFactLockSheet()) return;
+    document.body.classList.add("fact-lock-page");
+    wrapFactLockSections();
+  }
+
   function setButtonState(button, isHidden, hiddenLabel, shownLabel) {
     button.setAttribute("aria-pressed", String(isHidden));
     button.textContent = isHidden ? shownLabel : hiddenLabel;
@@ -102,6 +151,9 @@
         }
         savePreference();
         updateButtons();
+        if (isFactLockSheet()) {
+          document.body.classList.toggle("fact-lock-focus", isFocusMode());
+        }
       });
     }
     updateButtons();
@@ -887,15 +939,8 @@
     });
   }
 
-  function enhanceMcqCards(root) {
-    root =
-      root ||
-      document.querySelector(".md-content__inner") ||
-      document.querySelector(".md-typeset");
+  function enhanceMcqCardsInContainer(root) {
     if (!root) return;
-
-    // Re-run safely on Material instant navigation.
-    unwrapMcqCards(root);
 
     const children = [...root.children];
     let index = 0;
@@ -938,6 +983,22 @@
       children.splice(index, block.length, card);
       index += 1;
     }
+  }
+
+  function enhanceMcqCards(root) {
+    root =
+      root ||
+      document.querySelector(".md-content__inner") ||
+      document.querySelector(".md-typeset");
+    if (!root) return;
+
+    // Re-run safely on Material instant navigation.
+    unwrapMcqCards(root);
+
+    enhanceMcqCardsInContainer(root);
+    root.querySelectorAll(".fact-lock-sheet, .fact-lock-section").forEach((container) => {
+      enhanceMcqCardsInContainer(container);
+    });
   }
 
   function insertSplitBefore(leftNodes, rightNodes) {
@@ -1036,10 +1097,15 @@
 
   const boot = () => {
     teardownRecallColumns();
+    document.body.classList.remove("fact-lock-page", "fact-lock-focus");
     initialiseReadingMode();
     initialiseProgressBar();
     enhanceMcqCards();
+    initialiseFactLockPage();
     initialiseRecallColumns();
+    if (document.body.classList.contains(primaryClass) && document.body.classList.contains(secondaryClass)) {
+      document.body.classList.add("fact-lock-focus");
+    }
   };
 
   restorePreference();

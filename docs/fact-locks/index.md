@@ -5,9 +5,9 @@ hide:
 
 # Fact Locks
 
-**Must-memorise associations, tables, mnemonics, and traps** — the ratta layer for Prelims. No teaching prose: open a sheet, drill facts, move on.
+**Must-memorise associations, tables, mnemonics, and traps** — the ratta layer for Prelims. Each sheet opens with a **priority hero**, **jump chips**, and **card-wrapped sections** for fast scanning.
 
-Use this **after** you have read the matching Subject Notes chapter once, or **before** an exam when you only have minutes left.
+Use **after** Subject Notes once, or **minutes before** the exam. Toggle **Focus mode** in the reading toolbar to hide sidebars for booklet-style revision.
 
 <div class="study-grid" markdown>
 
@@ -24,7 +24,7 @@ Use this **after** you have read the matching Subject Notes chapter once, or **b
 <span>No sheets yet.</span>](art and culture/index.md){ .study-card }
 
 [**Geography**
-<span>Part 1 — Earth, lat/long, interior, rocks, plate tectonics, volcanoes, earthquakes.</span>](geography/index.md){ .study-card }
+<span>Part 1 fundamentals · Geomorphology · more Parts as you add them.</span>](geography/index.md){ .study-card }
 
 [**Environment and Ecology**
 <span>No sheets yet.</span>](environments & ecology/index.md){ .study-card }

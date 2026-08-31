@@ -1,14 +1,37 @@
-# Part 1 — Fundamentals of Physical Geography
-
-**UPPCS Priority:** 🔴 VERY HIGH
-
-**Prelims importance:** ~8.5/10
-
-This part is foundational. UPPSC can ask direct factual questions from **Earth movements, latitude–longitude, interior of Earth, rocks/minerals, plate tectonics, earthquakes, volcanoes and physiographic features**.
-
-**Booklet rule:** Don't try to understand everything here. **Memorise the highlighted associations, tables and traps.**
-
 ---
+hide:
+  - toc
+---
+
+<div class="fact-lock-hero" markdown="0">
+<p class="fact-lock-hero__eyebrow">Geography · Part 1</p>
+<h1 class="fact-lock-hero__title">Fundamentals of Physical Geography</h1>
+<div class="fact-lock-meta">
+<span class="fact-lock-pill fact-lock-pill--high">🔴 Very high priority</span>
+<span class="fact-lock-pill">Prelims ~8.5/10</span>
+</div>
+<p class="fact-lock-hero__lead">Direct factual questions from <strong>Earth movements, latitude–longitude, interior of Earth, rocks/minerals, plate tectonics, earthquakes, volcanoes and physiographic features</strong>. UPPSC Prelims papers from 2017–2025 are the core PYQ window for this part.</p>
+<p class="fact-lock-hero__rule"><strong>Booklet rule:</strong> Don't try to understand everything here. <strong>Memorise the highlighted associations, tables and traps.</strong></p>
+</div>
+
+<nav class="fact-lock-jump" markdown="0" aria-label="Jump to section">
+<span class="fact-lock-jump__label">Jump</span>
+<a href="#1-earth-basic-facts">1–4 Earth</a>
+<a href="#5-latitude">5–8 Lat/Long</a>
+<a href="#12-heat-zones">9–14 Zones</a>
+<a href="#15-earths-interior">15–20 Interior</a>
+<a href="#21-rocks">21–27 Rocks</a>
+<a href="#28-continental-drift">28–37 Plates</a>
+<a href="#38-major-mountain-types">38–41 Landforms</a>
+<a href="#42-volcano-basic-terminology">42–47 Volcanoes</a>
+<a href="#48-earthquakes">48–52 Earthquakes</a>
+<a href="#56-one-line-geography-associations">56 Locks</a>
+<a href="#confused-pairs">Pairs</a>
+<a href="#uppcs-trap-statements">Traps</a>
+<a href="#self-test-20-mcqs">Self test</a>
+</nav>
+
+<div class="fact-lock-sheet" markdown="1">
 
 ## 1. 🌍 Earth — Basic Facts
 
@@ -41,7 +64,6 @@ This part is foundational. UPPSC can ask direct factual questions from **Earth m
 
 > **66½° → tilt of Earth's axis with orbital plane**
 
----
 
 ## 2. 🔄 Rotation of Earth
 
@@ -84,15 +106,9 @@ Therefore:
 
 > **At the Equator**
 
-### Important trap
+!!! trap "Coriolis trap"
+    Coriolis force **does not** create wind or determine wind speed — it only **deflects** the direction of moving air and water.
 
-Coriolis force:
-
-* does **not** create wind
-* does **not** determine wind speed
-* changes the **direction** of moving air/water.
-
----
 
 ## 3. ☀️ Revolution of Earth
 
@@ -121,7 +137,6 @@ Dates can vary by a day depending on the year.
 
 > Maximum seasonal contrast between hemispheres.
 
----
 
 ## 4. 🌞 Perihelion & Aphelion
 
@@ -130,15 +145,11 @@ Dates can vary by a day depending on the year.
 | **Perihelion** | Earth closest to Sun | **3 January** |
 | **Aphelion** | Earth farthest from Sun | **4 July** |
 
-### ⚠️ Common trap
+!!! trap "Seasons trap"
+    **Seasons are NOT caused by Earth's changing distance from the Sun.**
 
-**Seasons are NOT caused by Earth's changing distance from the Sun.**
+    Main cause: **23½° axial tilt + revolution around Sun**
 
-Main cause:
-
-> **23½° axial tilt + revolution around Sun**
-
----
 
 ## 5. 🌐 Latitude
 
@@ -166,11 +177,11 @@ Measured:
 
 > Gujarat → Rajasthan → Madhya Pradesh → Chhattisgarh → Jharkhand → West Bengal → Tripura → Mizoram
 
-### 🧠 Ratta
+!!! mnemonic "Tropic of Cancer — 8 states"
+    **Guj-Raj-MP-Chha-Jha-WB-Tri-Mizo**
 
-> **Guj-Raj-MP-Chha-Jha-WB-Tri-Mizo**
+    Gujarat → Rajasthan → Madhya Pradesh → Chhattisgarh → Jharkhand → West Bengal → Tripura → Mizoram
 
----
 
 ## 6. 🌍 Longitude
 
@@ -196,7 +207,6 @@ Approximately:
 
 But it is **not a perfectly straight line**; it deviates to avoid dividing countries/islands.
 
----
 
 ## 7. ⏰ Time & Longitude
 
@@ -222,7 +232,6 @@ Delhi and a place differ by 10° longitude.
 
 > 10 × 4 = **40 minutes**
 
----
 
 ## 8. 🇮🇳 Indian Standard Time
 
@@ -238,15 +247,9 @@ IST:
 
 > **UTC/GMT + 5 hours 30 minutes**
 
-### 🔴 Must ratta
+!!! prelims "IST lock"
+    **82°30′ E → IST → Mirzapur, UP** — NOT 82° E.
 
-> **82°30′ E → IST → Mirzapur, UP**
-
-### ⚠️ Trap
-
-India's standard meridian is **82°30′ E**, NOT 82° E.
-
----
 
 ## 9. 🌐 Important Latitude Facts
 
@@ -268,7 +271,6 @@ India's standard meridian is **82°30′ E**, NOT 82° E.
 
 > **Equator is the only latitude that is also a great circle among the parallels.**
 
----
 
 ## 10. 🌍 Great Circle
 
@@ -287,7 +289,6 @@ Examples:
 
 A meridian combined with its opposite meridian forms a great circle.
 
----
 
 ## 11. 🧭 Meridians vs Parallels
 
@@ -306,7 +307,6 @@ A meridian combined with its opposite meridian forms a great circle.
 
 > **Longitude → Time**
 
----
 
 ## 12. 🌎 Heat Zones
 
@@ -332,7 +332,6 @@ Because direct overhead sun is limited to:
 
 > **23½°N to 23½°S**
 
----
 
 ## 13. 🌞 Solstice — Exact Ratta
 
@@ -360,7 +359,6 @@ Southern Hemisphere:
 
 > **Summer**
 
----
 
 ## 14. 🌗 Equinox
 
@@ -388,7 +386,6 @@ Southern Hemisphere:
 
 > Spring
 
----
 
 ## 15. 🌍 Earth's Interior
 
@@ -398,7 +395,6 @@ Earth is broadly divided into:
 
 Evidence about Earth's interior comes especially from **earthquake waves, gravity, heat flow, magnetic field and laboratory studies**.
 
----
 
 ## 16. 🥚 Crust
 
@@ -420,7 +416,6 @@ Outermost layer.
 
 > **Continental → thick + less dense + granitic**
 
----
 
 ## 17. 🌋 Mantle
 
@@ -434,7 +429,6 @@ Composition dominated by:
 
 Mantle is predominantly solid but can flow extremely slowly over geological time.
 
----
 
 ## 18. 🔥 Core
 
@@ -463,7 +457,6 @@ Extremely high pressure maintains solid state despite high temperature.
 
 > **Outer core → liquid**
 
----
 
 ## 19. ⚡ Discontinuities
 
@@ -482,7 +475,6 @@ Extremely high pressure maintains solid state despite high temperature.
 
 > **Lehmann → Outer Core/Inner Core**
 
----
 
 ## 20. 🪨 Lithosphere & Asthenosphere
 
@@ -514,7 +506,6 @@ Lithosphere includes:
 
 > **Crust + uppermost mantle**
 
----
 
 ## 21. 🪨 Rocks
 
@@ -522,7 +513,6 @@ Three major rock types:
 
 > **Igneous → Sedimentary → Metamorphic**
 
----
 
 ## 22. 🔥 Igneous Rocks
 
@@ -572,7 +562,6 @@ Examples:
 
 > **Basalt → Extrusive**
 
----
 
 ## 23. 🪨 Sedimentary Rocks
 
@@ -598,7 +587,6 @@ Examples:
 
 Metamorphism can destroy fossils.
 
----
 
 ## 24. 🔥 Metamorphic Rocks
 
@@ -626,7 +614,6 @@ without complete melting.
 
 > **Granite → Gneiss**
 
----
 
 ## 25. 🔄 Rock Cycle
 
@@ -644,7 +631,6 @@ without complete melting.
 
 Any rock can potentially transform into another rock type under appropriate geological conditions.
 
----
 
 ## 26. 💎 Minerals
 
@@ -668,7 +654,6 @@ A mineral is naturally occurring, inorganic and has:
 | Chalcopyrite | Copper ore |
 | Cinnabar | Mercury ore |
 
----
 
 ## 27. 🧠 Rock-Forming Minerals
 
@@ -692,7 +677,6 @@ Major rock-forming minerals:
 
 > **O > Si > Al > Fe**
 
----
 
 ## 28. 🌍 Continental Drift
 
@@ -720,7 +704,6 @@ Surrounding ocean:
 
 > **Laurasia + Gondwanaland**
 
----
 
 ## 29. 🧩 Wegner's Evidences
 
@@ -752,7 +735,6 @@ Wegener could not satisfactorily explain:
 
 > **What force moved the continents?**
 
----
 
 ## 30. 🌊 Sea-Floor Spreading
 
@@ -768,7 +750,6 @@ Process:
 
 > **Mid-Ocean Ridge → Divergent boundary → New crust**
 
----
 
 ## 31. 🧲 Paleomagnetism
 
@@ -780,7 +761,6 @@ Symmetrical magnetic stripes on either side of mid-ocean ridges:
 
 > **Evidence for sea-floor spreading**
 
----
 
 ## 32. 🌎 Plate Tectonics
 
@@ -790,7 +770,6 @@ Modern theory combines:
 
 Earth's lithosphere is divided into moving plates. Earthquakes, volcanoes and mountain belts are strongly concentrated around plate boundaries.
 
----
 
 ## 33. 🔴 Three Types of Plate Boundaries
 
@@ -800,7 +779,6 @@ Earth's lithosphere is divided into moving plates. Earthquakes, volcanoes and mo
 | **Convergent** | Towards | Trenches, volcanoes, mountains |
 | **Transform** | Past each other | Faults, earthquakes |
 
----
 
 ## 34. ↔️ Divergent Boundary
 
@@ -830,7 +808,6 @@ Creates:
 
 Because new crust is produced.
 
----
 
 ## 35. 💥 Convergent Boundary
 
@@ -878,7 +855,6 @@ Example:
 
 > **India + Eurasia → Himalayas**
 
----
 
 ## 36. 🔄 Transform Boundary
 
@@ -902,7 +878,6 @@ Transform boundary:
 
 > **Does NOT normally create or destroy crust.**
 
----
 
 ## 37. 🌋 Hotspots
 
@@ -918,7 +893,6 @@ Examples:
 
 > **Hawaii → Hotspot / intraplate volcanism**
 
----
 
 ## 38. 🏔️ Major Mountain Types
 
@@ -962,7 +936,6 @@ Examples:
 
 > Aravalli
 
----
 
 ## 39. 🇮🇳 Important Indian Mountain Associations
 
@@ -982,7 +955,6 @@ Examples:
 
 > **Aravalli → Among the oldest fold mountain systems**
 
----
 
 ## 40. 🏔️ Plateaus
 
@@ -1005,7 +977,6 @@ Plateau:
 
 > **Deccan Plateau → Volcanic/basaltic association**
 
----
 
 ## 41. 🌾 Plains
 
@@ -1023,7 +994,6 @@ Plain:
 | Loess plain | Wind deposition |
 | Glacial plain | Glacial deposition |
 
----
 
 ## 42. 🌋 Volcano — Basic Terminology
 
@@ -1041,7 +1011,6 @@ Plain:
 
 > **Magma underground → Lava at surface**
 
----
 
 ## 43. 🌋 Volcano Types
 
@@ -1077,7 +1046,6 @@ Example:
 
 > Small, steep volcanic cone formed mainly from pyroclastic fragments.
 
----
 
 ## 44. 🌋 Volcanic Terms — Must Ratta
 
@@ -1089,7 +1057,6 @@ Example:
 
 > **Ring of Fire → Pacific Ocean margins**
 
----
 
 ## 45. 🌋 Active / Dormant / Extinct
 
@@ -1105,7 +1072,6 @@ Example:
 
 Dormant volcano can become active.
 
----
 
 ## 46. 🇮🇳 Important Indian Volcanoes
 
@@ -1121,7 +1087,6 @@ Dormant volcano can become active.
 
 > **Deccan Traps → Basaltic lava flows**
 
----
 
 ## 47. 🌋 Deccan Traps
 
@@ -1145,7 +1110,6 @@ They are a vast:
 
 > **Basaltic lava plateau**
 
----
 
 ## 48. 🌐 Earthquakes
 
@@ -1163,7 +1127,6 @@ Main cause:
 
 > **Epicentre → Point on surface directly above focus**
 
----
 
 ## 49. 🌊 Earthquake Waves
 
@@ -1196,7 +1159,6 @@ Generally:
 
 > **Most destructive**
 
----
 
 ## 50. 🧠 Earthquake Wave Ratta
 
@@ -1206,7 +1168,6 @@ Generally:
 
 > **Surface → surface → highly destructive**
 
----
 
 ## 51. 📏 Earthquake Magnitude vs Intensity
 
@@ -1236,7 +1197,6 @@ Traditionally:
 
 > **Intensity → effect at a place**
 
----
 
 ## 52. 🌊 Tsunami
 
@@ -1256,7 +1216,6 @@ Other possible causes:
 
 A major tsunami generally requires significant displacement of the seafloor/water column.
 
----
 
 ## 53. 🏔️ Mountain — High-Yield Associations
 
@@ -1273,7 +1232,6 @@ A major tsunami generally requires significant displacement of the seafloor/wate
 | Andes | Volcanic mountain chain |
 | Hawaii | Hotspot |
 
----
 
 ## 54. 🔥 Internal vs External Forces
 
@@ -1313,7 +1271,6 @@ Examples:
 
 > **Exogenic → Weathering/erosion/deposition**
 
----
 
 ## 55. 🧠 Important Geographical Terms
 
@@ -1338,11 +1295,12 @@ Examples:
 | Canyon | Deep valley with steep sides |
 | Gorge vs canyon | Both deep valleys; usage often reflects regional terminology |
 
----
 
 ## 56. 🔴 One-Line Geography Associations
 
 Memorise these as **X → Y**:
+
+<div class="fact-lock-chips" markdown="1">
 
 > **Moho → Crust–Mantle**
 
@@ -1406,197 +1364,57 @@ Memorise these as **X → Y**:
 
 > **66½°S → Antarctic Circle**
 
----
-
-## 57. ⚠️ Most Confusing Facts
-
-### 1. 23½° vs 66½°
-
-> **23½° → Tropics**
-
-> **66½° → Polar Circles**
-
----
-
-### 2. Rotation vs Revolution
-
-> **Rotation → Day/night**
-
-> **Revolution + tilt → Seasons**
-
----
-
-### 3. Perihelion vs Aphelion
-
-> **Perihelion → nearest → January**
-
-> **Aphelion → farthest → July**
-
----
-
-### 4. Focus vs Epicentre
-
-> **Focus → Underground**
-
-> **Epicentre → Surface**
-
----
-
-### 5. Magnitude vs Intensity
-
-> **Magnitude → Energy released**
-
-> **Intensity → Damage/effects at location**
-
----
-
-### 6. Magma vs Lava
-
-> **Magma → below**
-
-> **Lava → surface**
-
----
-
-### 7. Lithosphere vs Crust
-
-> **Crust → one layer**
-
-> **Lithosphere → crust + uppermost mantle**
-
----
-
-### 8. Weathering vs Erosion
-
-> **Weathering → breakdown in place**
-
-> **Erosion → removal/transport**
-
----
-
-### 9. Delta vs Estuary
-
-> **Delta → deposition**
-
-> **Estuary → tidal/funnel-shaped river mouth**
-
----
-
-### 10. Fold vs Fault
-
-> **Fold → bending**
-
-> **Fault → fracture + displacement**
-
----
-
-## 58. 🎯 UPPCS Trap Facts
-
-These are exactly the kinds of distinctions worth putting into a ratta booklet.
-
-### 🔴 Trap 1
-
-**Statement:** Seasons are caused because Earth is closer to Sun in summer.
-
-> ❌ **False**
-
-Cause:
-
-> **Axial tilt + revolution**
-
----
-
-### 🔴 Trap 2
-
-**Statement:** All longitudes are parallel.
-
-> ❌ False
-
-> **Longitudes meet at the poles.**
-
----
-
-### 🔴 Trap 3
-
-**Statement:** Latitude determines local time.
-
-> ❌ False
-
-> **Longitude determines local time.**
-
----
-
-### 🔴 Trap 4
-
-**Statement:** S-waves travel through liquids.
-
-> ❌ False
-
----
-
-### 🔴 Trap 5
-
-**Statement:** Oceanic crust is thicker than continental crust.
-
-> ❌ False
-
-> Oceanic crust is generally **thinner but denser**.
-
----
-
-### 🔴 Trap 6
-
-**Statement:** Himalayas formed at oceanic–continental convergence.
-
-> ❌ False
-
-> **Continental–continental convergence**
-
----
-
-### 🔴 Trap 7
-
-**Statement:** New crust is produced at transform boundaries.
-
-> ❌ False
-
-> **Divergent boundaries → new crust**
-
----
-
-### 🔴 Trap 8
-
-**Statement:** San Andreas Fault is a convergent boundary.
-
-> ❌ False
-
-> **Transform boundary**
-
----
-
-### 🔴 Trap 9
-
-**Statement:** Hawaii lies on a typical plate boundary.
-
-> ❌ False
-
-> **Hotspot/intraplate volcanism**
-
----
-
-### 🔴 Trap 10
-
-**Statement:** Barren Island is a dormant volcano.
-
-> ❌ For exam purposes, remember:
-
-> **Barren Island → India's only confirmed active volcano**
-
----
-
-## 59. 🔥 Top 20 Ratta Facts
-
-If you have only **5 minutes**, revise these:
+</div>
+
+
+## Confused Pairs {#confused-pairs}
+
+One row = one exam distinction. Memorise the **lock** column.
+
+| Pair | Lock |
+| --- | --- |
+| **23½° vs 66½°** | 23½° → Tropics · 66½° → Polar Circles |
+| **Rotation vs Revolution** | Rotation → day/night · Revolution + tilt → seasons |
+| **Perihelion vs Aphelion** | Perihelion → nearest → **January** · Aphelion → farthest → **July** |
+| **Focus vs Epicentre** | Focus → underground · Epicentre → surface |
+| **Magnitude vs Intensity** | Magnitude → energy released · Intensity → damage at a place |
+| **Magma vs Lava** | Magma → below surface · Lava → at surface |
+| **Lithosphere vs Crust** | Crust → one layer · Lithosphere → crust + uppermost mantle |
+| **Weathering vs Erosion** | Weathering → breakdown in place · Erosion → removal/transport |
+| **Delta vs Estuary** | Delta → deposition · Estuary → tidal/funnel river mouth |
+| **Fold vs Fault** | Fold → bending · Fault → fracture + displacement |
+
+## UPPCS Trap Statements {#uppcs-trap-statements}
+
+| # | False statement (do not pick) | Correct lock |
+| ---: | --- | --- |
+| 1 | Seasons are caused because Earth is closer to the Sun in summer | **Axial tilt + revolution** |
+| 2 | All longitudes are parallel | **Longitudes meet at the poles** |
+| 3 | Latitude determines local time | **Longitude determines local time** |
+| 4 | S-waves travel through liquids | **S-waves → solids only** |
+| 5 | Oceanic crust is thicker than continental crust | **Oceanic → thinner but denser** |
+| 6 | Himalayas formed at oceanic–continental convergence | **Continental–continental (C–C)** |
+| 7 | New crust is produced at transform boundaries | **Divergent → new crust** |
+| 8 | San Andreas Fault is a convergent boundary | **Transform boundary** |
+| 9 | Hawaii lies on a typical plate boundary | **Hotspot / intraplate volcanism** |
+| 10 | Barren Island is a dormant volcano (for exam) | **India's only confirmed active volcano** |
+
+## Common Traps — Quick Scan {#common-traps-quick-scan}
+
+| Wrong link | Right lock |
+| --- | --- |
+| Seasons → distance from Sun | Tilt + revolution |
+| Latitude → time | Longitude |
+| Longitude → climate | Latitude |
+| S-wave → passes liquid | Solids only |
+| Oceanic crust → thick | Thin + dense |
+| Himalaya → O–C | C–C |
+| San Andreas → convergent | Transform |
+| Hawaii → plate boundary | Hotspot |
+| Lithosphere → crust only | Crust + uppermost mantle |
+| Magnitude → damage at one place | Intensity |
+
+## Top 20 Ratta Facts {#top-20-ratta-facts}
 
 1. **Earth axis → 23½°**
 2. **Perpendicular to ecliptic → 23½°**
@@ -1616,14 +1434,12 @@ If you have only **5 minutes**, revise these:
 16. **S-wave → Cannot pass liquid**
 17. **Pangaea → Wegener**
 18. **Mid-ocean ridge → New crust**
-19. **Himalayas → Continental–continental convergence**
-20. **San Andreas → Transform boundary**
+19. **Himalayas → C–C convergence**
+20. **San Andreas → Transform**
 
----
+## Rapid Revision Chips {#rapid-revision-chips}
 
-## 60. 🧠 20 Second Rapid Revision
-
-Read this repeatedly:
+<div class="fact-lock-chips" markdown="1">
 
 > **23½ → Tilt**
 
@@ -1655,9 +1471,9 @@ Read this repeatedly:
 
 > **Transform → Earthquakes**
 
-> **Himalaya → C-C**
+> **Himalaya → C–C**
 
-> **Andes → O-C**
+> **Andes → O–C**
 
 > **Hawaii → Hotspot**
 
@@ -1665,58 +1481,206 @@ Read this repeatedly:
 
 > **Deccan → Basalt**
 
----
+</div>
 
-## 🔥 Must Ratta — Master Block
+## Must Ratta — Master Block {#must-ratta-master-block}
 
-### Earth
+<div class="fact-lock-review" markdown="1">
 
-* Rotation → West to East
-* Revolution → West to East
-* Axis → 23½°
-* Perihelion → January
-* Aphelion → July
-* Seasons → axial tilt + revolution
+**Earth** — Rotation W→E · Revolution W→E · Axis 23½° · Perihelion Jan · Aphelion Jul · Seasons = tilt + revolution
 
-### Latitude/Longitude
+**Latitude/Longitude** — Equator 0° · Tropic Cancer 23½°N · Tropic Capricorn 23½°S · Arctic 66½°N · Antarctic 66½°S · Prime Meridian 0° · 1° long = 4 min · IST 82°30′E Mirzapur
 
-* Equator → 0°
-* Tropic Cancer → 23½°N
-* Tropic Capricorn → 23½°S
-* Arctic Circle → 66½°N
-* Antarctic Circle → 66½°S
-* Prime Meridian → 0°
-* 1° longitude → 4 minutes
-* IST → 82°30′E → Mirzapur
+**Interior** — Moho Crust/Mantle · Gutenberg Mantle/Core · Lehmann Outer/Inner Core · Outer core liquid · Inner core solid · Lithosphere rigid · Asthenosphere ductile
 
-### Interior
+**Rocks** — Granite intrusive · Basalt extrusive · Limestone→Marble · Shale→Slate · Sandstone→Quartzite · Granite→Gneiss · Fossils sedimentary
 
-* Moho → Crust/Mantle
-* Gutenberg → Mantle/Core
-* Lehmann → Outer/Inner Core
-* Outer core → Liquid
-* Inner core → Solid
-* Lithosphere → Rigid
-* Asthenosphere → Ductile
+**Plate tectonics** — Wegener drift · Hess sea-floor spreading · Divergent new crust · Convergent subduction/collision · Transform neither create nor destroy · Himalayas C–C · Andes O–C · San Andreas transform · Hawaii hotspot
 
-### Rocks
+</div>
 
-* Granite → Intrusive
-* Basalt → Extrusive
-* Limestone → Marble
-* Shale → Slate
-* Sandstone → Quartzite
-* Granite → Gneiss
-* Fossils → Sedimentary
+## PYQ Connection {#pyq-connection}
 
-### Plate tectonics
+!!! prelims "High-value formats"
+    1. **Match the following** — discontinuity, rock, mountain, volcano.
+    2. **Statement-based** — Earth movements and seasons.
+    3. **Assertion–Reason** — plate tectonics / earthquakes.
+    4. **Location association** — volcano, fault, mountain.
+    5. **Conceptual elimination** — P vs S waves.
+    6. **Numerical factual** — longitude / time.
+    7. **Sequence / order** — Earth's internal layers.
+    8. **Cause–effect** — plate movement → landform.
+    9. **Rock association** — parent rock → metamorphic rock.
+    10. **Latitude association** — tropics / polar circles.
 
-* Wegener → Continental Drift
-* Hess → Sea-floor spreading
-* Divergent → New crust
-* Convergent → Destruction/subduction or collision
-* Transform → Neither creation nor destruction
-* Himalayas → C-C
-* Andes → O-C
-* San Andreas → Transform
-* Hawaii → Hotspot
+## Self Test — 20 MCQs {#self-test-20-mcqs}
+
+**Q1.** The angle between Earth's axis and the perpendicular to its orbital plane is:
+
+A. 66½°
+B. 23½°
+C. 90°
+D. 45°
+
+**Q2.** Which movement of Earth primarily causes day and night?
+
+A. Revolution
+B. Rotation
+C. Precession
+D. Nutation
+
+**Q3.** The Tropic of Cancer is located at:
+
+A. 23½°S
+B. 66½°N
+C. 23½°N
+D. 0°
+
+**Q4.** If two places differ by 20° longitude, their approximate local-time difference is:
+
+A. 20 minutes
+B. 40 minutes
+C. 80 minutes
+D. 120 minutes
+
+**Q5.** Indian Standard Meridian is:
+
+A. 75°E
+B. 82°30′E
+C. 90°E
+D. 82°E
+
+**Q6.** The Moho discontinuity separates:
+
+A. Mantle and core
+B. Outer and inner core
+C. Crust and mantle
+D. Lithosphere and asthenosphere
+
+**Q7.** Which seismic wave cannot travel through liquids?
+
+A. P-wave
+B. S-wave
+C. Surface wave
+D. Rayleigh wave
+
+**Q8.** Which is an intrusive igneous rock?
+
+A. Basalt
+B. Pumice
+C. Granite
+D. Obsidian
+
+**Q9.** Limestone changes into which metamorphic rock?
+
+A. Slate
+B. Marble
+C. Gneiss
+D. Quartzite
+
+**Q10.** Who proposed the continental drift theory?
+
+A. Harry Hess
+B. Alfred Wegener
+C. Arthur Holmes
+D. Charles Lyell
+
+**Q11.** Sea-floor spreading is strongly associated with:
+
+A. Mid-ocean ridges
+B. Ocean trenches only
+C. Transform faults only
+D. Fold mountains
+
+**Q12.** The Himalayas primarily resulted from:
+
+A. Oceanic–oceanic convergence
+B. Oceanic–continental convergence
+C. Continental–continental convergence
+D. Transform movement
+
+**Q13.** San Andreas Fault represents:
+
+A. Divergent boundary
+B. Convergent boundary
+C. Transform boundary
+D. Subduction boundary
+
+**Q14.** Hawaii is best associated with:
+
+A. Continental collision
+B. Hotspot volcanism
+C. Mid-ocean ridge
+D. Transform fault
+
+**Q15.** Barren Island is associated with:
+
+A. Active volcanism
+B. Fold mountains
+C. Coral reef formation only
+D. Rift valley
+
+**Q16.** Which statement is correct?
+
+A. Lithosphere consists only of crust.
+B. Asthenosphere is more rigid than lithosphere.
+C. Lithosphere includes crust and uppermost rigid mantle.
+D. Asthenosphere is the Earth's outermost layer.
+
+**Q17.** The point on Earth's surface directly above an earthquake's focus is called:
+
+A. Focus
+B. Epicentre
+C. Fault
+D. Seismic gap
+
+**Q18.** Perihelion refers to:
+
+A. Earth's maximum distance from Sun
+B. Earth's minimum distance from Sun
+C. Earth's maximum speed of rotation
+D. Earth's minimum axial tilt
+
+**Q19.** Which one is correctly matched?
+
+A. Shale — Marble
+B. Limestone — Slate
+C. Sandstone — Quartzite
+D. Granite — Marble
+
+**Q20.** Which plate boundary is generally associated with the formation of new crust?
+
+A. Transform
+B. Convergent
+C. Divergent
+D. Collision
+
+## Answer Key {#answer-key}
+
+| Q | Ans | Core fact |
+| ---: | :---: | --- |
+| 1 | **B** | Axis tilt = 23½° |
+| 2 | **B** | Rotation → day/night |
+| 3 | **C** | Tropic Cancer = 23½°N |
+| 4 | **C** | 20 × 4 = 80 min |
+| 5 | **B** | 82°30′E |
+| 6 | **C** | Moho = crust/mantle |
+| 7 | **B** | S-waves don't travel through liquids |
+| 8 | **C** | Granite = intrusive |
+| 9 | **B** | Limestone → marble |
+| 10 | **B** | Wegener |
+| 11 | **A** | Mid-ocean ridge |
+| 12 | **C** | Continental–continental |
+| 13 | **C** | Transform |
+| 14 | **B** | Hotspot |
+| 15 | **A** | Active volcano |
+| 16 | **C** | Crust + uppermost mantle |
+| 17 | **B** | Epicentre |
+| 18 | **B** | Closest to Sun |
+| 19 | **C** | Sandstone → quartzite |
+| 20 | **C** | Divergent |
+
+!!! revise "Final revision order"
+    **Latitude/Longitude → Earth movements → Interior → Rocks → Plates → Earthquakes → Volcanoes → Landforms.**
+
+</div>
