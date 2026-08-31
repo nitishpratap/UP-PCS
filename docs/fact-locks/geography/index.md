@@ -12,8 +12,8 @@ hide:
 [**Part 1 — Fundamentals of Physical Geography**
 <span>Earth, lat/long, interior, rocks, plates, volcanoes, earthquakes · pairs · traps · 20 MCQs.</span>](01_Physical_Geography_Fundamentals.md){ .study-card }
 
-[**Geomorphology**
-<span>Part 2 — paste your dump to fill.</span>](02_Geomorphology.md){ .study-card }
+[**Part 2 — Geomorphology**
+<span>Weathering, fluvial/glacial/aeolian/coastal/karst landforms, drainage, Indian locks · MUST RATTA · 1-minute sheet · 110 sections.</span>](02_Geomorphology.md){ .study-card }
 
 [**Climatology**
 <span>Part 3 — atmosphere, belts, winds, jets, clouds, cyclones, ENSO, IOD, monsoon · Final 50.</span>](03_Climatology.md){ .study-card }
