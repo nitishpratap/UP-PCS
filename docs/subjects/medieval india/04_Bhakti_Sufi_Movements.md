@@ -1,10 +1,10 @@
 # Topic 4 — Bhakti & Sufi Movements
-### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥45)
+### ★ UPPCS Revision Sheet — Lucent / PW style (one home per fact · no repetition · Practice ≥48)
 
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Bhakti Movement | Major Bhakti Saints | Chronology of Bhakti Saints | Indian Saint Tradition | Guru-Shishya Tradition | Tulsidas | Bhakti Period Women Poets | Vedanta Philosophy | Sufi Saints | Nath Sect | Ramananda | Kabir | Guru Nanak | Chaitanya Mahaprabhu | Mirabai | Surdas | Ravidas | Namdev | Dadu Dayal | Nizamuddin Auliya | Moinuddin Chishti | Chishti Order | Suhrawardi Order | Qadiri Order | Naqshbandi Order
+Bhakti Movement | Major Bhakti Saints | Chronology of Bhakti Saints | Indian Saint Tradition | Guru-Shishya Tradition | Tulsidas | Bhakti Period Women Poets | Vedanta Philosophy | Sufi Saints | Nath Sect | Ramananda | Kabir | Guru Nanak | Chaitanya Mahaprabhu | Mirabai | Surdas | Ravidas | Namdev | Dadu Dayal | Basavanna | Varkari Tradition | Jayadeva | Shankaradeva | Nizamuddin Auliya | Moinuddin Chishti | Chishti Order | Suhrawardi Order | Qadiri Order | Naqshbandi Order | Baba Farid
 
 </details>
 
@@ -21,6 +21,7 @@ Bhakti Movement | Major Bhakti Saints | Chronology of Bhakti Saints | Indian Sai
 BHAKTI CORE
 South origins: Nayanars (Shiva) + Alvars (Vishnu) — 7th–12th c. Tamil
 North: Namdev → Ramananda → Kabir → Nanak → Chaitanya → Surdas → Tulsidas
+Regional: Basavanna (Karnataka) | Varkari/Jnaneshwar (Maharashtra) | Jayadeva (Odisha) | Shankaradeva (Assam) | Narsi Mehta (Gujarat)
 Two streams: Saguna (personal deity) vs Nirguna (formless Ram/Hari/Allah)
 
 GURU–SHISHYA (★★★ 2025 Q12 = C 2-3-4-1)
@@ -32,7 +33,8 @@ Namdev (~1270–1350) → Kabir (~15th c.) → Nanak (1469–1539) → Chaitanya
 Later: Surdas (1478–1581) → Tulsidas (1532–1623) → Dadu Dayal (1544–1603)
 
 SUFI ORDERS
-Chishti — Ajmer/Delhi; poverty; sama; Moinuddin → Kaki → Farid → Nizamuddin
+Chishti — Ajmer/Delhi; poverty; sama; ziyarat/barakat; Moinuddin → Kaki → Farid → Nizamuddin → Nasiruddin Chiragh
+Five great Chishti shrines: Ajmer, Delhi (Nizamuddin), Ajodhan (Farid), Nagaur (Hamiduddin), Pakpattan
 Suhrawardi — Multan; accepts state wealth
 Qadiri — Abdul Qadir Jilani tradition
 Naqshbandi — Ahmad Sirhindi; orthodox; opposed syncretism
@@ -61,27 +63,125 @@ Tulsidas — Awadhi UP | Surdas — Braj (Mathura-Vrindavan) | Gorakhnath — Go
 | Advaita vs Vishishtadvaita | Shankara (world=maya) vs Ramanuja (soul distinct yet united) | अद्वैत / विशिष्टाद्वैत |
 | Surdas vs Tulsidas | Braj Krishna (Sursagar) vs Awadhi Rama (Ramcharitmanas) | सूरदास / तुलसीदास |
 | Mirabai vs Andal | Rajasthan Krishna devotee vs Tamil Alvar woman saint | मीराबाई / आंडाल |
+| Basavanna vs Ramanuja | Karnataka Lingayat reform (anti-caste, Ishtalinga) vs Tamil Vishishtadvaita philosopher | बसवन्ना / रामानुज |
+| Jnaneshwar vs Namdev | Varkari founder (Jnaneshwari Gita) vs earlier Vithoba saint in same line | ज्ञानेश्वर / नामदेव |
+| Baba Farid vs Kabir | Chishti saint (Ajodhan); verses in Adi Granth vs nirguna Kashi weaver-saint | बाबा फरीद / कबीर |
 | Pir vs Guru | Sufi spiritual master (silsilah) vs Bhakti preceptor | पीर / गुरु |
 
 ---
 
 ## 4.1 Bhakti Movement — Origins
 
-- The Bhakti idea has roots in the **Shvetashvatara Upanishad** and **Bhagavad Gita** (Chapter 12 on "Bhakti Yoga"), but the mass movement crystallised in **7th-century Tamil Nadu**.
-- The **63 Nayanars** (Shaiva devotees) composed **Tevaram**.
-- The **12 Alvars** (Vaishnava devotees) composed **Divya Prabandham**, a collection of about **4000 hymns** often called the "Tamil Veda".
-- **Appar**, **Sundarar**, and **Sambandar** are the three chief Nayanar hymnists whose works form Tevaram.
-- The movement spread north through **Ramanuja (11th century)** and then **Ramananda (15th century)**, who simplified Vishishtadvaita for Gangetic masses.
-- Two main streams emerged: **Saguna** bhakti worships a personal deity with form, such as Krishna or Rama, as in Surdas, Tulsidas, and Mirabai.
-- **Nirguna** bhakti worships a formless God, as in Kabir, Nanak, and Dadu Dayal.
-- Bhakti sants rejected idol worship, caste hierarchy, pilgrimage monopoly, and formal puja or namaz as barriers to God.
-- They composed in the **vernacular** — **Marathi, Hindi, Awadhi, Braj, Punjabi, and Bengali** — bypassing the Sanskrit elite and reaching peasants.
-- The movement rested on a decentralised **sant parampara** of local gurus, with no single church or institution.
-- Its **social impact** challenged the **Brahman monopoly** on salvation and gave women and lower castes a voice in religious discourse.
-- Bhakti-Sufi **synthesis** contributed to **composite culture** and influenced the atmosphere of **Akbar's sulh-i-kul** and **Din-i-Ilahi**.
-- In exams, remember that the Bhakti Movement was **not** a reform against Islam; it was **intra-Hindu reform** against ritualism that shared social space with Sufism.
+**Personal devotion to God** | Vernacular hymns | Social equality | South (**7th c.**) → North (**14th–17th c.**)
 
-> **Exam note:** Bhakti did not start with Kabir; the **Alvars and Nayanars** are the earliest phase, and the Tamil phase precedes the Hindi phase by more than 400 years.
+### What is Bhakti?
+
+- **Bhakti** means personal, loving devotion to God — not only ritual, sacrifice, or priestly mediation.
+- The idea has early roots in the **Shvetashvatara Upanishad** and **Bhagavad Gita** (Chapter **12** on **Bhakti Yoga**).
+- As a **mass movement**, Bhakti crystallised in **7th-century Tamil Nadu** and later spread north through saints and gurus.
+
+### Why did Bhakti grow? (exam context)
+
+| Factor | How it mattered |
+|--------|-----------------|
+| **Turkish conquests** | Political uncertainty weakened old temple–court patronage networks in parts of the north. |
+| **Sanskrit monopoly** | Ordinary people could not access Brahman-controlled Sanskrit ritual religion. |
+| **Vernacular need** | Saints sang in **Tamil, Marathi, Hindi, Awadhi, Braj, Punjabi, Bengali** and reached peasants and artisans. |
+| **Sufi parallel** | Chishti **sama**, equality, and love-of-God ideas created a shared moral atmosphere with Bhakti. |
+| **Social protest** | Many sants challenged **jati barriers**, costly pilgrimage, and priestly control over salvation. |
+
+> **Exam lock:** Bhakti was **not** a movement against Islam. It was mainly **intra-Hindu** reform against empty ritualism, though it shared social space with Sufism.
+
+### Phase 1 — South India (7th–12th century)
+
+**Tamil land** | **Nayanars (Shiva)** + **Alvars (Vishnu)** | Temple-centred hymn tradition
+
+| Group | Deity | Number | Main text | Exam lock |
+|-------|-------|--------|-----------|-----------|
+| **Nayanars** | **Shiva** | **63** saints | **Tevaram** hymns | Shaiva Bhakti in Tamil Nadu |
+| **Alvars** | **Vishnu** | **12** saints | **Divya Prabandham** (~**4000** hymns) | Called the **"Tamil Veda"** |
+
+- **Appar**, **Sundarar**, and **Sambandar** are the three chief **Nayanar** hymnists whose works form the core of **Tevaram**.
+- **Andal** was the only woman among the **12 Alvars** and is famous for her Vishnu hymns.
+- **Periyalvar** and **Nammalvar** are among the most celebrated Alvar poets in Tamil Vaishnava tradition.
+- **Appar** (a Nayanar) questioned the value of **gotra**, **kula**, and law-books when they blocked devotion to Shiva.
+- **Tondaradippodi** (a Brahmana Alvar) praised servants of Vishnu even when they were born as outcastes — an early anti-caste devotional voice.
+- South Bhakti was closely tied to **temple worship**, pilgrimage, and local deity cults — this is the early **saguna** (formed-deity) stream.
+- In **12th-century Karnataka**, **Basavanna** led the **Virashaiva/Lingayat** reform — a radical Shaiva Bhakti strand distinct from temple Brahmanism (full card in §4.17).
+
+### Phase 2 — Philosophical bridge (9th–12th century)
+
+**Shankara → Ramanuja → Madhva** | Vedanta schools prepare ground for northward Bhakti
+
+| Thinker | School | One-line lock |
+|---------|--------|---------------|
+| **Shankara** | **Advaita** (non-dualism) | World is **maya**; Brahman alone is real — intellectual backdrop, not mass Bhakti saint. |
+| **Ramanuja** | **Vishishtadvaita** (qualified non-dualism) | God, soul, and world are related; **personal Vishnu bhakti** is the path. |
+| **Madhva** | **Dvaita** (dualism) | Soul and God are eternally distinct. |
+
+- **Ramanuja (11th century)** made Vishnu bhakti philosophically respectable and opened temple traditions to wider devotion in the south.
+- His ideas later fed **Ramananda** in the north, who simplified the message for Gangetic masses.
+
+### Phase 3 — North Indian sant tradition (14th–17th century)
+
+**Sant parampara** | Local **guru–shishya** line | No single church or central institution
+
+| Stream | God idea | Representative saints | Key trait |
+|--------|----------|----------------------|-----------|
+| **Saguna** | Personal God **with form** — Rama, Krishna, Vithoba | **Surdas**, **Tulsidas**, **Mirabai**, **Namdev** | Image, kirtan, emotional love-bhakti |
+| **Nirguna** | **Formless** one God — Ram/Hari/Allah as names of the same absolute | **Kabir**, **Nanak**, **Ravidas**, **Dadu Dayal** | Rejected idol-centred ritual for many practices |
+
+- **Ramananda (14th–15th century)** settled in **Banaras** and preached **Rama bhakti** open to **all castes and women**.
+- He followed **Ramanuja's** broad Vishishtadvaita line but used **Hindi**, not Sanskrit, and reached artisans and peasants.
+- **Namdev (~1270–1350)** in Maharashtra was an early north Indian voice devoted to **Vithoba/Krishna** at **Pandharpur**.
+- The usual northward exam chronology runs: **Namdev → Kabir → Nanak → Chaitanya → Surdas → Tulsidas → Dadu Dayal**.
+
+### What Bhakti saints rejected and accepted
+
+| Rejected | Accepted |
+|----------|----------|
+| **Caste monopoly** on worship and salvation | **Guru** (personal preceptor) |
+| **Sanskrit-only** religion for the elite | **Vernacular** song and sermon |
+| Empty **ritualism** without inner love | **Honest livelihood** (weaver, cobbler, farmer saints) |
+| Costly **pilgrimage monopoly** (for many nirguna sants) | **Sangat** / congregation bhajan |
+| **Brahman** control as sole gate to moksha | **Women** and lower castes as devotees and poets |
+
+- **Kabir** and **Nanak** sharply rejected **idol worship** and caste markers like the **janeu**.
+- **Surdas**, **Tulsidas**, and **Mirabai** belonged to the **saguna** stream and used **Krishna/Rama** devotion with formed deity imagery — do not say "all Bhakti rejected idols."
+
+### Women in early and medieval Bhakti
+
+- **Andal** was the famous woman saint among the **Alvars** in Tamil Nadu.
+- **Akkamahadevi** was a **12th-century** Shiva devotee in Karnataka associated with the **Virashaiva** (Lingayat) tradition.
+- **Mirabai** later became the best-known woman Krishna devotee in north India.
+- Bhakti gave **women and lower castes** a public voice through hymn, congregation, and guru lineages.
+
+### Social and cultural impact
+
+- Bhakti challenged the **Brahman monopoly** on scripture, ritual, and salvation.
+- It created a **decentralised sant parampara** — many local gurus, not one papal-style hierarchy.
+- **Bhakti–Sufi synthesis** helped shape **composite culture** in north India.
+- Historians link this atmosphere to later ideas of tolerance such as **Akbar's sulh-i-kul** (do not equate Bhakti with **Din-i-Ilahi** — that was Akbar's own project).
+
+### Origins — quick learn chain
+
+```
+Upanishads / Gita (idea)
+    ↓
+Tamil Nadu: 63 Nayanars + 12 Alvars (7th–12th c.)
+    ↓
+Basavanna / Lingayat (12th c. Karnataka) + Jayadeva / Gita Govinda
+    ↓
+Ramanuja (11th c.) — Vishishtadvaita bridge
+    ↓
+Jnaneshwar / Varkari (13th c. Maharashtra) → Namdev
+    ↓
+Ramananda (14th–15th c.) — Rama bhakti to all castes, Banaras
+    ↓
+North sants: Namdev → Kabir / Ravidas → Nanak → Chaitanya → Surdas → Tulsidas → Dadu
+```
+
+> **Exam note:** Bhakti did **not** start with Kabir. The **Alvars and Nayanars** are the earliest mass phase, and the Tamil chapter precedes the Hindi heartland by **more than 400 years**. In **2025 Q74**, the lock order is **Namdev → Kabir → Nanak → Chaitanya** = **C (3-4-1-2)**.
 
 ---
 
@@ -99,6 +199,10 @@ Tulsidas — Awadhi UP | Surdas — Braj (Mathura-Vrindavan) | Gorakhnath — Go
 | **Tulsidas** | Awadh/UP | Awadhi | Rama saguna | — | **Ramcharitmanas** ~1574 |
 | **Mirabai** | Mewar | Rajasthani/Hindi | Krishna | — | Royal devotee |
 | **Dadu Dayal** | Rajasthan | Hindi | Nirguna | — | Dadu Panth; Nipakhi path |
+| **Basavanna** | Karnataka | Kannada | Virashaiva/Lingayat | — | Anubhava Mantapa; Vachanas; Ishtalinga |
+| **Jnaneshwar** | Maharashtra | Marathi | Varkari/Vithoba | Nivruttinath | **Jnaneshwari** (Gita commentary) |
+| **Jayadeva** | Odisha/Puri | Sanskrit | Krishna (Radha) | — | **Gita Govinda** (~12th c.) |
+| **Shankaradeva** | Assam | Assamese | Eka Sarana Krishna | — | **Kirtana-ghosha**; satra centres |
 
 ---
 
@@ -107,6 +211,9 @@ Tulsidas — Awadhi UP | Surdas — Braj (Mathura-Vrindavan) | Gorakhnath — Go
 | Order | Saint | Period |
 |-------|-------|--------|
 | 1 | Alvars / Nayanars | 7th–12th c. |
+| 1b | **Basavanna** / Lingayat | 12th c. |
+| 1c | **Jayadeva** (Gita Govinda) | ~12th c. |
+| 1d | **Jnaneshwar** (Varkari) | 13th c. |
 | 2 | **Namdev** | ~1270–1350 |
 | 3 | Ramananda | 14th–15th c. |
 | 4 | **Kabir** | ~1398–1518 |
@@ -236,6 +343,7 @@ D. A false, R true
 **Dates:** **1486–1533** | **Birth name:** Vishvambhar Mishra | **Place:** **Nabadwip**, Bengal | **Tradition:** **Gaudiya Vaishnavism**
 
 - Chaitanya was also called **Gauranga** (golden-complexioned) and **Mahaprabhu** (great master).
+- His guru was **Keshav Bharati**, from whom he received **sanyasa** initiation.
 - He used **sankirtan** (congregational Krishna chanting with mridanga and kartals) to democratise devotion.
 - His **Radha–Krishna** love symbolism drew on the **Bhagavata Purana**, and his philosophy was **achintya-bhedabheda** (inconceivable difference-in-unity).
 - He took **sanyasa** at age 24 and settled at **Puri** (Jagannath temple) for the rest of his life.
@@ -306,6 +414,9 @@ D. A false, R true
 | **Nimbarka** (13th c.) | **Dvaitadvaita** | Simultaneous unity and difference |
 | **Vallabhacharya** (16th c.) | **Shuddhadvaita** | Pure non-dual Krishna bhakti; pushti marg |
 
+- **Vallabhacharya (1479–1531)** founded **Pushti Marg** (path of grace) centred on **Krishna** as **Srinathji** at **Nathdwara** (later Rajasthan).
+- **Pushti** means divine grace — salvation comes through Krishna's favour, not ritual merit alone.
+- Vallabhacharya's **Ashtachap** were eight poet-disciples including **Surdas**; **Vitthalnath** (his son) continued the line.
 - In **2022 Q33**, Ramanuja matches code 4, Madhva code 3, Nimbarka code 2, and Vallabha code 1, giving answer **D (4-3-2-1)**.
 - **Ramananda** popularised **Ramanuja-related** ideas in the north and bridged southern philosophy and northern bhakti.
 - **Vallabhacharya** was guru to **Surdas**, a link tested in both 2025 Q12 and 2022 Q33.
@@ -316,7 +427,7 @@ D. A false, R true
 
 ---
 
-## 4.12 Nath Sect (Nathpanthis)
+## 4.12 Nath Sect (Nathpanthis) & Related Ascetic Groups
 
 - **Matsyendranath** is regarded as the founder or first Nath, and **Gorakhnath** was the chief systematiser in the 11th–12th century.
 - Tradition speaks of **Nine Naths** (Nava Nath), and the sect is also called **Kanphata Yogis** because of the split-ear earring initiation.
@@ -325,6 +436,14 @@ D. A false, R true
 - The Nath anti-caste strand parallels bhakti egalitarianism, but the Nath path is **yogic ascetic**, not devotional kirtan or poetry.
 - **Gorakhpur (UP)** is strongly associated with the Gorakhnath cult, and **Gorakhnath Math** is a major centre.
 - Nathpanthis influenced **Kabir** (anti-ritual vocabulary) and **Sufi circles** (breathing exercises).
+
+### Jogis, Siddhas & Nathpanthis (NCERT angle)
+
+- NCERT groups **Nathpanthis**, **Jogis**, and **Siddhas** as north Indian ascetic communities that grew from craft and peasant backgrounds.
+- **Jogis** (yogis) often wandered with alms-bowls and practised breath-control; **Siddhas** claimed perfected yogic powers.
+- These groups overlapped with Nath identity but were not identical — exam papers may use **"Nathpanthis"** as the formal sect name.
+- Their path stressed **body discipline**, not **saguna Krishna/Rama kirtan** — do not classify them as mainstream Bhakti poets.
+
 - In **2019 Q14**, both statements are true: Nathpanthis practised Hath Yog, and Sufis in the Nizamuddin circle adopted yogic breathing, giving answer **C (Both)**.
 - Nathpanthis differ from mainstream Bhakti because their focus is **body mastery and liberation through yoga**, not emotional devotion.
 
@@ -342,6 +461,8 @@ D. A false, R true
 - **Wahdat-ul-Shuhud** (Ahmad Sirhindi) holds that God is separate from creation.
 - The **pir–murid** bond means the disciple owes loyalty and service, while the pir gives spiritual instruction and **wazifa** (meditation formula).
 - **Sama** is a musical devotional assembly and a **Chishti** hallmark (2018 Q90); it involves dhikr, qawwali, and ecstasy.
+- **Ziyarat** means pilgrimage to a **dargah** (Sufi tomb) to seek the saint's **barakat** (spiritual grace).
+- **Al-Hujwiri** (Data Ganj Bakhsh) wrote **Kashf-ul-Mahjub** at **Lahore** — among the earliest major Sufi texts composed in the Indian subcontinent.
 - **Al-Ghazzali** (d. 1112) reconciled Sufism with orthodox Islam, and his **Ihya-ul-Ulum** legitimised mysticism.
 - Major Indian saints include **Moinuddin Chishti** (Ajmer), **Nizamuddin Auliya** (Delhi), **Baba Farid** (Ajodhan), and **Bahauddin Zakariya** (Multan).
 - **Rabia of Basra** (8th century) was a pioneer woman Sufi who introduced the concept of **selfless divine love** without fear of hell or hope of heaven.
@@ -359,6 +480,25 @@ D. A false, R true
 - The **Ajmer dargah (Urs festival)** draws Hindu and Muslim pilgrims and symbolises composite culture.
 - The Chishti chain runs from Moinuddin (Ajmer) to **Qutbuddin Bakhtiyar Kaki** (Delhi, Mehrauli), then **Baba Farid** (Ajodhan/Pakpattan), then **Nizamuddin Auliya** (Delhi), and finally **Nasiruddin Chiragh-i-Delhi** (last great Delhi Chishti).
 - After Nasiruddin, the Chishti silsilah **decentralised** into provincial branches in Gulbarga, Bijapur, and Bengal.
+
+### Qutbuddin Bakhtiyar Kaki (Delhi)
+
+- **Bakhtiyar Kaki** was Moinuddin's chief disciple who established the Chishti presence in **Delhi** (~Mehrauli).
+- Tradition holds that Sultan **Iltutmish** dedicated the **Qutub Minar** to this saint — a lock linking Delhi Sultanate architecture to Chishti devotion.
+- His dargah at **Mehrauli** remains a major pilgrimage site.
+
+### Baba Farid (Ganj-i-Shakar)
+
+- **Fariduddin Masud** (~1173–1266) is called **Baba Farid** or **Ganj-i-Shakar** (treasury of sugar) for his sweet speech.
+- He worked at **Ajodhan** (later **Pakpattan**, now Pakistan) and popularised the Chishti order in **Punjab and Haryana**.
+- He composed in **Punjabi**; **134 of his verses** appear in the **Guru Granth Sahib** — a key Bhakti–Sufi syncretic lock.
+- **Nizamuddin Auliya** was his most famous disciple.
+
+### Hamiduddin Nagaur & the five great Chishti shrines
+
+- **Sheikh Hamiduddin of Nagaur** (Rajasthan) was a disciple of Moinuddin and wrote early **Hindawi** renderings of Persian mystical poetry.
+- Medieval pilgrims revered **five great Chishti saints**: **Moinuddin** (Ajmer), **Bakhtiyar Kaki** (Delhi), **Baba Farid** (Ajodhan), **Hamiduddin** (Nagaur), and **Nizamuddin** (Delhi).
+- **Ziyarat** to these **dargahs** cut across Hindu–Muslim lines and symbolised **composite culture**.
 
 > **Exam note:** **Moinuddin** is linked to **Ajmer**, and **Nizamuddin** to **Delhi**, never Multan (2020 Q40 trap). Multan belongs to the **Suhrawardi** order.
 
@@ -404,6 +544,83 @@ D. A false, R true
 
 ---
 
+## 4.17 Regional Bhakti Traditions (NCERT / coaching map)
+
+Standard UPPCS syllabi test regional strands beyond the Gangetic "sant" line. Each block below is one exam-ready card.
+
+### Karnataka — Basavanna & Virashaiva/Lingayat movement
+
+**Period:** **12th century** | **Place:** **Basavakalyan** (Kalyani Chalukya / Kalachuri court) | **Patron context:** King **Bijjala II**
+
+- **Basavanna** (Basaveshwara) was minister, philosopher, and social reformer who led the **Virashaiva/Lingayat** movement in Karnataka.
+- Followers wear **Ishtalinga** (personal Shiva linga) on the body — direct devotion without Brahman priest mediation.
+- He founded **Anubhava Mantapa** at Basavakalyan — a democratic forum where saints of all castes debated spirituality; **Allama Prabhu** presided.
+- **Akkamahadevi** was a woman saint of this line who renounced marriage and composed **Vachanas** to Shiva.
+- Core ideas: **Kayaka** (honest work as worship) and **Dasoha** (sharing surplus with society).
+- **Vachana** literature in **Kannada** spread anti-caste, anti-ritual Shaiva Bhakti — distinct from Tamil temple Alvar/Nayanar tradition.
+- The movement faced backlash; many **Sharanas** (devotees) were persecuted after court conflict — but Lingayat identity survived as a major reform strand.
+
+### Maharashtra — Varkari sampradaya (Vithoba of Pandharpur)
+
+| Saint | Period | Key work / trait |
+|-------|--------|------------------|
+| **Jnaneshwar** (Jnanadeva) | 13th c. | **Jnaneshwari** — Marathi commentary on the **Bhagavad Gita** in **ovi** metre |
+| **Namdev** | ~1270–1350 | Early Varkari; **61 hymns** in Guru Granth Sahib |
+| **Eknath** | 16th c. | Revived Varkari tradition; commentary on Jnaneshwari |
+| **Tukaram** | 17th c. | **Abhangas** to Vithoba; peak of Marathi popular Bhakti |
+
+- **Varkari** means pilgrim — devotees walk to **Pandharpur** for the **Ashadhi/Kartiki wari** (annual pilgrimage).
+- The deity is **Vithoba/Viththal** (Krishna standing on a brick) — **saguna** Krishna Bhakti in the Deccan.
+- **Jnaneshwar** was initiated by his elder brother **Nivruttinath** and made the Gita accessible in Marathi for farmers and artisans.
+- **Tukaram** used simple **abhangas** and attacked empty ritual — often paired with Namdev in chronology traps (Namdev is earlier).
+
+### Odisha/Bengal — Jayadeva & Gita Govinda
+
+- **Jayadeva** (~12th century) composed **Gita Govinda** in **Sanskrit** at **Puri** (Odisha court tradition).
+- The text celebrates **Radha–Krishna** love in **madhurya rasa** and deeply influenced later **Bengal Vaishnavism** and **Chaitanya's** Krishna cult.
+- **Gita Govinda** is **not** the Bhagavad Gita — a common exam swap trap.
+
+### Assam — Shankaradeva
+
+- **Shankaradeva** (15th–16th century) spread **Vaishnava Bhakti** in **Assam** through **Eka Sarana** (one-refuge) Krishna devotion.
+- He translated and adapted the **Bhagavata** story in **Assamese** (**Kirtana-ghosha**) and founded **satra** (monastic–cultural centres).
+- His **nam-kirtan** congregations paralleled north Indian sankirtan but used Assamese language and local performance forms.
+
+### Gujarat — Narsi Mehta
+
+- **Narsi Mehta** (~15th century, Junagadh) was a Krishna Bhakti poet who composed **bhajans** in **Gujarati**.
+- His **"Vaishnav jan to"** hymn (praising a true Vaishnava's compassion) later became globally known through Gandhi's use.
+- He belonged to the **saguna Krishna** stream contemporary with **Narsinh Mehta**-era Gujarat Bhakti milieu.
+
+---
+
+## 4.18 Bhakti–Sufi Synthesis & Composite Culture
+
+- Bhakti and Sufism were **separate religious paths**, but in north India they shared **social space**, **vernacular song**, and **egalitarian ethics**.
+- Historians describe this as the meeting of **"great traditions"** (Sanskrit/Persian elite religion) and **"little traditions"** (local deity cults, folk devotion).
+
+| Bridge | What it shows |
+|--------|----------------|
+| **Guru Granth Sahib** | Verses of **Kabir**, **Namdev**, **Ravidas**, and **Baba Farid** in one scripture |
+| **Kabir in Kashi** | Lived in a city of **temples, mosques, and Chishti influence**; used Ram and Allah as names of one God |
+| **Nizamuddin circle** | **Amir Khusrau's** qawwali and **yogic breathing** from Nath yogis |
+| **Chishti sama** | Musical ecstasy paralleled **bhajan/kirtan** congregations |
+| **Dargah ziyarat** | Hindu and Muslim pilgrims at **Ajmer** and **Delhi** shrines |
+
+- **Composite culture** does **not** mean all saints mixed doctrines — **Ahmad Sirhindi** and **Kabir** rejected syncretic ritual, while **Chishti hospices** practised open kitchens for all faiths.
+- **Akbar's sulh-i-kul** (universal peace) drew on this atmosphere but is **Mughal state policy**, not a Bhakti or Sufi sect teaching.
+
+### How historians study Bhakti–Sufi (sources lock)
+
+| Source type | Examples | Use |
+|-------------|----------|-----|
+| **Hagiography** | *Bhaktamal*, saint biographies | Ideals of saints — often idealised |
+| **Hymn compilations** | Tevaram, Divya Prabandham, Bijak, Adi Granth | Actual devotional language |
+| **Sufi malfuzat** | **Fawaid-ul-Fuad** (Nizamuddin conversations) | Teachings of Chishti masters |
+| **Inscriptions & travellers** | Dargah records, Ibn Battuta on khanqahs | Patronage and pilgrimage |
+
+---
+
 ## Consolidated Reference
 
 ### Bhakti chronology (single line)
@@ -427,6 +644,17 @@ D. A false, R true
 | Nizamuddin Auliya | **Delhi** | Chishti |
 | Bahauddin Zakariya | **Multan** | Suhrawardi |
 | Baba Farid | Ajodhan | Chishti |
+| Hamiduddin Nagaur | Nagaur | Chishti |
+| Nasiruddin Chiragh-i-Delhi | Delhi | Chishti (last great Delhi master) |
+
+### Regional Bhakti (quick locks)
+
+| Tradition | Founder / key saint | Lock |
+|-----------|---------------------|------|
+| Lingayat/Virashaiva | Basavanna | Ishtalinga, Kayaka, Anubhava Mantapa |
+| Varkari | Jnaneshwar → Namdev → Tukaram | Pandharpur wari, Vithoba |
+| Gita Govinda | Jayadeva | Radha–Krishna Sanskrit poetry (not Bhagavad Gita) |
+| Assam Vaishnavism | Shankaradeva | Satra, Kirtana-ghosha |
 
 ### Vedanta (2022 Q33 = D)
 
@@ -453,7 +681,7 @@ D. A false, R true
 
 ## Practice Zone — UPPCS Format Drill
 
-> **45 questions** · answers in `<details>`
+> **48 questions** · answers in `<details>`
 
 **Q1.** Consider the Bhakti Movement:
 
@@ -1342,6 +1570,69 @@ D. Nimbarka–Shuddhadvaita
 
 </details>
 
+**Q46.** Basavanna is best known for:
+
+A. Composing the Gita Govinda in Sanskrit |
+
+B. Founding Anubhava Mantapa and preaching Kayaka–Dasoha in Karnataka |
+
+C. Leading the Varkari pilgrimage to Pandharpur |
+
+D. Writing Jnaneshwari commentary on the Bhagavad Gita
+
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** **Basavanna** (12th c. Karnataka) founded **Anubhava Mantapa**, preached **Kayaka** (work as worship) and **Dasoha** (sharing wealth), and led the **Virashaiva/Lingayat** movement with **Ishtalinga** devotion.
+
+**Trap:** **Jayadeva** wrote **Gita Govinda** (A); **Jnaneshwar** wrote **Jnaneshwari** (D); **Namdev/Tukaram** belong to the **Varkari** line (C).
+
+</details>
+
+**Q47.** With reference to the Varkari tradition, consider:
+
+1. Jnaneshwar composed a Marathi commentary on the Bhagavad Gita.
+2. Devotees undertake pilgrimage to Pandharpur for Vithoba.
+
+A. Only 1 |
+
+B. Only 2 |
+
+C. Both |
+
+D. Neither
+
+<details><summary>Show answer</summary>
+
+**Ans: C**
+
+**Why:** Both statements are true — **Jnaneshwari** is the Marathi **Bhagavad Gita** commentary in **ovi** metre, and **Varkari** pilgrims walk to **Pandharpur** for **Vithoba/Viththal** (Krishna).
+
+**Trap:** Do not confuse **Jnaneshwari** (Gita commentary) with **Gita Govinda** (Jayadeva's Radha–Krishna poem).
+
+</details>
+
+**Q48.** Baba Farid is correctly described as:
+
+A. A Suhrawardi saint of Multan who rejected sama |
+
+B. A Chishti saint of Ajodhan whose Punjabi verses appear in the Guru Granth Sahib |
+
+C. The compiler of Fawaid-ul-Fuad |
+
+D. The disciple of Ahmad Sirhindi in the Naqshbandi order
+
+<details><summary>Show answer</summary>
+
+**Ans: B**
+
+**Why:** **Baba Farid** (Ganj-i-Shakar) headed the Chishti line at **Ajodhan/Pakpattan**; **134 of his Punjabi verses** are in the **Guru Granth Sahib**.
+
+**Trap:** **Fawaid-ul-Fuad** was compiled by **Amir Hasan Sijzi** about **Nizamuddin** (C); **Multan** belongs to **Bahauddin Zakariya** (Suhrawardi), not Farid (A).
+
+</details>
+
 ---
 
 ## Complete PYQ Bank (Topic 4)
@@ -1511,3 +1802,7 @@ Options: A.4-3-1-2 | B.3-4-2-1 | C.3-4-1-2 | D.4-3-2-1
 13. **Gangabai — Ganesh Dev Leela** is the wrong poetess–composition pair (2023 Q39).
 14. **Tulsidas** (16th century) came **after** Kabir and Nanak, so do not place him earlier.
 15. **Gorakhnath** belonged to the **Nathpanthi** tradition, not the Chishti order or mainstream Bhakti sants.
+16. **Gita Govinda** (Jayadeva) is **not** the **Bhagavad Gita** — do not swap Radha–Krishna poetry with Krishna's battlefield sermon.
+17. **Basavanna** belongs to **12th-century Karnataka Lingayat** reform — not north Indian Rama/Krishna sant line.
+18. **Baba Farid** was **Chishti (Ajodhan)**, not Suhrawardi (Multan); his verses are in the **Adi Granth** alongside Kabir and Namdev.
+19. **Jnaneshwari** is **Jnaneshwar's Marathi Gita commentary** — not Tulsidas's Awadhi Ramayana.
