@@ -36,4 +36,16 @@ hide:
 [**Part 9 — Indian Agriculture**
 <span>Kharif/Rabi/Zaid, crops, revolutions, irrigation, MSP/FCI/NABARD, horticulture, UP agriculture · Master 50 · One-page ratta · 180 sections.</span>](09_Indian_Agriculture.md){ .study-card }
 
+[**Part 10 — Indian Minerals & Energy**
+<span>Iron, coal, bauxite, copper, gold, petroleum, nuclear/solar/wind, steel plants, UP Sonbhadra · 60 facts · Mineral map · 137 sections.</span>](10_Indian_Minerals_and_Energy.md){ .study-card }
+
+[**Part 11 — Indian Industries & Economic Geography**
+<span>Textiles, steel, petrochemicals, IT/auto, corridors, ports, DFC, UP clusters · 100-fact ratta · 30-second sheet · 180 sections.</span>](11_Indian_Industries_and_Economic_Geography.md){ .study-card }
+
+[**Part 12 — Transport & Infrastructure Geography**
+<span>Roads, rail, DFC, waterways, ports, pipelines, Gati Shakti, expressways, UP infra · 50-fact ratta · One-page sheet · 212 sections.</span>](12_Transport_and_Infrastructure_Geography.md){ .study-card }
+
+[**Part 13 — World Map & Location Ratta**
+<span>Straits, canals, seas, rivers, deserts, islands, resources, geopolitics, memory chains · Top 50 · 45 sections.</span>](13_World_Map_and_Location_Ratta.md){ .study-card }
+
 </div>
