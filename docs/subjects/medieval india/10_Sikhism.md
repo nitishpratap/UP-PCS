@@ -95,10 +95,29 @@ Zafarnama to Aurangzeb | died 1708 Nanded (Hazur Sahib)
 
 ### PYQ — Mardana match (2025 Q12)
 
+**1. (UPPCS Prelims 2025, Q12)** Match List-I (Disciple) with List-II (Guru):
 
-- That order places Nanak after Namdev and Kabir, before Chaitanya.
-- Nanak settled a sangat at **Kartarpur**.
-- That community model later became the gurdwara pattern.
+| List-I | List-II |
+|--------|---------|
+| A. Kabir | 1. Guru Nanak Dev |
+| B. Amir Khusrau | 2. Swami Ramananda |
+| C. Surdas | 3. Nizamuddin Auliya |
+| D. Mardana | 4. Vallabhacharya |
+
+*Row order in the table is not the answer code.*
+
+A. 3 2 4 1 | B. 3 2 1 4 | C. 2 3 4 1 | D. 2 3 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (2-3-4-1)**
+
+**Locks:** A–2 Kabir–Ramananda | B–3 Amir Khusrau–Nizamuddin | C–4 Surdas–Vallabhacharya | D–1 Mardana–Guru Nanak Dev.
+
+**Trap:** **Mardana** was Nanak’s **disciple** and **rabab** companion, not his guru.
+
+</details>
 
 ---
 

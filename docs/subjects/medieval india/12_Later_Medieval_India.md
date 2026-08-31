@@ -204,7 +204,18 @@ D. Only 2
 
 ---
 
-## 12.7 British travellers
+## 12.7 Foreign travellers
+
+**Ibn Battuta** | Moroccan | **Rihla** | Muhammad bin Tughlaq court (~1334–41)
+
+- **Ibn Battuta** served about **eight years** at the Tughlaq court as **qazi** and wrote **Rihla**, not **Tughlaqnama** (Barani wrote Tughlaqnama).
+- **Timur** invaded India in **1398** and **sacked Delhi**, weakening the late Tughlaqs and opening the Sayyid interlude.
+- **Marco Polo** was a **Venetian** who reached the **Pandya** coast around **1292** and described south Indian trade in his **Travels**.
+- **Niccolo de Conti** was an **Italian** merchant who visited **Vijayanagara**, **Cambay**, and the **Malabar** coast in the early **15th century**.
+- **Abdur Razzaq** was a **Persian** ambassador to **Devaraya II’s Vijayanagara** court (~**1443**) and left a detailed account of **Hampi**.
+- **Duarte Barbosa** was a **Portuguese** factor who described **Kozhikode** trade and, with **Nuniz** and **Paes**, the wealth of **Vijayanagara/Hampi** in the early **16th century**.
+
+### British travellers (EIC phase)
 
 - **Ralph Fitch (1585–91)** is the earliest English name in the 2021 list.
 - He saw **Agra** and **Banaras** in Akbar’s time, before an EIC factory.
@@ -214,12 +225,25 @@ D. Only 2
 
 ### PYQ — Traveller chronology (2021 Q75)
 
+**1. (UPPCS Prelims 2021, Q75)** Arrange the following foreign travellers in chronological order of their arrival in India:
 
-- **2021 Q75** keys to **A (II, I, IV, III)**.
-- The arrival order is Fitch, then Hawkins, then Downton, then Roe.
-- **François Bernier** was a **French** physician at **Aurangzeb’s** court. He is not a British traveller.
-- **Jean-Baptiste Tavernier** was a French jeweller-traveller.
-- **Niccolao Manucci** was Venetian (**Storia do Mogor**).
+I. William Hawkins  
+II. Ralph Fitch  
+III. Sir Thomas Roe  
+IV. Nicholas Downton  
+
+A. II, I, IV and III | B. IV, II, I and III | C. I, III, II and IV | D. III, II, IV and I
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (II-I-IV-III)**
+
+**Order:** Ralph Fitch **1585** → William Hawkins **1608** → Nicholas Downton **1614** → Sir Thomas Roe **1615**.
+
+**Trap:** **Roe** was ambassador **1615–19**, not the first English arrival. **Bernier** (French, Aurangzeb court) and **Manucci** (Venetian) are not in this British chronology list.
+
+</details>
 
 ---
 

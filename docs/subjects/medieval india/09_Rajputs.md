@@ -109,26 +109,23 @@ Malik Sarwar = Jaunpur, not Malwa | Rao Jodha founded Jodhpur 1459
 
 ### PYQ — Ruler–state NOT matched (2021 Q118)
 
+**1. (UPPCS Prelims 2021, Q118)** Which of the following pairs is **NOT** correctly matched (Ruler–State)?
 
-- **Rana Hammir** restored Mewar. On **2021 Q118**, pair A is correct.
-- **Rana Chunda** is a **Mewar** Sisodia.
-- **Rao Chunda** is the **Marwar** Rathore line.
-- On **2021 Q118**, the pair **not** matched is **B** (Rana Chunda with Marwar).
-- Option D on that paper (Malik Sarwar with Malwa) is also historically false.
-- **Malik Sarwar** founded **Jaunpur** Sharqi as Khwaja Jahan.
-- The intended Rajput trap on that question is still **B**.
-- **Rana Kumbha** (15th c.) built **Vijay Stambha** at Chittor after beating Malwa.
-- **Kirti Stambha** at Chittor is the older **Jain** tower. Do not swap it with Vijay Stambha.
-- **Kumbhalgarh** is Kumbha’s fort.
-- **Udai Singh II** founded **Udaipur in 1559** and is Pratap’s father.
-- **Rao Jodha** founded **Jodhpur** (traditionally **1459**).
-- **Rao Maldeo** made mid-16th c. Marwar powerful.
-- **Jayata and Kumpa** were Maldeo’s captains against Sher Shah.
-- **Rao Bika** founded **Bikaner**.
-- **Bhagwan Das** of Amber was Akbar’s marriage-alliance partner.
-- **Man Singh** of Amber held a high mansab (~**7000**) and commanded at Haldighati.
-- **Malik Raja Faruqi** ruled **Khandesh**.
-- On **2021 Q118**, option C is correct.
+A. Rana Hamir – Mewar  
+B. Rana Chunda – Marwar  
+C. Malik Raja Farooqi – Khandesh  
+D. Malik Sarwar – Malwa Khwaja Jahan
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B**
+
+**Why wrong:** **Rana Chunda** is a **Mewar** Sisodia; **Rao Chunda** is the **Marwar** Rathore line.
+
+**Trap:** Option D (Malik Sarwar–Malwa) is also false — he founded **Jaunpur** — but the keyed Rajput trap is **B**.
+
+</details>
 
 ---
 
@@ -176,19 +173,45 @@ Malik Sarwar = Jaunpur, not Malwa | Rao Jodha founded Jodhpur 1459
 
 ### PYQs — Alauddin conquest chronology
 
+**1. (UPPCS Prelims 2022, Q59)** Arrange Alauddin Khalji’s conquests in chronological order:
 
-- In **1303**, Alauddin took Chittor from **Ratan Singh**.
-- The **Padmini jauhar** is the lore attached to that sack.
-- In **1567–68**, Akbar besieged Chittor.
-- **Jaimal and Patta** led the defence.
-- **Udai Singh II** was not in the fort.
-- That siege ended in **jauhar** and **saka**.
-- On **2022 Q59** (Gujarat in the list), the answer is **C (2-1-4-3)**.
-- The conquest order is Gujarat, then Ranthambore, then Chittor, then Warangal.
-- On **2025 Q30** (Jaisalmer in the list), the answer is **B (2-1-4-3)**.
-- The conquest order is Jaisalmer, then Ranthambore, then Chittor, then Warangal.
-- Do not copy 2022’s option letter onto 2025.
-- Both sequences end with **Chittor** and then **Warangal**.
+1. Ranthambor  
+2. Gujarat  
+3. Warangal  
+4. Chittor  
+
+A. 1-3-2-4 | B. 3-4-1-2 | C. 2-1-4-3 | D. 4-2-3-1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C (2-1-4-3)**
+
+**Order:** Gujarat **1299** → Ranthambore **1301** → Chittor **1303** → Warangal **~1310**.
+
+**Trap:** **Warangal** (Deccan/Kafur) comes **last**, not first.
+
+</details>
+
+**2. (UPPCS Prelims 2025, Q30)** Arrange Alauddin Khalji’s victories in chronological order:
+
+1. Ranthambore  
+2. Jaisalmer  
+3. Warangal  
+4. Chittor  
+
+A. 1-2-3-4 | B. 2-1-4-3 | C. 2-1-3-4 | D. 1-2-4-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B (2-1-4-3)**
+
+**Order:** Jaisalmer → Ranthambore → Chittor → Warangal.
+
+**Trap:** Same **2-1-4-3** sequence as 2022 Q59, but the **option letter differs** — do not copy 2022’s **C** onto 2025.
+
+</details>
 
 ---
 

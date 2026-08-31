@@ -107,8 +107,25 @@ Islam Shah (Jalal Khan) 1545–1553 | Humayun returns 1555
 
 ### PYQ — Battle chronology (2025 Q79)
 
+**1. (UPPCS Prelims 2025, Q79)** Arrange the following battles in chronological order:
 
-> **Exam note:** **UPPCS Prelims 2025 Q79** includes **Daurah (1532)**, when Humayun fought Afghan chiefs, **before Chausa**. Do **not** confuse Daurah with Dharmat (1658). The correct arrangement answer is **D**.
+1. Kannauj  
+2. Daurah  
+3. Samugarh  
+4. Chausa  
+
+A. 2-4-3-1 | B. 4-2-1-3 | C. 4-2-3-1 | D. 2-4-1-3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D (2-4-1-3)**
+
+**Order:** Daurah **1532** (Humayun vs Afghan chiefs) → Chausa **1539** (Sher Shah defeats Humayun) → Kannauj/Bilgram **1540** (Sher Shah’s decisive win) → Samugarh **1658** (Aurangzeb vs Dara).
+
+**Trap:** **Daurah (1532)** is not **Dharmat (1658)**. Do not place Samugarh before Kannauj.
+
+</details>
 
 ---
 
@@ -123,8 +140,23 @@ Islam Shah (Jalal Khan) 1545–1553 | Humayun returns 1555
 
 ### PYQ — Jarib NOT-matched (2019 Q87)
 
+**1. (UPPCS Prelims 2019, Q87)** Which of the following pairs is **NOT** correctly matched?
 
-- **UPPCS Prelims 2019 Q87** tests revenue-officer pairs. **Dam** is copper (correct). **Desai** is a revenue collector (correct). **Jarib is not a tax**; it is a measuring rope, so option D is the NOT-matched answer. Option C (Diwan as provincial revenue chief) reflects Mughal usage; the clearest trap in this topic is treating **Jarib** as a tax.
+A. Dam — Copper  
+B. Desai — Revenue Collector  
+C. Diwan — Revenue Chief of a province  
+D. Jarib — A type of tax
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D**
+
+**Why wrong:** **Jarib** is Sher Shah’s **measuring rope** used to fix the **bigha**, not a tax. **Dam** = copper coin ✓. **Desai** = revenue collector ✓.
+
+**Trap:** Option C reflects Mughal usage; the clearest NOT-matched lock in this topic is **D**.
+
+</details>
 
 ---
 
@@ -160,6 +192,26 @@ Islam Shah (Jalal Khan) 1545–1553 | Humayun returns 1555
 
 ### PYQ — Akbar–Sher Shah currency A/R
 
+**1. (UPPCS Prelims 2019, Q12)**
+
+**Assertion (A):** Akbar, like Sher Shah, tried to regulate the currency of the state.
+
+**Reason (R):** As in Sher Shah’s currency, the chief copper coin of Akbar’s time was the **Dam**.
+
+A. Both true and R explains A | B. Both true, R not explanation | C. A true, R false | D. A false, R true
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A (Both true, R explains A)**
+
+**A is true:** **Akbar** continued **Sher Shah’s** regulated silver **rupiya** and copper **dam** system.
+
+**R is true:** The chief **copper coin** under both was the **Dam** (about 1/40 of a rupiya).
+
+**Why R explains A:** Shared **Dam** standard shows continuity of Sher Shah’s currency regulation under Akbar.
+
+</details>
 
 ---
 
