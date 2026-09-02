@@ -76,7 +76,7 @@ Samaharta ≠ Sannidhata | Uparika = Gupta province | Sandhivigrahika = war-peac
 | **Archaeology** | sites, C-14, PGW / NBPW / IVC | period, not a king’s name |
 | **Foreign accounts** | Megasthenes, Fa-Hien, Xuanzang, I-tsing | 2024 traveller order |
 
-- The **Vishnu Purana** carries Maurya genealogy. **2023 Q29** keys **Only 1**.
+- The **Vishnu Purana** carries Maurya genealogy. Only statement 1 is true.
 - The Vayu Purana is **not** a Gupta admin manual.
 
 > **Exam note:** Chandragupta Maurya is not Chandragupta I. Chandragupta I is not Chandragupta II.
@@ -118,12 +118,12 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 ## 11.3 Rulers and their Inscriptions
 
-**Master match | this is the 2018 / 2022 home**
+**Master match | inscription king-pairs**
 
 - **Ashoka** issues Major and Minor Rock Edicts and Pillar edicts. The personal name is rare. It appears at **Maski**. His **Rummindei** pillar records the Lumbini visit.
 - **Girnar / Junagadh** carries Ashoka, then Rudradaman, then Skandagupta. Three ages sit on **one** rock.
-- **Pushyamitra Shunga** is recorded at **Ayodhya** for two **ashwamedhas**. **2018 Q91** keys **C**. **Heliodorus** raises the **Besnagar** Bhagavata pillar. It is **not** Pushyamitra.
-- **Kharavela** is recorded at **Hathigumpha**, Udayagiri. **2018 Q16** keys **A**. Harsha is trap C.
+- **Pushyamitra Shunga** is recorded at **Ayodhya** for two **ashwamedhas**. **Heliodorus** raises the **Besnagar** Bhagavata pillar. It is **not** Pushyamitra.
+- **Kharavela** is recorded at **Hathigumpha**, Udayagiri. Harsha is trap C.
 - **Gautamiputra Satakarni** is recorded in the **Nasik** prasasti of Gautami Balashri. He beats Nahapana. **Naganika** is recorded at **Naneghat**, with Satakarni I.
 - **Rudradaman I** writes Junagadh Sanskrit prose on the Sudarsana lake repair. **Kanishka** has the **Rabatak** genealogy.
 - **Samudragupta** has the **Prayag Prashasti** of Harishena, on the **Allahabad** Ashokan shaft. He also has the **Gaya** copper plate. That is the **2022 trap**. It is not Sarvavarman.
@@ -203,7 +203,7 @@ D. Ishwaravarman — Jaunpur stone inscription
 **Vedic tribal → Mauryan machine → Gupta/Harsha samanta | officials are the paper**
 
 - Vedic core officers are the **rajan**, the **purohita**, the **senani**, and the **gramani**.
-- The **bhagadugha** collects revenue, the king’s **bhaga**. **2023 Q26** keys **D**. The **sangrahitri** is the treasurer. The **akshavapa** is dice and gambling. That is 2023 option **C**.
+- The **bhagadugha** collects revenue, the king’s **bhaga**. The **sangrahitri** is the treasurer. The **akshavapa** is dice and gambling. That is the dice-officer trap.
 - The **Sabha** is the smaller assembly of elders. The **Samiti** is the larger tribal body. The **Vidatha** is the kin-ritual gathering.
 - There is no Samaharta and no Uparika in the Vedic list. Those names start with Maurya and Gupta.
 
@@ -227,8 +227,8 @@ D. Revenue Collector
 
 - Mauryan administration is centralised. Officers are salaried **amatyas**.
 - The **samaharta** is collector-general. The **sannidhata** is treasurer. The **rajuka** does land assessment and justice.
-- The **agronomai** are Megasthenes’ rural officers. **2020 Q4** keys **D**, revenue. Roads are the trap.
-- The **dhamma-mahamatra** appears in Rock Edict V, in the **14th** year. **2024 Q20** keys **Only 2 (D)**. Statement 1, that Rahulovada is Ashoka’s dhamma definition, is **false**.
+- The **agronomai** are Megasthenes’ rural officers, revenue officers. Roads are the trap.
+- The **dhamma-mahamatra** appears in Rock Edict V, in the **14th** year. Statement 1, that Rahulovada is Ashoka’s dhamma definition, is **false**.
 - Kautilya’s **saptanga** has seven limbs: swami, amatya, janapada, durga, kosha, bala, and mitra. Adhyakshas are department heads under that machine.
 
 **PYQ — UPPCS Prelims 2020, Q4**

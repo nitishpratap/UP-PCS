@@ -108,7 +108,7 @@ D. Ishwaravarman — Jaunpur stone inscription
 - The **Banskhera** copper plate carries Harsha’s **signature**. The **Madhuban** copper plate is the other Harsha grant lock. The **Sonpat** seal is Pushyabhuti family. A **Nalanda** seal of Harsha also exists.
 - He dies about **647**. There is no stable heir. After 647 the Chinese envoy **Wang Xuance** comes. **Arunashva** of Tirhut attacks him.
 - Written sources are court poet **Banabhatta** (*Harshacharita*) and the Chinese pilgrim **Hiuen Tsang** (*Si-Yu-Ki*).
-- **2018 Q16** lists Harshavardhan as a Hathigumpha option. That answer is **Kharavela** of Kalinga, not Harsha.
+- **Harshavardhan** is a common trap option for **Hathigumpha**. The inscription belongs to **Kharavela** of Kalinga, not Harsha.
 
 > **Exam note:** Thanesar is not Kannauj. Kannauj is the UP lock.
 

@@ -24,6 +24,10 @@ Buddha: Lumbini birth → Bodh Gaya enlightenment → Sarnath Deer Park sermon (
 Wife Yashodhara | son Rahula | Ananda attendant | Upali Vinaya | Devadatta schism | Mahapajapati = first nun
 Councils 2025 Q105: Rajagriha → Vaishali → Pataliputra → Kundalvana  =  2-1-4-3
 Tripitaka: Vinaya | Sutta | Abhidhamma
+2nd Council split: Sthaviravada vs Mahasanghika | Theravada = Vibhajjavada (3rd Council) | only surviving Hinayana
+Sarvastivada = sarvam asti + Sanskrit + Kundalvana | Vaibhashika vs Sautrantika = Abhidharma vs sutra-only
+Mahayana = bodhisattva + Sanskrit | Madhyamaka (Nagarjuna) | Yogacara (Asanga–Vasubandhu) | Vajrayana = tantra, Padmasambhava → Tibet
+Bodhisattvas: Avalokiteshvara/Padmapani (compassion) | Manjushri (wisdom) | Vajrapani (power) | Maitreya (future Buddha) | Tara (female saviour)
 Milind Panho = Menander ↔ Nagasena  (2023 Q24)
 6 titthiyas: Purana Kassapa | Gosala | Ajita | Pakudha | Nigantha (Mahavira) | Sanjaya
 
@@ -51,6 +55,8 @@ Bhagavatism = Vasudeva-Krishna, Mathura (UP) | Heliodorus pillar Besnagar
 | Mahayana | Vajrayana | Sutra / emptiness vs **tantra**, mantra, Tibet | महायान / वज्रयान |
 | Sthaviravada | Mahasanghika | Vaishali **elders** vs **great assembly** split | स्थविर / महासंघ |
 | Theravada | Sarvastivada | **Pali** south-Asian line vs **Sanskrit** north line (4th Council) | थेरवाद / सर्वास्तिवाद |
+| Mahasanghika | Mahayana | Vaishali **early split** school vs later **great vehicle** | महासंघ / महायान |
+| Vaibhashika | Sautrantika | Sarvastivada **Abhidharma** orthodox vs **sutra-only** | वैभाषिक / सौत्रान्तिक |
 | Nagarjuna | Nagasena | **Madhyamaka** philosopher vs **Milinda Panha** monk | नागार्जुन / नागसेन |
 | Vinaya | Sutta | Monk **rules** vs Buddha’s **discourses** | विनय / सुत्त |
 | Chaitya | Vihara | Prayer hall vs monastery | चैत्य / विहार |
@@ -257,68 +263,139 @@ A. Nagarjun  B. Nagbhatt  C. Nagasena  D. Kumaril Bhatt
 
 ## 4.9 Hinayana
 
-**“Lesser vehicle” — a Mahayana nickname; exams still use it**
+**Early Buddhism | arhat ideal | Pali canon | also called Shravakayana**
 
-- **Hinayana** (“lesser vehicle”) is a **Mahayana nickname**. Exams still use it for the early path that aims at the **arhat**, not the bodhisattva.
-- Here the Buddha is a teacher, not a cosmic saviour. Early art is **aniconic**.
-- The classic goal is **arhatship** — personal liberation, not the bodhisattva vow.
-- In the exam the word does **not** mean “inferior Buddhism.” It names this path-type. Prefer **Theravada** in your own wording.
+- **Hinayana** means “lesser vehicle.” It is a **Mahayana label**, not a name the early monks chose for themselves.
+- In textbooks and papers it still covers the **early Buddhist schools** that aim at **arhatship** — personal nirvana — rather than the bodhisattva vow.
+- The same stream is also called **Shravakayana** (disciple vehicle), because the follower hears the teaching and wins liberation for himself.
+- Here the Buddha is remembered chiefly as a **great teacher**, not as a cosmic saviour god.
+- The classic canon is the **Pali Tripitaka**. Early art stays **aniconic** — wheel, stupa, footprint, Bodhi tree — not human Buddha images.
+- **Hinayana is not the same word as Theravada.** Theravada is the **only surviving** Hinayana school. Sarvastivada, Mahasanghika, and the rest are extinct in India.
 
-| School / label | Link | Canon / language | Exam lock |
-|----------------|------|------------------|-----------|
-| **Sthaviravada** | Split from **Mahasanghika** at the **2nd Council** (Vaishali) | Elders’ line; ancestor of later “Hinayana” schools | Do not date to the Buddha’s lifetime |
-| **Mahasanghika** | Other side of the Vaishali split | “Great assembly” — more liberal on Vinaya | Split partner of Sthaviravada |
-| **Theravada** | Living “Hinayana” school; **Vibhajjavada** line from the **3rd Council** | **Pali** **Tripitaka** | Sri Lanka, Myanmar, Thailand |
-| **Sarvastivada** | Strong in north India; tied to **Kanishka’s 4th Council** | **Sanskrit**; *Mahavibhasha* | “All exists” doctrine — not Theravada |
-| **Vaibhashika** | Sarvastivada subschool | Commentarial realism | Named pair with Sautrantika |
-| **Sautrantika** | Sarvastivada subschool | Sutra-only emphasis | Named pair with Vaibhashika |
+### How the early split happened
 
-- Commentarial tradition counts **eighteen schools** after the Vaishali split. Do not memorise all eighteen names.
-- **Sthaviravada** is the Second Council ancestor. Papers often equate it with **Theravada**, but Sarvastivada is a separate northern Hinayana line.
+- At the **Second Council** in **Vaishali**, monks quarrelled over **Vinaya laxity** — whether certain practices were allowed.
+- The order split into **Sthaviravada** (school of elders, stricter) and **Mahasanghika** (great assembly, more liberal).
+- That is the **first major schism**. It comes **before** the later Mahayana–Hinayana language.
+- Commentarial tradition later counts **eighteen early schools** growing out of these two lines. Do not memorise all eighteen names; learn the **main pairs** below.
 
-> **Exam note:** Hinayana = arhat + Pali canon (Theravada). Sarvastivada = Sanskrit + 4th Council. Mahasanghika is the Vaishali split partner, not a Mahayana school.
+### Main early schools you must know
+
+| School | Origin / link | Doctrine or practice lock | Region / canon |
+|--------|---------------|---------------------------|----------------|
+| **Sthaviravada** | Elders' side at **Vaishali** (2nd Council) | Orthodox Vinaya; parent line of later Hinayana schools | Ancestor school — not identical with Theravada |
+| **Mahasanghika** | Liberal side at **Vaishali** | More relaxed monastic rules; some branches stressed the Buddha's supramundane nature | Influenced later Mahayana thought; **not** itself Mahayana |
+| **Theravada** | **Vibhajjavada** line that wins at the **3rd Council** (Ashoka) | Doctrine of analysis; arhat ideal; strict Vinaya | **Pali** Tripitaka; Sri Lanka, Myanmar, Thailand, Cambodia, Laos |
+| **Sarvastivada** | Branched from the Sthaviravada line; dominant in the north | **Sarvam asti** — dharmas exist in past, present, and future | Kashmir, Gandhara, Central Asia; **Sanskrit**; **4th Council** at Kundalvana |
+| **Vaibhashika** | Subschool of **Sarvastivada** | Defends orthodox Abhidharma through the ***Mahavibhasha*** | Realist reading of “all exists” |
+| **Sautrantika** | Subschool of **Sarvastivada** | Accepts **sutras** as supreme authority; rejects Vaibhashika Abhidharma orthodoxy | Sutra-only emphasis — paired trap with Vaibhashika |
+
+- **Theravada** spread to Sri Lanka through **Mahinda** and **Sanghamitta** after Ashoka's Third Council.
+- **Sarvastivada** is the school tied to **Kanishka's Fourth Council** in Kashmir, where **Vasumitra** presided and the ***Mahavibhasha*** was compiled.
+- **Vaibhashika** and **Sautrantika** are **Sarvastivada subschools**, not separate vehicles like Mahayana.
+- In match-lists, do not write **Mahasanghika = Mahayana**. Mahayana comes later as a separate great vehicle.
+
+> **Exam note:** Hinayana does not mean bad Buddhism. It names the **arhat + early canon** path. Theravada = **only living** Hinayana school. Sarvastivada = **Sanskrit north** + 4th Council. Sthaviravada is not identical with Theravada in strict history, though papers often blur them.
 
 ---
 
 ## 4.10 Mahayana
 
-**Bodhisattva | Sanskrit sutras | Buddha as compassionate saviour**
+**Great vehicle | bodhisattva vow | Sanskrit sutras | Buddha as compassionate saviour**
 
-- **Mahayana** (“great vehicle”) aims at the **bodhisattva**, who postpones own nirvana to save all beings.
-- Named bodhisattvas: **Avalokiteshvara / Padmapani** (compassion), **Manjushri** (wisdom), **Vajrapani** (power), **Maitreya** (the future Buddha), and **Tara** (saviouress).
-- Images of the Buddha become common. The language of many new sutras is **Sanskrit**.
-- The path spread to China, Korea, Japan, Vietnam, and Nepal.
-- Later eastern India sees Pala patronage of **Nalanda** and **Vikramashila**. Nalanda’s founder-patron is still **Kumaragupta I**.
-- Kanishka’s Kashmir council is the usual royal hook for the Sanskrit turn.
+- **Mahayana** means “great vehicle.” It is the later Buddhist movement that grows from about the **1st century CE** onward in India, after the early Hinayana schools had already split.
+- Where Hinayana aims at **arhatship** for oneself, Mahayana aims at the **bodhisattva** — one who seeks enlightenment but **delays final nirvana** until all beings are saved.
+- The **bodhisattva vow** is the heart of this path: compassion for all sentient life, not solitary escape from samsara.
+- Mahayana treats the Buddha as a **compassionate saviour** and, in later thought, as a **celestial** Buddha with many forms. He is not only a human teacher who won nirvana and disappeared.
+- New scriptures are written in **Sanskrit**, not Pali. They are **added** to the older canon; they do not replace the Tripitaka in Theravada memory.
+- Buddha and bodhisattva **images** become common in art. Ajanta **Phase II** is the textbook Indian example.
 
-| Mahayana school | Teacher / text | Core idea |
-|-----------------|----------------|-----------|
-| **Madhyamaka** | **Nagarjuna** — *Madhyamaka Karika* | **Sunyata** (emptiness); middle way between eternalism and nihilism |
-| **Yogacara / Vijnanavada** | **Asanga**, **Vasubandhu** | Mind-only / consciousness school; not Early Nikaya teaching |
+### How Mahayana differs from Hinayana
 
-- Mahayana sutras that exams name include the **Prajnaparamita**, the Lotus Sutra (*Saddharmapundarika*), and the *Lankavatara*.
-- Do not place Madhyamaka or Yogacara in the Hinayana column. They are Mahayana philosophy schools.
+| Point | Hinayana / early schools | Mahayana |
+|-------|--------------------------|----------|
+| Ideal | **Arhat** — personal liberation | **Bodhisattva** — liberation for all beings |
+| Buddha | Great teacher | Compassionate saviour / celestial Buddha |
+| Canon | **Pali** Tripitaka | **Sanskrit** Mahayana sutras added |
+| Art | Early phase often **aniconic** | Human Buddha and bodhisattva images common |
+| Living line today | **Theravada** in Sri Lanka and Southeast Asia | East Asia, Nepal, Tibetan world |
 
-> **Exam note:** Nagarjuna = Madhyamaka / sunyata. Nagasena = Milinda Panha. Asanga–Vasubandhu = Yogacara.
+### Mahayana sutras papers name
+
+- The ***Prajnaparamita*** sutras teach **perfection of wisdom** and underpin much Mahayana philosophy.
+- The ***Lotus Sutra*** (*Saddharmapundarika*) makes the bodhisattva path central and is closely tied to **Avalokiteshvara**.
+- The ***Lankavatara*** is linked to **Yogacara / mind-only** thought.
+- Narrative Sanskrit lives such as the ***Mahavastu***, ***Lalitavistara***, and ***Divyavadana*** also belong to this wider Mahayana literary world.
+- Ashvaghosha's ***Buddhacharita*** is a Sanskrit Buddha-life poem from the Kanishka age. It is not a Hinayana Pali text.
+
+### Spread and patronage
+
+- Mahayana spread from India to **Central Asia**, **China**, **Korea**, **Japan**, **Vietanmar**, and **Nepal**.
+- **Kushan** patronage — especially under **Kanishka** — helps the **Sanskrit** turn and the growth of new schools in the northwest.
+- In later eastern India, **Pala** kings patronise **Nalanda** and **Vikramashila**.
+- **Nalanda** was founded under **Kumaragupta I** of the Gupta line. Do not credit Xuanzang or a Pala king as its founder.
+
+### Bodhisattvas — full exam list
+
+A **bodhisattva** is an enlightened being who postpones final nirvana to help others. Mahayana art and papers usually test the **five main names** below; coaching maps also list the **Eight Great Bodhisattvas** for art history.
+
+| Bodhisattva | Also called | Virtue / role | Attribute or trap |
+|-------------|-------------|---------------|-------------------|
+| **Avalokiteshvara** | **Padmapani**, Lokesvara | **Compassion**; hears the cries of all beings | Lotus; central in *Lotus Sutra*; Ajanta **Padmapani** painting |
+| **Manjushri** | — | **Wisdom** | Flaming sword and **Prajnaparamita** book |
+| **Vajrapani** | — | **Power** / protection | **Vajra** (thunderbolt); attendant-protector of the Buddha |
+| **Maitreya** | Ajita | **Future Buddha** | Only bodhisattva widely remembered in both early and Mahayana traditions |
+| **Tara** | — | **Female saviour** | Compassion goddess linked to Avalokiteshvara tradition |
+| **Samantabhadra** | — | Universal virtue / practice | Often paired with Manjushri in art |
+| **Kshitigarbha** | — | Earth-store bodhisattva | Saves beings in hell realms |
+| **Akasagarbha** | — | “Womb of space” | Space / void symbolism |
+
+- **Avalokiteshvara** is the bodhisattva of **compassion**, also called **Padmapani** when shown with a lotus.
+- **Manjushri** is the bodhisattva of **wisdom**, shown with a sword that cuts ignorance and a book of **Prajnaparamita**.
+- **Vajrapani** is the **power** bodhisattva who carries the **vajra** and protects the Buddha.
+- **Maitreya** is the **future Buddha**, still waiting in Tusita heaven to be born after the present age.
+- **Tara** is the **female saviour** bodhisattva, especially important in later Indian and Tibetan Buddhism.
+- **Samantabhadra** stands for all-sided **good conduct** and is a common companion figure in Mahayana art.
+- **Kshitigarbha** is remembered as the bodhisattva who cares for beings trapped in lower realms.
+- **Akasagarbha** is the “space-womb” bodhisattva of the **Eight Great** set.
+
+### Mahayana philosophy schools
+
+| School | Teacher | Key text / idea | Exam lock |
+|--------|---------|-----------------|-----------|
+| **Madhyamaka** | **Nagarjuna** | *Madhyamaka Karika*; **sunyata** (emptiness) | Middle way between eternalism and nihilism |
+| **Yogacara / Vijnanavada** | **Asanga** and **Vasubandhu** | Mind-only / consciousness-only | Not Early Nikaya teaching |
+
+- **Nagarjuna** founds **Madhyamaka** and teaches that all phenomena are **empty** (*sunyata*) of permanent self-nature.
+- **Asanga** and **Vasubandhu** develop **Yogacara**, which analyses experience as consciousness-only.
+- **Dignaga** and **Dharmakirti** later build Buddhist **logic** at **Nalanda**. They belong to the Mahayana scholastic world, not to Hinayana Vinaya memory.
+- Do not confuse **Nagarjuna** with **Nagasena** of the *Milinda Panha*.
+- Do not place **Madhyamaka** or **Yogacara** under Hinayana. They are Mahayana philosophy schools.
+
+> **Exam note:** Mahayana = bodhisattva + Sanskrit sutras + Buddha images. Five hot names = Avalokiteshvara, Manjushri, Vajrapani, Maitreya, Tara. Madhyamaka = Nagarjuna. Yogacara = Asanga–Vasubandhu. Mahayana is **not** the Vaishali split and **not** the Buddha's own lifetime teaching.
 
 ---
 
 ## 4.11 Vajrayana
 
-**Tantric vehicle | mantra, mandala, guru | Tibet and eastern India**
+**Tantric Buddhism | mantra, mandala, guru | Tibet and eastern India**
 
-- **Vajrayana** grows from Mahayana around the **7th–8th century CE**. It is tantric: mantra, mandala, mudra, and a guru.
-- **Padmasambhava** takes it to Tibet. Nalanda and Vikramashila monks carry the same stream.
-- Eastern India also uses the labels **Mantrayana** and **Sahajayana**.
-- It is **not** Hinayana vinaya-purism. Do not date it to the Buddha’s lifetime.
+- **Vajrayana** is the “diamond/thunderbolt vehicle.” It develops from **Mahayana** around the **7th–8th century CE** in eastern India.
+- It uses **tantra**: mantra, mandala, mudra, initiation, and a **guru** (teacher) line.
+- The religious goal remains the **bodhisattva** ideal, but the method is tantric, not sutra-only.
+- **Padmasambhava** carries it to **Tibet**. Monks from **Nalanda** and **Vikramashila** also spread this stream.
+- Eastern India also uses the labels **Mantrayana** and **Sahajayana** for related tantric currents.
+- It is **not** Hinayana Vinaya purism. Do not place it at the Buddha's lifetime or at the First Council.
 
-### Buddhist vehicles — one glance
+### Three vehicles — summary
 
-| Vehicle | Goal | Language / method | Named schools / locks |
-|---------|------|-------------------|------------------------|
-| **Hinayana** | **Arhat** | **Pali** canon; vinaya-pure | Theravada, Sarvastivada, Vaibhashika, Sautrantika |
-| **Mahayana** | **Bodhisattva** | **Sanskrit** sutras; Buddha as saviour | Madhyamaka (Nagarjuna), Yogacara (Asanga–Vasubandhu) |
-| **Vajrayana** | Same bodhisattva ideal, tantric means | Mantra, mandala, guru | Padmasambhava → Tibet; Mantrayana, Sahajayana |
+| Vehicle | When | Goal | Method / canon | Living region or school |
+|---------|------|------|----------------|-------------------------|
+| **Hinayana** | Early schools after Buddha | **Arhat** | **Pali** Tripitaka; strict Vinaya | **Theravada** in Sri Lanka and Southeast Asia |
+| **Mahayana** | From ~1st century CE | **Bodhisattva** | **Sanskrit** Mahayana sutras; philosophy schools | East Asia, Nepal, later eastern India |
+| **Vajrayana** | From ~7th–8th century CE | **Bodhisattva** through tantra | Mantra, mandala, guru initiation | Tibet, Bhutan, parts of eastern India |
+
+- **Theravada** is the only Hinayana school still living. **Mahayana** and **Vajrayana** are later developments, not rival names for the same early canon.
 
 ---
 
@@ -1403,7 +1480,7 @@ A. Only one  B. Only two  C. All three  D. None
 **Q37.** Which of the following statements regarding cave / stupa architecture is **not** correct?
 
 A. Lomas Rishi is a Barabar facade.  
-B. Ghantasala is the 2022 Aryaka-pillar answer.  
+B. Ghantasala has the aryaka-pillar platform feature.  
 C. Bodh Gaya Mahabodhi is the type-site for ayaka-platform stupas.  
 D. Kanheri is a western Indian Buddhist cave group.
 
@@ -1598,7 +1675,7 @@ D. Charvaka — niyati fatalism
 
 **Q48.** With reference to Ashokan Dhamma, consider the following statements:
 
-1. UPPCS 2024 treats the Rahulovada-sutta claim as incorrect.  
+1. The Rahulovada-sutta claim as Ashoka's Dhamma definition is incorrect.  
 2. Dhamma-mahamatras are a real Ashokan cadre in the inscriptions.  
 3. Ashoka’s Dhamma policy required every subject to become a bhikkhu.
 
@@ -1843,3 +1920,8 @@ UPPCS Prelims **2020, 2019, 2018** — no further GS-I question maps to this top
 18. **Digambara: Mahavira married Yashoda** → that is **Svetambara**; Digambara: never married.
 19. **Anekantavada = Buddhist Middle Path** → Jain many-sided real; Middle Path = Buddha.
 20. **Tattvartha Sutra = Digambara-only** → **both** sects (Umasvati).
+21. **Hinayana = Theravada only** → Theravada is the **only surviving** Hinayana school; Sarvastivada and Mahasanghika were separate early lines.
+22. **Mahasanghika = Mahayana** → Vaishali **early split** vs later **great vehicle**.
+23. **Vaibhashika / Sautrantika = separate vehicles** → both are **Sarvastivada subschools**.
+24. **Vajrayana at Buddha's time** → **7th–8th century CE** tantric offshoot of Mahayana.
+25. **All bodhisattvas in one comma line** → learn **Avalokiteshvara, Manjushri, Vajrapani, Maitreya, Tara** as separate locks.

@@ -65,7 +65,7 @@ Tamralipti = Ganga mouth east | Periplus = 1st c. CE | Pliny gold-drain
 - From about the **sixth century BCE**, towns, **NBPW**, and **punch-marked silver** appear with long-distance trade.
 - The Mauryan state taxes trade. The weights officer is the ***pautavadhyaksha***.
 - The Gupta age shows land grants, guilds, and gold prestige. Daily markets still use silver and copper.
-- In **2020 Q21**, IVC is Urban, Later Vedic is Agrarian, Rigvedic is Pastoral, and the medieval slot is landlordism.
+- The standard economy match is: IVC = **Urban**, Later Vedic = **Agrarian**, Rigvedic = **Pastoral**, medieval slot = landlordism.
 
 **PYQ — UPPCS Prelims 2020, Q21**
 
@@ -170,7 +170,7 @@ A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
 **Shreni = default guild | Manigrama = the 2018 foreign-trade lock**
 
 - A **shreni** is a craft or trade guild with its own rules. Its head is the **shreshthin**. A **nagaram** is a south Indian **town** merchant body.
-- The **nanadesi** are merchants of **many regions** on long-distance routes. **Manigrama** is the **foreign and overseas** trade body. **2018 Q89** keys **D** for Manigrama. Nanadesi looks “foreign,” but the paper still wants Manigrama.
+- The **nanadesi** are merchants of **many regions** on long-distance routes. **Manigrama** is the **foreign and overseas** trade body. **Manigrama** is the foreign-trade guild. Nanadesi looks “foreign,” but the paper still wants Manigrama.
 - The **Ainnurruvar** are a later “500” south merchant network. They are not Mauryan.
 - The *Arthashastra* treats guild custom as usable law. Sanchi and Bharhut gifts name shrenis. Shreni is **not** “only foreign trade.”
 
@@ -195,7 +195,7 @@ A. Śreni  B. Nagaram  C. Nānādesis  D. Manigrama
 
 **Match port ↔ sea ↔ age**
 
-- **Lothal** on the Gulf of Khambhat is the Harappan **dockyard**. **Sutkagen-dor** on the Makran is the Harappan west end. Boat **models** come from **Mohenjo-daro and Lothal**. **2022 Q68** keys **C**. Dholavira is not that pair.
+- **Lothal** on the Gulf of Khambhat is the Harappan **dockyard**. **Sutkagen-dor** on the Makran is the Harappan west end. Boat **models** come from **Mohenjo-daro and Lothal**. Dholavira is not that pair.
 - **Bharukaccha / Broach** at the Narmada mouth is Periplus **Barygaza**. **Sopara** and **Kalyan** on the Konkan run from Mauryan times onward. **Barbarikon** is the Indus-mouth Periplus port. It is **not** Broach.
 - **Tamralipti** at the Ganga mouth faces the Bay of Bengal.
 - **Muziris (Muchiri)** on the Malabar is the Roman **pepper** port. **Nelcynda** in Kerala is another Periplus pepper landing. **Puhar / Kaveripattinam** at the Kaveri mouth is the Sangam Chola port. **Arikamedu** near Puducherry yields Roman amphorae.
@@ -226,7 +226,7 @@ D. Kalibangan and Ropar
 
 - The **Uttarapatha** runs from Taxila through Mathura or Kaushambi to **Pataliputra** and Bengal. The **Dakshinapatha** runs from the Ganga belt through **Ujjain** into the Deccan. Dakshinapatha is a **road**, not “only sea.”
 - River-ports sit on the Ganga, Yamuna, Narmada, and Godavari. Entrepots include Pataliputra, Ujjain, Varanasi, and Taxila. Kannauj is a later entrepot.
-- Tolls sit at ferries and gates. Caravans run through shrenis. **2024 Q2** is the paper lock. Detail of goods is colour.
+- Tolls sit at ferries and gates. Caravans run through shrenis. River ports and entrepots are the high-yield trade pair. Detail of goods is colour.
 
 > **Exam note:** Dakshinapatha is a **road**, not “only sea.”
 
@@ -385,7 +385,7 @@ D. Arikamedu — Roman amphorae
 **Q8.** Which of the following statements is/are correct?
 
 1. Shreni is a general craft/trade guild.  
-2. Manigrama is the 2018 foreign-trade answer.  
+2. Manigrama is the foreign-trade guild answer.  
 3. Nanadesi is identical to Manigrama.
 
 A. 1 and 2 only  B. 2 and 3 only  C. 1 and 3 only  D. 1, 2 and 3

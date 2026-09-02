@@ -153,7 +153,7 @@ A. 1 2 3 4  B. 2 1 4 3  C. 3 1 4 2  D. 4 3 2 1
 - Navaratna court is a later legend. **Kalidasa** is the name papers keep. The *Devichandraguptam* story of **Ramagupta** is a later play-trap. He is not a hard inscription king.
 - The strongest Shaka-victory proof in the 2022 paper is his **silver coins**. Those coins weigh about **33 grains**.
 
-- **Fa-Hien (Faxian)** is in India **399–414 CE**, in this reign. He sees Pataliputra and the Gangetic belt. **2024 Q149** puts him first among Fa-Hien, Hiuen Tsang, I-Tsing, and Al-Biruni.
+- **Fa-Hien (Faxian)** is in India **399–414 CE**, in this reign. He sees Pataliputra and the Gangetic belt. In traveller chronology he comes **before** Hiuen Tsang, I-Tsing, and Al-Biruni.
 
 **PYQ — UPPCS Prelims 2022, Q23**
 
@@ -225,7 +225,7 @@ A. 1, 2, 3, 4  B. 4, 3, 1, 2  C. 2, 1, 4, 3  D. 3, 4, 2, 1
 - The **sandhivigrahika** is the peace-and-war / foreign minister. The state is less central than the Mauryas. **Brahmadeya / agrahara** grants punch holes in the crown’s direct take.
 - A **samanta** is a feudatory. He sends tribute and troops. He is not a Mauryan salaried amatya. Land tax **bhaga** is remembered as 1/6 to 1/4. Guilds (**shreni**) keep their own rules.
 - Smriti age names include **Yajnavalkya** and **Narada**.
-- The **Vayu Purana does not** give a Gupta admin manual. **2023 Q29** statement 2 is false. The Vishnu Purana *does* carry Maurya names.
+- The **Vayu Purana does not** give a Gupta admin manual. That claim is **false**. The Vishnu Purana *does* carry Maurya names.
 
 > **Exam note:** “Guptas more central than Mauryas” is the trap.
 
@@ -270,7 +270,7 @@ A. 1, 2, 3, 4  B. 4, 3, 1, 2  C. 2, 1, 4, 3  D. 3, 4, 2, 1
 | **Mandasor** | Kumaragupta age / silk weavers | Yashodharman’s later Huna boast is a different Mandasor text |
 
 - Copper plates = *tamrapatra* land grants.
-- **2022 Q87** Ishanavarman–Haraha / Sarvavarman–Gaya pairs are **Maukhari / later Gupta**, not this imperial set. Gaya plate is still Samudragupta.
+- **Ishanavarman**–Haraha / Sarvavarman–Gaya pairs are **Maukhari / later Gupta**, not this imperial set. Gaya plate is still Samudragupta.
 
 > **Exam note:** Bhitari = Skandagupta vs Hunas. Not Samudragupta’s south march.
 
@@ -281,7 +281,7 @@ A. 1, 2, 3, 4  B. 4, 3, 1, 2  C. 2, 1, 4, 3  D. 3, 4, 2, 1
 **Gold + silver + copper | 2022 lives on the silver**
 
 - Gold **dinara** = prestige (types in 9.11).
-- **Silver rupaka** = Chandragupta II after the Shaka war. **~33 grains**. **2022 Q23**.
+- **Silver rupaka** = Chandragupta II after the Shaka war. **~33 grains**.
 - Copper for the market.
 - Legends in **Sanskrit**. Lakshmi / Garuda common on the reverse.
 - Kushan gold already ran in the NW. Gupta gold is the later “classical” portrait set.
@@ -405,7 +405,7 @@ A. 1, 2, 3, 4  B. 4, 3, 1, 2  C. 2, 1, 4, 3  D. 3, 4, 2, 1
 **Kalidasa is the Gupta lock | 2025 also dumps later author–book pairs**
 
 - **Kalidasa** belongs to the Chandragupta II tradition. Plays: *Abhijnanashakuntalam*, *Malavikagnimitra*, *Vikramorvashiyam*. Mahakavyas: *Raghuvamsa*, *Kumarasambhava*. Lyrics: *Meghaduta*, *Ritusamhara*.
-- He did **not** write *Shringara Shataka*. That is **Bhartrihari**. **2025 Q48** keys **Only 3**.
+- He did **not** write *Shringara Shataka*. That is **Bhartrihari**. Only statement 3 is true in the standard stem.
 
 - **Sudraka** wrote *Mrichchhakatika*. **Vishakhadatta** wrote *Mudrarakshasa*, a Chanakya play of Gupta date. **Amarasimha** wrote the *Amarakosha*. **Vishnu Sharma** is the traditional author of the *Panchatantra*. **Bharavi** wrote *Kiratarjuniya*, late Gupta or after.
 
@@ -453,7 +453,7 @@ A. 3 4 1 2  B. 4 3 2 1  C. 4 3 1 2  D. 3 4 2 1
 
 </details>
 
-> **Exam note:** 2025 Q86 authors are mostly **later** than the Gupta court. The paper still asked the match. Learn the four pairs. Do not date Jayadeva to Chandragupta II.
+> **Exam note:** Jayadeva, Somadeva, and Kshemendra are **later** than the Gupta court. Learn the four author–book pairs anyway. Do not date Jayadeva to Chandragupta II.
 
 ---
 

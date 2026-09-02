@@ -144,7 +144,7 @@ Mandi (Bijnor UP) ≠ Manda (J&K)
 - Looting kills the date.
 - After 1947 the two giant IVC cities are in Pakistan.
 - Indian trenches then shift to Gujarat, Haryana, Rajasthan, Punjab, and **Uttar Pradesh**.
-- Boat **models** come from **Mohenjo-daro and Lothal** (**2022 Q68**).
+- Boat **models** come from **Mohenjo-daro and Lothal** — not Dholavira alone.
 
 **PYQ — UPPCS Prelims 2020, Q10**
 
@@ -251,12 +251,12 @@ A. 3 2 1 4  B. 2 3 4 1  C. 2 4 3 1  D. 3 2 4 1
 **UP Harappan trio (learn cold)**
 
 - **Alamgirpur** in Meerut, on the Hindon, is the **easternmost** IVC site in India.
-- **2023 Q28** keys **B**.
+- **Alamgirpur** is the eastern boundary site.
 - **Hulas** is in Baghpat.
 - It appears in **2018**, **2020**, and **2025**.
 - **Mandi** is in Bijnor, on the Ramganga.
-- **2021 Q100** keys **D**.
-- **2025 Q87** also uses Mandi.
+- **Mandi** (Bijnor, UP) is the UP site — not **Manda** (Jammu).
+- Do not confuse **Mandi** with **Manda**.
 
 **Not UP — bait in those papers**
 

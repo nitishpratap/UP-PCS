@@ -213,7 +213,7 @@ Introduction to Study = Kosambi | Early History = Smith
 |---|--------|----------------|
 | 1 | Brahma | Brahma |
 | 2 | Padma | Vishnu |
-| 3 | **Vishnu** | Vishnu — **Mauryan list (2023 Q29)** |
+| 3 | **Vishnu** | Vishnu — **Mauryan list** |
 | 4 | Shiva | Shiva |
 | 5 | **Bhagavata** | Vishnu / Krishna bhakti |
 | 6 | Narada | Vishnu |
@@ -230,11 +230,11 @@ Introduction to Study = Kosambi | Early History = Smith
 | 17 | **Garuda** | Vishnu — shraddha / afterlife |
 | 18 | Brahmanda | Brahma |
 
-- **Vishnu Purana** preserves a **Mauryan** genealogy. Statement 1 of 2023 Q29 is **true**.
+- **Vishnu Purana** preserves a **Mauryan** genealogy. Statement 1 is **true**.
 - **Vayu Purana** is used for early dynastic lists, including Gupta **names**. It does **not** give a usable Gupta **system of governance**. Statement 2 is **false**.
-- 2023 Q29 answer is therefore **A — Only 1**. Both-correct is the bait.
+- The correct answer is **A — Only 1**. Both-correct is the bait.
 
-### Shriparvatiya (2020 Q2)
+### Shriparvatiya
 
 - Puranas call one Andhra line **Shriparvatiya**.
 - That line is the **Ikshvakus** of **Vijayapuri / Nagarjunakonda**.
@@ -245,7 +245,7 @@ Introduction to Study = Kosambi | Early History = Smith
 
 - **Purana Qila** in Delhi is a **fort** name (Humayun / Sher Shah fabric). It is not a Sanskrit text.
 
-> **Exam note:** 2023 Q29 = **A**. 2020 Q2 = **B Ikshvakus**. Vayu ≠ Gupta administration handbook.
+> **Exam note:** Vishnu Purana = Mauryas only. Shriparvatiya = **Ikshvakus** at Nagarjunakonda. Vayu ≠ Gupta administration handbook.
 
 ---
 
@@ -276,7 +276,7 @@ Introduction to Study = Kosambi | Early History = Smith
 - **Ajita Kesakambalin** in the Pali canon is a materialist: the person ends at death, four elements scatter. Same family of thought, Buddhist naming.
 - **Buddhism** is not materialist. It keeps **karma and rebirth**. It denies a permanent soul, which is a different denial.
 - **Nyaya** (Gautama) and **Vaisheshika** (Kanada) are orthodox *darshanas*. They are not Charvaka.
-- 2023 Q30 correct pair is **Nyaya — Gautama**. Vaisheshika is **Kanada**, not Patanjali. Mimamsa is not Kanada. Uttara Mimamsa (Vedanta) is not Kapila (Kapila is Samkhya).
+- The correct pair is **Nyaya — Gautama**. Vaisheshika is **Kanada**, not Patanjali. Mimamsa is not Kanada. Uttara Mimamsa (Vedanta) is not Kapila (Kapila is Samkhya).
 
 > **Exam note:** **Charvaka ≠ Charaka**. Charaka writes Ayurveda. Charvaka denies the unseen. Mixing the two names is the cheap trap.
 
@@ -306,7 +306,7 @@ Introduction to Study = Kosambi | Early History = Smith
 - After 1323 the country passes through Delhi, then Bahmani, then Qutb Shahi Golconda.
 - Kakatiya rule itself has ended.
 
-### Capital match (2019 Q90)
+### Capital match
 
 | Dynasty | Capital |
 |---------|---------|
@@ -318,7 +318,7 @@ Introduction to Study = Kosambi | Early History = Smith
 - Code on the 2019 paper: A-2, B-3, C-4, D-1 → **B**.
 - Swap trap: give Kakatiya **Devagiri**, or Yadava **Warangal**.
 
-### 2018 Q96 — the Warangal name trap
+### Warangal name trap
 
 - Pair **Warangal — Ramchandra Dev** is **NOT** correctly matched.
 - **Ramachandra** is the **Yadava** king of **Devagiri** (the man Alauddin squeezed).
@@ -417,7 +417,7 @@ Teach in this order. Prataparudra II is the **last** king, not the founder.
 
 ---
 
-## 14.8 Historiography — four books (2024 Q134)
+## 14.8 Historiography — four books
 
 **Ancient-paper match | four pairs, one code**
 
@@ -438,7 +438,7 @@ Teach in this order. Prataparudra II is the **last** king, not the founder.
 
 ---
 
-## 14.9 Charaka Samhita (2023 Q25)
+## 14.9 Charaka Samhita
 
 **Ayurveda, internal medicine | 120 chapters, 8 sections**
 
@@ -446,7 +446,7 @@ Teach in this order. Prataparudra II is the **last** king, not the founder.
 - It is a compilation or redaction of the older Agnivesha tradition.
 - The rough window is late centuries BCE to early centuries CE.
 - The structure lock is **120** *adhyayas* (chapters) in **8** *sthanas* (sections).
-- In 2023 Q25, options 100/5, 80/7, and 60/8 are all wrong.
+- Options 100/5, 80/7, and 60/8 are all wrong distractors.
 - The answer is **A**.
 - The eight *sthanas* need not be recited unless a match-list appears.
 - The **count** is what UPPCS asked.
@@ -456,7 +456,7 @@ Teach in this order. Prataparudra II is the **last** king, not the founder.
 - It is classical Sanskrit science.
 - Charaka the physician is not Charvaka the materialist.
 
-> **Exam note:** 2023 Q25 = **A**. Father-of-Indian-medicine tag in Lucent-type books = **Charaka**.
+> **Exam note:** Correct structure = **120 chapters, 8 sections**. Father-of-Indian-medicine tag in Lucent-type books = **Charaka**.
 
 ---
 

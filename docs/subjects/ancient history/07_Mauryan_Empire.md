@@ -167,7 +167,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 - The **sitadhyaksha** holds crown agriculture.
 - The **panyadhyaksha** holds trade.
 - The **akshapataladhyaksha** holds accounts.
-- The **agronomai** are Megasthenes’ rural officers. In UPPCS 2020 they are **revenue / land**.
+- The **agronomai** are Megasthenes’ rural officers for **revenue / land**.
 - The **pativedaka** is the reporter. Rock Edict VI says the king is reachable always.
 - The **gopa** and **sthanika** are Kautilya’s rural circle officers.
 - The **akaradhyaksha** holds mines.
@@ -231,7 +231,7 @@ D. Revenue management
 
 - **PE II** defines dhamma: few sins, many virtues, compassion, liberality, truth, purity. That edict definition is **not** Rahulovada.
 - **Bhabru / Calcutta-Bairat** lists texts for the sangha, including **Laghulovada (Rahulovada)**. Ashoka *knew* the sutta. 2024 still treats “Dhamma is **taken from** Rahulovada” as **false**. State Dhamma is not that sutta’s definition.
-- The cadre is **dhamma-mahamatras** (**RE V**). 2024 wording **14th year** is treated as **true**. Their beat covers Brahmans, Shramanas, Ajivikas, prisoners, border people, women, and slaves.
+- The cadre is **dhamma-mahamatras** (**RE V**). Wording **14th year** after coronation is accepted as correct. Their beat covers Brahmans, Shramanas, Ajivikas, prisoners, border people, women, and slaves.
 - **Bherighosha** becomes **Dhammaghosha** (RE IV / XIII): the war-drum yields to the dhamma-drum.
 - RE II welfare: wells, shade trees, rest-houses, herbs, and hospitals for men **and beasts**. Veterinary care is this lock.
 - RE I cuts kitchen slaughter. He still donates to **Ajivikas** (Barabar). He names Brahmans and Shramanas together (RE III, VII, XII).
@@ -427,7 +427,7 @@ Minor pillar / schism: Sarnath, Sanchi, Kaushambi. **Kaushambi schism** = don’
 - It claims farmers are spared in war.
 - It claims the king never sleeps twice in the same room.
 - It claims women among palace guards.
-- **Agronomoi** work in the countryside. That is the 2020 revenue key.
+- **Agronomoi** work in the countryside as **revenue / land** officers.
 - Strabo also gives them **roads and mile-pillars**. That is option C, the trap.
 - The *Indica* does **not** name Chanakya or the *Arthashastra*.
 
@@ -947,7 +947,7 @@ A. 2 3 1 4  B. 2 3 4 1  C. 3 2 1 4  D. 2 1 3 4
 
 1. It describes the Kalinga slaughter and remorse.  
 2. It names contemporary Hellenistic kings.  
-3. It is the 2022 “religious synthesis” answer.
+3. It names the Mauryan religious-tolerance strand.
 
 How many of the above statements are correct?  
 A. Only one  B. Only two  C. All three  D. None
