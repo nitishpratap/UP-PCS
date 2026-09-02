@@ -61,13 +61,13 @@ Unicorn = most common seal | weights 16 | cotton earliest
 - **Mature Harappan** (~2600–1900 BCE): planned cities, seals, weights, long-distance trade. This is what exams mean by “IVC.”
 - **Late Harappan** (~1900–1300 BCE): de-urbanisation; Cemetery-H, Jhukar, Lustrous Red Ware (Rangpur); OCP overlap in the doab.
 - Spread about **12.5–13 lakh km²**. West–east roughly Sutkagen-dor to Alamgirpur; north–south Manda to Daimabad.
-- **West:** Sutkagen-dor (Makran). **East:** **Alamgirpur** (Meerut, UP) — UPPCS 2023 Q28. **North:** **Manda** (Jammu, Chenab). **South:** **Daimabad** (Maharashtra).
+- **West:** Sutkagen-dor (Makran). **East:** **Alamgirpur** (Meerut, UP). **North:** **Manda** (Jammu, Chenab). **South:** **Daimabad** (Maharashtra).
 - About **1400+** sites known; under **100** fully excavated. Core cluster in Pakistan + Haryana–Rajasthan–Gujarat.
 - Origin: **indigenous** growth from Mehrgarh / Early Harappan is the standard view. Mesopotamian-colony theory is outdated.
 - Decline ~1900 BCE: climate shift, Ghaggar drying, floods, overuse of land. **Wheeler’s Aryan-invasion massacre** at Mohenjo-daro is **rejected**. No single agreed cause.
 - Economy type in match-lists = **Urban** (not pastoral). Pastoral = Rigvedic.
 
-> **Exam note:** Eastern boundary = **Alamgirpur**, not Rakhigarhi. IVC = **Urban** (2020 Q21).
+> **Exam note:** Eastern boundary = **Alamgirpur**, not Rakhigarhi. IVC economy type = **Urban** (Rigvedic = pastoral).
 
 **PYQ — UPPCS Prelims 2020, Q21**
 
@@ -200,7 +200,7 @@ D. 4 3 1 2
 
 - **Shortughai** in Afghanistan is a **lapis lazuli** colony of the Harappans.
 
-> **Exam note:** **Mandi is not Manda**. Rakhigarhi is not in Uttar Pradesh. Padri is Gujarat. Balu is Haryana. Hulas is Uttar Pradesh (2020 Q12).
+> **Exam note:** **Mandi is not Manda**. Rakhigarhi is not in Uttar Pradesh. Padri is Gujarat. Balu is Haryana. Hulas is Uttar Pradesh.
 
 **PYQ — UPPCS Prelims 2020, Q12**
 
@@ -259,9 +259,9 @@ D. 3 2 4 1
 
 - Uttar Pradesh is the **eastern fringe** of Harappan culture, not the Indus core.
 
-- **Alamgirpur** on the Hindon in Meerut marks the **eastern boundary** (2023 Q28).
-- **Hulas** in Baghpat is an eastern Harappan habitation (2018 Q88, 2025 Q87).
-- **Mandi** on the Ramganga in Bijnor is in **Uttar Pradesh** (2021 Q100, 2025 Q87).
+- **Alamgirpur** on the Hindon in Meerut marks the **eastern boundary** of the civilisation.
+- **Hulas** in Baghpat is an eastern Harappan habitation site in Uttar Pradesh.
+- **Mandi** on the Ramganga in Bijnor is also in **Uttar Pradesh** — do not confuse with **Manda** (Jammu).
 - **Sanauli** in Baghpat (2018) has coffins, copper weapons, and **chariots**.
 - Sanauli is Late Harappan / OCP. It is not a Mature urban Indus city.
 
@@ -275,7 +275,7 @@ D. 3 2 4 1
 - **Bhirrana** is in Haryana.
 - **Manda** is in Jammu and Kashmir.
 
-> **Exam note:** 2025 Q87 = Mandi + Hulas; Rakhigarhi out. 2018 Q88 = Alamgirpur + Hulas; Kalibangan + Lothal out.
+> **Exam note:** UP site pair = **Mandi + Hulas**; Rakhigarhi is in Haryana. Eastern boundary = **Alamgirpur + Hulas**; Kalibangan and Lothal are not the eastern edge.
 
 **PYQ — UPPCS Prelims 2025, Q87**
 
@@ -358,7 +358,7 @@ D. III, IV
 - **Bhagatrav** is a Gujarat coastal site.
 - **Nageshwar** is the Gujarat **shell** industry site.
 
-- Boat models or figures come from **Mohenjo-daro and Lothal** (UPPCS 2022 Q68).
+- Boat models or figures come from **Mohenjo-daro and Lothal** — not Dholavira alone.
 - **Dholavira** is **not** that pair. It is inland Kutch water-harvesting.
 
 **Later ports (same syllabus bullet; not Mature Harappan cities)**
@@ -599,7 +599,7 @@ A. Dholavira and Bhagatrav  B. Harappa and Kot Diji  C. Mohenjo-daro and Lothal 
 - DNA papers (Shinde et al.) are used in “Aryan” debates — for Prelims: site = **Haryana**, **not** the eastern end, **not UP**.
 - Budget **2026**: listed with Lothal among 15 experiential archaeological destinations.
 
-> **Exam note:** 2025 Q87 trap. Eastern boundary remains **Alamgirpur**.
+> **Exam note:** Rakhigarhi is in **Haryana**, not Uttar Pradesh. Eastern boundary remains **Alamgirpur**.
 
 ---
 

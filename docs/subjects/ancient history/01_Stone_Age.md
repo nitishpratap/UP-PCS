@@ -192,7 +192,7 @@ Chirand (Saran, Bihar) = bone tools
 - Fishing, antler tools, and shell ornaments rise in riverine camps.
 - The transition to the Neolithic is **gradual**.
 
-> **Exam note:** UPPCS 2018 Q18 keys **Bagor**. **Odai, Bori, and Lakhnia** are distractors. **Bori** in Maharashtra is a claimed **Lower Paleolithic** site, not Mesolithic domestication. Burials belong to **Sarai Nahar Rai** in UP, not to Bagor.
+> **Exam note:** Mesolithic domestication lock = **Bagor**. **Odai, Bori, and Lakhnia** are distractors. **Bori** in Maharashtra is a claimed **Lower Paleolithic** site, not Mesolithic domestication. Burials belong to **Sarai Nahar Rai** in UP, not to Bagor.
 
 **PYQ — UPPCS Prelims 2018, Q18**
 
@@ -465,7 +465,7 @@ D. Lakhnia
 - **V.N. Mishra** did later research at Bhimbetka. He was not the first visitor.
 - **Madho Swaroop Vats** is a **Harappan** archaeologist and the 2020 distractor.
 
-> **Exam note:** UPPCS 2020 Q10 keys **Wakankar**. Vatsa is the Harappan trap.
+> **Exam note:** Bhimbetka was excavated by **Wakankar** (1957–58). Vatsa is the Harappan trap.
 
 **PYQ — UPPCS Prelims 2020, Q10**
 

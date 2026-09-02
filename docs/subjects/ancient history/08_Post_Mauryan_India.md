@@ -68,10 +68,10 @@ Karikala ≠ Rajaraja I | Madurai Sangam | Tolkappiyam | Akam vs Puram
 **185 BCE to Gupta rise ~320 CE | no pan-Indian empire | foreign wave in the NW**
 
 - The last Mauryan **Brihadratha** is killed by general **Pushyamitra Shunga** in **185 BCE**. The north splits. The Deccan has Satavahanas. The deep south has Sangam Muvendar. The NW door runs Indo-Greeks, then Shakas, then Parthians, then Kushans.
-- **2023 Q23** order for the exam trio is **Greeks — Sakas — Kushans**.
+- Exam chronology for the northwest trio is **Greeks — Sakas — Kushans** (Parthians are often dropped in match-lists).
 
 - The **Shungas** last **185–73 BCE**. Magadha is the capital. Vidisha is a second centre. There is a Brahmanical revival.
-- Pushyamitra performs two **ashwamedha** rites. The **Ayodhya inscription** of **Dhanadeva** records those two. **2018 Q91** keys **Ayodhya**, not Besnagar, Hathigumpha, or Sarnath.
+- Pushyamitra performs two **ashwamedha** rites. The **Ayodhya inscription** of **Dhanadeva** records those two — not Besnagar, Hathigumpha, or Sarnath.
 - **Agnimitra** is Pushyamitra’s son. Kalidasa’s *Malavikagnimitra* uses him. **Patanjali** of the *Mahabhashya* is placed in this court in tradition.
 - Buddhist books are hostile, yet Sanchi is still enlarged in this age. The last Shunga **Devabhuti** is killed by **Vasudeva Kanva**.
 
@@ -138,7 +138,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Kharavela (Kalinga, Chedi)**
 - Source: **Hathigumpha** inscription, **Udayagiri**, Odisha.
-- **2018 Q16 answer = Kharavela.** Not Ashoka. Not Harsha. Not Kanishka.
+- **Hathigumpha** belongs to **Kharavela** of Kalinga — not Ashoka, Harsha, or Kanishka.
 - Jain patron. Caves at Udayagiri–Khandagiri.
 - Boasts of campaigns and of recovering a Jina image.
 
@@ -173,15 +173,15 @@ A. Kharvela  B. Ashok  C. Harshavardhan  D. Kanishka
 
 **Bactrian Greeks in India | after Alexander’s satraps | before Shakas | full Alexander line → Topic 6**
 
-- In **2023 Q23** “Greeks” means Alexander’s wave **plus** these Indo-Greeks.
+- In exam chronology, “Greeks” means Alexander’s wave **plus** these Indo-Greeks.
 - They sit **before** Shakas and **before** Kushans.
 - **Greco-Bactria** breaks from the Seleucids under **Diodotus**, about **250 BCE**. **Demetrius I**, about **180 BCE**, makes the first major push into India with an elephant-scalp helmet type.
-- The greatest name is **Menander (Milinda)**. His capital is **Sagala (Sialkot)**. The *Milinda Panha* records his debate with **Nagasena** (2023 Q24).
+- The greatest name is **Menander (Milinda)**. His capital is **Sagala (Sialkot)**. The *Milinda Panha* records his debate with **Nagasena**.
 - **Agathocles** and **Pantaleon** issue early coins with **Brahmi** legends and **Balarama / Vasudeva** types. **Apollodotus** is an early Indian-side silver king.
 - They issue the first **portrait**, die-struck coins in India. Legends are **Greek plus Kharoshthi**. Sometimes Brahmi appears.
 - **Heliodorus**, ambassador of **Antialcidas**, raises the **Besnagar** (Vidisha) Garuda pillar about **113 BCE**. He calls himself a Bhagavata of **Vasudeva**.
 - The *Yuga Purana* memory places **Yavanas** toward **Pataliputra**. That raid belongs to the Indo-Greek age, not to Alexander in 326 BCE.
-- Besnagar is **not** Pushyamitra’s two-ashwamedha record. That is **Ayodhya** (2018 Q91).
+- Besnagar is **not** Pushyamitra’s two-ashwamedha record. That inscription is at **Ayodhya**.
 - Indo-Greek power in the northwest ends when **Shakas** take Gandhara and Punjab.
 
 > **Exam note:** Menander is not Kanishka. Sagala is not Sangala of Alexander. Heliodorus is Besnagar, not Ayodhya.
@@ -271,7 +271,7 @@ D. Sakas — Kushans — Greeks
 - Council-king memory: **Ajatashatru** (1st), **Kalashoka** (2nd), **Ashoka** (3rd), **Kanishka** (4th).
 - Kanishka builds a great stupa at **Peshawar**. Chinese pilgrims later describe it.
 - His coins show **Buddha**, **Shiva**, **Mithra**, and Greek deities on the same series.
-- **2018 Q16** lists Kanishka as an option for **Hathigumpha**. That is a trap. Hathigumpha belongs to **Kharavela** of Kalinga.
+- Kanishka is a common **trap option** for **Hathigumpha**. That inscription belongs to **Kharavela** of Kalinga.
 
 > **Exam note:** Shaka era is not Vikrama 57 BCE. Kanishka is not Kharavela.
 
@@ -346,7 +346,7 @@ A. 4 2 3 1  B. 2 4 1 3  C. 2 4 3 1  D. 4 2 1 3
 
 | Lock | Place |
 |------|--------|
-| Ayodhya ashwamedha inscription | Ayodhya — **2018 Q91** |
+| Ayodhya ashwamedha inscription | Ayodhya — Pushyamitra lock |
 | Mathura | Kushan **second capital**. Mathura art |
 | Sarnath | Not the Pushyamitra ashwamedha record |
 | Deep-south Sangam | Not a UP polity. Ports are Tamilakam |

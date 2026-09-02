@@ -166,7 +166,7 @@ Shaka era 78 CE ≠ Vikrama 57 BCE | Devaputra title | Rabatak genealogy
 - The **Parthians** (Pahlavas) hold a **brief** NW belt in the **1st century CE** between the western Shakas and the rising Kushans. **Gondophares** is the exam name. Full card in **6.8**.
 - The **Kushans** (a Yuezhi clan) build the biggest post-Mauryan foreign empire in the **1st–3rd centuries CE**. **Kanishka** is the greatest ruler. Full cards in **6.9–6.10**.
 
-- The textbook memory order is **Greeks → Shakas → Parthians → Kushans**. UPPCS **2023 Q23** drops Parthians and asks only **Greeks — Sakas — Kushans**.
+- The textbook memory order is **Greeks → Shakas → Parthians → Kushans**. Many match-list stems drop Parthians and test only **Greeks — Sakas — Kushans**.
 - **Vikrama Samvat 57 BCE** is the traditional era of Vikramaditya versus Shakas at Ujjain. It is **not** the Shaka era.
 - **Shaka era 78 CE** is the national-calendar era in exam keys. It is usually tied to **Kanishka’s** accession tradition.
 - Mauryas, Shungas, Satavahanas, and Guptas are **Indian** powers in the gaps. They are not Central Asian invaders.
@@ -241,7 +241,7 @@ A. Nagarjun  B. Nagbhatt  C. Nagasena  D. Kumaril Bhatt
 
 </details>
 
-> **Exam note:** Milinda = **Menander**. Nagasena ≠ Nagarjuna. Heliodorus’ pillar is **Besnagar**. Pushyamitra’s two ashwamedhas are the **Ayodhya** inscription (2018 Q91).
+> **Exam note:** Milinda = **Menander**. Nagasena ≠ Nagarjuna. Heliodorus’ pillar is **Besnagar**. Pushyamitra’s two ashwamedhas are recorded at **Ayodhya**, not Besnagar.
 
 ---
 
@@ -250,7 +250,7 @@ A. Nagarjun  B. Nagbhatt  C. Nagasena  D. Kumaril Bhatt
 **Indo-Scythians from Central Asia | after Indo-Greeks, before Kushans | title kshatrapa / mahakshatrapa**
 
 - The Indian name **Shaka** means the **Scythians**, Iranian nomadic tribes of the Central Asian steppes. They were pushed west and south when Chinese walls blocked their eastern path and pressure built on Bactria and Parthia.
-- They enter northwest India from about the **1st century BCE**, after the Indo-Greek wave. In exam chronology they sit **after Greeks** and **before Kushans** (2023 Q23).
+- They enter northwest India from about the **1st century BCE**, after the Indo-Greek wave. In exam chronology they sit **after Greeks** and **before Kushans**.
 - The Persian administrative word **kshatrapa** (satrap) becomes their Indian title. A great western ruler takes **mahakshatrapa**.
 
 **First Shaka in India — Maues / Moga**
@@ -334,7 +334,7 @@ A. Nagarjun  B. Nagbhatt  C. Nagasena  D. Kumaril Bhatt
 **Kanishka monuments and religion**
 - Kanishka builds a great stupa at **Peshawar**. Chinese pilgrims later describe it as a wonder.
 - His coins show **Buddha**, **Shiva**, **Mithra**, and Greek deities on the same monetary series. That mirrors Kushan religious eclecticism.
-- **2018 Q16** lists Kanishka as an option for **Hathigumpha**. That is a trap. Hathigumpha belongs to **Kharavela** of Kalinga.
+- Kanishka is a common **trap option** for **Hathigumpha**. That inscription belongs to **Kharavela** of Kalinga — not Ashoka, Harsha, or Kanishka.
 
 **PYQ — UPPCS Prelims 2023, Q23**
 

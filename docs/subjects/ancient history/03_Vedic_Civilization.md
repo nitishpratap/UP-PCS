@@ -143,7 +143,7 @@ D. 4 3 1 2
 - The **ratha** is a horse-chariot.
 - There are no stone cities, no iron, and no coins.
 
-> **Exam note:** UPPCS 2020 Q21 keys Rigvedic society as **Pastoral**, not agrarian.
+> **Exam note:** Rigvedic society is **Pastoral**, not agrarian. Later Vedic = agrarian.
 
 ---
 
@@ -153,7 +153,7 @@ D. 4 3 1 2
 
 - Iron and the plough open Gangetic forests.
 - Surplus supports specialists.
-- The economy type in match-lists is **Agrarian** (2020 Q21).
+- The economy type in match-lists is **Agrarian** — not pastoral like the Rigvedic phase.
 - The **jana** becomes a **janapada**, a territorial kingdom.
 - Famous Later Vedic polities are **Kuru** and **Panchala**.
 - **Kosala** is a Later Vedic polity in eastern UP.
@@ -195,7 +195,7 @@ D. 4 3 1 2
 - The **gramani** is the village head and is also listed among the ratnins.
 - The **bhagadugha** is the **revenue collector**.
 - He takes the king’s **bhaga** (share) of produce or booty.
-- **UPPCS 2023 Q26** keys Bhagadugha as **D**.
+- **Bhagadugha** collects the king’s **bhaga** (revenue share) — the standard match-list lock for that officer.
 - The **sangrahitri** is the treasurer or chamberlain.
 - The **akshavapa** is the officer of **dice and gambling**, and sometimes of accounts.
 - Akshavapa is option **C** in 2023. It is the **wrong** answer for Bhagadugha, but it is a **real** office. Learn both.
@@ -364,7 +364,7 @@ D. Revenue Collector
 - The **Yajurveda** is a book of **yajus**. It is the adhvaryu’s sacrificial handbook.
 - **Shukla (White) Yajurveda** keeps mantra and Brahmana **apart**.
 - Its Samhita is **Vajasaneyi**, with Madhyandina and Kanva schools.
-- UPPCS 2018 prints **Vajasanami**. That is the same name. The answer is **A**.
+- Some papers print **Vajasanami** — that is the same school as **Vajasaneyi** (Shukla Yajurveda).
 - **Krishna (Black) Yajurveda** mixes mantra and prose.
 - Its Samhitas are **Taittiriya**, **Kathaka**, and **Maitrayani**. Some lists add Kapishthala.
 - In 2018, options B, C, and D are all **Krishna**.
@@ -375,7 +375,7 @@ D. Revenue Collector
 - The four ritual priests are the **Hotri** of the Rigveda, the **Udgatri** of the Samaveda, the **Adhvaryu** of the Yajurveda, and the **Brahman** of the Atharvaveda overall.
 - Traditional compiler of the Vedas is **Vyasa**.
 
-> **Exam note:** 2018 Q13 — Shukla = **Vajasaneyi**. Taittiriya / Maitrayani / Kathak = **Krishna**.
+> **Exam note:** Shukla Yajurveda = **Vajasaneyi** (also printed Vajasanami). Taittiriya / Maitrayani / Kathak = **Krishna** Yajurveda.
 
 **PYQ — UPPCS Prelims 2018, Q13**
 

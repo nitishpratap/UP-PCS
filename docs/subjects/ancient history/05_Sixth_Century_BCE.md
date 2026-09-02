@@ -135,7 +135,7 @@ Curtius army: 2 lakh foot, 20k horse, 2k chariots, 3k elephants | Alexander neve
 - North Panchala has **Ahichchhatra** in Bareilly. South Panchala has **Kampilya** in Farrukhabad. Epic memory makes it Draupadi’s home.
 
 **Matsya**
-- The capital is Viratnagar / Bairat in the Jaipur–Alwar belt. In **2020** Matsya is **not** Mathura.
+- The capital is Viratnagar / Bairat in the Jaipur–Alwar belt. Matsya is **not** Mathura — Mathura belongs to **Surasena**.
 
 **Surasena**
 - The capital is **Mathura**, in the Vrishni–Andhaka / Krishna belt. Mathura is the **2020** capital lock.

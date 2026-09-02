@@ -49,6 +49,9 @@ Bhagavatism = Vasudeva-Krishna, Mathura (UP) | Heliodorus pillar Besnagar
 | Four Noble Truths | Eightfold Path | Diagnosis of dukkha vs the **Magga** prescription | चार आर्य सत्य / अष्टांग मार्ग |
 | Hinayana | Mahayana | **Arhat**, Pali, self-liberation vs **bodhisattva**, Sanskrit | हीनयान / महायान |
 | Mahayana | Vajrayana | Sutra / emptiness vs **tantra**, mantra, Tibet | महायान / वज्रयान |
+| Sthaviravada | Mahasanghika | Vaishali **elders** vs **great assembly** split | स्थविर / महासंघ |
+| Theravada | Sarvastivada | **Pali** south-Asian line vs **Sanskrit** north line (4th Council) | थेरवाद / सर्वास्तिवाद |
+| Nagarjuna | Nagasena | **Madhyamaka** philosopher vs **Milinda Panha** monk | नागार्जुन / नागसेन |
 | Vinaya | Sutta | Monk **rules** vs Buddha’s **discourses** | विनय / सुत्त |
 | Chaitya | Vihara | Prayer hall vs monastery | चैत्य / विहार |
 | Barabar | Ajanta | Mauryan, **Ajivika** gift vs later **Buddhist** painted caves | बराबर / अजंता |
@@ -162,28 +165,27 @@ Bhagavatism = Vasudeva-Krishna, Mathura (UP) | Heliodorus pillar Besnagar
 
 ## 4.6 Buddhist Councils
 
-**Place order is the 2025 lock | Rajagriha first, not Vaishali**
+**Chronological place-order | Rajagriha first, not Vaishali**
 
-- Councils are remembered as meetings that **fixed the teaching** after the Buddha’s death. The place-order is the 2025 lock.
-- The **First Council** met at **Rajagriha**, in the Sattapanni cave, soon after Mahaparinirvana.
-- **Ajatashatru** of Magadha was the patron. **Mahakassapa** presided.
-- **Upali** recited the Vinaya. **Ananda** recited the Suttas. That is why those two names stick to the first council.
+- Councils are remembered as meetings that **fixed the teaching** after the Buddha’s death.
+- The **place order** is the highest-yield lock: Rajagriha → Vaishali → Pataliputra → Kundalvana.
+- Do not start the list at Vaishali. Do not place Kundalvana before Pataliputra.
 
-- The **Second Council** met at **Vaishali** about a century later, under **Kalashoka**.
-- A ten-point dispute over **Vinaya laxity** split the order into **Sthaviravada** (elders) and **Mahasanghika** (great assembly).
+| # | Place | Patron / ruler | President | Main outcome |
+|---|-------|----------------|-----------|--------------|
+| **1st** | **Rajagriha** (Sattapanni cave) | **Ajatashatru** (Magadha) | **Mahakassapa** | **Upali** recited **Vinaya**; **Ananda** recited **Suttas** |
+| **2nd** | **Vaishali** | **Kalashoka** | — | Ten-point **Vinaya** dispute; split into **Sthaviravada** (elders) and **Mahasanghika** (great assembly) |
+| **3rd** | **Pataliputra** | **Ashoka** | **Moggaliputta Tissa** | **Vibhajjavada** line wins; **Abhidhamma** and *Kathavatthu*; missions to Sri Lanka (**Mahinda**, **Sanghamitta**) |
+| **4th** (north-Indian list) | **Kundalvana**, Kashmir | **Kanishka** | **Vasumitra** (+ **Ashvaghosha**) | **Sarvastivada** school; **Sanskrit** turn; *Mahavibhasha* compiled; Mahayana gains Kushan patronage |
 
-- The **Third Council** met at **Pataliputra** under **Ashoka**.
-- **Moggaliputta Tissa** presided. Theravada memory ties Abhidhamma and the *Kathavatthu* to this meeting.
-- The winning line is called **Vibhajjavada**. **Missions** went out after it, including **Mahinda** and **Sanghamitta** to Sri Lanka.
+- Theravada tradition also remembers a separate “fourth” council at **Anuradhapura** (Sri Lanka) under **Vattagamani**, when the **Pali canon was written down**.
+- For the **four-council chronology** question, the fourth place is **Kundalvana** — not Anuradhapura.
 
-- The **Fourth Council** in the north-Indian exam list met at **Kundalvana** in Kashmir under **Kanishka**.
-- **Vasumitra** presided. **Ashvaghosha** is the other named scholar.
-- The school is Sarvastivada. The language turn is **Sanskrit**. The *Mahavibhasha* is compiled, and Mahayana gains a royal hook.
-
-- Theravada also remembers a “fourth” council in Sri Lanka under **Vattagamani**, when the Pali canon was written down.
-- **UPPCS 2025 used Kundalvana**, not Anuradhapura.
+> **Exam note:** First = Rajagriha, not Vaishali. Fourth = Kundalvana, not Sri Lanka. Split at Vaishali = Sthaviravada vs Mahasanghika.
 
 **PYQ — UPPCS Prelims 2025, Q105**
+
+**Exam logic:** Tests **chronological order of council venues**, not presidents or outcomes. Trap = starting at Vaishali (2nd) or placing Kundalvana (4th) before Pataliputra (3rd).
 
 The four Buddhist Councils were held at the following places. Arrange them in correct chronological order:
 
@@ -197,7 +199,7 @@ A. 1, 2, 4, 3  B. 2, 1, 3, 4  C. 2, 1, 4, 3  D. 1, 2, 3, 4
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Rajagriha → Vaishali → Pataliputra → Kundalvana (**2-1-4-3**). First is **not** Vaishali.
+**Ans: C** — Rajagriha → Vaishali → Pataliputra → Kundalvana (**2-1-4-3**). First is **not** Vaishali. Kundalvana is **last**, not second.
 
 </details>
 
@@ -208,7 +210,8 @@ A. 1, 2, 4, 3  B. 2, 1, 3, 4  C. 2, 1, 4, 3  D. 1, 2, 3, 4
 **Outside the three baskets — still asked**
 
 - Beside the Tripitaka, papers ask a few **named books**.
-- The **Milinda Panha** (*Milind Panho*) is a dialogue of Indo-Greek **Menander (Milinda)** and the monk **Nagasena**. **UPPCS 2023 Q24** keys Nagasena, not Nagarjuna or Kumarila.
+- The **Milinda Panha** (*Milind Panho*) is a dialogue of Indo-Greek **Menander (Milinda)** and the monk **Nagasena**.
+- Do not swap **Nagasena** with **Nagarjuna** (Madhyamaka philosopher) or **Kumarila Bhatta** (Mimamsa).
 - The **Jataka** stories tell previous births of the Buddha. They sit inside the Khuddaka Nikaya. The count is often cited as 547.
 - The **Dhammapada** is verse ethics inside the same Khuddaka.
 - The **Buddhacharita** is a Sanskrit life of the Buddha by **Ashvaghosha** of the Kanishka age. The **Saundarananda** is his other poem.
@@ -221,6 +224,8 @@ A. 1, 2, 4, 3  B. 2, 1, 3, 4  C. 2, 1, 4, 3  D. 1, 2, 3, 4
 
 **PYQ — UPPCS Prelims 2023, Q24**
 
+**Exam logic:** Tests the **Milinda Panha** pair — Menander and his interlocutor. Trap = **Nagarjuna** (Mahayana philosopher) or **Kumarila Bhatta** (Mimamsa).
+
 *Milind Panho* is in the form of a dialogue between King Milind and a Buddhist saint. The concerned saint was—
 
 A. Nagarjun  B. Nagbhatt  C. Nagasena  D. Kumaril Bhatt
@@ -228,7 +233,7 @@ A. Nagarjun  B. Nagbhatt  C. Nagasena  D. Kumaril Bhatt
 <details>
 <summary>Show answer</summary>
 
-**Ans: C — Nagasena.**
+**Ans: C — Nagasena.** Nagarjuna wrote *Madhyamaka Karika*; Kumarila Bhatta was a Mimamsaka, not a Buddhist monk.
 
 </details>
 
@@ -255,12 +260,23 @@ A. Nagarjun  B. Nagbhatt  C. Nagasena  D. Kumaril Bhatt
 **“Lesser vehicle” — a Mahayana nickname; exams still use it**
 
 - **Hinayana** (“lesser vehicle”) is a **Mahayana nickname**. Exams still use it for the early path that aims at the **arhat**, not the bodhisattva.
-- Here the Buddha is a teacher, not a cosmic saviour. The canon is **Pali**. Early art is **aniconic**.
-- The surviving school is **Theravada** in Sri Lanka, Myanmar, and Thailand.
-- **Sthaviravada** is the Second Council ancestor. Papers often equate it with Theravada.
-- Other early names in the Sarvastivada family are **Vaibhashika** and **Sautrantika**.
-- “Eighteen schools” is a commentarial count after the Vaishali split. Do not memorise all eighteen.
+- Here the Buddha is a teacher, not a cosmic saviour. Early art is **aniconic**.
+- The classic goal is **arhatship** — personal liberation, not the bodhisattva vow.
 - In the exam the word does **not** mean “inferior Buddhism.” It names this path-type. Prefer **Theravada** in your own wording.
+
+| School / label | Link | Canon / language | Exam lock |
+|----------------|------|------------------|-----------|
+| **Sthaviravada** | Split from **Mahasanghika** at the **2nd Council** (Vaishali) | Elders’ line; ancestor of later “Hinayana” schools | Do not date to the Buddha’s lifetime |
+| **Mahasanghika** | Other side of the Vaishali split | “Great assembly” — more liberal on Vinaya | Split partner of Sthaviravada |
+| **Theravada** | Living “Hinayana” school; **Vibhajjavada** line from the **3rd Council** | **Pali** **Tripitaka** | Sri Lanka, Myanmar, Thailand |
+| **Sarvastivada** | Strong in north India; tied to **Kanishka’s 4th Council** | **Sanskrit**; *Mahavibhasha* | “All exists” doctrine — not Theravada |
+| **Vaibhashika** | Sarvastivada subschool | Commentarial realism | Named pair with Sautrantika |
+| **Sautrantika** | Sarvastivada subschool | Sutra-only emphasis | Named pair with Vaibhashika |
+
+- Commentarial tradition counts **eighteen schools** after the Vaishali split. Do not memorise all eighteen names.
+- **Sthaviravada** is the Second Council ancestor. Papers often equate it with **Theravada**, but Sarvastivada is a separate northern Hinayana line.
+
+> **Exam note:** Hinayana = arhat + Pali canon (Theravada). Sarvastivada = Sanskrit + 4th Council. Mahasanghika is the Vaishali split partner, not a Mahayana school.
 
 ---
 
@@ -270,11 +286,20 @@ A. Nagarjun  B. Nagbhatt  C. Nagasena  D. Kumaril Bhatt
 
 - **Mahayana** (“great vehicle”) aims at the **bodhisattva**, who postpones own nirvana to save all beings.
 - Named bodhisattvas: **Avalokiteshvara / Padmapani** (compassion), **Manjushri** (wisdom), **Vajrapani** (power), **Maitreya** (the future Buddha), and **Tara** (saviouress).
-- **Nagarjuna** teaches Madhyamaka / sunyata. Yogacara is linked to Asanga and Vasubandhu.
 - Images of the Buddha become common. The language of many new sutras is **Sanskrit**.
 - The path spread to China, Korea, Japan, Vietnam, and Nepal.
 - Later eastern India sees Pala patronage of **Nalanda** and **Vikramashila**. Nalanda’s founder-patron is still **Kumaragupta I**.
-- Kanishka’s Kashmir council is the usual royal hook for this turn.
+- Kanishka’s Kashmir council is the usual royal hook for the Sanskrit turn.
+
+| Mahayana school | Teacher / text | Core idea |
+|-----------------|----------------|-----------|
+| **Madhyamaka** | **Nagarjuna** — *Madhyamaka Karika* | **Sunyata** (emptiness); middle way between eternalism and nihilism |
+| **Yogacara / Vijnanavada** | **Asanga**, **Vasubandhu** | Mind-only / consciousness school; not Early Nikaya teaching |
+
+- Mahayana sutras that exams name include the **Prajnaparamita**, the Lotus Sutra (*Saddharmapundarika*), and the *Lankavatara*.
+- Do not place Madhyamaka or Yogacara in the Hinayana column. They are Mahayana philosophy schools.
+
+> **Exam note:** Nagarjuna = Madhyamaka / sunyata. Nagasena = Milinda Panha. Asanga–Vasubandhu = Yogacara.
 
 ---
 
@@ -286,6 +311,14 @@ A. Nagarjun  B. Nagbhatt  C. Nagasena  D. Kumaril Bhatt
 - **Padmasambhava** takes it to Tibet. Nalanda and Vikramashila monks carry the same stream.
 - Eastern India also uses the labels **Mantrayana** and **Sahajayana**.
 - It is **not** Hinayana vinaya-purism. Do not date it to the Buddha’s lifetime.
+
+### Buddhist vehicles — one glance
+
+| Vehicle | Goal | Language / method | Named schools / locks |
+|---------|------|-------------------|------------------------|
+| **Hinayana** | **Arhat** | **Pali** canon; vinaya-pure | Theravada, Sarvastivada, Vaibhashika, Sautrantika |
+| **Mahayana** | **Bodhisattva** | **Sanskrit** sutras; Buddha as saviour | Madhyamaka (Nagarjuna), Yogacara (Asanga–Vasubandhu) |
+| **Vajrayana** | Same bodhisattva ideal, tantric means | Mantra, mandala, guru | Padmasambhava → Tibet; Mantrayana, Sahajayana |
 
 ---
 
@@ -309,9 +342,13 @@ A. Nagarjun  B. Nagbhatt  C. Nagasena  D. Kumaril Bhatt
 - **Kanheri** is in Mumbai / Sanjay Gandhi park. It is late western Buddhist.
 
 - Andhra stupas of the Amaravati school have a drum and **ayaka / aryaka** platforms.
-- **UPPCS 2022 Q80** expected **Ghantasala**, not Bodh Gaya. Bodh Gaya is a temple site, not this stupa type.
+- **Ghantasala** is the named site for a platform with **aryaka-pillars**. Bodh Gaya is a temple site, not this stupa type.
+
+> **Exam note:** Amaravati school uses ayaka platforms generally, but match-the-site traps often target **Ghantasala**. Bodh Gaya is the wrong architecture family.
 
 **PYQ — UPPCS Prelims 2022, Q80**
+
+**Exam logic:** Tests **stupa architecture vocabulary** — aryaka-pillars on a platform. Trap = **Bodh Gaya** (Mahabodhi temple) or generic Amaravati without the named Andhra site.
 
 In which of the following stupas are the features of a platform with **'Aryaka-Pillars'** found?
 
@@ -320,7 +357,7 @@ A. Nagarjunakonda  B. Ghantasala  C. Amaravati  D. Bodhgaya
 <details>
 <summary>Show answer</summary>
 
-**Ans: B — Ghantasala.** Amaravati school uses ayaka generally; the paper’s key is Ghantasala. Bodh Gaya is the wrong architecture family.
+**Ans: B — Ghantasala.** Amaravati school uses ayaka generally; Bodh Gaya is the wrong architecture family.
 
 </details>
 
@@ -332,8 +369,8 @@ A. Nagarjunakonda  B. Ghantasala  C. Amaravati  D. Bodhgaya
 
 - After **Kalinga**, Ashoka pushes **Dhamma**: ahimsa, tolerance, and welfare. The policy is Buddhist-coloured, but it is **not** a quote-for-quote conversion of the empire into a church.
 - The **Third Council** meets at Pataliputra under him. **Mahinda** and **Sanghamitta** go to Sri Lanka with the mission.
-- **Dhamma-mahamatras** were created **13 years after coronation** (Rock Edict V). Exam wording **“14th year”** is treated as **correct** in 2024.
-- The claim **“Dhamma is taken from the Rahulovada-sutta”** is **incorrect** for 2024. His Dhamma is his own edict-ethic, not that sutta’s definition.
+- **Dhamma-mahamatras** were created **13 years after coronation** (Rock Edict V). Papers often phrase this as the **“14th year”** — treat that as correct.
+- The claim **“Dhamma is taken from the Rahulovada-sutta”** is **incorrect**. His Dhamma is his own edict-ethic, not that sutta’s definition.
 - The **Sarnath** lion capital is the national emblem. Tradition credits him with **84,000** stupas.
 - Exam stupas of this age include **Sanchi** near Vidisha and **Bharhut** near Satna. Sculpture-school detail belongs to Art.
 - The **Bhabru / Bairat** edict lists Buddhist texts he valued. It still does **not** mean “Dhamma equals the Rahulovada definition.”
@@ -341,6 +378,8 @@ A. Nagarjunakonda  B. Ghantasala  C. Amaravati  D. Bodhgaya
 - Edict **XII** is religious tolerance. Edict **XIII** is Kalinga. Those numbers are Ashoka’s rock set.
 
 **PYQ — UPPCS Prelims 2024, Q20**
+
+**Exam logic:** Tests two Ashokan Dhamma locks — Rahulovada as *source* (false) vs Dhamma-mahamatras in the 14th year (true). Stmt 1 is the doctrinal trap; Stmt 2 is the cadre lock.
 
 Consider the following statements with respect to Ashoka:
 
@@ -352,7 +391,7 @@ A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: D — Only 2.** Stmt 1 is the trap. Stmt 2 is accepted.
+**Ans: D — Only 2.** Stmt 1 is false — Dhamma is Ashoka’s edict-ethic, not the Rahulovada-sutta definition. Stmt 2 is true — Dhamma-mahamatras are a real Ashokan cadre.
 
 </details>
 
@@ -491,7 +530,7 @@ D. Mahavira — Pavapuri
 - Early companion **Makkhali Gosala** later broke away as the Ajivika teacher.
 - Pali texts call Mahavira **Nigantha Nataputta**.
 
-> **Exam note:** The Pavapuri pair is **correct**, not the 2021 trap. Vasupujya’s wrong pair is Sammedashikhar.
+> **Exam note:** The Pavapuri pair is **correct**. The trap pair is Vasupujya–Sammedashikhar; Vasupujya’s nirvana is **Champapuri**.
 
 ---
 
