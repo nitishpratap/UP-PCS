@@ -57,6 +57,18 @@ Curtius army: 2 lakh foot, 20k horse, 2k chariots, 3k elephants | Alexander neve
 ---
 
 ## 5.1 Political Condition of Sixth Century BCE
+## 5.1a Second Urbanisation — Causes and Features
+
+**~600–300 BCE | iron + towns + coins | after Harappan decline**
+
+- **Iron tools** opened forest land and strengthened plough agriculture in the middle Ganga.
+- Surplus grain supported **specialised crafts** and a merchant class (*setthi*).
+- **Fortified towns** with ramparts, craft quarters, and administrative centres multiplied.
+- **Punch-marked silver** (*karshapana*) eased wider exchange; writing spread on pots and seals.
+- **NBPW** marks elite urban table culture; it begins in mahajanapada towns and continues into Mauryan strata.
+- This phase is the **second urbanisation** because the first was the Harappan system.
+
+
 
 **Iron Age Gangetic states | second urbanisation | age of the Buddha and Mahavira**
 
@@ -78,6 +90,26 @@ Curtius army: 2 lakh foot, 20k horse, 2k chariots, 3k elephants | Alexander neve
 ---
 
 ## 5.2 Sixteen Mahajanapadas
+## 5.2a Gana-Sangha Polity — Vajji and Malla
+
+**Oligarchic kshatriya clans | assembly rule | Magadha's hardest target**
+
+- A **gana-sangha** is rule by an assembly of kshatriya clans, not a hereditary single king.
+- The Buddha praised the **Vajji** league for frequent, well-attended assemblies.
+- **Vajji** united **eight clans**. Leading houses were the **Licchavis** of Vaishali, the **Videhas** of Mithila, and the **Jnatrikas** (Mahavira's clan).
+- **Malla** was a gana with two centres: **Kushinagar** and **Pava**.
+- Assembly sites used open pavilions such as the **santhagara**; decisions needed clan consensus.
+- Gana-sanghas fell because they could not match Magadhan standing armies, siege engines, and ministerial intrigue.
+- **Magadha** remained a **monarchy** through the Haryanka age. It was never itself a gana-sangha.
+
+| Feature | Gana-sangha (e.g. Vajji, Malla) | Monarchy (e.g. Magadha, Kosala) |
+|---------|--------------------------------|----------------------------------|
+| Ruler | Clan assembly / oligarchy | Hereditary king |
+| Capital examples | Vaishali, Kushinagar | Rajagriha, Shravasti |
+| Army | Clan levies | Standing **chaturanga** force |
+| Exam trap | Vajji is **not** one of the "four monarchies" | Magadha is **not** a gana |
+
+
 
 **Solasa mahajanapada | Anguttara Nikaya | Jain *Bhagavati* also knows 16**
 
@@ -215,6 +247,45 @@ A. 4 2 1 3  B. 3 1 4 2  C. 3 4 1 2  D. 2 3 4 1
 ---
 
 ## 5.5 Expansion of Mahajanapadas
+## 5.5a Wars of Magadhan Expansion — Cause, Course, Result
+
+### Bimbisara's annexation of Anga
+
+**Cause:** Anga's **Champa** port controlled lower-Ganga trade; a eastern base was useful against Kashi rivalry.  
+**Course:** Bimbisara campaigned against Anga and took **Champa**. Marriage ties with Kosala had eased the western flank.  
+**Result:** Anga became the **first** Magadha annexation. Magadha gained a river emporium toward Bengal.
+
+### Ajatashatru's war with Kosala (Kashi)
+
+**Cause:** After parricide, Kosala under **Prasenajit** backed anti-Magadhan factions; **Kashi** was the prize city.  
+**Course:** Ajatashatru fought Kosala, then sealed peace by marrying **Vajira**, Prasenajit's daughter.  
+**Result:** Magadha kept leverage over **Kashi**. Kosala remained a rival until later Nanda pressure.
+
+### Ajatashatru's war with the Vajji confederacy (~16 years)
+
+**Cause:** Vajji wealth, Vaishali's assemblies, and fear of a Licchavi–Kosala league threatened Magadhan supremacy.  
+**Course:** Ajatashatru used the **rathamusala** (scythed chariot) and **mahashilakantaka** (catapult). Minister **Vassakara** sowed discord inside the Licchavi assembly. **Pataligrama** was fortified as a forward base.  
+**Result:** Vajji was absorbed into Magadha. **Pataligrama** became the seed of **Pataliputra**.
+
+### Vidudabha's destruction of the Shakyas
+
+**Cause:** Kosala's **Vidudabha** resented Shakyas of Kapilavastu after a court insult tradition.  
+**Course:** He invaded Shakya territory under Kosalan suzerainty.  
+**Result:** The **Shakyas** disappear as a political unit. This is **Kosala internal**, not a Magadhan conquest.
+
+### Shishunaga's conquest of Avanti
+
+**Cause:** **Avanti** under the **Pradyota** line had long balanced Magadha, Vatsa, and Kosala.  
+**Course:** Shishunaga marched against Avanti and ended the Pradyota house.  
+**Result:** **Ujjain** entered Magadha's orbit. Avanti ceased to be one of the four great monarchies.
+
+### Mahapadma Nanda's conquests
+
+**Cause:** Leftover mahajanapada boards (Kuru, Panchala, Kosala, Vatsa) still blocked a Gangetic empire.  
+**Course:** **Mahapadma Nanda** overthrew the Shishunaga tail and rolled up the middle Ganga belt.  
+**Result:** First large **Gangetic empire** before the Mauryas. Titles **ekarat** and **sarvakshatrantaka** belong here.
+
+
 
 **Who ate whom — Magadha wins the century**
 

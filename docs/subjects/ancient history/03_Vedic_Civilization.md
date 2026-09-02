@@ -204,6 +204,21 @@ D. 4 3 1 2
 - The **takshan** is the carpenter.
 - **Govikartana** appears in ratnin lists.
 - **Palagala** also appears in ratnin lists.
+
+| Ratnin (jewel-officer) | Role |
+|------------------------|------|
+| **Purohita** | Chief priest and royal adviser |
+| **Senani** | Army commander |
+| **Gramani** | Village head |
+| **Suta** | Charioteer / court bard |
+| **Kshattri** | Chamberlain-type officer |
+| **Bhagadugha** | Revenue collector of the king’s **bhaga** |
+| **Sangrahitri** | Treasurer |
+| **Akshavapa** | Dice / gambling officer (2023 trap vs Bhagadugha) |
+| **Takshan** | Carpenter |
+| **Govikartana** | Cowherd / cattle officer in lists |
+| **Palagala** | Another ratnin name in Later Vedic lists |
+
 - **Bali** is tribute.
 - **Bhaga** is the king’s share.
 - Later **shulka** is a toll.
@@ -231,6 +246,37 @@ D. Revenue Collector
 ---
 
 ## 3.5 Rigvedic Economy
+## 3.18 Later Vedic Economy
+
+- Later Vedic society became **agrarian** because the **iron plough** opened Gangetic forest and supported **surplus grain**.
+- **Land grants to priests (brahmadeya)** began the pattern of religious landlords.
+- **Bali** (tribute) and **bhaga** (king's share) were collected; **shulka** (toll) appears in later texts.
+- Iron tools are the material backbone — linked to **PGW** layers in the doab.
+- This economy supports the **second urbanisation** and the rise of **sixteen mahajanapadas** from about the sixth century BCE.
+
+## 3.19 Rigvedic vs Later Vedic — Comparison Framework
+
+| Point | Rigvedic | Later Vedic |
+|-------|----------|-------------|
+| Territory | **Sapta Sindhu** (Punjab) | **Ganga–Yamuna doab** and beyond |
+| Economy | **Pastoral** | **Agrarian** |
+| Polity | elected **rajan** + Sabha–Samiti | hereditary **raja**; weaker assemblies |
+| Archaeology | no cities | **PGW** villages and forts |
+
+## 3.20 Vedic Religion and Ritual
+
+- Early Vedic religion was **nature worship** through **hymns and fire sacrifice** — **no temples and no idols**.
+- **Indra** has the most Rigvedic hymns; **Agni** carries offerings; **Varuna** guards **rita** (cosmic order).
+- Later Vedic kings used **Rajasuya**, **Ashvamedha**, and **Vajapeya** to claim **supremacy**.
+- Thought shifted from **Brahmana** ritual to **Upanishadic** knowledge (Brahman–Atman).
+
+### Battle of Ten Kings (Dasarajna) — Cause, Course, Result
+
+**Cause:** Rival tribal confederacies fought for pasture and river water in **Sapta Sindhu**.  
+**Course:** Bharata king **Sudas**, advised by **Vasishtha**, fought a **ten-king coalition** on the **Parushni (Ravi)**; **Visvamitra** on the opposite side.  
+**Result:** Sudas **won**; Bharata–Tritsu line became prominent in Rigvedic memory.
+
+
 
 **Cattle-wealth · barter · barley · no coins · no iron plough**
 

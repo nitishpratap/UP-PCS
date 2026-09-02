@@ -68,6 +68,14 @@ Karikala ≠ Rajaraja I | Madurai Sangam | Tolkappiyam | Akam vs Puram
 **185 BCE to Gupta rise ~320 CE | no pan-Indian empire | foreign wave in the NW**
 
 - The last Mauryan **Brihadratha** is killed by general **Pushyamitra Shunga** in **185 BCE**. The north splits. The Deccan has Satavahanas. The deep south has Sangam Muvendar. The NW door runs Indo-Greeks, then Shakas, then Parthians, then Kushans.
+
+### Pushyamitra Shunga coup (185 BCE) — Cause, Course, Result
+
+**Victim:** last Mauryan **Brihadratha** | **Actor:** Mauryan general **Pushyamitra Shunga**
+
+**Cause:** The Mauryan empire had weakened after **Ashoka**. The last king **Brihadratha** could not hold the army or the treasury.  
+**Course:** General **Pushyamitra Shunga** killed **Brihadratha** at a review and seized Magadha. Buddhist tradition is hostile, but **Sanchi** still grew in this age.  
+**Result:** The **Mauryan empire ended** in **185 BCE**. The **Shunga dynasty** ruled Magadha until **73 BCE**. Pushyamitra performed **two ashwamedhas**, recorded at **Ayodhya** — not Besnagar or Hathigumpha.
 - Exam chronology for the northwest trio is **Greeks — Sakas — Kushans** (Parthians are often dropped in match-lists).
 
 - The **Shungas** last **185–73 BCE**. Magadha is the capital. Vidisha is a second centre. There is a Brahmanical revival.
@@ -106,7 +114,14 @@ D. Hathigumpha inscription
 - The founder in tradition is **Simuka**. Capitals are **Pratishthana (Paithan)** and **Amaravati**. The title **Dakshinapathapati** means lord of the southern path. Names are often **metronymic**: Gautamiputra, Vashishthiputra.
 
 - **Satakarni I** is the early expansion king. The **Naneghat** inscription of queen **Naganika** belongs to this house.
-- **Gautamiputra Satakarni** is the greatest. He beats Shaka **Nahapana**. Proof is the **Nasik prasasti** of his mother **Gautami Balashri**. He restruck Nahapana’s silver, of the Jogalthembi hoard type.
+- **Gautamiputra Satakarni** is the greatest.
+### Gautamiputra Satakarni vs Nahapana — Cause, Course, Result
+
+**Cause:** Shaka **Nahapana** (Kshaharata) controlled a belt from **Ajmer** to **Nasik** and threatened Satavahana survival.  
+**Course:** **Gautamiputra Satakarni** defeated Nahapana. The **Nasik prasasti** of **Gautami Balashri** records the victory. Nahapana's silver was restruck.  
+**Result:** Satavahana power peaked in the western Deccan. Later Shaka greatness passed to the **Kardamaka** house of **Rudradaman**.
+
+ He beats Shaka **Nahapana**. Proof is the **Nasik prasasti** of his mother **Gautami Balashri**. He restruck Nahapana’s silver, of the Jogalthembi hoard type.
 - **Vashishthiputra Pulumavi** is his son and continues the house. **Hala** wrote the *Gatha Saptasati* in Prakrit. **Yajna Sri Satakarni** puts a **ship** on coins. That is the sea-trade lock.
 
 - They nurtured **Prakrit** in inscriptions and *gathas*, not Sanskrit as the court speech. **Public art** got more push: the **Amaravati** stupa, the **Karle** chaitya, and the Nasik caves.
@@ -137,6 +152,15 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 **Peninsula below the Vindhyas | Kalinga + Tamilakam + later match-list houses**
 
 **Kharavela (Kalinga, Chedi)**
+### Kharavela — Hathigumpha Campaigns (Cause, Course, Result)
+
+**Source:** Hathigumpha inscription, Udayagiri | **Dynasty:** Mahameghavahana / Chedi | **Religion:** Jain
+
+**Cause:** Kalinga sought independence, trade prestige, and recovery of cult images after Nanda/Mauryan pressure.  
+**Course:** The inscription records recovery of a **Jina image** carried off by a **Nanda** king; military expeditions toward **Magadha** and the **south**; gifts to monks and public works.  
+**Result:** Kharavela is the strongest **post-Mauryan Kalinga** ruler in epigraphy. He is **not** Ashoka, Harsha, or Kanishka.
+
+
 - Source: **Hathigumpha** inscription, **Udayagiri**, Odisha.
 - **Hathigumpha** belongs to **Kharavela** of Kalinga — not Ashoka, Harsha, or Kanishka.
 - Jain patron. Caves at Udayagiri–Khandagiri.
@@ -171,7 +195,9 @@ A. Kharvela  B. Ashok  C. Harshavardhan  D. Kanishka
 
 ## 8.4 Indo-Greeks
 
-**Bactrian Greeks in India | after Alexander’s satraps | before Shakas | full Alexander line → Topic 6**
+**Bactrian Greeks in India | after Alexander’s satraps | before Shakas**
+
+- Alexander’s **326** march (Hydaspes, Sangala, Beas turn-back) belongs to the **Foreign Invasions** chapter. Indo-Greeks are the **later** Bactrian-Greek kings inside India.
 
 - In exam chronology, “Greeks” means Alexander’s wave **plus** these Indo-Greeks.
 - They sit **before** Shakas and **before** Kushans.
@@ -278,6 +304,30 @@ D. Sakas — Kushans — Greeks
 ---
 
 ## 8.9 Sangam Age
+## 8.9a Sangam Wars and Inter-State Politics
+
+- Sangam **Puram** poetry records wars among **Chera, Chola, and Pandya** — the **Muvendar** trio.
+- The **Cholas** under **Karikala** fought rivals and built the **Kallanai** dam; they are **not** the imperial Cholas of Rajaraja I.
+- **Nedunjeliyan** of the Pandyas appears in war poems such as the **Purananuru**.
+- **Senguttuvan** of the Cheras is linked to the west-coast pepper trade and **Kannagi / Pattini** legend in *Silappadikaram*.
+- Sub-chiefs called **velir** held hill and border territories under the great kings.
+
+## 8.3b Post-Mauryan Art Schools — Quick Compare
+
+| School | Period / patron | Material / style | Exam lock |
+|--------|-----------------|------------------|-----------|
+| **Gandhara** | Kushan northwest | Greco-Buddhist schist | Greco-Roman Buddha face |
+| **Mathura** | Kushan / local | Red sandstone Indian types | Indigenous Buddha forms |
+| **Amaravati** | Satavahana Andhra | Limestone narrative reliefs | Andhra Buddhist stupa art |
+| **Karle / Nasik** | Satavahana age | Rock-cut **chaitya** halls | Public Buddhist architecture |
+
+## 8.2a Ikshvakus and Nagarjunakonda
+
+- After Satavahana decline (~3rd century CE), the **Ikshvakus** ruled coastal **Andhra** from **Nagarjunakonda**.
+- The site is famous for **Buddhist stupa**, monastery, and **Ikshvaku inscriptions**.
+- Ikshvakus are a **post-Satavahana Andhra** house, not the mythic Ayodhya Ikshvaku line.
+
+
 
 **Tamilakam south of Krishna–Tungabhadra | ~300 BCE–300 CE | literature as the state archive**
 

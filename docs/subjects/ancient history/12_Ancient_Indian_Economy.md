@@ -246,6 +246,32 @@ D. Kalibangan and Ropar
 ---
 
 ## 12.9 Roman Trade
+## 12.10 Punch-Marked Coins — Symbols and Janapadas
+
+- Multiple punch symbols on **karshapana**; issued by **mahajanapadas** then Magadha-Maurya.
+- **Mauryan** period also uses **cast copper** kakani for small change.
+- Trap: punch-marks are **not** Indo-Greek portraits.
+
+## 12.11 Gupta Copper and Post-Gupta Coinage
+
+- Gupta **copper** for market exchange; gold **dinara** = prestige; **silver rupaka** = Chandragupta II Shaka proof.
+- After Skandagupta, fewer fine gold types; regional mints multiply.
+
+## 12.12 Land Revenue and Grants
+
+| Age | Lock |
+|-----|------|
+| Vedic | **bali**, **bhaga** as offerings/shares |
+| Mauryan | state **bhaga** (~1/6 in Arthashastra); **samaharta** collects |
+| Gupta | **brahmadeya**, **agrahara** copper-plate grants; samanta tribute |
+| Harsha | agrahara continues; **skandhavara** royal camp |
+
+## 12.13 Southeast Asian Maritime Trade
+
+- East-bound route from **Tamralipti** to **Suvarnabhumi** (mainland Southeast Asia).
+- Distinct from the **Roman** west coast circuit (Muziris/Barygaza).
+
+
 
 **~1st–3rd c. CE | Periplus | pepper for gold**
 

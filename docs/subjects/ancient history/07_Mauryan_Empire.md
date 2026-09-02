@@ -63,6 +63,25 @@ Saptanga | 4 vidyas | 4 upayas | 18 tirthas | 15 adhikaranas | spies sanstha + s
 ---
 
 ## 7.1 Mauryan Empire
+## 7.1a Post-Ashoka Decline and Fall (232–185 BCE)
+
+- After Ashoka (**~232 BCE**), weak successors (**Dasharatha, Salisuka, Brihadratha**) followed in Puranic lists.
+- Tradition remembers a partition: **Dasharatha** in the east, **Samprati** (Jain patron) in the west/south.
+- Provincial governors and frontier pressure weakened central control.
+- The last king **Brihadratha** was killed by general **Pushyamitra Shunga** in **185 BCE**.
+- The Mauryan empire lasted about **137 years** (322–185 BCE). Ashoka's death is **not** the empire's end date.
+
+## 7.6a Third Buddhist Council (Pataliputra)
+
+**Patron:** Ashoka | **President:** Moggaliputta Tissa
+
+- Ashoka convened the **Third Buddhist Council** at **Pataliputra** after the Kalinga turn toward dhamma.
+- **Moggaliputta Tissa** presided. The council purified doctrine and organised missions.
+- Missions went to Kashmir–Gandhara, Sri Lanka (**Mahinda**, **Sanghamitta**), and other regions.
+- Exam order: Rajagriha (1st) → Vaishali (2nd) → Pataliputra (3rd) → Kundalvana (4th).
+- The Third Council is **Ashoka's** lock. Do not swap it with Kanishka's Fourth Council.
+
+
 
 **First pan-North Indian state | 322–185 BCE | capital Pataliputra (Ganga–Son)**
 
@@ -204,6 +223,13 @@ D. Revenue management
 ---
 
 ## 7.6 Ashoka
+### Kalinga War (261 BCE) — Cause, Course, Result
+
+**Cause:** Kalinga (Odisha coast) remained outside Magadhan control and threatened eastern trade routes.  
+**Course:** In his **8th regnal year (~261 BCE)**, Ashoka invaded Kalinga. Rock Edict **XIII** remembers **1 lakh** killed, **1.5 lakh** deported, and countless sufferers.  
+**Result:** Kalinga was **annexed**; headquarters at **Tosali** and **Samapa**. Ashoka turned to **dhamma-vijaya**. Separate Kalinga edicts at **Dhauli** and **Jaugada** tell mahamatras that **"all men are my children."**
+
+
 
 **Bindusara’s son | *Devanampiya Piyadassi* | accession ~272 · coronation 268–232 BCE**
 
@@ -455,6 +481,15 @@ Minor pillar / schism: Sarnath, Sanchi, Kaushambi. **Kaushambi schism** = don’
 ---
 
 ## 7.16 Revenue Administration
+## 7.16a Mauryan Trade and Economy
+
+- Land revenue (**bhaga**, **bali**, **hiranya**) was the main tank; **samaharta** collected and **sannidhata** stored.
+- **Guilds (*shreni*)** were regulated, not abolished. Craft towns continued under *panyadhyaksha* control.
+- Rock Edict **II** names **Chola, Pandya, Satiyaputra, Keralaputra, and Tamraparni** as neighbours — not Mauryan provinces.
+- The northwest had **Yavana** contact; punch-marked **silver** remained the standard coin.
+- **Ring-wells** and **NBPW** mark urban Mauryan sites.
+
+
 
 **Land is the tank | *bhaga* the headline | Samaharta in, Sannidhata stores**
 

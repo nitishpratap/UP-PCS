@@ -241,6 +241,28 @@ D. Lakhnia
 ---
 
 ## 1.6 Chalcolithic Culture
+## 1.21 Megalithic Culture (India)
+
+**Iron Age burial horizon | mainly Deccan and south | not Stone Age Chalcolithic**
+
+- Megaliths are **Iron Age** burial monuments of the **Deccan and south**. They are **not** Stone Age Chalcolithic village cultures.
+- Common forms include **dolmens** (table stones), **cists** (stone-box graves), **stone circles**, and **menhirs** (upright pillars). Later **hero stones** (*virakkal*) commemorate warriors.
+- Burials often carry **black-and-red ware**, iron weapons and tools, and gold ornaments. The culture marks the spread of **iron** in the peninsula after the north had moved through PGW.
+- **Brahmagiri** in Karnataka is a classic megalithic site linked to early **Sangam** archaeology.
+- **Adichanallur** in Tamil Nadu is famous for urn burials and bronze artefacts.
+- **Maski** in Karnataka is also a megalithic name in match-lists; do not confuse it with Ashoka’s Minor Rock Edict site of the same name without checking the question stem.
+- **Hallur** in Karnataka is another standard southern megalithic lock.
+- In the **north**, Later Vedic **PGW** marks iron in the doab. Megaliths mark iron-age burial culture in the **peninsula**, not Harappan urbanism.
+- **Burzahom** (Kashmir) has late **menhirs** in Period III. That is a northern exception, not the main megalithic belt.
+
+## 1.22 Archaeological Dating and Evidence (Stone Age Toolkit)
+
+- Indian prehistory is dated by **tool typology**, **stratigraphy**, **pollen analysis**, **C-14**, and **TL/OSL**.
+- **Stratigraphy** means deeper layers are older; Paleolithic below Mesolithic shows continuity (e.g. Chopani Mando).
+- **C-14** works on organic matter; very early Palaeolithic sites rely more on geology and typology.
+- **Sivapithecus** Siwalik fossils are **not** evidence of *Homo* in India — trap against Hathnora.
+
+
 
 **First metal | copper plus stone | rural villages | not Harappan cities**
 
@@ -657,10 +679,9 @@ D. V.N. Mishra
 | **Lekhahia** | Mirzapur | Rock art |
 | **OCP belt** | Western UP doab | Hastinapur, Bahadarabad, Lal Qila, Bargaon |
 
-### Megalithic pointer (full card → Topic 8)
+### Megalithic — spine lock
 
-- **Megalithic** burials with black-and-red ware are mainly **south and Deccan** Iron Age, not Stone Age chalcolithic.
-- Key names: **Brahmagiri**, **Adichanallur**, **Maski**. Full teaching sits in **Post-Mauryan / Sangam** context.
+- Full teaching sits in **§1.21** above. Match-list names: **Brahmagiri**, **Adichanallur**, **Maski**, **Hallur**.
 
 ### Number locks (not restated above as a second chronology)
 

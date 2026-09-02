@@ -489,7 +489,16 @@ A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
 - The Jain **triratna** are samyak darshan, samyak jnana, and samyak charitra. That trio is not Buddha–Dhamma–Sangha.
 - The emblem uses a palm and an *ahimsa* wheel. The Jain swastika marks four gatis. It is not the Nazi mark.
 
-> **Exam note:** Jainism is nastika but **not** Charvaka. It keeps soul, karma, and moksha.
+> **Exam note:** Jainism is nastika but **not** Charvaka.
+### Jain philosophy — Anekantavada, Syadvada, Nayavada
+
+- **Anekantavada** holds that reality has **many aspects** — no single statement captures the whole truth.
+- **Syadvada** is the **seven-fold conditional predication** ("syat" — in some respect, somehow) used to speak about many-sided reality.
+- **Nayavada** is the doctrine of **standpoints** — every judgment is from a partial viewpoint (*naya*).
+- Together they explain how Jainism accepts seemingly contradictory statements without self-contradiction.
+- This is **not** the Buddhist **Middle Path** (*Madhyama Pratipad*) — trap match-lists swap the two.
+
+ It keeps soul, karma, and moksha.
 
 ---
 
@@ -612,6 +621,16 @@ D. Mahavira — Pavapuri
 ---
 
 ## 4.20 Five Great Vows
+### Jain councils and canon compilation
+
+- Jain texts were transmitted orally; **councils** fixed the canon after famine and sect pressures.
+- The **first council** at **Pataliputra** (~3rd century BCE) is linked to **Sthulabhadra** and the survival of the **12 Angas** in Svetambara memory.
+- **Bhadrabahu** led Digambaras south during famine; north compilation is tied to Sthulabhadra — sect memories differ.
+- The **final Svetambara redaction** at **Vallabhi** (~5th–6th century CE) under **Devardhigani Kshamashramana** fixed the canon — **not** Kanishka (Buddhist 4th council trap).
+- The **12th Anga, Drishtivada**, is **lost**; do not call it surviving.
+- The ***Tattvartha Sutra*** of **Umasvati** is accepted by **both** Digambara and Svetambara.
+
+
 
 **Mahavratas for monks | anuvratas for laity**
 
@@ -619,6 +638,15 @@ D. Mahavira — Pavapuri
 - The five are **ahimsa** (non-violence), **satya** (truth), **asteya** (non-stealing), **brahmacharya** (chastity), and **aparigraha** (non-possession). Ahimsa is the first lock.
 - Mahavira’s list has five vows. Parshva’s list has four. Brahmacharya is the extra item Mahavira named separately.
 - **Sallekhana / santhara** is a regulated fast unto death. It is not a sixth mahavrata.
+### Stupa architecture — exam vocabulary
+
+- A **stupa** is a Buddhist relic mound: hemispherical **anda** (dome), square **harmika**, and umbrella-like **chhatra** on top.
+- Worship involves **pradakshina** (clockwise circumambulation) on the **pradakshina path**.
+- **Ayaka** platforms with **ayaka-pillars** at the cardinal points are a southern stupa feature — **Ghantasala** is the named site.
+- **Amaravati** and **Nagarjunakonda** belong to the Andhra sculptural school; Bodh Gaya is a **temple** site, not the ayaka-platform type.
+- **Sanchi** and **Bharhut** (near Vidisha / Satna) are famous early stupas under **Ashokan** patronage tradition.
+
+
 
 ---
 
@@ -654,6 +682,17 @@ D. Mahavira — Pavapuri
 ---
 
 ## 4.23 Shramana Tradition
+### Six Shramana teachers — doctrine locks (*Samaññaphala Sutta*)
+
+- **Purana Kassapa** taught **akriya** — deeds have **no moral fruit**.
+- **Makkhali Gosala** (Ajivika) taught **niyati** — fate fixes all events; effort cannot rewrite destiny.
+- **Ajita Kesakambalin** taught **uccheda** materialism — the body is elements; death is the end.
+- **Pakudha Kaccayana** taught **seven eternal elements** — no real moral agency.
+- **Nigantha Nataputta** is **Mahavira** — Jain ahimsa and soul path.
+- **Sanjaya Belatthiputta** was the **sceptic** ("eel-wriggler") — refused definite answers on soul and rebirth.
+- These six appear at **Bimbisara's** Magadhan court in the ***Samaññaphala Sutta***.
+
+
 
 **Renouncer stream vs Vedic yajna**
 
@@ -728,6 +767,15 @@ Orthodox **astika** six (Nyaya, Vaisheshika, Samkhya, Yoga, Mimamsa, Vedanta) ac
 ---
 
 ## 4.28 Hinduism
+### Hinduism — Vedic roots to Puranic bhakti (growth arc)
+
+- Hinduism has **no single founder**; it grows from **Vedic yajna** → **Upanishadic philosophy** → **epic and puranic bhakti**.
+- **Shruti** (heard) includes Veda, Brahmana, Aranyaka, Upanishad; **Smriti** (remembered) includes law codes and epics.
+- The **Trimurti** frame (Brahma–Vishnu–Shiva) organises puranic religion; **Devi** stands as a parallel supreme strand.
+- **Bhagavatism** (Vasudeva–Krishna at Mathura) and **Shaivism** (Rudra–Shiva, linga) are the two big sectarian growth lines.
+- **Six orthodox (astika) schools** — Nyaya, Vaisheshika, Samkhya, Yoga, Mimamsa, Vedanta — accept Veda authority; they are **not** the nastika Shramana list.
+
+
 
 **Astika stream | Vedic roots → puranic bhakti**
 
@@ -825,6 +873,20 @@ Orthodox **astika** six (Nyaya, Vaisheshika, Samkhya, Yoga, Mimamsa, Vedanta) ac
 - Jain caves at **Udayagiri–Khandagiri** in Odisha hold the **Hathigumpha** inscription of **Kharavela**. The king-question belongs to the post-Mauryan file. The cave is Jain.
 - Mathura **Kankali Tila** is a Jain stupa and image site in **Uttar Pradesh**.
 - Palitana, Dilwara, and Ranakpur are later Jain temple tirthas.
+
+---
+
+## UP Buddhist Circuit — Teaching Card
+
+**Beyond Sarnath and Kushinagar — full UP geography**
+
+- **Sarnath** (Varanasi): **first sermon** (*Dhammacakkappavattana*) in the Deer Park; Ashokan pillar tradition.
+- **Kushinagar**: **Mahaparinirvana** between sala trees; relic stupas in tradition.
+- **Shravasti**: capital of **Kosala**; Buddha spent many rains retreats at **Jetavana**, gifted by Anathapindika.
+- **Sankisa** (Farrukhabad, UP): tradition of the **descent from Tusita heaven** after teaching his mother.
+- **Kaushambi**: monastery centre on the Yamuna; Buddha visited the city of **Udayana**.
+- **Mathura**: later **Kushana** Buddhist art centre; also Jain **Kankali Tila** — separate religion lock.
+- **Lumbini** (birth) is in **Nepal**, not UP — a standard geography trap.
 
 ---
 

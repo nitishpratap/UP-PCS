@@ -458,6 +458,39 @@ A. 3 4 1 2  B. 4 3 2 1  C. 4 3 1 2  D. 3 4 2 1
 ---
 
 ## 9.18 Gupta Science
+## 9.19 Gupta Decline — Cause, Course, Result
+
+**~455–550 CE | Hunas + samantas**
+
+- **Causes:** repeated **Huna** pressure after Skandagupta; growing **land grants** shrinking direct revenue; **samanta** feudatories; loss of western silver zones.
+- **Course:** Skandagupta holds at **Bhitari**. Later rulers shrink the Magadha core. **Toramana** and **Mihirakula** press from the northwest. **Narasimhagupta Baladitya** is remembered checking Mihirakula.
+- **Result:** no stable pan-north emperor after ~550 CE. **Harsha** (606) reunites the upper Gangetic core temporarily.
+
+## 9.20 Fa-Hien (Faxian) — Gupta-age Chinese Traveller
+
+**~399–414 CE | Chandragupta II | *Fo Guo Ji***
+
+- Purpose: collect **Vinaya** texts — not Mahayana sutra hunting (that is Xuanzang's later aim).
+- Route: Central Asia → Pataliputra → Mathura → **Tamralipti**. He does **not** describe **Nalanda** as a famous campus (founded under Kumaragupta I).
+- Book: ***Fo Guo Ji***. Chronology: **before** Hiuen Tsang → I-tsing → Al-Biruni.
+
+## 9.21 Ancient Universities — Full Four-Way Card
+
+| University | Region | Patron / age | Subjects & locks | End / trap |
+|------------|--------|--------------|------------------|------------|
+| **Takshashila (Taxila)** | Gandhara (NW) | Pre-Mauryan; **Chanakya**, **Panini** | Grammar, medicine, politics | Damaged by **Hunas** (~5th c.) |
+| **Nalanda** | Bihar | **Kumaragupta I**; Pala peak | Buddhist philosophy, logic; Xuanzang studied here | **Bakhtiyar Khalji** ~1193 |
+| **Vikramashila** | Bhagalpur belt | **Pala Dharmapala** (~8th c.) | Mahayana, Tantra; **Atisa** taught here | Destroyed ~12th c. |
+| **Vallabhi** | Gujarat | **Maitraka** rulers | Brahmanical + Jain; **Svetambara Jain council** (~5th c.) | Not Vaishali; not Buddhist 2nd council |
+
+> **Exam note:** Founder four-way = Taxila (pre-Mauryan) | Nalanda (Kumaragupta I) | Vikramashila (Dharmapala) | Vallabhi (Maitraka).
+
+## 9.22 Gupta–Vakataka Alliance
+
+- Chandragupta II's daughter **Prabhavatigupta** married Vakataka **Rudrasena II** and ruled as **regent** after his death — Gupta influence in the Deccan without direct annexation.
+- **Udayagiri** caves overlap Gupta court culture; **Ajanta** later phases are often **Vakataka**, not "pure Gupta court."
+
+
 
 **Astronomy + maths + iron**
 

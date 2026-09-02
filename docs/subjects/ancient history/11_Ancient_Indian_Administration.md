@@ -76,6 +76,20 @@ Samaharta ≠ Sannidhata | Uparika = Gupta province | Sandhivigrahika = war-peac
 | **Archaeology** | sites, C-14, PGW / NBPW / IVC | period, not a king’s name |
 | **Foreign accounts** | Megasthenes, Fa-Hien, Xuanzang, I-tsing | 2024 traveller order |
 
+### Coins as administrative evidence
+
+| Coin type | Period / issuer | What it proves |
+|-----------|-----------------|----------------|
+| **Punch-marked silver** (*karshapana*) | Mahajanapada → Maurya | Urban trade, magistrate control, weight standard |
+| **Mauryan cast copper** | Mauryan | State issue beyond silver punch-marks |
+| **Indo-Greek portrait** | Menander etc. | Die-struck bilingual (Greek + Kharoshthi) kings |
+| **Kushan gold** | Vima / Kanishka | Imperial titles, **Devaputra**, long-distance trade |
+| **Satavahana lead / bronze** | Deccan | **Ship** types = sea trade; metronymic legends |
+| **Gupta gold dinara** | Samudragupta → Skandagupta | Imperial titles; **Chandragupta II** silver = western **Shaka** victory |
+| **Restruck Nahapana silver** | Gautamiputra age | Defeat of western Shaka overlord |
+
+- Coins name kings when inscriptions are absent. They show **titles**, **deities**, and **mint control**. They do **not** replace edicts for law and welfare policy.
+
 - The **Vishnu Purana** carries Maurya genealogy. Only statement 1 is true.
 - The Vayu Purana is **not** a Gupta admin manual.
 
@@ -199,6 +213,27 @@ D. Ishwaravarman — Jaunpur stone inscription
 ---
 
 ## 11.4 Ancient Administration
+## 11.5 Mauryan Provincial and Revenue Administration
+
+- **Provinces:** empire divided into provinces (*pradeshas*); border provinces often under princes (**kumara**).
+- **Revenue:** land share (**bhaga**), pasture dues (**pindakara**), customs (**sulka**); **samaharta** collects; **sannidhata** stores.
+- **Rural:** Megasthenes' **agronomai** = revenue officers. **Weights:** *pautavadhyaksha*.
+
+## 11.6 Mauryan Spy System (*Gudhapurusha*)
+
+- Kautilya lists **spy** types: secret agents, wandering ascetics, household informers.
+- Purpose: test officials, watch frontier, gather intelligence — part of the **centralised** Mauryan state.
+
+## 11.8 Foreign Accounts on Ancient Administration
+
+| Traveller | Age | Admin observation |
+|-----------|-----|-------------------|
+| **Megasthenes** | Chandragupta Maurya | seven castes (Greek lens), agronomai, city boards |
+| **Fa-Hien** | Chandragupta II | light punishments, Buddhist patronage visible |
+| **Hiuen Tsang** | Harsha | good roads, hospices; elephant numbers = colour |
+| **I-tsing** | Post-Harsha | monastic rules at Nalanda |
+
+
 
 **Vedic tribal → Mauryan machine → Gupta/Harsha samanta | officials are the paper**
 

@@ -106,6 +106,55 @@ Shaka era 78 CE ≠ Vikrama 57 BCE | Devaputra title | Rabatak genealogy
 ---
 
 ## 6.2 Alexander's Invasion
+## 6.2a Battle of the Hydaspes (326 BCE) — Cause, Course, Result
+
+**River:** Jhelum (**Hydaspes**) | **Foe:** Porus (Paurava)
+
+**Cause:** After **Ambhi** submitted at **Taxila**, Porus blocked the east bank of the Jhelum. Alexander needed a crossing to push toward the Ganga plain.  
+**Course:** Alexander left **Craterus** visible on the camp bank while he crossed at night in rain. Porus met him with war **elephants**. After hard fighting, Porus was defeated.  
+**Result:** Porus was restored and **enlarged** under Macedonian suzerainty. Alexander founded **Nicaea** and **Bucephala**. The army later **refused** to march past the **Beas (Hyphasis)**.
+
+### Massaga (327 BCE) — Cause, Course, Result
+
+**People:** Assakenoi | **Region:** Swat valley
+
+**Cause:** The **Assakenoi** blocked Alexander’s advance from the Cophen (Kabul) valley into the Punjab approach.  
+**Course:** Alexander besieged their capital **Massaga**. The queen led resistance. After heavy losses, a truce was agreed; fighting resumed and the city was stormed.  
+**Result:** The Swat route opened. Alexander could march toward the **Indus** crossings of **326**.
+
+### Rock of Aornos (327 BCE) — Cause, Course, Result
+
+**Site:** **Pir-Sar** (tradition) | **Lock:** “last natural fortress” before the Indus plain
+
+**Cause:** Local tribes held a steep rock that controlled the line of march.  
+**Course:** Alexander built a siege mound and scaled the rock in a night assault after encircling the defenders.  
+**Result:** The last major mountain barrier before the **Indus** plain fell. The army could descend toward **Taxila** and **Ambhi**.
+
+### Sangala (326 BCE) — Cause, Course, Result
+
+**People:** **Kathaioi** | **Trap:** not Menander’s **Sagala (Sialkot)**
+
+**Cause:** After Hydaspes, the **Kathaioi** fortified **Sangala** and resisted Macedonian control east of the Chenab.  
+**Course:** Alexander stormed the city with siege engines after crossing the **Acesines (Chenab)** and **Hydraotes (Ravi)**.  
+**Result:** Sangala was destroyed. This town is **not** Indo-Greek **Sagala** of **Menander (Milinda)**.
+
+### Malloi campaign (326 BCE) — Cause, Course, Result
+
+**People:** **Malloi / Malavas** | **Lock:** Alexander **wounded**
+
+**Cause:** The **Malloi** and allied **Oxydrakai (Kshudrakas)** resisted on the lower Indus approach after the eastward push stalled at the **Beas**.  
+**Course:** Alexander led a punishing campaign into their towns. In one assault he was **pierced by an arrow** — his serious Indian wound.  
+**Result:** The **Malloi** were crushed. The **Oxydrakai** submitted. Alexander then turned to the **Indus delta** and **Nearchus**’s fleet.
+
+## 6.2b Results of Alexander's Indian Campaign
+
+- Alexander **never** fought **Dhana Nanda** and **never** reached Pataliputra.
+- Macedonian satrapies in India collapsed after his **323 BCE** death.
+- Greek writers' **Sandrokottos = Chandragupta Maurya** is the main **chronology peg**.
+- The campaign opened the northwest to **Greek reports**, later **Indo-Greek** rule, and **Gandhara art**.
+- Magadhan power filled the vacuum the Macedonians did not hold.
+
+
 
 **Born 356 at Pella | king 336 | India 327–325 (~19 months) | exam year 326**
 
@@ -192,6 +241,13 @@ D. Sakas — Kushans — Greeks
 ---
 
 ## 6.5 Seleucus Nicator
+## 6.5a Seleucus–Chandragupta War and Treaty (~305–303 BCE)
+
+**Cause:** After Alexander's death, Seleucus wanted the eastern satrapies. Chandragupta had taken the Nanda throne and pushed into the northwest.  
+**Course:** Seleucus marched east but could **not** take Magadha. Fighting ended in negotiation.  
+**Result:** Seleucus **ceded Arachosia, Gedrosia, and Paropamisadae**. Chandragupta gave **500 elephants** and probably a marriage alliance (**Helena** tradition). Seleucus sent **Megasthenes** to Pataliputra.
+
+
 
 **Diadochus | Seleucid founder | Indian file = the Chandragupta treaty**
 

@@ -245,6 +245,35 @@ A. 3 2 1 4  B. 2 3 4 1  C. 2 4 3 1  D. 3 2 4 1
 ---
 
 ## 13.6 Archaeological Sites of Uttar Pradesh
+## 13.7 Archaeological Cultures — Pottery and Metal Horizons
+
+| Culture | Marker | Usual date / link |
+|---------|--------|-------------------|
+| **OCP** (Ochre Coloured Pottery) | eastern doab pottery | Chalcolithic overlap; pairs with **copper hoards** |
+| **PGW** (Painted Grey Ware) | grey painted bowls | **Later Vedic** north; Hastinapur, Atranjikhera |
+| **NBPW** (Northern Black Polished Ware) | lustrous northern fine ware | ~6th c. BCE rise; **Mauryan** cities |
+| **Megalithic** | burials with big stones | Iron-age **south**; not Harappan |
+
+## 13.8 Major Excavation Sites — ADD Cards
+
+| Site | State | Excavator / lock | Signature find |
+|------|-------|------------------|----------------|
+| **Rakhigarhi** | Haryana | recent ASI digs | largest IVC mound in India; **not UP** |
+| **Dholavira** | Gujarat | R.S. Bisht | reservoirs, **signboard**, stone architecture |
+| **Kalibangan** | Rajasthan | B.B. Lal | ploughed field, fire altars |
+| **Banawali** | Haryana | — | fortified Harappan town |
+| **Surkotada** | Gujarat | — | Harappan fort; horse-bone debate |
+
+## 13.9 Dating Methods — Beyond C-14
+
+| Method | Samples | Lock |
+|--------|---------|------|
+| **Stratigraphy** | soil layers | relative order only |
+| **Typology** | pottery shape | relative, cross-site |
+| **Radiocarbon (C-14)** | charcoal, bone, seed | organic only; ~5730 yr half-life |
+| **Thermoluminescence (TL)** | fired pottery, bricks | when object was last heated |
+
+
 
 **IVC east fringe + doab mounds + Buddhist/Mauryan**
 

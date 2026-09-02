@@ -92,6 +92,22 @@ D. 4 3 1 2
 ---
 
 ## 2.2 Features of Harappan Civilization
+## 2.26 Social Organisation and Polity
+
+- Harappan society was **urban and specialised**, but archaeologists have **not** identified a palace of a named king.
+- The **"Priest-King"** steatite bust is an **interpretation**, not a proven title.
+- **Merchants, seal-cutters, bead-makers, and bronze-smiths** formed a craft hierarchy fed by **agricultural surplus** in granaries.
+- There is **no coined money**; exchange used **barter** and the **weight system** (key unit 16).
+- Fortified sites show **defence**, but few weapons — the "peaceful civilisation" claim is partly true, partly oversimplified.
+
+## 2.27 Early Harappan and Late Harappan Phases
+
+- **Early Harappan** (~3300–2600 BCE): **Kot Diji**, **Amri**, **Hakra**, **Sothi** — before full cities.
+- **Mature Harappan** (~2600–1900 BCE): planned cities, seals, script, Great Bath, Lothal dock.
+- **Late Harappan** (~1900–1300 BCE): **de-urbanisation**; **Cemetery H** at Harappa; **Jhukar** and **Rangpur** ware.
+- In the eastern doab, Late Harappan overlaps **OCP** then **PGW** — not Mature Harappan urbanism.
+
+
 
 - **Planned cities:** grid streets; citadel (usually west) + lower town (east). Dholavira adds a **middle town**.
 - **Burnt bricks** in ratio **1 : 2 : 4** (thickness : width : length), same idea from Punjab to Gujarat.
