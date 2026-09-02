@@ -35,7 +35,7 @@ CAPITALS 2019: UZB Tashkent | TJK Dushanbe | KGZ Bishkek | TKM Ashgabat
 LANDLOCKED: Bolivia (2022) among Uruguay/Suriname/Peru | Nepal/Bhutan in S Asia
  Largest landlocked area = Kazakhstan | Most populous = Ethiopia | Lesotho = enclave in SA
 WORLD LINES: 49th = USA–Canada | 38th = Koreas | Maginot = France–Germany (hist) | Oder–Neisse = DE–PL
-KÖPPEN: vegetation = true index (2018 Koppen not Thornthwaite)
+KÖPPEN vs THORNTHWAITE: vegetation = true index → **Thornthwaite** (2018 Q25); Köppen = letter-code climate classes
  Med = winter rain (2024 both; belts shift south at NH winter solstice)
  W Europe = rain all months + westerlies (2024 both) = Cfb
 INDIA MAP: 7th largest | 2.4% | Tropic middle | NOT wholly tropical | Tropic ≠ UP
@@ -64,7 +64,7 @@ INDIA MAP: 7th largest | 2.4% | Tropic middle | NOT wholly tropical | Tropic ≠
 | Gibraltar | Med ↔ Atlantic | Bosporus | जिब्राल्टर |
 | Bosporus | Black Sea ↔ Marmara | Gibraltar | बोस्फोरस |
 | Mistral / Köppen Cs | Med **winter rain** | Rain all year (that is Cfb W Europe) | भूमध्य |
-| Koppen vs Thornthwaite | Vegetation index = **Koppen** | Thornthwaite | कोपेन |
+| Koppen vs Thornthwaite | **Thornthwaite** = "vegetation is true index of climate" | Köppen letter codes | थॉर्नथ्वेट / कोपेन |
 | Bolivia | **Landlocked** | Uruguay / Peru / Suriname | बोलीविया |
 | Nobi / Kanto | **Japan** | Korea / China | जापान |
 | Igarka | **Russia** | China | इगारका |
@@ -657,7 +657,7 @@ D. Jakarta — Indonesia
 
 ## N.13 Köppen climate
 
-**Identity:** ‘Vegetation is the true index of climate’ = **Köppen** (2018) — not Thornthwaite, Trewartha, or Stamp.
+**Identity:** The quote *"Vegetation is the true index of climate"* is keyed to **Thornthwaite** in UPPCS (2018 Q25). **Köppen** built the **letter-code** climate classification using vegetation, temperature, and precipitation — do not swap the two locks.
 
 - **Af** — tropical rainforest, rain all year (Amazon, Congo, Indonesia).
 - **Am** — tropical monsoon (west-coast India, parts of SE Asia).
@@ -688,7 +688,7 @@ D. Stamp
 <details>
 <summary>Show answer</summary>
 
-**Ans: B**
+**Ans: A** — **Thornthwaite**. Köppen is the letter-code classification trap.
 
 </details>
 
@@ -2580,7 +2580,7 @@ None mandatory. 12 / 24 / 200 nm are static.
 11. **Nobi/Kanto = Korea** — FALSE. **Japan**.
 12. **Igarka = China** — FALSE. **Russia**.
 13. **Bolivia has a Pacific coast in that 2022 four** — FALSE. **Landlocked**.
-14. **Koppen statement = Thornthwaite** — FALSE. **Koppen**.
+14. **"Vegetation is true index of climate" = Köppen** — FALSE. **Thornthwaite** for that quote; Köppen = letter-code classes.
 15. **Mediterranean = rain all year** — FALSE. **Winter** rain. All-year = **W Europe Cfb**.
 16. **Turkmenistan = Dushanbe** — FALSE. **Ashgabat**. Dushanbe = Tajikistan.
 17. **Yangon = Myanmar capital** — FALSE. **Naypyidaw**.

@@ -118,7 +118,7 @@ Nineteenth-century reform did **not** happen as one national movement. It grew i
 ## 6.3 Jyotiba Phule
 
 - He worked in Maharashtra against **caste inequality** and for the education of girls and lower castes.
-- **UPPCS 2022 Q1** associates him with the **Anti-caste Movement**, not Civil Disobedience, trade unions or a peasant party.
+- He is associated with the **Anti-caste Movement**, not Civil Disobedience, trade unions or a peasant party.
 - With **Savitribai Phule** he opened schools for girls and for the lower castes.
 - He wrote **Gulamgiri (1873)** against caste slavery.
 - **Shetkaryacha Asud** is another of his works.
@@ -156,7 +156,7 @@ D. Peasant Movement
 - **Tarabai Shinde** wrote *Stri Purush Tulana*.
 - She is linked to this stream but is **not** the founder.
 
-> **Exam note:** Founder = **Phule**. UPPCS 2022 Q84 puts Roy and Ranade as traps.
+> **Exam note:** Founder = **Phule**. Common traps: Roy and Ranade as founders of the Satyashodhak Samaj.
 
 **PYQ — UPPCS Prelims 2022, Q84**
 

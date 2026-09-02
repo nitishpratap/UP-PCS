@@ -171,7 +171,7 @@ D. CITES
 | Kyoto | 1997 | Binding Annex-I targets |
 | Paris | 2015 | Universal NDCs |
 
-> **Cross-topic:** Ozone detail → Topic 11; India NAPCC/NDC → Topic 10.
+> **Exam lock:** **Montreal** = ozone/ODS phase-out (this section). **UNFCCC–Paris** = climate/NDC framework (see climate-change chapters). India's **NAPCC** and **NDC** pledges sit under national climate policy, not the Montreal ozone regime.
 
 ---
 

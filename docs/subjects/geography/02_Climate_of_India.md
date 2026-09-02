@@ -254,6 +254,14 @@ D. Both true and R is the correct explanation
 - Mumbai and Gujarat lose the south-west rains. The north-east monsoon does not reach them. October–November is therefore dry there.
 
 ### Indian seasons (IMD)
+### IMD season logic — exam use
+
+- **Cold weather (Dec–Feb):** north-west rain/snow from **Western Disturbances**; fog on the Indo-Gangetic plain; rabi wheat season.
+- **Hot weather (Mar–May):** **Loo** heat waves; **Nor'westers** and pre-monsoon storms; **mango** and **blossom** showers in the south.
+- **South-west monsoon (Jun–Sep):** main rainy season; Tamil Nadu **south-east coast** stays relatively dry in this phase.
+- **Retreating monsoon (Oct–Nov):** withdrawal from north-west; **October heat**; Bay cyclones; **north-east monsoon** begins on Tamil Nadu coast.
+
+
 
 | Season | Months | Match |
 |--------|--------|-------|

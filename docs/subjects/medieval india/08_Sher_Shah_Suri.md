@@ -82,6 +82,18 @@ Islam Shah (Jalal Khan) 1545–1553 | Humayun returns 1555
 
 **Farid Khan** (c. 1472, **Sasaram**) | Father **Hasan Khan Sur** | Afghan **Sur**
 
+### Battle of Chausa (1539) — Cause, Course, Result
+
+**Cause:** **Sher Shah** challenged **Humayun's** fragile hold over the north after Afghan resistance revived in the east.  
+**Course:** Armies met near **Chausa** on the **Ganga**. Sher Shah used surprise and river tactics. Humayun escaped by swimming across the Ganga.  
+**Result:** Mughal prestige collapsed in the east. **Kannauj/Bilgram (1540)** followed.
+
+### Battle of Kannauj / Bilgram (1540) — Cause, Course, Result
+
+**Cause:** Humayun tried to recover after Chausa. Sher Shah aimed for the Delhi throne.  
+**Course:** Sher Shah defeated Humayun decisively at **Kannauj (Bilgram)**.  
+**Result:** Humayun fled to **Iran (Safavid refuge)**. **Sher Shah** became ruler of north India (**1540–1545**).
+
 - Sher Shah was born as **Farid Khan** around **1472** at **Sasaram**. His father was **Hasan Khan Sur**, an Afghan of the **Sur** clan.
 - He served **Bahar Khan Lohani** in Bihar. Tradition says he killed a **tiger**, earning the title **Sher Khan**.
 - After Bahar Khan’s death, Sher Khan took **Bihar** and defeated Bengal’s **Mahmud Shah**, building an eastern revenue base.

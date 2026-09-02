@@ -160,6 +160,19 @@ D. Malik Sarwar – Malwa Khwaja Jahan
 ---
 
 ## 9.6 Chittor — Two Sieges
+### Siege of Chittor by Alauddin Khalji (1303) — Cause, Course, Result
+
+**Cause:** Alauddin wanted to break **Mewar's** prestige and secure the **Gujarat–Malwa–Delhi** corridor after taking **Gujarat (1299)** and **Ranthambore (1301)**.  
+**Course:** The Sultan besieged **Chittor**. Rajput women performed **jauhar**; warriors fought to the death. The fort was stormed and sacked.  
+**Result:** Mewar's old capital fell. **Rana Hammir** later restored Sisodia power from **Chittor** in the **14th century**. Exam chronology: **Gujarat → Ranthambore → Chittor → Warangal**.
+
+### Siege of Chittor by Akbar (1567–68) — Cause, Course, Result
+
+**Cause:** **Udai Singh II** had already founded **Udaipur (1559)**, but **Chittor** remained the Rajput prestige fort. **Maharana Pratap** refused submission. Akbar wanted Mewar in the **mansabdari** system.  
+**Course:** Imperial armies besieged the fort. Defenders **Jaimal** and **Patta** led resistance. A final **jauhar** took place before the Mughals took the fort.  
+**Result:** Chittor fell to the Mughals. Pratap continued resistance from **Kumbhalgarh** and fought at **Haldighati (1576)**. Do not confuse this siege with **Alauddin's 1303** sack.
+
+
 
 ### PYQs — Alauddin conquest chronology
 

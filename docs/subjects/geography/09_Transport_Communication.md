@@ -532,6 +532,14 @@ D. None of these
 ---
 
 ## N.7 Sagarmala, Blue Economy, Gati Shakti, NLP
+### Blue Economy — sector teaching card
+
+- **Blue Economy** uses ocean and coastal resources for sustainable growth — fisheries, ports, shipping, offshore energy, coastal tourism, and marine biotechnology.
+- India's **Sagarmala** focuses on port modernisation and coastal connectivity.
+- **PM Gati Shakti** integrates infrastructure planning (roads, rail, ports, waterways) on one digital platform.
+- **National Logistics Policy (2022)** targets lower logistics cost and multimodal freight efficiency.
+
+
 
 | Scheme | Focus | Trap |
 |--------|-------|------|

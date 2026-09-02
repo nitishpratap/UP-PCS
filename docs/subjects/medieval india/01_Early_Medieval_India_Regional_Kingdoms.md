@@ -488,6 +488,15 @@ D. A false, R true
 ---
 
 ## 1.11 Tripartite Struggle for Kannauj
+### Tripartite Struggle — Cause, Course, Result (overview)
+
+**Actors:** **Palas** (east), **Gurjara-Pratiharas** (west), **Rashtrakutas** (south) | **Prize:** **Kannauj** symbolic capital
+
+**Cause:** After Harsha's empire, **Kannauj** became the prestige seat of north Indian kingship. Three regional powers fought to control it and the **doab** trade routes.  
+**Course:** **Dharmapala** installed a Pala nominee at Kannauj. **Mihir Bhoja** (Pratihara) recovered the city. **Dhruva** and **Govinda III** (Rashtrakutas) raided north and temporarily held Kannauj; **Indra III** famously sacked it.  
+**Result:** No single power permanently united India. The struggle weakened all three and left the **Gangetic plain** open to later **Turkish** breakthroughs after **Pratihara** decline.
+
+
 
 **Three powers:** **Pala** (Bengal–Bihar) + **Gurjara-Pratihara** (Rajasthan–UP) + **Rashtrakuta** (Deccan) | **Prize:** **Kannauj** (post-Harsha sovereignty symbol)
 

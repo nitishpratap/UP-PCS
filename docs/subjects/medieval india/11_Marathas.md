@@ -101,6 +101,19 @@ NOT Panipat I (1526) or II (1556) | NOT Shivaji (dead 1680)
 - **Rajgarh** was another early base.
 - **Kondana** is the same fort later called **Sinhagad**.
 - **Afzal Khan** of Bijapur was killed at **Pratapgad in 1659**.
+### Afzal Khan episode (Pratapgad, 1659) — Cause, Course, Result
+
+**Cause:** Bijapur sent **Afzal Khan** with a large army to crush Shivaji after early Maratha gains on the **Konkan** forts.  
+**Course:** Shivaji met Afzal Khan at **Pratapgad** under a truce pretext. In close combat Shivaji killed Afzal Khan with **wagh nakh** (tiger claws) and his men routed the Bijapur force.  
+**Result:** Bijapur prestige fell. Shivaji secured **Raigad** and expanded Swarajya in the western Deccan.
+
+### Treaty of Purandar (1665) — Cause, Course, Result
+
+**Cause:** **Aurangzeb** sent **Raja Jai Singh I** with imperial-Bijapur forces to pin Shivaji after earlier failures.  
+**Course:** Jai Singh besieged **Purandar**. Shivaji negotiated the **Treaty of Purandar**. He surrendered **23 forts** and accepted Mughal alliance terms; **Sambhaji** went as hostage for a time.  
+**Result:** Shivaji kept core forts and later recovered strength. The **Agra detention (1666)** and **Rajyabhishek (1674)** follow this pause.
+
+
 - **Shaista Khan** was raided in **Pune in 1663**.
 - **Treaty of Purandar (1665)** was made with **Raja Jai Singh I**.
 - Shivaji surrendered **23 forts** at Purandar.
@@ -117,6 +130,22 @@ NOT Panipat I (1526) or II (1556) | NOT Shivaji (dead 1680)
 - He did **not** fight Panipat III.
 
 ### PYQ — Deshmukh opposition A/R
+## 11.3 Administrative Structure of Shivaji — Ashtapradhan
+
+**Eight-minister council | not the same as Bijapur Deshmukhs**
+
+- Shivaji's **Ashtapradhan** was a council of **eight ministers** advising the **Chhatrapati** after **Rajyabhishek (1674)**.
+- **Peshwa** — prime minister and chief executive.
+- **Amatya** — finance and accounts.
+- **Sachiv** — correspondence and royal records.
+- **Sumant** — foreign affairs and diplomacy.
+- **Senapati** — commander-in-chief of the army.
+- **Mantri** — chronicler of the king's daily acts.
+- **Nyayadhish** — chief justice.
+- **Panditrao** — religious affairs and charity.
+- **Deshmukhs** were **Bijapur feudal chiefs** in the countryside. They opposed Shivaji because they wanted to remain **jagirdars**, not subjects of an independent Maratha state.
+
+
 
 **1. (UPPCS Prelims 2024, Q18)**
 

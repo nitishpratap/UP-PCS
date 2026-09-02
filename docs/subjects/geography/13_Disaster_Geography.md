@@ -305,6 +305,17 @@ IMD wind ladder. Basins, landfall, local names:
 
 ## N.11 Disaster Management Framework
 
+### NDMA and the disaster-management cycle — Teaching Card
+
+- **Disaster Management Act, 2005** created the **National Disaster Management Authority (NDMA)** as the apex body.
+- The **NDMA Chairperson** is the **Prime Minister** by statute.
+- **NDRF** (National Disaster Response Force) provides specialised rescue teams for floods, earthquakes, and cyclones.
+- **SDMA** at state level and **DDMA** at district level mirror the national structure.
+- The cycle runs **mitigation → preparedness → response → recovery**; Sendai Framework guides international risk reduction.
+- **National Disaster Management Plan** integrates heat waves, cloudbursts, landslides, and cyclones into one response map.
+
+
+
 India has shifted from a relief-centric habit to **prevention, mitigation and Sendai-aligned** risk reduction.
 
 **Inline PYQ — UPPCS Prelims 2021, Q26**

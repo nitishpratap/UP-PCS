@@ -90,7 +90,7 @@ SACRED: Tirupati = Tirumala/Mallamalla (E Ghats) NOT Shevaroy
 - The plateau is separated from the Northern Plains roughly along the **Narmada–Son** line.
 - The **Malda Gap** (Rajmahal–Garo gap) separates the Meghalaya Plateau from the main peninsular block.
 
-> **Exam note:** Thar sands = **Pleistocene and recent** (not Paleocene/Oligocene/Pliocene) — UPPCS 2018 Q101. Gujarat = longest **state** coastline — UPPCS 2018 Q98.
+> **Exam note:** Thar sands = **Pleistocene and recent** (not Paleocene/Oligocene/Pliocene). Gujarat = longest **state** coastline (~1600 km mainland).
 
 ---
 
@@ -174,7 +174,7 @@ D. Oligocene
 - The **Luni** is the only major river of the region. It is **seasonal** and **inland-draining**. It is not a perennial Arabian Sea river.
 - The southern margin is the **Rann of Kachchh**. The eastern margin is the Aravalli.
 
-> **Exam note:** Thar sands = Pleistocene and recent — UPPCS 2018 Q101.
+> **Exam note:** Thar sands = Pleistocene and recent (not older Tertiary epochs).
 
 ### Coastal Plains
 
@@ -267,7 +267,7 @@ D. Oligocene
 - High snow-covered ranges feed **perennial** Himalayan rivers (Indus, Ganga, Brahmaputra headwaters).
 - Altitude creates climate belts, so vegetation changes from tropical through temperate and alpine to nival.
 
-> **Exam note:** UPPCS 2019 Q11 — **all three** true: Greater = fossil-less; Lesser = marine fossils; Shiwalik = human remains. 2020 Q60 youngest among options = **Himadri** (Aravalli is oldest). 2025 Q94 A/R: snow → perennial rivers (**both true, R explains A**). 2025 Q21 A/R: altitude → vegetation (**both true, R explains A**).
+> **Exam note:** **All three** true: Greater = fossil-less; Lesser = marine fossils; Shiwalik = human remains. Youngest among usual options = **Himadri** (Aravalli is oldest). Snow-melt → perennial rivers (A/R both true, R explains A). Altitude → vegetation zonation (A/R both true, R explains A).
 
 **PYQ — UPPCS Prelims 2019, Q11**
 
@@ -565,7 +565,7 @@ D. Depth of upper trap – approximately 450 metres
 | **Diphu / Aghil** | Karakoram | Not Arunachal / not “Ladakh town” traps | 2023 wrong options |
 | **Khardung La** | Ladakh | Leh–Nubra road | High motorable pass; not a Tibet trade pass of the Nathu type |
 
-> **Exam note:** 2025 Q55 — **only Lipulekh–Ladakh is NOT matched**. Nathu La–Sikkim and Shipki La–HP are correct. 2023 Q57 — Niti–UK correct; Mana–HP false.
+> **Exam note:** **Only Lipulekh–Ladakh is NOT matched** among common pass–state pairs. Nathu La–Sikkim and Shipki La–HP are correct. **Niti** and **Mana** are **Uttarakhand**, not Himachal.
 
 **PYQ — UPPCS Prelims 2025, Q55**
 
@@ -716,7 +716,7 @@ D. 1 and 2
 - The Andaman and Nicobar coastline is long (about 1962 km) but it is **not** in the **state** ranking.
 - **Telangana** is not a coastal state.
 
-> **Exam note:** UPPCS 2018 Q98 — **Gujarat**, not Maharashtra / Andhra Pradesh / Kerala.
+> **Exam note:** **Gujarat** has the longest **state** mainland coastline — not Maharashtra, Andhra Pradesh, or Kerala.
 
 ---
 

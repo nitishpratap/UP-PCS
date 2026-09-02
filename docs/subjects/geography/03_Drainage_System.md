@@ -183,6 +183,7 @@ D. Only 1
 | **Devprayag** | Alaknanda + **Bhagirathi** = **Ganga** |
 
 - **Tehri** is **Bhagirathi + Bhilangana**. It is a dam site, not one of the five Prayags.
+- **Exam logic:** **Devprayag** = Alaknanda + Bhagirathi; **Rudraprayag** = Alaknanda + Mandakini; **Karnaprayag** = Alaknanda + Pindar; **Tehri** = Bhagirathi + Bhilangana (dam site, not a Prayag).
 
 **PYQ — UPPCS Prelims 2024, Q74**
 
@@ -332,6 +333,16 @@ D. Kabini *(paper: Kabam in some OCR)*
 ## 3.4 River features and patterns
 
 ### Deltas versus estuaries
+### Types of deltas — Teaching Card
+
+- **Arcuate delta** has a convex seaward front and many distributaries spreading like a fan. The **Ganga–Brahmaputra (Sundarbans)** and **Godavari–Krishna** are Indian examples.
+- **Bird's-foot (digitate) delta** has long finger-like distributaries. The **Mississippi** is the classic world example — **not** the Ganga.
+- **Cuspate delta** forms when waves from two directions meet the river mouth. **Ebro** (Spain) is cited; **Mahanadi** is often used in Indian match-lists.
+- **Lobate delta** is rounded with many shifting mouths. **Godavari** is sometimes classed here for its bulging front.
+- **Moribund delta** is ageing and shrinking because sediment supply has fallen or sea level has risen. **Cauvery** is the standard UPPCS lock — not Bengal or Krishna–Godavari.
+- **Estuary** replaces a delta where waves and tides dominate and the river mouth stays funnel-shaped — **Narmada, Tapi, Mandovi** on India's west coast.
+
+
 
 - A **delta** grows where a river dumps silt faster than waves can remove it. The **east coast** has a wide shelf, so large deltas form.
 - An **estuary** is a tidal funnel where river water mixes with the sea. The **west coast** is steep, wave-strong, and silt-poor on the rift rivers, so **Narmada, Tapi, and Mandovi** form estuaries.

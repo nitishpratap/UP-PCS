@@ -107,7 +107,7 @@ Tulsidas — Awadhi UP | Surdas — Braj (Mathura-Vrindavan) | Gorakhnath — Go
 - **Appar** (a Nayanar) questioned the value of **gotra**, **kula**, and law-books when they blocked devotion to Shiva.
 - **Tondaradippodi** (a Brahmana Alvar) praised servants of Vishnu even when they were born as outcastes — an early anti-caste devotional voice.
 - South Bhakti was closely tied to **temple worship**, pilgrimage, and local deity cults — this is the early **saguna** (formed-deity) stream.
-- In **12th-century Karnataka**, **Basavanna** led the **Virashaiva/Lingayat** reform — a radical Shaiva Bhakti strand distinct from temple Brahmanism (full card in §4.17).
+- In **12th-century Karnataka**, **Basavanna** led the **Virashaiva/Lingayat** reform — a radical Shaiva Bhakti strand distinct from temple Brahmanism. He rejected caste hierarchy and image worship in the orthodox Vedic sense. Full teaching sits in **§4.17**.
 
 ### Phase 2 — Philosophical bridge (9th–12th century)
 

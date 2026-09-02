@@ -134,6 +134,35 @@ D. Both true, R explains A
 ---
 
 ## 7.2 Major Battles — Master Chronology
+### First Battle of Panipat (20 April 1526) — Cause, Course, Result
+
+**Cause:** Babur claimed the Delhi throne against **Ibrahim Lodi**, whose Afghan nobles were divided.  
+**Course:** Babur's smaller army used **Tulughma** flanking tactics, **Araba** cart-fortifications, and gunpowder against Lodi's massed infantry and elephants.  
+**Result:** **Ibrahim Lodi was killed**. The **Delhi Sultanate ended**. Babur founded the **Mughal empire** — exam year **1526**.
+
+### Battle of Khanwa (1527) — Cause, Course, Result
+
+**Cause:** **Rana Sanga** of Mewar led a Rajput confederacy to challenge Babur after Panipat.  
+**Course:** Babur again used artillery and cart-forts. Sanga was wounded and the Rajput coalition broke.  
+**Result:** The **Rajput challenge to early Mughal power** was crushed. Babur secured the **Agra–Delhi** core.
+
+### Second Battle of Panipat (5 November 1556) — Cause, Course, Result
+
+**Cause:** After Humayun's death, **Hemu** (Hemchandra) seized Delhi as a Sur-Afghan claimant. Minor **Akbar** needed restoration under **Bairam Khan**.  
+**Course:** Mughal forces met Hemu near Panipat. Hemu was struck by an arrow and captured.  
+**Result:** **Akbar's throne was secured**. The Sur-Afghan bid collapsed. Mughal expansion under Akbar could begin.
+
+### Mughal Schools of Painting — Teaching Card
+
+**Kitabkhana tradition | Persian + Indian synthesis**
+
+- **Babur** brought Central Asian manuscript culture; early Mughal painting grows under **Humayun** after Safavid contact.
+- **Akbar's kitabkhana** produced the illustrated **Akbarnama** and **Hamzanama** (large-format cloth paintings).
+- **Jahangir** preferred **natural-history** studies — flowers, birds, and individual portraits; **Ustad Mansur** is the famous bird painter lock.
+- **Shah Jahan** patronised **court albums** and refined portraiture; architecture painting links to **Taj Mahal** age aesthetics.
+- **Aurangzeb** cut court patronage; artists moved to **Rajput** and **Deccan** courts — decline of imperial atelier, not end of Indian painting.
+
+
 
 | Year | Battle | Winner vs loser | Lock |
 |------|--------|-----------------|------|
@@ -367,7 +396,7 @@ D. Both true, R explains A
 - At **Panipat II on 5 November 1556**, Akbar’s forces defeated and killed **Hemu**.
 - Akbar’s major conquests ran in this order: **Malwa (1561–62)**, **Chittor (1567–68)**, **Gujarat (1572–73)** — which produced the Buland Darwaza — **Tukaroi (1575)** followed by **Bengal (1576)**, **Kashmir (1586)**, and campaigns into Kabul, Sind, and the start of Deccan operations at Ahmadnagar.
 - Akbar organised the empire into **12 subahs**.
-- His **Rajput policy** began with the **1562** marriage to **Harkha/Jodha Bai** of **Amber**. Loyal rajas received mansabs. **Man Singh** of Amber (about **7000** zat) fought at **Haldighati in 1576** against Maharana Pratap (see Topic 9 for the full card).
+- His **Rajput policy** began with the **1562** marriage to **Harkha/Jodha Bai** of **Amber**. Loyal rajas received mansabs. **Man Singh** of Amber (about **7000** zat) fought at **Haldighati in 1576** against Maharana Pratap — narrow Aravalli pass, **Man Singh** commanded for Akbar; Pratap withdrew to guerrilla resistance.
 - **Sulh-i-Kul** meant peace with all faiths. Akbar placed Hindus in high office.
 - Akbar **abolished jizya in 1564** and lifted the pilgrimage tax earlier.
 - From **Ibadat Khana debates (1575 onward)**, he moved to **Din-i-Ilahi in 1582**. It remained a tiny court circle; **Birbal** joined, but it was **not** a mass religion.
@@ -439,7 +468,7 @@ D. Both true, R explains A
 
 **Deccan:** Aurangzeb annexed Bijapur in **1686** and **Golkonda in 1687**. The last Qutb Shah ruler was **Abul Hasan Qutb Shah** — the lock in **UPPCS Prelims 2020 Q34**, answer **A**.
 - Aurangzeb **reimposed jizya in 1679** and ordered Banaras temple destruction in **1669**.
-- Long Deccan wars against the Marathas drained the treasury (see Topic 11).
+- Long Deccan wars against the Marathas drained the treasury and stretched the mansabdari system.
 - Aurangzeb died in **1707** at his Ahmadnagar camp and was buried at **Khuldabad**.
 
 ---

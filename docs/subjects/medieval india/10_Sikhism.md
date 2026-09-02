@@ -213,6 +213,25 @@ A. 3 2 4 1 | B. 3 2 1 4 | C. 2 3 4 1 | D. 2 3 1 4
 ---
 
 ## 10.6 Guru Gobind Singh
+### Guru Arjan martyrdom (1606) — Cause, Course, Result
+
+**Cause:** **Jahangir** saw the growing Sikh community and **Guru Arjan's** support for **Khusrau** as a political threat.  
+**Course:** Guru Arjan was arrested and tortured in Lahore.  
+**Result:** He became the first Sikh **martyr**. The succession passed to **Guru Hargobind**, who militarised the tradition with the **miri–piri** concept.
+
+### Guru Tegh Bahadur martyrdom (1675) — Cause, Course, Result
+
+**Cause:** **Kashmiri Pandits** sought protection against **Aurangzeb's** religious pressure. Guru Tegh Bahadur challenged forced conversion policy.  
+**Course:** He was arrested at **Malikpur** and brought to Delhi. He refused to accept Islam.  
+**Result:** He was executed in **1675**. His son **Guru Gobind Singh** became the next Guru and later founded the **Khalsa (1699)**.
+
+### Battle of Bhangani (1688) — Cause, Course, Result
+
+**Cause:** Hill Rajas of the **Shivalik** zone resented Guru Gobind Singh's growing power at **Anandpur**.  
+**Course:** Allied hill chiefs attacked the Guru's forces near **Bhangani**. The Guru's Sikhs and allies defeated the hill coalition.  
+**Result:** Sikh military credibility rose before the formal **Khalsa** institution and later Mughal conflict.
+
+
 
 **10th Guru** | **1675–1708** | Born **Gobind Rai**, son of Tegh Bahadur
 

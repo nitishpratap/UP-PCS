@@ -894,7 +894,7 @@ D. Moplah Revolt
 - After independence unions split by party.
 - **INTUC** was founded in **1947** and is mapped to **Congress**.
 - **HMS** was founded in **1948** in the socialist stream.
-- **UTUC** was founded in **1949**. Historically it is RSP. **UPPCS 2022 maps it to CPI(M)**.
+- **UTUC** was founded in **1949**. Historically it is RSP; exam keys often map it to **CPI(M)**.
 - **BMS** was founded in **1955** by **Dattopant Thengadi** and is mapped to **BJP / RSS**.
 - **CITU** was founded in **1970**. It is the actual **CPI(M)** centre. That is the trap against UTUC.
 - **2020 Q16** answer is **N.M. Joshi**, not Wadia, Andrews or Baptista.

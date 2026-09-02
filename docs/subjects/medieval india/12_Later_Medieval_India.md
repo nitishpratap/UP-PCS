@@ -183,6 +183,9 @@ D. Only 2
 ---
 
 **Chartered 1616** | Small Scandinavian presence | Sold to British **1845**
+## 12.6 Danish East India Company
+
+
 
 - The Danish East India Company received its charter in **1616**, entering India later than the Portuguese, English, and Dutch.
 - **Tranquebar (Tharangambadi, 1620)** on the Coromandel coast is the standard exam lock — **Fort Dansborg** still stands there.

@@ -666,6 +666,16 @@ D. Hoshangabad, Madhya Pradesh
 ---
 
 ## N.4 UP Focus
+### UP soil belts — expanded teaching map
+
+- **Terai** — alluvial, moist, N-rich; rice–wheat after drainage.
+- **Middle doab** — khadar/bangar mix; wheat–sugarcane Green Revolution belt.
+- **Bundelkhand** — **Mar/Kabar** black and **Parua/Rakar** red; drought-prone plateau.
+- **Vindhyan fringe** — **Bhonta/Monta** shallow soils on sandstone.
+- **Rohilkhand–Awadh** — deep alluvium; mentha and cane on lighter loams.
+- **Usar/Reh/Kallar** — saline–alkaline patches in western canal tracts; gypsum and drainage remedies apply.
+
+
 
 ~**90% alluvial** (khadar / bangar / bhur).
 

@@ -177,6 +177,20 @@ Teach the **full UP map** — next year can ask any Lucent district extreme or c
 - Ghaghara–Rapti–Gandak. **Rice**. Lowest forest (Jaunpur–Ghazipur–Ballia). Gorakhpur on **Rapti**.
 
 ### Vindhyan / Kaimur
+### Physiographic region — crop and soil locks (quick table)
+
+| Region | Dominant soil / terrain | Main crops / economy |
+|--------|-------------------------|----------------------|
+| **Bhabar** | Pebbly, porous | Poor tillage; forests |
+| **Terai** | Moist alluvium | Rice, wheat, cane; Dudhwa belt |
+| **Doab** | Khadar/bangar | Wheat, sugarcane, potato |
+| **Awadh** | Deep alluvium | Rice, wheat; Lucknow–Ayodhya |
+| **Rohilkhand** | Alluvial on Ramganga | Sugarcane, mentha |
+| **Bundelkhand** | Mar/Kabar black; Parua red | Pulses, oilseeds; drought stress |
+| **Purvanchal** | Gangetic alluvium | Rice; lowest forest cover belt |
+| **Vindhyan** | Bhonta; limestone | Thermal power, Rihand; Sonbhadra minerals |
+
+
 
 **Districts:** Sonbhadra, Mirzapur, Chandauli plateau edge, south Prayagraj
 

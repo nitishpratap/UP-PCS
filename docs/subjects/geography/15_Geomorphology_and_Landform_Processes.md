@@ -505,6 +505,17 @@ D. Only ice sheets
 ---
 
 ## N.8 Glaciers & Glacial Landforms
+### Major glacial landforms — Teaching Card
+
+- **Cirque** is a bowl-shaped hollow at the head of a valley glacier — the birthplace of ice.
+- **Arête** is a sharp ridge between two cirques.
+- **Horn** (e.g. Matterhorn type) forms when three or more arêtes meet.
+- **U-shaped valley** is carved by valley glaciers; **V-shaped valleys** are fluvial.
+- **Moraine** is glacial debris — lateral, medial, terminal, and ground moraine mark ice margins.
+- **Drumlin** is an elongated mound of till shaped by moving ice.
+- **Esker** is a sinuous ridge of outwash deposited by meltwater under or within ice.
+
+
 
 A glacier is a mass of ice that moves under its own weight. Exams lock **U-valley vs V-valley**, **fjord vs ria**, and depositional till forms.
 

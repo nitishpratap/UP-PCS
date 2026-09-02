@@ -91,7 +91,7 @@ Qutub Minar Aibak start/Iltutmish finish | Alai Darwaza Alauddin 1311
 - The Arab writer **Sulaiman** described the Pala kingdom as **Ruhma/Dharma** and praised its elephant corps.
 - **Al-Masudi** called the Gurjara-Pratihara realm **Al-Juzr (Gurjara)**. These foreign accounts show how north Indian kingdoms were seen as rivals before the Turkish breakthrough.
 
-> **Exam note:** **UPPCS 2018 Q14** — Both A and R true; **R explains A**. Trap: choosing B.
+> **Exam note:** **2018 Q14** — Both A and R true; **R explains A**. Trap: choosing B.
 
 ### PYQ — Turkish invasions A/R
 
@@ -130,6 +130,29 @@ D. A false, R true
 ## 2.2 Muhammad Ghori
 
 **Reign:** **1173–1206** | **Exam battles:** Tarain **1191/1192**, Chandawar **1194**
+### First Battle of Tarain (1191) — Cause, Course, Result
+
+**Foe:** Prithviraj Chauhan (Ajmer–Delhi) vs Muhammad Ghori
+
+**Cause:** Ghori had taken Lahore and wanted the **Delhi–Ajmer** corridor. Prithviraj blocked him at **Tarain (Thanesar)**.  
+**Course:** Rajput allies charged and broke the Ghurid **left wing**. Ghori was wounded and fled. Prithviraj did **not** pursue to destroy the army.  
+**Result:** Ghori escaped and regrouped. The **1192** rematch became possible because north India had no united pursuit.
+
+### Second Battle of Tarain (1192) — Cause, Course, Result
+
+**Cause:** Ghori returned with a larger force. Prithviraj again met him at Tarain without a lasting Rajput confederacy.  
+**Course:** Ghori used **feigned cavalry retreat** and mounted archery. Prithviraj was **captured**.  
+**Result:** **Ajmer** and **Delhi** fell. Ghori posted **garrisons** at Meerut, Kol, and Hansi. Territorial Turkish rule began — unlike Mahmud's raid-and-withdraw model.
+
+### Battle of Chandawar (1194) — Cause, Course, Result
+
+**Foe:** Jay Chandra (Jaichand) of Kannauj vs Ghori
+
+**Cause:** After Prithviraj's fall, **Kannauj** remained a major Gahadavala power blocking the upper Ganga.  
+**Course:** Ghori defeated and killed **Jaichand** on the **Ganga** battlefield near **Chandawar**.  
+**Result:** The **upper Ganga valley** opened to Ghurid agents. By **1200**, Bayana, Gwalior, Kalinjar, Mahoba, and Khajuraho had submitted.
+
+
 
 - Unlike Mahmud, Ghori appointed **governors**, minted coins, and stayed in India through agents such as **Aibak** and **Bakhtiyar Khalji**.
 - **First Tarain (1191):** **Prithviraj Chauhan** defeated Ghori when the Rajput charge broke the Turkish left wing.

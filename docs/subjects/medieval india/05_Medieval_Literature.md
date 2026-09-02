@@ -435,7 +435,7 @@ A. 2-1-4-3 | B. 3-2-1-4 | C. 2-3-1-4 | D. 2-4-3-1
 - **Mirat-e-Sikandari** describes the **Gujarat Sultanate** and the establishment of Muzaffar Shah's kingdom — not Delhi Sultanate history.
 - **Burhan-e-Masir** ("Proof of Destiny") covers the **Deccan**: **Bahmani** sultans and **Ahmadnagar** under the Nizam Shahi line.
 - **Riyaz-us-Salatin** is a **Bengal** chronicle from early Muslim rule through later periods — do not confuse with Gawan's letters.
-- **Riyaz-ul-Insha** preserves **Mahmud Gawan's** diplomatic and administrative letters — the best primary source on his reforms (Topic 3 overlap).
+- **Riyaz-ul-Insha** preserves **Mahmud Gawan's** diplomatic and administrative letters — the best primary source on his reforms at the Bahmani court.
 - The two **Riyaz** titles are the classic swap trap: **-us-Salatin** = Bengal history; **-ul-Insha** = Gawan's letters.
 
 > **Exam note:** Correct code = **A (4-2-1-3)** in **2023 Q33**: Mirat–Gujarat | Burhan–Ahmadnagar | Salatin–Bengal | Insha–Gawan.

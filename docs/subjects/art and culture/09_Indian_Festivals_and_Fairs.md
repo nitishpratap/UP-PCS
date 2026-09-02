@@ -142,7 +142,7 @@ TRAP 2025 Q97: May Pushkar Kumbh ≠ Pushkar camel fair
 - **Sarhul** is of Jharkhand (Munda, Oraon). It is **sal tree** and earth worship in the Sarna tradition.
 - **Karma** is of Jharkhand / Chhattisgarh. It is Karma-tree worship.
 - **Bastar Dussehra** is of Chhattisgarh. It lasts about **75 days** and honours Devi **Danteshwari**. It is not Rama–Ravana.
-- **Hornbill** covers all Naga tribes. It is a government showcase. The full card sits under North-East.
+- **Hornbill** covers all Naga tribes. It is a government showcase festival of Nagaland held in **Kohima** each December.
 - **Medaram Jatara** is of Telangana. It is of the **Koya** tribe and Sammakka–Sarakka. It is biennial and among Asia’s largest tribal gatherings.
 - **Bhagoria Haat** is of Madhya Pradesh. It is a **Bhil** Holi-season tribal fair.
 - **Wangala** is of Meghalaya. It is the **Garo** Hundred Drums harvest thanks.

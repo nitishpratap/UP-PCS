@@ -343,6 +343,16 @@ D. Missouri
 ---
 
 ## N.5 River Navigation
+### River navigation — how inland waterways work
+
+- **Rhine** is Europe's busiest inland waterway. It links the Swiss Alps to **Rotterdam** on the North Sea through a heavily canalised channel.
+- **Danube** crosses central and eastern Europe to the **Black Sea**. The **Rhine–Main–Danube** canal connects North Sea and Black Sea basins.
+- **Volga** is Russia's main river artery to the **Caspian Sea**. The **Volga–Don** canal gives a route toward the **Azov / Black Sea**.
+- **St Lawrence Seaway** lets ocean ships reach the **Great Lakes** of North America.
+- **Yangtze** is China's main inland trunk from the interior to the **East China Sea**.
+- **Mississippi** system moves bulk freight from the interior USA to the **Gulf of Mexico**.
+
+
 
 | Waterway | From / to | Exam |
 |----------|-----------|------|

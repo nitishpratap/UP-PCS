@@ -169,7 +169,7 @@ The **Government of India Act, 1858** ended East India Company rule and transfer
 | **4 June 1857** | Lucknow | Rising (correct pair in 2023 Q40) |
 | **June 1857** | Jhansi | Rising — **not 11 May** |
 
-> **Exam note:** Barrackpore is the **spark**. Meerut is the **beginning**. UPPCS 2023 Q40 unmatched pair = **Jhansi — 11 May 1857**.
+> **Exam note:** Barrackpore is the **spark**. Meerut is the **beginning**. Unmatched date trap: **Jhansi — 11 May 1857** (Jhansi rose in **June**, not May).
 
 ---
 

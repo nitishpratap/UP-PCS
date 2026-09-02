@@ -314,6 +314,17 @@ D. Stamp
 ---
 
 ## N.5 Protected Areas — Framework
+### UNESCO MAB and India's Biosphere Reserve Programme
+
+- **UNESCO Man and the Biosphere (MAB)** programme promotes **core + buffer + transition** zoning for conservation with sustainable human use.
+- India runs a **national Biosphere Reserve programme** under the **Wildlife (Protection) Act** framework; **18** sites are notified nationally.
+- **Nilgiri (1986)** was India's **first** Biosphere Reserve.
+- **Core zone** — strict protection, no human extraction.
+- **Buffer zone** — limited research and tourism.
+- **Transition zone** — settlements, forestry, and agriculture with regulation.
+- Several Indian BRs (Nilgiri, Nanda Devi, Sundarbans, Gulf of Mannar, etc.) also sit on UNESCO's **World Network of Biosphere Reserves**.
+
+
 
 | Category | Lock |
 |----------|------|
