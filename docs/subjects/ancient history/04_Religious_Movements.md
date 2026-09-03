@@ -40,7 +40,8 @@ Mahavira timeline: b. ~599 → renounce 30 → kevala 42 → nirvana Pavapuri ~5
 Nirvana rule: 20 = Sammed Shikhar (Jharkhand) | 4 separate = Ashtapad, Champapuri, Girnar, Pavapuri
 Rishabha born Ayodhya (UP) | Bahubali = Gomateshwara (not one of 24)
 2021 NOT matched: Vasupujya ≠ Sammedashikhar  (correct = Champapuri)
-Jain councils: Pataliputra (Sthulabhadra) → Vallabhi (Devardhigani) | Tattvartha Sutra = both sects
+Jain councils: Pataliputra (Sthulabhadra, ~300 BCE, 12 Angas) → Mathura/Skandila + Vallabhi I/Nagarjuna → Vallabhi II (Devardhigani, Agamas written)
+Tattvartha Sutra = both sects | Vallabhi ≠ Vaishali (Buddhist 2nd) ≠ Kundalvana (Kanishka)
 
 Ajivika = Gosala + niyati | Charvaka = perception-only, Brihaspati
 Bhagavatism = Vasudeva-Krishna, Mathura (UP) | Heliodorus pillar Besnagar
@@ -863,11 +864,18 @@ D. Mahavira — Pavapuri
 
 ### Jain councils and canon
 
-| Council | Place | Leader | Outcome |
-|---------|-------|--------|----------|
-| **First** | **Pataliputra** (~3rd c. BCE) | **Sthulabhadra** | **12 Angas** compiled in Svetambara memory |
-| **Final redaction** | **Vallabhi** (~5th–6th c. CE) | **Devardhigani Kshamashramana** | Svetambara canon fixed — **not** Kanishka (Buddhist 4th Council trap) |
+After a **12-year famine** at the end of Chandragupta Maurya’s reign, **Bhadrabahu** took a southern group to Karnataka. **Sthulabhadra** stayed in Magadha and convened the first council. Digambaras reject the Pataliputra Angas. Svetambaras keep them.
 
+Coaching often asks **two** names: Pataliputra and Vallabhi. A fuller list has a **middle pair** (Mathura + Vallabhi I) and a **final Vallabhi** writing-down.
+
+| # | Place | Leader | When (approx.) | Outcome |
+|---|-------|--------|----------------|---------|
+| **1st** | **Pataliputra** (Bihar) | **Sthulabhadra** | ~300 BCE | **12 Angas** arranged in **Ardhamagadhi**. **Drishtivada** (12th Anga) later **lost**. |
+| **2nd** (two venues at once) | **Mathura** (UP) and **Vallabhi** (Gujarat) | **Skandila** (Mathura); **Nagarjuna** (Vallabhi I) | ~4th c. CE | Oral texts gathered again after famine; Mathura is the **UP** venue. |
+| **3rd** (final) | **Vallabhi** (Maitraka Gujarat) | **Devardhigani Kshamashramana** | ~453–512 CE | Svetambara **Agamas written down**; **11 Angas** + **Upangas**. |
+
+- **Vallabhi** = Jain Svetambara canon. **Kanishka / Kundalvana** = **4th Buddhist** council.
+- **Vaishali** = **2nd Buddhist** council. Jain Vallabhi is a **different** place (Gujarat).
 - The ***Tattvartha Sutra*** of **Umasvati** is accepted by **both** Digambara and Svetambara.
 
 - **Svetambara** means white-clad. Monks and nuns wear white. A begging bowl is allowed. Images may be adorned.
