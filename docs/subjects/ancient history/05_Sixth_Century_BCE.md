@@ -57,18 +57,6 @@ Curtius army: 2 lakh foot, 20k horse, 2k chariots, 3k elephants | Alexander neve
 ---
 
 ## 5.1 Political Condition of Sixth Century BCE
-## 5.1a Second Urbanisation — Causes and Features
-
-**~600–300 BCE | iron + towns + coins | after Harappan decline**
-
-- **Iron tools** opened forest land and strengthened plough agriculture in the middle Ganga.
-- Surplus grain supported **specialised crafts** and a merchant class (*setthi*).
-- **Fortified towns** with ramparts, craft quarters, and administrative centres multiplied.
-- **Punch-marked silver** (*karshapana*) eased wider exchange; writing spread on pots and seals.
-- **NBPW** marks elite urban table culture; it begins in mahajanapada towns and continues into Mauryan strata.
-- This phase is the **second urbanisation** because the first was the Harappan system.
-
-
 
 **Iron Age Gangetic states | second urbanisation | age of the Buddha and Mahavira**
 
@@ -89,27 +77,18 @@ Curtius army: 2 lakh foot, 20k horse, 2k chariots, 3k elephants | Alexander neve
 
 ---
 
+## 5.1a Second Urbanisation — Causes and Features
+
+**~600–300 BCE | iron + towns + coins | after Harappan decline**
+
+- **Iron tools** opened forest land and strengthened plough agriculture in the middle Ganga.
+- Surplus grain supported **specialised crafts** and a merchant class (*setthi*).
+- **Fortified towns** with ramparts, craft quarters, and administrative centres multiplied.
+- **Punch-marked silver** (*karshapana*) eased wider exchange; writing spread on pots and seals.
+- **NBPW** marks elite urban table culture; it begins in mahajanapada towns and continues into Mauryan strata.
+- This phase is the **second urbanisation** because the first was the Harappan system.
+
 ## 5.2 Sixteen Mahajanapadas
-## 5.2a Gana-Sangha Polity — Vajji and Malla
-
-**Oligarchic kshatriya clans | assembly rule | Magadha's hardest target**
-
-- A **gana-sangha** is rule by an assembly of kshatriya clans, not a hereditary single king.
-- The Buddha praised the **Vajji** league for frequent, well-attended assemblies.
-- **Vajji** united **eight clans**. Leading houses were the **Licchavis** of Vaishali, the **Videhas** of Mithila, and the **Jnatrikas** (Mahavira's clan).
-- **Malla** was a gana with two centres: **Kushinagar** and **Pava**.
-- Assembly sites used open pavilions such as the **santhagara**; decisions needed clan consensus.
-- Gana-sanghas fell because they could not match Magadhan standing armies, siege engines, and ministerial intrigue.
-- **Magadha** remained a **monarchy** through the Haryanka age. It was never itself a gana-sangha.
-
-| Feature | Gana-sangha (e.g. Vajji, Malla) | Monarchy (e.g. Magadha, Kosala) |
-|---------|--------------------------------|----------------------------------|
-| Ruler | Clan assembly / oligarchy | Hereditary king |
-| Capital examples | Vaishali, Kushinagar | Rajagriha, Shravasti |
-| Army | Clan levies | Standing **chaturanga** force |
-| Exam trap | Vajji is **not** one of the "four monarchies" | Magadha is **not** a gana |
-
-
 
 **Solasa mahajanapada | Anguttara Nikaya | Jain *Bhagavati* also knows 16**
 
@@ -190,6 +169,27 @@ Curtius army: 2 lakh foot, 20k horse, 2k chariots, 3k elephants | Alexander neve
 
 ---
 
+---
+
+## 5.2a Gana-Sangha Polity — Vajji and Malla
+
+**Oligarchic kshatriya clans | assembly rule | Magadha's hardest target**
+
+- A **gana-sangha** is rule by an assembly of kshatriya clans, not a hereditary single king.
+- The Buddha praised the **Vajji** league for frequent, well-attended assemblies.
+- **Vajji** united **eight clans**. Leading houses were the **Licchavis** of Vaishali, the **Videhas** of Mithila, and the **Jnatrikas** (Mahavira's clan).
+- **Malla** was a gana with two centres: **Kushinagar** and **Pava**.
+- Assembly sites used open pavilions such as the **santhagara**; decisions needed clan consensus.
+- Gana-sanghas fell because they could not match Magadhan standing armies, siege engines, and ministerial intrigue.
+- **Magadha** remained a **monarchy** through the Haryanka age. It was never itself a gana-sangha.
+
+| Feature | Gana-sangha (e.g. Vajji, Malla) | Monarchy (e.g. Magadha, Kosala) |
+|---------|--------------------------------|----------------------------------|
+| Ruler | Clan assembly / oligarchy | Hereditary king |
+| Capital examples | Vaishali, Kushinagar | Rajagriha, Shravasti |
+| Army | Clan levies | Standing **chaturanga** force |
+| Exam trap | Vajji is **not** one of the "four monarchies" | Magadha is **not** a gana |
+
 ## 5.3 Mahajanapadas of Uttar Pradesh
 
 **Eight touch present UP | Magadha is the classic trap**
@@ -247,6 +247,25 @@ A. 4 2 1 3  B. 3 1 4 2  C. 3 4 1 2  D. 2 3 4 1
 ---
 
 ## 5.5 Expansion of Mahajanapadas
+
+**Who ate whom — Magadha wins the century**
+
+- Early ranking puts **Kashi** first among equals. Then **Kosala** eclipses Kashi. Then **Magadha** eclipses everyone.
+- **Bimbisara** first swallows **Anga** and its Champa port. His marriages buy peace with Kosala (the **Kashi dowry**), with the Licchavis, and with Madra.
+- **Ajatashatru** kills Bimbisara, then fights Kosala over Kashi. Settlement comes when he marries **Vajira**, Prasenajit’s daughter.
+- He then fights a **~16-year** war on **Vajji**. War-engines are the **rathamusala** (scythed chariot) and the **mahashilakantaka** (stone-thrower).
+- Minister **Vassakara**, with **Sunidha**, sows discord in the Licchavi assembly. They fortify **Pataligrama**, the seed of Pataliputra.
+- **Vidudabha** of Kosala destroys Kapilavastu and the Shakyas. That is Kosala internal, not Magadha.
+- **Avanti** under Pradyota stays independent until **Shishunaga**. Vatsa is usually tied by marriage, not by a first conquest. Gana-sanghas fall last.
+- Gandhara and Kamboja meet **Persia then the Greeks**, not Magadha first.
+- The **Nandas** roll leftover Kuru, Panchala, and Kalinga into one Gangetic empire. Then the Mauryas.
+
+> **Exam note:** The first Magadha bite is **Anga**. The longest fight is **Vajji**. Avanti is not Bimbisara’s prize.
+
+---
+
+---
+
 ## 5.5a Wars of Magadhan Expansion — Cause, Course, Result
 
 ### Bimbisara's annexation of Anga
@@ -284,24 +303,6 @@ A. 4 2 1 3  B. 3 1 4 2  C. 3 4 1 2  D. 2 3 4 1
 **Cause:** Leftover mahajanapada boards (Kuru, Panchala, Kosala, Vatsa) still blocked a Gangetic empire.  
 **Course:** **Mahapadma Nanda** overthrew the Shishunaga tail and rolled up the middle Ganga belt.  
 **Result:** First large **Gangetic empire** before the Mauryas. Titles **ekarat** and **sarvakshatrantaka** belong here.
-
-
-
-**Who ate whom — Magadha wins the century**
-
-- Early ranking puts **Kashi** first among equals. Then **Kosala** eclipses Kashi. Then **Magadha** eclipses everyone.
-- **Bimbisara** first swallows **Anga** and its Champa port. His marriages buy peace with Kosala (the **Kashi dowry**), with the Licchavis, and with Madra.
-- **Ajatashatru** kills Bimbisara, then fights Kosala over Kashi. Settlement comes when he marries **Vajira**, Prasenajit’s daughter.
-- He then fights a **~16-year** war on **Vajji**. War-engines are the **rathamusala** (scythed chariot) and the **mahashilakantaka** (stone-thrower).
-- Minister **Vassakara**, with **Sunidha**, sows discord in the Licchavi assembly. They fortify **Pataligrama**, the seed of Pataliputra.
-- **Vidudabha** of Kosala destroys Kapilavastu and the Shakyas. That is Kosala internal, not Magadha.
-- **Avanti** under Pradyota stays independent until **Shishunaga**. Vatsa is usually tied by marriage, not by a first conquest. Gana-sanghas fall last.
-- Gandhara and Kamboja meet **Persia then the Greeks**, not Magadha first.
-- The **Nandas** roll leftover Kuru, Panchala, and Kalinga into one Gangetic empire. Then the Mauryas.
-
-> **Exam note:** The first Magadha bite is **Anga**. The longest fight is **Vajji**. Avanti is not Bimbisara’s prize.
-
----
 
 ## 5.6 Rise of Magadha
 

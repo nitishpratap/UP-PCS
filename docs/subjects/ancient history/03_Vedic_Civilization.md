@@ -435,35 +435,28 @@ About **33** gods are grouped in three layers: **earth**, **air (antariksha)**, 
 
 ## 3.11 Four Vedas
 
-**Rig · Sama · Yajur · Atharva | each has a Samhita core**
+**Rig · Sama · Yajur · Atharva | each has a Samhita core | compiler Vyasa**
 
-- The **Rigveda** is the oldest Veda.
-- It has about **1028** hymns, counted as **1017 plus 11 Valakhilya**.
-- It is arranged in **10 mandalas**.
-- Mandalas **II–VII** are the family books and the oldest core.
+| Veda | Core content | Priest | Upaveda | Main Samhita(s) | Key Brahmana(s) | Structure lock |
+|------|--------------|--------|---------|-----------------|-----------------|----------------|
+| **Rigveda** | Oldest; hymns (*rik*) | **Hotri** | **Ayurveda** | Rigveda Samhita | **Aitareya**, Kausitaki | **1028** hymns (**1017 + 11** Valakhilya); **10** mandalas |
+| **Samaveda** | Melodies (*saman*) for Soma | **Udgatri** | **Gandharvaveda** | Samaveda Samhita (mostly from Rig) | Tandya / Panchavimsha, Jaiminiya | Chant-book for sacrifice |
+| **Yajurveda** | Sacrificial formulas (*yajus*) | **Adhvaryu** | **Dhanurveda** | **Shukla:** **Vajasaneyi** (Madhyandina, Kanva; paper: **Vajasanami**). **Krishna:** Taittiriya, Kathaka, Maitrayani (+ Kapishthala) | **Shatapatha** (Shukla, **100** ch.); Taittiriya (Krishna) | Shukla = mantra & Brahmana **apart**; Krishna = **mixed** |
+| **Atharvaveda** | Spells, healing, household | **Brahman** (rite supervisor) | **Arthashastra** | Atharvaveda Samhita | **Gopatha** (only one) | **20** books; newest of the four; early **iron** hints |
+
+- Mandalas **II–VII** are the family books and the oldest Rigvedic core.
 - Mandala **IX** is the Soma book.
 - Mandalas **I and X** are the latest.
 - The **Purusha Sukta** lives in Mandala X.
 - The **Gayatri Mantra** is RV **III.62.10**.
 - It is addressed to **Savitr**. The seer is **Vishvamitra**.
 - The Nasadiya Sukta, the creation hymn, is also in Mandala X.
-- The **Samaveda** is a book of **melodies (saman)** for the Soma ritual.
-- Most Samaveda verses are lifted from the Rigveda.
-- The Samaveda priest is the **Udgatri**.
-- The **Yajurveda** is a book of **yajus**. It is the adhvaryu’s sacrificial handbook.
+- Most **Samaveda** verses are lifted from the Rigveda.
 - **Shukla (White) Yajurveda** keeps mantra and Brahmana **apart**.
-- Its Samhita is **Vajasaneyi**, with Madhyandina and Kanva schools.
-- Some papers print **Vajasanami** — that is the same school as **Vajasaneyi** (Shukla Yajurveda).
 - **Krishna (Black) Yajurveda** mixes mantra and prose.
-- Its Samhitas are **Taittiriya**, **Kathaka**, and **Maitrayani**. Some lists add Kapishthala.
 - In **UPPCS 2018 Q13**, options **B Maitrayani**, **C Taittiriya**, and **D Kathak** are all **Krishna (Black) Yajurveda** Samhitas — only **A Vajasanami** is **Shukla**.
 - Here **Krishna** means the **Black Yajurveda** school (mantra + prose mixed). It does **not** mean the deity Krishna.
-- The **Atharvaveda** is the newest of the four.
-- It has **20** books of spells, healing, and household life, with early **iron** hints.
-- Its priest is the **Brahman**, the supervisor of the rite.
-- It is everyday religion, not only royal yajna.
-- The four ritual priests are the **Hotri** of the Rigveda, the **Udgatri** of the Samaveda, the **Adhvaryu** of the Yajurveda, and the **Brahman** of the Atharvaveda overall.
-- Traditional compiler of the Vedas is **Vyasa**.
+- The Atharvaveda is everyday religion, not only royal yajna.
 
 > **Exam note:** Shukla Yajurveda = **Vajasaneyi** (also printed Vajasanami). Taittiriya / Maitrayani / Kathak = **Krishna (Black)** Yajurveda — not hymns to god Krishna.
 

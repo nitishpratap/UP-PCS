@@ -147,6 +147,14 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 ---
 
+## 8.2a Ikshvakus and Nagarjunakonda
+
+- After Satavahana decline (~3rd century CE), the **Ikshvakus** ruled coastal **Andhra** from **Nagarjunakonda**.
+- The site is famous for **Buddhist stupa**, monastery, and **Ikshvaku inscriptions**.
+- Ikshvakus are a **post-Satavahana Andhra** house, not the mythic Ayodhya Ikshvaku line.
+
+---
+
 ## 8.3 South Indian History
 
 **Peninsula below the Vindhyas | Kalinga + Tamilakam + later match-list houses**
@@ -303,15 +311,6 @@ D. Sakas — Kushans — Greeks
 
 ---
 
-## 8.9 Sangam Age
-## 8.9a Sangam Wars and Inter-State Politics
-
-- Sangam **Puram** poetry records wars among **Chera, Chola, and Pandya** — the **Muvendar** trio.
-- The **Cholas** under **Karikala** fought rivals and built the **Kallanai** dam; they are **not** the imperial Cholas of Rajaraja I.
-- **Nedunjeliyan** of the Pandyas appears in war poems such as the **Purananuru**.
-- **Senguttuvan** of the Cheras is linked to the west-coast pepper trade and **Kannagi / Pattini** legend in *Silappadikaram*.
-- Sub-chiefs called **velir** held hill and border territories under the great kings.
-
 ## 8.3b Post-Mauryan Art Schools — Quick Compare
 
 | School | Period / patron | Material / style | Exam lock |
@@ -321,13 +320,9 @@ D. Sakas — Kushans — Greeks
 | **Amaravati** | Satavahana Andhra | Limestone narrative reliefs | Andhra Buddhist stupa art |
 | **Karle / Nasik** | Satavahana age | Rock-cut **chaitya** halls | Public Buddhist architecture |
 
-## 8.2a Ikshvakus and Nagarjunakonda
+---
 
-- After Satavahana decline (~3rd century CE), the **Ikshvakus** ruled coastal **Andhra** from **Nagarjunakonda**.
-- The site is famous for **Buddhist stupa**, monastery, and **Ikshvaku inscriptions**.
-- Ikshvakus are a **post-Satavahana Andhra** house, not the mythic Ayodhya Ikshvaku line.
-
-
+## 8.9 Sangam Age
 
 **Tamilakam south of Krishna–Tungabhadra | ~300 BCE–300 CE | literature as the state archive**
 
@@ -358,6 +353,14 @@ D. Sakas — Kushans — Greeks
 > **Exam note:** Muvendar is not Pallava. Sangam texts are not the *Arthashastra*.
 
 ---
+
+## 8.9a Sangam Wars and Inter-State Politics
+
+- Sangam **Puram** poetry records wars among **Chera, Chola, and Pandya** — the **Muvendar** trio.
+- The **Cholas** under **Karikala** fought rivals and built the **Kallanai** dam; they are **not** the imperial Cholas of Rajaraja I.
+- **Nedunjeliyan** of the Pandyas appears in war poems such as the **Purananuru**.
+- **Senguttuvan** of the Cheras is linked to the west-coast pepper trade and **Kannagi / Pattini** legend in *Silappadikaram*.
+- Sub-chiefs called **velir** held hill and border territories under the great kings.
 
 ## 8.10 Later South — 2025 match only
 

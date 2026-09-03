@@ -439,24 +439,6 @@ Teach in this order. Prataparudra II is the **last** king, not the founder.
 ---
 
 ## 14.9 Charaka Samhita
-## 14.10 Upapuranas — Names and Difference
-
-- **18 Upapuranas** (minor); shorter, local, sect-promotional; less complete **panchalakshana** than Mahapuranas.
-- Examples in coaching lists: **Sanatkumara**, **Narasimha**, **Durvasa**, **Kapila**, **Vamana**, **Bhargava**, **Varuna**, **Kalika**, **Maheshvara**, **Linga**, **Vinayaka**, **Shamba**, **Saura**, **Parashara**, **Maricha**.
-
-## 14.11 Ajivika — Neighbour of Charvaka
-
-- Founded around **Gosala Makkhali**; contemporary of Mahavira and Buddha.
-- Doctrine: **niyati** (fatalism) — everything predetermined; not Charvaka pleasure materialism.
-- Ashoka's **Barabar Hill** caves were donated to Ajivikas.
-
-## 14.12 Meluhha Trade — Indus ↔ Mesopotamia
-
-- Sumerian/Akkadian texts name **Meluhha** = Indus region.
-- Exports: carnelian beads, timber, ivory; imports: Mesopotamian metals.
-- Harappan seal found in **Ur**; proves **bronze-age Gulf** contact.
-
-
 
 **Ayurveda, internal medicine | 120 chapters, 8 sections**
 
@@ -477,6 +459,23 @@ Teach in this order. Prataparudra II is the **last** king, not the founder.
 > **Exam note:** Correct structure = **120 chapters, 8 sections**. Father-of-Indian-medicine tag in Lucent-type books = **Charaka**.
 
 ---
+
+## 14.10 Upapuranas — Names and Difference
+
+- **18 Upapuranas** (minor); shorter, local, sect-promotional; less complete **panchalakshana** than Mahapuranas.
+- Examples in coaching lists: **Sanatkumara**, **Narasimha**, **Durvasa**, **Kapila**, **Vamana**, **Bhargava**, **Varuna**, **Kalika**, **Maheshvara**, **Linga**, **Vinayaka**, **Shamba**, **Saura**, **Parashara**, **Maricha**.
+
+## 14.11 Ajivika — Neighbour of Charvaka
+
+- Founded around **Gosala Makkhali**; contemporary of Mahavira and Buddha.
+- Doctrine: **niyati** (fatalism) — everything predetermined; not Charvaka pleasure materialism.
+- Ashoka's **Barabar Hill** caves were donated to Ajivikas.
+
+## 14.12 Meluhha Trade — Indus ↔ Mesopotamia
+
+- Sumerian/Akkadian texts name **Meluhha** = Indus region.
+- Exports: carnelian beads, timber, ivory; imports: Mesopotamian metals.
+- Harappan seal found in **Ur**; proves **bronze-age Gulf** contact.
 
 ## UP Focus
 

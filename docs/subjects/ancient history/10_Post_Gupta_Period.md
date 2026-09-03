@@ -174,27 +174,6 @@ D. Ishwaravarman — Jaunpur stone inscription
 ---
 
 ## 10.7 Hiuen Tsang
-## 10.8 I-tsing (Yijing) — Post-Harsha Chinese Traveller
-
-**~671–695 CE | sea route | Nalanda after Harsha**
-
-- Tang monk; reached India by **sea** (Sri Lanka → Tamralipti); **not** Harsha's guest at the 643 Kannauj assembly.
-- Studied and taught at **Nalanda**; records 3000+ monks at peak.
-- Book: ***Nanhai Jigui Neifa Zhuan***. Chronology: Fa-Hien (~400) → Hiuen Tsang (~630) → **I-tsing (~670s)** → Al-Biruni (~1017).
-
-## 10.9 Nalanda in the Harsha Age
-
-- Nalanda was founded under **Kumaragupta I** (Gupta). Harsha is a **patron**, not the founder.
-- **Hiuen Tsang** studies under **Shilabhadra** at Nalanda; spends years in Magadha.
-- **Kannauj assembly (643):** honours Xuanzang; Mahayana texts foregrounded.
-
-## 10.11 Hunas in Post-Gupta North — Cause, Course, Result
-
-- **Cause:** weakness of later Guptas; northwest gateway open.
-- **Course:** **Toramana** → **Mihirakula** (Gwalior inscription); **Yashodharman** of Malwa boasts victory at **Mandasor** (~532).
-- **Result:** Huna power fades by mid-6th c.; north fragments until **Harsha** (606–647).
-
-
 
 **Xuanzang | India ~630–644 | Harsha’s Chinese witness**
 
@@ -228,6 +207,26 @@ A. 1, 2, 3, 4  B. 4, 3, 1, 2  C. 2, 1, 4, 3  D. 3, 4, 2, 1
 > **Exam note:** Hiuen Tsang ≠ Fa-Hien. Nalanda founder = **Kumaragupta I**. Xuanzang = visitor under Harsha.
 
 ---
+
+## 10.8 I-tsing (Yijing) — Post-Harsha Chinese Traveller
+
+**~671–695 CE | sea route | Nalanda after Harsha**
+
+- Tang monk; reached India by **sea** (Sri Lanka → Tamralipti); **not** Harsha's guest at the 643 Kannauj assembly.
+- Studied and taught at **Nalanda**; records 3000+ monks at peak.
+- Book: ***Nanhai Jigui Neifa Zhuan***. Chronology: Fa-Hien (~400) → Hiuen Tsang (~630) → **I-tsing (~670s)** → Al-Biruni (~1017).
+
+## 10.9 Nalanda in the Harsha Age
+
+- Nalanda was founded under **Kumaragupta I** (Gupta). Harsha is a **patron**, not the founder.
+- **Hiuen Tsang** studies under **Shilabhadra** at Nalanda; spends years in Magadha.
+- **Kannauj assembly (643):** honours Xuanzang; Mahayana texts foregrounded.
+
+## 10.11 Hunas in Post-Gupta North — Cause, Course, Result
+
+- **Cause:** weakness of later Guptas; northwest gateway open.
+- **Course:** **Toramana** → **Mihirakula** (Gwalior inscription); **Yashodharman** of Malwa boasts victory at **Mandasor** (~532).
+- **Result:** Huna power fades by mid-6th c.; north fragments until **Harsha** (606–647).
 
 ## UP Focus
 

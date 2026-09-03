@@ -106,6 +106,32 @@ Shaka era 78 CE ≠ Vikrama 57 BCE | Devaputra title | Rabatak genealogy
 ---
 
 ## 6.2 Alexander's Invasion
+
+**Born 356 at Pella | king 336 | India 327–325 (~19 months) | exam year 326**
+
+- In **327** he crosses the Hindu Kush into the Cophen (Kabul) valley, takes **Massaga** of the Assakenoi, and takes the Rock of **Aornos** (Pir-Sar).
+- In **326** he crosses the **Indus**. **Ambhi / Omphis** of Taxila **submits** and becomes an ally. **Abisares** of Kashmir sends gifts and does not fight.
+- The Battle of the **Hydaspes** is fought on the **Jhelum** against **Porus**. Alexander makes a night crossing in rain. **Craterus** holds the camp bank.
+- Porus asks to be treated as a **king**. He is restored and **enlarged**. Alexander founds **Nicaea** (victory) and **Bucephala** (for the horse).
+- He then crosses the Acesines (Chenab) and the Hydraotes (Ravi). He storms **Sangala** of the **Kathaioi**. This is not Menander’s Sagala.
+- **Phegeus** warns him of Nanda numbers. At the **Hyphasis (Beas)** the army mutinies. **Coenus** speaks for the troops. Alexander raises **twelve altars** and turns west.
+- Among the **Malloi / Malavas** Alexander is pierced by an arrow. The **Oxydrakai** (Kshudrakas) submit.
+- **Nearchus** sails from the Indus mouth to the Gulf. The **Gedrosia** desert march is a slaughter.
+- He leaves **Ambhi** as satrap at Taxila and **Porus** over the Hydaspes country. **Philip** is a satrap and is later murdered. **Peithon** holds the lower Indus. **Eudemus** is a leftover officer.
+- In **323** Alexander dies at **Babylon**. The Indian posts evaporate.
+
+- The march gives the first tight Greek *description* of India. NW satrapies last only a blink. Sea and land route knowledge comes via **Nearchus**.
+- **Sandrokottos = Chandragupta** is the peg of **William Jones**. Magadha and Buddha dates hang on this.
+- The power vacuum is what the **Mauryas** fill. The seed of later portrait coins and Gandhara style is planted here.
+
+- Sources are Arrian’s *Anabasis* and *Indica*, from Ptolemy and Aristobulus. Also used are Plutarch, Diodorus, Curtius, and Justin. There is no Indian royal inscription of the march.
+
+> **Exam note:** Hydaspes is the **fight**. Hyphasis is the **stop**. Sangala is not Sagala. The Ganga is a trap.
+
+---
+
+---
+
 ## 6.2a Battle of the Hydaspes (326 BCE) — Cause, Course, Result
 
 **River:** Jhelum (**Hydaspes**) | **Foe:** Porus (Paurava)
@@ -153,31 +179,6 @@ Shaka era 78 CE ≠ Vikrama 57 BCE | Devaputra title | Rabatak genealogy
 - Greek writers' **Sandrokottos = Chandragupta Maurya** is the main **chronology peg**.
 - The campaign opened the northwest to **Greek reports**, later **Indo-Greek** rule, and **Gandhara art**.
 - Magadhan power filled the vacuum the Macedonians did not hold.
-
-
-
-**Born 356 at Pella | king 336 | India 327–325 (~19 months) | exam year 326**
-
-- In **327** he crosses the Hindu Kush into the Cophen (Kabul) valley, takes **Massaga** of the Assakenoi, and takes the Rock of **Aornos** (Pir-Sar).
-- In **326** he crosses the **Indus**. **Ambhi / Omphis** of Taxila **submits** and becomes an ally. **Abisares** of Kashmir sends gifts and does not fight.
-- The Battle of the **Hydaspes** is fought on the **Jhelum** against **Porus**. Alexander makes a night crossing in rain. **Craterus** holds the camp bank.
-- Porus asks to be treated as a **king**. He is restored and **enlarged**. Alexander founds **Nicaea** (victory) and **Bucephala** (for the horse).
-- He then crosses the Acesines (Chenab) and the Hydraotes (Ravi). He storms **Sangala** of the **Kathaioi**. This is not Menander’s Sagala.
-- **Phegeus** warns him of Nanda numbers. At the **Hyphasis (Beas)** the army mutinies. **Coenus** speaks for the troops. Alexander raises **twelve altars** and turns west.
-- Among the **Malloi / Malavas** Alexander is pierced by an arrow. The **Oxydrakai** (Kshudrakas) submit.
-- **Nearchus** sails from the Indus mouth to the Gulf. The **Gedrosia** desert march is a slaughter.
-- He leaves **Ambhi** as satrap at Taxila and **Porus** over the Hydaspes country. **Philip** is a satrap and is later murdered. **Peithon** holds the lower Indus. **Eudemus** is a leftover officer.
-- In **323** Alexander dies at **Babylon**. The Indian posts evaporate.
-
-- The march gives the first tight Greek *description* of India. NW satrapies last only a blink. Sea and land route knowledge comes via **Nearchus**.
-- **Sandrokottos = Chandragupta** is the peg of **William Jones**. Magadha and Buddha dates hang on this.
-- The power vacuum is what the **Mauryas** fill. The seed of later portrait coins and Gandhara style is planted here.
-
-- Sources are Arrian’s *Anabasis* and *Indica*, from Ptolemy and Aristobulus. Also used are Plutarch, Diodorus, Curtius, and Justin. There is no Indian royal inscription of the march.
-
-> **Exam note:** Hydaspes is the **fight**. Hyphasis is the **stop**. Sangala is not Sagala. The Ganga is a trap.
-
----
 
 ## 6.3 Persons Accompanying Alexander
 
@@ -241,13 +242,6 @@ D. Sakas — Kushans — Greeks
 ---
 
 ## 6.5 Seleucus Nicator
-## 6.5a Seleucus–Chandragupta War and Treaty (~305–303 BCE)
-
-**Cause:** After Alexander's death, Seleucus wanted the eastern satrapies. Chandragupta had taken the Nanda throne and pushed into the northwest.  
-**Course:** Seleucus marched east but could **not** take Magadha. Fighting ended in negotiation.  
-**Result:** Seleucus **ceded Arachosia, Gedrosia, and Paropamisadae**. Chandragupta gave **500 elephants** and probably a marriage alliance (**Helena** tradition). Seleucus sent **Megasthenes** to Pataliputra.
-
-
 
 **Diadochus | Seleucid founder | Indian file = the Chandragupta treaty**
 
@@ -263,6 +257,14 @@ D. Sakas — Kushans — Greeks
 > **Exam note:** Seleucus **lost** the Indian borderlands. He did not sit at Pataliputra.
 
 ---
+
+---
+
+## 6.5a Seleucus–Chandragupta War and Treaty (~305–303 BCE)
+
+**Cause:** After Alexander's death, Seleucus wanted the eastern satrapies. Chandragupta had taken the Nanda throne and pushed into the northwest.  
+**Course:** Seleucus marched east but could **not** take Magadha. Fighting ended in negotiation.  
+**Result:** Seleucus **ceded Arachosia, Gedrosia, and Paropamisadae**. Chandragupta gave **500 elephants** and probably a marriage alliance (**Helena** tradition). Seleucus sent **Megasthenes** to Pataliputra.
 
 ## 6.6 Indo-Greek Kingdom
 

@@ -213,27 +213,6 @@ D. Ishwaravarman — Jaunpur stone inscription
 ---
 
 ## 11.4 Ancient Administration
-## 11.5 Mauryan Provincial and Revenue Administration
-
-- **Provinces:** empire divided into provinces (*pradeshas*); border provinces often under princes (**kumara**).
-- **Revenue:** land share (**bhaga**), pasture dues (**pindakara**), customs (**sulka**); **samaharta** collects; **sannidhata** stores.
-- **Rural:** Megasthenes' **agronomai** = revenue officers. **Weights:** *pautavadhyaksha*.
-
-## 11.6 Mauryan Spy System (*Gudhapurusha*)
-
-- Kautilya lists **spy** types: secret agents, wandering ascetics, household informers.
-- Purpose: test officials, watch frontier, gather intelligence — part of the **centralised** Mauryan state.
-
-## 11.8 Foreign Accounts on Ancient Administration
-
-| Traveller | Age | Admin observation |
-|-----------|-----|-------------------|
-| **Megasthenes** | Chandragupta Maurya | seven castes (Greek lens), agronomai, city boards |
-| **Fa-Hien** | Chandragupta II | light punishments, Buddhist patronage visible |
-| **Hiuen Tsang** | Harsha | good roads, hospices; elephant numbers = colour |
-| **I-tsing** | Post-Harsha | monastic rules at Nalanda |
-
-
 
 **Vedic tribal → Mauryan machine → Gupta/Harsha samanta | officials are the paper**
 
@@ -319,6 +298,26 @@ A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
 > **Exam note:** Maurya is central. Gupta and Harsha are samanta. Do not flip that.
 
 ---
+
+## 11.5 Mauryan Provincial and Revenue Administration
+
+- **Provinces:** empire divided into provinces (*pradeshas*); border provinces often under princes (**kumara**).
+- **Revenue:** land share (**bhaga**), pasture dues (**pindakara**), customs (**sulka**); **samaharta** collects; **sannidhata** stores.
+- **Rural:** Megasthenes' **agronomai** = revenue officers. **Weights:** *pautavadhyaksha*.
+
+## 11.6 Mauryan Spy System (*Gudhapurusha*)
+
+- Kautilya lists **spy** types: secret agents, wandering ascetics, household informers.
+- Purpose: test officials, watch frontier, gather intelligence — part of the **centralised** Mauryan state.
+
+## 11.8 Foreign Accounts on Ancient Administration
+
+| Traveller | Age | Admin observation |
+|-----------|-----|-------------------|
+| **Megasthenes** | Chandragupta Maurya | seven castes (Greek lens), agronomai, city boards |
+| **Fa-Hien** | Chandragupta II | light punishments, Buddhist patronage visible |
+| **Hiuen Tsang** | Harsha | good roads, hospices; elephant numbers = colour |
+| **I-tsing** | Post-Harsha | monastic rules at Nalanda |
 
 ## UP Focus
 

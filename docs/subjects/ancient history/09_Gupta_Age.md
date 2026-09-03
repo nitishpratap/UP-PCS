@@ -458,6 +458,18 @@ A. 3 4 1 2  B. 4 3 2 1  C. 4 3 1 2  D. 3 4 2 1
 ---
 
 ## 9.18 Gupta Science
+
+**Astronomy + maths + iron**
+
+- **Aryabhata** wrote the *Aryabhatiya* in **499 CE**. Tradition places him at Kusumapura / Pataliputra. He teaches that the earth rotates and explains eclipses without demon stories.
+- **Varahamihira** wrote the *Panchasiddhantika* and the *Brihatsamhita*. He sits at Ujjain.
+- **Brahmagupta** wrote the *Brahmasphutasiddhanta* in the early 7th century, at the edge of this age. Medicine circulates in *Sushruta* and *Charaka* redactions.
+- The Mehrauli pillar is rust-resistant iron. “Chandra” on it is usually **Chandragupta II**. Decimal place-value is in use. “Aryabhata invented zero” is too crude for a sharp T/F. He uses place value.
+
+> **Exam note:** Aryabhata is not Varahamihira. Fa-Hien did not write the *Aryabhatiya*.
+
+---
+
 ## 9.19 Gupta Decline — Cause, Course, Result
 
 **~455–550 CE | Hunas + samantas**
@@ -489,19 +501,6 @@ A. 3 4 1 2  B. 4 3 2 1  C. 4 3 1 2  D. 3 4 2 1
 
 - Chandragupta II's daughter **Prabhavatigupta** married Vakataka **Rudrasena II** and ruled as **regent** after his death — Gupta influence in the Deccan without direct annexation.
 - **Udayagiri** caves overlap Gupta court culture; **Ajanta** later phases are often **Vakataka**, not "pure Gupta court."
-
-
-
-**Astronomy + maths + iron**
-
-- **Aryabhata** wrote the *Aryabhatiya* in **499 CE**. Tradition places him at Kusumapura / Pataliputra. He teaches that the earth rotates and explains eclipses without demon stories.
-- **Varahamihira** wrote the *Panchasiddhantika* and the *Brihatsamhita*. He sits at Ujjain.
-- **Brahmagupta** wrote the *Brahmasphutasiddhanta* in the early 7th century, at the edge of this age. Medicine circulates in *Sushruta* and *Charaka* redactions.
-- The Mehrauli pillar is rust-resistant iron. “Chandra” on it is usually **Chandragupta II**. Decimal place-value is in use. “Aryabhata invented zero” is too crude for a sharp T/F. He uses place value.
-
-> **Exam note:** Aryabhata is not Varahamihira. Fa-Hien did not write the *Aryabhatiya*.
-
----
 
 ## UP Focus
 

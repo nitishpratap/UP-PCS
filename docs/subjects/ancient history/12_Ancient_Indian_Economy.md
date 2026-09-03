@@ -246,6 +246,18 @@ D. Kalibangan and Ropar
 ---
 
 ## 12.9 Roman Trade
+
+**~1st–3rd c. CE | Periplus | pepper for gold**
+
+- The source is the ***Periplus of the Erythraean Sea***, about the first century CE. The route is the Red Sea, then the monsoon, then **Muziris** and **Barygaza**.
+- **Pliny** complains of a **gold drain** to India. Hoards of Roman gold and silver sit in Kerala, Tamil country, and Karnataka. **Arikamedu** yields amphorae and Arretine ware.
+- Sangam poems call the foreigners **Yavana**. In Sangam that is the foreign / western trader, not only an “Ionian Greek.”
+- The peak sits with the early Roman empire. Trade thins after the third-century crisis.
+
+> **Exam note:** Yavana in Sangam ≠ only “Ionian Greek.” It is the foreign / western trader.
+
+---
+
 ## 12.10 Punch-Marked Coins — Symbols and Janapadas
 
 - Multiple punch symbols on **karshapana**; issued by **mahajanapadas** then Magadha-Maurya.
@@ -270,19 +282,6 @@ D. Kalibangan and Ropar
 
 - East-bound route from **Tamralipti** to **Suvarnabhumi** (mainland Southeast Asia).
 - Distinct from the **Roman** west coast circuit (Muziris/Barygaza).
-
-
-
-**~1st–3rd c. CE | Periplus | pepper for gold**
-
-- The source is the ***Periplus of the Erythraean Sea***, about the first century CE. The route is the Red Sea, then the monsoon, then **Muziris** and **Barygaza**.
-- **Pliny** complains of a **gold drain** to India. Hoards of Roman gold and silver sit in Kerala, Tamil country, and Karnataka. **Arikamedu** yields amphorae and Arretine ware.
-- Sangam poems call the foreigners **Yavana**. In Sangam that is the foreign / western trader, not only an “Ionian Greek.”
-- The peak sits with the early Roman empire. Trade thins after the third-century crisis.
-
-> **Exam note:** Yavana in Sangam ≠ only “Ionian Greek.” It is the foreign / western trader.
-
----
 
 ## UP Focus
 
