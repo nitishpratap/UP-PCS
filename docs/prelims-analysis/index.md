@@ -26,9 +26,10 @@ Use it in three situations:
 | **5** | [Medieval India](02_Medieval_India.md) | ~36 tagged questions | Rising after 2022. Officers, books, Sultanate/Mughal admin. |
 | **6** | [Ancient History](01_Ancient_History.md) | ~33 tagged questions | Smaller but precise. Sites, edicts, texts, councils. |
 | **7** | [Art and Culture](04_Art_and_Culture.md) | ~11 tagged questions | Under-tagged. Culture often appears inside History stems, so still revise key lists. |
+| **CA** | [Current Affairs](08_Current_Affairs.md) | **~245–255** functional (~26–39/year); Subject-tag only **161** | Plan from functional CA, not Subject tag. IR/Defence/schemes leak in 2024–25. Full playbook: [CA hub](../current-affairs/index.md). |
 
 !!! tip "Fast rule"
-    If you have only a few days, finish **Geography + Polity + Environment + Modern History** before polishing low-frequency corners.
+    If you have only a few days, finish **Geography + Polity + Environment + Modern History** before polishing low-frequency corners. Keep **Current Affairs** on a monthly lock checklist — it rivals History in question count.
 
 ---
 
@@ -84,6 +85,9 @@ So the right preparation is not “read more facts”. The right preparation is 
 [**Polity**
 <span>Do first: Parliament, PRIs, constitutional bodies, FR/Duties, Articles, Schedules.</span>](07_Polity.md){ .study-card }
 
+[**Current Affairs**
+<span>Do first: International, Schemes, Science–Defence, Awards, Environment, National, Indices. ~30 Qs/year.</span>](08_Current_Affairs.md){ .study-card }
+
 </div>
 
 ## How to Use a Subject Page
@@ -95,4 +99,4 @@ So the right preparation is not “read more facts”. The right preparation is 
 5. Open the linked **Subject Notes** only after choosing the target chapter.
 
 !!! note "Tagging caveat"
-    Counts are decision aids, not a syllabus boundary. Some 2018–2020 questions sit under broad **General Studies** tags. Art and Culture is under-tagged because culture often appears inside History. Environment ROI is higher than the tagged count because reports, schemes, and protected areas leak into Economy and Geography.
+    Counts are decision aids, not a syllabus boundary. Some 2018–2020 questions sit under broad **General Studies** tags. Art and Culture is under-tagged because culture often appears inside History. Environment ROI is higher than the tagged count because reports, schemes, and protected areas leak into Economy and Geography. **Current Affairs** is the reverse problem in 2024–25: many functional CA stems are tagged IR / Defence / Science / Economy — see [CA Analysis](../current-affairs/00_Analysis_2018_2025.md#repo-pyq-reconciliation-important).

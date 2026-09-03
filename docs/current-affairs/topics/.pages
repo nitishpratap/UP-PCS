@@ -1,0 +1,20 @@
+title: Monthly Topics
+nav:
+  - Overview: index.md
+  - "00 — Master lock tables": 00_Master_Tables.md
+  - "01 — International": 01_International.md
+  - "02 — Schemes & Policies": 02_Schemes_Policies.md
+  - "03 — Science / Space / Defence": 03_Science_Space_Defence.md
+  - "04 — Awards": 04_Awards.md
+  - "05 — Environment & Days": 05_Environment_Days.md
+  - "06 — National Events & Infra": 06_National_Events_Infrastructure.md
+  - "07 — Indices & Reports": 07_Indices_Reports.md
+  - "08 — Uttar Pradesh CA": 08_UP_Special.md
+  - "09 — Firsts & Records": 09_Firsts_Records.md
+  - "10 — Economy / Budget / Trade": 10_Economy_Budget_Trade.md
+  - "11 — Personalities & Appointments": 11_Personalities_Appointments.md
+  - "12 — Books & Culture CA": 12_Books_Culture_CA.md
+  - "13 — Health & Vaccines": 13_Health_Vaccines.md
+  - "14 — Sports": 14_Sports.md
+  - "15 — Practice Zone": 15_Practice_Zone.md
+  - Month digests: months

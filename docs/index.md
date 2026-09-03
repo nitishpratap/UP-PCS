@@ -14,6 +14,7 @@ Use this site like an exam desk: first see **where Prelims marks come from**, th
 
 [Start Prelims Analysis](prelims-analysis/index.md){ .md-button .md-button--primary }
 [Open Subject Notes](subjects/index.md){ .md-button }
+[Current Affairs](current-affairs/index.md){ .md-button }
 [Fact Locks](fact-locks/index.md){ .md-button }
 [Practice Mains PYQs](mains-pyqs/index.md){ .md-button }
 [Active Recall](active-recall/index.md){ .md-button }
@@ -39,6 +40,9 @@ Use this site like an exam desk: first see **where Prelims marks come from**, th
 [**:material-cards: Active Recall**
 <span>Question visible, answer hidden. Best for final revision and memory checks.</span>](active-recall/index.md){ .study-card }
 
+[**:material-newspaper-variant-outline: Current Affairs**
+<span>~30 Prelims marks/year. Heat map, lock checklists, and monthly topic sheets.</span>](current-affairs/index.md){ .study-card }
+
 </div>
 
 ## Prelims Dashboard
@@ -54,6 +58,7 @@ If you are short on time, do **Geography + Polity + Environment** first. Togethe
 | **5** | [Medieval India](prelims-analysis/02_Medieval_India.md) | Rising since 2022; officers, books, Sultanate/Mughal admin. | Do Sultanate, Mughals, Sher Shah, medieval literature. |
 | **6** | [Ancient History](prelims-analysis/01_Ancient_History.md) | Smaller but precise; site and text traps are common. | Do IVC, Maurya, Buddhism/Jainism, archaeology. |
 | **7** | [Art and Culture](prelims-analysis/04_Art_and_Culture.md) | Under-tagged because culture often appears inside History. | Revise architecture, music, literature, philosophy, awards/GI. |
+| **CA** | [Current Affairs](current-affairs/index.md) | ~30 functional Qs/year; Subject-tag alone undercounts 2024–25. | Read [CA analysis](current-affairs/00_Analysis_2018_2025.md); update monthly topic sheets. |
 
 ## One-Week Prelims Route
 
