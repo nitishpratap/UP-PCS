@@ -4,7 +4,7 @@
 <details>
 <summary><strong>Covers syllabus</strong> (click to expand)</summary>
 
-Vedic Period | Rigvedic Society | Later Vedic Society | Vedic Administration | Rigvedic Economy | Political Institutions | Sabha | Samiti | Vidhata | Vedic Literature | Four Vedas | Brahmanas | Aranyakas | Upanishads | Vedangas | Painted Grey Ware (PGW) | Iron Age in India
+Vedic Period | Rigvedic Society | Later Vedic Society | Vedic Administration | Rigvedic Economy | Later Vedic Economy | Political Institutions | Sabha | Samiti | Vidhata | Vedic Religion | Four Vedas | Brahmanas | Aranyakas | Upanishads | Vedangas | Painted Grey Ware (PGW) | Iron Age in India
 
 </details>
 
@@ -26,8 +26,10 @@ Sabha = elders | Samiti = tribe (elects king) | Vidatha/Vidhata = oldest, women,
 Bhagadugha = revenue (bhaga) ← 2023 Q26 D | Sangrahitri = treasurer | Akshavapa = dice/gambling
 
 Rigveda 1028 hymns, 10 mandalas | 2–7 family books oldest | 9 Soma | 1 & 10 latest
+Hymn count lock: Indra ~250 | Agni ~200 | Soma ~120 | Ashvins ~50+ | Varuna fewer (rita)
+Early gods: Indra Agni Soma Varuna Ushas Savitr | Vishnu + Rudra minor | Later: Prajapati Vishnu Rudra rise
 Shukla Yajurveda = Vajasaneyi (paper: Vajasanami) ← 2018 Q13 A
-Krishna = Taittiriya, Kathaka, Maitrayani
+Krishna Yajurveda (Black) = Taittiriya, Kathaka, Maitrayani ← 2018 B/C/D traps (not deity Krishna)
 Samhita → Brahmana → Aranyaka → Upanishad
 6 Vedangas: Shiksha Kalpa Vyakarana Nirukta Chhanda Jyotisha
 
@@ -46,7 +48,10 @@ PGW → NBPW ~700–200 BCE (mahajanapada / second urbanisation — Topic 5)
 | Sabha | Vidatha | Political/judicial elite vs **oldest** gathering — **economic + ritual**, women, **fades first** | सभा / विदथ |
 | Bhagadugha | Sangrahitri | Collects king's **share (bhaga)** vs **treasurer** | भागदुघ / संग्रहीतृ |
 | Bhagadugha | Akshavapa | Revenue vs **dice / gambling** officer (2023 trap C) | भागदुघ / अक्षावाप |
-| Shukla Yajurveda | Krishna Yajurveda | **Vajasaneyi** (mantra & prose separate) vs Taittiriya / Kathaka / Maitrayani (mixed) | शुक्ल / कृष्ण यजुर्वेद |
+| Shukla Yajurveda | Krishna Yajurveda | **Vajasaneyi** (mantra & prose separate) vs Taittiriya / Kathaka / Maitrayani (mixed). **Krishna here = Black Yajurveda**, not the god Krishna | शुक्ल / कृष्ण यजुर्वेद |
+| Indra | Agni | **~250** hymns, war/rain vs **~200** hymns, fire / offering-carrier | इन्द्र / अग्नि |
+| Indra (Early) | Prajapati (Later) | War-chief god of Rigveda vs creator / ritual supreme of Later Vedic | इन्द्र / प्रजापति |
+| Vishnu (RV) | Vishnu (Later) | **Minor** in Rigveda vs rises with Rudra in Later Vedic / Upanishadic age | ऋग्वेद विष्णु / उत्तर वैदिक विष्णु |
 | Samhita | Brahmana | Hymns/mantras vs **prose ritual** explanation | संहिता / ब्राह्मण |
 | Aranyaka | Upanishad | Forest **symbolic ritual** vs **Brahman–Atman** philosophy | आरण्यक / उपनिषद् |
 | Varna | Jati | Four-fold (Purusha Sukta; rigid later) vs birth-group (post-Vedic) | वर्ण / जाति |
@@ -130,15 +135,8 @@ D. 4 3 1 2
 - **Varna** is named in the **Purusha Sukta** (Rigveda **X.90**), a **late** hymn.
 - Occupation is still flexible in Early Vedic.
 - Do not call this the full caste system.
-- Religion is of nature gods, with **no temples and no idols**.
-- **Indra** has the most hymns. He is a war and rain god.
-- **Agni** is the fire god.
-- **Soma** is the ritual drink-god.
-- **Varuna** guards **rita**.
-- **Ushas** is the dawn goddess.
-- **Savitr** is a solar god.
-- **Vishnu** and **Rudra** are still **minor**.
-- About **33** gods are grouped in three layers: earth, air, and sky.
+- Religion is of **nature gods**, with **no temples and no idols**.
+- Chief Early Vedic gods are **Indra**, **Agni**, **Soma**, and **Varuna**.
 - Houses are of wood and thatch.
 - The **ratha** is a horse-chariot.
 - There are no stone cities, no iron, and no coins.
@@ -175,6 +173,7 @@ D. 4 3 1 2
 - Assemblies weaken. The king claims more.
 - Thought shifts from ritual Brahmanas to forest Aranyakas.
 - It then reaches the **Upanishads**, which put jnana over yajna.
+- Religious focus shifts: **Prajapati**, **Vishnu**, and **Rudra** rise; royal **Rajasuya / Ashvamedha / Vajapeya** advertise kingship.
 
 > **Exam note:** “Women equal throughout the Vedic age” is false. The decline is **Later Vedic**.
 
@@ -246,37 +245,6 @@ D. Revenue Collector
 ---
 
 ## 3.5 Rigvedic Economy
-## 3.18 Later Vedic Economy
-
-- Later Vedic society became **agrarian** because the **iron plough** opened Gangetic forest and supported **surplus grain**.
-- **Land grants to priests (brahmadeya)** began the pattern of religious landlords.
-- **Bali** (tribute) and **bhaga** (king's share) were collected; **shulka** (toll) appears in later texts.
-- Iron tools are the material backbone — linked to **PGW** layers in the doab.
-- This economy supports the **second urbanisation** and the rise of **sixteen mahajanapadas** from about the sixth century BCE.
-
-## 3.19 Rigvedic vs Later Vedic — Comparison Framework
-
-| Point | Rigvedic | Later Vedic |
-|-------|----------|-------------|
-| Territory | **Sapta Sindhu** (Punjab) | **Ganga–Yamuna doab** and beyond |
-| Economy | **Pastoral** | **Agrarian** |
-| Polity | elected **rajan** + Sabha–Samiti | hereditary **raja**; weaker assemblies |
-| Archaeology | no cities | **PGW** villages and forts |
-
-## 3.20 Vedic Religion and Ritual
-
-- Early Vedic religion was **nature worship** through **hymns and fire sacrifice** — **no temples and no idols**.
-- **Indra** has the most Rigvedic hymns; **Agni** carries offerings; **Varuna** guards **rita** (cosmic order).
-- Later Vedic kings used **Rajasuya**, **Ashvamedha**, and **Vajapeya** to claim **supremacy**.
-- Thought shifted from **Brahmana** ritual to **Upanishadic** knowledge (Brahman–Atman).
-
-### Battle of Ten Kings (Dasarajna) — Cause, Course, Result
-
-**Cause:** Rival tribal confederacies fought for pasture and river water in **Sapta Sindhu**.  
-**Course:** Bharata king **Sudas**, advised by **Vasishtha**, fought a **ten-king coalition** on the **Parushni (Ravi)**; **Visvamitra** on the opposite side.  
-**Result:** Sudas **won**; Bharata–Tritsu line became prominent in Rigvedic memory.
-
-
 
 **Cattle-wealth · barter · barley · no coins · no iron plough**
 
@@ -299,6 +267,77 @@ D. Revenue Collector
 
 ---
 
+## Later Vedic Economy
+
+**Iron plough · surplus grain · bali / bhaga · brahmadeya · path to second urbanisation**
+
+- Later Vedic society became **agrarian** because the **iron plough** opened Gangetic forest and supported **surplus grain**.
+- **Land grants to priests (brahmadeya)** began the pattern of religious landlords.
+- **Bali** (tribute) and **bhaga** (king’s share) were collected.
+- **Shulka** (toll) appears in later texts.
+- Iron tools are the material backbone — linked to **PGW** layers in the doab.
+- Crafts and specialist priests grow with surplus.
+- Trade still uses barter and metal value-units more than coined money.
+- This agrarian base supports the **second urbanisation** and the rise of **sixteen mahajanapadas** from about the sixth century BCE.
+
+> **Exam note:** Match-list lock — Rigvedic = **Pastoral**; Later Vedic = **Agrarian** (2020 Q21).
+
+---
+
+## Rigvedic vs Later Vedic — Comparison Framework
+
+| Point | Rigvedic | Later Vedic |
+|-------|----------|-------------|
+| Territory | **Sapta Sindhu** (Punjab) | **Ganga–Yamuna doab** and beyond |
+| Economy | **Pastoral** (cattle wealth) | **Agrarian** (iron plough, surplus) |
+| Polity | elected **rajan** + strong Sabha–Samiti–Vidatha | hereditary **raja**; weaker assemblies |
+| Society | flexible occupation; women freer | rigid **varna**; women lose ground |
+| Religion | nature gods; **Indra** tops hymns | ritual kings’ yajnas; **Prajapati / Vishnu / Rudra** rise |
+| Archaeology | no cities; **ayas** = copper/bronze | **PGW** + **iron** (*shyama ayas*) |
+
+---
+
+## Vedic Religion and Ritual
+
+**Nature hymns + fire sacrifice | no temples · no idols | Early Indra → Later Prajapati / Vishnu / Rudra**
+
+### Rigvedic gods and hymn counts
+
+About **33** gods are grouped in three layers: **earth**, **air (antariksha)**, and **sky**.
+
+| God | Approx. Rigvedic hymns | Role / lock |
+|-----|------------------------|-------------|
+| **Indra** | **~250** (largest) | War god, rain-bringer, slayer of **Vritra** |
+| **Agni** | **~200** (second) | Fire god; carries offerings to other gods |
+| **Soma** | **~120** | Ritual drink-god; Mandala **IX** is the Soma book |
+| **Ashvins** | **~50+** | Twin healer / dawn horsemen gods |
+| **Varuna** | fewer (but high prestige) | Guardian of **rita** (cosmic / moral order) |
+| **Mitra** | paired with Varuna | Treaty / friendship; often **Mitra–Varuna** |
+| **Maruts** | storm band with Indra | Wind / storm companions |
+| **Ushas** | dawn hymns | Dawn goddess |
+| **Savitr** | solar | Invoked in the **Gayatri** (RV III.62.10) |
+| **Surya / Pushan** | solar group | Sun and path / cattle-path gods |
+| **Vishnu** | few / **minor** | Three strides myth; **not** yet supreme |
+| **Rudra** | few / **minor** | Fierce storm / healer; later rises as Shiva |
+
+- Early Vedic religion is **nature worship** through **hymns and fire sacrifice**.
+- There are **no temples** and **no idols** in the Rigvedic pattern.
+- **Rita** is cosmic order; **Varuna** is its chief guardian.
+- **Dyaus** (sky) and **Prithvi** (earth) are older nature pair names in the hymns.
+
+### Later Vedic religion
+
+- Kings advertise power through **Rajasuya** (consecration), **Ashvamedha** (horse sacrifice / territory claim), and **Vajapeya**.
+- **Prajapati** rises as a creator / ritual-supreme figure.
+- **Vishnu** and **Rudra** gain importance (they were **minor** in the Rigveda).
+- **Indra** remains famous but is no longer the unchallenged centre of religion.
+- Thought shifts from **Brahmana** ritual manuals to forest **Aranyakas**.
+- It then reaches the **Upanishads**, which put **jnana** (Brahman–Atman) over **yajna**.
+
+> **Exam note:** Trap — “Vishnu is already the supreme Rigvedic god.” False. Trap — “Krishna Yajurveda = hymns to god Krishna.” False; **Krishna** here means **Black** Yajurveda.
+
+---
+
 ## 3.6 Political Institutions
 
 **Early: tribe + three assemblies check the rajan | Later: hereditary king + royal yajnas**
@@ -308,15 +347,19 @@ D. Revenue Collector
 - There is no written constitution. Custom and **dharma** rule.
 - There is no standing army. A tribal **sena** fights under the senani.
 - The **Battle of Ten Kings (Dasarajna)** is the core **Rigvedic** political event.
-- Bharata king **Sudas** of the Tritsu line wins on the **Parushni (Ravi)**.
-- His priest is **Vasishtha**.
-- He defeats a ten-king coalition.
-- **Visvamitra** stands on the opposite side in that tradition.
 - Later Vedic kingship is advertised through big sacrifices.
 - **Rajasuya** is consecration.
 - **Ashvamedha** is the horse sacrifice that claims territory.
 - **Vajapeya** is another royal rite.
 - Some tribes keep **gana / sangha** oligarchy habits. Later Vajji and Licchavi echo this.
+
+### Battle of Ten Kings (Dasarajna) — Cause, Course, Result
+
+**Cause:** Rival tribal confederacies fought for pasture and river water in **Sapta Sindhu**.
+
+**Course:** Bharata king **Sudas** of the Tritsu line, advised by **Vasishtha**, fought a **ten-king coalition** on the **Parushni (Ravi)**. **Visvamitra** stands on the opposite side in that tradition.
+
+**Result:** Sudas **won**. The Bharata–Tritsu line became prominent in Rigvedic memory.
 
 > **Exam note:** Assemblies are strong in Rigvedic times. The **king is strong** in Later Vedic. Do not merge Sabha, Samiti, and Vidatha.
 
@@ -413,7 +456,8 @@ D. Revenue Collector
 - Some papers print **Vajasanami** — that is the same school as **Vajasaneyi** (Shukla Yajurveda).
 - **Krishna (Black) Yajurveda** mixes mantra and prose.
 - Its Samhitas are **Taittiriya**, **Kathaka**, and **Maitrayani**. Some lists add Kapishthala.
-- In 2018, options B, C, and D are all **Krishna**.
+- In **UPPCS 2018 Q13**, options **B Maitrayani**, **C Taittiriya**, and **D Kathak** are all **Krishna (Black) Yajurveda** Samhitas — only **A Vajasanami** is **Shukla**.
+- Here **Krishna** means the **Black Yajurveda** school (mantra + prose mixed). It does **not** mean the deity Krishna.
 - The **Atharvaveda** is the newest of the four.
 - It has **20** books of spells, healing, and household life, with early **iron** hints.
 - Its priest is the **Brahman**, the supervisor of the rite.
@@ -421,9 +465,11 @@ D. Revenue Collector
 - The four ritual priests are the **Hotri** of the Rigveda, the **Udgatri** of the Samaveda, the **Adhvaryu** of the Yajurveda, and the **Brahman** of the Atharvaveda overall.
 - Traditional compiler of the Vedas is **Vyasa**.
 
-> **Exam note:** Shukla Yajurveda = **Vajasaneyi** (also printed Vajasanami). Taittiriya / Maitrayani / Kathak = **Krishna** Yajurveda.
+> **Exam note:** Shukla Yajurveda = **Vajasaneyi** (also printed Vajasanami). Taittiriya / Maitrayani / Kathak = **Krishna (Black)** Yajurveda — not hymns to god Krishna.
 
 **PYQ — UPPCS Prelims 2018, Q13**
+
+**Exam logic:** Stem asks which Samhita belongs to **Shukla** Yajurveda. Three distractors are famous **Krishna (Black)** Samhitas. Paper spelling **Vajasanami** = standard **Vajasaneyi**.
 
 Which of the following is a Samhita of Shukla Yajurveda?
 
@@ -435,7 +481,9 @@ D. Kathak
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Vajasaneyi / Vajasanami. B, C, D = Krishna (Black) Yajurveda.
+**Ans: A** — **Vajasaneyi / Vajasanami** is the Shukla Samhita (mantra and Brahmana kept apart).  
+**B Maitrayani**, **C Taittiriya**, and **D Kathak** are all **Krishna (Black) Yajurveda** — that is why the cryptic note “B, C, D are all Krishna” appears in coaching locks.  
+**Trap:** Reading **Krishna** as the deity, or picking Taittiriya because it is the most famous Yajurveda name.
 
 </details>
 
@@ -1148,7 +1196,7 @@ A. Only one  B. Only two  C. All three  D. None
 **Q30.** Consider the following statements about Vedic religion:
 
 1. Early Vedic worship used temples and cult images as the main form.  
-2. Indra receives the largest number of Rigvedic hymns.  
+2. Indra receives the largest number of Rigvedic hymns (~250).  
 3. Vishnu is already the supreme god of the Rigveda.
 
 How many of the above statements are correct?  
@@ -1157,7 +1205,7 @@ A. Only one  B. Only two  C. All three  D. None
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — only 2. No temples/idols; Vishnu is minor in RV.
+**Ans: A** — only 2. No temples/idols; Indra ~250 (most); Agni ~200 second; Vishnu is **minor** in RV.
 
 </details>
 
@@ -1532,6 +1580,8 @@ D. 4 3 1 2
 
 **Q3. UPPCS Prelims 2018, Q13**
 
+**Exam logic:** Identify the **Shukla** Samhita. B/C/D are all **Krishna (Black)** Yajurveda names — classic three-trap pattern.
+
 Which of the following is a Samhita of Shukla Yajurveda?
 
 A. Vajasanami  
@@ -1542,7 +1592,8 @@ D. Kathak
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Vajasaneyi (paper spelling Vajasanami). B/C/D = Krishna Yajurveda.
+**Ans: A** — Vajasaneyi (paper spelling Vajasanami).  
+**B/C/D** = Krishna (Black) Yajurveda Samhitas. **Krishna** = Black school, not the deity.
 
 </details>
 
@@ -1556,7 +1607,7 @@ UPPCS Prelims **2025, 2024, 2022, 2021, 2019** — keyword search (Vedic / Rigve
 
 1. **Rigvedic = agrarian / urban** → **Pastoral**; urban = IVC; agrarian = Later Vedic (2020).
 2. **Bhagadugha = gambling / forest / messenger** → **Revenue**; gambling = **Akshavapa** (2023 C).
-3. **Taittiriya / Maitrayani / Kathak = Shukla** → all **Krishna**; Shukla = **Vajasaneyi** (2018).
+3. **Taittiriya / Maitrayani / Kathak = Shukla** → all **Krishna (Black)** Yajurveda; Shukla = **Vajasaneyi** (2018). **Krishna ≠ deity Krishna**.
 4. **Sabha = Samiti = Vidatha** → elders vs tribe vs oldest ritual-share gathering.
 5. **Vedic Sabha = Gram Sabha / Rajya Sabha** → zero link.
 6. **Nishka = coin** → gold **ornament**.
@@ -1572,3 +1623,5 @@ UPPCS Prelims **2025, 2024, 2022, 2021, 2019** — keyword search (Vedic / Rigve
 16. **PGW = Sangam south / NBPW** → PGW = **Later Vedic doab**; NBPW = mahajanapada cities (Topic 5).
 17. **Megalithic = PGW** → megaliths = **south/Deccan** Iron Age; PGW = **northwest doab**.
 18. **Iron in Rigveda = shyama ayas** → RV **ayas** = copper/bronze; iron = **Later Vedic**.
+19. **Indra hymns unknown / Vishnu tops RV** → Indra **~250**, Agni **~200**, Soma **~120**; Vishnu **minor** in Rigveda.
+20. **Krishna Yajurveda = Krishna-bhakti text** → Black Yajurveda school (mixed mantra–prose).
