@@ -209,7 +209,7 @@ Shaka era 78 CE ≠ Vikrama 57 BCE | Devaputra title | Rabatak genealogy
 **Northwest door — full chronology | 2023 Q23 tests only Greeks → Sakas → Kushans**
 
 - The **Achaemenid Persians** open the imperial sequence in the 6th–4th centuries BCE. **Darius I** holds Gandhara and Hindush as the 20th satrapy.
-- The **Macedonian Greeks** under **Alexander** enter in **326 BCE**. They do not build a Ganga empire.
+- The **Macedonian Greeks** under **Alexander** enter in **326 BCE**. Their Indian stay is a **Punjab–Sindh** campaign, not a Ganga empire.
 - The **Seleucid probe** of **Seleucus Nicator** about **305–303 BCE** ends in treaty with **Chandragupta Maurya**. Magadha stays Indian.
 - The **Indo-Greeks** (Bactrian Greeks) push into India from about the **2nd century BCE**. **Demetrius** and **Menander** are the headline kings. Full card in **6.6**.
 - The **Shakas** (Indo-Scythians) follow the Indo-Greeks from about the **1st century BCE**. **Maues** is the first name in India. **Rudradaman** is the Junagadh lock. Full card in **6.7**.
@@ -1343,7 +1343,7 @@ UPPCS Prelims **2025, 2024, 2022, 2021, 2020, 2019, 2018** — no further GS-I q
 
 ---
 
-## Common Traps — Don't Fall For These
+## Common Traps — Exam Locks
 
 1. **Hydaspes = Beas** → Jhelum = fight; Beas = **stop**.
 2. **Alexander beat the Nandas / sat at Pataliputra** → never crossed the Beas.

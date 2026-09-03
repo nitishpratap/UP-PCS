@@ -147,7 +147,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 - The king is *swami* in the saptanga. He has the final word after consulting ministers. Ashoka in Rock Edict VI takes reports **at any hour** via *pativedakas*.
 - The **four vidyas** are *anvikshiki* (philosophy), *trayi* (Veda), *varta* (economy), and *dandaniti* (polity).
 - The cadre is **amatyas / mahamatras**, paid in cash or produce. It is a career service, not a closed kshatriya club. *Tirthas* are 18 top posts.
-- The **Kautilya** picture is the Indian machine of adhyakshas, spies, and taxes. The **Megasthenes** picture is six boards plus seven tribes. Do not mash the two into one org-chart.
+- The **Kautilya** picture is adhyakshas, spies, and taxes. The **Megasthenes** picture is six boards plus seven tribes. Keep the two sources as **separate** org-charts.
 - The army is *chaturanga* plus a navy under the *navadhyaksha*. *Indica* gives a war office of **six** army boards: navy, transport, infantry, cavalry, chariots, and elephants.
 - The great road is the **Uttarapatha** from Taxila to Pataliputra. Strabo’s agronomoi also set mile-pillars. That is the **2020 road trap**, not the key.
 - The village has a *gramika* plus elders. The *gopa* watches 5–10 villages. Next up is the *sthanika*. The district is *ahara / vishaya*.
@@ -249,7 +249,7 @@ D. Revenue management
 - **Moggaliputta Tissa** presided. The council purified doctrine and organised missions.
 - Missions went to Kashmir–Gandhara, Sri Lanka (**Mahinda**, **Sanghamitta**), and other regions.
 - Exam order: Rajagriha (1st) → Vaishali (2nd) → Pataliputra (3rd) → Kundalvana (4th).
-- The Third Council is **Ashoka's** lock. Do not swap it with Kanishka's Fourth Council.
+- Third Council = **Ashoka** at **Pataliputra**. Fourth Council = **Kanishka** at **Kundalvana**.
 
 ---
 
@@ -334,7 +334,7 @@ A. Rock Edict XI  B. Rock Edict XII  C. Rock Edict XIII  D. Rock Edict II
 
 </details>
 
-> **Exam note:** XII ≠ XIII. Learn that swap cold.
+> **Exam note:** Rock Edict **XII** = religious tolerance / synthesis. Rock Edict **XIII** = Kalinga.
 
 ---
 
@@ -347,7 +347,7 @@ A. Rock Edict XI  B. Rock Edict XII  C. Rock Edict XIII  D. Rock Edict II
 - Other Minor Rock sites include **Rupnath** and **Panguraria** (MP), **Sahasram / Sasaram** (Bihar), **Bairat** (Rajasthan), and **Ahraura** in **Mirzapur, Uttar Pradesh**.
 
 - The **Bhabru / Calcutta-Bairat** edict presents Ashoka as *upasaka*. It lists Vinaya-samukase, Aliya-vasani, Anagata-bhayani, Muni-gatha, Moneyasute, Upatisa-pasine, and **Laghulovada**.
-- Laghulovada on this list does **not** make the 2024 claim “definition taken from” true.
+- Bhabru lists **Laghulovada** among texts he valued. State Dhamma is still his **own edict-ethic** (2024 Q20).
 - Kandahar has a Greek Minor Rock Edict, a bilingual frontier text.
 - **Kanaganahalli (Sannati)** has a sculpted panel labelled **Raya Asoka**, a rare named portrait.
 
@@ -383,9 +383,9 @@ A. Rock Edict XI  B. Rock Edict XII  C. Rock Edict XIII  D. Rock Edict II
 | **Delhi-Topra** | from Topra, Haryana | Full PE I–VII; Firoz Shah |
 | **Delhi-Meerut** | from **Meerut, UP** | Firoz Shah |
 
-Minor pillar / schism: Sarnath, Sanchi, Kaushambi. **Kaushambi schism** = don’t split the sangha.
+Minor pillar / schism: Sarnath, Sanchi, Kaushambi. The **Kaushambi schism edict** warns monks against splitting the sangha.
 
-> **Exam note:** Lion capital = **Sarnath**, not Sanchi (Sanchi is the *stupa* headline).
+> **Exam note:** National emblem lion capital = **Sarnath**. **Sanchi** is the great stupa complex.
 
 ---
 
@@ -1534,7 +1534,7 @@ D. Revenue management
 
 ---
 
-## Common Traps — Don't Fall For These
+## Common Traps — Exam Locks
 
 1. **RE XII vs XIII** → XII = synthesis (2022); XIII = Kalinga.
 2. **Rahulovada = Ashoka’s dhamma definition** → **false** (2024).

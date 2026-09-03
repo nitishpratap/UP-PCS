@@ -82,7 +82,7 @@ Mandi (Bijnor UP) ≠ Manda (J&K)
 - Antiquities export sits under the **1972** Act.
 - The journal is *Indian Archaeology — A Review*.
 - Field units are **Circles**, such as Agra, Lucknow, and Patna.
-- Circles do not replace HQ.
+- Circles are regional offices. **ASI HQ** is **New Delhi**.
 
 > **Exam note:** Cunningham founded the Survey. Marshall announced IVC. Wheeler did not discover it.
 
@@ -250,21 +250,19 @@ A. 3 2 1 4  B. 2 3 4 1  C. 2 4 3 1  D. 3 2 4 1
 
 **UP Harappan trio (learn cold)**
 
-- **Alamgirpur** in Meerut, on the Hindon, is the **easternmost** IVC site in India.
-- **Alamgirpur** is the eastern boundary site.
-- **Hulas** is in Baghpat.
-- It appears in **2018**, **2020**, and **2025**.
-- **Mandi** is in Bijnor, on the Ramganga.
-- **Mandi** (Bijnor, UP) is the UP site — not **Manda** (Jammu).
-- Do not confuse **Mandi** with **Manda**.
+| Site | District / river | Lock |
+|------|------------------|------|
+| **Alamgirpur** | Meerut, **Hindon** | **Easternmost** IVC site in India |
+| **Hulas** | Baghpat | UP Harappan; PYQs **2018, 2020, 2025** |
+| **Mandi** | Bijnor, **Ramganga** | UP Harappan (2021, 2025) |
 
-**Not UP — bait in those papers**
-
-- **Rakhigarhi** is in Haryana.
-- **Kalibangan** is in Rajasthan.
-- **Lothal** is in Gujarat.
-- **Balu** is in Haryana.
-- **Manda** is in Jammu and Kashmir.
+| Often used as bait | Actual location |
+|--------------------|-----------------|
+| **Manda** | Jammu and Kashmir |
+| **Rakhigarhi** | Haryana (largest IVC mound in India) |
+| **Kalibangan** | Rajasthan |
+| **Lothal** | Gujarat |
+| **Balu** | Haryana |
 
 **Other UP trenches**
 
@@ -342,7 +340,7 @@ A. I, II, III, IV  B. I, II  C. II, III  D. III, IV
 
 </details>
 
-> **Exam note:** Biggest IVC site is **not** automatically UP. Eastern end is **Alamgirpur**, not Rakhigarhi.
+> **Exam note:** Eastern IVC end in India = **Alamgirpur** (Meerut). Largest mound = **Rakhigarhi** (Haryana).
 
 ---
 
@@ -1194,7 +1192,7 @@ No further GS-I archaeology hit after keyword search.
 
 ---
 
-## Common Traps — Don't Fall For These
+## Common Traps — Exam Locks
 
 1. **Rakhigarhi = UP** → **Haryana**. 2025 bait.
 2. **Biggest IVC = eastern boundary** → east end is **Alamgirpur**.

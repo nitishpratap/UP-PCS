@@ -165,7 +165,7 @@ The Four Noble Truths work like a medical diagnosis: disease → cause → cure 
 - Monks take the full **Vinaya**, not only those five precepts.
 - Practising this path **is** the Middle Path in daily life.
 
-> **Exam note:** There are eight factors, not ten. The Fourth Noble Truth names this path. Do not invent extra truths.
+> **Exam note:** The Eightfold Path has **eight** factors. The Fourth Noble Truth **is** this path.
 
 ---
 
@@ -226,7 +226,7 @@ Things arise from causes, not from a creator God. The **twelve nidanas** (links)
 
 - Councils are remembered as meetings that **fixed the teaching** after the Buddha’s death.
 - The **place order** is the highest-yield lock: Rajagriha → Vaishali → Pataliputra → Kundalvana.
-- Do not start the list at Vaishali. Do not place Kundalvana before Pataliputra.
+- Order: **Rajagriha** first, then Vaishali, then Pataliputra, then **Kundalvana** last.
 
 | # | Place | Patron / ruler | President | Main outcome |
 |---|-------|----------------|-----------|--------------|
@@ -277,7 +277,7 @@ A. 1, 2, 4, 3  B. 2, 1, 3, 4  C. 2, 1, 4, 3  D. 1, 2, 3, 4
 | ***Dipavamsa***, ***Mahavamsa*** | Sri Lankan chronicles |
 | ***Visuddhimagga*** | Buddhaghosa’s Theravada manual |
 
-- Do not swap **Nagasena** with **Nagarjuna** (Madhyamaka) or **Kumarila Bhatta** (Mimamsa).
+- **Nagasena** answers Milinda. **Nagarjuna** wrote *Madhyamaka Karika*. **Kumarila Bhatta** is Mimamsa.
 
 **PYQ — UPPCS Prelims 2023, Q24**
 
@@ -330,7 +330,7 @@ A. Nagarjun  B. Nagbhatt  C. Nagasena  D. Kumaril Bhatt
 - At the **Second Council** in **Vaishali**, monks quarrelled over **Vinaya laxity** — whether certain practices were allowed.
 - The order split into **Sthaviravada** (school of elders, stricter) and **Mahasanghika** (great assembly, more liberal).
 - That is the **first major schism**. It comes **before** the later Mahayana–Hinayana language.
-- Commentarial tradition later counts **eighteen early schools** growing out of these two lines. Do not memorise all eighteen names; learn the **main pairs** below.
+- Commentarial tradition later counts **eighteen early schools** from these two lines. Learn the **main pairs** in the table below.
 
 ### Main early schools you must know
 
@@ -346,7 +346,7 @@ A. Nagarjun  B. Nagbhatt  C. Nagasena  D. Kumaril Bhatt
 - **Theravada** spread to Sri Lanka through **Mahinda** and **Sanghamitta** after Ashoka's Third Council.
 - **Sarvastivada** is the school tied to **Kanishka's Fourth Council** in Kashmir, where **Vasumitra** presided and the ***Mahavibhasha*** was compiled.
 - **Vaibhashika** and **Sautrantika** are **Sarvastivada subschools**, not separate vehicles like Mahayana.
-- In match-lists, do not write **Mahasanghika = Mahayana**. Mahayana comes later as a separate great vehicle.
+- **Mahasanghika** is the Vaishali split school. **Mahayana** is a later great vehicle.
 
 > **Exam note:** Hinayana does not mean bad Buddhism. It names the **arhat + early canon** path. Theravada = **only living** Hinayana school. Sarvastivada = **Sanskrit north** + 4th Council. Sthaviravada is not identical with Theravada in strict history, though papers often blur them.
 
@@ -360,7 +360,7 @@ A. Nagarjun  B. Nagbhatt  C. Nagasena  D. Kumaril Bhatt
 - Where Hinayana aims at **arhatship** for oneself, Mahayana aims at the **bodhisattva** — one who seeks enlightenment but **delays final nirvana** until all beings are saved.
 - The **bodhisattva vow** is the heart of this path: compassion for all sentient life, not solitary escape from samsara.
 - Mahayana treats the Buddha as a **compassionate saviour** and, in later thought, as a **celestial** Buddha with many forms. He is not only a human teacher who won nirvana and disappeared.
-- New scriptures are written in **Sanskrit**, not Pali. They are **added** to the older canon; they do not replace the Tripitaka in Theravada memory.
+- New scriptures are written in **Sanskrit**, not Pali. They are **added** to the older canon. Theravada still keeps the **Pali Tripitaka**.
 - Buddha and bodhisattva **images** become common in art. Ajanta **Phase II** is the textbook Indian example.
 
 ### How Mahayana differs from Hinayana
@@ -386,7 +386,7 @@ A. Nagarjun  B. Nagbhatt  C. Nagasena  D. Kumaril Bhatt
 - Mahayana spread from India to **Central Asia**, **China**, **Korea**, **Japan**, **Vietnam**, and **Nepal**.
 - **Kushan** patronage — especially under **Kanishka** — helps the **Sanskrit** turn and the growth of new schools in the northwest.
 - In later eastern India, **Pala** kings patronise **Nalanda** and **Vikramashila**.
-- **Nalanda** was founded under **Kumaragupta I** of the Gupta line. Do not credit Xuanzang or a Pala king as its founder.
+- **Nalanda** was founded under **Kumaragupta I** of the Gupta line. Xuanzang visited later; Palas patronised it later.
 
 ### Bodhisattvas — full exam list
 
@@ -423,7 +423,7 @@ A **bodhisattva** is an enlightened being who postpones final nirvana to help ot
 - **Asanga** and **Vasubandhu** develop **Yogacara**, which analyses experience as consciousness-only.
 - **Dignaga** and **Dharmakirti** later build Buddhist **logic** at **Nalanda**. They belong to the Mahayana scholastic world, not to Hinayana Vinaya memory.
 - **Nagarjuna** = *Madhyamaka Karika* and **sunyata**. **Nagasena** = *Milinda Panha*.
-- Do not place **Madhyamaka** or **Yogacara** under Hinayana. They are Mahayana philosophy schools.
+- **Madhyamaka** and **Yogacara** are **Mahayana** philosophy schools.
 
 > **Exam note:** Mahayana = bodhisattva + Sanskrit sutras + Buddha images. Five hot names = Avalokiteshvara, Manjushri, Vajrapani, Maitreya, Tara. Madhyamaka = Nagarjuna. Yogacara = Asanga–Vasubandhu. Mahayana is **not** the Vaishali split and **not** the Buddha's own lifetime teaching.
 
@@ -438,7 +438,7 @@ A **bodhisattva** is an enlightened being who postpones final nirvana to help ot
 - The religious goal remains the **bodhisattva** ideal, but the method is tantric, not sutra-only.
 - **Padmasambhava** carries it to **Tibet**. Monks from **Nalanda** and **Vikramashila** also spread this stream.
 - Eastern India also uses the labels **Mantrayana** and **Sahajayana** for related tantric currents.
-- It is **not** Hinayana Vinaya purism. Do not place it at the Buddha's lifetime or at the First Council.
+- Vajrayana grows from **Mahayana** in the **7th–8th century CE**, after the early councils.
 
 ### Three vehicles — summary
 
@@ -611,7 +611,7 @@ A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
 
 ### Jain philosophy — Anekantavada, Syadvada, Nayavada
 
-These are **three separate doctrines**. Do not club them as one idea.
+These are **three separate doctrines**.
 
 | Doctrine | Meaning | Exam lock |
 |----------|---------|-----------|
@@ -1039,7 +1039,7 @@ These accept **Veda authority**. They are **not** the nastika Shramana list.
 - Later four sampradayas (flag only): Sri–Ramanuja, Brahma–Madhva, Rudra–Vallabha, and Sanaka–Nimbarka.
 - In Uttar Pradesh, **Ayodhya** is the Rama home.
 - **Mathura** is the Krishna home. Cult origin is Bhagavatism below.
-- **Tulsi / Ramcharitmanas** is later bhakti in Awadhi. Flag it. Do not write a literature chapter here.
+- **Tulsi / Ramcharitmanas** is later Awadhi bhakti — flag the name; full literature sits in later medieval notes.
 
 ---
 
@@ -2156,7 +2156,7 @@ UPPCS Prelims **2020, 2019, 2018** — no further GS-I question maps to this top
 
 ---
 
-## Common Traps — Don't Fall For These
+## Common Traps — Exam Locks
 
 1. **First council at Vaishali** → **Rajagriha**; Vaishali = 2nd (2025).
 2. **Kundalvana before Pataliputra** → Kundalvana is **4th**.

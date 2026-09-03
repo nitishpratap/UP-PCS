@@ -134,7 +134,7 @@ D. 4 3 1 2
 - There is no sati, purdah, or child-marriage as a system.
 - **Varna** is named in the **Purusha Sukta** (Rigveda **X.90**), a **late** hymn.
 - Occupation is still flexible in Early Vedic.
-- Do not call this the full caste system.
+- Early Vedic **varna** is still **flexible** occupation; the later four-fold *jati* system is a Later Vedic growth.
 - Religion is of **nature gods**, with **no temples and no idols**.
 - Chief Early Vedic gods are **Indra**, **Agni**, **Soma**, and **Varuna**.
 - Houses are of wood and thatch.
@@ -361,7 +361,7 @@ About **33** gods are grouped in three layers: **earth**, **air (antariksha)**, 
 
 **Result:** Sudas **won**. The Bharata–Tritsu line became prominent in Rigvedic memory.
 
-> **Exam note:** Assemblies are strong in Rigvedic times. The **king is strong** in Later Vedic. Do not merge Sabha, Samiti, and Vidatha.
+> **Exam note:** Assemblies are strong in Rigvedic times. The **king is strong** in Later Vedic. **Sabha**, **Samiti**, and **Vidatha** are three distinct bodies.
 
 ---
 
@@ -1596,7 +1596,7 @@ UPPCS Prelims **2025, 2024, 2022, 2021, 2019** — keyword search (Vedic / Rigve
 
 ---
 
-## Common Traps — Don't Fall For These
+## Common Traps — Exam Locks
 
 1. **Rigvedic = agrarian / urban** → **Pastoral**; urban = IVC; agrarian = Later Vedic (2020).
 2. **Bhagadugha = gambling / forest / messenger** → **Revenue**; gambling = **Akshavapa** (2023 C).

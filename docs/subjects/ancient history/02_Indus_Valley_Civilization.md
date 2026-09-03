@@ -207,7 +207,7 @@ D. 4 3 1 2
 - **Manda** on the Chenab in Jammu is the **northernmost** Harappan site.
 - **Alamgirpur** on the Hindon in Meerut is the **easternmost** Harappan site.
 - **Hulas** in Baghpat is an eastern Harappan habitation.
-- **Mandi** in Bijnor, on the Ramganga, is in **Uttar Pradesh** (2021, 2025). Do not confuse Mandi with **Manda**.
+- **Mandi** in Bijnor, on the Ramganga, is in **Uttar Pradesh** (2021, 2025). **Manda** is in Jammu.
 
 - **Daimabad** on the Pravara in Maharashtra is the **southernmost** site.
 - It yielded a bronze **chariot**.
@@ -276,7 +276,7 @@ D. 3 2 4 1
 
 - **Alamgirpur** on the Hindon in Meerut marks the **eastern boundary** of the civilisation.
 - **Hulas** in Baghpat is an eastern Harappan habitation site in Uttar Pradesh.
-- **Mandi** on the Ramganga in Bijnor is also in **Uttar Pradesh** — do not confuse with **Manda** (Jammu).
+- **Mandi** on the Ramganga in Bijnor is in **Uttar Pradesh**. **Manda** is in Jammu.
 - **Sanauli** in Baghpat (2018) has coffins, copper weapons, and **chariots**.
 - Sanauli is Late Harappan / OCP. It is not a Mature urban Indus city.
 
@@ -479,7 +479,7 @@ A. Dholavira and Bhagatrav  B. Harappa and Kot Diji  C. Mohenjo-daro and Lothal 
 - **Cotton** is among the world’s **earliest**, known from cloth impressions and threads.
 - **Rice** is reported at **Lothal** in Gujarat.
 - Rice is also reported at **Rangpur** in Gujarat.
-- Do not mix that rice with Koldihwa in Neolithic Uttar Pradesh.
+- Lothal / Rangpur rice is a **Harappan Gujarat** claim. **Koldihwa** rice is a **Neolithic Belan (UP)** claim.
 - **Kalibangan** has a fossil **ploughed field** with a furrow grid.
 - It is often cited for **double cropping**.
 - **Banawali** yielded a terracotta **plough**.
@@ -538,7 +538,7 @@ A. Dholavira and Bhagatrav  B. Harappa and Kot Diji  C. Mohenjo-daro and Lothal 
 - **Fire altars** occur at Kalibangan.
 - Fire altars also occur at Lothal.
 - Fire altars also occur at Banawali.
-- Do not automatically equate those altars with Vedic yajna.
+- Kalibangan fire altars are a **Harappan** feature. Vedic yajna is a **later textual** ritual system.
 - The Great Bath points to ritual purity and a water cult.
 - Burials are usually extended inhumation, often north–south, with pottery and ornaments.
 - **Fractional** burial and **urn** burial occur in late levels.
@@ -546,7 +546,7 @@ A. Dholavira and Bhagatrav  B. Harappa and Kot Diji  C. Mohenjo-daro and Lothal 
 - Harappa has **coffin** burials in cemetery **R-37**.
 - There are **no** royal pyramids.
 - **Cemetery H** at Harappa is Late Harappan, with painted urns and fractional burial.
-- Keep Cemetery H as **Late Harappan**. Do not treat it as “Aryans proved.”
+- Cemetery H is a **Late Harappan** burial phase at Harappa. It does **not** prove an Aryan invasion by itself.
 
 > **Exam note:** “A Hindu temple was excavated at Mohenjo-daro” is false. Pashupati is an **interpretation**.
 
@@ -662,7 +662,7 @@ A. Dholavira and Bhagatrav  B. Harappa and Kot Diji  C. Mohenjo-daro and Lothal 
 **Kutch, Gujarat | J.P. Joshi**
 
 - Small **fortified** citadel plus residential annexe.
-- **Horse bones** claimed — still **disputed** (true horse vs onager/wild ass). Do not tick “Harappans definitely used the horse.”
+- **Horse bones** at Surkotada are still **disputed** (true horse vs onager/wild ass). Papers treat the horse as **unsettled**.
 - Not a dockyard; not in Rajasthan.
 
 ---
@@ -1196,7 +1196,7 @@ D. The eastern boundary in Meerut
 <details>
 <summary>Show answer</summary>
 
-**Ans: B** — Do not treat horse as settled fact.
+**Ans: B** — Horse remains are **disputed**, not a settled Harappan lock.
 
 </details>
 
@@ -1840,7 +1840,7 @@ UPPCS Prelims **2024, 2019** — no question in `pyq/` maps to this topic after 
 
 ---
 
-## Common Traps — Don't Fall For These
+## Common Traps — Exam Locks
 
 1. **Rakhigarhi in UP / eastern boundary** → **Hisar, Haryana**; east = **Alamgirpur**.
 2. **Mandi = Manda** → Mandi = **Bijnor, UP**; Manda = **J&K**, northernmost.

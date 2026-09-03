@@ -64,7 +64,7 @@ Samaharta ≠ Sannidhata | Uparika = Gupta province | Sandhivigrahika = war-peac
 - Haryanka names to keep are **Bimbisara** and **Ajatashatru**. Nanda names to keep are **Mahapadma** and **Dhana**.
 - The first pan-north machine is **Chandragupta Maurya**, about **322 BCE**. Then come **Bindusara** and **Ashoka**. The empire ends in **185 BCE** when **Pushyamitra Shunga** kills Brihadratha.
 - Post-Mauryan names papers keep include **Pushyamitra**, **Kharavela** of Kalinga, **Kanishka** the Kushan, and **Gautamiputra Satakarni** in the Deccan.
-- The Gupta line, in order, is Sri Gupta, then Ghatotkacha, then **Chandragupta I**, then **Samudragupta**, then **Chandragupta II**, then Kumaragupta I, then **Skandagupta**. Do not open that list at Chandragupta II.
+- Gupta line in order: Sri Gupta → Ghatotkacha → **Chandragupta I** → **Samudragupta** → **Chandragupta II** → Kumaragupta I → **Skandagupta**.
 - The last ancient north reunion is **Harsha** of the Pushyabhuti house, **606–647**. The capital shifts from Thanesar to Kannauj.
 - The best ID for a king is his **inscription**. Coins come next. Puranas come last.
 
@@ -295,15 +295,22 @@ A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
 | Gupta | grants + bhaga | **Uparika** / **Kumaramatya** | **Sandhivigrahika** |
 | Harsha | grants | **Uparika** | **Mahasandhivigrahika** |
 
-> **Exam note:** Maurya is central. Gupta and Harsha are samanta. Do not flip that.
+> **Exam note:** Maurya is **centralised**. Gupta and Harsha run a **samanta** (feudatory) system.
 
 ---
 
 ## 11.5 Mauryan Provincial and Revenue Administration
 
-- **Provinces:** empire divided into provinces (*pradeshas*); border provinces often under princes (**kumara**).
-- **Revenue:** land share (**bhaga**), pasture dues (**pindakara**), customs (**sulka**); **samaharta** collects; **sannidhata** stores.
-- **Rural:** Megasthenes' **agronomai** = revenue officers. **Weights:** *pautavadhyaksha*.
+| Piece | Lock |
+|-------|------|
+| Provinces | *Pradeshas*; border provinces often under princes (**kumara**) |
+| Land share | **Bhaga** |
+| Pasture dues | **Pindakara** |
+| Customs | **Sulka** |
+| Collector | **Samaharta** |
+| Treasurer | **Sannidhata** |
+| Rural revenue officers | Megasthenes’ **agronomai** |
+| Weights | *Pautavadhyaksha* |
 
 ## 11.6 Mauryan Spy System (*Gudhapurusha*)
 
@@ -329,7 +336,7 @@ A. Both 1 and 2  B. Neither 1 nor 2  C. Only 1  D. Only 2
 | Jaunpur stone | Ishvaravarman |
 | Bhitari | Ghazipur belt — Skandagupta |
 | Banskhera | Shahjahanpur — Harsha signature |
-| Besnagar | **MP**. Not the 2018 ashwamedha answer |
+| Besnagar | **MP** — Heliodorus pillar |
 
 ---
 
@@ -1173,7 +1180,7 @@ A. Weight and measurement  B. Administrative management  C. Construction of road
 
 ---
 
-## Common Traps — Don't Fall For These
+## Common Traps — Exam Locks
 
 1. **2024 Q20 = Both A** → **Only 2 (D).** Rahulovada is the trap.
 2. **2022 Q87 = Jivitagupta–Deo-Baranark wrong** → wrong pair is **Sarvavarman–Gaya**.

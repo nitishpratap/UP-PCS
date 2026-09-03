@@ -91,7 +91,7 @@ Chirand (Saran, Bihar) = bone tools
 - Camps cluster in **river valleys and rock shelters**.
 - There is **no** universally agreed “first human site” in India.
 - Siwalik ape fossils such as ***Sivapithecus*** are **not** proof of *Homo* in India.
-- Do not treat Siwalik apes as Hathnora-class evidence.
+- Siwalik ***Sivapithecus*** is an **ape** fossil. **Hathnora** is the *Homo erectus* skull.
 
 > **Exam note:** Hathnora is an ***erectus* fossil** found by **Sonakia in 1982**. Attirampakkam is **old tools** in the **Kortallayar valley, Tamil Nadu**. The trap is calling the Narmada find a modern human.
 
@@ -293,7 +293,7 @@ D. Lakhnia
 - Burials often carry **black-and-red ware**, iron weapons and tools, and gold ornaments. The culture marks the spread of **iron** in the peninsula after the north had moved through PGW.
 - **Brahmagiri** in Karnataka is a classic megalithic site linked to early **Sangam** archaeology.
 - **Adichanallur** in Tamil Nadu is famous for urn burials and bronze artefacts.
-- **Maski** in Karnataka is also a megalithic name in match-lists; do not confuse it with Ashoka’s Minor Rock Edict site of the same name without checking the question stem.
+- **Maski** (Karnataka) appears in **megalithic** lists and as Ashoka’s **Minor Rock Edict** site — read the stem for which lock is asked.
 - **Hallur** in Karnataka is another standard southern megalithic lock.
 - In the **north**, Later Vedic **PGW** marks iron in the doab. Megaliths mark iron-age burial culture in the **peninsula**, not Harappan urbanism.
 - **Burzahom** (Kashmir) has late **menhirs** in Period III. That is a northern exception, not the main megalithic belt.
@@ -359,7 +359,7 @@ D. Lakhnia
 
 ## 1.9 Important Neolithic Sites
 
-**Crop and house type are regional | do not dump one lock onto every site**
+**Crop and house type are regional | each site has its own lock**
 
 - **Mehrgarh** on the Kachi plain of **Balochistan (Pakistan)** is the earliest farming village in the subcontinent, around **7000 BCE**. First crops are wheat and barley. Houses are mud-brick. Period I is **aceramic**.
 - **Burzahom** near Srinagar in Kashmir has **pit dwellings** about 2–4 m deep, bone tools, and **dog burial**.
@@ -465,7 +465,7 @@ D. Lakhnia
 - **Auditorium Cave** at Bhimbetka is a large natural chamber, not a built hall.
 - Some shelters later became Hindu or Buddhist shrines, so use is **multi-period**.
 
-> **Exam note:** Bhimbetka means **rock shelters in the Vindhyan hills**. Do not key the location as Satpura. Do not treat them as carved Buddhist caves.
+> **Exam note:** Bhimbetka = **natural rock shelters** in the **Vindhyan** hills (Raisen, MP). Ajanta = later **carved** Buddhist caves.
 
 ---
 
@@ -623,7 +623,7 @@ D. V.N. Mishra
 - Pair it with **Mahagara** in the same valley.
 - The Mesolithic forerunner is **Chopani Mando**, which has wild rice, not full farming.
 - **Lahuradewa** in Sant Kabir Nagar is a **separate** eastern-UP rice site at a lake edge.
-- Do not merge Lahuradewa into the Belan pair.
+- **Lahuradewa** is in **Sant Kabir Nagar**. The Belan pair is **Koldihwa–Mahagara** near Prayagraj.
 
 > **Exam note:** Koldihwa is **Belan UP plus rice**. Mehrgarh did **not** start as a rice centre. Lahuradewa is not Koldihwa.
 
@@ -871,7 +871,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Do not swap domestication (Bagor) with burials (Sarai Nahar Rai).
+**Ans: C** — Bagor = Mesolithic **domestication** (Rajasthan). Sarai Nahar Rai = Mesolithic **burials** (UP).
 
 </details>
 
@@ -1438,7 +1438,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Upper Pal lock; do not dump Patne into Mesolithic Bagor list.
+**Ans: C** — Patne is **Upper Paleolithic**. Bagor is **Mesolithic** Rajasthan.
 
 </details>
 
@@ -1622,7 +1622,7 @@ D. Neither 1 nor 2
 <details>
 <summary>Show answer</summary>
 
-**Ans: C** — Two parallel Lower Pal traditions; do not treat Soanian as microlithic.
+**Ans: C** — Soanian = **pebble-chopper** Lower Paleolithic (Siwalik). Microliths = **Mesolithic**.
 
 </details>
 
@@ -1809,7 +1809,7 @@ UPPCS Prelims **2025, 2024, 2023, 2022, 2021, 2019** — no question in `pyq/` m
 
 ---
 
-## Common Traps — Don't Fall For These
+## Common Traps — Exam Locks
 
 1. **Wakankar vs Sankalia vs Vatsa** → Bhimbetka = **Wakankar 1957–58**; Sankalia = Langhnaj/Navdatoli; Vatsa = **Harappan**.
 2. **Bagor vs Sarai Nahar Rai vs Bori** → Bagor = **domestication (RJ)**; SNR = **burials (UP)**; Bori = Paleolithic distractor.

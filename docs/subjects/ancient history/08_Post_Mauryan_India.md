@@ -119,10 +119,16 @@ D. Hathigumpha inscription
 
 **Cause:** Shaka **Nahapana** (Kshaharata) controlled a belt from **Ajmer** to **Nasik** and threatened Satavahana survival.  
 **Course:** **Gautamiputra Satakarni** defeated Nahapana. The **Nasik prasasti** of **Gautami Balashri** records the victory. Nahapana's silver was restruck.  
-**Result:** Satavahana power peaked in the western Deccan. Later Shaka greatness passed to the **Kardamaka** house of **Rudradaman**.
+**Result:** Satavahana power peaked in the western Deccan. Later Shaka greatness passed to the **Kardamaka** house of **Rudradaman**. He restruck Nahapana’s silver (Jogalthembi hoard type).
 
- He beats Shaka **Nahapana**. Proof is the **Nasik prasasti** of his mother **Gautami Balashri**. He restruck Nahapana’s silver, of the Jogalthembi hoard type.
-- **Vashishthiputra Pulumavi** is his son and continues the house. **Hala** wrote the *Gatha Saptasati* in Prakrit. **Yajna Sri Satakarni** puts a **ship** on coins. That is the sea-trade lock.
+| Ruler | Lock |
+|-------|------|
+| **Simuka** | Traditional founder |
+| **Satakarni I** | Early expansion; **Naneghat** of queen **Naganika** |
+| **Gautamiputra Satakarni** | Greatest; defeats **Nahapana**; **Nasik prasasti** of **Gautami Balashri** |
+| **Vashishthiputra Pulumavi** | Son and successor |
+| **Hala** | *Gatha Saptasati* in Prakrit |
+| **Yajna Sri Satakarni** | **Ship** on coins — sea-trade lock |
 
 - They nurtured **Prakrit** in inscriptions and *gathas*, not Sanskrit as the court speech. **Public art** got more push: the **Amaravati** stupa, the **Karle** chaitya, and the Nasik caves.
 - Land grants to Brahmans and Buddhist monks start to show. Roman trade crosses their roads. Decline comes about the 3rd century CE. **Ikshvakus** at Nagarjunakonda come next in Andhra.
@@ -143,7 +149,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 </details>
 
-> **Exam note:** Gautamiputra ≠ Kanishka. Paithan ≠ Madurai.
+> **Exam note:** Gautamiputra Satakarni = **Satavahana** (Paithan). Kanishka = **Kushan**. Madurai = **Pandya**.
 
 ---
 
@@ -151,7 +157,7 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 - After Satavahana decline (~3rd century CE), the **Ikshvakus** ruled coastal **Andhra** from **Nagarjunakonda**.
 - The site is famous for **Buddhist stupa**, monastery, and **Ikshvaku inscriptions**.
-- Ikshvakus are a **post-Satavahana Andhra** house, not the mythic Ayodhya Ikshvaku line.
+- Ikshvakus here are a **post-Satavahana Andhra** house. The mythic Ayodhya Ikshvaku line is a separate Puranic genealogy.
 
 ---
 
@@ -166,11 +172,11 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 
 **Cause:** Kalinga sought independence, trade prestige, and recovery of cult images after Nanda/Mauryan pressure.  
 **Course:** The inscription records recovery of a **Jina image** carried off by a **Nanda** king; military expeditions toward **Magadha** and the **south**; gifts to monks and public works.  
-**Result:** Kharavela is the strongest **post-Mauryan Kalinga** ruler in epigraphy. He is **not** Ashoka, Harsha, or Kanishka.
+**Result:** Kharavela is the strongest **post-Mauryan Kalinga** ruler in epigraphy. **Hathigumpha** = Kharavela.
 
 
 - Source: **Hathigumpha** inscription, **Udayagiri**, Odisha.
-- **Hathigumpha** belongs to **Kharavela** of Kalinga — not Ashoka, Harsha, or Kanishka.
+- **Hathigumpha** belongs to **Kharavela** of Kalinga. Ashoka, Harsha, and Kanishka have **other** inscriptions.
 - Jain patron. Caves at Udayagiri–Khandagiri.
 - Boasts of campaigns and of recovering a Jina image.
 
@@ -179,10 +185,10 @@ A. Only 1  B. Only 2  C. Both 1 and 2  D. Neither 1 nor 2
 - Burial types include **dolmens**, **cists**, stone circles, capstones, and **hero stones (virakkal / nadukal)** for warriors.
 - Pottery is often **black-and-red ware (BRW)**. Iron tools and weapons appear in the graves.
 - Major sites include **Brahmagiri**, **Adichanallur**, **Maski**, **Hallur**, **Nevasa**, and **Piklihal**. Brahmagiri links megalithic layers to early historic transitions.
-- Megaliths are **not** the same as PGW of the north. PGW = Later Vedic doab. Megaliths = mainly **south and Deccan** Iron Age.
+- **PGW** = Later Vedic **doab**. **Megaliths** = mainly **south and Deccan** Iron Age burials.
 - Grave goods can include pottery, iron weapons, gold, and beads. Some sites show communal or family burials under large stone slabs.
 
-**Ashoka’s RE II** names Chola, Pandya, Keralaputra, Satiyaputra as **neighbours**. Not provinces. Deep Tamilakam is not Mauryan.
+**Ashoka’s RE II** names Chola, Pandya, Keralaputra, Satiyaputra as **independent neighbours**, not Mauryan provinces.
 
 **PYQ — UPPCS Prelims 2018, Q16**
 
@@ -197,7 +203,18 @@ A. Kharvela  B. Ashok  C. Harshavardhan  D. Kanishka
 
 </details>
 
-> **Exam note:** Hathigumpha = **Kharavela**. Not Ashoka. Not Harsha. Not Kanishka.
+> **Exam note:** **Hathigumpha** = **Kharavela** of Kalinga.
+
+---
+
+## 8.3b Post-Mauryan Art Schools — Quick Compare
+
+| School | Period / patron | Material / style | Exam lock |
+|--------|-----------------|------------------|-----------|
+| **Gandhara** | Kushan northwest | Greco-Buddhist schist | Greco-Roman Buddha face |
+| **Mathura** | Kushan / local | Red sandstone Indian types | Indigenous Buddha forms |
+| **Amaravati** | Satavahana Andhra | Limestone narrative reliefs | Andhra Buddhist stupa art |
+| **Karle / Nasik** | Satavahana age | Rock-cut **chaitya** halls | Public Buddhist architecture |
 
 ---
 
@@ -218,7 +235,7 @@ A. Kharvela  B. Ashok  C. Harshavardhan  D. Kanishka
 - Besnagar is **not** Pushyamitra’s two-ashwamedha record. That inscription is at **Ayodhya**.
 - Indo-Greek power in the northwest ends when **Shakas** take Gandhara and Punjab.
 
-> **Exam note:** Menander is not Kanishka. Sagala is not Sangala of Alexander. Heliodorus is Besnagar, not Ayodhya.
+> **Exam note:** **Menander** = Indo-Greek, *Milinda Panha*, capital **Sagala**. **Sangala** = Alexander’s 326 battle. **Heliodorus pillar** = **Besnagar**. Pushyamitra ashwamedha = **Ayodhya**.
 
 ---
 
@@ -307,18 +324,7 @@ D. Sakas — Kushans — Greeks
 - His coins show **Buddha**, **Shiva**, **Mithra**, and Greek deities on the same series.
 - Kanishka is a common **trap option** for **Hathigumpha**. That inscription belongs to **Kharavela** of Kalinga.
 
-> **Exam note:** Shaka era is not Vikrama 57 BCE. Kanishka is not Kharavela.
-
----
-
-## 8.3b Post-Mauryan Art Schools — Quick Compare
-
-| School | Period / patron | Material / style | Exam lock |
-|--------|-----------------|------------------|-----------|
-| **Gandhara** | Kushan northwest | Greco-Buddhist schist | Greco-Roman Buddha face |
-| **Mathura** | Kushan / local | Red sandstone Indian types | Indigenous Buddha forms |
-| **Amaravati** | Satavahana Andhra | Limestone narrative reliefs | Andhra Buddhist stupa art |
-| **Karle / Nasik** | Satavahana age | Rock-cut **chaitya** halls | Public Buddhist architecture |
+> **Exam note:** Shaka era = **78 CE** (Kanishka). Vikrama era = **57 BCE**. **Hathigumpha** = **Kharavela** of Kalinga.
 
 ---
 
@@ -327,7 +333,7 @@ D. Sakas — Kushans — Greeks
 **Tamilakam south of Krishna–Tungabhadra | ~300 BCE–300 CE | literature as the state archive**
 
 - **Sangam** means a poet-assembly. The traditional seat is **Madurai** under the **Pandyas**.
-- The age is contemporary with the Satavahanas. It is **not** the same dynasty.
+- Sangam Tamilakam is **contemporary** with the Satavahanas — a **parallel** south, a different dynasty.
 - Later legend counts three Sangams. The first two are mythical.
 - The Third Sangam is the poems we still have.
 
@@ -1469,7 +1475,7 @@ D. Hathigumpha inscription
 
 ---
 
-## Common Traps — Don't Fall For These
+## Common Traps — Exam Locks
 
 1. **Kushans before Shakas** (2023 B) → Greeks → Sakas → Kushans.
 2. **Hathigumpha = Ashoka / Kanishka / Harsha** → **Kharavela**.

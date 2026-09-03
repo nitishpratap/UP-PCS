@@ -63,7 +63,7 @@ Curtius army: 2 lakh foot, 20k horse, 2k chariots, 3k elephants | Alexander neve
 - The Later Vedic **jana** becomes a territorial **janapada**. Sixteen of those states are called **mahajanapadas**.
 - Politics is war and marriage. There is no pan-Indian empire until Nanda–Maurya.
 - **Iron** ploughs and weapons open forest in the middle Ganga. The **chaturanga** army has infantry, cavalry, chariots, and elephants.
-- **NBPW** (about 700–200 BCE) is the deluxe table-ware of this urban phase. **PGW** is the Later Vedic doab ware. Do not date NBPW as “only Mauryan.” It starts in mahajanapada towns and continues into the Mauryas.
+- **NBPW** (about 700–200 BCE) is the deluxe table-ware of this urban phase. It **starts in mahajanapada towns** and continues into the Mauryas. **PGW** is the Later Vedic doab ware.
 - This is the **second urbanisation** after Harappa. Towns show mud or burnt-brick ramparts, craft quarters, and **setthi** merchants.
 - **Punch-marked** silver (*karshapana*, bent bars) appears. There is no gold dinara yet.
 - Two constitutions exist: **monarchy** and **gana-sangha**. A gana-sangha is an assembly of kshatriya clans, not adult-male democracy.
@@ -1370,7 +1370,7 @@ UPPCS Prelims **2025, 2024, 2023, 2022, 2021, 2019, 2018** — keyword search (M
 
 ---
 
-## Common Traps — Don't Fall For These
+## Common Traps — Exam Locks
 
 1. **Matsya = Mathura** → Mathura = **Surasena**; Matsya = **Viratnagar** (2020).
 2. **Asmaka = Pratishthana/Paithan** in that 2020 list → **Potana**.

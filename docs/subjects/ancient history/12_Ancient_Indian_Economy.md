@@ -61,7 +61,7 @@ Tamralipti = Ganga mouth east | Periplus = 1st c. CE | Pliny gold-drain
 
 - The Indus economy is **urban** craft and trade. It uses cubical **weights** and **seals**. It has **no coins**.
 - The Rigvedic economy is **pastoral**. Wealth sits in cattle. The **nishka** is a gold piece or ornament. It is not a minted coin.
-- The Later Vedic economy is **agrarian**. **Bali** and **bhaga** appear as dues. Punch-marked coins still do not exist in that Vedic phase.
+- The Later Vedic economy is **agrarian**. **Bali** and **bhaga** appear as dues. Punch-marked coins appear in the **mahajanapada** age, after the Vedic phase.
 - From about the **sixth century BCE**, towns, **NBPW**, and **punch-marked silver** appear with long-distance trade.
 - The Mauryan state taxes trade. The weights officer is the ***pautavadhyaksha***.
 - The Gupta age shows land grants, guilds, and gold prestige. Daily markets still use silver and copper.
@@ -83,7 +83,7 @@ A. 4 2 3 1  B. 2 1 4 3  C. 3 4 1 2  D. 4 3 1 2
 
 </details>
 
-> **Exam note:** Do not start this chapter at Gupta gold. First Indian coins are **punch-marked silver**.
+> **Exam note:** First Indian coins are **punch-marked silver**. Gupta gold comes later.
 
 ---
 
@@ -96,7 +96,7 @@ A. 4 2 3 1  B. 2 1 4 3  C. 3 4 1 2  D. 4 3 1 2
 - The **Indo-Greeks** bring **die-struck portraits**. Their legends use Greek and Kharoshthi.
 - Satavahanas often strike **lead** or **potin**. **Yajna Sri Satakarni** puts a **ship** on some coins as a Deccan sea-trade stamp.
 - The Western Kshatrapas strike silver. **Chandragupta II** later copies that silver habit.
-- Coins name kings and gods. They do not replace inscriptions.
+- Coins name kings and gods. **Inscriptions** remain the main administrative record.
 
 > **Exam note:** First coins ≠ gold. First coins ≠ IVC.
 
@@ -109,7 +109,7 @@ A. 4 2 3 1  B. 2 1 4 3  C. 3 4 1 2  D. 4 3 1 2
 - IVC and Vedic India have **no** gold mint. Indo-Greeks issue some gold in the northwest. **Vima Kadphises** and the **Kushans** make gold **common**. The Kushan imperial title is *Shaonanoshao*.
 - The Gupta **dinara** is prestige gold. The name comes from the Roman *denarius* through Kushan use.
 - The king-queen type shows **Chandragupta I** with **Kumaradevi**. Horse, lyrist, and battle-axe types belong to **Samudragupta**. Archer, chhatra, and lion-slayer types belong to **Chandragupta II**. Peacock and lion types belong to **Kumaragupta I**.
-- Gupta gold often weighs about **120–144 grains**. Do not mix that with the **33-grain** silver.
+- Gupta **gold** often weighs about **120–144 grains**. Gupta **silver** (*rupaka*) is about **33 grains**.
 - Roman **aurei** in south Indian hoards are pepper-trade bullion. **Pliny** calls that a gold drain. After the Guptas, imperial gold thins.
 
 **2022 lock**
@@ -260,9 +260,15 @@ D. Kalibangan and Ropar
 
 ## 12.10 Punch-Marked Coins — Symbols and Janapadas
 
-- Multiple punch symbols on **karshapana**; issued by **mahajanapadas** then Magadha-Maurya.
-- **Mauryan** period also uses **cast copper** kakani for small change.
-- Trap: punch-marks are **not** Indo-Greek portraits.
+| Lock | Detail |
+|------|--------|
+| Metal / name | Silver **karshapana** with several punch symbols |
+| Issuers | First **mahajanapadas**, then Magadha–Maurya |
+| Small change | Mauryan **cast copper** *kakani* |
+| Style | Geometric / animal punches — **no royal portrait** |
+| Portraits | Begin with **Indo-Greek** die-struck coins |
+
+Common punch symbols: **sun**, **six-armed symbol**, **hill**, **elephant**, **bull**, **tree-in-railing**.
 
 ## 12.11 Gupta Copper and Post-Gupta Coinage
 
@@ -1135,7 +1141,7 @@ A. Śreni  B. Nagaram  C. Nānādesis  D. Manigrama
 
 ---
 
-## Common Traps — Don't Fall For These
+## Common Traps — Exam Locks
 
 1. **First Indian coins = Gupta gold** → **punch-marked silver**.
 2. **2022 Shaka proof = dinara** → **silver**, ~33 grains.

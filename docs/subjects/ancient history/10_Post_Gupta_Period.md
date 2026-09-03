@@ -149,7 +149,7 @@ D. Ishwaravarman — Jaunpur stone inscription
 - ***Harshacharita*** is “Deeds of Harsha,” a prose **biography** of his patron. Class: **akhyayika**.
 - ***Kadambari*** is a long **romance** named after the heroine. Class: **katha**. Not a second Harsha chronicle. He left it unfinished. Tradition: son **Bhushanabhatta** finished it.
 - Same Harsha court also had **Mayura**, author of *Suryashataka*. Mayura is not Bana.
-- Do not swap him with **Kalidasa**. Kalidasa is Chandragupta II’s Gupta-age poet. Bana is **7th century**, Harsha’s man.
+- **Banabhatta** is Harsha’s **7th-century** court poet. **Kalidasa** is Chandragupta II’s Gupta-age poet.
 
 > **Exam note:** Bana ≠ Kalidasa. *Harshacharita* ≠ *Kadambari*.
 
@@ -167,7 +167,7 @@ D. Ishwaravarman — Jaunpur stone inscription
 - The **first four** ucchvasas carry almost all the usable political history.
 - He stops before the full later reign. Pulakeshin, Kannauj 643 and the Prayag charity are told more fully by the Chinese pilgrim and by the copper plates.
 - Court praise sits next to fact. Cross-check names with Banskhera / Madhuban.
-- *Kadambari* is his other book. Love story. Do not quote it as a Harsha war-diary.
+- *Kadambari* is his other book — a prose romance. *Harshacharita* is the royal biography.
 
 > **Exam note:** *Harshacharita* = 7th c. biography. *Kadambari* = romance. *Si-Yu-Ki* = the Chinese record, not Bana.
 
@@ -1175,7 +1175,7 @@ A. Kharvela  B. Ashok  C. Harshavardhan  D. Kanishka
 
 ---
 
-## Common Traps — Don't Fall For These
+## Common Traps — Exam Locks
 
 1. **Harsha = Gupta emperor** → Pushyabhuti / Vardhana.
 2. **Thanesar = Kannauj** → early Haryana seat vs later **UP** capital.

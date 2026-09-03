@@ -78,7 +78,7 @@ Introduction to Study = Kosambi | Early History = Smith
 
 - A civilization here means cities, surplus grain, specialised crafts, and some form of writing or administration.
 - The four cores exams keep matching are **Mesopotamia, Egypt, Indus, Shang China**.
-- They are **Bronze Age**. Iron-Age Greece and Rome come later. Do not dump them into this four.
+- The four earliest urban cores here are **Bronze Age**. Iron-Age Greece and Rome belong to a later bucket.
 
 ### Mesopotamia (earliest urban core)
 
@@ -122,7 +122,7 @@ Introduction to Study = Kosambi | Early History = Smith
 - Signatures include grid streets, baked brick, covered drains, and standard weights.
 - The Great Bath sits at Mohenjo-daro.
 - The script is still **undeciphered**.
-- Do not treat it as “hieroglyphs we can read.”
+- The Harappan script is **still unread** — unlike Egyptian hieroglyphs after Champollion.
 - There is no ziggurat.
 - There is no pyramid tomb-field.
 - There is no named pharaoh.
@@ -172,7 +172,7 @@ Introduction to Study = Kosambi | Early History = Smith
 | Religion | Many gods, Enuma Elish | Divine king, afterlife | Unresolved (Pashupati debate) | Ancestors + Di |
 | End-note | Conquest replacement | Dynastic continuity | De-urbanisation ~1900 BCE | Zhou conquest |
 
-- River surplus is the shared base. Political **form** is not shared. Do not write “all four had pharaohs.”
+- River surplus is the shared base. Political **form** is not shared: only Egypt has a **pharaoh**; Harappa has no named king.
 - Mesopotamia is **temple-centred** and war-prone. Egypt is **tomb-centred** and unusually stable.
 - Harappan cities look **corporate**: standard brick, weak palace/temple skyline, few weapons in the record.
 - Shang power is **ritual bronze + divination**. The king talks to ancestors through cracks in bone.
@@ -330,7 +330,7 @@ Introduction to Study = Kosambi | Early History = Smith
 
 ## 14.6 Major Rulers of Kakatiya Dynasty
 
-**Founder-line first | do not start with the queen**
+**Founder-line first | Prola II → Rudradeva → Ganapati → Rudrama Devi**
 
 Teach in this order. Prataparudra II is the **last** king, not the founder.
 
@@ -343,7 +343,7 @@ Teach in this order. Prataparudra II is the **last** king, not the founder.
 
 - Son of Prola II. First to rule as a clear sovereign over a wide Telugu tract.
 - **Thousand Pillar Temple** (Rudreshwara) at **Hanamkonda** — consecration tradition **1163 CE**.
-- Do not confuse this Rudradeva with **Rudrama Devi** a century later.
+- **Rudradeva / Prataparudra I** is the 12th-century male ruler. **Rudrama Devi** is his granddaughter, a century later.
 
 ### Mahadeva (c. 1195–1199)
 
@@ -405,7 +405,7 @@ Teach in this order. Prataparudra II is the **last** king, not the founder.
 - A hill-to-field reservoir web sits with them.
 - The Motupalli charter is overseas trade under royal protection.
 - The diamond hinterland of later Golconda is already in this geography.
-- Do not make Kakatiyas “the Mughal diamond court.”
+- Kakatiya diamonds (Golconda belt) belong to the **Warangal** court, centuries before the Mughals.
 
 ### Culture
 
@@ -600,7 +600,7 @@ D. A is false but R is true
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — unread script + weak royal monuments = why we do not name a Harappan pharaoh.
+**Ans: A** — unread script + weak royal monuments = Harappa has **no named pharaoh**.
 
 </details>
 
@@ -1388,7 +1388,7 @@ Medieval / Mughal (Maham Anaga). **Not** a Purana-text question. Name-trap only.
 
 ---
 
-## Common Traps — Don't Fall For These
+## Common Traps — Exam Locks
 
 1. **Vayu Purana = Gupta administration** → false. 2023 Q29 Only 1.
 2. **Shriparvatiya = Vakataka** → **Ikshvaku** (Nagarjunakonda).

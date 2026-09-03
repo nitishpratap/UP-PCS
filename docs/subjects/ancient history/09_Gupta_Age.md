@@ -306,7 +306,7 @@ A. 1, 2, 3, 4  B. 4, 3, 1, 2  C. 2, 1, 4, 3  D. 3, 4, 2, 1
 | Lion-slayer / peacock | **Kumaragupta I** |
 | King fighting lion | **Skandagupta** |
 
-- Standard is often near **120–144 grains** for gold. Do not mix this with the **33-grain silver**.
+- Standard is often near **120–144 grains** for **gold**. Silver *rupaka* is about **33 grains**.
 
 > **Exam note:** Lyrist = Samudragupta. Archer = CG II. King-queen = CG I.
 
@@ -393,7 +393,7 @@ A. 1, 2, 3, 4  B. 4, 3, 1, 2  C. 2, 1, 4, 3  D. 3, 4, 2, 1
 - **Bhitargaon** in the Kanpur belt of Uttar Pradesh is a brick temple.
 - **Eran** has a Varaha and pillars.
 - **Tigawa** in Madhya Pradesh is a flat-roof shrine.
-- Ajanta’s famous painted caves are largely **Vakataka**. Do not dump them as “pure Gupta court art.”
+- Ajanta’s famous painted caves are largely **Vakataka** (Deccan allies), with Gupta-age style links.
 - The Mehrauli iron pillar is rust-resistant iron. “Chandra” on it is usually **Chandragupta II**.
 
 > **Exam note:** Sarnath is Gupta. Gandhara is Kushan. Ajanta is not the default Gupta lock.
@@ -405,7 +405,23 @@ A. 1, 2, 3, 4  B. 4, 3, 1, 2  C. 2, 1, 4, 3  D. 3, 4, 2, 1
 **Kalidasa is the Gupta lock | 2025 also dumps later author–book pairs**
 
 - **Kalidasa** belongs to the Chandragupta II tradition. Plays: *Abhijnanashakuntalam*, *Malavikagnimitra*, *Vikramorvashiyam*. Mahakavyas: *Raghuvamsa*, *Kumarasambhava*. Lyrics: *Meghaduta*, *Ritusamhara*.
-- He did **not** write *Shringara Shataka*. That is **Bhartrihari**. Only statement 3 is true in the standard stem.
+- *Shringara Shataka* is **Bhartrihari**, not Kalidasa.
+
+### Navaratnas (later tradition)
+
+Coaching lists **nine gems** at Vikramaditya / Chandragupta II’s court. Historians treat the full nine as a **later legend** (*Jyotirvidabharana*). Papers still ask the names. **Kalidasa** is the firm Gupta lock.
+
+| Gem | Field |
+|-----|-------|
+| **Kalidasa** | Poetry and drama |
+| **Amarasimha** | *Amarakosha* (lexicon) |
+| **Varahamihira** | Astronomy (*Panchasiddhantika*, *Brihatsamhita*) — actually **6th century** |
+| **Dhanvantari** | Medicine |
+| **Vararuchi** | Grammar |
+| **Ghatakarpara** | Poetry |
+| **Kshapanaka** | Astrology |
+| **Shanku** | Architecture |
+| **Vetala Bhatta** | Magic / counsel |
 
 - **Sudraka** wrote *Mrichchhakatika*. **Vishakhadatta** wrote *Mudrarakshasa*, a Chanakya play of Gupta date. **Amarasimha** wrote the *Amarakosha*. **Vishnu Sharma** is the traditional author of the *Panchatantra*. **Bharavi** wrote *Kiratarjuniya*, late Gupta or after.
 
@@ -453,7 +469,7 @@ A. 3 4 1 2  B. 4 3 2 1  C. 4 3 1 2  D. 3 4 2 1
 
 </details>
 
-> **Exam note:** Jayadeva, Somadeva, and Kshemendra are **later** than the Gupta court. Learn the four author–book pairs anyway. Do not date Jayadeva to Chandragupta II.
+> **Exam note:** Jayadeva, Somadeva, and Kshemendra are **later** than the Gupta court. Kalidasa belongs to **Chandragupta II**.
 
 ---
 
@@ -1517,7 +1533,7 @@ A. 1 2 3 4  B. 2 1 4 3  C. 3 1 4 2  D. 4 3 2 1
 
 ---
 
-## Common Traps — Don't Fall For These
+## Common Traps — Exam Locks
 
 1. **Chandragupta II = Chandragupta Maurya** → Gupta Vikramaditya vs 322 BCE.
 2. **2022 Shaka proof = gold dinara** → **silver**, ~33 grains.
