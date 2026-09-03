@@ -36,8 +36,10 @@ Barabar caves → Ajivikas, not Buddhists
 Ghantasala = Aryaka-pillars on platform  (2022 Q80)
 
 Jain 24 symbols | Mahavira 24th lion Pavapuri | Parshva 23rd serpent (Varanasi)
+Mahavira timeline: b. ~599 → renounce 30 → kevala 42 → nirvana Pavapuri ~527 (alt. 540–468)
+Nirvana rule: 20 = Sammed Shikhar (Jharkhand) | 4 separate = Ashtapad, Champapuri, Girnar, Pavapuri
+Rishabha born Ayodhya (UP) | Bahubali = Gomateshwara (not one of 24)
 2021 NOT matched: Vasupujya ≠ Sammedashikhar  (correct = Champapuri)
-20 at Sammed Shikhar | Rishabha Ashtapad + born Ayodhya (UP) | Nemi Girnar | Bahubali = Gomateshwara
 Jain councils: Pataliputra (Sthulabhadra) → Vallabhi (Devardhigani) | Tattvartha Sutra = both sects
 
 Ajivika = Gosala + niyati | Charvaka = perception-only, Brihaspati
@@ -104,7 +106,7 @@ Bhagavatism = Vasudeva-Krishna, Mathura (UP) | Heliodorus pillar Besnagar
 
 - The Buddha was born at **Lumbini** in Nepal. An Ashokan pillar marks the site.
 - His mother was **Mahamaya**. His father was **Suddhodana**, the Sakya chief of Kapilavastu under Kosala.
-- He married **Yashodhara**. Their son was **Rahul(a)**. Do not mix Yashodhara with Jain **Yashoda**.
+- He married **Yashodhara**. Their son was **Rahul(a)**. Jain tradition names Mahavira's wife **Yashoda** — a separate person.
 - On the night of the Great Renunciation he rode the horse **Kanthaka**. The charioteer **Channa** went with him and then turned back.
 - Traditional dates are 563–483 BCE. Some books use a shorter chronology. Either way, he is a sixth–fifth century BCE figure, not Mauryan.
 - Four sights — old age, sickness, death, and an ascetic — led to **Mahabhinishkramana** at age **29**.
@@ -122,7 +124,7 @@ Bhagavatism = Vasudeva-Krishna, Mathura (UP) | Heliodorus pillar Besnagar
 - Relics were divided among clans. Tradition counts **eight** original relic-stupas.
 - Early Buddhist art is **aniconic**. The Buddha is shown by a footprint, a wheel, a stupa, the Bodhi tree, or deer. There is no human statue in that phase.
 
-> **Exam note:** Birth is Lumbini, not Bodh Gaya. The first sermon is at **Sarnath**. Death is at **Kushinagar**. Rahula is the son, not Nagasena.
+> **Exam note:** Birth = Lumbini. First sermon = **Sarnath**. Death = **Kushinagar**. Milinda Panha = **Nagasena**, not Nagarjuna.
 
 ---
 
@@ -137,9 +139,9 @@ The Four Noble Truths work like a medical diagnosis: disease → cause → cure 
 | 1 | **Dukkha** | Suffering / unsatisfactoriness | Does **not** mean “life is only pain” |
 | 2 | **Samudaya** | Cause of suffering | **Tanha / trishna** (craving), fed by **avidya** (ignorance) |
 | 3 | **Nirodha** | Cessation of suffering | Craving **can** stop; that stop is **nirvana** |
-| 4 | **Magga** | Path to cessation | The **Eightfold Path** — not a fifth separate truth |
+| 4 | **Magga** | Path to cessation | Names the **Eightfold Path** as the cure |
 
-> **Exam note:** The third truth is **not** “suffering is eternal.” The fourth truth *names* the path; it is not a fifth extra truth.
+> **Exam note:** Third truth = cessation **is** possible (nirvana). Fourth truth **is** the Eightfold Path.
 
 ---
 
@@ -220,7 +222,7 @@ Things arise from causes, not from a creator God. The **twelve nidanas** (links)
 
 ## 4.6 Buddhist Councils
 
-**Chronological place-order | Rajagriha first, not Vaishali**
+**Chronological place-order | Rajagriha → Vaishali → Pataliputra → Kundalvana**
 
 - Councils are remembered as meetings that **fixed the teaching** after the Buddha’s death.
 - The **place order** is the highest-yield lock: Rajagriha → Vaishali → Pataliputra → Kundalvana.
@@ -236,7 +238,7 @@ Things arise from causes, not from a creator God. The **twelve nidanas** (links)
 - Theravada tradition also remembers a separate “fourth” council at **Anuradhapura** (Sri Lanka) under **Vattagamani**, when the **Pali canon was written down**.
 - For the **four-council chronology** question, the fourth place is **Kundalvana** — not Anuradhapura.
 
-> **Exam note:** First = Rajagriha, not Vaishali. Fourth = Kundalvana, not Sri Lanka. Split at Vaishali = Sthaviravada vs Mahasanghika.
+> **Exam note:** Order = Rajagriha (1st) → Vaishali (2nd, Sthaviravada / Mahasanghika split) → Pataliputra (3rd) → Kundalvana (4th). Anuradhapura = separate Theravada council when Pali was written down.
 
 **PYQ — UPPCS Prelims 2025, Q105**
 
@@ -276,8 +278,6 @@ A. 1, 2, 4, 3  B. 2, 1, 3, 4  C. 2, 1, 4, 3  D. 1, 2, 3, 4
 | ***Visuddhimagga*** | Buddhaghosa’s Theravada manual |
 
 - Do not swap **Nagasena** with **Nagarjuna** (Madhyamaka) or **Kumarila Bhatta** (Mimamsa).
-
-> **Exam note:** Nagarjuna teaches sunyata. Nagasena answers Milinda. Do not swap the two names.
 
 **PYQ — UPPCS Prelims 2023, Q24**
 
@@ -422,7 +422,7 @@ A **bodhisattva** is an enlightened being who postpones final nirvana to help ot
 - **Nagarjuna** founds **Madhyamaka** and teaches that all phenomena are **empty** (*sunyata*) of permanent self-nature.
 - **Asanga** and **Vasubandhu** develop **Yogacara**, which analyses experience as consciousness-only.
 - **Dignaga** and **Dharmakirti** later build Buddhist **logic** at **Nalanda**. They belong to the Mahayana scholastic world, not to Hinayana Vinaya memory.
-- Do not confuse **Nagarjuna** with **Nagasena** of the *Milinda Panha*.
+- **Nagarjuna** = *Madhyamaka Karika* and **sunyata**. **Nagasena** = *Milinda Panha*.
 - Do not place **Madhyamaka** or **Yogacara** under Hinayana. They are Mahayana philosophy schools.
 
 > **Exam note:** Mahayana = bodhisattva + Sanskrit sutras + Buddha images. Five hot names = Avalokiteshvara, Manjushri, Vajrapani, Maitreya, Tara. Madhyamaka = Nagarjuna. Yogacara = Asanga–Vasubandhu. Mahayana is **not** the Vaishali split and **not** the Buddha's own lifetime teaching.
@@ -691,23 +691,55 @@ These are **three separate doctrines**. Do not club them as one idea.
 | 24 | Mahavira | **Lion** |
 
 Hottest exam locks: **1 bull**, **12 buffalo**, **19 kalasha**, **22 conch**, **23 serpent**, **24 lion**.
-Do not swap lion with serpent.
 
-> **Exam note:** The full 24 is fair game in match-lists. Serpent is Parshva, not Mahavira.
+> **Exam note:** Serpent = **Parshva** (23rd). Lion = **Mahavira** (24th).
 
 ---
 
 ## 4.17 Nirvana Sites of Tirthankaras
 
-**Four exceptions; the rest = Sammed Shikhar**
+**Rule: 20 at Sammed Shikhar | 4 have their own site**
 
-| Tirthankara | Nirvana | Trap |
-|-------------|---------|------|
-| Rishabhanatha | **Ashtapad** (Kailash) | — |
-| **Vasupujya** | **Champapuri** (Bhagalpur belt) | **Not** Sammedashikhar |
-| Neminatha | **Urjayanta / Girnar** (Gujarat) | — |
-| Mahavira | **Pavapuri** (Bihar) | Correct in 2021 |
-| Other **20** (incl. Parshva) | **Sammed Shikhar / Parasnath** (Jharkhand) | Do not dump all 24 here |
+Only **four** tirthankaras attained nirvana outside **Sammed Shikhar / Parasnath Hill** (Giridih, Jharkhand). The other **20** — including **Parshvanatha** — attained moksha on that hill. The *Nirvana Kanda* records this pattern.
+
+### Full list — all 24 nirvana sites
+
+| # | Tirthankara | Nirvana site | State / note |
+|---|-------------|--------------|--------------|
+| 1 | **Rishabhanatha** | **Ashtapad** (Mount Kailash) | Separate site |
+| 2 | Ajitanatha | Sammed Shikhar | Jharkhand |
+| 3 | Sambhavanatha | Sammed Shikhar | Jharkhand |
+| 4 | Abhinandananatha | Sammed Shikhar | Jharkhand |
+| 5 | Sumatinatha | Sammed Shikhar | Jharkhand |
+| 6 | Padmaprabha | Sammed Shikhar | Jharkhand |
+| 7 | Suparshvanatha | Sammed Shikhar | Jharkhand |
+| 8 | Chandraprabha | Sammed Shikhar | Jharkhand |
+| 9 | Pushpadanta / Suvidhinatha | Sammed Shikhar | Jharkhand |
+| 10 | Shitalanatha | Sammed Shikhar | Jharkhand |
+| 11 | Shreyansanatha | Sammed Shikhar | Jharkhand |
+| 12 | **Vasupujya** | **Champapuri** | Bihar (Bhagalpur belt) — **2021 UPPCS trap** |
+| 13 | Vimalanatha | Sammed Shikhar | Jharkhand |
+| 14 | Anantanatha | Sammed Shikhar | Jharkhand |
+| 15 | Dharmanatha | Sammed Shikhar | Jharkhand |
+| 16 | Shantinatha | Sammed Shikhar | Jharkhand |
+| 17 | Kunthunatha | Sammed Shikhar | Jharkhand |
+| 18 | Aranatha | Sammed Shikhar | Jharkhand |
+| 19 | Mallinatha | Sammed Shikhar | Jharkhand |
+| 20 | Munisuvrata | Sammed Shikhar | Jharkhand |
+| 21 | Naminatha | Sammed Shikhar | Jharkhand |
+| 22 | **Neminatha** | **Urjayanta / Girnar** | Gujarat — separate site |
+| 23 | **Parshvanatha** | Sammed Shikhar | Jharkhand (one of the 20) |
+| 24 | **Mahavira** | **Pavapuri** | Bihar — separate site |
+
+### High-yield locks
+
+| Tirthankara | Nirvana site |
+|-------------|--------------|
+| **Vasupujya** (#12) | **Champapuri** (Bhagalpur, Bihar) |
+| **Parshvanatha** (#23) | **Sammed Shikhar** (Jharkhand) |
+| **Mahavira** (#24) | **Pavapuri** (Bihar) |
+| **Neminatha** (#22) | **Girnar / Urjayanta** (Gujarat) |
+| **Rishabhanatha** (#1) | **Ashtapad** (Kailash) |
 
 **PYQ — UPPCS Prelims 2021, Q131**
 
@@ -735,7 +767,7 @@ D. Mahavira — Pavapuri
 - **Parshvanatha** is the 23rd tirthankara and is treated as historical. Tradition places him about **250 years before Mahavira**.
 - Birth tradition places him at **Varanasi** in Uttar Pradesh.
 - The symbol is the **serpent**. He is often shown with a snake-hood.
-- Nirvana is at **Sammed Shikhar**. He is one of the twenty who attained there, not a Pavapuri case.
+- Nirvana is at **Sammed Shikhar** — one of the twenty on Parasnath Hill, Jharkhand.
 
 | Lock | Parshvanatha (23rd) | Mahavira (24th) |
 |------|---------------------|------------------|
@@ -744,7 +776,7 @@ D. Mahavira — Pavapuri
 | Nirvana | **Sammed Shikhar** | **Pavapuri** |
 | Birth (tradition) | **Varanasi** (UP) | **Kundagrama** (Vaishali belt) |
 
-> **Exam note:** Parshva is **before** Mahavira. Serpent is not lion.
+> **Exam note:** Parshva is **23rd**, about **250 years before** Mahavira. Serpent = Parshva; lion = Mahavira.
 
 ---
 
@@ -752,30 +784,37 @@ D. Mahavira — Pavapuri
 
 **Vardhamana | 24th | contemporary of the Buddha**
 
-- **Mahavira** (original name **Vardhamana**) is the 24th and last tirthankara. He is a contemporary of the Buddha, not of the Mauryas.
+- **Mahavira** (original name **Vardhamana**) is the 24th and last tirthankara — a **6th-century BCE** contemporary of the Buddha.
 
-| Stage | Detail |
-|-------|--------|
-| Birth | **Kundagrama**, Vaishali / Jnatrika belt, **Vajji** league |
+### Timeline (traditional chronology)
+
+| When (~BCE) | Age | Event |
+|-------------|-----|-------|
+| **c. 599** | 0 | Birth at **Kundagrama** (Vaishali / Vajji belt) |
+| **c. 569** | **30** | **Renunciation** — left household life (Svetambara tradition) |
+| **c. 569–557** | 30–42 | **12 years** of tapas (austerity) |
+| **c. 557** | **42** | **Kevala jnana** (omniscience) at Jrimbhikagrama |
+| **c. 557** | 42 | **First sermon** at **Vipulachala** (Rajgir) |
+| **c. 557–527** | 42–72 | **30 years** of preaching |
+| **c. 527** | **72** | **Nirvana** at **Pavapuri** (Magadha, Bihar) |
+
+- Some books use a shorter chronology (**c. 540–468 BCE**). Either way, he belongs to the **6th–5th century BCE** — before the Mauryan empire.
+
+### Life locks
+
+| Lock | Detail |
+|------|--------|
 | Parents | Father **Siddhartha**; mother **Trishala** (Licchavi link) |
-| Renunciation | Age **30** (Svetambara tradition) |
-| Tapas | **12 years** of austerity |
-| Kevala jnana | Age **42** at Jrimbhikagrama |
-| First sermon | **Vipulachala** (Rajgir) |
-| Teaching span | **30 years** |
-| Nirvana | **Pavapuri** (Bihar) at age **72** |
+| Wife (Svetambara) | **Yashoda**; daughter **Priyadarshana** |
+| Marriage (Digambara) | Tradition says he **never married** |
 | Chief disciple | **Indrabhuti Gautama** (of 11 ganadharas) |
+| Symbol | **Lion** |
+| Vows | **Five** — added **brahmacharya** to Parshva’s four |
+| Pali name | **Nigantha Nataputta** |
+| Early companion | **Makkhali Gosala** → later Ajivika teacher |
+| Nirvana | **Pavapuri**, Bihar |
 
-- **Svetambara** tradition: he was a householder till 30. Wife is **Yashoda** (not Buddha’s Yashodhara). Daughter is Priyadarshana.
-- **Digambara** tradition: he never married.
-- Do not mix Jain **Pavapuri** with Malla **Pava** near Kushinagar (Buddha’s last-meal tradition).
-- The symbol is the **lion**. He added **brahmacharya** as a fifth vow on Parshva’s four.
-- Early companion **Makkhali Gosala** later broke away as the Ajivika teacher.
-- Pali texts call Mahavira **Nigantha Nataputta**.
-- Early companion **Makkhali Gosala** later broke away as the Ajivika teacher.
-- Pali texts call Mahavira **Nigantha Nataputta**.
-
-> **Exam note:** The Pavapuri pair is **correct**. The trap pair is Vasupujya–Sammedashikhar; Vasupujya’s nirvana is **Champapuri**.
+> **Exam note:** Mahavira’s nirvana = **Pavapuri**. Vasupujya’s nirvana = **Champapuri** (2021 Q131).
 
 ---
 
@@ -796,7 +835,7 @@ D. Mahavira — Pavapuri
 | 4 | **Brahmacharya** | Chastity / celibacy | Complete celibacy | Marital fidelity |
 | 5 | **Aparigraha** | Non-possession | No property; sky-clad Digambaras take this furthest | Limit possessions |
 
-> **Exam note:** Parshva taught **four** vows (no separate brahmacharya). Mahavira added the fifth. Do not call sallekhana a sixth vow.
+> **Exam note:** Parshva taught **four** vows. Mahavira added **brahmacharya** as the fifth. Sallekhana is a regulated end-of-life fast, separate from the five vows.
 
 ---
 
@@ -875,9 +914,7 @@ These six appear at **Bimbisara’s** Magadhan court:
 | Practice | Still practised **hard asceticism** despite fatalism |
 | Patronage | **Bindusara** favoured Ajivikas; **Ashoka** gifted **Barabar** caves to them |
 | Fate | Sect **dies out after the Mauryas**; known mainly from Buddhist and Jain polemics |
-| Exam trap | Ajivika is **not** Buddhist; **Barabar** is **not** Ajanta |
-
-> **Exam note:** Ajivika is not Buddhist. Barabar is not Ajanta.
+| Sites | **Barabar** caves (Ajivika) vs **Ajanta** (Buddhist paintings) |
 
 ---
 
@@ -893,7 +930,7 @@ These six appear at **Bimbisara’s** Magadhan court:
 | Ethics | **This-world** pleasure; “go loot” is **polemic**, not the doctrine |
 | Founder-name | **Brihaspati** (traditional) |
 | Sources | Original canon **lost**; recovered from opponents like Madhava’s *Sarvadarshanasangraha* |
-| Exam trap | **Charaka Samhita** = Ayurveda, **not** Lokayata |
+| Related name | **Charaka Samhita** = Ayurveda; **Brihaspati** = Lokayata founder-name |
 
 ---
 
@@ -903,9 +940,8 @@ These six appear at **Bimbisara’s** Magadhan court:
 
 - **Brihaspati** is the sutra tradition of Lokayata.
 - **Ajita Kesakambalin** is the Buddha’s contemporary. Man is elements. Death is the end.
-- Payasi and other “annihilationist” figures in Pali and Jain lists belong to the same family. They are not a second philosophy.
-- Do not mix this with **Caraka** the physician.
-- The *Charaka Samhita* is Ayurveda, with 120 chapters in 8 sections. It is not a Lokayata book.
+- Payasi and other “annihilationist” figures in Pali and Jain lists belong to the same Charvaka family.
+- **Charaka** the physician wrote the *Charaka Samhita* (Ayurveda) — a separate tradition from Lokayata.
 
 ---
 
