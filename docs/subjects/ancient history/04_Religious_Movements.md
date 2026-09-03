@@ -137,10 +137,18 @@ Bhagavatism = Vasudeva-Krishna, Mathura (UP) | Heliodorus pillar Besnagar
 
 **Ashtangika Marga | wisdom two | conduct three | concentration three**
 
-- The Eightfold Path is the **Ashtangika Marga**. It is grouped under wisdom, conduct, and concentration.
-- Under **prajna** (wisdom) come Right View (*samyag-drishti*) and Right Resolve (*samyak-sankalpa*).
-- Under **sila** (conduct) come Right Speech, Right Action, and Right Livelihood.
-- Under **samadhi** (concentration) come Right Effort, Right Mindfulness (*smriti*), and Right Concentration.
+| Group | Path factor | Sanskrit / Pali lock | What it means |
+|---|---|---|---|
+| **Prajna** (wisdom) | Right View | *samyag-drishti* | See the Four Noble Truths correctly |
+| **Prajna** (wisdom) | Right Resolve | *samyak-sankalpa* | Right intention and renunciation |
+| **Sila** (conduct) | Right Speech | *samyag-vac* | No lying, abuse, or idle harm |
+| **Sila** (conduct) | Right Action | *samyak-karmanta* | Moral bodily conduct |
+| **Sila** (conduct) | Right Livelihood | *samyag-ajiva* | Earn without harm |
+| **Samadhi** (concentration) | Right Effort | *samyag-vyayama* | Train the mind and restrain unwholesome states |
+| **Samadhi** (concentration) | Right Mindfulness | *samyak-smriti* | Constant awareness |
+| **Samadhi** (concentration) | Right Concentration | *samyak-samadhi* | Meditative absorption |
+
+- The Eightfold Path is the **Ashtangika Marga**.
 - Householders keep a floor of **panchasila**: no killing, no stealing, no sexual misconduct, no lying, and no intoxicants.
 - Monks take the full **Vinaya**, not only those five precepts.
 - Practising this path **is** the Middle Path in daily life.
