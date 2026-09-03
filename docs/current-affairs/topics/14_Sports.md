@@ -263,3 +263,467 @@ The **23rd** Commonwealth Games ended in **Glasgow, Scotland**. **Australia** to
 
 - Remember **Major Dhyan Chand**.
 - National slogan in coverage: **Khelega Bharat, Jeetega Bharat**.
+
+## Practice Zone — UPPCS Format
+
+> **20 questions** for this sheet only — drill after you revise the months above.  
+> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.  
+> Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
+
+**Exam logic:** Sports — T20 WC final locks (host / margin / firsts).
+
+**Q1.** With reference to the Men’s T20 World Cup final (March 2026), which of the following statements is/are correct?
+
+1. India defeated New Zealand in the final at Ahmedabad.
+2. India became the first host country to win the Men’s T20 World Cup.
+
+Select the correct answer from the code given below:
+
+A. Only 2  
+B. Neither 1 nor 2  
+C. Both 1 and 2  
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both locks appear in March CA. Trap: writing Melbourne/Lord’s as final venue.
+
+</details>
+
+---
+
+**Exam logic:** FIFA final — Spain beat Argentina (even if sports CA is thin lately, WC finals still appear).
+
+**Q2.** Who among the following won the FIFA World Cup final held in July 2026?
+
+A. Argentina  
+B. France  
+C. Spain  
+D. Brazil
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** **Spain** beat Argentina 1–0 after extra time (Ferran Torres). Trap: defaulting to the previous champion Argentina.
+
+</details>
+
+---
+
+**Exam logic:** CWG Glasgow — India rank / medals (sports CA still asked when mega-event falls in window).
+
+**Q3.** With reference to the Commonwealth Games at Glasgow (2026), which of the following statements is/are correct?
+
+1. India finished 4th with 39 medals (13 gold, 17 silver, 9 bronze) in coverage.
+2. Mirabai Chanu was India’s opening ceremony flag bearer in coverage.
+3. The Games mascot locked in coverage was Morveer.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) false — CWG mascot is **Finnie**; Morveer was linked with Khelo India Tribal Games coverage earlier. Trap: recycling tribal-games mascot into CWG.
+
+</details>
+
+---
+
+**Exam logic:** IPL 2026 final.
+
+**Q4.** With reference to IPL 2026, which of the following statements is/are correct?
+
+1. Royal Challengers Bengaluru defeated Gujarat Titans in the final.
+2. Virat Kohli scored an unbeaten 75 in the final coverage.
+3. The win was reported as a back-to-back title for RCB.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are May sports locks. Trap: writing Mumbai Indians as winners by habit.
+
+</details>
+
+---
+
+**Exam logic:** Thomas Cup / Uber Cup.
+
+**Q5.** Which of the following pairs is/are correctly matched for May 2026 badminton team events?
+
+1. Thomas Cup (men) — winner China  
+2. Uber Cup (women) — winner South Korea  
+3. Host of the event window — Denmark  
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Winner + host. Trap: swapping Thomas/Uber winners.
+
+</details>
+
+---
+
+**Exam logic:** FIFA WC hosts + mascots.
+
+**Q6.** With reference to the FIFA World Cup 2026, which of the following statements is/are correct?
+
+1. Hosts are the United States, Canada and Mexico.
+2. Mascots locked in coverage are Maple, Zayu and Clutch.
+3. The final was won by Argentina.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) false — **Spain** won the final. Trap: previous champion inertia.
+
+</details>
+
+---
+
+**Exam logic:** Women’s T20 WC final July.
+
+**Q7.** Who won the Women’s T20 World Cup final (5 July 2026 coverage)?
+
+A. England  
+B. India  
+C. Australia  
+D. New Zealand
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Australia beat England at Lord’s. Trap: writing India by default after men’s title.
+
+</details>
+
+---
+
+**Exam logic:** PV Sindhu Japan Open + Pragg Grand Chess Tour.
+
+**Q8.** Which of the following statements is/are correct?
+
+1. P. V. Sindhu’s Japan Open win was reported as a first for an Indian in that coverage window.
+2. R. Praggnanandhaa won the Grand Chess Tour in August 2026 coverage (first Indian reported).
+
+Select the correct answer from the code given below:
+
+A. Only 2  
+B. Neither 1 nor 2  
+C. Both 1 and 2  
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Sports “first” stems. Trap: swapping names with other Indian athletes.
+
+</details>
+
+---
+
+**Exam logic:** FIH Hockey World Cup winners August.
+
+**Q9.** Which of the following pairs is/are correctly matched for FIH Hockey World Cup coverage in 2026?
+
+1. Men’s winner — Belgium  
+2. Women’s winner — Argentina  
+3. Men’s winner — India  
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) false. Trap: home bias for India as men’s winner.
+
+</details>
+
+---
+
+**Exam logic:** Direct freight India–Nepal; Gabon/Togo CWG debut.
+
+**Q10.** Which of the following statements is/are correct?
+
+1. A direct commercial freight train path India → Nepal (Biratnagar) appeared in July coverage.
+2. Gabon and Togo debuted at the Commonwealth Games Glasgow in coverage.
+3. CWG Glasgow mascot was Finnie.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Neighbour infra + sports debuts. Trap: writing Kathmandu as the rail terminal instead of Biratnagar.
+
+</details>
+
+---
+
+**Exam logic:** T20 final scoreboard soft.
+
+**Q11.** With reference to Men’s T20 WC final 2026, which of the following statements is/are correct?
+
+1. India 255/5 vs NZ 159; margin 96 runs in coverage.
+2. Venue Ahmedabad.
+3. Venue Lord’s only.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Ahmedabad.
+
+</details>
+
+---
+
+**Exam logic:** Ferran Torres Spain winner.
+
+**Q12.** Which of the following statements is/are correct?
+
+1. Spain beat Argentina 1–0 after extra time.
+2. Ferran Torres scored in coverage.
+3. Argentina won 2026 as well.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) false.
+
+</details>
+
+---
+
+**Exam logic:** Ellyse Perry multi-trophy soft.
+
+**Q13.** Which of the following statements is/are correct?
+
+1. Australia won Women’s T20 WC; Ellyse Perry unique multi-trophy feat in coverage.
+2. Final at Lord’s.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both true.
+
+</details>
+
+---
+
+**Exam logic:** IPL RCB back-to-back third franchise.
+
+**Q14.** Which of the following statements is/are correct?
+
+1. RCB beat Gujarat Titans.
+2. Only third side after CSK and MI to win back-to-back.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both true.
+
+</details>
+
+---
+
+**Exam logic:** Thomas Uber Denmark host.
+
+**Q15.** Which of the following statements is/are correct?
+
+1. Thomas Cup winner China; Uber Cup winner South Korea.
+2. Host window Denmark.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both true.
+
+</details>
+
+---
+
+**Exam logic:** FIFA mascots Maple Zayu Clutch.
+
+**Q16.** Which of the following statements is/are correct?
+
+1. Hosts USA–Canada–Mexico.
+2. Mascots Maple, Zayu, Clutch.
+3. Mascot only Finnie.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Finnie = CWG.
+
+</details>
+
+---
+
+**Exam logic:** CWG India 13G-17S-9B.
+
+**Q17.** Which of the following statements is/are correct?
+
+1. India 4th with 39 medals (13G–17S–9B).
+2. Mirabai Chanu opening flag bearer.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both true.
+
+</details>
+
+---
+
+**Exam logic:** FIH Belgium Argentina.
+
+**Q18.** Which of the following statements is/are correct?
+
+1. Men’s FIH WC winner Belgium.
+2. Women’s FIH WC winner Argentina.
+3. Men’s winner India.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) false.
+
+</details>
+
+---
+
+**Exam logic:** Pragg Grand Chess Tour.
+
+**Q19.** Which of the following statements is/are correct?
+
+1. Praggnanandhaa won Grand Chess Tour (first Indian reported).
+2. Anand covered as Interim FIDE President.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both true.
+
+</details>
+
+---
+
+**Exam logic:** Khelo India Tribal Games Morveer.
+
+**Q20.** Which of the following statements is/are correct?
+
+1. Khelo India Tribal Games (Chhattisgarh) mascot Morveer in coverage.
+2. CWG mascot is also Morveer.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** CWG = Finnie.
+
+</details>

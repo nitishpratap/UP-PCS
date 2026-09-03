@@ -52,8 +52,8 @@ Use it in three situations:
 [**Master lock tables**
 <span>Ramsar chain, VB-G vs MGNREGA, big money schemes, confused pairs, day themes.</span>](topics/00_Master_Tables.md){ .study-card }
 
-[**Practice Zone (Jan–Aug 2026)**
-<span>40 stems in 2024–25 UPPCS formats — multi-statement, Match, NOT-matched, A/R, chronology.</span>](topics/15_Practice_Zone.md){ .study-card }
+[**Practice Zone hub**
+<span>Questions sit at the bottom of each topic sheet — open the hub for counts and links.</span>](topics/15_Practice_Zone.md){ .study-card }
 
 [**January 2026 digest**
 <span>India–EU FTA, Padma 2026, LR-AShM, Ramsar, Sampoornata 2.0, SWM Rules.</span>](topics/months/2026-01.md){ .study-card }

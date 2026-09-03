@@ -166,3 +166,462 @@ Independence Day speeches also spoke about wider free hospital cover under **Ayu
 ### Soft youth day
 
 **International Youth Day** falls on **12 August**. The 2026 theme was **Different Contexts, Common Aspirations**.
+
+## Practice Zone — UPPCS Format
+
+> **20 questions** for this sheet only — drill after you revise the months above.  
+> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.  
+> Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
+
+**Exam logic:** Yoga Day theme only.
+
+**Q1.** The theme of International Day of Yoga 2026 was:
+
+A. Yoga for Vasudhaiva Kutumbakam  
+B. Yoga for Healthy Ageing  
+C. Yoga for Humanity  
+D. Yoga for Heart Health
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Direct day–theme recall. Trap: older Yoga Day themes.
+
+</details>
+
+---
+
+**Exam logic:** World Zoonoses Day theme.
+
+**Q2.** The 2026 theme of World Zoonoses Day locked in coverage is:
+
+A. One World, One Health: Prevent Zoonoses  
+B. Our Power, Our Planet  
+C. Acting locally for global impact  
+D. Wetlands and traditional knowledge
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Direct theme recall. Trap: recycling Earth Day / Biodiversity themes.
+
+</details>
+
+---
+
+**Exam logic:** WHO Health Day vs Ebola emergency (May soft health).
+
+**Q3.** Which of the following statements is/are correct?
+
+1. World Health Day 2026 theme locked as “Together for health. Stand with science.”
+2. May coverage linked a WHO Ebola emergency concern with DRC and Uganda.
+3. World Health Day is observed on 22 April.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) false — Health Day is **7 April**; 22 April is Earth Day. Trap: day collision.
+
+</details>
+
+---
+
+**Exam logic:** WHO / Ayush soft health from Budget.
+
+**Q4.** With reference to health institutes in Budget / early-2026 coverage, which of the following statements is/are correct?
+
+1. NIMHANS-2 in North India was spoken of in Budget-linked health messaging.
+2. Three All India Institutes of Ayurveda and a Jamnagar WHO centre upgrade appeared in coverage.
+3. Biopharma SHAKTI included a target of 1,000+ clinical trial sites in coverage.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Health CA is thin post-COVID but Budget clusters still appear. Trap: putting NIMHANS-2 in Bengaluru only by habit.
+
+</details>
+
+---
+**Exam logic:** NIMHANS-2 / Ayurveda institutes / Jamnagar WHO centre.
+
+**Q5.** With reference to Budget 2026–27 health messaging, which of the following statements is/are correct?
+
+1. NIMHANS-2 was proposed for North India.
+2. Three new All India Institutes of Ayurveda were proposed.
+3. The WHO Global Traditional Medicine Centre at Jamnagar is to be upgraded.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Soft health cluster. Trap: putting NIMHANS-2 only in Bengaluru by habit.
+
+</details>
+
+---
+
+**Exam logic:** Biopharma SHAKTI trial sites + NIPER.
+
+**Q6.** With reference to Biopharma SHAKTI, which of the following statements is/are correct?
+
+1. Outlay locked at ₹10,000 crore over five years.
+2. Coverage spoke of three new NIPER institutes and upgrading seven older ones.
+3. Coverage spoke of 1,000+ clinical trial sites.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Health–scheme hybrid. Trap: equating with old PLI Pharma only.
+
+</details>
+
+---
+
+**Exam logic:** World Health Day date 7 April.
+
+**Q7.** Which of the following statements is/are correct?
+
+1. World Health Day is 7 April.
+2. 2026 theme: Together for health. Stand with science.
+3. World Health Day is 22 April.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 22 April = Earth Day.
+
+</details>
+
+---
+
+**Exam logic:** Yoga Day health sheet.
+
+**Q8.** Which of the following statements is/are correct?
+
+1. International Day of Yoga is 21 June.
+2. 2026 theme: Yoga for Healthy Ageing.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both true.
+
+</details>
+
+---
+
+**Exam logic:** Zoonoses Day One Health.
+
+**Q9.** Which of the following statements is/are correct?
+
+1. World Zoonoses Day theme: One World, One Health: Prevent Zoonoses.
+2. Date locked 6 July in day board.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both true.
+
+</details>
+
+---
+
+**Exam logic:** Ebola WHO emergency DRC Uganda.
+
+**Q10.** Which of the following statements is/are correct?
+
+1. May coverage linked WHO Ebola emergency concern with DRC and Uganda.
+2. It redesignated Surha Tal as a WHO site.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** (2) false.
+
+</details>
+
+---
+
+**Exam logic:** Medical tourism five regional hubs.
+
+**Q11.** Which of the following statements is/are correct?
+
+1. Budget scheme helps states set up five Regional Medical Hubs with private partnership.
+2. Hubs combine treatment, education, research, AYUSH, post-care.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both true.
+
+</details>
+
+---
+
+**Exam logic:** Allied health 1 lakh professionals.
+
+**Q12.** Which of the following statements is/are correct?
+
+1. Target add about 1,00,000 Allied Health Professionals over five years.
+2. About 1.5 lakh caregivers to be trained in the coming year.
+3. Target is 1 crore doctors in one year.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) invented.
+
+</details>
+
+---
+
+**Exam logic:** Youth Day theme Aug health-adjacent.
+
+**Q13.** Which of the following statements is/are correct?
+
+1. International Youth Day 12 August theme: Different Contexts, Common Aspirations.
+2. It is observed on 15 August.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** 12 Aug.
+
+</details>
+
+---
+
+**Exam logic:** CDSCO stronger under Biopharma SHAKTI.
+
+**Q14.** Which of the following statements is/are correct?
+
+1. Biopharma SHAKTI messaging includes stronger CDSCO.
+2. Outlay ₹10,000 crore / 5 years.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both true.
+
+</details>
+
+---
+
+**Exam logic:** Mental health NIMHANS-2.
+
+**Q15.** Which of the following statements is/are correct?
+
+1. NIMHANS-2 proposed for North India.
+2. It replaces AIIMS Delhi entirely.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** (2) false.
+
+</details>
+
+---
+
+**Exam logic:** Optometry radiology allied disciplines.
+
+**Q16.** Which of the following statements is/are correct?
+
+1. About 10 selected allied disciplines include optometry, radiology, anaesthesia technology.
+2. Allied health upgrades appear in Budget health messaging.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both true.
+
+</details>
+
+---
+
+**Exam logic:** Ayush Anudan Portal soft.
+
+**Q17.** Which of the following statements is/are correct?
+
+1. Ayush Anudan Portal launched for end-to-end scheme funding (Ministry of Ayush).
+2. It replaces the Union Health Ministry.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** (2) false.
+
+</details>
+
+---
+
+**Exam logic:** WHO traditional medicine Jamnagar.
+
+**Q18.** Which of the following statements is/are correct?
+
+1. WHO Global Traditional Medicine Centre at Jamnagar to be upgraded.
+2. Three new AIIA proposed.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both true.
+
+</details>
+
+---
+
+**Exam logic:** Stand with science Health Day.
+
+**Q19.** Which of the following statements is/are correct?
+
+1. Health Day 2026 theme includes Stand with science.
+2. Earth Day theme is Our Power, Our Planet.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both true — day collision drill.
+
+</details>
+
+---
+
+**Exam logic:** Prevent Zoonoses wording.
+
+**Q20.** Which of the following statements is/are correct?
+
+1. Zoonoses Day theme includes Prevent Zoonoses.
+2. Theme is identical to WED 2026 Inspired by Nature…
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** (2) false.
+
+</details>

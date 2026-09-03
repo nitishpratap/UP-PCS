@@ -297,3 +297,477 @@ In Tashkent, President **Shavkat Mirziyoyev** conferred Uzbekistan’s supreme s
 ### Soft grassland guide at UNCCD COP17
 
 India launched the first **Guide to Grasslands and Other Open Natural Ecosystems of India** at the **17th** session of **UNCCD COP17** in **Ulaanbaatar, Mongolia**. Full soft environment card → [Environment](05_Environment_Days.md).
+
+## Practice Zone — UPPCS Format
+
+> **20 questions** for this sheet only — drill after you revise the months above.  
+> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.  
+> Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
+
+**Exam logic:** Two-statement trap on India–EU January meeting — FTA status vs defence/mobility MoUs.
+
+**Q1.** With reference to the India–European Union meeting held in January 2026, which of the following statements is/are correct?
+
+1. Both sides announced that the Free Trade Agreement talks had been concluded.
+2. The Free Trade Agreement itself entered into force on 27 January 2026.
+
+Select the correct answer from the code given below:
+
+A. Only 2  
+B. Neither 1 nor 2  
+C. Both 1 and 2  
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Statement 1 is true (talks finished / concluded messaging). Statement 2 is false — entry into force is a later legal step, not automatic on 27 January. Trap: treating “talks concluded” as “already in force”.
+
+</details>
+
+---
+
+**Exam logic:** Venue + Sutras of AI Impact Summit; distractors Hyderabad/Mumbai and wrong pillars.
+
+**Q2.** With reference to the India–AI Impact Summit 2026, which of the following statements is/are correct?
+
+1. It was held at Bharat Mandapam, New Delhi.
+2. Its three Sutras (pillars) were People, Planet and Progress.
+
+Select the correct answer from the code given below:
+
+A. Only 2  
+B. Neither 1 nor 2  
+C. Both 1 and 2  
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both locks are correct. Trap: shifting venue to Hyderabad/Mumbai or replacing Sutras with random tech buzzwords.
+
+</details>
+
+---
+
+**Exam logic:** CETA vs DCC — same date, different nature (FTA extra locks).
+
+**Q3.** With reference to India–United Kingdom agreements that entered into force on 15 July 2026, which of the following statements is/are correct?
+
+1. CETA is the Comprehensive Economic and Trade Agreement.
+2. DCC is a social-security related Double Contribution Convention.
+3. Oman’s trade deal with India, which entered force in June 2026, is also called CETA.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (1) and (2) true. (3) false — Oman deal is **CEPA**, not CETA. Trap: using CETA as a generic label for every trade pact.
+
+</details>
+
+---
+
+**Exam logic:** IBCA — Saudi as 26th / first Arab member.
+
+**Q4.** With reference to the International Big Cat Alliance (IBCA), which of the following statements is/are correct?
+
+1. Saudi Arabia joined IBCA in May 2026 as its 26th member.
+2. Coverage described Saudi Arabia as the first Arab member of IBCA.
+3. The IBCA Summit planned for early June 2026 in New Delhi was held exactly on schedule.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (1) and (2) true. (3) false — the summit was **rescheduled / postponed**. Trap: assuming every announced summit date was kept.
+
+</details>
+
+---
+
+**Exam logic:** India–EU — NDMA partner and leaders (org / personality trap).
+
+**Q5.** With reference to the India–EU leaders’ meeting (January 2026), which of the following statements is/are correct?
+
+1. António Costa (European Council) and Ursula von der Leyen (European Commission) visited India.
+2. India’s NDMA signed a disaster-cooperation arrangement with the EU’s DG-ECHO.
+3. NDMA signed the same arrangement with NATO.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) is the classic wrong partner. Trap: swapping Costa / von der Leyen roles or inserting NATO.
+
+</details>
+
+---
+
+**Exam logic:** WTO MC14 venue + outcome.
+
+**Q6.** With reference to WTO Ministerial Conference 14 (MC14), which of the following statements is/are correct?
+
+1. It was held in Yaoundé, Cameroon.
+2. The meeting ended without a big binding deal on several hard issues.
+3. India supported pushing the Investment Facilitation for Development (IFD) agreement in the way some members wanted.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) false — India (with partners such as South Africa in coverage) **opposed** that IFD push. Trap: Geneva as venue.
+
+</details>
+
+---
+
+**Exam logic:** India–Korea Summit April 2026.
+
+**Q7.** With reference to the India–Republic of Korea Summit (April 2026), which of the following statements is/are correct?
+
+1. Coverage linked the visit with President Lee Jae-myung.
+2. Talks stressed semiconductors, shipbuilding and batteries, plus a CEPA review.
+3. The India–Korea CEPA first entered force only in 2026.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) false — CEPA has been in force since **2010**; 2026 news is **review**. Trap: treating every CEPA headline as a brand-new deal.
+
+</details>
+
+---
+
+**Exam logic:** G7 host + theme; Operation Amistad.
+
+**Q8.** With reference to June 2026 international coverage, which of the following statements is/are correct?
+
+1. The G7 Summit was hosted by France.
+2. Operation Amistad was India’s HADR mission for Venezuela using IAF C-17 aircraft in coverage.
+3. The G7 Summit was hosted by Italy.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) contradicts (1). Trap: recycling an older G7 host year.
+
+</details>
+
+---
+
+**Exam logic:** Seychelles honour + Oman CEPA timing.
+
+**Q9.** With reference to June 2026 diplomacy / trade, which of the following statements is/are correct?
+
+1. PM Modi received the Guardian of the Blue Horizon honour from Seychelles in coverage.
+2. India–Oman CEPA entered into force around early June 2026.
+3. India–UK CETA also entered into force in early June 2026.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** UK CETA is **15 July**. Trap: bundling all trade deals into June.
+
+</details>
+
+---
+
+**Exam logic:** Hormuz soft understanding — Iran–Oman.
+
+**Q10.** With reference to soft West Asia coverage in August 2026, which of the following statements is/are correct?
+
+1. A roughly 60-day Hormuz reopen understanding was linked with Iran and Oman in coverage.
+2. The same understanding was described as a binding UN Security Council resolution already enforced.
+
+Select the correct answer from the code given below:
+
+A. Only 2  
+B. Neither 1 nor 2  
+C. Both 1 and 2  
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Soft IR — do not upgrade MoU-style language into a binding UNSC resolution. Trap: over-legalising soft coverage.
+
+</details>
+
+---
+
+**Exam logic:** Pax Silica + GPAI at AI Summit.
+
+**Q11.** With reference to the India–AI Impact Summit 2026, which of the following statements is/are correct?
+
+1. India joined the US-led Pax Silica Declaration on safer critical-mineral / semiconductor / AI infrastructure supply chains.
+2. Closing days included GPAI Council meetings in coverage.
+3. The summit’s three Sutras were Land, Labour and Capital.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Sutras are **People, Planet, Progress**. Trap: economics triad as fake Sutras.
+
+</details>
+
+---
+
+**Exam logic:** India–EU Green Hydrogen Task Force + Horizon Europe exploratory talks.
+
+**Q12.** With reference to India–EU January 2026 outcomes, which of the following statements is/are correct?
+
+1. A Green Hydrogen Task Force was set up.
+2. Exploratory talks began on India linking with Horizon Europe.
+3. NDMA partnered with NATO for disaster response.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) false — partner is **DG-ECHO**.
+
+</details>
+
+---
+
+**Exam logic:** Pax Silica is supply-chain / critical minerals — not a climate treaty.
+
+**Q13.** With reference to Pax Silica (AI Summit window), which of the following statements is/are correct?
+
+1. India joined the US-led Pax Silica Declaration.
+2. It focuses on safer supply chains for critical minerals, semiconductors and AI infrastructure.
+3. It replaces the Paris Agreement.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) invents a climate-treaty swap.
+
+</details>
+
+---
+
+**Exam logic:** G7 membership recall.
+
+**Q14.** Which of the following is/are G7 members?
+
+1. Canada and Japan
+2. India and Brazil
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** India/Brazil are not G7 members. Trap: BRICS confusion.
+
+</details>
+
+---
+
+**Exam logic:** Islamabad MoU soft IR — mediator Pakistan; IAEA monitoring language.
+
+**Q15.** With reference to the Islamabad MoU coverage (June 2026), which of the following statements is/are correct?
+
+1. Pakistan was often named as mediator.
+2. IAEA was named in nuclear-monitoring language.
+3. It was a binding UNSC Chapter VII resolution.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) over-legalises soft coverage.
+
+</details>
+
+---
+
+**Exam logic:** Operation Amistad Venezuela HADR.
+
+**Q16.** With reference to Operation Amistad, which of the following statements is/are correct?
+
+1. It was India’s HADR mission after earthquakes in Venezuela.
+2. Coverage spoke of IAF C-17 Globemaster aircraft.
+3. It was a naval blockade of the Caribbean.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) invents a military blockade.
+
+</details>
+
+---
+
+**Exam logic:** Uzbekistan honour name lock.
+
+**Q17.** Which honour did PM Modi receive in Uzbekistan (August 2026 coverage)?
+
+A. Order of the White Double Cross
+B. Order of Oliy Darajali Dustlik
+C. Bintang Adipurna
+D. Guardian of the Blue Horizon
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Dustlik = Uzbekistan. Others are Slovakia / Indonesia / Seychelles.
+
+</details>
+
+---
+
+**Exam logic:** IBCA summit theme / Delhi Declaration expectation.
+
+**Q18.** With reference to the postponed IBCA Summit (June window), which of the following statements is/are correct?
+
+1. Theme planned: Save Big Cats, Save Humanity, Save Ecosystem.
+2. An expected outcome named earlier was a Delhi Declaration.
+3. The summit was held exactly on 1–2 June 2026 as first announced.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) false — rescheduled.
+
+</details>
+
+---
+
+**Exam logic:** India–Oman CEPA duty-free share idea.
+
+**Q19.** With reference to India–Oman CEPA, which of the following statements is/are correct?
+
+1. It entered into force around early June 2026.
+2. Explainers put duty-free access near 99% of Indian export trade value.
+3. It is identical to the India–UK CETA.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) CEPA ≠ CETA.
+
+</details>
+
+---
+
+**Exam logic:** WTO MC14 Africa second ministerial.
+
+**Q20.** With reference to WTO MC14, which of the following statements is/are correct?
+
+1. It was only the second WTO ministerial meeting held in Africa in coverage.
+2. Venue was Yaoundé, Cameroon.
+3. Venue was Nairobi, Kenya.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) wrong African capital.
+
+</details>

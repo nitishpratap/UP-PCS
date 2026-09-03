@@ -86,6 +86,7 @@ Money figures are collected in [Economy / Budget / Trade](10_Economy_Budget_Trad
 ### Semiconductor and electronics
 
 - **India Semiconductor Mission (ISM) 2.0** will be launched. It focuses on equipment, materials, Indian intellectual property, and supply chains. It builds on ISM 1.0.
+- Budget-time messaging did **not** lock the final ₹1.27 lakh crore Cabinet outlay yet — that came later (July 2026). See July card below.
 - The **Electronics Components Manufacturing Scheme** outlay was raised to **₹40,000 crore** (it was ₹22,919 crore when launched in April 2025).
 
 ### Minerals, chemicals, containers, textiles
@@ -287,6 +288,22 @@ Odisha launched a **GO-EAST** investment facilitation push (Government of Odisha
 
 ## July 2026
 
+### Semicon 2.0 / India Semiconductor Mission 2.0 | Cabinet ~15 July 2026
+
+**What happened**  
+The Union Cabinet approved **Semicon 2.0** (India Semiconductor Mission 2.0) to widen India’s chip design and manufacturing ecosystem beyond the first ISM phase.
+
+**Core locks**
+
+- Outlay: **₹1,27,500 crore** (about **₹1.27 lakh crore**).
+- Builds on Semicon / ISM **1.0** (about **₹76,000 crore** in earlier foundation messaging).
+- Six pillars in coverage: chip design; equipment and materials; fabrication; advanced packaging; R&D; talent.
+- Nodal idea: **India Semiconductor Mission (ISM)** under **MeitY**.
+- Soft follow-up: detailed notification / eligibility guidelines appeared around **end-August 2026** (fab support often locked near **40%** of eligible capex for silicon wafer fabs in explainers).
+
+!!! trap "Easy wrong options"
+    Writing the Semicon 2.0 outlay as ₹76,000 crore (that is the older 1.0 band). Mixing Semicon 2.0 with Biopharma SHAKTI’s ₹10,000 crore.
+
 ### VB-G RAM G Act | in force 1 July 2026 | national launch 2 July
 
 **What happened**  
@@ -393,3 +410,483 @@ On India’s **80th** Independence Day, PM Modi delivered his **13th** consecuti
 ### Soft soil map
 
 The **National Bureau of Soil Survey and Land Use Planning** released India’s first national **soil texture map** using remote sensing, for crop choice and farm planning.
+
+## Practice Zone — UPPCS Format
+
+> **20 questions** for this sheet only — drill after you revise the months above.  
+> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.  
+> Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
+
+**Exam logic:** VB-G RAM G vs MGNREGA — days, date, replacement (scheme false-statement machine).
+
+**Q1.** With reference to VB-G RAM G, which of the following statements is/are correct?
+
+1. It provides a wage employment guarantee of up to 125 days.
+2. It came into force from 1 July 2026 and replaces the older MGNREGS framework.
+3. The national launch was held at Mukkavaripalli in Tirupati district, Andhra Pradesh.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are core locks. Trap variant: keeping “100 days” or shifting force date to 15 August.
+
+</details>
+
+---
+
+**A/R logic:** A tests day-count change; R tests funding pattern — both true but R does not explain why days rose to 125.
+
+**Q2.** Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
+
+**Assertion (A):** Under VB-G RAM G, the rural wage employment guarantee rises to 125 days.
+
+**Reason (R):** For most states, VB-G RAM G follows about a 60:40 Centre–State funding pattern.
+
+Select the correct answer from the code given below:
+
+A. Both (A) and (R) are true, but (R) is not the correct explanation of (A)  
+B. (A) is false, but (R) is true  
+C. (A) is true, but (R) is false  
+D. Both (A) and (R) are true and (R) is the correct explanation of (A)
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Both facts are true, but funding ratio does not explain the rise from 100 to 125 days. Trap: picking D because both lines look “scheme-like”.
+
+</details>
+
+---
+
+**Exam logic:** Census 2027 Phase-1 locks — digital + self-fill; Phase-2 timing.
+
+**Q3.** With reference to Census 2027, which of the following statements is/are correct?
+
+1. Phase 1 beginning around 1 April 2026 is India’s first fully digital Census exercise with a self-enumeration path.
+2. Population enumeration with caste details is scheduled in Phase 1 itself in April 2026.
+
+Select the correct answer from the code given below:
+
+A. Only 2  
+B. Neither 1 nor 2  
+C. Both 1 and 2  
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Statement 1 is true. Statement 2 is false — people count / caste enumeration is linked with **Phase 2 (around February 2027)**, not Phase 1 housing list. Trap: compressing both phases into April 2026.
+
+</details>
+
+---
+
+**Exam logic:** Scheme money / ministry-style incorrect statement.
+
+**Q4.** Which of the following pairs is/are **NOT** correctly matched?
+
+1. SARTHAK-PDS — about ₹25,530 crore over five years  
+2. Modified UDAN (2026–36) — about ₹28,840 crore  
+3. Samudra Manthan — floating solar mission of about ₹5,070 crore  
+
+Select the correct answer from the code given below:
+
+A. Only 3  
+B. 1 and 2  
+C. 2 and 3  
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Pair 3 is wrong — **Samudra Manthan** is deep-sea oil & gas (~₹84,084 crore). Floating solar is **PM Surya Sarovar**. Pairs 1 and 2 are correct.
+
+</details>
+
+---
+
+**Exam logic:** RELIEF vs farm subsidy confusion.
+
+**Q5.** With reference to the RELIEF package announced in March 2026 coverage, which of the following statements is/are correct?
+
+1. It is meant to support exporters facing conflict-related risk, with ECGC-linked support in coverage.
+2. Its size was spoken of at about ₹497 crore.
+3. It is a fertiliser subsidy scheme for Kharif P&K nutrients.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) confuses RELIEF with **NBS** fertiliser (~₹41,534 crore). Classic scheme-name mix-up.
+
+</details>
+
+---
+
+**Exam logic:** Biopharma SHAKTI Budget scheme locks.
+
+**Q6.** With reference to Biopharma SHAKTI announced with the Union Budget 2026–27, which of the following statements is/are correct?
+
+1. The outlay locked in Budget messaging is ₹10,000 crore over five years.
+2. Coverage spoke of three new NIPER institutes and upgrading seven older ones.
+
+Select the correct answer from the code given below:
+
+A. Only 2  
+B. Neither 1 nor 2  
+C. Both 1 and 2  
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Money + institute counts. Trap: equating it with older PLI Pharma without the new ₹10,000 crore lock.
+
+</details>
+
+---
+
+**Exam logic:** Sampoornata Abhiyan 2.0 — NITI, dates, district/block counts.
+
+**Q7.** With reference to Sampoornata Abhiyan 2.0, which of the following statements is/are correct?
+
+1. It is a NITI Aayog drive launched on 28 January 2026.
+2. Coverage locked about 112 districts and 513 blocks.
+3. The drive window in coverage ran till about 14 April 2026.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are January scheme locks. Trap: putting the scheme under Ministry of Rural Development instead of NITI.
+
+</details>
+
+---
+
+**Exam logic:** 16th Finance Commission chair + grants.
+
+**Q8.** With reference to the 16th Finance Commission (Budget 2026–27 coverage), which of the following statements is/are correct?
+
+1. Its Chairperson locked in coverage is Arvind Panagariya.
+2. Grants to states for FY 2026–27 were spoken of at about ₹1.4 lakh crore.
+
+Select the correct answer from the code given below:
+
+A. Only 2  
+B. Neither 1 nor 2  
+C. Both 1 and 2  
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Chair + money. Trap: inserting N. K. Singh or an older FC chair.
+
+</details>
+
+---
+
+**Exam logic:** IVFRT ministry + outlay period.
+
+**Q9.** With reference to the IVFRT scheme (2026–31 coverage), which of the following statements is/are correct?
+
+1. It relates to visa / foreigner tracking systems.
+2. Outlay locked in coverage is about ₹1,800 crore.
+3. It is administered as a Ministry of External Affairs–only scheme with no Home Ministry role in coverage.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Coverage links IVFRT with **Home Ministry**. (3) is false. Trap: shifting every “foreigner” scheme automatically to MEA.
+
+</details>
+
+---
+
+**Exam logic:** NBS Kharif — fertiliser subsidy window.
+
+**Q10.** With reference to Nutrient Based Subsidy for Kharif 2026, which of the following statements is/are correct?
+
+1. The outlay locked in coverage is about ₹41,534 crore.
+2. It covers P&K fertilisers for the window 1 April to 30 September 2026.
+3. It is identical to the RELIEF exporter support package.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) confuses farm subsidy with exporter RELIEF. Classic scheme-name collision.
+
+</details>
+
+---
+
+**Exam logic:** ECLGS 5.0 credit target.
+
+**Q11.** With reference to ECLGS 5.0 (May 2026 Cabinet coverage), which of the following statements is/are correct?
+
+1. It is an emergency credit line / credit guarantee style support for businesses.
+2. The credit target locked in coverage is about ₹2.55 lakh crore.
+3. The same figure is the Defence Acquisition Council AoN of March 2026.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** DAC AoN is about **₹2.38 lakh crore** — close but different. Trap designed for number collision.
+
+</details>
+
+---
+
+**Exam logic:** PM-KISAN extension money + Khelo India.
+
+**Q12.** With reference to the late-July 2026 Cabinet window, which of the following statements is/are correct?
+
+1. PM-KISAN extension coverage locked about ₹3.15 lakh crore for 2026–31.
+2. Revamped Khelo India outlay in Cabinet coverage was about ₹36,441 crore.
+3. PM Surya Sarovar targets about 5,000 MW floating solar with about ₹5,070 crore support.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Three separate Cabinet locks — do not merge names. Trap: attaching Surya Sarovar money to Samudra Manthan.
+
+</details>
+
+---
+
+**Exam logic:** I-Day number locks cluster.
+
+**Q13.** With reference to Independence Day 2026 number locks, which of the following statements is/are correct?
+
+1. AI training target for youth locked at 1 crore.
+2. Lakhpati Didi target locked at 6 crore.
+3. Semiconductor plants aim locked at about 7–8 plants in coverage.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Memorise as a trio with nuclear 100 GW. Trap: swapping 1 crore / 6 crore.
+
+</details>
+
+---
+
+**Exam logic:** VB-G funding special category.
+
+**Q14.** With reference to VB-G RAM G funding, which of the following statements is/are correct?
+
+1. For most states the Centre–State pattern is about 60:40.
+2. For NE / Himalayan states and UTs with legislature, coverage spoke of about 90:10.
+3. Farm-season pause of up to about 60 days is allowed in the new framework.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Deeper than “125 days only”. Trap: writing 90:10 for all states.
+
+</details>
+
+---
+
+**Exam logic:** NOT matched — scheme ↔ ministry / nature.
+
+**Q15.** Which of the following pairs is/are **NOT** correctly matched?
+
+1. SARTHAK-PDS — modernise foodgrain delivery logistics and tech  
+2. Samudra Manthan — National Offshore Exploration (oil & gas)  
+3. PM Surya Sarovar — deep-sea oil exploration till FY31  
+
+Select the correct answer from the code given below:
+
+A. Only 3  
+B. 1 and 2  
+C. 2 and 3  
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Pair 3 swaps Surya Sarovar (floating solar) with Samudra Manthan. Pairs 1 and 2 are correct.
+
+</details>
+
+---
+
+**Exam logic:** Semicon 2.0 outlay vs ISM 1.0.
+
+**Q16.** With reference to Semicon 2.0 / ISM 2.0, which of the following statements is/are correct?
+
+1. Cabinet outlay locked at ₹1,27,500 crore.
+2. It builds on an older ISM 1.0 band often put near ₹76,000 crore.
+3. The Semicon 2.0 outlay is ₹10,000 crore over five years.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) confuses Biopharma SHAKTI.
+
+</details>
+
+---
+
+**Exam logic:** Sampoornata links ADP/ABP.
+
+**Q17.** With reference to Sampoornata Abhiyan 2.0, which of the following statements is/are correct?
+
+1. It is linked with Aspirational Districts and Aspirational Blocks programmes.
+2. Runner is NITI Aayog.
+3. It replaces the Census of India.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) invents a census swap.
+
+</details>
+
+---
+
+**Exam logic:** PM-RKVY merger money.
+
+**Q18.** With reference to the January farm-scheme merger idea into PM-RKVY, which of the following statements is/are correct?
+
+1. About ₹1.75 lakh crore over five years appeared in coverage.
+2. It merges three farm schemes in the messaging.
+3. It is identical to VB-G RAM G.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) different rural schemes.
+
+</details>
+
+---
+
+**Exam logic:** Container Manufacturing + CCUS Budget cluster.
+
+**Q19.** Which of the following statements is/are correct for Budget 2026–27 scheme messaging?
+
+1. Container Manufacturing scheme: about ₹10,000 crore / 5 years.
+2. CCUS: about ₹20,000 crore / 5 years.
+3. CCUS outlay is ₹1,27,500 crore.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) Semicon figure collision.
+
+</details>
+
+---
+
+**Exam logic:** Electronics Components Manufacturing raise.
+
+**Q20.** With reference to Electronics Components Manufacturing (Budget 2026–27), which of the following statements is/are correct?
+
+1. Outlay was raised to about ₹40,000 crore in coverage.
+2. It sits in the semiconductor / electronics Budget cluster.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both true.
+
+</details>

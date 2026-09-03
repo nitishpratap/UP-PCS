@@ -357,3 +357,483 @@ The first **fully indigenous** AK-203 assault rifle, named **Sher**, was manufac
 
 - **INS Nipun** — second **Nistar-class** Diving Support Vessel, built by **Hindustan Shipyard Limited**, Visakhapatnam.
 - **EOD Exercise 2026** (8th edition) — India and USA explosive ordnance disposal drills at Southern Naval Command, **Kochi**.
+
+## Practice Zone — UPPCS Format
+
+> **20 questions** for this sheet only — drill after you revise the months above.  
+> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.  
+> Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
+
+**Exam logic:** PFBR Kalpakkam — MOX vs thorium trap (science false second sentence).
+
+**Q1.** With reference to the Prototype Fast Breeder Reactor (PFBR) at Kalpakkam, which of the following statements is/are correct?
+
+1. It achieved first criticality in April 2026.
+2. First criticality was achieved using thorium as the primary fuel.
+
+Select the correct answer from the code given below:
+
+A. Only 2  
+B. Neither 1 nor 2  
+C. Both 1 and 2  
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Statement 1 is true. Statement 2 is false — criticality used **MOX** fuel; thorium belongs to a later stage of India’s three-stage nuclear plan. Trap: equating “Stage-2 bridge to thorium” with “already running on thorium”.
+
+</details>
+
+---
+
+**Exam logic:** NavIC vs GPS identity.
+
+**Q2.** With reference to NavIC / IRNSS developments in March 2026, which of the following statements is/are correct?
+
+1. NavIC is India’s regional navigation satellite system.
+2. Failure of the atomic clock on IRNSS-1F reduced the number of positioning satellites below the minimum of four.
+
+Select the correct answer from the code given below:
+
+A. Only 2  
+B. Neither 1 nor 2  
+C. Both 1 and 2  
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both are correct locks. Trap: calling NavIC a substitute name for US GPS.
+
+</details>
+
+---
+
+**Exam logic:** Kusha is SAM / air defence, not Agni-class ballistic.
+
+**Q3.** Which of the following pairs is/are **NOT** correctly matched?
+
+1. Project Kusha — long-range air-defence SAM  
+2. LR-AShM — hypersonic anti-ship missile displayed around Republic Day 2026  
+3. Project Kusha — Agni-series ballistic missile with MIRV  
+
+Select the correct answer from the code given below:
+
+A. Only 3  
+B. 1 and 2  
+C. 2 and 3  
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Pair 3 is wrong. Kusha is air-defence; Agni MIRV is a separate May 2026 defence story. Pairs 1 and 2 are correct.
+
+</details>
+
+---
+
+**Exam logic:** Match missile / platform ↔ identity.
+
+**Q4.** Match List-I with List-II and select the correct answer using the code given below the lists.
+
+| List-I | List-II |
+|--------|---------|
+| A. INS Aridhaman | 1. First privately developed Indian orbital-class rocket (Vikram-1) |
+| B. NASM-SR | 2. Third indigenous SSBN |
+| C. Mission Aagaman | 3. Indigenous air-launched anti-ship missile (~55 km class) |
+| D. AK-203 ‘Sher’ | 4. Fully indigenous rifle production at Korwa, Amethi |
+
+*Row order is not the answer code.*
+
+A. 2 3 1 4  
+B. 2 1 3 4  
+C. 3 2 1 4  
+D. 2 3 4 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Aridhaman→2; NASM-SR→3; Aagaman/Vikram-1→1; Sher→4. Trap: swapping Aridhaman with a diesel Project-75 boat, or putting Sher in Kanpur/Jhansi.
+
+</details>
+
+---
+
+**Exam logic:** DAC money + platform names.
+
+**Q5.** With reference to the Defence Acquisition Council decision around 27 March 2026, which of the following statements is/are correct?
+
+1. Acceptance of Necessity was reported at about ₹2.38 lakh crore.
+2. The package included more S-400 systems, transport aircraft, Ghatak drones and Dhanush guns in coverage.
+
+Select the correct answer from the code given below:
+
+A. Only 2  
+B. Neither 1 nor 2  
+C. Both 1 and 2  
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Big money + named platforms. Trap: swapping the figure with ECLGS 5.0 (~₹2.55 lakh crore credit) from May.
+
+</details>
+
+---
+
+**Exam logic:** LR-AShM range / nature.
+
+**Q6.** With reference to LR-AShM displayed around Republic Day 2026, which of the following statements is/are correct?
+
+1. It is a DRDO hypersonic anti-ship missile.
+2. Its range in coverage is about 1,500 km.
+3. It is an air-defence SAM identical to Project Kusha.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) mixes LR-AShM with Kusha. Trap: writing 55 km (NASM-SR class) as LR-AShM range.
+
+</details>
+
+---
+
+**Exam logic:** INS Taragiri + Aridhaman same day cluster.
+
+**Q7.** With reference to naval platforms commissioned / covered around 3 April 2026, which of the following statements is/are correct?
+
+1. INS Aridhaman is the third indigenous SSBN.
+2. INS Taragiri is the fourth Project 17A frigate in coverage.
+3. Both events were linked with Visakhapatnam in coverage.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** SSBN vs frigate — do not merge into one class. Trap: calling Aridhaman a diesel Project-75 boat.
+
+</details>
+
+---
+
+**Exam logic:** Agni MIRV test place / nature.
+
+**Q8.** With reference to the advanced Agni MIRV test (8 May 2026), which of the following statements is/are correct?
+
+1. The flight trial was from Dr APJ Abdul Kalam Island, Odisha.
+2. MIRV means one missile can deliver multiple warheads against multiple targets.
+3. The same test is identical to the Project Kusha SAM maiden flight.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) false — Kusha is July air-defence SAM. Same island, different missile family.
+
+</details>
+
+---
+
+**Exam logic:** Navy June platforms Match.
+
+**Q9.** Match List-I with List-II and select the correct answer using the code given below the lists.
+
+| List-I | List-II |
+|--------|---------|
+| A. INS Dunagiri | 1. Coast Guard ship in June coverage |
+| B. ICGS Akshay | 2. Navy platform in June coverage |
+| C. INS Mahendragiri | 3. Sixth Project 17A frigate (July coverage) |
+| D. INS Nipun | 4. Second Nistar-class diving support vessel (August coverage) |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4  
+B. 1 2 3 4  
+C. 2 1 4 3  
+D. 2 3 1 4
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Dunagiri→Navy June; Akshay→ICG; Mahendragiri→6th 17A; Nipun→Nistar-class. Trap: putting all under one service.
+
+</details>
+
+---
+
+**Exam logic:** National Space Day theme / mission counts.
+
+**Q10.** With reference to National Space Day 2026 (23 August), which of the following statements is/are correct?
+
+1. It was the 3rd edition of National Space Day.
+2. Coverage spoke of about 8 launch-vehicle missions and 12 satellite missions planned for the financial year.
+3. The day is observed on 15 August every year.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) false — National Space Day is **23 August** (Chandrayaan-3 landing anniversary logic). Trap: merging with I-Day.
+
+</details>
+
+---
+
+**Exam logic:** Chronology — defence / science firsts.
+
+**Q11.** Consider the following events and arrange them in correct chronological order:
+
+1. Project Kusha maiden test  
+2. Advanced Agni MIRV test  
+3. PFBR Kalpakkam first criticality  
+4. Vikram-1 / Mission Aagaman launch window  
+
+Select the correct answer from the code given below:
+
+A. 3, 2, 4, 1  
+B. 2, 3, 4, 1  
+C. 3, 2, 1, 4  
+D. 3, 4, 2, 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** PFBR 6 Apr → Agni MIRV 8 May → Vikram-1 18 Jul → Kusha 23 Jul. Trap: putting Kusha before Vikram because both are July.
+
+</details>
+
+---
+
+**Exam logic:** Exercise Pragati 2026.
+
+**Q12.** With reference to Exercise Pragati 2026, which of the following statements is/are correct?
+
+1. It was held at Umroi, Meghalaya.
+2. Coverage spoke of about 13 participating nations.
+3. It was a purely bilateral India–France naval drill in the Arabian Sea.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) invents a different exercise. Trap: recycling Varuna/Malabar venues.
+
+</details>
+
+---
+
+**Exam logic:** Agni-1 under SFC May.
+
+**Q13.** With reference to May 2026 missile tests, which of the following statements is/are correct?
+
+1. An advanced Agni MIRV test was conducted on 8 May from Kalam Island.
+2. An Agni-1 test under Strategic Forces Command was also covered around 22 May.
+3. Both tests were Project Kusha SAM flights.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) Kusha is July.
+
+</details>
+
+---
+
+**Exam logic:** NASM-SR range and nature.
+
+**Q14.** With reference to NASM-SR, which of the following statements is/are correct?
+
+1. It is an indigenous air-launched anti-ship missile.
+2. Range in coverage is about 55 km.
+3. Range in coverage is about 1,500 km.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) is LR-AShM range.
+
+</details>
+
+---
+
+**Exam logic:** INS Dunagiri / Sanshodhak / Agray June navy.
+
+**Q15.** Which of the following statements is/are correct for June 2026 naval coverage?
+
+1. INS Dunagiri appeared among Navy platforms inducted/covered.
+2. ICGS Akshay is a Coast Guard ship in the same window.
+3. ICGS Akshay is a Project 17A frigate.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) service mix-up.
+
+</details>
+
+---
+
+**Exam logic:** Mission Sudarshan Chakra / Kusha induction window.
+
+**Q16.** With reference to Project Kusha coverage, which of the following statements is/are correct?
+
+1. It fits the wider Mission Sudarshan Chakra air-defence shield idea.
+2. Induction window spoken of around 2028–2030.
+3. It is a ballistic MIRV Agni variant.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) wrong family.
+
+</details>
+
+---
+
+**Exam logic:** ACV H-561 Coast Guard first indigenous.
+
+**Q17.** With reference to ACV H-561, which of the following statements is/are correct?
+
+1. It is an Air Cushion Vehicle for the Coast Guard.
+2. Coverage called it the first indigenous ACV of its kind for ICG.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both true.
+
+</details>
+
+---
+
+**Exam logic:** Pralay / K-4 January soft.
+
+**Q18.** Which of the following statements is/are correct?
+
+1. January coverage included Pralay salvo / test stories.
+2. K-4 sea-deterrent related tests also appeared in January defence CA.
+3. K-4 is a Ramsar wetland in UP.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) absurd distractor.
+
+</details>
+
+---
+
+**Exam logic:** PFBR power rating.
+
+**Q19.** The PFBR at Kalpakkam is locked in coverage as which capacity class?
+
+A. 100 MWe
+B. 500 MWe
+C. 700 MWe
+D. 1000 MWe
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** 500 MWe fast breeder.
+
+</details>
+
+---
+
+**Exam logic:** INS Nipun Nistar-class.
+
+**Q20.** With reference to INS Nipun (August 2026), which of the following statements is/are correct?
+
+1. It is the second Nistar-class diving support vessel in coverage.
+2. It is the sixth Project 17A frigate.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Mahendragiri is sixth 17A.
+
+</details>

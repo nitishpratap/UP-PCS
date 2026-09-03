@@ -138,3 +138,477 @@ On **27 January 2026**, India and the EU announced that FTA negotiations were co
 - **R. Praggnanandhaa** — first Indian to win the **Grand Chess Tour** in coverage.
 - **Kaziah Liz Mejo** — first Kerala Miss Universe India winner in about 64 years (coverage).
 - Made-in-India **C-295** defence transport aircraft flight success highlighted in I-Day speech.
+
+## Practice Zone — UPPCS Format
+
+> **20 questions** for this sheet only — drill after you revise the months above.  
+> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.  
+> Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
+
+**Exam logic:** Mixed “which is correct” on firsts — paperless judiciary / offshore airport / private rocket.
+
+**Q1.** Which of the following statements is/are correct?
+
+1. Sikkim was covered as the first paperless judiciary state in May 2026 coverage.
+2. Vikram-1 (Mission Aagaman) was reported as the first privately developed Indian orbital-class rocket.
+3. India’s first offshore airport approval path in coverage was off Palghar, Maharashtra.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are “first / record” locks — UPPCS loves the second detail, so revise place names carefully.
+
+</details>
+
+---
+**Exam logic:** T20 WC “first” claims — defend / host / three titles.
+
+**Q2.** With reference to India’s Men’s T20 World Cup win (March 2026), which of the following statements is/are correct?
+
+1. India became the first team to defend the Men’s T20 World Cup title.
+2. India became the first host country to win the Men’s T20 World Cup.
+3. Gujarat became the first Indian state to implement a Uniform Civil Code.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) false — Gujarat is **second** after Uttarakhand. Classic “first” second-sentence trap mixed into a sports firsts stem.
+
+</details>
+
+---
+
+**Exam logic:** Digital Census + PFBR first criticality + NASM-SR first indigenous air-launched AShM.
+
+**Q3.** Which of the following statements is/are correct?
+
+1. Census 2027 is covered as India’s first mainly digital Census with self-enumeration.
+2. PFBR Kalpakkam attained first criticality on 6 April 2026.
+3. NASM-SR is covered as India’s first indigenous air-launched anti-ship missile.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three are April “first” locks. Trap: writing thorium as the first-criticality fuel (that belongs under Science).
+
+</details>
+
+---
+
+**Exam logic:** AI Summit Global South first + Kartavya Bhawan Budget first.
+
+**Q4.** With reference to February 2026 “firsts”, which of the following statements is/are correct?
+
+1. The India–AI Impact Summit was described as the first major global AI summit of this scale in the Global South.
+2. Union Budget 2026–27 was the first Budget prepared in Kartavya Bhawan.
+3. The India–EU FTA entered into force on 27 January 2026 as India’s largest FTA.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) false — negotiations concluded ≠ already in force. Firsts sheet must keep the second-fact trap.
+
+</details>
+
+---
+
+**Exam logic:** Surha Tal 100 / Glaw first Arunachal / Sher 100% indigenous.
+
+**Q5.** Which of the following statements is/are correct?
+
+1. Surha Tal took India to 100 Ramsar sites.
+2. Glaw Lake is Arunachal’s first Ramsar site.
+3. AK-203 ‘Sher’ was covered as the first fully indigenous (100% Indian parts) rifle from the Amethi plant.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** June–August firsts cluster. Trap: putting Glaw Lake in UP.
+
+</details>
+
+---
+
+**Exam logic:** Ashwini Bhide / Susan Coyle / Saanya woman firsts.
+
+**Q6.** Which of the following pairs is/are correctly matched?
+
+1. Ashwini Bhide — first woman BMC Commissioner  
+2. Susan Coyle — Australia’s first female Army Chief  
+3. Squadron Leader Saanya — IAF’s first woman Cat-A flying instructor (coverage)  
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Personality–first hybrids. Trap: swapping BMC with a municipal body in another city.
+
+</details>
+
+---
+
+**Exam logic:** RCB back-to-back third franchise; Spain dual FIFA lock; Pragg Grand Chess Tour.
+
+**Q7.** Which of the following statements is/are correct?
+
+1. RCB became only the third IPL side to win back-to-back titles (after CSK and MI) in coverage.
+2. Spain was covered as the first nation holding men’s and women’s FIFA World Cups at once after the 2026 men’s win.
+3. R. Praggnanandhaa was covered as the first Indian to win the Grand Chess Tour.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Sports firsts. Trap: writing MI as the 2026 IPL winner.
+
+</details>
+
+---
+
+**Exam logic:** Vande Mataram Army band first at Red Fort I-Day.
+
+**Q8.** With reference to Independence Day 2026 culture firsts, which of the following statements is/are correct?
+
+1. Coverage locked the first Red Fort I-Day programme performance of Vande Mataram by the Army band.
+2. National Space Day 2026 was observed on 15 August.
+
+Select the correct answer from the code given below:
+
+A. Only 2  
+B. Neither 1 nor 2  
+C. Both 1 and 2  
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Space Day is **23 August**. Trap: merging I-Day and Space Day.
+
+</details>
+
+---
+
+**Exam logic:** LR-AShM parade showcase careful claim.
+
+**Q9.** Which of the following statements is/are correct?
+
+1. Republic Day 2026 was a major national showcase of LR-AShM.
+2. Safe lock is first major parade showcase of this anti-ship hypersonic form — not ‘India’s first hypersonic test ever’.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both true.
+
+</details>
+
+---
+
+**Exam logic:** Census first digital.
+
+**Q10.** Which of the following statements is/are correct?
+
+1. Census 2027 is India’s first mainly digital Census with self-enumeration.
+2. Phase 1 began around 1 April 2026.
+3. Phase 1 completed the full caste census in April 2026.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Phase 2 people/caste.
+
+</details>
+
+---
+
+**Exam logic:** Taiwan Travelogue Booker first Taiwanese Mandarin.
+
+**Q11.** Which of the following statements is/are correct?
+
+1. Taiwan Travelogue was covered as first Taiwanese Mandarin translated novel to win International Booker.
+2. Author Yáng Shuāng-zǐ; translator Lin King.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both true.
+
+</details>
+
+---
+
+**Exam logic:** Saudi first Arab IBCA.
+
+**Q12.** Which of the following statements is/are correct?
+
+1. Saudi Arabia was first Arab IBCA member in coverage.
+2. It was the 26th IBCA member.
+3. It founded IBCA in 2015 as sole member.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) false.
+
+</details>
+
+---
+
+**Exam logic:** 100 Ramsar milestone.
+
+**Q13.** Which of the following statements is/are correct?
+
+1. Surha Tal took India to 100 Ramsar sites.
+2. Glaw Lake took India to 101.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both true.
+
+</details>
+
+---
+
+**Exam logic:** Vikram-1 private orbital first.
+
+**Q14.** Which of the following statements is/are correct?
+
+1. Vikram-1 is first privately developed Indian orbital-class rocket.
+2. Mission name Aagaman.
+3. It is an ISRO GSLV Mk III only.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Private Skyroot.
+
+</details>
+
+---
+
+**Exam logic:** Paperless judiciary Sikkim.
+
+**Q15.** Which of the following statements is/are correct?
+
+1. Sikkim covered as first paperless judiciary state.
+2. Linked with Gangtok conclave / CJI Surya Kant in coverage.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both true.
+
+</details>
+
+---
+
+**Exam logic:** Palghar offshore airport first path.
+
+**Q16.** Which of the following statements is/are correct?
+
+1. India’s first offshore airport approval path off Palghar, Maharashtra.
+2. It is the same as Jewar Airport.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Different projects.
+
+</details>
+
+---
+
+**Exam logic:** Spain second FIFA + dual men’s women’s lock.
+
+**Q17.** Which of the following statements is/are correct?
+
+1. Spain’s 2026 men’s title was its second after 2010.
+2. Coverage locked Spain as first to hold men’s and women’s FIFA World Cups at once.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both true.
+
+</details>
+
+---
+
+**Exam logic:** Gabon Togo CWG debut.
+
+**Q18.** Which of the following statements is/are correct?
+
+1. Gabon and Togo debuted at CWG Glasgow.
+2. Mascot Finnie.
+3. Mascot Morveer.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Morveer = Tribal Games.
+
+</details>
+
+---
+
+**Exam logic:** Kaziah Kerala Miss Universe India first in ~64 years.
+
+**Q19.** Which of the following statements is/are correct?
+
+1. Kaziah Liz Mejo covered as first Kerala Miss Universe India winner in about 64 years.
+2. Crowned in Jaipur.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both true.
+
+</details>
+
+---
+
+**Exam logic:** C-295 Made-in-India I-Day highlight.
+
+**Q20.** Which of the following statements is/are correct?
+
+1. Made-in-India C-295 defence transport aircraft success highlighted in I-Day speech coverage.
+2. It replaces all commercial airliners in India.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Defence transport lock.
+
+</details>

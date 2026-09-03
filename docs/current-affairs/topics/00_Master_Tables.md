@@ -55,9 +55,12 @@ Use this page for **fast revision**. Detail stays in the topic sheets. Numbers u
 | Jul | VB-G RAM G | New rural jobs law | See table above |
 | Jul | **Samudra Manthan** | Deep-sea oil & gas exploration | About **₹84,084 cr** to FY31 |
 | Jul | **PM Surya Sarovar (PM-SSY)** | Floating solar on water bodies | About **₹5,070 cr**; target **5,000 MW** |
-| Jul | PM-KISAN extension | ₹6,000/year to farmers | About **₹3.15 lakh cr** (2026–31) |
+| Jul | **PM-KISAN extension** | ₹6,000/year to farmers | About **₹3.15 lakh cr** (2026–31) |
+| Jul | **Semicon 2.0 (ISM 2.0)** | Chip design + manufacturing ecosystem | **₹1,27,500 crore** |
 | Jul | Revamped Khelo India | Sports ecosystem push | About **₹36,441 cr** in Cabinet coverage |
 | Aug | I-Day nuclear aim | Long-term nuclear power | **100 GW by 2047** |
+| Jun (UP) | **UP CAMP** | Airshed clean-air project (World Bank) | About **₹2,741 cr** |
+| Aug | **MMDR Amendment Act, 2026** | Uniform mineral-tax framework | Centre conditions on state mineral levies |
 
 ---
 
@@ -72,6 +75,8 @@ Use this page for **fast revision**. Detail stays in the topic sheets. Numbers u
 | CETA = DCC | **CETA** = trade deal; **DCC** = social-security side deal (both 15 Jul 2026) |
 | Oman CEPA = UK CETA | **Oman CEPA** (June); **UK CETA** (July) |
 | VB-G RAM G still 100 days | **125 days** |
+| Semicon 2.0 outlay = ₹76,000 crore | That band is older **ISM 1.0**; Semicon **2.0** is **₹1,27,500 crore** |
+| UP CAMP = Surha Tal tourism fund | UP CAMP is **clean air** (~₹2,741 cr), not the Ramsar tag |
 | PFBR already runs on thorium | Criticality with **MOX**; thorium is later stage |
 | NavIC = GPS | NavIC is **India’s** regional system |
 | Kusha = ballistic Agni | **Kusha** = long-range **air-defence** SAM |

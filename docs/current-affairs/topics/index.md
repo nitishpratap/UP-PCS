@@ -7,7 +7,7 @@ Living sheets — **update every month** under the same lock checklists. Coverag
 1. Open [Master lock tables](00_Master_Tables.md) for Ramsar / money / confused pairs.
 2. Open the latest [month digest](months/index.md) for revision order.
 3. Drill the S/A topic files below.
-4. Test with the [Practice Zone](15_Practice_Zone.md) (UPPCS 2024–25 formats).
+4. Test with the **Practice Zone at the bottom of each topic sheet** (or open the [hub](15_Practice_Zone.md)).
 5. Each month: append a new `## Month Year` section; do not rewrite old months.
 
 ## Topic files
@@ -29,7 +29,7 @@ Living sheets — **update every month** under the same lock checklists. Coverag
 | **B** | [Books & Culture CA](12_Books_Culture_CA.md) | Aug: Vande Mataram @ 150 |
 | **B** | [Health & Vaccines](13_Health_Vaccines.md) | Aug: Youth Day theme |
 | **B** | [Sports](14_Sports.md) | Aug: CWG Glasgow India 4th |
-| — | [Practice Zone](15_Practice_Zone.md) | 40 UPPCS-format stems (Jan–Aug 2026) |
+| — | [Practice Zone hub](15_Practice_Zone.md) | ≥20 UPPCS-format Qs at the end of **each** topic sheet |
 
 [January 2026 digest](months/2026-01.md){ .md-button }
 [February 2026 digest](months/2026-02.md){ .md-button }

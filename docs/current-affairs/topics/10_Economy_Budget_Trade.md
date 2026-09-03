@@ -225,11 +225,506 @@ Full easy cards → [Schemes](02_Schemes_Policies.md).
 ### I-Day economy locks
 
 - Semiconductor push: about **7–8** new plants in one–two years.
+- Soft link: Semicon 2.0 outlay **₹1,27,500 crore** (Cabinet July; guidelines notified around end-August) — full card → [Schemes](02_Schemes_Policies.md).
 - Nuclear capacity aim: **100 GW by 2047**.
 - AI skilling for **1 crore** youth.
 - Lakhpati Didi target: **6 crore**.
 - Full card → [Schemes](02_Schemes_Policies.md).
 
+### MMDR Amendment Act, 2026 | mineral taxation framework
+
+**What happened**  
+Parliament’s **Mines and Minerals (Development and Regulation) Amendment Act, 2026** tightened the fiscal framework for minerals. Coverage stressed a more uniform national approach after earlier Supreme Court mineral-tax debates.
+
+**Easy locks**
+
+- Parent Act being amended: **MMDR Act, 1957**.
+- Core idea: States cannot levy fresh taxes/cess on mineral rights / mineral-bearing land except under conditions set by the **Centre**.
+- Aim in PIB-style notes: stable mineral taxation, support for critical minerals, lower input-cost uncertainty.
+- Soft link: National Critical Mineral Mission (approved earlier, outlay about **₹16,300 crore** to FY31) remains a related minerals push — do not merge the two names.
+
+!!! trap "Easy wrong options"
+    Saying states gained unlimited new mineral-tax power under the 2026 amendment. Calling MMDR a labour law.
+
 ### Soft SVAMITVA memory from the speech
 
 I-Day coverage recalled about **3.25 crore** families helped and assets worth about **₹140 lakh crore** unlocked under **SVAMITVA** using drones.
+
+## Practice Zone — UPPCS Format
+
+> **20 questions** for this sheet only — drill after you revise the months above.  
+> Formats match UPPCS 2024–25: multi-statement, Match List, NOT-matched, A/R, chronology.  
+> Full cross-topic index → [Practice Zone hub](15_Practice_Zone.md).
+
+**Exam logic:** Budget identity locks — Kartavya Bhawan + Yuva Shakti framing + capex figure.
+
+**Q1.** With reference to the Union Budget 2026–27, which of the following statements is/are correct?
+
+1. It was the first Union Budget prepared in Kartavya Bhawan.
+2. The Budget speech projected public capital expenditure of about ₹12.2 lakh crore.
+3. The fiscal deficit target announced in the Budget messaging was 5.1% of GDP.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (1) and (2) true. (3) false — fiscal deficit lock is **4.3%** of GDP, not 5.1%. Trap: confusing older deficit bands with 2026–27 speech.
+
+</details>
+
+---
+
+**Exam logic:** Budget transport / Orange Economy locks.
+
+**Q2.** With reference to Union Budget 2026–27 announcements, which of the following statements is/are correct?
+
+1. A new Dedicated Freight Corridor idea from Dankuni (East) to Surat (West) was mentioned.
+2. Ship-repair support for inland waterways named Varanasi and Patna.
+3. Orange Economy / AVGC support referred to Animation, Visual Effects, Gaming and Comics.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only  
+B. 2 and 3 only  
+C. 1 and 3 only  
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** All three appear in February economy / scheme sheets. Trap: replacing Varanasi with only coastal yards.
+
+</details>
+
+---
+
+**Exam logic:** Match Budget / Cabinet scheme ↔ money.
+
+**Q3.** Match List-I with List-II and select the correct answer using the code given below the lists.
+
+| List-I | List-II |
+|--------|---------|
+| A. Biopharma SHAKTI | 1. About ₹20,000 crore / 5 years |
+| B. CCUS (Budget cluster) | 2. About ₹10,000 crore / 5 years |
+| C. Cotton Productivity Mission | 3. About ₹5,659 crore |
+| D. Coal / lignite gasification | 4. About ₹37,500 crore |
+
+*Row order is not the answer code.*
+
+A. 2 1 3 4  
+B. 2 3 1 4  
+C. 1 2 3 4  
+D. 2 1 4 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Biopharma→2; CCUS→1; Cotton→3; Gasification→4. Trap: swapping Biopharma with Container scheme (also ₹10,000 crore) is fine for money but wrong if stem asks name→outlay without reading List carefully — here money pairs are distinct except remember Container also ₹10k.
+
+</details>
+
+---
+
+**Exam logic:** Sugar export ban window.
+
+**Q4.** With reference to the sugar export ban reported in May 2026 coverage, which of the following statements is/are correct?
+
+1. The ban window was locked till 30 September 2026.
+2. Coverage linked the decision with monsoon / supply stress fears including El Niño-type risk language.
+
+Select the correct answer from the code given below:
+
+A. Only 2  
+B. Neither 1 nor 2  
+C. Both 1 and 2  
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Economy CA soft lock. Trap: shifting end date to 31 March.
+
+</details>
+
+---
+
+**Exam logic:** Chronology — big scheme / trade dates.
+
+**Q5.** Consider the following and arrange them in correct chronological order:
+
+1. India–UK CETA and DCC enter into force  
+2. VB-G RAM G comes into force  
+3. India–Oman CEPA enters into force  
+4. Union Budget 2026–27 presented  
+
+Select the correct answer from the code given below:
+
+A. 4, 3, 2, 1  
+B. 4, 2, 3, 1  
+C. 3, 4, 2, 1  
+D. 4, 3, 1, 2
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Budget 1 Feb → Oman CEPA early June → VB-G 1 Jul → UK CETA 15 Jul. Trap: putting CETA before VB-G.
+
+</details>
+
+---
+
+**Exam logic:** New Income Tax Act force date.
+
+**Q6.** With reference to tax / Budget law messaging for 2026, which of the following statements is/are correct?
+
+1. The New Income Tax Act, 2025 comes into force on 1 April 2026.
+2. SWM Rules, 2026 also commence on 1 April 2026.
+
+Select the correct answer from the code given below:
+
+A. Only 2  
+B. Neither 1 nor 2  
+C. Both 1 and 2  
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Same calendar lock, different subjects — easy “both true” if you revised January + February together.
+
+</details>
+
+---
+
+**Exam logic:** Semicon 2.0 economy lock.
+
+**Q7.** With reference to Semicon 2.0, which of the following statements is/are correct?
+
+1. Outlay ₹1,27,500 crore.
+2. Cabinet approval around mid-July 2026.
+3. Outlay ₹2,741 crore.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** ₹2741 = UP CAMP.
+
+</details>
+
+---
+
+**Exam logic:** MMDR Amendment 2026 core idea.
+
+**Q8.** With reference to the MMDR Amendment Act, 2026, which of the following statements is/are correct?
+
+1. It amends the MMDR Act, 1957.
+2. States cannot levy fresh mineral-rights taxes except under Centre-set conditions.
+3. It gives states unlimited new mineral-tax power.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) opposite.
+
+</details>
+
+---
+
+**Exam logic:** Fiscal deficit 4.3%.
+
+**Q9.** Which of the following statements is/are correct for Budget 2026–27?
+
+1. Fiscal deficit target 4.3% of GDP.
+2. Capex ₹12.2 lakh crore.
+3. Fiscal deficit target 6.4% of GDP.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Wrong band.
+
+</details>
+
+---
+
+**Exam logic:** New IT Act 1 April 2026.
+
+**Q10.** Which of the following statements is/are correct?
+
+1. New Income Tax Act, 2025 comes into force 1 April 2026.
+2. Finance Act, 2026 gives effect to FY 2026–27 proposals.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both true.
+
+</details>
+
+---
+
+**Exam logic:** GST Day 1 July.
+
+**Q11.** Which of the following statements is/are correct?
+
+1. 1 July is GST Day in India.
+2. GST started on 1 July 2017.
+3. GST started on 1 April 2017.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** 1 July 2017.
+
+</details>
+
+---
+
+**Exam logic:** RELIEF exporters ECGC.
+
+**Q12.** With reference to RELIEF, which of the following statements is/are correct?
+
+1. About ₹497 crore package.
+2. Supports exporters in conflict risk with ECGC-linked support.
+3. It is NBS fertiliser subsidy.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Scheme collision.
+
+</details>
+
+---
+
+**Exam logic:** India–UK CETA 99% duty relief idea.
+
+**Q13.** Which of the following statements is/are correct?
+
+1. CETA entered force 15 July 2026.
+2. About 99% Indian goods get UK duty relief in coverage.
+3. DCC is the trade tariff schedule of CETA.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** DCC = social security.
+
+</details>
+
+---
+
+**Exam logic:** Oman CEPA June economy.
+
+**Q14.** Which of the following statements is/are correct?
+
+1. India–Oman CEPA entered force early June 2026.
+2. ~99% duty-free access idea for Indian exports.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both true.
+
+</details>
+
+---
+
+**Exam logic:** SVAMITVA I-Day soft numbers.
+
+**Q15.** With reference to SVAMITVA I-Day recall, which of the following statements is/are correct?
+
+1. About 3.25 crore families helped in coverage.
+2. Assets worth about ₹140 lakh crore unlocked using drones.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both true.
+
+</details>
+
+---
+
+**Exam logic:** Dankuni–Surat freight corridor.
+
+**Q16.** Which of the following statements is/are correct?
+
+1. Budget mentioned Dankuni (East) to Surat (West) freight corridor idea.
+2. 20 new National Waterways over five years.
+3. Corridor from Mumbai to Chennai only.
+
+Select the correct answer from the code given below:
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1, 2 and 3
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** (3) wrong.
+
+</details>
+
+---
+
+**Exam logic:** Total expenditure ~53.5 lakh crore BE idea.
+
+**Q17.** Which of the following statements is/are correct?
+
+1. Total expenditure BE messaging ~₹53.5 lakh crore.
+2. Centre net tax receipts BE messaging ~₹28.7 lakh crore.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both true.
+
+</details>
+
+---
+
+**Exam logic:** Sugar export ban till 30 Sep.
+
+**Q18.** Which of the following statements is/are correct?
+
+1. Sugar export ban locked till 30 September 2026.
+2. Linked with supply/monsoon stress fears in coverage.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both true.
+
+</details>
+
+---
+
+**Exam logic:** Critical Mineral Mission soft link with MMDR.
+
+**Q19.** Which of the following statements is/are correct?
+
+1. National Critical Mineral Mission outlay about ₹16,300 crore to FY31 in related notes.
+2. MMDR Amendment 2026 and NCMM are the same Act.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Related but not same.
+
+</details>
+
+---
+
+**Exam logic:** Yuva Shakti Budget label.
+
+**Q20.** Which of the following statements is/are correct?
+
+1. Budget 2026–27 called a Yuva Shakti-driven Budget.
+2. Presented by Nirmala Sitharaman.
+
+Select the correct answer from the code given below:
+
+A. Only 2
+B. Neither 1 nor 2
+C. Both 1 and 2
+D. Only 1
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Both true.
+
+</details>
