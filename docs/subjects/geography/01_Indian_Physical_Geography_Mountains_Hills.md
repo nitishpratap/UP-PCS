@@ -81,6 +81,7 @@ SACRED: Tirupati = Tirumala/Mallamalla (E Ghats) NOT Shevaroy
 | **Himalayas and extra-peninsular mountains** | Young fold belt from India–Eurasia collision | Still rising in zones; includes Karakoram and Purvanchal |
 | **Indo–Ganga–Brahmaputra Plain** | Foredeep filled with Himalayan alluvium | One of the world’s largest alluvial tracts |
 
+![physical-map-india.jpg](physical-map-india.jpg)
 - The **six** relief units used in map questions are Northern Mountains, Northern Plains, Peninsular Plateau, Indian Desert, Coastal Plains, and Islands.
 - PMF IAS (Kullar) often lists **five** units and folds the Thar into the **Rajasthan Plain**. UPPCS still asks Thar as a **separate** Pleistocene–recent sand sheet, so keep six.
 - About **43%** of India is plains, **28%** plateau, **19%** hills, and **11%** high mountains (PMF IAS class figures).
