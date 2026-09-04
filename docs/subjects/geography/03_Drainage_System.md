@@ -53,7 +53,7 @@ PENINSULAR ORIGIN (2023 Q53): Yamuna-Yamunotri | Krishna-Mahabaleshwar | Godavar
  Pranhita→Godavari NOT Mahanadi | Hemavati→Kaveri | Malaprabha→Krishna
 WEST: Narmada, Tapi, Mahi, Sabarmati, Periyar | EAST: Pennar, Palar (2025 Q116 only Periyar of that set)
 INLAND: Luni upper fresh / lower saline (2019 Q84) | Fault valley exam tag = Damodar (2019 Q9); also Narmada/Tapi rift
-DELTA: Arcuate=Sundarbans | Bird's-foot=Mississippi NOT Ganga (2018 Q33) | Moribund=Cauvery (2019 Q85)
+DELTA: Arcuate=Sundarbans | Bird's-foot=Mississippi NOT Ganga (2018 Q33) | Moribund subdivision=Bengal (2019)
  Estuary=Narmada/Tapi | Trellis=folded (2024 Q31) | Radial=Amarkantak
 NW-1 Ganga-Hooghly | NW-2 Brahmaputra | NW-3 Kerala | NW-4 Krishna-Godavari | NW-5 Brahmani-Mahanadi
 KEN–BETWA: only ILR under implementation | MP–UP Bundelkhand
@@ -289,7 +289,7 @@ D. 2 4 1 3
 - The **Teesta** rises in Sikkim (Khangchung Chho class — **not** the same source as the Brahmaputra). **Rangeet** is a Teesta tributary from Sikkim. Teesta was once a Ganga tributary; **river capture** shifted it to the Brahmaputra (2021 Q63).
 - Near Dhubri the river enters Bangladesh. There the **Tista** joins, and the river is called the **Jamuna** (not the Yamuna).
 - The **Barak** rises in the Manipur hills (not Arunachal like Lohit/Subansiri). It becomes Surma–Kushiyara, then the **Meghna**, and reaches the **Bay of Bengal**. It is **not** inland drainage.
-- Padma is joined by Jamuna, then by Meghna; the combined Sundarbans delta lies between the Hooghly and the Meghna. Parts of the Bengal delta are classed **moribund / mature / active**; that Bengal subdivision is separate from the UPPCS **Cauvery = moribund** lock.
+- Padma is joined by Jamuna, then by Meghna; the combined Sundarbans delta lies between the Hooghly and the Meghna. The Bengal Delta is subdivided into **moribund, mature, and active** belts (UPPCS 2019 keys **Bengal** for “Moribund Delta” as a subdivision).
 
 > **Exam note:** Padma = Ganga in Bangladesh. Jamuna = Brahmaputra in Bangladesh. Do not swap them with the Yamuna.
 
@@ -337,7 +337,7 @@ D. 2 4 1 3
 - **Hemavati, Kabini, Bhavani, and Amravati** are the usual tributaries.
 - It forms the islands of **Srirangapatna, Shivasamudram, and Srirangam**. **Shivasamudram** is also the great Kaveri waterfall by volume.
 - **Mettur (Stanley)** is on the Kaveri, **not** on the Krishna.
-- The Kaveri delta is **moribund** (2019 Q85). It is not the Bengal or Krishna–Godavari delta.
+- The Kaveri delta is old and heavily irrigated. Do **not** use it for the UPPCS “Moribund Delta is a **subdivision**” stem — that key is **Bengal Delta** (2019).
 - Kaveri water is a **Karnataka–Tamil Nadu** dispute. Basin also touches Kerala and Puducherry.
 
 ### Other east-flowing rivers
@@ -417,7 +417,9 @@ D. Kabini *(paper: Kabam in some OCR)*
 - **Bird's-foot (digitate) delta** has long finger-like distributaries. The **Mississippi** is the classic world example — **not** the Ganga.
 - **Cuspate delta** forms when waves from two directions meet the river mouth. **Ebro** (Spain) is cited; **Mahanadi** is often used in Indian match-lists.
 - **Lobate delta** is rounded with many shifting mouths. **Godavari** is sometimes classed here for its bulging front.
-- **Moribund delta** is ageing and shrinking because sediment supply has fallen or sea level has risen. **Cauvery** is the standard UPPCS lock — not Bengal or Krishna–Godavari.
+- **Moribund delta** means a dying / inactive part of a delta. Rivers there are silted, poorly connected to the main channel, and add little new land. Ox-bow lakes and marshes are common.
+- In Indian exam geography, **Moribund** is a **subdivision of the Bengal (Ganga–Brahmaputra) Delta**, along with mature and active parts (UPPCS 2019). The moribund belt lies mainly in the older western / north-western delta where distributaries have decayed after the main Ganga discharge shifted east toward the Padma.
+- Do **not** key Krishna–Godavari, Mahanadi, or Cauvery for that “subdivision” stem. Those are different deltas; Bengal alone is classed that way in the standard scheme.
 - **Estuary** replaces a delta where waves and tides dominate and the river mouth stays funnel-shaped — **Narmada, Tapi, Mandovi** on India's west coast.
 
 
@@ -427,14 +429,14 @@ D. Kabini *(paper: Kabam in some OCR)*
 - Short, fast west-flowing Western Ghat rivers also fail to build large deltas for the same reason.
 - World’s largest estuary class example is often the **St Lawrence**. India’s largest estuary mouths are on the **Narmada / Tapi** side.
 
-| Type | Example |
-|------|---------|
-| **Arcuate** | Ganga–Brahmaputra (Sundarbans), Nile, Godavari–Krishna |
-| **Lobate** | Godavari (round bulge, many mouths) |
-| **Bird’s-foot** | **Mississippi** — **not** Ganga (2018 Q33) |
-| **Cuspate** | Ebro; **Mahanadi** is often cited for India |
-| **Moribund** | **Cauvery** (2019 Q85) — not Bengal / Krishna–Godavari as the UPPCS key |
-| Estuarine mouth | Narmada, Tapi |
+| Type | Meaning | Exam example |
+|------|---------|--------------|
+| **Arcuate** | Fan-shaped front, many distributaries | Ganga–Brahmaputra (Sundarbans), Nile, Godavari–Krishna |
+| **Lobate** | Rounded bulge, many mouths | Godavari (often) |
+| **Bird’s-foot** | Long finger-like distributaries | **Mississippi** — **not** Ganga (2018 Q33) |
+| **Cuspate** | Pointed front from opposing waves | Ebro; **Mahanadi** often cited for India |
+| **Moribund** | Dying / inactive **subdivision** of a large delta | **Bengal Delta** (2019) — with mature and active belts |
+| Estuarine mouth | Tidal funnel, little delta build-up | Narmada, Tapi |
 
 ### Origins, cities, dams (one home)
 
@@ -459,27 +461,35 @@ D. Kabini *(paper: Kabam in some OCR)*
 | Subarnarekha | Chotanagpur (Ranchi / Nagri class) |
 | Jhelum | Verinag (Pir Panjal) |
 
-| City | River (bank lock) |
-|------|-------------------|
-| Lucknow | Gomti |
-| Ayodhya | Ghaghara / Saryu |
-| Prayagraj | Ganga + Yamuna (Sangam) |
-| Kanpur / Varanasi / Patna / Bhagalpur | Ganga |
-| Surat | Tapi |
-| Hyderabad | **Musi** (not Krishna stem) |
-| Vijayawada | Krishna |
-| Ahmedabad | Sabarmati |
-| Cuttack | Mahanadi (Bhubaneswar is **not**) |
-| Ujjain | Kshipra |
-| Jabalpur | Narmada |
-| Nasik / Nanded / Rajahmundry | Godavari |
-| Srinagar | Jhelum |
-| Leh | Indus (right bank) |
-| Ludhiana / Firozpur | old **Sutlej** belt (not Ravi) |
-| Jamshedpur | Subarnarekha |
-| Guwahati / Dibrugarh | Brahmaputra |
-| Kota | Chambal |
-| Gorakhpur | Rapti |
+| City | River | Trap |
+|------|-------|------|
+| Lucknow | Gomti | Not Ganga |
+| Ayodhya | Ghaghara / Saryu | — |
+| Prayagraj | Ganga + Yamuna (Sangam) | — |
+| Kanpur | Ganga | — |
+| Varanasi | Ganga | — |
+| Patna | Ganga | — |
+| Bhagalpur | Ganga | — |
+| Surat | Tapi | — |
+| Hyderabad | Musi | Not Krishna main stem |
+| Vijayawada | Krishna | — |
+| Ahmedabad | Sabarmati | — |
+| Cuttack | Mahanadi | — |
+| Bhubaneswar | Not on Mahanadi bank | Often wrongly paired with Mahanadi |
+| Ujjain | Kshipra | — |
+| Jabalpur | Narmada | — |
+| Nasik | Godavari | — |
+| Nanded | Godavari | — |
+| Rajahmundry | Godavari | — |
+| Srinagar | Jhelum | — |
+| Leh | Indus (right bank) | Not Jhelum |
+| Ludhiana | Old Sutlej belt | Not Ravi |
+| Firozpur | Old Sutlej belt | Not Ravi |
+| Jamshedpur | Subarnarekha | — |
+| Guwahati | Brahmaputra | — |
+| Dibrugarh | Brahmaputra | — |
+| Kota | Chambal | — |
+| Gorakhpur | Rapti | — |
 
 | Dam / project | River |
 |---------------|-------|
@@ -590,7 +600,7 @@ East-flowing peninsular rivers N→S exam sequence often: **Subarnarekha → Mah
 3. Yamuna right bank west→east = **Chambal–Sind–Betwa–Ken**.
 4. **Pranhita → Godavari.** **Jonk → Mahanadi.**
 5. Tapi origin = **Multai (Satpura)**, not Western Ghats.
-6. Bird’s-foot = **Mississippi**. Moribund = **Cauvery**.
+6. Bird’s-foot = **Mississippi**. Moribund **subdivision** = **Bengal Delta**.
 7. Folded structure = **trellis**.
 8. Fault-valley exam tag = **Damodar**.
 9. **Ken–Betwa** is the only NPP link under implementation.
@@ -873,7 +883,9 @@ D. Cauvery Delta
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — UPPCS 2019 Q85: Cauvery has moribund lobe. **A/C** are large active deltas.
+**Exam logic:** Stem says **subdivision** — that language matches Bengal’s moribund / mature / active scheme, not “which river’s whole delta is old.”
+
+**Ans: C** — UPPCS 2019: “Moribund Delta” is a **subdivision of the Bengal Delta**. Krishna–Godavari, Mahanadi, and Cauvery are distractors; Cauvery is the usual wrong pick.
 </details>
 
 **Q15.** Which of the following rivers is famous for its **fault valley** drainage?
@@ -1232,11 +1244,13 @@ D. Ghaghra
 
 **Q34.** Match **List-I** with **List-II**:
 
+*Row order is not the answer code.*
+
 | List-I (Delta type) | List-II (Example) |
 |---|---|
-| A. Bird's-foot | 1. Ganga-Brahmaputra |
+| A. Bird's-foot | 1. Ganga-Brahmaputra (arcuate / Sundarbans) |
 | B. Arcuate | 2. Mississippi |
-| C. Moribund subdivision | 3. Cauvery |
+| C. Moribund subdivision | 3. Bengal Delta |
 
 A. 2 1 3
 
@@ -1249,7 +1263,9 @@ D. 3 2 1
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — Bird's-foot-Mississippi, Arcuate-Sundarbans/Ganga type, Moribund-Cauvery. **B/C/D** swap bird's-foot with arcuate.
+**Exam logic:** Bird’s-foot ≠ Ganga; Moribund subdivision ≠ Cauvery for the UPPCS subdivision stem.
+
+**Ans: A** — Bird's-foot = Mississippi (2); Arcuate = Ganga–Brahmaputra (1); Moribund subdivision = Bengal Delta (3).
 </details>
 
 **Q35.** Which of the following statements about **Brahmaputra** is/are correct?
@@ -2227,7 +2243,9 @@ D. Cauvery Delta
 <details>
 <summary>Show answer</summary>
 
-**Ans: D** — A **moribund delta** subdivision is associated with the **Cauvery (Kaveri)** delta in standard exam geography, not with the large active Bengal or Krishna–Godavari deltas.
+**Exam logic:** Word **subdivision** points to Bengal’s moribund–mature–active classification, not to naming Cauvery as an ageing delta.
+
+**Ans: C** — Moribund is a subdivision of the **Bengal Delta**. Cauvery is the common trap option.
 </details>
 
 ---
@@ -2347,7 +2365,7 @@ Namami Gange / GAP = Ganga cleaning programmes (not a river-origin lock).
 2. **Betwa joins Yamuna at Prayagraj** — FALSE. **Hamirpur** (2023 Q55).
 3. **Any Prayag forms the Ganga** — FALSE. Only **Devprayag** (Alaknanda + Bhagirathi).
 4. **Ganga delta = bird’s-foot** — FALSE. **Mississippi**; Ganga is **arcuate** (2018 Q33).
-5. **Moribund delta = Ganga / Krishna–Godavari** — FALSE. **Cauvery** (2019 Q85).
+5. **Moribund delta subdivision = Cauvery / Krishna–Godavari** — FALSE. UPPCS 2019 keys **Bengal Delta** (moribund / mature / active). Cauvery is the usual trap.
 6. **Tapi from Western Ghats** — FALSE. **Multai, Satpura** (2018 Q102).
 7. **Jonk in Ganga basin** — FALSE. **Mahanadi** (2021 Q5).
 8. **Srisailam on Tungabhadra / Pandoh on Ravi** — FALSE. **Krishna / Beas** (2025 Q92).
