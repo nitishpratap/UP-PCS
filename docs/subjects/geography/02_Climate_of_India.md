@@ -40,11 +40,13 @@ ENSO: El Niño = warm Peru → weak monsoon + LESS plankton | La Niña → stron
  IOD = W vs E **Indian Ocean** (not Pacific) | +IOD helps | −IOD hurts
 KÖPPEN: Am = KL/Konkan/NE | Aw = Deccan | As = TN dry summer | BWh = Thar | Cwg = Ganga/Great Plains/N Bihar
 HEAT: Jan **18°C** isotherm = tropical/subtropical divide | diurnal max = RJ desert | Leh driest
- Troposphere heated by LONG-WAVE terrestrial | lapse ~6.5 °C/1000 m | RH ↓ as T ↑ | ozone = STRATOSPHERE
+ Troposphere heated by LONG-WAVE terrestrial | latent heat on condensation | lapse ~6.5 °C/1000 m | RH ↓ as T ↑ | ozone = STRATOSPHERE
+ Cells: Hadley (0–30) | Ferrel (30–60) | Polar (60–90) | Doldrums = ITCZ | Horse latitudes = 30° high
+ Rain types: orographic | convectional | cyclonic | Isohyet = equal rain line
 LOCAL: Loo = hot dry plains May–Jun | Kal Baisakhi = E/NE thunderstorms Apr–May
- Mango = KL/KA | Blossom = coffee TN/KL | Anabatic day-up | Katabatic night-down
- Shamal ≠ Austria (Arabia) | Mistral ≠ Australia (S France)
-CYCLONES: BoB > Arabian Sea | SST ≥26–27 °C | not on equator | peak May–Jun & Oct–Dec
+ Mango = KL/KA | Blossom = coffee TN/KL | Sea breeze day / land breeze night
+ Anabatic day-up | Katabatic night-down | Foehn/Chinook = warm dry lee (not cold katabatic)
+CYCLONES: BoB > Arabian Sea | SST ≥26–27 °C | eye calm / eyewall fiercest | not on equator
  Hurricane USA | Typhoon/Taifu China–Japan | Baguio Philippines | Willy-willies Australia
  Thornthwaite = "vegetation is true index of climate" — NOT Köppen
 ```
@@ -63,6 +65,7 @@ CYCLONES: BoB > Arabian Sea | SST ≥26–27 °C | not on equator | peak May–J
 | Köppen | Thornthwaite | T+P letter codes vs moisture/vegetation index | कोपेन / थॉर्नथ्वेट |
 | Absolute humidity | Relative humidity | Mass of vapour vs % of saturation (RH falls as T rises) | निरपेक्ष / सापेक्ष आर्द्रता |
 | Active monsoon | Break monsoon | Trough on **Ganga plain** (plains wet) vs trough on **Himalaya** (central India dry) | सक्रिय / विराम मानसून |
+| Doldrums | Horse latitudes | Rainy ITCZ calm belt vs dry subtropical **high** near 30° | डोलड्रम / हॉर्स अक्षांश |
 | Am (Köppen) | As (Köppen) | Short dry spell / wet SW coast–NE vs **dry summer** Coromandel (NE rain) | Am / As |
 | Willy-willy | Brickfielder | Australian **cyclone** vs Australian **hot local wind** | विली-विली / ब्रिकफील्डर |
 | Bora | Chinook | Adriatic **cold** vs Rockies **warm dry** | बोरा / चिनूक |
@@ -151,6 +154,7 @@ D. Both true and R is the correct explanation of A
 
 - The Sun sends **short-wave** radiation. The Earth re-emits **long-wave infrared**.
 - The troposphere is heated **from below** by long-wave terrestrial radiation plus sensible and latent heat. It is **not** heated mainly by incoming short-wave (2022 Q138).
+- **Latent heat (easy):** When water vapour **condenses** into cloud droplets, it releases heat into the air. That is a big energy source inside thunderstorms and monsoons.
 - Without the natural greenhouse effect, mean surface temperature would be about **−18 °C**. The actual mean is about **15 °C**.
 
 | Surface | Albedo | Lock |
@@ -184,29 +188,40 @@ D. Both true and R is the correct explanation of A
 
 ### Pressure, wind, Coriolis
 
-**Easy idea:** Air moves from **high** pressure to **low** pressure (like water downhill). Earth’s spin then **bends** that path — that bend is **Coriolis**.
+**Easy idea in 3 steps**
 
-| Hemisphere | Coriolis bend | Memory |
-|------------|---------------|--------|
-| **Northern** | to the **right** | Face the wind’s destination → deflect right |
-| **Southern** | to the **left** | Face the wind’s destination → deflect left |
+1. **Pressure decides where air wants to go.** Air always tries to go from **high** pressure to **low** pressure — same way water runs downhill.
+2. **Earth is spinning.** So the air’s path does not stay straight. It gets a small sideways push. That sideways push is **Coriolis**.
+3. **Coriolis does not create wind.** It only **bends** wind that is already moving.
 
-- Wind blows from **high pressure toward low pressure**.
-- **Coriolis** deflects moving air to the **right in the Northern Hemisphere** and to the **left in the Southern Hemisphere** (2023 Q68). It is **not** magnetism and **not** “temperature force.”
-- In **summer**, a thermal **low** sits over north-west India / Pakistan. That low helps pull the south-west monsoon.
-- In **winter**, a thermal **high** sits over north-west India. Winds are then dry from the north-east and north-west.
-- The **monsoon trough** is a **low-pressure** axis along the Himalayan foot and the Ganga plain.
+| Place | How Coriolis bends the wind | Super-simple memory |
+|-------|----------------------------|---------------------|
+| **Northern Hemisphere** (India) | bends to the **right** | Stand facing where the wind is going → it drifts to **your right** |
+| **Southern Hemisphere** | bends to the **left** | Stand facing where the wind is going → it drifts to **your left** |
 
-| Spell | Where the trough sits | Rain pattern |
-|-------|----------------------|--------------|
-| **Active monsoon** | Over the **Ganga plain** / Himalayan foot | Plains wet; good rains into UP / Bihar / MP |
-| **Break monsoon** | Shifted onto the **Himalaya** | **Central India dries**; foothills stay wet |
+**India monsoon example (why SE trade becomes SW monsoon):**  
+In the Southern Hemisphere, trade winds blow toward the equator from the south-east. When they **cross the equator into India’s side**, Coriolis starts bending them to the **right**. South-east winds then turn into **south-west** winds. That is the classic SW monsoon turn.
 
-> **Exam note:** 2023 Q68 — leftward deflection in the Southern Hemisphere is **Coriolis**, not temperature, pressure, or the magnetic field.
+| Do not confuse with | Why wrong |
+|---------------------|-----------|
+| Magnetic field | Coriolis is from Earth’s **spin**, not magnetism |
+| Temperature itself | Heat makes **pressure** differences; Coriolis only **bends** the resulting wind |
+| “Coriolis sucks air” | No — **pressure** pulls air; Coriolis only deflects |
+
+- In **summer**, hot land makes a thermal **low** over north-west India / Pakistan. Ocean air rushes in → helps the south-west monsoon.
+- In **winter**, cool land makes a thermal **high** over north-west India. Winds blow out as dry north-east / north-west winds.
+- The **monsoon trough** is simply a long **low-pressure** line along the Himalayan foot and Ganga plain.
+
+| Spell | Where the low (trough) sits | What you feel |
+|-------|----------------------------|---------------|
+| **Active monsoon** | Over the **Ganga plain** | Plains get rain (UP / Bihar / MP) |
+| **Break monsoon** | Climbs onto the **Himalaya** | **Central India goes dry**; foothills stay wet |
+
+> **Exam note:** 2023 Q68 — leftward bend in the Southern Hemisphere = **Coriolis**, not temperature, pressure, or the magnetic field.
 
 ### Atmosphere, pressure belts, ITCZ
 
-**Easy idea:** The **ITCZ** is a rainy meeting belt near the equator where trade winds converge. In India’s summer it **shifts north** onto the subcontinent and becomes the monsoon trough’s guide rail.
+**Easy idea of the whole machine:** The Sun heats the equator more than the poles. Hot air rises near the equator. Cold air sinks near the poles. That unequal heating builds a set of **pressure belts**. Air then flows between those belts as **planetary winds**. Earth’s spin (**Coriolis**) bends those winds so they are not north–south straight lines.
 
 | Layer | Height | Lock |
 |-------|--------|------|
@@ -217,23 +232,128 @@ D. Both true and R is the correct explanation of A
 | Thermosphere | about 80–400 km | Ionosphere and aurora |
 | Exosphere | outermost | Space |
 
-| Belt | About | Lock |
-|------|-------|------|
-| Equatorial low / **ITCZ** | 0° (shifts seasonally) | Convergence and rain; **shifts north over India in summer** |
-| Subtropical high | 30° | Descending dry air; Thar and Sahara on west-coast margins |
-| Subpolar low | 60° | Westerlies and extra-tropical cyclones |
-| Polar high | 90° | Polar easterlies |
+#### Why pressure belts exist (simple chain)
 
-| Planetary wind | From → to | Belt |
-|----------------|-----------|------|
-| **Trade winds** | East → west | Tropics toward ITCZ |
-| **Westerlies** | West → east | About 30°–60° |
-| **Polar easterlies** | East → west | Out of polar highs |
+| Step | What happens | Result |
+|------|--------------|--------|
+| 1 | Equator gets strongest sun | Air heats, expands, **rises** |
+| 2 | Rising air leaves less weight on the surface | Equatorial **low** pressure (ITCZ belt) |
+| 3 | Rising air cools aloft and spreads poleward | Around **30°** it sinks |
+| 4 | Sinking air presses on the surface | Subtropical **high** (horse latitudes) |
+| 5 | Some surface air from 30° flows back to the equator | Becomes **trade winds** |
+| 6 | Some surface air from 30° flows toward the poles | Becomes **westerlies** (after Coriolis bend) |
+| 7 | Cold heavy air at the poles sinks | Polar **high** |
+| 8 | Polar air flows toward 60° | Becomes **polar easterlies**; meets westerlies → subpolar **low** |
+
+**Three giant loops (easy names)**
+
+| Cell | Rough span | Easy story |
+|------|------------|------------|
+| **Hadley cell** | Equator ↔ about 30° | Rise at ITCZ → sink at 30° → trades return to equator |
+| **Ferrel cell** | About 30° ↔ 60° | Mid-latitude loop that carries the **westerlies** |
+| **Polar cell** | About 60° ↔ pole | Sink at pole → polar easterlies → rise near 60° |
+
+| Nickname | What it means |
+|----------|---------------|
+| **Doldrums** | Calm, rainy ITCZ belt (old sailors hated the weak surface wind) |
+| **Horse latitudes** | Calm, dry subtropical highs near 30° (sinking air) |
+
+| Belt | About | High or low? | What you feel on the ground |
+|------|-------|--------------|-----------------------------|
+| Equatorial low / **ITCZ** | Near 0° (moves with the Sun) | **Low** | Hot, rising air, clouds, heavy rain |
+| Subtropical high | About **30° N / 30° S** | **High** | Sinking dry air; deserts on western margins (Sahara, Thar class) |
+| Subpolar low | About **60° N / 60° S** | **Low** | Stormy meeting of warm and cold air; mid-latitude cyclones |
+| Polar high | About **90°** | **High** | Very cold, dry, outflowing winds |
+
+#### ITCZ — Inter Tropical Convergence Zone (in detail)
+
+**Name broken into plain words**
+
+| Word | Meaning |
+|------|---------|
+| **Inter-Tropical** | Between the Tropics (roughly around the equator belt) |
+| **Convergence** | Winds **meet / pile in** from both sides |
+| **Zone** | A belt, not one thin line on every day |
+
+**Why it forms**
+
+- Trade winds of the Northern Hemisphere (NE trades) and Southern Hemisphere (SE trades) blow toward the warm equator.
+- They meet in a broad trough of **low pressure**.
+- Meeting air has nowhere to go but **up**. Rising moist air cools → clouds → **heavy convection rain**. That is why the ITCZ is a rainy belt, not a dry belt.
+
+**Important properties**
+
+- The ITCZ is a **low**, never a high.
+- It is not fixed on the geographic equator every month. It **follows the overhead Sun** (roughly).
+- In **Northern Hemisphere summer**, it shifts **north**. Over South Asia it becomes the guide for India’s **monsoon trough**.
+- In **Northern Hemisphere winter**, it shifts **south** of the equator. India then sits under dry **north-east** trades for most areas.
+- When the ITCZ / monsoon trough sits on the Ganga plain → **active** rains. When it jumps onto the Himalaya → **break** (central India dry).
+
+| Season | Where ITCZ sits (class picture) | India effect |
+|--------|----------------------------------|--------------|
+| Summer (Jun–Sep) | Shifted **north** over the subcontinent | Pulls SW monsoon; monsoon trough rains |
+| Winter (Dec–Feb) | Shifted **south** | Dry NE winds over most of India |
+| El Niño years | Indian ITCZ often **weaker** / convection stays over central Pacific | Monsoon tendency weakens |
+
+#### Planetary winds — why they blow, which way, what they cause
+
+**1. Trade winds**
+
+| Item | Lock |
+|------|------|
+| Where | Tropics — roughly between subtropical high (~30°) and ITCZ |
+| Surface flow | From subtropical **high** toward equatorial **low** |
+| Coriolis bend | NH → become **north-east trades**; SH → become **south-east trades** |
+| Map arrow people remember | Broadly **east → west** (they blow from the east) |
+| Why “trade”? | Old sailing ships used them for reliable ocean routes |
+
+**What they cause**
+
+- Steady tropical winds over oceans.
+- They feed moisture into the **ITCZ** rain belt.
+- For India: winter **north-east trades** are mostly dry on land. When southern trades cross the equator in summer and bend right, they become the **south-west monsoon**.
+
+**2. Westerlies**
+
+| Item | Lock |
+|------|------|
+| Where | About **30°–60°** in both hemispheres |
+| Surface flow | From subtropical **high** toward subpolar **low** |
+| Coriolis bend | Turns them into winds from the **west** → **west → east** flow |
+| Strength | Stronger and stormier in the Southern Hemisphere (more ocean, fewer mountains) |
+
+**What they cause**
+
+- Carry mid-latitude weather systems west to east.
+- Steer **extra-tropical cyclones** and, for India, help bring **Western Disturbances** in winter (via the subtropical westerly jet family).
+- Exam trap: “Westerlies blow only in the Southern Hemisphere” is false. They exist in **both** hemispheres between about 30° and 60°.
+
+**3. Polar easterlies**
+
+| Item | Lock |
+|------|------|
+| Where | From polar high (~90°) toward subpolar low (~60°) |
+| Surface flow | Cold air spills out of the polar high |
+| Coriolis bend | Becomes winds from the **east** → **east → west** flow |
+| Character | Cold, dry, often weak compared with trades/westerlies in textbooks |
+
+**What they cause**
+
+- Export cold polar air toward mid-latitudes.
+- Where they meet the warmer **westerlies** near 60°, air rises in the subpolar low → stormy belt.
+
+#### One-look revision table
+
+| Wind | From → to (surface sense) | Belt | Why it happens | Main effect |
+|------|---------------------------|------|----------------|-------------|
+| **Trade winds** | **East → west** (NE / SE trades) | Tropics → ITCZ | Air leaves 30° high toward equatorial low; Coriolis bends it | Feed ITCZ rain; become India’s SW monsoon after equator cross |
+| **Westerlies** | **West → east** | About **30°–60°** | Air leaves 30° high toward 60° low; Coriolis bends it | Mid-latitude storms; help WD / westerly jet family |
+| **Polar easterlies** | **East → west** | Out of polar highs | Cold air leaves polar high toward 60° low; Coriolis bends it | Cold outbreaks; meet westerlies at subpolar low |
 
 - The ITCZ is an equatorial **low**. The monsoon trough is its summer continental arm over India.
 - El Niño years often keep convection over the central Pacific. The Indian ITCZ is then weaker.
 
-> **Exam note:** Protective ozone sits in the **stratosphere**, not the troposphere. The ITCZ is a **low**, not a high. 2025 Q45: ozone blocks UV **and** depletion is linked to CFCs — both true.
+> **Exam note:** Protective ozone sits in the **stratosphere**, not the troposphere. The ITCZ is a **low**, not a high. 2025 Q45: ozone blocks UV **and** depletion is linked to CFCs — both true. Trade / westerly / polar-easterly directions above are the standard planetary locks.
 
 ---
 
@@ -255,6 +375,13 @@ D. Both true and R is the correct explanation of A
 
 ### Monsoon mechanism (how the SW monsoon starts)
 
+**Two coaching ideas (both useful — not either/or)**
+
+| Idea | Easy lock |
+|------|-----------|
+| **Thermal concept** | Land heats faster than sea → summer **low** over India pulls ocean air in |
+| **Dynamic / Flohn idea** | Pressure belts and the **ITCZ shift** with the Sun; monsoon is largely that seasonal shift of planetary winds |
+
 | Step | What happens | Easy lock |
 |------|--------------|-----------|
 | 1 | Tibetan Plateau / NW India heat strongly in late spring | Thermal **low** over NW India–Pakistan |
@@ -266,7 +393,7 @@ D. Both true and R is the correct explanation of A
 | 7 | Onset **burst** at Kerala (~1 June) — sudden moist winds with thunder/lightning — then marches north | Front advances ~10 days per degree of latitude |
 
 - In **winter** the ITCZ shifts **south**. Winds reverse to **north-east**. Over most of India those NE trades are dry (land → sea). Only after they pick up Bay moisture do they rain on the **Coromandel**.
-
+- **Withdrawal order:** the SW monsoon leaves the **north-west first** (about early September class) and exits the extreme south last. That north→south pullback is the **retreating monsoon**.
 ### Southwest monsoon
 
 - The south-west monsoon lasts from **June to September**. It gives about **75–90%** of India’s annual rain.
@@ -343,6 +470,20 @@ D. Both true and R is the correct explanation
 - IMD calls a **rainy day** a day with **2.5 mm or more** rain in 24 hours.
 - India’s tropical monsoon belt allows **kharif, rabi, and zaid**. That statement in 2024 Q73 is true. The claim that India has the highest cultivated area versus the USA, China, and Japan is false.
 
+**How rain forms (three exam types)**
+
+| Type | Easy cause | India example |
+|------|------------|---------------|
+| **Orographic** | Moist wind is forced **up a mountain**, cools, rains on the windward side; leeward stays dry (rain shadow) | Western Ghats windward vs Deccan; Meghalaya scarp |
+| **Convectional** | Hot ground heats air → air rises in a column → afternoon thunder showers | Pre-monsoon storms; parts of interior summer heating |
+| **Cyclonic / frontal** | Air rises in a **low-pressure storm** system | Monsoon depressions; Western Disturbances; Bay cyclones |
+
+| Map line | Meaning |
+|----------|---------|
+| **Isotherm** | Same temperature |
+| **Isobar** | Same pressure |
+| **Isohyet** | Same rainfall |
+
 ### Northeast monsoon and retreating monsoon
 
 **Easy idea:** “Retreating” = the **SW monsoon packing up** and leaving. “North-east monsoon” = a **separate winter rainy season** that soaks only the south-east coast. Same autumn calendar window — **different jobs**.
@@ -391,7 +532,9 @@ D. Both true and R is the correct explanation
 - Western Disturbances travel from the Mediterranean–Caspian–Atlantic region into north-west India.
 - They are **not** the retreating monsoon. They are **not** the south-west monsoon. They are **not** Bay of Bengal depressions.
 
-> **Exam note:** Winter north-west rain = **Western Disturbances**. The rainfall gradient is **west to east**.---
+> **Exam note:** Winter north-west rain = **Western Disturbances**. The rainfall gradient is **west to east**.
+
+---
 
 ## 2.3 Winds, Storms and Cyclones
 
@@ -404,11 +547,24 @@ D. Both true and R is the correct explanation
 - **Mango showers** are pre-monsoon rains of **April–May** in **Kerala and Karnataka**. They help mangoes ripen.
 - **Blossom / cherry showers** are pre-monsoon rains of **April–May** in the coffee belt of **Tamil Nadu and Kerala**. They help coffee flower.
 - **Andhi** is a pre-monsoon dust-storm wall of Rajasthan.
-- The **sea breeze** blows onshore by day (land hotter → low over land). The **land breeze** blows offshore by night (sea warmer relative to land).
-- An **anabatic** wind is a **daytime upslope** wind on mountain slopes.
-- A **katabatic** wind is a **night-time downslope** drainage of cold air into valleys. Frost then sits on the valley floor.
-- **Foehn** and **Chinook** are **warm, dry** downslope winds after air has crossed a mountain. They are world cousins of a special warming downslope, not the cold katabatic of a Himalayan valley night.
 - **Elephanta** is a Malabar (Kerala) wind of about **September**. It marks the fading of the south-west monsoon and can bring rough seas.
+
+**Sea breeze and land breeze (daily coastal flip)**
+
+| Time | Land vs sea | Wind |
+|------|-------------|------|
+| **Day** | Land heats faster → low over land | **Sea breeze** — cool air from sea → land (onshore) |
+| **Night** | Land cools faster → high over land | **Land breeze** — air from land → sea (offshore) |
+
+**Mountain slope winds**
+
+| Wind | When | Direction | Easy cause |
+|------|------|-----------|------------|
+| **Anabatic** | Day | **Upslope** | Sun heats slope; warm air climbs |
+| **Katabatic** | Night | **Downslope** | Slope cools; heavy cold air drains into the valley (frost on floor) |
+| **Foehn / Chinook** | After air crosses a ridge | Warm **and dry** downslope | Air rises on windward side, rains/snows, loses moisture; on the lee it sinks and **warms by compression** (“snow eater”) |
+
+- Foehn / Chinook are **not** the same as cold Himalayan night katabatic drainage. One is warm-dry after a mountain crossing; the other is cold night drainage.
 
 | Name | Region | Season | Character |
 |------|--------|--------|-----------|
@@ -502,7 +658,16 @@ D. Both true and R is the correct explanation
 | Coriolis | Enough spin — usually **5°–30°** latitude |
 | Vertical wind shear | **Low** shear (strong SW-monsoon shear kills many Bay storms in Jul–Sep) |
 
+**Inside the storm (simple parts)**
+
+| Part | What it is |
+|------|------------|
+| **Eye** | Calm centre; air sinks; clearest skies |
+| **Eyewall** | Ring of fiercest winds and rain around the eye |
+| Spiral bands | Outer rain bands feeding the storm |
+
 - Peaks are **pre-monsoon (May–June)** and **post-monsoon (October–December)**. Strong south-west-monsoon shear suppresses Bay cyclones in July–September.
+- In the Northern Hemisphere, tropical cyclones spin **anti-clockwise** (Coriolis to the right).
 
 | Basin | Frequency / strength | Why | Hit states |
 |-------|---------------------|-----|------------|
@@ -623,6 +788,14 @@ D. (A) true, (R) false
 
 **Easy idea:** The Pacific and Indian Oceans can run a **hot–cold seesaw**. When the east Pacific off Peru goes unusually warm (**El Niño**), India’s monsoon often weakens. When the west Indian Ocean is warmer than the east (**+IOD**), India’s monsoon often gets help.
 
+**Normal Pacific vs El Niño (Walker idea, simplified)**
+
+| Condition | East Pacific (Peru) | West Pacific | What happens |
+|-----------|---------------------|--------------|--------------|
+| **Normal** | Cool (upwelling on) | Warm | Trades blow west; rain over Indonesia / warm pool |
+| **El Niño** | **Warm** surface water | Relatively cooler | Trades weaken; rain shifts east; Peru upwelling fails |
+| **La Niña** | Extra cool | Extra warm | Trades stronger; opposite of El Niño |
+
 | Signal | Ocean picture | Indian monsoon tendency | Extra lock |
 |--------|---------------|-------------------------|------------|
 | **El Niño** | Warm water **off Peru** / E Pacific | **Weaker** monsoon (tendency, not a law) | Cuts **upwelling** → **less** plankton / fish |
@@ -633,6 +806,7 @@ D. (A) true, (R) false
 
 **Why plankton fall in El Niño (easy):** Normally cold deep water rises off Peru (**upwelling**) and feeds plankton. Warm El Niño water **caps** that rise → plankton and fish **drop**. They do **not** increase (2023 Q67).
 
+- **ENSO** = El Niño + Southern Oscillation (ocean warm event + pressure seesaw together).
 - **IOD trap:** IOD compares **western vs eastern Indian Ocean** temperatures. It is **not** a western Indian Ocean versus **eastern Pacific** contrast (UPSC 2017 stmt 1 false). An IOD **can** modify an El Niño’s monsoon impact (stmt 2 true).
 - There is **no one-to-one** drought rule. 2019 had El Niño plus a **positive IOD** and finished near normal.
 
@@ -659,6 +833,7 @@ D. Neither 1 nor 2
 **Ans: A** — Stmt 1 true. Stmt 2 false: warm El Niño water **reduces** upwelling, so plankton and fish **fall**. **C** is the classic trap that keeps both. **B/D** drop the correct Peru definition.
 
 </details>
+
 ---
 
 ## Consolidated Reference — Once Only
