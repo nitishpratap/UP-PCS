@@ -310,7 +310,8 @@ Clive returned in **1765** and settled two linked treaties at Allahabad / the Pr
 - His **Ring Fence** policy used **Awadh** as a buffer around Bengal. This was **not** yet the Subsidiary Alliance.
 - He fought the **Rohilla War in 1774** with Shuja-ud-Daula against the Rohillas of Rohilkhand.
 - The **First Anglo-Maratha War** ended with the **Treaty of Salbai, 1782**.
-- The **Banaras Rebellion of 1781** was his clash with Raja **Chait Singh**.
+- The **Banaras Rebellion of 1781** was his clash with Raja **Chait Singh** of Banaras (present-day Varanasi).
+- Hastings demanded war subsidy and cavalry, tried to arrest Chait Singh at **Shivala**, then fled to **Chunar**. **Major Popham** helped crush the rising. Chait Singh was deposed. The case later fed Hastings’s impeachment.
 - The **Asiatic Society of Bengal** was founded in **1784** by **Sir William Jones**.
 - Hastings **declined** the presidentship in Jones’s favour.
 - He was impeached in Britain from **1788 to 1795** over Chait Singh, the Rohillas and presents. He was **acquitted**.
@@ -980,13 +981,43 @@ D. 3, 1, 2, 4
 
 ## 2.18 Banaras Rebellion and Akbar Fort, Prayagraj
 
-### Banaras / Chait Singh, 1781
+### Banaras Rebellion / Chait Singh, 1781
 
-**Causes:** Warren Hastings demanded extra tribute of about **₹23 lakh** and a troop levy from Raja **Chait Singh** of Banaras.
+**UP event** | present-day **Varanasi** | Raja **Chait Singh** vs **Warren Hastings** | **August–October 1781**
 
-**Course:** Hastings arrested him at **Shivala**. Guards rescued him. **Major Popham** crushed the revolt. Chait Singh fled to **Gwalior**.
+Banaras (Benares) was a semi-autonomous zamindari under Company overlordship after the mid-18th century settlements with Awadh. Raja **Balwant Singh** had earlier secured recognition; his successor **Chait Singh** held Banaras when Hastings pressed for war money.
 
-**Results:** Benares came under closer Company control. The episode became a charge in Hastings’s **impeachment**. It is **not** part of 1857.
+#### Causes
+
+- Hastings needed cash and troops for Company wars against the **Marathas**, **Mysore**, and European rivals.
+- From **1778** he levied an emergency war subsidy on Chait Singh (often cited as about **₹5 lakh**, repeated in later years). Coaching notes also use a larger arrears / penalty figure of about **₹23 lakh** for the final confrontation.
+- Hastings also demanded about **2,000 cavalry** for Company use. Chait Singh delayed or refused full compliance.
+- Hastings treated this as disobedience and went personally to Banaras in **August 1781** to enforce payment and punish the Raja.
+
+#### Course
+
+- At **Shivala (Sivala)** in Banaras, Hastings tried to place Chait Singh under arrest / house arrest.
+- Chait Singh’s supporters rose, attacked the small Company guard, and killed officers and sepoys. This is sometimes called the **Shivala / Sivala** clash.
+- Hastings barely escaped and took shelter at **Chunar Fort**.
+- The rising spread into nearby countryside and briefly disturbed Company lines toward Awadh / Bihar posts.
+- Company columns, including forces under **Major Popham**, crushed the revolt by about **October 1781**.
+- Chait Singh fled toward **Gwalior** / Bundelkhand exile. He was deposed.
+
+#### Results
+
+- Banaras came under much closer Company control. A more pliant relative, **Mahip Narayan Singh**, was installed as Raja with reduced real power.
+- Annual tribute and Company supervision tightened. Banaras’s earlier virtual autonomy ended.
+- The Banaras episode, along with the **Begums of Awadh** case and Rohilla charges, became a main count in Hastings’s long **impeachment (1788–95)** in Britain. He was finally **acquitted**.
+- This is a **1781 Warren Hastings** event in UP. It is **not** the 1857 Banaras rising and not a Dalhousie annexation.
+
+| Lock | Fact |
+|------|------|
+| Year | **1781** |
+| Place | **Banaras / Varanasi** (Shivala; Hastings fled to **Chunar**) |
+| Raja | **Chait Singh** |
+| Company head | **Warren Hastings** |
+| Suppression | **Major Popham** and reinforcing columns |
+| Aftermath | Deposition; closer Company control; impeachment charge |
 
 ### Akbar Fort, Prayagraj
 
@@ -1001,13 +1032,14 @@ D. 3, 1, 2, 4
 | Site | Expansion fact |
 |------|----------------|
 | **Prayagraj / Allahabad** | 1765 treaty; Akbar Fort; fort handed over by **Saadat Ali Khan II** in **1798** |
-| **Awadh** | Shuja at Buxar; subsidiary 1801; annex 1856 |
-| **Banaras** | Chait Singh 1781 |
+| **Awadh** | Shuja at Buxar; Begums case linked to Hastings’s impeachment; subsidiary 1801; annex 1856 |
+| **Banaras / Varanasi** | **Chait Singh rebellion 1781** vs Warren Hastings; Shivala clash; Chunar refuge |
+| **Chunar** | Hastings sheltered here during the 1781 rising |
 | **Sardhana (Meerut)** | **Begum Samru** church; Sardhana jagir after Walter Reinhardt Sombre |
 | **Jhansi** | Lapse 1853 → later 1857 revolt |
 | **Rohilkhand** | Rohilla War 1774; later Awadh cessions |
 
-> ** note:** Banaras 1781 = **Warren Hastings**, not Dalhousie. Akbar Fort = **Prayagraj**. Prayagraj fort transfer = **1798**, not 1790–97.
+> ** note:** Banaras **1781** = **Warren Hastings** vs **Chait Singh**. Do not merge with 1857. Akbar Fort = **Prayagraj**. Prayagraj fort transfer = **1798**, not 1790–97.
 
 ---
 
