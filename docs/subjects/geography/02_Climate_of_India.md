@@ -47,7 +47,7 @@ LOCAL: Loo = hot dry plains May–Jun | Kal Baisakhi = E/NE thunderstorms Apr–
  Mango = KL/KA | Blossom = coffee TN/KL | Sea breeze day / land breeze night
  Anabatic day-up | Katabatic night-down | Foehn/Chinook = warm dry lee (not cold katabatic)
 CYCLONES: BoB > Arabian Sea | SST ≥26–27 °C | eye calm / eyewall fiercest | not on equator
- Hurricane USA | Typhoon/Taifu China–Japan | Baguio Philippines | Willy-willies Australia
+ Hurricane / Typhoon / Taifu / Baguio / Willy-willies ★asked | also Cyclone=NIO | Cordonazo=Mexico | Willy≠Brickfielder
  Thornthwaite = "vegetation is true index of climate" — NOT Köppen
 ```
 
@@ -599,19 +599,26 @@ A tropical cyclone is a large spinning storm over warm ocean. It needs sea-surfa
 | **Thunderstorm / Nor’wester** | Hours; local convection | **Not** a cyclone |
 | **Tropical cyclone** | Days; ocean-scale | Synoptic storm |
 
-### Cyclone naming
+### Cyclone naming (match bank — next year can swap any pair)
 
 - The **WMO/ESCAP** panel agrees the name lists. **RSMC New Delhi (IMD)** assigns names in the north Indian Ocean.
 - Devastating names are **retired**. India has contributed names such as **Amphan**, **Yaas**, **Fani**, **Vayu**, and **Nisarga**.
+- UPPCS has already asked the four classic pairs (Hurricane / Typhoon–Taifu / Baguio / Willy-willies). Next stem can still pick **Cyclone** (NIO), **Cordonazo**, or split Taifu from Typhoon. Learn the **full basin bank**.
 
-| Local name | Country / basin |
-|------------|-----------------|
-| **Hurricane** | USA / Atlantic |
-| **Typhoon / Taifu** | NW Pacific — **China / Japan** |
-| **Baguio / Baguios** | **Philippines** |
-| **Willy-willies** | **Australia** |
+| Local / basin name | Where | Note |
+|--------------------|-------|------|
+| **Hurricane** ★ | **USA** / Atlantic–Caribbean / E Pacific | 2019–2020 PYQ lock |
+| **Typhoon** ★ | NW Pacific — **China** / Philippines / Taiwan class | 2020 Q74 “Typhoons–China” |
+| **Taifu** ★ | **Japan**-facing name for NW Pacific storm | Same basin as typhoon; 2019 paired with Japan |
+| **Baguio / Baguios** ★ | **Philippines** | 2019–2020 lock |
+| **Willy-willies** ★ | **Australia** | Cyclone — **not** Brickfielder (hot local wind) |
+| **Cyclone** | North Indian Ocean — **India / BoB / Arabian Sea** | IMD / RSMC New Delhi names |
+| **Cordonazo** | West Mexico / E Pacific coast | Lucent-class distractor |
+| **Hurricane** (also) | Caribbean / Gulf of Mexico | Same Atlantic family as USA |
 
-> **Exam note:** 2019 Q78 code **2 3 1 4** (Willy-willies–Australia, Taifu–Japan, Baguio–Philippines, Hurricanes–USA). 2020 Q74 code **3 4 2 1** (Baguios–Philippines, Hurricanes–USA, Typhoons–China, Willy-willies–Australia).
+**Named-event awareness (not a closed four-pack):** Amphan (2020, BoB→WB/Odisha), Fani (2019), Yaas (2021), Tauktae (2021, Arabian), Biparjoy (2023), Hudhud (2014), Phailin (2013), Odisha Super Cyclone (1999).
+
+> **Exam note:** 2019 Q78 code **2 3 1 4** (Willy-willies–Australia, Taifu–Japan, Baguio–Philippines, Hurricanes–USA). 2020 Q74 code **3 4 2 1** (Baguios–Philippines, Hurricanes–USA, Typhoons–China, Willy-willies–Australia). Willy-willy ≠ Brickfielder.
 
 ---
 

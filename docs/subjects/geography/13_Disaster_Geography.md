@@ -32,7 +32,8 @@ CLOUDBURST: IMD ≥100 mm/hour | Uttarakhand–HP–J&K–NE 1000–2500 m
 HEAT (IMD plains): Tmax ≥40°C then departure 4.5–6.4°C (HW) / >6.4 severe
  or actual ≥45 / ≥47 | 2 stations × 2 days | Cold: Tmin drop; plains ≤10°C gate
 CYCLONE BASINS: BoB >> Arabian Sea | peaks May–Jun & Oct–Dec
- Names : Baguio=PH | Hurricane=USA | Typhoon/Taifu=China–Japan | Willy-willy=AU
+ Names : Baguio=PH | Hurricane=USA | Typhoon/Taifu=China–Japan | Willy-willy=AU | Cyclone=NIO | Cordonazo=Mexico
+ 2019 storms: Dorian=Bahamas | Hagibis=Japan | Lekima=China | Mitag=Korea (+ Amphan/Fani/Tauktae awareness)
  2019 names: Dorian=Bahamas | Hagibis=Japan | Lekima=China | Mitag=Korea
 HVRC: Hazard × Vulnerability / Capacity ≈ Risk | DM cycle = mitigation → preparedness → response → recovery
  India vuln lore: ~59% quake · ~12% flood · ~5700 km cyclone/tsunami coast · ~68% cultivable drought-prone
@@ -284,22 +285,35 @@ IMD wind ladder. Basins, landfall, local names:
 | **Arabian Sea** | Fewer; **does** hit **Gujarat / Maharashtra** (1998 Kandla; **Tauktae 2021**; Biparjoy 2023) |
 | Peaks | **May–Jun** and **Oct–Dec** (retreating monsoon). Mid-monsoon shear suppresses BoB |
 
-**India events:** Odisha Super Cyclone **1999**; Phailin 2013; Hudhud 2014 (Vizag); Fani 2019; **Amphan 2020**; Yaas 2021.
-**Local names**
+**India events (awareness):** Odisha Super Cyclone **1999**; Phailin 2013; Hudhud 2014 (Vizag); Fani 2019; **Amphan 2020**; Yaas 2021 — detail in named-storm bank below.
 
-| Name | Country |
-|------|---------|
-| **Baguio / Baguios** | **Philippines** |
-| **Hurricane** | **USA** / Atlantic |
-| **Typhoon / Taifu** | **China / Japan** (NW Pacific) |
-| **Willy-willies** | **Australia** |
+**Local names (match bank — next year can swap any pair)**
 
-**2019 cyclone-name match lock**
+UPPCS has already asked Hurricane / Typhoon–Taifu / Baguio / Willy-willies. Next stem can still pick **Cyclone (NIO)** or **Cordonazo**. Learn the bank; ★ = asked set.
 
-- Dorian — **Bahamas**
-- Hagibis — **Japan**
-- Lekima — **China**
-- Mitag — **Jeju, South Korea**
+| Name | Country / basin | Note |
+|------|-----------------|------|
+| **Baguio / Baguios** ★ | **Philippines** | Asked lock |
+| **Hurricane** ★ | **USA** / Atlantic–Caribbean | Asked lock |
+| **Typhoon** ★ | NW Pacific — **China** class | Asked lock |
+| **Taifu** ★ | **Japan**-facing NW Pacific name | Asked with Japan |
+| **Willy-willies** ★ | **Australia** | Cyclone ≠ Brickfielder |
+| **Cyclone** | North Indian Ocean (**India**/BoB/Arabian) | IMD names |
+| **Cordonazo** | West Mexico Pacific | Coaching distractor |
+
+**2019 named-storm match (asked four) + nearby awareness**
+
+| Storm | Most affected (lock) |
+|-------|----------------------|
+| **Dorian** ★ | **Bahamas** |
+| **Hagibis** ★ | **Japan** |
+| **Lekima** ★ | **China** |
+| **Mitag** ★ | **Jeju, South Korea** |
+| Amphan (2020) | West Bengal / Odisha |
+| Fani (2019) | Odisha |
+| Tauktae (2021) | Gujarat / west coast |
+| Biparjoy (2023) | Gujarat / Arabian Sea |
+| Odisha Super Cyclone (1999) / Phailin / Hudhud / Yaas | Classic India east-coast set |
 
 ---
 

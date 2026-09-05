@@ -259,15 +259,21 @@ D. Gujarat
 - Sri Lanka — Sri Jayawardenepura Kotte (Colombo = commercial).
 - Maldives — Malé.
 
-## Central Asia capitals, 2019 lock
+## Central Asia capitals (match bank)
 
-**Order in the paper:** Uzbekistan–Tajikistan–Kyrgyzstan–Turkmenistan
+2019 asked four “Stan” capitals. Next paper can still pick **Kazakhstan** or swap names. Learn the full set; ★ = 2019 order.
 
-- Uzbekistan — **Tashkent**.
-- Tajikistan — **Dushanbe**.
-- Kyrgyzstan — **Bishkek**.
-- Turkmenistan — **Ashgabat**.
-- Kazakhstan — Astana (Nur-Sultan phase; Almaty is not the capital).
+| Country | Capital | Trap |
+|---------|---------|------|
+| **Uzbekistan** ★ | **Tashkent** | — |
+| **Tajikistan** ★ | **Dushanbe** | Not Ashgabat |
+| **Kyrgyzstan** ★ | **Bishkek** | — |
+| **Turkmenistan** ★ | **Ashgabat** | Not Dushanbe |
+| **Kazakhstan** | **Astana** (Nur-Sultan phase) | Almaty is **not** the capital |
+| Afghanistan | Kabul | Neighbourhood awareness |
+| Iran | Tehran | Neighbourhood awareness |
+
+**2019 paper order:** Uzbekistan → Tajikistan → Kyrgyzstan → Turkmenistan.
 
 ## Capitals that are not the famous city
 
@@ -548,15 +554,47 @@ D. Lake Manzala-Lake Timsah- Cireat Bitter Lake-Little Bitter Lake
 
 ## N.10 Mountains (map)
 
-**West → east (2024):** Pontic (N Turkey) → Zagros (W Iran) → Hindu Kush (Afghanistan) → Karakoram.
+### Range–region match bank (next year can ask any)
+
+2024 asked only a **west → east** four-pack. Learn the atlas bank; ★ = that paper’s set.
+
+| Range / highland | Region / country lock | Tag |
+|------------------|----------------------|-----|
+| **Pontic** ★ | Northern **Turkey** (Black Sea side) | 2024 W→E |
+| **Zagros** ★ | Western **Iran** | 2024 W→E |
+| **Hindu Kush** ★ | **Afghanistan** (into N Pakistan) | 2024 W→E |
+| **Karakoram** ★ | N Pakistan / Ladakh / China border | 2024 W→E; K2 |
+| Alps | **Europe** (France–Switzerland–Italy–Austria) | Mont Blanc |
+| Atlas | NW **Africa** (Morocco–Algeria–Tunisia) | |
+| Andes | **South America** (spine) | Aconcagua in Argentina |
+| Rockies | **North America** (W USA–Canada) | |
+| Appalachians | Eastern **USA** | Older fold belt |
+| Urals | **Russia** — Europe / Asia conventional divide | |
+| Caucasus | Russia / Georgia / Azerbaijan belt | **Elbrus** (Europe exam peak) |
+| Drakensberg | **South Africa** / Lesotho | |
+| Great Dividing Range | **Australia** (east) | |
+| Pamir | Tajikistan / “Roof of the World” knot | |
+| Tien Shan | Central Asia / China–Kyrgyzstan | |
+| Kunlun | North of Tibetan Plateau (**China**) | |
+| Altai | Russia / Mongolia / China / Kazakhstan | |
+| Ethiopian Highlands | **Ethiopia** / Horn of Africa | |
+
+**West → east (2024 asked order):** Pontic (N Turkey) → Zagros (W Iran) → Hindu Kush (Afghanistan) → Karakoram.
 
 - Paper code **2, 4, 3, 1** when Karakoram=1, Pontic=2, Hindu Kush=3, Zagros=4.
 
-**Highest peak by continent**
+### Highest peak by continent (match bank)
 
-- Asia — Everest. South America — Aconcagua (**Argentina**).
-- North America — Denali. Africa — Kilimanjaro (**Tanzania**, not Kenya).
-- Europe (exam) — Elbrus. Australia mainland — Kosciuszko.
+| Continent | Peak | Country lock / trap |
+|-----------|------|---------------------|
+| Asia | **Everest** | Nepal–China |
+| South America | **Aconcagua** | **Argentina** |
+| North America | **Denali** | USA (Alaska) |
+| Africa | **Kilimanjaro** | **Tanzania** (not Kenya) |
+| Europe (exam) | **Elbrus** | Russia / Caucasus |
+| Australia (mainland) | **Kosciuszko** | Australia |
+| Antarctica | Vinson Massif | Awareness |
+
 - Nobi and Kanto plains = **Japan**, not Korea/China (2021).
 
 **Inline PYQ — UPPCS Prelims 2024, Q76**

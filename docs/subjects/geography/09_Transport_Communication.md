@@ -383,6 +383,32 @@ India’s mainland plus island coasts stretch about **7,517 km**.
 | West / NW | Kandla (**Deendayal**, Gujarat), Mumbai, JNPT, Mormugao (Goa), New Mangalore (Karnataka), Cochin (Kerala) |
 | East / SE | Kolkata–Haldia, Paradip (Odisha), Visakhapatnam (Andhra Pradesh), Chennai, Ennore (**Kamarajar**), Tuticorin (**VOC**, Tamil Nadu) |
 
+### Port–state match bank (next year can ask any)
+
+2025 Q50 mixed **major + non-major** names. Learn the bank; ★ = that paper’s set.
+
+| Port | State | Tag |
+|------|-------|-----|
+| Kandla / Deendayal | **Gujarat** | Major; NW hinterland |
+| Mumbai | **Maharashtra** | Major; natural harbour class |
+| JNPT / JNPA | **Maharashtra** | Container flagship |
+| Mormugao | **Goa** | Major; iron-ore lore |
+| New Mangalore | **Karnataka** | Major |
+| Cochin / Kochi | **Kerala** | Major; natural harbour class |
+| **Alappuzha** ★ | **Kerala** | Non-major; 2025 Q50 |
+| Kolkata–Haldia | **West Bengal** | Major; riverine |
+| **Paradip** ★ | **Odisha** | Major; 2025 Q50 |
+| Visakhapatnam | **Andhra Pradesh** | Major; natural harbour class |
+| **Kakinada** ★ | **Andhra Pradesh** | Non-major; 2025 Q50 |
+| Krishnapatnam | **Andhra Pradesh** | Non-major / private class |
+| Chennai | **Tamil Nadu** | Major; often artificial harbour |
+| Ennore / Kamarajar | **Tamil Nadu** | Major; N of Chennai |
+| **Tuticorin / VOC** ★ | **Tamil Nadu** | Major; 2025 Q50 |
+| Mundra / Pipavav | **Gujarat** | Non-major / private west coast |
+| Dhamra | **Odisha** | Non-major east coast |
+
+- **Uttar Pradesh has no major seaport.** Do not invent one in match lists.
+
 **Inline PYQ — UPPCS Prelims 2025, Q50**
 
 Match List-I with List-II and choose the correct answer using the code given below the lists.
