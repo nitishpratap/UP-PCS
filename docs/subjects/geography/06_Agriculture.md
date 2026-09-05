@@ -10,56 +10,49 @@
 **Revolutions:** Green | White | Blue | Yellow | Golden | Silver | Pink | Rainbow | Evergreen
 </details>
 
-> **Sources baked in:** NCERT Class 10 (Agriculture), Class 12 (Resources), **PMF IAS** cropping patterns + crop conditions + GR/BGREI + irrigation, ICAR/Planning Commission zones, UPPCS Prelims 2018–2025  
+> **Sources baked in:** NCERT Class 10 (Agriculture), Class 12 (Resources), **PMF IAS** cropping patterns + crop conditions + GR/BGREI + irrigation, ICAR/Planning Commission zones, **Ghatnachakra** Agriculture (institutions, practices, variety/disease locks, board HQs), UPPCS Prelims 2018–2025  
 > **Exam weight:** ★★★★ — crop triples, ACZ 15, revolutions match, CACP/MSP/FRP, GR personalities, UP cane/potato  
 > **Last verified:** August 2026  
 > **Current Affairs:** CCEA MSP — **22 mandated crops**; CACP recommends → Cabinet; Kharif 2026–27 common paddy **₹2,441/q**; MSP ≥ **1.5×** cost (Budget 2018–19)
 
 ---
 
-## Quick Revision — Spine Only
+## Consolidated — 30 Must-Score Locks
 
-```
-NSA = sown ≥1×/year | GCA = all sowings counted | Intensity = GCA/NSA × 100 (~111% in 1950-51 → ~156% now)
- ~86% holdings small/marginal | ~half NSA still rainfed | GW ~64% of irrigated area
-RICE: methods transplant / broadcast / drill / DSR / AWD | WB volume > UP > PB; PB yield king
- Textbook producer often #2 after China; 2024–25 GoI claim #1 — don’t mix the two stems
- Cotton 6–8 months; ~2/3 rainfed; 3 zones (N alluvial, C black, S mixed); hates waterlogging
- Cane: frost + loo hurt north; south frost-free; ratoon; heavy rain = low sugar; dry = fibrous
- Jute rainfed, little fert vs cotton; standing water for retting
- GR costs: monoculture, GW crash, millet/pulse neglect, stubble window PB–HR | BGREI = east rice systems
-SEASONS: Kharif Jun–Oct (rice, maize, jowar, bajra, ragi, cotton, jute, GN, soy, tur)
- Rabi Oct–Mar (wheat, barley, gram, mustard, peas, linseed) + western disturbances help
- Zaid Mar–Jun (melon, cucumber, fodder, veg) | Cane = long | Tea/coffee/rubber = perennial
-RICE: >20–27°C / often >25°C; >100 cm; clayey alluvial; Aus/Aman/Boro (AS–WB–OD)
- Azolla biofert | Golden rice = Vit A | India #2 world
-WHEAT: cool grow / bright ripen; 50–75 cm; loam; RABI | two belts: Ganga–Satluj + Deccan black
- UP/PB/HR | Assam–Wheat WRONG | India #2
-JOWAR=MH | BAJRA=RJ | RAGI=KA | Maize = food+feed, mostly kharif | IYM 2023 = Shree Anna
-PULSES: N-fixing (Rhizobium) | gram rabi; tur/moong/urad kharif | India #1 producer
-OILSEEDS: GN=GJ | Mustard=RJ (rabi) | Soy=MP (kharif) | Yellow = oilseeds (NOT Golden)
-COTTON (white gold): >21°C; 50–100 cm; 210 frost-free; black soil; KHARIF | MH/GJ/TG
- Ahmedabad in cotton belt TRUE; largest textile centre traditionally MUMBAI not Ahmedabad
-JUTE (golden fibre): 25–35°C; >150 cm; alluvial; retting | WB | UP–Jute WRONG | India #1
-CANE: 21–27°C; 75–150 / irrig; long | UP quantity / MH productivity + coops (2019 both true, R doesn’t explain)
- Price = FRP (+SAP) ≠ cereal MSP
-TEA: 20–30°C; 150–300; slopes | Assam+WB+Nilgiri | plantation (2024 Q34)
-COFFEE: 15–28°C; 150–250; shade | KA>KL>TN | world 2016: Brazil>Vietnam>Colombia>Indonesia
-RUBBER: 25–35°C; >200 cm | KL (2022 Q142 correct pair)
-SPICES: pepper+cardamom = KERALA | citrus world = Mediterranean
-POTATO: UP leader | CIP-SARC = Agra (Singna) NOT Aligarh (2025 Q34 Only 1)
-GUAVA vars: Sultana, Gulabi, Kali Champa (NOT grapes)
-ACZ Planning = 15 | NARP ~127 | AER ~20 | Trans-Gangetic = GR wheat–rice
-IRRIG: canal plains | tube well NW+W UP | tank peninsula | drip horti
-MSP: CACP recommends → Cabinet decides (2024 Q43) | 22 crops
-GR: HYV+water+fert; PB–HR–W UP; Lerma Rojo/Sonora 64 / IR-8; Swaminathan; Borlaug Nobel PEACE
-WHITE: Kurien / Operation Flood / NDDB / Amul | BLUE: Hiralal Chaudhuri (fish)
-GOLDEN=horti+honey | GREY=fertiliser | YELLOW=oilseed | BLACK=petroleum (2022 Q136)
-SILVER=egg | PINK=onion/meat/prawn | RAINBOW=integrated | EVERGREEN=sustainable (Swaminathan)
-ICAR Delhi | IARI Pusa | Seed: Breeder→Foundation→Certified | KVK district
-JHUM=NE (+podu/bewar/dahiya/kumri) | Organic=no synthetic; Sikkim 1st organic state
- Precision=GIS/GPS site-specific
-India ranks: milk/pulses/jute #1; rice/wheat/cane often #2```
+1. **Net sown area (NSA)** is land sown at least once a year. **Gross cropped area (GCA)** counts every sowing. **Cropping intensity** = **GCA / NSA × 100** (about **111%** in 1950–51 to about **156%** now). About **86%** of holdings are small or marginal, and about half of NSA is still rainfed.
+2. Groundwater covers about **64%** of irrigated area. Canals suit clayey plains; tube wells dominate north-west and western Uttar Pradesh; tanks suit the peninsula; drip suits horticulture.
+3. **Kharif** (June–October) includes rice, maize, jowar, bajra, ragi, cotton, jute, groundnut, soy, and tur. **Rabi** (October–March) includes wheat, barley, gram, mustard, peas, and linseed, helped by Western Disturbances. **Zaid** (March–June) covers melons, cucumber, fodder, and vegetables. Cane is long-duration; tea, coffee, and rubber are perennial.
+4. Rice needs hot-wet conditions (often above **20–27°C** and above **100 cm** rain) on clayey alluvium. Methods include transplant, broadcast, drill, **DSR**, and **AWD**. Aus / Aman / Boro are eastern season names. **Azolla** is a biofertiliser. Golden rice carries **Vitamin A**.
+5. West Bengal often leads rice **volume**; Punjab leads **yield**. Textbook world rank is usually **second after China** unless the stem is the 2024–25 claim of first place.
+6. Wheat needs cool growing weather and bright ripening, about **50–75 cm** rain, and loam soils. It is a **rabi** crop with two belts: Ganga–Satluj plains and Deccan black soil. Assam–Wheat is a wrong pair. India is usually world **number two**.
+7. Millet locks: **Jowar = Maharashtra**, **Bajra = Rajasthan**, **Ragi = Karnataka**. Maize is food plus feed and mostly kharif. International Year of Millets 2023 marketed millets as **Shree Anna**.
+8. Pulses fix nitrogen through **Rhizobium**. Gram is rabi; tur, moong, and urad are kharif. India is the world’s top pulse producer.
+9. Oilseed locks: **Groundnut = Gujarat**, **Mustard = Rajasthan** (rabi), **Soybean = Madhya Pradesh** (kharif). The **Yellow Revolution** is oilseeds — not the Golden Revolution.
+10. Cotton (**white gold**) needs above about **21°C**, **50–100 cm** rain, about **210 frost-free days**, and preferably black soil. It is **kharif**, lasts about **6–8 months**, is about two-thirds rainfed, hates waterlogging, and has three zones (north alluvial, central black, south mixed).
+11. Ahmedabad lies in the cotton belt, but India’s traditional largest textile mill centre is **Mumbai**, not Ahmedabad.
+12. Jute (**golden fibre**) needs about **25–35°C**, above **150 cm** rain, alluvial soil, and standing water for **retting**. The state lock is **West Bengal**. Uttar Pradesh–Jute is wrong. India is world number one in jute.
+13. Sugarcane needs about **21–27°C** and **75–150 cm** rain or irrigation. **Uttar Pradesh leads quantity**; **Maharashtra leads productivity** and cooperatives. Frost and Loo hurt the north; the south is frost-free. Heavy rain lowers sugar; dry stress makes fibre. Price policy is **FRP** (plus SAP), not cereal MSP. Ratoon means a crop from stubble.
+14. Tea is a **plantation** crop needing about **20–30°C**, **150–300 cm** rain, and slopes — Assam, West Bengal, and Nilgiri. Coffee needs shade and is strongest in **Karnataka**, then Kerala and Tamil Nadu.
+15. Rubber needs about **25–35°C** and above **200 cm** rain; the correct state pair is **Kerala**. Pepper and cardamom also lock to **Kerala**. World citrus is a Mediterranean specialty.
+16. Potato leadership is with **Uttar Pradesh**. CIP-SARC is at **Agra (Singna)**, not Aligarh. Guava varieties Sultana, Gulabi, and Kali Champa are **guava**, not grapes.
+17. Planning Commission agro-climatic zones = **15**; NARP zones about **127**; agro-ecological regions about **20**. The Trans-Gangetic belt is the classic Green Revolution wheat–rice zone.
+18. **CACP recommends** MSP; the **Cabinet decides**. Mandated MSP crops are **22**. Cane uses FRP, not the cereal MSP schedule.
+19. Green Revolution = HYV seed + water + fertiliser (Lerma Rojo, Sonora 64, IR-8) in Punjab–Haryana–western Uttar Pradesh. Costs include groundwater crash, monoculture, millet/pulse neglect, and the stubble window. **BGREI** targets eastern rice systems. Norman Borlaug’s Nobel is for **Peace**.
+20. **M.S. Swaminathan** is the Green / Evergreen face. **Verghese Kurien** is White Revolution / Operation Flood / NDDB / Amul — not milk for Swaminathan.
+21. Revolution colours: **Golden** = horticulture + honey; **Grey** = fertiliser; **Yellow** = oilseed; **Black** = petroleum; **Silver** = egg; **Pink** = onion / meat / prawn; **Rainbow** = integrated; **Evergreen** = sustainable agriculture; **Blue** = fish (**Hiralal Chaudhuri**).
+22. Institutional locks: **ICAR** Delhi; **IARI** Pusa; seed chain **Breeder → Foundation → Certified**; **KVK** at district level. First agri university = **Pantnagar (1960)**. **Agmark** = Act **1937**. FAO grain moisture ≤ **14%**.
+23. **Jhum** is north-east shifting cultivation (also podu / bewar / dahiya / kumari / waltre). Organic farming bans synthetics; **Sikkim** is the first fully organic state. Precision farming is GIS / GPS site-specific management.
+24. India usually ranks **first** in milk, pulses, and jute, and often **second** in rice, wheat, and cane.
+25. Red rot of cane is a **fungus**; citrus canker is a **bacterium**. Command Area Development improves an existing command — it is not a new dam.
+26. Green Revolution costs include monoculture and groundwater stress in Punjab–Haryana. Bio-decomposer sprays are the free fungal stubble-management tool in recent papers.
+27. Amartya Sen’s food lock is **entitlements**, not Swaminathan’s breeding story.
+28. Lift irrigation matters where southern canal layouts are irregular. Drip and sprinkler raise water-use efficiency in horticulture and dry tracts.
+29. Cotton is **kharif**; wheat is **rabi** — never swap those seasons. Cane is long-duration and straddles seasons.
+30. World coffee order often taught for 2016 is Brazil > Vietnam > Colombia > Indonesia. Do not put Gujarat–Tea or Assam–Wheat in a correct-pair list.
+31. Mixed farming = crops + livestock. Double cropping = two crops in one year. Parallel cropping classic = **wheat + mustard**. Contract farming pioneer = **Punjab**.
+32. Green manure N% lock: **cowpea highest** among common options; sunhemp often max kg N/ha. Fertigation avoids rock / super phosphate. Conservation agri = min till + residue + rotation.
+33. Cane locks: Sugar Bowl **UP**; breeding **Coimbatore**; first mill **Pratappur 1903**; SSI = WWF–ICRISAT **2009**. Rice Bowl of India = **Krishna–Godavari delta**.
+34. Board HQ: Coffee **Bengaluru**, Tea **Kolkata**, Rubber **Kottayam**, Tobacco **Guntur**. History of Indian Agriculture = **M.S. Randhawa**.
 
 ---
 
@@ -91,6 +84,18 @@ India ranks: milk/pulses/jute #1; rice/wheat/cane often #2```
 | WB rice vs PB yield | WB often **volume** leader; Punjab **yield** leader | Punjab = largest producer always | बंगाल मात्रा; पंजाब उपज |
 | DSR vs transplant | DSR = seed in field, less water; transplant = nursery + puddle | DSR needs more standing water | डीएसआर = कम पानी |
 | Ratoon vs rotation | Ratoon = cane from **stubble**; rotation = change the crop | Call wheat a ratoon crop | रैटून = गन्ना |
+| Mixed vs double vs inter | Mixed = crops+livestock; Double = two crops/year; Inter = same-time rows | Swap definitions | मिश्रित ≠ डबल |
+| Parallel cropping | Wheat + mustard | Potato + rice as parallel | समान्तर = गेहूँ+सरसों |
+| 15 ACZ vs 20 AER | Planning ACZ **15**; NBSS AER **20**; Sengupta micro **60** | Swap 15/20 | 15 जलवायु; 20 पारिस्थितिक |
+| Pantnagar year | First agri uni **1960** (Nehru; later GBPUAT) | 1950 / 1970 | पंतनगर 1960 |
+| Randhawa vs Swaminathan | History of Indian Agriculture = **Randhawa** | Credit Swaminathan | रंधावा पुस्तक |
+| Agmark Act | **1937** grading mark | Call it co-op egg mark | एगमार्क 1937 |
+| Moisture 14% | FAO safe storage ≤ **14%** | 16 / 18 / 20% | नमी 14% |
+| Cowpea green manure | Highest N% among common options | Pick dhaincha only | लोबिया N% |
+| Fertigation phosphate | Avoid rock / super phosphate in fertigation | “All P fertilisers OK” | फर्टिगेशन P |
+| Coimbatore cane | Sugarcane Breeding Institute | Lucknow only | कोयंबटूर |
+| Pratappur mill | First sugar mill **1903** | Mawana / Balrampur first | प्रतापपुर |
+| Contract farming | Pioneer **Punjab** | Pick Haryana / TN | पंजाब अनुबंध |
 
 ---
 
@@ -112,12 +117,18 @@ India ranks: milk/pulses/jute #1; rice/wheat/cane often #2```
 | Intensive subsistence | Small farms, high labour, rice/wheat |
 | Commercial grain | Market surplus (GR wheat belts) |
 | Plantation | Estate perennial — tea/coffee/rubber (2024 Q34 tea) |
-| Mixed farming | Crops + livestock |
+| Mixed farming | Crops **and** livestock together (not just two crops) |
 | Dairy | Milk commercial |
 | Mediterranean (world) | Winter rain; citrus/olives/vines |
 | Truck farming | Vegetables near cities |
 | Dryland farming | Rainfed low-rain tracts (millets, pulses) |
 | Wetland / irrigated farming | Standing water or assured canal/tube-well (rice, cane) |
+| Contract farming | **Punjab** is the classic pioneer state in India |
+
+- Agriculture still engages about **half or more** of India’s workforce and contributes under **one-fifth** of GVA (Economic Survey framing — lock the direction, not a frozen year).
+- Indian agriculture is marked by over-dependence on nature, low productivity, crop diversity, and **predominance of small holdings** — not large farms.
+- Low productivity locks: population pressure on land, small holdings, traditional practices, and disguised unemployment. **Cooperative farming** is a remedy, not a cause.
+- **Sikkim** has under **10%** land available for agriculture (forest hill state). UP, Punjab and Haryana are major grain states; **UP** often leads total foodgrain volume.
 
 ### Cropping patterns
 
@@ -125,19 +136,26 @@ India ranks: milk/pulses/jute #1; rice/wheat/cane often #2```
 |---------|---------|
 | Mixed cropping | Two+ crops **together** at the same time |
 | Intercropping | Mixed in fixed **row ratios** |
+| **Parallel cropping** | Two crops in parallel rows that do **not** compete hard for nutrients (classic: **wheat + mustard**) |
+| **Double cropping** | Two (or more) crops in **one crop year** on the same land — sequential, not necessarily simultaneous |
 | Crop rotation | Sequential change on the same land |
 | Sequential cropping | One crop after another in the same year on the same field |
 | Relay cropping | Second crop sown **before** the first is harvested |
 | Ratoon cropping | New crop from the **stubble** (classic: sugarcane) |
 | Multiple cropping | More than one crop in a year → raises intensity |
 
+- Do **not** swap double cropping (year sequence) with intercropping (same-time proximity).
+
 - Cropping **pattern** is the share and sequence of crops in a region. Climate, soil, irrigation, markets, technology and MSP all shape it.
 - Pre-1965: rainfed subsistence, coarse cereals and pulses, low yield.
 - GR 1965–90: rice–wheat HYV belts, then **monoculture** and water stress.
 - After 1991: more horticulture, commercial crops and contract farming.
 - Cropping intensity rose from about **111% (1950–51)** to about **156%** now (PMF). Irrigation and HYV made the extra sowings possible.
-- About **86%** of holdings are small or marginal. That caps machines and diversification.
+- About **86%** of holdings are small or marginal (Agriculture Census **2015–16**: small + marginal ≈ **86.2%** of farmers but only about **47%** of operated area). That caps machines and diversification.
+- Holding size lock: **marginal < 1 ha**; small 1–2 ha; semi-medium 2–4 ha; medium 4–10 ha; large **> 10 ha**.
+- Average size of operational holdings is often largest in **Rajasthan** among major states.
 - About **half of NSA** is still rainfed. Groundwater waters about **two-thirds** of the irrigated area.
+- Land-use ballpark (Ministry of Agriculture framing): net sown area about **45–47%**, forest about **23%**, other uses about **30–31%** (closest IAS 2010 option was 47 / 23 / 30).
 - Horticulture output has overtaken foodgrain tonnage in recent years. That is volume, not calorie king.
 - MSP and free power still pull **paddy in Punjab** and **cane in drought Maharashtra**. That is policy, not climate.
 
@@ -185,6 +203,12 @@ Hot + wet (or irrigation). Textbook rank is world’s **2nd** producer after **C
 - **Azolla–Anabaena** fixes nitrogen in flooded fields (2023 Q104).
 - **Golden rice ↔ Vitamin A** (2018 pair correct; ozone–troposphere was the wrong pair).
 - Rice–wheat = NW Green Revolution rotation. The short harvest-to-sow window drives **stubble burning** in PB–HR.
+- **Krishna–Godavari delta** (Andhra Pradesh) is the classic **“Rice Bowl of India”** tag (distinct from the Chhattisgarh plain nickname).
+- **System of Rice Intensification (SRI)** uses alternate wetting and drying. It cuts seed need, methane, and electricity use.
+- Biofertilisers for rice include **blue-green algae**, Azospirillum, phosphobacteria and **Azolla**.
+- Hybrid Basmati lock: **Pusa RH-10**. Transplant seed rate for Basmati is about **15–20 kg/ha**.
+- Variety names often asked: **Jaya, Padma, Hansa, Krishna, Ratna, Barani Deep, Pusa Sugandha**. **Mahi Sugandha** is aromatic rice (not wheat). **Jawala** is **not** a rice variety in the usual exam lists.
+- **Dee-gee-woo-gen** is the rice dwarfing gene (wheat’s is **Norin-10**).
 
 | Belt | States |
 |------|--------|
@@ -192,6 +216,7 @@ Hot + wet (or irrigation). Textbook rank is world’s **2nd** producer after **C
 | Middle Ganga | E-UP, Bihar |
 | Coastal east | Odisha, AP/TG, TN |
 | Irrigated NW | Punjab, Haryana, W-UP |
+| Krishna–Godavari delta | AP — “Rice Bowl of India” |
 | Chhattisgarh plain | “Rice bowl” tag |
 
 ### Wheat
@@ -206,12 +231,24 @@ Hot + wet (or irrigation). Textbook rank is world’s **2nd** producer after **C
 - Core states: **UP, Punjab, Haryana** (+ MP, RJ, Bihar).
 - **Assam–Wheat is wrong** (2022 Q142).
 - HYV semi-dwarf + water + fertiliser = GR surplus in PB–HR–W UP (2022 Q91 both).
+- Dwarfing gene in wheat is **Norin-10**. **Macaroni wheat** (*Triticum durum*) suits **rainfed / dry** conditions.
+- **Triticale** is a hybrid of **wheat and rye**.
+- Wheat diseases: **yellow, brown and black rust**; **Karnal bunt** is fungal (*Tilletia indica*, first noted **1931**).
+- Variety locks: **Sonalika, Arjun, Kalyan Sona, Sonora-64** (induced mutation at IARI), **Raj 3077**, **Pusa Sindhu Ganga (HD 2967)**, **UP-308**.
+- Most critical irrigation stage for wheat is often taught as **CRI (crown root initiation)**, not flowering.
+- **UPAS-120** is a pigeon-pea (arhar) variety suited for **double cropping with wheat**.
 
 ### Maize & millets (nutri-cereals)
 
 - Maize is mostly **kharif**; food + feed + starch; also rabi maize in Bihar pockets.
+- Botanical name **Zea mays**. Called the **“Queen of cereals.”** Used for starch, biodiesel feedstock and alcoholic beverages.
+- **Shaktiman-I** and **Shaktiman-II** are genetically modified / hybrid maize locks.
+- Maturity is often about **90–150 days** (exam options near **110 days** are closest).
+- Maize is a **C4** plant (rice and wheat are C3).
+- Leading producers in recent data often **Karnataka, Madhya Pradesh, Maharashtra**.
 - Millets are rainfed, drought-tolerant, light-soil crops; often mixed with pulses.
 - UN **International Year of Millets = 2023**; GoI brand **Shree Anna**.
+- Millet group lock: sorghum, kodo, kangani, ragi (not moong).
 
 | Crop | State lock | Note |
 |------|------------|------|
@@ -224,14 +261,18 @@ Hot + wet (or irrigation). Textbook rank is world’s **2nd** producer after **C
 - **Rhizobium** N-fixation in root nodules (2019 Q46 = pulses, not rice/wheat/cane).
 - Protein crop that also rebuilds soil fertility.
 - Green Revolution historically neglected pulses vs wheat–rice.
-- India is the world’s **largest** producer — and still a major importer.
+- India is the world’s **largest** producer — and still a major importer (largest consumer and importer among major crops).
+- **Cobalt** is essential for symbiotic nitrogen fixation by Rhizobium (and for vitamin B12 synthesis).
+- Balanced NPK ratios for legumes are often **0:1:1**, **1:2:2** or **1:2:3** — not a cereal-heavy N dose.
+- About **90%** of pulse area is classically rainfed (IAS framing).
+- Variety locks: **Malaviya Chamatkar / Bahar / Amar** (arhar); **Aparna** = leafless pea; **UPAS-120** = arhar for wheat double-crop.
 
 | Pulse | Season | Note |
 |-------|--------|------|
 | Gram / chana | **Rabi** | MP often among leaders |
 | Masoor (lentil) | Rabi | Cool season |
-| Tur / arhar | **Kharif** | Central India |
-| Moong, urad, moth | Kharif | Short-duration; drylands |
+| Tur / arhar | **Kharif** | Central India; red gram origin often tagged **India** |
+| Moong, urad, moth | Kharif | Short-duration; drylands; urad can be kharif and rabi in the south |
 | Peas | Rabi | With wheat belts |
 
 States: MP, RJ, MH, UP, KA. Mixed cropping with millets is common.
@@ -256,6 +297,11 @@ States: MP, RJ, MH, UP, KA. Mixed cropping with millets is common.
 
 - Oilcake feeds dairy (White Revolution link).
 - **Yellow ≠ Golden.**
+- Groundnut is the classic **dryland** oilseed. **Pegging** after flowering pushes the peg into soil — a groundnut-specific lock.
+- Groundnut needs **gypsum**-rich soil for quality pods.
+- Sesame often tops oil-content % among common exam options. **Safflower** = *Carthamus tinctorius*.
+- Mustard varieties: **Varuna, Pusa Bold, Pitambari** (yellow mustard). **Kaushal** = groundnut variety.
+- Soybean area is largest in **Madhya Pradesh**; recent production leadership can flip with **Maharashtra** — read the stem year.
 
 ### Cotton (white gold)
 
@@ -269,6 +315,10 @@ States: MP, RJ, MH, UP, KA. Mixed cropping with millets is common.
 - Staple grades: long / medium / short — Indian crop is mostly **medium**; mills blend staples.
 - **Ahmedabad** lies in a major cotton **region** (raw material true).
 - Traditionally India’s largest cotton-textile **centre** is **Mumbai**, not Ahmedabad (2020 Q58: A false, R true → D).
+- Cotton is indigenous to India (Rigveda / Manusmriti mention). India was first to commercialise **hybrid cotton**.
+- Cotton fibre is obtained from the **seed**.
+- **Khandwa–Khargone** (Madhya Pradesh) is tagged the **“White Gold”** cotton belt. Maharashtra also calls cotton white gold on black soil.
+- Expansion of irrigation made cane more profitable than cotton on parts of the Deccan black-soil belt.
 
 ### Jute (golden fibre) & mesta
 
@@ -295,8 +345,14 @@ Long-duration crop (**~10–18 months**) — not a single short season.
 - **Maharashtra** often leads **yield** + cooperative factories. Cane on a small share of MH land still drinks a huge share of irrigation water.
 - 2019 A/R: both true; coops **do not explain** UP’s lower productivity → **B**.
 - Price = **FRP** (+ possible state SAP) — not cereal MSP.
-- By-products: bagasse, molasses / ethanol.
+- By-products: bagasse, molasses / ethanol. Sugar can also come from **beet**, not cane alone.
 - Philippines cane + coconut credit: **Spanish and Americans** (2023 Q64).
+- **Uttar Pradesh** is the classic **“Sugar Bowl”** of India (quantity). South India often leads **sucrose / productivity** (longer crushing season, frost-free).
+- First sugar mill in India: **Pratappur** (Deoria, UP), **1903**.
+- Sugarcane breeding HQ: **Sugarcane Breeding Institute, Coimbatore** (1912; under ICAR). Variety lock: **Co. 1148**.
+- **Adsali** cane (Maharashtra low-rain belt) takes about **16–18 months**.
+- **Sustainable Sugarcane Initiative (SSI)** (WWF–ICRISAT, **2009**): fewer seeds, nursery seedlings, wider spacing, drip-friendly, more intercropping scope — it does **not** ban all chemical fertiliser.
+- Sugarcane is the **least water-efficient** among common IAS crop options (vs pearl millet / red gram / sunflower).
 
 ### Tea · Coffee · Rubber · Spices
 
@@ -311,6 +367,11 @@ Long-duration crop (**~10–18 months**) — not a single short season.
 
 - Tea process: **CTC** (Crush–Tear–Curl) = bulk everyday tea; **orthodox** = premium leaf.
 - Tea likes acidic, well-drained hill soils.
+- Tea is often nicknamed **Green Gold**. Origin lore tags the **Yunnan** plateau of South China.
+- Coffee was first grown in India in **Chikkamagaluru** (Karnataka). Coffee is propagated by **seeds**; tea mainly by **stem cuttings**.
+- Kerala is the classic **“Garden of Spices.”** Black pepper is **black gold / black diamond**. **Clove** = flower bud of *Eugenia caryophyllata*.
+- Board HQ locks: **Coffee Board — Bengaluru**; **Tea Board — Kolkata**; **Rubber Board — Kottayam**; **Tobacco Board — Guntur**; **Spices Board — Kochi**.
+- **National Horticulture Board** was set up in **1984** (HQ **Gurugram**).
 
 | Coffee species | Lock |
 |----------------|------|
@@ -320,7 +381,12 @@ Long-duration crop (**~10–18 months**) — not a single short season.
 - World coffee (2018 PYQ, 2016 data): **Brazil > Vietnam > Colombia > Indonesia**.
 - Cocoa majors: Ivory Coast, Ghana, Cameroon — **Latvia NOT** (2021).
 - Philippines cane + coconut = Spanish & Americans (2023).
----
+- Tobacco leadership has shifted toward **Gujarat** in recent data (older stems often said Andhra Pradesh).
+- Coconut leadership: **Kerala** remains the classic lock (Karnataka close in recent years).
+- Cashew: **Maharashtra** often leads among states.
+- Saffron commercial production: **Jammu & Kashmir** (Zafran).
+- **Guar (cluster bean)** gum is used in **shale-gas / hydraulic fracturing**; India–Pakistan dominate world production.
+- Sericulture lock (often asked with plantation crops): India is usually world **#2** after China. **Mulberry** silk leadership = **Karnataka**; **muga** and **eri** leadership = **Assam**; **tropical tasar** leadership = **Jharkhand**; **oak tasar** = **Manipur**.
 
 ## N.4 Fruits, Potato, GI
 
@@ -332,7 +398,12 @@ Long-duration crop (**~10–18 months**) — not a single short season.
 - **Guava varieties:** Sultana, Gulabi, Kali Champa (2018) — **not grapes**.
 - **Potato:** UP is the **leading producer**.
 - CIP South Asia Regional Centre is at **Singna, Agra** — **not Aligarh** (2025 Q34 Only 1).
+- Best processing potato locks: **Kufri Chipsona-2** / Chipsona-3 (plains); **Kufri Himsona** (hills).
+- Mango locks: **Sindhu** = seedless; **Amrapali** = Dasheri × Neelam hybrid (IARI, 1971).
+- **Kanchan / Krishna / Banarasi** = improved amla (Indian gooseberry). **Lalit** = guava.
+- Ginger storage organ = **rhizome**.
 - Golden Revolution = horticulture **and honey**.
+- **Arunachal Pradesh** is the classic low-cost orchid / export-horticulture climate lock.
 
 | GI / variety | Place |
 |--------------|-------|
@@ -381,6 +452,20 @@ Three **number** locks — do not mix:
 
 - One state can sit in **multiple** zones.
 - Western Dry ≠ West Coast Ghats.
+- Trap stem: “India has 20 agro-climatic and 15 agro-ecological regions” — **both counts swapped** → whole statement set false (CGPCS-type).
+- **P. Sengupta and G. Sdasyuk (1968)** divided India into **60** micro agricultural regions (Registrar General monograph).
+
+### Agro-ecological regions (NBSS&LUP ≈ 20)
+
+Grouped by ecosystem (exam needs the **count** and the **15 vs 20** swap trap more than every name):
+
+| Ecosystem | Example AER tags |
+|-----------|------------------|
+| Arid | Western Himalayas cold arid; Western Plain–Kachchh; Deccan Plateau arid |
+| Semi-arid | Upper / Middle Ganga plains; Rajasthan–Gujarat plains; Deccan red–black / red sandy |
+| Sub-humid | Eastern Plateau (Satpura–Mahanadi, Bundelkhand, red–laterite); Lower Ganga; warm W Himalaya; Bengal Basin |
+| Humid–perhumid | Assam–N Bengal plains; Eastern Himalayas; Purvanchal hills |
+| Coastal | Eastern Coastal Plains + A&N; Western Ghats coastal plains and hills |
 
 **PYQ — UPPCS Prelims 2022, Q142**
 
@@ -426,21 +511,59 @@ CAD develops the **command** of an existing project (channels, drainage, waraban
 **CADWM pack:** field channels, land levelling, **warabandi** (roster turns), drainage, farmer organisations.
 
 - Over-irrigation without drainage → saline / alkaline usar. IGC is the desert example.
+- **Uttar Pradesh** is the classic richest state in **replenishable groundwater** among major exam options (dynamic GW resources framing).
+- Zero / reduced tillage, gypsum before irrigation, and leaving crop residue on the field all help **water conservation** in agriculture.
 
 ---
 
-## N.7 Seeds, ICAR, Universities, Pests
+## N.7 Seeds, ICAR, Universities, Pests & Practices
 
 - **ICAR** (HQ **New Delhi**) = apex research + agri education.
 - **IARI Pusa** = flagship institute.
 - **CACP** sets price advice — never swap with ICAR.
 - Seed purity downhill: **Breeder → Foundation → Certified**.
+- Tag colours: Breeder **golden yellow**; Foundation **white**; Certified **blue**.
 - **KVK** = district farm-science centre.
-- GR-era SAUs: **Pantnagar, PAU Ludhiana, HAU Hisar**; UP: CSAUAT Kanpur / SVPUAT Meerut.
+- India’s **first agricultural university** is **G.B. Pant University of Agriculture and Technology, Pantnagar** (opened as Uttar Pradesh Agricultural University; inaugurated by **Jawaharlal Nehru** on **17 November 1960**).
+- Other GR-era SAUs: **PAU Ludhiana, HAU Hisar**; UP: CSAUAT Kanpur / SVPUAT Meerut.
+- **‘History of Indian Agriculture’** is by **M.S. Randhawa** (Mohinder Singh Randhawa) — not Swaminathan.
+- FAO lock: for safe grain storage, moisture should not exceed about **14%**.
+- **Agmark** = quality certification under the **Agricultural Produce (Grading and Marking) Act, 1937**.
+- **Seed Village Concept** = trained farmer groups produce quality seed for self-use and neighbours at the right time and affordable cost (not “ban buying seed” and not “only certified-seed villages”).
+- Seed Replacement Rate constraint: demand–supply gap for quality seed in **low-value, high-volume** crops. India **does** have a National Seeds Policy (**2002**). Private firms are active in high-value vegetable / horti seed.
+- **Zero Till Seed-cum-Fertilizer Drill** was developed at **G.B. Pant University, Pantnagar**.
+- **Borlaug Award** = agricultural science (named after Norman Borlaug; from **1972**).
+
+### Green manure, nutrients, fertigation
+
+- Green manure: grow plants such as **sunhemp / sanai, dhaincha, guar, lobia (cowpea)** and plough them in before the main crop.
+- Nitrogen % often taught: cowpea about **0.49%** (highest among common options), sunhemp **0.43%**, dhaincha **0.42%**, guar **0.34%**. Sunhemp often returns the **maximum kg N/ha**.
+- **Lobia** is preferred green manure on newly improved **arid** land.
+- Balanced fertilisers raise production, improve grain quality, and maintain soil productivity.
+- Fertiliser **intensity (kg/ha)** leaders: **Punjab / Haryana** (Puducherry often highest among UTs). Fertiliser **total tonnage** leader: **Uttar Pradesh**.
+- **Fertigation** = fertiliser dissolved in irrigation water (usually drip). It can raise nutrient availability and cut leaching. **Rock phosphate / superphosphate** is a poor fertigation choice (precipitation). Controlling irrigation-water alkalinity is a taught advantage.
+- **Permaculture** discourages monoculture, stresses mulching, and resists salinity buildup better than chemical monoculture. It **is** workable in semi-arid settings — the false IAS statement is that it is “not easily possible” there.
+- **Zero tillage** allows wheat sowing without burning previous residue, supports direct-seeded rice logic, and aids carbon sequestration.
+- **Conservation agriculture** core: minimum / zero tillage, residue mulch on the soil, and crop rotation / sequencing — **not** “ban plantation crops.”
+- Eco-friendly practice set in IAS stems: crop diversification, legume intensification, **tensiometer** use, and **vertical farming**.
+- **Green agriculture** (UPPCS wording) = integrated pest management + integrated nutrient supply + integrated natural resource management.
+
+### Schemes (practice lock)
+
+| Scheme | Lock |
+|--------|------|
+| Soil Health Card | Soil fertility / balanced nutrient advice |
+| PMKSY (incl. more crop per drop) | Irrigation access / water efficiency |
+| **PKVY** (Paramparagat Krishi Vikas Yojana) | Organic / traditional farming clusters |
+| Kisan Credit Card | Crop credit via commercial, cooperative and RRBs |
+| e-NAM / national agri market push | Better price discovery |
+| NFSM | Rice, wheat, pulses (later oilseeds / millets) productivity |
+
 - **IPM** = cultural + biological + chemical — not calendar spray alone.
 - Bt cotton targets bollworm.
 - Azolla = biofertiliser, not insecticide.
 - 2025 Delhi **bio-decomposer**: free to farmers; fungal mix turns stubble to manure (2025 Q10 **both**).
+- Herbicide lock: **Butachlor** (vs chlorpyrifos / quinalphos as insecticides; carbendazim as fungicide). First widely used herbicide often tagged **2,4-D**.
 
 | Disease / problem | Cause (2022 Q21) |
 |-------------------|------------------|
@@ -448,24 +571,40 @@ CAD develops the **command** of an existing project (channels, drainage, waraban
 | Red rot of sugarcane | **Fungus** |
 | Potato “Krishnakant” | **O₂ deficiency** |
 | Wheat “Sahu” | **Insect** |
+| Wheat Karnal bunt | Fungus (*Tilletia indica*) |
+| Wheat rusts | Yellow / brown / black |
+| Paddy Khaira | Zn deficiency (ZnSO₄ spray) |
+| Potato late blight | Classic potato disease |
+| Arhar wilt | Wilt disease |
 
 ---
 
 ## N.8 Animal Husbandry
 
-- India = world’s largest **milk** producer by volume.
+- India = world’s largest **milk** producer by volume (about one-fourth of world milk in recent FAOSTAT framing).
 - Buffalo are important in the north (higher fat).
 - **White Revolution:** **Verghese Kurien**, **Operation Flood**, **NDDB**, **Amul / Anand** cooperatives.
-- Textbook phases: **I 1970–81** (milk grids / coops) → **II 1981–85** (expand dairies) → **III 1985–96** (consolidate).
+- Textbook phases: **I 1970–81** (milk grids / coops) → **II 1981–85** (expand dairies) → **III 1985–96** (consolidate). White Revolution launch often tagged **July 1970**.
+- **Indian Dairy Corporation** was set up at **Anand (Gujarat)** in **1970**. **NDDB** was established in **1965**. **NDRI** is at **Karnal** (Deemed University from 1989).
 - **Silver Revolution** = eggs / poultry.
-- **Blue Revolution** = fisheries / aquaculture (**Hiralal Chaudhuri** often tagged).
+- **Blue Revolution** = fisheries / aquaculture (**Hiralal Chaudhuri** often tagged). Recent inland + marine fish leadership often with **Andhra Pradesh**.
+- Milch vs drought cattle: milch cows give more milk but weaker draft (Gir, Sahiwal, Red Sindhi, Tharparkar). Drought breeds work better as draft (Nagauri, Hallikar, Kangayam, Khillari).
+- **Tharparkar** is a Rajasthan border-region cattle breed. **Hallikar** is Karnataka — not a Rajasthan breed.
+- Goat is the “poor man’s cow.” **Jamunapari** is India’s classic high-milk goat.
 
 | Breed | Animal | Tag |
 |-------|--------|-----|
 | Murrah | Buffalo | Haryana / high yield |
+| Bhadawari | Buffalo | UP / Bundelkhand lore |
 | Gir | Cattle | Gujarat |
-| Sahiwal | Cattle | Punjab-region lore |
-| Jamunapari | Goat | UP fame |
+| Sahiwal | Cattle | Punjab-region lore; high milk |
+| Tharparkar | Cattle | Western Rajasthan border |
+| Deoni | Cattle | Dual-purpose |
+| Jamunapari | Goat | UP fame; high milk |
+| Barbari / Beetal | Goat | Other exam breeds |
+
+- 20th Livestock Census (**2019**): cattle about **193 million**. Top cattle states often **West Bengal, UP, Madhya Pradesh**. Top total livestock often **UP > Rajasthan > MP**. Top sheep often **Telangana**.
+- UP usually leads state milk production; Rajasthan and Madhya Pradesh follow in recent years.
 
 ---
 
@@ -473,12 +612,13 @@ CAD develops the **command** of an existing project (channels, drainage, waraban
 
 | System | Core | Where / tool |
 |--------|------|--------------|
-| **Jhum** (shifting) | Slash-burn, 1–3 yr crop, then fallow | **NE** (jhum); **podu** (AP/Odisha); **bewar** (MP); **dahiya** (CG); **kumri** (W Ghats) |
-| **Organic** | No synthetic agrochemicals (standards) | Compost, rotation, Azolla, Rhizobium; **Sikkim** = first fully organic state |
+| **Jhum** (shifting) | Slash-burn, 1–3 yr crop, then fallow | **NE** (jhum); **podu / penda** (AP/Odisha); **bewar / dahiya / mashan** (MP–CG); **kumari** (W Ghats); **waltre** (SE Rajasthan); **poonam** (Kerala); **kuruwa** (Jharkhand); **khil** (Himalayan belt) |
+| **Organic** | No synthetic agrochemicals (standards) | Compost, rotation, Azolla, Rhizobium; **Sikkim** = first fully organic state (declared **2016**) |
 | **Precision** | Site-specific inputs | GIS / GPS / sensors / drones — not “stop irrigation” |
 
 - Short fallows → erosion + forest damage.
 - Organic ≠ “any traditional practice” automatically.
+- NPOP is implemented with **APEDA** as secretariat — not the Ministry of Rural Development as the operator.
 
 ---
 
@@ -523,11 +663,16 @@ D. Ministry of Finance
 
 - Heartland: **Punjab, Haryana, western UP**.
 - Started as a **wheat** revolution, then expanded to rice. Some notes also tag maize, soybean and cane yield jumps.
-- Classic HYVs: Mexican wheat **Lerma Rojo / Sonora 64**; rice **IR-8** (IRRI).
-- Gains: yield surge, surplus, exit from PL-480 dependence.
-- Costs: regional inequality, **groundwater** crash, nutrient mining, millet / pulse neglect, rice–wheat **monoculture**, stubble burning.
+- Classic HYVs: Mexican wheat **Lerma Rojo / Sonora 64** from **CIMMYT**; rice **IR-8** (IRRI). Rockefeller Foundation support is a taught funding tag.
+- Phasing often taught: first stage about **1966–1981**, second **1981–1995**, third from **1995** outward.
+- Gains: yield surge, surplus, exit from PL-480 dependence. Wheat gained most in production and productivity; rice next.
+- Costs: regional inequality, **groundwater** crash, nutrient mining, millet / pulse neglect, rice–wheat **monoculture**, stubble burning. Social and environmental costs are real — do not treat “no cost” as true.
+- Dry-zone A/R: dry India is agrarian (**A true**); it has second-GR potential with irrigation (**R true**) but R does **not** explain A → **B**.
+- Second Green Revolution aims: extend seed–water–fertiliser to left-out areas and integrate crops with animal husbandry, social forestry and fishing — not only more wheat–rice in already-benefited belts.
 - **BGREI** (Bringing Green Revolution to Eastern India) sits under RKVY. It targets **rice-based** systems in the east and unused water, not a second Punjab in the desert.
-- **Evergreen Revolution** (Swaminathan) = high productivity **without** ecological harm.
+- **Evergreen Revolution** (Swaminathan) = high productivity **without** ecological harm. Steps taught: biofertiliser/compost with chemicals, rainwater harvesting, agri-economic zones and contract farming.
+- **Rainbow Revolution** entered the **National Agricultural Policy (28 July 2000)** as an integrated colour-revolution package.
+- National Zero Till Seed-cum-Fertilizer Drill → Pantnagar (links GR residue management to zero tillage).
 
 | Person | Lock |
 |--------|------|
@@ -561,45 +706,21 @@ D. Ministry of Finance
 
 | Theme | Lock |
 |-------|------|
-| Sugarcane | Quantity leader often; productivity < MH |
+| Sugarcane | Quantity leader often; productivity < MH; Sugar Bowl tag |
 | Wheat–rice | Western UP GR (Upper Gangetic / Zone 5) |
 | Potato | Leading producer; CIP **Agra** not Aligarh |
-| Mango | Dasheri / Langra |
-| Dairy | Large bovine base; Jamunapari goat |
+| Mango | Dasheri / Langra; Amrapali hybrid |
+| Dairy | Large bovine base; Jamunapari goat; top milk state |
+| Mentha oil | UP is the classic near-total producer lock |
 | Not | Jute / tea / rubber leader |
-| SAU | Kanpur / Meerut |
-
----
-
-## Consolidated — 20 Must-Score Locks
-
-1. Intensity = **GCA/NSA × 100** (~111% → ~156%). ~86% holdings small/marginal. Wheat = rabi; cotton/rice = kharif.
-2. Rice: hot-wet, clayey, Azolla; Aus/Aman/Boro; DSR/AWD save water; WB volume / Punjab yield; Golden rice = Vit A. Textbook rank **#2 China** unless the stem is the 2024–25 #1 claim.
-3. Wheat: cool grow / bright ripen; two belts (Ganga–Satluj + Deccan black); Assam–Wheat wrong.
-4. Jowar=MH; Bajra=RJ; Ragi=KA. IYM 2023 = Shree Anna. Pulses fix N (2019).
-5. GN=GJ; Mustard=RJ; Soy=MP. Yellow = oilseeds.
-6. Cotton = white gold; 210 frost-free; 6–8 months; ~2/3 rainfed; 3 zones; hates waterlogging; Mumbai ≠ Ahmedabad mill capital.
-7. Jute = golden fibre; WB + retting; UP–Jute wrong.
-8. Cane: UP quantity / MH productivity; frost+loo hurt north; ratoon; FRP; 2019 R does not explain A.
-9. Tea = plantation. Coffee KA. Rubber **Kerala**. Pepper+cardamom **Kerala**.
-10. Potato UP; CIP **Agra**. Guava: Sultana/Gulabi/Kali Champa.
-11. ACZ **15** / NARP **~127** / AER **~20**.
-12. Canal = clayey plains; tank = peninsula; **lift** = irregular south canals; drip = efficiency; CAD = command, not new dam.
-13. ICAR Delhi; IARI Pusa; seed **Breeder→Foundation→Certified**.
-14. Red rot = fungus; citrus canker = bacteria (2022).
-15. CACP recommends MSP; Cabinet decides (2024). 22 crops.
-16. GR = HYV+water+fert (Lerma Rojo / Sonora 64 / IR-8); PB–HR–W UP; costs = GW + monoculture; **BGREI** = east rice; Borlaug = **Peace**.
-17. Kurien = White/Flood/NDDB. Swaminathan ≠ milk. Sikkim = first organic state.
-18. Golden=horti+honey; Grey=fertiliser; Yellow=oilseed; Black=petroleum.
-19. Jhum = NE (+podu/bewar/dahiya/kumri). Precision = site-specific.
-20. Sen = entitlements (2025). Bio-decomposer = free fungal stubble spray (2025).
+| SAU | **Pantnagar (first, 1960)**; Kanpur / Meerut |
 
 ---
 
 ## Practice Zone — UPPCS Format Questions
 
 > **Answers hidden** — click *Show answer* under each question to reveal.  
-> **Format mix:** 65 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (UPPCS Prelims style)
+> **Format mix:** 78 questions — multi-statement | Assertion–Reason | Match List | NOT correctly matched | direct recall (UPPCS Prelims style)
 
 **Q1.** Cropping intensity is correctly expressed as:
 
@@ -1810,6 +1931,167 @@ D. (A) is false, but (R) is true
 
 </details>
 
+**Q71.** Who wrote *History of Indian Agriculture*?
+
+A. M.S. Swaminathan
+
+B. S. Ayyappan
+
+C. K.B. Thomas
+
+D. M.S. Randhawa
+
+**Exam logic:** Author lock vs “Father of Green Revolution” name trap.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** **M.S. Randhawa** (Mohinder Singh Randhawa) wrote *History of Indian Agriculture*. Swaminathan is the Green / Evergreen face, not this book’s author.
+
+</details>
+
+**Q72.** The first agricultural university of India was established in:
+
+A. 1950
+
+B. 1960
+
+C. 1970
+
+D. 1980
+
+**Exam logic:** Year lock for Pantnagar / GBPUAT inauguration.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Opened in **1960** at Pantnagar as Uttar Pradesh Agricultural University; inaugurated by Nehru on **17 November 1960**; later renamed G.B. Pant University of Agriculture and Technology.
+
+</details>
+
+**Q73.** With reference to agro-regions of India, consider the following statements:
+
+1. Planning Commission agro-climatic zones number 15.
+2. NBSS&LUP agro-ecological regions number 20.
+3. Sengupta and Sdasyuk (1968) micro agricultural regions number 60.
+
+Select the correct answer using the code given below:
+
+A. 1 and 2 only
+
+B. 2 and 3 only
+
+C. 1 and 3 only
+
+D. 1, 2 and 3
+
+**Exam logic:** Three number systems — do not swap 15 and 20.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** ACZ **15**, AER **20**, Sengupta–Sdasyuk micro regions **60**. Trap stems swap 15 and 20.
+
+</details>
+
+**Q74.** Agmark is:
+
+A. A cooperative for egg marketing
+
+B. A farmers’ cooperative federation
+
+C. A regulated egg market
+
+D. A quality certification mark for agricultural produce
+
+**Exam logic:** Agmark = grading mark under the 1937 Act, not a co-op body.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: D.** Agmark is the government quality mark under the **Agricultural Produce (Grading and Marking) Act, 1937**.
+
+</details>
+
+**Q75.** Which green manure crop has the highest nitrogen content among the following?
+
+A. Dhaincha
+
+B. Sunhemp
+
+C. Cowpea
+
+D. Guar
+
+**Exam logic:** Percentage N lock among common green manures.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: C.** Cowpea is taught at about **0.49%** N; sunhemp ~0.43%, dhaincha ~0.42%, guar ~0.34%. Sunhemp may still return the highest **kg N/ha**.
+
+</details>
+
+**Q76.** Which one of the following is the pathway associated with the Seed Village Concept?
+
+A. Farmers must use only farm-saved seed and never buy seed
+
+B. Trained farmers produce quality seed for self-use and neighbours at the right time and affordable cost
+
+C. Whole villages are reserved only for certified-seed companies
+
+D. Only urban entrepreneurs get seed-company finance
+
+**Exam logic:** Seed Village = farmer training + local affordable seed supply.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** The concept trains village groups to produce and supply quality seed locally — not a ban on purchase and not a company-only village.
+
+</details>
+
+**Q77.** Match List-I with List-II and select the correct answer:
+
+| List-I (Board) | List-II (Headquarters) |
+|----------------|------------------------|
+| A. Coffee Board | 1. Kottayam |
+| B. Rubber Board | 2. Bengaluru |
+| C. Tea Board | 3. Guntur |
+| D. Tobacco Board | 4. Kolkata |
+
+*Row order is not the answer code.*
+
+A. A-2, B-1, C-4, D-3
+
+B. A-1, B-2, C-4, D-3
+
+C. A-2, B-4, C-1, D-3
+
+D. A-4, B-1, C-2, D-3
+
+**Exam logic:** Board HQ pairs; Coffee is Bengaluru, not Hyderabad.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: A.** Coffee → Bengaluru; Rubber → Kottayam; Tea → Kolkata; Tobacco → Guntur. Trap: Coffee Board–Hyderabad.
+
+</details>
+
+**Q78.** Assertion (A): Punjab is the pioneer state for contract farming in India.
+
+Reason (R): Sikkim has less than 10% of its land available for agriculture.
+
+**A/R logic:** A tests contract-farming pioneer; R tests Sikkim land-use; both true but R does not explain A.
+
+<details>
+<summary>Show answer</summary>
+
+**Ans: B.** Both true, but R is not the explanation of A. Punjab = contract farming pioneer; Sikkim = forest hill state with under 10% cultivable share.
+
+</details>
+
 ---
 
 ## Complete PYQ Bank — Agriculture (2018–2025)
@@ -2308,3 +2590,15 @@ D. Only 1
 20. **Punjab is always India’s largest rice producer** — FALSE. It is the **yield** king; **West Bengal** often leads **volume**.
 21. **DSR needs more standing water than transplanting** — FALSE. DSR is the **water-saving** method.
 22. **BGREI is a Punjab second Green Revolution** — FALSE. It is an **eastern** rice-system programme.
+23. **India has 20 agro-climatic and 15 agro-ecological regions** — FALSE. Counts are **swapped** (ACZ 15; AER 20).
+24. **First agri university = 1950 / Ludhiana** — FALSE. **Pantnagar, 1960** (later GBPUAT).
+25. **History of Indian Agriculture = Swaminathan** — FALSE. Author is **M.S. Randhawa**.
+26. **Mixed farming = two crops only** — FALSE. Mixed farming = crops **plus livestock**.
+27. **Double cropping = two crops at the same time** — FALSE. That is closer to inter / parallel cropping; double = two crops in **one year**.
+28. **Agmark = egg co-op** — FALSE. It is a **1937** quality grading mark.
+29. **Fertigation works best with rock phosphate** — FALSE. Avoid rock / super phosphate (precipitation).
+30. **Blue Revolution = poultry** — FALSE. Blue = **fisheries / pisciculture**.
+31. **Sugarcane breeding HQ = Lucknow only** — FALSE. Classic breeding institute lock is **Coimbatore**.
+32. **Coffee Board HQ = Hyderabad** — FALSE. **Bengaluru**.
+33. **Contract farming pioneer = Haryana** — FALSE. Classic lock is **Punjab**.
+34. **FAO safe grain moisture = 18%** — FALSE. About **14%**.
