@@ -24,7 +24,7 @@
 LAKE TYPE FIRST: lagoon | inland saline | freshwater | crater | glacial | oxbow | artificial
  Origin (PMF): tectonic (Wular) | rift | glacial (Ladakh/HP tarns) | oxbow (Ganga/Kabartal) | lagoon (Chilika) | crater (Lonar) | wind/playa (Sambhar belt) | landslide-dun | man-made
  Chilika = largest EAST-COAST LAGOON (Odisha / N. Circars); often "largest saline" if stem omits "inland" (2021 Q74, Q144)
- Pulicat = 2nd brackish (AP–TN; Sriharikota bar) | Vembanad = Kerala kayal/backwater | Kolleru = freshwater ≠ lagoon
+ Pulicat = 2nd brackish (AP–TN; Sriharikota bar) | Vembanad = Kerala largest + India LONGEST; WEST coast kayal/Ramsar | Kolleru = freshwater ≠ lagoon
  Sambhar = largest INLAND saline (RJ) | Didwana/Kuchaman/Sargol/Khatu = RJ saline set
  Wular = largest freshwater volume lock (J&K, Jhelum) | Dal = tourism | Roopkund = Mystery/Skeleton (UK)
  Loktak = Manipur; phumdis; Keibul Lamjao + Sangai | Kabartal = Bihar oxbow Ramsar
@@ -59,6 +59,7 @@ BHUTAN: Chukha, Tala, Kurichhu, Mangdechhu/Mungdechhu (2019 Q115 Modi inaugurati
 | Pair | Right lock | Trap | Hindi |
 |------|------------|------|-------|
 | Chilika vs Sambhar | Chilika = lagoon / often “largest saline”; Sambhar = **inland** saline | Pick Sambhar whenever “saline” appears | चिल्का = तटीय; सांभर = अंतर्देशीय खारा |
+| Chilika vs Vembanad | Chilika = largest **east-coast lagoon**; Vembanad = Kerala largest + India **longest**, **west coast** | Call Vembanad India’s overall largest lake | वेम्बनाड = सबसे लंबा, पश्चिम |
 | Chilika vs Pulicat vs Kolleru | Chilika largest E-coast lagoon; Pulicat 2nd; Kolleru freshwater | Kolleru as lagoon king | कोलेरू = मीठा, लैगून नहीं |
 | Wular vs Dal vs Loktak | Wular size king; Dal tourism; Loktak = Keibul Lamjao | Keibul on Wular/Dal | लोकटक = मणिपुर, केइबुल लामजाओ |
 | Kunchikal vs Jog | Kunchikal = UPPCS highest; Jog = famous / **width** | Jog = highest | कुंचिकल ऊँचा; जोग चौड़ा |
@@ -199,7 +200,10 @@ Ask: *How was the hollow made?*
 - Chilika is **not** on the west coast and **not** a Rajasthan salt lake.
 - **Pulicat** straddles Andhra Pradesh and Tamil Nadu. It is the second-largest brackish / lagoon water body after Chilika.
 - **Sriharikota** bars Pulicat from the Bay of Bengal. The Satish Dhawan space centre sits on that spit.
-- **Vembanad** is Kerala’s longest / largest backwater lagoon and a Ramsar site. The Nehru Trophy boat race is the tourism lock.
+- **Vembanad** (also Vembanad Kayal / Vembanad–Kol) lies on Kerala’s **west coast** (Malabar / southwest coast), separated from the Laccadive Sea by a narrow barrier. It borders **Alappuzha, Kottayam, and Ernakulam**.
+- It is the **largest lake in Kerala** and the **longest lake in India** (~96 km). Do **not** call it India’s overall largest lake — that crown splits by type (Chilika = lagoon / often largest saline; Wular = freshwater volume).
+- The wider **Vembanad–Kol wetland** is often called India’s largest wetland system on the southwest coast and a major **brackish** tropical wetland. It is a **Ramsar** site (2002).
+- It is a **kayal** (Kerala backwater / lagoon-type water body), not an inland desert lake. The Nehru Trophy boat race and Kumarakom tourism belt are the culture locks.
 - **Ashtamudi** (“eight branches”) is a palm-shaped Kerala backwater Ramsar site in Kollam.
 - **Sasthamkotta** is Kerala’s largest **freshwater** lake (not Tamil Nadu — UPSC 2022 trap).
 - **Kolleru** sits inland between the Godavari and Krishna deltas. Emergence left it freshwater. Do not crown it the lagoon king. Some papers treat it as India’s largest freshwater lake **by area**; **Wular** remains the usual **volume / overall freshwater** lock.
@@ -610,7 +614,7 @@ D. Only 1
 4. Lonar = **meteorite crater**, Maharashtra, not a volcanic caldera.
 5. Loktak = Manipur; **Keibul Lamjao** + Sangai (2022 Q73).
 6. Pulicat 2nd lagoon; Kolleru **freshwater**, not lagoon king.
-7. Kabartal = Bihar oxbow Ramsar. Vembanad = longest Kerala backwater.
+7. Kabartal = Bihar oxbow Ramsar. **Vembanad** = largest in Kerala + **longest in India**; **west-coast** kayal / Ramsar (not India’s overall largest lake).
 8. Onega = **Russia**, not Canada (2023 Q66).
 9. Rudrasagar = Tripura; Sultanpur = Haryana — **not UP** (2025 Q58).
 10. Kunchikal (**Varahi**, KA) = UPPCS **highest** key; Nohkalikai = tallest **plunge**; Jog (**Sharavati**) = famous / **width**, not tallest (2018 Q24).
@@ -1115,8 +1119,8 @@ D. Madhya Pradesh
 
 **Q27.** Which of the following statements about Vembanad Lake is/are correct?
 
-1. It is located in Kerala.
-2. It is among India's longest lakes / backwater systems.
+1. It lies on the west coast of India in Kerala.
+2. It is the longest lake in India and the largest lake in Kerala.
 3. It is an inland saline desert lake like Sambhar.
 
 A. 1 and 2 only
@@ -1130,7 +1134,9 @@ D. 1, 2 and 3
 <details>
 <summary>Show answer</summary>
 
-**Ans: A** — (3) false: Vembanad is a coastal backwater/lagoon system, not Rajasthan inland salt lake.
+**Exam logic:** West-coast kayal vs inland saline; longest-in-India ≠ overall largest lake of every type.
+
+**Ans: A** — (1) and (2) true. (3) false: Vembanad is a **west-coast** brackish backwater / kayal (Ramsar), not a Rajasthan inland salt lake. Chilika/Wular remain type-wise size kings for lagoon/freshwater stems.
 </details>
 
 **Q28.** Match the following:
